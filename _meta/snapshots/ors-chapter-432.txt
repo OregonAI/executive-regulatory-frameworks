@@ -1,0 +1,4531 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+432 — Vital Statistics 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ VITAL STATISTICS 
+
+   
+
+ PUBLIC HEALTH AND SAFETY 
+
+   
+
+ SYSTEM OF VITAL STATISTICS 
+
+   
+
+ 432.005     Definitions 
+
+   
+
+ 432.010     Center for Health
+Statistics; standards 
+
+   
+
+ 432.015     Rules 
+
+   
+
+ 432.020     State registrar;
+appointment 
+
+   
+
+ 432.025     Assistant state
+registrars 
+
+   
+
+ 432.030     Duties of state
+registrar 
+
+   
+
+ 432.033     Duties of state
+registrar related to confidentiality and security 
+
+   
+
+ 432.035     County registrars 
+
+   
+
+ REPORTS 
+
+   
+
+ (Generally) 
+
+   
+
+ 432.075     Duty to report
+information to state registrar; immunity 
+
+   
+
+ (Keeping of Information Necessary to
+Submit Reports) 
+
+   
+
+ 432.083     Requirements for
+institutions, health care practitioners and persons who transport dead bodies 
+
+   
+
+ (Reports of Live Birth) 
+
+   
+
+ 432.088     Mandatory submission
+and registration of reports of live birth; persons required to report; rules 
+
+   
+
+ 432.093     Availability of
+voluntary acknowledgment of paternity form; responsibility of health care
+facility and parents 
+
+   
+
+ 432.098     Voluntary
+acknowledgment of parentage form; rules; fees 
+
+   
+
+ 432.103     Full faith and credit 
+
+   
+
+ 432.108     Report of live birth
+for child of unknown parentage 
+
+   
+
+ 432.113     Delayed reports of live
+birth; rules 
+
+   
+
+ 432.118     Procedure for
+contesting refusal to register report of live birth or delayed report of live
+birth; rules 
+
+   
+
+ (Reports of Death and Fetal Death) 
+
+   
+
+ 432.133     Mandatory submission
+and registration of reports of death; persons required to report 
+
+   
+
+ 432.138     Court orders for
+records of death 
+
+   
+
+ 432.141     Annual reporting of
+opiate and opioid overdoses 
+
+   
+
+ 432.143     Mandatory submission
+and registration of reports of fetal death; persons required to report; rules 
+
+   
+
+ 432.148     Commemorative
+Certificate of Stillbirth; rules 
+
+   
+
+ 432.153     Status of reports under
+ORS 435.496; rules 
+
+   
+
+ 432.158     Disposition of remains;
+rules 
+
+   
+
+ 432.163     Extensions for
+submitting reports of death or fetal death 
+
+   
+
+ (Reports of Marriage, Domestic
+Partnership, Dissolution of Marriage and Dissolution of Domestic Partnership) 
+
+   
+
+ 432.173     Mandatory submission
+and registration of reports of marriage and reports of domestic partnership;
+persons required to report 
+
+   
+
+ 432.178     Delayed report of
+marriage 
+
+   
+
+ 432.183     Mandatory submission
+and registration of reports of dissolution of marriage and reports of
+dissolution of domestic partnership; clerk of court to submit; rules 
+
+   
+
+ (Reports Related to Adoption) 
+
+   
+
+ 432.223     Reports of adoption;
+reports of amendments or annulments to judgment of adoption; persons required
+to report; rules 
+
+   
+
+ 432.228     Issuance of certified
+copy of record of live birth to adopted persons; Contact Preference Form 
+
+   
+
+ AMENDMENTS TO VITAL RECORDS 
+
+   
+
+ 432.235     Requirements for
+amending or correcting vital record 
+
+   
+
+ 432.245     Replacing records of
+live birth; restoring records of live birth 
+
+   
+
+ 432.250     Access to adoption
+records 
+
+   
+
+ 432.253     Adding or changing
+genetic parent on original record of live birth; rules; fees 
+
+   
+
+ PRESERVATION OF VITAL RECORDS 
+
+   
+
+ 432.295     Preservation program;
+reproductions of vital records; availability; rules 
+
+   
+
+ EXEMPTION FROM PUBLIC DISCLOSURE 
+
+   
+
+ 432.350     Vital records exempt
+from public disclosure; exceptions; rules 
+
+   
+
+ 432.355     Disclosure of death
+filed in conjunction with claims or interests in land 
+
+   
+
+ 432.360     Records of dissolution
+of marriage and dissolution of domestic partnership subject to full disclosure;
+exemption 
+
+   
+
+ CERTIFIED COPIES OF RECORDS 
+
+   
+
+ 432.380     Issuance of certified
+copies of records; applicant qualifications 
+
+   
+
+ PROHIBITION AGAINST FRAUDULENT
+ACTIVITY 
+
+   
+
+ 432.385     Registering, amending
+or correcting record through fraud; fraudulent use of record 
+
+   
+
+ FEES AND SALES 
+
+   
+
+ 432.435     Fees 
+
+   
+
+ 432.440     County registrar sale
+of certified copies of records of live birth and death; rules 
+
+   
+
+ 432.445     Issuance of additional
+record of live birth; fee; form; distribution of funds received 
+
+   
+
+ 432.450     Grant program for
+issuance of certified copy of record of live birth to individual who is
+homeless; rules 
+
+   
+
+ 432.455     Birth Certificates for
+Homeless Persons Fund 
+
+   
+
+ CANCER AND TUMOR REGISTRY SYSTEM 
+
+   
+
+ 432.500     Definitions 
+
+   
+
+ 432.510     Cancer and tumor
+registry system; purpose; rulemaking; duties of Oregon Health Authority 
+
+   
+
+ 432.520     Reporting requirement;
+review of records; special studies 
+
+   
+
+ 432.530     Confidentiality of
+information 
+
+   
+
+ 432.540     Use of confidential
+data; rules 
+
+   
+
+ 432.550     Action for damages;
+license; disciplinary action prohibited for good faith participation in
+reporting of data 
+
+   
+
+ 432.570     No requirement or
+prohibition regarding operation of separate cancer and tumor registry 
+
+   
+
+ MATERNAL MORTALITY AND MORBIDITY
+REVIEW COMMITTEE 
+
+   
+
+ 432.600     Establishment of
+committee; members; term; meetings; duties; confidentiality; reports 
+
+   
+
+ PENALTIES 
+
+   
+
+ 432.900     Civil penalty 
+
+   
+
+ 432.993     Unlawful use of vital
+record or report; criminal penalty 
+
+   
+
+ 432.994     Unlawful use of vital
+record or report; civil penalty 
+
+   
+
+ 432.995     Obstructing the keeping
+of vital records or reports; criminal penalty 
+
+   
+
+ SYSTEM OF VITAL STATISTICS 
+
+   
+
+       432.005 Definitions. As used in this chapter, unless
+the context requires otherwise: 
+
+       (1) “Acknowledged
+parent” has the meaning given that term in ORS 109.002. 
+
+       (2) “Alkaline
+hydrolysis” or “hydrolysis” means the technical process for reducing human
+remains by placing the remains in a dissolution chamber that uses heat,
+pressure, water and base chemical agents, in a licensed hydrolysis facility, to
+reduce human remains to bone fragments and essential elements. 
+
+       (3) “Alleged
+genetic parent” has the meaning given that term in ORS 109.002. 
+
+       (4) “Amendment”
+means a change to an item that appears on a certified copy of a vital record
+after a certified copy has been issued. 
+
+       (5) “Assisted
+reproduction” has the meaning given that term in ORS 109.002. 
+
+       (6) “Authorized
+representative” means an agent designated in a written statement signed by the
+registrant or other qualified applicant, the signing of which was witnessed. 
+
+       (7) “Certified
+copy” means the document, in either paper or electronic format, issued by the
+State Registrar of the Center for Health Statistics and containing all or a
+part of the information contained on the original vital record, and which, when
+issued by the state registrar, has the full force and effect of the original
+vital record. 
+
+       (8) “Certified
+copy item” means any item of information that appears on a certified copy. 
+
+       (9) “Certifier”
+means a person required to attest to the accuracy of information submitted on a
+report. 
+
+       (10) “Correction”
+means a change to an item that is not included in a certified copy of a vital
+record, or a change to an item that is included in a certified copy provided
+that no certified copy has been issued. 
+
+       (11) “Court of
+competent jurisdiction” means a court within the United States with
+jurisdiction over a person subject to regulation under this chapter. 
+
+       (12) “Date of
+registration” means the month, day and year a vital record is incorporated into
+the official records of the Center for Health Statistics. 
+
+       (13) “Dead body”
+means a human body or such parts of such human body from the condition of which
+it reasonably may be concluded that death occurred. 
+
+       (14) “Electronic
+signature” means an electronic sound, symbol or process attached to or
+logically associated with a contract or other record that is executed or
+adopted by a person with the intent to attest to the accuracy of the facts in
+the record. 
+
+       (15) “Facts of
+live birth” means the name of the child, date of birth, place of birth, sex and
+parent’s name or parents’ names appearing on the record of live birth. 
+
+       (16) “Fetal death”
+means death prior to the complete expulsion or extraction from its mother of a
+product of human conception, irrespective of the duration of pregnancy, that is
+not an induced termination of pregnancy. The death is indicated by the fact
+that after such expulsion or extraction the fetus does not breathe or show any
+other evidence of life such as beating of the heart, pulsation of the umbilical
+cord or definite movement of the voluntary muscles. 
+
+       (17) “Final
+disposition” means the burial, interment, cremation, reduction, removal from
+the state or other authorized disposition of a dead body or fetus, except that
+when removal from the state is conducted by the holder of a certificate of
+removal registration issued under ORS 692.270, the final disposition may not be
+considered complete until the report of death is filed. 
+
+       (18) “Gestational
+surrogate” has the meaning given that term in ORS 109.002. 
+
+       (19) “Government
+agency” means a unit of federal, state, local or tribal government. 
+
+       (20) “Health
+research” means a systematic study to gain information and understanding about
+health, with the goal of finding ways to improve human health, that conforms to
+or is conducted in accordance with generally accepted scientific standards or
+principles and that is designed to develop or contribute to general scientific
+knowledge. 
+
+       (21)(a) “Human
+remains” means a dead body. 
+
+       (b) “Human
+remains” does not include cremated or reduced human remains recovered after
+cremation or reduction. 
+
+       (22)(a) “Induced
+termination of pregnancy” means the purposeful interruption of an intrauterine
+pregnancy with the intention other than to produce a live-born infant and that
+does not result in a live birth. 
+
+       (b) “Induced
+termination of pregnancy” does not include management of prolonged retention of
+products of conception following fetal death. 
+
+       (23) “Institution”
+means any establishment, public or private, that provides inpatient or
+outpatient medical, surgical or diagnostic care or treatment or nursing,
+custodial or domiciliary care, or to which persons are committed by law. 
+
+       (24) “Intended
+parent” has the meaning given that term in ORS 109.002. 
+
+       (25) “Interment”
+means the disposition of human remains by entombment or burial. 
+
+       (26) “Legal
+representative” means a licensed attorney representing the registrant or other
+qualified applicant. 
+
+       (27) “Live birth”
+means the complete expulsion or extraction from its mother of a product of
+human conception, irrespective of the duration of pregnancy, that, after such
+expulsion or extraction, breathes or shows any other evidence of life such as
+beating of the heart, pulsation of the umbilical cord or definite movement of
+voluntary muscles, whether or not the umbilical cord has been cut or the
+placenta is attached. 
+
+       (28) “Medical
+certifier” means a physician, physician associate or nurse practitioner
+licensed under the laws of this state or under the laws of Washington, Idaho or
+California who has treated a decedent within the 12 months preceding death. 
+
+       (29) “Natural
+organic reduction” means the contained, accelerated conversion of human remains
+to soil. 
+
+       (30) “Person
+acting as a funeral service practitioner” means: 
+
+       (a) A person
+other than a funeral service practitioner licensed under ORS 692.045, including
+but not limited to a relative, friend or other interested party, who performs
+the duties of a funeral service practitioner without payment; or 
+
+       (b) A funeral
+service practitioner who submits reports of death in another state if the
+funeral service practitioner is employed by a funeral establishment licensed in
+another state and registered with the State Mortuary and Cemetery Board under
+ORS 692.270. 
+
+       (31) “Person in
+charge of an institution” means the officer or employee who is responsible for
+administration of an institution. 
+
+       (32) “Personally
+identifiable information” means information that can be used to distinguish or
+trace an individual’s identity or, when combined with other personal or
+identifying information, is linked or linkable to a specific individual. 
+
+       (33) “Physician”
+means a person authorized to practice medicine, chiropractic or naturopathic
+medicine under the laws of this state or under the laws of Washington, Idaho or
+California, a physician associate licensed under ORS 677.505 to 677.525 or a
+nurse practitioner licensed under ORS 678.375 to 678.390. 
+
+       (34) “Record”
+means a report that has been registered by the state registrar. 
+
+       (35) “Record of
+foreign live birth” means a document registered by the state registrar for a
+person born in a foreign country who may or may not be a citizen of the United
+States and who was adopted under the laws of this state. 
+
+       (36) “Reduction”
+means an authorized process for reducing human remains. Authorized processes
+for reducing human remains include alkaline hydrolysis, natural organic
+reduction and any other alternative process authorized by the State Mortuary
+and Cemetery Board. 
+
+       (37) “Registration”
+means the process by which vital records and reports are accepted and
+incorporated into the official records of the Center for Health Statistics. 
+
+       (38) “Report”
+means a document, whether in paper or electronic format, containing information
+related to a vital event submitted by a person required to submit the
+information to the state registrar for the purpose of registering a vital
+event. 
+
+       (39) “State”
+includes a state or territory of the United States, the District of Columbia
+and New York City. 
+
+       (40) “Surrogacy
+agreement” has the meaning given that term in ORS 109.002. 
+
+       (41) “System of
+vital statistics” means: 
+
+       (a) The
+collection, registration, preservation, amendment, certification and
+verification of, and the maintenance of the security and integrity of, vital
+records; 
+
+       (b) The
+collection of reports required by this chapter; and 
+
+       (c) Activities
+related to the activities described in paragraphs (a) and (b) of this
+subsection, including the tabulation, analysis, dissemination and publication
+of vital statistics and training in the use of health data. 
+
+       (42) “Verification”
+means confirmation of the information on a vital record based on the facts
+contained in a report. 
+
+       (43) “Vital
+record” means a report of a live birth, death, fetal death, marriage,
+declaration of domestic partnership, dissolution of marriage or domestic
+partnership and related data that have been accepted for registration and
+incorporated into the official records of the Center for Health Statistics. 
+
+       (44) “Vital
+statistics” means the aggregated data derived from records and reports of live
+birth, death, fetal death, induced termination of pregnancy, marriage,
+declaration of domestic partnership, dissolution of marriage, dissolution of
+domestic partnership and supporting documentation and related reports. [Subsections
+(1) and (2) enacted as 1973 c.829 §15; 1983 c.709 §1; 1997 c.783 §1; 1999 c.254
+§4; 1999 c.724 §7; 2001 c.900 §154; 2007 c.99 §16; 2009 c.595 §604; 2013 c.366 §1;
+2014 c.45 §50; 2017 c.409 §14; 2021 c.296 §30; 2024 c.73 §76; 2025 c.592 §146] 
+
+   
+
+       432.010 Center
+for Health Statistics; standards. 
+(1) There is established in the Oregon Health Authority the Center for Health
+Statistics, which shall maintain, operate and advance the system of vital
+statistics throughout this state in cooperation with appropriate units of
+county government. The Center for Health Statistics shall be responsible for
+the proper administration of the system of vital statistics and for the
+preservation and security of its official records. 
+
+       (2) In order to
+promote and maintain nationwide uniformity in the system of vital statistics,
+the forms for reports and records required by this chapter and the rules
+adopted under this chapter must include, at a minimum, the items recommended by
+the federal agency responsible for national vital statistics. 
+
+       (3) Each report,
+record and other document required by this chapter shall be on a form or in a
+format prescribed by the State Registrar of the Center for Health Statistics. 
+
+       (4) All records
+shall contain the date of registration. 
+
+       (5) Information
+required in forms, reports or records authorized by this chapter may be
+submitted, verified, registered and stored by photographic, electronic or other
+means as prescribed by the state registrar. [Amended by 1983 c.709 §2; 1993
+c.324 §2; 1997 c.783 §2; 2009 c.595 §605; 2013 c.366 §2] 
+
+   
+
+       432.015 Rules. The State Registrar of the Center
+for Health Statistics, under the supervision of the Director of the Oregon
+Health Authority, shall adopt rules in accordance with ORS chapter 183 that are
+necessary to the installation and efficient performance of an adequate system
+of vital statistics. [Amended by 1961 c.191 §4; 1983 c.709 §3; 1997 c.783 §3;
+2009 c.595 §606; 2013 c.366 §3] 
+
+   
+
+       432.020 State
+registrar; appointment. 
+The Director of the Oregon Health Authority shall appoint the State Registrar
+of the Center for Health Statistics who shall qualify in accordance with
+standards of education and experience as the director shall determine. [Amended
+by 1973 c.829 §34; 1983 c.709 §26; 2009 c.595 §607] 
+
+   
+
+       432.025
+Assistant state registrars. 
+The State Registrar of the Center for Health Statistics, with the approval of
+the Director of the Oregon Health Authority, may appoint, when necessary,
+assistant state registrars who shall be assistants to the state registrar. [Amended
+by 1983 c.709 §27; 2009 c.595 §608] 
+
+   
+
+       432.030 Duties
+of state registrar. 
+(1) The State Registrar of the Center for Health Statistics shall: 
+
+       (a) Administer
+and enforce the provisions of this chapter and the rules adopted under this
+chapter, and issue orders for the efficient administration of the system of
+vital statistics. 
+
+       (b) Direct and
+supervise the system of vital statistics and the Center for Health Statistics,
+and be custodian of its records. 
+
+       (c) Provide for
+the confidentiality and security of the system of vital statistics. 
+
+       (d) Direct,
+supervise and control the activities of all persons engaged in activities
+pertaining to the operation of the system of vital statistics. 
+
+       (e) Develop and
+conduct training programs to promote uniformity of policy and procedures
+throughout this state in matters pertaining to the system of vital statistics. 
+
+       (f) Prescribe,
+furnish and distribute the forms required by this chapter or the rules adopted
+under this chapter, and prescribe other means for transmission of data,
+including electronic transmission of data, to accomplish the purpose of
+complete, accurate and timely reporting and registration. 
+
+       (g) Prepare and
+publish reports of vital statistics of this state and such other reports as may
+be required by the Oregon Health Authority. 
+
+       (h) Provide to
+local health agencies information derived from reports and records required
+under this chapter that the state registrar determines is necessary for local
+health planning and program activities. 
+
+       (i)(A) Prepare a
+plan to provide for the continuity of operations of the system of vital
+statistics in the event of an emergency. 
+
+       (B) The plan
+shall: 
+
+       (i) Address, to
+the extent practicable, natural and man-made events that interrupt normal
+activities of the system of vital statistics; 
+
+       (ii) Identify
+essential vital statistics services; and 
+
+       (iii) Provide
+guidance for maintaining essential vital statistics services. 
+
+       (C) Components of
+the plan shall include: 
+
+       (i) Alternative
+locations for operations; 
+
+       (ii)
+Identification of essential equipment and document needs, and a plan for
+obtaining those needs; and 
+
+       (iii)
+Identification of essential staff and a means to communicate with that staff in
+an emergency. 
+
+       (D) The plan is
+not subject to disclosure under ORS 192.311 to 192.478, except to the extent
+that the state registrar deems necessary to implement the plan. 
+
+       (2) The state
+registrar may establish or designate offices in this state to aid in the
+efficient administration of the system of vital statistics. 
+
+       (3) The state
+registrar may delegate functions and duties vested in the state registrar to
+employees of the Center for Health Statistics and to employees of an office
+designated under ORS 432.035. [Amended by 1975 c.605 §22; 1983 c.709 §4; 1997
+c.783 §4; 2009 c.595 §609; 2013 c.366 §4] 
+
+   
+
+       432.033 Duties
+of state registrar related to confidentiality and security. (1) The Legislative Assembly finds
+that: 
+
+       (a) The system of
+vital statistics supports civil registration and creates information that is
+used for public health, health research, national security, statistical and
+administrative purposes; 
+
+       (b) Civil
+registration of each vital event that occurs within this state is carried out
+primarily for the purpose of establishing legal documents provided by law; and 
+
+       (c) Due to
+increased requirements of civil registration in the context of national
+security and the use of live birth records as the primary document used to
+identify individuals, the State Registrar of the Center for Health Statistics
+must: 
+
+       (A) Take measures
+to prevent the fraudulent use of vital records for identity theft, terrorism or
+other purposes; 
+
+       (B) Maintain the
+security of personnel, physical environments, electronic systems and
+preservation methods; and 
+
+       (C) Perform data
+assurance and record matching activities to protect the confidentiality and
+security of vital records and prevent the fraudulent use of vital records. 
+
+       (2) For the
+purposes described in subsection (1) of this section, the state registrar
+shall: 
+
+       (a) Authenticate
+all users of the system of vital statistics and document that the users require
+access to the system of vital statistics for purposes related to the official
+roles and duties of the users; 
+
+       (b) Authorize
+authenticated users of the system of vital statistics to access specific
+components of the system of vital statistics that are necessary for the users
+to perform their official roles and duties; 
+
+       (c) Establish
+separate duties for staff who have roles that may be susceptible to fraud or
+misuse and routinely perform audits of staff work for the purpose of
+identifying fraud or misuse within the system of vital statistics; 
+
+       (d) Require that
+authenticated and authorized users maintain a specified level of training
+related to security and provide written acknowledgment of security procedures
+and penalties; 
+
+       (e) Validate data
+provided in reports submitted for registration through site visits or with
+sources independent from registration processes at a frequency specified by the
+state registrar by rule that maximizes the integrity of the data collected; 
+
+       (f) Protect
+personally identifiable information and maintain systems that provide for
+audits of use and include protocols for breach identification and notification; 
+
+       (g) If the
+decedent was born in this state or if the decedent was a resident of this
+state, receive a report from the United States Department of Defense or the
+United States Department of State of a death occurring outside the United
+States; 
+
+       (h) Match death
+records to live birth records; 
+
+       (i) Match death
+records received from the United States Department of Defense or the United
+States Department of State of a death occurring outside the United States to
+registered live birth records; 
+
+       (j) Work with law
+enforcement to provide evidence for active fraud investigations; 
+
+       (k) Provide
+secure workplace, storage and technology environments; 
+
+       (L) Maintain
+overt, covert and forensic security measures for certified copies,
+verifications and automated systems that are part of the system of vital
+statistics; 
+
+       (m) Comply with
+laws, rules and regulations associated with information technology systems and
+information related to the system of vital statistics; and 
+
+       (n) Comply with
+national standards that apply to the system of vital statistics and its
+components. [2013 c.366 §6] 
+
+   
+
+       432.035 County
+registrars. (1)
+The State Registrar of the Center for Health Statistics shall designate for
+each county a government employee or, to the extent allowed under state and
+federal law, an employee of a local public health authority as defined in ORS
+431.003, to act as a county registrar. In consultation with the state
+registrar, each county registrar may designate one or more deputy county
+registrars. The county registrar shall be sufficiently positioned within the
+county and have sufficient contact with deputy county registrars to ensure
+compliance with this chapter and rules adopted under this chapter. 
+
+       (2) The county
+and deputy county registrars shall: 
+
+       (a) Comply with
+all instructions of the state registrar; 
+
+       (b) Check upon
+the compliance of others with the provisions of this chapter and with rules
+adopted under this chapter; and 
+
+       (c) Make an
+immediate report to the state registrar of any violation of this chapter or of
+a rule adopted under this chapter coming to their notice by observation, upon
+complaint of a person or otherwise. 
+
+       (3) The Oregon
+Health Authority, after taking into consideration county needs, shall adopt
+rules under which a county registrar may issue certified copies of records of
+live births or deaths that occur in the county within six months of the date of
+the live birth or death. [Amended by 1983 c.709 §5; 1985 c.207 §3; 1997 c.783 §5;
+2013 c.366 §7; 2015 c.736 §75] 
+
+   
+
+       432.040 [Amended by 1983 c.709 §28;
+repealed by 2013 c.366 §88] 
+
+   
+
+       432.045 [Amended by 1971 c.16 §1; 1983
+c.709 §29; repealed by 1997 c.783 §48] 
+
+   
+
+       432.050 [Amended by 1983 c.709 §30;
+repealed by 1997 c.783 §48] 
+
+   
+
+       432.055 [Repealed by 1973 c.829 §71] 
+
+   
+
+       432.060 [1961 c.191 §§2,3; 1983 c.709 §31;
+2005 c.342 §1; 2009 c.595 §610; renumbered 413.196 in 2013] 
+
+   
+
+ REPORTS 
+
+   
+
+ (Generally) 
+
+   
+
+       432.075 Duty
+to report information to state registrar; immunity. (1) A person having knowledge of
+the facts shall furnish all information the person may possess regarding a live
+birth, death, fetal death, induced termination of pregnancy, marriage,
+declaration of domestic partnership or dissolution of marriage or domestic
+partnership upon demand of the State Registrar of the Center for Health
+Statistics. 
+
+       (2) A person
+required to report information under this chapter or the rules adopted under
+this chapter shall provide the information to the state registrar within five
+calendar days of receiving the information. 
+
+       (3) Within five
+calendar days of receipt of autopsy results or other information that would
+provide pending or missing information or correct errors in a reported cause of
+death, the medical certifier or medical examiner required to report the death
+under ORS 432.133 shall submit an affidavit on the cause of death to amend the
+record. 
+
+       (4) A person or
+institution that in good faith provides information required by this chapter or
+by rules adopted under this chapter shall not be subject to an action for civil
+damages. 
+
+       (5) The state
+registrar may require alternative documentation from the provider of
+information relating to the occurrence of a vital event for the purpose of
+quality assurance. [1983 c.709 §23; 1997 c.783 §6; 2013 c.366 §8] 
+
+   
+
+       432.080 [1985 c.397 §1; 1991 c.67 §114;
+1997 c.783 §8; repealed by 2013 c.366 §88] 
+
+   
+
+ (Keeping of Information
+Necessary to Submit Reports) 
+
+   
+
+       432.083
+Requirements for institutions, health care practitioners and persons who
+transport dead bodies. 
+(1) A person in charge of an institution shall keep a record of personal data
+concerning each person admitted or confined to the institution. The record
+shall include information as required for the reports of live birth, death,
+fetal death or induced termination of pregnancy required by this chapter. The
+record shall be made at the time of admission from information provided by the
+person being admitted or confined, but when it cannot be so obtained, the
+information shall be obtained from relatives or other persons acquainted with
+the facts. The name and address of the person providing the information shall
+be a part of the record. 
+
+       (2) A licensed
+health care practitioner shall keep a record of personal data concerning each
+person under the practitioner’s care for a condition that results in a
+reportable vital event if a record for that event is not maintained by an
+institution as described in subsection (1) of this section. The record shall
+include information as required for the reports of live birth, death, fetal
+death or induced termination of pregnancy required by this chapter. The record
+shall include information provided by the person under the practitioner’s care.
+If the person being treated cannot provide the information, then the
+practitioner shall obtain the information from relatives or other persons
+acquainted with the facts. The name and address of the person providing the
+information shall be a part of the record. 
+
+       (3) When a dead
+body or fetus is released or disposed of by an institution, the person in
+charge of the institution shall keep a record showing the name of the decedent,
+Social Security number, if issued, date of death, name and address of the
+person to whom the body or fetus is released and date of removal from the
+institution. If final disposition is made by the institution, the date, place
+and manner of disposition shall also be recorded. 
+
+       (4) A funeral
+service practitioner, embalmer, sexton or other person who removes from the
+place of death, transports or makes final disposition of a dead body or fetus,
+in addition to filing a report required by this chapter or rules adopted under
+this chapter, shall keep a record that identifies the body and that includes
+information pertaining to the receipt, removal, delivery and final disposition
+of the body as may be required by rules adopted by the State Registrar of the
+Center for Health Statistics. 
+
+       (5) Copies of
+records described in subsections (1) to (3) of this section shall be sent to
+the state registrar at least monthly. Records maintained under this section
+shall be retained for a period of not less than seven years and shall be made
+available for inspection by the state registrar or a representative of the
+state registrar upon demand. [Formerly 432.165] 
+
+   
+
+       432.085 [1985 c.397 §2; 1993 c.18 §108;
+1997 c.783 §9; 2009 c.595 §611; 2013 c.366 §39; renumbered 432.440 in 2013] 
+
+   
+
+ (Reports of Live Birth) 
+
+   
+
+       432.088
+Mandatory submission and registration of reports of live birth; persons required
+to report; rules. 
+(1) A report of live birth for each live birth that occurs in this state shall
+be submitted to the Center for Health Statistics, or as otherwise directed by
+the State Registrar of the Center for Health Statistics, within five calendar
+days after the live birth and shall be registered if the report has been
+completed and filed in accordance with this section. 
+
+       (2) The
+physician, institution or other person providing prenatal care related to a
+live birth shall provide prenatal care information as required by the state
+registrar by rule to the institution where the delivery is expected to occur
+not less than 30 calendar days prior to the expected delivery date. 
+
+       (3) When a live
+birth occurs in an institution or en route to an institution, the person in
+charge of the institution or an authorized designee shall obtain all data
+required by the state registrar, prepare the report of live birth, certify
+either by signature or electronic signature that the child was born alive at
+the place and time and on the date stated and submit the report as described in
+subsection (1) of this section. 
+
+       (4) In obtaining
+the information required for the report of live birth, an institution shall use
+information gathering procedures provided or approved by the state registrar.
+Institutions may establish procedures to transfer, electronically or otherwise,
+information required for the report from other sources, provided that the
+procedures are reviewed and approved by the state registrar prior to the
+implementation of the procedures to ensure that the information being
+transferred is the same as the information being requested. 
+
+       (5)(a) When a
+live birth occurs outside an institution, the information for the report of
+live birth shall be submitted within five calendar days of the live birth in a
+format adopted by the state registrar by rule in the following order of
+priority: 
+
+       (A) By an
+institution where the person who gave birth to the child and child are
+examined, if examination occurs within 24 hours of the live birth; 
+
+       (B) By a
+physician in attendance at the live birth; 
+
+       (C) By a direct
+entry midwife licensed under ORS 687.405 to 687.495 in attendance at the live
+birth; 
+
+       (D) By a person
+not described in subparagraphs (A) to (C) of this paragraph and not required by
+law to be licensed to practice midwifery who is registered with the Center for
+Health Statistics to submit reports of live birth and who was in attendance at the
+live birth; or 
+
+       (E) By the parent
+who gave birth to the child or the child’s presumed parent, alleged genetic
+parent, acknowledged parent, intended parent, any other parent or, in the
+absence or inability of any parent, the person in charge of the premises where
+the live birth occurred. 
+
+       (b) The state
+registrar may establish the manner of submitting the information for the report
+of live birth by a person described in paragraph (a)(D) of this subsection or a
+physician or licensed direct entry midwife who attends the birth of his or her
+own child, grandchild, niece or nephew. 
+
+       (6) When a report
+of live birth is submitted that does not include the minimum acceptable
+documentation required by this section or any rules adopted under this section,
+or when the state registrar has cause to question the validity or adequacy of
+the documentation, the state registrar, in the state registrar’s discretion,
+may refuse to register the live birth and shall enter an order to that effect
+stating the reasons for the action. The state registrar shall advise the
+applicant of the right to appeal under ORS 183.484. 
+
+       (7) When a live
+birth occurs on a moving conveyance: 
+
+       (a) Within the
+United States and the child is first removed from the conveyance in this state,
+the live birth shall be registered in this state and the place where it is
+first removed shall be considered the place of live birth. 
+
+       (b) While in
+international waters or airspace or in a foreign country or its airspace and
+the child is first removed from the conveyance in this state, the birth shall
+be registered in this state but the report of live birth shall show the actual
+place of birth insofar as can be determined. 
+
+       (8) For purposes
+of making a report of live birth and live birth registration: 
+
+       (a) The person
+who gave birth to the child is a birth parent. 
+
+       (b) If a court of
+competent jurisdiction determines that a person other than the person who gave
+birth to the child is the child’s genetic parent or intended parent, the court
+may order the state registrar to amend the record of live birth. The record of
+live birth shall then be placed under seal. 
+
+       (9)(a) If the
+person who gave birth to the child is married at the time of either conception
+or live birth, or within 300 days before the live birth, the name of the spouse
+of the person who gave birth to the child shall be entered on the report of
+live birth as a parent of the child unless parentage has been determined
+otherwise by a court of competent jurisdiction. 
+
+       (b) If the parent
+who gave birth to the child is not married at the time of either conception or
+live birth, or within 300 days before the live birth, the name of the other
+parent may be entered on the report of live birth only if the parent who gave
+birth to the child and the other person to be named as a parent sign a
+voluntary acknowledgment of parentage form or other form prescribed under ORS
+432.098 and file the form with the state registrar. 
+
+       (c) If the person
+who gave birth to the child is a partner in a domestic partnership registered
+by the state at the time of either conception or live birth, or between
+conception and live birth, the name of the partner of the person who gave birth
+to the child shall be entered on the report of live birth as a parent of the
+child, unless parentage has been determined otherwise by a court of competent
+jurisdiction. 
+
+       (d) In any case
+in which parentage of a child is determined by a court of competent
+jurisdiction, or by an administrative determination of parentage, the Center
+for Health Statistics shall enter the name of each parent on the new record of
+live birth. The Center for Health Statistics shall change the surname of the
+child if so ordered by the court or, in a proceeding under ORS 25.550, by the
+administrator as defined in ORS 25.010. 
+
+       (e) If a genetic
+parent is not named on the report of live birth, information other than the
+identity of the genetic parent may be entered on the report. 
+
+       (10) A parent of
+the child, or other informant as determined by the state registrar by rule,
+shall verify the accuracy of the personal data to be entered on a report of
+live birth in time to permit submission of the report within five calendar days
+of the live birth. 
+
+       (11) A report of
+live birth submitted after five calendar days, but within one year after the
+date of live birth, shall be registered in the manner prescribed in this
+section. The record shall not be marked “Delayed.” 
+
+       (12) The state
+registrar may require additional evidence in support of the facts of live
+birth. [Formerly 432.206; 2014 c.45 §51; 2015 c.629 §50; 2017 c.651 §45; 2025
+c.592 §80] 
+
+   
+
+       Note: The amendments to 432.088 by
+section 81, chapter 592, Oregon Laws 2025, become operative January 1, 2027.
+See section 153, chapter 592, Oregon Laws 2025. The text that is operative on
+and after January 1, 2027, is set forth for the user’s convenience. 
+
+       432.088. (1) A report of live birth for
+each live birth that occurs in this state shall be submitted to the Center for
+Health Statistics, or as otherwise directed by the State Registrar of the
+Center for Health Statistics, within five calendar days after the live birth
+and shall be registered if the report has been completed and filed in
+accordance with this section. 
+
+       (2) The
+physician, institution or other person providing prenatal care related to a
+live birth shall provide prenatal care information as required by the state
+registrar by rule to the institution where the delivery is expected to occur
+not less than 30 calendar days prior to the expected delivery date. 
+
+       (3) When a live
+birth occurs in an institution or en route to an institution, the person in
+charge of the institution or an authorized designee shall obtain all data
+required by the state registrar, prepare the report of live birth, certify
+either by signature or electronic signature that the child was born alive at
+the place and time and on the date stated and submit the report as described in
+subsection (1) of this section. 
+
+       (4) In obtaining
+the information required for the report of live birth, an institution shall use
+information gathering procedures provided or approved by the state registrar.
+Institutions may establish procedures to transfer, electronically or otherwise,
+information required for the report from other sources, provided that the
+procedures are reviewed and approved by the state registrar prior to the
+implementation of the procedures to ensure that the information being
+transferred is the same as the information being requested. 
+
+       (5)(a) When a
+live birth occurs outside an institution, the information for the report of
+live birth shall be submitted within five calendar days of the live birth in a
+format adopted by the state registrar by rule in the following order of
+priority: 
+
+       (A) By an
+institution where the person who gave birth to the child and child are
+examined, if examination occurs within 24 hours of the live birth; 
+
+       (B) By a
+physician in attendance at the live birth; 
+
+       (C) By a direct
+entry midwife licensed under ORS 687.405 to 687.495 in attendance at the live
+birth; 
+
+       (D) By a person
+not described in subparagraphs (A) to (C) of this paragraph and not required by
+law to be licensed to practice midwifery who is registered with the Center for
+Health Statistics to submit reports of live birth and who was in attendance at the
+live birth; or 
+
+       (E) By the parent
+who gave birth to the child or the child’s presumed parent, alleged genetic
+parent, acknowledged parent, intended parent, any other parent or, in the
+absence or inability of any parent, the person in charge of the premises where
+the live birth occurred. 
+
+       (b) The state
+registrar may establish the manner of submitting the information for the report
+of live birth by a person described in paragraph (a)(D) of this subsection or a
+physician or licensed direct entry midwife who attends the birth of his or her
+own child, grandchild, niece or nephew. 
+
+       (6) When a report
+of live birth is submitted that does not include the minimum acceptable
+documentation required by this section or any rules adopted under this section,
+or when the state registrar has cause to question the validity or adequacy of
+the documentation, the state registrar, in the state registrar’s discretion,
+may refuse to register the live birth and shall enter an order to that effect
+stating the reasons for the action. The state registrar shall advise the
+applicant of the right to appeal under ORS 183.484. 
+
+       (7) When a live
+birth occurs on a moving conveyance: 
+
+       (a) Within the
+United States and the child is first removed from the conveyance in this state,
+the live birth shall be registered in this state and the place where it is
+first removed shall be considered the place of live birth. 
+
+       (b) While in
+international waters or airspace or in a foreign country or its airspace and
+the child is first removed from the conveyance in this state, the birth shall
+be registered in this state but the report of live birth shall show the actual
+place of birth insofar as can be determined. 
+
+       (8) For purposes
+of making a report of live birth and live birth registration: 
+
+       (a) The person
+who gave birth to the child is a birth parent. 
+
+       (b)
+Notwithstanding paragraph (a) of this subsection, when a gestational surrogate
+under a surrogacy agreement gives live birth to a child resulting from the
+agreed upon pregnancy, the intended parents of the child are the birth parents
+and the gestational surrogate’s information shall be reported as required by
+the state registrar. 
+
+       (c) If a court of
+competent jurisdiction determines that a person other than the person who gave
+birth to the child is the child’s genetic parent or intended parent, the court
+may order the state registrar to amend the record of live birth. The record of
+live birth shall then be placed under seal. 
+
+       (9)(a) If the
+person who gave birth to the child is married at the time of either conception
+or live birth, or within 300 days before the live birth, the name of the spouse
+of the person who gave birth to the child shall be entered on the report of
+live birth as a parent of the child unless parentage has been determined
+otherwise by a court of competent jurisdiction. 
+
+       (b) If the parent
+who gave birth to the child is not married at the time of either conception or
+live birth, or within 300 days before the live birth, the name of the other
+parent may be entered on the report of live birth only if: 
+
+       (A) The parent
+who gave birth to the child and the other person to be named as a parent sign a
+voluntary acknowledgment of parentage form or other form prescribed under ORS
+432.098 and file the form with the state registrar; or 
+
+       (B) The parent
+who gave birth to the child and the other person to be named as a parent
+intend, after the child’s birth, to be married or enter into a domestic
+partnership registered by the state. 
+
+       (c) If the person
+who gave birth to the child is a partner in a domestic partnership registered
+by the state at the time of either conception or live birth, or between
+conception and live birth, the name of the partner of the person who gave birth
+to the child shall be entered on the report of live birth as a parent of the
+child, unless parentage has been determined otherwise by a court of competent
+jurisdiction. 
+
+       (d) In any case
+in which parentage of a child is determined by a court of competent
+jurisdiction, or by an administrative determination of parentage, the Center
+for Health Statistics shall enter the name of each parent on the new record of
+live birth. The Center for Health Statistics shall change the surname of the
+child if so ordered by the court or, in a proceeding under ORS 25.550, by the
+administrator as defined in ORS 25.010. 
+
+       (e) If a genetic
+parent is not named on the report of live birth, information other than the
+identity of the genetic parent may be entered on the report. 
+
+       (10) A parent of
+the child, or other informant as determined by the state registrar by rule,
+shall verify the accuracy of the personal data to be entered on a report of
+live birth in time to permit submission of the report within five calendar days
+of the live birth. 
+
+       (11) A report of
+live birth submitted after five calendar days, but within one year after the
+date of live birth, shall be registered in the manner prescribed in this
+section. The record shall not be marked “Delayed.” 
+
+       (12) The state
+registrar may require additional evidence in support of the facts of live
+birth. 
+
+   
+
+       432.090 [1985 c.549 §10; 1997 c.783 §§10,10a;
+1999 c.1084 §46; 2013 c.366 §40; renumbered 432.445 in 2013] 
+
+   
+
+       432.093
+Availability of voluntary acknowledgment of paternity form; responsibility of
+health care facility and parents.  (1)
+Any health care facility as defined in ORS 442.015 shall make available to the
+parent who gave birth to a child and the alleged genetic parent of any child
+born live or expected to be born in the health care facility, a voluntary
+acknowledgment of parentage form when the facility has reason to believe that
+the parent who gave birth to the child is unmarried. 
+
+       (2) The
+responsibility of the health care facility is limited to providing the form and
+submitting the form with the report of live birth to the State Registrar of the
+Center for Health Statistics. The parent who gave birth to the child and the
+child’s alleged genetic parent are responsible for ensuring that the form is
+accurately completed. 
+
+       (3) This form
+shall be as prescribed by ORS 432.098. [Formerly 432.285; 2025 c.592 §21] 
+
+   
+
+       Note: The amendments to 432.093 by
+section 22, chapter 592, Oregon Laws 2025, become operative January 1, 2027.
+See section 153, chapter 592, Oregon Laws 2025. The text that is operative on
+and after January 1, 2027, is set forth for the user’s convenience. 
+
+       432.093. (1) Any health care facility as
+defined in ORS 442.015 shall make available to the parent who gave birth to a
+child and the alleged genetic parent, presumed parent or intended parent of any
+child born live or expected to be born in the health care facility, a voluntary
+acknowledgment of parentage form when the facility has reason to believe that: 
+
+       (a) The parent
+who gave birth to the child is unmarried; 
+
+       (b) The parent
+who gave birth to the child is married but the alleged genetic parent of the
+child is not the spouse of the parent who gave birth to the child; or 
+
+       (c) The child was
+conceived by assisted reproduction, other than under a surrogacy agreement. 
+
+       (2) The
+responsibility of the health care facility is limited to providing the form and
+submitting the form with the report of live birth to the State Registrar of the
+Center for Health Statistics. The parent who gave birth to the child and the
+child’s alleged genetic parent, presumed parent or intended parent are
+responsible for ensuring that the form is accurately completed. 
+
+       (3) This form
+shall be as prescribed by ORS 432.098. 
+
+   
+
+       432.095 [1997 c.783 §44; repealed by 2013
+c.366 §88] 
+
+   
+
+       432.098
+Voluntary acknowledgment of parentage form; rules; fees. (1)(a) The State Registrar of the
+Center for Health Statistics shall adopt by rule forms for the voluntary
+acknowledgment of parentage. A valid acknowledgment of parentage is not
+affected by a later modification of the form. The form must include the minimum
+requirements specified by the Secretary of the United States Department of
+Health and Human Services and be consistent with the requirements under ORS
+109.070 and this section. 
+
+       (b) If there is
+no second parent named on the child’s record of live birth, the filing of a
+voluntary acknowledgment of parentage form shall cause the state registrar to
+place the name of the parent acknowledging parentage on the record of live
+birth of the child or, if appropriate, establish a replacement for the record
+containing the name of the child’s parent, as that parent is named in the
+voluntary acknowledgment of parentage form. 
+
+       (c) The state
+registrar may charge a fee for the filing of the voluntary acknowledgment of
+parentage form created by this section. 
+
+       (d) A voluntary
+acknowledgment of parentage takes effect upon the filing of the form with the
+state registrar. 
+
+       (2)(a)
+Notwithstanding paragraph (b)(C) of this subsection, upon request, the state
+registrar shall provide information relating to a voluntary acknowledgment of
+parentage to the state agency responsible for administration of the child
+support program created under Title IV-D of the Social Security Act. The duty
+imposed upon the state registrar by this section is limited to information
+relating to records of live birth executed and filed with the state registrar
+after October 1, 1995. 
+
+       (b) The state
+registrar may release information relating to an acknowledgment of parentage
+to: 
+
+       (A) A party to
+the acknowledgment; 
+
+       (B) A court; or 
+
+       (C) Subject to
+ORS 432.350, a government agency. 
+
+       (3) If a
+voluntary acknowledgment of parentage is rescinded as provided in ORS 109.070,
+upon receipt of the rescission, the state registrar shall notify: 
+
+       (a) The parent
+who gave birth to the child; and 
+
+       (b) The
+Department of Human Services if the child is in the care and custody of the
+department and the department has requested such notification. 
+
+       (4)(a) The state
+registrar is not required to verify the validity of a rescission received under
+subsection (3) of this section. 
+
+       (b) The state
+registrar is not required to make the notifications described in subsection (3)
+of this section if the state registrar reasonably believes that the rescission
+is invalid. 
+
+       (c) Failure of
+the state registrar to make the notifications described in subsection (3) of
+this section does not affect the validity of a rescission. [Formerly 432.287;
+2017 c.651 §46; 2025 c.99 §68; 2025 c.592 §23] 
+
+   
+
+       Note: The amendments to 432.098 by
+section 24, chapter 592, Oregon Laws 2025, become operative January 1, 2027.
+See section 153, chapter 592, Oregon Laws 2025. The text that is operative on
+and after January 1, 2027, is set forth for the user’s convenience. 
+
+       432.098. (1)(a) The State Registrar of the
+Center for Health Statistics shall adopt by rule forms for the voluntary
+acknowledgment or denial of parentage. The voluntary acknowledgment of
+parentage and denial of parentage forms may be contained in a single document
+or may be in counterparts. A valid acknowledgment of parentage or denial of
+parentage is not affected by a later modification of the forms. The forms must
+include the minimum requirements specified by the Secretary of the United
+States Department of Health and Human Services and be consistent with the
+requirements under ORS 109.070 and this section. 
+
+       (b) If there is
+no second parent named on the child’s record of live birth, the filing of a
+voluntary acknowledgment of parentage form shall cause the state registrar to
+place the name of the parent acknowledging parentage on the record of live
+birth of the child or, if appropriate, establish a replacement for the record
+containing the name of the child’s parent, as that parent is named in the
+voluntary acknowledgment of parentage form. 
+
+       (c) If there is a
+second parent already named in the report of live birth, a voluntary
+acknowledgment of parentage form filed under this subsection must include a
+denial of parentage form signed by the second parent listed in the report of
+live birth and the parent who gave birth to the child. The filing of the
+voluntary acknowledgment of parentage form, together with the denial of
+parentage form, shall cause the state registrar to establish a replacement for
+the record of live birth of a child, replacing the name of the individual
+denying parentage with the name of the individual acknowledging parentage. 
+
+       (d) The state
+registrar may charge a fee for the filing of the voluntary acknowledgment of
+parentage form or denial of parentage form created by this section. 
+
+       (e) A voluntary
+acknowledgment or denial of parentage form may be signed before or after the
+birth of the child. A voluntary acknowledgment or denial of parentage takes
+effect on the later of the birth of the child or the filing of the form with
+the state registrar. If a voluntary acknowledgment of parentage form and a
+denial of parentage form are both required under this subsection, neither is
+effective until both are filed with the state registrar. 
+
+       (2)(a)
+Notwithstanding paragraph (b)(C) of this subsection, upon request, the state
+registrar shall provide information relating to a voluntary acknowledgment of
+parentage and, if applicable, denial of parentage to the state agency
+responsible for administration of the child support program created under Title
+IV-D of the Social Security Act. The duty imposed upon the state registrar by
+this section is limited to information relating to records of live birth
+executed and filed with the state registrar after October 1, 1995. 
+
+       (b) The state
+registrar may release information relating to an acknowledgment or denial of
+parentage to: 
+
+       (A) A party to
+the acknowledgment or denial; 
+
+       (B) A court; or 
+
+       (C) Subject to
+ORS 432.350, a government agency. 
+
+       (3) If a
+voluntary acknowledgment of parentage or denial of parentage is rescinded as
+provided in ORS 109.070: 
+
+       (a) Upon receipt
+of the rescission, the state registrar shall notify: 
+
+       (A) The parent
+who gave birth to the child; and 
+
+       (B) The
+Department of Human Services if the child is in the care and custody of the
+department and the department has requested such notification. 
+
+       (b) Upon receipt
+of a rescission of an acknowledgment of parentage, the state registrar shall
+notify the individual who signed an associated denial, if any, of the
+rescission and that the denial may be invalid. 
+
+       (c) Upon receipt
+of a rescission of a denial of parentage the state registrar shall notify the
+individual who acknowledged parentage of the rescission and that the
+acknowledgment may be invalid. 
+
+       (4)(a) The state
+registrar is not required to verify the validity of a rescission received under
+subsection (3) of this section. 
+
+       (b) The state
+registrar is not required to make the notifications described in subsection (3)
+of this section if the state registrar reasonably believes that the rescission
+is invalid. 
+
+       (c) Failure of
+the state registrar to make the notifications described in subsection (3) of
+this section does not affect the validity of a rescission. 
+
+   
+
+       432.103 Full
+faith and credit. 
+A determination of paternity or parentage by another state is entitled to full
+faith and credit. [Formerly 432.289; 2017 c.651 §47] 
+
+   
+
+       432.105 [Amended by 1973 c.829 §35; 1983
+c.709 §32; 1997 c.783 §11; repealed by 2013 c.366 §88] 
+
+   
+
+       432.108 Report
+of live birth for child of unknown parentage. (1) A person who assumes the custody of a child of
+unknown parentage shall report on a form and in a manner prescribed by the
+State Registrar of the Center for Health Statistics, within five calendar days
+of assuming custody, to the state registrar the following information: 
+
+       (a) The date and
+the city or county, or both, where the child was found. 
+
+       (b) Sex and
+approximate live birth date of child. 
+
+       (c) Name and
+address of the person or institution with whom the child has been placed for
+care. 
+
+       (d) Name given to
+the child by the custodian of the child. 
+
+       (e) Other data
+required by the state registrar. 
+
+       (2) The place
+where the child was found shall be entered as the place of live birth. 
+
+       (3) Information
+submitted under this section shall constitute the report of live birth for the
+child. 
+
+       (4) If the child
+is identified and a live birth registration is found or obtained, the report
+submitted under this section and the live birth registration resulting from
+that report shall be voided and placed under seal and shall not be subject to
+inspection except upon order of a court of competent jurisdiction or as
+provided by rule of the state registrar. [Formerly 432.430] 
+
+   
+
+       432.110 [Repealed by 1971 c.16 §3] 
+
+   
+
+       432.113
+Delayed reports of live birth; rules. 
+(1) When a report of live birth of a person born in this state has not been
+registered within one year after the date of birth, a delayed report of live
+birth may be submitted in accordance with rules of the State Registrar of the
+Center for Health Statistics. No delayed report shall be registered until the
+evidentiary requirements as specified by rule have been met. 
+
+       (2) A certified
+copy issued as a result of a report of live birth submitted under this section
+shall indicate the delayed registration and show the date of the registration.
+The record of live birth shall contain a summary statement of the evidence
+submitted in support of the delayed registration. 
+
+       (3) All delayed
+reports of live birth shall be processed and registered at the Center for
+Health Statistics. 
+
+       (4) All certified
+copies of delayed registrations shall be issued by the state registrar. 
+
+       (5) A delayed
+report of live birth may not be registered for a deceased person. 
+
+       (6)(a) When an
+applicant does not submit the minimum documentation required by rule of the
+state registrar for delayed registration or when the state registrar has cause
+to question the validity or adequacy of the applicant’s sworn statement or the
+documentary evidence, and if the deficiencies are not corrected, the state
+registrar, in the state registrar’s discretion, may refuse to register the
+delayed report of live birth and shall enter an order to that effect stating
+the reasons for the action. The state registrar shall advise the applicant of
+the right to appeal under ORS 183.484. 
+
+       (b) The state
+registrar by rule may provide for the dismissal of an application that is not
+actively prosecuted. [Formerly 432.140] 
+
+   
+
+       432.115 [Amended by 1983 c.709 §19; 1997
+c.783 §12; 2013 c.366 §32; renumbered 432.295 in 2013] 
+
+   
+
+       432.118
+Procedure for contesting refusal to register report of live birth or delayed
+report of live birth; rules. 
+(1) If the State Registrar of the Center for Health Statistics refuses to
+register a report of live birth or a delayed report of live birth under the
+provisions of ORS 432.088 or 432.113, the applicant may file a signed and sworn
+petition with a court of competent jurisdiction seeking an order establishing a
+record of the date and place of live birth and the parentage of the person
+whose birth is to be registered. 
+
+       (2) The petition
+shall be made on a form prescribed and furnished or approved by the state
+registrar and shall allege: 
+
+       (a) That the
+person for whom a record of live birth or a delayed record of live birth is
+sought was born in this state and no record of live birth or delayed record of
+live birth of the person can be found in the records of the Center for Health
+Statistics; 
+
+       (b) That diligent
+efforts by the petitioner have failed to obtain the evidence required for
+submitting a report of live birth or a delayed report of live birth in
+accordance with ORS 432.088 or 432.113 and rules adopted under ORS 432.088 or
+432.113; 
+
+       (c) That the
+state registrar has refused to register a report of live birth or a delayed
+report of live birth; and 
+
+       (d) Other
+allegations as may be required under ORS 183.484. 
+
+       (3) The petition
+must be served on the state registrar and accompanied by all documentary
+evidence that was submitted to the state registrar in support of the petition. 
+
+       (4) The court
+shall fix a time and place for hearing the petition and shall give the state
+registrar notice of the hearing. The state registrar or an authorized
+representative may appear and testify in the proceeding. 
+
+       (5) If the court
+finds, from the evidence presented, that the person for whom a record of live
+birth or a delayed record of live birth is sought was born in this state, it
+shall make findings as to the place and date of live birth, parentage and such
+other findings as may be required and shall issue an order, on a form
+prescribed and furnished or approved by the state registrar, to establish a
+court-ordered record of live birth or delayed record of live birth. This order
+shall include the live birth data to be registered, a description of the
+evidence presented and the date of the court’s action. 
+
+       (6) The clerk of
+the court shall forward a certified copy of each order to the state registrar
+twice a month as adopted by the state registrar by rule. The order must be used
+to register a report of live birth or a delayed report of live birth for the person.
+The record of live birth or delayed record of live birth must include a
+statement that it was registered on the basis of a court order. [Formerly
+432.142] 
+
+   
+
+       432.119 [1973 c.829 §11; 1979 c.426 §1;
+1983 c.709 §33; 1997 c.783 §13; 2009 c.595 §612; repealed by 2013 c.366 §88] 
+
+   
+
+       432.120 [Amended by 1983 c.709 §20;
+repealed by 1997 c.783 §14 (432.121 enacted in lieu of 432.120)] 
+
+   
+
+       432.121 [1997 c.783 §15 (enacted in lieu
+of 432.120); 1999 c.254 §1; 1999 c.312 §3; 2001 c.838 §23; 2003 c.380 §8; 2007
+c.703 §9; 2013 c.366 §33; renumbered 432.350 in 2013] 
+
+   
+
+       432.122 [1983 c.709 §24; 1997 c.783 §18;
+repealed by 2013 c.366 §88] 
+
+   
+
+       432.124 [1999 c.254 §7; 2013 c.366 §34;
+renumbered 432.355 in 2013] 
+
+   
+
+       432.125 [Repealed by 1983 c.709 §45] 
+
+   
+
+       432.130 [Amended by 1983 c.709 §25;
+repealed by 2013 c.366 §88] 
+
+   
+
+ (Reports of Death and
+Fetal Death) 
+
+   
+
+       432.133
+Mandatory submission and registration of reports of death; persons required to
+report. (1)(a) A
+report of death for each death that occurs in this state must be submitted
+through the state electronic reporting system to the Center for Health
+Statistics, or as otherwise directed by the State Registrar of the Center for
+Health Statistics, within five calendar days after death or the finding of a
+dead body and before final disposition, and must be registered if it has been
+completed and submitted in accordance with this section. 
+
+       (b) If the place
+of death is unknown, but the dead body is found in this state, the report of
+death must be completed and submitted in accordance with this section. The
+place where the body is found must be noted as the place of death except, if in
+an emergency the decedent is moved by conveyance to another county and is dead
+on arrival, the death shall be considered to have occurred in the county from
+where the body was originally moved. 
+
+       (c) When death
+occurs in a moving conveyance within or outside the United States and the body
+is first removed from the conveyance in this state, the death must be
+registered in this state and the place where the body is first removed shall be
+deemed the place of death. The report of death may note the actual location of
+death insofar as it can be determined. 
+
+       (d) In all other
+cases, the place where death is pronounced shall be considered the place where
+death occurred. 
+
+       (e) If the date
+of death is unknown, the medical certifier shall determine the date by
+approximation. If the date cannot be determined by approximation, the date that
+the body was found shall be entered on the report of death. 
+
+       (2)(a) The
+funeral service practitioner or person acting as a funeral service practitioner
+who first assumes custody of the dead body shall submit the report of death to
+the Center for Health Statistics, or as otherwise directed by the state
+registrar. In cases where there is no funeral service practitioner or person
+acting as a funeral service practitioner, the medical examiner shall submit the
+report of death. 
+
+       (b) The funeral
+service practitioner or person acting as the funeral service practitioner shall
+obtain the personal data from the next of kin or the best qualified person or
+source available and shall obtain the medical certification from the person
+responsible for the medical certification. 
+
+       (c) The funeral
+service practitioner or person acting as the funeral service practitioner shall
+provide sufficient information to identify the decedent to the medical
+certifier within 48 hours after death unless the medical certification has
+already been submitted. 
+
+       (3) A medical
+certification shall be completed within 48 hours after having access to the
+report of death by the decedent’s primary or attending medical certifier who
+was in charge of the care of the patient for the illness or condition that
+resulted in death, except when inquiry is required under ORS chapter 146. In
+the absence or inability of the medical certifier, or with the medical
+certifier’s approval, the report of death may be completed by an associate of
+the medical certifier, the chief medical officer of the institution where death
+occurred or the physician who performed an autopsy upon the decedent, provided
+that the associate, chief medical officer or physician has access to the
+medical history of the case and death is due to natural causes. The person
+completing the cause of death shall attest to its accuracy by electronic
+signature. 
+
+       (4) When inquiry
+is required under ORS chapter 146, the medical examiner in the jurisdiction
+where death occurred or the body was found shall determine the cause and manner
+of death and shall complete and sign the medical certification within 48 hours
+after taking charge of the case. If the cause or manner of death is unknown or
+pending investigation, the cause or manner of death shall be noted as such on
+the report of death. 
+
+       (5) When the
+death occurs in a hospital, the person in charge of the hospital shall require
+the medical certification to be reported through the state electronic reporting
+system and the report of death to include the electronic signature of the
+medical certifier. 
+
+       (6)(a) When a
+death occurs in a hospital described in subsection (5) of this section and the
+death is not under the jurisdiction of a medical examiner, the person in charge
+of the hospital or the designated representative of the person in charge of the
+hospital shall enter the following information on the report of death within 48
+hours of death: 
+
+       (A) If the report
+of death does not exist in the state electronic reporting system, the name of
+the decedent, the date of the decedent’s birth, the date of the decedent’s
+death and the county in which the decedent died; and 
+
+       (B) The medical
+certification of death, accompanied by the electronic signature of the person
+completing the cause of death as described in subsection (3) of this section. 
+
+       (b) The partially
+completed report of death prepared under this subsection shall be made
+available to the funeral service practitioner or person acting as a funeral
+service practitioner within 48 hours of death. 
+
+       (7) Upon receipt
+of autopsy results or other information that would change the information
+related to the cause or manner of death, a medical certifier or medical
+examiner shall submit an amendment to the record of death within five calendar
+days to the Center for Health Statistics. 
+
+       (8) When a death
+that is not the subject of a presumptive death proceeding in a court in this
+state or another state is presumed to have occurred in this state as the result
+of a known event in this state, but no remains of the presumed deceased can be
+located, a report of death may be prepared by the Chief Medical Examiner upon
+receiving an order from a court of competent jurisdiction that contains
+findings of fact necessary to complete the report of death. A report of death
+prepared under this subsection must be marked or flagged “Presumptive” and show
+on its face the date of death as determined by the court, the date of
+registration, the identity of the court and the date of the order. 
+
+       (9) When a death
+of a missing person domiciled in this state, and that is not the subject of a
+presumptive death proceeding in a court of this state or another state, has
+been determined by a court of competent jurisdiction to have presumptively
+occurred in another state, a report of death may be prepared by the Chief
+Medical Examiner upon receiving an order from the court that contains findings
+of fact necessary to complete the report of death. A report of death prepared
+under this subsection must be marked or flagged “Presumptive” and show on its
+face the date of death as determined by the court, the date of registration,
+the identity of the court and the date of the order. 
+
+       (10) When a death
+occurring in this state has not been registered as prescribed by this section,
+a report of death may be submitted to the state registrar as described in this
+section provided that the medical certifier or medical examiner and the funeral
+service practitioner or person acting as a funeral service practitioner are
+available to complete the report of death. If the report of death is submitted
+more than one year after the date of death or the date on which the body was
+found, the medical certifier or medical examiner and funeral service
+practitioner or person acting as a funeral service practitioner shall state in
+accompanying notarized statements that the information submitted is based on
+records kept in the files of the medical certifier or medical examiner and
+funeral service practitioner or person acting as a funeral service
+practitioner. If the medical certifier or medical examiner and funeral service
+practitioner or person acting as a funeral service practitioner are unavailable
+to complete the report of death, or decline to complete the report death, then
+the death shall not be registered except upon the receipt of an order from a
+court of competent jurisdiction. 
+
+       (11) A report of
+death required to be submitted under this section must contain the Social
+Security number of the decedent when the Social Security number is reasonably
+available from other records related to the decedent or can be obtained from
+the person in charge of the final disposition of the decedent. 
+
+       (12) For a
+decedent who was homeless at the time of death, including a decedent who was
+homeless but receiving care at a hospital or other institution, a report of
+death required to be submitted under this section must indicate that the
+decedent’s residence address was “Domicile Unknown.” 
+
+       (13) If a
+decedent’s death was caused by suicide, the person who submits the report of
+death to the Center for Health Statistics, or as otherwise directed by the
+state registrar, shall make reasonable efforts to ascertain whether the
+decedent was a veteran and, if the decedent was a veteran, whether the decedent
+served in combat and, if so, where the decedent served. Information acquired
+under this subsection must be reported to the Center for Health Statistics
+through the state electronic reporting system. [Formerly 432.307; 2017 c.151 §25;
+2021 c.417 §1; 2025 c.444 §1] 
+
+   
+
+       432.135 [Amended by 1983 c.709 §9;
+renumbered 432.142] 
+
+   
+
+       432.138 Court
+orders for records of death. 
+(1)(a) A death may be registered by the Chief Medical Examiner as specified in
+ORS 432.133 (8) or (9) upon receipt of an order from a court of competent
+jurisdiction. 
+
+       (b) A court order
+that establishes a record of death shall include all of the following
+information: 
+
+       (A) The decedent’s
+full legal name; 
+
+       (B) The date of
+the decedent’s death as determined from evidence presented to the court; and 
+
+       (C) The city,
+county and place in which the decedent died as determined from evidence
+presented to the court. 
+
+       (c) A court order
+that establishes a record of death shall include, if available, all of the
+following information: 
+
+       (A) The decedent’s
+date of live birth, city and state or country of live birth, race, ethnicity,
+sex and Social Security number and the name or names of the decedent’s parent
+or parents, as the name or names appear on a birth record; 
+
+       (B) The decedent’s
+housing status and address, including street address, city, county, state and
+zip code at the time of death; 
+
+       (C) The decedent’s
+marital status at the time of death; 
+
+       (D) The name, as
+it appears on a birth record, of any surviving spouse; and 
+
+       (E) The
+information necessary to complete the medical certification, including the
+cause and manner of death and, if the death occurred because of an injury,
+information on how and when the injury occurred, or, if the cause and manner of
+death are not known, a statement that the cause and manner of death are not
+known. 
+
+       (2) On the basis
+of the information in the court order, the Chief Medical Examiner shall prepare
+a report of death. The State Registrar of the Center for Health Statistics
+shall use a report of death prepared under this subsection to register the
+death. 
+
+       (3) All records
+of death issued under this section shall show the date of the court order and
+the name of the court issuing the order. 
+
+       (4) If the death
+was registered pursuant to ORS 432.133 (8) or (9), the record of death shall be
+flagged as being “Presumptive.” [2013 c.366 §18; 2017 c.151 §26; 2021 c.417 §2] 
+
+   
+
+       432.140 [Amended by 1983 c.709 §8; 1997
+c.783 §19; 2013 c.366 §14; renumbered 432.113 in 2013] 
+
+   
+
+       432.141 Annual
+reporting of opiate and opioid overdoses. (1) From resources available to the Oregon Health
+Authority, the authority shall compile statistics on the total number of opioid
+and opiate overdoses and the total number of opioid and opiate overdose related
+deaths occurring in this state. 
+
+       (2) Not less than
+once every three months, the authority shall report to the Governor and each
+local health department, as defined in ORS 431.003, the statistics compiled
+under subsection (1) of this section. 
+
+       (3) Not later
+than January 15 of each year, the authority shall report to the interim
+committees of the Legislative Assembly related to health care, in the manner
+provided by ORS 192.245, the statistics compiled under subsection (1) of this
+section for the immediately preceding year. The report must include the most
+recently available relevant data. [2017 c.683 §9; 2025 c.624 §1] 
+
+   
+
+       Note: Section 2, chapter 624, Oregon
+Laws 2025, provides: 
+
+       Sec. 2. (1) The amendments to ORS 432.141
+by section 1 of this 2025 Act first apply to the report required under ORS
+432.141 (3) in 2027. 
+
+       (2)
+Notwithstanding ORS 432.141 (3), the report required under ORS 432.141 (3) is
+not required to be submitted in 2026. [2025 c.624 §2] 
+
+   
+
+       Note: 432.141 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 432
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       432.142 [Formerly 432.135; 1997 c.783 §20;
+2013 c.366 §15; renumbered 432.118 in 2013] 
+
+   
+
+       432.143
+Mandatory submission and registration of reports of fetal death; persons
+required to report; rules. 
+(1)(a) A report of each fetal death of 350 grams or more or, if the weight is
+unknown, of 20 completed weeks gestation or more, calculated from the date the
+last normal menstrual period began to the date of the delivery, that occurs in
+this state shall be submitted within five calendar days after the delivery to
+the Center for Health Statistics or as otherwise directed by the State
+Registrar of the Center for Health Statistics. The state registrar shall
+register the report of fetal death if it has been completed and submitted in
+accordance with this section and any rules adopted by the state registrar under
+this section. 
+
+       (b) All induced
+terminations of pregnancy shall be reported in the manner prescribed in ORS
+435.496 and shall not be reported as fetal deaths. 
+
+       (2) When fetal
+death occurs in an institution or en route to an institution, the person in
+charge of the institution or an authorized designee shall obtain all data
+required by the state registrar, prepare the report of fetal death, certify by
+electronic signature that the information reported is accurate and complete and
+submit the report as described in subsection (1) of this section. 
+
+       (3) In obtaining
+the information required for the report of fetal death, an institution shall
+use information gathering procedures provided or approved by the state
+registrar. Institutions may establish procedures to transfer, electronically or
+otherwise, information required for the report from other sources, provided
+that the procedures are reviewed and approved by the state registrar prior to
+the implementation of the procedures to ensure that the information being
+transferred is the same as the information being requested. 
+
+       (4) If fetal
+death occurs outside an institution, the physician in attendance at or
+immediately after the delivery of the fetus shall prepare and submit the report
+of fetal death within five calendar days of the delivery in a format adopted by
+the state registrar by rule. 
+
+       (5) If fetal
+death occurs outside an institution and without a physician in attendance at or
+immediately after the delivery of the fetus, or if inquiry is required by ORS
+chapter 146, the medical examiner in the jurisdiction where the fetal death
+occurred shall prepare and submit the report of fetal death within five
+calendar days of the delivery in a format adopted by the state registrar by
+rule. If the cause of fetal death is unknown or pending investigation, the
+cause shall be noted as such on the report of fetal death. 
+
+       (6) When fetal
+death occurs in a moving conveyance within or outside the United States and the
+fetus is first removed from the conveyance in this state, the fetal death must
+be registered in this state and the place where the fetus is first removed
+shall be deemed the place of fetal death. The report of fetal death may note
+the actual location of fetal death insofar as it can be determined. 
+
+       (7) When a fetus
+is found in this state and the place of delivery is unknown, the report of
+fetal death must indicate that the place where the fetus was found is the place
+of delivery. 
+
+       (8) When a record
+of fetal death is amended, a notation indicating the record was amended must be
+shown on all certified copies of the record. The date of the amendment and the
+certified copy item that was amended must also be shown on all certified copies
+of the record. [Formerly 432.333] 
+
+   
+
+       432.145 [Amended by 1957 c.339 §1; 1971
+c.16 §2; 1979 c.696 §1; 1983 c.709 §21; repealed by 1991 c.245 §1 (432.146
+enacted in lieu of 432.145)] 
+
+   
+
+       432.146 [1991 c.245 §2; 1993 c.345 §1;
+1997 c.636 §2; 2009 c.595 §613; 2013 c.366 §41; renumbered 432.435 in 2013] 
+
+   
+
+       432.148
+Commemorative Certificate of Stillbirth; rules. (1) The State Registrar of the
+Center for Health Statistics shall establish a Commemorative Certificate of
+Stillbirth. The certificate shall be signed by the state registrar. 
+
+       (2) The state
+registrar shall issue a Commemorative Certificate of Stillbirth for a
+stillbirth occurring on or after January 1, 1999, upon: 
+
+       (a) Request of a
+genetic parent of the stillborn fetus; and 
+
+       (b) Payment of
+the fee adopted by the state registrar by rule. 
+
+       (3) The state
+registrar shall adopt by rule: 
+
+       (a) A form for
+the certificate; 
+
+       (b) The type of
+information that may be included on the form; and 
+
+       (c) The fee
+required for issuance of the certificate. 
+
+       (4) A certificate
+issued under this section is for commemorative purposes only and has no legal
+effect. [Formerly 432.266; 2025 c.592 §147] 
+
+   
+
+       432.150 [Amended by 1957 c.185 §1;
+repealed by 1983 c.709 §45] 
+
+   
+
+       432.153 Status
+of reports under ORS 435.496; rules. 
+The reports required under ORS 435.496 are statistical reports to be used only
+for medical and health purposes and shall not be incorporated into the
+permanent official records of the system of vital statistics. A schedule for
+the disposition of these reports may be provided by rule of the State Registrar
+of the Center for Health Statistics. [Formerly 432.337] 
+
+   
+
+       432.155 [Repealed by 1979 c.696 §14] 
+
+   
+
+       432.158
+Disposition of remains; rules. 
+(1) Human remains shall be disposed of in accordance with ORS chapter 97. 
+
+       (2) The funeral
+service practitioner or person acting as a funeral service practitioner who
+first assumes possession of a dead body or fetus shall submit written notice to
+the county registrar in the county in which death occurred or in which the dead
+body or fetus was found within 24 hours of taking possession of the dead body
+or fetus. The notice must be on a form prescribed and furnished by the State
+Registrar of the Center for Health Statistics. 
+
+       (3) Before the
+final disposition of a dead body, the funeral service practitioner or person
+acting as a funeral service practitioner who first assumes custody of the dead
+body shall obtain written authorization, on a form prescribed and furnished by
+the state registrar, for final disposition of the dead body from the medical
+certifier or medical examiner who certifies the cause of death as described in
+ORS 432.133. If the funeral service practitioner or person acting as a funeral
+service practitioner is unable to obtain written authorization before the final
+disposition of the dead body, the funeral service practitioner or person acting
+as a funeral service practitioner may authorize, with the oral consent of the
+medical certifier or medical examiner who is responsible for certifying the
+cause of death, the final disposition of the dead body on a form prescribed and
+furnished by the state registrar. 
+
+       (4) Upon request
+of a parent or the parent’s authorized representative, a disposition permit may
+be issued for a fetus that is not reportable as a fetal death. 
+
+       (5) A permit
+authorizing final disposition issued under the law of another state that
+accompanies human remains brought into this state shall have the same force and
+effect as a permit authorizing final disposition issued by the state registrar. 
+
+       (6) A person in
+charge of a place where interment or other disposition of human remains is made
+may not inter or allow interment or other disposition of human remains unless
+the human remains are accompanied by a permit authorizing disposition. 
+
+       (7) A person in
+charge of a place where interment or other disposition of human remains is made
+shall indicate on the permit authorizing disposition the date of disposition
+and return the completed permit to the county registrar of the county where
+death occurred. If there is no such person, the funeral service practitioner or
+person acting as the funeral service practitioner shall complete the permit and
+return it to the county registrar of the county where death occurred. 
+
+       (8) Except as
+provided in ORS 97.223, disinterment of human remains requires authorization
+for disinterment and reinterment. The state registrar may issue authorization
+for disinterment and reinterment to a funeral service practitioner or person
+acting as a funeral service practitioner upon application, as required by the
+state registrar by rule. 
+
+       (9) Prior to
+removing a dead body or fetus from this state under ORS 692.270, a funeral
+service practitioner or a person acting as a funeral service practitioner shall
+submit a written notice of removal to the country registrar in the county in
+which death occurred or in which the dead body or fetus was found. The notice
+shall be on a form prescribed and furnished by the state registrar. A copy of a
+written notice of removal serves as a permit for transporting the remains of a
+decedent named on the notice. [Formerly 432.317; 2019 c.241 §4] 
+
+   
+
+       432.160 [Repealed by 1971 c.743 §432] 
+
+   
+
+       432.163
+Extensions for submitting reports of death or fetal death. Upon such conditions as the State
+Registrar of the Center for Health Statistics may prescribe to ensure
+compliance with the purposes of this chapter, by rule the state registrar may
+provide for the extension, not to exceed 60 days, of the periods prescribed in
+ORS 432.133, 432.143 and 432.158 for the submission of a report of death or
+fetal death and related documentation and for the obtaining of a permit for
+disposition of human remains in cases where compliance with the applicable
+prescribed period would result in undue hardship. [Formerly 432.327] 
+
+   
+
+       432.165 [Amended by 1983 c.709 §22; 1985
+c.207 §4; 1997 c.783 §21; 1999 c.80 §70; 2005 c.471 §4; 2013 c.366 §9;
+renumbered 432.083 in 2013] 
+
+   
+
+ (Reports of Marriage,
+Domestic Partnership, Dissolution of Marriage and Dissolution of Domestic Partnership) 
+
+   
+
+       432.173
+Mandatory submission and registration of reports of marriage and reports of
+domestic partnership; persons required to report. (1) A report of each marriage
+performed and domestic partnership registered by the state shall be submitted
+to the Center for Health Statistics. The State Registrar of the Center for
+Health Statistics shall register a marriage or domestic partnership if the
+report of marriage or domestic partnership has been completed and submitted in
+accordance with this section and any rules adopted by the state registrar. 
+
+       (2) The county
+clerk or county official who issues the marriage license or registers the
+Declaration of Domestic Partnership shall prepare the report of marriage or
+domestic partnership on a form prescribed and furnished by the state registrar,
+using information obtained from the parties to whom the marriage license or
+Declaration of Domestic Partnership is being issued. 
+
+       (3) A person who
+performs a marriage shall certify the fact of marriage and submit the
+certification to the county clerk or county official who issued the license
+within five calendar days of the marriage ceremony. 
+
+       (4) A county
+clerk or county official who issues marriage licenses or registers declarations
+of domestic partnership shall complete and submit the report of marriage or
+domestic partnership to the Center for Health Statistics within 15 calendar
+days of receiving the completed marriage license or registering the Declaration
+of Domestic Partnership. The report of marriage or domestic partnership must
+include a copy of the marriage license or Declaration of Domestic Partnership. [Formerly
+432.405] 
+
+   
+
+       432.175 [Formerly 43.380; 1983 c.709 §34;
+1985 c.565 §71; repealed by 1997 c.783 §48] 
+
+   
+
+       432.178
+Delayed report of marriage. 
+The State Registrar of the Center for Health Statistics may register a marriage
+one year or more after the date of the marriage ceremony if: 
+
+       (1) The report of
+marriage is submitted by the county clerk or county official responsible for
+issuing marriage licenses; and 
+
+       (2) The report of
+marriage indicates that the registration is delayed and identifies the date of
+registration. [2013 c.366 §24] 
+
+   
+
+       432.180 [1997 c.783 §17; 2013 c.366 §36;
+renumbered 432.380 in 2013] 
+
+   
+
+       432.183
+Mandatory submission and registration of reports of dissolution of marriage and
+reports of dissolution of domestic partnership; clerk of court to submit;
+rules. (1) A
+report of each dissolution of marriage or dissolution of domestic partnership
+by a court of competent jurisdiction in this state shall be submitted by the
+clerk of the court to the Center for Health Statistics. The State Registrar of
+the Center for Health Statistics shall register the dissolution of marriage or
+dissolution of domestic partnership if the report of dissolution of marriage or
+dissolution of domestic partnership is completed and submitted in accordance
+with this section and any rules adopted by the state registrar. A report of
+dissolution of marriage or dissolution of domestic partnership shall be
+prepared by the petitioner for dissolution or the petitioner’s legal
+representative on a form prescribed by the state registrar and submitted to the
+clerk of the court with the petition for dissolution. 
+
+       (2) The state
+registrar shall design the report of dissolution of marriage or dissolution of
+domestic partnership in a manner that allows, for judgments or orders issued in
+proceedings initiated under ORS 107.085 or 107.485, the state registrar, county
+clerks, county recording officers and courts to keep Social Security numbers
+confidential and exempt from public inspection. In all cases, the report of
+dissolution of marriage or dissolution of domestic partnership shall be
+completed and submitted to the clerk of the court prior to the issuance of the
+court’s final order. 
+
+       (3) Twice a
+month, as adopted by the state registrar by rule, the clerk of the court shall
+complete and submit a report of dissolution of marriage or dissolution of
+domestic partnership for each judgment or final order of dissolution of
+marriage or dissolution of domestic partnership entered during the month. [Formerly
+432.408] 
+
+   
+
+       432.205 [Amended by 1979 c.426 §2; 1983
+c.709 §6; 1995 c.514 §5; repealed by 1997 c.783 §22 (432.206 enacted in lieu of
+432.205)] 
+
+   
+
+       432.206 [1997 c.783 §23 (enacted in lieu
+of 432.205); 1999 c.254 §2; 1999 c.840 §1; 2001 c.455 §24; 2013 c.366 §10;
+renumbered 432.088 in 2013] 
+
+   
+
+       432.210 [Repealed by 1983 c.709 §45] 
+
+   
+
+       432.215 [Amended by 1983 c.709 §35;
+repealed by 1997 c.783 §48] 
+
+   
+
+       432.220 [Repealed by 1983 c.709 §45] 
+
+   
+
+ (Reports Related to
+Adoption) 
+
+   
+
+       432.223
+Reports of adoption; reports of amendments or annulments of judgment of
+adoption; persons required to report; rules. (1) For each judgment of adoption entered by a court
+of competent jurisdiction in this state, the court shall require the
+preparation of a report of adoption on a form prescribed and furnished by the
+State Registrar of the Center for Health Statistics. The report of adoption
+must: 
+
+       (a) Include facts
+that the state registrar deems necessary to locate and identify the report of
+live birth of the person adopted; 
+
+       (b) If the person
+was born in a foreign country, provide evidence from sources determined to be
+reliable by the court of the date and place of live birth; 
+
+       (c) Include
+information necessary to establish a replacement report of live birth of the
+person adopted; 
+
+       (d) Identify the
+final order of the judgment of adoption; and 
+
+       (e) Be certified
+or authenticated by the clerk of the court as provided by the state registrar
+by rule. 
+
+       (2) Information
+necessary to prepare a report of adoption must be furnished by the petitioner
+for adoption or by the petitioner’s legal representative. The Department of
+Human Services or any other person having knowledge of the facts shall supply
+the court with additional information that is necessary to complete the report
+of adoption. A court must receive the information required by this subsection
+before issuing a judgment of adoption. 
+
+       (3) Whenever a
+judgment of adoption is amended or annulled, the clerk of the court shall
+prepare a report of the amendment or annulment that includes the facts
+necessary to identify the original report of adoption and the facts amended in
+the judgment of adoption that are necessary to amend a report of live birth. 
+
+       (4) Twice a month
+as adopted by the state registrar by rule, the clerk of the court shall submit
+to the Center for Health Statistics reports of adoption or reports prepared
+under subsection (3) of this section. 
+
+       (5) When the
+state registrar receives a report under subsection (4) of this section for a
+person born in another state, the state registrar shall forward the report to
+the state registrar in the state of live birth. 
+
+       (6) If a live
+birth occurred in a foreign country and the child is not a citizen of the
+United States at the time of live birth, the state registrar shall prepare a
+record of foreign live birth as provided in ORS 432.245. If the live birth
+occurred in a neighboring country, the state registrar shall also send a copy
+of the report of adoption or any report prepared under subsection (4) of this
+section to the appropriate authority. 
+
+       (7) If a live
+birth occurred in a foreign country and through parentage the child is a
+citizen of the United States, the state registrar shall notify the parents
+adopting the child of the procedures for obtaining a revised live birth record
+for their child through the United States Department of State. The state
+registrar shall not prepare a record of foreign live birth for a live birth
+described in this subsection. [Formerly 432.415] 
+
+   
+
+       432.228
+Issuance of certified copy of record of live birth to adopted persons; Contact
+Preference Form. 
+(1) Upon receipt of a written application to the State Registrar of the Center
+for Health Statistics, an adopted person 21 years of age and older born in this
+state shall be issued a certified copy of the person’s unaltered, original and
+unamended record of live birth in the custody of the state registrar, with
+procedures, filing fees, and waiting periods as prescribed by the state
+registrar by rule. 
+
+       (2) A birth
+parent may at any time request from the state registrar or from a voluntary
+adoption registry a Contact Preference Form that shall accompany a certified
+copy issued under subsection (1) of this section. The Contact Preference Form
+shall provide the following information to be completed at the option of the
+birth parent: 
+
+ ______________________________________________________________________________ 
+
+       (a) I would like
+to be contacted; 
+
+       (b) I would
+prefer to be contacted only through an intermediary; or 
+
+       (c) I prefer not
+to be contacted at this time. If I decide later that I would like to be
+contacted, I will register with the voluntary adoption registry. I have
+completed an updated medical history and have filed it with the voluntary
+adoption registry. Attached is a certificate from the voluntary adoption
+registry verifying receipt of the updated medical history. 
+
+ ______________________________________________________________________________ 
+
+       (3) A certificate
+from a voluntary adoption registry verifying receipt of an updated medical
+history under subsection (2) of this section shall be in a form prescribed by
+the Oregon Health Authority and shall be supplied upon request of the birth
+parent by the voluntary adoption registry. 
+
+       (4) When the
+state registrar receives a completed Contact Preference Form from a birth
+parent, the state registrar shall match the Contact Preference Form with the
+adopted person’s record of live birth. The Contact Preference Form shall be
+made a part of the adopted person’s record of live birth when a match is made. 
+
+       (5) A completed
+Contact Preference Form shall be confidential and shall be placed in a secure
+file until a match with the adopted person’s record of live birth is made and
+the Contact Preference Form is placed in the adopted person’s record. 
+
+       (6) Only those
+persons who are authorized to process applications made under subsection (1) of
+this section may process Contact Preference Forms. [Formerly 432.240] 
+
+   
+
+       432.230 [1983 c.709 §11a; 1997 c.783 §24;
+2003 c.576 §454; 2013 c.366 §30; renumbered 432.245 in 2013] 
+
+   
+
+ AMENDMENTS TO VITAL
+RECORDS 
+
+   
+
+       432.235
+Requirements for amending or correcting vital record. (1) A vital record registered
+under this chapter must be amended or corrected in accordance with this section
+or rules adopted by the State Registrar of the Center for Health Statistics for
+the purpose of protecting the integrity and accuracy of vital records. 
+
+       (2)(a) A vital
+record that is amended or corrected under this section shall indicate that it
+has been amended or corrected, except as otherwise provided in this section or
+by rule of the state registrar. 
+
+       (b) The state
+registrar shall keep and maintain: 
+
+       (A) Documentation
+that identifies the evidence upon which an amendment or correction is based; 
+
+       (B) The date of
+the amendment or correction; and 
+
+       (C) The identity
+of the individual authorized by the Center for Health Statistics that made the
+amendment or correction. 
+
+       (3)(a) Upon the
+request of an applicant who is 18 years of age or older or an emancipated
+minor, or if the applicant is not 18 years of age or older or an emancipated
+minor, upon the request of an applicant’s parent, legal guardian or legal
+representative, the state registrar shall amend a record of live birth that
+occurred in this state to change the name of the applicant if: 
+
+       (A) The state
+registrar receives a certified copy of an order from a court of competent
+jurisdiction changing the name of the applicant; or 
+
+       (B) The state
+registrar receives a request, on a form prescribed by the state registrar, from
+the applicant to change the name that includes: 
+
+       (i) Documentation
+sufficient, as prescribed by the state registrar by rule, to allow the state
+registrar to confirm the identity of the applicant and identify the correct
+record of live birth to be amended; and 
+
+       (ii) A statement
+signed by the applicant in which the applicant attests, as prescribed by the
+state registrar by rule, to making the request for the purpose of affirming the
+applicant’s gender identity. 
+
+       (b) Upon request,
+the state registrar shall amend a record of live birth that occurred in this
+state to change the sex of an applicant if the applicant is 18 years of age or
+older or an emancipated minor, or if the applicant is not 18 years of age or
+older or an emancipated minor, the applicant’s parent, legal guardian or legal
+representative makes the request, and if: 
+
+       (A) The state
+registrar receives a certified copy of an order from a court of competent
+jurisdiction changing the sex of the applicant; or 
+
+       (B) The state
+registrar receives a request, on a form prescribed by the state registrar, from
+the applicant to change the sex that includes: 
+
+       (i) Documentation
+sufficient, as prescribed by the state registrar by rule, to allow the state
+registrar to confirm the identity of the applicant and identify the correct
+record of live birth to be amended; 
+
+       (ii) A statement
+signed by the applicant in which the applicant attests, as prescribed by the
+state registrar by rule, to making the request for the purpose of affirming the
+applicant’s gender identity; and 
+
+       (iii) Any other
+documentation as required by the state registrar by rule. 
+
+       (4)(a) When an
+applicant to amend a vital record does not submit the minimum documentation
+required to make an amendment, or when the state registrar has cause to
+question the validity or adequacy of an application to amend a vital record,
+the state registrar, in the state registrar’s discretion, may refuse to amend
+the vital record. If the state registrar refuses to amend a vital record under
+this subsection, the state registrar shall: 
+
+       (A) Enter an
+order denying the amendment and stating the reasons for the denial; and 
+
+       (B) Advise the
+applicant of the applicant’s right to appeal the order under ORS 183.484. 
+
+       (b) The state
+registrar may not amend a record of live birth to change the name of an
+applicant under subsection (3)(a)(B) or the sex of an applicant under
+subsection (3)(b)(B) of this section more than once. 
+
+       (5) When an
+amendment is made to a record of marriage or a record of domestic partnership
+by the county clerk or other county official who issues marriage licenses and
+registers domestic partnerships, or when an amendment changes the name, date of
+birth or birthplace of a party to a judgment or final order of a dissolution of
+marriage or dissolution of domestic partnership by a court of competent
+jurisdiction, copies of the amendment must be forwarded to the state registrar
+and the state registrar shall amend the related record. 
+
+       (6) If a judgment
+or final order of dissolution of marriage or dissolution of domestic
+partnership is set aside by a court of competent jurisdiction, a copy of the
+notice setting aside the judgment or order must be forwarded to the state
+registrar and the state registrar shall void the related record. [Formerly
+432.290; 1997 c.783 §25; 2003 c.576 §455; 2007 c.99 §17; 2007 c.703 §13; 2013
+c.366 §29; 2017 c.100 §1] 
+
+   
+
+       432.240 [1999 c.2; 1999 c.604 §1; 2009
+c.595 §614; 2013 c.366 §28; renumbered 432.228 in 2013] 
+
+   
+
+       432.245
+Replacing records of live birth; restoring records of live birth. (1) For a person born in this
+state, the State Registrar of the Center for Health Statistics shall amend a
+record of live birth and establish a replacement for the record of live birth
+if the state registrar receives one of the following: 
+
+       (a) A report of
+adoption as provided in ORS 432.223 or a certified copy of the judgment of
+adoption from a court of competent jurisdiction, with the information necessary
+to identify the original record of live birth and to establish a replacement
+for the record of live birth, unless the court ordering the adoption requests
+that a replacement for the record of live birth not be established; 
+
+       (b) A request
+that a replacement for the record of live birth be prepared to establish
+parentage, as prescribed by the state registrar by rule, or as ordered by a
+court of competent jurisdiction that has adjudicated a person’s parentage of a
+child; 
+
+       (c) A written and
+notarized request that a replacement for the record of live birth be prepared
+to establish parentage, if the request includes an acknowledgment of parentage
+signed by the parent who gave birth to the child and the child’s alleged
+genetic parent; 
+
+       (d) A certified
+copy of a judgment from a court of competent jurisdiction changing a person’s
+sex and, if applicable, name; or 
+
+       (e) A request
+approved by the state registrar under ORS 432.235 (3)(b)(B). 
+
+       (2) To change a
+person’s name under subsection (1) of this section, the request or court order
+must include both the name that appears on the record of live birth at the time
+of the request and the name to be designated on the replacement for the record
+of live birth. The designated name of the person must appear on the replacement
+for the record of live birth. 
+
+       (3) Upon receipt
+of a certified copy of a court order to change the name of a person born in
+this state as authorized by 18 U.S.C. 3521 et seq., the state registrar shall
+create a replacement for the record of live birth to show the new information
+as specified in the court order. 
+
+       (4) When a
+replacement for a record of live birth is prepared, the city, county and date
+of live birth must be included in the replacement for the record of live birth.
+The replacement for the record of live birth must be substituted for the
+original record of live birth. The original record of live birth and all
+evidence submitted with the request or court order for the replacement for the
+record of live birth must be placed under seal and is not subject to
+inspection, except upon the order of a court of competent jurisdiction in this
+state or as provided by rule of the state registrar. 
+
+       (5) Upon receipt
+of an amended judgment of adoption, the record of live birth shall be amended
+by the state registrar as provided by the state registrar by rule. 
+
+       (6) Upon receipt
+of a report of annulment of adoption or a court order annulling an adoption,
+the original record of live birth must be restored. The replacement for the
+record of live birth is not subject to inspection, except upon the order of a
+court of competent jurisdiction in this state or as provided by rule of the
+state registrar. 
+
+       (7) The state
+registrar shall prepare and register a record of foreign live birth for a
+person born in a foreign country who is not a citizen of the United States and
+for whom a judgment of adoption was issued by a court of competent jurisdiction
+in this state if the court, the parents adopting the child or the adopted
+person, if the adopted person is 18 years of age or older, requests the record.
+The record must be labeled “Record of Foreign Live Birth” and shall show the
+actual country of live birth. After registering the record of foreign live
+birth in the new name of the adopted person, the record must be placed under
+seal and is not subject to inspection, except upon the order of a court of
+competent jurisdiction or as provided by rule of the state registrar. 
+
+       (8) If there is
+no record of live birth for a person for whom a replacement for the record of
+live birth is sought under this section, and if the court order indicates a
+date of live birth more than one year from the date submitted to the Center for
+Health Statistics, the replacement for the record of live birth must be created
+as a delayed record of live birth. 
+
+       (9) A replacement
+for the record of live birth may not be created under this section if the date
+and place of live birth have not been indicated in the court order. [Formerly
+432.230; 2017 c.100 §2; 2025 c.592 §25] 
+
+   
+
+       Note: The amendments to 432.245 by
+section 26, chapter 592, Oregon Laws 2025, become operative January 1, 2027.
+See section 153, chapter 592, Oregon Laws 2025. The text that is operative on
+and after January 1, 2027, is set forth for the user’s convenience. 
+
+       432.245. (1) For a person born in this
+state, the State Registrar of the Center for Health Statistics shall amend a
+record of live birth and establish a replacement for the record of live birth
+if the state registrar receives one of the following: 
+
+       (a) A report of
+adoption as provided in ORS 432.223 or a certified copy of the judgment of
+adoption from a court of competent jurisdiction, with the information necessary
+to identify the original record of live birth and to establish a replacement
+for the record of live birth, unless the court ordering the adoption requests
+that a replacement for the record of live birth not be established; 
+
+       (b) A request
+that a replacement for the record of live birth be prepared to establish
+parentage, as prescribed by the state registrar by rule, or as ordered by a
+court of competent jurisdiction that has adjudicated a person’s parentage of a
+child; 
+
+       (c) A written and
+notarized request that a replacement for the record of live birth be prepared
+to establish parentage, if the request includes an acknowledgment and, if
+applicable, denial of parentage signed by the parent who gave birth to the
+child and the child’s alleged genetic parent, presumed parent or, if the child
+was conceived by assisted reproduction, other than under a surrogacy agreement,
+intended parents; 
+
+       (d) A certified
+copy of a judgment from a court of competent jurisdiction changing a person’s
+sex and, if applicable, name; or 
+
+       (e) A request
+approved by the state registrar under ORS 432.235 (3)(b)(B). 
+
+       (2) To change a
+person’s name under subsection (1) of this section, the request or court order
+must include both the name that appears on the record of live birth at the time
+of the request and the name to be designated on the replacement for the record
+of live birth. The designated name of the person must appear on the replacement
+for the record of live birth. 
+
+       (3) Upon receipt
+of a certified copy of a court order to change the name of a person born in
+this state as authorized by 18 U.S.C. 3521 et seq., the state registrar shall
+create a replacement for the record of live birth to show the new information
+as specified in the court order. 
+
+       (4) When a
+replacement for a record of live birth is prepared, the city, county and date
+of live birth must be included in the replacement for the record of live birth.
+The replacement for the record of live birth must be substituted for the
+original record of live birth. The original record of live birth and all
+evidence submitted with the request or court order for the replacement for the
+record of live birth must be placed under seal and is not subject to
+inspection, except upon the order of a court of competent jurisdiction in this
+state or as provided by rule of the state registrar. 
+
+       (5) Upon receipt
+of an amended judgment of adoption, the record of live birth shall be amended
+by the state registrar as provided by the state registrar by rule. 
+
+       (6) Upon receipt
+of a report of annulment of adoption or a court order annulling an adoption,
+the original record of live birth must be restored. The replacement for the
+record of live birth is not subject to inspection, except upon the order of a
+court of competent jurisdiction in this state or as provided by rule of the
+state registrar. 
+
+       (7) The state
+registrar shall prepare and register a record of foreign live birth for a
+person born in a foreign country who is not a citizen of the United States and
+for whom a judgment of adoption was issued by a court of competent jurisdiction
+in this state if the court, the parents adopting the child or the adopted
+person, if the adopted person is 18 years of age or older, requests the record.
+The record must be labeled “Record of Foreign Live Birth” and shall show the
+actual country of live birth. After registering the record of foreign live
+birth in the new name of the adopted person, the record must be placed under
+seal and is not subject to inspection, except upon the order of a court of
+competent jurisdiction or as provided by rule of the state registrar. 
+
+       (8) If there is
+no record of live birth for a person for whom a replacement for the record of
+live birth is sought under this section, and if the court order indicates a
+date of live birth more than one year from the date submitted to the Center for
+Health Statistics, the replacement for the record of live birth must be created
+as a delayed record of live birth. 
+
+       (9) A replacement
+for the record of live birth may not be created under this section if the date
+and place of live birth have not been indicated in the court order. 
+
+   
+
+       432.250 Access
+to adoption records. 
+The documents forwarded to the State Registrar of the Center for Health
+Statistics or sealed under ORS 432.245 may be opened by the state registrar
+only upon receiving an order from a court of competent jurisdiction or when
+requested by an agency operating a voluntary adoption registry established
+under ORS 109.450 for the purpose of facilitating the identification of persons
+registering under the provisions of ORS 109.425 to 109.507. [Formerly 432.420;
+2015 c.200 §17] 
+
+   
+
+       432.253 Adding
+or changing genetic parent on original record of live birth; rules; fees. (1) If an original record of live
+birth for a person at least 21 years of age was sealed under ORS 432.245 and
+was later opened under ORS 432.228 or 432.250, and the paternity or parentage
+of the person has been determined by DNA (deoxyribonucleic acid) testing or by
+other means, the person may apply to the Center for Health Statistics to add or
+change the name of a genetic parent on the original record of live birth. 
+
+       (2) An
+application under this section must include: 
+
+       (a) Evidence of a
+DNA test or other evidence that shows that the person whose name is to be
+entered as a genetic parent is the genetic parent of the applicant; and 
+
+       (b)(A) If the
+person whose name is to be entered as a genetic parent is living, an affidavit
+attesting that the person is a genetic parent of the applicant and that the
+name to be entered is that of the genetic parent that was omitted from the
+original record of live birth; or 
+
+       (B) If the person
+whose name is to be entered as a genetic parent is deceased, an affidavit from
+the personal representative or a relative of the person attesting that the
+person is a genetic parent of the applicant and that the name to be entered is
+that of the genetic parent that was omitted from the original record of live
+birth. 
+
+       (3) If the name
+of a genetic parent is entered on an original record of live birth under this
+section: 
+
+       (a) A person may
+only obtain a noncertified copy of a record of live birth amended under this
+section. 
+
+       (b) A notation
+indicating that the record was amended must be shown on all copies of the
+record. 
+
+       (c) The center
+shall prominently display the following language on all copies of the record: “THIS
+RECORD OF LIVE BIRTH MAY NOT BE USED FOR ANY LEGAL PURPOSE AND DOES NOT CREATE
+ANY LEGAL RIGHTS FOR THE CHILD OR THE PARENTS LISTED ON THE RECORD.” 
+
+       (4) The center
+shall adopt rules regarding: 
+
+       (a) The
+establishment and collection of fees for the preparation and registration of an
+amended original record of live birth and for the issuance of a noncertified
+copy of an amended original record of live birth under this section. 
+
+       (b) Consent and
+affidavit forms, proof of identification requirements and the evidentiary
+requirements to substantiate that a person is an omitted genetic parent of an
+applicant under this section. [2023 c.157 §2; 2024 c.21 §1; 2025 c.592 §148] 
+
+   
+
+       432.255 [Repealed by 1983 c.709 §45] 
+
+   
+
+       432.260 [Amended by 1981 c.6 §1; repealed
+by 1983 c.709 §45] 
+
+   
+
+       432.265 [Repealed by 1983 c.709 §45] 
+
+   
+
+       432.266 [2005 c.769 §1; renumbered 432.148
+in 2013] 
+
+   
+
+       432.270 [Repealed by 1983 c.709 §45] 
+
+   
+
+       432.275 [Repealed by 1983 c.709 §45] 
+
+   
+
+       432.280 [Repealed by 1983 c.709 §45] 
+
+   
+
+       432.285 [1995 c.514 §3; 1997 c.783 §26;
+2013 c.366 §11; renumbered 432.093 in 2013] 
+
+   
+
+       432.287 [1995 c.514 §4; 1997 c.783 §27;
+1999 c.80 §21; 2009 c.595 §615; 2013 c.366 §12; renumbered 432.098 in 2013] 
+
+   
+
+       432.289 [1995 c.514 §4a; renumbered
+432.103 in 2013] 
+
+   
+
+       432.290 [1981 c.221 §3; 1983 c.709 §18;
+1995 c.514 §6; renumbered 432.235 in 1995] 
+
+   
+
+ PRESERVATION OF VITAL
+RECORDS 
+
+   
+
+       432.295
+Preservation program; reproductions of vital records; availability; rules. (1) In consultation with the State
+Archivist, the State Registrar of the Center for Health Statistics shall
+develop and implement a preservation management program to preserve vital
+record documents and information and meet generally accepted standards for
+permanent preservation. 
+
+       (2) The state
+registrar shall prepare typewritten, photographic, electronic or other
+reproductions of vital records or reports kept and maintained in the Center for
+Health Statistics. These reproductions, when verified and approved by the state
+registrar, shall be accepted as the original vital record documents. The
+original vital record documents from which permanent reproductions have been
+made may be disposed of as described in ORS 192.105 or as provided by rule of
+the state registrar. 
+
+       (3) The state
+registrar shall provide for the continued availability and integrity of vital
+event information. To ensure such availability and integrity, the state
+registrar may keep and maintain redundant copies of information in multiple
+locations and formats, such as microfilm, microfiche, imaging and electronic
+databases. 
+
+       (4) The
+preservation management program must provide for the continued availability of
+historic vital record documents and information for research and related
+purposes. Vital records are historic when 100 years have elapsed after the date
+of live birth for births occurring after 1914, 50 years have elapsed after the
+date of death for deaths occurring after 1964, 50 years have elapsed after the
+date of fetal death for fetal deaths occurring after 1964 or 50 years have
+elapsed after the date of marriage, domestic partnership, dissolution of
+marriage or dissolution of domestic partnership for such events occurring after
+1964. Supporting documents, including corrections and acknowledgments of
+paternity or parentage, may be included with historic vital records. Records
+under seal are not historic unless unsealed by court order. 
+
+       (5) Historic
+vital records shall be transferred to the State Archives in accordance with
+archival procedures for the continued safekeeping of the vital records. The
+State Archives may not charge the Center for Health Statistics for the transfer
+and maintenance of historic vital records under this subsection. The state
+registrar shall adopt rules to ensure that the release of information contained
+in records of birth, death, marriage, domestic partnership and dissolution of
+marriage or domestic partnership, and reports of fetal death, comply with
+federal and state laws, regulations and rules. [Formerly 432.115; 2025 c.592 §149] 
+
+   
+
+       432.300 [1987 c.517 §2 (enacted in lieu of
+146.001); 1997 c.783 §28; repealed by 2013 c.366 §88] 
+
+   
+
+       432.305 [Repealed by 1963 c.200 §6] 
+
+   
+
+       432.307 [1963 c.200 §2; 1965 c.221 §26;
+1977 c.582 §33; 1983 c.709 §12; 1985 c.207 §5; 1997 c.783 §29; 1999 c.80 §71;
+1999 c.724 §1; 2001 c.357 §2; 2003 c.104 §3; 2011 c.407 §1; 2013 c.366 §16;
+renumbered 432.133 in 2013] 
+
+   
+
+       432.310 [Amended by 1959 c.629 §32;
+repealed by 1963 c.200 §6] 
+
+   
+
+       432.312 [1993 c.345 §3; 1997 c.783 §30;
+2005 c.726 §3; 2009 c.132 §1; 2009 c.595 §616; 2009 c.709 §16; 2013 c.366 §42;
+renumbered 413.825 in 2013] 
+
+   
+
+       432.315 [Amended by 1959 c.629 §33;
+repealed by 1963 c.200 §6] 
+
+   
+
+       432.317 [1963 c.200 §3; 1983 c.709 §16;
+1985 c.207 §6; 1987 c.252 §9; 1989 c.669 §2; 1997 c.783 §31; 1999 c.724 §4;
+2001 c.357 §3; 2003 c.104 §4; 2009 c.595 §617; 2013 c.366 §20; renumbered
+432.158 in 2013] 
+
+   
+
+       432.320 [Repealed by 1963 c.200 §6] 
+
+   
+
+       432.325 [Repealed by 1963 c.200 §6] 
+
+   
+
+       432.327 [1963 c.200 §4; 1983 c.709 §36;
+1997 c.783 §32; 2013 c.366 §21; renumbered 432.163 in 2013] 
+
+   
+
+       432.330 [Repealed by 1963 c.200 §6] 
+
+   
+
+       432.333 [1983 c.709 §13; 1989 c.171 §54;
+1997 c.783 §33; 2013 c.366 §19; renumbered 432.143 in 2013] 
+
+   
+
+       432.335 [Repealed by 1963 c.200 §6] 
+
+   
+
+       432.337 [1983 c.709 §15; 1997 c.783 §34;
+renumbered 432.153 in 2013] 
+
+   
+
+       432.340 [Repealed by 1963 c.200 §6] 
+
+   
+
+       432.345 [Repealed by 1983 c.709 §45] 
+
+   
+
+ EXEMPTION FROM PUBLIC
+DISCLOSURE 
+
+   
+
+       432.350 Vital
+records exempt from public disclosure; exceptions; rules. (1)(a) Vital records and reports,
+and documents, data and information related to vital records and reports, are
+exempt from public disclosure under ORS 192.311 to 192.478. Except as provided
+in this section and ORS 432.380 or rules adopted by the State Registrar of the
+Center for Health Statistics as described in paragraph (b) of this subsection,
+a person may not disclose or allow a person to inspect vital records or reports
+or related documents, data or information. 
+
+       (b) The state
+registrar may adopt rules permitting the disclosure of vital records and
+reports and related documents, data or information if the disclosure is for
+public health purposes or if the state registrar otherwise determines that: 
+
+       (A) The requestor
+has a valid need for the information; 
+
+       (B) The
+information cannot be obtained from other sources; 
+
+       (C) The requestor
+is authorized to receive the information; and 
+
+       (D) The integrity
+of the vital record or report can be assured. 
+
+       (2)(a) Personally
+identifiable information that may be used to identify a natural person named in
+a vital record or report may be disclosed for health research purposes after
+submission of a written request for the information by a researcher and the approval
+of the state registrar through the execution of a written research agreement
+that: 
+
+       (A) Describes the
+research project; 
+
+       (B) Documents, if
+necessary, applicable institutional review board approvals; and 
+
+       (C) Protects the
+confidentiality and security of the information provided. 
+
+       (b) An agreement
+entered into under this subsection: 
+
+       (A) Must: 
+
+       (i) Prohibit,
+except as explicitly permitted in the agreement, the further release of the
+personally identifiable information by the researcher unless explicitly
+authorized by the state registrar; and 
+
+       (ii) Specify that
+the state continues to own the information provided to the requester; and 
+
+       (B) May require
+payment for the use of the requested information. 
+
+       (3) A government
+agency may be furnished, upon written request and the approval of the state
+registrar, with copies of documents or other data from the system of vital
+statistics, provided that the copies or data are used solely in the conduct of
+the government agency’s official duties. Before furnishing information under
+this subsection, the state registrar and the government agency requesting the
+copies or data shall enter into a data sharing agreement that clearly specifies
+the uses for the copies or data. An agreement entered into under this
+subsection: 
+
+       (a) Must: 
+
+       (A) Contain
+measures to protect the confidentiality and security of the copies or data; 
+
+       (B) Prohibit the
+further release of any personally identifiable information by the government
+agency unless explicitly provided in the agreement; and 
+
+       (C) Specify that
+the state continues to own the copies or data; and 
+
+       (b) May require
+payment for the use of the requested copies or data. 
+
+       (4) The federal
+agency responsible for national vital statistics may be furnished with copies
+of records, reports or other data from the system of vital statistics as
+necessary for the maintenance of national statistics, provided that the agency
+shares in the cost of collecting, processing and transmitting the information
+and that the agency does not use the information for purposes other than
+statistical purposes unless the use is explicitly authorized by the state
+registrar. Before furnishing information under this subsection, the state
+registrar and the agency shall enter into a data sharing agreement that clearly
+specifies the uses for the information. An agreement entered into under this
+subsection must: 
+
+       (a) Prohibit the
+further release of any information by the agency unless explicitly authorized
+by the state registrar; and 
+
+       (b) Specify that
+the state continues to own the information. 
+
+       (5)(a) The state
+registrar, pursuant to an interjurisdictional exchange agreement, may transmit
+copies of records, reports or other documents or other data from the system of
+vital statistics to offices of vital statistics in other states or neighboring countries.
+The exchange agreement must specify the purposes for which the copies or data
+may be used by the other state or neighboring country and provide instructions
+for the proper retention and disposition of the copies and data. 
+
+       (b) Copies of
+records, reports or other documents or other data received by the Center for
+Health Statistics as a result of the exchange agreement are confidential and
+not subject to public disclosure under ORS 192.311 to 192.478, and the state or
+neighboring country in which the vital event occurred continues to own the
+copies and data. 
+
+       (c) An exchange
+agreement entered into under this subsection may not allow the disclosure of
+copies of records, reports or other documents or other data of a vital event
+that did not occur in the state or country that is transmitting the
+information. 
+
+       (6) When the
+death of a person who was born in this state or was a resident of this state at
+the time of death occurs in a country other than the United States, the state
+registrar shall receive a report of death from the United States Department of
+Defense or the United States Department of State. 
+
+       (7) When 100
+years have elapsed after the date of live birth for births occurring after
+1914, 50 years have elapsed after the date of death for deaths occurring after
+1964, 50 years have elapsed after the date of fetal death for fetal deaths
+occurring after 1964 or 50 years have elapsed after the date of marriage,
+domestic partnership, dissolution of marriage or dissolution of domestic
+partnership for such events occurring after 1964, the record available for
+disclosure under this section, whether in paper, electronic or other form, may
+be transferred to the State Archives as a public record in accordance with
+archival procedures for the continued safekeeping of the vital records. The
+State Archives may not charge the Center for Health Statistics for the transfer
+and maintenance of historic vital records under this subsection. The state
+registrar shall adopt rules to ensure that, for records of dissolution of
+marriage or dissolution of domestic partnership issued in proceedings under ORS
+106.300 to 106.340 or 107.085 or 107.485, the Social Security numbers of the
+parties are kept confidential and exempt from public disclosure under ORS
+192.311 to 192.478. Prior to transferring records of live birth and death, the
+state registrar shall redact all information identified as having only a
+medical or health purpose in the United States Standard Certificates of Live
+Birth and Death and the Report of Fetal Death or by rule of the state
+registrar. 
+
+       (8) A decision of
+the state registrar with regard to the disclosure of vital records, reports and
+related documents, data and information is a final agency determination. If the
+state registrar refuses an inspection under this section, the person seeking
+inspection may proceed in the manner set forth in ORS 183.484. 
+
+       (9) Nothing in
+this section prohibits the state registrar from publishing statistical
+compilations or reports for public health purposes if the compilations and
+reports do not contain personally identifiable information. [Formerly 432.121] 
+
+   
+
+       432.355
+Disclosure of death filed in conjunction with claims or interests in land. Notwithstanding any other
+provision of law, a document recording a death filed in conjunction with owning
+or having a claim or interest in land that is in the custody of a county clerk
+or county recording officer is open and subject to full disclosure. A county
+clerk or county recording officer may not record a document that records a
+death filed in conjunction with owning or having a claim or interest in land if
+the document originated in this state and includes medical information related
+to the cause of death. [Formerly 432.124; 2014 c.60 §1] 
+
+   
+
+       432.360
+Records of dissolution of marriage and dissolution of domestic partnership
+subject to full disclosure; exemption.  (1)
+Except as provided in subsection (2) of this section, notwithstanding any other
+provision of law, all marriage and domestic partnership records and all records
+of dissolution of marriage and dissolution of domestic partnership in the
+custody of a county clerk or county recording officer and all records of
+dissolution of marriage and dissolution of domestic partnership in the custody
+of the state courts are open and subject to full disclosure. 
+
+       (2) Records of
+dissolution of marriage and dissolution of domestic partnership in the custody
+of the state courts shall be completed and maintained in accordance with
+procedures established under ORS 107.840 to ensure that the Social Security
+numbers of parties to proceedings under ORS 107.085 and 107.485 are kept
+confidential and exempt from public inspection. [Formerly 432.412] 
+
+   
+
+ CERTIFIED COPIES OF
+RECORDS 
+
+   
+
+       432.380
+Issuance of certified copies of records; applicant qualifications. (1)(a) A certified copy of a
+record of live birth or any part of a record of live birth that is issued under
+this section shall be considered the same as the original record of live birth
+and is prima facie evidence of the facts stated on the certified copy. However,
+the evidentiary value of a certified copy of a record of live birth submitted
+more than one year after the birth, an amended record of live birth or a record
+of foreign live birth must be determined by the judicial or administrative body
+or official before whom the certified copy is offered as evidence. 
+
+       (b) A certified
+copy of a record of death, fetal death, marriage, domestic partnership,
+dissolution of marriage or dissolution of domestic partnership or any part of
+such records that is issued under this section shall be considered the same as
+the original record of death, fetal death, marriage, domestic partnership,
+dissolution of marriage or dissolution of domestic partnership and is prima
+facie evidence of the facts stated on the certified copy. 
+
+       (2)(a) The State
+Registrar of the Center for Health Statistics shall require an applicant for a
+certified copy to submit a signed application, documentation of identity and
+evidence of eligibility. 
+
+       (b)(A) Upon
+receipt of an application, the state registrar shall review the documentation
+of identity provided by the applicant. The documentation must be acceptable to
+the state registrar and, at a minimum, include: 
+
+       (i) Government
+issued identification that includes a photograph; 
+
+       (ii) At least
+three forms of identification; or 
+
+       (iii)
+Identification submitted through an electronic process adopted by the state
+registrar by rule. 
+
+       (B) Forms of
+identification that may be submitted under subparagraph (A)(ii) of this
+paragraph include, but are not limited to, letters from government or social
+agencies, payroll statements, utility bills, student identification with a
+photograph or other items acceptable to the state registrar. 
+
+       (c)(A) Upon
+receipt of an application, the state registrar shall review the evidence of
+eligibility provided by the applicant. Evidence of eligibility submitted under
+this subsection may consist of copies of vital records establishing
+eligibility, court documents establishing eligibility or alternate methods
+identified and accepted by the state registrar. Evidence of eligibility must
+demonstrate that the applicant is qualified to receive a certified copy. 
+
+       (B) To be
+qualified, an applicant must be: 
+
+       (i) Eighteen
+years of age or older or an emancipated minor or, if the applicant is
+requesting to receive a certified copy of the applicant’s own record of live
+birth, 15 years of age or older; 
+
+       (ii) If the
+applicant is requesting a certified copy of a record of live birth, the
+registrant, the registrant’s spouse, domestic partner who is registered by the
+state, parent, child, sibling, grandparent, grandchild, legal guardian or legal
+representative, an authorized representative or a government agency acting in
+the conduct of its official duties; 
+
+       (iii) If the
+applicant is requesting a certified copy of a record of death, the decedent’s
+spouse, domestic partner who is registered by the state, child, parent,
+sibling, grandparent, grandchild, next of kin, legal guardian immediately
+before death or legal representative, an authorized representative, a person in
+charge of disposition, a government agency acting in the conduct of its
+official duties, an employee or agent of a funeral home or person acting as a
+funeral service practitioner who is named in the record of death or a person
+that demonstrates to the satisfaction of the state registrar that the certified
+copy is necessary for a determination related to or the protection of a
+personal or property right of the applicant; 
+
+       (iv) If the
+applicant is requesting a certified copy of a record of fetal death, the
+parent, legal guardian, legal representative of a parent, sibling, grandparent,
+an authorized representative, a person in charge of disposition, a government
+agency acting in the conduct of its official duties or an employee or agent of
+a funeral home or person acting as a funeral service practitioner who is named
+in the record of fetal death; and 
+
+       (v) If the
+applicant is requesting a certified copy of a record of marriage, domestic
+partnership, dissolution of marriage or dissolution of domestic partnership,
+the registrant, the registrant’s spouse, domestic partner who is registered by
+the state, child, parent, sibling, grandparent, grandchild, legal guardian or
+legal representative, an authorized representative or a government agency
+acting in the conduct of its official duties. 
+
+       (d) The state
+registrar may verify documentation of identity and evidence of eligibility with
+any agency that issued that documentation or evidence in reviewing an
+application. 
+
+       (3)
+Notwithstanding subsection (2) of this section, when 100 years have elapsed
+after the date of live birth for births occurring after 1914, 50 years have
+elapsed after the date of death for deaths occurring after 1964, 50 years have
+elapsed after the date of fetal death for fetal deaths occurring after 1964 or
+50 years have elapsed after the date of marriage, domestic partnership,
+dissolution of marriage or dissolution of domestic partnership for such events
+occurring after 1964, the state registrar may issue a certified copy of a
+record to a person who submits an application on a form and in a manner
+prescribed by the state registrar by rule. An application submitted under this
+subsection must contain proof of identity. 
+
+       (4) The state
+registrar shall, upon receipt and approval of an application under this
+section, issue a certified copy of a vital record in the form of a physical
+image or abstract to the applicant. 
+
+       (5) The state
+registrar shall require all certified copies of vital records registered in the
+state to be issued from a central database. 
+
+       (6)(a) The state
+registrar may issue certified copies directly to a government agency or other
+institution as described in this subsection. 
+
+       (b) Upon receipt
+of an application under subsection (2) of this section, the state registrar may
+issue, upon request by the qualified applicant, a certified copy in electronic
+form to a government agency or other institution approved by the state registrar. 
+
+       (c) The state
+registrar may authorize a government agency or other institution to receive
+certified copies under this subsection in electronic form through an automated
+system approved by the state registrar. 
+
+       (d) The state
+registrar, in approving the issuance of a certified copy to a government agency
+or other institution, shall consider the proposed use for the certified copy,
+the frequency of need for the certified copy, the security afforded by the
+government agency or institution and other criteria as determined by the state
+registrar by rule. 
+
+       (e) Certified
+copies issued under this subsection may be used by a government agency only for
+purposes related to the official duties of the government agency. 
+
+       (7) The state
+registrar shall establish minimum information to be included in a certified
+copy. A certified copy may not be issued without the minimum information,
+except that a record of live birth without a first name for the registrant may
+be issued to government agencies for adoption or custody purposes. 
+
+       (8) A certified
+copy of a death record containing the cause and manner of death may not be
+issued except as follows: 
+
+       (a) Upon specific
+request by a person qualified to receive a certified copy of a record of death
+under subsection (2)(c)(B)(iii) of this section; 
+
+       (b) When a
+documented need for the cause or manner of death to establish a legal right or
+claim has been demonstrated; or 
+
+       (c) Upon
+receiving an order from a court of competent jurisdiction that requires the
+issuance of a certified copy of a death record containing the cause and manner
+of death. 
+
+       (9) Each
+certified copy issued for a record registered after January 1, 2008, must
+indicate the date of registration. If the record was amended, the certified
+copy must be marked or flagged as having been amended and must indicate the
+effective date of the amendment. If the record is marked or flagged “Delayed,”
+the certified copy must be marked or flagged as having been delayed and must
+include the date of registration and a description of the evidence used to
+establish the record. If the record is a record of foreign live birth, the
+certified copy must indicate that fact and show the actual place of birth. A
+certified copy for a record of live birth that has been matched to a record of
+death must be marked or flagged “Deceased.” 
+
+       (10) Information
+identified in the United States Standard Certificates of Live Birth and Death
+and the Report of Fetal Death, or as identified by the state registrar by rule,
+as only being available for medical or health purposes is not subject to subpoena
+or court order and is not admissible before a court, tribunal or other judicial
+body. Information identified in the United States Standard Certificates of Live
+Birth and Death and the Report of Fetal Death, or as identified by the state
+registrar by rule, as having an administrative, statistical, medical or health
+purpose may not be included in a certified copy of a vital record. 
+
+       (11) After
+acceptance of an application by a qualified applicant, if a record is not
+identified for the requested certified copy, the state registrar shall issue a
+document indicating that a record for the requested certified copy has not been
+identified. The document also must include the criteria used in attempting to
+identify the record, including the type of vital event, the name of the
+registrant, the date or range of dates for the vital event and other criteria
+used. 
+
+       (12) Verification
+of facts contained in a certified copy may be furnished by the state registrar
+to a government agency in the conduct of its official duties. The request for
+verification must: 
+
+       (a) Include a
+copy of the certified copy and be in a format prescribed or approved by the
+state registrar; or 
+
+       (b) If the
+requester attests to having the certified copy and can provide verification, as
+determined by the state registrar by rule, of having the certified copy, be
+submitted electronically through an automated system approved by the state
+registrar. 
+
+       (13) The state
+registrar shall provide or approve forms and procedures for the issuance of
+certified copies of vital records in this state. All forms and procedures must
+be uniform and be in accordance with ORS 432.033. 
+
+       (14) The state
+registrar shall maintain a searchable file, either physical or electronic, of
+each application submitted under this section for a minimum of three years. 
+
+       (15) A person may
+not prepare or issue any paper or electronic document that purports to be an
+original vital record, a certified copy for verification of a vital record or a
+copy of a vital record except as authorized in this chapter. 
+
+       (16) All
+applications and supporting documentation submitted for the purpose of issuing
+certified copies of vital records are confidential and not subject to public
+disclosure under ORS 192.311 to 192.478. [Formerly 432.180; 2019 c.259 §1] 
+
+   
+
+ PROHIBITION AGAINST
+FRAUDULENT ACTIVITY 
+
+   
+
+       432.385
+Registering, amending or correcting record through fraud; fraudulent use of
+record. (1)(a)
+When the State Registrar of the Center for Health Statistics receives
+information that a record may have been registered, amended or corrected
+through fraud or misrepresentation, the state registrar may withhold issuance
+of certified copies related to that record pending an inquiry by appropriate
+authorities to determine whether fraud or misrepresentation has occurred. 
+
+       (b) If the
+appropriate authorities conclude that no fraud or misrepresentation occurred,
+then the state registrar shall issue certified copies related to the record. If
+the appropriate authorities conclude that there is reasonable cause to suspect
+fraud or misrepresentation, then the state registrar shall provide copies of
+the record and any relevant evidence to the appropriate authorities for further
+investigation. 
+
+       (c) If upon
+further investigation, the appropriate authorities conclude that fraud or
+misrepresentation occurred, the state registrar shall provide an opportunity to
+the registrant or the legal representative of the registrant to respond to the
+findings prior to voiding the record. 
+
+       (d) If the state
+registrar issues an order voiding a record under this subsection, the state
+registrar shall advise the registrant of the registrant’s rights under ORS
+183.484. 
+
+       (e) A record
+voided under this subsection shall be retained by the state registrar. However,
+a record voided under this subsection is not subject to inspection or copying
+except upon receiving an order from a court of competent jurisdiction or by the
+state registrar for purposes of administering the system of vital statistics. 
+
+       (2)(a) When the
+state registrar receives information that an application for a certified copy
+may have been submitted for purposes of fraud or misrepresentation, the state
+registrar may withhold issuance of the certified copy pending an inquiry by
+appropriate authorities to determine whether fraud or misrepresentation
+occurred. 
+
+       (b) If the
+appropriate authorities conclude that no fraud or misrepresentation occurred,
+then the state registrar shall issue the certified copy. If the appropriate
+authorities conclude that there is reasonable cause to suspect fraud or
+misrepresentation, then the state registrar shall provide copies of the
+application and any relevant evidence to the appropriate authorities for
+further investigation. The state registrar shall advise the applicant of the
+applicant’s rights under ORS 183.484. 
+
+       (c) An
+application investigated under this subsection shall be retained by the state
+registrar. However, an application investigated under this subsection is not
+subject to inspection or copying except upon receiving an order from a court of
+competent jurisdiction or by the state registrar for purposes of administering
+the system of vital statistics. 
+
+       (3) The state
+registrar shall periodically test and audit the system of vital statistics for
+purposes of detecting fraud. If fraud is detected, the state registrar shall
+provide copies of the evidence to the appropriate authorities for further
+investigation. The result of such tests and audits shall be retained by the
+state registrar. However, the results of such tests and audits are not subject
+to inspection or copying except upon receiving an order from a court of
+competent jurisdiction or by the state registrar for purposes of administering
+the system of vital statistics. [2013 c.366 §38] 
+
+   
+
+       432.405 [Amended by 1983 c.709 §17; 1997
+c.783 §35; 2007 c.99 §18; 2013 c.366 §22; renumbered 432.173 in 2013] 
+
+   
+
+       432.408 [1997 c.783 §37; 2003 c.380 §9;
+2003 c.576 §456a; 2007 c.99 §19; 2013 c.366 §25; renumbered 432.183 in 2013] 
+
+   
+
+       432.410 [Repealed by 1959 c.430 §5] 
+
+   
+
+       432.412 [1999 c.254 §6; 2003 c.380 §10;
+2013 c.366 §35; renumbered 432.360 in 2013] 
+
+   
+
+       432.415 [Amended by 1959 c.430 §2; 1983
+c.709 §10; 1997 c.783 §38; 2003 c.576 §457; 2013 c.366 §26; renumbered 432.223
+in 2013] 
+
+   
+
+       432.420 [Amended by 1957 c.193 §1; 1983
+c.672 §18; 1995 c.79 §221; 1995 c.730 §11; 1997 c.783 §39; 1999 c.254 §3; 2013
+c.366 §31; renumbered 432.250 in 2013] 
+
+   
+
+       432.425 [Amended by 1955 c.680 §1;
+repealed by 1983 c.709 §45] 
+
+   
+
+       432.430 [Amended by 1983 c.709 §7; 1997
+c.783 §40; 2013 c.366 §13; renumbered 432.108 in 2013] 
+
+   
+
+ FEES AND SALES 
+
+   
+
+       432.435 Fees. (1) Except as provided in ORS
+432.445 and subsection (2) of this section, the Oregon Health Authority shall
+establish fees for the services provided under this chapter. 
+
+       (2) The State
+Registrar of the Center for Health Statistics shall search the system of vital
+statistics and issue certified copies or other documents, as appropriate,
+without charge if the search or issuance is: 
+
+       (a) Requested in
+connection with a pending application for benefits from the United States
+Department of Veterans Affairs, if proof of the application is first submitted;
+or 
+
+       (b) In response
+to an administrative error as determined by the state registrar. 
+
+       (3) Fees
+collected under this section must be deposited in the Oregon Health Authority
+Fund and are continuously appropriated to the Center for Health Statistics for
+the purpose of administering this chapter. [Formerly 432.146; 2017 c.540 §4] 
+
+   
+
+       432.440 County
+registrar sale of certified copies of records of live birth and death; rules. The Oregon Health Authority shall
+adopt, taking into consideration local service needs and interests, rules to
+allow a county registrar to sell, within six months of the date of the event
+occurring in the county, certified copies of records of live birth and death. [Formerly
+432.085] 
+
+   
+
+       432.445
+Issuance of additional record of live birth; fee; form; distribution of funds
+received. (1) The
+State Registrar of the Center for Health Statistics shall issue upon request
+and upon payment of a fee in an amount set by the state registrar a record of
+live birth representing that the birth of the person named on the record of
+live birth is recorded in the office of the state registrar. The record of live
+birth issued under this section shall be in a form consistent with the need to
+protect the integrity of vital records but shall be suitable for display. It
+may bear the seal of the state and may be signed by the Governor. 
+
+       (2) Of the funds
+received under subsection (1) of this section, the amount needed to reimburse
+the state registrar for expenses incurred in administering this section shall
+be credited to the Public Health Account. The remainder shall be credited to
+the subaccount created pursuant to section 36 (2), chapter 1084, Oregon Laws
+1999, or a successor subaccount, account or fund. 
+
+       (3) In setting
+the fee amount under subsection (1) of this section, the state registrar shall
+give substantial consideration to the amount suggested by the holder of the
+subaccount created pursuant to section 36 (2), chapter 1084, Oregon Laws 1999,
+or a successor subaccount, account or fund. [Formerly 432.090] 
+
+   
+
+       432.450 Grant
+program for issuance of certified copy of record of live birth to individual
+who is homeless; rules. 
+(1) The Oregon Health Authority shall establish a grant program for the purpose
+of allowing an individual who is homeless to obtain a certified copy of the
+individual’s record of live birth at a reduced rate or free of charge. 
+
+       (2) In
+administering the program, the authority: 
+
+       (a) Shall award
+grants to state, regional and local agencies and organizations listed in ORS
+458.528 for the purpose specified in subsection (1) of this section; 
+
+       (b) Shall develop
+criteria for receiving a grant under this section and processes for applying
+for a grant under this section; 
+
+       (c) May require
+recipients of a grant to report to the authority on the use of grant funds; and 
+
+       (d) Shall adopt
+by rule a definition for the term “individual who is homeless” that gives the
+term the same meaning as provided in 42 U.S.C. 11302 for the terms “homeless,” “homeless
+individual” and “homeless person.” [2017 c.540 §2] 
+
+   
+
+       432.455 Birth
+Certificates for Homeless Persons Fund. (1) There is established in the State Treasury,
+separate and distinct from the General Fund, the Birth Certificates for
+Homeless Persons Fund. Interest earned by the Birth Certificates for Homeless
+Persons Fund shall be credited to the fund. All moneys in the Birth
+Certificates for Homeless Persons Fund are continuously appropriated to the
+Oregon Health Authority for purposes of ORS 432.450. 
+
+       (2) The Birth
+Certificates for Homeless Persons Fund shall consist of all moneys credited to
+the fund, including moneys appropriated or transferred to the fund by the
+Legislative Assembly. [2017 c.540 §3] 
+
+   
+
+ CANCER AND TUMOR
+REGISTRY SYSTEM 
+
+   
+
+       432.500
+Definitions. As
+used in ORS 432.510 to 432.550 and 432.900: 
+
+       (1) “Clinical
+laboratory” means a facility where microbiological, serological, chemical,
+hematological, immunohematological, immunological, toxicological,
+cytogenetical, exfoliative cytological, histological, pathological or other
+examinations are performed on material derived from the human body, for the
+purpose of diagnosis, prevention of disease or treatment of patients by
+physicians, dentists and other persons who are authorized by license to
+diagnose or treat humans. 
+
+       (2) “Health care
+facility” means a hospital, as defined in ORS 442.015, an ambulatory surgical
+center, as defined in ORS 442.015, or any other facility in which patients are
+diagnosed or provided treatment for cancer or benign or borderline tumors of
+the brain and central nervous system. 
+
+       (3) “Practitioner”
+means any person whose professional license allows the person to diagnose or
+treat cancer in patients. [1995 c.585 §1; 2001 c.104 §154; 2003 c.14 §243; 2003
+c.269 §1; 2009 c.595 §618; 2009 c.792 §35; 2011 c.720 §191; 2017 c.101 §35] 
+
+   
+
+       Note: 432.500 to 432.570 and 432.900
+were enacted into law by the Legislative Assembly but were not added to or made
+a part of ORS chapter 432 or any series therein by legislative action. See
+Preface to Oregon Revised Statutes for further explanation. 
+
+   
+
+       432.510 Cancer
+and tumor registry system; purpose; rulemaking; duties of Oregon Health
+Authority. (1) The
+Oregon Health Authority shall establish a uniform, statewide, population-based
+registry system for the collection of information determining the incidence of
+cancer and benign or borderline tumors of the brain and central nervous system
+and related data. The purpose of the registry is to provide information to
+design, target, monitor, facilitate and evaluate efforts to determine the
+causes or sources of cancer and benign or borderline tumors among the residents
+of this state and to reduce the burden of cancer and benign or borderline
+tumors in this state. Such efforts may include but are not limited to: 
+
+       (a) Targeting
+populations in need of cancer screening services or evaluating screening or
+other cancer control services; 
+
+       (b) Supporting
+the operation of hospital registries in monitoring and upgrading the care and
+the end results of treatment for cancer and benign or borderline tumors; 
+
+       (c) Investigating
+suspected clusters or excesses of cancer and benign or borderline tumors both
+in occupational settings and in the state’s environment generally; 
+
+       (d) Conducting
+studies to identify cancer hazards to the public health and cancer hazard
+remedies; and 
+
+       (e) Projecting
+the benefits or costs of alternative policies regarding the prevention or
+treatment of cancer and benign or borderline tumors. 
+
+       (2) The authority
+shall adopt rules necessary to carry out the purposes of ORS 432.510 to 432.550
+and 432.900, including but not limited to designating which types of cancer and
+benign or borderline tumors of the brain and central nervous system are reportable
+to the statewide registry, the data to be reported, the data reporting
+standards and format and the effective date after which reporting by health
+care facilities, clinical laboratories and practitioners shall be required.
+When adopting rules under this subsection, the authority shall, to the greatest
+extent practicable, conform the rules to the standards and procedures
+established by the American College of Surgeons Commission on Cancer, with the
+goal of achieving uniformity in the collection and reporting of data. 
+
+       (3) The authority
+shall: 
+
+       (a) Conduct a
+program of epidemiologic analyses of registry data collected under subsection
+(1) of this section to assess control, prevention, treatment and causation of
+cancer and benign or borderline tumors in this state; and 
+
+       (b) Utilize the
+data to promote, facilitate and evaluate programs designed to reduce the burden
+of cancer and benign or borderline tumors among the residents of Oregon. 
+
+       (4) The authority
+shall: 
+
+       (a) Collaborate
+in studies of cancer and benign or borderline tumors with clinicians and
+epidemiologists and publish reports on the results of such studies; and 
+
+       (b) Cooperate
+with the National Institutes of Health and the Centers for Disease Control and
+Prevention in providing incidence data for cancer and benign or borderline
+tumors. 
+
+       (5) The authority
+shall establish a training program for the personnel of participating health
+care facilities and a quality control program for data for cancer and benign or
+borderline tumors reported to the state registry. 
+
+       (6) The authority
+may contract with a public or private third party to: 
+
+       (a) Operate or
+maintain the statewide registry; and 
+
+       (b) Fulfill the
+authority’s duties under subsections (3) to (5) of this section. [1995 c.585 §2;
+2003 c.269 §2; 2007 c.71 §121; 2009 c.595 §619; 2017 c.101 §36; 2018 c.98 §13;
+2019 c.456 §29] 
+
+   
+
+       Note: See note under 432.500. 
+
+   
+
+       432.520
+Reporting requirement; review of records; special studies. (1) Except as provided in
+subsection (2) of this section, any health care facility in which patients are
+diagnosed or provided treatment for cancer or benign or borderline tumors of
+the brain and central nervous system shall report each case of cancer or benign
+or borderline tumors of the brain and central nervous system to the Oregon
+Health Authority or its authorized representative within a time period and in a
+format prescribed by the authority. The authority may provide, at cost,
+reporting services to health care facilities. Health care facilities may also
+purchase reporting services from another facility or commercial vendor. If a
+health care facility is unable to report in conformance with the format and
+standards prescribed by the authority, the authority may, after consultation
+with the health care facility, elect to activate its reporting service for the
+facility. When activated, the authority may enter the facility, obtain the
+information and report it in conformance with the appropriate format and
+standards. In these instances, the facility shall reimburse the authority or
+its authorized representative for the cost of obtaining and reporting the
+information. 
+
+       (2) Upon
+application to the authority by a health care facility, the authority shall
+grant to the health care facility an extension of time in which to meet the
+reporting requirements of this section. In no event shall the extension of time
+exceed one year from the date of application. 
+
+       (3) Any licensed
+health care practitioner diagnosing or providing treatment to patients with
+cancer or benign or borderline tumors of the brain and central nervous system
+shall report each case to the authority or its authorized representative within
+a time period and in a format prescribed by the authority. Those cases
+diagnosed or treated at an Oregon health care facility or previously admitted
+to an Oregon health care facility for diagnosis or treatment of that instance
+of cancer or benign or borderline tumors of the brain and central nervous
+system shall be considered by the authority to have been reported by the
+licensed health care practitioner. 
+
+       (4) Any clinical
+laboratory diagnosing cases of cancer or benign or borderline tumors of the
+brain and central nervous system shall report each case to the authority or its
+authorized representative within a time period and in a format prescribed by
+the authority. 
+
+       (5) For the
+purpose of assuring the accuracy and completeness of reported data, the
+authority shall have the right to periodically review all records that would: 
+
+       (a) Identify
+cases of cancer and benign or borderline tumors, the treatment of the cancer or
+benign or borderline tumors or the medical status of any patient identified as
+being treated for cancer or benign or borderline tumors; or 
+
+       (b) Establish
+characteristics of the cancer or benign or borderline tumors. 
+
+       (6) The authority
+may conduct special studies of cancer morbidity and mortality. As part of such
+studies, registry personnel may obtain additional information that applies to a
+patient’s cancer or benign or borderline tumors and that may be in the medical
+record of the patient. The record holder may either provide the requested
+information to the registry personnel or provide the registry personnel access
+to the relevant portions of the patient’s medical record. Neither the authority
+nor the record holder shall bill the other for the cost of providing or
+obtaining this information. [1995 c.585 §3; 2003 c.269 §3; 2009 c.595 §620;
+2017 c.101 §37; 2019 c.456 §30] 
+
+   
+
+       Note: See note under 432.500. 
+
+   
+
+       432.530
+Confidentiality of information. 
+(1) All identifying information regarding individual patients, health care
+facilities and practitioners reported pursuant to ORS 432.520 shall be
+confidential and privileged. Except as required in connection with the
+administration or enforcement of public health laws or rules, no public health
+official, employee or agent shall be examined in an administrative or judicial
+proceeding as to the existence or contents of data collected under the registry
+system for cancer and benign or borderline tumors of the brain and central
+nervous system. 
+
+       (2) All
+additional information reported in connection with a special study shall be
+confidential and privileged and shall be used solely for the purposes of the
+study, as provided by ORS 413.196. Nothing in this section shall prevent the
+Oregon Health Authority from publishing statistical compilations relating to
+morbidity and mortality studies that do not identify individual cases or
+prevent use of this data by third parties to conduct research as provided by
+ORS 432.540 (1). [1995 c.585 §5; 2003 c.269 §4; 2009 c.595 §621; 2017 c.101 §38] 
+
+   
+
+       Note: See note under 432.500. 
+
+   
+
+       432.540 Use of
+confidential data; rules. 
+(1) The Oregon Health Authority shall adopt rules under which confidential data
+may be used by third parties to conduct research and studies for the public
+good. Research and studies conducted using confidential data from the statewide
+registry must be reviewed and approved by the Committee for the Protection of
+Human Research Subjects established in accordance with 45 C.F.R. 46. 
+
+       (2) The authority
+may enter into agreements to exchange information with other registries for
+cancer and benign or borderline tumors of the brain and central nervous system
+in order to obtain complete reports of Oregon residents diagnosed or treated in
+other states and to provide information to other states regarding the residents
+of other states diagnosed or treated in Oregon. Prior to providing information
+to any other registry, the authority shall ensure that the recipient registry
+has comparable confidentiality protections. [1995 c.585 §6; 2003 c.269 §6; 2009
+c.595 §622; 2017 c.101 §39] 
+
+   
+
+       Note: See note under 432.500. 
+
+   
+
+       432.550 Action
+for damages; license; disciplinary action prohibited for good faith
+participation in reporting of data. 
+(1) No action for damages arising from the disclosure of confidential or
+privileged information may be maintained against any person, or the employer or
+employee of any person, who participates in good faith in the reporting of
+registry data for cancer or benign or borderline tumors of the brain and
+central nervous system or data for cancer morbidity or mortality studies in
+accordance with ORS 432.510 to 432.540 and 432.900. 
+
+       (2) No license of
+a health care facility or practitioner may be denied, suspended or revoked for
+the good faith disclosure of confidential or privileged information in the
+reporting of registry data for cancer or benign or borderline tumors of the
+brain and central nervous system or data for cancer morbidity or mortality
+studies in accordance with ORS 432.510 to 432.540 and 432.900. 
+
+       (3) Nothing in
+this section shall be construed to apply to the unauthorized disclosure of
+confidential or privileged information when such disclosure is due to gross
+negligence or willful misconduct. [1995 c.585 §7; 2003 c.269 §5; 2017 c.101 §40] 
+
+   
+
+       Note: See note under 432.500. 
+
+   
+
+       432.560 [1995 c.585 §8; repealed by 2001
+c.900 §261] 
+
+   
+
+       432.570 No
+requirement or prohibition regarding operation of separate cancer and tumor
+registry. Nothing
+in ORS 432.510 to 432.550 and 432.900 shall prohibit a health care facility
+from operating its own registry for cancer and benign or borderline tumors of
+the brain and central nervous system or require a health care facility to
+operate its own registry for cancer and benign or borderline tumors. [1995
+c.585 §9; 2003 c.269 §7; 2017 c.101 §41] 
+
+   
+
+       Note: See note under 432.500. 
+
+   
+
+ MATERNAL MORTALITY AND
+MORBIDITY REVIEW COMMITTEE 
+
+   
+
+       432.600
+Establishment of committee; members; term; meetings; duties; confidentiality;
+reports. (1) As
+used in this section: 
+
+       (a) “Maternal
+mortality” means the pregnancy-related death of a person within 365 days after
+the end of the pregnancy. 
+
+       (b) “Severe
+maternal morbidity” includes pregnancy-related outcomes that result in
+significant short-term or long-term consequences to a person’s health. 
+
+       (2) The Maternal
+Mortality and Morbidity Review Committee is established in the Oregon Health
+Authority to conduct studies and reviews of the incidence of maternal mortality
+and severe maternal morbidity and to make policy and budget recommendations to
+reduce the incidence of maternal mortality and severe maternal morbidity in
+this state. 
+
+       (3) The committee
+shall consist of at least 11 but not more than 15 members appointed by the
+Governor. The Governor shall consider for membership the following individuals: 
+
+       (a) A physician
+licensed under ORS chapter 677 who specializes in family medicine and whose
+practice includes maternity care and delivery; 
+
+       (b) A physician
+licensed under ORS chapter 677 who specializes in obstetrics and gynecology; 
+
+       (c) A physician
+licensed under ORS chapter 677 who specializes in maternal fetal medicine; 
+
+       (d) A licensed
+registered nurse who specializes in labor and delivery; 
+
+       (e) A licensed
+registered nurse who is licensed by the Oregon State Board of Nursing as a
+nurse practitioner specializing in nurse midwifery; 
+
+       (f) A direct
+entry midwife licensed under ORS 687.405 to 687.495; 
+
+       (g) An individual
+who meets criteria for a doula adopted by the authority in accordance with ORS
+414.665; 
+
+       (h) A traditional
+health worker; 
+
+       (i) An individual
+who represents a community-based organization that represents communities of
+color and focuses on reducing racial and ethnic health disparities; 
+
+       (j) An individual
+who represents a community-based organization that focuses on treatment of
+mental health; 
+
+       (k) An individual
+who represents the authority with an expertise in the field of maternal and
+child health; 
+
+       (L) An individual
+who is an expert in the field of public health; and 
+
+       (m) A medical
+examiner. 
+
+       (4) In appointing
+members under subsection (3) of this section, the Governor shall consider
+whether the composition of the committee is reasonably representative of this
+state’s geographic, ethnic and economic diversity. 
+
+       (5) Members of
+the committee shall serve for terms of four years each. The Governor shall fill
+a vacancy on the committee by making an appointment to become immediately
+effective for the unexpired term. The Governor shall assign the initial terms
+of office to members so that the terms expire at staggered intervals. 
+
+       (6) The committee
+shall elect one of its members to serve as chairperson. A majority of the
+members of the committee constitutes a quorum. 
+
+       (7) The committee
+shall meet at times and places specified by the call of the chairperson or of a
+majority of the members of the committee. 
+
+       (8) The committee
+shall convene in closed, nonpublic meetings. 
+
+       (9) A member of
+the committee is not entitled to compensation, but in the discretion of the
+authority may be reimbursed from funds available to the authority for actual
+and necessary travel and other expenses incurred by the member in the
+performance of the member’s official duties in the manner and amount provided
+in ORS 292.495. 
+
+       (10) The
+authority may adopt rules necessary for the operation of the committee. 
+
+       (11) The
+committee shall: 
+
+       (a) Study and
+review information relating to the incidence of maternal mortality and severe
+maternal morbidity in this state. 
+
+       (b) Examine
+whether social determinants of health are contributing factors to the incidence
+of maternal mortality and severe maternal morbidity including, but not limited
+to: 
+
+       (A) Race and
+ethnicity; 
+
+       (B) Socioeconomic
+status; 
+
+       (C) Domestic
+abuse or violence; 
+
+       (D) Access to
+affordable housing; 
+
+       (E) Access to
+primary and preventive health care services, oral health care services and
+behavioral health services for a person who is of reproductive age; and 
+
+       (F) Gaps in
+insurance coverage postpartum or following pregnancy. 
+
+       (12)(a) Upon
+request by the division of the authority that is charged with public health
+functions, the following shall make available to the committee information
+relating to the incidence of maternal mortality and severe maternal morbidity
+in this state: 
+
+       (A) Health care
+providers; 
+
+       (B) Providers of
+social services; 
+
+       (C) Health care
+facilities; 
+
+       (D) The
+authority; 
+
+       (E) The
+Department of Human Services; 
+
+       (F) Law
+enforcement agencies; 
+
+       (G) Medical
+examiners; and 
+
+       (H) Any other
+state and local agency deemed relevant by the committee. 
+
+       (b) Information
+made available to the committee may include, but need not be limited to, the
+following: 
+
+       (A) Medical
+records; 
+
+       (B) Autopsy
+reports; 
+
+       (C) Birth
+records; 
+
+       (D) Death
+records; 
+
+       (E) Social
+services files; 
+
+       (F) Information
+obtained during any family interviews; and 
+
+       (G) Any other
+data or information the committee may deem relevant in connection with maternal
+mortality and severe maternal morbidity. 
+
+       (c) A person may
+not charge or collect a fee for providing information to the committee pursuant
+to this subsection. 
+
+       (13)
+Notwithstanding any other law relating to sharing confidential information, all
+agencies of state government, as defined in ORS 174.111, are directed to assist
+the committee in the performance of duties of the committee and shall furnish
+information and advice as deemed necessary by the members of the committee. 
+
+       (14)(a) All
+meetings and activities of the committee are exempt from the requirements of
+ORS 192.610 to 192.705. 
+
+       (b) All
+information obtained, created or maintained by the committee is: 
+
+       (A) Confidential
+and exempt from disclosure under ORS 192.311 to 192.478; and 
+
+       (B) Not
+admissible in evidence in a judicial, administrative, arbitration or mediation
+proceeding. 
+
+       (c) Committee
+members may not be: 
+
+       (A) Examined as
+to any communications to or from the committee or as to any information
+obtained or maintained by the committee; or 
+
+       (B) Subject to an
+action for civil damages for affirmative actions or statements made in good
+faith. 
+
+       (d) This
+subsection does not limit the discoverability or admissibility of any
+information that is available from any source other than the committee in a
+judicial, administrative, arbitration or mediation proceeding. 
+
+       (15) A person who
+acts in good faith in making information available to the committee under
+subsection (12) or (13) of this section: 
+
+       (a) Has immunity: 
+
+       (A) From any
+civil or criminal liability that might otherwise be incurred or imposed with
+respect to releasing the information; 
+
+       (B) From
+disciplinary action taken by the person’s employer with respect to releasing
+the information; and 
+
+       (C) With respect
+to participating in any judicial proceeding resulting from or involving the
+release of information; and 
+
+       (b) May not be
+examined as to any communications to or from the committee or as to any
+information obtained, created or maintained by the committee. 
+
+       (16) Nothing in
+subsection (14) or (15) of this section may be construed to limit or restrict
+the discoverability or admissibility of any information that is available from
+any person or any other source independent of the meetings or activities of the
+committee in a civil or criminal proceeding. 
+
+       (17)(a) The
+committee shall submit a biennial report in the manner provided in ORS 192.245,
+and may include recommendations for legislation, to the interim committees of
+the Legislative Assembly related to health care. The report submitted under
+this subsection must include, but is not limited to, the following: 
+
+       (A) A summary of
+the committee’s conclusions and findings relating to maternal mortality; 
+
+       (B) Aggregated
+data related to the cases of maternal mortality in this state that is not
+individually identifiable; 
+
+       (C) A description
+of actions that are necessary to implement any recommendations of the committee
+to prevent occurrences of maternal mortality in this state; and 
+
+       (D)
+Recommendations for allocating state resources to decrease the rate of maternal
+mortality in this state. 
+
+       (b) A biennial
+report submitted after January 2, 2021, in addition to providing the
+information described in paragraph (a) of this subsection, must describe how
+the information relates to severe maternal morbidity. 
+
+       (18) The
+committee shall provide the report required under subsection (17) of this
+section to health care providers and facilities, relevant state agencies and
+any others as the committee deems necessary to reduce the incidence of maternal
+mortality and severe maternal morbidity. [2018 c.63 §1; 2019 c.233 §4; 2019
+c.358 §48] 
+
+ Note: 432.600 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 432
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+ PENALTIES 
+
+   
+
+       432.900 Civil
+penalty. (1) In
+addition to any other liability or penalty provided by law, the Director of the
+Oregon Health Authority may impose a civil penalty on any person for willful
+failure to comply with any part of ORS 432.520. A civil penalty may be imposed
+against a health care facility for each day compliance is refused. The penalty
+shall be $50 per day for the first 30 days and $500 per day thereafter. A civil
+penalty of $50 may be imposed against a practitioner for each day compliance is
+refused. 
+
+       (2) Any amounts
+collected pursuant to subsection (1) of this section shall be paid into the
+State Treasury and deposited in the General Fund. 
+
+       (3) Civil
+penalties described in subsection (1) of this section shall be imposed in the
+manner provided in ORS 183.745. [1995 c.585 §4; 2009 c.595 §623; 2011 c.597 §195] 
+
+   
+
+       Note: See note under 432.500. 
+
+   
+
+       432.990 [Amended by 1963 c.200 §5; 1971
+c.743 §369; repealed by 1997 c.783 §48] 
+
+   
+
+       432.993
+Unlawful use of vital record or report; criminal penalty. (1) A person commits the crime of
+unlawful use of a vital record or report if the person willfully and knowingly: 
+
+       (a) Makes a false
+statement to the State Registrar of the Center for Health Statistics in a
+report or application described in this chapter; 
+
+       (b) Without
+lawful authority and with intent to deceive, makes, counterfeits, alters,
+amends or mutilates a record, report, certified copy, verification or
+application, or documentation submitted in support of a record, report,
+certified copy, verification or application; 
+
+       (c) Obtains,
+possesses, uses, sells or furnishes to another, or attempts to obtain, possess,
+use, sell or furnish to another, for any purpose of deception, a record,
+report, certified copy, verification or application, or documentation submitted
+in support of a record, report, certified copy, verification or application; 
+
+       (d) Without
+lawful authority, possesses a record, report, certified copy, verification or
+application, or documentation submitted in support of a record, report,
+certified copy, verification or application, that has been stolen or otherwise
+unlawfully obtained; or 
+
+       (e) As an
+employee of the Center for Health Statistics or of an office designated under
+ORS 432.035, furnishes or processes a certified copy of a record of live birth,
+knowing that the certified copy is to be used for the purposes of deception. 
+
+       (2) Unlawful use
+of a vital record or report is a Class C felony. [1997 c.783 §42; 2013 c.366 §45] 
+
+   
+
+       432.994
+Unlawful use of vital record or report; civil penalty. (1) The Director of the Oregon
+Health Authority may impose a civil penalty in an amount not to exceed $10,000
+for each violation described in ORS 432.993. Moneys received by the authority
+from civil penalties imposed under this section shall be deposited in the
+General Fund and are available for general governmental expenses. 
+
+       (2) Civil
+penalties under this section shall be imposed in the manner provided in ORS
+183.745. [2013 c.366 §44] 
+
+   
+
+       432.995
+Obstructing the keeping of vital records or reports; criminal penalty. (1) A person commits the crime of
+obstructing the keeping of vital records or reports if the person knowingly and
+willfully: 
+
+       (a) Refuses to
+provide information required by this chapter or rules adopted under this
+chapter; 
+
+       (b) Transports or
+accepts for transportation, interment or other disposition a dead body without
+an accompanying permit as provided in this chapter; or 
+
+       (c) Fails to
+perform in a timely manner any of the provisions of this chapter. 
+
+       (2) The
+provisions of subsection (1)(c) of this section do not apply to the officers or
+employees of the courts of this state acting in an official capacity. 
+
+       (3) Obstructing
+the keeping of vital records or reports is a Class A misdemeanor. [1997 c.783 §43;
+2013 c.366 §46] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

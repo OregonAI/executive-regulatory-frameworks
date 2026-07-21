@@ -1,0 +1,4957 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+ TITLE
+14 
+
+   
+
+ PROCEDURE
+IN CRIMINAL MATTERS GENERALLY 
+
+   
+
+ Chapter     131.     Preliminary
+Provisions; Limitations; Jurisdiction; Venue; Criminal Forfeiture; Crime
+Prevention 
+
+                   131A.  Civil
+Forfeiture 
+
+                   132.     Grand
+Jury, Indictments and Other Accusatory Instruments 
+
+                   133.     Arrest
+and Related Procedures; Search and Seizure; Extradition 
+
+                   135.     Arraignment
+and Pretrial Provisions 
+
+                   136.     Criminal
+Trials 
+
+                   137.     Judgment
+and Execution; Parole and Probation by the Court 
+
+                   138.     Appeals;
+Post-Conviction Relief 
+
+                   142.     Stolen
+Property 
+
+                   144.     Parole;
+Post-Prison Supervision; Work Release; Executive Clemency; Standards for Prison
+Terms and Parole; Presentence Reports 
+
+                   146.     Investigations
+of Deaths, Injuries and Missing Persons 
+
+                   147.     Victims
+of Crime and Acts of Mass Destruction 
+
+                   151.     Public
+Defenders; Counsel for Financially Eligible Persons 
+
+                   153.     Violations
+and Fines 
+
+ _______________ 
+
+   
+
+ Chapter
+131 — Preliminary Provisions; Limitations; Jurisdiction; Venue; Criminal
+Forfeiture; Crime Prevention 
+
+   
+
+ ORS sections in this
+chapter were amended or repealed by the Legislative Assembly during its 2026
+regular session. See the table of ORS sections amended or repealed during the
+2026 regular session: 2026
+A&R Tables 
+
+   
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ PRELIMINARY PROVISIONS 
+
+   
+
+ PROCEDURE IN CRIMINAL MATTERS
+GENERALLY 
+
+   
+
+ PRELIMINARY PROVISIONS 
+
+   
+
+ 131.005     General definitions 
+
+   
+
+ 131.007     “Victim” defined 
+
+   
+
+ 131.015     Application to prior
+and subsequent actions 
+
+   
+
+ 131.025     Parties in criminal
+action 
+
+   
+
+ 131.035     When departures, errors
+or mistakes in pleadings or proceedings are material 
+
+   
+
+ 131.040     When law enforcement
+officer may communicate with person represented by counsel 
+
+   
+
+ 131.045     Appearances by
+simultaneous electronic transmission 
+
+   
+
+ TIME LIMITATIONS 
+
+   
+
+ 131.105     Timeliness of criminal
+actions 
+
+   
+
+ 131.125     Time limitations 
+
+   
+
+ 131.135     When prosecution
+commenced 
+
+   
+
+ 131.145     When time starts to
+run; tolling of statute 
+
+   
+
+ 131.155     Tolling of statute;
+three-year maximum 
+
+   
+
+ JURISDICTION 
+
+   
+
+ 131.205     Definition for ORS
+131.205 to 131.235 
+
+   
+
+ 131.215     Jurisdiction 
+
+   
+
+ 131.225     Exceptions 
+
+   
+
+ 131.235     Criminal homicide 
+
+   
+
+ VENUE 
+
+   
+
+ 131.305     Place of trial 
+
+   
+
+ 131.315     Special provisions 
+
+   
+
+ 131.325     Place of trial; doubt
+as to place of crime; conduct outside of state 
+
+   
+
+ 131.335     Change of venue 
+
+   
+
+ 131.345     Motion for change of
+venue; when made 
+
+   
+
+ 131.355     Change of venue for
+prejudice 
+
+   
+
+ 131.363     Change of venue in
+other cases 
+
+   
+
+ 131.375     Notification on change
+of venue 
+
+   
+
+ 131.385     When change of venue is
+complete 
+
+   
+
+ 131.395     Expenses of change;
+taxation as costs 
+
+   
+
+ 131.405     Attendance of defendant
+at new place of trial 
+
+   
+
+ 131.415     Conveyance of defendant
+in custody after change of venue 
+
+   
+
+ FORMER JEOPARDY 
+
+   
+
+ 131.505     Definitions for ORS
+131.505 to 131.525 
+
+   
+
+ 131.515     Previous prosecution;
+when a bar to second prosecution 
+
+   
+
+ 131.525     Previous prosecution;
+when not a bar to subsequent prosecution 
+
+   
+
+ 131.535     Proceedings not
+constituting acquittal 
+
+   
+
+ CRIMINAL FORFEITURE 
+
+   
+
+ 131.550     Definitions for ORS 131.550
+to 131.600 
+
+   
+
+ 131.553     Legislative findings;
+effect on local laws; remedy not exclusive 
+
+   
+
+ 131.556     Right, title and
+interest in forfeited property vests in seizing agency 
+
+   
+
+ 131.558     Property subject to
+forfeiture 
+
+   
+
+ 131.561     Seizure of property
+subject to forfeiture 
+
+   
+
+ 131.564     Status of seized
+property; release; maintenance and use 
+
+   
+
+ 131.566     Motor vehicle with
+hidden compartment 
+
+   
+
+ 131.567     Recorded notice of
+intent to forfeit real property; form 
+
+   
+
+ 131.570     Notice of seizure for
+forfeiture; service on persons other than defendant; publication of notice 
+
+   
+
+ 131.573     Petition for expedited
+hearing 
+
+   
+
+ 131.576     Order restoring custody
+of property after expedited hearing 
+
+   
+
+ 131.579     Affidavit in response
+to notice of seizure for forfeiture 
+
+   
+
+ 131.582     Prosecution of criminal
+forfeiture; indictment or information; burden of proof; judgment; notice to
+claimants 
+
+   
+
+ 131.585     Extent of judgment 
+
+   
+
+ 131.588     Judgment of forfeiture;
+contents; effect 
+
+   
+
+ 131.591     Equitable distribution
+of property or proceeds; intergovernmental agreements 
+
+   
+
+ 131.594     Disposition and
+distribution of forfeited property when seizing agency not the state 
+
+   
+
+ 131.597     Disposition and
+distribution of forfeited property when seizing agency is the state 
+
+   
+
+ 131.600     Record keeping and
+reporting requirements 
+
+   
+
+ 131.602     Prohibited conduct for
+purposes of instrumentalities of crime 
+
+   
+
+ 131.604     Disposition of
+forfeited cigarettes 
+
+   
+
+ CRIME PREVENTION 
+
+   
+
+ (Stopping of Persons) 
+
+   
+
+ 131.605     Definitions for ORS
+131.605 to 131.625 
+
+   
+
+ 131.615     Stopping of persons 
+
+   
+
+ 131.625     Frisk of stopped
+persons 
+
+   
+
+ (Detention) 
+
+   
+
+ 131.655     Detention and
+interrogation of persons suspected of theft committed in a store or unlawful
+operation of audiovisual device in a motion picture theater; probable cause 
+
+   
+
+ (Prevention by Public Officers) 
+
+   
+
+ 131.665     Prevention by public
+officers 
+
+   
+
+ 131.675     Dispersal of unlawful
+assemblages 
+
+   
+
+ 131.685     Authority of Governor
+to enter into agreements with other states for crime prevention purposes 
+
+   
+
+ (Exclusion from Public Property) 
+
+   
+
+ 131.705     Definitions for ORS
+131.705 to 131.735 
+
+   
+
+ 131.715     Proclamation of
+emergency period by Governor 
+
+   
+
+ 131.725     Exclusion from public
+property 
+
+   
+
+ 131.735     Review of exclusion
+order 
+
+   
+
+ (Special Law Enforcement Officers) 
+
+   
+
+ 131.805     Authority to employ
+special agents 
+
+   
+
+ 131.815     Presentment of facts to
+circuit court 
+
+   
+
+ 131.825     Hearing 
+
+   
+
+ 131.835     Request that judge of
+another district conduct hearing; traveling expenses 
+
+   
+
+ 131.845     Findings 
+
+   
+
+ 131.855     Appointment of special
+officers on finding that laws are not enforced 
+
+   
+
+ 131.860     Qualifying of special
+officers; powers and duties 
+
+   
+
+ 131.865     Compensation of special
+officers 
+
+   
+
+ 131.875     Effect of appointment
+of special officers on salary of regular officers 
+
+   
+
+ 131.880     Appointment of railroad
+police officers; liability 
+
+   
+
+ (Rewards) 
+
+   
+
+ 131.885     Offer of reward 
+
+   
+
+ 131.890     Entitlement to reward;
+use of public money to reward bounty hunter 
+
+   
+
+ 131.892     Offer of reward for
+information on commission of criminal offense 
+
+   
+
+ 131.895     Procedure for payment 
+
+   
+
+ 131.897     Authority to order
+repayment of reward as part of sentence 
+
+   
+
+ LIABILITY FOR MEDICAL EXPENSES OF CERTAIN
+PERSONS 
+
+   
+
+ 131.900     Liability for medical
+expenses for person restrained, detained or taken into custody 
+
+   
+
+ LAW ENFORCEMENT CONTACTS POLICY AND
+DATA REVIEW COMMITTEE 
+
+   
+
+ 131.905     Legislative findings 
+
+   
+
+ 131.906     Law Enforcement
+Contacts Policy and Data Review Committee; duties; report 
+
+   
+
+ 131.908     Funding contributions 
+
+   
+
+ 131.909     Moneys received 
+
+   
+
+ LAW ENFORCEMENT PROFILING 
+
+   
+
+ (Complaint Procedures) 
+
+   
+
+ 131.915     Definitions 
+
+   
+
+ 131.920     Policies and procedures
+prohibiting profiling 
+
+   
+
+ 131.925     Complaints alleging profiling;
+complaint form 
+
+   
+
+ (Data Collection and Analysis) 
+
+   
+
+ 131.930     Definitions 
+
+   
+
+ 131.935     Collection of
+officer-initiated stop data; use of data; rules 
+
+   
+
+ 131.940     Analysis of stop data
+to identify profiling; report 
+
+   
+
+ 131.945     Training for law
+enforcement agencies; presentation to local public safety coordinating council 
+
+   
+
+ PRELIMINARY PROVISIONS 
+
+   
+
+       131.005
+General definitions. 
+As used in sections 1 to 311, chapter 836, Oregon Laws 1973, except as
+otherwise specifically provided or unless the context requires otherwise: 
+
+       (1) “Accusatory
+instrument” means a grand jury indictment, an information or a complaint. 
+
+       (2) “Bench
+warrant” means a process of a court in which a criminal action is pending,
+directing a peace officer to take into custody a defendant in the action who
+has previously appeared before the court upon the accusatory instrument by
+which the action was commenced, and to bring the defendant before the court.
+The function of a bench warrant is to achieve the court appearance of a
+defendant in a criminal action for some purpose other than the initial
+arraignment of the defendant in the action. 
+
+       (3) “Complaint”
+means a written accusation, verified by the oath of a person and bearing an
+indorsement of acceptance by the district attorney having jurisdiction thereof,
+filed with a magistrate, and charging another person with the commission of an
+offense, other than an offense punishable as a felony. A complaint serves both
+to commence an action and as a basis for prosecution thereof. 
+
+       (4) “Complainant’s
+information” means a written accusation, verified by the oath of a person and
+bearing an indorsement of acceptance by the district attorney having
+jurisdiction thereof, filed with a magistrate, and charging another person with
+the commission of an offense punishable as a felony. A complainant’s
+information serves to commence an action, but not as a basis for prosecution
+thereof. 
+
+       (5) “Correctional
+facility” means any place used for the confinement of persons charged with or
+convicted of a crime or otherwise confined under a court order. “Correctional
+facility” does not include a youth correction facility as defined in ORS
+162.135 and applies to a state hospital only as to persons detained therein
+charged with or convicted of a crime, or detained therein after being found
+guilty except for insanity under ORS 161.290 to 161.373. 
+
+       (6) “Criminal
+action” means an action at law by means of which a person is accused of the
+commission of a violation, misdemeanor or felony. 
+
+       (7) “Criminal
+proceeding” means any proceeding which constitutes a part of a criminal action
+or occurs in court in connection with a prospective, pending or completed
+criminal action. 
+
+       (8) “District
+attorney,” in addition to its ordinary meaning, includes a city attorney as
+prosecuting officer in the case of municipal ordinance offenses, a county
+counsel as prosecuting officer under a county charter in the case of county
+ordinance offenses, and the Attorney General in those criminal actions or
+proceedings within the jurisdiction of the Attorney General. 
+
+       (9) “District
+attorney’s information” means a written accusation by a district attorney and: 
+
+       (a) If filed with
+a magistrate to charge a person with the commission of an offense, other than
+an offense punishable as a felony, serves both to commence an action and as a
+basis for prosecution thereof; or 
+
+       (b) If filed with
+a magistrate to charge a person with the commission of an offense punishable as
+a felony, serves to commence an action, but not as a basis for prosecution
+thereof; or 
+
+       (c) If, as is
+otherwise authorized by law, filed in circuit court to charge a person with the
+commission of an offense, serves as a basis for prosecution thereof. 
+
+       (10) “Information”
+means a district attorney’s information or a complainant’s information. 
+
+       (11) “Probable
+cause” means that there is a substantial objective basis for believing that
+more likely than not an offense has been committed and a person to be arrested
+has committed it. 
+
+       (12) “Trial court”
+means a court which by law has jurisdiction over an offense charged in an
+accusatory instrument and has authority to accept a plea thereto, or try, hear
+or otherwise dispose of a criminal action based on the accusatory instrument. 
+
+       (13) “Ultimate
+trial jurisdiction” means the jurisdiction of a court over a criminal action or
+proceeding at the highest trial level. 
+
+       (14) “Warrant of
+arrest” means a process of a court, directing a peace officer to arrest a
+defendant and to bring the defendant before the court for the purpose of
+arraignment upon an accusatory instrument filed therewith by which a criminal
+action against the defendant has been commenced. [1973 c.836 §1; 1983 c.760 §1;
+1995 c.738 §3; 1997 c.249 §42; 1997 c.801 §101; 1999 c.1051 §122; 2017 c.634 §1] 
+
+   
+
+       Note: Legislative Counsel has
+substituted “chapter 836, Oregon Laws 1973,” for the words “this Act” in
+sections 1 and 2, chapter 836, Oregon Laws 1973, compiled as 131.005 and
+131.015. Specific ORS references have not been substituted, pursuant to
+173.160. These sections may be determined by referring to the 1973 Comparative
+Section Table located in Volume 22 of ORS. 
+
+   
+
+       131.007 “Victim”
+defined. As used
+in ORS 40.385, 135.230, 147.417, 147.419 and 147.421 and in ORS chapters 136,
+137 and 144, except as otherwise specifically provided or unless the context
+requires otherwise, “victim” means the person or persons who have suffered
+financial, social, psychological or physical harm as a result of a crime and
+includes, in the case of a homicide or abuse of corpse in any degree, a member
+of the immediate family of the decedent and, in the case of a minor victim, the
+legal guardian of the minor. In no event shall the criminal defendant be
+considered a victim. [1987 c.2 §17; 1993 c.294 §3; 1997 c.313 §30; 2009 c.178 §32;
+2013 c.144 §3] 
+
+   
+
+       131.010 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.015
+Application to prior and subsequent actions. 
+
+ (1) The provisions of
+chapter 836, Oregon Laws 1973, apply to: 
+
+       (a) All criminal
+actions and proceedings commenced upon or after January 1, 1974, and all
+appeals and other post-judgment proceedings relating or attaching thereto; and 
+
+       (b) All matters
+of criminal procedure prescribed in chapter 836, Oregon Laws 1973, which do not
+constitute a part of any particular action or case, occurring upon or after
+January 1, 1974. 
+
+       (2) The
+provisions of chapter 836, Oregon Laws 1973, do not impair or render
+ineffectual any proceedings or procedural matters which occurred before January
+1, 1974. [1973 c.836 §2] 
+
+   
+
+       Note: See note under 131.005. 
+
+   
+
+       131.020 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.025
+Parties in criminal action. 
+Except for offenses based on municipal or county ordinances, in a criminal
+action the State of Oregon is the plaintiff and the person prosecuted is the
+defendant. [1973 c.836 §3] 
+
+   
+
+       131.030 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.035 When
+departures, errors or mistakes in pleadings or proceedings are material. No departure from the form or mode
+prescribed by law, error or mistake in any criminal pleading, action or
+proceeding renders it invalid, unless it has prejudiced the defendant in
+respect to a substantial right. [1973 c.836 §4] 
+
+   
+
+       131.040 When
+law enforcement officer may communicate with person represented by counsel. A law enforcement officer may
+communicate with a person who is represented by counsel without obtaining the
+prior consent of counsel, and an attorney who prosecutes violations of the
+criminal laws of this state or the United States is not required to forbid or
+otherwise prevent the communication, if: 
+
+       (1) The
+communication is related to a criminal investigation; 
+
+       (2) No accusatory
+instrument has been filed charging the person with the commission of an offense
+that is the subject of the investigation or communication, and no juvenile
+petition has been filed alleging acts that would constitute the commission of
+an offense that is the subject of the investigation or communication; and 
+
+       (3) The
+communication is not in violation of the Constitution of the United States or
+of the State of Oregon. [1995 c.657 §19] 
+
+   
+
+       131.045
+Appearances by simultaneous electronic transmission. (1) As used in this section: 
+
+       (a) “Criminal
+proceeding” has the meaning given that term in ORS 131.005. 
+
+       (b) “Parties”
+means the State of Oregon and the person being prosecuted. 
+
+       (c) “Simultaneous
+electronic transmission” means television, telephone or any other form of
+electronic communication transmission if the form of transmission allows: 
+
+       (A) The court and
+the person making the appearance to communicate with each other during the
+proceeding; 
+
+       (B) A defendant
+who is represented by counsel to consult privately with defense counsel during
+the proceeding; 
+
+       (C) The victim to
+participate in the proceeding to the same extent that the victim is entitled to
+participate when the person making the appearance is physically present in the
+court; and 
+
+       (D) The public to
+hear and, if the transmission includes a visual image, to see the appearance if
+the public has a right to hear and see the appearance when the person making
+the appearance is physically present in the court. 
+
+       (2) When a
+statute authorizes or requires a person to make a personal appearance before a
+court in a criminal proceeding, the person may appear by being physically
+present in the court or by simultaneous electronic transmission if: 
+
+       (a) Simultaneous
+electronic transmission is authorized by court rule under subsection (3) of
+this section; 
+
+       (b) Except as
+otherwise provided by law, the parties in the proceeding and the court agree to
+appearance by simultaneous electronic transmission; and 
+
+       (c) Appearance by
+simultaneous electronic transmission is not specifically prohibited by statute. 
+
+       (3) In order for
+a person to appear by simultaneous electronic transmission as provided in this
+section, court rules must provide for the use of the specific type of
+simultaneous electronic transmission at the court location and for the type of proceeding
+in which the person is appearing. Court rules allowing the use of simultaneous
+electronic transmission may establish requirements for its use. 
+
+       (4)
+Notwithstanding subsection (2)(b) of this section, a witness in a criminal
+proceeding may not appear before a jury by simultaneous electronic transmission
+without the written consent of the parties and the agreement of the court. 
+
+       (5) This section
+does not apply to a hearing under ORS 138.510 to 138.680. [2005 c.566 §4; 2009
+c.219 §2] 
+
+   
+
+ TIME LIMITATIONS 
+
+   
+
+       131.105
+Timeliness of criminal actions. 
+A criminal action must be commenced within the period of limitation prescribed
+in ORS 131.125 to 131.155. [1973 c.836 §5] 
+
+   
+
+       131.110 [Amended by 1971 c.743 §315a;
+repealed by 1973 c.836 §358] 
+
+   
+
+       131.120 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.125 Time
+limitations. (1) A
+prosecution for aggravated murder, murder, attempted murder or aggravated
+murder, conspiracy or solicitation to commit aggravated murder or murder or any
+degree of manslaughter may be commenced at any time after the commission of the
+attempt, conspiracy or solicitation to commit aggravated murder or murder, or
+the death of the person killed. 
+
+       (2) A prosecution
+for any of the following felonies may be commenced within 20 years after the
+commission of the crime or, if the victim at the time of the crime was under 18
+years of age, anytime before the victim attains 30 years of age, whichever occurs
+later: 
+
+       (a) Rape in the
+first degree under ORS 163.375. 
+
+       (b) Sodomy in the
+first degree under ORS 163.405. 
+
+       (c) Unlawful
+sexual penetration in the first degree under ORS 163.411. 
+
+       (d) Sexual abuse
+in the first degree under ORS 163.427. 
+
+       (3) A prosecution
+for any of the following felonies may be commenced within six years after the
+commission of the crime or, if the victim at the time of the crime was under 18
+years of age, anytime before the victim attains 30 years of age or within 12 years
+after the offense is reported to a law enforcement agency or the Department of
+Human Services, whichever occurs first: 
+
+       (a) Strangulation
+under ORS 163.187 (4). 
+
+       (b) Criminal
+mistreatment in the first degree under ORS 163.205. 
+
+       (c) Rape in the
+third degree under ORS 163.355. 
+
+       (d) Rape in the
+second degree under ORS 163.365. 
+
+       (e) Sodomy in the
+third degree under ORS 163.385. 
+
+       (f) Sodomy in the
+second degree under ORS 163.395. 
+
+       (g) Unlawful
+sexual penetration in the second degree under ORS 163.408. 
+
+       (h) Sexual abuse
+in the second degree under ORS 163.425. 
+
+       (i) Using a child
+in a display of sexual conduct under ORS 163.670. 
+
+       (j) Encouraging
+child sexual abuse in the first degree under ORS 163.684. 
+
+       (k) Incest under
+ORS 163.525. 
+
+       (L) Promoting
+prostitution under ORS 167.012. 
+
+       (m) Compelling
+prostitution under ORS 167.017. 
+
+       (n) Luring a
+minor under ORS 167.057. 
+
+       (4) A prosecution
+for any of the following misdemeanors may be commenced within four years after
+the commission of the crime or, if the victim at the time of the crime was
+under 18 years of age, anytime before the victim attains 22 years of age or
+within four years after the offense is reported to a law enforcement agency or
+the Department of Human Services, whichever occurs first: 
+
+       (a) Strangulation
+under ORS 163.187 (3). 
+
+       (b) Sexual abuse
+in the third degree under ORS 163.415. 
+
+       (c) Exhibiting an
+obscene performance to a minor under ORS 167.075. 
+
+       (d) Displaying
+obscene materials to minors under ORS 167.080. 
+
+       (5) In the case
+of crimes described in subsection (3)(i) of this section, the victim is the
+child engaged in sexual conduct. In the case of the crime described in
+subsection (3)(k) of this section, the victim is the party to the incest other
+than the party being prosecuted. In the case of crimes described in subsection
+(3)(L) and (m) of this section, the victim is the child whose acts of
+prostitution are promoted or compelled. 
+
+       (6) A prosecution
+for arson in any degree may be commenced within six years after the commission
+of the crime. 
+
+       (7) A prosecution
+for any of the following felonies may be commenced within six years after the
+commission of the crime if the victim at the time of the crime was 65 years of
+age or older: 
+
+       (a) Theft in the
+first degree under ORS 164.055. 
+
+       (b) Aggravated
+theft in the first degree under ORS 164.057. 
+
+       (c) Extortion
+under ORS 164.075. 
+
+       (d) Robbery in
+the third degree under ORS 164.395. 
+
+       (e) Robbery in
+the second degree under ORS 164.405. 
+
+       (f) Robbery in
+the first degree under ORS 164.415. 
+
+       (g) Forgery in
+the first degree under ORS 165.013. 
+
+       (h) Fraudulent
+use of a credit card under ORS 165.055 (4)(b). 
+
+       (i) Identity
+theft under ORS 165.800. 
+
+       (8) Except as
+provided in subsection (9) of this section or as otherwise expressly provided
+by law, prosecutions for other offenses must be commenced within the following
+periods of limitations after their commission: 
+
+       (a) For any other
+felony, three years. 
+
+       (b) For any
+misdemeanor, two years. 
+
+       (c) For a
+violation, six months. 
+
+       (9) If the period
+prescribed in subsection (8) of this section has expired, a prosecution
+nevertheless may be commenced as follows: 
+
+       (a) If the
+offense has as a material element either fraud or the breach of a fiduciary
+obligation, prosecution may be commenced within one year after discovery of the
+offense by an aggrieved party or by a person who has a legal duty to represent
+an aggrieved party and who is not a party to the offense, but in no case shall
+the period of limitation otherwise applicable be extended by more than three
+years; 
+
+       (b) If the
+offense is based upon misconduct in office by a public officer or employee,
+prosecution may be commenced at any time while the defendant is in public
+office or employment or within two years thereafter, but in no case shall the
+period of limitation otherwise applicable be extended by more than three years; 
+
+       (c) If the
+offense is an invasion of personal privacy under ORS 163.700 or 163.701,
+prosecution may be commenced within one year after discovery of the offense by
+the person aggrieved by the offense, by a person who has a legal duty to
+represent the person aggrieved by the offense or by a law enforcement agency,
+but in no case shall the period of limitation otherwise applicable be extended
+by more than three years; or 
+
+       (d) If the
+offense is sexual abuse by fraudulent representation under ORS 163.429,
+prosecution may be commenced within six years after the victim becomes aware or
+reasonably should have become aware of the criminal nature of the conduct. 
+
+       (10)
+Notwithstanding subsections (2) and (3) of this section, if the defendant is
+identified after the period described in subsection (2) or (3) of this section
+on the basis of DNA (deoxyribonucleic acid) sample comparisons, a prosecution
+for: 
+
+       (a) Rape in the
+first degree, sodomy in the first degree, unlawful sexual penetration in the
+first degree or sexual abuse in the first degree may be commenced at any time
+after the commission of the crime. 
+
+       (b) Rape in the
+second degree, sodomy in the second degree or unlawful sexual penetration in
+the second degree may be commenced within 25 years after the commission of the
+crime. 
+
+       (11)
+Notwithstanding subsection (10) of this section, if a prosecution for a felony
+listed in subsection (10) of this section would otherwise be barred by
+subsection (2) or (3) of this section, the prosecution must be commenced within
+two years of the DNA-based identification of the defendant. 
+
+       (12)(a)
+Notwithstanding subsection (2) of this section, if a prosecuting attorney
+obtains corroborating evidence of the crimes of rape in the first degree,
+sodomy in the first degree, unlawful sexual penetration in the first degree or
+sexual abuse in the first degree, after the period described in subsection (2)
+of this section, the prosecution may be commenced at any time after the
+commission of the crime. 
+
+       (b) The
+corroborating evidence described in paragraph (a) of this subsection must
+consist of one of the following: 
+
+       (A) Physical
+evidence other than a DNA sample, including but not limited to audio, video or
+other electronic recordings, text messages, guest book logs, telephone
+recordings and photographs. 
+
+       (B) A confession,
+made by the defendant, to the crime the victim reported. 
+
+       (C) An oral
+statement, made by the victim to another person in temporal proximity to the
+commission of the crime, corroborating the victim’s report of the crime to a
+law enforcement agency. 
+
+       (D) A written
+statement, created by the victim in temporal proximity to the commission of the
+crime and subsequently delivered to another person or to a law enforcement
+agency, corroborating the victim’s report of the crime to a law enforcement
+agency. 
+
+       (E) A report made
+by a different victim to a law enforcement agency, made either before or after
+the victim’s report, alleging that the defendant committed another crime of the
+same or similar character such that the two crimes could be charged in the same
+charging instrument under ORS 132.560. 
+
+       (13)(a) A
+prosecuting attorney commencing a prosecution pursuant to subsection (12) of
+this section shall present any evidence reasonably tending to negate the guilt
+of the defendant to the grand jury considering the indictment for the offense. 
+
+       (b) The failure
+to present evidence reasonably tending to negate guilt as required by paragraph
+(a) of this subsection does not affect the validity of an indictment or
+prosecution. [1973 c.836 §6; 1989 c.831 §1; 1991 c.386 §5; 1991 c.388 §1; 1991
+c.830 §5; 1995 c.768 §8; 1997 c.427 §1; 1997 c.697 §3; 1997 c.850 §5; 2001
+c.375 §1; 2005 c.252 §1; 2005 c.839 §1; 2007 c.840 §1; 2007 c.869 §6; 2009
+c.585 §1; 2011 c.666 §2; 2011 c.681 §3; 2012 c.70 §2; 2015 c.417 §1; 2015 c.645
+§5; 2016 c.47 §5; 2016 c.120 §1; 2023 c.200 §2; 2023 c.265 §1] 
+
+   
+
+       Note: Section 2, chapter 265, Oregon
+Laws 2023, provides: 
+
+       Sec. 2. The amendments to ORS 131.125 by
+section 1 of this 2023 Act apply to offenses committed before, on or after the
+effective date of this 2023 Act [January 1, 2024] but do not operate to revive
+a prosecution barred by the operation of ORS 131.125 before the effective date
+of this 2023 Act. [2023 c.265 §2] 
+
+   
+
+       131.130 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.135 When
+prosecution commenced. 
+A prosecution is commenced when a warrant or other process is issued, provided
+that the warrant or other process is executed without unreasonable delay. [1973
+c.836 §7] 
+
+   
+
+       131.145 When
+time starts to run; tolling of statute. (1) For the purposes of ORS 131.125, time starts to
+run on the day after the offense is committed. 
+
+       (2) Except as
+provided in ORS 131.155, the period of limitation does not run during: 
+
+       (a) Any time when
+the accused is not an inhabitant of or usually resident within this state; or 
+
+       (b) Any time when
+the accused hides within the state so as to prevent process being served upon
+the accused. 
+
+       (3) If, when the
+offense is committed, the accused is out of the state, the action may be
+commenced within the time provided in ORS 131.125 after the coming of the
+accused into the state. [1973 c.836 §8; 1987 c.158 §19] 
+
+   
+
+       131.155
+Tolling of statute; three-year maximum. Notwithstanding ORS 131.145, in no case shall the
+period of limitation otherwise applicable be extended by more than three years.
+[1973 c.836 §9] 
+
+   
+
+ JURISDICTION 
+
+   
+
+       131.205
+Definition for ORS 131.205 to 131.235. 
+As used in ORS 131.205 to 131.235, “this state” means the land and water and
+the airspace above the land and water with respect to which the State of Oregon
+has legislative jurisdiction. [1973 c.836 §13] 
+
+   
+
+       131.210 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.215
+Jurisdiction. 
+Except as otherwise provided in ORS 131.205 to 131.235, a person is subject to
+prosecution under the laws of this state for an offense that the person commits
+by the conduct of the person or the conduct of another for which the person is
+criminally liable if: 
+
+       (1) Either the
+conduct that is an element of the offense or the result that is an element
+occurs within this state; or 
+
+       (2) Conduct
+occurring outside this state is sufficient under the law of this state to
+constitute an attempt to commit an offense within this state; or 
+
+       (3) Conduct
+occurring outside this state is sufficient under the law of this state to
+constitute a conspiracy to commit an offense within this state and an overt act
+in furtherance of the conspiracy occurs within this state; or 
+
+       (4) Conduct
+occurring within this state establishes complicity in the commission of, or an
+attempt, solicitation or conspiracy to commit an offense in another
+jurisdiction which also is an offense under the law of this state; or 
+
+       (5) The offense
+consists of the omission to perform a legal duty imposed by the law of this
+state with respect to domicile, residence or a relationship to a person, thing
+or transaction in this state; or 
+
+       (6) The offense
+violates a statute of this state that expressly prohibits conduct outside this
+state affecting a legislatively protected interest of or within this state and
+the actor has reason to know that the conduct of the actor is likely to affect
+that interest. [1973 c.836 §10] 
+
+   
+
+       131.220 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.225
+Exceptions. (1)
+Unless in the statute defining the offense a legislative intent clearly appears
+to declare the conduct criminal, regardless of the place of the result, ORS
+131.215 (1) does not apply if: 
+
+       (a) Either
+causing a specified result or an intent to cause or danger of causing that
+result is an element of an offense; and 
+
+       (b) The result
+occurs or is designed or likely to occur only in another jurisdiction where the
+conduct charged would not constitute an offense. 
+
+       (2) ORS 131.215
+(1) does not apply if causing a particular result is an element of an offense
+and the result is caused by conduct occurring outside this state that would not
+constitute an offense if the result had occurred there, unless the actor
+intentionally or knowingly caused the result within this state. [1973 c.836 §11] 
+
+   
+
+       131.230 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.235
+Criminal homicide. 
+(1) If the offense committed is criminal homicide, either the death of the
+victim or the conduct causing death constitutes a “result” within the meaning
+of ORS 131.215 (1). 
+
+       (2) If the body,
+or a part thereof, of a criminal homicide victim is found within this state, it
+shall be prima facie evidence that the result occurred within this state. [1973
+c.836 §12] 
+
+   
+
+       131.240 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.250 [1971 c.743 §291; repealed by 1973
+c.836 §358] 
+
+   
+
+ VENUE 
+
+   
+
+       131.305 Place
+of trial. (1)
+Except as otherwise provided in ORS 131.305 to 131.415, criminal actions shall
+be commenced and tried in the county in which the conduct that constitutes the
+offense or a result that is an element of the offense occurred. 
+
+       (2) All
+objections of improper place of trial are waived by a defendant unless the
+defendant objects in the manner set forth in ORS 131.335 to 131.363. [1973
+c.836 §14] 
+
+   
+
+       131.310 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.315
+Special provisions. 
+(1) If conduct constituting elements of an offense or results constituting
+elements of an offense occur in two or more counties, trial of the offense may
+be held in any of the counties concerned. 
+
+       (2) If a cause of
+death is inflicted on a person in one county and the person dies therefrom in
+another county, trial of the offense may be held in either county. 
+
+       (3) If the
+commission of an offense commenced outside this state is consummated within
+this state, trial of the offense shall be held in the county in which the
+offense is consummated or the interest protected by the criminal statute in
+question is impaired. 
+
+       (4) If an offense
+is committed on any body of water located in, or adjacent to, two or more
+counties or forming the boundary between two or more counties, trial of the
+offense may be held in any nearby county bordering on the body of water. 
+
+       (5) If an offense
+is committed in or upon any railroad car, vehicle, aircraft, boat or other
+conveyance in transit and it cannot readily be determined in which county the
+offense was committed, trial of the offense may be held in any county through
+or over which the conveyance passed. 
+
+       (6) If an offense
+is committed on the boundary of two or more counties or within one mile
+thereof, trial of the offense may be held in any of the counties concerned. 
+
+       (7) A person who
+commits theft, burglary or robbery may be tried in any county in which the
+person exerts control over the property that is the subject of the crime. 
+
+       (8) If the
+offense is an attempt or solicitation to commit a crime, trial of the offense
+may be held in any county in which any act that is an element of the offense is
+committed. 
+
+       (9) If the
+offense is criminal conspiracy, trial of the offense may be held in any county
+in which any act or agreement that is an element of the offense occurs. 
+
+       (10) A person who
+in one county commits an inchoate offense that results in the commission of an
+offense by another person in another county, or who commits the crime of
+hindering prosecution of the principal offense, may be tried in either county. 
+
+       (11) A criminal
+nonsupport action may be tried in any county in which the dependent child is
+found, irrespective of the domicile of the parent, guardian or other person
+lawfully charged with support of the child. 
+
+       (12)(a) If the
+offense is theft, forgery or identity theft and the offense consists of an
+aggregate transaction involving more than one county, trial of the offense may
+be held in any county in which one of the acts of theft, forgery or identity
+theft was committed. 
+
+       (b) If the
+offense is two or more offenses listed in ORS 137.717 (2) committed against the
+same victim within a 180-day period, trial of the offenses may be held in any
+county in which one of the offenses was committed. 
+
+       (13) When a
+prosecution is for violation of the Oregon Securities Law, the trial of the
+offense may be held in the county in which: 
+
+       (a) The offer to
+purchase or sell securities took place or where the sale or purchase of
+securities took place; or 
+
+       (b) Any act that
+is an element of the offense occurred. 
+
+       (14) When a
+prosecution under ORS 165.692 and 165.990 or 411.675 and 411.990 (2) and (3)
+involves Medicaid funds, the trial of the offense may be held in the county in
+which the claim was submitted for payment or in the county in which the claim
+was paid. 
+
+       (15)(a) If the
+offense is stalking under ORS 163.732 and involves contacts as defined in ORS
+163.730 in more than one county, trial of the offense may be held in any county
+in which a contact occurred. 
+
+       (b) If the
+offense is violating a court’s stalking protective order under ORS 163.750,
+trial of the offense may be held in the county in which the defendant engaged
+in conduct prohibited by the order or in the county in which the order was
+issued. [1973 c.836 §15; 1987 c.603 §26; 1989 c.384 §1; 1993 c.680 §28; 1995
+c.496 §7; 2007 c.584 §3; 2009 c.212 §1; 2023 c.151 §1] 
+
+   
+
+       131.320 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.325 Place
+of trial; doubt as to place of crime; conduct outside of state. If an offense is committed within
+the state and it cannot readily be determined within which county the
+commission took place, or a statute that governs conduct outside the state is
+violated, trial may be held in the county in which the defendant resides, or if
+the defendant has no fixed residence in this state, in the county in which the
+defendant is apprehended or to which the defendant is extradited. [1973 c.836 §16] 
+
+   
+
+       131.330 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.335 Change
+of venue. In
+accordance with ORS 131.345 to 131.415, the defendant in a criminal action may
+have the place of trial changed only once, except for causes arising after the
+first change was allowed. [1973 c.836 §17] 
+
+   
+
+       131.340 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.345 Motion
+for change of venue; when made. 
+A motion for change of venue may be made in any criminal action in a circuit
+court when the case is at issue upon a question of fact. [1973 c.836 §18] 
+
+   
+
+       131.350 [Amended by 1971 c.743 §316;
+repealed by 1973 c.836 §358] 
+
+   
+
+       131.355 Change
+of venue for prejudice. 
+The court, upon motion of the defendant, shall order the place of trial to be
+changed to another county if the court is satisfied that there exists in the
+county where the action is commenced so great a prejudice against the defendant
+that the defendant cannot obtain a fair and impartial trial. [1973 c.836 §19] 
+
+   
+
+       131.360 [Amended by 1973 c.743 §317;
+repealed by 1973 c.836 §358] 
+
+   
+
+       131.363 Change
+of venue in other cases. 
+For the convenience of parties and witnesses, and in the interest of justice,
+the court, upon motion of the defendant, may order the place of trial to be
+changed to another county. [1973 c.836 §20] 
+
+   
+
+       131.365 [1959 c.664 §5; repealed by 1973
+c.836 §358] 
+
+   
+
+       131.370 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.375
+Notification on change of venue. 
+When the court has ordered a change of venue, the clerk shall notify the clerk
+of the proper court. [1973 c.836 §21; 2017 c.252 §13] 
+
+   
+
+       131.380 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.385 When
+change of venue is complete. 
+The change of the place of trial is complete upon entry of an order changing
+the place of trial, and thereafter the action shall proceed in the same manner
+as if it had been commenced in the court to which the trial is transferred. [1973
+c.836 §22; 2017 c.252 §14] 
+
+   
+
+       131.390 [Amended by 1971 c.746 §318;
+repealed by 1973 c.836 §358] 
+
+   
+
+       131.395
+Expenses of change; taxation as costs. 
+(1) The expenses of the change of place of trial under ORS 131.363 shall be
+taxed, as allowed by law, as expenses of the action, and the costs and expenses
+of the action shall be taxed in the court and paid by the county wherein the
+trial is held. If the costs and expenses are not recovered from the defendant,
+the county in which the action was commenced shall repay the county in which
+the trial is held. 
+
+       (2) The expenses
+of a change of place of trial under ORS 131.355 shall not be taxed against the
+defendant. [1973 c.836 §23] 
+
+   
+
+       131.400 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.405
+Attendance of defendant at new place of trial. (1) When the court has ordered a
+change of place of trial, if the defendant has been released on security
+release, conditional release or recognizance, the defendant must, without
+further notice, appear at the time and place appointed for trial and not depart
+therefrom without permission of the court. 
+
+       (2) A security
+deposit is sufficient therefor in all respects as if the action had proceeded
+to final determination in the court where it was commenced. [1973 c.836 §24] 
+
+   
+
+       131.410 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.415
+Conveyance of defendant in custody after change of venue. When the court has ordered a
+change of place of trial, if the defendant is in custody, the clerk of the
+court shall issue an order to the sheriff of the county, directing the sheriff
+to safely convey the defendant and deliver the defendant to the custody of the
+executive head of the correctional institution of the county where the
+defendant is to be tried. [1973 c.836 §25] 
+
+   
+
+       131.420 [Amended by 1961 c.442 §1;
+repealed by 1973 c.836 §358] 
+
+   
+
+       131.430 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.440 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.450 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.460 [Repealed by 1973 c.836 §358] 
+
+   
+
+       131.470 [Repealed by 1973 c.836 §358] 
+
+   
+
+ FORMER JEOPARDY 
+
+   
+
+       131.505
+Definitions for ORS 131.505 to 131.525. As used in ORS 131.505 to 131.525, unless the context
+requires otherwise: 
+
+       (1) “Conduct” and
+“offense” have the meaning provided for those terms in ORS 161.085 and 161.505. 
+
+       (2) When the same
+conduct or criminal episode violates two or more statutory provisions, each
+such violation constitutes a separate and distinct offense. 
+
+       (3) When the same
+conduct or criminal episode, though violating only one statutory provision,
+results in death, injury, loss or other consequences of two or more victims,
+and the result is an element of the offense defined, there are as many offenses
+as there are victims. 
+
+       (4) “Criminal
+episode” means continuous and uninterrupted conduct that establishes at least
+one offense and is so joined in time, place and circumstances that such conduct
+is directed to the accomplishment of a single criminal objective. 
+
+       (5) A person is “prosecuted
+for an offense” when the person is charged therewith by an accusatory
+instrument filed in any court of this state or in any court of any political
+subdivision of this state, and when the action either: 
+
+       (a) Terminates in
+a conviction upon a plea of guilty, except as provided in ORS 131.525 (2); 
+
+       (b) Proceeds to
+the trial stage and the jury is impaneled and sworn; or 
+
+       (c) Proceeds to
+the trial stage when a judge is the trier of fact and the first witness is
+sworn. 
+
+       (6) There is an “acquittal”
+if the prosecution results in a finding of not guilty by the trier of fact or
+in a determination that there is insufficient evidence to warrant a conviction.
+[1973 c.836 §26; 1983 c.509 §1; 2001 c.104 §42] 
+
+   
+
+       131.515
+Previous prosecution; when a bar to second prosecution. Except as provided in ORS 131.525
+and 131.535: 
+
+       (1) No person
+shall be prosecuted twice for the same offense. 
+
+       (2) No person
+shall be separately prosecuted for two or more offenses based upon the same
+criminal episode, if the several offenses are reasonably known to the
+appropriate prosecutor at the time of commencement of the first prosecution and
+establish proper venue in a single court. 
+
+       (3) If a person
+is prosecuted for an offense consisting of different degrees, the conviction or
+acquittal resulting therefrom is a bar to a later prosecution for the same
+offense, for any inferior degree of the offense, for an attempt to commit the
+offense or for an offense necessarily included therein. 
+
+       (4) A finding of
+guilty of a lesser included offense on any count is an acquittal of the greater
+inclusive offense only as to that count. [1973 c.836 §27; 1997 c.511 §3] 
+
+   
+
+       131.525
+Previous prosecution; when not a bar to subsequent prosecution. (1) A previous prosecution is not
+a bar to a subsequent prosecution when the previous prosecution was properly
+terminated under any of the following circumstances: 
+
+       (a) The defendant
+consents to the termination or waives, by motion, by an appeal upon judgment of
+conviction, or otherwise, the right to object to termination. 
+
+       (b) The trial
+court finds that a termination, other than by judgment of acquittal, is
+necessary because: 
+
+       (A) It is
+physically impossible to proceed with the trial in conformity with law; or 
+
+       (B) There is a
+legal defect in the proceeding that would make any judgment entered upon a
+verdict reversible as a matter of law; or 
+
+       (C) Prejudicial
+conduct, in or outside the courtroom, makes it impossible to proceed with the
+trial without injustice to either the defendant or the state; or 
+
+       (D) The jury is
+unable to agree upon a verdict; or 
+
+       (E) False
+statements of a juror on voir dire prevent a fair trial. 
+
+       (c) When the
+former prosecution occurred in a court which lacked jurisdiction over the
+defendant or the offense. 
+
+       (d) When the
+subsequent prosecution was for an offense which was not consummated when the
+former prosecution began. 
+
+       (2) A plea of
+guilty or resulting judgment is not a bar under ORS 131.515 (2) to a subsequent
+prosecution under an accusatory instrument which is filed no later than 30 days
+after entry of the guilty plea. The defendant’s prior plea of guilty or
+resulting judgment, notwithstanding ORS 135.365, shall be vacated upon motion
+by the defendant if made within 30 days after defendant’s arraignment for the
+subsequent prosecution. The provisions of ORS 135.445 apply to such a vacated
+plea or resulting judgment and any statements made in relation to those
+proceedings. [1973 c.836 §28; 1983 c.509 §2] 
+
+   
+
+       131.535
+Proceedings not constituting acquittal. The following proceedings will not constitute an
+acquittal of the same offense: 
+
+       (1) If the
+defendant was formerly acquitted on the ground of a variance between the
+accusatory instrument and the proof; or 
+
+       (2) If the
+accusatory instrument was: 
+
+       (a) Dismissed
+upon a demurrer to its form or substance; 
+
+       (b) Dismissed
+upon any pretrial motion; or 
+
+       (c) Discharged
+for want of prosecution without a judgment of acquittal. [1973 c.836 §29; 2001
+c.104 §43] 
+
+   
+
+ CRIMINAL FORFEITURE 
+
+   
+
+       131.550
+Definitions for ORS 131.550 to 131.600. As used in ORS 131.550 to 131.600: 
+
+       (1) “Acquiesce in
+prohibited conduct” means that a person knew of the prohibited conduct and
+knowingly failed to take reasonable action under the circumstances to terminate
+or avoid the use of the property in the course of prohibited conduct. For
+purposes of this subsection, “reasonable action under the circumstances”
+includes, but is not limited to: 
+
+       (a) Reporting the
+prohibited conduct to a law enforcement agency; 
+
+       (b) Commencing
+action that will assert the rights of the affiant as to the property interest; 
+
+       (c) Terminating a
+rental agreement; or 
+
+       (d) Seeking an
+abatement order under the provisions of ORS 105.505 to 105.520 or 105.550 to
+105.600 or under any ordinance or regulation allowing abatement of nuisances. 
+
+       (2) “All persons
+known to have an interest” means: 
+
+       (a) Any person
+who has, prior to the time the property is seized for criminal forfeiture,
+filed notice of interest with any public office as may be required or permitted
+by law to be filed with respect to the property that has been seized for
+criminal forfeiture; 
+
+       (b) Any person
+from whose custody the property was seized; or 
+
+       (c) Any person
+who has an interest in the property, including all owners and occupants of the
+property, whose identity and address is known or is ascertainable upon diligent
+inquiry and whose rights and interest in the property may be affected by the
+action. 
+
+       (3) “Attorney
+fees” has the meaning given that term in ORCP 68 A. 
+
+       (4) “Financial
+institution” means any person lawfully conducting business as: 
+
+       (a) A financial
+institution or trust company, as those terms are defined in ORS 706.008; 
+
+       (b) A consumer
+finance company subject to the provisions of ORS chapter 725; 
+
+       (c) A mortgage
+banker or a mortgage broker as those terms are defined in ORS 86A.100, a
+mortgage servicing company or other mortgage company; 
+
+       (d) An officer,
+agency, department or instrumentality of the federal government, including but
+not limited to: 
+
+       (A) The Secretary
+of Housing and Urban Development; 
+
+       (B) The Federal
+Housing Administration; 
+
+       (C) The United
+States Department of Veterans Affairs; 
+
+       (D) Rural
+Development and the Farm Service Agency of the United States Department of
+Agriculture; 
+
+       (E) The Federal
+National Mortgage Association; 
+
+       (F) The
+Government National Mortgage Association; 
+
+       (G) The Federal
+Home Loan Mortgage Corporation; 
+
+       (H) The Federal
+Agricultural Mortgage Corporation; and 
+
+       (I) The Small
+Business Administration; 
+
+       (e) An agency,
+department or instrumentality of this state, including but not limited to: 
+
+       (A) The Housing
+and Community Services Department; 
+
+       (B) The
+Department of Veterans’ Affairs; and 
+
+       (C) The Public
+Employees Retirement System; 
+
+       (f) An agency,
+department or instrumentality of any municipality in this state, including but
+not limited to such agencies as the Portland Development Commission; 
+
+       (g) An insurer as
+defined in ORS 731.106; 
+
+       (h) A private
+mortgage insurance company; 
+
+       (i) A pension
+plan or fund or other retirement plan; and 
+
+       (j) A
+broker-dealer or investment adviser representative as defined in ORS 59.015. 
+
+       (5) “Forfeiture
+counsel” means an attorney designated to represent a seizing agency in criminal
+forfeiture actions or proceedings. 
+
+       (6) “Instrumentality”
+means property that is used or intended for use in prohibited conduct or that
+facilitates prohibited conduct. 
+
+       (7) “Law
+enforcement agency” means any agency that employs police officers or prosecutes
+criminal cases. 
+
+       (8) “Motor
+vehicle with a hidden compartment” means a motor vehicle as defined in ORS
+801.360 that has had the vehicle’s original design modified by a person other
+than the manufacturer to create a container, space or enclosure for the purpose
+of concealing, hiding or otherwise preventing discovery of its contents and
+that is used or intended to be used to facilitate the commission of a criminal
+offense. 
+
+       (9) “Official law
+enforcement use” means a use that may reasonably be expected to result in the
+identification, apprehension or conviction of criminal offenders. 
+
+       (10) “Police
+officer” has the meaning given that term in ORS 133.525. 
+
+       (11) “Proceeds of
+prohibited conduct” means property derived directly or indirectly from,
+maintained by or realized through an act or omission that constitutes
+prohibited conduct, and includes any benefit, interest or property of any kind
+without reduction for expenses of acquiring or maintaining it or incurred for
+any other reason. 
+
+       (12) “Prohibited
+conduct” means: 
+
+       (a) For purposes
+of proceeds, a felony or a Class A misdemeanor. 
+
+       (b) For purposes
+of instrumentalities, any crime listed in ORS 131.602. 
+
+       (13) “Property”
+means any interest in anything of value, including the whole of any lot or
+tract of land and tangible and intangible personal property, including
+currency, instruments or securities or any other kind of privilege, interest,
+claim or right whether due or to become due. 
+
+       (14) “Seizing
+agency” means a law enforcement agency that has seized property for criminal
+forfeiture. 
+
+       (15) “Weapon”
+means any instrument of offensive or defensive combat or anything used, or
+designed to be used, to destroy, defeat or injure a person. [2005 c.830 §1;
+2007 c.71 §30; 2009 c.874 §5] 
+
+   
+
+       131.553
+Legislative findings; effect on local laws; remedy not exclusive. (1) The Legislative Assembly finds
+that: 
+
+       (a) Prohibited
+conduct is undertaken in the course of activities that result in, and are
+facilitated by, the acquisition, possession or transfer of property subject to
+criminal forfeiture under ORS 131.550 to 131.600; 
+
+       (b) Transactions
+involving property subject to criminal forfeiture under ORS 131.550 to 131.600
+escape taxation; 
+
+       (c) Perpetrators
+of crimes should not be allowed to keep the proceeds and instrumentalities of
+their crimes; 
+
+       (d) Governments
+attempting to respond to prohibited conduct require additional resources to
+meet their needs; and 
+
+       (e) There is a
+need to provide for the forfeiture of certain property subject to criminal
+forfeiture under ORS 131.550 to 131.600, to provide for the protection of the
+rights and interests of affected persons and to provide for uniformity
+throughout this state with respect to the laws of this state that pertain to
+the criminal forfeiture of real and personal property based upon prohibited
+conduct. 
+
+       (2) ORS 131.550
+to 131.600 do not impair the right of any city or county to enact ordinances
+providing for the criminal forfeiture of property based upon prohibited conduct
+if: 
+
+       (a) The property
+was used to commit the conduct described in the ordinances, or constitutes
+proceeds of the conduct; and 
+
+       (b) The criminal
+forfeiture is subject to procedures and limitations set forth in ORS 131.550 to
+131.600. 
+
+       (3) Nothing in
+ORS 131.550 to 131.600 may be construed to limit or impair any right or remedy
+that any person or entity may have under ORS 166.715 to 166.735. Criminal
+forfeiture is a remedy separate and apart from any other criminal penalty and
+from civil forfeiture or any other civil penalty. [2005 c.830 §2] 
+
+   
+
+       131.556 Right,
+title and interest in forfeited property vests in seizing agency. Subject to ORS 131.550 to 131.600,
+all right, title and interest in property forfeited under ORS 131.550 to
+131.600 vest in the seizing agency upon commission of the prohibited conduct. [2005
+c.830 §3] 
+
+   
+
+       131.558
+Property subject to forfeiture. 
+The following are subject to criminal forfeiture: 
+
+       (1) All
+controlled substances that have been manufactured, distributed, dispensed,
+possessed or acquired in the course of prohibited conduct; 
+
+       (2) All raw
+materials, products and equipment of any kind that are used, or intended for
+use, in providing, manufacturing, compounding, processing, delivering,
+importing or exporting any service or substance in the course of prohibited
+conduct; 
+
+       (3) All property
+that is used, or intended for use, as a container for property described in
+subsection (1) or (2) of this section; 
+
+       (4) All
+conveyances, including aircraft, vehicles and vessels, that are used, or are
+intended for use, to transport or facilitate the transportation, sale, receipt,
+possession or concealment of property described in subsection (1) or (2) of
+this section, and all conveyances, including aircraft, vehicles and vessels,
+that are used or intended for use in prohibited conduct or to facilitate
+prohibited conduct, except that: 
+
+       (a) No conveyance
+used by any person as a common carrier in the transaction of business as a
+common carrier is subject to criminal forfeiture under the provisions of this
+section unless the owner or other person in charge of such conveyance was a
+consenting party or knew of and acquiesced in the prohibited conduct; and 
+
+       (b) No conveyance
+is subject to criminal forfeiture under the provisions of this section by
+reason of any act or omission established by the owner thereof to have been
+committed or omitted by any person other than such owner while such conveyance
+was unlawfully in the possession of a person other than the owner in violation
+of the criminal laws of the United States or of any state; 
+
+       (5) All books,
+records, computers and research, including formulae, microfilm, tapes and data
+that are used or intended for use to facilitate prohibited conduct; 
+
+       (6) All moneys,
+negotiable instruments, balances in deposit or other accounts, securities or
+other things of value furnished or intended to be furnished by any person in
+the course of prohibited conduct, all proceeds of or from prohibited conduct,
+and all moneys, negotiable instruments, balances in deposit and other accounts
+and securities used or intended to be used to facilitate any prohibited
+conduct; 
+
+       (7) All real
+property, including any right, title and interest in the whole of any lot or
+tract of land and any appurtenances or improvements, that is used or intended
+to be used to commit or facilitate the commission of prohibited conduct; 
+
+       (8) All weapons
+possessed, used or available for use to facilitate conduct giving rise to
+criminal forfeiture; 
+
+       (9) All property
+described in this section that is intended for use in committing or
+facilitating an attempt to commit a crime as described in ORS 161.405, a
+solicitation as described in ORS 161.435 or a conspiracy as described in ORS
+161.450; and 
+
+       (10) All personal
+property that is used or intended to be used to commit or facilitate prohibited
+conduct. [2005 c.830 §4] 
+
+   
+
+       131.561
+Seizure of property subject to forfeiture. (1) A person who delivers property in obedience to an
+order or direction to deliver the property under this section is not liable: 
+
+       (a) To any person
+on account of obedience to the order or direction; or 
+
+       (b) For any costs
+incurred on account of any contamination of the delivered property. This
+includes, but is not limited to, any disposal costs for any property forfeited
+under ORS 131.558, any hazardous waste or material, any contraband or any other
+contamination contained in property seized under this section. 
+
+       (2) In addition
+to seizures authorized by ORS 133.535, a police officer may seize property
+without a court order if the police officer has probable cause to believe that
+the property is subject to criminal forfeiture. 
+
+       (3) Except as
+provided in ORS 131.564, with regard to cash or other assets that at the time
+of seizure are held in any form of account in a financial institution, if the
+property is in whole or in part intangible, the person having control or
+custody of the property shall deliver the same over to the police officer. 
+
+       (4)(a) A police
+officer may seize property pursuant to an order of the court. Forfeiture
+counsel or a seizing agency may apply for an ex parte order directing seizure
+of specified property. 
+
+       (b) Application
+may be made to any judge as defined in ORS 133.525. The application must be
+supported by one or more affidavits setting forth the facts and circumstances
+tending to show where the objects of the seizure are to be found. The court
+shall issue the order upon a finding of probable cause to believe that the
+described property is subject to criminal forfeiture. The order may be set out
+on the face of a search warrant. 
+
+       (c) Except as
+provided in ORS 131.564, with regard to cash or other assets that at the time
+of seizure are held in any form of account in a financial institution, if the
+property is in whole or in part intangible, the order shall direct any person
+having control or custody of the property to deliver the same over to the
+seizing agency or to the court to abide judgment. 
+
+       (5) Property may
+be constructively seized by posting notice of seizure for criminal forfeiture
+on it or by filing notice of seizure for criminal forfeiture or notice of
+pending criminal forfeiture in the public records that impart constructive
+notice of matters relating to such property. A notice that is filed must
+include a description of the property that is the subject of the seizure. Real
+property, including interests arising out of land sale contracts, may be seized
+only upon recording a notice of seizure containing a legal description of the
+property in the mortgage records of the county in which the real property is
+located. 
+
+       (6) Promptly upon
+seizure, the officer who seized the property shall make an inventory of the
+property seized and shall deliver a receipt embodying the inventory to the
+person from whose possession the property is taken or to the person in apparent
+control of the property at the time it is seized. If the property is unoccupied
+or there is no one present in apparent control, the officer shall leave the
+receipt suitably affixed to the property. If the property is physically removed
+from the location of seizure and it is unoccupied or there is no one present in
+apparent control, then the officer shall promptly file the receipt in the
+public records of the seizing agency. Every receipt prepared under this
+subsection shall contain, in addition to an inventory of the property seized,
+the following information: 
+
+       (a) The identity
+of the seizing agency; and 
+
+       (b) The address
+and telephone number of the office or other place where the person may obtain
+further information concerning the criminal forfeiture. 
+
+       (7) In the event
+that property is seized from the possession of a person who asserts a
+possessory lien over such property pursuant to applicable law, notwithstanding
+any other provision of law, any lien of the person from whom the property was
+seized remains in effect and is enforceable as fully as though the person had
+retained possession of the property. [2005 c.830 §5] 
+
+   
+
+       131.564 Status
+of seized property; release; maintenance and use. (1)(a) Except as otherwise
+provided in ORS 131.550 to 131.600, property seized for criminal forfeiture is
+not subject to replevin, conveyance, sequestration or attachment. The seizure
+of property or the commencement of a criminal forfeiture proceeding under ORS
+131.550 to 131.600 does not abate, impede or in any way delay the initiation or
+prosecution of a suit or action by a financial institution for the possession
+of seized property in which the financial institution has or purports to have a
+lien or security interest or for the foreclosure of such lien or security
+interest. A financial institution may proceed with any suit or action involving
+property in which it has a lien or security interest even though a seizure has
+occurred and criminal forfeiture proceedings have been or will be commenced. If
+property that may be subject to criminal forfeiture is sold prior to the
+conclusion of the forfeiture proceedings, the sheriff, trustee or other person
+who is conducting the sale and who has actual notice of the forfeiture
+proceedings shall distribute the sale proceeds as follows: 
+
+       (A) To the
+expenses of the sale; 
+
+       (B) If the
+property is a motor vehicle with a hidden compartment, to reimburse the seizing
+agency for the cost of disabling the hidden compartment; 
+
+       (C) To the
+payment of the obligations owed to the foreclosing financial institution that
+are secured by the property and to any other person whose lien or security
+interest in the property has been foreclosed in the suit or action in the order
+determined by the court; and 
+
+       (D) The surplus,
+if any, shall be distributed to the seizing agency, or to the court in which
+the forfeiture proceedings are pending. 
+
+       (b) The sheriff,
+trustee or other person who distributes the sale proceeds as provided in this
+subsection is not liable to any person who has or asserts an interest in the
+property. 
+
+       (2) Within 30
+days following seizure of property for criminal forfeiture, the seizing agency,
+in consultation with the district attorney of the county in which the property
+was seized for forfeiture, shall determine whether it will seek the forfeiture
+of the property. If the seizing agency elects not to seek forfeiture, it shall
+pay all costs and expenses relating to towing and storage of the property, and
+shall cause to be discharged any possessory chattel liens arising under ORS
+87.152 to 87.162 that have attached to the property since its seizure and
+release the property. The property may be released to a person other than the
+person from whose custody or control the property was taken if the seizing
+agency or forfeiture counsel first mails to the last-known addresses of all
+persons known to have an interest in the property a notice of intent to release
+the property. The notice must specify the person to whom the property is to be
+released and must detail the time and place of the release. An agency that complies
+with the provisions of this subsection by paying costs and expenses of towing
+and storage, discharging possessory liens, mailing any required notices and
+releasing the property is not liable for its actions under this subsection or
+for any consequences thereof. If the property is a motor vehicle with a hidden
+compartment, the seizing agency is not liable for any diminution in the value
+of the property as a result of disabling the compartment. 
+
+       (3) A seizing
+agency shall, pending criminal forfeiture and final disposition and subject to
+the need to retain the property in any criminal proceeding, provide that
+property in the physical custody of the seizing agency be serviced or
+maintained as may be reasonably appropriate to preserve the value of the
+property. 
+
+       (4) A seizing
+agency may, pending criminal forfeiture and final disposition and subject to
+the need to retain seized property in any criminal proceeding: 
+
+       (a) Provide that
+the seized property be transferred for criminal forfeiture to any city, county,
+state or federal agency with criminal forfeiture authority, provided that no
+such transfer may have the effect of diminishing or reducing the rights of any
+third party under ORS 131.550 to 131.600. 
+
+       (b) Apply to the
+court for an order providing that the seized property may be sold, leased,
+rented or operated in the manner and on the terms that may be specified in the
+court’s order. The court shall deny any application unless the sale, lease,
+rental or operation of the property will be conducted in a commercially
+reasonable manner and will not result in a material reduction of the property’s
+value. The court may enter an order only: 
+
+       (A) After notice
+and opportunity to be heard is provided to all persons known to have or to
+claim an interest in the property; and 
+
+       (B) With the
+consent of all persons holding security interests of record in the property. 
+
+       (c) Provide that
+the seized property be removed to a storage area for safekeeping. 
+
+       (5) Unless
+otherwise ordered by the court, the seizing agency shall hold the proceeds of
+the sale, leasing, renting or operation under subsection (4) of this section
+and the rights of holders of security interests of record in the property
+attach to the proceeds of the sale, leasing, renting or operation in the same
+order of priority as interests attached to the property. 
+
+       (6)(a) Except as
+provided in paragraph (b) of this subsection and except for currency with
+apparent or known intrinsic collector value, all cash seized for criminal
+forfeiture, together with all cash received from the sale, leasing, renting or
+operation of the property, must be immediately deposited in an insured
+interest-bearing forfeiture trust account or accounts maintained by the seizing
+agency exclusively for this purpose. Cash may be retained as evidence in a
+criminal proceeding but must be deposited immediately when the need to retain
+it as evidence is discharged. 
+
+       (b)
+Notwithstanding paragraph (a) of this subsection, all cash seized for criminal
+forfeiture that at the time of seizure is deposited in any form of account in a
+financial institution may remain in the account in the financial institution.
+From the time of seizure until the criminal forfeiture proceeding is abandoned,
+or until a court ultimately enters a judgment granting or denying criminal
+forfeiture or enters a judgment of dismissal, all deposits except the deposit
+of interest by the financial institution, withdrawals or other transactions
+involving the account are prohibited, unless approved by the court. 
+
+       (c) Subject to
+any court order, interest earned upon cash deposited in a forfeiture trust
+account or held in an account in a financial institution under this subsection
+must be disbursed as follows: 
+
+       (A) If the
+criminal forfeiture proceeding is abandoned, or if the court ultimately enters
+a judgment denying criminal forfeiture or a judgment of dismissal, the seizing
+agency shall pay any interest earned, together with the cash deposited in the
+forfeiture trust account in connection with the seizure in question, to the
+person from whom it was seized, and the seizing agency shall release any
+interest earned, together with the cash deposited in an account in a financial
+institution, to the person from whom it was seized. 
+
+       (B) If a judgment
+of criminal forfeiture is entered, but parties other than the seizing agency
+establish rights to portions of the amount that are in the aggregate larger
+than or equal to the cash on deposit plus interest earned thereon, the seizing
+agency shall disburse the interest, together with the cash on deposit, to the
+parties in the order of their priority. 
+
+       (C) If a judgment
+of criminal forfeiture is entered and the total amount arising out of the
+seizure that is on deposit in the forfeiture trust account or in an account in
+a financial institution, including interest earned on moneys deposited, is
+greater than the aggregate amount needed to satisfy the established interests
+of security interest holders, lienholders and other claimants, the seizing
+agency shall retain the balance remaining after payment by the seizing agency
+to parties. 
+
+       (7) If the
+property seized for criminal forfeiture consists of stocks, bonds, promissory
+notes or other security or evidence of indebtedness, and the property is held
+in some form of account in a financial institution, the property may remain in
+the account pending a final decision in the criminal forfeiture proceedings.
+Unless otherwise allowed by order of the court, no transactions involving the
+account may be permitted other than the deposit or reinvestment of dividends or
+other normally recurring payments on the property. Any accrual to the value of
+the property during the pendency of criminal forfeiture proceedings must be
+disbursed in the manner provided for the disbursement of interest under
+subsection (6) of this section. 
+
+       (8) When property
+has been seized for criminal forfeiture or a notice of criminal forfeiture has
+been filed, an owner of or interest holder in the property may file a motion
+seeking an order to show cause. The motion must be filed no later than 15 days
+after the owner or interest holder received notice or actual knowledge of the
+seizure, whichever is earlier. At the time a person files a motion under this
+subsection, the person must serve a copy of the motion on the forfeiture
+counsel and the defendant, if any. When a motion is filed under this
+subsection, the court shall issue an order to show cause to the seizing agency
+for a hearing on the sole issue of whether probable cause for criminal
+forfeiture of the property exists. If the court finds that there is no probable
+cause for criminal forfeiture of the property, the property seized for criminal
+forfeiture or subjected to the notice of criminal forfeiture must be released
+pending the outcome of a judicial proceeding under ORS 131.582. As used in this
+subsection, “owner” or “interest holder” does not include the defendant. [2005
+c.830 §6; 2009 c.874 §4] 
+
+   
+
+       131.566 Motor
+vehicle with hidden compartment. 
+(1) When a seizing agency lawfully seizes a motor vehicle with a hidden
+compartment, the agency shall disable the hidden compartment, unless the motor
+vehicle is forfeited and the agency: 
+
+       (a) Retains the
+motor vehicle for law enforcement purposes; or 
+
+       (b) Determines
+that the cost of disabling the hidden compartment exceeds the value of the
+motor vehicle. 
+
+       (2)
+Notwithstanding ORS 131.594 or 131.597, if the motor vehicle with a hidden
+compartment is forfeited and the seizing agency: 
+
+       (a) Retains the
+motor vehicle for law enforcement purposes, the agency shall deduct the cost of
+disabling the hidden compartment from the value of the motor vehicle before
+making the distribution described in ORS 131.594 or 131.597. 
+
+       (b) Does not
+retain the motor vehicle for law enforcement purposes and determines that the
+cost of disabling the hidden compartment exceeds the value of the motor
+vehicle, the agency shall sell the motor vehicle for scrap or salvage and
+distribute the proceeds of the sale according to ORS 131.594 or 131.597. The
+seizing agency shall ensure that the person to whom the motor vehicle is sold
+disables the hidden compartment or the motor vehicle. 
+
+       (3) If a motor
+vehicle with a hidden compartment is forfeited and the seizing agency sells the
+motor vehicle, the agency shall deduct the cost of disabling the hidden
+compartment from the proceeds of the sale under ORS 131.594 (1)(a) or 131.597
+(1)(a). [2009 c.874 §2] 
+
+   
+
+       131.567
+Recorded notice of intent to forfeit real property; form. (1) Whenever a seizing agency
+intends to forfeit any real property under ORS 131.550 to 131.600, the seizing
+agency may have recorded by the county clerk or other recorder of deeds of
+every county in which any part of the premises or real property lies a notice
+of intent to forfeit real property under ORS 205.246. The notice must contain
+the legal description of the real property, the common address of the property,
+if any, and the name of the forfeiture counsel. From the time of recording the
+notice, and from that time only, the intent to forfeit is notice to purchasers
+and holders of encumbrances of the rights and equities in the premises of the
+party filing the notice. The notice must be recorded in the same book and in
+the same manner in which mortgages are recorded and may be discharged in like
+manner as mortgages are discharged, either by such party or the attorney
+signing the notice. 
+
+       (2) Unless
+otherwise prescribed by law, a seizing agency recording a notice of intent to
+forfeit shall use substantially the following form: 
+
+ ______________________________________________________________________________ 
+
+ NOTICE
+OF INTENT 
+
+ TO
+FORFEIT 
+
+   
+
+ Pursuant to ORS
+131.567, the undersigned states: 
+
+       That I, _______________
+do declare that it is my intent to initiate criminal forfeiture proceedings on
+the following described real property: 
+
+   
+
+       1. The
+description of the real property to be affected is: 
+
+       ________________________ 
+
+       ________________________ 
+
+       ________________________ 
+
+       ________________________ 
+
+       ________________________ 
+
+   
+
+       2. The common
+address of the property, if any, is: 
+
+       ________________________ 
+
+       ________________________ 
+
+       ________________________ 
+
+   
+
+ Dated this ___ day of ________,
+___. 
+
+ This notice of intent
+to file forfeiture will expire on the ___ day of ________, ___, absent future
+filings. 
+
+ Name of agency seeking
+forfeiture 
+
+       ________________________ 
+
+ Name of Forfeiture
+Counsel 
+
+       ________________________ 
+
+ Address 
+
+       ________________________ 
+
+       ________________________ 
+
+       ________________________ 
+
+ Telephone Number 
+
+       ________________________ 
+
+   
+
+   
+
+ State of Oregon           ) 
+
+                                     )           ss. 
+
+ County of _____         ) 
+
+   
+
+ The foregoing
+instrument was acknowledged before me this ___ day of ________, ___. 
+
+   
+
+   
+
+   
+
+ _______________ 
+
+   
+
+ Notary
+Public for Oregon 
+
+   
+
+ My
+commission expires ________. 
+
+   
+
+ ______________________________________________________________________________ 
+
+       (3) The notice of
+intent to forfeit property expires 30 days after the date of filing absent
+future filings to perfect. [2005 c.830 §7] 
+
+   
+
+       131.570 Notice
+of seizure for forfeiture; service on persons other than defendant; publication
+of notice. (1) As
+soon as practicable after seizure for criminal forfeiture, the seizing agency
+shall review the inventory prepared by the police officer under ORS 131.561.
+Within 30 days after seizure for criminal forfeiture, the forfeiture counsel
+shall file a criminal information or an indictment alleging facts sufficient to
+establish that the property is subject to criminal forfeiture. Within 30 days
+after seizure for criminal forfeiture, the seizing agency or forfeiture counsel
+shall prepare a notice of seizure for criminal forfeiture containing a copy of
+the inventory prepared pursuant to ORS 131.561, the identity of the person from
+whom the property was seized, the name, address and telephone number of the
+seizing agency and the address and telephone number of the office or other
+place where further information concerning the seizure and criminal forfeiture
+may be obtained, and shall make reasonable efforts to serve the notice of
+seizure for criminal forfeiture on all persons, other than the defendant, known
+to have an interest in the seized property. A person may be served as provided
+in ORCP 7 D except that the notice must also include information regarding the
+right to file a claim under subsection (2) of this section, if applicable, and
+the deadline for filing the claim. If the property is cash in the amount of
+$1,000 or less or if the fair market value of the property is $1,000 or less,
+the seizing agency may publish notice of seizure for criminal forfeiture in a
+newspaper as provided in ORCP 7 D(6)(b) to D(6)(d). In all other cases, the
+seizing agency shall publish notice of seizure for criminal forfeiture in a
+newspaper as provided in ORCP 7 D(6)(b) to D(6)(d). The seizing agency shall
+provide a copy of the notice, inventory and estimate of value to the forfeiture
+counsel. 
+
+       (2) Except as
+otherwise provided in ORS 131.579 (1) to (3), if notice of seizure for criminal
+forfeiture: 
+
+       (a) Is given in a
+manner other than by publication, any person, other than the defendant,
+claiming an interest in the property must file a claim with the forfeiture
+counsel within 21 days after service of notice of seizure for criminal
+forfeiture. 
+
+       (b) Is published,
+any person, other than the defendant, claiming an interest in the property must
+file a claim with the forfeiture counsel within 21 days after the last
+publication date. 
+
+       (3) An extension
+for the filing of a claim under subsection (2) of this section may not be
+granted. The claim must be signed by the claimant under penalty of perjury and
+must set forth all of the following: 
+
+       (a) The true name
+of the claimant; 
+
+       (b) The address
+at which the claimant will accept future mailings from the court or the
+forfeiture counsel; and 
+
+       (c) A statement
+that the claimant has an interest in the seized property. 
+
+       (4) If a seizing
+agency publishes notice of seizure for criminal forfeiture in a newspaper in
+the manner provided by subsection (1) of this section, the agency may include
+in a single publication as many notices of criminal forfeiture as the agency
+considers convenient. The publication may contain a single statement of matters
+from the notices of criminal forfeiture that are common to all of the notices
+and that would otherwise result in needless repetition. The publication must
+contain for each notice of criminal forfeiture a separate copy of the inventory
+prepared pursuant to ORS 131.561, and a separate statement of the identity of
+the person from whose custody the property was seized. The published inventory
+need not contain estimates of value for the property seized. [2005 c.830 §8] 
+
+   
+
+       131.573
+Petition for expedited hearing. 
+(1) A person, other than the defendant, claiming an interest in property seized
+under ORS 131.550 to 131.600 may file a petition for an expedited hearing
+within 15 days after notice of seizure for criminal forfeiture or within such
+further time as the court may allow for good cause shown. 
+
+       (2) A petition
+for an expedited hearing must contain a claim if no claim has previously been
+filed. The petition must reflect whether the petitioner seeks one or more of
+the following: 
+
+       (a) A
+determination at the hearing that the petitioner is a bona fide purchaser for
+value and did not acquiesce in the prohibited conduct. 
+
+       (b) An order
+restoring custody of seized property to the petitioner during the pendency of
+the proceedings if the court finds, by a preponderance of the evidence, that it
+is probable that the property will remain available for forfeiture at the
+completion of the proceedings and that there is a reasonable possibility that
+the petitioner will ultimately prevail in the proceeding. 
+
+       (c) Appointment
+of a receiver. 
+
+       (3) A person
+filing a petition under this section shall serve a copy of the petition on all
+persons known to have an interest. Service must be accomplished as provided in
+ORCP 7 D. Service by publication is not required prior to an expedited hearing. 
+
+       (4) The court
+shall hold a hearing within 15 days after service of all persons known to have
+an interest or at such later time as the court may allow for good cause shown.
+The hearing is limited to: 
+
+       (a) Deciding
+whether the petitioner can prove that the petitioner is a bona fide purchaser
+for value and did not acquiesce in the prohibited conduct; 
+
+       (b) Determining
+whether an order should be entered directing the return of the seized property
+to the claimant during the pendency of the hearing; and 
+
+       (c) Determining
+whether an order should be entered directing the appointment of a receiver to
+manage property seized pursuant to ORS 131.550 to 131.600 pending a final
+determination as to the disposition of the property, if the petitioner or the
+seizing agency requests that order. 
+
+       (5) The parties
+to a proceeding under ORS 131.582 may at any time stipulate to the entry of an
+order restoring custody of seized property to a petitioner who claims an
+interest in the property. The order must comply with the requirements of ORS
+131.576 (1). [2005 c.830 §9] 
+
+   
+
+       131.576 Order
+restoring custody of property after expedited hearing. (1) An order restoring custody to
+a petitioner under ORS 131.573 shall: 
+
+       (a) Prohibit the
+petitioner from using the property in unlawful conduct of any kind, or from
+allowing the property to be used by any other person in unlawful conduct; 
+
+       (b) Require the
+petitioner to service and maintain the property as may be reasonably
+appropriate to preserve the value of the property; and 
+
+       (c) Require the
+petitioner to inform the court of the exact location of the property at the
+time of any judicial proceeding under ORS 131.582 and to deliver the property
+to the seizing agency immediately upon the issuance of a judgment of criminal
+forfeiture. 
+
+       (2) An order
+restoring custody to a petitioner under ORS 131.573 may include such other
+requirements as the court finds appropriate pending a final determination as to
+the disposition of the property. 
+
+       (3) An order
+restoring custody to a petitioner under ORS 131.573 is enforceable by a
+contempt proceeding brought on the relation of forfeiture counsel, by a further
+order directing the petitioner to deliver the property to the custody of the
+seizing agency, by an order awarding to the seizing agency its reasonably
+incurred attorney fees, costs and investigative expenses, and by such other
+remedies or relief as the court finds appropriate. [2005 c.830 §10] 
+
+   
+
+       131.579
+Affidavit in response to notice of seizure for forfeiture. (1)(a) A financial institution
+holding an interest in property seized under ORS 131.550 to 131.600 shall
+respond to a notice of seizure for criminal forfeiture by filing an affidavit
+with the court establishing that the financial institution’s interest in the
+property was acquired: 
+
+       (A) In the
+regular course of business as a financial institution; 
+
+       (B) For valuable
+consideration; 
+
+       (C) Without
+knowledge of the prohibited conduct; 
+
+       (D) In good faith
+and without intent to defeat the interest of any potential seizing agency; and 
+
+       (E) With respect
+to personal property, prior to the seizure of the property, or with respect to
+real property, recorded prior to the recording of notice of the seizure of the
+real property in the mortgage records of the county in which the real property is
+located. 
+
+       (b) Failure to
+file an affidavit constitutes a default. The affidavit must be filed within 30
+days from the date of service under ORS 131.570. 
+
+       (2)
+Notwithstanding the provisions of subsection (1) of this section, any person,
+other than a financial institution, who transfers or conveys an interest in
+real property pursuant to a contract for transfer or conveyance of an interest
+in real property as defined in ORS 93.905 and who retains an interest in the
+real property, or any successor in interest, may respond to a notice of seizure
+for criminal forfeiture by filing an affidavit with the court establishing that
+the person: 
+
+       (a) Received the
+interest in return for valuable consideration or by way of devise or intestate
+succession; 
+
+       (b) Had no
+knowledge at the time of transfer or conveyance of the prohibited conduct; 
+
+       (c) Acted in good
+faith and without intent to defeat the interest of any potential seizing
+agency; 
+
+       (d) Recorded the
+interest in the mortgage records of the county in which the real property is
+located prior to the recording of any notice of intent to seize or notice of
+seizure; and 
+
+       (e) Continued to
+hold the interest without acquiescing in the prohibited conduct. 
+
+       (3) The affidavit
+permitted by subsection (2) of this section must be filed within 30 days from
+the date of service under ORS 131.570. Failure to file an affidavit as set
+forth in subsection (2) of this section constitutes a default. 
+
+       (4) In response
+to an affidavit filed under subsection (2) of this section, the seizing agency
+may controvert any or all of the assertions made in the affidavit. The
+affidavit of the seizing agency must be filed with the court within 20 days
+after the date the affidavit is filed under subsection (2) of this section. The
+transferor, conveyor or successor in interest may respond, within five days
+after the filing of the affidavit of the seizing agency, with a supplemental
+affidavit limited to the matters stated in the affidavit of the seizing agency.
+If the seizing agency does not file an affidavit within the time allowed, the
+transferor, conveyor or successor in interest is considered to be a financial
+institution for all purposes under ORS 131.550 to 131.600. 
+
+       (5) If the
+seizing agency files an affidavit under subsection (4) of this section, the
+court shall decide the issues raised in the affidavit in a proceeding under ORS
+131.582. [2005 c.830 §11] 
+
+   
+
+       131.582
+Prosecution of criminal forfeiture; indictment or information; burden of proof;
+judgment; notice to claimants. 
+(1) If a district attorney decides to proceed with a criminal forfeiture, the
+district attorney must present the criminal forfeiture to the grand jury for
+indictment. The indictment must allege facts sufficient to establish that the
+property is subject to criminal forfeiture and must comply with ORS 132.510,
+132.540, 132.550, 132.557, 132.560 and 132.580. 
+
+       (2) If the grand
+jury returns an indictment for criminal forfeiture, the defendant may admit or
+deny that the property is subject to criminal forfeiture. If the defendant
+fails to admit or deny that the property is subject to forfeiture, the court
+shall enter a denial on behalf of the defendant. 
+
+       (3) When the
+underlying criminal conduct is a Class A misdemeanor, a city or county attorney
+may prosecute a criminal forfeiture by filing an information in the municipal
+or justice court. 
+
+       (4) A criminal
+forfeiture proceeding and the underlying criminal case must be tried in the
+same proceeding. 
+
+       (5) The criminal
+procedure laws of this state apply to criminal forfeiture proceedings. 
+
+       (6) The court
+shall enter a judgment of criminal forfeiture if the forfeiture counsel proves
+beyond a reasonable doubt that the property for which forfeiture is sought is
+an instrumentality or the proceeds of the crime of conviction or past
+prohibited conduct that is similar to the crime of conviction. 
+
+       (7) Forfeiture
+counsel may move the court at any time for an order finding that the defendant
+is a fugitive and in default. The court may enter an order finding the
+defendant in default under this subsection and enter a judgment of criminal
+forfeiture if the court finds that the defendant is not confined or held in
+custody by another jurisdiction, and that the defendant, after notice or
+knowledge of the fact that a warrant has been issued for the defendant: 
+
+       (a) Purposely
+left the state to avoid prosecution; 
+
+       (b) Declines to
+return to the state and allow execution of the warrant; or 
+
+       (c) Otherwise
+evades the jurisdiction of the court issuing the warrant. 
+
+       (8) No later than
+21 days after the entry of a judgment of criminal forfeiture under this
+section, the forfeiture counsel shall notify by mail all persons who filed
+claims under ORS 131.570 or affidavits under ORS 131.579 of the judgment of
+criminal forfeiture. The notice must inform the person of the requirements of
+subsection (9) of this section. 
+
+       (9) If a person
+who receives notice under subsection (8) of this section wishes to assert the
+person’s interest in the property but was not eligible to file an affidavit
+under ORS 131.579, the person must file an affidavit with the trial court, and
+must serve the forfeiture counsel with a copy of the affidavit, no later than
+21 days after the date the notice required by subsection (8) of this section
+was mailed. The person must allege facts in an affidavit filed under this
+subsection that if true would prove that the person took the property or the
+interest that the person holds in the property: 
+
+       (a)(A) Before it
+was seized for criminal forfeiture; and 
+
+       (B) In good faith
+and without intent to defeat the interest of any seizing agency; or 
+
+       (b) As a bona
+fide purchaser for value without acquiescing in the prohibited conduct. 
+
+       (10)(a) If an
+affidavit is timely filed under subsection (9) of this section and the
+forfeiture counsel: 
+
+       (A) Does not
+contest the affidavit, the forfeiture counsel shall submit a form of judgment
+to the court for entry under ORS 131.588. 
+
+       (B) Does contest
+the affidavit, the forfeiture counsel shall request a hearing with the trial
+court no later than 21 days after receiving the affidavit. 
+
+       (b) If no
+affidavit is filed under subsection (9) of this section but the seizing agency
+filed an affidavit under ORS 131.579 (4), the forfeiture counsel shall request
+a hearing with the trial court no later than 21 days after the last date for
+receiving affidavits under subsection (9) of this section. 
+
+       (11)(a) A hearing
+pursuant to subsection (10) of this section is an ancillary proceeding and the
+Oregon Rules of Civil Procedure apply. At the hearing: 
+
+       (A) Forfeiture
+counsel has the burden of proving by a preponderance of the evidence that the
+person claiming an interest in the property: 
+
+       (i) Took the
+property with the intent to defeat the interest of a seizing agency; or 
+
+       (ii) Is not a
+bona fide purchaser for value or acquiesced in the prohibited conduct. 
+
+       (B) Forfeiture
+counsel may present evidence and witnesses and cross-examine witnesses who
+appear at the hearing. 
+
+       (C) The person
+claiming an interest in the property may testify, present evidence and
+witnesses and cross-examine witnesses who appear at the hearing. 
+
+       (b) In addition
+to testimony and evidence presented at the hearing, the court shall consider
+relevant portions of the record of the criminal case that resulted in the
+judgment of criminal forfeiture. 
+
+       (c) The court
+shall amend the judgment of criminal forfeiture in accordance with its
+determination if, after the hearing, the court determines that the claimant: 
+
+       (A) Did take the
+property before it was seized for criminal forfeiture and in good faith and
+without intent to defeat the interest of the seizing agency; or 
+
+       (B) Is a bona
+fide purchaser for value of the right, title or interest in the property and
+did not acquiesce in the prohibited conduct. 
+
+       (d)
+Notwithstanding ORS 19.255 (1), a person may file a notice of appeal within 30
+days after entry in the register of an order disposing of the matters at issue
+in the ancillary proceeding. An appeal under this paragraph is governed by the
+provisions of ORS chapter 19 relating to appeals in civil actions. 
+
+       (12) When a court
+enters a judgment of criminal forfeiture under this section, the jurisdiction
+of the court continues for purposes of subsection (11) of this section and the
+property continues to be subject to the court’s jurisdiction. [2005 c.830 §12] 
+
+   
+
+       131.585 Extent
+of judgment. (1)
+The court shall enter judgment to the extent that the property is proceeds of
+the crime of conviction or of past prohibited conduct that is similar to the
+crime of conviction. 
+
+       (2) With respect
+to property that is an instrumentality of the crime of conviction or of past
+prohibited conduct that is similar to the crime of conviction, the court shall
+consider: 
+
+       (a) Whether the
+property constitutes the defendant’s lawful livelihood or means of earning a
+living. 
+
+       (b) Whether the
+property is the defendant’s residence. 
+
+       (c) The degree of
+relationship between the property and the prohibited conduct, including the
+extent to which the property facilitated the prohibited conduct or could
+facilitate future prohibited conduct. 
+
+       (d) The monetary
+value of the property in relation to the risk of injury to the public from the
+prohibited conduct. 
+
+       (e) The monetary
+value of the property in relation to the actual injury to the public from the
+prohibited conduct. 
+
+       (f) The monetary
+value of the property in relation to objective measures of the potential or
+actual criminal culpability of the person or persons engaging in the prohibited
+conduct, including: 
+
+       (A) The inherent
+gravity of the prohibited conduct; 
+
+       (B) The potential
+sentence for similar prohibited conduct under Oregon law; 
+
+       (C) The defendant’s
+prior criminal history; and 
+
+       (D) The sentence
+actually imposed on the defendant. 
+
+       (g) Any
+additional relevant evidence. [2005 c.830 §13] 
+
+   
+
+       131.588
+Judgment of forfeiture; contents; effect. (1) If no financial institution has filed the
+affidavit described in ORS 131.579 (1), and if the court has failed to uphold
+the claim or affidavit of any other person claiming an interest in the
+property, the effect of the judgment is that: 
+
+       (a) Title to the
+property passes to the seizing agency free of any interest or encumbrance
+thereon in favor of any person who has been given notice; 
+
+       (b) The seizing
+agency may transfer good and sufficient title to any subsequent purchaser or
+transferee, and all courts, the state and the departments and agencies of this
+state, and any political subdivision shall recognize the title. In the case of
+real property, the seizing agency shall warrant the title against
+constitutional defect. A warranty under this paragraph is limited to the
+purchase price of the real property; and 
+
+       (c) Any
+department, agency or officer of this state or any political subdivision whose
+official functions include the issuance of certificates or other evidence of
+title is immune from civil or criminal liability when such issuance is pursuant
+to a judgment of criminal forfeiture. 
+
+       (2) If an
+affidavit is filed by a financial institution under ORS 131.579 (1), or if a
+person files an affidavit under ORS 131.579 (2): 
+
+       (a) The court
+shall foreclose all security interests, liens and vendor’s interests of
+financial institutions and claimants as to which the court determines that
+there is a legal or equitable basis for foreclosure; and 
+
+       (b) All other
+interests applicable to the property that are not foreclosed or otherwise
+eliminated through a judgment of foreclosure, if and to the extent that they
+are valid and subsisting, remain in effect and the property remains subject to
+them upon completion of the criminal forfeiture proceeding. 
+
+       (3)
+Notwithstanding any other provision of law, if a financial institution or other
+person has filed an affidavit described in ORS 131.579, or if the court has
+upheld the claim of any claimant, then as to each item of property seized: 
+
+       (a) If the court
+has determined that the property should not be forfeited and has not foreclosed
+the security interests, liens or other interests covering the property, the
+court shall render judgment in favor of the owner of the property, the property
+must be returned to the owner and all security interests, liens and other
+interests applicable to the property remain in effect as though the property
+had never been seized. If the property is a motor vehicle with a hidden
+compartment, the seizing agency is not liable for any diminution in the value
+of the property as a result of disabling the compartment. Upon the return of
+the property to the owner, the seizing agency shall pay all costs and expenses
+relating to towing and storage of the property and shall cause to be discharged
+any possessory chattel liens on the property arising under ORS 87.152 to 87.162
+that have attached to the property since the seizure. 
+
+       (b) If the court
+has determined that the property should not be forfeited and has foreclosed one
+or more interests covering the property, including security interests or liens
+covering the property or contracts for the transfer or conveyance of the property,
+the seizing agency shall pay all costs and expenses relating to towing and
+storage of the property and shall cause to be discharged any possessory chattel
+liens on the property arising under ORS 87.152 to 87.162 that have attached to
+the property since the seizure, and the court shall order the property sold
+pursuant to a sheriff’s sale or other sale authorized by the court within such
+time as may be prescribed by the court following entry of the judgment. If any
+interests covering the property have not been foreclosed, including any liens
+or security interests of a claimant whose claim has been upheld, or of a
+financial institution that has filed the affidavit described in ORS 131.579,
+the property must be sold subject to those interests. The judgment shall order
+the proceeds of the sale applied in the following order: 
+
+       (A) To the
+payment of the costs of the sale; 
+
+       (B) If the
+property is a motor vehicle with a hidden compartment, to reimburse the seizing
+agency for the cost of disabling the hidden compartment; 
+
+       (C) To the
+satisfaction of the foreclosed liens, security interests and contracts in order
+of their priority; and 
+
+       (D) The excess,
+if any, to the owner of the property. 
+
+       (c) If the court
+has determined that the property should be forfeited and has foreclosed one or
+more security interests, liens, contracts or other interests covering the
+property, the seizing agency shall pay all costs and expenses relating to
+towing and storage of the property and shall cause to be discharged any
+possessory chattel liens on the property arising under ORS 87.152 to 87.162
+that have attached to the property since the seizure, and the court shall order
+the property sold pursuant to a sheriff’s sale or other sale authorized by the
+court. If any interest in the property was claimed by a financial institution
+or other claimant and the interest was upheld but not foreclosed, the property
+must be sold subject to the interest. The sale of the property must be held
+within such time as may be prescribed by the court following entry of the
+judgment. The judgment shall also order the proceeds of such sale applied in
+the following order: 
+
+       (A) To the
+payment of the costs of the sale; 
+
+       (B) If the
+property is a motor vehicle with a hidden compartment, to reimburse the seizing
+agency for the cost of disabling the hidden compartment; 
+
+       (C) To the
+satisfaction of the foreclosed liens, security interests and contracts in the
+order of their priority; and 
+
+       (D) The excess,
+if any, to the seizing agency to be disposed of as provided in ORS 131.594 or
+131.597. 
+
+       (d) If the court
+has determined that the property should be forfeited and has not foreclosed the
+interests of any party in the property, the seizing agency shall pay all costs
+and expenses relating to towing and storage of the property and shall cause to
+be discharged any possessory chattel liens on the property arising under ORS
+87.152 to 87.162 that have attached to the property since the seizure. The
+court shall enter a judgment awarding the property to the seizing agency,
+subject to the interests of any claimants whose claims or affidavits were
+upheld by the court, and subject to the interests of any financial institutions
+that filed affidavits under ORS 131.579 (1), that remain in full force and
+effect. If the property is a motor vehicle with a hidden compartment, the
+interests of any claimants or financial institutions shall be reduced on a pro
+rata basis by the cost of disabling the hidden compartment. 
+
+       (4) Upon motion
+of the state, the court may include in the judgment of criminal forfeiture an
+order that directs the seizing agency to distribute to the victim of the crime
+of conviction a portion of any proceeds from property received by the seizing
+agency if the court included an order of restitution in the criminal judgment. 
+
+       (5) The seizing
+agency is not liable to any person as a consequence of obedience to a judgment
+directing conveyance to a financial institution. 
+
+       (6)(a) On entry
+of judgment for a claimant in any proceeding to forfeit property under ORS
+131.550 to 131.600, unless the court has foreclosed one or more security
+interests, liens or other interests covering the property, the property or
+interest in property must be returned or conveyed immediately to the claimant
+designated by the court. 
+
+       (b) If it appears
+that there was reasonable suspicion that the property was subject to criminal
+forfeiture, the court shall cause a finding to be entered and no claimant or
+financial institution is entitled to damages nor is the person who made the
+seizure, the seizing agency or forfeiture counsel liable to suit or judgment on
+account of the seizure or action. An order directing seizure issued under ORS
+131.561 constitutes a finding of reasonable suspicion that the property was
+subject to criminal forfeiture. 
+
+       (7) Except for
+deficiencies resulting from disabling a hidden compartment in a motor vehicle
+with a hidden compartment, nothing in this section prevents a claimant or
+financial institution from obtaining any deficiency to which the claimant or
+financial institution would otherwise be entitled. 
+
+       (8) Nothing in
+this section or in ORS 131.564 prevents a seizing agency from entering into an
+agreement with a claimant or other person for the reimbursement of the seizing
+agency for the costs and expenses relating to towing and storage of property or
+the cost of discharging any possessory chattel lien on the property arising
+under ORS 87.152 to 87.162 that attached to the property in the period between
+the seizure of the property and the release or criminal forfeiture of the
+property. [2005 c.830 §14; 2009 c.617 §4; 2009 c.874 §3; 2011 c.504 §3] 
+
+   
+
+       131.591
+Equitable distribution of property or proceeds; intergovernmental agreements. Distribution of property or
+proceeds in accordance with ORS 131.550 to 131.600 must be made equitably and
+may be made pursuant to intergovernmental agreement under ORS chapter 190.
+Intergovernmental agreements providing for such distributions and in effect on
+September 2, 2005, remain valid unless changed by the parties. The equitable
+distribution of proceeds targeted for law enforcement must involve sharing the
+proceeds between the seizing agency and forfeiture counsel. [2005 c.830 §15] 
+
+   
+
+       131.594
+Disposition and distribution of forfeited property when seizing agency not the
+state. (1) After
+the seizing agency distributes property under ORS 131.588, and when the seizing
+agency is not the state, the seizing agency shall dispose of and distribute
+property as follows: 
+
+       (a) The seizing
+agency shall pay costs first from the property or its proceeds. As used in this
+subsection, “costs” includes the expenses of publication, service of notices,
+towing, storage and servicing or maintaining the seized property under ORS
+131.564. 
+
+       (b) After costs
+have been paid, the seizing agency shall distribute to the victim any amount
+the seizing agency was ordered to distribute under ORS 131.588 (4). 
+
+       (c) After costs
+have been paid and distributions under paragraph (b) of this subsection have
+been made, the seizing agency shall distribute the rest of the property to the
+general fund of the political subdivision that operates the seizing agency. 
+
+       (2) Of the
+property distributed under subsection (1)(c) of this section, the political
+subdivision shall distribute: 
+
+       (a) Three percent
+to the Asset Forfeiture Oversight Account established in ORS 131A.460; 
+
+       (b) Seven percent
+to the Illegal Drug Cleanup Fund established in ORS 475.495 for the purposes
+specified in ORS 475.495 (5) and (6); and 
+
+       (c) Ten percent
+to the state General Fund. 
+
+       (3) Of the
+property distributed under subsection (1)(c) of this section that remains in
+the general fund of the political subdivision after the distributions required
+by subsection (2) of this section have been made: 
+
+       (a) Fifty percent
+must be for official law enforcement use; and 
+
+       (b) Fifty percent
+must be used for substance abuse treatment pursuant to a plan developed under
+ORS 430.420. 
+
+       (4) Except as
+otherwise provided by intergovernmental agreement, the seizing agency may: 
+
+       (a) Sell, lease,
+lend or transfer the property or proceeds to any federal, state or local law
+enforcement agency or district attorney. 
+
+       (b) Sell the
+forfeited property by public or other commercially reasonable sale and pay from
+the proceeds the expenses of keeping and selling the property. 
+
+       (c) Retain the
+property. 
+
+       (d) With written
+authorization from the district attorney for the seizing agency’s jurisdiction,
+destroy any firearms or controlled substances. 
+
+       (5) A political
+subdivision may sell as much property as may be needed to make the
+distributions required by subsections (1) and (2) of this section. A political
+subdivision shall make distributions to the Asset Forfeiture Oversight Account,
+the Illegal Drug Cleanup Fund and the state General Fund that are required by
+subsection (2) of this section once every three months. The distributions are
+due within 20 days of the end of each quarter. Interest does not accrue on
+amounts that are paid within the period specified by this subsection. 
+
+       (6) A seizing
+agency may donate growing equipment and laboratory equipment that was used, or
+intended for use, in manufacturing of controlled substances to a public school,
+community college or public university listed in ORS 352.002. 
+
+       (7) This section
+applies only to criminal forfeiture proceeds arising out of prohibited conduct.
+[2005 c.830 §16; 2009 c.78 §54; 2011 c.637 §61] 
+
+   
+
+       131.597
+Disposition and distribution of forfeited property when seizing agency is the
+state. (1) After
+the seizing agency distributes property under ORS 131.588, and when the seizing
+agency is the state or when the state is the recipient of property forfeited
+under ORS 131.550 to 131.600, the seizing agency shall dispose of and
+distribute property as follows: 
+
+       (a) The seizing
+agency shall pay costs first from the property or its proceeds. As used in this
+subsection, “costs” includes the expenses of publication, service of notices,
+towing, storage and servicing or maintaining the seized property under ORS
+131.564. 
+
+       (b) After costs
+have been paid, the seizing agency shall distribute to the victim any amount
+the seizing agency was ordered to distribute under ORS 131.588 (4). 
+
+       (c) Of the
+property remaining after costs have been paid under paragraph (a) of this
+subsection and distributions have been made under paragraph (b) of this
+subsection, the seizing agency shall distribute: 
+
+       (A) Three percent
+to the Asset Forfeiture Oversight Account established in ORS 131A.460; 
+
+       (B) Seven percent
+to the Illegal Drug Cleanup Fund established in ORS 475.495 for the purposes
+specified in ORS 475.495 (5) and (6); 
+
+       (C) Ten percent
+to the state General Fund; 
+
+       (D) Subject to
+subsection (5) of this section, 40 percent to the Department of State Police or
+the Department of Justice for official law enforcement use; and 
+
+       (E) Forty percent
+to the Drug Prevention and Education Fund established in ORS 430.422. 
+
+       (2)(a) Any amount
+paid to or retained by the Department of Justice under subsection (1) of this
+section must be deposited in the Criminal Justice Revolving Account in the
+State Treasury. 
+
+       (b) Any amount
+paid to or retained by the Department of State Police under subsection (1) of
+this section must be deposited in the State Police Account. 
+
+       (3) The state
+may: 
+
+       (a) With written
+authorization from the district attorney for the jurisdiction in which the
+property was seized, destroy any firearms or controlled substances. 
+
+       (b) Sell the
+forfeited property by public or other commercially reasonable sale and pay from
+the proceeds the expenses of keeping and selling the property. 
+
+       (c) Retain any
+vehicles, firearms or other equipment usable for law enforcement purposes, for
+official law enforcement use directly by the state. 
+
+       (d) Lend or
+transfer any vehicles, firearms or other equipment usable for law enforcement
+purposes to any federal, state or local law enforcement agency or district
+attorney for official law enforcement use directly by the transferee entity. 
+
+       (4) When the
+state has entered into an intergovernmental agreement with one or more
+political subdivisions under ORS 131.591, or when a law enforcement agency of
+this state has entered into an agreement with another law enforcement agency of
+this state, an equitable portion of the forfeited property distributed under
+subsection (1)(c)(D) of this section must be distributed to each agency
+participating in the seizure or criminal forfeiture as provided by the
+agreement. 
+
+       (5) The property
+distributed under subsection (1)(c)(D) of this section, including any proceeds
+received by the state under an intergovernmental agreement or under an
+agreement between state law enforcement agencies, must be divided as follows: 
+
+       (a) When no law
+enforcement agency other than the Department of Justice participated in the
+seizure or forfeiture, or when the Department of Justice has entered into an
+agreement under subsection (4) of this section, the property must be deposited
+in the Criminal Justice Revolving Account. 
+
+       (b) When no law
+enforcement agency other than the Department of State Police participated in
+the seizure or forfeiture, or when the Department of State Police has entered
+into an agreement under subsection (4) of this section, the property must be
+deposited in the State Police Account. 
+
+       (6) The seizing
+agency may sell as much property as may be needed to make the distributions
+required by subsection (1) of this section. The seizing agency shall make
+distributions to the Asset Forfeiture Oversight Account and the Illegal Drug
+Cleanup Fund that are required by subsection (1) of this section once every
+three months. The distributions are due within 20 days of the end of each
+quarter. Interest does not accrue on amounts that are paid within the period
+specified by this subsection. [2005 c.830 §17; 2009 c.78 §55] 
+
+   
+
+       131.600 Record
+keeping and reporting requirements. 
+(1) A seizing agency and any agency that receives forfeited property or
+proceeds from the sale of forfeited property under ORS 131.550 to 131.600 shall
+maintain written documentation of each sale, decision to retain, transfer or
+other disposition of forfeited property. 
+
+       (2)(a) As soon as
+practicable following the seizure of property for criminal forfeiture,
+forfeiture counsel shall file with the Asset Forfeiture Oversight Advisory
+Committee an electronic report that describes the property seized and the
+circumstances of the seizure. 
+
+       (b) As soon as
+practicable following entry of judgment under ORS 131.588, forfeiture counsel
+shall file with the committee an electronic report describing the judgment and
+the manner in which any forfeited property and the proceeds from any sales of
+forfeited property were distributed. 
+
+       (3) Law
+enforcement agencies shall supply to forfeiture counsel all information
+requested by forfeiture counsel that is necessary for the preparation of the
+electronic reports required by subsection (2) of this section. 
+
+       (4) Political
+subdivisions of this state that receive forfeiture proceeds under ORS 131.594
+shall submit an electronic report to the committee for any calendar year in
+which those proceeds are received. The report must be submitted no later than
+January 31 of the following year and must describe how the proceeds received by
+the political subdivision have been or will be used. 
+
+       (5) The committee
+may require forfeiture counsel or a political subdivision to include in the
+electronic reports described in this section any additional information
+requested by the committee. 
+
+       (6) The committee
+shall develop and make available electronic forms for the purposes of the
+reports described in this section. [2005 c.830 §18; 2011 c.504 §1; 2013 c.9 §1] 
+
+   
+
+       131.602
+Prohibited conduct for purposes of instrumentalities of crime. The crimes to which ORS 131.550
+(12)(b) applies are: 
+
+       (1) Bribe giving,
+as defined in ORS 162.015. 
+
+       (2) Bribe
+receiving, as defined in ORS 162.025. 
+
+       (3) Public
+investment fraud, as defined in ORS 162.117. 
+
+       (4) Bribing a
+witness, as defined in ORS 162.265. 
+
+       (5) Bribe
+receiving by a witness, as defined in ORS 162.275. 
+
+       (6) Simulating
+legal process, as defined in ORS 162.355. 
+
+       (7) Official
+misconduct in the first degree, as defined in ORS 162.415. 
+
+       (8) Assisting
+another person to commit suicide, as defined in ORS 163.193. 
+
+       (9) Custodial
+interference in the second degree, as defined in ORS 163.245. 
+
+       (10) Custodial
+interference in the first degree, as defined in ORS 163.257. 
+
+       (11) Buying or
+selling a person under 18 years of age, as defined in ORS 163.537. 
+
+       (12) Using a
+child in a display of sexually explicit conduct, as defined in ORS 163.670. 
+
+       (13) Encouraging
+child sexual abuse in the first degree, as defined in ORS 163.684. 
+
+       (14) Encouraging
+child sexual abuse in the second degree, as defined in ORS 163.686. 
+
+       (15) Encouraging
+child sexual abuse in the third degree, as defined in ORS 163.687. 
+
+       (16) Possession
+of materials depicting sexually explicit conduct of a child in the first
+degree, as defined in ORS 163.688. 
+
+       (17) Possession
+of materials depicting sexually explicit conduct of a child in the second
+degree, as defined in ORS 163.689. 
+
+       (18) Theft in the
+second degree, as defined in ORS 164.045. 
+
+       (19) Theft in the
+first degree, as defined in ORS 164.055. 
+
+       (20) Aggravated
+theft in the first degree, as defined in ORS 164.057. 
+
+       (21) Extortion,
+as defined in ORS 164.075. 
+
+       (22) Theft by
+deception, as defined in ORS 164.085, if it is a felony or a Class A
+misdemeanor. 
+
+       (23) Theft by
+receiving, as defined in ORS 164.095, if it is a felony or a Class A
+misdemeanor. 
+
+       (24) Theft of services,
+as defined in ORS 164.125, if it is a felony or a Class A misdemeanor. 
+
+       (25) Unauthorized
+use of a vehicle, as defined in ORS 164.135. 
+
+       (26) Mail theft
+or receipt of stolen mail, as defined in ORS 164.162. 
+
+       (27) Laundering a
+monetary instrument, as defined in ORS 164.170. 
+
+       (28) Engaging in
+a financial transaction in property derived from unlawful activity, as defined
+in ORS 164.172. 
+
+       (29) Burglary in
+the second degree, as defined in ORS 164.215. 
+
+       (30) Burglary in
+the first degree, as defined in ORS 164.225. 
+
+       (31) Possession
+of a burglary tool or theft device, as defined in ORS 164.235. 
+
+       (32) Unlawful
+entry into a motor vehicle, as defined in ORS 164.272. 
+
+       (33) Arson in the
+second degree, as defined in ORS 164.315. 
+
+       (34) Arson in the
+first degree, as defined in ORS 164.325. 
+
+       (35) Computer
+crime, as defined in ORS 164.377. 
+
+       (36) Robbery in
+the third degree, as defined in ORS 164.395. 
+
+       (37) Robbery in
+the second degree, as defined in ORS 164.405. 
+
+       (38) Robbery in
+the first degree, as defined in ORS 164.415. 
+
+       (39) Unlawful
+labeling of a sound recording, as defined in ORS 164.868. 
+
+       (40) Unlawful
+recording of a live performance, as defined in ORS 164.869. 
+
+       (41) Unlawful
+labeling of a videotape recording, as defined in ORS 164.872. 
+
+       (42) A violation
+of ORS 164.886. 
+
+       (43)(a)
+Endangering aircraft in the first degree, as defined in ORS 164.885. 
+
+       (b) Endangering
+aircraft in the second degree, as defined in ORS 164.885. 
+
+       (44) Interference
+with agricultural operations, as defined in ORS 164.887. 
+
+       (45) Forgery in
+the second degree, as defined in ORS 165.007. 
+
+       (46) Forgery in
+the first degree, as defined in ORS 165.013. 
+
+       (47) Criminal
+possession of a forged instrument in the second degree, as defined in ORS
+165.017. 
+
+       (48) Criminal
+possession of a forged instrument in the first degree, as defined in ORS
+165.022. 
+
+       (49) Criminal
+possession of a forgery device, as defined in ORS 165.032. 
+
+       (50) Criminal
+simulation, as defined in ORS 165.037. 
+
+       (51) Fraudulently
+obtaining a signature, as defined in ORS 165.042. 
+
+       (52) Fraudulent
+use of a credit card, as defined in ORS 165.055. 
+
+       (53) Negotiating
+a bad check, as defined in ORS 165.065. 
+
+       (54) Possessing a
+fraudulent communications device, as defined in ORS 165.070. 
+
+       (55) Unlawful
+factoring of a payment card transaction, as defined in ORS 165.074. 
+
+       (56) Falsifying
+business records, as defined in ORS 165.080. 
+
+       (57) Sports
+bribery, as defined in ORS 165.085. 
+
+       (58) Sports bribe
+receiving, as defined in ORS 165.090. 
+
+       (59)
+Misapplication of entrusted property, as defined in ORS 165.095. 
+
+       (60) Issuing a
+false financial statement, as defined in ORS 165.100. 
+
+       (61) Obtaining
+execution of documents by deception, as defined in ORS 165.102. 
+
+       (62) A violation
+of ORS 165.543. 
+
+       (63) Cellular
+counterfeiting in the third degree, as defined in ORS 165.577. 
+
+       (64) Cellular
+counterfeiting in the second degree, as defined in ORS 165.579. 
+
+       (65) Cellular
+counterfeiting in the first degree, as defined in ORS 165.581. 
+
+       (66) Identity
+theft, as defined in ORS 165.800. 
+
+       (67) A violation
+of ORS 166.190. 
+
+       (68) Unlawful use
+of a weapon, as defined in ORS 166.220. 
+
+       (69) A violation
+of ORS 166.240. 
+
+       (70) Unlawful
+possession of a firearm, as defined in ORS 166.250. 
+
+       (71) A violation
+of ORS 166.270. 
+
+       (72) Unlawful
+possession of a machine gun, short-barreled rifle, short-barreled shotgun or
+firearms silencer, as defined in ORS 166.272. 
+
+       (73) A violation
+of ORS 166.275. 
+
+       (74) Unlawful
+possession of armor piercing ammunition, as defined in ORS 166.350. 
+
+       (75) A violation
+of ORS 166.370. 
+
+       (76) Unlawful possession
+of a destructive device, as defined in ORS 166.382. 
+
+       (77) Unlawful
+manufacture of a destructive device, as defined in ORS 166.384. 
+
+       (78) Possession
+of a hoax destructive device, as defined in ORS 166.385. 
+
+       (79) A violation
+of ORS 166.410. 
+
+       (80) Providing
+false information in connection with a transfer of a firearm, as defined in ORS
+166.416. 
+
+       (81) Improperly
+transferring a firearm, as defined in ORS 166.418. 
+
+       (82) Unlawfully
+purchasing a firearm, as defined in ORS 166.425. 
+
+       (83) A violation
+of ORS 166.429. 
+
+       (84) A violation
+of ORS 166.470. 
+
+       (85) A violation
+of ORS 166.480. 
+
+       (86) A violation
+of ORS 166.635. 
+
+       (87) A violation
+of ORS 166.638. 
+
+       (88) Unlawful
+paramilitary activity, as defined in ORS 166.660. 
+
+       (89) A violation
+of ORS 166.720. 
+
+       (90)
+Prostitution, as defined in ORS 167.007. 
+
+       (91) Commercial
+sexual solicitation, as defined in ORS 167.008. 
+
+       (92) Promoting
+prostitution, as defined in ORS 167.012. 
+
+       (93) Compelling
+prostitution, as defined in ORS 167.017. 
+
+       (94) Exhibiting
+an obscene performance to a minor, as defined in ORS 167.075. 
+
+       (95) Unlawful
+gambling in the second degree, as defined in ORS 167.122. 
+
+       (96) Unlawful
+gambling in the first degree, as defined in ORS 167.127. 
+
+       (97) Possession
+of gambling records in the second degree, as defined in ORS 167.132. 
+
+       (98) Possession
+of gambling records in the first degree, as defined in ORS 167.137. 
+
+       (99) Possession
+of a gambling device, as defined in ORS 167.147. 
+
+       (100) Possession
+of a gray machine, as defined in ORS 167.164. 
+
+       (101) Cheating,
+as defined in ORS 167.167. 
+
+       (102) Tampering
+with drug records, as defined in ORS 167.212. 
+
+       (103) A violation
+of ORS 167.262. 
+
+       (104) Research
+and animal interference, as defined in ORS 167.312. 
+
+       (105) Animal
+abuse in the first degree, as defined in ORS 167.320. 
+
+       (106) Aggravated
+animal abuse in the first degree, as defined in ORS 167.322. 
+
+       (107) Animal
+neglect in the first degree, as defined in ORS 167.330. 
+
+       (108) Interfering
+with an assistance, a search and rescue or a therapy animal, as defined in ORS
+167.352. 
+
+       (109) Involvement
+in animal fighting, as defined in ORS 167.355. 
+
+       (110)
+Dogfighting, as defined in ORS 167.365. 
+
+       (111)
+Participation in dogfighting, as defined in ORS 167.370. 
+
+       (112)
+Unauthorized use of a livestock animal, as defined in ORS 167.385. 
+
+       (113)
+Interference with livestock production, as defined in ORS 167.388. 
+
+       (114) A violation
+of ORS 167.390. 
+
+       (115)
+Participation in cockfighting, as defined in ORS 167.431. 
+
+       (116) A violation
+of ORS 471.410. 
+
+       (117) Failure to
+report missing precursor substances, as defined in ORS 475.955. 
+
+       (118) Illegally
+selling drug equipment, as defined in ORS 475.960. 
+
+       (119) Providing
+false information on a precursor substances report, as defined in ORS 475.965. 
+
+       (120) Unlawful
+delivery of an imitation controlled substance, as defined in ORS 475.912. 
+
+       (121) A violation
+of ORS 475.752, if it is a felony or a Class A misdemeanor. 
+
+       (122) A violation
+of ORS 475.914, if it is a felony or a Class A misdemeanor. 
+
+       (123) A violation
+of ORS 475.916. 
+
+       (124) A violation
+of ORS 475.906, if it is a felony or a Class A misdemeanor. 
+
+       (125) A violation
+of ORS 475.904. 
+
+       (126) A violation
+of ORS 475C.337, if it is a felony or a Class A misdemeanor. 
+
+       (127) A violation
+of ORS 475C.341, if it is a felony or a Class A misdemeanor. 
+
+       (128) A violation
+of ORS 475C.345, if it is a felony or a Class A misdemeanor. 
+
+       (129) A violation
+of ORS 475C.349, if it is a felony or a Class A misdemeanor. 
+
+       (130) A violation
+of ORS 475C.229. 
+
+       (131) Misuse of
+an identification card, as defined in ORS 807.430. 
+
+       (132) Unlawful
+production of identification cards, licenses, permits, forms or camera cards,
+as defined in ORS 807.500. 
+
+       (133) Transfer of
+documents for the purposes of misrepresentation, as defined in ORS 807.510. 
+
+       (134) Using an
+invalid license, as defined in ORS 807.580. 
+
+       (135) Permitting
+misuse of a license, as defined in ORS 807.590. 
+
+       (136) Using
+another’s license, as defined in ORS 807.600. 
+
+       (137) Criminal
+driving while suspended or revoked, as defined in ORS 811.182. 
+
+       (138) Aggravated
+driving while suspended or revoked, as defined in ORS 163.196. 
+
+       (139) Driving
+while under the influence of intoxicants, as defined in ORS 813.010, when it is
+a felony. 
+
+       (140) Unlawful
+distribution of cigarettes, as defined in ORS 323.482. 
+
+       (141) Unlawful
+distribution of tobacco products, as defined in ORS 323.632. 
+
+       (142) A violation
+of ORS 180.440 (2) or 180.486 (2). 
+
+       (143) A violation
+described in ORS 475.786 to 475.894, if it is a felony. 
+
+       (144) Subjecting
+another person to involuntary servitude in the first degree, as defined in ORS
+163.264. 
+
+       (145) Subjecting
+another person to involuntary servitude in the second degree, as defined in ORS
+163.263. 
+
+       (146) Trafficking
+in persons, as defined in ORS 163.266. 
+
+       (147) Luring a
+minor, as defined in ORS 167.057. 
+
+       (148) Online
+sexual corruption of a child in the second degree, as defined in ORS 163.432. 
+
+       (149) Online
+sexual corruption of a child in the first degree, as defined in ORS 163.433. 
+
+       (150) Reckless
+driving, as defined in ORS 811.140 (1)(b). 
+
+       (151) An attempt,
+conspiracy or solicitation to commit a crime in subsections (1) to (150) of
+this section if the attempt, conspiracy or solicitation is a felony or a Class
+A misdemeanor. [2005 c.830 §19; 2005 c.830 §19a; 2007 c.40 §2; 2007 c.71 §31;
+2007 c.811 §8; 2007 c.869 §4; 2007 c.876 §7; 2009 c.299 §5; 2009 c.717 §24;
+2009 c.796 §3; 2009 c.874 §17; 2011 c.151 §7; 2011 c.552 §3; 2011 c.681 §4;
+2013 c.374 §4; 2015 c.98 §5; 2016 c.47 §6; 2017 c.21 §38; 2023 c.158 §3] 
+
+   
+
+       131.604
+Disposition of forfeited cigarettes. 
+Notwithstanding ORS 131.594 and 131.597, if property forfeited under ORS
+131.550 to 131.600 consists of cigarettes forfeited because of a violation of
+ORS 180.440 (2), the seizing agency shall destroy the cigarettes. [2003 c.801 §16a;
+2005 c.830 §29] 
+
+   
+
+ CRIME PREVENTION 
+
+   
+
+ (Stopping of Persons) 
+
+   
+
+       131.605
+Definitions for ORS 131.605 to 131.625. As used in ORS 131.605 to 131.625, unless the context
+requires otherwise: 
+
+       (1) “Crime” has
+the meaning provided for that term in ORS 161.515. 
+
+       (2) “Dangerous
+weapon,” “deadly weapon” and “person” have the meanings given those terms in
+ORS 161.015. 
+
+       (3) “Frisk” is an
+external patting of a person’s outer clothing. 
+
+       (4) “Is about to
+commit” means unusual conduct that leads a peace officer reasonably to conclude
+in light of the officer’s training and experience that criminal activity may be
+afoot. 
+
+       (5) “Peace
+officer” has the meaning given that term in ORS 133.005. 
+
+       (6) “Reasonably
+suspects” means that a peace officer holds a belief that is reasonable under
+the totality of the circumstances existing at the time and place the peace
+officer acts as authorized in ORS 131.605 to 131.625. 
+
+       (7) A “stop” is a
+temporary restraint of a person’s liberty by a peace officer lawfully present
+in any place. [1973 c.836 §30; 1997 c.866 §2; 2011 c.506 §6; 2011 c.644 §12] 
+
+   
+
+       131.615
+Stopping of persons. 
+(1) A peace officer who reasonably suspects that a person has committed or is
+about to commit a crime may stop the person and, after informing the person
+that the peace officer is a peace officer, make a reasonable inquiry. 
+
+       (2) The detention
+and inquiry shall be conducted in the vicinity of the stop and for no longer
+than a reasonable time. 
+
+       (3) The inquiry
+shall be considered reasonable if it is limited to: 
+
+       (a) The immediate
+circumstances that aroused the officer’s suspicion; 
+
+       (b) Other
+circumstances arising during the course of the detention and inquiry that give
+rise to a reasonable suspicion of criminal activity; and 
+
+       (c) Ensuring the
+safety of the officer, the person stopped or other persons present, including
+an inquiry regarding the presence of weapons. 
+
+       (4)(a) The
+inquiry may include a request for consent to search in relation to the
+circumstances specified in subsection (3) of this section or to search for
+items of evidence otherwise subject to search or seizure under ORS 133.535 only
+if the officer first informs the person that the person has the right to refuse
+the request. 
+
+       (b) An officer
+who obtains consent to search under this subsection shall ensure that there is
+a written, video or audio record that the person gave informed and voluntary
+consent to search. 
+
+       (c) This
+subsection does not apply to implied consent searches described in ORS 813.100,
+813.131 or 813.135. 
+
+       (5) A peace
+officer making a stop may use the degree of force reasonably necessary to make
+the stop and ensure the safety of the peace officer, the person stopped or
+other persons who are present. [1973 c.836 §31; 1997 c.866 §1; 2022 c.78 §1] 
+
+   
+
+       131.625 Frisk
+of stopped persons. 
+(1) A peace officer may frisk a stopped person for dangerous or deadly weapons
+if the officer reasonably suspects that the person is armed and dangerous to
+the officer or other persons present. 
+
+       (2) If, in the
+course of the frisk, the peace officer feels an object which the peace officer
+reasonably suspects is a dangerous or deadly weapon, the peace officer may take
+such action as is reasonably necessary to take possession of the weapon. [1973
+c.836 §32; 1997 c.866 §3] 
+
+   
+
+ (Detention) 
+
+   
+
+       131.655
+Detention and interrogation of persons suspected of theft committed in a store
+or unlawful operation of audiovisual device in a motion picture theater;
+probable cause. 
+(1) Notwithstanding any other provision of law, a person may be detained in a
+reasonable manner and for a reasonable time by: 
+
+       (a) A merchant or
+merchant’s employee who has probable cause for believing that the person has
+committed theft of property of a store or other mercantile establishment; or 
+
+       (b) The owner or
+lessee of a motion picture theater or authorized agent or employee of the owner
+or lessee who has probable cause to believe that the person has violated ORS
+164.882. 
+
+       (2) Probable
+cause is a defense to any civil or criminal action based on detention and
+interrogation that a person brings against: 
+
+       (a) A merchant or
+merchant’s employee who has detained the person in a reasonable manner and for
+a reasonable time based on probable cause for believing that the person has
+committed theft of property of a store or other mercantile establishment; or 
+
+       (b) The owner or
+lessee of a motion picture theater or authorized agent or employee of the owner
+or lessee who has detained the person based on probable cause for believing
+that the person has violated ORS 164.882. [Formerly 133.037; 2005 c.459 §2] 
+
+   
+
+ (Prevention by Public
+Officers) 
+
+   
+
+       131.665
+Prevention by public officers. 
+Crimes may be prevented by the action of public officers in accordance with ORS
+131.675, 131.685, 131.705 to 131.735, and as otherwise authorized by law. [1973
+c.836 §34a (enacted in lieu of 145.010)] 
+
+   
+
+       131.675
+Dispersal of unlawful assemblages. 
+When any five or more persons are unlawfully assembled in any county, city,
+town or village, the sheriff of the county and the deputies of the sheriff, the
+mayor of the city, town or village, or chief executive officer or officers
+thereof, may go among the persons assembled, or as near to them as they can
+with safety, and command them in the name of the State of Oregon to disperse.
+If, so commanded, they do not immediately disperse, the officer may arrest them
+or cause them to be arrested for any unlawful activity constituting an offense.
+[Formerly 145.020; 1987 c.526 §1; 2021 c.250 §1] 
+
+   
+
+       131.685
+Authority of Governor to enter into agreements with other states for crime
+prevention purposes. 
+The Governor of Oregon may enter into agreements or compacts with the Governor
+of any or all the States of Washington, Idaho, California and Nevada, each
+acting on behalf of the own state of the Governor, in order to effectuate
+cooperative effort and mutual assistance in the prevention of crime in those
+states and in the enforcement of their respective criminal laws and policies. [Formerly
+145.060] 
+
+   
+
+ (Exclusion from Public
+Property) 
+
+   
+
+       131.705
+Definitions for ORS 131.705 to 131.735. As used in ORS 131.705 to 131.735, unless the context
+requires otherwise: 
+
+       (1) “Police”
+means the municipal police and the county sheriff of the political subdivision
+in which the public property is located, and the Department of State Police. 
+
+       (2) “Public
+official” means the officer or employee who is the administrative head of the
+board, commission, agency or division or department of this state or any
+political subdivision therein which has jurisdiction over any public property,
+or the designate of the officer or employee. 
+
+       (3) “Public
+property” means public lands, premises and buildings, including but not limited
+to any building used in connection with the transaction of public business or
+any lands, premises or buildings owned or leased by this state or any political
+subdivision therein. [Formerly 145.610] 
+
+   
+
+       131.715
+Proclamation of emergency period by Governor. After consultation with the public official, or the
+designate of the public official, and the police, the Governor may proclaim an
+emergency period if the Governor finds that there exists on any public property
+a clear and present danger of injury to persons, damage to property or denial
+of or substantial interference with ingress or egress from public property. The
+proclamation shall describe the public property affected by the proclamation.
+The Governor shall cause the proclamation to be publicized. When the Governor
+finds that the danger has ended, the Governor shall proclaim the end of the
+emergency period. [Formerly 145.620] 
+
+   
+
+       131.725
+Exclusion from public property. 
+(1) During the emergency period proclaimed by the Governor under ORS 131.715,
+the public official shall order excluded from the public property described in
+the proclamation such persons who in the judgment of the public official are
+contributing to or aggravating the danger which the Governor has proclaimed to
+exist. 
+
+       (2) After
+informing the person ordered removed or excluded from the public property of
+the proclamation and order, the police shall remove or exclude such person from
+such public property. 
+
+       (3) Any person
+who, having been ordered excluded or removed from any public property,
+knowingly enters thereon or who remains on such property during an emergency
+period proclaimed by the Governor under ORS 131.715 and who refuses to leave
+such property upon request by the police, commits a Class A misdemeanor. [Formerly
+145.630] 
+
+   
+
+       131.735 Review
+of exclusion order. 
+Any person ordered removed or excluded from any public property under ORS
+131.715 and 131.725 shall have immediate access to the circuit court for the
+county in which the property is located for review of the order of exclusion or
+removal. Such access shall be in the form of a writ of review and shall be
+given priority over all other cases on the docket of the circuit court. [Formerly
+145.640] 
+
+   
+
+ (Special Law
+Enforcement Officers) 
+
+   
+
+       131.805
+Authority to employ special agents. 
+The Governor may employ, at such salaries as the Governor deems reasonable for
+the services rendered, special agents to effect the apprehension and conviction
+of criminals, the return of fugitives from justice, the investigation of cases
+in which the Governor believes the laws of the state are being violated, the
+supervision of persons paroled or conditionally pardoned from the Department of
+Corrections or the collection of evidence in any case, civil or criminal, in
+which the state is interested whenever in the judgment of the Governor it is
+necessary from the conditions existing in any case, whenever the Governor is
+convinced that criminals are likely to escape punishment and justice cannot be
+done by the regularly constituted authorities of any county of the state or of
+the state or whenever any emergency has arisen which in the judgment of the
+Governor would justify the Governor so doing. [Formerly 148.010; 1987 c.320 §17] 
+
+   
+
+       131.815
+Presentment of facts to circuit court. 
+Whenever in the opinion of the Governor the criminal laws of the state are not
+being faithfully executed and enforced and the circumstances justify the
+appointment of any sheriff, district attorney, constable or justice of the
+peace pro tem, the Governor shall lay the facts of which the Governor is
+advised before the circuit court, or any judge thereof, of the district of the
+office in question. The court or judge shall, without delay, in a summary
+manner consider the facts so presented and such further facts as can be
+gathered or may be presented by or on behalf of the Governor, the officer or
+any party interested. [Formerly 148.110] 
+
+   
+
+       131.825
+Hearing. The
+court, or judge thereof, in conducting such hearing, shall have all the usual
+powers of the circuit court or judge, including the power to subpoena and
+examine witnesses of its own motion. The Governor, the officer affected or any
+party interested may subpoena witnesses and appear and participate in person or
+by counsel, and the officer shall be given reasonable opportunity to prepare
+and present this case. The Attorney General shall appear on behalf of the
+Governor if by the Governor requested so to do. [Formerly 148.120] 
+
+   
+
+       131.835
+Request that judge of another district conduct hearing; traveling expenses. When the Governor has made a
+request for an investigation before the court or judge of the district of the
+office affected, the court or judge may request that the hearing be held before
+the court or judge of any other district and call in such court or judge to
+conduct the same at the regular place of holding court in the district of the
+office affected. Such a request shall be made by the court or judge without
+delay and the court or judge called in shall proceed without delay to conduct
+the hearing. The actual necessary traveling expenses of any court or judge that
+is called in shall be paid out of the funds appropriated for the purposes of
+ORS 131.815 to 131.875 upon properly verified vouchers being presented to the
+Secretary of State. [Formerly 148.130] 
+
+   
+
+       131.845
+Findings. The
+court or judge shall make such findings as are justified by the facts adduced
+at the hearing and shall find as to whether or not the criminal laws of the
+state are being faithfully executed and enforced by the officers under
+investigation. [Formerly 148.140] 
+
+   
+
+       131.855
+Appointment of special officers on finding that laws are not enforced. If it is found that the criminal
+laws of the state are not being faithfully executed and enforced by the
+officers under investigation, the Governor may appoint, for a period not longer
+than 90 days, such special officers as may be necessary to correct the failure
+to execute or enforce the criminal laws. [Formerly 148.150] 
+
+   
+
+       131.860
+Qualifying of special officers; powers and duties. When appointed, special officers
+shall qualify in the same manner as provided by law for regularly elected
+officers, shall have all the power and authority of the regularly elected
+officers necessary to effectuate the purposes of the appointment and shall
+carry out the directions of the Governor, pursuant to the appointment, in the
+same manner and to the same extent as the duly elected officers could do or
+perform; and no greater power shall be conferred upon any special officer than
+is by law lodged with the regularly elected officers. [Formerly 148.160] 
+
+   
+
+       131.865
+Compensation of special officers. 
+The special officers provided for in ORS 131.855 shall receive a compensation
+for the time they are appointed equal to that provided for the regularly
+elected officers, the compensation to be paid in the same manner as the regular
+officers are paid. [Formerly 148.170] 
+
+   
+
+       131.875 Effect
+of appointment of special officers on salary of regular officers. The regularly elected, qualified
+and acting officers shall, during any appointment of a special officer, receive
+the salary provided by law, to the same extent as though no special officer had
+been appointed. [Formerly 148.180] 
+
+   
+
+       131.880
+Appointment of railroad police officers; liability. The Governor, upon application of
+any railroad company operating in this state, may appoint and commission,
+during the pleasure of the Governor, persons designated by the company and to
+serve at the expense of the company, as police officers, with the powers of
+peace officers and who, after being duly sworn, may act as police officers to
+protect the railroad company property and the persons or property of the
+railroad company passengers or employees. The railroad company designating such
+persons is civilly responsible for any abuse of their authority. [1973 c.676 §1] 
+
+   
+
+ (Rewards) 
+
+   
+
+       131.885 Offer
+of reward. If any
+person charged with or convicted of any felony within this state breaks prison,
+escapes, absconds or flees or hides from justice, the county court or county
+governing body of the county in which the crime was committed, if the court or
+governing body deems it necessary, may offer a reward for information leading
+to the apprehension of such person by the appropriate police authority. [Formerly
+149.010; 1981 c.300 §1; 1999 c.217 §1] 
+
+   
+
+       131.890
+Entitlement to reward; use of public money to reward bounty hunter. (1) Any person providing
+information leading to the apprehension of a person for whom a reward has been
+offered under ORS 131.885 is entitled to and shall be paid the reward offered
+under ORS 131.885 or a proportionate share thereof if more than one claimant is
+entitled. 
+
+       (2) No public
+money may be used to pay a reward to a bounty hunter under this section. As
+used in this subsection, “bounty hunter” means a private person who is in the
+business of apprehending persons who have forfeited security or broken the
+terms of a security release, fled from justice or escaped from confinement. [Formerly
+149.020; 1981 c.300 §2; 1999 c.217 §2] 
+
+   
+
+       131.892 Offer
+of reward for information on commission of criminal offense. An organization, association or
+person may offer a reward for information leading to the apprehension and
+conviction of any person who has committed a criminal offense. [1993 c.543 §2;
+1995 c.461 §1; 1999 c.217 §3] 
+
+   
+
+       131.895
+Procedure for payment. 
+The county court or county governing body, on the claim of the applicant for
+reward under ORS 131.885 to 131.895, shall determine whether the claimant is
+entitled to the reward. If it so determines, it shall certify the amount
+offered in reward, or a proportionate share thereof if more than one claimant
+is entitled, to the county clerk of the county and the county clerk shall draw
+a warrant on the treasurer of the county for the amount so authorized. [Formerly
+149.030; 1981 c.300 §3] 
+
+   
+
+       131.897
+Authority to order repayment of reward as part of sentence. (1) In addition to any other
+sentence it may impose as a result of a criminal conviction, the court may
+order that a defendant reimburse to a person, organization, association or
+public body or officer, any sum or portion thereof offered and paid by the
+person, organization, association or public body or officer under ORS 131.885
+to 131.895, as a reward for information leading to the apprehension of the
+defendant. Reimbursement under this section shall be ordered paid into the
+court, for further transfer by the clerk to the person, organization,
+association or public body or officer entitled to it. 
+
+       (2) In
+determining whether to order reimbursement under this section, the court shall
+take into account: 
+
+       (a) The financial
+resources of the defendant and the burden that reimbursement will impose, with
+due regard to the other obligations of the defendant; and 
+
+       (b) The ability
+of the defendant to make reimbursement on an installment basis or on other
+conditions to be fixed by the court. [1981 c.300 §4; 1987 c.905 §13; 1993 c.543
+§3; 1995 c.461 §2; 1999 c.217 §4; 2011 c.597 §121] 
+
+   
+
+ LIABILITY FOR MEDICAL
+EXPENSES OF CERTAIN PERSONS 
+
+   
+
+       131.900
+Liability for medical expenses for person restrained, detained or taken into
+custody. Except as
+otherwise provided by ORS 30.260 to 30.300, federal civil rights law or written
+agreement, the state, a county, a city, a law enforcement agency or local
+correctional facility thereof is not liable for charges or expenses for any
+medical services provided to an individual who is the object of efforts by a
+law enforcement officer to restrain or detain or take into custody. [1991 c.778
+§8; 1993 c.196 §2] 
+
+   
+
+ LAW ENFORCEMENT CONTACTS
+POLICY AND DATA REVIEW COMMITTEE 
+
+   
+
+       131.905
+Legislative findings. 
+The Legislative Assembly finds and declares that: 
+
+       (1) Surveys of
+the trust and confidence placed by Oregonians in state and local law
+enforcement indicate that there are Oregonians who believe that some law
+enforcement officers have engaged in practices that inequitably and unlawfully
+discriminate against individuals solely on the basis of their race, color or
+national origin. 
+
+       (2) State and
+local law enforcement agencies can perform their missions more effectively when
+all Oregonians have trust and confidence that law enforcement stops and other
+contacts with individuals are free from inequitable and unlawful discrimination
+based on race, color or national origin. 
+
+       (3)
+Representatives of community interest groups and state and local law
+enforcement agencies agree that collecting certain demographic data about
+contacts between individuals and state or local law enforcement officers will
+provide a statistical foundation to ensure that future contacts are free from
+inequitable and unlawful discrimination based on race, color or national
+origin. 
+
+       (4) Demographic
+data collection can establish a factual and quantifiable foundation for
+measuring progress in eliminating discrimination based on race, color or
+national origin during law enforcement stops and other contacts with
+individuals, but data collection alone does not provide a sufficient basis for
+corrective action. Proper analysis of the demographic data and enactment of
+meaningful reforms in response to the results of that analysis require careful
+consideration of all relevant factors including the context of the community in
+which the data has been collected. 
+
+       (5) It is the
+goal of this state that all law enforcement agencies perform their missions
+without inappropriate use of race, color or national origin as the basis for
+law enforcement actions. This goal may be achieved by providing assistance to
+state and local law enforcement agencies and the communities that they serve. 
+
+       (6) This state
+shall foster, encourage and support the collection and analysis of demographic
+data by state and local law enforcement agencies. [2001 c.687 §5] 
+
+   
+
+       131.906 Law
+Enforcement Contacts Policy and Data Review Committee; duties; report. (1) There is created the Law
+Enforcement Contacts Policy and Data Review Committee consisting of 11 members
+appointed by the Governor. 
+
+       (2) The purpose
+of the committee is to receive and analyze demographic data to ensure that law
+enforcement agencies perform their missions without inequitable or unlawful
+discrimination based on race, color or national origin. 
+
+       (3) To achieve
+its purpose, the committee shall collect and analyze demographic data to: 
+
+       (a) Provide
+information to assist communities and state and local law enforcement agencies
+in evaluating the policies, training and procedures of law enforcement agencies
+regarding the treatment of individuals during stops and other contacts with law
+enforcement; 
+
+       (b) Inform state
+and local law enforcement agencies and communities about law enforcement
+practices; and 
+
+       (c) Provide
+opportunities for communities and state and local law enforcement agencies to
+work together to increase public trust and confidence in law enforcement and to
+enhance the capacity of communities and law enforcement agencies to provide
+more effective public safety services. 
+
+       (4) The committee
+shall: 
+
+       (a) Solicit
+demographic data concerning law enforcement stops and other contacts between
+state and local law enforcement agencies and individuals; 
+
+       (b) Publicize
+programs, procedures and policies from communities that have made progress
+toward eliminating discrimination based on race, color or national origin
+during law enforcement stops and other contacts with individuals; 
+
+       (c) Provide
+technical assistance, including refinement of the minimum data elements as
+necessary for effective analysis, to state and local law enforcement agencies
+that desire to begin collecting demographic data; 
+
+       (d) Provide
+technical assistance to communities and state and local law enforcement
+agencies that desire to engage in local efforts to involve individuals in the
+establishment and implementation of programs, procedures and policies that will
+advance the goal of ORS 131.905; 
+
+       (e) Obtain
+resources for independent analysis and interpretation of demographic data
+collected by state or local law enforcement agencies; 
+
+       (f) Accept and
+analyze demographic data collected by a state or local law enforcement agency
+if requested by a state or local law enforcement agency and if resources are
+available; and 
+
+       (g) Report to the
+public the results of analyses of demographic data. 
+
+       (5) In carrying
+out its purpose, the committee may request and receive data files from
+participating law enforcement agencies and may analyze data for each reported
+contact. These data files should contain as many of the following items of
+information as are collected by the participating law enforcement agency: 
+
+       (a) The reason
+for the law enforcement stop or other contact; 
+
+       (b) The law
+enforcement officer’s perception of the race, color or national origin of the
+individual involved in the contact; 
+
+       (c) The
+individual’s gender; 
+
+       (d) The
+individual’s age; 
+
+       (e) Whether a
+search was conducted in connection with the contact, and if so, what resulted
+from the search; 
+
+       (f) The
+disposition of the law enforcement action, if any, resulting from the contact;
+and 
+
+       (g) Additional
+data as recommended by the committee that state and local law enforcement
+agencies should collect and submit. 
+
+       (6) Data received
+by the committee for analysis under this section may not identify a particular
+law enforcement officer or a particular individual whose demographic data is
+collected by a state or local law enforcement agency. 
+
+       (7) The committee
+shall elect one of its members to serve as chairperson. 
+
+       (8) Members of
+the committee who are not members of the Legislative Assembly are not entitled
+to compensation, but may be reimbursed for actual and necessary travel and
+other expenses incurred by them in the performance of their official duties in
+the manner and amounts provided for in ORS 292.495. Claims for expenses
+incurred in performing functions of the committee shall be paid out of funds
+appropriated to Portland State University for purposes of the committee. 
+
+       (9) Portland
+State University shall provide administrative support staff necessary to the
+performance of the functions of the committee. 
+
+       (10) All agencies
+of state government, as defined in ORS 174.111, are requested to assist the
+committee in the performance of its duties and, to the extent permitted by laws
+relating to confidentiality, to furnish such information and advice as the
+members of the committee consider necessary to perform their duties. 
+
+       (11) The
+committee shall make findings and issue recommendations for action to achieve
+the purpose of this section. The committee shall submit a report containing its
+findings and recommendations to the appropriate interim legislative committees
+annually on or before December 1. 
+
+       (12) After
+completion of the analysis of the data from at least two state or local law
+enforcement agencies, the committee may recommend the collection of additional
+data elements. 
+
+       (13) This section
+does not prohibit a state or local law enforcement agency from collecting data
+in addition to the information listed in subsection (5) of this section. [2001
+c.687 §6; 2007 c.190 §2; 2009 c.859 §1] 
+
+   
+
+       131.908
+Funding contributions. 
+Portland State University may accept contributions of funds from the United
+States, its agencies, or from any other source, public or private, and agree to
+conditions thereon not inconsistent with the purposes of the Law Enforcement
+Contacts Policy and Data Review Committee. [2001 c.687 §8; 2007 c.190 §3] 
+
+   
+
+       131.909 Moneys
+received. All
+moneys received by Portland State University under ORS 131.908 shall be paid
+into the State Treasury and deposited into the General Fund to the credit of
+Portland State University. Such moneys are appropriated continuously to
+Portland State University for the purposes of ORS 131.906. [2001 c.687 §9; 2007
+c.190 §4] 
+
+   
+
+       131.910 [2001 c.687 §10; repealed by 2017
+c.532 §16] 
+
+   
+
+ LAW ENFORCEMENT
+PROFILING 
+
+   
+
+ (Complaint Procedures) 
+
+   
+
+       131.915
+Definitions. As
+used in ORS 131.915 to 131.925: 
+
+       (1) “Gender
+identity” has the meaning given that term in ORS 174.100. 
+
+       (2) “Law
+enforcement agency” means: 
+
+       (a) The
+Department of State Police; 
+
+       (b) The
+Department of Justice; 
+
+       (c) A district
+attorney’s office; and 
+
+       (d) Any of the
+following that maintains a law enforcement unit as defined in ORS 181A.355: 
+
+       (A) A political
+subdivision or an instrumentality of the State of Oregon. 
+
+       (B) A municipal
+corporation of the State of Oregon. 
+
+       (C) A tribal
+government. 
+
+       (D) A university. 
+
+       (3) “Law
+enforcement officer” means: 
+
+       (a) A member of
+the Oregon State Police; 
+
+       (b) A sheriff, constable,
+marshal, municipal police officer or reserve officer or a police officer
+commissioned by a university under ORS 352.121 or 353.125; 
+
+       (c) An
+investigator of a district attorney’s office if the investigator is or has been
+certified as a law enforcement officer in this or any other state; 
+
+       (d) An
+investigator of the Criminal Justice Division of the Department of Justice; 
+
+       (e) A humane
+special agent as defined in ORS 181A.345; 
+
+       (f) A judicial
+marshal of the Marshal’s Office of the Judicial Department who is appointed
+under ORS 1.177 and trained pursuant to ORS 181A.540; 
+
+       (g) A regulatory
+specialist exercising authority described in ORS 471.775 (2); or 
+
+       (h) An authorized
+tribal police officer as defined in ORS 181A.940. 
+
+       (4) “Profiling”
+means the targeting of an individual by a law enforcement agency or a law
+enforcement officer, on suspicion of the individual’s having violated a
+provision of law, based solely on the individual’s real or perceived age, race,
+ethnicity, color, national origin, language, sex, gender identity, sexual
+orientation, political affiliation, religion, homelessness or disability,
+unless the agency or officer is acting on a suspect description or information
+related to an identified or suspected violation of a provision of law. 
+
+       (5) “Sexual
+orientation” has the meaning given that term in ORS 174.100. [2015 c.681 §1;
+2017 c.17 §7; 2017 c.706 §6; 2021 c.173 §3; 2021 c.367 §8] 
+
+   
+
+       131.920
+Policies and procedures prohibiting profiling.  (1) All law enforcement
+agencies shall have written policies and procedures prohibiting profiling. The
+policies and procedures shall, at a minimum, include: 
+
+       (a) A prohibition
+on profiling; 
+
+       (b) Procedures
+allowing a complaint alleging profiling to be made to the agency: 
+
+       (A) In person; 
+
+       (B) In a writing
+signed by the complainant and delivered by hand, postal mail, facsimile or
+electronic mail; or 
+
+       (C) By telephone,
+anonymously or through a third party; 
+
+       (c) The provision
+of appropriate forms to use for submitting complaints alleging profiling; 
+
+       (d) Procedures
+for submitting a copy of each profiling complaint to the Law Enforcement
+Contacts Policy and Data Review Committee and for receiving profiling
+complaints forwarded from the committee; and 
+
+       (e) Procedures
+for investigating all complaints alleging profiling. 
+
+       (2) A law
+enforcement agency shall: 
+
+       (a) Investigate
+all complaints alleging profiling that are received by the agency or forwarded
+from the committee. 
+
+       (b) Accept for
+investigation a complaint alleging profiling that is made to the agency within
+180 days of the alleged profiling incident. 
+
+       (c) Respond to
+every complaint alleging profiling within a reasonable time after the
+conclusion of the investigation. The response must contain a statement of the
+final disposition of the complaint. [2015 c.681 §2; 2015 c.681 §6; 2017 c.706 §7] 
+
+   
+
+       131.925
+Complaints alleging profiling; complaint form. (1)(a) A law enforcement agency
+shall provide to the Law Enforcement Contacts Policy and Data Review Committee
+information concerning each complaint the agency receives alleging profiling,
+and shall notify the committee of the disposition of the complaint, in the
+manner described in this subsection. 
+
+       (b) The law
+enforcement agency shall submit to the committee a profiling complaint report
+form summarizing each profiling complaint and the disposition of the complaint,
+and a copy of each profiling complaint, once each year no later than January
+31. 
+
+       (c) The law
+enforcement agency shall submit the form described in paragraph (b) of this
+subsection even if the agency has not received any profiling complaints. 
+
+       (d) The profiling
+complaint report form and copies of profiling complaints submitted to the
+committee may not include personal information concerning the complainant or a
+law enforcement officer except as to any personal information recorded on the
+form as described in subsection (4)(c) of this section. 
+
+       (2)(a) A person
+may submit to the committee a complaint alleging profiling and the committee
+shall receive the complaints. 
+
+       (b) The committee
+also shall receive complaints alleging profiling that are forwarded from a law
+enforcement agency. 
+
+       (c) The committee
+shall forward a copy of each profiling complaint the committee receives to the
+law enforcement agency employing the officer that is the subject of the
+complaint. The forwarded complaint must include the name of the complainant
+unless the complainant requests to remain anonymous, in which case the
+complainant’s name must be redacted. 
+
+       (3)(a) The
+committee may not release any personal information concerning a complainant or
+a law enforcement officer who is the subject of a profiling complaint. 
+
+       (b) The personal
+information of complainants and of law enforcement officers who are the subject
+of profiling complaints are exempt from public disclosure under ORS 192.355. 
+
+       (4) The
+Department of State Police shall develop a standardized profiling complaint
+report form. The form must provide for recording the following information: 
+
+       (a) A summary of
+total complaints and a certification that a law enforcement agency’s profiling
+policy conforms to ORS 131.920; 
+
+       (b) A summary of
+each complaint received by the law enforcement agency, including the date, time
+and location of the incident and the disposition of the complaint; and 
+
+       (c) To the extent
+known, the complainant’s gender, gender identity, age, race, ethnicity, sexual
+orientation, primary language, national origin, religion, political
+affiliation, homeless status and disability status, recorded in a manner that
+does not identify the complainant. 
+
+       (5) As used in
+this section, “personal information” has the meaning given that term in ORS
+807.750. [2015 c.681 §3; 2017 c.706 §5] 
+
+   
+
+ (Data Collection and
+Analysis) 
+
+   
+
+       131.930
+Definitions. As
+used in ORS 131.930 to 131.945: 
+
+       (1) “Gender
+identity” has the meaning given that term in ORS 174.100. 
+
+       (2) “Law
+enforcement agency” means an agency employing law enforcement officers to
+enforce criminal laws. 
+
+       (3) “Law
+enforcement officer” means a member of the Oregon State Police, a sheriff or a
+municipal police officer. 
+
+       (4) “Officer-initiated
+pedestrian stop” means a detention of a pedestrian by a law enforcement officer
+that is not associated with a call for service. The term does not apply to
+detentions for routine searches performed at the point of entry to or exit from
+a controlled area. 
+
+       (5) “Officer-initiated
+traffic stop” means a detention of a driver of a motor vehicle by a law
+enforcement officer, not associated with a call for service, for the purpose of
+investigating a suspected violation of the Oregon Vehicle Code. 
+
+       (6) “Profiling”
+means the targeting of an individual by a law enforcement agency or a law
+enforcement officer, on suspicion of the individual’s having violated a
+provision of law, based solely on the individual’s real or perceived age, race,
+ethnicity, color, national origin, language, sex, gender identity, sexual
+orientation, political affiliation, religion, homelessness or disability,
+unless the agency or officer is acting on a suspect description or information
+related to an identified or suspected violation of a provision of law. 
+
+       (7) “Sexual
+orientation” has the meaning given that term in ORS 174.100. [2017 c.706 §1;
+2019 c.305 §1; 2021 c.367 §9] 
+
+   
+
+       131.935
+Collection of officer-initiated stop data; use of data; rules. (1) No later than July 1, 2018,
+the Oregon Criminal Justice Commission, in consultation with the Department of
+State Police and the Department of Justice, shall develop and implement a
+standardized method to be used by law enforcement officers to record
+officer-initiated pedestrian stop and officer-initiated traffic stop data. The
+standardized method must require, and any form developed and used pursuant to
+the standardized method must provide for, the following data to be recorded for
+each stop: 
+
+       (a) The date and
+time of the stop; 
+
+       (b) The location
+of the stop; 
+
+       (c) The race,
+ethnicity, age and sex of the pedestrian or the operator of the motor vehicle
+stopped, based on the observations of the law enforcement officer responsible
+for reporting the stop; 
+
+       (d) The nature
+of, and the statutory citation for, the alleged traffic violation, or other
+alleged violation, that caused the stop to be made; and 
+
+       (e) The
+disposition of the stop, including whether a warning, citation or summons was
+issued, whether a search was conducted, the type of search conducted, whether
+anything was found as a result of the search and whether an arrest was made. 
+
+       (2) No later than
+July 1, 2018, the Department of Public Safety Standards and Training, in
+consultation with law enforcement agencies, shall develop and implement
+training and procedures to facilitate the collection of officer-initiated
+pedestrian and traffic stop data pursuant to subsection (1) of this section. 
+
+       (3) Beginning on
+the dates described in subsection (4) of this section, all law enforcement
+agencies that engage in officer-initiated pedestrian or traffic stops shall
+record and retain the following data for each stop: 
+
+       (a) The date and
+time of the stop; 
+
+       (b) The location
+of the stop; 
+
+       (c) The race,
+ethnicity, age and sex of the pedestrian or the operator of the motor vehicle
+stopped, based on the observations of the law enforcement officer responsible
+for reporting the stop; 
+
+       (d) The nature
+of, and the statutory citation for, the alleged traffic violation, or other
+alleged violation, that caused the stop to be made; and 
+
+       (e) The
+disposition of the stop, including whether a warning, citation or summons was
+issued, whether a search was conducted, the type of search conducted, whether
+anything was found as a result of the search and whether an arrest was made. 
+
+       (4) Each law
+enforcement agency shall begin recording the data described in subsection (3)
+of this section as follows: 
+
+       (a) An agency
+that employs 100 or more law enforcement officers shall begin recording no
+later than July 1, 2018. 
+
+       (b) An agency
+that employs between 25 and 99 law enforcement officers shall begin recording
+no later than July 1, 2019. 
+
+       (c) An agency
+that employs between one and 24 law enforcement officers shall begin recording
+no later than July 1, 2020. 
+
+       (5) Each law
+enforcement agency that engages in officer-initiated traffic or pedestrian
+stops shall report to the Oregon Criminal Justice Commission the data recorded
+pursuant to subsection (3) of this section as follows: 
+
+       (a) An agency
+that employs 100 or more law enforcement officers shall report no later than
+July 1, 2019, and at least annually thereafter. 
+
+       (b) An agency
+that employs between 25 and 99 law enforcement officers shall report no later
+than July 1, 2020, and at least annually thereafter. 
+
+       (c) An agency
+that employs between one and 24 law enforcement officers shall report no later
+than July 1, 2021, and at least annually thereafter. 
+
+       (6) Data acquired
+under this section shall be used only for statistical purposes and not for any
+other purpose. The data may not contain information that reveals the identity
+of any stopped individual or the identity of any law enforcement officer. Data collected
+by law enforcement agencies or held by the Oregon Criminal Justice Commission
+under this section that may reveal the identity of any stopped individual or
+the identity of any law enforcement officer is exempt from public disclosure in
+any manner. 
+
+       (7) The
+Department of Justice, the Department of Public Safety Standards and Training
+and the Department of State Police may adopt rules to carry out the provisions
+of ORS 131.930 to 131.945. [2017 c.706 §2] 
+
+   
+
+       131.940
+Analysis of stop data to identify profiling; report. (1) The Oregon Criminal Justice
+Commission shall review all data, including the prevalence and disposition of
+officer-initiated pedestrian and traffic stops, reported by law enforcement
+agencies pursuant to ORS 131.935 in order to identify patterns or practices of
+profiling. 
+
+       (2) The
+commission shall select one or more statistical analysis methodologies,
+determined to be consistent with current best practices, with which to review
+the data as described in subsection (1) of this section. 
+
+       (3) No later than
+December 1, 2019, and annually thereafter, the commission shall report the
+results of the review to the Governor, the Department of Public Safety
+Standards and Training and, in the manner provided in ORS 192.245, to the
+committees or interim committees of the Legislative Assembly related to the
+judiciary. [2017 c.706 §3] 
+
+   
+
+       131.945
+Training for law enforcement agencies; presentation to local public safety
+coordinating council. 
+(1) The Department of Public Safety Standards and Training shall receive and
+review reports provided to the department by the Oregon Criminal Justice
+Commission pursuant to ORS 131.940. 
+
+       (2) Upon receipt
+of a report described in subsection (1) of this section, the department may
+provide advice or technical assistance to any law enforcement agency mentioned
+within the report. Any advice or technical assistance provided shall be based
+on best practices in policing as determined by the Oregon Center for Policing
+Excellence established in ORS 181A.660. 
+
+       (3) Upon
+providing advice or technical assistance under this section, the department
+shall, within a reasonable amount of time, present a summary of the advice and
+assistance given to the local public safety coordinating council in the county
+in which the assisted law enforcement agency is located. If the assisted law
+enforcement agency is the Oregon State Police, the presentation shall occur in
+Marion County. The presentation shall be open to the public, feature live
+testimony by presenters and be held in accordance with ORS 192.610 to 192.705. [2017
+c.706 §4] 
+
+   
+
+       131.990 [Formerly 145.990; repealed by
+1987 c.526 §2] 
+
+ _______________ 
+
+ 
+
+ 
+
+ 

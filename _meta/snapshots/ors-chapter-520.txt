@@ -1,0 +1,1154 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+520 — Conservation of Gas and Oil 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ CONSERVATION OF GAS AND OIL 
+
+   
+
+ MINERAL RESOURCES 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 520.005     Definitions 
+
+   
+
+ 520.017     Fees; rules;
+disposition of fees 
+
+   
+
+ 520.025     Permit for drilling
+well or using well; extension; annual report; grounds for granting or denying
+permit 
+
+   
+
+ 520.027     Information holes;
+holes drilled as part of seismic program; trade secrets 
+
+   
+
+ 520.035     Waste of oil or gas
+prohibited 
+
+   
+
+ 520.045     Determination of waste
+of oil or gas 
+
+   
+
+ 520.055     General jurisdiction
+and authority of board; tidal lands; rules 
+
+   
+
+ 520.095     Rules and orders; bond 
+
+   
+
+ 520.097     Abandonment or
+completion of well; well logs and records; trade secrets 
+
+   
+
+ 520.125     Authority of board to
+summon witnesses and require production of evidence 
+
+   
+
+ 520.145     Judicial review of
+board or department actions 
+
+   
+
+ 520.155     Records, accounts,
+reports and writings not to be falsified, altered, destroyed or removed from
+state 
+
+   
+
+ 520.165     Aiding or abetting in
+violation of chapter prohibited 
+
+   
+
+ 520.175     Injunctions to restrain
+violation or threatened violation of chapter 
+
+   
+
+ SPACING UNITS 
+
+   
+
+ 520.210     Establishment of
+spacing units for pool or field; purpose; scope; effect 
+
+   
+
+ 520.220     Integrating interests
+or tracts within spacing unit 
+
+   
+
+ UNIT OPERATIONS 
+
+   
+
+ 520.230     Approved agreement for
+cooperative or unit development of pool not to be construed as violating
+certain regulatory laws 
+
+   
+
+ 520.240     Voluntary unitization
+of operations by lessees of tidal or submersible lands; Department of State
+Lands’ function 
+
+   
+
+ 520.260     Hearing to determine
+need for unitization of operations; required findings; order 
+
+   
+
+ 520.270     Plan for unit
+operations 
+
+   
+
+ 520.280     Allocation of
+production under plan; ownership 
+
+   
+
+ 520.290     When unitization order
+to become effective; supplemental hearings 
+
+   
+
+ 520.300     Amending unitization
+order 
+
+   
+
+ 520.310     Unitization of area
+including area previously unitized; partial unitization of pool 
+
+   
+
+ 520.320     Unitization order does
+not terminate prior agreements or affect oil and gas rights; acquisition of
+property during unit operations 
+
+   
+
+ 520.330     Effect of operations in
+unit area 
+
+   
+
+ UNDERGROUND RESERVOIRS 
+
+   
+
+ 520.340     Legislative findings 
+
+   
+
+ 520.350     Property rights in
+underground reservoirs for natural gas storage 
+
+   
+
+ PENALTIES 
+
+   
+
+ 520.991     Penalties 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       520.005
+Definitions. As
+used in this chapter, unless the context requires otherwise: 
+
+       (1) “Condensate”
+means liquid hydrocarbons that were originally in the gaseous phase in the
+reservoir. 
+
+       (2) “Field” means
+the general area underlaid by one or more pools. 
+
+       (3) “Gas” means
+all natural gas and all other fluid hydrocarbons not defined as oil in
+subsection (5) of this section, including condensate originally in the gaseous
+phase in the reservoir. 
+
+       (4) “Information
+hole” means a hole drilled for information purposes only, including but not
+limited to core holes, stratigraphic holes or other test holes. 
+
+       (5) “Oil” means
+crude petroleum oil and all other hydrocarbons, regardless of gravity, that are
+produced in liquid form by ordinary production methods, but does not include
+liquid hydrocarbons that were originally in a gaseous phase in the reservoir. 
+
+       (6) “Person”
+means any natural person, partnership, corporation, association, receiver,
+guardian, fiduciary, administrator, representative of any kind, or the State of
+Oregon and any public body as defined in ORS 174.109. 
+
+       (7) “Pool” means
+an underground reservoir containing a common accumulation of oil and natural
+gas. A zone of a structure that is completely separated from any other zone in
+the same structure is a pool. 
+
+       (8) “Owner” means
+a person who has the right to drill into and to produce from any pool and to
+appropriate the oil or gas produced therefrom either for others, for the person
+or for the person and others. 
+
+       (9) “Protect
+correlative rights” means that the action or regulation by the board affords a
+reasonable opportunity to each person entitled thereto to recover or receive
+the oil or gas in the tract or tracts of the person or the equivalent thereof,
+without being required to drill unnecessary wells or to incur other unnecessary
+expense to recover or receive such oil or gas or its equivalent. 
+
+       (10) “Seismic
+program” means the collection of seismic exploration data through a continuous
+field operation. 
+
+       (11) “Sidetrack”
+means to reenter a well from the well’s surface location with drilling
+equipment for the purpose of deviating from the existing well bore to achieve
+production from an alternate zone or bottom hole location, or to remedy an
+engineering problem encountered in the existing well bore. 
+
+       (12) “Unit area”
+means one or more pools or parts thereof under unit operation pursuant to ORS
+520.260 to 520.330 and 520.230 (2). 
+
+       (13) “Underground
+reservoir” means any subsurface sand, strata, formation, aquifer, cavern or
+void whether natural or artificially created, suitable for the injection and
+storage of natural gas therein and the withdrawal of natural gas therefrom, but
+excluding a pool. 
+
+       (14) “Underground
+storage” means the process of injecting and storing natural gas within and
+withdrawing natural gas from an underground reservoir. 
+
+       (15) “Waste of
+oil or gas” means: 
+
+       (a) The
+inefficient, excessive or improper use or dissipation of reservoir energy of
+any pool, or the locating, spacing, drilling, equipping, operating or producing
+of any oil well or gas well in a manner that results or may result in reducing
+the quantity of oil or gas ultimately recoverable from any pool; or 
+
+       (b) The
+inefficient storing of oil and the locating, spacing, drilling, equipping,
+operating or producing of oil wells or gas wells in a manner that causes or may
+cause unnecessary or excessive surface loss or destruction of oil or gas. 
+
+       (16)(a) “Well”
+means a well drilled for the purpose of producing or storing oil or gas or
+other gaseous substances, reservoir pressure maintenance, disposal of produced
+fluids, and injection of water as part of a water flood. 
+
+       (b) “Well”
+includes a well drilled in search of a new or undiscovered pool, or with the
+intent of extending the limits of a developed pool. 
+
+       (c) “Well” does
+not include an information hole or a hole drilled as part of a seismic program.
+[1953 c.667 §1; 1961 c.671 §15; 1973 c.276 §1; 1977 c.296 §1; 2007 c.672 §1;
+2009 c.294 §18] 
+
+   
+
+       520.010 [Repealed by 1953 c.667 §21] 
+
+   
+
+       520.015 [1953 c.667 §2; 1999 c.59 §164;
+repealed by 2007 c.672 §24] 
+
+   
+
+       520.017 Fees;
+rules; disposition of fees. 
+(1) The following fees are established under this chapter: 
+
+       (a) The
+application fee for a permit to drill a well is $5,000. 
+
+       (b) The fee to
+modify a well permit, information hole permit or seismic program permit is
+$5,000. 
+
+       (c) The annual
+renewal fee for a well permit, information hole permit or seismic program
+permit is $4,000. 
+
+       (d) The
+application fee for a permit to drill an information hole may not exceed $2,500
+per five information holes drilled in a contiguous 640-acre area. The State
+Department of Geology and Mineral Industries shall base the fee on the
+estimated cost of review and approval and the number and location of
+information holes to be drilled. 
+
+       (e) The fee for
+approval of a seismic program may not exceed $2,500. The department shall base
+the fee on the estimated cost of review and approval. 
+
+       (f) A permittee
+that requests to transfer a well permit, information hole permit or seismic
+program permit must pay a nonrefundable fee of $5,000 at the time of the
+request. 
+
+       (2) The governing
+board of the department by rule may specify a schedule of fees for costs
+incurred by the department for activities related to field designation for
+purposes of this section. 
+
+       (3) All moneys
+received by the department under this section shall be paid into the State
+Treasury and deposited in the General Fund to the credit of the Geology and
+Mineral Industries Account established in ORS 516.070. [2007 c.672 §3; 2020
+s.s.2 c.4 §6; 2025 c.601 §5] 
+
+   
+
+       520.020 [Repealed by 1953 c.667 §21] 
+
+   
+
+       520.025 Permit
+for drilling well or using well; extension; annual report; grounds for granting
+or denying permit. 
+(1) A person may not drill or use a well without first obtaining a permit from
+the State Department of Geology and Mineral Industries and posting any bond
+that may be required pursuant to ORS 520.095 (1). When drilling has been
+completed, the well must be maintained under a permit until it is properly
+plugged and the site is reclaimed. 
+
+       (2) A permittee
+maintaining or operating a well shall provide the department with an annual
+report on a form provided by the department. Subject to the determinations in
+subsection (3) of this section, a permittee shall renew the permit for a well
+by paying the fee established under ORS 520.017. 
+
+       (3)(a) If upon
+receipt of the application the department determines that the method and
+equipment to be used by the applicant in drilling or operating the well comply
+with applicable laws and rules, the department shall issue the permit. 
+
+       (b) The
+department may refuse to issue, refuse to renew or revoke a permit issued
+pursuant to this section if the department determines that methods or equipment
+to be used or being used in drilling or operating the well do not comply with
+applicable laws or rules, or that the well will not be operated and maintained
+or is not being operated or maintained in compliance with the permit and
+applicable laws or rules. [1953 c.667 §5; 1973 c.276 §2; 1977 c.296 §3; 1981
+c.146 §1; 1991 c.526 §1; 2007 c.672 §4; 2020 s.s.2 c.4 §7] 
+
+   
+
+       520.027
+Information holes; holes drilled as part of seismic program; trade secrets. (1) A person may not drill an
+information hole or a hole drilled as part of a seismic program without first
+applying for approval from the State Department of Geology and Mineral
+Industries and paying the fee established in ORS 520.017. The application must
+be submitted on a form provided by the department and must include all
+information requested by the department. 
+
+       (2) A person
+issued an approval under this section shall comply with all terms of the
+department’s approval and any other applicable law or rule. The department may
+not require the person receiving approval under this section to provide
+information from seismic programs. The department may require the submittal of
+information from information holes, but the information is a trade secret under
+ORS 192.345 and is not subject to public disclosure under ORS 192.311 to
+192.478. [2007 c.672 §6] 
+
+   
+
+       520.030 [Repealed by 1953 c.667 §21] 
+
+   
+
+       520.035 Waste
+of oil or gas prohibited. 
+The waste of oil or gas, as defined in ORS 520.005, is prohibited. [1953 c.667 §3;
+2007 c.672 §7] 
+
+   
+
+       520.040 [Repealed by 1953 c.667 §21] 
+
+   
+
+       520.045
+Determination of waste of oil or gas. 
+The State Department of Geology and Mineral Industries may determine whether
+waste of oil or gas over which it has jurisdiction exists or is imminent. In
+the exercise of such power the department may: 
+
+       (1) Collect data. 
+
+       (2) Make
+investigations and inspections. 
+
+       (3) Examine
+properties, leases, papers, books and records, including drilling records and
+logs. 
+
+       (4) Examine,
+check, test and gauge oil and gas wells and tanks. 
+
+       (5) Hold
+hearings. 
+
+       (6) Provide for
+the keeping of records and the making of reports. 
+
+       (7) Take such
+action as may be reasonably necessary to enforce this chapter. [1953 c.667 §6;
+2007 c.672 §8] 
+
+   
+
+       520.050 [Repealed by 1953 c.667 §21] 
+
+   
+
+       520.055
+General jurisdiction and authority of board; tidal lands; rules. (1) The governing board of the
+State Department of Geology and Mineral Industries has jurisdiction and
+authority over all persons and property, including tidal submerged and
+submersible lands of this state under ORS 274.705 to 274.860, necessary to enforce
+effectively this chapter and all other laws relating to the conservation of oil
+and gas. 
+
+       (2) In addition
+to and not in lieu of any other powers granted under this chapter, the board
+may adopt rules and issue orders necessary to regulate geological, geophysical
+and seismic surveys on, and operations to remove sulfur from, the tidal
+submerged and submersible lands of this state under ORS 274.705 to 274.860. [1953
+c.667 §4; subsection (2) enacted as 1961 c.619 §40; 1969 c.594 §57; 2007 c.672 §9] 
+
+   
+
+       520.060 [Repealed by 1953 c.667 §21] 
+
+   
+
+       520.065 [1953 c.667 §8; renumbered
+520.210] 
+
+   
+
+       520.070 [Repealed by 1953 c.667 §21] 
+
+   
+
+       520.075 [1953 c.667 §9; 1961 c.671 §16;
+renumbered 520.220] 
+
+   
+
+       520.080 [Repealed by 1953 c.667 §21] 
+
+   
+
+       520.085 [1953 c.667 §10; 1961 c.671 §17;
+renumbered 520.230] 
+
+   
+
+       520.090 [Repealed by 1953 c.667 §21] 
+
+   
+
+       520.095 Rules
+and orders; bond. 
+The governing board of the State Department of Geology and Mineral Industries
+may adopt rules and issue orders, and the department may issue orders, as may
+be necessary in the proper administration and enforcement of this chapter,
+including but not limited to rules and orders for the following purposes: 
+
+       (1) To require
+the drilling, casing and plugging of wells to be done in such a manner as to
+prevent the escape of oil or gas out of one stratum to another; to prevent the
+intrusion of water into oil or gas strata; to prevent the pollution of fresh
+water supplies by oil, gas or salt water; and to require reasonable bond
+conditioned upon compliance with applicable laws and rules and upon the
+performance of the duty to plug each dry or abandoned well. 
+
+       (2) To compel the
+filing of logs from wells, including electrical logs, if any are taken,
+drilling records, typical drill cuttings or cores, if cores are taken, with the
+office of the State Geologist. 
+
+       (3) To prevent
+wells from being drilled, operated and produced in such a manner as to cause
+injury to neighboring leases or property. 
+
+       (4) To prevent
+the drowning by water of any stratum or part thereof capable of producing oil
+or gas in paying quantities, and to prevent the premature and irregular
+encroachment of water that reduces, or tends to reduce, the total ultimate
+recovery of oil or gas from any pool. 
+
+       (5) To require
+the operation of wells with efficient gas-oil ratios, and to fix ratios. 
+
+       (6) To prevent
+blowouts, caving and seepage in the same sense that conditions indicated by
+such terms are generally understood in the oil and gas business. 
+
+       (7) To prevent
+fires. 
+
+       (8) To identify
+the ownership of all oil and gas wells, producing leases, tanks, plants,
+structures and all storage equipment and facilities. 
+
+       (9) To regulate
+the stimulation and chemical treatment of wells. 
+
+       (10) To regulate
+secondary recovery methods, including the introduction of gas, air, water or
+other substance into producing formations. 
+
+       (11) To require
+the filing currently of information as to the volume of oil and gas, or either
+of them, produced and saved from the respective properties. 
+
+       (12) To require
+the protection of ground water. 
+
+       (13) To require
+the disposal of salt water and oil field waste so as not to damage land or
+property unnecessarily. 
+
+       (14) To require
+that wells drilled for oil or gas be logged adequately enough to identify the
+geologic formations penetrated by the wells. 
+
+       (15) To regulate
+the underground storage of natural gas and the drilling and operation of any
+wells required therefor. 
+
+       (16) To require
+the mitigation of off-site impacts of drilling and to require reclamation for
+subsequent beneficial use of drill sites and adjacent areas adversely affected
+by drilling or use of the well and the filling of sumps. 
+
+       (17) To require
+performance bonds or other forms of financial security for compliance with the
+requirements of this chapter and rules adopted or orders issued under this
+chapter. 
+
+       (18) To regulate
+exploratory wells, including stratigraphic wells and seismic program test
+wells, subject to the limitations in ORS 520.027. 
+
+       (19) To regulate
+geological, geophysical and seismic surveys on, and operations to remove oil,
+gas and sulfur from, the tidal submerged and submersible lands of this state
+under ORS 274.705 to 274.860. [1953 c.667 §7; 1961 c.671 §18; 1973 c.276 §3;
+1977 c.296 §2; 1981 c.146 §2; 1989 c.365 §1; 2007 c.672 §10] 
+
+   
+
+       520.097
+Abandonment or completion of well; well logs and records; trade secrets. (1) For a period of two years from
+the date of abandonment or completion of a well, all well logs and records and
+well reports submitted to the State Department of Geology and Mineral
+Industries are trade secrets under ORS 192.345 and are not subject to public
+disclosure under ORS 192.311 to 192.478, and all drill cuttings and cores may
+not be disclosed to the public unless such protection is waived by the
+permittee or disclosure is required by a court order. 
+
+       (2) The
+department may extend the period under subsection (1) of this section up to an
+additional five years on the request of the permittee or the permittee’s
+successor in interest. [2007 c.672 §12] 
+
+   
+
+       520.100 [Repealed by 1953 c.667 §21] 
+
+   
+
+       520.105 [1953 c.667 §11; 1961 c.671 §19;
+repealed by 2007 c.672 §24] 
+
+   
+
+       520.110 [Repealed by 1953 c.667 §21] 
+
+   
+
+       520.115 [1953 c.667 §12; repealed by 2007
+c.672 §24] 
+
+   
+
+       520.120 [Repealed by 1953 c.667 §21] 
+
+   
+
+       520.125
+Authority of board to summon witnesses and require production of evidence. (1) The governing board of the
+State Department of Geology and Mineral Industries may summon witnesses,
+administer oaths and require the production of records, books and documents for
+examination at any hearing or investigation conducted before the board. 
+
+       (2) In case of
+failure or refusal on the part of any person to comply with the subpoena issued
+by the board or in the case of the refusal of any witness to testify as to any
+matter regarding which the witness may lawfully be interrogated it shall be the
+duty of the circuit court of any county or any judge thereof, upon application
+of the board, to issue an order to show cause why such person should not be
+held for contempt as in the case of disobedience of the requirements of a
+subpoena issued from such court or a refusal to testify therein. 
+
+       (3) The board
+may, in any matter before the board, cause the depositions of witnesses
+residing within or without the state to be taken in the manner prescribed by
+law for like depositions in civil suits in the circuit courts of this state. [1953
+c.667 §13; 2005 c.22 §374; 2007 c.672 §13] 
+
+   
+
+       520.130 [Repealed by 1953 c.667 §21] 
+
+   
+
+       520.135 [1953 c.667 §14; repealed by 2007
+c.672 §24] 
+
+   
+
+       520.145
+Judicial review of board or department actions. Any person adversely affected by
+any rule adopted by the governing board of the State Department of Geology and
+Mineral Industries under this chapter or any order issued by the board or the
+State Department of Geology and Mineral Industries under this chapter may
+obtain judicial review thereof pursuant to ORS chapter 183. [1953 c.667 §15;
+1961 c.671 §20; 1979 c.562 §15; 1981 c.146 §3; 2007 c.672 §14] 
+
+   
+
+       520.155
+Records, accounts, reports and writings not to be falsified, altered, destroyed
+or removed from state. 
+A person may not, for the purpose of evading the provisions of this chapter or
+any rule adopted or order issued under this chapter, make or cause to be made
+any false entry or statement in a report required by this chapter or by any
+rule or order under this chapter, make or cause to be made any false entry in
+any record, account or other writing required by this chapter or by any rule or
+order under this chapter, omit or cause to be omitted from any such record,
+account or writing full, true and correct entries as required by this chapter
+or any rule or order under this chapter, or remove from this state or destroy,
+mutilate, alter or falsify any such record, account or writing. [1953 c.667 §16;
+2007 c.672 §15] 
+
+   
+
+       520.165 Aiding
+or abetting in violation of chapter prohibited. A person may not knowingly aid or
+abet any other person in the violation of any provision of this chapter or any
+rule adopted or order issued under this chapter. [1953 c.667 §17; 2007 c.672 §16] 
+
+   
+
+       520.175
+Injunctions to restrain violation or threatened violation of chapter. (1) Whenever it appears that any
+person is violating or threatening to violate any provision of this chapter or
+any rule adopted or order issued under this chapter, the governing board of the
+State Department of Geology and Mineral Industries may bring an action against
+such person in the circuit court of any county where the violation occurs or is
+threatened, to restrain such person from continuing such violation. In any such
+action, the court shall have jurisdiction to grant to the board, without bond
+or other undertaking, such temporary restraining orders or final prohibitory
+and mandatory injunctions as the facts may warrant, including any such orders
+restraining the movement or disposition of oil or gas. 
+
+       (2) If the board
+fails to bring an action to enjoin a violation or threatened violation of any
+provision of this chapter or any rule adopted or order issued under this
+chapter, within 60 days after receipt of a written request to do so by any
+person who is or will be adversely affected by such violation, then the person
+making such request may bring an action to restrain such violation or
+threatened violation in any court in which the board might have brought such
+action. The board shall be made a party defendant in such action in addition to
+the person or persons bringing the action and the action shall proceed and
+injunctive relief may be granted without bond in the same manner as if the
+action had been brought by the board. [1953 c.667 §18; 1979 c.284 §162; 2007
+c.672 §17] 
+
+   
+
+ SPACING UNITS 
+
+   
+
+       520.210
+Establishment of spacing units for pool or field; purpose; scope; effect. (1) When necessary to prevent
+waste of oil or gas, to avoid the drilling of unnecessary wells or to protect
+correlative rights, the governing board of the State Department of Geology and
+Mineral Industries shall establish spacing units for a pool or field. Spacing
+units when established shall be of uniform size and shape for the entire pool
+or field, except that when found to be necessary for any of the above purposes
+the board is authorized to divide any pool or field into zones and establish
+spacing units for each zone, which units may differ in size and shape from
+those established in any other zone. The board may not establish spacing units
+for injection wells, withdrawal wells or monitoring wells drilled for the
+purpose of storing gas or other gaseous substances, or wells drilled for the
+underground disposal of fluids. 
+
+       (2) The size and
+shape of spacing units shall be such as will result in efficient and economical
+development of the pool or field as a whole and the size thereof may not be
+smaller than the maximum area that can be efficiently drained by one well. 
+
+       (3) An order
+establishing spacing units for a pool or field shall specify the size and shape
+of each unit and the location of each permitted well thereon in accordance with
+a reasonably uniform spacing plan. If an owner finds that a well drilled at the
+prescribed location would not produce in paying quantities or that surface
+conditions would substantially add to the burden or hazard of drilling such
+well, then the owner may apply to the department for permission to drill a well
+at a location other than that prescribed by such spacing order. The department
+shall notify adjacent mineral owners of such application and any such owner may
+request a hearing by the board to consider the application. If no request for a
+hearing is made in writing within 20 days, the department may issue an order
+approving the drilling site. Any order by the board or department under this
+section shall include in the order suitable provisions to prevent the
+production from the spacing unit of more than its just and equitable share of
+the oil and gas in the pool. 
+
+       (4) An order
+establishing spacing units for a pool or field shall cover all lands determined
+or believed to be underlaid by such pool or field and may be modified by the
+board from time to time to include additional areas determined to be underlaid
+by such pool or field. When necessary to prevent waste of oil or gas, to
+protect correlative rights or to provide for more efficient drainage, an order
+establishing spacing units in a pool or field may be modified by the board to
+increase the size of spacing units for future wells in a pool or field or any
+zone thereof or to permit the drilling of additional wells on a reasonably
+uniform plan in such pool, field or zone. [Formerly 520.065; 1981 c.146 §4;
+2007 c.672 §18] 
+
+   
+
+       520.220
+Integrating interests or tracts within spacing unit. (1) When two or more separately
+owned tracts are embraced within a spacing unit or when there are separately
+owned interests in all or a part of such spacing unit, then the interested
+persons may integrate their tracts or interests for the development and
+operation of the spacing unit. 
+
+       (2) In the
+absence of voluntary integration, the governing board of the State Department
+of Geology and Mineral Industries, upon the application of any interested
+person, shall make an order integrating all tracts or interests in the spacing
+unit for the development and operation thereof and for the sharing of
+production therefrom. The board, as a part of the order establishing one or
+more spacing units, may prescribe the terms and conditions upon which the
+royalty interests in the units shall, in the absence of voluntary agreement, be
+deemed to be integrated without the necessity of a subsequent order integrating
+royalty interests. Each such integration order shall be upon terms and
+conditions that are just and reasonable. [Formerly 520.075] 
+
+   
+
+ UNIT OPERATIONS 
+
+   
+
+       520.230
+Approved agreement for cooperative or unit development of pool not to be
+construed as violating certain regulatory laws. (1) An agreement for the unit or
+cooperative development and operation of a field or pool in connection with the
+conduct of repressuring or pressure maintenance operations, cycling or
+recycling operations, including the extraction and separation of liquid
+hydrocarbons from natural gas in connection therewith, or any other method of
+operation, including water floods, is authorized and may be performed and shall
+not be held or construed to violate ORS 59.005 to 59.505, 59.710 to 59.830,
+59.991 and 59.995 or any of the statutes of this state relative to trusts,
+monopolies or contracts and combinations in restraint of trade, if such
+agreement is approved by the governing board of the State Department of Geology
+and Mineral Industries as being in the public interest, for the protection of
+correlative rights and reasonably necessary to increase ultimate recovery or
+prevent waste of oil or gas. The failure to submit such an agreement to the
+board for approval does not, for that reason, imply or constitute evidence that
+the agreement or operations conducted pursuant thereto violate ORS 59.005 to
+59.505, 59.710 to 59.830, 59.991 and 59.995 or any statute of this state now or
+hereafter in effect relating to trusts and monopolies. 
+
+       (2) An agreement
+for the unit or cooperative development or operation of a field, pool or part
+thereof may be submitted to the board for approval as being in the public
+interest or reasonably necessary to prevent waste or protect correlative
+rights. Approval by the board constitutes a complete defense to any proceeding
+charging violation of ORS 59.005 to 59.505, 59.710 to 59.830, 59.991 and 59.995
+or of any statute of this state now or hereafter in effect relating to trusts
+and monopolies on account thereof or on account of operations conducted
+pursuant thereto. The failure to submit such an agreement to the board for
+approval does not, for that reason, imply or constitute evidence that the
+agreement or operations conducted pursuant thereto violate ORS 59.005 to
+59.505, 59.710 to 59.830, 59.991 and 59.995 or any statute of this state now or
+hereafter in effect relating to trusts and monopolies. [Formerly 520.085;
+subsection (2) enacted as 1961 c.671 §13; 1963 c.69 §1] 
+
+   
+
+       520.240
+Voluntary unitization of operations by lessees of tidal or submersible lands;
+Department of State Lands’ function. 
+(1) For the purpose of properly conserving the natural resources of any single
+oil or gas pool or field, lessees under ORS 274.705 to 274.860 and their
+representatives may unite with each other jointly or separately, or jointly or
+separately with others owning or operating lands not belonging to the state, in
+collectively adopting and operating under a cooperative or unit plan of
+development or operation of the pool or field, whenever it is determined by the
+Department of State Lands to be necessary or advisable in the public interest. 
+
+       (2) The
+Department of State Lands may, with the consent of the holders of the leases
+involved, establish, alter, change and revoke any drilling and production
+requirements of such leases, and make such regulations with reference to such
+leases, with like consent on the part of the lessees, in connection with the
+institution and operation of any such cooperative or unit plan, as the
+Department of State Lands deems necessary or proper to secure the proper
+protection of the interests of the state. [1961 c.619 §33] 
+
+   
+
+       520.260
+Hearing to determine need for unitization of operations; required findings;
+order. (1) The
+governing board of the State Department of Geology and Mineral Industries upon
+its own motion may, and upon the application of any interested person shall,
+hold a hearing to consider the need for the operation as a unit of one or more
+pools or parts thereof in a field. 
+
+       (2) The board
+shall make an order providing for the unit operation of a pool or part thereof
+if it finds that: 
+
+       (a) Unit
+operation is reasonably necessary to effectively carry on pressure control,
+pressure maintenance or repressuring operations, cycling operations, water
+flooding operations, injection operations, or any combination thereof, or any other
+method of recovery designed to substantially increase the ultimate recovery of
+oil from the pool or pools; and 
+
+       (b) The value of
+the estimated additional recovery of oil or gas exceeds the estimated
+additional cost incident to conducting unit operations. [1961 c.671 §2; 2007
+c.672 §19] 
+
+   
+
+       520.270 Plan
+for unit operations. 
+An order issued pursuant to ORS 520.260 shall be upon terms and conditions that
+are just and reasonable, and shall prescribe a plan for unit operations that
+includes the following: 
+
+       (1) A description
+of the pool or pools or parts thereof to be so operated. 
+
+       (2) A statement
+of the nature of the operations contemplated. 
+
+       (3) An allocation
+to the separately owned tracts in the unit area of all the oil and gas that is
+produced from the unit area and is saved, being the production that is not used
+in the conduct of operations on the unit area or not unavoidably lost. 
+
+       (4) A provision
+for the credits and charges to be made in the adjustment among the owners in
+the unit area for their respective investments in wells, tanks, pumps,
+machinery, materials and equipment contributed to the unit operations. 
+
+       (5) A provision
+stating how the costs of unit operations, including capital investments, shall
+be determined and charged to the separately owned tracts and how these costs
+shall be paid, including a provision stating when, how and by whom the unit
+production allocated to an owner who does not pay the share of the cost of unit
+operations charged to such owner, or the interest of such owner, may be sold
+and the proceeds applied to the payment of such costs. 
+
+       (6) A provision,
+if necessary, for carrying or otherwise financing any person who elects to be
+carried or otherwise financed, allowing a reasonable interest charge for such
+service payable out of that person’s share of the production. 
+
+       (7) A provision
+for the supervision and conduct of the unit operations, in respect to which
+each person shall have a vote with a value corresponding to the percentage of
+the costs of unit operations chargeable against the interest of that person. 
+
+       (8) The time when
+the unit operations shall commence, and the manner in which, and the
+circumstances under which, the unit operations shall terminate. 
+
+       (9) Additional
+provisions that are found appropriate for carrying on the unit operations, and
+for the protection of correlative rights. [1961 c.671 §3] 
+
+   
+
+       520.280
+Allocation of production under plan; ownership. (1) The allocation described in
+ORS 520.270 (3) shall be in accord with the agreement, if any, of the
+interested parties. If there is no such agreement, the governing board of the
+State Department of Geology and Mineral Industries shall determine the relative
+value, from evidence introduced at the hearing, of the separately owned tracts
+in the unit area, exclusive of physical equipment, for development of oil and
+gas by unit operations. The production allocated to each tract shall be the
+proportion that the relative value of each tract so determined bears to the
+relative value of all tracts in the unit area. 
+
+       (2) That portion
+of the unit production allocated to any tract, and the proceeds from the sale
+thereof, are the property and income of the several persons to whom, or to
+whose credit, they are allocated or payable under the order providing for unit
+operations. [1961 c.671 §§4,10] 
+
+   
+
+       520.290 When
+unitization order to become effective; supplemental hearings. (1) No order of the governing
+board of the State Department of Geology and Mineral Industries providing for
+unit operations is effective until: 
+
+       (a) The plan for
+unit operations prescribed by the board under ORS 520.270 has been approved in
+writing by (A) those owners who, under the board’s order, will be required to
+pay at least 75 percent of the costs of the unit operation, and (B) those
+persons who, at the time of the order of the board, owned of record legal title
+to 75 percent of royalty and overriding royalty payable with respect to oil and
+gas produced from the pool or part thereof over the entire unit area; and 
+
+       (b) The board has
+made a finding, either in the order providing for unit operations or in a
+supplemental order, that the plan for unit operations has been so approved. 
+
+       (2) If the plan
+for unit operations has not been approved pursuant to subsection (1) of this
+section at the time the order providing for unit operations is made, the board
+shall upon application and notice hold such supplemental hearings as are
+required to determine if and when the plan for unit operations has been
+approved. If the persons owning the percentage of interest in the unit area
+required by subsection (1) of this section do not approve the plan for unit
+operations within a period of six months after the date on which the order
+providing for unit operations is made, the order is ineffective and shall be
+revoked by the board unless the board, for good cause shown, extends the time
+for approval. [1961 c.671 §5] 
+
+   
+
+       520.300
+Amending unitization order. 
+An order providing for unit operations may be amended by an order made by the
+governing board of the State Department of Geology and Mineral Industries in
+the same manner and subject to the same conditions as an original order
+providing for unit operations. However: 
+
+       (1) If the
+amendment affects only the rights and interests of the owners, the approval of
+the amendment by the royalty owners is not required. 
+
+       (2) The order of
+amendment may not change the percentage for the allocation of: 
+
+       (a) Oil and gas
+as established for any separately owned tract by the original order, except
+with the consent of all persons owning oil and gas rights in the tract; or 
+
+       (b) Cost as
+established for any separately owned tract by the original order, except with
+the consent of all owners in the tract. [1961 c.671 §6; 2007 c.672 §20] 
+
+   
+
+       520.310
+Unitization of area including area previously unitized; partial unitization of
+pool. (1) The
+governing board of the State Department of Geology and Mineral Industries by
+order may provide for the unit operation of a pool or pools or parts thereof
+that embrace a unit area established by a previous order of the board. The
+order, in providing for the allocation of unit production, shall first treat as
+a single tract the unit area previously established, and the portion of the
+unit production so allocated thereto shall then be allocated among the
+separately owned tracts included in the previously established unit area in the
+same proportions as those specified in the previous order. 
+
+       (2) An order may
+provide for unit operations on less than the whole of a pool where the unit
+area is of such size and shape as may reasonably be required for that purpose,
+and the conduct thereof will have no adverse effect upon other portions of the
+pool. [1961 c.671 §§7,8; 2007 c.672 §21] 
+
+   
+
+       520.320
+Unitization order does not terminate prior agreements or affect oil and gas
+rights; acquisition of property during unit operations. (1) No division order or other
+contract relating to the sale or purchase of production from a separately owned
+tract may be terminated by the order providing for unit operations, but remains
+in force and applies to oil and gas allocated to that tract until terminated in
+accordance with the provisions thereof. 
+
+       (2) Except to the
+extent that the parties affected so agree, no order providing for unit
+operations results in a transfer of all or any part of the title of any person
+to the oil and gas rights in any tract in the unit area. 
+
+       (3) All property,
+whether real or personal, that may be acquired in the conduct of unit
+operations under ORS 520.260 to 520.330 and 520.230 (2) shall be acquired for
+the account of the owners within the unit area, and is the property of such
+owners in the proportion that the expenses of unit operations are charged. [1961
+c.671 §§11,12] 
+
+   
+
+       520.330 Effect
+of operations in unit area. 
+All operations, including but not limited to the commencement, drilling or
+operation of a well, upon any portion of the unit area, are considered for all
+purposes the conduct of such operations upon each separately owned tract in the
+unit area by the several owners thereof. The portion of the unit production
+allocated to a separately owned tract in a unit area, when produced, is
+considered for all purposes to have been actually produced from that tract by a
+well drilled thereon. Operations conducted pursuant to an order of the
+governing board of the State Department of Geology and Mineral Industries
+providing for unit operations constitute a fulfillment of all the express or
+implied obligations of each lease or contract covering lands in the unit area
+to the extent that compliance with such obligations cannot be had because of
+the order of the board. [1961 c.671 §9; 2007 c.672 §22] 
+
+   
+
+ UNDERGROUND RESERVOIRS 
+
+   
+
+       520.340
+Legislative findings. 
+The underground storage of natural gas in Oregon is found by the Legislative
+Assembly to be in the public interest in that the establishment of underground
+reservoirs of natural gas will help insure the continued, uninterrupted
+availability of natural gas supplies to residential, commercial and industrial
+consumers in Oregon during periods of peak demand and during interruptions in
+the normal flow of natural gas supplies. [1977 c.296 §5] 
+
+   
+
+       520.350
+Property rights in underground reservoirs for natural gas storage. (1) All natural gas in an
+underground reservoir utilized for underground storage, whether acquired by
+eminent domain or otherwise, shall at all times be the property of the natural
+gas company utilizing said underground storage, its heirs, successors, or
+assigns. In no event shall such gas be subject to the rights of the owner of
+the surface of the land under which said underground reservoir lies or of the
+owner of any mineral interest therein or of any person other than said natural
+gas company, its heirs, successors and assigns to release, produce, take,
+reduce to possessions, or otherwise interfere with or exercise any control
+thereof. 
+
+       (2) Any right of
+condemnation granted for the purposes of ORS 520.340, 772.610 to 772.625 and
+this section shall be without prejudice to the rights of the owner of the
+condemned lands or of the rights and interest therein to drill or bore through
+the underground reservoir in such a manner as shall protect the underground
+reservoir against pollution and against the escape of natural gas in a manner
+which complies with the orders and rules of the State Department of Geology and
+Mineral Industries. Such condemnation shall be without prejudice to the owners
+of such lands or other rights or interests therein as to all other uses
+thereof. The additional costs of complying with rules or orders to protect the
+underground shall be paid by the condemnor. [1977 c.296 §6] 
+
+   
+
+       520.990 [Repealed by 1953 c.667 §21] 
+
+   
+
+ PENALTIES 
+
+   
+
+       520.991
+Penalties. Subject
+to ORS 153.022, violation of any provision of this chapter, any rule adopted by
+the governing board of the State Department of Geology and Mineral Industries
+under this chapter or any order issued by the board or the State Department of
+Geology and Mineral Industries under this chapter is a Class B misdemeanor. [1953
+c.667 §19; 1999 c.1051 §315; 2007 c.672 §23; 2011 c.597 §221] 
+
+ CHAPTER
+521 
+
+  [Reserved
+for expansion] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

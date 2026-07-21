@@ -1,0 +1,2427 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+ Chapter
+317A — Corporate Activity Tax 
+
+   
+
+ ORS sections in this
+chapter were amended or repealed by the Legislative Assembly during its 2026
+regular session. See the table of ORS sections amended or repealed during the
+2026 regular session: 2026
+A&R Tables 
+
+   
+
+ Uncodified sections
+printed in this chapter were amended or repealed by the Legislative Assembly
+during its 2026 regular session. See the table of uncodified sections amended
+or repealed during the 2026 regular session: 2026
+A&R Tables 
+
+   
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ CORPORATE ACTIVITY TAX 
+
+   
+
+ REVENUE AND TAXATION 
+
+   
+
+ 317A.100  Definitions 
+
+   
+
+ 317A.102  Determination of
+commercial activity of taxpayer engaged in farming operation 
+
+   
+
+ 317A.103  Accounting methods 
+
+   
+
+ 317A.106  Unitary groups 
+
+   
+
+ 317A.109  Taxation of property
+transferred into state; rules 
+
+   
+
+ 317A.113  Joint and several liability 
+
+   
+
+ 317A.116  Corporate activity tax
+imposed on commercial activity 
+
+   
+
+ 317A.119  Subtraction 
+
+   
+
+ 317A.122  Exclusion for
+subcontracting payments 
+
+   
+
+ 317A.123  Receipts from sale of
+prescription drugs excluded 
+
+   
+
+ 317A.125  Rate of taxation;
+exemption amount 
+
+   
+
+ 317A.128  Sourcing of commercial
+activity; rules 
+
+   
+
+ 317A.131  Registration; rules 
+
+   
+
+ 317A.134  Records 
+
+   
+
+ 317A.137  Returns; payment; rules 
+
+   
+
+ 317A.140  Accounting; installment
+payment; rules 
+
+   
+
+ 317A.143  Rules; uniformity 
+
+   
+
+ 317A.146  Quitting business;
+successor 
+
+   
+
+ 317A.149  Applicability of other
+provisions of tax law 
+
+   
+
+ 317A.152  Payments to Department of
+Revenue 
+
+   
+
+ 317A.155  Suspense account; payment
+of refunds; disposition of net revenue 
+
+   
+
+ 317A.158  Local taxes preempted 
+
+   
+
+ 317A.161  Interest and penalties 
+
+   
+
+       317A.100
+Definitions. As
+used in ORS 317A.100 to 317A.158: 
+
+       (1)(a) “Commercial
+activity” means: 
+
+       (A) The total
+amount realized by a person, arising from transactions and activity in the
+regular course of the person’s trade or business, without deduction for
+expenses incurred by the trade or business; 
+
+       (B) If received
+by a financial institution: 
+
+       (i) If the
+reporting person for a financial institution is a holding company, all items of
+income reported on the FR Y-9 filed by the holding company; 
+
+       (ii) If the
+reporting person for a financial institution is a bank organization, all items
+of income reported on the call report filed by the bank organization; and 
+
+       (iii) If the
+reporting person for a financial institution is a nonbank financial
+organization, all items of income reported in accordance with generally
+accepted accounting principles; and 
+
+       (C)(i) If
+received by an insurer, as reported on the statement of premiums accompanying
+the annual statement required under ORS 731.574 to be filed with the Director
+of the Department of Consumer and Business Services, all gross direct life
+insurance premiums, gross direct accident and health insurance premiums and
+gross direct property and casualty insurance premiums; and 
+
+       (ii) The gross
+amount of surplus lines premiums received on Oregon home state risks as shown
+in the report required by ORS 735.465. 
+
+       (b) “Commercial
+activity” does not include: 
+
+       (A) Interest
+income except: 
+
+       (i) Interest on
+credit sales; or 
+
+       (ii) Interest
+income, including service charges, received by financial institutions; 
+
+       (B) Receipts from
+the sale, exchange or other disposition of an asset described in section 1221
+or 1231 of the Internal Revenue Code, without regard to the length of time the
+person held the asset; 
+
+       (C) If received
+by an insurer, federally reinsured premiums or income from transactions between
+a reciprocal insurer and its attorney in fact operating under ORS 731.142; 
+
+       (D) Receipts from
+hedging transactions, to the extent that the transactions are entered into
+primarily to protect a financial position, including transactions intended to
+manage the risk of exposure to foreign currency fluctuations that affect
+assets, liabilities, profits, losses, equity or investments in foreign
+operations, risk of exposure to interest rate fluctuations or risk of commodity
+price fluctuations; 
+
+       (E) Proceeds
+received attributable to the repayment, maturity or redemption of the principal
+of a loan, bond, mutual fund, certificate of deposit or marketable instrument; 
+
+       (F) The principal
+amount received under a repurchase agreement or on account of any transaction
+properly characterized as a loan to the person; 
+
+       (G) Contributions
+received by a trust, plan or other arrangement, any of which is described in
+section 501(a) of the Internal Revenue Code, or to which title 26, subtitle A,
+chapter 1, subchapter (D) of the Internal Revenue Code applies; 
+
+       (H) Compensation,
+whether current or deferred, and whether in cash or in kind, received or to be
+received by an employee, a former employee or the employee’s legal successor
+for services rendered to or for an employer, including reimbursements received
+by or for an individual for medical or education expenses, health insurance
+premiums or employee expenses or on account of a dependent care spending
+account, legal services plan, any cafeteria plan described in section 125 of
+the Internal Revenue Code or any similar employee reimbursement; 
+
+       (I) Proceeds
+received from the issuance of the taxpayer’s own stock, options, warrants, puts
+or calls, or from the sale of the taxpayer’s treasury stock; 
+
+       (J) Proceeds
+received on the account of payments from insurance policies, including crop
+insurance policies, owned by the taxpayer, except those proceeds received for
+the loss of commercial activity; 
+
+       (K) Gifts or
+charitable contributions received, membership dues received by trade,
+professional, homeowners’ or condominium associations, payments received for
+educational courses, meetings or meals, or similar payments to a trade,
+professional or other similar association, and fundraising receipts received by
+any person when any excess receipts are donated or used exclusively for
+charitable purposes; 
+
+       (L) Damages
+received as the result of litigation in excess of amounts that, if received
+without litigation, would be treated as commercial activity; 
+
+       (M) Property,
+money and other amounts received or acquired by an agent on behalf of another
+in excess of the agent’s commission, fee or other remuneration; 
+
+       (N) Tax refunds
+from any tax program, other tax benefit recoveries and reimbursements for the
+tax imposed under ORS 317A.100 to 317A.158 made by entities that are part of
+the same unitary group as provided under ORS 317A.106, and reimbursements made
+by entities that are not members of a unitary group that are required to be
+made for economic parity among multiple owners of an entity whose tax
+obligation under ORS 317A.100 to 317A.158 is required to be reported and paid
+entirely by one owner, as provided in ORS 317A.106; 
+
+       (O) Pension
+reversions; 
+
+       (P) Contributions
+to capital; 
+
+       (Q) Receipts from
+the sale, transfer, exchange or other disposition of motor vehicle fuel or any
+other product used for the propulsion of motor vehicles; 
+
+       (R) In the case
+of receipts from the sale of cigarettes or tobacco products by a wholesale
+dealer, retail dealer, distributor, manufacturer or seller, an amount equal to
+the federal and state excise taxes paid by any person on or for such cigarettes
+or tobacco products under subtitle E of the Internal Revenue Code or ORS
+chapter 323; 
+
+       (S) In the case
+of receipts from the sale of malt beverages or wine, as defined in ORS 471.001,
+cider, as defined in ORS 471.023 or distilled liquor, as defined in ORS
+471.001, by a person holding a license issued under ORS chapter 471, an amount
+equal to the federal and state excise taxes paid by any person on or for such
+malt beverages, wine or distilled liquor under subtitle E of the Internal
+Revenue Code or ORS chapter 471 or 473, and any amount paid to the Oregon
+Liquor and Cannabis Commission for sales of distilled spirits by an agent
+appointed under ORS 471.750; 
+
+       (T) In the case
+of receipts from the sale of marijuana items, as defined in ORS 475C.009, by a
+person holding a license issued under ORS 475C.005 to 475C.525, an amount equal
+to the federal and state excise taxes paid by any person on or for such marijuana
+items under subtitle E of the Internal Revenue Code or ORS 475C.670 to 475C.734
+and any local retail taxes authorized under ORS 475C.453; 
+
+       (U) Local taxes
+collected by a restaurant or other food establishment on sales of meals,
+prepared food or beverages; 
+
+       (V) Tips or
+gratuities collected by a restaurant or other food establishment and passed on
+to employees; 
+
+       (W) Receipts
+realized by a vehicle dealer certified under ORS 822.020 or a person described
+in ORS 320.400 (8)(a)(B) from the sale or other transfer of a motor vehicle, as
+defined in ORS 801.360, to another vehicle dealer for the purpose of resale by
+the transferee vehicle dealer, but only if the sale or other transfer was based
+upon the transferee’s need to meet a specific customer’s preference for a motor
+vehicle or is an exchange of new vehicles between franchised motor vehicle
+dealerships; 
+
+       (X) Registration
+fees or taxes collected by a vehicle dealer certified under ORS 822.020 or a
+person described in ORS 320.400 (8)(a)(B) at the sale or other transfer of a
+motor vehicle, as defined in ORS 801.360, that are owed to a third party by the
+purchaser of the motor vehicle and passed to the third party by the dealer; 
+
+       (Y) Receipts from
+a financial institution for services provided to the financial institution in
+connection with the issuance, processing, servicing and management of loans or
+credit accounts, if the financial institution and the recipient of the receipts
+have at least 50 percent of their ownership interests owned or controlled,
+directly or constructively through related interests, by common owners; 
+
+       (Z) In the case
+of amounts retained as commissions by a holder of a license under ORS chapter
+462, an amount equal to the amounts specified under ORS chapter 462 that must
+be paid to or collected by the Department of Revenue as a tax and the amounts
+specified under ORS chapter 462 to be used as purse money; 
+
+       (AA) Receipts of
+residential care facilities as defined in ORS 443.400 or in-home care agencies
+as defined in ORS 443.305, to the extent that the receipts are derived from or
+received as compensation for providing services to a medical assistance or Medicare
+recipient; 
+
+       (BB) Dividends
+received; 
+
+       (CC) Distributive
+income received from a pass-through entity; 
+
+       (DD) Receipts
+from sales to a wholesaler in this state, if the seller receives certification
+at the time of sale from the wholesaler that the wholesaler will sell the
+purchased property outside this state; 
+
+       (EE) Receipts
+from the wholesale or retail sale of groceries, including receipts of a person
+that owns groceries at the time of sale and compensation of any consignee
+engaged in effecting the sale of groceries on behalf the owner of the
+groceries, but only to the extent that the compensation relates to grocery
+sales; 
+
+       (FF) Receipts
+from transactions among members of a unitary group; 
+
+       (GG) Moneys,
+including public purpose charge moneys collected under ORS 757.612 and moneys
+collected to plan for and pursue cost-effective energy efficiency resources
+under ORS 757.054, that are collected from customers, passed to a utility and
+approved by the Public Utility Commission and that support energy conservation,
+renewable resource acquisition and low-income assistance programs; 
+
+       (HH) Moneys
+collected by a utility from customers for the payment of loans through on-bill
+financing; 
+
+       (II) Surcharges
+collected under ORS 757.736; 
+
+       (JJ) Moneys
+passed to a utility by the Bonneville Power Administration for the purpose of
+effectuating the Regional Power Act Exchange credits or pursuant to any
+settlement associated with the exchange credit; 
+
+       (KK) Moneys
+collected or recovered, by entities listed in ORS 756.310, cable operators as
+defined in 47 U.S.C. 522(5), telecommunications carriers as defined in 47
+U.S.C. 153(51) and providers of information services as defined in 47 U.S.C.
+153(24), for fees payable under ORS 756.310, right-of-way fees, franchise fees,
+privilege taxes, federal taxes and local taxes; 
+
+       (LL) Charges paid
+to the Residential Service Protection Fund required by chapter 290, Oregon Laws
+1987; 
+
+       (MM) Universal
+service surcharge moneys collected or recovered and paid into the universal
+service fund established in ORS 759.425; 
+
+       (NN) Moneys
+collected for public purpose funding as described in ORS 759.430; 
+
+       (OO) Moneys
+collected or recovered and paid into the federal universal service fund as
+determined by the Federal Communications Commission; 
+
+       (PP) In the case
+of a seller or provider of telecommunications services, the amount of tax
+imposed under ORS 403.200 for access to the emergency communications system
+that is collected from subscribers or consumers; 
+
+       (QQ) In the case
+of a transient lodging tax collector, the amount of tax imposed under ORS
+320.305 and of any local transient lodging tax imposed upon the occupancy of
+transit lodging; 
+
+       (RR) In the case
+of a seller of bicycles, the amount of tax imposed under ORS 320.415 upon
+retail sales of bicycles; 
+
+       (SS) In the case
+of a qualified heavy equipment provider, the amount of tax imposed under ORS
+307.872 upon the rental price of heavy equipment; 
+
+       (TT) Farmer sales
+to an agricultural cooperative in this state that is a cooperative organization
+described in section 1381 of the Internal Revenue Code; 
+
+       (UU) Revenue
+received by a business entity that is mandated by contract or subcontract to be
+distributed to another person or entity if the revenue constitutes sales
+commissions that are paid to a person who is not an employee of the business
+entity, including, without limitation, a split-fee real estate commission; 
+
+       (VV) Receipts
+from the sale of fluid milk by dairy farmers that are not members of an
+agricultural cooperative; and 
+
+       (WW)(i) Cost paid
+by a dealer for items of precious metal. 
+
+       (ii) As used in
+this subparagraph, “item of precious metal” means an item of gold, silver,
+platinum, rhodium or palladium that has been put through a process of smelting
+or refining and that is in a state or condition that its value depends on its
+contents and not its form. 
+
+       (2) “Cost inputs”
+means: 
+
+       (a) The cost of
+goods sold as calculated in arriving at federal taxable income under the
+Internal Revenue Code; or 
+
+       (b) In the case
+of a taxpayer that is engaged in a farming operation, as defined in ORS
+317A.102, and that does not report cost of goods sold for federal tax purposes,
+the taxpayer’s operating expenses excluding labor costs. 
+
+       (3) “Doing
+business” means engaging in any activity, whether legal or illegal, that is
+conducted for, or results in, the receipt of commercial activity at any time
+during a calendar year. 
+
+       (4) “Excluded
+person” means any of the following: 
+
+       (a) Organizations
+described in sections 501(c) and 501(j) of the Internal Revenue Code, unless
+the exemption is denied under section 501(h), (i) or (m) or under section 502,
+503 or 505 of the Internal Revenue Code. 
+
+       (b) Organizations
+described in section 501(d) of the Internal Revenue Code, unless the exemption
+is denied under section 502 or 503 of the Internal Revenue Code. 
+
+       (c) Organizations
+described in section 501(e) of the Internal Revenue Code. 
+
+       (d) Organizations
+described in section 501(f) of the Internal Revenue Code. 
+
+       (e) Charitable
+risk pools described in section 501(n) of the Internal Revenue Code. 
+
+       (f) Organizations
+described in section 521 of the Internal Revenue Code. 
+
+       (g) Qualified
+state tuition programs described in section 529 of the Internal Revenue Code. 
+
+       (h) Foreign or
+alien insurance companies, but only with respect to the underwriting profit
+derived from writing wet marine and transportation insurance subject to tax
+under ORS 731.824 and 731.828 or if an insurance company is subject to the
+retaliatory tax under ORS 731.854 and 731.859. 
+
+       (i) Governmental
+entities. 
+
+       (j) Any person
+with commercial activity that does not exceed $750,000 for the tax year, other
+than a person that is part of a unitary group as provided in ORS 317A.106 with
+commercial activity in excess of $750,000. 
+
+       (k) Hospitals
+subject to assessment under ORS 414.855, long term care facilities subject to
+assessment under ORS 409.801 or any entity subject to assessment under ORS
+414.880 or section 3 or 5, chapter 538, Oregon Laws 2017. 
+
+       (L) Manufactured
+dwelling park nonprofit cooperatives organized under ORS chapter 62. 
+
+       (5) “Financial
+institution” has the meaning given that term in ORS 314.610, except that “financial
+institution” does not include a credit union. 
+
+       (6)(a) “FR Y-9”
+means the consolidated or parent-only financial statements that a holding
+company is required to file with the Federal Reserve Board pursuant to 12
+U.S.C. 1844. 
+
+       (b) In the case
+of a holding company required to file both consolidated and parent-only
+financial statements, “FR Y-9” means the consolidated financial statements that
+the holding company is required to file. 
+
+       (7) “Governmental
+entity” means: 
+
+       (a) The United
+States and any of its unincorporated agencies and instrumentalities. 
+
+       (b) Any
+incorporated agency or instrumentality of the United States wholly owned by the
+United States or by a corporation wholly owned by the United States. 
+
+       (c) The State of
+Oregon and any of its unincorporated agencies and instrumentalities. 
+
+       (d) Any county,
+city, district or other political subdivision of the state. 
+
+       (e) A special
+government body as defined in ORS 174.117. 
+
+       (f) A federally
+recognized Indian tribe. 
+
+       (8) “Groceries”
+means food as defined in 7 U.S.C. 2012(k), but does not include cannabinoid
+edibles or marijuana seeds. 
+
+       (9)(a) “Hedging
+transaction” means a hedging transaction as defined in section 1221 of the
+Internal Revenue Code or a transaction accorded hedge accounting treatment
+under Financial Accounting Standards Board Statement No. 133. 
+
+       (b) “Hedging
+transaction” does not include a transaction in which an actual transfer of
+title of real or tangible property to another entity occurs. 
+
+       (10) “Insurer”
+has the meaning given that term in ORS 317.010. 
+
+       (11) “Internal
+Revenue Code,” except where the Legislative Assembly has provided otherwise,
+refers to the laws of the United States or to the Internal Revenue Code as they
+are amended and in effect on December 31, 2023. 
+
+       (12) “Labor costs”
+means total compensation of all employees, not to include compensation paid to
+any single employee in excess of $500,000. 
+
+       (13)(a) “Motor
+vehicle fuel or any other product used for the propulsion of motor vehicles”
+means: 
+
+       (A) Motor vehicle
+fuel as defined in ORS 319.010; and 
+
+       (B) Fuel the use
+of which in a motor vehicle is subject to taxation under ORS 319.530. 
+
+       (b) “Motor
+vehicle fuel or any other product used for the propulsion of motor vehicles”
+does not mean: 
+
+       (A) Electricity;
+or 
+
+       (B) Electric
+batteries or any other mechanical or physical component or accessory of a motor
+vehicle. 
+
+       (14) “Person”
+includes individuals, combinations of individuals of any form, receivers,
+assignees, trustees in bankruptcy, firms, companies, joint-stock companies,
+business trusts, estates, partnerships, limited liability partnerships, limited
+liability companies, associations, joint ventures, clubs, societies, entities
+organized as for-profit corporations under ORS chapter 60, C corporations, S
+corporations, qualified subchapter S subsidiaries, qualified subchapter S
+trusts, trusts, entities that are disregarded for federal income tax purposes
+and any other entities. 
+
+       (15) “Retailer”
+means a person doing business by selling tangible personal property to a
+purchaser for a purpose other than: 
+
+       (a) Resale by the
+purchaser of the property as tangible personal property in the regular course
+of business; 
+
+       (b) Incorporation
+by the purchaser of the property in the course of regular business as an
+ingredient or component of real or personal property; or 
+
+       (c) Consumption
+by the purchaser of the property in the production for sale of a new article of
+tangible personal property. 
+
+       (16) “Taxable
+commercial activity” means commercial activity sourced to this state under ORS
+317A.128, less any subtraction pursuant to ORS 317A.119. 
+
+       (17)(a) “Taxpayer”
+means any person or unitary group required to register, file or pay tax under
+ORS 317A.100 to 317A.158. 
+
+       (b) “Taxpayer”
+does not include excluded persons, except to the extent that a tax-exempt
+entity has unrelated business income as described in the Internal Revenue Code. 
+
+       (18) “Tax year”
+means, except as otherwise provided in ORS 317A.103, a taxpayer’s annual
+accounting period used for federal income tax purposes under section 441 of the
+Internal Revenue Code. 
+
+       (19)(a) “Unitary
+business” means a business enterprise in which there exists directly or
+indirectly between the members or parts of the enterprise a sharing or exchange
+of value as demonstrated by: 
+
+       (A) Centralized
+management or a common executive force; 
+
+       (B) Centralized
+administrative services or functions resulting in economies of scale; or 
+
+       (C) Flow of
+goods, capital resources or services demonstrating functional integration. 
+
+       (b) “Unitary
+business” may include a business enterprise the activities of which: 
+
+       (A) Are in the
+same general line of business, such as manufacturing, wholesaling or retailing;
+or 
+
+       (B) Constitute
+steps in a vertically integrated process, such as the steps involved in the
+production of natural resources, which might include exploration, mining,
+refining and marketing. 
+
+       (20) “Unitary
+group” means a group of persons with more than 50 percent common ownership,
+either direct or indirect, that is engaged in business activities that
+constitute a unitary business. 
+
+       (21) “Wholesaler”
+means a person primarily doing business by merchant distribution of tangible
+personal property to retailers or to other wholesalers. [2019 c.122 §58; 2019
+c.579 §50; 2020 s.s.1 c.2 §1; 2021 c.351 §21; 2021 c.456 §26; 2021 c.547 §20;
+2021 c.572 §3; 2022 c.82 §5; 2022 c.83 §26; 2023 c.171 §26; 2023 c.397 §1; 2024
+c.75 §26] 
+
+   
+
+ Note 1: The amendments to 317A.100 by
+section 6, chapter 502, Oregon Laws 2025, become operative on the date the
+Public Utility Commission adopts necessary rules, no later than December 1,
+2026. See section 11, chapter 502, Oregon Laws 2025. The text that is operative
+from that date until January 2, 2038, is set forth for the user’s convenience. 
+
+       317A.100. As used in ORS 317A.100 to
+317A.158: 
+
+       (1)(a) “Commercial
+activity” means: 
+
+       (A) The total
+amount realized by a person, arising from transactions and activity in the
+regular course of the person’s trade or business, without deduction for
+expenses incurred by the trade or business; 
+
+       (B) If received
+by a financial institution: 
+
+       (i) If the
+reporting person for a financial institution is a holding company, all items of
+income reported on the FR Y-9 filed by the holding company; 
+
+       (ii) If the
+reporting person for a financial institution is a bank organization, all items
+of income reported on the call report filed by the bank organization; and 
+
+       (iii) If the
+reporting person for a financial institution is a nonbank financial
+organization, all items of income reported in accordance with generally
+accepted accounting principles; and 
+
+       (C)(i) If
+received by an insurer, as reported on the statement of premiums accompanying
+the annual statement required under ORS 731.574 to be filed with the Director
+of the Department of Consumer and Business Services, all gross direct life
+insurance premiums, gross direct accident and health insurance premiums and
+gross direct property and casualty insurance premiums; and 
+
+       (ii) The gross
+amount of surplus lines premiums received on Oregon home state risks as shown
+in the report required by ORS 735.465. 
+
+       (b) “Commercial
+activity” does not include: 
+
+       (A) Interest
+income except: 
+
+       (i) Interest on
+credit sales; or 
+
+       (ii) Interest
+income, including service charges, received by financial institutions; 
+
+       (B) Receipts from
+the sale, exchange or other disposition of an asset described in section 1221
+or 1231 of the Internal Revenue Code, without regard to the length of time the
+person held the asset; 
+
+       (C) If received
+by an insurer, federally reinsured premiums or income from transactions between
+a reciprocal insurer and its attorney in fact operating under ORS 731.142; 
+
+       (D) Receipts from
+hedging transactions, to the extent that the transactions are entered into
+primarily to protect a financial position, including transactions intended to
+manage the risk of exposure to foreign currency fluctuations that affect
+assets, liabilities, profits, losses, equity or investments in foreign
+operations, risk of exposure to interest rate fluctuations or risk of commodity
+price fluctuations; 
+
+       (E) Proceeds
+received attributable to the repayment, maturity or redemption of the principal
+of a loan, bond, mutual fund, certificate of deposit or marketable instrument; 
+
+       (F) The principal
+amount received under a repurchase agreement or on account of any transaction
+properly characterized as a loan to the person; 
+
+       (G) Contributions
+received by a trust, plan or other arrangement, any of which is described in
+section 501(a) of the Internal Revenue Code, or to which title 26, subtitle A,
+chapter 1, subchapter (D) of the Internal Revenue Code applies; 
+
+       (H) Compensation,
+whether current or deferred, and whether in cash or in kind, received or to be
+received by an employee, a former employee or the employee’s legal successor
+for services rendered to or for an employer, including reimbursements received
+by or for an individual for medical or education expenses, health insurance
+premiums or employee expenses or on account of a dependent care spending
+account, legal services plan, any cafeteria plan described in section 125 of
+the Internal Revenue Code or any similar employee reimbursement; 
+
+       (I) Proceeds
+received from the issuance of the taxpayer’s own stock, options, warrants, puts
+or calls, or from the sale of the taxpayer’s treasury stock; 
+
+       (J) Proceeds
+received on the account of payments from insurance policies, including crop
+insurance policies, owned by the taxpayer, except those proceeds received for
+the loss of commercial activity; 
+
+       (K) Gifts or
+charitable contributions received, membership dues received by trade,
+professional, homeowners’ or condominium associations, payments received for
+educational courses, meetings or meals, or similar payments to a trade,
+professional or other similar association, and fundraising receipts received by
+any person when any excess receipts are donated or used exclusively for
+charitable purposes; 
+
+       (L) Damages
+received as the result of litigation in excess of amounts that, if received
+without litigation, would be treated as commercial activity; 
+
+       (M) Property,
+money and other amounts received or acquired by an agent on behalf of another
+in excess of the agent’s commission, fee or other remuneration; 
+
+       (N) Tax refunds
+from any tax program, other tax benefit recoveries and reimbursements for the
+tax imposed under ORS 317A.100 to 317A.158 made by entities that are part of
+the same unitary group as provided under ORS 317A.106, and reimbursements made
+by entities that are not members of a unitary group that are required to be
+made for economic parity among multiple owners of an entity whose tax
+obligation under ORS 317A.100 to 317A.158 is required to be reported and paid
+entirely by one owner, as provided in ORS 317A.106; 
+
+       (O) Pension
+reversions; 
+
+       (P) Contributions
+to capital; 
+
+       (Q) Receipts from
+the sale, transfer, exchange or other disposition of motor vehicle fuel or any
+other product used for the propulsion of motor vehicles; 
+
+       (R) In the case
+of receipts from the sale of cigarettes or tobacco products by a wholesale
+dealer, retail dealer, distributor, manufacturer or seller, an amount equal to
+the federal and state excise taxes paid by any person on or for such cigarettes
+or tobacco products under subtitle E of the Internal Revenue Code or ORS
+chapter 323; 
+
+       (S) In the case
+of receipts from the sale of malt beverages or wine, as defined in ORS 471.001,
+cider, as defined in ORS 471.023 or distilled liquor, as defined in ORS
+471.001, by a person holding a license issued under ORS chapter 471, an amount
+equal to the federal and state excise taxes paid by any person on or for such
+malt beverages, wine or distilled liquor under subtitle E of the Internal
+Revenue Code or ORS chapter 471 or 473, and any amount paid to the Oregon
+Liquor and Cannabis Commission for sales of distilled spirits by an agent
+appointed under ORS 471.750; 
+
+       (T) In the case
+of receipts from the sale of marijuana items, as defined in ORS 475C.009, by a
+person holding a license issued under ORS 475C.005 to 475C.525, an amount equal
+to the federal and state excise taxes paid by any person on or for such marijuana
+items under subtitle E of the Internal Revenue Code or ORS 475C.670 to 475C.734
+and any local retail taxes authorized under ORS 475C.453; 
+
+       (U) Local taxes
+collected by a restaurant or other food establishment on sales of meals,
+prepared food or beverages; 
+
+       (V) Tips or
+gratuities collected by a restaurant or other food establishment and passed on
+to employees; 
+
+       (W) Receipts
+realized by a vehicle dealer certified under ORS 822.020 or a person described
+in ORS 320.400 (8)(a)(B) from the sale or other transfer of a motor vehicle, as
+defined in ORS 801.360, to another vehicle dealer for the purpose of resale by
+the transferee vehicle dealer, but only if the sale or other transfer was based
+upon the transferee’s need to meet a specific customer’s preference for a motor
+vehicle or is an exchange of new vehicles between franchised motor vehicle
+dealerships; 
+
+       (X) Registration
+fees or taxes collected by a vehicle dealer certified under ORS 822.020 or a
+person described in ORS 320.400 (8)(a)(B) at the sale or other transfer of a
+motor vehicle, as defined in ORS 801.360, that are owed to a third party by the
+purchaser of the motor vehicle and passed to the third party by the dealer; 
+
+       (Y) Receipts from
+a financial institution for services provided to the financial institution in
+connection with the issuance, processing, servicing and management of loans or
+credit accounts, if the financial institution and the recipient of the receipts
+have at least 50 percent of their ownership interests owned or controlled,
+directly or constructively through related interests, by common owners; 
+
+       (Z) In the case
+of amounts retained as commissions by a holder of a license under ORS chapter
+462, an amount equal to the amounts specified under ORS chapter 462 that must
+be paid to or collected by the Department of Revenue as a tax and the amounts
+specified under ORS chapter 462 to be used as purse money; 
+
+       (AA) Receipts of
+residential care facilities as defined in ORS 443.400 or in-home care agencies
+as defined in ORS 443.305, to the extent that the receipts are derived from or
+received as compensation for providing services to a medical assistance or Medicare
+recipient; 
+
+       (BB) Dividends
+received; 
+
+       (CC) Distributive
+income received from a pass-through entity; 
+
+       (DD) Receipts
+from sales to a wholesaler in this state, if the seller receives certification
+at the time of sale from the wholesaler that the wholesaler will sell the
+purchased property outside this state; 
+
+       (EE) Receipts
+from the wholesale or retail sale of groceries, including receipts of a person
+that owns groceries at the time of sale and compensation of any consignee
+engaged in effecting the sale of groceries on behalf the owner of the
+groceries, but only to the extent that the compensation relates to grocery
+sales; 
+
+       (FF) Receipts
+from transactions among members of a unitary group; 
+
+       (GG) Moneys,
+including public purpose charge moneys collected under ORS 757.612 and moneys
+collected to plan for and pursue cost-effective energy efficiency resources
+under ORS 757.054, that are collected from customers, passed to a utility and
+approved by the Public Utility Commission and that support energy conservation,
+renewable resource acquisition and low-income assistance programs; 
+
+       (HH) Moneys
+collected by a utility from customers for the payment of loans through on-bill
+financing; 
+
+       (II) Surcharges
+collected under ORS 757.736; 
+
+       (JJ) Moneys
+passed to a utility by the Bonneville Power Administration for the purpose of
+effectuating the Regional Power Act Exchange credits or pursuant to any
+settlement associated with the exchange credit; 
+
+       (KK) Moneys
+collected or recovered, by entities listed in ORS 756.310, cable operators as
+defined in 47 U.S.C. 522(5), telecommunications carriers as defined in 47
+U.S.C. 153(51) and providers of information services as defined in 47 U.S.C.
+153(24), for fees payable under ORS 756.310, right-of-way fees, franchise fees,
+privilege taxes, federal taxes and local taxes; 
+
+       (LL) Charges
+assessed under ORS 759.685 and paid into the Residential Service Protection
+Fund; 
+
+       (MM) Universal
+service surcharge moneys collected or recovered and paid into the universal
+service fund established in ORS 759.425; 
+
+       (NN) Moneys
+collected for public purpose funding as described in ORS 759.430; 
+
+       (OO) Moneys
+collected or recovered and paid into the federal universal service fund as
+determined by the Federal Communications Commission; 
+
+       (PP) In the case
+of a seller or provider of telecommunications services, the amount of tax
+imposed under ORS 403.200 for access to the emergency communications system
+that is collected from subscribers or consumers; 
+
+       (QQ) In the case
+of a transient lodging tax collector, the amount of tax imposed under ORS
+320.305 and of any local transient lodging tax imposed upon the occupancy of
+transit lodging; 
+
+       (RR) In the case
+of a seller of bicycles, the amount of tax imposed under ORS 320.415 upon
+retail sales of bicycles; 
+
+       (SS) In the case
+of a qualified heavy equipment provider, the amount of tax imposed under ORS
+307.872 upon the rental price of heavy equipment; 
+
+       (TT) Farmer sales
+to an agricultural cooperative in this state that is a cooperative organization
+described in section 1381 of the Internal Revenue Code; 
+
+       (UU) Revenue
+received by a business entity that is mandated by contract or subcontract to be
+distributed to another person or entity if the revenue constitutes sales
+commissions that are paid to a person who is not an employee of the business
+entity, including, without limitation, a split-fee real estate commission; 
+
+       (VV) Receipts
+from the sale of fluid milk by dairy farmers that are not members of an
+agricultural cooperative; and 
+
+       (WW)(i) Cost paid
+by a dealer for items of precious metal. 
+
+       (ii) As used in
+this subparagraph, “item of precious metal” means an item of gold, silver,
+platinum, rhodium or palladium that has been put through a process of smelting
+or refining and that is in a state or condition that its value depends on its
+contents and not its form. 
+
+       (2) “Cost inputs”
+means: 
+
+       (a) The cost of
+goods sold as calculated in arriving at federal taxable income under the
+Internal Revenue Code; or 
+
+       (b) In the case
+of a taxpayer that is engaged in a farming operation, as defined in ORS
+317A.102, and that does not report cost of goods sold for federal tax purposes,
+the taxpayer’s operating expenses excluding labor costs. 
+
+       (3) “Doing
+business” means engaging in any activity, whether legal or illegal, that is
+conducted for, or results in, the receipt of commercial activity at any time
+during a calendar year. 
+
+       (4) “Excluded
+person” means any of the following: 
+
+       (a) Organizations
+described in sections 501(c) and 501(j) of the Internal Revenue Code, unless
+the exemption is denied under section 501(h), (i) or (m) or under section 502,
+503 or 505 of the Internal Revenue Code. 
+
+       (b) Organizations
+described in section 501(d) of the Internal Revenue Code, unless the exemption
+is denied under section 502 or 503 of the Internal Revenue Code. 
+
+       (c) Organizations
+described in section 501(e) of the Internal Revenue Code. 
+
+       (d) Organizations
+described in section 501(f) of the Internal Revenue Code. 
+
+       (e) Charitable
+risk pools described in section 501(n) of the Internal Revenue Code. 
+
+       (f) Organizations
+described in section 521 of the Internal Revenue Code. 
+
+       (g) Qualified
+state tuition programs described in section 529 of the Internal Revenue Code. 
+
+       (h) Foreign or
+alien insurance companies, but only with respect to the underwriting profit
+derived from writing wet marine and transportation insurance subject to tax
+under ORS 731.824 and 731.828 or if an insurance company is subject to the
+retaliatory tax under ORS 731.854 and 731.859. 
+
+       (i) Governmental
+entities. 
+
+       (j) Any person with
+commercial activity that does not exceed $750,000 for the tax year, other than
+a person that is part of a unitary group as provided in ORS 317A.106 with
+commercial activity in excess of $750,000. 
+
+       (k) Hospitals
+subject to assessment under ORS 414.855, long term care facilities subject to
+assessment under ORS 409.801 or any entity subject to assessment under ORS
+414.880 or section 3 or 5, chapter 538, Oregon Laws 2017. 
+
+       (L) Manufactured
+dwelling park nonprofit cooperatives organized under ORS chapter 62. 
+
+       (5) “Financial
+institution” has the meaning given that term in ORS 314.610, except that “financial
+institution” does not include a credit union. 
+
+       (6)(a) “FR Y-9”
+means the consolidated or parent-only financial statements that a holding
+company is required to file with the Federal Reserve Board pursuant to 12
+U.S.C. 1844. 
+
+       (b) In the case
+of a holding company required to file both consolidated and parent-only
+financial statements, “FR Y-9” means the consolidated financial statements that
+the holding company is required to file. 
+
+       (7) “Governmental
+entity” means: 
+
+       (a) The United
+States and any of its unincorporated agencies and instrumentalities. 
+
+       (b) Any
+incorporated agency or instrumentality of the United States wholly owned by the
+United States or by a corporation wholly owned by the United States. 
+
+       (c) The State of
+Oregon and any of its unincorporated agencies and instrumentalities. 
+
+       (d) Any county,
+city, district or other political subdivision of the state. 
+
+       (e) A special
+government body as defined in ORS 174.117. 
+
+       (f) A federally
+recognized Indian tribe. 
+
+       (8) “Groceries”
+means food as defined in 7 U.S.C. 2012(k), but does not include cannabinoid
+edibles or marijuana seeds. 
+
+       (9)(a) “Hedging
+transaction” means a hedging transaction as defined in section 1221 of the
+Internal Revenue Code or a transaction accorded hedge accounting treatment
+under Financial Accounting Standards Board Statement No. 133. 
+
+       (b) “Hedging
+transaction” does not include a transaction in which an actual transfer of
+title of real or tangible property to another entity occurs. 
+
+       (10) “Insurer”
+has the meaning given that term in ORS 317.010. 
+
+       (11) “Internal
+Revenue Code,” except where the Legislative Assembly has provided otherwise,
+refers to the laws of the United States or to the Internal Revenue Code as they
+are amended and in effect on December 31, 2023. 
+
+       (12) “Labor costs”
+means total compensation of all employees, not to include compensation paid to
+any single employee in excess of $500,000. 
+
+       (13)(a) “Motor
+vehicle fuel or any other product used for the propulsion of motor vehicles”
+means: 
+
+       (A) Motor vehicle
+fuel as defined in ORS 319.010; and 
+
+       (B) Fuel the use
+of which in a motor vehicle is subject to taxation under ORS 319.530. 
+
+       (b) “Motor
+vehicle fuel or any other product used for the propulsion of motor vehicles”
+does not mean: 
+
+       (A) Electricity;
+or 
+
+       (B) Electric
+batteries or any other mechanical or physical component or accessory of a motor
+vehicle. 
+
+       (14) “Person”
+includes individuals, combinations of individuals of any form, receivers,
+assignees, trustees in bankruptcy, firms, companies, joint-stock companies,
+business trusts, estates, partnerships, limited liability partnerships, limited
+liability companies, associations, joint ventures, clubs, societies, entities
+organized as for-profit corporations under ORS chapter 60, C corporations, S
+corporations, qualified subchapter S subsidiaries, qualified subchapter S
+trusts, trusts, entities that are disregarded for federal income tax purposes
+and any other entities. 
+
+       (15) “Retailer”
+means a person doing business by selling tangible personal property to a
+purchaser for a purpose other than: 
+
+       (a) Resale by the
+purchaser of the property as tangible personal property in the regular course
+of business; 
+
+       (b) Incorporation
+by the purchaser of the property in the course of regular business as an
+ingredient or component of real or personal property; or 
+
+       (c) Consumption
+by the purchaser of the property in the production for sale of a new article of
+tangible personal property. 
+
+       (16) “Taxable
+commercial activity” means commercial activity sourced to this state under ORS
+317A.128, less any subtraction pursuant to ORS 317A.119. 
+
+       (17)(a) “Taxpayer”
+means any person or unitary group required to register, file or pay tax under
+ORS 317A.100 to 317A.158. 
+
+       (b) “Taxpayer”
+does not include excluded persons, except to the extent that a tax-exempt
+entity has unrelated business income as described in the Internal Revenue Code. 
+
+       (18) “Tax year”
+means, except as otherwise provided in ORS 317A.103, a taxpayer’s annual
+accounting period used for federal income tax purposes under section 441 of the
+Internal Revenue Code. 
+
+       (19)(a) “Unitary
+business” means a business enterprise in which there exists directly or
+indirectly between the members or parts of the enterprise a sharing or exchange
+of value as demonstrated by: 
+
+       (A) Centralized
+management or a common executive force; 
+
+       (B) Centralized
+administrative services or functions resulting in economies of scale; or 
+
+       (C) Flow of
+goods, capital resources or services demonstrating functional integration. 
+
+       (b) “Unitary
+business” may include a business enterprise the activities of which: 
+
+       (A) Are in the
+same general line of business, such as manufacturing, wholesaling or retailing;
+or 
+
+       (B) Constitute
+steps in a vertically integrated process, such as the steps involved in the
+production of natural resources, which might include exploration, mining,
+refining and marketing. 
+
+       (20) “Unitary
+group” means a group of persons with more than 50 percent common ownership,
+either direct or indirect, that is engaged in business activities that
+constitute a unitary business. 
+
+       (21) “Wholesaler”
+means a person primarily doing business by merchant distribution of tangible
+personal property to retailers or to other wholesalers. 
+
+   
+
+ Note 2: The amendments to 317A.100 by
+section 20, chapter 4, Oregon Laws 2025, become operative January 2, 2038. See
+section 23, chapter 4, Oregon Laws 2025. The text that is operative on and
+after January 2, 2038, including amendments by section 6, chapter 502, Oregon
+Laws 2025, is set forth for the user’s convenience. 
+
+       317A.100. As used in ORS 317A.100 to
+317A.158: 
+
+       (1)(a) “Commercial
+activity” means: 
+
+       (A) The total
+amount realized by a person, arising from transactions and activity in the
+regular course of the person’s trade or business, without deduction for
+expenses incurred by the trade or business; 
+
+       (B) If received
+by a financial institution: 
+
+       (i) If the
+reporting person for a financial institution is a holding company, all items of
+income reported on the FR Y-9 filed by the holding company; 
+
+       (ii) If the
+reporting person for a financial institution is a bank organization, all items
+of income reported on the call report filed by the bank organization; and 
+
+       (iii) If the
+reporting person for a financial institution is a nonbank financial
+organization, all items of income reported in accordance with generally
+accepted accounting principles; and 
+
+       (C)(i) If
+received by an insurer, as reported on the statement of premiums accompanying
+the annual statement required under ORS 731.574 to be filed with the Director
+of the Department of Consumer and Business Services, all gross direct life
+insurance premiums, gross direct accident and health insurance premiums and
+gross direct property and casualty insurance premiums; and 
+
+       (ii) The gross
+amount of surplus lines premiums received on Oregon home state risks as shown
+in the report required by ORS 735.465. 
+
+       (b) “Commercial
+activity” does not include: 
+
+       (A) Interest
+income except: 
+
+       (i) Interest on
+credit sales; or 
+
+       (ii) Interest
+income, including service charges, received by financial institutions; 
+
+       (B) Receipts from
+the sale, exchange or other disposition of an asset described in section 1221
+or 1231 of the Internal Revenue Code, without regard to the length of time the
+person held the asset; 
+
+       (C) If received
+by an insurer, federally reinsured premiums or income from transactions between
+a reciprocal insurer and its attorney in fact operating under ORS 731.142; 
+
+       (D) Receipts from
+hedging transactions, to the extent that the transactions are entered into
+primarily to protect a financial position, including transactions intended to
+manage the risk of exposure to foreign currency fluctuations that affect
+assets, liabilities, profits, losses, equity or investments in foreign
+operations, risk of exposure to interest rate fluctuations or risk of commodity
+price fluctuations; 
+
+       (E) Proceeds
+received attributable to the repayment, maturity or redemption of the principal
+of a loan, bond, mutual fund, certificate of deposit or marketable instrument; 
+
+       (F) The principal
+amount received under a repurchase agreement or on account of any transaction
+properly characterized as a loan to the person; 
+
+       (G) Contributions
+received by a trust, plan or other arrangement, any of which is described in
+section 501(a) of the Internal Revenue Code, or to which title 26, subtitle A,
+chapter 1, subchapter (D) of the Internal Revenue Code applies; 
+
+       (H) Compensation,
+whether current or deferred, and whether in cash or in kind, received or to be
+received by an employee, a former employee or the employee’s legal successor
+for services rendered to or for an employer, including reimbursements received
+by or for an individual for medical or education expenses, health insurance
+premiums or employee expenses or on account of a dependent care spending
+account, legal services plan, any cafeteria plan described in section 125 of
+the Internal Revenue Code or any similar employee reimbursement; 
+
+       (I) Proceeds
+received from the issuance of the taxpayer’s own stock, options, warrants, puts
+or calls, or from the sale of the taxpayer’s treasury stock; 
+
+       (J) Proceeds
+received on the account of payments from insurance policies, including crop
+insurance policies, owned by the taxpayer, except those proceeds received for
+the loss of commercial activity; 
+
+       (K) Gifts or
+charitable contributions received, membership dues received by trade,
+professional, homeowners’ or condominium associations, payments received for
+educational courses, meetings or meals, or similar payments to a trade,
+professional or other similar association, and fundraising receipts received by
+any person when any excess receipts are donated or used exclusively for
+charitable purposes; 
+
+       (L) Damages
+received as the result of litigation in excess of amounts that, if received
+without litigation, would be treated as commercial activity; 
+
+       (M) Property,
+money and other amounts received or acquired by an agent on behalf of another
+in excess of the agent’s commission, fee or other remuneration; 
+
+       (N) Tax refunds
+from any tax program, other tax benefit recoveries and reimbursements for the
+tax imposed under ORS 317A.100 to 317A.158 made by entities that are part of
+the same unitary group as provided under ORS 317A.106, and reimbursements made
+by entities that are not members of a unitary group that are required to be
+made for economic parity among multiple owners of an entity whose tax
+obligation under ORS 317A.100 to 317A.158 is required to be reported and paid
+entirely by one owner, as provided in ORS 317A.106; 
+
+       (O) Pension
+reversions; 
+
+       (P) Contributions
+to capital; 
+
+       (Q) Receipts from
+the sale, transfer, exchange or other disposition of motor vehicle fuel or any
+other product used for the propulsion of motor vehicles; 
+
+       (R) In the case
+of receipts from the sale of cigarettes or tobacco products by a wholesale
+dealer, retail dealer, distributor, manufacturer or seller, an amount equal to
+the federal and state excise taxes paid by any person on or for such cigarettes
+or tobacco products under subtitle E of the Internal Revenue Code or ORS
+chapter 323; 
+
+       (S) In the case
+of receipts from the sale of malt beverages or wine, as defined in ORS 471.001,
+cider, as defined in ORS 471.023 or distilled liquor, as defined in ORS
+471.001, by a person holding a license issued under ORS chapter 471, an amount
+equal to the federal and state excise taxes paid by any person on or for such
+malt beverages, wine or distilled liquor under subtitle E of the Internal
+Revenue Code or ORS chapter 471 or 473, and any amount paid to the Oregon
+Liquor and Cannabis Commission for sales of distilled spirits by an agent
+appointed under ORS 471.750; 
+
+       (T) In the case
+of receipts from the sale of marijuana items, as defined in ORS 475C.009, by a
+person holding a license issued under ORS 475C.005 to 475C.525, an amount equal
+to the federal and state excise taxes paid by any person on or for such marijuana
+items under subtitle E of the Internal Revenue Code or ORS 475C.670 to 475C.734
+and any local retail taxes authorized under ORS 475C.453; 
+
+       (U) Local taxes
+collected by a restaurant or other food establishment on sales of meals,
+prepared food or beverages; 
+
+       (V) Tips or
+gratuities collected by a restaurant or other food establishment and passed on
+to employees; 
+
+       (W) Receipts
+realized by a vehicle dealer certified under ORS 822.020 or a person described
+in ORS 320.400 (8)(a)(B) from the sale or other transfer of a motor vehicle, as
+defined in ORS 801.360, to another vehicle dealer for the purpose of resale by
+the transferee vehicle dealer, but only if the sale or other transfer was based
+upon the transferee’s need to meet a specific customer’s preference for a motor
+vehicle or is an exchange of new vehicles between franchised motor vehicle
+dealerships; 
+
+       (X) Registration
+fees or taxes collected by a vehicle dealer certified under ORS 822.020 or a
+person described in ORS 320.400 (8)(a)(B) at the sale or other transfer of a
+motor vehicle, as defined in ORS 801.360, that are owed to a third party by the
+purchaser of the motor vehicle and passed to the third party by the dealer; 
+
+       (Y) Receipts from
+a financial institution for services provided to the financial institution in
+connection with the issuance, processing, servicing and management of loans or
+credit accounts, if the financial institution and the recipient of the receipts
+have at least 50 percent of their ownership interests owned or controlled,
+directly or constructively through related interests, by common owners; 
+
+       (Z) In the case
+of amounts retained as commissions by a holder of a license under ORS chapter
+462, an amount equal to the amounts specified under ORS chapter 462 that must
+be paid to or collected by the Department of Revenue as a tax and the amounts
+specified under ORS chapter 462 to be used as purse money; 
+
+       (AA) Receipts of
+residential care facilities as defined in ORS 443.400 or in-home care agencies
+as defined in ORS 443.305, to the extent that the receipts are derived from or
+received as compensation for providing services to a medical assistance or Medicare
+recipient; 
+
+       (BB) Dividends
+received; 
+
+       (CC) Distributive
+income received from a pass-through entity; 
+
+       (DD) Receipts
+from sales to a wholesaler in this state, if the seller receives certification
+at the time of sale from the wholesaler that the wholesaler will sell the
+purchased property outside this state; 
+
+       (EE) Receipts
+from the wholesale or retail sale of groceries, including receipts of a person
+that owns groceries at the time of sale and compensation of any consignee
+engaged in effecting the sale of groceries on behalf the owner of the
+groceries, but only to the extent that the compensation relates to grocery
+sales; 
+
+       (FF) Receipts
+from transactions among members of a unitary group; 
+
+       (GG) Moneys,
+including public purpose charge moneys collected under ORS 757.612 and moneys
+collected to plan for and pursue cost-effective energy efficiency resources
+under ORS 757.054, that are collected from customers, passed to a utility and
+approved by the Public Utility Commission and that support energy conservation,
+renewable resource acquisition and low-income assistance programs; 
+
+       (HH) Moneys
+collected by a utility from customers for the payment of loans through on-bill
+financing; 
+
+       (II) Surcharges
+collected under ORS 757.736; 
+
+       (JJ) Moneys
+passed to a utility by the Bonneville Power Administration for the purpose of
+effectuating the Regional Power Act Exchange credits or pursuant to any
+settlement associated with the exchange credit; 
+
+       (KK) Moneys
+collected or recovered, by entities listed in ORS 756.310, cable operators as
+defined in 47 U.S.C. 522(5), telecommunications carriers as defined in 47
+U.S.C. 153(51) and providers of information services as defined in 47 U.S.C.
+153(24), for fees payable under ORS 756.310, right-of-way fees, franchise fees,
+privilege taxes, federal taxes and local taxes; 
+
+       (LL) Charges
+assessed under ORS 759.685 and paid into the Residential Service Protection
+Fund; 
+
+       (MM) Universal
+service surcharge moneys collected or recovered and paid into the universal
+service fund established in ORS 759.425; 
+
+       (NN) Moneys
+collected for public purpose funding as described in ORS 759.430; 
+
+       (OO) Moneys
+collected or recovered and paid into the federal universal service fund as
+determined by the Federal Communications Commission; 
+
+       (PP) In the case
+of a seller or provider of telecommunications services, the amount of tax
+imposed under ORS 403.200 for access to the emergency communications system
+that is collected from subscribers or consumers; 
+
+       (QQ) In the case
+of a transient lodging tax collector, the amount of tax imposed under ORS
+320.305 and of any local transient lodging tax imposed upon the occupancy of
+transit lodging; 
+
+       (RR) In the case
+of a seller of bicycles, the amount of tax imposed under ORS 320.415 upon
+retail sales of bicycles; 
+
+       (SS) In the case
+of a qualified heavy equipment provider, the amount of tax imposed under ORS
+307.872 upon the rental price of heavy equipment; 
+
+       (TT) Farmer sales
+to an agricultural cooperative in this state that is a cooperative organization
+described in section 1381 of the Internal Revenue Code; 
+
+       (UU) Revenue
+received by a business entity that is mandated by contract or subcontract to be
+distributed to another person or entity if the revenue constitutes sales
+commissions that are paid to a person who is not an employee of the business
+entity, including, without limitation, a split-fee real estate commission; 
+
+       (VV) Receipts
+from the sale of fluid milk by dairy farmers that are not members of an
+agricultural cooperative; and 
+
+       (WW)(i) Cost paid
+by a dealer for items of precious metal. 
+
+       (ii) As used in
+this subparagraph, “item of precious metal” means an item of gold, silver,
+platinum, rhodium or palladium that has been put through a process of smelting
+or refining and that is in a state or condition that its value depends on its
+contents and not its form. 
+
+       (2) “Cost inputs”
+means: 
+
+       (a) The cost of
+goods sold as calculated in arriving at federal taxable income under the
+Internal Revenue Code; or 
+
+       (b) In the case
+of a taxpayer that is engaged in a farming operation, as defined in ORS
+317A.102, and that does not report cost of goods sold for federal tax purposes,
+the taxpayer’s operating expenses excluding labor costs. 
+
+       (3) “Doing
+business” means engaging in any activity, whether legal or illegal, that is
+conducted for, or results in, the receipt of commercial activity at any time
+during a calendar year. 
+
+       (4) “Excluded
+person” means any of the following: 
+
+       (a) Organizations
+described in sections 501(c) and 501(j) of the Internal Revenue Code, unless
+the exemption is denied under section 501(h), (i) or (m) or under section 502,
+503 or 505 of the Internal Revenue Code. 
+
+       (b) Organizations
+described in section 501(d) of the Internal Revenue Code, unless the exemption
+is denied under section 502 or 503 of the Internal Revenue Code. 
+
+       (c) Organizations
+described in section 501(e) of the Internal Revenue Code. 
+
+       (d) Organizations
+described in section 501(f) of the Internal Revenue Code. 
+
+       (e) Charitable
+risk pools described in section 501(n) of the Internal Revenue Code. 
+
+       (f) Organizations
+described in section 521 of the Internal Revenue Code. 
+
+       (g) Qualified
+state tuition programs described in section 529 of the Internal Revenue Code. 
+
+       (h) Foreign or
+alien insurance companies, but only with respect to the underwriting profit
+derived from writing wet marine and transportation insurance subject to tax
+under ORS 731.824 and 731.828 or if an insurance company is subject to the
+retaliatory tax under ORS 731.854 and 731.859. 
+
+       (i) Governmental
+entities. 
+
+       (j) Any person
+with commercial activity that does not exceed $750,000 for the tax year, other
+than a person that is part of a unitary group as provided in ORS 317A.106 with
+commercial activity in excess of $750,000. 
+
+       (k) Long term
+care facilities subject to assessment under ORS 409.801. 
+
+       (L) Manufactured
+dwelling park nonprofit cooperatives organized under ORS chapter 62. 
+
+       (5) “Financial
+institution” has the meaning given that term in ORS 314.610, except that “financial
+institution” does not include a credit union. 
+
+       (6)(a) “FR Y-9”
+means the consolidated or parent-only financial statements that a holding
+company is required to file with the Federal Reserve Board pursuant to 12
+U.S.C. 1844. 
+
+       (b) In the case
+of a holding company required to file both consolidated and parent-only
+financial statements, “FR Y-9” means the consolidated financial statements that
+the holding company is required to file. 
+
+       (7) “Governmental
+entity” means: 
+
+       (a) The United
+States and any of its unincorporated agencies and instrumentalities. 
+
+       (b) Any
+incorporated agency or instrumentality of the United States wholly owned by the
+United States or by a corporation wholly owned by the United States. 
+
+       (c) The State of
+Oregon and any of its unincorporated agencies and instrumentalities. 
+
+       (d) Any county,
+city, district or other political subdivision of the state. 
+
+       (e) A special
+government body as defined in ORS 174.117. 
+
+       (f) A federally
+recognized Indian tribe. 
+
+       (8) “Groceries”
+means food as defined in 7 U.S.C. 2012(k), but does not include cannabinoid
+edibles or marijuana seeds. 
+
+       (9)(a) “Hedging
+transaction” means a hedging transaction as defined in section 1221 of the
+Internal Revenue Code or a transaction accorded hedge accounting treatment
+under Financial Accounting Standards Board Statement No. 133. 
+
+       (b) “Hedging
+transaction” does not include a transaction in which an actual transfer of
+title of real or tangible property to another entity occurs. 
+
+       (10) “Insurer”
+has the meaning given that term in ORS 317.010. 
+
+       (11) “Internal
+Revenue Code,” except where the Legislative Assembly has provided otherwise,
+refers to the laws of the United States or to the Internal Revenue Code as they
+are amended and in effect on December 31, 2023. 
+
+       (12) “Labor costs”
+means total compensation of all employees, not to include compensation paid to
+any single employee in excess of $500,000. 
+
+       (13)(a) “Motor
+vehicle fuel or any other product used for the propulsion of motor vehicles”
+means: 
+
+       (A) Motor vehicle
+fuel as defined in ORS 319.010; and 
+
+       (B) Fuel the use
+of which in a motor vehicle is subject to taxation under ORS 319.530. 
+
+       (b) “Motor
+vehicle fuel or any other product used for the propulsion of motor vehicles”
+does not mean: 
+
+       (A) Electricity;
+or 
+
+       (B) Electric
+batteries or any other mechanical or physical component or accessory of a motor
+vehicle. 
+
+       (14) “Person”
+includes individuals, combinations of individuals of any form, receivers,
+assignees, trustees in bankruptcy, firms, companies, joint-stock companies,
+business trusts, estates, partnerships, limited liability partnerships, limited
+liability companies, associations, joint ventures, clubs, societies, entities
+organized as for-profit corporations under ORS chapter 60, C corporations, S
+corporations, qualified subchapter S subsidiaries, qualified subchapter S
+trusts, trusts, entities that are disregarded for federal income tax purposes
+and any other entities. 
+
+       (15) “Retailer”
+means a person doing business by selling tangible personal property to a
+purchaser for a purpose other than: 
+
+       (a) Resale by the
+purchaser of the property as tangible personal property in the regular course
+of business; 
+
+       (b) Incorporation
+by the purchaser of the property in the course of regular business as an
+ingredient or component of real or personal property; or 
+
+       (c) Consumption
+by the purchaser of the property in the production for sale of a new article of
+tangible personal property. 
+
+       (16) “Taxable
+commercial activity” means commercial activity sourced to this state under ORS
+317A.128, less any subtraction pursuant to ORS 317A.119. 
+
+       (17)(a) “Taxpayer”
+means any person or unitary group required to register, file or pay tax under
+ORS 317A.100 to 317A.158. 
+
+       (b) “Taxpayer”
+does not include excluded persons, except to the extent that a tax-exempt
+entity has unrelated business income as described in the Internal Revenue Code. 
+
+       (18) “Tax year”
+means, except as otherwise provided in ORS 317A.103, a taxpayer’s annual
+accounting period used for federal income tax purposes under section 441 of the
+Internal Revenue Code. 
+
+       (19)(a) “Unitary
+business” means a business enterprise in which there exists directly or
+indirectly between the members or parts of the enterprise a sharing or exchange
+of value as demonstrated by: 
+
+       (A) Centralized
+management or a common executive force; 
+
+       (B) Centralized
+administrative services or functions resulting in economies of scale; or 
+
+       (C) Flow of
+goods, capital resources or services demonstrating functional integration. 
+
+       (b) “Unitary
+business” may include a business enterprise the activities of which: 
+
+       (A) Are in the
+same general line of business, such as manufacturing, wholesaling or retailing;
+or 
+
+       (B) Constitute
+steps in a vertically integrated process, such as the steps involved in the
+production of natural resources, which might include exploration, mining,
+refining and marketing. 
+
+       (20) “Unitary
+group” means a group of persons with more than 50 percent common ownership,
+either direct or indirect, that is engaged in business activities that
+constitute a unitary business. 
+
+       (21) “Wholesaler”
+means a person primarily doing business by merchant distribution of tangible
+personal property to retailers or to other wholesalers. 
+
+   
+
+       317A.102
+Determination of commercial activity of taxpayer engaged in farming operation. (1) As used in this section: 
+
+       (a)(A) “Agricultural
+commodity” includes all agricultural, horticultural, viticultural and vegetable
+products produced in this state, including bees and honey. 
+
+       (B) “Agricultural
+commodity” does not include timber or timber products. 
+
+       (b) “Broker”
+means any person, other than a dealer, commission merchant or cash buyer, that
+negotiates the purchase or sale of any agricultural commodity but does not
+handle the agricultural commodity. 
+
+       (c) “Farming
+operation” means an entity doing business in a sector described under codes
+111, 112 or 115 of the North American Industry Classification System. 
+
+       (d) “Processor”
+means an entity doing business as a food processor, as defined in ORS 307.455,
+or as the operator of a custom processing establishment, as defined in ORS
+603.010, or otherwise engaged in the business of preparing an agricultural
+commodity for first sale. 
+
+       (2) A taxpayer
+that is engaged in a farming operation that sells agricultural commodities to a
+broker, processor or wholesaler may demonstrate the percentage of the taxpayer’s
+goods sold in this state compared to outside this state, for purposes of
+determining commercial activity, by: 
+
+       (a) Obtaining,
+from the broker, processor or wholesaler receiving an agricultural commodity
+from the taxpayer, a certificate that states the percentage; or 
+
+       (b) Using an
+industry average percentage, for sales of the agricultural commodity made the
+previous tax year, that is based on the most recent information from the United
+States Department of Agriculture National Agricultural Statistics Service and
+other sources of sales information. [2020 s.s.1 c.2 §6; 2023 c.397 §2] 
+
+   
+
+       317A.103
+Accounting methods. 
+(1) A taxpayer’s method of accounting for commercial activity, cost inputs and
+labor costs for a tax year shall be the same as the taxpayer’s method of
+accounting for federal income tax purposes for the taxpayer’s federal tax year
+that includes the tax year. If a taxpayer’s method of accounting for federal
+income tax purposes changes, the taxpayer’s method of accounting for commercial
+activity under ORS 317A.100 to 317A.158 shall be changed accordingly. 
+
+       (2) For a unitary
+group: 
+
+       (a) If all
+members of the unitary group use the same annual accounting period for federal
+income tax purposes, the unitary group’s tax year is the annual accounting
+period used by all members for federal income tax purposes under section 441 of
+the Internal Revenue Code. 
+
+       (b) If the
+unitary group includes members with different accounting periods and two or
+more members of the unitary group file a federal consolidated return, the
+unitary group’s tax year is the annual accounting period of the federal
+consolidated group under section 441 of the Internal Revenue Code. 
+
+       (c) In all other
+instances, the unitary group’s tax year is the accounting period used by the
+unitary group’s designated reporting entity, unless otherwise required or
+permitted under rules adopted by the Department of Revenue. 
+
+       (3) If a taxpayer
+changes the taxpayer’s tax year for federal income tax purposes under section
+441 of the Internal Revenue Code, the taxpayer shall notify the department of
+the change in the form, time and manner prescribed by the department. [2019
+c.122 §59; 2021 c.572 §5] 
+
+   
+
+       317A.106
+Unitary groups. 
+(1) A unitary group shall register, file and pay taxes under ORS 317A.100 to
+317A.158 as a single taxpayer and may exclude receipts from transactions among
+its members. 
+
+       (2) The unitary
+group shall designate a single member as reporting entity to register, file and
+pay taxes on behalf of the unitary group. The unitary group may change the
+reporting entity only when the entity no longer has substantial nexus with this
+state under ORS 317A.116, is no longer a member of the unitary group or as
+otherwise permitted or required by the Department of Revenue in rule, at which
+time the unitary group taxpayer shall designate another entity as the reporting
+entity. 
+
+       (3) The
+department may collect identifying information about all members of a unitary
+group and may require disclosure to the department, for each member, of the
+commercial activity in Oregon and in the United States. 
+
+       (4)
+Notwithstanding the provisions of ORS 317A.100 to 317A.158 applicable to
+unitary groups, unitary group taxpayers may elect to modify unitary group
+membership to exclude all foreign members with no commercial activity, or
+amounts realized but by definition excluded from commercial activity, that is
+sourced to Oregon. The department shall by rule adopt policies and procedures
+for elections made under this subsection, including: 
+
+       (a) The time and
+manner of making or terminating an election; 
+
+       (b) The allowed
+duration of an election; 
+
+       (c) The
+department’s discretion to disallow an election in whole or in part; 
+
+       (d) The
+withdrawal before filing of an election by a taxpayer; 
+
+       (e) The treatment
+of property of the unitary group that is transferred into this state; 
+
+       (f) Filing,
+payment of fees and registration governing the election; and 
+
+       (g) Any other
+policies and procedures that the department deems necessary for the
+administration and operation of an election allowed under this subsection. [2019
+c.122 §60; 2020 s.s.1 c.2 §2; 2021 c.572 §6] 
+
+   
+
+       317A.109
+Taxation of property transferred into state; rules. (1) Except as provided in
+subsection (2) of this section: 
+
+       (a) A person
+shall include as taxable commercial activity the value of property the person
+transfers into this state for the person’s own use in the course of a trade or
+business within one year after the person receives the property outside this
+state; and 
+
+       (b) In the case
+of a unitary group, the taxpayer shall include as taxable commercial activity
+the value of property that any of the taxpayer’s members transferred into this
+state for the use in the course of a trade or business by any of the taxpayer’s
+members within one year after the taxpayer receives the property outside this
+state. 
+
+       (2) Property
+brought into this state within one year after it is received outside this state
+by a person or unitary group described in subsection (1) of this section may
+not be included as taxable commercial activity as required under subsection (1)
+of this section if the person or unitary group can show or if the Department of
+Revenue ascertains that the property’s receipt outside this state by the person
+or unitary group followed by its transfer into this state within one year was
+not intended in whole or in part to avoid in whole or in part the tax imposed
+under ORS 317A.100 to 317A.158. 
+
+       (3) The
+department may adopt rules necessary to administer this section. [2019 c.122 §61;
+2019 c.579 §51] 
+
+   
+
+       317A.113 Joint
+and several liability. 
+All members of a unitary group during the tax year or periods for which
+additional tax, penalty or interest is owed are jointly and severally liable
+for such amounts. Although the reporting person shall be assessed for the
+liability, amounts due may be collected by assessment against any member of the
+unitary group or pursued against any member of the unitary group. [2019 c.122 §62] 
+
+   
+
+       317A.116
+Corporate activity tax imposed on commercial activity. (1) A corporate activity tax is
+imposed on each person with taxable commercial activity for the privilege of
+doing business in this state. The tax is imposed upon persons with substantial
+nexus with this state. The tax imposed under this section is not a
+transactional tax and is not subject to the Interstate Income Act of 1959 (P.L.
+86-272). The tax imposed under this section is in addition to any other taxes
+or fees imposed under the tax laws of this state. The tax imposed under this
+section is imposed on the person with the commercial activity and is not a tax
+imposed directly on a purchaser. The tax imposed under this section is an
+annual privilege tax for the tax year and shall be remitted quarterly to the
+Department of Revenue. A taxpayer is subject to the annual corporate activity
+tax for doing business during any portion of such tax year. 
+
+       (2) Returns and
+allowances, as those terms are applicable to section 448 of the Internal
+Revenue Code, are allowed as an offset against commercial activity in the tax
+year that the returns or allowances are made. 
+
+       (3) A person has
+substantial nexus with this state if any of the following applies. The person: 
+
+       (a) Owns or uses
+a part or all of its capital in this state. 
+
+       (b) Holds a
+certificate of existence or authorization issued by the Secretary of State
+authorizing the person to do business in this state. 
+
+       (c) Has
+bright-line presence in this state. 
+
+       (d) Otherwise has
+nexus with this state to an extent that the person can be required to remit the
+tax imposed under ORS 317A.100 to 317A.158 under the United States
+Constitution. 
+
+       (4) A person has
+bright-line presence in this state for the tax year if any of the following
+applies. The person: 
+
+       (a) Owns at any
+time during the tax year property in this state with an aggregate value of at
+least $50,000. For purposes of this paragraph, owned property is valued at
+original cost and rented property is valued at eight times the net annual
+rental charge. 
+
+       (b) Has during
+the tax year payroll in this state of at least $50,000. Payroll in this state
+includes the following: 
+
+       (A) Any amount
+subject to withholding by the person under ORS 316.167 and 316.172; 
+
+       (B) Any other
+amount the person pays as compensation to an individual under the supervision
+or control of the person for work done in this state; and 
+
+       (C) Any amount
+the person pays for services performed in this state on the person’s behalf by
+another. 
+
+       (c) Has during
+the tax year commercial activity, sourced to this state under ORS 317A.128, of
+at least $750,000. 
+
+       (d) Has at any
+time during the tax year within this state at least 25 percent of the person’s
+total property, total payroll or total commercial activity. 
+
+       (e) Is a resident
+of this state or is domiciled in this state for corporate, commercial or other
+business purposes. 
+
+       (5)
+Notwithstanding subsection (1) of this section, a vehicle dealer may collect
+from the purchaser of a motor vehicle the estimated portion of the tax imposed
+under this section that is attributable to commercial activity from the sale or
+lease of the vehicle. [2019 c.122 §63; 2019 c.579 §52; 2020 s.s.1 c.2 §3; 2021
+c.572 §4] 
+
+   
+
+       317A.119
+Subtraction. (1) A
+taxpayer shall subtract from commercial activity sourced to this state 35
+percent of the greater of the following amounts paid or incurred by the
+taxpayer in the tax year: 
+
+       (a) The amount of
+cost inputs; or 
+
+       (b) The taxpayer’s
+labor costs. 
+
+       (2) The amount in
+subsection (1)(a) or (b) of this section may not include: 
+
+       (a) Expenses from
+transactions among members of a unitary group, as excluded under ORS 317A.106; 
+
+       (b) Cost inputs
+or labor costs that are attributable to a taxpayer’s receipts from an item that
+is not commercial activity; or 
+
+       (c) Cost paid by
+a dealer for items of precious metal. 
+
+       (3) Any taxpayer
+having commercial activity both within and without this state shall apportion
+the amount of the subtraction in subsection (1) of this section, after
+providing for any exclusions in subsection (2) of this section, as follows: 
+
+       (a) As provided
+in ORS 314.650 and 314.665; 
+
+       (b) For taxpayers
+subject to alternative apportionment under ORS chapter 314, the required
+applicable apportionment method; or 
+
+       (c) As provided
+for by the Department of Revenue by rule. 
+
+       (4)
+Notwithstanding subsection (3) of this section, a unitary group with members
+subject to multiple apportionment methods under ORS chapter 314 shall apportion
+the amount of the subtraction in subsection (1) of this section, after
+providing for any exclusions, as provided by the department by rule. 
+
+       (5)
+Notwithstanding subsection (1) of this section, the subtraction under this
+section may not exceed 95 percent of the taxpayer’s commercial activity in this
+state. 
+
+       (6) A unitary
+group required to apportion the amount of the subtraction shall include all
+members of the unitary group for purposes of determining the group’s
+subtraction amount and apportionment ratio. [2019 c.122 §64; 2019 c.579 §53;
+2020 s.s.1 c.2 §4; 2021 c.572 §7; 2023 c.397 §3] 
+
+   
+
+       317A.122
+Exclusion for subcontracting payments. 
+An exclusion from taxable commercial activity shall be allowed for
+subcontracting payments for labor costs that are made by a general contractor,
+as defined in ORS 701.005, to a subcontractor, as defined in ORS 701.410,
+pursuant to a contract for residential real estate construction. The exclusion
+under this section: 
+
+       (1) Shall be
+allowed only for single-family residential construction located in Oregon; 
+
+       (2) Is not
+allowed for payment for materials, land or permits; 
+
+       (3) Is not
+allowed for payments between subcontractors; and 
+
+       (4) Shall be 15
+percent of payments for labor by the general contractor. [2019 c.579 §58] 
+
+   
+
+       Note: Section 59, chapter 579, Oregon
+Laws 2019, provides: 
+
+       Sec. 59. Section 58 of this 2019 Act
+[317A.122] applies to tax years beginning on or after January 1, 2020, and
+before January 1, 2026. [2019 c.579 §59] 
+
+   
+
+       317A.123
+Receipts from sale of prescription drugs excluded. (1) As used in this section: 
+
+       (a) “Eligible
+pharmacy” means a pharmacy that has nine or fewer locations under common
+ownership in this state. “Eligible pharmacy” does not include a pharmacy that
+caters primarily to veterinary customers. 
+
+       (b) “Pharmacy”
+has the meaning given that term in ORS 689.005. 
+
+       (2)
+Notwithstanding ORS 317A.100, amounts received by an eligible pharmacy in
+receipt for the sale of prescription drugs are excluded from the definition of
+commercial activity and are exempt from the tax imposed under ORS 317A.116. [2022
+c.82 §10] 
+
+   
+
+       Note: Section 16 (4), chapter 82, Oregon
+Laws 2022, provides: 
+
+       Sec. 16. (4) Section 10, chapter 82, Oregon
+Laws 2022 [317A.123], applies to tax years beginning on or after January 1,
+2022, and before January 1, 2026. [2022 c.82 §16(4); 2024 c.52 §5(4)] 
+
+   
+
+       317A.125 Rate
+of taxation; exemption amount. 
+(1) The corporate activity tax imposed under ORS 317A.116 for each tax year
+shall equal $250 plus the product of the taxpayer’s taxable commercial activity
+in excess of $1 million for the tax year multiplied by 0.57 percent. 
+
+       (2) A tax is not
+owed under this section if the person’s taxable commercial activity does not
+exceed $1 million. [2019 c.122 §65; 2021 c.572 §8] 
+
+   
+
+       317A.128
+Sourcing of commercial activity; rules. (1) For purposes of ORS 317A.100 to 317A.158,
+commercial activity shall be sourced to this state as follows: 
+
+       (a) In the case
+of the sale, rental, lease or license of real property, if and to the extent
+the property is located in this state. 
+
+       (b) In the case
+of the rental, lease or license of tangible personal property, if and to the
+extent the property is located in this state. 
+
+       (c) In the case
+of the sale of tangible personal property, if and to the extent the property is
+delivered to a purchaser in this state. 
+
+       (d) In the case
+of the sale of a service, if and to the extent the service is delivered to a
+location in this state. 
+
+       (e) In the case
+of the sale, rental, lease or license of intangible property, if and to the
+extent the property is used in this state. If the receipts are not based on the
+amount of use of the property, but rather on the right to use the property, and
+the payor has the right to use the property in this state, the receipts shall
+be sourced to this state to the extent the receipts are based on the right to
+use the property in this state. 
+
+       (f) In the case
+of a financial institution or an insurer, commercial activity not otherwise
+described in this section is sourced to this state if it is from business
+conducted in this state. 
+
+       (2) If the
+sourcing provisions of subsection (1) of this section do not fairly represent
+the extent of a person’s commercial activity attributable to this state, the
+person may request, or the Department of Revenue may require or permit, an
+alternative method. A request under this subsection by a person must be made
+within the statute of limitations applicable to ORS 317A.100 to 317A.158. 
+
+       (3) The
+department may adopt rules to provide additional guidance to the application of
+this section, and to provide alternative methods of sourcing commercial
+activity that apply to financial institutions and to insurers, and to any other
+persons, or a subset of persons, that are engaged in similar business or trade
+activities. [2019 c.122 §66; 2019 c.579 §54] 
+
+   
+
+       317A.131
+Registration; rules. 
+(1)(a) Any person or unitary group with commercial activity in excess of
+$750,000 in a tax year shall register with the Department of Revenue. 
+
+       (b) Except as
+provided in paragraph (c) of this subsection, a person or unitary group shall
+be required to register only once and shall register in the year in which the
+person or unitary group first exceeds $750,000 in commercial activity. 
+
+       (c) If a person
+or unitary group that has registered under this section subsequently undergoes
+a merger or other reorganization, the department may require the person or
+unitary group, or any successor, to register at a later date. 
+
+       (2) The
+department by rule may establish the information pertaining to the person or
+unitary group that must be submitted to the department accompanying the
+registration and the time and manner for issuance of registrations under this
+section. 
+
+       (3) The
+department may impose a penalty for failing to register as required under this
+section, not to exceed $100 per month that a person or unitary group has failed
+to register or a total of $1,000 in a tax year. The penalty under this
+subsection may be imposed not earlier than 30 days after the date on which the
+commercial activity of the person or unitary group exceeds $750,000 for the tax
+year. [2019 c.122 §68; 2020 s.s.1 c.2 §7; 2021 c.572 §9] 
+
+   
+
+       317A.134
+Records. Every
+person doing business in this state shall keep records, receipts, invoices and
+other pertinent papers related to the corporate activity tax imposed under ORS
+317A.116 in a form required by the Department of Revenue. [2019 c.122 §69] 
+
+   
+
+       317A.137
+Returns; payment; rules. 
+(1) For purposes of the corporate activity tax imposed under ORS 317A.116,
+every person doing business in this state with commercial activity for the tax
+year in excess of $1 million shall file an annual return not later than the
+15th day of the fourth month following the end of the tax year. If the 15th day
+of the fourth month falls on a Saturday, Sunday or legal holiday, including any
+legal holiday in the District of Columbia, the return is due on the next
+business day following the Saturday, Sunday or legal holiday. The return must
+be filed with the Department of Revenue in a form prescribed by the department. 
+
+       (2) The corporate
+activity tax imposed under ORS 317A.116 is due and estimated tax payments for
+the previous quarter are payable to the department on or before the last day of
+the 4th, 7th and 10th months of the tax year and of the first month immediately
+following the end of the tax year. 
+
+       (3) The
+department may by rule extend the time for making any return. If the time for
+filing a return is extended, interest on any unpaid tax at the rate established
+under ORS 305.220 from the time the return was originally required to be filed
+to the time of payment, shall be added and paid. [2019 c.122 §70; 2019 c.579 §56;
+2021 c.572 §10; 2022 c.82 §6; 2023 c.397 §4] 
+
+   
+
+       317A.140
+Accounting; installment payment; rules. (1) Subject to rules adopted by the Department of
+Revenue, the corporate activity tax imposed under ORS 317A.116 becomes payable
+in accordance with the system of accounting regularly employed by the taxpayer. 
+
+       (2) In the case
+of a lease, contract, sale or arrangement described in section 4216(c) of the
+Internal Revenue Code, rules similar to the rules of section 4217(e)(2) of the
+Internal Revenue Code shall apply for purposes of the corporate activity tax. 
+
+       (3) A person is
+entitled to a credit or refund for taxes previously paid on debts that are
+deductible under section 166 of the Internal Revenue Code. [2019 c.122 §71] 
+
+   
+
+       317A.143
+Rules; uniformity. 
+The Department of Revenue is authorized to and shall adopt rules requiring
+uniformity in application, reporting and collection and otherwise carrying out
+the purposes of ORS 317A.100 to 317A.158. [2019 c.122 §72] 
+
+   
+
+       317A.146
+Quitting business; successor. 
+(1) For purposes of ORS 317A.100 to 317A.158, “successor” means any person to
+whom another person quitting, selling out, exchanging or disposing of a
+business sells or otherwise conveys, directly or indirectly, in bulk and not in
+the ordinary course of business, a major part of the materials, supplies,
+merchandise, inventory, fixtures or equipment of the person. Any person
+obligated to fulfill the terms of a contract shall be considered a successor to
+any contractor defaulting in the performance of any contract as to which the
+person is a surety or guarantor. 
+
+       (2) If any person
+quits business or sells out, exchanges or otherwise disposes of a business or
+stock of goods, any corporate activity tax imposed under ORS 317A.116 is
+payable on the 15th day of the fourth month following the end of the tax year. 
+
+       (3)
+Notwithstanding ORS 314.835, the successor is liable for the full amount of the
+tax and may withhold from the purchase price a sum sufficient to pay any tax
+due until a receipt or evidence from the Department of Revenue showing payment
+in full of any tax due is presented to the successor. If a receipt or other
+evidence is not presented to the successor within 45 days, the successor may
+pay the tax and the amount paid shall, to the extent paid, be considered a
+payment of the purchase price. If the tax paid by the successor is greater than
+the purchase price, the amount of the difference is a debt due to the successor
+from the seller or transferor. 
+
+       (4) A successor
+is not liable for any tax due from the person from whom the successor has
+acquired a business or stock of goods if the successor gives written notice to
+the department of the acquisition and the department does not assess a
+deficiency against the seller or transferor within 18 months of receipt of the
+notice of acquisition and mail or deliver a copy of the assessment to the
+successor. [2019 c.122 §73; 2021 c.572 §11] 
+
+   
+
+       317A.149
+Applicability of other provisions of tax law. Except as otherwise provided in ORS 317A.100 to
+317A.158 or where the context requires otherwise: 
+
+       (1) The
+provisions of ORS chapters 305 and 314 as to the audit and examination of
+returns, periods of limitation, determination of and notices of deficiencies,
+assessments, collections, liens, delinquencies, claims for refund and refunds,
+conferences, appeals to the Oregon Tax Court, stays of collection pending
+appeal, confidentiality of returns and the penalties relative thereto, and the
+procedures relating thereto, apply to the determinations of taxes, penalties
+and interest under ORS 317A.100 to 317A.158. 
+
+       (2) Any term that
+is not defined in ORS 317A.100 shall have the meaning given that term for the
+purposes of ORS chapter 305, 314, 316 or 317. [2019 c.122 §74] 
+
+   
+
+       317A.152
+Payments to Department of Revenue. 
+For purposes of ORS 317A.100 to 317A.158, and except as otherwise provided by
+law, all taxes, interest and penalties imposed and all amounts of corporate
+activity tax collected or required to be paid to the state shall be paid to the
+Department of Revenue and upon receipt by the department shall be turned over
+to the State Treasurer, to be disbursed as provided in ORS 317A.155. [2019
+c.122 §75] 
+
+   
+
+       317A.155
+Suspense account; payment of refunds; disposition of net revenue. (1) Except as otherwise provided
+by law, all moneys received by the Department of Revenue under ORS 317A.100 to
+317A.158 shall be deposited in the State Treasury and credited to a suspense
+account established under ORS 293.445 separate and distinct from the General
+Fund. The department may pay expenses for the administration, collection and
+enforcement of the tax imposed under ORS 317A.100 to 317A.158 out of moneys
+received from the corporate activity tax imposed under ORS 317A.116. Refunds,
+including refunds of erroneous overpayments or refunds of other moneys received
+in which the department has no legal interest, shall be paid out of the
+suspense account. 
+
+       (2) After payment
+of refunds, the net revenue shall be transferred to the Fund for Student
+Success established under ORS 327.001. A working balance of unreceipted revenue
+from the tax imposed under ORS 317A.100 to 317A.158 may be retained by the
+department for the payment of refunds, but such working balance may not at the
+close of any fiscal year exceed the amount of $500,000. 
+
+       (3) There are
+continuously appropriated to the department amounts necessary to pay the
+administrative expenses of the department in administering, collecting and
+enforcing the corporate activity tax imposed under ORS 317A.116. [2019 c.122 §76] 
+
+   
+
+       317A.158 Local
+taxes preempted. 
+(1) Except as expressly authorized by this section, the authority to impose, in
+this state, a tax upon the commercial activity of an entity is vested solely in
+the Legislative Assembly. A city, county, district or other political
+subdivision or municipal corporation of this state may not impose, by ordinance
+or other law, a tax upon commercial activity or upon receipts from grocery
+sales. 
+
+       (2) Subsection
+(1) of this section does not apply: 
+
+       (a) To any tax,
+or to subsequent amendments of the provisions of any tax, if the ordinance or
+other law imposing the tax is in effect and operative on April 1, 2019, or is
+adopted by initiative or referendum petition at an election held prior to March
+1, 2019; or 
+
+       (b) To the
+imposition of privilege taxes not measured by commercial activity, franchise
+fees or right-of-way fees. [2019 c.122 §67; 2019 c.579 §55] 
+
+   
+
+       317A.161
+Interest and penalties. 
+A taxpayer shall pay at least 90 percent of the balance due for any quarter or
+the Department of Revenue may impose, for any quarter that this threshold is
+not met, a penalty of five percent of the underpayment amount, except that the
+department may not impose a penalty under this subsection for any quarter for
+which the taxpayer has paid an amount at least equal to the taxpayer’s required
+installment for the corresponding quarter of the preceding tax year. [2019
+c.122 §77; 2020 s.s.1 c.2 §§9,10; 2021 c.572 §§12,13] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

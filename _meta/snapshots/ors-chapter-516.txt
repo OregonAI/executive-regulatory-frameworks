@@ -1,0 +1,667 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ TITLE 43 
+
+ MINERAL RESOURCES 
+
+   
+
+ Chapter     516.     Department of
+Geology and Mineral Industries 
+
+                   517.     Mining
+and Mining Claims 
+
+                   520.     Conservation
+of Gas and Oil 
+
+                   522.     Geothermal
+Resources 
+
+                   523.     Geothermal
+Heating Districts 
+
+ _______________ 
+
+   
+
+ Chapter
+516 — Department of Geology and Mineral Industries 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ DEPARTMENT OF GEOLOGY AND MINERAL
+INDUSTRIES 
+
+   
+
+ MINERAL RESOURCES 
+
+   
+
+ 516.010     Definitions 
+
+   
+
+ 516.020     Creation of department 
+
+   
+
+ 516.030     Duties of department 
+
+   
+
+ 516.035     Powers of department 
+
+   
+
+ 516.061     Department surcharge to
+fund electronic permitting system; reduction 
+
+   
+
+ 516.070     Geology and Mineral
+Industries Account; subaccounts; sources; uses 
+
+   
+
+ 516.080     Governing board;
+members; term; confirmation; meetings; compensation and expenses; quorum 
+
+   
+
+ 516.090     General duties and
+powers of board; rules 
+
+   
+
+ 516.100     Reports and
+publications of department 
+
+   
+
+ 516.120     State Geologist;
+appointment; qualifications 
+
+   
+
+ 516.130     Duties of State
+Geologist; bond; employment of personnel; report to board 
+
+   
+
+ 516.133     Prohibited activities;
+conflicts of interest 
+
+   
+
+ 516.135     Avoidance of ground
+water resource contamination; department actions 
+
+   
+
+       516.010
+Definitions. As
+used in this chapter: 
+
+       (1) “Board” means
+the governing board of the State Department of Geology and Mineral Industries
+established pursuant to ORS 516.080. 
+
+       (2) “Department”
+means the State Department of Geology and Mineral Industries established
+pursuant to ORS 516.020. 
+
+       (3) “Mine”
+includes all mineral-bearing properties of whatever kind and character, whether
+underground, quarry, pit, well, spring or other source from which any mineral
+substance is obtained. 
+
+       (4) “Mineral”
+includes any and all mineral products, metallic and nonmetallic, solid, liquid
+or gaseous, and mineral waters of all kinds. 
+
+       (5) “Mineral
+industries” includes all enterprises engaged in developing and exploiting the
+natural substances of the earth. 
+
+       (6) “Geologic
+hazard” means a geologic condition that is a potential danger to life and
+property which includes but is not limited to earthquake, landslide, flooding,
+erosion, expansive soil, fault displacement, volcanic eruption and subsidence. 
+
+       (7) “Geology”
+means the study of the earth, and in particular the study of the origin,
+history and topographic form of rocks, ores and minerals, either under the
+ground or upon the surface, and their alteration by surface agencies, such as
+wind, water, ice and other agencies, and the economics of their use. [Amended
+by 1989 c.954 §1; 1993 c.260 §1] 
+
+   
+
+       516.020
+Creation of department. 
+There is created a State Department of Geology and Mineral Industries. 
+
+   
+
+       516.030 Duties
+of department. The
+State Department of Geology and Mineral Industries shall: 
+
+       (1) Initiate and
+conduct studies and surveys of the geological and mineral resources of the
+state and their commercial utility. 
+
+       (2) Conduct as a
+continuing project a geological survey of Oregon, including quadrangle geologic
+mapping, either as a department undertaking or jointly with federal or other
+agencies. 
+
+       (3) Initiate,
+carry out or administer studies and programs that will, in cooperation with
+universities, federal, state and local government agencies, reduce the loss of
+life and property by understanding and mitigating geologic hazards. These
+studies and programs may include but need not be limited to: 
+
+       (a) Statewide
+hazard assessment, including identification and mapping of geologic hazards,
+estimation of their potential consequences and likelihood of occurrence and
+monitoring and assessment of potentially hazardous geologic activity; 
+
+       (b) Studies of
+paleoseismicity including but not limited to providing evidence of whether
+prehistoric subduction zone and crustal earthquakes have occurred in Oregon; 
+
+       (c) Operation of
+a state seismic network in cooperation with universities or federal agencies or
+both through the strategic placement of instrumentation to monitor earthquake
+activity as it occurs; and 
+
+       (d) Operation of
+a state geodetic network through the monitoring and periodic survey of markers
+in order to detect modern deformation of the earth’s crust and the subsequent
+buildup of stress. 
+
+       (4) Consider and
+study kindred scientific and economic questions in the field of geology and
+mining that are deemed of value to the people of Oregon. 
+
+       (5) Cooperate
+with federal or other agencies for the performance of work in Oregon deemed of
+value to the state and of advantage to its people, under rules, terms and
+conditions to be arranged between the governing board of the State Department
+of Geology and Mineral Industries and such agencies. But in no case shall the
+cost to the department be in excess of the amount appropriated therefor, and
+the results of any joint undertakings shall be made available without
+restrictions to this department. 
+
+       (6) Serve as a
+bureau of information and advisory services concerning geologic resources and
+hazards, including: 
+
+       (a) Maintaining a
+library, a public education program and a geologic database; 
+
+       (b) Maintaining a
+website that identifies the seismic risk category, as determined under an
+assessment process approved by the department, for every public kindergarten
+through grade 12 school and that is updated when the department makes a new
+assessment or becomes aware of information that could change the conclusions of
+a previous assessment; 
+
+       (c) Providing a
+review of functions; 
+
+       (d) Providing
+expert advice to federal, state and local government agencies; 
+
+       (e) Operating as
+a clearinghouse for post-hazard event earth science investigations; and 
+
+       (f) Providing
+technical assistance to local governments on aggregate mining and reclamation
+during preparation and amendment of comprehensive plans and land use
+regulations. 
+
+       (7) Serve as a
+bureau of information concerning Oregon mineral resources, mineral industries
+and geology, conduct a mineral survey of the state, and catalog each and every
+mineral occurrence and deposit, metallic and nonmetallic, together with its
+location, production, method of working, name of owner or agent, and other
+detailed information capable of being tabulated and published in composite form
+for the use, guidance and benefit of the mineral industry of the state and of
+the people in general and deemed necessary in compiling mineral statistics of
+the state. 
+
+       (8) Collect a
+library of literature describing the geology and mineral deposits, metallic and
+nonmetallic, of Oregon. 
+
+       (9) Make
+qualitative examinations of rocks, mineral samples and specimens. 
+
+       (10) Study
+minerals and ores, additional uses for the state’s minerals, and explore the
+possibilities for using improved treatment, processes, mining methods and
+reclamation techniques for regulated mines and abandoned mined lands. 
+
+       (11) Establish in
+the department or in cooperation with universities and other organizations a
+repository for drill cores and samples considered by the department to be of
+long term use in developing information. [Amended by 1989 c.954 §2; 1991 c.243 §3;
+1993 c.260 §2; 2001 c.104 §225; 2012 c.61 §1] 
+
+   
+
+       516.035 Powers
+of department. The
+State Department of Geology and Mineral Industries may: 
+
+       (1) Make or have
+made qualitative and quantitative determinations of ores and minerals that are
+submitted for such purpose and that are from within the State of Oregon. The
+department shall mail to the sender of such ores or minerals the results of
+such determination as soon as practicable after making such determination. Such
+services shall be performed by the department at the request of a member of the
+general public at a reasonable charge. 
+
+       (2) Perform
+geological surveys or analyses at the request of any state agency if department
+funding allows undertaking such surveys or analyses and may make reasonable
+charges for these services. 
+
+       (3) Collect and
+exhibit specimens, samples and photographs, models and drawings of appliances
+in the mines, mills and metallurgical plants of Oregon. 
+
+       (4) Enter into
+contracts or agreements with the federal government or any agency thereof,
+pursuant to which the department shall operate or act as the agent of the
+federal government in the operation of a mineral assay service or similar
+analytical service, the cost of which is to be reimbursed by the federal
+government. 
+
+       (5) Establish,
+equip and operate a geochemical laboratory which may: 
+
+       (a) Make
+geochemical determinations at the request of any department, institution or
+other agency of the state, without any charge in excess of the actual cost
+thereof. 
+
+       (b) Make other
+geochemical determinations at a reasonable charge in excess of the actual cost
+thereof. 
+
+       (6) Enter into
+contracts or agreements with a person, a public body as defined in ORS 174.109
+or the federal government or an agency thereof, pursuant to which the
+department performs geoscientific surveys or analyses. [1971 c.441 §4; 1973
+c.180 §1; 1993 c.260 §3; 2011 c.72 §1] 
+
+   
+
+       516.040 [Repealed by 1971 c.441 §6] 
+
+   
+
+       516.045 [Repealed by 1993 c.260 §12] 
+
+   
+
+       516.050 [Repealed by 1993 c.260 §12] 
+
+   
+
+       516.060 [Repealed by 1993 c.260 §12] 
+
+   
+
+       516.061
+Department surcharge to fund electronic permitting system; reduction. (1) The State Department of
+Geology and Mineral Industries may impose and collect a surcharge as a
+percentage of each invoice generated by the department’s electronic permitting
+system. The surcharge percentage rate is 10.7 percent. 
+
+       (2)(a)
+Notwithstanding subsection (1) of this section, the department may reduce the
+surcharge percentage rate under subsection (1) of this section to a rate that
+the department determines will be sufficient to cover the anticipated expenses
+of the Electronic Permitting System Subaccount under ORS 516.070 (5) during the
+next biennium and to maintain an adequate operational reserve in the
+subaccount. 
+
+       (b) The
+department shall implement a reduced rate, if any, by issuing an order on or
+before January 1 of the odd-numbered year that sets forth the reduced rate for
+the next biennium. 
+
+       (c) The
+department shall notify all persons with an active account within the
+electronic permitting system of the reduced rate, if any. 
+
+       (d) Unless
+extended by a subsequent order under this subsection, the reduced rate expires
+at the end of the biennium, after which the department shall charge the
+surcharge percentage rate as described in subsection (1) of this section. 
+
+       (3) Surcharge
+moneys collected by the department under this section shall be deposited into
+the same fund or account as the fee or invoice payment associated with the
+surcharge. The department shall periodically transfer all surcharge moneys
+collected by the department under this section into the Electronic Permitting
+System Subaccount established under ORS 516.070 (5). [2023 c.274 §2] 
+
+   
+
+       Note: 516.061 was added to and made a
+part of ORS chapter 516 by legislative action but was not added to any smaller
+series therein. See Preface to Oregon Revised Statutes for further explanation. 
+
+   
+
+       516.070
+Geology and Mineral Industries Account; subaccounts; sources; uses. (1) There is established in the
+General Fund of the State Treasury an account to be known as the Geology and
+Mineral Industries Account. All moneys received by the State Department of
+Geology and Mineral Industries shall be paid over to the State Treasurer and by
+the State Treasurer deposited in the General Fund to the credit of the account.
+All moneys within the account are continuously appropriated for the use of the
+department in carrying out its lawful functions. 
+
+       (2) The Federal
+Locatable Mineral Royalties Subaccount is established within the Geology and
+Mineral Industries Account. Notwithstanding subsection (1) of this section, all
+moneys received from the federal government by the State of Oregon as the state’s
+distributive share of the amounts collected for royalties for locatable
+minerals shall be credited to the subaccount. All moneys in the Federal
+Locatable Mineral Royalties Subaccount are continuously appropriated to the
+State Department of Geology and Mineral Industries to conduct investigations of
+new mineral resources and to carry out the provisions of ORS 517.840 (6). 
+
+       (3) The State
+Treasurer may invest and reinvest the moneys in the Federal Locatable Mineral
+Royalties Subaccount as provided in ORS 293.701 to 293.857. Interest from the
+moneys deposited in the subaccount and earnings from investment of the moneys
+in the subaccount shall be credited to the subaccount. 
+
+       (4) The Mined
+Land Regulation and Reclamation Program Subaccount is established within the
+Geology and Mineral Industries Account. Notwithstanding subsection (1) of this
+section, all moneys received by the State Department of Geology and Mineral
+Industries from fees assessed pursuant to ORS 517.800 shall be credited to the
+subaccount. All moneys in the subaccount are continuously appropriated to the
+department for the purpose of administering ORS 517.702 to 517.951. 
+
+       (5) The
+Electronic Permitting System Subaccount is established within the Geology and
+Mineral Industries Account. Notwithstanding subsection (1) of this section,
+moneys received by the State Department of Geology and Mineral Industries under
+ORS 516.061 shall be credited to the subaccount. Moneys in the subaccount are
+continuously appropriated to the department for the costs of maintaining the
+department’s electronic permitting system, that allows the department to
+electronically issue permits and receive applications and fees under this
+chapter and ORS chapters 517, 520 and 522. Costs of maintaining the system
+include the costs of hosting, operating, repairing, upgrading, staffing and
+administering the system. [Amended by 1957 c.233 §1; 1961 c.671 §14; 1971 c.441
+§5; 1993 c.260 §4; 1995 c.509 §1; 2005 c.650 §2; 2013 c.371 §35; 2023 c.274 §3] 
+
+   
+
+       516.080
+Governing board; members; term; confirmation; meetings; compensation and
+expenses; quorum. 
+(1) The State Department of Geology and Mineral Industries shall be
+administered by a governing board composed of five citizens of Oregon appointed
+by the Governor. 
+
+       (2)(a) The term
+of office of each member is four years, but a member serves at the pleasure of
+the Governor. Before the expiration of the term of a member, the Governor shall
+appoint a successor. A member is eligible for reappointment. If there is a vacancy
+for any cause, the Governor shall make an appointment to become immediately
+effective for the unexpired term. The term of a board member shall continue
+until a successor has been appointed and confirmed. 
+
+       (b) All
+appointments shall be made subject to approval by the Senate in the manner
+provided in ORS 171.562 and 171.565. 
+
+       (3) The board
+shall hold meetings four times each year and special meetings may be called by
+the chairperson or by a majority of the board. 
+
+       (4) Each member
+of the board is entitled to compensation and expenses as provided in ORS
+292.495. 
+
+       (5) A majority of
+the members of the board constitutes a quorum for the transaction of business. 
+
+       (6) The members
+of the State Department of Geology and Mineral Industries governing board must
+be citizens of this state. The members chosen shall, to the greatest extent
+possible, represent all geographic regions of the state. [Amended by 1961 c.167
+§42; 1969 c.314 §61; 1969 c.695 §11; 1983 c.740 §204a; 1993 c.260 §5; 2001 c.75
+§1] 
+
+   
+
+       516.090
+General duties and powers of board; rules. (1) The governing board of the State Department of
+Geology and Mineral Industries shall: 
+
+       (a) Direct and
+review the performance of the State Geologist and the State Department of
+Geology and Mineral Industries in carrying out its duties and responsibilities
+pursuant to this chapter and ORS chapters 517, 520 and 522. 
+
+       (b) Carry out the
+policies set forth in this chapter and ORS chapters 517, 520 and 522. 
+
+       (c) Establish
+policies and approve plans that lead to an understanding of geology and mineral
+resources of the state, geologic processes and hazards and scientific, economic
+and tourism issues relating to geology and mineral industries. 
+
+       (d) At the
+discretion of the board, accept from the United States or any of its agencies
+such funds as may be made available to this state for any of the purposes
+contemplated by this chapter, and shall enter into such contracts and
+agreements with the United States or any of its agencies or with Oregon or any
+of its agencies as may be necessary, proper and convenient, and not contrary to
+the laws of this state. 
+
+       (e) Review and
+approve budget requests of the department. 
+
+       (f) In accordance
+with applicable provisions of ORS chapter 183, adopt rules establishing
+criteria and procedures by which the department may enter into contracts or
+agreements pursuant to ORS 516.035 (6), including but not limited to criteria
+and procedures that ensure protection of the public interest and advance the
+duties of the department as described in ORS 516.030. 
+
+       (2) The board
+may: 
+
+       (a) In accordance
+with applicable provisions of ORS chapter 183, adopt rules necessary for the
+administration of the laws that the board is charged with administering. 
+
+       (b) Receive on
+behalf of this state, for the use and benefit of the department, gifts, devises
+and legacies of real or other property, and use them in accordance with the
+wishes of the donors, or, in the absence of specific instructions by the
+donors, manage, use and dispose of the gifts and legacies as may be deemed by
+the board for the best interest of the state. [Amended by 1993 c.260 §6; 2011
+c.72 §2] 
+
+   
+
+       516.100
+Reports and publications of department. (1) The State Department of Geology and Mineral
+Industries shall have prepared, printed and published reports, pamphlets,
+charts and maps, embracing the matters addressed in ORS 516.030 and ORS
+chapters 517, 520 and 522. All maps, charts, special bulletins and other
+publications shall be for public distribution, but the department may make a
+reasonable charge to cover publication and distribution costs. 
+
+       (2)(a) When a
+report embodies results of surveys or studies of economic importance, no
+information of any kind concerning the contents of such report shall be given
+out prior to publication, if such prior information could place the recipient
+in a preferential position as regards its use. 
+
+       (b)
+Notwithstanding the provisions of paragraph (a) of this subsection, if an
+investigation of a mineral property or geologic hazard within the state is made
+by an employee of the department at the request of either the owner or a person
+in control of such property, results of the investigation shall be conveyed to
+the owner or person in control prior to the publication of a report of such
+results. After they have been conveyed to the owner or person, the results
+shall be open to public inspection prior to their publication. [Amended by 1975
+c.605 §26; 1993 c.260 §7; 2005 c.22 §373] 
+
+   
+
+       516.110 [Repealed by 1993 c.260 §12] 
+
+   
+
+       516.120 State
+Geologist; appointment; qualifications. (1) The position of State Geologist within the State
+Department of Geology and Mineral Industries is created. In consultation with
+the Governor, the governing board of the State Department of Geology and
+Mineral Industries shall appoint the State Geologist. 
+
+       (2) The State
+Geologist shall be qualified to perform as well as to direct the technical and
+executive work of the department as determined by the board and shall be a
+geologist, engineer or other technical specialist with a broad background of
+practical experience related to programs of the department. [Amended by 1963
+c.192 §1; 1983 c.740 §205; 1993 c.260 §8] 
+
+   
+
+       516.130 Duties
+of State Geologist; bond; employment of personnel; report to board. (1) The State Geologist shall be
+covered by a bond as set forth in ORS 291.011. 
+
+       (2) The State
+Geologist may employ qualified persons subject to any applicable provisions of
+the State Personnel Relations Law. 
+
+       (3) The State
+Geologist shall report to the governing board of the State Department of
+Geology and Mineral Industries as requested by the board concerning the
+administration of the State Department of Geology and Mineral Industries. 
+
+       (4) The State
+Geologist shall make every effort to complete promptly for publication all
+notes, charts and maps covering mineral and geological investigations of the
+department, so that public distribution of same may take place as closely as
+possible after the completion of field investigations. 
+
+       (5) The State
+Geologist shall have charge of, organize and supervise the work of the
+department and perform such other duties as may be necessary to carry out the
+work of the department. [Amended by 1991 c.331 §74; 1993 c.260 §9] 
+
+   
+
+       516.133
+Prohibited activities; conflicts of interest. (1) No member of the staff of the State Department of
+Geology and Mineral Industries shall hold a direct pecuniary interest in or
+accept compensation from an industry regulated by the department. 
+
+       (2) No member of
+the staff of the department shall: 
+
+       (a) Hold a direct
+pecuniary interest in or accept compensation from any producing or prospective
+mineral operation of any kind of any entity that does business in this state. 
+
+       (b) Act as agent
+or broker for any purchaser, owner, or an agent of a purchaser or owner, of any
+mineral interest. 
+
+       (c) Accept a
+commission for any service rendered during the period of employment with the
+department, if such service is concerned with mining, geology or any mineral
+industry that does business in this state. 
+
+       (d) Make any
+investigation or report of any individual property in this state for purposes
+of evaluation, except as provided in ORS 516.100. 
+
+       (3) For purposes
+of this section: 
+
+       (a) “Direct
+pecuniary interest” means a mining claim, stock, royalty interest, partnership,
+joint venture or other interest over which the employee may control acquisition
+or disposal of the interest. 
+
+       (b) “Direct
+pecuniary interest” does not mean an interest in a mutual fund, retirement fund
+or other interest described in subsection (1) or (2) of this section over which
+the employee may not control acquisition or disposal. 
+
+       (4) The
+provisions of this section are in addition to and not in lieu of the provisions
+of ORS chapter 244. [1993 c.260 §11] 
+
+   
+
+       516.135
+Avoidance of ground water resource contamination; department actions. (1) In carrying out its duties
+related to mineral resources, mineral industries and geology, the State
+Department of Geology and Mineral Industries shall act in a manner that is
+consistent with the goal set forth in ORS 468B.155. 
+
+       (2) In order to
+assist in the development of a statewide repository of information about Oregon’s
+ground water resource, the department shall provide any information, acquired
+by the department in carrying out its statutory duties, that is related to
+ground water quality to the centralized repository established pursuant to ORS
+468B.167. [1989 c.833 §46] 
+
+   
+
+       516.140 [Repealed by 1957 c.233 §2] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

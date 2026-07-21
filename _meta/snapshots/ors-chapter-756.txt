@@ -1,0 +1,1969 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+756 — Public Utility Commission 
+
+   
+
+ TITLE 57 
+
+ UTILITY REGULATION 
+
+   
+
+ Chapter     756.     Public Utility
+Commission 
+
+                   757.     Utility
+Regulation Generally 
+
+                   758.     Utility
+Rights of Way and Territory Allocation; Cogeneration 
+
+                   759.     Telecommunications
+Utility Regulation 
+
+                   772.     Rights
+of Way for Public Uses 
+
+                   774.     Citizens’
+Utility Board 
+
+ _______________ 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ PUBLIC UTILITY COMMISSION 
+
+   
+
+ UTILITY REGULATION 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 756.010     Definitions 
+
+   
+
+ COMMISSION POWERS AND DUTIES 
+
+   
+
+ (Generally) 
+
+   
+
+ 756.014     Public Utility
+Commission; appointment; confirmation; term; removal 
+
+   
+
+ 756.016     Quorum; seal;
+individual commissioner authorized to act for commission 
+
+   
+
+ 756.022     Oath of office 
+
+   
+
+ 756.026     Prohibited interests of
+commissioner and family 
+
+   
+
+ 756.028     Employee statements
+regarding prohibited interests 
+
+   
+
+ 756.032     Employee dismissal for
+retention of prohibited interests or failure to file statements 
+
+   
+
+ 756.034     Intent of prohibited
+interest provisions 
+
+   
+
+ 756.036     Duties and functions 
+
+   
+
+ 756.037     Commission authority to
+provide assistance, information, resources and advice to Legislative Assembly 
+
+   
+
+ 756.040     General powers 
+
+   
+
+ 756.045     Employing legal counsel 
+
+   
+
+ 756.047     Authority of commission
+to require fingerprints 
+
+   
+
+ 756.050     Office, office supplies
+and sessions of commission 
+
+   
+
+ 756.055     Delegation of authority 
+
+   
+
+ 756.060     Authority to adopt
+rules and regulations 
+
+   
+
+ 756.062     Substantial compliance
+with laws adequate for commission activities; construction of laws generally 
+
+   
+
+ 756.068     Service of notice or
+other legal process 
+
+   
+
+ (Investigatory Powers) 
+
+   
+
+ 756.070     Investigating
+management of utilities 
+
+   
+
+ 756.075     Right of entry for
+examination of equipment, records or employees; use of findings 
+
+   
+
+ 756.090     Maintaining and
+producing records; expenses of examining out-of-state records 
+
+   
+
+ 756.105     Duty to furnish
+information to commission 
+
+   
+
+ 756.115     Failure to furnish
+requested information 
+
+   
+
+ 756.125     Interference with
+commission equipment 
+
+   
+
+ ENFORCEMENT AND REMEDIES 
+
+   
+
+ 756.160     Enforcement of statutes
+and ordinances relating to utilities 
+
+   
+
+ 756.180     Enforcing utility laws 
+
+   
+
+ 756.185     Right to recover for
+wrongs and omissions; treble damages 
+
+   
+
+ 756.200     Effect of utility laws
+on common law and other statutory rights of action, duties and liabilities 
+
+   
+
+ FUNDS AND FEES 
+
+   
+
+ 756.305     Public Utility
+Commission Account 
+
+   
+
+ 756.310     Annual fees payable by
+utilities and telecommunications providers 
+
+   
+
+ 756.320     Statements accompanying
+fees; audit and refunding by commission 
+
+   
+
+ 756.325     Distribution of
+information filed with commission; fees; rules 
+
+   
+
+ 756.350     Penalty for failure to
+pay fees; action to collect unpaid fees and penalties 
+
+   
+
+ 756.360     Disposal and use of
+fees and penalties collected 
+
+   
+
+ DECLARATORY RULINGS 
+
+   
+
+ 756.450     Declaratory rulings 
+
+   
+
+ COMPLAINT AND INVESTIGATION
+PROCEDURE 
+
+   
+
+ 756.500     Complaint; persons
+entitled to file; contents; amendments 
+
+   
+
+ 756.512     Notice of complaint to
+defendant; responsive pleadings; setting cause for hearing 
+
+   
+
+ 756.515     Investigations and
+hearings on commission’s own motion; hearings for aggrieved persons 
+
+   
+
+ HEARING PROCEDURE 
+
+   
+
+ 756.518     Procedures applicable
+to all matters before commission; oral hearing; rules 
+
+   
+
+ 756.521     Public hearings; record
+required; furnishing transcripts 
+
+   
+
+ 756.525     Parties to proceedings 
+
+   
+
+ 756.528     Segregation of issues 
+
+   
+
+ 756.534     Place of hearings;
+continuation 
+
+   
+
+ 756.538     Taking and use of
+depositions; rules 
+
+   
+
+ 756.543     Issuance of subpoenas;
+failure to comply 
+
+   
+
+ 756.549     Self-incrimination of
+witnesses in commission proceedings 
+
+   
+
+ 756.552     Self-incrimination of
+witnesses in court proceedings 
+
+   
+
+ 756.555     Powers of commission at
+hearings 
+
+   
+
+ 756.558     Taking of evidence;
+findings; issuance of orders; providing copies of orders 
+
+   
+
+ 756.561     Rehearing;
+reconsideration 
+
+   
+
+ 756.565     Prima facie effect of
+commission actions 
+
+   
+
+ 756.568     Rescission, suspension
+and amendment of orders 
+
+   
+
+ 756.572     Effect of orders on
+successors in interest 
+
+   
+
+ 756.575     Notice of acceptance of
+terms of orders 
+
+   
+
+ 756.610     Judicial review 
+
+   
+
+ PENALTIES 
+
+   
+
+ 756.990     Penalties 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       756.010
+Definitions. As
+used in ORS chapters 756, 757, 758 and 759, except as otherwise specifically
+provided or unless the context requires otherwise: 
+
+       (1) “Commission”
+means the Public Utility Commission of Oregon. 
+
+       (2) “Commissioner”
+means a member of the Public Utility Commission of Oregon. 
+
+       (3) “Customer”
+includes the patrons, passengers, shippers, subscribers, users of the service
+and consumers of the product of a public utility or telecommunications utility. 
+
+       (4) “Environmental
+justice” means equal protection from environmental and health hazards and
+meaningful public participation in decisions that affect the environment in
+which people live, work, learn, practice spirituality and play. 
+
+       (5) “Environmental
+justice communities” includes communities of color, communities experiencing
+lower incomes, tribal communities, rural communities, coastal communities,
+communities with limited infrastructure and other communities traditionally
+underrepresented in public processes and adversely harmed by environmental and
+health hazards, including but not limited to seniors, youth and persons with
+disabilities. 
+
+       (6) “Municipality”
+means any city, municipal corporation or quasi-municipal corporation. 
+
+       (7) “Person”
+includes individuals, joint ventures, partnerships, corporations and
+associations or their officers, employees, agents, lessees, assignees, trustees
+or receivers. 
+
+       (8) “Public
+utility” has the meaning given that term in ORS 757.005. 
+
+       (9) “Rate” means
+any fare, charge, joint rate, schedule or groups of rates or other remuneration
+or compensation for service. 
+
+       (10) “Service” is
+used in its broadest and most inclusive sense and includes equipment and
+facilities related to providing the service or the product served. 
+
+       (11) “Telecommunications
+utility” has the meaning given that term in ORS 759.005. [Amended by 1971 c.655
+§2; 1973 c.776 §14; 1977 c.337 §1; 1985 c.834 §6; 1987 c.447 §75; 1991 c.841 §1;
+1995 c.733 §52; 2021 c.90 §1] 
+
+   
+
+ COMMISSION POWERS AND
+DUTIES 
+
+   
+
+ (Generally) 
+
+   
+
+       756.014 Public
+Utility Commission; appointment; confirmation; term; removal. (1) There is created the Public
+Utility Commission of Oregon. The commission shall be composed of three members
+appointed by the Governor, subject to confirmation by the Senate pursuant to
+section 4, Article III of the Oregon Constitution. No more than two of such
+members shall be of the same political party. 
+
+       (2) Each
+commissioner shall hold office for the term of four years. A commissioner shall
+hold office until a successor has been appointed and qualified. The chairperson
+shall be designated by the Governor and shall serve as chairperson at the
+pleasure of the Governor. 
+
+       (3) Any vacancy
+occurring in the office of commissioner shall be filled by appointment by the
+Governor to hold office for the balance of the unexpired term. 
+
+       (4) The Governor
+may at any time remove a commissioner for any cause deemed by the Governor
+sufficient. Before such removal the Governor shall give the commissioner a copy
+of the charges, and shall fix a time when the commissioner can be heard, which
+shall not be less than 10 days thereafter. The hearing shall be open to the
+public. If the commissioner is removed, the Governor shall file in the office
+of the Secretary of State a complete statement of all charges made against the
+commissioner, and the findings thereon with a record of the proceedings. Such
+power of removal is absolute, and there is no right of review of the same in
+any court. [1985 c.834 §2; 1999 c.1102 §1] 
+
+   
+
+       756.016
+Quorum; seal; individual commissioner authorized to act for commission. (1) A majority of the
+commissioners shall constitute a quorum for the transaction of any business,
+for the performance of any duty or for the exercise of any power of the Public
+Utility Commission. 
+
+       (2) The
+commission shall have a seal with the words “Public Utility Commission of
+Oregon” and such other design as the commission may prescribe engraved thereon,
+by which the proceedings of the commission shall be authenticated and of which
+the courts shall take judicial notice. 
+
+       (3) Any
+investigation, inquiry or hearing which the commission has power to undertake
+or to hold may be undertaken or held by or before any commissioner designated
+by order of the commission. Except as provided in ORS 756.055, all
+investigations, inquiries and hearings so held shall be conducted as though by
+the full commission with such commissioner empowered to exercise all the powers
+of the commission with respect thereto. [1985 c.834 §§3,4,5] 
+
+   
+
+       756.020 [Amended by 1973 c.792 §48; 1983
+c.540 §1; repealed by 1985 c.834 §12] 
+
+   
+
+       756.022 Oath
+of office. Before
+entering upon the duties of office, each commissioner shall take and subscribe
+to an oath or affirmation to support the Constitution of the United States and
+of this state, and to faithfully and honestly discharge the duties of office.
+The oath shall be filed with the Secretary of State. [1971 c.655 §3; 1985 c.834
+§7] 
+
+   
+
+       756.026
+Prohibited interests of commissioner and family. (1) No member of the Public
+Utility Commission shall: 
+
+       (a) Hold any
+other office of profit; 
+
+       (b) Hold any
+office or position under any political committee or party; 
+
+       (c) Hold any
+pecuniary interest in any business entity conducting operations which if
+conducted in this state would be subject to the commission’s regulatory
+jurisdiction; or 
+
+       (d) Hold any
+pecuniary interest in, have any contract of employment with, or have any
+substantial voluntary transactions with any business or activity subject to the
+commission’s regulatory jurisdiction. 
+
+       (2) The
+prohibitions of subsection (1)(c) and (d) of this section apply to the spouse
+and minor children of each commissioner. 
+
+       (3) If the
+Governor determines that any commissioner has done any act prohibited by
+subsection (1) of this section, or that a commissioner’s spouse or a minor
+child has done any act prohibited by subsection (2) of this section, the
+Governor shall remove the commissioner in the manner provided in ORS 756.014
+(4). 
+
+       (4) Subsection
+(3) of this section does not apply to a commissioner if the commissioner or the
+commissioner’s spouse or a minor child acquires any pecuniary interest
+prohibited by subsection (1) or (2) of this section, advises the Governor of
+such acquisition, and causes divestiture of such interest within the time
+specified by the Governor. 
+
+       (5) For purposes
+of subsection (1) of this section, a business or activity shall not be
+considered subject to the commission’s regulatory jurisdiction solely because
+the business or activity is a private carrier as defined by ORS 825.005. [1971
+c.655 §4; 1985 c.834 §8; 1987 c.123 §1; 1995 c.306 §41] 
+
+   
+
+       756.028
+Employee statements regarding prohibited interests. Each employee of the Public
+Utility Commission shall file with the commission a statement regarding
+holdings of the employee and the holdings of the employee’s spouse and minor
+children of any pecuniary interest in any business or activity subject to the
+commission’s regulatory jurisdiction. Supplementary statements shall be filed
+as such pecuniary interests are acquired or divested. The statements shall be
+in such form as the commission prescribes. If the commission determines that an
+employee or spouse or minor child of the employee holds any such pecuniary
+interest that may interfere with the impartial discharge of the employee’s
+duties, the commission shall order divestiture of the interest. [1971 c.655 §5] 
+
+   
+
+       756.030 [Repealed by 1971 c.655 §250] 
+
+   
+
+       756.032
+Employee dismissal for retention of prohibited interests or failure to file
+statements. (1)
+The Public Utility Commission shall dismiss an employee: 
+
+       (a) Who fails to
+file the statement required by ORS 756.028 before the 11th day after the date
+of employment. 
+
+       (b) Who fails to
+file the supplementary statement required by ORS 756.028 before the 11th day
+after the acquisition of a pecuniary interest. 
+
+       (c) Who fails to
+cause divestiture of a pecuniary interest within the time specified in an order
+issued pursuant to ORS 756.028. 
+
+       (2) Dismissal of
+an employee under subsection (1) of this section is subject to the procedure
+and appeal provided in ORS 240.555, 240.560 and 240.570. An employee so
+dismissed is eligible for reemployment. [1971 c.655 §6; 1979 c.468 §34; 2003
+c.14 §452; 2014 c.22 §2] 
+
+   
+
+       756.034 Intent
+of prohibited interest provisions. 
+Nothing in ORS 756.022 to 756.032 is intended to authorize any act otherwise
+prohibited by law. [1971 c.655 §7] 
+
+   
+
+       756.036 Duties
+and functions. (1)
+The Public Utility Commission may: 
+
+       (a) Organize and
+reorganize the office of the Public Utility Commission in the manner that it
+considers necessary to properly discharge the responsibilities of the Public
+Utility Commission. 
+
+       (b) Contract for
+or procure on a fee or part-time basis, or both, such experts, technical or
+other professional services as it may require for the discharge of its duties. 
+
+       (c) Obtain such
+other services as it considers necessary or desirable. 
+
+       (d) Participate
+in organizations of regional and national utility commissions. 
+
+       (e) Appoint
+advisory committees. A member of an advisory committee so appointed shall
+receive no compensation for services as a member. Subject to any applicable law
+regulating travel and other expenses of state officers and employees, the
+member shall receive actual and necessary travel and other expenses incurred in
+the performance of official duties. 
+
+       (2) Subject to
+any applicable law regulating travel and other expenses of state officers and
+employees, the commissioners and the officers and employees of the commission
+shall be reimbursed for such reasonable and necessary travel and other expenses
+incurred in the performance of their official duties. 
+
+       (3) The
+chairperson of the commission appointed under ORS 756.014 shall serve as the
+administrative head of the commission and has the power to: 
+
+       (a) With the
+consent of one or more of the other members of the commission, appoint and
+employ all subordinate officers and employees, including, but not limited to,
+deputies, assistants, engineers, examiners, accountants, auditors, inspectors
+and clerical personnel, prescribe their duties and fix their compensation,
+subject to the State Personnel Relations Law. 
+
+       (b) Prescribe
+internal policies and procedures for the government of the commission, the
+conduct of its employees, the assignment and performance of its business and
+the custody, use and preservation of its records, papers and property in a
+manner consistent with applicable law. [1971 c.655 §8; 1985 c.834 §9; 1999
+c.1102 §2; 2003 c.14 §453] 
+
+   
+
+       756.037
+Commission authority to provide assistance, information, resources and advice
+to Legislative Assembly. 
+The Public Utility Commission and commission staff may provide such assistance
+to the Legislative Assembly and its committees as required by the Legislative
+Assembly for the performance of its duties, and may furnish to the Legislative
+Assembly and its committees such information, resources and advice as the
+members of the Legislative Assembly consider necessary for the performance of
+legislative duties. [2001 c.558 §2] 
+
+   
+
+       756.040
+General powers. 
+(1) In addition to the powers and duties now or hereafter transferred to or
+vested in the Public Utility Commission, the commission shall represent the
+customers of any public utility or telecommunications utility and the public
+generally in all controversies respecting rates, valuations, service and all
+matters of which the commission has jurisdiction. In respect thereof the
+commission shall make use of the jurisdiction and powers of the office to
+protect such customers, and the public generally, from unjust and unreasonable
+exactions and practices and to obtain for them adequate service at fair and
+reasonable rates. The commission shall balance the interests of the utility
+investor and the consumer in establishing fair and reasonable rates. Rates are
+fair and reasonable for the purposes of this subsection if the rates provide
+adequate revenue both for operating expenses of the public utility or
+telecommunications utility and for capital costs of the utility, with a return
+to the equity holder that is: 
+
+       (a) Commensurate
+with the return on investments in other enterprises having corresponding risks;
+and 
+
+       (b) Sufficient to
+ensure confidence in the financial integrity of the utility, allowing the
+utility to maintain its credit and attract capital. 
+
+       (2) The
+commission is vested with power and jurisdiction to supervise and regulate
+every public utility and telecommunications utility in this state, and to do
+all things necessary and convenient in the exercise of such power and
+jurisdiction. 
+
+       (3) The
+commission may participate in any proceeding before any public officer,
+commission or body of the United States or any state for the purpose of
+representing the public generally and the customers of the services of any
+public utility or telecommunications utility operating or providing service to
+or within this state. 
+
+       (4) The
+commission may make joint investigations, hold joint hearings within or without
+this state and issue concurrent orders in conjunction or concurrence with any
+official, board, commission or agency of any state or of the United States. [Amended
+by 1961 c.467 §1; 1971 c.655 §9; 1973 c.776 §15; 1987 c.447 §76; 1995 c.733 §53;
+2001 c.569 §1] 
+
+   
+
+       756.045
+Employing legal counsel. 
+Upon request by the Public Utility Commission, the Attorney General shall
+furnish to the commission such attorneys as the commission finds necessary. [Formerly
+756.150] 
+
+   
+
+       756.047
+Authority of commission to require fingerprints. For the purpose of requesting a
+state or nationwide criminal records check under ORS 181A.195, the Public
+Utility Commission may require the fingerprints of a person who: 
+
+       (1)(a) Is
+employed or applying for employment by the commission; or 
+
+       (b) Provides
+services or seeks to provide services to the commission as a contractor or
+volunteer; and 
+
+       (2) Is, or will
+be, working or providing services in a position: 
+
+       (a) In which the
+person has access to chemicals or hazardous materials, to facilities in which
+chemicals and hazardous materials are present or to information regarding the
+transportation of chemical or hazardous materials; 
+
+       (b) In which the
+person inspects gas or electrical lines or facilities; 
+
+       (c) In which the
+person has access to critical infrastructure or security-sensitive facilities
+or information; or 
+
+       (d) That has
+fiscal, payroll or purchasing responsibilities as one of the position’s primary
+responsibilities. [2005 c.730 §69] 
+
+   
+
+       Note: 756.047 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 756
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       756.050
+Office, office supplies and sessions of commission. (1) The Public Utility Commission
+shall keep office at the capital and shall be provided with suitable office
+quarters under ORS 276.004. Necessary office furniture, supplies, stationery,
+books, periodicals and maps shall be furnished, and all necessary expenses
+therefor shall be audited and paid as other state expenses are audited and
+paid. 
+
+       (2) The
+commission may hold sessions and maintain offices at places other than the
+capital for the more convenient and efficient performance of the duties imposed
+upon the commission by law, and shall upon request be provided by the county
+court or board of county commissioners of any county in the state with suitable
+rooms for offices and hearings. [Amended by 1969 c.706 §64g; 1971 c.655 §11] 
+
+   
+
+       756.055
+Delegation of authority. 
+(1) Except as provided in subsection (2) of this section, the Public Utility
+Commission may designate by order or rule any commissioner or any named
+employee or category of employees who shall have authority to exercise any of
+the duties and powers imposed upon the commission by law. The official act of
+any commissioner or employee so exercising any such duties or powers is
+considered to be an official act of the commission. 
+
+       (2) The
+commission may not delegate to any commissioner, named employee or category of
+employees under subsection (1) of this section the authority to: 
+
+       (a) Sign an
+interim or final order after hearing; 
+
+       (b) Sign any
+order upon any investigation the commission causes to be initiated; 
+
+       (c) Sign an order
+that makes effective a rule; 
+
+       (d) Enter orders
+on reconsideration or following rehearing; or 
+
+       (e) Grant
+immunity from prosecution, forfeiture or penalty. [1971 c.655 §12; 1985 c.834 §10] 
+
+   
+
+       756.060
+Authority to adopt rules and regulations. The Public Utility Commission may adopt and amend
+reasonable and proper rules and regulations relative to all statutes
+administered by the commission and may adopt and publish reasonable and proper
+rules to govern proceedings and to regulate the mode and manner of all
+investigations and hearings of public utilities and telecommunications
+utilities and other parties before the commission. [Amended by 1971 c.655 §13;
+1973 c.776 §16; 1987 c.447 §77; 1995 c.733 §54] 
+
+   
+
+       756.062
+Substantial compliance with laws adequate for commission activities;
+construction of laws generally. 
+(1) A substantial compliance with the requirements of the laws administered by
+the Public Utility Commission is sufficient to give effect to all the rules,
+orders, acts and regulations of the commission and they shall not be declared
+inoperative, illegal or void for any omission of a technical nature in respect
+thereto. 
+
+       (2) The
+provisions of such laws shall be liberally construed in a manner consistent
+with the directives of ORS 756.040 (1) to promote the public welfare, efficient
+facilities and substantial justice between customers and public and
+telecommunications utilities. [Formerly 757.025; 1973 c.776 §17; 1987 c.447 §78;
+1995 c.733 §55; 2001 c.569 §2] 
+
+   
+
+       756.064 [1971 c.655 §15; 1973 c.776 §18;
+repealed by 1975 c.605 §33] 
+
+   
+
+       756.068
+Service of notice or other legal process. The service or delivery of any notice, order, form or
+other document or legal process required to be made by the Public Utility
+Commission may be made by mail. If by mail, service or delivery is made when
+the required material is deposited in the post office, in a sealed envelope
+with postage paid, addressed to the person on whom it is to be served or
+delivered, at the address as it last appears in the records of the commission. [1971
+c.655 §16] 
+
+   
+
+ (Investigatory Powers) 
+
+   
+
+       756.070
+Investigating management of utilities. 
+The Public Utility Commission may inquire into the management of the business
+of all public utilities and telecommunications utilities and shall keep
+informed as to the manner and method in which they are conducted and has the
+right to obtain from any public utility or telecommunications utility all
+necessary information to enable the commission to perform duties. [Amended by
+1971 c.655 §17; 1973 c.776 §19; 1987 c.447 §70; 1995 c.733 §56] 
+
+   
+
+       756.075 Right
+of entry for examination of equipment, records or employees; use of findings. (1) The Public Utility Commission
+or authorized representatives may enter upon any premises, or any equipment or
+facilities operated or occupied by any public utility or telecommunications
+utility for the purpose of making any inspection, examination or test
+reasonably required in the administration of ORS chapter 756, 757, 758 or 759
+and to set up and use on such premises equipment or facilities any apparatus
+and appliances and occupy reasonable space therefor. 
+
+       (2) The
+commission or authorized representatives shall, upon demand, have the right to
+inspect the books, accounts, papers, records and memoranda of any public
+utility or telecommunications utility and to examine under oath any officer,
+agent or employee of such public utility or telecommunications utility in
+relation to its business and affairs. 
+
+       (3) Any person
+who on behalf of the commission makes demand of a public utility or
+telecommunications utility for an examination, inspection or test shall, upon
+request therefor, produce a certificate under the seal of the commission
+showing authority to make such examination, inspection or test. 
+
+       (4) Nothing in
+this section authorizes the commission to use any information developed
+thereunder for any purpose inconsistent with any statute administered by the
+commission or to make a disclosure thereof for other than regulatory purposes. [Formerly
+757.260; 1973 c.776 §20; 1987 c.447 §80; 1995 c.733 §57] 
+
+   
+
+       756.080 [Repealed by 1971 c.655 §250] 
+
+   
+
+       756.090
+Maintaining and producing records; expenses of examining out-of-state records. (1) The Public Utility Commission
+may require by rule, or by order or subpoena to be served on any public utility
+or telecommunications utility the maintaining within this state or the
+production within this state at such time and place as the commission may
+designate, of any books, accounts, papers or records kept by such public
+utility or telecommunications utility in any office or place within or without
+this state, or verified copies in lieu thereof, if the commission so orders, in
+order that an examination thereof may be made by the commission or under
+direction of the commission. 
+
+       (2) When a public
+utility or telecommunications utility keeps and maintains its books, accounts,
+papers or records outside the state, the commission may examine such documents
+and shall be reimbursed by the public utility or telecommunications utility for
+all expenses incurred in making such out-of-state examination. [Amended by 1971
+c.655 §19; 1973 c.776 §21; 1987 c.447 §81; 1995 c.733 §58] 
+
+   
+
+       756.100 [Repealed by 1953 c.25 §2] 
+
+   
+
+       756.105 Duty
+to furnish information to commission. 
+(1) Every public utility or telecommunications utility shall furnish to the
+Public Utility Commission all information required by the commission to carry
+into effect the provisions of ORS chapters 756, 757, 758 and 759 and shall make
+specific answers to all questions submitted by the commission. 
+
+       (2) If a public
+utility or telecommunications utility is unable to furnish any information
+required under subsection (1) of this section for any reason beyond its
+control, it is a good and sufficient reason for such failure. The answer or
+information shall be verified under oath and returned to the commission at the
+commission’s office within the period fixed by the commission. [Formerly
+757.115; 1973 c.776 §22; 1987 c.447 §82; 1995 c.733 §59] 
+
+   
+
+       756.110 [Repealed by 1953 c.25 §2] 
+
+   
+
+       756.115
+Failure to furnish requested information. No officer, agent or employee of any public utility,
+or telecommunications utility shall: 
+
+       (1) Fail or refuse
+to fill out and return any forms required by the Public Utility Commission; 
+
+       (2) Fail or
+refuse to answer any question therein propounded; 
+
+       (3) Knowingly or
+willfully give a false answer to any such question or evade the answer to any
+such question where the fact inquired of is within the person’s knowledge; 
+
+       (4) Upon proper
+demand, fail or refuse to exhibit to the commission or any person authorized to
+examine the same, any book, paper, account, record or memorandum of such public
+utility or telecommunications utility which is in possession or under the control
+of the person; 
+
+       (5) Fail to
+properly use and keep a system of accounting or any part thereof, as prescribed
+by the commission; or 
+
+       (6) Refuse to do
+any act or thing in connection with such system of accounting when so directed
+by the commission or authorized representative. [Formerly 757.180; 1973 c.776 §23;
+1987 c.447 §83; 1995 c.733 §60] 
+
+   
+
+       756.120 [Repealed by 1971 c.655 §250] 
+
+   
+
+       756.125
+Interference with commission equipment. No person shall destroy, injure or interfere with any
+apparatus or appliance owned or operated by or in charge of the Public Utility
+Commission, or any apparatus or appliance sealed by the commission. [Formerly
+757.340] 
+
+   
+
+       756.130 [Repealed by 1971 c.655 §250] 
+
+   
+
+       756.140 [Repealed by 1971 c.655 §250] 
+
+   
+
+       756.150 [Amended by 1971 c.655 §10;
+renumbered 756.045] 
+
+   
+
+ ENFORCEMENT AND
+REMEDIES 
+
+   
+
+       756.160
+Enforcement of statutes and ordinances relating to utilities. (1) The Public Utility Commission
+shall inquire into any neglect or violation of any law of this state or any law
+or ordinance of any municipality thereof relating to public utilities and
+telecommunications utilities by any public utility or telecommunications
+utility doing business therein, its officers, agents or employees and shall
+enforce all laws of this state relating to public utilities and
+telecommunications utilities and may enforce all such laws and ordinances of a
+municipality. The commission shall report all violations of any such laws or
+ordinances to the Attorney General. 
+
+       (2) The Attorney
+General, district attorney of each county, all state, county and city police
+officers and police officers commissioned by a university under ORS 352.121 or
+353.125 shall assist the commission in the administration and enforcement of
+all laws administered by the commission, and they, as well as assistants and
+employees of the commission, shall inform against and diligently prosecute all
+persons whom they have reasonable cause to believe guilty of violation of any
+such laws or of the rules, regulations, orders, decisions or requirements of
+the commission made pursuant thereto. 
+
+       (3) Upon the
+request of the commission, the Attorney General or the district attorney of the
+proper county shall aid in any investigation, hearing or trial, and shall
+institute and prosecute all necessary suits, actions or proceedings for the
+enforcement of those laws and ordinances referred to in subsection (1) of this
+section. 
+
+       (4) Any
+forfeiture or penalty provided for in any law administered by the commission
+shall be recovered by an action brought thereon in the name of the State of
+Oregon in any court of appropriate jurisdiction. [Amended by 1971 c.655 §23;
+1973 c.776 §24; 1987 c.447 §84; 1995 c.733 §61; 2011 c.506 §46; 2013 c.180 §51] 
+
+   
+
+       756.170 [Repealed by 1971 c.655 §250] 
+
+   
+
+       756.180
+Enforcing utility laws. 
+(1) Whenever it appears to the Public Utility Commission that any public
+utility or telecommunications utility or any other person subject to the
+jurisdiction of the commission is engaged or about to engage in any acts or
+practices which constitute a violation of any statute administered by the
+commission, or any rule, regulation, requirement, order, term or condition
+issued thereunder, the commission may apply to any circuit court of the state
+where such public utility or telecommunications utility or other person subject
+to the jurisdiction of the commission operates for the enforcement of such
+statute, rule, regulation, requirement, order, term or condition. 
+
+       (2) Such court,
+without bond, has jurisdiction to enforce obedience thereto by injunction, or
+by other processes, mandatory or otherwise, restraining such public utility or
+telecommunications utility or any other person subject to the jurisdiction of
+the commission, or its officers, agents, employees and representatives from
+further violations of such statute, rule, regulation, requirement, order, term
+or condition, and enjoining upon them obedience thereto. 
+
+       (3) The
+provisions of this section are in addition to and not in lieu of any other
+enforcement provisions contained in any statute administered by the commission.
+[Amended by 1971 c.655 §24; 1973 c.232 §5; 1973 c.776 §25; 1987 c.447 §85; 1995
+c.733 §62] 
+
+   
+
+       756.185 Right
+to recover for wrongs and omissions; treble damages. (1) Any public utility which does,
+or causes or permits to be done, any matter, act or thing prohibited by ORS
+chapter 756, 757 or 758 or omits to do any act, matter or thing required to be
+done by such statutes, is liable to the person injured thereby in the amount of
+damages sustained in consequence of such violation. If the party seeking
+damages alleges and proves that the wrong or omission was the result of gross
+negligence or willful misconduct, the public utility is liable to the person
+injured thereby in treble the amount of damages sustained in consequence of the
+violation. Except as provided in subsection (2) of this section, the court may
+award reasonable attorney fees to the prevailing party in an action under this
+section. 
+
+       (2) The court may
+not award attorney fees to a prevailing defendant under the provisions of
+subsection (1) of this section if the action under this section is maintained
+as a class action pursuant to ORCP 32. 
+
+       (3) Any recovery
+under this section does not affect recovery by the state of the penalty,
+forfeiture or fine prescribed for such violation. 
+
+       (4) This section
+does not apply with respect to the liability of any public utility for personal
+injury or property damage. [Formerly 757.335; 1973 c.776 §26; 1981 c.856 §1;
+1981 c.897 §104a; 1987 c.447 §86; 1989 c.827 §1; 1995 c.696 §48; 1995 c.733 §63] 
+
+   
+
+       756.190 [Repealed by 1971 c.655 §250] 
+
+   
+
+       756.200 Effect
+of utility laws on common law and other statutory rights of action, duties and
+liabilities. (1)
+The remedies and enforcement procedures provided in ORS chapters 756, 757, 758
+and 759 do not release or waive any right of action by the state or by any
+person for any right, penalty or forfeiture which may arise under any law of
+this state or under an ordinance of any municipality thereof. 
+
+       (2) All penalties
+and forfeiture accruing under said statutes and ordinances are cumulative and a
+suit for and recovery of one, shall not be a bar to the recovery of any other
+penalty. 
+
+       (3) The duties
+and liabilities of the public utilities or telecommunications utilities shall
+be the same as are prescribed by the common law, and the remedies against them
+the same, except where otherwise provided by the Constitution or statutes of
+this state, and the provisions of ORS chapters 756, 757, 758 and 759 are
+cumulative thereto. [Formerly 760.045; 1973 c.776 §27; 1987 c.447 §87; 1995
+c.733 §64] 
+
+   
+
+ FUNDS AND FEES 
+
+   
+
+       756.305 Public
+Utility Commission Account. 
+(1) There hereby is established in the General Fund an account to be known as
+the Public Utility Commission Account. Except as limited by ORS 756.360, all
+moneys, without regard to their sources, credited to the Public Utility
+Commission Account hereby are appropriated continuously to the Public Utility
+Commission for the payment of any and all of the expenses of the Public Utility
+Commission. 
+
+       (2) The Public
+Utility Commission shall keep a record of all moneys deposited in the Public
+Utility Commission Account. The record shall indicate by separate cumulative
+accounts the source from which the moneys are derived and the individual
+activity or program against which each withdrawal is charged. [1957 c.459 §1;
+1971 c.655 §27; 1997 c.249 §220] 
+
+   
+
+       756.310 Annual
+fees payable by utilities and telecommunications providers. (1) Subject to the provisions of
+subsections (3) and (4) of this section, each public utility and
+telecommunications provider shall pay a fee to the Public Utility Commission in
+each calendar year. The amount of the fee shall equal the amount that the commission
+finds and determines to be necessary, together with the amount of all other
+fees paid or payable to the commission by such public utilities and
+telecommunications providers in the current calendar year, to defray the costs
+of performing the duties imposed by law upon the commission with respect to the
+public utilities and telecommunications providers. 
+
+       (2) In each
+calendar year the percentage rate of the fee required to be paid by public
+utilities shall be determined by orders entered by the commission on or after
+March 1 of each year. Notice of the orders shall be given to each utility. The
+utility shall pay to the commission the fee or portion thereof so computed upon
+the date specified in the notice. The date of payment shall be at least 15 days
+after the date of mailing of the notice. 
+
+       (3) The fee
+payable under subsection (1) of this section by each public utility may not be
+less than $10, or more than fifty-five hundredths of one percent of the utility’s
+gross operating revenues derived within this state in the preceding calendar
+year. For the purpose of this subsection, the gross operating revenues of an
+electric company do not include revenues from sales of power for resale to the
+extent that the revenues from those sales exceed an amount equal to 25 percent
+of the total revenues received by the electric company from sales of
+electricity to end users in the preceding calendar year. 
+
+       (4)(a) For a
+telecommunications provider, the fee payable under subsection (1) of this
+section shall be a percentage amount not to exceed thirty-five hundredths of
+one percent of the provider’s gross retail intrastate revenue for each calendar
+year, but may not be less than $100. The percentage amount shall be determined
+by order of the commission not less than 60 days prior to the calendar year
+upon which the fee is based. The fee shall be payable to the commission not
+later than April 1 of the year following that calendar year. 
+
+       (b) A
+telecommunications provider shall collect the fee payable under subsection (1)
+of this section by charging an apportioned amount to each of the provider’s
+retail customers. The amount of the charge shall be described on the retail
+customer’s bill in a manner determined by the provider. 
+
+       (c) In the event
+a telecommunications utility has an approved rate that includes the fee
+required under subsection (1) of this section and separately charges retail
+customers for the fee described in this section, at the time the utility begins
+collecting the charge the utility shall file with the commission a rate
+schedule reducing rates in an amount projected to equal the amount separately
+charged to customers. 
+
+       (5) The
+commission may use any of its investigatory and enforcement powers provided
+under this chapter for the purpose of administering and enforcing the
+provisions of this section. 
+
+       (6) As used in
+this section: 
+
+       (a) “Electric
+company” means any entity that is a public utility under ORS 757.005 that is
+engaged in the business of distributing electricity to retail electric
+customers in Oregon. 
+
+       (b) “Retail
+customer” does not include a purchaser of intrastate telecommunications
+services who is a telecommunications provider, telecommunications cooperative,
+interexchange carrier or radio common carrier. 
+
+       (c) “Telecommunications
+provider” means any entity that is a telecommunications utility or a
+competitive telecommunications provider as defined in ORS 759.005. [Amended by
+1953 c.10 §2; 1957 c.464 §1; 1959 c.355 §1; 1961 c.109 §1; 1963 c.89 §1; 1971
+c.132 §1; 1973 c.170 §1; 1975 c.127 §1; 1985 c.293 §1; 1987 c.439 §1; 1987
+c.447 §88; 1991 c.841 §2; 1995 c.733 §65; 1997 c.826 §8; 1999 c.339 §1; 2007
+c.245 §1; 2015 c.289 §1; 2019 c.173 §1; 2025 c.438 §1] 
+
+   
+
+       756.315 [1989 c.1041 §2; repealed by 1991
+c.841 §4] 
+
+   
+
+       756.320
+Statements accompanying fees; audit and refunding by commission. Payment of each fee or portion
+thereof provided for in ORS 756.310 shall be accompanied by a statement
+verified by the public utility or telecommunications provider involved, showing
+the basis upon which the fee or portion thereof is computed. This statement
+shall be in such form and detail as the Public Utility Commission shall
+prescribe and shall be subject to audit by the commission. The commission may
+refund any overpayment of any such fee in the same manner as other claims and
+expenses of the commission are payable as provided by law. [Amended by 1987
+c.447 §89; 1995 c.733 §66; 1997 c.826 §9; 1999 c.339 §2] 
+
+   
+
+       756.325
+Distribution of information filed with commission; fees; rules. (1) The Public Utility Commission
+may by rule prescribe for the free distribution for public information or
+educational purposes or applicable charge for any blank forms, transcript,
+document, order, statistical data or publication prepared by and on file in the
+office of the commission. In no event shall the fee exceed the cost of
+preparing, reproducing and distributing such blank forms, transcript, document,
+order, statistical data or publication. 
+
+       (2) In the
+ordinary course of distribution, no fee shall be charged or collected for
+copies of published documents furnished to public officers for use in their
+official capacity, or for annual reports of the commission. [1971 c.655 §28] 
+
+   
+
+       756.330 [Amended by 1965 c.288 §1;
+repealed by 1971 c.655 §250] 
+
+   
+
+       756.340 [Repealed by 1971 c.655 §250] 
+
+   
+
+       756.350
+Penalty for failure to pay fees; action to collect unpaid fees and penalties. Every person who fails to pay any
+fees provided for in ORS 756.310 or 756.320 after they are due and payable
+shall, in addition to such fees, pay a penalty of two percent of such fees for
+each and every month or fraction thereof that they remain unpaid. If, in the
+judgment of the Public Utility Commission, action is necessary to collect any
+unpaid fees or penalties, the commission shall bring such action or take such
+proceedings as may be necessary thereon in the name of the State of Oregon in
+any court of competent jurisdiction, and be entitled to recover all costs and
+disbursements incurred therein. [Amended by 1971 c.655 §29] 
+
+   
+
+       756.360
+Disposal and use of fees and penalties collected. All fees, penalties and other
+moneys collected by the Public Utility Commission under ORS 756.310, 756.320,
+756.350, 758.015, 758.400 to 758.475 and ORS chapter 759 shall be paid by the
+commission into the State Treasury within 30 days after the collection thereof,
+and shall be placed by the State Treasurer to the credit of the Public Utility
+Commission Account and the fees, penalties and other moneys collected from: 
+
+       (1) Public
+utilities shall be used only for the purpose of paying the expenses of the
+commission in performing the duties imposed by law upon the commission in
+respect to utilities, and for the purpose of paying the expenses of the Office
+of the Governor for its responsibilities in administering energy conservation
+and allocation programs. 
+
+       (2)
+Telecommunications providers shall be used only for the purpose of paying the
+expenses of the commission in performing the duties imposed by law upon the
+commission in respect to telecommunications providers, and for the purpose of
+paying the expenses of the Office of the Governor for its responsibilities in
+administering energy conservation and allocation programs. [Amended by 1957
+c.459 §7; 1967 c.164 §3; 1971 c.655 §30; 1973 c.776 §28; 1974 c.59 §1; 1987
+c.447 §90; 1995 c.733 §67; 1999 c.339 §3; 2011 c.597 §298] 
+
+   
+
+       756.370 [Formerly 757.065; repealed by
+1983 c.40 §1] 
+
+   
+
+       756.375 [Formerly 757.070; repealed by
+1983 c.40 §1] 
+
+   
+
+       756.380 [Formerly 757.080; 1995 c.306 §42;
+renumbered 823.071 in 1995] 
+
+   
+
+       756.385 [Formerly 757.085; 1995 c.733 §67a;
+renumbered 823.073 in 1995] 
+
+   
+
+       756.390 [Formerly 757.090; 1983 c.78 §1;
+1995 c.733 §67b; renumbered 823.075 in 1995] 
+
+   
+
+       756.400 [1971 c.655 §31; repealed by 1983
+c.540 §10] 
+
+   
+
+       756.410 [1971 c.655 §32; 1977 c.253 §1;
+repealed by 1983 c.540 §10] 
+
+   
+
+       756.420 [1971 c.655 §33; repealed by 1983
+c.540 §10] 
+
+   
+
+       756.430 [1971 c.655 §34; repealed by 1983
+c.540 §10] 
+
+   
+
+       756.440 [1971 c.655 §35; repealed by 1983
+c.540 §10] 
+
+   
+
+ DECLARATORY RULINGS 
+
+   
+
+       756.450
+Declaratory rulings. 
+On petition of any interested person, the Public Utility Commission may issue a
+declaratory ruling with respect to the applicability to any person, property,
+or state of facts of any rule or statute enforceable by the commission. A
+declaratory ruling is binding between the commission and the petitioner on the
+state of facts alleged, unless it is modified, remanded or set aside by a
+court. However, the commission may review the ruling and modify or set it aside
+if requested by the petitioner or other party to the proceeding. Binding
+rulings issued under this section are subject to judicial review as orders in
+the manner provided by ORS 756.610. [1971 c.655 §36; 2005 c.638 §2; 2017 c.312 §2] 
+
+   
+
+ COMPLAINT AND
+INVESTIGATION PROCEDURE 
+
+   
+
+       756.500
+Complaint; persons entitled to file; contents; amendments. (1) Any person may file a
+complaint before the Public Utility Commission, or the commission may, on the
+commission’s own initiative, file such complaint. The complaint shall be
+against any person whose business or activities are regulated by some one or
+more of the statutes, jurisdiction for the enforcement or regulation of which
+is conferred upon the commission. The person filing the complaint shall be
+known as the complainant and the person against whom the complaint is filed
+shall be known as the defendant. 
+
+       (2) It is not
+necessary that a complainant have a pecuniary interest in the matter in
+controversy or in the matter complained of, but the commission shall not grant
+any order of reparation to any person not a party to the proceedings in which
+such reparation order is made. 
+
+       (3) The complaint
+shall state all grounds of complaint on which the complainant seeks relief or
+the violation of any law claimed to have been committed by the defendant, and
+the prayer of the complaint shall pray for the relief to which the complainant
+claims the complainant is entitled. 
+
+       (4) The complaint
+may, at any time before the completion of taking of evidence, be amended by
+order of the commission. However, if a charge not contained in the original
+complaint or a prior amended complaint is sought to be made by any such
+amendment, the defendant shall be given a reasonable time to investigate the
+new charge and answer the amended complaint. The final hearing shall, if
+necessary, be continued until some date after the defendant has had a
+reasonable time to investigate and be prepared to meet the amended complaint. 
+
+       (5)
+Notwithstanding subsection (1) of this section, any public utility or
+telecommunications utility may make complaint as to any matter affecting its
+own rates or service with like effect as though made by any other person, by
+filing an application, petition or complaint with the commission. [Formerly
+756.520; 1987 c.447 §91; 1995 c.733 §68] 
+
+   
+
+       756.505 [Repealed by 1971 c.655 §250] 
+
+   
+
+       756.510 [Amended by 1971 c.655 §40;
+renumbered 756.518] 
+
+   
+
+       756.512 Notice
+of complaint to defendant; responsive pleadings; setting cause for hearing. (1) The Public Utility Commission
+shall serve a copy of the complaint upon the defendant, and shall give the
+defendant at least 10 days within which to respond to the complaint. Within the
+time so fixed, or such further time as the commission shall fix, the defendant
+shall file an answer to the complaint, taking issue on such parts of the
+complaint as the defendant desires and setting forth such additional matter as
+shall be pertinent to the matter in controversy. Such additional matter shall
+be deemed denied without the filing of any other pleading by the complainant.
+After the filing of the answer the commission shall set the matter for hearing,
+giving the defendant at least 10 days’ written notice of the time and place of
+the hearing, unless the commission for good reason stated in the notice, fixes
+a shorter time. Amendment of any answer may be permitted by order of the
+commission. 
+
+       (2) If the
+defendant fails to file a responsive pleading or otherwise appear within the
+time prescribed in subsection (1) of this section, or if the responsive
+pleading filed raises no issue of law or fact, the commission may act on the
+complaint without a hearing. [Formerly 756.530] 
+
+   
+
+       756.515
+Investigations and hearings on commission’s own motion; hearings for aggrieved
+persons. (1)
+Whenever the Public Utility Commission believes that any rate may be
+unreasonable or unjustly discriminatory, or that any service is unsafe or
+inadequate, or is not afforded, or that an investigation of any matter relating
+to any public utility or telecommunications utility or other person should be
+made, or relating to any person to determine if such person is subject to the
+commission’s regulatory jurisdiction, the commission may on motion summarily
+investigate any such matter, with or without notice. 
+
+       (2) If after
+making such investigation the commission is satisfied that sufficient grounds
+exist to warrant a hearing being ordered upon any such matter, the commission
+shall furnish any public utility or telecommunications utility or other person
+interested a statement notifying it of the matters under investigation, which
+statement shall be accompanied by a notice fixing the time and place for
+hearing upon such matters in the manner provided in ORS 756.512 for notice of
+complaint. 
+
+       (3) Thereafter
+proceedings shall be had and conducted in reference to the matters investigated
+in like manner as though complaint had been filed with the commission relative
+thereto, and the same orders may be made in reference thereto as if such
+investigation had been made on complaint. 
+
+       (4) The
+commission may, after making an investigation on the commission’s motion, but
+without notice or hearing, make such findings and orders as the commission
+deems justified or required by the results of such investigation. Except as
+provided in subsections (5) and (6) of this section such findings and orders
+have the same legal force and effect as any other finding or order of the
+commission. 
+
+       (5) In addition
+to any other remedy provided by law, any party aggrieved by an order entered
+pursuant to subsection (4) of this section may request the commission to hold a
+hearing to determine whether the order should continue in effect. Any such
+request for hearing shall be submitted to the commission not later than 15 days
+after the date of service of the order, and the commission shall hold the
+hearing not later than 60 days after receipt of such a request for hearing. 
+
+       (6) If the
+commission receives a request for hearing pursuant to subsection (5) of this
+section, the order is suspended pending the outcome of the hearing unless the
+commission finds that the order is necessary for the public health or safety or
+to prevent the dissipation of assets of a business or activity subject to the
+commission’s regulatory jurisdiction. [Formerly 757.515; 1973 c.776 §29; 1975
+c.318 §1; 1983 c.703 §18; 1987 c.447 §92; 1995 c.733 §69] 
+
+   
+
+ HEARING PROCEDURE 
+
+   
+
+       756.518
+Procedures applicable to all matters before commission; oral hearing; rules. (1) Except as otherwise provided
+the provisions of ORS 756.500 to 756.610 apply to and govern all hearings upon
+any matter or issue coming before the Public Utility Commission under any
+statute administered by the commission, whether instituted on the application,
+petition or complaint of others or initiated by the commission, together with
+the orders of the commission therein and the review thereof in the courts. 
+
+       (2) Upon request
+of any party in a major proceeding before the commission, the commission shall
+afford the parties an opportunity for oral argument before a final order is
+issued. There must be a quorum of the commission present at the time the oral
+argument is made. The commission shall adopt rules that establish criteria for
+determining which proceedings give rise to a right to oral argument under this
+subsection. In addition, the commission may adopt rules governing participation
+in oral arguments, cross-examination of witnesses, draft or proposed orders or
+such other matters as the commission deems appropriate. [Formerly 756.510; 2001
+c.558 §3] 
+
+   
+
+       756.519 [1977 c.424 §2; 1985 c.59 §1;
+repealed by 1995 c.733 §74] 
+
+   
+
+       756.520 [Amended by 1971 c.655 §37;
+renumbered 756.500] 
+
+   
+
+       756.521 Public
+hearings; record required; furnishing transcripts. All hearings shall be open to the
+public and may be had before the Public Utility Commission, an examiner or any
+other person authorized to hold such hearing. A full record thereof shall be
+kept. However, it shall not be necessary to transcribe testimony unless
+requested. For purposes of rehearing or reconsideration under ORS 756.561, a
+transcription shall be made at the commission’s expense, and copies of such
+transcription shall be supplied to the parties, at cost. A copy of the
+transcript shall be supplied to a party without cost upon the filing with the
+commission of a satisfactory affidavit of indigency. [1971 c.655 §41; 2005
+c.638 §3] 
+
+   
+
+       756.525
+Parties to proceedings. 
+(1) The Public Utility Commission may permit any person to become a party who
+might, on the institution of the proceeding, have been such a party, if
+application therefor is made before the final taking of evidence in the
+proceeding. 
+
+       (2) At any time
+before the final taking of evidence in a proceeding, any person may apply to
+the commission for permission to appear and participate in the proceeding. The
+commission shall determine the interest of the applicant in the proceeding and
+shall grant the application, subject to appropriate conditions, if the
+commission determines that such appearance and participation will not
+unreasonably broaden the issues or burden the record, and otherwise may deny
+the application. 
+
+       (3) This section
+does not apply to any person who might have been an original party in a
+proceeding before the commission if that person is required by statute to file
+a pleading or other response in the proceeding within a specified time. [1971
+c.655 §42] 
+
+   
+
+       756.528
+Segregation of issues. 
+At any time before the conclusion of the taking of evidence in a proceeding,
+the Public Utility Commission may segregate the issues involved and order
+separate hearings thereon at such times and places as the commission may
+prescribe. [1971 c.655 §43; 2005 c.638 §4] 
+
+   
+
+       756.530 [Amended by 1971 c.655 §38;
+renumbered 756.512] 
+
+   
+
+       756.534 Place
+of hearings; continuation. 
+Except as provided in ORS 756.040 (4), the hearing may be held at any place
+designated by the Public Utility Commission within this state, or different
+parts of the hearing may be held at different places in this state, as shall be
+designated by the commission. The hearing may be continued from time to time
+and place to place as ordered and fixed by the commission. [Formerly 756.560] 
+
+   
+
+       756.538 Taking
+and use of depositions; rules. 
+(1) In any investigation, the Public Utility Commission may take the testimony
+of any person by deposition upon oral examination or written interrogatories
+for the purpose of discovery or for use in the investigation. 
+
+       (2) In any
+proceeding requiring a hearing, the commission or any party to the proceeding
+may take the testimony of any person by deposition upon oral examination or
+written interrogatories for the purpose of discovery or for use as evidence in
+the proceeding, or for both purposes. 
+
+       (3) Depositions
+may be taken within or without the State of Oregon by the commission, or any
+other person authorized to administer oaths, in accordance with procedures
+prescribed by the rules of the commission. 
+
+       (4) The
+commission shall promulgate rules concerning the manner of applying for and
+taking depositions and the use thereof. Such rules shall provide reasonable
+provisions against abuse of such procedure and for protection of the rights of
+all persons affected. [1971 c.655 §45] 
+
+   
+
+       756.540 [Repealed by 1971 c.655 §250] 
+
+   
+
+       756.543
+Issuance of subpoenas; failure to comply. (1) The Public Utility Commission shall issue
+subpoenas to any party to a proceeding before the commission upon request and
+proper showing of the general relevance and reasonable scope of the evidence
+sought. Witnesses appearing pursuant to subpoena, other than the parties or
+their officers or employees, or employees of the commission, shall receive fees
+and mileage as prescribed by law for witnesses in ORS 44.415 (2). If the
+commission certifies that the testimony of a witness was relevant and material,
+any person who paid fees and mileage to that witness shall be reimbursed by the
+commission and from moneys referred to in ORS 756.360, subject to the
+limitations provided in ORS 756.360. 
+
+       (2) If any person
+fails to comply with any subpoena so issued or any party or witness refuses to
+testify on any matters on which the person may be lawfully interrogated, the
+judge of the circuit court of any county, on the application of the commission,
+or of the party requesting the issuance of the subpoena, shall compel obedience
+by proceedings for contempt as in the case of disobedience of the requirements
+of a subpoena issued from such court or a refusal to testify therein. [1971
+c.655 §46; 1983 c.540 §2; 1987 c.980 §23; 1997 c.249 §221] 
+
+   
+
+       756.549
+Self-incrimination of witnesses in commission proceedings. (1) No person shall be excused
+from testifying or from producing evidence in any proceeding held by the Public
+Utility Commission on the ground that the testimony or evidence required of the
+person may tend to incriminate the person or subject the person to prosecution,
+penalty or forfeiture if: 
+
+       (a) The person
+has been directed by the commission to testify or produce evidence under oath; 
+
+       (b) The person
+claims, at the time the person is directed by the commission to testify or
+produce evidence, that the testimony or evidence required of the person may
+tend to incriminate the person or subject the person to prosecution, penalty or
+forfeiture; and 
+
+       (c) The
+commission specifically grants the person immunity from prosecution, penalty or
+forfeiture regarding those matters about which the person testifies or produces
+evidence as directed. 
+
+       (2) Except for
+prosecution and punishment for perjury, no person who testifies or produces
+evidence in accordance with subsection (1) of this section shall be prosecuted
+or subjected to any penalty or forfeiture concerning any matter about which the
+person so testified or produced evidence. [1971 c.655 §47] 
+
+   
+
+       756.550 [Amended by 1957 c.599 §1; 1971
+c.655 §50; renumbered 756.558] 
+
+   
+
+       756.552
+Self-incrimination of witnesses in court proceedings. No person shall be excused from
+testifying or from producing books and papers in any court proceeding based
+upon or growing out of any violation of the provisions of ORS chapter 756, 757,
+758, 759 or 825 or ORS 824.020 to 824.042, 824.050 to 824.110, 824.200 to
+824.256 or 824.300 to 824.310 on the ground or for the reason that the
+testimony or evidence, documentary or otherwise, required of the person may
+tend to incriminate the person or subject the person to penalty or forfeiture;
+but no person having so testified shall be prosecuted or subjected to any
+penalty or forfeiture for, or on account of, any transaction, matter or thing
+concerning which the person may have testified or produced any documentary
+evidence. However, no person shall be exempted from prosecution or punishment
+for perjury while so testifying. The immunity conferred by this section shall
+extend only to a natural person who, in obedience to a subpoena, gives
+testimony under oath or produces evidence, documentary or otherwise, under oath.
+[Formerly 757.590; 1989 c.827 §2] 
+
+   
+
+       756.555 Powers
+of commission at hearings. 
+The Public Utility Commission may administer oaths, certify to official acts,
+issue notices in the name of the commission, issue subpoenas, compel the
+attendance of witnesses and the production of books, accounts, papers, records,
+documents and testimony, and take and receive testimony, conduct hearings and
+investigations, whether upon complaint or upon the commission’s own motion. [Formerly
+757.555] 
+
+   
+
+       756.558 Taking
+of evidence; findings; issuance of orders; providing copies of orders. (1) At the conclusion of the
+taking of evidence, the Public Utility Commission shall declare the taking of
+evidence concluded. Thereafter no additional evidence shall be received except
+upon the order of the commission and a reasonable opportunity of the parties to
+examine any witnesses with reference to the additional evidence and otherwise
+rebut and meet such additional evidence. 
+
+       (2) After the
+completion of the taking of evidence, and within a reasonable time, the
+commission shall prepare and enter findings of fact and conclusions of law upon
+the evidence received in the matter and shall make and enter the order of the
+commission thereon. The findings of fact and conclusions of law may be embodied
+in the same instrument with the order or may be embodied in a separate
+instrument. The findings of fact, conclusions of law and order thereon shall be
+signed by the commission. The order shall state the date it becomes effective.
+A copy of the findings of fact and conclusions of law and a copy of the order
+shall, forthwith upon the entry of the same, be served upon each of the parties
+to the proceeding. 
+
+       (3) Upon
+application of any person, the commission shall furnish certified copies, under
+the seal of any order made by the commission. [Formerly 756.550] 
+
+   
+
+       756.560 [Amended by 1971 c.655 §44;
+renumbered 756.534] 
+
+   
+
+       756.561
+Rehearing; reconsideration. 
+(1) After an order has been made by the Public Utility Commission in any
+proceeding, any party thereto may apply for rehearing or reconsideration
+thereof within 60 days from the date of service of such order. The commission
+may grant such a rehearing or reconsideration if sufficient reason therefor is
+made to appear. 
+
+       (2) No such
+application shall excuse any party against whom an order has been made by the
+commission from complying therewith, nor operate in any manner to stay or
+postpone the enforcement thereof without the special order of the commission. 
+
+       (3) If a
+rehearing is granted, the proceedings thereupon shall conform as nearly as
+possible to the proceedings in an original hearing, except as the commission
+otherwise may direct. If in the judgment of the commission, after such
+rehearing and the consideration of all facts, including those arising since the
+former hearing, the original order is in any respect unjust or unwarranted, the
+commission may reverse, change or modify the same accordingly. Any order made
+after such rehearing, reversing, changing or modifying the original
+determination is subject to the same provisions as an original order. [Formerly
+756.570] 
+
+   
+
+       756.565 Prima
+facie effect of commission actions. 
+All rates, tariffs, classifications, regulations, practices and service fixed,
+approved or prescribed by the Public Utility Commission and any order made or
+entered upon any matter within the jurisdiction of the commission shall be in
+force and shall be prima facie lawful and reasonable, until found otherwise in
+a proceeding brought for that purpose under ORS 756.610. [Formerly 760.575;
+2005 c.638 §5] 
+
+   
+
+       756.568
+Rescission, suspension and amendment of orders. The Public Utility Commission may
+at any time, upon notice to the public utility or telecommunications utility
+and after opportunity to be heard as provided in ORS 756.500 to 756.610,
+rescind, suspend or amend any order made by the commission. Copies of the same
+shall be served and take effect as provided in ORS 756.558 for original orders.
+[Formerly 757.540; 1973 c.776 §30; 1987 c.447 §92a; 1995 c.733 §70] 
+
+   
+
+       756.570 [Amended by 1971 c.655 §51;
+renumbered 756.561] 
+
+   
+
+       756.572 Effect
+of orders on successors in interest. 
+(1) An order of the Public Utility Commission issued in accordance with the
+provisions of ORS chapters 756, 757, 758 and 759 is binding upon the successors
+in interest of each person affected thereby, until set aside, rescinded,
+suspended or modified as provided by law. 
+
+       (2) Any
+investigation, hearing or other proceeding involving the issuance of an order
+of the commission that has not been finally determined when a transfer of any
+interests of a person is effected may be continued and finally determined,
+notwithstanding any such transfer of interest. Any order issued in such
+investigation, hearing or other proceeding is binding upon the successors in
+interest. [1971 c.655 §54; 1973 c.776 §31; 1987 c.447 §93; 1995 c.733 §71] 
+
+   
+
+       756.575 Notice
+of acceptance of terms of orders. 
+The Public Utility Commission may provide by rule that any public utility or
+telecommunications utility affected by any order shall within a time to be
+fixed by the commission, notify the commission whether the terms of the order
+are accepted and will be obeyed. [1971 c.655 §55; 1973 c.776 §32; 1987 c.447 §94;
+1995 c.733 §72] 
+
+   
+
+       756.580 [Amended by 1971 c.655 §56;
+repealed by 2005 c.638 §21] 
+
+   
+
+       756.585 [1971 c.655 §57; repealed by 2005
+c.638 §21] 
+
+   
+
+       756.590 [Amended by 1971 c.655 §58; 1995
+c.781 §46; repealed by 2005 c.638 §21] 
+
+   
+
+       756.594 [1971 c.655 §59; repealed by 2005
+c.638 §21] 
+
+   
+
+       756.598 [1971 c.655 §60; 1979 c.284 §197;
+repealed by 2005 c.638 §21] 
+
+   
+
+       756.600 [Amended by 1971 c.655 §61; 2003
+c.576 §558; repealed by 2005 c.638 §21] 
+
+   
+
+       756.610
+Judicial review. 
+(1)(a) Except as provided in subsections (2) and (3) of this section, final
+orders of the Public Utility Commission are subject to judicial review as
+orders under the provisions of ORS 183.480 to 183.497. 
+
+       (b) Binding
+rulings issued under ORS 756.450 are subject to review in the Court of Appeals
+in the manner provided in ORS 183.480 for the review of orders in contested
+cases. 
+
+       (2) ORS 183.482
+(3) does not apply to judicial review of an order of the Public Utility
+Commission. At any time after filing a petition for judicial review of a final
+order of the commission in a contested case, the petitioner may apply to the
+Court of Appeals for a stay of the order until the final disposition of the
+appeal. The court may grant a stay for cause shown. As a condition of granting
+a stay, the court may require a bond or other security, or impose such other
+conditions as the court deems appropriate. A stay may be granted only after
+notice to the commission and opportunity for hearing. Any bond required by the
+court must be executed in favor of the commission for the benefit of interested
+persons, and may be enforced by the commission or by any interested person. 
+
+       (3) An order of
+the Public Utility Commission related to the petition for a certificate of
+public convenience and necessity under ORS 758.015, where the petitioner also
+seeks approval from the Energy Facility Siting Council for the proposed
+transmission line, is subject to judicial review as provided in ORS 758.017. [Amended
+by 1971 c.655 §62; 2003 c.576 §559; 2005 c.638 §6; 2013 c.335 §4; 2017 c.312 §3] 
+
+   
+
+ PENALTIES 
+
+   
+
+       756.990
+Penalties. (1) Any
+public utility or telecommunications utility that fails to comply with an order
+or subpoena issued pursuant to ORS 756.090 shall forfeit, for each day it so
+fails, a sum of not less than $50 nor more than $500. 
+
+       (2) Except where
+a penalty is otherwise provided by law, any public utility, telecommunications
+utility or other person subject to the jurisdiction of the Public Utility
+Commission shall forfeit a sum of not less than $100 nor more than $10,000 for
+each time that the person: 
+
+       (a) Violates any
+statute administered by the commission; 
+
+       (b) Does any act
+prohibited, or fails to perform any duty enjoined upon the person; 
+
+       (c) Fails to obey
+any lawful requirement or order made by the commission; or 
+
+       (d) Fails to obey
+any judgment made by any court upon the application of the commission. 
+
+       (3) Violation of
+ORS 756.115 is a Class A violation. 
+
+       (4) Violation of
+ORS 756.125 is a Class C misdemeanor. 
+
+       (5) Violation of
+ORS 756.543 (1) is a Class A misdemeanor. 
+
+       (6) In construing
+and enforcing this section, the act, omission or failure of any officer, agent
+or other person acting for or employed by any public utility,
+telecommunications utility or other person subject to the jurisdiction of the
+commission acting within the scope of the person’s employment shall in every
+case be deemed to be the act, omission or failure of such public utility,
+telecommunications utility or other person subject to the jurisdiction of the
+commission. With respect to any violation of any statute administered by the
+commission, any penalty provision applying to such a violation by a public
+utility or telecommunications utility shall apply to such a violation by any
+other person. 
+
+       (7) Except when
+provided by law that a penalty, forfeiture or other sum be paid to the
+aggrieved party, or as provided in ORS 757.994 (1), all penalties or
+forfeitures or other sums collected or paid under the provisions of any law
+administered by the commission shall be paid into the General Fund and credited
+to the Public Utility Commission Account. [1971 c.655 §63; 1973 c.232 §4; 1973
+c.776 §33; 1977 c.105 §1; 1979 c.415 §1; 1987 c.447 §95; 1995 c.733 §73; 1999
+c.1051 §223; 2003 c.202 §9; 2003 c.576 §560; 2011 c.597 §299] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

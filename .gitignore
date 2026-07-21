@@ -5,6 +5,8 @@ node_modules/
 .DS_Store
 changed-sources.tsv
 _meta/.cache/
+# transient batch-ingest progress log (not corpus content)
+_meta/catalog/ors-ingest-log.txt
 
 # Deploy-time secrets: this repo's own MCP server is deployed via a Cloudflare
 # Tunnel whose credentials live in ~/.cloudflared/ on the host, never in-repo (see

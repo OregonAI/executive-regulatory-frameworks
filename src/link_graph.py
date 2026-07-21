@@ -127,11 +127,19 @@ def rewrite_relationships(path, new_rel):
     return False
 
 
+LINK_DOC_TYPES = ("rule", "policy", "procedure", "manual", "standard", "executive_order")
+
+
 def compute(write=False):
-    docs = {}      # id -> {path, fm, body}
+    # Store only the small pre-extracted authority region, never the full body — at
+    # ~68k files (incl. 30k full-text statutes) retaining every body OOM-kills the
+    # process on a memory-constrained host. authority_text() reads the body once here
+    # and we drop it; nothing downstream needs the full text.
+    docs = {}      # id -> {path, fm, auth}
     for p in content_files():
         fm, body = parse_frontmatter(p)
-        docs[fm["id"]] = {"path": p, "fm": fm, "body": body}
+        auth = authority_text(fm, body) if fm["doc_type"] in LINK_DOC_TYPES else ""
+        docs[fm["id"]] = {"path": p, "fm": fm, "auth": auth}
 
     rules_by_div = {}
     for did in docs:
@@ -145,11 +153,9 @@ def compute(write=False):
 
     # 1) citation-derived implements edges (rules/policies/procedures/manuals/standards)
     for did, d in docs.items():
-        if d["fm"]["doc_type"] in ("rule", "policy", "procedure", "manual", "standard",
-                                   "executive_order"):
+        if d["fm"]["doc_type"] in LINK_DOC_TYPES:
             targets = resolve_citations(
-                authority_text(d["fm"], d["body"]), docs, rule_map, div_map,
-                rules_by_div, did)
+                d["auth"], docs, rule_map, div_map, rules_by_div, did)
             rel[did]["implements"].extend(sorted(targets))
 
     # 2) procedure <-> policy naming pairs

@@ -1,0 +1,1114 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+101 — Continuing Care Retirement Communities 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ CONTINUING CARE RETIREMENT
+COMMUNITIES 
+
+   
+
+ PROPERTY RIGHTS AND TRANSACTIONS 
+
+   
+
+ 101.010     Policy 
+
+   
+
+ 101.020     Definitions 
+
+   
+
+ 101.030     Registration of
+continuing care retirement community providers 
+
+   
+
+ 101.040     Registration fees 
+
+   
+
+ 101.050     Preparation of
+disclosure statement by provider; notice and review of statement by prospective
+residents; contents of statement 
+
+   
+
+ 101.052     Annual disclosure
+statement 
+
+   
+
+ 101.060     Provider to maintain
+financial reserves; amount; escrow account; withdrawal from reserves 
+
+   
+
+ 101.065     Provider liquidation;
+resident claims preferred 
+
+   
+
+   
+
+ 101.070     Escrow account required
+for registration of new continuing care retirement community; entrance fees in
+escrow; use of escrow funds 
+
+   
+
+ 101.080     When resident eligible
+for refund of entrance fee; notice to resident 
+
+   
+
+ 101.090     Exemption of closed bed
+facilities from certificate of need review; exception 
+
+   
+
+ 101.100     Transfer of
+registration 
+
+   
+
+ 101.110     Revocation of
+registration; findings 
+
+   
+
+ 101.112     Required meetings with
+residents; notice of change in fees or services 
+
+   
+
+ 101.115     Resident rights 
+
+   
+
+ 101.120     Power of department to
+prevent violations; cease and desist order; injunction 
+
+   
+
+ 101.140     Advisory council;
+membership; compensation; duties 
+
+   
+
+ 101.150     Duties of Department of
+Human Services; complaint procedure; rules 
+
+   
+
+ 101.160     Short title 
+
+   
+
+       101.010
+Policy. The
+Legislative Assembly finds that continuing care retirement communities are an
+important and necessary alternative for the long term residential, social and
+health maintenance needs for many of Oregon’s senior citizens. The Legislative
+Assembly recognizes the need for disclosure with respect to the terms of
+agreements between residents, prospective residents and the provider. The
+Legislative Assembly also recognizes the need to establish reserves and escrow
+requirements to provide adequate standards for the development and operation of
+continuing care retirement communities. Accordingly, the Legislative Assembly
+has determined that these providers should be registered and should establish
+reserves and escrows in accordance with this chapter. [1989 c.693 §2] 
+
+   
+
+       101.020
+Definitions. As
+used in this chapter: 
+
+       (1) “Affiliated
+organization” means any profit or not-for-profit corporation, limited liability
+company, partnership, sole proprietorship, sponsoring entity or other form of
+legal entity: 
+
+       (a) That is the
+lessor of the real property on which the facilities of the provider are
+situated; 
+
+       (b) That a
+provider has identified in its disclosure statement pursuant to ORS 101.050
+(1)(e); or 
+
+       (c) In which any
+director or executive officer of a provider or of any manager of a provider has
+an equity or debtor financial interest in excess of $10,000. 
+
+       (2) “Applicant”
+means a provider that has submitted an application and disclosure statement to
+register as a continuing care retirement community. 
+
+       (3) “Application
+fee” means a fee charged to an individual or individuals, prior to execution of
+a residency agreement, apart from an entrance fee. 
+
+       (4) “Audited
+financial statement” means a provider’s financial statement that has been
+prepared in accordance with generally accepted accounting principles and that
+has been audited by an independent certified public accountant in accordance
+with generally accepted auditing standards and includes notes to the financial
+statement that state whether or not the continuing care retirement community is
+in compliance with its reserve requirements. 
+
+       (5) “Closed bed
+long term care facility” means a licensed long term care facility in a
+continuing care retirement community that is used exclusively by individuals
+receiving long term care services under a residency agreement. 
+
+       (6) “Continuing
+care” means directly furnishing or indirectly making available, upon payment of
+an entrance fee and under a residency agreement, housing and health related
+services for a period greater than one year to an individual not related by
+blood or marriage to the continuing care retirement community provider that is
+furnishing care. 
+
+       (7) “Continuing
+care retirement community” or “CCRC” means any provider that is registered with
+the Department of Human Services and agrees to furnish continuing care to a
+resident under a residency agreement. 
+
+       (8) “Entrance fee”
+means an initial or deferred transfer to a provider of a sum of money or other
+property made or promised to be made as full or partial consideration for
+acceptance of one or more residents in a continuing care retirement community.
+A fee that is less than the sum of the regular periodic charges for one year of
+residency is not an entrance fee. 
+
+       (9) “Health
+related services” includes, but is not limited to, nursing care, assistance
+with activities of daily living, long term care and rehabilitative services. 
+
+       (10) “Living unit”
+means a room, apartment, cottage or other area set aside for the exclusive use
+of the resident. 
+
+       (11) “Manager”
+means a person, corporation, partnership, association or other legal entity
+that enters into a contractual arrangement with the provider to manage the
+continuing care retirement community. However, “manager” does not include
+individuals employed by the provider or corporations affiliated with the
+provider or other legal entities within the provider’s supervision or control. 
+
+       (12) “New
+continuing care retirement community” means a continuing care retirement
+community registered by a provider on or after January 1, 1990. “New continuing
+care retirement community” does not mean the remodeling or expansion of an
+existing continuing care retirement community’s facility on the same or an
+adjacent site. 
+
+       (13) “Omit a
+material fact” means the failure to state a material fact required to be stated
+in any disclosure statement or registration. 
+
+       (14) “Open bed
+long term care facility” means a licensed long term care facility in a
+continuing care retirement community that admits persons who have not signed a
+residency agreement. 
+
+       (15) “Provider”
+means an owner or operator, whether a natural person, partnership, trust,
+limited liability company, corporation or unincorporated association, however
+organized, of a new or existing continuing care retirement community, whether
+operated for profit or not, that provides, plans to provide or agrees to
+provide continuing care to one or more unrelated residents under a residency
+agreement. 
+
+       (16) “Regular
+periodic charges” means basic monthly fees charged to a resident on an ongoing
+basis. 
+
+       (17) “Residency
+agreement” means a contract between a provider and a resident for the provision
+of continuing care for a period greater than one year. 
+
+       (18) “Resident”
+means a person who enters into a residency agreement with a provider or who is
+designated in a residency agreement to be a person being provided with
+continuing care. 
+
+       (19) “Residents’
+council” means a body of residents of a continuing care retirement community
+who are elected by the residents and recognized by the provider as representing
+the interests of the residents. 
+
+       (20) “Solicit”
+means all actions of a provider in seeking to have individuals pay an
+application fee or enter into a residency agreement by any means including,
+without limitation, personal, telephone, mail or any media distributed or
+communicated by any means. [1989 c.693 §3; 1997 c.633 §4; 2009 c.201 §1] 
+
+   
+
+       101.030
+Registration of continuing care retirement community providers. (1) A new continuing care
+retirement community provider shall register with the Department of Human
+Services before the provider: 
+
+       (a) Enters into a
+residency agreement with a nonresident; 
+
+       (b) Solicits
+either a prospective resident or nonresident to pay an application fee or
+execute a residency agreement; or 
+
+       (c) Collects an
+entrance fee. 
+
+       (2) The provider
+shall apply for registration with the department on forms prescribed by the
+department. The application shall include a disclosure statement as described
+in ORS 101.050. The disclosure statement must include an explanation, in
+boldfaced type, whether and in what manner and amount entrance fees are
+refunded to prospective residents in the event a prospective resident withdraws
+from the residency agreement prior to occupancy. 
+
+       (3) Within 10
+business days after receipt of the completed application for registration of a
+new continuing care retirement community, the department shall issue a notice
+of filing to the applicant. Within 60 days of the notice of filing, the
+department shall enter an order registering the provider or rejecting the
+registration. If no order of rejection is entered within 60 days from the date
+of notice of filing, the provider shall be considered registered unless the
+provider and the department agree in writing to an extension of time. If no
+order of rejection is entered within the time period as so extended, the
+provider shall be considered registered. 
+
+       (4) If the
+department determines that the requirements of ORS 101.050, 101.060, 101.070
+and 101.090 have been met, it shall enter an order registering the provider. If
+the department determines that any of the requirements of ORS 101.050, 101.060,
+101.070 or 101.090 have not been met, the department shall notify the applicant
+that the application for registration must be corrected within 30 days in such
+particulars as are designated by the department. If the requirements are not
+met within the time allowed, the department may enter an order rejecting the
+registration. The order shall include the findings of fact upon which the order
+is based and which shall not become effective until 20 days after the end of
+the foregoing 30-day period. During the 20-day period, the applicant may
+petition for reconsideration and shall be entitled to a hearing. An order of
+rejection shall not take effect, in any event, until such time as the hearing,
+once requested, has been given to the applicant and a decision is rendered by
+the administrative law judge that sustains the department’s decision to reject
+the registration. [1989 c.693 §7; 1991 c.67 §19; 2003 c.75 §82; 2005 c.22 §79;
+2009 c.201 §2] 
+
+   
+
+       101.040
+Registration fees. 
+The initial application for registration shall be accompanied by a fee of $500.
+After the initial registration, the subsequent annual fee shall be $250 per
+facility. [1989 c.693 §18] 
+
+   
+
+       101.050
+Preparation of disclosure statement by provider; notice and review of statement
+by prospective residents; contents of statement. (1) After entry of an order
+registering the provider and before the provider enters into any residency
+agreement with or on behalf of the prospective resident, the provider shall
+notify prospective residents of their right to review the initial disclosure
+statement and shall make copies of the statement available upon request. The
+initial disclosure statement shall be available during regular business hours
+in the business office of the continuing care retirement community. The text of
+the initial disclosure statement shall contain the following information: 
+
+       (a) The rights
+and requirements contained in ORS 101.115. 
+
+       (b) The names of
+the individual or individuals who constitute the provider or, if the provider
+is a partnership, limited liability company, corporation or other legal entity,
+whether for profit or not for profit, the name of the legal entity and each of the
+officers, directors, trustees or managing general partners of the legal entity
+and a description of each individual’s duties on behalf of the legal entity. 
+
+       (c) The business
+address of the provider and a statement of whether the provider is an
+individual, partnership, limited liability company, corporation or other legal
+entity. 
+
+       (d) The names and
+business addresses of any individual having any more than a 10 percent direct
+or indirect ownership or beneficial interest in the provider, the percentage of
+the direct or indirect ownership or beneficial interest and a description of each
+individual’s interest in or occupation with the provider. 
+
+       (e)(A) A
+statement as to whether the provider is or is not affiliated with any other
+organization of any kind, the extent of the affiliation, if any, and the extent
+to which any of the affiliated organizations are responsible for the financial
+and contractual obligations of the provider; and 
+
+       (B) The provision
+of the Internal Revenue Code, if any, under which the provider or any
+affiliated organization is exempt from the payment of federal income taxes. 
+
+       (f) The location
+and general description of the continuing care retirement community, including
+the location and number of living units and licensed long term care beds
+considered part of the CCRC, and any other care facilities owned or operated by
+the provider. The provider must disclose the following about any proposed
+continuing care retirement community or other care facilities: 
+
+       (A) The estimated
+completion date or dates; 
+
+       (B) A statement
+as to whether or not construction has begun; and 
+
+       (C) Any
+contingencies subject to which construction may be deferred. 
+
+       (g) The number of
+open bed long term care facility beds operated by the CCRC. 
+
+       (h) A description
+of services provided or proposed to be furnished by the provider under its
+residency agreements including, without limitation: 
+
+       (A) The extent to
+which medical care, long term care or health related services are furnished,
+and the locations where the services will be furnished. If the services are
+furnished at a facility that is not registered as part of the CCRC’s campus,
+the provider shall state the location where the services are furnished and any
+additional fees associated with the services; and 
+
+       (B) The services
+made available by the continuing care retirement community at an extra charge
+over and above the entrance fee. 
+
+       (i) A description
+of all fees required of each resident, including the entrance fee, regular
+periodic charges and the manner in which any additional fees or regular
+periodic charges will be determined. The description shall include: 
+
+       (A) The
+circumstances under which the resident will be permitted to remain in the
+continuing care retirement community in the event the resident is unable to pay
+regular periodic or other charges; 
+
+       (B) The terms and
+conditions under which the residency agreement may be canceled by the provider
+or the resident or in the event of the death of the resident prior to or
+following occupancy of the living unit; 
+
+       (C) The
+percentage of the entrance fee refund required by ORS 101.080 and the manner in
+which this percentage is calculated; 
+
+       (D) The
+conditions under which a living unit occupied by a resident may be made
+available by the provider to another resident other than on the death of the
+resident executing the residency agreement; 
+
+       (E) The manner by
+which the provider may adjust regular periodic charges or other recurring fees; 
+
+       (F) A statement
+of the fees to be charged if the resident marries or divorces while at the
+designated continuing care retirement community, the terms concerning a
+resident’s spouse’s entry to or departure from a CCRC and the consequences if a
+new spouse does not meet the requirements for entry; and 
+
+       (G) The terms and
+conditions for the transfer of a resident out of the CCRC. 
+
+       (j) The provider’s
+most recent audited financial statement prepared in accordance with generally
+accepted accounting principles by a certified public accountant. This audited
+financial statement must not have been prepared more than 16 months prior to
+the date of the initial application for registration. 
+
+       (k) A copy of the
+residency agreement or agreements offered to the prospective resident by the
+provider. 
+
+       (L) A statement
+on the cover page in a prominent location and typeface that registration of the
+continuing care retirement community does not constitute approval,
+recommendation or indorsement of the CCRC by the Department of Human Services,
+and that such registration does not evidence the accuracy or completeness of
+the information set forth in the disclosure statement. 
+
+       (m) Copies of the
+primary written brochures and written promotional materials furnished to
+prospective residents. 
+
+       (n) A full
+description of all contracts that the provider has entered into with affiliated
+organizations and an explanation of the financial impact that the contracts may
+have on residents. 
+
+       (o) An affidavit
+signed by an authorized representative of the CCRC confirming that the
+application and disclosure statement are complete and accurate. 
+
+       (2) Any
+individual or legal entity named in subsection (1)(b) or (d) of this section
+and any proposed or existing manager must disclose: 
+
+       (a) Business
+experience in operation or management of the continuing care retirement
+community or other licensed long term care facilities; 
+
+       (b) Whether the
+person has been convicted of a crime; 
+
+       (c) Whether the
+person has been a party to any civil action in which a judgment for damages was
+obtained or in which an injunction was issued against the person for fraud,
+embezzlement, fraudulent conversion or misappropriation of property; 
+
+       (d) Whether the
+person has had any state or federal permits or licenses suspended or revoked,
+or if a state or federal authority has disqualified the person from providing
+services in the Medicare or Medicaid program in connection with the person’s
+business activities; and 
+
+       (e) The identity
+of any business or professional service entity in which the person has a 10
+percent or greater ownership interest and which the provider intends to employ
+to provide goods, services or any other things of value. 
+
+       (3) In the event
+subsection (2)(e) of this section applies, the person must disclose the
+anticipated costs to the provider or a statement that such costs cannot
+presently be estimated. 
+
+       (4) In addition
+to complying with all the provisions of this section, the provider must submit
+on behalf of a new continuing care retirement community a statement of the
+anticipated source and application of funds used or to be used in the purchase
+or construction of the CCRC, including: 
+
+       (a) An estimate
+of the cost of purchasing or constructing and equipping the CCRC that the
+provider expects to incur or become obligated for prior to the commencement of
+the operation of the CCRC; 
+
+       (b) A description
+of any mortgage loan or other long term financing intended to be used for the
+financing of the CCRC; 
+
+       (c) An estimate
+of the total entrance fees to be received from the residents at or prior to the
+commencement of operation of the continuing care retirement community based on
+projected occupancy at the time the CCRC commences operation; and 
+
+       (d) An estimate
+of the funds, if any, anticipated to be necessary to pay for start-up losses. [1989
+c.693 §8; 1997 c.633 §5; 2009 c.201 §3] 
+
+   
+
+       101.052 Annual
+disclosure statement. 
+(1) The provider shall file with the Department of Human Services an annual
+disclosure statement for the provider’s fiscal year that satisfies the
+requirements of this section and ORS 101.050. The statement shall be filed
+within four months following the end of the provider’s fiscal year unless the
+time is extended by the department. 
+
+       (2) In addition
+to the information required for an initial statement under ORS 101.050, the
+annual disclosure statement shall include: 
+
+       (a) An audited
+financial statement prepared in accordance with generally accepted accounting
+principles for the preceding fiscal year; 
+
+       (b) A disclosure
+of any change in ownership or manager; 
+
+       (c) The frequency
+of residents’ council meetings and the dates of the meetings; and 
+
+       (d) Copies of all
+notices of changes in regular periodic charges or notices of proposed changes
+in fees or services that were given to residents during the provider’s most
+recently completed fiscal year. 
+
+       (3) To amend an
+annual disclosure statement, a provider shall file all amended documents and
+new materials with the department. [Formerly 101.130] 
+
+   
+
+       101.055 [1997 c.633 §2; 2009 c.201 §4;
+renumbered 101.112 in 2009] 
+
+   
+
+       101.060
+Provider to maintain financial reserves; amount; escrow account; withdrawal
+from reserves. (1)
+A provider shall establish and maintain at all times: 
+
+       (a) A debt
+service liquid reserve in an amount equal to or exceeding the total of all
+principal and interest payments due during the next 12 months on account of a
+mortgage loan or other long term financing of the continuing care retirement
+community taking into consideration any anticipated refinancing; and 
+
+       (b) An operating
+liquid reserve in an amount equal to or exceeding the total of the CCRC’s
+projected operating expenses for three months. For the purpose of calculating
+the amount required for the operating liquid reserve, projected operating
+expenses include any anticipated expenses associated with providing housing or
+health related services under all residency agreements. 
+
+       (2) The
+Department of Human Services may require a provider not meeting its reserve
+requirements to place the reserves in an escrow account. 
+
+       (3) The notes to
+the provider’s annual audited financial statements shall state whether or not
+the reserve requirements have been met. 
+
+       (4) The
+department may allow withdrawal or borrowing from the reserves in an amount not
+greater than 20 percent of the provider’s total required reserves. The
+withdrawal or borrowing can be approved by the department only if required for
+making an emergency repair or replacement of equipment, to cover catastrophic
+loss that is not able to be covered by insurance or for debt service in a
+potential default situation. No withdrawal or borrowing may be made from a
+reserve without the approval of the department. All funds borrowed shall be
+repaid to the reserve within 18 months in accordance with a payment plan
+approved by the department. [1989 c.693 §12; 1997 c.633 §6; 2003 c.14 §40; 2009
+c.201 §5] 
+
+   
+
+       101.065
+Provider liquidation; resident claims preferred. If the provider is liquidated, the
+claims of residents arising under residency agreements shall be preferred
+claims having priority over other unperfected claims against provider assets. [1997
+c.633 §3] 
+
+   
+
+       101.070 Escrow
+account required for registration of new continuing care retirement community;
+entrance fees in escrow; use of escrow funds. (1) As a condition of registration for a new
+continuing care retirement community, the Department of Human Services shall
+require that the provider establish an escrow account with a bank, trust
+company or other escrow agent and that any entrance fees received by the
+provider prior to the date the resident is permitted to occupy the living unit
+in the CCRC be placed in the escrow account. 
+
+       (2) Upon written
+request by the provider, the department shall approve the release of the funds
+from escrow if the department is satisfied that: 
+
+       (a) The provider
+has received a certificate of occupancy by local authorities and has collected
+no less than 10 percent of each individual resident’s entrance fee for no less
+than 50 percent of the total number of units; 
+
+       (b) Anticipated
+proceeds of any first mortgage loan or other long term financing commitment
+plus funds from other sources in the actual possession of the provider are
+equal to not less than: 
+
+       (A) Fifty percent
+of the aggregate cost of constructing or purchasing and equipping and
+furnishing the CCRC; and 
+
+       (B) Fifty percent
+of the funds, which the provider estimated in its disclosure pursuant to ORS
+101.050, to fund start-up losses of the CCRC; and 
+
+       (c) A commitment
+has been received by the provider for any permanent mortgage loan or other long
+term financing commitment, which commitment the provider disclosed pursuant to
+ORS 101.050, and any conditions of this commitment prior to disbursement of
+funds thereunder, other than completion of the construction or closing of the
+purchase of the CCRC, have been substantially satisfied. 
+
+       (3) In the event
+a prospective resident withdraws from the residency agreement prior to
+occupancy, the entrance fee described in ORS 101.080 may not be refunded to the
+prospective resident until such time as the prospective resident’s unit has
+been resold. 
+
+       (4) If the
+entrance fees in an escrow account are not released within 48 months after the
+escrow account is opened, entrance fees paid, less the escrow fee, shall be
+returned to the residents unless an extension is granted by the department. 
+
+       (5) Nothing in
+this section requires the escrow of any nonrefundable application fee charged
+to prospective residents. 
+
+       (6) An entrance
+fee held in escrow may be returned by the escrow agent, at any time, to the
+person or persons who paid the fee to the provider upon receipt by the escrow
+agent of notice from the provider that such person is entitled to a refund of
+the entrance fee. [1989 c.693 §13; 2009 c.201 §6] 
+
+   
+
+       101.080 When
+resident eligible for refund of entrance fee; notice to resident. (1) Any provider that requires any
+resident, as a condition of occupancy or use of the facility, to pay an
+entrance fee, prior to or during the first six months of occupancy in addition
+to monthly payments, shall provide that a percentage of that entrance fee be
+refunded to the resident if the residency agreement is terminated, other than
+by reason of death of the resident, within the first six months of occupancy. 
+
+       (2) The
+percentage of the entrance fee to be refunded and the manner in which this
+percentage is calculated shall be written in boldfaced type in the residency
+agreement and disclosed in the initial and annual disclosure statements
+required by ORS 101.050 and 101.052. [Formerly 91.690; 2009 c.201 §7] 
+
+   
+
+       101.090
+Exemption of closed bed facilities from certificate of need review; exception. A closed bed long term care
+facility shall be subject to the same requirements as all other long term care
+facilities, as defined by ORS 442.015, except that it shall be exempt from the
+certificate of need process provided by ORS 442.315. However, any closed bed
+long term care facility which initiates under this exemption any new
+institutional health services, as defined in ORS 442.015, and which
+subsequently accepts patients who are not residents of the continuing care
+retirement community, shall become subject to certificate of need review for
+such new institutional health services at the time that nonresident patients
+begin to be admitted. [1989 c.693 §10; 1991 c.67 §20; 2009 c.201 §8] 
+
+   
+
+       101.100
+Transfer of registration. 
+No provider registration shall be transferred. A registered provider, who
+wishes to sell or transfer ownership of the continuing care retirement
+community to another party, shall first obtain approval from the Department of
+Human Services. [1989 c.693 §14] 
+
+   
+
+       101.110
+Revocation of registration; findings. 
+(1) The registration of a provider shall remain in effect until revoked, after
+notice and hearing, upon written findings of fact by the Department of Human
+Services that the provider has: 
+
+       (a) Violated any
+provision of this chapter or any rule or order adopted under this chapter; 
+
+       (b) Failed to
+file an annual disclosure statement required by ORS 101.052; 
+
+       (c) Failed to
+make available to prospective and current residents the disclosure statements
+required by ORS 101.050 and 101.052; 
+
+       (d) Delivered to
+prospective residents a disclosure statement as provided by ORS 101.050 and
+101.052 that makes an untrue statement of material fact or omits a material
+fact and the provider, at the time of the delivery of the disclosure statement,
+knew or should have known of the misstatement or omission; 
+
+       (e) Failed to
+comply with the terms of a cease and desist order described in ORS 101.120; 
+
+       (f) Failed to
+establish and maintain reserves required by ORS 101.060; or 
+
+       (g) Failed to
+place reserves in an escrow account when required by the department under ORS
+101.060. 
+
+       (2) Findings of
+fact in support of revocation, if set forth in statutory language, shall be
+accompanied by a concise and explicit statement of the underlying facts
+supporting the findings. 
+
+       (3) If the
+department finds, after notice and hearing, that the provider has been guilty
+of a violation for which revocation could be ordered, it may first issue a
+cease and desist order. If the cease and desist order is or cannot be effective
+in remedying the violation, the department may, after notice and hearing, order
+that the registration be revoked. 
+
+       (4) If the
+department revokes a provider’s registration, the provider shall supply the
+department with a list of the names and addresses of all residents who have
+entered into residency agreements with the provider. [1989 c.693 §15; 2009
+c.201 §9] 
+
+   
+
+       101.112
+Required meetings with residents; notice of change in fees or services. (1) The governing body or a
+designated representative of the provider shall hold meetings with the
+residents’ council or meetings that are open to all of the residents in a
+continuing care retirement community at least twice a year for the purpose of
+free discussion of subjects that may include, but are not limited to, facility
+income, expenditures, financial trends, resident concerns and proposed changes
+in policy, programs and services. The meetings shall be open to a designated
+personal representative of a resident. In addition, the provider shall present
+for discussion any issue the residents’ council or any resident of the CCRC
+identifies orally or in writing 14 days or more prior to the date of the
+meeting. 
+
+       (2) The provider
+shall give residents at least 45 days’ notice of proposed changes in fees,
+regular periodic charges or services. At least 30 days before an increase in
+regular periodic charges takes effect, the provider shall hold a meeting with
+the residents’ council or a meeting that is open to all of the residents of a
+CCRC to present the reasons for the proposed increase and any data supporting
+the need for the increase. A meeting described in subsection (1) of this
+section may be used for this purpose. At least 14 days prior to the meeting,
+the provider shall post in a conspicuous location and make available to each
+resident an agenda for the meeting. At the meeting, the provider shall make
+available an accounting of: 
+
+       (a) Actual and
+projected income and expenses for the CCRC’s current fiscal year; 
+
+       (b) Projected
+income and expenses for the following fiscal year; and 
+
+       (c) The current
+charges for each living unit in the CCRC and the proposed increase to each
+charge. 
+
+       (3) A provider
+shall review the CCRC budget with the residents’ council or a committee
+appointed by the council during the budget planning process. 
+
+       (4) A provider
+shall make available to the residents’ council or a committee appointed by the
+council, at least twice each year, a financial statement for the CCRC that
+compares actual costs to budgeted costs, broken down by expense category. 
+
+       (5) A provider
+shall maintain and make available to any resident, upon request, minutes of the
+meetings of the provider’s governing body. The provider may remove from the
+minutes information regarding any matters discussed in executive session or
+that relate to litigation, personnel, competitive advantage or an individual
+resident’s personal affairs, but may not remove information regarding the
+annual budget, increases in regular periodic charges, provider indebtedness or
+expansion in new or existing facilities. A provider shall retain the minutes
+for no less than three years from the date the minutes were created. 
+
+       (6) The governing
+body of a provider shall allow at least one resident from each CCRC operated in
+this state by the provider to participate as a nonvoting resident
+representative on the governing body or along with the owners or managers. The
+resident representative may be excluded from any executive session and from
+discussion of confidential matters or matters related to litigation, personnel,
+competitive advantage or an individual resident’s personal affairs. The
+resident representative may not be excluded from discussion of matters relating
+to the annual budget, increases in regular periodic charges, provider
+indebtedness or expansion in new or existing facilities. 
+
+       (7) The resident
+representative described in subsection (6) of this section and the
+representative’s alternate must be elected by a majority vote of the residents’
+council of each CCRC or by a majority vote of all residents of a CCRC. The
+representative is responsible for submitting the representative’s name,
+address, electronic mail address and telephone number to the provider. The
+provider may establish the term for representatives and the procedures for
+election and replacement of a representative and an alternate. 
+
+       (8) A provider
+shall send to each resident representative and alternate, at the same time and
+in the same manner as other members of the governing body, owners or managers
+of the provider, the notice of meeting and any written materials relevant to
+the discussions in which the resident representative may participate under
+subsection (6) of this section. 
+
+       (9) The provider
+shall pay all reasonable travel expenses for a resident representative or
+alternate to attend meetings of the governing body and meetings of governing
+body committees. 
+
+       (10) Nothing in
+this chapter prohibits a provider from allowing greater resident participation
+than the minimum requirements set forth in this chapter including, but not
+limited to, the requirement: 
+
+       (a) Under
+subsection (1) of this section to hold meetings with the residents’ council or
+meetings that are open to all of the residents twice each year. 
+
+       (b) Under
+subsection (6) of this section to allow one elected resident representative for
+each CCRC to participate in the provider’s governing body or along with owners
+or managers. [Formerly 101.055] 
+
+   
+
+       101.115
+Resident rights. 
+(1) A provider must assist a resident, upon request, in the exercise of the
+resident’s rights as a citizen of the United States and as a resident of this
+state. A resident has the right to exercise all rights that do not infringe
+upon the rights or safety of other residents. 
+
+       (2) A resident
+has the right to review a provider’s disclosure statements. 
+
+       (3) A provider
+may not discriminate or impose any requirement or restriction based on sex,
+marital status, race, color, sexual orientation, gender identity or national
+origin of a resident, a prospective resident or a resident’s visitor. 
+
+       (4) A provider
+shall make reasonable accommodations to ensure that services are accessible to
+residents who have disabilities. 
+
+       (5) A provider
+shall treat each resident with respect and dignity at all times, and ensure
+privacy for each resident during rehabilitation or treatment and when receiving
+personal care services. 
+
+       (6) A resident
+has the right to associate and communicate privately with persons of the
+resident’s choice and to send and receive mail that is not opened by the
+provider. 
+
+       (7) A resident
+has the right to be free from abuse as defined in ORS 124.005. 
+
+       (8) The residents’
+council has the right to meet with the provider no less than twice each year
+and must be allowed free discussion at the meetings of subjects that may
+include, but need not be limited to, facility income, expenditures, financial
+trends, resident concerns, proposed changes in policy, programs and services,
+and any other issue identified by the council or a resident under ORS 101.112
+(1). 
+
+       (9) A resident
+has the right to participate in social, religious and community activities at
+the discretion of the resident. 
+
+       (10) A resident
+has the right to be fully informed, prior to or at the time of admission and
+during the resident’s period of residency, of services available in the
+continuing care retirement community, whether the provider participates in the
+Medicare or Medicaid programs and the consequences of the participation or lack
+of participation by the provider in the Medicare or Medicaid programs. 
+
+       (11) A resident
+has the right to refuse medication, treatment, care or participation in
+clinical trials or other research. 
+
+       (12) A resident
+has the right to obtain treatment, care and services, including but not limited
+to home health and hospice care, from persons providing health care who have
+not entered into a contract with or are not affiliated with the provider,
+subject to policies of the CCRC regarding the provision of services by persons
+that are not under contract. 
+
+       (13) A resident
+has the right to submit grievances and to suggest changes in policies and
+services either orally or in writing to staff or other individuals without fear
+of restraint, interference, coercion, discrimination or reprisal by the
+provider. A provider must adopt written policies and procedures for the timely
+resolution of a resident’s grievance. 
+
+       (14) A resident
+has the right to be free from harassment by other residents and to peaceful
+enjoyment of the CCRC without interference from other residents. 
+
+       (15) A provider
+shall keep clinical and personal records of residents confidential. A resident
+or an authorized representative of the resident has the right to a prompt
+inspection of the records pertaining to the resident’s care. The provider shall
+provide photocopies or electronic copies of a resident’s records to the
+resident or the authorized representative at a reasonable charge. 
+
+       (16) A resident
+has the right to receive notice of proposed changes in fees or services in
+accordance with ORS 101.112. The provider must allow residents a reasonable
+opportunity to comment on the proposed changes before the changes become
+effective. 
+
+       (17) A provider
+shall have a procedure in place for a resident to request that a staff person
+of a particular sex be assigned to assist the resident with activities of daily
+living. The provider shall accommodate the request unless the provider is
+unable to do so. If the provider is unable to accommodate the request, the
+provider shall notify the resident, in writing, of the reasons why the provider
+is unable to accommodate the request and shall maintain documentation showing
+why the provider cannot accommodate the request. [2009 c.201 §12; 2015 c.839 §1;
+2021 c.367 §6] 
+
+   
+
+       101.120 Power
+of department to prevent violations; cease and desist order; injunction. (1) If the Department of Human
+Services determines, after notice and hearing, that any person has violated or
+is about to violate any provision of this chapter or any rule or order issued
+under this chapter, the department may issue an order requiring the person to
+cease and desist from the unlawful practice or to take such affirmative action
+as in the judgment of the department carries out the purposes of this chapter. 
+
+       (2) If the
+department makes a finding of fact in writing that the public interest will be
+irreparably harmed by delay in issuing a cease and desist order, it may issue a
+temporary cease and desist order that shall include in its terms a provision
+that, upon request, a hearing shall be held within 10 days of such a request to
+determine whether or not the permanent cease and desist order shall be entered
+on the person. The temporary cease and desist order shall be served on the
+person by certified mail. 
+
+       (3) If it appears
+that a person has engaged, or is about to engage, in an act or practice
+constituting a violation of any provision of this chapter or of a rule or order
+under this chapter, the department, with or without prior administrative
+proceedings, may bring an action in the circuit court to enjoin the acts or
+practices or to enforce compliance with this chapter or any rule or order under
+this chapter. Upon proper showing, injunctive relief or temporary restraining
+orders shall be granted. The department shall not be required to post a bond in
+any court proceeding. [1989 c.693 §16] 
+
+   
+
+       101.130 [1989 c.693 §9; 2009 c.201 §10;
+renumbered 101.052 in 2009] 
+
+   
+
+       101.140
+Advisory council; membership; compensation; duties. (1) The Continuing Care Retirement
+Community Advisory Council is created and shall consist of nine members
+appointed by the Director of Human Services or a designee and shall represent
+the geographic location of providers in this state. A member must be a resident
+of this state. Three members must represent providers that are registered
+pursuant to ORS 101.030 and must have been actively engaged in the offering of
+residency agreements in this state for five years before appointment. The
+remaining members shall include: 
+
+       (a) A
+representative of the business community with expertise in the area of
+management; 
+
+       (b) A certified
+public accountant; 
+
+       (c) An attorney;
+and 
+
+       (d) Three Oregon
+residents of continuing care retirement communities or other consumer
+representatives. 
+
+       (2) The term of
+office for a member shall be three years or until a successor has been
+appointed and qualified. 
+
+       (3) The members
+of the advisory council shall serve without pay. They shall be reimbursed by
+the Department of Human Services for their actual and necessary traveling
+expenses incurred while on official business. 
+
+       (4) The council
+shall: 
+
+       (a) Elect a
+chairperson from among their number and elect or appoint a secretary, both of
+whom shall hold office for one year and thereafter until a successor is
+qualified and elected; 
+
+       (b) Hold an
+annual meeting and hold other meetings at times and places the department or
+the chairperson of the council may direct; 
+
+       (c) Keep a record
+of its proceedings. The record is prima facie evidence of all matters reported
+and shall be open to inspection at all times; 
+
+       (d) Act in an
+advisory capacity to the department; and 
+
+       (e) Make
+recommendations to the department on all proposed rules pertaining to this
+chapter. [1989 c.693 §5; 1993 c.18 §21; 1997 c.633 §7; 2001 c.900 §13] 
+
+   
+
+       101.150 Duties
+of Department of Human Services; complaint procedure; rules. (1) The Department of Human
+Services shall implement the provisions of this chapter. 
+
+       (2) The
+department shall adopt such rules as are reasonably necessary for the
+enforcement of this chapter. The department shall submit any proposed rules to
+the advisory council prior to proceeding with the notice procedures provided
+for in ORS 183.335. The department shall consider the comments of the advisory
+council which pertain to a proposed rule before the department adopts the rule. 
+
+       (3) The
+department shall adopt a procedure for a resident to file a complaint with the
+department concerning a continuing care retirement community’s failure to
+comply with a requirement of this chapter. The department shall: 
+
+       (a) Provide a
+response to the complainant no later than 14 days after the date the complaint
+is filed; 
+
+       (b) Complete an
+investigation of the complaint no later than 90 days after the date the
+complaint is filed; and 
+
+       (c) Provide a
+written report of the results of the investigation to the provider and to the
+complainant. [1989 c.693 §§4,17; 2015 c.839 §2] 
+
+   
+
+       101.160 Short
+title. This
+chapter may be cited as the Continuing Care Retirement Community Provider
+Registration Act. [1989 c.693 §1] 
+
+ CHAPTERS
+102 TO 104 [Reserved for expansion] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

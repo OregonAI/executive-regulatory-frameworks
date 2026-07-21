@@ -29,9 +29,13 @@ Hand-maintained list of known improvements deliberately deferred. (Distinct from
   `catalog_oar.py --discover --redo` periodically and diff the catalog (new/removed
   rule numbers), then re-ingest changes. Proper design someday: drive re-checks from
   the monthly Oregon Bulletin's list of filed rule changes instead.
-- **CI runtime at ~20k+ files** — verify_provenance will cross the ~10-minute
-  threshold noted below after the import; switch PRs to changed-files-only
-  verification (full corpus on main pushes or nightly) when it starts to hurt.
+- **CI runtime at ~20k+ files** — DONE: `verify_provenance.py` and
+  `validate_frontmatter.py` take `--changed [ref]` (git-diff scope vs the PR base) and
+  `-j N` (multiprocessing). CI runs changed-files-only on PRs and full corpus on
+  push-to-main + a nightly cron. `repo_lib.changed_content_files()` is the shared scope
+  helper. Not yet scoped: the global `--check` generators (`link_graph`, `review_queue`,
+  `build_llms`) still recompute corpus-wide, but they carry no snapshot line-matching so
+  they stay cheap; revisit if they dominate.
 
 ## Other known deferrals
 
@@ -42,4 +46,10 @@ Hand-maintained list of known improvements deliberately deferred. (Distinct from
   (per-order detail: `_meta/catalog/eo.yml` `text_layer` field).
 - CI runtime: verify only changed files on PRs, full corpus on main pushes,
   once the suite passes ~10 minutes (~2.5 min at 2,409 files).
-- Semantic/embedding search for the MCP server (FTS5 keyword+rank first).
+- Semantic/embedding search for the MCP server — infrastructure DONE (hybrid
+  BM25+vector `search_corpus` with RRF, `src/build_embeddings.py`, int8 committed-vector
+  format, optional-dep lazy fallback to keyword-only, CI soft-gate). Remaining: build and
+  commit the production index over the full corpus with a real local model
+  (`pip install -r requirements-embeddings.txt`; the default `hashing` fallback backend
+  has NO semantic quality and is for wiring/tests only). Best done after the ORS
+  mass-ingest so the vectors cover the expanded corpus.

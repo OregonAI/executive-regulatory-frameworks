@@ -1,0 +1,4444 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+734 — Rehabilitation, Liquidation and Conservation of Insurers 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ REHABILITATION, LIQUIDATION &
+CONSERVATION 
+
+   
+
+ INSURANCE 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 734.014     Definitions 
+
+   
+
+ 734.026     “Domiciliary,” “ancillary”
+and “reciprocal state” defined 
+
+   
+
+ 734.043     Supervision of insurer;
+order; consequences; insurer remedies 
+
+   
+
+ 734.047     Time for correction of
+condition leading to order of supervision 
+
+   
+
+ 734.051     Actions by director
+during period of supervision 
+
+   
+
+ 734.055     Action against person
+violating order of supervision 
+
+   
+
+ 734.059     Request for court order 
+
+   
+
+ 734.063     Court order; hearings;
+notice 
+
+   
+
+ 734.067     Review of court order 
+
+   
+
+ 734.110     Jurisdiction of
+delinquency proceedings; venue 
+
+   
+
+ 734.113     Application of Oregon
+Receivership Code 
+
+   
+
+ 734.120     Exclusive remedy;
+appeal 
+
+   
+
+ 734.130     Commencement of
+delinquency proceeding 
+
+   
+
+ 734.140     Injunctions 
+
+   
+
+ 734.142     Cooperation with
+director in delinquency proceedings 
+
+   
+
+ 734.144     Immunity of certain
+persons from civil liability 
+
+   
+
+ 734.150     Grounds for
+rehabilitation of domestic insurers 
+
+   
+
+ 734.160     Order of rehabilitation
+for domestic insurers 
+
+   
+
+ 734.170     Grounds for liquidation
+of domestic insurers 
+
+   
+
+ 734.180     Order of liquidation of
+domestic insurers 
+
+   
+
+ 734.190     Grounds for
+conservation of foreign and alien insurers 
+
+   
+
+ 734.200     Conservation or
+ancillary receivership of foreign and alien insurers 
+
+   
+
+ 734.210     Conduct of delinquency
+proceedings for domestic insurers 
+
+   
+
+ 734.220     Powers of director as
+receiver 
+
+   
+
+ 734.230     Deputies and assistants 
+
+   
+
+ 734.240     Conduct of delinquency
+proceedings for foreign insurers 
+
+   
+
+ 734.250     Right of domiciliary
+receiver to sue in this state 
+
+   
+
+ 734.260     Claims of nonresidents
+against domestic insurers 
+
+   
+
+ 734.270     Claims of residents
+against foreign insurers 
+
+   
+
+ 734.280     Form of claim; notice;
+hearing 
+
+   
+
+ 734.290     Priority of preferred
+claims 
+
+   
+
+ 734.300     Priority of special
+deposit claims 
+
+   
+
+ 734.310     Priority of secured
+claims 
+
+   
+
+ 734.320     Attachment and
+garnishment of assets 
+
+   
+
+ 734.340     Date rights fixed on
+liquidation 
+
+   
+
+ 734.350     Voidable transfers 
+
+   
+
+ 734.360     Preference of claims 
+
+   
+
+ 734.370     Offsets 
+
+   
+
+ 734.380     Allowance of certain
+claims 
+
+   
+
+ 734.385     Rights and obligations
+of Federal Home Loan Bank in connection with delinquency proceeding against
+insurer 
+
+   
+
+ 734.390     Time to file claims 
+
+   
+
+ 734.400     Report for assessment;
+domestic mutual and reciprocal insurers 
+
+   
+
+ 734.410     Levy of assessment;
+domestic mutual and reciprocal insurers 
+
+   
+
+ 734.420     Order to pay assessment 
+
+   
+
+ 734.430     Publication and
+transmittal of assessment order 
+
+   
+
+ 734.440     Judgment upon
+assessment 
+
+   
+
+ OREGON INSURANCE GUARANTY
+ASSOCIATION 
+
+   
+
+ 734.510     Definitions for ORS
+734.510 to 734.710 
+
+   
+
+ 734.520     Purpose 
+
+   
+
+ 734.530     Construction 
+
+   
+
+ 734.540     Application 
+
+   
+
+ 734.550     Oregon Insurance
+Guaranty Association; all insurers required to be members; formation of
+operating plan 
+
+   
+
+ 734.555     Application to
+association of certain laws governing corporations; exception 
+
+   
+
+ 734.560     Association board of
+directors; terms; vacancies; compensation and expenses; quorum 
+
+   
+
+ 734.570     Duties and functions of
+association 
+
+   
+
+ 734.575     Refunds from
+association deposited in General Fund 
+
+   
+
+ 734.579     Recoupment assessments;
+rules 
+
+   
+
+ 734.580     Discretionary functions
+of association 
+
+   
+
+ 734.590     Plan of operation;
+submission to director; rules 
+
+   
+
+ 734.600     Contents of plan of
+operation 
+
+   
+
+ 734.610     Notification to
+association of insurer insolvency; furnishing association with premium
+information 
+
+   
+
+ 734.620     Notification of
+insolvency to insured persons; revocation of designation of servicing facility 
+
+   
+
+ 734.630     Assignment of claim
+rights; filing statements of paid claims; effect of claim settlements 
+
+   
+
+ 734.635     Disbursing assets of
+insolvent insurer to association; court approval; notice to other states 
+
+   
+
+ 734.640     Exhaustion of coverage
+under policy before making claim against association; priority of claims 
+
+   
+
+ 734.645     Liability of Oregon
+Insurance Guaranty Association when member insurer is subject to liquidation
+after assuming sole responsibility for insurance policy that other member
+issued; exception 
+
+   
+
+ 734.650     Notifying director of
+impaired insurers; examination; reports on impaired insurers 
+
+   
+
+ 734.660     Regulation of
+association as insurer 
+
+   
+
+ 734.670     Exemption of
+association from payment of fees and taxes 
+
+   
+
+ 734.690     Immunity from legal
+action 
+
+   
+
+ 734.695     Liability of insured of
+insolvent insurer 
+
+   
+
+ 734.700     Defense of claims on
+default of insolvent insurer 
+
+   
+
+ 734.710     Administration of
+delinquency proceeding claims and expenses; application of ORS 734.014, 734.026
+and 734.110 to 734.440 to insurers 
+
+   
+
+ OREGON LIFE AND HEALTH INSURANCE
+GUARANTY ASSOCIATION 
+
+   
+
+ 734.750     Short title 
+
+   
+
+ 734.760     Definitions for ORS
+734.750 to 734.890 
+
+   
+
+ 734.770     Purpose 
+
+   
+
+ 734.780     Construction 
+
+   
+
+ 734.790     Application 
+
+   
+
+ 734.800     Oregon Life and Health
+Insurance Guaranty Association; required members; required accounts 
+
+   
+
+ 734.805     Association board of
+directors; terms; selection; vacancies; compensation and expenses 
+
+   
+
+ 734.810     Duties and powers of
+association; termination of obligations; limit of obligations 
+
+   
+
+ 734.815     Assessment of members;
+classes of assessments; amounts; refunds 
+
+   
+
+ 734.820     Plan of operation;
+submission of amendments to director; rules; contents of plan 
+
+   
+
+ 734.825     Powers and duties of
+director 
+
+   
+
+ 734.830     Notifying director of
+impaired insurers; examination; reports on impaired insurers 
+
+   
+
+ 734.835     Assessments offset
+against tax liabilities; rate 
+
+   
+
+ 734.840     Conduct of liquidation,
+rehabilitation or conservation proceeding involving impaired or insolvent
+insurer 
+
+   
+
+ 734.850     Examination and
+regulation of association by director; required reports 
+
+   
+
+ 734.860     Exemption of
+association from payment of fees and taxes 
+
+   
+
+ 734.870     Immunity from legal
+action 
+
+   
+
+ 734.880     Stay of proceeding
+involving insolvent insurer 
+
+   
+
+ 734.890     Association not to be
+used in sales or solicitation 
+
+   
+
+       734.010 [1967 c.359 §258; repealed by 1993
+c.447 §122] 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       734.014
+Definitions. As
+used in this chapter: 
+
+       (1) “Delinquency
+proceeding” means any proceeding commenced against an insurer pursuant to this
+chapter for the purpose of liquidating, rehabilitating or conserving the
+insurer. 
+
+       (2) “Foreign
+country” means territory not in any state. 
+
+       (3) “General
+assets” means all property, real, personal or otherwise, not specifically
+mortgaged, pledged, deposited or otherwise encumbered for the security or
+benefit of specified persons or a limited class or classes of persons. As to
+specifically encumbered property, “general assets” includes all such property
+or its proceeds in excess of the amount necessary to discharge the sum or sums
+secured thereby. Assets held in trust and assets held on deposit for the
+security or benefit of all policyholders or all policyholders and creditors, in
+more than a single state, shall be treated as general assets. 
+
+       (4) An insurer is
+“impaired” when its allowed assets do not exceed its liabilities plus its
+required capitalization. 
+
+       (5) An insurer is
+“insolvent” when the insurer is unable to pay its obligations when they are
+due, or when its allowed assets do not exceed its liabilities. 
+
+       (6) “Insurer”
+includes: 
+
+       (a) All persons
+transacting or purporting to transact insurance as insurers in this state; and 
+
+       (b) All persons
+in process of organization to become insurers. 
+
+       (7) “Receiver”
+means receiver, rehabilitator, liquidator or conservator, as the context may
+require. 
+
+       (8) “Secured
+claim” means any claim secured by mortgage, trust deed, pledge, deposit as
+security, escrow or otherwise, but not including special deposit claims or
+claims against general assets. “Secured claim” also includes claims which more
+than four months prior to the commencement of delinquency proceedings in the
+state of the insurer’s domicile have become liens upon specific assets by
+reason of judicial process. 
+
+       (9) “Special
+deposit claim” means any claim secured by a deposit made pursuant to statute
+for the security or benefit of a limited class or classes of persons, but not
+including any claim secured by general assets. [Formerly 734.020; 1993 c.447 §90] 
+
+   
+
+       734.018 [Formerly 751.010; and then
+734.030 in 1989; repealed by 1993 c.447 §122] 
+
+   
+
+       734.020 [1967 c.359 §257; renumbered
+734.014 in 1989] 
+
+   
+
+       734.022 [Formerly 734.040; repealed by
+1993 c.447 §122] 
+
+   
+
+       734.026 “Domiciliary,”
+“ancillary” and “reciprocal state” defined. As used in this chapter: 
+
+       (1) “Domiciliary
+state” means the state in which an insurer is incorporated or organized or, in
+the case of an alien insurer, its state of entry. 
+
+       (2) “Ancillary
+state” means any state other than a domiciliary state. 
+
+       (3) “Reciprocal
+state” means any state other than this state in which in substance and effect
+the provisions of this chapter relating to delinquency proceedings are in
+force, including provisions requiring that the Director of the Department of
+Consumer and Business Services or equivalent insurance supervisory official be
+the receiver of a delinquent insurer and in which some provision exists for the
+avoidance of fraudulent conveyances and preferential transfers. [Formerly
+734.050; 1993 c.447 §91] 
+
+   
+
+       734.030 [Formerly 751.010; renumbered
+734.018 in 1989] 
+
+   
+
+       734.031 [Formerly 734.060; repealed by
+1993 c.447 §122] 
+
+   
+
+       734.035 [Formerly 734.070; repealed by
+1993 c.447 §122] 
+
+   
+
+       734.039 [Formerly 734.080; repealed by
+1993 c.447 §122] 
+
+   
+
+       734.040 [1967 c.359 §260; renumbered
+734.022 in 1989] 
+
+   
+
+       734.043
+Supervision of insurer; order; consequences; insurer remedies. (1) For any reason stated in
+subsection (2) of this section, the Director of the Department of Consumer and
+Business Services by order may place under supervision: 
+
+       (a) A domestic
+insurer; or 
+
+       (b) A foreign or
+alien insurer, if the insurance regulatory official of its state of domicile or
+entry has asked the director to apply this section and ORS 734.047, 734.051 and
+734.055 to the insurer. 
+
+       (2) The director
+may place an insurer under supervision if upon examination or at any other time
+the director determines that: 
+
+       (a) The condition
+of the insurer renders the continuance of its business hazardous to the public
+or to its insureds. 
+
+       (b) The insurer
+has refused to permit examination of its books, papers, accounts, records or
+affairs by the director or any deputy, examiner or employee representing the
+director. 
+
+       (c) A domestic
+insurer has unlawfully removed from this state books, papers, accounts or
+records necessary for an examination of the insurer. 
+
+       (d) The insurer
+has failed to comply promptly with the applicable financial reporting statutes
+or rules and any request of the Department of Consumer and Business Services
+relating thereto. 
+
+       (e) The insurer
+has failed to observe an order of the director to make good, within the time
+prescribed by law, any prohibited deficiency in its capital, capital stock or
+surplus. 
+
+       (f) The insurer
+is continuing to transact insurance or write business after its certificate of
+authority has been revoked or suspended by the director. 
+
+       (g) The insurer,
+by contract or otherwise, has done any of the following unlawfully, in
+violation of an order of the director or without first having obtained written
+approval of the director: 
+
+       (A) Totally
+reinsured its entire outstanding business; or 
+
+       (B) Merged or
+consolidated substantially its entire property or business with another
+insurer. 
+
+       (h) The insurer
+has engaged in any transaction in which it is not authorized to engage under
+the laws of this state. 
+
+       (i) The insurer
+has failed to comply with any other order of the director. 
+
+       (j) The insurer
+has failed to comply with any other applicable provisions of the Insurance
+Code. 
+
+       (k) The business
+of the insurer is being conducted fraudulently. 
+
+       (L) The insurer
+agrees to supervision. 
+
+       (3) If the
+director determines that one or more conditions set forth in subsection (2) of
+this section exist, the director may do all of the following: 
+
+       (a) Notify the
+insurer of the determination of the director. 
+
+       (b) Furnish to
+the insurer a written list of the requirements to abate the condition or
+conditions determined to exist. 
+
+       (c) Notify the
+insurer that it is under the supervision of the director and that the director
+is applying this section and ORS 734.047, 734.051 and 734.055. 
+
+       (4) The director
+may act as the supervisor to conduct the supervision and otherwise carry out an
+order under subsection (1) of this section or may appoint another person as
+supervisor. 
+
+       (5) The director
+or the appointed supervisor may prohibit any person from taking any of the
+following actions during the period of supervision without the prior approval
+of the director or supervisor: 
+
+       (a) Disposing of,
+conveying or encumbering any of the insurer’s assets or its business in force. 
+
+       (b) Withdrawing
+from any of the insurer’s bank accounts. 
+
+       (c) Lending any
+of the insurer’s funds. 
+
+       (d) Investing any
+of the insurer’s funds. 
+
+       (e) Transferring
+any of the insurer’s property. 
+
+       (f) Incurring any
+debt, obligation or liability on behalf of the insurer. 
+
+       (g) Merging or
+consolidating the insurer with another insurer or other person. 
+
+       (h) Entering into
+any new reinsurance contract or treaty. 
+
+       (i) Approving new
+premiums or renewing any policies. 
+
+       (j) Terminating,
+surrendering, forfeiting, converting or lapsing any insurance policy,
+certificate or contract, except for nonpayment of premiums due. 
+
+       (k) Releasing,
+paying or refunding premium deposits, accrued cash or loan values, unearned
+premiums, or other reserves on any insurance policy, certificate or contract. 
+
+       (L) Making any
+material change in management. 
+
+       (m) Increasing
+salaries and benefits of officers or directors. 
+
+       (n) Making or
+increasing preferential payment of bonuses, dividends or other payments
+determined by the director to be preferential. 
+
+       (o) Any other
+action affecting the business or condition of the insurer. 
+
+       (6) The director
+may apply to any circuit court for any restraining order, preliminary and
+permanent injunctions and other orders necessary to enforce a supervision
+order. 
+
+       (7) During the
+period of supervision, the insurer may file a written request for a hearing to
+review the supervision or any action taken or proposed to be taken. A request
+under this subsection shall not suspend the supervision. The insurer must
+specify in the request the manner in which the action being complained of would
+not result in improving the condition of the insurer. The hearing shall be held
+within 30 days after the filing of the request. The director shall complete the
+review of the supervision or other action and shall take action under
+subsection (8) of this section if appropriate within 30 days after the record
+for the hearing is closed. 
+
+       (8) The director
+shall release an insurer from supervision if the director determines upon
+hearing that none of the conditions giving rise to the supervision exist. [1989
+c.425 §6; 1991 c.401 §6; 1993 c.447 §88] 
+
+   
+
+       734.047 Time
+for correction of condition leading to order of supervision. (1) An insurer placed under
+supervision must correct, eliminate or remedy the acts, transactions or
+practices that are the basis for the order of supervision and otherwise comply
+with the requirements of the Director of the Department of Consumer and Business
+Services within the period of time allowed by the director, not to exceed 60
+days, after the date on which the order is served on the insurer. 
+
+       (2) If the
+director determines that the conditions giving rise to the supervision still
+exist at the end of the supervision period established in subsection (1) of
+this section, the director may extend the period. [1989 c.425 §7; 1993 c.447 §89] 
+
+   
+
+       734.050 [1967 c.359 §261; renumbered
+734.026 in 1989] 
+
+   
+
+       734.051
+Actions by director during period of supervision. During the period of supervision
+of an insurer, the Director of the Department of Consumer and Business Services
+may institute rehabilitation or liquidation proceedings, extend the period of
+supervision or take any other action under the authority of the director with
+respect to the insurer. [1989 c.425 §8] 
+
+   
+
+       734.055 Action
+against person violating order of supervision. The Director of the Department of
+Consumer and Business Services or supervisor on behalf of an insurer under
+supervision may bring an action for damages against any person who violates any
+order of the director under ORS 734.043 if the violation reduces the net worth
+of the insurer or results in loss to the insurer that the insurer would not
+have suffered otherwise. The director or supervisor may recover damages to the
+extent of the reduction or loss. [1989 c.425 §9] 
+
+   
+
+       734.059
+Request for court order. 
+(1) The Director of the Department of Consumer and Business Services may file a
+petition with the circuit court requesting an order that: 
+
+       (a) Authorizes
+the director to seize all or part of the property, books, accounts and other
+records of a domestic insurer as well as the premises occupied by the insurer
+for transacting its business; and 
+
+       (b) Enjoins the
+domestic insurer from disposing of its property and transacting business except
+as allowed by written consent of the director. 
+
+       (2) The director
+must include all of the following in the petition under subsection (1) of this
+section: 
+
+       (a) An allegation
+that one or more grounds exist that would justify a court order for a
+rehabilitation or liquidation proceeding against the insurer. 
+
+       (b) An allegation
+that the interests of policyholders, creditors or the public will be endangered
+by delay. 
+
+       (c) The contents
+of the order that the director requests the court to issue. [1989 c.425 §10] 
+
+   
+
+       734.060 [1967 c.359 §262; renumbered
+734.031 in 1989] 
+
+   
+
+       734.063 Court
+order; hearings; notice. 
+(1) Upon petition by the Director of the Department of Consumer and Business
+Services under ORS 734.059, the court may issue the requested order
+immediately, ex parte and without hearing. The court in its order shall specify
+the duration of the order. The duration of an order shall be a period
+sufficient to enable the director to ascertain the condition of the insurer. 
+
+       (2) On motion of
+the director or the insurer against whom an order under this section is issued,
+or on the court’s own motion, the court may hold such hearings from time to
+time as the court determines are desirable, after such notice as it determines
+appropriate, and may extend, shorten or modify the terms of the order. 
+
+       (3) The court may
+vacate an order issued under this section if the court determines that the
+director has not commenced a rehabilitation or liquidation proceeding within a
+reasonable time. 
+
+       (4) An order of
+the court directing a rehabilitation or liquidation proceeding vacates the
+order issued under this section. 
+
+       (5) Entry of a
+seizure order under this section does not constitute an anticipatory breach of
+any contract of the insurer. 
+
+       (6) At any time
+after a court issues an order under this section, the court may direct that
+notice of the order be given to a person if the court determines both of the
+following: 
+
+       (a) That the
+person was not notified of the hearing on the order and did not appear at the
+hearing. 
+
+       (b) That the
+interest of the person is or will be substantially affected by the order. [1989
+c.425 §11] 
+
+   
+
+       734.067 Review
+of court order. 
+(1) An insurer against whom an order under ORS 734.059 is directed may petition
+the court for a hearing and review of the order. 
+
+       (2) Not later
+than the 15th day after the court receives a petition under subsection (1) of
+this section, the court shall hold the hearing and review the order. [1989
+c.425 §12] 
+
+   
+
+       734.070 [1967 c.359 §263; renumbered 734.035
+in 1989] 
+
+   
+
+       734.080 [1967 c.359 §264; renumbered
+734.039 in 1989] 
+
+   
+
+       734.110
+Jurisdiction of delinquency proceedings; venue. (1) The circuit court shall have
+original jurisdiction of delinquency proceedings under this chapter, and any
+court with jurisdiction is authorized to make all necessary or proper orders to
+carry out the purposes of this chapter. 
+
+       (2) The venue of
+delinquency proceedings and proceedings under ORS 734.059 and 734.063 against a
+domestic insurer and the venue of delinquency proceedings against foreign and
+alien insurers shall be in the Circuit Court for Marion County. 
+
+       (3) At any time
+after the commencement of a delinquency proceeding or a proceeding under ORS
+734.059 and 734.063 the court may issue an order changing the venue of the
+proceeding on motion of the Director of the Department of Consumer and Business
+Services or other interested person if the court finds the proceedings may be
+more economically and efficiently conducted thereby. [1967 c.359 §265; 1989
+c.425 §13] 
+
+   
+
+       734.113
+Application of Oregon Receivership Code. Notwithstanding ORS 37.040, the Oregon Receivership
+Code does not apply to delinquency proceedings under this chapter. [2017 c.358 §57] 
+
+   
+
+       Note: 734.113 was added to and made a
+part of ORS chapter 734 by legislative action but was not added to any smaller
+series therein. See Preface to Oregon Revised Statutes for further explanation. 
+
+   
+
+       734.120
+Exclusive remedy; appeal. 
+(1) Delinquency proceedings pursuant to this chapter shall constitute the sole
+and exclusive method of rehabilitating, liquidating or conserving an insurer,
+and no court shall entertain a petition for the commencement of such
+proceedings, or any other similar procedure, unless the same has been filed in
+the name of the state on the relation of the Director of the Department of
+Consumer and Business Services. 
+
+       (2) An appeal
+shall lie to the Court of Appeals from an order granting or refusing
+rehabilitation, liquidation, or conservation, and from every order in
+delinquency proceedings having the character of a final order as to the
+particular portion of the proceedings embraced therein. [1967 c.359 §266; 1979
+c.562 §33] 
+
+   
+
+       734.130
+Commencement of delinquency proceeding. (1) The Director of the Department of Consumer and
+Business Services shall commence a delinquency proceeding by an application to
+the court for an order directing the insurer to show cause why the director
+should not have the relief prayed for. 
+
+       (2) The
+application shall be by petition, verified by the director, setting forth the
+ground or grounds for the proceeding and the relief demanded. 
+
+       (3) If the court
+is satisfied from reading the director’s petition that the facts therein
+alleged, if established, would constitute grounds for a delinquency proceeding
+under this chapter, the court shall issue an order to the insurer to show
+cause. 
+
+       (4) On the return
+of the order to show cause, and after a full hearing, the court shall either
+deny the application or grant the application, together with such other relief
+as the nature of the case and the interests of the policyholders, creditors,
+stockholders, members, subscribers or the public may require. 
+
+       (5) After
+commencement of a delinquency proceeding by the director, orders of the court
+may thereafter be made for any of the purposes relevant upon application of any
+interested person. [1967 c.359 §267] 
+
+   
+
+       734.140
+Injunctions. (1)
+Upon application by the Director of the Department of Consumer and Business
+Services for an order to show cause under ORS 734.130, or at any time
+thereafter, the court may, without notice, issue an injunction restraining the
+insurer, its officers, directors, stockholders, members, subscribers, agents,
+employees and all other persons from the transaction of its business or the
+waste or disposition of its property until the further order of the court. 
+
+       (2) The court
+may, at any time during a proceeding under this chapter, issue such other
+injunctions or orders to prevent any of the following activities: 
+
+       (a) The
+transaction of further business. 
+
+       (b) The transfer
+of property. 
+
+       (c) Interference
+with the receiver or with a delinquency proceeding. 
+
+       (d) Waste of the
+assets of an insurer. 
+
+       (e) Dissipation
+and transfer of bank accounts. 
+
+       (f) The
+institution or further prosecution of any actions or proceedings. 
+
+       (g) The obtaining
+of preferences, judgments, attachments, garnishments or liens against the
+insurer, its assets or its policyholders. 
+
+       (h) The levying
+of execution against the insurer, its assets or its policyholders. 
+
+       (i) The making of
+any sale or deed for nonpayment of taxes or assessments that would lessen the
+value of the assets of the insurer. 
+
+       (j) The
+withholding from the receiver of books, accounts, documents or other records
+relating to the business of the insurer. 
+
+       (k) Any other
+threatened or contemplated action that might lessen the value of the assets of
+the insurer or prejudice the rights of policyholders, creditors or
+shareholders, or the administration of any delinquency proceeding. 
+
+       (3)
+Notwithstanding any other provision of law, no bond shall be required of the
+director as a prerequisite for the issuance of any injunction or restraining
+order pursuant to this section. [1967 c.359 §268; 1993 c.447 §92] 
+
+   
+
+       734.142
+Cooperation with director in delinquency proceedings. (1) Each officer, manager,
+director, trustee, owner, employee or agent of an insurer, and any other person
+with authority over or in charge of any portion of the insurer’s affairs,
+including any person who exercises control directly or indirectly over
+activities of the insurer through a holding company or other affiliate of the
+insurer, shall cooperate with the Director of the Department of Consumer and
+Business Services in any delinquency proceeding or any investigation
+preliminary to the proceeding. For purposes of this section, cooperation with
+the director includes at least the following: 
+
+       (a) Replying
+promptly in writing to any inquiry from the director requesting such a reply;
+and 
+
+       (b) Making
+available to the director any books, accounts, documents or other records,
+information or property of or pertaining to the insurer and in the possession,
+custody or control of the insurer. 
+
+       (2) A person
+shall not obstruct or interfere with the director in the conduct of any
+delinquency proceeding or any investigation preliminary or incidental thereto. 
+
+       (3) This section
+shall not be construed to abridge otherwise existing legal rights, including
+the right to resist a petition for liquidation or other delinquency
+proceedings, or other orders. [1993 c.447 §94] 
+
+   
+
+       Note: 734.142 and 734.144 were added to
+and made a part of ORS chapter 734 by legislative action but were not added to
+any smaller series therein. See Preface to Oregon Revised Statutes for further
+explanation. 
+
+   
+
+       734.144
+Immunity of certain persons from civil liability. (1) The following persons are
+entitled to protection under this section: 
+
+       (a) All receivers
+responsible for the conduct of a delinquency proceeding, including present and
+former receivers. 
+
+       (b) All employees
+of the receiver. For purposes of this section, such employees include all
+present and former special deputies and assistant special deputies appointed by
+the Director of the Department of Consumer and Business Services and all
+persons whom the director, special deputies, or assistant special deputies have
+employed to assist in a delinquency proceeding. Unless designated as special
+deputies, attorneys, accountants, auditors and other professional persons or
+firms who are retained by the receiver as independent contractors and their
+employees are not entitled to protection under this section. 
+
+       (2) The receiver
+and employees of the receiver shall have official immunity and shall be immune
+from civil action and liability, both personally and in their official
+capacities, for any tort claim or demand, whether groundless or otherwise,
+arising out of any alleged act, error or omission of the receiver or any
+employee occurring in the performance of their duties. For purposes of this
+section, “tort” has the meaning given that term in ORS 30.260. 
+
+       (3) The receiver
+and employees of the receiver shall be indemnified from the assets of the
+insurer against any tort claim arising out of any alleged act, error or
+omission of the receiver or any employee occurring in the performance of their
+duties, whether personally or in the official capacity of the receiver or
+employee. Any indemnification made under this subsection is an administrative
+expense of the insurer. 
+
+       (4) The
+provisions of subsections (2) and (3) of this section do not apply in case of
+malfeasance in office or willful or wanton neglect of duty. 
+
+       (5) In any legal
+action in which the receiver is a defendant, the portion of any settlement
+relating to the alleged act, error or omission of the receiver is subject to
+the approval of the court before which the delinquency proceeding is pending.
+The court may not approve the portion of the settlement if it determines: 
+
+       (a) That the
+claim did not occur in the performance of the receiver’s duties; or 
+
+       (b) That the
+claim was caused by malfeasance in office or willful or wanton neglect of duty
+by of the receiver. 
+
+       (6) This section
+shall not be construed or applied to deprive the receiver or any employee of
+any immunity, indemnity, benefits of law, rights or any defense otherwise
+available. [1993 c.447 §95] 
+
+   
+
+       Note: See note under 734.142. 
+
+   
+
+       734.150
+Grounds for rehabilitation of domestic insurers. The Director of the Department of
+Consumer and Business Services may apply for an order directing the director to
+rehabilitate a domestic insurer on one or more of the following grounds: 
+
+       (1) The insurer
+is impaired. 
+
+       (2) The insurer
+has failed to submit its books, papers, accounts or affairs to the reasonable
+inspection and examination of the director. 
+
+       (3) Without first
+obtaining the written consent of the director, the insurer has by contract of
+reinsurance, or otherwise, transferred or attempted to transfer substantially
+its entire property or business, or has entered into any transaction the effect
+of which is to merge, consolidate or reinsure substantially its entire property
+or business in or with the property or business of any other person, without
+first having complied with ORS 732.517 to 732.546 and 742.150 to 742.162. 
+
+       (4) The insurer
+is in such condition that its further transaction of business would be
+hazardous to its policyholders, creditors, stockholders or the public. 
+
+       (5) The insurer
+has violated its articles of incorporation, its bylaws, any law of this state
+or any order of the director. 
+
+       (6) Any person
+who in fact has executive authority in the insurer, whether an officer,
+manager, general agent, director or trustee, employee or other person, has
+refused to be examined under oath by the director concerning its affairs,
+whether in this state or elsewhere, and after reasonable notice of the fact,
+the insurer has not promptly and effectively terminated the employment and
+status of the person and all influence of the person on management. 
+
+       (7) The insurer
+or its property has been or is the subject of an application for the
+appointment of a receiver, trustee, custodian, conservator or sequestrator or
+similar fiduciary of the insurer or of its property other than as authorized
+under the Insurance Code, and the appointment has been made or is imminent, and
+the appointment might deprive the courts of this state of jurisdiction or might
+prejudice orderly delinquency proceedings. 
+
+       (8) The insurer
+has consented to such an order through a majority of its directors,
+stockholders, members or subscribers. 
+
+       (9) The insurer
+has failed to pay any obligation to any state or any subdivision thereof or any
+final judgment rendered against it in any state within 60 days after the
+judgment became final or within 60 days after time for taking an appeal has
+expired, or within 60 days after dismissal of an appeal before final
+determination, whichever date is the later, if the court in which the judgment
+was entered had jurisdiction over the subject matter. 
+
+       (10) The insurer
+has had its certificate of authority to transact insurance in this state
+revoked. 
+
+       (11) There is
+reasonable cause to believe that there has been embezzlement from the insurer,
+wrongful sequestration or diversion of the insurer’s assets, forgery or fraud
+affecting the insurer or other illegal conduct in, by or with respect to the
+insurer that if established would endanger assets in an amount threatening the
+solvency of the insurer. 
+
+       (12) The insurer
+has failed to remove any person who in fact has executive authority in the
+insurer, whether an officer, manager, general agent, director or trustee,
+employee or other person, if the person has been found by the director to be
+dishonest or untrustworthy in a way affecting the insurer’s business. 
+
+       (13) Control of
+the insurer, whether by stock ownership or otherwise, and whether direct or
+indirect, is in a person or persons found to be untrustworthy. 
+
+       (14) The insurer
+has failed to file its annual report or other financial report required by
+statute within the time allowed by law or within any additional time allowed by
+the director. [Formerly 738.450; 1993 c.447 §96; 1995 c.30 §11] 
+
+   
+
+       734.160 Order
+of rehabilitation for domestic insurers. (1) An order to rehabilitate a domestic insurer shall
+direct the Director of the Department of Consumer and Business Services
+forthwith to take possession of the property of the insurer and to conduct the
+business thereof, and to take such steps toward removal of the causes and
+conditions which have made rehabilitation necessary as the court may direct. 
+
+       (2) If at any
+time the director deems that further efforts to rehabilitate the insurer would
+be useless, the director may apply to the court for an order of liquidation
+under ORS 734.180. 
+
+       (3) The director,
+or any interested person upon due notice to the director, at any time may apply
+for an order terminating the rehabilitation proceeding and permitting the
+insurer to resume possession of its property and the conduct of its business,
+but no such order shall be granted except after a full hearing. [1967 c.359 §270] 
+
+   
+
+       734.170
+Grounds for liquidation of domestic insurers. The Director of the Department of Consumer and
+Business Services may apply for an order directing the director to liquidate
+the business of a domestic insurer, regardless of whether there has been a
+prior order directing the director to rehabilitate such insurer, upon any of
+the grounds specified in ORS 734.150, or if the insurer: 
+
+       (1) Has ceased
+transacting business for a period of one year; 
+
+       (2) Has commenced
+voluntary liquidation or dissolution, or attempts to commence or prosecute any
+action or proceeding to liquidate its business or affairs, or to dissolve its
+corporate charter, or to procure the appointment of a receiver, trustee, custodian,
+or sequestrator under any laws except the Insurance Code; 
+
+       (3) Has not
+organized or completed its organization and obtained a certificate of authority
+as an insurer within the time authorized by law; or 
+
+       (4) Is insolvent.
+[1967 c.359 §271; 1993 c.447 §97] 
+
+   
+
+       734.180 Order
+of liquidation of domestic insurers. 
+(1) An order to liquidate the business of a domestic insurer shall direct the
+Director of the Department of Consumer and Business Services forthwith to take
+possession of the property of the insurer, to liquidate its business, to deal
+with the insurer’s property and business in the name of the director or in the
+name of the insurer as the court may direct, and to give notice to all
+creditors who may have claims against the insurer to present such claims. 
+
+       (2) The director
+may apply under this chapter for an order dissolving the corporate existence of
+a domestic insurer: 
+
+       (a) Upon the
+application of the director for an order of liquidation of such insurer, or at
+any time after such order has been granted; or 
+
+       (b) Upon the
+grounds specified in ORS 734.170 (3), regardless of whether an order of
+liquidation is sought or has been obtained. [Formerly 738.470] 
+
+   
+
+       734.190
+Grounds for conservation of foreign and alien insurers. The Director of the Department of
+Consumer and Business Services may apply for an order directing the director to
+conserve the assets within this state of a foreign or alien insurer upon any
+one or more of the following grounds: 
+
+       (1) Any of the
+grounds specified in ORS 734.150; or 
+
+       (2) That its
+property has been sequestrated in any jurisdiction. [1967 c.359 §273; 1993
+c.447 §98] 
+
+   
+
+       734.200
+Conservation or ancillary receivership of foreign and alien insurers. (1) An order to conserve the
+assets of a foreign or alien insurer shall direct the Director of the
+Department of Consumer and Business Services forthwith to take possession of
+the property of the insurer within this state and to conserve it, subject to the
+further direction of the court. 
+
+       (2) Whenever a
+domiciliary receiver has been appointed for any foreign or alien insurer in its
+domiciliary state, the court shall, on application of the director, appoint the
+director as the ancillary receiver in this state. 
+
+       (3) An order to
+liquidate the assets in this state of a foreign or alien insurer shall direct
+the director forthwith to take possession of the property of the insurer within
+this state and to liquidate it subject to the orders of the court and with due
+regard to the rights and powers of the domiciliary receiver, as provided in
+this chapter. [1967 c.359 §274] 
+
+   
+
+       734.210
+Conduct of delinquency proceedings for domestic insurers. (1) Whenever under this chapter a
+receiver is to be appointed in delinquency proceedings for an insurer domiciled
+in this state, the court shall appoint the Director of the Department of
+Consumer and Business Services as such receiver. The court shall direct the
+receiver forthwith to take possession of the property of the insurer and to
+administer the same under the orders of the court. 
+
+       (2) Any deed or
+other instrument executed under this chapter shall be valid and effectual for
+all purposes as though the same had been executed by the person affected by any
+proceedings under this chapter or by its officers pursuant to the direction of
+its governing board or authority. The filing or recording of the order
+directing possession to be taken, or a certified copy thereof, in the office
+where instruments affecting title to property are required to be filed or
+recorded shall impart the same notice as would be imparted by a deed, bill of
+sale or other evidence of title duly filed or recorded. 
+
+       (3) In cases
+where any real property sold by the director is located in a county other than
+the county wherein the proceeding is pending, the director shall cause a
+certified copy of the order of the appointment, or order authorizing or
+ratifying the sale, to be filed with the recording officer for the county in
+which the property is located. 
+
+       (4) The director
+as domiciliary receiver shall be responsible on the official bond of the
+director for the proper administration of all property coming into the
+possession or control of the director. The court may at any time require an
+additional bond from the director or the deputies of the director if deemed
+desirable for the protection of the property. [Formerly 751.020] 
+
+   
+
+       734.220 Powers
+of director as receiver. 
+(1) Upon taking possession of the property and business of any person in any
+proceeding under this chapter, the Director of the Department of Consumer and
+Business Services shall, subject to the direction of the court, immediately
+proceed to conduct the business of the insurer or to take such steps as are
+authorized by the laws of this state for the purpose of rehabilitating,
+liquidating or conserving the insurer. 
+
+       (2) Upon taking
+such possession of the property and business of any person, the director as
+receiver shall: 
+
+       (a) Be vested
+with the insurer’s title and interest in and to all assets and property of
+every kind, both tangible and intangible, except that ancillary receivers in
+reciprocal states shall have, as to assets located in their respective states,
+the rights and powers which are prescribed in this chapter for ancillary
+receivers appointed in this state as to assets located in this state; 
+
+       (b) Possess, in
+the name of the insurer or in the name of the director, all rights, privileges,
+powers and authority granted to insurers in this state or otherwise possessed
+by insurers generally, without regard to any limitations thereon prescribed in
+the articles or bylaws of such insurer; and 
+
+       (c) Perform and
+do all acts which the director may deem necessary, advisable or expedient for
+the accomplishment or in aid of the purpose for which such possession was
+taken. [1967 c.359 §276] 
+
+   
+
+       734.230
+Deputies and assistants. 
+In connection with supervising an insurer under the Insurance Code or
+conducting delinquency proceedings, the Director of the Department of Consumer
+and Business Services may appoint one or more special deputy directors to act
+for the director, and may employ such counsel, clerks, and assistants as the
+director deems necessary. Unless otherwise provided by the director, a person
+so appointed is not a state employee solely by reason of such appointment. The
+compensation of the special deputies, counsel, clerks or assistants and all
+expenses of supervising the insurer under the Insurance Code or taking
+possession of a delinquent insurer and conducting delinquency proceedings must
+be paid out of the funds or assets of the insurer. A special deputy acting within
+limits the director imposes with respect to supervising an insurer under the
+Insurance Code or conducting delinquency proceedings has a receiver’s powers
+and is subject to a receiver’s duties. [1967 c.359 §277; 2017 c.479 §15] 
+
+   
+
+       734.240
+Conduct of delinquency proceedings for foreign insurers. (1) Whenever under this chapter an
+ancillary receiver is to be appointed in delinquency proceedings for an insurer
+not domiciled in this state, the court shall appoint the Director of the
+Department of Consumer and Business Services as ancillary receiver. The
+director shall file a petition requesting the appointment: 
+
+       (a) If the
+director finds that there are sufficient assets of such insurer located in this
+state to justify the appointment of an ancillary receiver; or 
+
+       (b) If 10 or more
+persons resident in this state having claims against such insurer file a
+petition with the director requesting the appointment of such ancillary
+receiver. 
+
+       (2) The
+domiciliary receiver of an insurer domiciled in a reciprocal state, shall be
+vested by operation of law with the title to all the property, contracts and
+rights of action, and all the books and records of the insurer located in this
+state, and the domiciliary receiver shall have the immediate right to recover
+balances due from local insurance producers and to obtain possession of any
+books and records of the insurer found in this state. The domiciliary receiver
+shall also be entitled to recover the other assets of the insurer located in
+this state except that upon the appointment of an ancillary receiver in this
+state, the ancillary receiver shall during the ancillary receivership
+proceedings have the sole right to recover such other assets. The ancillary
+receiver shall, as soon as practicable, liquidate from their respective
+securities those special deposit claims and secured claims which are proved and
+allowed in the ancillary proceedings in this state, and shall pay the necessary
+expenses of the proceedings. All remaining assets the ancillary receiver shall
+promptly transfer to the domiciliary receiver. Subject to the provisions of
+this section the ancillary receiver and the deputies of the ancillary receiver
+shall have the same powers and be subject to the same duties with respect to
+the administration of such assets, as a receiver of an insurer domiciled in
+this state. [Formerly 751.030; 2003 c.364 §85] 
+
+   
+
+       734.250 Right
+of domiciliary receiver to sue in this state. The domiciliary receiver of an insurer domiciled in a
+reciprocal state may sue in this state to recover any assets of such insurer to
+which the domiciliary receiver may be entitled under the laws of this state. [1967
+c.359 §279] 
+
+   
+
+       734.260 Claims
+of nonresidents against domestic insurers. (1) In a delinquency proceeding begun in this state
+against an insurer domiciled in this state, claimants residing in reciprocal
+states may file claims either with the ancillary receivers, if any, in their
+respective states, or with the domiciliary receiver. All such claims must be
+filed on or before the last date fixed for the filing of claims in the
+domiciliary delinquency proceedings. 
+
+       (2) Controverted
+claims belonging to claimants residing in reciprocal states may either: 
+
+       (a) Be proved in
+this state as provided by law; or 
+
+       (b) If ancillary
+proceedings have been commenced in such reciprocal states, be proved in those
+proceedings. 
+
+       (3) In the event
+a claimant elects to prove a claim in ancillary proceedings, if notice of the
+claim and opportunity to appear and be heard is afforded the domiciliary
+receiver of this state as provided in ORS 734.270 with respect to ancillary
+proceedings in this state, the final allowance of such claim by the courts in
+the ancillary state shall be accepted in this state as conclusive as to its
+amount, and shall also be accepted as conclusive as to its priority, if any,
+against special deposits or other security located within the ancillary state. [Formerly
+751.040] 
+
+   
+
+       734.270 Claims
+of residents against foreign insurers. 
+(1) In a delinquency proceeding in a reciprocal state against an insurer
+domiciled in that state, claimants against such insurer who reside within this
+state may file claims either with the ancillary receiver, if any, appointed in
+this state, or with the domiciliary receiver. All such claims must be filed on
+or before the last date fixed for the filing of claims in the domiciliary
+delinquency proceedings. 
+
+       (2) Controverted
+claims belonging to claimants residing in this state may either: 
+
+       (a) Be proved in
+the domiciliary state as provided by the law of that state; or 
+
+       (b) If ancillary
+proceedings have been commenced in this state, be proved in those proceedings. 
+
+       (3) In the event
+that any such claimant elects to prove a claim in this state, the claimant
+shall file a claim with the ancillary receiver in the manner provided by this
+chapter for the proving of claims against insurers domiciled in this state, and
+the claimant shall give notice in writing to the receiver in the domiciliary
+state, either by registered or certified mail or by personal service at least
+40 days prior to the date set for hearing. The notice shall contain a concise
+statement of the amount of the claim, the facts on which the claim is based,
+and the priorities asserted, if any. If the domiciliary receiver, within 30
+days after the giving of such notice, shall give notice in writing to the
+ancillary receiver and to the claimant, either by registered or certified mail
+or by personal service, of intention to contest such claim, the domiciliary
+receiver shall be entitled to appear or to be represented in any proceeding in
+this state involving the adjudication of the claim. The final allowance of the claim
+by the courts of this state shall be accepted as conclusive as to its amount,
+and shall also be accepted as conclusive as to its priority, if any, against
+special deposits or other security located within this state. [Formerly
+751.050] 
+
+   
+
+       734.280 Form
+of claim; notice; hearing. 
+(1) All claims against an insurer, against which delinquency proceedings have
+been begun, shall set forth in reasonable detail the amount of the claim, or
+the basis upon which such amount can be ascertained, the facts upon which the
+claim is based, and the priorities asserted, if any. All such claims shall be
+verified by the affidavit of the claimant, or someone authorized to act on
+behalf of the claimant and having knowledge of the facts, and shall be
+supported by such documents as may be material thereto. 
+
+       (2) All claims
+filed in this state shall be filed with the receiver, whether domiciliary or
+ancillary, in this state, on or before the last date for filing as specified in
+this chapter. 
+
+       (3) After the
+expiration of any period for filing of claims, the receiver shall report the
+claims filed within such period to the court, specifying in such report the
+recommendation of the receiver with respect to the action to be taken thereon.
+Upon receipt of such report, the court shall fix a time for hearing such claims
+and shall direct that the claimants or the receiver, as the court shall
+specify, shall give such notice as the court shall determine to such persons as
+shall appear to the court to be interested therein. All such notices shall
+specify the time and place of the hearing and shall concisely state the amount
+and nature of the claim, the priorities asserted, if any, and the
+recommendation of the receiver with reference thereto. 
+
+       (4) At the
+hearing all persons interested shall be entitled to appear and the court shall
+enter an order allowing, allowing in part, or disallowing the claim. Any such
+order shall be deemed to be an appealable order. [1967 c.359 §282] 
+
+   
+
+       734.290
+Priority of preferred claims. 
+(1) In a delinquency proceeding against an insurer domiciled in this state,
+claims owing to residents of ancillary states shall be preferred claims if like
+claims are preferred under the laws of this state. All such claims whether
+owing to residents or nonresidents shall be given equal priority of payment
+from general assets regardless of where such assets are located. 
+
+       (2) In a
+delinquency proceeding against an insurer domiciled in a reciprocal state,
+claims owing to residents of this state shall be preferred if like claims are
+preferred by the laws of that state. [1967 c.359 §283] 
+
+   
+
+       734.300
+Priority of special deposit claims. 
+The owners of special deposit claims against an insurer for which a receiver is
+appointed in this or any other state shall be given priority against their
+several special deposits in accordance with the provisions of the statutes
+governing the creation and maintenance of such deposits. If there is a
+deficiency in any such deposit so that claims secured thereby are not fully
+discharged therefrom, the claimants may share in the general assets, but such
+sharing shall be deferred until general creditors, and also claimants against
+other special deposits who have received smaller percentages from their
+respective special deposits, have been paid percentages of their claims equal
+to the percentage paid from the special deposit. [1967 c.359 §284] 
+
+   
+
+       734.310
+Priority of secured claims. 
+The owner of a secured claim against an insurer for which a receiver has been
+appointed in this or any other state may surrender the security and file a
+claim as a general creditor, or the claim may be discharged by resort to the
+security, in which case the deficiency, if any, shall be treated as a claim
+against the general assets of the insurer on the same basis as claims of
+unsecured creditors. If the amount of the deficiency has been adjudicated in
+ancillary proceedings as provided in this chapter, or if it has been
+adjudicated by a court of competent jurisdiction in proceedings in which the
+domiciliary receiver has had notice and opportunity to be heard, such amount
+shall be conclusive; otherwise the amount shall be determined in the
+delinquency proceeding in the domiciliary state. [Formerly 751.080] 
+
+   
+
+       734.320
+Attachment and garnishment of assets. 
+During the pendency of delinquency proceedings in this or any reciprocal state
+no action or proceeding in the nature of an attachment, garnishment or
+execution shall be commenced or maintained in the courts of this state against
+the delinquent insurer or its assets. Any lien obtained by any such action or
+proceeding within four months prior to the commencement of any such delinquency
+proceeding or at any time thereafter shall be void as against any rights
+arising in such delinquency proceeding. [1967 c.359 §286] 
+
+   
+
+       734.330 [Formerly 751.110; repealed by
+1993 c.447 §122] 
+
+   
+
+       734.340 Date
+rights fixed on liquidation. 
+The rights and liabilities of the insurer and of its creditors, policyholders,
+stockholders, members, subscribers, and all other persons interested in its
+estate, shall, unless otherwise directed by the court, be fixed as of the date
+on which the order directing the liquidation of the insurer is filed in the
+office of the clerk of the court which makes the order, subject to the
+provisions of ORS 734.380 with respect to the rights of claimants holding
+contingent claims. [1967 c.359 §288] 
+
+   
+
+       734.350
+Voidable transfers. 
+(1) Any transfer of, or lien upon, the property of an insurer, other than as
+provided in ORS 734.320 which is made or created within four months prior to
+the commencement of a delinquency proceeding with the intent of giving to any
+creditor, or of enabling the creditor to obtain, a greater percentage of the
+debt than any other creditor of the same class, and which is accepted by such
+creditor having reasonable cause to believe that such a preference will occur,
+shall be voidable. 
+
+       (2) Every
+director, officer, employee, stockholder, member, subscriber, and any other
+person acting on behalf of such insurer who shall be concerned in any such act
+or deed and every person receiving thereby any property of such insurer or the
+benefit thereof, shall be personally liable therefor and shall be bound to
+account to the Director of the Department of Consumer and Business Services. 
+
+       (3) The director,
+as receiver in any proceeding under this chapter, may avoid any transfer of, or
+lien upon, the property of an insurer which any creditor, stockholder,
+subscriber or member of such insurer might have avoided, and may recover the
+property so transferred, unless such person was a bona fide holder for value
+prior to the commencement of the delinquency proceeding. Such property or its
+value may be recovered from anyone who has received it, except a bona fide
+holder for value as specified in this subsection. [1967 c.359 §289] 
+
+   
+
+       734.360
+Preference of claims. 
+Except as provided in ORS 734.310 for secured claims, the claims to be paid in
+full in delinquency proceedings prior to the payment of any other claims, and
+the order of payment, shall be: 
+
+       (1) Expenses of
+administration of the delinquency proceedings and expenses of the Oregon
+Insurance Guaranty Association or similar organization in another state
+handling claims in accordance with ORS 734.510 to 734.710; 
+
+       (2) All claims
+under policies, including third party claims and claims under nonassessable
+policies for unearned premiums, and all claims by the Oregon Insurance Guaranty
+Association, the Oregon Life and Health Insurance Guaranty Association or any
+similar organization in another state for payment of covered claims or
+contractual obligations; 
+
+       (3) Claims
+legally due and owing by the insurer to the United States; 
+
+       (4) If the
+insurer is domiciled in this state, compensation or wages actually owing to
+salaried employees other than officers of the insurer, for services rendered
+within three months prior to the commencement of the delinquency proceeding,
+but not exceeding $2,000 for each such employee; 
+
+       (5) Claims
+legally due and owing by the insurer to this state; and 
+
+       (6) Claims,
+including special deposit claims, owing to any person, including this state,
+that by the laws of this state is entitled to priority. [1967 c.359 §290; 1977
+c.793 §7; 1983 c.223 §1; 2001 c.974 §3] 
+
+   
+
+       734.370
+Offsets. No
+offsets shall be allowed in cases of mutual debts or mutual credits between the
+insurer and another person in connection with any domestic delinquency
+proceeding under this chapter, except for cases of policy loans and cases of
+reinsurance and except for insurance producers’ balances, excluding unearned
+return commissions. [1967 c.359 §291; 1989 c.425 §14; 2003 c.364 §86] 
+
+   
+
+       734.380
+Allowance of certain claims. 
+(1) A contingent claim against an insurer or a claim based upon a cause of
+action or suit against an insured of an insurer shall be filed, presented and
+reported in the same manner and within the same time limitations as provided in
+this chapter for a noncontingent claim. Such claims shall be allowed to share
+in a distribution of assets in the same manner as noncontingent claims of the
+same class and priority, provided that before any such sharing and
+distribution: 
+
+       (a) If the claim
+is a contingent claim against the insurer, it becomes an absolute claim either
+as a result of proof presented or litigation; or 
+
+       (b) If the claim
+is based upon a cause of action or suit against an insured of the insurer, a
+judgment is obtained against the insured or it may be reasonably inferred from
+proof presented that the claimant would be able to obtain such a judgment; in
+no case, however, shall all of the claims so presented and allowed arising out
+of a single act of the insured exceed the maximum liability of the insurer
+under its policy with or affecting the insured. 
+
+       (2) Nothing in
+subsection (1) of this section shall prevent or bar the Director of the
+Department of Consumer and Business Services from compromising a disputed claim
+with the claimant, whether contingent or noncontingent, if such compromise is
+justified and supported by the facts and circumstances. 
+
+       (3) If full or
+partial distribution to noncontingent claimants is authorized or directed by
+the court prior to satisfaction of the requirements of subsection (1)(a) or (b)
+of this section, with respect to particular claims the director shall retain a
+sum equal to the amount which would have been paid on the contingent claim if
+such requirements had then been met. The amount so withheld shall be
+distributed to the person or persons found by the court to be entitled thereto
+at such time as the claim is fully established as provided in subsection (1) of
+this section, or the director is satisfied that the claim is without merit or
+cannot be so proved or established, or the statute of limitations, if timely
+asserted, would bar further consideration or recovery thereon. 
+
+       (4) No judgment
+entered after the date of entry of a liquidation order shall be considered in
+the liquidation proceedings as evidence of liability or of the amount of
+damages, and no judgment entered on default or inquest or by collusion after
+commencement of a delinquency proceeding shall be considered as conclusive
+evidence in the liquidation proceeding, either of liability or of the amount of
+damages. [1967 c.359 §292] 
+
+   
+
+       734.385 Rights
+and obligations of Federal Home Loan Bank in connection with delinquency
+proceeding against insurer. 
+(1) As used in this section: 
+
+       (a) “Collateral”
+means collateral that meets the requirements for the categories of collateral
+that are set forth in 12 C.F.R. 1266.7(a), as in effect on May 19, 2025, and in
+which a Federal Home Loan Bank holds a first priority perfected security
+interest. 
+
+       (b) “Federal Home
+Loan Bank” has the meaning given that term in 12 U.S.C. 1422, as in effect on
+May 19, 2025. 
+
+       (c) “Insurer-member”
+means an insurer that is a member of a Federal Home Loan Bank. 
+
+       (2)
+Notwithstanding requirements for a form of claim against an insurer that are
+set forth in ORS 734.280 and notwithstanding the priority of preferred claims
+against an insurer that are specified in ORS 734.290, of special deposit claims
+against an insurer that are specified in ORS 734.300 or of secured claims
+against an insurer that are specified in ORS 734.310, in connection with a
+delinquency proceeding under ORS 734.110 to 734.440: 
+
+       (a) A court may
+not stay or prohibit a Federal Home Loan Bank from exercising the Federal Home
+Loan Bank’s rights with respect to collateral that an insurer-member has
+pledged; and 
+
+       (b) A receiver
+shall comply with the provisions of this section with respect to: 
+
+       (A) The Federal
+Home Loan Bank’s rights in connection with an insurer-member; and 
+
+       (B) Claims
+against an insurer-member. 
+
+       (3) A Federal
+Home Loan Bank that exercises a right with respect to collateral pledged by an
+insurer-member that is subject to a delinquency proceeding shall repurchase any
+outstanding capital stock that exceeds the amount of the Federal Home Loan Bank’s
+stock that the insurer-member must hold as a minimum investment if the Federal
+Home Loan Bank determines in good faith that the repurchase is: 
+
+       (a) Permissible
+under applicable laws, regulations, regulatory obligations and the Federal Home
+Loan Bank’s capital plan; and 
+
+       (b) Consistent
+with the current capital stock practices the Federal Home Loan Bank applies to
+the entire membership of the Federal Home Loan Bank. 
+
+       (4) After the
+appointment of a receiver for an insurer-member, a Federal Home Loan Bank,
+within 10 business days after a request from the receiver, shall establish a
+process and timeline for: 
+
+       (a) Releasing
+collateral that, under the terms of applicable agreements between the Federal
+Home Loan Bank and the insurer-member, exceeds the amount required to support
+obligations that remain after repaying loans; 
+
+       (b) Releasing any
+of the insurer-member’s collateral that remains in the Federal Home Loan Bank’s
+possession after payment in full of all of the insurer-member’s outstanding
+obligations; 
+
+       (c) Paying fees
+the insurer-member owes and operating the insurer-member’s deposits and
+accounts with the Federal Home Loan Bank; and 
+
+       (d) Redeeming or
+repurchasing Federal Home Loan Bank stock or excess stock of any class that an
+insurer-member must own. 
+
+       (5) A Federal
+Home Loan Bank, at a receiver’s request, shall provide any available
+opportunities that may exist for an insurer-member that is subject to a
+delinquency proceeding to renew or restructure a loan to defer prepayment fees,
+with due regard for: 
+
+       (a) Market
+conditions; 
+
+       (b) The terms of
+any loans to the insurer-member that are outstanding; 
+
+       (c) Applicable
+policies of the Federal Home Loan Bank; and 
+
+       (d) The Federal
+Home Loan Bank’s compliance with federal laws and regulations. 
+
+       (6)(a)
+Notwithstanding ORS 734.350 and except as provided in paragraph (b) of this
+subsection, a receiver for an insurer-member, including the Director of the
+Department of Consumer and Business Services, may not void any transfer of, or
+obligation to transfer, moneys or property that occurs or arises under or in
+connection with: 
+
+       (A) A Federal
+Home Loan Bank security agreement; 
+
+       (B) A pledge,
+security, collateral or guarantee agreement; or 
+
+       (C) Any other
+similar arrangement or credit enhancement that relates to a Federal Home Loan
+Bank security agreement made in the ordinary course of business and in
+compliance with the applicable Federal Home Loan Bank agreement. 
+
+       (b) A receiver
+may void a transfer if the transfer was made with an intent to hinder, delay or
+defraud the insurer-member, the receiver or existing or future creditors. 
+
+       (c) This
+subsection does not affect a receiver’s rights under 12 C.F.R. 1266.4, as in
+effect on May 19, 2025, with respect to advances to an insurer-member that is
+subject to a delinquency proceeding. [2025 c.102 §2] 
+
+   
+
+       734.390 Time
+to file claims. 
+(1) If upon the granting of an order of liquidation under this chapter, or at
+any time thereafter during the liquidation proceeding, the insurer shall not be
+clearly solvent, the court shall, after such notice and hearing as it considers
+proper, make an order declaring the insurer to be insolvent. Thereupon,
+regardless of any prior notice which may have been given to creditors, the
+Director of the Department of Consumer and Business Services shall notify all
+persons who may have claims against the insurer and who have not filed proper
+proofs thereof, to present the same to the director, at a place specified in
+the notice, within four months from the date of the entry of such insolvency
+order or within such longer time as the court shall prescribe. The last day for
+filing of proofs of claims shall be specified in the notice. The notice shall
+be given in a manner determined by the court. 
+
+       (2) Proofs of
+claims may be filed subsequent to the date specified, but no such claim shall
+share in the distribution of the assets until all allowed claims, proofs of
+which have been filed on or before such date, have been paid in full. [1967
+c.359 §293] 
+
+   
+
+       734.400 Report
+for assessment; domestic mutual and reciprocal insurers. Within three years from the date
+an order of rehabilitation or liquidation of a domestic mutual insurer or a
+domestic reciprocal insurer was filed in the office of the clerk of the court
+by which such order was made, the Director of the Department of Consumer and
+Business Services may make a report to the court setting forth: 
+
+       (1) The
+reasonable value of the assets of the insurer; 
+
+       (2) The insurer’s
+probable liabilities; and 
+
+       (3) The probable
+necessary assessment, if any, to pay all claims and expenses in full, including
+expenses of administration. [1967 c.359 §294] 
+
+   
+
+       734.410 Levy
+of assessment; domestic mutual and reciprocal insurers. (1) Upon the basis of the report
+provided for in ORS 734.400, including any amendments thereof, the court, ex
+parte, may levy one or more assessments against all persons who, as shown by
+the records of the insurer, were members (in the case of a mutual insurer) or
+subscribers (in the case of a reciprocal insurer) at any time within one year
+prior to the commencement of the delinquency proceeding. 
+
+       (2) Such
+assessment or assessments shall cover the excess of the probable liabilities
+over the reasonable value of the assets, together with the estimated cost of
+collection and percentage of uncollectibility thereof. The total of all
+assessments against any member or subscriber, with respect to any policy,
+whether levied pursuant to this chapter or pursuant to any other provisions of
+the Insurance Code, shall be no greater than the amount specified in the policy
+of the member or subscriber and as limited under the Insurance Code; except
+that, if the court finds that the policy was issued at a rate of premium below
+the minimum rate lawfully permitted for the risk insured, the court may
+determine the upper limit of such assessment on the basis of such minimum rate. 
+
+       (3) No assessment
+shall be levied against any member or subscriber with respect to any
+nonassessable policy issued in accordance with the Insurance Code. [1967 c.359 §295] 
+
+   
+
+       734.420 Order
+to pay assessment. 
+After levy of assessment as provided in ORS 734.410 and upon the filing of a
+further detailed report by the Director of the Department of Consumer and
+Business Services, the court shall issue an order directing each member (in the
+case of a mutual insurer) or each subscriber (in the case of a reciprocal
+insurer) if the member or subscriber shall not pay the amount assessed against
+the member or subscriber to the director on or before a day to be specified in
+the order, to show cause why the member or subscriber should not be held liable
+to pay such assessment together with costs as set forth in ORS 734.440, and why
+the director should not have judgment therefor. [1967 c.359 §296] 
+
+   
+
+       734.430 Publication
+and transmittal of assessment order. 
+The Director of the Department of Consumer and Business Services shall cause a
+notice of the assessment order issued under ORS 734.420, which shall set forth
+a brief summary of the contents of such order, to be: 
+
+       (1) Published in
+such manner as shall be directed by the court; and 
+
+       (2) Enclosed in a
+sealed envelope, addressed and mailed, postage prepaid, to each member or
+subscriber liable thereunder, at the last-known address of the member or
+subscriber as it appears on the records of the insurer, at least 20 days before
+the return day of the order to show cause specified in the assessment order. [1967
+c.359 §297] 
+
+   
+
+       734.440
+Judgment upon assessment. 
+(1) On the return day of the order to show cause specified in the assessment
+order issued under ORS 734.420, if the member or subscriber does not appear and
+serve verified objections upon the Director of the Department of Consumer and
+Business Services, the court shall make an order adjudging that such member or
+subscriber is liable for the amount of the assessment against the member or
+subscriber, together with $10 costs, and that the director may have judgment
+against the member or subscriber therefor. 
+
+       (2) If on such
+return day the member or subscriber shall appear and serve verified objections
+upon the director, there shall be a full hearing before the court or a referee
+to hear and determine the matter. The court, after such hearing, shall make an
+order either negativing the liability of the member or subscriber to pay the
+assessment or affirming liability to pay the whole or some part thereof,
+together with $25 costs and the necessary disbursements incurred at such
+hearing, and directing that the director, in the latter case, may have judgment
+therefor. [1967 c.359 §298; 2003 c.576 §221] 
+
+   
+
+ OREGON INSURANCE GUARANTY
+ASSOCIATION 
+
+   
+
+       734.510
+Definitions for ORS 734.510 to 734.710. As used in ORS 734.510 to 734.710, unless the context
+requires otherwise: 
+
+       (1) “Association”
+means the Oregon Insurance Guaranty Association created by ORS 734.550. 
+
+       (2) “Board” means
+the board of directors of the association. 
+
+       (3) “Controlled
+insurer” means an insurer 70 percent or more of whose stock is owned by a
+corporation, or by two or more corporations that are under common ownership. 
+
+       (4)(a) “Covered
+claim” means an unpaid claim, including a claim for unearned premiums and a
+claim by the Workers’ Benefit Fund for payments made under ORS chapter 656,
+that arises out of and is within the coverage and limits of an insurance policy
+to which ORS 734.510 to 734.710 apply and which is in force at the time of the
+occurrence giving rise to the unpaid claim, made by a person insured under the
+policy or by a person suffering injury or damage for which a person insured
+under the policy is legally liable, if: 
+
+       (A) The insurer
+issuing the policy becomes an insolvent insurer after September 9, 1971; and 
+
+       (B) The claimant
+or insured is a resident of this state at the time of the occurrence giving
+rise to the unpaid claim, or the property for which the claim arises is
+permanently located in this state. 
+
+       (b) “Covered
+claim” does not include: 
+
+       (A) Any amount in
+excess of the applicable limits of liability provided by an insurance policy to
+which ORS 734.510 to 734.710 apply; 
+
+       (B) Any amount
+due any reinsurer, insurer, insurance pool or underwriting association as
+subrogated recoveries or otherwise; 
+
+       (C) Any amount
+due to a state or to the federal government, except for a claim by the Workers’
+Benefit Fund under this section; 
+
+       (D) A claim filed
+with the association after the final date set by the court for the filing of
+claims against the liquidator or receiver of an insolvent insurer, except for a
+claim that arises out of a workers’ compensation policy that is subject to ORS
+chapter 656; or 
+
+       (E) Any first
+party claim by an insured whose net worth exceeds $25 million on December 31 of
+the year next preceding the date the insurer becomes an insolvent insurer,
+provided that an insured’s net worth on such date is deemed to include the
+aggregate net worth of the insured and all of the insured’s subsidiaries as
+calculated on a consolidated basis. 
+
+       (5) “Cybersecurity
+insurance” means direct insurance that is not otherwise excluded under ORS
+734.540 from the application of ORS 734.510 to 734.710 and that: 
+
+       (a) Involves
+first-party and third-party coverage in a policy or endorsement; 
+
+       (b) Is written on
+a direct, admitted basis; and 
+
+       (c) Covers losses
+and loss mitigation that arise out of or are related to: 
+
+       (A) A breach of
+security, as defined in ORS 646A.602; 
+
+       (B) An
+unauthorized intrusion into a network or security system; 
+
+       (C) Identity
+theft; 
+
+       (D) The presence,
+and the effects or results, of a computer virus or ransomware; 
+
+       (E) Cyber
+extortion; or 
+
+       (F) Risks and
+exposures that are similar or related to the risks or exposures described in
+subparagraphs (A) to (E) of this paragraph. 
+
+       (6) “Dividend”
+means any payment made to the stockholders of a controlled insurer, which
+payment is directly related to ownership of the stock. 
+
+       (7) “Incident or
+occurrence” means: 
+
+       (a) One
+proximate, uninterrupted or continuing cause that results in an injury or
+damage, even if: 
+
+       (A) The damage or
+injury consists of separable components or affects different items; and 
+
+       (B) More than one
+claim or claimant results from the cause. 
+
+       (b) A single
+cause or condition, exposure to which over a period of years results in
+continuous, indivisible injury or damage. 
+
+       (8) “Insolvent
+insurer” means a member insurer: 
+
+       (a) Authorized to
+transact insurance in this state either at the time the policy was issued or at
+the time of the occurrence giving rise to the unpaid claim; 
+
+       (b) Against which
+a final order of liquidation, with a finding of insolvency, has been entered by
+a court of competent jurisdiction in the insurer’s domicile after September 9,
+1971; and 
+
+       (c) With respect
+to which no order, judgment or finding relating to the insolvency of the
+insurer, whether preliminary or temporary in nature or otherwise, has been
+issued by a court of competent jurisdiction or by any insurance commissioner,
+insurance department or similar official or body prior to September 9, 1971, or
+which was in fact insolvent prior to September 9, 1971, and such de facto
+insolvency was or should have been known by the chief insurance regulatory
+official of the insurer’s domicile. 
+
+       (9) “Member
+insurer” means an insurer, including a reciprocal insurer, authorized to
+transact insurance in this state that writes any kind of insurance to which ORS
+734.510 to 734.710 apply. 
+
+       (10)(a) “Net
+direct written premiums” means direct gross premiums written in this state on
+insurance policies to which ORS 734.510 to 734.710 apply, less return premiums
+thereon and dividends paid or credited to policyholders on such direct
+business. 
+
+       (b) “Net direct
+written premiums” does not include premiums on contracts between insurers or
+reinsurers. 
+
+       (11) “Novation”
+means a transaction in which one insurer’s or entity’s existing policy
+obligation, or a claim, becomes the direct obligation of another insurer or
+entity with the policyholder’s express consent, or consent implied from the
+circumstances, from the notice provided to the policyholder or from the conduct
+of the parties, at which point the policyholder releases the insurer or entity
+from the existing policy obligation or claim. 
+
+       (12) “Plan” means
+the plan of operation of the association established pursuant to ORS 734.590. [1971
+c.616 §5; 1977 c.793 §8; 2001 c.974 §1; 2003 c.576 §556; 2025 c.20 §3] 
+
+   
+
+       734.520
+Purpose. The
+purpose of ORS 734.510 to 734.710 is to provide for the payment of covered
+claims under certain insurance policies to avoid excessive delay in payment and
+to avoid financial loss to claimants or policyholders because of the insolvency
+of an insurer, to assist in the detection and prevention of insurer
+insolvencies, to provide an association to assess the cost of such protection
+among insurers and to assist in the liquidation of insurers as provided in this
+chapter. [1971 c.616 §2] 
+
+   
+
+       734.530
+Construction. ORS
+734.510 to 734.710 shall be liberally construed to effect the purposes provided
+in ORS 734.520. [1971 c.616 §3] 
+
+   
+
+       734.540
+Application. ORS
+734.510 to 734.710 apply to all kinds of direct insurance except life, health,
+title, surety, credit, mortgage guaranty, home protection insurance, wet marine
+and transportation insurance, insurance against the risk of economic loss
+assumed under a less than fully insured employee health benefit plan, whether
+issued or delivered as health or casualty insurance, and any insurance that a
+state or the federal government provides or guarantees. [1971 c.616 §4; 1977
+c.600 §2; 1981 c.247 §14; 1993 c.649 §7; 2025 c.20 §4] 
+
+   
+
+       734.550 Oregon
+Insurance Guaranty Association; all insurers required to be members; formation
+of operating plan. 
+There is created the Oregon Insurance Guaranty Association. Each insurer that
+is a member insurer shall become and remain a member of the association as a
+condition of its authority to transact insurance in this state. The association
+shall perform its functions in accordance with a plan of operation established
+under ORS 734.590, and shall exercise its powers through its board of
+directors. [1971 c.616 §6] 
+
+   
+
+       734.555
+Application to association of certain laws governing corporations; exception. The provisions, procedures and
+requirements of ORS chapter 60 relating to a registered office, registered
+agent and to service of process, notice and demand shall govern the Oregon
+Insurance Guaranty Association, except that the Director of the Department of
+Consumer and Business Services shall be substituted for the Secretary of State
+as the person with whom all filings shall be made and upon whom, in the
+circumstances specified by statute, such service may be effected. [1977 c.600 §6;
+1987 c.846 §12] 
+
+   
+
+       734.560
+Association board of directors; terms; vacancies; compensation and expenses;
+quorum. (1) The
+board of directors of the Oregon Insurance Guaranty Association shall consist
+of nine members selected by the member insurers, subject to the approval of the
+Director of the Department of Consumer and Business Services. The term of each
+member of the board shall be as specified in the plan, but in no event for
+longer than four years. A vacancy on the board shall be filled for the
+remainder of the unexpired term in the same manner as for the initial
+selection. If the initial selection of members is not made within 60 days after
+September 9, 1971, the director may select the initial members. 
+
+       (2) In making or
+approving selections to the board, the director shall consider, among other
+things, whether member insurers are fairly represented. 
+
+       (3) A member of
+the board shall receive no compensation for services as a member. However, a
+member shall be reimbursed by the association for actual and necessary travel
+and other expenses incurred by the member in the performance of duties. 
+
+       (4) A majority of
+the members of the board constitutes a quorum for the transaction of business. [1971
+c.616 §7] 
+
+   
+
+       734.570 Duties
+and functions of association. 
+The Oregon Insurance Guaranty Association: 
+
+       (1) Shall pay
+covered claims that exist at the time, or that arise within 30 days after, a
+member insurer has been determined to be insolvent, subject to the following
+limits and exceptions: 
+
+       (a) The
+association’s obligation to pay a covered claim that arises from the insolvency
+of a member insurer between September 9, 1971, and December 31, 2024, is only
+the amount of the covered claim that is less than $300,000. 
+
+       (b) The
+association’s obligation to pay a covered claim that arises from the insolvency
+of a member insurer on or after January 1, 2025, may not exceed $600,000. 
+
+       (c)
+Notwithstanding the limitations set forth in paragraphs (a) and (b) of this
+subsection, the association shall pay the full amount of any covered claim that
+arises out of a workers’ compensation policy, less any amount the Workers’
+Benefit Fund pays on the covered claim under ORS chapter 656. 
+
+       (d) The
+association is not obligated to pay: 
+
+       (A) Any amount
+that exceeds the obligation of the insolvent member insurer under the policy
+from which the claim arises; 
+
+       (B) A claim that
+arises after the policy expires or after the insured cancels or replaces the
+policy; or 
+
+       (C) More than
+$600,000 in the aggregate for any claim, including any first-party or
+third-party claim, that arises out of or is related to a single incident or
+occurrence that is covered under a cybersecurity insurance policy or
+endorsement, regardless of the number of claims made or the number of
+claimants. 
+
+       (2) Is the
+insurer to the extent of the association’s obligations on covered claims, with
+all of the rights, duties and obligations the insolvent member insurer would
+have had if the insolvent member insurer had not become insolvent. 
+
+       (3) Shall assess
+member insurers the amounts necessary to pay the expenses the association
+incurs in meeting the association’s obligations and exercising the association’s
+duties and powers under ORS 734.510 to 734.710. The assessments of each member
+insurer must be in the proportion that the net direct written premiums of the
+member insurer for the preceding calendar year bears to the net direct written
+premiums of all member insurers for the preceding calendar year, but may not
+exceed in any one year two percent of the member insurer’s net direct written
+premiums for the preceding calendar year. Each member insurer must be notified
+of an assessment not later than the 30th day before the day the assessment is
+due. If the funds of the association do not provide in any one year an amount
+sufficient to pay the obligations and expenses of the association, the funds
+available must be prorated among the obligations and expenses, and the unpaid
+portions must be paid as soon thereafter as funds become available. If an
+assessment would cause a member insurer’s financial statement to reflect
+amounts of capital or surplus less than the minimum amounts required for a
+certificate of authority by any jurisdiction in which the member insurer is
+authorized to transact insurance, the association may exempt from or defer
+payment of the assessment, in whole or in part, by the member insurer. However,
+if the member insurer is a controlled insurer, the association, in making
+determinations regarding the exemption or deferral of assessments, shall treat
+all dividends paid during the three calendar years immediately preceding the
+year in which the assessment is made as assets of the insurer just as if such
+dividends had not been paid. Each member insurer designated as a servicing
+facility may set off against any assessment authorized payments made on covered
+claims and expenses the member insurer incurred in paying covered claims in the
+member insurer’s capacity as a servicing facility. 
+
+       (4) Shall
+investigate claims brought against the association and adjust, compromise,
+defend, settle and pay covered claims to the extent of the association’s
+obligation. 
+
+       (5) Shall review
+settlements, releases and judgments to which the insolvent member insurer or
+the insolvent member insurer’s insureds were parties to determine the extent to
+which such settlements, releases and judgments may be properly contested. The
+association’s obligation to defend an insolvent member insurer’s insured ceases
+when the association tenders or pays an amount that is equal to the lesser of
+the statutory limit that applies to the covered claim or the policy limit that
+applies to the covered claim. 
+
+       (6) Shall
+reimburse servicing facilities and employees of the association for obligations
+and expenses the servicing facilities and employees incurred and paid in the
+handling of claims on behalf of the association. 
+
+       (7) Shall pay all
+other expenses the association incurs in carrying out ORS 734.510 to 734.710. [1971
+c.616 §8; 1977 c.793 §9; 2001 c.974 §9; 2025 c.20 §5] 
+
+   
+
+       734.575
+Refunds from association deposited in General Fund. Any sums acquired by refund from
+the Oregon Insurance Guaranty Association that have previously been written off
+by contributing insurers and offset against corporate excise taxes or fire
+insurance gross premiums taxes, and are not then needed for purposes of ORS
+734.510 to 734.710, shall be paid by the association to the Director of the
+Department of Consumer and Business Services and deposited with the State
+Treasurer for credit to the General Fund of this state. [1977 c.793 §3; 1985
+c.686 §1; 1995 c.786 §8; 2003 c.568 §4] 
+
+   
+
+       734.577 [1987 c.582 §1; 1991 c.67 §196;
+2003 c.14 §448; repealed by 2005 c.755 §59] 
+
+   
+
+       734.579
+Recoupment assessments; rules. 
+(1) Each member insurer subject to an Oregon Insurance Guaranty Association
+assessment pursuant to ORS 734.570 (3) shall recoup the amount of the
+assessment through a recoupment assessment imposed on net direct written
+premiums. The member insurer shall fix the amount of the recoupment assessment
+at an amount sufficient to reimburse the member insurer for the amount of
+Oregon Insurance Guaranty Association assessments paid by the member insurer. 
+
+       (2) Each member
+insurer shall annually certify to the Director of the Department of Consumer
+and Business Services the total amount of recoupment assessments assessed for
+the year and that the amount assessed does not exceed the amount of Oregon
+Insurance Guaranty Association assessments imposed and not previously recouped
+or offset against corporate excise taxes or fire insurance gross premiums
+taxes. 
+
+       (3) The director
+may by rule establish a minimum threshold for which a recoupment assessment
+under subsection (1) of this section need not be made. 
+
+       (4) The Department
+of Consumer and Business Services, pursuant to rules adopted by the director,
+may audit member insurer determinations of recoupment assessments. 
+
+       (5) Recoupment
+assessments shall be separately stated on premium billing statements.
+Recoupment assessments may not be considered gross premiums for any purpose. [2003
+c.568 §2] 
+
+   
+
+       734.580
+Discretionary functions of association. The Oregon Insurance Guaranty Association may: 
+
+       (1) Employ or
+retain persons or designate servicing facilities that are necessary to handle
+claims and perform the other duties of the association, subject to the approval
+of the Director of the Department of Consumer and Business Services. Servicing
+facilities so designated may be foreign corporations or associations. 
+
+       (2) Borrow funds
+necessary to carry out ORS 734.510 to 734.710, in such manner as may be
+specified in the plan. 
+
+       (3) Sue or be
+sued. 
+
+       (4) Negotiate and
+become a party to contracts that are necessary to carry out ORS 734.510 to
+734.710. 
+
+       (5) Refund to
+member insurers, at the end of any calendar year, in proportion to each member
+insurer’s payments to the association, that amount by which the board of
+directors finds that the funds of the association exceed the association’s
+current claims and expenses plus the liabilities estimated for the coming year. 
+
+       (6) Pay any claim
+made under a cybersecurity insurance policy, at the association’s sole
+discretion and without assuming any duty to pay, if the claim is covered by a
+cybersecurity insurance policy of an insolvent insured on behalf of an insured
+with the net worth described in ORS 734.695 (2)(a). In all cases in which the
+association pays under this subsection a claim made on behalf of an insured
+with the net worth described in ORS 734.695 (2)(a), the association may recover
+the amount paid as provided under ORS 734.695. 
+
+       (7) Perform any
+other acts that are necessary or proper to carry out ORS 734.510 to 734.710. [1971
+c.616 §9; 2025 c.20 §6] 
+
+   
+
+       734.590 Plan
+of operation; submission to director; rules. (1) The Oregon Insurance Guaranty Association shall
+submit to the Director of the Department of Consumer and Business Services not
+later than 90 days after September 9, 1971, a plan of operation, and may
+thereafter submit such amendments thereto as will provide for the reasonable
+and equitable exercise of the duties and powers of the association. The plan of
+operation, and any amendments thereto, shall become effective upon approval in
+writing by the director. 
+
+       (2) If the
+association fails to submit a plan that receives the approval of the director
+as provided in subsection (1) of this section, or if the association thereafter
+fails to maintain a plan satisfactory to the director, the director shall by
+rule prescribe a plan of operation that meets the standards provided in
+subsection (1) of this section. A plan prescribed by the director shall remain
+in effect until the director by rule provides otherwise. 
+
+       (3) No member
+insurer shall fail to comply with the currently effective plan of operation. [1971
+c.616 §10] 
+
+   
+
+       734.600 Contents
+of plan of operation. 
+A plan of operation shall: 
+
+       (1) Establish
+procedures for the submission, processing and payment of claims against the
+Oregon Insurance Guaranty Association. 
+
+       (2) Establish
+procedures for record keeping, payment of expenses and administration of all
+other financial affairs of the association. 
+
+       (3) Establish
+times and places for meetings of the board. 
+
+       (4) Establish
+procedures for selection of the board of directors and for approval of that
+selection by the Director of the Department of Consumer and Business Services. 
+
+       (5) Establish a
+procedure for appeal by a member insurer to the director of final actions or
+decisions of the association. 
+
+       (6) Establish
+such other procedures as may be necessary or proper to carry out the duties and
+powers of the association. [1971 c.616 §11] 
+
+   
+
+       734.610
+Notification to association of insurer insolvency; furnishing association with
+premium information. 
+The Director of the Department of Consumer and Business Services shall: 
+
+       (1) Notify the
+Oregon Insurance Guaranty Association of the insolvency of an insurer not later
+than three days after the director receives notice of the determination of
+insolvency. 
+
+       (2) Upon request
+of the board, provide the association with a statement of the net direct
+written premiums of each member insurer for the preceding calendar year. [1971
+c.616 §12] 
+
+   
+
+       734.620
+Notification of insolvency to insured persons; revocation of designation of
+servicing facility. 
+The Director of the Department of Consumer and Business Services may: 
+
+       (1) Require the
+Oregon Insurance Guaranty Association to notify the insureds of an insolvent
+insurer of the determination of insolvency and of their rights under ORS
+734.510 to 734.710. Such notification may be by: 
+
+       (a) Certified or
+first-class mail to the address of each such person as it last appears in the
+records of the director or the insurer; 
+
+       (b) Publication
+in a newspaper of general circulation in this state if the addresses of those
+persons to be notified is not available from the records of the director or the
+insurer; or 
+
+       (c) Any
+combination of the methods referred to in paragraphs (a) and (b) of this
+subsection that the association considers likely to inform the persons of their
+rights under ORS 734.510 to 734.710. 
+
+       (2) Revoke the
+designation of any servicing facility that the director finds is not processing
+and paying claims in the manner provided in the plan and in ORS 734.510 to
+734.710. [1971 c.616 §13] 
+
+   
+
+       734.630
+Assignment of claim rights; filing statements of paid claims; effect of claim
+settlements. (1)
+Any person who recovers on a covered claim under ORS 734.510 to 734.710 thereby
+assigns the rights of the person under the insurance policy to the Oregon
+Insurance Guaranty Association to the extent of such recovery. Every person who
+seeks the protection of ORS 734.510 to 734.710 shall cooperate with the
+association to the same extent such person would have been required to
+cooperate with the insolvent insurer. The association shall have no cause of
+action against the insureds of an insolvent insurer for any sums paid, except
+for those causes of action the insolvent insurer would have had if such sums
+had been paid by the insolvent insurer. If an insolvent insurer operates on the
+assessment plan, the payment of claims by the association does not reduce the
+liability of the insured to the receiver for unpaid assessments. 
+
+       (2) Periodically
+the association shall file with the receiver statements of the covered claims
+paid by the association and estimates of anticipated claims against the
+association. Such filings shall preserve the rights of the association against
+the assets of the insolvent insurer. 
+
+       (3) The receiver
+shall be bound by settlements of covered claims by the association or a similar
+organization in another state. The court having jurisdiction shall grant such
+claims priority in accordance with ORS 734.360. [1971 c.616 §14; 2001 c.974 §4] 
+
+   
+
+       734.635
+Disbursing assets of insolvent insurer to association; court approval; notice
+to other states. 
+(1) Not later than 120 days from the date the order of liquidation of a member
+insurer is filed in the office of the clerk of the court by which the order was
+made, that insurer’s receiver shall make application to the court for approval
+of a proposal to disburse the insurer’s marshalled assets to the Oregon
+Insurance Guaranty Association from time to time as those assets become
+available. 
+
+       (2) A proposal
+made by a receiver under subsection (1) of this section shall include, but not
+be limited to, provisions for: 
+
+       (a) Reserving
+amounts for the payment of those claims described in ORS 734.360; 
+
+       (b) Disbursing
+the marshalled assets of the insolvent insurer to the association in an amount
+estimated to be at least equal to the claim payments to be made by the
+association for which the association could assert a claim against the
+insolvent insurer; 
+
+       (c) Disbursing
+the marshalled assets in the amount available when the marshalled assets do not
+equal the amount of the claim payments to be made by the association for which
+the association could assert a claim against the insolvent insurer; 
+
+       (d) Securing an
+agreement from the association to return to the receiver any assets previously
+disbursed that may be required to pay the claims of secured creditors and the
+claims described in ORS 734.360; and 
+
+       (e) A complete
+report by the association to the receiver accounting for all assets disbursed
+to the association under this section, expenditures made from those assets and
+any interest earned by the association on those assets. 
+
+       (3) When an
+insurer’s receiver intends to make application to a court for approval of a
+proposal to disburse the insurer’s marshalled assets to the association under
+this section, the receiver shall give notice of the application, at least 30
+days prior to filing the application with the court, to the insurance
+supervisory official and the insurance guaranty agency that performs functions
+similar to that of the association of each state in which the insolvent insurer
+was authorized. [1977 c.793 §2; 2001 c.974 §10] 
+
+   
+
+       734.640
+Exhaustion of coverage under policy before making claim against association;
+priority of claims. 
+(1)(a) A person need not exhaust any right available under an insolvent member
+insurer’s policy, but if the person has a claim under an insurance policy that
+arises from the same facts, injury or loss from which a covered claim against
+the association arises, whether or not the insolvent member insurer issued the
+policy, the person must first exhaust all coverage under the policy, including
+the right to a defense, before the association must pay the covered claim. The
+association’s payment obligation must be reduced by the full applicable limits
+set forth in the other insurance policy and the association must receive a full
+credit for the limits. If the policy does not set forth applicable limits, the
+claim against the association must be reduced by the amount of the total
+recovery. 
+
+       (b) A claim under
+this subsection includes any amount that is payable by or on behalf of a
+self-insured claimant. 
+
+       (c) A claim
+arises from the same facts, injury or loss from which a covered claim against
+the association arises if the person that makes a claim under a policy of
+liability insurance is jointly and severally liable, or is a joint tortfeasor,
+with a person that is covered under the policy of an insolvent member insurer
+under which the covered claim arises. 
+
+       (d) Before making
+a claim against the association, a person that has a claim in which the injury
+or loss is alleged to result from exposure to, or the release of, asbestos or
+any environmental pollutant or contaminant must first exhaust all coverage available
+to the person under any and all other insurance policies that cover the claim
+during all periods in which the other insurance policies are available to the
+person, even if an insolvent member insurer provided the only coverage for the
+claim when the exposure or release allegedly occurred. 
+
+       (2) Any person
+that has a claim that may also be recovered from one or more insurance guaranty
+agencies that perform functions similar to that of the Oregon Insurance
+Guaranty Association shall first seek recovery from whichever organization
+serves the place of residence of the insured, except that: 
+
+       (a) Recovery on
+first party claims for damage to property with a permanent location must first
+be sought from whichever organization serves the location of the property; and 
+
+       (b) Recovery on
+workers’ compensation claims must first be sought from whichever organization
+serves the residence of the claimant. 
+
+       (3) Any recovery
+under ORS 734.510 to 734.710 from the association must be reduced by the amount
+of any recovery under this section. [1971 c.616 §16; 1977 c.793 §10; 2025 c.20 §7] 
+
+   
+
+       734.645
+Liability of Oregon Insurance Guaranty Association when member insurer is
+subject to liquidation after assuming sole responsibility for insurance policy
+that other member issued; exception. 
+(1) Notwithstanding any other provision of ORS 734.510 to 734.710, if an
+insurer assumes sole responsibility for an insurance policy that a member
+insurer issued and the insurer that assumes responsibility for the insurance
+policy is subject to liquidation, the Oregon Insurance Guaranty Association is
+subject under ORS 734.510 to 734.710 to a claim that arises from the insurance
+policy even if: 
+
+       (a) The insurer
+that is subject to liquidation assumed sole responsibility for the insurance
+policy under an allocation, transfer, assumption or other operation in
+accordance with a law of this state that provides for dividing an insurer or
+allocating, transferring or assuming designated insurance policies; and 
+
+       (b) A court order
+or novation released the member insurer from any obligation under the insurance
+policy. 
+
+       (2) The
+association is not subject under ORS 734.510 to 734.710 to a claim that arises
+from an insurance policy if an insurer that was not a member insurer issued the
+insurance policy and a member insurer later assumed sole responsibility for the
+insurance policy under a novation or an allocation, transfer or assumption in
+accordance with a law of this state that provides for dividing an insurer or
+allocating, transferring or assuming designated insurance policies. [2025 c.20 §2] 
+
+   
+
+       734.650
+Notifying director of impaired insurers; examination; reports on impaired
+insurers. (1)
+Whenever the board obtains any information indicating that any member insurer
+is impaired or in a financial condition hazardous to the policyholders or the
+public, the board shall so notify the Director of the Department of Consumer
+and Business Services. 
+
+       (2) The board may
+request the director to examine any member insurer that the board in good faith
+believes to be impaired or in a financial condition hazardous to the
+policyholders or the public. The director shall cause the examination to begin
+within 30 days after the receipt of any such request. Except as otherwise
+provided in ORS 734.510 to 734.710, the examination shall be conducted as
+provided in ORS chapter 731. 
+
+       (3) The director
+shall report the results of an examination to the board and shall notify the
+board whenever the director has reasonable cause to believe during an
+examination that the insurer is impaired or insolvent. The results of the
+completed examination shall not be released to the board before release to the
+public. The request for examination shall not be available for public
+inspection before release of the results of the examination to the public. 
+
+       (4) The board may
+make such reports and recommendations to the director regarding the insolvency,
+liquidation, rehabilitation or conservation of member insurers as the board
+considers appropriate. Any such reports or recommendations are not public
+records. [1971 c.616 §17] 
+
+   
+
+       734.660
+Regulation of association as insurer. 
+The Oregon Insurance Guaranty Association is subject to regulation by the
+Director of the Department of Consumer and Business Services in the same manner
+as an insurer. Not later than March 30 of each year, the board shall submit to
+the director, in a form approved by the director, a financial report for the
+preceding year. [1971 c.616 §18] 
+
+   
+
+       734.670
+Exemption of association from payment of fees and taxes. Except for taxes levied on real or
+personal property, the Oregon Insurance Guaranty Association shall be exempt
+from the payment of all fees and taxes levied by this state or by any city,
+county, district or other political subdivision of this state. [1971 c.616 §19] 
+
+   
+
+       734.680 [1971 c.616 §20; repealed by 1977
+c.793 §11] 
+
+   
+
+       734.690
+Immunity from legal action. 
+No person shall have a cause of action against any member insurer, the Oregon
+Insurance Guaranty Association or its employees or servicing facilities, any
+member of the board, or the Director of the Department of Consumer and Business
+Services or employees of the director for any action taken by them in carrying
+out ORS 734.510 to 734.710. [1971 c.616 §21] 
+
+   
+
+       734.695
+Liability of insured of insolvent insurer. (1) The insured of an insolvent insurer is not
+personally liable for amounts due any reinsurer, insurer, insurance pool or
+underwriting association as subrogation recoveries or otherwise up to the
+applicable limits of liability provided by the insurance policy issued by the
+insolvent insurer. 
+
+       (2)
+Notwithstanding the provisions of subsection (1) of this section, and except
+for claims arising out of workers’ compensation policies subject to ORS chapter
+656, the Oregon Insurance Guaranty Association may recover from the following
+persons the amount of any covered claim, including defense fees, paid on behalf
+of such person under ORS 734.510 to 734.710: 
+
+       (a) Any insured
+whose net worth exceeds $25 million on December 31 of the year next preceding
+the date the insurer becomes an insolvent insurer and whose liability
+obligations to other persons are satisfied in whole or in part by payments made
+under ORS 734.510 to 734.710; and 
+
+       (b) Any person
+who is an affiliate of the insolvent insurer and whose liability obligations to
+other persons are satisfied in whole or in part by payments made under ORS
+734.510 to 734.710. 
+
+       (3)
+Notwithstanding subsection (1) of this section, the association may recover
+from an insured with the net worth described in subsection (2)(a) of this
+section: 
+
+       (a) All payments
+the association made to or on behalf of the insured for a claim under a
+cybersecurity insurance policy, whether the payment was for indemnity, defense
+or another purpose; and 
+
+       (b) The
+association’s legal fees and court costs in any action the association brings
+to recover the payments. [1977 c.793 §4; 2001 c.974 §2; 2025 c.20 §8] 
+
+   
+
+       734.700
+Defense of claims on default of insolvent insurer. (1) Any pending proceeding in
+which an insolvent insurer is a party or is obligated to defend a party in any
+court of this state shall be stayed for 60 days after the date a receiver is
+appointed by the court to permit the Oregon Insurance Guaranty Association time
+to prepare a defense in such proceedings. 
+
+       (2) If any
+covered claim arises from a judgment based on the default of the insolvent
+insurer or its failure to defend an insured, the association may apply to have
+such judgment set aside, and, upon such application shall be permitted to
+defend against the claim on the merits. [1971 c.616 §22] 
+
+   
+
+       734.710
+Administration of delinquency proceeding claims and expenses; application of
+ORS 734.014, 734.026 and 734.110 to 734.440 to insurers. (1) In any delinquency proceeding
+involving a member insurer, the claims and expenses of the insurer shall be
+administered as provided in ORS 734.510 to 734.710. 
+
+       (2) Except as
+otherwise provided in ORS 734.510 to 734.710, ORS 734.014, 734.026 and 734.110
+to 734.440 apply to a member insurer. [1971 c.616 §23] 
+
+   
+
+ OREGON LIFE AND HEALTH
+INSURANCE GUARANTY ASSOCIATION 
+
+   
+
+       734.750 Short
+title. ORS 734.750
+to 734.890 may be cited as the Oregon Life and Health Insurance Guaranty
+Association Act. [1975 c.251 §2] 
+
+   
+
+       734.760
+Definitions for ORS 734.750 to 734.890. As used in ORS 734.750 to 734.890, unless the context
+requires otherwise: 
+
+       (1) “Account”
+means one of the three accounts created under ORS 734.800. 
+
+       (2) “Association”
+means the Oregon Life and Health Insurance Guaranty Association created under
+ORS 734.800. 
+
+       (3) “Contractual
+obligation” means any obligation under a covered policy or contract or a
+certificate under a group policy or contract. 
+
+       (4) “Covered
+policy” means any policy or contract or a certificate under a group policy or
+contract to which ORS 734.750 to 734.890 apply. 
+
+       (5) “Disability
+insurance” means health insurance that provides income payments to an insured
+wage earner whose income is interrupted due to an accident or illness. “Disability
+insurance” does not include workers’ compensation insurance. 
+
+       (6) “Impaired
+insurer” means a member insurer that is subject to an order of rehabilitation
+under ORS 734.063 or an order of conservation under ORS 734.200 after September
+13, 1975. “Impaired insurer” does not include an insolvent insurer. 
+
+       (7) “Insolvent
+insurer” means a member insurer that, after September 13, 1975, is placed under
+an order of liquidation by a court of competent jurisdiction with a finding of
+insolvency. 
+
+       (8) “Long term
+care insurance” has the meaning given that term in ORS 743.652. 
+
+       (9)(a) “Member
+insurer” means any insurer currently authorized to transact in this state any
+kind of insurance to which ORS 734.750 to 734.890 apply, regardless of whether
+the insurer’s authorization to transact insurance was, in the past, suspended,
+revoked, not renewed or voluntarily withdrawn. 
+
+       (b) “Member
+insurer” does not include: 
+
+       (A) A hospital or
+medical service organization, whether for-profit or nonprofit; 
+
+       (B) A health
+maintenance organization; 
+
+       (C) A fraternal
+benefit society; 
+
+       (D) A mandatory
+state pooling plan; 
+
+       (E) A mutual assessment
+company or other person that operates on an assessment basis; 
+
+       (F) An insurance
+exchange; or 
+
+       (G) An
+organization that has a certificate of authority limited to the issuance of
+charitable gift annuities under ORS 731.038. 
+
+       (10) “Premiums”
+means direct gross insurance, including annuity, premiums written on covered
+policies, less return premiums thereon and dividends paid or credited to
+policyholders on such direct business. “Premiums” does not include premiums on
+contracts between insurers and reinsurers or any premiums on policies or
+contracts excluded under ORS 734.790. 
+
+       (11)(a) “Principal
+place of business” means: 
+
+       (A) For a plan
+sponsor or a person other than a natural person, the state in which the natural
+persons who establish policy for the direction, control and coordination of the
+operations of the entity as a whole primarily exercise that function, as determined
+by the association after considering the following factors: 
+
+       (i) The state in
+which the primary executive and administrative headquarters of the entity is
+located; 
+
+       (ii) The state in
+which the principal office of the chief executive officer of the entity is
+located; 
+
+       (iii) The state
+in which the board of directors or governing body of the entity conducts the
+majority of its meetings; 
+
+       (iv) The state in
+which the executive or management committee of the board of directors of the
+entity conducts the majority of its meetings; and 
+
+       (v) The state
+from which the management of the overall operations of the entity is directed. 
+
+       (B) For a benefit
+plan sponsored by affiliated companies comprising a consolidated corporation,
+the state in which the holding company or controlling affiliate has its
+principal place of business as determined using the factors set forth in
+subparagraph (A) of this paragraph. 
+
+       (C) For a plan
+sponsor of a benefit plan for which more than 50 percent of the participants in
+the benefit plan are employed in a single state, the state in which those
+participants are employed. 
+
+       (D) Absent a
+specific or clear designation of a principal place of business for a plan
+sponsor of a benefit plan established or maintained by two or more employers or
+jointly by one or more employers and one or more employee organizations, the
+principal place of business of the association, committee, joint board of
+trustees or other governing body of the employer or employee organization that
+has the largest investment in the benefit plan. 
+
+       (b) As used in
+this subsection, “plan sponsor” means: 
+
+       (A) The employer
+for a benefit plan established or maintained by a single employer. 
+
+       (B) The employee
+organization for a benefit plan established or maintained by an employee
+organization. 
+
+       (C) For a benefit
+plan established or maintained by two or more employers or jointly by one or
+more employers and one or more employee organizations, the association,
+committee, joint board of trustees or other governing bodies of the parties
+that establish or maintain the benefit plan. 
+
+       (12) “Resident”
+means a person to whom contractual obligations are owed by a member insurer and
+who resides in this state on the date a court order is entered that determines
+the member insurer to be an impaired insurer or an insolvent insurer. A person
+may be a resident of only one state, which in the case of a person other than a
+natural person shall be its principal place of business. A citizen of the
+United States who resides in a foreign country, or resides in a United States
+possession, territory or protectorate that does not have an association similar
+to the association created under ORS 734.800, shall be considered a resident of
+the state of domicile of the insurer that issued the policies or contracts. If
+a person could be covered by the association of another state, whether as an
+owner, payee, beneficiary or assignee, ORS 734.750 to 734.890 shall be
+construed with the laws of the other state to result in coverage by only one
+association. 
+
+       (13) “Structured
+settlement annuity” means an annuity purchased to fund periodic payments for a
+plaintiff or other claimant in payment for or with respect to personal injury
+suffered by the plaintiff or other claimant. 
+
+       (14) “Supplemental
+contract” means a written agreement entered into for the distribution of
+proceeds under a life or health insurance policy or an annuity contract. 
+
+       (15) “Unallocated
+annuity contract” means an annuity contract or group annuity certificate that
+is not issued to and owned by an individual, except to the extent that any
+annuity benefits may be guaranteed to an individual under the contract or
+certificate. [1975 c.251 §6; 1987 c.414 §180; 1991 c.811 §1; 2011 c.142 §1] 
+
+   
+
+       734.770
+Purpose. The
+purpose of ORS 734.750 to 734.890 is to protect the persons specified in ORS
+734.790, subject to certain limitations, against failure in the performance of
+contractual obligations, under life and health insurance policies and annuity
+contracts specified in ORS 734.790, because of the impairment or insolvency of
+the insurer issuing such policies or contracts. To provide this protection: 
+
+       (1) An
+association of insurers is created to enable the guarantee of payment of
+benefits and continuation of coverages; 
+
+       (2) Members of
+the Oregon Life and Health Insurance Guaranty Association are subject to
+assessment to provide funds to carry out the purpose of ORS 734.750 to 734.890;
+and 
+
+       (3) The
+association is authorized to assist the Director of the Department of Consumer
+and Business Services, in the prescribed manner, in the detection and
+prevention of insurer impairments or insolvencies. [1975 c.251 §3; 1991 c.811 §2] 
+
+   
+
+       734.780
+Construction. ORS
+734.750 to 734.890 shall be liberally construed to effect the purpose provided
+in ORS 734.770. [1975 c.251 §5] 
+
+   
+
+       734.790
+Application. (1)
+ORS 734.750 to 734.890 provide coverage for policies and contracts specified in
+subsection (2) of this section to the following persons who are not provided
+coverage under the laws of another state: 
+
+       (a) To a person
+who is a resident, if the person is an owner of or a certificate holder under
+the policy or contract other than a structured settlement annuity or, in the
+case of an unallocated annuity contract, an employee participating in a
+governmental retirement plan established under section 401, 403(b) or 457 of
+the United States Internal Revenue Code or the beneficiaries of each such
+individual if deceased. 
+
+       (b) To a person
+who is not a resident, if the person is an owner of or a certificate holder
+under the policy or contract other than a structured settlement annuity or, in
+the case of an unallocated annuity contract, an employee participating in a
+governmental retirement plan established under section 401, 403(b) or 457 of
+the United States Internal Revenue Code or the beneficiaries of each such
+individual if deceased. This paragraph applies to a person who is not a
+resident only if all of the following conditions are met: 
+
+       (A) The insurer
+that issued the policy or contract must be a member insurer. 
+
+       (B) The state in
+which the person resides must have an association similar to the Oregon Life
+and Health Insurance Guaranty Association. 
+
+       (C) The person
+must not be eligible for coverage by an association in the state in which the
+person resides, as described in subparagraph (B) of this paragraph, due to the
+fact that the insurer was not authorized to transact insurance or licensed in
+that state at the time specified in the state’s guaranty association law. 
+
+       (c) To a person
+who, regardless of where the person resides, is a beneficiary, assignee or
+payee of the persons covered under paragraph (a) or (b) of this subsection.
+This paragraph does not include a nonresident certificate holder under a group
+policy or contract. 
+
+       (d) To a person
+who is a payee under a structured settlement annuity, or to the beneficiary of
+a payee if the payee is deceased, if the payee: 
+
+       (A) Is a
+resident, regardless of where the contract owner resides; or 
+
+       (B) Is not a
+resident, but only under both of the following conditions: 
+
+       (i) The contract
+owner of the structured settlement annuity is a resident and is not afforded
+any coverage by an association in another state that is similar to the
+association created under ORS 734.800, or the contract owner of the structured
+settlement annuity is not a resident but the insurer that issued the structured
+settlement annuity is domiciled in this state and the state in which the
+contract owner resides has an association similar to the association created
+under ORS 734.800; and 
+
+       (ii) Neither the
+payee or beneficiary nor the contract owner of the structured settlement
+annuity is eligible for coverage by the association of the state in which the
+payee or contract owner resides. 
+
+       (2) Except as
+limited by ORS 734.750 to 734.890, the association shall provide coverage to
+the persons specified in subsection (1) of this section for direct nongroup
+life or health insurance policies or annuity contracts, for certificates under
+direct group policies or contracts, and for supplemental contracts to any of
+these, in each case issued by member insurers. 
+
+       (3) ORS 734.750
+to 734.890 do not provide coverage for: 
+
+       (a) That portion
+of any policy or contract not guaranteed by the member insurer or under which
+the risk is borne by the policyholder or contract owner. 
+
+       (b) Any policy or
+contract or part thereof assumed by the impaired or insolvent insurer under a
+contract of reinsurance, other than reinsurance for which assumption
+certificates have been issued. 
+
+       (c) Any policy or
+contract issued by a health care service contractor complying with ORS 750.005
+to 750.095. 
+
+       (d) Any policy or
+contract issued by a fraternal benefit society. 
+
+       (e) Any portion
+of a policy or contract to the extent that the interest rate on which the
+policy or contract is based, or to the extent that the interest rate, crediting
+rate or similar factor determined by use of an index or other external
+reference stated in the policy or contract for the purpose of calculating
+returns or changes in value: 
+
+       (A) Exceeds, when
+averaged over the period of four years prior to the date on which the member
+insurer becomes either an impaired or insolvent insurer under ORS 734.750 to
+734.890, whichever occurs first, a rate of interest determined by subtracting
+four percentage points from Moody’s Corporate Bond Yield Average averaged for
+that same four-year period or for a lesser period if the policy or contract was
+issued less than four years before the member insurer becomes either an
+impaired or insolvent insurer under ORS 734.750 to 734.890, whichever occurred
+first; and 
+
+       (B) Exceeds, on
+and after the date on which the member insurer becomes either an impaired or
+insolvent insurer under ORS 734.750 to 734.890, whichever occurs first, the
+rate of interest determined by subtracting three percentage points from Moody’s
+Corporate Bond Yield Average as most recently available. 
+
+       (f) Any portion
+of a policy or contract issued to a plan or program of an employer, association
+or similar entity to provide life insurance, health insurance or annuity
+benefits to its employees or members to the extent that the plan or program is
+self-funded or uninsured, including benefits payable by an employer,
+association or similar entity under any of the following: 
+
+       (A) A multiple
+employer welfare arrangement as defined in section 3(40) (29 U.S.C. 1002(40))
+of the Employee Retirement Income Security Act of 1974, as amended. 
+
+       (B) A minimum
+premium group insurance plan. 
+
+       (C) A stop-loss
+group insurance plan. 
+
+       (D) An
+administrative services only contract. 
+
+       (g) Any portion
+of a policy or contract to the extent that it provides dividends or experience
+rating credits or voting rights, or provides that any fees or allowances be
+paid to any person, including the policyholder or contract owner, in connection
+with the service to or administration of the policy or contract. 
+
+       (h) Any policy or
+contract issued in this state by a member insurer at a time that the insurer
+did not have a certificate of authority to issue the policy or contract in this
+state. 
+
+       (i) Any
+unallocated annuity contract issued to or in connection with an employee
+benefit plan protected under the federal Pension Benefit Guaranty Corporation,
+regardless of whether the federal Pension Benefit Guaranty Corporation has yet
+become liable to make any payments with respect to the benefit plan. 
+
+       (j) Any portion
+of any unallocated annuity contract that is not issued to or in connection with
+a government retirement plan referred to in subsection (1) of this section, or
+a government lottery. 
+
+       (k) Any portion
+of a policy or contract to the extent that the assessments required by ORS
+734.815 with respect to the policy or contract are preempted by federal or
+state law. 
+
+       (L) An obligation
+that does not arise under the express written terms of the policy or contract
+issued by the insurer to the policyholder or contract owner, including but not
+limited to: 
+
+       (A) Claims based
+on marketing materials; 
+
+       (B) Claims based
+on side letters, riders or other documents that were issued by the insurer
+without meeting applicable policy or contract form filing or approval
+requirements; 
+
+       (C)
+Misrepresentations of, or regarding, policy or contract benefits; 
+
+       (D)
+Extracontractual claims, including but not limited to claims related to bad
+faith in the payment of claims, punitive or exemplary damages or attorney fees
+or costs; or 
+
+       (E) A claim for
+penalties or consequential or incidental damages. 
+
+       (m) A contractual
+agreement that establishes the member insurer’s obligations to provide a book
+value accounting guaranty for defined contribution benefit plan participants by
+reference to a portfolio of assets that is owned by the benefit plan or its
+trustee that in either case is not an affiliate of the member insurer. 
+
+       (n) Any portion
+of a policy or contract to the extent that portion provides for interest or
+other changes in value to be determined by the use of an index or other
+external reference stated in the policy or contract, but the changes in value
+have not been credited to the policy or contract, or as to which the
+policyholder’s or contract owner’s rights are subject to forfeiture, as of the
+date on which the member insurer becomes either an impaired or insolvent
+insurer, whichever occurs first. If the interest or changes in value in a
+policy or contract are credited less frequently than annually, for purposes of
+determining the values that have been credited and are not subject to
+forfeiture under this paragraph, the interest or change in value that is
+determined by using the procedures specified in the policy or contract shall be
+credited as if the contractual date of crediting interest or changing value was
+the date of the impairment or insolvency, whichever is earlier, and may not be
+subject to forfeiture. 
+
+       (o) Any policy or
+contract providing any hospital, medical, prescription drug or other health
+care benefits under Part C or Part D of subchapter XVIII, chapter 7, Title 42
+of the United States Code, or any regulations issued under those provisions. 
+
+       (4) As used in
+this section, “Moody’s Corporate Bond Yield Average” means the Monthly Average
+Corporates as published by Moody’s Investors Service, Inc., or any successor
+thereto. [1975 c.251 §4; 1987 c.414 §181; 1991 c.811 §3; 2011 c.142 §2; 2013
+c.698 §13] 
+
+   
+
+       734.800 Oregon
+Life and Health Insurance Guaranty Association; required members; required
+accounts. (1)
+There is created a nonprofit legal entity to be known as the Oregon Life and
+Health Insurance Guaranty Association. All member insurers shall be and remain
+members of the association as a condition of their authority to transact
+insurance in this state. The association shall perform its functions under the
+plan of operation established and approved under ORS 734.820, and shall
+exercise its powers through a board of directors established under ORS 734.805.
+For purposes of administration and assessment, the association shall maintain
+three accounts: 
+
+       (a) The health
+insurance account, composed of the following subaccounts: 
+
+       (A) The
+disability insurance subaccount; 
+
+       (B) The long term
+care insurance subaccount; and 
+
+       (C) The major
+medical and all other health insurance subaccount; 
+
+       (b) The life
+insurance account; and 
+
+       (c) The annuity
+account. 
+
+       (2) The
+association shall come under the immediate supervision of the Director of the
+Department of Consumer and Business Services and shall be subject to the
+applicable provisions of the insurance laws of this state. [1975 c.251 §7; 2011
+c.142 §3] 
+
+   
+
+       734.805
+Association board of directors; terms; selection; vacancies; compensation and expenses. (1) The board of directors of the
+Oregon Life and Health Insurance Guaranty Association shall consist of not less
+than five nor more than nine members who represent member insurers, serving
+terms as established in the plan of operation. The members of the board shall
+be selected by member insurers, subject to the approval of the Director of the
+Department of Consumer and Business Services. Vacancies on the board shall be
+filled for the remaining period of the term by a majority vote of the remaining
+board members, subject to the approval of the Director of the Department of
+Consumer and Business Services. To select the initial board of directors, and
+initially organize the association, the Director of the Department of Consumer
+and Business Services shall give notice to all member insurers of the time and
+place of the organizational meeting. In determining voting rights at the
+organizational meeting each member insurer shall be entitled to one vote in
+person or by proxy. If the board of directors is not selected within 60 days
+after notice of the organizational meeting, the Director of the Department of
+Consumer and Business Services may appoint the initial members. 
+
+       (2) In approving
+selections or in appointing members to the board, the Director of the
+Department of Consumer and Business Services shall consider, among other
+things, whether all member insurers are fairly represented. 
+
+       (3) Members of
+the board of directors may be reimbursed from the assets of the association for
+expenses incurred by them as members of the board, but members of the board may
+not otherwise be compensated by the association for their services. [1975 c.251
+§8; 2011 c.142 §4] 
+
+   
+
+       734.810 Duties
+and powers of association; termination of obligations; limit of obligations. (1) If a member insurer is an
+impaired insurer, the Oregon Life and Health Insurance Guaranty Association, in
+its discretion and subject to any conditions imposed by the association and
+approved by the Director of the Department of Consumer and Business Services,
+other than those that impair the contractual obligations of the impaired
+insurer, may: 
+
+       (a) Guarantee,
+assume or reinsure, or cause to be guaranteed, assumed or reinsured, any or all
+of the covered policies of the impaired insurer. 
+
+       (b) Provide such
+moneys, pledges, notes, loans, guarantees or other means as are proper to
+implement paragraph (a) of this subsection and ensure payment of the
+contractual obligations of the impaired insurer pending action under paragraph
+(a) of this subsection. 
+
+       (2) If a member
+insurer is an insolvent insurer, the association, in its discretion and subject
+to the approval of the director, shall take either of the following steps: 
+
+       (a)(A) Guarantee,
+assume or reinsure, or cause to be guaranteed, assumed or reinsured, the
+covered policies of the insolvent insurer; 
+
+       (B) Ensure
+payment of the contractual obligations of the insolvent insurer; and 
+
+       (C) Provide such
+moneys, pledges, notes, loans, guarantees or other means as are reasonably
+necessary to discharge such duties. 
+
+       (b) Provide
+benefits and coverages in accordance with the following provisions: 
+
+       (A) For life and
+health insurance policies and annuity contracts, the association shall ensure
+that the payment of benefits for premiums, except for terms of conversion and
+renewability, under the replacement coverage provided by the association is
+identical to the payment of benefits for premiums that would have been payable
+under the policies or contracts of the insolvent insurer, for claims incurred: 
+
+       (i) With respect
+to group policies and contracts, not later than the earlier of the next renewal
+date under those policies or contracts or 45 days, but in no event less than 30
+days, after the date on which the association becomes obligated with respect to
+the policies or contracts. 
+
+       (ii) With respect
+to nongroup policies and contracts, if any, not later than the earlier of the
+next renewal date under those policies or contracts or one year, but in no
+event less than 30 days, after the date on which the association becomes
+obligated with respect to the policies or contracts. 
+
+       (B) The
+association shall make diligent efforts to provide a 30-day notice of the
+termination of the benefits provided under subparagraph (A) of this paragraph
+to all known insureds or annuitants for nongroup policies and contracts, or to
+group policyholders or contract owners with respect to group policies and
+contracts. 
+
+       (C) For nongroup
+life and health insurance policies and annuities covered by the association,
+the association shall make substitute coverage available to each known insured
+or annuitant, or owner if other than the insured or annuitant. For an
+individual formerly insured or formerly an annuitant under a group policy who
+is not eligible for replacement group coverage, the association shall make
+available substitute coverage on an individual basis in accordance with the
+provisions of subparagraph (D) of this paragraph, if the insureds or annuitants
+had a right under law or under the terminated policy or annuity to convert
+coverage to individual coverage or to continue an individual policy or annuity
+that was already in force until a specified age or for a specified time, during
+which the insurer had no right to make changes unilaterally in any provision of
+the policy or annuity or had a right to make changes only to premiums or to
+classes of risk. 
+
+       (D) In providing
+the substitute coverage required under subparagraph (C) of this paragraph, the
+association: 
+
+       (i) May offer
+either to reissue the terminated coverage or to issue an alternative policy. 
+
+       (ii) Shall offer
+alternative or reissued policies without requiring evidence of insurability. 
+
+       (iii) May not
+impose any waiting period or exclusion that would not have applied under the
+terminated policy. 
+
+       (iv) May reinsure
+any alternative or reissued policy. 
+
+       (E) Any
+alternative policy adopted by the association must: 
+
+       (i) Be approved
+by the Director of the Department of Consumer and Business Services and the
+court. The association may adopt alternative policies of various types for
+future issuance without regard to any particular impairment or insolvency. 
+
+       (ii) Contain at
+least the minimum statutory provisions required in this state and provide
+benefits that are not unreasonable in relation to the premium charged. The
+association shall set the premium in accordance with a table of rates adopted
+by the association. The premium shall reflect the amount of insurance to be
+provided and the age and class of risk of each insured, but may not reflect any
+changes in the health of the insured after the original policy was last
+underwritten. 
+
+       (iii) Provide
+coverage of a type similar to that of the policy issued by the insolvent
+insurer, as determined by the association. 
+
+       (F) If the
+association elects to reissue terminated coverage at a premium rate that is
+different from the premium rate that was charged under the terminated policy,
+the premium rate shall be set by the association, in accordance with the amount
+of insurance provided and the age and class of risk, and be subject to approval
+by the Director of the Department of Consumer and Business Services and the
+court. 
+
+       (G) The
+association’s obligations with respect to coverage under any policy of the
+insolvent insurer or under any reissued or alternative policy shall cease on
+the date on which the coverage or policy is replaced by another similar policy
+by the policyholder, the insured or the association. 
+
+       (H) When
+proceeding under this subsection with respect to a policy or contract that
+carries a guaranteed minimum interest rate, the association shall ensure the
+payment or crediting of a rate of interest consistent with the provisions of
+ORS 734.790 (3). 
+
+       (3) Nonpayment of
+premiums within 31 days after the date required under the terms of any
+guaranteed, assumed, alternative or reissued policy or contract or substitute
+coverage shall terminate the association’s obligations under the policy,
+contract or substitute coverage under ORS 734.750 to 734.890 with respect to
+the policy, contract or substitute coverage, except with respect to any claims
+incurred or any net cash surrender value or net cash withdrawal value that may
+be due in accordance with the provisions of ORS 734.750 to 734.890. 
+
+       (4) Premiums due
+for coverage after entry of an order of liquidation of an insolvent insurer
+shall belong to and be payable at the direction of the association. At the
+request of the liquidator of an insolvent insurer, the association shall
+provide a report to the liquidator regarding any premium collected by the
+association. The association is liable for unearned premiums due to
+policyholders or contract owners arising after the entry of the order. 
+
+       (5) The
+protection provided by ORS 734.750 to 734.890 does not apply where any guaranty
+protection is provided to residents of this state by the laws of the
+domiciliary state or jurisdiction of the impaired or insolvent insurer other
+than this state. 
+
+       (6)(a) In
+carrying out its duties under subsection (2) of this section, the association
+may impose permanent policy liens or contract liens in connection with any
+guaranteed, assumption or reinsurance agreement, if the court considering the
+lien finds that the amounts that can be assessed under ORS 734.750 to 734.890
+are less than the amounts needed to ensure full and prompt performance of the
+insolvent insurer’s contractual obligations or that the economic or financial
+conditions affecting member insurers are sufficiently adverse to render the
+imposition of policy or contract liens to be in the public interest, and
+approves the specific policy liens or contract liens to be used. 
+
+       (b) In carrying
+out its duties under subsection (2) of this section, the association may
+request that there be imposed temporary moratoriums or liens on payments of
+cash values and policy loans or temporary moratoriums on the right to withdraw
+funds held in conjunction with the policies or contracts, in addition to any
+contractual provisions for deferral of cash or policy loan values, and such
+temporary moratoriums and liens may be imposed if they are approved by the
+court. In addition, in the event of a temporary moratorium or moratorium charge
+imposed by the court on payment of cash values or policy loan values, or on any
+other right to withdraw funds held in conjunction with policies or contracts,
+out of the assets of the impaired or insolvent insurer, the association may
+defer the payment of cash values, policy loan values and other rights by the
+association for the period of the temporary moratorium or moratorium charge
+that is imposed by the court, except for claims that are covered by the
+association to be paid in accordance with a hardship procedure that is
+established by the liquidator or rehabilitator and approved by the court. 
+
+       (7) If the
+association fails to act as required in subsection (2) of this section within a
+reasonable time, the director shall have the powers and duties of the
+association under ORS 734.750 to 734.890 with respect to insolvent insurers. 
+
+       (8) The
+association may render assistance and advice to the director, upon request of
+the director, concerning rehabilitation, payment of claims, continuance of
+coverage or the performance of other contractual obligations of any impaired or
+insolvent insurer. 
+
+       (9) The
+association shall have standing to intervene or appear before any court or
+agency in this state having jurisdiction over an impaired or insolvent insurer
+concerning which the association is or may become obligated under ORS 734.750
+to 734.890 or with jurisdiction over any person or property against which the
+association has rights through subrogation or otherwise. Such standing shall
+extend to all matters germane to the powers and duties of the association
+including, but not limited to, proposals for reinsuring, modifying or
+guaranteeing the covered policies of the impaired or insolvent insurer and the
+determination of the covered policies and contractual obligations. The
+association may also appear or intervene before a court or agency in another
+state with jurisdiction over an impaired or insolvent insurer for which the
+association is or may become obligated or with jurisdiction over any person or
+property against whom the association may have rights through subrogation or
+otherwise. 
+
+       (10)(a) Any
+person receiving benefits under ORS 734.750 to 734.890 shall be considered to
+have assigned the rights under, and any causes of action against any person for
+losses arising under, resulting from or otherwise relating to, the covered
+policy to the association to the extent of the benefits received because of ORS
+734.750 to 734.890, whether the benefits are payments of or on account of
+contractual obligations or continuation of coverage. The association may
+require an assignment to the association of such rights by any payee,
+policyholder, contract owner, beneficiary, insured or annuitant as a condition
+precedent to the receipt of any rights or benefits conferred by ORS 734.750 to
+734.890 upon such person. The association shall be subrogated to these rights
+against the assets of any impaired or insolvent insurer. 
+
+       (b) The
+subrogation rights of the association under this subsection shall have the same
+priority against the assets of the impaired or insolvent insurer as that
+possessed by the person entitled to receive benefits under ORS 734.750 to
+734.890. 
+
+       (c) In addition
+to the rights set forth in paragraphs (a) and (b) of this subsection, the
+association may exercise any common law rights of subrogation or any other
+equitable or legal remedy that would have been available to the impaired or
+insolvent insurer or to the policyholder or contract owner, beneficiary or
+payee of a policy or contract with respect to the policy or contract. In the
+case of a structured settlement annuity, these rights include but are not
+limited to any rights of the policyholder or contract owner, beneficiary or
+payee of the annuity, to the extent of benefits received under ORS 734.750 to
+734.890, against a person originally or by succession responsible for the
+losses arising from the personal injury relating to the annuity or payment
+therefor, with the exception of a person responsible solely by reason of
+serving as an assignee in respect of a qualified assignment under section 130
+of the federal Internal Revenue Code. 
+
+       (d) If the
+provisions of this subsection are determined by a court to be invalid or
+ineffective with respect to any person or claim for any reason, the association
+shall reduce the amount payable by the association with respect to the related
+covered obligations by the amount realized by any other person with respect to
+the person or claim that is attributable to the policies or contracts covered
+by the association. 
+
+       (e) If the
+association provides benefits with respect to a covered obligation and a person
+recovers amounts to which the association has rights as described in this
+subsection, the person shall pay to the association the portion of the recovery
+attributable to the policies or contracts covered by the association. 
+
+       (11) The
+contractual obligations of the impaired or insolvent insurer for which the
+association becomes or may become liable may not exceed the least of: 
+
+       (a) The
+contractual obligations for which the impaired or insolvent insurer is liable
+or would have been liable if it were not an impaired or insolvent insurer,
+unless such obligations are reduced as permitted by subsection (6) of this
+section; 
+
+       (b) With respect
+to any one life, regardless of the number of policies or contracts: 
+
+       (A) $300,000 in
+life insurance death benefits, but not more than $100,000 in net cash surrender
+and net cash withdrawal values for life insurance. 
+
+       (B) $100,000 in
+health insurance benefits other than basic hospital, medical and surgical
+insurance, major medical insurance, disability insurance or long term care
+insurance, including any net cash surrender and net cash withdrawal values. 
+
+       (C) $300,000 in
+disability insurance benefits. 
+
+       (D) $300,000 in
+long term care insurance benefits. 
+
+       (E) $500,000 in
+basic hospital, medical and surgical insurance or major medical insurance. 
+
+       (F) $250,000 in
+the present value of annuity benefits, including any net cash surrender and net
+cash withdrawal values; 
+
+       (c) With respect
+to each payee of a structured settlement annuity or the beneficiary of the
+payee if deceased, $250,000 in the present value of annuity benefits, in the
+aggregate, including any net cash surrender and net cash withdrawal values; or 
+
+       (d) $250,000 in
+the present value of annuity benefits, in the aggregate, including any net cash
+surrender and net cash withdrawal values, with respect to each individual
+participating in a governmental retirement plan established under section 401,
+403(b) or 457 of the United States Internal Revenue Code covered by an
+unallocated annuity contract or the beneficiaries of each such individual if
+deceased. 
+
+       (12) The
+association may not be liable for more than: 
+
+       (a) $300,000 in
+benefits, in the aggregate, with respect to any one life under subsection
+(11)(b), (c) and (d) of this section, with the exception of benefits under
+subsection (11)(b)(E) of this section, in which case the aggregate liability of
+the association may not exceed $500,000 with respect to any one life. 
+
+       (b) With respect
+to one policyholder of multiple nongroup policies of life insurance, regardless
+of whether the policyholder is an individual, firm, corporation or other
+person, and whether the persons insured are officers, managers, employees or
+other persons, $5 million in benefits, regardless of the number of policies and
+contracts held by the policyholder. 
+
+       (13) The
+limitations set forth in subsections (11) and (12) of this section are
+limitations on the benefits for which the association is obligated before
+taking into account either its subrogation and assignment rights or the extent
+to which those benefits could be provided out of the assets of the impaired or
+insolvent insurer attributable to covered policies. The costs of the
+association’s obligations under ORS 734.750 to 734.890 may be met by the use of
+assets attributable to covered policies or reimbursed to the association under
+its subrogation and assignment rights. 
+
+       (14) In
+performing its obligations to provide coverage under ORS 734.750 to 734.890,
+the association is not required to guarantee, assume, reinsure or perform, or
+cause to be guaranteed, assumed, reinsured or performed, any contractual
+obligation of the impaired or insolvent insurer or contract owner under a
+covered policy that does not materially affect the economic values or economic
+benefits of the covered policy or contract. 
+
+       (15) The
+association may: 
+
+       (a) Enter into
+such contracts as are necessary or proper to carry out the provisions and
+purposes of ORS 734.750 to 734.890. 
+
+       (b) Sue or be
+sued, including taking any legal actions necessary or proper for recovery of
+any unpaid assessments under ORS 734.815 and to settle claims or potential
+claims against the association. 
+
+       (c) Borrow money
+to effect the purposes of ORS 734.750 to 734.890. Any notes or other evidence
+of indebtedness of the association not in default shall be legal investments
+for member insurers and may be carried as admitted assets. 
+
+       (d) Employ or
+retain such persons as are necessary to handle the financial transactions of
+the association, and to perform such other functions as become necessary or
+proper under ORS 734.750 to 734.890. 
+
+       (e) Negotiate and
+contract with any liquidator, rehabilitator, conservator or ancillary receiver
+to carry out the powers and duties of the association. 
+
+       (f) Take such
+legal action as may be necessary to avoid payment of improper claims. 
+
+       (g) Exercise, for
+the purposes of ORS 734.750 to 734.890 and to the extent approved by the
+director, the powers of a member life or health insurer, but in no case may the
+association issue policies other than those issued to perform the contractual
+obligations of the impaired or insolvent insurer. 
+
+       (h) Organize
+itself as a corporation or other legal form permitted by the laws of this
+state. 
+
+       (i) Request
+information from a person seeking coverage from the association to aid the
+association in determining its obligations under ORS 734.750 to 734.890 with
+respect to that person. 
+
+       (j) Take any
+other necessary or appropriate action to discharge its duties and obligations
+and to exercise its powers under ORS 734.750 to 734.890. 
+
+       (16) The duties
+and powers of the association described in this section are in addition to any
+other duties and powers of the association described in ORS 734.750 to 734.890. 
+
+       (17)(a) Within
+180 days after the date of the order of liquidation, the association may
+succeed to the rights and obligations of the ceding member insurer that relate
+to policies or annuities covered, in whole or in part, by the association, in
+each case under any one or more reinsurance contracts entered into by the
+insolvent insurer and its reinsurers and selected by the association. Any such
+assumption shall be effective as of the date of the order of liquidation. The
+election shall be effected by the association sending written notice, return
+receipt requested, to the affected reinsurers. 
+
+       (b) To facilitate
+the earliest practicable decision about whether to assume any of the contracts
+of reinsurance, and in order to protect the financial position of the estate,
+the receiver and each reinsurer of the ceding member insurer shall make available
+upon request to the association as soon as possible after commencement of
+formal delinquency proceedings copies of in-force contracts of reinsurance and
+all related files and records relevant to the determination of whether such
+contracts should be assumed, and notices of any defaults under the reinsurance
+contracts or any known event or condition which with the passage of time could
+become a default under the reinsurance contracts. 
+
+       (c) For any
+reinsurance contracts assumed by the association under paragraphs (a) and (b)
+of this subsection: 
+
+       (A) The
+association is responsible for all unpaid premiums due under the reinsurance
+contracts for periods both before and after the date of the order of
+liquidation, and shall be responsible for the performance of all other
+obligations to be performed after the date of the order of liquidation, related
+to policies or annuities covered by the reinsurance contract, in whole or in
+part, by the association. The association may charge policies or annuities
+covered in part by the association, through reasonable allocation methods, the
+costs for reinsurance in excess of the obligations of the association and shall
+provide notice and an accounting of those charges to the liquidator. 
+
+       (B) The
+association is entitled to any amounts payable by the reinsurer under the
+reinsurance contracts with respect to losses or events that occur in periods
+after the date of the order of liquidation and that relate to policies or
+annuities covered, in whole or in part, by the association. Upon receipt of any
+such amounts, the association shall pay the beneficiary under the policy or
+annuity on account of which the amounts were paid a portion of the amount equal
+to the lesser of: 
+
+       (i) The amount
+received by the association; or 
+
+       (ii) The amount
+received by the association that is in excess of the amount equal to the
+benefits paid by the association on account of the policy or annuity minus the
+amount retained by the insurer applicable to the loss or event. 
+
+       (C) Within 30
+days following the association’s election, the association and each reinsurer
+shall calculate the net balance due to or from the association under each
+reinsurance contract as of the election date with respect to policies or
+annuities covered, in whole or in part, by the association. The calculation
+shall give full credit to all items paid by the insurer or its receiver or by
+the reinsurer prior to the election date. The reinsurer shall pay the receiver
+any amounts due for losses or events prior to the date of the order of
+liquidation, subject to any setoff for premiums unpaid for periods prior to
+that date, and the association or the reinsurer shall pay any remaining balance
+due to one another. The reinsurer and the association shall make such payments
+within five days after the completion of the calculation of the net balance due
+under each reinsurance contract. Any disputes over the amounts due to the
+association or the reinsurer shall be resolved by arbitration according to the
+terms of the affected reinsurance contracts or, if the contract contains no
+arbitration clause, as otherwise provided by law. If the receiver has received
+any amounts due the association under subparagraph (B) of this paragraph, the
+receiver shall remit the amounts to the association as promptly as practicable. 
+
+       (d) If the
+association, or the receiver on the association’s behalf, within 60 days after
+the election date pays the unpaid premiums due for periods both before and
+after the election date that relate to policies or annuities covered, in whole
+or in part, by the association, the reinsurer may not terminate the reinsurance
+contracts for failure to pay premiums insofar as the reinsurance contracts
+relate to policies or annuities covered, in whole or in part, by the
+association, and may not set off any unpaid amounts due under other contracts,
+or unpaid amounts due from parties other than the association, against amounts
+due to the association. 
+
+       (e)(A) During the
+period from the date of the order of liquidation until the election date or, if
+the election date does not occur, 180 days after the date of the order of
+liquidation: 
+
+       (i) Neither the
+association nor the reinsurer shall have any rights or obligations under
+reinsurance contracts that the association has the right to assume under
+paragraph (a) of this subsection, whether for periods prior to or after the
+date of the order of liquidation; and 
+
+       (ii) The
+reinsurer, the receiver and the association shall, to the extent practicable,
+provide to each other data and records that are reasonably requested. 
+
+       (B) After the
+association has elected to assume a reinsurance contract, the parties’ rights
+and obligations shall be governed by paragraph (a) of this subsection. 
+
+       (f) If the
+association does not elect to assume a reinsurance contract by the election
+date under paragraph (a) of this subsection, the association shall have no
+rights or obligations, for periods both before and after the date of the order
+of liquidation, with respect to the reinsurance contract. 
+
+       (g) When policies
+or annuities, or covered obligations related to policies or annuities, are
+transferred to an assuming insurer, the association may also transfer
+reinsurance on the policies or annuities for contracts assumed under paragraph
+(a) of this subsection, subject to the following: 
+
+       (A) Unless the
+reinsurer and the assuming insurer agree otherwise, the reinsurance contract
+transferred may not cover any new policies of insurance or annuities in
+addition to those transferred; 
+
+       (B) The
+obligations described in paragraph (a) of this subsection shall no longer apply
+with respect to matters arising after the effective date of the transfer; and 
+
+       (C) The
+transferring party shall give notice in writing, return receipt requested, to
+the affected reinsurer not less than 30 days before the effective date of the
+transfer. 
+
+       (h) The
+provisions of this subsection shall supersede any other provision of law or any
+affected reinsurance contract that provides for or requires any payment of
+reinsurance proceeds, on account of losses or events that occur in periods
+after the date of the order of liquidation, to the receiver or any other
+person. The receiver shall remain entitled to any amounts payable by the
+reinsurer under the reinsurance contract with respect to losses or events that
+occur in periods prior to the date of the order of liquidation, subject to
+applicable setoff provisions. 
+
+       (i) Except as
+otherwise provided in this subsection, nothing in this section shall: 
+
+       (A) Alter or
+modify the terms and conditions of any reinsurance contract; 
+
+       (B) Abrogate or
+limit any rights of any reinsurer to claim that the reinsurer is entitled to
+rescind a reinsurance contract; 
+
+       (C) Grant a
+policyholder, contract owner or beneficiary an independent cause of action
+against a reinsurer that is not otherwise set forth in the reinsurance
+contract; 
+
+       (D) Limit or
+affect the association’s rights as a creditor of the estate against the assets
+of the estate; or 
+
+       (E) Apply to
+reinsurance agreements covering property or casualty risks. 
+
+       (18) The board of
+directors of the association may exercise reasonable business judgment to
+determine the means by which the association is to provide the benefits under
+ORS 734.750 to 734.890 in an economical and efficient manner. 
+
+       (19) If the
+association has arranged or offered to provide the benefits of ORS 734.750 to
+734.890 to a covered person under a plan or arrangement that fulfills the
+association’s obligations under this section, the person is not entitled to
+benefits from the association in addition to or other than those provided under
+the plan or arrangement. 
+
+       (20) Venue in a
+suit against the association arising under ORS 734.750 to 734.890 shall be in
+the Circuit Court for Marion County. 
+
+       (21) In carrying
+out its duties in connection with guaranteeing, assuming or reinsuring policies
+or contracts under this section, the association may, subject to approval of
+the court, issue substitute coverage for a policy or contract that provides an
+interest rate, crediting rate or similar factor determined by use of an index
+or other external reference stated in the policy or contract for the purpose of
+calculating returns or changes in value by issuing an alternative policy or
+contract in accordance with all of the following provisions: 
+
+       (a) In lieu of
+the index or other external reference provided for in the original policy or
+contract, the alternative policy or contract provides for a fixed interest
+rate, payment of dividends with minimum guarantees, or a different method for
+calculating interest or changes in value. 
+
+       (b) There is no
+requirement for evidence of insurability, waiting period or other exclusion
+that would not have applied under the original policy or contract. 
+
+       (c) The
+alternative policy or contract is substantially similar to the original policy
+or contract in all other material terms. [1975 c.251 §9; 1991 c.811 §4; 2010
+c.26 §1; 2011 c.142 §5; 2019 c.13 §67] 
+
+   
+
+       734.815
+Assessment of members; classes of assessments; amounts; refunds. (1) For the purpose of providing
+the funds necessary to carry out the powers and duties of the Oregon Life and
+Health Insurance Guaranty Association, the board of directors shall assess the
+member insurers, separately for each account, at such time and for such amounts
+as the board finds necessary. The board shall collect the assessments after 30
+days’ written notice to the member insurers before payment is due. 
+
+       (2) There shall
+be two assessments, as follows: 
+
+       (a) Class A
+assessments shall be made for the purpose of meeting administrative and legal
+costs and other general expenses whether or not related to a particular
+impaired or insolvent insurer. 
+
+       (b) Class B
+assessments shall be made to the extent necessary to carry out the powers and
+duties of the association under ORS 734.810 with regard to an impaired or
+insolvent insurer. 
+
+       (3)(a) The amount
+of any class A assessment shall be determined by the board and may be made on a
+pro rata or other basis. If pro rata, the board may provide that the class A
+assessment be credited against future class B assessments. An assessment on another
+basis may not exceed $300 per member insurer in any one calendar year. The
+amount of any class B assessment shall be allocated for assessment purposes
+among the accounts in the proportion that the premiums received by the impaired
+or insolvent insurer on the policies covered by each account, for the last
+calendar year preceding the assessment in which the impaired or insolvent
+insurer received premiums, bears to the premiums received by such insurer for
+such calendar year on all covered policies. 
+
+       (b) Class B
+assessments for each account shall be in the proportion that the premiums
+received on business in this state by each assessed member insurer on policies
+covered by each account for the three most recent calendar years for which
+information is available preceding the year in which the insurer became
+impaired or insolvent, as the case may be, bears to such premiums received on
+business in this state for such calendar years by all assessed member insurers. 
+
+       (c) Assessments
+for funds to meet the requirements of the association with respect to an
+impaired or insolvent insurer may not be made until necessary to implement the
+purposes of ORS 734.750 to 734.890. Classification of assessments under
+subsection (2) of this section and computation of assessments under this
+subsection shall be made with a reasonable degree of accuracy, recognizing that
+exact determinations may not always be possible. 
+
+       (4) The
+association may abate or defer, in whole or in part, the assessment of a member
+insurer if, in the opinion of the board, payment of the assessment would
+endanger the ability of the member insurer to fulfill its contractual
+obligations. In the event an assessment against a member insurer is abated or
+deferred, in whole or in part, the amount by which such assessment is abated or
+deferred shall be assessed against the other member insurers. 
+
+       (5) A member
+insurer may not be required to pay assessments in any one calendar year
+exceeding two percent of the insurer’s premiums in this state on the policies
+covered by the account. If a member insurer’s total assessment cannot be
+collected in any one year because of this limitation, the remaining amount due
+shall be collected from the insurer in future years. 
+
+       (6) The board
+may, by an equitable method as established in the plan of operation, refund to
+member insurers, in proportion to the contribution of each insurer to that
+account, the amount by which the assets of the account exceed the amount the
+board finds is necessary to carry out during the coming year the obligations of
+the association with regard to that account, including assets accruing from
+assignment, subrogation, net realized gains and income from investments. A
+reasonable amount may be retained in any account to provide funds for the
+continuing expenses of the association and for future losses. 
+
+       (7) It shall be
+proper for any member insurer, in determining its premium rates and policyowner
+dividends for any kind of insurance within the scope of ORS 734.750 to 734.890,
+to consider the amount reasonably necessary to meet its assessment obligations
+under ORS 734.750 to 734.890. 
+
+       (8) The
+association shall issue to each insurer paying an assessment under ORS 734.750
+to 734.890, other than a class A assessment, a certificate of contribution in a
+form prescribed by the Director of the Department of Consumer and Business
+Services for the amount so paid. All outstanding certificates shall be of equal
+dignity and priority without reference to amounts or dates of issue. A
+certificate of contribution may be shown by the insurer in its financial
+statement as an asset in such form and for such amount, if any, and period of
+time as the director may approve. 
+
+       (9) The
+association may assess and collect interest on the amount of an assessment owed
+by a member insurer that fails to pay the assessment when due. The annual rate
+that may be charged under this subsection may not exceed the rate established
+by the director by rule. [1975 c.251 §10; 1991 c.811 §5; 2011 c.142 §6] 
+
+   
+
+       734.820 Plan
+of operation; submission of amendments to director; rules; contents of plan. (1)(a) The Oregon Life and Health
+Insurance Guaranty Association shall maintain on file with the Director of the
+Department of Consumer and Business Services a plan of operation and shall
+submit any amendments thereto necessary or suitable to ensure the fair,
+reasonable and equitable administration of the association. Amendments to the
+plan shall become effective upon approval in writing by the director. 
+
+       (b) If the
+association fails to submit suitable amendments to the plan, the director
+shall, after notice and hearing, adopt and promulgate such reasonable rules as
+are necessary or advisable to implement the provisions of ORS 734.750 to
+734.890. Such rules shall continue in force until modified by the director or
+superseded by amendments submitted by the association and approved by the
+director. 
+
+       (2) All member
+insurers shall comply with the plan of operation. 
+
+       (3) The plan of
+operation shall, in addition to requirements enumerated elsewhere in ORS
+734.750 to 734.890: 
+
+       (a) Establish
+procedures for handling the assets of the association. 
+
+       (b) Establish the
+amount and method of reimbursing members of the board of directors. 
+
+       (c) Establish
+regular places and times for meetings of the board of directors. 
+
+       (d) Establish
+procedures for records to be kept of all financial transactions of the
+association, its agents, and the board of directors. 
+
+       (e) Establish the
+procedures whereby selections for the board of directors will be made and
+submitted to the director. 
+
+       (f) Establish any
+additional procedures for assessments under ORS 734.815. 
+
+       (g) Contain
+additional provisions necessary or proper for the execution of the powers and
+duties of the association. 
+
+       (h) Establish
+procedures for removing a member of the board of directors for cause, including
+removing a board member who represents a member insurer when the member insurer
+becomes either an impaired or insolvent insurer. 
+
+       (i) Include a
+policy and procedures for addressing a conflict of interest. 
+
+       (4) The plan of
+operation may provide that any or all powers and duties of the association,
+except those under ORS 734.810 (15)(c) and 734.815, may be delegated to a
+corporation, association or other organization which performs or will perform
+functions similar to those of the association, or its equivalent, in two or
+more states. Such corporation, association or organization shall be reimbursed
+for any payments made on behalf of the association and shall be paid for its
+performance of any function of the association. A delegation under this
+subsection shall take effect only with the approval of both the board of
+directors and the director, and may be made only to a corporation, association
+or organization which extends protection not substantially less favorable and
+effective than that provided by ORS 734.750 to 734.890. [1975 c.251 §11; 1991
+c.811 §6; 2011 c.142 §7] 
+
+   
+
+       734.825 Powers
+and duties of director. 
+In addition to the duties and powers enumerated elsewhere in ORS 734.750 to
+734.820 and 734.830 to 734.890: 
+
+       (1) The Director
+of the Department of Consumer and Business Services shall: 
+
+       (a) Upon request
+of the board of directors, provide the Oregon Life and Health Insurance
+Guaranty Association with a statement of the premiums in the appropriate states
+for each member insurer. 
+
+       (b) When an
+impairment is declared and the amount of the impairment is determined, serve a
+demand upon the impaired insurer to make good the impairment within a
+reasonable time. Notice to the impaired insurer shall constitute notice to its
+shareholders, if any. The failure of the insurer to promptly comply with such
+demand shall not excuse the association from the performance of its powers and
+duties under ORS 734.750 to 734.890. 
+
+       (2) The director
+may suspend or revoke, after notice and hearing, the certificate of authority
+to transact insurance in this state of any member insurer which fails to pay an
+assessment when due or fails to comply with the plan of operation. As an alternative
+the director may levy a forfeiture on any member insurer which fails to pay an
+assessment when due. Such forfeiture shall not exceed five percent of the
+unpaid assessment per month, but no forfeiture shall be less than $100 per
+month. 
+
+       (3) Any action of
+the board of directors or the association may be appealed to the director by
+any member insurer if such appeal is taken within 30 days of the action being
+appealed. Any final action or order of the director shall be subject to
+judicial review in a court of competent jurisdiction. 
+
+       (4) The
+liquidator, rehabilitator or conservator of any impaired insurer may notify all
+interested persons of the effect of ORS 734.750 to 734.890. [1975 c.251 §12] 
+
+   
+
+       734.830
+Notifying director of impaired insurers; examination; reports on impaired
+insurers. To aid
+in the detection and prevention of insurer impairments and insolvencies: 
+
+       (1) The board of
+directors shall, upon majority vote, notify the Director of the Department of
+Consumer and Business Services of any information indicating any member insurer
+may be an impaired insurer or insolvent insurer. 
+
+       (2) The board of
+directors may, upon majority vote, request that the director order an
+examination of any member insurer which the board in good faith believes to be
+an impaired or insolvent insurer. The director may conduct such examination.
+The examination may be conducted as a National Association of Insurance
+Commissioners examination or may be conducted by such persons as the director
+designates. The cost of such examination shall be paid by the Oregon Life and
+Health Insurance Guaranty Association and the examination report shall be
+treated as are other examination reports in this state. In no event shall the
+examination report be released to the board of directors of the association
+prior to its release to the public, but this shall not excuse the director from
+the obligation to comply with subsection (3) of this section. The director
+shall notify the board of directors when the examination is completed. The
+request for an examination shall be kept on file by the director but it shall
+not be open to public inspection prior to the release of the examination report
+to the public and shall be released at that time only if the examination
+discloses that the examined insurer is an impaired insurer or insolvent
+insurer. 
+
+       (3) The director
+shall report to the board of directors when the director has reasonable cause
+to believe that any member insurer examined at the request of the board of
+directors may be an impaired insurer or insolvent insurer. 
+
+       (4) The board of
+directors may, upon majority vote, make reports and recommendations to the
+director upon any matter germane to the solvency, liquidation, rehabilitation
+or conservation of any member insurer. Such reports and recommendations shall
+not be considered public records. 
+
+       (5) The board of
+directors may, upon majority vote, make recommendations to the director for the
+detection and prevention of insurer impairments or insolvencies. 
+
+       (6) The board of
+directors shall, at the conclusion of any insurer impairment or insolvency in
+which the association carried out its duties under ORS 734.750 to 734.890 or
+exercised any of its powers under ORS 734.750 to 734.890, prepare a report on
+the history and causes of such impairment or insolvency, based on the
+information available to the association, and submit such report to the
+director. [1975 c.251 §13] 
+
+   
+
+       734.835
+Assessments offset against tax liabilities; rate. (1) A member insurer may offset
+against its corporate excise tax liabilities to this state an assessment
+described in ORS 734.815 (8), at the rate of 20 percent of the amount of such
+assessment for each of the five calendar years following the year in which such
+assessment was paid. In the event a member insurer should cease doing business,
+all uncredited assessments may be credited against its premium or corporate
+excise tax liabilities for the year it ceases doing business. 
+
+       (2) Any sums
+acquired by refund pursuant to ORS 734.815 (6) from the Oregon Life and Health
+Insurance Guaranty Association which have theretofore been written off by
+contributing insurers and offset against premium or corporate excise taxes as
+provided in subsection (1) of this section, and are not then needed for
+purposes of ORS 734.750 to 734.890, shall be paid by the association to the
+Director of the Department of Consumer and Business Services and deposited by
+the director with the State Treasurer for credit to the General Fund of this
+state. [1975 c.251 §14; 1995 c.786 §9] 
+
+   
+
+       Note: Section 50, chapter 913, Oregon
+Laws 2009, provides: 
+
+       Sec. 50. An offset is not allowed under ORS
+734.835 if the first tax year for which the credit would otherwise be allowed
+begins on or after January 1, 2028. [2009 c.913 §50; 2015 c.701 §13; 2021 c.525
+§16] 
+
+   
+
+       734.840
+Conduct of liquidation, rehabilitation or conservation proceeding involving
+impaired or insolvent insurer. 
+(1) Nothing in ORS 734.750 to 734.890 shall be construed to reduce the
+liability for unpaid assessments of the insureds on an impaired or insolvent
+insurer operating under a plan with assessment liability. 
+
+       (2) Records shall
+be kept of all negotiations and meetings in which the Oregon Life and Health
+Insurance Guaranty Association or its representatives are involved to discuss
+the activities of the association in carrying out its powers and duties under
+ORS 734.810. Records of such negotiations or meetings shall be made public only
+upon the termination of a liquidation, rehabilitation or conservation
+proceeding involving the impaired or insolvent insurer, upon the termination of
+the impairment or insolvency of the insurer, or upon the order of a court of
+competent jurisdiction. Nothing in this subsection shall limit the duty of the
+association to render a report of its activities under ORS 734.850. 
+
+       (3) For the
+purpose of carrying out its obligations under ORS 734.750 to 734.890, the
+association shall be considered to be a creditor of the impaired or insolvent
+insurer to the extent of assets attributable to covered policies reduced by any
+amounts to which the association is entitled as subrogee pursuant to ORS
+734.810 (10). All assets of the impaired or insolvent insurer attributable to
+covered policies shall be used to continue all covered policies and pay all
+contractual obligations of the impaired or insolvent insurer as required by ORS
+734.750 to 734.890. “Assets attributable to covered policies,” as used in this
+subsection, is that proportion of the assets which the reserves that should
+have been established for such policies bear to the reserves that should have
+been established for all policies of insurance written by the impaired or
+insolvent insurer. 
+
+       (4) As a creditor
+of the impaired or insolvent insurer as established in subsection (3) of this
+section and consistent with the provisions of ORS 731.648, the association and
+other similar associations shall be entitled to receive a disbursement of assets
+out of the marshaled assets, from time to time as the assets become available
+to reimburse it, as a credit against the contractual obligations of the
+association as set forth in ORS 734.810. If the liquidator has not, within 120
+days of a final determination of insolvency of an insurer by the court, made an
+application to the court for the approval of a proposal to disburse assets out
+of marshaled assets to guaranty associations having obligations because of the
+insolvency, then the association may apply to the court for approval of the
+association’s own proposal to disburse those assets. 
+
+       (5)(a) Prior to
+the termination of any liquidation, rehabilitation or conservation proceeding,
+the court may take into consideration the contributions of the respective
+parties, including the association, the shareholders and policyholders of the
+insolvent insurer and any other party with a bona fide interest, in making an
+equitable distribution of the ownership rights of such insolvent insurer. In
+such a determination, consideration shall be given to the welfare of the
+policyholders of the continuing or successor insurer. 
+
+       (b) No
+distribution to stockholders, if any, of an impaired or insolvent insurer shall
+be made until and unless the total amount of valid claims of the association
+for funds expended in carrying out its powers and duties under ORS 734.810 with
+respect to such insurer have been fully recovered by the association. 
+
+       (6)(a) If an
+order for liquidation or rehabilitation of an insurer domiciled in this state
+has been entered, the receiver appointed under such order shall have a right to
+recover on behalf of the insurer, from any affiliate that controlled it, the
+amount of distributions, other than stock dividends paid by the insurer on its
+capital stock, made at any time during the five years preceding the petition
+for liquidation or rehabilitation, subject to the limitations of paragraphs
+(b), (c) and (d) of this subsection. 
+
+       (b) No such
+dividend shall be recoverable if the insurer shows that, when paid, the
+distribution was lawful and reasonable, and that the insurer did not know and
+could not reasonably have known that the distribution might adversely affect
+the ability of the insurer to fulfill its contractual obligations. 
+
+       (c) Any person
+who was an affiliate that controlled the insurer at the time the distributions
+were paid shall be liable up to the amount of distributions the person
+received. Any person who was an affiliate that controlled the insurer at the
+time the distributions were declared shall be liable up to the amount of
+distributions the person would have received if they had been paid immediately.
+If two persons are liable with respect to the same distributions, they shall be
+jointly and severally liable. 
+
+       (d) The maximum
+amount recoverable under this subsection shall be the amount needed in excess
+of all other available assets of the insolvent insurer to pay the contractual
+obligations of the insolvent insurer. 
+
+       (e) If any person
+liable under paragraph (c) of this subsection is insolvent, all its affiliates
+that controlled it at the time the dividend was paid shall be jointly and
+severally liable for any resulting deficiency in the amount recovered from the
+insolvent affiliate. [1975 c.251 §15; 1991 c.811 §7; 2011 c.142 §8] 
+
+   
+
+       734.850
+Examination and regulation of association by director; required reports. The Oregon Life and Health
+Insurance Guaranty Association shall be subject to examination and regulation
+by the Director of the Department of Consumer and Business Services. The board
+of directors shall submit to the director, not later than May 1 of each year, a
+financial report for the preceding calendar year in a form approved by the
+director, and a report of its activities during the preceding calendar year. [1975
+c.251 §16] 
+
+   
+
+       734.860
+Exemption of association from payment of fees and taxes. The Oregon Life and Health
+Insurance Guaranty Association shall be exempted from payment of all fees and
+all taxes levied by this state or any of its political subdivisions, except
+taxes levied on real property. [1975 c.251 §17] 
+
+   
+
+       734.870
+Immunity from legal action. 
+There shall be no liability on the part of, and no cause of action of any
+nature shall arise against, any member insurer or its agents or employees, the
+Oregon Life and Health Insurance Guaranty Association or its agents or
+employees, members of the board of directors, or the Director of the Department
+of Consumer and Business Services or the representatives of the director, for
+any action taken by them in the performance of their powers and duties under
+ORS 734.750 to 734.890. The immunity provided under this section shall extend
+to the participation in any organization of one or more other state
+associations of similar purposes and to any such organization and its agents or
+employees. [1975 c.251 §18; 2011 c.142 §9] 
+
+   
+
+       734.880 Stay
+of proceeding involving insolvent insurer. All proceedings in which an insolvent insurer is a
+party in any court in this state shall be stayed 180 days from the date an
+order of liquidation, rehabilitation or conservation is final to permit proper
+legal action by the Oregon Life and Health Insurance Guaranty Association on
+any matters germane to its powers or duties. As to judgment under any decision,
+order, verdict or finding based on default the association may apply to have
+such judgment set aside by the same court that made the judgment, and shall be
+permitted to defend against such suit on the merits. [1975 c.251 §19; 2011
+c.142 §10] 
+
+   
+
+       734.890
+Association not to be used in sales or solicitation. No insurer or insurance producer
+shall make, publish, disseminate, circulate or place before the public, or
+cause directly or indirectly, to be made, published, disseminated, circulated
+or placed before the public, in any newspaper, magazine or other publication,
+or in the form of a notice, circular, pamphlet, letter or poster, or over any
+radio station or television station, or in any other way, any advertisement,
+announcement or statement which uses the existence of the Oregon Life and
+Health Insurance Guaranty Association for the purpose of sales, solicitation or
+inducement to purchase any form of insurance covered by the Oregon Life and
+Health Insurance Guaranty Association Act. This section shall not apply however
+to the Oregon Life and Health Insurance Guaranty Association or any other
+entity which does not sell or solicit insurance or to public service
+institutional advertisements by individual insurers. [1975 c.251 §20; 2003
+c.364 §87] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

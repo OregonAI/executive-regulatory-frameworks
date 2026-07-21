@@ -1,0 +1,56 @@
+---
+id: ors-646a.288
+title: "Presumptions in cause of action brought under ORS"
+doc_type: statute
+citation: "ORS 646A.288"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html"
+source_format: html
+retrieved: "2026-07-20"
+source_sha256: "e03797ae216222297ca5d652736966de2a9202c84d3a898db2b6a03279bce322"
+snapshot_id: ors-chapter-646a
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-20"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-646a"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
+
+# Presumptions in cause of action brought under ORS (ORS 646A.288)
+
+## At a glance
+
+ORS 646A.288 — Presumptions in cause of action brought under ORS. Chapter 646A (Chapter 646A), 2025 Edition.
+
+## Full text
+
+646A.288 Presumptions in cause of action brought under ORS 646A.284 or 646A.286. In any action brought under ORS 646A.284 or 646A.286, the following presumptions apply:
+
+(1) A simulated invoice that has been paid by five or more persons could be mistaken for an invoice by a reasonable recipient.
+
+(2) A person knows that a simulated invoice uttered simultaneously with a copy of a publication or portion of a publication previously ordered by the recipient from a person other than the person uttering the simulated invoice could be mistaken for an invoice by a reasonable recipient. [Formerly 646.300] 
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> · retrieved 2026-07-20 · sha256 `e03797ae216222297ca5d652736966de2a9202c84d3a898db2b6a03279bce322`
+  (chapter snapshot `_meta/snapshots/ors-chapter-646a.html`)
+- See [CHANGELOG](./CHANGELOG.md).

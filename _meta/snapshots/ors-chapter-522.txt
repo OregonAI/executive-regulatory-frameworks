@@ -1,0 +1,1963 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+522 — Geothermal Resources 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ GEOTHERMAL RESOURCES 
+
+   
+
+ MINERAL RESOURCES 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 522.005     Definitions 
+
+   
+
+ 522.015     Policy 
+
+   
+
+ 522.019     Injection of geothermal
+fluids; rules; water quality permit 
+
+   
+
+ 522.025     Application 
+
+   
+
+ 522.035     Ownership rights 
+
+   
+
+ 522.045     Decommissioned well;
+jurisdiction 
+
+   
+
+ PROSPECT WELLS 
+
+   
+
+ 522.055     Permit; application;
+fees 
+
+   
+
+ 522.065     Circulation of
+application to state agencies; suggested conditions to permit; time limit for
+permit action 
+
+   
+
+ 522.075     Bond or security;
+conditions; cancellation 
+
+   
+
+ 522.080     Operator liability 
+
+   
+
+ 522.085     Report certifying
+completion of decommissioning plan 
+
+   
+
+ GEOTHERMAL WELLS 
+
+   
+
+ 522.115     Permit; application;
+fees 
+
+   
+
+ 522.125     Circulation of
+application to state agencies; suggested conditions to permit 
+
+   
+
+ 522.135     Permit; time limit for
+action; grounds for issuance; conditions; fees 
+
+   
+
+ 522.145     Bond or security;
+conditions; cancellation 
+
+   
+
+ 522.155     Liability for failure
+to protect ground water and surface water; rules 
+
+   
+
+ 522.165     Request for permit
+modification; fee 
+
+   
+
+ 522.175     Plugging and
+decommissioning; rules 
+
+   
+
+ 522.195     Monthly production
+statement; rules 
+
+   
+
+ 522.205     Notice by prospective
+operator of transfer or purchase of well; application; fee; notice by buyer of
+land of transfer or purchase; rules 
+
+   
+
+ 522.215     Suspension of drilling
+or operation; application; terms; extension; presumption of abandonment;
+unlawful abandonment; notice; proceedings against operator 
+
+   
+
+ 522.225     Notice of intent to
+plug and decommission 
+
+   
+
+ 522.245     Department approval of
+plugging and decommissioning; report by operator; effect of failure to comply;
+proceedings against operator 
+
+   
+
+ 522.255     Resolution of conflicts
+between geothermal and water uses 
+
+   
+
+ ADMINISTRATION 
+
+   
+
+ 522.275     Administration by State
+Geologist 
+
+   
+
+ 522.305     Rules 
+
+   
+
+ 522.315     Final order of
+department; delivery to operator 
+
+   
+
+ 522.325     Compliance with final
+order; appeal 
+
+   
+
+ WELL RECORDS 
+
+   
+
+ 522.355     Records of well;
+contents; drill cutting and core samples 
+
+   
+
+ 522.365     Filing record with
+department; exemption from disclosure 
+
+   
+
+ UNITIZATION OF GEOTHERMAL RESOURCE
+AREA 
+
+   
+
+ 522.405     Unitization;
+development of unit agreement; rules 
+
+   
+
+ 522.415     Unit operation plan 
+
+   
+
+ 522.425     Provisions in rule or
+order requiring unit operation 
+
+   
+
+ 522.435     Rule, order to
+supersede previous board action 
+
+   
+
+ 522.445     Condition to
+effectiveness of unitization plan and unit agreement 
+
+   
+
+ 522.455     Rehearing on rule or
+order; judicial review 
+
+   
+
+ 522.465     Appointment of unit
+operator 
+
+   
+
+ 522.475     Board review of
+disputes over unit operation; appeal 
+
+   
+
+ 522.485     Amendment of
+unitization plan 
+
+   
+
+ 522.495     Presumptions regarding
+conduct of operation 
+
+   
+
+ 522.505     Unauthorized operation
+in unit area prohibited; exemption 
+
+   
+
+ 522.515     When agreement or plan
+held not to violate state securities or trade law 
+
+   
+
+ 522.525     Land subject to board
+authority; federal lands 
+
+   
+
+ 522.535     Fees; rules 
+
+   
+
+ 522.545     Rulemaking authority 
+
+   
+
+ ENFORCEMENT 
+
+   
+
+ 522.810     Suits to enjoin
+violations 
+
+   
+
+ 522.815     Rules by board; scope;
+adoption; notice 
+
+   
+
+ PROHIBITED ACTS 
+
+   
+
+ 522.910     Aiding in violations
+prohibited 
+
+   
+
+ 522.915     False entries,
+omissions, destruction or removal of records or reports 
+
+   
+
+ PENALTIES 
+
+   
+
+ 522.990     Penalties 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       522.005
+Definitions. As
+used in this chapter, unless the context requires otherwise: 
+
+       (1) “Board” means
+the governing board of the State Department of Geology and Mineral Industries. 
+
+       (2) “By-product”
+means any mineral or minerals, exclusive of helium or of oil, hydrocarbon gas
+or other hydrocarbon substances, that are found in solution or in association
+with geothermal resources and that have a value of less than 75 percent of the
+value of the geothermal resource or are not, because of quantity, quality, or
+technical difficulties in extraction and production, of sufficient value to
+warrant extraction and production by themselves. 
+
+       (3) “Completed
+geothermal well” means a well producing geothermal resources for which the
+operator has received the department’s written assurance that the manner of
+drilling of and producing geothermal resources from the well are satisfactory. 
+
+       (4) “Cooperative
+agreement” means an agreement or plan of development and operation for the
+production or utilization of geothermal resources in which separate ownership
+units independently operate without allocation of production. 
+
+       (5) “Correlative
+rights” means the right of each owner in a geothermal area to obtain that owner’s
+just and equitable share of the underlying geothermal resource, or an economic
+equivalent of that share of the resource, produced in a manner and in an amount
+that does not injure the reservoir to the detriment of others. 
+
+       (6) “Department”
+means the State Department of Geology and Mineral Industries. 
+
+       (7) “Drilling”
+includes drilling, redrilling and deepening of a geothermal well. 
+
+       (8) “Enhanced
+recovery” means the increased recovery from a reservoir achieved by artificial
+means or by the application of energy extrinsic to the reservoir. The
+artificial means include, but are not limited to, reinjection of hot brine,
+fluid or water into a reservoir. 
+
+       (9) “Geothermal
+area” means any parcel of land that is, or reasonably appears to be, underlaid
+by geothermal resources. 
+
+       (10) “Geothermal
+reinjection well” means any well or converted well constructed to dispose of
+geothermal fluids derived from geothermal resources into an underground
+reservoir. 
+
+       (11) “Geothermal
+resources” means the natural heat of the earth, the energy, in whatever form,
+below the surface of the earth present in, resulting from, or created by, or
+that may be extracted from, the natural heat, and all minerals in solution or
+other products obtained from naturally heated fluids, brines, associated gases,
+and steam, in whatever form, found below the surface of the earth, exclusive of
+helium or of oil, hydrocarbon gas or other hydrocarbon substances, but
+including, specifically: 
+
+       (a) All products
+of geothermal processes, including indigenous steam, hot water and hot brines; 
+
+       (b) Steam and
+other gases, hot water and hot brines resulting from water, gas, or other
+fluids artificially introduced into geothermal formations; 
+
+       (c) Heat or other
+associated energy found in geothermal formations; and 
+
+       (d) Any
+by-product derived from them. 
+
+       (12) “Geothermal
+well” includes any excavation made for producing geothermal resources and any
+geothermal reinjection well. 
+
+       (13) “Land” means
+both surface and mineral rights. 
+
+       (14) “Operator”
+means the person: 
+
+       (a) Who possesses
+the legal right to drill a geothermal well; 
+
+       (b) Who has
+obtained a drilling permit pursuant to ORS 522.135; or 
+
+       (c) Who possesses
+the legal right to operate a completed geothermal well or who has been granted
+the authority to operate the well by that person. 
+
+       (15) “Prospect
+well” includes any well drilled as a geophysical test well, seismic shot hole,
+mineral exploration drilling, core drilling or temperature gradient test well
+and drilled in prospecting for geothermal resources. “Prospect well” does not
+include a geothermal well. 
+
+       (16) “Reservoir”
+means an aquifer or combination of aquifers or zones containing a common
+geothermal or ground water resource. “Reservoir” includes, but is not limited
+to, a hot dry rock conductive system. 
+
+       (17) “Royalty
+interest” means a right or interest in geothermal resources produced from land
+or in the proceeds of the first sale of those resources. 
+
+       (18) “Unit
+agreement” means an agreement or plan of development and operation developed
+under the provisions of ORS 273.775, 308A.050 to 308A.128, 522.015, 522.405 to
+522.545, 522.815 and 522.990 and this section for the production or use of
+geothermal resources in separately owned interests as a single consolidated
+unit and that provides for the allocation of costs and benefits. 
+
+       (19) “Unit area”
+means the area described in a unit agreement that constitutes the land subject
+to development under the agreement. 
+
+       (20) “Unit
+operator” means the person designated in the unit agreement to manage and
+conduct the operation involving unitized land. 
+
+       (21) “Unit
+production” means all geothermal resources produced from a unit area from the
+effective date of a unit agreement approved by the board under ORS 522.405. 
+
+       (22) “Waste”
+means: 
+
+       (a) Any physical
+waste, including, but not limited to, underground waste resulting from the
+inefficient, excessive or improper use or dissipation of reservoir energy or
+resulting from the location, spacing, drilling, equipping, operation or
+production of a geothermal resource well in such a manner that reduces or tends
+to reduce the ultimate economic recovery of the geothermal resources within a
+reservoir; and 
+
+       (b) Surface waste
+resulting from the inefficient storage of geothermal resources and the
+location, spacing, drilling, equipping, operation or production of a geothermal
+resource well in such a manner that causes or tends to cause the unnecessary or
+excessive surface loss or destruction of geothermal resources released from a
+reservoir. 
+
+       (23) “Working
+interest” means an interest in geothermal resources or in land containing
+geothermal resources that is held under a lease, operating agreement, fee title
+or otherwise and under which, except as otherwise provided in a unit or
+cooperative agreement, the owner of the interest has the right to explore for,
+develop, produce or utilize the resources. “Working interest” does not include
+a right delegated to a unit operator as such by a unit agreement. [1975 c.552 §3;
+1979 c.163 §1; 1981 c.588 §3; 1981 c.694 §4; 1999 c.314 §74; 2005 c.22 §375;
+2009 c.794 §1] 
+
+   
+
+       522.010 [1971 c.776 §2; 1973 c.388 §1;
+repealed by 1975 c.552 §55] 
+
+   
+
+       522.015
+Policy. (1) The
+Legislative Assembly hereby finds and declares that: 
+
+       (a) The people of
+the State of Oregon have a direct and primary interest in the development of
+geothermal resources situated in this state. 
+
+       (b) The State of
+Oregon, through the State Department of Geology and Mineral Industries, shall
+control the drilling, redrilling and deepening of wells for the discovery and
+production of geothermal resources so that such wells will be constructed,
+operated, maintained, plugged and decommissioned in the manner necessary to
+safeguard the life, health, property and welfare of the people of this state,
+to safeguard the air, water and other natural resources of this state, and to
+encourage the maximum economic recovery of geothermal resources therefrom. 
+
+       (2) It is the
+policy of the Legislative Assembly that this chapter be administered: 
+
+       (a) To prevent
+damage to and waste of geothermal resources; 
+
+       (b) To prevent
+interference with or damage to waters used or to be used for beneficial
+purposes that may result from improper drilling, operation, maintenance,
+plugging or decommissioning of geothermal or prospect wells; 
+
+       (c) To supervise
+the drilling, operation, maintenance, plugging and decommissioning of
+geothermal or prospect wells in a manner permitting the operator to utilize all
+methods known to the industry for the purpose of increasing the ultimate
+economic recovery of geothermal resources, that are suitable, and consistent
+with protection of the air, water and other natural resources of the state; and 
+
+       (d) To provide
+for the development, management and production of geothermal resources in a
+manner that minimizes state involvement, enhances resource recovery, prevents
+waste, maximizes economic development and protects correlative rights of the
+resource owners. [Formerly 522.050; 1981 c.588 §4; 2009 c.794 §2] 
+
+   
+
+       522.019
+Injection of geothermal fluids; rules; water quality permit. (1)(a) In order to accomplish the
+policy of ORS 522.015 all geothermal fluids derived from geothermal resources
+shall be reinjected into the same reservoir from which withdrawn unless it is
+determined by the State Department of Geology and Mineral Industries that these
+policies and the public interest require other disposal of the fluids. 
+
+       (b) Subject to
+the determination in paragraph (a) of this subsection, injection into other
+reservoirs or disposal by other means may be allowed by the department in
+specific instances where it is shown that such action is consistent with the
+policies cited in this section. Disposal by other means may include any
+secondary use of geothermal fluid after the primary use of such fluid for
+electrical power generation or for other direct application of the heat or
+other associated energy contained in such fluids or for by-product extraction.
+Secondary uses may include, but shall not be limited to, use of condensate
+resulting from electrical power plant operations for plant-cooling purposes, or
+use of such geothermal fluid for agricultural, commercial or industrial
+purposes. 
+
+       (2) The State
+Department of Geology and Mineral Industries shall adopt rules governing the
+disposal by reinjection or other means of geothermal fluids derived from
+geothermal resources from wells of 250 or more degrees Fahrenheit bottom hole
+temperature or wells 2,000 or more feet deep. The rules shall include standards
+whereby contamination may be determined, construction standards for reinjection
+wells, testing procedures for identifying aquifers, standards and procedures
+for determining whether adjacent aquifers are being degraded by the reinjection
+process, guidelines for conservation of the resource, criteria for evaluating
+reservoirs or zones for geothermal fluid disposal and requirements for prior
+approval of all geothermal fluid reinjection proposals. 
+
+       (3) In addition
+to the permit required by ORS 522.115, an operator of a geothermal well must
+obtain a water quality permit from the Department of Environmental Quality
+under ORS 468B.050 or under rules authorized by ORS 468B.195 before injection
+of any fluid, except well drilling fluids. Nothing in this chapter limits the
+authority of the Department of Environmental Quality to regulate the subsurface
+injection of fluids pursuant to ORS 468B.195 and 468B.197. [1979 c.163 §4; 1979
+c.547 §1; 2009 c.794 §3; 2023 c.258 §2] 
+
+   
+
+       522.020 [1971 c.776 §32; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.025
+Application. (1)
+The provisions of this chapter relating to the location and drilling of any
+well for the production of geothermal resources do not apply to any wells
+producing geothermal resources on July 1, 1975, or wells, other than prospect
+wells, where: 
+
+       (a) The
+geothermal fluids produced are of less than 250 degrees Fahrenheit bottom hole
+temperature; or 
+
+       (b) Such fluids
+have been appropriated pursuant to ORS 537.505 to 537.795 and 537.992. 
+
+       (2) The
+provisions of this chapter relating to regulation of production of geothermal
+resources from a geothermal reservoir apply only to wells with a bottom hole
+temperature of at least 250 degrees Fahrenheit. 
+
+       (3) If the bottom
+hole temperature of a well that was initially at least 250 degrees Fahrenheit
+falls below 250 degrees Fahrenheit, the State Geologist and the Water Resources
+Director, after consulting with the well owner, shall determine the agency with
+regulatory responsibility for that specific well. This determination shall be
+documented in writing and shall supersede a determination made under subsection
+(1) or (2) of this section. This chapter does not limit the authority of the
+Water Resources Department to regulate the appropriation of water pursuant to
+ORS 537.505 to 537.795 and 537.992. [1975 c.552 §4; 1981 c.589 §1; 2009 c.794 §4] 
+
+   
+
+       522.035
+Ownership rights. 
+Ownership rights to geothermal resources shall be in the owner of the surface
+property underlain by the geothermal resources unless such rights have been
+otherwise reserved or conveyed. However, nothing in this section shall divest
+the people or the state of any rights, title or interest they may have in
+geothermal resources. [1975 c.552 §21] 
+
+   
+
+       522.045
+Decommissioned well; jurisdiction. 
+Any well drilled under authority of this chapter from which usable geothermal
+resources cannot be derived, or the owner or operator has no intention of
+deriving usable geothermal resources, and that is not expected to provide
+information useful to the development of geothermal resources shall be plugged
+and decommissioned as provided in this chapter or, upon the operator’s written
+application to the State Department of Geology and Mineral Industries and with
+the concurrence and approval of the Water Resources Director, jurisdiction over
+the well may be transferred to the Water Resources Director and, in such case,
+the well shall no longer be subject to the provisions of this chapter but shall
+be subject to any applicable laws and rules relating to wells drilled for
+appropriation and use of ground waters. If an application is made to transfer
+jurisdiction, a copy of all logs, records, histories and descriptions shall be
+provided to the Water Resources Director by the applicant. [1975 c.552 §4e;
+2009 c.794 §5] 
+
+   
+
+       522.050 [1971 c.776 §1; 1975 c.552 §1;
+renumbered 522.015] 
+
+   
+
+ PROSPECT WELLS 
+
+   
+
+       522.055
+Permit; application; fees. 
+(1) A person may not engage in drilling a prospect well except in compliance
+with a permit issued by the State Department of Geology and Mineral Industries
+under this section. 
+
+       (2) An
+application for a permit to drill prospect wells must include: 
+
+       (a) A plugging
+and decommissioning plan; 
+
+       (b) Such other
+information as the department by rule may require to assess the impacts of the
+proposed prospect well; and 
+
+       (c) A
+nonrefundable fee as determined by the department based on the estimated cost
+of review of the proposed prospect wells, not to exceed $5,000 per application
+or permit modification. 
+
+       (3) Each
+application may include up to five prospect wells per project area. The project
+area must be contiguous and include no more than 640 acres. 
+
+       (4) A permit to
+drill remains valid until it is revoked or modified by the department based on
+new information or changed conditions. 
+
+       (5) The permittee
+shall pay the department an annual nonrefundable renewal fee of $4,000 on or
+before the anniversary of each active permit. 
+
+       (6) A permittee
+that requests to transfer a permit issued under this section shall pay a
+nonrefundable fee of $5,000 at the time of the request. 
+
+       (7) All moneys
+received by the department under this section shall be paid into the State
+Treasury and deposited in the General Fund to the credit of the Geology and
+Mineral Industries Account established by ORS 516.070. [1975 c.552 §4a; 1991
+c.526 §2; 2009 c.794 §6; 2020 s.s.2 c.4 §8; 2025 c.601 §6] 
+
+   
+
+       522.060 [1971 c.776 §34; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.065 Circulation
+of application to state agencies; suggested conditions to permit; time limit
+for permit action. 
+(1) Upon receipt of a complete application to drill prospect wells, the State
+Department of Geology and Mineral Industries shall circulate copies of the
+application to the Water Resources Department, the Department of Environmental
+Quality, the Department of Land Conservation and Development and the Department
+of State Lands. The State Department of Geology and Mineral Industries may
+circulate copies to other public agencies that may have an interest in the
+permit application. 
+
+       (2) Any public
+agency receiving a copy of the application as provided in subsection (1) of
+this section may suggest conditions under which a permit should be granted. A
+public agency shall submit any suggested conditions to the State Department of
+Geology and Mineral Industries within 45 days of the public agency’s receipt of
+the copy of the application. The department shall consider any suggested
+conditions that a public agency submits to the department within the 45-day
+period. 
+
+       (3) A permit
+issued under this section is subject to such conditions as the department may
+impose. Included among the conditions shall be provision for the proper and
+safe plugging and decommissioning of each prospect well. Subject to ORS
+522.075, the department shall issue or deny the permit by a written order
+within 60 days after receipt of a complete application unless the department
+determines that a longer period is necessary to respond to comments or new
+information or for other good cause. [1975 c.552 §4b; 2009 c.794 §7] 
+
+   
+
+       522.070 [1971 c.776 §7; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.075 Bond
+or security; conditions; cancellation. 
+(1)(a) The State Department of Geology and Mineral Industries may not issue a
+permit for a prospect well until the applicant has provided a bond or
+alternative form of financial security as specified in rules adopted by the
+governing board of the State Department of Geology and Mineral Industries. 
+
+       (b) The amount of
+the bond or alternative form of financial security may not be less than $10,000
+for each prospect well or not less than $50,000 for all prospect wells to be
+drilled. 
+
+       (2) The bond or
+alternative form of financial security must be conditioned upon compliance with
+the requirements of this chapter and rules adopted and orders issued pursuant
+to this chapter and must secure the state against all losses, charges and
+expenses, including court costs and attorney fees, incurred by the state in
+obtaining such compliance. 
+
+       (3) With the
+consent of the department, any bond or acceptable alternative form of financial
+security submitted pursuant to this section may be terminated or canceled.
+However, the department may not consent to the termination or cancellation of
+any bond or security until each prospect well covered by such bond or security
+has been properly and safely plugged and decommissioned pursuant to the plan
+required by the permit or until another bond or security for each well has been
+submitted and approved by the department. [1975 c.552 §4c; 1977 c.87 §1; 1979
+c.163 §2; 1995 c.146 §1; 2009 c.794 §9] 
+
+   
+
+       522.080
+Operator liability. 
+In addition to any other liability imposed by law, the operator of a prospect
+well shall be liable to any person or public agency that sustains damages from
+failure of the operator to comply with: 
+
+       (1) A condition
+in a permit requiring the operator to provide for the protection of ground
+water in the area affected by the well; or 
+
+       (2) Any rules of
+the governing board of the State Department of Geology and Mineral Industries
+establishing standards for blowout prevention, equipment and casing design and
+removal, and any other procedures necessary to shut out detrimental substances
+from strata containing ground or surface water usable for beneficial purposes. [2009
+c.794 §8] 
+
+   
+
+       522.085 Report
+certifying completion of decommissioning plan. Upon completion of all drilling
+and testing undertaken pursuant to an application to drill prospect wells, the
+applicant shall file with the State Department of Geology and Mineral
+Industries a report certifying the completion of the plugging and decommissioning
+plan required by the permit. [1975 c.552 §4d; 2009 c.794 §10] 
+
+   
+
+       522.110 [1971 c.776 §11; 1973 c.388 §2;
+repealed by 1975 c.552 §55] 
+
+   
+
+ GEOTHERMAL WELLS 
+
+   
+
+       522.115
+Permit; application; fees. 
+(1) A person may not engage in the drilling or operating of any geothermal well
+except in compliance with a permit issued by the State Department of Geology
+and Mineral Industries under this section. 
+
+       (2) An
+application for a permit to drill or operate a geothermal well must include: 
+
+       (a) The location
+and elevation of the floor of the proposed derrick. 
+
+       (b) The number or
+other designation approved by the department by which the well shall be known. 
+
+       (c) The applicant’s
+estimate of the depths to be drilled. 
+
+       (d) The nature
+and character of the geothermal resource sought. 
+
+       (e) A reclamation
+plan for the well pad. 
+
+       (f) Such other
+information as the department by rule may require to assess the impact of the
+proposed geothermal well. 
+
+       (g) A
+nonrefundable fee of $5,000. 
+
+       (3) The permittee
+shall pay an annual nonrefundable renewal fee of $4,000 on or before the
+anniversary of each active permit. 
+
+       (4) A request by
+a permittee to modify a permit shall be accompanied by a nonrefundable fee not
+to exceed $5,000. 
+
+       (5) A request by
+a permittee to transfer a permit issued under this section must be accompanied
+by a nonrefundable fee of $5,000. 
+
+       (6) All moneys
+received by the department under this section shall be paid into the State
+Treasury and deposited in the General Fund to the credit of the Geology and
+Mineral Industries Account established by ORS 516.070. [1975 c.552 §5; 1977
+c.87 §2; 1991 c.526 §3; 2009 c.794 §11; 2020 s.s.2 c.4 §9; 2025 c.601 §7] 
+
+   
+
+       522.120 [1971 c.776 §§12,13; 1973 c.388 §3;
+repealed by 1975 c.552 §55] 
+
+   
+
+       522.125
+Circulation of application to state agencies; suggested conditions to permit. (1) Upon receipt of a complete
+application for a permit to drill or operate a geothermal well, the State
+Department of Geology and Mineral Industries shall circulate copies of the
+application to the Water Resources Department, the State Department of Fish and
+Wildlife, the Department of Environmental Quality, the State Parks and
+Recreation Department, the Department of Land Conservation and Development, the
+State Department of Energy, the Department of State Lands and the governing
+body of the county and the geothermal heating district in which the well will
+be located. The State Department of Geology and Mineral Industries may
+circulate copies to other public agencies that have an interest in the
+application. 
+
+       (2) Any public
+agency receiving a copy of the application as provided in subsection (1) of
+this section may suggest conditions under which a permit should be granted. A
+public agency shall submit any suggested conditions to the State Department of
+Geology and Mineral Industries within 45 days of the public agency’s receipt of
+the copy of the application. The department shall consider any suggested
+conditions that a public agency submits to the department within the 45-day
+period. [1975 c.552 §6; 1981 c.694 §5; 1989 c.904 §66; 2009 c.794 §12] 
+
+   
+
+       522.130 [1971 c.776 §14; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.135
+Permit; time limit for action; grounds for issuance; conditions; fees. (1) Within 60 days after receipt
+of a complete application for a permit to drill or operate a geothermal well,
+the State Department of Geology and Mineral Industries shall by order issue or
+deny the permit unless the department determines that a longer period is
+necessary to respond to comments or new information or for other good cause. 
+
+       (2) Except as
+provided in ORS 522.145, the department shall issue the permit if, after
+receipt of comments from the agencies referred to in ORS 522.125, the
+department determines that issuance of the permit would be consistent with the
+provisions of this chapter and ORS chapters 468A, 468B and 537, any rule
+adopted under this chapter by the governing board of the department, any rule
+adopted by the Water Resources Commission under ORS chapter 537 and any rule
+adopted under ORS chapter 468 or 468B by the Environmental Quality Commission. 
+
+       (3) If the
+department issues a permit pursuant to this section, the department shall
+impose such conditions as the department considers necessary to carry out the
+provisions of this chapter and ORS chapters 468A, 468B and 537, any rule
+adopted under this chapter by the governing board of the department, any rule
+adopted by the Water Resources Commission under ORS chapter 537 and any rule
+adopted under ORS chapter 468 or 468B by the Environmental Quality Commission.
+The department shall include in the permit a statement that issuance of the
+permit does not relieve any person from any obligation to comply with ORS
+468B.035, 468B.050, 468B.195, 537.090 or 537.535 or any other applicable state
+or federal environmental laws. 
+
+       (4) The State
+Geologist shall incorporate into the permit requirements: 
+
+       (a) Any
+conditions made by the Water Resources Director necessary to comply with the
+purposes set forth in ORS 537.525; and 
+
+       (b) Any
+conditions made by the Department of Environmental Quality necessary to comply
+with the purposes set forth in ORS 468A.010 and 468B.015. [1975 c.552 §7; 1981
+c.694 §6; 1991 c.526 §4; 2009 c.794 §13; 2020 s.s.2 c.4 §10] 
+
+   
+
+       522.140 [1971 c.776 §6; 1973 c.388 §4;
+repealed by 1975 c.552 §55] 
+
+   
+
+       522.145 Bond
+or security; conditions; cancellation. 
+(1)(a) The State Department of Geology and Mineral Industries may not issue a
+permit for a geothermal well until the applicant has provided a bond or
+alternative form of financial security as specified in rules adopted by the
+governing board of the State Department of Geology and Mineral Industries. 
+
+       (b) The amount of
+the bond or alternative form of financial security may not be less than $25,000
+for each well or not less than $150,000 for all wells to be drilled. 
+
+       (2) The bond or
+alternative form of financial security must be conditioned upon compliance with
+the requirements of this chapter and rules adopted and orders issued pursuant
+to this chapter and must secure the state against all losses, charges and
+expenses, including court costs and attorney fees, incurred by the state in
+obtaining such compliance. 
+
+       (3) With the
+consent of the department, any bond or acceptable alternative form of financial
+security submitted pursuant to this section may be terminated or canceled.
+However, the department may not consent to the termination or cancellation of
+any bond or security until each geothermal well covered by such bond or
+security has been properly and safely plugged and decommissioned pursuant to
+the plan required by the permit or until another bond or security for each well
+has been submitted and approved by the department. [1975 c.552 §8; 1977 c.87 §3;
+1981 c.694 §7; 1995 c.146 §2; 2009 c.794 §14] 
+
+   
+
+       522.150 [1971 c.776 §8; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.155
+Liability for failure to protect ground water and surface water; rules. In addition to any other liability
+imposed by law, the operator of a geothermal well shall be liable to any person
+or public agency that sustains damages from failure of the operator to comply
+with: 
+
+       (1) A condition
+in a permit requiring the operator to provide for the protection of ground
+water in the area affected by the well; or 
+
+       (2) Any rules of
+the governing board of the State Department of Geology and Mineral Industries
+establishing standards for blowout prevention, equipment and casing design and
+removal, and any other procedures necessary to shut out detrimental substances
+from strata containing ground or surface water usable for beneficial purposes. [1975
+c.552 §9; 2009 c.794 §15] 
+
+   
+
+       522.160 [1971 c.776 §18; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.165
+Request for permit modification; fee. 
+(1) A permittee must make a request to modify a permit before changing the
+location, number or designation specified for any geothermal well or before
+undertaking to alter in any manner the casing of a geothermal well. 
+
+       (2) A request to
+modify a permit under this section, except for changes to a well name, shall be
+accompanied by the nonrefundable fee specified in ORS 522.115. [1975 c.552 §10;
+2009 c.794 §16] 
+
+   
+
+       522.170 [1971 c.776 §5; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.175
+Plugging and decommissioning; rules. 
+(1) No person shall abandon a geothermal well without first plugging and
+decommissioning the well in conformance with a plugging and decommissioning
+plan approved by the State Department of Geology and Mineral Industries and
+complying with the provisions of ORS 522.245. 
+
+       (2) The governing
+board of the department shall adopt rules designed to: 
+
+       (a) Protect
+underground and surface water usable for beneficial purposes from pollution
+resulting from infiltration or addition of any detrimental substance; 
+
+       (b) Prevent the
+escape of all fluids to the surface; 
+
+       (c) Close the
+surface aperture of the well; and 
+
+       (d) Remove all
+surface equipment except that necessary to maintain permanent closure of the
+well. [1975 c.552 §11; 1981 c.694 §8; 2009 c.794 §17] 
+
+   
+
+       522.180 [1971 c.776 §19; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.185 [1975 c.552 §13; repealed by 1981
+c.694 §12] 
+
+   
+
+       522.190 [1971 c.776 §20; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.195
+Monthly production statement; rules. 
+Except as excluded by rule adopted by the governing board of the State
+Department of Geology and Mineral Industries, the operator of any completed
+geothermal well shall file with the department a monthly statement of the
+geothermal resources production from such well during the preceding calendar
+month. [1975 c.552 §14] 
+
+   
+
+       522.200 [1971 c.776 §28; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.205 Notice
+by prospective operator of transfer or purchase of well; application; fee;
+notice by buyer of land of transfer or purchase; rules. (1) Except as excluded from the
+provisions of this section by rule of the governing board of the State
+Department of Geology and Mineral Industries, any prospective operator of a
+geothermal well shall notify the department in such form as the department may
+direct of the purchase, assignment, transfer, conveyance or exchange of the
+well within 45 days of the purchase and shall accompany such notice with an
+application for transfer of the permit for the particular well. The application
+must include the transfer fee specified in ORS 522.115. 
+
+       (2) Any buyer of
+land on which a geothermal well is located shall notify the department of the
+purchase, assignment, transfer, conveyance or exchange of the land upon which
+such well is situated within 45 days of such purchase. [1975 c.552 §15; 2009
+c.794 §18] 
+
+   
+
+       522.210 [1971 c.776 §31; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.215
+Suspension of drilling or operation; application; terms; extension; presumption
+of abandonment; unlawful abandonment; notice; proceedings against operator. (1) No operator shall suspend
+drilling or operation of a geothermal well without obtaining permission from
+the State Department of Geology and Mineral Industries. 
+
+       (2) The
+department may authorize an operator to suspend for a specific period
+operations or remove equipment from an uncompleted geothermal well upon such
+terms as the department may specify, upon written application of the operator
+and an affidavit showing good cause therefor. 
+
+       (3) Within a
+period of six months from the ending date specified for such suspension, the
+operator may make written application for an extension of suspension and file
+it with an affidavit showing good cause for such an extension. Upon a finding
+that the extension is merited, the governing board of the department may extend
+the suspension for an additional specific period. 
+
+       (4) If, after
+suspension, operations are not resumed by the operator within six months from
+the ending date specified for the suspension or extension thereof, an intention
+to abandon and unlawful abandonment shall be presumed. 
+
+       (5) Whenever an
+operator whose operations have been suspended fails to comply with such terms
+as the department may specify in its authorization, the geothermal well shall
+be presumed unlawfully abandoned. A well shall also be deemed unlawfully
+abandoned, if, without notice to the department, any drilling or producing
+equipment is removed. 
+
+       (6) An unlawful
+abandonment shall be declared by order of the board, and written notice thereof
+shall be mailed by registered mail or by certified mail with return receipt
+both to such operator at the last-known post-office address of the operator, to
+the registered agent of the operator, if any, and to the operator’s sureties. 
+
+       (7) After
+declaration of unlawful abandonment, the board may proceed against the operator
+and the surety of the operator as provided for in ORS 522.145 and may bring
+suit pursuant to ORS 522.810 or take any other enforcement or recovery action
+authorized by law. [1975 c.552 §16; 1981 c.694 §9; 1991 c.249 §39; 2009 c.794 §19] 
+
+   
+
+       522.220 [1971 c.776 §21; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.225 Notice
+of intent to plug and decommission. 
+(1) Before commencing any operation to discontinue the use of a geothermal
+well, the operator shall give notice to the State Department of Geology and
+Mineral Industries of the intention to plug and decommission the well and the
+date upon which the work will begin. 
+
+       (2) Such notice
+shall be given at least 24 hours before the commencement of plugging and
+decommissioning operations and shall indicate: 
+
+       (a) The condition
+of the well; 
+
+       (b) The proposed
+method of the plugging and decommissioning operation; and 
+
+       (c) Any
+additional information that may be required by the department. [1975 c.552 §17;
+2009 c.794 §20] 
+
+   
+
+       522.230 [1971 c.776 §23; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.235 [1975 c.552 §18; repealed by 2009
+c.794 §27] 
+
+   
+
+       522.240 [1971 c.776 §9; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.245
+Department approval of plugging and decommissioning; report by operator; effect
+of failure to comply; proceedings against operator. (1) A representative of the State
+Department of Geology and Mineral Industries may be present during any
+operation to plug and decommission a geothermal well. If the representative
+determines that the plugging and decommissioning is satisfactory, the representative
+shall approve the plugging and decommissioning of the well. 
+
+       (2) Within 45
+days after the completion of the plugging and decommissioning of any geothermal
+well, the operator of the well shall make a written report of all work done.
+Within 45 days after the receipt of the report, the department shall furnish
+the operator with a written final approval of the plugging and decommissioning
+or a written disapproval setting forth the conditions upon which the
+disapproval is based. 
+
+       (3) Failure to
+plug and decommission in accordance with the approved method, failure to submit
+to the department any notice or report required by this chapter or failure to
+furnish the department with any required information shall constitute
+sufficient grounds for disapproval of the plugging and decommissioning and
+shall constitute unlawful abandonment of the well. 
+
+       (4) When the
+department has issued a written disapproval of the plugging and
+decommissioning, the governing board of the department may proceed against the
+operator and the surety of the operator as provided for in ORS 522.145 and may
+bring suit pursuant to ORS 522.810 or take any other enforcement or recovery
+action authorized by law. [1975 c.552 §19; 1981 c.694 §10; 2009 c.794 §21] 
+
+   
+
+       522.250 [1971 c.776 §10; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.255
+Resolution of conflicts between geothermal and water uses. If interference between an
+existing geothermal well permitted under this chapter and an existing water
+appropriation permitted under ORS chapter 537 is found by either the State
+Geologist or the Water Resources Director, the State Geologist and the Water
+Resources Director shall work cooperatively to resolve the conflict and develop
+a cooperative management program for the area. In determining what action
+should be taken, they shall consider the following goals: 
+
+       (1) Achieving the
+most beneficial use of the water and heat resources; 
+
+       (2) Allowing all
+existing users of the resources to continue to use those resources to the
+greatest extent possible; and 
+
+       (3) Insuring that
+the public interest in efficient use of water and heat resources is protected. [1981
+c.589 §8] 
+
+   
+
+       522.260 [1971 c.776 §30; repealed by 1975
+c.552 §55] 
+
+   
+
+ ADMINISTRATION 
+
+   
+
+       522.275
+Administration by State Geologist. 
+Subject to policy direction by the governing board of the State Department of
+Geology and Mineral Industries, the State Geologist shall administer this
+chapter, the rules and orders made pursuant thereto, and supervise the
+department in carrying out the provisions of this chapter. [1975 c.552 §23] 
+
+   
+
+       522.305 Rules. (1) In accordance with the
+applicable provisions of ORS chapter 183, the governing board of the State
+Department of Geology and Mineral Industries may adopt rules necessary to
+implement the provisions of this chapter. This authority includes, but is not
+limited to, rules relating to: 
+
+       (a) Establishing
+procedures for the issuance, modification, transfer, denial, suspension and
+revocation of permits; 
+
+       (b) Establishing
+procedures for enforcing permit conditions, for enforcing the requirements of
+this chapter and for enforcing rules adopted to implement the provisions of
+this chapter; and 
+
+       (c) Establishing
+civil penalties for violations of this chapter, for violations of rules adopted
+to implement the provisions of this chapter and for violations of permits and
+orders issued pursuant to this chapter. 
+
+       (2) Any final
+determination made by the State Department of Geology and Mineral Industries in
+carrying out the provisions of this chapter or in rules adopted thereunder may
+be reviewed in the manner provided by the applicable provisions of ORS chapter
+183. [1975 c.552 §22; 2009 c.794 §25] 
+
+   
+
+       522.310 [1971 c.776 §24; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.315 Final
+order of department; delivery to operator. Whenever the State Department of Geology and Mineral
+Industries gives any written direction concerning any geothermal well and the
+operator requests in writing that a final order for purposes of ORS chapter 183
+be made, the department shall, within 15 days after receipt of the notice,
+deliver such final written order to the operator. [1975 c.552 §24] 
+
+   
+
+       522.320 [1971 c.776 §§25,26; repealed by
+1975 c.552 §55] 
+
+   
+
+       522.325
+Compliance with final order; appeal. 
+(1) The operator of any geothermal well shall within 15 days from the date of
+the service of any order, either comply with the order or file with the State
+Department of Geology and Mineral Industries a written statement that the order
+is not acceptable, and the reasons therefor, and the statement shall constitute
+an appeal from such order to the governing board of the department. 
+
+       (2) Any final
+written order of the board may be appealed in the manner provided in ORS
+chapter 183 for appeals from final orders in contested cases. [1975 c.552 §25] 
+
+   
+
+       522.330 [1971 c.776 §27; repealed by 1975
+c.552 §55] 
+
+   
+
+ WELL RECORDS 
+
+   
+
+       522.355
+Records of well; contents; drill cutting and core samples. (1) The operator of any geothermal
+well shall keep, or cause to be kept, a careful and accurate log, core record
+and history of the drilling of the well. 
+
+       (2) The log
+referred to in subsection (1) of this section shall show the character and
+depth of each formation encountered in the drilling of the well; the amount,
+size and weight of casing used; and the location, depth and temperature of
+water-bearing strata, including the temperature, chemical composition and other
+chemical and physical characteristics of fluid encountered from time to time,
+so far as determined. 
+
+       (3) The core
+record referred to in subsection (1) of this section shall show the depth,
+character and fluid content of cores obtained, so far as determined from the
+study and analysis thereof. 
+
+       (4) The history
+referred to in subsection (1) of this section shall show the location and
+amount of sidetracked casings, tools or other material; the depth and quantity
+of cement in cement plugs; the shots of dynamite or other explosives used; the
+results of production and other tests during drilling operations; and
+completion data. 
+
+       (5) The log
+referred to in subsections (1) and (2) of this section shall be kept in the
+local office of the operator and, together with the tour reports of the
+operator, shall be subject, during business hours, to inspection by the
+governing board of the State Department of Geology and Mineral Industries, or
+the department. 
+
+       (6) The operator
+of any geothermal well shall, in addition to furnishing the log, records, and
+tests required by this section, collect representative drill cuttings. The
+operator shall additionally, in the event cores are taken, collect
+representative core samples. The drill cuttings and core samples shall be filed
+with the department promptly upon completion or upon its written request, and
+upon plugging and decommissioning or upon suspension of operations for a period
+of at least six months. [1975 c.552 §26; 1977 c.87 §4; 2009 c.794 §22] 
+
+   
+
+       522.365 Filing
+record with department; exemption from disclosure. (1) Each operator of any
+geothermal well or the designated agent of the operator shall file with the
+State Department of Geology and Mineral Industries a copy of the log, history
+and core record, or any portion thereof, promptly upon completion, or upon the
+written request of the department at any time after the commencement of the
+work of drilling any geothermal well, and upon plugging and decommissioning or
+upon suspension of operations for a period of at least six months. 
+
+       (2) For a period
+of four years after the receipt of any log, history, core record, or any
+portion thereof, such record shall be exempt from disclosure as a trade secret
+pursuant to ORS 192.345 unless the operator gives approval to release the data.
+[1975 c.552 §27; 2009 c.794 §23] 
+
+   
+
+ UNITIZATION OF
+GEOTHERMAL RESOURCE AREA 
+
+   
+
+       522.405
+Unitization; development of unit agreement; rules. (1) When two or more separately
+owned tracts of land are within an area under which a reservoir is located or
+reasonably believed to be located, or when there are separately owned interests
+in all or part of such an area, the governing board of the State Department of
+Geology and Mineral Industries, upon its own motion may or upon the application
+of an interested person or state or local governmental governing body, special
+district or agency, shall review the need for unitization of the area. The board
+by rule or order may require the development of a unit agreement for the
+geothermal resource area if it finds: 
+
+       (a) Unitized
+management, operation and development of the geothermal resources in a
+reservoir is necessary to increase the ultimate recovery of the resources; 
+
+       (b) The
+application of unitized methods of operation will prevent waste and aid
+efficient production and utilization of the resource; or 
+
+       (c) Unitization
+and the unitized method of operation are in the public interest and reasonably
+necessary to protect the correlative rights of owners. 
+
+       (2) When the
+board requires the development of a unit agreement under this section, it shall
+encourage the development of a voluntary agreement between the affected
+parties. In the absence of a voluntary agreement, the board shall itself
+develop or cause to be developed a unit agreement that satisfies the provisions
+of ORS 273.775, 308A.050 to 308A.128, 522.005, 522.015, 522.405 to 522.545,
+522.815 and 522.990. In adopting a rule or entering an order for a unit
+agreement, the board shall consider any plant dedicated area agreement in
+effect and shall not contravene or interfere with that agreement unless it
+finds that a term or condition of that agreement violates the policies stated
+in ORS 522.015. The board shall require the development of the resource in
+accordance with a proposed unit agreement if it finds that the agreement
+conforms with the provisions of ORS 273.775, 308A.050 to 308A.128, 522.005,
+522.015, 522.405 to 522.545, 522.815 and 522.990. 
+
+       (3) The
+development of a unit agreement under subsections (1) and (2) of this section
+shall be conducted as a rulemaking proceeding in accordance with ORS chapter
+183 unless an interested party requests that it be conducted as a contested
+case in accordance with ORS chapter 183. In either event, notice shall be given
+in accordance with the applicable provisions of ORS chapter 183. 
+
+       (4) As used in
+this section, “plant dedicated area agreement” means a contractual relationship
+in geothermal energy development between a geothermal resource owner and a
+customer which makes a specific surface area and related resource base
+available exclusively to that customer. [1981 c.588 §8; 1999 c.314 §75] 
+
+   
+
+       522.410 [1971 c.776 §3; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.415 Unit
+operation plan. A
+voluntary or board-sponsored unit agreement developed in response to a rule
+adopted or an order issued under ORS 522.405 shall provide a unit operation
+plan that includes: 
+
+       (1) A description
+of the geothermal reservoir and the overlaying land to be operated as a unit. 
+
+       (2) A statement
+of the nature of the operations contemplated. 
+
+       (3) A provision
+for credits and charges to be made in the adjustment among the owners in a unit
+area for their respective investments in geothermal wells, prospect wells,
+machinery, materials and equipment used in the unit operation. 
+
+       (4) The division
+of interest or a formula for apportionment of unit production among the
+separately owned tracts within the unit area which reasonably permits a person
+or state or local governing body, special district or agency otherwise entitled
+to share in or benefit by production from a tract to receive an equitable and
+reasonable share of the unit production or other benefit. An equitable and
+reasonable share of unit production is measured by the proportion the value of
+the separately owned tract for geothermal resources recovery bears to the value
+of the unit for that purpose, taking acreage into account. 
+
+       (5) Provisions
+which state how the costs will be paid, how unit production is to be measured
+and when, how and by whom unit production is to be allocated. The provision
+shall provide that unit production due to an owner who does not pay that owner’s
+share of the cost of unit operation or that owner’s interest may be sold and
+the proceeds applied to the cost. 
+
+       (6) A provision,
+if necessary, for making financing available to any person or state or local
+governing body, special district or agency that wishes to obtain financing. The
+provision shall allow a reasonable interest charge for the service payable out
+of that respective share of production. 
+
+       (7) A provision
+for the supervision and conduct of the unit operation. Each person or state or
+local governing body, special district or agency shall have a vote on the
+provision with a weight corresponding to the percentage of the cost of unit
+operation chargeable against that respective interest. 
+
+       (8) The time when
+the unit operation shall begin and the manner and circumstances under which the
+unit operation shall terminate. 
+
+       (9) Provisions,
+if necessary, for the protection of preexisting water users within the unit
+area and for administration of future water development from the reservoir
+covered by the unit agreement. [1981 c.588 §9] 
+
+   
+
+       522.420 [1971 c.776 §35; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.425
+Provisions in rule or order requiring unit operation. Any rule or order of the governing
+board of the State Department of Geology and Mineral Industries providing for
+the unit operation of a geothermal resource area may include provisions for: 
+
+       (1) Division of a
+reservoir into zones; 
+
+       (2) Establishment
+of spacing units, including a description of their location, size and shape; 
+
+       (3) The
+integration of separately owned tracts or interests within a spacing unit, the
+development and operation of the spacing unit and the sharing of production; 
+
+       (4) The
+protection of existing and future beneficial uses of water; 
+
+       (5) Maintenance
+of the renewability of geothermal resources and any other natural resources;
+and 
+
+       (6) Any
+additional provisions the board considers necessary for carrying out the
+provisions of this chapter or for protection of the public health, safety and
+welfare. [1981 c.588 §10] 
+
+   
+
+       522.430 [1971 c.776 §36; repealed by 1973
+c.388 §8] 
+
+   
+
+       522.435 Rule,
+order to supersede previous board action. Any rule adopted or order entered under ORS 522.405
+shall supersede any right or privilege previously granted by the governing
+board of the State Department of Geology and Mineral Industries to the same
+person or state or local governing body, special district or agency with
+respect to the reservoir. [1981 c.588 §11] 
+
+   
+
+       522.440 [1971 c.776 §38; repealed by 1973
+c.388 §8] 
+
+   
+
+       522.445
+Condition to effectiveness of unitization plan and unit agreement. (1) No rule or order of the
+governing board of the State Department of Geology and Mineral Industries which
+creates a unit and prescribes a unitization plan and no applicable unit
+agreement shall be effective unless the plan of unit operation required by the
+board under ORS 522.405 has been approved in writing by: 
+
+       (a) The operators
+who will be required to pay under the board’s rule or order at least 75 percent
+of the unit operation costs; and 
+
+       (b) The persons
+or state or local governing body, special district or agency that, at the time
+of the board rule or order, own record legal title to 75 percent of the
+royalties payable with respect to the geothermal resource produced from the
+unit area. 
+
+       (2) If the
+royalty owners who own the required percentage interest in the unit area and
+the operators have not approved the unitization plan within six months of the
+date on which the rule or order creating the unit is adopted or entered, that
+rule or order shall become ineffective and shall be considered to have been
+repealed or revoked by the board. [1981 c.588 §12] 
+
+   
+
+       522.450 [1971 c.776 §37; repealed by 1973
+c.388 §8] 
+
+   
+
+       522.455
+Rehearing on rule or order; judicial review. (1) Any person or state or local governing body,
+special district or agency with an interest in geothermal resources within an
+area to be designated as a unit that is adversely affected by any rule or order
+of the governing board of the State Department of Geology and Mineral
+Industries may apply to the board for a rehearing within 30 days after the
+adoption of the rule or entry of the order. The board shall decide within 45
+days after the filing date of the rule or order whether to grant a rehearing. If
+granted, the rehearing shall be held without undue delay. Failure to act within
+the 45-day period constitutes approval of the rehearing request. 
+
+       (2) Any person or
+state or local governing body, special district or agency that holds a working
+interest in geothermal resources in a designated or proposed unit area that is
+adversely affected by any rule promulgated or order entered by the board may obtain
+judicial review of the rule or order pursuant to ORS chapter 183. [1981 c.588 §13] 
+
+   
+
+       522.460 [1971 c.776 §4; repealed by 1975
+c.552 §55] 
+
+   
+
+       522.465
+Appointment of unit operator. 
+As part of a proposed rule or order designating a unit area and approving a
+unitization plan or as part of a unit agreement, the working interest owners
+under the agreement, within the time specified by the governing board of the
+State Department of Geology and Mineral Industries, shall appoint the unit
+operator. If the working interest owners do not make the appointment within the
+specified time, the board shall appoint the unit operator. [1981 c.588 §14] 
+
+   
+
+       522.470 [1971 c.776 §22; 1973 c.388 §5;
+repealed by 1975 c.552 §55] 
+
+   
+
+       522.475 Board
+review of disputes over unit operation; appeal. (1) Any disagreement with respect
+to the unit operation between persons or between persons and state or local
+governing bodies, special districts or agencies owning any interest in the
+geothermal resources in a unit area, or between persons or state and local
+governing bodies, special districts or agencies owning an interest in
+geothermal resources in a unit area and a unit operator, including a dispute
+over replacement of a unit operator, may be submitted to the governing board of
+the State Department of Geology and Mineral Industries for its review and
+decision. 
+
+       (2) The board
+decision under this section may be appealed to the Court of Appeals. The appeal
+must be filed within 60 days of the date of the board’s decision. [1981 c.588 §15] 
+
+   
+
+       522.480 [1971 c.776 §33; 1973 c.388 §6;
+repealed by 1975 c.552 §55] 
+
+   
+
+       522.485
+Amendment of unitization plan. 
+Subject to the same conditions and limitations provided with respect to the
+creation of a unit, the following may occur: 
+
+       (1) A unit area
+may be enlarged to include adjoining portions of the same geothermal resource
+area, including another unit area, and a new unit created for the unitized
+management, operation and development of the enlarged unit area; or 
+
+       (2) The
+unitization plan may be otherwise amended, including, but not limited to, an
+amendment reducing unit area size. [1981 c.588 §16] 
+
+   
+
+       522.495
+Presumptions regarding conduct of operation. Any operation on any portion of the unit area,
+including, but not limited to, the drilling or operation of a well, is
+considered for all purposes the conduct of the same operation on the whole unit
+area. The portion of unit production allocated to a separately owned tract in a
+unit area is considered for all purposes to actually have been produced from a
+well drilled upon that tract. An operation conducted pursuant to a board rule
+adopted or order issued under ORS 522.405 constitutes a fulfillment of all express
+or implied obligations under each lease or contract covering lands in the unit
+area. [1981 c. 588 §17] 
+
+   
+
+       522.505
+Unauthorized operation in unit area prohibited; exemption. (1) The operation of a geothermal
+well in a unit area by anyone other than by a person or state or local
+governing body, special district or agency acting under the unit’s authority
+shall be unlawful. That operation is prohibited from the effective date of the
+board rule or order creating the unit and prescribing the unitization plan or
+the unit agreement, except in the manner and to the extent provided in the
+unitization plan or agreement. 
+
+       (2) The
+provisions of ORS 273.775, 308A.050 to 308A.128, 522.005, 522.015, 522.405 to
+522.545, 522.815 and 522.990 shall not affect the ability of a ground water
+user to exercise a water right that existed before the initiation of a unit
+agreement. [1981 c.588 §18; 1999 c.314 §76] 
+
+   
+
+       522.510 [1971 c.776 §15; 1973 c.794 §24;
+repealed by 1975 c.552 §55] 
+
+   
+
+       522.515 When
+agreement or plan held not to violate state securities or trade law. (1) A unit agreement or
+unitization plan under a board rule adopted or order issued pursuant to ORS
+522.405 shall not be held or construed to violate ORS 59.005 to 59.505, 59.710
+to 59.830, 59.991 and 59.995 or any state statute relating to trusts, monopolies
+or contracts and combinations in restraint of trade if the board has made a
+finding that the agreement is in the public interest for the protection of
+correlative rights and is necessary to enhance recovery of geothermal resources
+or to prevent waste. 
+
+       (2) Any voluntary
+unit agreement or plan for unitization between owners, holders of working
+interests and holders of royalty interests for the exploration, development and
+operation of a unit area shall not be held or construed to violate ORS 59.005
+to 59.505, 59.710 to 59.830, 59.991 and 59.995 or any state statute relating to
+trusts, monopolies or contracts and combinations in restraint of trade if the
+agreement is approved by the board as being in the public interest for the
+protection of correlative rights and necessary to enhance recovery of
+geothermal resources or to prevent waste. 
+
+       (3) A voluntary
+agreement may be submitted to the board for approval as being in the public
+interest for the protection of correlative rights and necessary to enhance
+recovery of geothermal resources or to prevent waste. Board approval
+constitutes a complete defense to any proceeding charging violation of ORS
+59.005 to 59.505, 59.710 to 59.830, 59.991 and 59.995 or of any state statute
+relating to trusts or monopolies on account of operations conducted pursuant to
+the agreement. 
+
+       (4) The failure
+to submit a voluntary agreement for board approval does not constitute evidence
+that the agreement or operation violates ORS 59.005 to 59.505, 59.710 to
+59.830, 59.991 and 59.995 or any state statute relating to trusts or
+monopolies. [1981 c.588 §19] 
+
+   
+
+       522.520 [1971 c.776 §17; 1973 c.794 §25;
+repealed by 1975 c.552 §55] 
+
+   
+
+       522.525 Land
+subject to board authority; federal lands. Board authority applies to all private, municipal,
+state and federal land in the state which is subject to the state’s regulatory
+authority. When land subject to federal jurisdiction is committed to a unit
+agreement or cooperative agreement the board may suspend the operation of this
+chapter or any provision of this chapter if: 
+
+       (1) The unit
+operation is regulated by the United States; and 
+
+       (2) The unit
+agreement prevents waste and encourages maximum economic development of the
+resource. [1981 c.588 §20] 
+
+   
+
+       522.530 [1971 c.776 §16; repealed by 1973
+c.794 §34] 
+
+   
+
+       522.535 Fees;
+rules. (1) The
+governing board of the State Department of Geology and Mineral Industries shall
+establish reasonable fees by rule pursuant to ORS chapter 183 for the purpose
+of the development and administration of a unit agreement to be paid by all
+persons or state or local governing bodies, special districts or agencies with
+a royalty interest in that unitized development. The fee schedule shall
+recognize the reduced workload involved in review of a voluntary unit agreement
+that complies with this chapter. 
+
+       (2) When a person
+or state or local governing body, special district or agency with a royalty
+interest fails to pay a fee imposed by the board under ORS 522.545 or this
+section, the board may require that the fee be paid from the proceeds of the
+sale of the unit production attributable to that interest. [1981 c.588 §21] 
+
+   
+
+       522.540 [1971 c.776 §29; repealed by 1973
+c.794 §34] 
+
+   
+
+       522.545
+Rulemaking authority. 
+The governing board of the State Department of Geology and Mineral Industries
+may make, in compliance with ORS chapter 183, rules and orders for the
+following purposes: 
+
+       (1) To review and
+enforce voluntary unit agreements governing production of geothermal resources
+in a manner that is consistent with the provisions of this chapter. 
+
+       (2) To provide
+application forms and procedures to enable a person to request the board to
+initiate a unit agreement. 
+
+       (3) To develop
+and enforce, when necessary, unit agreements satisfying the requirements of
+this chapter. 
+
+       (4) To settle
+disagreements between the parties to a unit agreement over unit operation. 
+
+       (5) To change the
+boundaries of a unit area. 
+
+       (6) To prevent
+the drilling and operation of geothermal wells and the production of geothermal
+resources in a manner that causes injury to neighboring leaseholds or property. 
+
+       (7) To levy fees
+on any operator, person, state or local governing body, special district or
+agency that holds a royalty interest in a unit area to cover reasonable costs
+associated with the development and administration of a unit agreement. [1981
+c.588 §22] 
+
+   
+
+ ENFORCEMENT 
+
+   
+
+       522.810 Suits
+to enjoin violations. 
+Whenever it appears that any person is violating or threatening to violate any
+provision of this chapter or any rule or order of the governing board of the
+State Department of Geology and Mineral Industries made thereunder, or is
+threatening to or committing waste, the board may bring suit against such
+person in the circuit court of any county where the violation or waste occurs
+or is threatened, to restrain such person from continuing such violation or
+waste. In any such suit, the court shall have jurisdiction to grant to the
+board, without bond or other undertaking, such temporary restraining orders or
+final prohibitory and mandatory injunctions as the facts may warrant, including
+any such orders restraining the movement, disposition or waste of geothermal
+resources. [1971 c.776 §41; 1973 c.388 §7; 1975 c.552 §29] 
+
+   
+
+       522.815 Rules
+by board; scope; adoption; notice. 
+(1) In accordance with the rulemaking provisions of ORS chapter 183, the
+governing board of the State Department of Geology and Mineral Industries may
+adopt rules necessary to conserve geothermal resources or other natural
+resources, or to protect the environment, the correlative rights of any person
+having an ownership interest in the affected land or resource, or beneficial
+uses of water, or to accomplish the efficient and economical development of a
+geothermal reservoir. The rules shall include a description of the geothermal
+reservoir and the overlying land and may also include provisions for the
+following: 
+
+       (a) Division of a
+geothermal reservoir into zones; 
+
+       (b) Establishment
+of spacing units including a description of the location, size and shape of
+such spacing units; 
+
+       (c) The
+integration of separately owned tracts or interests within a spacing unit for
+the development and operation of the spacing unit and the sharing of production
+therefrom; 
+
+       (d) The
+protection of existing and future beneficial uses of water; 
+
+       (e) Maintaining
+the renewability of geothermal resources and any other natural resources; and 
+
+       (f) Any
+additional provisions the board deems necessary for carrying out the provisions
+of this chapter or for protecting the public health, safety and welfare. 
+
+       (2) Any rule
+adopted under this section may in the board’s discretion supersede any right or
+privilege previously granted by or previously entered by the board with respect
+to such reservoir and may be amended in accordance with the rulemaking
+provisions of ORS chapter 183 as appears necessary to the board to further the
+policy stated in ORS 522.015. 
+
+       (3) Any
+proceeding under this section shall be conducted as a rulemaking proceeding in
+accordance with ORS chapter 183 unless an interested party requests that it be
+conducted as a contested case in accordance with ORS chapter 183. In either
+event, notice shall be given in accordance with the requirements of ORS chapter
+183. Notice shall always be given to the following persons: 
+
+       (a) Any operator
+who has a drilling permit issued pursuant to ORS 522.135 or has a legal right
+to operate a completed geothermal well in the geothermal reservoir; and 
+
+       (b) Any person
+who has an ownership interest in the geothermal reservoir. [1975 c.552 §43;
+1981 c.588 §5; 1981 c.694 §11] 
+
+   
+
+ PROHIBITED ACTS 
+
+   
+
+       522.910 Aiding
+in violations prohibited. 
+No person shall knowingly aid or abet any other person in the violation of any
+provision of this chapter or of any rule or order of the governing board of the
+State Department of Geology and Mineral Industries made thereunder. [1971 c.776
+§40; 1975 c.552 §30] 
+
+   
+
+       522.915 False
+entries, omissions, destruction or removal of records or reports. No person shall: 
+
+       (1) Make or cause
+to be made any false entry or statement in a report, record, log, account or
+other writing required by this chapter or any rule adopted pursuant thereto; 
+
+       (2) Omit or cause
+to be omitted from any such report, record, log, account or writing, full, true
+and correct entries as required by this chapter or any rule or order adopted
+pursuant thereto; 
+
+       (3) Destroy,
+mutilate, alter or falsify any such report, record, log, account or writing; or 
+
+       (4) Remove from
+this state the original copy of any such report, record, log, account or
+writing before the plugging and decommissioning of a geothermal well has been
+approved pursuant to ORS 522.245 (2). [1975 c.552 §28; 2009 c.794 §24] 
+
+   
+
+       522.920 [1971 c.776 §39; repealed by 1975
+c.552 §55] 
+
+   
+
+ PENALTIES 
+
+   
+
+       522.990
+Penalties. Subject
+to ORS 153.022, violation of any provision of this chapter or of any rule or
+order of the governing board of the State Department of Geology and Mineral
+Industries made thereunder, excluding ORS 522.405 to 522.545 and any rule
+promulgated thereunder, is a Class B misdemeanor. [1971 c.776 §42; 1975 c.552 §31;
+1981 c.588 §6; 1999 c.1051 §316; 2011 c.597 §222] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

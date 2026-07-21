@@ -56,6 +56,18 @@ def fetch_chapter(ch):
     return (SNAPSHOT_DIR / f"{snap_id}.txt").read_text(encoding="utf-8", errors="replace")
 
 
+def extract_chapter_title(raw_text, ch):
+    """Pull the chapter's real title from the source ("Chapter 305. Administration of
+    Revenue and Tax Laws; Appeals ... 306. ...") so mass-catalogued chapters aren't all
+    labeled "Chapter NNN". Returns None if the pattern isn't found."""
+    t = ws_only(raw_text)
+    m = re.search(rf"Chapter\s+{re.escape(ch)}\.\s*(.+?)\s+\d{{2,3}}[A-Z]?\.\s", t)
+    if not m:
+        return None
+    title = m.group(1).strip(" .;")
+    return title[:160] if len(title) >= 3 else None
+
+
 def parse_toc(raw_text, ch):
     t = ws_only(raw_text)
     i = t.find("EDITION")
@@ -98,6 +110,8 @@ def main():
     for ch in chapters:
         raw = fetch_chapter(ch)
         secs = parse_toc(raw, ch)
+        # Prefer the curated title, then the one printed in the source, then a bare label.
+        title = CHAPTER_TITLES.get(ch) or extract_chapter_title(raw, ch) or f"Chapter {ch}"
         existing = by_num.get(ch)
         if existing:
             have = {s["number"]: s for s in existing["sections"]}
@@ -105,13 +119,15 @@ def main():
                 if s["number"] not in have:
                     existing["sections"].append(s)
             existing["sections"].sort(key=lambda s: s["number"])
+            if existing.get("title", "").startswith("Chapter ") and not title.startswith("Chapter "):
+                existing["title"] = title  # upgrade a bare label if we now have a real one
         else:
-            entry = {"chapter": ch, "title": CHAPTER_TITLES.get(ch, f"Chapter {ch}"),
+            entry = {"chapter": ch, "title": title,
                      "url": f"https://www.oregonlegislature.gov/bills_laws/ors/ors{ch}.html",
                      "sections": secs}
             cat["chapters"].append(entry)
             by_num[ch] = entry
-        print(f"chapter {ch} ({CHAPTER_TITLES.get(ch, '?')}): {len(secs)} sections found")
+        print(f"chapter {ch} ({title}): {len(secs)} sections found")
 
     cat["chapters"].sort(key=lambda c: c["chapter"])
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))

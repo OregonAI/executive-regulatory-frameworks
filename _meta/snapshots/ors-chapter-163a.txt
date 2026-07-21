@@ -1,0 +1,3017 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+ Chapter
+163A — Sex Offender Reporting and Classification 
+
+   
+
+ Uncodified sections
+printed in this chapter were amended or repealed by the Legislative Assembly
+during its 2026 regular session. See the table of uncodified sections amended
+or repealed during the 2026 regular session: 2026
+A&R Tables 
+
+   
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ SEX OFFENDERS 
+
+   
+
+ CRIMES AND PUNISHMENTS 
+
+   
+
+ REPORTING 
+
+   
+
+ 163A.005  Definitions for ORS
+163A.005 to 163A.235 
+
+   
+
+ 163A.010  Reporting by sex offender
+discharged, paroled or released from correctional facility or another United
+States jurisdiction 
+
+   
+
+ 163A.015  Reporting by sex offender
+discharged, released or placed on probation by court or another United States
+jurisdiction 
+
+   
+
+ 163A.020  Reporting by sex offender
+upon moving into state; reporting by certain nonresidents and certain residents 
+
+   
+
+ 163A.025  Reporting by sex offender
+adjudicated in juvenile court 
+
+   
+
+ 163A.030  Hearing on issue of
+reporting by sex offender adjudicated in juvenile court; right to counsel 
+
+   
+
+ 163A.035  Registration forms;
+Department of State Police to provide; distribution of information; rules; fee 
+
+   
+
+ 163A.040  Failure to report as sex
+offender; defense 
+
+   
+
+ 163A.045  Purpose of sex offender
+reporting obligation; rules 
+
+   
+
+ 163A.050  Notice of reporting
+obligation to be given by court; procedure at intake 
+
+   
+
+ 163A.055  Notice required when
+offender moves to another state 
+
+   
+
+ 163A.060  Offender profiling 
+
+   
+
+ 163A.065  Immunity 
+
+   
+
+ CLASSIFICATION 
+
+   
+
+ 163A.100  Risk assessment
+methodology; rules 
+
+   
+
+ 163A.105  When risk assessments
+performed; classification into risk level; review; rules 
+
+   
+
+ 163A.110  Applicability of ORS
+163A.105 
+
+   
+
+ Note          Existing
+registrants--2013 c.708 §7 
+
+   
+
+ 163A.115  When certain
+classification required; persons ineligible for relief from reporting
+obligation 
+
+   
+
+ RECLASSIFICATION AND RELIEF FROM
+REPORTING 
+
+   
+
+ 163A.125  Relief from reporting
+obligation for sex offenders classified under ORS 163A.100; reclassification;
+procedure 
+
+   
+
+ 163A.130  Relief from reporting
+obligation for juvenile offenders adjudicated in Oregon 
+
+   
+
+ 163A.135  Relief from reporting
+obligation for juvenile offenders adjudicated in another United States
+jurisdiction 
+
+   
+
+ 163A.140  Relief from reporting
+obligation; circumstances; order 
+
+   
+
+ 163A.145  Procedure for relief
+under ORS 163A.140; upon conviction or adjudication 
+
+   
+
+ 163A.150  Procedure for relief
+under ORS 163A.140; after conviction or adjudication; testimony of victim 
+
+   
+
+ PROVISION OF RECORDS BY AGENCIES 
+
+   
+
+ 163A.200  Provision of records by
+Psychiatric Security Review Board and Oregon Health Authority 
+
+   
+
+ 163A.205  Provision of records by
+Oregon Health Authority 
+
+   
+
+ 163A.210  Provision of records by
+Oregon Youth Authority and juvenile department 
+
+   
+
+ RELEASE OF INFORMATION 
+
+   
+
+ 163A.215  Release of sex offender
+information according to classification 
+
+   
+
+ 163A.220  Internet website 
+
+   
+
+ 163A.225  Release of information
+concerning sex offender adjudicated in juvenile court 
+
+   
+
+ 163A.230  Victim access to sex
+offender information; toll-free telephone number 
+
+   
+
+ 163A.235  Agreements to resolve
+concerns about community notification 
+
+   
+
+ REPORTING 
+
+   
+
+       163A.005
+Definitions for ORS 163A.005 to 163A.235. As used in ORS 163A.005 to 163A.235: 
+
+       (1) “Another
+United States court” means a federal court, a military court, the tribal court
+of a federally recognized Indian tribe or a court of: 
+
+       (a) A state other
+than Oregon; 
+
+       (b) The District
+of Columbia; 
+
+       (c) The
+Commonwealth of Puerto Rico; 
+
+       (d) Guam; 
+
+       (e) American
+Samoa; 
+
+       (f) The
+Commonwealth of the Northern Mariana Islands; or 
+
+       (g) The United
+States Virgin Islands. 
+
+       (2) “Attends”
+means is enrolled on a full-time or part-time basis. 
+
+       (3)(a) “Correctional
+facility” means any place used for the confinement of persons: 
+
+       (A) Charged with
+or convicted of a crime or otherwise confined under a court order. 
+
+       (B) Found to be
+within the jurisdiction of the juvenile court for having committed an act that
+if committed by an adult would constitute a crime. 
+
+       (b) “Correctional
+facility” applies to a state hospital or a secure intensive community inpatient
+facility only as to persons detained therein charged with or convicted of a
+crime, or detained therein after being found guilty except for insanity under
+ORS 161.290 to 161.373 or responsible except for insanity under ORS 419C.411. 
+
+       (4) “Institution
+of higher education” means a public or private educational institution that
+provides a program of post-secondary education. 
+
+       (5) “Sex crime”
+means: 
+
+       (a) Rape in any
+degree; 
+
+       (b) Sodomy in any
+degree; 
+
+       (c) Unlawful
+sexual penetration in any degree; 
+
+       (d) Sexual abuse
+in any degree; 
+
+       (e) Incest with a
+child victim; 
+
+       (f) Using a child
+in a display of sexually explicit conduct; 
+
+       (g) Encouraging
+child sexual abuse in any degree; 
+
+       (h) Transporting
+child pornography into the state; 
+
+       (i) Paying for
+viewing a child’s sexually explicit conduct; 
+
+       (j) Compelling
+prostitution; 
+
+       (k) Promoting
+prostitution; 
+
+       (L) Kidnapping in
+the first degree if the victim was under 18 years of age; 
+
+       (m) Contributing
+to the sexual delinquency of a minor; 
+
+       (n) Sexual
+misconduct if the offender is at least 18 years of age; 
+
+       (o) Possession of
+materials depicting sexually explicit conduct of a child in the first degree; 
+
+       (p) Kidnapping in
+the second degree if the victim was under 18 years of age, except by a parent
+or by a person found to be within the jurisdiction of the juvenile court; 
+
+       (q) Online sexual
+corruption of a child in any degree if the offender reasonably believed the
+child to be more than five years younger than the offender; 
+
+       (r) Luring a
+minor, if: 
+
+       (A) The offender
+reasonably believed the minor or, in the case of a police officer or agent of a
+police officer posing as a minor, the purported minor to be more than five
+years younger than the offender or under 16 years of age; and 
+
+       (B) The court
+designates in the judgment that the offense is a sex crime; 
+
+       (s) Sexual
+assault of an animal; 
+
+       (t) Public
+indecency or private indecency, if the person has a prior conviction for a
+crime listed in this subsection; 
+
+       (u) Trafficking
+in persons as described in ORS 163.266 (1)(b) or (c); 
+
+       (v) Purchasing
+sex with a minor if the court designates the offense as a sex crime pursuant to
+ORS 163.413 (3)(d), or the offense is the defendant’s second or subsequent
+conviction under ORS 163.413 (3)(b)(B); 
+
+       (w) Invasion of
+personal privacy in the first degree, if the court designates the offense as a
+sex crime pursuant to ORS 163.701 (3); 
+
+       (x) Sexual abuse
+by fraudulent representation; 
+
+       (y) Abuse of a
+corpse in the first degree as described in ORS 166.087 (1)(a); 
+
+       (z) Any attempt
+to commit any of the crimes listed in paragraphs (a) to (y) of this subsection; 
+
+       (aa) Burglary,
+when committed with intent to commit any of the offenses listed in paragraphs
+(a) to (y) of this subsection; or 
+
+       (bb) Criminal
+conspiracy if the offender agrees with one or more persons to engage in or
+cause the performance of an offense listed in paragraphs (a) to (y) of this
+subsection. 
+
+       (6) “Sex offender”
+means a person who: 
+
+       (a) Has been
+convicted of a sex crime; 
+
+       (b) Has been
+found guilty except for insanity of a sex crime; 
+
+       (c) Has been
+convicted in another United States court of a crime: 
+
+       (A) That would
+constitute a sex crime if committed in this state; or 
+
+       (B) For which the
+person would have to register as a sex offender in that court’s jurisdiction,
+or as required under federal law, regardless of whether the crime would
+constitute a sex crime in this state; or 
+
+       (d) Is described
+in ORS 163A.025 (1). 
+
+       (7) “Works” or “carries
+on a vocation” means full-time or part-time employment for more than 14 days
+within one calendar year whether financially compensated, volunteered or for
+the purpose of governmental or educational benefit. [Formerly 181.805; 2023
+c.200 §4; 2024 c.63 §1] 
+
+   
+
+       163A.010
+Reporting by sex offender discharged, paroled or released from correctional
+facility or another United States jurisdiction. (1) The agency to which a person
+reports under subsection (3) of this section shall complete a sex offender
+registration form concerning the person when the person reports under
+subsection (3) of this section. 
+
+       (2) Subsection
+(3) of this section applies to a person who: 
+
+       (a) Is
+discharged, paroled or released on any form of supervised or conditional
+release from a jail, prison or other correctional facility or detention
+facility in this state at which the person was confined as a result of: 
+
+       (A) Conviction of
+a sex crime or a crime for which the person would have to register as a sex
+offender under federal law; or 
+
+       (B) Having been
+found guilty except for insanity of a sex crime; 
+
+       (b) Is paroled to
+this state under ORS 144.610 after being convicted in another United States
+court of a crime: 
+
+       (A) That would
+constitute a sex crime if committed in this state; or 
+
+       (B) For which the
+person would have to register as a sex offender in that court’s jurisdiction,
+or as required under federal law, regardless of whether the crime would
+constitute a sex crime in this state; or 
+
+       (c) Is discharged
+by the court under ORS 161.329 after having been found guilty except for
+insanity of a sex crime. 
+
+       (3)(a) A person
+described in subsection (2) of this section shall report, in person, to the
+Department of State Police, a city police department or a county sheriff’s
+office, in the county to which the person was discharged, paroled or released
+or in which the person was otherwise placed: 
+
+       (A) Within 10
+days following discharge, release on parole, post-prison supervision or other
+supervised or conditional release; 
+
+       (B) Within 10
+days of a change of residence; 
+
+       (C) Within 10
+days of a legal change of name; 
+
+       (D) Once each
+year within 10 days of the person’s birth date, regardless of whether the
+person changed residence; 
+
+       (E) Within 10
+days of the first day the person works at, carries on a vocation at or attends
+an institution of higher education; 
+
+       (F) Within 10
+days of a change in work, vocation or attendance status at an institution of
+higher education; and 
+
+       (G) At least 21
+days prior to any intended travel outside of the United States. 
+
+       (b) If a person
+required to report under this subsection has complied with the initial
+reporting requirement under paragraph (a)(A) of this subsection, the person
+shall subsequently report, in person, in the circumstances specified in
+paragraph (a) of this subsection, as applicable, to the Department of State
+Police, a city police department or a county sheriff’s office, in the county of
+the person’s last reported residence. 
+
+       (c)
+Notwithstanding paragraphs (a) and (b) of this subsection, during the period of
+supervision or custody authorized by law, the Oregon Youth Authority may
+authorize an adjudicated youth committed to its supervision and custody by
+order of the juvenile court or a person placed in its physical custody under
+ORS 137.124 or any other provision of law to report to the authority regardless
+of the adjudicated youth’s or the person’s last reported residence. 
+
+       (d) In the event
+that a person reports to the authority under this subsection, the authority
+shall register the person. 
+
+       (e) The
+obligation to report under this subsection terminates if the conviction or
+adjudication that gave rise to the obligation is reversed or vacated or if the
+registrant is pardoned. 
+
+       (4) As part of
+the registration and reporting requirements of this section: 
+
+       (a) The person
+required to report shall: 
+
+       (A) Provide the
+information necessary to complete the sex offender registration form and sign
+the form as required; and 
+
+       (B) Submit to the
+requirements described in paragraph (b) of this subsection. 
+
+       (b) The
+Department of State Police, Oregon Youth Authority, city police department or
+county sheriff’s office: 
+
+       (A) Shall
+photograph the person when the person initially reports under this section and
+each time the person reports annually under this section; 
+
+       (B) May
+photograph the person or any identifying scars, marks or tattoos located on the
+person when the person reports under any of the circumstances described in this
+section; and 
+
+       (C) Shall
+fingerprint the person if the person’s fingerprints are not included in the
+record file of the Department of State Police. [Formerly 181.806; 2016 c.95 §4;
+2019 c.430 §11; 2021 c.489 §13] 
+
+   
+
+       163A.015
+Reporting by sex offender discharged, released or placed on probation by court
+or another United States jurisdiction. 
+(1) The agency to which a person reports under subsection (4) of this section
+shall complete a sex offender registration form concerning the person when the
+person reports under subsection (4) of this section. 
+
+       (2) Subsection
+(4) of this section applies to a person who is discharged, released or placed
+on probation: 
+
+       (a) By the court
+after being convicted in this state of a sex crime; 
+
+       (b) By a federal
+court after being convicted of a crime for which the person would have to
+register as a sex offender under federal law, regardless of whether the crime
+would constitute a sex crime in this state; or 
+
+       (c) To or in this
+state under ORS 144.610 after being convicted in another United States court of
+a crime: 
+
+       (A) That would
+constitute a sex crime if committed in this state; or 
+
+       (B) For which the
+person would have to register as a sex offender in that court’s jurisdiction,
+regardless of whether the crime would constitute a sex crime in this state. 
+
+       (3) The court
+shall ensure that the person completes a form that documents the person’s
+obligation to report under ORS 163A.010 or this section. No later than three
+working days after the person completes the form required by this subsection,
+the court shall ensure that the form is sent to the Department of State Police. 
+
+       (4)(a) A person
+described in subsection (2) of this section shall report, in person, to the
+Department of State Police, a city police department or a county sheriff’s
+office, in the county to which the person was discharged or released or in
+which the person was placed on probation: 
+
+       (A) Within 10
+days following discharge, release or placement on probation; 
+
+       (B) Within 10
+days of a change of residence; 
+
+       (C) Within 10
+days of a legal change of name; 
+
+       (D) Once each
+year within 10 days of the person’s birth date, regardless of whether the
+person changed residence; 
+
+       (E) Within 10
+days of the first day the person works at, carries on a vocation at or attends
+an institution of higher education; 
+
+       (F) Within 10
+days of a change in work, vocation or attendance status at an institution of
+higher education; and 
+
+       (G) At least 21
+days prior to any intended travel outside of the United States. 
+
+       (b) If a person
+required to report under this subsection has complied with the initial
+reporting requirement under paragraph (a)(A) of this subsection, the person
+shall subsequently report, in person, in the circumstances specified in
+paragraph (a) of this subsection, as applicable, to the Department of State
+Police, a city police department or a county sheriff’s office, in the county of
+the person’s last reported residence. 
+
+       (c) The
+obligation to report under this subsection terminates if the conviction or
+adjudication that gave rise to the obligation is reversed or vacated or if the
+registrant is pardoned. 
+
+       (5) As part of
+the registration and reporting requirements of this section: 
+
+       (a) The person
+required to report shall: 
+
+       (A) Provide the
+information necessary to complete the sex offender registration form and sign
+the form as required; and 
+
+       (B) Submit to the
+requirements described in paragraph (b) of this subsection. 
+
+       (b) The
+Department of State Police, the city police department or the county sheriff’s
+office: 
+
+       (A) Shall
+photograph the person when the person initially reports under this section and
+each time the person reports annually under this section; 
+
+       (B) May
+photograph the person or any identifying scars, marks or tattoos located on the
+person when the person reports under any of the circumstances described in this
+section; and 
+
+       (C) Shall
+fingerprint the person if the person’s fingerprints are not included in the
+record file of the Department of State Police. [Formerly 181.807; 2019 c.430 §12] 
+
+   
+
+       163A.020
+Reporting by sex offender upon moving into state; reporting by certain
+nonresidents and certain residents. 
+(1)(a) When a person described in subsection (6) of this section moves into
+this state and is not otherwise required by ORS 163A.010, 163A.015 or 163A.025
+to report, the person shall report, in person, to the Department of State
+Police, a city police department or a county sheriff’s office, in the county of
+the person’s residence: 
+
+       (A) No later than
+10 days after moving into this state; 
+
+       (B) Within 10
+days of a change of residence; 
+
+       (C) Within 10
+days of a legal change of name; 
+
+       (D) Once each
+year within 10 days of the person’s birth date, regardless of whether the
+person changed residence; 
+
+       (E) Within 10
+days of the first day the person works at, carries on a vocation at or attends
+an institution of higher education; 
+
+       (F) Within 10
+days of a change in work, vocation or attendance status at an institution of
+higher education; and 
+
+       (G) At least 21
+days prior to any intended travel outside of the United States. 
+
+       (b) If a person
+required to report under this subsection has complied with the initial
+reporting requirement under paragraph (a)(A) of this subsection, the person
+shall subsequently report, in person, in the circumstances specified in
+paragraph (a) of this subsection, as applicable, to the Department of State
+Police, a city police department or a county sheriff’s office, in the county of
+the person’s last reported residence. 
+
+       (2)(a) When a
+person described in ORS 163A.010 (2) or 163A.015 (2) or subsection (6) of this
+section attends school or works in this state, resides in another state and is
+not otherwise required by ORS 163A.010, 163A.015 or 163A.025 to report, the
+person shall report, in person, to the Department of State Police, a city
+police department or a county sheriff’s office, in the county in which the
+school or place of work is located, no later than 10 days after: 
+
+       (A) The first day
+of school attendance or the 14th day of employment in this state; 
+
+       (B) A change in
+school enrollment or employment; and 
+
+       (C) A legal
+change of name. 
+
+       (b) As used in
+this subsection, “attends school” means enrollment in any type of school on a
+full-time or part-time basis. 
+
+       (3)(a) When a
+person described in subsection (6) of this section resides in this state at the
+time of the conviction or adjudication giving rise to the obligation to report,
+continues to reside in this state following the conviction or adjudication and
+is not otherwise required by ORS 163A.010, 163A.015 or 163A.025 to report, the
+person shall report, in person, to the Department of State Police, a city
+police department or a county sheriff’s office, in the county of the person’s
+residence: 
+
+       (A) Within 10
+days following: 
+
+       (i) Discharge,
+release on parole or release on any form of supervised or conditional release,
+from a jail, prison or other correctional facility or detention facility; or 
+
+       (ii) Discharge,
+release or placement on probation, by another United States court; 
+
+       (B) Within 10
+days of a change of residence; 
+
+       (C) Within 10
+days of a legal change of name; 
+
+       (D) Once each
+year within 10 days of the person’s birth date, regardless of whether the
+person has changed residence; 
+
+       (E) Within 10
+days of the first day the person works at, carries on a vocation at or attends
+an institution of higher education; 
+
+       (F) Within 10
+days of a change in work, vocation or attendance status at an institution of
+higher education; and 
+
+       (G) At least 21
+days prior to any intended travel outside of the United States. 
+
+       (b) If a person
+required to report under this subsection has complied with the applicable
+initial reporting requirement under paragraph (a)(A) of this subsection, the
+person shall subsequently report, in person, in the circumstances specified in
+paragraph (a) of this subsection, as applicable, to the Department of State
+Police, a city police department or a county sheriff’s office, in the county of
+the person’s last reported residence. 
+
+       (4) When a person
+reports under this section, the agency to which the person reports shall
+complete a sex offender registration form concerning the person. 
+
+       (5) The
+obligation to report under this section terminates if the conviction or
+adjudication that gave rise to the obligation is reversed or vacated or if the
+registrant is pardoned. 
+
+       (6) Subsections
+(1) to (5) of this section apply to a person convicted in another United States
+court of a crime: 
+
+       (a) That would
+constitute a sex crime if committed in this state; or 
+
+       (b) For which the
+person would have to register as a sex offender in that court’s jurisdiction,
+or as required under federal law, regardless of whether the crime would
+constitute a sex crime in this state. 
+
+       (7) As part of
+the registration and reporting requirements of this section: 
+
+       (a) The person
+required to report shall: 
+
+       (A) Provide the
+information necessary to complete the sex offender registration form and sign
+the form as required; and 
+
+       (B) Submit to the
+requirements described in paragraph (b) of this subsection. 
+
+       (b) The
+Department of State Police, the city police department or the county sheriff’s
+office: 
+
+       (A) Shall
+photograph the person when the person initially reports under this section,
+each time the person reports annually under subsection (1)(a)(D) or (3)(a)(D)
+of this section and each time the person reports under subsection (2)(a)(B) of
+this section; 
+
+       (B) May
+photograph the person or any identifying scars, marks or tattoos located on the
+person when the person reports under any of the circumstances described in this
+section; and 
+
+       (C) Shall
+fingerprint the person if the person’s fingerprints are not included in the
+record file of the Department of State Police. [Formerly 181.808; 2019 c.430 §13] 
+
+   
+
+       163A.025
+Reporting by sex offender adjudicated in juvenile court. (1) A person found to be within
+the jurisdiction of the juvenile court under ORS 419C.005, or found by the
+juvenile court to be responsible except for insanity under ORS 419C.411, for
+having committed an act that, if committed by an adult, would constitute a
+felony sex crime shall report as a sex offender as described in subsections (2)
+to (4) of this section, unless the juvenile court enters an order under ORS
+163A.130 or 163A.135 relieving the person of the obligation to report, if: 
+
+       (a) The person
+has been ordered under ORS 163A.030 to report as a sex offender; 
+
+       (b) The person
+was adjudicated, and the jurisdiction of the juvenile court or the Psychiatric
+Security Review Board over the person ended, prior to August 12, 2015; 
+
+       (c) The person
+was adjudicated prior to August 12, 2015, and the jurisdiction of the juvenile
+court or the Psychiatric Security Review Board over the person ended after
+August 12, 2015, and before April 4, 2016; or 
+
+       (d) The person
+has been found in a juvenile adjudication in another United States court to
+have committed an act while the person was under 18 years of age that would
+constitute a felony sex crime if committed in this state by an adult. 
+
+       (2) A person
+described in subsection (1)(a) or (d) of this section, or a person described in
+subsection (1)(c) of this section who did not make an initial report prior to
+April 4, 2016, who resides in this state shall make an initial report, in
+person, to the Department of State Police, a city police department or a county
+sheriff’s office as follows: 
+
+       (a) The person
+shall report no later than 10 days after the date of the court order requiring
+the person to report under ORS 163A.030; 
+
+       (b) If the person
+is adjudicated for the act giving rise to the obligation to report in another
+United States court and the person is found to have committed an act that if
+committed by an adult in this state would constitute: 
+
+       (A) A Class A or
+Class B felony sex crime: 
+
+       (i) If the person
+is not a resident of this state at the time of the adjudication, the person
+shall make the initial report to the Department of State Police, a city police
+department or a county sheriff’s office, in the county of the person’s
+residence, no later than 10 days after the date the person moves into this
+state; or 
+
+       (ii) If the
+person is a resident of this state at the time of the adjudication, the person
+shall make the initial report to the Department of State Police, a city police
+department or a county sheriff’s office, in the county of the person’s
+residence, no later than 10 days after the date the person is discharged,
+released or placed on probation or any other form of supervised or conditional
+release by the other United States court or, if the person is confined in a
+correctional facility by the other United States court, no later than 10 days
+after the date the person is discharged or otherwise released from the
+facility. 
+
+       (B) A Class C
+felony sex crime: 
+
+       (i) If the person
+is not a resident of this state at the time of the adjudication, the person
+shall make the initial report to the Department of State Police, a city police
+department or a county sheriff’s office, in the county of the person’s
+residence, no later than six months after the date the person moves into this
+state; or 
+
+       (ii) If the
+person is a resident of this state at the time of the adjudication, the person
+shall make the initial report to the Department of State Police, a city police
+department or a county sheriff’s office, in the county of the person’s
+residence, no later than 10 days after the date the person is discharged,
+released or placed on probation or any other form of supervised or conditional
+release by the other United States court or, if the person is confined in a
+correctional facility by the other United States court, no later than 10 days
+after the date the person is discharged or otherwise released from the
+facility; or 
+
+       (c) For persons
+described in subsection (1)(c) of this section who did not make an initial
+report prior to April 4, 2016, the person shall report no later than 120 days
+after April 4, 2016. 
+
+       (3) After making
+the initial report described in subsection (2) of this section or, for a person
+described in subsection (1)(c) of this section who made an initial report prior
+to April 4, 2016, or a person described in subsection (1)(b) of this section,
+beginning after April 4, 2016, the person shall report, in person, to the
+Department of State Police, a city police department or a county sheriff’s
+office, in the county of the person’s last reported residence: 
+
+       (a) Within 10
+days of a change of residence; 
+
+       (b) Within 10
+days of a legal change of name; 
+
+       (c) Once each
+year within 10 days of the person’s birth date, regardless of whether the
+person changed residence; 
+
+       (d) Within 10
+days of the first day the person works at, carries on a vocation at or attends
+an institution of higher education; 
+
+       (e) Within 10
+days of a change in work, vocation or attendance status at an institution of
+higher education; and 
+
+       (f) At least 21
+days prior to any intended travel outside of the United States. 
+
+       (4) When a person
+described in subsection (1) of this section attends school or works in this
+state, resides in another state and is not otherwise required to report as a
+sex offender under this section or ORS 163A.010, 163A.015 or 163A.020, the
+person shall report, in person, to the Department of State Police, a city
+police department or a county sheriff’s office, in the county in which the
+person attends school or works, no later than 10 days after: 
+
+       (a) The first day
+of school attendance or the 14th day of employment in this state; 
+
+       (b) A change in
+school enrollment or employment; and 
+
+       (c) A legal
+change of name. 
+
+       (5) The agency to
+which a person reports under this section shall complete a sex offender
+registration form concerning the person when the person reports under this
+section. 
+
+       (6) As part of
+the registration and reporting requirements of this section: 
+
+       (a) The person
+required to report shall: 
+
+       (A) Provide the
+information necessary to complete the sex offender registration form and sign
+the form as required; and 
+
+       (B) Submit to the
+requirements described in paragraph (b) of this subsection. 
+
+       (b) The
+Department of State Police, Oregon Youth Authority, county juvenile department,
+city police department or county sheriff’s office: 
+
+       (A) Shall
+photograph the person when the person initially reports under this section and
+each time the person reports annually under this section; 
+
+       (B) May
+photograph the person or any identifying scars, marks or tattoos located on the
+person when the person reports under any of the circumstances described in this
+section; and 
+
+       (C) Shall
+fingerprint the person if the person’s fingerprints are not included in the
+record file of the Department of State Police. 
+
+       (7) The
+obligation to report under this section is terminated if the adjudication that
+gave rise to the obligation is reversed or vacated. 
+
+       (8)
+Notwithstanding subsections (2) and (3) of this section: 
+
+       (a) The Oregon
+Youth Authority may authorize an adjudicated youth committed to its custody and
+supervision by order of the juvenile court, or a person placed in its physical
+custody under ORS 137.124 or any other provision of law, to report to the
+authority regardless of the adjudicated youth’s or the person’s last reported
+residence. 
+
+       (b) A county
+juvenile department may authorize an adjudicated youth or young person, as
+those terms are defined in ORS 419A.004, to report to the department,
+regardless of the county of the adjudicated youth’s or the young person’s last
+reported residence. 
+
+       (c) In the event
+that a person reports to the authority or the department under this subsection,
+the authority or the department shall register the person. [Formerly 181.809;
+2016 c.95 §1; 2019 c.430 §14; 2021 c.489 §14] 
+
+   
+
+       163A.030
+Hearing on issue of reporting by sex offender adjudicated in juvenile court;
+right to counsel. 
+(1)(a) Except as provided in subsection (6) of this section, the juvenile court
+shall hold a hearing on the issue of reporting as a sex offender by a person
+who has been found to be within the jurisdiction of the juvenile court under
+ORS 419C.005, or found by the juvenile court to be responsible except for
+insanity under ORS 419C.411, for having committed an act that if committed by
+an adult would constitute a felony sex crime if: 
+
+       (A) The person
+was adjudicated on or after August 12, 2015; or 
+
+       (B) The person
+was adjudicated before August 12, 2015, and was still under the jurisdiction of
+the juvenile court or the Psychiatric Security Review Board on April 4, 2016. 
+
+       (b) Unless the
+court continues the hearing described in this section for good cause, the
+hearing must be held: 
+
+       (A) During the
+six-month period before the termination of juvenile court jurisdiction over the
+person; or 
+
+       (B) During the
+six-month period after the court receives the notice described in subsection
+(2) of this section from the Psychiatric Security Review Board, if the person
+was placed under the jurisdiction of the board. 
+
+       (c) The court
+shall notify the person of the person’s right to a hearing under this section
+upon finding the person within the jurisdiction of the juvenile court under ORS
+419C.005. 
+
+       (2)(a) The county
+or state agency responsible for supervising the person shall notify the person
+and the juvenile court when the agency determines that termination of
+jurisdiction is likely to occur within six months. 
+
+       (b) If the
+Psychiatric Security Review Board discharges a person prior to the end of the
+board’s jurisdiction over the person, the board shall notify the juvenile court
+within three business days after the discharge date. 
+
+       (3) Upon receipt
+of the notice described in subsection (2) of this section, the court shall: 
+
+       (a) Appoint an attorney
+for the person as described in subsection (4) of this section; 
+
+       (b) Set an
+initial hearing date; and 
+
+       (c) Notify the
+parties and the juvenile department or the Psychiatric Security Review Board,
+if the department or board is supervising or has jurisdiction over the person,
+of the hearing at least 60 days before the hearing date. 
+
+       (4)(a) A person
+who is the subject of a hearing under this section has the right to be
+represented by a suitable attorney possessing skills and experience
+commensurate with the nature and complexity of the case, to consult with the
+attorney prior to the hearing and to have a suitable attorney appointed at
+state expense. 
+
+       (b) In order to
+comply with the right to counsel under paragraph (a) of this subsection, the
+court may: 
+
+       (A) Continue the
+appointment of the attorney appointed under ORS 419C.200 at the time of
+disposition; 
+
+       (B) Set a date
+prior to the hearing under this section in order to reappoint the attorney
+appointed under ORS 419C.200; or 
+
+       (C) Appoint or
+reappoint an attorney at any time in response to a request by the person who is
+the subject of a hearing under this section. 
+
+       (5)(a) The
+district attorney shall notify the victim prior to the hearing of the right to
+appear and the right to be heard under ORS 419C.273. 
+
+       (b) If the person
+is under the jurisdiction of the Psychiatric Security Review Board, the board
+shall notify the following of the hearing: 
+
+       (A) The mental
+health agency providing services to the person, if any; 
+
+       (B) The person’s
+board defense attorney; and 
+
+       (C) The assistant
+attorney general representing the state at board hearings. 
+
+       (6)(a) A person
+may waive the right to the hearing described in this section only after
+receiving the notice described in subsection (2)(a) of this section and after
+consultation with the person’s attorney. If the court finds that the person has
+knowingly waived the right to a hearing, the court shall enter an order
+requiring the person to report as a sex offender under ORS 163A.025. 
+
+       (b) If a person
+fails to appear at a hearing described in this section, the court may enter an
+order requiring the person to report as a sex offender under ORS 163A.025. 
+
+       (7) At the
+hearing described in subsection (1) of this section: 
+
+       (a) The district
+attorney, the victim, the person and the juvenile department or a
+representative of the Oregon Youth Authority shall have an opportunity to be
+heard. 
+
+       (b) The person
+who is the subject of the hearing has the burden of proving by clear and
+convincing evidence that the person is rehabilitated and does not pose a threat
+to the safety of the public. If the court finds that the person has not met the
+burden of proof, the court shall enter an order requiring the person to report
+as a sex offender under ORS 163A.025. 
+
+       (8) In
+determining whether the person has met the burden of proof, the juvenile court
+may consider but need not be limited to considering: 
+
+       (a) The extent
+and impact of any physical or emotional injury to the victim; 
+
+       (b) The nature of
+the act that subjected the person to the duty of reporting as a sex offender; 
+
+       (c) Whether the
+person used or threatened to use force in committing the act; 
+
+       (d) Whether the
+act was premeditated; 
+
+       (e) Whether the
+person took advantage of a position of authority or trust in committing the
+act; 
+
+       (f) The age of
+any victim at the time of the act, the age difference between any victim and
+the person and the number of victims; 
+
+       (g) The
+vulnerability of the victim; 
+
+       (h) Other acts
+committed by the person that would be crimes if committed by an adult and
+criminal activities engaged in by the person before and after the adjudication; 
+
+       (i) Statements,
+documents and recommendations by or on behalf of the victim or the parents of
+the victim; 
+
+       (j) The person’s
+willingness to accept personal responsibility for the act and personal
+accountability for the consequences of the act; 
+
+       (k) The person’s
+ability and efforts to pay the victim’s expenses for counseling and other
+trauma-related expenses or other efforts to mitigate the effects of the act; 
+
+       (L) Whether the
+person has participated in and satisfactorily completed a sex offender
+treatment program or any other intervention, and if so the juvenile court may
+also consider: 
+
+       (A) The
+availability, duration and extent of the treatment activities; 
+
+       (B) Reports and
+recommendations from the providers of the treatment; 
+
+       (C) The person’s
+compliance with court, board or supervision requirements regarding treatment;
+and 
+
+       (D) The quality
+and thoroughness of the treatment program; 
+
+       (m) The person’s
+academic and employment history; 
+
+       (n) The person’s
+use of drugs or alcohol before and after the adjudication; 
+
+       (o) The person’s
+history of public or private indecency; 
+
+       (p) The person’s
+compliance with and success in completing the terms of supervision; 
+
+       (q) The results
+of psychological examinations of the person; 
+
+       (r) The
+protection afforded the public by records of sex offender registration; and 
+
+       (s) Any other
+relevant factors. 
+
+       (9) In a hearing
+under this section, the juvenile court may receive testimony, reports and other
+evidence, without regard to whether the evidence is admissible under ORS 40.010
+to 40.210 and 40.310 to 40.585, if the evidence is relevant evidence related to
+the determination and findings required under this section. As used in this
+subsection, “relevant evidence” has the meaning given that term in ORS 40.150. 
+
+       (10)(a) In a
+hearing under this section, the Oregon Youth Authority or the juvenile
+department, if either agency is supervising the person, or the Psychiatric
+Security Review Board, if the board has jurisdiction over the person, shall
+file with the juvenile court the following records and materials in the
+possession of the agency or board at least 45 days prior to the hearing unless
+good cause is shown: 
+
+       (A) Evaluations
+and treatment records concerning the person conducted by a clinician or program
+operating under the standards of practice for the evaluation and treatment of
+juvenile sex offenders adopted by the Sexual Offense Treatment Board under ORS
+675.400, and recommendations contained therein regarding the need for the
+person to register in order to protect the public from future sex crimes; 
+
+       (B) All
+examination preparation material and examination records from polygraph
+examinations conducted by or for the treatment provider, juvenile department or
+Oregon Youth Authority; and 
+
+       (C) The
+Psychiatric Security Review Board exhibit file. 
+
+       (b) Any records
+and materials filed with the court under this subsection shall be made
+available to the parties in accordance with ORS 419A.255. 
+
+       (11)(a) When the
+juvenile court enters an order described in subsection (6)(a) or (7)(b) of this
+section, the court shall ensure that the person completes a form that documents
+the person’s obligation to report under ORS 163A.025. No later than three
+business days after the person completes the form required by this subsection,
+the court shall ensure that the form is sent to the Department of State Police. 
+
+       (b) If the court
+enters an order under this section, no later than three business days after
+entry of the order, the court shall ensure that the order is sent to the
+Department of State Police. 
+
+       (12)
+Notwithstanding ORS 419C.005 (4)(c), (d) and (e), the juvenile court retains
+jurisdiction over a person for purposes of this section. 
+
+       (13) As used in
+this section, “parties” means the person, the state as represented by the
+district attorney or the juvenile department, and the Oregon Youth Authority or
+other child care agency, if the person is temporarily committed to the
+authority or agency. [2015 c.820 §31; 2016 c.95 §2; 2019 c.68 §13; 2019 c.430 §17;
+2021 c.597 §33] 
+
+   
+
+       163A.035
+Registration forms; Department of State Police to provide; distribution of
+information; rules; fee. 
+(1) Agencies registering offenders under ORS 163A.010, 163A.015, 163A.020 and
+163A.025 shall use forms and procedures adopted by the Department of State
+Police by administrative rule. The department shall include places on the form
+to list all the names used by the offender and the address of the offender. No
+later than three working days after registration, the agency or official
+completing the form shall forward the registration information to the
+department in the manner prescribed by the department. 
+
+       (2) The
+department shall enter into the Law Enforcement Data System the sex offender
+information obtained from the sex offender registration forms. If a conviction
+or adjudication that gave rise to the registration obligation is reversed or
+vacated or if the registrant is pardoned, the department shall remove from the
+Law Enforcement Data System the sex offender information obtained from the
+form. 
+
+       (3) The Law
+Enforcement Data System may send sex offender information to the National Crime
+Information Center as part of the national sex offender registry in accordance
+with appropriate state and federal procedures. 
+
+       (4) If the person
+is no longer under supervision, the department shall verify the residence
+address of a person determined to be a sexually violent dangerous offender as
+defined in ORS 137.765 every 90 days by mailing a verification form to the
+person at the person’s last reported residence address. No later than 10 days
+after receiving the form, the person shall sign and return the form to the
+department. 
+
+       (5) The
+department shall assess a person who is required to report under ORS 163A.010,
+163A.015 or 163A.020 and who is not under supervision a fee of $70 each year.
+Moneys received by the department under this subsection are continuously
+appropriated to the department for the purpose of carrying out the department’s
+duties under ORS 163A.005 to 163A.235. [Formerly 181.810; 2021 c.597 §34] 
+
+   
+
+       163A.040
+Failure to report as sex offender; defense. (1) A person who is required to report as a sex
+offender in accordance with the applicable provisions of ORS 163A.010,
+163A.015, 163A.020 or 163A.025 and who has knowledge of the reporting
+requirement commits the crime of failure to report as a sex offender if the
+person: 
+
+       (a) Fails to make
+the initial report to an agency; 
+
+       (b) Fails to
+report when the person works at, carries on a vocation at or attends an
+institution of higher education; 
+
+       (c) Fails to
+report following a change of school enrollment or employment status, including
+enrollment, employment or vocation status at an institution of higher
+education; 
+
+       (d) Moves to a
+new residence and fails to report the move and the person’s new address; 
+
+       (e) Fails to
+report a legal change of name; 
+
+       (f) Fails to make
+an annual report; 
+
+       (g) Fails to
+provide complete and accurate information; 
+
+       (h) Fails to sign
+the sex offender registration form as required; 
+
+       (i) Fails or
+refuses to participate in a sex offender risk assessment as directed by the
+State Board of Parole and Post-Prison Supervision, Psychiatric Security Review
+Board, Oregon Health Authority or supervisory authority; 
+
+       (j) Fails to
+submit to fingerprinting or to having a photograph taken of the person’s face,
+identifying scars, marks or tattoos; or 
+
+       (k) Fails to
+report prior to any intended travel outside of the United States. 
+
+       (2)(a) It is an
+affirmative defense to a charge of failure to report under subsection (1)(d) of
+this section by a person required to report under ORS 163A.010 (3)(a)(B),
+163A.015 (4)(a)(B) or 163A.025 (3)(a) that the person reported, in person,
+within 10 days of a change of residence to the Department of State Police, a
+city police department or a county sheriff’s office, in the county of the
+person’s new residence, if the person otherwise complied with all reporting
+requirements. 
+
+       (b) It is an
+affirmative defense to a charge of failure to report under subsection (1)(a) of
+this section by a person required to report under ORS 163A.025 (2)(b)(A)(i)
+that the person reported, in person, to the Department of State Police in
+Marion County, Oregon, within 10 days of moving into this state. 
+
+       (c) It is an
+affirmative defense to a charge of failure to report under subsection (1)(a) of
+this section by a person required to report under ORS 163A.025 (2)(b)(B)(i)
+that the person reported, in person, to the Department of State Police in
+Marion County, Oregon, within six months of moving into this state. 
+
+       (d) It is an
+affirmative defense to a charge of failure to report under subsection (1) of
+this section by a person required to report under ORS 163A.025 (2)(b)(A)(ii) or
+(B)(ii) that the person reported, in person, to the Department of State Police
+in Marion County, Oregon, if the person otherwise complied with all reporting
+requirements. 
+
+       (e) It is an
+affirmative defense to a charge of failure to report under subsection (1) of
+this section by a person required to report under ORS 163A.025 (3) that the
+person reported, in person, to the Department of State Police, a city police
+department or a county sheriff’s office, in the county of the person’s
+residence, if the person otherwise complied with all reporting requirements. 
+
+       (f) It is an
+affirmative defense to a charge of failure to report under subsection (1) of
+this section by a person required to report under ORS 163A.010 (3) that the
+person reported to the Oregon Youth Authority if the person establishes that
+the authority registered the person under ORS 163A.010 (3)(c). 
+
+       (g) It is an
+affirmative defense to a charge of failure to report under subsection (1) of
+this section by a person required to report under ORS 163A.025 (2) or (3) that
+the person reported to the Oregon Youth Authority or a county juvenile
+department if the person establishes that the authority or department
+registered the person under ORS 163A.025 (8). 
+
+       (3)(a) Except as
+otherwise provided in paragraph (b) of this subsection, failure to report as a
+sex offender is a Class A misdemeanor. 
+
+       (b) Failure to
+report as a sex offender is a Class C felony if the person violates: 
+
+       (A) Subsection
+(1)(a) of this section; or 
+
+       (B) Subsection
+(1)(b), (c), (d), (e) or (h) of this section and the crime for which the person
+is required to report is a felony. 
+
+       (4) A person who
+fails to sign and return an address verification form as required by ORS
+163A.035 (4) commits a violation. [Formerly 181.812; 2016 c.95 §4a; 2017 c.418 §§1,2;
+2019 c.430 §§15,16] 
+
+   
+
+       163A.045
+Purpose of sex offender reporting obligation; rules. (1) The purpose of ORS 163A.005 to
+163A.235 is to assist law enforcement agencies in preventing future sex
+offenses. 
+
+       (2) The
+Department of State Police may adopt rules to carry out the responsibilities of
+the department under ORS 163A.005 to 163A.235. [Formerly 181.814] 
+
+   
+
+       163A.050
+Notice of reporting obligation to be given by court; procedure at intake. (1) When the court imposes
+sentence upon a person convicted of a sex crime or finds a person guilty except
+for insanity of a sex crime, the court shall notify the person of the
+obligation to report as a sex offender under ORS 163A.010 and 163A.015. 
+
+       (2) At the
+initial intake for incarceration or release on any type of supervised release,
+the sex offender shall complete a form that documents the offender’s obligation
+to report under ORS 163A.010 or 163A.015 and the effect described in ORS
+163A.115 of failing to submit to a sex offender risk assessment. The Department
+of State Police shall develop and provide the form. No later than three working
+days after the sex offender completes the form, the person responsible for the
+intake process shall send the form to the Department of State Police. [Formerly
+181.815; 2017 c.233 §1] 
+
+   
+
+       163A.055
+Notice required when offender moves to another state. When the Department of State
+Police learns that a person required to report under ORS 163A.010, 163A.015,
+163A.020 or 163A.025 is moving to another state, the department shall notify
+the appropriate criminal justice agency of that state of that fact. The
+department is not responsible for registering and tracking a person once the
+person has moved from this state. [Formerly 181.816] 
+
+   
+
+       163A.060
+Offender profiling. 
+(1) For those sex offenders classified as a level three sex offender under ORS
+163A.100 (3), or designated as a predatory sex offender prior to January 1,
+2014, the supervising agency or the agency making the classification or
+designation shall provide the Department of State Police, by electronic or
+other means, at the termination of supervision, with the following information
+for the purpose of offender profiling: 
+
+       (a) Presentence
+investigations; 
+
+       (b) Violation
+reports; 
+
+       (c) Parole and
+probation orders; 
+
+       (d) Conditions of
+parole and probation and other corrections records; 
+
+       (e) Sex offender
+risk assessments; and 
+
+       (f) Any other
+information that the supervising agency or the agency making the classification
+or designation determines is appropriate disclosure of which is not otherwise
+prohibited by law. 
+
+       (2) The Oregon
+Youth Authority and county juvenile departments shall provide access to
+information in their files to the Oregon State Police for the purpose of
+offender profiling. 
+
+       (3)(a) Except as
+otherwise provided by law, the Oregon State Police may not disclose information
+received under subsection (1) or (2) of this section. 
+
+       (b) The
+Department of State Police may release information on the methodology of
+offenses and behavior profiles derived from information received under
+subsection (1) or (2) of this section to local law enforcement agencies. [Formerly
+181.817] 
+
+   
+
+       163A.065
+Immunity. A public
+agency and its employees are immune from liability, both civil and criminal,
+for the good faith performance of the agency’s or employee’s duties under ORS
+163A.005 to 163A.235. [Formerly 181.818] 
+
+   
+
+ CLASSIFICATION 
+
+   
+
+       163A.100 Risk
+assessment methodology; rules. 
+The State Board of Parole and Post-Prison Supervision shall, in consultation
+with community corrections agencies, adopt by rule a sex offender risk
+assessment methodology for use in classifying sex offenders. The methodology
+may consider exclusively the risk the sex offender presented at the time the
+sex offender was released from custody, sentenced or otherwise discharged from
+the jurisdiction of a court of this state, or another United States court, for
+the crime or act for which the sex offender is required to report. Application
+of the risk assessment methodology to a sex offender must result in placing the
+sex offender in one of the following levels: 
+
+       (1) A level one
+sex offender who presents, or presented at the time of release, sentencing or
+discharge, the lowest risk of reoffending and requires a limited range of
+notification. 
+
+       (2) A level two
+sex offender who presents, or presented at the time of release, sentencing or
+discharge, a moderate risk of reoffending and requires a moderate range of
+notification. 
+
+       (3) A level three
+sex offender who presents, or presented at the time of release, sentencing or
+discharge, the highest risk of reoffending and requires the widest range of
+notification. [Formerly 181.800; 2025 c.187 §1] 
+
+   
+
+       Note: Sections 3 and 4, chapter 187,
+Oregon Laws 2025, provide: 
+
+       Sec. 3. The amendments to ORS 163A.100 by
+section 1 of this 2025 Act apply to sex offenders released from custody,
+sentenced or otherwise discharged from the jurisdiction of a court of this
+state, or another United States court, for the crime or act for which the sex
+offender is required to report, before, on or after the effective date of this
+2025 Act [May 27, 2025]. [2025 c.187 §3] 
+
+       Sec. 4. The State Board of Parole and
+Post-Prison Supervision may reassess and reclassify, in accordance with the
+amendments to ORS 163A.100 by section 1 of this 2025 Act, any sex offender who
+was previously assessed and classified on or after July 10, 2024. [2025 c.187 §4] 
+
+   
+
+       163A.105 When
+risk assessments performed; classification into risk level; review; rules. (1) When a person convicted of a
+crime described in ORS 163.355 to 163.427 is sentenced to a term of
+imprisonment in a Department of Corrections institution for that crime, the
+State Board of Parole and Post-Prison Supervision shall assess the person utilizing
+the risk assessment methodology described in ORS 163A.100. The board shall
+apply the results of the assessment to place the person in one of the levels
+described in ORS 163A.100 before the person is released from custody. 
+
+       (2) When a person
+convicted of a sex crime is sentenced to a term of incarceration in a jail, or
+is discharged, released or placed on probation by the court, the supervisory
+authority as defined in ORS 144.087 shall assess the person utilizing the risk
+assessment methodology described in ORS 163A.100 and apply the results of the
+assessment to place the person in one of the levels described in ORS 163A.100
+no later than 90 days after the person is released from jail or discharged,
+released or placed on probation by the court. 
+
+       (3)(a) When a
+person is found guilty except for insanity of a sex crime, the Psychiatric
+Security Review Board shall assess the person utilizing the risk assessment
+methodology described in ORS 163A.100 and apply the results of the assessment
+to place the person in one of the levels described in ORS 163A.100 no later
+than 90 days after the person is: 
+
+       (A) Placed on
+conditional release by the Psychiatric Security Review Board; 
+
+       (B) Discharged
+from the jurisdiction of the Psychiatric Security Review Board; 
+
+       (C) Placed on
+conditional release by the court pursuant to ORS 161.327; or 
+
+       (D) Discharged by
+the court pursuant to ORS 161.329. 
+
+       (b) If the State
+Board of Parole and Post-Prison Supervision previously completed a risk
+assessment and assigned a classification level described in ORS 163A.100 for a
+person described in paragraph (a) of this subsection, the Psychiatric Security
+Review Board need not complete a reassessment for an initial classification. 
+
+       (c) The court
+shall notify the Psychiatric Security Review Board when the court conditionally
+releases or discharges a person described in paragraph (a) of this subsection. 
+
+       (d) The
+Psychiatric Security Review Board shall notify the State Board of Parole and
+Post-Prison Supervision no later than seven days after the Psychiatric Security
+Review Board conditionally releases or discharges a person who has a prior sex
+crime conviction that obligates the person to report as a sex offender, unless
+the person has also been found guilty except for insanity of a sex crime that
+obligates the person to report as a sex offender. 
+
+       (4)(a) Within 90
+days after receiving notice of a person’s obligation to report in this state
+from the Department of State Police, the State Board of Parole and Post-Prison
+Supervision shall assess the person utilizing the risk assessment methodology
+described in ORS 163A.100 and apply the results of the assessment to place the
+person in one of the levels described in ORS 163A.100 if the person has been
+convicted in another United States court of a crime: 
+
+       (A) That would
+constitute a sex crime if committed in this state; or 
+
+       (B) For which the
+person would have to register as a sex offender in that court’s jurisdiction,
+or as required under federal law, regardless of whether the crime would
+constitute a sex crime in this state. 
+
+       (b) If a person
+has been convicted of a sex crime and was sentenced to a term of imprisonment
+in a Department of Corrections institution for that sex crime, but was not
+subjected to a risk assessment utilizing the risk assessment methodology
+described in ORS 163A.100 before release under subsection (1) of this section,
+within 90 days after the person’s release the State Board of Parole and
+Post-Prison Supervision shall assess the person utilizing the risk assessment
+methodology described in ORS 163A.100 and apply the results of the assessment
+to place the person in one of the levels described in ORS 163A.100. 
+
+       (5) When the
+State Board of Parole and Post-Prison Supervision, the Psychiatric Security
+Review Board or a supervisory authority applies the results of a risk
+assessment to place a person in one of the levels described in ORS 163A.100,
+the agency shall notify the Department of State Police of the results of the
+risk assessment within three business days after the agency’s classification.
+Upon receipt, the Department of State Police shall enter the results of the
+risk assessment into the Law Enforcement Data System. 
+
+       (6) The State
+Board of Parole and Post-Prison Supervision, the Psychiatric Security Review
+Board or a supervisory authority may reassess or reclassify a person placed in
+one of the levels described in ORS 163A.100 under this section if: 
+
+       (a) The
+classifying board or authority determines that a factual mistake caused an
+erroneous assessment or classification; or 
+
+       (b) The person
+has committed a sexually motivated rule violation while in custody, has
+committed a sexually motivated violation of a condition of probation, parole or
+post-prison supervision or has been arrested for or charged with a sex crime. 
+
+       (7)(a) A person
+classified under this section as a level two or level three sex offender as
+described in ORS 163A.100 may petition the classifying board or authority for
+review. Except for good cause shown, the petition may be filed no later than 60
+days after the notice of the classification is provided to the person or, if
+the notice is mailed, no later than 60 days after the notice is sent. 
+
+       (b) When good
+cause is shown, the time for filing a petition under this subsection may not be
+extended more than 60 days beyond the date of the person’s next annual report
+under ORS 163A.010, 163A.015 or 163A.020. 
+
+       (c) Upon receipt
+of a petition described in this subsection, the classifying board or authority
+shall afford the person an opportunity to be heard as to all factual questions
+related to the classification. 
+
+       (d) After
+providing the person with notice and an opportunity to be heard in accordance
+with this subsection, the board or authority shall classify the person in
+accordance with the classifications described in ORS 163A.100, based on all of
+the information available to the classifying board or authority. 
+
+       (e) As used in
+this subsection, “good cause” means that, due to a person’s transience, lack of
+housing, ongoing mental health concerns or other similar circumstances, a
+notice mailed to the person under paragraph (a) of this subsection was not
+received by the person. 
+
+       (8)(a) If the
+State Board of Parole and Post-Prison Supervision, the Psychiatric Security
+Review Board or a supervisory authority does not classify a person under ORS
+163A.100 because the person has failed or refused to participate in a sex
+offender risk assessment as directed by the board or authority, the classifying
+board or authority shall classify the person as a level three sex offender
+under ORS 163A.100 (3). 
+
+       (b) If a person
+classified as a level three sex offender under this subsection notifies the
+classifying board or authority of the willingness to participate in a sex
+offender risk assessment, the classifying board or authority shall perform the
+assessment and classify the person in one of the levels described in ORS
+163A.100. 
+
+       (9) The State
+Board of Parole and Post-Prison Supervision and the Psychiatric Security Review
+Board may adopt rules to carry out the provisions of this section. [Formerly
+181.801; 2017 c.442 §30; 2017 c.488 §2; 2019 c.430 §19; 2025 c.187 §2] 
+
+   
+
+       163A.110
+Applicability of ORS 163A.105. 
+(1) ORS 163A.105 applies to persons for whom the event triggering the
+obligation to make an initial report under ORS 163A.010 (3)(a)(A), 163A.015
+(4)(a)(A) or 163A.020 (1)(a)(A), (2)(a)(A) or (3)(a)(A) occurs on or after
+January 1, 2014. 
+
+       (2) As used in
+this section, “event triggering the obligation to make an initial report”
+means: 
+
+       (a) If the
+initial report is described in ORS 163A.010 (3)(a)(A): 
+
+       (A) Discharge,
+parole or release on any form of supervised or conditional release from a jail,
+prison or other correctional facility in this state; 
+
+       (B) Parole to
+this state under ORS 144.610 after being convicted in another United States
+court of a crime that would constitute a sex crime if committed in this state;
+or 
+
+       (C) Discharge by
+the court under ORS 161.329. 
+
+       (b) If the
+initial report is described in ORS 163A.015 (4)(a)(A), discharge, release or
+placement on probation: 
+
+       (A) By the court;
+or 
+
+       (B) To or in this
+state under ORS 144.610 after being convicted in another United States court of
+a crime that would constitute a sex crime if committed in this state. 
+
+       (c) If the
+initial report is described in ORS 163A.020 (1)(a)(A), moving into this state. 
+
+       (d) If the
+initial report is described in ORS 163A.020 (2)(a)(A), the first day of school
+attendance or the 14th day of employment in this state. 
+
+       (e) If the
+initial report is described in ORS 163A.020 (3)(a)(A): 
+
+       (A) Discharge,
+release on parole or release on any form of supervised or conditional release,
+from a jail, prison or other correctional facility or detention facility; or 
+
+       (B) Discharge,
+release or placement on probation, by another United States court. [Formerly
+181.802; 2017 c.488 §5] 
+
+   
+
+       Note: Section 7, chapter 708, Oregon
+Laws 2013, provides: 
+
+       Sec. 7.
+Existing registrants. 
+(1) As used in this section and ORS 163A.200 to 163A.210: 
+
+       (a) “Event
+triggering the obligation to make an initial report” has the meaning given that
+term in ORS 163A.110. 
+
+       (b) “Existing
+registrant” means a person for whom the event triggering the obligation to make
+an initial report under ORS 163A.010 (3)(a)(A), 163A.015 (4)(a)(A) or 163A.020
+(1)(a)(A), (2)(a)(A) or (3)(a)(A) occurs before January 1, 2014. 
+
+       (2)(a) No later
+than December 1, 2026, the State Board of Parole and Post-Prison Supervision
+shall classify existing registrants in one of the levels described in ORS
+163A.100. The Department of State Police shall enter the results of the
+classifications described in this section into the Law Enforcement Data System
+within a reasonable time after receipt. 
+
+       (b) The board
+shall classify an existing registrant as a level three sex offender under ORS
+163A.100 (3), if: 
+
+       (A) The person
+was previously designated a predatory sex offender and the designation was made
+after the person was afforded notice and an opportunity to be heard as to all
+factual questions at a meaningful time and in a meaningful manner; or 
+
+       (B) The person is
+a sexually violent dangerous offender under ORS 137.765. 
+
+       (c) The
+Psychiatric Security Review Board may complete the risk assessment of an
+existing registrant who is under the jurisdiction of the Psychiatric Security
+Review Board, regardless of whether the person has been found guilty except for
+insanity of a sex crime or was previously convicted of a sex crime, if the
+State Board of Parole and Post-Prison Supervision and the Psychiatric Security
+Review Board mutually agree that the Psychiatric Security Review Board has
+adequate resources to perform the assessment and that the performance of the
+assessment by the Psychiatric Security Review Board would assist in classifying
+the existing registrant in a more timely manner. 
+
+       (3) As soon as
+practicable following the classification of an existing registrant under this
+section, the classifying board shall notify the person of the classification by
+mail. 
+
+       (4)(a) An
+existing registrant who seeks review of a classification made under this
+section as a level two or level three sex offender as described in ORS 163A.100
+may petition the classifying board for review. The petition may be filed no
+later than 60 days after the board provides the notice described in subsection
+(3) of this section. 
+
+       (b) Upon receipt
+of a petition described in this subsection, the classifying board shall afford
+the person an opportunity to be heard as to all factual questions related to
+the classification. 
+
+       (c) After
+providing the person with notice and an opportunity to be heard in accordance
+with this subsection, the board shall classify the person in accordance with
+the classifications described in ORS 163A.100, based on all of the information
+available to the classifying board. 
+
+       (5) The boards
+shall adopt rules to carry out the provisions of this section. 
+
+       (6) An existing
+registrant may not petition for reclassification or relief from the obligation
+to report as a sex offender as provided in ORS 163A.125 until either all
+existing registrants have been classified in one of the levels described in ORS
+163A.100 or December 1, 2018, whichever occurs first. 
+
+       (7)
+Notwithstanding ORS 163A.225 or any other provision of law, the Department of
+State Police may until December 1, 2018, continue to use the Internet to make
+information available to the public concerning any adult sex offender
+designated as predatory as authorized by the law in effect on December 31,
+2013. 
+
+       (8)(a) If the
+State Board of Parole and Post-Prison Supervision or the Psychiatric Security
+Review Board does not classify an existing registrant under ORS 163A.100
+because the person has failed or refused to participate in a sex offender risk
+assessment as directed by the State Board of Parole and Post-Prison Supervision
+or the Psychiatric Security Review Board, the appropriate board shall classify
+the person as a level three sex offender under ORS 163A.100 (3). 
+
+       (b) If an
+existing registrant classified as a level three sex offender under this
+subsection notifies the State Board of Parole and Post-Prison Supervision or
+the Psychiatric Security Review Board of the willingness to participate in a
+sex offender risk assessment, the appropriate board shall perform the
+assessment and classify the existing registrant in one of the levels described
+in ORS 163A.100. 
+
+       (9) The State
+Board of Parole and Post-Prison Supervision or the Psychiatric Security Review
+Board may reassess or reclassify an existing registrant placed in one of the
+levels described in ORS 163A.100 under this section if the classifying board
+determines that a factual mistake caused an erroneous assessment or
+classification. [2013 c.708 §7; 2015 c.820 §27; 2017 c.442 §31; 2017 c.488 §1;
+2019 c.430 §1] 
+
+   
+
+       Note: Sections 2 and 22, chapter 430,
+Oregon Laws 2019, provide: 
+
+       Sec. 2. Beginning February 1, 2021, and
+biennially thereafter, the State Board of Parole and Post-Prison Supervision
+shall report to the Legislative Assembly, in the manner provided in ORS
+192.245, on: 
+
+       (1) The progress
+made in assessing and classifying existing registrants as defined in section 7,
+chapter 708, Oregon Laws 2013, and other sex offenders the board is directed to
+assess and classify under ORS 163A.105, 163A.110 and 163A.115; and 
+
+       (2) Efforts to
+reduce the cost and increase the efficiency and accuracy of the assessments.
+[2019 c.430 §2] 
+
+       Sec. 22. Section 2 of this 2019 Act is
+repealed on December 1, 2026. [2019 c.430 §22] 
+
+   
+
+       163A.115 When
+certain classification required; persons ineligible for relief from reporting
+obligation.  Notwithstanding
+any other provision of law: 
+
+       (1) A person who
+is a sexually violent dangerous offender under ORS 137.765: 
+
+       (a) Must be
+classified as a level three sex offender under ORS 163A.100 (3); and 
+
+       (b) Is not
+eligible for relief from the obligation to report as a sex offender or
+reclassification as a level two sex offender under ORS 163A.100 (2), pursuant
+to a petition filed under ORS 163A.125. 
+
+       (2) A person who
+has been convicted or found guilty except for insanity of one of the following
+offenses is not eligible for relief from the obligation to report as a sex
+offender pursuant to a petition filed under ORS 163A.125 (1): 
+
+       (a) Rape in the
+first degree; 
+
+       (b) Sodomy in the
+first degree; 
+
+       (c) Unlawful
+sexual penetration in the first degree; 
+
+       (d) Kidnapping in
+the first degree as described in ORS 163.235 (1)(e) or when the victim is under
+18 years of age; or 
+
+       (e) Burglary in
+the first degree when committed with the intent to commit any of the offenses
+listed in ORS 163A.005 (5)(a) to (y). 
+
+       (3) A person
+classified as a level three sex offender under section 7 (2)(b), chapter 708,
+Oregon Laws 2013, is not eligible for relief from the obligation to report as a
+sex offender pursuant to a petition filed under ORS 163A.125 (1). [Formerly
+181.803; 2023 c.200 §5; 2024 c.63 §2] 
+
+   
+
+       163A.120 [Formerly 181.820; repealed by
+2013 c.708 §34, 2015 c.820 §28 and 2017 c.488 §3] 
+
+   
+
+ RECLASSIFICATION AND RELIEF
+FROM REPORTING 
+
+   
+
+       163A.125
+Relief from reporting obligation for sex offenders classified under ORS
+163A.100; reclassification; procedure. 
+(1)(a) A person who is required to report as a sex offender under ORS 163A.010,
+163A.015 or 163A.020 due to a conviction for a sex crime and is classified as a
+level one sex offender under ORS 163A.100 (1) may petition the State Board of
+Parole and Post-Prison Supervision to relieve the person from the obligation to
+report as a sex offender under ORS 163A.010, 163A.015 or 163A.020. 
+
+       (b) A person who
+is required to report as a sex offender under ORS 163A.010, 163A.015 or
+163A.020 due to being found guilty except for insanity under ORS 161.295 for a
+sex crime, and is classified as a level one sex offender under ORS 163A.100
+(1), may petition the Psychiatric Security Review Board to relieve the person
+from the obligation to report as a sex offender under ORS 163A.010, 163A.015 or
+163A.020. 
+
+       (c)(A) Except as
+otherwise provided in subparagraph (B) of this paragraph, a person described in
+paragraph (a) or (b) of this subsection may file the petition no sooner than
+five years after the date supervision for the sex crime is terminated or, if
+the person was not subject to supervision for the sex crime, five years after
+the date the person was discharged from the jurisdiction of the court,
+Psychiatric Security Review Board or Oregon Health Authority. 
+
+       (B) A person who
+was reclassified under subsection (2) of this section from a level two sex
+offender under ORS 163A.100 (2) to a level one sex offender under ORS 163A.100
+(1) may file the petition no sooner than five years after the date of
+reclassification. 
+
+       (d)
+Notwithstanding paragraph (c) of this subsection, if a person is required to
+report because of a conviction or finding of guilty except for insanity from
+another United States court as that term is defined in ORS 163A.005, the person
+may not petition for relief from reporting as a sex offender in Oregon unless
+the laws of the jurisdiction where the person was convicted or found guilty
+except for insanity would permit a petition for relief from reporting as a sex
+offender. 
+
+       (2)(a) A person
+who is required to report as a sex offender under ORS 163A.010, 163A.015 or
+163A.020 due to a conviction for a sex crime and is classified as a level three
+sex offender under ORS 163A.100 (3) may petition the State Board of Parole and
+Post-Prison Supervision to reclassify the person as a level two sex offender
+under ORS 163A.100 (2). 
+
+       (b) A person who
+is required to report as a sex offender under ORS 163A.010, 163A.015 or
+163A.020 due to being found guilty except for insanity under ORS 161.295 for a
+sex crime, and is classified as a level three sex offender under ORS 163A.100
+(3), may petition the Psychiatric Security Review Board to reclassify the
+person as a level two sex offender under ORS 163A.100 (2). 
+
+       (c) A person who
+is required to report as a sex offender under ORS 163A.010, 163A.015 or
+163A.020 due to a conviction for a sex crime and is classified as a level two
+sex offender under ORS 163A.100 (2) may petition the State Board of Parole and
+Post-Prison Supervision to reclassify the person as a level one sex offender
+under ORS 163A.100 (1). 
+
+       (d) A person who
+is required to report as a sex offender under ORS 163A.010, 163A.015 or
+163A.020 due to being found guilty except for insanity under ORS 161.295 for a sex
+crime, and is classified as a level two sex offender under ORS 163A.100 (2),
+may petition the Psychiatric Security Review Board to reclassify the person as
+a level one sex offender under ORS 163A.100 (1). 
+
+       (e) The petition
+described in this subsection may be filed no sooner than 10 years after the
+date supervision for the sex crime is terminated or, if the person was not
+subject to supervision for the sex crime, 10 years after the date the person
+was discharged from the jurisdiction of the court, Psychiatric Security Review
+Board or Oregon Health Authority. 
+
+       (3)(a) The State
+Board of Parole and Post-Prison Supervision or the Psychiatric Security Review
+Board shall deny a petition filed under this section if, at any time after the
+person is convicted or found guilty except for insanity of a sex crime, the person
+is convicted of or found guilty except for insanity of a person felony or a
+person Class A misdemeanor, as those terms are defined in the rules of the
+Oregon Criminal Justice Commission. 
+
+       (b) The
+appropriate board shall deny a petition filed under subsection (2)(c) or (d) of
+this section if the board has previously reclassified the person as a level two
+sex offender under ORS 163A.100 (2) as the result of a petition filed under
+subsection (2)(a) or (b) of this section. 
+
+       (4)(a) Except as
+otherwise provided in subsection (3) of this section, if a person files a
+petition under subsection (1) of this section, the State Board of Parole and
+Post-Prison Supervision or the Psychiatric Security Review Board shall hold a
+hearing. At the hearing, the board shall enter an order relieving the person of
+the obligation to report as a sex offender under ORS 163A.010, 163A.015 or
+163A.020 if the board determines, by clear and convincing evidence, that the
+person: 
+
+       (A) Is
+statistically unlikely to reoffend; and 
+
+       (B) Does not pose
+a threat to the safety of the public. 
+
+       (b)(A) Except as
+otherwise provided in subsection (3) of this section, if a person files a
+petition under subsection (2)(a) or (b) of this section, the State Board of
+Parole and Post-Prison Supervision or the Psychiatric Security Review Board
+shall hold a hearing. At the hearing, the board shall enter an order
+reclassifying the person as a level two sex offender under ORS 163A.100 (2) if,
+after completion of a new risk assessment utilizing the risk assessment
+methodology described in ORS 163A.100, the person is classified as presenting a
+low or moderate risk of reoffending and the board determines that a lower level
+of notification is sufficient to protect public safety. 
+
+       (B) Except as
+otherwise provided in subsection (3) of this section, if a person files a
+petition under subsection (2)(c) or (d) of this section, the State Board of
+Parole and Post-Prison Supervision or the Psychiatric Security Review Board
+shall hold a hearing. At the hearing, the board shall enter an order
+reclassifying the person as a level one sex offender under ORS 163A.100 (1) if,
+after completion of a new risk assessment utilizing the risk assessment
+methodology described in ORS 163A.100, the person is classified as presenting a
+low risk of reoffending and the board determines that a lower level of
+notification is sufficient to protect public safety. 
+
+       (5) In making the
+determinations described in subsection (4) of this section, the State Board of
+Parole and Post-Prison Supervision or the Psychiatric Security Review Board
+shall consider: 
+
+       (a) The nature of
+and degree of violence involved in the offense that requires reporting; 
+
+       (b) The age and
+number of victims of the offense that requires reporting; 
+
+       (c) The age of
+the person at the time of the offense that requires reporting; 
+
+       (d) The length of
+time since the offense that requires reporting and the time period during which
+the person has not reoffended; 
+
+       (e) The person’s
+performance on supervision for the offense that requires reporting; 
+
+       (f) Whether the
+person has participated in or successfully completed a court-approved sex
+offender treatment program or any other rehabilitative programs; 
+
+       (g) The person’s
+stability in employment and housing; 
+
+       (h) The person’s
+community and personal support system; 
+
+       (i) Other
+criminal and relevant noncriminal behavior of the person both before and after
+the offense that requires reporting; and 
+
+       (j) Any other
+relevant factors. 
+
+       (6)(a) The
+Attorney General may represent the state at a hearing conducted under this
+section unless the district attorney of the county in which the person was
+convicted or, if the conviction for which the person is required to report as a
+sex offender was entered in another United States court, the district attorney
+of the county in which the person resides, elects to represent the state. 
+
+       (b) If a district
+attorney elects to represent the state, the district attorney shall give timely
+written notice of the election to the Attorney General, the State Board of
+Parole and Post-Prison Supervision or the Psychiatric Security Review Board and
+the person who is the subject of the hearing. 
+
+       (c) If the
+district attorney declines to represent the state, the district attorney shall
+cooperate with the Attorney General in securing the material necessary to
+represent the state. 
+
+       (7)(a) When the
+State Board of Parole and Post-Prison Supervision or the Psychiatric Security
+Review Board enters an order under this section relieving a person of the
+obligation to report as a sex offender under ORS 163A.010, 163A.015 or 163A.020
+or enters an order reclassifying a person as a level two sex offender under ORS
+163A.100 (2) or as a level one sex offender under ORS 163A.100 (1), the board
+shall forward a copy of the order to the Department of State Police. 
+
+       (b) Upon receipt
+of an order relieving a person of the obligation to report, the department
+shall remove from the Law Enforcement Data System the sex offender information
+obtained from the sex offender registration form submitted under ORS 163A.010,
+163A.015 or 163A.020. 
+
+       (c) Upon receipt
+of an order reclassifying a person as a level two sex offender under ORS
+163A.100 (2) or as a level one sex offender under ORS 163A.100 (1), the
+department shall update the Law Enforcement Data System to reflect the
+reclassification. 
+
+       (8) The State
+Board of Parole and Post-Prison Supervision and the Psychiatric Security Review
+Board shall adopt rules to carry out the provisions of this section. The rules
+may include a filing fee in an amount determined by the appropriate board. All
+fees paid under this subsection shall be deposited into the General Fund and
+credited to the account of the appropriate board. 
+
+       (9) As used in
+this section, “supervision” means probation, parole, post-prison supervision or
+any other form of supervised or conditional release. [Formerly 181.821] 
+
+   
+
+       163A.130
+Relief from reporting obligation for juvenile offenders adjudicated in Oregon. (1) A person required to report as
+a sex offender under ORS 163A.025 (1)(a), (b) or (c), or required to report as
+a sex offender under the laws of another state as a result of an adjudication
+in an Oregon juvenile court, may file a petition for an order relieving the
+person of the obligation to report. If the person resides: 
+
+       (a) In this state
+and is required to report under ORS 163A.025 (2) or (3), the petition must be
+filed in the juvenile court in which the person was adjudicated for the act
+that requires reporting. 
+
+       (b) In another
+state and is required to report under ORS 163A.025 (4), the petition must be
+filed in the juvenile court in the county in which the person attends school or
+works. 
+
+       (c) In another
+state and is required to report under the laws of the other state, the petition
+must be filed in the juvenile court in which the person was adjudicated for the
+act that requires reporting. 
+
+       (2) If the act
+giving rise to the obligation to report would constitute: 
+
+       (a) A Class A or
+Class B felony sex crime if committed by an adult, the petition may be filed no
+sooner than two years after the termination of juvenile court jurisdiction over
+the person or, if the person is placed under the jurisdiction of the Psychiatric
+Security Review Board, no sooner than two years after the person is discharged
+from the jurisdiction of the board. 
+
+       (b) A Class C
+felony sex crime if committed by an adult, the petition may be filed no sooner
+than 30 days before the termination of juvenile court jurisdiction over the
+person or, if the person is placed under the jurisdiction of the Psychiatric
+Security Review Board, no sooner than 30 days before the person is discharged
+from the jurisdiction of the board. 
+
+       (3)(a) The
+juvenile court in which a petition under this section is filed may transfer the
+matter to the juvenile court of the county that last supervised the person if
+the court determines that the convenience of the parties, the victim and
+witnesses require the transfer. 
+
+       (b) The juvenile
+court has exclusive original jurisdiction in any proceeding under this section. 
+
+       (c) The person,
+the district attorney and the juvenile department are parties to a hearing on a
+petition filed under this section. 
+
+       (4) The person
+filing the petition has the burden of proving by clear and convincing evidence
+that the person is rehabilitated and does not pose a threat to the safety of
+the public. In determining whether the person has met the burden of proof, the
+juvenile court may consider but need not be limited to considering: 
+
+       (a) The extent
+and impact of any physical or emotional injury to the victim; 
+
+       (b) The nature of
+the act that subjected the person to the obligation of reporting as a sex
+offender; 
+
+       (c) Whether the
+person used or threatened to use force in committing the act; 
+
+       (d) Whether the
+act was premeditated; 
+
+       (e) Whether the
+person took advantage of a position of authority or trust in committing the
+act; 
+
+       (f) The age of
+any victim at the time of the act, the age difference between any victim and
+the person and the number of victims; 
+
+       (g) The
+vulnerability of the victim; 
+
+       (h) Other acts
+committed by the person that would be crimes if committed by an adult and
+criminal activities engaged in by the person before and after the adjudication; 
+
+       (i) Statements,
+documents and recommendations by or on behalf of the victim or the parents of
+the victim; 
+
+       (j) The person’s
+willingness to accept personal responsibility for the act and personal
+accountability for the consequences of the act; 
+
+       (k) The person’s
+ability and efforts to pay the victim’s expenses for counseling and other
+trauma-related expenses or other efforts to mitigate the effects of the act; 
+
+       (L) Whether the
+person has participated in and satisfactorily completed a sex offender
+treatment program or any other intervention, and if so the juvenile court may
+also consider: 
+
+       (A) The
+availability, duration and extent of the treatment activities; 
+
+       (B) Reports and
+recommendations from the providers of the treatment; 
+
+       (C) The person’s
+compliance with court, board or supervision requirements regarding treatment;
+and 
+
+       (D) The quality
+and thoroughness of the treatment program; 
+
+       (m) The person’s
+academic and employment history; 
+
+       (n) The person’s
+use of drugs or alcohol before and after the adjudication; 
+
+       (o) The person’s
+history of public or private indecency; 
+
+       (p) The person’s
+compliance with and success in completing the terms of supervision; 
+
+       (q) The results
+of psychological examinations of the person; 
+
+       (r) The
+protection afforded the public by the continued existence of the records; and 
+
+       (s) Any other
+relevant factors. 
+
+       (5) In a hearing
+under this section, the juvenile court may receive testimony, reports and other
+evidence without regard to whether the evidence is admissible under ORS 40.010
+to 40.210 and 40.310 to 40.585 if the evidence is relevant to the determination
+and findings required under this section. As used in this subsection, “relevant
+evidence” has the meaning given that term in ORS 40.150. 
+
+       (6) When a
+petition is filed under this section, the state has the right to have a
+psychosexual evaluation of the person conducted. The state shall file notice
+with the juvenile court of its intention to have the person evaluated. If the
+person objects to the evaluator chosen by the state, the juvenile court for
+good cause shown may direct the state to select a different evaluator. 
+
+       (7) As soon as
+practicable after a petition has been filed under this section, the district
+attorney or juvenile department shall make a reasonable effort to notify the
+victim of the crime that the person has filed a petition seeking relief under
+this section and, if the victim has requested, to inform the victim of the
+date, time and place of a hearing on the petition in advance of the hearing. 
+
+       (8)(a) When a
+petition filed under this section is filed: 
+
+       (A) While the
+person is under the jurisdiction of the juvenile court or the Psychiatric
+Security Review Board or less than three years after the date the jurisdiction
+is terminated, the court shall hold a hearing no sooner than 60 days and no
+later than 120 days after the date of filing. 
+
+       (B) Three years
+or more after the date the juvenile court or board jurisdiction is terminated,
+the court shall hold a hearing no sooner than 90 days and no later than 150
+days after the date of filing. 
+
+       (b)
+Notwithstanding paragraph (a) of this subsection, upon a showing of good cause,
+the court may extend the period of time in which a hearing on the petition must
+be held. 
+
+       (9)(a) When the
+person proves by clear and convincing evidence that the person is rehabilitated
+and does not pose a threat to the safety of the public, the court shall grant
+the petition. 
+
+       (b)
+Notwithstanding paragraph (a) of this subsection, the court may not grant a
+petition filed under this section before the date the juvenile court or board
+jurisdiction over the person is terminated. 
+
+       (10) When a
+juvenile court enters an order relieving a person of the requirement to report
+under ORS 163A.025, the person shall send a certified copy of the juvenile
+court order to the Department of State Police. 
+
+       (11) If a person
+commits an act for which the person could be waived under ORS 419C.349 (1)(a)
+and the person is 15, 16 or 17 years of age at the time the act is committed,
+the state and the person may stipulate that the person may not petition for
+relief under this section as part of an agreement that the state not file a
+motion requesting waiver under ORS 419C.349 (1)(a). 
+
+       (12) When a
+petition is filed under subsection (2)(b) of this section before the
+termination of juvenile court or board jurisdiction, the court shall appoint
+suitable counsel to represent the person for purposes of the petition described
+in this section if the appointment of counsel is requested by the person or, if
+the person is under 18 years of age, by the parent or guardian of the person.
+Appointment of counsel under this subsection is subject to ORS 419C.200,
+419C.206 and 419C.209. [Formerly 181.823; 2016 c.95 §5; 2019 c.634 §9; 2021
+c.597 §35] 
+
+   
+
+       163A.135
+Relief from reporting obligation for juvenile offenders adjudicated in another
+United States jurisdiction. 
+(1) Except as provided in subsection (7) of this section, a person required to
+report under ORS 163A.025 (1)(d) may file a petition in the juvenile court for
+an order relieving the person of the duty to report. If the person resides: 
+
+       (a) In this state
+and is required to report under ORS 163A.025 (2) or (3), the petition must be
+filed in the juvenile court of the county in which the person resides. 
+
+       (b) In another
+state and is required to report under ORS 163A.025 (4), the petition must be
+filed in the juvenile court of the county in which the person attends school or
+works. 
+
+       (2) If the act
+giving rise to the obligation to report would constitute: 
+
+       (a) A Class A or
+Class B felony sex crime if committed in this state by an adult, the petition
+may be filed no sooner than two years after the termination of the other United
+States court’s jurisdiction over the person. 
+
+       (b) A Class C
+felony sex crime if committed in this state by an adult, the petition may be
+filed no sooner than 30 days before the termination of the other United States
+court’s jurisdiction over the person. 
+
+       (3) The person
+filing the petition must submit with the petition all releases and waivers
+necessary to allow the district attorney for the county in which the petition
+is filed to obtain the following documents from the jurisdiction in which the
+person was adjudicated for the act for which reporting is required: 
+
+       (a) The juvenile
+court petition; 
+
+       (b) The
+dispositional report to the court; 
+
+       (c) The order of
+adjudication or jurisdiction; 
+
+       (d) Any other
+relevant court documents; 
+
+       (e) The police
+report relating to the act for which reporting is required; 
+
+       (f) The order
+terminating jurisdiction for the act for which reporting is required; and 
+
+       (g) The
+evaluation and treatment records or reports of the person that are related to
+the act for which reporting is required. 
+
+       (4) A person
+filing a petition under this section has the burden of proving by clear and
+convincing evidence that the person is rehabilitated and does not pose a threat
+to the safety of the public. 
+
+       (5) Unless the
+court finds good cause for a continuance, the court shall hold a hearing on the
+petition no sooner than 90 days and no later than 150 days after the date the
+petition is filed. 
+
+       (6) If a person
+who files a petition under this section is required to report as a sex offender
+for having committed an act that if committed in this state could have
+subjected the person to waiver under ORS 419C.349 (1)(a), the court may not
+grant the petition notwithstanding the fact that the person has met the burden
+of proof established in subsection (4) of this section unless the court
+determines that to do so is in the interest of public safety. 
+
+       (7) This section
+does not apply to a person who is required to register as a sex offender for
+life in the jurisdiction in which the offense occurred. 
+
+       (8) In a hearing
+under this section, the court may receive testimony, reports and other evidence
+without regard to whether the evidence is admissible under ORS 40.010 to 40.210
+and 40.310 to 40.585 if the evidence is relevant to the determination and findings
+required under this section. As used in this subsection, “relevant evidence”
+has the meaning given that term in ORS 40.150. 
+
+       (9) If the court
+is satisfied by clear and convincing evidence that the person is rehabilitated
+and that the person does not pose a threat to the safety of the public, the
+court shall enter an order relieving the person of the duty to report. When the
+court enters an order under this subsection, the person shall send a certified
+copy of the court order to the Department of State Police. [Formerly 181.826;
+2016 c.95 §6; 2019 c.634 §10; 2021 c.597 §36] 
+
+   
+
+       163A.140
+Relief from reporting obligation; circumstances; order. A person otherwise required to
+report under ORS 163A.010, 163A.015, 163A.020 or 163A.025 is not required to
+report, and if currently reporting is no longer required to report, if: 
+
+       (1)(a) The person
+has been convicted of: 
+
+       (A) Rape in the
+third degree as defined in ORS 163.355; 
+
+       (B) Sodomy in the
+third degree as defined in ORS 163.385; 
+
+       (C) Sexual abuse
+in the third degree as defined in ORS 163.415; 
+
+       (D) Sexual abuse
+in the second degree as defined in ORS 163.425; 
+
+       (E) Contributing
+to the sexual delinquency of a minor as defined in ORS 163.435; 
+
+       (F) Sexual
+misconduct as defined in ORS 163.445; or 
+
+       (G) An attempt to
+commit an offense listed in subparagraphs (A) to (F) of this paragraph; 
+
+       (b) The person
+has been found guilty except for insanity of an offense listed in paragraph (a)
+of this subsection; 
+
+       (c) The person
+has been found to be within the jurisdiction of the juvenile court for having
+committed an act that if committed by an adult would constitute an offense
+listed in paragraph (a)(A), (B) or (D) of this subsection; or 
+
+       (d) The person is
+paroled to this state under ORS 144.610 after being convicted in another United
+States court of a crime that would constitute an offense listed in paragraph
+(a) of this subsection; 
+
+       (2)(a) The person
+is less than five years older than the victim; 
+
+       (b) The victim’s
+lack of consent was due solely to incapacity to consent by reason of being less
+than a specified age; 
+
+       (c) The victim
+was at least 14 years of age at the time of the offense or act; 
+
+       (d) Except for
+the convictions or findings described in subsection (1) of this section, the
+person has not been convicted of, found guilty except for insanity of, or found
+to be within the jurisdiction of the juvenile court based on, a sex crime or an
+offense, in another United States court, for conduct that if committed in this
+state would constitute a sex crime; and 
+
+       (e) Each
+conviction or finding described in subsection (1) of this section involved the
+same victim; and 
+
+       (3) The court
+enters an order relieving the person of the requirement to report under ORS
+163A.145 or 163A.150. [Formerly 181.830; 2021 c.410 §2] 
+
+   
+
+       163A.145
+Procedure for relief under ORS 163A.140; upon conviction or adjudication. (1) When a person is convicted of
+an offense or adjudicated for an act described in ORS 163A.140 (1), the court
+shall determine whether the person is required to report under ORS 163A.010 or
+163A.015. 
+
+       (2) The court
+shall enter an order relieving the person of the requirement to report, unless: 
+
+       (a) The court
+finds by a preponderance of the evidence that the person does not meet the
+eligibility requirements described in ORS 163A.140; or 
+
+       (b) The district
+attorney and the person stipulate that the person is required to report. 
+
+       (3) The state has
+the burden of proving that the person does not meet the eligibility
+requirements described in ORS 163A.140. 
+
+       (4) If the court
+relieves the person from the requirement to report, the person shall send a
+certified copy of the court order to the Department of State Police. [Formerly
+181.832] 
+
+   
+
+       163A.150
+Procedure for relief under ORS 163A.140; after conviction or adjudication;
+testimony of victim. 
+(1) A person who meets the criteria described in ORS 163A.140 and seeks relief
+from the requirement to report under ORS 163A.010, 163A.015 or 163A.020 shall: 
+
+       (a) If the person
+was convicted in this state of the offense or adjudicated in this state for the
+act giving rise to the obligation to report, file a petition for relief from
+the requirement to report with the circuit court of the county in which the person
+was convicted or adjudicated and serve a copy of the petition on the district
+attorney for that county. 
+
+       (b) If the person
+was convicted in another United States court of the offense or adjudicated in
+another United States court for the act giving rise to the obligation to
+report, file a petition for relief from the requirement to report and
+declaration of eligibility under penalty of perjury in the form required by
+ORCP 1 E with the circuit court of the county in which the person resides and
+serve a copy of the petition and declaration on the district attorney for that
+county. 
+
+       (2) A person
+filing a petition under subsection (1) of this section must pay the filing fee
+established under ORS 21.135. The court shall schedule a hearing more than 90
+days from the date of the filing. The court shall notify the person and the
+district attorney of the date of the hearing. 
+
+       (3)(a) Upon
+receipt of the petition described in subsection (1)(a) of this section, or the
+receipt of petition and declaration described in subsection (1)(b) of this
+section, the district attorney shall determine whether the district attorney
+contests the request for relief. 
+
+       (b) If the
+district attorney does not contest the request for relief, the district
+attorney shall submit an order to the court relieving the person of the
+reporting requirements described in ORS 163A.010, 163A.015 or 163A.020. The
+court shall grant the petition. 
+
+       (c) If the
+district attorney contests the request for relief, the district attorney shall
+notify the person of that determination within 90 days after receipt of the
+petition and, if required under subsection (1)(b) of this section, the
+declaration. 
+
+       (4) At the
+hearing, the person has the burden of proving that the person meets the
+eligibility requirements described in ORS 163A.140. 
+
+       (5)(a) At the
+hearing, the victim of the offense or act giving rise to the obligation to
+report: 
+
+       (A) May testify
+voluntarily upon request. 
+
+       (B) May be
+compelled by the person to testify only if the court issues an order allowing a
+subpoena upon the motion of the person. 
+
+       (b) A copy of the
+motion for a subpoena under this subsection must be served on the district
+attorney. 
+
+       (c) The court may
+not issue an order allowing a subpoena under this subsection unless the person
+can demonstrate good cause by showing that the victim’s testimony is material
+and favorable to the person’s request for relief. 
+
+       (d) If the court
+grants an order allowing a subpoena under this subsection, the court may allow
+the victim to appear by telephone or other communication device approved by the
+court. 
+
+       (6)(a) If the
+court finds, by a preponderance of the evidence, that the person meets the
+eligibility requirements described in ORS 163A.140, the court shall enter an
+order granting the request for relief from the requirement to report. 
+
+       (b) If the court
+does not make the finding described in paragraph (a) of this subsection, the
+court shall enter an order denying the request for relief. 
+
+       (7)(a) If the
+court relieves the person from the requirement to report, the person shall send
+a certified copy of the court order to the Department of State Police. 
+
+       (b) Upon receipt
+of the order, the Department of State Police shall remove from the Law
+Enforcement Data System the sex offender information obtained from the sex
+offender registration form submitted under ORS 163A.010, 163A.015 or 163A.020. 
+
+       (8) The order
+entered under subsection (6) of this section is not subject to appeal. 
+
+       (9) The Oregon
+Evidence Code and the Oregon Rules of Civil Procedure do not apply to the
+hearing described in subsection (2) of this section. [Formerly 181.833; 2021
+c.274 §2] 
+
+   
+
+ PROVISION OF RECORDS BY
+AGENCIES 
+
+   
+
+       163A.200
+Provision of records by Psychiatric Security Review Board and Oregon Health
+Authority. (1)
+Notwithstanding ORS 179.505, the Psychiatric Security Review Board and the
+Oregon Health Authority shall provide to the State Board of Parole and
+Post-Prison Supervision any records that would assist the State Board of Parole
+and Post-Prison Supervision in: 
+
+       (a) Performing an
+initial classification of a person into one of the three levels described in
+ORS 163A.100, as required by ORS 163A.105; 
+
+       (b) Deciding
+whether to reclassify a person as a level one or a level two sex offender or
+relieve the person from the obligation to report as a sex offender, as
+described in ORS 163A.125; or 
+
+       (c) Conducting a
+risk assessment of a person who is an existing registrant to classify the
+person into one of the three levels described in ORS 163A.100, as required by
+section 7, chapter 708, Oregon Laws 2013. 
+
+       (2) The State
+Board of Parole and Post-Prison Supervision may not release any records
+obtained pursuant to this section to any other agency or person unless
+authorized by law to do so. [2015 c.820 §19] 
+
+   
+
+       Note: 163A.200 to 163A.210 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 163A or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation. 
+
+   
+
+       163A.205
+Provision of records by Oregon Health Authority. (1) Notwithstanding ORS 179.505,
+the Oregon Health Authority shall provide to the Psychiatric Security Review
+Board any records that would assist the board in: 
+
+       (a) Performing an
+initial classification of a person into one of the three levels described in
+ORS 163A.100, as required by ORS 163A.105; 
+
+       (b) Deciding
+whether to reclassify a person as a level one or a level two sex offender or
+relieve the person from the obligation to report as a sex offender, as
+described in ORS 163A.125; or 
+
+       (c) Conducting a
+risk assessment of a person who is an existing registrant to classify the
+person into one of the three levels described in ORS 163A.100, as required by
+section 7, chapter 708, Oregon Laws 2013. 
+
+       (2) The board may
+not release any records obtained pursuant to this section to any other agency
+or person unless authorized by law to do so. [2015 c.820 §20] 
+
+   
+
+       Note: See note under 163A.200. 
+
+   
+
+       163A.210
+Provision of records by Oregon Youth Authority and juvenile department. Notwithstanding ORS 419A.257 or
+any other provision of law, the Oregon Youth Authority and the juvenile
+department may disclose and provide copies of reports and other materials
+relating to a child, ward, youth or adjudicated youth’s history and prognosis
+to the Psychiatric Security Review Board or the State Board of Parole and
+Post-Prison Supervision in order for the boards to determine whether to
+reclassify the person as a level one or a level two sex offender or relieve the
+person from the obligation to report as a sex offender, as described in ORS
+163A.125, or whether to classify a person who is an existing registrant into
+one of the three levels described in ORS 163A.100, as required by section 7,
+chapter 708, Oregon Laws 2013. [2015 c.820 §21; 2017 c.442 §32; 2017 c.488 §6;
+2021 c.489 §15] 
+
+   
+
+       Note: See note under 163A.200. 
+
+   
+
+ RELEASE OF INFORMATION 
+
+   
+
+       163A.215
+Release of sex offender information according to classification. (1)(a) A notifying agency or a
+supervising agency shall release, upon request, any information that may be
+necessary to protect the public concerning sex offenders who reside in a
+specific area or concerning a specific sex offender. 
+
+       (b) A notifying
+agency or a supervising agency may release sex offender information to a law
+enforcement agency if the notifying agency or supervising agency determines
+that the release of information is in the public interest. 
+
+       (c) In addition
+to the release of information described in this subsection and ORS 137.540,
+144.260 and 441.373, a notifying agency or a supervising agency may release sex
+offender information to the public in accordance with subsections (2) to (4) of
+this section. 
+
+       (2) If the sex
+offender is classified as a level three sex offender under ORS 163A.100 (3): 
+
+       (a) The
+Department of State Police shall release sex offender information on a website
+maintained by the department; and 
+
+       (b) The
+supervising agency or a notifying agency may release sex offender information
+to: 
+
+       (A) A person that
+resides with the sex offender; 
+
+       (B) A person with
+whom the sex offender has a significant relationship; 
+
+       (C) Residential
+neighbors and churches, community parks, schools and child care centers,
+convenience stores, businesses and other places that children or other
+potential victims may frequent; 
+
+       (D) A long term
+care facility, as defined in ORS 442.015, or a residential care facility, as
+defined in ORS 443.400, if the agency knows that the sex offender is seeking
+admission to the facility; and 
+
+       (E) Local or
+regional media sources. 
+
+       (3)
+Notwithstanding subsection (2)(a) of this section, the Department of State
+Police may not use the Internet to make available to the public information
+concerning a sex offender classified as a level three sex offender under ORS
+163A.100 (3) while the person is under the supervision of the Psychiatric
+Security Review Board, unless the department is authorized to do so by a
+request of the supervising agency. 
+
+       (4) If the sex
+offender is classified as a level two sex offender under ORS 163A.100 (2), the
+supervising agency or a notifying agency may release sex offender information
+to the persons or entities described in subsection (2)(b)(A) to (D) of this
+section. 
+
+       (5) If the sex
+offender is classified as a level one sex offender under ORS 163A.100 (1), the
+supervising agency or a notifying agency may release sex offender information
+to a person described in subsection (2)(b)(A) of this section. 
+
+       (6) As used in
+this section: 
+
+       (a) “Notifying
+agency” means the Department of State Police, a city police department, a
+county sheriff’s office or a police department established by a university
+under ORS 352.121. 
+
+       (b) “Sex offender
+information” means information that the Department of State Police determines
+by rule is appropriate for release to the public. 
+
+       (c) “Supervising
+agency” means a governmental entity responsible for supervising a person
+required to report as a sex offender under ORS 163A.010 or 163A.015. [Formerly
+181.835; 2017 c.442 §33] 
+
+   
+
+       163A.220
+Internet website. 
+The Department of State Police shall consider: 
+
+       (1) Contracting
+with a private vendor to build and maintain the website required by ORS
+163A.215 (2)(a). 
+
+       (2) Adding links
+on the website required by ORS 163A.215 (2)(a) that connect to other sex
+offender websites run by Oregon counties and by the federal government. [Formerly
+181.836] 
+
+   
+
+       163A.225
+Release of information concerning sex offender adjudicated in juvenile court. (1)(a) Except as otherwise
+provided in this section, when a sex offender is under the supervision of the
+Oregon Youth Authority or a county juvenile department for the first time as a
+result of committing an act that if committed by an adult would constitute a
+sex crime, the Department of State Police, city police department or county
+sheriff’s office shall release, upon request, only: 
+
+       (A) The sex
+offender’s name and year of birth; 
+
+       (B) The name and
+zip code of the city where the sex offender resides; 
+
+       (C) The name and
+telephone number of a contact person at the agency that is supervising the sex
+offender; and 
+
+       (D) The name of
+institutions of higher education that the sex offender attends or at which the
+sex offender works or carries on a vocation. 
+
+       (b)
+Notwithstanding paragraph (a) of this section, the Oregon Youth Authority or a
+county juvenile department shall release, upon request, any information that
+may be necessary to protect the public concerning a sex offender under the
+supervision of the authority or department. 
+
+       (2) Except as
+otherwise limited by subsection (1)(a) of this section regarding persons who
+are under supervision for the first time as sex offenders, the Department of
+State Police, a city police department or a county sheriff’s office shall
+release, upon request, any information that may be necessary to protect the
+public concerning sex offenders required to report under ORS 163A.025 who
+reside in a specific area or concerning a specific sex offender required to
+report under ORS 163A.025. However, the entity releasing the information may
+not release the identity of a victim of a sex crime. 
+
+       (3)(a) The
+Department of State Police may make the information described in subsections
+(1) and (2) of this section available to the public, without the need for a
+request, by electronic or other means. The Department of State Police shall
+make information about a person who is under supervision for the first time as
+a result of committing an act that if committed by an adult would constitute a
+sex crime accessible only by the use of the sex offender’s name. For all other
+sex offenders required to report under ORS 163A.025, the Department of State
+Police may make the information accessible in any manner the department
+chooses. 
+
+       (b)
+Notwithstanding paragraph (a) of this subsection, the Department of State
+Police may not use the Internet to make information available to the public. [Formerly
+181.837] 
+
+   
+
+       163A.230
+Victim access to sex offender information; toll-free telephone number. (1)(a) When information about a
+person is first entered into the Law Enforcement Data System under ORS
+163A.035, the person will be assigned a registry identification number. 
+
+       (b) A victim
+shall be issued a victim identification number and shall be given the registry
+identification number of the person who committed the crime against the victim: 
+
+       (A) At any time,
+upon request by the victim; and 
+
+       (B) Upon
+verification of the identification of the victim. 
+
+       (2) The
+Department of State Police shall establish a toll-free telephone number to
+provide victims with updates on the prison status, release information, parole
+status and any other information authorized for release under ORS 163A.005 to
+163A.235 regarding the person who committed the crime against the victim. The
+telephone line shall be operational within the state during normal working
+hours. 
+
+       (3) Access of the
+victim to the telephone line shall be revoked if the victim makes public, or
+otherwise misuses, information received. 
+
+       (4) When a victim
+receives notification under ORS 144.750 of upcoming parole release hearings, or
+at any other time that the victim is notified concerning the offender, the
+victim shall be provided a notice of rights under this section and information
+about the toll-free telephone number. [Formerly 181.843] 
+
+   
+
+       163A.235
+Agreements to resolve concerns about community notification. Upon the request of the Department
+of State Police, a city police department, a county sheriff’s office or a
+supervising agency, a supervising agency or an agency having responsibility for
+community notification shall enter into agreements to resolve concerns
+regarding community notification. As used in this section: 
+
+       (1) “Community
+notification” means the disclosure of information to the public as provided in
+ORS 163A.005 to 163A.235. 
+
+       (2) “Supervising
+agency” means a governmental entity responsible for supervising a person
+required to report under ORS 163A.010, 163A.015 or 163A.025. [Formerly 181.845] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

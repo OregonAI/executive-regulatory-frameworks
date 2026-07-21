@@ -106,31 +106,141 @@ def graph():
     return _GRAPH
 
 
+# ---------- semantic layer (optional) ----------
+# The vector index is a committed, offline-built artifact (src/build_embeddings.py).
+# Everything here is best-effort: if numpy, the artifact, or the query embedder is
+# missing — or the committed vectors no longer match the corpus — semantic search is
+# silently unavailable and search_corpus falls back to pure FTS keyword ranking. This
+# keeps the base install stdlib-only and the CI selftest running without extra deps.
+
+_SEM = "unset"  # "unset" -> not tried; None -> unavailable; tuple -> loaded
+
+
+def _semantic_index():
+    """(np, vectors_int8, doc_ids, embedder, meta) or None. Cached after first call."""
+    global _SEM
+    if _SEM != "unset":
+        return _SEM
+    try:
+        import numpy as np
+        from build_embeddings import CHUNKS, META, VECTORS, make_embedder
+        meta = json.loads(META.read_text())
+        vecs = np.load(VECTORS)
+        doc_ids = [json.loads(line)["doc_id"]
+                   for line in CHUNKS.read_text(encoding="utf-8").splitlines() if line]
+        if vecs.shape[0] != len(doc_ids):
+            raise ValueError("vectors/chunks length mismatch")
+        embedder = make_embedder(meta["backend"], meta["dim"], meta.get("model"))
+        _SEM = (np, vecs, doc_ids, embedder, meta)
+    except Exception:
+        _SEM = None
+    return _SEM
+
+
+def semantic_available() -> bool:
+    return _semantic_index() is not None
+
+
+def _semantic_doc_order(query: str, want: int) -> list[str]:
+    """Doc ids ranked by best-chunk cosine similarity to the query (empty if the
+    semantic index is unavailable)."""
+    idx = _semantic_index()
+    if not idx:
+        return []
+    np, vecs, doc_ids, embedder, _meta = idx
+    q = embedder.encode([query])[0].astype(np.float32)
+    scores = vecs.astype(np.float32) @ q          # cosine (all rows L2-normalized)
+    best: dict[str, float] = {}
+    for i in np.argsort(-scores):
+        d = doc_ids[i]
+        if d not in best:                          # first hit = this doc's best chunk
+            best[d] = float(scores[i])
+            if len(best) >= want:
+                break
+    return sorted(best, key=lambda d: -best[d])
+
+
+def _rrf(rankings: list[list[str]], k: int = 60) -> list[str]:
+    """Reciprocal-rank fusion of several ranked id lists."""
+    score: dict[str, float] = {}
+    for ranking in rankings:
+        for rank, did in enumerate(ranking):
+            score[did] = score.get(did, 0.0) + 1.0 / (k + rank + 1)
+    return sorted(score, key=lambda d: -score[d])
+
+
 # ---------- tools ----------
 
-def search_corpus(query: str, doc_type: str | None = None, agency: str | None = None,
-                  limit: int = 10) -> list[dict]:
-    con = ensure_index()
-    # sanitize into quoted terms (implicit AND) so FTS5 syntax chars can't error
+def _fts_rows(con, query, doc_type, agency, limit):
+    """Keyword rows: {id: (snippet, title, citation, doc_type, agency, path, bm25)}
+    in bm25 order."""
     terms = re.findall(r"[\w.\-]+", query)
     if not terms:
-        return []
+        return {}, []
     match = " ".join(f'"{t}"' for t in terms)
     sql = ("SELECT f.id, snippet(fts, 5, '[', ']', ' … ', 24), d.title, d.citation, "
            "d.doc_type, d.agency, d.path, bm25(fts) FROM fts f "
            "JOIN docs d ON d.id = f.id WHERE fts MATCH ?")
     args = [match]
     if doc_type:
-        sql += " AND d.doc_type = ?"
-        args.append(doc_type)
+        sql += " AND d.doc_type = ?"; args.append(doc_type)
     if agency:
-        sql += " AND d.agency = ?"
-        args.append(agency)
+        sql += " AND d.agency = ?"; args.append(agency)
     sql += " ORDER BY bm25(fts) LIMIT ?"
     args.append(max(1, min(int(limit), 40)))
-    rows = con.execute(sql, args).fetchall()
-    return [{"id": r[0], "title": r[2], "citation": r[3], "doc_type": r[4],
-             "agency": r[5], "path": r[6], "snippet": r[1][:400]} for r in rows]
+    rows = {r[0]: r for r in con.execute(sql, args).fetchall()}
+    order = sorted(rows, key=lambda i: rows[i][7])
+    return rows, order
+
+
+def _doc_meta_row(con, doc_id):
+    return con.execute("SELECT id, title, citation, doc_type, agency, path "
+                       "FROM docs WHERE id = ?", (doc_id,)).fetchone()
+
+
+def search_corpus(query: str, doc_type: str | None = None, agency: str | None = None,
+                  limit: int = 10, mode: str = "hybrid") -> list[dict]:
+    """Ranked search over the corpus.
+
+    mode: 'hybrid' (default) fuses BM25 keyword + semantic vector ranking via RRF;
+    'keyword' is FTS5/BM25 only; 'semantic' is vector-only. Hybrid/semantic silently
+    degrade to keyword when the vector index is unavailable (see build_embeddings.py)."""
+    con = ensure_index()
+    n = max(1, min(int(limit), 40))
+    pool = max(n * 4, 40)
+    rows, kw_order = _fts_rows(con, query, doc_type, agency, pool)
+
+    use_sem = mode in ("hybrid", "semantic") and semantic_available()
+    if not use_sem:
+        final = kw_order[:n]
+    else:
+        sem_order = _semantic_doc_order(query, pool)
+        # honor doc_type/agency filters on semantic hits (FTS applied them in SQL)
+        if doc_type or agency:
+            keep = []
+            for d in sem_order:
+                mr = _doc_meta_row(con, d)
+                if mr and (not doc_type or mr[3] == doc_type) and (not agency or mr[4] == agency):
+                    keep.append(d)
+            sem_order = keep
+        if mode == "semantic":
+            final = sem_order[:n]
+        else:
+            final = _rrf([kw_order, sem_order])[:n]
+
+    out = []
+    for i in final:
+        r = rows.get(i)
+        if r:
+            out.append({"id": r[0], "title": r[2], "citation": r[3], "doc_type": r[4],
+                        "agency": r[5], "path": r[6], "snippet": r[1][:400]})
+        else:  # semantic-only hit (not in the keyword result set)
+            mr = _doc_meta_row(con, i)
+            if mr:
+                out.append({"id": mr[0], "title": mr[1], "citation": mr[2],
+                            "doc_type": mr[3], "agency": mr[4], "path": mr[5],
+                            "snippet": "(semantic match — no keyword overlap)"})
+    return out
 
 
 def _doc_row(doc_id: str):

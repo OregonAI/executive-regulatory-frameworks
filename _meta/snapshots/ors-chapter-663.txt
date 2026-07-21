@@ -1,0 +1,1474 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+663 — Labor Relations Generally 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ LABOR RELATIONS GENERALLY 
+
+   
+
+ LABOR, EMPLOYMENT; UNLAWFUL
+DISCRIMINATION 
+
+   
+
+ ELECTIONS 
+
+   
+
+ 663.005     Definitions 
+
+   
+
+ 663.010     “Collective bargaining”
+defined 
+
+   
+
+ 663.015     Designated collective
+bargaining representatives to be exclusive; grievances excepted 
+
+   
+
+ 663.020     Determination of
+appropriate unit for purposes of collective bargaining 
+
+   
+
+ 663.025     Filing of
+representation petition; investigation; hearing; election 
+
+   
+
+ 663.030     Conduct of
+representation election 
+
+   
+
+ 663.035     Filing of
+deauthorization petition; election; limitation 
+
+   
+
+ 663.040     Filing charge of
+illegal election practice; investigation; new election 
+
+   
+
+ 663.045     Obtaining advisory
+opinions on assertion of federal jurisdiction; findings of board to be public
+records 
+
+   
+
+ UNFAIR LABOR PRACTICES 
+
+   
+
+ 663.100     Determination of agent 
+
+   
+
+ 663.105     Supervisory personnel
+as union members 
+
+   
+
+ 663.110     Employee organization,
+bargaining rights; union security agreements; payments to charitable
+institutions in lieu of union dues and other fees 
+
+   
+
+ 663.115     Right to strike 
+
+   
+
+ 663.120     Employer unfair labor
+practices 
+
+   
+
+ 663.125     Other employer unfair
+labor practices 
+
+   
+
+ 663.127     Union security
+agreements 
+
+   
+
+ 663.130     Union unfair labor
+practices 
+
+   
+
+ 663.135     Excessive membership
+fee 
+
+   
+
+ 663.140     Encouraging certain
+strikes; refusals to handle products 
+
+   
+
+ 663.145     Refusal to enter upon
+premises where strike in progress; truthful strike publicity not prohibited 
+
+   
+
+ 663.150     Picketing to force
+recognition of or bargaining with union 
+
+   
+
+ 663.155     Contract with employer
+to refrain from dealing in products of another employer 
+
+   
+
+ 663.160     Expression of views not
+containing threats or promises of benefit not unfair labor practice 
+
+   
+
+ 663.165     Procedure for
+terminating or modifying existing collective bargaining contract; notice;
+negotiation meetings 
+
+   
+
+ 663.170     Unfair labor practice
+provisions not retroactive 
+
+   
+
+ REMEDIES 
+
+   
+
+ 663.175     Authority of board to
+prevent unfair labor practices; authority not to affect other lawful adjustment
+means 
+
+   
+
+ 663.180     Filing of charges of
+unfair practice; fees; board investigation; issuance of complaints 
+
+   
+
+ 663.185     Amendment of complaint;
+filing answer; intervenors; fees; conduct of proceedings 
+
+   
+
+ 663.190     Record of testimony at
+hearings 
+
+   
+
+ 663.195     Orders and findings of
+board 
+
+   
+
+ 663.200     Employee reinstatement
+orders; reports showing compliance with orders 
+
+   
+
+ 663.205     Modification, setting
+aside orders by board; contents of record in certain representation matters 
+
+   
+
+ 663.210     Enforcement of orders
+by Court of Appeals; injunctive relief; notice of filing enforcement petition;
+authority of court in reviewing order 
+
+   
+
+ 663.215     Scope of court review
+of order; additional evidence; modification of findings by board 
+
+   
+
+ 663.220     Appeal of board’s order
+to Court of Appeals; authority of court in reviewing order 
+
+   
+
+ 663.225     Hearing of petitions;
+review proceedings not to stay board’s order 
+
+   
+
+ 663.230     Court jurisdiction in
+granting injunctive relief or reviewing order not limited by ORS 662.010 to
+662.130 
+
+   
+
+ 663.235     Injunctive relief
+authorized upon issuance of unfair labor practice complaint; notice to
+defendant; court jurisdiction 
+
+   
+
+ 663.240     Priority of hearing
+certain unfair labor practice cases 
+
+   
+
+ 663.245     Hearing unfair labor
+practice cases involving jurisdictional disputes; dismissal of charges upon
+voluntary adjustment of dispute 
+
+   
+
+ 663.250     Priority of
+investigating certain unfair labor practice charges; injunctive relief pending
+disposition of case; notice of petition; court authority 
+
+   
+
+ 663.255     Injunctive relief
+without notice; when board not to apply for injunctive relief 
+
+   
+
+ 663.260     Service of process on
+union; making union party to suit 
+
+   
+
+ 663.265     Application of ORS
+663.270 to 663.295 to hearings and investigations 
+
+   
+
+ 663.270     Access of board to
+evidence relating to subject matter of investigation or proceedings; revocation
+of subpoenas requiring improper information; administration of oaths; taking
+testimony and evidence 
+
+   
+
+ 663.275     Refusal to obey
+subpoenas punished as contempt of court 
+
+   
+
+ 663.280     Immunity from
+punishment of persons testifying, producing evidence required by subpoena 
+
+   
+
+ 663.285     Method of serving
+process of board; fees for witnesses summoned by board 
+
+   
+
+ 663.290     Place of service of
+court process 
+
+   
+
+ 663.295     Governmental officers
+and agencies to furnish evidence related to board proceedings 
+
+   
+
+ ELECTIONS 
+
+   
+
+       663.005
+Definitions. As
+used in this chapter, unless the context requires otherwise: 
+
+       (1) “Board” means
+the Employment Relations Board. 
+
+       (2) “Conciliator”
+means the head of the State Conciliation Service. 
+
+       (3) “Employee”
+includes any employee, and is not limited to the employees of a particular
+employer unless this chapter explicitly states otherwise, and includes any
+individual whose work has ceased as a consequence of, or in connection with, a
+current labor dispute and who has not obtained any other regular and
+substantially equivalent employment, but does not include an individual: 
+
+       (a) Employed in
+agricultural labor as defined in ORS 657.045; 
+
+       (b) Employed by
+the parent or spouse of the individual; 
+
+       (c) Employed in
+the domestic service of any family or person at home; 
+
+       (d) Having the status
+of an independent contractor; 
+
+       (e) Employed as a
+supervisor; 
+
+       (f) Employed by
+an employer subject to the Railway Labor Act, as amended (45 U.S.C. 151 to 163
+and 181 to 188); 
+
+       (g) Employed in
+the building and construction industry; 
+
+       (h) Employed by
+any other person who is not an employer as defined in subsection (4) of this
+section; or 
+
+       (i) Employed by
+an employer subject to the jurisdiction of the National Labor Relations Board
+under its existing jurisdictional standards, pursuant to the Labor Management
+Relations Act of 1947, as amended (29 U.S.C. 141 to 187). 
+
+       (4) “Employer”
+includes any person acting as an agent of an employer, directly or indirectly,
+but does not include: 
+
+       (a) The United
+States or any wholly owned government corporation, or any Federal Reserve Bank. 
+
+       (b) This state,
+or any county, city or political subdivision or agency thereof. 
+
+       (c) Any person
+subject to the Railway Labor Act, as amended (45 U.S.C. 151 to 163 and 181 to
+188). 
+
+       (d) Any labor
+organization (other than when acting as an employer), or anyone acting in the
+capacity of officer or agent of a labor organization. 
+
+       (e) Any person
+involved in the building and construction industry. 
+
+       (f) Any person
+subject to the jurisdiction of the National Labor Relations Board under its
+existing jurisdictional standards, pursuant to the Labor Management Relations
+Act of 1947, as amended (29 U.S.C. 141 to 187). 
+
+       (5) “Labor
+dispute” includes any controversy concerning terms, tenure or conditions of
+employment or concerning the association or representation of persons in
+negotiating, fixing, maintaining, changing or seeking to arrange terms or
+conditions of employment, regardless of whether the disputants stand in the
+proximate relation of employer and employee. 
+
+       (6) “Labor
+organization” means an organization of any kind, or an agency or an employee
+representation committee or plan, in which employees participate and which
+exists for the purpose, in whole or in part, of dealing with employers
+concerning grievances, labor disputes, wages, rates of pay, hours of employment
+or conditions of work. 
+
+       (7) “Professional
+employee” means: 
+
+       (a) An employee
+engaged in work: 
+
+       (A) Predominantly
+intellectual and varied in character as opposed to routine mental, manual,
+mechanical or physical work; 
+
+       (B) Involving the
+consistent exercise of discretion and judgment in its performance; 
+
+       (C) Of such a
+character that the output produced or the result accomplished cannot be
+standardized in relation to a given period of time; 
+
+       (D) Requiring
+knowledge of an advanced type in a field of science or learning customarily
+acquired by a prolonged course of specialized intellectual instruction and
+study in an institution of higher learning or a hospital, as distinguished from
+a general academic education or from an apprenticeship or from training in the
+performance of routine mental, manual or physical processes; or 
+
+       (b) An employee
+who: 
+
+       (A) Has completed
+the courses of specialized intellectual instruction and study described in
+paragraph (a)(D) of this subsection; and 
+
+       (B) Is performing
+related work under the supervision of a professional person to qualify the
+employee to become a professional employee as defined in paragraph (a) of this
+subsection. 
+
+       (8) “Representative”
+includes an individual or labor organization. 
+
+       (9) “Supervisor”
+means any individual, other than a licensed professional or practical nurse,
+having authority, in the interest of the employer, to hire, transfer, suspend,
+lay off, recall, promote, discharge, assign, reward or discipline other
+employees, or responsibly to direct them, or to adjust their grievances, or
+effectively to recommend such action, if in connection with the foregoing the
+exercise of such authority is not of a merely routine or clerical nature, but
+requires the use of independent judgment. 
+
+       (10) “Unfair
+labor practice” means any unfair labor practice listed in ORS 663.120 to
+663.165. [Formerly 662.505; 1975 c.147 §12; 1975 c.163 §2; 2003 c.14 §408] 
+
+   
+
+       663.010 “Collective
+bargaining” defined. 
+For the purposes of this chapter, “collective bargaining” is the performance of
+the mutual obligation of the employer and the representative of the employees
+to meet at reasonable times and confer in good faith with respect to wages,
+hours and other terms and conditions of employment, or the negotiation of an agreement,
+or any question arising thereunder, and the execution of a written contract
+incorporating any agreement reached if requested by either party. However, this
+obligation does not compel either party to agree to a proposal or require the
+making of a concession. [Formerly 662.515] 
+
+   
+
+       663.015
+Designated collective bargaining representatives to be exclusive; grievances
+excepted. 
+Representatives designated or selected for the purposes of collective
+bargaining, by the majority of the employees in a unit appropriate for such
+purposes, are the exclusive representatives of all the employees in that unit
+for the purposes of collective bargaining in respect to rates of pay, wages,
+hours of employment or other conditions of employment. However, an individual
+employee or a group of employees may at any time present grievances to their
+employer and have such grievances adjusted, without the intervention of the
+bargaining representative, if: 
+
+       (1) The
+adjustment is not inconsistent with the terms of a collective-bargaining
+contract or agreement then in effect; and 
+
+       (2) The
+bargaining representative has been given opportunity to be present at the
+adjustment. [Formerly 662.525] 
+
+   
+
+       663.020
+Determination of appropriate unit for purposes of collective bargaining. (1) The Employment Relations Board
+shall decide in each case whether the unit appropriate for the purposes of
+collective bargaining is the employer unit, craft unit, plant unit, or
+subdivision thereof. However, the board shall not decide that: 
+
+       (a) A unit is
+appropriate for such purposes if the unit includes both professional employees
+and employees who are not professional employees, unless a majority of the
+professional employees vote for inclusion in the unit; 
+
+       (b) A craft unit
+is inappropriate for such purposes on the ground that a different unit has been
+established by a prior determination of the board unless a majority of the
+employees in the proposed craft unit vote against separate representation; or 
+
+       (c) A unit is
+appropriate for such purposes if it includes, together with other employees, an
+individual employed as a guard to enforce against employees and other persons
+rules to protect property of the employer or to protect the safety of persons
+on the employer’s premises. However, no labor organization shall be certified
+as the representative of employees in a bargaining unit of guards if such
+organization admits to membership, or is affiliated directly or indirectly with
+an organization which admits to membership, employees other than guards. 
+
+       (2) In
+determining whether a unit is appropriate for the purposes specified in
+subsection (1) of this section, the extent to which the employees have
+organized is not controlling. [Formerly 662.545] 
+
+   
+
+       663.025 Filing
+of representation petition; investigation; hearing; election. (1) A petition may be filed with
+the Employment Relations Board, in accordance with regulations prescribed by
+the board: 
+
+       (a) By an
+employee or group of employees, or any individual or labor organization acting
+in their behalf, alleging that a substantial number of employees: 
+
+       (A) Wish to be
+represented for collective bargaining and that their employer declines to
+recognize their representative as the representative defined in ORS 663.015; or 
+
+       (B) Assert that
+the individual or labor organization that has been certified or is being
+currently recognized by their employer as the bargaining representative is no
+longer a representative as defined in ORS 663.015; or 
+
+       (b) By an
+employer, alleging that one or more individuals or labor organizations have
+presented to the employer a claim to be recognized as the representative
+defined in ORS 663.015. 
+
+       (2) The board
+shall investigate the petition and if, upon the basis of its findings, the
+board has reasonable cause to believe that a question of representation exists,
+it shall provide for an appropriate hearing before the board itself, a member
+thereof or its agent appointed for that purpose. Written notice of the hearing
+shall be mailed by certified mail to the parties named in the petition not less
+than seven days before the hearing. If the board finds upon the record of the
+hearing that a question of representation exists, it shall conduct an election
+by secret ballot marked at the place of election and certify the results
+thereof. 
+
+       (3) In
+determining whether or not a question of representation exists, the same
+regulations and rules of decision apply irrespective of the identity of the
+persons filing the petition or the kind of relief sought. 
+
+       (4) Nothing in
+this chapter prohibits the waiving of hearings by stipulation for the purpose
+of a consent election in conformity with regulations and rules of decision of
+the board. [Formerly 662.555; 1975 c.147 §13; 2003 c.14 §409] 
+
+   
+
+       663.030
+Conduct of representation election. 
+No election shall be directed in any bargaining unit or any subdivision within
+which, in the preceding 12 months, a valid election has been held. Employees
+engaged in an economic strike who are not entitled to reinstatement are
+eligible to vote, under regulations of the Employment Relations Board
+consistent with the purposes and provisions of this chapter, in any election
+conducted within 12 months after the commencement of the strike. In any
+election where none of the choices on the ballot receives a majority, a run-off
+shall be conducted by the board, the ballot providing for a selection between
+the two choices receiving the largest and second largest number of valid votes
+cast in the election. [Formerly 662.565; 1975 c.147 §13a] 
+
+   
+
+       663.035 Filing
+of deauthorization petition; election; limitation. (1) Upon the filing with the
+Employment Relations Board by 40 percent or more of the employees in a
+bargaining unit covered by an agreement between their employer and a labor
+organization requiring membership as a condition of employment, of a petition alleging
+that they desire that the authority of the labor organization to make such an
+agreement be rescinded, the board shall direct the conciliator to take a secret
+ballot, marked at the place of election, of the employees in the unit and to
+certify the results thereof to the labor organization and to the employer. 
+
+       (2) No election
+shall be conducted pursuant to this section in a bargaining unit or a
+subdivision within which, in the preceding 12 months, a valid election has been
+held. [Formerly 662.575] 
+
+   
+
+       663.040 Filing
+charge of illegal election practice; investigation; new election. Any person may file with the
+Employment Relations Board a charge that employees eligible to vote in an
+election under this chapter have been coerced or restrained in the exercise of
+this right. The board shall investigate the charge. If, upon the basis of its
+findings, the board concludes that employees eligible to vote in the election
+were so coerced or restrained, the board may order another election. [Formerly
+662.585; 1975 c.147 §14] 
+
+   
+
+       663.045
+Obtaining advisory opinions on assertion of federal jurisdiction; findings of
+board to be public records. 
+(1) In carrying out this chapter, the Employment Relations Board may, pursuant
+to any applicable federal law, rule or regulation, petition the National Labor
+Relations Board for an advisory opinion as to whether that agency will assert
+jurisdiction over a labor dispute which is the subject of a proceeding then
+pending before the board. 
+
+       (2) All findings,
+conclusions, and determinations of the board under this chapter shall be public
+records. [Formerly 662.595] 
+
+   
+
+ UNFAIR LABOR PRACTICES 
+
+   
+
+       663.100
+Determination of agent. 
+For the purposes of this chapter, in determining whether a person is acting as
+an “agent” of a second person so as to make the second person responsible for
+the acts of the first person, the question of whether the specific acts
+performed were actually authorized or subsequently ratified is not controlling.
+[1971 c.729 §3; 1987 c.158 §133] 
+
+   
+
+       663.105
+Supervisory personnel as union members. Nothing in this chapter prohibits an individual
+employed as a supervisor from becoming or remaining a member of a labor
+organization, but no employer subject to this chapter is compelled to treat as
+employees, for the purpose of collective bargaining, individuals defined as
+supervisors in ORS 663.005. [1971 c.729 §4] 
+
+   
+
+       663.110
+Employee organization, bargaining rights; union security agreements; payments
+to charitable institutions in lieu of union dues and other fees. Employees have the right to
+self-organization; to form, join or assist labor organizations; to bargain
+collectively through representatives of their own choosing; and to engage in
+other concerted activities for the purpose of collective bargaining or other
+mutual aid or protection. Employees also have the right to refrain from any or
+all of such activities except to the extent that this right may be affected by
+an agreement requiring membership in a labor organization as a condition of
+employment as authorized by ORS 663.125. However, agreements involving union
+security including an all-union agreement or agency agreement must safeguard
+the rights of nonassociation of employees, based on bona fide religious tenets
+or teachings of a church or religious body of which such employee is a member.
+Such employee must pay an amount of money equivalent to regular union dues and
+initiation fees and assessments, if any, to a nonreligious charity or to
+another charitable organization mutually agreed upon by the employee affected
+and the representative of the labor organization to which such employee would
+otherwise pay dues. The employee shall furnish written proof that this has been
+done. If the employee and representative of the labor organization do not reach
+agreement on the matter, the Employment Relations Board shall designate such
+organization. [1971 c.729 §5; 2003 c.14 §410] 
+
+   
+
+       663.115 Right
+to strike. Nothing
+in this chapter, except as specifically provided for therein, either interferes
+with, impedes or diminishes in any way the right to strike, or affects the
+limitations or qualifications on that right. [1971 c.729 §6] 
+
+   
+
+       663.120
+Employer unfair labor practices. 
+It is an unfair labor practice for an employer: 
+
+       (1) To interfere
+with, restrain or coerce employees in the exercise of the rights guaranteed in
+ORS 663.110; 
+
+       (2) To dominate
+or interfere with the formation or administration of any labor organization or
+contribute financial or other support to it. However, subject to rules
+published by the Employment Relations Board pursuant to ORS chapter 183, an
+employer may permit employees to confer with the employer during working hours
+without loss of time or pay; 
+
+       (3) To discharge
+or otherwise discriminate against an employee because the employee has filed
+charges or given testimony under this chapter; or 
+
+       (4) To refuse to
+bargain collectively with the employees’ exclusive representative, as defined
+in ORS 663.015. [1971 c.729 §7; 1975 c.83 §1] 
+
+   
+
+       663.125 Other
+employer unfair labor practices. 
+It is an unfair labor practice for an employer, by discrimination in regard to
+hire or tenure of employment or any term or condition of employment, to
+encourage or discourage membership in a labor organization. However: 
+
+       (1) Nothing in
+this chapter or in any other statute of this state precludes an employer from
+making an agreement with a labor organization (not established, maintained or
+assisted by any action defined in this section or in ORS 663.120 as an unfair
+labor practice) to require as a condition of employment membership therein on
+or after the 30th day following the beginning of such employment or the
+effective date of such agreement, whichever is the later: 
+
+       (a) If the labor
+organization is the representative of the majority of the employees in the
+appropriate collective-bargaining unit covered by the agreement when made; and 
+
+       (b) Unless
+following an election held within one year preceding the effective date of the
+agreement, at least a majority of the employees eligible to vote in the
+election have voted to rescind the authority of the labor organization to make
+such an agreement. 
+
+       (2) No employer
+shall justify any discrimination against an employee for nonmembership in a
+labor organization if the employer has reasonable grounds for believing that
+membership was: 
+
+       (a) Not available
+to the employee on the same terms and conditions generally applicable to other
+members; or 
+
+       (b) Denied or
+terminated for reasons other than the failure of the employee to tender the
+periodic dues and the initiation fees uniformly required as a condition of
+acquiring or retaining membership. [1971 c.729 §8] 
+
+   
+
+       663.127 Union
+security agreements. 
+An employer or labor organization anywhere in this state may execute and apply
+an agreement requiring membership in a labor organization as a condition of
+employment to the full extent allowed by federal law. [2017 c.369 §3] 
+
+   
+
+       Note: 663.127 was added to and made a
+part of ORS chapters 661 to 663 by legislative action but was not added to ORS
+chapter 663 or any series therein. See Preface to Oregon Revised Statutes for
+further explanation. 
+
+   
+
+       663.130 Union
+unfair labor practices. 
+It is an unfair labor practice for a labor organization or its agents: 
+
+       (1) To cause or
+attempt to cause an employer to discriminate against an employee in violation
+of ORS 663.125 or to discriminate against an employee with respect to whom
+membership in such organization has been denied or terminated on some ground
+other than the failure of the employee to tender the periodic dues and the
+initiation fees uniformly required as a condition of acquiring or retaining
+membership; 
+
+       (2) To refuse to
+bargain collectively with an employer, if it is the elected and certified
+representative of the employees; 
+
+       (3) To cause or
+attempt to cause an employer to pay or deliver, or agree to pay or deliver, any
+money or other thing of value, in the nature of an exaction, for services which
+are not performed or not to be performed; or 
+
+       (4) To restrain
+or coerce: 
+
+       (a) An employer
+in the selection of representatives for the purposes of collective bargaining
+or the adjustment of grievances; or 
+
+       (b) Employees in
+the exercise of the rights guaranteed in ORS 663.110. However, this paragraph
+does not impair the right of a labor organization to prescribe its own rules
+with respect to the acquisition or retention of membership therein. [1971 c.729
+§9] 
+
+   
+
+       663.135
+Excessive membership fee. 
+It is an unfair labor practice for a labor organization or its agents to
+require of employees covered by an agreement authorized under ORS 663.125 the
+payment, as a condition precedent to becoming a member of the organization, of
+a fee in an amount which the Employment Relations Board finds excessive or
+discriminatory under all the circumstances. In making such a finding the board
+shall consider, among other relevant factors, the practices and customs of
+labor organizations in the particular industry, and the wages currently paid to
+the employees affected. [1971 c.729 §10] 
+
+   
+
+       663.140
+Encouraging certain strikes; refusals to handle products. It is an unfair labor practice for
+a labor organization or its agents to engage in, or to induce or encourage any
+individual employed by any person to engage in, a strike or a refusal in the
+course of employment to use, manufacture, process, transport or otherwise
+handle or work on any goods, articles, materials or commodities or to perform
+any services; or to threaten, coerce or restrain any person, where in either
+case an object thereof is forcing or requiring: 
+
+       (1) An employer
+or self-employed person to join a labor or employer organization or to enter
+into an agreement that is prohibited by ORS 663.155; 
+
+       (2) A person to
+cease using, selling, handling, transporting or otherwise dealing in the
+products of any other producer, processor or manufacturer, or to cease doing
+business with any other person, or forcing or requiring any other employer to
+recognize or bargain with a labor organization as the representative of
+employees of the employer unless such labor organization has been certified as
+the elected representative of such employees. However, nothing in this
+subsection makes unlawful, where not otherwise unlawful, any primary strike or
+primary picketing; 
+
+       (3) An employer
+to recognize or bargain with a particular labor organization as the
+representative of employees of the employer if another labor organization has
+been certified as the elected representative of such employees; or 
+
+       (4) An employer
+to assign particular work to employees in a particular labor organization or in
+a particular trade, craft or class rather than to employees in another labor
+organization or in another trade, craft or class, unless the employer is
+failing to conform to an order of the Employment Relations Board or
+certification of the conciliator determining the bargaining representative for
+employees performing the work. [1971 c.729 §11; 2005 c.22 §473] 
+
+   
+
+       663.145
+Refusal to enter upon premises where strike in progress; truthful strike
+publicity not prohibited. 
+(1) Notwithstanding ORS 663.140, nothing in ORS 663.130 to 663.150 makes
+unlawful a refusal by any person to enter upon the premises of an employer
+(other than the person’s own employer), if the employees of that employer are
+engaged in a strike ratified or approved by an elected and certified
+representative of the employees whom the employer is required to recognize. 
+
+       (2) For the
+purposes of ORS 663.140 only, nothing in that section prohibits publicity,
+other than picketing, for the purpose of truthfully advising the public,
+including consumers and members of a labor organization, that a product is
+produced by an employer with whom the labor organization has a primary dispute
+and is distributed by another employer, as long as such publicity does not have
+an effect of inducing an individual employed by any person other than the
+primary employer in the course of employment to refuse to pick up, deliver or
+transport any goods, or not to perform any services, at the establishment of
+the employer engaged in such distribution. [1971 c.729 §12] 
+
+   
+
+       663.150
+Picketing to force recognition of or bargaining with union. (1) It is an unfair labor practice
+for a labor organization or its agents to picket or cause to be picketed, or
+threaten to picket or cause to be picketed, any employer when an object thereof
+is forcing or requiring an employer to recognize or bargain with a labor
+organization as the representative of the employees, or forcing or requiring
+the employees of an employer to accept or select such labor organization as
+their collective-bargaining representative, unless such labor organization is
+currently certified as the representative of such employees: 
+
+       (a) Where the
+employer has lawfully recognized in accordance with this chapter any other
+labor organization and a petition for a representation election may not
+appropriately be filed; 
+
+       (b) Where, within
+the preceding 12 months, a valid election has been conducted; or 
+
+       (c) Where the
+picketing has been conducted without a petition for an election and
+certification having been filed. 
+
+   
+
+ However: 
+
+       (A) When such a
+petition has been filed the Employment Relations Board forthwith, without
+regard to the absence of a showing of a substantial interest on the part of the
+labor organization and without an investigation or hearing, shall conduct an
+election by secret ballot, marked at the place of election, in such unit as the
+board finds to be appropriate, and to certify the results thereof. 
+
+       (B) Nothing in
+this section prohibits any picketing or other publicity for the purpose of
+truthfully advising the public (including consumers) that an employer does not
+employ members of, or have a contract with, a labor organization, unless an
+effect of the picketing is to induce an individual employed by any other person
+in the course of employment, not to pick up, deliver or transport any goods or
+not to perform any services. 
+
+       (2) Nothing in
+this section permits any act that otherwise would be an unfair labor practice
+under ORS 663.130 to 663.150. [1971 c.729 §13; 1975 c.147 §14a; 2007 c.71 §218] 
+
+   
+
+       663.155
+Contract with employer to refrain from dealing in products of another employer. It is an unfair labor practice for
+a labor organization and an employer to enter into a contract or agreement,
+express or implied, whereby the employer ceases or refrains, or agrees to cease
+or refrain, from handling, using, selling, transporting or otherwise dealing in
+any of the products of any other employer, or to cease doing business with any
+other person. Any contract or agreement entered into after January 1, 1972,
+containing such an agreement is to such extent unenforceable and void. [1971
+c.729 §15] 
+
+   
+
+       663.160
+Expression of views not containing threats or promises of benefit not unfair
+labor practice. 
+The expressing of any views, argument or opinion, or the dissemination thereof,
+whether in written, printed, graphic or visual form, does not constitute
+evidence of an unfair labor practice under any of the provisions of this
+chapter, if the expression contains no threat of reprisal or force or promise
+of benefit. [1971 c.729 §16] 
+
+   
+
+       663.165
+Procedure for terminating or modifying existing collective bargaining contract;
+notice; negotiation meetings. 
+(1) Notwithstanding ORS 663.010, if there is in effect a collective-bargaining
+contract covering employees in an industry, the duty to bargain collectively
+also means that no party to the contract shall terminate or modify the
+contract, unless the party desiring termination or modification: 
+
+       (a) Serves a
+written notice upon the other party to the contract of the proposed termination
+or modification 60 days before the expiration date thereof, or in the event the
+contract contains no expiration date, 60 days before the time it is proposed to
+make such termination or modification; 
+
+       (b) Offers to
+meet and confer with the other party for the purpose of negotiating a new
+contract or a contract containing the proposed modifications; 
+
+       (c) Notifies the
+State Conciliation Service within 30 days after notice of the existence of a
+dispute, if no agreement has been reached by that time; and 
+
+       (d) Continues in
+full force and effect, without resorting to strike or lockout, all the terms
+and conditions of the existing contract for a period of 60 days after such
+notice is given or until the expiration date of the contract, whichever occurs
+later. 
+
+       (2) The duties
+imposed upon employers, employees and labor organizations by subsection (1)(b),
+(c) and (d) of this section: 
+
+       (a) Become
+inapplicable upon an intervening election and certification under which the
+labor organization or individual which is a party to the contract has been
+superseded as or ceased to be the representative of the employees; and 
+
+       (b) Do not
+require either party to discuss or agree to any modification of the terms and
+conditions contained in a contract for a fixed period, if the modification is
+to become effective before the terms and conditions can be reopened under the
+provisions of the contract. 
+
+       (3) Any employee
+who engages in a strike within the 60-day period specified in this section
+loses status as an employee of the employer engaged in the particular labor
+dispute, for the purposes of this chapter, but the loss of status for the
+employee terminates if the employee is reemployed by the employer. [1971 c.729 §17] 
+
+   
+
+       663.170 Unfair
+labor practice provisions not retroactive. (1) No provision of this chapter makes an unfair
+labor practice any act that was performed before January 1, 1972. 
+
+       (2) ORS 663.125
+and 663.130 (1) do not make an unfair labor practice the performance of any
+obligation under a collective-bargaining agreement entered into before January
+1, 1972, unless the agreement was renewed or extended after January 1, 1972. [1971
+c.729 §18] 
+
+   
+
+ REMEDIES 
+
+   
+
+       663.175
+Authority of board to prevent unfair labor practices; authority not to affect
+other lawful adjustment means. 
+As provided in ORS 663.175 to 663.260, the Employment Relations Board may
+prevent any person from engaging in an unfair labor practice listed in ORS
+663.120 to 663.165. This power is not affected by any other means of adjustment
+or prevention established by agreement, law, ordinance, regulation or
+otherwise. [1971 c.729 §19] 
+
+   
+
+       663.180 Filing
+of charges of unfair practice; fees; board investigation; issuance of
+complaints. (1) A
+person may file with the Employment Relations Board a charge that another
+person has engaged in or is engaging in an unfair labor practice. The person
+filing the charge shall pay a fee of $300 to the board. The board shall deposit
+fees received under this section to the credit of the Employment Relations
+Board Administrative Account. 
+
+       (2) If it is
+charged that a person has engaged in or is engaging in an unfair labor
+practice, the board shall cause an investigation to be made. If, on the basis
+of this investigation, it appears to the board that an issue of fact or law
+exists as to a violation of ORS 663.120 to 663.165, the board shall issue a
+complaint. The complaint shall contain a notice of hearing before the board, at
+a place fixed in the notice, not less than five days after the serving of the
+complaint. 
+
+       (3)
+Notwithstanding subsection (2) of this section, the board may not issue a
+complaint based upon an unfair labor practice occurring more than six months
+before the filing of the charge with the board, and the service of a copy of
+the charge upon the person against whom the charge is made, unless the person
+aggrieved by the unfair labor practice was prevented from filing the charge by
+reason of service in the Armed Forces of the United States, in which event the
+six-month period shall be computed from the day of discharge. [1971 c.729 §20;
+1975 c.147 §15; 2007 c.296 §2; 2011 c.593 §4] 
+
+   
+
+       663.185
+Amendment of complaint; filing answer; intervenors; fees; conduct of
+proceedings. (1)
+The Employment Relations Board may amend a complaint at any time before the
+issuance of an order based on the complaint. 
+
+       (2) The person so
+complained of may file an answer to the original or amended complaint and
+appear in person or otherwise and give testimony at the place and time fixed in
+the complaint. The person filing the answer shall pay a fee of $300 to the
+board. The board may allow any other person to intervene in the proceeding and
+to present testimony. A person allowed to intervene shall pay a fee of $300 to
+the board. 
+
+       (3) As far as
+practicable, the board shall conduct the proceeding in accordance with the
+rules of evidence applicable to civil actions. 
+
+       (4) The board
+shall deposit fees received under this section to the credit of the Employment
+Relations Board Administrative Account. [1971 c.729 §21; 1979 c.284 §190; 2007
+c.296 §3; 2011 c.593 §5] 
+
+   
+
+       663.190 Record
+of testimony at hearings. 
+The testimony taken at the hearing shall be reduced to writing and filed with
+the Employment Relations Board. Thereafter, in its discretion, the board on
+notice may take further testimony or hear argument, which shall similarly be
+reduced to writing. [1971 c.729 §22] 
+
+   
+
+       663.195 Orders
+and findings of board. 
+(1) If, on the preponderance of the evidence taken and in the record, the
+Employment Relations Board is not of the opinion that the person named in the
+complaint has engaged in or is engaging in an unfair labor practice, the board
+shall state its findings of fact and shall issue an order dismissing the
+complaint. 
+
+       (2) If, on the
+preponderance of evidence taken and in the record, the board is of the opinion
+that a person named in the complaint has engaged in or is engaging in an unfair
+labor practice, the board shall state its findings of fact and shall issue and
+cause to be served on that person an order requiring the person to cease and
+desist from the unfair labor practice and to take such affirmative action,
+including reinstatement of employees with or without back pay, as will
+effectuate the policies of this chapter. 
+
+       (3) No order of
+the board shall require the reinstatement as an employee of an individual who
+has been suspended or discharged, or the payment to the individual of any back
+pay, if the individual was suspended or discharged for cause. [1971 c.729 §23] 
+
+   
+
+       663.200
+Employee reinstatement orders; reports showing compliance with orders. (1) Except as provided in ORS
+663.195 (3), if an order directs reinstatement of an employee, back pay may be
+required of the employer or labor organization responsible for the
+discrimination suffered by the employee. 
+
+       (2) In
+determining whether a complaint shall issue alleging a violation of ORS 663.120
+(1) or (2), and in deciding such cases, the same regulations and rules of
+decision shall apply irrespective of whether or not the labor organization
+affected is affiliated with a labor organization national or international in
+scope. 
+
+       (3) An order
+further may require a person to make reports from time to time showing the
+extent to which it has complied with the order. [1971 c.729 §24] 
+
+   
+
+       663.205
+Modification, setting aside orders by board; contents of record in certain
+representation matters. 
+(1) Until the record of a case has been filed in court as provided in ORS
+663.210 or 663.220, the Employment Relations Board at any time, upon reasonable
+notice and in such manner as it considers proper, may modify or set aside in
+whole or in part any finding or order made or issued by it. 
+
+       (2) If an order
+of the board made pursuant to ORS 663.190, 663.195 and 663.200 is based in
+whole or in part upon facts certified following an investigation relating to a
+representation election and there is a petition for the enforcement or review
+of the order, the certification and the record of the investigation shall be
+included in the transcript of the entire record required to be filed under ORS
+663.210 or 663.220. The judgment of the court enforcing, modifying or setting
+aside in whole or in part the order of the board shall be made and entered upon
+the pleadings, testimony and proceedings set forth in the transcript. [1971
+c.729 §25; 2003 c.576 §536] 
+
+   
+
+       663.210
+Enforcement of orders by Court of Appeals; injunctive relief; notice of filing
+enforcement petition; authority of court in reviewing order. The Employment Relations Board may
+petition the Court of Appeals for the enforcement of an order and for
+appropriate temporary relief or restraining order, and shall file in the court
+the record in the proceedings. On the filing of the petition the court shall
+cause notice thereof to be served upon such person, and thereupon it has
+jurisdiction of the proceeding and the question determined therein. It may
+grant such temporary relief or restraining order as it considers just and
+proper, and make and enter a judgment enforcing, modifying and enforcing as so
+modified, or setting aside in whole or in part the order of the board. [1971
+c.729 §26; 2003 c.576 §537] 
+
+   
+
+       663.215 Scope
+of court review of order; additional evidence; modification of findings by
+board. (1) No
+objection that has not been urged before the Employment Relations Board shall
+be considered by the court, unless the failure or neglect to urge the objection
+is excused because of extraordinary circumstances. The findings of the board
+with respect to questions of fact, if supported by substantial evidence on the
+record considered as a whole, are conclusive. 
+
+       (2) If either
+party applies to the court for leave to adduce additional evidence and shows to
+the satisfaction of the court that the additional evidence is material and that
+there were reasonable grounds for the failure to adduce the evidence in the
+hearing before the board, the court may order the additional evidence to be
+taken before the board, and to be made a part of the record. 
+
+       (3) The board may
+modify its findings as to the facts, or make new findings, by reason of
+additional evidence so taken and filed, and it shall file modified or new
+findings. With respect to questions of fact the modified or new findings, if
+supported by substantial evidence on the record considered as a whole, are
+conclusive. [1971 c.729 §27] 
+
+   
+
+       663.220 Appeal
+of board’s order to Court of Appeals; authority of court in reviewing order. (1) Any person aggrieved by a
+final order of the Employment Relations Board granting or denying in whole or
+in part the relief sought may obtain a review of the order in the Court of
+Appeals by filing in the court a written petition praying that the order of the
+board be modified or set aside. A copy of the petition shall be transmitted
+forthwith by the clerk of the court to the board and thereupon the aggrieved
+party shall file in the court the record in the proceeding, certified by the
+board. 
+
+       (2) On the filing
+of the petition, the court shall proceed in the same manner as in the case of
+an application by the board under ORS 663.210, and it has the same jurisdiction
+to grant to the board temporary relief or restraining order as it considers just
+and proper, and in like manner to make and enter a judgment enforcing,
+modifying and enforcing as so modified, or setting aside in whole or in part
+the order of the board. The findings of the board with respect to questions of
+fact, if supported by substantial evidence on the record considered as a whole,
+are in like manner conclusive. [1971 c.729 §28; 2003 c.576 §538] 
+
+   
+
+       663.225
+Hearing of petitions; review proceedings not to stay board’s order. (1) Petitions filed under ORS
+663.175 to 663.260 shall be heard expeditiously, and if possible within 10 days
+after they are docketed. 
+
+       (2) The
+commencement of proceedings under ORS 663.210, 663.215 and 663.220 does not,
+unless specifically ordered by the court, operate as a stay of the Employment
+Relations Board’s order. [1971 c.729 §29] 
+
+   
+
+       663.230 Court
+jurisdiction in granting injunctive relief or reviewing order not limited by
+ORS 662.010 to 662.130. 
+When granting appropriate temporary relief or a restraining order, or making
+and entering a judgment enforcing, modifying and enforcing as so modified, or
+setting aside in whole or in part an order of the Employment Relations Board,
+as provided in ORS 663.175 to 663.260, the jurisdiction of the court is not
+limited by ORS 662.010 to 662.130. [1971 c.729 §30; 2003 c.576 §539] 
+
+   
+
+       663.235
+Injunctive relief authorized upon issuance of unfair labor practice complaint;
+notice to defendant; court jurisdiction. The Employment Relations Board, on issuance of a
+complaint charging that any person has engaged in or is engaging in an unfair
+labor practice, may petition the Court of Appeals for appropriate temporary
+relief or restraining order. On the filing of any such petition the court shall
+cause notice thereof to be served upon such person, and thereupon has
+jurisdiction to grant to the board such temporary relief or restraining order
+as the court considers just and proper. [1971 c.729 §31] 
+
+   
+
+       663.240
+Priority of hearing certain unfair labor practice cases. If it is charged that a person has
+engaged in an unfair labor practice within the meaning of ORS 663.125 or
+663.130 (1), the charge shall be given priority over all other cases except
+cases of like character where it is filed or referred and cases given priority
+under ORS 663.250, 663.255 and 663.260. [1971 c.729 §32] 
+
+   
+
+       663.245
+Hearing unfair labor practice cases involving jurisdictional disputes;
+dismissal of charges upon voluntary adjustment of dispute. If it is charged that a person has
+engaged in an unfair labor practice within the meaning of ORS 663.140 (4), the
+Employment Relations Board shall hear and determine the dispute out of which
+the unfair labor practice arose unless, within 10 days after notice that the
+charge has been filed, the parties to the dispute submit to the board
+satisfactory evidence that they have adjusted, or agreed upon methods for the
+voluntary adjustment of, the dispute. On compliance by the parties to the
+dispute with the decision of the board or upon voluntary adjustment of the
+dispute, the charge shall be dismissed. [1971 c.729 §33] 
+
+   
+
+       663.250
+Priority of investigating certain unfair labor practice charges; injunctive
+relief pending disposition of case; notice of petition; court authority. (1) If it is charged that a person
+has engaged in an unfair labor practice within the meaning of ORS 663.140 (1)
+to (3) or 663.150 or 663.155, the preliminary investigation of the charge shall
+be made forthwith and given priority over all other cases except cases of like
+character where it is filed or referred. If, after investigation, the
+Employment Relations Board or its agent has reasonable cause to believe the
+charge is true and that a complaint should issue, the board shall petition the
+Court of Appeals for appropriate injunctive relief pending the final
+adjudication of the board with respect to the matter. 
+
+       (2) On the filing
+of such a petition the court: 
+
+       (a) Shall cause
+notice thereof to be served upon any person involved in the charge. Such
+person, including the charging party, shall be given an opportunity to appear
+by counsel and present any relevant testimony. 
+
+       (b) Has
+jurisdiction to grant such injunctive relief or temporary restraining order as
+it considers just and proper, notwithstanding any other provision of law. 
+
+       (3) In situations
+where such relief is appropriate, the procedure specified in this section
+applies to charges with respect to ORS 663.140 (4). [1971 c.729 §34; 1975 c.147
+§16] 
+
+   
+
+       663.255
+Injunctive relief without notice; when board not to apply for injunctive
+relief. 
+Notwithstanding ORS 663.250: 
+
+       (1) No temporary
+restraining order shall be issued without notice unless a petition alleges that
+substantial and irreparable injury to the charging party will be unavoidable.
+Such a temporary restraining order is effective for no longer than five days and
+is void at the expiration of that period. 
+
+       (2) The
+Employment Relations Board shall not apply for a restraining order under ORS
+663.235 if a charge against the employer under ORS 663.120 (2) has been filed
+and, after the preliminary investigation, the board has reasonable cause to
+believe that the charge is true and that a complaint should issue. [1971 c.729 §35;
+1975 c.147 §17] 
+
+   
+
+       663.260
+Service of process on union; making union party to suit. The service of legal process upon
+an officer or agent of a labor organization constitutes service upon the labor
+organization and makes the organization a party to the suit. [1971 c.729 §36] 
+
+   
+
+       663.265
+Application of ORS 663.270 to 663.295 to hearings and investigations. ORS 663.270 to 663.295 apply to
+all hearings and investigations which, in the opinion of the Employment
+Relations Board, are necessary and proper for the exercise of the powers vested
+in it by this chapter. [1971 c.729 §37] 
+
+   
+
+       663.270 Access
+of board to evidence relating to subject matter of investigation or
+proceedings; revocation of subpoenas requiring improper information;
+administration of oaths; taking testimony and evidence. (1) The Employment Relations Board
+or its duly authorized agents at all reasonable times shall have access to, for
+the purpose of examination, and the right to copy, any evidence of a person
+being investigated or proceeded against that relates to any matter under
+investigation or in question. The board, upon application of a party to such
+proceedings, forthwith shall issue to that party subpoenas requiring the
+attendance and testimony of witnesses or the production of any evidence in the
+proceeding or investigation requested in the application. 
+
+       (2) Within five
+days after the service of a subpoena on a person requiring the production of
+any evidence in possession or under the control of the person, the board on
+petition of that person shall revoke the subpoena if in its opinion the
+evidence whose production is required does not relate to any matter under
+investigation, or any matter in question in the proceedings, or if in its
+opinion the subpoena does not describe with sufficient particularity the
+evidence whose production is required. 
+
+       (3) The board or
+its agent designated by it for such purposes, may administer oaths and
+affirmations, examine witnesses and receive evidence. Attendance of witnesses
+and the production of such evidence may be required at any designated place of
+hearing. [1971 c.729 §38; 1975 c.147 §18] 
+
+   
+
+       663.275
+Refusal to obey subpoenas punished as contempt of court. In case of contumacy or refusal to
+obey a subpoena issued to any person, any court of this state within the
+jurisdiction of which the inquiry is carried on or within the jurisdiction of
+which the person guilty of contumacy or refusal to obey is found or resides or
+transacts business, upon application by the Employment Relations Board or its
+agent, has jurisdiction to issue to the person an order requiring the person to
+appear before the board or its agent to produce evidence if so ordered, or to
+give testimony touching the matter under investigation or in question. Any
+failure to obey such order of the court may be punished by the court as a
+contempt thereof. [1971 c.729 §39; 1975 c.147 §19] 
+
+   
+
+       663.280
+Immunity from punishment of persons testifying, producing evidence required by
+subpoena. No
+person shall be excused from attending and testifying or from producing books,
+records, correspondence, documents or other evidence in obedience to a subpoena
+issued under ORS 663.270, on the ground that the testimony or evidence required
+of the person may tend to incriminate the person or subject the person to a
+penalty or forfeiture. However, no individual shall be prosecuted or subjected
+to any penalty or forfeiture for or on account of any transaction, matter or
+thing concerning which the individual is compelled, after having claimed
+privilege against self-incrimination, to testify or produce evidence, except
+that the individual so testifying is not exempt from prosecution and punishment
+for perjury committed in so testifying. [1971 c.729 §40] 
+
+   
+
+       663.285 Method
+of serving process of board; fees for witnesses summoned by board. (1) Complaints, orders, and other
+process and papers of the Employment Relations Board or its designated agent
+issued under this chapter may be served personally, by registered or certified
+mail, by telegraph or by leaving a copy thereof at the principal office or
+place of business of the person required to be served. The verified return by
+the individual so serving setting forth the manner of service is proof of
+service. The return post-office receipt or telegraph receipt therefor, when
+registered and mailed or telegraphed, is proof of service. 
+
+       (2) Witnesses
+summoned before the board or its designated agent under this chapter shall be
+paid the fees and mileage provided for witnesses in ORS 44.415 (2). Witnesses
+whose depositions are taken and the persons taking the same are severally
+entitled to the same fees as are paid for like services in the courts of this
+state. [1971 c.729 §41; 1975 c.147 §20; 1989 c.980 §18] 
+
+   
+
+       663.290 Place
+of service of court process. 
+All process of any court to which application may be made under this chapter
+may be served wherever the defendant or other person required to be served
+resides or may be found. [1971 c.729 §42] 
+
+   
+
+       663.295
+Governmental officers and agencies to furnish evidence related to board
+proceedings. All
+officers, departments and agencies of this state, when directed by the
+Governor, shall furnish the Employment Relations Board, upon its request, all
+records, papers and information in their possession relating to any matter
+before the board. [1971 c.729 §43] 
+
+   
+
+       663.300 [Formerly 662.605; repealed by
+1975 c.147 §21] 
+
+   
+
+       663.305 [Formerly 662.615; repealed by
+1975 c.147 §21] 
+
+   
+
+       663.310 [Formerly 662.625; repealed by
+1975 c.147 §21] 
+
+   
+
+       663.315 [Formerly 662.635; repealed by
+1975 c.147 §21] 
+
+   
+
+       663.320 [Formerly 662.645; repealed by
+1975 c.147 §21] 
+
+   
+
+       663.325 [Formerly 662.655; repealed by
+1975 c.147 §21] 
+
+   
+
+ CHAPTERS
+664 TO 669 
+
+ [Reserved
+for expansion] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

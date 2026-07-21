@@ -35,13 +35,19 @@ mcp = FastMCP(
 
 @mcp.tool()
 def search_corpus(query: str, doc_type: str = "", agency: str = "",
-                  limit: int = 10) -> list[dict]:
-    """Full-text search over all 2,400+ documents (statutes, rules, executive orders,
+                  limit: int = 10, mode: str = "hybrid") -> list[dict]:
+    """Search the whole corpus (tens of thousands of statutes, rules, executive orders,
     policies, procedures, standards, accounting manual). Returns ranked matches with
-    ~snippets, never whole documents. Optional filters: doc_type (statute, rule,
-    executive_order, policy, procedure, standard, manual, external_reference) and
-    agency (e.g. 'department-of-administrative-services', 'statewide')."""
-    return mcp_lib.search_corpus(query, doc_type or None, agency or None, limit)
+    ~snippets, never whole documents.
+
+    mode: 'hybrid' (default) blends keyword (BM25) with semantic/vector similarity, so
+    conceptually-related wording still matches (e.g. 'kickback' finds 'unlawful
+    gratuity'); 'keyword' is exact-term BM25 only; 'semantic' is vector-only. Hybrid and
+    semantic transparently fall back to keyword when the vector index isn't built.
+    Optional filters: doc_type (statute, rule, executive_order, policy, procedure,
+    standard, manual, external_reference) and agency (e.g.
+    'department-of-administrative-services', 'statewide')."""
+    return mcp_lib.search_corpus(query, doc_type or None, agency or None, limit, mode)
 
 
 @mcp.tool()

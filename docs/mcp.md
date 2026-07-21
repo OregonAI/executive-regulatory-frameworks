@@ -14,6 +14,28 @@ non-authoritative** — every response carries the disclaimer and the document's
 - `src/mcp_server.py` — FastMCP wrapper; stdio by default, `--http` for
   streamable-HTTP. Needs the `mcp` SDK (`requirements.txt`).
 
+## Semantic search (optional, hybrid)
+
+`search_corpus` supports `mode`: `keyword` (FTS5/BM25 only), `semantic` (vector
+similarity only), or `hybrid` (default — fuse both with reciprocal-rank fusion).
+Hybrid finds conceptually-related wording that keyword search misses (e.g. "kickback"
+→ "unlawful gratuity", "telework" → "remote work").
+
+The vector index is an **offline-built, committed artifact** under `_meta/embeddings/`
+(`vectors.i8.npy` int8 + `chunks.jsonl` + `meta.json`), produced by
+`python3 src/build_embeddings.py` after any ingest (`--check` is a CI staleness gate that
+soft-passes when the index isn't built). Documents are chunked; each chunk is embedded
+with a small **local** model (default `BAAI/bge-small-en-v1.5`), L2-normalized and
+int8-quantized so cosine ≈ int32 dot ÷ 127².
+
+**Dependency policy:** the base install stays stdlib-only. Vector math (`numpy`) and the
+embedding model (`sentence-transformers`) live in the optional
+`requirements-embeddings.txt`. `mcp_lib` lazily imports them and **falls back to
+keyword-only** search whenever the artifact, numpy, or the model is absent — so the CI
+selftest and a minimal install work unchanged, and semantic search "lights up" only where
+the extras and the committed index are present. Building the full-corpus index requires
+the extras; the query side additionally needs the model to encode the incoming query.
+
 ## Local setup (stdio)
 
 ```bash
@@ -81,7 +103,7 @@ credentials file; create a new tunnel and update the systemd unit/DNS route.
 
 | Tool | Use for |
 |---|---|
-| `search_corpus(query, doc_type?, agency?, limit?)` | Ranked full-text search; returns snippets, never whole docs |
+| `search_corpus(query, doc_type?, agency?, limit?, mode?)` | Ranked search; `mode` = hybrid (default, keyword+semantic) / keyword / semantic; returns snippets, never whole docs |
 | `get_document(doc_id, part?)` | One document with provenance; oversized docs return a section list — request `part="Full text"` etc. |
 | `resolve_citation(citation)` | "ORS 276A.300" / "OAR 125-800-0020" (renumbering applied) / "EO 20-03" / "DAS 107-004-052" → ids |
 | `authority_chain(doc_id, direction?, depth?)` | "What statute requires this policy?" (up) / "what implements this statute?" (down) |

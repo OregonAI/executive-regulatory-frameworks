@@ -4,14 +4,27 @@ on:
   push:
     branches: [main]
   pull_request:
+  schedule:
+    # nightly full-corpus verification (PRs only check changed files)
+    - cron: "0 8 * * *"
 
 jobs:
   verify:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # full history so --changed can compute the merge-base with the PR base
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: pip install pyyaml
-      - run: python3 src/verify_provenance.py
+      - name: Verify provenance (changed files on PRs, full corpus otherwise)
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            git fetch --no-tags origin "${{ github.base_ref }}"
+            python3 src/verify_provenance.py --changed "origin/${{ github.base_ref }}"
+          else
+            python3 src/verify_provenance.py
+          fi

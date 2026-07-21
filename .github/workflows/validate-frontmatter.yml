@@ -4,17 +4,30 @@ on:
   push:
     branches: [main]
   pull_request:
+  schedule:
+    # nightly full-corpus validation (PRs only check changed files)
+    - cron: "0 8 * * *"
 
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # full history so --changed can compute the merge-base with the PR base
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: pip install pyyaml jsonschema
-      - run: python3 src/validate_frontmatter.py
+      - name: Validate frontmatter (changed files on PRs, full corpus otherwise)
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            git fetch --no-tags origin "${{ github.base_ref }}"
+            python3 src/validate_frontmatter.py --changed "origin/${{ github.base_ref }}"
+          else
+            python3 src/validate_frontmatter.py
+          fi
       - name: Review queue must be current
         run: python3 src/review_queue.py --check
       - name: Relationship graph must be current
@@ -29,3 +42,5 @@ jobs:
         run: python3 src/agency_profile.py --selftest
       - name: MCP query engine selftest
         run: python3 src/mcp_lib.py --selftest
+      - name: Semantic vector index must be current (soft-pass if not built)
+        run: python3 src/build_embeddings.py --check
