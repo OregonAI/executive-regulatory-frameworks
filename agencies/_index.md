@@ -66,7 +66,7 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Department of Consumer and Business Services, Oregon Occupational Safety and Health Division | unclassified | unknown | 639 | 639 | 0 | 0 | — |
 | Department of Consumer and Business Services, Workers' Compensation Board | unclassified | unknown | 220 | 220 | 0 | 0 | — |
 | Department of Consumer and Business Services, Workers' Compensation Division | unclassified | unknown | 462 | 462 | 0 | 0 | — |
-| Department of Corrections | unclassified | unknown | 856 | 856 | 0 | 0 | — |
+| [Department of Corrections](department-of-corrections/_index.md) | executive branch | web | 991 | 991 | 0 | 0 | 2026-07-20 |
 | Department of Energy | unclassified | unknown | 420 | 420 | 0 | 0 | — |
 | Department of Energy, Energy Facility Siting Council | unclassified | unknown | 248 | 248 | 0 | 0 | — |
 | Department of Environmental Quality | unclassified | unknown | 1876 | 1876 | 0 | 0 | — |

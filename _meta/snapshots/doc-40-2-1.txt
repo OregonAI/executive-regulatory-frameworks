@@ -1,0 +1,372 @@
+                                       DEPARTMENT OF CORRECTIONS
+                                               Institutions
+
+      Title:             Staff Deployment System                            DOC Policy: 40.2.1
+      Effective:         11/17/17                                           Supersedes: 12/1/13
+      Applicability:     All employees working in DOC institutions
+      Directives Cross-Reference: None
+      Attachments:
+      Attachment A: ISDS Data Management Procedural Requirements
+      Attachment B: CD1434 Staffing Standard Review and Exception Request Form
+
+I.       PURPOSE
+               The purpose for implementing the Staff Deployment System is to ensure that staff
+               scheduling is accomplished efficiently and cost effectively, ensure accurate data
+               collection, and to increase productivity and security by strategically deploying staff.
+               The Staff Deployment System will be practiced at all institutions in accordance with this
+               policy.
+II.      DEFINITIONS
+               A.   Absence Categories: Specific reasons for an employee’s absence; examples are:
+                    Planned leave, such as vacation, military leave, training, jury duty, sick leave, annual
+                    leave, etc.
+               B.   Balanced Staffing Plan: A condition that describes               a   total   reconciliation
+                    between scheduled assignments and budgeted relief factors.
+               C.   Daily Roster: A daily employee work schedule, prepared for each shift, designating
+                    staff work assignments.
+               D.   Daily Work Record: A record that captures all changes to the daily roster and reflects
+                    all changes to the planned schedule.
+               E.   Exception Reasons: Unplanned leave,             such    as   unscheduled     sick   leave,
+                    emergency, inmate disturbance, etc.
+               F.   Fixed Post: A security work assignment necessary to ensure safety and security of
+                    the institution and to prevent escapes or any work assignment critical to the operation
+                    of the institution. If the work need has been completed or operations are suspended
+                    for all or part of a shift, a fixed post may be closed to allow staff to be redeployed to
+                    another work assignment. Fixed posts will not be closed to offset overtime.
+               G.   Institution Staff Deployment Coordinator: An employee located at each facility that
+                    is the primary employee responsible for staff deployment data management and staff
+                    scheduling.
+               H.   ITS: Information Technology
+               I.   Master Roster: A work schedule that includes the start and stop times, the assignment
+                    by shift, and the days off assigned to each post.
+               J.   Non-Relieved Post: Post for which there is no relief factor allocated.
+          K. Off-Duty Limits: The number of employees who may be absent on any given day for
+ Effective 11/17/17                    Page 1 of 8                              Policy 40.2.1
+                any reason without causing overtime, as designated by the relief factor.
+          L.    Position Control Numbers (PCN): The position numbers assigned to each security
+                (employee) position by the Department of Administrative Services.
+          M.    Post Classification: The classification of post that includes “fixed” and “pull” as well as
+                assignment of rank (Officer, Corporal, Sergeant, Lieutenant, Captain).
+          N.    Post Skills: Skills that are mandatory, required or optional for an employee to possess in
+                order to work in a particular post.
+
+          O.     Pull Post: A post that is, or may be, left open (without staff assignment) for part or all of
+                a shift.     Use of pull posts will be monitored by the assistant superintendent of
+                security/security manager to insure there is a balanced approach and operational needs
+                are being met. Only posts which perform an operational function that can be interrupted
+                intermittently without      significant impact to critical operational functions shall be
+                designated as a pull post.
+
+          P.    Regular Day-Off (RDO): A position used to cover a post when the post’s regularly
+                scheduled employee is absent on regular days off.
+
+          Q.    Relief Factor: A percentage that, when added to the number of equivalent personnel
+                necessary to staff a post, provides additional equivalent personnel to ensure
+                coverage for regular days off, vacations, holidays, and other activities such as training
+                that takes employees away from the institution during the course of the year.
+          R.    Relieved Post: Post for which there is relief factor allocated.
+          S.      Roster Adjustment: Changes made by the institution staff deployment coordinator in
+                the daily assignment roster and roster work record to cover posts.
+          T.     Roster Management: The continuous adjustment of work assignments to achieve
+                the least financial impact on the operation, while maintaining the safety and security of
+                the institution.
+
+          U.    Shift Relief/Flex: Assignment to a fixed shift and days off, and will be utilized by the
+                institution staff deployment coordinator and the Officer in Charge (OIC) to cover open
+                assignments on daily rosters.
+
+          V.    Staffing Standards: Guidelines established to determine numbers of staff, classification,
+                and full time employees (FTE) required to safely operating each facility.
+          W.       Staffing Plan: Post coverage delineation, with the number of posts that must be
+                covered, and the number of employees, (calculated by the relief factor) within the
+                guidelines of DOC staffing plans, based on Legislative funding, that will be required
+                to cover each post.
+          X.    Staff Deployment Timekeeper: Provides assistance/support to the staff deployment
+                coordinator and the assistant superintendent of security/ISM for security staff
+                scheduling.
+          Y.    Vacancy: A position number that becomes unfilled by reason of promotion, resignation,
+                retirement, termination, etc.
+
+          Z.    Variable Relief/5% ISD Flex: Positions identified to receive a 5% differential, and will be
+                utilized to cover variable shifts and days off.
+
+III.   POLICY
+         A.    Software and Hardware
+              1.    The ISDS database shall be password protected and located in a secure area.
+ Effective 11/17/17                      Page 2 of 8                                   Policy 40.2.1
+            2.       ISDS computers shall have an uninterrupted power source (UPS) of sufficient
+                     capacity to access the database.
+            3.   Every institution shall have two computers configured for ISDS standards.
+       B.   System Back-ups
+            1.       ISDS data and index files shall be backed up daily by the institution staff
+                     deployment coordinator as data is entered and saved.
+            2.    A complete backup of the system shall be done weekly by IT
+            Services.
+       C.   General Responsibilities – Staff Deployment System Manager
+            A primary Department of Corrections staff deployment system manager shall be
+            assigned by the Assistant Director of Operations. The staff deployment system manager
+            is responsible for the following:
+            1        Budget: Operations Division
+                     a.   Present to the Assistant Director o f Operations or designee, cost analysis
+                          when staffing plans will require adjustment.
+                     b.   Review and analyze overtime and compensatory time expenditures.
+                     c.   Evaluate the fiscal and operational impact of projected relief factors on the
+                          staffing plan.
+            2.       Develop and implement basic concepts courses for management and executive
+                     staff;
+            3.       Conduct staff deployment coordinator user group meetings;
+            4.       Train institution coordinators;
+            5.       Maintain a staff deployment system technical reference manual;
+            6.       Create, analyze and audit ISDS reports and records to ensure accurate operation
+                     of system; and
+            7.       Support and maintain all department ISDS data entry systems.
+            8.       Purchases and expenses must be approved by the chief of security
+       D.   General Responsibilities – Assistant Superintendent of Security/Security Manager
+            The assistant superintendent of security/institution security manager (ISM) shall assign a
+            primary institution staff deployment coordinator, who shall be responsible for the day-to-
+            day operation of the scheduling system. A back up person must be assigned. The
+            assistant superintendent of security/security manager is responsible for the following:
+            1.       Provide a monthly report outlining major reasons for overtime use, and measures
+                     taken to control the overtime.
+            2.       Make recommendations in compliance with staffing standards, to the functional unit
+                     manager or designee as follows:
+                     a.   Designate a primary institution deployment coordinator and a backup
+                          person to the primary coordinator.
+                     b.   Post creation
+                     c.   Post deactivation
+                     d.   Post reactivation
+                     e.   Post classification and reclassification (fixed, pull)
+Effective 11/17/17                            Page 3 of 8                                 Policy 40.2.1
+                     f.
+                     Review muster boards (daily roster reports) daily upon return from the OIC’s
+                     office, insuring rosters are developed and managed in compliance with staffing
+                     standards and this policy.
+       E.   General Responsibilities – Institution Staff Deployment Coordinator
+            1.       The institution staff deployment coordinator shall be responsible for maintaining
+                     daily rosters, work records, position control number assignments for vacancy
+                     tracking, verifying accuracy of records, maintaining accurate time and attendance
+                     for security staff, meeting payroll deadlines, and maintaining physical records in
+                     accordance with state archivist schedule.
+            2.       The institution staff deployment coordinator shall address staff deployment-related
+                     issues immediately through the chain of command as follows:
+                     a.   Procedures to supervisor, institution chain of command.
+                     b.   System/equipment problems to ISU help desk.
+       F.   Relief Factor Management
+            1.       General:
+                     a.   The relief factor shall be used:
+                          (1)   In planning and managing budgets; and
+                          (2)   To establish the number of positions needed to cover the institution’s
+                                staffing plan.
+                     b.   Relief factor absence categories Include vacation time off, training, and
+                          military leave.
+                     c.   Relief factor positions shall not be used to create fixed posts.
+       G.   Staffing Plans
+            1.       General:
+                     a.   Staffing plans and schedules must be approved by the functional unit
+                          manager and Assistant Director of Operations or designee, and be in
+                          alignment with the staffing standards prior to implementation.
+                     b.   Once authorized, staffing plans cannot be changed without following either
+                          the annual or emergency process as explained below.
+                     c.   Institution staffing levels must balance: Total posts multiplied by relief factor,
+                          is equal to the number of full time employees (FTE) and can be reconciled
+                          with the Position Inventory Control System managed by Department of
+                          Administrative Services.
+                     d.   Relief Factor positions (FTE) shall not be used to create additional posts to
+                          enhance operational objectives. Funding for Relief Factor is solely for the
+                          purpose of providing regular day off relief and to offset absences before
+                          requiring overtime to cover fixed post functions.
+            2.       Staffing Plan Development
+                     a.   Each post shall be classified as being either fixed or pull, and relieved or non-
+                          relieved.
+            3.       Staffing Plan Analysis – Semi-Annual (twice per year) Process:
+                     a.   The assistant superintendent o f security/security manager shall review all
+                          staffing plans semi-annually (twice each year), or as operational changes
+                          occur, to ensure that the required balance is achieved prior to submission to
+                          the functional unit manager for approval.
+Effective 11/17/17                            Page 4 of 8                                 Policy 40.2.1
+                     b.   If the staffing plan is out-of-balance with the relief factor, i.e., insufficient to
+                          cover the posts adequately, out-of-balance more than .49, the staffing plan
+                          must be revised by either:
+                          (1)   Decreasing the number of posts; or
+                          (2)   Increasing the number of budgeted positions.
+                          (3)   Once authorized, staffing plans cannot be changed without following
+                                either the relief factor management or emergency process.
+                          (4)   Requests for changes must be submitted in writing Security Staffing
+                                Standard Review and Exception Request form (CD 1434).
+                     c.   If a revision is approved by the Assistant Director of Operations or designee,
+                          the Staff Deployment System Manager and Institution Staff Deployment
+                          Coordinator(s) shall prepare the appropriate databases, prepare a new
+                          staffing plan and schedule, and distribute revised master rosters.
+            4.       Annual Post Audit and Evaluation and Staffing Analysis:
+                     Posts shall be evaluated at least annually by functional unit management staff and
+                     in consultation with the functional unit PREA coordinator to assess, determine, and
+                     document whether adjustments are needed to the established staffing plans and
+                     ensure facilities have the resources available to commit to ensure adherence to the
+                     staffing plan. Posts shall be evaluated also for continuous need, abolishment,
+                     combination with other posts, change of classification, change of category
+                     designation, reduction or increase in the number of shifts staffed daily, the number
+                     of days staffed, or continuance without modification.
+                     a. A Security Staffing Standard Review and Exception Request form (CD1434) will
+                         be submitted annually to the staff deployment manager, signed by the assistant
+                         superintendent of security/institution security manager and functional unit
+                         manager. This will in turn be submitted to the agency PREA coordinator after
+                         the Chief of Security has approved and signed it. This will occur for each
+                         institution annually. Forms will be retained centrally with the staff deployment
+                         system manager.
+            5.       Staffing Plan Analysis – Emergency Process:
+                     a.   A staffing plan may be temporarily revised without the Assistant Director of
+                          Operations or designee approval only when the institution’s emergency
+                          response plan is implemented.
+                     b.   The Assistant Director of Operations shall be notified immediately of the
+                          emergency revision to the staffing plan.
+                     c.   The emergency revision shall not exceed 30 days without a permanent
+                          revision to the staffing plan.
+            6.       Relief Factor Management Process:
+                     a.     The functional unit manager (or designee) shall approve activation or
+                          deactivation of posts based on out-of-balance conditions that exist because of
+                          vacancies and/or absences that cause the year-to-date relief factor to be
+                          greater than the historical or system-to-date relief factors.
+                     b.   Pull posts shall be evaluated for use on a daily basis to be considered for use
+                          to cover absences that are in excess of the relief factor and off-duty limits.
+
+                     c.   Use of pull posts will be evaluated by the Officer In Charge (OIC) each shift
+                          before pulling to cover an open post, giving consideration to how recently the
+                          post has been utilized as a pull post to avoid significant impact to the
+
+Effective 11/17/17                           Page 5 of 8                                       Policy 40.2.1
+                     operational function of the pull post.
+       H.   Roster Management
+            1.       General:
+                     a.   Regular days off are assigned to posts.
+                     b.   Skill requirements may be assigned to posts.
+                     c.   Actively recruit to fill vacancies as soon as possible.
+            2.       Leave Management:
+                     a.   The assistant superintendent of security/security manager shall approve the
+                          number of employees who may be off-duty on any given work day.
+                     b.   Primary vacation periods shall be scheduled through the use of a bid system
+                          in accordance with the applicable labor agreement and/or established
+                          procedures. The institution staff deployment coordinator shall record
+                          scheduled vacation bid time off in the ISDS Bid Information module.
+                     c.   Requests for individual leave days shall be handled as follows:
+                          (1)    All leave requests (CD1) shall be submitted to the institution staff
+                                deployment coordinator/timekeeper. Emergency requests will be
+                                evaluated on a case-by-case basis.
+                          (2)   The institution staff deployment coordinator shall record the time and
+                                date received.
+                          (3)     The assistant superintendent of security/security manager or
+                                management designee shall make a final leave decision in accordance
+                                with current off-duty limits.
+                          (4)    Planned leave approval, denial or pending decisions shall be noted on
+                                the CD1 form and returned to the employee prior to the date requested.
+                                A copy of the CD1 form shall be retained in a time and attendance file
+                                (either paper or electronic). Upon approval of individual planned leaves,
+                                the institution staff deployment coordinator/timekeeper shall enter the
+                                leave information in the ISDS leave requests module.
+                          (5)   The institution staff deployment coordinator shall use the planned leaves
+                                file to record and monitor leave denials. If previously denied time
+                                becomes available, refer to collective bargaining agreement.
+                     d.   Unscheduled absences shall be reported and processed pursuant to
+                          institution practice.
+                     e.   All institution call in slips and leave request slips indicating the absence may
+                          be eligible for FMLA/OFLA protection must be forwarded to the Department of
+                          Corrections Human Resources FMLA/OFLA Coordinator’s office for review
+                          and processing.
+                     f.   The institution staff deployment coordinator/timekeeper shall track all
+                          employee absences. Absence data shall be reviewed periodically by the
+                          assistant superintendent for security/security manager.
+                     g.   An employee leave request (CD1) form must be submitted for any time loss.
+            3.       Overtime Management:
+                     a.   Overtime shall not be authorized unless all shift relief positions have been
+                          used.
+                     b.   Overtime shall not be authorized unless a documented emergency exists or a
+Effective 11/17/17                           Page 6 of 8                                    Policy 40.2.1
+                          post critical to the security of the institution would remain unfilled.
+                     c.   Overtime shall not be used to cover unrelieved posts, unless they are
+                          critical to the operation, and only to address short-term issues/needs. Such
+                          use must be authorized by the assistant superintendent of security/security
+                          manager.
+                     d.   Overtime shall not be authorized unless all posts classified as “Pull” have
+                          been evaluated for closure given the totality of circumstances.
+                     e.   All overtime must have prior approval by the assistant superintendent for
+                          security/security manager, or OIC. All overtime hired must be recorded on the
+                          Roster/Exception sheets with accurate record of hours and start/stop times.
+                     f.   Overtime shall be recorded in the ISDS work record within no more than 72
+                          hours with actual and appropriate reason codes provided, giving consideration
+                          to all variables affecting overtime management, including all planned and
+                          unplanned absences, training, military, hospital watch, vacancies, etc.
+                          Priority will be given to work record exception entries daily.
+                          (1)   Prior to assigning overtime, open posts or assignments (except pull
+                                posts) will be filled by the Assistant Superintendent of Security, ISM, or
+                                management designee with available flex/relief staff prior to rosters
+                                being released to OIC’s in accordance with institution policy.
+                          (2) All overtime entries clearly associated with an absence pay code will be
+                               designated with an exception reason
+                          (3)   All overtime not associated with an absence pay code will be entered
+                                with the actual exception reason i.e. Report writing, hospital watch
+                                (where hospital watches are not filled with an existing post), etc.
+                          (4)   All absences from the roster related to training must be coded with the
+                                appropriate pay code.
+
+                          (5)   Assistant superintendent of security or management designee will
+                                provide oversight of this process to ensure overtime coding is in
+                                compliance with this policy.
+
+            4.       Use of a Daily Roster:
+                     a.   The OIC shall be responsible for the documentation and accuracy of the daily
+                          roster variance and exception notation. The completed daily roster shall be
+                          routed to the institution staff deployment coordinator/timekeeper at the end of
+                          the shift to be recorded in ISDS.
+                     b.   Making Adjustments to the Daily Roster:
+                          (1)    All adjustments to the daily assignment roster shall be recorded by the
+                                OIC on the exception section of the roster or on the form provided by
+                                institution staff deployment coordinator.
+                          (2)   Adjustment notations shall follow a standard format:
+                                (a)    The open post shall be listed first followed by the action taken:
+                                      relieved with an employee assigned to a shift relief position, by
+                                      substituting with staff from another post, or overtime.
+                                (b)    The absence category for the absence shall be listed if known, by
+                                      the OIC.
+                                (c)   If no appropriate code for the absence or overtime exists, a brief
+                                      reason shall be provided.
+Effective 11/17/17                            Page 7 of 8                                       Policy 40.2.1
+                           (3) When an employee works overtime, record in the adjustment notation
+                               whether the overtime was mandatory or voluntary (M or V) and the total
+                               number of overtime hours worked.
+                           (4) The ISDS Coordinator will record and make adjustments to the
+                               exception sheet when the absence category was unknown by the OIC.
+                      c.   Assignment of Shift Relief and Variable Relief Staff:
+                           (1)   Shift relief and variable relief positions not already assigned to fill open
+                                 posts on the daily roster to alleviate overtime in advance, shall appear
+                                 on the daily roster as relief positions at shift time. Assignment for
+                                 unplanned absences shall be made by the OIC.
+                           (2)   Filling Fixed Posts: If an absence in a fixed post occurs, the absence
+                                 must be filled according to the following priority:
+                                 (a)    Shift relief and variable relief staff
+                                 (b)    Pull posts
+                                 (c)    Overtime
+                           (3)   Any variation from this order of priority shall require written notice to the
+                                 functional unit manager or designee on the next workday.
+                      d.   Daily Roster Work Record Procedure – Daily roster work record exceptions
+                           must be completed and reconciled within 72 hours of the end of the work day.
+                      e.   Time and attendance reports shall be generated by the s t a f f
+                           d e p l o y m e n t c o o r d i n a t o r / t i m e k e e p e r concurrent to pay period due
+                           dates, and reconciled with time sheets.
+                      f.   The staff deployment system manager shall audit the institution staff
+                           deployment coordinator to ensure proficiency.
+IV.   IMPLEMENTATION
+        This policy will be adopted immediately without further modification.
+
+
+
+
+ Certified: signature on file
+          Michelle Mooney, Rules Coordinator
+
+
+ Approved: signature on file
+        Brian Belleque, Deputy Director
+
+
+
+
+ Effective 11/17/17                              Page 8 of 8                                              Policy 40.2.1
+

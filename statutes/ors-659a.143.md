@@ -26,6 +26,7 @@ relationships:
   implements: []
   implemented_by:
     - das-107-011-150
+    - doc-20-6-10
     - oar-839-006-0345
   references_external: []
   related: []

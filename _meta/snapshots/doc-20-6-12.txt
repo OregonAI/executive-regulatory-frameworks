@@ -1,0 +1,609 @@
+                               DEPARTMENT OF CORRECTIONS
+                                    Information Systems
+
+                     Control of Hazardous Energy
+ Title:                                                              DOC Policy: 20.6.12
+                     (Lockout/Tagout)
+ Effective:          3/8/12                                          Supersedes: 12/1/99
+ Applicability: All DOC employees, contractors, and volunteers
+ Directives Cross-Reference:
+ Attachments:
+       Form CD 1393 – Lockout – Tagout Machine and Equipment Survey
+       Form CD 1394 – Lockout – Tagout Machine Energy Control Procedure
+       Form CD 1395 – Annual Energy Control Procedure Inspection Form
+
+I.        PURPOSE
+
+          To prevent injury to staff, inmate workers, and/or contractors from the unexpected
+          energization, start-up, or release of stored energy from machines, equipment or processes
+          during servicing and/or maintenance or repair. This policy also includes lockout – tagout
+          provisions required for individuals performing electrical work.
+
+II.       DEFINITIONS
+
+          A.   Affected Employee: An employee who is required to use machines, equipment, or
+               systems that are being serviced under lockout/tagout, or if they are in or must work
+               in the area. An affected employee becomes an authorized employee when that
+               employee’s duties include performing servicing or maintenance covered under this
+               policy.
+
+          B.   Authorized Employee: An employee who implements lockout/tagout on a machine
+               or equipment requiring servicing or maintenance.
+
+          C.   Capable or Being Locked Out: Designed with a hasp or attachment to which a lock
+               can be affixed; or, has a locking mechanism built in; or, lockout that can be achieved
+               without need to dismantle, rebuild, replace or permanently alter its energy control
+               capacity.
+
+          D.   Energized: Connected to an energy source or containing residual or stored energy.
+
+          E.   Energy Source: Any source of electrical, mechanical, hydraulic, pneumatic,
+               chemical, thermal, or other energy.
+
+          F.   Isolation: The isolation of any and all forms of unwanted energy that could be a
+               serious hazard to employees.
+
+          G.   Lockout: The placement of a lockout device on an energy isolating device, ensuring
+               that the energy isolating device and the equipment being controlled cannot be
+               operated until the lockout device is removed.
+
+
+Effective 3/8/12                            Page 1 of 12                              Policy 20.6.12
+       H.    Lockout Device: A device that utilizes a positive means such as a lock, either key or
+             combination type, to hold an energy isolating device in the safe position and prevent
+             the energizing of a machine or equipment.
+
+       I.    Normal Production Operations: The utilization of a machine or equipment to perform
+             its intended production function.
+
+       J.    Other Employee: All employees whose work operations are or may be in an area
+             where energy control procedures may be utilized.
+
+       K.    Servicing and/or Maintenance: Workplace activities such as construction, installing,
+             setting up, adjusting, inspecting, modifying, and maintaining and/or servicing
+             machines or equipment.
+
+       L.    Tagout: The placement of a tagout device on an energy isolating device, to indicate
+             that the energy isolating device and the equipment being controlled may not be
+             operated until the tagout device is removed.
+
+       M.    Tagout Device: A prominent warning device, such as a tag and a means of
+             attachment, which can be securely fastened to an energy isolating device, to indicate
+             that the energy isolation device and the equipment being controlled may not be
+             operated until the tagout device is removed.
+
+III.   POLICY
+
+       A.    Application
+
+             1.    This policy applies to and is to be used for the control of energy sources during
+                   servicing and/or maintenance or repair of all machines and/or equipment.
+                   Servicing and/or maintenance that takes place during normal production
+                   operation is covered by this program if:
+
+                   a.   An employee is required to remove or bypass a guard or other safety
+                        device; or
+
+                   b.   An employee is required to place any part of his/her body into an area on
+                        a machine or equipment where work is actually performed upon the
+                        material being processed (point of operation) or where an associated
+                        danger zone exists during a machine cycle.
+
+             2.    This policy does not apply to work on cord and plug connected electric
+                   equipment if the equipment can be unplugged and the plug is under the
+                   exclusive control of the employee servicing or maintaining the equipment.
+
+             3.    This policy also covers exposure to electrical hazards from work on, near, or
+                   with conductors or equipment in electrical utilization or installation. See Section
+                   E below.
+
+       B.    Locks and Tags
+
+
+
+
+Effective 3/8/12                            Page 2 of 12                              Policy 20.6.12
+             1.    It is the responsibility of the Department of Corrections to supply all authorized
+                   and/or affected employees with the necessary locks, tags, chains, wedges,
+                   adaptable pins, and/or the time necessary to fabricate such items.
+
+             2.    Lockout – Tagout devices shall be singularly identifiable, shall be the only
+                   device(s) used for controlling energy, and shall not be used for other purposes.
+
+             3.    Lockout – Tagout devices shall be standardized at each functional unit.
+
+             4.    Lockout – Tagout devices when used shall be labeled as to who applied the
+                   device.
+
+             5.    Locks:
+
+                   a.   Locks shall be individually keyed.
+
+                   b.   Lockout devices shall be durable and capable of withstanding the
+                        environment to which they are exposed to for the time they are in use.
+
+                   c.   Locks may be checked out by or issued to authorized employees.
+
+             6.    Tags:
+
+                   a.   Tags are warning devices only and may evoke a false sense of security;
+                        tags do not provide the physical restraint of a locking device and their use
+                        and meaning needs to be understood as part of the overall energy control
+                        program.
+
+                   b.   Tagout devices shall be constructed and printed so that exposure to
+                        weather or wet or damp conditions will not cause the tag to deteriorate or
+                        become illegible.
+
+                   c.   If tagout devices are used, they shall warn against hazardous conditions if
+                        the machine or equipment is energized and shall include a legend such as
+                        the following: DO NOT START, DO NOT OPEN, DO NOT CLOSE, DO
+                        NOT ENERGIZE, DO NOT OPERATE, ETC..
+
+                   d.   Tags must be legible and understandable by staff, inmate workers, and/or
+                        contractors.
+
+                   e.   Training on the use of tags shall be communicated to all employees where
+                        tagout devices are used to isolate energy sources.
+
+                   f.   When a tag is used to isolate energy, it is not to be removed without
+                        authorization of the authorized person responsible for it and is never to be
+                        bypassed, ignored, or defeated.
+
+                   g.   Tags must be securely attached to energy isolation devices so that they
+                        cannot be inadvertently or accidentally detached during use. Attachment
+                        devices for tags shall be non-reusable and have a minimum breaking
+                        strength of 50 pounds.
+
+
+Effective 3/8/12                            Page 3 of 12                              Policy 20.6.12
+       C.    Machinery/Equipment Assessment and Written Energy Control Procedures
+
+             1.    An assessment shall be performed in each work location where machines,
+                   equipment, or systems are in use to determine if written hazardous energy
+                   control procedures are necessary. (See CD 1393) Exception: A written
+                   procedure to control energy for a particular machine or equipment is not
+                   required when all of the following conditions exist:
+
+                   a.   The machine or equipment has no potential for stored or residual energy
+                        or re-accumulation of stored energy after shut down;
+
+                   b.   The machine or equipment has a single energy source, which can be
+                        readily identified and isolated;
+
+                   c.   The isolation and locking out of that energy source will completely de-
+                        energized and deactivate the machine or equipment;
+
+                   d.   The machine or equipment is isolated from that energy source and locked
+                        out during servicing and maintenance;
+
+                   e.   The lock out device is under the exclusive control of the authorized
+                        employee performing the service or maintenance;
+
+                   f.   The servicing and maintenance does not create hazards for other
+                        employees; and
+
+                   g.   There were no accidents involving the unexpected activation or re-
+                        energization of the machine or equipment during service or maintenance.
+
+             2.    Machinery/Equipment Hazardous Energy Control written procedures shall
+                   include the following and be done in the sequence listed below:
+
+                   a.   Preparation of equipment/machinery for shutdown;
+
+                        1) The listing of all energy sources and associated energy hazards; and
+
+                        2) A process to notify employees of a lockout – tagout procedure
+                           implementation.
+
+                   b.   Machine or equipment shutdown, listing of the normal shut down procedure
+                        or process.
+
+                   c.   Machine or equipment isolation; the listing of all energy control devices
+                        needed, their use, and location.
+
+                   d.   Lockout or tagout application; a listing of the order of application of lockout
+                        – tagout devices.
+
+                   e.   Stored energy; a listing of all potentially hazardous energy stored or
+                        residual energy and the means to relieve, disconnect, and/or restrain
+                        stored hazardous energy.
+
+
+Effective 3/8/12                            Page 4 of 12                               Policy 20.6.12
+                   f.   Verification of isolation; a process to verify that isolation and de-
+                        energization of the machinery/equipment has been accomplished.
+
+                   g.   Release of machinery/equipment from lockout – tagout the shall be done
+                        in the following sequence;
+
+                        1)   Work area inspection; a process to verify that equipment is
+                             operationally intact.
+
+                        2)   Employee check; a process to verify that all persons have been safely
+                             positioned or removed before lockout – tagout devices are removed.
+
+                        3)   Lockout or tagout device(s); removal process of lockout – tagout
+                             devices.
+
+                   h.   Testing or position of machinery/equipment requiring the temporary
+                        removal of energy control devices;
+
+                        1)   Clear Machinery/Equipment; a process to ensure that the
+                             equipment/machinery is clear of nonessential items and that
+                             employees have been safely positioned or removed.
+
+                        2)   Remove process of lockout – tagout devices.
+
+                        3)   Process to energize and proceed with testing or positioning.
+
+                        4)   A process to de-energize all systems and reapply energy control
+                             measures as required of the written procedure.
+
+             3.    The applicable work section shall maintain energy control procedures for their
+                   machinery, equipment, or processes.
+
+             4.    Energy control procedures shall be available to all affected employees in work
+                   areas.
+
+       D.    Machinery/Equipment Hazardous Energy Control Process (when a written
+             energy control procedure is not required)
+
+             1.    Preparation for Shutdown:
+
+                   a.   The authorized employee shall know the type and magnitude of the energy,
+                        the hazards of the energy to be controlled and the method or means to
+                        control the energy.
+
+                   b.   All affected and other employees (as needed) shall be notified that a
+                        lockout – tagout procedure is going to be implemented and the reason for
+                        the procedure.
+
+             2.    Machine or Equipment Shutdown: The machine or equipment shall be turned
+                   off or shut down using the machine or equipments established shut down
+                   procedures.
+
+
+Effective 3/8/12                           Page 5 of 12                             Policy 20.6.12
+             3.    Machine or Equipment Isolation: Energy isolating device that is needed to
+                   control the energy to the machine or equipment shall be physically located and
+                   operated in such a manner as to isolate the machine or equipment from the
+                   energy source.
+
+             4.    Lockout or Tagout Device Application
+
+                   a.   A lockout or tagout device shall be affixed to the energy isolating device by
+                        the authorized employee.
+
+                   b.   A lockout device where used shall be affixed in a manner that will hold the
+                        energy isolating device in a “safe” or “off” position.
+
+                   c.   A tagout device where used shall be attached in such a manner to indicate
+                        the operation or movement of the energy isolating device from the “safe” or
+                        “off” position is prohibited.
+
+             5.    Stored energy such as that in springs, elevated machine members, rotating
+                   flywheels, hydraulic systems, electrical components, air lines, gas, steam
+                   and/or water pressure, etc. must be dissipated or restrained by methods such
+                   as grounding, repositioning, blocking , bleeding down, etc.
+
+             6.    Verification of isolation; prior to starting work on the machine or equipment the
+                   authorized employee shall verify that isolation and de-energization has been
+                   accomplished. After verification of isolation the machinery or equipment is now
+                   locked out.
+
+             7.    Release from lockout or tagout (Restoring machinery/equipment to normal
+                   operations):
+
+                   a.   The work area shall be inspected to ensure that nonessential items have
+                        been removed and to ensure that the machine or equipment components
+                        are operationally intact.
+
+                   b.   The work area shall be checked to ensure that persons have been safely
+                        positioned or removed from the area.
+
+                   c.   Lockout or tagout device removal; each lockout or tagout device shall be
+                        removed by the employee who applied the device.
+
+                   d.   All affected employees shall be notified that the lockout or tagout devices
+                        have been removed.
+
+             8.    Testing or positioning of machines, equipment, or components thereof in
+                   situations where the lockout or tagout device must be temporarily removed for
+                   testing prior to full release from lockout – tagout.
+
+                   a.   Clear the machine or equipment of tools as listed in 7. a. above.
+
+                   b.   Remove employees from the machinery or equipment area as listed in 7.
+                        b. above.
+
+
+Effective 3/8/12                            Page 6 of 12                              Policy 20.6.12
+                   c.   Remove the lockout or tagout device as listed in 7. c. above.
+
+                   d.   Energize and proceed with testing or positioning.
+
+                   e.   When testing or positioning is complete, de-energized all systems and
+                        reapply energy control measures.
+
+       E.    Electricians Lockout – Tagout
+
+             1.    Electrically energized parts to which an employee or inmate may be exposed
+                   shall be de-energized before work is started on or near them, unless it can be
+                   demonstrated and documented that de-energizing adds additional or increased
+                   hazards or is unfeasible due to equipment design or operational limitations.
+
+                   a.   Examples of increased or additional hazards include interruption of life
+                        support equipment, deactivation of emergency alarm systems, shutdown
+                        of hazardous location ventilation equipment, or removal of illumination for
+                        an area.
+
+                   b.   If the exposed live parts are not de-energized, other safety related work
+                        practices shall be used to protect staff and inmates who may be exposed
+                        to the electrical hazards involved. Only qualified persons may work on
+                        electric circuit parts or equipment that has not been de-energized under the
+                        procedures of this section (H). Such work practices shall protect staff and
+                        inmates against contact with energized circuit parts directly or indirectly
+                        through some other conductive object. Such persons shall be capable of
+                        working safely on energized circuits and shall be familiar with the proper
+                        use of special precautionary techniques, personal protective equipment,
+                        insulating and shielding materials, and insulated tools.
+
+             2.    Safe procedures for de-energizing circuits and equipment shall be determined
+                   before circuits or equipment are de-energized.
+
+             3.    Circuits and equipment to be worked on shall be disconnected from all electric
+                   energy sources. Control circuit devices, such as push buttons, selector
+                   switches, and interlocks, may not be used as the sole means for de-energizing
+                   circuits or equipment. Interlocks for electric equipment may not be used as a
+                   substitute for lockout and tagging procedures.
+
+             4.    Stored electric energy, which might endanger workers, shall be released.
+                   Capacitors shall be discharged and high capacitance elements shall be short-
+                   circuited and grounded if the stored electric energy might endanger workers.
+
+             5.    Stored non-electrical energy in devices that could re-energize electric circuit
+                   parts shall be blocked or relieved to the extent that the device could not
+                   accidentally energize the circuit parts.
+
+             6.    A lock and tag shall be placed on each disconnecting means used to de-
+                   energize circuits and equipment on which work is to be performed.
+
+             7.    Each tag shall contain a statement prohibiting unauthorized operation of the
+                   disconnecting means and removal of the tag.
+
+Effective 3/8/12                            Page 7 of 12                             Policy 20.6.12
+             8.    If a lock cannot be applied and if it can be demonstrated that tagging procedures
+                   will provide a level of safety equivalent to that obtained by the use of a lock, a
+                   tag may be used without a lock.
+
+             9.    A tag used without a lock shall be supplemented by at least one additional safety
+                   measure that provides a level of safety equivalent to that obtained by use of a
+                   lock.
+
+             10. A lock may be placed without a tag only under the following conditions:
+
+                   a.   Only one circuit or piece of equipment is de-energized; and
+
+                   b.   The lockout period does not extend beyond the work shift; and
+
+                   c.   Workers exposed to the hazards associated with re-energizing the circuit
+                        or equipment are familiar with this procedure.
+
+             11. Circuits and/or equipment shall be verified as de-energized before work can
+                 begin.
+
+                   a.   A qualified person shall test the equipment operating controls or otherwise
+                        verify that equipment cannot be restarted.
+
+                   b.   A qualified person shall use test equipment to test the circuit elements and
+                        electrical parts of equipment to which workers may be exposed and shall
+                        verify that the circuit elements and equipment parts are de-energized. The
+                        test shall also determine if any energized condition exists as a result of
+                        inadvertently induced voltage or unrelated voltage back feed even though
+                        specific parts of the circuit have been de-energized and presumed to be
+                        safe.
+
+             12. Re-energizing equipment or circuits, even temporarily, shall be done in the
+                 following order:
+
+                   a.   A qualified person shall conduct tests and visual inspections as necessary
+                        to verify that all tools, electrical jumpers, shorts, grounds, and other such
+                        devices have been removed so that the circuits and equipment can be
+                        safely energized.
+
+                   b.   Workers exposed to the hazards associated with re-energizing the circuit
+                        or equipment shall be warned to stay clear of circuits and equipment.
+
+                   c.   Each lock and tag shall be removed by the worker who applied it or under
+                        his or her direct supervision. However, if this worker is absent from the
+                        workplace then the lock or tag may be removed by a qualified person
+                        designated to perform this task provided that:
+
+                        1)   The employer ensures that the employee who applied the lock or tag
+                             is not available at the workplace, and
+
+
+
+Effective 3/8/12                            Page 8 of 12                              Policy 20.6.12
+                        2)   The employer ensures that the employee is aware that the lock or tag
+                             has been removed before he or she resumes work at that workplace.
+
+                   d.   There shall be a visual determination that all workers are clear of the
+                        circuits and equipment.
+
+       F.    Contractors, Subcontractors
+
+             1.    All contractors performing maintenance, repairs, or other service on Department
+                   of Corrections equipment, machinery, or systems shall be informed of this policy
+                   and lockout or tagout procedures.
+
+             2.    All contractors shall inform the Department of Corrections on their respective
+                   lockout/tagout policy and procedure.
+
+             3.    The department shall ensure that affected staff and inmates understand and
+                   comply with the restrictions and prohibitions of the outside contractor’s
+                   lockout/tagout policy and procedures.
+
+       G.    Functional Unit Requirements
+
+             1.    Written procedures shall be developed at each location and utilized if shift or
+                   personnel changes occur during a Lockout – Tagout procedure to ensure the
+                   continuity of lockout or tagout protection. This procedure shall include provisions
+                   for the orderly transfer of lockout or tagout device protection between off-going
+                   and oncoming employees.
+
+             2.    Written procedures shall be developed at each location to address the
+                   possibility of a lockout tagout device having to be removed by someone other
+                   than the employee who applied the device. This procedure shall be part of the
+                   energy control procedures of the functional unit and shall include:
+
+                   a.   The authorization, use, and storage of a duplicate key for a lock used for
+                        energy control procedures if needed to remove a lock if the authorized
+                        employee is not available to remove the lock;
+
+                   b.   A process to verify that the authorized employee who applied the device is
+                        not at the facility and to document that the authorized employee is not
+                        available to return to the work site to remove the lock;
+
+                   c.   Provisions that the employee removing the lock is trained in the lock
+                        removal procedures;
+
+                   d.   A verification process that it is safe to unlock the device (see C. Energy
+                        Control Procedures 2,g above) and use the machinery or equipment; and
+
+                   e.   Provisions that the authorized employee who applied the device is informed
+                        that the lockout tagout device was removed: and that he/she has this
+                        knowledge prior to resuming work.
+
+       H.    Roles and Responsibility
+
+
+Effective 3/8/12                            Page 9 of 12                               Policy 20.6.12
+             1.    Authorized and/or Affected employees will:
+
+                   a.   Implement a lockout - tagout procedure when performing any service
+                        and/or maintenance/repair on machinery or equipment as defined in this
+                        policy; and
+
+                   b.   In the event of multiple authorized employees performing service and/or
+                        maintenance/repair on machinery or equipment, each employee shall
+                        place his/her own lock and identification tag on the energy isolation device;
+                        and
+
+                   c.   Report all changes or deficiencies of energy control procedures to their
+                        managers or supervisors immediately; and
+
+                   d.   Not attempt to remove any lockout/tagout device(s) not installed by
+                        themselves.
+
+             2.    Managers/Supervisors will:
+
+                   a.   Ensure this policy is implemented and followed in their areas of
+                        responsibility; and
+
+                   b.   Ensure that a Machinery and Equipment Assessment and specific
+                        lockout/tagout energy control procedures are completed as required by this
+                        policy within their areas of responsibility; and
+
+                   c.   Identify and ensure adequate training for all employees that are authorized
+                        to implement lockout/tagout.
+
+             3.    Safety Managers shall:
+
+                   a.   Provide consultation to managers and supervisors or others as necessary
+                        on matters related to the implementation and compliance of this safety
+                        policy, and
+
+                   b.   Assist in developing or procuring the necessary training required by this
+                        program, and
+
+                   c.   Monitor and audit the lockout/tagout program for compliance and continual
+                        safety improvement.
+
+       I.    Training Requirements
+
+             1.    Other employees shall be trained:
+
+                   a.   On the purpose and use of the energy control policy; and
+
+                   b.   On the prohibition of removing a lockout - tagout device that was not put
+                        on and used by that specific employee by utilizing this policy; and
+
+                   c.   On the prohibition on restarting machines, equipment, or systems, that are
+                        locked and/or tagged out.
+
+Effective 3/8/12                            Page 10 of 12                             Policy 20.6.12
+             2.    Affected employee(s) shall be trained in the above plus the following:
+
+                   a.   In the recognition of hazardous energy sources where maintenance may
+                        be required; and
+
+                   b.   In the types and magnitude of the energy in the work place.
+
+             3.    Authorized Employee(s) shall be trained in the above plus the following:
+
+                   a.   To be knowledgeable of the function and process of the machines or
+                        equipment they are required to perform lockout/tagout on; and
+
+                   b.   In the various methods and/or types of lockout devices necessary to
+                        lockout equipment, machinery, or systems; and
+
+                   c.   In the purpose, use, and limitations of tags used in lockout/tagout.
+
+             4.    Employee Retraining:
+
+                   a.   Retraining shall be provided for all authorized and affected employees
+                        whenever there is a change in their job assignments, a change in
+                        machines, equipment or processes that present a new hazard, or there is
+                        a change in the energy control procedures.
+
+                   b.   Additional retraining shall also be conducted whenever a periodic
+                        inspection reveals an inadequacy in the employee’s knowledge or use of
+                        energy control procedures.
+
+             5.    All training and/or retraining shall be documented and maintained at the facility
+                   with copies forwarded to training staff.
+
+       J.    Inspection and Review
+
+             1.    The department shall conduct periodic inspection of all energy control
+                   procedures at least annually to ensure that this policy and the requirement
+                   thereof are being followed. See CD 1395.
+
+             2.    An authorized employee other than the one(s) using the energy control
+                   procedure being inspected shall perform the inspection.
+
+             3.    Periodic inspections shall correct any deviations or inadequacies observed.
+
+             4.    Where lockout is used for energy control, the periodic inspection shall include a
+                   review between the inspector and each authorized employee of his/her
+                   responsibilities under the energy control procedure being inspected.
+
+             5.    Where tagout is used for energy control the periodic inspection shall include a
+                   review between the inspector and each authorized employee of his/her
+                   responsibilities who utilized the energy control procedure being inspected and
+                   the elements set forth in paragraph B. Locks and Tags, 6. Tags.
+
+
+Effective 3/8/12                           Page 11 of 12                              Policy 20.6.12
+             6.    A copy of all periodic inspections shall be maintained at each work section.
+
+III.   IMPLEMENTATION
+
+       This policy will be adopted immediately without further modification.
+
+
+
+Certified: _signature on file____________________
+Birdie Worley, Rules Coordinator
+
+
+Approved: __signature on file___________________
+Mitch Morrow, Deputy Director
+
+
+
+
+Effective 3/8/12                          Page 12 of 12                             Policy 20.6.12
+

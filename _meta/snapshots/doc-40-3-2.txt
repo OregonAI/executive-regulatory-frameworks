@@ -1,0 +1,129 @@
+                                         DEPARTMENT OF CORRECTIONS
+                                                Institutions
+
+  Title:               Capacity Management                              DOC Policy: 40.3.2
+  Effective:           04/20/21                                         Supersedes: 05/01/15
+                       Institution Based Employees, Correctional Services, Office of Population
+  Applicability:       Management,
+                       Correctional Rehabilitation, and Behavioral Health Services
+  Directives Cross-Reference: None
+  Attachments:         None
+
+
+I. PURPOSE
+   The purpose of this policy is to establish designated authority in managing institution bed capacity,
+   utilize standardized methods in monitoring information system capacity population reports, develop
+   a master bed capacity inventory record, and maintain consistent bed definitions for capacity
+   management.
+
+II. DEFINITIONS
+
+   A. Adult in Custody: Any person under the supervision of the Department of Corrections who is not
+      on parole, probation, or post-prison supervision
+
+   B. Emergency Bed: Beds created for short-term temporary use when an institution or special
+      housing unit population exceeds permanent beds.
+
+III. POLICY
+
+   A. Responsibility and Management
+
+       1. The Office of Population Management has administrative oversight for the management of
+          prison bed occupancy and capacity requirements for AICs housed in DOC facilities.
+          Responsibilities include:
+
+              a. Prepare a ten-year population plan based on the population forecast published by the
+                 Department of Administrative Services Office of Economic Analysis.
+
+                i.   The population plan will be developed using a target general population vacancy rate
+                     of 4%.
+
+               ii.   A reasonable methodology will be applied to determine at what point capacity will be
+                     activated or deactivated when the vacancy rate is projected to be above or below 4%.
+                     This methodology may include, but is not limited to:
+
+   Effective: 04/20/21                                    1                                  Policy 40.3.2
+                1. Considerations for how long the vacancy rate is projected to be outside of the 4-6%
+                    range.
+
+                2. Consideration of the impacts bed activations/deactivations have on institution
+                    staff and operations.
+
+                3. Consideration for the recent and current trends in the use of restrictive housing,
+                    mental health and program capacity.
+
+                4. Planned operational changes, such as the closure of a unit or facility.
+
+                5. Agency strategic initiatives that drive operational changes.
+
+         iii.   This vacancy rate may be adjusted with approval from the Assistant Director of
+                Correctional Services and the Assistant Director of Operations if current
+                circumstances warrant it, such as but not limited to, a pandemic.
+
+        b. Provide gatekeeper authority for all DOC institution bed capacity.
+
+        c. Provide quality assurance by utilizing standardized bed capacity reports and consistent
+           guidelines for bed type definitions.
+
+        d. Monitor capacity resource reports.
+
+        e. Maintain a master document articulating all emergency beds for each DOC facility for
+           historical purposes.
+
+        f. The Office of Population Management Administrator or designee is responsible to assess
+           and monitor bed capacity and population needs for the department to ensure efficient
+           utilization of bed resources.
+
+B. Procedures
+
+    1. Institutions may request a change in bed numbers or bed type. Any request shall be fully
+       justified in writing and submitted to the Office of Population Management. The request shall
+       include, but not be limited to, the following:
+
+        a. Information of the present bed count/type;
+
+        b. The specific change requested;
+
+        c. Estimated change in number or type of beds resulting from the request; and
+
+        d. The resulting bed count/use after the change is completed.
+
+    2. The Office of Population Management Administrator or designee will:
+
+        a. Review all requests for changes in bed capacities and bed type with the Chief Financial
+Effective: 04/20/21                                    2                                 Policy 40.3.2
+              Officer, Assistant Director of Correctional Services, and the Assistant Director of
+              Operations or their designees. The decision to approve or deny will be communicated to
+              all stakeholders.
+
+          b. Ensure all appropriate changes are made to the Correctional Information System (CIS)
+             capacity and population programs, and Corrections Management Information System
+             (CMIS). All information system changes shall be forwarded to the Operations Division and
+             Research Unit.
+
+      3. The Office of Population Management shall maintain a permanent record, for historical
+          purposes, of all approved changes to bed capacity.
+
+      4. The Chief Financial Officer shall work in concert with the Correctional Services Office of
+          Population Management unit to ensure adequate budgetary resources are made available in
+          administering the required beds in each institution.
+
+
+IV. IMPLEMENTATION
+
+  This policy will be adopted immediately without further modification.
+
+
+
+Certified:    signature on file
+Michelle Mooney, Rules Coordinator
+
+
+Approved:       signature on file
+Heidi Steward, Deputy Director
+
+
+
+
+  Effective: 04/20/21                                  3                               Policy 40.3.2
+

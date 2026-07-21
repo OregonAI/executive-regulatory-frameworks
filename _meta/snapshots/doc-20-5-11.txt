@@ -1,0 +1,339 @@
+                                    DEPARTMENT OF CORRECTIONS
+                                         Human Resources
+
+                      Employee Time Reporting and Payroll
+ Title:                                                                DOC Policy: 20.5.11
+                      Process
+ Effective:           2/1/13                                           Supersedes: 7/15/98
+                   All employees, unless otherwise provided for in an applicable collective
+ Applicability:
+                   bargaining agreement
+ Directives Cross-Reference: Oregon State Payroll System Manual; Oregon Accounting
+ Manual, Chapter 45; Payroll; DAS State Policy 20.005.10, Pay Practices; DAS State Policy
+ 20.005.20, Fair Labor Standards Act; DAS State Policy 60.000.01, Sick Leave with Pay; DAS
+ State Policy 60.000.05, Vacation Leave; AFSCME and AOCE, Bargaining Agreements;
+ Oregon Bureau of Labor & Industries Handbook of Wage & Hour Laws; and Oregon
+ Secretary of State Archives Division, OAR 166-300
+ Attachments:
+        Attachment 1 – Early Paycheck Release Form
+        Attachment 2 – Time Sheet Instructions
+        Attachment 3 – Overtime Authorization (CD 3)
+        Attachment 4 – Emergency Pay Advance Request
+
+I.        PURPOSE
+
+          To provide uniform payroll procedures conforming to the regulations and format set forth by
+          Department of Administrative Services (DAS), Oregon Statewide Payroll Services, and with the
+          laws, rules, policies, and procedures referenced above.
+
+II.       POLICY
+
+          A.    The Department of Corrections utilizes the Oregon Statewide Payroll Application (OSPA),
+                managed by the Department of Administrative Services, to process the monthly payroll in
+                accordance with the policies, procedures and laws referenced above.
+
+          B.    Payday Schedule: Employees are paid on a monthly basis with payday occurring on the
+                first day of each month. If the first day falls on a weekend or holiday, paychecks will be
+                available the last working day of the previous month. The only exception is in January
+                when checks are released the first workday of January to avoid paying thirteen months of
+                wages in a year.
+
+                1.   Any additional payments (i.e., differentials, overtime and on call pay) for the 1st to
+                     15th of the month are also paid on the first of the new month. A supplemental payroll
+                     is paid approximately mid-month for the previous month to account for additional pay
+                     and adjustments. A supplemental payday schedule is distributed annually in
+                     December for the following calendar year and is available upon request from the
+                     Payroll Unit.
+
+                2.   The Payroll Unit uses various means such as next day mail delivery, shuttle service,
+                     or department mail courier to have paychecks/ pay stubs delivered to each functional
+                     unit the day before payday.
+
+                     a. It is the responsibility of each functional unit to safeguard the paychecks and to
+
+
+Effective 2/1/13                             Page 1 of 7                                   Policy 20.5.11
+                      distribute them to employees beginning at 8:00 a.m. on payday. However, 24-
+                      hour institutions may release paychecks/pay stubs earlier on payday to night shift
+                      employees if it can be accommodated, but no earlier than 12:01 a.m. on payday.
+
+                   b. Employees not scheduled to work on payday may receive their paycheck one
+                      day prior to payday if the checks are available and if the employees sign the
+                      “Request for Early Release of Payroll Check” OSPS.99.16 form (Attachment 1)
+                      indicating they will not cash check until payday.
+
+              3.   All paychecks/pay stubs not picked up by payees within five workdays after payday
+                   shall be returned to the Payroll Unit unless employee has made other arrangements
+                   for pickup or the functional unit verifies employee is entitled to the payment before
+                   distribution.
+
+              4.   Paycheck/pay stubs issued to employees who have terminated shall be returned to
+                   the Payroll Unit. The Payroll Unit will mail checks to the last address in the personnel
+                   system. All check stubs will be kept for six months from date of issue. If check stubs
+                   are not picked up within six months, they will be shredded. Note: Timesheet
+                   instructions and reporting monthly attendance & pay can be found in Attachment 2.
+
+       C.     Finalization, Correction, and Retention of Final Timesheets
+
+              1.   The Payroll Unit is the holder of the final, official timesheet. This timesheet is the
+                   documented record of time worked and leave taken. In the event of an audit or wage
+                   claim, the official timesheet held in the Payroll Unit will be used.
+
+              2.   The timesheet provided approximately on the 15th of each month is a preliminary
+                   timesheet. This timesheet is a working copy and a signature is not required. The
+                   employee and manager shall review the timesheet and agree upon any corrections
+                   and/or changes to be made.
+
+              3.   The timesheet received at the end of each month is the final timesheet. The
+                   timesheet shall be signed and dated by both the employee and the manager. The
+                   final timesheet is kept on file with the Payroll Unit in accordance with the
+                   department’s authorized retention schedule established in accordance with OAR
+                   166-300.
+
+              4.   If there are changes, corrections, or adjustments to be made, they are to be
+                   documented on the original final timesheet. The changes shall be initialed and dated
+                   by the employee and manager.
+
+       D.     Notification of Leave Without Pay (LWOP) and other non-paid time
+
+              1.   Supervisors/timekeepers shall report LWOP to the Payroll Unit in a timely manner to
+                   prevent overpayments to employees. LWOP information needs to reach the Payroll
+                   Unit by payroll cutoff date, which is normally approximately ten work days prior to
+                   month end.
+
+              2.   Supervisors/timekeepers shall use the preliminary timesheet for reporting LWOP;
+                   and any additional non-paid time. The information shall be conveyed by telephone
+                   or fax if it is being communicated on the final day of payroll cutoff. The information
+                   shall be conveyed no later than noon on the final day of payroll cutoff.
+
+
+Effective 2/1/13                            Page 2 of 7                                    Policy 20.5.11
+              3.   LWOP occurring after the cutoff shall be faxed or telephoned to the Payroll Unit on a
+                   daily basis so that the paychecks can be canceled and reissued in the correct
+                   amount. Note: All LWOP shall be reported including employees on worker’s
+                   compensation claim, military leave or on Family Medical Leave Act (FMLA) leave.
+
+       E.     Overtime Authorization Form (CD 3), Attachment 3
+
+              1.   Overtime entries on the time sheets shall be supported by an Overtime Authorization
+                   form initiated and signed by the responsible supervisor and signed by the functional
+                   unit manager or designee. Each overtime occurrence shall be signed by both the
+                   employee and supervisor on the form. Criteria for overtime pay is contained in DAS
+                   State Policy 20.005.20, DOC Policy 20.2.4 and in applicable labor agreements.
+
+              2.   Security Units submitting payroll data via RFMS provide overtime authorizations
+                   generated by the computer system, not form CD3.
+
+              3.   Approved overtime authorizations shall be received by the Payroll Unit with all
+                   timesheets reporting overtime. Overtime hours per timesheet that are not supported
+                   by an authorization are subject to reversal if follow-up inquiry does not acquire the
+                   authorization.
+
+              4.   All records pertaining to payroll and supporting documentation will be retained in
+                   accordance with the department’s authorized retention schedule established in
+                   accordance with OAR 166-300.
+
+       F.     Work Out-of-Class Pay Authorizations
+
+              1.   Authorization for compensation for work out-of-class shall be initiated by the
+                   responsible supervisor and signed by the functional unit manager or designee, and
+                   shall be forwarded to the unit’s human resources manager. Criteria for out-of-class
+                   pay are contained in DAS State Policy 20.005.10 “Pay Practices,” DOC Policy 20.2.2,
+                   and in applicable labor agreements.
+
+              2.   The Personnel Records Unit will enter the approved work out of class into the state
+                   personnel database to be accessed by the payroll system for payment. A copy of the
+                   authorization shall be sent to the Payroll Unit.
+
+              3.   The Payroll Unit will determine if there are any retroactive adjustments to be made
+                   and will enter the adjustments into the payroll system for payment on the next
+                   regularly scheduled payday.
+
+       G.     Salary Advances
+
+              1.   Except as stipulated in labor union contracts, salary advances shall be made only in
+                   emergency situations as defined by DAS Oregon Accounting Manual, 45.25.00PO
+                   and 45.25.00PR. OAM form 75.45.02.FO, Request For Payroll Advance, Attachment
+                   4, shall be used to make the request including explaining the emergency situation,
+                   and shall be approved by the employee’s functional unit manager or his/her designee
+                   before being submitted to Payroll Unit for processing.
+
+              2.   The maximum salary advance allowed is 60% of gross pay earned up to the date of
+
+Effective 2/1/13                           Page 3 of 7                                   Policy 20.5.11
+                   request, less any known garnishments, if any.
+
+              3.   The Payroll Manager or appointed designee is the approving authority. Additional
+                   information or supporting documentation may be required before the request can be
+                   approved.
+
+              4.   Approved requests may be faxed to the Payroll Unit to expedite the payment. If the
+                   employee works at a unit located outside of the Salem area and needs to receive the
+                   check as soon as possible, he/she may request to have it expedited and to be mailed
+                   by next day delivery. Otherwise, advance checks are issued by OSPS in the
+                   afternoon on the day after requests are received in the Payroll Unit, excluding
+                   Saturdays, Sundays and holidays, and are delivered to Payroll Unit by 4:30 p.m. that
+                   day. Each check is then sent by regular mail, or by shuttle if available, to the
+                   employee’s work unit if located outside of Salem area. Salem area employees may
+                   pick up the pay advance at their payroll office or have it delivered to their work unit.
+
+              5.   If any advance is issued during the last five work days of a month, the employee’s
+                   following first of the month paycheck shall be canceled and reissued to account for
+                   the salary advance deduction. If pay is by direct deposit to the employee’s bank
+                   account and that deposit cannot be adjusted, the employee shall repay the advance
+                   by personal check, cashier’s check, or money order within ten days after payday,
+                   unless a collective bargaining agreement mandates otherwise.
+
+       H.     Transfer of Vacation, Sick Leave, and Compensatory Time
+
+              1.   When an employee transfers to another unit within the department, unused vacation
+                   and sick leave balances will transfer with the employee. Compensatory time balance
+                   will be paid by the prior unit in the month of transfer unless the gaining functional unit
+                   manager approves the transfer of compensatory time.
+
+              2.   DAS State Policy 60.000.01, Sick Leave with Pay and 60.000.05, Vacation Leave
+                   shall be followed when employee transfers to another state agency or leaves state
+                   service, except as otherwise provided by applicable labor agreements. All accrued
+                   compensatory time shall be paid on the separation date.
+
+       I.     Notification of Employee Resignation or Termination
+
+               Both the Human Resource manager and the Payroll specialist for the reporting functional
+               unit shall be notified in advance of each employee termination so the final paycheck can
+               be processed in compliance with Oregon law. The completed final timesheet for the
+               terminating employee shall be submitted to the Payroll Unit as soon as possible to
+               expedite the final paycheck.
+
+       J.     Final Paychecks for Terminations/Resignations
+
+              1.   When an employer terminates employee, or if termination is by mutual agreement,
+                   the final check shall be paid not later than the end of the first business day after
+                   termination, ORS 652.140(1).
+
+              2.   When an employee quits without notice, the final paycheck is due within five days
+                   excluding Saturdays, Sundays, and holidays, except if regular payday occurs within
+                   the five day period, then the employee shall receive all wages due at that time, ORS
+
+
+Effective 2/1/13                            Page 4 of 7                                      Policy 20.5.11
+                   652.140(2).
+
+              3.   If employee gives 48 hours or more notice of resignation, the final paycheck is due
+                   on the final day worked, except if the final day falls on Saturday, Sunday, or holiday,
+                   then paycheck is due not later than the end of the next business day, ORS
+                   652.140(2)(3).
+
+              4.   Employee may request the final paycheck be mailed to a designated address and
+                   employer shall comply, ORS 652.140(4).
+
+              5.   Employer shall comply with the above referenced laws and cannot hold back an
+                   employee’s final paycheck until property is returned such as uniforms, keys,
+                   identification badge, etc.
+
+       K.     Work-Site Monthly Attendance Records
+
+              1.   Supervisors shall keep attendance records at the work site. The following information
+                   shall be recorded for each employee. The Employee Monthly Timesheet can be used
+                   for this purpose, except requirement b below is not captured on the form and will
+                   need to be recorded by another means.
+
+                   a. Employee name and Employee Identification Number;
+                   b. Work schedule and shift, including time and day the work schedule begins and
+                      days off;
+                   c. Daily hours worked for each employee subject to the Fair Labor Standards Act
+                      (FLSA);
+                   d. Overtime hours worked each day;
+                   e. Leave taken (with or without pay);
+                   f. Holiday hours worked; and
+                   g. All other additional pay earned by each employee.
+
+              2.   These records shall be available for inspection by Human Resources Division
+                   Administrator or designee and by auditors.
+
+              3.   All records pertaining to payroll and supporting documentation will be retained in
+                   accordance with the department’s authorized retention schedule established in
+                   accordance with OAR 166-300.
+
+       L.     Payroll Unit Records: The Payroll Unit will keep records showing each employee’s
+
+              1.   Name, Employee Identification Number and social security number;
+
+              2.   Rate(s) of pay;
+
+              3.   Additional earnings for each pay period, including shift differential, overtime
+                   compensation, holiday pay, special duty pay, special qualification pay, work out-of-
+                   class pay, etc.;
+
+              4.   Deductions from wages paid each pay period;
+
+              5.   Total wages paid each pay period;
+
+
+
+Effective 2/1/13                           Page 5 of 7                                    Policy 20.5.11
+              6.   Date of payment and pay period covered by payment;
+
+              7.   Signed authorization for each voluntary deduction; and
+
+              8.   Monthly attendance, including accrued balances for vacation, sick leave, and
+                   compensatory time. For employees subject to FLSA, the records must show hours
+                   worked each day and total hours worked each week.
+
+              The retention period for the above records shall comply with OAR 166-300. All of the
+              above records, except subsection 7 and 8, are on microfiche. Documents for subsection
+              7 are retained for two years after they are replaced and for five years after employee
+              terminates. Documents for subsection 8 are retained for four years.
+
+       M.     Recoupment of Overpayments: Unless otherwise provided in applicable labor
+              agreements, overpayment to employees shall be recouped as follows:
+
+              1.   When an overpayment occurs, the following will occur:
+
+                   a.   The payroll office will perform an overpayment calculation to determine the
+                        actual overpayment.
+
+                   b.   The pre-calculated overpayment amount and supporting documentation will be
+                        sent to the appropriate HR Manager.
+
+                   c.   The HR Manager will notify the employee of the matter of overpayment.
+
+                   d.   If appropriate, the employee shall work with their Payroll technician to establish
+                        a repayment agreement.
+
+              2.   If the net amount overpaid is less than 10% of the employee’s monthly base salary,
+                   the entire amount will be deducted from the employee’s next paycheck. Otherwise,
+                   the employee will have the opportunity to discuss the matter and reach agreement
+                   with their payroll technician on a repayment agreement. If the employee does not
+                   enter into such discussion, or if an agreement is not be reached, then the
+                   overpayment shall be repaid as follows:
+
+                   a.     If the net amount overpaid exceeds 10% of the employee’s monthly base
+                        salary, it will be deducted in monthly installments of 10% of the employee’s
+                        monthly base salary.
+
+              3.   If an employee leaves department employment prior to full recovery of the
+                   overpayment, the balance owing shall be deducted from the employee’s final check.
+                   If this does not complete the repayment, a subsequent repayment schedule shall be
+                   established with the employee, or the matter may be pursued through appropriate
+                   legal channels.
+
+IV.    IMPLEMENTATION
+
+       This policy will be adopted immediately without further modification.
+
+
+Certified: ____signature on file________________
+
+
+Effective 2/1/13                           Page 6 of 7                                    Policy 20.5.11
+Birdie Worley, Rules Coordinator
+
+
+Approved: ____signature on file_______________
+Mitch Morrow, Deputy Director
+
+
+
+
+Effective 2/1/13                      Page 7 of 7   Policy 20.5.11
+

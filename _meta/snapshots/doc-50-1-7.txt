@@ -1,0 +1,124 @@
+                                    DEPARTMENT OF CORRECTIONS
+                                        Community Corrections
+
+                     Interstate Compact Offender Tracking
+  Title:             System (ICOTS) User Administration and         DOC Policy: 50.1.7
+                     Information Sharing
+  Effective:         01/09/19                                       Supersedes: N/A
+  Applicability: All DOC and County Community Corrections Employees that use ICOTS
+  Directives Cross-Reference:
+         Rule:     OAR 291-180 Interstate Compact
+         Policy:   Interstate Commission for Adult Offender Supervision ICOTS Privacy
+                   Policy
+                   ICOTS End User Licensing Agreement & Application
+  Attachments: ICOTS New User Training Course List (Attachment A)
+I. Purpose
+
+    The purpose of this policy is to provide guidance for promoting public safety and protecting the
+    rights of victims through the control and regulation of the interstate movement of offenders in the
+    community; and effectively establish and maintain the Oregon Interstate Compact Offender
+    Tracking System (ICOTS) user profiles in accordance with the ICOTS Policy, Oregon Revised
+    Statute 144.600 and Oregon Administrative Rules 291-180.
+
+ II. DEFINITIONS
+
+    A. County Compact Coordinator: The assigned individual in each Oregon county responsible for
+       the management and administration of compact processes and procedures for their county.
+
+    B. Deputy Compact Administrator (DCA): The individual in each compacting state responsible for
+       the administration and management of the state’s supervision and transfer of offenders subject
+       to the terms of the Compact, the rules adopted by the Interstate Commission for Adult Offender
+       Supervision, and policies adopted by the State Council under the Compact.
+
+ III. POLICY
+
+    A. ICOTS Access
+
+           1. New Profile Set-Up
+
+              a. The county compact coordinator or their supervisor shall send a request to the DCA for a
+                 new ICOTS profile.
+
+              b. The DCA or designee will provide the End User Licensing Agreement and Application for
+                 ICOTS Access forms to the individual requesting access.
+
+              c. The new user shall read and review the End User Licensing Agreement and complete
+                 the Application form and return it to the DCA or designee.
+
+
+
+                                                Page 1 of 3
+      d. The DCA or designee will review the application and create a new user profile in ICOTS.
+         Upon creation of the new profile, the DCA or designee will provide the new user with log-
+         in instructions and the ICOTS New User Training Courses list.
+
+   2. ICOTS User Roles
+
+      a. Administrator: The administrator role is only assigned to Oregon Interstate Compact
+         Office Staff. This role has functionality within ICOTS to create accounts, edit current user
+         profiles and is used to ensure all Oregon ICOTS users are in compliance with the ICOTS
+         End User Agreement.
+
+      b. Compact Office: The compact office role may be assigned to Oregon Interstate Compact
+         Office staff who, within the scope of their duties, need to access ICOTS.
+
+      c. Supervisor: The supervisor role is assigned to the designated county user(s) whose
+         duties include delegation of ICOTS offenders and who serve as an initial point of contact
+         between parole/probation officers, release counselors and the Oregon Interstate
+         Compact Office Staff. Additionally, the Oregon Interstate Compact Office staff may be
+         assigned to this role in accordance with their duties.
+
+      d. PO: The PO role is assigned to parole/probation officers, and release counselors who,
+         within the scope of their duties, need to access the ICOTS system to safely and
+         effectively case manage offenders transfers between states.
+
+B. Training
+
+   1. Within 60 days of profile creation, the new user must complete all required training courses to
+       retain ICOTS access. Failure to complete the required training will result in deactivation of
+       the users account until such time as the training has been completed.
+
+   2. The DCA or designee will provide access to the required training and will be responsible for
+       verification of training completion.
+
+C. Information Sharing and Privacy Policy
+
+   All ICOTS users shall be knowledgeable of and adhere to the ICOTS Privacy Policy and act in
+   accordance with the Interstate Commission for Adult Offender Supervision (ICAOS) rules.
+
+D. De-activation of Users
+
+   1. The DCA or their designee will complete a quarterly audit of all ICOTS users and promptly
+      de-activate any user that has not been active in the previous twelve months. A user account
+      may be reactivated upon request to the Oregon Interstate Compact Office. Prior to
+      reactivation, verification will be made that the user is still employed and that ICOTS access
+      is within the scope of their position.
+
+   2. An ICOTS user or the responsible county compact coordinator shall report to the Oregon
+      Interstate Compact Office any change in duties of an ICOTS user. Oregon Interstate
+
+
+
+                                          Page 2 of 3
+          Compact Office staff will promptly review the role of the user and make any ICOTS access
+          changes, if deemed necessary.
+
+
+
+IV. IMPLEMENTATION
+
+This policy will be adopted immediately without further modification.
+
+
+Certified: _signature on file__________________
+Michelle Mooney, Rules Coordinator
+
+
+Approved: _signature on file_________________
+Brian Belleque, Deputy
+
+
+
+
+                                             Page 3 of 3
+

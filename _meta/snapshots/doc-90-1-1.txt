@@ -1,0 +1,344 @@
+                                      DEPARTMENT OF CORRECTIONS
+                                               Programs
+
+ Title:                  Oregon Corrections Plan                      DOC Policy: 90.1.1
+ Effective:              8/1/25                                       Supersedes: 07/15/05
+ Applicability:          Institutions and Adult in Custody Programs
+ Directives Cross-Reference:
+                    Oregon Accountability Model (OAM)
+                    DOC Policy 90.1.5 Behavioral Change Programs
+ Attachments:
+                    Examples of Service Level in Relation to Risk Factors
+
+ I.    PURPOSE
+
+       To establish guidelines for implementing the Oregon Corrections Plan (OCP) in a manner
+       consistent with the Oregon Accountability Model (OAM). The Oregon Corrections Plan is a tool
+       designed to identify, track, and mitigate risk to public safety by adults under the custody or
+       supervision of the Oregon Department of Corrections (DOC).
+
+
+ II.   DEFINITIONS
+
+       A. Adult in Custody (AIC): Any person under the supervision of the Department of Corrections
+          who is not on parole, probation, or post-prison supervision status.
+
+       B. Adult on Supervision: Any person under the supervision of the Department of Corrections
+          who is on parole, probation, or post-prison supervision status.
+
+       C. Automated Criminal Risk Score (ACRS): A statistical calculation developed by the Department
+          of Corrections to predict an adult on supervision’s risk of reoffending within three years of
+          release.
+
+       D. Corrections Information System (CIS): A computer system dedicated to tracking information
+          critical to the management of adults under the custody or supervision of Department of
+          Corrections.
+
+       E. Criminogenic Domain: One of seven factors associated with an individual’s increased risk of
+          future criminal behavior according to the criminogenic risk factor assessment. The seven
+          domains are:
+
+           1.       Associates
+           2.       Substance Abuse
+           3.       Community Functioning
+           4.       Education and Employment
+           5.       Emotional and Mental Health
+                                                   Page 1 of 6
+Effective: 8/1/25                                                                          DOC Policy 90.1.1
+           6.       Marital and Family Life
+           7.       Attitudes
+
+      F. Criminogenic Risk Assessment: An evaluation of factors that contribute to an individual’s risk
+         of future criminal behavior.
+
+      G. Education Universal Waiting List (EUWL): A report on the Corrections Information System of
+         adults in custody with an educational need listed on their individual Oregon Corrections Plan.
+         This report reflects a priority for each adult in custody’s access to a specific educational
+         program designed to mitigate the risk factor identified on the plan.
+
+      H. Oregon Accountability Model (OAM): A plan composed of six components designed to
+         strengthen the department’s ability to hold adults under the custody or supervision of the
+         Department of Corrections accountable for their actions and Department of Corrections
+         employees accountable for achieving the mission and vision of the department. The six
+         components are:
+
+           1.       Criminal Risk Factor Assessment and Case Planning
+           2.       Employee -Adult in Custody Interactions
+           3.       Work and Programs
+           4.       Children and Families
+           5.       Reentry
+           6.       Community Supervision and Programs
+
+      I. Oregon Corrections Plan (OCP): An automated case management tool incorporated into the
+         Corrections Information System, which tracks an individual’s progress toward mitigating
+         identified risk factors.
+
+      J. Pull Meeting: A process designed to develop a class roster of adults in custody to attend and
+         participate in programs offered by the department.
+
+
+ III. POLICY
+
+      A.     Agency Resources:
+
+             1.      When a program at one location has consistent difficulty filling all available slots with
+                     high-risk adults in custody, administrators shall consider moving program resources to
+                     a location where high-risk adults in custody are housed or reallocating the program
+                     resources of that specific program to a different program in need of program
+                     resources to accommodate all high-risk adult in custody needs.
+
+             2.      Multi-Issue Programs – Program placement of adults in custody shall be coordinated
+                     to avoid repeated delivery of the same program elements to a single adult in custody.
+
+                     a.    Some Department of Corrections programs are designed to address multiple
+                           criminogenic risk factors.
+
+                                                   Page 2 of 6
+Effective: 8/1/25                                                                              DOC Policy 90.1.1
+                    b.   Prudent and efficient use of resources requires that adults in custody targeted
+                         for participation in one of these comprehensive programs should not also be
+                         concurrently scheduled for participation in a specialized program when similar
+                         content is covered in the comprehensive program (for example, Turning Point,
+                         which addresses not only alcohol and drug issues, but criminal thinking, anger
+                         management, conflict resolution, motivation, leisure skills, etc.).
+
+             3.     When possible and in order to make the best use of limited Department of Corrections
+                    resources, employees will coordinate adult in custody transfers to minimize disruption
+                    in program participation or release planning efforts.
+
+                    a.   Employees initiating a transfer for non-security reasons will confer with the
+                         Correctional Rehabilitation Manager or designee at the sending facility before
+                         transferring that adult in custody to another facility.
+
+                    b.   When adults in custody are transferred between facilities during their final year
+                         of incarceration or within 180 days of their projected release date, the
+                         correctional counselor at the sending facility will confer with the correctional
+                         counselor at the receiving facility about work done toward completion of the
+                         AIC’s behavior change plan process for that adult in custody.
+
+      B.     Criminal Risk Factor Assessments:
+
+             The first step in determining programs to which an adult in custody will be referred is to
+             perform a criminogenic risk factor assessment.
+
+             1.     The Oregon Accountability Model requires a criminogenic risk factor assessment for
+                    each adult in custody processed through the Intake Center.
+
+             2.     The results of this criminogenic risk factor assessment will be recorded on the adult in
+                    custody’s Oregon Corrections Plan.
+
+             3.     Only those programs which are designed to mitigate specific criminogenic risk factors,
+                    established by evidence-based practices, shall be listed on an adult in custody’s
+                    Oregon Corrections Plan.
+
+             4.     In order to assure consistency and reliability of data, management and continuous
+                    quality improvement of the criminogenic assessments and updates to such
+                    assessments will be the responsibility of Correctional Case Management at
+                    Department of Corrections Headquarters.
+
+      C.     Priority for Program Placement:
+
+             Adults in custody posing the highest risk to reoffend shall be prioritized for placement in
+             programs.
+
+
+                                                  Page 3 of 6
+Effective: 8/1/25                                                                            DOC Policy 90.1.1
+             1.     Male adults in custody with a high or moderate criminogenic rating in any domain of
+                    the criminal risk factor assessment and female adults in custody with a high or
+                    medium criminogenic rating in any domain of the criminal risk factor assessment shall
+                    have the ratings noted on their Oregon Corrections Plan as a driving factor behind
+                    their risk to reoffend.
+
+             2.     Educational needs identified on an adult in custody’s Oregon Corrections Plan will
+                    generate a referral to the Education Universal Waiting List for interventions specific to
+                    the adult in custody’s educational needs.
+
+             3.     Adults in custody with the highest risk of recidivism, as measured by Automated
+                    Criminal Risk Score (ACRS), will be selected to participate in cognitive programs
+                    designed to mitigate specific risk factors identified during the adult in custody’s
+                    criminogenic risk assessment, when they are within the appropriate time-frame
+                    criteria for each program. The Pull Meeting process will be utilized to develop a class
+                    roster of adults in custody to attend and participate in cognitive programs.
+
+             4.     Adults in custody who lack motivation to change are less likely than adults in custody
+                    who are more highly motivated to benefit from participation in programs designed to
+                    mitigate other criminogenic risk factors. However, adults in custody will not be
+                    excluded from programs based on their level of motivation. When waiting lists are
+                    crowded and a choice must be made between adults in custody of equal risk the more
+                    highly motivated adult in custody may be selected. In such instances, motivation to
+                    change should be assessed by the Correctional Counselor and included in the program
+                    referral.
+
+             5.     Whenever possible, Department of Corrections employees shall consider transferring
+                    high-risk adults in custody to a facility where appropriate program slots are available
+                    to improve an adult in custody’s opportunity to mitigate their risk factors through
+                    participation in the programs listed on the adult in custody’s Oregon Corrections Plan,
+                    in the proper timeframe and sequence prior to release.
+
+             6.     Employees will continue to explore viable options for delivering program content to
+                    high-risk adults in custody who are housed in high custody settings to take advantage
+                    of the opportunity for significant risk mitigation.
+
+      D.     Sequencing of Interventions (Programs):
+
+             The following criteria shall be used to determine the sequence in which adults in custody
+             are admitted to Department of Corrections programs:
+
+             1.     Mental Health and Medical Treatment - This is always the highest priority for all adults
+                    in custody, regardless of other risk factors.
+
+             2.     Education – The ability to read and write minimally at the 8.0 grade equivalency on a
+                    standardized test is a prerequisite for placement in any program that requires an adult
+
+
+                                                  Page 4 of 6
+Effective: 8/1/25                                                                             DOC Policy 90.1.1
+                    in custody to read course material and prepare written work unless that program is
+                    able to make accommodations for the adult in custody’s skill level.
+
+             3.     Substance Use Disorder (Alcohol and Drug) Treatment – These programs are designed
+                    to focus on transitional issues related to recovery or sobriety, so it is essential that
+                    adults in custody participate in these programs at the very end of their sentence or
+                    when eligible for an alternative incarceration program in preparation for release.
+
+             4.     Cognitive Programs – Department of Corrections offers cognitive programs designed
+                    to help adults in custody examine attitudes, values, belief systems, and thinking
+                    patterns that lead to criminal behavior and to replace them with pro-social skills that
+                    lead to successful reentry. See DOC Policy 90.1.5 Behavioral Change Programs for
+                    established guidelines governing interventions designed to address criminal risk
+                    factors and reduce the risk of future criminal behavior.
+
+             5.     Parenting Skills – Department of Corrections offers voluntary parenting skills classes to
+                    adults in custody who have minor children or will likely function in a parenting role
+                    upon release. Those with open Department of Human Services cases will be prioritized
+                    for programming. See DOC Policy 90.1.5 Behavioral Change Programs for established
+                    guidelines governing parent management skills training.
+
+             6.     Sex Offender Treatment – The need for sex offender treatment is addressed in the
+                    community when the individual is placed on post-prison supervision.
+
+      E.     Case Management Principles:
+
+             Employees who function in case management roles (for example, correctional counselor,
+             program employees, etc.) are required to provide specific services related to each of the six
+             key Oregon Accountability Model components. See the Examples of Service Level in
+             Relation to Risk Factors attachment to this policy. These employees shall be guided by the
+             following principles:
+
+             1.     The day-to-day use of employee resources for managing adult in custody caseloads
+                    shall be targeted to support the six key components of the Oregon Accountability
+                    Model.
+
+             2.     A correctional counselor shall prioritize time and attention toward adults in custody
+                    based on the correctional counselor’s availability to work with the adult in custody on
+                    high-rated risk factors from the adult in custody’s criminogenic risk assessment and on
+                    those specific issues in the Oregon Accountability Model associated with reducing the
+                    potential to recidivate.
+
+             3.     Consideration shall be given to modifying department rules, policies, or practices to
+                    reduce or eliminate the expenditure of resources on efforts that do not yield a
+                    significant impact on mitigating risk.
+
+
+
+                                                  Page 5 of 6
+Effective: 8/1/25                                                                             DOC Policy 90.1.1
+             4.     Correctional counselors working within the Oregon Accountability Model framework
+                    need to possess a broad understanding of the many criminogenic risk factors adults in
+                    custody present and the strategies and resources available for mitigating those risk
+                    factors.
+
+             5.     Correctional counselors must work to nurture and participate in strong inter-
+                    disciplinary team relationships as part of the case management process in order to
+                    bring the greatest level of expertise to mitigate an individual adult in custody’s risk
+                    factors.
+
+
+ IV. IMPLEMENTATION
+
+      This policy will be adopted immediately without further modification.
+
+
+Certified: ______signature on file_____________
+Julie Vaughn, Rules Coordinator
+
+
+Approved: ______signature on file______
+Michael Reese, Director
+
+
+
+
+                                                   Page 6 of 6
+Effective: 8/1/25                                                                              DOC Policy 90.1.1
+                                                                       Attachment DOC Policy 90.1.1
+
+                          Examples of Service Level in Relation to Risk Factors
+
+Examples of how the service levels for each of the Oregon Accountability Model components might
+vary depending on the adult in custody’s risk factors:
+
+
+      Criminal Risk Factor Assessment and Case Planning
+       o Low Risk: All adults in custody receive a complete criminal risk assessment and Oregon
+                      Corrections Plan.
+
+       o High Risk: These adults in custody may receive more intensive or specialized assessments
+                    related to their specific risk factors as well as more detailed case plans with
+                    closer oversight of their compliance.
+
+      Employee - Adult in Custody Interactions
+       o Low Risk: All employee - adult in custody interactions will be guided by the “three Rs”
+                    (Role-model, Redirect, Reinforce) and will comply with all Department of
+                    Corrections standards, rules, and policies.
+
+       o High Risk: These adults in custody will have more frequent interaction with program
+                    employees and with a greater number of employees since they will be involved
+                    in programs designed to mitigate risk levels.
+
+      Work and Programs
+       o Low Risk: These adults in custody will have limited access to programs. Measure 17
+                    compliance will be the primary focus of their Oregon Corrections Plan. Institution
+                    activities will occupy the remainder of the adult in custody’s free time.
+
+       o High Risk: Measure 17 compliance will be required in addition to participation in programs
+                    designed to mitigate the adult in custody’s specific risk factors.
+
+      Children and Families
+       o Low Risk: In addition to visiting, these adults in custody will have access to programs and
+                     activities involving their children. Counselors will consider family involvement or
+                     resources when developing the adult in custody’s release or transition plan.
+
+       o High Risk: In addition to visiting, these adults in custody will have access to programs and
+                    activities involving their children. Counselors will consider family involvement or
+                    resources when developing the adult in custody’s release or transition plan.
+
+      Reentry
+       o Low Risk: Release Counselors must submit a completed release plan to the Parole Board
+                   and to Community Corrections within specific time frames prior to release. Case
+                   managers will work to facilitate transportation arrangements upon release.
+                   Release Counselors will communicate significant issues related to the adult on
+                   supervision’s potential for success to Community Corrections.
+Policy 90.1.1 eff 8/1/25– Attachment                                                     Page 1 of 2
+                                                                       Attachment DOC Policy 90.1.1
+
+       o High Risk: In addition to the above, Release Counselors will work to identify and secure
+                    critical community resources necessary for the adult on supervision’s successful
+                    reentry, working closely with Community Corrections and community resource
+                    agencies.
+
+      Community Supervision and Programs
+       o Low Risk: The Oregon Corrections Plan will provide for continuity between the institution
+                   and supervision in the community. These Adults in custody will have low priority
+                   for referral to community programs, depending on available resources.
+
+       o High Risk: These Adults in custody will be subject to intensive supervision in the community
+                    and will be prioritized for referral to programs that target their specific criminal
+                    risk factors.
+
+
+
+
+Policy 90.1.1 eff 8/1/25– Attachment                                           Page 2 of 2
+

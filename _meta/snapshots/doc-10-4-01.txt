@@ -1,0 +1,672 @@
+                                    DEPARTMENT OF CORRECTIONS
+                                          Administration
+
+ Title:             Directive Development                    DOC Policy: 10.4.01
+
+ Effective:         5/7/24                                   Supersedes: 11/12/20
+ Applicability:     All Employees
+ Directives Cross-Reference:
+                   ORS 183.310 Definitions For Chapter
+                   ORS 183.405 Agency Review of Rules
+                   OAR 291-001 Procedural Rules
+ Attachments: Attachment A - Directives Development Flowchart
+               Attachment B - Confidential Guidance Document
+               Attachment C - DOC Directives Review form CD 1811
+               Attachment D - DOC Directive Development form CD1487
+
+I. PURPOSE
+    The purpose of this policy is to provide general standards for the development, review, revision,
+    and repeal of Department of Corrections (DOC) administrative rules and policies. Health Services
+    policies, procedures, and protocols are maintained by Health Services and do not fall under the
+    provisions of this policy.
+
+
+II. DEFINITIONS
+    A. Administrative Rule: As defined in ORS 183.310, any agency directive, standard, regulation,
+       or statement of general applicability that implements, interprets, or prescribes law or
+       policy, or describes the procedure or practice requirements of any agency. The term
+       includes the amendment or repeal of a prior rule but does not include any exception
+       described in ORS 183.310(9), including, for example, internal management directives,
+       regulations, or statements between department officers and employees that do not
+       substantially affect the interests of the public.
+
+    B. Agency Rules Coordinator (Rules Coordinator): This person maintains DOC administrative
+       rules and policies for the agency. The Rules Coordinator is responsible for ensuring proper
+       classification of a directive, consistency of content with other directives, and review of
+       directives in accordance with this policy.
+
+    C. Directive: An administrative rule or department policy, as those terms are defined in this
+       policy.
+
+    D. Directive Owner: The Assistant Director or administrator who is responsible for directing
+       the development, revision, review, or repeal of directives assigned to them.
+
+Effective: 5/7/24                             Page 1 of 8                           Policy: 10.4.01
+    E. Division Contact: Staff person assigned by a division Assistant Director or administrator to
+       be the division point of contact for the Rules Coordinator. The division contact is
+       responsible for tracking the development and review of directives.
+
+    F. Executive Team: The executive leadership of the department that provides direction and
+       oversight to department operations.
+
+    G. Facilitator: The person assigned by the directive owner to oversee the development,
+       revision, or review of a specific directive.
+
+    H. Policy: A written statement that describes how the department will conduct business and
+       sets the parameters and expectations for staff but does not substantially affect the interests
+       of the public.
+
+    I. Stakeholders: Person(s) or groups identified as potentially impacted by the directive
+       development.
+
+    J. Subject Matter Expert: A person identified by the directive owner who is knowledgeable on
+       a subject area.
+
+    K. Workgroup: Person(s) or groups responsible for assisting in the development, revision, or
+       review of a directive.
+
+III. POLICY
+
+    A. Directives
+        All DOC directives must reflect the department’s mission, core values, and professional
+        standards.
+
+        1. Rules: All administrative rules shall be processed in accordance with the Administrative
+           Procedures Act (ORS Ch. 183), the Attorney General’s model rules, and DOC Procedural
+           Rules (OAR 291-001).
+
+        2. Policies:
+
+              a. DOC policies establish core values and direct and guide staff by setting the
+                 parameters and expectations of professional standards.
+
+              b. Policies must align with administrative rules and may not be developed in lieu of an
+                 administrative rule or to alter, expand, clarify, interpret, or replace an existing
+                 administrative rule.
+
+              c. Format: A policy includes the following sections:
+
+Effective: 5/7/24                               Page 2 of 8                          Policy: 10.4.01
+                A. Purpose: Statement that introduces the reason for the policy.
+
+                B. Definitions: Only when necessary and organized in alphabetical order.
+
+                C. Policy: Standards and guidelines that constitute the main body of the policy.
+
+                D. Implementation: Indicates whether a policy is effective immediately upon
+                   approval or on a temporary or emergency basis without prior notice or staff
+                   comment period or upon any abbreviated notice that the department finds
+                   practicable, and the time period for which the temporary or emergency policy
+                   will be in effect. When a policy is adopted on a temporary or emergency basis,
+                   the division will file a Directive Development form (CD1487) including:
+
+                     i.    A statement of its findings that its failure to act promptly will result in serious
+                           prejudice to the interest of the department and the specific reasons for its
+                           findings of prejudice;
+
+                    ii.    A statement of the need for the policy and a statement of how the policy is
+                           intended to meet the need;
+
+                    iii.   A list of the principal documents, reports, or studies, if any, prepared by or
+                           relied upon by the department in considering the need for and in preparing
+                           the policy, and a statement of the location at which those documents are
+                           available for staff inspection.
+
+    B. Directives Development Process
+
+
+        1. The development process is outlined in the Directive Development Flowchart. Directives
+           are created or revised as directed by the directive owner to:
+
+            a. Align with changes in statute, administrative rule, statewide (Department of
+               Administrative Services) policy, or Governor’s executive order;
+
+            b. Align to new business needs, practices, processes, or strategies (e.g., internal control,
+               clear and concise clarification of standards); or
+
+            c. Per the policy review schedule
+
+        2. Responsibilities of the directive owner:
+
+            a. Direct the development, review, revision, and repeal of assigned directives.
+
+
+
+
+Effective: 5/7/24                                  Page 3 of 8                              Policy: 10.4.01
+            b. Assign a facilitator responsible for overseeing the development, revision, or review
+               of the directive.
+
+            c. Notify division contact of directive development for tracking purposes.
+
+            d. Keep rules and policies current within the review standard (every five years).
+
+            e. Determine whether directive updates should be submitted for legal review.
+
+        3. Responsibilities of the division contact:
+
+            a. Track all ongoing directive developments for division to include the directive name
+               and number and the assigned facilitator.
+
+            b. Track all ongoing directive reviews for division to include the directive name and
+               number and the assigned facilitator.
+
+            c. Provide the Rules Coordinator with an update on all ongoing directive developments
+               and reviews by the first of every quarter and upon request.
+
+        4. Responsibilities of the facilitator:
+
+            a. Maintain contact with the Rules Coordinator and provide updates as necessary.
+
+            b. Review enabling statutes, rules, policies, and standards that impact the directive,
+               including the revision or creation of another directive.
+
+            c. Review current DOC practices and processes.
+
+            d. Draft the directive:
+
+                A. Solicit input from selected internal DOC stakeholders; or
+
+                B. Establish a workgroup (2-10 employees) only if determined necessary to assist in
+                   the directive process. The workgroup should include a subject matter expert and
+                   internal representatives from one or more divisions or functional units from
+                   different geographical regions of the state that may be impacted by the directive.
+
+                C. For administrative rules only: Seek input from select internal DOC stakeholders
+                   or members of the workgroup on the racial equity impact of the draft rules.
+
+            e. Establish a communication plan (staff, adults in custody or adults on supervision,
+               public) for implementation of the directive.
+
+
+
+Effective: 5/7/24                                 Page 4 of 8                        Policy: 10.4.01
+            f. Establish an implementation plan that includes a timeline. The implementation plan
+               should include training and automation requirements.
+
+            g. Request legal review in the development process if approved by the directive owner.
+
+            h. Submit final draft of the directive to the directive owner for review, approval, and
+               presentation to the Executive Team.
+
+            i. Upon approval by the Executive Team, complete the Directive Development form
+               (CD1487).
+
+            j. For administrative rules: Submit draft racial equity impact statement to the directive
+                owner for review and approval and include Chief of Staff or designee on submission
+                for awareness and review.
+
+            k. Submit approved draft directive, approved draft racial equity impact statement, and
+               complete Directive Development form (CD1487) to the Rules Coordinator.
+
+        5. Responsibilities of the Rules Coordinator:
+
+            a. Review directives ensuring proper classification and consistency of content with other
+               directives.
+
+            b. For administrative rules only: Work with the Budget Office to prepare a fiscal impact
+               statement.
+
+            c. For department policies: Prior to the adoption, amendment, or repeal of any policy,
+               the department shall give staff reasonable opportunity to submit data or views, which
+               will be reviewed and considered by the policy owner or designee. Nothing in this policy
+               shall preclude an agency from adopting a temporary policy pursuant to section (A)(2)
+               of this policy.
+
+            d. Prepare the directive for the Director’s or designee’s signature and file the necessary
+               documents with the Secretary of State’s Office for administrative rules.
+
+            e. Send the notification of changes in directives to staff and interested parties.
+
+            f. Maintain directives in accordance with established retention schedules.
+
+    C. Directives Review Process
+
+
+        1. Directives shall be reviewed every five years.
+
+
+
+
+Effective: 5/7/24                               Page 5 of 8                           Policy: 10.4.01
+        2. The Rules Coordinator will maintain a database of directives that includes the most
+           recent review date. The Rules Coordinator will send quarterly reports to the directive
+           owners on the status of directives.
+
+        3. The directive owners are responsible to ensure that directives meet the review standard
+           of every five years. The directive owner will assign a facilitator to complete the review
+           and notify the division contact for tracking.
+
+        4. The review shall ensure the directive is current and aligns with DOC practices and general
+           written directives; related forms are relevant and meet accessibility standards; and
+           statutory references are accurate.
+
+            a. If revisions are required, the assigned facilitator will notify the directive owner and
+               will initiate the directive development process described in Section B above.
+
+            b. Policy: If no revisions are required, the policy will remain unchanged. The facilitator
+               will complete the Directive Review form (CD1811) and submit it to the division
+               contact for tracking and signature by directive owner. The division contact will
+               submit the completed and signed Directive Review form to the Rules Coordinator
+               who will update the policy for signature with a new effective date.
+
+            c. Rule: If no revisions are required, the facilitator will complete the Directive Review
+               form (CD1811) and submit it to the division contact for tracking and signature by
+               directive owner. The division contact will submit completed and signed Directive
+               Review form to the Rules Coordinator to update the database with the most recent
+               review date.
+
+        5. In accordance with ORS 183.405, administrative rules adopted after January 1, 2006,
+           must be reviewed no later than five years after the rule was adopted. The Rules
+           Coordinator must coordinate the review and report findings to the Secretary of State’s
+           Office.
+
+    D. Definition Development Process
+        1. Directive owners are responsible for ensuring the proper consideration and
+           communication has been made when adopting or amending a definition used in
+           administrative rule or departmental policy. This process includes:
+
+            a. Identification of directives affected by the definition amendment or adoption;
+
+            b. Determination of any impact resulting from the definition amendment or adoption;
+
+            c. Notification to impacted directive owners;
+
+            d. Determination of accuracy of the amended or adopted definition; and
+
+Effective: 5/7/24                               Page 6 of 8                            Policy: 10.4.01
+            e. Explanation of the reason for the amendment or adoption of a definition.
+
+        2. The definition development process is outlined in the Directive Development form
+           (CD1487).
+
+
+    E. Notifications
+
+
+        1. In addition to the notifications made in accordance with OAR 291-001, the DOC Rules
+           Coordinator will provide electronic notification of directive updates to:
+
+            a. All employees, contractors, and volunteers; and
+
+            b. The institution functional unit manager or designee for publication in the AIC
+               newsletters.
+
+        2. Each institution shall publish the rules updates in the next edition of their AIC newsletter
+           following notice of directive updates.
+
+    F. Manuals (Hard Copy)
+
+
+        1. The Rules Coordinator will maintain a master set of the rules and policies manuals and
+           the internal distribution list for institutions.
+
+        2. Each institution will maintain a sufficient number (minimum of one set) of hard copy rule
+           and policy manuals that are made readily accessible in the institution legal libraries to
+           adults in custody, and in a location(s) in the institution to ensure continuity of operations
+           in an emergency. Institution staff should rely on the online copy of the directives
+           whenever possible.
+
+        3. Each Department of Corrections facility or staff office will maintain a sufficient number
+           (minimum of one set) of hard copy rule and policy manuals to ensure continuity of
+           operations in an emergency. Staff should rely on the online copy of the directives
+           whenever possible.
+
+        4. The Rules Coordinator will provide an electronic copy of the directive updates posting
+           to each institution, facility, or staff office.
+
+        5. Hard copy manuals maintained in institutions, facilities, or staff offices will be updated
+           within seven calendar days following a directive update issued by the Rules Coordinator.
+
+        6. Each institution, facility, or staff office will be responsible for designating an employee to
+           perform an annual review of each hard copy manuals to ensure compliance with updates.
+
+Effective: 5/7/24                               Page 7 of 8                             Policy: 10.4.01
+            This review will commence upon receipt of the Rules Coordinator’s annual request for
+            audit.
+
+III. IMPLEMENTATION
+
+    This policy will be adopted immediately without further modification.
+
+
+
+Certified: __signature on file__________________
+Julie Vaughn, Rules Coordinator
+
+
+Approved: __signature on file____________________
+Heidi Steward, Deputy Director
+
+
+
+
+Effective: 5/7/24                            Page 8 of 8                        Policy: 10.4.01
+                                                               Directive Development Flowchart
+
+
+        Directive Development Needed:
+ As required by ORS, OAR, statewide policy, or
+   mandate;                                                                                                             Approved (as‐is or with
+ As requested by workgroup or business need;                                                                             minor changes):                                   Rules Coordinator:
+   or
+ As directed by directive owner                                                    Directive Rejected                  Facilitator completes               Reviews final draft.
+                                                                                                                           form CD1487 including
+                                                                                                                           Racial Equity Impact                Requests a Fiscal Impact statement (rules only)
+                                                                                                                           Statement.
+              Directive Owner:                          Directive Owner:                                                 Submits CD1487 and
+       Notifies division contact                  Reviews final draft (returns                                         final draft with tracked
+                                                                                                                           changes to Rules
+       Assigns a facilitator                        to facilitator if revisions                                          Coordinator for
+                                                      necessary)                                                           processing.
+                                                                                                                                                                                                    Rule:
+                                                    Approves final draft
+              Division Contact:                     Requests directive be added                                                                                                           Proposed rule
+                                                      to Executive Team agenda for                                                                            Policy:                         finalized
+       Tracks directive and name of
+                                                      approval                                                                                                                              Rulemaking process
+         facilitator                                                                                                                                    Draft finalized                     followed: Proposed
+                                                                                                                                                        Draft opened for                    rulemaking notice
+                                                                                                           Executive Team:
+                                                                                                                                                          two week staff                      filed and public
+                 Facilitator:                               Facilitator                                    Approves                                     review and                          comment period
+       Establishes workgroup or                                                                          Returns                                      comment period                      opens
+         small group of content                      Requests DOJ review (at                             Rejects
+                                                       directive owner’s                                                                                Comments shared
+         experts.                                                                                                                                         with facilitator for
+                                                       discretion)
+                                                                                                                                                          review and possible             Close of Comment Period:
+                                                     Reviews and incorporates
+                                                       DOJ suggestions (at                                                                                incorporation.
+                                                                                                                                                                                            Facilitator and
+          Facilitator / Workgroup:                     directive owner’s
+                                                                                                                                                                                              Directive Owner review
+                                                       discretion)
+       Drafts directive and Racial                 Submits final draft to
+                                                                                                                                                                                              and consider
+         Equity Impact Statement                                                                                                                                                              comments.
+                                                       directive owner for
+                                                                                                                                                                                            Any changes are
+       Distributes to appropriate                    approval and the Rules
+                                                                                                                                                                                              incorporated
+         internal and external partners                Coordinator for review
+                                                                                                                                                                                            Final draft for adoption
+         and unit administrator for                                                                                                                           Policy:                         submitted to Rules
+         input                                                                                                                                                                                Coordinator.
+                                                                                                                                                        Policy finalized
+                                                                                                           Returned:                                    Submitted to
+                                                                                                Draft returns to facilitator for                          Director or Deputy                Prepare for Adoption:
+                                                                                                                                                          Director for                     Final draft submitted to
+                                                                                                    substantial changes
+                                                                                                                                                                                        Director or Deputy Director for
+                                                                                                                                                          approval to adopt
+       Unit Administrator/Partners                                                                                                                                                            approval to adopt
+                                                     Facilitator/ Workgroup:
+       Reviews draft directive
+                                                    Review feedback
+       Provides feedback
+                                                    Revises draft
+                                                                                                                                                      Policy becomes effective               Rule filed online and
+                                                                                                                                                                                              becomes effective
+
+                                                                                                                                                                                                              Attachment A 08/16/23
+                                               Guidance Document
+
+Directives that should be sent to DOJ for review are those that the Directive Owner believes will concern or touch on
+matters that:
+
+(1) Present possibly significant legal risk to the Department, or to the personnel charged with implementation of the
+directives;
+
+(2) affect the constitutional or statutory rights of an incarcerated person;
+
+(3) otherwise present legal questions or risks that the Directive Owner believes would be reasonable and prudent to
+consider before implementing the Directive; or
+
+(4) touch areas in which the Department has been engaged in past, present, or threatened litigation.
+
+
+Examples of Directives that may fall within that broad classification include:
+
+    •   Directives that implement or interpret federal or state statutes, or administrative rules promulgated by other
+        state agencies
+    •   Directives that materially change the public’s access to inmates or DOC facilities (including visitation)
+    •   Directives that affect the constitutional rights of a DOC inmate, including:
+        o   Freedom of religion (including religious exercise, expression, physical appearance, and diet)
+        o   Freedom of speech (including mail, telephones, and visitation)
+        o   Freedom to petition for redress of grievances (discrimination complaints, grievances)
+        o   Procedural and due process rights (including the seizure or destruction of inmate property or placement in
+            special or restrictive housing)
+    •   Directives that concern the use of force
+    •   Directives that concern capital punishment
+    •   Directives that concern inmate handiwork or produced goods for sale
+    •   Directives that concern the use of inmate labor and PRAS
+    •   Directives that concern prohibited inmate conduct and disciplinary procedures
+    •   Directives related to transitional leave and release
+    •   Directives related to any recent, threatened, or settled litigation, including cases before administrative agencies
+    •   Directives related to sentence computation
+
+
+
+
+                                                                                                          Attachment B 11-2020
+                      DIRECTIVE REVIEW (CD1811)
+                      Summary for Rule or Policy Agency Review
+
+
+All DOC rules and policies must be reviewed at a minimum of every five years in accordance with DOC policy 10.4.1. Note:
+As extensions of the body of the rule or policy, this includes a review of all attachments (forms, exhibits, etc.) to the
+directive. When the directive review is conducted, this form should be completed and submitted to the DOC Rules
+Coordinator. If at any point during the review it is determined that changes need to be made to the directive or to any
+attachments (forms, exhibits, etc.), you will discontinue review and begin the directive development process.
+
+___ Rule Division # and Title: ___________________________________________
+(When reviewing a rule division, all rules within the division must be reviewed as part of the audit)
+
+
+___ Policy Number and Title: ____________________________________
+
+
+1. Does the rule or policy reflect current DOC processes and practices? ___Yes ___No
+If no, begin the Directive Development process and complete form CD1487.
+
+
+2. Have there been any changes in law or statue that requires the rule or policy to be revised? ___Yes ___No
+If yes, begin the Directive Development process and complete form CD1487.
+
+
+3. Are all references to statute, administrative rule, and policy still accurate? ___Yes ___No
+If no, begin the Directive Development process and complete form CD1487.
+
+
+4. Additional Comments:
+Review Completed by: (list all individuals involved in the review)
+_____________________________ _____________________________ ____________________________
+
+
+_____________________________ _____________________________ ____________________________
+
+
+Directive Owner Approval Signature: ____________________________ Date Approved: _____________________
+
+Directive Owner Name: _________________________________
+
+
+10.4.1 Attachment C                                                                                       CD 1811 Rev. 8/2023
+                       DIRECTIVE DEVELOPMENT (CD1487)
+                       Planning Summary for Rule or Policy Development
+
+
+
+Rule (OAR) or Policy Number:                                                                Date:
+Title:
+Contact Person:
+Phone Number:
+
+Identify the objective of the directive update or adoption. (Describe what are you trying to accomplish.)
+
+
+
+What is the reason for the proposed change? (Check all that apply.)
+
+____Change in Legislation #____
+____Change in Statewide/DAS policy #____
+____Business Strategies (Internal control, standardize process(es), efficiencies, customer service, etc.)
+____Update (Change in practice or department philosophy, clarify terminology, further define process)
+____Strategic Initiative
+____Housekeeping (technical corrections, reorganization, etc.)
+____Legal (litigation, legal decision)
+
+Are there other potential solutions besides proposed change?
+
+
+
+What is the impact on department operations or stakeholders?
+
+
+
+Is there an impact on other partners or agencies?
+
+
+
+Was this change sent for legal review by DOJ? If no, why did the directive owner choose not to?
+
+
+
+All attachments (forms, exhibits, grids, etc.) have been reviewed to determine if any revisions are needed and that they pass
+an accessibility check? (Note: This is a requirement to be published on the website.)
+o Yes _____
+
+o Major change _____             o Minor change _____
+
+
+ 10.4.1 Attachment D                                                                                  CD 1487 Rev. 2/2024
+Answer all questions below. Enter None or N/A as needed.
+
+For Permanent Rules Only. Is there a fiscal impact? Please provide what you perceive or have identified as possible fiscal
+impacts. The Rules Coordinator will work with the Budget Office for an official fiscal impact statement for rulemaking.
+
+
+
+For Permanent Rules Only. Identify how this rule amendment, repeal, or adoption will affect racial equity in Oregon. Please
+submit this statement as a separate attachment.
+
+
+
+Any automation requirements? If yes, describe.
+
+
+
+Any training requirements? If yes, describe.
+
+
+
+Does this require revision or development of other DOC directives? If yes, identify.
+
+
+
+Are there any other committees or workgroups working on issues that affect the proposed change?
+
+
+Are there any statutory requirements for joint rulemaking with any other agency for these rules, or cooperation or
+consultation with any other agency for these rules?
+
+
+What date was this approved by the Executive team?
+If this has not been approved by the Executive Team, it cannot be moved forward.
+
+
+
+
+ 10.4.1 Attachment D                                                                                 CD 1487 Rev. 2/2024
+                                       DEFINITION DEVELOPMENT
+                                For Adoption or Amendment of Definition
+                                          Used in Rule or Policy
+
+Term:
+
+1. Is this a definition adoption or amendment? Adoption______ Amendment ______
+  a. If this is an amendment, proceed to #2.
+  b. If this is an adoption, skip to #6
+  c. Does this change apply broadly to all directives or only to a specific directive? Please specify.
+
+
+2. Current definition:
+
+
+  Proposed definition:
+
+
+3. In what other directives is this definition used?
+
+
+4. Have the owners of these impacted directives been notified of the change in this directive? If no, please explain.
+
+
+5. Does the proposed definition also work in these other directives? If no, please explain.
+
+
+6. Is the proposed definition accurate? (Consider whether the definition aligns with statute or related directive.)
+
+
+7. Explain the reason for the amendment or adoption of this definition.
+
+
+
+This development must be reviewed and approved by the division Assistant Director before adoption. Approval may be made
+via email.
+
+
+
+
+ 10.4.1 Attachment D                                                                                     CD 1487 Rev. 2/2024
+Instructions for Completing Form
+
+Rule (OAR) or Policy Number: Rule division or policy number being revised. If a new directive, type in new
+
+Title: Title of the rule division or policy. Subject matter if a new directive.
+
+Contact Person: The person facilitating the rule or policy development. Include any co-facilitators.
+
+Objective of the Directive: Describe the goal or intended outcome of the directive development, purpose of the development.
+
+Reason for the Proposed Change: Identify what is driving the need for the change. If it is a change in legislation or statewide
+policy, include the statute, law, or policy number.
+
+Potential Solutions Besides Proposed Change: Describe any alternative solutions besides rule/policy development.
+
+Impact on Department Operations and Stakeholders: Describe how the proposed changes will affect functional units,
+institutions and programs within the Department, and Community Corrections Offices. (Include additional workload, transfer
+of responsibility from one unit/staff to another unit/staff) What will the impact be to staff, adults in custody, family and
+friends of adults in custody, local government, counties, other states, the general public?
+
+Impact on Other Partners or Agencies: Describe how the proposed changes will affect local government, community partners,
+other law enforcement, or other state agencies.
+
+Directive Owner to Decide Legal Review: Directive owner to review content of change and determine if the directive needs to
+be approved by DOJ before moving forward in the process. Directive owner should follow DOJ guide and provide
+substantiation as to why directive was/was not reviewed by legal.
+
+Fiscal Impact (Rules Only): Determine if there is a fiscal impact to DOC, local government, adults in custody or other external
+stakeholders. Include whether additional staff is required, overtime costs, purchase of specialized equipment, etc.
+
+Racial Equity Impact (Permanent Rules Only): Determine the impact to racial equity in Oregon considering the rule’s impact to
+DOC, local government, adults in custody or other external stakeholders. Send your draft statement to the DOC Diversity,
+Equity & Inclusion Office for input and then to DOJ for review. Enter your final draft language in this form.
+
+Automation Requirements: Identify any automation requirements. Determine when automation requirements should be
+completed. Consult with IT to prioritize and coordinate with other projects.
+
+Training Requirements: Identify any training requirements. Include who needs to be trained and who will train.
+
+Revision or Development of other DOC Directives: Name other rules or policies that need to be revised or created as a result
+of this directive development.
+
+Committees or Workgroups Working on Issues That Affect the Proposed Change: Research whether there are any
+committees, workgroups or individuals discussing or working on issues that affect the directive development. If so, identify.
+
+Definition Development: This page is only submitted when definitions are being adopted or amended. Directive owner review
+and approval is required for all adoptions or amendments to definitions found in administrative rule or departmental policy.
+
+ 10.4.1 Attachment D                                                                                   CD 1487 Rev. 2/2024
+

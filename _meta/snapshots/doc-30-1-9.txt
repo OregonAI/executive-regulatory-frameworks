@@ -1,0 +1,422 @@
+                   DEPARTMENT OF CORRECTIONS
+
+                   Chief Financial Office
+
+                   Learning Entrepreneurship, Arts, and Production
+ Title:                                                            DOC Policy: 30.1.9
+                   (LEAP)
+
+ Effective:        1/20/2023                                            Supersedes: N/A
+
+ Applicability:    Financial Services and Institutions
+
+ Directives Cross-Reference:
+         Oregon Accounting Manual
+         Workforce Development Education Programs - Division 113
+         Learning Entrepreneurship, Arts, and Production (LEAP)- Division 172
+         Trust Accounts (AIC) - Division 158
+         Code of Conduct - Policy 20.1.3
+         Accounting-Control of Funds - Policy 30.1.1
+         Checks, Warrants and Vouchers (Issuance) - Policy 30.1.2
+         Receipting, Securing and Depositing Funds - Policy 30.1.3
+         State P-Card (SPOTS) Card Program - Policy 30.3.2
+         Contracts Administration - Policy 30.3.3
+
+ Attachments:
+       Learning Entrepreneurship, Arts, and Production (LEAP) Business Plan Proposal
+          LEAP Program Participation Agreement
+
+I. PURPOSE
+
+
+    The purpose of this policy is to document Department of Corrections (DOC) policies, processes, and
+    procedures for facilitating a Learning Entrepreneurship, Arts, and Production (LEAP) Program in which
+    adults in custody (AICs) produce and sell handmade goods to generate personal funds.
+
+
+II. DEFINITIONS
+
+    A. Administrative Trust Account (Central Trust): An account created and approved by Central Trust
+       that is located in the AIC financial system. This type of account may be used for club accounts,
+       group activities, or special interest groups, and are not associated with an individual State
+       Identification Number (SID). Rule establishing policies and procedures for the creation and
+       administration of AIC trust accounts, and safeguarding AIC funds used for authorized expenditures
+       and assessments during incarceration or in anticipation of release can be found in OAR 291-158
+       Trust Accounts (AIC).
+
+
+
+
+ Effective: 1/20/2023                         Page 1 of 9                                 Policy 30.1.9
+ B. Adult in Custody (AIC): Any person under the supervision of DOC who is not on parole, post-prison
+    supervision, or probation status.
+
+ C. Approved vendor: A vendor, approved by a DOC facility that is participating in a LEAP Program,
+    that is allowed to send, through specified DOC procedures, raw materials, supplies, or tools to
+    AICs participating in a LEAP Program in order for them to produce and sell handmade goods.
+
+ D. Customer: Any person or organization soliciting an arrangement of services or goods that can or
+    may be provided through a work program, LEAP Program, or work-based education program.
+    Examples are DOC staff, the public, other agencies, internal DOC units, and outside entities.
+
+ E. Department of Corrections facility: Any institution, facility, or staff office, including the grounds,
+    operated by the Department of Corrections.
+
+ F. E-Commerce portal: A department-approved internet website that allows for the purchase of
+    products created by an AIC LEAP participant or DOC created goods.
+
+ G. Expense: Something expended, frequently money, to secure a benefit or bring about a result.
+
+ H. Event Pass Through Account (EPTA): An administrative trust account that is created and approved
+    by Central Trust, located in the AIC financial system, that acts as a temporary holding account for
+    club fundraising events and at-cost events (whether sponsored by a club or not). An EPTA should
+    be used for any situation that necessitates a SPOTS purchase on behalf of an AIC. Funds collected
+    from AICs are placed into this account until expenses and revenue (if applicable) are reconciled
+    and distributed.
+
+ I.   Functional unit: Any organizational component within the Department of Corrections responsible
+      for the delivery of services or coordination of programs.
+
+ J.   Functional Unit Manager (FUM): Any person within the Department of Corrections who reports
+      to either the Director, Deputy Director, an Assistant Director, or an Administrator and has
+      responsibility for the delivery of program services or coordination of program operations. In an
+      institution, the superintendent is the FUM.
+
+ K. Handiwork products: Craftwork or items that are made from raw materials purchased by the AIC
+    LEAP Program participant in an approved LEAP Program. Common products include but are not
+    limited to jewelry, woodworking, metal creations, greeting cards, etc.
+
+ L. Learning Entrepreneurship, Arts, and Production (LEAP) Program: A program that authorizes an
+    AIC to operate a sole proprietorship in which the AIC may create handmade products using their
+    own resources, artistic talents, and skills, and to then sell those products to customers within the
+    State of Oregon. See also OAR 291-172 LEAP – Learning Entrepreneurship, Arts and Production
+    for the authority and guidelines established for LEAP programs.
+
+ M. LEAP Program Supervisor: DOC manager responsible for the overall operation of a LEAP program.
+
+ N. Market-based pricing: A price established for a product created in the LEAP Program that is based
+    on: the actual cost of materials used to create the product, the estimated or actual labor cost to
+
+
+
+Effective: 1/20/2023                         Page 2 of 9                                   Policy 30.1.9
+     create the product (determined by multiplying the estimated or actual number of hours by the
+     state minimum wage rate), other overhead incurred to create the product, and any additional
+     markup so as to not be sold below market value.
+
+ O. Merchant identification number: A unique number provided by the State Treasury and credit card
+    industry for processing credit card transactions.
+
+ P. Net profit: Revenue(s) minus transactional expense(s) and fee(s), including but not limited to
+    credit card merchant fees.
+
+ Q. Office of the Chief Financial Officer: Section of the department that provides support services to
+    all levels of the department through Financial Operations and Financial Services. Financial units
+    that are relevant to this policy include:
+     1. Business Services: A functional unit within the Financial Services Division that places
+        employees in larger institutions and provides satellite accounting and other fiscal services.
+        This unit acts as a liaison between the department’s Operations Division and the Office of the
+        CFO.
+     2. Central Accounting: A functional unit of the Financial Operations Division that records all
+        financial transactions outside of the AIC financial system and is the custodian of the
+        department’s fiscal records.
+     3. Central Trust: A functional unit within Financial Services that is responsible for administering
+        and managing AIC trust accounts; including making authorized transactions to AIC trust and
+        administrative trust accounts in compliance with Oregon Administrative Rules and federal or
+        state statutes.
+     4. Statewide Financial Programs: A functional unit within Financial Services that is responsible
+        for the oversight of all Other Funded programs specific to AIC revenue generating activities
+        and programs. This unit provides guidance towards best business practices with an emphasis
+        on fiduciary accountability. This includes developing policies and procedures, training
+        employees, ensuring financial integrity, providing technical assistance, and monitoring and
+        auditing compliance with applicable Oregon Administrative Rules, federal and state statutes,
+        and DOC policies.
+
+
+ R. Participating facility: Correctional facilities approved by the Assistant Director of Operations and
+    the Chief Financial Officer to operate a LEAP Program.
+
+ S. Program fee: Any fee that is charged to an AIC LEAP participant that is related to participation in
+    a LEAP Program. These fees are to assist with offsetting costs incurred by DOC to operate a LEAP
+    Program within a Department of Corrections facility and to provide AIC LEAP participants an
+    opportunity to pay business expenses normally associated with operating a business that they
+    would have to pay for directly if their business was not inside a Department of Corrections facility.
+    Program fees may consist of the following:
+
+     1. Bench fee: A program fee charged to an AIC LEAP participant to have access to and use a
+        bench and associated workspace.
+     2. E-Commerce portal fee: A program fee assessed to the AIC LEAP participant associated with
+        the cost of processing e-commerce sales of handiwork products.
+
+
+Effective: 1/20/2023                         Page 3 of 9                                  Policy 30.1.9
+       3. Other miscellaneous fee: A program fee assessed to the AIC LEAP participant in order to
+          reimburse DOC for business expenses (example: postage).
+
+    T. Revenue: Money generated from the sale of goods or services.
+
+    U. State P-Card of Oregon Transaction System (SPOTS): A state-sponsored credit card that agencies
+       may use to procure and pay for goods and services.
+
+
+III. POLICY
+    A. General
+
+        1. Selected AICs within participating facilities may be allowed to create and sell or otherwise
+           dispose of items of authorized handiwork products through approved channels.
+        2. The price of handiwork products for sale will be market-based. ORS 421.405 prohibits officers
+           and employees of the state from receiving the use or profit of the labor or services of any AIC.
+        3. AIC LEAP participants purchase all raw materials, supplies, and tools used for the creation of
+           handiwork products, receive the net profits from any sales of those handiwork products, and
+           reimburse DOC for state costs associated with the creation of handiwork products and
+           operation of the LEAP Program.
+
+
+    B. LEAP Program
+         1. Program Development
+
+                a. A Learning Entrepreneurship, Arts, and Production (LEAP) business plan proposal must
+                   be completed and approved by the FUM, Operations Division, and the Office of the
+                   CFO or those designated before starting a new program. In addition, the following
+                   guidelines, considerations, and requirements shall be addressed by the business plan:
+
+                         Potential liability, specialized AIC labor training, and product safety.
+                         Whether operational capacity, staff, space, and AIC labor is available and is
+                          approved by the Assistant Director of Operations.
+                          How AICs are assessed on their ability to be successful entrepreneurs.
+
+                b. If an E-Commerce portal solution is desired the following will occur prior to using an
+                    online store:
+
+                         A change order will be created through the DOC Procurement and Contracts unit
+                          with a State Treasury approved credit card processing vendor. See DOC Policy
+                          30.3.3 Contracts Administration.
+                          1. Credit card merchant identification numbers will be established through the
+                             State Treasurer’s Office.
+
+
+
+
+  Effective: 1/20/2023                         Page 4 of 9                                  Policy 30.1.9
+                        2. LEAP Program Supervisor or designee will work with Statewide Financial
+                           Programs unit to modify the online store template.
+                        3. Appropriate accounts to manage the LEAP Program will be established with
+                           Central Trust and Central Accounting.
+                        4. The DOC Information Security Officer (ISO) will be notified of any creation,
+                           modification or deletion of merchant accounts and e-commerce portals for
+                           the purpose of PCI-DSS adherence and attestation.
+       2. Records Management
+
+             a. The Office of the CFO will be responsible for approving the processes and procedures
+                used to document, track and control the financial activities of DOC LEAP Programs. See
+                DOC Policy 30.1.1 Accounting – Control of Funds.
+             b. Statewide Financial Programs will audit and oversee the financial accounting of LEAP
+                Programs.
+             c. Records must be maintained for audit purposes in accordance with records retention
+                policies and the Secretary of State’s retention schedule.
+             d. Records must be maintained by DOC staff regarding money management and
+                accounting reconciliation.
+             e. If an e-commerce portal is used, appropriate credit card fee reconciliation, deposits to
+                AIC accounts and if relevant, SPOTS card reimbursements shall be coordinated through
+                Central Trust and Central Accounting.
+             f. Ultimate responsibility for completeness and accuracy of record keeping lies with the
+                LEAP Program Supervisor.
+             g. LEAP Program accounts and transactions will be reconciled with Central Trust and
+                Central Accounting records monthly, with reconciliation reports printed and stored for
+                audit purposes.
+             h. The LEAP Program Supervisor should meet with the Statewide Financial Programs unit,
+                as needed, to assure processes and controls are operating as intended. Quarterly, the
+                CFO or designee shall prepare a summary of accounts for distribution to key
+                stakeholders including the FUM.
+
+       3. Standards and Protocols
+
+             a. All AICs participating in a LEAP Program will be provided a LEAP program participation
+                agreement to be reviewed and signed annually, which covers the following:
+
+                       Program description
+                       Notification process for changes to the program
+                        Program eligibility
+                        Conduct and appearance
+                       Business registration requirements and agents
+                        Limitations
+                         Program fee structure
+
+
+
+
+Effective: 1/20/2023                          Page 5 of 9                                Policy 30.1.9
+                        1.   Bench and crafting space fee
+                        2.   E-commerce portal fees (if applicable)
+                        3.   Additional fees as required (i.e., equipment rental)
+                          Ordering raw materials, supplies and tools protocol
+                        Limitations on crafting trade
+                       If applicable, website/online store use
+                        Taxes
+                         Tools, special equipment, and safety requirements
+                          Vendor approval process
+                          Pricing standards
+                         Shipping standards
+                          Bench and workspace standards
+                          Copyrights/trademark compliance
+                           Consignments
+                         Inventory control
+                         Bookkeeping and Central Trust balance requirements
+                         LEAP program hours of operation
+                          Leaving the program or removal standards
+                           AIC LEAP Program participant complaint and resolution procedures
+                           Terms and conditions
+                          AIC LEAP Program participant agreement signature page
+
+             b. All orders shall be facilitated by the LEAP Program Supervisor or designee.
+             c. Program performance and sustainability should be reviewed annually.
+             d. Program fees to cover LEAP Program costs may be assessed to the AIC LEAP
+                participant. The LEAP Program Supervisor is responsible for oversight of the collection
+                of program fee payments.
+
+                       Program fees shall be paid by the AICs monthly through a Request for Withdrawal
+                        of Funds.
+
+             e. SPOTS cards may be used to purchase raw materials, supplies, and tools for the AIC
+                LEAP participant. In accordance with DOC Policy State P-Card (SPOTS) Card Program
+                30.3.2, no SPOTS purchases may be made on behalf of an AIC until full payment has
+                been made to the institution’s LEAP Program EPTA. See also DOC Policy Checks,
+                Warrants and Vouchers (Issuance) 30.1.2 for guidance on SPOTS reconciliation
+                submission.
+             f. If non-e-commerce portal sales are made during non-business days (such as a weekend
+                flea market, art fair, or other public sales event), all proceeds and receipts must be
+                delivered to the Business Office, or designee, at the start of the next business day for
+                reconciliation. All sales involving cash must be in accordance with the Oregon
+                Accounting Manual (OAM 10.20.00). Staff must have both a beginning inventory and
+                beginning cash itemized prior to start of sale for reconciliation at the conclusion of the
+
+
+
+
+Effective: 1/20/2023                           Page 6 of 9                                 Policy 30.1.9
+                sale. All funds shall be properly secured in accordance with OAM money handling
+                requirements.
+             g. If an institution has been approved for AIC-to-AIC sales, the institution may allow AICs
+                within 30 days of release to make purchases to be included in their property at release.
+             h. All customers shall pay market-based price on all items purchased from the LEAP
+                Program.
+             i. The LEAP Program Supervisor or designee has discretion to approve fluctuating
+                product pricing based on special considerations; to include large quantity orders or
+                other special circumstances. Staff members shall not receive reduced pricing for
+                individual purchases without prior approval from the LEAP Program Supervisor or
+                designee.
+             j. DOC staff are reminded that they cannot receive a benefit from their employment in
+                accordance with DOC Policy Code of Conduct 20.1.3 and must not cause undue
+                influence over AIC LEAP participants.
+             k. The AIC LEAP participant shall not replicate or reproduce images or items in a manner
+                that violates the intellectual property rights (including, but not limited to, copyright,
+                patent, or trademark).
+             l. When new staff are assigned to the LEAP Program, it will be required that they receive
+                training from the Statewide Financial Programs unit.
+
+       4. LEAP Program Sales Procedures – Other than E-Commerce Portal
+
+             a. Department Facilitated Sales
+
+                       Receiving Payment
+                        1. Only approved payment methods will be accepted. Payment methods will be
+                           approved by the CFO or designee.
+                        2. Upon receipt of payment, the Business Office or designee will issue a serially
+                           numbered receipt to the customer. This number will be notated on a LEAP
+                           order form. See DOC Policy 30.1.3 Receipting, Securing and Depositing Funds.
+                        3. A LEAP order form will be marked paid, and a copy of that form will be
+                           scanned to the LEAP Program Supervisor or designee.
+                        4. The Business Office or designee will forward payment to Central Trust, who
+                           will deposit the money on to the AIC Trust Account.
+
+             b. Delivery of Product
+
+                       The LEAP Program Supervisor or designee will determine when the item will be
+                        available and will contact the customer to arrange for pick-up if the item is not
+                        being mailed to the customer. This may coincide with the time of payment if the
+                        item is available immediately.
+                       The LEAP Program Supervisor or designee will verify the customer’s receipt with a
+                        LEAP order form before giving the handiwork to the customer.
+
+
+
+
+Effective: 1/20/2023                           Page 7 of 9                                Policy 30.1.9
+                        Items marked for customer pick-up will be designated as abandoned if they are
+                        not picked up within 60 days. Abandoned products will be returned to the AIC
+                        LEAP participant’s inventory. Payment will not be refunded.
+
+             c. Custom Orders
+
+                       Payment and product delivery procedures are the same as department facilitated
+                        sales.
+                       Approval of Custom Orders
+                        1. LEAP Program Supervisor or designee must approve or deny all custom
+                           orders.
+                        2. Denied Orders
+                           a.   An explanation for why the order was denied will be notated on the
+                                order form by the LEAP Program Supervisor or designee.
+                           b.   LEAP Program Supervisor or designee will make a copy of the denied
+                                order form for program records.
+                           c.   Order form and payment, if received, will be returned to the customer.
+                        Canceled Orders
+                           a.   In the event there is a need to cancel a custom order for unforeseen
+                                circumstances which may include: supply chain disruptions, alternative
+                                program operations, errors, etc., an explanation for why the order was
+                                canceled will be notated on the order form by the LEAP Program
+                                Supervisor or designee.
+                           b.   LEAP Program Supervisor or designee will make a copy of the canceled
+                                order form for program records.
+                           c.   Order form and payment, if received, will be returned to the customer.
+       5. LEAP Program Sales Procedures – Using E-Commerce Portal
+
+             a. Orders:
+
+                       Each online store will be uniquely identified by the institution and program. The
+                        store will maintain a unique merchant identification number for processing credit
+                        card orders.
+                       All products must be identified, and market-based pricing established prior to the
+                        sale of online LEAP program goods or services.
+                        Each product will be given a product number that will be unique to the institution,
+                        the program, and AIC LEAP participant. The identity of the AIC participant shall
+                        not be revealed to the customer.
+                        The LEAP Program supervisor or designee shall create, update, and maintain the
+                        online sales catalogue.
+                       The LEAP Program supervisor or designee shall oversee the processing of orders.
+                        Daily reconciliation of sales shall occur.
+
+
+
+Effective: 1/20/2023                           Page 8 of 9                                  Policy 30.1.9
+                         Custom order protocol will be identified on the online store website and strictly
+                         adhered to.
+                         Online stores have a strict no return policy. Rare exceptions may be made by the
+                         LEAP program supervisor.
+                          Appropriate shipping and order pick up protocol will be followed to maintain
+                         safety and security of the institution.
+         6. Work Based Education (WBE) Program
+
+               a. LEAP programs are not a WBE program. Refer to Work-based Education (WBE) Training
+                  Programs, OAR 291-113-0021 for details on WBE programs.
+
+
+
+IV. IMPLEMENTATION
+   This policy will be adopted immediately without further modification.
+
+
+ Certified: _____signature on file____________________________
+
+ Julie Vaughn, Rules Coordinator
+
+
+
+ Approved: ____signature on file_____________________________
+
+ Heidi Steward, Acting Director
+
+
+
+
+  Effective: 1/20/2023                         Page 9 of 9                                 Policy 30.1.9
+

@@ -192,8 +192,14 @@ profiles:
     governance: unclassified
     policies_published: unknown
   department-of-corrections:
-    governance: unclassified
-    policies_published: unknown
+    governance: executive_branch
+    governance_basis: ORS 423.020 (creates the Department of Corrections) and ORS 423.075
+      (director appointed by, and serving at the pleasure of, the Governor) — both in-repo
+    policies_published: web
+    policies_location: https://www.oregon.gov/doc/rules-and-policies/pages/policies.aspx
+    notes: Numbered departmental policy series (e.g. 10.1.2) published as individual PDFs
+      with a clean text layer; ingested mechanically from the static listing page via
+      src/ingest_policies.py.
   department-of-energy:
     governance: unclassified
     policies_published: unknown

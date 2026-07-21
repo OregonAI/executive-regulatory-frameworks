@@ -1,0 +1,555 @@
+                                       DEPARTMENT OF CORRECTIONS
+                                              Institutions
+
+ Title:               Keys and Locks                                       DOC Policy: 40.1.2
+ Effective:            3/1/24                                              Supersedes: 11/1/16
+ Applicability:       Institutions and Non-prison Facilities
+ Directives Cross-Reference: None
+ Attachment: Form - Personal Issued Key Request Form (CD1701)
+
+I.        PURPOSE
+
+          To establish guidelines for the accountability, control, and use of keys and locks within
+          Department of Corrections facilities.
+
+II.       DEFINITIONS
+
+          A. Adult in Custody (AIC): Any person under the supervision of the Department of Corrections
+             who is not on parole, probation, or post-prison supervision status.
+
+          B. AIC Key: A key designated for use by an AIC in a specific area approved by the functional
+             unit manager or designee.
+
+          C. Automated Key Distribution System: A secured electronic key cabinet that uses a code or
+             scanned key chit to allow access to check out assigned keys.
+
+          D. Blank Key: A key with a special uncut design that may be used to match the cut of another
+             key.
+
+          E. Designated Key Storage Area: A designated, secured area to store keys, locks, and
+             equipment. Access to this area is restricted unless authorized by the functional unit
+             manager or designee.
+
+          F. Emergency Key: A key or key ring specifically reserved for use in emergency situations.
+
+          G. Inactive Key: A key for a lock not currently in use at the facility or a key not issued to a key
+             ring.
+
+          H. Institution Key: Keys used by employees, contractors, and volunteers during daily
+             operations of the facility.
+
+
+
+Effective 3/1/24                              Page 1 of 11                                      Policy 40.1.2
+       I. Key Chit: An officially issued photo ID card or metal tag used by authorized personnel in
+          exchange for a key ring.
+
+       J. Key Ring: A particular key or combination of keys contained on a key ring and identified by
+          number.
+
+       K. Master Key: A key designed to open more than one lock of the same series, for example,
+          grandmaster, sub-master, etc.
+
+       L. Officer in Charge (OIC): That person designated by the functional unit manager to supervise
+          the facility and make operational decisions in accordance with rule or procedure during
+          periods when the functional unit manager or officer-of-the-day are not readily available
+
+       M. Pattern Key: A non-issued key, set aside as a guide key to be used for cutting additional keys
+          of the same cut and design.
+
+       N. Personally Issued Key: A key issued to a person with the intent of being taken off grounds
+          and retained with the employee even during off duty times.
+
+       O. Restricted Key: Keys or key rings that may only be issued to designated personnel or issued
+          with the authorization of the functional unit manager or designee.
+
+       P. Tele-Key Cabinet: Designated storage area where blank keys, pattern keys, and extra keys
+          are stored. Other associated equipment is usually stored in the same area, such as key
+          cutting equipment.
+
+       Q. Vehicle Key: Keys which typically activate motorized vehicles operated by facility staff for
+          official purposes, including tractors and other specialized machines located inside or outside
+          the secure perimeter of the facility.
+
+III.   POLICY
+
+       A. Key Control System:
+
+           The key control person shall maintain the key control system so that keys are accounted for,
+           updated, and replaced as necessary. The key control person shall maintain key equipment,
+           records, inventory, rings, requests, training, chits, floor plans, maps, and documents related
+           to the issue and return of keys and locks.
+
+           1. Key Equipment:
+
+                a. The tele-key cabinet and associated equipment shall be accessed and maintained
+                   only by personnel who have received written authorization from the functional unit
+                   manager or designee. A log is maintained of all persons accessing that area, except
+
+Effective 3/1/24                           Page 2 of 11                                     Policy 40.1.2
+                   for those employees assigned as a full-time work assignment and authorized in
+                   writing by the functional unit manager.
+
+               b. The tele-key cabinet and associated equipment will be kept in a secure area that
+                  prevents and prohibits AIC access and limits staff to only those with necessary access
+                  as designated by the functional unit manager.
+
+               c. The tele-key cabinet shall contain:
+
+                   A. At least two additional keys for each active lock in the institution, one of which
+                      may be a pattern key.
+
+                   B. Key blanks
+
+                   C. Core locks
+
+                   D. Key making machine
+
+           2. Key Records:
+
+               a. A key cross index record shall be maintained as follows:
+
+                   A. Key number to lock and location
+
+                   B. Location of lock to key number
+
+                   C. Key number to key ring
+
+                   D. Key ring number of assigned keys
+
+                   E. Key ring assignment
+
+               b. A cross index file shall be maintained listing the key inventory on each key ring.
+
+               c. Change of lock location or duplication of keys: Any change in location or duplication
+                  of any key or lock must be authorized by the functional unit manager or designee.
+
+               d. Records are maintained of the destruction of worn, broken, or discarded locks and
+                  keys.
+
+           3. Key Inventory:
+
+               a. An inventory shall be maintained as follows:
+
+                   A. Keys on each ring
+
+Effective 3/1/24                            Page 3 of 11                                    Policy 40.1.2
+                   B. Locks
+
+                   C. Inactive keys
+
+                   D. Master keys
+
+                   E. Key blanks (perpetual)
+
+              b.   A physical inventory shall be implemented as follows:
+
+                   A. The personnel obtaining or receiving key rings shall count individual keys on the
+                      key ring to verify the number of keys stamped on the tag.
+
+                   B. A designated control person on each shift shall inventory all key rings maintained
+                      at the control center and designated areas. Discrepancies shall be immediately
+                      reported verbally to the officer-in-charge, and in writing to the functional unit
+                      manager or designee and key control person.
+
+                   C. The key control person or designee shall complete an inventory of all keys
+                      including the tele-key cabinet and associated equipment at the beginning of each
+                      quarter. Documentation of the inventory will be submitted to the functional unit
+                      manager or designee.
+
+                   D. An inventory of all keys including the tele-key cabinet and associated equipment
+                      will be conducted at least once a year by someone other than the key control
+                      person, as designated by the functional unit manager.
+
+           4. Key Rings:
+
+               a. A key ring list shall be maintained in the designated key storage area(s).
+
+               b. The key ring list shall be maintained by the key control person for all key rings as
+                  follows:
+
+                   A. Vehicle keys
+
+                   B. Institution keys
+
+                   C. Restricted keys
+
+                   D. Emergency keys
+
+               c. Each authorized position in the facility shall have a set of keys specifically designed
+                  for the assigned work area.
+Effective 3/1/24                           Page 4 of 11                                     Policy 40.1.2
+               d. Each key ring including emergency key rings, shall have a tag that identifies the key
+                  ring number and the number of keys assigned to the key ring. All emergency key sets
+                  shall have an additional smaller tag which identifies the area to which the keys are
+                  assigned.
+
+               e. Key rings will be soldered or bound to prevent the removal of keys by anyone other
+                  than key control person.
+
+               f. Keys or other items shall not be removed or added to any key ring by anyone other
+                  than key control person without expressed written approval from the functional unit
+                  manager or designee.
+
+               g. The loss of key(s) shall immediately be reported to the officer-in-charge and
+                  functional unit manager or designee, and a recovery search shall be conducted. The
+                  personnel responsible for the loss of the key ring or key shall make a detailed report
+                  to the functional unit manager or designee. The key control person shall forward a
+                  cross-reference break down of key set by area to the functional unit manager or
+                  designee.
+
+               h. Inactive keys shall be removed from the active key rings and placed on the inactive
+                  key inventory.
+
+               i.   Master keys shall be restricted to key rings that allow access to numerous areas.
+
+
+           5. Key Request:
+
+               a. Personnel may request the creation or modification of a key ring by submitting a
+                  written request to the functional unit manager or designee.
+
+               b. Personnel may request that a key or lock be added, removed, or replaced by
+                  submitting a written request to the functional unit manager or designee.
+
+           6. Key Training:
+
+               The functional unit manager or designee shall ensure all employees, contractors, and
+               volunteers are trained before being authorized to receive key rings. Documentation of
+               this training is maintained at the institution where the key chits are issued. This training
+               will include:
+
+               a. Key control;
+
+               b. Read and understand policy 40.1.2 Keys and Locks, and
+
+
+
+Effective 3/1/24                            Page 5 of 11                                      Policy 40.1.2
+               c. Review, understand, and sign the Key Control and Requirements form established
+                  for the institution.
+
+
+           7. Key Chit:
+
+               a. Each facility employee will be issued key chits with the employee’s identity stamped
+                  or reflected on the chit.
+
+               b. In the event an employee forgets, misplaces, or loses their key chit, a temporary key
+                  chit can be issued for the shift upon the authorization of the officer-in-charge.
+
+           8. Key Issue:
+
+               a. Each key ring shall be issued from the designated key storage area by placing the
+                  appropriate key chit on the hook from which the key ring was removed. The key chit
+                  will remain on the hook until replaced by the assigned key ring or replacement key
+                  chit. This does not apply if an automated key distribution system is used.
+
+               b. The designated key storage area is a clearly marked board or cabinet that is used for
+                  key issuance, return, and storage, which ensures ease of access, security, and
+                  accountability.
+
+               c. All emergency and restricted key rings shall be logged in the key checkout log.
+                  Emergency keys rings will be issued and logged immediately. The checkout log must
+                  indicate key number, date, time of issuance and return, the person to whom they
+                  were issued, the purpose of the issuance and the person authorizing the issuance.
+                  This does not include restricted keys that are being checked out to the person or
+                  post for which they are assigned, such as records keys to staff working in the Records
+                  unit.
+
+               d. Personnel obtaining a key ring shall count the number of keys on the ring to verify
+                  the number of keys on the ring corresponds with the number stamped on the small
+                  metal tag and inspect the condition of the keys. Any discrepancy shall be
+                  immediately reported verbally to the officer-in-charge and in writing to the
+                  functional unit manager or designee.
+
+               e. Personnel wanting to use a key ring in the possession of another person will
+                  exchange their key chit with the other person for the key ring. The person who has
+                  exchanged the key ring for a key chit shall return the other person's key chit to the
+                  control center and exchange the key chit for their own key chit. The person receiving
+                  the key ring shall ensure the correct number of keys is on the key ring. If the key ring
+                  was issued using an automated system, rather than exchanging keys for a key chit,
+                  the relieving staff member is required to check out their own set of keys. The staff
+
+Effective 3/1/24                           Page 6 of 11                                      Policy 40.1.2
+                    member who checked out keys from the automated system is responsible for
+                    returning them.
+
+               f. Personnel shall return their key ring to the designated key storage area before
+                  leaving the facility grounds or at the end of their shift.
+
+               g. Personnel who inadvertently remove keys from the facility must return them
+                  immediately.
+
+               h. Personally issued keys will be assigned as designated by the functional unit manager.
+
+               i.   Personal Issued Key Request Form (CD 1701) will be signed and kept on file for all
+                    staff with personally issued keys.
+
+       B. Personnel Key Control Responsibilities:
+
+           1. Key control is the responsibility of all Department of Corrections personnel.
+
+           2. Personnel shall obtain a key ring from the designated key storage area by exchanging
+              their key chit for the key ring. A key chit is not required when using the automated key
+              distribution center.
+
+           3. Personal keys must be maintained on an employee's person or always stored in a secure
+              area.
+
+           4. Personnel must always be in possession of issued keys on their person.
+
+           5. Personnel shall exercise care to prevent AICs from seeing numbers on keys or observing
+              the key cut for any period.
+
+           6. Keys or the method of their use shall not be shared or surrendered to any AIC.
+
+           7. Personnel shall not throw keys to each other. Personnel shall utilize a hand-to-hand
+              exchange, always maintaining key control.
+
+           8. Personnel shall immediately provide a verbal report regarding key malfunctions to the
+              officer-in-charge and submit a written report to the functional unit manager or designee
+              and key control person. The top portion of a broken key is to remain on the key ring until
+              the damaged key has been replaced.
+
+           9. Personnel shall immediately report verbally to the officer-in-charge and in writing to the
+              functional unit manager or designee and key control person any malfunctioning or
+              marginally working lock.
+
+
+Effective 3/1/24                           Page 7 of 11                                    Policy 40.1.2
+           10. Personnel shall ensure a lock remains secured to an object and locked except for entry
+               and exit. Any lost or malfunctioning locks shall be immediately reported verbally to the
+               officer-in-charge and in writing to the functional unit manager or designee and the key
+               control personnel.
+
+       C. Vehicle Keys
+
+           1. Certain key rings shall be designated as vehicle keys. A list of these keys shall be in the
+              designated key storage area.
+
+           2. Vehicle keys shall be maintained on designated key hooks inside the key storage area.
+
+           3. Personnel using an institution vehicle shall obtain the vehicle key ring from the
+              designated key storage area per established process at that institution.
+
+       D. Restricted Keys:
+
+           1. Certain key rings shall be designated as restricted keys. A list of these keys shall be kept
+              in the designated key storage area. The key ring list shall be maintained by key control
+              person and approved by the functional unit manager or designee.
+
+           2. All keys shall be restricted if used for the following:
+
+               a. AIC records, including grievances;
+
+               b. Personal property storage;
+
+               c. Valuables storage;
+
+               d. Evidence storage;
+
+               e. Personnel records storage;
+
+               f. Commissary sales and storage;
+
+               g. Armory or vault;
+
+               h. Food storage (warehouse);
+
+               i.   Medical department keys;
+
+               j.   Inactive key storage area; and
+
+               k. Others as designated by the functional unit manager.
+
+Effective 3/1/24                            Page 8 of 11                                     Policy 40.1.2
+       E. Emergency Keys:
+
+           1. Certain key rings shall be designated emergency keys. Such keys will be listed on the key
+              ring list maintained in the designated key storage area.
+
+           2. Emergency keys will be identified by a red tag on the key ring.
+
+           3. Emergency keys shall be maintained in a secured, designated area with a floor plan
+              (map) of the facility. The floor plan will reflect all entrances and exits within the facility.
+
+           4. Emergency keys shall be stored in a readily accessible place clearly separated from the
+              standard key-issue board or cabinet.
+
+           5. Individual emergency keys will be coded on each key ring set, (such as color coding,
+              numbering, etc.). The coding reflected on the key will ensure easy identification of the
+              lock or door it is designated to open.
+
+               a. Facilities will develop a consistent coding system to implement this process.
+
+               b. The coding system will be the responsibility of the functional unit manager or
+                  designee and shall be maintained and updated each quarter by the key control
+                  person.
+
+           6. All emergency keys shall be checked at the beginning of each quarter by the key control
+              person or designee to assure proper operation. A report documenting the inventory and
+              any necessary repairs or changes will be submitted to the functional unit manager or
+              designee.
+
+           7. Emergency exit doors and corresponding emergency keys will be physically checked and
+              logged monthly by the key control person to ensure they are in working order.
+
+           8. The functional unit manager will ensure selected keys, (such as keys which access
+              perimeter locks and gates) are duplicated and kept in a separate, secured location, (such
+              as a tower, arsenal, or neighboring institution).
+
+       F. AIC Keys:
+
+           1. AICs shall not possess keys unless issued and authorized by the functional unit manager
+              or designee.
+
+           2. AICs may be issued one key to their cell (except dormitory AICs) which shall be used to
+              open their door during authorized movement. The AIC receiving the key will be given a
+
+
+Effective 3/1/24                            Page 9 of 11                                        Policy 40.1.2
+               direct order to maintain the key in their possession at all times and must report lost keys
+               to the officer-in-charge immediately.
+
+           3. If an AIC loses a cell key, they shall report it immediately to the officer-in-charge. The
+              officer-in-charge shall instruct the AIC to search for the lost key. If the key cannot be
+              found, the officer-in-charge shall initiate formal disciplinary action and report the loss
+              to the functional unit manager or designee and key control person.
+
+           4. All unassigned AIC cell keys shall be maintained in a designated key storage area.
+
+       G. Written Directive:
+
+           The functional unit manager will designate responsibility of the oversight and control of keys
+           and locks to a manager and will specify, through written directive, the duties,
+           responsibilities, and manner in which they will be carried out. The written directive will
+           include at least the following:
+
+           1. A comprehensive key control process maintained in a secure area and available to staff.
+
+           2. The specific person or job assignment to which the responsibility for the key control
+              system will be designated.
+
+           3. Processes for secure storage, inventory, systematic filing, and storage methods that
+              ensure strict accountability for keys, pattern keys, blanks, and facility locks.
+
+           4. Process for inventory of AIC issued and purchased locks.
+
+           5. Defined safeguards related to the proper delivery and disposal of keys, locks, and related
+              supplies as determined by the functional unit manager or designee.
+
+           6. Handling restrictions related to facility keys and AICs (AICs are prohibited from handling
+              facility keys).
+
+           7. Identification of areas and functions or circumstances where AICs may be in possession
+              of keys. A list will be maintained with the name of the pre-approved AIC, key number,
+              and item or vehicle to which the key is assigned.
+
+           8. Staff responsibility related to the issuance and return of keys as well as reporting and
+              actions taken for lost, broken, or stolen keys. The written directives include searches,
+              inventories, and changing of affected locks.
+
+           9. Details related to the issuance, handling, and accountability of personally issued keys.
+              The written directive will include a minimum requirement for an annual inventory and
+              accountability of all personally issued keys.
+
+Effective 3/1/24                           Page 10 of 11                                     Policy 40.1.2
+           10. Direction for the functional unit manager of department offices that are not part of a
+               facility (such as Headquarters, CDC, Transport Unit Offices, etc.) to have written
+               directives in place that include a minimum requirement for an annual inventory and
+               accountability of all personally issued keys. Written directives will also address each of
+               the following areas:
+
+               a.   Key control responsibility;
+               b.   Key equipment;
+               c.   Key inventory;
+               d.   Key issue;
+               e.   Key records;
+               f.   Key requests;
+               g.   Key rings;
+               h.   Key training;
+               i.   Vehicle keys;
+               j.   Restricted keys; and
+               k.   Emergency keys.
+
+       H. Policy Variance Exception:
+
+           1. Request for exceptions to any specific part of this policy must be recommended in
+              writing by the Eastside or Westside Institutions Administrator and Chief of Security on
+              behalf of the specific facility’s functional unit manager utilizing a Variance Exception
+              form (CD1737). The reason for the specific exception and the proposed process to be
+              used by the facility must be approved in writing by the Assistant Director of Operations.
+
+           2. Upon receiving written authorization for the exception to any specific part of this policy,
+              the facility will explain this exception and approval (including date of approval) within
+              the facility’s Keys and Locks procedure.
+
+
+III.   IMPLEMENTATION
+
+       Each DOC facility shall develop a written directive to designate duties and responsibilities for
+       the oversight of control of keys and locks.
+
+
+Certified: ______signature on file__________
+Julie Vaughn, Rules Coordinator
+
+
+Approved: ______signature on file__________
+Heidi Steward, Deputy Director
+
+Effective 3/1/24                            Page 11 of 11                                   Policy 40.1.2
+                                   Personal Issued Key Request Form
+
+
+
+Personal issued key or key set request for the purpose of:
+
+
+
+I understand the following: The below key(s) are the property of the Oregon Department of Corrections
+(DOC). I will surrender these keys when:
+
+1.    There is no longer a legitimate reason for keeping the keys;
+2.    Upon my transfer to another facility;
+3.    At the request of my supervisor; or
+4.    Upon termination of employment with DOC.
+
+I will not attempt to have these keys duplicated. If misplaced or lost, I will immediately notify the facility
+on-duty supervisor and provide written notification to my supervisor and the functional unit manager
+(FUM).
+
+
+Employee                                          Signature                                  Date
+
+
+
+
+FUM or designee                                   Signature                                  Date
+
+APPROVED / DENIED (circle one)
+
+The signatures below indicate the key or key set was issued, and the signer has read the department’s
+policy on Keys and Locks (DOC policy 40.1.2) and respective functional unit procedures.
+
+
+Employee                                          Signature                                  Date
+
+
+
+Receiving Key Control Personnel                   Signature                                  Date
+
+
+Issuing Functional Unit:                                   Key Numbers/Set Assigned:
+
+
+Issue Date:                                                Return Date:
+
+cc:     Personnel Working File
+        Key Control Personnel
+
+
+
+                                                                                         CD 1701 (December 2023)
+
