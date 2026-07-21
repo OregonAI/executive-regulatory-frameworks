@@ -37,6 +37,28 @@ Hand-maintained list of known improvements deliberately deferred. (Distinct from
   `build_llms`) still recompute corpus-wide, but they carry no snapshot line-matching so
   they stay cheap; revisit if they dominate.
 
+## Visualization
+
+The first viz is **built**: `src/build_agency_graph.py` → `viz/agency-authority-graph.html`
+(self-contained interactive canvas graph) + `_meta/agency-graph.json`. It's the **agency
+shared-statutory-authority** graph — agencies linked by ORS chapters their rules both
+implement, ubiquity-discounted. Deferred follow-on ideas from the same brainstorm:
+
+- **Authority-chain ego explorer** — pick any document, render its N-hop up/down
+  neighborhood (a visual `authority_chain`/`graph_neighbors`). Needs only `_meta/graph.json`.
+- **Statute-operationalization fan** — for an ORS chapter, show every OAR rule (across all
+  agencies) that implements it; reveals heavily-operationalized vs. dormant statutes.
+- **Corpus coverage map** — treemap/sunburst of body → agency → doc_type sized by count,
+  colored by `content_mode` (verbatim vs. stub) or freshness; visualizes the import gap
+  (e.g. agency policies not yet ingested).
+- **Semantic topic map** — 2-D UMAP projection of document embeddings colored by
+  agency/doc_type; clusters = cross-agency topics. **Requires the production embedding
+  index first** (see semantic-search item below).
+- **Do NOT** rebuild the *directed* "agency A cites agency B" graph: 98% of `implements`
+  edges point to statewide ORS statutes (not agency-owned), so only ~150 true inter-agency
+  citation edges exist — the directed graph is a near-empty statewide hub. The
+  shared-authority projection above is the data-supported alternative.
+
 ## Other known deferrals
 
 - Docker image smoke test (blocked: local user lacks docker socket permission —
