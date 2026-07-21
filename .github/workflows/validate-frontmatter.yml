@@ -44,3 +44,5 @@ jobs:
         run: python3 src/mcp_lib.py --selftest
       - name: Semantic vector index must be current (soft-pass if not built)
         run: python3 src/build_embeddings.py --check
+      - name: Agency authority-graph visualization must be current
+        run: python3 src/build_agency_graph.py --check

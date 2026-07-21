@@ -160,6 +160,14 @@ ingest; reruns are idempotent; CI fails when graph.json is stale. Hand-authored
 edges are preserved, and mirrors (implements ⇄ implemented_by) are kept
 symmetric automatically.
 
+**Agency graph visualization**: `python3 src/build_agency_graph.py` derives an
+agency-level *shared-statutory-authority* graph from `_meta/graph.json` (agencies linked
+by the ORS chapters their rules both implement, ubiquity-discounted) and emits
+[`_meta/agency-graph.json`](_meta/agency-graph.json) plus a self-contained interactive
+page [`viz/agency-authority-graph.html`](viz/agency-authority-graph.html) (data inlined,
+no external assets). Regenerate after any ingest; `--check` gates it in CI. Both are
+generated — never hand-edit.
+
 ## Human-review queue
 
 [`REVIEW.md`](REVIEW.md) is the single place listing everything that needs human
