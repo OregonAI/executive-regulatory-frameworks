@@ -1,0 +1,10 @@
+{
+ "backend": "model2vec",
+ "model": "minishlab/potion-retrieval-32M",
+ "dim": 512,
+ "granularity": "document",
+ "n_chunks": 67978,
+ "fingerprint": "dc05ebb824d13c7506d8222d53046e93e8af6e81b4c3754cf33a5e543a1ff11e",
+ "repr_chars": 1400,
+ "note": "one int8 vector per document (title + At-a-glance + head of full text), L2-normalized*127; cosine \u2248 int32 dot / 127^2. Rebuild with src/build_embeddings.py after any ingest."
+}

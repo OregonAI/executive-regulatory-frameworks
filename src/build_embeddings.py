@@ -1,28 +1,31 @@
 #!/usr/bin/env python3
 """Build the semantic-search vector index for the MCP server (optional workstream).
 
-An offline, run-once-after-ingest step (like link_graph.py): chunk every content
-document's searchable text, embed each chunk with a LOCAL model, and write an
-int8-quantized vector artifact under _meta/embeddings/ that the MCP query engine
-(src/mcp_lib.py) loads for hybrid BM25+vector search.
+An offline, run-once-after-ingest step (like link_graph.py): embed every content
+document with a LOCAL model (one vector per document — title + At-a-glance + head of
+full text) and write an int8-quantized vector artifact under _meta/embeddings/ that the
+MCP query engine (src/mcp_lib.py) loads for hybrid BM25+vector search.
 
   python3 src/build_embeddings.py                 # build/refresh the index
   python3 src/build_embeddings.py --check         # exit 1 if artifact is stale (CI)
   python3 src/build_embeddings.py --limit 500     # embed a subset (dev/smoke)
-  python3 src/build_embeddings.py --backend hashing
+  python3 src/build_embeddings.py --backend sentence-transformers
 
-Backends (auto-detected; override with --backend):
-  - sentence-transformers  PRODUCTION. A small local model (default
-                           BAAI/bge-small-en-v1.5, 384-dim). No network at serve
-                           time once vectors + model are committed/cached.
-  - hashing                ZERO-DEPENDENCY fallback: deterministic hashed char-ngram
-                           bag-of-words. NO semantic quality — only for wiring the
-                           pipeline and CI tests when no model is installed.
+Backends (auto: model2vec -> sentence-transformers -> hashing; override with --backend):
+  - model2vec              PRODUCTION DEFAULT. Static embeddings (default
+                           minishlab/potion-retrieval-32M) — token-vector lookup, no
+                           transformer forward pass, so ~10k texts/sec on CPU. The right
+                           choice for a CPU-only host; a transformer manages ~1-2/sec at
+                           this text length (a ~13h build over this corpus).
+  - sentence-transformers  Higher quality but ~1-2 texts/sec on CPU — practical only with
+                           a GPU or a small corpus (default BAAI/bge-small-en-v1.5).
+  - hashing                ZERO-DEPENDENCY fallback: hashed char-ngram bag-of-words. NO
+                           semantic quality — only for wiring the pipeline / CI tests.
 
 Artifact (under _meta/embeddings/, committed to git):
-  vectors.i8.npy   int8 [n_chunks, dim]  — each row an L2-normalized embedding × 127
-  chunks.jsonl     one JSON object per row: {doc_id, heading, ordinal, preview}
-  meta.json        {backend, model, dim, n_chunks, fingerprint, chunk_chars, overlap}
+  vectors.i8.npy   int8 [n_docs, dim]  — each row an L2-normalized embedding × 127
+  chunks.jsonl     one JSON object per row (one per doc): {doc_id, heading, ordinal, preview}
+  meta.json        {backend, model, dim, granularity, n_chunks, fingerprint, repr_chars}
 
 Dependency policy: this BUILD tool requires numpy (+ a model backend). The SERVE
 side (mcp_lib) lazily imports numpy and falls back to pure FTS keyword search when
@@ -43,7 +46,8 @@ VECTORS = EMB_DIR / "vectors.i8.npy"
 CHUNKS = EMB_DIR / "chunks.jsonl"
 META = EMB_DIR / "meta.json"
 
-DEFAULT_MODEL = "BAAI/bge-small-en-v1.5"
+DEFAULT_M2V = "minishlab/potion-retrieval-32M"      # static, CPU-fast (default backend)
+DEFAULT_MODEL = "BAAI/bge-small-en-v1.5"             # transformer (--backend sentence-transformers)
 CHUNK_CHARS = 1600     # ~400 tokens
 OVERLAP = 200
 
@@ -149,8 +153,34 @@ class HashingEmbedder:
         return out
 
 
+class Model2VecEmbedder:
+    """Static (model2vec) embeddings — token-vector lookup + pooling, NO transformer
+    forward pass, so it runs ~10,000 texts/sec on CPU (vs ~1-2/sec for a transformer at
+    this text length). Default production backend on CPU-only hosts; retrieval quality is
+    lower than a transformer but clearly separates related from unrelated concepts, which
+    is what the vector arm of the hybrid (BM25+vector) search needs."""
+    name = "model2vec"
+
+    def __init__(self, model=DEFAULT_M2V):
+        import numpy as np
+        from model2vec import StaticModel
+        self.model = model or DEFAULT_M2V
+        self._m = StaticModel.from_pretrained(self.model)
+        self.dim = int(self._m.encode(["probe"]).shape[1])
+        self._np = np
+
+    def encode(self, texts):
+        np = self._np
+        v = self._m.encode(list(texts)).astype("float32")
+        n = np.linalg.norm(v, axis=1, keepdims=True)
+        n[n == 0] = 1.0
+        return v / n
+
+
 class SentenceTransformerEmbedder:
-    """Production backend — a small local model, L2-normalized output."""
+    """Transformer backend — higher quality than model2vec but ~1-2 texts/sec on CPU, so
+    only practical with a GPU or for a small corpus. Rebuild with --backend
+    sentence-transformers where compute allows."""
     name = "sentence-transformers"
 
     def __init__(self, model=DEFAULT_MODEL):
@@ -170,15 +200,19 @@ def make_embedder(backend, dim, model=None):
     different query model against those vectors would return silent garbage."""
     if backend == "hashing":
         return HashingEmbedder(dim=dim, model=model or "hashing-ngram-v1")
+    if backend == "model2vec":
+        return Model2VecEmbedder(model)
     if backend == "sentence-transformers":
         return SentenceTransformerEmbedder(model)
-    # auto: prefer the real model, fall back to hashing
-    try:
-        return SentenceTransformerEmbedder(model)
-    except Exception as e:
-        print(f"note: sentence-transformers unavailable ({e.__class__.__name__}); "
-              "using the hashing fallback backend (no semantic quality).", file=sys.stderr)
-        return HashingEmbedder(dim=dim, model=model)
+    # auto: static model2vec (CPU-appropriate) -> transformer -> hashing fallback
+    for ctor in (lambda: Model2VecEmbedder(model), lambda: SentenceTransformerEmbedder(model)):
+        try:
+            return ctor()
+        except Exception:
+            continue
+    print("note: no embedding model available; using the hashing fallback backend "
+          "(no semantic quality).", file=sys.stderr)
+    return HashingEmbedder(dim=dim, model=model)
 
 
 # ---------- build ----------
@@ -188,40 +222,77 @@ def quantize_int8(vecs):
     return np.clip(np.rint(vecs * 127.0), -127, 127).astype(np.int8)
 
 
+REPR_CHARS = 1400   # ~350 tokens: title + At-a-glance + head of full text
+BATCH = 256         # encode/report granularity
+
+
+def doc_repr(path):
+    """One representative text per document for a single embedding: title +
+    At-a-glance + the head of the full text. Doc-level (one vector per doc) is the
+    right granularity for a CPU-only build over a ~68k-doc corpus — search returns
+    documents, and BM25 covers full-text keyword recall in the hybrid path. (Per-chunk
+    embedding is 5-10x the cost for marginal ranking gain here.)"""
+    fm, body = parse_frontmatter(path)
+    parts = [fm.get("title", "")]
+    glance = _section(body, "At a glance")
+    if glance:
+        parts.append(glance)
+    ft = extract_fulltext(body) or _section(body, "Key provisions")
+    if ft:
+        parts.append(ft)
+    text = re.sub(r"[ \t]+", " ", "\n".join(p for p in parts if p)).strip()
+    return fm["id"], text[:REPR_CHARS]
+
+
 def build(backend="auto", limit=None, dim=384):
+    import time
+
     import numpy as np
     paths = list(content_files())
     if limit:
         paths = paths[:limit]
     emb = make_embedder(backend, dim)
 
-    ids, headings, ordinals, previews, texts = [], [], [], [], []
-    for doc_id, heading, ordinal, _title, ch in iter_chunks(paths):
-        ids.append(doc_id); headings.append(heading); ordinals.append(ordinal)
-        previews.append(ch[:160]); texts.append(ch)
-    if not texts:
-        print("no chunks to embed")
+    ids, texts, previews = [], [], []
+    for p in paths:
+        did, text = doc_repr(p)
+        if not text:
+            continue
+        ids.append(did); texts.append(text); previews.append(text[:160])
+    n = len(texts)
+    if not n:
+        print("no documents to embed")
         return
 
-    vecs = emb.encode(texts)
-    q = quantize_int8(vecs)
+    print(f"embedding {n} documents ({emb.name}, doc-level) …", flush=True)
+    out = np.empty((n, emb.dim), dtype=np.int8)
+    t0 = time.time()
+    for start in range(0, n, BATCH):
+        batch = texts[start:start + BATCH]
+        out[start:start + len(batch)] = quantize_int8(emb.encode(batch))
+        done = start + len(batch)
+        if done % (BATCH * 4) == 0 or done == n:
+            rate = done / max(time.time() - t0, 1e-6)
+            eta = (n - done) / max(rate, 1e-6)
+            print(f"  {done}/{n} ({done*100//n}%) · {rate:.1f} docs/s · "
+                  f"ETA {eta/60:.0f} min", flush=True)
 
     EMB_DIR.mkdir(parents=True, exist_ok=True)
-    np.save(VECTORS, q)
+    np.save(VECTORS, out)
     with CHUNKS.open("w", encoding="utf-8") as f:
-        for i in range(len(ids)):
-            f.write(json.dumps({"doc_id": ids[i], "heading": headings[i],
-                                "ordinal": ordinals[i], "preview": previews[i]},
-                               ensure_ascii=False) + "\n")
+        for i in range(n):
+            f.write(json.dumps({"doc_id": ids[i], "heading": "doc", "ordinal": 0,
+                                "preview": previews[i]}, ensure_ascii=False) + "\n")
     META.write_text(json.dumps({
-        "backend": emb.name, "model": getattr(emb, "model", ""), "dim": int(vecs.shape[1]),
-        "n_chunks": len(ids), "fingerprint": corpus_fingerprint(paths),
-        "chunk_chars": CHUNK_CHARS, "overlap": OVERLAP,
-        "note": ("int8 vectors, L2-normalized*127; cosine ≈ int32 dot / 127^2. Rebuild "
-                 "with src/build_embeddings.py after any ingest."),
+        "backend": emb.name, "model": getattr(emb, "model", ""), "dim": int(emb.dim),
+        "granularity": "document", "n_chunks": n,
+        "fingerprint": corpus_fingerprint(paths), "repr_chars": REPR_CHARS,
+        "note": ("one int8 vector per document (title + At-a-glance + head of full text), "
+                 "L2-normalized*127; cosine ≈ int32 dot / 127^2. Rebuild with "
+                 "src/build_embeddings.py after any ingest."),
     }, indent=1) + "\n")
-    print(f"embedded {len(ids)} chunks from {len(paths)} docs "
-          f"({emb.name}, dim={vecs.shape[1]}) -> {VECTORS.relative_to(REPO_ROOT)}")
+    print(f"embedded {n} documents ({emb.name}, dim={emb.dim}) -> "
+          f"{VECTORS.relative_to(REPO_ROOT)}", flush=True)
 
 
 def check():
@@ -243,7 +314,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--check", action="store_true", help="exit 1 if the artifact is stale")
-    ap.add_argument("--backend", choices=["auto", "sentence-transformers", "hashing"],
+    ap.add_argument("--backend", choices=["auto", "model2vec", "sentence-transformers", "hashing"],
                     default="auto")
     ap.add_argument("--limit", type=int, help="embed only the first N content files")
     ap.add_argument("--dim", type=int, default=384, help="dim for the hashing backend")
