@@ -1,0 +1,2124 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+ Chapter
+295 — Depositories of Public Funds and Securities 
+
+   
+
+ ORS sections in this
+chapter were amended or repealed by the Legislative Assembly during its 2025
+special session. See the table of ORS sections amended or repealed during the
+2025 special session: 2025
+ss A&R Tables 
+
+   
+
+ New sections of law
+were enacted by the Legislative Assembly during its 2025 special session and
+pertain to or are likely to be compiled in this ORS chapter. See sections in
+the following 2025 special session Oregon Laws chapters: 2025
+ss Session Laws 0001 
+
+   
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ DEPOSITORIES OF PUBLIC FUNDS AND
+SECURITIES 
+
+   
+
+ PUBLIC FINANCIAL ADMINISTRATION 
+
+   
+
+ 295.001     Definitions for ORS
+295.001 to 295.108 
+
+   
+
+ 295.002     Deposit of public
+funds; exceptions; limitation on personal liability 
+
+   
+
+ 295.004     Conditions for deposit
+of funds in excess of specified amounts 
+
+   
+
+ 295.006     Public official filings
+with State Treasurer; rules 
+
+   
+
+ 295.007     Conditions for acting
+as custodian; rules 
+
+   
+
+ 295.008     Qualified depositories 
+
+   
+
+ 295.012     State Treasurer rule
+setting maximum liability for qualified credit union depositories 
+
+   
+
+ 295.013     Custodian’s receipt;
+duties of custodian; rules 
+
+   
+
+ 295.015     Maintenance of
+securities by qualified depository 
+
+   
+
+ 295.018     Increase in required
+collateral of qualified depository; notifications; failure to increase
+collateral 
+
+   
+
+ 295.022     Collateral not required
+for deferred compensation funds 
+
+   
+
+ 295.031     Notice to public
+officials regarding adequacy of collateral 
+
+   
+
+ 295.034     Withdrawal of
+inadequately collateralized funds 
+
+   
+
+ 295.037     Distribution of
+collateral after loss in qualified depository 
+
+   
+
+ 295.038     Assessment against
+collateral of qualified depositories 
+
+   
+
+ 295.039     State Treasurer
+acceptance of moneys for purposes of administering ORS 295.038 
+
+   
+
+ 295.041     Subrogation rights of
+State Treasurer 
+
+   
+
+ 295.046     Limitation on
+acceptance of public funds from single public official; exceptions 
+
+   
+
+ 295.048     Limitations on
+aggregate uninsured public funds deposits; notice; exceptions 
+
+   
+
+ 295.053     Custodian duties when
+qualified depository ceases holding uninsured public funds; securities 
+
+   
+
+ 295.056     Liability of public
+officials for loss of public funds 
+
+   
+
+ 295.061     Treasurer reports;
+filing; notification of changes; failure to file reports; rules 
+
+   
+
+ 295.071     Investigation by
+regulatory bodies other than State Treasurer 
+
+   
+
+ 295.073     Report to State
+Treasurer of actions that reduce net worth of depository 
+
+   
+
+ 295.081     Time deposits 
+
+   
+
+ 295.084     State Treasurer
+designation of depositories 
+
+   
+
+ 295.091     Geographic preference
+in selecting depositories; apportioning funds; interest 
+
+   
+
+ 295.093     Depositing moneys with
+treasurer of public body 
+
+   
+
+ 295.097     State agency agreements
+with third parties; State Treasurer approval; rules 
+
+   
+
+ 295.098     Public body agreements
+with third parties; alternative methods 
+
+   
+
+ 295.101     Public funds not
+subject to ORS 295.001 to 295.108 
+
+   
+
+ 295.103     Certain moneys related
+to motor carriers not public funds 
+
+   
+
+ 295.106     State Treasurer
+charges; expenses 
+
+   
+
+ 295.108     State Treasurer rules;
+form of report 
+
+   
+
+ 295.195     Deposit of funds in
+foreign country; effect on collateral; report to Legislative Assembly 
+
+   
+
+ 295.205     Accounts in financial
+institutions outside Oregon; conditions; rules 
+
+   
+
+       295.001
+Definitions for ORS 295.001 to 295.108. As used in ORS 295.001 to 295.108, unless the context
+requires otherwise: 
+
+       (1) “Adequately
+capitalized” means a qualified depository that is classified as adequately
+capitalized by the depository’s primary federal regulatory authority. 
+
+       (2) “Bank” means
+an insured institution or trust company. 
+
+       (3) “Business day”
+means a day other than a federal or State of Oregon legal holiday or a day
+other than a day on which offices of the State of Oregon are otherwise
+authorized by law to remain closed. 
+
+       (4) “Closed
+depository” means a qualified depository that is subject to a loss. 
+
+       (5) “Collateral”
+means securities, or a letter of credit or similar instrument intended to
+ensure payment, that is approved by the State Treasurer to be used as security
+to ensure the obligations of a qualified depository under this chapter. 
+
+       (6) “Collateral
+agreement” means an agreement entered into between a qualified depository and
+the State Treasurer under which the qualified depository agrees to provide
+collateral to secure its deposits of public funds and to comply with the
+provisions of this chapter and such other provisions as the State Treasurer
+determines are required to adequately protect public funds from loss. 
+
+       (7) “Credit union”
+means a credit union as defined in ORS 723.006 or a federal credit union if the
+shares and deposits of the credit union or federal credit union are insured by
+the National Credit Union Administration. 
+
+       (8) “Custodian”
+means a financial institution that meets the requirements of ORS 295.007. 
+
+       (9) “Custodian’s
+receipt” or “receipt” means a document issued by a custodian that describes the
+securities that a qualified depository deposited with the custodian to secure
+public fund deposits. 
+
+       (10) “Depository”
+means a bank or a credit union that is headquartered or has a branch office
+located in Oregon. 
+
+       (11) “Financial
+institution outside this state” means a financial institution, as defined in
+ORS 706.008, that is not an extranational institution, as defined in ORS
+706.008, and is not a depository, as defined in this section. 
+
+       (12) “Insured
+institution” means an insured institution as defined in ORS 706.008. 
+
+       (13) “Loss” means
+the issuance of an order by a regulatory or supervisory authority or a court of
+competent jurisdiction that: 
+
+       (a) Restrains a
+qualified depository from making payments of deposit liabilities; or 
+
+       (b) Appoints a
+receiver for a qualified depository. 
+
+       (14) “Maximum
+liability” means a sum equal to 10 percent of the greater of: 
+
+       (a) All uninsured
+public funds deposits held by a qualified depository, as shown on the date of
+the depository’s most recent treasurer report; or 
+
+       (b) The average
+of the balances of uninsured public funds deposits on the last two immediately
+preceding treasurer reports. 
+
+       (15) “Minimum
+collateral requirement” for a qualified depository on any given date means a
+sum equal to: 
+
+       (a) For a well
+capitalized qualified depository that the State Treasurer has not required to
+increase the qualified depository’s collateral pursuant to ORS 295.018, 10
+percent of the greatest of: 
+
+       (A) All uninsured
+public funds held by the qualified depository, as shown on the most recent
+treasurer report; 
+
+       (B) The average
+of the balances of uninsured public funds held by the qualified depository, as
+shown on the last two immediately preceding treasurer reports; or 
+
+       (C) An amount
+otherwise prescribed in ORS 295.001 to 295.108. 
+
+       (b) For a well
+capitalized qualified depository that the State Treasurer required to increase
+the depository’s collateral pursuant to ORS 295.018, the percentage the State
+Treasurer required pursuant to ORS 295.018 multiplied by the greatest of: 
+
+       (A) All uninsured
+public funds held by the qualified depository, as shown on the most recent
+treasurer report; 
+
+       (B) The average
+of the balances of uninsured public funds held by the qualified depository, as
+shown on the last two immediately preceding treasurer reports; or 
+
+       (C) An amount
+otherwise prescribed in ORS 295.001 to 295.108. 
+
+       (c) For an
+adequately capitalized qualified depository or an undercapitalized qualified
+depository, 110 percent of the greater of: 
+
+       (A) All uninsured
+public funds held by the qualified depository; or 
+
+       (B) The average
+of the balances of uninsured public funds held by the qualified depository, as
+shown on the last two immediately preceding treasurer reports. 
+
+       (16) “Net worth”
+means: 
+
+       (a) For a
+qualified depository that is a bank that does not have a community bank
+leverage ratio framework election in effect as of the quarter-end report date,
+total capital as shown on the immediately preceding report of condition and
+income, or such other substantial equivalent of total capital that the State
+Treasurer adopts in the treasurer report required by ORS 295.061; 
+
+       (b) For a
+qualified depository that is a bank that has a community bank leverage ratio
+framework election in effect as of the quarter-end report date, tier 1 capital
+as shown on the immediately preceding report of condition and income, or such
+other substantial equivalent of tier 1 capital that the State Treasurer adopts
+in the treasurer report required by ORS 295.061; or 
+
+       (c) For a
+qualified depository that is a credit union, total net worth as shown on the
+immediately preceding report of condition and income, or such other substantial
+equivalent of total net worth that the State Treasurer adopts in the treasurer
+report required by ORS 295.061. 
+
+       (17) “Pledge
+agreement” means a written agreement among a qualified depository, the State
+Treasurer and a custodian that pledges the securities the depository deposits
+with the custodian to secure deposits of uninsured public funds that the
+depository holds. The board of directors or loan committee of the depository
+must approve the agreement and must continuously maintain the agreement as a
+written record of the depository. 
+
+       (18) “Public body”
+has the meaning given that term in ORS 174.109. 
+
+       (19) “Public
+funds” or “funds” means funds that a public official has custody of or has
+control of by virtue of the exclusive legal right of a public body conferred
+through contract or by law to direct the collection, use or transfer of moneys
+payable to, belonging to or collected for the public body, while held by a
+third party such that the failure of the financial institution in which such
+moneys are deposited would constitute a loss of the public body’s money. 
+
+       (20) “Public
+official” means an officer or employee of a public body. 
+
+       (21) “Qualified
+depository” means a depository that meets the requirements of ORS 295.008. 
+
+       (22) “Report of
+condition and income” means the quarterly report a qualified depository submits
+to the depository’s primary federal regulatory authority. 
+
+       (23) “Security”
+or “securities” means: 
+
+       (a) Obligations
+of the United States, including those of agencies and instrumentalities of the
+United States, and of government sponsored enterprises; 
+
+       (b) Obligations
+of the International Bank for Reconstruction and Development; 
+
+       (c) Bonds of a
+state of the United States that: 
+
+       (A) Are rated in
+one of the four highest grades by a recognized investment service organization
+that has engaged regularly and continuously for a period of not less than 10
+years in rating state and municipal bonds; or 
+
+       (B) Having once
+been rated in accordance with subparagraph (A) of this paragraph, are ruled to
+be eligible securities for the purposes of ORS 295.001 to 295.108,
+notwithstanding the loss of the rating; 
+
+       (d) Bonds of a
+county, city, school district, port district or other public body in the United
+States that are payable from or secured by ad valorem taxes and that meet the
+rating requirement or are ruled to be eligible securities as provided in
+paragraph (c) of this subsection; 
+
+       (e) Bonds of a
+county, city, school district, port district or other public body that are
+issued pursuant to the Constitution or statutes of the State of Oregon or the
+charter or ordinances of a county or city within the State of Oregon, if the
+bonds meet the rating requirement or are ruled to be eligible securities as
+provided in paragraph (c) of this subsection; 
+
+       (f) With the
+permission of the State Treasurer and in accordance with rules the State
+Treasurer adopts, loans made to a county, city, school district, port district
+or other public body in the State of Oregon, if the borrower has not defaulted
+with respect to the payment of principal or interest on any of the borrower’s
+loans within the preceding 10 years or during the period of the borrower’s
+existence if the borrower has existed for less than 10 years; 
+
+       (g) With the
+permission of the State Treasurer and in accordance with rules the State
+Treasurer adopts, bond anticipation notes that an authority issues, sells or
+assumes under ORS 441.560; 
+
+       (h) Bonds, notes,
+letters of credit issued not as assurance of payment or performance but as an
+investment or other securities or evidence of indebtedness constituting the
+direct and general obligation of a federal home loan bank or Federal Reserve
+bank; 
+
+       (i) Debt
+obligations of domestic corporations that are rated in one of the three highest
+grades by a recognized investment service organization that has engaged
+regularly and continuously for a period of not less than 10 years in rating
+corporate debt obligations; and 
+
+       (j)
+Collateralized mortgage obligations and real estate mortgage investment
+conduits that are rated in one of the two highest grades by a recognized
+investment service organization that has engaged regularly and continuously for
+a period of not less than 10 years in rating corporate debt obligations. 
+
+       (24) “State
+agency” means any officer, board, commission, department, division or
+institution of state government as that term is defined in ORS 174.111. 
+
+       (25) “Treasurer
+report” means a written report that an officer of a qualified depository that
+holds uninsured public funds deposits has signed or authenticated and that sets
+forth as of the close of business on a specified date: 
+
+       (a) The total
+amount of uninsured public funds on deposit with the qualified depository; 
+
+       (b) The total
+amount of public funds on deposit with the qualified depository; 
+
+       (c) The net worth
+of the qualified depository; 
+
+       (d) The amount
+and nature of collateral provided; and 
+
+       (e) The identity
+of the qualified depository’s custodian, if applicable. 
+
+       (26) “Treasurer
+report due date” means a date not less than 10 business days after the date a
+qualified depository’s report of condition and income is due to be submitted. 
+
+       (27) “Trust
+company” means a trust company as defined in ORS 706.008. 
+
+       (28) “Undercapitalized”
+means a qualified depository that is classified as undercapitalized,
+significantly undercapitalized or critically undercapitalized by the qualified
+depository’s primary federal regulatory authority. 
+
+       (29)(a) “Uninsured
+public funds” or “uninsured public funds deposits” means public funds deposited
+in a depository that exceed the amounts insured or guaranteed as described in
+ORS 295.002 (1)(b). 
+
+       (b) “Uninsured
+public funds” or “uninsured public funds deposits” does not include public
+funds deposited in a certificate of deposit, time deposit or insured deposit
+account under ORS 295.004. 
+
+       (30) “Value”
+means the current market value of securities. 
+
+       (31) “Well
+capitalized” means a qualified depository that is classified as well
+capitalized by the qualified depository’s primary federal regulatory authority.
+[Formerly 295.005; 2009 c.821 §1; 2010 c.101 §1; 2011 c.477 §§3,4; 2017 c.17 §25;
+2019 c.587 §1; 2025 c.96 §2] 
+
+   
+
+       295.002
+Deposit of public funds; exceptions; limitation on personal liability. (1) A public official shall
+deposit, or require the deposit of, all public funds in the public official’s
+custody or control in one or more qualified depositories, except as follows: 
+
+       (a) A public
+official may retain undeposited such reasonable cash working fund as is fixed
+by the public body for which the public official acts. 
+
+       (b) A public
+official may deposit public funds in a depository that is not a qualified
+depository if the amount of public funds deposited is fully insured by the
+Federal Deposit Insurance Corporation or the National Credit Union
+Administration and, for any amount deposited in excess of the insured amount,
+the excess amount is insured or guaranteed by private deposit insurance or a
+deposit guaranty bond issued by an insurance company rated A- or better by a
+recognized insurance rating service. 
+
+       (2) Compliance
+with ORS 295.001 to 295.108 relieves the public official of personal liability
+for the loss of the public funds in the public official’s custody or control. [Formerly
+295.025; 2010 c.101 §2; 2019 c.587 §2] 
+
+   
+
+       295.004
+Conditions for deposit of funds in excess of specified amounts. (1) A public official may deposit
+public funds in a depository that is not a qualified depository in an amount in
+excess of the amount allowed in ORS 295.002 (1)(b) if the depository
+participates in a program through which: 
+
+       (a) The
+depository arranges to deposit the funds into one or more certificates of
+deposit or time deposits issued by other financial institutions in the United
+States; 
+
+       (b) Each
+certificate of deposit or time deposit is fully insured by the Federal Deposit
+Insurance Corporation or the National Credit Union Administration; 
+
+       (c) The
+depository administers the funds on behalf of the public official; and 
+
+       (d) Other
+financial institutions that participate in the program place funds into the
+depository in an amount at least equal to the amount the public official
+deposited into the depository for purposes of the program. 
+
+       (2) A public
+official may deposit public funds in a depository that is not a qualified
+depository in an amount in excess of the amount allowed in ORS 295.002 (1)(b)
+if the depository participates in a program that meets the following
+conditions: 
+
+       (a) On or after
+the date that the funds are received, the depository: 
+
+       (A) Arranges for
+the redeposit of the funds into one or more insured deposit accounts in other
+financial institutions in the United States; and 
+
+       (B) Administers
+the funds on behalf of the public official; 
+
+       (b) The full
+amount of the funds redeposited by the depository into deposit accounts in
+other financial institutions, together with any interest accrued on deposited
+funds, is insured by the Federal Deposit Insurance Corporation or the National
+Credit Union Administration; and 
+
+       (c) On the same
+date that the funds are redeposited under this subsection, the depository
+receives an amount of deposits from customers of other financial institutions
+that are at least equal to the amount of the funds redeposited by the
+depository. 
+
+       (3) Until the
+depository places public funds into one or more certificates of deposit or time
+deposits as provided in subsection (1) of this section or places public funds
+into insured deposit accounts as provided in subsection (2) of this section,
+any uninsured public funds that the depository holds pending placement must be
+collateralized as provided in ORS 295.001 to 295.108 for other uninsured public
+funds deposits. 
+
+       (4)(a) The
+provisions of ORS 295.006, 295.013, 295.015, 295.018, 295.037 and 295.038 do
+not apply to depositories that arrange to deposit public funds in accordance
+with the programs described in subsections (1) and (2) of this section. 
+
+       (b) The
+certificate of deposit, time deposit or insured deposit in which a public
+official placed public funds under this section may be issued by a financial
+institution outside this state. [Formerly 295.027; 2009 c.821 §2; 2010 c.101 §3;
+2011 c.477 §§1,2; 2019 c.587 §3] 
+
+   
+
+       295.005 [1967 c.451 §1; 1973 c.157 §4;
+1973 c.288 §2; 1973 c.378 §1; 1973 c.797 §426; 1975 c.515 §8; 1981 c.440 §2;
+1983 c.104 §3; 1983 c.456 §4; 1985 c.439 §1; 1985 c.565 §51; 1987 c.524 §1;
+1989 c.536 §1; 1991 c.352 §6; 1993 c.74 §1; 1993 c.229 §23; 1993 c.318 §12;
+1997 c.631 §447; 1999 c.311 §1; 1999 c.412 §3; 2003 c.195 §17; 2003 c.405 §2;
+2005 c.443 §§32,32a; 2007 c.783 §123; 2007 c.871 §15a; renumbered 295.001 in
+2007] 
+
+   
+
+       295.006 Public
+official filings with State Treasurer; rules. (1) A public official shall keep on file with the
+State Treasurer the name and address of each depository in which the public
+official deposits public funds, together with any other information the State
+Treasurer may require by rule. 
+
+       (2) If a public
+official changes a depository in which the public official deposits public
+funds, the public official shall report the information regarding the change
+that is required by rule or required under subsection (1) of this section to
+the State Treasurer within three business days after the effective date of the
+change. [Formerly 295.055; 2009 c.821 §3; 2010 c.101 §4; 2019 c.587 §4] 
+
+   
+
+       295.007
+Conditions for acting as custodian; rules. (1) A financial institution or a Federal Home Loan
+Bank may be a custodian for securities pledged by a qualified depository if it: 
+
+       (a) Is approved
+by the State Treasurer; 
+
+       (b) Enters into a
+pledge agreement; and 
+
+       (c) Except as
+provided in subsection (3) of this section, certifies in writing to the State
+Treasurer that it will furnish the reports required under ORS 714.075 to the
+Director of the Department of Consumer and Business Services. 
+
+       (2) The State
+Treasurer may adopt rules setting forth additional requirements the State
+Treasurer determines must be met for a depository to be approved as a custodian
+under this section. 
+
+       (3) A Federal
+Home Loan Bank may serve as a custodian without meeting the requirements of
+subsection (1)(c) this section. [2019 c.587 §8] 
+
+   
+
+       295.008
+Qualified depositories. 
+(1) A depository is qualified to hold public funds if the depository: 
+
+       (a) Certifies in
+writing to the State Treasurer that the depository will furnish the reports
+required under ORS 714.075 to the Director of the Department of Consumer and
+Business Services by the time specified by the director and furnish any other
+information the director considers necessary to determine whether to advise the
+State Treasurer to order a depository to increase its collateral under ORS
+295.018; 
+
+       (b) Enters into a
+collateral agreement and, if the depository pledges securities as collateral, a
+separate pledge agreement that may be drawn upon by the State Treasurer in the
+event of a loss; and 
+
+       (c) Files with
+the State Treasurer an initial written report, signed by an officer of the
+depository, setting forth, as of the date the depository intends to commence
+acting as a qualified depository: 
+
+       (A) The estimated
+total amount of public funds that will be on deposit with the depository; 
+
+       (B) The estimated
+net worth of the depository; 
+
+       (C) The amount
+and nature of the collateral that the depository will provide to secure the
+public funds deposits; and 
+
+       (D) Other
+information requested by the State Treasurer to administer this chapter. 
+
+       (2) A qualified
+depository using collateral that consists of items that are not securities
+shall provide such evidence as the State Treasurer may require to demonstrate
+that the collateral is available in the event of a loss for disposition as
+provided in this chapter. 
+
+       (3) A depository
+that merges with, acquires all the assets of, acquires ownership of or
+otherwise becomes a successor entity to a qualified depository that has entered
+into a collateral agreement must execute a new collateral agreement or provide
+evidence satisfactory to the State Treasurer that the successor depository has
+assumed all of the qualified depository’s duties and obligations under the
+existing collateral agreement. A depository that fails to enter into a
+collateral agreement or provide evidence that the depository has assumed the
+existing collateral agreement within the time specified by the State Treasurer
+shall not be qualified to hold uninsured deposits of public funds. [2005 c.112 §3;
+2007 c.871 §16; 2009 c.821 §4; 2010 c.101 §5; 2019 c.587 §5] 
+
+   
+
+       295.009 [2010 c.101 §13a; repealed by 2019
+c.587 §6] 
+
+   
+
+       295.010 [Amended by 1953 c.352 §3; 1957
+c.172 §1; 1965 c.169 §1; repealed by 1967 c.451 §32] 
+
+   
+
+       295.011 [2005 c.112 §4; 2005 c.443 §32c;
+2007 c.783 §124; renumbered 295.101 in 2007] 
+
+   
+
+       295.012 State
+Treasurer rule setting maximum liability for qualified credit union depositories. For any period of time during
+which fewer than 10 credit unions are qualified depositories, the State
+Treasurer, notwithstanding ORS 295.001 (14), by rule may set the maximum
+liability for a credit union that holds uninsured public funds at 20 percent of
+the greater of: 
+
+       (1) All uninsured
+public funds deposits the credit union holds, as shown on the date of the
+credit union’s most recent treasurer’s report; or 
+
+       (2) The average
+of the balances of all uninsured public funds deposits the credit union holds,
+as shown on the credit union’s last two immediately preceding treasurer
+reports. [2010 c.101 §13b; 2019 c.587 §7] 
+
+   
+
+       295.013
+Custodian’s receipt; duties of custodian; rules. (1) When a custodian receives a
+pledge or release of securities from a qualified depository, and after
+receiving the approval of the State Treasurer, the custodian shall issue to the
+State Treasurer a custodian’s receipt that describes the securities. The
+custodian also shall issue a copy of the receipt to the depository. 
+
+       (2) A custodian
+shall: 
+
+       (a) Maintain an
+accurate inventory of the securities of each qualified depository described in
+the custodian’s receipts that the custodian issues to the State Treasurer and
+adjust the inventory to reflect pledges or releases of securities that the
+custodian previously inventoried. 
+
+       (b) Appraise the
+value of the securities added to and released from the qualified depository’s
+inventory and appraise the value of the depository’s entire inventory on the
+last day of each month and at such other times as the State Treasurer directs. 
+
+       (c) Provide
+reports to the State Treasurer that describe the type and value of each
+security pledged by each qualified depository and any additional information
+required by the State Treasurer. 
+
+       (3) The State
+Treasurer, by rule or through individual pledge agreements, may specify: 
+
+       (a) Additional
+information that must be reported related to the securities pledged; 
+
+       (b) The frequency
+with which reports required under this section must be provided; and 
+
+       (c) Requirements
+for distribution of reports to qualified depositories or other persons. [Formerly
+295.035; 2009 c.821 §5; 2010 c.101 §6; 2017 c.500 §2; 2019 c.587 §9] 
+
+   
+
+       295.015
+Maintenance of securities by qualified depository. Except as provided in ORS 295.018: 
+
+       (1)(a) Throughout
+the period that a qualified depository possesses uninsured public funds
+deposits, the depository shall maintain collateral, at the depository’s own
+expense, that has a value at least equal to the depository’s minimum collateral
+requirement and as otherwise prescribed in ORS 295.001 to 295.108. If the
+collateral consists of securities, the depository shall deposit the securities
+with the depository’s custodian. The depository and custodian shall identify
+the securities in their respective records as security for public funds
+deposited in accordance with ORS 295.001 to 295.108. 
+
+       (b) For purposes
+of this section, when pledged as collateral for public funds deposits, loans
+described in ORS 295.001 (23)(f) must be discounted to 75 percent of the unpaid
+principal balance owing on the loan from time to time, or to a lower value that
+the State Treasurer determines from time to time. 
+
+       (c) A bond
+anticipation note that is pledged as collateral for public funds deposits and
+for which there is no readily determinable market value must be discounted to
+75 percent of the unpaid principal balance owing on the note from time to time,
+or to a lower value that the State Treasurer determines from time to time. 
+
+       (2) A qualified
+depository may deposit other eligible securities with the depository’s
+custodian and release from deposit securities that the depository pledged to
+secure deposits of public funds if the remaining securities have a value not
+less than the depository’s minimum collateral requirement. The State Treasurer
+shall execute releases and surrender custodian’s receipts that are appropriate
+to effect pledges and releases of matured and excess pledged securities. 
+
+       (3) If a
+qualified depository’s minimum collateral requirement increases because the
+depository ceases to be a well capitalized depository as reflected in the
+depository’s last treasurer report, call report or other public filing, or if
+the depository receives notice from the State Treasurer that its minimum
+collateral requirement is increased, the depository shall: 
+
+       (a) Within three
+business days after the date on which the qualified depository’s minimum
+collateral requirement increases, the depository shall notify the depository’s
+custodian and the State Treasurer in writing that the depository’s minimum
+collateral requirement has increased, setting forth the depository’s new
+minimum collateral requirement and the depository’s plan for increasing the
+depository’s pledged collateral to the minimum collateral requirement; and 
+
+       (b) Within five
+business days after the date on which the qualified depository’s minimum
+collateral requirement increases, or within a longer period approved by the
+State Treasurer in coordination with the Department of Consumer and Business
+Services, the depository shall, in accordance with the plan approved by the
+State Treasurer, provide additional collateral sufficient to increase the total
+value of the depository’s securities pledged as collateral for public funds
+deposits to the depository’s new minimum collateral requirement. 
+
+       (4) If a
+qualified depository’s minimum collateral requirement decreases because the
+depository becomes well capitalized, or because the State Treasurer no longer
+requires the depository to pledge additional collateral under ORS 295.018, the
+depository may: 
+
+       (a) Notify the
+qualified depository’s custodian, if any, and the State Treasurer in writing
+that the depository’s minimum collateral requirement has decreased, setting
+forth the depository’s new minimum collateral requirement; and 
+
+       (b) With the
+written approval of the State Treasurer, reduce the value of the qualified
+depository’s collateral including a release from the depository’s custodian of
+those securities that exceed the depository’s new minimum collateral
+requirement. 
+
+       (5) The State
+Treasurer shall act upon requests for releases of securities under subsections
+(2) and (4)(b) of this section within three business days after receiving each
+request. [1967 c.451 §2; 1975 c.515 §3; 2007 c.871 §17; 2009 c.821 §6; 2010
+c.101 §7; 2017 c.500 §3; 2019 c.587 §10] 
+
+   
+
+       295.018
+Increase in required collateral of qualified depository; notifications; failure
+to increase collateral. 
+(1)(a) Throughout the period that a qualified depository possesses uninsured
+public funds deposits, the State Treasurer may require the depository to
+maintain collateral, including securities on deposit with the depository’s
+custodians, that has a value not less than 110 percent of the greater of: 
+
+       (A) All uninsured
+public funds the qualified depository holds; or 
+
+       (B) The average
+of the balances of uninsured public funds the qualified depository holds, as
+shown on the last two immediately preceding treasurer reports. 
+
+       (b) In
+consultation with the Director of the Department of Consumer and Business
+Services, the State Treasurer may permit a qualified depository to increase the
+depository’s collateral as required under paragraph (a) of this subsection over
+a period of time the State Treasurer specifies or may require a qualified
+depository to increase the depository’s collateral to an amount that is less
+than the amount specified in paragraph (a) of this subsection. 
+
+       (2) The State
+Treasurer shall order an increase in collateral under subsection (1) of this
+section if the director so advises. If the qualified depository is a national
+bank, a federally chartered savings bank, a savings and loan association or a
+federal credit union, in giving advice to the State Treasurer the director may
+rely exclusively on information that the federal regulatory agencies and the
+bank, savings bank, association or federal credit union provide to the director
+on forms the director prescribes. As a condition of being analyzed and reviewed
+by the director, a national bank, a federally chartered savings bank, a savings
+and loan association or a federal credit union shall agree and consent to
+provide the director with accurate, pertinent and timely information. 
+
+       (3) If the State
+Treasurer orders a qualified depository to increase the depository’s collateral
+under subsection (1) of this section, the State Treasurer shall give notice of
+the order to the director and the depository’s custodians within one business
+day after issuing the order. 
+
+       (4) The director’s
+failure to inform the State Treasurer of the condition of any qualified
+depository does not give a public depositor any right or impose liability on
+the director. The State Treasurer is not liable to a public depositor or to a
+qualified depository for increasing or not increasing the collateral
+requirement as authorized in subsection (1) of this section. 
+
+       (5) A qualified
+depository that the State Treasurer notifies of the increased collateral
+requirement shall: 
+
+       (a) Within three
+business days after receiving the notice, submit to the State Treasurer the
+qualified depository’s plan to increase the depository’s collateral to the
+level the State Treasurer requires under subsection (1) of this section; and 
+
+       (b) Within five
+business days after receiving approval of the plan the qualified depository
+submitted under paragraph (a) of this subsection, or within a longer period
+approved by the State Treasurer in coordination with the Department of Consumer
+and Business Services, increase the depository’s collateral to the level the
+State Treasurer requires under subsection (1) of this section. 
+
+       (6)(a) If the
+qualified depository does not increase the depository’s collateral to the level
+the State Treasurer requires under subsection (1) of this section within the
+applicable period under subsection (5)(b) of this section, the State Treasurer
+shall immediately send, to each public official who has notified the State
+Treasurer that the public official has public funds on deposit in that
+depository, notice that the depository has failed to comply. 
+
+       (b) If, after
+giving notice as required by paragraph (a) of this subsection, the State
+Treasurer receives notice that the qualified depository has complied with the
+increased collateral requirements, the State Treasurer shall notify each public
+official that the State Treasurer notified under paragraph (a) of this
+subsection that the depository has complied. 
+
+       (7) A qualified
+depository that does not comply with subsection (5) of this section may not
+accept additional uninsured public funds deposits. 
+
+       (8) Records the
+State Treasurer receives or compiles that contain the collateralization
+requirement for a depository and the amount of collateral a custodian holds are
+exempt from public disclosure unless the public interest requires disclosure in
+the particular instance. 
+
+       (9) The State
+Treasurer may require a qualified depository that must increase the depository’s
+collateral under subsection (5) of this section to file the reports required
+under ORS 295.061 (3). [1975 c.515 §2; 1981 c.440 §1; 1985 c.762 §182; 1987
+c.373 §§28a,28b; 1987 c.554 §1; 1989 c.171 §41; 1991 c.327 §1; 2007 c.871 §18;
+2009 c.821 §7; 2010 c.101 §8; 2017 c.500 §4; 2019 c.587 §11] 
+
+   
+
+       295.020 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.022
+Collateral not required for deferred compensation funds. Notwithstanding any other
+provision of this chapter, when a depository receives moneys of the Deferred
+Compensation Fund established under ORS 243.411 from the state for deposit or
+investment, the depository shall not have to maintain the collateral required
+under this chapter for those deferred compensation moneys. [1977 c.721 §15;
+1997 c.179 §27; 2019 c.587 §12] 
+
+   
+
+       295.025 [1967 c.451 §3; 1973 c.288 §3;
+1999 c.48 §1; 2003 c.405 §6; 2007 c.871 §19; renumbered 295.002 in 2007] 
+
+   
+
+       295.027 [2005 c.58 §1; 2007 c.871 §20;
+renumbered 295.004 in 2007] 
+
+   
+
+       295.030 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.031 Notice
+to public officials regarding adequacy of collateral. (1) Within three business days
+after the State Treasurer determines that a qualified depository has failed to
+increase the value of the depository’s collateral within the time required
+under ORS 295.015 (3)(b) or receives information from the Director of the
+Department of Consumer and Business Services or other sources under ORS 295.071
+or 295.073, or otherwise receives information that indicates that a qualified
+depository has failed to pledge adequate securities with the depository’s
+custodian or otherwise provided adequate collateral, the State Treasurer shall
+send written notice of the failure to each public official who has uninsured
+public funds on deposit in the depository. 
+
+       (2) Within five
+business days after the State Treasurer receives a receipt from a custodian
+pursuant to ORS 295.013 (1) that indicates that a qualified depository has
+pledged adequate securities with the depository’s custodian or satisfactory
+evidence of other adequate collateral, the State Treasurer shall send written
+notice to each public official who was notified under subsection (1) of this
+section stating that the depository has adequate collateral. [2007 c.871 §2;
+2009 c.821 §8; 2010 c.101 §9; 2017 c.500 §5; 2019 c.587 §13] 
+
+   
+
+       295.034
+Withdrawal of inadequately collateralized funds. (1) Within 15 business days after
+a public official receives a notice from the State Treasurer pursuant to ORS
+295.018 (6)(a), 295.031 (1) or 295.061 (4)(a), the public official shall
+withdraw from the qualified depository to which the notice applies all
+uninsured public funds deposits. 
+
+       (2) If a public
+official receives a notice from the State Treasurer pursuant to ORS 295.018
+(6)(a), 295.031 (1) or 295.061 (4)(a), beginning 15 business days after the
+public official receives the notice, the public official may not deposit into
+the qualified depository to which the notice applies any public funds that, as
+a result of the deposit, would be uninsured public funds deposits. The
+prohibition on deposits continues until the public official receives notice
+under ORS 295.018 (6)(b), 295.031 (2) or 295.061 (4)(b) indicating that the
+depository is in compliance with ORS 295.013, 295.018 or 295.061, as
+applicable. 
+
+       (3) Except as
+required by any applicable law or regulation, a qualified depository may not
+impose an early withdrawal penalty or a forfeiture of interest with respect to
+a withdrawal that a public official makes pursuant to this section. [2007 c.871
+§3; 2009 c.821 §9; 2010 c.101 §10; 2019 c.587 §14] 
+
+   
+
+       295.035 [1967 c.451 §4; 2007 c.871 §21;
+renumbered 295.013 in 2007] 
+
+   
+
+       295.037
+Distribution of collateral after loss in qualified depository. (1) The provision of collateral,
+including the deposit of securities by a qualified depository with its
+custodian pursuant to ORS 295.001 to 295.108, constitutes consent by the
+depository to the disposition of the securities in accordance with this section. 
+
+       (2) When a loss
+has occurred in a qualified depository, the depository shall as soon as
+possible make payment to the proper public officials of all funds subject to
+the loss, pursuant to the following procedures: 
+
+       (a) Immediately
+upon occurrence of the loss, the State Treasurer shall exercise all of the
+State Treasurer’s rights in the collateral, including without limitation taking
+possession of any securities segregated as collateral for uninsured public
+funds deposits held by the closed depository and beginning to collect payment
+from as much of the collateral, including without limitation the liquidation of
+securities, as the State Treasurer estimates is necessary, based upon the most
+recent information available to the State Treasurer on the amount of uninsured
+public funds deposits held by the closed depository, for distribution of the
+proceeds among public officials entitled to the proceeds as provided in this
+section. 
+
+       (b) The Director
+of the Department of Consumer and Business Services or the receiver for the
+closed depository shall, within 20 days after the issuance of a restraining
+order or taking possession of any qualified depository, ascertain the amount of
+public funds on deposit in the depository as disclosed by its records and the
+amount of the public funds covered by deposit insurance or deposit guaranty
+bonds and certify the amounts to the State Treasurer and to each public
+official who has public funds on deposit in the depository. 
+
+       (c) Each public
+official who has uninsured public funds on deposit in the qualified depository
+shall, within 10 days after receipt of the certification from the Director of
+the Department of Consumer and Business Services or the receiver, furnish to
+the State Treasurer verified statements of the uninsured public funds that the
+public official has on deposit in the depository. 
+
+       (3) Upon receipt
+of the certification from the Director of the Department of Consumer and
+Business Services or the receiver and the verified statements from the public
+officials who have uninsured public funds on deposit in the qualified
+depository, the State Treasurer shall ascertain and fix the amount of public
+funds on deposit in the depository, plus interest to the date the funds are
+distributed to the public official at the rate the depository agreed to pay on
+the funds, minus any amount covered by deposit insurance or deposit guaranty
+bonds. [2007 c.871 §4; 2009 c.821 §10; 2019 c.587 §15] 
+
+   
+
+       295.038
+Assessment against collateral of qualified depositories. (1) After making the calculation
+described in ORS 295.037, the State Treasurer shall assess the amount of
+uninsured public funds against a collateral pool that consists of collateral
+provided by all other qualified depositories of the same type, either bank or
+credit union, as the closed depository as follows: 
+
+       (a) First,
+against the closed depository, to the extent of the full value of the proceeds
+from the State Treasurer’s liquidation of the closed depository’s collateral
+under ORS 295.037, plus the State Treasurer’s estimate of the amount of
+proceeds the State Treasurer expects to receive from collateral the State
+Treasurer has not yet liquidated; and 
+
+       (b) Second,
+against all other qualified depositories on a proportionate basis determined as
+provided in subsection (2) of this section. The amount the State Treasurer
+assesses against another qualified depository may not exceed the depository’s
+maximum liability. 
+
+       (2) For purposes
+of subsection (1) of this section, the State Treasurer shall determine the
+proportionate share of each of the other qualified depositories in the
+collateral pool by: 
+
+       (a) Averaging,
+for each qualified depository, the total amounts of all uninsured public funds
+deposits the depository reported on the depository’s last two treasurer
+reports; 
+
+       (b) Averaging the
+aggregate total amounts of all uninsured public funds deposits all qualified
+depositories in the pool reported on the depositories’ last two treasurer
+reports; and 
+
+       (c) Dividing the
+result of the calculation performed under paragraph (a) of this subsection by
+the results of the calculation performed under paragraph (b) of this
+subsection. 
+
+       (3) For purposes
+of the calculations set forth in subsections (1) and (2) of this section, “qualified
+depository” refers only to qualified depositories that are of the same type as
+the closed depository. 
+
+       (4)
+Notwithstanding the assessment provisions of subsection (1) of this section,
+the State Treasurer shall assess the amount of a public official’s uninsured
+public funds deposits only against the closed depository and not against other
+qualified depositories, if the public official: 
+
+       (a) Received
+appropriate notice about the closed depository from the State Treasurer under
+ORS 295.018 (6)(a) or 295.031 (1) and did not comply with ORS 295.034; or 
+
+       (b) Failed to
+timely comply with the requirements of ORS 295.006 and, as a result of failing
+to timely comply, did not receive appropriate notice about the closed
+depository from the State Treasurer under ORS 295.018 (6)(a), 295.031 (1) or
+295.061 (4)(a). 
+
+       (5) Assessments
+the State Treasurer makes against the closed depository are payable immediately
+from the proceeds of the collateral delivered to the State Treasurer.
+Assessments the State Treasurer makes against other qualified depositories are
+payable on the fifth business day following demand. If a qualified depository
+fails to pay an assessment, the State Treasurer shall exercise the State
+Treasurer’s legal rights to acquire payment under the collateral, including
+taking possession of and liquidating any securities the depository segregated
+as collateral, in the amount necessary to satisfy the depository’s assessment. 
+
+       (6) The State
+Treasurer shall distribute the amounts the State Treasurer receives from the
+assessments among the public officials entitled to the proceeds in proportion
+to the public officials’ respective claims, to the extent that the proceeds do
+not exceed the total amount of uninsured public funds deposits that the public
+officials claim. 
+
+       (7) If, after all
+other available sources are applied, the amounts the State Treasurer receives
+from the assessments are inadequate to meet the total claims of the public
+officials to uninsured public funds deposits, the public officials may make
+claims against the closed depository as general creditors, but not against a
+qualified depository other than the closed depository. 
+
+       (8)(a) If the
+final amount of proceeds the State Treasurer receives from the liquidation of
+collateral from a closed depository exceeds the amount of the assessment
+against the closed depository under subsection (1)(a) of this section, the
+State Treasurer shall pay the amount of the excess to the closed depository. 
+
+       (b) If the final
+amount of proceeds the State Treasurer receives from the liquidation of
+collateral from other qualified depositories exceeds the amount of the
+assessment against the other qualified depositories in the applicable pool
+under subsection (1)(b) of this section, the State Treasurer shall pay the
+excess to the other qualified depositories in the pool in proportion to the
+amounts the other qualified depositories in the pool paid in assessments to the
+State Treasurer. 
+
+       (c) If the final
+amount of proceeds the State Treasurer receives from the liquidation of
+collateral from a qualified depository other than the closed depository under
+subsection (5) of this section exceeds the amount of the assessment against the
+depository, the State Treasurer shall pay the excess to the depository. 
+
+       (9) The
+prohibition on transfers of assets set forth in ORS 711.410 does not apply to
+assessments, payments, transfers or sales of securities made in accordance with
+this section. [2010 c.101 §12; 2019 c.587 §16] 
+
+   
+
+       295.039 State
+Treasurer acceptance of moneys for purposes of administering ORS 295.038. (1) The State Treasurer may accept
+moneys from any public or private source for the purpose of paying initial or
+continuing expenses related to administering the provisions of ORS 295.038. 
+
+       (2) The State
+Treasurer shall deposit moneys the State Treasurer receives under this section
+into the Miscellaneous Receipts Account established for the State Treasurer in
+the General Fund. Notwithstanding the provisions of ORS 295.106, moneys the
+State Treasurer receives under this section are continuously appropriated to
+the State Treasurer for the purpose of paying the State Treasurer’s initial or
+continuing expenses related to administering ORS 295.038. The State Treasurer
+shall expend the moneys in accordance with the terms and conditions upon which
+the moneys were made available. [2010 c.101 §13; 2011 c.667 §1; 2019 c.587 §17] 
+
+   
+
+       295.040 [Amended by 1959 c.330 §1; 1963
+c.128 §1; 1965 c.629 §1; repealed by 1967 c.451 §32] 
+
+   
+
+       295.041
+Subrogation rights of State Treasurer. 
+When the State Treasurer distributes the proceeds of assessments and liquidated
+collateral to a public official under ORS 295.038, the State Treasurer is
+subrogated to all of the public official’s right, title and interest against
+the closed depository, and shares in any distribution of the closed depository’s
+assets ratably with other depositors. Sums received from a distribution must be
+paid to the public official to the extent of any unpaid net deposit liability.
+The State Treasurer shall pay the remaining balance to the qualified
+depositories in the pool against which the assessments were made, pro rata in
+proportion to the assessments each qualified depository paid. However, the
+closed depository may not share in a distribution of the balance remaining. The
+State Treasurer may charge expenses that the State Treasurer incurs in
+enforcing the State Treasurer’s rights under this section as provided in ORS
+295.106. The State Treasurer shall submit a claim for expenses to the closed
+depository, and if the charges are thereafter paid to the State Treasurer, they
+shall be treated as a liquidation expense of the closed depository. [2007 c.871
+§6; 2009 c.821 §11; 2010 c.101 §14; 2019 c.587 §18] 
+
+   
+
+       295.045 [1967 c.451 §5; repealed by 2007
+c.871 §35] 
+
+   
+
+       295.046 Limitation
+on acceptance of public funds from single public official; exceptions. (1) A qualified depository may not
+accept a deposit of public funds if the deposit would cause the aggregate of
+public funds deposits that any one public official makes in the depository to
+exceed at any time the depository’s net worth. If a qualified depository’s net
+worth is reduced, the depository may allow public funds on deposit in excess of
+the reduced net worth to remain if the depository deposits with the depository’s
+custodian eligible securities, or provides other collateral, valued at market
+value in an amount at least equal to the amount of the excess public funds
+deposits. If the additional securities required by this section are not
+deposited with the custodian, or other collateral is not provided, the
+depository shall permit the public official to withdraw deposits prior to
+maturity, including accrued interest, in accordance with applicable statutes
+and governmental regulations. 
+
+       (2) The
+limitations of subsection (1) of this section do not apply to public funds
+deposits a qualified depository holds in a certificate of deposit, time deposit
+or insured deposit account under ORS 295.004. [2007 c.871 §10; 2009 c.821 §12;
+2010 c.101 §15; 2011 c.477 §§5,6; 2013 c.1 §26; 2019 c.587 §19] 
+
+   
+
+       295.048
+Limitations on aggregate uninsured public funds deposits; notice; exceptions. (1) Notwithstanding ORS 295.046, a
+qualified depository may not permit the aggregate of uninsured public funds
+deposits on deposit with the depository from all public officials to exceed at
+any time the least of: 
+
+       (a) 100 percent
+of the value of the qualified depository’s net worth, if the depository is an
+undercapitalized depository; 
+
+       (b) 150 percent
+of the value of the qualified depository’s net worth, if the depository is an
+adequately capitalized depository; 
+
+       (c) 200 percent
+of the value of the qualified depository’s net worth, if the depository is a
+well capitalized depository; 
+
+       (d) For a
+qualified depository that is a bank, 30 percent of the total aggregate
+uninsured public funds deposits of all public officials in all qualified
+depositories that are banks as reported in the most recent notice the
+depository received from the State Treasurer; or 
+
+       (e) For a
+qualified depository that is a credit union, 30 percent of the total aggregate
+uninsured public funds deposits of all public officials in all qualified
+depositories that are credit unions as reported in the most recent notice the
+depository received from the State Treasurer. 
+
+       (2) The State
+Treasurer shall notify each qualified depository, or the depository’s custodian
+if required by an individual pledge agreement or by rule, of the total
+aggregate uninsured public funds deposits of all public officials in all
+qualified depositories, based on the most recently submitted treasurer reports.
+The State Treasurer shall give the notification required by this subsection by
+the last day of the month in which the depositories are required to submit a
+treasurer report. 
+
+       (3) If a
+qualified depository’s aggregate of uninsured public funds deposits exceeds the
+amount set forth in subsection (1) of this section, the depository shall,
+within three business days after receiving notice from the State Treasurer,
+cease accepting deposits of uninsured public funds. 
+
+       (4)
+Notwithstanding subsections (1) and (3) of this section: 
+
+       (a) A qualified
+depository may accept and hold uninsured public funds deposits in excess of the
+limits specified in subsection (1) of this section if the State Treasurer, upon
+good cause shown, approves the depository’s request to hold uninsured public
+funds in excess of the limits specified in subsection (1) of this section for a
+period not exceeding 90 days and eligible collateral is provided in an amount
+at least equal to the amount by which the uninsured public funds deposits
+exceed the limits specified in subsection (1) of this section. Upon the
+expiration of the 90-day period, if the depository does not comply with the
+limits specified in subsection (1) of this section, the depository shall,
+within three business days after receiving notice from the State Treasurer,
+cease accepting deposits of public funds. 
+
+       (b) The limits
+specified in subsection (1) of this section do not apply to public funds
+deposits a qualified depository holds in a certificate of deposit, time deposit
+or insured deposit account under ORS 295.004. 
+
+       (c) A well
+capitalized qualified depository or an adequately capitalized qualified
+depository may accept and hold uninsured public funds deposits that exceed the
+limit specified in subsection (1)(d) or (e) of this section if eligible
+collateral is provided in an amount at least equal to the amount by which the
+uninsured public funds deposits exceed the limit specified in subsection (1)(d)
+or (e) of this section. 
+
+       (5) If the State
+Treasurer notifies a qualified depository that the depository must cease
+accepting deposits of public funds under subsection (3) or (4) of this section,
+the State Treasurer may also notify public officials who have deposited public
+funds in the depository that within 15 business days after the public official
+receives the notice from the State Treasurer, the public official must withdraw
+from the depository to which the notice applies all public funds deposits that
+exceed the limit specified in subsection (1)(d) or (e) of this section. A
+public official who is notified by the State Treasurer under this subsection
+must begin to withdraw funds as specified in the notice. Except as required by
+any applicable law or regulation, a qualified depository may not impose an
+early withdrawal penalty or a forfeiture of interest with respect to a
+withdrawal made pursuant to this subsection. [2007 c.871 §11; 2009 c.821 §13;
+2010 c.101 §16; 2011 c.25 §§1,2; 2011 c.477 §§7,8; 2011 c.667 §§3,4; 2017 c.17 §26;
+2017 c.500 §6; 2019 c.587 §20] 
+
+   
+
+       295.050 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.053
+Custodian duties when qualified depository ceases holding uninsured public
+funds; securities. 
+(1) If a qualified depository ceases holding uninsured public funds deposits,
+the depository’s custodian shall continue to hold the depository’s pledged
+securities as collateral pursuant to ORS 295.001 to 295.108 for a period of 30
+days after the depository ceases holding uninsured public funds deposits,
+unless the State Treasurer directs the custodian to hold the depository’s
+pledged securities for a longer period. 
+
+       (2) If any of a
+qualified depository’s pledged securities matures, expires or otherwise
+terminates during the period described in subsection (1) of this section, the
+depository shall provide substitute securities or other collateral until the
+period expires. 
+
+       (3) If a
+qualified depository has not held uninsured public funds deposits during the
+period described in subsection (1) of this section, at the end of the period
+the depository’s custodian shall return the depository’s pledged securities to
+the depository. [2007 c.871 §13; 2009 c.821 §14; 2010 c.101 §17; 2019 c.587 §21] 
+
+   
+
+       295.055 [1967 c.451 §6; 2007 c.871 §22;
+renumbered 295.006 in 2007] 
+
+   
+
+       295.056
+Liability of public officials for loss of public funds. When public funds deposits are
+made in accordance with ORS 295.001 to 295.108, a public official may not be
+held liable for any loss of public funds that results from the failure or
+default of any qualified depository without fault or neglect on the public
+official’s part. [2007 c.871 §12; 2019 c.587 §22] 
+
+   
+
+       295.060 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.061
+Treasurer reports; filing; notification of changes; failure to file reports;
+rules. (1) On or
+before the date on which each treasurer report is due, each qualified
+depository shall file the depository’s treasurer report with the State
+Treasurer using systems and processes prescribed by the State Treasurer in
+individual pledge agreements or by rule. 
+
+       (2) Each
+qualified depository that files reports with the State Treasurer under
+subsection (1) of this section shall notify the State Treasurer in writing or
+by electronic means within three business days of: 
+
+       (a) The date on
+which the qualified depository’s net worth is reduced by an amount greater than
+10 percent of the amount shown as the depository’s net worth on the most recent
+report the depository submitted pursuant to subsection (1) of this section; or 
+
+       (b) The date on
+which the qualified depository ceases to be well capitalized and becomes
+adequately capitalized or undercapitalized, or ceases to be adequately
+capitalized and becomes undercapitalized. 
+
+       (3) An adequately
+capitalized qualified depository or an undercapitalized qualified depository
+shall report to the State Treasurer at least once each week the actual amount
+of uninsured public funds deposits the depository holds. The depository shall
+report using systems and processes prescribed by the State Treasurer in
+individual pledge agreements or by rule. 
+
+       (4)(a) If a
+qualified depository fails to file the reports or provide the notices required
+under this section or fails to file the notices or reports required under ORS
+295.018, the State Treasurer shall send a notice to each public official who
+has uninsured public funds on deposit in the depository that the depository
+failed to comply. 
+
+       (b) If, after
+giving notice under paragraph (a) of this subsection, the State Treasurer
+receives notice that the qualified depository has filed the required reports or
+provided the required notices, the State Treasurer may notify each public
+official who was notified under paragraph (a) of this subsection that the
+depository has complied. 
+
+       (5) If a
+qualified depository fails to comply with this section, the depository shall,
+within three business days after receiving notice from the State Treasurer,
+cease accepting deposits of uninsured public funds. [2007 c.871 §7; 2009 c.821 §15;
+2010 c.101 §18; 2017 c.500 §7; 2019 c.587 §23] 
+
+   
+
+       295.065 [1967 c.451 §7; 1973 c.378 §2;
+1975 c.515 §4; repealed by 2007 c.871 §35] 
+
+   
+
+       295.070 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.071
+Investigation by regulatory bodies other than State Treasurer. (1) The State Treasurer may
+request that the Director of the Department of Consumer and Business Services
+or another state or federal agency with primary regulatory authority over a
+financial institution that is a qualified depository or that applies to become
+a qualified depository investigate and report to the State Treasurer concerning
+the condition of the financial institution. 
+
+       (2) The financial
+institution examined under this section shall pay the expenses of the
+investigation and report. 
+
+       (3) In lieu of an
+investigation and report, the State Treasurer may rely upon information that
+the Office of the Comptroller of the Currency, the Office of Thrift
+Supervision, the National Credit Union Administration, the Federal Deposit
+Insurance Corporation, the Board of Governors of the Federal Reserve System or
+a state bank, thrift or credit union regulatory agency makes available to the
+State Treasurer or to the Director of the Department of Consumer and Business
+Services. [2007 c.871 §8; 2010 c.101 §19; 2019 c.587 §24] 
+
+   
+
+       295.073 Report
+to State Treasurer of actions that reduce net worth of depository. The Director of the Department of
+Consumer and Business Services shall advise the State Treasurer in writing of
+any action the director takes or directs a qualified depository to take that
+will reduce the depository’s net worth by more than 10 percent as shown on the
+most recent treasurer report submitted pursuant to ORS 295.061. [2007 c.871 §9;
+2009 c.821 §16; 2010 c.101 §20; 2019 c.587 §25] 
+
+   
+
+       295.075 [1965 c.629 §3; repealed by 1967
+c.451 §32] 
+
+   
+
+       295.080 [Amended by 1959 c.330 §2; 1963
+c.520 §2; 1967 c.335 §33; repealed by 1967 c.451 §32] 
+
+   
+
+       295.081 Time
+deposits. (1)
+Subject to ORS 295.002, 295.015 and 295.018, a depository may offer in writing
+to accept from the State Treasurer time deposits in an unlimited amount or in
+an aggregate amount stated in the offer and to pay interest on the time
+deposits at rates specified in the offer. The offer shall continue until the
+depository delivers or mails, by registered or certified mail, notice to the
+State Treasurer that modifies or withdraws the offer. While the offer continues
+in effect, the depository must accept in accordance with the terms of the offer
+time deposits tendered by the State Treasurer. 
+
+       (2) Funds the
+State Treasurer deposits on a time basis must be deposited at the highest rate
+of interest available for the amount and term of the deposit. 
+
+       (3) The State
+Treasurer shall establish time deposits so as to make the deposited moneys as
+productive as possible, and shall exercise the judgment and care that a person
+of prudence, discretion and intelligence exercises in the management of the
+person’s own affairs, considering the probable income and the probable safety
+of the moneys deposited and considering the distribution of the deposits among
+depositories so as to minimize the possibility of loss of moneys. [Formerly
+295.115; 2010 c.101 §21] 
+
+   
+
+       295.084 State
+Treasurer designation of depositories. 
+In the exercise of the powers and duties conferred under ORS 293.875, the State
+Treasurer shall designate those depositories or qualified depositories that may
+be used by state agencies for collecting drafts, checks, certificates of
+deposit and coupons in satisfaction of a payment obligation owed to the state
+agency. [Formerly 295.135; 2010 c.101 §22; 2019 c.587 §26] 
+
+   
+
+       295.085 [1967 c.451 §8; repealed by 2007
+c.871 §35] 
+
+   
+
+       295.087 [Formerly 295.145; repealed by
+2009 c.821 §31] 
+
+   
+
+       295.090 [Amended by 1959 c.330 §3;
+repealed by 1967 c.451 §32] 
+
+   
+
+       295.091
+Geographic preference in selecting depositories; apportioning funds; interest. (1) A public official need not
+deposit public funds in a depository in a particular locality, but the public
+official shall give preference to a depository that is engaged in business at
+an office within the corporate limits of the public official’s public body. If
+more than one local depository exists, the public official shall apportion the
+public funds among the local depositories in a manner that is equitable and in
+the best interests of the public body. 
+
+       (2) The
+depositories shall pay interest to the public body for deposits evidenced by
+certificates of deposit or deposits that by agreement may not be withdrawn on
+less than 30 days’ notice, at the rate or rates upon which the public body and
+the depository agree. 
+
+       (3) Interest
+received on deposits of moneys under this section accrues to and becomes a part
+of the fund the moneys of which were deposited. 
+
+       (4) This section
+does not apply to the State Treasurer. [Formerly 295.155; 2010 c.101 §23; 2019
+c.587 §27] 
+
+   
+
+       295.093
+Depositing moneys with treasurer of public body. Any public official may deposit
+moneys coming into the hands of the public official in connection with official
+duties with the treasurer of the public body concerned and obtain a receipt
+therefor. [Formerly 295.165; 2019 c.587 §28] 
+
+   
+
+       295.095 [1967 c.451 §9; 1969 c.314 §20;
+1973 c.378 §3; 1983 c.456 §7; repealed by 1999 c.311 §8] 
+
+   
+
+       295.097 State
+agency agreements with third parties; State Treasurer approval; rules. With the written approval of the
+State Treasurer, a state agency may enter into an agreement with a third party
+under which the third party facilitates the receipt, collection, transfer,
+disbursement or payment of public funds and temporarily holds or deposits
+public funds. A state agency may use alternative methods to those set forth in
+this chapter to secure public funds that are collected, deposited or
+transferred by a third party, if the methods collateralize the public funds at
+100 percent and the State Treasurer approves the methods by rule or policy that
+sets forth how the methods are intended to protect public funds from loss by
+the third party and by any financial institution used by the third party. The
+State Treasurer may establish rules, procedures, standards and related
+requirements that the State Treasurer considers necessary to implement this
+section. [2011 c.253 §2; 2019 c.587 §29] 
+
+   
+
+       295.098 Public
+body agreements with third parties; alternative methods. (1) A public official who enters
+into an agreement with a third party, under which the third party facilitates
+the receipt, collection, transfer, disbursement or payment of public funds and
+temporarily holds or deposits public funds, may use alternative methods to
+those set forth in this chapter to secure public funds that are held or
+deposited by the third party if the methods meet the following requirements: 
+
+       (a) The
+alternative methods must be approved by an official action of the governing
+body or appropriate public official of the public body. The official action
+must include findings by the governing body or public official describing any
+financial institution used by the third party and how the alternative methods
+will protect public funds from loss by the third party; and 
+
+       (b) The
+alternative methods must be designed so that the public funds are fully secured
+while held or deposited by the third party and until the funds are remitted to
+the public body. A public official shall calculate the minimum amount of
+collateral required of a third party as follows: 
+
+       (A) For the
+initial calendar quarter of the agreement, the public official shall calculate
+the minimum amount of collateral to equal a reasonable estimate of the highest
+amount of public funds that the third party is expected to hold or deposit
+unremitted at any time within the initial calendar quarter. 
+
+       (B) Within the
+first month of each calendar quarter subsequent to the initial calendar quarter
+of the agreement, the public official shall recalculate the minimum amount of
+collateral to equal a reasonable estimate of the highest amount of public funds
+that the third party is expected to hold or deposit unremitted at any time
+within the current calendar quarter based on factors that must include but are
+not limited to: 
+
+       (i) The highest
+amount of public funds that the third party held or deposited unremitted at any
+time on any day within the preceding calendar quarter; and 
+
+       (ii) Any
+reasonably expected increase or decrease in the amount of public funds the
+third party is expected to hold or deposit within the current calendar quarter. 
+
+       (2) If the State
+Treasurer prepares a model policy related to acceptable alternative methods as
+described in subsection (1) of this section, a governing body may adopt all or
+part of the model policy. 
+
+       (3) This section
+does not apply to a public body that is a state agency. 
+
+       (4) As used in
+this section, “collateral” means cash or a letter of credit or similar
+instrument intended to ensure payment, approved by a governing body or
+appropriate public official of a public body, to be used as security to ensure
+the obligations of a third party. [2019 c.587 §30] 
+
+   
+
+       295.100 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.101 Public
+funds not subject to ORS 295.001 to 295.108. (1) The following public funds are not subject to the
+provisions of ORS 295.001 to 295.108: 
+
+       (a) Funds that
+are deposited for the purpose of paying principal, interest or premium, if any,
+on bonds, as defined in ORS 286A.001 and 287A.001, and related costs or
+securing a borrowing related to an agreement for exchange of interest rates
+entered into under ORS 286A.110 or 287A.335. 
+
+       (b) Funds that
+are invested in authorized investments under provisions of law other than ORS
+295.001 to 295.108. Funds invested under ORS 293.701 to 293.857 are invested in
+authorized investments for purposes of this subsection from the time the funds
+are transferred by the State Treasurer to a third party under the terms of a
+contract for investment or administration of the funds that requires such a
+transfer until the time the funds are returned to the treasurer or paid to
+another party under the terms of the contract. 
+
+       (c) Negotiable
+certificates of deposit purchased by the State Treasurer under ORS 293.736 or
+by an investment manager under ORS 293.741. 
+
+       (d) Funds that
+are held by a public official as required by federal law, a judicial or
+regulatory order, settlement agreement, consent decree or similar arrangement.
+To the extent allowed by such federal law, order, agreement, decree or
+arrangement, the public official shall require the funds to be protected in a
+manner consistent with the provisions of this chapter. 
+
+       (e) Funds that
+are held pursuant to a contract with provisions that require the funds to be
+collateralized at 100 percent, if the funds are deposited into an account that
+is separate from other accounts of the holder of the funds and the public
+official and the financial institution in which the funds are deposited have
+entered into a written agreement that provides a perfected security interest to
+the public official in collateral valued at an amount at least equal to the
+amount of funds in the account, in a manner substantially similar to a pledge
+agreement described in ORS 295.001 (17). 
+
+       (f) Funds that
+are held by a trustee or escrow agent, whether commingled with other moneys or
+in a segregated account, if the trust or escrow agreement provides for
+collateral or other methods that may be used to secure the moneys that comply
+with rules or policies adopted by the State Treasurer to protect the funds from
+loss by the financial institution in which they are deposited. 
+
+       (2)
+Notwithstanding subsection (1) of this section, funds deposited by a custodial
+officer under ORS 294.035 (3)(d) are subject to the provisions of ORS 295.001
+to 295.108. [Formerly 295.011; 2011 c.667 §5; 2019 c.503 §§1,2; 2019 c.587 §31] 
+
+   
+
+       295.103
+Certain moneys related to motor carriers not public funds. (1) This section applies to the
+following moneys: 
+
+       (a) Motor fuel
+taxes, penalties and interest that are: 
+
+       (A) Imposed on
+motor carriers; and 
+
+       (B) Payable
+through a clearinghouse operated under an international fuel tax agreement
+entered into under ORS 825.555; and 
+
+       (b) Registration
+fees and other fixed fees and taxes that are: 
+
+       (A) Imposed on
+motor carriers for motor vehicles proportionally registered in this state and
+other jurisdictions; 
+
+       (B) Apportioned
+to this state; and 
+
+       (C) Payable
+through a clearinghouse operated under an agreement for proportional
+registration entered into under ORS 826.007. 
+
+       (2) Moneys
+described in subsection (1) of this section are not public funds for purposes
+of ORS 295.001 to 295.108 for the period during which the moneys are held by a
+clearinghouse described in subsection (1) of this section pending disbursement
+to, or payment on behalf of, the state. [2019 c.491 §31] 
+
+   
+
+       Note: 295.103 is amended by Enrolled
+House Bill 3991 (2025 special session). As of the date of publication of the
+2025 Edition of the Oregon Revised Statutes, Enrolled House Bill 3991 (2025
+special session) is subject to potential referendum petitions that may be filed
+with the Secretary of State as provided in Article IV, section 1, of the Oregon
+Constitution. The full text of Enrolled House Bill 3991 (2025 special session)
+is set forth following 801.610. 
+
+   
+
+       295.105 [1967 c.451 §10; 1973 c.438 §1;
+1975 c.515 §5; 1983 c.296 §10; 1985 c.762 §183; 1999 c.311 §2; repealed by 2007
+c.871 §35] 
+
+   
+
+       295.106 State
+Treasurer charges; expenses. 
+The State Treasurer may charge depositories for the State Treasurer’s
+reasonable expenses in connection with the State Treasurer’s services, duties
+and activities under ORS 295.001 to 295.108. The State Treasurer shall deposit
+all moneys received under this section in the Miscellaneous Receipts Account
+established in the General Fund for the State Treasurer. Moneys received under this
+section are continuously appropriated to the State Treasurer to pay the State
+Treasurer’s reasonable expenses in connection with the State Treasurer’s
+services, duties and activities under ORS 295.001 to 295.108. A depository
+shall pay to the State Treasurer all fees and other amounts charged under this
+section or under rules adopted to implement this section. The State Treasurer
+may withdraw from a pledge agreement with a depository if the depository does
+not pay the fees and other amounts charged. [2007 c.871 §5; 2010 c.101 §24] 
+
+   
+
+       295.108 State
+Treasurer rules; form of report. 
+(1) The State Treasurer shall adopt rules to implement the provisions of ORS
+295.001 to 295.108, including without limitation: 
+
+       (a) Rules
+describing permitted forms of collateral and the valuation of collateral; 
+
+       (b) Requirements
+that must be met by financial institutions and other third parties outside this
+state to hold public funds; 
+
+       (c) Fees paid by
+qualified depositories or custodians; and 
+
+       (d) Reporting by
+depositories, qualified depositories and custodians. 
+
+       (2) The State
+Treasurer shall design the treasurer report required by ORS 295.061 to minimize
+the regulatory burden of completing and submitting the report and, to the
+greatest extent practicable, to make the form of the report and the content
+required in the report consistent with the information required by the
+qualified depository’s report of condition and income. [2007 c.871 §14; 2010
+c.101 §25; 2019 c.587 §32] 
+
+   
+
+       295.110 [Amended by 1953 c.352 §3;
+repealed by 1967 c.451 §32] 
+
+   
+
+       295.115 [1967 c.451 §11; 1989 c.319 §1;
+2007 c.871 §23; renumbered 295.081 in 2007] 
+
+   
+
+       295.120 [Amended by 1953 c.352 §3;
+repealed by 1967 c.451 §32] 
+
+   
+
+       295.125 [1967 c.451 §12b; 1981 c.189 §1;
+1989 c.319 §2; repealed by 2007 c.871 §35] 
+
+   
+
+       295.130 [Amended by 1953 c.352 §3;
+repealed by 1967 c.451 §32] 
+
+   
+
+       295.135 [1967 c.451 §13; 1981 c.189 §2;
+1991 c.6 §1; renumbered 295.084 in 2007] 
+
+   
+
+       295.140 [Repealed by 1953 c.352 §3] 
+
+   
+
+       295.145 [1967 c.451 §14; renumbered
+295.087 in 2007] 
+
+   
+
+       295.150 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.155 [1967 c.451 §15; 2005 c.22 §225;
+renumbered 295.091 in 2007] 
+
+   
+
+       295.160 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.165 [1967 c.451 §16; renumbered
+295.093 in 2007] 
+
+   
+
+       295.170 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.175 [1967 c.451 §30; 1989 c.569 §5;
+repealed by 2007 c.871 §35] 
+
+   
+
+       295.180 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.185 [1983 c.456 §6; repealed by 2007
+c.871 §35] 
+
+   
+
+       295.190 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.195
+Deposit of funds in foreign country; effect on collateral; report to
+Legislative Assembly. 
+(1) Notwithstanding any other provision of this chapter, to the extent
+estimated to be necessary to fund operations or activities for one biennium of
+the State of Oregon in a foreign country, the State Treasurer may deposit funds
+in a financial institution in a foreign country. 
+
+       (2) When funds
+are deposited in a financial institution in a foreign country pursuant to
+subsection (1) of this section, the institution shall not be required to
+maintain collateral as provided in ORS 295.015. Reasonable and prudent measures
+to protect the public funds from loss shall be exercised to the extent
+permitted under the laws of the foreign country. 
+
+       (3) The State
+Treasurer shall report to the Legislative Assembly biennially on the amounts of
+deposits in foreign countries, and the operation and activities funded by such
+deposits. The report shall be submitted to the offices of the President of the
+Senate and the Speaker of the House of Representatives and shall be referred by
+each of them to appropriate standing committees other than committees concerned
+with budgets of the State Treasurer or the activity or operation so funded. [1983
+c.374 §§1,2; 1989 c.399 §1; 2009 c.762 §56; 2015 c.767 §13] 
+
+   
+
+       295.200 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.205
+Accounts in financial institutions outside Oregon; conditions; rules. (1) Notwithstanding any other law: 
+
+       (a) The State
+Treasurer may establish demand deposit accounts in financial institutions
+outside this state for the purpose of accepting deposits of funds related to
+state investments in the geographical areas that the financial institutions
+serve. 
+
+       (b) Moneys that a
+financial institution or other entity receives or collects under an agreement
+to provide loan servicing for a state agency or public body may be deposited in
+accounts in financial institutions outside this state for the purpose of: 
+
+       (A) Accepting
+payments of loan principal and interest; 
+
+       (B) Accepting and
+holding escrow funds; 
+
+       (C) Accepting and
+holding funds required to be held in reserve with or on behalf of the state
+agency or public body; or 
+
+       (D) Collecting
+and holding other moneys the financial institution must collect and hold for
+loan servicing under the agreement before remitting the moneys to the state
+agency, public body or a third party. 
+
+       (c) Public funds
+held by a trustee or escrow agent pursuant to a trust agreement, bond
+indenture, certificate of participation indenture, escrow agreement or similar
+agreement with a state agency or public body may be deposited in accounts in
+financial institutions outside this state. 
+
+       (2) The State
+Treasurer shall establish the demand deposit accounts described in subsection
+(1)(a) of this section in accordance with rules adopted pursuant to ORS 183.310
+to 183.410 that ensure that reasonable and prudent measures are taken to
+protect state investment funds from loss. 
+
+       (3) When accounts
+are established for a state agency or public body under subsection (1)(b) or
+(c) of this section, the state agency or public body shall require in the
+relevant agreement or indenture that reasonable and prudent measures are taken
+to protect the moneys in the accounts from loss. 
+
+       (4) As used in
+this section, the terms “financial institution outside this state” and “public
+body” have the meanings given those terms in ORS 295.001. [1993 c.69 §1; 1995
+c.259 §5; 1997 c.171 §15; 2007 c.871 §24; 2010 c.101 §26; 2019 c.587 §33] 
+
+   
+
+       295.210 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.220 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.230 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.240 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.410 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.420 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.430 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.440 [Amended by 1957 c.171 §1; 1965
+c.169 §2; repealed by 1967 c.451 §32] 
+
+   
+
+       295.450 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.460 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.470 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.480 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.490 [Amended by 1963 c.502 §5;
+repealed by 1967 c.451 §32] 
+
+       295.500 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.510 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.520 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.530 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.990 [Repealed by 1967 c.451 §32] 
+
+   
+
+       295.991 [1967 c.451 §18; repealed by 1971
+c.743 §432] 
+
+   
+
+ CHAPTER
+296 [Reserved for expansion] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

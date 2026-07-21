@@ -1,0 +1,4921 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+ Chapter
+286A — STATE BORROWING 
+
+ PUBLIC
+BORROWING 
+
+   
+
+ ORS sections in this
+chapter were amended or repealed by the Legislative Assembly during its 2026
+regular session. See the table of ORS sections amended or repealed during the
+2026 regular session: 2026
+A&R Tables 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+ State
+Borrowing 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 286A.001  Definitions for ORS
+chapter 286A 
+
+   
+
+ 286A.003  State policy on debt
+management 
+
+   
+
+ DUTIES OF STATE TREASURER 
+
+   
+
+ 286A.005  Authority of State
+Treasurer to issue bonds 
+
+   
+
+ 286A.010  Information required by
+State Treasurer 
+
+   
+
+ 286A.014  Fees and expenses of
+State Treasurer; rules 
+
+   
+
+ 286A.015  Payment of expenses of
+State Treasurer 
+
+   
+
+ 286A.016  Disposition of charges 
+
+   
+
+ AUTHORITY FOR BORROWING 
+
+   
+
+ 286A.025  Issuance and sale of
+bonds 
+
+   
+
+ 286A.035  Bond budget authorization 
+
+   
+
+ 286A.045  Borrowing for current
+expenses 
+
+   
+
+ 286A.050  Short Term Borrowing
+Account; sources; uses 
+
+   
+
+ 286A.055  Report by State Treasurer
+on amount of bonds issued, amounts repaid, costs and interest earned 
+
+   
+
+ 286A.056  Cancellation or
+postponement of scheduled issuance of bonds 
+
+   
+
+ 286A.095  Compliance with
+constitutional or statutory debt limit 
+
+   
+
+ ADMINISTRATION OF BONDS 
+
+   
+
+ 286A.100  Definitions for ORS
+286A.100 and 286A.102 
+
+   
+
+ 286A.102  Lien of a pledge; Uniform
+Commercial Code 
+
+   
+
+ 286A.110  Agreements for exchange
+of interest rates 
+
+   
+
+ 286A.118  Termination payment of
+pass-through revenue bond borrower 
+
+   
+
+ 286A.120  Credit enhancement
+devices 
+
+   
+
+ 286A.123  Agency purchase of own
+bonds 
+
+   
+
+ 286A.130  Bond counsel services;
+financial advisory services; Public Contracting Code 
+
+   
+
+ 286A.132  Debt-related advisory
+services 
+
+   
+
+ 286A.140  State taxation of bond
+interest 
+
+   
+
+ 286A.145  Federal taxation of bond
+interest; interest rate subsidies; rules 
+
+   
+
+ 286A.160  Exception to expenditure
+limits for repaying obligations; administrative limits; reports 
+
+   
+
+ 286A.185  Cancellation, purchase or
+redemption of bonds; lost or destroyed evidence of bonds; rules 
+
+   
+
+ 286A.190  Disclosure of bond
+ownership 
+
+   
+
+ 286A.195  Financial audit of bond
+programs 
+
+   
+
+ 286A.200  Administration of certain
+bond programs by Oregon Department of Administrative Services 
+
+   
+
+ 286A.250  State Debt Policy
+Advisory Commission; membership; compensation; quorum; meetings; personnel;
+consultation with other agencies 
+
+   
+
+ 286A.255  Functions and duties of
+commission 
+
+   
+
+ LOTTERY BONDS 
+
+   
+
+ 286A.560  Definitions for ORS
+286A.560 to 286A.585 and 327.700 to 327.711 
+
+   
+
+ 286A.563  Purposes; nature of
+lottery bonds 
+
+   
+
+ 286A.566  Requirements for
+legislation authorizing lottery bonds 
+
+   
+
+ 286A.570  Lottery Bond Fund;
+purposes 
+
+   
+
+ 286A.573  Lottery Bond
+Administrative Fund; purposes 
+
+   
+
+ 286A.576  Allocation of lottery
+moneys for lottery bonds; priorities 
+
+   
+
+ 286A.578  Litigation challenging
+legality of Oregon State Lottery 
+
+   
+
+ 286A.580  Issuance of lottery
+bonds; refunding bonds; bond covenants; reserves for bonds; appropriation to
+maintain reserves; credit enhancements 
+
+   
+
+ 286A.585  Lottery bonds for
+community sports facilities; use of proceeds of bonds 
+
+   
+
+ PRIVATE ACTIVITY BONDS 
+
+   
+
+ 286A.605  Definitions for ORS
+286A.605 to 286A.625 
+
+   
+
+ 286A.615  Private Activity Bond
+Committee; purpose of private activity bonding; suballocation; rules 
+
+   
+
+ 286A.620  Private activity bond
+volume cap 
+
+   
+
+ 286A.625  State Treasurer to
+maintain records 
+
+   
+
+ 286A.630  Reallocation of private
+activity bond cap; rules 
+
+   
+
+ BACCALAUREATE BONDS 
+
+   
+
+ 286A.700  Authority to issue
+baccalaureate bonds 
+
+   
+
+ WATER POWER BONDS 
+
+   
+
+ 286A.710  Definitions for ORS
+286A.710 to 286A.720 
+
+   
+
+ 286A.712  Authority of State
+Treasurer to issue bonds 
+
+   
+
+ 286A.714  Article XI-D Bond Fund;
+purposes 
+
+   
+
+ 286A.716  Article XI-D Bond Administration
+Fund; purposes 
+
+   
+
+ 286A.718  Renewable Energy Fund;
+purposes; rules 
+
+   
+
+ 286A.720  Payment of bond-related
+costs 
+
+   
+
+ PENSION LIABILITY BONDS 
+
+   
+
+ 286A.730  Definitions for ORS
+286A.730 to 286A.750 
+
+   
+
+ 286A.735  Authority of State
+Treasurer to issue pension liability bonds; nature and purpose of bonds;
+refunding bonds 
+
+   
+
+ 286A.740  Article XI-O Bond Fund;
+purposes 
+
+   
+
+ 286A.745  Article XI-O Bond
+Administration Fund; purposes 
+
+   
+
+ 286A.750  Terms and conditions of
+pension liability bonds 
+
+   
+
+ SEISMIC REHABILITATION BONDS 
+
+   
+
+ (Public Education Buildings) 
+
+   
+
+ 286A.760  Definitions for ORS
+286A.760 to 286A.772 
+
+   
+
+ 286A.762  Authority of State
+Treasurer to issue bonds 
+
+   
+
+ 286A.764  Article XI-M Bond Fund;
+purposes 
+
+   
+
+ 286A.766  Article XI-M Bond
+Administration Fund; purposes 
+
+   
+
+ 286A.768  Education Seismic Fund;
+purposes; rules 
+
+   
+
+ 286A.772  Payment of bond-related
+costs 
+
+   
+
+ (Emergency Services Buildings) 
+
+   
+
+ 286A.780  Definitions for ORS
+286A.780 to 286A.792 
+
+   
+
+ 286A.782  Authority of State
+Treasurer to issue bonds 
+
+   
+
+ 286A.784  Article XI-N Bond Fund;
+purposes 
+
+   
+
+ 286A.786  Article XI-N Bond
+Administration Fund; purposes 
+
+   
+
+ 286A.788  Emergency Services
+Seismic Fund; purposes; rules; fees 
+
+   
+
+ 286A.792  Payment of bond-related
+costs 
+
+   
+
+ SCHOOL CAPITAL MATCHING BONDS 
+
+   
+
+ 286A.796  Definitions for ORS
+286A.796 to 286A.806 
+
+   
+
+ 286A.798  Authority of State
+Treasurer to issue bonds 
+
+   
+
+ 286A.800  School capital matching
+bond program; rules 
+
+   
+
+ 286A.801  Matching fund grants to
+school districts; requirements; awards; rules 
+
+   
+
+ 286A.802  Article XI-P Bond Fund;
+purposes 
+
+   
+
+ 286A.804  Article XI-P Bond
+Administration Fund; purposes 
+
+   
+
+ 286A.806  School Capital Matching
+Fund; purposes 
+
+   
+
+ 286A.808  Oregon School Capital
+Improvement Matching Account; purposes 
+
+   
+
+ 286A.810  LEED certification of
+school projects financed with Article XI-P bonds 
+
+   
+
+ ARTICLE XI-Q BONDS 
+
+   
+
+ 286A.816  Definitions for ORS
+286A.816 to 286A.826 
+
+   
+
+ 286A.818  Authority of State
+Treasurer to issue bonds 
+
+   
+
+ 286A.820  Article XI-Q Bond Fund;
+purposes 
+
+   
+
+ 286A.822  Article XI-Q Bond
+Administration Fund; purposes 
+
+   
+
+ 286A.824  Article XI-Q bond
+program; rules 
+
+   
+
+ 286A.826  Budgeting for Article
+XI-Q project costs 
+
+   
+
+ HIGHER EDUCATION BONDS 
+
+   
+
+ 286A.830  Definitions for ORS
+286A.830 to 286A.863 
+
+   
+
+ 286A.833  Authority of State
+Treasurer to issue Article XI-F(1) bonds 
+
+   
+
+ 286A.836  Loan agreements for
+Article XI-F(1) bonds 
+
+   
+
+ 286A.839  Article XI-F(1) Bond
+Fund; purposes 
+
+   
+
+ 286A.842  Article XI-F(1) Bond
+Administration Fund; purposes 
+
+   
+
+ 286A.845  Budgeting for Article
+XI-F(1) bonds 
+
+   
+
+ 286A.848  Authority of State
+Treasurer to issue Article XI-G bonds 
+
+   
+
+ 286A.851  Grant contracts for
+Article XI-G bonds 
+
+   
+
+ 286A.854  Article XI-G Bond Fund;
+purposes 
+
+   
+
+ 286A.857  Article XI-G Bond
+Administration Fund; purposes 
+
+   
+
+ 286A.860  Budgeting for Article
+XI-G bonds 
+
+   
+
+ 286A.863  Rules; billing of public
+universities and community colleges; agreements with Oregon Health and Science
+University 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       286A.001
+Definitions for ORS chapter 286A. 
+As used in this chapter: 
+
+       (1) “Agreement
+for exchange of interest rates” means a contract, or an option or forward
+commitment to enter into a contract, for the exchange of interest rates that
+provides for: 
+
+       (a) Payments
+based on levels of or changes in interest rates; or 
+
+       (b) Provisions to
+hedge payment, rate, spread or similar exposure including, but not limited to,
+an interest rate floor or cap or an option, put or call. 
+
+       (2) “Bond”: 
+
+       (a) Means a
+contractual undertaking or instrument of the State of Oregon to repay borrowed
+moneys. 
+
+       (b) Does not mean
+a financing agreement, as defined in ORS 283.085, if the principal amount of
+the agreement is $100,000 or less, or a credit enhancement device. 
+
+       (3) “Counterparty”
+means an entity with whom the State of Oregon enters into an agreement for
+exchange of interest rates. 
+
+       (4) “Credit
+enhancement device”: 
+
+       (a) Means a
+letter of credit, line of credit, standby bond purchase agreement, bond
+insurance policy, reserve surety bond or other device or facility used to
+enhance the creditworthiness, liquidity or marketability of bonds or agreements
+for the exchange of interest rates; and 
+
+       (b) Does not mean
+a bond. 
+
+       (5) “Credit
+enhancement device fee” means a payment required to be made to the provider of
+a credit enhancement device securing a bond or securing an agreement for the
+exchange of interest rates. 
+
+       (6) “General
+obligation bond” means a bond that constitutes indebtedness of the state under
+section 7, Article XI of the Oregon Constitution, and that is exempt from the
+$50,000 limitation on indebtedness set forth in that section. 
+
+       (7) “Operative
+document” means a bond declaration, trust agreement, indenture, security
+agreement or other document in which the State of Oregon pledges property as
+security for an obligation, as defined in ORS 286A.100. 
+
+       (8) “Refunding
+bond” means a bond of the State of Oregon that is issued to refund another
+bond, regardless of whether the refunding is on a current, advance, forward
+delivery, synthetic or other basis. 
+
+       (9) “Related
+agency” means the state agency that requests the State Treasurer to issue bonds
+pursuant to ORS 286A.025 or for which the State Treasurer has issued bonds. 
+
+       (10) “Related
+bond” means a bond for which the State of Oregon enters into an agreement for
+exchange of interest rates. 
+
+       (11) “Revenue”
+means all fees, tolls, excise taxes, assessments, property taxes and other
+taxes, rates, charges, rentals and other income or receipts derived by a state
+agency or to which a state agency is entitled. 
+
+       (12) “Revenue
+bond” means a bond of the State of Oregon that is not a general obligation
+bond. 
+
+       (13) “State
+agency”: 
+
+       (a) Includes a
+statewide elected officer, board, commission, department, division, authority
+or other entity, without regard to the designation given to the entity, that is
+within state government, as defined in ORS 174.111; and 
+
+       (b) Does not
+include: 
+
+       (A) A statewide
+elected judge; 
+
+       (B) The State
+Treasurer; 
+
+       (C) A local
+government, as defined in ORS 174.116; 
+
+       (D) The Oregon
+Health and Science University; 
+
+       (E) A special
+government body, as defined in ORS 174.117, except to the extent a special
+government body must be considered a state agency in order to achieve the
+purposes of Article XI-K of the Oregon Constitution; or 
+
+       (F) A
+semi-independent state agency listed in ORS 182.454, 377.835 or 674.305, or any
+other state agency denominated by statute as a semi-independent state agency. 
+
+       (14) “Termination
+payment” means the amount payable under an agreement for exchange of interest
+rates by one party to another party as a result of the termination, in whole or
+part, of the agreement prior to the expiration of the stated term. [2007 c.783 §2;
+2009 c.537 §7] 
+
+   
+
+       286A.003 State
+policy on debt management. 
+(1) The State of Oregon recognizes that adherence to a debt management policy
+that provides guidelines for debt issuance is necessary to limit the long-term
+impact of debt on the budget of the state, to preserve the credit rating of the
+state and to maintain available debt capacity to meet the continuing capital
+investment needs of this state. Accordingly, it is the policy of the State of
+Oregon that, in determining the total amount of bonds to be authorized each
+biennium, the Legislative Assembly shall: 
+
+       (a) Limit the
+issuance of bonds to projects or programs that require a minimum amount of
+state funding, as determined by the Legislative Assembly each biennium, and
+direct that projects or programs with funding needs that are under the minimum
+amount be funded with current resources; and 
+
+       (b) Prohibit the
+issuance of bonds for ongoing operating expenditures of the state. 
+
+       (2) This section
+does not require the Legislative Assembly to prohibit: 
+
+       (a) Borrowing for
+ongoing operating expenditures of the state as authorized under ORS 286A.045; 
+
+       (b) Borrowing to
+finance pension obligations under ORS 238.692 to 238.698; 
+
+       (c) Borrowing to
+finance activities related to environmental remediation; 
+
+       (d) The use of
+bond proceeds to pay for administration or management of projects or programs
+funded by the bond proceeds; or 
+
+       (e) The use of
+interest or investment earnings on bond proceeds for ongoing operating
+expenditures. [2017 c.746 §14] 
+
+   
+
+ DUTIES OF STATE
+TREASURER 
+
+   
+
+       286A.005
+Authority of State Treasurer to issue bonds. (1) The State Treasurer shall issue and sign bonds of
+the State of Oregon. The State Treasurer may sign a bond by manual or facsimile
+signature. 
+
+       (2) Unless
+otherwise authorized by law other than this section, the State Treasurer may
+issue bonds only if a related agency has requested that the bonds be issued. 
+
+       (3) In
+determining whether to issue bonds, the State Treasurer shall consider: 
+
+       (a) The bond
+market for the type of bonds proposed for issuance; 
+
+       (b) The terms and
+conditions of the proposed issue; and 
+
+       (c) Other
+relevant factors that the State Treasurer considers necessary to protect the
+financial integrity of the State of Oregon. 
+
+       (4) The State
+Treasurer may sell bonds for more than one related agency or for more than one
+purpose in a single sale or in combination with the sale of other bonds. 
+
+       (5) The State
+Treasurer is an applicable elected representative for the purpose of approving
+the issuance of bonds when approval is required under section 147(f) of the
+Internal Revenue Code. 
+
+       (6) The State
+Treasurer may adopt rules providing for the procedural or administrative
+requirements for the issuance of obligations, as defined in ORS 286A.100. [2007
+c.783 §3] 
+
+   
+
+       286A.010
+Information required by State Treasurer. A related agency shall, at the direction of the State
+Treasurer, provide the State Treasurer with: 
+
+       (1) The
+information that the State Treasurer considers necessary to determine whether
+to issue the requested bonds, including assumptions underlying cash flow
+projections associated with the repayment of the bonds; and 
+
+       (2) After the
+requested bonds are issued, the information that the State Treasurer considers
+necessary to: 
+
+       (a) Administer
+the bonds; and 
+
+       (b) Comply with
+federal and state securities law and bond covenants. [2007 c.783 §4] 
+
+   
+
+       286A.014 Fees
+and expenses of State Treasurer; rules. (1) The State Treasurer may charge a related agency
+for reasonable fees and expenses in connection with the services, duties and
+activities of the State Treasurer related to the borrowing activities of the
+State of Oregon, including but not limited to the issuance and administration
+of obligations, as defined in ORS 286A.100. 
+
+       (2) The State
+Treasurer may charge a public body, as defined in ORS 287A.001, reasonable fees
+and expenses in connection with: 
+
+       (a) The services,
+duties and activities of the State Treasurer related to obligations, as defined
+in ORS 287A.310, of the public body; or 
+
+       (b) Providing
+assistance to the Oregon Municipal Debt Advisory Commission or to the public
+body. 
+
+       (3) The State
+Treasurer shall deposit all moneys received under this section in the
+Miscellaneous Receipts Account established under ORS 286A.016. 
+
+       (4) The State
+Treasurer shall adopt rules to implement the provisions of this section
+including, but not limited to, rules identifying the services, duties and
+activities for which charges are to apply. 
+
+       (5) A related
+agency or public body shall pay to the State Treasurer reasonable fees and
+expenses charged under this section or under rules adopted pursuant to this
+section. [2007 c.783 §5] 
+
+   
+
+       286A.015
+Payment of expenses of State Treasurer. Moneys received under ORS 286A.014 are continuously
+appropriated to the State Treasurer for the payment of expenses of the State
+Treasurer in connection with bonds of the State of Oregon or a public body as
+defined in ORS 287A.001. [2007 c.783 §6] 
+
+   
+
+       Note: 286A.015 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter
+286A or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       286A.016
+Disposition of charges. 
+All moneys received under ORS 286A.014 and 287A.634 shall be deposited in the
+Miscellaneous Receipts Account established in the General Fund for the State
+Treasurer. The State Treasurer may use moneys in the account for payment of
+expenses of the State Treasurer in connection with bonds of the State of Oregon
+or a public body as defined in ORS 287A.001. [Formerly 286.025] 
+
+   
+
+ AUTHORITY FOR BORROWING 
+
+   
+
+       286A.025
+Issuance and sale of bonds. 
+(1) The State Treasurer may, at the request of a related agency: 
+
+       (a) Issue bonds
+when a law of the State of Oregon authorizes bonds to be issued; and 
+
+       (b) Issue
+refunding bonds without additional authorization. 
+
+       (2) In
+consultation with the related agency, the State Treasurer may: 
+
+       (a) Sell bonds at
+a competitive sale or a negotiated sale or in any other manner determined by
+the State Treasurer; 
+
+       (b) Issue bonds
+the interest of which is exempt from federal income taxation or is not exempt
+from federal income taxation; 
+
+       (c) Establish the
+principal amounts, redemption provisions, optional or mandatory tender
+provisions, interest rates or methods for determining variable or adjustable
+interest rates, denominations and other terms and conditions of the bonds; 
+
+       (d) Establish
+maturity dates for bonds to provide for short-term, interim or long-term
+borrowing; 
+
+       (e) Determine the
+form and content of a bond offering or disclosure document; 
+
+       (f) Structure,
+market and issue bonds in the manner that the State Treasurer determines is in
+the best interest of the people of the State of Oregon; and 
+
+       (g) Invest moneys
+held in connection with or derived from obligations, as defined in ORS
+286A.100, without regard to the fund or account to which the moneys are
+credited under other provisions of law, alone or with other invested moneys. In
+addition, the State Treasurer may: 
+
+       (A) Establish
+funds and accounts separate and distinct from the General Fund in order to
+invest the moneys as provided in ORS 293.701 to 293.857 and to arrange for
+redemption or purchase of bonds; and 
+
+       (B) Segregate or
+pool moneys in order to promote financial and administrative efficiency and
+prudence in the management of moneys derived from obligations, as defined in
+ORS 286A.100, moneys available for bond repayment and other moneys, and in the
+administration of bond programs. 
+
+       (3) Subject to
+the approval of the State Treasurer, moneys described in subsection (2)(g) of
+this section may be held by a trustee under a trust agreement, indenture, bond
+declaration or similar instrument and may be invested by the trustee at the
+direction of the related agency for which the moneys are held by the trustee.
+If consistent with the trust agreement, indenture, bond declaration or similar
+instrument, a related agency may authorize a trustee to invest on behalf of the
+agency in the investment funds or with other moneys invested by the State
+Treasurer under ORS 293.701 to 293.857 and may authorize a transfer of the
+moneys from the State Treasurer to the trustee. 
+
+       (4) In addition
+to authority conferred by law other than this section, the State Treasurer or,
+with the approval of the State Treasurer, a related agency may: 
+
+       (a) Execute and
+deliver indentures, trust agreements, auction agent agreements, broker-dealer
+agreements, tender agent agreements, bond declarations or similar instruments
+and other contracts related to the sale, issuance or security of the bonds; 
+
+       (b) Deposit funds
+with trustees for the benefit of bond owners and the providers of credit
+enhancement devices; and 
+
+       (c) Enter into
+covenants for the benefit of bond owners or the providers of credit enhancement
+devices. 
+
+       (5) The covenants
+authorized by subsection (4)(c) of this section: 
+
+       (a) May include,
+but are not limited to, covenants regarding the issuance of additional bonds,
+the priority of payment of bonds and, if authorized by law other than this
+section, the imposition and collection of rates, fees or other charges; and 
+
+       (b) Are intended
+to: 
+
+       (A) Improve the
+security of bond owners or providers of credit enhancement devices; or 
+
+       (B) Maintain the
+tax-exempt status of interest payable on bonds. 
+
+       (6) In addition
+to authority conferred by law other than this section, in consultation with the
+related agency, the State Treasurer may establish a debt service reserve for
+the purpose of paying when due the amounts owing on the bonds for which the
+debt service reserve is established. The debt service reserve may be funded out
+of the proceeds derived from the issuance and sale of the bonds for which the
+debt service reserve is being established or from other lawfully available
+funds. 
+
+       (7) In
+consultation with the related agency, the State Treasurer shall select the
+underwriters for the sale of the bonds requested by the related agency. An
+agreement with the underwriters may be executed by the State Treasurer alone or
+with the related agency. An agreement with underwriters is not subject to the
+Public Contracting Code. [2007 c.783 §7] 
+
+   
+
+       286A.035 Bond
+budget authorization. 
+(1) Each related agency shall report the plans of the related agency for the
+issuance of bonds during the next biennium. The related agency shall submit the
+related agency’s report to the Governor by a date determined by the Governor
+and shall include in the report a description of bonds that the related agency
+intends to retire or defease during the next biennium. 
+
+       (2) On or before
+a date determined by the Governor, the State Treasurer shall advise the
+Governor on the prudent maximum amount of bonds to be issued for each bond
+program. The State Treasurer shall consider available economic and financial
+data in preparing advice to be given to the Governor. 
+
+       (3) As part of
+the Governor’s budget described in ORS 291.216, the Governor shall: 
+
+       (a) Consider the
+prudent maximum amounts advised by the State Treasurer pursuant to subsection
+(2) of this section to determine the Governor’s total recommended amount; and 
+
+       (b) Recommend to
+the Legislative Assembly the total amount of bonds the State Treasurer may
+issue for each bond program for a biennium. 
+
+       (4) The
+Legislative Assembly shall determine the amount of bonds the State Treasurer
+may issue for each state agency for a biennium. Except as provided in
+subsection (5) of this section, if the Legislative Assembly fails to make the
+determination described in this subsection by the first day of the biennium,
+the unused portion of the authorization the Legislative Assembly made for the
+preceding biennium is deemed to carry forward for the current biennium at the
+amount authorized for the preceding biennium until the earlier of: 
+
+       (a) The date on
+which legislation authorizing the amount of bonds for the current biennium is
+enacted; or 
+
+       (b) The date on
+which the Legislative Assembly adjourns sine die. 
+
+       (5) The unused
+portion of the amount of pass-through revenue bonds authorized for issuance in
+the preceding biennium is deemed to carry forward for the current biennium
+until the date on which legislation authorizing the amount of pass-through
+revenue bonds for the current biennium is enacted. 
+
+       (6) The amount of
+bonds that may be issued under bond programs may be modified by the Governor.
+However, the Governor may not modify the amount of bonds that may be issued
+under bond programs in a way that would cause the maximum amount established by
+the Legislative Assembly for a category of bond programs to be exceeded if the
+Legislative Assembly: 
+
+       (a) Has
+categorized the bonds that may be issued under bond programs as general
+obligation, direct revenue and pass-through revenue bonds; and 
+
+       (b) Assigned a
+maximum amount to each category. 
+
+       (7) This section
+applies to bonds: 
+
+       (a) Unless the
+bonds are expressly exempted from the requirements of this section. 
+
+       (b) Except
+refunding bonds. [2007 c.783 §9; 2013 c.766 §1; 2015 c.767 §8; 2015 c.828 §28;
+2016 c.117 §47; 2023 c.174 §1; 2023 c.237 §1] 
+
+   
+
+       286A.045
+Borrowing for current expenses. 
+(1) The State Treasurer may issue bonds to finance all or a portion of the
+current expenses of this state. The amount of bonds issued under this section
+at any time may not exceed the State Treasurer’s estimate of the cash flow
+deficit in revenues available to pay the expenses that are financed with the
+bonds, plus amounts for reasonable reserves and costs. 
+
+       (2) To estimate
+the amount of cash flow deficit, the State Treasurer shall take into account
+the most recent cash flow forecast made by the Oregon Department of
+Administrative Services and any other information the State Treasurer
+determines is reliable and relevant. 
+
+       (3) When the
+State Treasurer issues bonds under this section: 
+
+       (a) The Oregon
+Department of Administrative Services shall account for and administer the
+proceeds of the bonds and the repayment of the bonds. The State Treasurer, in
+consultation with the Oregon Department of Administrative Services, shall
+determine the appropriate investment strategy for the proceeds of the bonds.
+The State Treasurer shall notify the Director of the Oregon Department of
+Administrative Services, the Legislative Fiscal Officer and the Legislative
+Revenue Officer before issuing bonds under this section. 
+
+       (b) The State
+Treasurer may pledge: 
+
+       (A) All or a
+portion of the revenues of the State of Oregon to pay bonds issued under this
+section. 
+
+       (B) The full
+faith and credit of the State of Oregon to pay bonds issued under this section
+if the bonds are payable from the Short Term Borrowing Account established
+under ORS 286A.050 and the bonds mature not later than the end of the biennium
+in which the bonds are issued. 
+
+       (c) A state
+agency may use the proceeds of bonds issued under this section: 
+
+       (A) For a purpose
+for which the revenues that are pledged to pay the bonds may be used; 
+
+       (B) To pay
+principal, interest and premium, if any, on the bonds or a rebate or penalty
+due to the United States in connection with the bonds; 
+
+       (C) To pay the
+cost of credit enhancement devices with respect to the bonds; 
+
+       (D) To pay the
+costs of the State Treasurer and the Oregon Department of Administrative
+Services of issuing, administering or maintaining the bonds including, but not
+limited to, the cost of a consultant or adviser retained by the State Treasurer
+or the Oregon Department of Administrative Services; or 
+
+       (E) To make
+payments with respect to agreements for the exchange of interest rates. 
+
+       (4) This section
+constitutes complete authority for the State Treasurer to issue bonds described
+in this section. 
+
+       (5) ORS 286A.035
+does not apply to bonds authorized by this section. 
+
+       (6) The
+requirements and limitations that apply to certificates of indebtedness issued
+under ORS 293.165 do not apply to bonds issued by the State Treasurer under
+this section. 
+
+       (7) This section
+and ORS 286A.050 constitute complete authorization by the Legislative Assembly
+for the use and expenditure of the proceeds of the bonds and the revenues
+pledged to pay those bonds for the purposes described in subsection (3)(c) of
+this section. Additional appropriation or authorization is not necessary. The
+authorization contained in this section and ORS 286A.050 to spend moneys for
+the purposes described in subsection (3)(c) of this section does not constitute
+an appropriation for purposes of ORS 291.357. 
+
+       (8) The proceeds
+of bonds issued by the State Treasurer under this section do not constitute
+revenues received by the General Fund for purposes of section 14, Article IX of
+the Oregon Constitution, and ORS 291.349. 
+
+       (9) The State
+Treasurer may perform the duties and exercise the powers of a related agency
+under this section. [2007 c.783 §11] 
+
+   
+
+       286A.050 Short
+Term Borrowing Account; sources; uses. 
+(1) The Short Term Borrowing Account is created in the General Fund. 
+
+       (2) The State
+Treasurer shall credit the proceeds of bonds issued by the State Treasurer
+under ORS 286A.045 to the Short Term Borrowing Account. The State Treasurer
+shall, in addition, transfer to the Short Term Borrowing Account any amounts
+that are pledged to pay bonds issued by the State Treasurer under ORS 286A.045
+and that are required to pay those bonds. 
+
+       (3) Amounts in
+the Short Term Borrowing Account are continuously appropriated to the
+respective state agencies for which the revenues that are pledged to pay the
+bonds were appropriated, for the purposes described in ORS 286A.045
+(3)(c). Amounts appropriated under this subsection may not be taken into
+account in preparing budget estimates, plans or reports required to be prepared
+under ORS 291.201 to 291.222. [Formerly 293.175] 
+
+   
+
+       286A.055
+Report by State Treasurer on amount of bonds issued, amounts repaid, costs and
+interest earned. 
+Within 90 days following the end of a biennium, the State Treasurer shall
+report in writing to the Legislative Fiscal Officer and the Legislative Revenue
+Officer on the amount of bonds issued by the State Treasurer under ORS
+286A.045, the amount spent in repayment of those bonds, the issuance costs and
+interest costs of those bonds and the interest revenues earned by the proceeds
+of those bonds. [Formerly 293.177] 
+
+   
+
+       286A.056
+Cancellation or postponement of scheduled issuance of bonds. (1) If the State Treasurer or
+Director of the Oregon Department of Administrative Services determines that
+the treasurer or director will cancel or postpone an issuance of general
+obligation bonds or lottery bonds that was authorized by law and previously
+scheduled, the treasurer or director shall provide written notice to the
+President of the Senate, the Speaker of the House of Representatives and the
+Legislative Fiscal Officer. 
+
+       (2) The treasurer
+or director shall provide the notice not later than 30 days after the date the
+issuance of the bonds was scheduled. [2012 c.107 §3] 
+
+   
+
+       286A.095
+Compliance with constitutional or statutory debt limit. (1) When calculating compliance
+with a constitutional or statutory debt limit: 
+
+       (a) If a bond is
+issued to a provider of a credit enhancement device for a bond that is subject
+to a debt limit, the bond issued to the provider must be taken into account
+only to the extent that the amount of the bond issued to the provider exceeds
+the amount of the bond that is secured by the credit enhancement device. 
+
+       (b) The amount of
+interest to be paid on bonds, whether paid currently or deferred, is not taken
+into account. 
+
+       (c) For a zero
+coupon bond or other original issue discount bond on which periodic interest
+payments are not made, only the accreted value of the bond on the date the bond
+is issued is taken into account. 
+
+       (d) The state may
+deduct from the amount of outstanding bonds: 
+
+       (A) The amount of
+moneys and investments held by the state or a trustee of the state to pay bonds
+that have not been defeased; and 
+
+       (B) The principal
+amount of bonds that have been defeased. 
+
+       (2) For purposes
+of this section, a bond is defeased if: 
+
+       (a) The state has
+set aside in an irrevocable escrow government obligations, as defined in ORS
+287A.375, the receipts from which have been calculated by a certified public
+accountant or other experienced professional to be sufficient, without
+reinvestment, to pay the principal, interest and premium, if any, due on the
+bond at maturity or on prior redemption; or 
+
+       (b) The state has
+complied with the provisions in the documents authorizing the bond that provide
+for the payment or defeasance of the bond. [2007 c.783 §15] 
+
+   
+
+ ADMINISTRATION OF BONDS 
+
+   
+
+       286A.100
+Definitions for ORS 286A.100 and 286A.102. As used in this section and ORS 286A.102: 
+
+       (1) “Obligation”
+means: 
+
+       (a) A bond; 
+
+       (b) An agreement
+for exchange of interest rates with the State of Oregon; or 
+
+       (c) A credit
+enhancement device given as additional security for a bond. 
+
+       (2) “Pledge”
+means: 
+
+       (a) To create a
+security interest in or a lien on property to secure payment or performance of
+an obligation, by mortgaging, assigning or encumbering property or by creating
+a security interest in property by any other manner. 
+
+       (b) A security
+interest in or lien on property created under paragraph (a) of this subsection. 
+
+       (3) “Pledgee”
+means: 
+
+       (a) A trustee for
+the holder of an obligation; or 
+
+       (b) The holder of
+an obligation if a trustee was not appointed in the operative document or if
+the operative document authorizes the holder of an obligation to foreclose the
+lien of a pledge and enforce the remedies consequent to the pledge in lieu of
+the trustee. 
+
+       (4) “Property”
+means: 
+
+       (a) Real or
+personal property, tangible or intangible, whether owned when the pledge is
+made or acquired subsequently to the time the pledge is made; and 
+
+       (b) Revenues,
+contract rights, receivables or securities. [2007 c.783 §17; 2009 c.537 §8] 
+
+   
+
+       286A.102 Lien
+of a pledge; Uniform Commercial Code. 
+(1) The Uniform Commercial Code does not apply to the creation, perfection,
+priority or enforcement of a lien of a pledge made by a state agency or the
+State Treasurer. 
+
+       (2) When
+authorized by law to secure obligations with property of the State of Oregon, a
+state agency, or the State Treasurer acting under the State Treasurer’s own
+authority or on behalf of a state agency with the approval of the state agency,
+may pledge all or a portion of the property as security for payment of the
+obligations and for performance of a covenant or agreement entered into in
+relation to the issuance of the obligations. 
+
+       (3) The lien
+created by a pledge described in subsection (2) of this section is valid and
+binding from the time the pledge is made. Pledged property is subject
+immediately to the lien of the pledge without physical delivery, filing or any
+other act. 
+
+       (4) Except as
+otherwise expressly provided in an operative document, the lien of the pledge
+is superior to and has priority over all other claims and liens of any kind. 
+
+       (5) When property
+subject to a pledge is acquired by the State of Oregon after the pledge is
+made: 
+
+       (a) The property
+is subject to the lien upon acquisition by the State of Oregon without physical
+delivery, filing or any other act; and 
+
+       (b) The lien
+relates back to the time the pledge was originally made. 
+
+       (6)(a) The State
+Treasurer, or the related agency, may reserve the right to pledge property as
+security for a subsequently issued obligation. 
+
+       (b) If the State
+Treasurer or related agency reserves the right described in paragraph (a) of
+this subsection, subject to the terms of the operative document that created
+the previous pledge, the lien of the subsequent pledge may be on a parity or
+pari passu basis with the lien of the previous pledge, on a prior and superior
+basis with the lien of the previous pledge or on a subordinate basis with the
+lien of the previous pledge, as specified in the operative document creating
+the subsequent pledge. The lien of the subsequent pledge: 
+
+       (A) Has the
+priority specified in the operative document creating the subsequent pledge;
+and 
+
+       (B) Is superior
+to and has priority over other claims and liens of any kind except the lien of
+a pledge with which the lien of the subsequent pledge is on a parity or
+subordinate basis, as specified in the operative document. 
+
+       (7) Except as
+provided in subsection (8) of this section, a pledgee may commence an action in
+a court of competent jurisdiction to foreclose the lien of the pledge and
+exercise rights and remedies available to the pledgee under the operative
+document. 
+
+       (8) When pledged
+property is in a fund for debt service reserves or payments, a pledgee may
+foreclose the lien of the pledge by applying the property to the payment of
+obligations subject to the terms, conditions and limitations in the operative
+document. 
+
+       (9) An initiative
+or referendum measure approved by the electors of the State of Oregon that
+purports to change statutory provisions affecting rates, fees, tolls, rentals
+or other charges may not be given any force or effect if to do so would impair
+existing covenants made with holders of existing obligations regarding the
+imposition, levy or collection of the rates, fees, tolls, rentals or other
+charges pledged to secure outstanding obligations. 
+
+       (10) If
+authorized by law other than this section to set rates, fees or other charges
+that are pledged to pay obligations, a state agency may enter into rate
+covenants. Rate covenants authorized by this subsection may obligate a state
+agency to periodically set the rates and charges: 
+
+       (a) That generate
+pledged revenues at specific levels including, but not limited to, a specific
+monetary charge for each unit of commodity or service provided or a schedule of
+rates and charges that includes fixed and variable components; 
+
+       (b) At levels
+sufficient to maintain underlying credit ratings assigned to obligations by one
+or more nationally recognized credit rating services without regard to any
+improvement in credit ratings due to the provision of additional security for
+the obligations by a credit enhancement device; 
+
+       (c) That generate
+pledged revenues each year in amounts at least equal to operations and
+maintenance expenses of the state agency that produces the pledged revenues,
+plus debt service on obligations, plus an additional amount that is reasonably
+required to obtain favorable terms for the obligations; or 
+
+       (d) In accordance
+with a formula established in the operative document governing obligations. The
+formula may provide for rates to be determined by reference to factors
+including, but not limited to: 
+
+       (A) Historical
+operating expenses; 
+
+       (B) Projected
+future operating expenses; 
+
+       (C) The funding
+of depreciation; 
+
+       (D) The costs of
+capital improvements; 
+
+       (E) The costs of
+complying with contractual requirements and covenants; 
+
+       (F) The costs of
+complying with regulatory requirements; 
+
+       (G) Reports of
+independent consultants regarding the required level of pledged revenues; 
+
+       (H) Debt service
+on the obligations; and 
+
+       (I) The funds
+needed to establish or maintain reserves required by law or contract and the
+funds needed to maintain an unencumbered carryforward fund balance or working
+capital to meet unanticipated expenses or fluctuations in revenues that may
+arise. 
+
+       (11) A rate
+covenant authorized by this section is a contract that binds the State of
+Oregon and is enforceable against the State of Oregon in accordance with the
+terms of the rate covenant. 
+
+       (12) The State
+Treasurer, or a related agency with the approval of the State Treasurer, may
+pledge the full faith and credit of the State of Oregon as security for the
+payment of general obligation bonds. A pledge of the full faith and credit
+authorized by this subsection does not, by itself, create a lien on the
+revenues or property of the state. [2007 c.783 §18] 
+
+   
+
+       286A.110
+Agreements for exchange of interest rates. (1) A related agency with the approval of the State
+Treasurer, or the State Treasurer on behalf of a related agency, may enter into
+agreements for exchange of interest rates with counterparties. Agreements for
+exchange of interest rates may be made to manage payment, interest rate, spread
+or similar exposure undertaken in connection with a related bond upon a
+determination by the related agency, or by the State Treasurer on behalf of the
+related agency, that the agreement benefits the State of Oregon. 
+
+       (2) Subject to
+covenants applicable to a related bond and the limitations of this section,
+payments required under an agreement for the exchange of interest rates by the
+related agency, or the State Treasurer on behalf of the related agency, may: 
+
+       (a) Be treated as
+interest payments on the related bond; 
+
+       (b) Be made from
+revenues or other moneys that are pledged or otherwise committed to pay the
+related bond; and 
+
+       (c) Rank in an
+order of priority of payment relative to the payment of the related bond as the
+related agency, or the State Treasurer on behalf of the related agency,
+determines. 
+
+       (3) In connection
+with entering into an agreement under this section, a related agency, or the
+State Treasurer on behalf of the related agency, may enter into a credit
+enhancement device for an agreement for exchange of interest rates. 
+
+       (4) An agreement
+for exchange of interest rates is subject only to the limitations of this
+section and is not subject to a limitation applicable to the related bond. 
+
+       (5) With the
+approval of the State Treasurer, a related agency may use moneys derived from
+the issuance and sale of bonds to pay termination payments due under an
+agreement entered into under this section. 
+
+       (6) A related
+agency, with the approval of the State Treasurer, may: 
+
+       (a) Create
+reserves to pay amounts due under an agreement for exchange of interest rates;
+and 
+
+       (b) Fund the
+reserves with moneys derived from the issuance and sale of bonds or from
+revenues or other moneys described in subsection (2)(b) of this section. [2007
+c.783 §10] 
+
+   
+
+       286A.118
+Termination payment of pass-through revenue bond borrower. With the approval of the State
+Treasurer, a related agency may lend moneys derived from an issuance and sale
+of bonds to a pass-through revenue bond borrower of proceeds from outstanding,
+previously issued pass-through revenue bonds for the purpose of paying a
+termination payment due under an agreement for exchange of interest rates
+entered into by the pass-through revenue bond borrower in relation to the
+outstanding, previously issued pass-through revenue bonds. [2009 c.538 §4; 2023
+c.174 §3] 
+
+   
+
+       286A.120
+Credit enhancement devices. 
+(1) In addition to authority conferred by law other than this section, a
+related agency, with the approval of the State Treasurer, or the State
+Treasurer may: 
+
+       (a) Enter into a
+credit enhancement device agreement in order to provide liquidity or security
+for bonds or for an agreement for exchange of interest rates. The credit
+enhancement device may be secured only by moneys that the State of Oregon may
+legally commit to secure payment of the bonds that are secured by the credit
+enhancement device or related to the agreement for exchange of interest rates. 
+
+       (b) Obtain a
+credit enhancement device providing additional security for: 
+
+       (A) The payment
+of all or a portion of amounts owing under bonds; 
+
+       (B) The purpose
+of funding, in lieu of cash, all or a portion of a debt service reserve
+established with respect to bonds; or 
+
+       (C) The payment
+of amounts owing under an agreement for exchange of interest rates. 
+
+       (2) The related
+agency, with the approval of the State Treasurer, or the State Treasurer may
+pledge as security for the obligations of the State of Oregon arising under or
+with respect to a credit enhancement device all or a portion of revenues
+pledged to the payment of the bonds related to the credit enhancement device. 
+
+       (3) The State
+Treasurer may issue a bond to the provider of a credit enhancement device to
+secure the obligations of the State of Oregon to pay amounts due to the
+provider. [2007 c.783 §8] 
+
+   
+
+       286A.123
+Agency purchase of own bonds. 
+(1) A related agency, with the approval of the State Treasurer, or the State
+Treasurer, on behalf of a related agency: 
+
+       (a) May bid for,
+purchase, hold, cause to be held in trust and remarket bonds issued by the
+State Treasurer on behalf of the related agency. 
+
+       (b) May not,
+except as provided in ORS 293.793 (2), bid for, purchase, hold, cause to be
+held in trust and remarket bonds issued by the State Treasurer on behalf of
+another state agency. 
+
+       (2) Except as
+otherwise provided in the operative documents, the purchase or acquisition of
+bonds under subsection (1) of this section does not cancel or extinguish the
+bonds unless the related agency elects in writing to cancel or extinguish the
+bonds. 
+
+       (3) In addition
+to other uses authorized by law, a related agency, or the State Treasurer on
+behalf of a related agency, may purchase bonds under subsection (1) of this
+section using moneys that are: 
+
+       (a) Deposited in
+a fund or account in the State Treasury for the use of the related agency or
+held by a trustee of the related agency; and 
+
+       (b) Appropriated
+or otherwise legally available to the related agency for repayment of the bonds
+or for payment of the costs of the related agency to administer the program
+under which the bonds were sold, including bond proceeds and reserves
+established for the bonds. 
+
+       (4) Within two
+business days after using the authority to purchase bonds under this section,
+the State Treasurer shall notify the legislative revenue committees, when the
+Legislative Assembly is in regular or special session, or the Legislative
+Revenue Officer and the Legislative Fiscal Officer, during the interim, of: 
+
+       (a) The amount
+and status of the bonds purchased by or on behalf of a related agency under
+this section; and 
+
+       (b) The current
+or anticipated interest rates applicable to the bonds. 
+
+       (5) Not later
+than February 1 of each year, the State Treasurer shall submit a report to the
+legislative revenue committees, when the Legislative Assembly is in regular or
+special session, or to the Legislative Revenue Officer and the Legislative
+Fiscal Officer, during the interim, describing: 
+
+       (a) The amount
+and status of bonds purchased during the previous year by or on behalf of
+related agencies under this section; and 
+
+       (b) The savings
+realized or costs incurred by related agencies from the purchase of bonds under
+this section. [2009 c.537 §2] 
+
+   
+
+       286A.130 Bond
+counsel services; financial advisory services; Public Contracting Code. (1) The State Treasurer or a
+related agency may enter into one or more agreements for bond counsel services
+for a period of not less than one year during any biennium in which there are
+bonds outstanding that were issued for the state agency or during any biennium
+in which the state agency expects the State Treasurer to issue bonds for an
+agency program. A state agency may not enter into an agreement for bond counsel
+services unless the State Treasurer and the Attorney General have reviewed and
+approved the terms and conditions of the agreement. Before approving an
+agreement, the State Treasurer shall consider the reputation, experience and
+credentials of the bond counsel, including the individuals expected to actually
+fulfill the contract work. 
+
+       (2) Except as
+provided in subsection (3) of this section, the appointment of bond counsel may
+not be construed as authorizing bond counsel to advise or represent the state
+on matters that are committed by statute to the Attorney General. 
+
+       (3) The services
+provided under a bond counsel agreement may include: 
+
+       (a) Advising a
+state agency or the State Treasurer concerning the legality of specific
+proposed taxable or tax-exempt bonds and the compliance of obligations with
+applicable law, including but not limited to federal securities and tax laws; 
+
+       (b) Issuing
+opinions to a state agency, the State Treasurer or other parties concerning the
+enforceability of, authority for and tax status of bonds, agreements for
+exchange of interest rates, credit enhancement devices or similar associated
+documents and on the lawful use of the proceeds of the bonds, as may be
+required by the demands of the marketplace for the bonds; 
+
+       (c) Advising a
+state agency or the State Treasurer on legal procedures and practices in the
+bond marketplace, including advice on the structuring and sale of bonds; 
+
+       (d) Preparing or
+assisting in the preparation of documents related to a specific issue of bonds,
+including but not limited to an authorizing resolution or declaration, a trust
+indenture, a prospectus, a preliminary official statement, an official statement,
+a bond sale notice, a bond form, a bid form, a bond purchase agreement, an
+agreement for exchange of interest rates, a credit enhancement device or a
+similar document necessary or desirable to sell bonds; 
+
+       (e) Advising a
+state agency or the State Treasurer concerning the maintenance of the tax
+status of specific bonds, compliance with any requirements for representations
+or disclosures relating to the bonds, compliance with any documents executed as
+part of the issuance of the bonds and federal laws related to bond programs
+that may be available to a state agency; 
+
+       (f) Advising a
+state agency or the State Treasurer concerning accounting, investment or
+administrative procedures recommended or required for compliance with federal
+or state securities or tax or rebate requirements relating to bonds that were
+issued for the agency or that the agency expects to issue; and 
+
+       (g) Advising and
+assisting a state agency or the State Treasurer in responding to an inquiry
+received from or an audit by a federal or state regulatory body concerning: 
+
+       (A) The tax
+status of interest paid on the bonds; 
+
+       (B) The marketing
+of the bonds; 
+
+       (C) Requirements
+of federal law related to the use of bond proceeds or the program for which the
+bonds were issued; or 
+
+       (D) Other matters
+within the jurisdiction of the federal or state regulatory body relating to
+bonds that were issued by the state agency. 
+
+       (4) In addition
+to entering into an agreement described in subsection (3) of this section, the
+State Treasurer or a related agency may appoint bond counsel by letter,
+certificate or otherwise, to provide the services described in subsection (3)
+of this section for an individual pass-through revenue bond sale. 
+
+       (5) The State
+Treasurer or, with the approval of the State Treasurer, a related agency may
+enter into an agreement with and retain the services of one or more providers
+of financial advisory services. When considering whether to enter into or
+approve an agreement with a provider of financial advisory services, before
+approving the agreement, the State Treasurer shall consider the reputation,
+experience and credentials of the adviser, including the individuals expected
+to actually fulfill the contract work. 
+
+       (6) Except for
+the expenses of bond counsel services provided under subsection (4) of this
+section for pass-through revenue bond sales, the related agency shall pay the
+expenses of any agreements entered into under this section and may use bond
+proceeds to pay those expenses. 
+
+       (7) The Public
+Contracting Code does not apply to agreements entered into under this section. [2007
+c.783 §20; 2023 c.174 §4] 
+
+   
+
+       286A.132
+Debt-related advisory services. 
+(1) In addition to authority conferred by law other than this section, the
+State Treasurer or, with the approval of the State Treasurer, a related agency
+may enter into an agreement with and retain the services of one or more: 
+
+       (a) Providers of
+investment advisory services or advisory services related to agreements for
+exchange of interest rates; 
+
+       (b) Providers of
+banking services; 
+
+       (c) Escrow
+agents; 
+
+       (d) Providers of
+fiscal or paying agent services; 
+
+       (e) Collateral
+custodians; 
+
+       (f) Providers of
+investment contracts; 
+
+       (g) Remarketing
+agents; or 
+
+       (h) Other
+bond-related or credit enhancement device-related agents or service
+professionals, or other persons with relevant expertise, to assist the State
+Treasurer or the related agency in the performance of the duties of the State
+Treasurer or the related agency under this chapter. 
+
+       (2) The related
+agency shall pay the expenses incurred in providing the services described in
+this section unless the related agency requires a recipient of bond sale
+proceeds to pay the expenses. 
+
+       (3) The Public
+Contracting Code does not apply to an agreement entered into under this
+section. 
+
+       (4) When the
+Oregon Constitution or a law of this state authorizes bond proceeds to be spent
+for a particular purpose, the authorization also includes authorization to
+spend bond proceeds for bond counsel, attorney, consultant, fiscal or paying
+agent, trustee or other professional fees and other expenses incurred by the
+related agency or the State Treasurer to authorize, issue, administer and repay
+the bonds, including fees payable to the State Treasurer. [2007 c.783 §21] 
+
+   
+
+       286A.140 State
+taxation of bond interest. 
+Except as provided in ORS 289.250, interest on all bonds of the State of Oregon
+is exempt from personal income tax under ORS chapter 316. [2007 c.783 §22; 2015
+c.548 §4] 
+
+   
+
+       286A.145
+Federal taxation of bond interest; interest rate subsidies; rules. (1) The State Treasurer or a
+related agency may enter into covenants for the benefit of owners of bonds that
+are intended to allow the bonds to bear interest that is excluded from gross
+income under the federal Internal Revenue Code or that is otherwise exempt from
+taxation by the United States. The State Treasurer or a related agency may
+adopt rules or procedures that are intended to facilitate compliance with those
+covenants, and may take any action that is required to comply with those
+covenants. Covenants authorized by this subsection include, but are not limited
+to, covenants to: 
+
+       (a) Pay any
+rebates of earnings or penalties to the United States; 
+
+       (b) Invest
+proceeds alone or in combination with other moneys in investments that have
+different maturities, yields or credit qualities than the state would acquire
+under the investment standards specified in ORS 293.721 and 293.726 and other
+similar laws, but only if those investments facilitate compliance with
+covenants described in this subsection; or 
+
+       (c) Restrict the
+expenditure of bond proceeds or restrict the operation of, or otherwise limit
+the use of, facilities that are financed with bonds. 
+
+       (2) When the
+State of Oregon receives interest rate subsidies from the United States in
+connection with bonds, the State Treasurer or the related agency, to the extent
+permitted by federal law, may: 
+
+       (a) Apply the
+subsidies to pay bonds of the related agency and credit the subsidies to an
+account that is used to pay bonds of the related agency; 
+
+       (b) Pledge the
+subsidies to secure bonds of the related agency; or 
+
+       (c) Use the
+subsidies to pay costs that would otherwise be paid with proceeds of bonds of
+the related agency and credit the subsidies to accounts that are used to pay
+the costs. [2007 c.783 §23; 2010 c.3 §6] 
+
+   
+
+       286A.160
+Exception to expenditure limits for repaying obligations; administrative
+limits; reports. 
+(1) Notwithstanding any law limiting expenditures of a state agency, for the
+purpose of repaying obligations of the state to obtain savings in total or
+periodic debt service payments, a law limiting expenditures does not apply to
+payments approved by the State Treasurer for administrative expenses, debt
+service or financing costs that are necessary or appropriate for the retirement
+or refunding of bonds unless the law limiting expenditures creates a specific
+exception to this section. 
+
+       (2) The Oregon
+Department of Administrative Services may establish administrative limitations
+on the payment and recording of expenditures made pursuant to subsection (1) of
+this section. 
+
+       (3) The Oregon
+Department of Administrative Services shall report incurred expenses and debt
+service savings resulting from actions taken under subsection (1) of this
+section that affect administrative expenses, debt service or financing costs
+paid with moneys out of the General Fund or lottery funds, within 90 days of
+taking action, to the Joint Committee on Ways and Means if the Legislative
+Assembly is in session or to the Emergency Board or to the Joint Interim
+Committee on Ways and Means during the interim between legislative sessions. [Formerly
+286.063; 2012 c.107 §20] 
+
+   
+
+       286A.185
+Cancellation, purchase or redemption of bonds; lost or destroyed evidence of
+bonds; rules. (1)
+The State Treasurer may adopt rules, or establish by contract or policy,
+procedures and requirements for the cancellation, purchase or redemption of
+bonds, the remittance of funds to pay bonds, or the replacement of lost or
+destroyed evidence of bonds or interest coupons. 
+
+       (2) If the State
+Treasurer decides: 
+
+       (a) To replace
+lost or destroyed evidence of bonds or coupons, or to make payment in lieu of
+replacement, the State Treasurer may require indemnity, deposit or other form
+of assurance or proof of ownership to ensure against conflicting, duplicative
+or fraudulent claims. The State Treasurer may charge a fee to the person
+seeking replacement or payment in lieu of replacement under this section, in an
+amount sufficient to reimburse the State Treasurer for costs incurred in
+providing replacement or payment under this subsection. 
+
+       (b) Not to
+replace or make payment with respect to a lost or destroyed bond or coupon, the
+person seeking replacement or payment under this section may appeal the
+determination as a review of an order other than a contested case under ORS
+183.484. [2007 c.783 §24] 
+
+   
+
+       286A.190
+Disclosure of bond ownership. 
+The records of bond ownership are not public records for purposes of ORS
+192.311 to 192.478 or other law governing the disclosure of information. [2007
+c.783 §25] 
+
+   
+
+       286A.195
+Financial audit of bond programs. 
+(1) The Secretary of State shall conduct a financial audit of the bond programs
+of each state agency at least annually. The Secretary of State shall publish
+the audit as soon as possible following the end of the audit period. 
+
+       (2) The Oregon
+Department of Administrative Services may, on an annual basis, exempt a bond
+program from the requirements of subsection (1) of this section. [2007 c.783 §26] 
+
+   
+
+       286A.200
+Administration of certain bond programs by Oregon Department of Administrative
+Services. (1) The
+Oregon Department of Administrative Services may, with respect to bonds
+described in subsection (2) of this section, administer bond programs and the
+transfer or disbursement of bond proceeds through intergovernmental agreements
+or grant or loan agreements containing terms and conditions the department
+determines are necessary or advisable to: 
+
+       (a) Protect any
+tax benefit related to the bonds; 
+
+       (b) Protect the
+State of Oregon from liability due to the failure of grantees or borrowers to
+comply with legal requirements related to the bonds, including requirements
+under the Internal Revenue Code; 
+
+       (c) Ensure that
+bond proceeds are used for authorized or intended purposes; 
+
+       (d) Ensure that
+adequate funds will be available for repayment of the bonds; or 
+
+       (e) Ensure
+compliance with state and federal law. 
+
+       (2) The
+department may exercise powers authorized under subsection (1) of this section
+with respect to: 
+
+       (a) Bonds issued
+under ORS 286A.560 to 286A.585 (lottery bonds); 
+
+       (b) Bonds issued
+under ORS 286A.710 to 286A.720 and Article XI-D of the Oregon Constitution
+(state power development); 
+
+       (c) Bonds issued
+under ORS 286A.760 to 286A.772 and Article XI-M of the Oregon Constitution
+(seismic rehabilitation of public education buildings); 
+
+       (d) Bonds issued
+under ORS 286A.780 to 286A.792 and Article XI-N of the Oregon Constitution
+(seismic rehabilitation of emergency services buildings); 
+
+       (e) Bonds issued
+under ORS 286A.796 to 286A.806 and Article XI-P of the Oregon Constitution
+(school district capital costs); 
+
+       (f) Bonds issued
+under ORS 286A.816 to 286A.826 and Article XI-Q of the Oregon Constitution
+(property owned or operated by state); and 
+
+       (g) Bonds issued
+under ORS 286A.830 to 286A.863 and Article XI-F(1) or Article XI-G of the
+Oregon Constitution (higher education). [2017 c.9 §5] 
+
+   
+
+       286A.250 State
+Debt Policy Advisory Commission; membership; compensation; quorum; meetings;
+personnel; consultation with other agencies. (1) There is established a State Debt Policy Advisory
+Commission, consisting of five members. 
+
+       (2) The State
+Treasurer and the Director of the Oregon Department of Administrative Services
+shall serve as ex officio members of the commission. One member of the
+commission must be a member of the Senate appointed by the President of the
+Senate. One member of the commission must be a member of the House of
+Representatives appointed by the Speaker of the House. One member of the
+commission must be a public member, knowledgeable on matters of public finance,
+appointed by the Governor from among those persons recommended by the State
+Treasurer. 
+
+       (3) The term of
+an appointed member is two years, but an appointed member serves at the
+pleasure of the appointing authority. Before the expiration of the term of an
+appointed member, the appointing authority shall appoint a successor. If there
+is a vacancy for any reason in the office of an appointed member, the
+appointing authority shall make an appointment to become immediately effective
+for the unexpired term. 
+
+       (4) A member of
+the commission is entitled to compensation and expenses as provided in ORS
+292.495. 
+
+       (5) The State
+Treasurer shall serve as chairperson of the commission, with the duties and
+powers necessary for the performance of that office that the commission
+determines appropriate. 
+
+       (6) A majority of
+the members of the commission constitutes a quorum for the transaction of
+business. 
+
+       (7) The
+commission shall meet at least once every year at a place and time determined
+by the commission. The commission also shall meet at other times and places
+specified by the call of the chairperson or of a majority of the members of the
+commission. 
+
+       (8) The office of
+the State Treasurer shall provide the commission with office space and clerical
+and other administrative support. 
+
+       (9) When
+preparing documents or reports or other materials for or by the State Debt
+Policy Advisory Commission, and prior to the release of the documents, reports
+or other materials to the public, the State Treasurer shall consult and share
+the documents, reports or other materials with the Oregon Department of
+Administrative Services and the Legislative Fiscal Office. [Formerly 286.550;
+2015 c.40 §1; 2016 c.118 §5] 
+
+   
+
+       Note: 286A.250 and 286A.255 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 286A or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation. 
+
+   
+
+       286A.255
+Functions and duties of commission. 
+The State Debt Policy Advisory Commission shall advise the Governor and the
+Legislative Assembly regarding policies and actions that enhance and preserve
+the state’s credit rating and maintain the future availability of low-cost
+capital financing. In carrying out this function, the commission shall at least
+annually prepare a report showing the consolidated bond profile of this state.
+The report must include: 
+
+       (1) The total
+amount of outstanding bonds for the most recently concluded fiscal year. 
+
+       (2) A forecast
+for at least the next six years of the state’s borrowing capacity targets by
+repayment source that is based on the policies and actions established under
+this section and that is consistent with the most recently published revenue
+forecast by the Oregon Department of Administrative Services. 
+
+       (3) A calculation
+of the state’s net remaining borrowing capacity by repayment source. [Formerly
+286.555; 2015 c.40 §2] 
+
+   
+
+       Note: See note under 286A.250. 
+
+   
+
+ LOTTERY BONDS 
+
+   
+
+       286A.560
+Definitions for ORS 286A.560 to 286A.585 and 327.700 to 327.711. As used in ORS 286A.560 to
+286A.585 and 327.700 to 327.711, unless the context requires otherwise: 
+
+       (1) “Appropriated
+funds” for a particular fiscal year means any moneys, other than unobligated
+net lottery proceeds, that are specifically appropriated or otherwise
+specifically made available by the Legislative Assembly or the Emergency Board
+for a fiscal year to replenish reserves established as additional security for
+lottery bonds pursuant to the authority granted in ORS 286A.580 (6). 
+
+       (2) “Bond-related
+costs” means: 
+
+       (a) The costs and
+expenses of issuing, administering and maintaining lottery bonds and the
+lottery bond program, including but not limited to paying or redeeming lottery
+bonds, paying amounts due in connection with credit enhancements or any
+instruments authorized by ORS 286A.580 (6) and paying the administrative costs
+and expenses of the State Treasurer and the Oregon Department of Administrative
+Services, including costs of consultants or advisors retained by the State
+Treasurer or the Oregon Department of Administrative Services for the lottery
+bonds or the lottery bond program; 
+
+       (b) The costs of
+funding any lottery bond reserves; 
+
+       (c) Capitalized
+interest for lottery bonds; 
+
+       (d) Rebates or
+penalties due to the United States in connection with lottery bonds; and 
+
+       (e) Any other
+costs or expenses that the State Treasurer or the Director of the Oregon
+Department of Administrative Services determines are necessary or desirable in
+connection with issuing lottery bonds or maintaining the lottery bond program. 
+
+       (3) “Lottery
+bonds” means: 
+
+       (a) The state
+park lottery bonds authorized by ORS 390.060 to 390.067, the infrastructure
+lottery bonds authorized by ORS 285B.530 to 285B.548 and the education lottery
+bonds authorized by ORS 327.700 to 327.711; 
+
+       (b) Any other
+bonds payable from the revenues of the Oregon State Lottery unless the
+legislation authorizing those bonds expressly provides that those bonds may not
+be issued under ORS 286A.560 to 286A.585; and 
+
+       (c) Any refunding
+lottery bonds. 
+
+       (4) “Lottery Bond
+Administrative Fund” means the fund created by ORS 286A.573. 
+
+       (5) “Lottery Bond
+Fund” means the fund created by ORS 286A.570. 
+
+       (6) “Lottery bond
+program” means a financing program authorized by: 
+
+       (a) ORS 285B.530
+to 285B.548, 327.700 to 327.711 or 390.060 to 390.067; or 
+
+       (b) Any other Act
+of the Legislative Assembly authorizing the issuance of bonds that are payable
+from the revenues of the Oregon State Lottery, unless the legislation
+authorizing those bonds expressly provides that those bonds may not be issued
+under ORS 286A.560 to 286A.585. 
+
+       (7) “Refunding
+lottery bonds” means any bonds issued for the purpose of refunding any lottery
+bonds. 
+
+       (8) “Unobligated
+net lottery proceeds” means all revenues derived from the operation of the
+Oregon State Lottery except for: 
+
+       (a) The revenues
+used for the payment of prizes and expenses of the Oregon State Lottery as
+provided in section 4 (4)(d), Article XV of the Oregon Constitution, and ORS
+461.500 and 461.510; and 
+
+       (b) The revenues
+required to be allocated to pay the Westside lottery bonds and any bonds issued
+to refund the Westside lottery bonds, to fund reserves for any of those bonds
+and to pay related costs of the Department of Transportation. 
+
+       (9) “Westside
+lottery bonds” means the bonds issued by this state under the authority granted
+in ORS 391.140 that, notwithstanding ORS 267.334, 285B.419, 285B.422, 285B.482,
+285B.530 to 285B.548, 286A.560 to 286A.585, 327.700 to 327.711 and 390.060 to
+390.067, shall have a claim on lottery funds that is superior to the claim of
+the lottery bonds authorized by ORS 286A.560 to 286A.585. [Formerly 286.560;
+2009 c.821 §17] 
+
+   
+
+       286A.563
+Purposes; nature of lottery bonds. 
+(1) The Legislative Assembly declares that the purpose of ORS 286A.560 to
+286A.585 is to combine previously enacted legislation authorizing lottery bonds
+into a single Act that provides uniform administrative procedures for all
+lottery bonds issued by the State of Oregon. 
+
+       (2) The lottery
+bonds issued under ORS 286A.560 to 286A.585 shall be special obligations of the
+State of Oregon that are payable solely from unobligated net lottery proceeds,
+amounts available in the Lottery Bond Fund and in any reserve accounts established
+for lottery bonds under ORS 286A.560 to 286A.585 and any appropriated funds.
+The faith and credit of the State of Oregon or any of its taxing power shall
+not be pledged or committed to the payment of lottery bonds or any other
+commitment of the State of Oregon authorized by ORS 286A.560 to 286A.585. [Formerly
+286.563] 
+
+   
+
+       286A.566
+Requirements for legislation authorizing lottery bonds. (1) Any legislation authorizing
+issuance of lottery bonds under ORS 286A.560 to 286A.585 shall: 
+
+       (a) State the
+purposes for which the proceeds of lottery bonds may be spent; 
+
+       (b) Contain
+findings that those uses are lawful uses of lottery revenues; 
+
+       (c) Indicate the
+amount of lottery bonds that may be issued under the legislation; 
+
+       (d) Specify the
+fund into which the net proceeds of those lottery bonds shall be deposited; and 
+
+       (e) Provide for
+the payment of the bond-related costs for the lottery bonds. 
+
+       (2) Unless
+specifically prohibited by the legislation authorizing lottery bonds: 
+
+       (a) Any agency or
+other entity holding net proceeds of lottery bonds shall, upon the written
+request of the Director of the Oregon Department of Administrative Services,
+transfer to the Oregon Department of Administrative Services for deposit in the
+Lottery Bond Administrative Fund the amounts that the director states in the
+request are reasonably required to pay for bond-related costs that are
+allocable to those net proceeds. 
+
+       (b) The agencies
+or other entities receiving proceeds of lottery bonds shall, if so directed by
+the Oregon Department of Administrative Services, take any action specified by
+the Oregon Department of Administrative Services that is necessary to maintain the
+excludability of lottery bond interest from gross income under the Internal
+Revenue Code. [Formerly 286.566] 
+
+   
+
+       286A.570
+Lottery Bond Fund; purposes. 
+(1) The Lottery Bond Fund is established in the State Treasury, separate and
+distinct from the General Fund. The amounts of unobligated net lottery proceeds
+described in ORS 286A.576 (2)(a) and (b) and any appropriated funds and
+investment earnings of the Lottery Bond Fund shall be credited to the Lottery
+Bond Fund. The State Treasurer may establish reserves for lottery bonds as
+provided in ORS 286A.580 (6). The reserves shall be credited to such account in
+the Lottery Bond Fund as the State Treasurer may designate. 
+
+       (2) The amounts
+credited to the Lottery Bond Fund are continuously appropriated only for the
+purpose of paying, when due, the principal of and the interest and premium, if
+any, on outstanding lottery bonds, funding lottery bond reserves and paying
+amounts due in connection with any instrument authorized by ORS 286A.580 (6). 
+
+       (3) The moneys in
+the Lottery Bond Fund shall be used and applied solely to pay, when due, the
+principal of and the interest and premium, if any, on any lottery bonds, to
+fund reserves and to pay amounts due under instruments authorized by ORS
+286A.580 (6). [Formerly 286.570] 
+
+   
+
+       286A.573
+Lottery Bond Administrative Fund; purposes. The Lottery Bond Administrative Fund is established
+in the State Treasury, separate and distinct from the General Fund. The amounts
+of unobligated net lottery proceeds specified in ORS 286A.576 (2)(c), the
+proceeds of any lottery bonds issued to pay bond-related costs and the
+investment earnings on amounts in the Lottery Bond Administrative Fund shall be
+credited to the Lottery Bond Administrative Fund. All moneys credited from time
+to time to the Lottery Bond Administrative Fund, including any investment earnings
+thereon, are appropriated continuously to the Oregon Department of
+Administrative Services only for payment of bond-related costs. Amounts in the
+Lottery Bond Administrative Fund shall be disbursed upon the written request of
+the Director of the Oregon Department of Administrative Services. [Formerly
+286.573] 
+
+   
+
+       286A.576
+Allocation of lottery moneys for lottery bonds; priorities. (1) Subject only to the
+availability of unobligated net lottery proceeds, in each fiscal period
+established by the Oregon Department of Administrative Services in which
+lottery bonds are outstanding, there shall be allocated, in accordance with a
+schedule determined by the department, from the Administrative Services
+Economic Development Fund created by ORS 461.540 or, if unobligated net lottery
+proceeds in that fund are insufficient, from any other fund or account of this
+state that contains unobligated net lottery proceeds, an amount of unobligated
+net lottery proceeds that is sufficient: 
+
+       (a) To pay all
+lottery bond principal, interest and premium, if any, that is scheduled to be
+paid in that fiscal period; 
+
+       (b) To restore
+the balance in any reserve account for lottery bonds to the level the state has
+covenanted to maintain in the account under ORS 286A.580 (6), including any
+amounts due under an instrument authorized by ORS 286A.580 (6); and 
+
+       (c) To pay
+bond-related costs that will be due in that fiscal period. 
+
+       (2) The amounts
+of unobligated net lottery proceeds allocated pursuant to subsection (1) of
+this section shall be transferred to the following funds and accounts in the
+following order of priority: 
+
+       (a) First, there
+shall be transferred to the Lottery Bond Fund an amount of unobligated net
+lottery proceeds that, when added to any amounts credited to the Lottery Bond
+Fund that are available for such purpose, will be sufficient to pay all amounts
+of lottery bond principal, interest and premium scheduled to be paid in that
+fiscal period; 
+
+       (b) Second, if
+the balances in any reserve accounts for lottery bonds are less than the
+amounts the state has covenanted to maintain in those reserve accounts, there
+shall be transferred to the Lottery Bond Fund for credit to those reserve
+accounts amounts of unobligated net lottery proceeds sufficient to restore the
+balances in those reserve accounts to the levels the state has covenanted to
+maintain; and 
+
+       (c) Third, any
+remaining amount shall be transferred to the Lottery Bond Administrative Fund. 
+
+       (3)
+Notwithstanding any other provision of law, in accordance with Article XV,
+section 4 (4), of the Oregon Constitution, the annual allocations of
+unobligated net lottery proceeds made by this section and the transfers of
+unobligated net lottery proceeds required to be made by this section shall be
+satisfied and credited from the first unobligated net lottery proceeds received
+by this state before any other allocation, appropriation or disbursement of the
+earnings of the unobligated net lottery proceeds is made in the fiscal period. 
+
+       (4) The
+percentages of revenues of the Oregon State Lottery that are dedicated for
+particular purposes under Article XV, section 4 (4), of the Oregon
+Constitution, shall be calculated without deducting from the total lottery
+revenues the amount of unobligated net lottery proceeds that are required to
+pay lottery bonds. 
+
+       (5) If there are
+not sufficient revenues of the Oregon State Lottery to pay lottery bonds and to
+satisfy the percentage dedications set forth in the Oregon Constitution, the
+State Treasurer shall, before issuing any series of lottery bonds, cause a
+projection of unobligated net lottery proceeds and lottery bond debt service to
+be prepared. The State Treasurer shall not issue a series of lottery bonds if
+the projection indicates that there will not be sufficient proceeds of the
+Oregon State Lottery to satisfy the percentage dedications of Article XV,
+section 4 (4), of the Oregon Constitution, and to leave unobligated net lottery
+proceeds in amounts at least equal to the debt service on all lottery bonds,
+including the series proposed to be issued. However, if at some time in the
+future a conflict arises because of a decline in revenues of the Oregon State
+Lottery, unobligated net lottery proceeds shall be allocated and applied first
+to pay lottery bonds, and the remaining net revenues of the Oregon State Lottery
+shall be divided pro rata among the constitutionally dedicated uses. 
+
+       (6)
+Notwithstanding any other provision of law, when the Legislative Assembly
+enacts laws granting pledges, making dedications or making appropriations of
+net proceeds of the Oregon State Lottery for purposes other than payment of
+lottery bonds, all such pledges, dedications and appropriations, whenever
+granted or made, shall be subordinate to the pledges and dedications of
+unobligated net lottery proceeds for lottery bonds. [Formerly 286.576; 2015
+c.20 §1] 
+
+   
+
+       286A.578
+Litigation challenging legality of Oregon State Lottery. (1) Lottery bonds may be issued
+pursuant to ORS 286A.580 without regard to any litigation challenging the
+legality of the Oregon State Lottery. Lottery bonds issued pursuant to ORS
+286A.580 are valid and binding obligations of the State of Oregon that are
+payable only from amounts pledged under ORS 286A.580 (7) or from appropriated
+funds, even if the Oregon State Lottery is partially or wholly invalidated. In
+the event the lottery is invalidated, the Oregon Department of Administrative
+Services shall request the Legislative Assembly or, if the Legislative Assembly
+is not in session, the Emergency Board to provide appropriated funds pursuant
+to ORS 286A.580 (6). 
+
+       (2) By enacting
+this section, the Legislative Assembly acknowledges its current intention to
+provide appropriated funds if amounts are certified by the Director of the
+Oregon Department of Administrative Services under ORS 286A.580, but the
+Legislative Assembly or the Emergency Board does not have a legal obligation to
+provide appropriated funds. [Formerly 286.578] 
+
+   
+
+       286A.580
+Issuance of lottery bonds; refunding bonds; bond covenants; reserves for bonds;
+appropriation to maintain reserves; credit enhancements. (1) The State Treasurer, at the
+request of the Director of the Oregon Department of Administrative Services,
+may issue lottery bonds from time to time to finance any lottery bond program
+and to pay costs of issuing lottery bonds and administering the lottery bond
+program, and the State Treasury may be paid for all bond-related costs the
+State Treasury incurs. 
+
+       (2) Lottery bond
+proceeds and unobligated net lottery proceeds may be used to pay bond-related
+costs. 
+
+       (3) In addition
+to lottery bonds for any lottery bond program, the State Treasurer may, at the
+request of the affected agency or the Oregon Department of Administrative
+Services, issue one or more series of refunding lottery bonds. The refunding
+lottery bonds shall be structured so that the amount required to pay those
+bonds in each year does not exceed the amount of unobligated net lottery
+proceeds that could have been committed to pay the lottery bonds that are
+refunded. Refunding lottery bonds shall be issued in such amount as the State
+Treasurer determines is necessary or appropriate in order to: 
+
+       (a) Pay or
+defease the principal of and the interest and redemption premium, if any, on
+the bonds to be refunded; and 
+
+       (b) Pay any
+bond-related costs related to the refunding lottery bonds. 
+
+       (4) All lottery
+bonds issued under this section shall be payable from: 
+
+       (a) The amount
+pledged for payment under subsection (7) of this section; and 
+
+       (b) Any
+appropriated funds. 
+
+       (5) The lottery
+bonds shall not be general obligations of this state and shall not be secured
+by or payable from any funds or assets of this state other than the amounts
+pledged for payment or security and any appropriated funds. The Legislative
+Assembly shall not be under any legal compulsion or obligation to provide any
+appropriated funds and shall not be liable to any party for any failure to
+provide appropriated funds. All lottery bonds issued under ORS 286A.560 to
+286A.585 shall contain a statement that this state is not obligated to pay
+lottery bond principal, interest or premium thereon from any source other than
+the amounts pledged for payment and any appropriated funds, and that the full
+faith and credit or the taxing power of the State of Oregon are not pledged to
+the payment of lottery bond principal, interest or premium. 
+
+       (6) The State
+Treasurer may establish reserves for lottery bonds. The reserves may be in the
+form of cash, investments, surety bonds, municipal bond insurance, lines of
+credit, letters of credit or other similar instruments. The State Treasurer, on
+behalf of the State of Oregon, may covenant to maintain the reserves at
+particular levels, but solely from the amounts that may be pledged to pay
+lottery bonds under subsection (7) of this section. If the reserves are drawn
+down below the level that this state has covenanted to maintain, the Director
+of the Oregon Department of Administrative Services shall promptly certify to
+the Legislative Assembly or, if the Legislative Assembly is not then in
+session, to the Emergency Board, the amount needed to restore the reserves to
+their required level. The Legislative Assembly or the Emergency Board may
+provide appropriated funds in the amount certified by the Director of the
+Oregon Department of Administrative Services. Any appropriated funds so
+provided shall be used immediately to restore the balance in the reserves
+established for the lottery bonds. The State of Oregon may enter into covenants
+with the owners of the lottery bonds that specify the timing and content of the
+director’s certification. By enacting this subsection, the Legislative Assembly
+acknowledges its current intention to provide appropriated funds in the amount
+certified by the director under this subsection. However, the Legislative
+Assembly or the Emergency Board shall not have any legal obligation to provide
+any appropriated funds. 
+
+       (7)
+Notwithstanding any other provision of law, the State Treasurer may pledge all
+or any portion of the unobligated net lottery proceeds, amounts in the Lottery
+Bond Fund and any unexpended lottery bond proceeds to pay lottery bonds and to
+pay amounts due in connection with any credit enhancement or any instrument
+authorized by subsection (6) of this section. The lien of such pledge shall be
+valid and binding immediately upon delivery by the state of the lottery bonds,
+credit enhancement agreement or instrument secured by the pledge. The amounts
+so pledged shall be immediately subject to the lien of the pledge upon receipt
+of the amounts by this state regardless of when or whether they are allocated
+or transferred to the Lottery Bond Fund or the Lottery Bond Administrative Fund
+and regardless of whether there was physical delivery, filing or other act.
+Except to the extent provided in the pledge, the lien of the pledge shall be
+superior to all other claims, liens and appropriations of any kind. The State
+Treasurer may provide that lottery bonds may be issued in different series and
+that each series may be secured by a lien on, and pledge of, the unobligated
+net lottery proceeds that is superior to, subordinate to, or on a parity with,
+the lien of the pledge securing other series of lottery bonds. Nothing in this
+section shall be construed to limit the powers granted in any other part of ORS
+286A.560 to 286A.585. 
+
+       (8) Any covenants
+made under this section for the benefit of owners of lottery bonds shall
+constitute contracts between the State of Oregon and the owners of lottery
+bonds. The State Treasurer, or the Director of the Oregon Department of
+Administrative Services with the consent of the State Treasurer, may, on behalf
+of the State of Oregon and in addition to the covenants authorized by
+subsection (6) of this section, make the following covenants for the benefit of
+the owners of lottery bonds and any providers of credit enhancement or
+instruments authorized by subsection (6) of this section: 
+
+       (a) Except as
+permitted by a pledge made under subsection (7) of this section, this state
+shall not create any lien or encumbrance on the unobligated net lottery
+proceeds that is superior to the liens of the pledges authorized by subsection
+(7) of this section. 
+
+       (b) Subject only
+to the availability of unobligated net lottery proceeds, the State of Oregon
+shall budget and appropriate in each fiscal year an amount of unobligated net
+lottery proceeds that, when added to other funds lawfully budgeted and
+appropriated and available for the purpose, will be sufficient: 
+
+       (A) To pay in
+full the principal, interest and premium due and to become due on all
+outstanding lottery bonds in the fiscal year; 
+
+       (B) To maintain
+the required balance in any reserves established for lottery bonds; and 
+
+       (C) To pay
+amounts due to the providers of credit enhancement for lottery bonds or
+instruments authorized by subsection (6) of this section. 
+
+       (c) This state
+shall apply the unobligated net lottery proceeds and any other amounts so
+budgeted and appropriated for those purposes. 
+
+       (d) This state
+shall continue to operate the Oregon State Lottery until all lottery bonds are
+paid or defeased. 
+
+       (9) In connection
+with the issuance of any lottery bonds, the State Treasurer may establish such
+accounts and subaccounts within the Lottery Bond Fund that the State Treasurer
+determines are necessary or appropriate. In addition, the State Treasurer or the
+Director of the Oregon Department of Administrative Services may, on behalf of
+this state, enter into any agreements that the State Treasurer determines are
+necessary or appropriate to issue lottery bonds and carry out the provisions of
+ORS 286A.560 to 286A.585 and all legislation authorizing lottery bond programs. 
+
+       (10) If the State
+Treasurer determines that the acquisition is cost-effective, the State
+Treasurer may acquire a municipal bond insurance policy, letter of credit, line
+of credit, surety bond or other credit enhancement device for lottery bonds,
+and may enter into any related agreements. 
+
+       (11) The State
+Treasurer may provide that all or any portion of the Lottery Bond Fund, the
+Lottery Bond Administrative Fund or any accounts in either fund shall be held
+by a trustee, may enter into agreements with the trustee regarding the use and
+application of the amounts held in those funds and accounts and may transfer
+amounts credited to those funds and accounts to the trustee. [Formerly 286.580] 
+
+   
+
+       286A.585
+Lottery bonds for community sports facilities; use of proceeds of bonds. (1) Pursuant to ORS 286A.560 to
+286A.585 and subject to future legislative approval, lottery bonds may be
+issued to make grants or loans to Oregon cities to fund projects for the
+reconstruction, renovation or development of community sports facilities in
+order to make the facilities suitable for use by a major league baseball team
+if a city is selected as an expansion site by major league baseball or if a
+major league baseball team agrees to relocate to a city. 
+
+       (2) The use of
+lottery bond proceeds is authorized based on the following findings: 
+
+       (a) The financial
+assistance to cities will assist in the construction, improvement and expansion
+of infrastructure and community facilities that comprise the physical
+foundation for commercial activity and provide the basic framework for
+continued and expanded economic opportunities and quality communities
+throughout Oregon. 
+
+       (b) Such
+financial assistance to cities will therefore promote economic development
+within this state, and thus the use of net proceeds derived from the operation
+of the Oregon State Lottery to pay debt service on lottery bonds issued under
+this section to provide such financial assistance to cities is an appropriate
+use of state lottery funds under section 4, Article XV of the Oregon
+Constitution, and ORS 461.510. 
+
+       (3) Lottery bonds
+issued pursuant to this section shall be issued only at the request of the
+Director of the Oregon Business Development Department. 
+
+       (4) The net
+proceeds of lottery bonds issued pursuant to this section shall be deposited in
+the Economic Infrastructure Project Fund established by ORS 285B.551. The
+Director of the Oregon Business Development Department shall allocate the
+moneys deposited in the Economic Infrastructure Project Fund for the purpose
+described in this section in accordance with the priorities developed by the
+Oregon Business Development Commission in accordance with ORS 285A.020. 
+
+       (5) The proceeds
+of lottery bonds issued pursuant to this section shall be used only for the
+purposes set forth in this section and for bond-related costs. [Formerly
+286.585] 
+
+   
+
+ PRIVATE ACTIVITY BONDS 
+
+   
+
+       286A.605
+Definitions for ORS 286A.605 to 286A.625. As used in ORS 286A.605 to 286A.625: 
+
+       (1) “Issuer”
+means an entity that may issue private activity bonds that are qualified bonds
+on which the interest is exempt from federal taxation. 
+
+       (2) “Private
+activity bonds” has the meaning given in section 141 of the Internal Revenue
+Code. [Formerly 286.605] 
+
+   
+
+       286A.615
+Private Activity Bond Committee; purpose of private activity bonding;
+suballocation; rules. 
+(1) The Private Activity Bond Committee is established. It shall consist of the
+State Treasurer or the designee of the State Treasurer, one representative from
+the Oregon Department of Administrative Services and one public representative
+appointed to serve at the pleasure of the Governor. 
+
+       (2) The State
+Treasurer, or the State Treasurer’s designee, shall serve as chair of the
+committee. 
+
+       (3) The purpose
+of private activity bonding in this state is to maximize the economic benefits
+of private activity bonding to the citizens of this state. The committee shall
+adopt by rule standards for amounts allocated to the committee for further
+allocation for economic development, housing, education, redevelopment, public
+works, energy, waste management, waste and recycling collection, transportation
+and other activities that the committee determines will benefit the citizens of
+this state. In developing standards, the committee shall: 
+
+       (a) Survey the
+expected need for private activity bond allocations at least once each year; 
+
+       (b) Develop
+strategies for reserving and allocating the limit that are designed to maximize
+the availability of tax exempt financing among competing sectors of the Oregon
+economy; and 
+
+       (c) Ensure that
+the standards include but are not limited to standards that: 
+
+       (A) Support
+projects that increase the number of family wage jobs in this state. 
+
+       (B) Promote
+economic recovery in small cities heavily dependent on a single industry. 
+
+       (C) Emphasize
+development in underdeveloped rural areas of this state. 
+
+       (D) Utilize
+educational resources available at public universities listed in ORS 352.002. 
+
+       (E) Support
+development of the state’s small businesses, especially minority-owned
+businesses, woman-owned businesses, veteran-owned businesses and emerging small
+businesses, as those terms are defined in ORS 200.005. 
+
+       (F) Encourage use
+of Oregon’s human and natural resources in endeavors that harness Oregon’s
+economic comparative advantages. 
+
+       (4) The state
+private activity bond volume cap allocated to the Private Activity Bond
+Committee as provided in ORS 286A.620 shall be allocated and reallocated among
+issuers by the Private Activity Bond Committee as follows: 
+
+       (a) Any amounts
+not reserved to an issuer or a class of issuers under the authorization adopted
+by the Legislative Assembly under ORS 286A.035 shall be allocated or
+reallocated by the committee under rules adopted under subsection (3) of this
+section. 
+
+       (b) Any amounts
+provided for in the authorization adopted by the Legislative Assembly under ORS
+286A.035 that are unused shall be carried forward for use as provided by rules
+adopted under subsection (3) of this section. 
+
+       (c) The rules
+adopted by the committee shall limit the period of time for which an allocation
+of private activity bonding authority is effective. The rules shall ensure that
+allocations made during a calendar year are used during that calendar year or
+that the unused amount of the allocation is reallocated or carried forward. 
+
+       (5) Amounts
+allocated to a state agency on behalf of which the State Treasurer may issue
+bonds may be suballocated by the state agency, at the state agency’s
+discretion, through an assignment of the allocation to another issuer, provided
+that the issuer receiving the assignment shall: 
+
+       (a) Use the
+allocation for the same category of private activity bond projects for which
+the allocation was made; 
+
+       (b) Use the
+allocation during the calendar year for which the allocation was made; and 
+
+       (c) Otherwise
+comply with any terms and conditions imposed in connection with the allocation
+by the committee or the Legislative Assembly or by rule of the state agency
+making the assignment. [Formerly 286.615; 2011 c.637 §95; 2015 c.565 §18; 2023
+c.174 §2; 2023 c.497 §19] 
+
+   
+
+       286A.620
+Private activity bond volume cap. 
+The Legislative Assembly may allocate the amount of private activity bond
+volume cap among state agencies and the Private Activity Bond Committee for the
+two calendar years that begin in a biennium. Any volume cap that the state
+receives that is not allocated by the Legislative Assembly may be allocated by
+the Private Activity Bond Committee. [2007 c.783 §31] 
+
+   
+
+       286A.625 State
+Treasurer to maintain records. 
+The State Treasurer shall maintain the official state private activity bond
+volume cap records and provide administrative support to the Private Activity
+Bond Committee. [Formerly 286.645] 
+
+   
+
+       286A.630
+Reallocation of private activity bond cap; rules. (1) The Legislative Assembly finds
+that the American Recovery and Reinvestment Act of 2009 (P.L. 111-5) provides
+that the State of Oregon may receive, allocate and reallocate the authority to
+issue certain kinds of state and local government bonds that qualify for tax
+credits, federal subsidies or exclusion of bond interest from gross income
+under the United States Internal Revenue Code of 1986, as amended. 
+
+       (2) As described
+in subsections (3) to (6) of this section, state agencies and the Private
+Activity Bond Committee may allocate and reallocate or take any additional
+actions that are desirable to maximize the benefits of bonding programs created
+or expanded by the American Recovery and Reinvestment Act of 2009 (P.L. 111-5). 
+
+       (3) The
+Department of Education, with the approval of the Governor, may allocate,
+reallocate and otherwise manage this state’s qualified school construction
+bonding authority. 
+
+       (4) The Oregon
+Business Development Department may allocate, reallocate and otherwise manage
+this state’s recovery zone economic development bonding authority and this
+state’s recovery zone facility bonding authority. 
+
+       (5) The State
+Department of Energy may allocate, reallocate and otherwise manage this state’s
+qualified energy conservation bonding authority. 
+
+       (6) The Private
+Activity Bond Committee may allocate, reallocate and otherwise manage any
+bonding authority that is created or expanded by the American Recovery and
+Reinvestment Act of 2009 (P.L. 111-5) if that responsibility is not assigned to
+a state agency by this section, or if an agency that is assigned that
+responsibility requests the Private Activity Bond Committee to allocate that
+authority on behalf of that agency. 
+
+       (7) The
+Department of Education, the Oregon Business Development Department, the State
+Department of Energy and the Private Activity Bond Committee may adopt rules to
+implement the provisions of this section including, but not limited to, rules
+prescribing: 
+
+       (a) Application
+processes and requirements to receive a subsequent allocation or reallocation; 
+
+       (b) Standards
+upon which an allocation or reallocation may be based; and 
+
+       (c) Any
+conditions that must be met to receive an allocation or reallocation of the
+bonding authority or to receive the benefits of such bonding authority. [2009
+c.885 §12] 
+
+   
+
+ BACCALAUREATE BONDS 
+
+   
+
+       286A.700
+Authority to issue baccalaureate bonds. (1) As used in this section: 
+
+       (a) “Oregon
+Baccalaureate Bonds” means bonds of the State of Oregon issued by the State
+Treasurer at the request of the Higher Education Coordinating Commission that
+are designated as baccalaureate bonds. 
+
+       (b) “Post-secondary
+education” means training and instruction provided by fully accredited public
+universities or private institutions of higher learning, community colleges and
+post-high-school career schools. 
+
+       (2) The
+Legislative Assembly encourages citizens of the State of Oregon to avail
+themselves of post-secondary education opportunities. 
+
+       (3) The
+Legislative Assembly finds: 
+
+       (a) For the
+benefit of its citizens, the state supports a system of common schools, public
+universities and community colleges. 
+
+       (b) A
+post-secondary education advances a citizen’s ability to pursue life, liberty
+and happiness through a wide range of employment opportunities. 
+
+       (c) A
+well-educated citizenry contributes to the economic well-being of the state and
+nation. 
+
+       (d) A
+well-trained and skilled citizenry enhances economic development of the state. 
+
+       (e) While
+students have just begun their education upon completion of a formal education,
+a lifetime pursuit of learning contributes to a well-informed citizenry and to
+Oregon’s cherished quality of life. 
+
+       (f) Citizens
+educated in Oregon are more likely to pursue careers in Oregon. 
+
+       (g) It is in the
+interest of this state to encourage its citizens to plan and save for a
+post-secondary education. 
+
+       (h) An Oregon
+Baccalaureate Bond program that provides citizens an opportunity to save for a
+post-secondary education for their children, themselves or any citizen is in
+the social and economic interest of the State of Oregon. 
+
+       (i) A systematic
+way to save for post-secondary education can assist all of Oregon’s higher
+education, community college and career schools to better project enrollments,
+thereby permitting the prudent allocation of scarce resources. 
+
+       (4) At the
+request of the Higher Education Coordinating Commission, the State Treasurer
+may: 
+
+       (a) Issue bonds
+as Oregon Baccalaureate Bonds, to encourage investors to save for
+post-secondary education opportunities. 
+
+       (b) Investigate
+and implement the means and procedures to facilitate the participation by the
+broadest practical range of investors in the Oregon Baccalaureate Bond program.
+The means and procedures may include, but are not limited to, adjustments in
+the denominations in which the bonds are issued and the frequency with which
+the bonds are issued. 
+
+       (5) The purchase
+of an Oregon Baccalaureate Bond does not guarantee the purchaser, owner or
+beneficiary of the bond admittance to a public university or private
+post-secondary institution. [2007 c.783 §33; 2011 c.637 §96; 2013 c.768 §123d;
+2015 c.767 §9] 
+
+   
+
+ WATER POWER BONDS 
+
+   
+
+       286A.710
+Definitions for ORS 286A.710 to 286A.720. As used in ORS 286A.710 to 286A.720: 
+
+       (1) “Article XI-D
+bonds” means general obligation bonds issued under the authority of Article
+XI-D of the Oregon Constitution. 
+
+       (2) “Bond-related
+costs” means: 
+
+       (a) The costs of
+paying the principal of, the interest on and the premium, if any, on Article
+XI-D bonds; 
+
+       (b) The costs and
+expenses of issuing, administering and maintaining Article XI-D bonds
+including, but not limited to, redeeming Article XI-D bonds and paying amounts
+due in connection with credit enhancements or the administrative costs and
+expenses of the State Treasurer, the State Department of Energy and the Oregon
+Department of Administrative Services, including costs of consultants or
+advisers retained by the State Treasurer, the State Department of Energy or the
+Oregon Department of Administrative Services for the purpose of issuing,
+administering or maintaining Article XI-D bonds; 
+
+       (c) Capitalized
+interest on Article XI-D bonds; 
+
+       (d) Costs of
+funding reserves for Article XI-D bonds, including costs of surety bonds and
+similar instruments; 
+
+       (e) Rebates or
+penalties due the United States Government in connection with Article XI-D
+bonds; and 
+
+       (f) Other costs
+or expenses that the Director of the Oregon Department of Administrative
+Services determines are necessary or desirable in connection with issuing,
+administering or maintaining Article XI-D bonds. [2009 c.893 §2] 
+
+   
+
+       286A.712
+Authority of State Treasurer to issue bonds. (1) Article XI-D bonds are a general obligation of
+the State of Oregon and must contain a direct promise on behalf of the State of
+Oregon to pay the principal of, the interest on and the premium, if any, on the
+Article XI-D bonds. The State of Oregon shall pledge its full faith and credit
+and taxing power to pay Article XI-D bonds, except that the ad valorem taxing
+power of the State of Oregon may not be pledged to pay Article XI-D bonds. 
+
+       (2) In accordance
+with the applicable provisions of this chapter, the State Treasurer, with the
+concurrence of the Director of the State Department of Energy, may issue
+Article XI-D bonds: 
+
+       (a) At the
+request of the Director of the Oregon Department of Administrative Services for
+any of the purposes specified in Article XI-D of the Oregon Constitution, plus
+an amount determined by the State Treasurer to pay estimated bond-related
+costs; and 
+
+       (b) Subject to
+the limit on bond issuance established for the particular biennium in ORS
+286A.035. 
+
+       (3) The State
+Treasurer may issue Article XI-D bonds for the purpose of financing the refund
+of Article XI-D bonds. 
+
+       (4) The State
+Treasurer shall transfer the net proceeds of Article XI-D bonds issued for the
+purpose described in subsection (2)(a) of this section to the State Department
+of Energy for deposit in the Renewable Energy Fund established under ORS
+286A.718. [2009 c.893 §3; 2017 c.9 §18] 
+
+   
+
+       286A.714
+Article XI-D Bond Fund; purposes. 
+(1) The Article XI-D Bond Fund is established in the State Treasury, separate
+and distinct from the General Fund. Amounts in the bond fund may be invested as
+provided in ORS 293.701 to 293.857, and interest earned on the bond fund must
+be credited to the bond fund. Amounts credited to the bond fund are
+continuously appropriated to the Oregon Department of Administrative Services
+for the purpose of paying, when due, the principal of, the interest on and the
+premium, if any, on outstanding Article XI-D bonds. The department shall
+deposit in the bond fund: 
+
+       (a) Capitalized
+or accrued interest on Article XI-D bonds; 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the bond fund; and 
+
+       (c) Reserves
+established for the payment of Article XI-D bonds. 
+
+       (2) The
+department may create separate accounts in the bond fund for reserves and debt
+service for each series of Article XI-D bonds. [2009 c.893 §4] 
+
+   
+
+       286A.716
+Article XI-D Bond Administration Fund; purposes. (1) The Article XI-D Bond
+Administration Fund is established in the State Treasury, separate and distinct
+from the General Fund. Amounts in the bond administration fund may be invested
+as provided in ORS 293.701 to 293.857, and interest earned on the bond
+administration fund must be credited to the bond administration fund. Amounts
+credited to the bond administration fund are continuously appropriated to the
+Oregon Department of Administrative Services for payment of bond-related costs.
+The department shall credit to the bond administration fund: 
+
+       (a) Proceeds of
+Article XI-D bonds that were issued to pay bond-related costs; 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the bond administration fund; and 
+
+       (c) Amounts
+transferred from the Renewable Energy Fund by the State Department of Energy as
+provided in ORS 286A.718. 
+
+       (2) The
+department may create separate accounts in the bond administration fund. [2009
+c.893 §5] 
+
+   
+
+       286A.718
+Renewable Energy Fund; purposes; rules. (1) The Renewable Energy Fund is established in the
+State Treasury, separate and distinct from the General Fund. Amounts in the
+fund may be invested as provided in ORS 293.701 to 293.857, and interest earned
+on the fund must be credited to the fund. Amounts credited to the fund are
+continuously appropriated to the State Department of Energy for the purpose
+described in ORS 286A.712 (2)(a) and for the purpose of paying bond-related
+costs. The department shall deposit in the fund: 
+
+       (a) The net
+proceeds of Article XI-D bonds transferred pursuant to ORS 286A.712 (4); 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the fund; and 
+
+       (c) Gifts, grants
+or contributions received by the department for the purpose described in ORS
+286A.712 (2)(a). 
+
+       (2) The State
+Department of Energy may create separate accounts in the Renewable Energy Fund
+as appropriate for the management of moneys in the fund. 
+
+       (3) The State
+Department of Energy and any other state agency or other entity receiving or
+holding net proceeds of Article XI-D bonds shall, at the direction of the
+Oregon Department of Administrative Services, take action necessary to maintain
+the excludability of interest on Article XI-D bonds from gross income under the
+Internal Revenue Code. 
+
+       (4) If at any
+time the Oregon Department of Administrative Services or the State Department
+of Energy determines that there are moneys in the Renewable Energy Fund in
+excess of the amounts necessary for the purpose described in ORS 286A.712
+(2)(a), the Oregon Department of Administrative Services or the State
+Department of Energy may transfer the excess amounts to the Article XI-D Bond
+Fund or to the Article XI-D Bond Administration Fund. 
+
+       (5) The State
+Department of Energy may adopt rules to carry out this section, including
+procedures for distributing and monitoring the use of moneys from the Renewable
+Energy Fund. [2009 c.893 §6] 
+
+   
+
+       286A.720
+Payment of bond-related costs. 
+For each biennium in which Article XI-D bonds will be outstanding, the Oregon
+Department of Administrative Services shall include in the Governor’s budget an
+amount that, when added to the amount on deposit in the Article XI-D Bond Fund
+and the Article XI-D Bond Administration Fund, is sufficient to pay the
+bond-related costs that are scheduled to come due in the biennium. [2009 c.893 §7;
+2016 c.117 §48] 
+
+   
+
+ PENSION LIABILITY BONDS 
+
+   
+
+       286A.730
+Definitions for ORS 286A.730 to 286A.750. As used in ORS 286A.730 to 286A.750, unless the
+context requires otherwise: 
+
+       (1) “Article XI-O
+bonds” means general obligation bonds or other general obligation indebtedness
+issued or incurred under the authority of Article XI-O of the Oregon
+Constitution. 
+
+       (2) “Bond
+administration fund” means the Article XI-O Bond Administration Fund
+established under ORS 286A.745. 
+
+       (3) “Bond fund”
+means the Article XI-O Bond Fund established under ORS 286A.740. 
+
+       (4) “Bond-related
+costs” means: 
+
+       (a) The costs of
+paying the principal of, the interest on and the premium, if any, on Article
+XI-O bonds; 
+
+       (b) The costs and
+expenses of issuing, administering and maintaining Article XI-O bonds
+including, but not limited to, redeeming Article XI-O bonds, paying amounts due
+in connection with bond insurance, other credit enhancements or the
+administrative costs and expenses of the State Treasurer and the Oregon
+Department of Administrative Services, including costs of consultants or
+advisors retained by the State Treasurer or the Oregon Department of
+Administrative Services for the purpose of issuing, administering or
+maintaining Article XI-O bonds; 
+
+       (c) Capitalized
+interest on Article XI-O bonds; 
+
+       (d) Costs of
+funding reserves for Article XI-O bonds, including costs of surety bonds and
+similar instruments; 
+
+       (e) Rebates or
+penalties due the United States Government in connection with Article XI-O
+bonds; and 
+
+       (f) Other costs
+or expenses that the State Treasurer or the Director of the Oregon Department
+of Administrative Services determines are necessary or desirable in connection
+with issuing, administering or maintaining Article XI-O bonds. 
+
+       (5) “State agency”
+means a state officer, board, commission, corporation, institution, department
+or other state organization that has officers or employees participating in the
+Public Employees Retirement System. [Formerly 286.730] 
+
+   
+
+       286A.735
+Authority of State Treasurer to issue pension liability bonds; nature and
+purpose of bonds; refunding bonds. 
+(1) Article XI-O bonds are a general obligation of the State of Oregon and must
+contain a direct promise on behalf of the State of Oregon to pay the principal
+of, the interest on and the premium, if any, on the Article XI-O bonds. The
+State of Oregon shall pledge its full faith and credit and taxing power to pay
+Article XI-O bonds; however, the ad valorem taxing power of the State of Oregon
+may not be pledged to pay Article XI-O bonds. 
+
+       (2) The State
+Treasurer may issue Article XI-O bonds: 
+
+       (a) To finance
+all or a portion of the state’s pension liabilities for retirement, health care
+or disability benefits, in an amount that produces net proceeds that do not
+exceed the State Treasurer’s estimate of those liabilities based on information
+provided to the State Treasurer by the Public Employees Retirement System, plus
+an amount determined by the State Treasurer to pay estimated bond-related
+costs. If Article XI-O bonds are issued for a purpose described in this
+paragraph, the Director of the Oregon Department of Administrative Services shall
+allocate the bond-related costs of those Article XI-O bonds among affected
+state agencies based on their payroll costs and shall bill those state agencies
+for an appropriate share of the bond-related costs on a monthly or other
+periodic basis. A state agency receiving a bill under this paragraph shall pay
+the amounts billed from the first moneys legally available to the state agency
+after paying the costs incurred for obligations under ORS 283.085 to 283.092. 
+
+       (b) To refund
+Article XI-O bonds. The amount of Article XI-O bonds issued under this
+paragraph may not exceed the estimated costs of paying, redeeming or defeasing
+the refunded bonds, plus an amount determined by the State Treasurer to pay
+estimated bond-related costs. If Article XI-O bonds are issued under this
+paragraph, the Director of the Oregon Department of Administrative Services
+shall bill a state agency that was responsible for payment of the refunded
+bonds for an appropriate share of the bond-related costs on a monthly or other
+periodic basis. A state agency receiving a bill under this paragraph shall pay
+the amounts billed from the first moneys legally available to the state agency
+after paying the costs incurred for obligations under ORS 283.085 to 283.092. 
+
+       (3) The net
+proceeds of Article XI-O bonds issued to finance all or a portion the state’s
+pension liabilities for retirement, health care or disability benefits must be
+transferred to the Public Employees Retirement Board for deposit in the Public
+Employees Retirement Fund established under ORS 238.660. [Formerly 286.735] 
+
+   
+
+       286A.740
+Article XI-O Bond Fund; purposes. 
+(1) The Article XI-O Bond Fund is established in the State Treasury, separate
+and distinct from the General Fund. Interest earned on the bond fund must be
+credited to the bond fund. Amounts credited to the bond fund are continuously
+appropriated to the Oregon Department of Administrative Services for the
+purpose of paying, when due, the principal of, the interest on and the premium,
+if any, on outstanding Article XI-O bonds. The Oregon Department of
+Administrative Services shall credit to the bond fund: 
+
+       (a) Capitalized
+or accrued interest on Article XI-O bonds; 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the bond fund; 
+
+       (c) Reserves
+established for the payment of Article XI-O bonds; and 
+
+       (d) Amounts
+received in payment of a bill for bond-related costs in amounts and at times so
+that sufficient moneys are available in the bond fund to pay the principal of,
+the interest on and the premium, if any, on Article XI-O bonds when due. 
+
+       (2) The
+department may create separate accounts in the bond fund for reserves and debt
+service for each series of Article XI-O bonds. [Formerly 286.740] 
+
+   
+
+       286A.745
+Article XI-O Bond Administration Fund; purposes. (1) The Article XI-O Bond
+Administration Fund is established in the State Treasury, separate and distinct
+from the General Fund. Interest earned on the bond administration fund must be
+credited to the bond administration fund. Amounts credited to the bond
+administration fund are continuously appropriated to the Oregon Department of
+Administrative Services for payment of bond-related costs. The department shall
+credit to the bond administration fund: 
+
+       (a) Proceeds of
+Article XI-O bonds that were issued to pay bond-related costs that are not
+credited to the bond fund; 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the bond administration fund; and 
+
+       (c) Amounts
+received in payment of a bill for bond-related costs that are not credited to
+the bond fund. 
+
+       (2) The
+department may create separate accounts in the bond administration fund. [Formerly
+286.745] 
+
+   
+
+       286A.750 Terms
+and conditions of pension liability bonds. (1) In accordance with the applicable provisions of
+this chapter, the State Treasurer, after consulting with the Director of the
+Oregon Department of Administrative Services, may issue Article XI-O bonds from
+time to time for the purposes described in ORS 286A.735 (2). 
+
+       (2) Article XI-O
+bonds may be issued and sold as provided in this chapter. 
+
+       (3) Subject to
+the approval of the State Treasurer, the Director of the Oregon Department of
+Administrative Services may: 
+
+       (a) Enter into
+agreements with a trustee or escrow agent regarding the use and application of
+the amounts held in the Article XI-O Bond Fund or the Article XI-O Bond
+Administration Fund; and 
+
+       (b) Transfer
+amounts credited to the bond fund or the bond administration fund to a trustee
+or escrow agent. [Formerly 286.750] 
+
+   
+
+ SEISMIC REHABILITATION
+BONDS 
+
+   
+
+ (Public Education
+Buildings) 
+
+   
+
+       286A.760
+Definitions for ORS 286A.760 to 286A.772. As used in ORS 286A.760 to 286A.772, unless the
+context requires otherwise: 
+
+       (1) “Article XI-M
+bonds” means general obligation bonds or other general obligation indebtedness
+issued or incurred under the authority of Article XI-M of the Oregon
+Constitution. 
+
+       (2) “Bond
+administration fund” means the Article XI-M Bond Administration Fund
+established under ORS 286A.766. 
+
+       (3) “Bond fund”
+means the Article XI-M Bond Fund established under ORS 286A.764. 
+
+       (4) “Bond-related
+costs” means: 
+
+       (a) The costs of
+paying the principal of, the interest on and the premium, if any, on Article
+XI-M bonds; 
+
+       (b) The costs and
+expenses of issuing, administering and maintaining Article XI-M bonds
+including, but not limited to, redeeming Article XI-M bonds and paying amounts
+due in connection with bond insurance, other credit enhancements or the
+administrative costs and expenses of the State Treasurer and the Oregon
+Department of Administrative Services, including costs of consultants or
+advisers retained by the State Treasurer or the department for the purpose of
+issuing, administering or maintaining Article XI-M bonds; 
+
+       (c) Capitalized
+interest on Article XI-M bonds; 
+
+       (d) Costs of
+funding reserves for Article XI-M bonds, including costs of surety bonds and
+similar instruments; 
+
+       (e) Rebates or
+penalties due the United States Government in connection with Article XI-M
+bonds; and 
+
+       (f) Other costs
+or expenses that the Director of the Oregon Department of Administrative
+Services determines are necessary or desirable in connection with issuing,
+administering or maintaining Article XI-M bonds. 
+
+       (5) “Plan and
+implement seismic rehabilitation” includes: 
+
+       (a) Surveying and
+conducting engineering evaluations of the need for seismic rehabilitation; and 
+
+       (b) Paying costs
+of personnel, advisors, equipment, supplies and services that are reasonably
+necessary to develop and carry out the seismic rehabilitation grant program
+described in ORS 401.910. 
+
+       (6) “Seismic fund”
+means the Education Seismic Fund established under ORS 286A.768. 
+
+       (7) “State share
+of costs” means total costs minus contributions from applicants as required by
+the Oregon Business Development Department. [Formerly 286.760; 2013 c.782 §4;
+2016 c.55 §1] 
+
+   
+
+       286A.762
+Authority of State Treasurer to issue bonds. (1) Article XI-M bonds are a general obligation of
+the State of Oregon and must contain a direct promise on behalf of the State of
+Oregon to pay the principal of, the interest on and the premium, if any, on the
+Article XI-M bonds. The State of Oregon shall pledge its full faith and credit
+and taxing power to pay Article XI-M bonds, except that the ad valorem taxing
+power of the State of Oregon may not be pledged to pay Article XI-M bonds. 
+
+       (2) The State
+Treasurer, with the concurrence of the Director of the Oregon Business
+Development Department, may issue Article XI-M bonds as provided in this
+chapter, subject to the limit on bond issuance established for the particular
+biennium pursuant to ORS 286A.035 and at the request of the Director of the
+Oregon Department of Administrative Services, for the purpose of financing all
+or a portion of the state share of costs to plan and implement seismic
+rehabilitation of public education buildings in the amount of the state share
+of costs, plus an amount determined by the State Treasurer to pay estimated
+bond-related costs. 
+
+       (3) The State
+Treasurer shall transfer the net proceeds of Article XI-M bonds issued for the
+purpose described in subsection (2)(a) of this section to the Oregon Business
+Development Department for deposit in the Education Seismic Fund established
+under ORS 286A.768. [Formerly 286.762; 2013 c.782 §5; 2017 c.9 §19] 
+
+   
+
+       286A.764
+Article XI-M Bond Fund; purposes. 
+(1) The Article XI-M Bond Fund is established in the State Treasury, separate
+and distinct from the General Fund. Amounts in the bond fund may be invested as
+provided in ORS 293.701 to 293.857, and interest earned on the bond fund must
+be credited to the bond fund. Amounts credited to the bond fund are
+continuously appropriated to the Oregon Department of Administrative Services
+for the purpose of paying, when due, the principal of, the interest on and the
+premium, if any, on outstanding Article XI-M bonds. The department shall
+deposit in the bond fund: 
+
+       (a) Capitalized
+or accrued interest on Article XI-M bonds; 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the bond fund; and 
+
+       (c) Reserves
+established for the payment of Article XI-M bonds. 
+
+       (2) The
+department may create separate accounts in the bond fund for reserves and debt
+service for each series of Article XI-M bonds. [Formerly 286.764] 
+
+   
+
+       286A.766
+Article XI-M Bond Administration Fund; purposes. (1) The Article XI-M Bond
+Administration Fund is established in the State Treasury, separate and distinct
+from the General Fund. Amounts in the bond administration fund may be invested
+as provided in ORS 293.701 to 293.857, and interest earned on the bond
+administration fund must be credited to the bond administration fund. Amounts
+credited to the bond administration fund are continuously appropriated to the
+Oregon Department of Administrative Services for payment of bond-related costs.
+The department shall credit to the bond administration fund: 
+
+       (a) Proceeds of
+Article XI-M bonds that were issued to pay bond-related costs; 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the bond administration fund; and 
+
+       (c) Amounts
+transferred from the Education Seismic Fund by the Oregon Business Development
+Department as provided in ORS 286A.768. 
+
+       (2) The Oregon
+Department of Administrative Services may create separate accounts in the bond
+administration fund. [Formerly 286.766; 2013 c.782 §6] 
+
+   
+
+       286A.768
+Education Seismic Fund; purposes; rules. (1) The Education Seismic Fund is established in the
+State Treasury, separate and distinct from the General Fund. Amounts in the
+seismic fund may be invested as provided in ORS 293.701 to 293.857, and
+interest earned on the seismic fund must be credited to the seismic fund.
+Amounts credited to the seismic fund are continuously appropriated to the
+Oregon Business Development Department for the purpose described in ORS
+286A.762 (2) and for the purpose of paying bond-related costs. The department
+shall deposit in the seismic fund: 
+
+       (a) The net
+proceeds of Article XI-M bonds transferred pursuant to ORS 286A.762 (3); 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the seismic fund; 
+
+       (c) Gifts, grants
+or contributions received by the department for the purpose described in ORS
+286A.762 (2); and 
+
+       (d) Moneys
+received as repayment of, as a return on or in exchange for the grant or loan
+of net proceeds of Article XI-M bonds. 
+
+       (2) The
+department may create separate accounts in the seismic fund as appropriate for
+the management of moneys in the seismic fund. 
+
+       (3) The
+department and any other state agency or other entity receiving or holding net
+proceeds of Article XI-M bonds shall, at the direction of the Oregon Department
+of Administrative Services, take action necessary to maintain the excludability
+of interest on Article XI-M bonds from gross income under the Internal Revenue
+Code. 
+
+       (4) The
+department shall transfer to the Article XI-M Bond Administration Fund the
+unexpended and uncommitted amounts remaining in the seismic fund if: 
+
+       (a) Unexpended
+funds that are not contractually committed to a particular purpose remain in
+the seismic fund on the last day of the biennium; and 
+
+       (b) Article XI-M
+bonds will be outstanding in the next biennium. 
+
+       (5) The
+department may adopt rules to carry out this section including, but not limited
+to, establishing: 
+
+       (a) Required
+contributions from applicants; 
+
+       (b) Fees; 
+
+       (c) Standards,
+terms and conditions under which moneys in the seismic fund may be granted,
+loaned or otherwise made available; and 
+
+       (d) Procedures
+for distributing and monitoring the use of moneys from the seismic fund. [Formerly
+286.768; 2013 c.782 §7] 
+
+   
+
+       286A.772
+Payment of bond-related costs. 
+For each biennium in which Article XI-M bonds will be outstanding, the Oregon
+Department of Administrative Services shall include in the Governor’s budget an
+amount that, when added to the amount on deposit in the Article XI-M Bond Fund
+and the Article XI-M Bond Administration Fund, is sufficient to pay the
+bond-related costs that are scheduled to come due in the biennium. [Formerly
+286.772; 2016 c.117 §49] 
+
+   
+
+ (Emergency Services
+Buildings) 
+
+   
+
+       286A.780
+Definitions for ORS 286A.780 to 286A.792. As used in ORS 286A.780 to 286A.792, unless the
+context requires otherwise: 
+
+       (1) “Article XI-N
+bonds” means general obligation bonds or other general obligation indebtedness
+issued or incurred under the authority of Article XI-N of the Oregon
+Constitution. 
+
+       (2) “Bond
+administration fund” means the Article XI-N Bond Administration Fund
+established under ORS 286A.786. 
+
+       (3) “Bond fund”
+means the Article XI-N Bond Fund established under ORS 286A.784. 
+
+       (4) “Bond-related
+costs” means: 
+
+       (a) The costs of
+paying the principal of, the interest on and the premium, if any, on Article
+XI-N bonds; 
+
+       (b) The costs and
+expenses of issuing, administering and maintaining Article XI-N bonds
+including, but not limited to, redeeming Article XI-N bonds and paying amounts
+due in connection with bond insurance, other credit enhancements or the
+administrative costs and expenses of the State Treasurer and the Oregon
+Department of Administrative Services, including costs of consultants or
+advisers retained by the State Treasurer or the department for the purpose of
+issuing, administering or maintaining Article XI-N bonds; 
+
+       (c) Capitalized
+interest on Article XI-N bonds; 
+
+       (d) Costs of
+funding reserves for Article XI-N bonds, including costs of surety bonds and
+similar instruments; 
+
+       (e) Rebates or
+penalties due the United States Government in connection with Article XI-N
+bonds; and 
+
+       (f) Other costs
+or expenses that the Director of the Oregon Department of Administrative
+Services determines are necessary or desirable in connection with issuing,
+administering or maintaining Article XI-N bonds. 
+
+       (5) “Plan and
+implement seismic rehabilitation” includes: 
+
+       (a) Surveying and
+conducting engineering evaluations of the need for seismic rehabilitation; and 
+
+       (b) Paying costs
+of personnel, advisors, equipment, supplies and services that are reasonably
+necessary to develop and carry out the seismic rehabilitation grant program
+described in ORS 401.910. 
+
+       (6) “Seismic fund”
+means the Emergency Services Seismic Fund established under ORS 286A.788. 
+
+       (7) “State share
+of costs” means total costs minus contributions from applicants as required by
+the Oregon Business Development Department. [Formerly 286.780; 2013 c.782 §8;
+2016 c.55 §2] 
+
+   
+
+       286A.782
+Authority of State Treasurer to issue bonds. (1) Article XI-N bonds are a general obligation of
+the State of Oregon and must contain a direct promise on behalf of the State of
+Oregon to pay the principal of, the interest on and the premium, if any, on the
+Article XI-N bonds. The State of Oregon shall pledge its full faith and credit
+and taxing power to pay Article XI-N bonds, except that the ad valorem taxing
+power of the State of Oregon may not be pledged to pay Article XI-N bonds. 
+
+       (2) The State
+Treasurer, with the concurrence of the Director of the Oregon Business
+Development Department, may issue Article XI-N bonds as provided in this
+chapter, subject to the limit on bond issuance established for the particular
+biennium pursuant to ORS 286A.035 and at the request of the Director of the
+Oregon Department of Administrative Services, for the purpose of financing all
+or a portion of the state share of costs to plan and implement seismic
+rehabilitation of emergency services buildings in the amount of the state share
+of costs, plus an amount determined by the State Treasurer to pay estimated
+bond-related costs. 
+
+       (3) The State
+Treasurer shall transfer the net proceeds of Article XI-N bonds issued for the
+purpose described in subsection (2) of this section to the Oregon Business
+Development Department for deposit in the Emergency Services Seismic Fund
+established under ORS 286A.788. [Formerly 286.782; 2013 c.782 §9; 2017 c.9 §20] 
+
+   
+
+       286A.784
+Article XI-N Bond Fund; purposes. 
+(1) The Article XI-N Bond Fund is established in the State Treasury, separate
+and distinct from the General Fund. Amounts in the bond fund may be invested as
+provided in ORS 293.701 to 293.857, and interest earned on the bond fund must
+be credited to the bond fund. Amounts credited to the bond fund are
+continuously appropriated to the Oregon Department of Administrative Services
+for the purpose of paying, when due, the principal of, the interest on and the
+premium, if any, on outstanding Article XI-N bonds. The department shall
+deposit in the bond fund: 
+
+       (a) Capitalized
+or accrued interest on Article XI-N bonds; 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the bond fund; and 
+
+       (c) Reserves
+established for the payment of Article XI-N bonds. 
+
+       (2) The
+department may create separate accounts in the bond fund for reserves and debt
+service for each series of Article XI-N bonds. [Formerly 286.784] 
+
+   
+
+       286A.786
+Article XI-N Bond Administration Fund; purposes. (1) The Article XI-N Bond
+Administration Fund is established in the State Treasury, separate and distinct
+from the General Fund. Amounts in the bond administration fund may be invested
+as provided in ORS 293.701 to 293.857, and interest earned on the bond
+administration fund must be credited to the bond administration fund. Amounts
+credited to the bond administration fund are continuously appropriated to the
+Oregon Department of Administrative Services for payment of bond-related costs.
+The department shall credit to the bond administration fund: 
+
+       (a) Proceeds of
+Article XI-N bonds that were issued to pay bond-related costs; 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the bond administration fund; and 
+
+       (c) Amounts
+transferred from the Emergency Services Seismic Fund by the Oregon Business
+Development Department as provided in ORS 286A.788. 
+
+       (2) The Oregon
+Department of Administrative Services may create separate accounts in the bond
+administration fund. [Formerly 286.786; 2013 c.782 §10] 
+
+   
+
+       286A.788
+Emergency Services Seismic Fund; purposes; rules; fees. (1) The Emergency Services Seismic
+Fund is established in the State Treasury, separate and distinct from the
+General Fund. Amounts in the seismic fund may be invested as provided in ORS
+293.701 to 293.857, and interest earned on the seismic fund must be credited to
+the seismic fund. Amounts credited to the seismic fund are continuously
+appropriated to the Oregon Business Development Department for the purpose
+described in ORS 286A.782 (2) and for the purpose of paying bond-related costs.
+The department shall deposit in the seismic fund: 
+
+       (a) The net
+proceeds of Article XI-N bonds transferred pursuant to ORS 286A.782 (3); 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the seismic fund; 
+
+       (c) Gifts, grants
+or contributions received by the department for the purpose described in ORS
+286A.782 (2); and 
+
+       (d) Moneys
+received as repayment of, as a return on or in exchange for the grant or loan
+of net proceeds of Article XI-N bonds. 
+
+       (2) The Oregon
+Business Development Department may create separate accounts in the seismic
+fund as appropriate for the management of moneys in the seismic fund. 
+
+       (3) The Oregon
+Business Development Department and any other state agency or other entity
+receiving or holding net proceeds of Article XI-N bonds shall, at the direction
+of the Oregon Department of Administrative Services, take action necessary to
+maintain the excludability of interest on Article XI-N bonds from gross income
+under the Internal Revenue Code. 
+
+       (4) The Oregon
+Business Development Department shall transfer to the Article XI-N Bond
+Administration Fund the unexpended and uncommitted amounts remaining in the
+seismic fund if: 
+
+       (a) Unexpended
+funds that are not contractually committed to a particular purpose remain in
+the seismic fund on the last day of the biennium; and 
+
+       (b) Article XI-N
+bonds will be outstanding in the next biennium. 
+
+       (5) The Oregon
+Business Development Department may adopt rules to carry out this section
+including, but not limited to, establishing: 
+
+       (a) Required
+contributions from applicants; 
+
+       (b) Fees; 
+
+       (c) Standards,
+terms and conditions under which moneys in the seismic fund may be granted,
+loaned or otherwise made available; and 
+
+       (d) Procedures
+for distributing and monitoring the use of moneys from the seismic fund. [Formerly
+286.788; 2013 c.782 §11] 
+
+   
+
+       286A.792
+Payment of bond-related costs. 
+For each biennium in which Article XI-N bonds will be outstanding, the Oregon
+Department of Administrative Services shall include in the Governor’s budget an
+amount that, when added to the amount on deposit in the Article XI-N Bond Fund
+and the Article XI-N Bond Administration Fund, is sufficient to pay the
+bond-related costs that are scheduled to come due in the biennium. [Formerly
+286.792; 2016 c.117 §50] 
+
+   
+
+ SCHOOL CAPITAL MATCHING
+BONDS 
+
+   
+
+       286A.796
+Definitions for ORS 286A.796 to 286A.806. As used in ORS 286A.796 to 286A.806: 
+
+       (1) “Article XI-P
+bonds” means general obligation bonds issued under the authority of Article
+XI-P of the Oregon Constitution. 
+
+       (2) “Bond-related
+costs” means: 
+
+       (a) The costs of
+paying the principal of, the interest on and the premium, if any, on Article
+XI-P bonds. 
+
+       (b) The costs and
+expenses of issuing, administering and maintaining Article XI-P bonds
+including, but not limited to, the costs and expenses of: 
+
+       (A) Redeeming
+Article XI-P bonds. 
+
+       (B) Paying
+amounts due in connection with credit enhancement devices or agreements for
+exchange of interest rates. 
+
+       (C) Paying the
+fees, administrative costs and expenses of the State Treasurer, the Oregon
+Department of Administrative Services and the Department of Education,
+including the costs of consultants or advisors retained by the State Treasurer,
+the Oregon Department of Administrative Services or the Department of Education
+for the Article XI-P bonds. 
+
+       (c) The costs of
+funding reserves for the Article XI-P bonds. 
+
+       (d) Capitalized
+interest for the Article XI-P bonds. 
+
+       (e) Rebates or
+penalties due to the United States in connection with the Article XI-P bonds. 
+
+       (f) Any other
+costs or expenses that the State Treasurer, the Oregon Department of
+Administrative Services or the Department of Education determines are necessary
+or desirable in connection with issuing and maintaining the Article XI-P bonds. 
+
+       (3) “Capital
+costs” means costs of land and of other assets having a useful life of more
+than one year, including costs associated with acquisition, construction,
+improvement, remodeling, furnishing, equipping, maintenance or repair. [2011
+c.699 §1] 
+
+   
+
+       286A.798
+Authority of State Treasurer to issue bonds. (1) In accordance with the applicable provisions of
+ORS chapter 286A, the State Treasurer, with the concurrence of the
+Superintendent of Public Instruction, may issue Article XI-P bonds: 
+
+       (a) At the
+request of the Director of the Oregon Department of Administrative Services for
+the purposes specified in Article XI-P of the Oregon Constitution, plus an
+amount determined by the State Treasurer to pay estimated bond-related costs;
+and 
+
+       (b) Subject to
+the budget authorization for bond issuance established under ORS 286A.035 for
+the Department of Education for the biennium. 
+
+       (2) The State
+Treasurer may issue Article XI-P bonds for the purpose of refunding Article
+XI-P bonds. 
+
+       (3) The net
+proceeds of Article XI-P bonds must be deposited in the School Capital Matching
+Fund established under ORS 286A.806 as described in section 4, Article XI-P of
+the Oregon Constitution. 
+
+       (4) If at any
+time the superintendent determines that the net proceeds of Article XI-P bonds
+deposited in the School Capital Matching Fund pursuant to subsection (3) of
+this section exceed the amount necessary for the purposes described in
+subsection (1)(a) of this section and the budget authorization, the
+superintendent, in consultation with the Oregon Department of Administrative
+Services, may transfer the excess amount to the Article XI-P Bond Fund
+established under ORS 286A.802 or the Article XI-P Bond Administration Fund
+established under ORS 286A.804. 
+
+       (5) Article XI-P
+bonds are a general obligation of the State of Oregon and must contain a direct
+promise on behalf of the State of Oregon to pay the principal of, the interest
+on and the premium, if any, on the Article XI-P bonds. The State of Oregon shall
+pledge its full faith and credit and taxing power to the payment of the
+principal of, the interest on and the premium, if any, on Article XI-P bonds,
+except that the ad valorem taxing power of the State of Oregon may not be
+pledged to pay Article XI-P bonds. [2011 c.699 §2; 2017 c.9 §21] 
+
+   
+
+       286A.800
+School capital matching bond program; rules. (1) The State Board of Education shall establish by
+rule a program to provide school districts with matching fund grants or loans
+for the capital costs of school districts financed with the net proceeds of
+Article XI-P bonds issued under ORS 286A.796 to 286A.806. The state board shall
+establish, by rule, ratios for matching local moneys with grants, and ratios
+for matching local moneys with loans. 
+
+       (2) The
+Department of Education, subject to rules adopted by the state board: 
+
+       (a) May provide
+matching funds only to a school district that has received voter approval for
+local general obligation bonds to finance capital costs. 
+
+       (b) May not
+provide financing through grants or loans to finance operating costs of school
+districts. [2011 c.699 §3] 
+
+   
+
+       286A.801
+Matching fund grants to school districts; requirements; awards; rules. (1) The Department of Education
+shall administer a grant program that is financed with the net proceeds of
+Article XI-P bonds and that provides matching fund grants to school districts
+for capital costs of the school districts. Any construction, improvement,
+remodel, equipment, maintenance or repair of a building of a school district
+that is financed with a grant received under this section is not required to
+meet the standards specified in ORS 286A.810. 
+
+       (2) A school
+district that seeks a grant under this section must prepare and submit a
+facilities assessment and a long-range facilities plan to the department with
+the application for the grant. 
+
+       (3) A school
+district is eligible to receive a grant under this section if: 
+
+       (a) The school
+district complies with the requirements of this section and rules adopted
+pursuant to this section; and 
+
+       (b) Moneys are
+available to the school district pursuant to subsection (6) of this section. 
+
+       (4) A school
+district that receives a grant under this section must provide matching funds
+that meet or exceed the amount of the grant. The matching funds must be from
+general obligation bonds approved by the voters of the school district to
+finance capital costs of the school district. 
+
+       (5) Grants
+awarded under this section shall be calculated as follows, subject to
+subsection (8) of this section: 
+
+       (a) For a school
+district that provides matching funds in any amount up to $6 million, a
+matching ratio for state to local funds of one to one. 
+
+       (b) For a school
+district that provides matching funds in any amount greater than $6 million, a
+matching ratio for state to local funds that is based on the funding formula
+developed as provided in subsection (7)(c) of this section. Grants awarded
+under this paragraph shall be for a minimum of $6 million per grant and a
+maximum of $12 million per grant. 
+
+       (6)(a) The
+department shall award grants to school districts as follows: 
+
+       (A) Sixty-six
+percent of funds available for grants shall be based on the priority list
+established under subsection (7)(b) of this section; and 
+
+       (B) Thirty-four
+percent of funds available for grants shall be provided to school districts
+based on the order in which the Department of Education receives the completed
+applications for the grants. 
+
+       (b) To the extent
+that moneys are available, a school district that receives moneys as provided
+by paragraph (a)(A) of this subsection also may receive moneys as provided by
+paragraph (a)(B) of this subsection. The total amount the school district
+receives may not exceed the maximum amount allowed under subsection (5) of this
+section. 
+
+       (7)(a) For the
+purpose of awarding grants under this section, the department shall develop a
+priority list and a funding formula that are based on factors that may include: 
+
+       (A) The total
+assessed value of all tangible property located in the school district; 
+
+       (B) The
+percentage of poverty families within the school district, as calculated under
+ORS 327.013 (1)(c)(A)(v)(I); 
+
+       (C) The number of
+students in average daily membership for the school district, as calculated
+under ORS 327.061; and 
+
+       (D) Other factors
+adopted by the State Board of Education by rule. 
+
+       (b) The priority
+list developed under this subsection shall be used to rank the order in which
+school districts may qualify to receive a grant under subsection (6)(a)(A) of
+this section. 
+
+       (c) The funding
+formula developed under this subsection shall be used to determine the matching
+ratio for state to local funds. The funding formula must comply with the limits
+described in subsection (5) of this section. 
+
+       (8) To account
+for effects of inflation, the State Board of Education shall, by rule,
+biennially adjust the dollar amounts specified in subsection (5) of this
+section based on the Consumer Price Index for All Urban Consumers, West Region
+(All Items), as published by the Bureau of Labor Statistics of the United
+States Department of Labor. 
+
+       (9) The State
+Board of Education may adopt any rules necessary for the administration of this
+section. [2015 c.783 §2; 2023 c.175 §1] 
+
+   
+
+       286A.802
+Article XI-P Bond Fund; purposes. 
+(1) The Article XI-P Bond Fund is established in the State Treasury, separate
+and distinct from the General Fund. Amounts in the Article XI-P Bond Fund may
+be invested as provided in ORS 293.701 to 293.857, and interest earned on the
+bond fund must be credited to the bond fund. Amounts credited to the bond fund
+are continuously appropriated to the Oregon Department of Administrative
+Services for the purpose of paying, when due, the principal of, the interest on
+and the premium, if any, on outstanding Article XI-P bonds. The department
+shall deposit in the bond fund: 
+
+       (a) Capitalized
+or accrued interest on Article XI-P bonds; 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the bond fund; 
+
+       (c) Reserves
+established for the payment of Article XI-P bonds; and 
+
+       (d) Amounts
+transferred from the School Capital Matching Fund established under ORS
+286A.806 as described in section 4, Article XI-P of the Oregon Constitution. 
+
+       (2) At the
+request of the department, the State Treasurer may create separate accounts in
+the bond fund for reserves and debt service for each series of Article XI-P
+bonds as provided in ORS 286A.025 (2)(g). [2011 c.699 §4; 2017 c.9 §6] 
+
+   
+
+       286A.804
+Article XI-P Bond Administration Fund; purposes. (1) The Article XI-P Bond
+Administration Fund is established in the State Treasury, separate and distinct
+from the General Fund. Amounts in the Article XI-P Bond Administration Fund may
+be invested as provided in ORS 293.701 to 293.857, and interest earned on the
+bond administration fund must be credited to the bond administration fund.
+Amounts credited to the bond administration fund are continuously appropriated
+to the Oregon Department of Administrative Services for payment of bond-related
+costs. The department shall credit to the bond administration fund: 
+
+       (a) Proceeds of
+Article XI-P bonds that were issued to pay bond-related costs; 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the bond administration fund; and 
+
+       (c) Amounts
+transferred from the School Capital Matching Fund established under ORS
+286A.806 as described in section 4, Article XI-P of the Oregon Constitution. 
+
+       (2) At the
+request of the department, the State Treasurer may create separate accounts in
+the bond administration fund as provided in ORS 286A.025 (2)(g). [2011 c.699 §5;
+2017 c.9 §7] 
+
+   
+
+       286A.806
+School Capital Matching Fund; purposes. Pursuant to section 4, Article XI-P of the Oregon
+Constitution, the School Capital Matching Fund is established in the State
+Treasury, separate and distinct from the General Fund. Amounts in the School
+Capital Matching Fund may be invested as provided in ORS 286A.025 (2)(g), and
+interest earned on moneys in the fund must be credited to the fund. The School
+Capital Matching Fund consists of net proceeds of Article XI-P bonds issued
+under ORS 286A.796 to 286A.806, moneys from the repayment of loans by school
+districts and other moneys made available by the Legislative Assembly for
+purposes described in ORS 286A.798 (1) and the budget authorization for bond
+issuance established under ORS 286A.035 for the Department of Education. Moneys
+in the fund are continuously appropriated to the Department of Education for
+the purposes described in ORS 286A.798 (1) and the budget authorization. [2011
+c.699 §6; 2013 c.722 §38] 
+
+   
+
+       286A.808
+Oregon School Capital Improvement Matching Account; purposes. (1) Pursuant to Article XI-P,
+section 4, of the Oregon Constitution, the Oregon School Capital Improvement
+Matching Account is established in the State Treasury, separate and distinct
+from the General Fund. 
+
+       (2) Amounts in
+the Oregon School Capital Improvement Matching Account may be invested as
+provided in ORS 286A.025 (2)(g), and interest earned on moneys in the account
+must be credited to the account. 
+
+       (3)
+Notwithstanding ORS 286A.806, the Oregon School Capital Improvement Matching
+Account consists of net proceeds of Article XI-P bonds and other moneys made
+available by the Legislative Assembly for purposes described in ORS 286A.798
+(1) and the budget authorization for bond issuance established under ORS
+286A.035 for the Department of Education. 
+
+       (4) Moneys in the
+Oregon School Capital Improvement Matching Account are continuously
+appropriated to the Department of Education for the purposes described in ORS
+286A.801. [2015 c.783 §4] 
+
+   
+
+       Note: 286A.808 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter
+286A or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       286A.810 LEED
+certification of school projects financed with Article XI-P bonds. (1) As used in this section: 
+
+       (a) “Green Globes
+program” means a building guidance and assessment program to advance overall
+environmental performance and sustainability of commercial buildings
+established by the Green Building Initiative. 
+
+       (b) “LEED” means
+the Leadership in Energy and Environmental Design rating system for
+certification of energy efficient and environmentally sustainable buildings
+established by the United States Green Building Council. 
+
+       (c) “LEED Silver”
+means the second of four tiers of standards for certification in the LEED
+rating system. 
+
+       (d) “Two globes”
+means the second of four tiers of ratings for certification in the Green Globes
+program rating system. 
+
+       (2) If general
+obligation bonds are issued under Article XI-P of the Oregon Constitution, and
+proceeds from the bonds are used for the construction, improvement, remodel,
+equipment, maintenance or repair of a building of a school district, the
+building of the school district that is constructed, improved, remodeled,
+equipped, maintained or repaired must qualify for, at a minimum: 
+
+       (a) LEED Silver
+certification; 
+
+       (b) A two globes
+rating from the Green Globes program; or 
+
+       (c) An equivalent
+numeric rating from a nationally recognized, accepted and appropriate
+sustainable development rating system as determined by the State Department of
+Energy. [2011 c.467 §8] 
+
+   
+
+       Note: 286A.810 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter
+286A or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+ ARTICLE XI-Q BONDS 
+
+   
+
+       286A.816
+Definitions for ORS 286A.816 to 286A.826. As used in ORS 286A.816 to 286A.826: 
+
+       (1) “Article XI-Q
+bonds” means general obligation bonds issued under the authority of Article
+XI-Q of the Oregon Constitution. 
+
+       (2) “Bond-related
+costs” means: 
+
+       (a) The costs of
+paying the principal of, the interest on and the premium, if any, on Article
+XI-Q bonds. 
+
+       (b) The costs and
+expenses of issuing, administering and maintaining Article XI-Q bonds
+including, but not limited to, the costs and expenses of: 
+
+       (A) Redeeming
+Article XI-Q bonds. 
+
+       (B) Paying
+amounts due in connection with credit enhancement devices or agreements for
+exchange of interest rates. 
+
+       (C) Paying the
+fees, administrative costs and expenses of the State Treasurer, the Oregon
+Department of Administrative Services or the project agency, including the
+costs of consultants or advisers retained by the State Treasurer, the
+department or the project agency. 
+
+       (c) The costs of
+funding reserves for the Article XI-Q bonds. 
+
+       (d) Capitalized
+interest for the Article XI-Q bonds. 
+
+       (e) Rebates or
+penalties due to the United States in connection with the Article XI-Q bonds. 
+
+       (f) Any other
+costs or expenses that the State Treasurer, the department or the project
+agency determines are necessary or desirable in connection with issuing and
+maintaining the Article XI-Q bonds. 
+
+       (3) “Project
+agency” means a state agency that administers a project that is financed with
+Article XI-Q bond proceeds. [2011 c.14 §2] 
+
+   
+
+       286A.818
+Authority of State Treasurer to issue bonds. (1) In accordance with the applicable provisions of
+this chapter, the State Treasurer, at the request of the Director of the Oregon
+Department of Administrative Services, may issue Article XI-Q bonds: 
+
+       (a) For any of
+the purposes specified in Article XI-Q of the Oregon Constitution, plus an
+amount determined by the State Treasurer to pay estimated bond-related costs;
+and 
+
+       (b) Subject to
+the budget authorization for Article XI-Q bond issuance established under ORS
+286A.035 for the biennium. 
+
+       (2) The State
+Treasurer may issue Article XI-Q bonds for the purpose of: 
+
+       (a) Refunding
+Article XI-Q bonds. 
+
+       (b) Subject to
+subsection (3) of this section, refinancing borrowings issued before December
+2, 2010, to finance or refinance costs described in section 1 (1), Article XI-Q
+of the Oregon Constitution. 
+
+       (c) Paying
+bond-related costs. 
+
+       (3) When Article
+XI-Q bonds are issued to refinance borrowings issued before December 2, 2010,
+the maturity date of the Article XI-Q bonds may not be later than the maturity
+date of the refinanced borrowings. 
+
+       (4) The State
+Treasurer shall deposit the net proceeds of Article XI-Q bonds issued in one or
+more project funds established in the State Treasury or with a third party
+approved by the State Treasurer. Net proceeds must be expended in accordance
+with procedures established by the Oregon Department of Administrative Services
+for the purposes described in each project agency’s budget authorization. 
+
+       (5) If at any
+time the Oregon Department of Administrative Services and the project agency
+determine that the net proceeds of Article XI-Q bonds deposited in a project
+fund pursuant to subsection (4) of this section exceed the amount necessary for
+the purpose described in the project agency’s budget authorization, the
+department may allocate and transfer the excess amount as determined by the
+department to other project funds, the Article XI-Q Bond Fund established under
+ORS 286A.820 or the Article XI-Q Bond Administration Fund established under ORS
+286A.822. 
+
+       (6) Article XI-Q
+bonds are a general obligation of the State of Oregon and must contain a direct
+promise on behalf of the State of Oregon to pay the principal of, the interest
+on and the premium, if any, on the Article XI-Q bonds. The State of Oregon shall
+pledge its full faith and credit and taxing power to the payment of the
+principal of, the interest on and the premium, if any, on Article XI-Q bonds,
+except that the ad valorem taxing power of the State of Oregon may not be
+pledged to pay Article XI-Q bonds. [2011 c.14 §3] 
+
+   
+
+       286A.820
+Article XI-Q Bond Fund; purposes. 
+(1) The Article XI-Q Bond Fund is established in the State Treasury, separate
+and distinct from the General Fund. Amounts in the Article XI-Q Bond Fund may
+be invested as provided in ORS 293.701 to 293.857, and interest earned on the
+bond fund must be credited to the bond fund. Amounts credited to the bond fund
+are continuously appropriated to the Oregon Department of Administrative
+Services for the purpose of paying, when due, the principal of, the interest on
+and the premium, if any, on outstanding Article XI-Q bonds. The department
+shall deposit in the bond fund: 
+
+       (a) Capitalized
+or accrued interest on Article XI-Q bonds; 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the bond fund; 
+
+       (c) Reserves
+established for the payment of Article XI-Q bonds; 
+
+       (d) Amounts
+transferred from a project fund as provided in ORS 286A.818 (5); and 
+
+       (e) Amounts paid
+by a project agency under ORS 286A.824. 
+
+       (2) At the
+request of the department, the State Treasurer may create separate accounts in
+the bond fund for reserves and debt service for each series of Article XI-Q
+bonds as provided in ORS 286A.025 (2)(g). [2011 c.14 §4] 
+
+   
+
+       286A.822
+Article XI-Q Bond Administration Fund; purposes. (1) The Article XI-Q Bond
+Administration Fund is established in the State Treasury, separate and distinct
+from the General Fund. Amounts in the Article XI-Q Bond Administration Fund may
+be invested as provided in ORS 293.701 to 293.857, and interest earned on the
+bond administration fund must be credited to the bond administration fund.
+Amounts credited to the bond administration fund are continuously appropriated
+to the Oregon Department of Administrative Services for payment of bond-related
+costs. The department shall credit to the bond administration fund: 
+
+       (a) Proceeds of
+Article XI-Q bonds that were issued to pay bond-related costs; 
+
+       (b) Amounts
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the bond administration fund; 
+
+       (c) Amounts
+transferred from a project fund as provided in ORS 286A.818 (5); and 
+
+       (d) Amounts paid
+by a project agency under ORS 286A.824. 
+
+       (2) At the
+request of the department, the State Treasurer may create separate accounts in
+the bond administration fund as provided in ORS 286A.025 (2)(g). [2011 c.14 §5] 
+
+   
+
+       286A.824
+Article XI-Q bond program; rules. 
+(1) The Oregon Department of Administrative Services shall adopt procedures
+under which a project agency may request: 
+
+       (a) Financing for
+real or personal property projects that may be financed with Article XI-Q bond
+proceeds; or 
+
+       (b) Refinancing
+of borrowings issued before December 2, 2010, that financed or refinanced real
+or personal property projects that would have been eligible for financing under
+Article XI-Q. The department may periodically bill any project agency for an appropriate
+share of the bond-related costs of the bonds issued to finance the agency’s
+projects or refinance the agency’s bonds. The department may bill at such
+intervals as are established in the department’s procedures and shall deposit
+amounts paid by project agencies in the Article XI-Q Bond Fund or the Article
+XI-Q Bond Administration Fund as the department determines is appropriate. A
+project agency that receives a bill for bond-related costs shall pay the amount
+billed by the time and in the manner designated in the billing statement from
+amounts budgeted under ORS 286A.826 or, if necessary, from any other amounts
+lawfully available for expenditure by the project agency for that purpose. 
+
+       (2) The State
+Treasurer may authorize a project agency or the department to act as a related
+agency under this chapter if necessary or desirable for the issuance or
+administration of Article XI-Q bonds, including, without limitation, entering
+into contracts or covenants as provided in ORS 286A.025. However, a project
+agency may not request the State Treasurer to issue Article XI-Q bonds. 
+
+       (3) If Article
+XI-Q bonds are issued to refinance bonds issued before December 2, 2010, and
+the bond-related costs of the refinanced bonds were paid by state agencies
+under ORS 283.091, under one of the programs described in ORS 291.445 (7) or
+under a revenue bond program of this state, the state agency whose bonds are
+refinanced may pay the amounts billed under subsection (1) of this section from
+the sources of funds previously used by the agency to pay the refinanced bonds
+or from any other funds lawfully available for payment of the Article XI-Q
+bonds. 
+
+       (4) A project
+agency that receives or holds proceeds of Article XI-Q bonds shall, at the
+direction of the department, take action necessary to obtain and maintain: 
+
+       (a) The
+excludability of interest on Article XI-Q bonds from gross income under the
+Internal Revenue Code; or 
+
+       (b) A federal
+interest subsidy payment or any other tax-advantaged status granted under the
+Internal Revenue Code for the Article XI-Q bonds. [2011 c.14 §6] 
+
+   
+
+       286A.826
+Budgeting for Article XI-Q project costs. A project agency shall request that the Governor
+include in the Governor’s budget for each biennium amounts that are sufficient
+to pay: 
+
+       (1) The costs of
+a project financed or to be financed by the issuance of Article XI-Q bonds
+during the biennium; 
+
+       (2) Amounts
+billed during the biennium by the Oregon Department of Administrative Services
+under ORS 286A.824; and 
+
+       (3) The
+bond-related costs associated with the projects financed or to be financed with
+Article XI-Q bonds. [2011 c.14 §7; 2016 c.117 §51] 
+
+   
+
+ HIGHER EDUCATION BONDS 
+
+   
+
+       286A.830
+Definitions for ORS 286A.830 to 286A.863. As used in ORS 286A.830 to 286A.863: 
+
+       (1) “Article
+XI-F(1) bonds” means bonds issued under the authority of Article XI-F(1) of the
+Oregon Constitution for the benefit of a public university. 
+
+       (2) “Article XI-G
+bonds” means bonds issued under the authority of Article XI-G of the Oregon
+Constitution for the benefit of a public university or a community college. 
+
+       (3) “Bond-related
+costs” means: 
+
+       (a) The costs of
+paying the principal of, the interest on and the premium, if any, on higher
+education bonds; 
+
+       (b) The costs and
+expenses of issuing, administering and maintaining higher education bonds
+including, but not limited to: 
+
+       (A) Costs and
+expenses of redeeming higher education bonds; 
+
+       (B) Amounts due
+in connection with credit enhancement devices or agreements for exchange of
+interest rates; and 
+
+       (C) Fees,
+administrative costs and expenses of the State Treasurer, the Oregon Department
+of Administrative Services or the Higher Education Coordinating Commission,
+including the costs of consultants or advisers retained by the State Treasurer,
+the department or the commission; 
+
+       (c) The costs of
+funding reserves for the higher education bonds; 
+
+       (d) Capitalized
+interest for the higher education bonds; 
+
+       (e) Rebates or
+penalties due to the United States in connection with the higher education
+bonds; 
+
+       (f) Expenses and
+liabilities arising from an inquiry, audit or other action relating to the
+higher education bonds by a federal or state regulatory body, including, but
+not limited to, legal expenses; and 
+
+       (g) Any other
+costs or expenses that the State Treasurer, the department or the commission
+determines are necessary or desirable in connection with issuing and
+maintaining the higher education bonds. 
+
+       (4) “Community
+college” means a community college or community college district as defined in
+ORS 341.005. 
+
+       (5) “Federal tax
+benefit” means the excludability of interest on higher education bonds from
+gross income under the Internal Revenue Code, the qualification of higher
+education bonds for any federal interest subsidy payment or any other
+tax-advantaged status granted under the Internal Revenue Code. 
+
+       (6) “Grant
+contract” means a contract approved by the department and executed by a public
+university or community college and the commission that establishes the terms
+and conditions for issuance of Article XI-G bonds and the disbursement of
+proceeds to the public university or community college. 
+
+       (7) “Higher
+education bonds” means Article XI-F(1) bonds and Article XI-G bonds. 
+
+       (8) “Higher
+Education Coordinating Commission” includes all offices that function under the
+direction and control of the commission. 
+
+       (9) “Loan
+agreement” means a contract approved by the department and executed by a public
+university and the commission that establishes the terms and conditions for
+issuance of Article XI-F(1) bonds, lending of bond proceeds and loan repayment. 
+
+       (10) “Loan
+repayment schedule” means the schedule of repayment of loans made with proceeds
+of Article XI-F(1) bonds that a public university is obligated to make to the
+State of Oregon pursuant to a loan agreement. 
+
+       (11) “Matching
+amount” means moneys unconditionally available to a public university or
+community college for the same or similar purposes as the proceeds of Article
+XI-G bonds issued for the benefit of the public university or community college
+and meeting the requirements set forth in Article XI-G, section 1 (3), of the
+Oregon Constitution. 
+
+       (12) “Public
+university” means any institution established as a public university under ORS
+352.002. 
+
+       (13) “Refunding
+bond” means an Article XI-F(1) bond issued for the purpose of refunding an
+outstanding Article XI-F(1) bond, or an Article XI-G bond issued for the
+purpose of refunding an outstanding Article XI-G bond, regardless of whether
+the refunding is on a current, advance, forward delivery, synthetic or other
+basis. 
+
+       (14) “Revenue
+sufficiency” means the condition of having revenues, not including amounts
+appropriated by the Legislative Assembly from the General Fund, that are
+conservatively estimated to be lawfully available and sufficient to pay debt
+service on particular Article XI-F(1) bonds and operate the projects financed
+with the proceeds of those Article XI-F(1) bonds. [2015 c.828 §2; 2016 c.66 §9;
+2017 c.9 §9] 
+
+   
+
+       286A.833
+Authority of State Treasurer to issue Article XI-F(1) bonds. (1) In accordance with the
+applicable provisions of this chapter, the State Treasurer, with the
+concurrence of the Higher Education Coordinating Commission, may issue Article
+XI-F(1) bonds for the benefit of a public university if: 
+
+       (a) The Director
+of the Oregon Department of Administrative Services requests that bonds be
+issued for the purposes specified in Article XI-F(1) of the Oregon
+Constitution, plus an amount determined by the State Treasurer to pay estimated
+bond-related costs; 
+
+       (b) The issuance
+does not exceed the budget authorization for bond issuance established under
+ORS 286A.035; and 
+
+       (c) A loan
+agreement is executed under ORS 286A.836 prior to sale of the bonds. 
+
+       (2) The State
+Treasurer may issue Article XI-F(1) bonds for the purpose of refunding Article
+XI-F(1) bonds, with the concurrence of a public university that received
+proceeds of Article XI-F(1) bonds to be refunded. 
+
+       (3) The State
+Treasurer shall deposit the net proceeds of Article XI-F(1) bonds in one or
+more project funds established in the State Treasury or with a third party
+under contract with the Oregon Department of Administrative Services and
+approved by the State Treasurer. Net proceeds of Article XI-F(1) bonds must be
+expended for the purposes described in the commission’s budget authorization. 
+
+       (4) If at any
+time the department and the commission jointly determine that the net proceeds
+of Article XI-F(1) bonds deposited in a project fund pursuant to subsection (3)
+of this section exceed the cost of the project described in the commission’s
+budget authorization, the department may allocate and transfer the excess
+amount as determined by the department to other project funds, the Article
+XI-F(1) Bond Fund established under ORS 286A.839 or the Article XI-F(1) Bond
+Administration Fund established under ORS 286A.842. Before transferring an
+excess amount under this subsection, the department shall consult with the
+public university for whose benefit the Article XI-F(1) bonds were issued, but
+the department may transfer an excess amount without the approval of the public
+university. Excess amounts may not be transferred to a project fund for the
+project of another public university unless the applicable loan agreements and
+loan repayment schedules are amended to reflect the transfer. 
+
+       (5) Article
+XI-F(1) bonds are direct general obligations of the State of Oregon and must
+contain a direct promise on behalf of the State of Oregon to pay the principal
+of, the interest on and the premium, if any, on the Article XI-F(1) bonds. The
+State of Oregon shall pledge its full faith and credit and taxing power to the
+payment of the principal of, the interest on and the premium, if any, on
+Article XI-F(1) bonds, and the ad valorem taxing power of the State of Oregon
+may be pledged to pay Article XI-F(1) bonds. [2015 c.828 §3; 2017 c.570 §7] 
+
+   
+
+       286A.836 Loan
+agreements for Article XI-F(1) bonds. 
+Prior to the sale of any Article XI-F(1) bonds, except for refunding bonds, a
+public university and the Higher Education Coordinating Commission shall enter
+into a loan agreement that includes: 
+
+       (1) A
+representation by the public university that it has revenue sufficiency for the
+Article XI-F(1) bonds; 
+
+       (2) A loan
+repayment schedule and a covenant of the public university to make all required
+loan repayment schedule payments to the commission prior to the date any bond
+debt service payments are due on the Article XI-F(1) bonds that financed the
+loan; 
+
+       (3) Terms and
+conditions obligating the public university to maintain any federal tax
+benefits related to the Article XI-F(1) bonds and to execute and deliver any
+required tax certificates or agreements in connection with any federal tax
+benefits related to the Article XI-F(1) bonds; and 
+
+       (4) Terms and
+conditions indemnifying the State of Oregon against regulatory or bondholder
+liability due to the action or inaction of the public university related to the
+Article XI-F(1) bonds. [2015 c.828 §4; 2016 c.66 §10] 
+
+   
+
+       286A.839
+Article XI-F(1) Bond Fund; purposes. 
+(1) The Article XI-F(1) Bond Fund is established in the State Treasury,
+separate and distinct from the General Fund, or with a third party under
+contract with the Oregon Department of Administrative Services and approved by
+the State Treasurer. Moneys in the Article XI-F(1) Bond Fund may be invested as
+provided in ORS 286A.025 and 293.701 to 293.857, and interest earned on the
+fund must be credited to the fund. Moneys credited to the Article XI-F(1) Bond
+Fund are continuously appropriated to the department for the purpose of paying,
+when due, the principal of, the interest on and the premium, if any, on
+outstanding Article XI-F(1) bonds. The department shall deposit in the fund: 
+
+       (a) Capitalized
+or accrued interest on Article XI-F(1) bonds; 
+
+       (b) Moneys, if
+any, appropriated or otherwise provided by the Legislative Assembly for deposit
+in the fund; 
+
+       (c) Reserves, if
+any, established for the payment of Article XI-F(1) bonds; 
+
+       (d) Moneys
+transferred from a project fund under ORS 286A.833 (4); 
+
+       (e) Moneys
+received as payment under a loan agreement or the schedule provided under ORS
+352.415; 
+
+       (f) Moneys
+received from ad valorem taxes levied pursuant to ORS 291.445; and 
+
+       (g) Moneys
+provided by the Legislative Assembly in lieu of ad valorem taxes levied
+pursuant to ORS 291.445. 
+
+       (2) The
+department shall credit any interest earnings in the fund on amounts paid by a
+public university pursuant to a loan agreement or the schedule provided under
+ORS 352.415 that exceed the amount needed to repay outstanding Article XI-F(1)
+bonds issued for the benefit of the public university against the payment
+obligations of the public university under a loan agreement or the schedule
+provided under ORS 352.415. 
+
+       (3) At the
+request of the department, the State Treasurer may create or cause to be
+created separate accounts in the fund for reserves and debt service for each
+series of Article XI-F(1) bonds. [2015 c.828 §5] 
+
+   
+
+       286A.842
+Article XI-F(1) Bond Administration Fund; purposes. (1) The Article XI-F(1) Bond
+Administration Fund is established in the State Treasury, separate and distinct
+from the General Fund, or with a third party under contract with the Oregon
+Department of Administrative Services and approved by the State Treasurer.
+Moneys in the Article XI-F(1) Bond Administration Fund may be invested as
+provided in ORS 286A.025 and 293.701 to 293.857, and interest earned on the
+fund must be credited to the fund. Moneys credited to the Article XI-F(1) Bond
+Administration Fund are continuously appropriated to the department for payment
+of bond-related costs. The department shall credit to the fund: 
+
+       (a) Proceeds of
+Article XI-F(1) bonds that were issued to pay bond-related costs; and 
+
+       (b) Moneys
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the fund. 
+
+       (2) At the
+request of the department, the State Treasurer may create or cause to be
+created separate accounts in the Article XI-F(1) Bond Administration Fund. [2015
+c.828 §6] 
+
+   
+
+       286A.845
+Budgeting for Article XI-F(1) bonds. 
+The Higher Education Coordinating Commission shall request that the Governor
+include in the Governor’s budget request to the Legislative Assembly for each
+biennium amounts that are sufficient to pay: 
+
+       (1) The costs of
+loan agreement disbursements during the biennium to public universities for the
+costs of projects to be financed by the issuance of Article XI-F(1) bonds; 
+
+       (2) The debt
+service due during the biennium for any Article XI-F(1) bonds that have been or
+will be issued; 
+
+       (3) Amounts
+billed during the biennium by the Oregon Department of Administrative Services,
+or the commission, under ORS 286A.863 (2); and 
+
+       (4) Any
+bond-related costs associated with any Article XI-F(1) bonds. [2015 c.828 §7] 
+
+   
+
+       286A.848
+Authority of State Treasurer to issue Article XI-G bonds. (1) In accordance with the
+applicable provisions of this chapter, the State Treasurer, with the
+concurrence of the Higher Education Coordinating Commission, may issue Article
+XI-G bonds for the benefit of a public university or a community college if: 
+
+       (a) The Director
+of the Oregon Department of Administrative Services requests that bonds be
+issued for the purposes specified in Article XI-G of the Oregon Constitution,
+plus an amount determined by the State Treasurer to pay estimated bond-related
+costs; 
+
+       (b) The issuance
+does not exceed the budget authorization for bond issuance established under
+ORS 286A.035; and 
+
+       (c) A grant
+contract is executed under ORS 286A.851 prior to sale of the bonds. 
+
+       (2) The State
+Treasurer may issue Article XI-G bonds for the purpose of refunding Article
+XI-G bonds without a request from the director when the State Treasurer
+determines it is in the best interests of the State of Oregon to refund Article
+XI-G bonds. 
+
+       (3) The State
+Treasurer shall deposit the net proceeds of Article XI-G bonds in one or more
+project funds established in the State Treasury or with a third party under
+contract with the Oregon Department of Administrative Services and approved by
+the State Treasurer. Net proceeds of Article XI-G bonds must be expended for
+the purposes described in the commission’s budget authorization. 
+
+       (4) If at any
+time the department and the commission jointly determine that the net proceeds
+of Article XI-G bonds deposited in a project fund pursuant to subsection (3) of
+this section exceed the cost of the project described in the commission’s
+budget authorization, the department may allocate and transfer the excess
+amount as determined by the department to other project funds, the Article XI-G
+Bond Fund established under ORS 286A.854 or the Article XI-G Bond
+Administration Fund established under ORS 286A.857. 
+
+       (5) Article XI-G
+bonds are direct general obligations of the State of Oregon and must contain a
+direct promise on behalf of the State of Oregon to pay the principal of, the
+interest on and the premium, if any, on the Article XI-G bonds. The State of
+Oregon shall pledge its full faith and credit and taxing power to the payment
+of the principal of, the interest on and the premium, if any, on Article XI-G
+bonds, and the ad valorem taxing power of the State of Oregon may be pledged to
+pay Article XI-G bonds. [2015 c.828 §8; 2017 c.9 §10] 
+
+   
+
+       Note: Section 9 (2), chapter 630, Oregon
+Laws 2025, provides: 
+
+       Sec. 9. (2) For biennia beginning on or
+after July 1, 2025, the aggregate amount authorized for issuance of general
+obligation bonds under Article XI-G of the Oregon Constitution for projects at
+a single community college may not exceed $12 million. [2025 c.630 §9(2)] 
+
+   
+
+       286A.851 Grant
+contracts for Article XI-G bonds. 
+(1) Prior to the sale of any Article XI-G bonds, except for refunding bonds, a
+public university or a community college and the Higher Education Coordinating
+Commission must enter into a grant contract. 
+
+       (2) The grant
+contract must include: 
+
+       (a) A
+certification that the requirement for a matching amount is satisfied; 
+
+       (b) Terms and
+conditions obligating the public university or community college to maintain
+any federal tax benefit related to the Article XI-G bonds and to execute and
+deliver any required tax certificates or agreements in connection with any
+federal tax benefit related to the Article XI-G bonds; and 
+
+       (c) Terms and
+conditions indemnifying the State of Oregon against regulatory or bondholder
+liability due to the action or inaction of the public university or community
+college related to the Article XI-G bonds. 
+
+       (3) The grant
+contract may include: 
+
+       (a) Reporting and
+accounting requirements or other conditions necessary or advisable to ensure
+that moneys are expended for intended purposes; 
+
+       (b) Terms and
+conditions that are necessary or advisable to ensure compliance with applicable
+laws or regulations; and 
+
+       (c) Provisions
+for the payment of fees by a community college to cover costs of the commission
+relating to the execution of the commission’s responsibilities under the grant
+contract. [2015 c.828 §9; 2016 c.66 §11; 2017 c.9 §11] 
+
+   
+
+       286A.854
+Article XI-G Bond Fund; purposes. 
+(1) The Article XI-G Bond Fund is established in the State Treasury, separate
+and distinct from the General Fund, or with a third party under contract with
+the Oregon Department of Administrative Services and approved by the State
+Treasurer. Moneys in the Article XI-G Bond Fund may be invested as provided in
+ORS 286A.025 and 293.701 to 293.857, and interest earned on the fund must be
+credited to the fund. Moneys credited to the Article XI-G Bond Fund are
+continuously appropriated to the department for the purpose of paying, when
+due, the principal of, the interest on and the premium, if any, on outstanding
+Article XI-G bonds. The department shall deposit in the fund: 
+
+       (a) Capitalized
+or accrued interest on Article XI-G bonds; 
+
+       (b) Moneys
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the fund; 
+
+       (c) Reserves, if
+any, established for the payment of Article XI-G bonds; 
+
+       (d) Moneys
+transferred from a project fund under ORS 286A.848 (4); 
+
+       (e) Moneys
+received from ad valorem taxes levied pursuant to ORS 291.445; and 
+
+       (f) Moneys
+provided by the Legislative Assembly in lieu of ad valorem taxes levied under
+ORS 291.445. 
+
+       (2) At the
+request of the department, the State Treasurer may create or cause to be
+created separate accounts in the fund for reserves and debt service for each
+series of Article XI-G bonds. [2015 c.828 §10] 
+
+   
+
+       286A.857
+Article XI-G Bond Administration Fund; purposes. (1) The Article XI-G Bond
+Administration Fund is established in the State Treasury, separate and distinct
+from the General Fund, or with a third party under contract with the Oregon
+Department of Administrative Services and approved by the State Treasurer.
+Moneys in the Article XI-G Bond Administration Fund may be invested as provided
+in ORS 286A.025 and 293.701 to 293.857, and interest earned on the fund must be
+credited to the fund. Moneys credited to the Article XI-G Bond Administration
+Fund are continuously appropriated to the department for payment of
+bond-related costs. The department shall credit to the fund: 
+
+       (a) Proceeds of
+Article XI-G bonds that were issued to pay bond-related costs; and 
+
+       (b) Moneys
+appropriated or otherwise provided by the Legislative Assembly for deposit in
+the fund. 
+
+       (2) At the
+request of the department, the State Treasurer may create or cause to be
+created separate accounts in the Article XI-G Bond Administration Fund. [2015
+c.828 §11] 
+
+   
+
+       286A.860
+Budgeting for Article XI-G bonds. 
+The Higher Education Coordinating Commission shall request that the Governor
+include in the Governor’s budget request to the Legislative Assembly for each
+biennium amounts that are sufficient to pay: 
+
+       (1) The costs of
+grant contract disbursements during the biennium for any projects to be
+financed by the issuance of Article XI-G bonds; 
+
+       (2) The debt
+service due during the biennium for any Article XI-G bonds that have been or
+will be issued; 
+
+       (3) Amounts
+billed during the biennium by the Oregon Department of Administrative Services,
+or the commission, under ORS 286A.863 (2); and 
+
+       (4) Any
+bond-related costs associated with any Article XI-G bonds. [2015 c.828 §12] 
+
+   
+
+       286A.863
+Rules; billing of public universities and community colleges; agreements with
+Oregon Health and Science University. 
+(1) The Oregon Department of Administrative Services may, in consultation with
+the Higher Education Coordinating Commission, adopt rules for the purpose of
+carrying out ORS 286A.830 to 286A.863, including, but not limited to,
+establishing: 
+
+       (a) Fees and
+costs to be paid by public universities or community colleges for
+administration of higher education bonds, including reasonable fees and
+expenses of the State Treasurer as provided in ORS 286A.014; 
+
+       (b) The form,
+content and timing of information to be submitted by public universities and
+community colleges to be used by the commission and the State Treasurer to
+evaluate revenue sufficiency for Article XI-F(1) bonds and availability and
+sufficiency of matching amounts for Article XI-G bonds; and 
+
+       (c) Standards,
+terms and conditions for maintaining federal tax benefits related to higher
+education bonds. 
+
+       (2) The
+department or the commission, or both, may periodically bill a public
+university or community college, without duplicating costs billed by contract,
+for the public university’s or community college’s proportional share of costs
+incurred by the department, or the commission, in connection with higher
+education bonds, including, but not limited to: 
+
+       (a) Bond-related
+costs of higher education bonds issued or proposed to be issued to finance or
+refinance projects of the public university or community college; and 
+
+       (b) Costs of
+legal or financial consultants or advisors, including, without limitation, bond
+counsel to the State of Oregon, for services that are provided at the request
+of a public university or community college in connection with higher education
+bonds that are issued or proposed to be issued. 
+
+       (3) The
+department and the commission may each bill at such intervals as may be
+established in the department’s or commission’s own procedures and shall
+deposit the moneys received in the applicable bond fund, bond administration
+fund or other fund relating to higher education bonds, as the department or
+commission determines is appropriate. A public university or community college
+that receives a bill for bond-related costs shall pay the amount billed by the
+time and in the manner designated in the billing statement. 
+
+       (4)(a) The
+department or the commission may enter into agreements with Oregon Health and
+Science University to: 
+
+       (A) Receive
+payments from Oregon Health and Science University of amounts used to pay debt
+service on bonds issued by the State Treasurer to finance joint projects of
+Oregon Health and Science University and one or more public universities; or 
+
+       (B) Administer
+tax compliance obligations of Oregon Health and Science University. 
+
+       (b) Solely for
+the purposes of receiving payments of amounts used to pay debt service and
+administering tax compliance obligations related to the bonds, the department
+or the commission may be a successor to, or an assignee of, the Oregon
+University System under agreements between Oregon Health and Science University
+and the Oregon University System. 
+
+       (c) The
+department or the commission may not assume any obligations or liability as the
+successor to, or assignee of, the Oregon University System under any agreements
+between Oregon Health and Science University and the Oregon University System,
+except for obligations or liability relating to the receipt of amounts used to
+pay debt service and the administration of tax compliance obligations. [2015
+c.828 §13; 2017 c.9 §12; 2017 c.17 §22; 2018 c.98 §2] 
+
+   
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

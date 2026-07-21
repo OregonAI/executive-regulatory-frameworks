@@ -1,0 +1,4266 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+  Chapter
+367 — Transportation Financing; Projects 
+
+   
+
+ ORS sections in this chapter were amended or repealed by
+the Legislative Assembly during its 2025 special session. See the table of ORS
+sections amended or repealed during the 2025 special session: 2025 ss A&R Tables 
+
+   
+
+ ORS sections in this
+chapter were amended or repealed by the Legislative Assembly during its 2026
+regular session. See the table of ORS sections amended or repealed during the
+2026 regular session: 2026
+A&R Tables 
+
+   
+
+ Uncodified sections
+printed in this chapter were amended or repealed by the Legislative Assembly
+during its 2026 regular session. See the table of uncodified sections amended
+or repealed during the 2026 regular session: 2026
+A&R Tables 
+
+   
+
+ New sections of law
+were enacted by the Legislative Assembly during its 2026 regular session and
+pertain to or are likely to be compiled in this ORS chapter. See sections in
+the following 2026 Oregon Laws chapters: 2026
+Session Laws 0135 
+
+   
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ TRANSPORTATION FINANCING; PROJECTS 
+
+   
+
+ HIGHWAYS, ROADS, BRIDGES AND
+FERRIES 
+
+   
+
+ FINANCING FOR TRANSPORTATION
+PROJECTS 
+
+   
+
+ (Generally) 
+
+   
+
+ 367.010     Definitions for chapter 
+
+   
+
+ 367.015     Oregon Transportation
+Infrastructure Fund; sources; uses; rules; investment 
+
+   
+
+ 367.020     Loans and other
+assistance to public and private entities; rules; other authorized purposes 
+
+   
+
+ 367.025     Issuance of
+infrastructure bonds 
+
+   
+
+ 367.030     Issuance of revenue
+bonds; bond covenants; maximum amount of bonds 
+
+   
+
+ 367.035     Loans to
+municipalities; authority of municipalities; repayment plan 
+
+   
+
+ 367.040     Loans to state
+agencies; loan contract 
+
+   
+
+ 367.050     Powers of department 
+
+   
+
+ 367.055     Federal stimulus moneys 
+
+   
+
+ 367.060     Department pledge to
+ensure loan guarantees; transfer of moneys from State Highway Fund 
+
+   
+
+ (Short Line Railroads) 
+
+   
+
+ 367.066     Definitions for ORS
+367.066 and 367.067 
+
+   
+
+ 367.067     Short Line Credit
+Premium Account; rules 
+
+   
+
+ (Industrial Rail Spurs) 
+
+   
+
+ 367.070     Industrial Rail Spur
+Fund 
+
+   
+
+ (Connect Oregon Projects) 
+
+   
+
+ 367.080     Connect Oregon Fund 
+
+   
+
+ 367.081     Distribution of amounts
+in Connect Oregon Fund 
+
+   
+
+ 367.082     Grants from Connect
+Oregon Fund; rules 
+
+   
+
+ 367.084     Selection of projects 
+
+   
+
+ 367.086     Administration of
+projects 
+
+   
+
+ (Multimodal Active Transportation
+Projects) 
+
+   
+
+ 367.091     Multimodal Active
+Transportation Fund 
+
+   
+
+ 367.093     Grants from Multimodal
+Active Transportation Fund; rules 
+
+   
+
+ (Tax and Fee Distribution and
+Projects) 
+
+   
+
+ 367.095     Tax and fee
+distribution and projects 
+
+   
+
+ 367.097     Debt service 
+
+   
+
+ 367.098     Fund exchange;
+allocation to local governments; rules 
+
+   
+
+ SHORT-TERM DEBT 
+
+   
+
+ 367.105     Short-term borrowing;
+conditions; repayment 
+
+   
+
+ GRANT ANTICIPATION REVENUE BONDS 
+
+   
+
+ 367.161     Definitions for ORS
+367.161 to 367.181 
+
+   
+
+ 367.163     Purposes for which
+bonds may be issued 
+
+   
+
+ 367.166     Requirements for grant
+anticipation revenue bonds; authority of State Treasurer 
+
+   
+
+ 367.168     Revenue declaration 
+
+   
+
+ 367.171     Indenture 
+
+   
+
+ 367.173     Moneys that may be used
+for payment of grant anticipation revenue bonds 
+
+   
+
+ 367.176     Refunding grant
+anticipation revenue bonds 
+
+   
+
+ 367.178     Collection and use of federal
+transportation funds 
+
+   
+
+ 367.181     Limits on obligation of
+grant anticipation revenue bonds 
+
+   
+
+ BONDED INDEBTEDNESS FOR STATE
+HIGHWAYS 
+
+   
+
+ 367.555     Authority to issue
+general obligation bonds 
+
+   
+
+ 367.560     Disposition and use of
+general obligation bond proceeds 
+
+   
+
+ 367.565     Procedure for issuing
+general obligation bonds under ORS 367.555 to 367.600 
+
+   
+
+ 367.595     Setting aside
+sufficient moneys to pay maturing obligations 
+
+   
+
+ 367.600     Compliance with
+constitutional debt limits 
+
+   
+
+ HIGHWAY USER TAX BONDS 
+
+   
+
+ 367.605     Source of funds to
+secure Highway User Tax Bonds 
+
+   
+
+ 367.615     Bond issuance; bonds
+not general obligation; conditions for issuance of additional bonds; use of
+bond proceeds 
+
+   
+
+ 367.617     Allocation of bonds 
+
+   
+
+ 367.620     Limitation on bond
+amount 
+
+   
+
+ 367.621     Use of private sector resources
+in specified work 
+
+   
+
+ 367.622     Preservation and
+modernization projects funded by specified bonds; rules; selection criteria 
+
+   
+
+ 367.623     Consultation with local
+governments for project selection 
+
+   
+
+ 367.630     Highway revenue
+declaration; contents; purpose 
+
+   
+
+ 367.635     Bond form, issuance and
+maturity; provisions subject to determination of State Treasurer 
+
+   
+
+ 367.640     Indenture; provisions 
+
+   
+
+ 367.645     Reserve account 
+
+   
+
+ 367.650     Trust indenture to
+secure bonds; provisions 
+
+   
+
+ 367.655     Loan of bond proceeds
+to cities and counties; use of loans; rules 
+
+   
+
+ 367.660     Lien on certain moneys
+pledged for bonds; terms of lien 
+
+   
+
+ 367.665     Interest on bonds
+exempt from state income tax 
+
+   
+
+ BONDED INDEBTEDNESS FOR CITY AND
+COUNTY ROADS AND RECREATION FACILITIES 
+
+   
+
+ 367.700     Authority to sell limited
+amount of bonds under ORS 367.700 to 367.750 
+
+   
+
+ 367.705     Use of funds; priority 
+
+   
+
+ 367.710     Repayment by city or
+county; interest 
+
+   
+
+ 367.715     Procedure for issuing
+bonds under ORS 367.700 to 367.750 
+
+   
+
+ 367.745     Setting aside
+sufficient moneys to pay maturing bonds 
+
+   
+
+ 367.750     Constitutional debt
+limits not to be exceeded 
+
+   
+
+ OREGON INNOVATIVE PARTNERSHIPS
+PROGRAM 
+
+   
+
+ 367.800     Findings 
+
+   
+
+ 367.802     Definitions 
+
+   
+
+ 367.804     Goals of Oregon
+Innovative Partnerships Program; authority of Department of Transportation;
+confidentiality; expenses 
+
+   
+
+ 367.806     Agreements 
+
+   
+
+ 367.808     Evaluation of proposed
+agreements; role of Attorney General 
+
+   
+
+ 367.810     State Transportation
+Enterprise Fund 
+
+   
+
+ 367.812     Bonds secured by State
+Transportation Enterprise Fund; financing of transportation projects 
+
+   
+
+ 367.814     Moneys from federal
+government or other sources 
+
+   
+
+ 367.816     Use of moneys in Oregon
+Transportation Infrastructure Fund for projects 
+
+   
+
+ 367.818     Eminent domain powers 
+
+   
+
+ 367.820     Creation of district;
+use of revenues within district 
+
+   
+
+ 367.822     Advisory committees on
+transportation projects; rules 
+
+   
+
+ 367.824     Rules; supremacy of
+federal law 
+
+   
+
+ MISCELLANEOUS 
+
+   
+
+ 367.850     Alternatives to meeting
+funding requirements of transportation planning rule; rules 
+
+   
+
+       Note: The definitions in 366.005 apply
+to this chapter. 
+
+   
+
+ FINANCING FOR
+TRANSPORTATION PROJECTS 
+
+   
+
+ (Generally) 
+
+   
+
+       367.010
+Definitions for chapter. 
+As used in this chapter: 
+
+       (1) “Agency”
+means any department, agency or commission of the State of Oregon. 
+
+       (2) “Bond” means
+a contractual undertaking or an instrument to borrow money including, but not
+limited to, a bond, a note, an obligation, a loan agreement, a financing lease,
+a financing agreement or other similar instrument or agreement. 
+
+       (3) “Bond debt
+service” means payment of: 
+
+       (a) Principal,
+interest, premium, if any, or purchase price of a bond; 
+
+       (b) Amounts due
+to a credit enhancement provider, trustee, paying agent, commercial paper
+dealer or remarketing agent authorized by this chapter; 
+
+       (c) Amounts
+necessary to fund bond debt service reserves; and 
+
+       (d) Amounts due
+under an agreement for exchange of interest rates if designated by the State
+Treasurer or the Department of Transportation. 
+
+       (4) “Credit
+enhancement” means a credit enhancement device, as defined in ORS 286A.001. 
+
+       (5) “Financial
+institution” means a banking institution, a financial institution or a
+non-Oregon institution, as those terms are defined in ORS 706.008, and any
+other institution defined by rule of the Oregon Transportation Commission as a
+financial institution for purposes of ORS 367.010 to 367.067. 
+
+       (6) “Infrastructure
+assistance” means any use of moneys in the Oregon Transportation Infrastructure
+Fund, other than an infrastructure loan, to provide financial assistance for
+transportation projects. The term includes, but is not limited to, use of
+moneys in the infrastructure fund to finance leases, fund reserves, make
+grants, pay issuance costs or provide credit enhancement or other security for
+bonds issued by a public entity to finance transportation projects. 
+
+       (7) “Infrastructure
+bonds” means bonds authorized by ORS 367.030, 367.555 to 367.600 or 367.605 to
+367.665 that are issued to fund infrastructure loans and the proceeds of which
+are deposited in the infrastructure fund. 
+
+       (8) “Infrastructure
+fund” means the Oregon Transportation Infrastructure Fund. 
+
+       (9) “Infrastructure
+loan” means a loan of moneys in the infrastructure fund to finance a
+transportation project. 
+
+       (10) “Municipality”
+means a city, county, road district, school district, special district,
+metropolitan service district, the Port of Portland or an intergovernmental
+entity organized under ORS 190.010. 
+
+       (11) “Transportation
+project” means any project or undertaking that facilitates any mode of
+transportation within this state. The term includes, but is not limited to, a
+project for highway, transit, rail and aviation capital infrastructure, bicycle
+and pedestrian paths, bridges and ways, and other projects that facilitate the
+transportation of materials, animals or people. [1997 c.679 §1; 1999 c.1036 §3;
+2003 c.201 §11; 2007 c.783 §161; 2021 c.630 §154] 
+
+   
+
+       367.015 Oregon
+Transportation Infrastructure Fund; sources; uses; rules; investment. (1) There is established in the
+State Treasury, separate and distinct from the General Fund, the Oregon
+Transportation Infrastructure Fund. All moneys in the infrastructure fund are
+continuously appropriated to the Department of Transportation for the purposes
+of ORS 367.010 to 367.067. 
+
+       (2) The
+infrastructure fund consists of: 
+
+       (a) Moneys
+appropriated to the infrastructure fund by the Legislative Assembly. 
+
+       (b) Moneys
+transferred to the infrastructure fund by the department from the State Highway
+Fund or from other funds available to the Oregon Transportation Commission. 
+
+       (c) Moneys from
+any federal grant, state grant or other grant that are deposited in the
+infrastructure fund. 
+
+       (d) Proceeds of
+infrastructure bonds. 
+
+       (e) Proceeds of
+Highway User Tax Bonds issued under ORS 367.615 for the purpose of providing
+infrastructure assistance or an infrastructure loan. 
+
+       (f) Moneys due to
+a municipality that are withheld pursuant to ORS 367.035 (3) or (5) and, for a
+loan made with proceeds of Highway User Tax Bonds, moneys due to a municipality
+that are withheld pursuant to ORS 367.655 (2)(c). 
+
+       (g) Earnings on
+the infrastructure fund. 
+
+       (h) Moneys paid
+to the department in connection with infrastructure loans or infrastructure
+assistance. 
+
+       (i) Any grants or
+donations made to the State of Oregon for deposit in the infrastructure fund. 
+
+       (3) A pledge by
+the department of its revenues or other moneys in the infrastructure fund is
+valid and binding from the time the pledge is made as provided in ORS 286A.102. 
+
+       (4) The
+department shall use moneys in the infrastructure fund solely to: 
+
+       (a) Provide
+infrastructure loans and infrastructure assistance; 
+
+       (b) Pay the bond
+debt service for infrastructure bonds and pay the costs of issuance and other
+costs related to infrastructure bonds; 
+
+       (c) Pay the
+department’s costs of administering the infrastructure fund and providing
+infrastructure loans and infrastructure assistance, including any costs of
+monitoring transportation projects and obtaining repayment of infrastructure
+loans and infrastructure assistance; 
+
+       (d) Pay the
+department’s or another public entity’s costs for transportation projects
+including, but not limited to, projects funded with the proceeds of Highway
+User Tax Bonds; and 
+
+       (e) Ensure
+repayment of loan guarantees or extensions of credit as provided in ORS
+367.816. 
+
+       (5) The
+department may establish separate accounts in the infrastructure fund for
+infrastructure loans, infrastructure assistance, the funding of infrastructure
+bond reserves, bond debt service payments for infrastructure bonds and related
+costs, administrative and operating expenses or any other purpose necessary or
+desirable for carrying out the purposes of ORS 367.010 to 367.067. The
+commission may adopt rules that govern how the infrastructure fund and its
+accounts are used. The infrastructure fund or any of its accounts may be held
+by an escrow agent or bond trustee. 
+
+       (6) The
+department shall administer the infrastructure fund. Moneys in the
+infrastructure fund, with the approval of the State Treasurer, may be invested
+as provided by ORS 293.701 to 293.857 and the earnings from such investments
+must be credited to the account in the infrastructure fund designated by the
+department. [1997 c.679 §2; 2003 c.201 §12; 2003 c.790 §14; 2007 c.783 §162] 
+
+   
+
+       367.017 [2009 c.865 §31; repealed by 2017
+c.750 §140] 
+
+   
+
+       367.020 Loans
+and other assistance to public and private entities; rules; other authorized
+purposes. (1)
+Moneys in the Oregon Transportation Infrastructure Fund may be used to make
+infrastructure loans and provide infrastructure assistance to any public or
+private entity. The Oregon Transportation Commission shall adopt rules that
+prescribe procedures and standards for making infrastructure loans and
+providing infrastructure assistance. 
+
+       (2) Moneys in the
+infrastructure fund may be used for any purpose as long as the use is
+consistent with any restrictions of the Oregon Constitution that may apply to
+such moneys. [1997 c.679 §§3,4; 2003 c.201 §13] 
+
+   
+
+       367.025
+Issuance of infrastructure bonds. 
+(1) If the Department of Transportation determines that it is necessary or
+desirable to issue infrastructure bonds to provide moneys for the Oregon
+Transportation Infrastructure Fund, the department shall ask the State
+Treasurer to issue infrastructure bonds. 
+
+       (2)
+Infrastructure bonds shall be issued as provided in ORS chapter 286A. [1997
+c.679 §5; 2001 c.536 §9; 2003 c.794 §266; 2007 c.783 §163] 
+
+   
+
+       367.030
+Issuance of revenue bonds; bond covenants; maximum amount of bonds. (1) To provide moneys for the
+Oregon Transportation Infrastructure Fund or to refund bonds authorized by this
+section, the State Treasurer may, at the request of the Department of
+Transportation, issue revenue bonds of the State of Oregon that are payable
+solely from all or any portion of the moneys deposited in the infrastructure
+fund and may pledge such moneys to secure the revenue bonds. The department or
+State Treasurer may exercise any power granted by ORS chapter 286A in
+connection with bonds authorized by this section. However, the State Treasurer
+or the department shall not pledge or encumber any moneys of the State of
+Oregon other than those required by ORS 367.010 to 367.067 to be deposited in
+the infrastructure fund. 
+
+       (2) The
+department may enter into covenants for the benefit of the owners of bonds
+authorized by this section regarding the use of moneys in the infrastructure
+fund, the providing of infrastructure assistance and the collection of
+infrastructure loans. Any such covenants shall be binding upon the State of
+Oregon in accordance with their terms and shall be enforceable against the
+State of Oregon by owners of the bonds. However, no owner of bonds authorized
+by this section shall ever have the right to compel any exercise of the taxing
+power of the state to pay any such bonds or the interest thereon, or to enforce
+payment thereof against any property of the state, except those moneys in the
+infrastructure fund that are pledged to pay the bonds and any moneys the
+department or an agency may agree to use to repay infrastructure loans under
+ORS 367.040. Bonds authorized by this section shall not constitute a charge,
+lien or encumbrance, legal or equitable, upon any property of the state, except
+moneys in the infrastructure fund that are pledged to pay the bonds, and any
+property that the department or agency pledges, mortgages or assigns to secure
+infrastructure loans pursuant to ORS 367.040. Revenue bonds authorized by this
+section shall not constitute a debt of the state or a lending of the credit of
+the state within the meaning of any constitutional or statutory limitation. 
+
+       (3) The total
+principal amount of revenue bonds that are issued under this section and
+outstanding at any time shall not exceed $200 million. [1997 c.679 §6; 2007
+c.783 §164] 
+
+   
+
+       367.035 Loans
+to municipalities; authority of municipalities; repayment plan. (1) Notwithstanding any other
+provision of law or any restriction on indebtedness contained in a charter, a
+municipality may obtain an infrastructure loan from the Department of
+Transportation by entering into a loan contract with the department. A municipality
+that obtains an infrastructure loan may pledge to the repayment of the loan all
+or any portion of the revenue sources specified in this subsection. A
+municipality shall repay an infrastructure loan in accordance with the terms of
+the loan contract and to the extent required by the loan contract from any or
+all of the following sources: 
+
+       (a) Revenues of
+any transportation project, including special assessment revenues; 
+
+       (b) Moneys
+withheld under subsection (3) or (5) of this section; 
+
+       (c) The general
+fund of the municipality; or 
+
+       (d) Any other
+sources including, but not limited to, an appropriation or allocation to a
+county under ORS 366.762 to 366.768 or to a city under ORS 366.785 to 366.820. 
+
+       (2) An
+infrastructure loan contract with a municipality may provide that a portion of
+the proceeds of the loan be applied to fund a reserve fund to secure the
+repayment of the loan or secure the repayment of revenue bonds issued to
+finance the loan. 
+
+       (3) An
+infrastructure loan contract with a city or county may provide that all or a
+portion of the principal and interest on an infrastructure loan be repaid by
+withholding all or a portion of an apportionment due to a county under ORS
+366.762 to 366.768 or due to a city under ORS 366.785 to 366.820. The
+department shall immediately transfer funds withheld under this subsection from
+the State Highway Fund to the Oregon Transportation Infrastructure Fund. 
+
+       (4) A
+municipality that intends to obtain an infrastructure loan shall adopt an
+ordinance or resolution authorizing the infrastructure loan. 
+
+       (5) If a
+municipality fails to comply with the terms of an infrastructure loan contract,
+the department may seek any legal or equitable remedy to obtain compliance or
+payment of damages. If any municipality fails to make an infrastructure loan
+payment when due, the State of Oregon shall, at the request of the department,
+withhold any funds due to the municipality from the state and apply the amounts
+withheld to pay the entire amount owed by the municipality under the
+infrastructure loan contract. The department shall deposit funds withheld under
+this subsection in the account of the infrastructure fund to which the
+municipality’s infrastructure loan payments are required to be deposited. The
+department may waive the right of the State of Oregon to withhold moneys under
+this subsection only if the department has not pledged the right as security
+for the repayment of infrastructure bonds. [1997 c.679 §7; 2003 c.201 §14] 
+
+   
+
+       367.040 Loans
+to state agencies; loan contract. 
+(1) Notwithstanding ORS 283.087 (4), an agency may obtain an infrastructure
+loan the principal amount of which, when combined with the principal amount of
+financing agreements previously entered into for the same project, is more than
+$100,000 for the project. An agency may agree to pay the infrastructure loan
+from any or all of the available moneys of the agency and may pledge all or any
+portion of those moneys to repay the infrastructure loan. An infrastructure
+loan of an agency does not constitute a debt of the state or a lending of the
+credit of the state within the meaning of any constitutional or statutory
+limitation. 
+
+       (2) If an
+infrastructure loan is made to an agency, the terms of the infrastructure loan
+contract bind the State of Oregon and the agency, and the agency shall
+unconditionally repay the infrastructure loan from the moneys the agency has
+pledged in accordance with the terms of the infrastructure loan contract. [1997
+c.679 §8; 2003 c.201 §15; 2013 c.767 §6] 
+
+   
+
+       367.050 Powers
+of department. The
+Department of Transportation may: 
+
+       (1) Make all
+contracts and agreements, execute and deliver all instruments and do all things
+necessary or convenient to provide financial assistance for transportation
+projects in accordance with ORS 367.010 to 367.067 or to perform covenants made
+to secure infrastructure bonds; and 
+
+       (2) Enter into
+and perform such contracts and agreements with entities concerning the
+planning, construction, lease or other acquisition, installation or financing
+of transportation projects. [1997 c.679 §9; 2003 c.201 §16] 
+
+   
+
+       367.055
+Federal stimulus moneys. 
+(1) The Department of Transportation shall consult with the legislative
+committees related to transportation during a session of the Legislative
+Assembly, or the interim legislative committees related to transportation,
+prior to expending federal funds received under a federal law that provides
+general economic stimulus moneys to this state that may be used by the
+department for transportation projects. 
+
+       (2) As used in
+this section, “transportation project” has the meaning given that term in ORS
+367.010. [2011 c.629 §3] 
+
+   
+
+       Note: 367.055 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 367
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       367.060
+Department pledge to ensure loan guarantees; transfer of moneys from State
+Highway Fund. (1)
+The Department of Transportation may pledge not more than $50 million to ensure
+the repayment of loan guarantees or other extensions of credit made to or on
+behalf of municipalities to finance transportation projects or to ensure
+repayment of loan guarantees or other extensions of credit as provided in ORS
+367.816. The lien of a pledge made under this subsection is subordinate to the
+lien of a pledge securing bonds issued under ORS 367.605 to 367.665. 
+
+       (2) If, during a
+fiscal year, the moneys in the Oregon Transportation Infrastructure Fund are
+insufficient to cover any claims by financial institutions, credit enhancement
+providers, bondholders or bond trustees that arise from loan guarantees or
+other extensions of credit made under ORS 367.010 to 367.067, the department
+shall transfer, as often as necessary or appropriate in that fiscal year,
+moneys from the State Highway Fund to satisfy such claims. However, the
+department may not make a transfer of moneys from the State Highway Fund
+otherwise required by this section if: 
+
+       (a) The transfer
+will reduce the moneys in the State Highway Fund to an amount that is
+insufficient to pay the principal and interest that will fall due during the
+fiscal year on outstanding bonds issued under ORS 367.555 to 367.600; or 
+
+       (b) The transfer
+relates to a claim arising out of a transportation project for which moneys in
+the State Highway Fund may not be used under section 3a, Article IX, Oregon
+Constitution, and ORS 366.505. [1999 c.1036 §2; 2003 c.201 §17; 2003 c.790 §15] 
+
+   
+
+ (Short Line Railroads) 
+
+   
+
+       367.066
+Definitions for ORS 367.066 and 367.067. As used in this section and ORS 367.067: 
+
+       (1) “Credit
+premium” means the amount required to be paid to the United States Secretary of
+Transportation before disbursement of a federal loan under RRIFP. 
+
+       (2) “RRIFP” means
+the Railroad Rehabilitation and Improvement Financing Program, 49 C.F.R. 260 et
+seq. 
+
+       (3) “Short line
+railroad” means a Class II or Class III railroad as defined in 49 C.F.R. 1201. [2001
+c.942 §15] 
+
+   
+
+       367.067 Short
+Line Credit Premium Account; rules. 
+(1) The Short Line Credit Premium Account is established as an account in the
+Oregon Transportation Infrastructure Fund. Moneys in the Short Line Credit
+Premium Account are continuously appropriated to the Department of
+Transportation for the purpose of carrying out the provisions of this section. 
+
+       (2) A short line
+railroad may apply to the Department of Transportation for infrastructure
+assistance in a manner determined by the department by rule. 
+
+       (3) In evaluating
+applications for infrastructure assistance under this section, the department
+shall give priority to projects that: 
+
+       (a) Enhance
+public safety; 
+
+       (b) Enhance the
+environment; 
+
+       (c) Appear
+creditworthy, providing financially secure sources of repayment to secure a
+federal credit instrument; 
+
+       (d) Promote rural
+economic development; 
+
+       (e) Reduce demand
+for expansion of highway capacity; 
+
+       (f) Enable Oregon
+companies to be more competitive in regional, national and international
+markets; 
+
+       (g) Preserve or
+enhance rail or intermodal service to small communities or rural areas; and 
+
+       (h) Will be
+operated by a short line railroad with federal credit assistance under the
+RRIFP. 
+
+       (4) If a short
+line railroad receives infrastructure assistance under this section for a
+project for which federal credit assistance was received under RRIFP, and if
+all or part of the credit premium is returned to the railroad by the federal
+government, the railroad shall remit to the department the amount of moneys
+returned to the railroad. 
+
+       (5) All moneys
+remitted to the department under subsection (4) of this section shall be
+deposited by the department into the Short Line Credit Premium Account. [2001
+c.942 §16] 
+
+   
+
+ (Industrial Rail Spurs) 
+
+   
+
+       367.070
+Industrial Rail Spur Fund. 
+The Industrial Rail Spur Fund is established separate and distinct from the
+General Fund. The moneys in the Industrial Rail Spur Fund and the interest
+earnings of the fund are continuously appropriated to the Department of
+Transportation for the purpose of financing grants and loans to fund industrial
+rail spurs. The fund consists of moneys deposited in the fund under section 10,
+chapter 741, Oregon Laws 2003, and may include fees, moneys, federal funds,
+Miscellaneous Receipts or other revenues available for the purpose. [2003 c.741
+§11] 
+
+   
+
+       Note: 367.070 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 367
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+ (Connect Oregon
+Projects) 
+
+   
+
+       367.080
+Connect Oregon Fund. 
+(1) As used in ORS 367.080 to 367.086: 
+
+       (a) “Private
+entity” means any entity that is not a public body, including but not limited
+to a corporation, partnership, company, nonprofit organization or other legal
+entity or natural person. 
+
+       (b) “Public body”
+has the meaning given that term in ORS 174.109. 
+
+       (c)(A) “Transportation
+project” means a project or undertaking for rail, marine or aviation capital
+infrastructure, including bridges, or a project that facilitates the
+transportation of materials, animals or people. 
+
+       (B) A
+transportation project does not include costs associated with operating
+expenses. 
+
+       (2) The Connect
+Oregon Fund is established in the State Treasury, separate and distinct from
+the General Fund. Earnings on moneys in the Connect Oregon Fund shall be
+deposited into the fund. Moneys in the Connect Oregon Fund are continuously
+appropriated to the Department of Transportation for the purposes described in
+subsection (3) of this section and in ORS 367.086. The fund consists of the
+following: 
+
+       (a) Moneys
+transferred to the fund under ORS 320.435. 
+
+       (b) Moneys
+appropriated to the fund by the Legislative Assembly. 
+
+       (c) Earnings on
+moneys in the fund. 
+
+       (d) Lottery bond
+proceeds. 
+
+       (e) Moneys from
+any other source. 
+
+       (3) The
+department shall use moneys in the Connect Oregon Fund to provide grants for
+transportation projects as provided in ORS 367.080 to 367.086. Grants may be
+provided only for projects that involve one or more of the following modes of
+transportation: 
+
+       (a) Aviation; 
+
+       (b) Marine; and 
+
+       (c) Rail. [2005
+c.816 §1; 2013 c.765 §1; 2015 c.707 §1; 2017 c.750 §78; 2019 c.491 §20] 
+
+   
+
+       Note: 367.080 to 367.086 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 367 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation. 
+
+   
+
+       Note: Section 71f, chapter 750, Oregon
+Laws 2017, provides: 
+
+       Sec. 71f. (1) Notwithstanding ORS 367.080 to
+367.089 [series became 367.080 to 367.086] and subject to subsection (3) of
+this section and the availability of funds, the Department of Transportation
+shall first distribute the moneys in the Connect Oregon Fund, other than moneys
+dedicated for purposes described in Article XV, section 4a, of the Oregon
+Constitution, for the projects listed in subsection (2) of this section. 
+
+       (2) The
+department shall distribute the following amounts for the projects listed
+below: 
+
+ ______________________________________________________________________________ 
+
+   
+
+       (a)  Mid-Willamette Valley 
+
+       Intermodal Facility            $          25
+million 
+
+       (b)  Treasure Valley 
+
+       Intermodal Facility            $          26
+million 
+
+       (c)  Rail expansion in 
+
+       East Beach Industrial 
+
+       Park at the 
+
+       Port of Morrow     $          6.55
+million 
+
+       (d)  Extend rail 
+
+       siding along the Amtrak 
+
+       Cascade line in Oregon 
+
+       south of the City 
+
+       of Portland $          2.6
+million 
+
+   
+
+ ______________________________________________________________________________ 
+
+       (3) No later than
+January 1, 2020, to receive a distribution under this section, a potential
+recipient of moneys shall prepare and submit a plan to the Oregon
+Transportation Commission. At a minimum, the plan submitted must certify when
+and how the potential recipient plans to spend the moneys for the project with
+no more than five percent of the allocated funds to be available to recipients
+for development of the plan. The commission shall promptly review any submitted
+plans and if the commission approves the plan, the Department of Transportation
+shall distribute the moneys after adopting an agreement with the recipient. The
+agreement shall follow rules adopted by the commission for projects that
+receive grants from the Connect Oregon Fund. 
+
+       (4) After the
+distributions, if any, are made under this section, the remainder of the moneys
+in the Connect Oregon Fund shall be distributed as described in ORS 367.080 to
+367.089. [2017 c.750 §71f; 2019 c.491 §10] 
+
+   
+
+       367.081
+Distribution of amounts in Connect Oregon Fund. (1) Each biennium, the Department
+of Transportation may provide grants for transportation projects under ORS
+367.080 only if the department determines that $50 million or more will be
+available in the Connect Oregon Fund for grants awarded under ORS 367.080 to
+367.086. 
+
+       (2) The
+department may use up to one percent of the amounts available within the
+Connect Oregon Fund to pay administrative costs incurred by the department in
+carrying out the provisions of ORS 367.080 to 367.086. 
+
+       (3) Each
+biennium, the department shall transfer seven percent of the moneys in the
+Connect Oregon Fund to the Multimodal Active Transportation Fund established
+under ORS 367.091 for the purpose of providing grants for bicycle and
+pedestrian transportation projects. [2017 c.750 §83; 2019 c.491 §21; 2023 c.400
+§2] 
+
+   
+
+       Note: See first note under 367.080. 
+
+   
+
+       367.082 Grants
+from Connect Oregon Fund; rules. 
+(1) Except as provided in subsection (2) of this section, the Department of
+Transportation may provide, from moneys in the Connect Oregon Fund established
+under ORS 367.080, grants for transportation projects to public bodies, as
+defined in ORS 174.109, and to private entities. 
+
+       (2) Grants may
+not be made from the Connect Oregon Fund for transportation projects that could
+constitutionally be funded by revenues described in Article IX, section 3a, of
+the Oregon Constitution. 
+
+       (3) The
+Department of Transportation shall adopt rules specifying the process by which
+a public body or private entity may apply for a grant under this section and
+prescribing the terms and conditions of grants. An applicant receiving a grant
+must provide the following amounts: 
+
+       (a) For public
+bodies and private entities, other than Class I railroads, 30 percent of the
+moneys required for the transportation project. 
+
+       (b) For Class I
+railroads, 50 percent of the moneys required for the transportation project. [2005
+c.816 §3; 2015 c.707 §2; 2017 c.750 §79] 
+
+   
+
+       Note: See first note under 367.080. 
+
+   
+
+       367.084
+Selection of projects. 
+(1) The Oregon Transportation Commission shall select transportation projects
+to be funded with moneys in the Connect Oregon Fund established under ORS
+367.080. 
+
+       (2)(a) Prior to
+selecting transportation projects, the commission shall seek input from the
+applicable area commission on transportation. 
+
+       (b) Prior to
+selecting aeronautic and airport transportation projects, the commission shall
+solicit recommendations from the State Aviation Board. 
+
+       (c) Prior to
+selecting freight transportation projects, the commission shall solicit
+recommendations from the Freight Advisory Committee. 
+
+       (d) Prior to
+selecting rail projects, the commission shall solicit recommendations from the
+rail advisory committee. 
+
+       (e) Prior to
+selecting marine projects, the commission shall solicit recommendations from
+the Oregon Business Development Department. 
+
+       (3) In selecting
+transportation projects, the commission shall consider: 
+
+       (a) Whether a
+proposed transportation project reduces transportation costs for Oregon
+businesses or improves access to jobs and sources of labor; 
+
+       (b) Whether a
+proposed transportation project results in an economic benefit to this state; 
+
+       (c) Whether a
+proposed transportation project is a critical link connecting elements of
+Oregon’s transportation system that will measurably improve utilization and
+efficiency of the system; 
+
+       (d) How much of
+the cost of a proposed transportation project can be borne by the applicant for
+the grant from any source other than the Connect Oregon Fund; 
+
+       (e) Whether a
+proposed transportation project is ready for construction; 
+
+       (f) Whether a
+proposed transportation project has a useful life expectancy that offers
+maximum benefit to the state; and 
+
+       (g) Whether a
+proposed transportation project is located near operations conducted for mining
+aggregate or processing aggregate as described in ORS 215.213 (2)(d) or 215.283
+(2)(b). 
+
+       (4) To promote
+fairness in the selection process, the Director of Transportation may not
+choose a member of a final review committee: 
+
+       (a) Who
+represents an entity that submitted an application for a Connect Oregon Fund
+grant that is being considered for funding by a final review committee; or 
+
+       (b) Has a direct
+financial interest in an application that is being considered for funding by a
+final review committee. [2005 c.816 §4; 2007 c.859 §3; 2013 c.765 §2; 2015
+c.707 §3; 2017 c.750 §80; 2019 c.491 §22] 
+
+   
+
+       Note: See first note under 367.080. 
+
+   
+
+       367.086
+Administration of projects. 
+(1) The Department of Transportation, in cooperation with the Oregon Department
+of Aviation, shall administer aeronautic and airport transportation projects
+selected under ORS 367.084 for funding with moneys in the Connect Oregon Fund.
+The Oregon Department of Aviation may use moneys from the Connect Oregon Fund
+to pay administrative costs incurred by the Oregon Department of Aviation in
+carrying out the provisions of ORS 367.080 to 367.086. 
+
+       (2) Except as
+provided in subsection (1) of this section, the Department of Transportation
+shall administer all transportation projects that are selected under ORS
+367.084. [2005 c.816 §6; 2013 c.765 §3; 2015 c.707 §4; 2017 c.750 §81] 
+
+   
+
+       Note: See first note under 367.080. 
+
+   
+
+       367.089 [2017 c.750 §84; repealed by 2019
+c.491 §56] 
+
+   
+
+ (Multimodal Active
+Transportation Projects) 
+
+   
+
+       367.091
+Multimodal Active Transportation Fund. 
+(1) As used in this section and ORS 367.093: 
+
+       (a) “Private
+entity” means any entity that is not a public body, including but not limited
+to a corporation, partnership, company, nonprofit organization or other legal
+entity or natural person. 
+
+       (b) “Public body”
+has the meaning given that term in ORS 174.109. 
+
+       (c) “Transportation
+project” means a project or undertaking for bicycle and pedestrian capital
+infrastructure, including bridges, paths and ways. A transportation project
+does not include costs associated with operating expenses or the purchase of
+bicycles. 
+
+       (2) The
+Multimodal Active Transportation Fund is established in the State Treasury,
+separate and distinct from the General Fund. Earnings on moneys in the
+Multimodal Active Transportation Fund shall be deposited into the fund. Moneys
+in the fund are continuously appropriated to the Department of Transportation
+for the purposes described in subsection (3) of this section and in ORS
+367.093. The fund consists of the following: 
+
+       (a) Moneys
+transferred to the fund under ORS 320.440. 
+
+       (b) Moneys
+transferred to the fund under ORS 367.081. 
+
+       (c) Moneys
+appropriated to the fund by the Legislative Assembly. 
+
+       (d) Earnings on
+moneys in the fund. 
+
+       (e) Moneys from
+any other source. 
+
+       (3) The
+department shall use moneys in the fund to award grants for bicycle and
+pedestrian transportation projects as provided in ORS 367.093. [2019 c.491 §23] 
+
+   
+
+       Note: 367.091 and 367.093 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 367 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation. 
+
+   
+
+       367.093 Grants
+from Multimodal Active Transportation Fund; rules. (1) The Department of
+Transportation shall establish the Multimodal Active Transportation Program.
+The department may provide, from moneys in the Multimodal Active Transportation
+Fund established under ORS 367.091, grants for transportation projects to public
+bodies and to private entities. 
+
+       (2) The
+department shall adopt rules specifying the process by which a public body or
+private entity may apply for a grant under this section and prescribing the
+terms and conditions of grants. An applicant receiving a grant must provide 30
+percent of the moneys required for the transportation project. 
+
+       (3) The Oregon
+Transportation Commission shall select transportation projects to be funded
+with moneys in the Multimodal Active Transportation Fund. Before selecting
+bicycle and pedestrian transportation projects, the commission shall solicit
+recommendations from the advisory committee created by ORS 366.112. [2019 c.491
+§24] 
+
+   
+
+       Note: See note under 367.091. 
+
+   
+
+ (Tax and Fee
+Distribution and Projects) 
+
+   
+
+       367.095 Tax
+and fee distribution and projects. 
+(1) The following amounts shall be distributed in the manner prescribed in this
+section: 
+
+       (a) The amount
+attributable to the increase in tax rates by section 45, chapter 750, Oregon
+Laws 2017, and the amendments to ORS 319.020 and 319.530 by sections 40 to 43,
+chapter 750, Oregon Laws 2017. 
+
+       (b) The amount
+attributable to the vehicle registration and title fees imposed under ORS
+803.091 and 803.422. 
+
+       (c) The amount
+attributable to the increase in taxes and fees by the amendments to ORS
+803.420, 803.645, 818.225, 825.476, 825.480 and 826.023 by sections 34, 35, 48,
+49, 51, 52, 63, 64, 66, 67 and 70, chapter 750, Oregon Laws 2017. 
+
+       (2) The amounts
+described in subsection (1) of this section shall be distributed in the
+following order and for the following purposes: 
+
+       (a)(A) $30
+million per year shall be used to pay for: 
+
+       (i) The
+Interstate 5 Rose Quarter Project; 
+
+       (ii) The
+Interstate 205 Improvements: Stafford Road to Oregon Route 213 Project; 
+
+       (iii) The
+Interstate 5 Boone Bridge and Seismic Improvement Project; and 
+
+       (iv) The
+implementation of the toll program established under ORS 383.150. 
+
+       (B) The amount
+described in subparagraph (A) of this paragraph shall be used to pay for costs,
+including project costs on a current basis and paying for debt service on bonds
+issued to finance the projects or toll program, only until the later of the date
+on which the projects or toll program is completed or on which all bonds issued
+to fund the projects or toll program have been repaid. Any remaining moneys
+shall be distributed as described in subsection (3) of this section. 
+
+       (b) $15 million
+per year shall be deposited into the Safe Routes to Schools Fund for the
+purpose of providing Safe Routes to Schools matching grants under ORS 184.742.
+The remainder of the moneys shall be distributed as described in subsection (3)
+of this section. 
+
+       (3) The moneys
+described in subsection (1) of this section that remain after the allocation of
+moneys described in subsection (2) of this section shall be allocated as
+follows: 
+
+       (a) 50 percent to
+the Department of Transportation. 
+
+       (b) 30 percent to
+counties for distribution as provided in ORS 366.762. 
+
+       (c) 20 percent to
+cities for distribution as provided in ORS 366.800. 
+
+       (4) The moneys
+described in subsection (3)(a) of this section or equivalent amounts that
+become available to the Department of Transportation shall be allocated as
+follows: 
+
+       (a) $10 million
+for safety. 
+
+       (b) Of the
+remaining balance: 
+
+       (A) Forty percent
+for bridges. 
+
+       (B) Thirty
+percent for seismic improvements related to highways and bridges. 
+
+       (C) Twenty-four
+percent for state highway pavement preservation and culverts. 
+
+       (D) Six percent
+for state highway maintenance and safety improvements. [2017 c.750 §71a; 2017
+c.750 §71b; 2018 c.93 §§30c,30d; 2019 c.491 §46; 2021 c.630 §130; 2019 c.491 §§46,47;
+2021 c.630 §§130,131] 
+
+   
+
+       Note: 367.095 is amended by Enrolled
+House Bill 3991 (2025 special session). As of the date of publication of the
+2025 Edition of the Oregon Revised Statutes, Enrolled House Bill 3991 (2025
+special session) is subject to potential referendum petitions that may be filed
+with the Secretary of State as provided in Article IV, section 1, of the Oregon
+Constitution. The full text of Enrolled House Bill 3991 (2025 special session)
+is set forth following 801.610. 
+
+   
+
+ Note: 367.095 and 367.097 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 367 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation. 
+
+   
+
+       367.097 Debt
+service. (1)
+Notwithstanding ORS 367.095 (4), the Department of Transportation may use
+amounts available under ORS 367.095 to secure and pay bond debt service on
+Highway User Tax Bonds under ORS 367.615. 
+
+       (2) Any amounts
+remaining after the payment of debt service shall be used as described in ORS
+367.095 (4). [2017 c.750 §71h; 2019 c.491 §15] 
+
+   
+
+       Note: See second note under 367.095. 
+
+   
+
+       367.098 Fund
+exchange; allocation to local governments; rules. (1) Each year, the Department of
+Transportation shall determine the amount of funding allocated under ORS
+367.095 (4)(b) that is necessary to fund: 
+
+       (a)
+Transportation projects specified by the Legislative Assembly by law; 
+
+       (b) The matching
+moneys needed to spend federal funds; 
+
+       (c) Highway
+maintenance activities; 
+
+       (d) Programs that
+are more efficient to operate using state moneys; and 
+
+       (e) Other
+purposes for which federal funds cannot be used. 
+
+       (2) From state
+moneys described under ORS 367.095 (4)(b) remaining after setting aside the
+funds necessary to meet the purposes described in subsection (1) of this
+section, the department shall allocate to local governments $35 million per
+year. 
+
+       (3) The
+department shall replace any state funds made available to local governments
+under subsection (2) of this section with federal surface transportation
+funding on a dollar for dollar basis. 
+
+       (4)(a) The
+department shall allocate the state moneys described in ORS 367.095 (4)(b)
+under subsection (2) of this section to the following: 
+
+       (A) Counties; 
+
+       (B) Cities with a
+population of 5,000 or more and located outside the boundaries of a
+metropolitan planning organization, as defined in ORS 197.629; 
+
+       (C) Metropolitan
+planning organizations in urbanized areas with a population of less than
+200,000; 
+
+       (D) The League of
+Oregon Cities; or 
+
+       (E) The
+Association of Oregon Counties. 
+
+       (b) Moneys
+allocated under this subsection shall be used solely for uses that are
+consistent with Article IX, section 3a, of the Oregon Constitution. 
+
+       (c) The
+distribution of moneys under this subsection shall be: 
+
+       (A) Determined by
+agreement between the department, the League of Oregon Cities and the
+Association of Oregon Counties; and 
+
+       (B) Provided to
+recipients through guidelines developed by the department. 
+
+       (5) If less than
+$35 million of state moneys is allocated to local governments under subsection
+(2) of this section in a year, the department shall, to the extent possible,
+allocate, under subsection (4) of this section, federal surface transportation
+funding in an amount equal to the difference between $35 million and the amount
+of state moneys allocated to local governments under subsection (2) of this
+section. 
+
+       (6) The
+department may adopt rules to carry out the provisions of this section. [2023
+c.233 §1] 
+
+   
+
+       Note: 367.098 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 367
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+ SHORT-TERM DEBT 
+
+   
+
+       367.105
+Short-term borrowing; conditions; repayment. (1) In addition to the authority for short-term
+borrowing granted in ORS 286A.025 (2)(d) and 286A.045, the Department of
+Transportation, acting through the State Treasurer, may borrow money by
+entering into a credit agreement, a line of credit or a revolving line of
+credit, or by issuing a note, a warrant, a short-term promissory note,
+commercial paper or another similar obligation, for the following purposes: 
+
+       (a) Providing
+matching funds as set forth in ORS 366.564. 
+
+       (b) Providing
+funds with which to pay when due the principal or interest of bonded
+indebtedness created for highway purposes, the payment of which is necessary to
+preserve the financial credit of the state. 
+
+       (c) Meeting
+emergencies. 
+
+       (d) Providing
+funds for use by the department during times when expenditures exceed revenues,
+whether or not the department anticipated that expenditures would exceed
+revenues. 
+
+       (e) Providing
+funds for the payment of current expenses in anticipation of revenue, grants or
+other moneys intended for payment of the current expenses. 
+
+       (f) Providing
+funds for interim financing of a capital asset or project to be undertaken by
+the department. 
+
+       (g) Refunding an
+outstanding obligation. 
+
+       (2) Short-term
+borrowing under this section may be in such denominations or for such sums as
+the department fixes and may draw interest at a negotiated rate. 
+
+       (3) The total
+outstanding indebtedness created by the short-term borrowing under this section
+may not exceed $600 million in outstanding principal amount. 
+
+       (4) All
+short-term borrowing issued pursuant to this section shall mature within five
+years from the date of issuance. This subsection does not apply to refunding
+revenue bonds issued under subsection (5) of this section. 
+
+       (5) The State
+Treasurer may issue refunding revenue bonds to refund outstanding short-term
+borrowings issued under this section. 
+
+       (6) Using funds
+from the State Highway Fund or other funds that are legally available to the
+department or State Treasurer for the purposes for which the moneys were
+borrowed, including moneys received by the department or State Treasurer from
+the United States government: 
+
+       (a) The
+department shall pay for and secure short-term borrowing under this section;
+and 
+
+       (b) The
+department shall pay for any refunding revenue bonds issued under this section. 
+
+       (7) ORS 286A.035
+does not apply to borrowings under this section. [Formerly 366.605; 1969 c.427 §1;
+1975 c.614 §11; 1981 c.94 §32; 1981 c.311 §1; 1991 c.793 §3; 2003 c.201 §18;
+2007 c.783 §165; 2021 c.630 §82] 
+
+   
+
+       367.155 [Formerly part of 366.735;
+repealed by 1981 c.660 §18] 
+
+   
+
+       367.160 [Formerly 366.740; 1981 c.94 §33;
+repealed by 1981 c.660 §18] 
+
+   
+
+ GRANT ANTICIPATION
+REVENUE BONDS 
+
+   
+
+       367.161
+Definitions for ORS 367.161 to 367.181. As used in ORS 367.161 to 367.181: 
+
+       (1) “Federal
+transportation funds” means funds apportioned or allocated, or anticipated to
+be apportioned or allocated in the current or a future federal fiscal year, to
+the state by the United States Department of Transportation for use on a
+federal-aid highway or highway safety construction project or other federal
+funds that may be used for a highway improvement project that are available or
+are anticipated to be available in the current or a future federal fiscal year. 
+
+       (2) “Grant
+anticipation revenue bond” means a revenue bond secured based on receipt, or
+anticipation of receipt in the current or a future federal fiscal year, of
+federal transportation funds. 
+
+       (3) “Highway
+improvement project” means a federal-aid highway or highway safety construction
+project, a transportation project or another project for which the Department
+of Transportation may use federal transportation funds. [2003 c.201 §2] 
+
+   
+
+       367.163
+Purposes for which bonds may be issued. The State Treasurer, at the request of the Department
+of Transportation, may issue grant anticipation revenue bonds for the purposes
+of: 
+
+       (1) Financing
+highway improvement projects including highway improvement projects already
+under way or scheduled; 
+
+       (2) Financing the
+restoration, reconstruction or renovation of highway improvements in Oregon; 
+
+       (3) Financing
+transportation projects; 
+
+       (4) Paying the
+costs of issuance of the revenue bonds including, but not limited to, the costs
+and fees of paying agents, trustees and remarketing agents; 
+
+       (5) Paying the
+costs of credit enhancements; or 
+
+       (6) Financing the
+Interstate 5 bridge replacement project. [2003 c.201 §3; 2013 c.4 §17] 
+
+   
+
+       367.165 [Formerly 366.745; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.166
+Requirements for grant anticipation revenue bonds; authority of State
+Treasurer. (1) A
+grant anticipation revenue bond issued under ORS 367.161 to 367.181: 
+
+       (a) Must contain
+on its face a statement that the ad valorem taxing power of this state or any
+political subdivision of this state is not pledged to the payment of the
+principal or the interest on the revenue bond. 
+
+       (b) Shall be
+issued as provided in ORS chapter 286A. 
+
+       (c) Must mature
+on or before a date determined by calculation of the expected economic life of
+the improvements, assets and projects financed with the proceeds of the revenue
+bonds. 
+
+       (2) The State
+Treasurer shall determine, in consultation with the department and consistent
+with ORS chapter 286A, all aspects relating to the sale of revenue bonds under
+ORS 367.161 to 367.181 that are not otherwise specifically provided, including
+rate of interest and discount, if any. [2003 c.201 §4; 2007 c.783 §166] 
+
+   
+
+       367.168
+Revenue declaration. 
+(1) Before grant anticipation revenue bonds are issued under ORS 367.161 to
+367.181, the Department of Transportation shall prepare a revenue declaration
+authorizing issuance of the revenue bonds. The declaration must be signed by
+the Director of Transportation, or the director’s designee, and must be
+approved by the State Treasurer, or the treasurer’s designee. 
+
+       (2) A declaration
+under this section may: 
+
+       (a) Pledge all or
+a portion of the moneys described in ORS 367.173 for purposes of the revenue bonds
+to be issued. 
+
+       (b) Limit the
+purposes to which the department may apply the proceeds of the sale. 
+
+       (c) Make pledges
+concerning the proceeds of the sale or moneys described in ORS 367.173 to
+secure payment of the revenue bonds issued under ORS 367.161 to 367.181. 
+
+       (d) Limit or
+otherwise provide for the issuance of additional revenue bonds, including
+refunding bonds, under ORS 367.161 to 367.181, limit or establish terms upon
+which additional revenue bonds, including refunding bonds, may be issued under
+ORS 367.161 to 367.181. 
+
+       (e) Provide for
+procedures, if any, by which the terms of contracts with bondholders may be
+amended or rescinded, for the percentage of the bondholders that must consent
+to amendment or rescission of the contract and for the manner of bondholder
+consent to amendment or rescission of the contract. 
+
+       (f) Establish a
+trustee and vest the trustee with property, rights, powers or duties in trust,
+as the State Treasurer determines appropriate. 
+
+       (g) Provide for
+other matters affecting issuance of the revenue bonds. 
+
+       (3) A declaration
+under this section may establish the same requirements, be subject to the same
+provisions, create the same obligations and confer the same rights as an
+indenture under ORS 367.171, if so provided in the declaration. [2003 c.201 §5] 
+
+   
+
+       367.170 [Formerly 366.750; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.171
+Indenture. An
+indenture under which grant anticipation revenue bonds are issued may provide
+for: 
+
+       (1) The pledging
+of all or a portion of the moneys described in ORS 367.173 to the payment of
+the principal, interest, premium, if any, or the bond debt service of revenue
+bonds issued under ORS 367.161 to 367.181; 
+
+       (2) Requirements
+concerning a particular series of revenue bonds issued under ORS 367.161 to
+367.181; 
+
+       (3) Requirements
+concerning moneys described in ORS 367.173 and payment on outstanding revenue
+bonds issued under ORS 367.161 to 367.181; 
+
+       (4) A contractual
+undertaking for the benefit of bondholders concerning assessment, levy
+collection and deposit of moneys described in ORS 367.173; 
+
+       (5) Provisions
+concerning the registration of revenue bonds or the recording or filing of the
+indenture; 
+
+       (6) Provisions
+relating to a reserve account including, but not necessarily limited to,
+provisions related to the amount required for an account and provisions for
+replenishing the account from moneys described in ORS 367.173; 
+
+       (7) Provisions
+concerning trustees including, but not limited to: 
+
+       (a) Establishing
+funds, accounts or moneys described in ORS 367.173 over which the trustee will
+be custodian; and 
+
+       (b) Providing
+that a trustee will be appointed; or 
+
+       (8) Establishing
+the maturation date of the revenue bonds. [2003 c.201 §6; 2007 c.71 §99] 
+
+   
+
+       367.173 Moneys
+that may be used for payment of grant anticipation revenue bonds. The principal, interest, premium,
+if any, and the purchase or tender price of the grant anticipation revenue
+bonds issued under ORS 367.161 to 367.181 are payable solely from the following
+moneys: 
+
+       (1) Federal
+transportation funds. 
+
+       (2) To the extent
+affirmatively pledged at the time issuance of revenue bonds is authorized, the
+following moneys that are lawfully available: 
+
+       (a) Moneys
+deposited in the State Highway Fund established under ORS 366.505. 
+
+       (b) Except as
+provided in paragraph (c) of this subsection, moneys, once deposited in the
+State Highway Fund established under ORS 366.505, from the following sources
+may be affirmatively pledged: 
+
+       (A) Moneys from
+the taxes and fees on motor carriers imposed under ORS 825.474 and 825.480. 
+
+       (B) Moneys from
+the tax on motor vehicle fuel imposed under ORS 319.020. 
+
+       (C) Moneys from
+the tax on fuel used in motor vehicles imposed under ORS 319.530. 
+
+       (D) Moneys from
+the special use fuel license fee under ORS 319.535. 
+
+       (E) Moneys
+described under ORS 803.090 from the titling of vehicles. 
+
+       (F) Moneys
+described under ORS 803.420 from the registration of vehicles. 
+
+       (G) Moneys
+described under ORS 807.370 relating to the issuance of driver licenses and
+driver permits. 
+
+       (H) Moneys
+received by the Department of Transportation from taxes, fees or charges
+imposed after January 1, 2001, or other revenues or moneys received by the
+department from sources not listed in subparagraphs (A) to (G) of this
+paragraph that are lawfully available to be pledged under this section. 
+
+       (c) Moneys
+described in paragraph (b) of this subsection do not include: 
+
+       (A) Moneys
+provided for appropriations to counties under ORS 366.762 to 366.768. 
+
+       (B) Moneys
+provided for appropriations to cities under ORS 366.785 to 366.820. 
+
+       (C) Moneys in the
+account established under ORS 366.512 for parks and recreation. [2003 c.201 §7;
+2014 c.13 §8] 
+
+   
+
+       367.175 [Formerly 366.755; 1975 c.462 §5;
+repealed by 1981 c.660 §18] 
+
+   
+
+       367.176
+Refunding grant anticipation revenue bonds. The State Treasurer may issue grant anticipation
+revenue bonds to refund outstanding grant anticipation revenue bonds or other
+obligations, the proceeds of which were used to finance highway improvement
+projects. Refunding and advance refunding bonds authorized in this section are
+subject to the provisions of ORS 367.161 to 367.181. [2003 c.201 §8] 
+
+   
+
+       367.178
+Collection and use of federal transportation funds. (1) When grant anticipation
+revenue bonds have been issued under ORS 367.161 to 367.181, the Department of
+Transportation shall collect federal transportation funds and may, as provided
+by the department when issuance of the revenue bonds was authorized, use the
+funds: 
+
+       (a) For deposit
+into one or more special funds or accounts that may be pledged to secure
+payment of the revenue bonds. 
+
+       (b) For payment
+of the costs of highway improvement projects. 
+
+       (c) For
+reimbursement to the department of moneys previously spent on highway
+improvement projects. 
+
+       (2) The
+department may direct the United States government to deposit federal
+transportation funds directly with a trustee for the holders of the revenue
+bonds to secure payment of the revenue bonds. 
+
+       (3) The
+department shall use the proceeds of a sale of revenue bonds issued under ORS
+367.161 to 367.181 to pay: 
+
+       (a) The costs and
+expenses incurred in the construction or acquisition of a highway improvement
+project. 
+
+       (b) Legal and
+financial costs and expenses incurred to issue or administer the revenue bonds. 
+
+       (4) If moneys
+pledged to secure Highway User Tax Bonds pursuant to ORS 367.605 are also pledged
+to secure payment of principal, interest, premium, if any, and purchase or
+tender price of grant anticipation revenue bonds issued under ORS 367.161 to
+367.181, the pledge to secure grant anticipation revenue bonds issued under ORS
+367.161 to 367.181 is subordinate and subject to prior use of the moneys to pay
+Highway User Tax Bonds. [2003 c.201 §9] 
+
+   
+
+       367.180 [Formerly 366.760; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.181 Limits
+on obligation of grant anticipation revenue bonds. (1) Grant anticipation revenue
+bonds issued under ORS 367.161 to 367.181 are not general obligations of the
+State of Oregon or of an agency, department, board, commission, officer or
+employee of the State of Oregon. 
+
+       (2) The revenue
+bonds are a limited obligation payable solely from federal transportation funds
+received by the Department of Transportation and, if provided by the department
+when issuance of the revenue bonds is authorized, other moneys lawfully available
+for the purpose and affirmatively pledged to the payment of principal,
+interest, premium, if any, and purchase or tender price of the revenue bonds. 
+
+       (3) A holder of
+revenue bonds issued under ORS 367.161 to 367.181 may not compel the payment of
+federal transportation funds to the Department of Transportation. [2003 c.201 §10] 
+
+   
+
+       367.185 [1975 c.436 §6; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.202 [Formerly 366.625; repealed by
+1963 c.61 §1] 
+
+   
+
+       367.204 [Formerly 366.627; repealed by
+1963 c.61 §1] 
+
+   
+
+       367.206 [Formerly 366.629; repealed by
+1963 c.61 §1] 
+
+   
+
+       367.208 [Formerly 366.631; repealed by
+1963 c.61 §1] 
+
+   
+
+       367.210 [Formerly 366.633; repealed by
+1963 c.61 §1] 
+
+   
+
+       367.212 [Formerly 366.635; repealed by
+1963 c.61 §1] 
+
+   
+
+       367.214 [Formerly 366.637; repealed by
+1963 c.61 §1] 
+
+   
+
+       367.216 [Formerly 366.639; repealed by
+1963 c.61 §1] 
+
+   
+
+       367.218 [Formerly 366.641; repealed by
+1963 c.61 §1] 
+
+   
+
+       367.220 [Formerly 366.643; repealed by
+1963 c.61 §1] 
+
+   
+
+       367.226 [Formerly 366.645; repealed by
+2003 c.201 §39] 
+
+   
+
+       367.228 [Formerly 366.650; 1989 c.610 §1;
+repealed by 2003 c.201 §39] 
+
+   
+
+       367.230 [Formerly 366.655; repealed by
+2003 c.201 §39] 
+
+   
+
+       367.232 [Formerly 366.660; repealed by
+2003 c.201 §39] 
+
+   
+
+       367.234 [Formerly 366.665; 1981 c.660 §20;
+repealed by 2003 c.201 §39] 
+
+   
+
+       367.236 [Formerly 366.670; repealed by
+2003 c.201 §39] 
+
+   
+
+       367.238 [Formerly 366.675; 1975 c.462 §6;
+1983 c.740 §120; repealed by 2003 c.201 §39] 
+
+   
+
+       367.240 [Formerly 366.680; repealed by
+1989 c.610 §3] 
+
+   
+
+       367.242 [Formerly 366.685; repealed by
+2003 c.201 §39] 
+
+   
+
+       367.252 [Formerly 366.688; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.254 [Formerly 366.689; 1967 c.335 §43;
+repealed by 1981 c.660 §18] 
+
+   
+
+       367.256 [Formerly 366.690; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.258 [Formerly 366.691; 1981 c.660 §21;
+1991 c.67 §91; repealed by 2003 c.201 §39] 
+
+   
+
+       367.260 [Formerly 366.692; 1975 c.462 §7;
+repealed by 1981 c.660 §18] 
+
+   
+
+       367.262 [Formerly 366.693; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.264 [Formerly 366.694; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.266 [Formerly 366.695; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.268 [Formerly 366.696; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.270 [Formerly 366.697; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.282 [Formerly 366.6980; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.284 [Formerly 366.6981; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.286 [Formerly 366.6982; 1967 c.335 §44;
+repealed by 1981 c.660 §18] 
+
+   
+
+       367.288 [Formerly 366.6983; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.290 [Formerly 366.6984; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.292 [Formerly 366.6985; 1975 c.462 §8;
+repealed by 1981 c.660 §18] 
+
+   
+
+       367.294 [Formerly 366.6986; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.296 [Formerly 366.6987; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.298 [Formerly 366.6988; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.300 [Formerly 366.6989; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.302 [Formerly 366.6990; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.324 [Formerly 366.7000; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.326 [Formerly 366.7001; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.328 [Formerly 366.7002; 1967 c.335 §45;
+repealed by 1981 c.660 §18] 
+
+   
+
+       367.330 [Formerly 366.7003; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.332 [Formerly 366.7004; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.334 [Formerly 366.7005; 1975 c.462 §9;
+repealed by 1981 c.660 §18] 
+
+   
+
+       367.336 [Formerly 366.7006; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.338 [Formerly 366.7007; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.340 [Formerly 366.7008; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.344 [Formerly 366.7009; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.346 [Formerly 366.7010; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.365 [Formerly 366.7020; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.370 [Formerly 366.7021; 1981 c.660 §48;
+repealed by 2003 c.201 §39] 
+
+   
+
+       367.372 [1961 c.381 §2; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.380 [Formerly 366.7022; 1967 c.335 §46;
+repealed by 1981 c.660 §18] 
+
+   
+
+       367.385 [Formerly 366.7023; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.390 [Formerly 366.7024; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.395 [Formerly 366.7025; 1975 c.462 §10;
+repealed by 1981 c.660 §18] 
+
+   
+
+       367.400 [Formerly 366.7026; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.405 [Formerly 366.7027; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.410 [Formerly 366.7028; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.415 [Formerly 366.7029; 1981 c.660 §49;
+repealed by 2003 c.201 §39] 
+
+   
+
+       367.420 [Formerly 366.7030; repealed by
+1981 c.660 §18] 
+
+   
+
+       367.425 [1961 c.345 §3; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.430 [1961 c.345 §4; 1981 c.660 §50;
+repealed by 2003 c.201 §39] 
+
+   
+
+       367.465 [1961 c.483 §1; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.470 [1961 c.483 §2; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.480 [1961 c.483 §3; 1967 c.335 §47] 
+
+   
+
+       367.485 [1961 c.483 §4; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.490 [1961 c.483 §5; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.495 [1961 c.483 §6; 1975 c.462 §11;
+repealed by 1981 c.660 §18] 
+
+   
+
+       367.500 [1961 c.483 §7; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.505 [1961 c.483 §8; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.510 [1961 c.483 §9; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.520 [1961 c.483 §10; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.550 [1973 c.698 §1; repealed by 2003
+c.201 §39] 
+
+   
+
+ BONDED INDEBTEDNESS FOR
+STATE HIGHWAYS 
+
+   
+
+       367.555
+Authority to issue general obligation bonds. (1) The Department of Transportation may request the
+State Treasurer to issue general obligation bonds of the State of Oregon used
+to provide funds to defray the costs of building and maintaining permanent
+roads, including the costs of location, relocation, improvement, construction
+and reconstruction of state highways and bridges and those portions of a
+tollway project, as defined in ORS 383.003, that constitute building or
+maintaining permanent roads. 
+
+       (2) The principal
+amount of any bonds issued under this section is subject to the provisions of
+ORS 286A.035. [1973 c.698 §2; 1981 c.660 §32; 2003 c.201 §19; 2007 c.783 §167;
+2021 c.630 §155] 
+
+   
+
+       367.560 Disposition
+and use of general obligation bond proceeds. All moneys obtained from the sale of general
+obligation bonds under ORS 367.555 to 367.600 must be paid over to the State
+Treasurer and credited by the State Treasurer to either the State Highway Fund
+or the Toll Program Fund. Such moneys may be used only for the purposes for
+which the bonds were authorized to be sold and, pending the use of the moneys,
+may be invested as provided by law. [1973 c.698 §3; 2003 c.201 §20; 2021 c.630 §156] 
+
+   
+
+       367.565
+Procedure for issuing general obligation bonds under ORS 367.555 to 367.600. The Department of Transportation
+shall request the State Treasurer to issue general obligation bonds under ORS
+367.555 to 367.600 in accordance with ORS chapter 286A. [1973 c.698 §4; 1981
+c.660 §33; 2003 c.201 §21; 2007 c.783 §168] 
+
+   
+
+       367.570 [1973 c.698 §5; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.575 [1973 c.698 §6; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.580 [1973 c.698 §7; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.585 [1973 c.698 §8; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.590 [1973 c.698 §9; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.595
+Setting aside sufficient moneys to pay maturing obligations. The Department of Transportation
+shall compute and determine in January of each year, after the sale of bonds
+under ORS 367.555 to 367.600, the amount of principal and interest that will
+fall due during such year on general obligation bonds then outstanding and
+unpaid and shall maintain or hold in the State Highway Fund sufficient moneys
+to pay such maturing obligations. [1973 c.698 §10; 2003 c.201 §22] 
+
+   
+
+       367.600
+Compliance with constitutional debt limits. The State Treasurer on behalf of the Department of
+Transportation may not issue or sell general obligation bonds under ORS 367.555
+to 367.600 that, singly or in the aggregate with previous debts or liabilities
+incurred for the building and maintaining of permanent roads, exceed an
+applicable limitation provided in the Oregon Constitution at the date of the
+issuance and sale of such general obligation bonds. [1973 c.698 §11; 2003 c.201
+§23; 2007 c.783 §169] 
+
+   
+
+ HIGHWAY USER TAX BONDS 
+
+   
+
+       367.605 Source
+of funds to secure Highway User Tax Bonds. (1) Moneys deposited in the State Highway Fund
+established under ORS 366.505 are pledged to payment of Highway User Tax Bonds
+issued under ORS 367.615. 
+
+       (2) Except as
+provided in subsection (3) of this section, moneys, once deposited in the
+highway fund from the following sources are subject to the use or pledge
+described in subsection (1) of this section: 
+
+       (a) Moneys from
+the taxes and fees on motor carriers imposed under ORS 825.474 and 825.480. 
+
+       (b) Moneys from
+the tax on motor vehicle fuel imposed under ORS 319.020. 
+
+       (c) Moneys from
+the tax on fuel used in motor vehicles imposed under ORS 319.530. 
+
+       (d) Moneys from
+the special use fuel license fee under ORS 319.535. 
+
+       (e) Moneys
+described under ORS 803.090 from the titling of vehicles. 
+
+       (f) Moneys
+described under ORS 803.420 from the registration of vehicles. 
+
+       (g) Moneys
+described under ORS 807.370 relating to the issuance of driver licenses and
+driver permits. 
+
+       (h) Moneys
+received by the Department of Transportation from taxes, fees or charges
+imposed after January 1, 2001, or other revenues received by the department
+from sources not listed in paragraphs (a) to (g) of this subsection that are
+available for the use or pledge described by this section. 
+
+       (3) Moneys
+described under subsection (2) of this section do not include: 
+
+       (a) Moneys
+provided for appropriations to counties under ORS 366.762 to 366.768. 
+
+       (b) Moneys
+provided for appropriations to cities under ORS 366.785 to 366.820. 
+
+       (c) Moneys in the
+account established under ORS 366.512 for parks and recreation. 
+
+       (4) To the extent
+affirmatively pledged, moneys from the following sources are subject to the use
+or pledge described in subsection (1) of this section: 
+
+       (a) Moneys
+received by the Department of Transportation from the United States government. 
+
+       (b) Any other
+moneys legally available to the department. 
+
+       (5)
+Notwithstanding ORS 366.507, the lien or charge of any pledge of moneys
+securing bonds issued under ORS 367.615 is superior or prior to any other lien
+or charge and to any law of the state requiring the department to spend moneys
+for specified highway purposes. [1985 c.551 §2; 2001 c.669 §8; 2003 c.201 §24;
+2007 c.783 §169a; 2014 c.13 §10] 
+
+   
+
+       367.610 [1985 c.551 §2a; repealed by 2003
+c.201 §39] 
+
+   
+
+       367.615 Bond
+issuance; bonds not general obligation; conditions for issuance of additional
+bonds; use of bond proceeds. 
+(1) The Department of Transportation may request the State Treasurer to issue
+and sell revenue bonds known as Highway User Tax Bonds as provided in this
+section. 
+
+       (2) Bonds issued
+under this section do not constitute a debt or general obligation of this state
+or any political subdivision of this state but are secured and payable from
+moneys described under ORS 367.605. A holder of bonds issued under this section
+may not compel the exercise of the ad valorem taxing power of the state to pay
+the bond debt service on the bonds. 
+
+       (3) This state
+shall provide for the continued assessment, levy, collection and deposit into
+the highway fund of moneys described under ORS 367.605 in amounts sufficient to
+pay, when due, the annual bond debt service and other amounts necessary to meet
+requirements established by indenture under ORS 367.640. 
+
+       (4) This state
+may not in any way impair obligations of any agreement between this state and
+the holders of bonds issued under this section. 
+
+       (5) The authority
+granted by this section is continuing and the department reserves the right to
+request the State Treasurer to issue additional bonds under this section
+subject to the following: 
+
+       (a) Additional
+bonds must be secured equally and ratably by the pledge and appropriation of
+moneys described under ORS 367.605 unless the State Treasurer, as permitted by
+law and the contracts with owners of outstanding Highway User Tax Bonds, issues
+additional bonds in different series and secures each series by a lien on and
+pledge of moneys described under ORS 367.605 that is superior to or subordinate
+to the lien of the pledge securing any other series of Highway User Tax Bonds. 
+
+       (b) The State
+Treasurer may only issue additional bonds under this section if sufficient
+moneys described under ORS 367.605 may be pledged to pay the annual bond debt
+service for all outstanding bonds issued under this section as well as for the
+additional bonds. 
+
+       (6) Proceeds from
+the sale of bonds under this section are declared to be for the purpose of
+building and maintaining permanent public roads and may be used: 
+
+       (a) To finance
+the cost of state highway, county road and city street projects in this state. 
+
+       (b) To pay the
+cost of issuing the bonds. 
+
+       (c) For loans to
+cities and counties as provided under ORS 367.035 or 367.655. 
+
+       (d) To pay the
+bond debt service of the bonds. 
+
+       (e) To pay the
+costs of the State Treasurer and the department to administer and maintain the
+bonds and the Highway User Tax Bond program, including the cost of consultants,
+advisors, attorneys or other professional service providers appointed, retained
+or approved by the treasurer or the department. 
+
+       (f) To pay
+capitalized interest, principal or premium, if any, of the bonds. 
+
+       (g) For rebates
+or penalties due to the United States in connection with the bonds. 
+
+       (7) The State
+Treasurer, at the request of the department, may issue Highway User Tax Bonds
+as capital appreciation bonds, auction rate bonds, variable rate bonds, deep
+discount bonds or deferred interest bonds. 
+
+       (8) The State
+Treasurer or the Director of Transportation, if so directed by the treasurer,
+may obtain credit enhancement or an agreement for exchange of interest rates to
+provide additional security or liquidity for the bonds or to provide funding,
+in lieu of cash, for all or a portion of a bond debt service reserve account
+established with respect to the bonds. [1985 c.551 §3; 2003 c.201 §25; 2007
+c.783 §170; 2021 c.630 §157] 
+
+   
+
+       367.617
+Allocation of bonds. 
+(1) As used in this section: 
+
+       (a) “Bond” has
+the meaning given that term in ORS 367.010. 
+
+       (b) “Bond debt
+service” has the meaning given that term in ORS 367.010. 
+
+       (2) On each
+January 1, April 1, July 1 and October 1, and on the date of issuance of any
+Highway User Tax Bonds described in ORS 367.620 (3)(c), the Department of
+Transportation shall determine: 
+
+       (a) The amount of
+Highway User Tax Bonds described in ORS 367.620 (3)(c) that are outstanding; 
+
+       (b) The amount
+reasonably estimated, as set forth in subsection (4) of this section, as being
+necessary to pay bond debt service on the outstanding Highway User Tax Bonds
+described in ORS 367.620 (3)(c); and 
+
+       (c) The amount of
+moneys allocated to the department under ORS 366.752 that is not required to
+pay bond debt service on the outstanding Highway User Tax Bonds described in
+ORS 367.620 (3)(c). The department shall deposit the amount into the
+Transportation Project Account established under ORS 366.523. 
+
+       (3) The amount of
+moneys determined by the department under subsection (2)(c) of this section may
+be allocated by the Oregon Transportation Commission pursuant to a request of
+the department, in an amount that does not exceed the amount determined by the
+department, under subsection (2)(c) of this section, to the following projects
+in the following order of priority: 
+
+       (a) The amount
+established for projects listed in section 64, chapter 865, Oregon Laws 2009; 
+
+       (b) $15 million
+each year for maintenance, preservation and safety of the highways so long as
+the amount reasonably estimated by the department pursuant to subsection (2)(b)
+of this section is not greater than the amount received by the department under
+ORS 366.752 (4)(c); and 
+
+       (c) For any other
+purposes determined by the commission. 
+
+       (4) To reasonably
+estimate the amount necessary to pay bond debt service on Highway User Tax
+Bonds described in ORS 367.620 (3)(c), the department shall include in its
+computation: 
+
+       (a) For fixed
+rate bonds, the bond debt service payments due on the bonds in the calendar
+quarter; and 
+
+       (b) For variable
+rate bonds, bond debt service payments due on the bonds in the calendar
+quarter, with interest computed at the maximum rate of interest as set forth in
+the bond declaration or bond indenture executed by the department pursuant to
+ORS 367.630 and 367.640. [2009 c.865 §62] 
+
+   
+
+       Note: 367.617 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 367
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       367.620
+Limitation on bond amount. 
+(1) The principal amount of Highway User Tax Bonds issued under ORS 367.615
+shall be subject to the provisions of ORS 286A.035. 
+
+       (2) Highway User
+Tax Bonds may be issued under ORS 367.615 for the purposes described in ORS
+367.622 in an aggregate principal amount sufficient to produce net proceeds of
+not more than $500 million. 
+
+       (3)(a) Highway
+User Tax Bonds may be issued under ORS 367.615 for bridge purposes described in
+section 10 (1), chapter 618, Oregon Laws 2003, in an aggregate principal amount
+sufficient to produce net proceeds of not more than $1.6 billion. 
+
+       (b) Highway User
+Tax Bonds may be issued under ORS 367.615 for modernization purposes described
+in sections 10 (2) and 11, chapter 618, Oregon Laws 2003, in an aggregate
+principal amount sufficient to produce net proceeds of not more than $300
+million. 
+
+       (c) Highway User
+Tax Bonds may be issued under ORS 367.615 for the purposes described in section
+64, chapter 865, Oregon Laws 2009, in an aggregate principal amount sufficient
+to produce net proceeds of not more than $840 million. The proceeds from bonds
+issued as described in this paragraph that are not required for the purposes
+described in section 64, chapter 865, Oregon Laws 2009, shall be allocated to
+transportation projects, as defined in ORS 367.010. 
+
+       (d) Highway User
+Tax Bonds may be issued under ORS 367.615 for purposes described in section
+71d, chapter 750, Oregon Laws 2017, in an aggregate principal amount sufficient
+to produce net proceeds of not more than $480 million. 
+
+       (e) The
+Department of Transportation, with the approval of the State Treasurer, may
+designate the extent to which a series of bonds authorized under this
+subsection is secured and payable on a parity of lien or on a subordinate basis
+to existing or future Highway User Tax Bonds. [1985 c.551 §4; 1999 c.1036 §4;
+2001 c.669 §1; 2002 s.s.1 c.3 §1; 2003 c.618 §6; 2007 c.783 §171; 2009 c.865 §61;
+2011 c.629 §2; 2017 c.191 §2; 2017 c.750 §71i] 
+
+   
+
+       Note: Section 71d, chapter 750, Oregon
+Laws 2017, provides: 
+
+       Sec. 71d. (1) On and after January 1, 2020,
+the Oregon Transportation Commission shall use the proceeds of bonds, as
+defined in ORS 367.010, authorized under ORS 367.620 (3)(d) to finance the
+transportation projects listed in this section. The commission shall determine
+the order of completion for the projects listed in subsection (2) of this
+section. 
+
+       (2) No later than
+January 1, 2024, the commission shall allocate the following amounts to each
+region, as described in ORS 366.805, for the projects listed below, provided
+that the commission determines that the projects could constitutionally be
+funded by revenues described in Article IX, section 3a, of the Oregon
+Constitution: 
+
+ ______________________________________________________________________________ 
+
+   
+
+       (a)  Region 1:                     $          249,700,000 
+
+       (A) State Highway 211 
+
+       improvements beginning where 
+
+       the highway intersects with 
+
+       State Highway 213 and ending 
+
+       where the highway intersects 
+
+       Molalla Avenue in the 
+
+       City of Molalla 
+
+       (B) WaNaPa Street
+improvements 
+
+       in the City of Cascade Locks 
+
+       (C) Port of Hood River bridge 
+
+       replacement environmental 
+
+       impact study 
+
+       (D) Columbia Boulevard 
+
+       pedestrian safety 
+
+       (E) Southeast Powell 
+
+       Boulevard jurisdiction 
+
+       transfer as described 
+
+       under ORS 366.483 
+
+       (F) Interstate 205 active
+traffic 
+
+       management project 
+
+       (G) Interstate 205 corridor 
+
+       bottleneck project 
+
+       (H) State Highway 217 
+
+       Northbound project 
+
+       (I)  State Highway 217 
+
+       Southbound project 
+
+       (J)  Improvements to Graham 
+
+       Road where it intersects 
+
+       with Interstate 84 in 
+
+       the City of Troutdale 
+
+       (b)  Region 2:                     $          201,950,000 
+
+       (A) Oregon Manufacturing 
+
+       Innovation Center Access 
+
+       Roads in Columbia County 
+
+       (B) Interstate 5 at the 
+
+       Aurora-Donald interchange, 
+
+       Phase I 
+
+       (C) State Highway 99E in 
+
+       the City of Halsey 
+
+       (D) State Highway 214 
+
+       pedestrian safety 
+
+       improvements at the 
+
+       intersection with 
+
+       Jefferson Street in the 
+
+       City of Silverton 
+
+       (E) Territorial Highway 
+
+       jurisdiction transfer as 
+
+       described under ORS 366.483 
+
+       (F) U.S. Highway 20 safety 
+
+       upgrades from the 
+
+       City of Albany to the 
+
+       City of Corvallis 
+
+       (G) State Highway 58, adding 
+
+       passing lanes west of the 
+
+       City of Oakridge 
+
+       (H) State Highway 22 and
+Center 
+
+       Street Bridge, seismic 
+
+       retrofit in the City 
+
+       of Salem 
+
+       (I)  State Highway 99 in City
+of 
+
+       Eugene jurisdiction transfer 
+
+       as described under ORS
+366.483 
+
+       (J)  State Highway 126 
+
+       Florence-Eugene Highway for 
+
+       environmental impact study 
+
+       (K) 42nd Street in the City 
+
+       of Springfield 
+
+       (L) Newberg and Dundee
+Bypass, 
+
+       State Highway 99W, 
+
+       Phase II, shovel ready 
+
+       preparations 
+
+       (c)  Region 3:                     $          75
+million 
+
+       (A) Scottsburg Bridge on 
+
+       State Highway 38 in 
+
+       Douglas County 
+
+       (B) Southern Oregon seismic 
+
+       triage transportation 
+
+       project 
+
+       (d)  Region 4:                     $          76,493,000 
+
+       (A) U.S. Highway 97 Cooley 
+
+       Road mid-term 
+
+       improvements 
+
+       (B) U.S. Highway 97 at 
+
+       Terrebonne 
+
+       (C) Improvements to Alder 
+
+       Creek Road in 
+
+       Wheeler County 
+
+       (D) Pedestrian safety 
+
+       improvements 
+
+       in the City of Dufur 
+
+       (E) Pedestrian safety 
+
+       improvements in the 
+
+       City of Prineville 
+
+       (F) Tom McCall Road 
+
+       roundabout 
+
+       (G) Pedestrian safety 
+
+       improvements 
+
+       in the City of Arlington 
+
+       (e)  Region 5:                     $          43,647,000 
+
+       (A) Port of Umatilla Road 
+
+       (B) Hermiston North First 
+
+       Place Project in the 
+
+       City of Hermiston 
+
+       (C) State Highway 30 and 
+
+       Hughes Lane intersection 
+
+       in Baker County 
+
+       (D) Eastern Oregon Trade and 
+
+       Event Center access road 
+
+       (E) Pedestrian safety 
+
+       improvements in the 
+
+       City of Heppner 
+
+       (F) Pedestrian safety 
+
+       improvements in the 
+
+       City of Milton-Freewater 
+
+       (G) Columbia Development 
+
+       Authority Access Road 
+
+       (H) Pedestrian safety 
+
+       improvements 
+
+       in the City of Burns 
+
+       (I)  Pedestrian safety 
+
+       improvements 
+
+       in the City of Irrigon 
+
+       (J)  U.S. Highway 20 freight 
+
+       mobility enhancements 
+
+       (K) Cedar Street and Hughes 
+
+       Lane enhancements in 
+
+       Baker County 
+
+   
+
+ ______________________________________________________________________________ 
+
+       (3)(a) When the
+commission determines that a project described in this section is completed,
+the commission shall reallocate any amount remaining from the allocation made
+under this section to another project described in the same region. 
+
+       (b) When the
+commission determines that all of the projects within a region are completed,
+the commission shall reallocate any amount remaining from the allocation made
+under this section to any other project listed in this section. 
+
+       (4) The amounts
+described in this section for jurisdiction transfers described in ORS 366.483
+may not be allocated until after the transfer for which the allocation is
+dedicated occurs. [2017 c.750 §71d; 2018 c.93 §5] 
+
+   
+
+       367.621 Use of
+private sector resources in specified work. It is the policy of the State of Oregon to use
+increased revenues from the amendments to ORS 803.090, 803.420, 818.225,
+825.476 and 825.480 by sections 1 to 5, chapter 618, Oregon Laws 2003, in a
+manner that maximizes the creation of new jobs. Each public body, as defined in
+ORS 174.109, that receives moneys from the revenues generated by the amendments
+to ORS 803.090, 803.420, 818.225, 825.476 and 825.480 by sections 1 to 5,
+chapter 618, Oregon Laws 2003, shall use private sector resources to the greatest
+extent possible in accomplishing the work funded by revenues from the
+amendments to ORS 803.090, 803.420, 818.225, 825.476 and 825.480 by sections 1
+to 5, chapter 618, Oregon Laws 2003. [2003 c.618 §41] 
+
+   
+
+       Note: 367.621 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 367
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       367.622
+Preservation and modernization projects funded by specified bonds; rules;
+selection criteria. 
+(1) As used in this section: 
+
+       (a) “Highway” has
+the meaning given that term in ORS 801.305. 
+
+       (b) “Modernization”
+means improvements that add capacity to highways, including but not limited to
+new or widened lanes and new bypasses. 
+
+       (c) “Preservation”
+means paving, striping, reconstruction and other activities designed to add
+useful life to existing highways. 
+
+       (2) Bonds
+described in ORS 367.620 (2) shall be used to finance preservation and
+modernization projects chosen by the Oregon Transportation Commission. The
+commission shall select projects from among the following: 
+
+       (a) Highways that
+need increased lane capacity. 
+
+       (b) Highways and
+bridges that have weight limitations. 
+
+       (c) State and
+local bridges. 
+
+       (d) Interchanges
+on multilane highways. 
+
+       (e) District
+highways in cities and counties that require preservation. The Department of
+Transportation shall adopt rules defining “district highway” for purposes of
+this paragraph. 
+
+       (3) In choosing
+projects under subsection (2) of this section, the commission shall use the
+following criteria, in addition to any criteria developed under ORS 367.623: 
+
+       (a) Lane capacity
+projects shall be chosen from a financially constrained list. 
+
+       (b) Bridge
+projects shall be chosen on the basis of a bridge inventory or rating system
+recognized by the commission. 
+
+       (c) Priority for
+interchange projects shall be given to projects on multilane highways where
+safety can be enhanced by constructing a grade-separated interchange to replace
+an at-grade crossing. 
+
+       (d) Priority for
+district highway preservation projects shall be given to those projects that
+may facilitate transfer of jurisdiction over the highway from the state to a
+local government. 
+
+       (e) Projects
+selected for financing under this section shall be equitably distributed
+throughout the state, using the criteria for distribution of projects that are
+used for the Statewide Transportation Improvement Program. [2001 c.669 §2; 2005
+c.612 §8] 
+
+   
+
+       Note: 367.622 and 367.623 were added to
+and made a part of ORS chapter 367 by legislative action but were not added to
+any smaller series therein. See Preface to Oregon Revised Statutes for further
+explanation. 
+
+   
+
+       367.623
+Consultation with local governments for project selection. In establishing criteria other
+than those specified in ORS 367.622 for selection of projects, and in choosing
+projects under ORS 367.622, the Oregon Transportation Commission shall consult
+with local governments, metropolitan planning organizations and regional
+transportation advisory groups. [2001 c.669 §3] 
+
+   
+
+       Note: See note under 367.622. 
+
+   
+
+       367.625 [1985 c.551 §4a; repealed by 1999
+c.1036 §6] 
+
+   
+
+       367.630
+Highway revenue declaration; contents; purpose. (1) Before bonds are issued under
+ORS 367.615, the Department of Transportation must prepare a highway revenue
+declaration authorizing issuance of the bonds. The declaration must be signed
+by the Director of Transportation or a person designated by the director and
+must be approved by the State Treasurer or a person designated by the State
+Treasurer. 
+
+       (2) A declaration
+prepared under this section may do any of the following: 
+
+       (a) Pledge any
+part or all of moneys described under ORS 367.605 for purposes of the bonds to
+be issued. 
+
+       (b) Limit the
+purpose for which the proceeds of the sale may be applied by the department. 
+
+       (c) Make pledges
+concerning the proceeds of the sale or moneys described under ORS 367.605 as
+necessary to secure payment of bonds of the department. 
+
+       (d) Limit the
+issuance of additional bonds under ORS 367.615, limit or establish terms upon
+which additional bonds may be issued under ORS 367.615 or limit or establish
+the issuance or the terms of issuance or provide for the refunding of
+outstanding bonds. 
+
+       (e) Provide for
+procedures, if any, by which the terms of contracts with bondholders may be
+amended or rescinded, for the percentage of the bondholders that must consent
+to amendment or rescinding of such contract and for the manner of bondholder
+consent to any amendment or rescinding of such contract. 
+
+       (f) Establish a
+trustee as described under ORS 367.650. 
+
+       (g) Vest a
+trustee appointed under ORS 367.650 with property, rights, powers and duties in
+trust, as the State Treasurer determines appropriate. Authority granted by this
+paragraph includes authority to: 
+
+       (A) Include the
+rights, powers and duties of a trustee appointed to bondholders. 
+
+       (B) Limit the
+rights, powers and duties of the trustee. 
+
+       (h) Provide for
+other matters affecting issuance of the bonds. 
+
+       (3) A declaration
+under this section may establish the same requirements, be subject to the same
+provisions, create the same obligations and confer the same rights and is
+otherwise subject to the same provisions as an indenture under ORS 367.640, if
+so provided in the declaration. [1985 c.551 §5; 1987 c.158 §64] 
+
+   
+
+       367.635 Bond
+form, issuance and maturity; provisions subject to determination of State
+Treasurer. (1) A
+bond issued under ORS 367.615: 
+
+       (a) Must contain
+on its face a statement that the ad valorem taxing power of this state or any
+political subdivision of this state is not pledged to the payment of the
+principal or the interest on the bond. 
+
+       (b) Shall be
+issued as provided in ORS chapter 286A. 
+
+       (c) Must mature
+on or before a date determined by calculation of the expected economic life of
+the improvements, assets and projects financed with the proceeds of the bonds.
+Subject to this paragraph, the time bonds mature may be as established by
+indenture under ORS 367.640. 
+
+       (2) The State
+Treasurer shall determine, in consultation with the department and consistent
+with ORS chapter 286A, all aspects relating to the sale of bonds under ORS
+367.615 that are not otherwise specifically provided, including rate of
+interest and discount, if any. [1985 c.551 §6; 2003 c.201 §26; 2007 c.783 §172] 
+
+   
+
+       367.640
+Indenture; provisions. 
+An indenture under which bonds described under ORS 367.615 are issued may
+provide for any or all of the following: 
+
+       (1) The pledging
+of moneys or a portion of moneys described under ORS 367.605 to the payment of
+the bond debt service on bonds issued under ORS 367.615. 
+
+       (2) Requirements
+concerning particular issues of bonds under ORS 367.615. 
+
+       (3) Requirements
+concerning moneys described under ORS 367.605 and payment on outstanding bonds
+issued under ORS 367.615. 
+
+       (4) A contractual
+undertaking for the benefit of bondholders concerning assessment, levy
+collection and deposit of moneys described under ORS 367.605. 
+
+       (5) Provisions
+concerning the registration of bonds or recording or filing of the indenture. 
+
+       (6) Provisions
+relating to a reserve account under ORS 367.645. Provisions under this
+subsection may include, but are not limited to, the amount required for such
+account or provisions for replenishing the account from moneys described under
+ORS 367.605. 
+
+       (7) Provisions
+concerning trustees under ORS 367.650 including, but not limited to: 
+
+       (a) Establishing
+funds, accounts or moneys described under ORS 367.605 over which the trustee
+will be custodian. 
+
+       (b) Providing
+that a trustee will be appointed. 
+
+       (8) Establishing
+the maturation date for the bonds, subject to ORS 367.635. [1985 c.551 §7; 2003
+c.201 §27] 
+
+   
+
+       367.645
+Reserve account. 
+The Department of Transportation may establish a separate reserve account to
+provide additional security for bonds issued under ORS 367.615. The following
+apply to any account established under this section: 
+
+       (1) The account
+may be established as part of the highway fund or separately. 
+
+       (2) The
+establishment of an account does not, in itself, limit the payment of bond debt
+service for bonds issued under ORS 367.615 to moneys in the account. Bond debt
+service for bonds issued under ORS 367.615 may be paid from any moneys under
+ORS 367.605, whether or not an account is established, unless otherwise
+provided by indenture under ORS 367.640. 
+
+       (3) The account
+is subject to any provisions established by indenture under ORS 367.640
+concerning the amount of money in the account or the replenishing of moneys if
+the account is drawn down at any time while bonds are outstanding. 
+
+       (4) The account
+is subject to any other provisions concerning the account that are established
+by indenture under ORS 367.640. [1985 c.551 §8; 1989 c.610 §2; 2003 c.201 §28] 
+
+   
+
+       367.650 Trust
+indenture to secure bonds; provisions. 
+At the discretion of the State Treasurer, bonds issued under ORS 367.615 may be
+secured by a trust indenture. A trust indenture established under this section
+is subject to the following: 
+
+       (1) The trust
+indenture shall be by and between the state and a trustee. 
+
+       (2) The trustee
+may be any trust company or bank having the powers of a trust company whether
+inside or outside the state. 
+
+       (3) The trustee
+may act as custodian as provided for by indenture under ORS 367.640. 
+
+       (4) The trustee
+must be jointly appointed by the director and the State Treasurer. 
+
+       (5) The trustee
+shall be vested with such powers and duties as provided for by indenture under
+ORS 367.640. [1985 c.551 §9] 
+
+   
+
+       367.655 Loan
+of bond proceeds to cities and counties; use of loans; rules. (1) Notwithstanding any other
+provision of law or any provision of charter or local ordinance to the
+contrary: 
+
+       (a) The
+Department of Transportation may loan a portion of proceeds from bonds issued
+under ORS 367.615 to cities and counties; and 
+
+       (b) Cities and
+counties may borrow moneys under this section. 
+
+       (2) Any loan made
+under this section is subject to all of the following provisions: 
+
+       (a) Moneys from
+the loan may only be used to defray costs of location, relocation,
+improvements, construction and reconstruction of city and county streets and
+roads. 
+
+       (b) The
+department shall establish rules concerning the making of agreements for the
+loans. Repayment of principal and interest by any city or county must be made
+according to the agreement between the department and the city or county. 
+
+       (c) If a city or
+county defaults of repayment, the department may withhold any part of the
+appropriation or allocation to the city under ORS 366.785 to 366.820 or the
+county under ORS 366.762 to 366.768 as provided for in the agreement for
+repayment made under this section. [1985 c.551 §10; 2003 c.201 §29] 
+
+   
+
+       367.660 Lien
+on certain moneys pledged for bonds; terms of lien. If moneys under ORS 367.605 are
+pledged for purposes of bonds by indenture under ORS 367.640, a lien is
+established upon the moneys. A lien established by this section is subject to
+all of the following: 
+
+       (1) The lien is a
+first lien and security interest and prior charge upon the pledged moneys
+except to the extent provided otherwise by the indenture. 
+
+       (2) The lien is
+valid and binding from the time the pledge is made. 
+
+       (3) The pledged
+moneys are immediately subject to the lien without physical delivery or further
+act. 
+
+       (4) The lien is
+valid and binding against all parties having claims on the money of any kind
+including claims under tort or contract. 
+
+       (5) The lien is
+valid and binding against all parties irrespective of whether the parties have
+notice of the lien. 
+
+       (6) No bond,
+indenture or any other instrument by which the pledge is made or the lien
+created must be recorded or filed except as provided by the indenture under ORS
+367.640. [1985 c.551 §11; 2003 c.201 §30] 
+
+   
+
+       367.665
+Interest on bonds exempt from state income tax. The interest upon all bonds issued
+under ORS 367.615 and upon all refunding and advance refunding bonds issued
+under ORS chapter 286A is exempt from personal income taxation imposed by this
+state under ORS chapter 316. [1985 c.551 §12; 2007 c.783 §172a] 
+
+   
+
+       367.670 [1985 c.551 §13; repealed by 2007
+c.783 §234] 
+
+   
+
+ BONDED INDEBTEDNESS FOR
+CITY AND COUNTY ROADS AND RECREATION FACILITIES 
+
+   
+
+       367.700
+Authority to sell limited amount of bonds under ORS 367.700 to 367.750. In addition to the authority now
+vested by any other provision of law state highway bonds of the State of Oregon
+used to provide funds for purposes of ORS 367.700 to 367.750 in the aggregate
+principal sum may not exceed $50 million. [1975 c.211 §1; 1981 c.660 §34] 
+
+   
+
+       367.705 Use of
+funds; priority. 
+(1) The Department of Transportation shall make loans to cities and counties
+from funds available under ORS 367.700 to 367.750 for the purposes stated in
+section 3a, Article IX of the Oregon Constitution. 
+
+       (2) If funds
+available under ORS 367.700 to 367.750 are not sufficient to fund all projects
+for which funds are applied by cities and counties, the department shall give
+priority to projects in cities and counties having the highest rates of
+unemployment in this state. [1975 c.211 §2; 2003 c.201 §31] 
+
+   
+
+       367.710
+Repayment by city or county; interest. 
+(1) The Department of Transportation shall cause cities and counties that
+receive funds under ORS 367.705 to repay bond debt service by withholding from
+payments due to the city under ORS 366.785 to 366.820 or to the county under
+ORS 366.762 to 366.768. Funds withheld under this subsection remain in the
+State Highway Fund available for the purposes authorized by law. 
+
+       (2) The
+Department of Transportation shall fix the rate of interest to be charged on
+any advance made under ORS 367.705. [1975 c.211 §3; 2003 c.201 §32] 
+
+   
+
+       367.715
+Procedure for issuing bonds under ORS 367.700 to 367.750. All bonds issued under ORS 367.700
+to 367.750 must be issued in accordance with ORS chapter 286A. [1975 c.211 §4;
+1981 c.660 §35; 2003 c.201 §33; 2007 c.783 §173] 
+
+   
+
+       367.720 [1975 c.211 §5; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.725 [1975 c.211 §6; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.730 [1975 c.211 §7; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.735 [1975 c.211 §8; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.740 [1975 c.211 §9; repealed by 1981
+c.660 §18] 
+
+   
+
+       367.745
+Setting aside sufficient moneys to pay maturing bonds. The Department of Transportation
+shall compute and determine in January of each year, after the sale of bonds
+under ORS 367.700 to 367.750, the amount of bond debt service that will fall
+due during such year on bonds then outstanding and unpaid and shall maintain or
+hold in the State Highway Fund sufficient moneys to pay such maturing
+obligations. [1975 c.211 §10; 2003 c.201 §34] 
+
+   
+
+       367.750
+Constitutional debt limits not to be exceeded. The Department of Transportation
+may not issue or sell general obligation bonds under ORS 367.700 to 367.750
+that, singly or in the aggregate with previous debts or liabilities incurred
+for the building and maintaining of permanent roads, exceed any limitation
+provided in the Oregon Constitution at the date of the issuance and sale of
+such bonds. [1975 c.211 §11; 2003 c.201 §35] 
+
+   
+
+ OREGON INNOVATIVE
+PARTNERSHIPS PROGRAM 
+
+   
+
+       367.800
+Findings. The
+Legislative Assembly finds that: 
+
+       (1)
+Entrepreneurial approaches to the acquisition, design, management and financing
+of transportation projects will accelerate cost-effective project delivery. 
+
+       (2)
+Entrepreneurial approaches can bring substantial benefits to the public in
+transportation project development and execution. 
+
+       (3) Risk
+management is a critical component of partnerships for transportation projects. 
+
+       (4) Successful
+implementation of an Oregon innovative partnership program for transportation
+projects requires that risk in a project be managed and shared by public and
+private sector participants, with the partner best able to control a risk
+bearing responsibility for the risk. 
+
+       (5) The
+Legislative Assembly and the executive branch of government accept
+responsibility for providing predictability for partnerships for transportation
+projects and for allowing negotiated agreements to be implemented. 
+
+       (6) The
+development, acquisition and construction of transportation projects creates
+jobs and furthers economic development in Oregon by, among other things: 
+
+       (a) Increasing
+the economy and efficiency of public transportation, improving the flow of
+commerce into and around the state and the surrounding region, improving the
+attractiveness of Oregon to new businesses and supporting the operations and
+prosperity of existing businesses; and 
+
+       (b) Improving the
+movement of people into and around the state and the surrounding region,
+alleviating congestion and crowding and reducing the burdens on existing public
+transportation systems and transportation facilities. [2003 c.790 §1] 
+
+   
+
+       Note: 367.800 to 367.824 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 367 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation. 
+
+   
+
+       367.802
+Definitions. As
+used in ORS 367.800 to 367.824: 
+
+       (1) “Agreement”
+means a written agreement, including but not limited to a contract, for a
+transportation project that is entered into under ORS 367.806. 
+
+       (2) “Private
+entity” means any entity that is not a unit of government, including but not
+limited to a corporation, partnership, company, nonprofit organization or other
+legal entity or a natural person. 
+
+       (3) “Transportation
+project” or “project” means any proposed or existing undertaking that
+facilitates: 
+
+       (a) Any mode of
+transportation in this state; 
+
+       (b) The
+collection of taxes and fees as an alternative to the motor vehicle fuel taxes
+imposed under ORS 319.020 and 319.530; or 
+
+       (c) The
+collection of the per-mile road usage charge imposed under ORS 319.885. 
+
+       (4) “Unit of
+government” means any department or agency of the federal government, any state
+or any agency, office or department of a state, any city, county, district,
+commission, authority, entity, port or other public corporation organized and
+existing under statutory law or under a voter-approved charter and any
+intergovernmental entity created under ORS 190.003 to 190.130, 190.410 to
+190.440 or 190.480 to 190.490. [2003 c.790 §2; 2011 c.470 §8; 2013 c.781 §23] 
+
+   
+
+       Note: See note under 367.800. 
+
+   
+
+       367.804 Goals
+of Oregon Innovative Partnerships Program; authority of Department of
+Transportation; confidentiality; expenses. (1) The Department of Transportation shall establish
+the Oregon Innovative Partnerships Program for the planning, acquisition,
+financing, development, design, construction, reconstruction, replacement,
+improvement, maintenance, management, repair, leasing and operation of
+transportation projects. 
+
+       (2) The goals of
+the Oregon Innovative Partnerships Program are to: 
+
+       (a) Develop an
+expedited project delivery process; 
+
+       (b) Maximize
+innovation; and 
+
+       (c) Develop
+partnerships with private entities and units of government. 
+
+       (3) As part of
+the program established under this section: 
+
+       (a) The
+department may: 
+
+       (A) Solicit
+concepts or proposals for transportation projects from private entities and
+units of government. 
+
+       (B) Accept
+unsolicited concepts or proposals for transportation projects from private
+entities and units of government. 
+
+       (C) Evaluate the
+concepts or proposals received under this subsection and select potential
+projects based on the concepts or proposals. The evaluation under this
+subparagraph shall include consultation with any appropriate local government,
+metropolitan planning organization or area commission on transportation. 
+
+       (D) Charge an
+administrative fee for the evaluation in an amount determined by the
+department. 
+
+       (b) The
+department shall enter into agreements to undertake transportation projects
+described in ORS 367.806 (2). 
+
+       (4) Following an
+evaluation by the department of concepts or proposals the department receives
+under subsection (3)(a) of this section, and the selection of potential
+transportation projects, the department may negotiate and enter into the
+agreements described in ORS 367.806 for implementing the selected
+transportation projects. 
+
+       (5) Except as
+provided in subsection (6) of this section: 
+
+       (a) Information
+related to a transportation project proposed under ORS 367.800 to 367.824,
+including but not limited to the project’s design, management, financing and
+other details, is exempt from disclosure under ORS 192.311 to 192.478 until: 
+
+       (A) The
+department shares the information with a local government, metropolitan
+planning organization or area commission on transportation under subsection
+(3)(a)(C) of this section; or 
+
+       (B) The
+department completes its evaluation of the proposed project and has selected
+the proposal for negotiation of an agreement. 
+
+       (b) After the
+department has either shared the information described in paragraph (a) of this
+subsection with a local government, metropolitan planning organization or area
+commission on transportation, or has completed its evaluation of the proposed
+project, the information is subject to disclosure under ORS 192.311 to 192.478. 
+
+       (6) Sensitive
+business, commercial or financial information that is not customarily provided
+to business competitors that is submitted to the department in connection with
+a transportation project under ORS 367.800 to 367.824 is exempt from disclosure
+under ORS 192.311 to 192.478 until the information is submitted to the Oregon
+Transportation Commission in connection with its review and approval of the
+transportation project under ORS 367.806. 
+
+       (7) The
+department may, in connection with the evaluation of concepts or proposals for
+transportation projects, consider any financing mechanisms, including but not
+limited to the imposition and collection of franchise fees or user fees and the
+development or use of other revenue sources. 
+
+       (8) The
+department and any other unit of government may expend, out of any funds
+available for the purpose, such moneys as may be necessary for the evaluation
+of concepts or proposals for transportation projects and for negotiating
+agreements for transportation projects under ORS 367.806. The department or
+other unit of government may employ engineers, consultants or other experts the
+department or other unit of government determines are needed for the purposes
+of doing the evaluation and negotiation. Expenses incurred by the department or
+other unit of government under this subsection prior to the issuance of
+transportation project revenue bonds or other financing shall be paid by the
+department or other unit of government, as applicable, and charged to the
+appropriate transportation project. The department or other unit of government
+shall keep records and accounts showing each amount so charged. Upon the sale
+of transportation project revenue bonds or upon obtaining other financing for
+any transportation project, the funds expended by the department or other unit
+of government under this subsection in connection with the project shall be
+repaid to the department or the unit of government from the proceeds of the
+bonds or other financing, as allowed by applicable law. [2003 c.790 §3; 2013
+c.781 §24] 
+
+   
+
+       Note: See note under 367.800. 
+
+   
+
+       367.806
+Agreements. (1) As
+part of the Oregon Innovative Partnerships Program established under ORS
+367.804, the Department of Transportation may: 
+
+       (a) Enter into
+any agreement or any configuration of agreements relating to transportation
+projects with any private entity or unit of government or any configuration of
+private entities and units of government. The subject of agreements entered
+into under this section may include, but need not be limited to, planning,
+acquisition, financing, development, design, construction, reconstruction,
+replacement, improvement, maintenance, management, repair, leasing and
+operation of transportation projects. 
+
+       (b) Include in
+any agreement entered into under this section any financing mechanisms,
+including but not limited to the imposition and collection of franchise fees or
+user fees and the development or use of other revenue sources. 
+
+       (2) As part of
+the Oregon Innovative Partnerships Program established under ORS 367.804, the
+department shall enter into agreements to undertake transportation projects the
+subjects of which include the application of technology standards to determine
+whether to certify technology, the collection of metered use data, tax
+processing and account management, as these subjects relate to the operation of
+a road usage charge system pursuant to ORS 319.883 to 319.946. 
+
+       (3) The
+agreements among the public and private sector partners entered into under this
+section must specify at least the following: 
+
+       (a) At what point
+in the transportation project public and private sector partners will enter the
+project and which partners will assume responsibility for specific project
+elements; 
+
+       (b) How the
+partners will share management of the risks of the project; 
+
+       (c) How the
+partners will share the costs of development of the project; 
+
+       (d) How the
+partners will allocate financial responsibility for cost overruns; 
+
+       (e) The penalties
+for nonperformance; 
+
+       (f) The
+incentives for performance; 
+
+       (g) The
+accounting and auditing standards to be used to evaluate work on the project;
+and 
+
+       (h) Whether the
+project is consistent with the plan developed by the Oregon Transportation
+Commission under ORS 184.617 and any applicable regional transportation plans
+or local transportation system programs and, if not consistent, how and when
+the project will become consistent with applicable plans and programs. 
+
+       (4) The
+department may, either separately or in combination with any other unit of
+government, enter into working agreements, coordination agreements or similar
+implementation agreements to carry out the joint implementation of any
+transportation project selected under ORS 367.804. 
+
+       (5) Except for
+ORS 383.015 and 383.019, the provisions of ORS 383.001 to 383.245 apply to any
+tollway project entered into under ORS 367.800 to 367.824. 
+
+       (6) The
+provisions of ORS 279.835 to 279.855 and ORS chapters 279A, 279B and 279C do
+not apply to concepts or proposals submitted under ORS 367.804, or to
+agreements entered into under this section, except that if public moneys are
+used to pay any costs of construction of public works that is part of a
+project, the provisions of ORS 279C.800 to 279C.870 apply to the public works.
+In addition, if public moneys are used to pay any costs of construction of
+public works that is part of a project, the construction contract for the
+public works must contain provisions that require the payment of workers under
+the contract in accordance with ORS 279C.540 and 279C.800 to 279C.870. 
+
+       (7)(a) The
+department may not enter into an agreement under this section until the
+agreement is reviewed and approved by the Oregon Transportation Commission. 
+
+       (b) The
+department may not enter into, and the commission may not approve, an agreement
+under this section for the construction of a public improvement as part of a
+transportation project unless the agreement provides for bonding, financial
+guarantees, deposits or the posting of other security to secure the payment of
+laborers, subcontractors and suppliers who perform work or provide materials as
+part of the project. 
+
+       (c) Before
+presenting an agreement to the commission for approval under this subsection,
+the department must consider whether to implement procedures to promote
+competition among subcontractors for any subcontracts to be let in connection
+with the transportation project. As part of its request for approval of the
+agreement, the department shall report in writing to the commission its
+conclusions regarding the appropriateness of implementing such procedures. 
+
+       (8)(a) Except as
+provided in paragraph (b) of this subsection, documents, communications and
+information developed, exchanged or compiled in the course of negotiating an
+agreement with a private entity under this section are exempt from disclosure
+under ORS 192.311 to 192.478. 
+
+       (b) The
+documents, communications or information described in paragraph (a) of this
+subsection are subject to disclosure under ORS 192.311 to 192.478 when the
+documents, communications or information are submitted to the commission in
+connection with its review and approval of a transportation project under
+subsection (7) of this section. 
+
+       (9) The terms of
+a final agreement entered into under this section and the terms of a proposed
+agreement presented to the commission for review and approval under subsection
+(7) of this section are subject to disclosure under ORS 192.311 to 192.478. 
+
+       (10) As used in
+this section: 
+
+       (a) “Public
+improvement” has the meaning given that term in ORS 279A.010. 
+
+       (b) “Public works”
+has the meaning given that term in ORS 279C.800. [2003 c.790 §§4,4b; 2007 c.531
+§13; 2013 c.781 §25; 2017 c.750 §29; 2021 c.630 §158] 
+
+   
+
+       Note: See note under 367.800. 
+
+   
+
+       367.808
+Evaluation of proposed agreements; role of Attorney General. (1) At the request of the
+Department of Transportation, the Attorney General may appoint special
+assistant attorneys general for the purpose of evaluating partnership
+agreements entered into or to be entered into as part of the program
+established under ORS 367.804. The special assistant attorneys general shall be
+under the direction and control of the Attorney General and may: 
+
+       (a) Advise the
+Department of Transportation concerning the legality of specific proposed
+partnerships; 
+
+       (b) Advise the
+department on legal procedures and practices related to implementation of
+specific projects that use a partnership; 
+
+       (c) Assist the
+department in negotiating partnership agreements; 
+
+       (d) Assist the
+department in preparing any document related to a specific partnership; 
+
+       (e) Advise the
+department regarding accounting, investment and tax requirements applicable to
+specific projects that use a partnership; and 
+
+       (f) Advise the
+department regarding any relevant federal securities or other laws and related
+disclosure requirements. 
+
+       (2) When the
+Attorney General, as part of the review under ORS 291.047, reviews an agreement
+entered into under ORS 367.806, the Attorney General shall: 
+
+       (a) Recognize
+that the agreement is the product of a partnership; and 
+
+       (b) Defer to the
+business judgment of the department and the Oregon Transportation Commission
+concerning the assignment of risks and the incentives provided within the
+agreement. [2003 c.790 §5] 
+
+   
+
+       Note: See note under 367.800. 
+
+   
+
+       367.810 State
+Transportation Enterprise Fund. 
+(1) The State Transportation Enterprise Fund is established separate and
+distinct from the General Fund. Interest earned by the State Transportation
+Enterprise Fund shall be credited to the fund. 
+
+       (2) The following
+moneys shall be deposited into the State Transportation Enterprise Fund: 
+
+       (a) Proceeds from
+bonds or other financing instruments issued under the provisions of ORS 367.800
+to 367.824; 
+
+       (b) Revenues
+received from any transportation project developed under the program
+established under ORS 367.804; and 
+
+       (c) Any other
+moneys that are by donation, grant, contract, law or other means transferred,
+allocated or appropriated to the fund. 
+
+       (3) Moneys in the
+State Transportation Enterprise Fund are continuously appropriated to the
+Department of Transportation for the purpose of carrying out the provisions of
+ORS 367.800 to 367.824 and implementing all or portions of any transportation
+project developed under the program established under ORS 367.804. 
+
+       (4) Moneys in the
+State Transportation Enterprise Fund that are transferred from the State
+Highway Fund or from any one of the sources that comprise the State Highway
+Fund as specified in ORS 366.505 and that are revenue under section 3a, Article
+IX of the Oregon Constitution, may be used only for purposes authorized by
+section 3a, Article IX of the Oregon Constitution. 
+
+       (5) The
+department shall establish a separate account in the State Transportation
+Enterprise Fund for each transportation project that is undertaken under the
+program established under ORS 367.804. Except as provided in subsection (4) of
+this section, the department may pledge moneys in the State Transportation
+Enterprise Fund to secure revenue bonds or any other debt obligations relating
+to the transportation project for which the account is established. 
+
+       (6) Moneys in an
+account established under subsection (5) of this section shall be used as
+provided in any agreement applicable to the transportation project for which
+the account is established. [2003 c.790 §6] 
+
+   
+
+       Note: See note under 367.800. 
+
+   
+
+       367.812 Bonds
+secured by State Transportation Enterprise Fund; financing of transportation
+projects. (1) In
+addition to any authority to issue and sell bonds and other similar
+obligations, this section establishes continuing authority for the State
+Treasurer to issue and sell bonds and other similar obligations, at the request
+of the Department of Transportation, in a manner consistent with this section.
+To finance any transportation project in whole or in part, the department may
+request that the State Treasurer issue revenue bonds on behalf of the
+department. Revenue bonds authorized under this section shall be issued in
+accordance with the applicable provisions of ORS chapter 286A. The bonds shall
+be secured by a pledge of, and a lien on, and shall be payable only from moneys
+in the State Transportation Enterprise Fund established by ORS 367.810 and any
+other revenues specifically pledged to repayment of the bonds. Such a pledge by
+the department of its revenues creates a lien that is valid and binding from
+the time the pledge is made as provided in ORS 286A.102. Revenue bonds issued
+pursuant to this section are not general obligations of the state and are not
+secured by or payable from any funds or assets of the state other than the
+moneys and revenues specifically pledged to the repayment of such revenue
+bonds. 
+
+       (2) Moneys
+received from the issuance of revenue bonds or other debt obligations,
+including any investment earnings thereon, may be expended: 
+
+       (a) For the
+purpose of financing the costs of the transportation project for which the
+bonds are issued; 
+
+       (b) To pay the
+costs and other administrative expenses of the bonds; 
+
+       (c) To pay the
+costs of credit enhancement or to fund any reserves determined to be necessary
+or advantageous in connection with the revenue bonds; and 
+
+       (d) To reimburse
+the department for any costs related to carrying out the purposes of the
+program established under ORS 367.804. 
+
+       (3) Any
+transportation project may be financed in whole or in part with: 
+
+       (a) The proceeds
+of grant anticipation revenue bonds authorized by 23 U.S.C. 122 and applicable
+state law. 
+
+       (b) Grants,
+loans, loan guarantees, lines of credit, revolving lines of credit or other
+financing arrangements available pursuant to the Transportation Infrastructure
+Finance and Innovation Act under 23 U.S.C. 181 et seq., or any other applicable
+federal law. 
+
+       (c)
+Infrastructure loans or assistance from the Oregon Transportation
+Infrastructure Fund established by ORS 367.015. 
+
+       (4) As security
+for the payment of financing described in subsection (3) of this section, the
+revenues from the project may be pledged, but no such pledge of revenues
+constitutes in any manner or to any extent a general obligation of the state.
+Any financing described in subsection (3) of this section may be structured on
+a senior, parity or subordinate basis to any other financing. [2003 c.790 §7;
+2007 c.783 §174] 
+
+   
+
+       Note: See note under 367.800. 
+
+   
+
+       367.814 Moneys
+from federal government or other sources. (1) The Department of Transportation or a unit of
+government may accept from the United States or any of its agencies such funds
+as are available to this state or to the unit of government for carrying out
+the purposes of ORS 367.800 to 367.824, whether the funds are made available by
+grant, loan or other financing arrangement. The department or unit of
+government may enter into such agreements and other arrangements with the
+United States or any of its agencies as may be necessary, proper and convenient
+for carrying out the purposes of ORS 367.800 to 367.824. 
+
+       (2) The
+department or a unit of government may accept from any source any grant,
+donation, gift or other form of conveyance of land, money, other real or
+personal property or other valuable thing made to the State of Oregon, the
+department or the unit of government for carrying out the purposes of ORS
+367.800 to 367.824. 
+
+       (3) Any
+transportation project may be financed in whole or in part by contribution of
+any funds or property made by any private entity or unit of government that is
+a party to any agreement entered into under ORS 367.806. [2003 c.790 §8] 
+
+   
+
+       Note: See note under 367.800. 
+
+   
+
+       367.816 Use of
+moneys in Oregon Transportation Infrastructure Fund for projects. (1) Notwithstanding ORS 367.020,
+the Department of Transportation may use moneys in the Oregon Transportation
+Infrastructure Fund established by ORS 367.015 to ensure the repayment of loan
+guarantees or extensions of credit made to or on behalf of private entities
+engaged in the planning, acquisition, financing, development, design,
+construction, reconstruction, replacement, improvement, maintenance,
+management, repair, leasing or operation of any transportation project that is
+part of the program established under ORS 367.804. 
+
+       (2) The lien of a
+pledge made under this section is subordinate to the lien of a pledge securing
+bonds payable from moneys in the State Highway Fund described in ORS 366.505,
+the Toll Program Fund established by ORS 383.009 or the State Transportation Enterprise
+Fund established by ORS 367.810. [2003 c.790 §9; 2021 c.630 §159] 
+
+   
+
+       Note: See note under 367.800. 
+
+   
+
+       367.818
+Eminent domain powers. 
+The Department of Transportation may exercise the power of eminent domain to
+acquire property, rights of way or other rights in property for transportation
+projects that are part of the program established under ORS 367.804, regardless
+of whether the property will be owned in fee simple by the department. [2003
+c.790 §10] 
+
+   
+
+       Note: See note under 367.800. 
+
+   
+
+       367.820
+Creation of district; use of revenues within district. An agreement among the Department
+of Transportation and other units of government may create a new district, or
+designate a previously existing district, that includes any or all of the
+territory within the geographic boundaries of any or all Oregon counties in
+which a transportation project is located, and may require that all revenues
+from franchise fees, other user fees or other revenue sources collected within
+the district in connection with the transportation project be used exclusively
+for the benefit of the district. [2003 c.790 §11] 
+
+   
+
+       Note: See note under 367.800. 
+
+   
+
+       367.822
+Advisory committees on transportation projects; rules. (1) The Department of
+Transportation and any unit of government that participates in a transportation
+project may establish advisory committees to advise the department or the unit
+of government with respect to transportation projects. An advisory committee
+shall consist of not fewer than five and not more than nine members, as
+determined by the department. Members shall be appointed by the department, or
+in a manner agreed to by the department and any participating unit of
+government. 
+
+       (2) At the
+request of the department, an advisory committee may review concepts or
+proposals for transportation projects and submit recommendations to the
+department or the participating unit of government. 
+
+       (3) An advisory
+committee shall meet as necessary at times and places fixed by the department
+or the participating unit of government. The department shall provide personnel
+services to assist the advisory committee within the limits of available funds.
+An advisory committee may adopt rules to govern its proceedings and may select
+officers. [2003 c.790 §12] 
+
+   
+
+       Note: See note under 367.800. 
+
+   
+
+       367.824 Rules;
+supremacy of federal law. 
+(1) The Department of Transportation may adopt any rules it considers necessary
+to implement the provisions of ORS 367.800 to 367.824. 
+
+       (2)
+Notwithstanding any provision of ORS 367.800 to 367.824, applicable federal
+laws, rules and regulations govern in any situation that involves federal funds
+if the federal laws, rules or regulations: 
+
+       (a) Conflict with
+any provision of ORS 367.800 to 367.824; 
+
+       (b) Require
+procedures that are additional to or different from those provided in ORS
+367.800 to 367.824; or 
+
+       (c) Require
+contract provisions not authorized by ORS 367.800 to 367.824. [2003 c.790 §§4a,13] 
+
+   
+
+       Note: See note under 367.800. 
+
+   
+
+       367.826 [2003 c.790 §16; repealed by 2015
+c.138 §15] 
+
+   
+
+ MISCELLANEOUS 
+
+   
+
+       367.850
+Alternatives to meeting funding requirements of transportation planning rule;
+rules. (1) Subject
+to the limitations in subsection (2) of this section, if a local government is
+unable to meet the funding requirements of the transportation planning rule
+adopted by the Land Conservation and Development Commission, the local
+government may: 
+
+       (a) Apply for an
+extension of time to meet the requirements; 
+
+       (b) Submit a plan
+to the Oregon Transportation Commission and the Department of Transportation
+proposing alternative methods of funding that will meet the standards adopted
+by the Oregon Transportation Commission; or 
+
+       (c) Apply to the
+Department of Transportation: 
+
+       (A) To adjust
+various traffic performance measures during an interim period prior to
+completion of construction of the development in question for a period of no
+more than 20 years; or 
+
+       (B) To allow
+various types of traffic performance measures other than a volume to capacity
+ratio. 
+
+       (2) The Oregon
+Transportation Commission may not approve more than four applications for
+extension or alternative plans in each Department of Transportation region in a
+calendar year. For purposes of this subsection, the regions are as follows: 
+
+       (a) Region one
+consists of Clackamas, Columbia, Hood River, Multnomah and Washington Counties. 
+
+       (b) Region two
+consists of Benton, Clatsop, Lane, Lincoln, Linn, Marion, Polk, Tillamook and
+Yamhill Counties. 
+
+       (c) Region three
+consists of Coos, Curry, Douglas, Jackson and Josephine Counties. 
+
+       (d) Region four
+consists of Crook, Deschutes, Gilliam, Jefferson, Klamath, Lake, Sherman, Wasco
+and Wheeler Counties. 
+
+       (e) Region five
+consists of Baker, Grant, Harney, Malheur, Morrow, Umatilla, Union and Wallowa
+Counties. 
+
+       (3) The Oregon
+Transportation Commission shall adopt rules for the administration of this
+section. In adopting rules, the commission may not define under what
+circumstances a local government is considered to be able to meet the funding
+requirements of the transportation planning rule adopted by the Land
+Conservation and Development Commission. [2009 c.589 §1] 
+
+   
+
+       Note: 367.850 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 367
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,64 @@
+---
+id: ors-285a.197
+title: "Rulemaking for administration of loan program"
+doc_type: statute
+citation: "ORS 285A.197"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html"
+source_format: html
+retrieved: "2026-07-20"
+source_sha256: "9703ffdac9f33175ab5f2d222a2c4811b11b39da9d292f375b4cca0aac27d86b"
+snapshot_id: ors-chapter-285a
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-20"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-285a"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
+
+# Rulemaking for administration of loan program (ORS 285A.197)
+
+## At a glance
+
+ORS 285A.197 — Rulemaking for administration of loan program. Chapter 285A (Chapter 285A), 2025 Edition.
+
+## Full text
+
+285A.197 Rulemaking for administration of loan program. The Oregon Business Development Department shall establish by rule the procedures and criteria for administration of the program established under ORS 285A.193 to 285A.198, including, but not limited to, the methods of determining:
+
+(1) The distribution of forgivable loans;
+
+(2) The amount of a forgivable loan, including enhancements listed in ORS 285A.194 (3);
+
+(3) The terms of forgivable loan enhancements under ORS 285A.194 (3);
+
+(4) The conditions attached to a loan;
+
+(5) The circumstances in which forgivable loans must be repaid under ORS 285A.196; and
+
+(6) Any means by which noncompliance with applicable performance or other conditions attached to a loan may be cured by the owner or operator. [2021 c.529 §6] 
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> · retrieved 2026-07-20 · sha256 `9703ffdac9f33175ab5f2d222a2c4811b11b39da9d292f375b4cca0aac27d86b`
+  (chapter snapshot `_meta/snapshots/ors-chapter-285a.html`)
+- See [CHANGELOG](./CHANGELOG.md).

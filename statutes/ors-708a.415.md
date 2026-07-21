@@ -1,0 +1,56 @@
+---
+id: ors-708a.415
+title: "Securing deposits by surety bond, letter of credit or insurance"
+doc_type: statute
+citation: "ORS 708A.415"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html"
+source_format: html
+retrieved: "2026-07-20"
+source_sha256: "2245c72a1b052c337cc5afba4b05ca0d6913ba9296e23bb0f5834bdb0a6b7274"
+snapshot_id: ors-chapter-708a
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-20"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-708a"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html> (retrieved 2026-07-20, 2025 Edition).
+
+# Securing deposits by surety bond, letter of credit or insurance (ORS 708A.415)
+
+## At a glance
+
+ORS 708A.415 — Securing deposits by surety bond, letter of credit or insurance. Chapter 708A (Chapter 708A), 2025 Edition.
+
+## Full text
+
+708A.415 Securing deposits by surety bond, letter of credit or insurance.
+
+(1) An Oregon commercial bank may secure any of the funds deposited with the Oregon commercial bank by giving a surety bond, an irrevocable letter of credit issued by an insured institution, as defined in ORS 706.008, or a policy of insurance under which some person other than the Oregon commercial bank becomes liable for deposits, provided that the aggregate face amount of the bonds, letters of credit and policies of insurance does not exceed 20 percent of the capital of the Oregon commercial bank.
+
+(2) A depositor may insure any deposit if the Oregon commercial bank is not a party to the insurance and does not pay any premium or other charges. [1997 c.631 §164] 
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html> · retrieved 2026-07-20 · sha256 `2245c72a1b052c337cc5afba4b05ca0d6913ba9296e23bb0f5834bdb0a6b7274`
+  (chapter snapshot `_meta/snapshots/ors-chapter-708a.html`)
+- See [CHANGELOG](./CHANGELOG.md).

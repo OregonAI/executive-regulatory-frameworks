@@ -1,0 +1,2800 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+247 — Qualification and Registration of Electors 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ QUALIFICATION AND REGISTRATION OF
+ELECTORS 
+
+   
+
+ ELECTIONS 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 247.002     Definitions 
+
+   
+
+ 247.005     Policy 
+
+   
+
+ REGISTRATION 
+
+   
+
+ 247.009     Qualification to vote
+in political subdivision 
+
+   
+
+ 247.012     Method of registering
+or updating a registration; when registration occurs; minimum registration
+information required; effect of missing registration information; registration
+locations 
+
+   
+
+ 247.013     Where person considered
+registered; change of residence address between counties; registration updates;
+when registration considered active or inactive 
+
+   
+
+ 247.014     Transfer of voter
+registration information by Department of Transportation 
+
+   
+
+ 247.015     Other registration
+procedures 
+
+   
+
+ 247.016     Registration of person
+who is 16 or 17 years of age; limitation on public record disclosure 
+
+   
+
+ 247.017     Transfer of voter
+registration records to Secretary of State from Department of Transportation;
+opt-out of voter registration; rules 
+
+   
+
+ 247.018     Transfer of voter
+registration records to Secretary of State from Oregon Health Authority;
+opt-out of registration; rules 
+
+   
+
+ 247.019     Electronic voter
+registration; rules 
+
+   
+
+ 247.025     Registration deadline;
+required address 
+
+   
+
+ 247.035     Rules to consider in
+determining residence of person for voting purposes 
+
+   
+
+ 247.038     Registration of person
+who is homeless or resides in identifiable location 
+
+   
+
+ 247.125     Alteration of
+registration card prohibited; exceptions 
+
+   
+
+ 247.171     State and federal voter
+registration cards; Secretary of State approval of voter registration
+application forms of voter registration agencies; content of voter registration
+cards 
+
+   
+
+ 247.174     Determining
+qualifications of person to register or update registration; hearing 
+
+   
+
+ 247.176     Request for delivery of
+registration card; rules 
+
+   
+
+ 247.178     Distribution and
+availability of registration cards 
+
+   
+
+ 247.181     Voter notification card 
+
+   
+
+ 247.191     Correction of
+registration and voter notification cards when precinct boundaries changed 
+
+   
+
+ 247.195     Inquiry into validity
+of registration; hearing; cancellation 
+
+   
+
+ 247.203     Change, termination or
+adoption of party affiliation before primary election 
+
+   
+
+   
+
+ 247.208     Voter registration
+agencies; designation; prohibited activities; required services; assessment of
+compliance with federal guidelines 
+
+   
+
+ UPDATING REGISTRATION 
+
+   
+
+ 247.275     Limits on considering
+registration of elector inactive; rules 
+
+   
+
+ 247.281     Notice to elector of
+inactive registration; contents 
+
+   
+
+ 247.290     Registration update
+requirement; procedure; exceptions 
+
+   
+
+ 247.292     Update of registration
+of elector changing residence; procedure 
+
+   
+
+ 247.295     Verification of
+addresses of electors; change of address service 
+
+   
+
+ 247.296     Verification of
+addresses of electors; update of registration; notice; cancellation prohibited
+during certain periods 
+
+   
+
+ 247.298     Extension of time for
+updates under ORS 247.292 
+
+   
+
+ 247.302     Effective date of
+registration updated by county clerk 
+
+   
+
+ 247.303     Deadline for elector to
+update registration 
+
+   
+
+ 247.307     Issuance of ballot when
+registration updated after registration deadline 
+
+   
+
+ ELIGIBILITY IN PRESIDENTIAL
+ELECTIONS 
+
+   
+
+ 247.410     Eligibility to vote for
+President or Vice President, or electors, only 
+
+   
+
+ 247.420     Special ballot for
+voting under ORS 247.410 
+
+   
+
+ REMOVAL OF NAMES FROM REGISTER OF
+ELECTORS 
+
+   
+
+ 247.555     Cancellation of
+registration 
+
+   
+
+ 247.563     Notice to elector whose
+registration appears invalid; contents; effect of notice; exceptions 
+
+   
+
+ 247.570     Notice of deaths to
+Secretary of State and county clerk; effect of notice 
+
+   
+
+ 247.580     County clerk to retain
+notices or elector listings for two years 
+
+   
+
+ LISTS OF ELECTORS 
+
+   
+
+ 247.940     Statewide list of
+electors; delivery without charge to political parties; requirements for
+requesting list 
+
+   
+
+ 247.945     List of county or
+statewide electors; delivery to any person; charges 
+
+   
+
+ 247.948     Elector information in
+registration file subject to inspection as public record; exceptions 
+
+   
+
+ 247.955     Use of lists of
+electors for commercial purposes prohibited; exceptions 
+
+   
+
+ DISCLOSURE OF RESIDENCE 
+
+ ADDRESSES AND SIGNATURES 
+
+   
+
+ 247.965     Exemption from
+disclosure as public record of residence address of elector or family member of
+elector; request for exemption 
+
+   
+
+ 247.967     Disclosure of residence
+address of elector or family member of elector; procedure; exception 
+
+   
+
+ 247.969     Definition of “personal
+safety” for purposes of ORS 247.965; rules 
+
+   
+
+ 247.973     Status of signature on
+voter registration card as public record; copies of signature prohibited; voter
+registration documents or information exempt from disclosure 
+
+   
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       247.002
+Definitions. As
+used in this chapter: 
+
+       (1) “County clerk”
+means the county clerk or the county official in charge of elections. 
+
+       (2) “Elector”
+means an individual qualified to vote under Article II, section 2, Oregon
+Constitution. 
+
+       (3) “Registration
+card” means: 
+
+       (a) A state voter
+registration card approved by the Secretary of State under ORS 247.171; 
+
+       (b) A federal
+voter registration application form prescribed by the Federal Election
+Commission pursuant to the National Voter Registration Act of 1993 (P.L.
+103-31); 
+
+       (c) An electronic
+record containing an individual’s legal name, age, residence and citizenship
+information and electronic signature submitted to the Department of
+Transportation in the manner described in ORS 247.017; or 
+
+       (d) An electronic
+record containing an individual’s legal name, age, residence and citizenship
+information submitted to the Oregon Health Authority in the manner described in
+ORS 247.018. [1979 c.190 §39; 1993 c.713 §1; 2015 c.8 §2; 2023 c.492 §3] 
+
+   
+
+       Note: The amendments to 247.002 by
+section 3, chapter 492, Oregon Laws 2023, become operative June 1, 2026. See
+section 9, chapter 492, Oregon Laws 2023. The text that is operative until June
+1, 2026, is set forth for the user’s convenience. 
+
+       247.002. As used in this chapter: 
+
+       (1) “County clerk”
+means the county clerk or the county official in charge of elections. 
+
+       (2) “Elector”
+means an individual qualified to vote under Article II, section 2, Oregon
+Constitution. 
+
+       (3) “Registration
+card” means a state voter registration card approved by the Secretary of State
+under ORS 247.171, a federal voter registration application form prescribed by
+the Federal Election Commission pursuant to the National Voter Registration Act
+of 1993 (P.L. 103-31) or an electronic record containing an individual’s legal
+name, age, residence and citizenship information and electronic signature
+submitted to the Department of Transportation in the manner described in ORS
+247.017. 
+
+   
+
+       247.005
+Policy. (1) Each
+elector has the right to vote in any election in which the elector: 
+
+       (a) Is qualified
+to vote; 
+
+       (b) Has
+registered to vote in a manner authorized by law; and 
+
+       (c) Casts a
+ballot in a manner authorized by law. 
+
+       (2) It is the
+policy of this state that all election laws and procedures shall be established
+and construed to assist the elector in the exercise of the right of franchise. [1969
+c.337 §3; 1979 c.190 §40; 2023 c.600 §1] 
+
+   
+
+       247.007 [1989 c.175 §2; 1993 c.713 §2;
+renumbered 254.399 in 2023] 
+
+   
+
+       247.008 [1979 c.559 §2; 1983 c.567 §4;
+repealed by 1987 c.719 §17 and 1987 c.733 §13] 
+
+   
+
+ REGISTRATION 
+
+   
+
+       247.009
+Qualification to vote in political subdivision. Unless specifically provided
+otherwise, a person may vote in an election of a political subdivision of this
+state only if the person is an elector registered in the political subdivision.
+[1983 c.83 §2] 
+
+   
+
+       247.010 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.011 [1957 c.608 §28; 1959 c.277 §1;
+1975 c.678 §4; repealed by 1977 c.168 §6] 
+
+   
+
+       247.012 Method
+of registering or updating a registration; when registration occurs; minimum
+registration information required; effect of missing registration information;
+registration locations. 
+(1) A qualified person may register to vote or update a registration to vote
+by: 
+
+       (a) Delivering by
+mail, having a person deliver or otherwise delivering a completed registration
+card to any county clerk, the Secretary of State, any office of the Department
+of Transportation or any designated voter registration agency as described in ORS
+247.208; 
+
+       (b) Personally
+delivering, or having a person deliver, the card to an official designated by a
+county clerk under subsection (7) of this section; 
+
+       (c) Submitting
+the person’s legal name, age, residence and citizenship information and
+electronic signature to the Department of Transportation; 
+
+       (d) Submitting
+the person’s legal name, age, residence and citizenship information to the
+Oregon Health Authority for use in the Oregon Health Plan; or 
+
+       (e) Completing a
+registration card using the electronic voter registration system described in
+ORS 247.019. 
+
+       (2) If a
+registration card is mailed or delivered to: 
+
+       (a) Any person
+other than a county clerk or the Secretary of State, the person shall forward
+the card to a county clerk or the Secretary of State not later than the fifth
+day after receiving the card; or 
+
+       (b) The Secretary
+of State or a county clerk for a county other than the county in which the
+person applying for registration resides, the Secretary of State or county
+clerk shall forward the card to the county clerk for the county in which the
+person resides not later than the fifth day after receiving the card. 
+
+       (3) Registration
+of a qualified person occurs: 
+
+       (a) When a
+legible, accurate and complete registration card is received in the office of
+any county clerk, the Office of the Secretary of State, an office of the
+Department of Transportation, a designated voter registration agency under ORS
+247.208 or at a location designated by a county clerk under subsection (7) of
+this section; 
+
+       (b) On the date a
+registration card is postmarked if the card is received after the 21st day
+immediately preceding an election but is postmarked not later than the 21st day
+immediately preceding the election and is addressed to an office of any county
+clerk, the Office of the Secretary of State, an office of the Department of
+Transportation or any designated voter registration agency as described in ORS
+247.208; or 
+
+       (c) In the case
+of a registration card missing a date of birth, containing an incomplete date
+of birth or containing an unintentional scrivener’s error that is supplied or
+corrected as described in subsection (4) or (6) of this section, on the date
+that registration would have occurred if the registration card had not been
+missing the date of birth, contained an incomplete date of birth or contained
+the scrivener’s error. 
+
+       (4)(a)(A) Except
+as provided in ORS 247.125, if a registration card is legible, accurate and
+contains, at a minimum, the registrant’s name, residence address, date of birth
+and signature, the county clerk shall register the person. 
+
+       (B) The county
+clerk shall register a person pursuant to ORS 247.018, regardless of whether
+the person’s registration card contains a signature, if the person’s
+registration card is legible, accurate and contains, at a minimum, the
+registrant’s name, residence address and date of birth. 
+
+       (b) If the
+information required under paragraph (a)(A) of this subsection is missing from
+the registration card or the date of birth is incomplete, or if the signature
+of a person described in paragraph (a)(B) of this subsection has not been
+submitted, the county clerk shall attempt to obtain the missing or incomplete
+information from all sources available to the county clerk, including but not
+limited to current and previous addresses and phone numbers of the registrant.
+The county clerk may also supply the registrant’s date of birth from any
+previous registration of the registrant. If the missing or incomplete
+information cannot be obtained from sources available to the county clerk, the
+county clerk shall use reasonable efforts to contact the registrant by phone,
+mail and electronic mail to obtain the missing or incomplete information. 
+
+       (5) If a
+registration card meets the requirements of subsection (4) of this section but
+is missing an indication of political party affiliation, the registrant shall
+be considered not affiliated with any political party. This subsection does not
+apply if an elector is updating a registration. 
+
+       (6) If a
+registration card contains an unintentional scrivener’s error, the county clerk
+may attempt to contact the person to correct the error. 
+
+       (7) A county
+clerk may appoint officials to accept registration of persons at designated
+locations. The appointments and locations shall be in writing and filed in the
+office of the county clerk. The county clerk shall be responsible for the
+performance of duties by those appointed. 
+
+       (8) A
+registration card received and accepted under this section shall be considered
+an active registration. 
+
+       (9) A
+registration may be updated at any time. [1979 c.190 §41; 1985 c.808 §1a; 1989
+c.20 §1; 1989 c.173 §5; 1989 c.979 §2; 1993 c.713 §6; 1995 c.742 §1; 1999 c.410
+§6; 1999 c.824 §1; 2008 c.53 §1; 2009 c.511 §1; 2009 c.914 §3; 2011 c.607 §1;
+2015 c.8 §3; 2017 c.680 §1; 2023 c.492 §4] 
+
+   
+
+       Note: The amendments to 247.012 by
+section 4, chapter 492, Oregon Laws 2023, become operative June 1, 2026. See
+section 9, chapter 492, Oregon Laws 2023. The text that is operative until June
+1, 2026, is set forth for the user’s convenience. 
+
+       247.012. (1) A qualified person may
+register to vote or update a registration to vote by: 
+
+       (a) Delivering by
+mail, having a person deliver or otherwise delivering a completed registration
+card to any county clerk, the Secretary of State, any office of the Department
+of Transportation or any designated voter registration agency as described in ORS
+247.208; 
+
+       (b) Personally
+delivering, or having a person deliver, the card to an official designated by a
+county clerk under subsection (7) of this section; 
+
+       (c) Submitting
+the person’s legal name, age, residence and citizenship information and
+electronic signature to the Department of Transportation; or 
+
+       (d) Completing a
+registration card using the electronic voter registration system described in
+ORS 247.019. 
+
+       (2) If a
+registration card is mailed or delivered to: 
+
+       (a) Any person
+other than a county clerk or the Secretary of State, the person shall forward
+the card to a county clerk or the Secretary of State not later than the fifth
+day after receiving the card; or 
+
+       (b) The Secretary
+of State or a county clerk for a county other than the county in which the
+person applying for registration resides, the Secretary of State or county
+clerk shall forward the card to the county clerk for the county in which the
+person resides not later than the fifth day after receiving the card. 
+
+       (3) Registration
+of a qualified person occurs: 
+
+       (a) When a
+legible, accurate and complete registration card is received in the office of
+any county clerk, the Office of the Secretary of State, an office of the
+Department of Transportation, a designated voter registration agency under ORS
+247.208 or at a location designated by a county clerk under subsection (7) of
+this section; 
+
+       (b) On the date a
+registration card is postmarked if the card is received after the 21st day
+immediately preceding an election but is postmarked not later than the 21st day
+immediately preceding the election and is addressed to an office of any county
+clerk, the Office of the Secretary of State, an office of the Department of
+Transportation or any designated voter registration agency as described in ORS
+247.208; or 
+
+       (c) In the case
+of a registration card missing a date of birth, containing an incomplete date
+of birth or containing an unintentional scrivener’s error that is supplied or
+corrected as described in subsection (4) or (6) of this section, on the date
+that registration would have occurred if the registration card had not been
+missing the date of birth, contained an incomplete date of birth or contained
+the scrivener’s error. 
+
+       (4)(a) Except as
+provided in ORS 247.125, if a registration card is legible, accurate and
+contains, at a minimum, the registrant’s name, residence address, date of birth
+and signature, the county clerk shall register the person. 
+
+       (b) If the
+information required under paragraph (a) of this subsection is missing from the
+registration card or the date of birth is incomplete, the county clerk shall
+attempt to obtain the missing or incomplete information from all sources
+available to the county clerk, including but not limited to current and
+previous addresses and phone numbers of the registrant. The county clerk may
+also supply the registrant’s date of birth from any previous registration of
+the registrant. If the missing or incomplete information cannot be obtained
+from sources available to the county clerk, the county clerk shall use
+reasonable efforts to contact the registrant by phone, mail and electronic mail
+to obtain the missing or incomplete information. 
+
+       (5) If a
+registration card meets the requirements of subsection (4) of this section but
+is missing an indication of political party affiliation, the registrant shall
+be considered not affiliated with any political party. This subsection does not
+apply if an elector is updating a registration. 
+
+       (6) If a
+registration card contains an unintentional scrivener’s error, the county clerk
+may attempt to contact the person to correct the error. 
+
+       (7) A county
+clerk may appoint officials to accept registration of persons at designated
+locations. The appointments and locations shall be in writing and filed in the
+office of the county clerk. The county clerk shall be responsible for the
+performance of duties by those appointed. 
+
+       (8) A
+registration card received and accepted under this section shall be considered
+an active registration. 
+
+       (9) A
+registration may be updated at any time. 
+
+   
+
+       247.013 Where
+person considered registered; change of residence address between counties;
+registration updates; when registration considered active or inactive. (1) A qualified person shall be
+considered registered to vote in a county when the person’s first registration
+in the county occurs as described in ORS 247.012. 
+
+       (2) An elector
+who changes residence address from the county in which the elector is
+registered to a different county within the state, in order to vote in an
+election, must be an elector registered in the county in which the new
+residence address of the elector is located. 
+
+       (3) If there is a
+change in any information required for registration under this chapter, and the
+elector has not changed residence address to another county, the registration
+of the elector may be updated as provided in this chapter. 
+
+       (4)
+Notwithstanding subsections (2) and (3) of this section, if an elector changes
+residence address from the county in which the elector is registered to a
+different county within the state, the elector need not register again if the
+registration of the elector is updated. 
+
+       (5) If the county
+clerk does not have evidence of a change in any information required for
+registration under this chapter for an elector, the registration of the elector
+shall be considered active. 
+
+       (6) The
+registration of an elector shall be considered inactive if: 
+
+       (a) The county
+clerk has received evidence that there has been a change in the information
+required for registration under this chapter; and 
+
+       (b) The county
+clerk has mailed the notice described in ORS 247.563. 
+
+       (7) The inactive
+registration of an elector must be updated before the elector may vote in an
+election. [1993 c.713 §8; 1999 c.410 §7; 1999 c.824 §2; 2001 c.965 §44; 2019
+c.675 §1] 
+
+   
+
+       247.014
+Transfer of voter registration information by Department of Transportation. In implementing ORS 247.012,
+247.017, 247.018 and 247.171, the Department of Transportation and the Oregon
+Health Authority shall take steps reasonably necessary to allow transfer of
+voter registration information by electronic or magnetic medium. [1991 c.940 §4;
+2023 c.492 §6] 
+
+   
+
+       Note: The amendments to 247.014 by
+section 6, chapter 492, Oregon Laws 2023, become operative June 1, 2026. See
+section 9, chapter 492, Oregon Laws 2023. The text that is operative until June
+1, 2026, is set forth for the user’s convenience. 
+
+       247.014. In implementing ORS 247.012,
+247.017 and 247.171, the Department of Transportation shall take steps
+reasonably necessary to allow transfer of voter registration information by
+electronic or magnetic medium. 
+
+   
+
+       247.015 Other
+registration procedures. 
+(1) A qualified person absent from the state may register by mailing to the
+county clerk for the county in which the person resides a completed
+registration card or a signed statement containing the information required on
+a registration card. 
+
+       (2) On written
+request from a qualified person who by physical incapacity cannot register in
+the office of the county clerk, the county clerk of the county in which the
+person resides shall send the person a registration card or register the person
+at the person’s residence. 
+
+       (3) An otherwise
+qualified person who will become a United States citizen after the 21st
+calendar day immediately preceding an election may register before the 20th day
+before the election. The county clerk of the county in which the person resides
+shall cancel the person’s registration before the election unless the person
+appears before the county clerk and provides evidence of citizenship. [1979
+c.190 §42; 1979 c.507 §1a; 1989 c.20 §2; 1995 c.742 §18; 2001 c.965 §1; 2007
+c.555 §3] 
+
+   
+
+       247.016
+Registration of person who is 16 or 17 years of age; limitation on public
+record disclosure. 
+(1) Subject to this section, an otherwise qualified person who is at least 16
+years of age may register to vote. 
+
+       (2) A person who
+registers to vote under subsection (1) of this section may not vote in an
+election until the person attains the age of 18 years. 
+
+       (3) If a person
+who registers to vote under subsection (1) of this section will be under 18
+years of age on the date of the next election held on a date listed in ORS
+171.185 or the next special election, the person’s voter registration
+information, including but not limited to the person’s name and any identifying
+information, may not be disclosed as a public record under ORS 192.311 to
+192.478. [2007 c.555 §2; 2015 c.8 §8; 2017 c.468 §1] 
+
+   
+
+       247.017
+Transfer of voter registration records to Secretary of State from Department of
+Transportation; opt-out of voter registration; rules. (1) The Secretary of State shall
+by rule establish a schedule by which the Department of Transportation shall
+provide to the secretary electronic records containing the legal name, age,
+residence and citizenship information for, and the electronic signature of,
+each person who meets qualifications identified by the secretary by rule. 
+
+       (2) Upon
+receiving the electronic record for, and electronic signature of, a person
+described in subsection (1) of this section, the Secretary of State shall
+provide the information to the county clerk of the county in which the person
+may be registered as an elector. The secretary or county clerk shall notify
+each person of the process to: 
+
+       (a) Decline being
+registered as an elector. 
+
+       (b) Adopt a
+political party affiliation. 
+
+       (3) If a person
+notified under subsection (2) of this section does not decline to be registered
+as an elector within 21 calendar days after the Secretary of State or county
+clerk issues the notification, the person’s electronic record and electronic
+signature submitted under subsection (1) of this section will constitute a
+completed registration card for the person for purposes of this chapter. The
+person shall be registered to vote if the county clerk determines that the
+person is qualified to vote under Article II, section 2, of the Oregon
+Constitution, and the person is not already registered to vote. 
+
+       (4) A county
+clerk may not send a ballot to, or add to an elector registration list, a
+person who meets eligibility requirements until at least 21 calendar days after
+the Secretary of State or county clerk provided notification to the person as
+described in subsection (2) of this section. 
+
+       (5) In addition
+to providing electronic records to the Secretary of State under subsection (1)
+of this section, the Department of Transportation may by rule develop, and
+require the availability or use of, any form or application the department
+determines is necessary to ensure compliance with the voter registration
+provisions of the National Voter Registration Act of 1993 (P.L. 103-31). 
+
+       (6) The Secretary
+of State shall adopt rules required to implement subsections (1) to (4) of this
+section. [Formerly 802.090; 1995 c.742 §2; 2007 c.555 §4; 2015 c.8 §1; 2019
+c.701 §23c] 
+
+   
+
+       247.018
+Transfer of voter registration records to Secretary of State from Oregon Health
+Authority; opt-out of registration; rules. (1)(a) Subject to compliance with all applicable
+federal laws and regulations, the Secretary of State shall by rule establish a
+schedule by which the Oregon Health Authority shall provide to the secretary
+electronic records, derived from information provided to the Oregon Health
+Plan, containing the legal name, age, residence and citizenship information
+for, and, if any, the electronic signature of, each person who is eligible to
+be a qualified elector under Article II, section 2, of the Oregon Constitution. 
+
+       (b) The secretary
+shall establish by rule, after consultation with the authority, what electronic
+records establish whether a person is eligible to be a qualified elector for
+purposes of this subsection. 
+
+       (c)
+Notwithstanding paragraph (a) of this subsection, the authority may not provide
+to the secretary any electronic records for a person who is not a citizen of
+the United States. 
+
+       (2) When
+establishing a schedule under subsection (1) of this section, the secretary may
+adopt rules governing the format and frequency of data transfer. Any rules
+adopted under this subsection: 
+
+       (a) Are subject
+to input and public comment, including comment from the authority; and 
+
+       (b) May come into
+effect only after the secretary and authority test and verify the data transfer
+processes. 
+
+       (3) The
+secretary: 
+
+       (a) Shall by rule
+develop a process to obtain an electronic signature from the Department of
+Transportation for each person described in subsection (1) of this section for
+whom the authority does not provide an electronic signature under this section;
+and 
+
+       (b) May use an
+electronic signature that is obtained under paragraph (a) of this subsection or
+that is otherwise in the secretary’s possession, for the purpose of registering
+electors to vote under this section. 
+
+       (4) Upon
+receiving the electronic record for a person described in subsection (1) of
+this section, the secretary shall provide the information to the county clerk
+of the county in which the person may be registered as an elector. The
+secretary or county clerk shall notify each person of the process to: 
+
+       (a) Decline being
+registered as an elector; 
+
+       (b) Adopt a
+political party affiliation; and 
+
+       (c) Provide a
+signature if no signature was provided under subsection (1) of this section and
+the secretary does not have a copy of the signature and is unable to obtain an
+electronic copy of the signature from the Department of Transportation under
+subsection (3) of this section. 
+
+       (5)
+Notwithstanding the absence of any signature, if a person notified under
+subsection (4) of this section does not decline to be registered as an elector
+within 21 calendar days after the secretary or county clerk issues the
+notification, the person’s electronic record submitted to the county clerk
+under subsection (4) of this section will constitute a completed registration
+card for the person for purposes of this chapter. The person shall be
+registered to vote if the county clerk determines that the person is qualified
+to vote under Article II, section 2, of the Oregon Constitution, and the person
+is not already registered to vote. 
+
+       (6) A county
+clerk may not send a ballot to, or add to an elector registration list, a
+person who is determined under subsection (5) of this section to be qualified
+to vote, and who is not already registered to vote, until at least 21 calendar
+days after the secretary or county clerk provided notification to the person as
+described in subsection (4) of this section. 
+
+       (7) The transfer
+of personal information and data by the authority or department to the
+secretary under this section is limited to the information and data that is
+necessary to register electors. Information and data transferred to the
+secretary under this section may be used only for the purpose of registering
+electors. 
+
+       (8) The secretary
+shall adopt rules required to implement this section, including rules to ensure
+that no ballot is counted for a person registered to vote under this section
+whose registration record does not contain an electronic signature. 
+
+       (9) As used in
+this section, “electronic signature” means an electronic form of a handwritten
+signature that can be verified, in the manner described in ORS 254.470 (11),
+for the purpose of tallying ballots. [2023 c.492 §2] 
+
+   
+
+       Note: 247.018 becomes operative June 1,
+2026. See section 9, chapter 492, Oregon Laws 2023. 
+
+   
+
+       247.019
+Electronic voter registration; rules. 
+(1) The Secretary of State by rule shall adopt an electronic voter registration
+system to be used by qualified persons who have a valid: 
+
+       (a) Oregon driver
+license, as defined in ORS 801.245; 
+
+       (b) Oregon driver
+permit, as defined in ORS 801.250; 
+
+       (c) State identification
+card, issued under ORS 807.400; or 
+
+       (d) Social
+Security number. 
+
+       (2)(a) The
+electronic voter registration system shall: 
+
+       (A) Require a
+person registering to vote under subsection (1)(d) of this section to enter
+only the final four digits of the person’s valid Social Security number; 
+
+       (B) Allow a
+person to electronically submit an image of the person’s signature; and 
+
+       (C) Allow a
+qualified person to complete and deliver a registration card electronically. 
+
+       (b) A
+registration card delivered under this section is considered delivered to the
+Secretary of State for purposes of this chapter. 
+
+       (3) A person who
+completes a registration card electronically under this section consents to the
+use of the person’s driver license, driver permit or state identification card
+signature, or an electronically submitted image of the person’s signature, for
+voter registration purposes. 
+
+       (4) If available,
+the Department of Transportation shall provide to the Secretary of State a
+digital copy of the driver license, driver permit or state identification card
+signature of each person who completes a registration card under this section. 
+
+       (5) The
+electronic voter registration system may also include an application
+programming interface to allow third-party organizations to securely submit
+registration cards electronically on behalf of individuals. In order to submit
+registration cards under this subsection, a third-party organization must be
+approved as a voter registration organization under a process designed by the
+Secretary of State by rule. [2009 c.914 §2; 2022 c.19 §1; 2023 c.492 §8] 
+
+   
+
+       Note: The amendments to 247.019 by
+section 8, chapter 492, Oregon Laws 2023, become operative June 1, 2026. See
+section 9, chapter 492, Oregon Laws 2023. The text that is operative until June
+1, 2026, is set forth for the user’s convenience. 
+
+       247.019. (1) The Secretary of State by rule
+shall adopt an electronic voter registration system to be used by qualified
+persons who have a valid: 
+
+       (a) Oregon driver
+license, as defined in ORS 801.245; 
+
+       (b) Oregon driver
+permit, as defined in ORS 801.250; 
+
+       (c) State
+identification card, issued under ORS 807.400; or 
+
+       (d) Social
+Security number. 
+
+       (2)(a) The
+electronic voter registration system shall: 
+
+       (A) Require a
+person registering to vote under subsection (1)(d) of this section to enter
+only the final four digits of the person’s valid Social Security number; 
+
+       (B) Allow a
+person registering to vote under subsection (1)(d) of this section to
+electronically submit an image of the person’s signature; and 
+
+       (C) Allow a
+qualified person to complete and deliver a registration card electronically. 
+
+       (b) A
+registration card delivered under this section is considered delivered to the
+Secretary of State for purposes of this chapter. 
+
+       (3) A person who
+completes a registration card electronically under this section consents to the
+use of the person’s driver license, driver permit or state identification card
+signature, or an electronically submitted image of the person’s signature, for
+voter registration purposes. 
+
+       (4) If available,
+the Department of Transportation shall provide to the Secretary of State a
+digital copy of the driver license, driver permit or state identification card
+signature of each person who completes a registration card under this section. 
+
+       (5) The
+electronic voter registration system may also include an application
+programming interface to allow third-party organizations to securely submit
+registration cards electronically on behalf of individuals. In order to submit
+registration cards under this subsection, a third-party organization must be
+approved as a voter registration organization under a process designed by the
+Secretary of State by rule. 
+
+   
+
+       247.020 [Amended by 1955 c.695 §1;
+repealed by 1957 c.608 §231] 
+
+   
+
+       247.025 Registration
+deadline; required address. 
+To vote in an election: 
+
+       (1) A person’s
+registration card must be received at an office or location described in ORS
+247.012 not later than the time the office or location closes for business on
+the 21st day immediately preceding the election, but in no case later than
+midnight of the 21st day immediately preceding the election; 
+
+       (2) A person’s
+registration card must be postmarked not later than the 21st day immediately
+preceding the election and be addressed to an office of any county clerk, the
+Office of the Secretary of State, an office of the Department of Transportation
+or any designated voter registration agency as described in ORS 247.208; or 
+
+       (3) A person’s
+registration card must be delivered electronically as described in ORS 247.019
+not later than 11:59 p.m. of the 21st day immediately preceding the election. [1979
+c.190 §43; 1985 c.833 §1; 1987 c.719 §9; 1987 c.733 §1; 1993 c.713 §7; 1999
+c.410 §8; 2008 c.53 §2; 2010 c.9 §2] 
+
+   
+
+       247.028 [1979 c.190 §44; 1981 c.173 §11;
+repealed by 1999 c.410 §67] 
+
+   
+
+       247.030 [Amended by 1955 c.695 §2;
+repealed by 1957 c.608 §231] 
+
+   
+
+       247.031 [1957 c.608 §29; 1975 c.678 §5;
+1977 c.168 §2; repealed by 1979 c.190 §431] 
+
+   
+
+       247.035 Rules
+to consider in determining residence of person for voting purposes. (1) An elections official, in
+determining the residence and qualifications of a person offering to register
+or vote, shall consider the following rules, so far as they may be applicable: 
+
+       (a) The person’s
+residence shall be the place in which habitation is fixed and to which, when
+the person is absent, the person intends to return. 
+
+       (b) If a person’s
+property is split by a jurisdictional line, the person shall be registered
+where the residence is located. If the residence is split by a jurisdictional
+line, the person shall register where the greatest value of the residence is
+located according to county assessment and taxation records. 
+
+       (c) A person
+shall not be considered to have gained a residence in any location in this
+state into which the person comes for temporary purposes only, without the
+intention of making it the person’s home. 
+
+       (d) If a person
+moves to another state with the intention of making a permanent home, the
+person shall be considered to have lost residence in this state. 
+
+       (e) If a person
+goes from this state into any other state or territory and votes there, the
+person shall be considered to have lost residence in this state. 
+
+       (f) A person who
+has left the place of the person’s residence for a temporary purpose only shall
+not be considered to have lost residence. 
+
+       (2)
+Notwithstanding subsection (1) of this section, a person who has left the place
+of the person’s residence for a temporary purpose only, who has not established
+another residence for voter registration purposes and who does not have a place
+in which habitation is fixed shall not be considered to have changed or lost
+residence. The person may register at the address of the place the person’s
+residence was located before the person left. 
+
+       (3) An elections
+official may consider, but is not limited to considering, the following factors
+in determining residency of a person for voter registration purposes: 
+
+       (a) Where the
+person receives personal mail; 
+
+       (b) Where the
+person is licensed to drive; 
+
+       (c) Where the
+person registers motor vehicles for personal use; 
+
+       (d) Where any
+immediate family members of the person reside; 
+
+       (e) The address
+from which the person pays for utility services; and 
+
+       (f) The address
+from which the person files any federal or state income tax returns. [Formerly
+250.410; 1995 c.214 §1] 
+
+   
+
+       247.038
+Registration of person who is homeless or resides in identifiable location. (1) A qualified person who is
+homeless or resides in a shelter, park, motor home, marina or other
+identifiable location may not be denied the opportunity to register to vote. 
+
+       (2) For purposes
+of this chapter: 
+
+       (a) The residence
+address of a person who is homeless or resides in a shelter, park, motor home,
+marina or other identifiable location may be any place within the county
+describing the physical location of the person; and 
+
+       (b) The mailing
+address of a person who is homeless or resides in a shelter, park, motor home,
+marina or other identifiable location may be the office of the county clerk. [1993
+c.493 §104; 2007 c.553 §1] 
+
+   
+
+       247.040 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.045 [1975 c.678 §7; 1977 c.163 §4;
+1979 c.507 §1b; 1979 c.519 §2; renumbered 247.178] 
+
+   
+
+       247.050 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.060 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.070 [1957 c.608 §30; 1973 c.827 §24;
+1975 c.678 §8; 1977 c.829 §3; repealed by 1979 c.190 §431] 
+
+   
+
+       247.080 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.090 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.100 [Repealed by 1977 c.508 §15] 
+
+   
+
+       247.110 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.111 [1957 c.608 §33; 1959 c.274 §1;
+1971 c.621 §30; 1975 c.678 §10; 1977 c.168 §3; repealed by 1979 c.190 §431] 
+
+   
+
+       247.120 [Amended by 1955 c.695 §3;
+repealed by 1957 c.608 §231] 
+
+   
+
+       247.121 [1957 c.608 §34; 1971 c.241 §1;
+1973 c.841 §1; 1975 c.678 §11; 1977 c.352 §1; 1979 c.190 §46; 1979 c.519 §4a;
+1985 c.833 §2; 1987 c.719 §10; 1987 c.733 §2; 1993 c.713 §9; repealed by 1995
+c.742 §20] 
+
+   
+
+       247.125
+Alteration of registration card prohibited; exceptions. (1) A person may not alter any
+information supplied on a registration card except: 
+
+       (a) An elections
+officer in the performance of official duties. 
+
+       (b) The person
+who supplies the information on the registration card for the purpose of
+registering to vote. 
+
+       (2) A county
+clerk may not register a person who alters any information printed on a
+registration card regarding: 
+
+       (a) The
+indication that the person is a citizen of the United States; or 
+
+       (b) The signature
+statement in which the person attests to the person’s qualifications as an
+elector and the information supplied on the voter registration card. [1985
+c.808 §6; 2009 c.511 §2] 
+
+   
+
+       247.130 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.131 [1957 c.608 §35; repealed by 1971
+c.241 §10] 
+
+   
+
+       247.140 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.141 [1957 c.608 §37; 1979 c.190 §48;
+renumbered 247.174] 
+
+   
+
+       247.145 [1965 c.174 §3; 1969 c.337 §1;
+1975 c.678 §13; 1977 c.829 §4; repealed by 1979 c.190 §431] 
+
+   
+
+       247.150 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.151 [1957 c.608 §31; 1961 c.65 §1;
+repealed by 1965 c.174 §1] 
+
+   
+
+       247.155 [1965 c.174 §4; repealed by 1977
+c.829 §23] 
+
+   
+
+       247.160 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.161 [1957 c.608 §32; repealed by 1965
+c.174 §1] 
+
+   
+
+       247.165 [1965 c.174 §§5,6,7; 1975 c.678 §15;
+1977 c.352 §2; repealed by 1979 c.190 §431] 
+
+   
+
+       247.170 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.171 State
+and federal voter registration cards; Secretary of State approval of voter
+registration application forms of voter registration agencies; content of voter
+registration cards. 
+(1) Except as provided in this subsection, the Secretary of State shall design,
+prepare and distribute state voter registration cards. The Secretary of State
+shall also distribute federal registration cards. Any person may apply in
+writing to the Secretary of State for permission to print, copy or otherwise
+prepare and distribute the registration cards designed by the Secretary of
+State. The secretary may revoke any permission granted under this subsection at
+any time. All registration cards shall be distributed to the public without
+charge. 
+
+       (2) The Secretary
+of State shall approve any voter registration application form developed for
+use by any agency designated as a voter registration agency under ORS 247.208. 
+
+       (3) Each voter
+registration card designed or approved by the Secretary of State shall describe
+the penalties for knowingly supplying false information on the registration
+card and shall contain space for a person to provide the following information: 
+
+       (a) Full name; 
+
+       (b) Residence
+address, mailing address or any other information necessary to locate the
+residence of the person offering to register to vote; 
+
+       (c) The name of
+the political party with which the person is affiliated, if any; 
+
+       (d) Date of
+birth; 
+
+       (e) An indication
+that the person is a citizen of the United States; and 
+
+       (f) Except as
+provided in ORS 247.018, a signature attesting to the fact that the person is
+qualified to be an elector. 
+
+       (4) Any form
+containing a voter registration card may also include space for a person to
+provide: 
+
+       (a) A telephone
+number where the person may be contacted; and 
+
+       (b) If previously
+registered to vote in this state, the name then supplied by the person and the
+county and, if known, the address of previous registration. 
+
+       (5) A person
+shall not supply any information under subsection (3) or (4) of this section
+knowing it to be false. 
+
+       (6) A county
+clerk or other person accepting registration cards shall not request any
+information unless it is authorized by state or federal law. 
+
+       (7) Except as
+provided in ORS 247.018, a person shall attest to the information supplied on
+the voter registration card by signing the completed registration card. 
+
+       (8) Except as
+provided in subsection (7) of this section, any completed and signed
+registration card described in subsection (3) of this section shall be the
+official registration card of the elector. [1957 c.608 §36; 1965 c.464 §2; 1971
+c.241 §5; 1975 c.678 §16; 1977 c.168 §4; 1979 c.190 §47; 1985 c.808 §4; 1985
+c.833 §3; 1987 c.320 §150; 1987 c.719 §11; 1987 c.733 §3; 1989 c.20 §3; 1989
+c.173 §1; 1989 c.979 §5; 1993 c.713 §10; 1995 c.742 §3; 2015 c.8 §4; 2023 c.492
+§7] 
+
+   
+
+       Note: The amendments to 247.171 by
+section 7, chapter 492, Oregon Laws 2023, become operative June 1, 2026. See
+section 9, chapter 492, Oregon Laws 2023. The text that is operative until June
+1, 2026, is set forth for the user’s convenience. 
+
+       247.171. (1) Except as provided in this
+subsection, the Secretary of State shall design, prepare and distribute state
+voter registration cards. The Secretary of State shall also distribute federal
+registration cards. Any person may apply in writing to the Secretary of State
+for permission to print, copy or otherwise prepare and distribute the
+registration cards designed by the Secretary of State. The secretary may revoke
+any permission granted under this subsection at any time. All registration
+cards shall be distributed to the public without charge. 
+
+       (2) The Secretary
+of State shall approve any voter registration application form developed for
+use by any agency designated as a voter registration agency under ORS 247.208. 
+
+       (3) Each voter
+registration card designed or approved by the Secretary of State shall describe
+the penalties for knowingly supplying false information on the registration
+card and shall contain space for a person to provide the following information: 
+
+       (a) Full name; 
+
+       (b) Residence
+address, mailing address or any other information necessary to locate the
+residence of the person offering to register to vote; 
+
+       (c) The name of
+the political party with which the person is affiliated, if any; 
+
+       (d) Date of
+birth; 
+
+       (e) An indication
+that the person is a citizen of the United States; and 
+
+       (f) A signature
+attesting to the fact that the person is qualified to be an elector. 
+
+       (4) Any form
+containing a voter registration card may also include space for a person to
+provide: 
+
+       (a) A telephone
+number where the person may be contacted; and 
+
+       (b) If previously
+registered to vote in this state, the name then supplied by the person and the
+county and, if known, the address of previous registration. 
+
+       (5) A person
+shall not supply any information under subsection (3) or (4) of this section
+knowing it to be false. 
+
+       (6) A county
+clerk or other person accepting registration cards shall not request any
+information unless it is authorized by state or federal law. 
+
+       (7) A person
+shall attest to the information supplied on the voter registration card by
+signing the completed registration card. 
+
+       (8) Any completed
+and signed registration card described in subsection (3) of this section shall
+be the official registration card of the elector. 
+
+   
+
+       247.174
+Determining qualifications of person to register or update registration;
+hearing. (1) The
+qualifications of any person who requests to be registered or to update a
+registration shall be determined in the first instance by the county clerk or
+official designated by the county clerk to register persons as electors from
+the evidence present. 
+
+       (2) The county
+clerk or official designated by the county clerk to register persons as
+electors may reject any registration or update of a registration if the clerk
+or official determines that the person is not qualified or that the
+registration card is illegible, inaccurate or incomplete. The clerk or official
+shall promptly notify the person of the rejection. 
+
+       (3) A person
+whose registration or update to a registration is rejected may apply to the
+county clerk not later than the 10th day after the rejection for a hearing on
+the person’s qualifications to register or update the registration. Not later
+than the 10th day after the date the county clerk receives the application, the
+clerk shall notify the applicant of the place and time of the hearing on the
+qualifications. The hearing shall be held not sooner than the second nor later
+than the 20th day after notice is given. At the hearing the applicant may
+present evidence of qualification. If the county clerk, upon the conclusion of
+the hearing, determines that the applicant is qualified, the county clerk shall
+register or update the registration of the applicant. [Formerly 247.141; 1983
+c.83 §28; 1985 c.471 §2; 1985 c.833 §4; 1987 c.719 §12; 1987 c.733 §4; 1993
+c.713 §11] 
+
+   
+
+       247.176
+Request for delivery of registration card; rules. (1) During the period extending
+from the 250th day before the primary election to the date of the primary
+election and the period extending from the day after the primary election to
+the 250th day before the next primary election: 
+
+       (a) Any person
+may request delivery from the Secretary of State of not more than an aggregate
+total of 500 registration cards prepared under ORS 247.171; and 
+
+       (b) Upon
+receiving a request under this subsection, the Secretary of State shall deliver
+to the person the number of registration cards requested that does not exceed
+an aggregate total of 500, along with a registration card in electronic form
+that may be used by the person to print additional registration cards. 
+
+       (2) The Secretary
+of State shall adopt rules describing when the Secretary of State will honor
+requests for delivery of more than 500 registration cards prepared under ORS
+247.171. [1989 c.173 §7; 1995 c.712 §7; 2024 c.56 §5] 
+
+   
+
+       247.178
+Distribution and availability of registration cards. Any person may distribute a
+registration card in any reasonable manner that facilitates elector
+registration, including but not limited to distribution of the card door to
+door. The card shall be available at any field office of the Department of
+Transportation where applications for driver licenses or vehicle registrations
+are accepted and at any office of an agency designated a voter registration
+agency under ORS 247.208. [Formerly 247.045; 1993 c.713 §12; 1993 c.741 §20] 
+
+   
+
+       247.180 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.181 Voter
+notification card. 
+(1) The county clerk shall prepare and issue by nonforwardable mail to each
+elector a voter notification card of convenient size containing the name and
+residence address of the elector, the name or number of the precinct in which
+the elector resides and a brief statement of the circumstances under which the
+elector is required to register or update a registration. 
+
+       (2) When an
+elector registers or updates a registration, the county clerk shall issue the
+elector a new voter notification card by nonforwardable mail. 
+
+       (3) If an elector
+loses a voter notification card the elector may apply to the county clerk for a
+new card, and the county clerk shall issue the elector a new card by
+nonforwardable mail. [1957 c.608 §38; 1977 c.508 §1; 1979 c.190 §50; 1979 c.519
+§6a; 1981 c.173 §12; 1993 c.713 §13; 1995 c.742 §4; 2013 c.243 §1] 
+
+   
+
+       247.190 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.191
+Correction of registration and voter notification cards when precinct
+boundaries changed. 
+When changes in the boundaries of a precinct are made, the county clerk may
+alter the registration card of an elector to conform with the change, and may
+issue by nonforwardable mail a written notice of the change and a new voter
+notification card to the elector. This requirement does not apply to a change
+of precincts for special district or special elections. [1957 c.608 §39; 1975
+c.675 §8; 1979 c.190 §51; 1979 c.519 §7a; 1985 c.808 §5; 1995 c.742 §5; 2013
+c.243 §2] 
+
+   
+
+       247.195
+Inquiry into validity of registration; hearing; cancellation. (1) The county clerk, at any time,
+may inquire into the validity of the registration of any elector. The county
+clerk shall mail a written statement to the elector that describes the nature
+of the inquiry and provides a suitable form for reply. 
+
+       (2) Not later
+than the 20th day after the date of mailing of the statement, the elector, in
+writing, may state that the information on the registration card is correct or
+may request a change in the information on the card. Upon receipt of the
+statement or request, the county clerk shall determine whether the information
+satisfies the inquiry. If the county clerk determines that the inquiry has not
+been satisfied, the county clerk shall schedule a hearing and shall notify the
+elector of the place and time of the hearing. The hearing shall be held not
+sooner than the second nor later than the 20th day after notice is given. At
+the hearing, the elector may present evidence of qualification. If the county
+clerk, upon the conclusion of the hearing, determines that the elector’s
+registration is not valid, the county clerk shall cancel the registration. [1981
+c.173 §16; 1985 c.471 §3; 1989 c.503 §3; 1993 c.713 §14] 
+
+   
+
+       247.200 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.201 [1957 c.608 §45; 1971 c.241 §6;
+1975 c.678 §17; 1977 c.168 §5; 1979 c.190 §53; 1983 c.514 §4; 1985 c.808 §7;
+repealed by 1987 c.719 §17 and 1987 c.733 §13] 
+
+   
+
+       247.203
+Change, termination or adoption of party affiliation before primary election. An elector who updates a
+registration during the period extending from the 20th day before a primary
+election to the date of the primary election may not, during that period: 
+
+       (1) Change the
+elector’s political party affiliation if the elector’s immediate past
+registration record shows the elector was or is registered as affiliated with a
+political party. 
+
+       (2) Terminate
+affiliation with a political party if the elector’s immediate past registration
+record shows the elector was or is registered as affiliated with a political
+party. 
+
+       (3) Adopt a
+political party affiliation if the elector’s immediate past registration shows
+that the elector was not or is not registered as affiliated with a political
+party. [1987 c.719 §§5,22; 1989 c.965 §§1,2; 1993 c.713 §15; 1995 c.712 §8;
+1995 c.755 §1; 1999 c.999 §32] 
+
+   
+
+       247.205 [1993 c.713 §34; renumbered
+254.408 in 1995] 
+
+   
+
+       247.208 Voter
+registration agencies; designation; prohibited activities; required services;
+assessment of compliance with federal guidelines. (1) The Secretary of State by
+rule, in accordance with the requirements of the National Voter Registration
+Act of 1993 (P.L. 103-31), shall designate agencies as voter registration
+agencies. Agencies designated may include state, county, city or district
+offices and federal and nongovernmental offices with the agreement of the
+federal or nongovernmental offices. 
+
+       (2) Services
+required by the National Voter Registration Act of 1993 (P.L. 103-31) shall be
+made available in connection with any registration card at each voter
+registration agency designated by the Secretary of State. 
+
+       (3) A person
+providing services referred to in subsection (2) of this section at a voter
+registration agency shall not: 
+
+       (a) Seek to
+influence the political preference or party registration of a person
+registering to vote; 
+
+       (b) In accordance
+with provisions of the Oregon Constitution, display such political preference
+or party allegiance; 
+
+       (c) Make any
+statement to a person registering to vote or take any action the purpose or
+effect of which is to discourage a person from registering to vote; 
+
+       (d) Make any
+statement to a person registering to vote or take any action the purpose or
+effect of which is to lead the person to believe that a decision to register or
+not to register has any bearing on the availability of services or benefits; or 
+
+       (e) Seek to
+induce any person to register or vote in any particular manner. 
+
+       (4) Each state
+agency required to be designated a voter registration agency under the National
+Voter Registration Act of 1993 (P.L. 103-31) shall, with each application for
+service or assistance and with each recertification, renewal or change of
+address form relating to the service or assistance: 
+
+       (a) Distribute a
+registration card, including all statements required under the National Voter
+Registration Act of 1993 (P.L. 103-31); and 
+
+       (b) Provide a
+form including other information required by the National Voter Registration
+Act of 1993 (P.L. 103-31). 
+
+       (5) Information
+relating to a declination to register to vote in connection with an application
+made at an office described in subsection (4) of this section shall not be used
+for any purpose other than voter registration. 
+
+       (6) A completed
+registration card accepted at a voter registration agency designated under this
+section shall be delivered to a county clerk or the Secretary of State. 
+
+       (7) At least once
+each biennium, the Secretary of State shall: 
+
+       (a) Assess new
+and developing federal guidelines regarding compliance with the National Voter
+Registration Act of 1993 (P.L. 103-31); 
+
+       (b) Identify
+steps necessary to ensure ongoing compliance with the National Voter
+Registration Act of 1993 (P.L. 103-31); 
+
+       (c) Identify
+barriers to and research opportunities for ensuring the accuracy, security and
+efficiency of current voter registration processes at voter registration
+agencies designated under this section; and 
+
+       (d) Identify ways
+to improve use of current technology. [1993 c.713 §5; 2011 c.374 §3] 
+
+   
+
+       247.210 [Repealed by 1957 c.608 §231] 
+
+   
+
+       247.211 [1957 c.608 §27; repealed by 1971
+c.241 §10] 
+
+   
+
+       247.220 [Repealed by 1961 c.412 §5] 
+
+   
+
+       247.230 [Repealed by 1961 c.412 §5] 
+
+   
+
+       247.240 [Repealed by 1961 c.412 §5] 
+
+   
+
+       247.250 [1955 c.552 §1; repealed by 1957
+c.608 §231] 
+
+   
+
+       247.251 [1957 c.608 §40; repealed by 1963
+c.595 §1 (247.610, 247.620, 247.630 to 247.650, 250.365 and 250.375 enacted in
+lieu of 247.251)] 
+
+   
+
+       247.260 [1955 c.552 §2; repealed by 1957
+c.608 §231] 
+
+   
+
+       247.261 [1957 c.608 §41; repealed by 1979
+c.190 §431] 
+
+   
+
+       247.270 [1955 c.552 §3; repealed by 1957
+c.608 §231] 
+
+   
+
+ UPDATING REGISTRATION 
+
+   
+
+       247.275 Limits
+on considering registration of elector inactive; rules. (1) Notwithstanding any other
+provision of ORS chapters 246 to 260, the registration of an elector may not be
+considered inactive due to an elector not voting or updating the elector’s
+registration for any period of time. 
+
+       (2) The
+registration of an elector shall be considered active if the only reason for
+the registration of an elector being considered inactive is that the elector
+neither voted nor updated the elector’s registration for any period of time. 
+
+       (3) The Secretary
+of State may adopt rules necessary to implement this section. [2021 c.233 §2] 
+
+   
+
+       247.280 [1957 c.608 §42; 1979 c.190 §62;
+renumbered 247.590] 
+
+   
+
+       247.281 Notice
+to elector of inactive registration; contents. (1) The county clerk shall mail a
+notice to each elector: 
+
+       (a) Whose
+registration is inactive as of the 75th day before the date of a primary
+election or general election; 
+
+       (b) Whose
+registration is considered inactive due to a nonmatching signature under ORS
+254.431 or a name change under ORS 254.411; and 
+
+       (c) For whom the
+county clerk has a valid and current mailing address. 
+
+       (2) The notice
+sent under subsection (1) of this section must: 
+
+       (a) Inform the
+elector that the elector’s registration is currently inactive; 
+
+       (b) State the
+reason for the inactivation; 
+
+       (c) Contain
+information on how the elector can reactivate the elector’s registration; and 
+
+       (d) Be sent to
+the elector no earlier than 70 days and no later than 60 days before the
+election. 
+
+       (3) In addition
+to the notice required to be sent under subsection (1) of this section, the
+county clerk may mail a notice to each elector described in subsection (1)(b)
+of this section whose registration is inactive as of the 75th day before the
+date of an election other than a primary election or general election. Any
+notice the county clerk chooses to send under this subsection must comply with
+the requirements set forth in subsection (2) of this section. 
+
+       (4) The Secretary
+of State shall design a standard form to be used in all notifications sent by
+the county clerk under this section. [2021 c.233 §3] 
+
+   
+
+       247.282 [1971 c.30 §2; repealed by 1973
+c.125 §1 and by 1973 c.827 §83] 
+
+   
+
+       247.284 [1971 c.30 §§4,6; repealed by 1973
+c.125 §1 and by 1973 c.827 §83] 
+
+   
+
+       247.286 [1971 c.30 §§5,7; repealed by 1973
+c.125 §1 and by 1973 c.827 §83] 
+
+   
+
+       247.288 [1971 c.30 §3; repealed by 1973
+c.125 §1 and by 1973 c.827 §83] 
+
+   
+
+       247.290
+Registration update requirement; procedure; exceptions. (1) An elector shall update a
+registration if: 
+
+       (a) The residence
+address of the elector is changed for any reason within the county in which the
+elector is registered, except as provided in subsection (3) of this section; 
+
+       (b) The elector
+desires to change or adopt a political party affiliation; 
+
+       (c) The mailing
+address of the elector is changed, except as provided in subsection (3) of this
+section; or 
+
+       (d) The name of
+the elector is changed, except as provided in ORS 254.411. 
+
+       (2) A
+registration may be updated by an elector in the same manner as an original
+registration or by the county clerk as provided in this chapter. 
+
+       (3) An elector
+need not update a registration if: 
+
+       (a) The United
+States Postal Service or a city or county changes the residence or mailing
+address of the elector and the residence of the elector has not been relocated;
+or 
+
+       (b) The
+registration of the elector has been updated by the county clerk under ORS
+247.292 or 247.296. [1957 c.608 §43; 1961 c.115 §1; 1965 c.583 §1; 1971 c.241 §2;
+1975 c.678 §18; 1979 c.190 §52; 1981 c.173 §13; 1985 c.471 §4; 1987 c.733 §5;
+1989 c.20 §4; 1993 c.493 §1; 1993 c.713 §§16,16a; 1995 c.742 §6; 1999 c.318 §1;
+1999 c.410 §12; 2007 c.154 §6] 
+
+   
+
+       247.292 Update
+of registration of elector changing residence; procedure. (1) A county clerk shall update
+the registration of an elector in the county upon receiving evidence from: 
+
+       (a) The elector
+indicating a residence or mailing address that is different from the residence
+or mailing address for the elector as contained in the records of the county
+clerk; 
+
+       (b) The United
+States Postal Service indicating a residence address that is different from the
+residence address for the elector as contained in the records of the county
+clerk; or 
+
+       (c) The Secretary
+of State as provided in ORS 247.017, 247.018 or 247.295. 
+
+       (2) When a county
+clerk updates the registration of an elector under subsection (1) of this
+section, the clerk shall send a new voter notification card by nonforwardable
+mail to the elector as provided in ORS 247.181. The clerk shall include a
+notice stating that if the residence address or mailing address is not correct,
+the elector must notify the clerk. 
+
+       (3) An elector is
+not disqualified from voting due to any error relating to an update of
+registration made under this section. [1993 c.713 §17a; 2007 c.881 §6; 2008
+c.53 §3; 2013 c.243 §3; 2015 c.8 §5; 2023 c.492 §5] 
+
+   
+
+       Note: The amendments to 247.292 by
+section 5, chapter 492, Oregon Laws 2023, become operative June 1, 2026. See
+section 9, chapter 492, Oregon Laws 2023. The text that is operative until June
+1, 2026, is set forth for the user’s convenience. 
+
+       247.292. (1) A county clerk shall update
+the registration of an elector in the county upon receiving evidence from: 
+
+       (a) The elector
+indicating a residence or mailing address that is different from the residence
+or mailing address for the elector as contained in the records of the county
+clerk; 
+
+       (b) The United
+States Postal Service indicating a residence address that is different from the
+residence address for the elector as contained in the records of the county
+clerk; or 
+
+       (c) The Secretary
+of State as provided in ORS 247.017 or 247.295. 
+
+       (2) When a county
+clerk updates the registration of an elector under subsection (1) of this
+section, the clerk shall send a new voter notification card by nonforwardable
+mail to the elector as provided in ORS 247.181. The clerk shall include a
+notice stating that if the residence address or mailing address is not correct,
+the elector must notify the clerk. 
+
+       (3) An elector is
+not disqualified from voting due to any error relating to an update of
+registration made under this section. 
+
+   
+
+       247.294 [1993 c.713 §17c; repealed by 1999
+c.410 §67] 
+
+   
+
+       247.295
+Verification of addresses of electors; change of address service. (1) The Secretary of State shall
+subscribe to a change of address service that is approved or endorsed by the
+United States Postal Service and use the service to verify the accuracy of the
+addresses of electors contained in the centralized voter registration system. 
+
+       (2) If the
+secretary determines that the address of an elector is different from the
+address for the elector as contained in the records of the county clerk, the
+secretary shall provide the information obtained under this section to the
+county clerk of each affected county. Based on information received under this
+section, each county clerk shall update the registration of electors in the
+county if the clerk determines that an update is required. [2008 c.53 §8; 2010
+c.9 §3] 
+
+   
+
+       247.296
+Verification of addresses of electors; update of registration; notice;
+cancellation prohibited during certain periods. (1) The county clerk shall use
+records of the United States Postal Service relating to ballots issued by mail
+to verify the accuracy of addresses of electors contained in the registration
+file of the county clerk. 
+
+       (2) Based on
+information obtained under subsection (1) of this section, the county clerk
+shall automatically update the registration of an elector under ORS 247.292 or
+mail a notice described in ORS 247.563. 
+
+       (3) The
+registration of an elector shall not be canceled during the 90-day period prior
+to any primary or general election based on information obtained under this
+section. [1993 c.713 §17d; 1995 c.742 §15; 1999 c.59 §63; 1999 c.318 §2; 1999
+c.999 §32a] 
+
+   
+
+       247.298
+Extension of time for updates under ORS 247.292. If there are fewer than 22 days
+between the date of an election and the registration deadline for the next
+succeeding election, the county clerk may update registrations as required
+under ORS 247.292 after the next succeeding election. [1993 c.713 §17e; 1999
+c.410 §13] 
+
+   
+
+       247.300 [1957 c.608 §44; 1961 c.115 §2;
+repealed by 1975 c.678 §25] 
+
+   
+
+       247.302
+Effective date of registration updated by county clerk. (1) The effective date of a voter
+registration updated under ORS 247.292 is the date on which the county clerk
+receives evidence of the change of residence or mailing address. 
+
+       (2) The effective
+date of a voter registration updated under ORS 247.296 is the date on which the
+county clerk changes the address information on the voter registration file. [1993
+c.713 §17f; 1999 c.410 §14; 2009 c.511 §3; 2015 c.8 §6] 
+
+   
+
+       247.303
+Deadline for elector to update registration. Notwithstanding ORS 247.025, an elector whose
+registration is active or inactive may update the registration at any time
+before 8 p.m. on the day of the election. [1999 c.410 §10] 
+
+   
+
+       247.304 [1993 c.713 §18; 1995 c.712 §9;
+1995 c.742 §16; 1999 c.410 §15; repealed by 2007 c.154 §67] 
+
+   
+
+       247.306 [1993 c.713 §20; repealed by 1999
+c.410 §67] 
+
+   
+
+       247.307
+Issuance of ballot when registration updated after registration deadline. (1) Except as provided in
+subsection (2) of this section, if the county clerk receives information
+updating the registration of an elector after the deadline in ORS 247.025: 
+
+       (a) The county
+clerk shall issue a ballot to the elector if the elector’s registration was
+inactive prior to updating; or 
+
+       (b) The county
+clerk shall issue a replacement ballot upon request from the elector if the
+elector’s registration was active prior to updating. 
+
+       (2) If the county
+clerk receives a registration card updating an elector’s residence or mailing
+address after the deadline in ORS 247.025, the county clerk shall reissue a
+ballot to the elector if the elector’s registration was active prior to
+updating. 
+
+       (3)(a) If the
+county clerk is required to reissue a ballot under subsection (2) of this
+section, the county clerk shall: 
+
+       (A) Verify the
+registration of the elector and ensure that another ballot has not been
+returned by the elector; 
+
+       (B) Mark the
+return identification envelope clearly so that it may be readily identified as
+a reissued ballot; and 
+
+       (C) Reissue the
+ballot by mail or other means. 
+
+       (b) A ballot
+reissued under this section must be received at the office of the county clerk,
+a place of deposit designated by the county clerk or any location described in
+ORS 254.472 or 254.474 not later than the end of the period determined under
+ORS 254.470 (1) on the date of the election. Upon receiving a voted ballot
+reissued under this section, the county clerk shall process the ballot. 
+
+       (4) Ballots
+issued under this section need not be mailed to electors after the fifth day
+before the date of the election and may be obtained by the elector in person
+from the county clerk up until and including the date of the election. [1999
+c.410 §11; 2007 c.154 §7; 2008 c.53 §4; 2009 c.511 §23] 
+
+   
+
+       247.310 [1961 c.62 §2; 1967 c.25 §1; 1971
+c.241 §3; repealed by 1979 c.190 §431 and 1979 c.519 §38] 
+
+   
+
+       247.320 [1987 c.733 §9; 1989 c.20 §5;
+repealed by 1993 c.713 §43] 
+
+   
+
+       247.330 [1987 c.733 §10; 1989 c.20 §6;
+1993 c.713 §21; 1995 c.607 §11; 1995 c.742 §7; repealed by 1999 c.410 §67] 
+
+   
+
+       247.340 [1987 c.733 §11; 1993 c.713 §22;
+repealed by 1995 c.742 §20] 
+
+   
+
+ ELIGIBILITY IN PRESIDENTIAL
+ELECTIONS 
+
+   
+
+       247.410
+Eligibility to vote for President or Vice President, or electors, only. A person who is qualified to
+register, except that the person will have resided in this state less than 20
+days before the election, may vote in the election for candidates for
+nomination or election for President or Vice President of the United States or
+elector of President and Vice President of the United States if the person: 
+
+       (1) Did not vote
+for the nomination of such candidates in another state during the six months
+immediately preceding the person’s request for registration to vote for the
+nomination of such candidates in the primary election in this state; or 
+
+       (2) Did not vote
+for the election of such candidates in another state during the six months
+immediately preceding the person’s request for registration to vote for the
+election of such candidates in the general election in this state. [1961 c.114 §2;
+1973 c.150 §1; 1979 c.190 §54; 1979 c.519 §9a; 1987 c.267 §7; 1995 c.712 §10;
+1999 c.999 §33] 
+
+   
+
+       247.420
+Special ballot for voting under ORS 247.410. (1) A county clerk shall give a ballot marked “Federal
+only” to any person eligible under ORS 247.410 who personally appears in the
+office of the county clerk, completes a registration card and verifies
+eligibility to vote under ORS 247.410. 
+
+       (2) No person
+shall supply any information under subsection (1) of this section, knowing it
+to be false. [1961 c.114 §3; 1969 c.153 §1; 1975 c.678 §19; 1979 c.190 §55;
+1999 c.410 §16; 2017 c.749 §3] 
+
+   
+
+       247.430 [1961 c.114 §4; 1971 c.241 §7;
+repealed by 1979 c.190 §431] 
+
+   
+
+       247.435 [Formerly 253.300; 1987 c.267 §8;
+1995 c.712 §11; 1999 c.410 §17; 1999 c.999 §34; repealed by 2017 c.749 §62] 
+
+   
+
+       247.440 [1961 c.114 §5; 1971 c.241 §8;
+1975 c.678 §20; repealed by 1979 c.190 §431] 
+
+   
+
+       247.450 [1961 c.114 §6; repealed by 1979
+c.190 §431] 
+
+   
+
+       247.460 [1961 c.114 §7; repealed by 1979
+c.190 §431] 
+
+   
+
+       247.470 [1961 c.114 §8; 1975 c.678 §21;
+repealed by 1979 c.190 §431] 
+
+   
+
+       247.510 [1957 c.608 §46; renumbered
+247.910] 
+
+   
+
+       247.520 [1957 c.608 §47; 1961 c.48 §1;
+renumbered 247.920] 
+
+   
+
+       247.550 [1963 c.346 §2; 1977 c.508 §2;
+1979 c.190 §57; 1985 c.808 §8; 1991 c.107 §1; 1993 c.713 §23; 1999 c.410 §18;
+repealed by 2007 c.154 §67] 
+
+   
+
+ REMOVAL OF NAMES FROM
+REGISTER OF ELECTORS 
+
+   
+
+       247.555
+Cancellation of registration. 
+(1) A county clerk may cancel the registration of an elector: 
+
+       (a) At the
+request of the elector; 
+
+       (b) Upon the
+death of the elector; 
+
+       (c) If the county
+clerk receives written evidence that the elector has registered to vote in
+another state; or 
+
+       (d) If the elector
+has not responded to a notice described in ORS 247.563 and has not voted or
+updated a registration during the period beginning on the date the notice is
+sent and ending on the day after the date of the second regular general
+election that occurs after the date the notice was sent. 
+
+       (2) If the
+registration of an elector is canceled, the elector, in order to vote in an
+election, must register as provided in this chapter. [1993 c.713 §24; 2023
+c.600 §32] 
+
+   
+
+       247.560 [1963 c.346 §3; 1965 c.583 §2;
+1971 c.241 §4; 1977 c.508 §3; 1979 c.190 §58; 1979 c.519 §10a; 1981 c.173 §14;
+1985 c.471 §5; repealed by 1993 c.713 §43] 
+
+   
+
+       247.563 Notice
+to elector whose registration appears invalid; contents; effect of notice;
+exceptions. (1)
+Except as provided in subsection (4) of this section and ORS 247.555, whenever
+it appears to the county clerk that an elector needs to update the elector’s
+registration or that the elector has changed residence address to another
+county, the county clerk shall mail a notice to the elector. 
+
+       (2) The notice
+shall be sent by forwardable mail and shall include a postage prepaid,
+preaddressed return card on which the elector may state the elector’s current
+residence and mailing address. The notice shall advise the elector that: 
+
+       (a) The elector
+should return the card promptly; 
+
+       (b) If the card
+is not returned by the 21st calendar day immediately preceding an election, the
+elector may be required to complete a new registration card in order to vote in
+an election; and 
+
+       (c) The elector’s
+registration will be canceled if the elector neither votes nor updates the
+registration before two general elections have been held. 
+
+       (3) When the
+county clerk mails a notice under this section, the registration of the elector
+shall be considered inactive until the elector updates the registration, the
+registration is canceled or the clerk determines that the registration should
+be considered active. 
+
+       (4) This section
+does not apply when the county clerk receives written evidence from the elector
+or another county clerk indicating a change of residence or mailing address or
+from the United States Postal Service indicating a change of residence address
+and the registration of the elector is automatically updated by the county
+clerk under any provision of this chapter. [1993 c.713 §25; 1999 c.410 §19;
+2001 c.965 §45; 2007 c.881 §7] 
+
+   
+
+       247.565 [Formerly 247.600; 1981 c.173 §17;
+1987 c.719 §§15,16; 1989 c.503 §4; 1993 c.493 §2; repealed by 1993 c.713 §43] 
+
+   
+
+       247.567 [1989 c.979 §4; 1993 c.741 §21;
+repealed by 1993 c.713 §43] 
+
+   
+
+       247.570 Notice
+of deaths to Secretary of State and county clerk; effect of notice. (1) Not later than five business
+days after receiving a report of death as authorized by the State Registrar of
+the Center for Health Statistics under ORS 432.133, a county registrar
+designated under ORS 432.035 shall furnish to the county clerk of that county
+the name, age, date of birth and residence address of the person for whom the
+registrar has received the report of death. If the person was registered to
+vote in the county, the county clerk immediately shall cancel the registration
+of the person. 
+
+       (2) Not later
+than five business days after receiving information from the county registrar
+under subsection (1) of this section, the county clerk shall furnish the
+information to the Secretary of State. The Secretary of State shall furnish a
+copy of the appropriate names received under this subsection to each county
+clerk. Each county clerk immediately shall cancel the registrations of those
+persons. 
+
+       (3) The Oregon
+Health Authority, during the last week of each month, shall furnish to the
+Secretary of State a list of the name, age, date of birth, county of residence
+and residence address of each resident of this state who has died during the
+preceding month and for whom a report of death was not submitted to a county
+registrar. The Secretary of State shall furnish a copy of the appropriate names
+to each county clerk. Each county clerk immediately shall cancel registrations
+of those persons. [1963 c.346 §4; 1979 c.190 §60; 2003 c.596 §1; 2009 c.595 §193;
+2013 c.366 §72; 2025 c.444 §3] 
+
+   
+
+       247.575 [1975 c.766 §2; repealed by 1979
+c.190 §431] 
+
+   
+
+       247.580 County
+clerk to retain notices or elector listings for two years. (1) Copies of all notices and
+other correspondence issued under ORS 247.195, 247.292, 247.296, 247.563 and
+247.570 shall be retained by the county clerk for two years. 
+
+       (2) If the
+elector registration records of a county are mechanically maintained, the
+county clerk may satisfy the requirements of subsection (1) of this section by
+maintaining for two years: 
+
+       (a) Computer
+listings of electors to whom the clerk issued notices or any other
+correspondence under ORS 247.195, 247.292, 247.296, 247.563 and 247.570 and
+facsimile copies of notices and correspondence; or 
+
+       (b) Microfilm
+records of the listings and copies. [1963 c.346 §5; 1975 c.766 §3; 1979 c.190 §61;
+1981 c.173 §18; 1985 c.808 §8b; 1993 c.713 §26; 1999 c.410 §20] 
+
+   
+
+       247.585 [1989 c.173 §4; repealed by 1993
+c.713 §43] 
+
+   
+
+       247.590 [Formerly 247.280; 1985 c.808 §8c;
+repealed by 1993 c.713 §43] 
+
+   
+
+       247.595 [1985 c.808 §8a; repealed by 1993
+c.713 §43] 
+
+   
+
+       247.600 [1975 c.766 §1; 1977 c.829 §5;
+1979 c.190 §59; 1979 c.519 §11a; renumbered 247.565] 
+
+   
+
+       247.610 [1963 c.595 §2 (247.610, 247.620,
+247.630 to 247.650, 250.365 and 250.375 enacted in lieu of 247.251); repealed
+by 1975 c.766 §29] 
+
+   
+
+       247.620 [1963 c.595 §3 (247.610, 247.620,
+247.630 to 247.650, 250.365 and 250.375 enacted in lieu of 247.251); 1967 c.64 §1;
+repealed by 1975 c.766 §29] 
+
+   
+
+       247.625 [1967 c.64 §§3,4,5,6; repealed by
+1975 c.766 §29] 
+
+   
+
+       247.630 [1963 c.595 §4 (247.610, 247.620,
+247.630 to 247.650, 250.365 and 250.375 enacted in lieu of 247.251); repealed
+by 1967 c.64 §7] 
+
+   
+
+       247.640 [1963 c.595 §7 (247.610, 247.620,
+247.630 to 247.650, 250.365 and 250.375 enacted in lieu of 247.251); repealed
+by 1967 c.64 §7] 
+
+   
+
+       247.650 [1963 c.595 §8 (247.610, 247.620,
+247.630 to 247.650, 250.365 and 250.375 enacted in lieu of 247.251); repealed
+by 1975 c.766 §29] 
+
+   
+
+       247.905 [1969 c.421 §2; repealed by 1979
+c.190 §431] 
+
+   
+
+       247.910 [Formerly 247.510; 1971 c.241 §9;
+1975 c.678 §22; repealed by 1979 c.190 §431] 
+
+   
+
+       247.915 [1969 c.421 §§3,4,6; 1971 c.32 §1;
+1975 c.779 §3; repealed by 1979 c.190 §431] 
+
+   
+
+       247.920 [Formerly 247.520; repealed by
+1969 c.421 §11] 
+
+   
+
+       247.925 [1969 c.421 §5; 1971 c.32 §2;
+repealed by 1979 c.190 §431] 
+
+   
+
+       247.935 [1969 c.421 §7; repealed by 1979
+c.190 §431] 
+
+   
+
+ LISTS OF ELECTORS 
+
+       247.940
+Statewide list of electors; delivery without charge to political parties;
+requirements for requesting list. 
+(1) A major political party qualified under ORS 248.006 or a minor political
+party qualified under ORS 248.008 may request from the Secretary of State a
+statewide list of electors, as described in ORS 247.945 (4). The list may not
+contain any information about participants in the Address Confidentiality
+Program established under ORS 192.820 to 192.868 or any information that may
+not be publicly disclosed under ORS 247.948. A major political party or a minor
+political party may make no more than two separate requests under this
+subsection per primary election, general election or special election. 
+
+       (2)(a) A request
+for a list under subsection (1) of this section must be made: 
+
+       (A) Not earlier
+than three months before the primary election, general election or special
+election; and 
+
+       (B) Not later
+than the 15th day before the primary election, general election or special
+election. 
+
+       (b) A request for
+a list under subsection (1) of this section may not be made during the period
+beginning on the date of the primary election, general election or special
+election and ending 14 days after the date of the election. 
+
+       (3) If the
+Secretary of State receives a request under subsection (1) of this section, the
+secretary shall deliver the list not later than 10 days after receiving the
+request. 
+
+       (4) The Secretary
+of State may not charge for preparation or delivery of the list supplied under
+this section. [1979 c.190 §63; 1979 c.519 §13a; 1989 c.637 §1; 1991 c.107 §2;
+1993 c.797 §21; 1995 c.712 §12; 1995 c.742 §8; 1999 c.999 §35; 2007 c.542 §16;
+2019 c.675 §5; 2023 c.600 §9] 
+
+   
+
+       247.945 List
+of county or statewide electors; delivery to any person; charges. (1) The county clerk, upon request
+before the 45th day before a primary, general or special election, shall
+deliver to any person a list of electors. The list may not contain any
+information about participants in the Address Confidentiality Program established
+under ORS 192.820 to 192.868 or any information that may not be publicly
+disclosed under ORS 247.948. The lists shall be prepared in the manner
+requested, limited only to the capabilities of the Secretary of State or the
+county clerk. 
+
+       (2) The county
+clerk shall collect and pay into the county treasury a charge for the actual
+cost of supplying lists under subsection (1) of this section. 
+
+       (3) The county
+clerk shall keep a record of all persons to whom a list of electors is
+delivered under this section. 
+
+       (4) Upon request,
+the Secretary of State shall deliver to any person a statewide list of
+electors. Except as provided in ORS 247.940 (4), the secretary shall charge a
+fee of $500 for delivering a list under this subsection. The list may not
+contain any information about participants in the Address Confidentiality
+Program established under ORS 192.820 to 192.868 or any information that may
+not be publicly disclosed under ORS 247.948. [1969 c.421 §§8,9; 1979 c.190 §64;
+1989 c.637 §2; 1995 c.712 §13; 1999 c.999 §36; 2007 c.542 §17; 2007 c.570 §7a;
+2019 c.675 §6] 
+
+   
+
+       247.948
+Elector information in registration file subject to inspection as public
+record; exceptions. 
+(1)(a) Except as set forth in ORS 247.965 or 247.967, or as otherwise
+prohibited by law, the following information about an elector contained within
+an elector’s registration file is subject to inspection as a public record
+under ORS 192.311 to 192.478 and shall be included in lists delivered under ORS
+247.940 and 247.945: 
+
+       (A) The major
+political party or minor political party, if any, with which an elector is
+affiliated; 
+
+       (B) Except as
+provided in subsection (3) of this section, the residence address of an
+elector; 
+
+       (C) Except as
+provided in subsection (3) of this section, the address where an elector
+receives a ballot; 
+
+       (D) The year in
+which an elector was born; 
+
+       (E) The name or
+number of the precinct in which the elector resides; 
+
+       (F) The precinct
+split of an elector; 
+
+       (G) The
+administrative number for an elector that is used by the Secretary of State to
+determine which elections an elector may vote in; 
+
+       (H) The telephone
+number of an elector; 
+
+       (I) Whether or
+not an elector voted in previous elections; and 
+
+       (J) During an
+election period, the ballot status of an elector. In order to comply with this
+subparagraph, during the election period, the secretary shall maintain a list
+of the ballot status of electors. The secretary shall update the list, and make
+available an updated version of the list, on each business day of the election
+period. 
+
+       (b) As used in
+this subsection: 
+
+       (A) “Ballot
+status” means whether or not an elector has cast a ballot in the election; 
+
+       (B) “Election
+period” means the period of time beginning on the date that ballots for an
+election are first mailed to electors and ending on the date of the election;
+and 
+
+       (C) “Precinct
+split” means the enhanced precinct name or number used to determine the
+specific ballot configuration that will be received by an elector who resides
+in a precinct that: 
+
+       (i) Has more than
+one election district subdivision; and 
+
+       (ii) Requires
+more than one ballot configuration for electors in the precinct. 
+
+       (2) Except as set
+forth in ORS 247.973 or as otherwise required by law, the following information
+about an elector contained within an elector’s registration file is not subject
+to inspection as a public record under ORS 192.311 to 192.478 and may not be
+disclosed by the Secretary of State or a county clerk: 
+
+       (a) Information
+that is required to be kept confidential under ORS 247.965 or as part of the
+Address Confidentiality Program under ORS 192.820 to 192.868; 
+
+       (b) The birth
+month of an elector; 
+
+       (c) The day of
+the month on which an elector was born; 
+
+       (d) The Social
+Security number of an elector; 
+
+       (e) The driver
+license number of an elector; and 
+
+       (f) The signature
+of an elector. 
+
+       (3) The residence
+address of an elector may not be included in lists delivered under ORS 247.940
+and 247.945 if the elector: 
+
+       (a) Is either a
+candidate for elected office or a holder of elected office; and 
+
+       (b) Has chosen to
+limit the public accessibility of the elector’s residence address in the manner
+described in ORS 249.021. 
+
+       (4) Nothing in
+this section is intended to limit or restrict the disclosure of information
+that is otherwise subject to inspection as a public record under ORS 192.311 to
+192.478. [2018 c.70 §21; 2023 c.528 §6; 2023 c.600 §8] 
+
+   
+
+       247.955 Use of
+lists of electors for commercial purposes prohibited; exceptions. (1) Except as provided in
+subsection (2) of this section, no person to whom a list of electors is made
+available or supplied under ORS 247.940 or 247.945 shall use any information in
+the list for commercial purposes. 
+
+       (2) A person
+shall not be considered to use for commercial purposes any information
+contained in a list of electors made available or supplied under ORS 247.940 or
+247.945 if the person obtains the list of electors for the purposes of resale
+to candidates or political committees for political purposes only. [1969 c.421 §10;
+1979 c.190 §65; 1989 c.637 §3] 
+
+   
+
+ DISCLOSURE OF RESIDENCE 
+
+ ADDRESSES AND
+SIGNATURES 
+
+   
+
+       247.965
+Exemption from disclosure as public record of residence address of elector or
+family member of elector; request for exemption. (1) Any elector may request the
+county clerk to keep the residence address of the elector and any family member
+residing with the elector exempt from disclosure as a public record under ORS
+192.311 to 192.478. 
+
+       (2) The county
+clerk shall keep the residence address of an elector and any family member
+residing with the elector exempt from disclosure as a public record under ORS
+192.311 to 192.478 if: 
+
+       (a) The elector
+making the request demonstrates to the satisfaction of the county clerk that
+the elector’s personal safety or the safety of any family member residing with
+the elector is in danger if the elector’s address remains available for public
+inspection; or 
+
+       (b) The elector
+has been identified as an election worker by the Secretary of State, county
+clerk or other public body as defined in ORS 174.109 in a manner prescribed by
+the secretary by rule. 
+
+       (3) The county
+clerk shall automatically mail a ballot to an elector whose residence address
+is exempt from disclosure under this section. 
+
+       (4) An exemption
+from disclosure granted under this section shall remain in effect until the
+elector requests termination of the exemption or the elector is required to
+update the elector’s registration. If the elector is required to update the
+elector’s registration, the elector may apply for another exemption from
+disclosure. 
+
+       (5) An exemption
+from disclosure granted under this section includes an exemption from
+disclosure of the residence address of an elector under ORS 247.940 or 247.945. 
+
+       (6) A county
+clerk or the Secretary of State shall not be held liable for: 
+
+       (a) Granting or
+denying an exemption from disclosure under this section; or 
+
+       (b) Any
+unauthorized release of a residence address granted an exemption from
+disclosure under this section. 
+
+       (7) As used in
+this section, “election worker” means an individual employed full-time,
+part-time or as a volunteer: 
+
+       (a) Who is
+serving the State of Oregon or any other public body, as defined in ORS
+174.109, as an elected official, appointed official, employee or agent; and 
+
+       (b) Whose
+official duties include carrying out any duty, function or power set forth in
+ORS chapters 246 to 260. [1993 c.616 §2; 1995 c.742 §9; 1999 c.410 §21; 2019
+c.675 §7; 2022 c.114 §1; 2023 c.600 §11] 
+
+   
+
+       247.967
+Disclosure of residence address of elector or family member of elector;
+procedure; exception. Notwithstanding
+any provision of ORS 192.311 to 192.478: 
+
+       (1) Except as
+provided in subsection (3) of this section, the county clerk may disclose the
+residence address of an elector and any family member residing with the elector
+exempt from public disclosure under ORS 247.965 if the county clerk receives a
+court order or a request from any law enforcement agency to disclose the
+address. 
+
+       (2) A petition
+may be filed with the circuit court of the county in which the administrative
+offices of the county clerk are located requesting disclosure of the residence
+address of any elector exempt from disclosure under ORS 247.965. The petitioner
+shall have the burden of showing the disclosure would not constitute an
+unreasonable invasion of privacy. 
+
+       (3) The county
+clerk may not disclose the actual address, as defined in ORS 192.820, of an
+Address Confidentiality Program participant under ORS 192.820 to 192.868. [1993
+c.616 §3; 2007 c.542 §13; 2023 c.600 §12] 
+
+   
+
+       247.969
+Definition of “personal safety” for purposes of ORS 247.965; rules. (1) The Secretary of State by rule
+shall define when the “personal safety” of an elector and the safety of any
+family member residing with the elector is in danger under ORS 247.965. Under
+the definitions, the elector’s personal safety or the safety of any family
+member residing with the elector shall be considered in danger if the elector
+provides evidence that the elector or any family member residing with the
+elector has: 
+
+       (a) Been a victim
+of domestic violence; 
+
+       (b) Obtained
+orders issued under ORS 133.055; 
+
+       (c) Contacted a
+law enforcement officer involving domestic violence or other physical abuse; 
+
+       (d) Obtained a
+temporary restraining or other no contact order to protect the person from
+future physical harm; or 
+
+       (e) Filed other
+criminal or civil legal proceedings regarding physical protection. 
+
+       (2) A rule
+adopted by the Secretary of State under subsection (1) of this section may list
+other examples of evidence that the elector’s personal safety or the safety of
+any family member residing with the elector is in danger. The other examples
+shall be similar in nature to the evidence described in subsection (1) of this
+section. [1993 c.616 §7] 
+
+   
+
+       247.971 [1993 c.787 §7; repealed by 1995
+c.607 §91] 
+
+   
+
+       247.973 Status
+of signature on voter registration card as public record; copies of signature
+prohibited; voter registration documents or information exempt from disclosure. (1) Subject to subsection (2) of
+this section, an individual’s signature submitted under this chapter for
+purposes of registering to vote is subject to inspection as a public record
+under ORS 192.311 to 192.478. The signature may be inspected in the Office of
+the Secretary of State or the office of the county clerk. 
+
+       (2) A person may
+not make a copy of or provide to another person a copy of an individual’s
+signature submitted under this chapter for purposes of registering to vote. 
+
+       (3) Subsection
+(2) of this section does not apply to copies made by any elections official
+acting in an official capacity for purposes of administering the provisions of
+ORS chapters 246 to 260 or any rules adopted thereunder. 
+
+       (4) Identifying
+information or documents submitted by an individual for purposes of registering
+to vote as required under the Help America Vote Act of 2002 (P.L. 107-252) are
+exempt from disclosure under ORS 192.311 to 192.478. 
+
+       (5) Identifying
+information relating to a disability of an elector that is entered into
+official voter registration records by an elections official is exempt from
+disclosure under ORS 192.311 to 192.478. [1999 c.824 §4; 2003 c.803 §15; 2007
+c.156 §1; 2018 c.70 §22] 
+
+   
+
+       247.990 [Amended by 1955 c.695 §4;
+repealed by 1957 c.608 §231] 
+
+   
+
+       247.991 [1957 c.608 §48; 1961 c.114 §9;
+1975 c.678 §23; 1979 c.190 §66; 1985 c.808 §9; 1985 c.833 §5; 1987 c.719 §13;
+1987 c.733 §6; 1995 c.742 §10; repealed by 1999 c.318 §55] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

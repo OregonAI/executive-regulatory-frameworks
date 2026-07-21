@@ -1,0 +1,5992 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+ Chapter
+401 — Emergency Management and Services 
+
+   
+
+ ORS sections in this
+chapter were amended or repealed by the Legislative Assembly during its 2026
+regular session. See the table of ORS sections amended or repealed during the
+2026 regular session: 2026
+A&R Tables 
+
+   
+
+ New sections of law
+were added by legislative action to this ORS chapter or to a series within this
+ORS chapter by the Legislative Assembly during its 2026 regular session. See
+sections in the following 2026 Oregon Laws chapters: 2026
+Session Laws 0114 
+
+   
+
+ New sections of law
+were enacted by the Legislative Assembly during its 2026 regular session and
+pertain to or are likely to be compiled in this ORS chapter. See sections in
+the following 2026 Oregon Laws chapters: 2026
+Session Laws 0106 ; 2026
+Session Laws 0114 
+
+   
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ EMERGENCY MANAGEMENT AND SERVICES 
+
+   
+
+ MILITARY AFFAIRS; EMERGENCY
+SERVICES 
+
+   
+
+ DEFINITIONS 
+
+   
+
+ 401.025     Definitions for ORS
+chapter 401 
+
+   
+
+ RESPONSIBILITY FOR EMERGENCY
+SERVICES 
+
+   
+
+ 401.032     Statement of policy and
+purpose 
+
+   
+
+ 401.035     Responsibility for
+emergency services systems 
+
+   
+
+ 401.038     Emergency incident
+training for certain officials 
+
+   
+
+ EMERGENCY MANAGEMENT BY THE STATE 
+
+   
+
+ (Oregon Department of Emergency
+Management) 
+
+   
+
+ 401.052     Responsibilities of
+Oregon Department of Emergency Management 
+
+   
+
+ 401.054     Liaisons with Oregon
+Department of Emergency Management 
+
+   
+
+ 401.062     Oregon Department of
+Emergency Management; appointment of director 
+
+   
+
+ 401.067     Compliance Division 
+
+   
+
+ 401.072     Appointment of deputy
+director 
+
+   
+
+ 401.076     Rules 
+
+   
+
+ 401.082     Advisory and technical
+committees 
+
+   
+
+ 401.088     Interagency agreements 
+
+   
+
+ 401.092     Duties of director;
+federal fire management assistance declaration; rules 
+
+   
+
+ 401.094     System for notification
+of emergencies; emergency management coordinators; rules 
+
+   
+
+ 401.096     Federal grants for
+emergency management and services; authority of office 
+
+   
+
+ 401.109     Oregon Homeland
+Security Council 
+
+   
+
+ 401.111     State plan for
+emergency stockpile 
+
+   
+
+ 401.114     Emergency preparedness
+functions 
+
+   
+
+ 401.116     Emergency response
+exercises 
+
+   
+
+ 401.121     Technical assistance to
+local entities 
+
+   
+
+ 401.123     Support for community
+organizations active in disaster 
+
+   
+
+ Note          Emergency
+Preparedness Advisory Council--2021 c.539 §§151,151a 
+
+   
+
+ Note          Local Government
+Emergency Management Advisory Council--2021 c.539 §§152,152a 
+
+   
+
+ (Declaration of State of Emergency) 
+
+   
+
+ 401.165     Declaration of state of
+emergency; procedures 
+
+   
+
+ 401.168     Governor’s powers
+during state of emergency; suspension of agency rules 
+
+   
+
+ 401.175     Additional powers
+during emergency 
+
+   
+
+ 401.178     Removal of disaster
+debris or wreckage; unconditional authorization of community; liability for
+injury or damage 
+
+   
+
+ 401.185     Providing temporary
+housing during emergency 
+
+   
+
+ 401.186     Waiver of waiting
+period for unemployment benefits 
+
+   
+
+ 401.188     Management of resources
+during emergency; rules 
+
+   
+
+ 401.192     Effect of rules and
+orders during emergency; scope; effect; termination 
+
+   
+
+ 401.198     Seizure of firearms
+during emergency 
+
+   
+
+ 401.204     Termination of state of
+emergency 
+
+   
+
+ (Declaration of Major Disaster) 
+
+   
+
+ 401.232     Federal financial
+assistance to political subdivision 
+
+   
+
+ 401.234     Federal financial
+assistance to individuals or families 
+
+   
+
+ (Rules for States of Emergency and
+Major Disasters) 
+
+   
+
+ 401.236     Rules 
+
+   
+
+ (Critical Service Providers) 
+
+   
+
+ 401.239     Critical service
+providers; credentialing; rules 
+
+   
+
+ (Oregon Safety Assessment Program) 
+
+   
+
+ 401.256     Oregon Safety
+Assessment Program; rules 
+
+   
+
+ EMERGENCY MANAGEMENT BY CITIES,
+COUNTIES AND 
+
+ TRIBAL GOVERNMENTS 
+
+   
+
+ (Emergency Management Agency) 
+
+   
+
+ 401.305     Emergency management
+agency of city, county or tribal government; emergency program manager;
+coordination of emergency management functions 
+
+   
+
+ 401.307     Emergency management
+agency appropriation; tax levy 
+
+   
+
+ (Declaration of State of Emergency) 
+
+   
+
+ 401.309     Declaration of state of
+emergency by city or county; procedures; mandatory evacuations 
+
+   
+
+ 401.315     City or county
+authorized to incur obligations for emergency services; county determination of
+emergency 
+
+   
+
+ 401.335     Temporary housing for
+disaster victims; political subdivision’s authority 
+
+   
+
+ (Local Programs for Private
+Building Inspections) 
+
+   
+
+ 401.341     Building inspections by
+private qualified professionals; rules 
+
+   
+
+ EMERGENCY SERVICE VOLUNTEERS 
+
+   
+
+ 401.358     Definitions for ORS
+401.358 to 401.368 
+
+   
+
+ 401.362     Application 
+
+   
+
+ 401.364     Coverage under Oregon
+Tort Claims Act 
+
+   
+
+ 401.368     Workers’ compensation
+benefits 
+
+   
+
+ 401.378     Leaves of absence for
+disaster relief or recovery volunteers; requirements; maximum period; effect on
+status of employees 
+
+   
+
+ FUNDING OF EMERGENCY SERVICES 
+
+   
+
+ 401.505     Acceptance of aid for
+emergency services 
+
+   
+
+ 401.525     Use of moneys and
+property for emergency services authorized 
+
+   
+
+ 401.532     Oregon Pre-Disaster
+Mitigation Fund; rules 
+
+   
+
+ 401.534     Oregon Disaster
+Response Fund; rules 
+
+   
+
+ 401.536     Oregon Local Disaster
+Assistance Loan and Grant Account; Local Disaster Assistance Review Board;
+rules 
+
+   
+
+ 401.541     Oregon Disaster
+Response Assistance Matching Fund; rules 
+
+   
+
+ 401.551     Emergency preparedness
+equipment grant program; rules 
+
+   
+
+ 401.552     Resiliency Grant Fund 
+
+   
+
+ EMERGENCY AND VOLUNTEER HEALTH CARE
+SERVICES 
+
+   
+
+ 401.651     Definitions for ORS
+401.651 to 401.670 
+
+   
+
+ 401.654     Health care volunteer
+registry; rules 
+
+   
+
+ 401.655     Practice by
+out-of-state health care provider during emergency 
+
+   
+
+ 401.656     Provision of health
+care services by members of Oregon National Guard during emergency 
+
+   
+
+ 401.657     Emergency health care
+centers; emergency operations plan; credentialing plan; rules 
+
+   
+
+ 401.658     Provision of health
+care services by former health care provider during emergency; rules 
+
+   
+
+ 401.661     Provision of services
+by registered volunteers 
+
+   
+
+ 401.664     Emergency operations
+plan; credentialing plans 
+
+   
+
+ 401.667     Coverage under Oregon
+Tort Claims Act 
+
+   
+
+ 401.670     Rules 
+
+   
+
+ DISASTER OR EMERGENCY RELATED WORK
+CONDUCTED BY OUT-OF-STATE BUSINESSES 
+
+   
+
+ 401.680     Legislative findings 
+
+   
+
+ 401.685     Definitions 
+
+   
+
+ 401.690     Exemption from certain
+taxes, registration and licensing requirements 
+
+   
+
+ 401.695     Reporting by registered
+business to Oregon Department of Administrative Services 
+
+   
+
+ WILDFIRE 
+
+   
+
+ 401.851     Wildfire planning and
+coordination 
+
+   
+
+ EARTHQUAKES 
+
+   
+
+ (Drills) 
+
+   
+
+ 401.900     State and local agency
+earthquake drills; rules 
+
+   
+
+ 401.902     Private employer
+earthquake drills; exemptions; rules 
+
+   
+
+ 401.904     Rules 
+
+   
+
+ (Seismic Rehabilitation) 
+
+   
+
+ 401.910     Grant program for
+seismic rehabilitation of certain facilities; rules 
+
+   
+
+ (State Resilience Officer) 
+
+   
+
+ 401.913     State Resilience
+Officer; duties; monitoring of resilience planning by legislative and judicial
+branches 
+
+   
+
+ (Seismic Safety Policy Advisory
+Commission) 
+
+   
+
+ 401.915     Seismic Safety Policy
+Advisory Commission; members; term 
+
+   
+
+ 401.918     Mission of commission 
+
+   
+
+ 401.920     Officers; quorum;
+meetings; compensation and expenses 
+
+   
+
+ 401.922     Support services 
+
+   
+
+ 401.925     Advisory and technical
+committees; expense reimbursement 
+
+   
+
+ STRUCTURAL COLLAPSE 
+
+   
+
+ 401.930     Assignment by Governor
+of local resources under direction of State Fire Marshal 
+
+   
+
+ 401.932     Powers and duties of
+local personnel acting under direction of State Fire Marshal 
+
+   
+
+ 401.935     Liability for expenses
+incurred and for loss or damage to local equipment; filing claim 
+
+   
+
+ 401.938     Liability for expenses
+incurred using local personnel 
+
+   
+
+ 401.940     Immunity from liability
+for local personnel acting in line of duty; exception 
+
+   
+
+ TSUNAMI 
+
+   
+
+ 401.950     Definitions; tsunami
+warning information; rules 
+
+   
+
+ 401.952     Uniform tsunami warning
+signal; rules 
+
+   
+
+ 401.955     Contributions to
+finance tsunami warning system 
+
+   
+
+ ABNORMAL DISRUPTION OF MARKET 
+
+   
+
+ 401.960     Definitions for ORS
+401.960, 401.962, 401.965 and 401.970 
+
+   
+
+ 401.962     Legislative findings 
+
+   
+
+ 401.965     Abnormal disruption of
+market 
+
+   
+
+ 401.970     Applicability of
+remedies 
+
+   
+
+ ANIMAL RESCUE 
+
+   
+
+ 401.975     Legislative findings 
+
+   
+
+ 401.977     Animal emergency
+operations plan 
+
+   
+
+ 401.978     Livestock emergency
+operations plan 
+
+   
+
+ NEWS MEDIA REPRESENTATIVES 
+
+   
+
+ 401.980     Access to disaster
+sites by news media representatives 
+
+   
+
+ 401.981     Committee to establish
+guidelines 
+
+   
+
+ PENALTIES 
+
+   
+
+ 401.990     Penalties 
+
+   
+
+ 401.010 [Repealed by 1983 c.586 §49] 
+
+   
+
+       401.015 [1983 c.586 §1; 2009 c.718 §28;
+renumbered 401.032 in 2009] 
+
+   
+
+       401.020 [Amended by 1975 c.379 §8;
+repealed by 1983 c.586 §49] 
+
+   
+
+ DEFINITIONS 
+
+   
+
+       401.025
+Definitions for ORS chapter 401. 
+As used in this chapter: 
+
+       (1) “Emergency”
+means a human created or natural event or circumstance that causes or threatens
+widespread loss of life, injury to person or property, human suffering or
+financial loss, including but not limited to: 
+
+       (a) Fire,
+wildfire, explosion, flood, severe weather, landslides or mud slides, drought,
+earthquake, volcanic activity, tsunamis or other oceanic phenomena, spills or
+releases of oil or hazardous material as defined in ORS 466.605, contamination,
+utility or transportation emergencies, disease, blight, infestation, civil
+disturbance, riot, sabotage, acts of terrorism and war; and 
+
+       (b) A rapid
+influx of individuals from outside this state, a rapid migration of individuals
+from one part of this state to another or a rapid displacement of individuals
+if the influx, migration or displacement results from the type of event or
+circumstance described in paragraph (a) of this subsection. 
+
+       (2) “Emergency
+service agency” means an organization within a local government that performs
+essential services for the public’s benefit before, during or after an
+emergency, such as law enforcement, fire control, health, medical and
+sanitation services, public works and engineering, public information and
+communications. 
+
+       (3) “Emergency
+services” means activities engaged in by state and local government agencies to
+prepare for an emergency and to prevent, minimize, respond to or recover from
+an emergency, including but not limited to coordination, preparedness planning,
+training, interagency liaison, fire fighting, oil or hazardous material spill
+or release cleanup as defined in ORS 466.605, law enforcement, medical, health
+and sanitation services, engineering and public works, search and rescue
+activities, warning and public information, damage assessment, administration
+and fiscal management, and those measures defined as “civil defense” in 50
+U.S.C. app. 2252. 
+
+       (4) “Local
+government” has the meaning given that term in ORS 174.116. 
+
+       (5) “Major
+disaster” means any event defined as a “major disaster” under 42 U.S.C.
+5122(2). [1983 c.586 §2; 1985 c.733 §21; 1987 c.373 §84; 1989 c.361 §8; 1991
+c.418 §1; 1991 c.956 §10; 1993 c.187 §1; 1999 c.935 §29; 2005 c.825 §9; 2007
+c.97 §10; 2007 c.223 §5; 2007 c.740 §20; 2009 c.718 §17; 2021 c.592 §16] 
+
+   
+
+       401.030 [Amended by 1967 c.595 §1; 1969
+c.80 §8; 1975 c.379 §9; 1975 c.624 §1; repealed by 1983 c.586 §49] 
+
+   
+
+ RESPONSIBILITY FOR
+EMERGENCY SERVICES 
+
+   
+
+       401.032
+Statement of policy and purpose. 
+(1) The general purpose of this chapter is to reduce the vulnerability of the
+State of Oregon to loss of life, injury to persons or property and human
+suffering and financial loss resulting from emergencies, and to provide for
+recovery and relief assistance for the victims of emergencies. 
+
+       (2) It is
+declared to be the policy and intent of the Legislative Assembly that
+preparations for emergencies and governmental responsibility for responding to
+emergencies be placed at the local level. The state shall prepare for
+emergencies, but shall not assume authority or responsibility for responding to
+an emergency unless the appropriate response is beyond the capability of the
+city and county in which the emergency occurs, the city or county fails to act,
+or the emergency involves two or more counties. [Formerly 401.015] 
+
+   
+
+       401.035
+Responsibility for emergency services systems. (1) The emergency services system
+is composed of all agencies and organizations involved in the coordinated
+delivery of emergency services. The Governor is responsible for the emergency
+services system within the State of Oregon. The executive officer or governing
+body of each county or city of this state is responsible for the emergency
+services system within that jurisdiction. 
+
+       (2) In carrying
+out their responsibilities for emergency services systems, the Governor and the
+executive officers or governing bodies of the counties or cities may delegate
+any administrative or operative authority vested in them by this chapter and
+provide for the subdelegation of that authority. [1983 c.586 §3; 2009 c.718 §24] 
+
+   
+
+       401.038
+Emergency incident training for certain officials. (1) All elected officials in this
+state, all administrative heads of state agencies and all persons in the state
+government management service as defined in ORS 240.212 shall complete
+introductory courses offered or approved by the Federal Emergency Management
+Agency on incident command and the National Incident Management System. 
+
+       (2) All officials
+of a local government, as defined in ORS 174.116, who have or could reasonably
+be expected to have emergency or disaster response responsibility shall
+complete education on emergency response as recommended by the emergency
+program manager appointed by the local government under ORS 401.305 or the
+chief administrative officer of the local government. [2022 c.55 §4] 
+
+   
+
+       Note: 401.038 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.039 [2007 c.740 §19; 2009 c.718 §29;
+renumbered 401.198 in 2009] 
+
+   
+
+       401.040 [Amended by 1963 c.528 §1; 1967
+c.419 §33; 1969 c.80 §9; 1975 c.379 §10; 1975 c.624 §2; 1981 c.615 §4; repealed
+by 1983 c.586 §49] 
+
+   
+
+       401.041 [2002 s.s.1 c.7 §1; renumbered
+402.100 in 2009] 
+
+   
+
+       401.043 [2002 s.s.1 c.7 §2; renumbered
+402.105 in 2009] 
+
+   
+
+       401.045 [1983 c.586 §18; 1993 c.187 §2;
+repealed by 2002 s.s.1 c.7 §3] 
+
+   
+
+       401.050 [Amended by 1963 c.528 §2; 1967
+c.419 §34; 1967 c.595 §2; 1969 c.80 §10; 1969 c.314 §32; 1981 c.615 §5;
+repealed by 1983 c.586 §49] 
+
+   
+
+ EMERGENCY MANAGEMENT BY
+THE STATE 
+
+   
+
+ (Oregon Department of Emergency
+Management) 
+
+   
+
+       401.052
+Responsibilities of Oregon Department of Emergency Management. (1) The Oregon Department of
+Emergency Management is established. 
+
+       (2) The
+department shall be responsible for: 
+
+       (a) Coordinating
+and facilitating private sector and governmental efforts to prevent, prepare
+for, respond to and recover from emergencies; and 
+
+       (b) Coordinating
+exercises and training, planning, preparedness, response, mitigation and
+recovery activities with state and local emergency services agencies and
+organizations. 
+
+       (3) The
+department may purchase or contract for any materials, supplies or equipment,
+including motor vehicles, that the department deems necessary to carry out the
+duties of the department. 
+
+       (4) The
+department shall prepare a statewide emergency management plan and update the
+plan from time to time as necessary. [Formerly 401.257; 2021 c.539 §2; 2025
+c.229 §1] 
+
+   
+
+       401.054
+Liaisons with Oregon Department of Emergency Management. (1) Each of the following
+agencies, entities and officials shall designate an individual to act as a
+liaison with the Oregon Department of Emergency Management: 
+
+       (a) The
+Department of Consumer and Business Services; 
+
+       (b) The
+Department of Corrections; 
+
+       (c) The
+Department of Education; 
+
+       (d) The
+Department of Environmental Quality; 
+
+       (e) The
+Department of Human Services; 
+
+       (f) The
+Department of Justice; 
+
+       (g) The
+Department of Land Conservation and Development; 
+
+       (h) The
+Department of Public Safety Standards and Training; 
+
+       (i) The
+Department of State Lands; 
+
+       (j) The
+Department of State Police; 
+
+       (k) The
+Department of Transportation; 
+
+       (L) The
+Department of Veterans’ Affairs; 
+
+       (m) The
+Employment Department; 
+
+       (n) The Housing
+and Community Services Department; 
+
+       (o) The Judicial
+Department; 
+
+       (p) The Oregon
+Business Development Department; 
+
+       (q) The Oregon
+Department of Administrative Services; 
+
+       (r) The Oregon
+Department of Aviation; 
+
+       (s) The Oregon
+Health Authority; 
+
+       (t) The Oregon
+Military Department; 
+
+       (u) The Oregon
+Tourism Commission; 
+
+       (v) The Public
+Utility Commission of Oregon; 
+
+       (w) The Secretary
+of State; 
+
+       (x) The State
+Department of Agriculture; 
+
+       (y) The State
+Department of Energy; 
+
+       (z) The State
+Department of Fish and Wildlife; 
+
+       (aa) The State
+Department of Geology and Mineral Industries; 
+
+       (bb) The State
+Fire Marshal; 
+
+       (cc) The State
+Forestry Department; 
+
+       (dd) The State
+Marine Board; 
+
+       (ee) The State
+Parks and Recreation Department; 
+
+       (ff) The Travel
+Information Council; and 
+
+       (gg) The Water
+Resources Department. 
+
+       (2) Each agency,
+entity and official required to designate a liaison under this section shall
+designate an individual who has authority during an emergency to allocate
+resources and assets of the agency, entity or official. 
+
+       (3) Each
+individual designated as a liaison under subsection (1) of this section shall
+assist in the coordination of the functions of the agency, entity or official
+that designated the individual that relate to emergency preparedness and
+response with similar functions of the Oregon Department of Emergency
+Management. [Formerly 401.259; 2013 c.512 §1; 2017 c.231 §1; 2021 c.539 §3] 
+
+   
+
+       401.055 [1983 c.586 §4; 1991 c.605 §1;
+1993 c.187 §3; 2007 c.408 §1; 2007 c.740 §21; renumbered 401.165 in 2009] 
+
+   
+
+       401.060 [Amended by 1963 c.528 §4; 1967
+c.595 §3; 1969 c.80 §11; repealed by 1983 c.586 §49] 
+
+   
+
+       401.062 Oregon
+Department of Emergency Management; appointment of director. (1) The Oregon Department of
+Emergency Management is under the supervision and control of a director, who is
+responsible for the performance of the duties, functions and powers of the
+department. 
+
+       (2) The Governor
+shall appoint the Director of the Oregon Department of Emergency Management,
+who holds office at the pleasure of the Governor. The appointment of the
+director is subject to confirmation by the Senate in the manner prescribed by
+ORS 171.562 and 171.565. 
+
+       (3) The director
+shall be paid a salary as provided by law or, if not so provided, as prescribed
+by the Governor. 
+
+       (4) For purposes
+of administration, subject to the approval of the Governor, the director may
+organize and reorganize the department as the director considers necessary to
+properly conduct the work of the department. 
+
+       (5) The director
+may divide the functions of the department into administrative divisions.
+Subject to the approval of the Governor, the director may appoint an individual
+to administer each division. The administrator of each division serves at the
+pleasure of the director and is not subject to the provisions of ORS chapter
+240. Each individual appointed under this subsection must be well qualified by
+technical training and experience in the functions to be performed by the
+individual. [Formerly 401.261; 2021 c.539 §4] 
+
+   
+
+       401.064 [1975 c.379 §3; repealed by 1983
+c.586 §49] 
+
+   
+
+       401.065 [1983 c.586 §5; 2009 c.718 §39;
+renumbered 401.168 in 2009] 
+
+   
+
+       401.066 [1975 c.379 §2; 1977 c.248 §3;
+repealed by 1983 c.586 §49] 
+
+   
+
+       401.067
+Compliance Division. 
+(1) There is established the Compliance Division as an administrative division
+of the Oregon Department of Emergency Management. The Director of the Oregon
+Department of Emergency Management shall appoint a compliance officer to lead
+the division. The compliance officer serves at the pleasure of and at the
+direction of the director. The director may appoint additional staff to the
+division as the director deems necessary for the division to carry out its
+duties. 
+
+       (2) The
+Compliance Division shall: 
+
+       (a) Ensure that
+the department is in compliance with requirements and regulations relating to
+moneys received from the federal government, including ensuring compliance by
+grantees or subgrantees; 
+
+       (b) Prepare and
+maintain documentation related to compliance; 
+
+       (c) Establish
+monitoring and reporting requirements as necessary to ensure compliance; 
+
+       (d) Identify
+compliance risks and direct and supervise corrective actions to mitigate such
+risks; and 
+
+       (e) Serve as
+liaison between the department and federal officials. 
+
+       (3) Public
+bodies, as defined in ORS 174.109, shall promptly provide to the Compliance
+Division any books, records or other documentation that the division determines
+to be necessary to carry out its duties. [2023 c.427 §4] 
+
+   
+
+       Note: 401.067 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.068 [1975 c.379 §4; repealed by 1983
+c.586 §49] 
+
+   
+
+       401.070 [Repealed by 1983 c.586 §49] 
+
+   
+
+       401.072
+Appointment of deputy director. 
+(1) The Director of the Oregon Department of Emergency Management may, by
+written order filed with the Secretary of State, appoint a deputy director. The
+deputy director serves at the pleasure of the director, has authority to act
+for the director in the absence of the director and is subject to the control
+of the director at all times. 
+
+       (2) Subject to
+any applicable provisions of ORS chapter 240, the director shall appoint all
+subordinate officers and employees of the department, prescribe their duties
+and fix their compensation. [Formerly 401.263; 2021 c.539 §5] 
+
+   
+
+       401.074 [1983 c.586 §6; 2009 c.718 §40;
+renumbered 401.185 in 2009] 
+
+   
+
+       401.075 [1977 c.248 §2; repealed by 1983
+c.586 §49] 
+
+   
+
+       401.076 Rules. In accordance with applicable
+provisions of ORS chapter 183, the Director of the Oregon Department of
+Emergency Management may adopt rules necessary for the administration of the
+laws that the department is charged with administering. [Formerly 401.265; 2021
+c.539 §6] 
+
+   
+
+       401.080 [Amended by 1953 c.6 §4; 1967
+c.595 §4; 1975 c.379 §11; repealed by 1983 c.586 §49] 
+
+   
+
+       401.082
+Advisory and technical committees. 
+(1) To aid and advise the Director of the Oregon Department of Emergency
+Management in the performance of the functions of the Oregon Department of
+Emergency Management, the director may establish such advisory and technical
+committees as the director considers necessary. The committees may be
+continuing or temporary. The director shall determine the representation,
+membership, terms and organization of the committees and shall appoint their
+members. The director is an ex officio member of each committee. 
+
+       (2) Members of
+the committees are not entitled to compensation, but in the discretion of the
+director may be reimbursed from funds available to the department for actual
+and necessary travel and other expenses incurred by them in the performance of
+their official duties in the manner and amount provided in ORS 292.495. [Formerly
+401.267; 2021 c.539 §8] 
+
+   
+
+       401.085 [1983 c.586 §7; 2009 c.718 §41;
+renumbered 401.188 in 2009] 
+
+   
+
+       401.088
+Interagency agreements. 
+The Director of the Oregon Department of Emergency Management may enter into
+interagency agreements with other state agencies that the director determines
+are necessary to carry out the duties of the Oregon Department of Emergency
+Management. [Formerly 401.269; 2021 c.539 §9] 
+
+   
+
+       401.090 [Repealed by 1983 c.586 §49] 
+
+   
+
+       401.092 Duties
+of director; federal fire management assistance declaration; rules. (1) The Director of the Oregon
+Department of Emergency Management is responsible for coordinating and
+facilitating exercises and training, emergency planning, preparedness,
+response, mitigation and recovery activities with the state and local emergency
+services agencies and organizations, and shall: 
+
+       (a) Make rules
+that are necessary and proper for the administration and implementation of this
+chapter; 
+
+       (b) Coordinate
+the activities of all public and private organizations specifically related to
+providing emergency services within this state; 
+
+       (c) Maintain a
+cooperative liaison with emergency management agencies and organizations of
+local governments, other states and the federal government; 
+
+       (d) Have such
+additional authority, duties and responsibilities authorized by this chapter or
+as may be directed by the Governor; 
+
+       (e) Administer
+grants relating to emergency program management under ORS 401.305 and emergency
+services for the state; 
+
+       (f) Provide for
+and staff the State Emergency Operations Center to aid the Governor and the
+department in the performance of duties under this chapter; 
+
+       (g) Serve as the
+Governor’s authorized representative for coordination of certain response
+activities and managing the recovery process; 
+
+       (h) Establish
+training and professional standards for local emergency program management
+personnel; 
+
+       (i) Establish
+task forces and advisory groups to assist the department in achieving mandated
+responsibilities; 
+
+       (j) Enforce
+compliance requirements of federal and state agencies for receiving funds and
+conducting designated emergency functions; and 
+
+       (k) Coordinate
+the activities of state and local governments to enable state and local
+governments to work together during domestic incidents as provided in the
+National Incident Management System established by the Homeland Security
+Presidential Directive 5 of February 28, 2003. 
+
+       (2)
+Notwithstanding subsection (1) of this section, the State Forester shall serve
+as the Governor’s authorized representative for the purpose of initiating the
+fire management assistance declaration process with the Federal Emergency
+Management Agency and administering Federal Emergency Management Agency fire
+management assistance grants. [Formerly 401.270; 2011 c.49 §1; 2013 c.782 §2;
+2021 c.111 §2; 2021 c.539 §7] 
+
+   
+
+       401.094 System
+for notification of emergencies; emergency management coordinators; rules. (1) The Oregon Department of
+Emergency Management shall maintain a system for the notification and
+interagency coordination of state resources in response to emergencies
+involving multijurisdictional cooperation between the various levels of
+government and private business entities. 
+
+       (2) The
+notification system shall be managed by the department as a continuously
+available communications network and a component of the state’s emergency
+operations center. 
+
+       (3) The
+notification system shall be the primary point of contact by which any public
+agency provides the state notification of an emergency or disaster, or requests
+access to state and federal resources. 
+
+       (4) Each
+department of state government, and those agencies of state government
+identified in the statewide emergency management plan prepared under ORS
+401.052 as having emergency service or administrative responsibilities, shall
+appoint an emergency management coordinator as their representative to work
+with the department on the development and implementation of emergency plans
+and procedures. 
+
+       (5) The
+department shall adopt rules relating to the planning, administration and
+operation of the notification system maintained under this section. [Formerly
+401.275; 2021 c.539 §§16,16a] 
+
+   
+
+       Note: The amendments to 401.094 by
+section 16a, chapter 539, Oregon Laws 2021, become operative July 1, 2026. See
+section 155b, chapter 539, Oregon Laws 2021, as amended by section 1, chapter
+408, Oregon Laws 2025. The text that is operative until July 1, 2026, is set
+forth for the user’s convenience. 
+
+       401.094. (1)(a) The Department of State
+Police shall maintain a system for the notification and interagency
+coordination of state resources in response to emergencies involving
+multijurisdictional cooperation between the various levels of government and
+private business entities. 
+
+       (b) The
+department shall provide the Oregon Department of Emergency Management with a
+service level agreement that describes the continued daily operations and
+maintenance of the system, the services and supplies needed to maintain the
+system 24 hours a day, every day of the year, and the policies and procedures
+that support the overall notification system. 
+
+       (2) The
+notification system shall be managed by the Oregon Department of Emergency
+Management as a continuously available communications network and a component
+of the state’s emergency operations center. 
+
+       (3) The
+notification system shall be the primary point of contact by which any public
+agency provides the state notification of an emergency or disaster, or requests
+access to state and federal resources. 
+
+       (4) Each
+department of state government, and those agencies of state government
+identified in the statewide emergency management plan prepared under ORS
+401.052 as having emergency service or administrative responsibilities, shall
+appoint an emergency management coordinator as their representative to work
+with the Oregon Department of Emergency Management on the development and
+implementation of emergency plans and procedures. 
+
+       (5) The Oregon
+Department of Emergency Management shall adopt rules relating to the planning,
+administration and operation of the notification system maintained under this
+section. 
+
+   
+
+       401.095 [1983 c.586 §8; renumbered 401.192
+in 2009] 
+
+   
+
+       401.096
+Federal grants for emergency management and services; authority of office. (1) The Oregon Department of
+Emergency Management is designated as the sole agency of the State of Oregon
+for the purpose of negotiating agreements with the United States Department of
+Homeland Security or other appropriate federal agency, on behalf of the state,
+for the acquisition of federal funds for the purpose of providing emergency
+program management and emergency services. 
+
+       (2) When applying
+for funds described in subsection (1) of this section, the following entities
+shall coordinate with the department on development of proposals and submit
+applications to the department to be reviewed and processed: 
+
+       (a) A city or
+county operating an emergency management program. 
+
+       (b) An emergency
+service agency. 
+
+       (c) A state
+agency. 
+
+       (3) A tribal
+government operating an emergency management program may, when applying for
+funds, coordinate with the department on development of proposals and submit
+applications to the department to be reviewed, processed or both. 
+
+       (4) The
+department is authorized to accept and receive federal funds for the purposes
+of emergency program management and emergency services on behalf of the state,
+counties, cities and participating tribal governments. [Formerly 401.280; 2013
+c.189 §1; 2021 c.539 §32] 
+
+   
+
+       401.100 [Repealed by 1983 c.586 §49] 
+
+   
+
+       401.105 [1983 c.586 §9; renumbered 401.204
+in 2009] 
+
+   
+
+       401.106 [2007 c.223 §1; renumbered 401.962
+in 2009] 
+
+   
+
+       401.107 [2007 c.223 §§3,4; renumbered
+401.965 in 2009] 
+
+   
+
+       401.108 [2007 c.223 §7(3); renumbered
+401.970 in 2009] 
+
+   
+
+       401.109 Oregon
+Homeland Security Council. 
+(1) The Oregon Homeland Security Council is established within the Oregon
+Department of Emergency Management. The mission of the council is to assess
+risks to the safety and security of the State of Oregon with special emphasis
+on matters related to domestic terrorism and other major threats to the people
+of Oregon, including to critical infrastructure, and to make formal
+recommendations to the Governor with respect to homeland security policy. 
+
+       (2) The council
+may: 
+
+       (a) Recommend
+strategies to the Governor for the effective coordination of information
+gathering and dissemination on subjects associated with the mission. 
+
+       (b) Request and
+receive briefings from state agencies or other entities for development of
+reports and recommendations for the Governor on subjects associated with the
+mission. 
+
+       (c) Facilitate
+interagency collaboration, cooperation and coordination on operational issues
+associated with the mission. 
+
+       (d) Recommend
+policies to the Emergency Preparedness Advisory Council on subjects associated
+with the mission. 
+
+       (3) The
+membership of the council consists of: 
+
+       (a) Four members
+from the Legislative Assembly appointed as follows: 
+
+       (A) Two members
+from the Senate appointed by the President of the Senate; and 
+
+       (B) Two members
+from the House of Representatives appointed by the Speaker of the House of
+Representatives; 
+
+       (b) The Governor; 
+
+       (c) The Adjutant
+General; 
+
+       (d) The
+Superintendent of State Police; 
+
+       (e) The Director
+of the Oregon Department of Emergency Management; 
+
+       (f) A
+representative of the Department of Justice appointed by the Attorney General; 
+
+       (g) The State
+Resilience Officer; 
+
+       (h) The State
+Fire Marshal; 
+
+       (i) The Director
+of the Department of Public Safety Standards and Training; 
+
+       (j) The Director
+of the Oregon Health Authority; 
+
+       (k) The Director
+of Transportation; 
+
+       (L) The State
+Forester; 
+
+       (m) The Director
+of the Department of Corrections; 
+
+       (n) The
+Superintendent of State Police; 
+
+       (o) One member
+appointed by the Governor to act as a senior policy advisor for emergency
+operations; 
+
+       (p) A
+representative of the Oregon TITAN Fusion Center with the ability to organize
+and explain mission critical information, appointed by the Attorney General;
+and 
+
+       (q) Additional
+members appointed by the Director of the Oregon Department of Emergency
+Management as the director may deem necessary. 
+
+       (4) Each member
+appointed to the council under subsection (3) of this section serves at the
+pleasure of the appointing authority. The membership of a public official
+ceases upon termination of the office held by the official at the time of
+appointment to the council. 
+
+       (5) The Governor
+is the chairperson of the council. 
+
+       (6) The Director
+of the Oregon Department of Emergency Management is the vice chairperson of the
+council and serves as the chairperson in the absence of the Governor. 
+
+       (7) Members of
+the council are not entitled to compensation under ORS 292.495. The director,
+in the director’s discretion, may reimburse members of the council as provided
+in ORS 292.495 for actual and necessary travel or other expenses incurred in
+the performance of their duties as members of the council. 
+
+       (8) A majority of
+the members of the council constitutes a quorum for the transaction of
+business. 
+
+       (9) Official
+action by the council requires the approval of a majority of the members of the
+council. 
+
+       (10) If there is
+a vacancy for any cause, the appointing authority shall make an appointment to
+become immediately effective. 
+
+       (11) The council
+shall meet as needed to carry out the mission of the council, at times and
+places specified by the call of the chairperson or of a majority of the members
+of the council. 
+
+       (12) The council
+may adopt rules necessary for the operation of the council. 
+
+       (13) The council
+may employ and fix the compensation of such professional assistants and
+clerical and other employees as the council deems necessary for the effective
+conduct of its work. 
+
+       (14) All agencies
+of state government, as defined in ORS 174.111, are directed to assist the
+council in the performance of the duties of the council and, to the extent
+permitted by laws relating to confidentiality, to furnish information and
+advice the members of the council consider necessary to perform their duties. [Formerly
+401.881; 2012 c.32 §2; 2019 c.282 §1; 2021 c.539 §147; 2022 c.55 §1] 
+
+   
+
+       401.110 [Amended by 1975 c.379 §12;
+repealed by 1983 c.586 §49] 
+
+   
+
+       401.111 State
+plan for emergency stockpile. 
+(1) The Oregon Homeland Security Council, in consultation with emergency
+management agencies, the Oregon Department of Emergency Management or its
+predecessor office, and the Oregon Health Authority, shall develop a plan to
+ensure that Oregonians have access to a robust stockpile of supplies and
+equipment for use in an emergency, including personal protective equipment and
+raw materials for the sustained manufacture thereof, communicable disease
+testing equipment and all-hazards emergency surge supplies, that can be
+deployed on a regional basis. 
+
+       (2) In developing
+the plan, the council shall: 
+
+       (a) Develop a
+comprehensive list of essential equipment, materials, supplies, distribution
+channels and manufacturing capabilities necessary to accomplish the purpose
+described in subsection (1) of this section; 
+
+       (b) Determine a
+statewide standard of availability, sufficient to adequately protect public
+health and safety, for each article of personal protective equipment and each
+element of communicable disease testing equipment on the list; 
+
+       (c) Establish
+metrics and processes for real-time, transparent reporting of materials,
+supplies, distribution channels and manufacturing capabilities for each type of
+equipment or supply on the list that the council deems to be critical in an
+emergency; 
+
+       (d) Collaborate
+with hospitals, long term care facilities, provider groups and health care
+organizations to obtain information on the extent to which each entity is able
+to provide personal protective equipment to personnel who are in contact with
+patients, including usage rates of personal protective equipment during normal
+business operations and any additional personal protective equipment each
+entity may maintain for emergency purposes; 
+
+       (e) Determine a
+rotation schedule for supplies, equipment and materials in the stockpile; and 
+
+       (f) Establish
+quality standards for elements of the stockpile, utilizing guidance from the
+Centers for Disease Control and Prevention and other public health
+organizations. [2022 c.55 §7(1),(2)] 
+
+   
+
+       Note: 401.111 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.114
+Emergency preparedness functions. 
+The Oregon Department of Emergency Management shall carry out the following
+functions: 
+
+       (1) Coordinate
+emergency management functions on a regional basis within this state; 
+
+       (2) Coordinate
+training related to emergency response on a regional basis within this state;
+and 
+
+       (3) Develop and
+carry out emergency preparedness exercises on a statewide basis. [2021 c.539 §25a] 
+
+   
+
+       Note: 401.114 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.115 [Formerly 401.530; renumbered
+401.175 in 2009] 
+
+   
+
+       401.116
+Emergency response exercises. 
+(1) The Oregon Department of Emergency Management shall develop and administer
+a program for periodic emergency response exercises as described in this
+section. 
+
+       (2) Once per
+year, the department shall coordinate a multidisciplinary, all-hazards
+emergency response exercise. The exercise must involve at least 10 percent of
+the public or private safety agencies in this state. The department shall
+ensure that each public or private safety agency in this state participates in
+at least one exercise under this subsection in each 10-year period. 
+
+       (3)(a) At least
+once per year, each state agency shall conduct an internal exercise that tests
+at least one element of the state agency’s emergency preparedness. Each state
+agency may determine the nature and focus of the exercise required under this
+subsection. Once per year, each state agency shall submit a written report to
+the department describing the nature of the exercise, the metrics used by the
+state agency to analyze the state agency’s performance and the outcome of the
+exercise. 
+
+       (b) The
+department shall provide advice and recommendations to state agencies regarding
+the requirements of this subsection. 
+
+       (4)(a) At least
+once per year, each county shall conduct a tabletop, scenario-based learning
+exercise related to emergency response. An exercise conducted by a county under
+this subsection must involve the majority of public or private safety agencies
+operating in the county. 
+
+       (b) A county need
+not conduct the exercise required under this subsection during a year in which
+the county’s emergency operations center was partially or fully activated in
+response to an emergency. 
+
+       (c) The
+department shall provide advice and recommendations to counties regarding the
+requirements of this subsection. 
+
+       (5) The
+department shall consult with the Oregon Homeland Security Council to determine
+priorities for subjects of exercises conducted under this section. 
+
+       (6) The
+department may issue grants to local governments to pay for some or all of the
+costs of the exercises required under this section. 
+
+       (7) The
+department may solicit and accept gifts, grants or donations from public or
+private sources to fund the exercises required under this section. 
+
+       (8) As used in
+this section: 
+
+       (a) “Public or
+private safety agency” has the meaning given that term in ORS 181A.355. 
+
+       (b) “State agency”
+means an agency, entity or official listed in ORS 401.054. [2022 c.55 §6] 
+
+   
+
+       Note: 401.116 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.120 [Repealed by 1983 c.586 §49] 
+
+   
+
+       401.121
+Technical assistance to local entities. (1) The Oregon Department of Emergency Management
+shall provide technical assistance, as described in subsection (2) of this
+section, to local entities, whether public or private, that are active in
+emergency preparedness, response or recovery in Oregon, including: 
+
+       (a) County, city
+and tribal emergency management agencies; 
+
+       (b) Community
+organizations active in disaster; 
+
+       (c) Long-term
+recovery groups; and 
+
+       (d) Disaster
+mitigation and recovery managers. 
+
+       (2) Technical
+assistance provided under this section may include, without limitation,
+assistance with: 
+
+       (a) Fundraising
+or grant writing; 
+
+       (b) Incorporation
+or other organization; 
+
+       (c) Navigating
+political relationships; 
+
+       (d) Interacting
+with the Federal Emergency Management Agency, including ensuring proper form
+and content of paperwork submitted to the agency; 
+
+       (e) Culturally
+specific outreach; and 
+
+       (f) Branding. 
+
+       (3) The
+department may contract with third parties to carry out its duties under this
+section. 
+
+       (4) The
+department shall adopt rules necessary for the administration of this section. [2023
+c.427 §6] 
+
+   
+
+       Note: 401.121 and 401.123 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 401 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation. 
+
+   
+
+       401.123
+Support for community organizations active in disaster. (1) As used in this section, “community
+organization active in disaster” means a cooperative organization comprising
+representatives of nonprofit, governmental, business and faith-based entities
+that works within a local community to prepare for, build resilience against
+and recover from emergencies by performing functions including any of the
+following: 
+
+       (a) Providing
+local coordination of federal or state support; 
+
+       (b) Serving as a
+primary local disaster recovery organization; 
+
+       (c) Assessing
+local needs following disaster and determining locally informed plans for
+action; 
+
+       (d) Facilitating
+communication with local communities, including vulnerable populations; 
+
+       (e) Leveraging
+philanthropic and other private funding and coordinating with philanthropic
+entities; 
+
+       (f) Facilitating
+disaster case management, including providing a central hub for allocating
+resources for unmet needs; and 
+
+       (g) Providing
+emergency-related services and supports to the local community. 
+
+       (2) The Oregon
+Department of Emergency Management shall identify existing community
+organizations active in disaster in Oregon and provide grants for their
+support. The department shall execute grant agreements with grant recipients
+obligating recipients to use grant moneys for purposes specified by the
+department. The department shall determine the permissible purposes for a grant
+under this section based on the needs of the community organization active in
+disaster and the locality in which it operates. 
+
+       (3) The
+department shall adopt rules necessary for the administration of this section. [2023
+c.427 §7] 
+
+   
+
+       Note: See note under 401.121. 
+
+   
+
+       Note: Sections 151 to 152a, chapter 539,
+Oregon Laws 2021, provide: 
+
+       Sec. 151.
+Emergency Preparedness Advisory Council. (1) The Emergency Preparedness Advisory Council is
+established within the Office of the Governor. The mission of the council is to
+facilitate policy recommendations for catastrophic disaster preparedness,
+mitigation and response and recovery planning, procedures and protocols with
+special emphasis on outreach to representatives of designated state and federal
+emergency support functions. 
+
+       (2) The council
+consists of: 
+
+       (a) One member
+appointed by the Adjutant General to represent the Oregon Military Department; 
+
+       (b) One member
+appointed by the Director of the Oregon Department of Emergency Management to
+represent the Oregon Department of Emergency Management; 
+
+       (c) One member
+appointed by the State Fire Marshal to represent the Department of the State
+Fire Marshal; 
+
+       (d) One member
+appointed by the Superintendent of State Police to represent the Department of
+State Police; 
+
+       (e) One member
+appointed by the Director of the Department of Public Safety Standards and
+Training to represent the Department of Public Safety Standards and Training; 
+
+       (f) One member
+appointed by the Director of the Oregon Health Authority to represent the
+Oregon Health Authority; 
+
+       (g) One member
+appointed by the Director of Transportation to represent the Department of
+Transportation; 
+
+       (h) One member
+appointed by the Attorney General to represent the Department of Justice; 
+
+       (i) One member
+appointed by the State Forester to represent the State Forestry Department; 
+
+       (j) Seven members
+appointed by the Governor as follows: 
+
+       (A) One member to
+represent counties; 
+
+       (B) One member to
+represent cities; 
+
+       (C) One member
+with experience in emergency preparedness to represent regional organizations; 
+
+       (D) One member
+with experience in emergency preparedness to represent local organizations; 
+
+       (E) One member
+representing the private sector; 
+
+       (F) One member
+representing the nonprofit community with a designated emergency support
+function responsibility; and 
+
+       (G) One member to
+represent Indian tribes in Oregon; and 
+
+       (k) Additional
+members appointed by the Governor as the Governor may deem necessary. 
+
+       (3) In making
+appointments under this section, the Governor shall: 
+
+       (a) To the extent
+possible, ensure that for each federal emergency support function, there is at
+least one member of the council with experience or knowledge relating to that
+function; and 
+
+       (b) Strive to
+maintain linguistic, socioeconomic and experiential diversity among members of
+the council. 
+
+       (4)(a) The
+council may research international and national best practices and make formal
+recommendations to the State Resilience Officer or the Governor as needed, with
+special emphasis given to connecting statewide policy recommendations with
+state and federal emergency support function capabilities. 
+
+       (b) The council
+shall advise and make policy recommendations to the Oregon Homeland Security
+Council regarding federal emergency support functions. 
+
+       (5) A majority of
+the members of the Emergency Preparedness Advisory Council constitutes a quorum
+for the transaction of business. 
+
+       (6) Official
+action by the council requires the approval of a majority of the members of the
+council. 
+
+       (7) The council
+shall elect one of its members to serve as chairperson. 
+
+       (8) If there is a
+vacancy for any cause, the appointing authority shall make an appointment to
+become immediately effective. 
+
+       (9) The council
+shall meet at least once quarterly at the place specified by the call of the
+chairperson or of a majority of the members of the council. 
+
+       (10) The council
+may adopt rules necessary for the operation of the council. 
+
+       (11) The Oregon
+Department of Emergency Management shall provide staff support to the council. 
+
+       (12) Members of
+the council are not entitled to compensation or reimbursement for expenses and
+serve as volunteers on the council. 
+
+       (13) All agencies
+of state government, as defined in ORS 174.111, are directed to assist the
+council in the performance of the duties of the council and, to the extent
+permitted by laws relating to confidentiality, to furnish information and
+advice the members of the council consider necessary to perform their duties.
+[2021 c.539 §151; 2022 c.55 §13] 
+
+       Sec. 151a. Section 151 of this 2021 Act is
+repealed on January 2, 2030. [2021 c.539 §151a] 
+
+       Sec. 152.
+Local Government Emergency Management Advisory Council. (1) The Local Government Emergency
+Management Advisory Council is established within the Oregon Department of
+Emergency Management. 
+
+       (2) The council
+consists of 11 members appointed by the Governor as follows: 
+
+       (a) One member to
+represent an organization representing Oregon counties; 
+
+       (b) One member to
+represent an organization representing Oregon cities; 
+
+       (c) One member to
+represent emergency medical service providers; 
+
+       (d) One member to
+represent fire departments; 
+
+       (e) One member to
+represent a statewide association of emergency managers, emergency responders,
+government agencies and elected officials committed to minimizing the impact of
+disasters in Oregon; 
+
+       (f) One member to
+represent county sheriffs; 
+
+       (g) One member to
+represent 9-1-1 emergency dispatchers; 
+
+       (h) One member to
+represent volunteer emergency medical service providers; and 
+
+       (i) Three members
+with experience relating to emergency preparedness or management to represent
+the public. 
+
+       (3) The council
+shall provide advice and recommendations to the Oregon Department of Emergency
+Management regarding its emergency preparedness and response functions. 
+
+       (4) A majority of
+the members of the council constitutes a quorum for the transaction of
+business. 
+
+       (5) Official
+action by the council requires the approval of a majority of the members of the
+council. 
+
+       (6) The council
+shall elect one of its members to serve as chairperson. 
+
+       (7) If there is a
+vacancy for any cause, the Governor shall make an appointment to become
+immediately effective. 
+
+       (8) The council
+shall meet at times and places specified by the call of the chairperson or of a
+majority of the members of the council. 
+
+       (9) The council
+may adopt rules necessary for the operation of the council. 
+
+       (10) The
+department shall provide staff support to the council. 
+
+       (11) Members of
+the council are not entitled to compensation or reimbursement for expenses and serve
+as volunteers on the council. 
+
+       (12) All agencies
+of state government, as defined in ORS 174.111, are directed to assist the
+council in the performance of the duties of the council and, to the extent
+permitted by laws relating to confidentiality, to furnish information and
+advice the members of the council consider necessary to perform their duties.
+[2021 c.539 §152] 
+
+       Sec. 152a. Section 152 of this 2021 Act is
+repealed on January 2, 2030. [2021 c.539 §152a] 
+
+   
+
+       401.125 [Formerly 401.630; renumbered
+401.232 in 2009] 
+
+   
+
+       401.130 [Repealed by 1983 c.586 §49] 
+
+   
+
+       401.135 [Formerly 401.640; 1997 c.14 §1;
+renumbered 401.234 in 2009] 
+
+   
+
+       401.140 [Repealed by 1983 c.586 §49] 
+
+   
+
+       401.145 [Formerly 401.650; renumbered
+401.178 in 2009] 
+
+   
+
+       401.150 [Repealed by 1983 c.586 §49] 
+
+   
+
+       401.155 [Formerly 401.660; 2009 c.718 §43;
+renumbered 401.236 in 2009] 
+
+   
+
+       401.160 [Amended by 1953 c.6 §4; 1955
+c.451 §1; repealed by 1983 c.586 §49] 
+
+   
+
+ (Declaration of State
+of Emergency) 
+
+   
+
+       401.165
+Declaration of state of emergency; procedures. (1) The Governor by proclamation
+may declare a state of emergency at the request of a county governing body or
+after determining that an emergency has occurred or is imminent. 
+
+       (2) All requests
+by a county governing body that the Governor declare an emergency shall be sent
+to the Oregon Department of Emergency Management. Cities must submit requests
+through the governing body of the county in which the majority of the city’s
+property is located. Requests from counties shall be in writing and include the
+following: 
+
+       (a) A
+certification signed by the county governing body that all local resources have
+been expended; and 
+
+       (b) A preliminary
+assessment of property damage or loss, injuries and deaths. 
+
+       (3)(a) If, in the
+judgment of the Director of the Oregon Department of Emergency Management, the
+Governor cannot be reached by available communications facilities in time to
+respond appropriately to an emergency, the director shall notify the Secretary
+of State or, if the Secretary of State is not available, the State Treasurer
+that the Governor is not available. 
+
+       (b) After notice
+from the director that the Governor is not available, the elected state
+official so notified may declare a state of emergency pursuant to the
+provisions of subsections (1) and (2) of this section. 
+
+       (c) If the
+director is unavailable to carry out the duties described in this subsection,
+such duties shall be performed by the Adjutant General. 
+
+       (4) Any state of
+emergency declared by the Secretary of State or State Treasurer pursuant to
+this section has the same force and effect as if declared by the Governor,
+except that it must be affirmed by the Governor as soon as the Governor is
+reached. However, if the Governor does not set aside the declaration within 24
+hours of being reached, the declaration shall be considered affirmed by the
+Governor. 
+
+       (5) Any
+declaration of a state of emergency must specify the geographical area covered
+by the declaration. Such area shall be no larger than necessary to effectively
+respond to the emergency. 
+
+       (6) The governing
+body of each county shall establish a procedure for receiving, processing and
+transmitting to the Oregon Department of Emergency Management, in a timely
+manner, a request submitted by a city that the Governor declare a state of
+emergency. [Formerly 401.055; 2021 c.539 §33] 
+
+   
+
+       401.168
+Governor’s powers during state of emergency; suspension of agency rules. (1) During a state of emergency,
+the Governor has complete authority over all executive agencies of state
+government and the right to exercise, within the area designated in the
+proclamation, all police powers vested in the state by the Oregon Constitution
+in order to effectuate the purposes of this chapter. 
+
+       (2) During a
+state of emergency, the Governor has authority to suspend provisions of any
+order or rule of any state agency, if the Governor determines and declares that
+strict compliance with the provisions of the order or rule would in any way
+prevent, hinder or delay mitigation of the effects of the emergency. 
+
+       (3) During a
+state of emergency, the Governor has authority to direct any agencies in the
+state government to utilize and employ state personnel, equipment and
+facilities for the performance of any activities designed to prevent or
+alleviate actual or threatened damage due to the emergency, and may direct the
+agencies to provide supplemental services and equipment to local governments to
+restore any services in order to provide for the health and safety of the
+citizens of the affected area. [Formerly 401.065] 
+
+   
+
+       401.170 [Amended by 1963 c.179 §1; 1971
+c.766 §1; repealed by 1983 c.586 §49] 
+
+   
+
+       401.175
+Additional powers during emergency. 
+During the existence of an emergency, the Governor may: 
+
+       (1) Assume
+complete control of all emergency operations in the area specified in a
+proclamation of a state of emergency issued under ORS 401.165, direct all
+rescue and salvage work and do all things deemed advisable and necessary to
+alleviate the immediate conditions. 
+
+       (2) Assume
+control of all police and law enforcement activities in such area, including
+the activities of all local police and peace officers. 
+
+       (3) Close all
+roads and highways in such area to traffic or by order of the Governor limit
+the travel on such roads to such extent as the Governor deems necessary and
+expedient. 
+
+       (4) Designate
+persons to coordinate the work of public and private relief agencies operating
+in such area and exclude from such area any person or agency refusing to
+cooperate with and work under such coordinator or to cooperate with other
+agencies engaged in emergency work. 
+
+       (5) Require the
+aid and assistance of any state or other public or quasi-public agencies in the
+performance of duties and work attendant upon the emergency conditions in such
+area. [Formerly 401.115; 2020 s.s.2 c.2 §§1,2; 2021 c.3 §§1,2] 
+
+   
+
+       401.178
+Removal of disaster debris or wreckage; unconditional authorization of
+community; liability for injury or damage. (1) Whenever the Governor has declared a disaster
+emergency to exist under the laws of this state, or the President of the United
+States, at the request of the Governor, has declared a major disaster or
+emergency to exist in this state, the Governor is authorized: 
+
+       (a) Through the
+use of state departments or agencies, or the use of any of the state’s
+instrumentalities, to clear or remove from publicly or privately owned land or
+water, debris and wreckage which may threaten public health or safety, or
+public or private property. 
+
+       (b) To accept
+funds from the federal government and utilize such funds to make grants to any
+political subdivision for the purpose of removing debris or wreckage from
+publicly or privately owned land or water. 
+
+       (2) Authority
+under subsection (1) of this section shall not be exercised unless the affected
+political subdivision, corporation, organization, or individual shall first
+present an unconditional authorization for removal of such debris or wreckage
+from public and private property and, in the case of removal of debris or
+wreckage from private property, shall first agree to indemnify the state
+government against any claim arising from such removal. 
+
+       (3) Whenever the
+Governor provides for clearance of debris or wreckage pursuant to subsections
+(1) and (2) of this section, employees of the designated state agencies or
+individuals appointed by the Governor are authorized to enter upon private
+lands or waters and perform any tasks necessary to the removal or clearance
+operation. 
+
+       (4) Except in
+cases of willful misconduct, gross negligence or bad faith, any state employee
+or individual appointed by the Governor authorized to perform duties necessary
+to the removal of debris or wreckage shall not be liable for death of or injury
+to persons or damage to property. [Formerly 401.145] 
+
+   
+
+       401.180 [Repealed by 1983 c.586 §49] 
+
+   
+
+       401.185
+Providing temporary housing during emergency. Whenever the Governor has declared a state of
+emergency or the President of the United States has declared an emergency or a
+major disaster to exist in this state, the Governor, with the concurrence of
+the Joint Committee on Ways and Means or the Emergency Board, if the
+Legislative Assembly is not in session, is authorized: 
+
+       (1) To enter into
+purchase, lease or other arrangements with any agency of the United States for
+temporary housing units to be occupied by disaster victims and to make the
+units available to local governments of the state. 
+
+       (2) To assist any
+local government of this state which requires temporary housing for disaster
+victims following the declaration of a state of emergency to acquire and
+prepare a site to receive and utilize temporary housing units by: 
+
+       (a) Advancing or
+lending funds available to the Governor from any appropriation made by the
+Legislative Assembly or from any other source; and 
+
+       (b) Passing
+through funds made available by any public or private agency. [Formerly
+401.074] 
+
+   
+
+       401.186 Waiver
+of waiting period for unemployment benefits. If the Governor by proclamation has declared a state
+of emergency under ORS 401.165, the Governor may waive the one-week waiting
+period required by ORS 657.155 for persons making a claim for unemployment
+benefits who reside within the geographical area subject to the proclamation
+and specified by the Governor. [2008 c.23 §2] 
+
+   
+
+       Note: Section 4, chapter 23, Oregon Laws
+2008, provides: 
+
+       Sec. 4. Sections 1 and 2 [401.186] of this
+2008 Act and the amendments to ORS 657.155 by section 3 of this 2008 Act become
+operative when federal law permits without penalty a waiver under section 2 of
+this 2008 Act of the one-week waiting period required by ORS 657.155. [2008
+c.23 §4] 
+
+   
+
+       401.188
+Management of resources during emergency; rules. Whenever the Governor has declared
+a state of emergency, the Governor may issue, amend and enforce rules and
+orders to: 
+
+       (1) Control,
+restrict and regulate by rationing, freezing, use of quotas, prohibitions on
+shipments, price fixing, allocation or other means, the use, sale or
+distribution of food, feed, fuel, clothing and other commodities, materials,
+goods and services; 
+
+       (2) Prescribe and
+direct activities in connection with use, conservation, salvage and prevention
+of waste of materials, services and facilities, including, but not limited to,
+production, transportation, power and communication facilities training, and supply
+of labor, utilization of industrial plants, health and medical care, nutrition,
+housing, rehabilitation, education, welfare, child care, recreation, consumer
+protection and other essential civil needs; and 
+
+       (3) Take any
+other action that may be necessary for the management of resources following an
+emergency. [Formerly 401.085] 
+
+   
+
+       401.190 [Amended by 1963 c.528 §5;
+repealed by 1983 c.586 §49] 
+
+   
+
+       401.192 Effect
+of rules and orders during emergency; scope; effect; termination. (1) All rules and orders issued
+under authority conferred by ORS 401.165 to 401.236 shall have the full force
+and effect of law both during and after the declaration of a state of
+emergency. All existing laws, ordinances, rules and orders inconsistent with
+ORS 401.165 to 401.236 shall be inoperative during the period of time and to
+the extent such inconsistencies exist. 
+
+       (2) The authority
+exercised under ORS 401.165 to 401.236 may be exercised with respect to the
+entire territory over which the Governor has jurisdiction, or to any specified
+part thereof. 
+
+       (3) When real or
+personal property is taken under power granted by ORS 401.188, the owner of the
+property shall be entitled to reasonable compensation from the state. 
+
+       (4) The powers
+granted to the Governor by ORS 401.165 to 401.236 shall continue until
+termination of the state of emergency. The powers granted to the Governor by
+ORS 401.185 may continue beyond the termination of the state of emergency and
+shall be terminated by proclamation of the Governor or by joint resolution of
+the Legislative Assembly. [Formerly 401.095] 
+
+   
+
+       401.195 [1981 c.763 §2; repealed by 1983
+c.586 §49] 
+
+   
+
+       401.198
+Seizure of firearms during emergency. 
+(1) As used in this section, “unit of government” means any department or
+agency of the federal government and any public body as defined by ORS 174.109. 
+
+       (2)
+Notwithstanding ORS 401.165 to 401.236, a unit of government may not seize a
+firearm from an individual who lawfully possesses the firearm during a state of
+emergency declared under ORS 401.165. 
+
+       (3) If a unit of
+government seizes a firearm from an individual during a state of emergency in
+violation of this section, the individual may recover from the unit of
+government that seized the firearm all costs incurred in the recovery of the
+firearm, including attorney fees, court costs and any other costs incurred in
+the recovery of the firearm. [Formerly 401.039] 
+
+   
+
+       401.200 [1981 c.763 §3; 1983 c.586 §27;
+renumbered 401.355] 
+
+   
+
+       401.204
+Termination of state of emergency. 
+(1) The Governor shall terminate the state of emergency by proclamation when
+the emergency no longer exists, or when the threat of an emergency has passed. 
+
+       (2) The state of
+emergency proclaimed by the Governor may be terminated at any time by joint
+resolution of the Legislative Assembly. [Formerly 401.105] 
+
+   
+
+       401.205 [1981 c.763 §4; 1983 c.586 §28;
+renumbered 401.365] 
+
+   
+
+       401.210 [Formerly 401.820; 1983 c.586 §29;
+renumbered 401.375] 
+
+   
+
+       401.215 [Formerly 401.830; 1983 c.586 §30;
+renumbered 401.385] 
+
+   
+
+       401.220 [1981 c.763 §5; 1983 c.586 §31;
+renumbered 401.395] 
+
+   
+
+       401.225 [1981 c.763 §6; 1983 c.586 §32;
+renumbered 401.405] 
+
+   
+
+       401.230 [1981 c.763 §7; 1983 c.586 §33;
+renumbered 401.415] 
+
+   
+
+ (Declaration of Major
+Disaster) 
+
+   
+
+       401.232
+Federal financial assistance to political subdivision. Whenever, at the request of the
+Governor, the President of the United States has declared a major disaster to
+exist in this state, the Governor is authorized: 
+
+       (1) Upon
+determination that a political subdivision of the state will suffer a
+substantial loss of tax and other revenues from a major disaster and has
+demonstrated a need for financial assistance to perform its governmental
+functions, to apply to the federal government, on behalf of the political
+subdivision, for a loan; and to receive and disburse the proceeds of any
+approved loan to any applicant political subdivision. 
+
+       (2) To determine
+the amount needed to restore or resume its governmental functions, and to
+certify the same to the federal government, provided, however, that no
+application amount shall exceed 25 percent of the annual operating budget of
+the applicant political subdivision for the fiscal year in which the major
+disaster occurs. 
+
+       (3) To recommend
+to the federal government, based upon the review of the Governor, the
+cancellation of all or any part of repayment when, in the first three full
+fiscal year period following the major disaster, the revenues of the political
+subdivision are insufficient to meet its operating expenses, including
+additional disaster-related expenses of a municipal operation character. [Formerly
+401.125] 
+
+   
+
+       401.234
+Federal financial assistance to individuals or families. Whenever the President of the
+United States, at the request of the Governor, with the concurrence of the
+Emergency Board or Joint Ways and Means Committee of the Legislative Assembly,
+has declared a major disaster to exist in this state, the Governor is
+authorized: 
+
+       (1) Upon
+determination that financial assistance is essential to meet disaster-related
+necessary expenses or serious needs of individuals or families adversely
+affected by a major disaster that cannot be otherwise adequately met from other
+means of assistance, to accept a grant by the federal government to fund such
+financial assistance, subject to such terms and conditions as may be imposed
+upon the grant. 
+
+       (2) To enter into
+an agreement with the federal government, or any officer or agency thereof,
+pledging the state to participate in the funding of the assistance authorized
+in subsection (1) of this section in an amount not to exceed 25 percent
+thereof. 
+
+       (3) To make
+financial grants to help meet disaster-related necessary expenses or serious
+needs of individuals or families adversely affected by a major disaster which
+cannot otherwise adequately be met from other means of assistance. [Formerly
+401.135] 
+
+   
+
+       401.235 [1981 c.763 §8; 1983 c.586 §34;
+renumbered 401.425] 
+
+   
+
+ (Rules for States of
+Emergency and Major Disasters) 
+
+   
+
+       401.236 Rules. The Governor is authorized to make
+rules and regulations necessary to carry out the purposes of ORS 401.165 to
+401.236. [Formerly 401.155] 
+
+   
+
+ (Critical Service
+Providers) 
+
+   
+
+       401.239
+Critical service providers; credentialing; rules. (1) As used in this section, “critical
+service provider” means an individual: 
+
+       (a) Who has
+received credentials under this section and who is employed by, or is acting
+pursuant to a contract under the direction of, an organization deemed by the
+Oregon Department of Emergency Management to be critical to emergency response
+operations in Oregon; and 
+
+       (b) Who is: 
+
+       (A) Maintaining,
+including repairing or resupplying, critical infrastructure equipment or
+systems; 
+
+       (B) Maintaining
+continuity of operations of the individual’s organization; 
+
+       (C) Supporting
+emergency response activities; or 
+
+       (D) Providing
+technical support services to another critical service provider. 
+
+       (2) Unless
+prohibited by state or federal law or in the discretion of the incident
+commander during a state of emergency declared under ORS 401.165, a critical
+service provider may: 
+
+       (a) Travel on
+public roads within a geographic area subject to a declaration of a state of
+emergency under ORS 401.165; 
+
+       (b) Access the
+geographic area for a purpose described in subsection (1)(b) of this section;
+and 
+
+       (c) Access the
+distribution of fuel, food, water, supplies, equipment and any other materials
+necessary to carry out a purpose described in subsection (1)(b) of this
+section. 
+
+       (3) An emergency
+service agency may not seize a vehicle, fuel, food, water or other essential
+materials in the possession of a critical service provider. 
+
+       (4) The
+department may establish sector-specific programs for the credentialing of
+individuals as critical service providers. Such programs must inform critical service
+providers about: 
+
+       (a) Risks
+associated with entering a geographic area subject to a declaration of a state
+of emergency under ORS 401.165; 
+
+       (b) Best
+practices for working safely in the geographic area; and 
+
+       (c) Best
+practices for working in a geographic area without hindering or interfering
+with the conduct of emergency services by an emergency service agency. 
+
+       (5) The
+department may authorize one or more private entities organized under the laws
+of this state to establish sector-specific programs for the credentialing of
+individuals as critical service providers, subject to the following
+requirements: 
+
+       (a) The
+department may authorize a private entity under this subsection only if the
+entity represents a majority of owners and operators in the sector for which
+the entity will establish a credentialing program. 
+
+       (b) A program
+established under this subsection must meet the requirements set forth in
+subsection (4) of this section. 
+
+       (c) An entity
+authorized by the department under this section to establish a credentialing
+program shall annually submit to the department a report regarding the
+operation of the program, including any changes to the program. 
+
+       (6) The
+department may adopt rules to administer and implement the provisions of this
+section. [2015 c.151 §2; 2021 c.270 §1; 2021 c.539 §34a] 
+
+   
+
+       401.240 [1981 c.763 §9; 1983 c.586 §35;
+renumbered 401.435] 
+
+   
+
+       401.245 [1981 c.763 §10; 1983 c.586 §36;
+renumbered 401.445] 
+
+   
+
+       401.250 [1981 c.763 §11; 1983 c.586 §37;
+renumbered 401.455] 
+
+   
+
+       401.255 [1981 c.763 §12; 1983 c.586 §38;
+renumbered 401.465] 
+
+   
+
+ (Oregon Safety
+Assessment Program) 
+
+   
+
+       401.256 Oregon
+Safety Assessment Program; rules. 
+(1) As used in this section, “emergency” has the meaning given that term in ORS
+401.025. 
+
+       (2) The State
+Fire Marshal shall develop and administer a statewide program, as described in
+this section, to evaluate the condition of buildings after an emergency and
+determine whether the buildings may be safely occupied. The program shall be
+known as the Oregon Safety Assessment Program (OrSAP). 
+
+       (3) Under the
+program: 
+
+       (a) The State
+Fire Marshal shall develop standards and procedures for training and certifying
+building evaluators. 
+
+       (b) The State
+Fire Marshal shall develop standards and procedures for determining whether
+buildings may be safely occupied after an emergency. Standards adopted under
+this paragraph must align with national standards. 
+
+       (c) The State
+Fire Marshal shall work with local governments to designate local program
+coordinators who are responsible for implementing the program at the local
+government level, including authorizing certified building evaluators to
+perform work on behalf of the local government. 
+
+       (d) The State
+Fire Marshal shall implement a statewide emergency registry system for
+registration of local program coordinators, certified building evaluators and
+approved trainers. The system must allow for efficient communication of
+information to registered individuals. 
+
+       (e) The State
+Fire Marshal may enter into agreements with other states to provide mutual aid,
+which may include reciprocal recognition of certifications for skills related
+to building evaluation. 
+
+       (4) In developing
+and implementing the program, the State Fire Marshal shall consult with: 
+
+       (a) Local
+governments; 
+
+       (b) Relevant
+state agencies or offices, including the Department of Consumer and Business
+Services; and 
+
+       (c) Relevant
+professional organizations, including organizations representing architects,
+engineers and building safety professionals. 
+
+       (5) The State
+Fire Marshal shall adopt rules to administer and implement the provisions of
+this section. [2019 c.649 §1] 
+
+   
+
+       Note: 401.256 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.257 [2007 c.740 §2; 2009 c.718 §35;
+renumbered 401.052 in 2009] 
+
+   
+
+       401.259 [2007 c.740 §8; 2009 c.595 §224;
+renumbered 401.054 in 2009] 
+
+   
+
+       401.260 [1983 c.586 §10; 1993 c.187 §4;
+repealed by 2007 c.740 §42] 
+
+   
+
+       401.261 [2007 c.740 §3; renumbered 401.062
+in 2009] 
+
+   
+
+       401.263 [2007 c.740 §4; renumbered 401.072
+in 2009] 
+
+   
+
+       401.265 [2007 c.740 §5; renumbered 401.076
+in 2009] 
+
+   
+
+       401.267 [2007 c.740 §6; renumbered 401.082
+in 2009] 
+
+   
+
+       401.269 [2007 c.740 §7; renumbered 401.088
+in 2009] 
+
+   
+
+       401.270 [1983 c.586 §11; 1993 c.187 §5;
+2003 c.556 §2; 2005 c.526 §10; 2005 c.813 §3; 2005 c.825 §10; 2007 c.740 §22;
+2009 c.718 §42; renumbered 401.092 in 2009] 
+
+   
+
+       401.271 [2007 c.98 §1; renumbered 401.975
+in 2009] 
+
+   
+
+       401.272 [2007 c.98 §3; 2009 c.718 §30;
+renumbered 401.977 in 2009] 
+
+   
+
+       401.273 [2007 c.98 §4; renumbered 404.350
+in 2009] 
+
+   
+
+       401.274 [2007 c.98 §5; 2009 c.718 §31;
+renumbered 401.978 in 2009] 
+
+   
+
+       401.275 [1993 c.187 §8; 2007 c.740 §23;
+2009 c.718 §36; renumbered 401.094 in 2009] 
+
+   
+
+       401.280 [1983 c.586 §22; 1993 c.187 §6;
+2007 c.740 §24; 2008 c.18 §8; renumbered 401.096 in 2009] 
+
+   
+
+       401.282 [2005 c.526 §1; renumbered 403.400
+in 2009] 
+
+   
+
+       401.284 [2005 c.526 §3; renumbered 403.405
+in 2009] 
+
+   
+
+       401.286 [2005 c.526 §4; renumbered 403.410
+in 2009] 
+
+   
+
+       401.288 [2005 c.526 §5; renumbered 403.415
+in 2009] 
+
+   
+
+       401.290 [2005 c.526 §6; renumbered 403.420
+in 2009] 
+
+   
+
+       401.292 [2005 c.526 §7; renumbered 403.425
+in 2009] 
+
+   
+
+       401.294 [2005 c.526 §8; renumbered 403.430
+in 2009] 
+
+   
+
+       401.296 [2005 c.526 §9; renumbered 403.435
+in 2009] 
+
+   
+
+       401.300 [2005 c.813 §2; 2007 c.740 §25;
+2009 c.595 §225; renumbered 401.910 in 2009] 
+
+   
+
+ EMERGENCY MANAGEMENT BY
+CITIES, COUNTIES AND 
+
+ TRIBAL GOVERNMENTS 
+
+   
+
+ (Emergency Management
+Agency) 
+
+   
+
+       401.305 Emergency
+management agency of city, county or tribal government; emergency program
+manager; coordination of emergency management functions. (1) As used in this section, “tribal
+government” means a federally recognized sovereign tribal government operating
+within the borders of this state or an intertribal organization formed by two
+or more federally recognized sovereign tribal governments operating within this
+state. 
+
+       (2) Each county
+of this state shall, and each city or tribal government may, establish an
+emergency management agency that is directly responsible to the executive
+officer or governing body of the county, city or tribe. 
+
+       (3) The executive
+officer or governing body of each county, and any city or tribe that
+participates, shall appoint an emergency program manager who is responsible for
+the organization, administration and operation of the emergency management
+agency, subject to the direction and control of the county, city or tribe. 
+
+       (4) When a city
+or tribal government has an emergency management agency, the city or tribal
+government, as applicable, and the counties within which the city or tribal
+government operates shall jointly establish policies that: 
+
+       (a) Provide
+direction and identify and define the purpose and roles of the individual
+emergency management programs; 
+
+       (b) Specify the
+responsibilities of the emergency program managers and staff; and 
+
+       (c) Establish
+lines of communication, succession and authority of elected officials for an
+effective and efficient response to emergency conditions. 
+
+       (5) Each
+emergency management agency shall perform emergency program management
+functions within the territorial limits of the county, city or tribal
+government and may perform the functions outside the territorial limits as
+required under any mutual aid or cooperative assistance agreement or as
+requested and authorized by the county or city in whose territorial limits the
+emergency functions are performed. 
+
+       (6) The emergency
+management functions include, at a minimum: 
+
+       (a) Coordination
+of the planning activities necessary to prepare and maintain a current
+emergency operations plan, management and maintenance of emergency operating
+facilities from which elected and appointed officials can direct emergency and
+disaster response activities; 
+
+       (b) Establishment
+of an incident command structure for management of a coordinated response by
+all local emergency service agencies; and 
+
+       (c) Coordination
+with the Oregon Department of Emergency Management to integrate effective
+practices in emergency preparedness and response as provided in the National
+Incident Management System established by the Homeland Security Presidential
+Directive 5 of February 28, 2003. [1983 c.586 §12; 1993 c.187 §9; 2005 c.825 §11;
+2013 c.189 §2; 2021 c.539 §35] 
+
+   
+
+       401.307
+Emergency management agency appropriation; tax levy. (1) Each county and city may make
+appropriations, in the manner provided by law for making appropriations for the
+expenses of the county or city, for the payment of expenses of its emergency
+management agency and may levy taxes upon the taxable property within the
+county or city. 
+
+       (2) An
+appropriation made under subsection (1) of this section shall be budgeted so
+that it is possible to identify it as a distinguishable expense category. [Formerly
+401.325] 
+
+   
+
+ (Declaration of State
+of Emergency) 
+
+   
+
+       401.309
+Declaration of state of emergency by city or county; procedures; mandatory
+evacuations. (1)
+The governing body of a city or county in this state may declare, by ordinance
+or resolution, that a state of emergency exists within the city or county. The
+ordinance or resolution must limit the duration of the state of emergency to
+the period of time during which the conditions giving rise to the declaration
+exist or are likely to remain in existence. 
+
+       (2) A city or
+county in this state may, by ordinance or resolution, establish procedures to
+prepare for and carry out any activity to prevent, minimize, respond to or
+recover from an emergency. The ordinance or resolution shall describe the
+conditions required for the declaration of a state of emergency within the
+jurisdiction. 
+
+       (3) An ordinance
+or resolution adopted under subsection (2) of this section may designate the
+emergency management agency, if any, or any other agency or official of the
+city or county as the agency or official charged with carrying out emergency
+duties or functions under the ordinance. 
+
+       (4) A city or
+county may authorize an agency or official to order mandatory evacuations of
+residents and other individuals after a state of emergency is declared under
+this section. An evacuation under an ordinance or resolution authorized under
+subsection (2) of this section shall be ordered only when necessary for public
+safety or when necessary for the efficient conduct of activities that minimize
+or mitigate the effects of the emergency. 
+
+       (5) Nothing in
+this section shall be construed to affect or diminish the powers of the
+Governor during a state of emergency declared under ORS 401.165. The provisions
+of ORS 401.165 to 401.236 supersede the provisions of an ordinance or
+resolution authorized by this section when the Governor declares a state of
+emergency within any area in which such an ordinance or resolution applies. [1997
+c.361 §2; 2009 c.718 §32] 
+
+   
+
+       401.310 [Amended by 1953 c.394 §10; 1969
+c.80 §12; repealed by 1983 c.586 §49] 
+
+   
+
+       401.315 City
+or county authorized to incur obligations for emergency services; county
+determination of emergency. 
+In carrying out the provisions of this chapter, counties or cities may enter
+into contracts and incur obligations necessary to mitigate, prepare for,
+respond to or recover from an emergency or major disaster. A county shall
+assess whether an emergency exists. [1983 c.586 §13; 1991 c.418 §2; 2009 c.718 §44] 
+
+   
+
+       401.320 [Amended by 1953 c.394 §10;
+repealed by 1983 c.586 §49] 
+
+   
+
+       401.325 [1983 c.586 §14; renumbered
+401.307 in 2009] 
+
+   
+
+       401.330 [Amended by 1953 c.394 §10;
+repealed by 1983 c.586 §49] 
+
+   
+
+       401.335
+Temporary housing for disaster victims; political subdivision’s authority. Any political subdivision of this
+state is expressly authorized to acquire, temporarily or permanently, by
+purchase, lease, or otherwise, sites required for installation of temporary
+housing units for disaster victims, and to enter into arrangements necessary to
+prepare or equip such sites to utilize the housing units. [Formerly 401.620] 
+
+   
+
+       401.337 [1991 c.956 §2; 1993 c.187 §10;
+1995 c.511 §1; 1997 c.520 §§1,1a; 2007 c.740 §26; renumbered 401.915 in 2009] 
+
+   
+
+       401.340 [Amended by 1953 c.394 §10;
+repealed by 1983 c.586 §49] 
+
+   
+
+ (Local Programs for
+Private Building Inspections) 
+
+   
+
+       401.341
+Building inspections by private qualified professionals; rules. (1) Local governments may enact
+local programs under which owners of buildings may, prior to an emergency,
+enter into agreements with private qualified professionals to conduct building
+inspections following an emergency to determine whether buildings may be safely
+occupied. 
+
+       (2) A local
+program enacted under this section must: 
+
+       (a) Require that
+owners of buildings receive approval from the local government before entering
+into an agreement with a qualified professional under the program; and 
+
+       (b) Require that
+qualified professionals receive approval from the local government before
+entering into an agreement with a building owner under the program. 
+
+       (3) If a local
+government enacts a local program under this section, the local government
+shall provide the State Fire Marshal with all laws and regulations governing
+the program, as well as any other information requested by the State Fire Marshal. 
+
+       (4) The State
+Fire Marshal may, by rule, impose additional restrictions on local programs
+enacted under this section as necessary or advisable to promote safe and
+efficient response and recovery after an emergency. 
+
+       (5) As used in
+this section: 
+
+       (a) “Emergency”
+has the meaning given that term in ORS 401.025. 
+
+       (b) “Local
+government” has the meaning given that term in ORS 174.116. 
+
+       (c) “Qualified
+professional” means an individual who is: 
+
+       (A) Registered
+and has a valid certificate to practice engineering issued under ORS 672.002 to
+672.325; or 
+
+       (B) Qualified and
+registered to practice architecture under ORS 671.010 to 671.220. [2019 c.649 §2] 
+
+   
+
+       Note: 401.341 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.343 [1991 c.956 §4; 1997 c.520 §2;
+2005 c.813 §4; renumbered 401.918 in 2009] 
+
+   
+
+       401.345 [1991 c.956 §§5,6,7; 1995 c.511 §2;
+1997 c.520 §3; renumbered 401.920 in 2009] 
+
+   
+
+       401.347 [1991 c.956 §8; 2007 c.740 §27;
+2009 c.595 §226; renumbered 401.922 in 2009] 
+
+   
+
+       401.350 [Amended by 1953 c.394 §10;
+repealed by 1983 c.586 §49] 
+
+   
+
+       401.353 [1991 c.956 §9; renumbered 401.925
+in 2009] 
+
+   
+
+       401.355 [Formerly 401.200; repealed by
+2009 c.718 §6] 
+
+   
+
+ EMERGENCY SERVICE
+VOLUNTEERS 
+
+   
+
+       401.358
+Definitions for ORS 401.358 to 401.368. As used in ORS 401.358 to 401.368: 
+
+       (1) “Emergency
+service activities” means: 
+
+       (a) The provision
+of emergency services; and 
+
+       (b) Engaging in
+training under the direction of a public body, whether by reason of the
+training being conducted or approved by a public body, for the purpose of
+preparing qualified emergency service volunteers to perform emergency services. 
+
+       (2) “Qualified
+emergency service volunteer” means a person who is: 
+
+       (a) Registered
+with the Oregon Department of Emergency Management or other public body to
+perform emergency service activities; 
+
+       (b) Acknowledged
+in writing as a qualified emergency service volunteer, at the time the person
+offers to volunteer during an emergency, by the Oregon Department of Emergency
+Management or by another public body; 
+
+       (c) A member of
+the Oregon Civil Defense Force; or 
+
+       (d) A building
+evaluator certified under the Oregon Safety Assessment Program established
+under ORS 401.256. [2009 c.718 §2; 2017 c.472 §9; 2019 c.649 §3; 2021 c.539 §36] 
+
+   
+
+       401.360 [Amended by 1953 c.394 §10;
+repealed by 1983 c.586 §49] 
+
+   
+
+       401.362
+Application. ORS
+401.358 to 401.368 apply only to a qualified emergency service volunteer who is
+performing emergency service activities under the direction of a public body
+without compensation from the public body other than reimbursement for food,
+lodging, costs of transportation and other expenses. [2009 c.718 §3] 
+
+   
+
+       401.364
+Coverage under Oregon Tort Claims Act. 
+(1) A qualified emergency service volunteer is an agent of a public body under
+ORS 30.260 to 30.300 for the purpose of acts and omissions of the volunteer
+that are within the course and scope of the volunteer’s duties if the acts or
+omissions occur: 
+
+       (a) While the
+volunteer is performing emergency service activities under the direction of the
+public body during a state of emergency declared under this chapter, or during
+a state of public health emergency declared under ORS 433.441; or 
+
+       (b) While the
+volunteer is engaged in training being conducted or approved by a public body
+for the purpose of preparing the volunteer to perform emergency services. 
+
+       (2) A public body
+shall defend, save harmless and indemnify a qualified emergency service
+volunteer as required by ORS 30.285 for any tort claim arising out of an act or
+omission described in subsection (1) of this section. [2009 c.718 §4; 2021
+c.539 §79] 
+
+   
+
+       401.365 [Formerly 401.205; repealed by
+2009 c.718 §6] 
+
+   
+
+       401.368
+Workers’ compensation benefits. 
+(1) The Oregon Department of Emergency Management shall provide workers’
+compensation coverage for qualified emergency service volunteers who are
+injured in the course and scope of performing emergency service activities
+under the direction of a public body if the injury occurs: 
+
+       (a) While the
+volunteer is performing emergency service activities under the direction of the
+public body during a state of emergency declared under this chapter, or during
+a state of public health emergency declared under ORS 433.441; or 
+
+       (b) While the
+volunteer is engaged in training being conducted or approved by a public body
+for the purpose of preparing the volunteer to perform emergency services. 
+
+       (2) Workers’
+compensation coverage shall be provided under this section in the manner
+provided by ORS 656.039. [2009 c.718 §5; 2021 c.539 §37] 
+
+   
+
+       401.370 [Amended by 1953 c.394 §10;
+repealed by 1983 c.586 §49] 
+
+   
+
+       401.375 [Formerly 401.210; repealed by
+2009 c.718 §6] 
+
+   
+
+       401.378 Leaves
+of absence for disaster relief or recovery volunteers; requirements; maximum
+period; effect on status of employees. 
+State agencies and political subdivisions described in ORS 243.853 (2) to (6)
+may grant leaves of absence to any public employee who volunteers to
+participate in disaster relief or recovery services in the State of Oregon.
+Cumulative leave granted shall not exceed 15 work days in any 12-month period.
+Such leave granted shall not result in a loss of compensation, seniority,
+vacation time, sick leave or accrued overtime for which the employee is otherwise
+eligible. Compensation to an employee granted leave under this section shall be
+at the employee’s regular rate of pay for those regular work hours during which
+the employee is absent from work. [Formerly 401.485; 2023 c.427 §5] 
+
+   
+
+       401.380 [1953 c.394 §8; 1959 c.403 §1;
+1983 c.586 §39; renumbered 401.535] 
+
+   
+
+       401.385 [Formerly 401.215; 1989 c.361 §9;
+1993 c.187 §11; repealed by 2009 c.718 §6] 
+
+   
+
+       401.395 [Formerly 401.220; 1993 c.187 §12;
+2007 c.70 §157; repealed by 2009 c.718 §6] 
+
+   
+
+       401.405 [Formerly 401.225; repealed by
+2009 c.718 §6] 
+
+   
+
+       401.410 [1967 c.480 §1; repealed by 1983
+c.586 §49] 
+
+   
+
+       401.415 [Formerly 401.230; repealed by
+2009 c.718 §6] 
+
+   
+
+       401.420 [1967 c.480 §2; repealed by 1983
+c.586 §49] 
+
+   
+
+       401.425 [Formerly 401.235; 1993 c.187 §13;
+2007 c.740 §28; repealed by 2009 c.718 §6] 
+
+   
+
+       401.430 [1967 c.480 §3; repealed by 1983
+c.586 §49] 
+
+   
+
+       401.435 [Formerly 401.240; 1993 c.187 §14;
+repealed by 2009 c.718 §6] 
+
+   
+
+       401.440 [1967 c.480 §4; repealed by 1983
+c.586 §49] 
+
+   
+
+       401.445 [Formerly 401.245; 1993 c.187 §15;
+2007 c.740 §29; repealed by 2009 c.718 §6] 
+
+   
+
+       401.450 [1967 c.480 §5; repealed by 1983
+c.586 §49] 
+
+   
+
+       401.455 [Formerly 401.250; repealed by
+2009 c.718 §6] 
+
+   
+
+       401.460 [1967 c.480 §6; repealed by 1983
+c.586 §49] 
+
+   
+
+       401.465 [Formerly 401.255; 1993 c.187 §16;
+repealed by 2009 c.718 §6] 
+
+   
+
+       401.470 [1967 c.480 §7; repealed by 1983
+c.586 §49] 
+
+   
+
+       401.480 [1983 c.586 §15; renumbered
+402.010 in 2009] 
+
+   
+
+       401.485 [1995 c.70 §1; renumbered 401.378
+in 2009] 
+
+       401.490 [1983 c.586 §16; 2009 c.718 §45;
+renumbered 402.015 in 2009] 
+
+   
+
+       401.500 [1983 c.586 §17; renumbered
+402.020 in 2009] 
+
+   
+
+ FUNDING OF EMERGENCY
+SERVICES 
+
+   
+
+       401.505
+Acceptance of aid for emergency services. Whenever any organization, agency, person, firm,
+corporation or officer thereof offers to the state or to any county or city,
+services, equipment, supplies, material or funds by way of gift, grant or loan
+for purposes of emergency program management or emergency services, the state,
+acting through the Governor, or the county or city, acting through its
+executive officer or governing body, may accept the offer. Upon acceptance, the
+Governor or executive officer or governing body of a county or city, as the case
+may be, may authorize any officer thereof to receive the services, equipment,
+supplies, materials or funds on behalf of the state, county or city, subject to
+the terms of the offer and any rules of the agency making the offer. [1983
+c.586 §19] 
+
+   
+
+       401.510 [Repealed by 1983 c.586 §49] 
+
+   
+
+       401.515 [1983 c.586 §20; 2005 c.825 §12;
+repealed by 2009 c.718 §6] 
+
+   
+
+       401.520 [Repealed by 1983 c.586 §49] 
+
+   
+
+       401.525 Use of
+moneys and property for emergency services authorized. (1) The expenditure of necessary
+money and use of state property by any agency in performing duties in an
+emergency is authorized. Moneys so expended shall be deemed an administrative
+expense of the agency. 
+
+       (2) If the
+Governor finds that funds regularly appropriated to state and local governments
+are not sufficient to cope with a particular emergency, the Governor may, with
+the concurrence of the Joint Committee on Ways and Means or the Emergency
+Board, when the Legislative Assembly is not in session, transfer and expend
+moneys appropriated for other purposes. [1983 c.586 §21] 
+
+   
+
+       401.530 [Amended by 1983 c.586 §39a;
+renumbered 401.115] 
+
+   
+
+       401.532 Oregon
+Pre-Disaster Mitigation Fund; rules. 
+(1) The Oregon Pre-Disaster Mitigation Fund is established in the State
+Treasury, separate and distinct from the General Fund. Moneys received from
+federal grants for pre-disaster mitigation efforts shall be deposited into the
+Oregon Pre-Disaster Mitigation Fund. Moneys in the fund are continuously
+appropriated to the Oregon Department of Emergency Management to be used to: 
+
+       (a) Help state
+agencies and local government units with Federal Emergency Management Agency
+approved mitigation plans in this state prior to the occurrence of natural
+disasters; and 
+
+       (b) Ensure, to
+the extent possible, that state and local agencies and officials are prepared
+to respond to threats of human-caused disaster, including but not limited to
+acts of terrorism. 
+
+       (2) The Oregon
+Pre-Disaster Mitigation Fund may receive gifts, grants, bequests, endowments
+and donations from public and private sources for purposes related to the fund. 
+
+       (3) The Oregon
+Department of Emergency Management shall adopt rules for the disbursement of
+moneys from the Oregon Pre-Disaster Mitigation Fund. [2008 c.18 §4; 2022 c.55 §3] 
+
+   
+
+       Note: 401.532 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.534 Oregon
+Disaster Response Fund; rules. 
+(1) The Oregon Disaster Response Fund is established in the State Treasury,
+separate and distinct from the General Fund. Moneys received from federal
+grants for disaster response efforts shall be deposited into the Oregon
+Disaster Response Fund. Moneys in the fund are continuously appropriated to the
+Oregon Department of Emergency Management to be used to: 
+
+       (a) Help state
+agencies and local government units with immediate disaster response and
+recovery efforts related to federally declared disasters in this state; and 
+
+       (b) Implement
+long-term hazard mitigation measures after a federally declared disaster in
+this state during the period of immediate recovery from the disaster. 
+
+       (2) The Oregon
+Disaster Response Fund may receive gifts, grants, bequests, endowments and
+donations from public and private sources for purposes related to the fund. 
+
+       (3) The
+department shall adopt rules for the disbursement of moneys from the Oregon
+Disaster Response Fund. 
+
+       (4) If there are
+expenditures from the Oregon Disaster Response Fund, the Director of the Oregon
+Department of Emergency Management shall report to the Emergency Board, or to
+the Legislative Assembly if it is in session, on: 
+
+       (a) The nature
+and severity of the disaster; 
+
+       (b) The actual
+and projected deposits into the fund; 
+
+       (c) The sources
+of actual and projected expenditures from the fund; 
+
+       (d) The nature of
+in-kind donations received; and 
+
+       (e) The rationale
+for expenditures and allocation of payments to state agencies and local
+government units. 
+
+       (5) Following the
+final expenditure for a particular disaster, the director shall issue a final
+report to the Emergency Board, or to the Legislative Assembly if it is in
+session. The report must include an aggregate description of the factors
+described in subsection (4) of this section. [2008 c.18 §5; 2021 c.539 §39] 
+
+   
+
+       Note: 401.534 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.535 [Formerly 401.380; 1993 c.187 §17;
+2005 c.755 §30; 2007 c.740 §30; repealed by 2008 c.18 §7] 
+
+   
+
+       401.536 Oregon
+Local Disaster Assistance Loan and Grant Account; Local Disaster Assistance
+Review Board; rules. 
+(1) The Oregon Local Disaster Assistance Loan and Grant Account is established
+as an account in the Oregon Disaster Response Fund. The account consists of
+moneys appropriated by the Legislative Assembly and any other moneys deposited
+into the account pursuant to law. 
+
+       (2) Moneys in the
+account are continuously appropriated to the Oregon Department of Emergency
+Management for: 
+
+       (a) Providing
+loans to qualified recipients to match, either in full or in part, moneys from
+federal programs for federally declared disaster relief that require a match; 
+
+       (b) Providing
+loans and grants to qualified recipients, for the purpose of paying costs
+incurred by qualified recipients in response to federally declared disasters; 
+
+       (c) Providing
+loans and grants to qualified recipients for the purposes of paying costs
+incurred by qualified recipients in response to disasters that are not
+federally declared disasters, as determined by the Legislative Assembly, if all
+loans and grants provided under paragraphs (a) and (b) of this subsection have
+been repaid, fulfilled or otherwise satisfied and moneys remain in the account;
+and 
+
+       (d) Subject to
+subsection (5) of this section, paying the department’s expenses for
+administering loans made from the account under paragraph (a) of this
+subsection. 
+
+       (3) Loans made
+under subsection (2)(b) or (c) of this section shall be repaid pursuant to such
+terms and conditions as may be established by the Oregon Department of
+Administrative Services. Loans made under subsection (2)(b) or (c) of this
+section may be interest free, or bear interest at a rate established by the
+Oregon Department of Administrative Services. Amounts repaid on loans made
+under subsection (2)(b) or (c) of this section shall be deposited in the
+General Fund. 
+
+       (4) The Oregon
+Department of Emergency Management shall deposit into the account any amounts
+repaid on loans made under subsection (2)(a) of this section. 
+
+       (5) The
+department may not charge the account more than five percent of the maximum
+amount in the account during a biennium for administrative expenses
+attributable to a loan made under subsection (2)(a) of this section. 
+
+       (6) An applicant
+may apply to the department for a loan under subsection (2)(a) of this section.
+The department shall consider the application, make a recommendation and submit
+the application and recommendation to the Local Disaster Assistance Review Board
+established under subsection (7) of this section. 
+
+       (7) The
+department shall establish a Local Disaster Assistance Review Board to: 
+
+       (a) Review the
+recommendations of the department regarding loans under subsection (2)(a) of
+this section; 
+
+       (b) Approve, by a
+majority vote of members, the amount of any loan under subsection (2)(a) of
+this section; and 
+
+       (c) Approve, by a
+majority vote of members, the terms and conditions of any loan under subsection
+(2)(a) of this section. 
+
+       (8) The review
+board shall include: 
+
+       (a) Three members
+of county governing bodies, with at least one member representing a county from
+east of the crest of the Cascade Mountains, with membership determined by the
+Association of Oregon Counties; 
+
+       (b) Three members
+of city governing bodies, with at least one member representing a city from
+east of the crest of the Cascade Mountains, with membership determined by the
+League of Oregon Cities; 
+
+       (c) A
+representative of the office of the State Treasurer; 
+
+       (d) A
+representative of the department; 
+
+       (e) A
+representative of school districts, with membership determined by the Oregon
+School Boards Association; 
+
+       (f) A
+representative of special districts, with membership determined by the Special
+Districts Association of Oregon; 
+
+       (g) A
+representative of the Oregon Department of Administrative Services; and 
+
+       (h) Two
+additional members determined jointly by the department, the Association of
+Oregon Counties and the League of Oregon Cities. 
+
+       (9) The Oregon
+Department of Emergency Management shall adopt rules establishing: 
+
+       (a) A loan
+application process and application forms for loans under subsection (2)(a) of
+this section; 
+
+       (b) Reasonable financial
+terms and conditions for loans under subsection (2)(a) of this section,
+including interest and the repayment of the loans; 
+
+       (c) Eligibility
+requirements for applicants for loans under subsection (2)(a) of this section; 
+
+       (d) The maximum
+amount an applicant for a loan under subsection (2)(a) of this section may
+receive; 
+
+       (e) The
+methodology the department will use for charging the account for administrative
+expenses; and 
+
+       (f) Procedures
+for submission of recommendations to the review board for loans under
+subsection (2)(a) of this section. 
+
+       (10) The
+department shall provide staff support for the review board. 
+
+       (11) As used in
+this section, “qualified recipient” means a local government, as defined in ORS
+174.116, a school district or another entity that meets eligibility criteria
+for post-disaster grants offered by the Federal Emergency Management Agency. [2008
+c.18 §6; 2012 c.107 §98; 2013 c.722 §35; 2021 c.539 §40; 2022 c.76 §§5,6] 
+
+   
+
+       Note: 401.536 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.537 [1991 c.310 §4; renumbered 455.448
+in 1995] 
+
+   
+
+       401.538 [2001 c.366 §1; renumbered 401.900
+in 2009] 
+
+   
+
+       401.539 [1991 c.310 §5; renumbered 455.449
+in 1995] 
+
+   
+
+       401.540 [Repealed by 1983 c.586 §49] 
+
+   
+
+       401.541 Oregon
+Disaster Response Assistance Matching Fund; rules. (1) The Oregon Disaster Response
+Assistance Matching Fund is established in the State Treasury, separate and
+distinct from the General Fund. The Oregon Disaster Response Assistance
+Matching Fund consists of moneys appropriated, allocated, deposited or transferred
+to the fund by the Legislative Assembly or otherwise. Moneys in the fund are
+continuously appropriated to the Oregon Department of Emergency Management for
+the purposes specified in subsections (2) and (3) of this section. 
+
+       (2) When the
+receipt of federal grants or other federal aid related to disaster response is
+conditioned on the contribution of matching funds by the recipient, the
+department may provide grants from the fund to local governments to be used to
+contribute such matching funds. 
+
+       (3) The
+department may provide grants from the fund to local governments in order to
+assist or support disaster response efforts. 
+
+       (4) The
+department may adopt rules necessary for the administration of this section. 
+
+       (5) As used in
+this section, “local government” has the meaning given that term in ORS
+174.116. [2023 c.427 §1] 
+
+   
+
+       Note: 401.541 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.543 [2001 c.366 §2; renumbered 401.902
+in 2009] 
+
+   
+
+       401.546 [2001 c.366 §3; renumbered 401.904
+in 2009] 
+
+   
+
+       401.550 [1983 c.586 §23; 1993 c.18 §93;
+2009 c.718 §25; renumbered 404.100 in 2009] 
+
+   
+
+       401.551
+Emergency preparedness equipment grant program; rules. (1) As used in this section: 
+
+       (a) “Emergency”
+has the meaning given that term in ORS 401.025. 
+
+       (b) “Maintain”
+means to repair, perform upkeep on and otherwise keep in good working
+condition. 
+
+       (c) “Preparedness
+equipment” means equipment, vehicles or other personal property that: 
+
+       (A) May be used
+to decrease the risk to life and property resulting from an emergency; and 
+
+       (B) Qualifies as
+a capital asset eligible for financing with tax-exempt bonds. 
+
+       (d) “Qualified
+applicant” means an entity that has responsibility for or expertise in
+emergency preparedness and that is a local government, a special government
+body, a federally recognized Indian tribe in Oregon or a private organization
+qualified for federal tax-exempt status under section 501(c)(3) of the Internal
+Revenue Code. 
+
+       (e) “Recipient”
+means an entity that applies for and receives preparedness equipment, or funds
+to purchase preparedness equipment, under the grant program described in
+subsection (3) of this section. 
+
+       (f) “Tax-exempt
+bond” means a bond, as defined in ORS 286A.001, the receipt of interest on
+which is excluded from gross income under the Internal Revenue Code or that is
+eligible for a federal interest subsidy payment or other tax-advantaged status. 
+
+       (2)(a) The Oregon
+Homeland Security Council shall develop a list of preparedness equipment that
+is needed throughout this state to address deficiencies in the ability of the
+state to respond to local and regional emergencies. 
+
+       (b) In
+developing, updating and revising the list, the council shall consult and
+coordinate with the Oregon Department of Emergency Management and with county
+officials who are responsible for emergency management. 
+
+       (c) The council
+shall assign a priority level to each type of preparedness equipment on the
+list as described in this paragraph: 
+
+       (A) Preparedness
+equipment that is necessary, in the determination of the council, to equip
+urban search and rescue teams must be included in the highest priority level. 
+
+       (B) In assigning
+priority levels to other types of preparedness equipment, the council shall
+take into consideration, without limitation, the types of emergency that are
+most likely to occur in different regions of this state and the types of
+preparedness equipment that offer the highest ratio of utility to cost. 
+
+       (d) The council
+shall periodically update and revise the list, including the assigned priority
+levels. 
+
+       (3) The Oregon
+Department of Emergency Management shall develop and administer a grant program
+to distribute preparedness equipment, or funds to purchase preparedness
+equipment, to recipients throughout this state. Pursuant to the grant program: 
+
+       (a) Qualified
+applicants may request preparedness equipment that is identified on the list
+described in subsection (2) of this section. Applicants must demonstrate a need
+for the specific preparedness equipment requested, the ability to maintain the
+preparedness equipment and the ability to use the preparedness equipment to
+address deficiencies in local or regional emergency preparedness. 
+
+       (b) The
+department shall identify which requests from applicants, if fulfilled, will
+maximize the state’s ability to respond to an emergency, taking into account
+considerations that include but are not limited to: 
+
+       (A) The level of
+priority assigned to the requested preparedness equipment type pursuant to
+subsection (2) of this section; 
+
+       (B) The level of
+need for the requested preparedness equipment as demonstrated by the applicant; 
+
+       (C) The ability
+to use and maintain the preparedness equipment as demonstrated by the
+applicant; 
+
+       (D) The types of
+emergency most likely to occur in the region where the applicant is located;
+and 
+
+       (E) Whether the
+applicant has an alternative means of acquiring the requested preparedness
+equipment. 
+
+       (c)(A) Subject to
+subparagraph (B) of this paragraph, the department shall issue grants to
+applicants identified under paragraph (b) of this subsection after entering
+into grant agreements with the applicants as provided in paragraph (e) of this
+subsection. The department may either purchase the requested preparedness
+equipment for distribution to a recipient or disburse funds to the recipient
+for the purchase of the requested preparedness equipment. 
+
+       (B) For the
+purpose of equipping urban search and rescue teams, the department shall
+prioritize requests made by applicants that are capable, at the time of
+application, of deploying urban search and rescue teams. 
+
+       (d) The Public
+Contracting Code does not apply to the acquisition of preparedness equipment by
+the department or by a recipient pursuant to this section. When acquiring
+preparedness equipment pursuant to this section, the department and recipients
+shall use procurement methods that are impartial and transparent to the
+greatest extent feasible and are designed to maximize value to the State of
+Oregon. 
+
+       (e) The
+department may not disburse preparedness equipment or funds under this section
+unless the department and the intended recipient first enter into a grant
+agreement. The grant agreement: 
+
+       (A) Shall require
+the recipient to maintain the preparedness equipment. 
+
+       (B) Shall provide
+that, if a recipient fails to adequately maintain preparedness equipment, the
+recipient must relinquish possession of the preparedness equipment or reimburse
+the department for the cost of the preparedness equipment. 
+
+       (C) Shall specify
+that the department may conduct periodic inspections of the preparedness
+equipment as described in paragraph (f) of this subsection. 
+
+       (D) Shall specify
+that preparedness equipment distributed to the recipient remains the property
+of the department until it is fully depreciated under governmental accounting
+principles, after which the department may offer the preparedness equipment for
+sale to the recipient at its fair market value at the time of sale. 
+
+       (E) May permit
+the recipient to use the preparedness equipment for any purpose, governmental
+or otherwise, that is permissible for assets financed with tax-exempt bonds,
+including nonemergency purposes. 
+
+       (F) Shall require
+private organizations to obtain approval from the department before making any
+use of preparedness equipment that is outside the scope of the purpose of the
+private organization as stated in the formation documents or bylaws of the organization. 
+
+       (G) Shall require
+the recipient to take action or refrain from action as necessary to maintain
+federal tax benefits related to any tax-exempt bonds that are used to fund the
+grant and to indemnify the State of Oregon for any costs, expenses or liability
+due to loss of such federal tax benefits caused by action or inaction of the
+recipient. 
+
+       (f) The
+department shall conduct periodic inspections of preparedness equipment
+distributed or purchased through the grant program to ensure that recipients
+are adequately maintaining the preparedness equipment. If the department finds
+that any preparedness equipment is not adequately maintained, the department
+may take possession of the preparedness equipment or require the recipient to
+reimburse the department for the cost of the preparedness equipment. 
+
+       (g) The
+department may transfer between recipients, dispose of or otherwise manage the
+preparedness equipment as the department determines is in the best interests of
+meeting the emergency preparedness needs of the State of Oregon. If the
+department disposes of preparedness equipment for any reason, including sale to
+a recipient as provided in paragraph (e)(D) of this subsection, the department
+shall deposit any moneys it receives from the disposal in the Resiliency Grant
+Fund established under ORS 401.552. 
+
+       (4) On or before
+December 31 of each year, the department shall submit a report to the
+Legislative Assembly and to the Oregon Homeland Security Council that describes
+the administration and effectiveness of the grant program established under
+this section and the current prioritized list of preparedness equipment types. 
+
+       (5) The
+department shall adopt rules to administer and implement the provisions of this
+section. [2017 c.657 §1; 2019 c.89 §1; 2021 c.454 §2; 2021 c.539 §38a] 
+
+   
+
+       Note: 401.551 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.552
+Resiliency Grant Fund. 
+The Resiliency Grant Fund is established in the State Treasury, separate and
+distinct from the General Fund. Interest earned by the Resiliency Grant Fund
+must be credited to the fund. The Resiliency Grant Fund consists of moneys
+deposited in the fund under ORS 401.551 and may include moneys appropriated,
+allocated, deposited or transferred to the fund by the Legislative Assembly or
+otherwise and interest earned on moneys in the fund. The moneys in the fund are
+continuously appropriated to the Oregon Department of Emergency Management for
+the purposes specified in ORS 401.551. [2017 c.657 §2; 2021 c.539 §41] 
+
+   
+
+       Note: 401.552 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.555 [Formerly 835.075; 2007 c.740 §31;
+renumbered 404.105 in 2009] 
+
+   
+
+       401.560 [1983 c.586 §25; 1993 c.187 §18;
+2007 c.530 §1; 2009 c.718 §21; renumbered 404.110 in 2009] 
+
+   
+
+       401.570 [1983 c.586 §24; 1993 c.187 §19;
+2009 c.718 §22; renumbered 404.115 in 2009] 
+
+   
+
+       401.573 [1985 c.470 §2; 1993 c.18 §94;
+1993 c.187 §20; 2007 c.530 §2; renumbered 404.120 in 2009] 
+
+   
+
+       401.576 [1985 c.470 §3; 1993 c.187 §21;
+2007 c.530 §3; renumbered 404.125 in 2009] 
+
+   
+
+       401.580 [1983 c.586 §26; 1993 c.187 §22;
+2009 c.718 §46; renumbered 404.130 in 2009] 
+
+   
+
+       401.582 [2007 c.530 §4; renumbered 404.135
+in 2009] 
+
+   
+
+       401.584 [2007 c.530 §5; renumbered 404.250
+in 2009] 
+
+   
+
+       401.590 [1995 c.570 §1; 2009 c.718 §33;
+renumbered 404.270 in 2009] 
+
+   
+
+       401.600 [1975 c.624 §4; repealed by 1983
+c.586 §49] 
+
+   
+
+       401.605 [1987 c.915 §1; 1993 c.18 §95;
+renumbered 404.300 in 2009] 
+
+   
+
+       401.610 [1975 c.624 §5; repealed by 1983
+c.586 §49] 
+
+   
+
+       401.615 [1987 c.915 §2; renumbered 404.305
+in 2009] 
+
+   
+
+       401.620 [1975 c.624 §6; renumbered
+401.335] 
+
+   
+
+       401.625 [1987 c.915 §4; renumbered 404.310
+in 2009] 
+
+   
+
+       401.627 [1987 c.915 §3; 2007 c.530 §8;
+renumbered 404.315 in 2009] 
+
+   
+
+       401.630 [1975 c.624 §7; renumbered
+401.125] 
+
+   
+
+       401.635 [1987 c.915 §5; 1993 c.18 §96;
+repealed by 2007 c.530 §7] 
+
+   
+
+       401.638 [2005 c.651 §1; renumbered 401.930
+in 2009] 
+
+   
+
+       401.639 [2005 c.651 §2; renumbered 401.932
+in 2009] 
+
+   
+
+       401.640 [1975 c.624 §11; renumbered
+401.135] 
+
+   
+
+       401.641 [2005 c.651 §3; 2009 c.718 §47;
+renumbered 401.935 in 2009] 
+
+   
+
+       401.643 [2005 c.651 §4; renumbered 401.938
+in 2009] 
+
+   
+
+       401.645 [2005 c.651 §5; renumbered 401.940
+in 2009] 
+
+   
+
+       401.650 [1975 c.624 §§8,9,10; renumbered
+401.145] 
+
+   
+
+ EMERGENCY AND VOLUNTEER
+HEALTH CARE SERVICES 
+
+   
+
+       401.651
+Definitions for ORS 401.651 to 401.670. As used in ORS 401.651 to 401.670: 
+
+       (1) “Health care
+facility” means a health care facility as defined in ORS 442.015 that has been
+licensed under ORS chapter 441. 
+
+       (2) “Health care
+provider” means an individual licensed, certified or otherwise authorized or
+permitted by the laws of this state or another state to administer health care
+services in the ordinary course of business or practice of a profession. 
+
+       (3) “Health
+professional regulatory board” means a health professional regulatory board, as
+defined in ORS 676.160, the Long Term Care Administrators Board, the Board of
+Licensed Dietitians and the Behavior Analysis Regulatory Board. 
+
+       (4) “Support and
+administrative personnel” means an individual who is not a health care
+provider, and who works to enable the provision of health care or public health
+services, including medical or nonmedical operations support, management or
+administration. [2003 c.298 §2; 2009 c.382 §1; 2011 c.89 §3; 2017 c.101 §10;
+2018 c.61 §13; 2025 c.622 §1] 
+
+   
+
+       401.654 Health
+care volunteer registry; rules. 
+(1) The Oregon Health Authority may establish a volunteer registry that
+includes health care providers and support and administrative personnel who are
+available to provide health care, public health and supportive services on a
+voluntary basis. As a condition of inclusion in the registry, the authority may
+require: 
+
+       (a) Training
+related to the provision of health care, public health or other services as a
+condition of registration; 
+
+       (b) Criminal
+background checks for applicants and persons who have been registered; and 
+
+       (c) Screenings of
+physical health, emotional health or immunization status in order to assign
+appropriate duties without increased health-related risks. 
+
+       (2) The authority
+may issue identification cards to individuals entered in the registry
+established under this section that: 
+
+       (a) Identify the
+individual; 
+
+       (b) Indicate that
+the individual is registered in the registry established under this section; 
+
+       (c) Identify any
+license or certification held by the individual, or previously held by the
+individual if the individual is entered in the registry pursuant to ORS
+401.658; and 
+
+       (d) Identify the
+individual’s usual area of practice, and the types of services that the
+individual is authorized to provide, if that information is available and the
+authority determines that it is appropriate to provide that information. 
+
+       (3) The authority
+by rule may establish a form for identification cards issued under subsection
+(2) of this section. 
+
+       (4) The authority
+shall support and provide assistance to the Oregon Department of Emergency
+Management in emergencies or crises involving the public health or requiring
+emergency medical response. 
+
+       (5) The authority
+may enter into agreements with other states to facilitate the registry of
+out-of-state health care providers and support and administrative personnel in
+the registry established under this section. [2003 c.298 §3; 2009 c.595 §227;
+2009 c.828 §1; 2011 c.89 §4; 2021 c.539 §44; 2025 c.622 §2] 
+
+   
+
+       401.655
+Practice by out-of-state health care provider during emergency. During a state of emergency
+declared under ORS 401.165 or a state of public health emergency declared under
+ORS 433.441, a health care provider who is licensed, certified or otherwise
+authorized or permitted by the laws of another state to administer health care
+services and who is registered under ORS 401.654 may administer health care
+services in this state as if the health care provider were licensed in this
+state. [2009 c.382 §4; 2021 c.539 §80] 
+
+   
+
+       401.656
+Provision of health care services by members of Oregon National Guard during
+emergency. When
+the Governor declares a state of emergency under ORS 401.165 or a public health
+emergency under ORS 433.441, the Governor, as part of the declaration of
+emergency, may authorize members of the Oregon National Guard on state active
+duty or Title 32 orders to provide health care services in Oregon without being
+subject to the Oregon licensing requirements for health care providers,
+provided that each member is qualified by virtue of the member’s military duty
+position, training and qualifications to perform the same or similar functions
+as an Oregon licensed health care provider for the Armed Forces of the United
+States under either state or federal status. [2009 c.346 §1; 2013 c.81 §27] 
+
+   
+
+       Note: 401.656 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.657
+Emergency health care centers; emergency operations plan; credentialing plan;
+rules. (1) The
+Oregon Health Authority may designate all or part of a health care facility or
+other location as an emergency health care center. If the Governor declares a
+state of emergency under ORS 401.165, or declares a state of public health
+emergency under ORS 433.441, emergency health care centers may be used for: 
+
+       (a) Evaluation
+and referral of individuals affected by the emergency; 
+
+       (b) Provision of
+health care services; and 
+
+       (c) Preparation
+of patients for transportation. 
+
+       (2) The Oregon
+Health Authority may enter into cooperative agreements with a local public
+health authority, as defined in ORS 431.003, that allow the local public health
+authority to designate emergency health care centers under this section. 
+
+       (3) An emergency
+health care center designated under this section must have an emergency
+operations plan and a credentialing plan that governs the use of individuals
+registered under ORS 401.654 and other health care providers who volunteer to
+perform health care services at the center under ORS 401.651 to 401.670. The
+emergency operations plan and credentialing plan must comply with rules
+governing those plans adopted by the Oregon Health Authority. [2003 c.298 §4;
+2007 c.445 §39; 2009 c.595 §228; 2009 c.718 §7; 2015 c.736 §55; 2021 c.539 §81;
+2025 c.622 §3] 
+
+   
+
+       401.658
+Provision of health care services by former health care provider during
+emergency; rules. 
+(1) The Oregon Health Authority may include in the registry established under
+ORS 401.654 a person who was previously licensed, certified or otherwise
+authorized to provide health care services in Oregon by a health professional
+regulatory board if: 
+
+       (a) The person
+was licensed, certified or otherwise authorized to provide health care services
+not more than 10 years before entry in the registry; and 
+
+       (b) The person
+meets such other criteria as may be established by the authority. 
+
+       (2)
+Notwithstanding any other law prohibiting a person from providing health care
+services without a license, certificate or other authorization from a health
+professional regulatory board, a person entered in the registry under
+subsection (1) of this section may provide health care services during a state
+of emergency declared under ORS 401.165 or a state of public health emergency
+declared under ORS 433.441 without a license, certification or other
+authorization if: 
+
+       (a) The person is
+in compliance with all rules adopted by the authority for persons providing
+health care services under this section; and 
+
+       (b) The authority
+has directed the person to provide health care services under ORS 401.661 (1). 
+
+       (3) The authority
+may adopt rules, after consulting with the appropriate health professional
+regulatory boards, that establish criteria and requirements for including
+persons in the registry under this section, including but not limited to: 
+
+       (a) Educational
+requirements; 
+
+       (b) Training
+requirements; 
+
+       (c) Verification
+of previous licenses, certifications or other authorization by a health
+professional regulatory board; 
+
+       (d) Verification
+that the previous licenses, certifications or other authorization of the person
+was not revoked by reason of unprofessional conduct or any other reason that
+would affect the person’s ability to safely provide health care services; and 
+
+       (e) Limitations
+on the type of health care services that may be provided by the person under
+this section and the places at which those services may be provided. [2011 c.89
+§2; 2021 c.539 §82; 2025 c.622 §4] 
+
+   
+
+       401.660 [1975 c.624 §12; 1983 c.586 §40;
+renumbered 401.155] 
+
+   
+
+       401.661
+Provision of services by registered volunteers. (1) The Oregon Health Authority,
+in conjunction with the Department of Human Services for facilities licensed by
+the department, may direct individuals registered under ORS 401.654 who are
+willing to provide volunteer services to proceed to any place in this state
+where such services are required. 
+
+       (2) Pursuant to
+the Emergency Management Assistance Compact and the Pacific Northwest Emergency
+Management Arrangement, the Oregon Health Authority may direct individuals
+registered under ORS 401.654 who are willing to provide volunteer services in
+another jurisdiction to proceed to another jurisdiction where such services are
+required by reason of an emergency in that jurisdiction. Individuals registered
+under ORS 401.654 are officers of the state for purposes of the Emergency
+Management Assistance Compact. 
+
+       (3) If the
+Governor declares a state of emergency under ORS 401.165 or declares a state of
+public health emergency under ORS 433.441, any individual registered under ORS
+401.654 or any health care provider may volunteer to perform services described
+in ORS 401.657 at any emergency health care center or health care facility in
+the manner provided by ORS 401.664. [2003 c.298 §5; 2007 c.445 §40; 2009 c.595 §229;
+2009 c.718 §8; 2011 c.89 §5; 2021 c.539 §83; 2025 c.622 §5] 
+
+   
+
+       401.664
+Emergency operations plan; credentialing plans. (1) Individuals registered under
+ORS 401.654 and health care providers who volunteer to perform services under
+ORS 401.651 to 401.670 must provide those services in accordance with the
+emergency operations plan and credentialing plan adopted by the emergency
+health care center or the health care facility at which the services are
+rendered. 
+
+       (2) An emergency
+health care center or health care facility may determine the services to be
+provided by any individual registered under ORS 401.654 or any health care
+provider who volunteers to perform health care services under ORS 401.651 to
+401.670. [2003 c.298 §6; 2025 c.622 §6] 
+
+   
+
+       401.667
+Coverage under Oregon Tort Claims Act. 
+(1)(a) Individuals registered under ORS 401.654 and health care providers who
+volunteer to perform health care services under ORS 401.661 are agents of the
+state under ORS 30.260 to 30.300 for the purposes of any claims arising out of
+services that are provided under ORS 401.661 pursuant to directions from a
+public body and that are within the course and scope of the individual’s
+duties, without regard to whether the individual is compensated for the
+services. 
+
+       (b) If the
+Governor declares a state of emergency under ORS 401.165, or declares a state
+of public health emergency under ORS 433.441, individuals registered under ORS
+401.654 and health care providers who volunteer to perform health care services
+under ORS 401.655, 401.656, 401.657 or 401.658 are agents of the state under
+ORS 30.260 to 30.300 for the purposes of any claims arising out of services
+that are provided under ORS 401.655, 401.656, 401.657 or 401.658 pursuant to
+directions from a public body and that are within the course and scope of the
+individual’s duties, without regard to whether the individual is compensated
+for the services. 
+
+       (2) If the
+Governor declares a state of emergency under ORS 401.165, or declares a state
+of public health emergency under ORS 433.441, health care facilities designated
+under ORS 401.657 and other persons operating emergency health care centers
+designated under ORS 401.657 are agents of the state under ORS 30.260 to 30.300
+for the purposes of any claims arising out of services that are provided
+through those centers or facilities under ORS 401.651 to 401.670 pursuant to
+directions from a public body and that are within the course and scope of the
+duties of the health care facility or other person, without regard to whether
+the health care facility or other person is compensated for the services. 
+
+       (3) An individual
+registered under ORS 401.654 participating in training authorized by the Oregon
+Health Authority under ORS 401.651 to 401.670 is an agent of the state under
+ORS 30.260 to 30.300 for the purposes of any claims arising out of that training. 
+
+       (4) The
+provisions of subsection (2) of this section apply only to emergency health
+care centers or health care facilities that have adopted emergency operations
+plans and credentialing plans that govern the use of individuals registered
+under ORS 401.654 and other health care providers who volunteer to perform
+health care services under ORS 401.651 to 401.670. An emergency operations plan
+and a credentialing plan must comply with rules governing those plans adopted
+by the authority. [2003 c.298 §7; 2009 c.595 §230; 2009 c.718 §9; 2021 c.539 §84;
+2025 c.622 §7] 
+
+   
+
+       401.670 Rules. The Oregon Health Authority shall
+adopt all rules necessary for the implementation of ORS 401.651 to 401.670. [2003
+c.298 §8; 2009 c.595 §231] 
+
+   
+
+ DISASTER OR EMERGENCY
+RELATED WORK CONDUCTED BY OUT-OF-STATE BUSINESSES 
+
+   
+
+       401.680
+Legislative findings. 
+The Legislative Assembly finds that: 
+
+       (1) During times
+of storm, flood, fire, earthquake, hurricane or other disaster or emergency,
+many businesses bring resources, property and personnel from other states
+throughout the United States into Oregon on a temporary basis to expedite the
+often enormous and overwhelming task of cleaning up, restoring and repairing
+damaged buildings, equipment and property or deploying or building replacement
+facilities in this state. 
+
+       (2) This may
+involve the need for out-of-state businesses, including out of-state affiliates
+of businesses based in this state, to bring in resources, property or personnel
+that previously have had no connection to this state, to perform activities in
+this state including repairing, renovating, installing, building, rendering
+services or performing other business activities and for which personnel may be
+located in this state for extended periods of time to perform these activities. 
+
+       (3) While
+operating in this state on a temporary basis solely for purposes of helping
+this state recover from a disaster or emergency, these businesses and
+individual employees should not be burdened by any requirements for business
+and employee taxes as a result of activities in this state for a temporary
+period. 
+
+       (4) This state’s
+nexus and residency thresholds are intended for businesses and individuals that
+are in this state as part of the conduct of regular business operations or that
+intend to reside in this state and are not directed at businesses and
+individuals coming into this state on a temporary basis to provide assistance
+in response to a declared state of emergency or declared major disaster. 
+
+       (5) To ensure
+that businesses may focus on quick response to the needs of this state and its
+residents during a declared disaster or emergency, it is appropriate for the
+Legislative Assembly to deem that this activity for a reasonable period of time
+before, during and after the disaster or emergency for repairing and
+restoration of the often devastating damage to critical infrastructure in this
+state as defined in ORS 401.685 does not establish presence, residency, doing
+business in this state or any other criteria for purposes of state and local
+taxes or licensing and regulatory requirements. [2015 c.468 §1] 
+
+   
+
+       Note: 401.680 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.685
+Definitions. As
+used in ORS 401.685 to 401.695: 
+
+       (1) “Critical
+infrastructure” means property and equipment owned or used by communications
+networks, electric generation, transmission and distribution systems, gas
+distribution systems, water pipelines and related support facilities that
+service multiple customers or citizens, including real and personal property
+such as buildings, offices, lines, poles, pipes, structures and equipment. 
+
+       (2) “Declared
+disaster or emergency” means a major disaster or emergency declared to exist in
+this state by the President of the United States or a state of emergency
+declared by the Governor as provided in ORS 401.165. 
+
+       (3) “Disaster or
+emergency related work” means repairing, renovating, installing, building or
+rendering other services to critical infrastructure that has been damaged,
+impaired or destroyed as a direct result of a declared disaster or emergency. 
+
+       (4) “Disaster
+response period” means a period that begins 10 days prior to the date that the
+Governor declares a state of emergency, or the date that the President of the
+United States declares an emergency or major disaster, whichever occurs first,
+and that extends 60 calendar days after the date of the termination of the
+declared disaster or emergency, or any longer period authorized by the
+Governor. 
+
+       (5) “Out-of-state
+business” means a foreign business entity that, except for disaster or
+emergency related work, transacts no business in this state and the services of
+which are requested by a registered business or by a state or local government
+entity for purposes of performing disaster or emergency related work in this
+state. 
+
+       (6) “Out-of-state
+employee” means an individual who prior to the declared disaster or emergency
+resides outside this state and performs no work in this state, except for
+disaster or emergency related work performed during the disaster response
+period. 
+
+       (7) “Registered
+business” means a business entity that is registered with or authorized by the
+Secretary of State to transact business in this state as of the date
+immediately prior to the declared disaster or emergency. [2015 c.468 §3] 
+
+   
+
+       401.690
+Exemption from certain taxes, registration and licensing requirements. (1) Disaster or emergency related
+work conducted by an out-of-state business may not be used as the sole basis
+for: 
+
+       (a)
+Notwithstanding ORS 317.018 and 317.080, a finding that the out-of-state
+business is doing business in this state; 
+
+       (b) Imposition of
+the taxes imposed under ORS 314.725 or ORS chapter 316 or 317; 
+
+       (c)
+Notwithstanding ORS 60.704, 63.704, 65.704, 67.705 and 70.355, a requirement
+that the out-of-state business register with or obtain authority to transact
+business from the Secretary of State during the disaster response period; or 
+
+       (d) A requirement
+that the out-of-state business or an out-of-state employee comply with state or
+local business or professional licensing or registration requirements or state
+and local taxes or fees including unemployment insurance, state or local
+occupational licensing fees and ad valorem tax on equipment brought into this
+state for use during the disaster response period and subsequently removed from
+this state. 
+
+       (2) For purposes
+of any state or local tax on or measured by, in whole or in part, net or gross
+income or receipts, all activity of the out-of-state business that is conducted
+in this state, or equipment brought into this state, pursuant to ORS 401.685 to
+401.695 shall be disregarded with respect to the filing requirements of ORS
+317.710 and 317.715 and the apportionment provisions of ORS 314.605 to 314.675.
+Receipts from disaster or emergency related work may not be sourced to and may
+not otherwise impact or increase the amount of income, revenue or receipts
+apportioned to this state. 
+
+       (3) For purposes
+of ORS chapter 316, an out-of-state employee is not taxed as a resident,
+nonresident or part-year resident and is not considered to have established
+domicile or residence in this state. Wages paid for disaster or emergency
+related work are not subject to the withholding provisions of ORS 316.162 to
+316.221. 
+
+       (4) Out-of-state
+businesses and out-of-state employees shall be required to pay transaction
+taxes and fees including fuel taxes, transient lodging taxes, car rental taxes
+or applicable fees during the disaster response period, unless an exemption
+applies to the taxes or fees during the disaster response period. 
+
+       (5) Any
+out-of-state business that transacts business in this state or out-of-state
+employee who remains in this state after the end of the disaster response
+period will become subject to this state’s normal standards for establishing
+domicile or residency or doing business in this state and will become
+responsible for any business or employee tax requirements that ensue. 
+
+       (6) ORS 401.990
+does not apply to ORS 401.685 to 401.695. [2015 c.468 §4] 
+
+   
+
+       Note: Section 1, chapter 203, Oregon
+Laws 2019, provides: 
+
+       Sec. 1. Notwithstanding ORS 315.037, ORS
+401.690 applies to all tax years beginning on or after January 1, 2016. [2019
+c.203 §1] 
+
+   
+
+       401.695
+Reporting by registered business to Oregon Department of Administrative
+Services. (1) A
+registered business that requests services of an out-of-state business that
+enters this state pursuant to ORS 401.685 to 401.695 shall provide to the
+Oregon Department of Administrative Services a statement that the out-of-state
+business entered or remained in this state for purposes of responding to a
+disaster or emergency. The registered business shall provide the statement
+within 30 days of any out-of-state business entering this state. The statement
+must include the name, state of domicile, principal business address, federal
+tax identification number, date of entry and contact information of the
+out-of-state business. 
+
+       (2) An
+out-of-state business that, or an out-of-state employee who, remains in this
+state after the disaster response period has ended shall complete state and
+local registration, licensing and filing requirements that ensue as a result of
+establishing the requisite business presence, domicile or residency in this
+state applicable under the existing rules. 
+
+       (3) The
+department shall provide to any state agency, upon request, information
+acquired by the department under this section. [2015 c.468 §5] 
+
+   
+
+       401.706 [2003 c.556 §1; 2009 c.203 §1;
+renumbered 403.100 in 2009] 
+
+   
+
+       401.710 [1981 c.533 §1; 1987 c.447 §125;
+1987 c.525 §5; 1987 c.671 §15; 1989 c.793 §2; 1991 c.743 §1; 1993 c.187 §23;
+1995 c.276 §1; 1999 c.1093 §13; 2007 c.70 §158; 2007 c.740 §32; 2009 c.203 §2;
+renumbered 403.105 in 2009] 
+
+   
+
+       401.715 [1989 c.793 §5; 1991 c.743 §2;
+2009 c.203 §3; renumbered 403.110 in 2009] 
+
+   
+
+       401.720 [1981 c.533 §2; 1989 c.793 §8;
+1991 c.743 §3; 1999 c.241 §1; 2009 c.203 §4; renumbered 403.115 in 2009] 
+
+   
+
+       401.730 [1981 c.533 §3; 1989 c.793 §9;
+1991 c.743 §4; 2009 c.203 §5; renumbered 403.120 in 2009] 
+
+   
+
+       401.733 [1991 c.743 §24; 1993 c.808 §5;
+repealed by 1995 c.79 §205] 
+
+   
+
+       401.735 [1989 c.793 §9a; 1991 c.742 §12;
+repealed by 2009 c.203 §37] 
+
+   
+
+       401.740 [1981 c.533 §4; repealed by 1989
+c.793 §17] 
+
+   
+
+       401.750 [1981 c.533 §5; 1987 c.447 §127;
+repealed by 1989 c.793 §17] 
+
+   
+
+       401.755 [1989 c.793 §4; 1991 c.743 §8;
+2009 c.203 §7; renumbered 403.130 in 2009] 
+
+   
+
+       401.760 [1981 c.533 §6; 1989 c.793 §10;
+repealed by 1991 c.743 §22] 
+
+   
+
+       401.765 [1991 c.751 §2; 1999 c.1093 §14;
+2003 c.382 §1; 2009 c.203 §8; renumbered 403.135 in 2009] 
+
+   
+
+       401.770 [1981 c.533 §7; 1985 c.633 §6;
+1989 c.793 §11; 2009 c.203 §9; renumbered 403.140 in 2009] 
+
+   
+
+       401.773 [1989 c.793 §6; 1995 c.276 §11;
+2007 c.70 §159; 2009 c.203 §10; renumbered 403.145 in 2009] 
+
+   
+
+       401.775 [1989 c.793 §7; 1991 c.743 §10;
+2009 c.203 §11; renumbered 403.150 in 2009] 
+
+   
+
+       401.780 [1981 c.533 §8; 1989 c.793 §12;
+1991 c.743 §11; 2009 c.203 §12; renumbered 403.155 in 2009] 
+
+   
+
+       401.785 [1991 c.743 §9; 1995 c.781 §42;
+2003 c.598 §43; 2007 c.740 §33; 2009 c.203 §13; renumbered 403.160 in 2009] 
+
+   
+
+       401.790 [1981 c.533 §9; 1987 c.447 §128;
+1989 c.793 §13; 2009 c.203 §14; renumbered 403.165 in 2009] 
+
+   
+
+       401.792 [1981 c.533 §10; 1989 c.793 §1;
+1991 c.743 §12; 1993 c.808 §1; 1995 c.276 §2; 2001 c.740 §2; 2002 s.s.1 c.5 §1;
+2009 c.203 §15; renumbered 403.200 in 2009] 
+
+   
+
+       401.794 [1981 c.533 §11; 1995 c.276 §3;
+renumbered 403.205 in 2009] 
+
+   
+
+       401.796 [1981 c.533 §12; 1991 c.743 §13;
+1995 c.276 §4; renumbered 403.210 in 2009] 
+
+   
+
+       401.798 [1981 c.533 §13; 1991 c.743 §14;
+1993 c.808 §2; 1995 c.276 §5; 2009 c.203 §16; renumbered 403.215 in 2009] 
+
+   
+
+       401.800 [1981 c.533 §14; 1982 s.s.1 c.16 §22;
+1991 c.743 §15; 1993 c.808 §3; 1995 c.276 §6; 2009 c.203 §17; renumbered
+403.220 in 2009] 
+
+   
+
+       401.802 [1981 c.533 §15; 1991 c.743 §16;
+1995 c.276 §7; 2005 c.22 §268; 2009 c.203 §18; renumbered 403.225 in 2009] 
+
+   
+
+       401.804 [1981 c.533 §16; 1991 c.743 §17;
+1995 c.276 §8; 1995 c.650 §53; 2009 c.203 §19; 2009 c.797 §7; renumbered
+403.230 in 2009] 
+
+   
+
+       401.805 [1955 c.679 §1; 1967 c.595 §5;
+1969 c.247 §3; 1975 c.379 §13; repealed by 1980 c.19 §6] 
+
+   
+
+       401.806 [1981 c.533 §17; 1991 c.743 §18;
+1993 c.808 §4; 1995 c.276 §9; 2001 c.740 §2a; 2009 c.203 §20; 2009 c.885 §47;
+renumbered 403.235 in 2009] 
+
+   
+
+       401.807 [1987 c.671 §1; 1989 c.793 §21;
+renumbered 401.818 in 2003] 
+
+   
+
+       401.808 [1981 c.533 §18; 1987 c.218 §1;
+1989 c.793 §14; 1991 c.743 §19; 1993 c.707 §11; 1995 c.276 §10; 2001 c.740 §2b;
+2009 c.203 §21; 2009 c.758 §3; renumbered 403.240 in 2009] 
+
+   
+
+       401.810 [1955 c.679 §§2,3; repealed by
+1980 c.19 §6] 
+
+   
+
+       401.812 [1987 c.671 §2; 1989 c.793 c.22;
+1989 c.1063 §1; 1993 c.441 §1; renumbered 401.821 in 2003] 
+
+   
+
+       401.814 [1981 c.533 §20; 1989 c.793 §16;
+1991 c.743 §21; 2001 c.740 §2c; 2009 c.203 §22; renumbered 403.245 in 2009] 
+
+   
+
+       401.815 [1955 c.679 §11; repealed by 1980
+c.19 §6] 
+
+   
+
+       401.816 [2001 c.740 §6; renumbered 403.250
+in 2009] 
+
+   
+
+       401.817 [1987 c.671 §5; renumbered 401.823
+in 2003] 
+
+   
+
+       401.818 [Formerly 401.807; renumbered
+403.300 in 2009] 
+
+   
+
+       401.820 [1955 c.679 §5; 1980 c.19 §3;
+renumbered 401.210] 
+
+   
+
+       401.821 [Formerly 401.812; 2009 c.203 §23;
+renumbered 403.305 in 2009] 
+
+   
+
+       401.822 [1987 c.671 §3; 1989 c.1063 §2;
+renumbered 403.310 in 2009] 
+
+   
+
+       401.823 [Formerly 401.817; renumbered
+403.315 in 2009] 
+
+   
+
+       401.825 [1955 c.679 §18; 1967 c.595 §6;
+repealed by 1980 c.19 §6] 
+
+   
+
+       401.827 [1987 c.671 §6; 2009 c.203 §24;
+renumbered 403.320 in 2009] 
+
+   
+
+       401.830 [1955 c.679 §20; 1967 c.595 §7;
+1980 c.19 §4; renumbered 401.215] 
+
+   
+
+       401.832 [1987 c.671 §4; 1989 c.1063 §3;
+2009 c.203 §25; renumbered 403.325 in 2009] 
+
+   
+
+       401.833 [1989 c.1063 §5; 2009 c.203 §26;
+renumbered 403.330 in 2009] 
+
+   
+
+       401.834 [1989 c.1063 §6; 2009 c.203 §27;
+renumbered 403.335 in 2009] 
+
+   
+
+       401.835 [1955 c.679 §4; 1957 c.353 §1;
+1973 c.466 §1; repealed by 1980 c.19 §6] 
+
+   
+
+       401.836 [1989 c.1063 §7; 2009 c.203 §28;
+renumbered 403.340 in 2009] 
+
+   
+
+       401.837 [1987 c.671 §7; renumbered
+401.857] 
+
+   
+
+       401.838 [1989 c.1063 §8; 2009 c.203 §29;
+renumbered 403.345 in 2009] 
+
+   
+
+       401.839 [1989 c.1063 §9; 1995 c.79 §206;
+1995 c.534 §17; 2009 c.203 §30; renumbered 403.350 in 2009] 
+
+   
+
+       401.840 [1955 c.679 §9; repealed by 1980
+c.19 §6] 
+
+   
+
+       401.841 [1989 c.1063 §10; 2009 c.203 §31;
+renumbered 403.355 in 2009] 
+
+   
+
+       401.842 [1987 c.671 §8; 1989 c.793 §23;
+2001 c.104 §139; 2003 c.802 §111; 2009 c.203 §32; renumbered 403.360 in 2009] 
+
+   
+
+       401.844 [1995 c.333 §36; 2007 c.783 §180;
+2009 c.203 §33; renumbered 403.365 in 2009] 
+
+   
+
+       401.845 [1955 c.679 §10; repealed by 1980
+c.19 §6] 
+
+   
+
+       401.847 [1987 c.671 §9; 1991 c.459 §396;
+1995 c.333 §33; 2009 c.203 §34; renumbered 403.370 in 2009] 
+
+   
+
+       401.850 [1955 c.679 §§6,7; 1965 c.285 §80;
+repealed by 1980 c.19 §6] 
+
+   
+
+ WILDFIRE 
+
+   
+
+       401.851
+Wildfire planning and coordination. 
+(1) The Oregon Department of Emergency Management shall update its statewide
+emergency plan as necessary to prepare for or respond to wildfire emergencies
+on an area-wide or statewide basis. The plan developed by the department to
+prepare for or respond to wildfire emergencies shall include, but need not be
+limited to, wildfire risk mitigation efforts and evacuation planning. 
+
+       (2) The
+department shall coordinate with cities, counties, adult foster homes, health
+care facilities and residential facilities, the Department of Human Services
+and the Oregon Health Authority to establish local or private procedures to
+prepare for emergencies related to wildfire and ensure that local efforts to
+prevent, respond to or recover from an emergency caused by wildfire are
+conducted in a manner consistent with the plan developed by the Oregon
+Department of Emergency Management to prepare for or respond to wildfire
+emergencies. The coordinated activities may include, but need not be limited
+to, providing training, carrying out exercises and promoting community
+education. [2021 c.592 §17] 
+
+   
+
+       Note: 401.851 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       401.852 [1989 c.1063 §11; 2001 c.138 §26;
+renumbered 403.375 in 2009] 
+
+   
+
+       401.855 [1955 c.679 §17; repealed by 1980
+c.19 §6] 
+
+   
+
+       401.857 [Formerly 401.837; 2009 c.203 §36;
+renumbered 403.380 in 2009] 
+
+   
+
+       401.860 [1955 c.679 §8; repealed by 1980
+c.19 §6] 
+
+   
+
+       401.861 [2005 c.819 §1; renumbered 401.950
+in 2009] 
+
+   
+
+       401.863 [2005 c.819 §2; renumbered 401.952
+in 2009] 
+
+   
+
+       401.864 [2005 c.819 §4; renumbered 401.955
+in 2009] 
+
+   
+
+       401.865 [1955 c.679 §12; 1967 c.335 §48;
+1967 c.637 §§9,9a; repealed by 1980 c.19 §6] 
+
+   
+
+       401.870 [1955 c.679 §15; repealed by 1980
+c.19 §6] 
+
+   
+
+       401.871 [2005 c.825 §3; 2007 c.740 §34;
+2009 c.454 §1; 2009 c.595 §232; renumbered 403.450 in 2009] 
+
+   
+
+       401.872 [2005 c.825 §4; 2007 c.740 §35;
+renumbered 403.455 in 2009] 
+
+   
+
+       401.874 [2005 c.825 §5; 2007 c.740 §36;
+renumbered 403.460 in 2009] 
+
+   
+
+       401.875 [1955 c.679 §21; repealed by 1980
+c.19 §6] 
+
+   
+
+       401.880 [1955 c.679 §19; repealed by 1980
+c.19 §6] 
+
+   
+
+       401.881 [2005 c.825 §8; renumbered 401.109
+in 2009] 
+
+   
+
+       401.885 [1955 c.679 §16; repealed by 1980
+c.19 §6] 
+
+   
+
+       401.890 [1955 c.679 §14; repealed by 1980
+c.19 §6] 
+
+   
+
+ EARTHQUAKES 
+
+   
+
+ (Drills) 
+
+   
+
+       401.900 State
+and local agency earthquake drills; rules. (1) Each state or local agency shall drill agency
+employees working in office buildings on emergency procedures so that the
+employees may respond to an earthquake emergency without confusion or panic. 
+
+       (2) The state or
+local agency shall conduct the drills annually in accordance with Oregon
+Department of Emergency Management rules. 
+
+       (3) The drills
+must include familiarization with routes and methods of exiting the building
+and the earthquake emergency response procedure recommended by the Federal
+Emergency Management Agency known as “drop, cover and hold on.” 
+
+       (4) Consistent
+with rules of the department, the state or local agency may drill earthquake
+emergency response procedures in addition to “drop, cover and hold on” when the
+state or local agency determines, based on evaluation of specific engineering
+and structural issues related to an office building, that “drop, cover and hold
+on” may not be the most effective earthquake emergency response procedure to
+prevent or limit injury or loss of life. 
+
+       (5) The
+department may, by rule or on application, grant exemptions from the drill
+requirement for good cause. 
+
+       (6) As used in
+this section, “state or local agency” means a state or local office,
+department, division, bureau, board or commission that is assigned, renting,
+leasing, owning or controlling office space for carrying out its duties. “State
+or local agency” includes the Legislative Assembly when in regular session. [Formerly
+401.538; 2013 c.266 §1; 2021 c.539 §45] 
+
+   
+
+       401.902
+Private employer earthquake drills; exemptions; rules. (1) A person employing 250 or more
+full-time employees within this state shall drill employees working in office buildings
+on emergency procedures so that the employees may respond to an earthquake
+emergency without confusion or panic. 
+
+       (2) The person
+shall conduct the drills annually in accordance with Oregon Department of
+Emergency Management rules. 
+
+       (3) The drills
+must include familiarization with routes and methods of exiting the building
+and the earthquake emergency response procedure recommended by the Federal
+Emergency Management Agency known as “drop, cover and hold on.” 
+
+       (4) Consistent
+with rules of the department, the person may drill earthquake emergency
+response procedures in addition to “drop, cover and hold on” when the person
+determines, based on evaluation of specific engineering and structural issues
+related to an office building, that “drop, cover and hold on” may not be the
+most effective earthquake emergency response procedure to prevent or limit
+injury or loss of life. 
+
+       (5) The
+department may, by rule or on application, grant exemptions from the drill
+requirement for good cause. [Formerly 401.543; 2013 c.266 §2; 2021 c.539 §46] 
+
+   
+
+       401.904 Rules. The Oregon Department of Emergency
+Management, in consultation with the State Department of Geology and Mineral
+Industries, shall adopt rules governing the conduct of earthquake emergency
+drills required by ORS 401.900 and 401.902. In addition to the Oregon
+Department of Emergency Management submitting the rules for publication
+pursuant to ORS 183.360, the departments shall each post the rules on an
+electronic bulletin board, home page or similar site. [Formerly 401.546; 2021
+c.539 §47] 
+
+   
+
+ (Seismic
+Rehabilitation) 
+
+   
+
+       401.910 Grant
+program for seismic rehabilitation of certain facilities; rules. (1) The Oregon Business
+Development Department shall develop a grant program for the disbursement of
+funds for the seismic rehabilitation of critical public buildings, including
+hospital buildings with acute inpatient care facilities, fire stations, police
+stations, sheriffs’ offices, other facilities used by state, county, district
+or municipal law enforcement agencies and buildings with a capacity of 250 or
+more persons that are routinely used for student activities by kindergarten
+through grade 12 public schools, community colleges, education service
+districts and institutions of higher education, including but not limited to
+public universities listed in ORS 352.002. The Oregon Infrastructure Finance
+Authority established in the department by ORS 285A.096 shall administer the
+grant program developed under this section. The funds for the seismic
+rehabilitation of critical public buildings under the grant program are to be
+provided from the issuance of bonds pursuant to the authority provided in
+Articles XI-M and XI-N of the Oregon Constitution. 
+
+       (2) The grant
+program shall include the appointment of a grant committee. The grant committee
+may be composed of any number of persons with qualifications that the authority
+determines necessary. However, the authority shall include persons with
+experience in administering state grant programs and representatives of
+entities with responsibility over critical public buildings. The authority
+shall also include as permanent members representatives of: 
+
+       (a) The Oregon
+Department of Emergency Management; 
+
+       (b) The State
+Department of Geology and Mineral Industries; 
+
+       (c) The Seismic
+Safety Policy Advisory Commission; 
+
+       (d) The Oregon
+Department of Administrative Services; 
+
+       (e) The
+Department of Education; 
+
+       (f) The Oregon
+Health Authority; 
+
+       (g) The Oregon
+Fire Chiefs Association; 
+
+       (h) The Oregon
+Association Chiefs of Police; 
+
+       (i) The Oregon
+Association of Hospitals and Health Systems; and 
+
+       (j) The
+Confederation of Oregon School Administrators. 
+
+       (3) The authority
+shall determine the form and method of applying for grants from the grant
+program, the eligibility requirements for grant applicants, and general terms
+and conditions of the grants. The authority shall also provide that the grant
+committee review grant applications and make a determination of funding based
+on a scoring system that is directly related to the statewide needs assessment
+performed by the State Department of Geology and Mineral Industries.
+Additionally, the grant process may: 
+
+       (a) Require that
+the grant applicant provide matching funds for completion of any seismic
+rehabilitation project. 
+
+       (b) Provide
+authority to the grant committee to waive requirements of the grant program
+based on special circumstances such as proximity to fault hazards, community
+value of the structure, emergency functions provided by the structure and
+storage of hazardous materials. 
+
+       (c) Allow an
+applicant to appeal any determination of grant funding to the authority for
+reevaluation. 
+
+       (d) Provide that
+applicants release the state, the authority and the grant committee from any
+claims of liability for providing funding for seismic rehabilitation. 
+
+       (e) Provide
+separate rules for funding rehabilitation of structural and nonstructural
+building elements. 
+
+       (4) Subject to
+the grant rules established by the authority and subject to reevaluation by the
+authority, the grant committee has the responsibility to review and make
+determinations on grant applications under the grant program established
+pursuant to this section. [Formerly 401.300; 2011 c.9 §50; 2013 c.782 §1; 2019
+c.384 §24; 2021 c.539 §48] 
+
+   
+
+ (State Resilience
+Officer) 
+
+   
+
+       401.913 State
+Resilience Officer; duties; monitoring of resilience planning by legislative
+and judicial branches. 
+(1) The office of State Resilience Officer is created in the office of the
+Governor. The office of State Resilience Officer shall direct, implement and
+coordinate hazard safety and resilience goal setting and state agency planning
+and preparation to improve hazard safety and resilience, including but not
+limited to planning and preparation for safety and resilience during and after
+earthquake, tsunami, wildfire, flooding and other natural or manmade events. 
+
+       (2) The State
+Resilience Officer shall lead statewide efforts to implement the Oregon
+Resilience Plan, the Natural Hazard Mitigation Plan and other resilience plans
+adopted by the state. 
+
+       (3) The State
+Resilience Officer shall lead executive branch agencies in continuity of
+operations planning and continuity of government planning. 
+
+       (4) The Governor
+shall appoint an individual to serve as the State Resilience Officer, subject
+to confirmation by the Senate pursuant to Article III, section 4, of the Oregon
+Constitution. 
+
+       (5) The
+legislative branch of government and the judicial branch of government shall
+each select an individual to monitor the effectiveness of hazard safety and
+resilience planning in their branch. [2015 c.762 §1; 2025 c.15 §1] 
+
+   
+
+       Note: 401.913 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 401
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+ (Seismic Safety Policy
+Advisory Commission) 
+
+   
+
+       401.915
+Seismic Safety Policy Advisory Commission; members; term. (1) There is established a Seismic
+Safety Policy Advisory Commission consisting of the following members: 
+
+       (a) The chief
+officer or the chief officer’s designee of the following: 
+
+       (A) Department of
+Consumer and Business Services; 
+
+       (B) State
+Department of Geology and Mineral Industries; 
+
+       (C) Department of
+Land Conservation and Development; 
+
+       (D) Department of
+Transportation; and 
+
+       (E) Oregon
+Department of Emergency Management; and 
+
+       (b) Thirteen
+members appointed by the Governor as follows: 
+
+       (A) One
+representative of local government; 
+
+       (B) Six members
+representing the public interest, including: 
+
+       (i) One
+representative of a school district, community college or university; 
+
+       (ii) Two members
+of the Legislative Assembly; and 
+
+       (iii) Three
+members of the general public; and 
+
+       (C) Six members
+representing affected industries or stakeholders. 
+
+       (2) The term of
+office of each member, except a member of the Legislative Assembly, appointed
+under subsection (1)(b) of this section is four years, but a member serves at
+the pleasure of the Governor. The term of office of a member of the Legislative
+Assembly expires at the end of the term for which the member is elected. Before
+the expiration of the term of a member, the Governor shall appoint a successor
+whose term begins on July 1 next following. A member is eligible for
+reappointment. If there is a vacancy for any cause, the Governor shall make an
+appointment to become immediately effective for the unexpired term. [Formerly
+401.337; 2021 c.539 §49] 
+
+   
+
+       401.918
+Mission of commission. 
+(1) The mission of the Seismic Safety Policy Advisory Commission shall be to
+reduce exposure to earthquake hazards in Oregon by: 
+
+       (a) Developing
+and influencing policy at the federal, state and local levels; 
+
+       (b) Facilitating
+improved public understanding and encouraging identification of risk; 
+
+       (c) Supporting
+research and special studies; 
+
+       (d) Supporting
+appropriate mitigation; 
+
+       (e) Supporting
+response and recovery; and 
+
+       (f) Supporting
+and assisting in the coordination of a grant program for the disbursement of
+funds for seismic rehabilitation of schools and emergency facilities. 
+
+       (2) The
+commission shall utilize and influence existing agencies and institutions in
+meeting its goals and is in no way intended to replace or compete with existing
+authorities relative to earthquakes. Emphasis shall be on coordination and
+linking of existing resources and authorities. 
+
+       (3) To improve
+public understanding of earthquake hazards, reduce such hazards and mitigate
+the possible effects of potentially damaging earthquakes, the commission shall
+review and advise the Governor and the Legislative Assembly concerning all
+plans and proposals addressing seismic hazards in the areas of: 
+
+       (a) Any
+legislative proposals. 
+
+       (b) Plans and
+proposals of statewide impact. 
+
+       (c) Lists of
+recommendations for actions and potential rule changes specifically by state
+agency. [Formerly 401.343] 
+
+   
+
+       401.920
+Officers; quorum; meetings; compensation and expenses. (1) The Seismic Safety Policy
+Advisory Commission shall select one of its members as chairperson and another
+as vice chairperson, for two-year terms and with duties and powers necessary
+for the performance of the functions of such offices as the commission
+determines. 
+
+       (2) A majority of
+the members of the commission constitutes a quorum for the transaction of
+business. 
+
+       (3) The
+commission shall meet at least once every two months at a place, day and hour
+determined by the commission. The commission also shall meet at other times and
+places specified by the call of the chairperson or of a majority of the members
+of the commission. 
+
+       (4) Each member
+of the commission, except a member of the Legislative Assembly, appointed under
+ORS 401.915 (1)(b) shall receive compensation and expenses as provided in ORS
+292.495. A legislative member shall receive compensation and expenses as
+provided in ORS 171.072. [Formerly 401.345] 
+
+   
+
+       401.922
+Support services. 
+The Oregon Department of Emergency Management shall provide technical, clerical
+and other necessary support services to the Seismic Safety Policy Advisory
+Commission. The Department of Consumer and Business Services, the State
+Department of Geology and Mineral Industries, the Department of Land
+Conservation and Development, the Department of Transportation, the Oregon
+Health Authority, the Water Resources Department and the public universities
+listed in ORS 352.002 shall provide assistance, as required, to the commission
+to enable it to meet its objectives. [Formerly 401.347; 2013 c.768 §140b; 2015
+c.767 §172; 2021 c.539 §50] 
+
+   
+
+       401.925
+Advisory and technical committees; expense reimbursement. (1) To aid and advise the Seismic
+Safety Policy Advisory Commission in the performance of its functions, the
+commission may establish such advisory and technical committees as it considers
+necessary. These committees may be continuing or temporary. The commission
+shall determine the representation, membership, terms and organization of the
+committees and shall appoint their members. 
+
+       (2) Members of
+the committees are not entitled to compensation, but in the discretion of the
+commission may be reimbursed from funds available to the commission for actual
+and necessary travel and other expenses incurred by them in the performance of
+their official duties, subject to ORS 292.495. [Formerly 401.353] 
+
+   
+
+ STRUCTURAL COLLAPSE 
+
+   
+
+       401.930
+Assignment by Governor of local resources under direction of State Fire
+Marshal. (1) The
+Governor may assign and make available for use and duty in any county, city or
+district, under the direction and command of the State Fire Marshal or a
+designee of the State Fire Marshal, any personnel or equipment resources of a
+county, city or district for the purpose of responding to the structural
+collapse, or the threat of imminent structural collapse, of a fixture to real
+property. This section does not authorize the Governor to assign and make
+available the fire-fighting resources of a fire district that possesses only
+one self-propelled pumping unit. 
+
+       (2) The Governor
+may assign and make available local resources under this section without
+declaring a state of emergency and without regard to the criteria established
+in ORS 401.032 for assuming authority or responsibility for responding to an
+event. The State Fire Marshal, or a designee of the State Fire Marshal, may
+direct and command the use of the local resources made available by the
+Governor under this section regardless of whether the county, city or district
+to which the resources are made available has declared a state of emergency
+under ORS 401.309. 
+
+       (3) The State
+Fire Marshal shall prepare plans for effectively carrying out this section and
+shall provide advice and counsel to the Governor for the most practical
+utilization of local resources under this section. [Formerly 401.638] 
+
+   
+
+       401.932 Powers
+and duties of local personnel acting under direction of State Fire Marshal. If county, city or district
+personnel are assigned and used under ORS 401.930 to respond to a structural
+collapse or threat of imminent structural collapse in another county, city or
+district, the personnel have the same powers, duties, rights, privileges and
+immunities as they have when performing their duties in the county, city or
+district in which they are normally employed. [Formerly 401.639] 
+
+   
+
+       401.935
+Liability for expenses incurred and for loss or damage to local equipment; filing
+claim. (1) If
+county, city or district equipment is assigned and used under ORS 401.930 to
+respond to a structural collapse or threat of imminent structural collapse in
+another county, city or district, the state: 
+
+       (a) Is liable for
+any resulting loss of, or damage to, the equipment. 
+
+       (b) Shall pay any
+expense incurred by the responding county, city or district for transportation,
+performance or maintenance of the equipment. 
+
+       (2) A claim for
+loss, damage or expense under subsection (1) of this section must be filed
+within 60 days after the loss, damage or expense is incurred, or within any
+extension of time for filing the claim granted by the Department of the State
+Fire Marshal. The claim must include an itemized notice of the claim, signed
+under oath, and be served by mail or personally upon the department. [Formerly
+401.641; 2025 c.177 §1] 
+
+   
+
+       401.938
+Liability for expenses incurred using local personnel. If county, city or district
+personnel are assigned and used under ORS 401.930 to respond to a structural
+collapse or threat of imminent structural collapse in another county, city or
+district and the response prevents the personnel from performing their duties
+in the county, city or district in which the personnel are normally employed,
+the state shall reimburse the county, city or district supplying the personnel
+for the compensation paid to the personnel during the response. The state shall
+also defray the actual travel and maintenance expenses for responding personnel
+incurred as a result of the response. [Formerly 401.643] 
+
+   
+
+       401.940
+Immunity from liability for local personnel acting in line of duty; exception. Personnel assigned under ORS
+401.930, the state or a county, city or district is not liable for any injury
+to person or property resulting from the performance of any duty under ORS
+401.930 or an assignment, use or response under ORS 401.930. However, this
+section does not confer immunity from liability for injury to person or
+property resulting from intentional misconduct or gross negligence. The
+immunity from liability provided to responding personnel under this section is
+in addition to any immunity available to responding personnel under ORS
+401.932. [Formerly 401.645] 
+
+   
+
+ TSUNAMI 
+
+   
+
+       401.950
+Definitions; tsunami warning information; rules. (1) As used in this section: 
+
+       (a) “Transient
+lodging facility” means a hotel, motel, inn, condominium, any other dwelling
+unit or a public or private park that is made available for transient occupancy
+or vacation occupancy as those terms are defined in ORS 90.100. 
+
+       (b) “Tsunami
+inundation zone” means an area of expected tsunami inundation, based on
+scientific evidence that may include geologic field data and tsunami modeling,
+determined by the governing board of the State Department of Geology and
+Mineral Industries, by rule, as required by ORS 455.446 (1) and (2). 
+
+       (2) The Oregon
+Department of Emergency Management, in consultation and cooperation with the
+State Department of Geology and Mineral Industries, shall: 
+
+       (a) Develop and
+adopt by rule tsunami warning information and evacuation plans for distribution
+to transient lodging facilities located in a tsunami inundation zone; and 
+
+       (b) Facilitate
+and encourage broad distribution of the tsunami warning information and
+evacuation plans to transient lodging facilities and other locations within
+tsunami inundation zones frequented by visitors to the area. 
+
+       (3) The Oregon
+Department of Emergency Management is not required to carry out the duties
+assigned under subsection (2) of this section if sufficient moneys are not
+available under ORS 401.955. [Formerly 401.861; 2019 c.502 §4; 2021 c.539 §51] 
+
+   
+
+       Note: 401.950 to 401.955 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 401 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation. 
+
+   
+
+       401.952
+Uniform tsunami warning signal; rules. 
+(1) The Oregon Department of Emergency Management, in consultation with the
+State Department of Geology and Mineral Industries, shall establish by rule a
+uniform tsunami warning signal, including rules specifying the type, duration
+and volume of the warning signal and the location of warning signal delivery
+devices, for use on the Oregon coast. 
+
+       (2) The Oregon
+Department of Emergency Management is not required to carry out the duties
+assigned under subsection (1) of this section if sufficient moneys are not
+available under ORS 401.955. [Formerly 401.863; 2021 c.539 §52] 
+
+   
+
+       Note: See note under 401.950. 
+
+   
+
+       401.955
+Contributions to finance tsunami warning system. The Oregon Department of Emergency
+Management or the State Department of Geology and Mineral Industries may seek
+and accept gifts, grants and donations from any source to finance all or part
+of the duties assigned under ORS 401.950 and 401.952. [Formerly 401.864; 2021
+c.539 §53] 
+
+   
+
+       Note: See note under 401.950. 
+
+   
+
+ ABNORMAL DISRUPTION OF
+MARKET 
+
+   
+
+       401.960
+Definitions for ORS 401.960, 401.962, 401.965 and 401.970. For the purposes of this section
+and ORS 401.962, 401.965 and 401.970: 
+
+       (1) “Abnormal
+disruption of the market” means any emergency that prevents ready availability
+of essential consumer goods or services. 
+
+       (2) “Essential
+consumer goods or services” means goods or services that: 
+
+       (a) Are or may be
+bought or acquired primarily for personal, family or household purposes,
+including but not limited to residential construction materials or labor,
+shelter for payment such as a hotel room, food, water and petroleum products
+such as gasoline or diesel fuel; and 
+
+       (b) Are necessary
+for the health, safety or welfare of consumers. [2009 c.718 §20] 
+
+   
+
+       401.962
+Legislative findings. 
+(1) The Legislative Assembly finds that during an abnormal disruption of the
+market, some merchants and wholesalers have taken unconscionable advantage of
+consumers by charging grossly excessive prices for essential consumer goods and
+services. 
+
+       (2) To prevent
+merchants and wholesalers from taking unconscionable advantage of consumers
+during an abnormal disruption of the market, the Legislative Assembly declares
+that the public interest requires that charging unconscionably excessive prices
+be prohibited and made subject to regulation as an unlawful trade practice. [Formerly
+401.106] 
+
+   
+
+       401.965
+Abnormal disruption of market. 
+(1) As used in subsections (1) to (4) of this section, the terms “merchant” and
+“wholesaler” do not include a public body as that term is defined in ORS
+174.109, a public utility as defined in ORS 757.005 (1)(a)(A) or an electric
+utility as defined in ORS 757.600. 
+
+       (2) A merchant or
+wholesaler may not sell or offer to sell essential consumer goods or services
+for an amount that represents an unconscionably excessive price during a
+declaration of an abnormal disruption of the market under subsections (5) to
+(7) of this section. 
+
+       (3) It is a
+question of law whether a price is unconscionably excessive. Proof that a price
+is unconscionably excessive may be shown by evidence that: 
+
+       (a) The amount
+charged for essential consumer goods or services exceeds by 15 percent or more
+the price at which the goods or services were sold or offered for sale by the
+merchant or wholesaler in the usual course of business immediately prior to or
+during a declaration of an abnormal disruption of the market; or 
+
+       (b) The amount
+charged for the essential consumer goods or services exceeds by 15 percent or
+more the price at which the same or similar consumer goods or services were
+readily obtainable by other consumers in or near the geographical area covered
+by the declaration of an abnormal disruption of the market. 
+
+       (4) Evidence
+described in subsection (3) of this section constitutes prima facie proof of a
+violation of subsections (1) to (4) of this section. Evidence described in
+subsection (3) of this section is not prima facie evidence of a violation of
+subsections (1) to (4) of this section if the amount charged by the merchant or
+wholesaler is: 
+
+       (a) Attributable
+to additional costs imposed by the merchant’s or wholesaler’s suppliers or
+necessarily incurred in procuring the essential consumer goods or services
+immediately prior to or during the declaration of an abnormal disruption of the
+market; or 
+
+       (b) The result of
+increased internal costs or expenses related to the declaration of an abnormal
+disruption of the market or the result of increased costs unrelated to the
+declaration of an abnormal disruption of the market. 
+
+       (5) If the
+Governor determines that an abnormal disruption of the market has occurred, the
+Governor may declare an abnormal disruption of the market by a proclamation, as
+part of a state of emergency declared under ORS 401.165, or both. 
+
+       (6) The Governor’s
+declaration of an abnormal disruption of the market under subsection (5) of
+this section shall specify: 
+
+       (a) The
+geographical area covered by the declaration. The area may be no larger than
+necessary to effectively respond to the abnormal disruption of the market. 
+
+       (b) The date and
+time at which the abnormal disruption of the market commenced. The date of
+commencement of the abnormal disruption of the market may precede the date on
+which the declaration is made. 
+
+       (c) That the
+declaration will terminate automatically 30 days after the date on which the
+Governor makes the declaration unless the Governor extends the declaration in
+accordance with paragraph (d) of this subsection or unless the Governor or the
+Legislative Assembly terminates the declaration sooner. 
+
+       (d) That the
+Governor may extend the declaration for additional 30-day periods by subsequent
+declarations that the abnormal disruption of the market continues to exist. 
+
+       (7) The Governor’s
+declaration of an abnormal disruption of the market is subject to termination: 
+
+       (a) By the
+Governor when the Governor determines that an abnormal disruption of the market
+no longer exists. 
+
+       (b) At any time
+by joint resolution of the Legislative Assembly. 
+
+       (c) Automatically
+30 days after the date on which the Governor makes the declaration unless the
+Governor or the Legislative Assembly terminates the declaration sooner. The
+Governor may extend the declaration for subsequent 30-day periods by declaring
+for each such extension that the abnormal disruption of the market continues to
+exist. An extension the Governor declares in accordance with this paragraph
+also terminates 30 days after the date on which the Governor declared the
+extension unless the Governor declares another extension or unless the Governor
+or the Legislative Assembly terminates the extension sooner. [Formerly 401.107] 
+
+   
+
+       401.970
+Applicability of remedies. 
+The remedies provided in ORS 401.965 (1) to (4) and in the amendments to ORS
+646.607 by section 6, chapter 223, Oregon Laws 2007, are in addition to any
+other remedies that may exist under the law. [Formerly 401.108] 
+
+   
+
+ ANIMAL RESCUE 
+
+   
+
+       401.975
+Legislative findings. 
+The Legislative Assembly finds that: 
+
+       (1) During an
+evacuation after a major disaster or an emergency, many pet owners are
+reluctant to leave their pets and are willing to risk their lives to protect
+their pets. 
+
+       (2) Animals are
+important to their owners and the presence of an animal brings comfort to an
+owner and may enhance recovery for an owner distressed over injury or damage
+caused by a major disaster or an emergency. 
+
+       (3) Significant
+loss of livestock as a result of a major disaster or an emergency would
+seriously threaten the economy of Oregon. Therefore, a livestock emergency
+operations plan will ensure that livestock are provided for during a major
+disaster or an emergency. 
+
+       (4) It is
+essential that the State Department of Agriculture, the Oregon Department of
+Emergency Management and the Department of Human Services work together to
+develop emergency operations plans for animals and livestock that provide for
+animals and livestock during a major disaster or an emergency. [Formerly
+401.271; 2021 c.269 §2; 2021 c.539 §54] 
+
+   
+
+       401.977 Animal
+emergency operations plan. 
+(1) As used in this section: 
+
+       (a) “Companion
+animal” means a domestic animal commonly kept as a household pet. 
+
+       (b) “Service
+animal” means an animal that assists or performs tasks for a person with a
+sensory, emotional, mental or physical disability. 
+
+       (2) The State
+Department of Agriculture, in cooperation with the Oregon Department of
+Emergency Management, the Department of Human Services and local governments,
+shall prepare a written animal emergency operations plan that provides for the
+evacuation, transport and temporary sheltering of companion animals and service
+animals during a major disaster or an emergency. 
+
+       (3) The State
+Department of Agriculture, in developing the plan, shall emphasize the
+protection of human life and shall consider: 
+
+       (a) Allowing
+owners of service animals to be evacuated, transported and sheltered with their
+service animals; 
+
+       (b) Establishing
+a sufficient number of evacuation shelters equipped to temporarily shelter
+companion animals and service animals in close proximity to a human sheltering
+facility; 
+
+       (c) Allowing
+owners and their companion animals to be evacuated together whenever possible; 
+
+       (d) Establishing
+an identification system to ensure that owners who are separated from their
+companion animals or service animals during an evacuation are provided with all
+information necessary to locate and reclaim their animals; 
+
+       (e) Transporting
+companion animals or service animals, in cages or carriers that safely and
+securely confine the animals, in an impending major disaster or emergency; 
+
+       (f) Recommending
+that animal shelters, humane societies, veterinary offices, boarding kennels,
+breeders, grooming facilities, animal testing facilities and any other entity
+that normally houses companion animals or service animals create evacuation
+plans for the animals housed at their facilities; 
+
+       (g) Establishing
+recommended minimum holding periods for companion animals or service animals
+that are sheltered during a major disaster or an emergency; and 
+
+       (h) Creating and
+promoting an educational campaign for owners of companion animals or service
+animals that will: 
+
+       (A) Encourage
+owners to plan for and incorporate their animals in the owners’ personal plans
+in the event of a major disaster or an emergency; and 
+
+       (B) Inform owners
+of companion animals or service animals about the animal emergency operations
+plan prepared under this section. [Formerly 401.272; 2021 c.269 §3; 2021 c.539 §55a] 
+
+   
+
+       401.978
+Livestock emergency operations plan. 
+(1) As used in this section, “livestock” means cattle, horses, sheep and any
+other animals designated by the State Department of Agriculture. 
+
+       (2) The State
+Department of Agriculture, in cooperation with the Oregon Department of
+Emergency Management and local governments, shall prepare a written livestock
+emergency operations plan that provides for the evacuation, transport and
+temporary sheltering of livestock during a major disaster or an emergency. 
+
+       (3) The State
+Department of Agriculture, in developing the plan, shall consider: 
+
+       (a) Methods for
+providing adequate food and water for livestock during a major disaster or an
+emergency; 
+
+       (b) Methods for
+providing livestock with adequate shelter or protection from harsh weather
+conditions during a major disaster or an emergency; 
+
+       (c) Creating and
+promoting an educational campaign for owners of livestock that will: 
+
+       (A) Encourage
+owners to plan for and incorporate their livestock in the owners’ personal
+plans in the event of a major disaster or an emergency; and 
+
+       (B) Inform owners
+of livestock about the livestock emergency operations plan prepared under this
+section; and 
+
+       (d) Any other
+methods or arrangements that the department determines would protect livestock
+during a major disaster or an emergency. [Formerly 401.274; 2021 c.539 §56] 
+
+   
+
+ NEWS MEDIA
+REPRESENTATIVES 
+
+   
+
+       401.980 Access
+to disaster sites by news media representatives. (1) Notwithstanding the provisions
+of any law, rule, ordinance, policy or order to the contrary, any official of a
+public body, as defined in ORS 174.109, must grant credentialed or documented
+representatives of news media organizations access to scenes of wildfires or
+natural disasters on public lands that are otherwise closed to the public. 
+
+       (2) Access by
+news media representatives to scenes of wildfires or natural disasters may be
+denied at the sole discretion of an on-site scene commander or the designee of
+an on-site scene commander. 
+
+       (3) In compliance
+with voluntary guidelines for recognition of news media representatives
+established under ORS 401.981, an official of a public body may request news
+media representatives to present credentials verifying completion of basic fire
+and natural disaster site safety training approved by an association
+representing professional news media and an association representing public
+safety agencies. The training must include at least all of the following: 
+
+       (a) Protocol for
+early phases of a fire or natural disaster before a formal public safety
+command structure is established. 
+
+       (b) Appropriate
+types of personal protective equipment and the uses of that equipment. 
+
+       (c) Driving and
+parking practices at wildfire and natural disaster sites. 
+
+       (d) Basic safety
+practices at wildfire and natural disaster sites. 
+
+       (e) Authority of
+on-site scene commanders. 
+
+       (4)(a) Except as
+described in subsection (2) of this section, an on-site scene commander or a
+designee of an on-site scene commander may, in their sole discretion, grant
+credentialed or documented news media representatives access to a scene of a
+wildfire or natural disaster without escort, provided that the news media
+representatives agree that entry is at their own risk and without promise of
+rescue. 
+
+       (b) Nothing in
+paragraph (a) of this subsection may be interpreted to require that
+credentialed or documented news media representatives be granted access to a
+scene of a wildfire or natural disaster without escort. 
+
+       (5) News media
+representatives must carry personal protective equipment appropriate for the
+scene of a wildfire or natural disaster they intend to enter. News media
+representatives must provide their own personal protective equipment and are
+responsible for the condition of the equipment. Public bodies are not required
+to supply personal protective equipment to news media representatives and are
+not required to assess the appropriateness or condition of the personal
+protective equipment of news media representatives. 
+
+       (6) A public body
+or public employee may not be held liable for the injury or death of a news
+media representative after the representative has entered the scene of a
+wildfire or natural disaster. 
+
+       (7) The State
+Forestry Department, Department of State Police, Department of the State Fire
+Marshal and any other state agency with responsibility for wildfire or natural
+disaster response may provide technical assistance to professional or trade
+associations representing news media or public bodies for the purpose of
+facilitating safety education. 
+
+       (8)
+Representatives of news media organizations may not impede wildfire or natural
+disaster response vehicles through actions including but not limited to
+inappropriately parking a vehicle or failing to yield to a public safety
+vehicle. Any unattended vehicle that impedes public safety or emergency vehicle
+access to a scene of wildfire or natural disaster may be towed without notice. 
+
+       (9) Nothing in
+this section alters the applicability of Federal Aviation Administration
+regulations that govern the closure or restriction of airspace over incidents
+that constitute the scene of a wildfire or natural disaster. 
+
+       (10) This section
+does not apply to privately owned property and does not serve as an impediment
+to application of trespass laws, rules or ordinances. 
+
+       (11) This section
+does not apply to property owned by: 
+
+       (a) School
+districts, as defined in ORS 332.002; 
+
+       (b) Public
+charter schools, as defined in ORS 338.005; 
+
+       (c) Education
+service districts, as defined in ORS 334.003; 
+
+       (d) Community
+college districts, as defined in ORS 341.005; or 
+
+       (e) Public
+universities listed in ORS 352.002. 
+
+       (12) Nothing in
+this section may be construed to require a public body to issue news media
+credentials or to maintain a list of credentialed news media representatives. [2022
+c.59 §1; 2025 c.177 §2] 
+
+   
+
+       Note: 401.980 and 401.981 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 401 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation. 
+
+   
+
+       401.981
+Committee to establish guidelines. 
+(1) The Oregon Department of Emergency Management shall convene a committee
+composed of equal numbers of news media and public safety agency stakeholders
+to develop the following voluntary guidelines for implementing ORS 401.980. 
+
+       (a)
+Recommendations for essential elements of basic fire and natural disaster site
+safety training for news media representatives that satisfies the training
+described in ORS 401.980 (3); 
+
+       (b) Examples of
+when circumstances warrant denial of access on grounds of compromising the
+safety of emergency response personnel, impeding the response of emergency
+equipment or personnel, protecting the privacy of victims of a wildfire or
+natural disaster or impeding the investigation of an incident that constitutes
+the scene of a wildfire or natural disaster; 
+
+       (c) Examples of
+when public bodies, as defined in ORS 174.109, may require news media
+representatives to provide and use their own personal protective equipment and
+may prescribe circumstances when particular types of personal protective
+equipment may be required; and 
+
+       (d) Examples of
+when public bodies should conduct safety briefings for news media
+representatives and the recommended content of safety briefings. 
+
+       (2) The
+department shall ensure that adopted guidelines are broadly disseminated to
+state and local public bodies and officials. 
+
+       (3) The committee
+described in subsection (1) of this section shall designate one representative
+of public safety agencies and one representative of news media to report on the
+work of the committee to the House Interim Committee on Rules before September
+1, 2022. 
+
+       (4) Nothing in
+this section may be construed to require a public body to issue news media
+credentials or to maintain a list of credentialed news media representatives. [2022
+c.59 §2] 
+
+   
+
+       Note: See note under 401.980. 
+
+   
+
+ PENALTIES 
+
+   
+
+       401.990
+Penalties. Any
+person knowingly violating any provision of this chapter, or any of the rules,
+regulations or orders adopted and promulgated under this chapter, shall, upon
+conviction thereof, be guilty of a Class C misdemeanor. [1967 c.480 §8; 1977
+c.248 §4; 1983 c.586 §41; 2009 c.718 §48] 
+
+   
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

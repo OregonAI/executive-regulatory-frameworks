@@ -1,0 +1,2130 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+543A — Reauthorizing and Decommissioning Hydroelectric Project 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+ s 
+
+   
+
+ REAUTHORIZATION OF HYDROELECTRIC
+PROJECTS 
+
+   
+
+ WATER LAWS 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 543A.005  Definitions 
+
+   
+
+ 543A.010  Findings 
+
+   
+
+ 543A.015  Purpose 
+
+   
+
+ 543A.020  Policy 
+
+   
+
+ 543A.025  Minimum standards for
+decision on reauthorization of water right; rules 
+
+   
+
+ WATER RIGHT APPLICATION PROCESS FOR
+REAUTHORIZING A STATE PROJECT 
+
+   
+
+ 543A.030  Notice of intent 
+
+   
+
+ 543A.035  Reauthorization
+application and public comment 
+
+   
+
+ 543A.040  Process determination 
+
+   
+
+ 543A.045  Public scoping meeting 
+
+   
+
+ 543A.050  Application report 
+
+   
+
+ 543A.055  Hydroelectric Application
+Review Team review of application; draft proposed final order; public comment 
+
+   
+
+ WATER RIGHT APPLICATION PROCESS FOR
+REAUTHORIZING A FEDERALLY LICENSED PROJECT 
+
+   
+
+ 543A.060  Coordination of state and
+federal reauthorization processes 
+
+   
+
+ 543A.065  Changes to expiration
+date of water right for existing project 
+
+   
+
+ 543A.071  Water Resources
+Department notification to holder of hydroelectric license or water right for
+hydroelectric purposes; response of holder 
+
+   
+
+ 543A.075  Notice of intent to apply
+for reauthorization of right to use water for hydroelectric purposes 
+
+   
+
+ 543A.080  Submission of preliminary
+application information 
+
+   
+
+ 543A.085  Public scoping meeting 
+
+   
+
+ 543A.090  Mid-study status report;
+public meeting; period for comment on status report 
+
+   
+
+ 543A.095  Draft application 
+
+   
+
+ 543A.100  Final application for
+water right; application for water quality certification 
+
+   
+
+ 543A.105  Hydroelectric Application
+Review Team review of final application; unified state position in federal
+proceeding 
+
+   
+
+ 543A.110  Water quality
+certification 
+
+   
+
+ 543A.115  Final unified state
+position 
+
+   
+
+ PROCESS FOR COMPLETING
+REAUTHORIZATION OF WATER RIGHT FOR EITHER STATE OR FEDERALLY LICENSED PROJECT 
+
+   
+
+ 543A.120  Proposed final order 
+
+   
+
+ 543A.125  Approval or rejection of
+application for reauthorization 
+
+   
+
+ 543A.130  Contested case hearing;
+final order 
+
+   
+
+ 543A.135  Exceptions to final order 
+
+   
+
+ 543A.140  Terms, limitations and
+conditions of water right 
+
+   
+
+ 543A.145  Water right certificate 
+
+   
+
+ 543A.150  Modification of time
+limits 
+
+   
+
+ DECOMMISSIONING 
+
+   
+
+ 543A.300  Decommissioning; rules 
+
+   
+
+ 543A.305  Conversion of
+hydroelectric water right to in-stream water right; exceptions 
+
+   
+
+ HYDROELECTRIC APPLICATION REVIEW
+TEAM 
+
+   
+
+ 543A.400  Duties of Hydroelectric
+Application Review Team 
+
+   
+
+ FEES AND EXPENSES 
+
+   
+
+ 543A.405  Application fees 
+
+   
+
+ 543A.410  Fee schedule; appeal 
+
+   
+
+ MISCELLANEOUS 
+
+   
+
+ 543A.800  Effect of hydroelectric
+reauthorization process on existing rights 
+
+   
+
+ 543A.805  Reference to licensee or
+license 
+
+   
+
+ 543A.810  Effect of amendment or
+repeal of law 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       543A.005
+Definitions. As
+used in ORS 543A.005 to 543A.410. 
+
+       (1) “Commission”
+means the Water Resources Commission. 
+
+       (2) “Department”
+means the Water Resources Department. 
+
+       (3) “Director”
+means the Water Resources Director. 
+
+       (4) “Federally
+licensed project” means an existing project licensed under ORS 543.260 that is
+also licensed by and has been or will be reviewed by the Federal Energy
+Regulatory Commission under the Federal Power Act, as amended. 
+
+       (5) “Project” has
+the meaning given in ORS 543.010. 
+
+       (6) “State
+project” means an existing project for which the authority to operate is a
+time-limited water right for the use of water for hydroelectric purposes and
+that is not licensed by the Federal Energy Regulatory Commission. “State
+project” includes a project granted an exemption by the Federal Energy
+Regulatory Commission. 
+
+       (7) “Team” means
+a Hydroelectric Application Review Team established pursuant to ORS 543A.035,
+543A.075 or 543A.300. 
+
+       (8) “Water right”
+includes the use of water for hydroelectric purposes pursuant to a license
+issued under ORS 543.260. [1997 c.449 §1] 
+
+   
+
+       543A.010
+Findings. The
+Legislative Assembly finds that many hydroelectric projects within the state
+hold water rights for hydroelectric purposes for a limited time period, and
+that those water rights will expire. State law does not currently prescribe a
+means for reauthorizing the use of water for hydroelectric purposes. Therefore,
+the Sixty-eighth Legislative Assembly created a hydroelectric task force to
+recommend a process and standards for a coordinated state review of existing
+facilities. The hydroelectric task force was composed of representatives of
+interested state agencies, investor-owned utilities, publicly owned utilities,
+municipalities, environmental organizations, agricultural organizations and
+nonutility owners of hydroelectric projects. In its report to the Sixty-ninth
+Legislative Assembly, the hydroelectric task force included legislative
+recommendations that served as the foundation for the provisions of this
+chapter and ORS 468.065, 468B.040, 468B.045, 468B.046, 536.015, 536.050,
+543.012 and 543.710. [1997 c.449 §2] 
+
+   
+
+       543A.015
+Purpose. It is the
+purpose of this chapter and ORS 468.065, 468B.040, 468B.045, 468B.046, 536.015,
+536.050, 543.012 and 543.710 to establish a process for developing a
+coordinated state position to be reflected in governmental proceedings related
+to the reauthorization of existing hydroelectric facilities. The coordinated
+state position shall be reflected in state decisions, including but not limited
+to decisions relating to the allocation of water, certification of water
+quality and other state regulatory actions, as well as in state comments on
+federal actions, including relicensing by the Federal Energy Regulatory
+Commission. [1997 c.449 §3] 
+
+   
+
+       543A.020
+Policy. The
+Legislative Assembly declares that it is the policy of the State of Oregon: 
+
+       (1) To
+reauthorize the use of water by existing projects provided that such projects
+meet the standards established in ORS 543A.025, are consistent with other
+applicable state laws and will not impair or be detrimental to the public
+interest. 
+
+       (2) To recognize
+that existing projects have resulted in both benefits and costs to society, and
+that the opportunity exists on reauthorization to promote the public benefits
+while minimizing the public costs. 
+
+       (3) To maintain
+or enhance the natural resources of the state and to protect the natural
+resources of the state from adverse impacts caused by the continued existence
+of a project. 
+
+       (4) To protect
+the health and safety of the residents of the state. 
+
+       (5) To require
+the Water Resources Department and other affected state agencies to conduct a
+coordinated review of projects seeking reauthorization in order to develop a
+unified state position in any local, state or federal proceedings related to
+the reauthorization of hydroelectric projects. [1997 c.449 §4] 
+
+   
+
+       543A.025
+Minimum standards for decision on reauthorization of water right; rules. (1) Following the process set
+forth in ORS 543A.005 to 543A.410, the Water Resources Director shall issue a
+water right for continued operation of an existing hydroelectric project upon a
+finding that the proposed use will not impair or be detrimental to the public
+interest, considering: 
+
+       (a) Conserving
+the highest use of the water for all purposes, including irrigation, domestic
+use, municipal water supply, power development, public recreation, protection
+of commercial and game fishing and wildlife, fire protection, mining,
+industrial purposes, navigation, scenic attraction or any other beneficial use
+to which the water may be applied for which it may have a special value to the
+public. 
+
+       (b) The maximum
+economic development of the waters involved. 
+
+       (c) The control
+of the waters of this state for all beneficial purposes, including drainage,
+sanitation and flood control. 
+
+       (d) The amount of
+waters available for appropriation for beneficial use. 
+
+       (e) The
+prevention of wasteful, uneconomic, impracticable or unreasonable use of the
+waters involved. 
+
+       (f) All vested
+and inchoate rights to the waters of this state or to the use of the waters of
+this state, and the means necessary to protect such rights. 
+
+       (g) The state
+water resources policy formulated under ORS 536.295 to 536.350 and 537.505 to
+537.534. 
+
+       (2) In
+determining whether the proposed use will impair or be detrimental to the
+public interest, the following minimum standards shall apply: 
+
+       (a) For impacts
+to fish and wildlife resources attributable to the project, the Water Resources
+Department shall require: 
+
+       (A) Mitigation
+for: 
+
+       (i) Adverse
+impacts that occur due to new construction or operational changes to the
+project; and 
+
+       (ii) Ongoing
+adverse impacts existing at the time of reauthorization; and 
+
+       (B) Appropriate
+measures to promote restoration and rehabilitation of fish and wildlife
+resources to support goals expressed in statute or in standards, plans,
+guidelines and policies adopted by rule by the State Fish and Wildlife
+Commission. 
+
+       (b) All
+conditions included in a water right certificate issued to reauthorize the use
+of water for hydroelectric purposes shall be consistent with any plan adopted
+by the Pacific Northwest Electric Power and Conservation Planning Council for
+the protection, mitigation and enhancement of the fish and wildlife resources
+of the region. 
+
+       (c) The project
+shall comply with water quality standards adopted by the Environmental Quality
+Commission. 
+
+       (d) The project
+shall not endanger the public health and safety. The project shall be operated
+in a manner that provides practical protection from vulnerability to seismic
+and geologic hazards. 
+
+       (e) Wetland
+resources shall be protected, maintained or enhanced. The Water Resources
+Department shall impose conditions on reauthorization consistent with this
+paragraph after considering impacts to wetland resources associated with the
+project, including wetlands lost or created by construction and operation of
+the project, and mitigation proposed by the applicant. Reauthorization that
+results in a net loss to existing wetland resources shall not be approved. 
+
+       (f) Other
+resources in the project vicinity including recreational opportunities, scenic
+and aesthetic values, historic, cultural and archaeological sites, and
+botanical resources shall be protected, maintained or enhanced. The department
+shall impose conditions on reauthorization consistent with this paragraph after
+considering impacts to such resources associated with the project, including
+resources lost or created by construction and operation of the project, and
+mitigation proposed by the applicant. If the project results in a net loss to
+existing resources, reauthorization shall not be approved. 
+
+       (3) In
+determining the mitigation, restoration and rehabilitation measures required
+under subsection (2) of this section, the Water Resources Department shall
+consider historic impacts, ongoing impacts and projected future impacts of the
+project and the existence and success of past mitigation measures associated
+with the project. Required mitigation, restoration and rehabilitation may
+include measures to restore or replace the benefits of historic resource
+conditions in order to meet resource goals contained in standards, plans,
+guidelines and policies adopted by rule by the State Fish and Wildlife
+Commission and in rules adopted by other state agencies with regulatory or
+advisory responsibility for the project. 
+
+       (4) The Water
+Resources Commission shall adopt all rules necessary to carry out the policy
+set forth in ORS 543A.020 and to implement the minimum standards set forth in
+subsection (2) of this section. In the absence of implementing rules, the
+department may act on applications for reauthorization of a project subject to
+the standards set forth in this section. 
+
+       (5) As used in
+this section, “mitigation” means addressing the adverse effects of a project
+proposed for reauthorization by considering, in the following order of
+priority: 
+
+       (a) Avoiding the
+impact altogether by not taking a certain development action or parts of that
+action; 
+
+       (b) Minimizing
+impacts by limiting the degree or magnitude of the development action and its
+implementation; 
+
+       (c) Rectifying
+the impact by repairing or rehabilitating the affected environment; 
+
+       (d) Reducing or
+eliminating the impact over time by preservation or maintenance operations
+during the life of the development action by monitoring and taking appropriate
+corrective measures; and 
+
+       (e) Compensating
+for the impact by replacing or providing comparable substitute resources or
+environments. [1997 c.449 §5] 
+
+   
+
+ WATER RIGHT APPLICATION
+PROCESS FOR REAUTHORIZING A STATE PROJECT 
+
+   
+
+       543A.030
+Notice of intent. 
+(1) Not later than three years before the expiration of a water right for a
+state project, the Water Resources Department shall notify the project owner of
+the expiration of the water right and request that the owner advise the
+department whether the owner intends to seek reauthorization of the water right
+for the state project. 
+
+       (2) If the owner
+does not intend to seek reauthorization, the owner shall, within 90 days after
+receiving notice under subsection (1) of this section, inform the department of
+the disposition of the state project. 
+
+       (3) If the owner
+intends to seek reauthorization, the owner shall, within 90 days after
+receiving notice under subsection (1) of this section, submit to the department
+a notice of intent to file an application for reauthorization of the water
+right. The notice of intent shall: 
+
+       (a) Include a
+statement of the applicant’s intent to continue operation of the state project;
+and 
+
+       (b) Describe the
+state project, including but not limited to the location and capacity of the
+state project and the identification of affected Indian tribes and local
+government entities. 
+
+       (4) The
+department shall cause public notice to be given upon receipt of a notice of
+intent. The public notice shall include the date of expiration of the water
+right and a description of the state project. 
+
+       (5) Only the
+project owner may apply to reauthorize the water right for a state project. [1997
+c.449 §6] 
+
+   
+
+       543A.035
+Reauthorization application and public comment. (1) Within 60 days after
+submitting a notice of intent under ORS 543A.030, the applicant shall submit to
+the Water Resources Department an application to reauthorize the water right
+for the state project on a form prescribed by the department. 
+
+       (2) The
+reauthorization application for a water right for the use of water for
+hydroelectric purposes shall set forth: 
+
+       (a) The name and
+post-office address of the applicant; 
+
+       (b) The location
+of the project by county and stream and, when appropriate, by city or nearby
+city; 
+
+       (c) The amount of
+water in cubic feet per second; 
+
+       (d) The
+theoretical water horsepower; and 
+
+       (e) Any other
+information required in the application form. 
+
+       (3) Upon receipt
+of a reauthorization application for the use of water for hydroelectric
+purposes, the Water Resources Department shall convene the Hydroelectric
+Application Review Team for the state project. The team shall consist of
+representatives of the Water Resources Department, the Department of
+Environmental Quality and the State Department of Fish and Wildlife and may
+include a representative of any other state agency that has regulatory or
+advisory responsibility for the state project or a resource or hazard affected
+by the state project. 
+
+       (4) Within seven
+days after receiving a reauthorization application under subsection (3) of this
+section, the department shall notify any person who responded to the notice of
+intent and give public notice of the application in the weekly public notice published
+by the department. The notice shall include a request for comments on the
+application and information pertaining to how an interested person may obtain
+future notices about the application and participate in the reauthorization
+process. 
+
+       (5) Within 45
+days after the public notice under subsection (4) of this section, any person
+interested in the application shall request future notices about the state
+project and may submit written comments to the department. [1997 c.449 §7; 2025
+c.282 §43] 
+
+   
+
+       Note: The amendments to 543A.035 by
+section 43, chapter 282, Oregon Laws 2025, become operative April 1, 2026. See
+section 48, chapter 282, Oregon Laws 2025, as amended by section 21c, chapter
+575, Oregon Laws 2025. The text that is operative until April 1, 2026, is set
+forth for the user’s convenience. 
+
+       543A.035. (1) Within 60 days after
+submitting a notice of intent under ORS 543A.030, the applicant shall submit to
+the Water Resources Department an application to reauthorize the water right
+for the state project on a form prescribed by the department. 
+
+       (2) The
+reauthorization application for a water right for the use of water for
+hydroelectric purposes shall set forth: 
+
+       (a) The name and
+post-office address of the applicant; 
+
+       (b) The location
+of the project by county and stream and, when appropriate, by city or nearby
+city; 
+
+       (c) The amount of
+water in cubic feet per second; 
+
+       (d) The
+theoretical water horsepower; and 
+
+       (e) Any other
+information required in the application form. 
+
+       (3) Upon receipt
+of a reauthorization application for the use of water for hydroelectric
+purposes, the Water Resources Department shall convene the Hydroelectric
+Application Review Team for the state project. The team shall consist of
+representatives of the Water Resources Department, the Department of
+Environmental Quality and the State Department of Fish and Wildlife and may
+include a representative of any other state agency that has regulatory or
+advisory responsibility for the state project or a resource or hazard affected
+by the state project. 
+
+       (4) Within seven
+days after receiving a reauthorization application under subsection (3) of this
+section, the department shall notify any person who responded to the notice of
+intent and give public notice of the application in the weekly notice published
+by the department. The notice shall include a request for comments on the
+application and information pertaining to how an interested person may obtain
+future notices about the application and participate in the reauthorization
+process. 
+
+       (5) Within 45
+days after the public notice under subsection (4) of this section, any person
+interested in the application shall request future notices about the state
+project and may submit written comments to the department. 
+
+   
+
+       543A.040
+Process determination. 
+(1) Within 60 days after the close of the period allowed for public comment
+under ORS 543A.035, the Hydroelectric Application Review Team shall determine
+whether the reauthorization application for the water right contains sufficient
+information to determine whether reauthorization of the state project will
+comply with ORS 543A.025. 
+
+       (2) If the team
+decides that sufficient information is available to determine whether
+reauthorization of the water right for the state project will comply with ORS
+543A.025, the team shall proceed with expedited processing of the
+reauthorization application. The team shall review the application and any
+public comments received on the application and prepare a draft proposed final
+order, including findings of fact and conclusions of law, for the water right.
+Upon completion of the draft proposed final order, the team shall give public
+notice of the draft proposed final order in the weekly public notice published
+by the Water Resources Department. The notice shall include a request for
+comments on the draft proposed final order. 
+
+       (3) Within 60
+days after the public notice under subsection (2) of this section, any person
+interested in the draft proposed final order shall submit written comments to
+the team. A person who submits written comments under this subsection shall
+identify the provision of the draft proposed final order in question and
+specify why the person objects to or supports the provision. The team shall
+review the comments received and may revise the draft proposed final order.
+Unless the department receives a request under subsection (4) of this section,
+the team shall submit a proposed final order to the department within 30 days
+after the close of the period for public comment on the draft proposed final
+order. 
+
+       (4) If the draft
+proposed final order prepared by the team under subsection (2) of this section
+proposes to deny the application for reauthorization of the water right, the
+applicant may request the department to process the application in accordance
+with ORS 543A.045 to 543A.055. The applicant shall submit a request under this
+subsection within the 60-day period allowed for public comment on the draft
+proposed final order. 
+
+       (5) Unless the
+department receives a request under subsection (4) of this section, the
+department shall issue the proposed final order in accordance with the
+provisions of ORS 543A.120 to 543A.300. 
+
+       (6) If the team
+determines that additional information is necessary to determine whether
+reauthorization of the state project will comply with ORS 543A.025, the
+applicant shall comply with the process established in ORS 543A.045 to 543A.055
+and 543A.120 to 543A.300. [1997 c.449 §8; 2025 c.282 §44] 
+
+   
+
+       Note: The amendments to 543A.040 by
+section 44, chapter 282, Oregon Laws 2025, become operative April 1, 2026. See
+section 48, chapter 282, Oregon Laws 2025, as amended by section 21c, chapter
+575, Oregon Laws 2025. The text that is operative until April 1, 2026, is set
+forth for the user’s convenience. 
+
+       543A.040. (1) Within 60 days after the close
+of the period allowed for public comment under ORS 543A.035, the Hydroelectric
+Application Review Team shall determine whether the reauthorization application
+for the water right contains sufficient information to determine whether
+reauthorization of the state project will comply with ORS 543A.025. 
+
+       (2) If the team
+decides that sufficient information is available to determine whether
+reauthorization of the water right for the state project will comply with ORS
+543A.025, the team shall proceed with expedited processing of the
+reauthorization application. The team shall review the application and any
+public comments received on the application and prepare a draft proposed final
+order, including findings of fact and conclusions of law, for the water right.
+Upon completion of the draft proposed final order, the team shall give public
+notice of the draft proposed final order in the weekly notice published by the
+Water Resources Department. The notice shall include a request for comments on
+the draft proposed final order. 
+
+       (3) Within 60
+days after the public notice under subsection (2) of this section, any person
+interested in the draft proposed final order shall submit written comments to
+the team. A person who submits written comments under this subsection shall
+identify the provision of the draft proposed final order in question and
+specify why the person objects to or supports the provision. The team shall
+review the comments received and may revise the draft proposed final order.
+Unless the department receives a request under subsection (4) of this section,
+the team shall submit a proposed final order to the department within 30 days
+after the close of the period for public comment on the draft proposed final
+order. 
+
+       (4) If the draft
+proposed final order prepared by the team under subsection (2) of this section
+proposes to deny the application for reauthorization of the water right, the
+applicant may request the department to process the application in accordance
+with ORS 543A.045 to 543A.055. The applicant shall submit a request under this
+subsection within the 60-day period allowed for public comment on the draft
+proposed final order. 
+
+       (5) Unless the
+department receives a request under subsection (4) of this section, the
+department shall issue the proposed final order in accordance with the
+provisions of ORS 543A.120 to 543A.300. 
+
+       (6) If the team
+determines that additional information is necessary to determine whether
+reauthorization of the state project will comply with ORS 543A.025, the
+applicant shall comply with the process established in ORS 543A.045 to 543A.055
+and 543A.120 to 543A.300. 
+
+   
+
+       543A.045
+Public scoping meeting. 
+(1) If the Hydroelectric Application Review Team finds additional information
+is necessary to complete the reauthorization process, the applicant, in
+conjunction with the team, shall convene a public scoping meeting. 
+
+       (2) The applicant
+shall be responsible for conducting the public scoping meeting. The team,
+federal agencies, federally recognized Indian tribes and members of the public
+shall be invited to participate. The purpose of the public scoping meeting
+shall be to allow an opportunity for the participants to review the information
+available and to: 
+
+       (a) Discuss a
+proposed schedule for completion of the reauthorization process; 
+
+       (b) Discuss
+studies and additional information that may be needed; and 
+
+       (c) Identify
+other resources and other health and safety issues of the state that must be
+considered in the reauthorization process. 
+
+       (3) At the public
+scoping meeting, the team shall: 
+
+       (a) Explain to
+the public the process for reauthorizing the state project; and 
+
+       (b) Identify to
+the public the members of the team. 
+
+       (4) Within 90
+days after the public scoping meeting, the team shall publish notice of the
+availability of the plan for completing the review process, including a time
+schedule. The plan shall be developed by the Water Resources Department in
+consultation with the applicant. [1997 c.449 §9] 
+
+   
+
+       543A.050
+Application report. 
+In accordance with the schedule established pursuant to ORS 543A.045, and after
+conducting the studies and collecting the additional information identified at
+the public scoping meeting under ORS 543A.045, the applicant shall prepare an
+application report and file the report with the Hydroelectric Application
+Review Team. The application report shall include study results, proposed
+mitigation measures, applicable state statutes and rules and any necessary
+changes to the operation of the hydroelectric project required to comply with
+such statutes and rules. [1997 c.449 §10] 
+
+       543A.055
+Hydroelectric Application Review Team review of application; draft proposed
+final order; public comment. 
+(1) The Hydroelectric Application Review Team shall review the application
+report prepared under ORS 543A.050 and prepare a draft proposed final order
+approving or denying the reauthorization of the water right. The draft proposed
+final order shall include the findings required for a proposed final order
+under ORS 543A.120. Upon completion of the draft proposed final order, the
+Water Resources Department shall give public notice of the draft proposed final
+order in the weekly public notice published by the department. The notice shall
+include a request for comments on the draft proposed final order. 
+
+       (2) Within 60
+days after the public notice under subsection (1) of this section, any person
+interested in the draft proposed final order shall submit written comments to
+the team. 
+
+       (3) Within 30
+days after the close of the period for public comment on the draft proposed
+final order, the team shall make any revisions necessary in response to
+comments received and submit a proposed final order to the department. 
+
+       (4) The
+department shall complete the reauthorization process in accordance with the
+provisions of ORS 543A.120 to 543A.300. [1997 c.449 §11; 2025 c.282 §45] 
+
+   
+
+       Note: The amendments to 543A.055 by
+section 45, chapter 282, Oregon Laws 2025, become operative April 1, 2026. See
+section 48, chapter 282, Oregon Laws 2025, as amended by section 21c, chapter
+575, Oregon Laws 2025. The text that is operative until April 1, 2026, is set
+forth for the user’s convenience. 
+
+       543A.055. (1) The Hydroelectric Application
+Review Team shall review the application report prepared under ORS 543A.050 and
+prepare a draft proposed final order approving or denying the reauthorization
+of the water right. The draft proposed final order shall include the findings
+required for a proposed final order under ORS 543A.120. Upon completion of the
+draft proposed final order, the Water Resources Department shall give public
+notice of the draft proposed final order in the weekly notice published by the
+department. The notice shall include a request for comments on the draft
+proposed final order. 
+
+       (2) Within 60
+days after the public notice under subsection (1) of this section, any person
+interested in the draft proposed final order shall submit written comments to
+the team. 
+
+       (3) Within 30
+days after the close of the period for public comment on the draft proposed
+final order, the team shall make any revisions necessary in response to
+comments received and submit a proposed final order to the department. 
+
+       (4) The
+department shall complete the reauthorization process in accordance with the
+provisions of ORS 543A.120 to 543A.300. 
+
+   
+
+ WATER RIGHT APPLICATION
+PROCESS FOR REAUTHORIZING A FEDERALLY LICENSED PROJECT 
+
+   
+
+       543A.060
+Coordination of state and federal reauthorization processes. (1) For a federally licensed
+project, the Water Resources Department and the Hydroelectric Application
+Review Team shall conduct the state reauthorization review, to the maximum
+extent feasible, in a manner that is consistent with and avoids duplication of
+federal agency review. Such coordination shall include, but need not be limited
+to: 
+
+       (a) Whenever
+feasible, elimination of duplicative application, study and reporting
+requirements; 
+
+       (b) Hydroelectric
+Application Review Team use of information generated and documents prepared for
+the federal agency review; 
+
+       (c) Development
+with the federal agency and reliance on a joint record to address applicable
+state standards; 
+
+       (d) Whenever
+feasible, joint hearings and issuance of a state water right decision in a time
+frame consistent with the federal agency review; and 
+
+       (e) To the extent
+consistent with applicable state standards, establishment of conditions in any
+state hydroelectric water right that are consistent with the conditions
+established, or required to be incorporated into licensing, by the federal
+agency. 
+
+       (2) In order to
+better coordinate with the review of the project by the Federal Energy
+Regulatory Commission, the team may, at the request of an applicant, make
+changes to the process set forth in ORS 543A.060 to 543A.115, if the changes do
+not diminish opportunities for public input otherwise provided by ORS 543A.060
+to 543A.115. [1997 c.449 §12] 
+
+   
+
+       543A.065
+Changes to expiration date of water right for existing project. (1) Notwithstanding the expiration
+date set forth in a water right for an existing federally licensed project,
+upon the request of the holder of the water right, the Water Resources
+Department may: 
+
+       (a) Extend the
+expiration date of the water right, for a period of up to 15 years, to
+correspond to the expiration date of the federal license for the project; or 
+
+       (b) Process an
+application for reauthorization of the water right prior to the actual
+expiration date of the water right in order to correspond with the expiration
+of the federal license for the project. 
+
+       (2) For a project
+with a water right that expires more than 15 years before the expiration date
+of the federal license for the project, the Hydroelectric Application Review
+Team shall evaluate the project under the process and standards established in
+ORS 543A.005 to 543A.025 and 543A.060 to 543A.410 for a state project. A
+reauthorized water right for such a project may be for a term concurrent with
+the federal license. [1997 c.449 §13] 
+
+   
+
+       543A.070 [1997 c.449 §14; repealed by 1999
+c.873 §14 (543A.071 enacted in lieu of 543A.070)] 
+
+   
+
+       543A.071 Water
+Resources Department notification to holder of hydroelectric license or water
+right for hydroelectric purposes; response of holder. (1) Not later than six years
+before the expiration of any state or federal hydroelectric license or state
+authorized water right issued to a federally licensed project, the Water
+Resources Department shall notify the holder of the date of expiration of the
+right or license and shall ask that the holder advise the department whether
+the holder intends to seek reauthorization or relicensing. 
+
+       (2) If the holder
+does not intend to seek reauthorization, the holder shall inform the department
+within 90 days after receiving notice under subsection (1) of this section of
+the proposed disposition of the federally licensed project. 
+
+       (3) If the holder
+intends to seek reauthorization, the holder shall inform the department within
+90 days after receiving notice under subsection (1) of this section whether the
+holder intends to seek reauthorization of the water right concurrently with the
+federal relicensing. 
+
+       (4) A holder
+seeking relicensing and reauthorization concurrently: 
+
+       (a) Shall not, by
+applying for reauthorization, under ORS 543A.075 and in the absence of
+agreement by the holder, be deemed to have accelerated the actual expiration
+date of the project’s water right; and 
+
+       (b) May, upon
+providing concurrent notification to the Federal Energy Regulatory Commission,
+withdraw and void its application for reauthorization at any time prior to
+issuance of the final water right certificate issued by the Water Resources
+Director without prejudice to its right to reapply for reauthorization of its
+water right. 
+
+       (5) Any water
+right issued by the Water Resources Department pursuant to an application filed
+under this chapter shall become effective upon the issuance of the new water
+right. The existing water right shall be canceled immediately upon issuance of
+the new water right. 
+
+       (6) A holder not
+electing to concurrently seek reauthorization but seeking relicensing shall
+notify the Water Resources Department of its position and shall indicate in the
+notification its plans for the project and the project’s state water right. 
+
+       (7) In the
+absence of agreement by the holder to pay the application fees under ORS
+543A.405, and notwithstanding the provisions of ORS 543A.015, the state is not
+required to develop and provide a coordinated state position. [1999 c.873 §15
+(enacted in lieu of 543A.070)] 
+
+   
+
+       543A.075
+Notice of intent to apply for reauthorization of right to use water for
+hydroelectric purposes. 
+(1) Each person operating an existing federally licensed project and intending
+to apply for reauthorization shall submit to the Water Resources Department a
+notice of intent to file an application for reauthorization of the water right
+for the project. If the person intends to seek reauthorization concurrently
+with federal relicensing, the notice of intent shall be submitted at the same
+time the person provides the information to the department under ORS 543A.071
+(3). The notice of intent shall include: 
+
+       (a) The name and
+post-office address of the applicant; 
+
+       (b) The federal
+project number; 
+
+       (c) The
+expiration date of the federal license and state water right for the project; 
+
+       (d) An
+unequivocal statement of the applicant’s intention to file an application for
+reauthorization of the state water right; 
+
+       (e) The location
+of the project by county and stream and, when appropriate, by city or nearby
+city; 
+
+       (f) The amount of
+water in cubic feet per second; and 
+
+       (g) The project
+capacity. 
+
+       (2) Upon receipt
+of a notice of intent under subsection (1) of this section, the department
+shall: 
+
+       (a) Convene the
+Hydroelectric Application Review Team for the project. The team shall consist
+of representatives of the Water Resources Department, the Department of
+Environmental Quality and the State Department of Fish and Wildlife and may
+include a representative of any other agency that has regulatory or advisory
+responsibility for the project or a resource or hazard affected by the project. 
+
+       (b) Provide
+public notice of the receipt of the notice of intent. The public notice shall
+provide the date of the public scoping meeting to be conducted under ORS
+543A.085 and include a description of the hydroelectric project, the location
+of the project, the expiration dates of the water right for the project and the
+Federal Energy Regulatory Commission license for the project, and information
+pertaining to how an interested person may obtain future notices about the
+application and participate in the reauthorization process. 
+
+       (3) Any person
+who is authorized by the Federal Energy Regulatory Commission to apply for a
+license for a federally licensed project may apply to reauthorize a water right
+for the project. The team shall process such applications under the standards
+and process set forth in ORS 543A.060 to 543A.300 for a federally licensed
+project. A nonowner applicant may obtain a water right with the priority date
+of the expiring water right only if the applicant submits a notice of intent
+within six months after the owner submits a preliminary application as
+described in ORS 543A.080, or within 30 days after June 30, 1997, whichever is
+later. [1997 c.449 §15; 1999 c.873 §16] 
+
+   
+
+       543A.080
+Submission of preliminary application information. Within 30 days after an applicant
+provides a notice of intent under ORS 543A.075, the applicant shall provide to
+the Water Resources Department a preliminary application, which shall be the
+first-stage consultation document of the Federal Energy Regulatory Commission.
+The preliminary application shall include the following information: 
+
+       (1) Detailed maps
+showing existing project boundaries, if any, proper land descriptions of the
+entire project area by township, range and section, and also showing the
+specific location of all existing and proposed project facilities, including
+but not limited to roads, transmission lines and other appurtenant facilities; 
+
+       (2) A general
+engineering design of the existing project and any proposed changes, with a
+description of any existing or proposed diversion of a stream through a canal
+or a penstock; 
+
+       (3) A summary of
+the existing operational mode of the project and any proposed changes; 
+
+       (4)
+Identification of the environment affected or to be affected, the significant
+resources and hazards present and the applicant’s existing and proposed
+environmental protection, mitigation and enhancement plans, to the extent known
+at that time; 
+
+       (5) Streamflow
+and water information; 
+
+       (6) Detailed
+descriptions of any proposed studies and the proposed methodologies to be
+employed; and 
+
+       (7) Any other
+information required in the application form provided by the department. [1997
+c.449 §16] 
+
+   
+
+       543A.085
+Public scoping meeting. 
+(1) Not less than 30 days but not more than 60 days after submitting the
+preliminary application information as required under ORS 543A.080, the
+applicant, in conjunction with the Hydroelectric Application Review Team, shall
+convene a public scoping meeting. To the extent practicable, the applicant
+shall conduct the public scoping meeting at the first stage of the Federal
+Energy Regulatory Commission review of the federal license for the project. 
+
+       (2) The applicant
+is responsible for conducting the public scoping meeting and shall invite the
+team, federal agencies, federally recognized Indian tribes and members of the
+public to participate. The purpose of the public scoping meeting is to allow an
+opportunity for the participants to review the information available and to: 
+
+       (a) Discuss a
+proposed schedule for completion of the reauthorization process; 
+
+       (b) Discuss
+studies and additional information that may be needed; and 
+
+       (c) Identify
+other resources and other health and safety issues of the state that must be
+considered in the reauthorization process. 
+
+       (3) At the public
+scoping meeting, the team shall: 
+
+       (a) Explain to
+the public the process for reauthorizing the project; and 
+
+       (b) Identify to
+the public the members of the team. 
+
+       (4) Following the
+public scoping meeting, the team shall allow 60 days for public comment on the
+preliminary application information, the proposed schedule, proposed studies
+and other resources and other health and safety issues to be considered in the
+reauthorization process. 
+
+       (5) Within 90
+days after the public scoping meeting, the applicant shall develop and submit
+study proposals to the team. Upon receipt of the proposals, the team and the
+applicant shall publish notice of the availability of the proposals and allow
+30 days for the public to provide comments on the proposals. 
+
+       (6) Based on its
+review of the comments and recommendations on the study proposals from the
+Hydroelectric Application Review Team, other state agencies and local
+governments, federally recognized Indian tribes and members of the public, the
+applicant shall prepare final study proposals and methodology and submit the
+final study proposals and methodology to the team. Upon receipt of the final
+study proposals and methodology, the team shall make the applicant’s study
+proposals and methodology available to the public. 
+
+       (7) The study
+proposals shall allow at least two years for completing the studies. [1997
+c.449 §17; 2001 c.369 §1] 
+
+   
+
+       543A.090
+Mid-study status report; public meeting; period for comment on status report. (1) Upon completion of the first
+year of studies, the applicant shall prepare a mid-study status report and
+present the mid-study status report to all interested persons at a public
+meeting. Following the public meeting, the Hydroelectric Application Review
+Team, other state agencies and local governments, federally recognized Indian
+tribes, federal agencies and members of the public shall have 30 days to
+comment on the status report and suggest changes to the studies. 
+
+       (2) The applicant
+shall consider any comments received in response to the mid-study status report
+and make any necessary changes prior to completing the second year of studies. [1997
+c.449 §18; 2001 c.369 §2] 
+
+   
+
+       543A.095 Draft
+application. (1)
+Not later than one year before the applicant files a final application with the
+Federal Energy Regulatory Commission to reauthorize the federal license for the
+hydroelectric project, the applicant shall file with the Hydroelectric
+Application Review Team: 
+
+       (a) A draft
+application for a water right for the project, which shall be the Federal
+Energy Regulatory Commission draft application; and 
+
+       (b) Information
+regarding potential water quality impacts of the project. 
+
+       (2) The applicant
+shall provide the team with copies of any agency and public comment submitted
+to the applicant in the Federal Energy Regulatory Commission proceedings or in
+the state reauthorization proceedings. 
+
+       (3) The applicant
+shall include with the application required under subsection (1) of this
+section the final report on the studies conducted pursuant to ORS 543A.085. 
+
+       (4) Upon receipt
+of the draft application, the team shall identify in writing to the applicant
+any informational and analytical deficiencies. Subject to any identified
+deficiencies, the team shall prepare a provisional state position on: 
+
+       (a) Whether, and
+under what conditions, the Water Resources Department should issue the water
+right; 
+
+       (b) Whether the
+project would comply with ORS 468B.040 and water quality standards adopted by
+the Environmental Quality Commission, and what conditions might be appropriate
+under 33 U.S.C. 1341(d); and 
+
+       (c)
+Recommendations to the Federal Energy Regulatory Commission under 16 U.S.C.
+803(j). 
+
+       (5) Upon
+completion of the provisional state position, the team shall give public notice
+of the availability of the provisional state position. The notice shall allow
+30 days for the public to comment on the provisional state position. 
+
+       (6) Based on
+comments received during the 30-day public comment period allowed under
+subsection (5) of this section, the team may revise the provisional state
+position. The team also shall resolve any conflict between agencies about the
+provisional state position. 
+
+       (7) After
+considering agency and public comments, resolving interagency conflicts and
+making any necessary revisions, but no later than 160 days before the date by
+which the final application must be filed with the Federal Energy Regulatory
+Commission, the team shall provide the applicant with the provisional unified
+position of the state. However, the provisional unified position shall not
+constitute a final agency determination or action under any authority. [1997
+c.449 §19; 2001 c.369 §3] 
+
+   
+
+       543A.100 Final
+application for water right; application for water quality certification. Not less than two years before the
+expiration of the federal license for the project, the applicant shall submit
+the final application to reauthorize the water right and a request for
+certification under ORS 468B.040 and 33 U.S.C. 1341. The application submitted
+under this section shall be the same as the final application submitted to the
+Federal Energy Regulatory Commission for the new federal license for the
+project. [1997 c.449 §20] 
+
+   
+
+       543A.105
+Hydroelectric Application Review Team review of final application; unified
+state position in federal proceeding. 
+(1) The Hydroelectric Application Review Team shall review the applications
+submitted under ORS 543A.100 and prepare a second proposed unified state
+position, which shall include: 
+
+       (a) A draft
+proposed final order approving or denying the reauthorization of the water
+right, which shall include but need not be limited to the findings required for
+a proposed final order under ORS 543A.120; 
+
+       (b) Proposed
+recommendations to the Federal Energy Regulatory Commission under 16 U.S.C.
+803(j); 
+
+       (c) A proposed
+coordinated state response to the Federal Energy Regulatory Commission,
+including any additional information requests and recommended conditions to be
+included in the federal license for the project; and 
+
+       (d) Proposed
+recommendations for certification of the project under ORS 468B.040 and 33
+U.S.C. 1341, including any proposed conditions under 33 U.S.C. 1341(d). 
+
+       (2) The team
+shall submit the second proposed unified state position to the Department of
+Environmental Quality. The team shall provide public notice and a 60-day
+opportunity for public comment on the proposals required under subsection
+(1)(a) to (c) of this section. The Department of Environmental Quality shall
+concurrently provide public notice and a 60-day opportunity for public comment
+on the proposed water quality certification decision and conditions required
+under subsection (1)(d) of this section. 
+
+       (3) The team
+shall provide the second proposed unified state position even if an application
+required under ORS 543A.100 contains incomplete or deficient information or
+analysis. The second proposed unified state position may reflect the incomplete
+or deficient information or analysis. 
+
+       (4) The team may
+submit to the Federal Energy Regulatory Commission and the applicant any
+proposed state response, recommendations, conditions or additional information
+requests, coordinated in accordance with this chapter, at any time necessary to
+satisfy a deadline established by the Federal Energy Regulatory Commission for
+the submission, even if the procedures set forth in this section for the
+development of a second proposed unified state position have not been
+completed. [1997 c.449 §21; 2001 c.369 §4] 
+
+   
+
+       543A.110 Water
+quality certification. 
+(1) Upon completion of the public comment period for proposed recommendations
+under ORS 543A.105 (1)(d), the Department of Environmental Quality shall
+evaluate the request for water quality certification submitted under ORS
+543A.100 in accordance with ORS 468B.040 and rules adopted under ORS 468B.040.
+The Director of the Department of Environmental Quality shall act in accordance
+with the proposed recommendations submitted by the Hydroelectric Application
+Review Team under ORS 543A.105 (1)(d) unless the director finds, based upon
+public comment or new information, that the project would not comply with water
+quality standards adopted by the Environmental Quality Commission or would not
+be consistent with other appropriate requirements of state law. If the director’s
+proposed decision is not in accordance with the proposed recommendations
+submitted by the team under ORS 543A.105 (1)(d), the director shall seek a
+recommendation from the team before issuing a final decision on water quality
+certification. The director shall consider any further recommendation from the
+team, and issue a final certification decision to the applicant and to the
+team. 
+
+       (2) As used in
+this section, “director” means the Director of the Department of Environmental
+Quality. [1997 c.449 §21a; 2001 c.369 §5] 
+
+   
+
+       543A.115 Final
+unified state position. 
+(1) Upon receipt of the Department of Environmental Quality’s water quality
+certification decision, the Hydroelectric Application Review Team shall prepare
+a final unified state position. The final unified state position shall take
+into consideration public comments received, shall be consistent with the
+Department of Environmental Quality’s water quality certification decision and
+shall incorporate conditions attached to any certification by the Director of
+the Department of Environmental Quality pursuant to 33 U.S.C. 1341(d). The
+final unified state position also shall include recommendations under 16 U.S.C.
+803(j), any other conditions recommended for inclusion in the federal license
+for the project and any additional information requests to be addressed in the
+federal proceeding. The team also shall prepare a proposed final order on
+reauthorization of a water right for the project. 
+
+       (2) The team
+shall provide the final unified state position to the applicant and to the
+Federal Energy Regulatory Commission. The team shall submit the proposed final
+order on reauthorization of the water right to the Water Resources Department.
+Upon receipt of the proposed final order, the department shall complete
+processing of the application for reauthorization of the water right in
+accordance with the provisions of ORS 543A.120 to 543A.300. 
+
+       (3) The team may
+submit to the Federal Energy Regulatory Commission and the applicant any
+proposed final unified state position, comments, recommendations, conditions or
+additional information requests, coordinated in accordance with this chapter,
+at any time necessary to satisfy a deadline established by the Federal Energy
+Regulatory Commission for such submission, even if the procedures set forth in
+this section for the development of a final unified state position have not
+been completed. [1997 c.449 §22; 2001 c.369 §6] 
+
+   
+
+ PROCESS FOR COMPLETING
+REAUTHORIZATION OF WATER RIGHT FOR EITHER STATE OR FEDERALLY LICENSED PROJECT 
+
+   
+
+       543A.120
+Proposed final order. 
+(1) A proposed final order prepared by a Hydroelectric Application Review Team
+and submitted to the Water Resources Department under ORS 543A.040, 543A.055 or
+543A.105 shall be based on the application of the standards set forth in ORS
+543A.025 and shall reflect the complete review of the water right application
+for compliance with applicable statutes and rules. 
+
+       (2) The proposed
+final order shall cite findings of fact and conclusions of law and shall
+include but need not be limited to: 
+
+       (a) Confirmation
+or modification of the preliminary determinations made in the initial review; 
+
+       (b) A brief
+statement that explains the criteria considered relevant to the decision,
+including the applicable basin program, the compatibility of the proposed use
+with applicable land use plans and information set forth in the application
+report or final report on studies; 
+
+       (c) An assessment
+of water availability and the amount of water necessary for the proposed use; 
+
+       (d) An assessment
+of whether the proposed use would result in injury to existing water rights; 
+
+       (e) An assessment
+of whether the proposed use would impair or be detrimental to the public
+interest as provided in ORS 543A.025; 
+
+       (f) A draft
+certificate, including any proposed conditions, or a recommendation to deny the
+application; and 
+
+       (g) The date by
+which protests to the proposed final order must be received by the department. 
+
+       (3) The
+department shall mail copies of the proposed final order, as submitted by the
+team, to the applicant and to persons who have requested copies and paid the
+fee required under ORS 536.050 (1)(p). The department also shall give public
+notice of the proposed final order in the weekly public notice published by the
+department. 
+
+       (4) Any person
+may request standing for purposes of participating in any contested case
+proceeding on the proposed final order or for judicial review of a final order.
+A request for standing shall be in writing and shall be accompanied by the fee
+established under ORS 536.050 (1)(n). 
+
+       (5) Any person
+may submit a protest against a proposed final order. A protest shall be in
+writing and shall include: 
+
+       (a) The name,
+address and telephone number of the protestant; 
+
+       (b) A description
+of the protestant’s interest in the proposed final order and, if the protestant
+claims to represent the public interest, a precise statement of the public
+interest represented; 
+
+       (c) A detailed
+description of how the action proposed in the proposed final order would impair
+or be detrimental to the protestant’s interest; 
+
+       (d) A detailed
+description of how the proposed final order is in error or deficient and how to
+correct the alleged error or deficiency; 
+
+       (e) Any citation
+of legal authority supporting the protest, if known; and 
+
+       (f) The protest
+fee required under ORS 536.050 (1)(j). 
+
+       (6) Requests for
+standing and protests on the proposed final order shall be submitted within 45
+days after publication of the notice of the proposed final order in the weekly
+public notice published by the department. Any person who asks to receive a copy
+of the department’s final order shall submit to the department the fee required
+under ORS 536.050 (1)(p), unless the person has previously requested copies and
+paid the required fee. 
+
+       (7) The
+Hydroelectric Application Review Team shall review any protest received and
+provide to the Water Resources Director a recommended response to any protest
+received. 
+
+       (8) Within 120
+days after the close of the period for receiving protests and after
+consultation with the Hydroelectric Application Review Team, the director
+shall: 
+
+       (a) Issue a final
+order as provided under ORS 543A.130; or 
+
+       (b) Schedule a
+contested case hearing if a protest has been submitted and if: 
+
+       (A) Upon review
+of the issues, the director finds that there are significant disputes related
+to the proposed reauthorization of the project; or 
+
+       (B) Within 30
+days after the close of the period for submitting protests, the applicant
+requests a contested case hearing. 
+
+       (9) At the
+request of the applicant, the department may extend the time periods set forth
+in subsection (8) of this section for a reasonable period of time. 
+
+       (10) If the
+application is for reauthorization of a water right for a federally licensed
+project, the department may postpone the issuance of the final order until the
+Federal Energy Regulatory Commission license is issued. [1997 c.449 §23; 2013
+c.644 §13; 2025 c.282 §46] 
+
+   
+
+       Note: The amendments to 543A.120 by
+section 46, chapter 282, Oregon Laws 2025, become operative April 1, 2026. See
+section 48, chapter 282, Oregon Laws 2025, as amended by section 21c, chapter
+575, Oregon Laws 2025. The text that is operative until April 1, 2026, is set
+forth for the user’s convenience. 
+
+       543A.120. (1) A proposed final order
+prepared by a Hydroelectric Application Review Team and submitted to the Water
+Resources Department under ORS 543A.040, 543A.055 or 543A.105 shall be based on
+the application of the standards set forth in ORS 543A.025 and shall reflect
+the complete review of the water right application for compliance with
+applicable statutes and rules. 
+
+       (2) The proposed
+final order shall cite findings of fact and conclusions of law and shall
+include but need not be limited to: 
+
+       (a) Confirmation
+or modification of the preliminary determinations made in the initial review; 
+
+       (b) A brief
+statement that explains the criteria considered relevant to the decision,
+including the applicable basin program, the compatibility of the proposed use
+with applicable land use plans and information set forth in the application
+report or final report on studies; 
+
+       (c) An assessment
+of water availability and the amount of water necessary for the proposed use; 
+
+       (d) An assessment
+of whether the proposed use would result in injury to existing water rights; 
+
+       (e) An assessment
+of whether the proposed use would impair or be detrimental to the public
+interest as provided in ORS 543A.025; 
+
+       (f) A draft
+certificate, including any proposed conditions, or a recommendation to deny the
+application; and 
+
+       (g) The date by
+which protests to the proposed final order must be received by the department. 
+
+       (3) The
+department shall mail copies of the proposed final order, as submitted by the
+team, to the applicant and to persons who have requested copies and paid the
+fee required under ORS 536.050 (1)(p). The department also shall give public
+notice of the proposed final order in the weekly notice published by the
+department. 
+
+       (4) Any person
+may request standing for purposes of participating in any contested case
+proceeding on the proposed final order or for judicial review of a final order.
+A request for standing shall be in writing and shall be accompanied by the fee
+established under ORS 536.050 (1)(n). 
+
+       (5) Any person
+may submit a protest against a proposed final order. A protest shall be in
+writing and shall include: 
+
+       (a) The name,
+address and telephone number of the protestant; 
+
+       (b) A description
+of the protestant’s interest in the proposed final order and, if the protestant
+claims to represent the public interest, a precise statement of the public
+interest represented; 
+
+       (c) A detailed
+description of how the action proposed in the proposed final order would impair
+or be detrimental to the protestant’s interest; 
+
+       (d) A detailed
+description of how the proposed final order is in error or deficient and how to
+correct the alleged error or deficiency; 
+
+       (e) Any citation
+of legal authority supporting the protest, if known; and 
+
+       (f) The protest
+fee required under ORS 536.050 (1)(j). 
+
+       (6) Requests for
+standing and protests on the proposed final order shall be submitted within 45
+days after publication of the notice of the proposed final order in the weekly
+notice published by the department. Any person who asks to receive a copy of the
+department’s final order shall submit to the department the fee required under
+ORS 536.050 (1)(p), unless the person has previously requested copies and paid
+the required fee. 
+
+       (7) The
+Hydroelectric Application Review Team shall review any protest received and
+provide to the Water Resources Director a recommended response to any protest
+received. 
+
+       (8) Within 120
+days after the close of the period for receiving protests and after
+consultation with the Hydroelectric Application Review Team, the director
+shall: 
+
+       (a) Issue a final
+order as provided under ORS 543A.130; or 
+
+       (b) Schedule a
+contested case hearing if a protest has been submitted and if: 
+
+       (A) Upon review
+of the issues, the director finds that there are significant disputes related
+to the proposed reauthorization of the project; or 
+
+       (B) Within 30
+days after the close of the period for submitting protests, the applicant
+requests a contested case hearing. 
+
+       (9) At the
+request of the applicant, the department may extend the time periods set forth
+in subsection (8) of this section for a reasonable period of time. 
+
+       (10) If the
+application is for reauthorization of a water right for a federally licensed
+project, the department may postpone the issuance of the final order until the
+Federal Energy Regulatory Commission license is issued. 
+
+   
+
+       543A.125
+Approval or rejection of application for reauthorization. (1) Subject to the provisions of
+subsection (2) of this section and ORS 543A.130 and 543A.140, the Water
+Resources Department shall approve all applications for reauthorization of a
+water right for the use of water for hydroelectric purposes made in proper
+form, unless the proposed reauthorization conflicts with existing rights. 
+
+       (2) The
+department shall reject any application for a permit to appropriate water to
+develop hydroelectric power if the department finds that the proposed project
+does not comply with the standards set forth in ORS 543A.025 or rules adopted
+by the Water Resources Commission under ORS 543A.025. [1997 c.449 §24] 
+
+   
+
+       543A.130
+Contested case hearing; final order. 
+(1) If a contested case hearing is conducted under ORS 543A.120, the issues to
+be considered in the contested case hearing shall be limited to issues
+identified by the administrative law judge. 
+
+       (2)
+Notwithstanding the provisions of ORS chapter 183 pertaining to contested case
+proceedings, the parties to any contested case hearing initiated under this
+section shall be limited to: 
+
+       (a) The
+applicant; 
+
+       (b) Any person
+who timely filed a protest; and 
+
+       (c) Any person
+who timely filed a request for standing under ORS 543A.120 and who requests to
+intervene in the contested case hearing prior to the start of the proceeding. 
+
+       (3) The contested
+case proceeding shall be conducted in accordance with the applicable provisions
+of ORS chapter 183 except: 
+
+       (a) As provided
+in subsections (1) and (2) of this section; and 
+
+       (b) An
+interlocutory appeal under ORS 183.480 (3) shall not be allowed. 
+
+       (4) Each person
+submitting a protest or a request for standing shall raise all reasonably
+ascertainable issues and submit all reasonably available arguments supporting
+the person’s position by the close of the protest period. Failure to raise a
+reasonably ascertainable issue in a protest or in a hearing or failure to
+provide sufficient specificity to afford the Water Resources Department an
+opportunity to respond to the issue precludes judicial review based on that
+issue. 
+
+       (5) If, after the
+contested case hearing or, if a hearing is not held, after the close of the
+period allowed to file a protest, the Water Resources Director determines that
+the proposed reauthorization does not comply with the standards set forth in
+ORS 543A.025 or rules adopted by the Water Resources Commission under ORS
+543A.025, the director shall issue a final order rejecting the application or
+modifying the proposed final order to conform to the public interest. If, after
+the contested case hearing or, if a hearing is not held, after the close of the
+period allowed to file a protest, the director determines that the proposed
+reauthorization complies with ORS 543A.025, the director shall issue a final
+order approving the application for reauthorization or otherwise modifying the
+proposed final order. A final order may set forth any of the provisions or
+restrictions to be included in the certificate concerning the use, control and
+management of the water to be appropriated for the project, including but not
+limited to a specification of reservoir operation and minimum releases to
+protect the public interest. 
+
+       (6) If a
+contested case hearing is not held: 
+
+       (a) Where the
+final order modifies the proposed final order, the applicant may request and
+the department shall schedule a contested case hearing as provided under
+subsection (3) of this section by submitting the information required for a
+protest under ORS 543A.120 within 14 days after the director issues the final
+order. However, the issues on which a contested case hearing may be requested
+and conducted under this paragraph shall be limited to issues based on the
+modifications to the proposed final order. 
+
+       (b) Only the
+applicant or a protestant may appeal the provisions of the final order in the
+manner established in ORS chapter 183 for appeal of orders other than contested
+cases. 
+
+       (7) Before
+issuing a final order, the director or the commission, if applicable, shall
+make the final determination of whether the proposed reauthorization or the
+proposed reauthorization as modified in the proposed final order complies with
+the standards set forth in ORS 543A.025. 
+
+       (8) In a
+proceeding to reauthorize a water right for a federally licensed project, the
+final order may be different from the proposed final order based on: 
+
+       (a) New
+information developed during the federal relicensing process pertaining to
+environmental impacts or assessments that reveals impacts not known at the time
+the proposed final order was issued; 
+
+       (b) Significant
+changes in the final application to the Federal Energy Regulatory Commission; 
+
+       (c) Conditions
+and restrictions in the Federal Energy Regulatory Commission license that are
+inconsistent with the water right as proposed in the proposed final order; or 
+
+       (d) Protests
+received after the proposed final order is issued. 
+
+       (9) Upon issuing
+a final order, the director shall notify the applicant and each person who
+submitted written comments or protests or otherwise requested notice of the
+final order and send a copy of the final order to any person who requested a
+copy and paid the fee required under ORS 536.050 (1)(p). [1997 c.449 §25; 2003
+c.75 §100] 
+
+   
+
+       543A.135
+Exceptions to final order. 
+(1) Within 20 days after the Water Resources Director issues a final order
+under ORS 543A.130 after the conclusion of a contested case hearing, any party
+may file exceptions to the order with the Water Resources Commission. 
+
+       (2) The
+commission shall issue a modified order, if the exceptions are allowed, or deny
+the exceptions within 60 days after the close of the exception period under
+subsection (1) of this section. [1997 c.449 §26] 
+
+   
+
+       543A.140
+Terms, limitations and conditions of water right. (1) The Water Resources Department
+may issue a water right to any applicant for reauthorization of a federally
+licensed project whose proposed water use complies with the standards set forth
+in ORS 543A.025. Every water right for a federally licensed project shall
+provide as a condition that the water right holder may not operate the
+federally licensed project unless the water right holder is authorized to
+operate the project by the Federal Energy Regulatory Commission. 
+
+       (2) The
+department may approve an application for reauthorization for less water than
+applied for, or upon terms, limitations and conditions necessary for the
+protection of the public interest. [1997 c.449 §28] 
+
+   
+
+       543A.145 Water
+right certificate. 
+Any water right for the use of water for hydroelectric purposes shall: 
+
+       (1) Except as
+provided in ORS 543A.065 (2), be for a period of not more than 50 years; 
+
+       (2) If for a
+federally licensed project, be for the period established in the new Federal
+Energy Regulatory Commission license; 
+
+       (3) For the
+quantity of water authorized for use under the expiring water right for the
+project, retain the same priority date as the expiring water right for the
+project. For enlargement of the water right beyond the amount of water
+authorized in the expiring water right, the priority date for the additional
+amount shall be the date of filing a reauthorization application under ORS
+543A.035, or a notice of intent under ORS 543A.075, whichever is applicable; 
+
+       (4) If for a
+federally licensed project, include a provision allowing the Water Resources
+Department to amend conditions or limitations on the water right after the
+Federal Energy Regulatory Commission issues the federal license for the
+project; and 
+
+       (5) Include
+conditions allowing the department to reopen the certificate on a clear showing
+of a significant threat to the public health or safety or the environment that
+was not identified and addressed during the most recent project authorization
+proceeding, and that requires modification of the certificate. [1997 c.449 §29] 
+
+   
+
+       543A.150
+Modification of time limits. 
+(1) The Water Resources Department may extend the time limits set forth in ORS
+543A.005 to 543A.145 and 543A.300 for a reasonable period of time if the time
+limits are incompatible with the substantive requirements applicable to
+applications to reauthorize a water right for the use of water for
+hydroelectric purposes. 
+
+       (2) The
+expiration date of the water right for any project that begins the
+reauthorization process under ORS 543A.005 to 543A.410 before the expiration
+date shall be extended by the department if necessary to allow for completion
+of the reauthorization process. [1997 c.449 §31] 
+
+   
+
+ DECOMMISSIONING 
+
+   
+
+       543A.300
+Decommissioning; rules. 
+(1) If any person operating a hydroelectric project fails to advise the Water
+Resources Department within 60 days of the time established in ORS 543A.030 or
+543A.075, the Water Resources Commission may order the decommissioning of the
+project. 
+
+       (2) The Water
+Resources Commission shall adopt by rule procedures for ordering a
+decommissioning of a project and standards for conducting a decommissioning in
+a manner that ensures the protection of the public health and safety and the
+environment. The rules shall include a provision for establishing a
+Hydroelectric Application Review Team for the project to coordinate the
+activities of all state agencies involved in the decommissioning process. [1997
+c.449 §30] 
+
+   
+
+       543A.305
+Conversion of hydroelectric water right to in-stream water right; exceptions. (1) As used in this section: 
+
+       (a) “Holder” has
+the meaning given that term in ORS 543.075. 
+
+       (b) “In-stream
+water right” has the meaning given that term in ORS 537.332. 
+
+       (c) “Reauthorize”
+has the meaning given that term in ORS 543.075. 
+
+       (2) An in-stream
+water right shall be subject to the limitations of ORS 537.350 and shall be
+maintained in perpetuity, in trust for the people of the State of Oregon. The
+priority date of the in-stream water right shall be the same as that of the
+converted hydroelectric water right. The location of the in-stream water right
+shall be the same as the point of diversion identified in the hydroelectric
+water right. 
+
+       (3) Five years
+after the use of water under a hydroelectric water right ceases, or upon
+expiration of a hydroelectric water right not otherwise extended or
+reauthorized, or at any time earlier with the written consent of the holder of
+the hydroelectric water right, up to the full amount of the water right
+associated with the hydroelectric project shall be converted to an in-stream
+water right, upon a finding by the Water Resources Director that the conversion
+will not result in injury to other existing water rights. In making the
+evaluation, the director shall consider the actual use of the hydroelectric
+project and the resulting impacts on actual use by other existing water rights
+as of October 23, 1999. The director may include mitigation measures as conditions
+of the in-stream water right to avoid injury and to ensure the continuation of
+authorized water uses by other existing water rights. 
+
+       (4) If the
+hydroelectric project is authorized by a pre-1909 unadjudicated claim of
+registration, the determination of injury shall be based upon an evaluation of
+the actual use as measured during the five years preceding the conversion
+action, and shall not constitute a determination under ORS 537.670 to 537.695
+as to the underlying claim of registration of the pre-1909 use. Judicial review
+of a final order relating to such a conversion shall be limited to review of
+the conversion action. 
+
+       (5) This section
+shall not apply to projects on boundary waters that operate with water rights
+issued by the State of Oregon and by any other state except upon the written
+request of the water right holder. 
+
+       (6) If
+hydroelectric production is not the sole beneficial use authorized by a water
+right, this section shall apply only to conversion of that portion of the water
+right used exclusively for hydroelectric purposes. 
+
+       (7) This section
+shall not apply if the holder, at any time prior to conversion under subsection
+(3) of this section, transfers the hydroelectric water right under ORS 540.520
+and 540.530, except that if a time-limited hydroelectric water right is transferred
+under ORS 540.520 and 540.530, the provisions of this section shall apply at
+the time of expiration of the time-limited water right. [1999 c.873 §2] 
+
+   
+
+       Note: 543A.305 was added to and made a
+part of 543A.005 to 543A.410 by legislative action but was not added to any
+smaller series therein. See Preface to Oregon Revised Statutes for further
+explanation. 
+
+   
+
+ HYDROELECTRIC
+APPLICATION REVIEW TEAM 
+
+   
+
+       543A.400
+Duties of Hydroelectric Application Review Team. (1) The duties of a Hydroelectric
+Application Review Team shall be determined on the basis of the operating
+authority of the project that the team is responsible for reviewing. 
+
+       (2) A team
+responsible for reviewing a state project shall: 
+
+       (a) Make an
+initial determination of whether the state project may proceed under an
+expedited reauthorization process under ORS 543A.040 and, if so, develop a
+proposed final order under ORS 543A.040. 
+
+       (b) If a state
+project does not qualify for the expedited process under ORS 543A.040: 
+
+       (A) Convene a
+public scoping meeting under ORS 543A.045; 
+
+       (B) Review the
+application report and prepare a draft proposed final order under ORS 543A.055; 
+
+       (C) Revise the
+draft proposed final order and submit the proposed final order to the Water
+Resources Department for further processing as set forth in ORS 543A.120 to
+543A.300; and 
+
+       (D) Review
+protests received and recommended responses to the protests as required under
+ORS 543A.120. 
+
+       (3) A team
+responsible for reviewing a federally licensed project shall: 
+
+       (a) Represent the
+state in any federal proceeding to reauthorize the federal license for the
+project; 
+
+       (b) Participate
+in the state process in accordance with ORS 543A.085, 543A.090, 543A.105,
+543A.110 and 543A.115; 
+
+       (c) Recommend a
+state response to a request for certification for reauthorization of a
+federally licensed project under ORS 468B.040; and 
+
+       (d) Develop a
+state position as required under 16 U.S.C. 803(j). 
+
+       (4) The Water
+Resources Department may also convene a team to: 
+
+       (a) Coordinate
+the activities of all state agencies involved in decommissioning a project. 
+
+       (b) Develop a
+unified state position for a project that is subject to federal relicensing but
+that operates under a water right that does not expire. The unified state
+position developed under this paragraph shall include the elements set forth in
+ORS 543A.105 except for the reauthorization of the state water right. In
+developing the unified state position under this paragraph the team shall
+participate to the fullest extent possible in all proceedings conducted
+pursuant to the Federal Energy Regulatory Commission relicensing process for
+the project. [1997 c.449 §32] 
+
+   
+
+ FEES AND EXPENSES 
+
+   
+
+       543A.405
+Application fees. 
+(1) Subject to the provisions of ORS 543A.410, any person submitting a notice
+of intent to seek reauthorization, a preliminary application or an application
+for reauthorization of a project under ORS 543A.030, 543A.035, 543A.075,
+543A.080 or 543A.095 shall pay all expenses related to the review and decision
+of the Hydroelectric Application Review Team that are incurred by the team and
+any agency participating as part of the team, and that are not otherwise
+covered by the fee paid under ORS 543.078. 
+
+       (2) Every person
+submitting a notice of intent to seek reauthorization of a project shall submit
+the fee required under ORS 536.050 (1)(r) to the Water Resources Department
+when the notice of intent is submitted. 
+
+       (3) Before
+submitting an application to reauthorize a state project under ORS 543A.035,
+the applicant shall request from the team an estimate of the costs expected to
+be incurred in processing the application. The team shall inform the applicant
+of that amount and require the applicant to make periodic payments of such
+costs pursuant to a cost reimbursement agreement. The cost reimbursement
+agreement shall provide for payment of 25 percent of the estimated costs when
+the applicant submits an application under ORS 543A.035. 
+
+       (4) Before the
+close of public comment on study proposals developed by the applicant for a
+federally licensed project under ORS 543A.085, the team shall estimate the
+costs expected to be incurred in evaluating the project. The team shall inform
+the applicant of that amount and require the applicant to make periodic
+payments of such costs pursuant to a cost reimbursement agreement. The cost
+reimbursement agreement shall provide for a first payment of 25 percent of the
+estimated costs on a schedule established in the agreement. 
+
+       (5) If costs of
+the team’s evaluation of a project exceed the estimate in the cost
+reimbursement agreement, the applicant shall pay any excess costs shown in an
+itemized statement prepared by the team. In no event shall the team and its
+participating agencies incur evaluation expenses in excess of 110 percent of
+the fee initially estimated unless the team provided prior notification to the
+applicant and a detailed projected budget the team believes is necessary to
+complete evaluation of the application. If costs are less than the fee paid,
+the team shall refund the excess to the applicant. 
+
+       (6) The Water
+Resources Department shall reimburse participating agencies for costs incurred
+in their review of a project. Such costs shall not include expenses of other
+state agencies for which a fee is otherwise collected under state law. [1997
+c.449 §33; 2001 c.369 §7; 2021 c.516 §7] 
+
+   
+
+       543A.410 Fee
+schedule; appeal. 
+(1) All expenses incurred by the Hydroelectric Application Review Team and its
+participating agencies that are charged to or allocated to the fee paid by an
+applicant shall be necessary, just and reasonable. Upon request, the team shall
+provide the applicant with a detailed justification for all charges. Not later
+than January 1 of each year, the Water Resources Director by order shall
+establish a schedule of fees that those persons submitting a notice of intent
+must submit under ORS 543A.030 or 543A.075. The fee schedule shall be designed
+to recover the actual costs of evaluating the notice of intent. Fees shall be
+based on actual, historical costs incurred by the team and its participating
+agencies to the extent historical costs are available. The fees established by
+the schedule shall reflect the size and complexity of the project for which a
+notice of intent is submitted. 
+
+       (2) If a dispute
+arises regarding the necessity or reasonableness of expenses charged to or
+allocated to the fee paid by an applicant, and if the dispute is not resolved
+by the directors of the affected agencies, the applicant may seek judicial
+review in circuit court of the amount of expenses charged or allocated as
+provided in ORS 183.480, 183.484, 183.490 and 183.500. If the applicant
+establishes that any of the charges or allocations are unnecessary or
+unreasonable, the amount found to be unnecessary or unreasonable shall be
+refunded to the applicant. The applicant shall not waive the right to judicial
+review by paying the portion of the fee or expense in dispute. [1997 c.449 §34] 
+
+   
+
+       543A.415 [1997 c.449 §37; 1999 c.873 §17;
+2003 c.14 §348; 2011 c.545 §61; repealed by 2021 c.516 §8] 
+
+   
+
+ MISCELLANEOUS 
+
+   
+
+       543A.800
+Effect of hydroelectric reauthorization process on existing rights. (1) Nothing in this chapter and
+ORS 468.065, 468B.040, 468B.045, 468B.046, 536.015, 536.050, 543.012 and
+543.710 shall prejudice or alter any rights granted to the state or its
+agencies under federal law. 
+
+       (2) Nothing in
+this chapter and ORS 468.065, 468B.040, 468B.045, 468B.046, 536.015, 536.050,
+543.012 and 543.710 shall prejudice or alter any rights of an existing
+federally licensed project to apply for or obtain a new federal license for the
+project. Nothing in this chapter and ORS 468.065, 468B.040, 468B.045, 468B.046,
+536.015, 536.050, 543.012 and 543.710 shall be construed to create any
+preference or priority on behalf of any applicant for a federal license. [1997
+c.449 §§42a,45] 
+
+   
+
+       543A.805
+Reference to licensee or license. 
+Notwithstanding any other provision of law, any reference to a licensee or to a
+hydroelectric license for a hydroelectric project shall be considered a
+reference to a time-limited water right certificate for the use of water for
+hydroelectric purposes for the purpose of applying the provisions of this
+chapter and ORS 468.065, 468B.040, 468B.045, 468B.046, 536.015, 536.050,
+543.012 and 543.710 pertaining to reauthorizing the use of water for
+hydroelectric purposes. [1997 c.449 §43] 
+
+   
+
+       543A.810
+Effect of amendment or repeal of law. 
+Amendment or repeal of any section of ORS chapter 543A does not affect any
+water right or the rights of any holder of a water right issued thereunder. [2001
+c.369 §8] 
+
+   
+
+       Note: 543A.810 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter
+543A or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

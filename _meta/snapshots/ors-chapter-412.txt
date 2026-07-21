@@ -1,0 +1,1602 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+412 — Temporary Assistance for Needy Families 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ TEMPORARY ASSISTANCE FOR NEEDY
+FAMILIES 
+
+   
+
+ HUMAN SERVICES; JUVENILE CODE;
+CORRECTIONS 
+
+   
+
+ TEMPORARY ASSISTANCE FOR NEEDY
+FAMILIES PROGRAM 
+
+   
+
+ 412.001     Definitions 
+
+   
+
+ 412.002     Legislative findings 
+
+   
+
+ 412.006     Administration of
+temporary assistance for needy families program; rules 
+
+   
+
+ 412.007     Determination of amount
+of aid; rules 
+
+   
+
+ 412.009     Engagement in JOBS;
+disqualification; rules 
+
+   
+
+ 412.011     Support service
+payments to prevent loss of employment 
+
+   
+
+ 412.014     State Family
+Pre-SSI/SSDI program; rules 
+
+   
+
+ 412.016     Enrollment in
+educational institution as allowable work activity 
+
+   
+
+ 412.024     Assignment of support
+rights; cooperation required for establishing parentage of child or obtaining
+support; exceptions; sanctions; rules 
+
+   
+
+ 412.026     Payment of aid to
+individual other than relative; rules 
+
+   
+
+ 412.028     Petition for and
+appointment of guardian or conservator; costs; compensation 
+
+   
+
+ 412.029     Expenditures limited to
+needs of beneficiary; rules 
+
+ 412.034     Denial of aid when
+unemployed parent refuses employment 
+
+   
+
+ 412.039     Cooperation of
+department with Director of Employment Department and all available workforce
+services to find employment for parent 
+
+   
+
+ 412.044     Cooperation with other
+agencies to provide vocational training 
+
+   
+
+ 412.049     Powers and duties of
+department; rules 
+
+   
+
+ 412.054     Application for aid 
+
+   
+
+ 412.059     Investigation of
+eligibility of child; rules 
+
+   
+
+ 412.064     Authority to determine
+eligibility 
+
+   
+
+ 412.069     Appeal from denial of
+or failure to act on application or from modification or cancellation of aid 
+
+   
+
+ 412.072     Requirements when
+victims of domestic violence apply for or receive TANF; confidentiality 
+
+   
+
+ 412.074     Use and custody of
+records of temporary assistance for needy families program; rules 
+
+   
+
+ 412.079     Time limits;
+exceptions; rules 
+
+   
+
+ 412.084     Minor parents’
+eligibility to receive assistance and support services 
+
+   
+
+ 412.089     Referral to mental
+health or drug abuse professional; provision of resources; staff training 
+
+   
+
+ 412.094     Public officials to
+cooperate in locating and furnishing information concerning parents of children
+receiving or applying to receive public assistance and in prosecuting
+nonsupport cases; use of information restricted 
+
+   
+
+ 412.109     Policy on absent parent 
+
+   
+
+ 412.124     Post-TANF aid to
+employed families; rules 
+
+   
+
+ 412.139     Duties of department
+relating to federal law 
+
+   
+
+ 412.144     Duties of department
+relating to other agencies 
+
+   
+
+ 412.151     Statewide electronic
+benefits transfer system; replacement cards to display name 
+
+   
+
+ 412.155     Additional monthly
+payments of elderly rental assistance 
+
+   
+
+ 412.161     Policy on two-parent
+families 
+
+   
+
+ PENALTIES 
+
+   
+
+ 412.991     Criminal penalties 
+
+   
+
+ TEMPORARY ASSISTANCE FOR NEEDY
+FAMILIES PROGRAM 
+
+   
+
+       412.001
+Definitions. As
+used in ORS 412.001 to 412.155 and 418.647, unless the context or a specially
+applicable statutory definition requires otherwise: 
+
+       (1) “Aid” means
+money payments with respect to, or on behalf of, a dependent child or children
+and includes: 
+
+       (a) Money
+payments to meet the needs of the caretaker relative with whom the child is
+living and the spouse of the caretaker relative if the spouse lives with the
+caretaker relative; or 
+
+       (b) Payments made
+to a representative payee or guardian pursuant to ORS 412.026 or 412.028. 
+
+       (2) “Caretaker
+relative” means a dependent child’s parent or other relative by blood, marriage
+or adoption, as defined by the Department of Human Services by rule, who lives
+in a residence maintained by one or more of the relatives as the child’s or the
+relative’s own home. 
+
+       (3)(a) “Dependent
+child” means a needy child: 
+
+       (A) Whose
+caretaker relatives are not able to provide adequate care and support for the
+child without public assistance, as defined in ORS 411.010; 
+
+       (B) Who lives
+with a caretaker relative; and 
+
+       (C) Who meets the
+requirements of paragraph (b) of this subsection. 
+
+       (b)(A) Except as
+provided in subparagraphs (B) and (C) of this paragraph, a “dependent child”
+must be under the age of 18 years. 
+
+       (B) A child may
+qualify as a “dependent child,” subject to the availability of funds, if the
+child is 18 or 19 or 20 years of age and a student regularly attending a school
+in grade 12 or below or regularly attending a course of professional or
+technical training designed to fit the child for gainful employment, other than
+a course provided by or through a college or university. 
+
+       (C) Students
+under the age of 21 years and regularly attending a school, college or
+university or regularly attending a course of professional or technical
+training designed to fit the child for gainful employment may be included in
+the description in subparagraph (B) of this paragraph at the option of the
+Department of Human Services. 
+
+       (4) “Federally
+required participation rates” means the participation rates as required by
+section 407 of the Social Security Act. 
+
+       (5) “Representative
+payee” means an individual designated by the department to receive money
+payments of aid pursuant to ORS 412.026. [Formerly 418.035; 2015 c.765 §10] 
+
+   
+
+       412.002
+Legislative findings. 
+(1) The Legislative Assembly finds that: 
+
+       (a) The temporary
+assistance for needy families program is the state’s primary safety net for
+families with children who live in extreme poverty; and 
+
+       (b) Outcomes for
+disadvantaged parenting youth improve when the parenting youth have
+opportunities to connect to employment, training and education programs. 
+
+       (2) In order to
+provide a path out of poverty for families, adults and parenting youth and to
+maximize the services available to assist families, adults and parenting youth
+in moving out of poverty, the Department of Human Services shall work with
+other agencies and organizations to provide the resources, referrals or
+services described in ORS 412.006. [2015 c.765 §1; 2019 c.602 §1] 
+
+   
+
+       Note: 412.002 was added to and made a
+part of 412.001 to 412.161 by legislative action but was not added to any
+smaller series therein. See Preface to Oregon Revised Statutes for further
+explanation. 
+
+   
+
+       412.005 [1961 c.633 §2; 1965 c.94 §1; 1969
+c.69 §1; 1969 c.597 §246; 1973 c.651 §3; 2001 c.900 §98; repealed by 2005 c.381
+§30] 
+
+   
+
+       412.006 Administration
+of temporary assistance for needy families program; rules. (1) The Department of Human
+Services shall administer the temporary assistance for needy families program,
+consistent with the requirements in 45 C.F.R. part 260, to provide to families
+with children: 
+
+       (a) Aid; 
+
+       (b) Case
+management services that focus on the strengths of the parents or caretaker
+relatives; 
+
+       (c) Resources and
+referrals for education and training or education or training services; 
+
+       (d) Work and work
+preparation services; and 
+
+       (e) Resources,
+referrals or services to improve the family’s economic stability, including but
+not limited to: 
+
+       (A) Mental health
+and addiction treatment; 
+
+       (B) Housing; and 
+
+       (C) Child care. 
+
+       (2) The
+department shall adopt rules to carry out the provisions of this section. [Formerly
+418.040; 2009 c.11 §53; 2015 c.765 §11; 2019 c.602 §2] 
+
+   
+
+       412.007
+Determination of amount of aid; rules. 
+(1) The eligibility for and amount of aid to be granted for any dependent child
+or relative pursuant to ORS 412.006 shall be determined, in accordance with the
+rules of the Department of Human Services, taking into account: 
+
+       (a) The income,
+resources and maintenance available to such child and relative from whatever
+source derived, allowable deductions and the statewide income and payment
+standards. 
+
+       (b) The income
+and financial condition of the stepparent, if any, of the child for whom aid is
+sought. 
+
+       (2) Subsection
+(1)(b) of this section is not intended to relieve any parent of any legal
+obligation with respect to the support of the natural or adopted children of
+the parent. 
+
+       (3) In
+determining the eligibility for and amount of aid to be granted under
+subsection (1) of this section and under ORS 411.070, the department shall
+disregard: 
+
+       (a) From income,
+no less than $50 of the amount of child support received for each child per
+month, up to a total of $200 or the maximum established by federal law, for the
+family; 
+
+       (b) As resources,
+moneys held in a pension or retirement account; and 
+
+       (c) Any earnings
+or other income or resources of the family as the department may prescribe by
+rule. 
+
+       (4) As used in
+this section, “pension and retirement account” includes: 
+
+       (a) Benefits
+employees receive only when they retire or leave employment; 
+
+       (b) Pension,
+profit-sharing and stock bonus plans exempt from taxation by section 401 of the
+Internal Revenue Code; 
+
+       (c) Qualified
+annuities exempt from taxation by section 403(a) or (b) of the Internal Revenue
+Code; 
+
+       (d) Accounts or
+annuities exempt from taxation by section 408(a), (b), (c), (k), (p) or (q) of
+the Internal Revenue Code; 
+
+       (e) Roth
+individual retirement plans authorized by section 408A of the Internal Revenue
+Code; 
+
+       (f) Retirement
+plans offered by governments, nonprofit organizations or unions that are: 
+
+       (A) Exempt from
+taxation under section 457(b) or 501(c)(18) of the Internal Revenue Code; or 
+
+       (B) Contributions
+to the Thrift Savings Fund authorized by 5 U.S.C. 8439; and 
+
+       (g) Defined
+contribution plan accounts described in ORS 178.210. [2015 c.765 §4; 2018 c.56 §1] 
+
+   
+
+       Note: 412.007 was added to and made a
+part of 412.001 to 412.161 by legislative action but was not added to any
+smaller series therein. See Preface to Oregon Revised Statutes for further
+explanation. 
+
+   
+
+       412.009
+Engagement in JOBS; disqualification; rules.  (1) The Legislative Assembly finds that: 
+
+       (a) There is
+evidence that families who experience the most disqualifications from the job
+opportunity and basic skills program are often those with the most barriers to
+employment; and 
+
+       (b) The loss of
+income from a program disqualification adds strain and creates instability in
+families already experiencing extreme poverty, and this affects the health and
+food security of the dependent children in the family. 
+
+       (2) The
+Department of Human Services by rule shall adopt proven methods of encouraging
+participants’ full engagement in the job opportunity and basic skills program,
+including the development of an individualized case plan and an ongoing process
+to ensure that the case plan is appropriate. 
+
+       (3)(a) The
+department shall facilitate the participation of needy caretaker relatives and
+may not reduce the family’s aid payment as a method of encouraging full
+engagement in the job opportunity and basic skills program pursuant to
+subsection (2) of this section until the department determines that the needy
+caretaker relative that is not fully engaged: 
+
+       (A) Has no
+identified barriers or refuses to take appropriate steps to address identified
+barriers to participation in the program; and 
+
+       (B) Refuses
+without good cause, as defined by the department by rule, to meet the
+requirements of an individualized and appropriate case plan. 
+
+       (b) The
+department may not reduce aid payments under this subsection to families: 
+
+       (A) Receiving aid
+pursuant to ORS 412.014 or 412.124; 
+
+       (B) In which the
+caretaker relative participates in suitable activities for the number of hours
+required each month to satisfy federally required participation rates; or 
+
+       (C) Until the
+department has screened for and, if appropriate, assessed barriers to
+participation, including but not limited to physical or mental health needs,
+substance abuse, domestic violence or learning needs. 
+
+       (c) The
+department may not reduce aid payments under this subsection before assessing
+the risk of harm posed to the children in the household by the reduction in aid
+payments and taking steps to ameliorate the risk. 
+
+       (4) Following
+notice and an opportunity for a hearing under ORS chapter 183 and subject to
+subsection (2) of this section, the department may reduce the aid payment to
+the family of an individual who refuses to participate in suitable activities
+required by the individual’s case plan or may terminate the aid payment to the
+family of a noncompliant individual in accordance with procedures adopted by
+the department by rule. 
+
+       (5) A caretaker
+relative may request a hearing to contest the basis for a reduction in or
+termination of an aid payment under this section within 90 days of a reduction
+in or termination of aid. [Formerly 418.045; 2011 c.604 §2; 2015 c.765 §12;
+2019 c.602 §9; 2025 c.405 §7] 
+
+   
+
+       412.010 [Repealed by 1961 c.633 §14] 
+
+   
+
+       412.011
+Support service payments to prevent loss of employment. The Department of Human Services
+may provide support service payments, as prescribed by rule, for
+transportation, housing or other costs as necessary to prevent the loss of
+employment that will result in the family qualifying for temporary assistance
+for needy families program aid under ORS 412.006. [2015 c.765 §2; 2019 c.602 §3] 
+
+   
+
+       Note: 412.011 was added to and made a
+part of 412.001 to 412.161 by legislative action but was not added to any
+smaller series therein. See Preface to Oregon Revised Statutes for further
+explanation. 
+
+   
+
+       412.014 State
+Family Pre-SSI/SSDI program; rules. 
+(1) There is created in the Department of Human Services the State Family
+Pre-SSI/SSDI program. The department shall provide aid under this section to
+families that are eligible for temporary assistance for needy families under
+ORS 412.001 to 412.069 and that include a needy caretaker relative who is
+unable to maintain substantial gainful activity due to a disability or
+combination of disabilities that meet the criteria of section 216 of the Social
+Security Act. 
+
+       (2) The
+department shall assist families receiving aid under this section in qualifying
+for federal Supplemental Security Income and Social Security disability
+benefits, including obtaining necessary medical records and evaluations. The
+department shall maintain a list of lawyers admitted to the bar of any state
+and approved by the Social Security Administration and nonprofit legal services
+organizations that represent Oregon residents in administrative hearings before
+the Social Security Administration Office of Disability Adjudication and
+Review. 
+
+       (3) The
+department shall adopt rules for determining the amount of aid granted under
+this section that is not less than the amount of aid granted under ORS 412.006
+(1). 
+
+       (4) Participation
+in the State Family Pre-SSI/SSDI program shall be voluntary. The department
+shall provide information to potential participants in the State Family
+Pre-SSI/SSDI program about the opportunities for employment while receiving
+Supplemental Security Income and about employment resources available to State
+Family Pre-SSI/SSDI program participants. The information must be in a format
+accessible to the potential participant. 
+
+       (5) Participants
+in the State Family Pre-SSI/SSDI program must cooperate with the department in
+establishing eligibility for Supplemental Security Income including, but not
+limited to, signing an interim assistance reimbursement agreement. The
+department by rule may establish policies for monitoring and encouraging full
+engagement in the State Family Pre-SSI/SSDI program, including activities that
+promote family stability. The department shall offer participants the
+opportunity to participate in any suitable activity in the job opportunity and
+basic skills program under ORS 412.009. [2007 c.861 §8; 2009 c.11 §54; 2011
+c.46 §1; 2011 c.604 §§3,4; 2019 c.602 §4] 
+
+   
+
+       412.015 [1961 c.633 §1; repealed by 2005
+c.381 §30] 
+
+   
+
+       412.016
+Enrollment in educational institution as allowable work activity. (1) A parent who applies for or
+receives temporary assistance for needy families under ORS 412.001 to 412.069
+and who meets the criteria described in subsection (2) of this section may
+enroll in and attend an educational institution as an allowable work activity
+for purposes of ORS 412.001 to 412.069. 
+
+       (2) To enroll in
+and attend an educational institution as an allowable work activity, a parent
+must: 
+
+       (a) Be accepted
+for full-time attendance into or be enrolled full-time at an educational
+institution; 
+
+       (b) Demonstrate
+that completion of the educational program is likely to result in employment
+that provides the wages and benefits necessary for the parent to support the
+parent’s family without temporary assistance for needy families; and 
+
+       (c) Make
+satisfactory academic progress, as defined by the educational institution,
+toward a degree or certificate. 
+
+       (3) A parent who
+is enrolled at an educational institution under this section shall receive
+temporary assistance for needy families under ORS 412.001 to 412.069 as well as
+be eligible for other support services under the temporary assistance for needy
+families program. 
+
+       (4) The
+Department of Human Services shall inform all parents applying for or
+participating in the temporary assistance for needy families program of the
+option to enroll in an educational institution and the requirements under
+subsection (2) of this section. 
+
+       (5) The
+department shall adopt rules to implement and administer this section. 
+
+       (6) As used in
+this section, “educational institution” has the meaning given that term in ORS
+348.105. [2003 c.212 §1; 2009 c.11 §55; 2019 c.602 §5] 
+
+   
+
+       Note: 412.016 was added to and made a
+part of 412.001 to 412.161 by legislative action but was not added to any
+smaller series therein. See Preface to Oregon Revised Statutes for further
+explanation. 
+
+   
+
+       412.017 [2003 c.212 §2; 2009 c.335 §1;
+repealed by 2019 c.602 §17] 
+
+   
+
+       412.020 [Repealed by 1961 c.633 §14] 
+
+   
+
+       412.024
+Assignment of support rights; cooperation required for establishing parentage
+of child or obtaining support; exceptions; sanctions; rules. (1) An applicant or recipient of
+aid, except for recipients of aid under the JOBS Plus Program established in
+ORS 411.878, must assign to the state any rights to support that may be due
+from any other person to a family member for whom the applicant is applying for
+or receiving aid. If aid is paid and received for the support of a child, the
+rights to child support that any person may have for the child are deemed to
+have been assigned by operation of law to the state. Notice of the assignment
+by operation of law shall be given to the applicant at the time of application
+for public assistance, and shall be given to any obligee who may hold some
+interest in such support rights by depositing a notice in the United States
+mail, postage prepaid, addressed to the last-known address of such person.
+Assignment of support rights to the state shall be as set forth in rules
+adopted by the Department of Human Services and the Department of Justice. 
+
+       (2) Except as
+otherwise provided in this subsection, an applicant or recipient who receives
+aid shall cooperate with the Department of Human Services and the Department of
+Justice in establishing the parentage of the applicant’s or recipient’s child
+born out of wedlock and in obtaining support or other payments or property due
+the applicant or child. An applicant or recipient is not required to cooperate
+if there is good cause or some other exception to the cooperation requirement
+that takes into account the best interest of the child. The Department of Human
+Services shall adopt rules defining good cause, other exceptions to cooperation
+and noncooperation by an applicant or recipient, and setting the sanction for
+noncooperation. The sanction may include total ineligibility of the family for
+aid, but in no situation may the sanction be less than a 25 percent reduction
+of the monthly grant amount. At the time an applicant applies for aid, the
+Department of Human Services shall inform the applicant, in writing, of the
+requirement of and exceptions to cooperation and the sanctions for
+noncooperation, and shall inform recipients, in writing, whenever eligibility
+for aid is redetermined. 
+
+       (3) This section
+shall apply to recipients of aid pursuant to the temporary assistance for needy
+families program as long as the aid is funded in whole or in part with federal
+grants under Title IV-A of the Social Security Act. [Formerly 418.042; 2009
+c.80 §7; 2011 c.604 §5; 2015 c.765 §13; 2025 c.592 §138] 
+
+   
+
+       412.025 [1961 c.633 §5; 1963 c.446 §1;
+1965 c.40 §1; 1973 c.651 §4; 2005 c.22 §280; repealed by 2005 c.381 §30] 
+
+   
+
+       412.026
+Payment of aid to individual other than relative; rules. Subject to rules of the Department
+of Human Services and to such conditions and limitations as may be prescribed
+pursuant to the temporary assistance for needy families program: 
+
+       (1) Money
+payments of aid with respect to the temporary assistance for needy families
+program, including payments to meet the needs of the relative, and the relative’s
+spouse, with whom a dependent child is living, may be made to an individual
+other than such relative or spouse if it is determined by the department that
+the relative to whom such payments are made has such inability to manage funds
+that continuation of such payments to the relative would be contrary to the
+welfare of such child and that, therefore, it is necessary to provide such aid
+through payments in the manner authorized by this section. Such determination
+shall be subject to review and hearing, upon application of such relative, in
+the manner prescribed pursuant to ORS 412.069. However, the pendency of such
+application, review or hearing shall not stay the effect of such determination. 
+
+       (2) The
+department may designate any responsible individual, including any public
+officer or employee, as a representative payee if such individual is willing to
+act in such capacity. Representative payees shall receive no compensation for
+their services, but shall be allowed expenses actually and necessarily incurred
+by them in the performance of their duties under ORS 412.029. Such expenses
+shall be paid from funds appropriated to the department for administrative
+expenditures. 
+
+       (3) During the
+time payments of aid pursuant to the temporary assistance for needy families
+program with respect to a dependent child or relative are made to a
+representative payee, the department shall: 
+
+       (a) Undertake and
+continue special efforts to develop greater ability on the part of such
+relative to manage funds in such manner as to protect the welfare of the
+relative and the family of the relative; and 
+
+       (b) Periodically
+review the determination made pursuant to subsection (1) of this section and
+terminate payments to the representative payee if it is established by such
+review that the conditions justifying such determination no longer exist. [Formerly
+418.050] 
+
+   
+
+       412.028
+Petition for and appointment of guardian or conservator; costs; compensation. (1) If, after such period as may
+be prescribed by the Department of Human Services, it appears to the department
+that the need for money payments of aid to a representative payee is continuing
+or likely to continue in any case, the department may petition for the judicial
+appointment of a guardian or a conservator of the estate of the relative
+referred to in ORS 412.026 (1). If a guardian or a conservator of the estate of
+the relative is appointed and duly qualified, money payments of aid otherwise
+payable to the relative, or representative payee, shall be paid to the guardian
+or the conservator until the department determines that the conditions which
+would justify money payments of aid to a representative payee under ORS 412.026
+no longer exist. 
+
+       (2) Subject to
+funds made available to the department for administrative expenditures, the
+department shall, with respect to any guardianship or conservatorship
+established under this section: 
+
+       (a) Pay all costs
+and fees reasonably incurred in obtaining the appointment of the guardian or
+the conservator, including any necessary bond premiums; 
+
+       (b) Pay all costs
+and fees necessarily incurred by the guardian or the conservator in
+administering money payments of aid received by the guardian or conservator
+under this section; and 
+
+       (c) Compensate
+the guardian or the conservator, for the fees in administering the money
+payments, according to schedules of fees prescribed by rule or regulation of
+the department. [Formerly 418.054] 
+
+   
+
+       412.029
+Expenditures limited to needs of beneficiary; rules. Each money payment of aid made to
+a representative payee or to a guardian or a conservator under ORS 412.026 or
+412.028 shall be expended by the representative payee, guardian or conservator
+solely to make purchases to meet the needs of the individuals with respect to
+whom the payment is made. However, the individuals may receive from the
+representative payee, guardian or conservator such portions of the money
+payments, and at such intervals, as may be permitted by rules adopted by the
+Department of Human Services. [Formerly 418.059; 2015 c.765 §14; 2019 c.602 §11] 
+
+   
+
+       412.030 [Repealed by 1961 c.633 §14] 
+
+   
+
+       412.034 Denial
+of aid when unemployed parent refuses employment. Aid under ORS 412.006 shall not be
+granted with respect to, or on behalf of, a dependent child living with an
+unemployed parent if, and for as long as, the unemployed parent of such child
+refuses without good cause to accept employment in which the unemployed parent
+is able to engage and which is offered through any employment office defined in
+ORS 657.010 or which is otherwise offered by any employer if such offer is
+determined by the Department of Human Services after notification by such
+employer to be a bona fide offer of such employment. [Formerly 418.075] 
+
+   
+
+       412.035 [1961 c.633 §3; 1963 c.446 §2;
+1967 c.204 §1; 1969 c.468 §2; repealed by 2005 c.381 §30] 
+
+   
+
+       412.039
+Cooperation of department with Director of Employment Department and all
+available workforce services to find employment for parent. (1) The Legislative Assembly
+declares that it is in the public interest of the State of Oregon that all
+available workforce services, including those authorized under other provisions
+of law, be utilized to provide incentives, opportunities and necessary services
+to appropriate individuals in order that they may be employed in the regular
+economy, may be trained for regular employment and may participate in special
+work projects. 
+
+       (2) During any
+period in which aid may be granted under ORS 412.006 with respect to, or on
+behalf of, a dependent child living with an unemployed caretaker relative, the
+Department of Human Services and the Director of the Employment Department
+shall enter into cooperative arrangements looking toward employment of or
+training services for the unemployed caretaker relative and shall provide for
+the registration and periodic reregistration of such caretaker relative at
+employment offices established pursuant to ORS 657.705 to 657.725 to effect
+maximum utilization of the job placement services and other services and
+facilities of such offices. [Formerly 418.085; 2015 c.765 §15] 
+
+   
+
+       412.040 [Repealed by 1961 c.633 §14] 
+
+   
+
+       412.044
+Cooperation with other agencies to provide vocational training. The Department of Human Services
+and any other state agency, which administers, supervises or participates in
+the administration of programs of public vocational or adult education services
+available in this state, may enter into and execute cooperative arrangements
+looking toward maximum utilization of such services to encourage the training
+or retraining of individuals participating in a community work and training
+program as defined in ORS 411.855, and otherwise to assist such individuals in
+preparing for regular employment. [Formerly 418.097] 
+
+   
+
+       412.045 [1961 c.633 §4; 1965 c.556 §19;
+repealed by 2005 c.381 §30] 
+
+   
+
+       412.049 Powers
+and duties of department; rules. 
+The Department of Human Services shall: 
+
+       (1) Supervise the
+administration of the temporary assistance for needy families program under ORS
+412.001 to 412.155. 
+
+       (2) Make such
+rules and regulations and take such action as may be necessary or desirable for
+carrying out ORS 412.001 to 412.155. 
+
+       (3) Prescribe the
+form of and print and supply such forms as it deems necessary and advisable. 
+
+       (4) Cooperate
+with the federal government in matters of mutual concern pertaining to
+temporary assistance for needy families, including the adoption of such methods
+of administration as are found by the federal government to be necessary for
+the efficient operation of the plan for such aid. 
+
+       (5) Accept and
+disburse any and all federal funds made available to the State of Oregon for
+temporary assistance for needy families purposes. [Formerly 418.100; 2015 c.765
+§16] 
+
+   
+
+       412.050 [Repealed by 1961 c.633 §14] 
+
+   
+
+       412.054
+Application for aid. 
+Application for aid under ORS 412.001 to 412.069 shall be made to the
+Department of Human Services by the relative with whom the child lives. The
+application shall be in the manner and upon the form prescribed by the
+department. [Formerly 418.110; 2015 c.70 §9; 2015 c.765 §17] 
+
+   
+
+       412.055 [1961 c.633 §6; 1965 c.468 §1;
+1967 c.116 §1; 1969 c.69 §2; 1969 c.636 §1; 1973 c.394 §1; repealed by 2005
+c.381 §30] 
+
+   
+
+       412.059
+Investigation of eligibility of child; rules. Whenever the Department of Human Services receives a
+notification of the dependency of a child or an application for aid, a record
+shall promptly be made of the circumstances, relating the facts supporting the
+application and such other information as may be required by the rules and
+regulations of the department. [Formerly 418.115] 
+
+   
+
+       412.060 [Repealed by 1961 c.633 §14] 
+
+   
+
+       412.064
+Authority to determine eligibility. 
+The Department of Human Services shall decide whether the child is eligible for
+aid under ORS 412.001 to 412.069 and determine the date on which the aid
+granted shall begin. [Formerly 418.120; 2015 c.70 §10; 2015 c.765 §18] 
+
+   
+
+       412.065 [1961 c.633 §7; 1967 c.285 §1;
+1969 c.68 §5; 1971 c.779 §31; repealed by 2005 c.381 §30] 
+
+   
+
+       412.069 Appeal
+from denial of or failure to act on application or from modification or
+cancellation of aid. 
+If an application is not acted upon within a reasonable time after the filing
+of the application or is denied in whole or in part, or if any grant of aid is
+modified or canceled, the applicant or recipient may petition the Department of
+Human Services for review in the county which the applicant or recipient elects
+as provided by ORS chapter 183. [Formerly 418.125] 
+
+   
+
+       412.070 [Amended by 1955 c.364 §5;
+repealed by 1961 c.633 §14] 
+
+   
+
+       412.072
+Requirements when victims of domestic violence apply for or receive TANF;
+confidentiality. 
+(1) The Department of Human Services shall: 
+
+       (a) Identify
+applicants for and recipients of assistance under the temporary assistance for
+needy families program who are currently victims of domestic violence, have
+been victims of domestic violence or are at risk of victimization by domestic
+violence. 
+
+       (b) Ensure that
+appropriate individuals on the local level who provide assistance to domestic
+violence victims participate in individualized case management with the
+department. 
+
+       (c) Refer
+individuals identified under this subsection to appropriate counseling and
+support services. 
+
+       (d) Waive or
+modify any temporary assistance for needy families program requirements that
+may make it more difficult for individuals identified under this subsection to
+escape domestic violence or place those individuals at risk of further or
+future domestic violence, including but not limited to: 
+
+       (A) Time limits
+on receipt of benefits; 
+
+       (B) Work
+requirements; 
+
+       (C) Parentage
+establishment and child support cooperation requirements; 
+
+       (D) Residency
+requirements; 
+
+       (E) Family cap
+provisions; and 
+
+       (F) Penalties for
+failure to comply with a program requirement. 
+
+       (e) Maintain
+emergency assistance eligibility and payment limits for victims of domestic
+violence or persons at risk of victimization by domestic violence identified
+under this section at no less than the levels in effect on January 1, 1997. 
+
+       (f) Allow
+eligibility for temporary assistance for needy families for persons identified
+under this section as victims of domestic violence or persons identified as at
+risk of victimization by domestic violence who would otherwise be eligible
+except for the fact that they are noncitizens. 
+
+       (2) All
+information received by the department in identifying the individuals described
+in subsection (1) of this section shall remain confidential. 
+
+       (3) For purposes
+of this section, “domestic violence” means the occurrence of one or more of the
+following acts between family members, intimate partners or household members: 
+
+       (a) Attempting to
+cause or intentionally, knowingly or recklessly causing physical injury or
+emotional, mental or verbal abuse; 
+
+       (b)
+Intentionally, knowingly or recklessly placing another in fear of imminent
+serious physical injury; 
+
+       (c) Committing
+sexual abuse in any degree as defined in ORS 163.415, 163.425 and 163.427; or 
+
+       (d) Using
+coercive or controlling behavior. 
+
+       (4) Nothing in
+this section prohibits disclosure of information for the purposes of making a
+report of suspected abuse as required under ORS 124.060, 419B.010, 430.765 or
+441.640. [Formerly 411.117; 2025 c.592 §139] 
+
+   
+
+       Note: 412.072 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 412
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       412.074 Use
+and custody of records of temporary assistance for needy families program;
+rules. (1) Except
+as otherwise provided in this section and except for purposes directly
+connected with the administration of the temporary assistance for needy
+families program, delivery or administration of programs and services the
+Department of Human Services is authorized to deliver and administer pursuant
+to ORS 409.010 or as necessary to assist public assistance applicants and
+recipients in accessing and receiving other governmental or private nonprofit
+services and in accordance with the rules of the department, a person may not
+solicit, disclose, receive, make use of, or authorize, knowingly permit,
+participate in, or acquiesce in the use of, any list of or names of, or any
+information concerning, persons applying for or receiving such aid, directly or
+indirectly derived from the records, papers, files or communications of the
+department or acquired in the course of the performance of official duties. 
+
+       (2) Nothing in
+this section prohibits the disclosure and use of information about applicants
+and recipients as is necessary to carry out the child support enforcement laws
+of this state and of the United States. 
+
+       (3) Nothing in
+this section prohibits the disclosure of the address of any applicant or
+recipient to a law enforcement official at the request of such official. To
+receive information pursuant to this section, the official must furnish the
+agency the name of the applicant or recipient and advise that the applicant or
+recipient: 
+
+       (a) Is fleeing to
+avoid prosecution, custody or confinement after conviction for a felony; 
+
+       (b) Is violating
+a condition of probation or parole; or 
+
+       (c) Has
+information that is necessary for the official to conduct the official duties
+of the official and the location or apprehension of the applicant or recipient
+is within such official duties. 
+
+       (4) Nothing in
+this section prohibits disclosure of information for the purposes of making a
+report of suspected abuse as required under ORS 124.060, 419B.010, 430.765 or
+441.640. [Formerly 418.130; 2023 c.271 §4] 
+
+   
+
+       412.075 [1961 c.633 §8; 1971 c.734 §42;
+1971 c.779 §32; repealed by 2005 c.381 §30] 
+
+       412.076 [Formerly 418.150; repealed by
+2015 c.765 §28] 
+
+   
+
+       412.079 Time
+limits; exceptions; rules. 
+(1) Except as provided in subsections (2) and (3) of this section, a needy
+caretaker relative may not receive aid under ORS 412.006 if the needy caretaker
+relative has received aid under the temporary assistance for needy families
+program in this state or any other state for more than a total of 60 months. 
+
+       (2) The
+Department of Human Services may not count toward the 60-month limit on receipt
+of aid described in subsection (1) of this section any month in which a needy
+caretaker relative: 
+
+       (a) Receives a
+grant of temporary assistance for needy families under ORS 412.001 to 412.069,
+or assistance funded under Title IV-A of the Social Security Act in this or
+another state, prior to July 1, 2003; 
+
+       (b) Resides in an
+area described in 18 U.S.C. 1151, and 50 percent or more of the adult residents
+in the area are unemployed; 
+
+       (c) Is, in that
+month, a minor child and neither the head of the household nor married to the
+head of the household; or 
+
+       (d) Receives aid
+under ORS 411.878, 412.014 or 412.124. 
+
+       (3)
+Notwithstanding subsection (1) of this section, a needy caretaker relative may
+receive aid for more than 60 months if the needy caretaker relative: 
+
+       (a) Is enrolled
+at an educational institution under ORS 412.016; 
+
+       (b) Is exempt
+from time limits pursuant to rules adopted by the department in accordance with
+section 408(a)(7)(C) of the Social Security Act; or 
+
+       (c) Is unable to
+obtain or maintain employment that provides earnings in excess of income limits
+established by the department under ORS 412.007 because the needy caretaker
+relative: 
+
+       (A) Is a victim
+of domestic violence as defined in ORS 412.072; 
+
+       (B) Has a
+certified learning disability; 
+
+       (C) Has a mental
+health condition or an alcohol or drug abuse problem; 
+
+       (D) Has a
+disability as defined by the department by rule in a manner consistent with the
+definition of disability in the Americans with Disabilities Act; 
+
+       (E) Has a child
+with a disability; 
+
+       (F) Is deprived
+of needed medical care; 
+
+       (G) Is subjected
+to battery or extreme cruelty as defined by the department by rule; or 
+
+       (H) Qualifies as
+having a hardship as defined by the department by rule. 
+
+       (4)(a) The
+Department of Human Services shall monitor the average period of time a family
+receives aid and shall record such information by family demographics. The
+department shall monitor the wages and benefits received by an individual who
+becomes employed while receiving aid, including child care benefits. The
+department shall monitor and record the rate at which families who cease
+receiving aid for employment subsequently apply for and receive aid. 
+
+       (b) The
+department shall report the results of the monitoring required under paragraph
+(a) of this subsection to the Legislative Assembly not later than the 15th day
+of each odd-numbered year regular session. [Formerly 418.131; 2009 c.11 §56;
+2011 c.9 §54; 2011 c.545 §47; 2012 c.107 §80; 2015 c.765 §19] 
+
+   
+
+       412.080 [Repealed by 1961 c.633 §14] 
+
+   
+
+       412.084 Minor
+parents’ eligibility to receive assistance and support services. (1) A person who is a minor parent
+of a child and is receiving or applying for aid shall reside with the person’s
+parent, parents or legal guardian. The person may substitute an alternative
+supervised living arrangement if the Department of Human Services determines
+that it is unsafe or impractical for the person to reside with the person’s
+parent, parents or legal guardian. Failure of a minor parent applying for or
+receiving temporary assistance for needy families to reside with the person’s
+parent, parents or legal guardian or in an alternative supervised living
+arrangement shall result in the termination of aid. 
+
+       (2) The
+provisions of subsection (1) of this section shall not apply to an applicant
+for or recipient of temporary assistance for needy families when circumstances
+or conditions exist that the department by rule establishes are not in the best
+interest of the child. 
+
+       (3) If a person
+who is a minor parent receiving aid and who is not living with the person’s
+parent, parents or legal guardian subsequently returns to reside with the
+parent, parents or guardian and is determined ineligible to receive aid by
+reason of the parent’s or guardian’s income, the minor parent shall be eligible
+to receive such services, including medical care, as the department determines
+are necessary to allow the minor parent to attain a high school diploma or the
+equivalent, or to participate in the job opportunity and basic skills program
+as described in ORS 412.009. [Formerly 418.132; 2019 c.602 §10] 
+
+   
+
+       412.085 [1961 c.633 §13; 1967 c.285 §2;
+1971 c.779 §33; repealed by 2005 c.381 §30] 
+
+   
+
+       412.089
+Referral to mental health or drug abuse professional; provision of resources;
+staff training. 
+(1) The Department of Human Services shall refer a person applying for or
+receiving temporary assistance for needy families to an evaluation by a mental
+health or drug abuse professional if the department reasonably believes such
+referral is necessary. The Department of Human Services shall develop
+guidelines to assist in the identification and referral of individuals
+requiring mental health or drug abuse treatment. 
+
+       (2) If an
+evaluation conducted under subsection (1) of this section determines that
+mental health or drug abuse treatment is necessary for the person to function
+successfully in the workplace, the department shall provide such resources as
+are necessary and available for the person to participate in and successfully
+complete treatment. 
+
+       (3) A person who
+refuses to participate in an evaluation under subsection (1) of this section or
+treatment under subsection (2) of this section shall be subject to the
+provisions of ORS 412.009 (3) and (4). 
+
+       (4) The
+department shall provide training to staff who work directly with persons
+applying for or receiving temporary assistance for needy families in assessment
+and evaluation of mental health disorders, addictions and domestic violence as
+may be necessary to implement the provisions of subsection (1) of this section.
+[Formerly 418.134; 2015 c.765 §20] 
+
+   
+
+       412.090 [Repealed by 1961 c.633 §14] 
+
+   
+
+       412.094 Public
+officials to cooperate in locating and furnishing information concerning
+parents of children receiving or applying to receive public assistance and in
+prosecuting nonsupport cases; use of information restricted. (1) All state, county and city
+agencies, officers and employees shall cooperate in the location of parents who
+have abandoned or deserted, or are failing to support, children receiving or
+applying to receive public assistance and shall on request supply the
+Department of Human Services, the Division of Child Support of the Department
+of Justice or the district attorney of any county in the state with all
+information on hand relative to the location, income and property of such
+parents, including information disclosed to the Division of Child Support under
+ORS 314.840 (2)(k). The granting of aid to the applicant shall not be delayed
+or contingent upon receipt of the answer to such requests by the Department of
+Human Services, the Division of Child Support or the district attorney. The
+Department of Human Services shall use such information only for the purposes
+of administration of public assistance to such children, and the district
+attorney and the Division of Child Support shall use such information only for
+the purpose of enforcing the liability of such parents to support such
+children, and neither shall use the information or disclose it for any other
+purpose. Any person who violates this prohibition against disclosure, upon
+conviction, is punishable as provided in ORS 314.991 (2). 
+
+       (2) The
+Department of Human Services shall cooperate with the Division of Child Support
+or the district attorney prosecuting or considering the prosecution of such
+parent for nonsupport and shall report to the Division of Child Support or the
+district attorney all information contained in the case record which concerns
+the question of nonsupport and the suitability of prosecution as a method of
+obtaining support for the child in each case. [Formerly 418.135; 2013 c.36 §72] 
+
+   
+
+       412.095 [1961 c.633 §9; 1969 c.69 §3;
+repealed by 2005 c.381 §30] 
+
+   
+
+       412.099 [Formerly 418.140; repealed by
+2015 c.765 §28] 
+
+   
+
+       412.100 [Repealed by 1961 c.633 §14] 
+
+   
+
+       412.104 [Formerly 418.145; repealed by
+2015 c.765 §28] 
+
+   
+
+       412.105 [1961 c.633 §10; repealed by 2005
+c.381 §30] 
+
+   
+
+       412.108 [1967 c.217 §3; 1973 c.823 §129;
+repealed by 2005 c.381 §30] 
+
+   
+
+       412.109 Policy
+on absent parent. 
+(1) The Legislative Assembly declares that the policy of this state is that, to
+the extent consistent with federal law, the temporary assistance for needy
+families program policy and practice shall recognize that an absent parent is
+often an important influence in the life of a child. 
+
+       (2) Program
+policy and practice: 
+
+       (a) Shall
+recognize that regular, frequent visits with absent parents are often in the
+best interests of needy children; 
+
+       (b) Shall not
+interfere with the continuing relationship of absent parents with their
+children, whether the parents are temporarily or permanently out of the homes
+of their children; and 
+
+       (c) Shall not
+restrict parents in adopting plans that they consider to be in the best
+interests of their children. [Formerly 418.147] 
+
+   
+
+       412.110 [Repealed by 1961 c.633 §14] 
+
+   
+
+       412.113 [1967 c.217 §2; 1969 c.597 §247;
+1971 c.779 §34; repealed by 2005 c.381 §30] 
+
+   
+
+       412.114 [Formerly 418.149; repealed by
+2015 c.765 §28] 
+
+   
+
+       412.115 [1961 c.633 §11; 1999 c.745 §4;
+repealed by 2005 c.381 §30] 
+
+   
+
+       412.120 [Repealed by 1961 c.633 §14] 
+
+   
+
+       412.124
+Post-TANF aid to employed families; rules. (1) As used in this section, “aid” means: 
+
+       (a) Cash payments
+to a family; and 
+
+       (b) Support
+service payments and services through the job opportunity and basic skills
+program necessary to maintain employment to assist the family, directly or
+indirectly, in achieving long term stability. 
+
+       (2) The
+Department of Human Services may provide aid for up to 12 months to a family
+if: 
+
+       (a) The family is
+residing in this state; 
+
+       (b) The family
+becomes ineligible for aid under the temporary assistance for needy families
+program due to employment or increased hours of work; and 
+
+       (c) The caretaker
+relative is employed. 
+
+       (3) The
+department shall adopt by rule standards for the aid provided under this
+section. The department may disregard the aid in determining eligibility for
+publicly subsidized child care assistance. [Formerly 418.155; 2015 c.765 §§6,7;
+2019 c.602 §6] 
+
+   
+
+       412.125 [1961 c.633 §12; repealed by 2005
+c.381 §30] 
+
+   
+
+       412.130 [Repealed by 1961 c.633 §14] 
+
+   
+
+       412.139 Duties
+of department relating to federal law. 
+The Department of Human Services shall have the responsibility and authority to
+provide such services as are necessary to maintain the intent of and compliance
+with federal requirements for the program described in ORS 412.124. [Formerly
+418.160] 
+
+   
+
+       412.140 [Repealed by 1961 c.633 §14] 
+
+   
+
+       412.144 Duties
+of department relating to other agencies. The Department of Human Services shall have the
+responsibility and authority to provide such services and engage in such
+cooperative and coordinated efforts with the Employment Department and other
+appropriate agencies as are necessary to maintain the intent of and compliance
+with federal requirements for the program described in ORS 412.124. [Formerly
+418.163] 
+
+   
+
+       412.150 [Repealed by 1961 c.633 §14] 
+
+   
+
+       412.151
+Statewide electronic benefits transfer system; replacement cards to display
+name. (1) The
+Department of Human Services shall provide temporary assistance for needy
+families and supplemental nutrition assistance to eligible individuals through
+an electronic benefits transfer system that uses an electronic benefits
+transfer card. Any time the department issues an electronic benefits transfer
+card to replace a card that was reported lost or stolen, the replacement card
+must display the name of the individual to whom the card is issued. 
+
+       (2) The
+department shall seek all state and federal approvals necessary for
+implementation of an electronic benefits transfer system as described in
+subsection (1) of this section. 
+
+       (3) This section
+does not apply to Supplemental Nutrition Assistance Program benefits issued to
+a senior citizen under a demonstration project approved by the Food and
+Nutrition Service of the United States Department of Agriculture or to benefits
+received by a recipient of federal Supplemental Security Income in the form of
+a check in lieu of an electronic benefits transfer card. [Formerly 418.047;
+2009 c.599 §20; 2015 c.710 §1] 
+
+   
+
+       Note: 412.151 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 412
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       412.155
+Additional monthly payments of elderly rental assistance. The Department of Human Services
+shall include in the payment made under ORS 412.001 to 412.155 and 418.647 a
+monthly amount to be designated elderly rental assistance. The amount shall be
+determined by the department, subject to the total amount appropriated for that
+purpose by the Legislative Assembly. [Formerly 418.172] 
+
+   
+
+       412.160 [Amended by 1957 c.56 §1; repealed
+by 1961 c.633 §14] 
+
+   
+
+       412.161 Policy
+on two-parent families. 
+The Legislative Assembly finds: 
+
+       (1) That the
+provision of public assistance to children in very low income families would
+help keep families together and reduce hardship in times of high unemployment; 
+
+       (2) That the lack
+of public assistance to two-parent unemployed families does not produce
+significant financial savings for the State of Oregon since family break-up
+increases the number of single-parent families receiving public assistance; 
+
+       (3) That children
+in two-parent unemployed families have needs as urgent as those of children in
+single-parent unemployed families; 
+
+       (4) That the
+provision of public assistance to two-parent unemployed families may provide
+access to medical care for these families, health being one of the
+prerequisites to seeking and maintaining employment; 
+
+       (5) That because
+federal law requires active participation in employment and other alternatives
+to be eligible for federal funds for public assistance, the availability of
+federal funds helps those families who are trying hardest to help themselves be
+self-supporting; and 
+
+       (6) That
+additional funds need to be made available in the temporary assistance for
+needy families program to effectuate this policy. [Formerly 418.180; 2015 c.765
+§21] 
+
+   
+
+       412.170 [Amended by 1955 c.444 §3;
+repealed by 1961 c.633 §14] 
+
+   
+
+       412.180 [Repealed by 1953 c.550 §12] 
+
+   
+
+       412.510 [Amended by 1959 c.409 §1; 1969
+c.69 §4; repealed by 2005 c.381 §30] 
+
+   
+
+       412.520 [Amended by 1959 c.409 §2; 1965
+c.556 §20; 1969 c.69 §5; 1969 c.468 §3; 1973 c.651 §5; repealed by 2005 c.381 §30] 
+
+   
+
+       412.530 [Amended by 1963 c.71 §1; 1965
+c.42 §1; 1971 c.779 §35; 1973 c.651 §6; 2005 c.22 §281; repealed by 2005 c.381 §30] 
+
+   
+
+       412.540 [Amended by 1959 c.409 §3; 1965
+c.93 §1; repealed by 2005 c.381 §30] 
+
+   
+
+       412.550 [Amended by 1959 c.409 §4;
+repealed by 2001 c.900 §261] 
+
+   
+
+       412.560 [Amended by 1959 c.409 §5;
+repealed by 2005 c.381 §30] 
+
+   
+
+       412.570 [Amended by 1955 c.364 §6; 1969
+c.68 §6; 1971 c.779 §36; repealed by 2005 c.381 §30] 
+
+   
+
+       412.580 [Amended by 1969 c.597 §248; 1971
+c.734 §43; 2001 c.900 §99; repealed by 2005 c.381 §30] 
+
+   
+
+       412.590 [Amended by 1953 c.500 §12; 1959
+c.409 §6; 1971 c.779 §37; repealed by 2005 c.381 §30] 
+
+   
+
+       412.600 [Amended by 1971 c.335 §1; 1975
+c.386 §2; 1985 c.522 §2; 1993 c.249 §3; 1995 c.664 §92; 2001 c.900 §221; 2005
+c.22 §282; 2005 c.381 §12; renumbered 411.708 in 2005] 
+
+   
+
+       412.610 [Amended by 1999 c.745 §5;
+repealed by 2005 c.381 §30] 
+
+   
+
+       412.620 [Repealed by 2005 c.381 §30] 
+
+   
+
+       412.625 [1967 c.217 §5; repealed by 2005
+c.381 §30] 
+
+   
+
+       412.630 [Amended by 1957 c.56 §2; repealed
+by 2005 c.381 §30] 
+
+   
+
+       412.700 [1989 c.922 §§1,2,3,4; 1991 c.412 §1;
+renumbered 410.730 in 2005] 
+
+   
+
+       412.710 [1989 c.922 §5; 1991 c.412 §2;
+2003 c.14 §183; renumbered 410.732 in 2005] 
+
+   
+
+       412.990 [Repealed by 1953 c.500 §12] 
+
+   
+
+ PENALTIES 
+
+   
+
+       412.991
+Criminal penalties. 
+A person who violates ORS 412.074 commits a Class A misdemeanor. [Formerly
+subsection (1) of 418.990; 2015 c.765 §26b] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

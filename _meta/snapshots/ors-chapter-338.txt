@@ -1,0 +1,2723 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+338 — 
+
+ PUBLIC
+CHARTER SCHOOLS 
+
+ 2025
+EDITION 
+
+   
+
+ Public
+Charter Schools 
+
+   
+
+   
+
+ EDUCATION AND CULTURE 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 338.005     Definitions for chapter 
+
+   
+
+ 338.015     Legislative intent;
+goals 
+
+   
+
+ 338.025     Rules; waiver of
+provisions of chapter; exceptions 
+
+   
+
+ FORMATION 
+
+   
+
+ 338.035     Establishment
+requirements; proposal submission timeline; prohibitions 
+
+   
+
+ 338.045     Proposal requirements;
+technical assistance; buildings 
+
+   
+
+ 338.055     Evaluation process and
+criteria; appeals; mediation 
+
+   
+
+ 338.065     Terms and form of charter;
+renewal; appeal 
+
+   
+
+ 338.075     Review of school
+district board decision; sponsorship by State Board of Education; judicial
+review 
+
+   
+
+ 338.080     Cooperative agreement
+to provide educational services 
+
+   
+
+ OPERATION 
+
+   
+
+ 338.095     Financial management
+system; annual report, visit and audit 
+
+   
+
+ 338.105     Termination of charter;
+appeal; rules; dissolution or closure of school 
+
+   
+
+ 338.115     Applicability of laws;
+restrictions; powers; student diplomas and certificates of attendance 
+
+   
+
+ 338.120     Additional requirements
+for virtual public charter schools; access to documents 
+
+   
+
+ 338.125     Student enrollment;
+nonresident students; appeals; written notices 
+
+   
+
+ 338.130     Operation of school or
+of tutoring or testing facility not located in sponsoring school district;
+compliance 
+
+   
+
+ 338.135     Employees; licensure
+and registration requirements; collective bargaining; prohibition on waiver of
+right to sponsor charter school 
+
+   
+
+ 338.145     Responsibility for
+student transportation services; costs 
+
+   
+
+ FUNDING 
+
+   
+
+ 338.155     Distributions of State
+School Fund amounts; grants available to charter schools 
+
+   
+
+ 338.157     Adjusting number of
+students for poverty level 
+
+   
+
+ 338.165     Special education
+students; payment for services 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       338.005
+Definitions for chapter. 
+As used in this chapter, unless the context requires otherwise: 
+
+       (1) “Applicant”
+means any person or group that develops and submits a written proposal for a
+public charter school to a sponsor. 
+
+       (2) “Public
+charter school” means an elementary or secondary school offering a
+comprehensive instructional program operating under a written agreement entered
+into between a sponsor and an applicant and operating pursuant to this chapter. 
+
+       (3) “Remote and
+necessary school district” means a school district that offers kindergarten
+through grade 12 and has: 
+
+       (a) An average
+daily membership (ADM), as defined in ORS 327.006, in the prior fiscal year of
+less than 110; and 
+
+       (b) A school that
+is located, by the nearest traveled road, more than 20 miles from the nearest
+school or from a city with a population of more than 5,000. 
+
+       (4) “Sponsor”
+means: 
+
+       (a) The board of
+the common school district or the union high school district in which the
+public charter school is located that has developed a written charter with an
+applicant to create a public charter school. 
+
+       (b) The State
+Board of Education pursuant to ORS 338.075. 
+
+       (5)(a) “Virtual
+public charter school” means a public charter school that provides online
+courses. 
+
+       (b) “Virtual
+public charter school” does not include a public charter school that primarily
+serves students in a physical location. [1999 c.200 §2; 2007 c.575 §2; 2009
+c.691 §1; 2011 c.695 §1; 2012 c.91 §19; 2018 c.72 §5] 
+
+   
+
+       338.010 [Amended by 1965 c.100 §153;
+renumbered 332.405] 
+
+   
+
+       338.015
+Legislative intent; goals. 
+It is the intent of this chapter that new types of schools, called public
+charter schools, be created as a legitimate avenue for parents, educators and
+community members to take responsible risks to create new, innovative and more
+flexible ways of educating children within the public school system. The
+Legislative Assembly seeks to create an atmosphere in Oregon’s public school
+system where research and development of new learning opportunities are
+actively pursued. The provisions of this chapter should be interpreted
+liberally to support the goals of this section and to advance a renewed
+commitment by this state to the mission, goals and diversity of public
+education. It is the intent that public charter schools may serve as models and
+catalysts for the improvement of other public schools and the public school
+system. The goals of public charter schools shall be to: 
+
+       (1) Increase
+student learning and achievement; 
+
+       (2) Increase
+choices of learning opportunities for students; 
+
+       (3) Better meet
+individual student academic needs and interests; 
+
+       (4) Build
+stronger working relationships among educators, parents and other community
+members; 
+
+       (5) Encourage the
+use of different and innovative learning methods; 
+
+       (6) Provide
+opportunities in small learning environments for flexibility and innovation,
+which may be applied, if proven effective, to other public schools; 
+
+       (7) Create new
+professional opportunities for teachers; 
+
+       (8) Establish
+additional forms of accountability for schools; and 
+
+       (9) Create
+innovative measurement tools. [1999 c.200 §1] 
+
+   
+
+       338.020 [Repealed by 1965 c.100 §456] 
+
+   
+
+       338.025 Rules;
+waiver of provisions of chapter; exceptions. (1) The State Board of Education may adopt any rules
+necessary for the implementation of this chapter. The rules shall follow the
+intent of this chapter. 
+
+       (2) Upon
+application by a public charter school, the State Board of Education may grant
+a waiver of any provision of this chapter if the waiver promotes the
+development of programs by providers, enhances the equitable access by
+underserved families to the public education of their choice, extends the
+equitable access to public support by all students or permits high quality
+programs of unusual cost. The State Board of Education may not waive any appeal
+provision in this chapter or any provision under ORS 338.115 (1)(a) to (aa),
+338.120, 338.125 (5), 338.135 (2)(b) or 339.122. [1999 c.200 §13; 2001 c.810 §3;
+2005 c.367 §5; 2007 c.575 §4; 2007 c.660 §4; 2007 c.839 §8; 2008 c.50 §§13,14;
+2010 c.53 §§4,5; 2010 c.72 §§3,4; 2011 c.94 §§4,5; 2011 c.649 §§3,4; 2011 c.718
+§§26,27; 2013 c.98 §§8,9; 2013 c.265 §§15,16; 2015 c.67 §§3,4; 2023 c.434 §2] 
+
+   
+
+       338.030 [Repealed by 1965 c.100 §456] 
+
+   
+
+ FORMATION 
+
+   
+
+       338.035
+Establishment requirements; proposal submission timeline; prohibitions. (1) A public charter school may be
+established: 
+
+       (a) As a new
+public school; 
+
+       (b) As a virtual
+public charter school; 
+
+       (c) From an
+existing public school or a portion of the school; or 
+
+       (d) From an
+existing alternative education program, as defined in ORS 336.615. 
+
+       (2)(a) Before a
+public charter school may operate as a public charter school, it must: 
+
+       (A) Be approved
+by a sponsor; 
+
+       (B) Be
+established as a nonprofit organization under the laws of Oregon; and 
+
+       (C) Have applied
+to qualify as an exempt organization under section 501(c)(3) of the Internal
+Revenue Code. 
+
+       (b)
+Notwithstanding paragraph (a) of this subsection, the requirements of paragraph
+(a)(B) and (C) of this subsection do not apply to: 
+
+       (A) A school in a
+school district that is composed of only one school; 
+
+       (B) A school in a
+school district that is a remote and necessary school district on the date the
+school first begins operation as a public charter school; or 
+
+       (C) A school for
+which the applicant is a federally recognized Indian tribe in this state. 
+
+       (3)(a) Except for
+a public charter school that is not required to comply with subsection
+(2)(a)(B) and (C) of this section as provided by subsection (2)(b) of this
+section, a member of the school district board of the school district within
+which a public charter school is located may not be a voting member of the
+public charter school governing body. 
+
+       (b) A member of
+the school district board of the school district within which a public charter
+school is located may act in an advisory capacity on the public charter school
+governing body. 
+
+       (4)(a) An
+applicant seeking to establish a public charter school shall submit a proposal
+to: 
+
+       (A) The school
+district board of the school district within which the public charter school
+will be located pursuant to ORS 338.045 if the applicant: 
+
+       (i) Is not a
+federally recognized Indian tribe in this state; or 
+
+       (ii) Is a
+federally recognized Indian tribe in this state and chooses to submit a
+proposal to a school district board; or 
+
+       (B) The State
+Board of Education pursuant to ORS 338.075 if the applicant: 
+
+       (i) Is a
+federally recognized Indian tribe in this state; and 
+
+       (ii) Chooses to
+not submit a proposal to a school district board. 
+
+       (b) For a
+proposal submitted as provided by paragraph (a)(A) of this subsection, the
+proposal must be submitted by the date identified by the school district board.
+The school district board shall identify a date that is at least 180 days prior
+to the date on which the public charter school would begin operating and that
+provides a reasonable period of time for the school district board to complete
+the approval process described in ORS 338.055 and for the public charter school
+to begin operating by the beginning of a school year. An applicant may consult
+with the school district board prior to submitting a proposal, and the school
+district board may require an applicant to submit a letter of intent within a
+reasonable period of time prior to submitting a proposal. 
+
+       (5) An applicant
+seeking to establish a public charter school as provided by subsection
+(4)(a)(A) of this section shall provide to the State Board of Education a copy
+of any proposal submitted to a school district board under ORS 338.045 and a
+copy of any subsequent approval by the school district board. 
+
+       (6)(a) One or
+more, but not all, schools in a school district may become public charter
+schools. 
+
+       (b)
+Notwithstanding paragraph (a) of this subsection, a school in a school district
+that is composed of only one school may become a public charter school. For a
+public charter school that is the only school in the school district, the
+public charter school and the school district may be considered to be a single
+legal entity for the purposes of this chapter if: 
+
+       (A) The public
+charter school is not required to comply with subsection (2)(a)(B) and (C) of
+this section; 
+
+       (B) All of the
+members of the school district board are voting members of the public charter
+school governing body as allowed by subsection (3)(a) of this section; 
+
+       (C) The school
+district and the public charter school share employees; and 
+
+       (D) The school
+district and the public charter school share assets and liabilities. 
+
+       (7)(a) An entity
+described in ORS 338.005 (4) may not approve a public charter school proposal
+that authorizes the conversion of any private school that is tuition based to a
+public charter school. 
+
+       (b)
+Notwithstanding paragraph (a) of this subsection, an entity described in ORS
+338.005 (4) may authorize the conversion of an existing alternative education
+program, as defined in ORS 336.615, to a public charter school. 
+
+       (8) An entity
+described in ORS 338.005 (4) may not approve a proposal for a public charter
+school that is affiliated with a nonpublic sectarian school or a religious
+institution. [1999 c.200 §3; 2003 c.313 §1; 2005 c.209 §26; 2007 c.575 §1; 2009
+c.691 §2; 2011 c.695 §2; 2013 c.265 §1; 2015 c.273 §1; 2018 c.72 §6; 2025 c.452
+§1] 
+
+   
+
+       338.040 [Repealed by 1965 c.100 §456] 
+
+   
+
+       338.045
+Proposal requirements; technical assistance; buildings. (1) An applicant described in ORS
+338.035 (4)(a)(A) seeking to establish a public charter school shall submit a
+written proposal to a school district board. 
+
+       (2) The proposal
+shall include, but need not be limited to: 
+
+       (a) The
+identification of the applicant; 
+
+       (b) The name of
+the proposed public charter school; 
+
+       (c) A description
+of the philosophy and mission of the public charter school; 
+
+       (d) A description
+of the curriculum of the public charter school; 
+
+       (e) A description
+of the expected results of the curriculum and the verified methods of measuring
+and reporting objective results that will show the growth of knowledge of
+students attending the public charter school and allow comparisons with public
+schools; 
+
+       (f) The
+governance structure of the public charter school; 
+
+       (g) The projected
+enrollment to be maintained and the ages or grades to be served; 
+
+       (h) The target
+population of students the public charter school will be designed to serve; 
+
+       (i) A description
+of any distinctive learning or teaching techniques to be used in the public
+charter school; 
+
+       (j) The legal
+address, facilities and physical location of the public charter school, if
+known; 
+
+       (k) A description
+of admission policies and application procedures; 
+
+       (L) The statutes
+and rules that shall apply to the public charter school; 
+
+       (m) The proposed
+budget and financial plan for the public charter school and evidence that the
+proposed budget and financial plan for the public charter school are
+financially sound; 
+
+       (n) A description
+of the financial management system for the public charter school, an
+explanation of how the financial management system will meet the requirements
+of ORS 338.095 (1) and a plan for having the financial management system in
+place at the time the school begins operating; 
+
+       (o) The standards
+for behavior and the procedures for the discipline, suspension or expulsion of
+students; 
+
+       (p) The proposed
+school calendar for the public charter school, including the length of the
+school day and school year; 
+
+       (q) A description
+of the proposed staff members and required qualifications of teachers at the
+public charter school; 
+
+       (r) The date upon
+which the public charter school would begin operating; 
+
+       (s) The
+arrangements for any necessary special education and related services provided
+pursuant to ORS 338.165 for children with disabilities who may attend the
+public charter school; 
+
+       (t) Information
+on the manner in which community groups may be involved in the planning and
+development process of the public charter school; 
+
+       (u) The term of
+the charter; 
+
+       (v) The plan for
+performance bonding or insuring the public charter school, including buildings
+and liabilities; 
+
+       (w) A proposed
+plan for the placement of public charter school teachers, other school
+employees and students of the public charter school upon termination or
+nonrenewal of a charter; 
+
+       (x) The manner in
+which the program review and fiscal audit will be conducted; and 
+
+       (y) In the case
+of an existing public school being converted to charter status: 
+
+       (A) The
+alternative arrangements for students who choose not to attend the public
+charter school and for teachers and other school employees who choose not to
+participate in the public charter school; and 
+
+       (B) The
+relationship that will exist between the public charter school and its
+employees, including evidence that the terms and conditions of employment have
+been addressed with affected employees and their recognized representative, if
+any. 
+
+       (3) In addition
+to the requirements of subsection (2) of this section: 
+
+       (a) The school
+district board may require any additional information the board considers
+relevant to the formation or operation of a public charter school. 
+
+       (b) Each member
+of a proposed public charter school governing body must provide an
+acknowledgment of understanding related to the standards of conduct and the
+liabilities of a director of a nonprofit organization, as those standards and
+liabilities are described in ORS chapter 65, if the public charter school is
+organized as required by ORS 338.035 (2)(a)(B) and (C). 
+
+       (4) At the
+request of the applicant, the school district board may provide technical
+assistance in developing the proposal for operation of the public charter
+school. 
+
+       (5) School
+districts, education service districts and other public bodies, as defined in
+ORS 174.109, shall make available to the public lists of vacant and unused
+public buildings and portions of buildings that may be suitable for the
+operation of a public charter school. The lists shall be provided to developing
+or operating public charter schools within 30 days of a written request.
+Nothing in this subsection requires the owner of a building on the list to sell
+or lease the building or any portion of the building to a public charter school
+or a public charter school governing body. [1999 c.200 §6; 2007 c.671 §1; 2009
+c.691 §4; 2011 c.684 §4; 2013 c.265 §2; 2025 c.452 §2] 
+
+   
+
+       338.050 [Repealed by 1965 c.100 §456] 
+
+   
+
+       338.055
+Evaluation process and criteria; appeals; mediation. (1)(a) Upon receipt of a proposal
+submitted under ORS 338.045, the school district board shall determine whether
+the proposal is complete. A proposal is complete if the proposal addresses, at
+least minimally, each element required by ORS 338.045 (2) and (3). 
+
+       (b) The school
+district board shall notify an applicant within 30 days after receipt of a
+proposal if the proposal is not complete and identify the specific elements of
+the proposal that are not complete. The school district board shall provide the
+applicant with a reasonable opportunity to complete the proposal. 
+
+       (c) A proposal
+may be disapproved if the applicant has received a reasonable opportunity to
+complete the proposal and the applicant does not provide a proposal that is
+complete. 
+
+       (d) If the school
+district board disapproves a proposal as provided by paragraph (c) of this
+subsection, the applicant may appeal the decision to the State Board of
+Education. The State Board of Education may review the proposal only for
+completeness and may determine that the proposal is: 
+
+       (A) Not complete
+and uphold the decision of the school district board; or 
+
+       (B) Complete and
+remand the proposal to the school district board for consideration. 
+
+       (2) Within 60
+days after receipt of a completed proposal, the school district board shall
+hold a public hearing on the provisions of the proposal. 
+
+       (3) The school
+district board shall evaluate a proposal in good faith using the following
+criteria: 
+
+       (a) The
+demonstrated, sustainable support for the public charter school by teachers,
+parents, students and other community members, including comments received at
+the public hearing held under subsection (2) of this section; 
+
+       (b) The
+demonstrated financial stability of the public charter school, including the
+demonstrated ability of the school to have a sound financial management system
+that is in place at the time the school begins operating and that meets the
+requirements of ORS 338.095 (1); 
+
+       (c) The
+capability of the applicant, in terms of support and planning, to provide
+comprehensive instructional programs to students pursuant to an approved
+proposal; 
+
+       (d) The
+capability of the applicant, in terms of support and planning, to specifically
+provide, pursuant to an approved proposal, comprehensive instructional programs
+to students identified by the applicant as academically low achieving; 
+
+       (e) The adequacy
+of the information provided as required by ORS 338.045 (2) and (3); 
+
+       (f) Whether the
+value of the public charter school is outweighed by any directly identifiable,
+significant and adverse impact on the quality of the public education of
+students residing in the school district in which the public charter school
+will be located; 
+
+       (g) Whether there
+are arrangements for any necessary special education and related services for
+children with disabilities pursuant to ORS 338.165; 
+
+       (h) Whether there
+are alternative arrangements for students and for teachers and other school
+employees who choose not to attend or who choose not to be employed by the
+public charter school; and 
+
+       (i) The prior
+history, if any, of the applicant in operating a public charter school or in
+providing educational services. 
+
+       (4) The school
+district board must approve a proposal or state in writing the reasons for
+disapproving a proposal within 30 days after the public hearing held under
+subsection (2) of this section. 
+
+       (5)(a) Written
+notice of the school district board’s action shall be sent to the applicant. If
+the proposal is not approved: 
+
+       (A) The reasons
+for the denial and suggested remedial measures, if any, shall be clearly stated
+in the notice sent by the school district board to the applicant; and 
+
+       (B) The applicant
+may amend the proposal to address objections and any suggested remedial
+measures and resubmit the proposal to the school district board. 
+
+       (b) The school
+district board shall approve or disapprove the resubmitted proposal within 30
+days after receiving it. If the proposal is not approved, the applicant may
+appeal the decision of the school district board to the State Board of
+Education. 
+
+       (c) When the
+State Board of Education receives an appeal under this subsection, the board
+may review the resubmitted proposal only to determine whether: 
+
+       (A) The school
+district board used the process required by this section in denying the
+proposal; 
+
+       (B) The proposal
+meets the criteria described in subsection (3) of this section; and 
+
+       (C) The reasons
+stated by the school district board for the denial are valid. 
+
+       (d) Following a
+review described in paragraph (c) of this subsection, the State Board of
+Education may: 
+
+       (A) Uphold the
+decision of the school district board to disapprove the proposal; or 
+
+       (B) Remand the
+proposal to the school district board for reconsideration. 
+
+       (6)(a) Individual
+elements in a public charter school proposal may be changed through the
+proposal and chartering process by mutual agreement of the school district
+board and the applicant. 
+
+       (b) If the school
+district board and the applicant are unable to agree on a change during the
+proposal or chartering process, the school district board or the applicant may
+request mediation by the State Board of Education. 
+
+       (c) If the school
+district board and the applicant are unable to reach an agreement following
+mediation as described in paragraph (b) of this subsection, the proposal
+submitted under ORS 338.045, without the change that was the subject of
+mediation, shall be the proposal that governs the public charter school and: 
+
+       (A) The parties
+may execute the charter for the public charter school based on the proposal; 
+
+       (B) The applicant
+may withdraw the proposal; or 
+
+       (C) The school
+district board may disapprove the proposal. 
+
+       (7) Before an
+existing public school is converted to a public charter school, the proposal
+for the conversion must be approved by the school district board of the public
+school. 
+
+       (8) Entities
+described in ORS 338.005 (4) may not charge any fee to applicants for the
+proposal process. 
+
+       (9) Upon request
+by a school district, the State Board of Education may grant an extension of
+any timeline required by this section if the district has good cause for
+requesting the extension. [1999 c.200 §7; 2005 c.209 §27; 2009 c.691 §5; 2011
+c.684 §5; 2011 c.695 §§3,10; 2013 c.265 §§3,4; 2013 c.327 §§4,5; 2018 c.72 §7] 
+
+   
+
+       338.060 [Renumbered 332.415] 
+
+   
+
+       338.065 Terms
+and form of charter; renewal; appeal. 
+(1)(a) Upon approval of a proposal by a school district board under ORS
+338.055, the school district board shall become the sponsor of the public
+charter school. 
+
+       (b) Pursuant to
+ORS 338.075 (2), (3) or (4), the State Board of Education shall become the
+sponsor of the public charter school. 
+
+       (2) The sponsor
+and the applicant shall develop a written charter that contains the provisions
+of the proposal that have been duly approved by the sponsor and public charter
+school governing body. As provided by ORS 338.055 (6), the sponsor and the
+applicant may agree to change elements of the proposal prior to incorporating
+them into the charter. The charter, when duly executed by the sponsor and the
+public charter school governing body, shall act as the legal authorization for
+the establishment of the public charter school. The charter shall be legally
+binding on both the sponsor and the public charter school governing body. 
+
+       (3) The sponsor
+and the public charter school governing body may amend a charter by joint
+agreement. 
+
+       (4)(a) The
+initial charter shall be in effect for a period of not more than five years and
+shall be renewed upon the authorization of the sponsor using the process
+established under this section. 
+
+       (b) The first
+renewal of a charter shall be for the same time period as the initial charter. 
+
+       (c) Subsequent
+renewals of a charter shall be for a minimum of five years but may not exceed
+10 years. 
+
+       (5)(a) The
+renewal of a charter shall use the process required by this section. 
+
+       (b) The public
+charter school governing body shall submit a written renewal request to the
+sponsor for consideration at least 180 days prior to the expiration of the
+charter. 
+
+       (c) Within 45
+days after receiving a written renewal request from a public charter school
+governing body, the sponsor shall hold a public hearing regarding the request
+for renewal. 
+
+       (d) Within 30
+days after the public hearing, the sponsor shall approve the renewal of the
+charter or state in writing the reasons for denying the renewal of the charter. 
+
+       (e) If the
+sponsor approves the renewal of the charter, the sponsor and the public charter
+school governing body shall negotiate a new charter within 90 days after the
+date on which the sponsor approved the renewal of the charter unless the
+sponsor and the public charter school governing body agree to an extension of
+the time period. Notwithstanding the time period specified in the charter, an
+expiring charter shall remain in effect until a new charter is negotiated. 
+
+       (f) If the
+sponsor does not renew the charter, the public charter school governing body
+may address the reasons stated under paragraph (d) of this subsection and any
+remedial measures suggested by the sponsor and submit a revised request for
+renewal to the sponsor. 
+
+       (g)
+Notwithstanding paragraphs (b) to (f) of this subsection, a sponsor and a
+public charter school governing body may agree in the charter of the school to
+a timeline for renewing the charter that is different from the timeline
+required by paragraphs (b) to (f) of this subsection. 
+
+       (6)(a) If the
+sponsor does not renew the charter based on the revised request for renewal
+submitted under subsection (5)(f) of this section, the public charter school
+governing body may appeal the decision of the sponsor to the State Board of
+Education for a review of whether the sponsor used the process required by this
+section in denying the renewal of the charter. 
+
+       (b) If the state
+board finds that the sponsor used the process required by this section in
+denying the request for renewal, the state board shall affirm the decision of
+the sponsor. A public charter school governing body may seek judicial review of
+an order of the state board pursuant to ORS 183.484. 
+
+       (c) If the state
+board finds that the sponsor did not use the process required by this section
+in denying the request for renewal, the state board shall order the sponsor to
+reconsider the request for renewal. 
+
+       (d) If after
+reconsideration pursuant to paragraph (c) of this subsection the sponsor does
+not renew the charter, the public charter school governing body may seek
+judicial review of an order of the sponsor pursuant to ORS 183.484. 
+
+       (7) If the State
+Board of Education is the sponsor of a public charter school and the state
+board does not renew the charter based on the revised request for renewal
+submitted under subsection (5)(f) of this section, the public charter school
+governing body may seek judicial review of an order of the state board pursuant
+to ORS 183.484 for a review of whether the state board used the process
+required by this section in denying the request for renewal. 
+
+       (8)(a) The
+sponsor shall base the charter renewal decision on a good faith evaluation of
+whether the public charter school: 
+
+       (A) Is in
+compliance with this chapter and all other applicable state and federal laws; 
+
+       (B) Is in
+compliance with the charter of the public charter school; 
+
+       (C) Is meeting or
+working toward meeting the student performance goals and agreements specified
+in the charter or any other written agreements between the sponsor and the
+public charter school governing body; 
+
+       (D) Is fiscally
+stable and has used the sound financial management system described in the
+proposal submitted under ORS 338.045 and incorporated into the written charter
+under this section; and 
+
+       (E) Is in
+compliance with any renewal criteria specified in the charter of the public
+charter school. 
+
+       (b) The sponsor
+shall base the renewal evaluation described in paragraph (a) of this subsection
+primarily on a review of the public charter school’s annual performance
+reports, annual audit of accounts and annual site visit and review as required
+by ORS 338.095 and any other information mutually agreed upon by the public
+charter school governing body and the sponsor. [1999 c.200 §8; 2005 c.522 §1;
+2009 c.691 §10; 2011 c.695 §4; 2013 c.136 §1; 2013 c.265 §8; 2018 c.72 §8; 2025
+c.452 §3] 
+
+   
+
+       338.070 [Amended by 1965 c.100 §154; 1965
+c.123 §2; renumbered 332.425] 
+
+   
+
+       338.075 Review
+of school district board decision; sponsorship by State Board of Education;
+judicial review. 
+(1) If a school district board disapproves a proposal to establish a public
+charter school following reconsideration of a proposal pursuant to ORS 338.055
+(5), the applicant may request that the State Board of Education review the
+decision of the school district board. 
+
+       (2)(a) If the
+State Board of Education reviews a decision of the school district board, as
+provided by subsection (1) of this section, the State Board of Education may
+review the decision only to determine whether: 
+
+       (A) The school
+district board used the process required by ORS 338.055 in denying the
+proposal; 
+
+       (B) The proposal
+meets the criteria described in ORS 338.055 (3); and 
+
+       (C) The reasons
+stated by the school district board for the denial are valid. 
+
+       (b) Following a
+review described in paragraph (a) of this subsection, the State Board of
+Education may: 
+
+       (A) Uphold the
+decision of the school district board to disapprove the proposal; 
+
+       (B) Remand the
+proposal to the school district board for reconsideration if the school
+district board and applicant agree to the remand; or 
+
+       (C) Consider
+becoming the sponsor of the public charter school if the applicant agrees to
+the sponsorship. 
+
+       (3) An applicant
+may seek judicial review of an order of the State Board of Education pursuant
+to ORS 183.484. If the court finds that the decision of the State Board of
+Education is not supported by substantial evidence in the record, the court
+shall enter a judgment directing the State Board of Education to sponsor the
+public charter school. 
+
+       (4)(a) An
+applicant for a public charter school that is a federally recognized Indian
+tribe in this state: 
+
+       (A) Is not
+required to submit a written proposal to a school district board under ORS
+338.045; and 
+
+       (B) May submit a
+written proposal to the State Board of Education. 
+
+       (b) An applicant
+for a public charter school that is a federally recognized Indian tribe in this
+state may submit a proposal as provided by this subsection only if: 
+
+       (A) The federally
+recognized Indian tribe does not already operate a public charter school
+sponsored by the board as provided by this subsection; 
+
+       (B) The proposed
+public charter school will be located on the reservation of the federally
+recognized Indian tribe or, if the federally recognized Indian tribe does not
+have a reservation, within a school district that enrolls students who are
+members of the federally recognized Indian tribe; and 
+
+       (C) The federally
+recognized Indian tribe provides notice, as prescribed by the board by rule, of
+the intent to submit a proposal under this subsection to: 
+
+       (i) For a public
+charter school that will be located on the reservation of the federally
+recognized Indian tribe, the school district that serves the students of the
+reservation; or 
+
+       (ii) For a public
+charter school that will be located within a school district that enrolls
+members of the federally recognized Indian tribe, the school district where the
+proposed public charter school will be located. 
+
+       (c) The board
+shall prescribe by rule the requirements of a proposal submitted pursuant to
+this subsection. The requirements must incorporate any applicable requirements
+for a proposal submitted pursuant to ORS 338.045. At the request of an
+applicant, the Department of Education may provide technical assistance in
+developing the proposal for the operation of the public charter school. 
+
+       (d) The board
+shall prescribe by rule the process for reviewing a proposal submitted pursuant
+to this subsection, including timelines for the review. The board must provide
+an applicant with a reasonable opportunity to complete a proposal if the board
+determines that a submitted proposal is not complete. 
+
+       (e) The board
+shall evaluate a proposal in good faith, using the applicable criteria
+described in ORS 338.055 (3). [1999 c.200 §9; 2001 c.376 §1; 2005 c.209 §28;
+2011 c.695 §6; 2011 c.718 §§28,29; 2012 c.91 §§4,5; 2013 c.265 §§5,6; 2018 c.72
+§9; 2025 c.452 §4] 
+
+   
+
+       338.080
+Cooperative agreement to provide educational services. (1) A sponsor and a public charter
+school may enter into a cooperative agreement with other school districts for
+the purpose of forming a partnership to provide educational services. 
+
+       (2) A cooperative
+agreement entered into as provided by this section must: 
+
+       (a) Be
+incorporated into the charter of the public charter school; and 
+
+       (b) Describe the
+terms of the partnership between the sponsor, the public charter school and
+other school districts. [2011 c.682 §2] 
+
+   
+
+ OPERATION 
+
+   
+
+       338.095
+Financial management system; annual report, visit and audit. (1) The financial management
+system of a public charter school must include a budget and accounting system
+that: 
+
+       (a) Is compatible
+with the budget and accounting system of the sponsor of the school; and 
+
+       (b) Complies with
+the requirements of the uniform budget and accounting system adopted by rule of
+the State Board of Education under ORS 327.511. 
+
+       (2) A public
+charter school shall report to the sponsor and the Department of Education at
+least annually on the performance of the school and its students. A public
+charter school shall disclose in its report information necessary to make a
+determination of compliance with the requirements of this chapter. The sponsor
+or the sponsor’s designee at least annually shall visit the public charter
+school site and review the public charter school’s compliance with the terms
+and provisions of the charter. 
+
+       (3) Except for a
+public charter school that is not required to comply with ORS 338.035 (2)(a)(B)
+and (C) as provided by ORS 338.035 (2)(b), the public charter school shall have
+an annual audit of the accounts of the public charter school prepared in accordance
+with the Municipal Audit Law, ORS 297.405 to 297.555 and 297.990. The school
+shall forward a copy of the annual audit to the Department of Education. 
+
+       (4) After an
+audit conducted as provided by subsection (3) of this section, the following
+shall be forwarded to the sponsor: 
+
+       (a) A copy of the
+annual audit; 
+
+       (b) Any
+statements from the public charter school that show the results of all
+operations and transactions affecting the financial status of the public
+charter school during the preceding annual audit period for the school; and 
+
+       (c) A balance
+sheet containing a summary of the assets and liabilities of the public charter
+school as of the closing date of the preceding annual audit period for the
+school. 
+
+       (5) The sponsor
+of a public charter school that is organized as required by ORS 338.035
+(2)(a)(B) and (C) may request at any time an acknowledgment from each member of
+the public charter school governing body that the member understands the
+standards of conduct and liabilities of a director of a nonprofit organization,
+as those standards and liabilities are described in ORS chapter 65. 
+
+       (6) The State
+Board of Education may require public charter schools to file reports with the
+Department of Education as necessary to enable the department to gather
+information on public charter schools for inclusion in the Oregon Report Card
+issued pursuant to ORS 329.115. [1999 c.200 §10; 2009 c.691 §11; 2011 c.313 §14;
+2011 c.684 §1; 2013 c.265 §12] 
+
+   
+
+       338.105
+Termination of charter; appeal; rules; dissolution or closure of school. (1) During the term of a charter,
+the sponsor may terminate the charter on any of the following grounds: 
+
+       (a) Failure to
+meet the terms of an approved charter or this chapter. 
+
+       (b) Failure to
+meet the requirements for student performance stated in the charter. 
+
+       (c) Failure to
+correct a violation of a federal or state law that is described in ORS 338.115. 
+
+       (d) Failure to
+maintain insurance as described in the charter. 
+
+       (e) Failure to
+maintain financial stability. 
+
+       (f) Failure to
+maintain, for one or more consecutive years, a sound financial management
+system described in the proposal submitted under ORS 338.045 and incorporated
+into the written charter under ORS 338.065. 
+
+       (2)(a) If a
+charter is terminated under subsection (1) of this section, the sponsor shall
+notify the public charter school governing body at least 60 days prior to the
+proposed effective date of the termination. The notice shall state the grounds
+for the termination. 
+
+       (b) If the
+grounds for termination include failure to maintain financial stability or
+failure to maintain a sound financial management system, the sponsor and the
+public charter school may agree to develop a plan to correct deficiencies.
+Under a plan to correct deficiencies: 
+
+       (A) The public
+charter school may attempt to correct any deficiencies related to financial
+stability or to a sound financial management system by a date identified by the
+sponsor, which may not be less than 60 days from the date of the notice; 
+
+       (B) The proposed
+effective date of the termination may be extended to the date identified under
+subparagraph (A) of this paragraph; 
+
+       (C) The sponsor
+may withhold up to 50 percent of the moneys owed to the public charter school
+while the public charter school is on the plan to correct deficiencies unless
+the withholding would create an undue hardship, as determined pursuant to rules
+of the State Board of Education; and 
+
+       (D) The sponsor
+must hold in trust any moneys withheld under subparagraph (C) of this paragraph
+until: 
+
+       (i) The public
+charter school complies with the plan to correct deficiencies, at which time
+the public charter school is entitled to the moneys held in trust; or 
+
+       (ii) The public
+charter school fails to comply with the plan to correct deficiencies, at which
+time the charter is terminated and the public charter school forfeits any claim
+to the moneys held in trust. 
+
+       (c) A deadline to
+correct deficiencies under paragraph (b)(A) of this subsection may be extended
+by mutual agreement of the sponsor and the public charter school. 
+
+       (d) The public
+charter school governing body may request a hearing by the sponsor in relation
+to a termination of the charter or a plan to correct deficiencies. 
+
+       (3) A public
+charter school governing body may appeal a decision of a sponsor under this
+section. The appeal shall be to: 
+
+       (a) The State
+Board of Education if the sponsor is an entity described in ORS 338.005 (4)(a).
+The State Board of Education shall: 
+
+       (A) Review only: 
+
+       (i) The grounds
+for termination under this section as stated by the school district board; or 
+
+       (ii) A plan to
+correct deficiencies; and 
+
+       (B) Adopt by rule
+procedures to ensure a timely appeals process to prevent disruption of students’
+education. 
+
+       (b) The circuit
+court pursuant to ORS 183.484 if the sponsor is the State Board of Education. 
+
+       (4)(a)
+Notwithstanding subsection (2) of this section, a sponsor may terminate a
+charter immediately and close a public charter school if the public charter
+school is endangering the health or safety of the students enrolled in the
+public charter school. 
+
+       (b) The public
+charter school governing body may request a hearing from the sponsor on the
+termination of the charter under this subsection. The sponsor shall hold a
+hearing within 10 days after receiving the request. 
+
+       (c) The public
+charter school governing body may appeal a decision of a sponsor under this
+subsection to the State Board of Education. The State Board of Education shall
+hold a hearing within 10 days after receiving the appeal request. 
+
+       (d) Throughout
+the appeals process, the public charter school shall remain closed at the
+discretion of the sponsor unless the State Board of Education orders the
+sponsor to open the public charter school and not terminate the charter. 
+
+       (5) Termination
+of a charter shall not abridge the public charter school’s legal authority to
+operate as a private or nonchartered public school. 
+
+       (6) If a charter
+is terminated or a public charter school is dissolved: 
+
+       (a) The assets of
+the public charter school that were purchased with public funds shall be given
+to the State Board of Education. The State Board of Education may disburse the
+assets of the public charter school to school districts or other public charter
+schools. 
+
+       (b) All student
+education records of the public charter school shall be transferred to the
+administrative office of the school district in which the public charter school
+was located. 
+
+       (7) A public
+charter school governing body may only terminate a charter, dissolve or close a
+public charter school at the end of a semester. If a charter is terminated by
+the public charter school governing body or a public charter school is closed
+or dissolved, the public charter school governing body shall notify the sponsor
+at least 180 days prior to the proposed effective date of the termination,
+closure or dissolution. [1999 c.200 §11; 2009 c.691 §12; 2011 c.94 §1; 2011
+c.695 §7; 2013 c.265 §10; 2013 c.327 §3; 2018 c.72 §10] 
+
+   
+
+       338.115 Applicability
+of laws; restrictions; powers; student diplomas and certificates of attendance. (1) Statutes and rules that apply
+only to school district boards, school districts or other public schools do not
+apply to public charter schools. However, the following laws do apply to public
+charter schools: 
+
+       (a) Federal law; 
+
+       (b) ORS 30.260 to
+30.300 (tort claims); 
+
+       (c) ORS 192.311
+to 192.478 (public records law); 
+
+       (d) ORS 192.610
+to 192.705 (public meetings law); 
+
+       (e) ORS chapters
+279A, 279B and 279C (Public Contracting Code); 
+
+       (f) ORS 297.405
+to 297.555 and 297.990 (Municipal Audit Law); 
+
+       (g) ORS 326.565,
+326.575 and 326.580 (student records); 
+
+       (h) ORS 181A.195,
+326.603, 326.607 and 342.223 (criminal records checks); 
+
+       (i) ORS 329.045
+(academic content standards and instruction); 
+
+       (j) ORS 329.451
+(high school diploma, modified diploma, extended diploma and certificate of
+attendance); 
+
+       (k) ORS 329.496
+(physical education); 
+
+       (L) The statewide
+assessment system developed by the Department of Education for mathematics,
+science and language arts under ORS 329.485 (2); 
+
+       (m) ORS 336.840
+(use of personal electronic devices); 
+
+       (n) ORS 337.150
+(textbooks); 
+
+       (o) ORS 339.119
+(consideration for educational services); 
+
+       (p) ORS 339.141,
+339.147 and 339.155 (tuition and fees); 
+
+       (q) ORS 339.250
+(9) (prohibition on infliction of corporal punishment); 
+
+       (r) ORS 339.326
+(notice concerning students subject to juvenile court petitions); 
+
+       (s) ORS 339.370
+to 339.400 (reporting of suspected abuse and suspected sexual conduct); 
+
+       (t) ORS 342.856
+(core teaching standards); 
+
+       (u) ORS chapter
+657 (Employment Department Law); 
+
+       (v) ORS 332.505
+(2), 659.850, 659.855 and 659.860 (discrimination); 
+
+       (w) Any statute
+or rule that establishes requirements for instructional time provided by a
+school during each day or during a year; 
+
+       (x) Statutes and
+rules that expressly apply to public charter schools; 
+
+       (y) Statutes and
+rules that apply to a special government body, as defined in ORS 174.117, or a
+public body, as defined in ORS 174.109; 
+
+       (z) Health and
+safety statutes and rules; 
+
+       (aa) Any statute
+or rule that is listed in the charter; and 
+
+       (bb) This
+chapter. 
+
+       (2)
+Notwithstanding subsection (1) of this section, a charter may specify that
+statutes and rules that apply only to school district boards, school districts
+and other public schools may apply to a public charter school. 
+
+       (3) If a statute
+or rule applies to a public charter school, then the terms “school district”
+and “public school” include public charter school as those terms are used in
+that statute or rule. 
+
+       (4) A public
+charter school may not violate the Establishment Clause of the First Amendment
+to the United States Constitution or Article I, section 5, of the Oregon
+Constitution, or be religion based. 
+
+       (5)(a) A public
+charter school shall maintain an active enrollment of at least 25 students. 
+
+       (b) For a public
+charter school that provides educational services under a cooperative agreement
+described in ORS 338.080, the public charter school is in compliance with the
+requirements of this subsection if the public charter school provides educational
+services under the cooperative agreement to at least 25 students, without
+regard to the school districts in which the students are residents. 
+
+       (6) A public
+charter school may sue or be sued as a separate legal entity. 
+
+       (7) The sponsor,
+members of the governing board of the sponsor acting in their official
+capacities and employees of a sponsor acting in their official capacities are
+immune from civil liability with respect to all activities related to a public
+charter school within the scope of their duties or employment. 
+
+       (8) A public
+charter school may enter into contracts and may lease facilities and services
+from a school district, education service district, public university listed in
+ORS 352.002, other governmental unit or any person or legal entity. 
+
+       (9) A public
+charter school may not levy taxes or issue bonds under which the public incurs
+liability. 
+
+       (10) A public
+charter school may receive and accept gifts, grants and donations from any
+source for expenditure to carry out the lawful functions of the school. 
+
+       (11) The school
+district in which the public charter school is located shall offer high school
+diplomas, modified diplomas, extended diplomas and certificates of attendance
+to any public charter school students who meet the district’s and state’s
+standards for a high school diploma, a modified diploma, an extended diploma or
+a certificate of attendance. 
+
+       (12) A high
+school diploma, a modified diploma or an extended diploma issued by a public
+charter school grants to the holder the same rights and privileges as a high
+school diploma, a modified diploma or an extended diploma issued by a
+nonchartered public school. A certificate of attendance issued by a public
+charter school shall have the same restrictions as a certificate of attendance
+issued by a nonchartered public school. 
+
+       (13) Prior to
+beginning operation, the public charter school shall show proof of insurance to
+the sponsor as specified in the charter. 
+
+       (14) A public
+charter school may receive services from an education service district in the
+same manner as a nonchartered public school in the school district in which the
+public charter school is located. [1999 c.200 §12; 2001 c.810 §4; 2003 c.303 §15;
+2005 c.367 §4; 2005 c.730 §16; 2007 c.35 §6; 2007 c.256 §3; 2007 c.501 §3; 2007
+c.575 §5; 2007 c.660 §17; 2007 c.839 §7; 2007 c.858 §33; 2008 c.50 §§11,12;
+2009 c.618 §§3,4; 2010 c.53 §§2,3; 2011 c.94 §§2,3; 2011 c.637 §§117,118; 2011
+c.682 §§4,5; 2012 c.92 §§9,10; 2013 c.98 §§6,7; 2013 c.265 §§13,14; 2013 c.267 §§8,9;
+2015 c.67 §§1,2; 2015 c.245 §§47,48; 2019 c.618 §11; 2021 c.178 §9; 2023 c.202 §5;
+2023 c.243 §2] 
+
+   
+
+       Note: The amendments to 338.115 by
+section 7, chapter 567, Oregon Laws 2025, become operative July 1, 2035. See
+section 12, chapter 567, Oregon Laws 2025. The text that is operative on and
+after July 1, 2035, is set forth for the user’s convenience. 
+
+       338.115. (1) Statutes and rules that apply
+only to school district boards, school districts or other public schools do not
+apply to public charter schools. However, the following laws do apply to public
+charter schools: 
+
+       (a) Federal law; 
+
+       (b) ORS 30.260 to
+30.300 (tort claims); 
+
+       (c) ORS 192.311
+to 192.478 (public records law); 
+
+       (d) ORS 192.610
+to 192.705 (public meetings law); 
+
+       (e) ORS chapters
+279A, 279B and 279C (Public Contracting Code); 
+
+       (f) ORS 297.405
+to 297.555 and 297.990 (Municipal Audit Law); 
+
+       (g) ORS 326.561,
+326.565 and 326.575 (student records); 
+
+       (h) ORS 181A.195,
+326.603, 326.607 and 342.223 (criminal records checks); 
+
+       (i) ORS 329.045
+(academic content standards and instruction); 
+
+       (j) ORS 329.451
+(high school diploma, modified diploma, extended diploma and certificate of
+attendance); 
+
+       (k) ORS 329.496
+(physical education); 
+
+       (L) The statewide
+assessment system developed by the Department of Education for mathematics,
+science and language arts under ORS 329.485 (2); 
+
+       (m) ORS 336.840
+(use of personal electronic devices); 
+
+       (n) ORS 337.150
+(textbooks); 
+
+       (o) ORS 339.119 (consideration
+for educational services); 
+
+       (p) ORS 339.141,
+339.147 and 339.155 (tuition and fees); 
+
+       (q) ORS 339.250
+(9) (prohibition on infliction of corporal punishment); 
+
+       (r) ORS 339.326
+(notice concerning students subject to juvenile court petitions); 
+
+       (s) ORS 339.370
+to 339.400 (reporting of suspected abuse and suspected sexual conduct); 
+
+       (t) ORS 342.856
+(core teaching standards); 
+
+       (u) ORS chapter
+657 (Employment Department Law); 
+
+       (v) ORS 332.505
+(2), 659.850, 659.855 and 659.860 (discrimination); 
+
+       (w) Any statute
+or rule that establishes requirements for instructional time provided by a
+school during each day or during a year; 
+
+       (x) Statutes and
+rules that expressly apply to public charter schools; 
+
+       (y) Statutes and
+rules that apply to a special government body, as defined in ORS 174.117, or a
+public body, as defined in ORS 174.109; 
+
+       (z) Health and
+safety statutes and rules; 
+
+       (aa) Any statute
+or rule that is listed in the charter; and 
+
+       (bb) This
+chapter. 
+
+       (2)
+Notwithstanding subsection (1) of this section, a charter may specify that
+statutes and rules that apply only to school district boards, school districts
+and other public schools may apply to a public charter school. 
+
+       (3) If a statute
+or rule applies to a public charter school, then the terms “school district”
+and “public school” include public charter school as those terms are used in
+that statute or rule. 
+
+       (4) A public
+charter school may not violate the Establishment Clause of the First Amendment
+to the United States Constitution or Article I, section 5, of the Oregon
+Constitution, or be religion based. 
+
+       (5)(a) A public
+charter school shall maintain an active enrollment of at least 25 students. 
+
+       (b) For a public
+charter school that provides educational services under a cooperative agreement
+described in ORS 338.080, the public charter school is in compliance with the
+requirements of this subsection if the public charter school provides educational
+services under the cooperative agreement to at least 25 students, without
+regard to the school districts in which the students are residents. 
+
+       (6) A public
+charter school may sue or be sued as a separate legal entity. 
+
+       (7) The sponsor,
+members of the governing board of the sponsor acting in their official
+capacities and employees of a sponsor acting in their official capacities are
+immune from civil liability with respect to all activities related to a public
+charter school within the scope of their duties or employment. 
+
+       (8) A public
+charter school may enter into contracts and may lease facilities and services
+from a school district, education service district, public university listed in
+ORS 352.002, other governmental unit or any person or legal entity. 
+
+       (9) A public
+charter school may not levy taxes or issue bonds under which the public incurs
+liability. 
+
+       (10) A public
+charter school may receive and accept gifts, grants and donations from any
+source for expenditure to carry out the lawful functions of the school. 
+
+       (11) The school
+district in which the public charter school is located shall offer high school
+diplomas, modified diplomas, extended diplomas and certificates of attendance
+to any public charter school students who meet the district’s and state’s
+standards for a high school diploma, a modified diploma, an extended diploma or
+a certificate of attendance. 
+
+       (12) A high
+school diploma, a modified diploma or an extended diploma issued by a public
+charter school grants to the holder the same rights and privileges as a high
+school diploma, a modified diploma or an extended diploma issued by a
+nonchartered public school. A certificate of attendance issued by a public
+charter school shall have the same restrictions as a certificate of attendance
+issued by a nonchartered public school. 
+
+       (13) Prior to
+beginning operation, the public charter school shall show proof of insurance to
+the sponsor as specified in the charter. 
+
+       (14) A public
+charter school may receive services from an education service district in the
+same manner as a nonchartered public school in the school district in which the
+public charter school is located. 
+
+   
+
+       Note: Section 9, chapter 202, Oregon
+Laws 2023, provides: 
+
+       Sec. 9. (1) The amendments to ORS 329.451,
+336.590, 338.115, 339.115, 339.505, 339.520 and 343.161 by sections 1 to 8 of
+this 2023 Act become operative July 1, 2024. 
+
+       (2)
+Notwithstanding the operative date specified in subsection (1) of this section,
+a student who began ninth grade before July 1, 2020, may be awarded an
+alternative certificate if the student satisfies the requirements for an
+alternative certificate as in effect on the day before July 1, 2024. [2023
+c.202 §9] 
+
+   
+
+       338.120
+Additional requirements for virtual public charter schools; access to
+documents. (1) In
+addition to any other requirements of this chapter for a public charter school,
+a virtual public charter school must have: 
+
+       (a) A plan for
+academic achievement that addresses how the school will improve student
+learning and meet academic content standards required by ORS 329.045. 
+
+       (b) Performance
+criteria the school will use to measure the progress of the school in meeting
+the academic performance goals set by the school for its first five years of
+operation. 
+
+       (c) A plan for
+implementing the proposed education program of the school by directly and
+significantly involving parents and guardians of students enrolled in the
+school and involving the professional employees of the school. 
+
+       (d) A budget,
+business plan and governance plan for the operation of the school. 
+
+       (e) In the
+charter of the school, a requirement that the school: 
+
+       (A) Monitor and
+track student progress and attendance; and 
+
+       (B) Provide
+student assessments in a manner that ensures that an individual student is
+being assessed and that the assessment is valid. 
+
+       (f)
+Notwithstanding ORS 338.135 (7), a plan to ensure that: 
+
+       (A) All
+superintendents, assistant superintendents and principals of the school are
+licensed to administer by the Teacher Standards and Practices Commission; and 
+
+       (B) Teachers who
+are licensed to teach by the Teacher Standards and Practices Commission teach
+at least 95 percent of the school’s instructional hours. 
+
+       (g) A plan for
+maintaining student records and school records, including financial records, at
+a designated central office of operations that is located: 
+
+       (A) If the
+sponsor is a school district, within the school district that is the sponsor
+and as specified in the charter of the school; or 
+
+       (B) If the
+sponsor is the State Board of Education, at a central office located in Oregon
+and as specified in the charter of the school. 
+
+       (h) A plan to
+provide equitable access to the education program of the school by ensuring
+that each student enrolled in the school: 
+
+       (A) Has access to
+and use of computer and printer equipment as needed; 
+
+       (B) Is offered an
+Internet service cost reimbursement arrangement under which the school
+reimburses the parent or guardian of the student, at a rate set by the school,
+for the costs of obtaining Internet service at the minimum connection speed
+required to effectively access the education program provided by the school; or 
+
+       (C) Has access to
+and use of computer and printer equipment and is offered Internet service cost
+reimbursement. 
+
+       (i) A plan to
+provide access to computer and printer equipment and the Internet service cost
+reimbursement as described in paragraph (h) of this subsection by students
+enrolled in the school who are from families that qualify as low-income under
+Title I of the federal Elementary and Secondary Education Act of 1965 (20
+U.S.C. 6301 et seq.). 
+
+       (j) A plan to
+conduct school-sponsored optional educational events at least six times each
+school year at locations selected to provide convenient access to all students
+enrolled in the school who want to participate. 
+
+       (k) A plan to
+conduct meetings at least twice a week between teachers and students enrolled
+in the school, either in person or through the use of conference calls or other
+technology. 
+
+       (L) A plan to
+provide opportunities for face-to-face meetings between teachers and students
+enrolled in the school at least six times each school year. 
+
+       (m) A plan to
+provide, at the time of a student’s enrollment, written notice to the sponsor
+and, if different, to the school district where the student is a resident.
+Notification must be provided within 10 days after enrollment and must include: 
+
+       (A) The name, age
+and address of the student; and 
+
+       (B) The name of
+the school in which the student was formerly enrolled. 
+
+       (n) A plan to
+provide, at the time of a student’s withdrawal for a reason other than
+graduation from high school, written notice to the sponsor and, if different,
+to the school district where the student is a resident. Notification must be
+provided within 10 days after withdrawal and must include: 
+
+       (A) The name, age
+and address of the student; 
+
+       (B) The reason
+the student no longer is enrolled and, if applicable, the name of the school in
+which the student will enroll, if known to the virtual public charter school;
+and 
+
+       (C) The last day
+on which the student was enrolled at the virtual public charter school. 
+
+       (o) An agreement
+to provide a student’s education records to the student’s resident school
+district or to the sponsor, upon request of the resident school district or
+sponsor. 
+
+       (2) For a virtual
+public charter school: 
+
+       (a) A person who
+is a member of the school district board for the sponsor of the virtual public
+charter school may not be: 
+
+       (A) An employee
+of the virtual public charter school; 
+
+       (B) A member of
+the governing body of the virtual public charter school; or 
+
+       (C) An employee
+or other representative of any third-party entity with which the virtual public
+charter school has entered into a contract to provide educational services. 
+
+       (b) A person who
+is a member of the governing body of the virtual public charter school may not
+be an employee of a third-party entity with which the virtual public charter
+school has entered, or intends to enter, into a contract to provide educational
+services. 
+
+       (3) If a virtual
+public charter school enters into a contract with a third-party entity to
+provide educational services for the virtual public charter school: 
+
+       (a) No employee
+or member of the governing board of the third-party entity may attend an
+executive session of the school district board of the school district that is
+the sponsor of the virtual public charter school; 
+
+       (b) An employee
+of the virtual public charter school may not promote the sale or benefits of
+private supplemental services or classes offered by the third-party entity; 
+
+       (c) The
+educational services provided by the third-party entity must be consistent with
+state standards and requirements, and must be changed on the same timelines
+that changes are imposed on the nonvirtual public charter schools of this
+state; and 
+
+       (d) The virtual
+public charter school must have on file the third-party entity’s budget for the
+provision of educational services and that budget must itemize: 
+
+       (A) The salaries
+of supervisory and management personnel and consultants who are providing
+educational or related services for a public charter school in this state; and 
+
+       (B) The annual
+operating expenses and profit margin of the third-party entity for providing
+educational services to a public charter school in this state. 
+
+       (4)(a) The
+sponsor or a member of the public may request access to any of the documents
+described in subsections (1) and (3)(d) of this section that are public
+records, as provided by ORS 192.311 to 192.478. 
+
+       (b) Upon request
+by a sponsor or a member of the public, a virtual public charter school must
+provide reasonable access to the documents described in subsections (1) and
+(3)(d) of this section that are public records, as provided by ORS 192.311 to
+192.478. The documents may be provided electronically. [2009 c.691 §8; 2010
+c.72 §1; 2011 c.649 §1; 2011 c.684 §2; 2017 c.726 §4] 
+
+   
+
+       338.125
+Student enrollment; nonresident students; appeals; written notices. (1) Student enrollment in a public
+charter school is voluntary. 
+
+       (2)(a) All
+students who reside in the school district in which the public charter school
+is located are eligible for enrollment in the public charter school if space is
+available. 
+
+       (b) Students who
+do not reside in the school district in which the public charter school is
+located are eligible for enrollment in the public charter school if space is
+available and subject to subsection (5) of this section. 
+
+       (c) A public
+charter school may not limit student enrollment based on race, religion, sex,
+sexual orientation, gender identity, ethnicity, national origin, disability,
+the terms of an individualized education program, income level, proficiency in
+the English language or athletic ability. A public charter school may implement
+a weighted lottery that favors historically underserved students as provided by
+subsection (3)(a) of this section. 
+
+       (3)(a) Except as
+provided by paragraphs (b) and (c) of this subsection, if the number of
+applications from students exceeds the capacity of a program, class, grade
+level or building, the public charter school shall select students through an
+equitable lottery selection process. For the purpose of ameliorating the impact
+of discrimination against historically underserved students, an equitable
+lottery selection process may include weights that favor historically
+underserved students. As used in this paragraph, “historically underserved
+students” are students who are at risk because of any combination of their
+race, sex, sexual orientation, gender identity, ethnicity, disability, income
+level, proficiency in the English language, socioeconomic status or geographic
+location. 
+
+       (b)(A) A public
+charter school may give priority for admission to students who reside within
+the attendance boundaries that were in effect at the time a school district
+closed a nonchartered public school if: 
+
+       (i) The public
+charter school began to operate not more than two years after the nonchartered
+public school was closed; 
+
+       (ii) The school
+district that closed the nonchartered public school is the sponsor of the
+public charter school; 
+
+       (iii) The public
+charter school is physically located within the attendance boundaries of the
+closed nonchartered public school; and 
+
+       (iv) The school
+district board, through board action, approved the public charter school giving
+priority as described in this paragraph. 
+
+       (B) Nothing in
+this paragraph requires an amendment to a charter. A school district board may
+take an action described in subparagraph (A)(iv) of this paragraph at any time
+during the term of a charter. 
+
+       (c) After a
+public charter school has been in operation for one or more years, the public
+charter school may give priority for admission to students who: 
+
+       (A) Were enrolled
+in the prior year in the public charter school; 
+
+       (B) Were enrolled
+in a public preschool or prekindergarten program operated by the public charter
+school; 
+
+       (C) Have siblings
+who are presently enrolled in the school and who were enrolled in the school in
+the prior year; 
+
+       (D) Are at risk
+because the student has an economic or academic disadvantage that requires
+special services or assistance, including students who: 
+
+       (i) Are from
+economically disadvantaged families; 
+
+       (ii) Are
+identified as having special educational needs; 
+
+       (iii) Are limited
+in proficiency in the English language; 
+
+       (iv) Are at risk
+of dropping out of high school; or 
+
+       (v) Do not meet
+minimum standards of academic proficiency; or 
+
+       (E) If the public
+charter school is a party to a cooperative agreement described in ORS 338.080,
+reside in the school district that is the sponsor of the public charter school
+or in a school district that is a party to the cooperative agreement. 
+
+       (4) A student who
+wishes to enroll in a virtual public charter school does not need the approval
+of the school district where the student is a resident before the student
+enrolls in the virtual public charter school. If a student wishes to enroll in
+a virtual public charter school, the parent, legal guardian or person in
+parental relationship with the student must provide the following notices to
+the school district where the student is a resident: 
+
+       (a) Intent to
+enroll the student in a virtual public charter school; and 
+
+       (b) Enrollment of
+the student in a virtual public charter school. 
+
+       (5)(a)
+Notwithstanding subsection (4) of this section and ORS 339.133, if more than
+three percent of the students who reside in a school district are enrolled in
+virtual public charter schools that are not sponsored by the school district, a
+student who is a resident of the school district must receive approval from the
+school district before enrolling in a virtual public charter school. A school
+district is not required to give approval if more than three percent of the
+students who reside in the school district are enrolled in virtual public
+charter schools that are not sponsored by the school district. A school
+district must provide notice of the decision to not give approval within 10
+calendar days of receiving notice of intent for the student to enroll in a
+virtual public charter school. 
+
+       (b) For the
+purpose of determining whether more than three percent of the students who
+reside in the school district are enrolled in virtual public charter schools
+that are not sponsored by the school district, the school district board shall: 
+
+       (A) Include any
+students who: 
+
+       (i) Reside in the
+school district, regardless of whether the students are considered residents of
+different school districts as provided by ORS 339.133 (5); and 
+
+       (ii) Are enrolled
+in virtual public charter schools that are not sponsored by the school
+district. 
+
+       (B) Calculate, at
+least twice each year, the school district’s percentage of students attending
+virtual public charter schools that are not sponsored by the school district. 
+
+       (c)(A) Except as
+provided by subparagraph (B) of this paragraph, students who reside in the
+school district, regardless of whether the students are considered residents of
+different school districts as provided by ORS 339.133 (5), must receive
+approval from the school district before enrolling in a virtual public charter
+school if the limit described in paragraph (a) of this subsection has been met. 
+
+       (B) A student is
+not required to receive approval from the school district in which the student
+resides if the student: 
+
+       (i) Previously
+lived in another school district; 
+
+       (ii) While living
+in the other school district, was enrolled in a virtual public charter school;
+and 
+
+       (iii) Has
+maintained continuous enrollment in the virtual public charter school since
+moving into the school district where the student currently resides. 
+
+       (d) If the school
+district does not give approval under paragraph (a) of this subsection, the
+school district must provide to the parent, legal guardian or person in
+parental relationship with the student information about: 
+
+       (A) The
+percentage of students in the resident district that attend virtual public
+charter schools that are not sponsored by the school district, based on the
+most recent calculation; 
+
+       (B) The right to
+appeal the decision to the State Board of Education; and 
+
+       (C) Other online
+options available to the student. 
+
+       (e) If an appeal
+is made to the State Board of Education as described in paragraph (d) of this
+subsection, the board must issue a decision within 14 days of the submission of
+the appeal. 
+
+       (6) Within 10
+days of a student’s enrollment in a public charter school, the public charter
+school shall provide written notice of the student’s enrollment to the school
+district in which the public charter school is located if the student does not
+reside in the school district where the public charter school is located. 
+
+       (7) Within 10
+days of receiving the notice described in subsection (6) of this section, the
+school district in which the public charter school is located shall provide to
+the student’s parent, legal guardian or person in parental relationship written
+information about: 
+
+       (a) The school
+district’s responsibility to identify, locate and evaluate students enrolled in
+the public charter school to determine which students may be in need of special
+education and related services as provided by ORS 338.165; and 
+
+       (b) The methods
+by which the school district may be contacted to answer questions or provide
+information related to special education and related services. 
+
+       (8) When a
+student described in subsection (6) of this section withdraws from a public
+charter school for a reason other than graduation from high school, the school
+district in which the public charter school is located shall: 
+
+       (a) Provide to
+the school district in which the student resides written notice that the
+student has withdrawn. 
+
+       (b) Provide to
+the student’s parent, legal guardian or person in parental relationship written
+information about: 
+
+       (A) The
+responsibility of the school district in which the student resides to identify,
+locate and evaluate students who reside in the school district to determine
+which students may be in need of special education and related services as
+provided by ORS 338.165; and 
+
+       (B) The methods
+by which the school district in which the student resides may be contacted to
+answer questions or provide information related to special education and
+related services. 
+
+       (9)(a) If a
+student described in subsection (6) of this section enrolls in a public charter
+school and has an individualized education program, the school district in
+which the public charter school is located must implement the individualized
+education program and follow the terms of the individualized education program
+until a new individualized education program is developed. 
+
+       (b) If a student
+described in subsection (6) of this section withdraws from a public charter
+school and has an individualized education program, the school district in
+which the student resides must implement the individualized education program
+and follow the terms of the individualized education program until a new
+individualized education program is developed. 
+
+       (10) When a
+virtual public charter school enrolls a student or a student no longer is
+enrolled in a virtual public charter school, the virtual public charter school
+shall provide the written notices described in ORS 338.120 (1)(m) and (n) to
+the school district where the student is a resident. 
+
+       (11) A public
+charter school may conduct fund-raising activities but may not require a
+student to participate in fund-raising activities as a condition of admission
+to the public charter school. [1999 c.200 §14; 2001 c.810 §8; 2005 c.834 §5;
+2007 c.100 §23; 2011 c.718 §§23,24; 2015 c.585 §§1,2; 2017 c.218 §§1,2; 2021
+c.364 §§1,1a; 2021 c.367 §14; 2023 c.434 §1] 
+
+   
+
+       338.130
+Operation of school or of tutoring or testing facility not located in
+sponsoring school district; compliance. (1) As used in this section: 
+
+       (a) “Nonsponsoring
+school district board” means the school district board that: 
+
+       (A) Is the school
+district board of the school district in which a public charter school is
+operating, or proposes to operate, a school or a tutoring or testing facility;
+and 
+
+       (B) Is not the
+sponsor of the public charter school. 
+
+       (b) “Nonvirtual
+public charter school” means a public charter school that: 
+
+       (A) Is not a
+virtual public charter school; and 
+
+       (B) Is not
+sponsored by the State Board of Education. 
+
+       (c) “Sponsoring
+school district” is the school district of the sponsor of a public charter
+school. 
+
+       (2) If a public
+charter school is a nonvirtual public charter school, the governing body of the
+nonvirtual public charter school: 
+
+       (a) Except as
+provided by paragraph (c) of this subsection, may operate a school that is not
+located in the sponsoring school district only if the governing body has
+received written permission from the nonsponsoring school district board. The
+governing body must receive written permission under this paragraph prior to
+the first day on which students will attend classes at the school. 
+
+       (b) Except as
+provided by paragraph (d) of this subsection, may operate a tutoring or testing
+facility that is not located in the sponsoring school district only if the
+governing body has received written permission from the nonsponsoring school
+district board. The governing body must receive written permission under this
+paragraph prior to the first day the students will receive tutoring or testing
+at the facility. 
+
+       (c) May operate a
+school that is not located in the sponsoring school district and without
+complying with the requirements of paragraph (a) of this subsection only if: 
+
+       (A) For a school
+that began operating prior to June 6, 2023; 
+
+       (i) The location
+of the school has not changed since June 6, 2023; and 
+
+       (ii) Written
+notification is provided to the nonsponsoring school district board each time
+the charter for the public charter school is renewed. 
+
+       (B) For a school
+that began operating after June 6, 2023, and prior to January 1, 2024: 
+
+       (i) The governing
+body operating the school had entered into a charter for a public charter
+school in the sponsoring school district prior to January 1, 2023; 
+
+       (ii) The school
+district in which the school will be located is adjacent to the sponsoring
+school district; and 
+
+       (iii) Written
+notification is provided to the nonsponsoring school district board: 
+
+       (I) Prior to the
+first day the students will attend classes at the school; and 
+
+       (II) Each time
+the charter for the public charter school is renewed. 
+
+       (d) May operate a
+tutoring or testing facility that is not located in the sponsoring school
+district and without complying with the requirements of paragraph (b) of this
+subsection only if: 
+
+       (A) The public
+charter school began operating as a public charter school prior to January 1,
+2023; and 
+
+       (B) Written
+notification is provided to the nonsponsoring school district board each time
+the charter for the public charter school is renewed. 
+
+       (3) If a public
+charter school is a virtual public charter school, the governing body: 
+
+       (a) May not
+operate a school in a school district that is not the sponsoring school
+district. 
+
+       (b) May operate
+administrative offices in a nonsponsoring school district only after the
+governing body provides written notification to the nonsponsoring school
+district board: 
+
+       (A) Prior to the
+first day the administrative offices are open; and 
+
+       (B) Each time the
+charter for the public charter school is renewed. 
+
+       (c) May operate a
+tutoring or testing facility that is not located in the sponsoring school
+district only if the governing body provides written notification to the
+nonsponsoring school district board: 
+
+       (A) Prior to the
+first day the students will receive tutoring or testing at the facility for a
+facility that began operating after June 6, 2023; and 
+
+       (B) Each time the
+charter for the public charter school is renewed. 
+
+       (4) If a public
+charter school is sponsored by the State Board of Education, the governing body
+of the public charter school may not operate a school or a testing or tutoring
+facility that is not located in the school district specified by the school’s
+charter. 
+
+       (5) If the
+governing body of a public charter school does not comply with the provisions
+of this section, the nonsponsoring school district board may file a complaint
+with the Superintendent of Public Instruction. Upon receipt of a complaint, the
+superintendent shall schedule a contested case hearing pursuant to ORS 183.413
+to 183.470. Upon a determination that the governing body did not comply with
+the requirements of this section, the superintendent may withhold State School
+Fund moneys otherwise due to the public charter school under ORS 338.155. The
+superintendent shall withhold moneys until the governing body is in compliance
+or until some other date determined by the superintendent. [2022 c.163 §2] 
+
+   
+
+       338.135
+Employees; licensure and registration requirements; collective bargaining;
+prohibition on waiver of right to sponsor charter school. (1) Employee assignment to a
+public charter school shall be voluntary. 
+
+       (2)(a) A public
+charter school or the sponsor of the public charter school is considered the
+employer of any employees of the public charter school. If a school district
+board is not the sponsor of the public charter school, the school district
+board may not be the employer of the employees of the public charter school and
+the school district board may not collectively bargain with the employees of
+the public charter school. The public charter school governing body shall
+control the selection of employees at the public charter school. 
+
+       (b) If a virtual
+public charter school or the sponsor of a virtual public charter school
+contracts with a for-profit entity to provide educational services through the
+virtual public charter school, the for-profit entity may not be the employer of
+any employees of the virtual public charter school unless: 
+
+       (A) The employee
+is an administrator who does not have any teaching responsibilities; and 
+
+       (B) Both the
+executive officer of the sponsor and the public charter school governing body
+approve employment by the for-profit entity. The executive officer or governing
+body may choose to grant approval under this subparagraph: 
+
+       (i) For all
+employees of the for-profit entity who meet the description in subparagraph (A)
+of this paragraph; 
+
+       (ii) Based on the
+job categories of the employees who meet the description in subparagraph (A) of
+this paragraph; or 
+
+       (iii) On a
+case-by-case basis for each employee who meets the description in subparagraph
+(A) of this paragraph. 
+
+       (3) The school
+district board of the school district within which the public charter school is
+located shall grant a leave of absence to any employee who chooses to work in
+the public charter school. The length and terms of the leave of absence shall
+be set by negotiated agreement or by board policy. However, the length of the
+leave of absence may not be less than two years unless: 
+
+       (a) The charter
+of the public charter school is terminated or the public charter school is
+dissolved or closed during the leave of absence; or 
+
+       (b) The employee
+and the school district board have mutually agreed to a different length of
+time. 
+
+       (4) An employee
+of a public charter school operating within a school district who is granted a
+leave of absence from the school district and returns to employment with the
+school district shall retain seniority and benefits as an employee pursuant to
+the terms of the leave of absence. Notwithstanding ORS 243.650 to 243.809, a
+school district that was the employer of an employee of a public charter school
+not operating within the school district may make provisions for the return of
+the employee to employment with the school district. 
+
+       (5)(a) For
+purposes of ORS chapters 238 and 238A, a public charter school shall be
+considered a public employer and as such shall participate in the Public
+Employees Retirement System. 
+
+       (b) For purposes
+of determining the salary paid to an active member of the Public Employees
+Retirement System under ORS 238A.005 (17) during the period between August 29,
+2003, and January 1, 2020, remuneration paid to a member in return for services
+to a public charter school is deemed includable in the member’s taxable income
+under Oregon law during a period of continuous employment with any public
+charter school if: 
+
+       (A) The member
+was hired in a qualifying position by any public charter school on or after
+August 29, 2003; 
+
+       (B) The member
+was informed in writing by the public charter school during the period of
+continuous employment that the member was eligible to participate in the Public
+Employees Retirement System and the public charter school made contributions to
+the system on the member’s behalf; 
+
+       (C) The
+remuneration was, or would have been if the member were an Oregon resident,
+includable in the member’s taxable income under Oregon law during the period of
+continuous employment; and 
+
+       (D) The member
+resided and performed services in the United States during the period of
+continuous employment. 
+
+       (c) As used in
+this subsection, “continuous employment” means employment with a public charter
+school that is not interrupted by a period of more than 30 consecutive calendar
+days. 
+
+       (6) For teacher
+licensing, employment experience in public charter schools shall be considered
+equivalent to experience in public schools. 
+
+       (7)(a) Any person
+employed as an administrator in a public charter school shall be licensed or
+registered to administer by the Teacher Standards and Practices Commission. 
+
+       (b) Any person
+employed as a teacher in a public charter school shall be licensed or
+registered to teach by the commission. 
+
+       (c)
+Notwithstanding paragraph (a) or (b) of this subsection, at least one-half of
+the total full-time equivalent (FTE) teaching and administrative staff at the
+public charter school shall be licensed by the commission pursuant to ORS
+342.125. 
+
+       (8)
+Notwithstanding ORS 243.650, a public charter school shall be considered a
+school district for purposes of ORS 243.650 to 243.809. An employee of a public
+charter school may be a member of a labor organization or organize with other
+employees to bargain collectively. Bargaining units at the public charter
+school may be separate from other bargaining units of the sponsor or of the
+school district in which the public charter school is located. Employees of a
+public charter school may be part of the bargaining units of the sponsor or of
+the school district in which the public charter school is located. 
+
+       (9) An entity
+described in ORS 338.005 (4) may not waive the right to sponsor a public
+charter school in a collective bargaining agreement. [1999 c.200 §17; 1999
+c.199 §1; 2003 c.733 §73; 2007 c.575 §6; 2009 c.691 §13a; 2011 c.695 §8; 2013
+c.327 §§6,7; 2015 c.647 §§4,5; 2018 c.72 §29; 2021 c.135 §14; 2022 c.81 §29] 
+
+   
+
+       Note: The amendments to 338.135 by
+section 9, chapter 101, Oregon Laws 2024, become operative January 1, 2030. See
+section 18, chapter 101, Oregon Laws 2024. The text that is operative on and
+after January 1, 2030, is set forth for the user’s convenience. 
+
+       338.135. (1) Employee assignment to a
+public charter school shall be voluntary. 
+
+       (2)(a) A public
+charter school or the sponsor of the public charter school is considered the
+employer of any employees of the public charter school. If a school district
+board is not the sponsor of the public charter school, the school district
+board may not be the employer of the employees of the public charter school and
+the school district board may not collectively bargain with the employees of
+the public charter school. The public charter school governing body shall
+control the selection of employees at the public charter school. 
+
+       (b) If a virtual
+public charter school or the sponsor of a virtual public charter school
+contracts with a for-profit entity to provide educational services through the
+virtual public charter school, the for-profit entity may not be the employer of
+any employees of the virtual public charter school unless: 
+
+       (A) The employee
+is an administrator who does not have any teaching responsibilities; and 
+
+       (B) Both the
+executive officer of the sponsor and the public charter school governing body
+approve employment by the for-profit entity. The executive officer or governing
+body may choose to grant approval under this subparagraph: 
+
+       (i) For all
+employees of the for-profit entity who meet the description in subparagraph (A)
+of this paragraph; 
+
+       (ii) Based on the
+job categories of the employees who meet the description in subparagraph (A) of
+this paragraph; or 
+
+       (iii) On a
+case-by-case basis for each employee who meets the description in subparagraph
+(A) of this paragraph. 
+
+       (3) The school
+district board of the school district within which the public charter school is
+located shall grant a leave of absence to any employee who chooses to work in
+the public charter school. The length and terms of the leave of absence shall
+be set by negotiated agreement or by board policy. However, the length of the
+leave of absence may not be less than two years unless: 
+
+       (a) The charter
+of the public charter school is terminated or the public charter school is
+dissolved or closed during the leave of absence; or 
+
+       (b) The employee
+and the school district board have mutually agreed to a different length of
+time. 
+
+       (4) An employee
+of a public charter school operating within a school district who is granted a
+leave of absence from the school district and returns to employment with the
+school district shall retain seniority and benefits as an employee pursuant to
+the terms of the leave of absence. Notwithstanding ORS 243.650 to 243.809, a
+school district that was the employer of an employee of a public charter school
+not operating within the school district may make provisions for the return of
+the employee to employment with the school district. 
+
+       (5)(a) For
+purposes of ORS chapters 238 and 238A, a public charter school shall be
+considered a public employer and as such shall participate in the Public
+Employees Retirement System. 
+
+       (b) For purposes
+of determining the salary paid to an active member of the Public Employees
+Retirement System under ORS 238A.005 (18) during the period between August 29,
+2003, and January 1, 2020, remuneration paid to a member in return for services
+to a public charter school is deemed includable in the member’s taxable income
+under Oregon law during a period of continuous employment with any public
+charter school if: 
+
+       (A) The member
+was hired in a qualifying position by any public charter school on or after
+August 29, 2003; 
+
+       (B) The member
+was informed in writing by the public charter school during the period of
+continuous employment that the member was eligible to participate in the Public
+Employees Retirement System and the public charter school made contributions to
+the system on the member’s behalf; 
+
+       (C) The
+remuneration was, or would have been if the member were an Oregon resident,
+includable in the member’s taxable income under Oregon law during the period of
+continuous employment; and 
+
+       (D) The member
+resided and performed services in the United States during the period of
+continuous employment. 
+
+       (c) As used in
+this subsection, “continuous employment” means employment with a public charter
+school that is not interrupted by a period of more than 30 consecutive calendar
+days. 
+
+       (6) For teacher
+licensing, employment experience in public charter schools shall be considered
+equivalent to experience in public schools. 
+
+       (7)(a) Any person
+employed as an administrator in a public charter school shall be licensed or
+registered to administer by the Teacher Standards and Practices Commission. 
+
+       (b) Any person
+employed as a teacher in a public charter school shall be licensed or
+registered to teach by the commission. 
+
+       (c)
+Notwithstanding paragraph (a) or (b) of this subsection, at least one-half of
+the total full-time equivalent (FTE) teaching and administrative staff at the
+public charter school shall be licensed by the commission pursuant to ORS
+342.125. 
+
+       (8)
+Notwithstanding ORS 243.650, a public charter school shall be considered a
+school district for purposes of ORS 243.650 to 243.809. An employee of a public
+charter school may be a member of a labor organization or organize with other
+employees to bargain collectively. Bargaining units at the public charter
+school may be separate from other bargaining units of the sponsor or of the
+school district in which the public charter school is located. Employees of a
+public charter school may be part of the bargaining units of the sponsor or of
+the school district in which the public charter school is located. 
+
+       (9) An entity
+described in ORS 338.005 (4) may not waive the right to sponsor a public
+charter school in a collective bargaining agreement. 
+
+   
+
+       338.145
+Responsibility for student transportation services; costs. (1) The public charter school
+shall be responsible for providing transportation to students who reside within
+the school district and who attend the public charter school. The public
+charter school may negotiate with a school district for the provision of
+transportation to students attending the public charter school. 
+
+       (2)
+Notwithstanding subsection (1) of this section, the school district within
+which the public charter school is located shall be responsible for the
+transportation of students attending the public charter school pursuant to ORS
+327.043 in the same manner as students attending nonchartered public schools if
+the student is a resident of the school district. However, a school district
+may not be required to add or extend existing bus routes or other
+transportation services pursuant to this subsection. 
+
+       (3) Students who
+attend public charter schools and who reside outside of the school district may
+use existing bus routes and transportation services of the school district in
+which a public charter school is located. 
+
+       (4) Any
+transportation costs incurred by a school district under this section shall be
+considered approved transportation costs for purposes of ORS 327.013 in the
+same manner as transportation costs incurred by the school district for
+transporting students who attend nonchartered public schools are considered
+approved transportation costs for purposes of ORS 327.013. [1999 c.200 §19;
+2003 c.715 §25] 
+
+   
+
+ FUNDING 
+
+   
+
+       338.155
+Distributions of State School Fund amounts; grants available to charter
+schools. (1)(a)
+Except as provided by paragraph (d) of this subsection, students of a public
+charter school are considered to be residents of the school district in which
+the public charter school is located for purposes of distribution of the State
+School Fund. 
+
+       (b) All amounts
+to be distributed from the State School Fund for public charter schools shall
+first be distributed to the school district in which the public charter school
+is located. 
+
+       (c) For the
+purpose of determining the amounts to be distributed to a school district from
+the State School Fund for a public charter school, the district extended ADMw
+described in ORS 327.013 shall be calculated: 
+
+       (A) Except as
+provided by subparagraph (B) or (C) of this paragraph, as though the students
+enrolled at a public charter school are students enrolled at the public schools
+of the school district in which the public charter school is located. 
+
+       (B) By not
+including any portion of the ADM of the public charter school for the previous
+school year if the public charter school ceased to operate because of
+dissolution or closure or because of termination or nonrenewal of a charter. 
+
+       (C) By
+calculating the current school year’s ADMw separately for a virtual public
+charter school and for the school district if the school district, without
+consideration of the ADM of the virtual public charter school, had a decrease
+in ADM or ADMw compared to the previous school year. 
+
+       (d) Students who
+are enrolled in a public charter school that is an approved recovery school
+under ORS 336.680 are not considered residents of the school district in which
+the public charter school is located for purposes of distribution of the State
+School Fund. A public charter school that is an approved recovery school shall
+be funded as provided by ORS 336.680. 
+
+       (2) A school
+district shall contractually establish, with any public charter school that is
+sponsored by the board of the school district, payment for provision of
+educational services to the public charter school’s students. The payment shall
+equal an amount per weighted average daily membership (ADMw) of the public
+charter school that is at least equal to: 
+
+       (a) Eighty
+percent of the amount of the school district’s General Purpose Grant per ADMw
+as calculated under ORS 327.013 for students who are enrolled in kindergarten
+through grade eight; and 
+
+       (b) Ninety-five
+percent of the amount of the school district’s General Purpose Grant per ADMw
+as calculated under ORS 327.013 for students who are enrolled in grades 9
+through 12. 
+
+       (3) A school
+district shall contractually establish, with any public charter school that is
+sponsored by the State Board of Education and that is within the boundaries of
+the school district, payment for provision of educational services to the
+public charter school’s students. The payment shall equal an amount per
+weighted average daily membership (ADMw) of the public charter school that is
+at least equal to: 
+
+       (a) Ninety
+percent of the amount of the school district’s General Purpose Grant per ADMw
+as calculated under ORS 327.013 for students who are enrolled in kindergarten
+through grade eight; and 
+
+       (b) Ninety-five
+percent of the amount of the school district’s General Purpose Grant per ADMw
+as calculated under ORS 327.013 for students who are enrolled in grades 9
+through 12. 
+
+       (4) The estimated
+amount of each school district’s General Purpose Grant per ADMw shall be
+determined each year by the Department of Education and made available to all
+school districts. 
+
+       (5) The school
+district in which the public charter school is located shall transfer an amount
+per weighted average daily membership (ADMw) of the public charter school that
+is equal to 50 percent of the amount of the school district’s General Purpose
+Grant per ADMw as calculated under ORS 327.013 that is not paid to the public
+charter school through a contract created pursuant to subsection (3) of this
+section to the Department of Education. 
+
+       (6) The
+department may use any moneys received under this section for activities
+related to public charter schools. 
+
+       (7) A school
+district and a public charter school may negotiate to establish a payment for
+the provision of educational services to the public charter school’s students
+that is more than the minimum amounts specified in subsection (2) or (3) of
+this section. 
+
+       (8) A school
+district shall send payment to a public charter school based on a contract
+negotiated under this section within 10 days after receiving payments from the
+State School Fund pursuant to ORS 327.095. 
+
+       (9)(a) A public
+charter school may apply for any grant that is available to school districts or
+nonchartered public schools from the Department of Education. The department
+shall consider the application of the public charter school in the same manner
+as an application from a school district or nonchartered public school. 
+
+       (b) The
+department shall award any grant that is available to school districts based
+solely on the weighted average daily membership (ADMw) of the school district
+directly to the public charter school. This paragraph does not apply to any
+grant from the State School Fund. [1999 c.200 §20; 2011 c.684 §7; 2011 c.695 §9;
+2015 c.219 §1; 2015 c.644 §5; 2018 c.72 §11; 2021 c.494 §1; 2023 c.571 §1; 2025
+c.386 §4] 
+
+   
+
+       338.157
+Adjusting number of students for poverty level. For purposes of calculating the
+weighted average daily membership (ADMw) of a public charter school, it shall
+be assumed that the public charter school has the same percentage of children
+in poverty families, as calculated under ORS 327.013 (1)(c)(A)(v)(I), as the
+school district in which the public charter school is located. Based on this
+percentage, an additional amount shall be added to the average daily membership
+(ADM) of the public charter school. [2001 c.810 §6; 2009 c.698 §18] 
+
+   
+
+       338.165
+Special education students; payment for services. (1) Except as provided by ORS
+336.680 for public charter schools that are approved recovery schools: 
+
+       (a) The school
+district in which a public charter school is located shall identify, locate and
+evaluate students enrolled in the public charter school to determine which
+students may be in need of special education and related services. 
+
+       (b) The school
+district in which a public charter school is located: 
+
+       (A) Shall receive
+funding from the State School Fund as provided by this section for students who
+are eligible for special education and related services and who are enrolled in
+the public charter school; and 
+
+       (B) Is eligible
+to receive high cost disabilities grants as provided by ORS 327.348 for
+students who are enrolled in the public charter school. 
+
+       (c) Students who
+are eligible for special education and related services shall be considered
+students of the school district in which the public charter school is located
+for purposes of data collection and reporting. 
+
+       (2) If a student
+is enrolled in a public charter school and is eligible for special education
+and related services, an additional amount shall be added to the ADM of the
+public charter school as described in ORS 327.013 (1)(c)(A)(i). The payment per
+ADMw in the public charter school that is attributable to the student who is
+eligible for special education and related services shall equal an amount that
+is at least equal to: 
+
+       (a) 40 percent of
+the amount of the General Purpose Grant per ADMw for the school district in
+which the public charter school is located, as calculated under ORS 327.013,
+for students who are enrolled in kindergarten through grade eight; and 
+
+       (b) 47.5 percent
+of the amount of the General Purpose Grant per ADMw for the school district in
+which the public charter school is located, as calculated under ORS 327.013,
+for students who are enrolled in grades 9 through 12. 
+
+       (3) If the State
+Board of Education is the sponsor of a public charter school, the school
+district in which the public charter school is located, for each ADMw that is
+attributable to a student enrolled in a public charter school who is eligible
+for special education and related services, shall transfer five percent of the
+amount of the school district’s General Purpose Grant per ADMw as calculated
+under ORS 327.013 to the State Board of Education. 
+
+       (4)
+Notwithstanding subsection (2) of this section, a school district and a public
+charter school may negotiate on a case-by-case basis for an alternative
+distribution of funds other than the distribution prescribed by subsection (2)
+of this section. 
+
+       (5) Payments
+under this section must be made within 10 days after a school district receives
+payment from the State School Fund pursuant to ORS 327.095. [1999 c.200 §21;
+2009 c.698 §19; 2011 c.443 §3; 2025 c.386 §5] 
+
+   
+
+       338.175 [1999 c.200 §22; repealed by 2009
+c.95 §2] 
+
+   
+
+       338.185 [1999 c.200 §23; repealed by 2011
+c.313 §25] 
+
+   
+
+       338.990 [Repealed by 1965 c.100 §456] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

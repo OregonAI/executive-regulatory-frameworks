@@ -1,0 +1,1992 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+737 — Rates and Rating Organizations 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ RATES AND RATING ORGANIZATIONS 
+
+   
+
+ INSURANCE 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 737.007     “Rating organization”
+defined 
+
+   
+
+ 737.012     “Advisory organization”
+defined 
+
+   
+
+ 737.017     “Member,” “subscriber”
+defined 
+
+   
+
+ 737.025     Purpose, intent of
+chapter 
+
+   
+
+ 737.035     Application of chapter 
+
+   
+
+ 737.045     Remedies of director
+for violations of chapter 
+
+   
+
+ RATES AND RATE MAKING 
+
+   
+
+ 737.205     Filing rates, plans
+with director; public inspection of filings; effect on workers’ compensation
+filings 
+
+   
+
+ 737.207     Commercial liability
+insurance rate filings; prior approval by director 
+
+   
+
+ 737.209     Hearing on rate filings
+under ORS 737.207; order; review 
+
+   
+
+ 737.215     Effect of noncompliance
+with rating regulation 
+
+   
+
+ 737.225     Records requirements;
+inspection; statistics; workers’ compensation statistical agency; rules 
+
+   
+
+ 737.230     Data must include
+certain information 
+
+   
+
+ 737.235     Examining rating
+systems of insurers; costs 
+
+   
+
+ 737.245     Collusive ratings
+prohibited; liability for damages 
+
+   
+
+ 737.255     Authority for
+cooperative ratings and systems 
+
+   
+
+ 737.265     Unauthorized adherence
+to rates, rating systems; workers’ compensation insurance policy forms 
+
+   
+
+ 737.270     Determination of
+workers’ compensation premiums for worker leasing company; reporting
+statistical experience 
+
+   
+
+ 737.275     Preparation of rates,
+rating systems and other administrative matters by insurers under common
+ownership 
+
+   
+
+ 737.310     Method of rate making;
+factors considered; effect of wildfire risk mitigation actions; rules 
+
+   
+
+ 737.312     Agreements among
+insurers for assignment of risks; rate modifications 
+
+   
+
+ 737.316     Combining employers for
+workers’ compensation insurance; conditions 
+
+   
+
+ 737.318     Premium audit program
+for workers’ compensation insurance; rules; penalties 
+
+   
+
+ 737.320     Review of certain
+filings; effective date of filings; investigation and evaluation of workers’
+compensation rate filings 
+
+   
+
+ 737.322     Rating plan approval;
+rules; hearing on disapproval; costs 
+
+   
+
+ 737.325     Suspension or
+modification of filing requirement; rules; excess rates for specific risks 
+
+   
+
+ 737.330     Contracts to comply
+with effective filings; exception 
+
+   
+
+ 737.336     Disapproval of filings
+by director; noncompliance with chapter 
+
+   
+
+ 737.340     Initiation of
+proceedings by aggrieved person to determine lawfulness of filings; hearing 
+
+   
+
+ 737.342     Hearing and order
+procedure 
+
+   
+
+ RATING ORGANIZATIONS 
+
+   
+
+ 737.350     Application for license
+by rating organization 
+
+   
+
+ 737.355     Licensing rating
+organizations generally; licensing workers’ compensation rating organizations;
+rules; revocation and suspension; fees 
+
+   
+
+ 737.360     Rating organization to
+accept insurers as subscribers; rules of organization to be reasonable; review
+of applications for subscribership and of reasonableness of rules 
+
+   
+
+ 737.365     Cooperative activities
+among rating organizations and insurers 
+
+   
+
+ 737.390     Regulation of joint
+underwriting and joint reinsurance 
+
+   
+
+ 737.505     Insured entitled to
+rate information; remedies of aggrieved persons 
+
+   
+
+ 737.510     Advisory organizations;
+registration; jurisdiction of director to restrict unfair practices 
+
+   
+
+ 737.515     Examination of rating,
+advisory and other organizations; payment of costs; acceptance of report from
+another state 
+
+   
+
+ 737.526     Interchange of data;
+rules; promoting uniformity of rating laws 
+
+   
+
+ 737.535     Withholding or giving
+false information prohibited 
+
+   
+
+ 737.545     Procedure for
+suspension of rating organization license 
+
+   
+
+ 737.560     Rating organization
+membership 
+
+   
+
+ FICTITIOUS GROUPINGS 
+
+   
+
+ 737.600     Fictitious grouping for
+rate purposes prohibited; rules; exceptions 
+
+   
+
+ 737.602     Authorization for
+insurance for certain projects; premiums; qualifications 
+
+   
+
+ 737.604     Rules 
+
+   
+
+       737.005 [Amended by 1963 c.580 §92;
+repealed by 1967 c.359 §704] 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       737.007 “Rating
+organization” defined. 
+(1) As used in this chapter, unless the context requires otherwise, “rating
+organization” means: 
+
+       (a) Every person,
+other than an insurer, whether located within or outside this state who has as
+the person’s object or purpose the making of rates, rating plans or rating
+systems; or 
+
+       (b) Two or more
+insurers which act in concert for the purpose of making rates, rating plans or
+rating systems. 
+
+       (2) Subsection
+(1) of this section does not include, apply to or affect two or more insurers
+operating within the specific authorizations contained in ORS 737.275, 737.312,
+737.365, 737.390 and 737.526. [1969 c.690 §14] 
+
+   
+
+       737.010 [Amended by 1967 c.359 §303;
+renumbered 737.280] 
+
+   
+
+       737.012 “Advisory
+organization” defined. 
+As used in this chapter, unless the context requires otherwise, “advisory
+organization” means every group, association or other organization of insurers,
+whether located within or outside this state, which assists authorized insurers
+which make their own filings or licensed rating organizations in rate making,
+by the collection and furnishing of loss or expense statistics or by the
+submission of recommendations, but which does not make filings under this
+chapter. [1969 c.690 §15] 
+
+   
+
+       737.015 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.017 “Member,”
+“subscriber” defined. 
+As used in this chapter, unless the context requires otherwise: 
+
+       (1) “Member”
+means: 
+
+       (a) An insurer
+that participates in or is entitled to participate in the management of a
+rating, advisory or other organization; or 
+
+       (b) For purposes
+of workers’ compensation insurance, an insurer that is affiliated or associated
+with a rating, advisory or other organization by agreement with the
+organization for the purpose of obtaining the rates and rating manuals or the
+services offered by the organization. 
+
+       (2) “Subscriber”
+means an insurer that is furnished at its request: 
+
+       (a) With rates
+and rating manuals by a rating organization of which it is not a member; or 
+
+       (b) With advisory
+services by an advisory organization of which it is not a member. [1969 c.690 §16;
+1999 c.235 §6] 
+
+   
+
+       737.020 [1967 c.359 §299; repealed by 1969
+c.690 §29] 
+
+   
+
+       737.025
+Purpose, intent of chapter. 
+(1) The purpose of this chapter is to promote the public welfare by regulating
+insurance rates to the end that they shall not be excessive, inadequate or
+unfairly discriminatory and to authorize cooperation between insurers in rate
+making and other related matters. 
+
+       (2) It is the
+express intent of this chapter to permit and encourage competition between
+insurers on a sound financial basis. [1969 c.690 §1] 
+
+   
+
+       737.030 [1967 c.359 §300; repealed by 1969
+c.690 §29] 
+
+   
+
+       737.035
+Application of chapter. 
+This chapter applies to all forms of insurance on risks or operations in this
+state, except: 
+
+       (1) Reinsurance,
+other than joint reinsurance to the extent stated in ORS 737.390; 
+
+       (2) Insurance
+against loss of, or damage to, aircraft, including accessories and equipment,
+or against liability arising out of ownership, maintenance or use of aircraft; 
+
+       (3) Wet marine
+and transportation insurance; 
+
+       (4) Life
+insurance; 
+
+       (5) Health
+insurance; or 
+
+       (6) Surplus lines
+insurance. [1969 c.690 §2; 2005 c.185 §10] 
+
+   
+
+       737.040 [1967 c.359 §301; repealed by 1969
+c.690 §29] 
+
+   
+
+       737.045
+Remedies of director for violations of chapter. (1) If the Director of the
+Department of Consumer and Business Services has reason to believe that a rate,
+rating plan or rating system filed or used by an insurer or filed by a rating
+or advisory organization on behalf of an insurer does not comply with the
+requirements and standards of this chapter, the director may issue an order
+directing the insurer or the rating or advisory organization to discontinue or
+desist from the noncompliance. An order issued under this subsection is subject
+to the provisions of ORS 731.252. 
+
+       (2) If the
+director holds a hearing on an order issued pursuant to subsection (1) of this
+section, the insurer or rating or advisory organization filing or using the
+rate, rating plan or rating system shall pay to the director the just and
+legitimate costs of the hearing, including actual necessary expenses. 
+
+       (3) If the
+director finds after a hearing under ORS 737.340 that any rate, rating plan or
+rating system violates the provisions of this chapter, the director may issue
+an order specifying the violation and stating when, within a reasonable period
+of time, the further use of such rate, rating plan or rating system by an insurer
+or rating or advisory organization shall be prohibited. 
+
+       (4) If the
+director finds after a hearing under ORS 737.215 or 737.340 that an insurer or
+rating or advisory organization is in violation of any provision of this
+chapter other than the provisions dealing with rates, rating plans or rating
+systems, the director may issue an order specifying the violation and requiring
+compliance within a reasonable time. 
+
+       (5) If the
+director finds after a hearing under ORS 737.215 that the violation of any of
+the provisions of this chapter applicable to it by any insurer or rating
+organization that has been the subject of a hearing was willful, the director
+may suspend or revoke the certificate of authority of such insurer or the
+license of such rating organization. 
+
+       (6) If the
+director finds after a hearing that any rating organization has willfully
+engaged in any fraudulent or dishonest act or practices, the director may
+suspend or revoke the license of such organization. [1969 c.690 §10; 1987 c.774
+§143] 
+
+   
+
+       737.050 [1967 c.359 §302; repealed by 1969
+c.690 §29] 
+
+   
+
+       737.105 [Amended by 1961 c.562 §7; 1965
+c.611 §17; repealed by 1967 c.359 §704] 
+
+   
+
+       737.110 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.115 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.120 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.125 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.130 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.135 [Repealed by 1969 c.336 §21 and
+1969 c.690 §29] 
+
+   
+
+       737.140 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.145 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.150 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.155 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.160 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.165 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.170 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.175 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.180 [Amended by 1967 c.359 §308;
+renumbered 737.312] 
+
+   
+
+       737.185 [Repealed by 1967 c.359 §704] 
+
+   
+
+ RATES AND RATE MAKING 
+
+   
+
+       737.205 Filing
+rates, plans with director; public inspection of filings; effect on workers’
+compensation filings. 
+(1) Every insurer shall file with the Director of the Department of Consumer
+and Business Services copies of the rates, rating plans and rating systems used
+by it. Except as provided in ORS 737.207, 737.209 and 737.320 (2), each filing
+shall become effective immediately on the date specified therein but not
+earlier than the date such filing is received by the director. This subsection
+does not apply to inland marine risks which by general custom of the business
+are not written according to manual rates or rating plans. 
+
+       (2) An insurer
+may satisfy its obligation to make such filings by becoming a member of or a
+subscriber to a licensed rating organization which makes such filings, and by
+authorizing the director to accept such filings on its behalf. Such insurer may
+so adopt the filings of a rating organization on part of the classes of risks
+insured by it and may make its own filings as to other classes which shall be
+uniform throughout the insurer’s territorial classification. This subsection
+does not apply to workers’ compensation insurance filings except to the extent
+that the rating organization filings of rating plans or systems under ORS
+737.320 are complete and usable by an insurer without the addition of
+allowances for expenses, taxes or profit. 
+
+       (3) A filing
+shall be open to public inspection immediately upon submission to the director.
+[1969 c.690 §4; 1981 c.535 §16; 1987 c.774 §50] 
+
+   
+
+       737.207
+Commercial liability insurance rate filings; prior approval by director. (1) As used in this section, a
+market may be a line, subline or classification of commercial liability
+insurance. 
+
+       (2) Filings of
+commercial liability insurance rates for markets specified by the Director of
+the Department of Consumer and Business Services shall be submitted by an
+insurer or rating organization to the director for review prior to the
+effective date if the average annual rate level increase or decrease for each
+market exceeds 15 percent. Factors to be considered by the director in
+specifying a market to be subject to this section may include: 
+
+       (a) The nature
+and extent of competition; 
+
+       (b) The size and
+significance of the coverage provided; 
+
+       (c) Reinsurance
+availability; 
+
+       (d) The volume of
+cancellations and nonrenewals; and 
+
+       (e) Changing
+conditions in the economic, judicial and social environment. 
+
+       (3) Except as
+otherwise provided in ORS 737.209, the effective date of a commercial liability
+insurance filing required by subsection (2) of this section to be submitted to
+the director for review shall be the date specified therein but not earlier
+than the 30th day after the filing is received by the director. After review of
+the filing, the director may authorize an earlier effective date, if
+appropriate. The 30-day waiting period may be extended to 60 days if the
+director gives written notice within such waiting period to the insurer or
+rating organization which made the filing that the extended period is needed
+for consideration of the filing. A filing subject to subsection (2) of this
+section that has not been approved or disapproved within the waiting period, or
+any extension thereof, shall be deemed approved. 
+
+       (4) Supporting
+actuarial data shall accompany every filing of commercial liability insurance
+rates. The data shall be in sufficient detail to justify the rate level change
+and shall demonstrate compliance with ORS 737.310 governing the making of
+rates. [1987 c.774 §48] 
+
+   
+
+       737.209
+Hearing on rate filings under ORS 737.207; order; review. (1) The Director of the Department
+of Consumer and Business Services may hold a hearing on a filing made pursuant
+to ORS 737.207 if the director determines that such a hearing would aid the
+director in determining whether to approve or disapprove the filing. A hearing
+under this section may be held at a place designated by the director and upon
+not less than 10 days’ written notice to the insurer or rating organization
+that made the filing and to any other person the director decides should be
+notified. A filing that is the subject of a hearing under this section becomes
+effective, if approved, as provided in subsection (4) of this section. 
+
+       (2) A hearing
+held pursuant to subsection (1) of this section must be conducted by an
+administrative law judge assigned from the Office of Administrative Hearings
+established under ORS 183.605. The administrative law judge shall report
+findings, conclusions and recommendations to the director within 30 days of the
+close of the hearing. The insurer or rating organization proposing the rate
+filing shall have the burden of proving that the rate proposal is justified and
+shall pay to the director the fair and reasonable costs of the hearing,
+including actual necessary expenses. 
+
+       (3) Within 10
+days of receiving a report from the administrative law judge, the director
+shall issue an order approving or disapproving the filing. 
+
+       (4) An order
+issued under subsection (3) of this section may be reviewed as provided in ORS
+183.480 to 183.540 for review of contested cases. A filing approved by the
+director under this section shall be effective 10 days after the order issued
+under subsection (3) of this section and shall remain effective during any
+review of the order. [1987 c.774 §48a; 1999 c.849 §§175,176; 2003 c.75 §62] 
+
+   
+
+       737.215 Effect
+of noncompliance with rating regulation. If the Director of the Department of Consumer and
+Business Services has reason to believe that noncompliance by an insurer with
+the requirements and standards of this chapter to be willful, or if within the
+period prescribed by the director in the notice required by ORS 737.336, the
+insurer, rating or advisory organization does not make such changes as may be
+necessary to correct the noncompliance specified by the director or establish
+to the satisfaction of the director that such specified noncompliance does not
+exist, then the director may hold a hearing in connection therewith, provided
+that within a reasonable period of time which shall be not less than 10 days
+before the date of such hearing, the director shall mail written notice to the
+insurer, rating or advisory organization involved specifying the matters to be
+considered at such hearing. [1969 c.690 §8] 
+
+   
+
+       737.225
+Records requirements; inspection; statistics; workers’ compensation statistical
+agency; rules. (1)
+Each insurer, rating organization or advisory organization shall maintain
+reasonable records, of the type and kind reasonably adapted to its method of
+operation, of its experience or the experience of its members and of the data,
+statistics or information collected or used by it in connection with the rates,
+rating plans, rating systems, underwriting rules, policy or bond forms, surveys
+or inspections made or used by it. An insurer providing workers’ compensation
+insurance shall maintain reasonable records showing investment income earned by
+the insurer, insurer profit on workers’ compensation insurance, accumulated
+reserves for vocational rehabilitation services and accumulated reserves for
+claim costs related to orders or awards made pursuant to ORS 656.278. 
+
+       (2) The
+maintenance of such records in the office of a licensed rating organization of
+which an insurer is a member or subscriber will be sufficient compliance with
+this section for any insurer maintaining membership or subscribership in such
+organization, to the extent that the insurer uses the rates, rating plans,
+rating systems or underwriting rules of such organization. 
+
+       (3) Such records
+shall be available to the Director of the Department of Consumer and Business
+Services for examination and inspection at any time in order to determine
+whether the filings made pursuant to ORS 737.205 comply with this chapter. 
+
+       (4) Each insurer
+shall maintain statistics under statistical plans compatible with the rating
+plans used by the insurer. An insurer may report its statistics through a
+recognized agency or advisory organization, except that workers’ compensation
+insurance statistics shall be reported to the workers’ compensation rating
+organization of which the insurer is a member. The director shall prescribe by
+rule the statistical plan for workers’ compensation insurance. 
+
+       (5)(a) The
+director shall designate one workers’ compensation statistical agency from the
+licensed rating organizations as the agent to which all licensed workers’
+compensation rating organizations shall report workers’ compensation insurance
+statistics. The director shall adopt rules to ensure a competitive process in
+the designation of the one workers’ compensation statistical agency. 
+
+       (b) The
+designated workers’ compensation statistical agency shall assist the director
+in gathering workers’ compensation insurance statistics and making compilations
+of those statistics and shall make the compilations available to insurers and
+other licensed workers’ compensation rating organizations, subject to rules
+adopted by the director. 
+
+       (c) If the
+director licenses only one workers’ compensation rating organization under ORS
+737.355 (2), that rating organization shall be the designated statistical agent
+under this subsection. 
+
+       (6) The ownership
+of the financial and statistical data submitted to a workers’ compensation
+statistical agency is vested in the submitting member insurer. The financial
+and statistical data shall be confidential and may not be disclosed, provided
+that the ownership rights of an insurer shall not limit access by the director
+for the purposes of performing the regulatory duties of the Department of
+Consumer and Business Services. [1969 c.690 §11; 1981 c.535 §17; 1983 c.360 §2;
+1987 c.884 §54; 1999 c.235 §2] 
+
+   
+
+       737.230 Data
+must include certain information. 
+The data collected and maintained by each insurer, rating organization or
+advisory organization pursuant to ORS 737.225 shall be in sufficient detail to
+demonstrate the statistical significance of differences or correlations
+relevant to the rating plan definitions and rate differentials. [1979 c.870 §6] 
+
+   
+
+       737.235
+Examining rating systems of insurers; costs. (1) The Director of the Department of Consumer and
+Business Services may make or cause to be made an examination of every insurer
+transacting any class of insurance to which the provisions of this chapter are
+applicable to ascertain whether such insurer and every rate and rating system
+used by it for every such class of insurance complies with the requirements and
+standards of this chapter. 
+
+       (2) The officers,
+managers, agents and employees of any insurer, under examination, may be
+examined at any time under oath and shall exhibit all books, records, accounts,
+documents or agreements governing its method of operation, together with all
+data, statistics and information of every kind and character collected or
+considered by such insurer in the conduct of the operations to which such
+examination relates. 
+
+       (3) The
+reasonable cost of any examination authorized by this section shall be paid by
+the organization or insurer to be examined including actual necessary
+transportation and traveling expenses. 
+
+       (4)
+Notwithstanding any other provision of law, all reimbursable expenses collected
+by the director under subsection (3) of this section shall be deposited in the
+fund created by ORS 705.145 for the payment of expenses incurred in conducting
+the examinations authorized by this section. The moneys deposited shall be
+continuously appropriated for such purpose. [1969 c.690 §12; 1987 c.373 §83] 
+
+   
+
+       737.245
+Collusive ratings prohibited; liability for damages. In the event any insurer shall in
+collusion with any other insurer conspire to fix, set or adhere to insurance
+rates except as expressly sanctioned by the Insurance Code, such insurer shall
+be liable to any person damaged thereby for an amount equal to three times the
+amount of such damage together with the damaged party’s attorney fees. [1969
+c.690 §13] 
+
+   
+
+       737.255
+Authority for cooperative ratings and systems. Subject to and in compliance with
+the provisions of this chapter authorizing insurers to be members or
+subscribers of rating or advisory organizations or to engage in joint
+underwriting or joint reinsurance, two or more insurers may act in concert with
+each other and with others with respect to any matters pertaining to the making
+of rates or rating systems, the preparation or making of insurance policy or
+bond forms, underwriting rules, surveys, inspections and investigations, the
+furnishing of loss or expense statistics or other information and data or
+carrying on of research. [1969 c.690 §17] 
+
+   
+
+       737.265
+Unauthorized adherence to rates, rating systems; workers’ compensation
+insurance policy forms. 
+(1) Members and subscribers of rating or advisory organizations may use the
+rates, rating systems, underwriting rules or policy or bond forms of such
+organizations, either consistently or intermittently, but, except as provided
+in ORS 737.275, 737.312, 737.365, 737.390, 737.526 and subsection (2) of this
+section, shall not agree with each other or rating organizations or others to
+adhere thereto. The fact that two or more authorized insurers, whether or not
+members or subscribers of a rating or advisory organization, use, either
+consistently or intermittently, the rates or rating systems made or adopted by
+a rating organization, or the underwriting rules or policy or bond forms
+prepared by a rating or advisory organization, shall not be sufficient in
+itself to support a finding that an agreement to so adhere exists, and may be
+used only for the purpose of supplementing or explaining any competent evidence
+of the existence of any such agreement. 
+
+       (2) Each insurer
+transacting workers’ compensation insurance shall adhere to the policy forms
+filed by the licensed workers’ compensation rating organization of which the
+insurer is a member and approved by the Director of the Department of Consumer
+and Business Services. [1969 c.690 §19; 1971 c.385 §4; 1977 c.333 §1; 1981
+c.535 §18; 1999 c.235 §3] 
+
+   
+
+       737.270
+Determination of workers’ compensation premiums for worker leasing company;
+reporting statistical experience. 
+(1) When a worker leasing company required to be licensed by ORS 656.850
+provides workers to work for a client and also provides the workers’
+compensation coverage for those workers, the insurance premium for the client’s
+exposure shall be based on the client’s own experience rating, in the same
+manner as required for employers insuring directly employed workers. 
+
+       (2) An insurer
+that provides workers’ compensation to a worker leasing company shall maintain
+and report to the licensed workers’ compensation rating organization of which
+the insurer is a member separate statistical experience for each client of the
+worker leasing company according to the uniform statistical plan prescribed by
+the Director of the Department of Consumer and Business Services according to
+ORS 737.225 (4). 
+
+       (3) To reimburse
+expenses incurred by the insurer in segregating client experience, the insurer
+shall be permitted to charge the worker leasing company a reasonable fee as
+determined by the director. 
+
+       (4) The worker
+leasing company shall earn a separate experience rating for any administrative
+personnel the company employs. [1993 c.628 §5; 1999 c.235 §4] 
+
+   
+
+       Note: The amendments to 737.270 by
+section 8, chapter 78, Oregon Laws 2025, become operative July 1, 2027. See
+section 23, chapter 78, Oregon Laws 2025. The text that is operative on and
+after July 1, 2027, is set forth for the user’s convenience. 
+
+       737.270. (1) When a professional employer
+organization required to be licensed by ORS 656.850 enters into a PEO
+relationship with a client and also provides the workers’ compensation coverage
+for the client, the insurance premium for the client’s exposure shall be based
+on the client’s own experience rating, in the same manner as required for
+employers insuring directly employed workers. 
+
+       (2) An insurer
+that provides workers’ compensation to a professional employer organization
+shall maintain and report to the licensed workers’ compensation rating
+organization of which the insurer is a member separate statistical experience
+for each client of the professional employer organization according to the
+uniform statistical plan prescribed by the Director of the Department of
+Consumer and Business Services according to ORS 737.225 (4). 
+
+       (3) To reimburse
+expenses incurred by the insurer in segregating client experience, the insurer
+shall be permitted to charge the professional employer organization a
+reasonable fee as determined by the director. 
+
+       (4) The
+professional employer organization shall earn a separate experience rating for
+any administrative personnel the professional employer organization directly
+employs. 
+
+   
+
+       737.275
+Preparation of rates, rating systems and other administrative matters by
+insurers under common ownership. 
+With respect to any matters pertaining to the making of rates or rating
+systems, the preparation or making of insurance policy or bond forms,
+underwriting rules, surveys, inspections and investigations, the furnishing of
+loss or expense statistics or other information and data, or carrying on of
+research, two or more admitted insurers having a common ownership or operating
+in this state under common management or control are hereby authorized to act
+in concert between or among themselves the same as if they constituted a single
+insurer, and to the extent that such matters relate to co-surety bonds, two or
+more admitted insurers executing such bonds are hereby authorized to act in
+concert between or among themselves the same as if they constituted a single
+insurer. [1969 c.690 §21] 
+
+   
+
+       737.280 [Formerly 737.010; repealed by
+1969 c.690 §29] 
+
+   
+
+       737.290 [1967 c.359 §305; repealed by 1969
+c.690 §29] 
+
+   
+
+       737.300 [1967 c.359 §306; repealed by 1969
+c.690 §29] 
+
+   
+
+       737.305 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.310 Method
+of rate making; factors considered; effect of wildfire risk mitigation actions;
+rules. The
+following standards shall apply to the making and use of rates: 
+
+       (1) Rates shall
+not be excessive, inadequate or unfairly discriminatory. 
+
+       (2) As to all
+classes of insurance, other than workers’ compensation and title insurance: 
+
+       (a) No rate shall
+be held to be excessive unless: 
+
+       (A) Such rate is
+unreasonably high for the insurance provided; and 
+
+       (B) A reasonable
+degree of competition does not exist in the area with respect to the
+classification to which such rate is applicable. 
+
+       (b) No rate shall
+be held inadequate unless such rate is unreasonably low for the insurance
+provided and: 
+
+       (A) Use or
+continued use of such rate endangers the solvency of the insurer; or 
+
+       (B) The use of
+such rate by the insurer has, or if continued will have, the effect of
+destroying competition or creating a monopoly. 
+
+       (3) Rates for
+each classification of coverage shall be based on the claims experience of
+insurers within Oregon on that classification of coverage unless that
+experience provides an insufficient base for actuarially sound rates. 
+
+       (4) Due
+consideration shall be given to past and prospective loss experience within
+this state, to the hazards of conflagration and catastrophe, to a reasonable
+margin for profit and to contingencies, to dividends, savings or unabsorbed
+premium deposits allowed or returned by insurers to their policyholders,
+members or subscribers, to past and prospective expenses specially applicable
+to this state, and to all other relevant factors, including judgment factors
+deemed relevant, within this state. 
+
+       (5) In addition
+to subsection (4) of this section, rates for home protection insurance may
+include provision for unreimbursed costs of risk inspection and for loss costs
+under policies which are terminated without premium because the related home
+sale is not made. 
+
+       (6) In the case
+of fire insurance rates, consideration may be given to the experience of the
+fire insurance business during the most recent five-year period for which such
+experience is available. 
+
+       (7) The systems
+of expense provisions included in the rates for use by any insurer or group of
+insurers may differ from those of other insurers or groups of insurers to
+reflect the requirements of the operating methods of any such insurer or group
+of insurers with respect to any class of insurance, or with respect to any
+subdivision or combination thereof for which subdivision or combination
+separate expenses are applicable. 
+
+       (8) Risks may be
+grouped by classifications for the establishment of rates and minimum premiums.
+Classification rates for casualty, surety or inland marine risks may be
+modified to produce rates for individual risks in accordance with rating plans
+which establish standards for measuring variations in hazards or expense
+provisions or both. Such standards may measure any differences among risks that
+can be demonstrated to have a probable effect upon losses or expenses. 
+
+       (9) Due
+consideration shall be given, in the making and use of rates for all insurance,
+to investment income earned by the insurer, to insurer profits and to
+accumulated reserves for vocational rehabilitation services and for claim costs
+related to orders or awards made pursuant to ORS 656.278. 
+
+       (10) The Director
+of the Department of Consumer and Business Services, by rule, shall prescribe
+the conditions under which a division of payroll between different manual
+classifications is permitted for purposes of computing workers’ compensation
+premiums. 
+
+       (11)(a) The
+director shall not approve any workers’ compensation rating system that does
+not include a plan for rewarding employers, however small, that have good loss
+experience or programs likely to improve accident prevention. However, this
+paragraph is not intended to require that all employers be experience rated. 
+
+       (b) The director
+shall not approve any workers’ compensation rating system that does not allow
+the insurer to include potential third party recovery as one of the variables
+in the claims reserving process. 
+
+       (12) At the time
+an insurer issues a workers’ compensation insurance policy to an insured for
+the first time, the insurer shall give written notice to the insured of the
+rating classifications to which the insured’s employees are to be assigned and
+shall provide an adequate description of work activities in each
+classification. In the event an insurer recommences coverage following its
+termination, the notice required under this subsection must be given only if the
+gap in coverage exceeds six months. 
+
+       (13) If an
+insurer determines the workers’ compensation insurance policy of an insured
+needs reclassification, the insurer: 
+
+       (a) May bill an
+additional premium for the revised classification after the insurer has
+provided the insured at least 60 days’ written notice of the reclassification. 
+
+       (b) Shall bill
+retroactively to policy inception or date of change in insured’s operations for
+any reclassification that results in a net reduction of premium. 
+
+       (c) May,
+notwithstanding paragraph (a) of this subsection, retroactively bill an insured
+for reclassification during the policy year without prior notice of
+reclassification if the insurer shows by a preponderance of the evidence that: 
+
+       (A) The insured
+knew that the employees were misclassified, or the insured was adequately
+informed by the insurer of the proper classification for the insured’s
+employees; 
+
+       (B) The insured
+provided improper or inaccurate information concerning its operations; or 
+
+       (C) The insured’s
+operations changed after the date information on the employees was obtained
+from the insured. 
+
+       (14) In
+consultation with system participants, the director shall analyze the rating
+classification system to investigate changes that simplify the system and
+reduce costs for employers and insurers while preserving rate equity and
+minimizing the potential for abuse. The director shall give particular emphasis
+to the method of allocating payroll to rating classifications and to
+alternatives to methods that require verifiable payroll records. Upon
+completion of this analysis, the director shall implement appropriate changes
+to the system. 
+
+       (15) The director
+shall adopt rules to carry out the provisions of this section and may by rule
+specify procedures relating to rating and ratemaking by workers’ compensation
+insurers. 
+
+       (16) A rate
+increase based solely upon an insured’s attaining or exceeding 65 years of age
+shall be presumed to be unfairly discriminatory unless the increase is clearly
+based on sound actuarial principles or is related to actual or reasonably
+anticipated experience. 
+
+       (17) An insurer
+offering homeowner insurance, as defined in ORS 746.600, in this state shall: 
+
+       (a) Make
+information on whether and how wildfire risk mitigation actions, as defined in
+ORS 742.277, may impact the insurer’s underwriting and rates publicly available
+on the insurer’s website. 
+
+       (b) Reflect in
+the insurer’s underwriting guidelines and rate plans how the insurer addresses
+or considers wildfire risk mitigation actions, as defined in ORS 742.277. [Amended
+by 1967 c.359 §307; 1969 c.690 §3; 1981 c.247 §15; 1981 c.535 §19; 1981 c.874 §19;
+1983 c.360 §1; 1987 c.676 §1; 1987 c.774 §146; 1987 c.884 §52; 1991 c.768 §1;
+1997 c.766 §1; 1997 c.768 §1; 2023 c.67 §2] 
+
+   
+
+       737.312
+Agreements among insurers for assignment of risks; rate modifications. Agreements may be made among
+insurers with respect to the equitable apportionment among them of insurance
+which may be afforded applicants who are in good faith entitled to such
+insurance but who are unable to procure such insurance through ordinary methods.
+Such insurers may agree among themselves on the use of reasonable rate
+modifications for such insurance, such agreements and rate modifications to be
+subject to the approval of the Director of the Department of Consumer and
+Business Services. [Formerly 737.180] 
+
+   
+
+       737.315 [Amended by 1967 c.359 §309; 1967
+c.366 §1; repealed by 1969 c.690 §29] 
+
+   
+
+       737.316
+Combining employers for workers’ compensation insurance; conditions. Notwithstanding ORS 737.600, but
+subject to all other rate filing requirements of this chapter, an insurer may
+combine for rating purposes the experience of a group of employers covered for
+workers’ compensation insurance by the insurer, subject to applicable rules
+adopted by the Director of the Department of Consumer and Business Services,
+if: 
+
+       (1) All the
+employers in the group are members of an organization. 
+
+       (2) The employers
+in the group constitute at least 50 percent of the employers in the
+organization, unless the number of covered workers in the group exceeds 500, in
+which case the employers in the group must constitute at least 25 percent of
+the employers in the organization. 
+
+       (3) The grouping
+of employers is likely to substantially improve accident prevention, claims
+handling for the employers and reduce expenses. [1983 c.706 §6; 1990 c.1 §4] 
+
+   
+
+       737.318
+Premium audit program for workers’ compensation insurance; rules; penalties. (1) A workers’ compensation
+insurer shall maintain a premium audit program to aid in achieving equitable
+premium charges to Oregon employers and for the collection of credible
+statewide data for ratemaking. 
+
+       (2) The Director
+of the Department of Consumer and Business Services shall prescribe by rule a
+premium audit program system for workers’ compensation insurance. 
+
+       (3) The premium
+audit system shall include provisions for: 
+
+       (a) Employer
+education of the audit reporting function of the rating system; 
+
+       (b) A continuing
+test audit program providing for auditing of all insurers; 
+
+       (c) A continuous
+monitoring of the audit program system pursuant to ORS 737.235; 
+
+       (d) An appeal
+process pursuant to ORS 737.505 for employers to question the results of a
+premium audit. This process must include written notification to the employer
+that is included in the final premium audit billing that informs the employer
+of appeal rights to the director under ORS 737.505, of the requirement that a
+written request to initiate an appeal must be received by the director not
+later than the 60th day after the employer receives the final premium audit
+billing and of any other information the director may request by rule; and 
+
+       (e) Civil
+penalties pursuant to ORS 731.988 for violations of prescribed standards of the
+premium audit system. 
+
+       (4)
+Notwithstanding ORS 737.505, the provisions of this section apply to all
+premium audit disputes between employers and insurers in existence on July 20,
+1987, regardless of the policy year involved or the date of the final audit
+billing. [1987 c.884 §8; 1999 c.1020 §5] 
+
+   
+
+       737.320 Review
+of certain filings; effective date of filings; investigation and evaluation of
+workers’ compensation rate filings. 
+(1) The Director of the Department of Consumer and Business Services shall
+review title insurance filings, and each workers’ compensation insurance
+filing, as soon as reasonably possible after they have been made in order to
+determine whether they meet the requirements of this chapter. 
+
+       (2) The effective
+date of each title and workers’ compensation insurance filing shall be the date
+specified therein but not earlier than the 30th day after the date the filing
+is received by the director or from the date of receipt of the information
+furnished in support of a filing or specific portions of such filing if such
+supporting information is required by the director. The waiting period may be
+extended by the director for not more than 30 days if the director gives
+written notice within such waiting period to the insurer or rating organization
+which made the filing that the director needs such additional time for the
+consideration of such filing or specific portions of such filing. Upon written
+application by such insurer or rating organization, the director may authorize
+a filing or specific portions of such filing, which the director has reviewed,
+to become effective before the expiration of the waiting period. A filing or
+portions of a filing shall be deemed to meet the requirements of this chapter
+unless disapproved by the director within the waiting period or any extension
+thereof. 
+
+       (3) Filings of
+workers’ compensation rates, rating plans and rating systems by a workers’
+compensation rating organization shall be limited to provisions for claim
+payment approved or established by the director, and shall not include
+allowances for or recognition of expenses, taxes or profit. A workers’
+compensation rating organization shall make such filings with the director,
+which filings shall be subject to this section. The organization shall also
+file the workers’ compensation policy forms to be used by its members. The filing
+shall include a report of investment income. 
+
+       (4) Filings of
+workers’ compensation rates by an insurer shall specify allowances for
+expenses, taxes and profits. 
+
+       (5) The director
+shall investigate and evaluate all workers’ compensation filings to determine
+whether the filings meet the requirements of this chapter. The director shall
+employ such experts and other personnel as may be reasonably necessary to make
+such investigation and evaluation, the cost of which shall be paid out of the
+fund created under ORS 705.145. 
+
+       (6)
+Notwithstanding the provisions of ORS 737.205 (1), the director may require any
+person to comply with the requirements of subsection (2) of this section if the
+director has good cause to believe that a reasonable degree of competition does
+not exist in the area with respect to the classification to which such rate is
+applicable. 
+
+       (7) The director
+may require insurers to use, as that portion of a rate filing that constitutes
+the amount for claim payment, rates prescribed by the director based upon
+rating information determined pursuant to ORS 731.216 (3). [Amended by 1967
+c.359 §310; 1969 c.690 §5; 1973 c.353 §1; 1981 c.535 §20; 1981 c.874 §20; 1985
+c.706 §5; 1987 c.373 §83a; 1987 c.884 §51; 1989 c.171 §83; 1989 c.700 §12] 
+
+   
+
+       737.322 Rating
+plan approval; rules; hearing on disapproval; costs. Notwithstanding any other
+provision of this chapter: 
+
+       (1) The Director
+of the Department of Consumer and Business Services shall adopt rules providing
+for approval of workers’ compensation rating plans that include provisions
+allowing for reasonable retroactive application of experience rating
+modification factors. Nothing in this subsection affects retrospective rating
+plans. 
+
+       (2) If the
+director disapproves a workers’ compensation rate or rating plan and the
+insurer or rating organization requests a hearing before the director, the
+burden of proof is upon the insurer or rating organization to prove that the
+filing meets the requirements of this chapter. 
+
+       (3) If the
+director holds a hearing on an order disapproving a workers’ compensation rate,
+rating plan or rating system, the insurer or rating or advisory organization
+filing or using the rate, rating plan or rating system shall pay to the
+director the just and legitimate costs of the hearing, including actual
+necessary expenses. [1987 c.884 §49; 2007 c.275 §1] 
+
+   
+
+       737.325
+Suspension or modification of filing requirement; rules; excess rates for
+specific risks. 
+(1) Under such rules and regulations as the Director of the Department of
+Consumer and Business Services adopts, the director, by written order, may
+suspend or modify the requirement of filing as to any class of insurance, or
+subdivision or combination thereof, or as to classes of risks, for which the
+rates cannot practicably be filed before they are used. Such orders, rules and
+regulations shall be made known to insurers and rating organizations affected
+thereby. The director may make such examination as the director deems advisable
+to ascertain whether any rates affected by such order meet the standards set
+forth in ORS 737.310. 
+
+       (2) Upon the
+written application of the insured, stating the reasons therefor, filed with
+the director and approved by the director, a rate in excess of that provided by
+a filing otherwise applicable may be used on any specific risk. [Amended by
+1967 c.359 §311] 
+
+   
+
+       737.330
+Contracts to comply with effective filings; exception. (1) No insurer shall make or issue
+a policy except in accordance with the filings which are in effect for the
+insurer as provided in this chapter. 
+
+       (2) This section
+does not apply to policies for inland marine risks as to which filings are not
+required. [Amended by 1967 c.359 §312; 1969 c.690 §6] 
+
+   
+
+       737.335 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.336
+Disapproval of filings by director; noncompliance with chapter. (1) If within the waiting period
+or the extension thereof, if any, as provided in ORS 737.320 (2), the Director
+of the Department of Consumer and Business Services finds that a filing does
+not meet the requirements of this chapter, the director shall send to the
+insurer or rating organization which made such filing written notice of
+disapproval of such filing, specifying therein in what respects the director
+finds such filing fails to meet the requirements and stating that such filing
+shall not become effective. 
+
+       (2) If the
+director has reason to believe that an insurer or rating or advisory
+organization is not complying with the requirements and standards of this
+chapter other than the requirements and standards dealing with rates, rating
+plans or rating systems, unless the director has reason to believe such
+noncompliance is willful, the director shall give notice in writing to such
+insurer or rating or advisory organization stating in what manner such
+noncompliance is alleged to exist and specifying a reasonable time, not less
+than 10 days after the date of mailing, in which such noncompliance may be
+corrected. [1967 c.359 §313; 1969 c.690 §7; 1987 c.774 §144] 
+
+   
+
+       737.340
+Initiation of proceedings by aggrieved person to determine lawfulness of
+filings; hearing. 
+(1) Any person aggrieved with respect to any filing that is in effect, other
+than the insurer or rating organization that made the filing, may make written
+application to the Director of the Department of Consumer and Business Services
+for a hearing on the filing. The application shall specify the grounds to be
+relied upon by the applicant. 
+
+       (2) If the
+director finds that the application is made in good faith, that the applicant
+would be so aggrieved if the grounds are established, and that such grounds
+otherwise justify holding such a hearing, the director shall do one of the
+following: 
+
+       (a) Issue an
+order under ORS 737.045 (1). The director shall not act under this paragraph if
+the filing concerns a rate, rating plan or rating system subject to ORS 737.320
+(1). 
+
+       (b) Hold a
+hearing, within 30 days after receipt of such application, at a place
+designated by the director and upon not less than 10 days’ written notice to
+the applicant and to the insurer or rating organization that made the filing. [Amended
+by 1967 c.359 §314; 1969 c.690 §9; 1987 c.774 §145] 
+
+   
+
+       737.342
+Hearing and order procedure. 
+Conduct of the hearing, issuance of orders pursuant thereto and judicial review
+of orders shall be as provided in ORS chapter 183. [1971 c.734 §181] 
+
+   
+
+       737.345 [Amended by 1967 c.359 §315;
+repealed by 1969 c.690 §29] 
+
+   
+
+       737.346 [Formerly 737.512; 1977 c.428 §5;
+1979 c.850 §4; 1983 c.754 §1; 1985 c.484 §1; 1987 c.774 §71; 1995 c.79 §362;
+1995 c.278 §58; 1995 c.306 §40; renumbered 737.600 in 1999] 
+
+   
+
+       737.348 [Formerly 736.170; 1975 c.556 §50;
+repealed by 1977 c.405 §6] 
+
+   
+
+ RATING ORGANIZATIONS 
+
+   
+
+       737.350
+Application for license by rating organization. No rating organization shall
+conduct its operations in this state without first filing with the Director of
+the Department of Consumer and Business Services a written application for a
+license as a rating organization for such classes of insurance, or subdivision
+or class of risk or a part or combination thereof as are specified in its
+application and shall file therewith: 
+
+       (1) A copy of its
+constitution, its articles of agreement or association or its certificate of
+incorporation, and of its bylaws, rules and regulations governing the conduct
+of its business. 
+
+       (2) A list of its
+members and subscribers. 
+
+       (3) The name and
+address of a resident of this state upon whom notices or orders of the director
+or process affecting such rating organization may be served. 
+
+       (4) A statement
+of its qualifications as a rating organization. This statement shall be on
+forms prescribed and furnished by the director and shall include: 
+
+       (a) In the case
+of a fire insurance rating organization, a showing as to its facilities for
+inspecting and surveying the various municipalities and fire risks in this
+state and for inspecting and surveying in this state the facilities for the
+preventing, confining and extinguishing of fires and such other information as
+the director may require; and 
+
+       (b) In the case
+of a title insurance rating organization, a showing that adequate
+representation, as determined by the director, is provided for title insurance
+producers. [Amended by 1967 c.359 §318; 1969 c.690 §18; 1979 c.501 §2; 2003
+c.364 §97] 
+
+   
+
+       737.355
+Licensing rating organizations generally; licensing workers’ compensation
+rating organizations; rules; revocation and suspension; fees. (1) If the Director of the
+Department of Consumer and Business Services finds that the applicant
+represents a credible statistical base, is competent, trustworthy and otherwise
+qualified to act as a rating organization and that its constitution, articles
+of agreement or association or certificate of incorporation, and its bylaws,
+rules and regulations governing the conduct of its business conform to the
+requirements of law, the director shall issue a license specifying the classes
+of insurance, or subdivision or class of risk or a part or combination thereof
+for which the applicant is authorized to act as a rating organization. Each
+application shall be granted or denied in whole or in part by the director
+within 60 days of the date of its filing with the director. 
+
+       (2) The director
+need not issue a license to each workers’ compensation rating organization that
+meets the qualifications and requirements of subsection (1) of this section.
+Instead, the director may issue licenses to one or more qualifying workers’
+compensation rating organizations pursuant to a selection process established
+by rule. At the end of the period for which one or more licenses are issued,
+the director may do the following pursuant to the selection process established
+by rule under this subsection: 
+
+       (a) Renew a
+license or issue a license to another workers’ compensation rating
+organization; and 
+
+       (b) Renew or
+issue licenses to more than one workers’ compensation rating organization. 
+
+       (3) A license
+issued pursuant to this section shall remain in effect for three years unless
+suspended or revoked by the director. The license fee shall be as established
+by the director. A license issued pursuant to this section may be suspended or
+revoked by the director, after a hearing upon notice, in the event the rating
+organization ceases to meet the requirements of this section. If a license is
+issued to only one workers’ compensation rating organization and the license is
+suspended or revoked, the director may issue a license to another workers’
+compensation rating organization for the remainder of the period for which the
+suspended or revoked license was issued. 
+
+       (4) Each rating
+organization shall notify the director promptly of every change regarding
+matters listed in ORS 737.350 (1), (2) and (3). 
+
+       (5) As a
+condition of receiving and holding its license, a workers’ compensation rating
+organization must exchange data with other licensed workers’ compensation
+rating organizations pursuant to rules adopted by the director that may include
+establishing fees for the exchange of data. [Amended by 1967 c.359 §319; 1971
+c.385 §5; 1989 c.413 §9; 1999 c.235 §1] 
+
+   
+
+       737.360 Rating
+organization to accept insurers as subscribers; rules of organization to be
+reasonable; review of applications for subscribership and of reasonableness of
+rules. (1) Subject
+to rules and regulations which have been approved by the Director of the
+Department of Consumer and Business Services as reasonable, each rating
+organization shall permit any insurer, not a member, to be a subscriber to its
+rating services for any class of insurance, subdivision or class of risk or a
+part or combination thereof for which it is authorized to act as a rating
+organization. Notice of proposed changes in such rules and regulations shall be
+given to subscribers. 
+
+       (2) Each rating
+organization shall furnish its rating services without discrimination to its
+members and subscribers. Any rating organization may subscribe to or purchase
+actuarial, technical or other services, and such services shall be available to
+all members and subscribers without discrimination. 
+
+       (3) The
+reasonableness of any rule or regulation in its application to subscribers, or
+the refusal of any rating organization to admit an insurer as a subscriber, at
+the request of any subscriber or any such insurer, shall be reviewed by the
+director at a hearing held at a place designated by the director and upon at
+least 10 days’ written notice to such rating organization and to such
+subscriber or insurer. If the director finds that such rule or regulation is
+unreasonable in its application to subscribers, the director shall order that
+such rule or regulation shall not be applicable to subscribers. If the rating
+organization fails to grant or reject an insurer’s application for subscribership
+within 30 days after it was made, the insurer may request a review by the
+director as if the application had been rejected. If the director finds that
+the insurer has been refused admittance to the rating organization as a
+subscriber without justification, the director shall order the rating
+organization to admit the insurer as a subscriber. If the director finds that
+the action of the rating organization was justified, the director shall make an
+order affirming its action. 
+
+       (4) No rating
+organization shall adopt any rule, the effect of which would be to prohibit or
+regulate the payment of dividends, savings or unabsorbed premium deposits
+allowed or returned by insurers to their policyholders, members or subscribers.
+[Amended by 1967 c.359 §320] 
+
+   
+
+       737.365
+Cooperative activities among rating organizations and insurers. (1) Cooperation among rating
+organizations or among rating organizations and insurers in rate making or in
+other matters within the scope of this chapter hereby is authorized, provided
+the filings resulting from such cooperation are subject to and consistent with
+those sections which are applicable to filings generally. 
+
+       (2) The Director
+of the Department of Consumer and Business Services may review such cooperative
+activities and practices and if, after a hearing, the director finds that any
+such activity or practice is unfair or unreasonable or otherwise inconsistent with
+this chapter, the director may issue a written order specifying in what
+respects such activity or practice is unfair or unreasonable or otherwise
+inconsistent with those sections and requiring the discontinuance of such
+activity or practice. [Amended by 1967 c.359 §321; 1969 c.690 §20] 
+
+   
+
+       737.370 [Amended by 1967 c.359 §322;
+repealed by 1969 c.690 §29] 
+
+   
+
+       737.375 [Amended by 1967 c.359 §323;
+repealed by 1969 c.690 §29] 
+
+   
+
+       737.380 [Amended by 1967 c.359 §324;
+repealed by 1969 c.690 §29] 
+
+   
+
+       737.385 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.386 [1967 c.359 §325; repealed by 1969
+c.690 §29] 
+
+   
+
+       737.390
+Regulation of joint underwriting and joint reinsurance. No group, association or other
+organization of insurers which engages in joint underwriting or joint
+reinsurance shall engage in any activity which is unfair, unreasonable or
+otherwise inconsistent with the provisions of this chapter. [Amended by 1967
+c.359 §326; 1969 c.690 §22] 
+
+   
+
+       737.505
+Insured entitled to rate information; remedies of aggrieved persons. (1) Every rating organization and
+every insurer which makes its own rates, within a reasonable time after
+receiving written request therefor and upon payment of such reasonable charge
+as it may make, shall furnish to any insured affected by a rate made by it, or
+to the authorized representative of such insured, all pertinent information as
+to such rate. 
+
+       (2) Every rating
+organization and every insurer which makes its own rates shall provide within
+this state reasonable means whereby any person aggrieved by the application of
+its rating system may be heard, in person or by the authorized representative,
+on written request by the person or authorized representative to review the
+manner in which such rating system has been applied in connection with the
+insurance afforded the person. If the rating organization or insurer fails to
+grant or reject such request within 30 days after it is made, the applicant may
+proceed in the same manner as if the application had been rejected. 
+
+       (3) Any party
+affected by the action of such rating organization or such insurer on such
+request, within 30 days after written notice of such action, may appeal to the
+Director of the Department of Consumer and Business Services, who, after a
+hearing held at a place designated by the director upon not less than 10 days’
+written notice to the appellant and to such rating organization or insurer,
+shall affirm or reverse such action. 
+
+       (4) Appeals to
+the director pursuant to ORS 737.318 with regard to a final premium audit
+billing must be made within 60 days after receipt of the billing. 
+
+       (5) The director
+may, upon a showing of good cause, stay any workers’ compensation insurer’s
+collection effort on a final premium audit billing during the pendency of an
+appeal authorized by subsection (4) of this section. [Amended by 1967 c.359 §327;
+1987 c.884 §6] 
+
+   
+
+       737.510
+Advisory organizations; registration; jurisdiction of director to restrict
+unfair practices. 
+(1) Every advisory organization shall file with the Director of the Department
+of Consumer and Business Services: 
+
+       (a) A copy of its
+constitution, its articles of agreement or association or its certificate of
+incorporation and of its bylaws, rules and regulations governing its
+activities. 
+
+       (b) A list of its
+members. 
+
+       (c) The name and
+address of a resident of this state upon whom notices may be served. 
+
+       (d) An agreement
+that the director may examine such advisory organization in accordance with ORS
+737.515. 
+
+       (2) Any insurer
+which makes its own filings or any rating organization may support its filings
+by statistics or adopt rate-making recommendations furnished to it by an
+advisory organization which has complied with this section. If, after a
+hearing, the director finds that the furnishing of such information or
+assistance involves any act or practice which is unfair or unreasonable or
+otherwise inconsistent with this chapter, the director may issue a written
+order specifying in what respects such act or practice is unfair or
+unreasonable or otherwise inconsistent with this chapter. If the act or
+practice thus specified is not modified to comply with such order, the director
+may issue an order requiring any insurer which makes its own filings or any
+rating organization to discontinue the use of the statistics or rate-making
+recommendations furnished to it by such advisory organization. [Amended by 1967
+c.359 §328; 1969 c.690 §23] 
+
+   
+
+       737.512 [1959 c.324 §2; 1967 c.359 §316;
+renumbered 737.346] 
+
+   
+
+       737.515
+Examination of rating, advisory and other organizations; payment of costs;
+acceptance of report from another state. (1) The Director of the Department of Consumer and
+Business Services shall make or cause to be made an examination of each rating
+and advisory organization complying with and referred to in ORS 737.350 or
+737.510 and of each organization referred to in ORS 737.390 as often as the
+director deems expedient. 
+
+       (2) The
+reasonable costs of any such examination shall be paid by the organization
+examined, upon presentation to it of a detailed account of such costs. The
+officers, manager, agents and employees of any such organization may be
+examined at any time under oath and shall exhibit all books, records, accounts,
+documents or agreements governing its methods of operation. 
+
+       (3) All such
+examinations shall be conducted as provided in ORS 731.300 to 731.316. 
+
+       (4) In lieu of
+any such examination the director may accept the report of an examination made
+by the insurance supervisory official of another state, pursuant to the laws of
+such state. [Amended by 1967 c.359 §329; 2011 c.45 §1] 
+
+   
+
+       737.520 [Amended by 1967 c.359 §330;
+repealed by 1969 c.690 §29] 
+
+   
+
+       737.525 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.526
+Interchange of data; rules; promoting uniformity of rating laws. (1) Reasonable rules and plans may
+be promulgated by the Director of the Department of Consumer and Business
+Services for the interchange of data necessary for the application of rating
+plans. 
+
+       (2) In order to
+further uniform administration of rate regulatory laws, the director and every
+insurer and rating organization may exchange information and experience data
+with insurance supervisory officials, insurers and rating organizations in
+other states and may consult and cooperate with them with respect to rate
+making and the application of rating systems. [1967 c.359 §331] 
+
+   
+
+       737.530 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.535
+Withholding or giving false information prohibited. No person shall willfully withhold
+information from or knowingly give false or misleading information to the
+Director of the Department of Consumer and Business Services, to any
+statistical agency designated by the director, to any rating organization, or
+to any insurer, which will affect the rates or premiums chargeable under this
+chapter. [Amended by 1967 c.359 §332; 1969 c.690 §24] 
+
+   
+
+       737.540 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.545
+Procedure for suspension of rating organization license. The Director of the Department of
+Consumer and Business Services may suspend the license of any rating
+organization which fails to comply with an order of the director within the
+time limited by such order, or any extension thereof which the director may
+grant. The director shall not suspend the license of any rating organization
+for failure to comply with an order until the time prescribed for an appeal
+therefrom has expired or, if an appeal has been taken, until such order has
+been affirmed. The director may determine when a suspension of license shall
+become effective, and it shall remain in effect for the period fixed by the
+director, unless the director modifies or rescinds such suspension, or until
+the order upon which such suspension is based is modified, rescinded or
+reversed. [Amended by 1967 c.359 §333] 
+
+   
+
+       737.547 [1971 c.734 §183; repealed by 1975
+c.769 §10] 
+
+   
+
+       737.550 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.555 [Repealed by 1967 c.359 §704] 
+
+   
+
+       737.560 Rating
+organization membership. 
+(1) Except as provided in subsection (2) of this section, nothing contained in
+this chapter shall be construed as requiring any insurer to become a member of
+or a subscriber to any rating organization. 
+
+       (2) Each workers’
+compensation insurer, including the State Accident Insurance Fund Corporation,
+shall be a member of a licensed workers’ compensation rating organization. [Amended
+by 1967 c.359 §334; 1969 c.690 §25; 1981 c.535 §21; 1999 c.235 §5] 
+
+   
+
+ FICTITIOUS GROUPINGS 
+
+   
+
+       737.600
+Fictitious grouping for rate purposes prohibited; rules; exceptions. (1) As used in this section, “fictitious
+grouping” means a grouping by way of membership, license, franchise, contract,
+agreement or any method other than common ownership, or use and control. 
+
+       (2) An insurer
+may not: 
+
+       (a) Make
+available, through any rating plan or form, property, inland marine, casualty
+or surety insurance, or any combination thereof, at a preferred rate or premium
+to any person based upon a fictitious grouping of that person. 
+
+       (b) Write or
+deliver a form, plan or policy of insurance covering a grouping or combination
+of persons or risks, any of which are within this state, at a preferred rate or
+form other than that offered to the public generally and persons not in the
+group, unless the form, plan or policy and the rates or premiums to be charged
+therefor have been approved by the Director of the Department of Consumer and
+Business Services. The director shall not approve any form, plan or policy, or
+the rates therefor, that would constitute a violation of paragraph (a) of this
+subsection. 
+
+       (3) This section
+does not apply to: 
+
+       (a) Policies of
+life or health insurance; 
+
+       (b) Insurance for
+public bodies as defined in ORS 30.260; 
+
+       (c) Insurance for
+employers subject to ORS chapter 656 who are primarily engaged in farming. Any
+contract negotiated by an exempt farming group, including the rate, shall be
+restricted to members of the group; 
+
+       (d) Property and
+casualty insurance policies for personal, family or household purposes, and not
+for commercial or business purposes, under the following conditions: 
+
+       (A) If the
+policies are offered to members of an association, including a labor union,
+which has had an active existence for at least one year, has a constitution and
+bylaws and is maintained in good faith for purposes other than that of
+obtaining insurance; 
+
+       (B) If the
+policies are based on premiums that are adequate to support coverage of the
+group without subsidy by other rate payers; and 
+
+       (C) If the
+insurer does not unfairly discriminate against holders of other insurance
+policies; 
+
+       (e) Liability and
+property insurance required under ORS 825.160 for persons who apply for or who
+have received authority issued by the Department of Transportation under ORS
+chapter 825 to transport logs, poles, pilings, peeler cores, lumber, shingles,
+veneer, plywood, particle board, wallboard, siding, cordwood in long or short
+lengths, sawdust, hog fuel, wood chips, wood pellets, bark dust or cut trees
+that are or will be sold for use as Christmas trees; 
+
+       (f) Liability or
+casualty insurance issued in this state on commercial risks, if: 
+
+       (A) The policy
+requires active participation in a plan of risk management which has
+established measures and procedures to minimize both the frequency and severity
+of losses; 
+
+       (B) The policy
+passes on the benefits of reduced losses to plan participants; and 
+
+       (C) Rates are
+actuarially measurable and credible and sufficiently related to actual and
+expected loss and expense experience of the group so as to assure that
+nonmembers of the group are not unfairly discriminated against; 
+
+       (g) Insurance for
+child care facilities that are certified in accordance with ORS chapter 329A;
+or 
+
+       (h) Liability
+insurance for contractors licensed under ORS chapter 701. 
+
+       (4) Under ORS
+731.244, the director shall make rules necessary for implementation of this
+section. [Formerly 737.346; 2007 c.210 §1] 
+
+   
+
+       737.602
+Authorization for insurance for certain projects; premiums; qualifications. (1) As used in this section: 
+
+       (a) “Project”
+means a construction project, a plant expansion or improvements within Oregon
+with an aggregate construction value in excess of $90 million that is to be
+completed within a defined period. The average construction value during the
+defined period of the project must be at least $18 million per year. “Project”
+does not mean a series of unrelated construction projects artificially
+aggregated to satisfy the $90 million requirement. 
+
+       (b) “Project
+sponsor” means public bodies, utilities, corporations and firms undertaking to
+construct a project in excess of $90 million and conducting business in the
+State of Oregon. 
+
+       (c) “Public body”
+has the meaning given the term in ORS 30.260. 
+
+       (2)
+Notwithstanding ORS 279C.530, 656.126, 737.600 or 746.160, an insurer approved
+to transact insurance in this state, including the State Accident Insurance
+Fund Corporation or an insurer as defined in ORS 656.005, may issue with the
+prior approval of the Director of the Department of Consumer and Business
+Services a policy of insurance covering the project sponsor, the prime
+contractor under a contract for the construction of the project, any
+contractors or subcontractors with whom the prime contractor may enter into
+contracts for the purpose of fulfilling its contractual obligations in
+construction of the project and any other contractors engaged by a project
+sponsor to provide architectural or other design services, engineering
+services, construction management services, other consulting services relating
+to the design and construction of the project or any combination thereof. 
+
+       (3) The following
+provisions apply to premiums under a policy of insurance described in
+subsection (2) of this section: 
+
+       (a) A project
+sponsor or a prime contractor may not charge a premium for coverage under a
+policy of insurance to a contractor or subcontractor with whom the project
+sponsor or prime contractor enters into a contract or engages for services
+described in subsection (2) of this section. 
+
+       (b) A prime
+contractor may not charge a project sponsor a premium for coverage under a
+policy of insurance other than a premium approved by the director under ORS
+chapter 737 prior to or at the same time as the director approves the project
+to which the policy applies. 
+
+       (c) Charging a
+premium prohibited by this subsection constitutes the unlawful transaction of
+insurance in violation of ORS 731.354. 
+
+       (4) The director,
+upon application of any insurer, shall approve the issuance of a policy of
+insurance to any grouping of the persons described in subsection (2) of this
+section if: 
+
+       (a) The grouping
+was formed for the purpose of performing a contract or a series of related
+contracts for the design and construction of a project for the project sponsor; 
+
+       (b) The project
+sponsor can reasonably demonstrate that the formation and operation of the
+grouping will substantially improve accident prevention and claims handling to
+the benefit of the project sponsor and the contractors and workers employed by
+the project sponsor on construction related projects; 
+
+       (c) The
+established rating and auditing standards required by authorized advisory
+organizations and rating organizations are adhered to; 
+
+       (d) The insurer
+for the grouping guarantees adequate protection to any other insurance producer
+that demonstrates that without such protection the producer will suffer losses
+that will constitute a threat to the continuation of the business of the producer; 
+
+       (e) The insurer
+for the grouping guarantees insurance coverage of the classes of insurance
+issued to the grouping to any contractor who, because of participation in the
+group, has been unable to maintain the contractor’s normal coverage. The
+insurer’s obligation under this paragraph shall continue until 12 months after
+substantial completion of the contractor’s work; 
+
+       (f) By permitting
+this grouping for a project sponsor, greater opportunities will be made
+available for historically underutilized businesses to bid on the project; 
+
+       (g) The project
+insurers agree to provide not less than 90 days’ notice to all insured parties
+of the cancellation or any material reduction in coverage for the project; 
+
+       (h) The insurance
+coverage for the grouping contains a severability of interest clause with
+respect to liability claims between individuals insured under the group policy
+and includes contractual liability coverage that applies to the various
+contracts and subcontracts entered into in connection with the project; and 
+
+       (i) The insurer
+places with the Department of Consumer and Business Services a special deposit
+of $25,000 per $100 million of construction project value, or an amount
+prescribed by rule of the director, whichever is greater. [1995 c.169 §2; 1999
+c.196 §12; 1999 c.482 §1; 2003 c.364 §98; 2003 c.794 §326; 2007 c.241 §28] 
+
+   
+
+       Note: 737.602 was added to and made a
+part of the Insurance Code by legislative action but was not added to ORS
+chapter 737 or any series therein. See Preface to Oregon Revised Statutes for
+further explanation. 
+
+   
+
+       737.604 Rules. In addition to other rulemaking
+authority of the Director of the Department of Consumer and Business Services,
+the director may make rules: 
+
+       (1) Stating the
+necessary attributes that a construction project of a project sponsor and the
+participants in the project must have in order to qualify for the grouping
+permitted under ORS 737.602. The rules may include but are not limited to
+matters regarding an appropriate trust agreement for special deposit and
+adjustment of the construction project value according to an appropriate cost
+index; and 
+
+       (2) Establishing
+a process for a state agency or local contract review board created under ORS
+279A.060 to evaluate the purchase by a public body of insurance authorized by
+ORS 737.602, or any agreements related thereto. [1995 c.169 §3; 2003 c.794 §327] 
+
+   
+
+       Note: 737.604 was added to and made a
+part of the Insurance Code by legislative action but was not added to ORS
+chapter 737 or any series therein. See Preface to Oregon Revised Statutes for
+further explanation. 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

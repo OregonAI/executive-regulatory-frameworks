@@ -1,0 +1,3561 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+ Chapter
+679 — Dentists 
+
+   
+
+ ORS sections in this
+chapter were amended or repealed by the Legislative Assembly during its 2026
+regular session. See the table of ORS sections amended or repealed during the
+2026 regular session: 2026
+A&R Tables 
+
+   
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ DENTISTS 
+
+   
+
+ OCCUPATIONS AND PROFESSIONS 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 679.010     Definitions 
+
+   
+
+ 679.020     Practice of dentistry
+or operating dental office without license prohibited; exceptions 
+
+   
+
+ 679.022     Exemption from naming
+licensed dentist as director for accredited institutions and programs 
+
+   
+
+ 679.025     License required to
+practice dentistry; exemptions 
+
+   
+
+ 679.027     Enjoining violations 
+
+   
+
+ 679.050     Nonresident dentists
+giving or receiving instruction; hospital permits 
+
+   
+
+ LICENSING 
+
+   
+
+ 679.060     Application for
+license; fees; grounds for refusal of license 
+
+   
+
+ 679.065     Qualifications of
+applicants; rules 
+
+   
+
+ 679.070     Examination; acceptable
+results 
+
+   
+
+ 679.080     Reexamination of
+applicants; rules 
+
+   
+
+ 679.090     Issuance of license 
+
+   
+
+ 679.115     Licensing of dental
+instructor; requirements 
+
+   
+
+ 679.120     Fees; waiver of fee;
+rules; renewal of license; notice of change of address 
+
+   
+
+ 679.140     Discipline of licensee;
+grounds; procedure; sanctions 
+
+   
+
+ 679.160     Appeal from board
+decision 
+
+   
+
+ 679.165     Automatic suspension of
+license in case of mental disorder 
+
+   
+
+ 679.170     Prohibited practices 
+
+   
+
+ 679.176     Written work orders and
+sub-work orders required for certain services; retention period 
+
+   
+
+ 679.180     Enforcement;
+jurisdiction 
+
+   
+
+ OREGON BOARD OF DENTISTRY 
+
+   
+
+ 679.230     Oregon Board of
+Dentistry; appointment; qualifications; confirmation; compensation and expenses 
+
+   
+
+ 679.250     Powers and duties of
+board; rules 
+
+   
+
+ 679.253     Authority of board to
+require fingerprints 
+
+   
+
+ 679.255     Board to adopt
+standards for sedation during dental procedures; rules 
+
+   
+
+ 679.260     Oregon Board of
+Dentistry Account; disbursement of receipts 
+
+   
+
+ 679.280     Dental committees or
+consultants for improving standards of practice; liability; confidentiality of
+proceedings 
+
+   
+
+ 679.290     Failure to comply with
+subpoena issued by board 
+
+   
+
+ 679.300     Privileged data;
+admissibility of data as evidence in judicial proceedings 
+
+   
+
+ 679.310     Duty to report
+violations; exceptions; liability 
+
+   
+
+ 679.320     Confidentiality of
+information provided to board; limitation of liability 
+
+   
+
+ 679.323     Removal of individual
+disciplinary information; rules 
+
+   
+
+ 679.330     Advisory committee on
+dental assistant workforce shortage 
+
+   
+
+ MISCELLANEOUS 
+
+   
+
+ 679.500     Administration of local
+anesthesia for certain purposes; rules 
+
+   
+
+ 679.510     Liability insurance for
+retired dentist; requirements; rules 
+
+   
+
+ 679.520     Treatment of dental
+waste materials containing mercury 
+
+   
+
+ 679.525     Amalgam separators
+required in certain dental facilities 
+
+   
+
+ 679.535     Requirement to test
+heat sterilization device; rules 
+
+   
+
+ 679.540     Oral disease prevention
+services; reimbursement; rules 
+
+   
+
+ 679.543     Use of telehealth by
+dental care provider 
+
+   
+
+ 679.546     Advertising as
+specialist; requirements; rules 
+
+   
+
+ 679.549     Expression of regret or
+apology 
+
+   
+
+ 679.552     Prescription and
+administration of vaccines; approved training course; rules 
+
+   
+
+ 679.555     Rules for certification
+as dental assistant; examination requirements 
+
+   
+
+ DENTAL THERAPY 
+
+   
+
+ 679.600     Definitions for ORS
+679.600 to 679.630 
+
+   
+
+ 679.603     Dental therapy license 
+
+   
+
+ 679.606     Examinations,
+reexamination; acceptable results; rules 
+
+   
+
+ 679.609     Grounds for refusal to
+issue or renew license 
+
+   
+
+ 679.612     Prohibition on
+unauthorized practice, use of title; exceptions 
+
+   
+
+ 679.615     Fees; waiver of fees;
+license renewal 
+
+   
+
+ 679.618     Collaborative agreement
+required to practice dental therapy; required provisions; duties of dentist 
+
+   
+
+ 679.621     Dental therapist scope
+of practice; duties of dentist; authority of dental therapist to supervise 
+
+   
+
+ 679.624     Dental therapist
+authority to perform specified procedures; liability insurance; patient
+population requirement 
+
+   
+
+ 679.627     Discipline 
+
+   
+
+ 679.630     Rules 
+
+   
+
+ DENTAL LABORATORIES 
+
+   
+
+ 679.700     Definitions for ORS
+679.700 to 679.720 
+
+   
+
+ 679.705     Dental laboratory
+registration requirement; exceptions 
+
+   
+
+ 679.710     Dental laboratory
+registration; eligibility 
+
+   
+
+ 679.715     Material content and
+point of origin disclosures 
+
+   
+
+ 679.720     Discipline 
+
+   
+
+ 679.730     Rules 
+
+   
+
+   
+
+ PENALTIES 
+
+   
+
+ 679.991     Penalties for
+violations of ORS 679.020, 679.025, 679.170 or 679.176 
+
+   
+
+ 679.994     Penalties for
+violations of ORS 679.705 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       679.010
+Definitions. As
+used in this chapter and ORS 680.010 to 680.205, unless the context requires
+otherwise: 
+
+       (1) “Dental
+assistant” means a person who, under the supervision of a dentist or dental
+therapist, renders assistance to a dentist, dental therapist, dental hygienist,
+dental technician or another dental assistant or who, under the supervision of
+a dental hygienist, renders assistance to a dental hygienist providing dental
+hygiene. 
+
+       (2) “Dental
+hygiene” is that portion of dentistry that includes, but is not limited to: 
+
+       (a) The rendering
+of educational, preventive and therapeutic dental services and diagnosis and
+treatment planning for such services; 
+
+       (b) Prediagnostic
+risk assessment, scaling, root planing, curettage, the application of sealants
+and fluoride and any related intraoral or extraoral procedure required in the
+performance of such services; and 
+
+       (c) Prescribing,
+dispensing and administering prescription drugs for the services described in
+paragraphs (a) and (b) of this subsection. 
+
+       (3) “Dental
+hygienist” means a person who, under the supervision of a dentist, practices
+dental hygiene. 
+
+       (4) “Dental
+technician” means a person who, at the authorization of a dentist, makes,
+provides, repairs or alters dental prosthetic appliances and other artificial
+materials and devices that are returned to a dentist and inserted into the
+human oral cavity or that come in contact with its adjacent structures and
+tissues. 
+
+       (5) “Dental
+therapist” means a person licensed to practice dental therapy under ORS
+679.603. 
+
+       (6) “Dental
+therapy” means the provision of preventive dental care, restorative dental
+treatment and other educational, clinical and therapeutic patient services as
+part of a dental care team, including the services described under ORS 679.621. 
+
+       (7) “Dentist”
+means a person who may perform any intraoral or extraoral procedure required in
+the practice of dentistry. 
+
+       (8) “Dentist of
+record” means a dentist that either authorizes treatment for, supervises
+treatment of or provides treatment for a patient in a dental office or clinic
+owned or operated by an institution as described in ORS 679.020 (3). 
+
+       (9)(a) “Dentistry”
+means the healing art concerned with: 
+
+       (A) The
+examination, diagnosis, treatment planning, treatment, care and prevention of
+conditions within the human oral cavity and maxillofacial region, and of
+conditions of adjacent or related tissues and structures; and 
+
+       (B) The
+prescribing, dispensing and administering of prescription drugs for purposes
+related to the activities described in subparagraph (A) of this paragraph. 
+
+       (b) “Dentistry”
+includes, but is not limited to: 
+
+       (A) The cutting,
+altering, repairing, removing, replacing or repositioning of hard or soft
+tissues and other acts or procedures as determined by the Oregon Board of
+Dentistry and included in the curricula of: 
+
+       (i) Dental
+schools accredited by the Commission on Dental Accreditation of the American
+Dental Association; 
+
+       (ii)
+Post-graduate training programs; or 
+
+       (iii) Continuing
+education courses. 
+
+       (B) The
+prescription and administration of vaccines. 
+
+       (10) “Direct
+supervision” means supervision requiring that a dentist diagnose the condition
+to be treated, that a dentist authorize the procedure to be performed, and that
+a dentist remain in the dental treatment room while the procedures are
+performed. 
+
+       (11) “Expanded
+practice dental hygienist” means a dental hygienist who performs dental hygiene
+services in accordance with ORS 680.205 as authorized by an expanded practice
+dental hygienist permit issued by the board under ORS 680.200. 
+
+       (12) “General
+supervision” means supervision requiring that a dentist authorize the
+procedures by standing orders, practice agreements or collaboration agreements,
+but not requiring that a dentist be present when the authorized procedures are
+performed. The authorized procedures may also be performed at a place other
+than the usual place of practice of the dentist. 
+
+       (13) “Indirect
+supervision” means supervision requiring that a dentist authorize the
+procedures and that a dentist be on the premises while the procedures are
+performed. [Amended by 1983 c.169 §1; 1997 c.251 §4; 1999 c.188 §1; 2003 c.83 §1;
+2005 c.52 §2; 2007 c.379 §1; 2011 c.716 §3; 2013 c.310 §1; 2015 c.15 §1; 2015
+c.349 §1; 2019 c.58 §4; 2021 c.530 §13; 2025 c.199 §17] 
+
+   
+
+       Note: The amendments to 679.010 by
+section 17, chapter 199, Oregon Laws 2025, become operative July 1, 2026. See
+section 19, chapter 199, Oregon Laws 2025. The text that is operative until
+July 1, 2026, is set forth for the user’s convenience. 
+
+       679.010. As used in this chapter and ORS
+680.010 to 680.205, unless the context requires otherwise: 
+
+       (1) “Dental
+assistant” means a person who, under the supervision of a dentist or dental
+therapist, renders assistance to a dentist, dental therapist, dental hygienist,
+dental technician or another dental assistant or who, under the supervision of
+a dental hygienist, renders assistance to a dental hygienist providing dental
+hygiene. 
+
+       (2) “Dental
+hygiene” is that portion of dentistry that includes, but is not limited to: 
+
+       (a) The rendering
+of educational, preventive and therapeutic dental services and diagnosis and
+treatment planning for such services; 
+
+       (b) Prediagnostic
+risk assessment, scaling, root planing, curettage, the application of sealants
+and fluoride and any related intraoral or extraoral procedure required in the
+performance of such services; and 
+
+       (c) Prescribing,
+dispensing and administering prescription drugs for the services described in
+paragraphs (a) and (b) of this subsection. 
+
+       (3) “Dental
+hygienist” means a person who, under the supervision of a dentist, practices
+dental hygiene. 
+
+       (4) “Dental
+technician” means a person who, at the authorization of a dentist, makes,
+provides, repairs or alters oral prosthetic appliances and other artificial
+materials and devices that are returned to a dentist and inserted into the
+human oral cavity or that come in contact with its adjacent structures and
+tissues. 
+
+       (5) “Dental
+therapist” means a person licensed to practice dental therapy under ORS
+679.603. 
+
+       (6) “Dental
+therapy” means the provision of preventive dental care, restorative dental
+treatment and other educational, clinical and therapeutic patient services as
+part of a dental care team, including the services described under ORS 679.621. 
+
+       (7) “Dentist”
+means a person who may perform any intraoral or extraoral procedure required in
+the practice of dentistry. 
+
+       (8) “Dentist of
+record” means a dentist that either authorizes treatment for, supervises
+treatment of or provides treatment for a patient in a dental office or clinic
+owned or operated by an institution as described in ORS 679.020 (3). 
+
+       (9)(a) “Dentistry”
+means the healing art concerned with: 
+
+       (A) The
+examination, diagnosis, treatment planning, treatment, care and prevention of
+conditions within the human oral cavity and maxillofacial region, and of
+conditions of adjacent or related tissues and structures; and 
+
+       (B) The
+prescribing, dispensing and administering of prescription drugs for purposes
+related to the activities described in subparagraph (A) of this paragraph. 
+
+       (b) “Dentistry”
+includes, but is not limited to: 
+
+       (A) The cutting,
+altering, repairing, removing, replacing or repositioning of hard or soft
+tissues and other acts or procedures as determined by the Oregon Board of
+Dentistry and included in the curricula of: 
+
+       (i) Dental
+schools accredited by the Commission on Dental Accreditation of the American
+Dental Association; 
+
+       (ii)
+Post-graduate training programs; or 
+
+       (iii) Continuing
+education courses. 
+
+       (B) The
+prescription and administration of vaccines. 
+
+       (10) “Direct
+supervision” means supervision requiring that a dentist diagnose the condition
+to be treated, that a dentist authorize the procedure to be performed, and that
+a dentist remain in the dental treatment room while the procedures are
+performed. 
+
+       (11) “Expanded
+practice dental hygienist” means a dental hygienist who performs dental hygiene
+services in accordance with ORS 680.205 as authorized by an expanded practice
+dental hygienist permit issued by the board under ORS 680.200. 
+
+       (12) “General
+supervision” means supervision requiring that a dentist authorize the
+procedures by standing orders, practice agreements or collaboration agreements,
+but not requiring that a dentist be present when the authorized procedures are
+performed. The authorized procedures may also be performed at a place other
+than the usual place of practice of the dentist. 
+
+       (13) “Indirect
+supervision” means supervision requiring that a dentist authorize the
+procedures and that a dentist be on the premises while the procedures are
+performed. 
+
+   
+
+       679.020
+Practice of dentistry or operating dental office without license prohibited;
+exceptions. (1) A
+person may not practice dentistry without a license. 
+
+       (2) Only a person
+licensed as a dentist by the Oregon Board of Dentistry may own, operate,
+conduct or maintain a dental practice, office or clinic in this state. 
+
+       (3) The
+restrictions of subsection (2) of this section, as they relate to owning and
+operating a dental office or clinic, do not apply to a dental office or clinic
+owned or operated by any of the following: 
+
+       (a) A labor
+organization as defined in ORS 243.650 and 663.005 (6), or to any nonprofit
+organization formed by or on behalf of such labor organization for the purpose
+of providing dental services. Such labor organization must have had an active
+existence for at least three years, have a constitution and bylaws, and be
+maintained in good faith for purposes other than providing dental services. 
+
+       (b) The School of
+Dentistry of the Oregon Health and Science University. 
+
+       (c) Public
+universities listed in ORS 352.002. 
+
+       (d) Local
+governments. 
+
+       (e) Institutions
+or programs accredited by the Commission on Dental Accreditation of the
+American Dental Association to provide education and training. 
+
+       (f) Nonprofit
+corporations organized under Oregon law to provide dental services to rural
+areas and medically underserved populations of migrant, rural community or
+homeless individuals under 42 U.S.C. 254b or 254c or health centers qualified
+under 42 U.S.C. 1396d(l)(2)(B) operating in compliance with other applicable
+state and federal law. 
+
+       (g) Nonprofit
+charitable corporations as described in section 501(c)(3) of the Internal
+Revenue Code and determined by the Oregon Board of Dentistry as providing
+dental services by volunteer licensed dentists to populations with limited
+access to dental care at no charge or a substantially reduced charge. 
+
+       (h) Nonprofit
+charitable corporations as described in section 501(c)(3) of the Internal
+Revenue Code and determined by the Oregon Board of Dentistry as having an
+existing program that provides medical and dental care to medically underserved
+children with special needs at an existing single fixed location or multiple
+mobile locations. 
+
+       (4) For the
+purpose of owning or operating a dental office or clinic, an entity described
+in subsection (3) of this section must: 
+
+       (a) Except as
+provided in ORS 679.022, name an actively licensed dentist as its dental
+director, who shall be subject to the provisions of ORS 679.140 in the capacity
+as dental director. The dental director, or an actively licensed dentist
+designated by the director, shall have responsibility for the clinical practice
+of dentistry, which includes, but is not limited to: 
+
+       (A) Diagnosis of
+conditions within the human oral cavity and its adjacent tissues and
+structures. 
+
+       (B) Prescribing
+drugs that are administered to patients in the practice of dentistry. 
+
+       (C) The treatment
+plan of any dental patient. 
+
+       (D) Overall
+quality of patient care that is rendered or performed in the practice of
+dentistry. 
+
+       (E) Supervision
+of dental hygienists, dental assistants or other personnel involved in direct
+patient care and the authorization for procedures performed by them in
+accordance with the standards of supervision established by statute or by the
+rules of the board. 
+
+       (F) Other
+specific services within the scope of clinical dental practice. 
+
+       (G) Retention of
+patient dental records as required by statute or by rule of the board. 
+
+       (H) Ensuring that
+each patient receiving services from the dental office or clinic has a dentist
+of record. 
+
+       (I) The
+prescription and administration of vaccines. 
+
+       (b) Maintain
+current records of the names of licensed dentists who supervise the clinical
+activities of dental hygienists, dental assistants or other personnel involved
+in direct patient care utilized by the entity. The records must be available to
+the board upon written request. 
+
+       (5) Subsections
+(1) and (2) of this section do not apply to an expanded practice dental
+hygienist who renders services authorized by a permit issued by the board
+pursuant to ORS 680.200. 
+
+       (6) Nothing in
+this chapter precludes a person or entity not licensed by the board from: 
+
+       (a) Ownership or
+leasehold of any tangible or intangible assets used in a dental office or
+clinic. These assets include real property, furnishings, equipment and
+inventory but do not include dental records of patients related to clinical
+care. 
+
+       (b) Employing or
+contracting for the services of personnel other than licensed dentists. 
+
+       (c) Management of
+the business aspects of a dental office or clinic that do not include the
+clinical practice of dentistry. 
+
+       (7) If all of the
+ownership interests of a dentist or dentists in a dental office or clinic are
+held by an administrator, executor, personal representative, guardian,
+conservator or receiver of the estate of a former shareholder, member or
+partner, the administrator, executor, personal representative, guardian,
+conservator or receiver may retain the ownership interest for a period of 12
+months following the creation of the ownership interest. The board shall extend
+the ownership period for an additional 12 months upon 30 days’ notice and may
+grant additional extensions upon reasonable request. [Amended by 1977 c.192 §1;
+1985 c.323 §3; 1995 c.286 §29; 1997 c.251 §6; 2003 c.322 §1; 2009 c.223 §1;
+2011 c.637 §284; 2011 c.716 §4; 2013 c.310 §2; 2015 c.391 §1; 2019 c.58 §5;
+2021 c.366 §§11,12] 
+
+   
+
+       679.022
+Exemption from naming licensed dentist as director for accredited institutions
+and programs. (1)
+ORS 679.020 (4)(a) does not apply to institutions or programs accredited by the
+Commission on Dental Accreditation of the American Dental Association to
+provide education and training. 
+
+       (2) Institutions
+or programs described in subsection (1) of this section must: 
+
+       (a) Maintain a
+list of the dentists of record that provide dental care in a dental clinic or
+office owned or operated by the institution or program; and 
+
+       (b) Provide the
+list maintained under this subsection to the Oregon Board of Dentistry when
+requested by the board. [2013 c.310 §3] 
+
+   
+
+       679.025
+License required to practice dentistry; exemptions. (1) A person may not practice
+dentistry or purport to be a dentist without a valid license to practice
+dentistry issued by the Oregon Board of Dentistry. 
+
+       (2) Subsection
+(1) of this section does not apply to: 
+
+       (a) Dentists
+licensed in another state or country making a clinical presentation sponsored
+by a bona fide dental society or association or an accredited dental
+educational institution approved by the board. 
+
+       (b) Bona fide
+full-time students of dentistry who, during the period of their enrollment and
+as a part of the course of study in an Oregon accredited dental education
+program, engage in clinical studies on the premises of such institution or in a
+clinical setting located off the premises of the institution if the facility,
+the instructional staff and the course of study to be pursued at the
+off-premises location meet minimum requirements prescribed by the rules of the
+board and the clinical study is performed under the indirect supervision of a
+member of the faculty. 
+
+       (c) Bona fide
+full-time students of dentistry who, during the period of their enrollment and
+as a part of the course of study in a dental education program located outside
+of Oregon that is accredited by the Commission on Dental Accreditation of the
+American Dental Association or its successor agency, engage in community-based
+or clinical studies as an elective or required rotation in a clinical setting
+located in Oregon if the community-based or clinical studies meet minimum
+requirements prescribed by the rules of the board and are performed under the
+indirect supervision of a member of the faculty of the Oregon Health and
+Science University School of Dentistry. 
+
+       (d) Candidates
+who are preparing for a licensure examination to practice dentistry and whose
+application has been accepted by the board or its agent, if the clinical
+preparation is conducted in a clinic located on premises approved for that
+purpose by the board and if the procedures are limited to examination only.
+This exception shall exist for a period not to exceed two weeks immediately
+prior to a regularly scheduled licensure examination. 
+
+       (e) Dentists
+practicing in the discharge of official duties as employees of the United
+States Government and any of its agencies. 
+
+       (f) Instructors
+of dentistry, whether full- or part-time, while exclusively engaged in teaching
+activities and while employed in accredited dental educational institutions. 
+
+       (g) Dentists who
+are employed by public health agencies and who are not engaged in the direct
+delivery of clinical dental services to patients. 
+
+       (h) Persons
+licensed to practice medicine in the State of Oregon in the regular discharge
+of their duties. 
+
+       (i) Persons
+qualified to perform services relating to general anesthesia or sedation under
+the direct supervision of a licensed dentist. 
+
+       (j)(A) Dentists
+licensed in another country and in good standing, while practicing dentistry
+without compensation for no more than five consecutive days in any 12-month
+period, provided the dentist submits an application to the board at least 10
+days before practicing dentistry under this subparagraph and the application is
+approved by the board. 
+
+       (B) Dentists
+licensed in another state or United States territory and practicing in this
+state under ORS 676.347. 
+
+       (k) Persons
+practicing dentistry upon themselves as the patient. 
+
+       (L) Dental
+hygienists, dental assistants or dental technicians performing services under
+the supervision of a licensed dentist in accordance with the rules adopted by
+the board. 
+
+       (m) A person
+licensed as a denturist under ORS 680.500 to 680.565 engaged in the practice of
+denture technology. 
+
+       (n) An expanded
+practice dental hygienist who renders services authorized by a permit issued by
+the board pursuant to ORS 680.200. [1953 c.574 §2; 1955 c.560 §1; 1957 c.552 §4;
+1963 c.284 §1; 1971 c.48 §1; 1973 c.390 §1; 1975 c.693 §19; 1979 c.1 §16; 1983
+c.169 §2; 1993 c.142 §1; 1997 c.251 §5; 2005 c.504 §1; 2011 c.716 §5; 2012 c.80
+§1; 2013 c.114 §1; 2017 c.342 §1; 2022 c.62 §5] 
+
+   
+
+       679.026 [1971 c.48 §2; 1975 c.693 §20;
+1977 c.192 §2; 1981 c.185 §1; repealed by 1983 c.169 §34] 
+
+   
+
+       679.027
+Enjoining violations. 
+The Attorney General, or the prosecuting attorney of any county, or the Oregon
+Board of Dentistry, in its own name, may maintain an action for an injunction
+against any person violating any provision of ORS 679.020, 679.025, 679.170 or
+679.176. Any person who has been so enjoined may be punished for contempt by
+the court issuing the injunction. An injunction may be issued without proof of
+actual damage sustained by any person. An injunction shall not relieve a person
+from criminal prosecution for violation of any provision of ORS 679.020,
+679.025, 679.170 or 679.176 or from any other civil, criminal or disciplinary
+remedy. [1957 c.552 §2; 1963 c.284 §2; 1979 c.284 §192; 1983 c.169 §3] 
+
+   
+
+       679.030 [Amended by 1953 c.574 §5;
+repealed by 1977 c.192 §13] 
+
+   
+
+       679.040 [Amended by 1963 c.284 §3;
+repealed by 2003 c.83 §12] 
+
+   
+
+       679.050
+Nonresident dentists giving or receiving instruction; hospital permits. (1) If a reputable and duly
+licensed practitioner in dentistry of another state or country is asked to
+appear and demonstrate, receive or give instruction in the practice of
+dentistry before any qualified dental college or dental organization or dental study
+group recognized by the Oregon Board of Dentistry, the secretary of the board
+shall issue on written request of an authorized officer of such college or
+dental organization or dental study group, without fee, a permit for such
+purpose. A permit shall be issued upon such terms as the board shall prescribe. 
+
+       (2) If a
+reputable and duly licensed practitioner in dentistry of another state has been
+granted staff privileges, either limited, special or general, by any duly
+licensed hospital in this state, the secretary of the board shall issue on
+written request and verification of an authorized officer of such hospital, a
+permit for such nonresident practitioner to practice dentistry in said
+hospital. [Amended by 1963 c.284 §4; 1965 c.122 §3; 1967 c.282 §1; 1973 c.390 §2;
+2013 c.114 §2] 
+
+   
+
+ LICENSING 
+
+   
+
+       679.060
+Application for license; fees; grounds for refusal of license. (1) Any person desiring to
+practice dentistry in this state shall file an application with the Oregon
+Board of Dentistry. 
+
+       (2) At the time
+of making the application, the applicant shall: 
+
+       (a) Pay to the
+board the required application and examination fee. 
+
+       (b) Furnish the
+board with evidence satisfactory to the board of details of any convictions
+recorded in any police records. Such details are subject to the findings
+required by ORS 670.280. 
+
+       (c) Present to
+the board a diploma or evidence satisfactory to the board of having graduated
+from an accredited dental education program approved by the board. 
+
+       (3) If an
+applicant has been in practice in another state or states the applicant shall
+furnish an affidavit from the secretary of the board of dental examiners or
+similar body of such state or states that the applicant has been engaged in the
+legal practice of dentistry in such state or states for a period of time
+prescribed by the rules of the Oregon Board of Dentistry. 
+
+       (4) The board may
+refuse to issue a license to or renew a license of an applicant who has been
+convicted of a violation of the law if the board makes the findings required by
+ORS 670.280. A certified copy of the record of conviction is conclusive evidence
+of conviction. 
+
+       (5) The board may
+refuse to issue a license to or renew a license of an applicant who has been
+disciplined by a state licensing or regulatory agency of this or another state
+regarding any health care profession when, in the judgment of the board, the
+act or conduct resulting in the disciplinary action bears a demonstrable
+relationship to the ability of the licensee or applicant to practice dentistry
+in accordance with the provisions of this chapter. A certified copy of the
+record of the disciplinary action is conclusive evidence of the disciplinary
+action. 
+
+       (6) The board may
+refuse to issue a license to or renew a license of an applicant who has
+falsified a license application, or any person for any cause described under
+ORS 679.140 or 679.170. 
+
+       (7) Fees paid are
+not refundable. [Amended by 1963 c.284 §5; 1973 c.390 §3; 1973 c.827 §69; 1973
+c.829 §62a; 1977 c.444 §1; 1981 c.232 §1; 1983 c.169 §6; 1985 c.323 §4; 1995
+c.199 §1; 2003 c.83 §2] 
+
+   
+
+       679.065
+Qualifications of applicants; rules. 
+(1) An applicant for a dental license shall be entitled to take the examination
+to practice dentistry in Oregon if the applicant: 
+
+       (a) Is 18 years
+of age or older; and 
+
+       (b) Is a graduate
+of a dental school accredited by the Commission on Dental Accreditation of the
+American Dental Association or its successor agency, if any, which must have
+been approved by the Oregon Board of Dentistry. 
+
+       (2) Foreign
+trained graduates of dental programs may apply for the dental licensure
+examination, providing the applicant meets the board’s requirements, by rule,
+as will reasonably assure that an applicant’s training and education are
+sufficient for licensure. [1983 c.169 §5] 
+
+   
+
+       679.070
+Examination; acceptable results. 
+(1) The Oregon Board of Dentistry may administer written, laboratory or
+clinical examinations to test professional knowledge and skills. 
+
+       (2) The
+examination must be elementary and practical in character but sufficiently
+thorough to test the fitness of the applicant to practice dentistry. It must
+include, written in the English language, questions on any subjects pertaining
+to dental science. 
+
+       (3) If a test or
+examination was taken within five years of the date of application and the
+applicant received a passing score on the test or examination, as established
+by the board by rule, the board: 
+
+       (a) To satisfy
+the written examination authorized under this section, may accept the results
+of national standardized examinations. 
+
+       (b) To satisfy
+the laboratory or clinical examination authorized under this section: 
+
+       (A) Shall accept
+the results of regional and national testing agencies or clinical board
+examinations administered by other states; and 
+
+       (B) May accept
+the results of board-recognized testing agencies. 
+
+       (4) The board
+shall accept the results of regional and national testing agencies or of
+clinical board examinations administered by other states, and may accept
+results of board-recognized testing agencies, in satisfaction of the
+examinations authorized under this section for applicants who have engaged in
+the active practice of dentistry in other states, in Oregon or in the Armed
+Forces of the United States, the United States Public Health Service or the
+United States Department of Veterans Affairs for at least 3,500 hours in the
+five years immediately preceding application and who meet all other
+requirements for licensure. [Amended by 1965 c.122 §4; 1983 c.169 §7; 1999
+c.489 §1; 2001 c.193 §1; 2003 c.83 §3; 2005 c.229 §1; 2019 c.467 §1] 
+
+   
+
+       679.080
+Reexamination of applicants; rules. 
+The Oregon Board of Dentistry may adopt rules requiring additional education
+and examination of applicants who have failed the licensing examination three
+times. [Amended by 1973 c.829 §63; 1977 c.444 §2; 1983 c.169 §8; 2003 c.83 §4] 
+
+   
+
+       679.090
+Issuance of license. 
+The Oregon Board of Dentistry shall, upon the applicant’s satisfactory
+completion of the educational requirements and written, laboratory and clinical
+examinations authorized under this chapter and upon receipt of the requisite
+fees, issue or renew the appropriate dental license. [Amended by 1963 c.284 §6;
+1971 c.34 §1; 1983 c.169 §9] 
+
+   
+
+       679.100 [Repealed by 1963 c.284 §17] 
+
+   
+
+       679.105 [1997 c.662 §1; repealed by 2003
+c.83 §12] 
+
+   
+
+       679.110 [Repealed by 1983 c.169 §34] 
+
+   
+
+       679.115
+Licensing of dental instructor; requirements. (1) Notwithstanding any other provision of this
+chapter, the Oregon Board of Dentistry shall issue a dental instructor’s
+license to practice dentistry to any person who furnishes the board with
+evidence satisfactory to the board that the applicant meets the requirements of
+subsection (2) of this section. 
+
+       (2) An applicant
+for a dental instructor’s license must be a full-time instructor of dentistry
+engaged in dental activities, including but not limited to participation in a
+faculty practice plan, within the scope of the applicant’s employment at Oregon
+Health and Science University and either: 
+
+       (a) Be a graduate
+of an accredited dental school; or 
+
+       (b) If the
+applicant is not a graduate of an accredited dental school, have a certificate
+or degree showing successful completion of an advanced dental education program
+of at least two years’ duration from an accredited dental school and: 
+
+       (A) Be licensed
+to practice dentistry in another state or a Canadian province; 
+
+       (B) Have held an
+instructor’s or faculty license to practice dentistry in another state or a
+Canadian province immediately prior to becoming an instructor of dentistry at
+Oregon Health and Science University; 
+
+       (C) Have
+successfully passed any clinical examination recognized by the board for
+initial licensure; or 
+
+       (D) Be certified
+by the appropriate national certifying examination body in a dental specialty
+recognized by the American Dental Association. 
+
+       (3) The board may
+refuse to issue or renew a dental instructor’s license to an applicant or
+licensee: 
+
+       (a) Who has been
+convicted of an offense or disciplined by a dental licensing body in a manner
+that bears, in the judgment of the board, a demonstrable relationship to the
+ability of the applicant or licensee to practice dentistry in accordance with
+the provisions of this chapter; 
+
+       (b) Who has
+falsified an application for licensure; or 
+
+       (c) For cause as
+described under ORS 679.140 or 679.170. 
+
+       (4) A person
+issued a dental instructor’s license is restricted to the practice of dentistry
+for or on behalf of Oregon Health and Science University. 
+
+       (5) A license
+issued to an applicant qualifying for a dental instructor’s license who is a
+specialist by virtue of successful completion of an advanced dental education
+program is restricted to the specialty in which the dentist was trained. 
+
+       (6) As used in
+this section, “accredited” means accredited by the Commission on Dental
+Accreditation of the American Dental Association or its successor agency, if
+any. [1999 c.578 §8; 2001 c.188 §1; 2013 c.413 §1; 2015 c.394 §1] 
+
+   
+
+       679.120 Fees;
+waiver of fee; rules; renewal of license; notice of change of address. (1) The Oregon Board of Dentistry
+may impose application fees for the following: 
+
+       (a) Examinations,
+which may differ for general dentistry, foreign school graduate and specialty
+examinations. 
+
+       (b) Biennial
+dentist license, active. 
+
+       (c) Biennial
+dentist license, inactive. 
+
+       (d) Permits and
+certificates. 
+
+       (e) Delinquency. 
+
+       (2) Subject to
+prior approval of the Oregon Department of Administrative Services, the fees
+and charges established under this section and ORS 680.075 shall not exceed the
+costs of administering the regulatory program of the board, as authorized by
+the Legislative Assembly within the board budget, as the budget may be modified
+by the Emergency Board. 
+
+       (3)(a) The Oregon
+Board of Dentistry may waive the payment of the license fee in the case of any
+licensee who furnishes satisfactory evidence that the licensee has discontinued
+the actual practice of dentistry because of retirement. 
+
+       (b) Application
+to reinstate a license retired under paragraph (a) of this subsection or to
+convert an inactive status license to an active status license shall be made in
+accordance with the rules of the board and with the submission of the license
+fee prescribed for such license; provided, however, that if more than one year
+has expired since the license was retired or inactivated, satisfactory evidence
+of operative competence must be submitted to the board. 
+
+       (4) Every dentist
+shall advise the board within 30 days of any change of address. 
+
+       (5) Each dentist
+must renew the dentist’s license every two years through submitting a renewal
+application and paying the license fee. 
+
+       (6) Dentists
+licensed in even-numbered years must renew by March 31 of each even-numbered
+year. Dentists licensed in odd-numbered years must renew by March 31 of each
+odd-numbered year. 
+
+       (7) A reasonable
+charge may be made in the event that the license fee or renewal application is
+more than 10 days delinquent. 
+
+       (8) Fees paid are
+not refundable. [Amended by 1963 c.284 §7; 1967 c.19 §2; 1971 c.34 §2; 1973
+c.390 §4; 1977 c.192 §3; 1977 c.444 §3a; 1981 c.232 §2; 1985 c.323 §5; 1989
+c.338 §7; 1991 c.703 §25; 2023 c.602 §22] 
+
+   
+
+       679.130 [Amended by 1973 c.390 §5; 1983
+c.169 §10; 1991 c.67 §182; repealed by 1999 c.578 §6] 
+
+   
+
+       679.140
+Discipline of licensee; grounds; procedure; sanctions. (1) The Oregon Board of Dentistry
+may discipline as provided in this section any person licensed to practice
+dentistry in this state for any of the following causes: 
+
+       (a) Conviction of
+any violation of the law for which the court could impose a punishment if the
+board makes the finding required by ORS 670.280. The record of conviction or a
+certified copy thereof, certified by the clerk of the court or by the judge in whose
+court the conviction is entered, is conclusive evidence of the conviction. 
+
+       (b) Renting or
+lending a license or diploma of the dentist to be used as the license or
+diploma of another person. 
+
+       (c)
+Unprofessional conduct. 
+
+       (d) Any violation
+of this chapter or ORS 680.010 to 680.205, of rules adopted pursuant to this
+chapter or ORS 680.010 to 680.205 or of an order issued by the board. 
+
+       (e) Engaging in
+or permitting the performance of unacceptable patient care by the dentist or by
+any person working under the supervision of the dentist due to a deliberate or
+negligent act or failure to act by the dentist, regardless of whether actual injury
+to the patient is established. 
+
+       (f) Incapacity to
+practice safely. 
+
+       (2) “Unprofessional
+conduct” as used in this chapter includes but is not limited to the following: 
+
+       (a) Obtaining any
+fee by fraud or misrepresentation. 
+
+       (b) Willfully
+betraying confidences involved in the patient-dentist relationship. 
+
+       (c) Employing,
+aiding, abetting or permitting any unlicensed personnel to practice dentistry,
+dental hygiene or dental therapy. 
+
+       (d) Making use of
+any advertising statements of a character tending to deceive or mislead the
+public or that are untruthful. 
+
+       (e) Impairment as
+defined in ORS 676.303. 
+
+       (f) Obtaining or
+attempting to obtain a controlled substance in any manner proscribed by the
+rules of the board. 
+
+       (g) Prescribing
+or dispensing drugs outside the scope of the practice of dentistry or in a
+manner that impairs the health and safety of an individual. 
+
+       (h) Disciplinary
+action by a state licensing or regulatory agency of this or another state
+regarding a license to practice dentistry, dental hygiene, dental therapy or
+any other health care profession when, in the judgment of the board, the act or
+conduct resulting in the disciplinary action bears a demonstrable relationship
+to the ability of the licensee or applicant to practice dentistry, dental
+hygiene or dental therapy in accordance with the provisions of this chapter. A
+certified copy of the record of the disciplinary action is conclusive evidence
+of the disciplinary action. 
+
+       (3) The
+proceedings under this section may be taken by the board from the matters
+within its knowledge or may be taken upon the information of another, but if
+the informant is a member of the board, the other members of the board shall
+constitute the board for the purpose of finding judgment of the accused. 
+
+       (4) In
+determining what constitutes unacceptable patient care, the board may take into
+account all relevant factors and practices, including but not limited to the
+practices generally and currently followed and accepted by persons licensed to
+practice dentistry in this state, the current teachings at accredited dental
+schools, relevant technical reports published in recognized dental journals and
+the desirability of reasonable experimentation in the furtherance of the dental
+arts. 
+
+       (5) In
+disciplining a person as authorized by subsection (1) of this section, the
+board may use any or all of the following methods: 
+
+       (a) Suspend
+judgment. 
+
+       (b) Place a
+licensee on probation. 
+
+       (c) Suspend a
+license to practice dentistry in this state. 
+
+       (d) Revoke a
+license to practice dentistry in this state. 
+
+       (e) Place
+limitations on a license to practice dentistry in this state. 
+
+       (f) Refuse to
+renew a license to practice dentistry in this state. 
+
+       (g) Accept the
+resignation of a licensee to practice dentistry in this state. 
+
+       (h) Assess a
+civil penalty. 
+
+       (i) Reprimand a
+licensee. 
+
+       (j) Impose any
+other disciplinary action the board in its discretion finds proper, including
+assessment of the costs of the disciplinary proceedings as a civil penalty. 
+
+       (6) If the board
+places any person upon probation as set forth in subsection (5)(b) of this
+section, the board may determine and may at any time modify the conditions of
+the probation and may include among them any reasonable condition for the
+purpose of protection of the public and for the purpose of the rehabilitation
+of the probationer or both. Upon expiration of the term of probation, further
+proceedings shall be abated by the board if the person holding the license
+furnishes the board with evidence that the person is competent to practice
+dentistry and has complied with the terms of probation. If the evidence fails
+to establish competence to the satisfaction of the board or if the evidence
+shows failure to comply with the terms of the probation, the board may revoke
+or suspend the license. 
+
+       (7) If a license
+to practice dentistry in this state is suspended, the person holding the
+license may not practice during the term of suspension. Upon the expiration of
+the term of suspension, the license shall be reinstated by the board if the
+board finds, based upon evidence furnished by the person, that the person is
+competent to practice dentistry and has not practiced dentistry in this state
+during the term of suspension. If the evidence fails to establish to the
+satisfaction of the board that the person is competent or if any evidence shows
+the person has practiced dentistry in this state during the term of suspension,
+the board may revoke the license after notice and hearing. 
+
+       (8) Upon receipt
+of a complaint under this chapter or ORS 680.010 to 680.205, the board shall
+conduct an investigation as described under ORS 676.165. 
+
+       (9) Information
+that the board obtains as part of an investigation into licensee or applicant
+conduct or as part of a contested case proceeding, consent order or stipulated
+agreement involving licensee or applicant conduct is confidential as provided
+under ORS 676.175. Notwithstanding ORS 676.165 to 676.180, the board may
+disclose confidential information regarding a licensee or an applicant to
+persons who may evaluate or treat the licensee or applicant for drug abuse,
+alcohol abuse or any other health related conditions. 
+
+       (10) The board
+may impose against any person who violates the provisions of this chapter or
+ORS 680.010 to 680.205 or rules of the board a civil penalty of up to $5,000
+for each violation. Any civil penalty imposed under this section shall be
+imposed in the manner provided in ORS 183.745. 
+
+       (11)
+Notwithstanding the expiration, suspension, revocation or surrender of the
+license, or the resignation or retirement of the licensee, the board may: 
+
+       (a) Proceed with
+any investigation of, or any action or disciplinary proceedings against, the
+dentist, dental hygienist or dental therapist; or 
+
+       (b) Revise or
+render void an order suspending or revoking the license. 
+
+       (12)(a) The board
+may continue with any proceeding or investigation for a period not to exceed
+four years from the date of the expiration, suspension, revocation or surrender
+of the license, or the resignation or retirement of the licensee; or 
+
+       (b) If the board
+receives a complaint or initiates an investigation within that four-year
+period, the board’s jurisdiction continues until the matter is concluded by a
+final order of the board following any appeal. 
+
+       (13) Withdrawing
+the application for license does not close any investigation, action or
+proceeding against an applicant. [Amended by 1955 c.560 §2; 1961 c.311 §1; 1963
+c.284 §8; 1965 c.122 §5; 1971 c.157 §1; 1973 c.554 §1; 1977 c.192 §3a; 1977
+c.745 §51; 1979 c.142 §1; 1979 c.744 §53a; 1981 c.185 §2; 1983 c.169 §11; 1985
+c.323 §6; 1991 c.734 §73; 1995 c.199 §2; 1997 c.791 §25; 1999 c.253 §1; 1999
+c.578 §1; 2003 c.83 §5; 2009 c.756 §39; 2021 c.530 §14] 
+
+   
+
+       679.150 [Amended by 1961 c.311 §2; 1963
+c.284 §9; 1965 c.122 §6; 1967 c.282 §2; 1983 c.169 §12; repealed by 1999 c.578 §6] 
+
+   
+
+       679.160 Appeal
+from board decision. 
+(1) Any licensee who has been disciplined by the Oregon Board of Dentistry may
+obtain judicial review of the decision in the manner prescribed by ORS chapter
+183. 
+
+       (2)
+Notwithstanding ORS 676.210, enforcement of the board’s disciplinary order
+pending appeal shall be determined pursuant to ORS 183.482 (3). [Amended by
+1961 c.311 §3; 1967 c.282 §3; 1973 c.390 §6; 1977 c.192 §4; 1979 c.744 §54;
+1983 c.169 §13; 1995 c.199 §3; 2003 c.83 §6] 
+
+   
+
+       679.165
+Automatic suspension of license in case of mental disorder. The entry of a judgment by any
+court establishing the mental disorder of any person holding a license under
+this chapter operates as a suspension of such license. Such person may resume
+practice only upon a finding by the Oregon Board of Dentistry that the licensee
+has been declared restored to mental competence by an order of a court of
+competent jurisdiction. [1957 c.552 §3; 1999 c.59 §202; 2003 c.576 §542] 
+
+   
+
+       679.170
+Prohibited practices. 
+A person may not: 
+
+       (1) Sell or
+barter, or offer to sell or barter, any diploma or document conferring or
+purporting to confer any dental degree, or any certificate or transcript made
+or purporting to be made, pursuant to the laws regulating the license and
+registration of dentists. 
+
+       (2) Purchase or
+procure by barter, any diploma, certificate or transcript described in
+subsection (1) of this section, with intent that it be used as evidence of the
+holder’s qualification to practice dentistry, or in fraud of the laws
+regulating the practice of dentistry. 
+
+       (3) With
+fraudulent intent, alter in a material regard any diploma, certificate or
+transcript described in subsection (1) of this section. 
+
+       (4) Use or
+attempt to use any diploma, certificate or transcript described in subsection
+(1) of this section, which has been purchased, fraudulently issued,
+counterfeited or materially altered, either as a license or color of license to
+practice dentistry, or in order to procure registration as a dentist. 
+
+       (5) Willfully
+make a false written or recorded oral statement to the Oregon Board of
+Dentistry in a material regard. 
+
+       (6) Within 10
+days after demand made by the board, fail to respond to the board’s written
+request for information or fail to furnish to the board the name and address of
+all persons practicing or assisting in the practice of dentistry in the office
+of such person at any time within 60 days prior to the notice, together with a
+sworn statement showing under and by what license or authority such person and
+employee are and have been practicing dentistry. 
+
+       (7) Employ or use
+the services of any unlicensed person, to practice dentistry, dental hygiene or
+dental therapy, except as permitted by ORS 679.025, 679.176 and 680.010 to
+680.205. [Amended by 1963 c.284 §10; 1977 c.192 §5; 1981 c.185 §3; 1983 c.169 §14;
+1995 c.199 §4; 1999 c.578 §2; 2021 c.530 §15] 
+
+   
+
+       679.175 [1953 c.574 §3; repealed by 1957
+c.552 §9] 
+
+   
+
+       679.176
+Written work orders and sub-work orders required for certain services;
+retention period. 
+(1) As used in this section: 
+
+       (a) “Sub-work
+order” means a written instrument by which a dental laboratory registered under
+ORS 679.710 subcontracts all or part of the work directed to be done by a work
+order prescribed by a dentist licensed under ORS chapter 679. 
+
+       (b) “Work order”
+has the meaning given that term in ORS 679.700. 
+
+       (2) A dentist may
+not use the services of any person who is not licensed to practice dentistry in
+this state to make, provide, repair or alter dental prosthetic appliances or
+other artificial materials or devices that are returned to a dentist and inserted
+into the human oral cavity, or that come into contact with the human oral
+cavity’s adjacent structures and tissues, unless the dentist first provides to
+the person a work order, in substantially the following form: 
+
+ ______________________________________________________________________________ 
+
+   
+
+ (Date)
+______, 2___ 
+
+   
+
+ TO: (Name of dental
+laboratory with address) (Dental laboratory registration number) 
+
+   
+
+ RE:
+(Name or number of patient) 
+
+       (Description of
+the work to be done, including diagrams if necessary, together with
+specifications of the type of materials to be used.) 
+
+   
+
+ (Name
+of ordering dentist) 
+
+   
+
+ (Address)
+______ 
+
+   
+
+ (Current
+license number) ___ 
+
+ ______________________________________________________________________________ 
+
+       (3) A person that
+receives a work order prescribed by a dentist under subsection (1) of this
+section may not engage as a subcontractor another person that is not authorized
+to perform the services necessary to complete the work order unless the person
+that receives the work order first provides to the subcontractor a sub-work
+order in substantially the following form: 
+
+ ______________________________________________________________________________ 
+
+   
+
+ (Date)
+______, 2___ 
+
+   
+
+ TO: (Name of
+subcontracted dental laboratory with address) (Subcontracted dental laboratory
+registration number, if applicable) 
+
+   
+
+ RE:
+(Name or number of patient) 
+
+       (Description of
+the work to be done, including diagrams if necessary, together with
+specifications of the type of materials to be used.) 
+
+   
+
+ (Name
+of ordering dental laboratory) 
+
+   
+
+ (Address)
+______ 
+
+   
+
+ (Current
+dental laboratory registration 
+
+  number)
+___ 
+
+ ______________________________________________________________________________ 
+
+       (4)(a) A dentist
+shall retain for at least two years from the date of prescription a duplicate
+copy of each work order prescribed by the dentist. The Oregon Board of
+Dentistry, or an agent of the board, may inspect, upon demand, the duplicate
+copies of all work orders and sub-work orders retained pursuant to this
+paragraph. 
+
+       (b) A person
+described in subsection (3) of this section shall attach a duplicate copy of
+each sub-work order issued by the person to a duplicate copy of the associated
+work order and shall retain the duplicate copies for at least two years from
+the date of issuance. The Health Licensing Office, or an agent of the office,
+may inspect, upon demand, the duplicate copies of all work orders and sub-work
+orders retained pursuant to this paragraph. 
+
+       (5) A work order
+or sub-work order may be transmitted or retained in an electronic format. 
+
+       (6) A work order
+may not permit or require the taking of impressions of any part of the human
+oral cavity by any person who is not a dentist licensed under ORS chapter 679
+or a denturist licensed under ORS 680.500 to 680.565. [1963 c.284 §15; 2025
+c.199 §9] 
+
+   
+
+       Note: The amendments to 679.176 by
+section 9, chapter 199, Oregon Laws 2025, become operative July 1, 2026. See
+section 19, chapter 199, Oregon Laws 2025. The text that is operative until
+July 1, 2026, is set forth for the user’s convenience. 
+
+       679.176. (1) No dentist may use the
+services of any person, not licensed to practice dentistry in this state, to
+construct, alter, repair, reline, reproduce or duplicate any prosthetic
+denture, bridge, appliance or any other structure to be worn in the human mouth,
+unless the dentist first furnishes to such person a written work order, in
+substantially the following form: 
+
+ ______________________________________________________________________________ 
+
+   
+
+ (Date)
+______, 2___ 
+
+   
+
+ TO: (Name of dental
+technician or laboratory with address) 
+
+   
+
+ RE:
+(Name or number of patient) 
+
+       (Description of
+the work to be done, including diagrams if necessary, together with
+specifications of the type of materials to be used.) 
+
+   
+
+ (Name
+of ordering dentist) 
+
+   
+
+ (Address)
+______ 
+
+   
+
+ (Current
+license number) ___ 
+
+ ______________________________________________________________________________ 
+
+       (2) A duplicate
+copy of each such work order issued by the dentist shall be retained by each
+dentist for not less than two years. The Oregon Board of Dentistry or its
+agents shall be permitted to inspect, upon demand, the duplicate copies of all
+such work orders retained by each dentist. 
+
+       (3) No work order
+shall permit or require the taking of impressions of any part of the human oral
+cavity by any person not a dentist licensed by the board. 
+
+   
+
+       679.180
+Enforcement; jurisdiction. 
+(1) The district attorney of each county shall attend to the prosecution of all
+criminal complaints made under this chapter and may represent the Oregon Board
+of Dentistry in any proceeding brought pursuant to ORS 679.027 upon a
+complaint, information or indictment filed against any person under this
+chapter, or upon request of the board. However, nothing in this chapter shall
+be construed to prevent the prosecution of any person for violation of this
+chapter upon the information of the district attorney directly or, subject to
+the requirements of ORS 676.175, to prevent assistance being rendered to the
+district attorney by an employee of the board. 
+
+       (2) Nothing
+contained in this chapter shall be construed to require the district attorney
+to prosecute any person who is licensed by the board and who is subject to
+disciplinary action directly by the board under any provision of this chapter
+or ORS 680.010 to 680.205. [Amended by 1963 c.284 §11; 1967 c.282 §4; 1977
+c.192 §6; 1983 c.169 §15; 1997 c.791 §26] 
+
+   
+
+ OREGON BOARD OF
+DENTISTRY 
+
+   
+
+       679.230 Oregon
+Board of Dentistry; appointment; qualifications; confirmation; compensation and
+expenses. (1) The
+Oregon Board of Dentistry consists of 10 members appointed by the Governor and
+subject to confirmation by the Senate in the manner provided in ORS 171.562 and
+171.565. All members of the board must be residents of this state. Of the
+members of the board: 
+
+       (a) Six must be
+Oregon active licensed dentists, of which at least one must be a dentist
+practicing in a dental specialty recognized by the American Dental Association; 
+
+       (b) Two must be
+Oregon active licensed dental hygienists; and 
+
+       (c) Two must be
+members of the public who are not: 
+
+       (A) Otherwise
+eligible for appointment to the board; or 
+
+       (B) A spouse,
+domestic partner, child, parent or sibling of a dentist or dental hygienist. 
+
+       (2)(a) Board
+members required to be Oregon active licensed dentists or dental hygienists may
+be selected by the Governor from a list of three to five nominees for each
+vacancy, submitted by: 
+
+       (A) The Oregon
+Dental Association, if the vacancy is in a dentist position; 
+
+       (B) The Oregon
+Dental Hygienists’ Association, if the vacancy is in a dental hygienist
+position; or 
+
+       (C) Any of the
+professional organizations representing a dental specialty, if the vacancy is
+in a dental specialty position. 
+
+       (b) In selecting
+the members of the board, the Governor shall strive to balance the
+representation on the board according to: 
+
+       (A) Geographic
+areas of this state; and 
+
+       (B) Ethnic group. 
+
+       (3)(a) The term
+of office of each member is four years, but a member serves at the pleasure of
+the Governor. The terms must be staggered so that no more than three terms end
+each year. Terms of office begin on the first Monday of April after the time of
+appointment. A member is eligible for reappointment. If there is a vacancy in
+the membership of the board for any reason, the Governor shall make an
+appointment to become immediately effective for the unexpired term. 
+
+       (b) A board
+member shall be removed immediately from the board if, during the member’s
+term, the member: 
+
+       (A) Is not a
+resident of this state; 
+
+       (B) Has been
+absent from three consecutive board meetings, unless at least one absence is
+excused; 
+
+       (C) Is not a
+licensed dentist or a retired dentist whose license was in good standing at the
+time of retirement, if the board member was appointed to serve on the board as
+a dentist or a dental specialist; or 
+
+       (D) Is not a
+licensed dental hygienist or a retired dental hygienist whose license was in
+good standing at the time of retirement, if the board member was appointed to
+serve on the board as a dental hygienist. 
+
+       (4) Members of
+the board are entitled to compensation and expenses as provided in ORS 292.495.
+The board may provide by rule for compensation to board members for the
+performance of official duties at a rate that is greater than the rate provided
+in ORS 292.495. [Amended by 1963 c.284 §12; 1969 c.314 §82; 1971 c.650 §30;
+1973 c.792 §36; 1977 c.747 §1; 1983 c.169 §16; 1991 c.955 §1; 2003 c.83 §7;
+2009 c.535 §14] 
+
+   
+
+       679.240 [Repealed by 1983 c.169 §34] 
+
+   
+
+       679.250 Powers
+and duties of board; rules. 
+The powers and duties of the Oregon Board of Dentistry are as follows: 
+
+       (1) To, during
+the month of April of each year, organize and elect from its membership a
+president who shall hold office for one year, or until the election and
+qualification of a successor. 
+
+       (2) To authorize
+all necessary disbursements to carry out the provisions of this chapter,
+including but not limited to, payment for necessary supplies, office equipment,
+books and expenses for the conduct of examinations, payment for legal and
+investigative services rendered to the board, and such other expenditures as
+are provided for in this chapter. 
+
+       (3) To employ
+such inspectors, examiners, special agents, investigators, clerical assistants,
+assistants and accountants as are necessary for the investigation and
+prosecution of alleged violations and the enforcement of this chapter and for
+such other purposes as the board may require. Nothing in this chapter shall be
+construed to prevent assistance being rendered by an employee of the board in
+any hearing called by it. However, all obligations for salaries and expenses
+incurred under this chapter shall be paid from the fees accruing to the board
+under this chapter and not otherwise. 
+
+       (4)(a) To conduct
+examinations of applicants for license to practice dentistry, dental hygiene
+and dental therapy at least twice in each year. 
+
+       (b) In conducting
+examinations for licensure, the board may enter into a compact with other
+states for conducting regional examinations with other board of dental
+examiners concerned, or by a testing service recognized by such boards. 
+
+       (5) To meet for
+the transaction of other business at the call of the president. A majority of
+board members shall constitute a quorum. A majority vote of those present shall
+be a decision of the entire board. The board’s proceedings shall be open to
+public inspection in all matters affecting public interest. 
+
+       (6) To keep an
+accurate record of all proceedings of the board and of all its meetings, of all
+receipts and disbursements, of all prosecutions for violation of this chapter,
+of all examinations for license to practice dentistry, with the names and
+qualifications for examination of any person examined, together with the
+addresses of those licensed and the results of such examinations, a record of
+the names of all persons licensed to practice dentistry in Oregon together with
+the addresses of all such persons having paid the license fee prescribed in ORS
+679.120 and the names of all persons whose license to practice has been revoked
+or suspended. 
+
+       (7) To make and
+enforce rules necessary for the procedure of the board, for the conduct of
+examinations, for regulating the practice of dentistry, and for regulating the
+services of dental hygienists and dental auxiliary personnel not inconsistent
+with the provisions of this chapter. As part of such rules, the board may
+require the procurement of a permit or other certificate. Any permit issued may
+be subject to periodic renewal. In adopting rules, the board shall take into
+account all relevant factors germane to an orderly and fair administration of
+this chapter and of ORS 680.010 to 680.205, the practices and materials
+generally and currently used and accepted by persons licensed to practice
+dentistry in this state, dental techniques commonly in use, relevant technical
+reports published in recognized dental journals, the curriculum at accredited
+dental schools, the desirability of reasonable experimentation in the
+furtherance of the dental arts, and the desirability of providing the highest
+standard of dental care to the public consistent with the lowest economic cost. 
+
+       (8) Upon its own
+motion or upon any complaint, to initiate and conduct investigations of and
+hearings on all matters relating to the practice of dentistry, the discipline
+of licensees, or pertaining to the enforcement of any provision of this
+chapter. In the conduct of investigations or upon the hearing of any matter of
+which the board may have jurisdiction, the board may take evidence, administer
+oaths, take the depositions of witnesses, including the person charged, in the
+manner provided by law in civil cases, and compel their appearance before it in
+person the same as in civil cases, by subpoena issued over the signature of an
+employee of the board and in the name of the people of the State of Oregon,
+require answers to interrogatories, and compel the production of books, papers,
+accounts, documents and testimony pertaining to the matter under investigation
+or to the hearing. In all investigations and hearings, the board and any person
+affected thereby may have the benefit of counsel, and all hearings shall be
+held in compliance with ORS chapter 183. Notwithstanding ORS 676.165, 676.175
+and 679.320, if a licensee who is the subject of an investigation or complaint
+is to appear before members of the board investigating the complaint, the board
+shall provide the licensee with a current summary of the complaint or the
+matter being investigated not less than five days prior to the date that the
+licensee is to appear. At the time the summary of the complaint or the matter
+being investigated is provided, the board shall provide to the licensee a
+current summary of documents or alleged facts that the board has acquired as a
+result of the investigation. The name of the complainant or other information
+that reasonably may be used to identify the complainant may be withheld from
+the licensee. 
+
+       (9) To require
+evidence as determined by rule of continuing education or to require
+satisfactory evidence of operative competency before reissuing or renewing
+licenses for the practice of dentistry, dental hygiene or dental therapy. 
+
+       (10) To adopt and
+enforce rules regulating administration of general anesthesia and conscious
+sedation by a dentist or under the supervision of a dentist in the office of
+the dentist. As part of such rules, the board may require the procurement of a
+permit which must be periodically renewed. 
+
+       (11) To order an
+applicant or licensee to submit to a physical examination, mental examination
+or a competency examination when the board has evidence indicating the
+incapacity of the applicant or licensee to practice safely. [Amended by 1953
+c.8 §2; 1957 c.552 §8; 1963 c.284 §13; 1965 c.122 §7; 1973 c.390 §7; 1973 c.829
+§64; 1977 c.192 §7; 1983 c.169 §17; 1985 c.323 §7; 1989 c.338 §10; 1999 c.578 §3;
+1999 c.751 §6; 2009 c.756 §41; 2021 c.530 §16] 
+
+   
+
+       679.253
+Authority of board to require fingerprints. For the purpose of requesting a state or nationwide
+criminal records check under ORS 181A.195, the Oregon Board of Dentistry may
+require the fingerprints of a person who: 
+
+       (1) Is employed
+or applying for employment by the board in a position in which the person has
+or will have access to information that is made confidential under state or
+federal laws, rules or regulations; 
+
+       (2) Provides
+services or seeks to provide services to the board as a contractor, vendor or
+volunteer in a position in which the person has or will have access to
+information that is made confidential under state or federal laws, rules or
+regulations; 
+
+       (3) Is applying
+for a license or permit that is issued by the board; 
+
+       (4) Is applying
+for renewal of a license or permit that is issued by the board; or 
+
+       (5) Is under
+investigation by the board. [2005 c.730 §54] 
+
+   
+
+       Note: 679.253 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 679
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       679.255 Board
+to adopt standards for sedation during dental procedures; rules. The Oregon Medical Board and the
+Oregon State Board of Nursing, in consultation with the Oregon Board of
+Dentistry, shall adopt rules establishing standards governing their respective
+licensees for general anesthesia and conscious sedation administered in
+conjunction with the professional services of a dentist or dental hygienist. [1985
+c.323 §13] 
+
+   
+
+       679.260 Oregon
+Board of Dentistry Account; disbursement of receipts. (1) The Oregon Board of Dentistry
+Account is established in the State Treasury separate and distinct from the
+General Fund. 
+
+       (2) All moneys
+received by the Oregon Board of Dentistry under this chapter shall be paid to
+the State Treasury and credited to the Oregon Board of Dentistry Account. Any
+interest or other income derived from moneys paid into the account shall be
+credited monthly to the account. 
+
+       (3) Moneys in the
+Oregon Board of Dentistry Account are appropriated continuously and shall be
+used only for the administration and enforcement of ORS 676.850 and 680.010 to
+680.205 and this chapter. 
+
+       (4) Ten percent
+of the annual license fee to be paid by each licensee of the Oregon Board of
+Dentistry shall be used by the board to ensure the continued professional
+competence of licensees. Such activities shall include the development of
+performance standards and professional peer review. [Amended by 1957 c.552 §5;
+1967 c.19 §3; 1967 c.282 §5; 1969 c.314 §103; 1973 c.427 §21; 1977 c.192 §8;
+1977 c.747 §2; 2003 c.83 §8; 2011 c.597 §279; 2013 c.240 §10] 
+
+   
+
+       679.270 [Repealed by 1973 c.829 §71] 
+
+   
+
+       679.280 Dental
+committees or consultants for improving standards of practice; liability;
+confidentiality of proceedings. 
+(1) The Oregon Board of Dentistry may appoint a consultant or a committee or
+committees, each consisting of one or more licensed dentists in this state, to
+study and report to the board the condition of and dental treatment rendered to
+any person or persons by any licensed dentist or dentists in this state or by
+any person purporting to practice dentistry in this state. Any person,
+hospital, sanatorium, professional grievance committee, nursing or rest home or
+other organization may, subject to the laws governing privileged or
+confidential communications, provide information, interviews, reports,
+statements, memoranda or other data relating to the condition and treatment of
+any person to the consultant or committee or to the board, to be used in the
+course of any study for the purpose of improving the standards of dental
+practice or to enable the board to assess the desirability of disciplinary
+action relating thereto; and no liability of any kind or character for damages
+or other relief shall arise or be enforced against the person or organization
+by reason of having provided the information or material, or arise or be
+enforced against any consultant or member of the committee by reason of having
+released or published the findings and conclusions of the consultants or
+committees to advance dental science and dental education, or by reason of
+having released or published generally a summary of those studies. When used by
+the board to assess the desirability of disciplinary action, the testimony
+given to and the proceedings, reports, statements, opinions, findings and
+conclusions of the consultants and committees and the board shall be
+confidential as provided under ORS 676.175, but this shall not preclude the use
+of the subpoena power with respect to the actual records of dentists, patients,
+hospitals, sanitaria, nursing or rest homes. 
+
+       (2) There shall
+be no monetary liability on the part of, and no cause of action for damages
+shall arise against, any consultant or member of a duly appointed committee for
+any act or proceeding undertaken or performed within the scope of the functions
+of that consultant or committee, if the consultant or committee member acts
+without malice, has made a reasonable effort to obtain the facts of the matter
+on which the consultant or committee member acts, and acts in a reasonable
+belief that the action taken is warranted by the facts known to the consultant
+or committee member after that reasonable effort to obtain the facts. [1965
+c.122 §2; 1977 c.192 §9; 1997 c.791 §27] 
+
+   
+
+       679.290
+Failure to comply with subpoena issued by board. (1) If a person fails to comply
+with any subpoena issued under ORS 679.250 (8), a judge of the circuit court of
+any county, on application of the executive director of the Oregon Board of
+Dentistry, shall compel obedience by proceedings for contempt as in the case of
+disobedience of the requirements of a subpoena issued from the circuit court. 
+
+       (2) In any
+proceeding under subsection (1) of this section and where the subpoena is
+addressed to a licensee of the board it shall not be a defense that: 
+
+       (a) No witness or
+mileage fee was paid; or 
+
+       (b) The material
+that is subject to the subpoena is protected under a patient and dentist
+privilege. [1983 c.169 §31; 2009 c.756 §42] 
+
+   
+
+       679.300
+Privileged data; admissibility of data as evidence in judicial proceedings. (1) All data shall be privileged
+and shall not be admissible in evidence in any judicial proceeding, but this
+section shall not affect the admissibility in evidence of a party’s records
+dealing with a party’s care and treatment. 
+
+       (2) A person
+serving on or communicating information to a committee described in subsection
+(4) of this section shall not be examined as to any communication to that
+committee or the findings thereof. 
+
+       (3) A person
+serving on or communicating to a committee described in subsection (4) of this
+section shall not be subject to an action for civil damages for affirmative
+actions taken or statements made in good faith. 
+
+       (4) As used in
+subsection (1) of this section, “data” means written reports, notes or records
+of peer review committees or other committees and similar committees of
+professional societies in connection with training, supervision or discipline
+of dentists. The term also includes written reports, notes or records of
+utilization review and professional standards review organization. [1983 c.169 §33] 
+
+   
+
+       Note: 679.300 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 679
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       679.310 Duty
+to report violations; exceptions; liability. (1)(a) Unless state or federal laws relating to
+confidentiality or the protection of health information prohibit disclosure,
+any dentist or dental hygienist, or any person licensed by the Oregon Board of
+Dentistry, shall report to the board any suspected violation of this chapter or
+ORS 680.010 to 680.205 or any rule adopted by the board. 
+
+       (b) Unless state
+or federal laws relating to confidentiality or the protection of health
+information prohibit disclosure, a dentist or dental hygienist, or any person
+licensed by the board, shall report any prohibited conduct as defined in ORS
+676.150 in the manner provided in ORS 676.150. 
+
+       (c) Unless state
+or federal laws relating to confidentiality or the protection of health
+information prohibit disclosure, the Oregon Dental Association or any other
+organization representing dentists or dental hygienists shall report to the
+board any suspected violation of this chapter or ORS 680.010 to 680.205 or any
+rule adopted by the board. 
+
+       (d) Any person
+may report to the board any suspected violation of this chapter or ORS 680.010
+to 680.205 or any rule adopted by the board, association or other organization
+representing dentists or dental hygienists. 
+
+       (2) This section
+is not intended to require any person working on or with the Oregon Dental
+Association’s Dentist Well Being Committee or Peer Review Committee or the
+Quality Assurance or Peer Review Committee of the Oregon Dental Hygienists’
+Association to report to the board any confidential information received within
+the scope of duties with that committee. 
+
+       (3) No person who
+has made a complaint as to the conduct of a licensee of the board or who has
+given information or testimony relative to a proposed or pending proceeding for
+misconduct against the licensee of the board, shall be answerable for any such act
+in any proceeding except for perjury. [1985 c.323 §11; 1999 c.578 §4; 2009
+c.536 §7] 
+
+   
+
+       679.320
+Confidentiality of information provided to board; limitation of liability. (1) Any information provided to
+the Oregon Board of Dentistry as the basis of a complaint or in the
+investigation thereof shall not be subject to public disclosure during the
+period of investigation. 
+
+       (2) Any person
+who reports or provides information to the board and who does so in good faith
+shall not be subject to an action for civil damages as a result thereof. [1985
+c.323 §12] 
+
+   
+
+       679.323
+Removal of individual disciplinary information; rules. (1) Upon the request of an
+individual who has been disciplined by the Oregon Board of Dentistry, the board
+shall remove from its website and other publicly accessible print and
+electronic publications under the board’s control all information related to
+disciplining the individual under ORS 679.140 and any findings and conclusions
+made by the board during the disciplinary proceeding, if: 
+
+       (a) The request
+is made 10 years or more after the date on which any disciplinary sanction
+ended; 
+
+       (b) The
+individual was not disciplined for financially or physically harming a patient; 
+
+       (c) The
+individual informed the board of the matter for which the individual was
+disciplined before the board received information about the matter or otherwise
+had knowledge of the matter; 
+
+       (d) The
+individual making the request, if the individual is or was a licensee, has not
+been subjected to other disciplinary action by the board following the
+imposition of the disciplinary sanction; and 
+
+       (e) The
+individual fully complied with all disciplinary sanctions imposed by the board. 
+
+       (2) The board
+shall adopt by rule a process for making a request under this section. [2016
+c.41 §2] 
+
+   
+
+       679.330
+Advisory committee on dental assistant workforce shortage. (1) The Oregon Board of Dentistry
+shall convene an advisory committee of at least seven members to study the
+dental assistant workforce shortage and to review the requirements for dental
+assistant certification in other states. The committee shall provide advice to
+the board on a quarterly basis on how to address the dental assistant workforce
+shortage in this state. 
+
+       (2)(a) In
+appointing members to the advisory committee, the board shall prioritize
+diversity of geographic representation, background, culture and experience. 
+
+       (b) A majority of
+the members appointed to the committee must have experience working as dental
+assistants. [2023 c.436 §5] 
+
+   
+
+       Note: 679.330 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 679
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+ MISCELLANEOUS 
+
+   
+
+       679.500
+Administration of local anesthesia for certain purposes; rules. (1) A dentist licensed to practice
+dentistry in this state may administer local anesthesia to a person for the
+purposes of receiving permanent lip color from a person licensed to perform
+tattooing under ORS 690.350 to 690.410 or having permanent hair removal in the
+lip area from a person licensed to perform electrolysis under ORS 690.350 to
+690.410. 
+
+       (2) Prior to
+administering local anesthesia for the purposes authorized under subsection (1)
+of this section, the dentist must: 
+
+       (a) Receive a
+written order from a person licensed to perform tattooing or electrolysis under
+ORS 690.350 to 690.410; 
+
+       (b) Obtain a
+current health history from and perform an oral examination of the person who
+will receive the anesthesia; and 
+
+       (c) Establish and
+maintain a patient record in accordance with rules adopted by the Oregon Board
+of Dentistry. 
+
+       (3) The Oregon
+Board of Dentistry shall adopt rules authorizing a dentist licensed to practice
+dentistry in Oregon to administer local anesthesia for the purposes of
+tattooing human lips or having permanent hair removal in the lip area by a
+person licensed to perform tattooing or electrolysis under ORS 690.350 to
+690.410. [1999 c.578 §10; 2003 c.187 §1; 2011 c.346 §32] 
+
+   
+
+       679.510
+Liability insurance for retired dentist; requirements; rules. (1) For the purposes of this
+section, “retired dentist” means a person who is retired from active practice
+except for the practice of dentistry without remuneration as a volunteer. 
+
+       (2) Subject to
+availability of funding, the Oregon Department of Administrative Services shall
+establish a program to purchase and maintain liability insurance for retired
+dentists. Insurance provided under the program shall be acquired through
+contracts with liability insurers that are authorized to offer liability
+malpractice insurance in this state. Insurance shall be provided under the
+program only if: 
+
+       (a) Dental
+services by the retired dentist will be provided through nonprofit corporations
+offering community services; 
+
+       (b) Dental
+services provided by the retired dentist will be offered to low-income patients
+based on ability to pay; and 
+
+       (c) The retired dentist
+will receive no compensation for the dental services provided, except for
+reimbursement for laboratory fees, testing services and other out-of-pocket
+expenses. 
+
+       (3) This section
+does not impose any liability on the state, or on the officers, employees and
+agents of the state, for any civil or criminal action against a retired dentist
+insured under the program established under subsections (1) to (5) of this section. 
+
+       (4) The
+department shall monitor the claims experience of retired dentists insured
+through the program established under subsections (1) to (5) of this section.
+The department may impose any risk management requirements that the department
+deems appropriate as a condition of providing liability insurance under the
+program. 
+
+       (5) The
+department shall provide insurance under subsection (2) of this section only to
+the extent that funds are appropriated to the department for the purposes of
+funding the program established under subsections (1) to (5) of this section. 
+
+       (6) The Oregon
+Department of Administrative Services may by rule establish any conditions
+considered necessary by the department before providing liability insurance for
+a retired dentist under the program established by subsections (1) to (5) of
+this section. [1999 c.1016 §§1,2; 2001 c.104 §261] 
+
+   
+
+       Note: 679.510 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 679
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       679.520
+Treatment of dental waste materials containing mercury. (1) A dentist who places in or
+removes from the human oral cavity dental materials containing mercury shall: 
+
+       (a) Implement and
+maintain best management practices of dental wastes as developed by the Oregon
+Dental Association to prevent amalgam waste and mercury from entering the air,
+sewage systems, waterways and garbage; 
+
+       (b) Have an
+amalgam separator installed on a wastewater drain in a dental facility where
+the dentist practices if dental materials containing amalgam pass through the
+wastewater drain. The amalgam separator must be verified by the manufacturer to
+remove at least 95 percent of the amalgam that passes through the drain on
+which it is installed; 
+
+       (c) Maintain an
+amalgam separator installed as required by this subsection in accordance with
+the manufacturer’s recommendations; and 
+
+       (d) Place all
+dental waste materials containing mercury in a vapor-proof container that is
+clearly labeled as containing mercury and dispose of the materials in
+accordance with best management practices of dental wastes recommended by the
+Oregon Dental Association. Disposal may not be by incineration that would
+result in the release of mercury into the air. 
+
+       (2) Each dental
+office shall keep proof of installation of an amalgam separator and maintain an
+amalgam separator maintenance log that the office shall make available for
+inspection by the Oregon Board of Dentistry. The board may inspect maintenance
+logs from a period of up to three years prior to the date of inspection. [2007
+c.517 §2] 
+
+   
+
+       679.525
+Amalgam separators required in certain dental facilities. Each dental facility constructed
+on or after January 1, 2008, shall have amalgam separators that meet the
+requirements of ORS 679.520 (1)(b). [2007 c.517 §3] 
+
+   
+
+       Note: 679.525 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 679
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       679.530 [2009 c.147 §2; repealed by 2025
+c.199 §18] 
+
+   
+
+       Note: 679.530 is repealed July 1, 2026.
+See sections 18 and 19, chapter 199, Oregon Laws 2025. 679.530 (2023 Edition)
+is set forth for the user’s convenience. 
+
+       679.530.
+Information about oral prosthetic devices.  Dental technicians shall, upon request by a
+dentist or patient, provide the dentist or patient with information about the
+location where oral prosthetic devices that are inserted into the human oral
+cavity or that come in contact with its adjacent structures and tissues were
+manufactured. 
+
+   
+
+       679.535
+Requirement to test heat sterilization device; rules. (1) A person licensed by the
+Oregon Board of Dentistry who uses an autoclave or other heat sterilization
+device in the person’s practice shall test the autoclave or other heat
+sterilization device at least once per week to ensure that the device is
+functioning properly. 
+
+       (2) The Oregon
+Board of Dentistry shall adopt rules to implement this section. [2014 c.16 §2;
+2017 c.362 §1] 
+
+   
+
+       679.540 Oral
+disease prevention services; reimbursement; rules. (1) As used in this section: 
+
+       (a) “Dental
+provider” means a licensed dentist, dental hygienist or other dental
+practitioner or a dental care team or clinic that provides the following core
+services: 
+
+       (A) Comprehensive
+dental care; 
+
+       (B) Basic
+preventive dental services; 
+
+       (C) Referral to
+dental specialists; and 
+
+       (D) Family
+centered dental care. 
+
+       (b) “Health
+worker” means “traditional health worker” as defined by the Oregon Health
+Authority by rule. 
+
+       (2) The Oregon
+Health Authority, in consultation with coordinated care organizations and
+dental subcontractors in this state, shall adopt rules and procedures for the
+training and certification of health workers to provide oral disease prevention
+services and for the reimbursement of oral disease prevention services provided
+by certified health workers. 
+
+       (3) The rules
+adopted under subsection (2) of this section must prescribe the training
+required for certification, including instruction on: 
+
+       (a) The
+performance of dental risk assessments; and 
+
+       (b) The provision
+of oral disease prevention services. 
+
+       (4) The authority
+shall adopt rules requiring that a certified health worker: 
+
+       (a) Refer
+patients to dental providers; and 
+
+       (b) Recommend to
+patients, or to the parent or legal guardian of a patient, that the patient
+visit a dental provider at least once annually. [2015 c.542 §1; 2025 c.252 §7] 
+
+   
+
+       Note: 679.540 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 679
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       679.543 Use of
+telehealth by dental care provider. 
+(1) As used in this section, “telehealth” means a variety of methods, through
+the use of electronic and telecommunications technologies, for the distance
+delivery of health care services, including dental care services, and clinical
+information designed to improve a patient’s health status and to enhance
+delivery of the health care services and clinical information. 
+
+       (2) A dental care
+provider authorized by the Oregon Board of Dentistry to practice dental care
+services may use telehealth if: 
+
+       (a) In the
+professional judgment of the dental care provider, the use of telehealth is an
+appropriate manner in which to provide a dental care service; and 
+
+       (b) The dental
+care provider is providing a dental care service that is within the scope of
+practice of the dental care provider. 
+
+       (3) The use of
+telehealth as described in subsection (2) of this section is not an expansion
+of the scope of practice of a dental care provider. 
+
+       (4) The board
+shall treat a dental care service that is delivered by a dental care provider
+through telehealth as described in subsection (2) of this section the same as
+the board treats the dental care service when delivered in person. The board
+shall apply identical quality and practice standards to a particular dental
+care service regardless of the method of delivery of the dental care service. [2017
+c.348 §1] 
+
+   
+
+       Note: 679.543 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 679
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       679.546
+Advertising as specialist; requirements; rules. (1) A dentist licensed by the
+Oregon Board of Dentistry may advertise that the dentist is a specialist in one
+or more areas of dentistry if the dentist: 
+
+       (a) Has completed
+a post-doctoral residency program that is at least two years in length and is
+accredited by the Commission on Dental Accreditation, or its successor
+organization, and approved by the board by rule; 
+
+       (b) Is a
+specialist as defined by the National Commission on Recognition of Dental
+Specialties and Certifying Boards, or its successor organization, and adopted
+by the board by rule; or 
+
+       (c) Has completed
+an advanced dental education program that is at least two years in length and
+is recognized by the United States Department of Education, and approved by the
+board by rule. 
+
+       (2) The board may
+adopt rules as necessary to carry out this section. [2019 c.379 §2] 
+
+   
+
+       679.549
+Expression of regret or apology. 
+(1) For the purposes of any civil action against a person licensed by the
+Oregon Board of Dentistry or against a dental office or clinic, health care
+institution, health care facility or other entity that employs or grants the
+person privileges, any expression of regret or apology made by or on behalf of
+the person, office, clinic, institution, facility or entity, including an
+expression of regret or apology that is made in writing or by conduct, does not
+constitute an admission of liability. 
+
+       (2) A person
+licensed by the board, or any other person who makes an expression of regret or
+apology on behalf of a person licensed by the board, may not be examined by
+deposition or otherwise in any civil or administrative proceeding, including
+any arbitration or mediation proceeding, with respect to an expression of
+regret or apology made by or on behalf of the person, including expressions of
+regret or apology that are made in writing, orally or by conduct. [2019 c.182 §2] 
+
+   
+
+       679.552
+Prescription and administration of vaccines; approved training course; rules. (1)(a) In accordance with rules
+adopted by the Oregon Board of Dentistry, a dentist may prescribe and
+administer vaccines to a person with whom the dentist has established a patient
+relationship. 
+
+       (b) The board
+shall approve a training course on the prescription and administration of
+vaccines. The board may approve a training course offered by the Centers for
+Disease Control and Prevention, the American Dental Association or its
+successor organization or other similar federal agency or professional
+organization. 
+
+       (c) The board may
+adopt other rules as necessary to carry out this section. 
+
+       (2) The board
+shall adopt rules relating to the prescription and administration of vaccines
+by dentists, including rules requiring dentists to: 
+
+       (a) Report the
+prescription and administration of vaccines to the immunization registry
+created by the Oregon Health Authority pursuant to ORS 433.094; 
+
+       (b) Prior to
+administering a vaccine, review the patient’s vaccination history in the
+immunization registry described in this subsection; 
+
+       (c) Comply with
+protocols established by the authority for the prescription and administration
+of vaccines under subsection (1) of this section; and 
+
+       (d) Comply with
+any applicable rules adopted by the authority related to vaccines. 
+
+       (3) In
+consultation with the board, the authority may adopt rules related to vaccines
+prescribed and administered by dentists. [2019 c.58 §2] 
+
+   
+
+       679.555 Rules
+for certification as dental assistant; examination requirements. (1) In adopting rules related to
+the requirements for certification as a dental assistant, including any type of
+expanded function dental assistant, the Oregon Board of Dentistry may require
+an applicant for certification to pass a written examination. If passage of a
+written examination is required for certification as a dental assistant,
+including any type of expanded function dental assistant, the board may accept
+the results of any examination that is: 
+
+       (a)(A)
+Administered by a dental education program in this state that is accredited by
+the Commission on Dental Accreditation of the American Dental Association, or
+its successor organization, and approved by the board by rule; 
+
+       (B) Administered
+by a dental education program in this state that is approved by the Commission
+for Continuing Education Provider Recognition of the American Dental
+Association, or its successor organization, and approved by the board by rule;
+or 
+
+       (C) An
+examination comparable to an examination described in subparagraph (A) or (B)
+of this paragraph that is administered by a testing agency approved by the
+board by rule; and 
+
+       (b) Offered in
+plain language in English, Spanish and Vietnamese. 
+
+       (2) The board may
+not require an applicant for certification as a dental assistant, including any
+type of expanded function dental assistant, to complete more than one written
+examination for certification as that type of dental assistant. [2023 c.436 §2] 
+
+   
+
+ DENTAL THERAPY 
+
+   
+
+       679.600
+Definitions for ORS 679.600 to 679.630. As used in ORS 679.600 to 679.630: 
+
+       (1) “Collaborative
+agreement” means a written and signed agreement entered into between a dentist
+and a dental therapist under ORS 679.618. 
+
+       (2) “Dental pilot
+project” means an Oregon Health Authority dental pilot project developed and
+operated by the authority. 
+
+       (3) “Dentist”
+means a person licensed to practice dentistry under this chapter. [2021 c.530 §2] 
+
+   
+
+       679.603 Dental
+therapy license. 
+(1) The Oregon Board of Dentistry shall issue a license to practice dental
+therapy to an applicant who: 
+
+       (a) Is at least
+18 years of age; 
+
+       (b) Submits to
+the board a completed application form; 
+
+       (c) Demonstrates: 
+
+       (A) The
+completion of a dental therapy education program that is accredited by the
+Commission on Dental Accreditation of the American Dental Association, or its
+successor organization, and approved by the board by rule; or 
+
+       (B) That the
+applicant is or was a participant in a dental pilot project; 
+
+       (d) Passes an
+examination described in ORS 679.606; and 
+
+       (e) Pays the
+application and licensure fees established by the board. 
+
+       (2)(a) An
+individual who completed a dental therapy education program in another state or
+jurisdiction may apply for licensure under this section if the dental therapy
+education program is accredited by the Commission on Dental Accreditation of
+the American Dental Association, or its successor organization. 
+
+       (b) The board
+shall determine whether the training and education of an applicant described in
+this subsection is sufficient to meet the requirements of subsection (1) of
+this section. 
+
+       (3) If an
+applicant holds a current or expired authorization to practice dental therapy
+issued by another state, the federal government or a tribal authority, the
+applicant shall include with the application a copy of the authorization and an
+affidavit from the dental regulatory body of the other jurisdiction that
+demonstrates the applicant was authorized to practice dental therapy in that
+jurisdiction. [2021 c.530 §§3,3a] 
+
+   
+
+       679.606
+Examinations, reexamination; acceptable results; rules. (1)(a) The Oregon Board of
+Dentistry may require an applicant for a license to practice dental therapy to
+pass written, laboratory or clinical examinations to test the professional
+knowledge and skills of the applicant. 
+
+       (b) The
+examinations may not be affiliated with or administered by a dental pilot
+project or a dental therapy education program described in ORS 679.603. 
+
+       (c) The
+examinations must: 
+
+       (A) Be elementary
+and practical in character, and sufficiently thorough to test the fitness of
+the applicant to practice dental therapy; 
+
+       (B) Be written in
+English; and 
+
+       (C) Include
+questions on subjects pertaining to dental therapy. 
+
+       (2) If a test or
+examination was taken within five years of the date of application and the
+applicant received a passing score on the test or examination, as established
+by the board by rule, the board: 
+
+       (a) To satisfy
+the written examination authorized under this section, may accept the results
+of national standardized examinations. 
+
+       (b) To satisfy
+the laboratory or clinical examination authorized under this section: 
+
+       (A) Shall accept
+the results of regional and national testing agencies or clinical board
+examinations administered by other states; and 
+
+       (B) May accept
+the results of board-recognized testing agencies. 
+
+       (3) The board
+shall accept the results of regional and national testing agencies or of
+clinical board examinations administered by other states, and may accept
+results of board-recognized testing agencies, in satisfaction of the
+examinations authorized under this section for applicants who have engaged in
+the active practice of dental therapy in Oregon, another state, the Armed
+Forces of the United States, the United States Public Health Service or the
+United States Department of Veterans Affairs for a period of at least 3,500
+hours in the five years immediately preceding application and who meet all
+other requirements for licensure. 
+
+       (4) The board
+shall establish rules related to reexamination for an applicant who fails an
+examination. [2021 c.530 §4] 
+
+   
+
+       679.609
+Grounds for refusal to issue or renew license. The Oregon Board of Dentistry may
+refuse to issue or renew a license to practice dental therapy if the applicant
+or licensee: 
+
+       (1) Subject to
+ORS 670.280, has been convicted of a violation of the law. A certified copy of
+the record of conviction is conclusive evidence of conviction. 
+
+       (2) Has been
+disciplined by a state licensing or regulatory agency of this state or another
+state regarding a health care profession if, in the judgment of the board, the
+acts or conduct resulting in the disciplinary action bears a demonstrable
+relationship to the ability of the applicant or licensee to practice dental
+therapy in accordance with ORS 679.600 to 679.630. A certified copy of the
+disciplinary action is conclusive evidence of the disciplinary action. 
+
+       (3) Has falsified
+an application for issuance or renewal of licensure. 
+
+       (4) Has violated
+any provision of ORS 679.600 to 679.630 or a rule adopted under ORS 679.600 to
+679.630. [2021 c.530 §5] 
+
+   
+
+       679.612
+Prohibition on unauthorized practice, use of title; exceptions. (1) A person may not practice
+dental therapy or assume or use any title, words or abbreviations, including
+the title or designation “dental therapist,” that indicate that the person is
+authorized to practice dental therapy unless the person is licensed under ORS
+679.603. 
+
+       (2) Subsection
+(1) of this section does not prohibit: 
+
+       (a) The practice
+of dental therapy by a health care provider performing services within the
+health care provider’s authorized scope of practice. 
+
+       (b) The practice
+of dental therapy in the discharge of official duties on behalf of the United
+States government, including but not limited to the Armed Forces of the United
+States, the United States Coast Guard, the United States Public Health Service,
+the United States Bureau of Indian Affairs or the United States Department of
+Veterans Affairs. 
+
+       (c) The practice
+of dental therapy pursuant to an educational program described in ORS 679.603. 
+
+       (d) A dental
+therapist authorized to practice in another state or jurisdiction from making a
+clinical presentation sponsored by a bona fide dental or dental therapy
+association or society or an accredited dental or dental therapy education
+program approved by the Oregon Board of Dentistry. 
+
+       (e) Bona fide
+students of dental therapy from engaging in clinical studies during the period
+of their enrollment and as a part of the course of study in a dental therapy
+education program described in ORS 679.603 (1). The clinical studies may be
+conducted on the premises of the program or in a clinical setting located off
+the premises. The facility, instructional staff and course of study at an
+off-premises location must meet minimum requirements established by the board
+by rule. The clinical studies at the off-premises location must be performed
+under the indirect supervision of a member of the program faculty. 
+
+       (f) Bona fide
+full-time students of dental therapy, during the period of their enrollment and
+as a part of the course of study in a dental therapy education program located
+outside of Oregon that is accredited by the Commission on Dental Accreditation
+of the American Dental Association or its successor agency, from engaging in
+community-based or clinical studies as an elective or required rotation in a
+clinical setting located in Oregon, if the community-based or clinical studies
+meet minimum requirements established by the board by rule and are performed
+under the indirect supervision of a member of the faculty of the Oregon Health
+and Science University School of Dentistry. 
+
+       (g) The
+performance of duties by a federally certified dental health aide therapist or
+tribally authorized dental therapist in a clinic operated by the Indian Health
+Service, including, as described in 25 U.S.C. 1603, an Indian Health Service
+Direct Service Tribe clinic, a clinic operated under an Indian
+Self-Determination and Education Assistance Act of 1975 (P.L. 93-638) contract
+or a clinic operated under an urban Indian organization. [2021 c.530 §6] 
+
+   
+
+       679.615 Fees;
+waiver of fees; license renewal. 
+(1) The Oregon Board of Dentistry may impose nonrefundable fees for the
+following: 
+
+       (a) Application
+for licensure; 
+
+       (b) Examinations; 
+
+       (c) Biennial
+dental therapy licenses, both active and inactive; 
+
+       (d) Licensure
+renewal fees; 
+
+       (e) Permits; and 
+
+       (f) Delinquency. 
+
+       (2) Subject to
+prior approval of the Oregon Department of Administrative Services, the fees
+and charges established under ORS 679.600 to 679.630 may not exceed the cost of
+administering ORS 679.600 to 679.630 as authorized by the Legislative Assembly
+within the Oregon Board of Dentistry budget and as modified by the Emergency
+Board. 
+
+       (3)(a) The Oregon
+Board of Dentistry may waive a license fee for a licensee who provides to the
+board satisfactory evidence that the licensee has discontinued the practice of
+dental therapy because of retirement. 
+
+       (b) A licensee
+described in this subsection may apply to the board for reinstatement of the
+license pursuant to rules adopted by the board. An application under this
+paragraph must include a fee. If the licensee has been retired or inactive for
+more than one year from the date of application, the licensee shall include
+with the application satisfactory evidence of clinical competence, as
+determined by the board. 
+
+       (4)(a) A license
+to practice dental therapy is valid for two years and may be renewed. A
+licensee shall submit to the board an application for renewal and payment of
+the fee. 
+
+       (b) A dental
+therapist issued a license in an even-numbered year must apply for renewal by
+September 30 of each even-numbered year thereafter. A dental therapist issued a
+license in an odd-numbered year must apply for renewal by September 30 of each
+odd-numbered year thereafter. 
+
+       (c) The board may
+charge a reasonable fee if the application for renewal or the fee is submitted
+more than 10 days delinquent. 
+
+       (5) A dental
+therapist shall inform the board of a change of the dental therapist’s address
+within 30 days of the change. [2021 c.530 §7; 2023 c.602 §23] 
+
+   
+
+       679.618
+Collaborative agreement required to practice dental therapy; required
+provisions; duties of dentist. 
+(1) A dental therapist may practice dental therapy only under the supervision
+of a dentist and pursuant to a collaborative agreement with the dentist that
+outlines the supervision logistics and requirements for the dental therapist’s
+practice. The collaborative agreement must include at least the following
+information: 
+
+       (a) The level of
+supervision required for each procedure performed by the dental therapist; 
+
+       (b) Circumstances
+under which the prior knowledge and consent of the dentist is required to allow
+the dental therapist to provide a certain service or perform a certain
+procedure; 
+
+       (c) The practice
+settings in which the dental therapist may provide care; 
+
+       (d) Any
+limitation on the care the dental therapist may provide; 
+
+       (e) Patient
+age-specific and procedure-specific practice protocols, including case
+selection criteria, assessment guidelines and imaging frequency; 
+
+       (f) Procedures
+for creating and maintaining dental records for patients treated by the dental
+therapist; 
+
+       (g) Guidelines
+for the management of medical emergencies in each of the practice settings in
+which the dental therapist provides care; 
+
+       (h) A quality
+assurance plan for monitoring care provided by the dental therapist, including
+chart review, patient care review and referral follow-up; 
+
+       (i) Protocols for
+the dispensation and administration of drugs, as described in ORS 679.621, by
+the dental therapist, including circumstances under which the dental therapist
+may dispense and administer drugs; 
+
+       (j) Criteria for
+the provision of care to patients with specific medical conditions or complex
+medical histories, including any requirements for consultation with the dentist
+prior to the provision of care; and 
+
+       (k) Protocols for
+when a patient requires treatment outside the dental therapist’s scope of
+practice, including for referral of the patient for evaluation and treatment by
+the dentist, a physician licensed under ORS chapter 677, a nurse practitioner
+licensed under ORS 678.375 to 678.390 or other licensed health care provider. 
+
+       (2) In addition
+to the information described in subsection (1) of this section, a collaborative
+agreement must include a provision that requires the dental therapist to
+consult with a dentist if the dental therapist intends to perform an
+irreversible surgical procedure under general supervision on a patient who has
+a severe systemic disease. 
+
+       (3) A dentist who
+enters into a collaborative agreement with a dental therapist shall: 
+
+       (a) Directly
+provide care to a patient that is outside the scope of practice of the dental
+therapist or arrange for the provision of care by another dentist; and 
+
+       (b) Ensure that
+the dentist, or another dentist, is available to the dental therapist for
+timely communication during the dental therapist’s provision of care to a
+patient. 
+
+       (4) A dental
+therapist may perform and provide only those procedures and services authorized
+by the dentist and set out in the collaborative agreement, and shall maintain
+with the dentist an appropriate level of contact, as determined by the dentist. 
+
+       (5) A dental
+therapist and a dentist who enter into a collaborative agreement together shall
+each maintain a physical copy of the collaborative agreement. 
+
+       (6)(a) A dental
+therapist may enter into collaborative agreements with more than one dentist if
+each collaborative agreement includes the same supervision requirements and
+scope of practice. 
+
+       (b) A dentist may
+supervise and enter into collaborative agreements with up to three dental
+therapists at any one time. 
+
+       (7)(a) A
+collaborative agreement must be signed by the dentist and dental therapist. 
+
+       (b) A dental
+therapist shall annually submit a signed copy of the collaborative agreement to
+the Oregon Board of Dentistry. If the collaborative agreement is revised in
+between annual submissions, a signed copy of the revised collaborative
+agreement must be submitted to the board as soon as practicable after the
+revision is made. [2021 c.530 §8] 
+
+   
+
+       679.621 Dental
+therapist scope of practice; duties of dentist; authority of dental therapist
+to supervise. (1)
+A dental therapist may perform, pursuant to the dental therapist’s
+collaborative agreement, the following procedures under the general supervision
+of the dentist: 
+
+       (a)
+Identification of conditions requiring evaluation, diagnosis or treatment by a
+dentist, a physician licensed under ORS chapter 677, a nurse practitioner
+licensed under ORS 678.375 to 678.390 or other licensed health care provider; 
+
+       (b) Comprehensive
+charting of the oral cavity; 
+
+       (c) Oral health
+instruction and disease prevention education, including nutritional counseling
+and dietary analysis; 
+
+       (d) Exposing and
+evaluation of radiographic images; 
+
+       (e) Dental
+prophylaxis, including subgingival scaling and polishing procedures; 
+
+       (f) Application
+of topical preventive or prophylactic agents, including fluoride varnishes and
+pit and fissure sealants; 
+
+       (g) Administering
+local anesthetic; 
+
+       (h) Pulp vitality
+testing; 
+
+       (i) Application
+of desensitizing medication or resin; 
+
+       (j) Fabrication
+of athletic mouth guards; 
+
+       (k) Changing of
+periodontal dressings; 
+
+       (L) Simple
+extractions of erupted primary anterior teeth and coronal remnants of any
+primary teeth; 
+
+       (m) Emergency
+palliative treatment of dental pain; 
+
+       (n) Preparation
+and placement of direct restoration in primary and permanent teeth; 
+
+       (o) Fabrication
+and placement of single-tooth temporary crowns; 
+
+       (p) Preparation
+and placement of preformed crowns on primary teeth; 
+
+       (q) Indirect pulp
+capping on permanent teeth; 
+
+       (r) Indirect pulp
+capping on primary teeth; 
+
+       (s) Suture
+removal; 
+
+       (t) Minor
+adjustments and repairs of removable prosthetic devices; 
+
+       (u) Atraumatic
+restorative therapy and interim restorative therapy; 
+
+       (v) Oral
+examination, evaluation and diagnosis of conditions within the supervising
+dentist’s authorization; 
+
+       (w) Removal of
+space maintainers; 
+
+       (x) The
+dispensation and oral or topical administration of: 
+
+       (A) Nonnarcotic
+analgesics; 
+
+       (B)
+Anti-inflammatories; and 
+
+       (C) Antibiotics;
+and 
+
+       (y) Other services
+as specified by the Oregon Board of Dentistry by rule. 
+
+       (2) A dental
+therapist may perform, pursuant to the dental therapist’s collaborative
+agreement, the following procedures under the indirect supervision of the
+dentist: 
+
+       (a) Placement of
+temporary restorations; 
+
+       (b) Fabrication
+of soft occlusal guards; 
+
+       (c) Tissue
+reconditioning and soft reline; 
+
+       (d) Tooth
+reimplantation and stabilization; 
+
+       (e) Recementing
+of permanent crowns; 
+
+       (f) Pulpotomies
+on primary teeth; 
+
+       (g) Simple
+extractions of: 
+
+       (A) Erupted
+posterior primary teeth; and 
+
+       (B) Permanent
+teeth that have horizontal movement of greater than two millimeters or vertical
+movement and that have at least 50 percent periodontal bone loss; 
+
+       (h) Brush
+biopsies; and 
+
+       (i) Direct pulp
+capping on permanent teeth. 
+
+       (3) The dentist
+described in subsection (2) of this section shall review a procedure described
+in subsection (2) of this section that is performed by the dental therapist and
+the patient chart that contains information regarding the procedure. 
+
+       (4)(a) A dental
+therapist may supervise a dental assistant and an expanded function dental
+assistant, as defined by the board by rule, if the dental therapist is
+authorized to perform the services provided by the dental assistant or expanded
+function dental assistant. 
+
+       (b) A dental
+therapist may supervise up to two individuals under this subsection. [2021
+c.530 §9] 
+
+   
+
+       679.624 Dental
+therapist authority to perform specified procedures; liability insurance;
+patient population requirement. 
+(1) A dental therapist may perform the procedures listed in ORS 679.621 so long
+as the procedures are included in an education program described in ORS 679.603
+(1) or the dental therapist has received additional training in the procedure
+approved by the Oregon Board of Dentistry. 
+
+       (2) A dental
+therapist shall purchase and maintain liability insurance as determined
+sufficient by the board. 
+
+       (3) A dental
+therapist shall dedicate at least 51 percent of the dental therapist’s practice
+to patients who represent underserved populations, as defined by the Oregon
+Health Authority by rule, or patients located in dental care health
+professional shortage areas, as determined by the authority. [2021 c.530 §10] 
+
+   
+
+       679.627
+Discipline. A
+person licensed under ORS 679.603 is subject to the provisions of ORS 679.140. [2021
+c.530 §11] 
+
+   
+
+       679.630 Rules. The Oregon Board of Dentistry
+shall adopt rules necessary to administer ORS 679.600 to 679.630. In adopting
+rules under this section, the board shall consult with dental therapists and
+organizations that represent dental therapists in this state. [2021 c.530 §12] 
+
+   
+
+ DENTAL LABORATORIES 
+
+   
+
+       679.700
+Definitions for ORS 679.700 to 679.720. As used in ORS 679.700 to 679.720: 
+
+       (1) “Certified
+dental laboratory technician” means a dental laboratory technician who is
+certified by the National Board for Certification in Dental Laboratory
+Technology, or its successor organization, as approved by the Health Licensing
+Office by rule. 
+
+       (2) “Dental
+laboratory” means a facility where one or more dental laboratory technicians
+make, provide, repair or alter dental prosthetic appliances and other
+artificial materials and devices that are returned to a dentist and inserted
+into the human oral cavity, or that come into contact with the human oral
+cavity’s adjacent structures and tissues, of a dental patient. 
+
+       (3) “Dental
+laboratory technician” means a person who, pursuant to a dentist’s prescribed
+work order, makes, provides, repairs or alters dental prosthetic appliances and
+other artificial materials and devices that are returned to the dentist and
+inserted into the human oral cavity, or that come into contact with the human
+oral cavity’s adjacent structures and tissues, of the dentist’s patient. 
+
+       (4) “Dentist”
+means a dentist licensed under ORS chapter 679. 
+
+       (5) “Material
+content disclosure” means a notice provided to a dentist by a dental laboratory
+that includes: 
+
+       (a) The name,
+physical address and registration number of the dental laboratory; 
+
+       (b) The city,
+state and country of origin where the technological work under the work order
+was performed in whole or in part; 
+
+       (c) The city,
+state and country of the dental laboratory or dental laboratories that
+manufactured or repaired, directly or indirectly, the dental prosthetic
+appliances or other artificial materials and devices ordered under the work
+order; and 
+
+       (d) So that the
+dentist may include the information in the patient’s record, the manufacturer
+and brand name or the United States Food and Drug Administration registration
+number of all patient contact materials used in a dental prosthetic appliance
+or other artificial material or device that is inserted into the human oral
+cavity, or that comes into contact with the human oral cavity’s adjacent
+structures and tissues, of the dentist’s patient. 
+
+       (6) “Responsible
+person” means the person who: 
+
+       (a) Controls a
+majority interest in a dental laboratory; or 
+
+       (b) Is primarily
+responsible for the supervision of the day-to-day operations of the dental
+laboratory. 
+
+       (7) “Work order”
+means a written instrument prescribed by a dentist that directs a dental
+laboratory to, for an individual patient, make, provide, repair or alter one or
+more dental prosthetic appliances or other artificial materials or devices that
+will be returned to the dentist and inserted into the human oral cavity, or
+that will come into contact with the human oral cavity’s adjacent structures
+and tissues, of the dentist’s patient. [2025 c.199 §1] 
+
+   
+
+       Note: 679.700 becomes operative July 1,
+2026. See section 19, chapter 199, Oregon Laws 2025. 
+
+   
+
+       Note: 679.700 to 679.720 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 679 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation. 
+
+   
+
+       679.705 Dental
+laboratory registration requirement; exceptions. (1) A dental laboratory may not
+operate or do business in this state unless the dental laboratory holds an
+active registration issued by the Health Licensing Office under ORS 679.710. 
+
+       (2) A dental
+laboratory is considered to operate or do business in this state if the dental
+laboratory is physically located within this state or prepares work product
+pursuant to a work order that originated from a dentist licensed in this state. 
+
+       (3)(a) Subsection
+(1) of this section does not apply to a dental laboratory that: 
+
+       (A) Is in a
+dental office; 
+
+       (B) Is owned and
+operated by and under the supervision of a practicing dentist; and 
+
+       (C) Does not
+perform work pursuant to work orders that originate from outside of the dentist’s
+practice. 
+
+       (b) A dental laboratory
+described in paragraph (a) of this subsection shall annually file with the
+office: 
+
+       (A) The address
+of the dental laboratory; and 
+
+       (B) The name,
+license number and contact information of the dentist described in paragraph
+(a) of this subsection. 
+
+       (4) A dental
+laboratory operated as part of an educational program is not required to
+register under ORS 679.710 if the dental laboratory is operated solely for the
+purpose of allowing students to perform duties that are part of a supervised
+course of study in an educational program that meets any of the accreditation
+standards described in ORS chapter 679. 
+
+       (5) ORS 679.700
+to 679.720 do not apply to services authorized under: 
+
+       (a) ORS 680.010
+to 680.205 when performed by a dental hygienist licensed under ORS 680.010 to
+680.205; or 
+
+       (b) ORS 680.500
+to 680.565 when performed by a denturist licensed under ORS 680.500 to 680.565.
+[2025 c.199 §2] 
+
+   
+
+       Note: 679.705 becomes operative July 1,
+2026. See section 19, chapter 199, Oregon Laws 2025. 
+
+   
+
+       Note: See second note under 679.700. 
+
+   
+
+       679.710 Dental
+laboratory registration; eligibility. 
+(1) The Health Licensing Office may issue a dental laboratory registration to
+an applicant that submits a completed application and pays the fee established
+under ORS 676.576. The application must include: 
+
+       (a) The name,
+mailing address, phone number and electronic mail address of the dental
+laboratory; 
+
+       (b) The physical
+address of the dental laboratory if different than the mailing address; 
+
+       (c) The name,
+mailing address, phone number and electronic mail address of the responsible
+person or the name and license number of the dentist who supervises the dental
+laboratory; 
+
+       (d) An
+attestation by the responsible person or the dentist supervising the dental
+laboratory that the dental laboratory meets the infectious disease control
+requirements of the federal Occupational Safety and Health Administration and
+the Centers for Disease Control and Prevention; and 
+
+       (e) An
+attestation by the responsible person or the dentist supervising the dental
+laboratory that the dental laboratory will comply with the requirements of ORS
+679.715. 
+
+       (2) To be
+eligible for registration under this section, the applicant must include with
+the application documentation that the applicant, or an employee of the
+applicant who works at least 30 hours per week in the dental laboratory: 
+
+       (a) Has
+successfully completed, during the 12 months immediately preceding the
+application for registration, at least 12 hours of continuing education in
+dental laboratory technology approved or accepted by the National Board for
+Certification in Dental Laboratory Technology, or its successor organization,
+and by the Health Licensing Office; 
+
+       (b) Is a
+certified dental laboratory technician in good standing; or 
+
+       (c) Is a dentist. 
+
+       (3) The office
+shall assign a registration number to each registered dental laboratory. The
+dental laboratory shall include the dental laboratory registration number on
+all invoices and other correspondence of the dental laboratory. 
+
+       (4) A dental
+laboratory registered under this section shall maintain a qualified employee as
+described in subsection (2) of this section. 
+
+       (5) A dental
+laboratory registration is valid for one year. [2025 c.199 §3] 
+
+   
+
+       Note: 679.710 becomes operative July 1,
+2026. See section 19, chapter 199, Oregon Laws 2025. 
+
+   
+
+       Note: The amendments to 679.710 by
+section 8, chapter 199, Oregon Laws 2025, become operative January 1, 2030. See
+section 19, chapter 199, Oregon Laws 2025. The text that is operative on and
+after January 1, 2030, is set forth for the user’s convenience. 
+
+       679.710. (1) The Health Licensing Office
+may issue a dental laboratory registration to an applicant that submits a
+completed application and pays the fee established under ORS 676.576. The
+application must include: 
+
+       (a) The name,
+mailing address, phone number and electronic mail address of the dental
+laboratory; 
+
+       (b) The physical
+address of the dental laboratory if different than the mailing address; 
+
+       (c) The name,
+mailing address, phone number and electronic mail address of the responsible
+person or the name and license number of the dentist who supervises the dental
+laboratory; 
+
+       (d) An
+attestation by the responsible person or the dentist supervising the dental
+laboratory that the dental laboratory meets the infectious disease control
+requirements of the federal Occupational Safety and Health Administration and
+the Centers for Disease Control and Prevention; and 
+
+       (e) An
+attestation by the responsible person or the dentist supervising the dental
+laboratory that the dental laboratory will comply with the requirements of ORS
+679.715. 
+
+       (2)(a) To be
+eligible for registration under this section, the applicant must include with
+the application documentation that the dental laboratory: 
+
+       (A) Employs a
+certified dental laboratory technician who is in good standing with the
+National Board for Certification in Dental Laboratory Technology, or its
+successor organization, and approved by the Health Licensing Office by rule,
+and who works at least 30 hours per week in the dental laboratory; or 
+
+       (B) Is operated
+under the supervision of a dentist who works at least 30 hours per week in the
+dental laboratory. 
+
+       (b) Paragraph (a)
+of this subsection does not apply to a dental laboratory that provides to the
+office documentation that the dental laboratory has been continuously owned and
+operated by the same individual since January 1, 2013. 
+
+       (3) The office
+shall assign a registration number to each registered dental laboratory. The
+dental laboratory shall include the dental laboratory registration number on
+all invoices and other correspondence of the dental laboratory. 
+
+       (4) A dental
+laboratory registered under this section shall maintain a qualified employee as
+described in subsection (2) of this section. 
+
+       (5) A dental
+laboratory registration is valid for one year. 
+
+   
+
+       Note: See second note under 679.700. 
+
+   
+
+       679.715
+Material content and point of origin disclosures. (1) A dental laboratory registered
+under ORS 679.710 shall provide to a prescribing dentist who submits a work
+order to the dental laboratory: 
+
+       (a) A material
+content disclosure for each dental prosthetic appliance or other artificial
+material or device in a manner that is easily entered into the patient record;
+and 
+
+       (b) The point of
+origin of the manufacture of each dental prosthetic appliance or other
+artificial material or device ordered under the work order. 
+
+       (2) If a dental
+prosthetic appliance or other artificial material or device ordered under the
+work order was partially or entirely manufactured by one or more third parties,
+the point of origin disclosure described in subsection (1) of this section must
+identify: 
+
+       (a) The portion
+of the dental prosthetic appliance or other artificial material or device that
+was manufactured by the third party; and 
+
+       (b) The city,
+state and country of each third party. [2025 c.199 §4] 
+
+   
+
+       Note: 679.715 becomes operative July 1,
+2026. See section 19, chapter 199, Oregon Laws 2025. 
+
+   
+
+       Note: See second note under 679.700. 
+
+   
+
+       679.720
+Discipline. In the
+manner prescribed in ORS chapter 183 for contested cases, the Health Licensing
+Office may impose a form of discipline listed in ORS 676.612 against a dental
+laboratory registered under ORS 679.710 for any violation of ORS 679.700 to
+679.720 or rules adopted under ORS 679.700 to 679.720 or for the commission of
+a prohibited act described in ORS 676.612. [2025 c.199 §5] 
+
+   
+
+       Note: 679.720 becomes operative July 1,
+2026. See section 19, chapter 199, Oregon Laws 2025. 
+
+   
+
+       Note: See second note under 679.700. 
+
+   
+
+       679.730 Rules. The Health Licensing Office may
+adopt rules to carry out ORS 679.700 to 679.720. [2025 c.199 §7] 
+
+   
+
+       Note: 679.730 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 679
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       679.990 [Repealed by 1957 c.552 §6
+(679.991 enacted in lieu of 679.990)] 
+
+   
+
+ PENALTIES 
+
+   
+
+       679.991
+Penalties for violations of ORS 679.020, 679.025, 679.170 or 679.176. (1) Violation of any provision of
+ORS 679.020 or 679.025 (1) is a Class C felony. 
+
+       (2) Violation of
+ORS 679.170 or 679.176 is a Class B misdemeanor. 
+
+       (3) In the event
+of a second or subsequent conviction under subsection (1) of this section, the
+court must impose a minimum sentence of 10 days of imprisonment. 
+
+       (4) In any
+prosecution for violation of subsection (1) or (2) of this section, it is
+sufficient to sustain a conviction to show a single act of conduct in violation
+of any of the provisions of this chapter and it is not necessary to show a
+general course of such conduct. [1957 c.552 §7 (enacted in lieu of 679.990);
+1963 c.284 §16; 1971 c.743 §407; 1973 c.390 §8; 1977 c.192 §10; 1985 c.323 §15;
+2011 c.388 §1; 2011 c.597 §280] 
+
+   
+
+       679.994
+Penalties for violations of ORS 679.705. Violation of ORS 679.705 is a Class B violation. [2025
+c.199 §6] 
+
+   
+
+       Note: 679.994 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 679
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

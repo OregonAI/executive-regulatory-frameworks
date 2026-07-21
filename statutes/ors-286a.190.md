@@ -1,0 +1,52 @@
+---
+id: ors-286a.190
+title: "Disclosure of bond ownership"
+doc_type: statute
+citation: "ORS 286A.190"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html"
+source_format: html
+retrieved: "2026-07-20"
+source_sha256: "f1c25f8c13cd58df8f3f122d6276264ada3c8c1ab3eac74051b334e348645a2b"
+snapshot_id: ors-chapter-286a
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-20"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-286a"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> (retrieved 2026-07-20, 2025 Edition).
+
+# Disclosure of bond ownership (ORS 286A.190)
+
+## At a glance
+
+ORS 286A.190 — Disclosure of bond ownership. Chapter 286A (Chapter 286A), 2025 Edition.
+
+## Full text
+
+286A.190 Disclosure of bond ownership. The records of bond ownership are not public records for purposes of ORS 192.311 to 192.478 or other law governing the disclosure of information. [2007 c.783 §25] 
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> · retrieved 2026-07-20 · sha256 `f1c25f8c13cd58df8f3f122d6276264ada3c8c1ab3eac74051b334e348645a2b`
+  (chapter snapshot `_meta/snapshots/ors-chapter-286a.html`)
+- See [CHANGELOG](./CHANGELOG.md).

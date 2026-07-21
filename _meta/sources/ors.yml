@@ -5,6 +5,197 @@ recheck: biennial
 upstream_signal: Biennial ORS edition (odd-year sessions), oregonlegislature.gov chapter HTML
 last_checked: '2026-07-18'
 sources:
+- id: ors-chapter-100
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors100.html
+  sha256: 2eb5068fb6691daf53dfb4cd7ac051d378dca49611857b85754b490a8d3a56d8
+  last_checked: '2026-07-20'
+  notes: ORS chapter 100 (Chapter 100), 2025 Edition
+- id: ors-chapter-101
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors101.html
+  sha256: 05dc1e2f62ef5b5e90b3d340b27926f75b7d494cc24a62c7073993053103ee31
+  last_checked: '2026-07-20'
+  notes: ORS chapter 101 (Chapter 101), 2025 Edition
+- id: ors-chapter-105
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors105.html
+  sha256: 7129de03e57015a613280a78f4a00d732d4dfc2c74a470b1ec2141301a4dbb20
+  last_checked: '2026-07-20'
+  notes: ORS chapter 105 (Chapter 105), 2025 Edition
+- id: ors-chapter-106
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors106.html
+  sha256: 761cf475f28f098cd1adaf89f014d2c7f2b2a50c20d518fecaef33865496593d
+  last_checked: '2026-07-20'
+  notes: ORS chapter 106 (Marriage; Domestic Partnership), 2025 Edition
+- id: ors-chapter-107
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors107.html
+  sha256: c79b891dc36e6852652dc56736c443ea44ab331ae60dd9ba8988ed0db11a179a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 107 (Chapter 107), 2025 Edition
+- id: ors-chapter-108
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors108.html
+  sha256: f37704a9a408b34f340ebc928e72c61298cbfc8686250bb27485496fb8d07324
+  last_checked: '2026-07-20'
+  notes: ORS chapter 108 (Chapter 108), 2025 Edition
+- id: ors-chapter-109
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors109.html
+  sha256: 8c097d106bd7cb0d8aab2b56bf909418f0be16f2171e1b192e6a79b669b5e325
+  last_checked: '2026-07-20'
+  notes: ORS chapter 109 (Chapter 109), 2025 Edition
+- id: ors-chapter-110
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors110.html
+  sha256: b248eeafb0dd93af6b4094289a0a2a0ea999cc93bda89315bdb60017f6b0f36d
+  last_checked: '2026-07-20'
+  notes: ORS chapter 110 (Chapter 110), 2025 Edition
+- id: ors-chapter-113
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors113.html
+  sha256: 35b9ab4a3d6a57347bbf10851953ea8ab31e82f373f65a5ca9bd7068c915bfb4
+  last_checked: '2026-07-20'
+  notes: ORS chapter 113 (Chapter 113), 2025 Edition
+- id: ors-chapter-114
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors114.html
+  sha256: 2138e297d3f247cc88ff551c0cbfbb4fce8a6c1b1116be5c4dde069f63cca523
+  last_checked: '2026-07-20'
+  notes: ORS chapter 114 (Chapter 114), 2025 Edition
+- id: ors-chapter-115
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors115.html
+  sha256: aedf4a2af89f1944fa18972d5bb9f5b2e65c984e3c536e65a96c90768f38bed6
+  last_checked: '2026-07-20'
+  notes: ORS chapter 115 (Chapter 115), 2025 Edition
+- id: ors-chapter-116
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors116.html
+  sha256: 279ad2cc1eba3d028f49de1d90dc177d7206d9f0eabb02d28b133f005cb3e748
+  last_checked: '2026-07-20'
+  notes: ORS chapter 116 (Chapter 116), 2025 Edition
+- id: ors-chapter-118
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors118.html
+  sha256: fbe002ae2b4719194873fdbfb4caf89172a023d6f5b89a056a3acbffcfa9c97a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 118 (Chapter 118), 2025 Edition
+- id: ors-chapter-124
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors124.html
+  sha256: efdbfed1d85f99c0e43c6c08f6b833ca2b47bcf3fb4cf11dc3a760222d35405f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 124 (Abuse Prevention and Reporting; Civil Action for Abuse), 2025 Edition
+- id: ors-chapter-125
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors125.html
+  sha256: 369e8c4c0ed9805b2bcb93f8adf4ac69b1363b4fdf7a53b72ac1e7d80b022851
+  last_checked: '2026-07-20'
+  notes: ORS chapter 125 (Chapter 125), 2025 Edition
+- id: ors-chapter-127
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors127.html
+  sha256: 63802cd90a87cd39d2f81e7b0b9848ad52973d63ee5dcf8ac67fa9295276a857
+  last_checked: '2026-07-20'
+  notes: ORS chapter 127 (Chapter 127), 2025 Edition
+- id: ors-chapter-128
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors128.html
+  sha256: 3e0b28c03b1e4746065ac6dc8d1b0cc4429463ed2d35127c8397e30646e3cd82
+  last_checked: '2026-07-20'
+  notes: ORS chapter 128 (Chapter 128), 2025 Edition
+- id: ors-chapter-130
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors130.html
+  sha256: e12d6ea2c89ea9b1d745c625c2f7da510c4f2b6c11e588667d3411e045630346
+  last_checked: '2026-07-20'
+  notes: ORS chapter 130 (Chapter 130), 2025 Edition
+- id: ors-chapter-131
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors131.html
+  sha256: f23df6d4ef232832e744d987944eccda66524e7059a3012303dffcb29efedaf6
+  last_checked: '2026-07-20'
+  notes: ORS chapter 131 (Preliminary Provisions; Limitations; Jurisdiction; Venue; Criminal Forfeiture; Crime Prevention),
+    2025 Edition
+- id: ors-chapter-133
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors133.html
+  sha256: a24f7a67356df4a97d43c3949b3cac9ea2f3125ced5d98e8a6d917a8b92f1433
+  last_checked: '2026-07-20'
+  notes: ORS chapter 133 (Chapter 133), 2025 Edition
+- id: ors-chapter-136
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors136.html
+  sha256: 73efbcf8caca8950b307b5b7cd92fdf8cb7daddf6c7e7fc60349e751128c5021
+  last_checked: '2026-07-20'
+  notes: ORS chapter 136 (Chapter 136), 2025 Edition
+- id: ors-chapter-137
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors137.html
+  sha256: aafd5183175a4ae70c946afcd3ac985639f1c3de13be2d55b6c73da48dc364b2
+  last_checked: '2026-07-20'
+  notes: ORS chapter 137 (Chapter 137), 2025 Edition
+- id: ors-chapter-138
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors138.html
+  sha256: 6bfb88921ab754677233e9e4475ad56f9775b0c7610cca23a3a747f361569f6b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 138 (Chapter 138), 2025 Edition
+- id: ors-chapter-144
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors144.html
+  sha256: d7472e5b0ca49aba1d8d33be59abfb1a22359faaf68f4759ff39792a3515c75a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 144 (Chapter 144), 2025 Edition
+- id: ors-chapter-147
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors147.html
+  sha256: c6ec6d7d00ec98514ffbcd7fb66077d1197b5daf47cc0afee72183a445458b2f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 147 (Chapter 147), 2025 Edition
+- id: ors-chapter-153
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors153.html
+  sha256: 0821f157d1cc2687f43145e91106bf6693c9d44cf0a36493067cc98bdf21ec14
+  last_checked: '2026-07-20'
+  notes: ORS chapter 153 (Chapter 153), 2025 Edition
+- id: ors-chapter-156
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors156.html
+  sha256: 9ca199df06254edcd70a45e46b06d1bea6544426f8706733a068e39984d43f8c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 156 (Chapter 156), 2025 Edition
+- id: ors-chapter-161
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors161.html
+  sha256: 0cd8e4dd1a0a93fad3300bcf579c8855505efaa575bfcdcb09b2ac19662ebdc1
+  last_checked: '2026-07-20'
+  notes: ORS chapter 161 (General Provisions), 2025 Edition
+- id: ors-chapter-162
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors162.html
+  sha256: 21e016e3cd29f8de523235ec5ecba18155d2d822ce72511d328371d6ebc6eadf
+  last_checked: '2026-07-20'
+  notes: ORS chapter 162 (Chapter 162), 2025 Edition
+- id: ors-chapter-163
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors163.html
+  sha256: 929f6e026317f53119fec0761d530b54fe220ed46fe628ce004b296db1606bff
+  last_checked: '2026-07-20'
+  notes: ORS chapter 163 (Chapter 163), 2025 Edition
+- id: ors-chapter-163a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors163A.html
+  sha256: a0af41eae95f38173df74194d6c0c3f9aabf0f6a7092e4cc40e684a5a2004942
+  last_checked: '2026-07-20'
+  notes: ORS chapter 163A (Chapter 163A), 2025 Edition
+- id: ors-chapter-164
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors164.html
+  sha256: e1b17850f7d8c80d77e0d64dde20df37240fff9ee3b6afac96789201412b7264
+  last_checked: '2026-07-20'
+  notes: ORS chapter 164 (Chapter 164), 2025 Edition
+- id: ors-chapter-165
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors165.html
+  sha256: 887fa60d13fab2b9b8a3a61bdde229200673b8d3937f6772d4e47e6c6b439787
+  last_checked: '2026-07-20'
+  notes: ORS chapter 165 (Chapter 165), 2025 Edition
+- id: ors-chapter-166
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors166.html
+  sha256: be63ee50e8d448a9d96bf2cc7bef9f24028810a9a6c3fa1ad253a84e1700bc95
+  last_checked: '2026-07-20'
+  notes: ORS chapter 166 (Chapter 166), 2025 Edition
+- id: ors-chapter-167
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors167.html
+  sha256: e8761d76b48bbf23ebba46c8a29221410580ae8e594d738a43fa33618bd0f68d
+  last_checked: '2026-07-20'
+  notes: ORS chapter 167 (Chapter 167), 2025 Edition
+- id: ors-chapter-169
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors169.html
+  sha256: 97910268fc04ad9425f520ef394ad293c6b92e80845be8302b3887fa652cf93a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 169 (Chapter 169), 2025 Edition
+- id: ors-chapter-171
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors171.html
+  sha256: 3db01033c0aface9f29f4a30856250fd76219befc5fbee81bab3d0d8b9a2098a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 171 (State Legislature), 2025 Edition
+- id: ors-chapter-173
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors173.html
+  sha256: eeb4033572c1e4c0a4fc5e4414a758d0e2d5adf5b4cf120d767367f760040ac0
+  last_checked: '2026-07-20'
+  notes: ORS chapter 173 (Chapter 173), 2025 Edition
 - id: ors-chapter-174
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors174.html
   sha256: 84b10edfa50a9ca603dc3e8502f5f01ae39417afb4aef6fd38c1c411a969f397
@@ -35,6 +226,11 @@ sources:
   sha256: bb82ff1b3157e681720662ed1c32ae4f2f4e21728a752f81643456ec57c3f7d8
   last_checked: '2026-07-18'
   notes: ORS chapter 180 (Attorney General; Department of Justice), 2025 Edition
+- id: ors-chapter-181
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors181.html
+  sha256: 24f2dcceabac4b607a15d910d998642d3ea936121ac812aab4f8f8f27a59d375
+  last_checked: '2026-07-20'
+  notes: ORS chapter 181 (Chapter 181), 2025 Edition
 - id: ors-chapter-181a
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html
   sha256: 741829874bcccee3761335175df3fe1ed7d39f68c07b6c9aed0c21c2ffd131ad
@@ -61,16 +257,206 @@ sources:
   last_checked: '2026-07-18'
   notes: ORS chapter 185 (Oregon Disabilities Commission; Commissions on Hispanic Affairs, Black Affairs, and Asian
     and Pacific Islander Affairs; Commission for Women), 2025 Edition
+- id: ors-chapter-187
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors187.html
+  sha256: 48c1ffa4f9874ed2e189553fc64e2f895c46c457de1affb2db37cea854bb166a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 187 (Chapter 187), 2025 Edition
+- id: ors-chapter-188
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors188.html
+  sha256: 2c776d6ecfc26a0908a0f8b76612db7fce111ab295910666c286c07b811a6eef
+  last_checked: '2026-07-20'
+  notes: ORS chapter 188 (Chapter 188), 2025 Edition
+- id: ors-chapter-190
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors190.html
+  sha256: cd0d3ca01be66e4cd851578385ed24cb8453ac2a39a2e2b7ea0e4153004c830b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 190 (Chapter 190), 2025 Edition
 - id: ors-chapter-192
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors192.html
   sha256: 807d082f52b2a24fefff22ddad950f17557af3dc0d7b55b9572c6bad7dfadcdf
   last_checked: '2026-07-18'
   notes: ORS chapter 192 (Records; Reports and Meetings), 2025 Edition
+- id: ors-chapter-194
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors194.html
+  sha256: 544efce11f9fc23475070ddb83c4f7a3780c27f799aaaa3b03f852243bfec877
+  last_checked: '2026-07-20'
+  notes: ORS chapter 194 (Chapter 194), 2025 Edition
+- id: ors-chapter-195
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors195.html
+  sha256: 467d6da3da91345591e193635d0ca9be1530c5f2b45cb78bf8e7f10fcee9f014
+  last_checked: '2026-07-20'
+  notes: ORS chapter 195 (Chapter 195), 2025 Edition
+- id: ors-chapter-196
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors196.html
+  sha256: 57a55e9bde0b7413107603b1e1209573762ad1e616ea39ae58f4b942f46b7638
+  last_checked: '2026-07-20'
+  notes: ORS chapter 196 (Chapter 196), 2025 Edition
+- id: ors-chapter-197
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors197.html
+  sha256: c5dd07c6fa8c06d3bdb79702c498a8ef0993705bfc94de1ca77ec1d4ffbe9054
+  last_checked: '2026-07-20'
+  notes: ORS chapter 197 (Chapter 197), 2025 Edition
+- id: ors-chapter-197a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html
+  sha256: ffd625ad39eff5dce1f8438e9b6d1ff2b22998194eb7d96cb3b1e32d01918b9e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 197A (Chapter 197A), 2025 Edition
+- id: ors-chapter-198
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors198.html
+  sha256: cf2e73e2a971de207fb7cce7804658fbb6c7d1d552b6a81d57c9b702da748f92
+  last_checked: '2026-07-20'
+  notes: ORS chapter 198 (Chapter 198), 2025 Edition
+- id: ors-chapter-200
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors200.html
+  sha256: 5a42de997502079a06b143800caf937f7d8c99ecaf3caf60d6bf5769ad490132
+  last_checked: '2026-07-20'
+  notes: ORS chapter 200 (Chapter 200), 2025 Edition
+- id: ors-chapter-205
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors205.html
+  sha256: eaa6cd2ed8e333d425744f378eb17cb6bb11071590ef5cd1bf2f4246b4328858
+  last_checked: '2026-07-20'
+  notes: ORS chapter 205 (Chapter 205), 2025 Edition
+- id: ors-chapter-206
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors206.html
+  sha256: dc2f0b57df448121452ea7c0a4f98a4f8e93c853846c9db4e0d987428d4abc20
+  last_checked: '2026-07-20'
+  notes: ORS chapter 206 (Chapter 206), 2025 Edition
+- id: ors-chapter-209
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors209.html
+  sha256: b10af18b72a378cbb34994bf9171f6da77d821583c8f3facd8c623ad8737912d
+  last_checked: '2026-07-20'
+  notes: ORS chapter 209 (Chapter 209), 2025 Edition
+- id: ors-chapter-215
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors215.html
+  sha256: 9972d72e9e73f8bbb1d85996c7ebfd3d3d257f5b95dba70dc2eaa4df8eca0251
+  last_checked: '2026-07-20'
+  notes: ORS chapter 215 (Chapter 215), 2025 Edition
+- id: ors-chapter-221
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors221.html
+  sha256: 86bfa725eb26469868e26290ffba84b911513328e0367e45f7e5d7392b26560a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 221 (Organization and Government of Cities), 2025 Edition
+- id: ors-chapter-222
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors222.html
+  sha256: fb4bac1212ad1b3b0d00f3466d2005b0eada29da771ff2098849606e3cecb7f6
+  last_checked: '2026-07-20'
+  notes: ORS chapter 222 (Chapter 222), 2025 Edition
+- id: ors-chapter-226
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors226.html
+  sha256: f308723d454ced7a99ac4bb02caf2c6d71b484acdb0eee6d4d5d584f42b8c509
+  last_checked: '2026-07-20'
+  notes: ORS chapter 226 (Chapter 226), 2025 Edition
+- id: ors-chapter-227
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors227.html
+  sha256: bcfe6f6a460d94c0fb6a6473da0ad426667686a25d4a448c8a429ef4a4462675
+  last_checked: '2026-07-20'
+  notes: ORS chapter 227 (Chapter 227), 2025 Edition
+- id: ors-chapter-237
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors237.html
+  sha256: a31d2855e46d4e32c15bad123123af0f033a191961bf94ccb2cab4fb217cbf79
+  last_checked: '2026-07-20'
+  notes: ORS chapter 237 (Chapter 237), 2025 Edition
+- id: ors-chapter-238
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors238.html
+  sha256: ffadb4c26a5bce387371b36be29152e0a036b1fe853916793c5b3e386222f054
+  last_checked: '2026-07-20'
+  notes: ORS chapter 238 (Chapter 238), 2025 Edition
+- id: ors-chapter-238a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html
+  sha256: 3b80f6920ed414fec8c77fccb806d9a3abc582c75cb73bbddb1fc173b28b1cd8
+  last_checked: '2026-07-20'
+  notes: ORS chapter 238A (Chapter 238A), 2025 Edition
 - id: ors-chapter-240
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors240.html
   sha256: 535b0ebfd2a337ab32087e87613c5043b8aafa1bc01dacdbd10ed1cc466a7f64
   last_checked: '2026-07-18'
   notes: ORS chapter 240 (State Personnel Relations), 2025 Edition
+- id: ors-chapter-243
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors243.html
+  sha256: ad5b70d2761b2cb4b567cb6059315c572c25ec798ab504197a5bb3691b2b38e0
+  last_checked: '2026-07-20'
+  notes: ORS chapter 243 (Chapter 243), 2025 Edition
+- id: ors-chapter-244
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors244.html
+  sha256: 7086c0a561a88fdf3909f919ce717a7bc2c561a62b17c105201a56325f1bda72
+  last_checked: '2026-07-20'
+  notes: ORS chapter 244 (Chapter 244), 2025 Edition
+- id: ors-chapter-246
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors246.html
+  sha256: 972df707e89e15bc18d6edf1622bb2cff29d61aa214c163d8cf3a2ef131c0bbb
+  last_checked: '2026-07-20'
+  notes: ORS chapter 246 (Administration of Election Laws; Vote Recording Systems), 2025 Edition
+- id: ors-chapter-247
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors247.html
+  sha256: 63b744cd9225ffe2ebd05ce70c09724e573394aec613e6e27e7776677831305c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 247 (Chapter 247), 2025 Edition
+- id: ors-chapter-248
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors248.html
+  sha256: eddd3d354136411fb7935e533e7031f9a451ba24b07b7bb8aa87611678b58dca
+  last_checked: '2026-07-20'
+  notes: ORS chapter 248 (Chapter 248), 2025 Edition
+- id: ors-chapter-249
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors249.html
+  sha256: e37d82d0bbac2eb07ed69ff2cd7ebf6a7bbce11fd58245b30262a2d29d83207d
+  last_checked: '2026-07-20'
+  notes: ORS chapter 249 (Chapter 249), 2025 Edition
+- id: ors-chapter-250
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors250.html
+  sha256: 0308bc5686e3e962b39546769c33c53f5cbdff5c5d571b4c302557f2c5c01315
+  last_checked: '2026-07-20'
+  notes: ORS chapter 250 (Chapter 250), 2025 Edition
+- id: ors-chapter-251
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors251.html
+  sha256: d94a0968e89ff161296dfded34ea78b3648cac600337f5bdf268c1736cfefa4f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 251 (Chapter 251), 2025 Edition
+- id: ors-chapter-254
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors254.html
+  sha256: 918a2b6c3473e19ec049af7f68899a2016e5546ebfc88d96b701da75a9175dd9
+  last_checked: '2026-07-20'
+  notes: ORS chapter 254 (Chapter 254), 2025 Edition
+- id: ors-chapter-255
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors255.html
+  sha256: 04c492c27e33325cc36bf91cc1c72a42b008381a41a06bcd8a809ae152368705
+  last_checked: '2026-07-20'
+  notes: ORS chapter 255 (Chapter 255), 2025 Edition
+- id: ors-chapter-258
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors258.html
+  sha256: ccf737269af292fb7596093ef3a8d8baa2fe99051547f56f96aacdfa75c27c48
+  last_checked: '2026-07-20'
+  notes: ORS chapter 258 (Chapter 258), 2025 Edition
+- id: ors-chapter-260
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors260.html
+  sha256: 6d8026566cc74103286a449327af6eb1ba8018748ae0f3c34201e3c43da1e281
+  last_checked: '2026-07-20'
+  notes: ORS chapter 260 (Chapter 260), 2025 Edition
+- id: ors-chapter-267
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors267.html
+  sha256: a6a9308a125f862e25420835d236d158335f6ec4acc620db1a4c353ab590a294
+  last_checked: '2026-07-20'
+  notes: ORS chapter 267 (Chapter 267), 2025 Edition
+- id: ors-chapter-270
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors270.html
+  sha256: b5e6e73b85f86c8ea28bd146ce3a28fc4ea0f44efbe27794ba3133aa991fc4be
+  last_checked: '2026-07-20'
+  notes: ORS chapter 270 (State Real Property), 2025 Edition
+- id: ors-chapter-271
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors271.html
+  sha256: 82b94b9dada77c0163fc29c57f92ebcc353839f9663d557c8f6fdd9b777f3c9d
+  last_checked: '2026-07-20'
+  notes: ORS chapter 271 (Chapter 271), 2025 Edition
+- id: ors-chapter-273
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors273.html
+  sha256: 4a130ffe638c965fd2ae41ad769dcb86e6bc598cc6ae482713bb78a430c97aa5
+  last_checked: '2026-07-20'
+  notes: ORS chapter 273 (Chapter 273), 2025 Edition
+- id: ors-chapter-274
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors274.html
+  sha256: ac3f404fca168437e8b168a691792e835c66c8e2ef7ba43b9e350701d0e1ce3a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 274 (Chapter 274), 2025 Edition
 - id: ors-chapter-276
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors276.html
   sha256: 70e38b5c060d5925bfc56e0fb6f060c45c905348fa1604f0c18bd2dd2b89c898
@@ -86,6 +472,11 @@ sources:
   sha256: d47426a939ed5879f62e58dc0aea387e562caed17ca8416435d63ea1db50ce44
   last_checked: '2026-07-18'
   notes: ORS chapter 278 (Insurance for Public Bodies), 2025 Edition
+- id: ors-chapter-279
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors279.html
+  sha256: a76e4fa02f3b1fbb34b0ded4b9016f39f4ce5f07cca5727f738aafa2cc50eaa0
+  last_checked: '2026-07-20'
+  notes: ORS chapter 279 (Chapter 279), 2025 Edition
 - id: ors-chapter-279a
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors279A.html
   sha256: 3355f807e570e5bbac0e788867e7f18aec22631bd04464c251f043b4d7a69ceb
@@ -101,6 +492,11 @@ sources:
   sha256: 13a9d288a82b988f41c523aed6a631956e3ba907a6139a5cbd5e527a561e6308
   last_checked: '2026-07-18'
   notes: ORS chapter 279C (Public Contracting - Public Improvements), 2025 Edition
+- id: ors-chapter-280
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors280.html
+  sha256: e2e7b24a5d4f8da980f0cea6139ef4b4b52506f5355d9d865b8fb13325274f11
+  last_checked: '2026-07-20'
+  notes: ORS chapter 280 (Chapter 280), 2025 Edition
 - id: ors-chapter-282
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors282.html
   sha256: fc7e6b2e072546c2e7a365f8cd901ebf3b4cb4dbc3c75e651834e9504c90a821
@@ -111,6 +507,51 @@ sources:
   sha256: 29e2834e5bdca98e6178d212ab2c18413d46ed981352a9b53931874a7c65e906
   last_checked: '2026-07-18'
   notes: ORS chapter 283 (Interagency Services), 2025 Edition
+- id: ors-chapter-284
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors284.html
+  sha256: 5ca7d7e786cd987f5bfe1bcd533941f3f109c92a03309b421525e24ab152950b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 284 (Organizations for Economic Development), 2025 Edition
+- id: ors-chapter-285
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors285.html
+  sha256: 4e35eb7a272bd5c264782eab22b1d6b0046de57f53cdd082123049e45676880c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 285 (Chapter 285), 2025 Edition
+- id: ors-chapter-285a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html
+  sha256: 9703ffdac9f33175ab5f2d222a2c4811b11b39da9d292f375b4cca0aac27d86b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 285A (Chapter 285A), 2025 Edition
+- id: ors-chapter-285b
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html
+  sha256: 05a2e5af3cd602d6f67671be157a3db64776f2ef9cc2adb78ea521c18d8521e1
+  last_checked: '2026-07-20'
+  notes: ORS chapter 285B (Chapter 285B), 2025 Edition
+- id: ors-chapter-285c
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html
+  sha256: 52f82819f0b4b3c5d4c6b985627837efded55d45bd1cc2aa826a01e69b7a006b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 285C (Chapter 285C), 2025 Edition
+- id: ors-chapter-286
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors286.html
+  sha256: d4d09ad39eb30dd55503fecac9d0e011a2330fee85f26fd1537dcb2821650664
+  last_checked: '2026-07-20'
+  notes: ORS chapter 286 (Chapter 286), 2025 Edition
+- id: ors-chapter-286a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html
+  sha256: f1c25f8c13cd58df8f3f122d6276264ada3c8c1ab3eac74051b334e348645a2b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 286A (Chapter 286A), 2025 Edition
+- id: ors-chapter-287a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors287A.html
+  sha256: 1d180b405283058de6f25ca7057ca1ab23c5f3ff3519ccd0add9e4dadc864ed7
+  last_checked: '2026-07-20'
+  notes: ORS chapter 287A (Chapter 287A), 2025 Edition
+- id: ors-chapter-289
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors289.html
+  sha256: 61050ab8c866c88eee6b844aa1990c49f47cec5e72aa3103e995c80a769613a4
+  last_checked: '2026-07-20'
+  notes: ORS chapter 289 (Chapter 289), 2025 Edition
 - id: ors-chapter-291
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors291.html
   sha256: c05d0af0dee595cf34a601d410bbcec710cd631fae5e89436a2dce8d1b6c11a6
@@ -126,3 +567,1605 @@ sources:
   sha256: c363bb55e9ae828d37d9d2675b422a4dd87d1bcf07de3f1a6b79c06d2d1af23f
   last_checked: '2026-07-18'
   notes: ORS chapter 293 (Administration of Public Funds), 2025 Edition
+- id: ors-chapter-294
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors294.html
+  sha256: abe9323402cb00d64cb9aed7aaf19e6486c8a2de746295b6cb4893e1c205a719
+  last_checked: '2026-07-20'
+  notes: ORS chapter 294 (Chapter 294), 2025 Edition
+- id: ors-chapter-295
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors295.html
+  sha256: f3f31f7d90a5be33a511f116b28bc2c6a4b9b1f8531edf69ef31c5c38a1fc536
+  last_checked: '2026-07-20'
+  notes: ORS chapter 295 (Chapter 295), 2025 Edition
+- id: ors-chapter-297
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors297.html
+  sha256: 0441f188f67d2af42f1f74e25f9ddda334ba61bee1eb6f7f1c072e714ed6152e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 297 (Chapter 297), 2025 Edition
+- id: ors-chapter-305
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors305.html
+  sha256: e3c15433df4e05889187373d69a4de7ba86405c01bab45894c4fcdf5e09b6f94
+  last_checked: '2026-07-20'
+  notes: ORS chapter 305 (Chapter 305), 2025 Edition
+- id: ors-chapter-306
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors306.html
+  sha256: a8d8d250b15e0c3e556f0d7c8dcdf5fe6ce4d1b7f494ec907b3b84ff3bc15eb2
+  last_checked: '2026-07-20'
+  notes: ORS chapter 306 (Chapter 306), 2025 Edition
+- id: ors-chapter-307
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors307.html
+  sha256: 69c3f6249eb229de4dcec1480a47ebc4b43c3d2ef5c2b8a87e2469432aa26642
+  last_checked: '2026-07-20'
+  notes: ORS chapter 307 (Chapter 307), 2025 Edition
+- id: ors-chapter-308
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors308.html
+  sha256: 4f1ca43b7cd38f18d7be41bdaec458d8d87775cb2f2c40e76123485ee3a32fa7
+  last_checked: '2026-07-20'
+  notes: ORS chapter 308 (Chapter 308), 2025 Edition
+- id: ors-chapter-308a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors308A.html
+  sha256: 6821d95603bbd62fb525cdd082ce18594738b82af8e8b4b0bfae9c2c4bcc09bc
+  last_checked: '2026-07-20'
+  notes: ORS chapter 308A (Chapter 308A), 2025 Edition
+- id: ors-chapter-309
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors309.html
+  sha256: e45097aa815be8a8e9a30a62fb3f4ffe40f632fb7e8d8a1f25a7bbf378670c72
+  last_checked: '2026-07-20'
+  notes: ORS chapter 309 (Chapter 309), 2025 Edition
+- id: ors-chapter-310
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors310.html
+  sha256: 9c4cca3d3f1c4b8ee7e164f7347d608bf6a6644fe84181a3f1e4133079ae67a8
+  last_checked: '2026-07-20'
+  notes: ORS chapter 310 (Chapter 310), 2025 Edition
+- id: ors-chapter-311
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors311.html
+  sha256: c1b251b887df563f81b4c1387355739d34e48b351a372316954d9eab0d055871
+  last_checked: '2026-07-20'
+  notes: ORS chapter 311 (Chapter 311), 2025 Edition
+- id: ors-chapter-312
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors312.html
+  sha256: 4953003973236b9d59857bb40e85c208554289dcd85c05248f321a9087fd5169
+  last_checked: '2026-07-20'
+  notes: ORS chapter 312 (Chapter 312), 2025 Edition
+- id: ors-chapter-314
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors314.html
+  sha256: 001167d97d851a557be580150e169a75595e58616f1dc6678a9d75a64dc54d99
+  last_checked: '2026-07-20'
+  notes: ORS chapter 314 (Chapter 314), 2025 Edition
+- id: ors-chapter-315
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors315.html
+  sha256: d852c4f8139c3ce5a282b11744e5e562bbf7e0783e4835c464f4b18ce6c473b8
+  last_checked: '2026-07-20'
+  notes: ORS chapter 315 (Chapter 315), 2025 Edition
+- id: ors-chapter-316
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors316.html
+  sha256: 4b3e55bbabda12a7cf955ed8bd3ced9087391517a13ac759b9c51ba411b60cc3
+  last_checked: '2026-07-20'
+  notes: ORS chapter 316 (Chapter 316), 2025 Edition
+- id: ors-chapter-317
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors317.html
+  sha256: 8ad99c60d994f13a04c7d00cdf8194aeada0f63c408175957e3a1821921a6ad4
+  last_checked: '2026-07-20'
+  notes: ORS chapter 317 (Chapter 317), 2025 Edition
+- id: ors-chapter-317a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors317A.html
+  sha256: 099cf20e2d8734c735ab80e564809489e94a37dc4e5d0d914a9087d55ec2684a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 317A (Chapter 317A), 2025 Edition
+- id: ors-chapter-318
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors318.html
+  sha256: 2928390f20b18fa8f15c939796a308b69903a532954b81876b4b1ee9dfe5a604
+  last_checked: '2026-07-20'
+  notes: ORS chapter 318 (Chapter 318), 2025 Edition
+- id: ors-chapter-319
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors319.html
+  sha256: 2702900b9acabbefff2e68b6c4b9f2d7080385b0396a6d5fc82440630ffb6232
+  last_checked: '2026-07-20'
+  notes: ORS chapter 319 (Chapter 319), 2025 Edition
+- id: ors-chapter-320
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors320.html
+  sha256: 9718fdd13436906472c61907a2da70ab0b0ab5c3ef2ff6c9884e5ba0698229a0
+  last_checked: '2026-07-20'
+  notes: ORS chapter 320 (Chapter 320), 2025 Edition
+- id: ors-chapter-321
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors321.html
+  sha256: bde66ce0a0a5265bf7b2e13cb9d0be990bf44a7ff10ad369d3f4820cfb6882c0
+  last_checked: '2026-07-20'
+  notes: ORS chapter 321 (Chapter 321), 2025 Edition
+- id: ors-chapter-323
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors323.html
+  sha256: 71ba66433c0b3cd565387db6189deabff648331dba3a54acdff8461cf60e08ff
+  last_checked: '2026-07-20'
+  notes: ORS chapter 323 (Chapter 323), 2025 Edition
+- id: ors-chapter-324
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors324.html
+  sha256: e8632c760d0302ee4cad709de9ce96183297b45997bd13dae2bfef44b5cd3d22
+  last_checked: '2026-07-20'
+  notes: ORS chapter 324 (Chapter 324), 2025 Edition
+- id: ors-chapter-326
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors326.html
+  sha256: 6f6e77a331ee8acbfd49315395e0b9aa87bcd31f06cf4d74dc9f44b39e57d78e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 326 (State Administration of Education), 2025 Edition
+- id: ors-chapter-327
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors327.html
+  sha256: 60bf77f1859bd7206e07031b59fdeba86267a6cc0f1c07bb87fe98f24a62ecdc
+  last_checked: '2026-07-20'
+  notes: ORS chapter 327 (Chapter 327), 2025 Edition
+- id: ors-chapter-328
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors328.html
+  sha256: f84c6141e26a7ba34d2a531c21d480df436dff1f9dd4e6bad25644370f23b8a7
+  last_checked: '2026-07-20'
+  notes: ORS chapter 328 (Chapter 328), 2025 Edition
+- id: ors-chapter-329
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors329.html
+  sha256: cd8db7c1e45b5df52793a32777773cca100b6032d6525e9dd41144e03aaa4b08
+  last_checked: '2026-07-20'
+  notes: ORS chapter 329 (Chapter 329), 2025 Edition
+- id: ors-chapter-329a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html
+  sha256: 57aa98d123cd13e630f799cd4dccb629cac40e55ba5415de89fde1f41e9e9627
+  last_checked: '2026-07-20'
+  notes: ORS chapter 329A (Chapter 329A), 2025 Edition
+- id: ors-chapter-330
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors330.html
+  sha256: 5ab754616d48bcbfd59519d4dfc7f7e48d7228e359628fcfae5d0d61a3e50a4b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 330 (Chapter 330), 2025 Edition
+- id: ors-chapter-332
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors332.html
+  sha256: 9a5720b6152d53ae148ccc5fdb6e01ea5785612edd702edb0742a71c1024daad
+  last_checked: '2026-07-20'
+  notes: ORS chapter 332 (Chapter 332), 2025 Edition
+- id: ors-chapter-334
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors334.html
+  sha256: e1914353c4bb9a774a6274f2bd41f57a69d1b85ee9a3a01b0e8ee81c6c934d9c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 334 (Chapter 334), 2025 Edition
+- id: ors-chapter-335
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors335.html
+  sha256: e3b4154864c5c95f5aa5bef4aca1ea1318c3660fe11f7b8449072cd5c75023c1
+  last_checked: '2026-07-20'
+  notes: ORS chapter 335 (Chapter 335), 2025 Edition
+- id: ors-chapter-336
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors336.html
+  sha256: 800c35aaec33e1ae5c4aab8bf39c3c93655026f8f4e80a237d969260e27471bd
+  last_checked: '2026-07-20'
+  notes: ORS chapter 336 (Chapter 336), 2025 Edition
+- id: ors-chapter-337
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors337.html
+  sha256: 050d18a33334717f86546d82389ad02be41b8351071c7192d11c22e5db8b0da3
+  last_checked: '2026-07-20'
+  notes: ORS chapter 337 (Chapter 337), 2025 Edition
+- id: ors-chapter-338
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors338.html
+  sha256: 73eca2ed99b3e8487b7bf66e4dbc6abecfbc75a68b40ccb9fe44f4aa6e86f9cc
+  last_checked: '2026-07-20'
+  notes: ORS chapter 338 (Chapter 338), 2025 Edition
+- id: ors-chapter-339
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors339.html
+  sha256: 2ff505244293c45a9ec485c107c78a5db3075d51bbac3d6ba0a2b891004033f5
+  last_checked: '2026-07-20'
+  notes: ORS chapter 339 (Chapter 339), 2025 Edition
+- id: ors-chapter-340
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors340.html
+  sha256: a2836524c2f812b49c0024b7c2f80050e55fe8fe1ff3c7585e0d0944c779712b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 340 (Chapter 340), 2025 Edition
+- id: ors-chapter-341
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors341.html
+  sha256: e1a74a8af4abad0db2dcb628f49481719d8719f3900009a267e734c35389893a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 341 (Chapter 341), 2025 Edition
+- id: ors-chapter-342
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors342.html
+  sha256: 95d48260af4595ea3b203e3c86823719d60b788b7c317c70dd7b11dbc9674087
+  last_checked: '2026-07-20'
+  notes: ORS chapter 342 (Chapter 342), 2025 Edition
+- id: ors-chapter-343
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors343.html
+  sha256: af03e8e895ab97b8d64070ac03b8145e54cfe7e71960673d9a96d79781f00c07
+  last_checked: '2026-07-20'
+  notes: ORS chapter 343 (Chapter 343), 2025 Edition
+- id: ors-chapter-344
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors344.html
+  sha256: ed8a13a28dea8739e3f8ec0cb183b62b88ac65a7d1b0233763b260cef9c8557c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 344 (Chapter 344), 2025 Edition
+- id: ors-chapter-345
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors345.html
+  sha256: aa7f7df7a1bc9faf668fcf8f8696365656abf8d9fd5fb6ba7a0a51034a1d4012
+  last_checked: '2026-07-20'
+  notes: ORS chapter 345 (Chapter 345), 2025 Edition
+- id: ors-chapter-346
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors346.html
+  sha256: e6316200e358342eb4a59f1045d804f24192e150933a1f5bf16f55233e914f00
+  last_checked: '2026-07-20'
+  notes: ORS chapter 346 (Chapter 346), 2025 Edition
+- id: ors-chapter-348
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors348.html
+  sha256: e1553f5efd71444c166d8bffb54dfd9c6e6593050e6348eb6a5746945deb4b00
+  last_checked: '2026-07-20'
+  notes: ORS chapter 348 (Chapter 348), 2025 Edition
+- id: ors-chapter-350
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors350.html
+  sha256: 0263103448bd13ba2f153c9b58677e388e2d9a185bfb93601dff96be71cb5915
+  last_checked: '2026-07-20'
+  notes: ORS chapter 350 (Chapter 350), 2025 Edition
+- id: ors-chapter-351
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors351.html
+  sha256: 4804e9a93daecc9061a32797a0778cc084b342b24104a51c13c6ee91a4b89ab5
+  last_checked: '2026-07-20'
+  notes: ORS chapter 351 (Chapter 351), 2025 Edition
+- id: ors-chapter-352
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors352.html
+  sha256: 0ca8b13ac5efeebefa4027ac3b77559638bd93ec4a567959cdf47c3f774ab9f9
+  last_checked: '2026-07-20'
+  notes: ORS chapter 352 (Chapter 352), 2025 Edition
+- id: ors-chapter-353
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors353.html
+  sha256: 7f0fa936b03ef82f34f8962e06b448781f6ae965422a7a2d6bd06e078cdc97eb
+  last_checked: '2026-07-20'
+  notes: ORS chapter 353 (Chapter 353), 2025 Edition
+- id: ors-chapter-354
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors354.html
+  sha256: 19bf448ee78962045c79e3ccc6236cd75d153e619423d172eb5394e2235d7fb2
+  last_checked: '2026-07-20'
+  notes: ORS chapter 354 (Chapter 354), 2025 Edition
+- id: ors-chapter-357
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors357.html
+  sha256: fe4a11fbe068101e8a70f1d8b8e7d046636d9b4278d04ad33f7594711240a2d4
+  last_checked: '2026-07-20'
+  notes: ORS chapter 357 (Chapter 357), 2025 Edition
+- id: ors-chapter-358
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors358.html
+  sha256: bc073ac5985142733883a0b412511131a52e8743a0fd44d00148e19e7fa9b2ba
+  last_checked: '2026-07-20'
+  notes: ORS chapter 358 (Chapter 358), 2025 Edition
+- id: ors-chapter-359
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors359.html
+  sha256: 9cc66383510eafbdd4b097e8b0db6f265cb540d4b569c7c9bca1e9231a581f44
+  last_checked: '2026-07-20'
+  notes: ORS chapter 359 (Chapter 359), 2025 Edition
+- id: ors-chapter-366
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors366.html
+  sha256: fb952ca2f0e1ba86513a3c7426e285b359114f260ae474d8ba834a3326ee9994
+  last_checked: '2026-07-20'
+  notes: ORS chapter 366 (State Highways and State Highway Fund), 2025 Edition
+- id: ors-chapter-367
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors367.html
+  sha256: 411ec49ecd7b7bb21188e837f375705fa61a557d7f46ac194a26be8530aeb368
+  last_checked: '2026-07-20'
+  notes: ORS chapter 367 (Chapter 367), 2025 Edition
+- id: ors-chapter-370
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors370.html
+  sha256: 2366c7ccbe7e4a00fb7f2262e18a2c8991b9779b4b5cc41f25e2f30abbd11e0c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 370 (Chapter 370), 2025 Edition
+- id: ors-chapter-372
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors372.html
+  sha256: 409b867f152f438c13318b22b3a177d969cc916b4b91a3add60bb30d1e8f8db1
+  last_checked: '2026-07-20'
+  notes: ORS chapter 372 (Chapter 372), 2025 Edition
+- id: ors-chapter-374
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors374.html
+  sha256: 6694073423cefc04c5a94067a7aa3b55fe167f9adab69be3f76f0d38ea716139
+  last_checked: '2026-07-20'
+  notes: ORS chapter 374 (Chapter 374), 2025 Edition
+- id: ors-chapter-376
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors376.html
+  sha256: 56a41308b6cc90e98cea0f895660b210d2ae5ae0353c30447f3fe3895e7d85f1
+  last_checked: '2026-07-20'
+  notes: ORS chapter 376 (Chapter 376), 2025 Edition
+- id: ors-chapter-377
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors377.html
+  sha256: 42087865c81839a8169d838fa1887fc8fcd4728e071bb755401c2c5e6455027d
+  last_checked: '2026-07-20'
+  notes: ORS chapter 377 (Chapter 377), 2025 Edition
+- id: ors-chapter-381
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors381.html
+  sha256: 6f5b6ae23df19c86360e19abf7c00fa56354dd005dee610d61881abd44d14f11
+  last_checked: '2026-07-20'
+  notes: ORS chapter 381 (Chapter 381), 2025 Edition
+- id: ors-chapter-383
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors383.html
+  sha256: 25279c5bc61c5f41aae26bb900a09f7822a364d94bf529bb71126b089b48ee77
+  last_checked: '2026-07-20'
+  notes: ORS chapter 383 (Chapter 383), 2025 Edition
+- id: ors-chapter-384
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors384.html
+  sha256: 75e338de4b81513aa0a83be88856ec8b3bf38e5e48fd9e68e6196ae4351314f7
+  last_checked: '2026-07-20'
+  notes: ORS chapter 384 (Chapter 384), 2025 Edition
+- id: ors-chapter-390
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors390.html
+  sha256: bc4e237b89423eab90c063580ab9fac762af95dbcc0b98dfb1b78a8ef060a662
+  last_checked: '2026-07-20'
+  notes: ORS chapter 390 (Chapter 390), 2025 Edition
+- id: ors-chapter-391
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors391.html
+  sha256: 83a6564aee8a52e38ae994da4f97c6dface0f29c7e9e9fc77f83ae3fdd6c0cbb
+  last_checked: '2026-07-20'
+  notes: ORS chapter 391 (Chapter 391), 2025 Edition
+- id: ors-chapter-399
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors399.html
+  sha256: 060687480b04c9dce258166e11052ff31e764dbdefda410149ed6301e4e4c8b4
+  last_checked: '2026-07-20'
+  notes: ORS chapter 399 (Chapter 399), 2025 Edition
+- id: ors-chapter-401
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors401.html
+  sha256: 083d0adb1b17555f17ee677a3c49dc5c8750209de86e336a228a4a08abbb86f8
+  last_checked: '2026-07-20'
+  notes: ORS chapter 401 (Chapter 401), 2025 Edition
+- id: ors-chapter-402
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors402.html
+  sha256: 8a488fd2be3804c050d4dbd090aed695fe292a4f1b576007bee309a356d431ad
+  last_checked: '2026-07-20'
+  notes: ORS chapter 402 (Chapter 402), 2025 Edition
+- id: ors-chapter-403
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors403.html
+  sha256: 0afa7799e3393236a3d0ee3076d1ec9c37d9dd39fedc4bc19da0c41c6b51bc9d
+  last_checked: '2026-07-20'
+  notes: ORS chapter 403 (Chapter 403), 2025 Edition
+- id: ors-chapter-404
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors404.html
+  sha256: 45ad4543f4a29fba943390d7252a6b0874890b84ed4cf6e9c72a2dee564f8555
+  last_checked: '2026-07-20'
+  notes: ORS chapter 404 (Chapter 404), 2025 Edition
+- id: ors-chapter-406
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors406.html
+  sha256: b47debd5660a577aa6786f7de71ddd060ca8369cf9101ac0698c72fffa3da71f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 406 (Department of Veterans’ Affairs), 2025 Edition
+- id: ors-chapter-407
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors407.html
+  sha256: 4cb0b80da03086a314b6993f03a2950e4022d0688456e61e3823f50862c758cb
+  last_checked: '2026-07-20'
+  notes: ORS chapter 407 (Chapter 407), 2025 Edition
+- id: ors-chapter-408
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors408.html
+  sha256: c5da0463e87c59c1a48816017f74f1265c56b863830eed78ffebe654a46e3f0b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 408 (Chapter 408), 2025 Edition
+- id: ors-chapter-409
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors409.html
+  sha256: bf26aeb475f3054f1e5f9fdc029a4ae920d81bc67ffddb09b369e65b452853a8
+  last_checked: '2026-07-20'
+  notes: ORS chapter 409 (Department of Human Services), 2025 Edition
+- id: ors-chapter-410
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors410.html
+  sha256: 12d3d2b3d191446cdca0505586a477f11719c260b9c98749c38b66217f0c1b6e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 410 (Chapter 410), 2025 Edition
+- id: ors-chapter-411
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors411.html
+  sha256: 08ae624e42f63cd0eaf34708e9314d664417cee91d3f07a80b29f054230ae73e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 411 (Chapter 411), 2025 Edition
+- id: ors-chapter-412
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors412.html
+  sha256: 61055e8a876678d56ed6a5df33c5cb9c712c6105e07333ae17d14bd555d793ef
+  last_checked: '2026-07-20'
+  notes: ORS chapter 412 (Chapter 412), 2025 Edition
+- id: ors-chapter-413
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors413.html
+  sha256: e2bafe239c692dc32b8393084fa994e267d5fd73bf47c585d96b4a04393d6c83
+  last_checked: '2026-07-20'
+  notes: ORS chapter 413 (Chapter 413), 2025 Edition
+- id: ors-chapter-414
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors414.html
+  sha256: 0a7e691ef5c1062ee03422e1130a782dba59d18ebc3acc74d1b0d5ad9daaaa69
+  last_checked: '2026-07-20'
+  notes: ORS chapter 414 (Chapter 414), 2025 Edition
+- id: ors-chapter-415
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors415.html
+  sha256: cf168b29736b46a7bbad9aa832aca4de1e31f3516b2ee1b0b3a0d98ac0b02126
+  last_checked: '2026-07-20'
+  notes: ORS chapter 415 (Chapter 415), 2025 Edition
+- id: ors-chapter-416
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors416.html
+  sha256: b21d0d4224d2cc54213dec571880f89551f3687321d4b0aac41add946e041ba2
+  last_checked: '2026-07-20'
+  notes: ORS chapter 416 (Chapter 416), 2025 Edition
+- id: ors-chapter-417
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors417.html
+  sha256: 891b12c574c3c871a04f3e06f2a47a895a850b640a268cb211802a56e73226ca
+  last_checked: '2026-07-20'
+  notes: ORS chapter 417 (Chapter 417), 2025 Edition
+- id: ors-chapter-418
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors418.html
+  sha256: 7da1cb0f911668c6d295427882b505b88bca71545f30e8e1f599e7e7d5bd9ff2
+  last_checked: '2026-07-20'
+  notes: ORS chapter 418 (Chapter 418), 2025 Edition
+- id: ors-chapter-419
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors419.html
+  sha256: 66251b13124abc81074cfe6a9281e3de8e0287f868d6e45a662c91cd939ab4ae
+  last_checked: '2026-07-20'
+  notes: ORS chapter 419 (Chapter 419), 2025 Edition
+- id: ors-chapter-419a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors419A.html
+  sha256: 0fadb08e1b5e985d63c2f2c54e3fcc4ef2ecfb62803ab2f94e2483a314628d03
+  last_checked: '2026-07-20'
+  notes: ORS chapter 419A (Chapter 419A), 2025 Edition
+- id: ors-chapter-419b
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html
+  sha256: 6f431a86f8d1864e10f6690bfe2bb587fc4f7e987cccc480fedfc6b1c088da9a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 419B (Chapter 419B), 2025 Edition
+- id: ors-chapter-419c
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html
+  sha256: 36d650a3ff9b6083b3744e345898fd78c3b7f3411b0cfbaf0fd6677d893a6cc6
+  last_checked: '2026-07-20'
+  notes: ORS chapter 419C (Chapter 419C), 2025 Edition
+- id: ors-chapter-420
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors420.html
+  sha256: f40ab3586e9edf024261c500d6e39c6fb1ca0684faf0f74b74faad242f7ae923
+  last_checked: '2026-07-20'
+  notes: ORS chapter 420 (Chapter 420), 2025 Edition
+- id: ors-chapter-420a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors420A.html
+  sha256: d4a4672e98a09dd25a995884f26c0e86cb5c3d34120aeab0856a08077f69320c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 420A (Chapter 420A), 2025 Edition
+- id: ors-chapter-421
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors421.html
+  sha256: 6ff2b8ca7baa6b155ccd9efa28d062e105719df3893859f1a594e46ed6717e77
+  last_checked: '2026-07-20'
+  notes: ORS chapter 421 (Chapter 421), 2025 Edition
+- id: ors-chapter-423
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors423.html
+  sha256: 9e57a7afac32256ed855cd98d5bef87068bcaf427e70946093c80d153858e489
+  last_checked: '2026-07-20'
+  notes: ORS chapter 423 (Chapter 423), 2025 Edition
+- id: ors-chapter-426
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors426.html
+  sha256: 628a13affffb572000ecddf3ce6019cc9cb5ffdbde99f9eaa3286f25379002e9
+  last_checked: '2026-07-20'
+  notes: ORS chapter 426 (Persons With Mental Illness; Dangerous Persons; Commitment; Housing), 2025 Edition
+- id: ors-chapter-427
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors427.html
+  sha256: ad52399798ddfe811eca830af3d63f6ef0e3bda86ccb9a0c36bac83b0de32a25
+  last_checked: '2026-07-20'
+  notes: ORS chapter 427 (Chapter 427), 2025 Edition
+- id: ors-chapter-428
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors428.html
+  sha256: 005bc1198788789e30da6f0cfd5558aa0174519daf038611775268f80ade4add
+  last_checked: '2026-07-20'
+  notes: ORS chapter 428 (Chapter 428), 2025 Edition
+- id: ors-chapter-430
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors430.html
+  sha256: 483fa4a208085108634603bb7eade3ec54637a8b2ac0abad6c7cd77660945e18
+  last_checked: '2026-07-20'
+  notes: ORS chapter 430 (Chapter 430), 2025 Edition
+- id: ors-chapter-431
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors431.html
+  sha256: 6063eb4b445b3c5d6c2760a20133e6229c81e51f7dcbde6f4bd6d444e09b29a2
+  last_checked: '2026-07-20'
+  notes: ORS chapter 431 (State and Local Administration and Enforcement of Public Health Laws), 2025 Edition
+- id: ors-chapter-431a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html
+  sha256: 142877e3a11f55f5ef4a9a40f6492b63a4cb4c54b99593107a51afb698c16f52
+  last_checked: '2026-07-20'
+  notes: ORS chapter 431A (Chapter 431A), 2025 Edition
+- id: ors-chapter-432
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors432.html
+  sha256: b1626d824300a48fbde9d4c954ef61bacbd8a8db19339707dab41f6e5cdc7ef5
+  last_checked: '2026-07-20'
+  notes: ORS chapter 432 (Chapter 432), 2025 Edition
+- id: ors-chapter-433
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors433.html
+  sha256: d791c37c6a50155e0a9ac38a94321583456fe720b0db423c69f063e09e46f08e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 433 (Chapter 433), 2025 Edition
+- id: ors-chapter-435
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors435.html
+  sha256: 4d2c7dbc347389e4adc65957346289a30f4473d525edb3cbfbde67a7c2423cd6
+  last_checked: '2026-07-20'
+  notes: ORS chapter 435 (Chapter 435), 2025 Edition
+- id: ors-chapter-438
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors438.html
+  sha256: 844e023808790f8cca9d1912e8d3c01943d46d28c28cac3dc2b6ead74684bf5e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 438 (Chapter 438), 2025 Edition
+- id: ors-chapter-440
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors440.html
+  sha256: c55133d61d08f773ec8fcbb40950ad96be5eb228c48e540ae1eed24853d2ef79
+  last_checked: '2026-07-20'
+  notes: ORS chapter 440 (Chapter 440), 2025 Edition
+- id: ors-chapter-441
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors441.html
+  sha256: f8c6cd1552566062f6185b2418f6d4c7f6f856710fea793bd887f4d6fd2a3d1f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 441 (Chapter 441), 2025 Edition
+- id: ors-chapter-443
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors443.html
+  sha256: 1e4a676cf1e0998f6c8cdf852edec167c0f640fe5239ab88a27335c391135329
+  last_checked: '2026-07-20'
+  notes: ORS chapter 443 (Chapter 443), 2025 Edition
+- id: ors-chapter-444
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors444.html
+  sha256: 08baaab3f40cf367ae17489dc24bca514161bae181d62d3164c4e6e1966e66d2
+  last_checked: '2026-07-20'
+  notes: ORS chapter 444 (Chapter 444), 2025 Edition
+- id: ors-chapter-445
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors445.html
+  sha256: a6c94555e26415ed4fe67943e24f13d8126751fae6cd359efd2f5322b5990e8a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 445 (Chapter 445), 2025 Edition
+- id: ors-chapter-446
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors446.html
+  sha256: e65f0c1163f41570d4d249532d89d0aa8d102dbe37c24be8162c5ff20c1d04ea
+  last_checked: '2026-07-20'
+  notes: ORS chapter 446 (Chapter 446), 2025 Edition
+- id: ors-chapter-447
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors447.html
+  sha256: c693441a45182420364b6c9a45e236a8eb5d8340b128f17b2990076f62c279e5
+  last_checked: '2026-07-20'
+  notes: ORS chapter 447 (Chapter 447), 2025 Edition
+- id: ors-chapter-448
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors448.html
+  sha256: 44656962d027751d6d0d18defde7625d759334dfe349ef3daf56f27582df88ab
+  last_checked: '2026-07-20'
+  notes: ORS chapter 448 (Chapter 448), 2025 Edition
+- id: ors-chapter-450
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors450.html
+  sha256: 0197e9e9a1f8b46f413e62c1df8e09e5f650332a2f321a7016c20adcb7b0fa16
+  last_checked: '2026-07-20'
+  notes: ORS chapter 450 (Chapter 450), 2025 Edition
+- id: ors-chapter-453
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors453.html
+  sha256: 968c016b5f57d69850fee6a50d71830c9a970be2cff83334886d2bb729e4d30f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 453 (Chapter 453), 2025 Edition
+- id: ors-chapter-454
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors454.html
+  sha256: 68e0edcd70b1b70778c9da6f73b5e9846a17258293434debb8386f8aa89c84c9
+  last_checked: '2026-07-20'
+  notes: ORS chapter 454 (Chapter 454), 2025 Edition
+- id: ors-chapter-455
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors455.html
+  sha256: 9c8cd18b546091f0837b876a4d817918f80b5834b96f628d91ef54f08fc2f7f9
+  last_checked: '2026-07-20'
+  notes: ORS chapter 455 (Building Code), 2025 Edition
+- id: ors-chapter-456
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors456.html
+  sha256: 410d19d8c22e2deafdf9372e08d25d79fcb949b09c453860e568ab28da4ff687
+  last_checked: '2026-07-20'
+  notes: ORS chapter 456 (Chapter 456), 2025 Edition
+- id: ors-chapter-457
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors457.html
+  sha256: 54995c9be843c160e274a3a19d22030a9a2d2114b16c1d9d40c392080fbcced9
+  last_checked: '2026-07-20'
+  notes: ORS chapter 457 (Chapter 457), 2025 Edition
+- id: ors-chapter-458
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors458.html
+  sha256: 5c6c30cdad33fbf852b73a526b5ad8ae864f82f9fed57b19c7033d7d78b831c6
+  last_checked: '2026-07-20'
+  notes: ORS chapter 458 (Chapter 458), 2025 Edition
+- id: ors-chapter-459
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors459.html
+  sha256: 72cabd4077f94a353bc45f66e5a6ada6b246dda1160c0b0302c033e2ba06f5ff
+  last_checked: '2026-07-20'
+  notes: ORS chapter 459 (Chapter 459), 2025 Edition
+- id: ors-chapter-459a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html
+  sha256: df4db6192812289212173ff869d94318067c1d203a049682e1784117617aa135
+  last_checked: '2026-07-20'
+  notes: ORS chapter 459A (Chapter 459A), 2025 Edition
+- id: ors-chapter-460
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors460.html
+  sha256: 333c6d35503100c7aa6a531383a2702c650cfb8bcd09a587f7debcd5d2f6dabe
+  last_checked: '2026-07-20'
+  notes: ORS chapter 460 (Chapter 460), 2025 Edition
+- id: ors-chapter-461
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors461.html
+  sha256: a1dc9a55ceca9cb013a6c47028e42b8d30f274de1592710ba848b645b370fa38
+  last_checked: '2026-07-20'
+  notes: ORS chapter 461 (Chapter 461), 2025 Edition
+- id: ors-chapter-462
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors462.html
+  sha256: 54fc25cada7b554e94b3831ef38a639cab8797e09141ce2fc338a41b4a529635
+  last_checked: '2026-07-20'
+  notes: ORS chapter 462 (Chapter 462), 2025 Edition
+- id: ors-chapter-463
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors463.html
+  sha256: 548863596a05557092441bdf13d5f7dd33a80b486d141930ff2aef7ef57ea2e6
+  last_checked: '2026-07-20'
+  notes: ORS chapter 463 (Chapter 463), 2025 Edition
+- id: ors-chapter-464
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors464.html
+  sha256: 1a8d8051af09bd6bd2c40989ae9e1d06642adbf7bce14d87470e7500aaa4d2e6
+  last_checked: '2026-07-20'
+  notes: ORS chapter 464 (Chapter 464), 2025 Edition
+- id: ors-chapter-465
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors465.html
+  sha256: e62f505d7eb430a00480d42b9ba1dde828abdcbf647b17bbb7083d6f5f29acf5
+  last_checked: '2026-07-20'
+  notes: ORS chapter 465 (Chapter 465), 2025 Edition
+- id: ors-chapter-466
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors466.html
+  sha256: 6236d9d2307a855ae57cb1f48306d5b5043f2c0d6de82b5bb1360a451c6ce1ba
+  last_checked: '2026-07-20'
+  notes: ORS chapter 466 (Chapter 466), 2025 Edition
+- id: ors-chapter-467
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors467.html
+  sha256: 052a0aff369d8fddea0cc599ed6e0c91a457b7c134206128307d7ddeeca78403
+  last_checked: '2026-07-20'
+  notes: ORS chapter 467 (Chapter 467), 2025 Edition
+- id: ors-chapter-468
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors468.html
+  sha256: cb012e742d09a76004533de21704353163e8b41a3e1ecf982df3f90c126df421
+  last_checked: '2026-07-20'
+  notes: ORS chapter 468 (Chapter 468), 2025 Edition
+- id: ors-chapter-468a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html
+  sha256: 0c3e9e7e6ff3c27579d63ded57fe430e1d2c273720a6c31b71fa681e096c9bf7
+  last_checked: '2026-07-20'
+  notes: ORS chapter 468A (Chapter 468A), 2025 Edition
+- id: ors-chapter-468b
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html
+  sha256: 6c0f636a42746e715742bc9a1c579dcde16a10a22a1b8621933688ae2ca4193d
+  last_checked: '2026-07-20'
+  notes: ORS chapter 468B (Chapter 468B), 2025 Edition
+- id: ors-chapter-469
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors469.html
+  sha256: c4b49f2acb381d480036cc062c7493b4ddc239419169927fc9624c8b409a0f8c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 469 (Chapter 469), 2025 Edition
+- id: ors-chapter-469a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors469A.html
+  sha256: a607a66e9e16f6f0fbd627889509436c107c1f0ce847fd5f6bb267b5d50be3dd
+  last_checked: '2026-07-20'
+  notes: ORS chapter 469A (Chapter 469A), 2025 Edition
+- id: ors-chapter-469b
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors469B.html
+  sha256: 71eceb1fec244d01c69bb5af5eead6ea9f842d2da4e26860c5990789eea1ab69
+  last_checked: '2026-07-20'
+  notes: ORS chapter 469B (Chapter 469B), 2025 Edition
+- id: ors-chapter-470
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors470.html
+  sha256: be8310a08207b99de6d7beafea7f93588f0c4543de3e3dc675d4040d411b7aab
+  last_checked: '2026-07-20'
+  notes: ORS chapter 470 (Chapter 470), 2025 Edition
+- id: ors-chapter-471
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors471.html
+  sha256: 494d3a86b4b3f9bb7c018fe8a2cd4b4bb6fc0f68b9c7d158c1b38c025de9c0a4
+  last_checked: '2026-07-20'
+  notes: ORS chapter 471 (Alcoholic Liquors Generally), 2025 Edition
+- id: ors-chapter-472
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors472.html
+  sha256: 743737037a84105b4db743bb7e6d966bd035569693bf4fd0ad7a491bf54056ee
+  last_checked: '2026-07-20'
+  notes: ORS chapter 472 (Chapter 472), 2025 Edition
+- id: ors-chapter-473
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors473.html
+  sha256: 17fb66241a268cb7dbec13645a96c67c3a11bff24fc1993ec4c5ca5a23b6e061
+  last_checked: '2026-07-20'
+  notes: ORS chapter 473 (Chapter 473), 2025 Edition
+- id: ors-chapter-474
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors474.html
+  sha256: cd0820f7daadda0a582b8676ad74de05c6bab16e95bacaea1e59b6f7bf343221
+  last_checked: '2026-07-20'
+  notes: ORS chapter 474 (Chapter 474), 2025 Edition
+- id: ors-chapter-475
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors475.html
+  sha256: accce5df1ff82adeba3619c303dd815deba3b9493b16eee2a1399443d1229d6f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 475 (Chapter 475), 2025 Edition
+- id: ors-chapter-475a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html
+  sha256: 84a462d62aa1f2b8f76204c644b6feccc7e8a2f5d16d8d65c6efcc181e6f0b2b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 475A (Chapter 475A), 2025 Edition
+- id: ors-chapter-475b
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors475B.html
+  sha256: 8ef8b45b584c8fc1c37cbc59a62b7c0c9fa39aff4dcc548f3b76961ff7ac6bc9
+  last_checked: '2026-07-20'
+  notes: ORS chapter 475B (Chapter 475B), 2025 Edition
+- id: ors-chapter-475c
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html
+  sha256: 260e9e50ffdb0649fd143f44ad6df15fba2d2a0c5912316f05a99afce9cda20f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 475C (Chapter 475C), 2025 Edition
+- id: ors-chapter-476
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors476.html
+  sha256: 9475be2246c258a6c981948a14b04769c5719f86f480bc738bb9473503717948
+  last_checked: '2026-07-20'
+  notes: ORS chapter 476 (State Fire Marshal; Protection From Fire Generally), 2025 Edition
+- id: ors-chapter-477
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors477.html
+  sha256: bb55c634649c4e22b4c9e3eca55e3e93377e5f187b3e76c7a8d3b4e861e610d4
+  last_checked: '2026-07-20'
+  notes: ORS chapter 477 (Chapter 477), 2025 Edition
+- id: ors-chapter-478
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors478.html
+  sha256: 2e5ac5a612e661f5778e634d3b5c5a596f12d3c6b68609936ccc0f21b7236543
+  last_checked: '2026-07-20'
+  notes: ORS chapter 478 (Chapter 478), 2025 Edition
+- id: ors-chapter-479
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors479.html
+  sha256: 1061573d1842964d11be9afafd72e4f9ff239deb1f026893a10ad0d93ecadb78
+  last_checked: '2026-07-20'
+  notes: ORS chapter 479 (Chapter 479), 2025 Edition
+- id: ors-chapter-480
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors480.html
+  sha256: 4a719cd518d64d4cf5414e56e0472b60056fd56fc2e61f719de83810203e019c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 480 (Chapter 480), 2025 Edition
+- id: ors-chapter-483
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors483.html
+  sha256: 28311a3518386a1dd80e77b4e33a73ef81b56864239b5fc393350d4a8ba63f1c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 483 (Chapter 483), 2025 Edition
+- id: ors-chapter-487
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors487.html
+  sha256: d129fae2c79617d79d894d4809a0651fb5ef0ac2521d78d288f864964a4fa479
+  last_checked: '2026-07-20'
+  notes: ORS chapter 487 (Chapter 487), 2025 Edition
+- id: ors-chapter-496
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors496.html
+  sha256: 1e2a4f26c635c066a0695c9728a9f2e1b1491babc7113f7670efd91f1ccf81ca
+  last_checked: '2026-07-20'
+  notes: ORS chapter 496 (Application, Administration and Enforcement of Wildlife Laws), 2025 Edition
+- id: ors-chapter-497
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors497.html
+  sha256: 0067b3d3b83952ddee44b1ee90c3170bf4e5f2738710f005092a205d9f5aa711
+  last_checked: '2026-07-20'
+  notes: ORS chapter 497 (Chapter 497), 2025 Edition
+- id: ors-chapter-498
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors498.html
+  sha256: e4dce9e82f538729b7669ad83d191bcd27019ae79d3bcf996217613af0f63924
+  last_checked: '2026-07-20'
+  notes: ORS chapter 498 (Chapter 498), 2025 Edition
+- id: ors-chapter-501
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors501.html
+  sha256: ced96ea6cb157c42e9d8cbe2f552a382e9f56f99b0c28dca632e40c682f56df1
+  last_checked: '2026-07-20'
+  notes: ORS chapter 501 (Chapter 501), 2025 Edition
+- id: ors-chapter-506
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors506.html
+  sha256: e691eeea93655ea8b41aa2d42a9d6a8a13957c02a94ce7301dea90f271bff6e8
+  last_checked: '2026-07-20'
+  notes: ORS chapter 506 (Application, Administration and Enforcement of Commercial Fishing Laws), 2025 Edition
+- id: ors-chapter-507
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors507.html
+  sha256: 52c60ade22faa572b9f3426447789416df638b644673e6157b2d63d196b7f443
+  last_checked: '2026-07-20'
+  notes: ORS chapter 507 (Chapter 507), 2025 Edition
+- id: ors-chapter-508
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors508.html
+  sha256: 286af8c60650531c062d32547099c733c3e5a96875e5500225a65c89abb24173
+  last_checked: '2026-07-20'
+  notes: ORS chapter 508 (Chapter 508), 2025 Edition
+- id: ors-chapter-509
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors509.html
+  sha256: 1919b14824549ae12beeef9c620230e479b53ec882be49d66adcd69a10965422
+  last_checked: '2026-07-20'
+  notes: ORS chapter 509 (Chapter 509), 2025 Edition
+- id: ors-chapter-513
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors513.html
+  sha256: 8d8cea956a2b7c1ef0d8361322bf93980a811de92dc673ffe82ca50c811402a0
+  last_checked: '2026-07-20'
+  notes: ORS chapter 513 (Chapter 513), 2025 Edition
+- id: ors-chapter-516
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors516.html
+  sha256: 2857d0f745b65b504e85b05f0e6b0c2b54628eb8ce91ebc5b354a9610e45717f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 516 (Department of Geology and Mineral Industries), 2025 Edition
+- id: ors-chapter-517
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors517.html
+  sha256: eeff5e58f10a10e8dddbc0922297867aba5a8c98c09d5ea204a59d2c5bd22841
+  last_checked: '2026-07-20'
+  notes: ORS chapter 517 (Chapter 517), 2025 Edition
+- id: ors-chapter-520
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors520.html
+  sha256: 6a490cd38ec7e46e9384d64d9e7bdb1991be0a6e808b5d2d0fa3abd7730b4e7c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 520 (Chapter 520), 2025 Edition
+- id: ors-chapter-522
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors522.html
+  sha256: f5a17d41e71699b0009d0b6666d7a5089bcf95efcea06528ef24e2657c92ea78
+  last_checked: '2026-07-20'
+  notes: ORS chapter 522 (Chapter 522), 2025 Edition
+- id: ors-chapter-526
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors526.html
+  sha256: e7d9d39dc929e927b2603ad1cc1f90620888a7bb90135ce065c7bb8465d82f1e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 526 (Forestry Administration), 2025 Edition
+- id: ors-chapter-527
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors527.html
+  sha256: 1ea98d30757b26366d921e70bb033b3bee31e37f1f7b639814fd913254bab4f4
+  last_checked: '2026-07-20'
+  notes: ORS chapter 527 (Chapter 527), 2025 Edition
+- id: ors-chapter-530
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors530.html
+  sha256: e149649c88cfb635902bb9f9d2a1ecc3e4130c70e53d7b4136e05f1b7e634813
+  last_checked: '2026-07-20'
+  notes: ORS chapter 530 (Chapter 530), 2025 Edition
+- id: ors-chapter-532
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors532.html
+  sha256: a25333020450cb300bafb7b2972fd066634c306f187c386fb8da85ee6bdfff5f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 532 (Chapter 532), 2025 Edition
+- id: ors-chapter-536
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors536.html
+  sha256: b1ffd4f6b37f72f0355dd97243917c0b2c6077a96cbf5a6b185e8906b1d41271
+  last_checked: '2026-07-20'
+  notes: ORS chapter 536 (Water Resources Administration), 2025 Edition
+- id: ors-chapter-537
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors537.html
+  sha256: caea0e3a18c25343f644ef1f07b4b5f1d9837798004c64a04d53ec2a51c5c3c9
+  last_checked: '2026-07-20'
+  notes: ORS chapter 537 (Chapter 537), 2025 Edition
+- id: ors-chapter-538
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors538.html
+  sha256: be3dc81c1273252ce840548c21e57f9b2430d96dffca0f02e00959ebcf4c1d5c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 538 (Chapter 538), 2025 Edition
+- id: ors-chapter-539
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors539.html
+  sha256: 5c89fe7d11866926c55993eb173f62ebe7082b5a33a57cf49e3c89d79ad9bc09
+  last_checked: '2026-07-20'
+  notes: ORS chapter 539 (Chapter 539), 2025 Edition
+- id: ors-chapter-540
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors540.html
+  sha256: 20ecdb96988c617ed8e2577961253e5dc701543db3ccb25f867569f7ecb23899
+  last_checked: '2026-07-20'
+  notes: ORS chapter 540 (Chapter 540), 2025 Edition
+- id: ors-chapter-541
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors541.html
+  sha256: be88ab382de4c185aee673379788279fbe5c484612402e33d52f54c283bab24e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 541 (Chapter 541), 2025 Edition
+- id: ors-chapter-543
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors543.html
+  sha256: 9670a475e659ea37c21090cbe9666e022db4e0ac257f4e83bcd0b3bd0754558a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 543 (Chapter 543), 2025 Edition
+- id: ors-chapter-543a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors543A.html
+  sha256: 9e040661606506c2d945825827a9893a8e8aae4c786034d3788d3885189d2c7c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 543A (Chapter 543A), 2025 Edition
+- id: ors-chapter-554
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors554.html
+  sha256: d2f6420e1f065a3c829f0a47f1b29923c6af22f8b3091e1ea3247aa43540be8f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 554 (Chapter 554), 2025 Edition
+- id: ors-chapter-561
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors561.html
+  sha256: 7b419f563e0a7acf9993b07f759b81fc1a53ae97bbecb2f62d5845270d07d94f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 561 (State Department of Agriculture), 2025 Edition
+- id: ors-chapter-564
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors564.html
+  sha256: 642ea99f50d77bb1a57c75756d5e6401dd2627ccae63133c0b31bdefbd5ad59e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 564 (Chapter 564), 2025 Edition
+- id: ors-chapter-566
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors566.html
+  sha256: d43a44b59dc62936b249ea4edc003f93b8a54f157f160e57934bacf3ca4f4622
+  last_checked: '2026-07-20'
+  notes: ORS chapter 566 (Chapter 566), 2025 Edition
+- id: ors-chapter-568
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors568.html
+  sha256: 63647b27b9cc49da9cf99a662f88d401450d930aebe4d53ad24e69e979553df3
+  last_checked: '2026-07-20'
+  notes: ORS chapter 568 (Chapter 568), 2025 Edition
+- id: ors-chapter-569
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors569.html
+  sha256: f239ec1840e97e0a96e95defc00fa31fb73b355b9257fa873a524d103600e83f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 569 (Chapter 569), 2025 Edition
+- id: ors-chapter-570
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors570.html
+  sha256: dc9df9987cc55e688f9be02c1ffa9c5c2da76639bad86c9d9ff79ee1b32aafe9
+  last_checked: '2026-07-20'
+  notes: ORS chapter 570 (Chapter 570), 2025 Edition
+- id: ors-chapter-571
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors571.html
+  sha256: afdb5db9037505e219a9f340148cb739d82e8e95a931c60d4b3b26a4462f4c34
+  last_checked: '2026-07-20'
+  notes: ORS chapter 571 (Chapter 571), 2025 Edition
+- id: ors-chapter-576
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors576.html
+  sha256: 76667af0edd8a39ae177ca345b890b981caf5b7020f4b7aa3ca99c3b43d21449
+  last_checked: '2026-07-20'
+  notes: ORS chapter 576 (Agricultural Marketing Generally), 2025 Edition
+- id: ors-chapter-577
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors577.html
+  sha256: 97834e59f40e7972bc3dc7d56e60c0736b15e3a565c0d46d7d7a6e72e515f6b6
+  last_checked: '2026-07-20'
+  notes: ORS chapter 577 (Chapter 577), 2025 Edition
+- id: ors-chapter-578
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors578.html
+  sha256: fbe1250dfe317fafcb64311fc39de19a6d912d9094b6782765712b1d17a2c91c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 578 (Chapter 578), 2025 Edition
+- id: ors-chapter-579
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors579.html
+  sha256: 000b034245b46de8551c80f85cb441eb5adb6316144cdb1d61b1eb980aa9b9a6
+  last_checked: '2026-07-20'
+  notes: ORS chapter 579 (Chapter 579), 2025 Edition
+- id: ors-chapter-586
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors586.html
+  sha256: 4184595fadee78ad525ba429c4c9a398d6d11527993b22bb239cb208caf66f36
+  last_checked: '2026-07-20'
+  notes: ORS chapter 586 (Chapter 586), 2025 Edition
+- id: ors-chapter-596
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors596.html
+  sha256: 45f162e0736859d0ab0ac9d1484507fc06b2e16d6cb4e0aa1e557beca62e0880
+  last_checked: '2026-07-20'
+  notes: ORS chapter 596 (Disease Control Generally), 2025 Edition
+- id: ors-chapter-599
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors599.html
+  sha256: bd3fbdc7b2631d75220641c9bfaf1392ffcc0e08e0027137cb23019a59debb00
+  last_checked: '2026-07-20'
+  notes: ORS chapter 599 (Chapter 599), 2025 Edition
+- id: ors-chapter-601
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors601.html
+  sha256: 64db102337e66a80e93267f1552aee0e248d544e15e40f1284085aeb973b825f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 601 (Chapter 601), 2025 Edition
+- id: ors-chapter-602
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors602.html
+  sha256: cfbe6b55cdbb353dc5f3db32f0adb6a822d6c7d7530017cc2a999e4cb7a346f1
+  last_checked: '2026-07-20'
+  notes: ORS chapter 602 (Chapter 602), 2025 Edition
+- id: ors-chapter-603
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors603.html
+  sha256: ac8876a9247706ba803c3784be92dde375b2f362ea9a1a643fa2679195976e8c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 603 (Chapter 603), 2025 Edition
+- id: ors-chapter-604
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors604.html
+  sha256: 418379d394d642e74d70f6682511326f730d4132704aff97da868b2952d6b572
+  last_checked: '2026-07-20'
+  notes: ORS chapter 604 (Chapter 604), 2025 Edition
+- id: ors-chapter-606
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors606.html
+  sha256: 36a842b3cf7785d66566c7b6044e83cec6c14c488009041d6415b3ca13ec8ceb
+  last_checked: '2026-07-20'
+  notes: ORS chapter 606 (Chapter 606), 2025 Edition
+- id: ors-chapter-607
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors607.html
+  sha256: f452a6db15ee905640ddf5e20dbc18d576e3d40bb1543d70bb262d211fd4602b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 607 (Chapter 607), 2025 Edition
+- id: ors-chapter-609
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors609.html
+  sha256: 9f591393d3a92c9b5485e0ac8caaabab79ebd20a01bbdd9872f5bb3857eaf7e4
+  last_checked: '2026-07-20'
+  notes: ORS chapter 609 (Chapter 609), 2025 Edition
+- id: ors-chapter-610
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors610.html
+  sha256: c6233fecca12464e804e9cd11d35a999efaea5c95a85cea8a3818d122ea9f5c8
+  last_checked: '2026-07-20'
+  notes: ORS chapter 610 (Chapter 610), 2025 Edition
+- id: ors-chapter-616
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors616.html
+  sha256: 0439cf060219b05f6ddada5b0fc73b232d8467b0e8d857b9afbcf58a9fd650ba
+  last_checked: '2026-07-20'
+  notes: ORS chapter 616 (General and Miscellaneous Provisions), 2025 Edition
+- id: ors-chapter-618
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors618.html
+  sha256: 04fd10a70c684e2eef93beaee01dafcf47d33b4caa8749b2f1c6f3f30904de7e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 618 (Chapter 618), 2025 Edition
+- id: ors-chapter-619
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors619.html
+  sha256: 7bfb02f1ead407ce0cf3283055270228ef0bf6af894866a905d592fcb4e78867
+  last_checked: '2026-07-20'
+  notes: ORS chapter 619 (Chapter 619), 2025 Edition
+- id: ors-chapter-621
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors621.html
+  sha256: 2187bb38861dfa88a9bc353922f39189016d9c39fc32c55a5c8c5874dbec7343
+  last_checked: '2026-07-20'
+  notes: ORS chapter 621 (Chapter 621), 2025 Edition
+- id: ors-chapter-622
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors622.html
+  sha256: cdcf9c0a4a40a94abdc43214644aa71bc6b109c7e1614a26bd491db9a767972b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 622 (Chapter 622), 2025 Edition
+- id: ors-chapter-624
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors624.html
+  sha256: e38f2afdf1dbd71958420fe75ee98d03494cfadb0e82ec2fd8835420dd105a57
+  last_checked: '2026-07-20'
+  notes: ORS chapter 624 (Chapter 624), 2025 Edition
+- id: ors-chapter-625
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors625.html
+  sha256: 6cee9be2092ccb671edab1b986d6e808cba20eb4bb8db3b9aff235d21165ca60
+  last_checked: '2026-07-20'
+  notes: ORS chapter 625 (Chapter 625), 2025 Edition
+- id: ors-chapter-628
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors628.html
+  sha256: f8f5ca783fd6e3de47e9d0d96da67420778a3485a6b345177dc6f67b9a4b394f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 628 (Chapter 628), 2025 Edition
+- id: ors-chapter-632
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors632.html
+  sha256: 0f5646203b5fbb5c06f63d51666f7e4cdee2e1999318e7eb25da2e23a783f9d9
+  last_checked: '2026-07-20'
+  notes: ORS chapter 632 (Chapter 632), 2025 Edition
+- id: ors-chapter-633
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors633.html
+  sha256: 6460d0a995b70385d9ce29fc9e1341f0af158265bb37782a8bf0cd51a495d1d9
+  last_checked: '2026-07-20'
+  notes: ORS chapter 633 (Chapter 633), 2025 Edition
+- id: ors-chapter-634
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors634.html
+  sha256: 8b72067100bba71b7ffa162a2fe1a0867633b63b93e6dc484981d122a884f95b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 634 (Chapter 634), 2025 Edition
+- id: ors-chapter-635
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors635.html
+  sha256: 98060ca378fb656ecb832b9a134dbee49efd62d6420ac4a42ba3a7b92c7d5749
+  last_checked: '2026-07-20'
+  notes: ORS chapter 635 (Chapter 635), 2025 Edition
+- id: ors-chapter-645
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors645.html
+  sha256: 4907a2db7e6a85a29e1c0825a752540bb829a6eff9ede6fe5ba4282d5438105f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 645 (Commodity Transactions), 2025 Edition
+- id: ors-chapter-646
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors646.html
+  sha256: 2bce1abb51bf0002e59fd7fc43272e7730fbefdbe3cc0678f3398bddee7d1e81
+  last_checked: '2026-07-20'
+  notes: ORS chapter 646 (Chapter 646), 2025 Edition
+- id: ors-chapter-646a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html
+  sha256: e03797ae216222297ca5d652736966de2a9202c84d3a898db2b6a03279bce322
+  last_checked: '2026-07-20'
+  notes: ORS chapter 646A (Chapter 646A), 2025 Edition
+- id: ors-chapter-647
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors647.html
+  sha256: d85d0b640e9cb0876ad5879d1680d468497f05e6c82f21a6cdb92e6f3da7f3ec
+  last_checked: '2026-07-20'
+  notes: ORS chapter 647 (Chapter 647), 2025 Edition
+- id: ors-chapter-648
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors648.html
+  sha256: c2d454a0d7389a4f01a17eed3b64c6984c4f6c50a0e4abf36eb9461a726c3e1d
+  last_checked: '2026-07-20'
+  notes: ORS chapter 648 (Chapter 648), 2025 Edition
+- id: ors-chapter-650
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors650.html
+  sha256: debd61b2760bbf628bba5bc6148ffb159c9dfa1a552aee6ca18cdbe549230f2e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 650 (Chapter 650), 2025 Edition
+- id: ors-chapter-651
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors651.html
+  sha256: 3ef6e4c5c9db427333eb9dc18e01e13cbe686f10e72a160c5f229c32fd8aa573
+  last_checked: '2026-07-20'
+  notes: ORS chapter 651 (Bureau of Labor and Industries), 2025 Edition
+- id: ors-chapter-652
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors652.html
+  sha256: 066592e1d282ddce684ff0f8da211242e6645fa713bf3ff5e9bce752736ddae2
+  last_checked: '2026-07-20'
+  notes: ORS chapter 652 (Chapter 652), 2025 Edition
+- id: ors-chapter-653
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors653.html
+  sha256: 036a0543d522408e2ce113566aa9c96ef56a371783840bec578fba4f5aa105d6
+  last_checked: '2026-07-20'
+  notes: ORS chapter 653 (Chapter 653), 2025 Edition
+- id: ors-chapter-654
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors654.html
+  sha256: 44814348028597644fd3cfd1f738f7c345041a92db915b30cf57df6c3a5aafa5
+  last_checked: '2026-07-20'
+  notes: ORS chapter 654 (Chapter 654), 2025 Edition
+- id: ors-chapter-655
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors655.html
+  sha256: fc5adc3ba30fa9464359799e5e22f681ad95b9763d31fd20de943e5c14e8a81c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 655 (Chapter 655), 2025 Edition
+- id: ors-chapter-656
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors656.html
+  sha256: 91f07035036f693519e8df51e2dcdf3f09ad70af5804c56984798cd41c610b09
+  last_checked: '2026-07-20'
+  notes: ORS chapter 656 (Chapter 656), 2025 Edition
+- id: ors-chapter-657
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors657.html
+  sha256: f1e0e5e658504e87408b3bc23efcccc03dc0ce8dada32900d3e59ecccd790ab3
+  last_checked: '2026-07-20'
+  notes: ORS chapter 657 (Chapter 657), 2025 Edition
+- id: ors-chapter-657a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors657A.html
+  sha256: fbe90677505d8a84e754c98992277a94f77baff80bd05fd3d94cb0c5aaf8b71f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 657A (Chapter 657A), 2025 Edition
+- id: ors-chapter-658
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors658.html
+  sha256: f66345a0346d5002c32f7767796f0f7d841c3a634f456e21609fccb4238aab08
+  last_checked: '2026-07-20'
+  notes: ORS chapter 658 (Chapter 658), 2025 Edition
+- id: ors-chapter-659
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors659.html
+  sha256: 2987411f8fa4ae6f8a2a1c49fb60d5f36e664ea46f5a52c36a5fefb3ec64d518
+  last_checked: '2026-07-20'
+  notes: ORS chapter 659 (Chapter 659), 2025 Edition
+- id: ors-chapter-659a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html
+  sha256: 2f753dca4859a73c6baffe719a1ce59af632ae018003718db4cc597130ceb46d
+  last_checked: '2026-07-20'
+  notes: ORS chapter 659A (Chapter 659A), 2025 Edition
+- id: ors-chapter-660
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors660.html
+  sha256: 5890a14da72386f67984b055a2229ad5ed1ce68d0055ee088dea4bf690197060
+  last_checked: '2026-07-20'
+  notes: ORS chapter 660 (Chapter 660), 2025 Edition
+- id: ors-chapter-662
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors662.html
+  sha256: 39b909fed616aba8cd6812d404283c1dc3068e7e6a37d4084f85ccb54c300c1f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 662 (Chapter 662), 2025 Edition
+- id: ors-chapter-663
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors663.html
+  sha256: d5d7f41406c0c799c87bd23f7ca2f68beb1622b492a7d7715b93e0d896a8cd3b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 663 (Chapter 663), 2025 Edition
+- id: ors-chapter-670
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors670.html
+  sha256: 7198b2e1723780a70effe7e4841ad2b88dce2b42df884836f9267b9718eee3b2
+  last_checked: '2026-07-20'
+  notes: ORS chapter 670 (Occupations and Professions Generally), 2025 Edition
+- id: ors-chapter-671
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors671.html
+  sha256: 053bc62e1a7f84100c440cfac2773770c1030416b35b77386ff9276265f98e86
+  last_checked: '2026-07-20'
+  notes: ORS chapter 671 (Chapter 671), 2025 Edition
+- id: ors-chapter-672
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors672.html
+  sha256: 5947b22cc9fef533204e7a0f2966546e49315fb6b0cfb3f85c6c23eace18ea27
+  last_checked: '2026-07-20'
+  notes: ORS chapter 672 (Chapter 672), 2025 Edition
+- id: ors-chapter-673
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors673.html
+  sha256: 6b343a8c87e00cf0e557999b347cd0f405db55698ee50309f0c5415c88e25a7f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 673 (Chapter 673), 2025 Edition
+- id: ors-chapter-674
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors674.html
+  sha256: 62fbd28e091bdf83da64621be2738859e320b8f8c4d734fdd5b9ef0732690740
+  last_checked: '2026-07-20'
+  notes: ORS chapter 674 (Chapter 674), 2025 Edition
+- id: ors-chapter-675
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors675.html
+  sha256: cb031295c7962abe5f011c3ec4bedab3355e3e81cc58b697a168e836bcfd5f42
+  last_checked: '2026-07-20'
+  notes: ORS chapter 675 (Chapter 675), 2025 Edition
+- id: ors-chapter-676
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors676.html
+  sha256: 5c7f938a336cc0005299e112841e51b82996b55defd3ce72d65435364e92d8dc
+  last_checked: '2026-07-20'
+  notes: ORS chapter 676 (Chapter 676), 2025 Edition
+- id: ors-chapter-677
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors677.html
+  sha256: 1d9fd2a855ae57d8a9f3a3cd32d91dad49812e7da93421f335c0c59b52f16be1
+  last_checked: '2026-07-20'
+  notes: ORS chapter 677 (Chapter 677), 2025 Edition
+- id: ors-chapter-678
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors678.html
+  sha256: 252ca8f27257b0d8c3ead743a40f2a93592cae33753f0709f06b8136cfc68e3f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 678 (Chapter 678), 2025 Edition
+- id: ors-chapter-679
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors679.html
+  sha256: 60ff0b6f43805f74dba6b4455367a438517cb17475698e80f56be80cbdef7c56
+  last_checked: '2026-07-20'
+  notes: ORS chapter 679 (Chapter 679), 2025 Edition
+- id: ors-chapter-680
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors680.html
+  sha256: 5ea778156b545329852e67ceb62c9bbeaa019ba81d94eae3b84bfa72483cfe1e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 680 (Chapter 680), 2025 Edition
+- id: ors-chapter-681
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors681.html
+  sha256: 5955bdffb000a2f571010ddcdff1793b705d2b39da7b3962fbcd1537bb63dc89
+  last_checked: '2026-07-20'
+  notes: ORS chapter 681 (Chapter 681), 2025 Edition
+- id: ors-chapter-682
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors682.html
+  sha256: 37ce6456d106e8b1e9d8d7c64d0c813a197962eb4fc4cd741f52e8c5e9a0c3d2
+  last_checked: '2026-07-20'
+  notes: ORS chapter 682 (Chapter 682), 2025 Edition
+- id: ors-chapter-683
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors683.html
+  sha256: 8e09ec9f7c5142dfd317b1efff32ae55a0b24e4cfa7b14ab7eb1fa68e5b508e1
+  last_checked: '2026-07-20'
+  notes: ORS chapter 683 (Chapter 683), 2025 Edition
+- id: ors-chapter-684
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors684.html
+  sha256: 51d58d92360932c1d747ccd3bc37d4f74cc34872f213b091b2128e975b7bcf1d
+  last_checked: '2026-07-20'
+  notes: ORS chapter 684 (Chapter 684), 2025 Edition
+- id: ors-chapter-685
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors685.html
+  sha256: 58f066181dbe9f72b6a74d755f07a9f0673c5d1f4d08ca26841879786eeff1af
+  last_checked: '2026-07-20'
+  notes: ORS chapter 685 (Chapter 685), 2025 Edition
+- id: ors-chapter-686
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors686.html
+  sha256: e6cff4dee2ca102dede792525d4d55d21a83744b8248df1fdb2b2e79937dec8b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 686 (Chapter 686), 2025 Edition
+- id: ors-chapter-687
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors687.html
+  sha256: 053146d2def755dd0e8e96f3a531bf9e650ff4f2e993ee4ab1be1e727b32f3e8
+  last_checked: '2026-07-20'
+  notes: ORS chapter 687 (Chapter 687), 2025 Edition
+- id: ors-chapter-688
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors688.html
+  sha256: 34e4e76ac06a5a86a9d9ed78b163615fe8b6c5ab7afa9b83d503802ebf14fafe
+  last_checked: '2026-07-20'
+  notes: ORS chapter 688 (Chapter 688), 2025 Edition
+- id: ors-chapter-689
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors689.html
+  sha256: aae89c44fee6c2b5e9795d520921abe620a4d537badd1e605f2060f01eb66693
+  last_checked: '2026-07-20'
+  notes: ORS chapter 689 (Chapter 689), 2025 Edition
+- id: ors-chapter-690
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors690.html
+  sha256: a46752772afa1904ee83d2315e5852d1153a5e8b238464f9098e875364d4fe7b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 690 (Chapter 690), 2025 Edition
+- id: ors-chapter-691
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors691.html
+  sha256: 9a349947dd2e2d1d11678e2ab9c29dc56085effe2ec71dc2c0c77c0241472e2a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 691 (Chapter 691), 2025 Edition
+- id: ors-chapter-692
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors692.html
+  sha256: 092a772caa4b802e81e06c2c6b7ba407419e33a7bb4710b4d25a119d41830e1a
+  last_checked: '2026-07-20'
+  notes: ORS chapter 692 (Chapter 692), 2025 Edition
+- id: ors-chapter-693
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors693.html
+  sha256: 5d07c987dc12cc26a2972998b4c3caac0660d0c7c7585f6195280f74a8be4335
+  last_checked: '2026-07-20'
+  notes: ORS chapter 693 (Chapter 693), 2025 Edition
+- id: ors-chapter-694
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors694.html
+  sha256: f882be069137f0dc357f9f6be7cf28dde9f947d933ed27668c138058d0b66161
+  last_checked: '2026-07-20'
+  notes: ORS chapter 694 (Chapter 694), 2025 Edition
+- id: ors-chapter-696
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors696.html
+  sha256: 3d296a83bf84756d43ed87b8886668b5378cd9d139e997023c06e98c60699626
+  last_checked: '2026-07-20'
+  notes: ORS chapter 696 (Chapter 696), 2025 Edition
+- id: ors-chapter-697
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors697.html
+  sha256: ca23f1bf9437b920b5446666e53aa7311c0bb092c768b1c583601dd52b91c471
+  last_checked: '2026-07-20'
+  notes: ORS chapter 697 (Chapter 697), 2025 Edition
+- id: ors-chapter-700
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors700.html
+  sha256: d8c2200f54c648b99e4949bff1723968dcdd2b099a70a6ba799fabf20d64406f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 700 (Chapter 700), 2025 Edition
+- id: ors-chapter-701
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors701.html
+  sha256: 677750a1e0d217191dbcd35a43ebf5a736bf16b9357fe01eee92c47ca8c64113
+  last_checked: '2026-07-20'
+  notes: ORS chapter 701 (Chapter 701), 2025 Edition
+- id: ors-chapter-703
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors703.html
+  sha256: 612559af65c93eff6396a1e618229e3a20424279aed340c0d0b187fea21cdc75
+  last_checked: '2026-07-20'
+  notes: ORS chapter 703 (Chapter 703), 2025 Edition
+- id: ors-chapter-704
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors704.html
+  sha256: bade31e52153a3aa7bf1d8dce0160162046c16b0ec8e4f8b303d2f45df959b12
+  last_checked: '2026-07-20'
+  notes: ORS chapter 704 (Chapter 704), 2025 Edition
+- id: ors-chapter-705
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors705.html
+  sha256: ec662f40cad33e3fb1fc82a571486e05471dfc64e3c4e6bc6bf4ba16d549f1ee
+  last_checked: '2026-07-20'
+  notes: ORS chapter 705 (Department of Consumer and Business Services _______________ 2025 EDITION DEPARTMENT OF
+    CONSUMER AND BUSINESS SERVICES INSURANCE AND FINANCE ADMINISTRATION ADMI), 2025 Edition
+- id: ors-chapter-706
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors706.html
+  sha256: 0229cdaf963c65c271bcd87cfc3c1932f6e93e1d2b956d944916399452f12dd6
+  last_checked: '2026-07-20'
+  notes: ORS chapter 706 (Administration and Enforcement of Banking Laws Generally), 2025 Edition
+- id: ors-chapter-707
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors707.html
+  sha256: 9314f40a7f2a34fb7270f4cccf6f4466fa0a066114d0e72b2b00b00fce1a99dd
+  last_checked: '2026-07-20'
+  notes: ORS chapter 707 (Chapter 707), 2025 Edition
+- id: ors-chapter-708a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html
+  sha256: 2245c72a1b052c337cc5afba4b05ca0d6913ba9296e23bb0f5834bdb0a6b7274
+  last_checked: '2026-07-20'
+  notes: ORS chapter 708A (Chapter 708A), 2025 Edition
+- id: ors-chapter-709
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors709.html
+  sha256: 4b24d500513a44277eca5712d1d02453e5b6a6f3a41cb606d7fa21b4ff848a71
+  last_checked: '2026-07-20'
+  notes: ORS chapter 709 (Chapter 709), 2025 Edition
+- id: ors-chapter-713
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors713.html
+  sha256: 61003a2ebe2d88e60f633e6e16b12f04a16420d6cdaf30e090eddce54938ac65
+  last_checked: '2026-07-20'
+  notes: ORS chapter 713 (Chapter 713), 2025 Edition
+- id: ors-chapter-714
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors714.html
+  sha256: 73326252bd59f3d25b1cb3a4b6c45dedc2a4c68a6f4384b217b3db14486a1821
+  last_checked: '2026-07-20'
+  notes: ORS chapter 714 (Chapter 714), 2025 Edition
+- id: ors-chapter-715
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors715.html
+  sha256: 9bb8e6e6bddb9b78861e877f7e1f0b4b12049c01e04e9155e2ad4b1e186e5f8e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 715 (Chapter 715), 2025 Edition
+- id: ors-chapter-716
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors716.html
+  sha256: 8e82f5a9912a1cbb62429a29f89df88a3233ef70cf59a568673dc68e4d9a3f3e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 716 (Chapter 716), 2025 Edition
+- id: ors-chapter-717
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors717.html
+  sha256: 4d71c8de1133aa9f44c2863b8d32ab4f6aef3c3a8e7c27bf2d481e336e1f52e9
+  last_checked: '2026-07-20'
+  notes: ORS chapter 717 (Chapter 717), 2025 Edition
+- id: ors-chapter-722
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors722.html
+  sha256: fd6efc3a44f66a7580ddb648d47dd7a4d43a327b1713fc5321be26921516fff8
+  last_checked: '2026-07-20'
+  notes: ORS chapter 722 (Chapter 722), 2025 Edition
+- id: ors-chapter-723
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors723.html
+  sha256: 61550092cfb4fd33495458ea582a13dd1ba87fb83116435ad537106860379d20
+  last_checked: '2026-07-20'
+  notes: ORS chapter 723 (Chapter 723), 2025 Edition
+- id: ors-chapter-725
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors725.html
+  sha256: 7ac4edfc1222716fc56fa4df1895ae19f43f420ee7ead51e85763b750778a2c3
+  last_checked: '2026-07-20'
+  notes: ORS chapter 725 (Chapter 725), 2025 Edition
+- id: ors-chapter-726
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors726.html
+  sha256: 0b740b8e1b58ea46780b51f11b1305ad080ef9c2f07b89e334c1d8ba6a0833c5
+  last_checked: '2026-07-20'
+  notes: ORS chapter 726 (Chapter 726), 2025 Edition
+- id: ors-chapter-731
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors731.html
+  sha256: 4434b9fdc77e738d031730db7deeab764251f73595688489a28cdc2c96e3ec34
+  last_checked: '2026-07-20'
+  notes: ORS chapter 731 (Administration and General Provisions), 2025 Edition
+- id: ors-chapter-732
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors732.html
+  sha256: 5de012bb7eba2adab13024f31bdd3096f3aaff0ab5f229924a8534c1adbc20b3
+  last_checked: '2026-07-20'
+  notes: ORS chapter 732 (Chapter 732), 2025 Edition
+- id: ors-chapter-733
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors733.html
+  sha256: 8ea4b5cf197cdeb69017611ce51a034da3782d0fb1d7be72310e35e2c87240d2
+  last_checked: '2026-07-20'
+  notes: ORS chapter 733 (Chapter 733), 2025 Edition
+- id: ors-chapter-734
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors734.html
+  sha256: a429f1164505c71104ebec1e1c20a624b854706005701cf64b2c3973352979f9
+  last_checked: '2026-07-20'
+  notes: ORS chapter 734 (Chapter 734), 2025 Edition
+- id: ors-chapter-735
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors735.html
+  sha256: 8b16015d1ea42fff6f16d881a9ec8065fb5960bf08c01f6b45289dca757f75d6
+  last_checked: '2026-07-20'
+  notes: ORS chapter 735 (Chapter 735), 2025 Edition
+- id: ors-chapter-737
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors737.html
+  sha256: 304ff68db63c964abea84978a911229de191fb0e51953866f1384fa520b8cf67
+  last_checked: '2026-07-20'
+  notes: ORS chapter 737 (Chapter 737), 2025 Edition
+- id: ors-chapter-741
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors741.html
+  sha256: 673b2d417604d94493c693964245d2d4ac4fb4e42f64dfbb8acd612ef04ac090
+  last_checked: '2026-07-20'
+  notes: ORS chapter 741 (Chapter 741), 2025 Edition
+- id: ors-chapter-742
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors742.html
+  sha256: f75d61a1b08df47713d2a7e143dddfd1da9e36d91d2c6054c3611bed2169d3c5
+  last_checked: '2026-07-20'
+  notes: ORS chapter 742 (Chapter 742), 2025 Edition
+- id: ors-chapter-743
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors743.html
+  sha256: 9c7c34cfe0d09f1909f92ec27f829ccecf1701a1f6b02a9d80a58a61db5e17c4
+  last_checked: '2026-07-20'
+  notes: ORS chapter 743 (Chapter 743), 2025 Edition
+- id: ors-chapter-743a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors743A.html
+  sha256: 690670ab431a49bc043071d93beeee31b426d297584972fd7e0009cfe1208b61
+  last_checked: '2026-07-20'
+  notes: ORS chapter 743A (Chapter 743A), 2025 Edition
+- id: ors-chapter-743b
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html
+  sha256: 87326ecd1d8af7a2df62e2c2daba1d4ab39a6c8b157444a2b340276172688dbd
+  last_checked: '2026-07-20'
+  notes: ORS chapter 743B (Chapter 743B), 2025 Edition
+- id: ors-chapter-744
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors744.html
+  sha256: 76e0fb96222b559ac30152ca939db51fea75dec3e029901d45bc85285e067353
+  last_checked: '2026-07-20'
+  notes: ORS chapter 744 (Chapter 744), 2025 Edition
+- id: ors-chapter-746
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors746.html
+  sha256: 6465a351a0a0d63b1e4a1cadccdb6682c673ecf0eb7b9aa2568059c326f6d9ab
+  last_checked: '2026-07-20'
+  notes: ORS chapter 746 (Chapter 746), 2025 Edition
+- id: ors-chapter-750
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors750.html
+  sha256: 5d8098f8e5ccb7b47342756ea70eb24243300c4c1aefb112b8aa6038abc7bc39
+  last_checked: '2026-07-20'
+  notes: ORS chapter 750 (Chapter 750), 2025 Edition
+- id: ors-chapter-756
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors756.html
+  sha256: f28045843ce852fb93f4c3da46155d372c18d8701ddca767dea103c1a2885f3b
+  last_checked: '2026-07-20'
+  notes: ORS chapter 756 (Public Utility Commission), 2025 Edition
+- id: ors-chapter-757
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors757.html
+  sha256: f97db86acc94796ced5e2e9f232e6e65169c801be41be875cb15663be8b96b77
+  last_checked: '2026-07-20'
+  notes: ORS chapter 757 (Chapter 757), 2025 Edition
+- id: ors-chapter-758
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors758.html
+  sha256: 51a89fc5f84018eeaaa3eb00a7164f411ba988daea9cbe4e939bbeee8e67a123
+  last_checked: '2026-07-20'
+  notes: ORS chapter 758 (Chapter 758), 2025 Edition
+- id: ors-chapter-759
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors759.html
+  sha256: 6628586560b89977e9347d223c866eff7a9166e78e950aebe54a713d66152f14
+  last_checked: '2026-07-20'
+  notes: ORS chapter 759 (Chapter 759), 2025 Edition
+- id: ors-chapter-761
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors761.html
+  sha256: 52eb7016192d65b5f2673c24c4fecc7af13c3bf08ef32d8e42f4dc7c3a59ec21
+  last_checked: '2026-07-20'
+  notes: ORS chapter 761 (Chapter 761), 2025 Edition
+- id: ors-chapter-776
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors776.html
+  sha256: 4e950649d172a1e7f22d6a286d0df2b54cc683b59663c4ab7ece570216627367
+  last_checked: '2026-07-20'
+  notes: ORS chapter 776 (Maritime Pilots and Pilotage), 2025 Edition
+- id: ors-chapter-777
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors777.html
+  sha256: cd4b47d8258bc8f64282535b47eb1fbd213b3aa2d665fc767071a12e51712682
+  last_checked: '2026-07-20'
+  notes: ORS chapter 777 (Chapter 777), 2025 Edition
+- id: ors-chapter-783
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors783.html
+  sha256: 445c6f07442fd753b90de24776253709ee0063fcf8dfd1f500aa42d507093b37
+  last_checked: '2026-07-20'
+  notes: ORS chapter 783 (Chapter 783), 2025 Edition
+- id: ors-chapter-801
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors801.html
+  sha256: d5cfe2c9a9b29723683ba77eb04ec5b4be2e4b11d1893e7646c6f78992f0ef3e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 801 (General Provisions and Definitions for Oregon Vehicle Code), 2025 Edition
+- id: ors-chapter-802
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors802.html
+  sha256: 809e8460985c8554701dcfb62570faaab6c385c8a7c59d6f06d071755736ffa2
+  last_checked: '2026-07-20'
+  notes: ORS chapter 802 (Chapter 802), 2025 Edition
+- id: ors-chapter-803
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors803.html
+  sha256: 1ee50fdbf63683ba7dfc93b99de2f347abb72ac80de72da3310a85970ffd7c56
+  last_checked: '2026-07-20'
+  notes: ORS chapter 803 (Chapter 803), 2025 Edition
+- id: ors-chapter-805
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors805.html
+  sha256: b7f7e727552e7da01934fa0342b0aa1771fdef0f3cead7d176af57c4d6dda598
+  last_checked: '2026-07-20'
+  notes: ORS chapter 805 (Chapter 805), 2025 Edition
+- id: ors-chapter-806
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors806.html
+  sha256: 90c0b3a27016e69f7d33ef0c9ef452c5adf5777102eb2fcbd2be0687b239b012
+  last_checked: '2026-07-20'
+  notes: ORS chapter 806 (Chapter 806), 2025 Edition
+- id: ors-chapter-807
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors807.html
+  sha256: 14503fc5a3229c0e44e94dc57f97a649c794d4182f6e24d76735eccf5901ce47
+  last_checked: '2026-07-20'
+  notes: ORS chapter 807 (Chapter 807), 2025 Edition
+- id: ors-chapter-809
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors809.html
+  sha256: 8022c57c96840d1b2a6c258a2ed44bedde53d5e4a45313b522bea7bea7c5ca12
+  last_checked: '2026-07-20'
+  notes: ORS chapter 809 (Chapter 809), 2025 Edition
+- id: ors-chapter-810
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors810.html
+  sha256: df999ee3c6d6b329ef1ec7e88030f167bf05c62da41a8af705571144e992bfda
+  last_checked: '2026-07-20'
+  notes: ORS chapter 810 (Chapter 810), 2025 Edition
+- id: ors-chapter-811
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors811.html
+  sha256: 8bf7df8913d3b8bef0147a34eafd0a7a989885202e0e0e5a9f32b543f2a843c3
+  last_checked: '2026-07-20'
+  notes: ORS chapter 811 (Chapter 811), 2025 Edition
+- id: ors-chapter-813
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors813.html
+  sha256: c5c67fa86fc15fe912740d23119755981d1b248cf5811967b2d812befe5a94a6
+  last_checked: '2026-07-20'
+  notes: ORS chapter 813 (Chapter 813), 2025 Edition
+- id: ors-chapter-814
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors814.html
+  sha256: b27162a273b5870194dd4b0a5b39ba79c9bdc8052253ba1485dbb3ad11c70448
+  last_checked: '2026-07-20'
+  notes: ORS chapter 814 (Chapter 814), 2025 Edition
+- id: ors-chapter-815
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors815.html
+  sha256: e9704861e1f3a699bbe291b2f9a3f0c73cfc9aa3aecfd0d021c32cdd025f0d31
+  last_checked: '2026-07-20'
+  notes: ORS chapter 815 (Chapter 815), 2025 Edition
+- id: ors-chapter-816
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors816.html
+  sha256: 2e60e746c6973752e7c6d5bfdb28b9717da79de7cd581daa548ca85baa91f450
+  last_checked: '2026-07-20'
+  notes: ORS chapter 816 (Chapter 816), 2025 Edition
+- id: ors-chapter-818
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors818.html
+  sha256: d7c4201d9ab27e692a7a9df6b8a91453a828faeada28762ade94fc48df1f2b58
+  last_checked: '2026-07-20'
+  notes: ORS chapter 818 (Chapter 818), 2025 Edition
+- id: ors-chapter-819
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors819.html
+  sha256: 28acf58f1d403f67043c46be647f91bf25b055d23da7fec98ef8b0cead87681c
+  last_checked: '2026-07-20'
+  notes: ORS chapter 819 (Chapter 819), 2025 Edition
+- id: ors-chapter-820
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors820.html
+  sha256: 34f779ec1fc59c3f0e20b20f424c16c6fb256c2863149151852dda9cccaf15b4
+  last_checked: '2026-07-20'
+  notes: ORS chapter 820 (Chapter 820), 2025 Edition
+- id: ors-chapter-821
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors821.html
+  sha256: 302517976de8ec237ef33afa076b7b634773e4af5fd32f699788a4f8c7571072
+  last_checked: '2026-07-20'
+  notes: ORS chapter 821 (Chapter 821), 2025 Edition
+- id: ors-chapter-822
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors822.html
+  sha256: 12025a82add6abe761abde1e08712ebab780a79c41d6eb0b43f60d11fc149d9e
+  last_checked: '2026-07-20'
+  notes: ORS chapter 822 (Chapter 822), 2025 Edition
+- id: ors-chapter-823
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors823.html
+  sha256: ca375a0ab191e1c272fb6d69bbdfd90734e9819c5464180452b7108915b072bf
+  last_checked: '2026-07-20'
+  notes: ORS chapter 823 (Chapter 823), 2025 Edition
+- id: ors-chapter-824
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors824.html
+  sha256: 509de21f94e2b7603ee28013f9a2b0bf45e3e84d7d080fe7b17d88d09502d9a0
+  last_checked: '2026-07-20'
+  notes: ORS chapter 824 (Chapter 824), 2025 Edition
+- id: ors-chapter-825
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors825.html
+  sha256: 192aaf1276d1a220212315341d1daf6f02ccd94725063e1b52a6b67f9ddebc15
+  last_checked: '2026-07-20'
+  notes: ORS chapter 825 (Chapter 825), 2025 Edition
+- id: ors-chapter-826
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors826.html
+  sha256: 0dc8444712640f6afdc44ac0512bf250c0ee648d7c28641017d350e12bcce73f
+  last_checked: '2026-07-20'
+  notes: ORS chapter 826 (Chapter 826), 2025 Edition
+- id: ors-chapter-830
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors830.html
+  sha256: 33cc35f9aa1a2d4ee6dd413609b33f1015e099989296269459b05887dbadb4a4
+  last_checked: '2026-07-20'
+  notes: ORS chapter 830 (Small Watercraft _______________ 2025 EDITION SMALL WATERCRAFT SMALL WATERCRAFT GENERAL
+    PROVISIONS 830.005 Definitions for chapter 830.015 Application of ORS 83), 2025 Edition
+- id: ors-chapter-835
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors835.html
+  sha256: 1b81d20506f039895d3657d6441a30253d64b09567619a83937c151cffcf18dd
+  last_checked: '2026-07-20'
+  notes: ORS chapter 835 (Aviation Administration), 2025 Edition
+- id: ors-chapter-836
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors836.html
+  sha256: 83d1d184e89c63726234db6dd619d2df174c30c9135a3915f0308636a2a5ace3
+  last_checked: '2026-07-20'
+  notes: ORS chapter 836 (Chapter 836), 2025 Edition
+- id: ors-chapter-837
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors837.html
+  sha256: d0fe09edb673b3eb9d669a90cbbcda0489f51f0da045ce0cde109d7761bb5d69
+  last_checked: '2026-07-20'
+  notes: ORS chapter 837 (Chapter 837), 2025 Edition

@@ -1,0 +1,1717 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+287A — LOCAL GOVERNMENT BORROWING 
+
+ PUBLIC
+BORROWING 
+
+ 2025
+EDITION 
+
+   
+
+ Local
+Government Borrowing 
+
+   
+
+ DEFINITIONS 
+
+   
+
+ 287A.001  Definitions for ORS
+chapter 287A 
+
+   
+
+ AUTHORITY FOR BORROWING 
+
+   
+
+ 287A.010  Powers conveyed to public
+bodies 
+
+   
+
+ (General Obligation Bonds) 
+
+ 287A.050  Authority of city to
+issue general obligation bonds 
+
+   
+
+ 287A.100  Authority of county to
+issue general obligation bonds 
+
+   
+
+ 287A.105  Limitation on bonded
+indebtedness of county 
+
+   
+
+ 287A.140  Ad valorem tax levy to
+pay general obligation bonds 
+
+   
+
+ 287A.145  Misspent proceeds of
+general obligation bonds 
+
+   
+
+ (Revenue Bonds) 
+
+   
+
+ 287A.150  Authority of public body
+to issue revenue bonds 
+
+   
+
+ 287A.180  Short-term borrowing by
+public body 
+
+   
+
+ (Debt Limits) 
+
+   
+
+ 287A.195  Compliance with
+constitutional or statutory debt limits 
+
+   
+
+ ADMINISTRATION OF BONDS 
+
+   
+
+ 287A.300  Terms and conditions of
+bond sales; delegation of authority 
+
+   
+
+ 287A.310  Definitions for ORS
+287A.310 and 287A.315; lien of a pledge; Uniform Commercial Code 
+
+   
+
+ 287A.315  Pledge of full faith and
+credit and taxing power 
+
+   
+
+ 287A.325  Covenants of public
+bodies regarding pledges 
+
+   
+
+ 287A.335  Agreements for exchange
+of interest rates; rules 
+
+   
+
+ 287A.339  Termination payment of
+conduit borrower 
+
+   
+
+ 287A.340  Credit enhancement
+devices 
+
+   
+
+ 287A.343  Public body purchase of
+own bonds 
+
+   
+
+ 287A.345  State taxation of bond
+interest 
+
+   
+
+ 287A.350  Public records 
+
+   
+
+ REFUNDING BONDS 
+
+   
+
+ 287A.360  Current refunding bonds 
+
+   
+
+ 287A.365  Advance refunding bonds
+and forward current refunding 
+
+   
+
+ 287A.370  Proposed refunding plan
+for advance refunding bonds or forward current refunding; rules; fees 
+
+   
+
+ 287A.375  Maximum amount of advance
+refunding bonds 
+
+   
+
+ 287A.380  Tax levy to pay maturing
+general obligation advance refunding bonds 
+
+   
+
+ WARRANTS AND CHECKS; INTEREST;
+UNCLAIMED WARRANTS AND CHECKS; MASTER WARRANTS 
+
+   
+
+ 287A.472  Interest on municipal
+warrants not paid on presentation 
+
+   
+
+ 287A.474  Warrants and checks more
+than two years old; report by fiscal officer; claim by owner 
+
+   
+
+ 287A.482  Definitions for ORS
+287A.482 to 287A.488 
+
+   
+
+ 287A.484  Master warrant procedure
+authorized if warrants would be not paid 
+
+   
+
+ 287A.486  Procedure 
+
+   
+
+ 287A.488  Taxes must be levied for
+payment of claims included in master warrant 
+
+   
+
+ OREGON MUNICIPAL DEBT ADVISORY
+COMMISSION 
+
+   
+
+ 287A.630  Oregon Municipal Debt
+Advisory Commission; creation; term; compensation 
+
+   
+
+ 287A.632  Meetings; quorum;
+personnel 
+
+   
+
+ 287A.634  Powers and duties of
+commission; rules; fees 
+
+   
+
+ 287A.640  Notice to commission of
+proposed issues; duty of public bodies to assist; rules 
+
+   
+
+ DEFINITIONS 
+
+   
+
+       287A.001
+Definitions for ORS chapter 287A. 
+As used in this chapter: 
+
+       (1) “Advance
+refunding bond” means a bond all or part of the proceeds of which are to be
+used to pay an outstanding bond one year or more after the advance refunding
+bond is issued. 
+
+       (2) “Agreement
+for exchange of interest rates” means a contract, or an option or forward
+commitment to enter into a contract, for an exchange of interest rates for
+related bonds that provides for: 
+
+       (a) Payments
+based on levels or changes in interest rates; or 
+
+       (b) Provisions to
+hedge payment, rate, spread or similar exposure including, but not limited to,
+an interest rate floor or cap or an option, put or call. 
+
+       (3)(a) “Bond”
+means a contractual undertaking or instrument of a public body to repay
+borrowed moneys. 
+
+       (b) “Bond” does
+not mean a credit enhancement device. 
+
+       (4) “Capital
+construction” has the meaning given that term in ORS 310.140. 
+
+       (5) “Capital
+costs” has the meaning given that term in ORS 310.140. 
+
+       (6) “Capital
+improvements” has the meaning given that term in ORS 310.140. 
+
+       (7)(a) “Credit
+enhancement device” means a letter of credit, line of credit, standby bond
+purchase agreement, bond insurance policy, reserve surety bond or other device
+or facility used to enhance the creditworthiness, liquidity or marketability of
+bonds or agreements for exchange of interest rates. 
+
+       (b) “Credit
+enhancement device” does not mean a bond. 
+
+       (8) “Current
+refunding bond” means a bond the proceeds of which are to be used to pay or
+purchase an outstanding bond less than one year after the current refunding
+bond is issued. 
+
+       (9) “Forward
+current refunding” means execution and delivery of a purchase agreement or
+similar instrument under which a public body contracts to sell current
+refunding bonds for delivery at a future date that is one year or more after
+execution of the purchase agreement or similar instrument. 
+
+       (10) “General
+obligation bond” means exempt bonded indebtedness, as defined in ORS 310.140,
+that is secured by a commitment to levy ad valorem taxes outside the limits of
+sections 11 and 11b, Article XI, of the Oregon Constitution. 
+
+       (11) “Lawfully
+available funds” means revenues or other moneys of a public body including, but
+not limited to, moneys credited to the general fund of the public body,
+revenues from an ad valorem tax and revenues derived from other taxes levied by
+the public body that are not dedicated, restricted or obligated by law or
+contract to an inconsistent expenditure or use. 
+
+       (12) “Operative
+document” means a bond declaration, trust agreement, indenture, security
+agreement or other document in which a public body pledges revenue or property
+as security for a bond. 
+
+       (13) “Pledge”
+means: 
+
+       (a) To create a
+lien on property pursuant to ORS 287A.140. 
+
+       (b) A lien on
+property created pursuant to ORS 287A.140. 
+
+       (c) To create a
+lien on property pursuant to ORS 287A.310. 
+
+       (d) A lien on
+property created pursuant to ORS 287A.310. 
+
+       (14) “Public body”
+means: 
+
+       (a) A county of
+this state; 
+
+       (b) A city of
+this state; 
+
+       (c) A local
+service district as defined in ORS 174.116 (2); 
+
+       (d) A special
+government body as defined in ORS 174.117; 
+
+       (e) Oregon Health
+and Science University; 
+
+       (f) A public
+university listed in ORS 352.002; or 
+
+       (g) Any other
+political subdivision of this state that is authorized by the Legislative
+Assembly to issue bonds. 
+
+       (15) “Refunding
+bond” means an advance refunding bond, a current refunding bond or a forward
+current refunding bond. 
+
+       (16) “Related
+bond” means a bond for which the public body enters into an agreement for
+exchange of interest rates or obtains a credit enhancement device. 
+
+       (17) “Revenue”
+means all fees, tolls, excise taxes, assessments, property taxes and other
+taxes, rates, charges, rentals and other income or receipts derived by a public
+body or to which a public body is entitled. 
+
+       (18) “Revenue
+bond” means a bond that is not a general obligation bond. 
+
+       (19) “Termination
+payment” means the amount payable under an agreement for exchange of interest
+rates by one party to another party as a result of the termination, in whole or
+part, of the agreement prior to the expiration of the stated term. [2007 c.783 §42;
+2009 c.537 §9; 2013 c.491 §2; 2013 c.768 §28; 2015 c.53 §2; 2015 c.767 §88] 
+
+   
+
+ AUTHORITY FOR BORROWING 
+
+   
+
+       287A.010
+Powers conveyed to public bodies. 
+The powers conveyed to public bodies by ORS 287A.001 to 287A.380 are in
+addition to any other powers possessed by public bodies and do not limit those
+other powers. [2007 c.783 §68] 
+
+   
+
+ (General Obligation
+Bonds) 
+
+   
+
+       287A.050
+Authority of city to issue general obligation bonds. (1) Upon approval of the electors
+of a city, the city may issue general obligation bonds to finance: 
+
+       (a) Capital
+construction or capital improvements permitted by Article XI, sections 11 and
+11b, of the Oregon Constitution. 
+
+       (b) Capital costs
+permitted by Article XI, section 11L, of the Oregon Constitution. 
+
+       (2) Unless the
+city charter provides a lesser limitation, a city may not issue or have
+outstanding at the time of issuance general obligation bonds in a principal
+amount that exceeds three percent of the real market value of the taxable
+property within its boundaries, calculated as provided in ORS 308.207. 
+
+       (3) The
+limitation described in subsection (2) of this section does not apply to
+general obligation bonds issued: 
+
+       (a) To finance
+the costs of local improvements assessed and paid for in installments under
+statutory or charter authority. 
+
+       (b) To finance
+capital construction or capital improvements permitted by Article XI, sections
+11 and 11b, of the Oregon Constitution, or to finance capital costs permitted
+by Article XI, section 11L, of the Oregon Constitution, for: 
+
+       (A) Water supply,
+treatment or distribution; 
+
+       (B) Sanitary or
+storm sewage collection or treatment; 
+
+       (C) Hospitals or
+infirmaries; 
+
+       (D) Gas, power or
+lighting; or 
+
+       (E) Off-street
+motor vehicle parking facilities. [2007 c.783 §43; 2013 c.491 §3] 
+
+   
+
+       287A.100
+Authority of county to issue general obligation bonds. (1) Unless the county charter
+expressly provides otherwise, upon approval of the electors of a county, the
+county may issue general obligation bonds to finance: 
+
+       (a) Capital
+construction or capital improvements permitted by Article XI, sections 11 and
+11b, of the Oregon Constitution. 
+
+       (b) Capital costs
+permitted by Article XI, section 11L, of the Oregon Constitution. 
+
+       (2) Unless the
+county charter provides a lesser limitation, a county may not issue or have
+outstanding at the time of issuance general obligation bonds in a principal
+amount that exceeds two percent of the real market value of the taxable
+property in the county, calculated as provided in ORS 308.207. [2007 c.783 §44;
+2013 c.491 §4] 
+
+   
+
+       287A.105
+Limitation on bonded indebtedness of county. (1) A county may incur bonded indebtedness within the
+meaning of section 10, Article XI of the Oregon Constitution, by issuing
+revenue bonds when a county is expressly authorized to issue revenue bonds by a
+law other than this section. The amount of revenue bonds permitted by this
+section may not exceed the lesser of: 
+
+       (a) One percent
+of the real market value of all taxable property in the county, calculated as
+provided in ORS 308.207; or 
+
+       (b) A limitation
+on bonded indebtedness in the county charter. 
+
+       (2) The
+limitation on bonded indebtedness in subsection (1) of this section does not
+apply to revenue bonds issued to finance pension liabilities under ORS 238.692
+to 238.698 or any other law in effect prior to enactment of ORS 238.692 to
+238.698. [2007 c.783 §45] 
+
+   
+
+       287A.140 Ad
+valorem tax levy to pay general obligation bonds. (1) In addition to other taxes
+imposed, a public body shall levy annually an ad valorem property tax on the
+taxable property within the boundaries of the public body in an amount that is
+sufficient, when added to other amounts available, to pay the principal of and
+interest on outstanding general obligation bonds issued by the public body. 
+
+       (2) A public body
+may: 
+
+       (a) Use the
+revenues from a levy under this section and earnings on the revenues only to
+pay the principal of and interest on general obligation bonds. 
+
+       (b) Not use or
+divert taxes levied under subsection (1) of this section for another purpose
+while principal or interest remains unpaid on the bonds. 
+
+       (c) If a surplus
+amount remains after the principal of and interest on an issue of general
+obligation bonds have been paid and the public body does not have other
+expenses related to the bonds, transfer the surplus moneys to a fund designated
+by the governing body of the public body. 
+
+       (3) Revenues from
+a levy by a public body pursuant to this section and earnings on the revenues
+are pledged as security for payment of the principal of and interest on general
+obligation bonds of the public body. 
+
+       (4) A pledge
+under this section has the effect of a pledge under ORS 287A.310. [2007 c.783 §67;
+2015 c.53 §1] 
+
+   
+
+       287A.145
+Misspent proceeds of general obligation bonds. (1) If a court of competent
+jurisdiction determines that the proceeds of an issue of general obligation
+bonds have been used by a public body for expenditures that are not capital
+costs permitted by Article XI, section 11L, of the Oregon Constitution, or that
+are not costs of capital construction or capital improvements permitted by
+Article XI, sections 11 and 11b, of the Oregon Constitution, the court may
+order the public body to: 
+
+       (a) Replace the
+misspent proceeds with interest, on a reasonable schedule determined by the
+court, from moneys other than the tax revenues that the public body levies to
+pay the debt service; and 
+
+       (b) Use the
+replaced moneys, as appropriate, for capital costs, for the costs of capital
+construction or capital improvements or to pay the debt service. 
+
+       (2) If the public
+body fails to comply with an order to replace the misspent proceeds or
+acknowledges that the public body is unable to replace the misspent proceeds,
+the court may determine that a portion of the future levies to pay the debt
+service is subject to the limits of Article XI, sections 11 and 11b, of the
+Oregon Constitution, by calculating the amount of the tax revenues that are
+necessary to pay the principal and interest on the bonds that is allocable to
+the misspent proceeds. 
+
+       (3) An action may
+not be filed or maintained against a public body because of an alleged
+expenditure of the bond proceeds of general obligation bonds for purposes other
+than capital costs, capital construction or capital improvements, if the
+misspent moneys are less than $5,000. [2007 c.783 §66; 2013 c.491 §5] 
+
+   
+
+       Note: Section 1, chapter 684, Oregon
+Laws 2013, provides: 
+
+       Sec. 1. (1) A change in the use of
+facilities that were constructed, in whole or in part, with net proceeds of
+general obligation bonds of a county does not cause the expenditure of the net
+proceeds to be an improper expenditure of bond proceeds for which a court may
+issue an order described in ORS 287A.145 if: 
+
+       (a) The general
+obligation bonds were approved at an election conducted on May 21, 1996; and 
+
+       (b) The bond
+proceeds were spent for purposes allowed by the ballot measure authorizing the
+bonds and by Article XI, sections 11 and 11b, of the Oregon Constitution. 
+
+       (2) The change in
+the use of facilities described in subsection (1) of this section does not
+affect any authority the county may have to impose taxes outside the
+limitations imposed by Article XI, sections 11 and 11b, of the Oregon
+Constitution, for the original bonds or bonds issued to refund the original
+bonds. 
+
+       (3) The county
+shall use any revenue from the change in the use of facilities to reduce the
+taxes imposed to pay bond-related costs. [2013 c.684 §1] 
+
+   
+
+       287A.150
+Authority of public body to issue revenue bonds. (1) In addition to any other
+authority to issue revenue bonds, a public body may authorize revenue bonds by
+resolution or nonemergency ordinance pursuant to this section for a public
+purpose. 
+
+       (2) If revenue
+bonds are authorized by nonemergency ordinance, a public body may not sell the
+revenue bonds pursuant to this section until the period for referral of the
+ordinance has expired. If electors of a public body refer a nonemergency
+ordinance authorizing issuance of revenue bonds, the public body may not sell
+the revenue bonds unless the electors approve issuance of the revenue bonds. 
+
+       (3) If revenue
+bonds are authorized by resolution: 
+
+       (a) A public body
+may not sell the revenue bonds until at least 60 days following publication of
+the notice required in subsection (4) of this section. 
+
+       (b) The
+resolution must provide that electors residing within the public body may file
+a petition with the public body asking the public body to refer the question of
+whether to issue the revenue bonds to a vote. If within 60 days after the
+publication of the notice described in subsection (4) of this section, electors
+file petitions with the public body containing valid signatures of at least
+five percent of the public body’s electors, the public body: 
+
+       (A) Shall place
+the question of issuing the revenue bonds on the ballot at the next lawfully
+available election date; and 
+
+       (B) May not sell
+the revenue bonds described in the notice unless a majority of the electors
+voting on the question of issuing the revenue bonds approve. 
+
+       (4) A public body
+authorizing revenue bonds by resolution shall publish a notice describing the
+purposes for which the revenue bonds will be sold in at least one newspaper of
+general circulation within the boundaries of the public body in the same manner
+as other public notices of the public body. At a minimum, the notice must
+contain: 
+
+       (a) The date the
+resolution was adopted and the number thereof, if any; 
+
+       (b) The expected
+source of revenue for repayment of the revenue bonds; 
+
+       (c) The estimated
+principal amount of the revenue bonds to be sold; 
+
+       (d) The
+procedures by which electors may cause the question of issuing the revenue
+bonds to be referred to a vote; 
+
+       (e) The period
+within which electors must file signed petitions to cause referral; and 
+
+       (f) The fact that
+the resolution is available for inspection at the appropriate office of the
+public body. 
+
+       (5) If revenue
+bonds are authorized by nonemergency ordinance under subsection (2) of this
+section, the revenue bonds may be secured by the revenues or other property of
+the public body that is described in the nonemergency ordinance. If revenue
+bonds are authorized by resolution under subsection (3) of this section, the
+revenue bonds may be secured by the revenues or other property of the public
+body that is described in the notice required under subsection (4) of this
+section. 
+
+       (6) A public body
+may issue refunding bonds under ORS 287A.360 to 287A.380 to pay revenue bonds
+that were authorized by this section. The procedures and limitations of
+subsections (1) to (5) of this section do not apply to refunding bonds. [2007
+c.783 §46] 
+
+   
+
+       287A.180
+Short-term borrowing by public body. 
+(1) In addition to any other authority to issue revenue bonds, but subject to
+applicable limitations imposed by the Oregon Constitution or the charter or
+ordinance of the public body, a public body may issue revenue bonds pursuant to
+this section: 
+
+       (a) In
+anticipation of tax revenues or other moneys; 
+
+       (b) To provide
+interim financing for capital projects to be undertaken by the public body; or 
+
+       (c) To refund
+revenue bonds issued pursuant to this section. 
+
+       (2) To secure
+revenue bonds authorized under this section, a public body may: 
+
+       (a) Pledge all or
+part of the revenues of the public body that may lawfully be used to secure
+payment of the revenue bonds. 
+
+       (b) Obtain credit
+enhancement devices for the revenue bonds authorized by this section. 
+
+       (c) Establish
+debt service reserves. 
+
+       (d) Enter into
+covenants, by ordinance, resolution or agreement, for the protection and
+security of the owners of revenue bonds authorized by this section. The
+covenants constitute enforceable contracts with the owners of the revenue
+bonds. 
+
+       (3) Revenue bonds
+authorized by this section that are issued in anticipation of revenues and
+revenue bonds issued under subsection (1)(c) of this section: 
+
+       (a) Must mature
+within 13 months after they are issued; and 
+
+       (b) May not be
+issued in a principal amount that exceeds 80 percent of the taxes or other
+revenues, except grant moneys, that the public body has budgeted or otherwise
+reasonably expects to have available to pay the revenue bonds. 
+
+       (4) Revenue bonds
+authorized by this section that are issued in anticipation of grant moneys or
+to provide interim financing for capital projects and revenue bonds issued
+under subsection (1)(c) of this section must mature not later than five years
+after the revenue bonds are issued. 
+
+       (5) The debt
+limitations imposed by law or the charter of a public body do not apply to
+revenue bonds or credit enhancement devices authorized by this section. [2007
+c.783 §47] 
+
+   
+
+ (Debt Limits) 
+
+   
+
+       287A.195
+Compliance with constitutional or statutory debt limits. (1) When calculating compliance
+with a constitutional or statutory debt limit for a public body: 
+
+       (a) The amount of
+interest to be paid on bonds, whether paid currently or deferred, is not taken
+into account. 
+
+       (b) For a zero
+coupon bond or other original discount bond on which periodic interest payments
+are not made, only the accreted value of the bond on the date the bond is
+issued is taken into account. 
+
+       (c) If a bond is
+issued to a provider of a credit enhancement device for a bond that is subject
+to a debt limit, the bond issued to the provider must be taken into account
+only to the extent that the amount of the bond issued to the provider exceeds
+the amount of the bond secured by the credit enhancement device. 
+
+       (d) A public body
+may deduct from the amount of outstanding indebtedness: 
+
+       (A) The amount of
+money and investments that the public body or a trustee of the public body or a
+trustee or agent of the public body holds to pay bonds that have not been
+defeased. 
+
+       (B) The principal
+amount of bonds that have been defeased. 
+
+       (2) For purposes
+of this section, a bond is defeased if: 
+
+       (a) The public
+body has set aside in an irrevocable escrow government obligations, as defined
+in ORS 287A.375, the receipts from which have been calculated by a certified
+public accountant or other experienced professional to be sufficient, without
+reinvestment, to pay the principal, interest and premium, if any, due on the
+bond at maturity or on prior redemption; or 
+
+       (b) The public
+body has complied with the provisions in the documents authorizing the bond
+that govern payment or defeasance of the bond. [2007 c.783 §64] 
+
+   
+
+ ADMINISTRATION OF BONDS 
+
+   
+
+       287A.300 Terms
+and conditions of bond sales; delegation of authority. (1) Notwithstanding a local
+charter or statutory limitation, when a public body is authorized by law to
+issue bonds, the public body may: 
+
+       (a) Combine bonds
+authorized by different laws or actions of the governing body into a single
+issue and use a single disclosure document if the bonds in the issue will have
+the same security, or may use a single disclosure document for bonds authorized
+by different laws or actions of the governing body if the bonds have different
+security. 
+
+       (b) Structure,
+market and issue bonds in the manner that the public body determines is in the
+best interest of the people served by the public body. 
+
+       (c) Sell bonds at
+a competitive sale or a negotiated sale or in any other manner determined by
+the public body. 
+
+       (d) Issue bonds
+the interest on which is exempt from federal income taxes or is not exempt from
+federal income taxes. 
+
+       (e) Establish the
+maturity dates for bonds to provide for short-term, interim or long-term
+borrowing and establish the principal amounts, redemption provisions, optional
+or mandatory tender provisions, interest rates or method for determining a
+variable or adjustable interest rate, denominations and other terms and
+conditions of the bonds. 
+
+       (f) Determine the
+form and content of bond disclosure documents. 
+
+       (g) Enter into an
+agreement with and retain the services of bond counsel and other providers of
+bond-related services. 
+
+       (h) Execute and
+deliver indentures, bond purchase agreements, trust agreements, remarketing
+agreements, auction agent agreements, broker dealer agreements, tender agent
+agreements, escrow agreements and other contracts related to the sale,
+issuance, security for or administration of the bonds. 
+
+       (i) Enter into
+agreements with bond trustees and deposit moneys with trustees for the benefit
+of bond owners and the providers of credit enhancement devices for bonds. 
+
+       (j) Enter into
+covenants for the benefit of bond owners or the providers of credit enhancement
+devices or agreements for exchange of interest rates, including but not limited
+to covenants regarding the issuance of additional bonds and rate covenants. 
+
+       (k) Enter into
+covenants for the benefit of owners of bonds that are intended to allow bonds
+to bear interest that is excludable from gross income under the federal
+Internal Revenue Code or that is otherwise exempt from taxation by the United
+States. 
+
+       (L) Take action
+to comply with covenants. 
+
+       (m) Establish
+bond debt service reserves. 
+
+       (n) Fund debt
+service reserves out of bond proceeds or from other revenues. 
+
+       (o) Specify the
+individuals who may sign the bonds on behalf of the public body. 
+
+       (2) When the
+Oregon Constitution, a charter, a statute, an ordinance or a resolution
+authorizes a public body to spend bond proceeds for a particular purpose, the
+public body may also spend bond proceeds to finance costs of issuing,
+administering and repaying the bonds, including costs of the services of bond
+counsel or other providers of bond-related services, and to pay the costs of a
+credit enhancement device or agreement for exchange of interest rates. 
+
+       (3) When a public
+body redeems bonds, the public body shall give notice of redemption in the
+manner specified in the documents authorizing the bonds to be redeemed. 
+
+       (4) A public body
+may delegate to an elected or appointed official or an employee of the public
+body the authority to take an action described in subsection (1) of this
+section. 
+
+       (5) Except as
+provided otherwise in this subsection, at least one of the signatures of bond
+signatories must be provided in manual form. However, if the bonds are to be
+authenticated by at least one signature in manual form, all signatures of bond
+signatories may be in facsimile form. [2007 c.783 §§48,49; 2009 c.538 §7; 2011
+c.256 §2a] 
+
+   
+
+       287A.310
+Definitions for ORS 287A.310 and 287A.315; lien of a pledge; Uniform Commercial
+Code. (1) As used
+in this section and ORS 287A.315: 
+
+       (a) “Obligation”
+means: 
+
+       (A) A bond; 
+
+       (B) The
+commitment of a public body in connection with a credit enhancement device; or 
+
+       (C) An agreement
+for exchange of interest rates. 
+
+       (b) “Property”
+means: 
+
+       (A) Real or
+personal property, tangible or intangible, whether owned when a pledge is made
+or acquired subsequently to the time the pledge is made; and 
+
+       (B) Revenues,
+contract rights, receivables or securities. 
+
+       (2) The Uniform
+Commercial Code does not apply to the creation, perfection, priority or
+enforcement of a lien of a pledge made by a public body. 
+
+       (3) When
+otherwise authorized by statute, charter, ordinance or resolution to issue
+bonds, a public body may pledge as security for payment of obligations all or
+part of the property of the public body expressly authorized to be pledged by
+the governing body of the public body. 
+
+       (4) The lien
+created by a pledge is valid and binding from the time the pledge is made.
+Pledged property is subject immediately to the lien of the pledge without
+physical delivery, filing or any other act. 
+
+       (5) Except as
+otherwise expressly provided in an operative document, the lien of the pledge
+is superior to and has priority over all other claims and liens. 
+
+       (6) When property
+subject to a pledge is acquired by a public body after the pledge is made: 
+
+       (a) The property
+is subject to the lien upon acquisition by the public body without physical
+delivery, filing or any other act. 
+
+       (b) The lien
+relates to the time the pledge was originally made. 
+
+       (7) A public body
+may reserve a right to pledge a pledged property as security for bonds
+subsequently issued by the public body. If the public body reserves the right,
+subject to the terms of the operative document that created a previous pledge,
+the lien of the subsequent pledge may be on a parity or pari passu basis with
+the lien of the previous pledge, on a prior and superior basis with the lien of
+the previous pledge or on a subordinate basis with the lien of the previous
+pledge, as specified in the operative document creating the subsequent pledge.
+The lien of the subsequent pledge: 
+
+       (a) Has the
+priority specified in the operative document creating the subsequent pledge;
+and 
+
+       (b) Is superior
+to and has priority over all other claims and liens except the lien of a pledge
+with which the lien of the subsequent pledge is on a parity or subordinate
+basis, as specified in the operative document. 
+
+       (8) A pledgee may
+commence an action in a court of competent jurisdiction to foreclose the lien
+of the pledge and exercise rights and remedies available to the pledgee under
+the operative document. 
+
+       (9) When pledged
+property consists of moneys or property that is in a fund for debt service
+reserves or payments, a pledgee may foreclose the lien of the pledge by
+applying the moneys or property in the fund to the payment of the bonds subject
+to the terms, conditions and limitations in the operative document. [2007 c.783
+§50] 
+
+   
+
+       287A.315
+Pledge of full faith and credit and taxing power. (1) A public body may pledge its
+full faith and credit and taxing power when the public body issues: 
+
+       (a) A general
+obligation bond; or 
+
+       (b) An obligation
+that is secured by all lawfully available funds of the public body. 
+
+       (2) When a public
+body pledges its full faith and credit and taxing power to pay an obligation,
+the pledge constitutes an enforceable promise or contract by the public body: 
+
+       (a) To pay the
+obligation out of lawfully available funds of the public body; and 
+
+       (b) If lawfully
+available funds are insufficient to pay when due the amounts owing on the
+obligation, to levy, impose and collect a tax that is within the authority of
+the public body to levy, impose and collect in an amount sufficient to pay the
+amounts owing under the obligation, including past due amounts and penalties. 
+
+       (3) If a public
+body fails to pay when due an amount owing under an obligation secured by a
+pledge of the full faith and credit and taxing power of the public body, the
+owner of the obligation, or the trustee appointed to act on behalf of the
+owner, may bring an action in the circuit court of the county in which the
+principal offices of the public body are located to compel the public body: 
+
+       (a) To
+appropriate and expend sufficient lawfully available funds to pay the amounts
+owing on the obligation; or 
+
+       (b) If lawfully
+available funds are insufficient to pay when due the amounts owing on the
+obligation, to levy, impose and collect a tax that is within the authority of
+the public body to levy, impose and collect in an amount sufficient to pay the
+amounts owing under the obligation, including past due amounts and penalties. 
+
+       (4) An owner of
+the obligation, or a trustee appointed to act on behalf of the owner, may
+initiate a proceeding to impose remedial sanctions under ORS 33.055 against
+members of the governing body of a public body for failure to comply with an
+order of the court under this section. 
+
+       (5) A pledge of
+the full faith and credit and taxing power authorized by this section does not,
+by itself, create a lien on the revenues or property of the public body. [2007
+c.783 §50a] 
+
+   
+
+       287A.325
+Covenants of public bodies regarding pledges. (1) The Legislative Assembly finds that: 
+
+       (a) It is a
+matter of statewide concern that certain covenants made by public bodies
+regarding a pledge of revenues to secure bonds not be impaired by subsequent
+initiative or referendum measures. 
+
+       (b) The covenants
+described in paragraph (a) of this subsection usually are in the form of a
+promise to charge and collect rates, fees, tolls, rentals or other charges
+sufficient to produce moneys to maintain a specified level of debt service
+coverage. 
+
+       (c) The
+possibility that the covenants described in paragraph (a) of this subsection
+might be rolled back, frozen or otherwise subjected to subsequently imposed
+conditions or restrictions negatively affects the ability of public bodies to
+market their bonds, to obtain credit enhancement and to obtain satisfactory
+ratings on their bonds. 
+
+       (2) Therefore,
+the Legislative Assembly declares that covenants are material to the security
+for bonds and to investors’ expectations regarding timely payment of the bonds. 
+
+       (3) An
+elector-approved initiative or referendum measure that purports to change
+ordinances or resolutions affecting rates, fees, tolls, rentals or other
+charges has no force or effect if giving force and effect to the change would
+impair existing covenants made with existing bond owners. 
+
+       (4) A public body
+may enter into rate covenants that obligate the public body to periodically set
+rates and charges: 
+
+       (a) That generate
+pledged revenues at specific levels including, but not limited to, a specific
+monetary charge for each unit of commodity or service provided or a schedule of
+rates and charges that includes fixed and variable components; 
+
+       (b) At levels
+sufficient to maintain underlying credit ratings assigned to bonds by one or
+more nationally recognized credit rating services without regard to improvement
+in credit ratings due to the additional security provided for the bonds by a
+credit enhancement device; 
+
+       (c) That generate
+pledged revenues each year in amounts at least equal to operations and
+maintenance expenses of the system that produces the pledged revenues, plus
+debt service on revenue bonds and other borrowings, plus an additional amount
+that is reasonably required to obtain favorable terms for the revenue bonds and
+other borrowings; or 
+
+       (d) In accordance
+with a formula established in the operative document governing revenue bonds or
+other borrowings. The formula may provide for rates and charges to be
+determined by reference to factors including, but not limited to: 
+
+       (A) Historical
+operating expenses; 
+
+       (B) Projected
+future operating expenses; 
+
+       (C) The funding
+of depreciation; 
+
+       (D) The costs of
+capital improvements; 
+
+       (E) The costs of
+complying with contractual obligations and covenants; 
+
+       (F) The costs of
+complying with regulatory requirements; 
+
+       (G) Reports of
+independent consultants regarding the level of pledged revenues required to
+operate and maintain a utility in accordance with prudent utility practice; 
+
+       (H) Debt service
+on the revenue bonds or other borrowings bonds; and 
+
+       (I) The moneys
+needed to establish or maintain reserves required by law or contract and the
+moneys needed to maintain an unencumbered carryforward fund balance or working
+capital to meet unanticipated expenses or fluctuations in revenues that may
+arise. 
+
+       (5) Without
+regard to the date of execution of a rate covenant, a rate covenant authorized
+by this section is a contract that binds the public body and is enforceable
+against the public body in accordance with the terms of the rate covenant. [2007
+c.783 §51] 
+
+   
+
+       287A.335
+Agreements for exchange of interest rates; rules. (1) As used in this section, “counterparty”
+means an entity with whom a public body enters into an agreement for exchange
+of interest rates. 
+
+       (2) Upon a
+finding by a public body that an agreement for exchange of interest rates
+benefits the public body, the public body may enter into the agreement for
+exchange of interest rates with a counterparty. An agreement for exchange of
+interest rates may be made to manage payment, interest rate, spread or similar
+exposure undertaken in connection with related bonds that: 
+
+       (a) Exist when
+the agreement for exchange of interest rates is executed; 
+
+       (b) Are
+reasonably expected to be executed when regularly scheduled payments are due
+from the issuer under the agreement; or 
+
+       (c) Are
+identified after the agreement for exchange of interest rates is executed and
+substituted for related bonds described in paragraph (a) or (b) of this
+subsection as a result of prepayment, refunding, conversion, ratings changes,
+redemption, defeasance or other similar event. 
+
+       (3) Upon entering
+into an agreement for exchange of interest rates under this section and
+continuing until the agreement is satisfied, terminated or otherwise no longer
+in effect, provided a payment default has not occurred, the public body may
+treat the amount or rate of interest on the related bond as the amount or rate
+of interest payable after giving effect to the agreement for exchange of
+interest rates for the purpose of calculating: 
+
+       (a) Tax levies to
+pay regularly scheduled bond debt service; and 
+
+       (b) Other amounts
+that are based on the rate of interest of the bond. 
+
+       (4) Subject to
+covenants applicable to a related bond and the limitations of this section,
+payments required under an agreement for exchange of interest rates may: 
+
+       (a) Be treated as
+interest payments on the related bond; 
+
+       (b) Be made from
+revenues or other moneys contributed to or legally available to pay the related
+bond; and 
+
+       (c) Rank in an
+order of priority of payment relative to the payment of the related bond as the
+public body determines. 
+
+       (5) In connection
+with entering into an agreement for exchange of interest rates, a public body
+may obtain a credit enhancement device to secure the agreement for exchange of
+interest rates. 
+
+       (6) An agreement
+for exchange of interest rates entered into under this section: 
+
+       (a) Is not a debt
+or other obligation of the issuer for purposes of any limitation upon the
+indebtedness of the issuer. 
+
+       (b) Is subject
+only to the limitations of this section and is not subject to other limitations
+applicable to the related borrowing. 
+
+       (7) A termination
+payment required to be paid by the public body under an agreement for exchange
+of interest rates: 
+
+       (a) May be paid
+from moneys derived from the issuance and sale of revenue bonds. 
+
+       (b) May not be
+paid from ad valorem property taxes levied outside the limitations of section
+11 or 11b, Article XI of the Oregon Constitution. 
+
+       (8) The Oregon
+Municipal Debt Advisory Commission shall adopt administrative rules
+establishing required terms, conditions, annual or periodic reporting
+requirements and other requirements for an agreement for exchange of interest
+rates entered into by a public body, if the commission determines those
+requirements are desirable to protect the interests of the public body. 
+
+       (9) A public body
+may create reserves to pay amounts due under agreements for exchange of
+interest rates and fund the reserves with moneys derived from the issuance and
+sale of bonds or from revenues or other moneys described in subsection (4)(b)
+of this section. [2007 c.783 §53; 2009 c.538 §8] 
+
+   
+
+       287A.339
+Termination payment of conduit borrower. When a public body is authorized by law to issue
+bonds, the public body may lend moneys derived from an issuance and sale of
+bonds to a conduit borrower of proceeds from outstanding, previously issued
+conduit revenue bonds for the purpose of paying a termination payment required
+to be paid by the borrower under an agreement for exchange of interest rates
+entered into by the borrower in relation to the outstanding conduit revenue
+bonds. [2009 c.538 §6] 
+
+   
+
+       Note: 287A.339 was added to and made a
+part of ORS chapter 287A by legislative action but was not added to any smaller
+series therein. See Preface to Oregon Revised Statutes for further explanation. 
+
+   
+
+       287A.340
+Credit enhancement devices. 
+(1) A public body may obtain a credit enhancement device and enter into related
+agreements. 
+
+       (2) The public
+body may pay the provider of the credit enhancement device from the same
+sources that the public body may lawfully use to pay the related bonds or from
+any other legally available source. 
+
+       (3) The public
+body may issue a bond to the provider of a credit enhancement device to secure
+the obligations of the public body or to pay amounts due to the provider. [2007
+c.783 §52] 
+
+   
+
+       287A.343
+Public body purchase of own bonds. 
+(1) Notwithstanding any limitation in a local charter, a public body may bid
+for, purchase, hold, cause to be held in trust and remarket bonds issued by the
+public body. 
+
+       (2) Except as
+otherwise provided in the operative documents, the purchase or acquisition of
+bonds under this section does not cancel or extinguish the bonds unless the
+public body elects in writing to cancel or extinguish the bonds. [2009 c.537 §4] 
+
+   
+
+       Note: 287A.343 was added to and made a
+part of ORS chapter 287A by legislative action but was not added to any smaller
+series therein. See Preface to Oregon Revised Statutes for further explanation. 
+
+   
+
+       287A.345 State
+taxation of bond interest. 
+Interest on bonds of a public body is exempt from personal income tax under ORS
+chapter 316. [2007 c.783 §65] 
+
+   
+
+       287A.350
+Public records. 
+The records of registered bond ownership, whether maintained by a public body
+or otherwise, are not public records within the meaning of ORS 192.311. [2007
+c.783 §69; 2017 c.456 §10] 
+
+   
+
+ REFUNDING BONDS 
+
+   
+
+       287A.360
+Current refunding bonds. 
+(1) In addition to any other authority to issue refunding bonds, a public body
+may issue current refunding bonds to refund or purchase its outstanding bonds. 
+
+       (2) A public body
+may secure current refunding bonds with any of the revenues and covenants that
+the public body could have used to secure the refunded or purchased bonds under
+the law in effect when the refunded or purchased bonds were issued and with revenues
+and covenants that the public body could have used to secure the refunded or
+purchased bonds if the laws that are in effect when the current refunding bonds
+are issued were in effect when the refunded or purchased bonds were issued. 
+
+       (3) A public body
+may authorize current refunding bonds by resolution or ordinance without
+complying with the procedural requirements that applied to the refunded or
+purchased bonds, including issuing: 
+
+       (a) General
+obligation bonds to refund or purchase outstanding general obligation bonds
+without obtaining approval of the electors of the public body. 
+
+       (b) Revenue bonds
+to refund or purchase revenue bonds that were issued in accordance with ORS
+287A.150 without complying with the procedures prescribed in ORS 287A.150. 
+
+       (4) The
+maturities of current refunding bonds authorized by this section may not exceed
+by more than six months: 
+
+       (a) Maturity
+limits that were established by the electors for the refunded or purchased
+bonds; and 
+
+       (b) A maturity
+limit imposed by a provision of a constitution, charter or statute that applied
+to the refunded or purchased bonds, if the provision imposing the limit is in
+effect when the current refunding bonds are issued. [2007 c.783 §54; 2009 c.538
+§9; 2011 c.256 §1] 
+
+   
+
+       287A.365
+Advance refunding bonds and forward current refunding. (1) The Legislative Assembly
+declares that the issuance of advance refunding bonds and the authority to
+effect a forward current refunding are matters of general statewide concern,
+and ORS 287A.360 to 287A.380 preempt all local statutory or charter authority
+to issue advance refunding bonds or to effect a forward current refunding. 
+
+       (2) A public body
+may issue advance refunding bonds or enter into forward current refundings in
+compliance with: 
+
+       (a) ORS 287A.360
+to 287A.380; and 
+
+       (b) Rules adopted
+by the State Treasurer. 
+
+       (3) A public body
+may secure advance refunding bonds and forward current refunding bonds with any
+of the revenues and covenants that the public body could have used to secure
+the refunded bonds under the law in effect when the refunded bonds were issued and
+with revenues and covenants that the public body could have used to secure the
+refunded bonds if the laws that are in effect when the refunding bonds are
+issued were in effect when the refunded bonds were issued. 
+
+       (4) The
+maturities of advance refunding bonds and forward current refunding bonds
+authorized by this section may not exceed by more than six months: 
+
+       (a) Maturity
+limits that were established by the electors for the refunded bonds; and 
+
+       (b) A maturity
+limit imposed by a provision of a constitution, charter or statute that applied
+to the refunded bonds, if the provision imposing the limit is in effect when
+the refunding bonds are issued. [2007 c.783 §55; 2011 c.256 §2] 
+
+   
+
+       287A.370
+Proposed refunding plan for advance refunding bonds or forward current
+refunding; rules; fees. 
+(1) The State Treasurer shall review the plan of a public body to issue advance
+refunding bonds or to enter into a forward current refunding to determine
+whether the plan complies with applicable rules of the State Treasurer, as
+provided in this section. 
+
+       (2) After
+adoption of an ordinance or resolution approving a plan to issue advance
+refunding bonds or to enter into a forward current refunding, a public body
+shall submit the refunding plan to the State Treasurer for review and approval. 
+
+       (3) After review
+of a proposed refunding plan, the State Treasurer shall advise the public body,
+in writing, whether the plan is approved. If the State Treasurer does not
+notify the public body within 30 business days after receipt of the plan, the
+plan is deemed approved. A public body may issue advance refunding bonds or
+enter into a forward current refunding in accordance with a refunding plan
+approved by the State Treasurer. 
+
+       (4) The State
+Treasurer may adopt rules to regulate forward current refunding and the
+issuance of advance refunding bonds. 
+
+       (5) The State
+Treasurer may charge public bodies fees and expenses as provided in ORS
+286A.014 in connection with the activities of this section. [2007 c.783 §56] 
+
+   
+
+       287A.375
+Maximum amount of advance refunding bonds. (1) As used in this section, “government obligations”
+means: 
+
+       (a) Direct
+obligations of the United States of America or obligations the principal of and
+interest on which are unconditionally guaranteed by the United States of
+America and bank certificates of deposit secured by the obligations; 
+
+       (b) Bonds,
+debentures, notes, certificates of participation or other obligations issued by
+a federal agency or other instrumentality of the federal government; or 
+
+       (c) Other debt
+obligations determined by administrative rule of the State Treasurer to be
+highly secured and widely accepted in the marketplace as obligations for a
+defeasance escrow. 
+
+       (2) A public body
+may not issue advance refunding bonds in a principal amount in excess of the
+minimum principal amount that is estimated at the time of sale to be necessary: 
+
+       (a) To purchase a
+principal amount of government obligations that is, together with the interest
+earnings thereon, sufficient to pay the installments of principal, interest and
+redemption premiums, if any, on the bonds being refunded when due in accordance
+with the advance refunding plan; and 
+
+       (b) To pay all
+costs in connection with issuing the advance refunding bonds and obtaining
+credit enhancement devices. 
+
+       (3) If the public
+body that issues advance refunding bonds receives an amount of proceeds that
+exceeds the actual amount required under subsection (2) of this section, the
+public body must use the excess amount of proceeds to pay interest on the
+advance refunding bonds. 
+
+       (4) Before
+applying advance refunding bond proceeds to the purposes for which the
+refunding bonds have been issued, a public body may invest advance refunding
+bond proceeds, together with other moneys set aside for the payment of the
+bonds to be refunded, only in government obligations. 
+
+       (5) The public
+body shall make investments pursuant to subsection (4) of this section at times
+and in a manner required to provide funds sufficient to pay principal, interest
+and redemption premiums, if any, in accordance with the advance refunding plan.
+[2007 c.783 §57] 
+
+   
+
+       287A.380 Tax
+levy to pay maturing general obligation advance refunding bonds. (1) Pursuant to ORS 287A.140, a
+public body shall levy taxes to pay the maturing interest and principal of
+advance refunding bonds that are general obligation bonds. 
+
+       (2)
+Notwithstanding ORS 287A.140 or any other provision of law, a public body may
+not cause a tax to be levied to pay the maturing interest and principal of
+general obligation bonds that have been defeased as described in ORS 287A.195
+(2), unless the amounts held to defease the bonds are insufficient. [2007 c.783
+§59] 
+
+   
+
+ WARRANTS AND CHECKS;
+INTEREST; UNCLAIMED WARRANTS AND CHECKS; MASTER WARRANTS 
+
+   
+
+       287A.472
+Interest on municipal warrants not paid on presentation. All warrants for payment of money
+issued by cities and other municipalities that are not paid upon presentation
+and so indorsed shall draw interest at the legal rate after such indorsements
+but municipalities may by proper resolution fix the rate at less than the legal
+rate and may make such interest payable semiannually. [Formerly 287.452] 
+
+   
+
+       287A.474
+Warrants and checks more than two years old; report by fiscal officer; claim by
+owner. (1) The
+county fiscal officer shall prepare a report of all warrants and checks issued
+more than two years prior to July 1 of that year that have not been paid,
+pursuant to ORS 98.352. 
+
+       (2) The lawful
+owner of any warrant or check included in any list referred to in subsection
+(1) of this section, not presented to the county treasurer for payment and not
+paid, thereafter may file a claim with the State Treasurer in the manner
+provided by ORS 98.392 and 98.396. [Formerly 287.454; 2019 c.678 §60] 
+
+   
+
+       287A.482
+Definitions for ORS 287A.482 to 287A.488. As used in ORS 287A.482 to 287A.488: 
+
+       (1) “County
+fiscal officer” means: 
+
+       (a) The county
+accountant in counties where such office is established by law. 
+
+       (b) The county
+clerk in counties not having a county accountant. 
+
+       (2) “Master
+warrant” means a warrant or order issued and drawn pursuant to ORS 287A.486. [Formerly
+287.482] 
+
+   
+
+       287A.484
+Master warrant procedure authorized if warrants would be not paid. Whenever the county fiscal officer
+audits and approves a claim and issues a warrant therefor and at the same time
+or subsequently ascertains that the county treasurer has not sufficient moneys
+in the particular fund of the county from which the claim so approved and
+allowed is payable and that the warrant as issued against that fund for the
+payment of the claim would be indorsed “Not Paid for Want of Funds,” the county
+fiscal officer may, with approval by resolution of the county court or the
+board of county commissioners, issue a master warrant to any person for the
+purpose of obtaining money to pay such claim. The money shall be obtained only
+in the manner provided in ORS 287A.486. [Formerly 287.484] 
+
+   
+
+       287A.486
+Procedure. (1) The
+county fiscal officer shall draw a master warrant in the amount of one or more
+claims referred to in ORS 287A.484, payable to any person who is willing to
+accept the master warrant, and such person shall, upon delivery of the master
+warrant duly indorsed “Not Paid for Want of Funds,” pay to the county treasurer
+the full amount for which the master warrant is drawn. 
+
+       (2) The amount
+paid under subsection (1) of this section shall constitute a special fund to be
+used toward the payment of warrants issued under ORS 287A.484 by the county
+fiscal officer in payment of claims audited and approved and included in the
+amount of any master warrant issued to the person advancing such moneys. [Formerly
+287.486] 
+
+   
+
+       287A.488 Taxes
+must be levied for payment of claims included in master warrant. No master warrant shall be issued
+under ORS 287A.482 to 287A.488 unless taxes have been levied for the payment of
+all claims included in the master warrant and such taxes are in the process of
+being collected at the time of the issuance of the master warrant. [Formerly
+287.488] 
+
+   
+
+ OREGON MUNICIPAL DEBT
+ADVISORY COMMISSION 
+
+   
+
+       287A.630
+Oregon Municipal Debt Advisory Commission; creation; term; compensation. (1) The Oregon Municipal Debt
+Advisory Commission is hereby created, consisting of the following seven
+members: 
+
+       (a) The State
+Treasurer or the State Treasurer’s designee. 
+
+       (b) Three public
+body finance officers appointed by the Governor: 
+
+       (A) One of whom
+is an individual recommended by the Association of Oregon Counties. 
+
+       (B) One of whom
+is an individual recommended by the League of Oregon Cities. 
+
+       (C) One of whom
+is an individual recommended by the Oregon School Boards Association. 
+
+       (c) One
+representative of special districts appointed by the Governor. 
+
+       (d) Two public
+members not represented in the other categories of appointment, appointed by
+the Governor. 
+
+       (2) The term of
+office of an appointed member is four years, but appointed members serve at the
+pleasure of the Governor. A member is eligible for reappointment for no more
+than one additional term. 
+
+       (3) Before the
+expiration of the term of an appointed member, the Governor shall appoint a
+successor to assume the duties of the member on July 1 next following. In case
+of a vacancy for any cause, the Governor shall make an appointment to become
+effective immediately for the unexpired term. 
+
+       (4) The Governor
+shall designate one of the appointed members to serve a one-year term as
+chairperson, subject to reappointment. 
+
+       (5) Appointed
+members of the commission are entitled to compensation and expenses as provided
+in ORS 292.495. [Formerly 287.030] 
+
+   
+
+       287A.632
+Meetings; quorum; personnel. 
+(1) The Oregon Municipal Debt Advisory Commission shall meet: 
+
+       (a) At the call
+of the chairperson; or 
+
+       (b) At the
+request of: 
+
+       (A) A majority of
+the members; 
+
+       (B) The State
+Treasurer; or 
+
+       (C) The Governor. 
+
+       (2) A majority of
+all members of the advisory commission constitutes a quorum for the transaction
+of business. 
+
+       (3) The office of
+the State Treasurer shall provide the commission with administrative and
+clerical assistance required by the commission. [Formerly 287.032] 
+
+   
+
+       287A.634
+Powers and duties of commission; rules; fees. (1) The Oregon Municipal Debt Advisory Commission
+may: 
+
+       (a) Provide
+assistance and consultation, upon request of the state or a public body, to
+assist them in the planning, preparation, marketing and sale of new bond issues
+to reduce the cost of the issuance to the issuer and to assist in protecting
+the issuer’s credit. 
+
+       (b) Collect,
+maintain and provide financial, economic and social data on public bodies
+pertinent to their ability to issue and pay bonds. 
+
+       (c) Collect,
+maintain and provide information on bonds sold and outstanding and serve as a
+clearinghouse for all local bond issues. 
+
+       (d) Maintain
+contact with municipal bond underwriters, credit rating agencies, investors and
+others to improve the market for public body bond issues. 
+
+       (e) Undertake or
+commission studies on methods to reduce the costs of state and local bond
+issues. 
+
+       (f) Recommend
+changes in state law and local practices to improve the sale and servicing of
+local bonds. 
+
+       (g) Perform any
+other function required or authorized by law. 
+
+       (h) Pursuant to
+ORS chapter 183, adopt rules necessary to carry out its duties. 
+
+       (2) The
+commission shall publish: 
+
+       (a) A periodic
+newsletter describing proposed bond issues, bond sales, refundings, credit
+rating changes and other information relating to municipal bonds that is
+pertinent to issuers, underwriters, investors and the public. 
+
+       (b) An annual
+report describing and evaluating the operations of the commission during the
+preceding year. 
+
+       (3) The
+commission may charge reasonable fees for providing services under subsection
+(1) of this section. 
+
+       (4) The
+commission shall transfer the amounts received under this section to the State
+Treasurer for deposit in the Miscellaneous Receipts Account in the General Fund
+for the State Treasurer described in ORS 286A.016. The moneys deposited in the
+account pursuant to this section are continuously appropriated to the State
+Treasurer for payment of expenses of the State Treasurer in providing services
+to the commission pursuant to ORS 287A.632. [Formerly 287.034] 
+
+   
+
+       287A.640
+Notice to commission of proposed issues; duty of public bodies to assist;
+rules. (1) The
+Oregon Municipal Debt Advisory Commission may, by rule, require a public body
+to provide the commission with prior notice of proposed issuance of new bonds
+in a form and at times specified by the commission. 
+
+       (2) To assist the
+commission in carrying out its duties, a public body shall verify, at the
+request of the commission, the information maintained by the commission or the
+State Treasurer on the public body’s outstanding bonds. [Formerly 287.040] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,3494 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+ Chapter
+654 — Occupational Safety and Health 
+
+   
+
+ New sections of law
+were enacted by the Legislative Assembly during its 2026 regular session and
+pertain to or are likely to be compiled in this ORS chapter. See sections in
+the following 2026 Oregon Laws chapters: 2026
+Session Laws 0043 
+
+   
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ OCCUPATIONAL SAFETY AND HEALTH 
+
+   
+
+ LABOR, EMPLOYMENT; UNLAWFUL
+DISCRIMINATION 
+
+   
+
+ SAFETY AND HEALTH CONDITIONS IN
+PLACES OF EMPLOYMENT 
+
+   
+
+ 654.001     Short title 
+
+   
+
+ 654.003     Purpose 
+
+   
+
+ 654.005     Definitions 
+
+   
+
+ 654.010     Employers to furnish
+safe place of employment 
+
+   
+
+ 654.015     Unsafe or unhealthy
+place of employment prohibited 
+
+   
+
+ 654.020     Interference with
+safety devices or methods prohibited; civil penalty 
+
+   
+
+ 654.022     Duty to comply with
+safety and health orders, decisions and rules 
+
+   
+
+ 654.025     Jurisdiction and
+supervision of Workers’ Compensation Board, director and other state agencies
+over employment and places of employment; rules 
+
+   
+
+ 654.031     Citation and order to
+correct unsafe or unhealthy conditions 
+
+   
+
+ 654.035     Scope of rules and
+orders 
+
+   
+
+ 654.056     Variance from safety or
+health standards; effect of variance on citations 
+
+   
+
+ 654.062     Notice of violation to
+employer by worker; complaint by worker to director; inspection; employee
+protections; rebuttable presumption; rules 
+
+   
+
+ 654.067     Inspection of places of
+employment; comprehensive inspections; denial of access; warrants; safety and
+health consultation with employees 
+
+   
+
+ 654.071     Citation for safety or
+health standard violations; effect of failure to correct violation; posting of
+citations and notices by employer 
+
+   
+
+ 654.078     Contesting violations;
+hearing; admissibility in criminal or civil proceedings of stipulations
+involving violations 
+
+   
+
+ 654.082     Prohibiting use of
+equipment involved in violation; red warning notice 
+
+   
+
+ 654.086     Civil penalty for
+violations; classification of violations; penalty adjustments; payment and
+disposition of penalty moneys; reporting 
+
+   
+
+ 654.090     Occupational safety and
+health activities; voluntary compliance; rules; consultative services 
+
+   
+
+ 654.097     Consultative services
+required; program standards; rules 
+
+   
+
+ 654.101     Voluntary safety and
+health consultation; refusal to disclose report 
+
+   
+
+ 654.120     Records of proceedings;
+confidentiality of certain information; federal reporting requirements; rules 
+
+   
+
+ 654.130     Proceedings against
+unwilling witnesses 
+
+   
+
+ 654.150     Sanitary facilities at
+construction projects; standards; exemptions 
+
+   
+
+ 654.160     Applicability of ORS
+654.150 to be included in construction contracts; liability for cost of
+compliance 
+
+   
+
+ 654.165     Employees not required
+to work bare-handed or rubber-gloved on high voltage lines 
+
+   
+
+ 654.170     Stairway railings and
+guards not required for certain public and historic buildings 
+
+   
+
+ 654.172     Exemption from
+inspection or investigation for certain agricultural activities 
+
+   
+
+ 654.174     Sanitation facilities
+for workers harvesting food crops; employer to post notice; rules 
+
+   
+
+ WORKPLACE SAFETY COMMITTEES 
+
+   
+
+ 654.176     Safety committee or
+safety meeting required 
+
+   
+
+ 654.182     Rules for ORS 654.176;
+contents 
+
+   
+
+ 654.189     Safe Employment
+Education and Training Advisory Committee; members; terms; expenses; duties;
+meetings 
+
+   
+
+ 654.191     Occupational Safety and
+Health Grant program; rules 
+
+   
+
+ 654.192     Labor organization not
+liable for injury resulting from absence of safety or health provision 
+
+   
+
+ HAZARD COMMUNICATION AND HAZARDOUS
+SUBSTANCES 
+
+   
+
+ 654.196     Rules on contents of
+piping systems; posting notice on right to be informed of hazardous substances;
+withholding of information under certain circumstances 
+
+   
+
+ INJURED WORKERS’ MEMORIAL
+SCHOLARSHIP 
+
+   
+
+ 654.200     Scholarship account;
+use; standards for eligibility 
+
+   
+
+ HEALTH AND SANITATION INSPECTIONS 
+
+   
+
+ 654.202     Issuance of warrants
+for safety and health inspections 
+
+   
+
+ 654.206     Grounds for issuance of
+inspection warrants; requirements of affidavit 
+
+   
+
+ 654.212     Procedure for issuance
+of inspection warrant by magistrate 
+
+   
+
+ 654.216     Execution of inspection
+warrants 
+
+   
+
+ 654.251     Assistance to director
+from other state agencies; inspection of farm labor camps and facilities 
+
+   
+
+ 654.285     Admissibility of rules
+and orders of department in evidence in proceedings under ORS 654.001 to
+654.295, 654.412 to 654.423 and 654.750 to 654.780 
+
+   
+
+ 654.290     Applicability of
+Administrative Procedures Act; Administrative Law Judge qualifications 
+
+   
+
+ 654.293     Representation of
+employer by attorney permitted 
+
+   
+
+ 654.295     Application of Oregon
+Safe Employment Act 
+
+   
+
+ EMPLOYER LIABILITY LAW 
+
+   
+
+ 654.305     Protection and safety
+of persons in hazardous employment generally 
+
+   
+
+ 654.310     Places of employment;
+compliance with applicable orders, rules 
+
+   
+
+ 654.315     Persons in charge of
+work to see that ORS 654.305 to 654.336 are complied with 
+
+   
+
+ 654.320     Who considered agent of
+owner 
+
+   
+
+ 654.325     Who may prosecute
+damage action for death; damages unlimited 
+
+   
+
+ 654.330     Fellow servant
+negligence as defense 
+
+   
+
+ 654.336     Comparative negligence 
+
+   
+
+ UTILITY VEHICLES 
+
+   
+
+ 654.345     Safety standards for
+utility vehicle rentals 
+
+   
+
+ SAFETY AND HEALTH PROFESSIONALS 
+
+   
+
+ 654.400     Use of title of
+industrial hygienist, occupational health and safety technologist, construction
+health and safety technician or safety professional; cause of action 
+
+   
+
+ 654.402     Activities permitted
+under other designation, certification or license 
+
+   
+
+ SAFETY OF HEALTH CARE EMPLOYEES 
+
+   
+
+ 654.412     Definitions for ORS
+654.412 to 654.423 
+
+   
+
+ 654.413     Required policies
+regarding surgical smoke 
+
+   
+
+ 654.414     Duties of health care
+employer; security and safety assessment; workplace violence prevention and
+protection program; requirements 
+
+   
+
+ 654.416     Required records of
+assaults against employees; contents; summary report; rules 
+
+   
+
+ 654.417     Duty of Department of
+Consumer and Business Services to submit consolidated report of assault records
+and incidents of workplace violence occurring on premises of health care
+provider; requirements 
+
+   
+
+ 654.418     Protection of employee
+of health care employer after assault by patient 
+
+   
+
+ 654.421     Refusal to treat
+certain patients by home health care employee 
+
+   
+
+ 654.423     Use of physical force
+by health care employee in self-defense against assault 
+
+   
+
+ REPORTS OF ACCIDENTS TO PUBLIC
+UTILITY COMMISSION 
+
+   
+
+ 654.715     Report of accidents to
+Public Utility Commission; investigation; supplemental reports; rules 
+
+   
+
+ 654.720     Public inspection or
+use of reports as evidence prohibited 
+
+   
+
+ HAZARDOUS CHEMICALS USED IN
+AGRICULTURE 
+
+   
+
+ 654.750     Definitions for ORS
+654.750 to 654.780 
+
+   
+
+ 654.760     Rules on hazardous
+chemicals, safety equipment and training 
+
+   
+
+ 654.770     Basic information
+available to agricultural employers for employees; content; language 
+
+   
+
+ 654.780     Providing basic
+information to employees 
+
+   
+
+ PENALTIES 
+
+   
+
+ 654.991     Penalties 
+
+   
+
+ SAFETY AND HEALTH CONDITIONS IN
+PLACES OF EMPLOYMENT 
+
+   
+
+       654.001 Short
+title. ORS 654.001
+to 654.295, 654.412 to 654.423, 654.750 to 654.780 and 654.991 may be cited as
+the Oregon Safe Employment Act. [1973 c.833 §2] 
+
+   
+
+       654.003
+Purpose. The
+purpose of the Oregon Safe Employment Act is to ensure as far as possible safe
+and healthful working conditions for every working person in Oregon, to
+preserve our human resources and to reduce the substantial burden, in terms of
+lost production, wage loss, medical expenses, disability compensation payments
+and human suffering, that is created by occupational injury and disease. To
+accomplish this purpose the Legislative Assembly intends to provide a procedure
+that will: 
+
+       (1) Encourage
+employers and employees to reduce the number of occupational safety and health
+hazards and to institute new programs and improve existing programs for
+providing safe and healthful working conditions. 
+
+       (2) Establish a
+coordinated program of worker and employer education, health and safety
+consultative services, demonstration projects and research to assist workers
+and their employers in preventing occupational injury and disease, whatever the
+cause. 
+
+       (3) Authorize the
+Director of the Department of Consumer and Business Services and the designees
+of the director to set reasonable, mandatory, occupational safety and health
+standards for all employments and places of employment. 
+
+       (4) Provide an
+effective program, under the director, to enforce all laws, regulations, rules
+and standards adopted for the protection of the life, safety and health of
+employees, and in so doing, predominantly prioritize inspections of places of
+employment to first focus enforcement activities upon places of employment that
+the director reasonably believes to be the most unsafe. 
+
+       (5) Establish
+appropriate reporting and research procedures that will help achieve the
+objectives of the Oregon Safe Employment Act, identify occupational hazards and
+unsafe and unhealthy working conditions, and describe the nature of the
+occupational safety and health problem. 
+
+       (6) Assure that
+Oregon assumes fullest responsibility, in accord with the federal Occupational
+Safety and Health Act of 1970 (29 U.S.C. 651 et seq.), for the development,
+administration and enforcement of safety and health laws and standards. [1973
+c.833 §3; 1987 c.884 §55; 1999 c.1017 §1; 2017 c.238 §1] 
+
+   
+
+       654.005
+Definitions. As
+used in this chapter, unless the context requires otherwise: 
+
+       (1) “Board” means
+the Workers’ Compensation Board created by ORS 656.712. 
+
+       (2) “Department”
+means the Department of Consumer and Business Services. 
+
+       (3) “Director”
+means the Director of the Department of Consumer and Business Services. 
+
+       (4) “Employee”
+includes: 
+
+       (a) Any
+individual, including a minor whether lawfully or unlawfully employed, who
+engages to furnish services for a remuneration, financial or otherwise, subject
+to the direction and control of an employer. 
+
+       (b) Salaried,
+elected and appointed officials of the state, state agencies, counties, cities,
+school districts and other public corporations. 
+
+       (c) Any
+individual who is provided with workers’ compensation coverage as a subject
+worker pursuant to ORS chapter 656, whether by operation of law or by election. 
+
+       (5) “Employer”
+includes: 
+
+       (a) Any person
+who has one or more employees. 
+
+       (b) Any sole
+proprietor or member of a partnership who elects workers’ compensation coverage
+as a subject worker pursuant to ORS 656.128. 
+
+       (c) Any successor
+or assignee of an employer. As used in this paragraph, “successor” means a
+business or enterprise that is substantially the same entity as the predecessor
+employer according to criteria adopted by the department by rule. 
+
+       (6) “Owner” means
+every person having ownership, control or custody of any place of employment or
+of the construction, repair or maintenance of any place of employment. 
+
+       (7) “Person”
+means one or more individuals, legal representatives, partnerships, joint
+ventures, associations, corporations (whether or not organized for profit),
+business trusts, any organized group of persons, the state, state agencies,
+counties, municipal corporations, school districts and other public
+corporations or subdivisions. 
+
+       (8)(a) “Place of
+employment” includes: 
+
+       (A) Every place,
+whether fixed or movable or moving, whether indoors or out or underground, and
+the premises and structures appurtenant thereto, where either temporarily or
+permanently an employee works or is intended to work; and 
+
+       (B) Every place
+where there is carried on any process, operation or activity related, either
+directly or indirectly, to an employer’s industry, trade, business or
+occupation, including a labor camp, wherever located, provided by an employer
+for employees or by another person engaged in providing living quarters or
+shelters for employees. 
+
+       (b) “Place of
+employment” does not include: 
+
+       (A) Any place
+where the only employment involves nonsubject workers employed in or about a
+private home; and 
+
+       (B) Any corporate
+farm where the only employment involves the farm’s family members, including
+parents, spouses, sisters, brothers, daughters, sons, daughters-in-law,
+sons-in-law, nieces, nephews or grandchildren. [Amended by 1973 c.833 §4; 1975
+c.102 §2; 1977 c.804 §34; 1987 c.373 §30; 1993 c.744 §17; 1999 c.433 §1; 2007
+c.612 §1] 
+
+   
+
+       654.010
+Employers to furnish safe place of employment. Every employer shall furnish
+employment and a place of employment which are safe and healthful for employees
+therein, and shall furnish and use such devices and safeguards, and shall adopt
+and use such practices, means, methods, operations and processes as are
+reasonably necessary to render such employment and place of employment safe and
+healthful, and shall do every other thing reasonably necessary to protect the
+life, safety and health of such employees. [Amended by 1973 c.833 §5] 
+
+   
+
+       654.015 Unsafe
+or unhealthy place of employment prohibited. No employer or owner shall construct or cause to be
+constructed or maintained any place of employment that is unsafe or detrimental
+to health. [Amended by 1973 c.833 §6] 
+
+   
+
+       654.020
+Interference with safety devices or methods prohibited; civil penalty. (1) No person shall remove,
+displace, damage, destroy or carry off any safety device or safeguard furnished
+and provided for use in any employment or place of employment, or interfere in
+any way with the use thereof by any other person, or interfere with the use of
+any method or process adopted for the protection of any employee in such
+employment or place of employment. 
+
+       (2) If an
+employee is injured as a result of an employer’s violation of the provisions of
+subsection (1) of this section, the employer shall be assessed a civil penalty
+under ORS 654.086 (1)(c). 
+
+       (3) If removal or
+the rendering inoperative of a safety device or safeguard is necessary for
+repair or maintenance work, injuries sustained while the repair or maintenance
+work is being performed are exempted from this section. [Amended by 1973 c.833 §7;
+1977 c.869 §1] 
+
+   
+
+       654.022 Duty
+to comply with safety and health orders, decisions and rules. Every employer, owner, employee
+and other person shall obey and comply with every requirement of every order,
+decision, direction, standard, rule or regulation made or prescribed by the
+Department of Consumer and Business Services in connection with the matters
+specified in ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780,
+or in any way relating to or affecting safety and health in employments or
+places of employment, or to protect the life, safety and health of employees in
+such employments or places of employment, and shall do everything necessary or
+proper in order to secure compliance with and observance of every such order,
+decision, direction, standard, rule or regulation. [Formerly 654.060; 1977
+c.804 §35] 
+
+   
+
+       654.025
+Jurisdiction and supervision of Workers’ Compensation Board, director and other
+state agencies over employment and places of employment; rules. (1) The Director of the Department
+of Consumer and Business Services is vested with full power and jurisdiction
+over, and shall have such supervision of, every employment and place of
+employment in this state as may be necessary to enforce and administer all
+laws, regulations, rules, standards and lawful orders requiring such employment
+and place of employment to be safe and healthful, and requiring the protection
+of the life, safety and health of every employee in such employment or place of
+employment. 
+
+       (2) The director
+and the Workers’ Compensation Board may make, establish, promulgate and enforce
+all necessary and reasonable regulations, rules, standards, orders and other
+provisions for the purpose of carrying out their respective functions under ORS
+654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780, notwithstanding
+any other statutory provisions which may be to the contrary. Nothing in ORS
+654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780, however, shall
+authorize or require medical examination, immunization or treatment for those
+who object thereto on religious grounds, except where such is necessary to
+protect the health or safety of others. 
+
+       (3)(a) The
+director may enforce all regulations, rules and standards duly adopted by any
+other state agency for the safety and health of employees. 
+
+       (b) This grant of
+concurrent jurisdiction and authority to the director shall not be construed,
+however, as repealing or amending, or as derogating in any respect from, the
+statutory jurisdiction and authority of any other state agency to promulgate
+and enforce regulations, rules and standards and to conduct inspections and
+investigations, except that no other state agency shall issue the citations or
+assess the civil penalties provided in ORS 654.001 to 654.295, 654.412 to
+654.423 and 654.750 to 654.780. 
+
+       (c) In the event
+a state of facts or condition constitutes a violation of more than one rule,
+regulation, standard or order of the director or any other agency pertaining to
+occupational safety or health, the state of facts or condition shall be the
+basis for the issuance of only one citation and proceeding or the assessment of
+only one penalty unless the statute specifically provides that a continuation
+of a state of facts or a condition constitutes a new violation. 
+
+       (d) Where another
+state agency, pursuant to its statutory authority, proposes to adopt a
+regulation, rule or standard relating to occupational safety or health, such
+agency shall accord the director an opportunity to review such regulation, rule
+or standard prior to its adoption for the purpose of assuring that employers
+will not be asked to comply with contradictory or inconsistent requirements or
+be burdened with an unnecessary duplication of occupational safety and health
+codes, inspections or reports. 
+
+       (4) The board and
+the director may subpoena witnesses, administer oaths, take depositions and fix
+the fees and mileage of witnesses and compel the attendance of witnesses and
+the production of papers, books, accounts, documents and testimony in any inquiry,
+investigation, hearing or proceeding in any part of the state, and the board
+and the director shall provide for defraying the expenses thereof. 
+
+       (5) The director
+and the board may do and perform all things, whether specifically designated in
+ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780 or in
+addition thereto, which are necessary or convenient in the exercise of any
+power, authority or jurisdiction conferred upon them by ORS 654.001 to 654.295,
+654.412 to 654.423 and 654.750 to 654.780. The director’s authority under this
+section shall include but is not limited to: 
+
+       (a) Designating
+by order or rule any named state employee or category of state employees who
+shall have authority to exercise any of the duties and powers imposed upon the
+director by law and whose act as authorized by the order or rule shall be
+considered to be an official act of the director. The director may designate
+local government employees with public health administration or enforcement
+duties to exercise duties and powers imposed upon the director with respect to
+ORS 654.174 (1) and (2). 
+
+       (b) Instituting
+any legal or equitable proceeding which would assist in the enforcement of any
+state occupational safety or health law or any regulation, rule, standard or
+order promulgated thereunder, including but not limited to seeking injunctive
+relief to enjoin an employer from operating the place of employment until the
+employer has complied with the provisions of such law, regulation, rule,
+standard or order. Upon the filing of a suit for an injunction by the director,
+the court shall set a day for hearing and shall cause notice thereof to be
+served upon the employer. The hearing shall be not less than five nor more than
+15 days from the service of such notice. [Amended by 1973 c.833 §9; 1977 c.804 §36;
+1979 c.839 §23; 1985 c.423 §6] 
+
+   
+
+       654.030 [Amended by 1973 c.833 §24;
+renumbered 654.130] 
+
+   
+
+       654.031
+Citation and order to correct unsafe or unhealthy conditions. Whenever the Director of the
+Department of Consumer and Business Services has reason to believe, after an
+inspection or investigation, that any employment or place of employment is
+unsafe or detrimental to health or that the practices, means, methods, operations
+or processes employed or used in connection therewith are unsafe or detrimental
+to health, or do not afford adequate protection to the life, safety and health
+of the employees therein, the director shall issue such citation and order
+relative thereto as may be necessary to render such employment or place of
+employment safe and protect the life, safety and health of employees therein.
+The director may in the order direct that such additions, repairs, improvements
+or changes be made, and such devices and safeguards be furnished, provided and
+used, as are reasonably required to render such employment or place of
+employment safe and healthful, in the manner and within the time specified in
+the order. [Formerly 654.045] 
+
+   
+
+       654.035 Scope
+of rules and orders. 
+(1) The Director of the Department of Consumer and Business Services may, by
+general or special orders, or by regulations, rules, codes or otherwise: 
+
+       (a) Declare and
+prescribe what devices, safeguards or other means of protection and what
+methods, processes or work practices are well adapted to render every
+employment and place of employment safe and healthful. 
+
+       (b) Fix
+reasonable standards and prescribe and enforce reasonable orders for the
+adoption, installation, use and maintenance of devices, safeguards and other
+means of protection, and of methods, processes and work practices, including,
+but not limited to, work practices qualifications for equipment, materials and
+activities requiring special competence, to be as nearly uniform as possible,
+as may be necessary to carry out all laws relative to the protection of the
+life, safety and health of employees. 
+
+       (c) Fix and order
+reasonable standards for the construction, repair and maintenance of places of
+employment and equipment that will render them safe and healthful. 
+
+       (d) Fix standards
+for routine, periodic or area inspections of places of employment that are
+reasonably necessary in order to determine compliance with all occupational
+safety and health laws and the regulations, rules and standards adopted under
+occupational safety and health laws. Except for complaint inspections,
+follow-up inspections, imminent danger inspections, referral inspections and
+inspections to determine the cause of an occupational death, injury or illness,
+all inspections shall be based on written neutral administrative standards. The
+standards shall include a prioritized scheduling system for inspections that
+predominantly focuses enforcement activities upon places of employment that the
+director reasonably believes to be the most unsafe. The standards shall be
+accessible to employers under ORS 192.311 to 192.478 for at least 36 months
+from the last date the standards are in effect. The director shall notify in
+writing each employer whose place of employment is rated by the director as one
+of the most unsafe places of employment in the state of the increased
+likelihood of inspection of the employer’s place of employment and of the
+availability of consultative services. The director may by rule offer
+incentives to employers that elect consultative services before an inspection
+is conducted. Nothing in this paragraph prevents the director from conducting a
+random inspection of a place of employment as long as the inspection is
+scheduled and conducted pursuant to written neutral administrative standards. 
+
+       (e) Require the
+performance of any other act that the protection of the life, safety and health
+of employees in employments and places of employment may demand. 
+
+       (2) The director
+may not require the use of fall protection by workers engaged in steel erection
+at heights lower than the heights at which fall protection relating to steel
+erection is required by federal regulation. [Amended by 1973 c.833 §11; 1987
+c.884 §9; 1999 c.1017 §2; 2003 c.595 §§1,2; 2005 c.27 §§1,2; 2007 c.686 §1] 
+
+   
+
+       654.040 [Repealed by 1973 c.833 §34
+(654.290 enacted in lieu of 654.040, 654.065, 654.070, 654.075 and 654.080)] 
+
+   
+
+       654.045 [Amended by 1973 c.833 §10;
+renumbered 654.031] 
+
+   
+
+       654.047 [Formerly 654.225; 1965 c.285 §82;
+repealed by 1973 c.833 §15 (654.067 enacted in lieu of 654.047, 654.222 and
+654.232)] 
+
+   
+
+       654.050 [Amended by 1953 c.387 §2; 1957
+c.436 §1; 1965 c.285 §69d; 1969 c.534 §1; 1971 c.251 §1; repealed by 1973 c.833
+§19 (654.082 and 654.086 enacted in lieu of 654.050)] 
+
+   
+
+       654.055 [Repealed by 1973 c.833 §12
+(654.056 and 654.078 enacted in lieu of 654.055)] 
+
+   
+
+       654.056
+Variance from safety or health standards; effect of variance on citations. (1) Any employer may apply to the
+Director of the Department of Consumer and Business Services, pursuant to
+regulations and procedures adopted by the director, for an order granting the
+employer a variance from a particular safety or health regulation, rule or
+standard. 
+
+       (2) The director
+may grant a temporary variance only if the employer demonstrates by a
+preponderance of the evidence that: 
+
+       (a) The employer
+is unable to comply with a new regulation, rule or standard by its effective
+date; 
+
+       (b) The employer
+has an effective program for complying with the law as quickly as practicable;
+and 
+
+       (c) The employer
+is taking all available steps in the interim to safeguard the employees of the
+employer against the hazards covered by the regulation, rule or standard. 
+
+       (3) The director
+may grant a permanent variance only if the employer demonstrates by a
+preponderance of the evidence that the conditions, practices, means, methods,
+operations or processes used or proposed to be used by the employer will
+provide employment and a place of employment which are as safe and healthful as
+those which would prevail if the employer complied with the regulation, rule or
+standard. 
+
+       (4) Where the
+director proposes to deny a request for a variance, the employer shall be given
+an opportunity for a hearing before the Workers’ Compensation Board in which
+the employer may contest the proposed denial. 
+
+       (5) Where the
+director proposes to grant a variance, the affected employees shall be given an
+opportunity for a hearing before the board in which they may contest the
+proposed variance. 
+
+       (6) A request for
+a variance which is filed after an inspection or investigation by the director
+will not act to stay or dismiss any citation which may result from such
+inspection or investigation, and an order granting the requested variance shall
+have no retroactive effect. 
+
+       (7) An order
+granting a variance may be modified or revoked by the director upon the
+director’s own motion or upon the application of the employer or an affected
+employee or representative of the employee, in the manner prescribed for its
+issuance at any time after six months from its issuance. [1973 c.833 §13
+(enacted in lieu of 654.055); 1977 c.804 §37] 
+
+   
+
+       654.060 [Amended by 1973 c.833 §8;
+renumbered 654.022] 
+
+   
+
+       654.062 Notice
+of violation to employer by worker; complaint by worker to director;
+inspection; employee protections; rebuttable presumption; rules. (1) Every employee should notify
+the employer of any violation of law, regulation or standard pertaining to
+safety and health in the place of employment when the violation comes to the
+knowledge of the employee. 
+
+       (2) However, any
+employee or representative of the employee may complain to the Director of the
+Department of Consumer and Business Services or any authorized representatives
+of the director of any violation of law, regulation or standard pertaining to safety
+and health in the place of employment, whether or not the employee also
+notifies the employer. 
+
+       (3) Upon
+receiving any employee complaint, the director shall make inquiries,
+inspections and investigations that the director considers reasonable and
+appropriate. When an employee or representative of the employee has complained
+in writing of an alleged violation and no resulting citation is issued to the
+employer, the director shall furnish to the employee or representative of the
+employee, upon written request, a statement of reasons for the decision. 
+
+       (4) The director
+shall establish procedures for keeping confidential the identity of any
+employee who requests protection in writing. When a request has been made,
+neither a written complaint from an employee, or representative of the
+employee, nor a memorandum containing the identity of a complainant may be
+disclosed under ORS 192.311 to 192.478. 
+
+       (5) It is an
+unlawful employment practice for any person to bar or discharge from employment
+or otherwise discriminate against any employee or prospective employee because
+the employee or prospective employee has: 
+
+       (a) Opposed any
+practice forbidden by ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to
+654.780; 
+
+       (b) Made any
+complaint or instituted or caused to be instituted any proceeding under or
+related to ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780,
+or has testified or is about to testify in any such proceeding; 
+
+       (c) Exercised on
+behalf of the employee, prospective employee or others any right afforded by
+ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780; 
+
+       (d) In good faith
+reported an assault or other incident of workplace violence that occurred on
+the premises of a health care employer as defined in ORS 654.412 or in the home
+of a patient receiving home health care services; or 
+
+       (e) With no
+reasonable alternative and in good faith, refused to expose the employee or
+prospective employee to serious injury or death arising from a hazardous
+condition at a place of employment. 
+
+       (6)(a) Any
+employee or prospective employee alleging to have been barred or discharged
+from employment or otherwise discriminated against in compensation, or in
+terms, conditions or privileges of employment, in violation of subsection (5)
+of this section may, within one year after the employee or prospective employee
+has reasonable cause to believe that the violation has occurred, file a
+complaint with the Commissioner of the Bureau of Labor and Industries alleging
+discrimination under the provisions of ORS 659A.820. Upon receipt of the
+complaint the commissioner shall process the complaint under the procedures,
+policies and remedies established by ORS chapter 659A and the policies
+established by ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780
+in the same way and to the same extent that the complaint would be processed if
+the complaint involved allegations of unlawful employment practices under ORS
+659A.030 (1)(g). 
+
+       (b) Within 90
+days after receipt of a complaint filed under this subsection, the commissioner
+shall notify the complainant of the commissioner’s determination. 
+
+       (c) The affected
+employee or prospective employee may bring a civil action in any circuit court
+of the State of Oregon against any person alleged to have violated subsection
+(5) of this section. The civil action must be commenced within one year after
+the employee or prospective employee has reasonable cause to believe a
+violation has occurred, unless a complaint has been timely filed under ORS
+659A.820. 
+
+       (d) Subject to
+paragraph (e) of this subsection, the commissioner or the circuit court may
+order all appropriate relief including rehiring or reinstatement to the
+employee’s former position with back pay. 
+
+       (e) If the
+commissioner or the circuit court finds that a behavioral health employer
+discharged an employee in violation of subsection (5) of this section, the
+employee shall have the right to be reinstated to the employee’s former
+position with back pay. 
+
+       (7)(a) In any
+action brought under subsection (6) of this section, there is a rebuttable
+presumption that a violation of subsection (5) of this section has occurred if
+a person bars or discharges an employee or prospective employee from employment
+or otherwise discriminates against an employee or prospective employee within
+60 days after the employee or prospective employee has engaged in any of the
+protected activities described in subsection (5)(a) to (e) of this section. The
+person may rebut the presumption that a violation of subsection (5) of this
+section has occurred by a demonstration of a preponderance of the evidence. 
+
+       (b) If a person
+bars or discharges an employee or prospective employee from employment or
+otherwise discriminates against the employee or prospective employee more than
+60 days after the employee or prospective employee has engaged in any of the
+protected activities described under subsection (5)(a) to (e) of this section,
+such action does not create a presumption in favor of or against finding that a
+violation of subsection (5) of this section has occurred. Where such action has
+occurred more than 60 days after the protected activity, this subsection does
+not modify any existing rule of case law relating to the proximity of time
+between a protected activity and an adverse employment action. The burden of
+proof shall be on the employee or prospective employee to demonstrate by a
+preponderance of the evidence that a violation occurred. 
+
+       (8) The director
+shall adopt rules necessary for the administration of subsection (5)(e) of this
+section that are in accordance with the federal Occupational Safety and Health
+Act of 1970 (29 U.S.C. 651 et seq.). 
+
+       (9) As used in
+this section, “behavioral health employer” means: 
+
+       (a) A residential
+treatment facility, as defined in ORS 443.400; 
+
+       (b) A residential
+treatment home, as defined in ORS 443.400; 
+
+       (c) A secure
+residential treatment facility, as described in ORS 443.465, unless the
+facility is located on an Oregon State Hospital campus or otherwise operated by
+the state; 
+
+       (d) A secure
+residential treatment home, as described in ORS 443.465; 
+
+       (e) A sobering
+facility, as defined in ORS 430.306; 
+
+       (f) A
+detoxification center, as defined in ORS 430.306; 
+
+       (g) A halfway
+house, as defined in ORS 430.306; 
+
+       (h) A mobile
+crisis intervention team, as defined in ORS 430.626; or 
+
+       (i) An emergency
+shelter. [Formerly 654.235; 1973 c.833 §14; 1983 c.275 §1; 1999 c.55 §3; 2001
+c.621 §82; 2005 c.198 §1; 2007 c.279 §1; 2019 c.350 §3; 2021 c.293 §1; 2021
+c.336 §1; 2023 c.196 §1; 2025 c.125 §2; 2025 c.535 §6; 2025 c.561 §3] 
+
+   
+
+       654.065 [Repealed by 1973 c.833 §34
+(654.290 enacted in lieu of 654.040, 654.065, 654.070, 654.075 and 654.080)] 
+
+   
+
+       654.067
+Inspection of places of employment; comprehensive inspections; denial of
+access; warrants; safety and health consultation with employees. (1) In order to carry out the
+purposes of ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780,
+the Director of the Department of Consumer and Business Services, upon
+presenting appropriate credentials to the owner, employer or agent in charge,
+is authorized: 
+
+       (a) To enter
+without delay and at reasonable times any place of employment; 
+
+       (b) To inspect
+and investigate during regular working hours and at other reasonable times, and
+within reasonable limits and in a reasonable manner, any such place of
+employment and all pertinent conditions, structures, machines, apparatus,
+devices, equipment and materials therein, and to question privately the owner,
+employer, agents or employees; and 
+
+       (c) To conduct a
+comprehensive inspection of any place of employment as deemed necessary by the
+department based upon the prior violation history of the place of employment
+regarding any state occupational safety or health law, regulation, standard,
+rule or order. 
+
+       (2) Whenever an
+accident investigation reveals that a violation has caused or contributed to a
+work-related fatality at a place of employment, the director shall conduct a
+comprehensive inspection of the place of employment within one year following
+the date on which the closing conference associated with the work-related
+fatality was held. 
+
+       (3) Whenever
+three or more willful or repeated violations occur at a place of employment
+within a one-year period, the director shall conduct a comprehensive inspection
+of the place of employment within one year following the date on which the
+closing conference associated with the most recent willful or repeated
+violation was held. 
+
+       (4) No person
+shall give an owner, employer, agent or employee advance notice of any
+inspection to be conducted under ORS 654.001 to 654.295, 654.412 to 654.423 and
+654.750 to 654.780 of any place of employment without authority from the
+director. 
+
+       (5) Except in the
+case of an emergency, or of a place of employment open to the public, if the
+director is denied access to any place of employment for the purpose of an
+inspection or investigation, such inspection or investigation shall not be
+conducted without an inspection warrant obtained pursuant to ORS 654.202 to
+654.216, or without such other authority as a court may grant in an appropriate
+civil proceeding. Nothing contained herein, however, is intended to affect the
+validity of a constitutionally authorized inspection conducted without an
+inspection warrant. 
+
+       (6) A
+representative of the employer and a representative authorized by the employees
+of the employer shall be given an opportunity to accompany the director during
+the inspection of any place of employment for the purpose of aiding such
+inspection. When there is no employee representative, or the employee
+representative is not an employee of the employer, the director should consult
+with a reasonable number of employees concerning matters of safety and health
+in the place of employment. 
+
+       (7) The
+representative of the employer may, at the employer’s option, be an attorney
+retained by the employer. 
+
+       (8) As used in
+this section: 
+
+       (a) “Accident
+investigation” means an official examination of a place of employment conducted
+by a compliance officer who is responsible for carrying out inspections and
+investigations on behalf of the department, that includes a systematic
+appraisal of an accident sequence to determine causal factors, corrective
+actions and preventative measures. 
+
+       (b) “Closing
+conference” means a process that informs the employer and the employee
+representatives, if any, of the findings resulting from an inspection of a
+place of employment and any other pertinent issues related to the inspection. 
+
+       (c) “Comprehensive
+inspection” means a substantially complete inspection of a place of employment
+that, in the professional judgment of the inspector who conducts the
+inspection, may be deemed comprehensive although not all potentially hazardous
+conditions, operations and practices within the place of employment are
+inspected. [1973 c.833 §16 (enacted in lieu of 654.047, 654.222 and 654.232);
+1999 c.1017 §3; 2023 c.126 §1] 
+
+   
+
+       654.070 [Repealed by 1973 c.833 §34
+(654.290 enacted in lieu of 654.040, 654.065, 654.070, 654.075 and 654.080)] 
+
+   
+
+       654.071
+Citation for safety or health standard violations; effect of failure to correct
+violation; posting of citations and notices by employer. (1) If the Director of the
+Department of Consumer and Business Services or an authorized representative of
+the director has reason to believe, after inspection or investigation of a
+place of employment, that an employer has violated any state occupational
+safety or health law, regulation, standard, rule or order, the director or the
+authorized representative shall with reasonable promptness issue to such
+employer a citation, and notice of proposed civil penalty, if any, to be
+assessed under this chapter, and fix a reasonable time for correction of the
+alleged violation. 
+
+       (2) Each citation
+and notice required by subsection (1) of this section shall be in writing,
+shall be mailed to or served upon the employer or a registered agent of the
+employer, and shall contain: 
+
+       (a) The date and
+place of the alleged violation; 
+
+       (b) A plain
+statement of the facts upon which the citation is based; 
+
+       (c) A reference
+to the law, regulation, rule, standard or order relied upon; 
+
+       (d) The amount,
+if any, of the proposed civil penalty; 
+
+       (e) The time, if
+any, fixed for the correction of the alleged violation; 
+
+       (f) Notice of the
+employer’s right to contest the citation, the proposed civil penalty and the
+period of time fixed for correction of the alleged violation; and 
+
+       (g) Notice of any
+affected employee’s right to contest the period of time fixed for correction of
+the alleged violation. 
+
+       (3) No citation
+or notice of proposed civil penalty may be issued under this section after the
+expiration of 180 days following the start of the inspection or investigation,
+but this shall not prevent the issuance, at any time, of an order to correct
+that violation or the issuance of a citation for a subsequent violation. 
+
+       (4) If the
+director has reason to believe that an employer has failed to correct a
+violation within the period of time fixed for correction, or within the time
+fixed in a subsequent order granting an extension of time to correct the
+violation, the director shall consider such failure as a separate and
+continuing violation and shall issue a citation and notice of proposed civil
+penalty, if any, to be assessed pursuant to ORS 654.086 (1)(d). 
+
+       (5) The director
+may prescribe procedures for the issuance of a notice in lieu of citation to
+inform an employer and employees of a minimal violation that has no direct or
+immediate relationship to occupational safety or health. 
+
+       (6) Each citation
+and notice, or copies thereof, issued under ORS 654.001 to 654.295, 654.412 to
+654.423 and 654.750 to 654.780 shall be posted by the employer, immediately
+upon receipt, in a conspicuous manner in a sufficient number of locations in
+the place or places of employment to reasonably inform employees of such
+citation and notice. 
+
+       (7)
+Notwithstanding any other provision of this section, the director or authorized
+representative of the director shall deliver to the operator of a farm labor
+camp a copy of any notice, evaluation report or citation resulting from the
+inspection. [1973 c.833 §17; 1981 c.696 §4; 1999 c.72 §1; 1999 c.1017 §4] 
+
+   
+
+       654.074 [1973 c.833 §17a; repealed by 1977
+c.804 §55] 
+
+   
+
+       654.075 [Repealed by 1973 c.833 §34
+(654.290 enacted in lieu of 654.040, 654.065, 654.070, 654.075 and 654.080)] 
+
+   
+
+       654.078
+Contesting violations; hearing; admissibility in criminal or civil proceedings
+of stipulations involving violations. 
+(1) An employer may contest a citation, a proposed assessment of civil penalty
+and the period of time fixed for correction of a violation, or any of these, by
+filing with the Department of Consumer and Business Services, within 30 days
+after receipt of the citation, notice or order, a written request for a hearing
+before the Workers’ Compensation Board. Such a request need not be in any
+particular form, but shall specify the alleged violation that is contested and
+the grounds upon which the employer considers the citation or proposed penalty
+or correction period unjust or unlawful. 
+
+       (2) An affected
+employee or representative of such employees may contest the time fixed for
+correction of a violation by filing with the department, within 30 days after
+the receipt by the employer of the citation, notice or order which fixes such
+time for correction, a written request for a hearing before the board. Such a
+request need not be in any particular form, but shall specify the violation in
+question and the grounds upon which the employee considers the correction
+period to be unreasonable. 
+
+       (3) A hearing on
+any question relating to the validity of a citation or the proposed civil
+penalty to be assessed therefor shall not be granted unless a request for
+hearing is filed by the employer within the period specified in subsection (1)
+of this section. If a request for hearing is not so filed, the citation and the
+assessment of penalty as proposed shall be a final order of the department and
+shall not be subject to review by any agency or court. 
+
+       (4) A hearing
+relating to the reasonableness of the time prescribed for the correction of a
+violation shall not be granted, except for good cause shown, unless a request
+for hearing is filed within the period specified in subsections (1) and (2) of
+this section. If a request for hearing is not so filed the time fixed for
+correction of the violation shall be a final order of the department and shall
+not be subject to review by any agency or court. 
+
+       (5) Where an
+employer contests, in good faith and not solely for delay or avoidance of
+penalties, the period of time fixed for correction of a nonserious violation,
+such period of time shall not run between the date the request for hearing is
+filed and the date the order of the department becomes final by operation of
+law or on appeal. 
+
+       (6) Where an
+employer or employee contests the period of time fixed for correction of a
+serious violation, any hearing on that issue shall be conducted as soon as
+possible and shall take precedence over other hearings conducted by the board
+under the provisions of ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750
+to 654.780. 
+
+       (7) Where
+informal disposition of a contested case is made by stipulation, agreed
+settlement or a consent order, such stipulation, settlement or order shall not
+be pleaded or admissible in evidence as an admission or confession in any
+criminal prosecution or in any other civil proceeding that may be instituted
+against the employer, except in the case of a civil proceeding brought to
+enforce such stipulation, settlement or order. [1973 c.833 §18 (enacted in lieu
+of 654.055); 1977 c.804 §38; 2007 c.432 §1] 
+
+   
+
+       654.080 [Repealed by 1973 c.833 §34
+(654.290 enacted in lieu of 654.040, 654.065, 654.070, 654.075 and 654.080)] 
+
+   
+
+       654.082
+Prohibiting use of equipment involved in violation; red warning notice. (1) The Director of the Department
+of Consumer and Business Services, or an authorized representative of the
+director with the approval of the director or, pursuant to such rules and
+procedures as the director may prescribe, with the approval of the director, to
+preclude exposure to a condition which, if such exposure occurred would
+constitute a violation of any statute, or of any lawful regulation, rule,
+standard or order affecting employee safety or health at a place of employment,
+may preclude exposure by prohibiting use of the machine, equipment, apparatus
+or place of employment constituting such condition. When use is prohibited a
+red warning notice shall be posted in plain view of any person likely to use
+the same, calling attention to the condition, defect, lack of safeguard or
+unsafe or unhealthful place of employment and the fact that further use is
+prohibited. 
+
+       (2) No person
+shall use or operate any place of employment, machine, device, apparatus or
+equipment, after the red warning notice required by this section is posted,
+before such place of employment, machine, device, apparatus or equipment is
+made safe and healthful, and the required safeguards or safety appliances or
+devices are provided, and authorization for the removal of such red warning
+notice has been obtained from the director. However, nothing in this subsection
+prohibits an employer from directing employees to use or operate any such place
+of employment, machine, device, apparatus or equipment exclusively for the
+purpose of remedying the violation as specifically designated by the director
+in the red warning notice. 
+
+       (3) No person
+shall deface, destroy or remove any red warning notice posted pursuant to this
+section until authorization for the removal of such notice has been obtained
+from the director. [1973 c.833 §20 (enacted in lieu of 654.050); 1975 c.102 §3;
+1977 c.804 §39; 1977 c.869 §2a] 
+
+   
+
+       654.085 [Amended by 1973 c.833 §33;
+renumbered 654.285] 
+
+   
+
+       654.086 Civil
+penalty for violations; classification of violations; penalty adjustments;
+payment and disposition of penalty moneys; reporting. (1) The Director of the Department
+of Consumer and Business Services or the authorized representative of the
+director has the authority to assess civil penalties as provided by this
+section for violation of the requirements of a state occupational safety or
+health statute or the lawful rules, standards or orders adopted under the
+statute, as follows: 
+
+       (a)(A) Any
+employer who receives a citation for a serious violation of such requirements
+shall be assessed a civil penalty of not more than $15,625, but not less than
+$1,116, for each violation. 
+
+       (B) If the
+serious violation caused or contributed to the death of an employee, the civil
+penalty amount shall be increased to not more than $50,000, but not less than
+$20,000, for each violation. 
+
+       (b) Any employer
+who receives a citation for a violation of such requirements, and such
+violation is specifically determined not to be of a serious nature, may be
+assessed a civil penalty, not to exceed $15,625, for each violation. 
+
+       (c)(A) Any
+employer who willfully or repeatedly violates such requirements may be assessed
+a civil penalty of not more than $156,259, but not less than $11,162, for each
+willful or repeated violation. 
+
+       (B) If an
+employer’s willful or repeated violation caused or contributed to the death of
+an employee, the civil penalty amount shall be increased to not more than
+$250,000, but not less than $50,000, for each willful or repeated violation. 
+
+       (C) In
+determining whether a violation is repeated for purposes of this subsection,
+the director shall consider the employer’s history of violating the
+requirements of a state occupational safety or health statute or the lawful
+rules, standards or orders adopted under the statute. 
+
+       (d) Any employer
+who receives a citation, as provided in ORS 654.071 (4), for failure to correct
+a violation may be assessed a civil penalty, not to exceed $15,625, for each
+day during which the violation continues. 
+
+       (e) Any employer
+who knowingly makes any false statement, representation or certification
+regarding the correction of a violation shall be assessed a civil penalty of
+not less than $100. 
+
+       (f) Any employer
+who violates any of the posting requirements, as prescribed under the
+provisions of ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to
+654.780, may be assessed a civil penalty for each violation. 
+
+       (g) Any person
+who violates the provisions of ORS 654.082 (2) or (3) shall be assessed a civil
+penalty of not less than $100 for each violation. 
+
+       (h)
+Notwithstanding paragraph (b) of this subsection, an employer who substantially
+fails to comply with ORS 654.174 (1) shall be assessed a civil penalty of not
+less than $250 for each violation. 
+
+       (i) Any insurer
+or self-insured employer who violates any provision of ORS 654.097, or any rule
+or order carrying out ORS 654.097, shall be assessed a civil penalty. Each
+violation, or each day a violation continues, shall be considered a separate
+offense. 
+
+       (2) For the
+purposes of ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780 a
+serious violation exists in a place of employment if there is a substantial
+probability that death or serious physical harm could result from a condition
+which exists, or from one or more practices, means, methods, operations or
+processes which have been adopted or are in use, in such place of employment
+unless the employer did not, and could not with the exercise of reasonable
+diligence, know of the presence of the violation. 
+
+       (3) Civil
+penalties assessed by the Department of Consumer and Business Services against
+an employer for repeated violations of any of the following may not receive a
+penalty adjustment, based on employer size, that reduces the amount of the
+civil penalty assessed against the employer, unless the penalty adjustment is
+conditioned upon the employer agreeing to comply with additional abatement
+measures as determined by the department: 
+
+       (a) A willful
+violation under subsection (1)(c) of this section; and 
+
+       (b) A serious
+violation resulting in a work-related fatality. 
+
+       (4) The director
+shall, not later than January 15 of each year, adjust the amount of civil
+penalties that may be imposed under this section to account for the percentage
+increase or decrease, if any, in the Consumer Price Index for All Urban
+Consumers, West Region (All Items), as published by the Bureau of Labor
+Statistics of the United States Department of Labor or its successor. 
+
+       (5) When an order
+assessing a civil penalty becomes final by operation of law or on appeal,
+unless the amount of penalty is paid within 20 days after the order becomes
+final, it constitutes a judgment and may be recorded with the county clerk in
+any county of this state. The clerk shall thereupon record the name of the
+person incurring the penalty and the amount of the penalty in the County Clerk
+Lien Record. The penalty provided in the order so recorded shall become a lien
+upon the title to any interest in property owned by the person against whom the
+order is entered, and execution may be issued upon the order in the same manner
+as execution upon a judgment of a court of record. 
+
+       (6) Except as
+provided in subsection (7) of this section, civil penalties collected under ORS
+654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780 shall be paid
+into the Consumer and Business Services Fund. 
+
+       (7) Civil
+penalties assessed under this section for a violation of ORS 658.750 shall be
+credited to the Agricultural Worker Housing Development Account of the Oregon
+Housing Fund. 
+
+       (8) The director
+shall submit a report at least annually to the interim committees of the
+Legislative Assembly related to business and labor that summarizes: 
+
+       (a) The total
+number and total amount of penalties assessed by the department; 
+
+       (b) The total
+number of appeals of citations, violations and penalty assessments filed with
+the department; and 
+
+       (c) The total
+number of inspections completed by the department, along with the scope of the
+inspections and the circumstances that led to the inspections. [1973 c.833 §21
+(enacted in lieu of 654.050); 1981 c.696 §5; 1983 c.696 §22; 1985 c.423 §4;
+1987 c.884 §56; 1989 c.962 §20; 1991 c.67 §159; 1991 c.570 §1; 1991 c.640 §2;
+1995 c.640 §1; 2001 c.310 §4; 2007 c.432 §2; 2017 c.238 §2; 2021 c.525 §25;
+2023 c.126 §2] 
+
+   
+
+       654.090
+Occupational safety and health activities; voluntary compliance; rules;
+consultative services. 
+In order to carry out the purposes of ORS 654.001 to 654.295, 654.412 to
+654.423 and 654.750 to 654.780 and encourage voluntary compliance with
+occupational safety and health laws, regulations and standards and to promote
+more effective workplace health and safety programs, the Director of the
+Department of Consumer and Business Services shall: 
+
+       (1) Develop
+greater knowledge and interest in the causes and prevention of industrial
+accidents, occupational diseases and related subjects through: 
+
+       (a) Research,
+conferences, lectures and the use of public communications media; 
+
+       (b) The
+collection and dissemination of accident statistics; and 
+
+       (c) The
+publication and distribution of training and accident prevention materials,
+including audio and visual aids. 
+
+       (2) Appoint
+advisers who shall, without compensation, assist the director in establishing
+standards of safety and health. The director may adopt and incorporate in its
+regulations, rules and standards such safety and health recommendations as it
+may receive from such advisers. 
+
+       (3) Provide
+consultative services for employers on safety and health matters and prescribe
+procedures which will permit any employer to request a special inspection or
+investigation, focused on specific problems or hazards in the place of
+employment of the employer or to request assistance in developing a plan to
+correct such problems or hazards, which will not directly result in a citation
+and civil penalty. 
+
+       (4) Place
+emphasis, in the research, education and consultation program, on development
+of a model for providing services to groups of small employers in particular
+industries and their employees. 
+
+       (5) Separately
+administer the voluntary compliance and research, education and consultation
+activities described in this section and the enforcement activities described
+in ORS 654.025 to 654.086. [Amended by 1965 c.285 §69h; 1973 c.833 §22; 1987
+c.884 §57; 1997 c.249 §198] 
+
+   
+
+       654.092 [Formerly 654.255; repealed by
+1965 c.285 §95] 
+
+   
+
+       654.093 [Formerly 654.265; repealed by
+1973 c.833 §48] 
+
+   
+
+       654.094 [Formerly 654.270; repealed by
+1965 c.285 §95] 
+
+   
+
+       654.095 [Amended by 1965 c.285 §69e;
+repealed by 1973 c.833 §48] 
+
+   
+
+       654.096 [Formerly 654.275; repealed by
+1967 c.92 §5] 
+
+   
+
+       654.097
+Consultative services required; program standards; rules. (1)(a) An insurer that provides
+workers’ compensation coverage to employers pursuant to ORS chapter 656 shall
+furnish occupational safety and health loss control consultative services to
+its insured employers in accordance with standards established by the Director
+of the Department of Consumer and Business Services. 
+
+       (b) A
+self-insured employer shall establish and implement an occupational safety and
+health loss control program in accordance with standards established by the
+director. 
+
+       (2) An insurer or
+self-insured employer may furnish any of the services required by this section
+through an independent contractor. 
+
+       (3) The program
+of an insurer for furnishing loss control consultative services as required by
+this section shall be adequate to meet the minimum standards prescribed by the
+director by rule from time to time. Such services shall include the conduct of
+workplace surveys to identify health and safety problems, review of employer
+injury records with appropriate persons and development of plans for
+improvement of employer health and safety loss records. At the time a workers’
+compensation insurance policy is issued and on an annual basis thereafter, the
+insurer shall notify its insured employers of the loss control consultative
+services that the insurer is required by rule to offer, without additional
+charge as provided in this section, and shall provide a written description of
+the services that the insurer does offer. 
+
+       (4) The insurer
+shall not charge any fee in addition to the insurance premium for safety and
+health loss control consultative services. 
+
+       (5) Each insurer
+shall make available, at the request of the director and in the form prescribed
+by the director, its annual expenditures for safety and health loss control
+activities for the prior year and its budget for safety and health loss control
+activities for the following year. 
+
+       (6) As used in
+this section, “employer,” “insurer” and “self-insured employer” have the
+meaning for those terms provided in ORS 656.005. [Formerly 656.451; 2007 c.241 §21] 
+
+   
+
+       Note: 654.097 was added to and made a
+part of 654.001 to 654.295 by legislative action but was not added to any
+smaller series therein. See Preface to Oregon Revised Statutes for further
+explanation. 
+
+   
+
+       654.100 [Repealed by 1973 c.833 §31
+(654.251 enacted in lieu of 654.100)] 
+
+   
+
+       654.101
+Voluntary safety and health consultation; refusal to disclose report. (1) As used in this section,
+unless the context requires otherwise: 
+
+       (a) “Safety and
+health consultation” means a voluntary review or inspection of a facility or
+equipment to improve workplace safety. “Safety and health consultation” does
+not include: 
+
+       (A) An
+investigation of an occupational accident, illness or disease; or 
+
+       (B) A discussion
+between employees of an employer or between employees of several employers in a
+multiemployer work setting. 
+
+       (b) “Safety and
+health consultation report” means documentation of a safety and health
+consultation, including recommendations and supporting documents created by a
+consultant. 
+
+       (2) In any
+inspection, investigation or administrative proceeding under ORS 654.001 to
+654.295, 654.412 to 654.423 and 654.750 to 654.780, an employer for which a
+safety and health consultation has occurred may refuse to disclose and may
+prevent any other person from disclosing a safety and health consultation
+report that results from the safety and health consultation. [1999 c.584 §2] 
+
+   
+
+       Note: 654.101 was added to and made a
+part of 654.001 to 654.295 and 654.750 to 654.780 by legislative action but was
+not added to any smaller series therein. See Preface to Oregon Revised Statutes
+for further explanation. 
+
+   
+
+       654.105 [1957 c.156 §1; 1959 c.684 §1;
+repealed by 1973 c.833 §29 (654.241 enacted in lieu of 654.105 and 654.226)] 
+
+   
+
+       654.110 [1957 c.156 §2; 1959 c.684 §3;
+repealed by 1971 c.251 §2] 
+
+   
+
+       654.120
+Records of proceedings; confidentiality of certain information; federal
+reporting requirements; rules. 
+(1) The Department of Consumer and Business Services shall maintain, for a
+reasonable time, records of all inspections, investigations, employee
+complaints, employer reports, citations, hearings, proceedings and any other
+matters necessary for achieving the purposes of ORS 654.001 to 654.295, 654.412
+to 654.423 and 654.750 to 654.780. 
+
+       (2) Each employer
+shall keep records, in the manner prescribed by the Director of the Department
+of Consumer and Business Services, of work-related deaths and serious injuries
+and illnesses, and of such other relevant occupational safety and health matters
+as are reasonably necessary for achieving the purposes of ORS 654.001 to
+654.295, 654.412 to 654.423 and 654.750 to 654.780. Each employer shall notify
+the director forthwith of the work-related death of any employee of the
+employer, and shall make such other reports as the director may reasonably
+prescribe by rule or order. 
+
+       (3) All
+information reported to or otherwise obtained by the department in connection
+with any matter or proceeding under ORS 654.001 to 654.295, 654.412 to 654.423
+and 654.750 to 654.780 which contains or which might reveal a trade secret
+referred to in section 1905, title 18, United States Code, shall be considered
+confidential for the purposes of that section, except that such information may
+be disclosed to other officers or employees of the department or other agencies
+concerned with carrying out their duties under ORS 654.001 to 654.295, 654.412
+to 654.423 and 654.750 to 654.780 or when relevant in any proceeding under ORS
+654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780 or under 654.991.
+In any such matter or proceeding the department, the other state agency, the
+Administrative Law Judge, the Workers’ Compensation Board or the court shall
+issue such orders as may be appropriate to protect the confidentiality of trade
+secrets. 
+
+       (4) The director
+will make reports to the Secretary of Labor of the United States in such form
+and containing such information as the Secretary of Labor shall from time to
+time require pursuant to the Occupational Safety and Health Act of 1970 (29
+U.S.C. 651 et seq.). 
+
+       (5) Nothing
+contained in ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780
+shall relieve an employer from making such reports to the Secretary of Labor of
+the United States as may be required by federal law. [1973 c.833 §23; 1977
+c.804 §40; 2017 c.238 §3] 
+
+   
+
+       654.130
+Proceedings against unwilling witnesses. (1) The Director of the Department of Consumer and
+Business Services or the Workers’ Compensation Board, or the authorized
+representative or designee of the director or the board before whom testimony
+is to be given or produced, in case of the refusal of any witness to attend or
+testify or produce any papers as required by subpoena, may report to the
+circuit court in the county in which the inquiry, investigation, hearing or
+other proceeding is pending, by petition setting forth that due notice has been
+given of the time and place of attendance of the witness, or the production of
+the papers, and that the witness has been subpoenaed in the manner prescribed
+and that the witness has failed and refused to attend or produce the papers
+required by the subpoena or has refused to answer questions propounded to the
+witness in the course of such proceeding, and ask an order of the court to
+compel the witness to attend and testify or produce said papers. 
+
+       (2) The court,
+upon receiving the petition, shall enter an order directing the witness to
+appear before the court at a time and place to be fixed in such order, the time
+to be not more than 10 days from the date of the order, and then and there show
+cause why the witness has not attended and testified or produced the papers. 
+
+       (3) A copy of the
+order shall be served upon the witness. 
+
+       (4) If it is
+apparent to the court that the subpoena was regularly issued, the court shall
+thereupon enter an order that the witness appear before the director or the
+board or the authorized representative or designee of the director or the board
+at a time and place to be fixed in such order, and testify and produce the
+required papers and upon failure to obey the order the witness shall be dealt
+with as for contempt of court. [Formerly 654.030; 1979 c.839 §24] 
+
+   
+
+       654.150
+Sanitary facilities at construction projects; standards; exemptions. (1) At the site of every
+construction project estimated to cost $1 million or more the employer or owner
+of such place of employment shall provide toilet facilities and facilities for
+maintaining personal cleanliness for the use of employees on the construction
+project. Flush toilets shall be provided and the washing facilities shall
+consist of warm water, wash basins and soap. A building or a mobile,
+self-contained unit may be provided for such facilities. The number, types and
+maintenance of facilities shall conform to minimum standards set by the
+Director of the Department of Consumer and Business Services. 
+
+       (2) Subsection
+(1) of this section does not apply to highway construction or maintenance
+projects or to electricity, water, sewer or gas transmission facility
+construction or maintenance projects. 
+
+       (3) The director
+may, by order, exempt or partially exempt, individual or classes of
+construction projects from the requirements of subsection (1) of this section
+when conditions are such that compliance is impractical or impossible. [1975
+c.751 §2; 1993 c.450 §1] 
+
+   
+
+       654.154 [1995 c.163 §2; renumbered 654.172
+in 2005] 
+
+   
+
+       654.155 [Repealed by 1973 c.833 §48] 
+
+   
+
+       654.160
+Applicability of ORS 654.150 to be included in construction contracts;
+liability for cost of compliance. 
+(1) A statement as to whether or not ORS 654.150 applies at the construction
+site shall be included in the contract for a construction project. If the
+contract states that ORS 654.150 applies, the owner shall also include in the
+contract documents a provision designating which party to the contract is
+responsible for any costs that may be incurred in complying with ORS 654.150
+and the rules adopted pursuant thereto. 
+
+       (2) The owner of
+a construction site is liable to any contractor who is an employer at the site
+for costs incurred by the contractor if: 
+
+       (a)
+Representatives of the Director of the Department of Consumer and Business
+Services decide that ORS 654.150 applies to the construction project, and the
+contract documents did not designate which party to the contract for the
+project was responsible for complying with ORS 654.150 and the rules adopted
+pursuant thereto; and 
+
+       (b) The
+contractor incurs additional costs in complying with ORS 654.150. 
+
+       (3) In addition
+to being liable for the amount of the additional costs incurred, as provided by
+subsection (2) of this section, the owner is liable for interest on the amount
+at the rate of one percent per month from the date such contractor makes demand
+upon the owner to reimburse the contractor for such costs until the contractor
+is paid. [1977 c.129 §2] 
+
+   
+
+       654.165
+Employees not required to work bare-handed or rubber-gloved on high voltage
+lines. No employer
+shall require an employee to perform bare-handed or rubber-gloved work on a
+live electrical line with a voltage of 5,000 volts or greater. [1991 c.549 §2] 
+
+   
+
+       Note: 654.165 was added to and made a
+part of 654.001 to 654.295 by legislative action but was not added to any
+smaller series therein. See Preface to Oregon Revised Statutes for further
+explanation. 
+
+   
+
+       654.170
+Stairway railings and guards not required for certain public and historic
+buildings. Nothing
+in ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780 requires
+the installation of railings or guards on exterior stairways providing access
+to and egress from the State Capitol Building or the grand staircases to the
+chambers of the Senate and House of Representatives in the rotunda of the State
+Capitol Building or any staircase in any public monument or memorial or
+building of historic significance. [1977 c.780 §2] 
+
+   
+
+       654.172
+Exemption from inspection or investigation for certain agricultural activities. (1) Notwithstanding any other
+provision of the Oregon Safe Employment Act, an employer engaged in
+agricultural activities with 10 or fewer agricultural employees is exempt from
+inspection or investigation under ORS 654.067 under the following conditions: 
+
+       (a) There has not
+been a complaint filed pursuant to ORS 654.062 or, within the preceding
+two-year period, an accident at the employer’s agricultural place of employment
+resulting in death or serious disabling injury from violation of the Oregon
+Safe Employment Act or rules adopted pursuant thereto. 
+
+       (b) The employer
+and principal supervisors of the agricultural employees annually attend four
+hours of instruction on agricultural safety rules and procedures at a course
+conducted or approved by the Director of the Department of Consumer and
+Business Services. 
+
+       (c) The
+agricultural activities are inspected once every four years by an individual
+acting in a safety consultant capacity, and all violations found upon
+inspection are remedied within 90 days of the date of inspection. 
+
+       (2) In order to
+promote communication and understanding between the director and agricultural
+interests, the director shall appoint an agricultural advisory committee of
+seven agricultural employers, each with 10 or fewer agricultural employees, to
+review and consult with the director on the administration of the Oregon Safe
+Employment Act with regard to agricultural activities. [Formerly 654.154] 
+
+   
+
+       654.174
+Sanitation facilities for workers harvesting food crops; employer to post
+notice; rules. (1)
+Employers of workers who are engaged in field activities for the growing and
+harvesting of food crops intended for human consumption shall provide for such
+workers at convenient locations, and in accordance with such rules as the
+Director of the Department of Consumer and Business Services may prescribe: 
+
+       (a) Toilet
+facilities that are maintained in clean and sanitary condition, of such design
+and construction as to provide privacy and to prevent crop contamination and,
+where practicable, one toilet for each sex. 
+
+       (b) Handwashing
+facilities that provide clean water, soap or other suitable cleansing agent,
+paper towels and a method for disposal of used towels and wash water to avoid
+crop contamination. 
+
+       (c) Clean,
+potable drinking water served in a sanitary manner, which may include but is
+not limited to containers with spigots and tight fitting lids and disposable
+cups sufficient in number for each worker. 
+
+       (2) Every
+employer required to comply with subsection (1) of this section shall keep
+conspicuously posted a notice describing the requirements of that subsection
+and advising where complaints may be filed. The notice must be in the English
+language and in the language spoken by the majority of the employees. 
+
+       (3) The director
+shall promulgate rules to implement subsections (1) and (2) of this section
+which shall not be less protective than the rules on those subjects that are
+operative on July 9, 1985. [1985 c.423 §§2,3,5] 
+
+   
+
+       654.175 [Repealed by 1969 c.534 §2] 
+
+   
+
+ WORKPLACE SAFETY
+COMMITTEES 
+
+   
+
+       654.176 Safety
+committee or safety meeting required. 
+To promote health and safety in places of employment in this state, every
+public or private employer shall, in accordance with rules adopted pursuant to
+ORS 654.182, establish and administer a safety committee or hold safety
+meetings. [1981 c.488 §2; 1990 c.2 §1; 1995 c.83 §1; 2007 c.448 §1] 
+
+   
+
+       654.180 [Repealed by 1969 c.534 §2] 
+
+   
+
+       654.182 Rules
+for ORS 654.176; contents. 
+(1) In carrying out ORS 654.176, the Director of the Department of Consumer and
+Business Services shall adopt rules that include, but are not limited to,
+provisions: 
+
+       (a) Prescribing
+the membership of the committees to ensure equal numbers of employees, who are
+volunteers or are elected by their peers, and employer representatives and
+specifying the frequency of meetings. 
+
+       (b) Requiring
+employers to make adequate written records of each meeting and to file and
+maintain the records subject to inspection by the director. 
+
+       (c) Requiring
+employers to compensate employee representatives on safety committees at the
+regular hourly wage while the employees are engaged in safety committee
+training or are attending safety committee meetings. 
+
+       (d) Prescribing
+the duties and functions of safety committees, which include, but are not
+limited to: 
+
+       (A) Establishing
+procedures for workplace safety inspections by the committee. 
+
+       (B) Establishing
+procedures for investigating all safety incidents, accidents, illnesses and
+deaths. 
+
+       (C) Evaluating
+accident and illness prevention programs. 
+
+       (e) Prescribing
+guidelines for the training of safety committee members. 
+
+       (f) Prescribing
+alternate forms of safety committees and safety meetings to meet the special
+needs of small employers, agricultural employers and employers with mobile
+worksites. 
+
+       (g) Prescribing
+procedures for health care employers for investigating, collecting and
+reporting on incidents of workplace violence. 
+
+       (2) An employer
+that is a member of a multiemployer group operating under a collective
+bargaining agreement that contains provisions regulating the formation and
+operation of a safety committee that meets or exceeds the minimum requirements
+of this section and ORS 654.176 shall be considered to have met the
+requirements of this section and ORS 654.176. 
+
+       (3) As used in
+this section, “health care employer” and “workplace violence” have the meanings
+given those terms in ORS 654.412. [1981 c.488 §3; 1990 c.2 §2; 1991 c.746 §2;
+2007 c.448 §2; 2025 c.535 §1] 
+
+   
+
+       654.187 [1981 c.488 §4; repealed by 1991
+c.746 §1] 
+
+   
+
+       654.189 Safe
+Employment Education and Training Advisory Committee; members; terms; expenses;
+duties; meetings. 
+(1) The Director of the Department of Consumer and Business Services may
+appoint a Safe Employment Education and Training Advisory Committee composed of
+seven members: Three representing employees, three representing employers and
+one representing the Department of Consumer and Business Services. The
+committee shall elect its chairperson. 
+
+       (2) The members
+of the committee shall be appointed for a term of three years and shall serve
+at the pleasure of the director. Before the expiration of the term of a member,
+the director shall appoint a successor. A member is eligible for reappointment.
+If there is a vacancy for any cause, the director shall make an appointment to
+become immediately effective. 
+
+       (3) The members
+shall serve without compensation, but shall be entitled to travel expenses
+pursuant to ORS 292.495. 
+
+       (4) The duties of
+the committee shall be determined by the director and shall include, but not be
+limited to: 
+
+       (a) Recommending
+to the director: 
+
+       (A) Occupational
+Safety and Health Grant application procedures and criteria for grant approval; 
+
+       (B) Occupational
+Safety and Health Grant recipients; and 
+
+       (C) Revocation of
+grants to recipients failing to comply with grant criteria established by the
+director pursuant to ORS 654.191. 
+
+       (b) Receiving and
+processing Occupational Safety and Health Grant applications. 
+
+       (5) The committee
+shall meet at least once every three months at a place, day and hour determined
+by the committee. The committee shall also meet at other times and places
+specified by a majority of the members of the committee or the chairperson of
+the committee. A majority of the members of the committee constitutes a quorum
+for the transaction of business. [1989 c.857 §3] 
+
+   
+
+       654.191
+Occupational Safety and Health Grant program; rules. (1) The Director of the Department
+of Consumer and Business Services, in consultation with the Safe Employment
+Education and Training Advisory Committee, shall establish an Occupational
+Safety and Health Grant program to fund the education and training of employees
+in safe employment practices and conduct and to promote the development of
+employer-sponsored health and safety programs. 
+
+       (2) The director
+shall adopt rules establishing: 
+
+       (a) Grant
+application procedures and criteria for grant approval; and 
+
+       (b) Procedures
+for revocation of grants to recipients failing to comply with grant criteria
+established by the director pursuant to this section. 
+
+       (3) The director,
+after reviewing the recommendation of the Safe Employment Education and
+Training Advisory Committee, shall approve or deny an application for an
+Occupational Safety and Health Grant. If the director approves a grant under
+this section, the director shall set the amount of the grant awarded to the
+grant recipient. 
+
+       (4) The director
+shall monitor grant recipients for compliance with grant criteria and
+procedures established by the director. 
+
+       (5) The grants
+awarded under this section shall be funded only from the civil penalties paid
+into the Consumer and Business Services Fund under ORS 654.086. [1989 c.857 §2] 
+
+   
+
+       654.192 Labor
+organization not liable for injury resulting from absence of safety or health
+provision. When an
+employee incurs an injury compensable under ORS chapter 656, the discussion or
+furnishing, or failure to discuss or furnish, or failure to enforce any safety
+or health provision to protect employees against work injuries, in any
+collective bargaining agreement or negotiations thereon, shall not subject a
+labor organization representing the injured employee to any civil liability for
+the injury. [1981 c.488 §5] 
+
+   
+
+       654.194 [1985 c.683 §2; repealed by 1999
+c.232 §1] 
+
+   
+
+ HAZARD COMMUNICATION AND
+HAZARDOUS SUBSTANCES 
+
+   
+
+       654.196 Rules
+on contents of piping systems; posting notice on right to be informed of
+hazardous substances; withholding of information under certain circumstances. (1) The Director of the Department
+of Consumer and Business Services may by rule require employers to provide
+information to employees relating to the contents of piping systems. The rules
+shall include, but need not be limited to requirements for: 
+
+       (a) Labeling
+piping systems to provide notice about hazardous chemicals contained in the
+system; and 
+
+       (b) Labeling a
+piping system that uses asbestos as a pipe insulation material. 
+
+       (2) Every
+employer shall post a sign in the location where notices to employees are
+normally posted to inform employees that they have a right under this section
+and ORS 453.317 (6) to information from the employer regarding hazardous
+substances found in the place of employment. 
+
+       (3) The sign
+required under subsection (2) of this section shall include, but need not be
+limited to, the following information and shall be substantially in the
+following form: 
+
+ ______________________________________________________________________________ 
+
+ NOTICE TO EMPLOYEES 
+
+       You have a right
+under state law to information about hazardous substances found in your place
+of employment. For this information, contact your employer. 
+
+ ______________________________________________________________________________ 
+
+       (4)
+Notwithstanding any other provision of this chapter or ORS 192.311 to 192.478,
+an employer may withhold the precise chemical name of a chemical only if the
+employer can substantiate that: 
+
+       (a) The chemical
+name is a trade secret with commercial value that can be protected only by
+limiting disclosure; and 
+
+       (b) The
+commercial value of the product cannot be preserved by withholding the
+processes, mixture percentages or other aspects of the production of the
+product instead of its chemical constituents. 
+
+       (5) A trade
+secret designation claimed under subsection (4) of this section may be subject
+to yearly review. 
+
+       (6)
+Notwithstanding any other provision of this chapter or ORS 192.311 to 192.478,
+if a treating physician or health professional concludes that the chemical
+identity of a hazardous chemical used in an employer’s place of employment is
+necessary to prescribe necessary treatment for a patient, the employer may not
+require the physician or health professional to sign a confidentiality
+agreement as a condition to the release of the information by the employer, manufacturer
+or importer. [1985 c.683 §§3,4,5; 1999 c.232 §2; 2005 c.825 §18] 
+
+   
+
+ INJURED WORKERS’ 
+
+ MEMORIAL SCHOLARSHIP 
+
+   
+
+       654.200
+Scholarship account; use; standards for eligibility. (1) There is established in the
+Consumer and Business Services Fund the Workers’ Memorial Scholarship Account.
+Only the interest earned on moneys in the account shall be used by the Director
+of the Department of Consumer and Business Services for the establishment and
+administration of a scholarship program to pay education related expenses of
+the spouses and children of workers who are killed or who have received a
+permanent total disability award from injury on the job. A maximum of $1
+million to carry out the provisions of this section may be credited to the
+account from civil penalties recovered pursuant to ORS 654.086. 
+
+       (2) The director
+shall consult with the Safe Employment Education and Training Advisory
+Committee established pursuant to ORS 654.189 in determining the appropriate
+scholarship standard and in selecting the recipients. [1991 c.395 §2; 1993
+c.597 §1; 1999 c.1058 §1; 2017 c.635 §1] 
+
+   
+
+ HEALTH AND SANITATION
+INSPECTIONS 
+
+   
+
+       654.202
+Issuance of warrants for safety and health inspections. Magistrates authorized to issue
+search warrants may, upon application of the Director of the Department of
+Consumer and Business Services, or any public officer, agent or employee of the
+director acting in the course of official duties, issue an inspection warrant
+whenever an inspection or investigation of any place of employment is required
+or authorized by any state or local statute, ordinance or regulation relating
+to occupational safety or health. The inspection warrant is an order
+authorizing the safety or health inspection or investigation to be conducted at
+a designated place of employment. [1971 c.405 §1; 1973 c.833 §25; 1977 c.804 §41] 
+
+   
+
+       654.205 [Repealed by 1959 c.516 §6] 
+
+   
+
+       654.206
+Grounds for issuance of inspection warrants; requirements of affidavit. (1) An inspection warrant shall be
+issued only upon cause, supported by affidavit, particularly describing the
+applicant’s status in applying for the warrant hereunder, the statute,
+ordinance or regulation requiring or authorizing the inspection or
+investigation, the place of employment to be inspected or investigated and the
+purpose for which the inspection or investigation is to be made including the
+basis upon which cause exists to inspect. In addition, the affidavit shall
+contain either a statement that entry has been sought and refused or facts or
+circumstances reasonably showing that the purposes of the inspection or
+investigation might be frustrated if entry were sought without an inspection
+warrant. 
+
+       (2) Cause shall
+be deemed to exist if reasonable legislative or administrative standards for
+conducting a routine, periodic or area inspection are satisfied with respect to
+the particular place of employment, or there is probable cause to believe that
+a condition of nonconformity with a safety or health statute, ordinance,
+regulation, rule, standard or order exists with respect to the particular place
+of employment, or an investigation is reasonably believed to be necessary in
+order to determine or verify the cause of an employee’s death, injury or
+illness. [1971 c.405 §2; 1973 c.833 §26] 
+
+   
+
+       654.210 [Repealed by 1959 c.516 §6] 
+
+   
+
+       654.212
+Procedure for issuance of inspection warrant by magistrate. (1) Before issuing an inspection
+warrant, the magistrate may examine under oath the applicant and any other
+witness and shall be satisfied of the existence of grounds for granting such
+application. 
+
+       (2) If the
+magistrate is satisfied that cause for the inspection or investigation exists
+and that the other requirements for granting the application are satisfied, the
+magistrate shall issue the warrant, particularly describing the name and title
+of the person or persons authorized to execute the warrant, the place of
+employment to be entered and the purpose of the inspection or investigation.
+The warrant shall contain a direction that it be executed on any day of the
+week between the hours of 8:00 a.m. and 6:00 p.m., or where the magistrate has
+specially determined upon a showing that it cannot be effectively executed
+between those hours, that it be executed at any additional or other time of the
+day or night. [1971 c.405 §3; 1973 c.833 §27; 1987 c.158 §126] 
+
+   
+
+       654.215 [Repealed by 1959 c.516 §6] 
+
+   
+
+       654.216
+Execution of inspection warrants. 
+(1) Except as provided in subsection (2) of this section, in executing an
+inspection warrant, the person authorized to execute the warrant shall, before
+entry, make a reasonable effort to present the person’s credentials, authority
+and purpose to an occupant or person in possession of the place of employment
+designated in the warrant and show the occupant or person in possession of the
+place of employment the warrant or a copy thereof upon request. 
+
+       (2) In executing
+an inspection warrant, the person authorized to execute the warrant need not
+inform anyone of the person’s authority and purpose, as prescribed in
+subsection (1) of this section, but may promptly enter the designated place of
+employment if it is at the time unoccupied or not in the possession of any
+person or at the time reasonably believed to be in such condition. 
+
+       (3) A peace
+officer may be requested to assist in the execution of the inspection warrant. 
+
+       (4) An inspection
+warrant must be executed and returned to the magistrate by whom it was issued
+within 10 days from its date, unless such magistrate before the expiration of
+such time, by indorsement thereon, extends the time for five days. After the
+expiration of the time prescribed by this subsection, the warrant unless
+executed is void. [1971 c.405 §4; 1973 c.833 §28] 
+
+   
+
+       654.220 [Repealed by 1959 c.516 §6] 
+
+   
+
+       654.222 [1971 c.405 §5; repealed by 1973
+c.833 §15 (654.067 enacted in lieu of 654.047, 654.222 and 654.232)] 
+
+   
+
+       654.225 [Amended by 1959 c.516 §1;
+renumbered 654.047] 
+
+   
+
+       654.226 [1971 c.405 §6; repealed by 1973
+c.833 §29 (654.241 enacted in lieu of 654.105 and 654.226)] 
+
+   
+
+       654.230 [Repealed by 1959 c.516 §6] 
+
+   
+
+       654.232 [1971 c.405 §7; repealed by 1973
+c.833 §15 (654.067 enacted in lieu of 654.047, 654.222 and 654.232)] 
+
+   
+
+       654.235 [Amended by 1959 c.516 §2;
+renumbered 654.062] 
+
+   
+
+       654.240 [Repealed by 1959 c.516 §6] 
+
+   
+
+       654.241 [1973 c.833 §30 (enacted in lieu
+of 654.105 and 654.226); repealed by 1975 c.102 §4] 
+
+   
+
+       654.245 [Repealed by 1959 c.516 §6] 
+
+   
+
+       654.250 [Repealed by 1959 c.516 §6] 
+
+   
+
+       654.251
+Assistance to director from other state agencies; inspection of farm labor
+camps and facilities. 
+(1) The Bureau of Labor and Industries and any other state agency which is
+vested under separate statute with the authority to make inspections of places
+of employment, or to promulgate regulations, rules or standards relating to
+particular areas of occupational safety and health, shall render such advice
+and assistance to the Director of the Department of Consumer and Business
+Services as the director may reasonably request or prescribe in order to carry
+out the purposes of ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to
+654.780. When any state agency completes an inspection of a place of
+employment, it shall promptly notify the director and the affected employer of
+any condition that may violate any occupational safety or health law, regulation,
+rule or standard. 
+
+       (2) In addition
+to the inspection authority granted to the director and the representatives and
+designees of the director by ORS 654.001 to 654.295, 654.412 to 654.423 and
+654.750 to 654.780, the Bureau of Labor and Industries may inspect farm labor
+camps, fields and facilities prior to occupancy and as reasonably necessary or
+appropriate thereafter, and shall report any violation of occupational safety
+or health laws, regulations, rules or standards to the director or the
+designees of the director. [1973 c.833 §32 (enacted in lieu of 654.100); 1987
+c.414 §160] 
+
+   
+
+       654.255 [Amended by 1955 c.643 §1; 1957
+c.492 §1; 1959 c.516 §3; renumbered 654.092] 
+
+   
+
+       654.260 [Amended by 1955 c.643 §2;
+repealed by 1959 c.516 §6] 
+
+   
+
+       654.265 [Amended by 1955 c.644 §1;
+renumbered 654.093] 
+
+   
+
+       654.270 [Renumbered 654.094] 
+
+   
+
+       654.275 [Amended by 1959 c.516 §4;
+renumbered 654.096] 
+
+   
+
+       654.285
+Admissibility of rules and orders of department in evidence in proceedings
+under ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to 654.780. Except as provided in ORS 654.078
+(7), every regulation, rule, standard, finding, decision and order of the
+Department of Consumer and Business Services, general or special, made and
+entered under the provisions of ORS 654.001 to 654.295, 654.412 to 654.423 and
+654.750 to 654.780 and which has become final by operation of law or on appeal,
+shall be admissible as evidence in any hearing, civil proceeding or criminal
+prosecution conducted under the provisions of this chapter and shall, in every
+such hearing, proceeding or prosecution, be conclusively presumed to be
+reasonable and lawful and to fix a reasonable and proper standard and
+requirement of safety and health. [Formerly 654.085; 1977 c.804 §42] 
+
+   
+
+       654.290
+Applicability of Administrative Procedures Act; Administrative Law Judge
+qualifications. 
+(1) Promulgation by the Director of the Department of Consumer and Business
+Services or by the Workers’ Compensation Board of regulations, rules and
+standards authorized by ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750
+to 654.780, and any judicial review thereof, shall be as provided in ORS
+chapter 183. 
+
+       (2)
+Notwithstanding ORS 183.315 (1), the issuance of orders pursuant to ORS 654.001
+to 654.295, 654.412 to 654.423 and 654.750 to 654.780, the conduct of hearings
+in contested cases and the judicial review thereof shall be as provided in ORS
+chapter 183, except that: 
+
+       (a) The
+chairperson of the Workers’ Compensation Board or the designee of the
+chairperson shall employ Administrative Law Judges to hold hearings in
+contested cases. 
+
+       (b) The order of
+an Administrative Law Judge in a contested case shall be deemed to be a final
+order of the board. 
+
+       (c) The director
+shall have the same right to judicial review of the order of an Administrative
+Law Judge as any person who is adversely affected or aggrieved by such final
+order. 
+
+       (d) Affected
+employees or their authorized representative shall be accorded an opportunity
+to participate as parties in hearings. 
+
+       (3)
+Administrative Law Judges shall be licensees in good standing of the Oregon
+State Bar and possess such other qualifications as the board may prescribe, and
+shall be employed in accordance with ORS 656.724. [1973 c.833 §35 (enacted in
+lieu of 654.040, 654.065, 654.070, 654.075 and 654.080); 1975 c.759 §18; 1977
+c.804 §43; 1999 c.876 §1; 2025 c.32 §110] 
+
+   
+
+       654.293
+Representation of employer by attorney permitted. Neither ORS 9.320 nor any
+provision in the Oregon Safe Employment Act shall be construed to deny an
+employer the right to be represented by an attorney or any other authorized
+representative designated by the employer in any proceedings under ORS 654.001
+to 654.295, 654.412 to 654.423 and 654.750 to 654.780. [1975 c.370 §2] 
+
+   
+
+       654.295
+Application of Oregon Safe Employment Act. (1) Nothing contained in ORS 654.001 to 654.295,
+654.412 to 654.423 and 654.750 to 654.780 shall invalidate any existing
+occupational safety or health regulation, rule, standard or order which is not
+clearly inconsistent with the purposes and provisions of ORS 654.001 to
+654.295, 654.412 to 654.423 and 654.750 to 654.780. 
+
+       (2) Where any
+part of a law, regulation, rule, standard or order is found to be clearly
+inconsistent with ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to
+654.780 and declared to be invalid, it is the intent of the Legislative
+Assembly that the remaining provisions of such law, regulation, rule, standard
+or order remain in effect as fully as if the invalid part had not been adopted.
+[1973 c.833 §36] 
+
+   
+
+ EMPLOYER LIABILITY LAW 
+
+   
+
+       654.305
+Protection and safety of persons in hazardous employment generally. Generally, all owners, contractors
+or subcontractors and other persons having charge of, or responsibility for,
+any work involving a risk or danger to the employees or the public shall use
+every device, care and precaution that is practicable to use for the protection
+and safety of life and limb, limited only by the necessity for preserving the
+efficiency of the structure, machine or other apparatus or device, and without
+regard to the additional cost of suitable material or safety appliance and
+devices. [Amended by 1997 c.249 §199] 
+
+       654.310 Places
+of employment; compliance with applicable orders, rules. All owners, contractors,
+subcontractors, or persons whatsoever, engaged in the construction, repairing,
+alteration, removal or painting of any building, bridge, viaduct or other
+structure, or in the erection or operation of any machinery, or in the manufacture,
+transmission and use of electricity, or in the manufacture or use of any
+dangerous appliance or substance, shall see that all places of employment are
+in compliance with every applicable order, decision, direction, standard, rule
+or regulation made or prescribed by the Department of Consumer and Business
+Services pursuant to ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750 to
+654.780. [Amended by 1975 c.148 §1; 1977 c.804 §44] 
+
+   
+
+       654.315
+Persons in charge of work to see that ORS 654.305 to 654.336 are complied with. The owners, contractors,
+subcontractors, foremen, architects or other persons having charge of the
+particular work, shall see that the requirements of ORS 654.305 to 654.336 are
+complied with. 
+
+   
+
+       654.320 Who
+considered agent of owner. 
+The manager, superintendent, foreman or other person in charge or control of
+all or part of the construction, works or operation shall be held to be the
+agent of the employer in all suits for damages for death or injury suffered by
+an employee. 
+
+   
+
+       654.325 Who
+may prosecute damage action for death; damages unlimited. If there is any loss of life by
+reason of violations of ORS 654.305 to 654.336 by any owner, contractor or
+subcontractor or any person liable under ORS 654.305 to 654.336, the surviving
+spouse and children and adopted children of the person so killed and, if none,
+then the lineal heirs of that person and, if none, then the mother or father,
+as the case may be, shall have a right of action without any limit as to the
+amount of damages which may be awarded. If none of the persons entitled to
+maintain such action reside within the state, the executor or administrator of
+the deceased person may maintain such action for their respective benefits and
+in the order above named. 
+
+   
+
+       654.330 Fellow
+servant negligence as defense. 
+In all actions brought to recover from an employer for injuries suffered by an
+employee, the negligence of a fellow servant shall not be a defense where the
+injury was caused or contributed to by any of the following causes: 
+
+       (1) Any defect in
+the structure, materials, works, plant or machinery of which the employer or
+the agent of the employer could have had knowledge by the exercise of ordinary
+care. 
+
+       (2) The neglect
+of any person engaged as superintendent, manager, foreman or other person in
+charge or control of the works, plant, machinery or appliances. 
+
+       (3) The
+incompetence or negligence of any person in charge of, or directing the
+particular work in which the employee was engaged at the time of the injury or
+death. 
+
+       (4) The
+incompetence or negligence of any person to whose orders the employee was bound
+to conform and did conform and by reason of having conformed thereto the injury
+or death resulted. 
+
+       (5) The act of
+any fellow servant done in obedience to the rules, instructions or orders given
+by the employer or any other person who has authority to direct the doing of
+said act. 
+
+   
+
+       654.335 [Repealed by 2001 c.865 §19] 
+
+   
+
+       654.336 Comparative
+negligence. The
+provisions of ORS 31.600 to 31.620 apply to an action under ORS 654.305 to
+654.336. [2001 c.865 §17] 
+
+   
+
+ UTILITY VEHICLES 
+
+   
+
+       654.345 Safety
+standards for utility vehicle rentals. 
+(1) As used in this section: 
+
+       (a) “Contracting
+agency” has the meaning given that term in ORS 279A.010. 
+
+       (b)(A) “Rent”
+means a transfer of, or the act of transferring, in return for consideration
+and under conditions set forth in a written agreement, the right to possess and
+use a utility vehicle for a term of less than a year or for a period of time
+otherwise specified in the agreement. 
+
+       (B) “Rent” does
+not include an arrangement under which consideration that a contracting agency
+pays for use of the utility vehicle results in a transfer of ownership of the
+utility vehicle to the contracting agency. 
+
+       (c) “Utility
+vehicle” means a self-propelled vehicle with a gross vehicle weight of 5,000
+pounds or more that a driver operates for agricultural, construction,
+industrial, maritime, mining or forestry uses. 
+
+       (2) A person that
+rents a utility vehicle to a contracting agency shall, at the contracting
+agency’s request, provide: 
+
+       (a) Records that
+describe in detail the results of the most recent inspection that the person
+performed or had performed on the utility vehicle’s traction, structure, power
+train, control components and related parts and equipment in compliance with
+applicable rules, regulations or standards of: 
+
+       (A) The National
+Highway Traffic Safety Administration; 
+
+       (B) The American
+National Standards Institute; 
+
+       (C) The federal
+Mine Safety and Health Administration; 
+
+       (D) The United
+States Department of Transportation; 
+
+       (E) The
+Department of Transportation; 
+
+       (F) The federal
+Occupational Safety and Health Administration; and 
+
+       (G) The
+Department of Consumer and Business Services, with respect to occupational
+safety and health; 
+
+       (b) Instructions
+about how to comply with recommendations from the utility vehicle’s
+manufacturer for operating and maintaining the utility vehicle on and off the
+site where the contracting agency will use the utility vehicle and for safe
+work practices; 
+
+       (c) Records of
+all incidents in which use of the utility vehicle during previous rentals
+resulted in injuries or deaths because of equipment failure; and 
+
+       (d) A signed
+affidavit in which the person attests to compliance with applicable safety
+standards and to performing or having performed regular inspections of the
+utility vehicle. 
+
+       (3) If a person
+delivers to a work site specified under a public contract or other agreement a
+utility vehicle for usage by an employee of the contracting agency and upon
+inspection the utility vehicle does not meet applicable standards specified
+under subsection (2) of this section: 
+
+       (a) A contracting
+agency may delay paying any consideration due under an agreement to rent the
+utility vehicle until the person replaces the utility vehicle with a utility
+vehicle that meets the applicable standards or performs repairs or maintenance
+necessary to ensure that the utility vehicle meets the applicable standards;
+and 
+
+       (b) A contracting
+agency may seek an offset of or reimbursement for labor costs that the
+contracting agency incurs as a result of delays in work that are a consequence
+of the person’s initial delivery of a utility vehicle that does not meet
+applicable standards. The contracting agency may not seek reimbursement or an
+offset for costs that the contracting agency incurs after the contracting
+agency begins using the utility vehicle. 
+
+       (4) This section
+does not apply to a person that receives $100,000 or more in income from
+renting utility vehicles to other persons during the calendar year before the
+year in which the rental of the utility vehicle to the contracting agency
+occurs. [2021 c.234 §2] 
+
+   
+
+ SAFETY AND HEALTH
+PROFESSIONALS 
+
+   
+
+       654.400 Use of
+title of industrial hygienist, occupational health and safety technologist,
+construction health and safety technician or safety professional; cause of
+action. (1) No
+person may purport to be: 
+
+       (a) A certified
+industrial hygienist or use the initials CIH unless the person holds a current
+certification as an industrial hygienist from the American Board of Industrial
+Hygiene. 
+
+       (b) An industrial
+hygienist in training or use the initials IHIT unless the person holds a
+current designation as an industrial hygienist in training from the American
+Board of Industrial Hygiene. 
+
+       (c) A certified
+occupational health and safety technologist or use the initials OHST unless the
+person holds a current certification as an occupational health and safety
+technologist from the American Board of Industrial Hygiene or the Board of
+Certified Safety Professionals. 
+
+       (d) A certified
+construction health and safety technician or use the initials CHST unless the
+person holds a current certification as a construction health and safety
+technician from the American Board of Industrial Hygiene or the Board of
+Certified Safety Professionals. 
+
+       (e) A certified
+safety professional or use the initials CSP unless the person holds a current
+designation as a certified safety professional from the Board of Certified
+Safety Professionals. 
+
+       (f) An associate
+safety professional or use the initials ASP unless the person holds a current
+designation as an associate safety professional from the Board of Certified
+Safety Professionals. 
+
+       (2) The American
+Board of Industrial Hygiene, the Board of Certified Safety Professionals or a
+person lawfully practicing a profession listed in subsection (1) of this
+section may bring a private cause of action in the appropriate court to recover
+damages up to $1,000 against any person who violates subsection (1) of this
+section. The court may provide such equitable relief as it deems necessary or
+proper. The court may award reasonable attorney fees to the prevailing party in
+an action under this section. [1999 c.478 §1] 
+
+   
+
+       Note: 654.400 and 654.402 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 654 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation. 
+
+   
+
+       654.402
+Activities permitted under other designation, certification or license. ORS 654.400 does not prevent a
+person legally regulated in this state under any other licensing provisions,
+rules or regulations from engaging in the activities permitted under that
+designation, certification or license provided that the person does not use the
+titles or initials specified in ORS 654.400. [1999 c.478 §2] 
+
+   
+
+       Note: See note under 654.400. 
+
+   
+
+       654.405 [Repealed by 1973 c.833 §48] 
+
+   
+
+       654.410 [Repealed by 1973 c.833 §48] 
+
+   
+
+ SAFETY OF HEALTH CARE
+EMPLOYEES 
+
+   
+
+       654.412
+Definitions for ORS 654.412 to 654.423. As used in ORS 654.412 to 654.423: 
+
+       (1) “Assault”
+means intentionally, knowingly or recklessly causing physical injury. 
+
+       (2) “Energy
+generating device” means a tool that performs a surgical function using heat,
+laser, electricity or other form of energy. 
+
+       (3) “Health care
+employer” means: 
+
+       (a) An ambulatory
+surgical center as defined in ORS 442.015. 
+
+       (b) A hospital as
+defined in ORS 441.760, except for the Oregon State Hospital. 
+
+       (c) A home health
+agency as defined in ORS 443.014. 
+
+       (d) A home
+hospice program. 
+
+       (4) “Home health
+care services” means items or services furnished to a patient by an employee of
+a health care employer in a place of temporary or permanent residence used as
+the patient’s home. 
+
+       (5) “Home hospice
+program” means a coordinated program of home care, available 24 hours a day,
+that utilizes an interdisciplinary team of personnel trained to provide
+palliative and supportive services to a patient-family unit experiencing a life
+threatening disease with a limited prognosis. 
+
+       (6) “Smoke
+evacuation system” means equipment that effectively captures or neutralizes
+surgical smoke before the smoke makes contact with the eyes or the respiratory
+tract of the occupants of a room. 
+
+       (7) “Surgical
+smoke” means the by-product that results from contact with tissue by an energy
+generating device. 
+
+       (8) “Workplace
+violence” includes any act or threat of physical violence, harassment,
+intimidation, assault, homicide or any other threatening behavior that occurs
+in the workplace. [2007 c.397 §2; 2021 c.362 §3; 2025 c.535 §2] 
+
+   
+
+       654.413
+Required policies regarding surgical smoke. (1) A health care employer shall adopt policies that
+require the use of a smoke evacuation system during any surgical procedure that
+is likely to generate surgical smoke. The hospital or ambulatory surgical
+center may select any smoke evacuation system that accounts for surgical
+techniques and procedures vital to patient safety. 
+
+       (2) The
+Occupational Safety and Health Division of the Department of Consumer and
+Business Services shall ensure compliance with this section during any on-site
+inspection. [2021 c.362 §2] 
+
+   
+
+       654.414 Duties
+of health care employer; security and safety assessment; workplace violence
+prevention and protection program; requirements. (1) A health care employer, in
+consultation with the employer’s workplace safety committee described in ORS
+654.176, shall: 
+
+       (a) Conduct
+periodic security and safety assessments to identify existing or potential
+threats of workplace violence; 
+
+       (b) Develop and
+implement a workplace violence prevention and protection program for employees
+based on assessments conducted under paragraph (a) of this subsection; and 
+
+       (c) Provide
+workplace violence prevention and protection training on an annual basis for
+employees and any contracted security personnel who work at the premises of the
+health care employer. 
+
+       (2) An assessment
+conducted under subsection (1)(a) of this section shall include, but need not
+be limited to: 
+
+       (a) A measure of
+the frequency of workplace violence, including attempts of workplace violence,
+that are committed against employees on the premises of a health care employer
+or in the home of a patient receiving home health care services during the preceding
+five years or for the years that records are available if fewer than five years
+of records are available; 
+
+       (b) An analysis
+of the root causes and consequences of workplace violence committed against
+employees, including a plan for addressing the analyzed causes; and 
+
+       (c) Findings on
+the extent to which the security considerations described in subsection (3) of
+this section were implemented to mitigate risks of workplace violence. 
+
+       (3) A workplace
+violence prevention and protection program developed and implemented by a
+health care employer under subsection (1)(b) of this section shall incorporate
+and implement a workplace violence prevention and response plan. The plan
+shall: 
+
+       (a) Be based on
+an assessment conducted under subsection (1)(a) of this section. 
+
+       (b) Address
+security considerations related to the following: 
+
+       (A) Physical
+attributes of the health care setting; 
+
+       (B) Staffing
+plans, including security staffing; 
+
+       (C) Personnel
+policies; 
+
+       (D) First aid and
+emergency procedures; 
+
+       (E) Procedures
+for reporting incidents of workplace violence; and 
+
+       (F) Education and
+training for employees. 
+
+       (c) Include
+policies and procedures for: 
+
+       (A) Conducting
+internal investigations of incidents of workplace violence that occur on the
+premises of the health care employer. 
+
+       (B) Identifying
+employees involved in a workplace violence incident. 
+
+       (C) Conducting
+post-incident employee interviews for the purpose of gathering factual details
+about an incident of workplace violence. 
+
+       (D) Implementing
+post-incident response strategies that address the provision of: 
+
+       (i) First aid or
+medical care to employees who have been injured in a workplace violence
+incident; and 
+
+       (ii) Trauma
+counseling for employees affected by an incident of workplace violence. 
+
+       (4)(a) Workplace
+violence prevention and protection training required under subsection (1)(c) of
+this section shall address the following topics: 
+
+       (A) General
+safety and personal safety procedures, including emergency response guidelines
+that may be used to notify employees and contracted security personnel who work
+at the premises of the health care employer of a threat or occurrence of
+workplace violence; 
+
+       (B) The meaning
+of workplace violence; 
+
+       (C) Escalation
+cycles for assaultive behaviors and other violent or threatening behaviors; 
+
+       (D) Predictive
+factors of workplace violence; 
+
+       (E) Techniques
+for obtaining medical history from a patient with assaultive or other
+threatening or violent behavior; 
+
+       (F) Verbal and
+physical techniques to de-escalate and minimize assaultive behaviors and
+threats of workplace violence; 
+
+       (G) Strategies
+for avoiding physical harm and minimizing use of restraints; 
+
+       (H) Restraint
+techniques consistent with regulatory requirements; 
+
+       (I) Self-defense,
+including: 
+
+       (i) The amount of
+physical force that is reasonably necessary to protect the employee or a third
+person from assault; and 
+
+       (ii) The use of
+least restrictive procedures necessary under the circumstances, in accordance
+with an approved behavior management plan, and any other methods of response
+approved by the health care employer; 
+
+       (J) Procedures
+for documenting and reporting incidents involving assaultive behaviors and
+incidents of workplace violence; 
+
+       (K) Programs for
+post-incident counseling and follow-up; 
+
+       (L) Resources
+available to employees for coping with workplace violence; 
+
+       (M) The health
+care employer’s workplace violence prevention and protection program, including
+the health care employer’s internal investigation process for investigating
+incidents of workplace violence; 
+
+       (N) Visual cues
+and other methods that may be used to identify or notify employees about
+individuals exhibiting behavioral indicators of workplace violence; and 
+
+       (O) Responding to
+active shooter incidents. 
+
+       (b) A health care
+employer shall provide workplace violence prevention and protection training
+to: 
+
+       (A) A new
+employee, other than a temporary employee, within 90 days of the employee’s
+initial hiring date. 
+
+       (B) A temporary
+employee, within 14 days of the employee’s initial hiring date. 
+
+       (c) A health care
+employer may use classes, video recordings, brochures, verbal or written
+training or other training that the employer determines to be appropriate,
+based on an employee’s job duties, under the workplace violence prevention and
+protection program developed by the employer. 
+
+       (d) A health care
+employer shall ensure that a person with the appropriate knowledge and
+expertise is available to employees to answer questions and clarify any aspects
+of the workplace violence prevention and protection training through in-person
+interaction, phone, electronic mail or other reasonable means of communication. 
+
+       (5) Once a year,
+a health care employer shall establish, in coordination with the health care
+employer’s workplace safety committee as described in ORS 654.176, a process by
+which the committee shall review the health care employer’s workplace violence
+prevention and protection program developed and implemented under subsection
+(1)(b) of this section in order to evaluate the efficacy of the program and
+consider any changes to the program that are necessary to promote the
+prevention of workplace violence. 
+
+       (6)(a) A health
+care employer shall provide to each employee and, if applicable, to the
+employee’s union representative, a written copy of the workplace violence
+prevention and response plan described under subsection (3) of this section,
+including a written statement explaining that an employee who reports an
+incident of workplace violence has a right to be protected from retaliation. 
+
+       (b) For newly
+hired employees, the health care employer shall provide the copy of the plan
+and the accompanying statement within 30 calendar days from the date of hire. [2007
+c.397 §3; 2019 c.350 §4; 2025 c.535 §3] 
+
+   
+
+       654.415 [Repealed by 1973 c.833 §48] 
+
+   
+
+       654.416
+Required records of assaults against employees; contents; summary report;
+rules. (1) A
+health care employer shall maintain a record of assaults committed against
+employees that occur on the premises of the health care employer or in the home
+of a patient receiving home health care services. The record shall include, but
+need not be limited to, the following: 
+
+       (a) The name and
+address of the premises on which each assault occurred; 
+
+       (b) The date,
+time and specific location where the assault occurred; 
+
+       (c) The name, job
+title and department or ward assignment of the employee who was assaulted; 
+
+       (d) A description
+of the person who committed the assault as a patient, visitor, employee or
+other category; 
+
+       (e) A description
+of the assaultive behavior as: 
+
+       (A) An assault
+with mild soreness, surface abrasions, scratches or small bruises; 
+
+       (B) An assault
+with major soreness, cuts or large bruises; 
+
+       (C) An assault
+with severe lacerations, a bone fracture or a head injury; or 
+
+       (D) An assault
+with loss of limb or death; 
+
+       (f) An
+identification of the physical injury; 
+
+       (g) A description
+of any weapon used; 
+
+       (h) The number of
+employees, including nursing staff as defined in ORS 441.179, in the immediate
+area of the assault when it occurred; and 
+
+       (i) A description
+of actions taken by the employees and the health care employer in response to
+the assault. 
+
+       (2) A health care
+employer shall maintain the record of assaults described in subsection (1) of
+this section for no fewer than five years following a reported assault. 
+
+       (3)(a) Upon the
+request of an employee or of a workplace safety committee conducting a review
+pursuant to ORS 654.414, the health care employer shall generate and make
+available to the requesting party a report summarizing: 
+
+       (A) The
+information in the record required under subsection (1) of this section; and 
+
+       (B) Information
+regarding work-related injuries and illnesses recorded by the health care
+employer to comply with applicable federal health and safety recordkeeping
+requirements. 
+
+       (b) A report made
+available under this subsection: 
+
+       (A) May not
+include any personally identifiable information; and 
+
+       (B) May be used
+only for the purposes of conducting a review of the workplace violence
+prevention and protection program under ORS 654.414 or for other purposes that
+are related to improving the program. 
+
+       (4) The Director
+of the Department of Consumer and Business Services shall adopt by rule a
+common recording form for the purposes of this section. [2007 c.397 §4; 2019
+c.350 §5; 2025 c.535 §7] 
+
+   
+
+       654.417 Duty
+of Department of Consumer and Business Services to submit consolidated report
+of assault records and incidents of workplace violence occurring on premises of
+health care provider; requirements. 
+(1) Not later than December 31 of each year, the Department of Consumer and
+Business Services shall prepare and submit a consolidated report that includes
+the assault records that are made available under ORS 654.416 and the following
+information regarding incidents of workplace violence occurring on the premises
+of a health care employer: 
+
+       (a) The location
+where each workplace violence incident occurred. 
+
+       (b) The nature of
+the incident. 
+
+       (c) The nature
+and severity of any employee injuries stemming from the workplace violence
+incident. 
+
+       (d) The job
+titles of any employees who were injured as a result of workplace violence. 
+
+       (e) Any increases
+or decreases in the number of incidents of workplace violence since the
+previous study conducted under this section. 
+
+       (2) The
+department shall submit the report, in the manner provided in ORS 192.245,
+including recommendations for legislation, if any, to the interim committees of
+the Legislative Assembly related to business and labor. [2025 c.535 §5] 
+
+   
+
+       654.418
+Protection of employee of health care employer after assault by patient. If a health care employer directs
+an employee who has been assaulted by a patient on the premises of the health
+care employer to provide further treatment to the patient, the employee may
+request that a second employee accompany the employee when treating the
+patient. If the health care employer declines the employee’s request, the
+health care employer may not require the employee to treat the patient. [2007
+c.397 §5] 
+
+   
+
+       654.420 [Repealed by 1973 c.833 §48] 
+
+   
+
+       654.421
+Refusal to treat certain patients by home health care employee. (1) An employee who provides home
+health care services may refuse to treat a patient unless accompanied by a
+second employee if, based on the patient’s past behavior or physical or mental
+condition, the employee believes that the patient may assault the employee. 
+
+       (2) An employee
+who provides home health care services may refuse to treat a patient unless the
+employee is equipped with a communication device that allows the employee to
+transmit one-way or two-way messages indicating that the employee is being
+assaulted. [2007 c.397 §6] 
+
+   
+
+       654.423 Use of
+physical force by health care employee in self-defense against assault. (1) A health care employer may not
+impose sanctions against an employee who used physical force in self-defense
+against an assault if the health care employer finds that the employee: 
+
+       (a) Was acting in
+self-defense in response to the use or imminent use of physical force; 
+
+       (b) Used an
+amount of physical force that was reasonably necessary to protect the employee
+or a third person from assault; and 
+
+       (c) Used the
+least restrictive procedures necessary under the circumstances, in accordance
+with an approved behavior management plan, or other methods of response
+approved by the health care employer. 
+
+       (2) As used in
+this section, “self-defense” means the use of physical force upon another
+person in self-defense or to defend a third person. [2007 c.397 §7] 
+
+   
+
+       654.425 [Repealed by 1973 c.833 §48] 
+
+   
+
+       654.430 [Repealed by 1973 c.833 §48] 
+
+   
+
+       654.505 [Repealed by 1961 c.485 §29] 
+
+   
+
+       654.510 [Amended by 1953 c.514 §5; 1957
+c.201 §1; 1959 c.515 §1; repealed by 1961 c.485 §29] 
+
+   
+
+       654.515 [Repealed by 1961 c.485 §29] 
+
+   
+
+       654.520 [Amended by 1953 c.514 §5;
+repealed by 1961 c.485 §29] 
+
+   
+
+       654.525 [Amended by 1959 c.657 §1;
+repealed by 1961 c.485 §29] 
+
+   
+
+       654.530 [Amended by 1953 c.514 §5; 1957
+c.201 §2; repealed by 1961 c.485 §29] 
+
+   
+
+       654.532 [1953 c.514 §5; 1957 c.201 §3;
+repealed by 1961 c.485 §29] 
+
+   
+
+       654.535 [Amended by 1953 c.514 §5; 1957
+c.201 §4; repealed by 1961 c.485 §29] 
+
+   
+
+       654.540 [Amended by 1957 c.465 §11;
+repealed by 1961 c.485 §29] 
+
+   
+
+       654.545 [Amended by 1953 c.514 §5;
+repealed by 1961 c.485 §29] 
+
+   
+
+       654.550 [Amended by 1953 c.514 §5; 1957
+c.201 §5; repealed by 1961 c.485 §29] 
+
+   
+
+       654.605 [Repealed by 1973 c.833 §48] 
+
+   
+
+       654.610 [Repealed by 1973 c.833 §48] 
+
+   
+
+       654.705 [Repealed by 1967 c.150 §2] 
+
+   
+
+       654.710 [Repealed by 1967 c.150 §2] 
+
+   
+
+ REPORTS OF ACCIDENTS 
+
+ TO PUBLIC UTILITY
+COMMISSION 
+
+   
+
+       654.715 Report
+of accidents to Public Utility Commission; investigation; supplemental reports;
+rules. (1) Every
+public utility and telecommunications utility shall give immediate notice by
+telegraph, telephone or personally, to the Public Utility Commission whenever
+any accident occurs within this state upon its premises, or directly or
+indirectly arises from or is connected with its maintenance or operation, if
+the accident is attended by loss of human life or limb or serious injury to
+person or property. 
+
+       (2) The Public
+Utility Commission may, if the commission deems the public interest requires
+it, investigate each such accident forthwith, after giving the public utility
+or telecommunications utility involved reasonable notice of the time and place
+of such investigation. 
+
+       (3) The Public
+Utility Commission may adopt and amend rules and regulations governing the form
+and content of reports to the commission to enable the commission to ascertain
+relevant facts and circumstances attending such accident and the causes
+thereof. Whenever the original report is insufficient, in the opinion of the
+commission, the commission may require the public utility or telecommunications
+utility to file supplemental reports of accidents. [Amended by 1965 c.462 §2;
+1987 c.447 §137; 1995 c.733 §48] 
+
+   
+
+       654.720 Public
+inspection or use of reports as evidence prohibited. No report, or any part thereof,
+required by ORS 654.715, shall be open to public inspection or be used as
+evidence in any action for damages in any suit or action arising out of any
+matter mentioned in the report. 
+
+   
+
+ HAZARDOUS CHEMICALS
+USED 
+
+ IN AGRICULTURE 
+
+   
+
+       654.750
+Definitions for ORS 654.750 to 654.780. As used in this section and ORS 654.760, 654.770 and
+654.780, unless the context requires otherwise: 
+
+       (1) “Employee”
+means any individual, whether lawfully or unlawfully employed, who engages to
+furnish services for a remuneration, financial or otherwise, subject to the
+direction and control of an employer. 
+
+       (2) “Employer”
+means any person engaged in agriculture who engages one or more employees. 
+
+       (3) “Hazardous
+chemical” means any chemical which is a physical or health hazard. 
+
+       (4) “Health
+hazard” means a chemical for which there is statistically significant evidence,
+based on at least one study conducted in accordance with established scientific
+principles, that acute or chronic health effects may occur in exposed
+employees. The term “health hazard” includes chemicals which are carcinogenic,
+toxic or highly toxic agents, reproductive toxins, irritants, corrosives,
+sensitizers, hepatotoxins, nephrotoxins, neurotoxins, agents which act on the
+hematopoietic system, and agents which damage the lungs, skin, eyes or mucous
+membranes. 
+
+       (5) “Physical
+hazard” means a chemical for which there is scientifically valid evidence that
+it is a combustible liquid, a compressed gas, explosive, flammable, an organic
+peroxide, an oxidizer, pyrophoric, unstable or water-reactive compound. [1987
+c.832 §2] 
+
+   
+
+       654.760 Rules
+on hazardous chemicals, safety equipment and training. The Department of Consumer and
+Business Services shall adopt rules that require employers in agriculture to: 
+
+       (1) Provide
+adequate information to all of their employees about hazardous chemicals in use
+in the workplace and to which employees may reasonably be expected to be
+exposed; 
+
+       (2) Provide
+protective safety equipment determined by rule to be adequate; and 
+
+       (3) Provide
+adequate training for employees mixing, loading, applying or otherwise handling
+hazardous chemicals. [1987 c.832 §3; 1999 c.232 §3] 
+
+   
+
+       654.770 Basic
+information available to agricultural employers for employees; content;
+language. The
+Department of Consumer and Business Services shall develop and make available
+basic information for agriculture employers to use in informing and training
+employees pursuant to ORS 654.780. The information shall include, but need not
+be limited to, proper personal hygiene, protective safety equipment, general
+safety rules, proper work clothing, employee rights with respect to this
+chapter and common symptoms of hazardous chemical exposure. The basic
+information shall be made available in English, Spanish and any other language
+determined necessary by the Director of the Department of Consumer and Business
+Services after consideration of any input received from stakeholders. [1987
+c.832 §4; 2005 c.22 §460; 2011 c.352 §1] 
+
+   
+
+       654.780
+Providing basic information to employees. Agriculture employers shall give all employees a copy
+of the basic information developed by the Department of Consumer and Business
+Services for the purpose of informing employees pursuant to ORS 654.770. The
+information shall be provided in the employee’s own language if the department
+has produced it in that language. The information shall be provided to persons
+at the time of hire. [1987 c.832 §5; 2005 c.22 §461] 
+
+   
+
+       654.990 [Amended by 1959 c.516 §5; 1961
+c.485 §28; 1967 c.150 §1; repealed by 1973 c.833 §37 (654.991 enacted in lieu 
+
+ of 654.990)] 
+
+   
+
+ PENALTIES 
+
+   
+
+       654.991
+Penalties. (1)
+Subject to ORS 153.022, any employer who willfully violates any provision of,
+or any regulation, rule, standard or order promulgated pursuant to, ORS 654.001
+to 654.295, 654.412 to 654.423 and 654.750 to 654.780, and that violation is
+found to have caused or materially contributed to the death of any employee,
+shall, upon conviction, be punished by a fine of not more than $10,000 or by
+imprisonment for not more than six months, or by both; except that if the
+conviction is for a violation committed after a first conviction of such
+person, punishment shall be by a fine of not more than $20,000 or by
+imprisonment for not more than one year, or by both. For the purposes of this
+subsection, a violation is willful if it is committed knowingly by an employer
+or supervisory employee who, having a free will or choice, intentionally or
+knowingly disobeys or recklessly disregards the requirements of a regulation,
+rule, standard or order. ORS 161.085 shall apply to terms used in this section. 
+
+       (2) Any person
+who gives advance notice of any inspection to be conducted under ORS 654.001 to
+654.295, 654.412 to 654.423 and 654.750 to 654.780, without authority from the
+Director of the Department of Consumer and Business Services or the designees
+of the director, shall, upon conviction, be punished by a fine of not more than
+$1,000 or by imprisonment for not more than six months, or by both. 
+
+       (3) Whoever
+knowingly makes a false statement, representation, or certification in any
+application, record, report, plan, or other document filed or required to be
+maintained pursuant to ORS 654.001 to 654.295, 654.412 to 654.423 and 654.750
+to 654.780 shall, upon conviction, be punished by a fine of not more than
+$10,000 or by imprisonment for not more than six months, or by both. 
+
+       (4) Punishment
+under this section does not affect or lessen the civil liability of the
+offender. [1973 c.833 §38 (enacted in lieu of 654.990); 1977 c.455 §1; 1999
+c.1051 §321] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 
