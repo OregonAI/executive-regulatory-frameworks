@@ -219,8 +219,13 @@ profiles:
     governance: unclassified
     policies_published: unknown
   department-of-human-services:
-    governance: unclassified
-    policies_published: unknown
+    governance: executive_branch
+    governance_basis: ORS 409.010 (establishes the Department of Human Services) — in-repo
+    policies_published: web
+    policies_location: https://www.oregon.gov/odhs/rules-policy/Pages/agency-policies.aspx
+    notes: Administrative/agency policies ingested from the ODHS Rules & Policies SharePoint
+      list. The separate program Transmittals system (change-announcements) is out of scope
+      — see BACKLOG.
   department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities:
     governance: unclassified
     policies_published: unknown
@@ -397,8 +402,15 @@ profiles:
     governance: unclassified
     policies_published: unknown
   oregon-health-authority:
-    governance: unclassified
-    policies_published: unknown
+    governance: executive_branch
+    governance_basis: ORS 413.032 (establishes the Oregon Health Authority) and ORS 413.033
+      (OHA director) — both in-repo
+    policies_published: web
+    policies_location: https://www.oregon.gov/oha/osh/pages/policies.aspx
+    notes: Decentralized — policies published per division. Ingested the policy-publishing
+      divisions (Oregon State Hospital, Info-Security/Privacy Office, Public Health IRB);
+      Equity & Inclusion has no policy library (retired page). Attributed to this parent slug
+      (OSH/ISPO/IRB are not separate registry orgs).
   oregon-health-authority-health-licensing-office:
     governance: unclassified
     policies_published: unknown

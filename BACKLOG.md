@@ -3,23 +3,25 @@
 Hand-maintained list of known improvements deliberately deferred. (Distinct from
 [REVIEW.md](REVIEW.md), which is generated and tracks content needing human review.)
 
-## Deferred until a second agency's documents expose the need
+## Second-agency generalizations — DONE (DOC + OHA-OSH)
 
-- **Per-agency PDF page-furniture patterns** — `clean_pdf_text()` in
-  `src/ingest_lib.py` strips furniture with one shared regex tuned to DAS/OAM
-  layouts ("Statewide Policy", "OAM NN.NN.NN", "Level 1, Published"). Failure mode
-  is benign (unmatched headers stay in the verbatim text), but each new agency's
-  PDFs will have their own furniture. Move the patterns to data (per-agency lists
-  the ingest scripts load) instead of growing one regex forever. Trigger: first
-  agency whose extracted full text shows repeating page headers.
+- **Per-agency PDF page-furniture patterns** — DONE: `clean_pdf_text(raw, agency)` in
+  `src/ingest_lib.py` takes per-agency furniture via the `AGENCY_FURNITURE` dict.
+- **Per-agency policy-header patterns for the citation linker** — DONE: `link_graph.py`
+  `authority_text()` scans the full text for OHA policies (their references sit in a body
+  section, not a header block), and `policy_xrefs()` recognizes DAS/DOC/OSH policy numbers.
 
-- **Per-agency policy-header patterns for the citation linker** —
-  `authority_text()` in `src/link_graph.py` finds a policy's authority block via
-  the DAS layout (`PURPOSE|POLICY STATEMENT` boundary). Other agencies' policy
-  formats may differ, so their docs would get no edges. Detection is already
-  in place (REVIEW.md's "Unlinked rules/policies/procedures/standards" section
-  lights up); when it does, add that agency's header pattern rather than
-  hand-authoring edges.
+## Agency-policy coverage
+
+- **DHS Transmittals** — out of scope for the DHS import (which took only the clean
+  administrative/agency policies). The per-program Transmittals system (`/odhs/transmittals/*`
+  — Policy Transmittals, Action Requests, Info Memoranda) is a large SharePoint set,
+  anonymously queryable via `RenderListDataAsStream`, but the items are change-*announcements*.
+  Open question before ingesting: do they belong as `policy` docs or a new doc_type? Revisit
+  as a separate body.
+- **Remaining OHA divisions** — the policy import covers the divisions that publish policy
+  listings (OSH, OEI, ISPO, IRB). Other OHA sub-units are rules-only licensing boards; add a
+  `POLICY_PROFILES` entry only if one turns out to publish internal policies.
 
 ## Mass-OAR-import scale deferrals
 

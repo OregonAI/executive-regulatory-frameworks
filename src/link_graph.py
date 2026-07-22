@@ -40,6 +40,7 @@ DIV_LINK_CAP = 12  # division-level citations link all its rules only if small
 #   (DOC) Policy: 30.2.3      -> doc-30-2-3        (dotted triple, DOC numbering)
 DAS_POL_RE = re.compile(r"DAS Policy:?\s*(\d{3}-\d{3}-\d{3})", re.I)
 DOC_POL_RE = re.compile(r"\bPolicy:?\s*(\d{1,3}\.\d{1,2}\.\d{1,3})\b")
+OSH_POL_RE = re.compile(r"\bPolicy:?\s*(\d{1,2}\.\d{3})\b")   # OSH two-part number, e.g. 1.010
 
 REL_KEYS = ["implements", "implemented_by", "references_external", "related", "supersedes"]
 
@@ -81,9 +82,14 @@ def authority_text(fm, body):
                                        len(seg)) if x > -1])
                 parts.append("ORS " + seg[:end])  # ensure bare numbers count as ORS refs
     elif fm["doc_type"] in ("policy", "procedure", "manual", "standard"):
-        # header region: everything before the first substantive heading
-        m = re.search(r"\b(PURPOSE|POLICY STATEMENT|POLICY/)\b", t)
-        parts.append(t[: m.start()] if m else t[:2500])
+        if str(fm.get("agency", "")).startswith(
+                ("oregon-health-authority", "department-of-human-services")):
+            parts.append(t)  # OHA/DHS policies cite ORS/OAR/other policies in a body
+                             # "References" section, not a header authority block
+        else:
+            # header region: everything before the first substantive heading
+            m = re.search(r"\b(PURPOSE|POLICY STATEMENT|POLICY/)\b", t)
+            parts.append(t[: m.start()] if m else t[:2500])
     elif fm["doc_type"] == "executive_order":
         # orders are short and cite their authority inline throughout
         parts.append(t)
@@ -124,6 +130,11 @@ def policy_xrefs(text, docs, self_id):
         tid = "doc-" + num.replace(".", "-")
         if tid in docs:
             out.add(tid)
+    if self_id.startswith("oha-osh"):        # OSH policies cross-reference sibling OSH policies
+        for num in OSH_POL_RE.findall(text):
+            tid = "oha-osh-" + num.replace(".", "-")
+            if tid in docs:
+                out.add(tid)
     out.discard(self_id)
     return out
 

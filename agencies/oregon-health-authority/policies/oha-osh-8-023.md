@@ -1,0 +1,163 @@
+---
+id: oha-osh-8-023
+title: "Parking and Parking Registration"
+doc_type: policy
+citation: "OSH Policy 8.023"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/8.023%20Parking%20and%20Parking%20Registration/8.023%20Parking%20and%20Parking%20Registration.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "8ba1cf308d37541af12321640390419b863c9b16d424bb0a7ec37c9156031dce"
+effective_date: "2024-12-17"
+last_reviewed: null
+source_version: "Effective DECEMBER 17, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - ors-167.310
+    - ors-167.350
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/8.023%20Parking%20and%20Parking%20Registration/8.023%20Parking%20and%20Parking%20Registration.pdf> (retrieved 2026-07-21).
+
+# Parking and Parking Registration (OSH Policy 8.023)
+
+## At a glance
+
+OSH Policy 8.023 — Parking and Parking Registration. Oregon State Hospital (Oregon Health Authority). Effective DECEMBER 17, 2024.
+
+## Full text
+
+                      OREGON STATE HOSPITAL
+                                            POLICY
+ SECTION 8:        Safety, Security, Emergency                                POLICY: 8.023
+                   Management
+
+ SUBJECT:          Parking and Parking Registration
+
+ POINT PERSON:     Director of Security
+
+ APPROVED:         Sara Walker, MD                               DATE: DECEMBER 17, 2024
+
+                   Interim Superintendent
+
+ SELECT ONE:
+
+I. APPLICABILITY STATEMENT
+   A. Oregon State Hospital (OSH) will establish parking guidelines and designate
+      parking spaces on OSH campuses for motorized vehicles, electric vehicle (EV)
+      charging, motorcycles, and bicycles in accordance with state and city regulations.
+      Only the Superintendent or appointed authority may designate reserved parking
+      spaces.
+   B. This policy applies to all staff, including employees, volunteers, trainees, interns,
+      contractors, vendors, and other state employees assigned to work at OSH.
+
+II. POLICY
+   A. OSH Security will monitor campus grounds to verify vehicles, motorcycles and
+      bicycles are parked in accordance with this policy and will act as outlined in this
+      policy and related procedures to address parking violations.
+   B. All staff must register vehicles which regularly park on OSH grounds as
+      delineated in attached parking registration procedures.
+   C. Staff must abide by reserved parking spaces indicated by signage. Failure to do
+      so will result in a parking violation. Parking violations will be handled in
+      accordance with procedures attached to this policy.
+       1. Staff may park in visitor-designated parking spaces between the hours of
+          8:00 p.m. – 07:00 a.m.
+
+SUBJECT:    Parking and Parking Registration                          POLICY NUMBER 8.023
+DATE:       December 17, 2024                                                   PAGE 2 OF 3
+
+        2. Staff may not park a personally owned vehicle in “State Vehicle Only” parking.
+        3. Staff may not park in museum parking area.
+        4. “Administration Only” parking is reserved for Executive Leadership, their
+           special guests, and the Oregon Health Authority Director.
+        5. Only persons with current disabled parking placards may park in designated
+           disabled parking spaces. Current placards must be displayed at all times if
+           staff are parked in a disabled parking space. All vehicles illegally parked in
+           disabled parking areas will be reported to appropriate city or state officials.
+            a. Persons with current disabled parking placards may park in visitation
+                parking if no designated disabled parking spaces are available.
+        6. Only EVs may park in designated EV parking spaces. EVs may only be
+           recharged at the pay-to-charge stations provided by OSH.
+            a. EVs may only be parked in EV parking spaces while they are actively
+                charging. If not charging, EVs must be parked in regular staff parking.
+        7. Only motorcycles may park in designated motorcycle parking spaces.
+        8. Recognized staff selected for designated employee recognition parking
+           spaces may park in the space assigned with the employee recognition
+           parking tag visibly hanging from the rear-view mirror or displayed on dash.
+            a. Staff who receive the Recognized Employee parking space and who
+                decide to loan the space to another staff must give that staff the parking
+                recognition tag to hang on their mirror and notify reception.
+        9. Bicycles must be parked at designated bicycle parking areas. Bicycles that
+           are abandoned, in disrepair, or found outside of the bicycle parking areas on
+           OSH property will be removed, impounded, and sent to volunteer services.
+   E. Motorized vehicles must park within the designated lines and may not take up
+      more than one parking space, this includes parking over the line. Vehicles should
+      not extend over the sidewalk or divider.
+   F. Motorized vehicles may not be parked in or on lawns, sidewalks, walkways,
+      emergency vehicle lanes, dirt paths, or any other area not designated for vehicle
+      parking.
+   G. Overnight camping in vehicles on OSH property is prohibited.
+   H. Per Oregon Revised Statute (ORS) 167.310 to ORS 167.350, animals may not
+      be left in parked vehicles on OSH property.
+   I. Personally owned vehicle maintenance or repair, except for changing tires,
+      lockouts, or towing, is prohibited.
+        1. Staff must notify Reception or the Security Utility Team if their car is unable to
+        be moved from the OSH lot due to maintenance issues.
+
+SUBJECT:    Parking and Parking Registration                         POLICY NUMBER 8.023
+DATE:       December 17, 2024                                                PAGE 3 OF 3
+
+   J. Vehicles that are abandoned on OSH property will have a 24-hour vehicle
+      noticed affixed by the Oregon State Police. If the vehicle is not removed within
+      the 24-hour period, the vehicle will be removed and towed at the owner’s
+      expense.
+   K. OSH assumes no liability for damages incurred to vehicles towed. The vehicle
+      owner will be liable for all towing costs and storage fees.
+   N. This policy does not apply to emergency vehicles operated by public police, fire,
+      or airport security agencies or designated by the Director of Transportation or by
+      a federal agency as an emergency vehicle.
+   O. OSH follows all applicable regulations, including federal and state statutes and
+      rules; Oregon Department of Administrative Services (DAS), Shared Services,
+      and Oregon Health Authority (OHA) policies; and relevant accreditation
+      standards. Such regulations supersede the provisions of this policy unless this
+      policy is more restrictive.
+   P. Staff who fail to comply with this policy or related policy attachments or protocols
+      may be subject to disciplinary action, up to and including dismissal.
+
+III. DEFINITIONS
+   “Staff” includes employees, volunteers, trainees, interns, contractors, vendors, and
+      other state employees assigned to work at Oregon State Hospital (OSH).
+
+IV. PROCEDURES
+   Procedures A       Parking Registration
+
+V. ATTACHMENTS
+   Attachment A       Parking Registration Form
+
+VI. REFERENCES
+   Oregon Revised Statutes §§ 98.805—98.992.
+   Oregon Revised Statutes §§ 167.310—167.350.
+   Junction City Uniform Traffic Ordinance Chapter 10.05 §010-450.
+   Salem Revised Code Title 09 § 100—102.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/8.023%20Parking%20and%20Parking%20Registration/8.023%20Parking%20and%20Parking%20Registration.pdf> · retrieved 2026-07-21 · sha256 `8ba1cf308d37541af12321640390419b863c9b16d424bb0a7ec37c9156031dce`
+- Snapshot: `_meta/snapshots/oha-osh-8-023.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

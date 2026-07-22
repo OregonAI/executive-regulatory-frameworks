@@ -1,0 +1,131 @@
+---
+id: oha-osh-1-010
+title: "Research at OSH"
+doc_type: policy
+citation: "OSH Policy 1.010"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/1.010%20Research%20at%20OSH/1.010%20Research%20at%20OSH.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "53cc6a4448b72bf2dbfc1c6d1c7e312a6a31c5b0dd9e80dbcf6557562e22ff7a"
+effective_date: "2024-05-15"
+last_reviewed: null
+source_version: "Effective MAY 15, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-943-014-0000
+    - oar-943-014-0465
+  implemented_by: []
+  references_external: []
+  related:
+    - oha-osh-1-014
+    - oha-osh-2-008
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/1.010%20Research%20at%20OSH/1.010%20Research%20at%20OSH.pdf> (retrieved 2026-07-21).
+
+# Research at OSH (OSH Policy 1.010)
+
+## At a glance
+
+OSH Policy 1.010 — Research at OSH. Oregon State Hospital (Oregon Health Authority). Effective MAY 15, 2024.
+
+## Full text
+
+                     OREGON STATE HOSPITAL
+                                          POLICY
+SECTION 1:       Administration                                              POLICY:1.010
+
+SUBJECT:         Research at Oregon State
+                 Hospital
+
+POINT PERSON:    Research Committee Chair
+
+APPROVED:        Sara Walker, MD                                      DATE: MAY 15, 2024
+
+                 Interim Superintendent
+
+SELECT ONE:      New policy                               Minor/technical revision of
+                                                          existing policy
+
+                 Reaffirmation of existing policy         Major revision of existing policy
+
+PURPOSE AND APPLICABILITY
+A. This policy establishes and defines the function of the Research Committee (RC) at
+   Oregon State Hospital (OSH). The purpose of the RC is to review and promote
+   internal research, recruit external research, ensure patient and staff privacy, protect
+   patient rights, and guide research through the OSH system.
+B. This policy applies to all staff including employees, volunteers, trainees, interns,
+   contractors, vendors, and other state employees assigned to work at OSH.
+
+I. POLICY
+A. All research conducted at Oregon State Hospital (OSH) must be reviewed by the
+   OSH Research Committee (RC) and the Oregon Health Authority (OHA)
+   Institutional Review Board (IRB). Both the RC and OHA IRB approval must be
+   secured before commencing the research study at OSH.
+B. The RC is responsible for determining whether a particular research study is
+   appropriate and feasible for OSH.
+C. Any IRB authorized by the RC to review a project must have a current Federal-wide
+   Assurance, federal registration through the Department of Health and Human
+   Services, and a signed authorization agreement with OSH.
+D. OSH follows all applicable regulations, including federal and state statutes and
+   rules; Oregon Department of Administrative Services, Shared Services, and Oregon
+   Health Authority policies; and relevant accreditation standards. Such regulations
+   supersede the provisions of this policy unless this policy is more restrictive.
+E. Staff who fail to comply with this policy or related procedures may be subject to
+   disciplinary action, up to and including dismissal.
+
+ S UBJECT :    Research at OSH                                P OLICY N UMBER : 1.010
+
+    D ATE :    M AY 15, 2024                                              P AGE 2 OF 2
+
+II. DEFINITIONS
+
+   A. “Research,” for the purpose of this policy, means a systematic investigation
+      including research development, testing and evaluation designed to develop or
+      contribute to generalizable knowledge based on data collected from OSH staff or
+      patients. For the purposes of OSH, research does not include activities such as
+      program evaluation or quality improvement data collection and analysis, unless
+      the expressed purpose of that activity is to contribute to the generalizable
+      knowledge through publication or other means.
+
+   B. “Institutional Review Board” means a committee that has been formally
+      designated to approve, monitor, and review research involving humans with the
+      aim to protect the rights and welfare of the research subjects.
+
+   C. “Human subjects” for the purpose of this policy includes patients and health care
+      personnel (HCP) who participate in research at OSH.
+   D. “Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
+      and other state employees assigned to work at Oregon State Hospital (OSH).
+
+PROCEDURES
+Procedures A          Research Requests
+
+RELATED OSH POLICIES AND PROTOCOLS
+   OSH Policy 1.014 Data Governance
+   OSH Policy 2.008 Privacy and Security of Patient Information
+
+REFERENCES
+Oregon Administrative Rule § 943-014-0000 — 943-014-0465.
+
+Centers for Disease Control and Prevention. (2021, June 29). Additional requirement –
+    31. Centers for Disease Control and Prevention.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/1.010%20Research%20at%20OSH/1.010%20Research%20at%20OSH.pdf> · retrieved 2026-07-21 · sha256 `53cc6a4448b72bf2dbfc1c6d1c7e312a6a31c5b0dd9e80dbcf6557562e22ff7a`
+- Snapshot: `_meta/snapshots/oha-osh-1-010.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

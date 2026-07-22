@@ -1,0 +1,148 @@
+group: oregon-health-authority-ispo-policies
+title: Oregon Health Authority Information Security & Privacy Office (ISPO) policies
+kind: content-hash
+recheck: monthly
+last_checked: '2026-07-21'
+upstream_signal: 'SharePoint LIST (not a document library) at /odhs/rules-policy (Lists/policiesguidelines),
+  queried via RenderListDataAsStream, same API technique as the sharepoint doc-library profiles but with
+  structured columns (PolicyNumber, Agency_x0020_1, EffectiveDate, PoliciesAndGuidelinesTitle=PDF url,
+  .desc=title) instead of FileRef paths. Filtered to top-level (no ''-NN'' sub-process suffix) 090-xxx/100-xxx
+  info-security & privacy policies with Agency in {''ODHS|OHA Shared'',''OHA''}. No POLICY_PROFILES discovery
+  function fits a SharePoint LIST (only doc-library and DOC-style static-HTML are implemented), so this
+  manifest was built by hand from that list''s own rows; PDFs are served from sharedsystems.dhsoha.state.or.us,
+  which sends an incomplete TLS chain (missing DigiCert Global G2 TLS RSA SHA256 2020 CA1 intermediate)
+  -- ingest with SSL_CERT_FILE set to a bundle that supplies that intermediate (chain completion, not
+  verification bypass). Freshness: re-query the list, diff PolicyNumber set, re-hash members.'
+sources:
+- id: oha-ispo-090-003
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ME090-003.pdf
+  sha256: f22c848687c0b4620de59647c9201e21ff6716d3c8763188f4b6e8e71e46a69d
+  last_checked: '2026-07-21'
+  notes: Access Control Policy (ODHS|OHA Policy 090-003)
+- id: oha-ispo-090-004
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me090-004.pdf
+  sha256: 6dd4891d1e9d55b8bdaa3d99a9f02744dffd57452a67a8472042d0cd581adacf
+  last_checked: '2026-07-21'
+  notes: Information Security and Privacy Awareness and Training Policy (ODHS|OHA Policy 090-004)
+- id: oha-ispo-090-005
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me090-005.pdf
+  sha256: 56ce2ca8ad7be014885aadf7e70abbd58acc68cc363fb83af1e6e02e30e0ef73
+  last_checked: '2026-07-21'
+  notes: Information Security Incident Management Policy (ODHS|OHA Policy 090-005)
+- id: oha-ispo-090-006
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me090-006.pdf
+  sha256: 2aadbf9b5b31a8652a82077026f73357fddd7f36c49b18e7941aa168e4a841ed
+  last_checked: '2026-07-21'
+  notes: Information Security Risk Assessment Policy (ODHS|OHA Policy 090-006)
+- id: oha-ispo-090-007
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me090-007.pdf
+  sha256: a22f5b24d6096f8c7c9ae7ab6367e14b38ce6d3a24d3b94f8c2fb1e64c5aa48f
+  last_checked: '2026-07-21'
+  notes: Information Technology Vulnerability Management Policy (ODHS|OHA Policy 090-007)
+- id: oha-ispo-090-009
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me090-009.pdf
+  sha256: fc0952394471672b3c6dbfdbda78ba360e2358943834ce697d4236f82c63f0bb
+  last_checked: '2026-07-21'
+  notes: Administrative, Technical and Physical Safeguards of Information Policy (ODHS|OHA Policy 090-009)
+- id: oha-ispo-090-011
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me090-011.pdf
+  sha256: d92eaa97876df3bd1c5856a8ddf38058a6bd65f4d04a9b304f4d2eaefea41c89
+  last_checked: '2026-07-21'
+  notes: Media Protection and Disposal Policy (ODHS|OHA Policy 090-011)
+- id: oha-ispo-090-012
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me090-012.pdf
+  sha256: 05c313499c22037feaa724450c852f56c0e66686f4bef42534eebac2367eb2b6
+  last_checked: '2026-07-21'
+  notes: Information System Maintenance Policy (ODHS|OHA Policy 090-012)
+- id: oha-ispo-090-013
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//me090-013.pdf
+  sha256: 7b27ca28eb8f8d0f696c4a4cf2a043fcaf4c6a6c8cd17e41d0e2f7a6731e836a
+  last_checked: '2026-07-21'
+  notes: Administrative Privileges Policy (ODHS|OHA Policy 090-013)
+- id: oha-ispo-090-014
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me090-014.pdf
+  sha256: 0396b7bfd6a3a2d7bf6c0b03a1174dea8f4b5065fe44e2d42d68fcc31bf874d5
+  last_checked: '2026-07-21'
+  notes: Password Policy (ODHS|OHA Policy 090-014)
+- id: oha-ispo-090-015
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//me090-015.pdf
+  sha256: a02499b8f200234c56ac121299d3dc683d8c858380a7de76747fe93c329a6d20
+  last_checked: '2026-07-21'
+  notes: Email Security Policy (ODHS|OHA Policy 090-015)
+- id: oha-ispo-090-016
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me090-016.pdf
+  sha256: a479c26e1cd62bf7826d25c987419fdb5e176b55bdbb16d7e4f2f61957c8fed5
+  last_checked: '2026-07-21'
+  notes: Information Technology Risk Management Policy (ODHS|OHA Policy 090-016)
+- id: oha-ispo-090-019
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me090-019.pdf
+  sha256: 2ff08ade5c4a793820ce74d591f7fdd29a0b7c9aca13c066261c4704fd635eb5
+  last_checked: '2026-07-21'
+  notes: eDiscovery Program Policy (ODHS|OHA Policy 090-019)
+- id: oha-ispo-100-001
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me100-001.pdf
+  sha256: 3a327a82960577d431185b4a66263de8ef098f9078349844c7804fe6e2e62c93
+  last_checked: '2026-07-21'
+  notes: Privacy Policy (ODHS|OHA Policy 100-001)
+- id: oha-ispo-100-002
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me100-002.pdf
+  sha256: 37d2971d72cd13472e9fcd5cd95e9c28ffdeaa7097e4a5059a9872470fa36519
+  last_checked: '2026-07-21'
+  notes: 'HIPAA: Notice of Privacy Practices Policy (ODHS|OHA Policy 100-002)'
+- id: oha-ispo-100-003
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me100-003.pdf
+  sha256: 66b0643be8aebcbb8cfb11cd313b4245fe20e7e1b677be1c8304408555bdb87a
+  last_checked: '2026-07-21'
+  notes: 'HIPAA: Accessing Individual Records (ODHS|OHA Policy 100-003)'
+- id: oha-ispo-100-004
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//me100-004.pdf
+  sha256: 50b52e55624528340fd45e2908849668595fd9605546bd256eaa37fc5698851c
+  last_checked: '2026-07-21'
+  notes: 'HIPAA: Recording and Accounting for Disclosures of Individual Information (ODHS|OHA Policy 100-004)'
+- id: oha-ispo-100-005
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//me100-005.pdf
+  sha256: 17dd1f5c6126c23a73642589e23b9720849424458a5f6ddcfaa02d9d4feb1bcd
+  last_checked: '2026-07-21'
+  notes: 'HIPAA: Restricting Access to Individual Information (ODHS|OHA Policy 100-005)'
+- id: oha-ispo-100-006
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//me100-006.pdf
+  sha256: ff19381ed953d48a4c3ad5dde3aa8a8437519ff295ef7ea672992b8f4a18a54f
+  last_checked: '2026-07-21'
+  notes: 'HIPAA: Amending Individual Records (ODHS|OHA Policy 100-006)'
+- id: oha-ispo-100-007
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//me100-007.pdf
+  sha256: 8b88f13aaee94d7e6f2ade1e90311b12128a6d847b15c9d9e162863401df9b68
+  last_checked: '2026-07-21'
+  notes: 'HIPAA: Right to Request Alternative Communications (ODHS|OHA Policy 100-007)'
+- id: oha-ispo-100-008
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//me100-008.pdf
+  sha256: a7a96f0fc632ae0f440f77262519feff345aca4243d01fe2d907a3b1d4bc1242
+  last_checked: '2026-07-21'
+  notes: 'HIPAA: Minimum Necessary Requirements (ODHS|OHA Policy 100-008)'
+- id: oha-ispo-100-010
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me100-010.pdf
+  sha256: 060764b39a8382fe89e2f573e8c2a168c1a0af284b5f8dcc7b0d993a46a9190b
+  last_checked: '2026-07-21'
+  notes: Release and Waivers for Use and Disclosure for Research and Reporting Policy (ODHS|OHA Policy
+    100-010)
+- id: oha-ispo-100-011
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me100-011.pdf
+  sha256: a7e0acba32556f3872ce26aab8900a4983d9ef0dd5580e9948c75cc79d2377aa
+  last_checked: '2026-07-21'
+  notes: De-identification of Individual Information and Use of Limited Data Sets Policy (ODHS|OHA Policy
+    100-011)
+- id: oha-ispo-100-012
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//me100-012.pdf
+  sha256: f986cae50babb01fddf861c5c53e69315932ba5e00d8624d12a03f2932391655
+  last_checked: '2026-07-21'
+  notes: Enforcement of Individual Privacy Violations (ODHS|OHA Policy 100-012)
+- id: oha-ispo-100-013
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//me100-013.pdf
+  sha256: f49019b93305740d733626479d4c7af56383912fc6b89d18b72763f6b96a734e
+  last_checked: '2026-07-21'
+  notes: 'HIPAA: ODHS|OHA Business Associate Relationships (ODHS|OHA Policy 100-013)'
+- id: oha-ispo-100-014
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ME100-014.pdf
+  sha256: 919b34f9815f2bcec6d652637bff979577dd02aaca5014914790ba0cb2233c99
+  last_checked: '2026-07-21'
+  notes: Report and Response to Privacy Incidents (ODHS|OHA Policy 100-014)

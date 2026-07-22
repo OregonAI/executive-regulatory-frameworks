@@ -1,0 +1,172 @@
+---
+id: oha-osh-5-030
+title: "Credentialing for Non-MAHPS Staff"
+doc_type: policy
+citation: "OSH Policy 5.030"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/5.030%20Credentialing%20for%20Non-MAHPS%20Staff/5.030%20Credentialing%20for%20Non-MAHPS%20Staff.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "7db179e1b61ebd82fe4994a1ed6d001cbecc6f6aa4780b7c7443ef5632d85669"
+effective_date: "2024-07-25"
+last_reviewed: null
+source_version: "Effective JULY 25, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-333-505-0040
+    - oar-333-510-0020
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/5.030%20Credentialing%20for%20Non-MAHPS%20Staff/5.030%20Credentialing%20for%20Non-MAHPS%20Staff.pdf> (retrieved 2026-07-21).
+
+# Credentialing for Non-MAHPS Staff (OSH Policy 5.030)
+
+## At a glance
+
+OSH Policy 5.030 — Credentialing for Non-MAHPS Staff. Oregon State Hospital (Oregon Health Authority). Effective JULY 25, 2024.
+
+## Full text
+
+                     OREGON STATE HOSPITAL
+                                          POLICY
+SECTION 5:       Human Resources                                          POLICY: 5.030
+
+SUBJECT:         Credentialing for Non-MAHPS
+                 Staff Providing Care or Services
+                 to Patients
+
+POINT PERSON:    Chief Medical Officer
+
+APPROVED:        Sara Walker, MD                                   DATE: JULY 25, 2024
+
+                 Interim Superintendent
+
+SELECT ONE:      New policy                             Minor/technical revision of
+                                                        existing policy
+
+                 Reaffirmation of existing policy       Major revision of existing policy
+
+ I. PURPOSE AND APPLICABILITY
+   A. This policy outlines Oregon State Hospital (OSH) requirements for verification of
+      credentials of staff who are not a member of Medical and Allied Health
+      Professional Staff (MAHPS).
+   B. This policy applies to all staff who are not a member of MAHPS and who provide
+      care or services to patients, and all staff who verify credentials for non-MAHPS
+      staff.
+
+II. POLICY
+   A. OSH must verify that each staff member hired to provide care or services to
+      patients at OSH is credentialed and privileged to provide the scope of care or
+      service indicated in the staff member’s job description or contract.
+   B. Clinical supervisors over non-MAHPS staff must comply with this policy as well as
+      any other discipline-specific standards of practice.
+   C. Whenever law, regulation, or the State of Oregon requires staff to have a specific
+      credential or training to provide patient care or services at OSH, OSH must verify
+      the staff member has the credentials, education, or required training as indicated
+      in the job description.
+      1. The Human Resources recruiter will verify the applicant has the credentials or
+         education required in the job description.
+
+Subject:                                                       Policy Number: 5.030
+           Credentialing for Non-MAHPS Staff
+           Providing Care or Services to Patients
+Date:
+           July 25, 2024                                                   P AGE 2 OF 3
+
+     2. At the time of hire, the hiring manager, clinical supervisor, or designee must
+        complete primary source verification.
+         a. The person conducting the primary source verification must verify and
+            document the applicant has the credentials, education, training, and
+            experience required by the job description responsibilities.
+         b. Primary source verification, a criminal background check, and applicable
+            health screenings must be completed before staff may provide care or
+            services to patients.
+     3. The clinical supervisor or designee must conduct primary source verification
+        whenever a credential is due to be renewed.
+     4. Primary source verification must be documented and maintained in the staff
+        member’s credentialing or supervisory file.
+         a. The clinical supervisor or designee must retain such records according to
+            OSH’s retention schedule as indicated in OSH Policy and Procedure
+            2.006, “Public Records Retention and Destruction.”
+         b. Staff are responsible to promptly update credentials through the applicable
+            board if a name change has been made.
+     5. If primary source verification indicates the claimed credential or training is not
+        legitimate, the clinical supervisor or designee must communicate with the
+        Human Resources Department to determine a course of action.
+  D. Staff are responsible to renew their own credential before the credential’s
+     expiration date.
+     1. A staff member may not provide care or services to patients at OSH unless
+        applicable credentials have been verified to be current and legitimate.
+  E. A staff member who fails to comply with this policy or related procedures,
+     including allowing necessary credentials to be inactive or expire, may be subject
+     to disciplinary action, up to and including dismissal.
+  F. OSH follows all applicable regulations, including federal and state statutes and
+     rules; Oregon Department of Administrative Services (DAS), Shared Services,
+     and Oregon Health Authority (OHA) policies; and relevant accreditation
+     standards. Such regulations supersede the provisions of this policy unless this
+     policy is more restrictive.
+  G. Staff who fail to comply with this policy or related policy attachments or protocols
+     may be subject to disciplinary action, up to and including dismissal.
+
+ Subject:                                                              Policy Number: 5.030
+             Credentialing for Non-MAHPS Staff
+             Providing Care or Services to Patients
+ Date:
+             July 25, 2024                                                          P AGE 3 OF 3
+
+III. DEFINITIONS
+   A. “Credential” for the purposes of this policy means a license, registration, or
+      certification required by law, regulation, or by OSH for a staff member to provide
+      care or services to patients at OSH.
+   B. “Credentialing” for the purposes of this policy means the process of obtaining,
+      verifying, and assessing the qualifications of a staff member to provide care or
+      services to patients at OSH.
+   C. “Primary source” means the original source of a specific credential, or an
+      approved designee of the original source which can verify the legitimacy of a
+      claimed credential. Examples of primary sources include, but are not limited to:
+      state licensing boards, graduate education programs, universities, and colleges.
+   D. “Primary source verification” is the process of contacting a primary source via in-
+      person telephone communication or researching the credential on an approved
+      secure electronic system.
+   E. “Privileging” for the purposes of this policy means the process of authorizing a
+      staff member to provide a specific scope and content of patient-care services to
+      patients at OSH by evaluating the staff member’s credentials and competency.
+   F. “Staff” for the purposes of this policy means a person who provides direct patient
+      care or services to patients at OSH, including employees, contractors, and
+      agency staff who provide direct patient care or services to patients. In this policy
+      “staff” does not include MAHPS members.
+
+IV. RELATED OSH POLICIES AND PROTOCOLS
+   Oregon State Hospital Medical and Allied Health Professional Staff Bylaws (2020)
+   2.006 Public Records Retention and Destruction
+   4.013 Professional Credential and Membership Fees
+
+V. REFERENCES
+   Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual
+       for hospitals, HR 01.02.05. Oakbrook Terrace, IL: Author.
+   Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual
+       for hospitals, HR 01.02.07. Oakbrook Terrace, IL: Author.
+   Oregon Administrative Rule § 333-505-0040.
+   Oregon Administrative Rule § 333-510-0020.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/5.030%20Credentialing%20for%20Non-MAHPS%20Staff/5.030%20Credentialing%20for%20Non-MAHPS%20Staff.pdf> · retrieved 2026-07-21 · sha256 `7db179e1b61ebd82fe4994a1ed6d001cbecc6f6aa4780b7c7443ef5632d85669`
+- Snapshot: `_meta/snapshots/oha-osh-5-030.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

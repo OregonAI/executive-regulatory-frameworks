@@ -1,0 +1,557 @@
+---
+id: oha-osh-6-055
+title: "Medication Management"
+doc_type: policy
+citation: "OSH Policy 6.055"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/6.055%20Medication%20Management/6.055%20Medication%20Management.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "570954ca6364a002cf159b97bef402b8cc0333c4ab96ff175b9f4dea0bd17ffc"
+effective_date: "2024-10-15"
+last_reviewed: null
+source_version: "Effective OCTOBER 15, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - ors-677.010
+    - ors-685.010
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/6.055%20Medication%20Management/6.055%20Medication%20Management.pdf> (retrieved 2026-07-21).
+
+# Medication Management (OSH Policy 6.055)
+
+## At a glance
+
+OSH Policy 6.055 — Medication Management. Oregon State Hospital (Oregon Health Authority). Effective OCTOBER 15, 2024.
+
+## Full text
+
+                      OREGON STATE HOSPITAL
+                                            POLICY
+SECTION 6:         Patient Care                                             POLICY: 6.055
+
+SUBJECT:           Medication Management
+
+POINT PERSON:      Director of Pharmacy Services
+
+APPROVED:          Sara Walker, MD                               DATE: OCTOBER 15, 2024
+
+                   Interim Superintendent
+
+SELECT ONE:
+
+ I. PURPOSE AND APPLICABILITY
+   A. The purpose of this policy is to outline the guidelines around medication
+      prescribing, dispensing, and administering at Oregon State Hospital (OSH).
+   B. This policy applies to all staff who prescribe, handle, and administer medication
+      at OSH.
+II. POLICY
+   A. The prescribing of medication for the treatment of medical and psychiatric
+      disorders must be evidence-based and must adhere to contemporary standards
+      of practice.
+   B. All patients must be continually monitored by their practitioners and other
+      members of the interdisciplinary treatment team (IDT) for the safety and
+      appropriateness of medication regimens with respect to optimizing treatment
+      goals.
+   C. The following information about patients is accessible to all staff who participate
+      in the management of the patient’s medications:
+         1. Age;
+         2. Assigned sex at birth;
+         3. Diagnoses;
+         4. Allergies and Hypersensitivities;
+         5. Current medications;
+
+Subject:                                                         Policy Number: 6.055
+             Medication Management
+Date:        October 15, 2024                                              P AGE 2 OF 13
+
+           6. Height and weight;
+           7. Pregnancy and lactation information;
+           8. Vitals; and
+           9. Laboratory results.
+  D. The following disciplines may initiate, change, or discontinue medication orders:
+     physicians (i.e., M.D., D.O.), dentists (i.e., D.D.S., D.M.D.), nurse practitioners
+     (i.e., NP, PMHNP), pharmacists (i.e., Pharm D. PhD, RPh, under Pharmacy and
+     Therapeutics Committee-approved Clinical Pharmacy Agreements (CPAs), which
+     includes Collaborative Drug Therapy Management (CDTM), with the OSH
+     Medical and Allied Health Professional Staff (MAHPS)).
+   E. Upon a patient’s admission, the admitting practitioner must generate the
+      “Admission Medication Reconciliation” form in Avatar and complete it.
+           1. Allergies and hypersensitivities must be reconciled or included prior to
+              pharmacists processing any medication orders.
+           2. Admission packets are available on the I:Drive to assist with medication
+              reconciliation.
+   F. The following requirements pertain to every medication order.
+           1. Prior to prescribing a medication to a patient, the practitioner must:
+               a. Obtain a comprehensive medication history with emphasis on past
+                  responses to drug treatment and allergic or toxic reactions, use of
+                  illegal substances, use of tobacco and alcohol, and use of over-the-
+                  counter and nutritional supplements.
+               b. Consider the patient’s mental and physical examinations and
+                  laboratory findings.
+               c. Explain the indication, potential side effects, and any other concerns of
+                  the medication to the patient.
+               d. Verify that informed consent for medication has been obtained as
+                  indicated in Medical Department Protocol 1.001, “Informed Consent”.
+           2. All medication orders must be submitted using the Medication Order form
+              or Telephone Order form in Avatar.
+               a. Exceptions include the following:
+                      i.    Medication Reconciliation Orders printed from Avatar for
+                            Admission, Transfer, Expiring, Discharge, and Leave orders.
+
+Subject:                                                       Policy Number: 6.055
+             Medication Management
+Date:        October 15, 2024                                           P AGE 3 OF 13
+
+                     ii. Complex medication order forms printed from the I:Drive for
+                         sliding scale insulin, clozapine, long-acting injectable
+                         antipsychotics, and smoking cessation.
+           3. Practitioners must minimize the use of verbal and telephone orders as
+              much as possible.
+              a. Verbal orders must be used only in emergent situations. See OSH
+                 policy 10.004, “Override Process for Medications in Emergency
+                 Situations”.
+              b. Telephone orders should be reserved for when the practitioner does
+                 not have ready access to Avatar.
+                     i.   Telephone orders can only be given to a pharmacist or a nurse.
+               c. The Pharmacy and Therapeutics (P&T) Committee tracks and reviews
+                  the use of telephone orders at OSH.
+           4. Each medication order must contain the following elements:
+              a. Patient name;
+              b. Date and time order written;
+               c. Ordering practitioner;
+              d. Medication name (generic and trade name, if feasible, to decrease the
+                 risk of Look-Alike Sound-Alike errors);
+              e. Medication dose;
+               f. Route of administration;
+              g. Frequency of administration;
+              h. Diagnosis, reason, indication, or conditions necessitating medication
+                 use;
+               i. Any special instructions, as applicable, such as parameters for
+                  administration and not-to-exceed limits;
+               j. Start date and time; and
+               k. Duration of therapy or stop date and time.
+               l. All paper orders such as order forms and medication reconciliation
+                  orders require the ordering practitioner’s signature
+           5. OSH practitioners should prescribe according to FDA-approved dosages
+              but may prescribe medications above the FDA-approved dosage limits due
+              to the complexity of OSH patient population.
+
+Subject:                                                           Policy Number: 6.055
+             Medication Management
+Date:        October 15, 2024                                                P AGE 4 OF 13
+
+               a. The “OSH Drug Upper and Lower Limit Guidelines” reference provides
+                  dosage guidelines that may be outside of FDA-approved dosage limits
+                  for select medications and can be found on the Pharmacy OWL Page.
+               b. If a practitioner exceeds the dosage limits per these guidelines
+                  justification for doing so must be included in a progress note.
+           6. If first dose monitoring is required, the practitioner must enter a treatment
+              order including what vitals to measure, what signs of adversity to look for,
+              and at what frequency the patient should be monitored after the first dose
+              is administered.
+           7. Practitioners must write a progress note at the time the medication is first
+              prescribed or the treatment initiated and whenever the order is reassessed
+              or modified and include:
+               a. An explanation of the intended purpose of the medication or treatment
+                  with specific reference to the target symptoms these are designed to
+                  alleviate.
+               b. An assessment of the efficacy of the medication and a justification or
+                  description of the experienced side effects in the case of order
+                  reassessment or modifications.
+           8. Prior to order transcription and verification, pharmacists must contact the
+              ordering practitioner if an order is incomplete, illegible, or unclear or if they
+              have questions about an order.
+  G. Abbreviations with Medication Orders
+           1. The use of abbreviations is error-prone and should be limited as much as
+              possible.
+           2. The following abbreviations are The Joint Commission’s official “Do Not
+              Use” List and are not permitted at OSH.
+              Do Not Use                 Potential Problem           Use Instead
+              U, u (unit)                Mistaken for "0" (zero), Write "unit"
+                                         the number "4" (four)
+                                         or "cc"
+              IU (International Unit)    Mistaken for IV             Write "International
+                                         (intravenous) or the        Unit"
+                                         number 10 (ten)
+              Q.D., QD, q.d., qd         Mistaken for each           Write "daily"
+              (daily)                    other
+
+Subject:                                                          Policy Number: 6.055
+             Medication Management
+Date:        October 15, 2024                                              P AGE 5 OF 13
+
+              Q.O.D., QOD, q.o.d,       Period after the Q         Write "every other
+              qod (every other day)     mistaken for "I" and       day"
+                                        the "O" mistaken for "I
+              Trailing zero (X.0 mg)    Decimal point is           Write “X mg”
+              Lack of leading zero      missed                     Write “0.X mg”
+              (.X mg)
+              MS                        Can mean morphine          Write "morphine
+                                        sulfate or magnesium       sulfate"
+              MSO4 and MgSO4
+                                        sulfate
+                                                                   Write "magnesium
+                                        Confused for one           sulfate"
+                                        another
+
+           3. The Institute of Safe Medication Practices (ISMP) has a List of Error-Prone
+              Abbreviations, Symbols, and Dose Designations that should be avoided in
+              all medication orders. The list can be found on the Pharmacy OWL Page.
+  H. PRN Orders
+           1. All PRN orders must:
+               a. Clearly specify the dosing interval (i.e. ordered as Q number of hours
+                  PRN instead of two times per day PRN, three times per day PRN,
+                  etc.).
+                      i.   Once daily PRN, QHS PRN, AC PRN, and PC PRN are
+                           acceptable to use.
+               b. Include not-to-exceed (NTE) parameters for number of doses per day if
+                  less than what is allowed per the frequency (e.g. order for Q4H PRN
+                  with NTE 2 doses per day).
+               c. Include instructions, when necessary, to clearly specify the
+                  circumstances under which the nurse administers one order versus the
+                  other order, such as:
+                      i.   may use acetaminophen together with ibuprofen;
+                      ii. use acetaminophen first, and, if ineffective after 1 hour, may use
+                          ibuprofen.
+           2. All PRN orders must not:
+               a. Create therapeutic duplication with the order’s indication (e.g. sleep
+                  and insomnia).
+               b. Use overlapping indications (e.g. anxiety and moderate anxiety).
+
+Subject:                                                          Policy Number: 6.055
+             Medication Management
+Date:        October 15, 2024                                                P AGE 6 OF 13
+
+           3. At OSH, midnight to midnight constitutes one day (e.g. the dosing interval
+              for a once daily PRN order is midnight to midnight not a rolling 24 hours).
+  I. Hold Orders
+           1. Orders to hold PRN medications are not permitted. Such orders need to be
+              discontinued with new orders submitted to reinitiate PRNs, as warranted.
+           2. If the duration to hold scheduled medications is less than 24 hours, nurses
+              must document any scheduled doses as held on the eMAR at the time the
+              order is submitted.
+           3. If the duration to hold scheduled medications is more than 24 hours,
+              pharmacists will discontinue the scheduled medication orders. The
+              practitioner must submit new orders to reinitiate the medications, as
+              warranted.
+  J. Taper and Titration Orders
+           1. In addition to all elements of a medication order, taper and titration orders
+              must also include the duration for each incremental dose.
+           2. Taper and titration orders are limited to a maximum duration of 14 days.
+               a. New orders are required every 14 days for the duration of the taper or
+                  titration.
+                      i.   For titrations, the last order will be entered as ongoing until new
+                           orders are written.
+               b. The 14-day maximum duration does not apply to long-acting
+                  injectables.
+           3. All taper and titration orders dosed more than one time per day, such as
+              twice daily, will be entered to start the next day (e.g. titrating orders for
+              twice daily submitted at noon today will start tomorrow morning to avoid
+              splitting days).
+               a. If a different dose is required on the day the practitioner writes new
+                  taper or titration orders, a one-time order is required for the different
+                  dose.
+  K. Automatic Durations
+           1. OSH uses default durations for select medications or medication classes.
+              Orders submitted beyond these durations will be shortened and entered
+              using the following default durations:
+              Medication or Class                      Default Duration
+              All non-scheduled medications            365 days
+              unless otherwise indicated below
+              Schedule 3-5 Controlled                  180 days
+
+Subject:                                                         Policy Number: 6.055
+             Medication Management
+Date:        October 15, 2024                                              P AGE 7 OF 13
+
+              Substances
+              Vaccines                               120 days
+              Schedule 2 Controlled Substances       30 days
+              Loperamide                             3 days
+              Oxymetazoline Nasal Spray (Afrin)      3 days
+
+  L. Discontinuing and Changing Orders
+           1. All medication order changes require discontinuation of previous orders
+              and initiation of new orders.
+           2. When changing orders that are linked (e.g. intramuscular backups (IMBUs)
+              or medications to be co-administered):
+               a. Discontinuation of a medication that has an IMBU will result in the
+                  pharmacist also discontinuing the IMBU order.
+               b. Discontinuation of a medication that has instructions to give with other
+                  medications will result in the pharmacist discontinuing each order.
+               c. The practitioner should ensure any linked orders have the exact same
+                  stop date/duration.
+           3. Customized features of an order will not automatically carry over with order
+              changes (e.g. special instructions, crush, customized administration times,
+              etc.). It is the practitioner’s responsibility to specify these features in the
+              new order.
+  M. Medication Administration
+           1. OSH uses standard medication administration times as follows:
+               a.    Daily, Q day, or once every day, – 0800;
+               b.    Twice a day, “BID” – 0800, 2000;
+               c.    Three times a day, “TID” – 0800, 1600, 2000;
+               d.    Four times a day, “QID” – 0800, 1200, 1600, 2000;
+               e.    Five times a day, “5XD” – 0800, 1200, 1600, 2000, 2330;
+               f.    Once a day at bedtime, “QHS” – 2000;
+               g.    With meals – 0800, 1200, 1700;
+               h.    Before meals – 0700, 1100, 1600; and
+                i.   After meals – 0900, 1300, 1800.
+           2. Medications must be administered according to the order, but they may be
+              administered between one hour before and one hour after the scheduled
+              administration time.
+  N. Orders not permitted at OSH:
+
+Subject:                                                          Policy Number: 6.055
+             Medication Management
+Date:        October 15, 2024                                               P AGE 8 OF 13
+
+           1. contingent orders (e.g. “if TSH lab comes back greater than X mg/L, then
+              start levothyroxine Y mcg”);
+           2. standing orders;
+           3. blanket orders (e.g. “change all AM medication administration times to
+              0600,” “add crush to all crushable meds,” “continue previous order,” or
+              “discharge on current orders”);
+           4. range orders for either frequency or dose (e.g. “one tablet every 4-6 hours
+              PRN,” “one or two tablets every 6 hours PRN”);
+           5. scheduled medications with extended administration windows (e.g., “may
+              take AM clozapine between 0700 and 1200”); or
+           6. methadone for opioid use disorder (OUD) without ongoing involvement of a
+              SAMHSA-certified opioid treatment program.
+  O. Medications not permitted at OSH:
+           1. medications or supplements not supplied by OSH Pharmacy (e.g. OTC
+              products obtained by the unit on a SPOTS card).
+           2. patient’s own medications or supplements, including herbal products;
+           3. compounded medications;
+           4. medication samples;
+           5. investigational medications; or
+           6. radiopharmaceuticals;
+           7. Exceptional circumstances will require approval for use of outside
+              medications, such as methadone, by Pharmacy Management.
+  P. Discharge Medication Orders
+           1. When feasible, at least 48 hours prior to a patient’s discharge, the
+              Attending Practitioner must:
+               a. Complete the “Discharge Medication Reconciliation Orders” form from
+                  Avatar and scan it to the Pharmacy; these are the prescriptions that
+                  will be dispensed from the OSH Pharmacy and must clearly specify
+                  durations and quantities to dispense.
+               b. Complete hard copy prescriptions and deliver to the Pharmacy; these
+                  prescriptions are for the patient to fill post-discharge and will be sent in
+                  the discharge packet. Below are the days’ supply limits based on the
+                  patient’s discharge location.
+                          Patient Discharge     # Days’ Supply    # Days’ Supply
+                          Location              Dispensed via the for Written
+                                                Discharge
+
+Subject:                                                       Policy Number: 6.055
+             Medication Management
+Date:        October 15, 2024                                            P AGE 9 OF 13
+
+                                              Medication            Prescriptions
+                                              Reconciliation
+                         Lane and Jackson     5 days                14 days
+                         County Jails
+                         All Other Oregon     3 days                14 days
+                         County Jails
+                         Community         14 days                  30 days
+                         Restoration
+                         (secure or non-
+                         secure group
+                         home, independent
+                         living)
+
+           2. Discharge medication transitions-of-care considerations:
+               a. Many sites, including county jails, will not administer a variety of
+                  medications such as PRN benzodiazepines, valproic acid syrup and
+                  divalproex sprinkles, or IMBUs. Practitioners are encouraged to
+                  coordinate with pharmacists to optimize patient medication regimens to
+                  reflect what will be supported at their discharge location.
+               b. Over the counter (OTC) medications are readily available at most
+                  discharge locations and are not routinely covered by insurance.
+                  Practitioners should consider indicating the continuation of these
+                  medications on the Discharge Medication Reconciliation form, as
+                  warranted, but not indicate to dispense from the OSH Pharmacy nor
+                  write outpatient prescriptions.
+               c. Coordination of long-acting injectables administration should occur
+                  prior to discharge. The prior administration date and next dose due
+                  date should be included on the Discharge Medication Reconciliation
+                  form. OSH Pharmacy does not dispense injectable medications at
+                  discharge.
+               d. Information regarding county jail formularies and the use of clozapine
+                  and benzodiazepines can be found on the Pharmacy OWL Page.
+               e. Practitioners should contact the pharmacy to discuss an exception to
+                  any of the above if circumstances may compromise patient care or
+                  access to medications.
+           3. OSH Pharmacy cannot provide refills for any outpatient prescriptions.
+  Q. Antibiotic Stewardship
+
+Subject:                                                         Policy Number: 6.055
+             Medication Management
+Date:        October 15, 2024                                            P AGE 10 OF 13
+
+           1. OSH’s Antibiotic Stewardship Subcommittee monitors all systemic
+              antibiotic orders and is responsible for the creation and review of evidence-
+              based, OSH-specific treatment algorithms.
+           2. OSH practitioners should adhere to these algorithms when ordering
+              systemic antibiotics. All algorithms can be found on the Pharmacy OWL
+              Page.
+           3. For each systemic antibiotic order, pharmacists must:
+               a. prospectively review the order for alignment with algorithms and overall
+                  appropriateness prior to order transcription and verification.
+               b. Monitor therapy at 24 hours, 72 hours, and completion and document
+                  this monitoring.
+  R. Adverse Drug Reaction (ADR) Reporting
+           1. Any staff directly involved in medication order submission, transcription,
+              verification, dispensing, or administration must report should report all
+              suspected or confirmed ADRs via the “Oregon State Hospital Suspected
+              Adverse Drug Event Report” form found at
+              I:\PUBLICATIONS\PHARMACY.
+               a. Staff must also report ADRs involving vaccines to the Vaccine Adverse
+                  Event Reporting system (VAERS).
+               b. Staff may also report serious drug or device ADRs to FDA Med Watch.
+           2. ADRs can be identified by:
+               a. Patient monitoring, including:
+                      i.   Direct observation of, or communication with, patients; and
+                      ii. Patient chart reviews.
+               b. Communication with other members of the healthcare team.
+               c. Practitioner orders that indicate an ADR occurred, such as:
+                      i.   Sudden discontinuation or rapid dose decrease of medications
+                           with high ADR potential; and
+                      ii. New orders related to the treatment of potential ADRs (e.g.
+                          diphenhydramine, benztropine, ondansetron).
+           3. When ADRs are identified, they must:
+               a. be addressed appropriately to weigh the risk vs. benefit of the
+                  medication therapy; and
+               b. be reported to appropriate members of the IDT and the patient and/or
+                  guardian, as warranted.
+
+Subject:                                                       Policy Number: 6.055
+             Medication Management
+Date:        October 15, 2024                                           P AGE 11 OF 13
+
+   S. Medication Error Reporting
+           1. OSH Medication Variance Subcommittee reviews all reported medication
+              errors and suggests improvements to medication management systems
+              and processes with the goal of improving patient safety.
+           2. Any staff directly involved in medication order submission, transcription,
+              verification, dispensing, or administration must report actual and potential
+              medication errors using the “Oregon State Hospital Medication Variance
+              Report”, which may be accessed through an icon available on all computer
+              desktops. It can also be found at I:\PUBLICATIONS\RISK
+              MANAGEMENT\Medication Variance Report.
+           3. Pharmacy and nursing staff are to follow direction as indicated in Pharmacy
+              Protocol 13.003, “Medication Error Reporting and Follow-up” and Nursing
+              Protocol 2.080, “Medication Errors”, respectively.
+   T. Oregon State Hospital (OSH) follows all applicable regulations, including federal
+      and state statutes and rules; Oregon Department of Administrative Services
+      (DAS), Shared Services, and Oregon Health Authority (OHA) policies; and
+      relevant accreditation standards. Such regulations supersede the provisions of
+      this policy unless this policy is more restrictive.
+   U. Staff who fail to comply with this policy or related policy attachments or protocols
+      may be subject to disciplinary action, up to and including dismissal.
+
+III. DEFINITIONS
+“Adverse Drug Reaction” is an appreciably harmful or unpleasant reaction, resulting
+from an intervention related to the use of a medicinal product, which predicts hazard
+from future administration and warrants prevention or specific treatment, or alteration of
+the dosage regimen, or withdrawal of the product.
+“Clinical Pharmacy Agreement”, as defined by the Oregon Board of Pharmacy, means
+an agreement between a Pharmacist or pharmacy and a health care organization, or a
+physician as defined in ORS 677.010 or a naturopathic physician as defined in ORS
+685.010 that permits the Pharmacist to engage in the practice of clinical pharmacy for
+the benefit of the patients of the health care organization, or physician or naturopathic
+physician.
+"Collaborative Drug Therapy Management", as defined by the Oregon Board of
+Pharmacy, means the participation by a Pharmacist in the management of drug therapy
+pursuant to a written protocol that includes information specific to the dosage,
+frequency, duration, and route of administration of the drug, authorized by a practitioner
+and initiated upon a prescription order for an individual patient and:
+        (a) Is agreed to by one Pharmacist and one practitioner; or
+
+Subject:                                                          Policy Number: 6.055
+             Medication Management
+Date:        October 15, 2024                                              P AGE 12 OF 13
+
+        (b) Is agreed to by one or more Pharmacists at a single pharmacy registered by
+        the board and one or more practitioners in a single organized medical group,
+        such as a hospital medical staff, clinic, or group practice, including but not limited
+        to organized medical groups using a pharmacy and therapeutics committee.
+“First dose monitoring” means assessing the patient per practitioner’s order after the
+first dose is administered.
+“Medication error” per the National Coordinating Council of Medication Error Reporting
+and Prevention (NCC MERP) means, “any preventable event that may cause or lead to
+inappropriate medication use or patient harm while the medication is in the control of the
+health care professional, patient, or consumer. Such events may be related to
+professional practice, health care products, procedures, and systems, including
+prescribing, order communication, product labeling, packaging, and nomenclature,
+compounding, dispensing, distribution, administration, education, monitoring, and use.”
+A medication error may also be referred to as a “medication variance”.
+“Medications” mean chemical compounds that may be administered to humans in order
+to aid in the diagnosis, treatment, or prevention of disease or other abnormal condition,
+as well as relieve pain or suffering.
+“Polypharmacy” means two or more medications within the same class.
+“Range order” is a medication order with a range of either dose or frequency to allow for
+flexibility in patient symptom management.
+“Standing order” means an order that becomes active without the use of a Pharmacy
+and Therapeutics Committee-approved protocol or without prior review of ordering
+practitioner.
+“Titration orders” are orders in which a dose is either progressively increased or
+decreased by established increments in response to a patient’s status as determined by
+assessment. At OSH, a “taper” or “wean” order is considered equivalent to a titration
+order.
+“Staff” includes employees, volunteers, trainees, interns, contractors, vendors, and
+other state employees assigned to work at Oregon State Hospital (OSH).
+
+IV. RELATED OSH POLICIES AND PROTOCOLS
+   6.035 Medication Reconciliation
+   10.004 Override Process for Medications in Emergency Situations
+   Oregon State Hospital Medical Department Protocol 1.001 Informed consent
+   Oregon State Hospital Nursing Department Protocol 2.080 Medication Errors
+
+Subject:                                                             Policy Number: 6.055
+           Medication Management
+Date:      October 15, 2024                                                    P AGE 13 OF 13
+
+  Oregon State Hospital Pharmacy Department Protocol 13.003 Medication Error
+  Reporting and Follow-up
+
+V. REFERENCES
+  42 CFR § 482.23(c).
+
+  Do not use list fact sheet. The Joint Commission. (n.d.).
+  https://www.jointcommission.org/resources/news-and-multimedia/fact-sheets/facts-about-do-
+  not-use-list/
+
+  Edwards IR, Aronson JK. Adverse drug reactions: definitions, diagnosis, and management.
+  Lancet. 2000 Oct 7;356(9237):1255-9. doi: 10.1016/S0140-6736(00)02799-9. PMID: 11072960.
+  Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual
+      for behavioral health and human services, CTS.04.01.01 – CTS.04.01.03. Oakbrook Terrace, IL:
+      Author.
+
+  Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual
+      for hospitals, MM.01.01.01. – MM.06.01.01. Oakbrook Terrace, IL: Author.
+
+  Oregon Administrative Rule §§ 309-114-010 – 309-114-015.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/6.055%20Medication%20Management/6.055%20Medication%20Management.pdf> · retrieved 2026-07-21 · sha256 `570954ca6364a002cf159b97bef402b8cc0333c4ab96ff175b9f4dea0bd17ffc`
+- Snapshot: `_meta/snapshots/oha-osh-6-055.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

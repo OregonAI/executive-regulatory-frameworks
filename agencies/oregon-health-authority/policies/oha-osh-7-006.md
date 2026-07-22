@@ -1,0 +1,285 @@
+---
+id: oha-osh-7-006
+title: "Patient Grievances"
+doc_type: policy
+citation: "OSH Policy 7.006"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/7.006%20Patient%20Grievances/7.006%20Patient%20Grievances.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "42607567597865f096480a6cac3354b4a0c226cd7289043036ce36ac6029b71b"
+effective_date: "2024-04-23"
+last_reviewed: null
+source_version: "Effective APRIL 23, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-309-035-0183
+    - oar-309-118-0000
+    - oar-309-118-0005
+    - oar-309-118-0010
+    - oar-309-118-0015
+    - oar-309-118-0050
+    - ors-124.050
+    - ors-419b.005
+    - ors-430.735
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/7.006%20Patient%20Grievances/7.006%20Patient%20Grievances.pdf> (retrieved 2026-07-21).
+
+# Patient Grievances (OSH Policy 7.006)
+
+## At a glance
+
+OSH Policy 7.006 — Patient Grievances. Oregon State Hospital (Oregon Health Authority). Effective APRIL 23, 2024.
+
+## Full text
+
+                         OREGON STATE HOSPITAL
+                                              POLICY
+  SECTION 7:      Patient Rights                                           POLICY: 7.006
+
+  SUBJECT:        Patient Grievances
+
+  POINT
+                  Director of Legal Affairs
+  PERSON:
+
+  APPROVED:       Dr. Sara Walker                                   DATE: APRIL 23, 2024
+
+                  Interim Superintendent
+
+  SELECT ONE:
+
+I.    PURPOSE AND APPLICABILITY
+      A. Oregon State Hospital (OSH) is committed to providing a means for patients and
+         their representatives to express grievances or complaints regarding a patient’s
+         care, treatment, or services. OSH maintains a system designed to review and
+         provide resolution to expressed grievances in a timely manner pursuant to
+         federal and state regulations and accreditation standards.
+      B. This policy applies to all staff and patients.
+
+II.   POLICY
+  OSH Grievance System
+      A. The OSH Superintendent delegates authority to OSH Ombudsperson(s) to
+         oversee the grievance system as outlined in 42 Code of Federal Regulations
+         (CFR) 482.13(a), Oregon Administrative Rules (OAR), The Joint Commission
+         standards, and this policy.
+      B. All grievances must be managed according to process guidelines established by
+         OSH Ombudsperson(s) in accordance with Applicable Oregon Administrative
+         Rules. Exceptions to this policy may be granted by OSH Ombudsperson(s).
+      C. Information about grievance processes must be prominently posted on each unit in
+         areas frequented by patients.
+      D. At minimum, OSH’s grievance system includes processes for:
+         1. Formal grievances
+
+SUBJECT:      Patient Grievances                                 POLICY NUMBER: 7.006
+
+DATE:         April 23, 2024                                                PAGE 2 OF 6
+
+    2. Civil rights screenings
+    3. Time sensitive grievances
+    4. Grievance Reviews
+ E. OSH responds to ineligible grievances per Procedures A. Complaints ineligible for
+    the OSH grievance process are as defined in Oregon Administrative Rule (OAR)
+    309-118-0015. Ineligible complaints include, but are not limited to, if:
+    1. There is a contested case hearing or other separate process recognized by
+       statute or administrative rule that affords notice and opportunity to be heard
+       before an impartial decision-maker concerning that issue, including but not
+       limited to institutional reimbursement orders, OSH informed consent decisions,
+       and judicial determinations of continued mental illness or cognitive disability;
+    2. The issue is something that OSH does not have the authority to change,
+       including but not limited to state or federal laws, court orders and actions or
+       decisions by other agencies, including but not limited to commitment and
+       discharge;
+        a. An administrative or other court order concerning medications, including
+           Informed Consent for medication or a Sell Order;
+    3. The patient has previously submitted a grievance or review request on the
+       issue that resulted in a written response, and nothing has occurred that
+       changes the previous response;
+    4. Grieving an issue on behalf of another patient. Each patient or patient
+       representative, if applicable, must submit their own grievance;
+    5. Statements that do not allege a grievance; or
+    6. Disagreements about a treating practitioner’s medical diagnosis of the patient.
+ F. A patient or their representative may file a grievance per Procedures A. A Grievant
+    who files an informal complaint or grievance may pursue other remedies including,
+    but not limited to, filing a grievance directly with other relevant federal or state
+    agencies or accreditation organizations.
+    1. A Grievant may file a grievance concerning patient rights related to 42 CFR
+       482.13 or 42 CFR 489 via the processes described in this policy.
+    2. A Grievant may file a grievance alleging abuse or mistreatment pursuant to
+       processes described in OSH policy 7.008, “Patient Abuse or Mistreatment
+       Allegation Reporting,” this policy, and other regulations.
+    3. A patient with a disability may not, solely by reason of the patient’s disability,
+       be excluded from participation in, be denied the benefits of, or be subjected to
+
+ SUBJECT:        Patient Grievances                               POLICY NUMBER: 7.006
+
+ DATE:           April 23, 2024                                              PAGE 3 OF 6
+
+          discrimination under any service provided by OSH, including the grievance
+          process.
+   G. In no case may another patient act as the representative for a grieving patient.
+Staff Responsibilities
+   A. All staff are responsible to assist a Grievant in navigating OSH grievance
+      processes upon request, such as providing forms and answering basic
+      questions. Grievance Committees are responsible for reviewing and resolving
+      patient grievances, per OAR 309-118-0010.
+   B. Staff in designated Grievance Committee job classifications must complete OSH
+      grievance training before their direct involvement in grievance processes.
+      Training must be completed annually thereafter.
+   C. Grievance Committees:
+       1. OSH Ombuds office oversees and is an administrative supporting member of
+          Grievance Committees at OSH.
+       2. Grievance Committees must be made of at least two staff from the following
+          job classifications:
+          a. Nurse Manager,
+          b. Unit Administrator, and/or
+          c. Treatment Care Plan Specialist.
+          d. A Program Director and/or an Associate Director of Nursing may act as
+             Grievance Committee members to assist with complex grievance issues,
+             to assist with a high volume of grievances on the unit, or when other
+             designated staff are unavailable.
+              NOTE: When a Grievance Committee member is the subject of a
+              grievance, the grievance must be addressed by a Grievance Committee
+              comprised of a Program Director and an Associate Director of Nursing
+              only. When a Program Director or an Associate Director of Nursing is the
+              subject of a grievance, then the grievance must be addressed by a
+              Grievance Committee comprised of the Deputy Superintendent and the
+              Director of Nursing.
+       3. A Grievance Committee may be made of two or more staff from the same
+          designated job classification.
+
+       SUBJECT:       Patient Grievances                                  POLICY NUMBER: 7.006
+
+       DATE:          April 23, 2024                                                  PAGE 4 OF 6
+
+           4. Exceptions to Grievance Committee designated job classifications (i.e.,
+              Grievance Committee participation by a staff not in a designated job
+              classification) must be approved by OSH Ombuds office in advance.
+        D. Staff may not alter, impede, or destroy a grievance.
+        E. Staff may not prevent a Grievant from submitting a grievance.
+        F. Staff must provide a written response to a formal grievance per Procedures A
+           within seven (7) calendar days after OSH receives a grievance. The written
+           grievance response timeframe may be extended per Procedures A.
+        G. Within 3 days of receiving a time-sensitive grievance, staff must follow Procedure
+           C.
+        H. Grievances alleging civil right violations must be sent to OSH Ombuds for
+           screening
+        I. Grievances alleging abuse must be sent to a state agency authorized to
+           investigate abuse allegations.
+        J. Grievances alleging criminal activity must follow OSH policy 8.029 “Staff
+           Response to Alleged Criminal Acts and Contraband” and actions outlined in
+           Procedures A. Criminal activity
+        K. Oregon State Hospital (OSH) follows all applicable regulations, including federal
+           and state statutes and rules; Oregon Department of Administrative Services
+           (DAS), Shared Services, and Oregon Health Authority (OHA) policies; and
+           relevant accreditation standards. Such regulations supersede the provisions of
+           this policy unless this policy is more restrictive.
+        L. Staff who fail to comply with this policy or related policy attachments or protocols
+           may be subject to disciplinary action, up to and including dismissal.
+
+III.    DEFINITIONS
+        A. “Abuse” is as defined in OSH policy 7.008, “Patient Abuse Allegation Reporting.”
+           Abuse or mistreatment means any act or absence of action toward a patient by
+           staff inconsistent with prescribed treatment and care and falls within the definitions
+           of abuse found in Oregon Revised Statute (ORS) 419B.005, ORS 430.735, and
+           ORS 124.050; or as outlined in appliable policies, rules and protocols; and violates
+           the well-being of the patient.
+        B. “Civil rights violation grievance” includes, but is not limited to, grievances related to
+           race, religion, national origin, gender identity, sexual orientation, tribal affiliation,
+           cultural practices, immigration status, and limited English proficiency.
+
+      SUBJECT:      Patient Grievances                                  POLICY NUMBER: 7.006
+
+      DATE:         April 23, 2024                                                  PAGE 5 OF 6
+
+       C. "Grievance" is as defined in Oregon Administrative Rule (OAR) 309-118-0005.
+          Grievance means a patient’s or their representative’s complaint regarding:
+          1. Substance or application of any OSH policy or rule that adversely affects the
+             patient,
+          2. Lack of any rule or OSH policy concerning a matter that adversely affects the
+             patient, or
+          3. Any decision or action by OSH staff that adversely affects the patient.
+       D. “Grievance Committee” consists of a group of two or more designated staff who
+          have the responsibility of reviewing and resolving patient grievances, per OAR
+          309-118-0010.
+       E. “Grievant” in this policy means a patient or their representative who submits a
+          grievance.
+       F. “Person with a disability” is a person with a physical or mental impairment that
+          substantially limits one or more major life activities, has a record of such
+          impairment, or is regarded as having such an impairment. Such major life
+          activities include: walking, speaking, breathing, performing manual tasks, seeing,
+          hearing, learning, caring for oneself, or working.
+       G. "Representative" in this policy means a person who acts on behalf of a patient with
+          respect to a grievance, including, but not limited to, a relative, friend, employee,
+          attorney, or legal guardian. The term “representative” does not include a patient.
+       H. “Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
+          and other state employees assigned to work at Oregon State Hospital (OSH).
+       I. “Time Sensitive Grievance” refers to grievances that are likely to cause
+          irreversible harm to a substantial right of the patient if it is not immediately
+          addressed.
+
+IV.    PROCEDURES
+       Procedures A      OSH Grievance Process
+       Procedures B      Grievance Review Process
+       Procedures C      Time Sensitive Grievances
+
+V.     ATTACHMENTS
+       Attachment A      OSH Patient Grievance and Committee Response Form
+       Attachment B      Ineligible Letter
+
+       SUBJECT:        Patient Grievances                                      POLICY NUMBER: 7.006
+
+       DATE:           April 23, 2024                                                      PAGE 6 OF 6
+
+        Attachment C        OSH and OHA Review Form
+        Attachment D        OSH Patient Grievance Process Flowchart
+
+VI.     RELATED OSH POLICIES AND PROTOCOLS
+        6.001 Patient Transfers
+        6.002 Authorized Person Passes
+        6.003 Seclusion or Restraint Processes
+        6.011 Treatment Care Planning
+        6.044 Guardianship/Conservatorship
+        7.002 Media Access for Patients
+        7.005 Patient Rights
+        7.008 Patient Abuse and Mistreatment Allegation Reporting
+        7.015 Patient Rights Restrictions
+        8.014 Room, Unit, Treatment Mall Searches
+        9.002 Training for Health Care Personnel
+
+VII.    REFERENCES
+        All applicable collective bargaining agreements and contracts.
+        42 C.F.R. §482.13(a).
+        Joint Commission Resources, Inc. (2019). The joint commission comprehensive accreditation manual
+            for hospitals. RI.01.07.01. Oakbrook Terrace, IL: Author.
+        Joint Commission Resources, Inc. (2019). The joint commission comprehensive accreditation manual
+            for behavioral healthcare. RI.01.07.01. Oakbrook Terrace, IL: Author.
+        Oregon Administrative Rule § 309-035-0183.
+        Oregon Administrative Rule §§ 309-118-0000 — 309-118-0050.
+        Oregon Revised Statute § 124.050
+        Oregon Revised Statute § 419B.005.
+        Oregon Revised Statute § 430.735.
+        Section 504, Rehabilitation Act of 1973, 29 U.S.C. §794.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/7.006%20Patient%20Grievances/7.006%20Patient%20Grievances.pdf> · retrieved 2026-07-21 · sha256 `42607567597865f096480a6cac3354b4a0c226cd7289043036ce36ac6029b71b`
+- Snapshot: `_meta/snapshots/oha-osh-7-006.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

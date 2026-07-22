@@ -1,0 +1,160 @@
+---
+id: oha-irb-protocol-deviations-and-noncompliance
+title: "Protocol Deviations and Noncompliance"
+doc_type: policy
+citation: "OHA Public Health IRB — Protocol Deviations and Noncompliance"
+authority_level: state_policy
+issuing_body: "Oregon Health Authority (Public Health Institutional Review Board)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/Protocol%20Deviation%20Noncompliance%202026.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "174136f5c0f85efab25d3f1eb5b2b2c4a89edd13151dfa60a00b25294d74e7d1"
+effective_date: null
+last_reviewed: null
+source_version: ""
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'institutional-review-board', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/Protocol%20Deviation%20Noncompliance%202026.pdf> (retrieved 2026-07-21).
+
+# Protocol Deviations and Noncompliance (OHA Public Health IRB — Protocol Deviations and Noncompliance)
+
+## At a glance
+
+OHA Public Health IRB — Protocol Deviations and Noncompliance — Protocol Deviations and Noncompliance. Oregon Health Authority (Public Health Institutional Review Board).
+
+## Full text
+
+Public Health Division
+Protocol Deviation and Noncompliance
+
+Investigators are responsible for conducting human subject’s research in accordance with all
+applicable federal and state regulations, as well as the specific requirements of the Public Health
+Institutional Review Board (PH IRB). Once PH IRB approval has been obtained for a research
+protocol and its supporting documents (consent form, authorization form, data collection tools, etc.),
+changes may not be made unless prospective review and approval by the PH IRB is granted.
+Meaning, the research team must request approval for any proposed changes to the PH IRB
+approved documents by submitting a Project Revision/Amendment Form (PRAF) and applicable
+documents in “tracked changes” form. The only exception to this rule involves emergency action by
+an investigator to protect subjects from apparent immediate hazards.
+
+Definitions:
+Protocol Deviation: Any alteration or modification in the conduct of the research that has NOT been
+approved by the PH IRB prior to its initiation or implementation.
+   - Minor deviation: Does not have a significant impact on the research participants’ rights,
+       safety or welfare; the integrity of the data; nor does it substantially alter the expected risks to
+       subjects as determined by the PH IRB.
+   - Major deviation: May impact the participants’ rights, safety or welfare; the integrity of the
+       data; or may substantially alter the expected risks to subjects as determined by the PH IRB.
+
+Noncompliance: Failure to comply with federal regulations or the requirements or determinations of
+the PH IRB.
+    - Continuing non-compliance: Repeated instances of noncompliance by the investigator.
+    - Serious non-compliance: Instances that pose an increased risk to the safety, rights and
+       welfare of research participants including when investigators either avoid or ignore PH IRB
+       policies and fail to comply with PH IRB requirements/determinations and/or federal
+       regulations.
+
+Reporting Requirements:
+Formal reports using the PH IRB Protocol Deviation/Non-compliance Report Form must be made by
+the Principal Investigator to the PH IRB within the following timeframes:
+    • Minor deviations must be reported to the PH IRB within ten working days of their
+        occurrence or within ten working days of the Principal Investigator becoming aware of their
+        occurrence.
+    • Major deviations must be reported to the PH IRB within five working days of their
+        occurrence or within five working days of the Principal Investigator becoming aware of their
+        occurrence.
+    • Non-compliance must be reported as soon as the Principal Investigator becomes aware,
+        however, it is important to note that non-compliance will typically be recognized by the PH
+        IRB itself and thus a report will be requested by the IRB for submission to account for the
+        continuous non-compliance.
+    • If any of the above involve significant harm or risk of significant harm to a subject, the
+        Principal Investigator must make a report to the PH IRB within 24 hours of discovery.
+
+It is the responsibility of the Principal Investigator to determine whether a deviation is minor or
+major in nature and to ensure proper reporting to the PH IRB. However, the PH IRB Administrator
+will review and analyze the report to ensure the description of the occurrence aligns with the context
+
+                                                                                            Rev. May 2026
+
+of the report. All submitted reports should be routed by the Principal Investigator to their study
+sponsor as outlined in the sponsor’s protocol.
+
+PH IRB Review of Submitted Reports:
+Upon receipt of the report, the PH IRB Administrator will conduct an extensive preliminary review
+and assessment to ensure the description of the occurrence aligns with the context of the report,
+including what the Principal Investigator has distinguished it as. Revisions may be requested. Once
+vetted for accuracy and completeness, the report will be forwarded to the PH IRB Chair and/or Vice
+Chair along with a detailed summary, a recommendation for next steps, and a draft determination
+memo. Either the Chair, Vice-Chair, or a designated PH IRB Board member of their choosing will
+then provide a formal review, comparing what occurred to the PH IRB approved protocol. At that
+time, the Principal Investigator may be asked to respond to further questions. Any minor
+modifications to the protocol or supplemental study documentation that result due to the event, may
+be reviewed and approved in accordance with expedited procedures by the reviewer. If any resulting
+modifications are more-than minor in nature however, they must be brought forward to the Full
+Board. E-mail review and approval will be permissible due to the quick turnaround required for such
+situations. Additionally, if the PH IRB Administrator is not present to provide the pre-review, that
+step may be bypassed.
+
+Notification of Review and Determination:
+A decision regarding the seriousness of the deviation or non-compliance will be made, including
+what corrective action, if any, to take. Once approved, a copy of the final determination memo will
+be sent to the P.I. explaining the details of the PH IRB review and expected next steps, whether or
+not proposed changes have been approved or if further changes are needed, who else, if anyone will
+be notified, and in some cases whether or not there will be an increase in reporting requirements, or
+if the study is suspended or terminated. If a suspension or termination of PH IRB approval occurs, a
+report must be made to OHRP via the Office for Human Research Protections’ Incident Report
+Form. The report and its conclusions, including the formal PH IRB determination memo, will either
+be presented at the next scheduled PH IRB Full Board meeting or shared with the Full Board
+promptly via e-mail. If at that time, additional actions are requested, the research team will be
+notified.
+
+In the case of minor deviations, if next steps or additional corrective actions are identified in the
+memo or by the Full Board, investigators will have 30 calendar days to respond. Non-response will
+constitute non-compliance, and subject recruitment may be suspended, or the project may be
+terminated. In the case of major deviations, if next steps or additional corrective actions are
+identified in the memo or by the Full Board, investigators will have 15 calendar days to respond.
+Again, non-response will constitute non-compliance, and the subject recruitment may be suspended,
+or the project may be terminated. It is important to note that major deviations and serious or
+continuing non-compliance may lead to immediate protocol suspension or termination by the PH
+IRB, but only after consultation with, and agreement by, the Full Board.
+
+Additional Reporting:
+Any serious or continuing non-compliance will be reported by the PH IRB to the Office for Human
+Research Protections (OHRP) and the sponsoring federal department or agency head. The reporting
+requirements in 45 CFR 46 do not specify a time frame, except to say it must be done in a “prompt”
+manner. In some instances, it may be appropriate for the PH IRB to submit an initial report to
+OHRP, indicating that a follow-up or final report will follow by a specific date, or when a final
+determination has been made.
+
+                                                                                         Rev. May 2026
+
+   -   Office for Human Research Protections’ Incident Report Form
+
+Applicable Regulations
+45 CFR 46.108 and 46.113
+21 CFR 56.108 and 56.113
+
+                                                                     Rev. May 2026
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/Protocol%20Deviation%20Noncompliance%202026.pdf> · retrieved 2026-07-21 · sha256 `174136f5c0f85efab25d3f1eb5b2b2c4a89edd13151dfa60a00b25294d74e7d1`
+- Snapshot: `_meta/snapshots/oha-irb-protocol-deviations-and-noncompliance.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

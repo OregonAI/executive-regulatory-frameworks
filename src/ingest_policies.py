@@ -21,6 +21,7 @@ Adding agency #3: add a POLICY_PROFILES entry (listing url + link/header regexes
 format) and, if its PDFs have running furniture, an AGENCY_FURNITURE entry in ingest_lib.
 """
 import argparse
+import json
 import re
 import subprocess
 import sys
@@ -39,18 +40,51 @@ TODAY = date.today().isoformat()
 HANDLE = "@morficflux"
 
 
+_MONTHS = {m: i for i, m in enumerate(
+    ["january", "february", "march", "april", "may", "june", "july", "august",
+     "september", "october", "november", "december"], 1)}
+
+
 def iso_date(s: str) -> str | None:
-    """'04/14/21' or '4/14/2021' -> '2021-04-14'. None if unparseable (never guessed)."""
-    m = re.match(r"\s*(\d{1,2})/(\d{1,2})/(\d{2,4})\s*$", s or "")
-    if not m:
-        return None
-    mo, d, y = (int(x) for x in m.groups())
-    if y < 100:
-        y += 2000 if y < 70 else 1900
-    try:
-        return date(y, mo, d).isoformat()
-    except ValueError:
-        return None
+    """'04/14/21' / '4/14/2021' / 'October 28, 2015' -> ISO. None if unparseable (never guessed)."""
+    s = (s or "").strip()
+    m = re.match(r"(\d{1,2})/(\d{1,2})/(\d{2,4})\s*$", s)
+    if m:
+        mo, d, y = (int(x) for x in m.groups())
+        if y < 100:
+            y += 2000 if y < 70 else 1900
+        try:
+            return date(y, mo, d).isoformat()
+        except ValueError:
+            return None
+    m = re.match(r"([A-Za-z]+)\.?\s+(\d{1,2}),?\s+(\d{4})\s*$", s)
+    if m and m.group(1).lower() in _MONTHS:
+        try:
+            return date(int(m.group(3)), _MONTHS[m.group(1).lower()], int(m.group(2))).isoformat()
+        except ValueError:
+            return None
+    return None
+
+
+def _sp_pdf_rows(web: str, list_url: str) -> list[dict]:
+    """All PDF files (recursively) in a SharePoint document library, via the anonymous
+    RenderListDataAsStream API (same technique as detect_changes._fetch_view_rows). Returns
+    [{FileLeafRef, FileRef}, ...]."""
+    from urllib.parse import quote
+    url = (f"https://www.oregon.gov{web}/_api/web/GetList('{quote(list_url)}')/"
+           "RenderListDataAsStream")
+    vx = ("<View Scope='RecursiveAll'><ViewFields><FieldRef Name='FileLeafRef'/>"
+          "<FieldRef Name='FileRef'/></ViewFields><RowLimit>5000</RowLimit></View>")
+    body = json.dumps({"parameters": {"__metadata": {"type": "SP.RenderListDataParameters"},
+                                      "RenderOptions": 2, "ViewXml": vx}}).encode()
+    import urllib.request
+    req = urllib.request.Request(url, data=body, headers={
+        "User-Agent": "Mozilla/5.0 (oregon-policy-repo updater)",
+        "Accept": "application/json;odata=verbose",
+        "Content-Type": "application/json;odata=verbose"})
+    with urllib.request.urlopen(req, timeout=90) as resp:
+        rows = json.loads(resp.read()).get("Row", [])
+    return [r for r in rows if str(r.get("FileLeafRef", "")).lower().endswith(".pdf")]
 
 
 # ---- per-agency profiles ----
@@ -75,6 +109,74 @@ POLICY_PROFILES = {
         "authority_level": "state_policy",
         "tags": ["department-of-corrections", "policy"],
     },
+    # OHA Oregon State Hospital: SharePoint document library; each policy is a numbered
+    # folder (1.002 …) containing the PDF. Identity from the FileRef path; PDF only for the
+    # verbatim body + effective date. DISCONTINUED folders are dropped. Attributed to the OHA
+    # parent slug (OSH is not a separate registry org).
+    "oregon-health-authority-osh": {
+        "agency": "oregon-health-authority",
+        "discovery": "sharepoint",
+        "identity": "path",
+        "sp_lists": [{"web": "/oha/osh", "list_url": "/oha/OSH/Policies"}],
+        "fileref_re": re.compile(r"/(\d+\.\d+)\s+([^/]+?)/[^/]+\.pdf$", re.I),
+        "exclude_re": re.compile(r"\(DISCONTINUED\)|/Superseded/|/Archive", re.I),
+        "effective_re": re.compile(
+            r"DATE:\s*([A-Za-z]+\.?\s+\d{1,2},?\s+\d{4}|\d{1,2}/\d{1,2}/\d{2,4})", re.I),
+        "citation": lambda num: f"OSH Policy {num}",
+        "id": lambda num: "oha-osh-" + num.replace(".", "-"),
+        "issuing_default": "Oregon State Hospital (Oregon Health Authority)",
+        "authority_level": "state_policy",
+        "tags": ["oregon-health-authority", "oregon-state-hospital", "policy"],
+    },
+    # OHA Information Security & Privacy Office (ISPO): the numbered ODHS|OHA shared
+    # 090-xxx/100-xxx info-security & privacy policies, sourced from the SharePoint LIST
+    # behind /odhs/rules-policy (Lists/policiesguidelines) rather than a document library —
+    # the list's own Agency/PolicyNumber/PDF-link columns give clean identity, so (like OSH)
+    # we use identity: 'path' and skip prof['discovery'] entirely; the manifest was built by
+    # hand from that list's rows (see recon notes in the group file). PDFs are served from
+    # sharedsystems.dhsoha.state.or.us, which sends an incomplete TLS chain (missing DigiCert
+    # intermediate) — ingest with SSL_CERT_FILE pointed at a bundle that adds that
+    # intermediate; this is a legitimate chain completion, not verification bypass.
+    "oregon-health-authority-ispo": {
+        "agency": "oregon-health-authority",
+        "identity": "path",
+        "effective_re": re.compile(r"Original date:\s*([\d/]+)", re.I),
+        "citation": lambda num: f"ODHS|OHA Policy {num}",
+        "id": lambda num: "oha-ispo-" + num,
+        "issuing_default": "Oregon Health Authority (Information Security & Privacy Office)",
+        "authority_level": "state_policy",
+        "tags": ["oregon-health-authority", "information-security", "privacy", "policy"],
+    },
+    # DHS-only administrative/agency policies from the same /odhs/rules-policy SharePoint
+    # LIST, filtered to rows whose Agency column is 'ODHS' (not shared with OHA, not the
+    # program Transmittals system — this is a distinct list). identity: 'path'; manifest
+    # built by hand from the list (see oregon-health-authority-ispo comment above; same
+    # sharedsystems.dhsoha.state.or.us TLS-chain caveat applies).
+    "department-of-human-services": {
+        "agency": "department-of-human-services",
+        "identity": "path",
+        "effective_re": re.compile(r"Original date:\s*([\d/]+)", re.I),
+        "citation": lambda num: f"ODHS Policy {num}",
+        "id": lambda num: "dhs-" + num,
+        "issuing_default": "Oregon Department of Human Services",
+        "authority_level": "state_policy",
+        "tags": ["department-of-human-services", "policy"],
+    },
+    # OHA Public Health IRB Policy & Procedures Manual + standalone IRB policies: a small
+    # static listing (no numbering scheme) at .../InstitutionalReviewBoard/Pages/policy.aspx.
+    # identity: 'path'; id/title come from the manifest (title = the page's own link text for
+    # each PDF, slugified for id). No discovery function fits (the built-in static-HTML
+    # discovery hardcodes DOC's 'doc-' id prefix/numbering) so the manifest was built by hand.
+    "oregon-health-authority-irb": {
+        "agency": "oregon-health-authority",
+        "identity": "path",
+        "effective_re": re.compile(r"(?!x)x"),  # these PDFs carry no labeled effective date
+        "citation": lambda num: f"OHA Public Health IRB — {num}",
+        "id": lambda num: "oha-irb-" + re.sub(r"[^a-z0-9]+", "-", re.sub(r"[&']", "", num.lower())).strip("-"),
+        "issuing_default": "Oregon Health Authority (Public Health Institutional Review Board)",
+        "authority_level": "state_policy",
+        "tags": ["oregon-health-authority", "institutional-review-board", "policy"],
+    },
 }
 
 
@@ -87,26 +189,67 @@ def profile_for(group_data: dict) -> dict:
 
 
 # ---- discovery ----
-def discover(group_path: Path, gd: dict, prof: dict):
+def _discover_static_html(prof: dict) -> tuple[list, str]:
+    """DOC-style: scrape PDF <a href> links from a static listing page. Identity comes from
+    the PDF header at ingest time (identity: 'header')."""
     html = fetch(prof["listing_url"]).decode("utf-8", errors="replace")
     seen, sources = set(), []
     for href in prof["link_re"].findall(html):
-        url = prof["site_root"] + href
         fname = href.rsplit("/", 1)[-1]
-        # provisional id from the filename number prefix (e.g. 10-1-2-telecom.pdf -> doc-10-1-2);
-        # the authoritative id/citation come from the PDF header at ingest time.
         mnum = re.match(r"(\d+-\d+-\d+)", fname)
         pid = "doc-" + mnum.group(1) if mnum else "doc-" + re.sub(r"\.pdf$", "", fname)
         if pid in seen:
             continue
         seen.add(pid)
-        sources.append({"id": pid, "url": url, "sha256": "TODO",
+        sources.append({"id": pid, "url": prof["site_root"] + href, "sha256": "TODO",
                         "last_checked": TODAY, "notes": fname})
+    return sources, (f"Static HTML listing of numbered policy PDFs at {prof['listing_url']}. "
+                     "Freshness: re-fetch the page and diff the PDF-link set; re-hash members.")
+
+
+def _discover_sharepoint(prof: dict) -> tuple[list, str]:
+    """SharePoint document-library listing (recursive). Identity is derived from the FileRef
+    path (identity: 'path') via prof['fileref_re'] -> (number, title); the PDF is opened only
+    for the verbatim body + effective date. prof['exclude_re'] drops folders (e.g. DISCONTINUED)."""
+    from urllib.parse import quote
+    fref_re, excl = prof["fileref_re"], prof.get("exclude_re")
+    # A numbered policy folder often holds the main PDF plus attachments/forms; group
+    # candidates by policy id and pick the MAIN policy PDF (not an attachment).
+    ATTACH = re.compile(r"attachment|appendix|exhibit|\bform\b|\bflow\s?chart\b|checklist", re.I)
+    cand: dict[str, list] = {}
+    for lst in prof["sp_lists"]:
+        for row in _sp_pdf_rows(lst["web"], lst["list_url"]):
+            fref = row["FileRef"]
+            if excl and excl.search(fref):
+                continue
+            m = fref_re.search(fref)
+            if not m:
+                continue                       # not a numbered policy (loose directive/form)
+            num, title = m.group(1), re.sub(r"\s+", " ", m.group(2)).strip()
+            cand.setdefault(prof["id"](num), []).append(
+                (num, title, fref, row.get("FileLeafRef", fref.rsplit("/", 1)[-1])))
+    sources = []
+    for pid, items in cand.items():
+        # prefer non-attachment; then the filename that starts with the policy number;
+        # then the shortest filename (the bare policy vs a long attachment name).
+        def rank(it):
+            _num, _t, _fref, leaf = it
+            return (bool(ATTACH.search(leaf)), not leaf.startswith(_num), len(leaf))
+        num, title, fref, _leaf = sorted(items, key=rank)[0]
+        sources.append({"id": pid, "url": "https://www.oregon.gov" + quote(fref),
+                        "sha256": "TODO", "last_checked": TODAY, "notes": f"{num}|{title}"})
+    return sources, (f"SharePoint document library ({', '.join(l['list_url'] for l in prof['sp_lists'])}), "
+                     "queried via RenderListDataAsStream. Freshness: re-query and diff the file set; re-hash members.")
+
+
+def discover(group_path: Path, gd: dict, prof: dict):
+    if prof.get("discovery") == "sharepoint":
+        sources, signal = _discover_sharepoint(prof)
+    else:
+        sources, signal = _discover_static_html(prof)
     gd["sources"] = sources
     gd["kind"] = "content-hash"
-    gd["upstream_signal"] = (f"Static HTML listing of numbered policy PDFs at {prof['listing_url']} "
-                             "(not a SharePoint list). Freshness: re-fetch the page and diff the "
-                             "PDF-link set; re-hash members.")
+    gd["upstream_signal"] = signal
     gd["last_checked"] = TODAY
     group_path.write_text(yaml.safe_dump(gd, sort_keys=False, allow_unicode=True, width=100))
     print(f"discovered {len(sources)} policy PDFs -> {group_path.relative_to(REPO_ROOT)}")
@@ -145,7 +288,7 @@ def doc_header_title(raw_txt: str):
 # ---- ingest one ----
 def doc_markdown(prof, num, title, division, url, sha, effective, supersedes, raw_txt):
     doc_id = prof["id"](num)
-    citation = prof["citation"](num)
+    citation = prof["citation"](num).replace(chr(34), chr(39))  # keep frontmatter YAML valid
     eff_iso = iso_date(effective)
     body, conv = clean_pdf_text(raw_txt, prof["agency"])
     eff_field = f'"{eff_iso}"' if eff_iso else "null"
@@ -209,9 +352,13 @@ tags: {prof['tags']}
 
 
 def ingest_one(prof, src, out_dir) -> dict:
-    """Returns {status, id, sha, msg}. status: 'ok' | 'skip' | 'fail'."""
-    url = src["url"]
-    prov_id = src["id"]
+    """Returns {status, id, sha, msg}. status: 'ok' | 'skip' | 'fail'.
+
+    identity 'header' (DOC): number/title/division come from the PDF header.
+    identity 'path' (SharePoint): number/title come from the FileRef (stored in src.notes as
+    'num|title'); the PDF is opened only for the verbatim body + effective date."""
+    url, prov_id = src["url"], src["id"]
+    path_identity = prof.get("identity") == "path"
     try:
         raw = fetch(url)
     except Exception as e:
@@ -220,26 +367,32 @@ def ingest_one(prof, src, out_dir) -> dict:
         return {"status": "skip", "id": prov_id, "msg": f"NOT_PDF {prov_id}"}
     pdf_path = SNAPSHOT_DIR / f"{prov_id}.pdf"
     pdf_path.write_bytes(raw)
-    proc = subprocess.run(["pdftotext", "-layout", str(pdf_path), "-"], capture_output=True)
-    raw_txt = proc.stdout.decode("utf-8", errors="replace")
+    raw_txt = subprocess.run(["pdftotext", "-layout", str(pdf_path), "-"],
+                             capture_output=True).stdout.decode("utf-8", errors="replace")
     if len(normalize_ws(raw_txt)) < 200:
         pdf_path.unlink(missing_ok=True)
         return {"status": "skip", "id": prov_id,
                 "msg": f"NO_TEXT {prov_id} (image-only/empty; needs OCR/human review)"}
-    mnum = prof["num_re"].search(raw_txt)
-    if not mnum:
-        pdf_path.unlink(missing_ok=True)
-        return {"status": "skip", "id": prov_id,
-                "msg": f"NON_POLICY {prov_id} ({src.get('notes','')}) — no policy number "
-                       "(attachment/form); dropped from manifest"}
-    num = mnum.group(1)
-    doc_id = prof["id"](num)
-    division, title = doc_header_title(raw_txt)
-    if not title:
-        title = src.get("notes", doc_id)
+
+    if path_identity:
+        num, title = (src["notes"].split("|", 1) + [""])[:2]
+        doc_id = prov_id
+        division = ""
+    else:
+        mnum = prof["num_re"].search(raw_txt)
+        if not mnum:
+            pdf_path.unlink(missing_ok=True)
+            return {"status": "skip", "id": prov_id,
+                    "msg": f"NON_POLICY {prov_id} ({src.get('notes','')}) — no policy number "
+                           "(attachment/form); dropped from manifest"}
+        num = mnum.group(1)
+        doc_id = prof["id"](num)
+        division, title = doc_header_title(raw_txt)
+        if not title:
+            title = src.get("notes", doc_id)
     me = prof["effective_re"].search(raw_txt)
     effective = me.group(1) if me else ""
-    ms = prof["supersedes_re"].search(raw_txt)
+    ms = prof["supersedes_re"].search(raw_txt) if prof.get("supersedes_re") else None
     supersedes = ms.group(1) if ms else ""
 
     if doc_id != prov_id:
@@ -249,7 +402,7 @@ def ingest_one(prof, src, out_dir) -> dict:
     _id, text = doc_markdown(prof, num, title, division, url, sha, effective, supersedes, raw_txt)
     (out_dir / f"{doc_id}.md").write_text(text, encoding="utf-8")
     return {"status": "ok", "id": doc_id, "sha": sha, "url": url,
-            "notes": f"{title} (DOC {num})", "msg": f"OK {doc_id} (DOC {num})"}
+            "notes": f"{title} ({prof['citation'](num)})", "msg": f"OK {doc_id} ({prof['citation'](num)})"}
 
 
 def main():

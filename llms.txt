@@ -48,3 +48,11 @@
 ## Department of Corrections — Policies
 
 - [Index](agencies/department-of-corrections/policies/_index.md): 135 documents.
+
+## Department of Human Services — Policies
+
+- [Index](agencies/department-of-human-services/policies/_index.md): 17 documents.
+
+## Oregon Health Authority — Policies
+
+- [Index](agencies/oregon-health-authority/policies/_index.md): 189 documents.

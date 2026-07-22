@@ -29,6 +29,16 @@ AGENCY_FURNITURE = {
     "department-of-corrections": [
         re.compile(r"^Effective:\s*[\d/]+\s+Page\s+\d+"),   # per-page footer
     ],
+    # ODHS|OHA shared "Operational Policy" template (OSH, ISPO, DHS agency policies):
+    # per-page footer "Page N of M          <policy code> (mm/yy)" — the shared FURN_RE's
+    # 'Page N of M' pattern requires end-of-line, but this template appends a trailing
+    # policy-number/date, so it needs its own pattern.
+    "oregon-health-authority": [
+        re.compile(r"^Page\s+\d+\s+of\s+\d+\b"),
+    ],
+    "department-of-human-services": [
+        re.compile(r"^Page\s+\d+\s+of\s+\d+\b"),
+    ],
 }
 
 

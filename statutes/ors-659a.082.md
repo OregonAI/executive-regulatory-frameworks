@@ -27,6 +27,7 @@ relationships:
   implemented_by:
     - das-50-010-01
     - oar-839-006-0480
+    - oha-osh-5-008
   references_external: []
   related: []
   supersedes: []

@@ -1,0 +1,1686 @@
+                          PUBLIC HEALTH
+                   INSTITUTIONAL REVIEW BOARD
+                           Policy & Procedures Manual
+
+
+
+
+                  Oregon Public Health Division
+              Multnomah County Health Department
+
+For more information:
+https://public.health.oregon.gov/ProviderPartnerResources/EvaluationResearch/InstitutionalRe
+viewBoard/Pages/index.aspx
+
+
+
+
+                                      Last revised by:
+                             Alayna Nest, PH IRB Coordinator
+                             Contact: Alayna.n.nest@state.or.us
+
+
+
+
+                                       January 2018
+                                                           Table of Contents
+PRINCIPLES .............................................................................................................................................. 1
+PURPOSE .................................................................................................................................................... 1
+AUTHORITY .............................................................................................................................................. 2
+RELATIONSHIPS...................................................................................................................................... 4
+  ADMINISTRATION ...................................................................................................................................... 4
+  OTHER HUMAN SUBJECT REVIEW COMMITTEES ...................................................................................... 4
+  PRINCIPAL INVESTIGATOR ........................................................................................................................ 5
+  INSTITUTIONAL IRB OFFICIAL .................................................................................................................. 5
+  FEDERAL REGULATORY AGENCIES........................................................................................................... 5
+PH IRB MEMBERSHIP ............................................................................................................................ 6
+MANAGEMENT OF THE IRB ................................................................................................................ 7
+  SELECTING CHAIRPERSON/VICE CHAIR .................................................................................................... 7
+  TRAINING OF IRB CHAIR AND MEMBERS ................................................................................................. 8
+  COMPENSATION ........................................................................................................................................ 8
+  DUTIES OF THE PH IRB COORDINATOR .................................................................................................... 8
+  RESOURCES ............................................................................................................................................. 10
+CONFLICT OF INTEREST .................................................................................................................... 10
+OPERATION OF THE PH IRB .............................................................................................................. 11
+  MEETINGS ............................................................................................................................................... 11
+  REVIEW PROCESS .................................................................................................................................... 11
+        RESPONSIBLE PARTY/SPONSORSHIP                                                                                                                      11
+        INITIAL REVIEWS                                                                                                                                    11
+        CONTINUING REVIEWS                                                                                                                                 13
+        PROJECT REVISION/AMENDMENT REQUESTS                                                                                                               13
+        PROMPT REPORT REVIEWS                                                                                                                              14
+        DEFERRAL OF REVIEW                                                                                                                                 14
+        EXEMPTIONS                                                                                                                                         14
+        EXPEDITED REVIEW                                                                                                                                   15
+        FULL BOARD REVIEW                                                                                                                                  15
+        FINDINGS BY FULL BOARD                                                                                                                             20
+  APPEAL OF PH IRB DECISION ................................................................................................................. 21
+PH IRB RECORD REQUIREMENTS ................................................................................................... 21
+INFORMATION THE INVESTIGATOR PROVIDES ........................................................................ 22
+  DATA USE AGREEMENTS ........................................................................................................................ 22
+  TRAINING DOCUMENTATION AND RESUMES .......................................................................................... 23
+  INITIAL REVIEW QUESTIONNAIRE (IRQ) ................................................................................................ 23
+  PROTOCOL/GRANT APPLICATION ........................................................................................................... 23
+  HIPAA QUESTIONNAIRE OR AUTHORIZATION FORM ............................................................................. 24
+  CONSENT FORM(S) ................................................................................................................................. 26
+        ASSENT AND PARENTAL PERMISSION FORMS                                                                                                               28
+        INFORMED CONSENT FOR GENETIC RESEARCH                                                                                                             28
+        ELEMENTS OF CODED RESEARCH UNDER OREGON LAW                                                                                                        29
+  REQUESTS FOR CHANGE AFTER STUDY COMMENCEMENT (PRAF) ....................................................... 30
+  UNANTICIPATED PROBLEM/ADVERSE EVENT REPORT FORM ................................................................ 31
+  PROTOCOL DEVIATION/NONCOMPLIANCE REPORT ................................................................................ 32
+  STUDY CLOSURE FORM ........................................................................................................................... 32
+MISCONDUCT ......................................................................................................................................... 33
+                                        PRINCIPLES
+Research conducted by the Public Health Division (PHD) and the Multnomah County Health
+Department (MCHD) is guided by codes of ethical principles developed by the scientific
+community over the last 60 years. One of the earliest, the Nuremberg Code, resulted from a
+large-scale outbreak of World War II criminal medical experiments on non-German nationals.
+This code laid out basic principles regarding voluntary consent, the avoidance of unnecessary
+physical and mental suffering and injury, degree of risk, necessary protections, and vetted
+qualifications of the investigator. The Nuremberg Code served as the prototype of many later
+codes and intended to ensure that research involving human subjects would be carried out in an
+ethical manner. Of particular importance to social science research is the Belmont Report1
+published in April 1979, which lays down the following ethical principles for the protection of
+human subjects in research:
+
+1) Respect for persons: Individuals should be treated as autonomous agents capable of self-
+   determination and individuals with diminished autonomy are entitled to protection;
+2) Beneficence: The complementary obligations not to harm individuals and to maximize
+   possible benefits and minimize possible harms;
+3) Justice: The selection of research subjects needs to be scrutinized in order to determine
+   whether some classes are being systematically selected simply because of their easy
+   availability, their compromised position, or their manipulability, rather than for reasons
+   directly related to the problem being studied. Furthermore, when the development of
+   therapeutic devices and procedures are involved, the demand that these not provide
+   advantages only to those who can afford them and that such research should not unduly
+   involve persons from groups unlikely to be among the beneficiaries of subsequent
+   applications of the research.
+
+The ethical principles from the Nuremberg Code and the Belmont Report were codified in 1981
+and amended in 1991 in Title 45, Part 46, of the Code of Federal Regulations with the title of
+The Common Rule (45 CFR 46)2.These regulations require peer review for all federally funded
+research involving human subjects. In addition, they spell out the composition of the review
+committee, the kind of research that qualifies for an expedited or full board review, research that
+is exempt from review, and the requirements of the informed consent process. Compliance with
+these regulations includes following pertinent federal and state laws and regulations that provide
+additional protections for human subjects.
+
+                                           PURPOSE
+The Public Health Division/Multnomah County Health Department Institutional Review Board
+(PH IRB) is an administrative body composed of both scientists and non-scientists, internal
+PHD/MCHD staff and external non-affiliates, vulnerable population representatives, and
+alternates established to review research studies and ensure that the rights and wellbeing of
+
+
+1 The Belmont Report
+2 45 CFR 46, The Common Rule
+
+
+
+                                Public Health IRB Policy – 01/18
+                                             Page 1
+people who are subjects in research are adequately protected. Research is defined as a systematic
+investigation, including research development, testing, and evaluation designed to develop or
+contribute to generalizable knowledge. All research projects conducted by PHD/MCHD staff
+involving human subjects or their data and all research projects conducted by external personnel
+requesting PHD/MCHD data on human subjects must be brought to the attention of the PH IRB
+so a level of review may be determined. The PH IRB shall comply with the applicable
+requirements of 45 CFR 46 and determine whether the criteria set out in its Policy have been
+satisfied.
+
+                                           AUTHORITY
+The Public Health Division and Multnomah County Health Department are committed to the
+concept of ethical research and consequently both agencies have a Federalwide Assurance3
+(FWA) in place with the Office of Human Research Protections (OHRP): PHD FWA #00000520
+and MCHD FWA #00004186. These assurances apply whenever the institutions become
+engaged in human subject’s research conducted or supported by any U.S. federal department or
+agency that has adopted the U.S. Federal Policy for the Protection of Human Subjects, also
+known as The Common Rule (45 CFR 46). Oregon’s Public Health Division and Multnomah
+County Health Department both elect however, to also apply the Common Rule and its subparts
+to all human subjects research regardless of the source of support. These FWA’s designate the
+OHRP registered PH/MCHD IRB (IRB Registration #00001099) as their Institutional Review
+Board which is structured and functioning in accordance with 45 CFR 46. The Intergovernmental
+Agreement #126110 was put in place between the PHD and the MCHD for the purpose of
+delineating the responsibilities of the PH IRB in reviewing research activities for the MCHD.
+
+It is important to note that the PH IRB is ultimately overseen by the Oregon Public Health
+Director. While not generally involved, if the PH IRB receives a questionable or controversial
+protocol or, if research misconduct is at issue, and a final decision maker is needed, then the
+Director will be called upon. Since the PH IRB is not charged with making final decisions and is
+not advising a “public body”, the Oregon Public Meetings Law does not apply. (See “The
+Oregon Department of Justice, Attorney General’s 2014 Public Records and Meetings Manual”,
+Section II.B.1.) Consequently, all meeting and study protocol documentation is maintained on a
+secure member only webpage and will not be made public.
+
+Activities deemed to be human subjects’ research that involve PHD/MCHD employees, data, or
+sponsorship cannot be conducted without prior approval from the PH IRB. In the case of NIH
+funded multi-site domestic studies, the NIH sIRB policy will be adhered to, however, the PHD
+and MCHD both elect to have the PH IRB conduct additional internal review, more on this
+below under “Other Human Subject Review Committee’s”.
+
+PH IRB review is required for all research with human subjects if any one or more of the
+following applies:
+
+     The research is sponsored by the PHD or MCHD;
+     The research is conducted by or under the direction of an employee or agent of PHD or
+
+3
+    Link to the OHRP FWA Database
+
+
+                                    Public Health IRB Policy – 01/18
+                                                 Page 2
+    MCHD in connection with his/her agency responsibilities, or using any property or facility of
+    PHD or MCHD;
+   The research involves the use of PHD or MCHD’s data;
+   The research involves the use of PHD or MCHD’s non-public information to identify or
+    contact human research subjects or prospective subjects;
+   Funding for the research will be handled through PHD or MCHD, but the research will be
+    done at another location.
+In accordance with §46.109 the PH IRB has the responsibility to review, approve, disapprove or
+require changes for all the above listed research activities. Per §46.113, the PH IRB also has the
+authority to suspend or terminate the approval at a later time in order to protect the subjects’
+rights. Research projects already approved by the PH IRB, or by an external sIRB as is now a
+requirement of NIH funded multi-site studies, may be subject to further review and approval by
+officials of each institution involved. Note however, §46.112 prohibits such institutional officials
+from approving a research project that has not first been approved by an IRB.
+
+Often, some of the above may apply but navigating the grey areas of regulated research and
+public health practice makes it difficult to determine whether or not a PH IRB review is required.
+For this reason, the Public Health Division has created a team of scientific experts labeled as the
+Science and Epidemiology Council (SEC) which encompasses a Project Review Team.
+Likewise, the Multnomah County Health Department has created its own internal Project Review
+Team (PRT). If any of the above apply but the project leads are unsure as to what their work
+would qualify as, they should consult with a PRT Representative for assistance in distinguishing
+the two. This representative will make one of the following determinations:
+
+       The work is human subjects research, direct the research team to the PH IRB,
+       The work is not human subjects research, rather it is public health practice, direct the
+        team to begin their work without further review,
+       The work is public health practice, however, it is suggested that the project lead brings
+        his/her work before the internal Project Review Team for review, input, and guidance, or
+       Undecided. Directs the team to bring their work before the Project Review Team for a
+        formal vote on its designation as either research or practice. If research, the team will
+        then be directed to the PH IRB where they will receive instructions for a formal IRB
+        review.
+
+The above criteria do not always encompass studies that the PH IRB is asked to review and as
+the sole IRB for The Division, it must limit the scope of its activities in order to improve
+efficiency and prioritize the allocation of its limited resources. The PH IRB has no ability to
+charge a fee for its services, and thus many researchers whom contact our IRB for review may be
+directed to commercial IRB’s for assistance. The Board includes Public Health Division staff,
+Multnomah County Health Department staff, Oregon State Hospital staff, and select external
+volunteers with expertise in epidemiologic research, public health interventions, and social and
+behavioral science (see membership section below). The Board does not have expertise in
+clinical research or medical interventions. On occasion, researchers may request that the PH IRB
+review clinical trials or other medical interventions, however, these are outside the scope of our
+expertise and thus need to be reviewed by an IRB with knowledge of the issues related to these
+types of studies. Although for such research, the PH IRB is likely to defer, a number of internal
+
+
+                                Public Health IRB Policy – 01/18
+                                             Page 3
+Public Health Division policies have been developed for purposes of research involving
+investigational medical devices, treatment use of an investigational new drug, and the emergency
+use of an investigational drug. 4For any research requiring PH IRB review in which other Oregon
+Health Authority Divisions or Offices are too somehow involved, a deliberate effort will be
+made to keep these Divisions or Offices informed regarding our review.
+
+
+                                         RELATIONSHIPS
+The responsibility of ensuring accountability and compliance for research is a shared
+relationship. The Principal Investigator and his/her team, the Board and its support staff, and
+both Oregon Public Health Division and Multnomah County Health Department institutional
+officials hold the responsibility for ensuring respect, trust and support in the review process. All
+parties are entrusted with the responsibility of protecting the rights and welfare of human
+research participants and the privacy of their data by ensuring compliance with the federal
+regulations during the PH IRB review and throughout the duration of the research. The PHD and
+MCHD are committed to creating an institutional culture that honors and demonstrates this trust
+and respect.
+
+Administration
+The PHD Health Officer & State Epidemiologist in consultation with the Multnomah County
+Health Officer will appoint members of the PH IRB. Selection of members is representative of
+public and preventive health programs in state and local government as well as higher education,
+private community health programs and the public. The PH IRB Coordinator reports to the PHD
+Health Officer & State Epidemiologist and manages the institutional review and approval
+process for all proposed research activities.
+
+Other Human Subject Review Committees
+The PH IRB functions independently of other review committees. At times a deferral of review
+will be requested and the PH IRB will take the request into consideration. At no time however,
+will any project that meets the criteria above listed under “Authority” not go through an internal
+administrative review by the PH IRB. This means regardless of funding and a possible deferral,
+the PH IRB must be notified of the study and an internal administrative review to some extent
+must still take place.
+
+The PH IRB and NIH-funded Multi-site Studies
+Effective January 25, 2018 the NIH single IRB policy5 will apply to all NIH-funded multi-site
+studies (studies in which the same protocol is being used at each site), whether supported through
+grants, cooperative agreements, contracts, or the NIH Intramural Research Program. This applies
+to all competing grant applications, whether new, renewal, revision, or resubmission, with NIH
+receipt dates on or after January 25, 2018. In the NIH application for research funding, the
+applicant is expected to submit a plan describing the use of a single IRB that would be selected
+to serve as the IRB of record for all study sites, carrying out the IRB review requirements at 45
+CFR 46. If a study meets the criteria for what must come to the PH IRB for internal review, the
+research team must communicate this sIRB plan with the PH IRB Coordinator immediately so
+appropriate steps to comply with the single IRB policy can be taken.
+
+4
+    Link to PH IRB Policies & Procedures webpage
+5
+    NIH sIRB Policy FAQs for Extramural Community
+
+
+                                    Public Health IRB Policy – 01/18
+                                                 Page 4
+An Authorization Agreement will delineate the responsibilities of all parties but it will always be
+the responsibility of the PH IRB to ensure all relevant context issues including state laws are
+appropriately addressed at our local site throughout the duration of the study. For this and several
+other reasons, the PH IRB Coordinator will still conduct an internal administrative review of the
+project documentation. As a participating site, the PH IRB will inform the single IRB about
+relevant local context issues and will refer questions, concerns, revision requests, and
+suggestions to the designated single IRB administrator, but no changes will be made to local site
+documents without previous approval by the single IRB. As a participating site, the PH IRB will
+still be responsible for meeting other regulatory obligations such as reviewing conflicts of
+interest, ensuring that site investigators obtain informed consent from prospective research
+participants, ensure site investigators meet local training requirements, oversee the
+implementation of the approved protocol, and report changes, protocol deviations, local
+unanticipated problems, serious adverse events, and study progress to the single IRB. It is the
+responsibility of the local research team to notify the PH IRB of any local protocol deviations,
+unanticipated problems, serious adverse events, and the study progress on a regular basis.
+
+The PH IRB and Revised Common rule sIRB Mandate
+Effective January 20, 2020 per the Federal Policy for the Protection of Human Subjects single
+IRB review will be required for all review in domestic research involving more than one
+institution. This policy will apply to collaborative research, meaning the same research is
+occurring at each site. Just as with NIH-funded studies, the PH IRB Coordinator will still
+conduct an internal administrative review of the project documentation, acknowledging however,
+that such reviews will no longer have any regulatory status in terms of compliance with The
+Common Rule. Consistent with the NIH single IRB policy, the reviewing IRB will again be
+identified by the federal department or agency supporting or conducting the research and as a
+participating site the PH IRB will again take on the above noted responsibilities.
+
+Principal Investigator
+A Principal Investigator (P.I.) is the person designated as the individual responsible for the
+administrative and programmatic aspects of the proposed project. Although there are no specific
+degree requirements, the P.I. must be appropriately vetted for technical competence and
+substantive capabilities (scientific, administrative, and otherwise) to carry out a project. This
+person should be sufficiently qualified by education, training, and experience to assume
+responsibility for the proper conduct of the research and must assure that they have sufficient
+time and resources to properly conduct or supervise the research for which they are responsible.
+
+Institutional IRB Officials
+The Institutional IRB Official for the PHD is the Health Officer & State Epidemiologist. The
+Institutional IRB Official for the MCHD is the Health Department Director. These Officials are
+authorized to act for the institutions and assume overall responsibility for compliance with the
+federal regulations for the protection of human subjects.
+
+Federal Regulatory Agencies
+The Office of Research Integrity (ORI): Reports on possible research misconduct are filed
+annually with this U.S. Department of Health & Human Services (DHHS) office. It accepts
+jurisdiction over matters relating to possible fabrication, falsification, or plagiarism in research
+funded by the Public Health Service (PHS).
+
+
+                                 Public Health IRB Policy – 01/18
+                                              Page 5
+The Office for Human Research Protections (OHRP)/National Institutes of Health (NIH)/U.S.
+Food and Drug Administration (FDA): Breaches in scientific integrity, any actions related to
+adverse events, or any terminations of research by the PH IRB may be reported as they occur to
+the appropriate agency. Advice and counsel are sought from the OHRP, NIH, and/or the FDA
+whenever issues of regulation or guidance require clarification. IRB registration and institutional
+FWAs are renewed through the OHRP.
+
+                                  PH IRB MEMBERSHIP
+The Public Health Division/Multnomah County Health Department Institutional Review Board
+(PH IRB) is an administrative body composed of both scientists and non-scientists, internal
+PHD/MCHD staff and external non-affiliates, vulnerable population representatives, alternates,
+and members of the community representing public and preventive health agencies established to
+review research studies and ensure that the rights and wellbeing of people who are subjects in
+research are adequately protected. A majority of PH IRB members must attend meetings,
+including the Chair or Vice Chair, to achieve a quorum capable of conducting official PH IRB
+business. A minimum of five members will serve on the Board at any given time. As noted
+earlier, the PHD Health Officer & State Epidemiologist in consultation with the Multnomah
+County Health Officer will appoint members of the PH IRB. The duration of service is not time
+limited. The PH IRB Coordinator will check in with each member annually to determine their
+continued interest in serving on the Board. Members serve at the pleasure of the Institutional
+Officials and may be relieved of his or her responsibilities for failure to perform PH IRB duties
+in an appropriate manner.
+
+PH IRB members are selected in accordance with the guidelines established by OHRP and
+criteria listed under §46.107. . Members are chosen with varying backgrounds to promote
+complete and adequate review of research activities commonly conducted by the institution. This
+includes membership diversity in relation to race, gender, cultural backgrounds, and sensitivity
+to such issues as community attitudes. There will be at least one member whose primary concern
+is scientific, at least one member whose primary concern is non-scientific, and one person whom
+is not affiliated with either the PHD or the MCHD. The PH IRB will also consist of
+representatives for prisoners and multicultural communities.
+
+In addition to possessing the professional competence necessary to review scientific and human
+subjects’ research activities, the PH IRB shall also be able to ascertain the acceptability of
+proposed research in terms of institutional commitments and regulations, applicable laws, and
+standards of professional conduct and practice. The PH IRB will therefore include persons
+knowledgeable in these areas. Individuals with competence in special areas may be invited to
+assist in the review of issues that require expertise beyond or in addition to that available on the
+PH IRB. These individuals provide consultation only and do not vote.
+
+No PH IRB member may participate as a primary or secondary reviewer in the initial or
+continuing review of any project in which the member has a conflict of interest. While these
+members may be present at meetings to provide information requested by the PH IRB, the
+member with the conflict must abstain from voting. Alternate members may substitute for
+specific primary members during PH IRB meetings, with the requirement that they have similar
+expertise.
+
+
+                                 Public Health IRB Policy – 01/18
+                                              Page 6
+                                  MANAGEMENT OF THE IRB
+The PH IRB is a part of the Science and Evaluation Unit of the Office of the State Public Health
+Director and is situated in Suite 930 of the Portland State Office Building located at 800 NE
+Oregon Street, Portland, Oregon. The PH IRB is scheduled to meet on a monthly basis, the
+second Friday of every month from 8:30 - 11:00 a.m. when the review of a more-than-minimal
+risk research study is needed. Proposals of research projects that meet a more-than-minimal risk
+status must be submitted by the monthly application deadline in order to be considered for Full
+Board review the following month.6 The PH IRB Coordinator shall provide coordination and
+support services for all PH IRB activities. It will be their duty to support the Chair and other
+Board members, all internal PHD/MCHD researchers, and external investigators who submit
+research proposals to the PH IRB. All research material will be posted to the secure Public
+Health IRB Member GovSpace page or sent via secure e-mail to the Board approximately two
+weeks prior to the scheduled meeting. The PH IRB GovSpace page is secure and may only be
+accessed by users who have been granted access by the PH IRB Coordinator whom serves as the
+owner of the page.
+
+The PH IRB Coordinator will maintain records and files of all applications, initial and continuing
+review activities, supplemental study documentation, and record of all meeting proceedings and
+decisions via formal minutes. Further, all e-mail correspondence between the Coordinator and
+the research team and all formal correspondence from the Chair to the Principal Investigator will
+be maintained in the study files. A record of the PH IRB Roster and meeting schedule will also
+be maintained along with all relevant policies. Although federal policy requires only a three year
+retention period for records relating to research, the PH IRB will follow state administrative rule
+guidelines and retain all project records no longer than 10 years after a study is closed or deemed
+exempt and all IRB minutes for 25 years post approval prior to destroying.
+
+Selecting Chairperson/Vice Chair
+All members who have served at least one year on the PH IRB or have a minimum of one year of
+previous experience working with an IRB or the human subjects’ research protection regulations
+are eligible to be Chairperson. The PHD Health Officer & State Epidemiologist and the MCHD
+Health Officer shall jointly appoint the Chairperson and Vice Chair. These individuals should be
+highly competent and fully capable of managing the PH IRB and matters brought before it with
+fairness and impartiality. With the mutual consent of the institutional officials, the duration of
+service of the Chairperson and Vice Chair is not time limited. As with the PH IRB members, the
+IRB Coordinator will check in with them annually to determine their continued interest in
+fulfilling these roles.
+The responsibilities of the Chairperson and Vice Chair include:
+
+     Play a leadership role in establishing and implementing PH IRB policy;
+     Represent the PH IRB in discussions with other organizations and federal authorities;
+     Direct the proceedings and discussion of the monthly Board meetings;
+
+
+6
+    Link to PH IRB Meeting Dates and Application Deadlines webpage
+
+
+                                     Public Health IRB Policy – 01/18
+                                                  Page 7
+   Vote on all protocols reviewed at full committee meetings;
+   Understand ethical issues, state law, institutional policy, and federal regulations that are
+    applicable to studies reviewed by the PH IRB;
+   Review and sign (or authorize for signature) PH IRB response and determination letters to
+    investigators; and
+   In collaboration with the PH IRB Coordinator, promptly review and make decisions
+    regarding submitted research proposals and the investigators’ response to Board conditions.
+
+The Chairperson and Vice Chair serve at the pleasure of the Institutional Officials and may be
+relieved of their responsibilities for failure to perform the duties in an appropriate manner.
+
+Training of IRB Chair and Members
+The PH IRB Coordinator will ensure the Board receives orientation, providing this Institutional
+Review Board Policy and Procedures Manual to each new member along with the Board roster
+and Full Board schedule. The PH IRB Chair will receive a copy of the IRB Guidebook,
+“Protecting Human Research Subjects,” published by the OHRP.
+
+It is strongly recommended that the Institutional Official’s complete Module 1 of the OHRP,
+“Human Subject Assurance Training”. The Human Protections Administrator and the IRB Chair
+should complete all three modules. This training is located at:
+
+    -   https://ohrp-ed.od.nih.gov/CBTs/Assurance/login.asp
+
+In addition, the NIH Office of Extramural Research computer based training, “Protecting Human
+Research Participants,” and the PH IRB human subjects research training course developed from
+the Collaborative Institutional Training Initiative (CITI), “IRB Members” are strongly
+recommended. These online trainings are located at:
+
+    -   https://phrp.nihtraining.com/users/login.php, and
+    -   http://www.citiprogram.org (specific Oregon PHD login instructions can be obtained
+        through the PH IRB Coordinator).
+
+The PH IRB Chair and Coordinator will be encouraged to attend national conferences from
+which they will provide summary information to PH IRB members. The PH IRB Coordinator
+will maintain a library of reference material, including videotapes, conference materials and
+books for use by PH IRB members, researchers and their staff.
+
+Compensation
+PH IRB members serve as volunteers and are not compensated for their service to the PH IRB.
+
+Duties of the PH IRB Coordinator
+
+   Create and maintain PH IRB policies, updating and revising as necessary to ensure
+    compliance with revised federal policies and regulations and state law;
+
+
+
+                                 Public Health IRB Policy – 01/18
+                                              Page 8
+   Interpret and apply state laws, federal regulations, institutional policies and guidelines to
+    protect human subjects and to ensure institutional compliance;
+   Provide direction to the research team regarding the PH IRB review process including the
+    steps that must be taken prior to submission and regulatory and ethical advice to individual
+    research staff in preparation of applications and consent documents;
+   Provide assistance to both PHD and MCHD program staff in regards to the PH IRB process,
+    including assistance in the development of any required data use agreements being created
+    specifically for research purposes;
+   Serve as the Coordinator for the Science and Epidemiology Council and its Project Review
+    Team (PRT) and additionally serve as the primary resource to project leads as they prepare
+    their project documentation for presentation to the Council;
+   Ensure research protocols internal to either the PHD or MCHD list a Supervisory Manager as
+    key personnel, effectively designating them as the responsible party overseeing the conduct
+    of the study;
+   Ensure research protocols external to the PHD and MCHD have a designated PHD or MCHD
+    “Sponsor” whom completes a scientific merit review of the proposed study prior to its
+    submission;
+   Extensively screen new and renewal applications along with any administrative and
+    procedural modification requests;
+   Contact and advise investigators in preparation, revision, and completion of these application
+    processes including revisions that must be made to study documentation and conditions that
+    must be met prior to any recommendation being made to the Board or Chair;
+   Recommend actions to the PH IRB Chair or Vice Chair including proposal for research to be
+    reviewed by the Full Board, go through an expedited review, be granted conditional approval
+    or full approval, be disapproved, terminated, closed, or be found exempt from review;
+   Prepare meeting agendas and study documentation for distribution and assign applications to
+    committee members for review;
+   Be timely in communications regarding protocol reviews with both the Board and research
+    team;
+   Keep appropriate programs, data owners and managers informed about the progress of
+    research applications in relation to their data requests from the investigators;
+   Prepare correspondence that conveys PH IRB deliberations and contingencies for approval of
+    research activities involving human subjects;
+   Review protocol deviation reports, ensure the appropriate corrective actions have been
+    initiated to prevent such deviations in the future, and verify that the protections in place for
+    subjects and their data have not been substantially altered;
+   Review submitted adverse event and unanticipated problem reports, ensure prompt reporting
+    to OHRP or FDA if legally required, and confirm proper steps have been taken so such
+    events are prevented in the future;
+
+
+
+
+                                 Public Health IRB Policy – 01/18
+                                              Page 9
+   Create the internal7 and external data request process maps8 for research related requests and
+    update as necessary;
+   Maintain the annual renewal system, prepare and mail reminders and forms to research
+    teams, and obtain annual financial conflict of interest disclosure forms;
+   Prepare final meeting reports and maintain records for all studies;
+   Assist in the development and presentation of materials and training programs for staff and
+    Board members on the ethical conduct of research involving human subjects and maintain
+    records and logs of training completion dates for both internal and external research staff;
+   Provide information to research subjects on their rights;
+   Send monthly expedited review reports to the Board; and
+   Maintain active registration of the PH IRB and both FWA’s.
+
+Resources
+Sufficient resources will be made available for the administrative oversight of the PH IRB as
+well as to its Board members. This includes, but is not limited to, providing an adequate number
+of staff with appropriate workspace and equipment, meeting room space, education and training
+opportunities, and reference material.
+
+                                   CONFLICT OF INTEREST
+The PHD has established an internal Financial Conflict of Interest Policy for Federally
+Sponsored Research Activities9 in compliance with 42 CFR 50 Subpart F, “Responsibility of
+Applicants for Promoting Objectivity in Research for Which PHS Funding Is Sought”. The
+purpose of this policy is to promote the objectivity in research by establishing standards that
+preserve the integrity of research, protect the rights and safety of research subjects, and prevent
+bias in the design, conduct, and reporting of research funded under PHS grants or cooperative
+agreements. Any PHD or MCHD employee that serves as an investigator or key personnel and
+who is planning to participate in PHS-funded research must disclose to the institution any
+significant financial interest (and those of the investigator’s or key personnel’s spouse and
+dependent children) through the submission of an annual disclosure statement.
+
+At the time of a research submission, if federally funded, the PH IRB Coordinator will ensure a
+current disclosure statement is on file for all key personnel listed on the application. The
+Coordinator will maintain annual statements that cover all PHS-funded research that the
+investigator may be involved with, however, if at any time conflicts of interests change, it is the
+employee’s duty to promptly submit a new, updated form. Further, CITI FCOI training must be
+completed by such personnel. The PHD and MCHD Institutional IRB Officials will serve as the
+Financial Conflict of Interest Officer’s (FCIO) and in collaboration with other institutional
+officials will review any disclosures to determine what actions are necessary to manage the
+conflict, reporting them to the PH IRB. If actions required result in revisions to the research
+
+
+7
+  PHD/MCHD Internal Data Request Process Map
+8
+  External Data Request Process Map
+9
+  PHD Policy - FCOI in Federally Sponsored Research Activities
+
+
+                                    Public Health IRB Policy – 01/18
+                                                Page 10
+protocol or disclosure of information to a research subject, investigators must submit revised
+material to the PH IRB for review and approval.
+
+Alternatively, if an investigator from an external institution submits an application to the PH IRB
+evidence must be provided that the external institution is in compliance with 42 CFR 50, Subpart
+F and that appropriate disclosures have been made. This can be in the form of an institutional
+FCOI Policy or the disclosures themselves.
+
+Federal regulations do not allow an IRB member to participate in the initial or continuing review
+of any project in which the IRB member has a conflicting interest and such members will not
+participate in the review except to provide information requested by the PH IRB. These members
+must abstain from any vote with respect to such a project.
+
+                                   OPERATION OF THE PH IRB
+Meetings
+The PH IRB meets on the second Friday of every month from 8:30 - 11:00 a.m. Meetings are
+held in Suite 918 of the Portland State Office Building located at 800 NE Oregon Street,
+Portland, Oregon. These meetings are held to discuss previous meeting minutes, protocol
+deviations, adverse events or unanticipated problem, substantive revisions to previously
+approved research that are likely to increase risk to subjects or significantly affect the nature of
+the study, and more-than-minimal risk protocols needing either an initial or continuing review.
+The PH IRB Coordinator will develop the agenda and prepare material for review. All
+documentation will be posted to the PH IRB Member secure GovSpace page or be sent via
+secure e-mail approximately two weeks prior to the scheduled Board meeting.
+
+Review Process
+Responsible Party/Sponsorship
+Studies internal to the PHD or MCHD must list a Supervisory Manager as key personnel on their
+Initial Review Questionnaire10, effectively designating them as the responsible party overseeing
+the conduct of the of the study throughout its duration. Studies external to the PHD and MCHD
+must have a designated PHD or MCHD “Sponsor”. This sponsor does not need to be working on
+the actual investigation; rather, their sponsorship acknowledges their familiarity with the project
+including their ability to vouch for its scientific and research merit and integrity. The “Sponsor”
+will be required to fill out the “Scientific Merit Pre-IRB Review Tool” which is located in the
+“OHA Public Health Division Pre-IRB Review Process for External Projects” document.11 When
+an internal PHD or MCHD program specific Advisory Committee or Review Group approves a
+proposal prior to directing the research group to the PH IRB, the review may adequately serve as
+the sponsorship. In these cases, the PH IRB Coordinator will request documentation of the
+Program’s review including the minutes, correspondence to the investigator, and/or the official
+resulting determination. Whichever is the case, sponsorship designation must be intact prior to
+PH IRB review.
+
+Initial Reviews
+To ensure the PH IRB is the appropriate body to provide a review, careful attention will be paid
+
+10
+     Link to PH IRB Forms webpage
+11
+     OHA Public Health Division Pre-IRB Review Process for External Projects
+
+
+                                      Public Health IRB Policy – 01/18
+                                                  Page 11
+to distinguishing public health practice from public health research. To assist in this effort, the
+PH IRB has adopted the following guidelines:
+
+        “Distinguishing Public Health Research and Public Health Non-Research” established
+         and revised by CDC in July, 201012; and
+        “Public Health Practice vs. Research: A Report for Public Health Practitioners Including
+         Cases and Guidance for Making Distinctions,” published by the Council of State and
+         Territorial Epidemiologists on May 24, 2004.13
+
+
+If found to be research, in order to facilitate the review process, submitted documentation will be
+extensively screened by the PH IRB Coordinator to determine whether the research can be
+classified as Exempt14, meets an Expedited Review15 category, or shall be referred for Full Board
+Review. During the pre-screening of an application, every attempt will be made by the PH IRB
+Coordinator to ensure the application’s documentation is complete, consistent, and compliant
+with both state laws and federal rules and regulations. This preliminary review should help
+investigators focus on problem areas in the research protocol and design and ensure all relevant
+and required supplemental documentation has too been submitted for review. Studies that do not
+qualify as exempt, or do not fall under an expedited review category, will be reviewed by the
+Full Board at a regularly scheduled IRB meeting. If initially reviewed by the Full Board,
+subsequent to the vote the Board will decide if the study must come back to the Full Board or if
+its review may be expedited at its given PH IRB approval expiration date.
+
+In order to approve human subjects’ research, the PH IRB must ensure that the following
+requirements are satisfied:
+
+    Risks to human subjects are minimized;
+    Risks to subjects are reasonable in relation to anticipated benefits to subjects, if any, and the
+     importance of knowledge that may reasonably be expected to result;
+    Selection of subjects is equitable;
+    Informed consent and/or assent and parental permission will be sought from each prospective
+     subject or the subject’s legally authorized representative;
+    The informed consent is adequate and appropriately documented or appropriately waived;
+    When appropriate, adequate provision is made for monitoring the data collected and the data
+     collection process to ensure the safety of the subjects;
+    When appropriate, there are adequate provisions to protect the privacy of subjects and
+     maintain the confidentiality of data; and
+    When subjects are likely to be vulnerable to coercion or undue influence and/or are defined
+     in 45 CFR 46, subparts B, C, or D as a vulnerable population, appropriate safeguards have
+
+12
+   “Distinguishing PH Research and PH Non-Research”
+13
+   “PH Practice vs. Research: A Report for PH Practitioners”
+14
+   List of Exempt Categories
+15
+   List of Expedited Review Categories
+
+
+                                     Public Health IRB Policy – 01/18
+                                                 Page 12
+      been included in the study to protect the rights and welfare of the subjects.
+
+Continuing Reviews
+Substantive and meaningful continuing reviews will be required for all PH IRB approved
+protocols and will be conducted no less than annually by either the Full Board or expedited
+procedures, preceded by receipt of a Continuing Review Questionnaire (CRQ)16 and other
+appropriate progress reports from the investigator, including available study-wide findings. Such
+reviews allow the Board to periodically re-evaluate the benefits, risks, methods, and procedures
+used in research activities, and determine whether the research has been modified without prior
+approval or experienced protocol deviations, non-compliance, adverse events, or unanticipated
+problems that inadvertently were not reported to the PH IRB and other appropriate authorities.
+
+          Approval Expiration:
+          It is the investigator’s responsibility to ensure that PH IRB approval does not lapse during
+          the course of the research study, however the IRB Coordinator will send out reminders
+          approximately six weeks ahead of the expiration.
+
+          When PH IRB approval expires, a formal notice of expiration will be sent and the
+          continuing review paperwork will then be due within two weeks’ time. OHRP does not
+          consider expiration to be a suspension or termination of PH IRB approval, however,
+          approval must be sought as soon as possible in order to continue the research. If the study
+          is active and open to enrollment, all research activities must cease. No new subjects may
+          be enrolled in the study, data cannot be collected from those who have already consented,
+          and analysis of identifiable data, documents, or specimen should be halted. If the study is
+          active but closed to enrollment, data analysis may continue, however, it is asked that any
+          long-term follow up of those enrolled subjects be brought to a stand-still. If the
+          paperwork is not received by the given two-week notice date, reviews will be shortened
+          to every six months.
+
+          When paperwork is not received within six weeks of the formal notice of expiration, the
+          PH IRB approval for the study will be officially terminated. If terminated, all research
+          activities must end. Subjects currently participating in the study and/or the PHD and
+          MCHD Programs and Data Owners will be notified that the study has been terminated
+          and all data collection and transfers must cease. Procedures for withdrawal of enrolled
+          subjects must consider the rights and welfare of the subjects. If follow-up of subjects is
+          required by the PH IRB, current participating subjects will be informed.
+
+Project Revision/Amendment Requests
+Researchers are not to wait until their given PH IRB approval expiration date to submit proposed
+changes, whether minor or substantive in nature. A Project Revision/Amendment Form
+(PRAF)17 should be submitted and review and approval by the PH IRB is required prior to
+implementation of the changes. Failure to report changes will be deemed a protocol violation and
+the Board will halt the study’s progress until a sufficient review of the amendment has occurred.
+Changes may only be initiated without PH IRB review and approval when necessary to eliminate
+immediate hazards to the human subjects.
+
+16
+     Link to PH IRB Forms webpage
+17
+     Link to PH IRB Forms webpage
+
+
+                                    Public Health IRB Policy – 01/18
+                                                Page 13
+More information on what qualifies a revision as minor versus substantive can be found under
+the titled section, “Information the Investigator Provides” under Requests for Changes after
+Study Commencement.
+
+Prompt Report Reviews
+Adverse events, unanticipated problems, and protocol deviations must all be reported as soon as
+the research team becomes aware of them. Such reports will be reviewed by the PH IRB and next
+steps will be formally determined. These events, along with any serious or continuing
+noncompliance with federal regulations, requirements, or determinations of the PH IRB; and any
+suspension or termination of other IRB approvals will be promptly documented by the PH IRB
+and appropriate notification will be sent to Institutional Officials and Federal agencies when
+necessary.
+
+Deferral of Review
+Although the PHD and MCHD have separate Federalwide Assurances filed with the OHRP, both
+rely on the PH IRB and thus both must notify the PH IRB of any human subject’s research, even
+in the case that they wish to cede oversight voluntarily or must cede oversight to another IRB.
+
+A request to cede oversight may be made via e-mail to the PH IRB Coordinator, accompanied by
+the study documentation. At the time of initial review, supplemental PH IRB paperwork may be
+requested to assist the IRB in its review of the request. Depending on a number of factors, most
+importantly the level of staff involvement, the risk and the sensitivity of the requested data, and
+the topic at hand, the Coordinator will recommend a course of action to the Chair regarding the
+deferral. If the PH IRB agrees to cede oversight, a formal memo will be sent to the research team
+explaining that an authorization agreement must be finalized between the two IRB’s and that the
+PH IRB will ask to receive annual updates on the study’s status. This will include a copy of any
+reports submitted to the reviewing IRB along with the most recent IRB continuing review
+approval memo for our files.
+
+Please see the previous explanation of NIH’s single IRB policy on mandated deferrals under
+“Functions of the PH IRB”.
+
+Exemptions
+Research applications that are submitted by an investigator claiming an exemption under 45 CFR
+§46.101, will be reviewed by the PH IRB Coordinator to determine if the research qualifies as
+such and a recommendation will be made to the Chair or Vice Chair for final determination
+regarding exempt status. Special consideration will be made if vulnerable populations are to be
+involved. Important to note, although a project may qualify for an exempt status, Agency Policy
+and HIPAA Privacy Rule regulations and safeguards may still apply. It is therefore critical for
+researchers to present their research project to the PH IRB Coordinator even if they believe it to
+be exempt from review.
+
+After a research team receives an exempt determination from the PH IRB, if any major changes
+occur to the study that change its initial intention, the PH IRB should be notified via e-mail to
+see if the exemption still holds. If after three years from the original exempt determination, the
+PH IRB has not been notified of any revision requests, the IRB Coordinator will contact the
+investigator to check on the status of the study. If no changes have occurred in those three years,
+
+
+                                Public Health IRB Policy – 01/18
+                                            Page 14
+per §.115, the PH IRB will no longer track the study nor keep record of it and will send all study
+documentation to State Archives.
+
+Expedited Review
+The initial or continuing review of a research protocol that appears to fall under an expedited
+review category may be conducted by the PH IRB Coordinator or, if needed due to time
+constraints with the permission of the Chair, one or more Board members may be assigned the
+review. If there is any indication of prisoner inclusion, the PH IRB Prisoner Representative will
+be notified and along with the PH IRB Chair, their review and approval will too be required. If
+asked to conduct the review in lieu of the Coordinator, members shall complete the Expedited
+Review Form and submit it to the PH IRB Coordinator upon completion. After documentation
+has been submitted in a satisfactorily manner, the IRB Coordinator will forward their own, or
+that of the assigned Board members’, recommendation to the Chair which will include a
+summary of the general purpose of the study, its specific aims, the scientific design and merit,
+and its ultimate goal. The summary will outline the procedures to be followed including the
+recruitment of subjects and protection of their data. The PH IRB will be particularly cognizant of
+the potential problems with research involving children, pregnant women, neonates, prisoners,
+mentally disabled persons, and/or those whom are economically or educationally disadvantaged.
+Details regarding their protections can be found below in the guidelines for the Equitable
+Selection of Subjects under “Full Board Review”. Risks and benefits, costs and compensation,
+informed consent or assent and possible authorization, will too be explained in great detail. A
+formal decision memo will be drafted by the Coordinator and sent with the detailed summary
+and recommendation to the Chair or Vice Chair for final ruling.
+
+The IRB Coordinator will request proof of human subjects’ research training for all personnel,
+regardless of role. The Principal Investigator and Co-I’s are to also submit CV’s. If federally
+funded, as explained under the “Conflict of Interest” section of this Policy, 42 CFR 50, Subpart F
+will be adhered to.
+
+Investigators will be notified of the decision by e-mail and the hard-copy original of the
+determination memo will be sent by mail to the P.I. If approved, the PH IRB Coordinator will
+contact the P.I. every year for a continuing review. If changes to previously approved research
+that met expedited criteria occurs, it is the research teams’ obligation to notify the PH IRB. Such
+changes do need to be reviewed prior to implementation to ensure they do not alter the expedited
+status of study per federal regulations. In these instances, completion of the Expedited Review
+Form will not be necessary. Board members will be kept advised of all research protocols and
+project revisions approved through an expedited review process on a monthly basis via electronic
+mail.
+
+Full Board Review
+The Full Board review process shall be carried out at least every year for each initial or
+continuing research activity that does not meet expedited review criteria or is not exempt from
+review, meaning it presents more-than-minimal risk. Convened meetings will be held in which a
+majority of the members of the PH IRB are present, including one member whose primary
+concerns are non-scientific. Approval by a majority of those members present represents
+approval from the PH IRB. The Board shall consider the following factors in reviewing a
+research application:
+
+
+
+                                Public Health IRB Policy – 01/18
+                                            Page 15
+      SIGNIFICANCE: Study objectives must be clearly specified and if there is preliminary data
+       to justify the research, the Board must be made aware. The Board must feel confident that the
+       scientific merit of a proposal justifies its risk to benefit ratio.
+      BENEFITS/RISKS: The Board will review the potential risks, discomforts, hazards, and
+       inconvenience of participation in research protocols and ensure they are reasonable in
+       relation to anticipated benefits and the importance of the knowledge that may reasonably be
+       expected to result. Probability, magnitude, and duration of the risks involved will all be
+       addressed. Precautions that are being taken to avoid or minimize the potential risks will be
+       examined. Direct benefits expected for the subjects involved as well as the community at
+       large must be explained. It is important for the Board to have a strong understanding of the
+       risk to benefit ratio in order to determine its acceptability.
+      EQUITABLE SELECTION OF SUBJECTS: The PH IRB will take into account the purpose
+       of the research, the setting in which the research will be conducted, and whether subjects
+       selected to participate are members of the population most likely to benefit from the research.
+       The Board will ensure appropriate inclusion and exclusion criteria are in place as poorly
+       specified criteria may result in inadvertent exclusion of eligible research subjects and an
+       imbalanced or inappropriate enrollment. Women and members of minority groups should be
+       included in all research projects involving human subjects, unless a clear and compelling
+       reason exists that inclusion of such subjects is inappropriate with respect to the health of the
+       subjects or the purpose of the research. When some or all of the subjects are likely to be
+       vulnerable to coercion or undue influence, the Board will require additional safeguards be
+       included in the study to protect their rights and welfare. All federal regulations defined in 45
+       CFR 46, subparts B, C, and D will be followed when research possibly involves the inclusion
+       of pregnant women, human fetuses or neonates, prisoners, and/or children. The PH IRB
+       elects to apply these subparts for the protection of vulnerable subjects to all research
+       regardless of funding, however, Secretarial consultation and certification from OHRP will
+       not be required for those studies not conducted or supported by HHS. The PH IRB
+       Coordinator will assist the researchers in deciphering whether any of these populations are
+       targeted and/or incidentally included. The PH IRB has further adopted the following
+       guidance:
+               o In general, a researcher is not including a vulnerable population if they have no
+                 way of identifying subjects as a current member of a vulnerable population and no
+                 reason to do so. Research teams are also not including a vulnerable population if
+                 they are accessing records from a time when a subject was a member of a
+                 vulnerable population, but at the time the information is accessed, no longer is.
+               o When proposed research involves children, federal regulatory requirements that
+                 provide additional protection for any person under 18 years of age will be adhered
+                 to. For more guidance on the inclusion of children in research, please see the
+                 internal Public Health Division policy, “Children Participation in Research”18.
+               o To the extent an incarcerated person’s data is incidentally included, the PH IRB
+                 Prisoner Representative will also review the study, regardless of funding. Due to
+                 the extensive and lengthy review required for inclusion of prisoners in research,
+                 specifically for federally funded research in which Secretarial consultation and
+                 OHRP certification are required, it is important to understand that this additional
+18
+     Link to PH IRB Policies and Procedures webpage
+
+
+                                      Public Health IRB Policy – 01/18
+                                                  Page 16
+                   federally mandated protection is not intended for individuals who have ever
+                   served time in prison over their lifetime. The protection is in place, rather, for any
+                   subject that is a prisoner directly involved in the research during their
+                   incarceration. If the Representative finds that there are no particular risks in
+                   linking their health data to information regarding their incarceration or conviction
+                   and further, there is zero risk that a prisoner in the study would somehow be taken
+                   advantage of, abused, or lose something as a result of being a prisoner, then the
+                   Board may determine that Subpart C does not apply. For more guidance, please
+                   see the internal Public Health Division policy, “Prisoner Participating in
+                   Research”.19
+               o For social, behavioral, and education research involving pregnant women, the
+                 Oregon Public Health Division has determined that pregnant women may be
+                 enrolled in research involving interviews, focus groups, or surveys and may also
+                 have their data disclosed for purposes of retrospective data analysis without any
+                 additional safeguards required by Subpart B. The PH IRB will review the study
+                 following equivalent standards as set forth in the Common Rule to ensure their
+                 inclusion is permissible.
+               o If decisionally and cognitively impaired individuals or their data are to be
+                 included in a study, per §.111, the PH IRB will review the protocol to ensure the
+                 study holds minimal risk and adequate safeguards are in place to protect the
+                 confidentiality of their data throughout the entire duration of the study.
+      COMPENSATION/COSTS: Compensation or reimbursement offered must be reasonable
+       and non-coercive. Adequate provisions must be in place to avoid out-of-pocket expenses and
+       costs by the research subject if insurance denies payment. For more guidance, please see the
+       internal Public Health Division policy, “Compensating Research Participants”20.
+      VOLUNTARY AND INFORMED CONSENT: All subjects, adults or children, must be
+       fully informed in advance of the degree of risk involved with their participation and, insofar
+       as possible, given an explanation of the nature and consequences of the proposed research.
+       Methods for securing cooperation of subjects should be specified in advance as clearly as
+       possible. No coercion may be used to obtain or maintain cooperation. Adult subjects or their
+       legally authorized representative must express consent to participate in writing. If the subject
+       is under the age of 18, informed consent must be obtained in writing from the subject’s
+       parent or legal guardian. Subjects over seven years of age must give their assent. All subjects,
+       adults and children alike, must be assured that they may choose to withdraw from the
+       research at any time without penalty. Request for a waiver of consent and/or assent or a
+       waiver of its documentation may be considered by the PH IRB in accordance with §.116(d)
+       and .117(c).
+      PROCEDURES: The Board will be well informed on the timing and setting of the study
+       along with the qualifications of those conducting the research. Consistency among study
+       documentation will be examined thoroughly to ensure uniformity of all written procedures
+       regarding informed consent, protection of subjects, confidentiality of data, and written
+       results. The Board is required to evaluate whether the study procedures are consistent with
+
+
+19
+     Link to PH IRB Policy and Procedures webpage
+20
+     Link to PH IRB Policy and Procedures webpage
+
+
+                                     Public Health IRB Policy – 01/18
+                                                 Page 17
+    sound research design and do not unnecessarily expose subjects to risk.
+   ANALYSIS: Protocols must contain well-conceived, well-formulated, and appropriate plans
+    for interpretation of data and statistical analyses.
+   CONFIDENTIALITY AND PRIVACY: All information gathered on subjects or provided by
+    them via questionnaires, tests, and interviews must be kept confidential. Adequate provisions
+    must be present to protect the privacy and safety of subjects and to maintain the
+    confidentiality of their data. Published accounts of such data must not reveal the identity of
+    the subject.
+   RESEARCH DESIGN: The Board may return to the applicant proposals involving human
+    subjects that it feels are unlikely, through faulty design, to yield accurate and scientifically
+    meaningful data.
+   CODES AND STANDARDS: In their review process, the Board will consider the degree to
+    which proposed research conforms to the prevailing social codes and moral standards of the
+    community or cultural group involved.
+
+Each project requiring Full Board Review is extensively screened and vetted by the IRB
+Coordinator prior to the study documentation being posted on the PH IRB Member GovSpace
+page or sent to the Board via secure e-mail. Projects include both initial proposals and continuing
+reviews not meeting a minimal-risk status. After documentation has been revised and prepared
+in a satisfactorily manner, the Coordinator will identify two Board members and assign them
+primary and secondary reviewer responsibilities. Those assigned will be responsible for
+reviewing the protocol and all supplemental documentation and routing questions for
+clarification or revision requests to the research team through the PH IRB Coordinator prior to
+the scheduled Full Board review. Such reviewers are asked to use the Reviewer Summary
+form(s) and should be prepared to present the following information during the Board meeting:
+
+   Purpose;
+   Specific Aims and Ultimate Goal;
+   Scientific Merit;
+   Study Design;
+   Subject Characteristics;
+   Vulnerable Populations;
+   Risks/Benefits;
+   Costs/Compensation;
+   Recruitment;
+   Consent/Assent Process;
+   Requested Waivers;
+   Privacy/PHI Confidentiality;
+   Data Use, Transfer, and Protection;
+
+
+                                 Public Health IRB Policy – 01/18
+                                             Page 18
+   Genetic/Tissue Banking;
+   Retention/Destruction of Data;
+   Miscellaneous issues; and
+   Recommendation.
+
+All Board members will receive the following documents to prepare for the Board meeting:
+
+   Initial Review Questionnaire (IRQ), Continuing Review Questionnaire (CRQ); or Project
+    Revision/Amendment Form (PRAF)
+   Complete protocol;
+   Data Use Agreement(s) if available;
+   Copy of grant application, if federally supported;
+   Recruitment flyer(s);
+   Information letters to participants including follow-up;
+   Consent and Authorization form(s);
+   Scripts, including screening and follow-up (both oral and written);
+   Questionnaire, survey, and/or interview instrument(s);
+   Information management or flow chart, if indicated;
+   Drug brochure for IND studies;
+   Medical chart review forms, if applicable;
+   Other IRB’s correspondence, if applicable; and
+   Personnel CV’s and proof of HSR training.
+
+If Spanish-speaking subjects will be included, translated documents will be requested. The
+Principal Investigator(s), Study Coordinator, and any other study personnel are encouraged to
+attend the meeting and participate in the discussion. Prior to the Board vote however, the
+research team will be asked to exit the room. Certification of PH IRB review and approval, or
+otherwise, will be forwarded through the PH IRB Coordinator to the research investigator and
+institutional officials. It is the investigators responsibility to send appropriate material to federal
+departments for research sponsored by such institutions.
+
+In the case of a Full Board continuing review, Board members will receive all material
+previously reviewed in addition to any changes. In the case of extremely large projects, the
+primary and secondary reviewers will receive complete file documentation, while other members
+will receive the CRQ, previously approved IRQ, protocol, consent and if applicable,
+questionnaire/survey. With the submission of the CRQ, the Board will receive a status report on
+the progress of the research, including:
+
+   Number of subjects enrolled, withdrawn, and whom remain in follow-up;
+
+
+                                  Public Health IRB Policy – 01/18
+                                              Page 19
+   Breakdown of subjects race, ethnicity, gender, and sex, if known;
+   Summary of any protocol deviations, adverse events, unanticipated problems, complaints,
+    and/or breaches of confidentiality involving risks to subjects or others since the last review;
+   Summary of any relevant literature, interim findings, and amendments or modifications to the
+    research since the last review;
+   A copy of any presentations or publications resulting from the data collected for the study
+    since the last review, including any relevant multi-center trial reports;
+   If reviewed by other IRB’s, a copy of the most recent IRB approval;
+   Any other relevant information, especially information about risks associated with the
+    research; and
+   If still in the recruitment phase, a copy of the current informed consent and/or Authorization
+    document and any newly proposed changes.
+
+Findings by Full Board
+Projects screened by the Full IRB may be classified as approved, approved with conditions,
+deferred, disapproved, or not human subjects research:
+
+   APPROVED: Researcher will receive a memo stating the project is approved for a specified
+    amount of time. In the memo, researchers will be notified of whether their study will go to
+    the Full Board for a continuing review the following year or if it was determined that all
+    future reviews may be expedited. Whichever the case, the Principal Investigator is required
+    to notify the PH IRB of any changes to the research protocol and applicable documents prior
+    to implementation. The date of the Board meeting at which the protocol was considered and
+    judged to be acceptable without changes is the date of approval.
+   APPROVED WITH CONDITIONS: Researcher will receive a memo stating that the project
+    has been approved subject to a number of conditions. The memo will outline additional
+    information and/or documentation that is needed, revision requests to current paperwork, and
+    the timeline in which these conditions must be met. Conditional approval does not mean
+    approved; it means that the PH IRB believes it is possible that the study may be approved
+    upon completion of the conditional items. Conditional issues responded to by investigators
+    will be reviewed by the PH IRB Coordinator and recommendations for further changes may
+    be identified. The PH IRB Coordinator may seek additional review by the primary and
+    secondary reviewers. Upon determination that the investigator has complied with conditions,
+    the PH IRB Coordinator will recommend approval to the PH IRB Chair for concurrence. A
+    final IRB approval letter will be sent to the investigator and at that time, the study may begin.
+    The approval date is the date of the original IRB meeting at which the “minor revisions
+    required” determination was made, even in the event that it may take several months to
+    receive the revisions from the investigators. Same conditions discussed above under
+    “Approved” likewise apply here.
+   DEFERRAL: Researcher will receive a memo stating that the Board does not believe his/her
+    team fulfilled the requested conditions sent by the IRB Coordinator prior to the scheduled
+    meeting and therefore the Full Board was not able to provide a sufficient review. This
+    notification will include a list of conditions that must be met and documentation that must be
+
+
+                                 Public Health IRB Policy – 01/18
+                                             Page 20
+    received by a designated deadline to ensure a Full Board review can take place during the
+    next scheduled meeting.
+   DISAPPROVED: Researcher will receive written notification of disapproved status. This
+    communication will include statements about problems identified in forms or procedures and
+    what corrective actions, if any, are needed. Investigators may not enroll any subjects or
+    obtain any data for a study that has been disapproved by the PH IRB.
+   NOT HUMAN SUBJECTS RESEARCH: If the Chair, Vice Chair, or Board determine the
+    protocol submitted is not human subjects research, investigators will receive written
+    notification of the projects not-HSR designation but will be told that if any changes occur to
+    the study design, it should be brought forward for reconsideration.
+
+Appeal of PH IRB Decision
+If an investigator chooses to appeal a PH IRB decision, he or she must send a written statement
+with the reasons for appeal to the PH IRB Chair. Copies of the statement will be distributed to all
+Board members and the research project will be scheduled for re-review. After discussion of the
+project and the reason for appeal, the PH IRB will formally vote. A project may not be
+reconsidered after a subsequent disapproval unless significant changes are made.
+
+                         PH IRB RECORD REQUIREMENTS
+The PH IRB Coordinator is responsible for preparing and maintaining adequate documentation
+of PH IRB activities including:
+
+   All research proposals reviewed, scientific evaluations, if any, that accompany the proposals,
+    approved consent documents and survey instruments, and reports of injuries to subjects or
+    breaches of protocol;
+   Records of initial and continuing reviews and review of additions, revisions, and
+    amendments to the protocol or consent forms;
+   Adverse event reports, unanticipated problem reports, protocol deviation reports, progress
+    reports, and final study reports submitted by investigators and statements of significant new
+    findings provided to subjects, if applicable;
+   Resulting publications or presentations;
+   Agendas and minutes of PH IRB meetings which contain sufficient detail to show:
+       - attendance at the meetings;
+       - actions taken by the PH IRB and the vote on these actions including the number of
+         members voting for, against, or abstaining;
+       - the basis for requiring changes, deferring or disapproving research;
+       - a summary of any discussion of controverted issues and their resolutions; and
+       - the recommended frequency and type of continuing review.
+   PH IRB roster; and
+   All correspondence between the PH IRB and investigators, including e-mails and formal
+
+
+
+                                Public Health IRB Policy – 01/18
+                                            Page 21
+      memos.
+
+The records required by this policy shall be retained for ten years after the study is closed from
+further PH IRB review.
+
+                          INFORMATION THE INVESTIGATOR
+                                   PROVIDES
+All investigators should carefully review the following requirements for submission of
+applications to the PH IRB. Submission of incomplete application packets will result in delay of
+the review and approval process. PH IRB protocols must reflect what is actually done in the
+research. Once the PH IRB has approved a protocol for a particular project, the investigator is
+bound to follow that procedure. If the investigator decides to change the protocol, he or she must
+receive approval from the PH IRB prior to initiating the change. Also, any problems involving
+risks or injuries to subjects as a result of the research must be reported immediately to the PH
+IRB. A PH IRB tracking number will be assigned to every study submitted. The Board asks that
+this assigned number be visible on all documentation made available to the public, e.g.
+recruitment flyers, consent forms. Subjects should be able to easily locate this number and
+reference it when calling either the PH IRB or the research team for questions on their rights or
+the study itself. This will allow our staff to readily locate the study file and provide answers to
+their inquiries in a professional and timely manner.
+
+Data Use Agreements
+When PHD or MCHD data is requested for research, the PH IRB Coordinator will direct the
+investigator to first contact the Program to see if disclosure of the data is possible, and if so, what
+the program requires in order to agree upon its release. There is substantial paperwork required
+for PH IRB review and to be as efficient as possible, the IRB requires research teams to check
+with data owners first.
+
+Requirements for data contracts are program specific. Some programs have a written policy
+requiring a formal program review of the proposal to determine whether or not the data can be
+disclosed for the purpose of the research and whether or not a data use agreement (DUA) should
+be in place. All programs under the Oregon Health Authority or Oregon’s Department of Human
+Services should follow the joint policies DHS/OHA-100-010, “Release & Waiver for Use and
+Disclosure for Research and Reporting”21 and DHS/OHA-100-011, “De-identification of
+Individual Information and Use of Limited Datasets”22 when asked to disclose individually
+identifiable or protected information for research purposes. If a DUA is required, HIPAA
+elements and statements must be included if a covered entity is involved. It is ultimately up to
+the program to guarantee the DUA is appropriately written and signed by the requestor.
+
+In special cases, the PH IRB will allow researchers to submit IRB paperwork prior to DUAs
+being put into place if several program’s data are being sought for purposes of the research. It is
+understood that obtaining finalized DUAs from several different programs and/or entities is time
+consuming and therefore the IRB will review the research prior to each of them being confirmed.
+
+21
+     Joint DHS/OHA Policy 100-010
+22
+     Joint DHS/OHA Policy 100-011
+
+
+                                    Public Health IRB Policy – 01/18
+                                                Page 22
+Researchers who request this be done must understand however, that obtaining PH IRB approval
+does not mean all programs will disclose data and the research, for that reason may not be
+plausible. The PH IRB will request a copy of all DUAs for the study’s file and will copy relevant
+data owners on all subsequent correspondence regarding the status of the study.
+
+Training Documentation and Resumes
+In order to further assess their qualifications, all listed study personnel on the PH IRB Study
+Personnel Tracker23 must complete required human subjects research training every three years.
+The PH IRB Coordinator has set up and maintains a PHD account with the University of
+Miami’s Collaborative Institutional Training Initiative (CITI) for this purpose. All PHD and
+MCHD staff serving as Principal Investigators or Co-P.I.s on any active study will be required to
+complete the “PH Principal Investigators & Co-P.I.s” Basic Course. All PHD and MCHD staff
+serving as other key personnel will be required to complete the “PH Other Key Personnel” Basic
+Course. After three years, the Refresher Course must be completed. Special exceptions will be
+made if study team members have already completed a certified human subject’s research
+training with an external institution and they are able to provide the PH IRB with current
+documentation of its completion. At the time of its expiration, the study members will be asked
+to complete the PH IRB specific CITI training.
+
+All external researchers will be asked to provide documentation of their completion of human
+subject’s research training from their own institution for PH IRB records.
+
+CV’s must be submitted for the P.I. and all Co-Investigators.
+
+Initial Review Questionnaire (IRQ)
+A detailed overview of the proposed research project, this questionnaire is required along with
+the protocol or grant application. Investigators must adequately document the provisions in place
+for protecting the rights and welfare of the research subjects as well as ensuring that all pertinent
+laws and regulations are followed. This document will stand as titled, the “initial” review
+questionnaire, and will remain on file for the duration of the study. After initial approval, at no
+time will changes be requested to this document.
+
+Protocol/Grant Application
+The study protocol is the formal document that establishes the conditions under which the
+research is to be conducted. The protocol should include the following information:
+
+     Investigators and collaborators;
+     Background and description including specific scientific aims and hypotheses;
+     Description of preliminary studies results;
+     Research methods and procedures;
+     Statistical/analytical methods to be used;
+     Adverse event reporting and monitoring including a description of the Data Safety
+      Monitoring Board or Plan, if applicable (e.g. membership, frequency of reviews and reports,
+
+23
+     Link to PH IRB Forms webpage
+
+
+                                    Public Health IRB Policy – 01/18
+                                                Page 23
+    etc.);
+   Security measures in place to protect the subjects’ data and privacy;
+   Approximate number of subjects involved and related study population information,
+    including:
+    - Inclusion and exclusion criteria;
+    - Justification for the involvement of any special/vulnerable populations;
+    - Potential risks and benefits associated with participation;
+    - Alternatives, if any, available should the subject not participate;
+    - Recruitment methods;
+    - Consent procedures (how it is obtained and how the process is structured);
+    - Procedures for documenting informed consent and if applicable, assent;
+    - Explanation of requests for waivers, if applicable; and
+    - Compensation and/or costs to subjects for their participation.
+   Flow Chart, if applicable.
+
+HIPAA Questionnaire or Authorization Form
+The Health Insurance Portability and Accountability Act’s (HIPAA) Privacy Rule establishes
+national standards to protect individuals’ medical records and other personal health information
+and applies to health plans, health care clearinghouses, and those health care providers that
+conduct certain health care transactions electronically. The Rule states that a covered entity must
+either obtain a subjects authorization in order to use and/or disclose their protected health
+information (PHI) or limit their use and/or disclosure of the PHI according to set requirements, in
+order to use without authorization. All requirements set forth in the Privacy Rule are intended to
+maintain appropriate safeguards to protect the privacy of personal health information.
+
+The Privacy Rule does not apply to all research, it only applies to covered entities, which
+researchers may or may not be. To gain access for research purposes to PHI created or
+maintained by covered entities, the researcher may have to provide supporting documentation on
+which the covered entity may rely in meeting the requirements, conditions, and limitations of the
+Privacy Rule. The OHA is a hybrid entity meaning it is a covered entity but performs business
+activities that include both covered and non-covered functions, and it designates its health care
+components as provided in the Privacy Rule. Effective July 1, 2011 The Authority designated
+specific divisions or programs of the OHA as health care components and part of the covered
+entity portion of the agency based on specific criteria. The following divisions or programs were
+designated as health care components and part of the covered entity because each division or
+program could meet the definition of a covered entity in the HIPAA Privacy Rule if the division
+or program were its own separate legal entity:
+
+   The Authority in its capacity as the state Medicaid agency for the administration of the
+    Medicaid program under Title XIX of the Social Security Act;
+   The Children’s Health Insurance Program under Title XXI of the Social Security Act;
+
+
+
+                                 Public Health IRB Policy – 01/18
+                                             Page 24
+   The medical assistance program as described in ORS Chapter 414;
+   The high-risk pools administered by the Oregon Medical Insurance Pool Board and the
+    Office of Private Health Partnerships;
+   The Family Health Insurance Assistance Program established in ORS Chapter 414;
+   The Health Care for All Oregon Children Program (also known as the Healthy Kids
+    program);
+   The Breast and Cervical Cancer Program;
+   The Wise Woman Program;
+   The Oregon State Hospital;
+   Blue Mountain Recovery Center;
+   The Public Health laboratory;
+   The Authority’s Privacy Officer; and
+   Staff associated with responding to complaints about potential HIPAA compliance issues.
+
+Effective April 1, 2014, to comply with changes made effective by the HIPAA Omnibus Rule,
+The Authority designated the following additional divisions or programs as part of the health
+care component of the covered entity portion because they perform business associate functions
+on behalf of the covered entity component of OHA:
+
+   The Office of Health Analytics;
+   The CCare Program;
+   The Babies First Program;
+   The Oregon Transitional Reinsurance Pool administered by the Oregon Medical Insurance
+    Pool Board; and
+   CaCoon and the FamilyNet ORCHIDS data collection and reporting system.
+
+For purposes of the PH IRB, if a covered entity is in any way involved in the research, either by
+requesting or disclosing PHI, HIPAA’s Privacy Rule will be applied.
+
+A valid Privacy Rule Authorization (Authorization) is an individual’s signed permission that
+allows a covered entity to use or disclose the individual’s PHI for the purposes, and to the
+recipient(s), as stated in the Authorization form. The Privacy Rule requires that this form pertain
+only to a specific research study, not to non-specific research or to future, unspecified projects. If
+an Authorization for research is obtained, the actual uses and disclosures made must be
+consistent with what is stated in the Authorization. The Authorization focuses on privacy risks
+and states how, why, and to whom the PHI will be used and/or disclosed. It often is combined
+with the Consent Form. The IRB Coordinator will ensure all required core elements and
+statements stipulated in the Privacy Rule are included in the form.
+
+Under the Privacy Rule, covered entities may request a waiver of the Authorization requirement.
+
+
+                                 Public Health IRB Policy – 01/18
+                                             Page 25
+In the IRQ, if a waiver is being sought the PH IRB asks for great detail regarding the data being
+requested and protections being put in place. If the PH IRB finds the request satisfies the waiver
+criteria at 164.512(i)(2)(ii), approval of the waiver request will be put into writing by the Board
+in the final determination memo.
+
+The Privacy Rule also permits a covered entity, without obtaining Authorization or
+documentation of a waiver of Authorization, to use and/or disclose PHI under limited
+circumstances. These include:
+
+     The use or disclosure is solely to prepare a research protocol or for similar purposes
+      preparatory to research;
+     The use or disclosure being sought is solely for research on the protected health information
+      of decedents and is necessary for the research;
+     The information meets HIPAA’s standards for de-identification; or
+     The information is disclosed as a limited data set, and the covered entity obtains a DUA
+      entered into by both the covered entity and the researcher.
+
+If any of the aforementioned options apply, the relevant PH IRB HIPAA Questionnaire24 must be
+submitted with the IRQ.
+Consent Form(s)
+Federal regulations require that for purposes of research, informed consent be sought from each
+potential subject or a legally authorized representative of the subject. In accordance with 45 CFR
+46.116(a) – (b), the IRB will ensure prior to involving a human subject in research, the research
+team obtains the legally effective informed consent of the subject or the subject’s legally
+authorized representative in a way that provides sufficient opportunity to discuss and consider
+whether or not to participate and that minimizes the possibility of coercion or undue influence.
+The PH IRB will review the informed consent script and/or document extensively to ensure all
+required elements and statements are included whether such consent is obtained orally or via
+written procedures. Approved consent forms must contain an IRB date-stamp of approval.
+
+The PH IRB Coordinator will review the document extensively to ensure all required elements
+along with required references to state laws, if applicable, are included and arranged
+appropriately. In the case of a Full Board review, Board members’ role in reviewing the
+proposed informed consent process is to ensure participants are informed about the voluntary
+nature of their consent to participate in the research. It must be guaranteed that the entire consent
+process takes place in such a manner that the research subjects’ informed, voluntary decision to
+participate is not compromised and the document must communicate the necessary information
+in a meaningful, understandable way.
+
+Federal regulations require that the following information be provided to each research subject:
+
+     Purpose – Subjects must be told that the activity involves research, given an explanation of
+      the purpose of the study, and told why they are being invited to participate.
+
+24
+     Link to PH IRB Forms webpage
+
+
+                                    Public Health IRB Policy – 01/18
+                                                Page 26
+   Procedures – A description of the procedures to be followed during the course of the research
+    and the expected duration of the subject’s participation. In addition, identification of any
+    procedures that are experimental is necessary.
+   Risks – Subjects must be informed about any foreseeable risks or discomforts associated with
+    the study. Among other things, this may include laboratory tests, psychological discomfort,
+    and/or potential loss of confidentiality.
+   Benefits – A description of any potential benefit to participating in the research must be
+    disclosed. Compensation is not considered a benefit. If no direct benefit is expected for the
+    subjects, that must be stated. If benefits are likely for society at large, they must be explained.
+   Alternatives – Disclosure of appropriate alternative procedures or courses of treatment, if
+    any, which might be advantageous to the subjects.
+   Confidentiality – Subjects must understand how identifying information about them will be
+    shared and/or maintained and what efforts investigators will take in keeping the information
+    from being improperly disclosed. If a Certificate of Confidentiality (CoC) is being sought,
+    language must be inserted explaining the protections it will offer if granted. If the CoC is
+    granted after initial PH IRB approval, a Project Revision Request must be submitted to
+    update the language on the form to reflect that the protection is in fact now in place.
+   Compensation – For research involving more than minimal risk, an explanation is needed as
+    to whether any compensation is granted. If injury occurs, an explanation as to whether any
+    medical treatments are available and, if so, what they consist of, and where further
+    information can be obtained.
+   Contacts – Explanation of whom to contact for answers to pertinent questions about the
+    research, research subject’s rights, and whom to contact in the event of a research-related
+    injury to the subject.
+   Participation – A statement that explains participation is voluntary, refusal to participate or
+    discontinuation of participation at any time will involve no penalty or loss of benefits to
+    which the subject is otherwise entitled. There cannot be any exculpatory language that makes
+    it appear that subjects are being asked to waive their legal rights.
+
+When appropriate, additional elements of informed consent may be required.
+
+Informed consent must be documented by the use of a written informed consent form approved
+by the PH IRB and signed by the subject or the subject’s legally authorized representative. In
+certain cases, the requirement to obtain informed consent or documentation of such consent may
+be waived. If a research team wishes to alter or waive any of the above requirements, their
+request should be submitted within the IRQ at the time of initial submission. In accordance with
+§.116(d) and §.117(c) the PH IRB will review the request and if required criteria are met, grant
+the requested waiver.
+
+Of critical importance, is that the authority of a physician to provide emergency medical care, to
+the extent the physician is permitted to do so under applicable federal, state, or local law may
+never be limited by this policy nor the federal regulations at 45 CFR 46 that govern it. Further,
+the Public Health Division supports the concept of conducting emergency research in the pre-
+hospital setting in order to advance knowledge in treating critically ill or injured patients,
+however, there are stringent regulations to protect the rights and well-being of research subjects
+
+
+                                 Public Health IRB Policy – 01/18
+                                             Page 27
+that the PH IRB will comply with and community consultation and notification will be required.
+For these reasons, such studies take considerable time and effort from investigators, research
+staff, and PH IRB members and final PH IRB approval may take several months. For more
+information please see the internal Public Health Division policy, “Emergency Research –
+Exception to Informed Consent”.25
+
+Assent and Parental Permission forms
+In addition to obtaining consent from parents or guardians for subjects under the age of 18 to
+participate in research, the assent of children must be sought whenever the child is capable of
+understanding an explanation and purpose of the study. If such subjects will be included in a
+proposed study, separate Assent and Parental Permission forms should be submitted at the time
+of initial application, and too must contain a PH IRB date-stamp of approval prior to being
+distributed. Children between the ages of 7 and 17 years are generally considered capable of
+giving assent.
+
+When subjects under the age of 18 are pregnant or have children, and their participation in the
+research is related to the minor as a parent and not just as an individual, the requirement to obtain
+parental consent (of the minors’ parents) is not necessary if it is determined that the study poses
+minimal risk.
+
+Informed Consent for Genetic Research
+There are three pathways available for the PH IRB to review and approve secondary research use
+of identifiable private information and identifiable biospecimen:
+    1. Researchers may choose to conduct the research on non-identified information and
+        non-identified biospecimens,
+    2. The PH IRB may waive the requirement for informed consent, or
+    3. The researcher may obtain consent from individuals for use of such data or biospecimen
+        in a specific study.
+
+In 1995, the Oregon Legislative Assembly enacted a comprehensive Genetic Privacy Act 26. The
+intent of the law, as set forth in ORS 192.533, is to protect the genetic privacy of all Oregonians.
+This law was enacted in order to prevent any citizen in Oregon from experiencing insurance or
+employment discrimination on the basis of medically indicated genetic testing.
+
+All proposed genetic research, including anonymous research, or research otherwise exempt
+from PH IRB approval, must first be submitted to an IRB for explicit approval or determination
+that the research is anonymous or otherwise exempt. Researchers must disclose to the IRB the
+intended use of human DNA samples, genetic tests, or other genetic information for every
+proposed research project, including their use in anonymous or otherwise exempt research.
+
+Specific elements to be contained in a consent form for obtaining genetic information include:
+
+      The name of the individual whose DNA sample is to be tested;
+      The name of the individual, company, or organization requesting the genetic test for the
+
+
+25
+     Link to PH IRB Policies and Procedures webpage
+26
+     “History of Oregon’s Genetic Privacy Law” document
+
+
+                                      Public Health IRB Policy – 01/18
+                                                  Page 28
+       purpose of obtaining genetic information;
+      A statement signed by the individual whose DNA sample is to be tested indicating that
+       he/she authorizes the genetic test;
+      A statement that specifies the purpose of the test and the genetic characteristic for which the
+       DNA sample will be tested;
+      Explain that the genetic test is voluntary, the individual may choose not to have his/her DNA
+       sample tested, and he/she has the option of withdrawing consent at any time;
+      Explain the risks and benefits of having the genetic test, including a description of Oregon
+       law provisions pertaining to individual rights with regard to genetic information and the
+       confidential nature of the genetic information; a statement of potential consequences with
+       regards to insurability, employability, and social discrimination if the genetic test results or
+       genetic information become known to others; the implications of both positive and negative
+       test results; and the availability of support services, including genetic counseling;
+      Inform the individual that it may be in his/her best interest to retain his/her DNA sample for
+       future diagnostic testing, but that he/she has the right to have his/her DNA sample promptly
+       destroyed after completion of the specific genetic test which was authorized;
+      Inform the individual about the implications, including potential insurability, of authorizing
+       disclosure to a third party payer that the genetic test was performed, and that he/she has the
+       option of paying the cost of the genetic test out of pocket rather than filing an insurance
+       claim;
+      Ask the individual whether he/she has any further questions, and if so, provide the individual
+       with the opportunity to ask them and receive answers from either a genetic counselor or
+       another person who is sufficiently knowledgeable to give accurate, understandable, and
+       complete answers;
+      Request that the individual read, complete, sign and date the consent form; and,
+      Provide the individual with a copy of the completed form for his/her personal records.
+
+Elements of Coded Research under Oregon Law
+At the state level, if DNA samples and/or genetic information are to be used for research
+purposes, the PH IRB will ensure ORS 192.531 through 192.549 are abided by in terms of
+consent and individuals right to opt-out for anonymous or coded genetic research. 27Genetic
+research in which the DNA sample and/or genetic information is coded must satisfy the
+following requirements:
+
+      For DNA samples or genetic information obtained on or after June 12, 2003, the subject has
+       granted informed consent for the specific research project or has consented to genetic
+       research generally;
+      The research has been approved by an IRB subsequent to the investigators disclosure of
+       potential risks associated with the coding to the Board;
+      The code is:
+
+27
+     Fact Sheet for Researchers: “Legislative Changes in Oregon’s Genetic Privacy Law”
+
+
+                                       Public Health IRB Policy – 01/18
+                                                   Page 29
+    - Not derived from individual identifiers;
+    - Kept securely and separately from the DNA samples and/or genetic information; and
+    - Not accessible to the investigator unless specifically approved by the IRB.
+   Data are stored securely in password protected electronic files or by other such means with
+    access limited to necessary personnel;
+   The data are limited to elements required for analysis and meets the criteria in 45 CFR
+    §164.514(e) for a limited data set; and
+   The investigator is a party to the Data Use Agreement as provided by 45 CFR §164.514(e)
+    for limited data set recipients.
+
+Requests for Changes after Study Commencement (PRAF)
+As previously mentioned, investigators must promptly report any changes in the research activity
+to the PH IRB for review and approval prior to being implemented. Changes may only be
+implemented prior to PH IRB notice when necessary to eliminate apparent immediate hazards to
+the human subjects.
+
+Revisions are divided into two types:
+
+   Minor Revisions – changes in the protocol that are no more than minimal risk, or risks to
+    subjects are not increased, and/or the revision is not a significant alteration of the study
+    design. Such revisions may consist of, but are not limited to, changes to the number of
+    participants included in the study population, addition or deletion of research team members,
+    changing the P.I., change in contact information related to the study, change to the amount or
+    frequency of blood draws, or addition of non-sensitive questions to a questionnaire.
+   Substantive/Major Revisions – changes to the protocol that involve increased risk to subjects
+    or significantly affect the nature of the study. Such revisions may consist of, but are not
+    limited to, changing or adding a study drug, revisions to the recruitment plan, adding or
+    revising eligibility criteria, adding a research site, updating the consent form to include a
+    newly identified side effect and/or risk, or the addition of a brand new research arm to the
+    study.
+
+The Principal Investigator must submit the Project Revision/Amendment form to the PH IRB
+Coordinator. The revision request must identify the assigned PH IRB tracking number, research
+title, and the description and justification for the proposed change(s). The affected documents
+must also be attached to the form with changes highlighted or submitted in a “tracked changes”
+format for ease of review (e.g. revised consent form, protocol, study personnel tracker etc.).
+
+In the case of minor revisions, the PH IRB Chair may approve through an expedited review.
+When there is the potential for changes proposed in the amendment request to increase the risk
+level to more-than-minimal or involve procedures which do not fall within one or more of the
+categories eligible for expedited review, the revision will be brought forward to the Full Board
+and reviewed at a regularly scheduled meeting. Failure to report changes for review and approval
+will be considered a protocol violation and may result in the suspension of the research study.
+Investigators must report violations using the Protocol Deviations/Violations Form.
+
+
+                                Public Health IRB Policy – 01/18
+                                            Page 30
+Unanticipated Problem/Adverse Event Report Form
+Fatal or potentially life-threatening incidents, experiences, or outcomes must be reported to the
+PH IRB within 5 working days after the research team becomes aware. All other unexpected
+incidents, experiences, or outcomes must be reported to the PH IRB within 15 working days of
+the research team becoming aware.
+
+An adverse event includes any untoward or unfavorable medical occurrence in a human subject,
+including any abnormal sign, symptom, or disease, temporally associated with the individual’s
+participation in the research, whether or not considered related to the subject’s participation in
+the research. Such events are reasonably anticipated to occur as a result of the study procedures
+or participation or are part of the normal disease progression and should thus be described in the
+research proposal and informed consent document. This includes only physical and
+psychological harms and occurs most commonly in the context of biomedical research. The
+Principal Investigator shall immediately report any adverse event to the PH IRB by using the
+Unanticipated Problem/Adverse Event Report form28. Adverse events, although reported to the
+PH IRB, do not need to be reported under the HHS regulations at 45 CFR 46.
+
+Unanticipated problems include any incident, experience, or outcome that meets all of the
+following criteria:
+    1. Unexpected (in terms of nature, severity, or frequency) given (a) the research procedures
+       that are described in the protocol-related documents, such as the IRB-approved research
+       protocol and informed consent document; and (b) the characteristics of the subject
+       population being studied;
+       2. Related or possibly related to participation in the research; and
+       3. Suggests that the research places subjects or others at a greater risk of harm (including
+          physical, psychological, economic, or social harm) than was previously known or
+          recognized.
+
+The Principal Investigator shall immediately report any unanticipated problem involving risks to
+a research subject as a result of their participation in the study to the PH IRB using the same
+Report form described above. Outcomes of such a report may include changes to the study and
+per 45 CFR 46, must be reported to the supporting HHS agency and OHRP.
+
+Distinguishing between unanticipated problems and adverse events can be difficult so the
+Unanticipated Problem/Adverse Event Report form provides detailed guidance in attempt to
+assist the researchers with making the distinction. OHRP’s guidelines should also be utilized.29
+Unanticipated problems can serve as adverse events and vice versa so gathering a solid
+understanding of the definitions is critical as some of the reporting requirements extend beyond
+the PH IRB and institutional officials to OHRP itself. The Principal Investigator is responsible
+for the accurate documentation, investigation and follow-up of all possible study-related adverse
+events. The PH IRB Chair is responsible for reporting unanticipated problems to the supporting
+HHS Agency head and OHRP. Regardless of funding, because all nonexempt human subjects
+research reviewed by the PH IRB are covered by our Federalwide Assurance with OHRP, all
+
+28
+     Link to PH IRB Forms webpage
+29
+     OHRP Guidance, “Reviewing and Reporting Unanticipated Problems and Adverse Events”
+
+
+                                     Public Health IRB Policy – 01/18
+                                                 Page 31
+unanticipated problems will be reported to OHRP.
+
+
+
+
+The PH IRB has the authority to suspend or terminate approval of research that has been
+associated with unexpected serious harm to participants. When the PH IRB takes such action, a
+statement of reasons for the action will be provided and reports will be promptly made to the
+investigator, appropriate institutional officials, appropriate federal agency heads (e.g. NIH,
+OHRP), and if applicable, the FDA (if an investigational new drug or device is involved).
+
+For studies that have a Data Safety Monitoring Board (DSMB), the investigator must forward
+summary reports to the PH IRB as soon as they are received. The PH IRB will communicate
+concerns to the DSMB or the institution sponsoring the study if it believes that the safety of
+study participants is in jeopardy.
+
+More information on the submission of such reports may be found in the internal PH IRB Policy,
+“Reports of Unanticipated Problems and Adverse Events”.30
+
+Protocol Deviation/Noncompliance Report
+Any alteration or modification in the conduct of the research that has not been approved by the
+PH IRB prior to its initiation or implementation will be considered a deviation from approved
+procedure and should result in the submission of a Protocol Deviation/Non-compliance Report
+form31. If there is continuous failure to comply with federal regulations or the requirements put
+in place by the PH IRB, the PH IRB Coordinator will direct a report of noncompliance to the
+Board for investigation and corrective action. Detailed information on the submission of such
+reports may be found in the internal PH IRB Policy, “Protocol Deviation and Non-compliance”.
+32
+
+
+
+Study Closure Form
+A research project no longer involves human subjects and may be closed by the PH IRB once the
+investigators have finished enrollment, treatment, data collection, follow-up, and analysis of
+identifiable data. Researchers are asked to contact the PH IRB when such a scenario occurs so a
+
+
+30
+   Link to PH IRB Policies and Procedures webpage
+31
+   Link to PH IRB Forms webpage
+32
+   Link to PH IRB Policies and Procedures webpage
+
+
+                                    Public Health IRB Policy – 01/18
+                                                Page 32
+Final Study Report/Closure Form33 can be submitted. Researchers may also notify the PH IRB
+Coordinator that the study no longer needs a continuing review at the time of its annual
+expiration and a Final Study Report/Closure Form will subsequently be sent their way. With the
+submission of this form, the PH IRB also must receive a summary of the study findings and any
+resulting publications or presentations since the last review. The Coordinator will send formal
+notice to the investigators and relevant program managers and data owners explaining that the
+study is now considered complete and the PH IRB has closed the file. All study records will be
+sent to State Archives.
+
+                                          MISCONDUCT
+The PH IRB’s primary concern is to protect the welfare of research subjects and the privacy and
+respect of their data. It is the duty of the PHD and MCHD to provide the highest level of
+protection to its human subject research participants. Both institutions are committed to
+maintaining an environment that promotes ethical standards in the conduct of research and therefore
+do not tolerate misconduct in any aspect of research. When alleged research misconduct has
+occurred, a report of the unethical behavior should be immediately submitted to the Office of
+Research Integrity so an investigation can begin if needed.
+
+For research misconduct, the Oregon Health Authority, Public Health Division, “Policy &
+Procedures for Responding to Allegations of Research Misconduct”34 will be consulted.
+
+
+
+
+33
+     Link to PH IRB Forms webpage
+34
+     PHD Policy on Research Misconduct
+
+
+                                    Public Health IRB Policy – 01/18
+                                                Page 33
+

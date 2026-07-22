@@ -1,0 +1,258 @@
+---
+id: oha-osh-4-020
+title: "Contracts and Agreements at OSH"
+doc_type: policy
+citation: "OSH Policy 4.020"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/4.020%20Contracts%20and%20Agreements%20at%20OSH/4.020%20Contracts%20and%20Agreements%20at%20OSH.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "6ba5e36cc3c64d109abb79b6cb5f5c0181fe014c82691dec9a8660b982a3d74b"
+effective_date: "2023-03-09"
+last_reviewed: null
+source_version: "Effective MARCH 9, 2023"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-125-246-0110
+    - oar-125-246-0365
+    - oar-125-246-0555
+    - oar-125-246-0605
+    - oar-137-045-0015
+    - oar-137-047-0261
+    - oar-137-047-0430
+    - ors-190.480
+    - ors-190.490
+    - ors-244.040
+    - ors-279a.015
+    - ors-279a.025
+    - ors-279a.159
+    - ors-279b.060
+    - ors-279b.100
+    - ors-279b.140
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/4.020%20Contracts%20and%20Agreements%20at%20OSH/4.020%20Contracts%20and%20Agreements%20at%20OSH.pdf> (retrieved 2026-07-21).
+
+# Contracts and Agreements at OSH (OSH Policy 4.020)
+
+## At a glance
+
+OSH Policy 4.020 — Contracts and Agreements at OSH. Oregon State Hospital (Oregon Health Authority). Effective MARCH 9, 2023.
+
+## Full text
+
+                         OREGON STATE HOSPITAL
+                                             POLICY
+  SECTION 4:         Fiscal                                                   POLICY: 4.020
+
+  SUBJECT:           Contracts and Agreements at
+                     OSH
+
+  POINT PERSON:      Chief Financial Officer/Chief
+                     Operations Officer
+
+  APPROVED:          Dolores Matteucci                                DATE: MARCH 9, 2023
+
+                     Superintendent
+
+  SELECT ONE:                                               Minor/technical revision of
+                     New policy
+                                                            existing policy
+
+                     Reaffirmation of existing policy       Major revision of existing policy
+
+I.    PURPOSE AND APPLICABILITY
+      A. This policy establishes Oregon State Hospital’s (OSH) requirements for
+         contracts, agreements, and Contract Administrators at OSH.
+      B. This policy applies to all staff.
+
+II.   POLICY
+      A. OSH partners with the Office of Contracts and Procurement (OC&P) to establish
+         contracts at OSH.
+         1. All contracts must have appropriate prior approval before they are executed
+            to ensure state funds are used appropriately.
+         2. If a need for a contract or contract amendment is identified, staff must follow
+            Procedures A.
+         3. OSH Contracts maintains a record of all OSH contracts.
+         4. Staff must follow the buy decision process as described in the Oregon
+            Accounting Manual and Oregon Administrative Rule (OAR) §125-247-
+            0200(2)(a)-(d), except for Oregon Revised Statute (ORS) 190 Agreements
+            per OAR 125-246-0365.
+         5. Contracts are selected following Oregon ethics laws, including but not limited
+            to OAR 125-246-0605.
+
+SUBJECT: Contracts and Agreements at OSH                      POLICY NUMBER: 4.020
+
+DATE:     March 9, 2023                                                    PAGE 2 OF 5
+
+ B. Contractors are subject to OSH policies, procedures, and protocols.
+ C. Contractors are evaluated per OSH policy 5.027, “Performance Management
+    Plan.”
+ D. Intergovernmental Agreements
+    1. OSH may establish ORS 190 Agreements in accordance with ORS 190.480.
+       ORS 190 Agreements are not subject to the buy decision process, and OSH
+       may elect to use ORS 190 Agreements at any time through negotiation, direct
+       award, direct appointment, or in any other manner that satisfies the legal
+       requirements for such Agreement.
+    2. Staff must submit all intergovernmental agreement requests to OSH
+       Contracts for review and approval.
+    3. OSH Contracts reports ORS 190 Agreements per OAR 125-246-0365
+       reporting requirements.
+ E. Contract Administrator responsibilities
+    1. Per OAR 125-246-0555, OSH appoints a Contract Administrator to represent
+       each OSH contract.
+    2. OSH Contracts maintains a list of OSH Contract Administrators for each
+       contract and reports to OC&P.
+    3. Staff that conduct a procurement or administer a public contract for OSH must
+       complete appropriate training and meet requirements of ORS 279A.159.
+    4. OSH Contract Administrators must monitor, track, and report on contract
+       performance. Contract administrators perform tasks to ensure that contract
+       requirements are fulfilled, terms and conditions are met, and administrative
+       processes are performed in a timely manner.
+    5. OSH Contract Administrators must maintain all required contract
+       documentation in the contract file, including but not limited to:
+        a. Successful proposal;
+        b. Feasibility studies;
+        c. Completed MSC 118 contract request forms;
+        d. Executed contract, amendments, and subcontracts;
+        e. Roles and Responsibilities Matrix;
+        f. Insurance certificates;
+
+       SUBJECT: Contracts and Agreements at OSH                        POLICY NUMBER: 4.020
+
+       DATE:        March 9, 2023                                                 PAGE 3 OF 5
+
+               g. Contract Verification Forms (CVF);
+               h. Contract Administration Plan (CAP);
+               i.   Invoices and expenditures against contract;
+               j.   Required reports from contractor;
+               k. Record of all program monitoring of contract performance (meeting
+                  minutes, etc.);
+               l.   Record of all correspondence with contractor;
+               m. Record of all correspondence with OC&P, OSH program or department,
+                  and contractor regarding performance under contract;
+               n. Record of all correspondence relating to disputes over contractor
+                  performance; and
+               o. Cure Letters, termination, and suspension notices issued by OC&P.
+           6. OSH Contracts regularly audits contract administration files for compliance
+              with this policy’s requirements and identifies and tracks compliance trends.
+              Compliance audit data is sent to the Chief Financial Officer for evaluation.
+              The Chief Financial Officer may assign follow-up action if a Contract
+              Administrator is found out of compliance.
+           7. OSH Contracts partners with the Chief Financial Officer to oversee and
+              maintain all contract procurement processes at OSH.
+        F. Oregon State Hospital (OSH) follows all applicable regulations, including federal
+           and state statutes and rules; Oregon Department of Administrative Services
+           (DAS), Shared Services, and Oregon Health Authority (OHA) policies; and
+           relevant accreditation standards. Such regulations supersede the provisions of
+           this policy unless this policy is more restrictive.
+        G. Staff who fail to comply with this policy or related policy attachments or protocols
+           may be subject to disciplinary action, up to and including dismissal.
+
+III.    DEFINITIONS
+        A. “Contract administration” is as defined in OAR 125-246-0110. Contract
+           administration means all the functions related to a given contract, including
+           amendments, between OSH and a contractor from the time the contract is signed
+           by all parties until the work is completed and accepted or the contract is
+           terminated, final payment has been made, and any disputes have been resolved.
+
+       SUBJECT: Contracts and Agreements at OSH                       POLICY NUMBER: 4.020
+
+       DATE:     March 9, 2023                                                   PAGE 4 OF 5
+
+        B. “Contract Administrator” is as defined in OAR 125-246-0110. Contract
+           Administrator means the OSH staff designated by OSH to conduct the contract
+           administration of a contract or class of Contracts.
+        C. “ORS 190 Agreement” is an intergovernmental agreement between two or more
+           public agencies that seek to foster efficiency and economy by promoting the use
+           of existing resources. ORS 190 provides for the following types of agreements:
+           1. Interagency Agreements (IAA) among agencies of Oregon state government.
+           2. Intergovernmental Agreements (IGA) among the Oregon public agencies of
+              state, local or federal government.
+           3. Interstate Agreements (ISA) among Oregon public agencies and public
+              agencies of other states.
+           4. International Agreements (INA) among agencies of Oregon state government
+              and countries outside of the United States.
+           5. Tribal Agreements among Oregon public agencies and American Indian tribes
+              or an agency of an American Indian tribe.
+        D. “Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
+           and other state employees assigned to work at Oregon State Hospital (OSH).
+
+IV.     PROCEDURES
+        Procedures A      Contracts and Agreements at OSH
+
+ V.     ATTACHMENTS
+        Attachment A      OSH Contract Approval Process Flowchart
+
+VI.     RELATED OSH POLICIES AND PROTOCOLS
+        4.018 OSH Purchase and Maintenance: Supplies, Assets, and Equipment
+        5.027 Performance Management Plan
+        Business Analyst Department protocol 1.001, Contracts at OSH
+
+VII.    REFERENCES
+        42 CFR §482.12
+        42 CFR §482.22 – 482.28
+        42 CFR §482.41
+        42 CFR §482.62
+
+SUBJECT: Contracts and Agreements at OSH                                POLICY NUMBER: 4.020
+
+DATE:      March 9, 2023                                                            PAGE 5 OF 5
+
+ Department of Administrative Services Oregon Procurement Manual. (2023, February 28)
+    https://www.oregon.gov/das/OPM/Pages/method.aspx. Author.
+ Oregon Administrative Rule Chapter 125-246
+ Oregon Administrative Rule Chapter 125-247
+ Oregon Administrative Rule Chapter 125-249
+ Oregon Administrative Rule §137-045-0015
+ Oregon Administrative Rule §137-074-0260
+ Oregon Administrative Rule §137-047-0261
+ Oregon Administrative Rule §137-047-0430
+ Oregon Revised Statute §§190.480 – 190.490
+ Oregon Revised Statute §190A
+ Oregon Revised Statute §200
+ Oregon Revised Statute §244.040
+ Oregon Revised Statute §279A.015(5)
+ Oregon Revised Statute §279A.025
+ Oregon Revised Statute §§279A.159-161
+ Oregon Revised Statute §279B.060
+ Oregon Revised Statute §279B.100
+ Oregon Revised Statute §279B.140
+ Oregon Revised Statute §279C
+
+ Shared Services, Oregon Department of Human Services/Oregon Health Authority. Contract Request
+    Form (MSC 0118) [form].
+
+ Shared Services, Oregon Department of Human Services/Oregon Health Authority. Contract
+    Amendment Request Form (MSC 0118A) [form].
+
+ Shared Services, Office of Information Services. Third Party Information System Access Request
+    (MSC 785) [form]
+
+ The Joint Commission Resources, Inc. (2023). The joint commission comprehensive accreditation
+    manual for hospitals, HR.01.02.07. Oakbrook Terrace, IL: Author.
+
+ The Joint Commission Resources, Inc. (2023). The joint commission comprehensive accreditation
+    manual for hospitals, LD.04.03.09. Oakbrook Terrace, IL: Author.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/4.020%20Contracts%20and%20Agreements%20at%20OSH/4.020%20Contracts%20and%20Agreements%20at%20OSH.pdf> · retrieved 2026-07-21 · sha256 `6ba5e36cc3c64d109abb79b6cb5f5c0181fe014c82691dec9a8660b982a3d74b`
+- Snapshot: `_meta/snapshots/oha-osh-4-020.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

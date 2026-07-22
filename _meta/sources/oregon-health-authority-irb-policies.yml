@@ -1,0 +1,72 @@
+group: oregon-health-authority-irb-policies
+title: Oregon Health Authority Public Health IRB policies
+kind: content-hash
+recheck: monthly
+last_checked: '2026-07-21'
+upstream_signal: 'Static listing (no queryable SharePoint library) at https://www.oregon.gov/oha/PH/ProviderPartnerResources/EvaluationResearch/InstitutionalReviewBoard/Pages/policy.aspx
+  — the Public Health IRB Policy & Procedures Manual plus standalone IRB policy PDFs. No numbering scheme;
+  manifest built by hand (id = slug of the page''s own link text, matching ingest_policies.py''s oregon-health-authority-irb
+  id lambda) since the built-in static-HTML discovery is DOC-specific (hardcoded ''doc-'' id prefix/numbering).
+  Freshness: re-fetch the page, diff the PDF-link set, re-hash members.'
+sources:
+- id: oha-irb-ph-irb-policy-procedures-manual-the-common-rule
+  url: https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/PHIRBPolicy1292018NIHsIRB.pdf
+  sha256: a60e66c671f1a9b3ab8968b26c8511c2e256e6a101d7b1306ed33e121294e5b7
+  last_checked: '2026-07-21'
+  notes: 'PH IRB Policy & Procedures Manual: The Common Rule (OHA Public Health IRB — PH IRB Policy &
+    Procedures Manual: The Common Rule)'
+- id: oha-irb-ph-irb-policy-procedures-manual-the-revised-common-rule
+  url: https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/PH%20IRB%20Policy_2026.pdf
+  sha256: 8846051db2302eca70a133bf2899001e0a0a20dd314ea413c90ae2d66b5d72b9
+  last_checked: '2026-07-21'
+  notes: 'PH IRB Policy & Procedures Manual: The Revised Common Rule (OHA Public Health IRB — PH IRB Policy
+    & Procedures Manual: The Revised Common Rule)'
+- id: oha-irb-policy-and-procedures-for-addressing-allegations-of-research-misconduct
+  url: https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/PH%20Research%20Misconduct%20Policy_2026.pdf
+  sha256: 8b93d3a69834474f07b30aad2d01f0c0cc21ba8625409a5948b279bee8d9838c
+  last_checked: '2026-07-21'
+  notes: Policy and Procedures for Addressing Allegations of Research Misconduct (OHA Public Health IRB
+    — Policy and Procedures for Addressing Allegations of Research Misconduct)
+- id: oha-irb-children-participation-in-research
+  url: https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/Children%20Participation%20in%20HSR_2026.pdf
+  sha256: 4a04095bd0316ba15aaac9d56845e8b0fef71b5e48d42e83235ab7f18851f84f
+  last_checked: '2026-07-21'
+  notes: Children Participation in Research (OHA Public Health IRB — Children Participation in Research)
+- id: oha-irb-prisoner-participation-in-research
+  url: https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/Prisoner.pdf
+  sha256: 9abf15f001ff17b6d9ca6bd874e0dd5e5243435f3ee1ac1418d4b5fe458337d6
+  last_checked: '2026-07-21'
+  notes: Prisoner Participation in Research (OHA Public Health IRB — Prisoner Participation in Research)
+- id: oha-irb-protocol-deviations-and-noncompliance
+  url: https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/Protocol%20Deviation%20Noncompliance%202026.pdf
+  sha256: 174136f5c0f85efab25d3f1eb5b2b2c4a89edd13151dfa60a00b25294d74e7d1
+  last_checked: '2026-07-21'
+  notes: Protocol Deviations and Noncompliance (OHA Public Health IRB — Protocol Deviations and Noncompliance)
+- id: oha-irb-unanticipated-problems-and-adverse-events
+  url: https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/Unanticipated%20Problem_Adverse%20Event%202026.pdf
+  sha256: cdf03eb7d2b8aae1152ca7e1f7a67b2f3ede267e35e3fac3d884062b46c6ca1f
+  last_checked: '2026-07-21'
+  notes: Unanticipated Problems and Adverse Events (OHA Public Health IRB — Unanticipated Problems and
+    Adverse Events)
+- id: oha-irb-compensating-research-participants
+  url: https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/Compensation.pdf
+  sha256: bceaab97d17669247a3012965f5de46de27c168534b0e8e63960ae2ebb716484
+  last_checked: '2026-07-21'
+  notes: Compensating Research Participants (OHA Public Health IRB — Compensating Research Participants)
+- id: oha-irb-financial-conflicts-of-interest-in-federally-sponsored-research-activities
+  url: https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/COIinFederallySponsoredResearchApp2021.pdf
+  sha256: 5aa46d2906b152f87280d002c7e0c868cfa15e629c6f66c398ece254ca0a86fb
+  last_checked: '2026-07-21'
+  notes: Financial Conflicts of Interest in Federally Sponsored Research Activities (OHA Public Health
+    IRB — Financial Conflicts of Interest in Federally Sponsored Research Activities)
+- id: oha-irb-transportation-of-information-assets
+  url: https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/transportation_information_assets.pdf
+  sha256: ac3d7d842de9c8010cd55af0b5e8b8b78a5182c245410d8701ca69d870bdcbc4
+  last_checked: '2026-07-21'
+  notes: Transportation of Information Assets (OHA Public Health IRB — Transportation of Information Assets)
+- id: oha-irb-is-my-study-an-applicable-clinical-trial-as-defined-by-42-cfr-11
+  url: https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/ApplicableClinicalTrialChart.pdf
+  sha256: a4a3fbf06b2f1f9b9fab29c5087d8a68fd08c528bee625f2859dc55eea6f4809
+  last_checked: '2026-07-21'
+  notes: Is my study an "applicable clinical trial" as defined by 42 CFR 11? (OHA Public Health IRB —
+    Is my study an "applicable clinical trial" as defined by 42 CFR 11?)

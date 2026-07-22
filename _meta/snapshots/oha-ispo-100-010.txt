@@ -1,0 +1,215 @@
+                                   OFFICE OF INFORMATION SERVICES
+                                  Information Privacy and Security Office
+
+
+ Operational Policy
+ Policy title:        Release & Waivers for Use and Disclosure for Research and Reporting
+
+ Policy number:       DHS|OHA-100-010
+
+ Original date:       7/22/2014 (OHA only)              Last update:     10/03/2016 (Joint DHS|OHA)
+
+ Approved:            Mark Fairbanks, CFO OHA Dr. Richardson, Deputy Director DHS
+
+Purpose
+This policy is one of two that outline the Department of Human Services (DHS) and Oregon Health
+Authority (OHA) guidelines and expectations for protecting the privacy of information and maintaining
+reasonable safeguards when performing required or allowed research and reporting.
+
+Description
+This policy details the responsibility of DHS and OHA staff to maintain the privacy of an individual’s
+identifiable or protected information by outlining the circumstances under which the agencies may use
+and disclose information for research purposes. All DHS and OHA staff should review their agencies
+privacy policies to be sure they understand how these policies work together to protect individual
+privacy.
+
+Applicability
+This policy applies to all DHS and OHA staff including employees, volunteers, trainees and interns.
+
+As keepers of the public trust, all agency employees have a responsibility to comply with state and
+agency policies, administrative rule, and state and federal law. The agency takes this responsibility
+seriously and failure to fulfill this responsibility is not treated lightly. Employees who fail to comply with
+state or agency policy, administrative rule, or state and federal law may face progressive discipline,
+up to and including dismissal from state service.
+
+Policy
+1. Research means a systematic investigation, including research development, investigation,
+   testing, and evaluation designed to develop or contribute to generalized knowledge.
+2. When conducting activities that involve the use or disclosure of individually identifiable or
+   protected information for research purposes, DHS and OHA staff shall comply with all applicable
+   federal and state statutes and rules and DHS and OHA policies including:
+   a. The existing research requirements of the Common Rule for the protection of human subjects
+       in research promulgated by the U.S. Department of Health and Human Services.
+   b. HIPAA and HITECH rules (Health Insurance Portability and Accountability Act and Health
+       Information Technology for Economic and Clinical Health Act respectively) for the covered
+       entity components of OHA and the business associate components of DHS.
+
+                                                  Page 1 of 5                              MSC 7464 (9/14)
+    c. Requirements applicable to particular research contracts or grants, including those funded by
+        the National Institutes for Health.
+3. When DHS and OHA are using or disclosing individually identifiable or protected information for
+    research purposes, the agencies shall:
+    a. Use or disclose information without authorization only as allowed or required by law;
+    b. Obtain an authorization for use or disclosure signed by the individual or the individual’s
+        personal representative; or
+    c. Obtain an Institutional Review Board (IRB) waiver.
+4. OHA may obtain, use or disclose individually identifiable or protected information without
+    authorization to conduct studies that are required by law.
+5. DHS may use and disclose information without informed consent if allowed by law for research
+    and demonstration projects related to public benefit or service programs, conducted by or subject
+    to the approval of the federal funding agency to evaluate:
+    a. The program or service as a whole.
+    b. Procedures for obtaining benefits.
+    c. Changes or alternatives to the program.
+    d. Changes in methods or levels of payment for program benefits and services.
+6. DHS and OHA may obtain, use or disclose individually identifiable or protected information without
+    authorization to comply with reporting requirements applicable to federal or state funding
+    requirements.
+7. OHA, through the Public Health division, may obtain, use or disclose individually identifiable or
+    protected information without authorization for the purpose of:
+    a. Preventing injury or controlling disease; or
+    b. Conducting public health surveillance, investigations and interventions.
+8. OHA may obtain, use or disclose individually identifiable or protected information without
+    authorization to conduct studies and data analyses for quality assurance purposes related to:
+    a. OHA’s health care operations as that term is defined in 45 CFR 164.501; and
+    b. OHA’s actions as a health care provider.
+9. DHS and OHA shall maintain the confidentiality of protected health information for a period of 25
+    years following the death of an individual.
+10. Without specific authorization from an individual or the individual’s representative, DHS and OHA
+    shall not disclose:
+    a. Information about an individual’s infection with AIDS or HIV.
+    b. Psychotherapy notes.
+    c. Information related to alcohol and drug treatment.
+11. When DHS or OHA uses or discloses de-identified information or limited data sets for research
+    purposes, disclosure shall be made in compliance with federal and state statute and rule,
+    including the federally required minimum necessary standard, and agency policy related to
+    privacy, especially the de-identification of data and limited data sets policy.
+12. When DHS or OHA uses or discloses an individual’s information for research purposes based on
+    a HIPAA compliant authorization from the individual or the individual’s representative:
+    a. The authorization shall be study specific.
+    b. The expiration date of the authorization may be defined using terms such as “end of research
+        study”.
+
+                                             Page 2 of 5                            MSC 7464 (9/14)
+    c. The authorization may be combined with other types of written permission for the same
+         research study.
+13. If research includes treatment, the researcher may condition the provision of research related
+    treatment on receiving an authorization for use and disclosure of information for the research
+    project.
+14. When DHS or OHA receive a request for use or disclosure of individually identifiable or protected
+    information for research purposes, including preparing for research or developing a research
+    protocol in anticipation of research, the agencies shall determine whether federal or state statute
+    permits the use or disclosure without individual authorization or use of an IRB to authorize
+    release.
+15. When a request for use or disclosure of individually identifiable or protected information, including
+    information about a deceased individual, can clearly be identified as a permitted release, DHS or
+    OHA may provide access if the researcher enters into a data use agreement with the agency that
+    provides specific written assurances:
+    a. The individual’s protected information is necessary for research purposes.
+    b. The information shall not be used or disclosed in any way not provided for in the agreement.
+    c. The researcher and the researcher’s agents shall use appropriate safeguards to prevent the
+         use or disclosure of the information other than as provided for within the written agreement.
+    d. The researcher and the researcher’s agents shall not publicly identify individuals whose
+         protected information has been disclosed.
+    e. The researcher and the researcher’s agents shall not contact the individual whose data is
+         being disclosed.
+    f. The researcher and the researcher’s agents agree to comply with any other terms or
+         conditions required by law.
+    g. If the information being disclosed is being used to prepare for research or for the development
+         of a research project the researcher also shall confirm that:
+         A. Use or disclosure is only sought to prepare for research or develop a research protocol.
+         B. No individually identifiable or protected information will be removed from OHA in the course
+             of the researcher’s review.
+    h. If the information sought is related to an individual who is deceased the researcher also shall
+         confirm that:
+         A. Use or disclosure is solely for research related to deceased individuals.
+         B. The agency has documentation confirming the death of the individual whose information is
+             being requested.
+16. If a request for information for research purposes, including information about a deceased
+    individual, cannot clearly be identified as a permitted release, DHS or OHA may use or disclose
+    information without an individual’s written authorization if the agency obtains a waiver of
+    authorization from an IRB established in accordance with 45 CFR Part 46.
+17. When DHS or OHA conducts research approved by an IRB, procedures or approvals designed by
+    the IRB may create exceptions to this policy.
+18. When using or disclosing information based on an IRB waiver, DHS and OHA shall maintain:
+    a. A statement identifying the IRB that approved the waiver and the date of the approval.
+    b. A brief description of the information to be used or disclosed under the IRB waiver.
+    c. Documentation of the waiver of an individual’s authorization signed by the IRB chair or the
+         chair’s designee.
+
+
+                                               Page 3 of 5                             MSC 7464 (9/14)
+    d. A statement that the IRB has determined that the waiver of authorization, in whole or in part,
+         satisfies the following criteria:
+         A. The use or disclosure of an individual’s protected information involves no more than
+             minimal risk to the privacy of the individual;
+         B. The research could not practically be conducted without the waiver of authorization; and
+         C. The research could not practically be conducted without access to and use of the
+             individual’s protected information.
+19. An IRB’s determination that use or disclosure of an individual’s protected information involves no
+    more than minimal risk to the privacy of individuals shall be based on a minimum assessment that:
+    a. There is an adequate plan to protect an individual’s identifying information from improper use
+         or disclosure;
+    b. There is an adequate plan to destroy an individual’s identifying information at the earliest
+         opportunity consistent with the conduct of the research, unless there is a health or research
+         justification for retaining the identifiers or such retention is otherwise required by law; and
+    c. There are adequate written assurances that the individual’s information will not be reused or
+         disclosed except:
+         A. As required by law;
+         B. For authorized oversight of the research study; or
+         C. For other research permitted under this policy.
+20. Genetic research and testing shall comply with the specific requirements of state and federal law,
+    including the genetic privacy laws, and the research standards of this policy.
+    a. Genetic research means research using DNA samples, genetic testing or genetic information.
+    b. Genetic testing means a test for determining the presence or absence of genetic
+         characteristics in an individual or the individual’s blood relatives, in order to diagnose or
+         determine a genetic characteristic.
+    c. Genetic information means information about an individual or the individual’s blood relatives
+         obtained from a genetic test.
+21. Any IRB reviewing genetic research under ORS 192.547 shall be registered with DHS or OHA in
+    accordance with OAR 333-025-0125.
+22. DHS and OHA shall not use or disclose genetic information for underwriting purposes, even if
+    provided with an individual authorization.
+23. If this policy conflicts with federal or state statute or rule that statute or rule supersedes unless this
+    policy provides more protection.
+24. DHS and OHA follow all applicable federal and state statutes and rules and all applicable Oregon
+    Department of Administrative Services statewide policies.
+
+References
+45 CFR Part 46
+45 CFR Part 160
+45 CFR Part 164
+OAR 333-025-0100 – 333-025-0165
+Privacy/Security Glossary of Common Terms
+
+Related policies
+OHA Privacy Policies 100-001 to 100-014
+
+                                                 Page 4 of 5                               MSC 7464 (9/14)
+DHS Privacy Policies
+
+Contact
+Information Security and Privacy Office (ISPO)
+Phone: 503-945-6812 (Security)
+        503-945-5780 (Privacy)
+Fax:    503-947-5396
+Email: privacyoffice@odhsoha.oregon.gov
+
+Policy history
+Version 1 OHA 100-010 Established 07/22/2014
+Version 1 DHS|OHA 100-010 Established 10/03/2016
+
+Keywords
+IRB, Institutional Review Board, HIPAA, HITECH, Research, Waivers, Privacy, Genetic research
+
+
+This document can be provided upon request in an alternate format for individuals with disabilities or
+in a language other than English for people with limited English skills. To request this document in
+another format or language, contact the Publications and Design Section at 503-378-3486, 7-1-1 for
+TTY, or email dhs-oha.publicationrequest@odhsoha.oregon.gov.
+
+
+
+
+                                              Page 5 of 5                             MSC 7464 (9/14)
+

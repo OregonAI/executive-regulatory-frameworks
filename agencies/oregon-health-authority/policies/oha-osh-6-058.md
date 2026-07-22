@@ -1,0 +1,338 @@
+---
+id: oha-osh-6-058
+title: "Admissions (ADMINISTRATIVE DIRECTIVE)"
+doc_type: policy
+citation: "OSH Policy 6.058"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/6.058%20Admissions%20%28ADMINISTRATIVE%20DIRECTIVE%29/6.058%20Admissions.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "38bc0c2f55dcdf69b0dc01d2b6cb71f9c9fefdb5dc2c4d3c179dd93da11403a8"
+effective_date: "2024-06-24"
+last_reviewed: null
+source_version: "Effective JUNE 24, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-309-035-0215
+    - oar-309-091-0010
+    - oar-309-091-0025
+    - oar-333-505-0030
+    - oar-333-510-0010
+    - oar-333-510-0045
+    - oar-333-510-0060
+    - oar-333-525-0000
+    - ors-161.315
+    - ors-161.327
+    - ors-161.328
+    - ors-161.336
+    - ors-161.365
+    - ors-161.370
+    - ors-179.473
+    - ors-419c.378
+    - ors-419c.530
+    - ors-420.505
+    - ors-426.130
+    - ors-426.220
+    - ors-426.225
+    - ors-426.232
+    - ors-426.234
+    - ors-426.650
+    - ors-426.675
+    - ors-426.701
+    - ors-427.290
+  implemented_by: []
+  references_external: []
+  related:
+    - oha-osh-8-002
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/6.058%20Admissions%20%28ADMINISTRATIVE%20DIRECTIVE%29/6.058%20Admissions.pdf> (retrieved 2026-07-21).
+
+# Admissions (ADMINISTRATIVE DIRECTIVE) (OSH Policy 6.058)
+
+## At a glance
+
+OSH Policy 6.058 — Admissions (ADMINISTRATIVE DIRECTIVE). Oregon State Hospital (Oregon Health Authority). Effective JUNE 24, 2024.
+
+## Full text
+
+                         OREGON STATE HOSPITAL
+                                               POLICY
+
+  SECTION 6:         Patient Care                                          POLICY: 6.058
+
+  SUBJECT:           Admissions
+
+  POINT PERSON:      Admissions Director
+
+  APPROVED:          Sara Walker, MD                                 DATE: JUNE 24, 2024
+
+                     Interim Superintendent
+
+  SELECT ONE:
+
+I.    PURPOSE AND APPLICABILITY
+        A. This policy establishes Oregon State Hospital (OSH) policy and procedures for
+           patient admissions.
+        B. This policy applies to all staff.
+
+II.   POLICY
+       A. Oregon state hospital admits patients 18 years of age and over per ORS
+          (426.130, 426.701, 427.290, 179.473, 161.315, 161.327, 161.328, 161.365,
+          161.370, 419C.530, 419C.378, 420.505).
+       B. Oregon State Hospital (OSH) will admit individuals who meet criteria for
+          commitment to OSH in a safe and timely manner and as bed become
+          available. All admissions must follow processes in this policy and in
+          pertinent Oregon Administrative Rules (OAR) and Oregon Revised
+          Statutes (ORS).
+       C. Upon receipt of an admission referral to OSH, the Admissions Director
+          must ensure that there is a legal authority for the admission. If there is not,
+          the Admissions Director must notify the requesting parties in writing with
+          reference to the appropriate authority.
+
+       D. An Admissions RN must perform a brief assessment for every patient
+          admitted to OSH including, at minimum, vital signs and visual observation
+          to identify any medical needs requiring immediate attention before the
+          patient leaves the Admissions area. If a patient is too combative to safely
+          obtain vital signs, this must be communicated with Unit and documented in
+          the medical record along with the nature of the patient's behavior.
+
+SUBJECT: Admissions                                                 POLICY NUMBER: 6.058
+
+DATE:        June 24, 2024                                                     PAGE 2 OF 7
+
+    E. If a newly admitted patient experiences an emergency medical condition,
+       OSH must provide emergency care as indicated in OSH Policy 8.002 in
+       accordance with regulations and licensure until the patient can be
+       transferred to an acute care facility.
+    F. Individuals who are identified prior to admission as having significant
+       medical concerns must be referred to the Chief of Medicine or their
+       designee for review per Procedures A.
+    G. The Admissions Director must prioritize admissions as follows:
+        1.   If the person is a civil admission who does not meet the expedited
+             criteria, they will be placed on the waitlist
+        2.   PSRB revocations and expedited civil admissions will be scheduled for
+             direct admission, according to availability of bed space.
+        3.   Court ordered commitments will be prioritized based on their legal status
+             and admitted subject to availability of bed space.”
+    H. For patient-type specific admissions requirements and placement
+       guidelines, staff must refer to Procedures B.
+    I. The Oregon Health Authority (OHA), or designee, will determine
+       whether OSH will admit an individual who is civilly committed, who
+       requests voluntary commitment, whose guardian requests commitment
+       for the individual (voluntary by guardian [VG]), or whose health care
+       representative (HCR) requests commitment for the individual (voluntary
+       by HCR).
+    J. Psychiatric Security Review Board (PSRB) community clients may be
+       voluntarily admitted if the individual needs OSH services, but conditional
+       release status is not revoked. If such an individual has the capacity to
+       consent to voluntary admission to OSH (or has a personal
+       representative who may consent on their behalf), the individual may
+       apply for voluntary admission to OSH.
+        1.   OSH’s determination of whether to accept the application will be
+             subject to review for appropriateness of admission and is dependent
+             upon bed availability. Admissions must review the admission
+             request on the following:
+             a. Need for inpatient services at the Oregon State Hospital and no
+                other alternative is likely to be successful, with endorsement of
+                this need, in writing, by the PSRB.
+             b. Availability of a bed for the likely duration of their stay.
+              c. Approval by the Chief Medical Officer or the Superintendent.
+        2.   If OSH accepts a voluntary admission application from a PSRB
+
+SUBJECT: Admissions                                              POLICY NUMBER: 6.058
+
+DATE:        June 24, 2024                                                 PAGE 3 OF 7
+
+             client, the client may remain at OSH for no more than 30 days,
+             unless the client, the PSRB, and OSH agree that circumstances
+             require a longer stay.
+
+   J. OYA (Oregon Youth Authority) 30-Day Administrative Transfer
+      request under Interagency Agreement; OYA Transfers to OSH.
+        1.   An Interagency transfer of a youth from OYA can be made
+             upon request from an OYA Authorized Representative as
+             outlined in the Interagency Agreement between OYA and
+             OSH.
+        2.   Transfers from OYA require CMO, or designee review, and
+             approval as outlined in the Interagency Agreement between
+             OYA and OSH.
+   K. The Admissions Director must coordinate transportation of the patient to
+      the State Hospital if a sending facility cannot transport a patient on the
+      scheduled day, and the delay will result in the individual not being
+      admitted. The Admissions Director must track this internally.
+   L. Admissions shall occur during regular business hours on non-holidays.
+        1.    Holiday and after-hours admissions are limited to PSRB patients whose
+             conditional release status has been revoked and who the PSRB has
+             deemed require immediate admission.
+   M. The Admissions Director must:
+        1.   Schedule admissions for the coming week based on the Admissions
+             List
+        2.   Assign incoming patients to Admissions staff to conduct initial screening
+             which includes; medical concerns, the collection of documentation and to
+             obtain provider to provider verbal handover.
+   N. The Admissions Director or designee shall assign accepted individuals to
+      receiving units based on the best fit between their clinical needs and bed
+      availability. Safety of patients and safety of staff is paramount, and no patient
+      will be admitted to a unit that does not have the necessary resources to provide
+      safe care.
+   O. In cases where the Admissions Team is not certain which type of program
+      will best meet an individual’s needs, they may consult
+      the Supervising Psychiatrist or Program Director for the program identified
+      as most likely to be appropriate. If unavailable,
+
+SUBJECT: Admissions                                                POLICY NUMBER: 6.058
+
+DATE:        June 24, 2024                                                    PAGE 4 OF 7
+
+         Admissions may contact the Chief of Psychiatry or
+         their designee.
+   P. Assigned staff must complete applicable commitment- specific
+      admission tasks as indicated in Admissions task checklists and in other
+      department protocols and OSH policies and procedures.
+
+   Q. In accordance with OAR 333-510-0060, at minimum each patient
+      must be provided the following items including, but not limited to:
+         1. a good bed, mattress, pillow, and bed linens.
+         2. personal care items; and
+         3. separate storage space for items, including personal belongings that are
+            within OSH guidelines of policy 8.037.
+   R. Admissions staff, to the extent possible, must seek the following
+      information from the sending facility and document the information in the
+      electronic medical record:
+        1.   medical history, review of health systems;
+        2.   medication reconciliation with diagnosis, dosages, allergies, and side
+             effects, including copies of the medication administration record;
+        3.   vital signs, including respiration, pulse, temperature, height, weight,
+             blood pressure in the last 24 hours;
+        4.   physician examination;
+        5.   test results that have been done,
+        6.   electrocardiogram (EKG), if clinically indicated;
+        7.   reports of any blood work, urine analysis, or x-rays which were clinically
+             indicated and ordered;
+        8.   purified protein derivative (PPD) results if the patient has stayed in jail
+             more than two weeks or was an inpatient more than two weeks;
+        9.   copy of consultation reports, if any;
+        10. copy of emergency department evaluation form; and
+        11. discharge summary (when available) when coming from an inpatient
+            setting.
+   S. On a quarterly basis, the Admissions Director must review the
+      appropriateness of placement of recent admissions with the Chief of
+      Psychiatry and self-selected representatives from Program Executive
+
+       SUBJECT: Admissions                                               POLICY NUMBER: 6.058
+
+       DATE:      June 24, 2024                                                    PAGE 5 OF 7
+
+               Teams whose units receive admissions.
+          T. OSH follows all applicable regulations, including federal and state
+             statutes and rules; Oregon Department of Administrative Services,
+             Shared Services, and Oregon Health Authority policies; and relevant
+             accreditation standards. Such regulations supersede the provisions of
+             this policy unless this policy is more restrictive.
+          U. Staff who fails to comply with this policy or related procedures may be
+             subject to disciplinary action, up to and including dismissal.
+
+III.    DEFINITIONS
+          A. “Admission” means actions completed by OSH admissions
+             coordinators and admitting staff before and during a committed
+             individual’s arrival at OSH designed to coordinate safe and timely
+             admission of the individual.
+          B. “Admission Director” refers to the person responsible for coordinating
+             admitting patients to OSH during normal business hours and after
+             hours.
+          C. “Civil commitment” refers to individuals who have been civilly
+             committed to the Oregon Health Authority under ORS 426.130.
+          D. Emergency medical condition” in accordance with 42 Code of Federal
+             Regulations § 489.24 means:
+           1. a medical condition manifesting itself by acute symptoms of sufficient severity
+              (including severe pain, psychiatric disturbances and/or symptoms of
+              substance abuse) such that the absence of immediate medical attention could
+              reasonably be expected to result in –
+                a. placing the health of the individual (or, with respect to a pregnant woman,
+                   the health of the woman or her unborn child) in serious jeopardy;
+                b. serious impairment to bodily functions; or
+                c. serious dysfunction of any bodily organ or part; or
+           2. with respect to a pregnant woman who is having contractions –
+                a. that there is inadequate time to affect a safe transfer to another hospital
+                   before delivery; or
+                b. that transfer may pose a threat to the health or safety of the woman or the
+                   unborn child.
+          E. “Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
+             and other state employees assigned to work at Oregon State Hospital (OSH).
+          F. “OYA” Oregon Youth Authority
+
+      SUBJECT: Admissions                                                    POLICY NUMBER: 6.058
+
+      DATE:      June 24, 2024                                                           PAGE 6 OF 7
+
+         G. Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
+            and other state employees assigned to work at Oregon State Hospital (OSH).
+
+IV.    PROCEDURES
+       Procedures A       Admission of Patients with Medical Problems
+       Procedures B       Admissions
+
+V.     RELATED OSH POLICIES AND PROTOCOLS
+         Oregon State Hospital Policy and Procedure Manual. Admission of patients with
+         medical problems, 6.049. Author.
+         Oregon State Hospital Policy and Procedure Manual. Contraband and prohibited
+         items, 8.044. Author.
+         Oregon State Hospital Policy and Procedure Manual. Emergency care provided by
+         OSH, 8.002. Author.
+         Oregon State Hospital Policy and Procedure Manual. Medication reconciliation,
+         6.035. Author.
+         Oregon State Hospital Policy and Procedure Manual. Patient property and
+         valuables, 8.037. Author.
+         Oregon State Hospital Policy and Procedure Manual. Release of information and
+         communication with patient families, guardians, significant others, 6.021. Author.
+         Oregon State Hospital Policy and Procedure Manual. Suicide risk screening and
+         assessment, 6.056. Author.
+         Oregon State Hospital Policy and Procedure Manual. Trauma screening, 6.052.
+         Author.
+
+VI.    REFERENCES
+         Joint Commission Resources, Inc. (2018). The joint commission comprehensive accreditation
+             manual for hospitals, PC.01.01.01. Oakbrook Terrace, IL: Author.
+         Oregon Administrative Rule § 309-035-0215.
+         Oregon Administrative Rule §§ 309-091-0010 – 309-091-0025.
+         Oregon Administrative Rule § 333-505-0030.
+         Oregon Administrative Rule § 333-510-0045.
+         Oregon Administrative Rule § 333-510-0010, 0060.
+         Oregon Administrative Rules § 333-525-0000.
+         Oregon Revised Statutes § 161.315.
+
+SUBJECT: Admissions                                POLICY NUMBER: 6.058
+
+DATE:      June 24, 2024                                    PAGE 7 OF 7
+
+   Oregon Revised Statutes §§ 161.327 — 161.328.
+   Oregon Revised Statute § 161.336.
+   Oregon Revised Statutes §§ 161.365 — 161.370.
+   Oregon Revised Statute § 420.505.
+   Oregon Revised Statute § 426.130.
+   Oregon Revised Statute § 426.220.
+   Oregon Revised Statute § 426.225.
+   Oregon Revised Statutes §§ 426.232 — 426.234.
+   Oregon Revised Statutes §§ 426.650 — 426.675.
+   Oregon Revised Statute § 426.701.
+ Oregon Revised Statute § 441.155.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/6.058%20Admissions%20%28ADMINISTRATIVE%20DIRECTIVE%29/6.058%20Admissions.pdf> · retrieved 2026-07-21 · sha256 `38bc0c2f55dcdf69b0dc01d2b6cb71f9c9fefdb5dc2c4d3c179dd93da11403a8`
+- Snapshot: `_meta/snapshots/oha-osh-6-058.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

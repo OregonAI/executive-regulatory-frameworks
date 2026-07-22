@@ -107,6 +107,8 @@ relationships:
     - oar-419-240-0190
     - oar-419-240-0200
     - oar-419-400-0310
+    - oha-osh-7-008
+    - oha-osh-8-019
   references_external: []
   related: []
   supersedes: []

@@ -1,0 +1,205 @@
+---
+id: oha-osh-1-014
+title: "Data Governance"
+doc_type: policy
+citation: "OSH Policy 1.014"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/1.014%20Data%20Governance/1.014%20Data%20Governance.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "894b2c4d09e2c0bed4af64209d4901eeef0de39d74796a82c4a323db5759080b"
+effective_date: "2023-12-28"
+last_reviewed: null
+source_version: "Effective DECEMBER 28, 2023"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related:
+    - oha-osh-2-006
+    - oha-osh-2-008
+    - oha-osh-2-013
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/1.014%20Data%20Governance/1.014%20Data%20Governance.pdf> (retrieved 2026-07-21).
+
+# Data Governance (OSH Policy 1.014)
+
+## At a glance
+
+OSH Policy 1.014 — Data Governance. Oregon State Hospital (Oregon Health Authority). Effective DECEMBER 28, 2023.
+
+## Full text
+
+                      OREGON STATE HOSPITAL
+                                          POLICY
+SECTION 1:        Administration                                             POLICY: 1.014
+
+SUBJECT:          Data Governance
+
+POINT PERSON:     Data and Analysis Manager
+
+APPROVED:         Dolores Matteucci                             DATE: DECEMBER 28, 2023
+
+                  Superintendent
+
+SELECT ONE:
+
+ PLEASE NOTE THAT ALL CHANGES WILL BE MADE AS TRACK CHANGES. TO CLEAR AND ACCEPT
+ YOUR TRACK CHANGES, CONTACT OSH.POLICIESANDPROCEDURES@DHSOHA.STATE.OR.US.
+
+PURPOSE AND APPLICABILITY
+
+   A. This policy establishes the Oregon State Hospital (OSH) Data Governance
+      Program and associated procedures to assure compliance with accrediting
+      agencies, laws, regulations, and best practices related to data governance.
+
+   B. This policy applies to all staff.
+
+POLICY
+   A. OSH will govern data as a component of hospital data management.
+   B. The Data Governance Committee (DGC) will make data governance decisions,
+      including:
+      1. establishing appropriate responsibility for managing OSH data as an
+         institutional asset;
+      2. addressing data integrity by formalizing data security, collection, distribution,
+         and retention; and
+      3. governing information asset distribution according to the context for which it
+         was created.
+   C. DGC will govern an information asset that exceeds established thresholds for
+      sensitivity or scope of distribution.
+
+ Subject:                                                                Policy Number:1.014
+              Data Governance
+ Date:
+              December 28, 2023                                                   P AGE 2 OF 4
+
+         1. A unit or department may control an information asset which is created by
+            that unit or department, and which is never reported, presented, or used by
+            another department.
+         2. An information asset created by a unit or department, and which is reported
+            or used by a unit or department other than the one that created it must be
+            assessed by the Data and Analysis Department (DA) to determine whether
+            governance is needed.
+   D. Information assets that require governance will be standardized as delineated in
+      this policy.
+   E. This policy applies to all staff including employees, volunteers, trainees, interns,
+      contractors, vendors, and other state employees assigned to work at OSH.
+   F. OSH follows all applicable regulations, including federal and state statutes and
+      rules; Oregon Department of Administrative Services, Shared Services, and
+      Oregon Health Authority policies; and relevant accreditation standards. Such
+      regulations supersede the provisions of this policy unless this policy is more
+      restrictive.
+   G. Staff who fails to comply with this policy or related procedures may be subject to
+      disciplinary action, up to and including dismissal.
+
+   DEFINITIONS
+“Assessment” for the purposes of this policy refers to analyzing an information asset to
+determine if the data contained within exceeds the established thresholds for either
+sensitivity or scope of distribution.
+“Data” for the purposes of this policy refers to the raw material for conveying
+information, the basic component of information. Data is a collection of discrete values
+including words, numbers, symbols, diagrams, images, or sounds/(audio).
+“Data elements” refers to a unit of data defined by type (e.g., alphanumeric, true/false,
+text, date); and name (i.e., “field name”, “tag”, or “caption”) or other identifier. Some data
+elements have additional attributes such as size (e.g., number of characters or digits of
+precision) and permissible values. Examples of data elements are: patient identification
+number, patient name, phone number, county, diagnosis, or date of birth, images, or
+audio.
+“Data governance” means strategic planning and decision making on data-related
+issues. Data governance activities include but are not limited to: addressing policies and
+strategic initiatives on data-related topics; establishing data standards and protocols for
+collection, displaying and storing data; and addressing data integrity issues by verifying
+
+ Subject:                                                               Policy Number:1.014
+              Data Governance
+ Date:
+              December 28, 2023                                                  P AGE 3 OF 4
+
+that data is reported and presented within the appropriate context for which it was
+intended.
+“Data sensitivity” refers to data or information which requires controls on disclosure.
+OSH-defined sensitive data elements are in the List of Governed Data
+Elements. Examples of sensitive data include, but are not limited to: patient
+identification number, patient name, admit date, diagnosis, or legal status.
+“Discovery” refers to a continuous communication cycle of data governance at OSH that
+includes DA scheduling annual assessments of known information assets and directors
+and department managers notifying DA when a new information asset is created.
+“Information asset” refers to a compilation of data where context can be applied and
+includes, but is not limited to: reports, spreadsheets, databases, directories, repositories
+of images, audio recordings, the electronic health record, or any combination of the
+above.
+“List of Governed Data Elements” refers to a list of data elements maintained by the
+DGC. Data elements on this list contain data that exceed the threshold established for
+either data sensitivity or scope of distribution. Examples of data elements on the list
+include: patient identification number, social security number, or diagnosis.
+“Scope of distribution” is a threshold established by the DGC that refers to the intended
+audience and distribution of information.
+“Staff” includes employees, volunteers, trainees, interns, contractors, vendors, and
+other state employees assigned to work at Oregon State Hospital (OSH).
+“Standardization” is a process of applying OSH data guidelines to an information asset.
+OSH data guidelines are maintained by DA and Technology Services and include, but
+are not limited to:
+            a. formalizing policies, rules, procedures, and protocols for the collection,
+               display, transmission, security, and retention of data;
+            b. requiring the use of uniform procedures for collection, validation, display
+               and distribution for information assets that exceed the thresholds
+               established for data sensitivity and scope of distribution;
+            c. establishing safeguards and controls to guard data against accidental
+               loss, damage, unauthorized alteration, unintentional change, and
+               accidental destruction; and
+            d. monitoring the compliance and continuous improvement process for
+               hospital data.
+
+ Subject:                                                                           Policy Number:1.014
+               Data Governance
+ Date:
+               December 28, 2023                                                           P AGE 4 OF 4
+
+PROCEDURES
+    Procedures A        Data Governance Procedures
+
+RELATED OSH POLICIES AND PROTOCOLS
+
+OSH Policy 2.013 “Electronic Health Record Access”
+
+OSH Policy 2.006 “Public Records Retention and Destruction”
+
+OSH Policy 2.008 “Privacy Security of Patient Information”
+
+REFERENCES
+Department of Human Services and Oregon Health Authority Shared Services. General security policy,
+090-001. Author.
+
+Department of Human Services and Oregon Health Authority Shared Services. Information System Audit
+and Monitoring Process, 090-002. Author.
+
+Department of Human Services and Oregon Health Authority Shared Services. Information Security and
+Privacy Awareness and Training, 090-004. Author.
+
+Joint Commission Resources, Inc. (2019). The joint commission comprehensive accreditation manual for
+hospitals, IM.02.01.03 EP2. Oakbrook Terrace, IL: Author.
+
+Joint Commission Resources, Inc. (2019). The joint commission comprehensive accreditation manual for
+hospitals, IM.02.02.03 EP1. Oakbrook Terrace, IL: Author.
+
+Office of Information Services (2022, January). General privacy, 100-001. Author.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/1.014%20Data%20Governance/1.014%20Data%20Governance.pdf> · retrieved 2026-07-21 · sha256 `894b2c4d09e2c0bed4af64209d4901eeef0de39d74796a82c4a323db5759080b`
+- Snapshot: `_meta/snapshots/oha-osh-1-014.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

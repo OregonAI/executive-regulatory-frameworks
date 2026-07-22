@@ -1,0 +1,310 @@
+---
+id: oha-osh-8-009
+title: "OSH Safety Programs"
+doc_type: policy
+citation: "OSH Policy 8.009"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/8.009%20OSH%20Safety%20Programs/8.009%20OSH%20Safety%20Programs.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "cf2cb2fc1efe573a4bf0f10ef82b354964c786ef2c8b4efcb9f4ee31185402f3"
+effective_date: "2023-06-07"
+last_reviewed: null
+source_version: "Effective JUNE 7, 2023"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-166-300-0045
+    - oar-437-001-0001
+    - oar-437-002-2324
+    - ors-654.001
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/8.009%20OSH%20Safety%20Programs/8.009%20OSH%20Safety%20Programs.pdf> (retrieved 2026-07-21).
+
+# OSH Safety Programs (OSH Policy 8.009)
+
+## At a glance
+
+OSH Policy 8.009 — OSH Safety Programs. Oregon State Hospital (Oregon Health Authority). Effective JUNE 7, 2023.
+
+## Full text
+
+                         OREGON STATE HOSPITAL
+                                             POLICY
+  SECTION 8:         Safety, Security, Emergency                               POLICY: 8.009
+                     Management
+
+  SUBJECT:           OSH Safety Programs
+
+  POINT PERSON:      Director of Safety
+
+  APPROVED:          Dolores Matteucci                                   DATE: JUNE 7, 2023
+
+                     Superintendent
+
+  SELECT ONE:                                                Minor/technical revision of
+                     New policy
+                                                             existing policy
+
+                     Reaffirmation of existing policy        Major revision of existing policy
+
+I.    PURPOSE AND APPLICABILITY
+      A. Oregon State Hospital (OSH) strives to provide a safe and healthy work
+         environment for staff, patients, and visitors to enhance productivity and quality of
+         patient care. To support this goal, this policy describes the OSH Safety Program
+         and staff safety training requirements.
+      B. This policy applies to all staff.
+
+II.   POLICY
+      A. The OSH Safety department is responsible for a comprehensive safety program
+         at OSH (OSH Safety Program), which includes but is not limited to:
+         1. Safety-related staff training requirements,
+             a. The OSH Safety department provides staff safety-related training to
+                ensure compliance with federal and state regulatory statues.
+         2. Safety consultation for staff and patients,
+             a. The OSH Safety department provides assistance and consultations on
+                issues related to workplace safety and health.
+         3. Safety inspections and consultation for external partners,
+             a. The OSH Safety department serves as a liaison to State Accident
+                Insurance Fund (SAIF) Corporation, Occupational Safety and Health
+                Administration (OSHA), and other applicable regulatory agencies during
+
+SUBJECT: OSH Safety Programs                                     POLICY NUMBER: 8.009
+
+DATE:     June 7, 2023                                                      PAGE 2 OF 7
+
+           inspections, consultations, and correspondence related to safety and
+           health.
+    4. Safety-related policy enforcement,
+        a. The OSH Safety department must verify hospital-wide compliance with
+           safety and health regulations required by OSH policy, state and federal
+           law, and other applicable regulatory agencies, such as The Joint
+           Commission and Centers for Medicare and Medicaid.
+        b. For fire and fire drill response, refer to OSH policy 8.022, “Fire and Fire
+           Drill Response.”
+        c. For workplace violence prevention and response, refer to OSH policy
+           8.033, “Workplace Violence Response.”
+    5. Safety data analysis and reporting, and
+        a. The OSH Safety department manages, coordinates, and maintains fire
+           and life safety training, worker’s compensation, and occupational health
+           programs, including collection and analysis of injury or illness data. The
+           OSH Safety department maintains documentation related to these
+           programs, and records are made available upon request.
+        b. The OSH Safety department must report required safety data to the OSH
+           Safety Committee, OSH Environment of Care Committee, OSH Cross-
+           Functional Work Team, and other committees as needed.
+    6. Promoting safety and health for staff and patients at OSH.
+        a. Among other safety-related functions, the OSH Safety department
+           manages and coordinates staff ergonomic assessments, job hazard
+           analysis, product risk assessments, and OSH safety environmental risk
+           assessments.
+        b. The OSH Safety Program includes identified room risk levels as follows:
+           i.   Level 1: Areas where patients are not allowed, such as staff and
+                service areas.
+           ii. Level 2: Areas where patients are under constant supervision and are
+               not left alone.
+           iii. Level 3: Areas where patients may spend time with minimal
+                supervision.
+           iv. Level 4: Areas where patient spend a great deal of time alone with
+               minimal or no supervision.
+
+SUBJECT: OSH Safety Programs                                   POLICY NUMBER: 8.009
+
+DATE:     June 7, 2023                                                    PAGE 3 OF 7
+
+           v. Level 5: Areas where staff interact with newly admitted patients who
+              present potential unknown risks or where patients may be in a highly
+              agitated condition. Due to these conditions, these areas fall outside the
+              parameters of the risk map and require special considerations for
+              patient and staff safety.
+ B. Staff are responsible to work in a safe manner. Staff must follow safety
+    regulations established by OSH Safety department and eliminate and/or report
+    any safety hazards, unsafe conditions, or unsafe practices to their supervisor or
+    the OSH Safety department.
+    1. Reportable incidents as designated in OSH policy 1.003, “Incident reporting,”
+       must be reported per OSH policy 1.003.
+    2. To maintain a safe environment, staff may perform environment checks, such
+       as a Patient Environment Safety Surveillance (PESS), infection control, or
+       sanitation check, without patient notification or involvement prior to
+       conducting the check.
+        a. Staff are required to complete a Patient Environment Safety Surveillance
+           (PESS) of the physical environment per Procedures A. The PESS is used
+           to identify staff and patient safety hazards in the physical environment.
+           Other environment checks are performed per Procedures B and
+           department protocols.
+        b. If a personal search of a patient is considered necessary during an
+           environment check, staff must follow OSH policy 8.041, “Patient Personal
+           Searches,” and OSH policy 6.061, “Transgender and Gender Non-
+           Conforming Treatment."
+        c. Searches related to contraband or reasonable suspicion of contraband,
+           missing items, and security or other treatment risk identification and
+           mitigation are subject to OSH policy 8.014, “Room, Unit, Treatment Mall
+           Searches.”
+        d. If contraband is found or staff have reasonable suspicion of the presence
+           of contraband or missing items during an environmental check, staff must
+           follow OSH policy 8.014, “Room, Unit, Treatment Mall Searches,” to gain
+           the proper permissions for a room search and OSH policy 8.044,
+           “Contraband,” to handle the contraband item.
+           NOTE: Food found during an environmental check may or may not be
+           classified as contraband, depending on the circumstance. Food that is not
+           classified as contraband is handled per this policy, OSH policy 6.047,
+           “Patient Food,” and applicable department protocols.
+ C. Staff must be trained in safety-related topics per OSH policy 9.002, “Training for
+    Staff.”
+ D. Supervisors must promote a safe work environment, safe work practices, and the
+
+       SUBJECT: OSH Safety Programs                                       POLICY NUMBER: 8.009
+
+       DATE:      June 7, 2023                                                       PAGE 4 OF 7
+
+           prevention of accidents and injuries within the assigned work area.
+           1. Supervisors must provide appropriate safety orientation on workplace
+              hazards and mitigation of risks that staff may be exposed to in the workplace.
+           2. Supervisors must review work section injury data provided by the OSH Safety
+              department and recommend injury prevention and mitigation efforts to the
+              OSH Central Safety Committee or OSH Safety department as needed.
+        E. If a workplace injury or illness occurs, the injured or ill staff and staff supervisor
+           must follow OSH policies 5.011, “Return to Work of Employees Injured on the
+           Job”, and 5.012, “Injury or Illness Reporting”. A supervisor may request a staff
+           member become a Unit Safety Representative (USR). Staff may decline an
+           invitation to be a USR without penalty.
+           1. A supervisor must provide time during the staff’s regular work schedule each
+              month for the USR to complete assigned USR duties.
+           2. After receiving training and certification from the OSH Safety department, the
+              USR must conduct monthly safety inspections as directed by the OSH Safety
+              department.
+        F. Oregon State Hospital (OSH) follows all applicable regulations, including federal
+           and state statutes and rules; Oregon Department of Administrative Services
+           (DAS), Shared Services, and Oregon Health Authority (OHA) policies; and
+           relevant accreditation standards. Such regulations supersede the provisions of
+           this policy unless this policy is more restrictive.
+        G. Staff who fail to comply with this policy or related policy attachments or protocols
+           may be subject to disciplinary action, up to and including dismissal.
+
+III.    DEFINITIONS
+        A. "Constant supervision” for the purposes of this policy means staff have eyes on
+           the patient at all times and usually means staff are in the room with the patient
+           (seclusion rooms/bathrooms are a notable exception).
+        B. “Contraband” is as defined in OSH policy 8.044, “Contraband.” Contraband is as
+           defined in 28 CFR § 500.1 and 28 CFR § 553.12. Contraband means material
+           prohibited by law, regulation or policy that can reasonably be expected to cause
+           physical injury or adversely affect the safety, security, or good order of the facility
+           or protection of the public. Items possessed by a patient ordinarily are not
+           considered to be contraband if the patient was authorized to retain the item upon
+           admission to the hospital, the item was issued by authorized staff, or the item
+           was approved, purchased, and received for a patient through appropriate OSH-
+           approved channels. For the purposes of this policy, contraband includes, but is
+           not limited to:
+
+      SUBJECT: OSH Safety Programs                                    POLICY NUMBER: 8.009
+
+      DATE:     June 7, 2023                                                     PAGE 5 OF 7
+
+          1. Hard contraband,
+          2. Nuisance contraband, and
+          3. Any substance or article that violates facility infection control requirements.
+             Such substances or articles may be classified as either hard contraband or
+             nuisance contraband, depending on the circumstance.
+       C. “Environment check” or “environmental check” means a check for the presence
+          of environmental hazards, including, but not limited to, ligature risks; spoiled,
+          expired, or unlabeled food; improperly stored food; unlabeled or expired sundry
+          items; garbage; soiled bedding; dirty clothing; and other items or environmental
+          factors that may contribute to a health risk or safety hazard for patients or staff.
+          Environment checks are not considered searches of patient rooms, units, or
+          treatment malls and are not subject to OSH policy 8.014, “Room, Unit, Treatment
+          Mall Searches.”
+       D. "Minimal supervision” in this policy means staff are occasionally visualizing the
+          patient or the room (e.g., unit activity room). Staff do not need to be in the room
+          with the patient. Video surveillance does not meet this requirement.
+       E. “Reasonable cause” is as defined in Oregon Administrative Rule (OAR) 309-108-
+          0005. Reasonable cause means an OSH staff member has knowledge or notice
+          of facts or circumstances and the rational inferences drawn therefrom that would
+          lead a reasonable and experienced OSH staff member to come to a conclusion.
+       F. “Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
+          and other state employees assigned to work at Oregon State Hospital (OSH).
+       G. “Sundry item” means an item used for personal care or hygiene that may be
+          medicated or non-medicated that:
+          1. OSH has determined does not require a practitioner’s order to administer, and
+          2. Is not required to be stored in the automated dispensing cabinets (ADC) or
+             medication room.
+          3. Examples of sundry items include, but are not limited to, shampoo including
+             anti-dandruff shampoo, body wash, bar soap, toothpaste, moisturizing lotions,
+             sunscreen, and other personal care items.
+       H. “Unit Safety Representative (USR)” means a staff who has received additional
+          training on the OSH Safety Program to assist in conducting inspections under the
+          direction of the OSH Safety department.
+
+IV.    PROCEDURES
+       Procedures A     Patient Environment Safety Surveillance (PESS) Process
+
+       SUBJECT: OSH Safety Programs                                         POLICY NUMBER: 8.009
+
+       DATE:      June 7, 2023                                                          PAGE 6 OF 7
+
+        Procedures B       Environment Check
+
+ V.     ATTACHMENTS
+        Attachment A       Patient Environment Safety Surveillance (PESS) Survey Sheet
+                           (Example Only)
+        Attachment B       PESS Surveyor Process Map
+
+VI.     RELATED OSH POLICIES AND PROTOCOLS
+        1.003 Incident Reporting
+        2.006 Public Records Retention and Destruction
+        2.012 Patient Safety Events, Including Sentinel Events
+        1.014 Data Governance
+        5.011 Return to Work of Employees Injured on the Job
+        5.012 Injury or Illness Reporting
+        7.005 Patient Rights
+        8.019 Staff Response to Alleged Criminal Acts
+        8.022 Fire and Fire Drill Response
+        8.029 Distribution of Funds for Safety Grants
+        8.033 Workplace Violence Response
+        8.037 Patient Property and Valuables
+        8.041 Patient Personal Searches
+        8.044 Contraband
+        9.002 Training for Staff
+        Nursing protocol 2.042 Medical Treatment Supplies, Personal Care Products, and
+        Sundry Items
+        Nursing protocol 2.210 Handling Patient Food on Units
+        Nursing protocol 2.215 Unit Safety and Security Management (SSM)
+        Technology Services – PESS Survey Sheet [form – various]
+
+VII.    REFERENCES
+        20 C.F.R Chapter 1, Office of Workers’ Compensation Programs, Department of Labor
+
+SUBJECT: OSH Safety Programs                                           POLICY NUMBER: 8.009
+
+DATE:       June 7, 2023                                                          PAGE 7 OF 7
+
+ 42 C.F.R. §482.41
+ Joint Commission Resources, Inc. (2023). The joint commission comprehensive accreditation manual
+     for hospitals. EC 01.01.01 ep1, ep 4, ep 7. Oakbrook Terrace, IL: Author.
+ Joint Commission Resources, Inc. (2023). The joint commission comprehensive accreditation manual
+     for hospitals. EC 02.01.01 ep1, ep 3. Oakbrook Terrace, IL: Author.
+ National Fire Protection Association (2023).101, 19.1.1.1., Author.
+ Oregon Administrative Rule §166-300-0045.
+ Oregon Administrative Rule §§ 437-001-0001 – 437-002-2324.
+ Oregon Revised Statute §§ 654.001 – 654.991.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/8.009%20OSH%20Safety%20Programs/8.009%20OSH%20Safety%20Programs.pdf> · retrieved 2026-07-21 · sha256 `cf2cb2fc1efe573a4bf0f10ef82b354964c786ef2c8b4efcb9f4ee31185402f3`
+- Snapshot: `_meta/snapshots/oha-osh-8-009.pdf`
+- See [CHANGELOG](./CHANGELOG.md).
