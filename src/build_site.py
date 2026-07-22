@@ -34,6 +34,8 @@ VIZZES = [
      "A treemap of the whole corpus by body, agency, and document type — where the depth is, and where the gaps are."),
     ("Semantic topic map", "topic-map.html",
      "A 2-D UMAP of every document's embedding: proximity means similar text, so clusters surface topics across ORS, OAR, and policy."),
+    ("Regulatory freshness", "regulatory-freshness.html",
+     "The functional age of the rule &amp; policy body — which rules lag the statutes they implement, sliced by agency, with the specific documents worth reviewing."),
 ]
 
 
