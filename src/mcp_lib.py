@@ -137,6 +137,15 @@ def _semantic_index():
     if _SEM != "unset":
         return _SEM
     try:
+        import os
+        # The model backends (model2vec/sentence-transformers) hit huggingface.co to
+        # check the model revision on every load unless told not to. The serve side only
+        # ever queries a model already cached locally by build_embeddings.py, so force
+        # offline — otherwise a slow/unavailable HF API call blocks every query that
+        # triggers this lazy load (observed: serialized queue of requests each paying a
+        # synchronous network round-trip, indistinguishable from a wedged server).
+        os.environ.setdefault("HF_HUB_OFFLINE", "1")
+        os.environ.setdefault("TRANSFORMERS_OFFLINE", "1")
         import numpy as np
         from build_embeddings import CHUNKS, META, VECTORS, make_embedder
         meta = json.loads(META.read_text())
