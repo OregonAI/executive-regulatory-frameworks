@@ -54,7 +54,7 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-administrative-services/accounting-manual/oam-15-60-25.md` — document's printed date differs from the listing of record (see Curator notes)
 - `agencies/department-of-administrative-services/accounting-manual/oam-45-20-00.md` — document's printed date differs from the listing of record (see Curator notes)
 
-## Unlinked rules/policies/procedures/standards — no graph edges (398)
+## Unlinked rules/policies/procedures/standards — no graph edges (348)
 
 `src/link_graph.py` found no authority citation (or, for procedures, no `_PR` naming match) connecting this document to anything else in the corpus. Itemized entries usually mean the source's authority text doesn't match the extractor's citation patterns — check the source and either fix the citation text or add a hand-authored relationship. Per-chapter aggregate entries are rules whose own cited authority is chapter-level or not in the corpus — correct non-links, nothing to fix.
 
@@ -77,7 +77,6 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-corrections/policies/doc-10-1-3.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-10-1-5.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-10-1-7.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/department-of-corrections/policies/doc-10-1-8.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-10-3-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-10-3-2.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-10-3-3.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -86,22 +85,16 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-corrections/policies/doc-20-1-4.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-1-5.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-1-9.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/department-of-corrections/policies/doc-20-2-2.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-2-4.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/department-of-corrections/policies/doc-20-4-14.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/department-of-corrections/policies/doc-20-5-12.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/department-of-corrections/policies/doc-20-5-13.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-5-15.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-5-19.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-5-21.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-5-23.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/department-of-corrections/policies/doc-20-5-24.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-5-4.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-6-11.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-6-12.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-6-13.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-6-16.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/department-of-corrections/policies/doc-20-6-18.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-6-2.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-6-6.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-20-6-8.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -226,54 +219,11 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/oregon-health-authority/policies/oha-osh-8-048.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-9-001.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-watershed-enhancement-board/policies/oweb-customer-service-policy.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-0-2-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-0-2-4.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-a-10-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-a-4-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-a-9-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-b-2-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-youth-authority/policies/oya-i-b-3-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-c-7-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-c-8-3.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-c-9-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-youth-authority/policies/oya-i-d-1-6.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-d-2-3.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-d-3-13.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-d-3-16.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-youth-authority/policies/oya-i-d-3-7.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-d-3-8.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-d-3-9.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-d-4-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-d-6-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-e-1-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-e-2-2.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-e-3-2.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-i-e-5-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-ii-a-1-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-ii-a-1-2.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-ii-a-2-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-ii-a-2-2.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-ii-d-3-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-ii-d-3-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-ii-e-2-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-ii-e-2-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-ii-e-2-4.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-ii-e-2-5.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-ii-e-8-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-ii-e-9-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-ii-f-3-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-ii-f-3-7.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-iii-a-2-2.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-iii-a-3-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-iii-a-3-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-iii-a-6-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-iii-a-9-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-youth-authority/policies/oya-iii-b-3-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-iii-d-2-3.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-iii-d-3-6.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-youth-authority/policies/oya-iii-d-8-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-youth-authority/policies/oya-iii-d-9-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/public-utility-commission/policies/puc-internal-operating-guidelines.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/104/ (40 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); 29 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/114/ (20 rules)` — correct non-links — 20 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
 - `rules/115/ (9 rules)` — correct non-links — 9 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
@@ -1384,7 +1334,7 @@ Oddities in the /gov/eo listing of record recorded by `src/ingest_eo.py` (duplic
 - `eo-21-05` — two listing rows with different bytes (/gov/eo/eo-21-05.pdf vs /gov/eo/eo_21-05.pdf) — confirm which file is the order of record
 - `eo-21-20` — listing says 2021 No. 29; filename (trusted) says 2021 No. 20 — the description matches the filename
 
-## Agency profiles needing curation (164)
+## Agency profiles needing curation (160)
 
 These agencies have in-repo content but their profile (`_meta/agency-profiles.yml`) still carries stub values — the model gets their data without its context until a human fills governance (with a citation) and publication status.
 
@@ -1521,7 +1471,6 @@ These agencies have in-repo content but their profile (`_meta/agency-profiles.ym
 - `_meta/agency-profiles.yml (oregon-investment-council)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-liquor-control-commission)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-medical-board)` — policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-military-department)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-military-department-office-of-emergency-management)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-patient-safety-commission)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-public-employees-retirement-system)` — policies_published unknown (where does this agency publish?)
@@ -1532,13 +1481,10 @@ These agencies have in-repo content but their profile (`_meta/agency-profiles.ym
 - `_meta/agency-profiles.yml (oregon-state-treasury)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-tourism-commission)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-utility-notification-center)` — policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-watershed-enhancement-board)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-watershed-enhancement-board-oregon-agricultural-heritage-program)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-wine-board)` — policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-youth-authority)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (parks-and-recreation-department)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (psychiatric-security-review-board)` — policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (public-utility-commission)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (public-utility-commission-oregon-board-of-maritime-pilots)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (real-estate-agency)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (secretary-of-state-archives-division)` — policies_published unknown (where does this agency publish?)

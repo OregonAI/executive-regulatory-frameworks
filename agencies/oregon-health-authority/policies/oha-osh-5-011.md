@@ -36,7 +36,8 @@ relationships:
     - ors-659a.052
   implemented_by: []
   references_external: []
-  related: []
+  related:
+    - das-50-020-05
   supersedes: []
 tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
 ---

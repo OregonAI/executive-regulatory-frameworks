@@ -25,7 +25,20 @@ relationships:
   implements: []
   implemented_by: []
   references_external: []
-  related: []
+  related:
+    - das-50-010-03
+    - oya-0-2-3
+    - oya-i-a-10-1
+    - oya-i-e-1-0
+    - oya-i-e-4-0
+    - oya-ii-a-1-2
+    - oya-ii-b-2-1
+    - oya-ii-d-1-0
+    - oya-ii-d-2-2
+    - oya-ii-f-1-1
+    - oya-ii-f-3-4
+    - oya-iii-a-1-0
+    - oya-iii-b-4-0
   supersedes: []
 tags: ['oregon-youth-authority', 'policy']
 ---

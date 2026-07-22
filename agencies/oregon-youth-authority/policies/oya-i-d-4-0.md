@@ -25,7 +25,14 @@ relationships:
   implements: []
   implemented_by: []
   references_external: []
-  related: []
+  related:
+    - oya-i-a-10-0
+    - oya-i-e-2-3
+    - oya-i-e-3-2
+    - oya-ii-a-1-2
+    - oya-ii-f-1-0
+    - oya-ii-f-1-1
+    - oya-ii-f-3-4
   supersedes: []
 tags: ['oregon-youth-authority', 'policy']
 ---

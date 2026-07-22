@@ -30,7 +30,9 @@ relationships:
     - ors-659a.046
   implemented_by: []
   references_external: []
-  related: []
+  related:
+    - oya-i-c-7-0
+    - oya-i-c-7-3
   supersedes: []
 tags: ['oregon-youth-authority', 'policy']
 ---

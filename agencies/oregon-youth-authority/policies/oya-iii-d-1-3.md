@@ -41,7 +41,16 @@ relationships:
     - ors-420a.115
   implemented_by: []
   references_external: []
-  related: []
+  related:
+    - oya-i-a-11-0
+    - oya-i-a-9-0
+    - oya-ii-a-1-4
+    - oya-iii-a-3-0
+    - oya-iii-a-7-0
+    - oya-iii-b-1-0
+    - oya-iii-c-1-3
+    - oya-iii-d-1-2
+    - oya-iii-d-2-3
   supersedes: []
 tags: ['oregon-youth-authority', 'policy']
 ---

@@ -22,7 +22,38 @@ last_verified: "2026-07-21"
 verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
-  implements: []
+  implements:
+    - oar-137-001-0070
+    - oar-860-001-0030
+    - oar-860-001-0080
+    - oar-860-001-0090
+    - oar-860-001-0200
+    - oar-860-001-0300
+    - oar-860-001-0340
+    - oar-860-001-0350
+    - oar-860-001-0430
+    - oar-860-001-0650
+    - oar-860-001-0660
+    - ors-183.310
+    - ors-183.325
+    - ors-183.330
+    - ors-183.335
+    - ors-183.355
+    - ors-183.390
+    - ors-183.410
+    - ors-183.413
+    - ors-183.462
+    - ors-192.610
+    - ors-192.630
+    - ors-192.660
+    - ors-756.026
+    - ors-756.028
+    - ors-756.060
+    - ors-756.450
+    - ors-756.500
+    - ors-756.525
+    - ors-756.558
+    - ors-758.535
   implemented_by: []
   references_external: []
   related: []
