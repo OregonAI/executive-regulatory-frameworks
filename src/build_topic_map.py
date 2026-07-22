@@ -82,7 +82,7 @@ TEMPLATE = r"""<!doctype html>
   header{position:fixed;top:0;left:0;right:0;height:54px;display:flex;align-items:center;gap:14px;padding:0 16px;background:var(--panel);border-bottom:1px solid var(--line);z-index:5}
   header h1{font-size:15px;margin:0;white-space:nowrap}
   .sub{color:var(--muted);font-size:12.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  canvas{position:fixed;inset:54px 0 0 0;display:block;cursor:crosshair}
+  canvas{position:fixed;top:54px;left:0;width:100vw;height:calc(100vh - 54px);display:block;cursor:crosshair}
   #tip{position:fixed;pointer-events:none;background:var(--panel);border:1px solid var(--line);border-radius:9px;box-shadow:var(--shadow);padding:8px 11px;font-size:12.5px;opacity:0;transition:opacity .07s;z-index:8;max-width:300px}
   #tip b{font-size:13px}#tip i{color:var(--muted);font-style:normal}
   .legend{position:fixed;left:14px;bottom:14px;background:var(--panel);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);padding:10px 12px;font-size:12.5px;z-index:4}

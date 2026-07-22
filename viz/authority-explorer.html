@@ -20,7 +20,7 @@
   .results small{color:var(--muted);display:block;font-size:11.5px}
   .ctl{display:flex;align-items:center;gap:6px;color:var(--muted);font-size:13px;white-space:nowrap}
   .ctl select{padding:6px 8px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink)}
-  canvas{position:fixed;inset:56px 0 0 0;display:block;cursor:grab}
+  canvas{position:fixed;top:56px;left:0;width:100vw;height:calc(100vh - 56px);display:block;cursor:grab}
   canvas.drag{cursor:grabbing}
   #tip{position:fixed;pointer-events:none;background:var(--panel);border:1px solid var(--line);border-radius:9px;box-shadow:var(--shadow);padding:8px 11px;font-size:12.5px;opacity:0;transition:opacity .07s;z-index:8;max-width:300px}
   #tip b{font-size:13px}#tip i{color:var(--muted);font-style:normal}
@@ -62,41 +62,46 @@ const CAP=60;                 // max neighbors expanded per node (tames degree-3
 
 let nodes=[],edges=[],pos=new Map();
 function buildEgo(center,hops,dir){
-  const seen=new Map([[center,0]]);            // node -> signed layer
+  // depth = unsigned hop distance; side = direction of the branch's FIRST hop from center
+  // (+1 authorities / -1 implementers). layer = side*depth keeps the two directions in
+  // separate columns and stops an up-then-down path collapsing back onto the center column.
+  const depth=new Map([[center,0]]),side=new Map([[center,0]]);
   let frontier=[center];const E=[];
   for(let h=0;h<hops;h++){
     const next=[];
     for(const u of frontier){
-      const lay=seen.get(u);
       const outs=[];
       if(dir!=='down'){for(const v of up[u])outs.push([v,+1]);}
       if(dir!=='up'){for(const v of down[u])outs.push([v,-1]);}
       let c=0;
       for(const [v,sgn] of outs){
         if(c++>=CAP)break;
-        E.push([u,v,sgn]);
-        if(!seen.has(v)){seen.set(v,lay+sgn);next.push(v);}
+        E.push([u,v]);
+        if(!depth.has(v)){depth.set(v,h+1);side.set(v,u===center?sgn:side.get(u));next.push(v);}
       }
     }
     frontier=next;
     if(!frontier.length)break;
   }
+  const layerOf=n=>side.get(n)*depth.get(n);
   // dedupe edges
   const ek=new Set();edges=[];
-  for(const [a,b,s] of E){const key=a<b?a+'_'+b:b+'_'+a;if(ek.has(key))continue;ek.add(key);edges.push([a,b]);}
-  nodes=[...seen.keys()];
+  for(const [a,b] of E){const key=a<b?a+'_'+b:b+'_'+a;if(ek.has(key))continue;ek.add(key);edges.push([a,b]);}
+  nodes=[...depth.keys()];
   // layered layout: x by layer, y stacked within layer
   const byLayer=new Map();
-  for(const n of nodes){const L=seen.get(n);(byLayer.get(L)||byLayer.set(L,[]).get(L)).push(n);}
+  for(const n of nodes){const L=layerOf(n);(byLayer.get(L)||byLayer.set(L,[]).get(L)).push(n);}
   const layers=[...byLayer.keys()].sort((a,b)=>a-b);
   pos=new Map();
   const COLW=240;
   for(const L of layers){
     const col=byLayer.get(L);
     col.sort((a,b)=>DATA.ty[a]-DATA.ty[b]||a-b);
-    const gap=Math.min(64,Math.max(30,560/Math.max(col.length,1)));
+    // target a bounded column height (~720px) so a 130-implementer column packs tight
+    // instead of forcing a 4000px stack that flattens the horizontal chain on fit()
+    const gap=Math.max(5,Math.min(64,720/Math.max(col.length-1,1)));
     const h=(col.length-1)*gap;
-    col.forEach((n,i)=>pos.set(n,{x:L*COLW,y:i*gap-h/2,c:seen.get(n),center:n===center}));
+    col.forEach((n,i)=>pos.set(n,{x:L*COLW,y:i*gap-h/2,c:L,center:n===center}));
   }
   frame();
 }
