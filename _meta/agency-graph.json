@@ -498,7 +498,7 @@
    "parent": null,
    "group": "appraiser-certification-and-licensure-board",
    "group_name": "Appraiser Certification and Licensure Board",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "183",
     "674"
@@ -511,7 +511,7 @@
    "parent": null,
    "group": "board-of-chiropractic-examiners",
    "group_name": "Board of Chiropractic Examiners",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "441",
@@ -525,7 +525,7 @@
    "parent": null,
    "group": "board-of-examiners-for-engineering-and-land-surveying",
    "group_name": "Board of Examiners for Engineering and Land Surveying",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "182",
     "408",
@@ -541,7 +541,7 @@
    "parent": null,
    "group": "board-of-examiners-for-speech-language-pathology-and-audiology",
    "group_name": "Board of Examiners for Speech-Language Pathology and Audiology",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "184",
@@ -560,7 +560,7 @@
    "parent": null,
    "group": "board-of-geologist-examiners",
    "group_name": "Board of Geologist Examiners",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "182",
     "183",
@@ -577,7 +577,7 @@
    "parent": null,
    "group": "board-of-licensed-social-workers",
    "group_name": "Board of Licensed Social Workers",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "675"
    ]
@@ -589,7 +589,7 @@
    "parent": null,
    "group": "board-of-massage-therapists",
    "group_name": "Board of Massage Therapists",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "182",
     "670",
@@ -603,7 +603,7 @@
    "parent": null,
    "group": "board-of-medical-imaging",
    "group_name": "Board of Medical Imaging",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "293",
@@ -618,7 +618,7 @@
    "parent": null,
    "group": "board-of-nursing",
    "group_name": "Board of Nursing",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "181a",
     "183",
@@ -638,7 +638,7 @@
    "parent": null,
    "group": "board-of-optometry",
    "group_name": "Board of Optometry",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "182",
     "183",
@@ -658,7 +658,7 @@
    "parent": null,
    "group": "board-of-parole-and-post-prison-supervision",
    "group_name": "Board of Parole and Post-Prison Supervision",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "137",
     "144",
@@ -678,7 +678,7 @@
    "parent": null,
    "group": "board-of-pharmacy",
    "group_name": "Board of Pharmacy",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "171",
     "181a",
@@ -705,7 +705,7 @@
    "parent": null,
    "group": "bureau-of-labor-and-industries",
    "group_name": "Bureau of Labor and Industries",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -734,7 +734,7 @@
    "parent": null,
    "group": "chief-education-office",
    "group_name": "Chief Education Office",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183"
    ]
@@ -746,7 +746,7 @@
    "parent": null,
    "group": "citizens-initiative-review-commission",
    "group_name": "Citizens' Initiative Review Commission",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "182",
     "250"
@@ -759,7 +759,7 @@
    "parent": null,
    "group": "columbia-river-gorge-commission",
    "group_name": "Columbia River Gorge Commission",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "196"
    ]
@@ -771,7 +771,7 @@
    "parent": null,
    "group": "commission-for-the-blind",
    "group_name": "Commission for the Blind",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "181a",
     "183",
@@ -786,7 +786,7 @@
    "parent": null,
    "group": "construction-contractors-board",
    "group_name": "Construction Contractors Board",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "105",
     "183",
@@ -916,7 +916,7 @@
    "parent": null,
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -971,7 +971,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -986,7 +986,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "292",
@@ -1000,7 +1000,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "292",
@@ -1016,7 +1016,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -1031,7 +1031,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -1046,7 +1046,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "292",
     "576"
@@ -1059,7 +1059,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "192",
     "292",
@@ -1073,7 +1073,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "192",
     "576"
@@ -1086,7 +1086,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "192",
     "292",
@@ -1100,7 +1100,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "576"
@@ -1113,7 +1113,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "570"
    ]
@@ -1125,7 +1125,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -1140,7 +1140,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -1155,7 +1155,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -1170,7 +1170,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -1185,7 +1185,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -1200,7 +1200,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -1215,7 +1215,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "292",
@@ -1229,7 +1229,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -1244,7 +1244,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "292",
     "576"
@@ -1257,7 +1257,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "192",
     "576"
@@ -1270,7 +1270,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -1285,7 +1285,7 @@
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -1301,7 +1301,7 @@
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -1328,7 +1328,7 @@
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "293",
@@ -1346,7 +1346,7 @@
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "293",
@@ -1377,7 +1377,7 @@
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "705",
@@ -1391,7 +1391,7 @@
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "174",
     "183",
@@ -1423,7 +1423,7 @@
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "315",
     "654",
@@ -1437,7 +1437,7 @@
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "147",
     "183",
@@ -1452,7 +1452,7 @@
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "180",
     "183",
@@ -1507,7 +1507,7 @@
    "parent": null,
    "group": "department-of-energy",
    "group_name": "Department of Energy",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "181a",
     "276",
@@ -1528,7 +1528,7 @@
    "parent": "department-of-energy",
    "group": "department-of-energy",
    "group_name": "Department of Energy",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "174",
     "183",
@@ -1543,7 +1543,7 @@
    "parent": null,
    "group": "department-of-environmental-quality",
    "group_name": "Department of Environmental Quality",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "197",
@@ -1579,7 +1579,7 @@
    "parent": null,
    "group": "department-of-fish-and-wildlife",
    "group_name": "Department of Fish and Wildlife",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "167",
     "181a",
@@ -1612,7 +1612,7 @@
    "parent": null,
    "group": "department-of-forestry",
    "group_name": "Department of Forestry",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "164",
     "183",
@@ -1637,7 +1637,7 @@
    "parent": null,
    "group": "department-of-geology-and-mineral-industries",
    "group_name": "Department of Geology and Mineral Industries",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "195",
@@ -1686,7 +1686,7 @@
    "parent": "department-of-human-services",
    "group": "department-of-human-services",
    "group_name": "Department of Human Services",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "101",
     "106",
@@ -1722,7 +1722,7 @@
    "parent": "department-of-human-services",
    "group": "department-of-human-services",
    "group_name": "Department of Human Services",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "109",
     "147",
@@ -1755,7 +1755,7 @@
    "parent": "department-of-human-services",
    "group": "department-of-human-services",
    "group_name": "Department of Human Services",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "279a",
@@ -1769,7 +1769,7 @@
    "parent": "department-of-human-services",
    "group": "department-of-human-services",
    "group_name": "Department of Human Services",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "106",
     "113",
@@ -1808,7 +1808,7 @@
    "parent": "department-of-human-services",
    "group": "department-of-human-services",
    "group_name": "Department of Human Services",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "344"
@@ -1869,7 +1869,7 @@
    "parent": null,
    "group": "department-of-public-safety-standards-and-training",
    "group_name": "Department of Public Safety Standards and Training",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "181a",
     "183",
@@ -1889,7 +1889,7 @@
    "parent": null,
    "group": "department-of-revenue",
    "group_name": "Department of Revenue",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "118",
     "137",
@@ -1943,7 +1943,7 @@
    "parent": null,
    "group": "department-of-state-lands",
    "group_name": "Department of State Lands",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "196",
@@ -1966,7 +1966,7 @@
    "parent": "department-of-state-lands",
    "group": "department-of-state-lands",
    "group_name": "Department of State Lands",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "273"
@@ -1979,7 +1979,7 @@
    "parent": null,
    "group": "department-of-state-police",
    "group_name": "Department of State Police",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "137",
     "161",
@@ -2008,7 +2008,7 @@
    "parent": "department-of-state-police",
    "group": "department-of-state-police",
    "group_name": "Department of State Police",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "293",
@@ -2027,7 +2027,7 @@
    "parent": "department-of-state-police",
    "group": "department-of-state-police",
    "group_name": "Department of State Police",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "181a",
     "183",
@@ -2041,7 +2041,7 @@
    "parent": null,
    "group": "department-of-transportation",
    "group_name": "Department of Transportation",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "184",
@@ -2070,7 +2070,7 @@
    "parent": "department-of-transportation",
    "group": "department-of-transportation",
    "group_name": "Department of Transportation",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "174",
     "183",
@@ -2117,7 +2117,7 @@
    "parent": "department-of-transportation",
    "group": "department-of-transportation",
    "group_name": "Department of Transportation",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "164",
     "183",
@@ -2148,7 +2148,7 @@
    "parent": "department-of-transportation",
    "group": "department-of-transportation",
    "group_name": "Department of Transportation",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "153",
     "183",
@@ -2174,7 +2174,7 @@
    "parent": "department-of-transportation",
    "group": "department-of-transportation",
    "group_name": "Department of Transportation",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "184",
     "323",
@@ -2188,7 +2188,7 @@
    "parent": "department-of-transportation",
    "group": "department-of-transportation",
    "group_name": "Department of Transportation",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "184",
@@ -2206,7 +2206,7 @@
    "parent": "department-of-transportation",
    "group": "department-of-transportation",
    "group_name": "Department of Transportation",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "184",
     "336",
@@ -2227,7 +2227,7 @@
    "parent": null,
    "group": "department-of-veterans-affairs",
    "group_name": "Department of Veterans' Affairs",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "105",
     "113",
@@ -2248,7 +2248,7 @@
    "parent": null,
    "group": "eastern-oregon-border-economic-development-board",
    "group_name": "Eastern Oregon Border Economic Development Board",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "284"
    ]
@@ -2260,7 +2260,7 @@
    "parent": null,
    "group": "economic-recovery-review-council",
    "group_name": "Economic Recovery Review Council",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "197"
    ]
@@ -2272,7 +2272,7 @@
    "parent": null,
    "group": "employment-department",
    "group_name": "Employment Department",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "181a",
     "183",
@@ -2291,7 +2291,7 @@
    "parent": null,
    "group": "employment-relations-board",
    "group_name": "Employment Relations Board",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -2307,7 +2307,7 @@
    "parent": null,
    "group": "higher-education-coordinating-commission",
    "group_name": "Higher Education Coordinating Commission",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "284",
@@ -2327,7 +2327,7 @@
    "parent": "higher-education-coordinating-commission",
    "group": "higher-education-coordinating-commission",
    "group_name": "Higher Education Coordinating Commission",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "291",
@@ -2349,7 +2349,7 @@
    "parent": "higher-education-coordinating-commission",
    "group": "higher-education-coordinating-commission",
    "group_name": "Higher Education Coordinating Commission",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "348",
@@ -2363,7 +2363,7 @@
    "parent": "higher-education-coordinating-commission",
    "group": "higher-education-coordinating-commission",
    "group_name": "Higher Education Coordinating Commission",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "341",
@@ -2379,7 +2379,7 @@
    "parent": null,
    "group": "judicial-department",
    "group_name": "Judicial Department",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "240",
@@ -2393,7 +2393,7 @@
    "parent": null,
    "group": "land-conservation-and-development-department",
    "group_name": "Land Conservation and Development Department",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "174",
     "183",
@@ -2415,7 +2415,7 @@
    "parent": null,
    "group": "land-use-board-of-appeals",
    "group_name": "Land Use Board of Appeals",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "197"
    ]
@@ -2427,7 +2427,7 @@
    "parent": null,
    "group": "landscape-architect-board",
    "group_name": "Landscape Architect Board",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "182",
     "183",
@@ -2444,7 +2444,7 @@
    "parent": null,
    "group": "landscape-contractors-board",
    "group_name": "Landscape Contractors Board",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "182",
     "183",
@@ -2462,7 +2462,7 @@
    "parent": null,
    "group": "legislative-administration-committee",
    "group_name": "Legislative Administration Committee",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "292"
    ]
@@ -2474,7 +2474,7 @@
    "parent": "mental-health-regulatory-agency",
    "group": "mental-health-regulatory-agency",
    "group_name": "Mental Health Regulatory Agency",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "181a",
     "183",
@@ -2490,7 +2490,7 @@
    "parent": "mental-health-regulatory-agency",
    "group": "mental-health-regulatory-agency",
    "group_name": "Mental Health Regulatory Agency",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "171",
     "181a",
@@ -2508,7 +2508,7 @@
    "parent": null,
    "group": "mortuary-and-cemetery-board",
    "group_name": "Mortuary and Cemetery Board",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "676",
@@ -2522,7 +2522,7 @@
    "parent": null,
    "group": "occupational-therapy-licensing-board",
    "group_name": "Occupational Therapy Licensing Board",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "657",
@@ -2537,7 +2537,7 @@
    "parent": null,
    "group": "office-of-training-investigations-and-safety",
    "group_name": "Office of Training, Investigations and Safety",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "109",
     "179",
@@ -2561,7 +2561,7 @@
    "parent": null,
    "group": "oregon-529-savings-board",
    "group_name": "Oregon 529 Savings Board",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183"
    ]
@@ -2573,7 +2573,7 @@
    "parent": null,
    "group": "oregon-board-of-accountancy",
    "group_name": "Oregon Board of Accountancy",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "297",
@@ -2588,7 +2588,7 @@
    "parent": null,
    "group": "oregon-board-of-dentistry",
    "group_name": "Oregon Board of Dentistry",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "181a",
     "183",
@@ -2606,7 +2606,7 @@
    "parent": null,
    "group": "oregon-board-of-naturopathic-medicine",
    "group_name": "Oregon Board of Naturopathic Medicine",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "182",
     "183",
@@ -2622,7 +2622,7 @@
    "parent": null,
    "group": "oregon-board-of-physical-therapy",
    "group_name": "Oregon Board of Physical Therapy",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "182",
     "292",
@@ -2636,7 +2636,7 @@
    "parent": null,
    "group": "oregon-business-development-department",
    "group_name": "Oregon Business Development Department",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "197",
@@ -2669,7 +2669,7 @@
    "parent": null,
    "group": "oregon-criminal-justice-commission",
    "group_name": "Oregon Criminal Justice Commission",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "137",
     "144",
@@ -2693,7 +2693,7 @@
    "parent": null,
    "group": "oregon-department-of-aviation",
    "group_name": "Oregon Department of Aviation",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "153",
     "183",
@@ -2715,7 +2715,7 @@
    "parent": null,
    "group": "oregon-department-of-education",
    "group_name": "Oregon Department of Education",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "153",
     "180",
@@ -2757,7 +2757,7 @@
    "parent": "oregon-department-of-education",
    "group": "oregon-department-of-education",
    "group_name": "Oregon Department of Education",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "326",
@@ -2776,7 +2776,7 @@
    "parent": "oregon-department-of-education",
    "group": "oregon-department-of-education",
    "group_name": "Oregon Department of Education",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "342"
@@ -2789,7 +2789,7 @@
    "parent": "oregon-department-of-education",
    "group": "oregon-department-of-education",
    "group_name": "Oregon Department of Education",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "169",
     "183",
@@ -2804,7 +2804,7 @@
    "parent": null,
    "group": "oregon-facilities-authority",
    "group_name": "Oregon Facilities Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "289"
@@ -2817,7 +2817,7 @@
    "parent": null,
    "group": "oregon-film-and-video-office",
    "group_name": "Oregon Film and Video Office",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "284",
     "315"
@@ -2830,7 +2830,7 @@
    "parent": null,
    "group": "oregon-forest-resources-institute",
    "group_name": "Oregon Forest Resources Institute",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "321",
@@ -2844,7 +2844,7 @@
    "parent": null,
    "group": "oregon-government-ethics-commission",
    "group_name": "Oregon Government Ethics Commission",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "171",
     "183",
@@ -2884,7 +2884,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "413",
     "414",
@@ -2898,7 +2898,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "181a",
     "183",
@@ -2924,7 +2924,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "676"
    ]
@@ -2936,7 +2936,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "676"
    ]
@@ -2948,7 +2948,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "676",
     "690"
@@ -2961,7 +2961,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "676",
     "687"
@@ -2974,7 +2974,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "676",
     "691"
@@ -2987,7 +2987,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "676",
     "700"
@@ -3000,7 +3000,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "676",
     "678"
@@ -3013,7 +3013,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "413",
@@ -3030,7 +3030,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "105",
     "409",
@@ -3050,7 +3050,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "109",
     "125",
@@ -3082,7 +3082,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "279a",
@@ -3118,7 +3118,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "414"
    ]
@@ -3130,7 +3130,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -3147,7 +3147,7 @@
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "109",
     "127",
@@ -3202,7 +3202,7 @@
    "parent": null,
    "group": "oregon-housing-and-community-services-department",
    "group_name": "Oregon Housing and Community Services Department",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "162",
     "178",
@@ -3234,7 +3234,7 @@
    "parent": null,
    "group": "oregon-liquor-control-commission",
    "group_name": "Oregon Liquor Control Commission",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "165",
     "183",
@@ -3255,7 +3255,7 @@
    "parent": null,
    "group": "oregon-medical-board",
    "group_name": "Oregon Medical Board",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "127",
     "171",
@@ -3285,7 +3285,7 @@
    "parent": "oregon-military-department",
    "group": "oregon-military-department",
    "group_name": "Oregon Military Department",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "401",
@@ -3299,7 +3299,7 @@
    "parent": null,
    "group": "oregon-patient-safety-commission",
    "group_name": "Oregon Patient Safety Commission",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "182",
     "183",
@@ -3313,7 +3313,7 @@
    "parent": null,
    "group": "oregon-public-employees-retirement-system",
    "group_name": "Oregon Public Employees Retirement System",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -3336,7 +3336,7 @@
    "parent": null,
    "group": "oregon-racing-commission",
    "group_name": "Oregon Racing Commission",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "462"
@@ -3349,7 +3349,7 @@
    "parent": null,
    "group": "oregon-state-library",
    "group_name": "Oregon State Library",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -3363,7 +3363,7 @@
    "parent": null,
    "group": "oregon-state-lottery",
    "group_name": "Oregon State Lottery",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "167",
     "183",
@@ -3380,7 +3380,7 @@
    "parent": null,
    "group": "oregon-state-marine-board",
    "group_name": "Oregon State Marine Board",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "194",
@@ -3419,7 +3419,7 @@
    "parent": null,
    "group": "oregon-tourism-commission",
    "group_name": "Oregon Tourism Commission",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "183",
     "284",
@@ -3433,7 +3433,7 @@
    "parent": null,
    "group": "oregon-utility-notification-center",
    "group_name": "Oregon Utility Notification Center",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183"
    ]
@@ -3445,7 +3445,7 @@
    "parent": null,
    "group": "oregon-watershed-enhancement-board",
    "group_name": "Oregon Watershed Enhancement Board",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "541"
    ]
@@ -3457,7 +3457,7 @@
    "parent": "oregon-watershed-enhancement-board",
    "group": "oregon-watershed-enhancement-board",
    "group_name": "Oregon Watershed Enhancement Board",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "541"
    ]
@@ -3469,7 +3469,7 @@
    "parent": null,
    "group": "oregon-youth-authority",
    "group_name": "Oregon Youth Authority",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "107",
     "131",
@@ -3491,7 +3491,7 @@
    "parent": null,
    "group": "parks-and-recreation-department",
    "group_name": "Parks and Recreation Department",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "105",
     "153",
@@ -3532,7 +3532,7 @@
    "parent": null,
    "group": "psychiatric-security-review-board",
    "group_name": "Psychiatric Security Review Board",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "137",
     "161",
@@ -3553,7 +3553,7 @@
    "parent": null,
    "group": "public-utility-commission",
    "group_name": "Public Utility Commission",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "192",
@@ -3575,7 +3575,7 @@
    "parent": "public-utility-commission",
    "group": "public-utility-commission",
    "group_name": "Public Utility Commission",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "670",
@@ -3589,7 +3589,7 @@
    "parent": null,
    "group": "real-estate-agency",
    "group_name": "Real Estate Agency",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "100",
     "181a",
@@ -3605,7 +3605,7 @@
    "parent": "secretary-of-state",
    "group": "secretary-of-state",
    "group_name": "Secretary of State",
-   "governance": "unclassified",
+   "governance": "constitutional_elected",
    "chapters": [
     "177",
     "183",
@@ -3620,7 +3620,7 @@
    "parent": "secretary-of-state",
    "group": "secretary-of-state",
    "group_name": "Secretary of State",
-   "governance": "unclassified",
+   "governance": "constitutional_elected",
    "chapters": [
     "297",
     "328"
@@ -3633,7 +3633,7 @@
    "parent": "secretary-of-state",
    "group": "secretary-of-state",
    "group_name": "Secretary of State",
-   "governance": "unclassified",
+   "governance": "constitutional_elected",
    "chapters": [
     "177",
     "183",
@@ -3648,7 +3648,7 @@
    "parent": "secretary-of-state",
    "group": "secretary-of-state",
    "group_name": "Secretary of State",
-   "governance": "unclassified",
+   "governance": "constitutional_elected",
    "chapters": [
     "128",
     "177",
@@ -3668,7 +3668,7 @@
    "parent": "secretary-of-state",
    "group": "secretary-of-state",
    "group_name": "Secretary of State",
-   "governance": "unclassified",
+   "governance": "constitutional_elected",
    "chapters": [
     "171",
     "183",
@@ -3695,7 +3695,7 @@
    "parent": null,
    "group": "state-board-of-architect-examiners",
    "group_name": "State Board of Architect Examiners",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "182",
     "183",
@@ -3711,7 +3711,7 @@
    "parent": null,
    "group": "teacher-standards-and-practices-commission",
    "group_name": "Teacher Standards and Practices Commission",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "283",
@@ -3727,7 +3727,7 @@
    "parent": null,
    "group": "travel-information-council",
    "group_name": "Travel Information Council",
-   "governance": "unclassified",
+   "governance": "semi_independent",
    "chapters": [
     "183",
     "279a",
@@ -3742,7 +3742,7 @@
    "parent": null,
    "group": "veterinary-medical-examining-board",
    "group_name": "Veterinary Medical Examining Board",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "183",
     "475",
@@ -3757,7 +3757,7 @@
    "parent": null,
    "group": "water-resources-department",
    "group_name": "Water Resources Department",
-   "governance": "unclassified",
+   "governance": "executive_branch",
    "chapters": [
     "106",
     "183",

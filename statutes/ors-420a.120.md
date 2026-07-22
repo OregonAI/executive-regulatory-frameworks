@@ -36,6 +36,8 @@ relationships:
     - oar-416-300-0050
     - oar-416-300-0060
     - oar-416-300-0080
+    - oya-i-a-13-0
+    - oya-iii-a-4-0
   references_external: []
   related: []
   supersedes: []

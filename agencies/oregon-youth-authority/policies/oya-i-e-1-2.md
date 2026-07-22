@@ -1,0 +1,346 @@
+---
+id: oya-i-e-1-2
+title: "Response to Subpoenas"
+doc_type: policy
+citation: "OYA Policy I-E-1.2"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/I-E-1.2.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "2b55aa6fafa65e644467208dc71b85f66b096b8729b3cf84670c17a81365ff29"
+effective_date: "2026-06-22"
+last_reviewed: null
+source_version: "Effective 06/22/2026"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N I-E-N.N Response to Subpoenas Effective: N/' x6"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - ors-136.555
+    - ors-136.580
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-E-1.2.pdf> (retrieved 2026-07-21).
+
+# Response to Subpoenas (OYA Policy I-E-1.2)
+
+## At a glance
+
+OYA Policy I-E-1.2 — Response to Subpoenas. Oregon Youth Authority. Effective 06/22/2026.
+
+## Full text
+
+                            OREGON YOUTH AUTHORITY
+                                    Policy Statement
+                            Part I – Administrative Services
+ Subject:
+ Response to Subpoenas
+ Section – Policy Number:                   Supersedes:       Effective Date:     Date of Last
+ E: Information Management – 1.2            I-E-1.2 (01/20    06/26/2026          Review/Revision:
+                                            I-E-1.2 (9/16)                        None
+                                            I-E-1.2 (7/12)
+                                            I-E-1.2 (3/08)
+                                            I-E-1.2 (5/04)
+                                            Information
+                                            Letter (2/02)
+ Related             ORS 136.555 (Subpoena defined)
+ Standards           ORS 136.580 through ORS136.595 (Subpoenas when books,
+ and                   papers or documents are required; how served)
+ References:         Attachment A: Response to Subpoena Matrix
+                     OYA policy: I-E-2.1 Public Records Requests for Agency Records
+                      I-E-2.3 Requests for Youth Information and Records
+                      I-E-2.6 Second Look Hearings
+ Related             None
+ Procedures:
+ Policy Owner:                              Approved:
+
+ Government Relations Manager
+                                            ______________________
+                                            Mike Tessean, Director
+
+I.     PURPOSE:
+       This policy provides standards for OYA staff when responding to work-related
+       subpoenas.
+
+II.    POLICY DEFINITIONS:
+       Agency subpoena coordinator: The designated staff in the Director's Office
+       whose duties include acting as the agency liaison with the Attorney General's
+       office when responding to subpoenas.
+       Local subpoena coordinator: A staff designated by the facility superintendent,
+       camp director, or field supervisor to coordinate response to subpoenas for the
+       field office or facility with the agency subpoena coordinator.
+       Service: Subpoena delivery by certified mail or in person to the person named in
+       the subpoena.
+       Subpoena: A command to appear at a certain time and place to give testimony
+       upon a matter. Sometimes a subpoena commands the production of books,
+       papers, documents, or tangible things (subpoena duces tecum).
+
+III.   POLICY:
+
+       Subpoenas are important legal documents that must be addressed in a timely
+       manner. Failure to respond to a subpoena may result in legal action against the
+       person to whom the subpoena was issued, or the agency that person works for.
+       OYA staff must never ignore a subpoena.
+
+       OYA will respond to subpoenas issued to gather information or compel
+       appearance in matters involving staff or youth. Subpoenas are time sensitive and
+       OYA’s response (which includes sending documentation or appearing at a
+       proceeding) will ensure:
+
+       A.     The response is timely, appropriate, and accurate;
+
+       B.     Confidentiality of agency records is maintained, according to federal and
+              state laws;
+
+       C.     A proper legal objection is made when deemed appropriate by legal
+              counsel; and
+
+       D.     Staff efforts are not duplicated.
+
+       Attachment A Response to Subpoena Matrix summarizes how OYA responds to
+       different types of subpoenas.
+
+IV.    GENERAL STANDARDS:
+
+       A.     Subpoena intake
+
+              Upon receipt of a subpoena, staff must immediately:
+
+              1.     Notify their supervisor of the subpoena and any directions for
+                     appearance (work schedules and travel arrangements must be
+                     addressed by the staff’s supervisor); and
+
+              2.     Provide a copy of the complete subpoena and any other documents
+                     received to the local or agency subpoena coordinator. Also, provide
+                     information on how and when the subpoena was received.
+
+       B.     Agency subpoena coordinator
+
+              A designated staff member in the OYA Director's Office serves as the
+              agency subpoena coordinator.
+
+              The agency subpoena coordinator's duties include:
+
+              1.     Acting as the liaison with the Attorney General's office when
+                     responding to subpoenas, including coordinating the release of any
+                     OYA records;
+
+              2.     Assisting with records redaction;
+
+              3.     Collaborating with the government relations manager or designee
+                     on impact to pending or potential litigation or tort claims; and
+
+              4.     Ensuring local subpoena coordinators receive a subpoena process
+                     orientation.
+
+                     The orientation must include identifying subpoenas, matters of
+                     service, confidentiality, networking with agency partners, and
+                     appropriate agency response.
+
+       C.     Local subpoena coordinator
+
+              Each OYA superintendent, camp director, and field supervisor must
+              designate a local subpoena coordinator for that facility or field office. The
+              local subpoena coordinator duties include:
+
+              1.     Acting as the facility or field office point of contact for subpoena
+                     service process and staff questions;
+
+              2.     Working with the agency subpoena coordinator when responding to
+                     subpoenas;
+
+              3.     Contacting the agency subpoena coordinator immediately upon
+                     receipt of the following:
+
+                     a)     A subpoena duces tecum, or court order for the release of
+                            OYA records; or
+
+                     b)     A subpoena requesting staff to testify.
+
+              4.     Serving as a resource for staff questions about testimony and
+                     depositions; and
+
+              5.     Ensuring subpoena activities are entered into JJIS case notes
+                     regarding youth who are the subjects of subpoenas.
+
+       D.     Service of subpoenas
+
+              There are legal requirements under Oregon Rules of Criminal or Civil
+              Procedure, Federal Rules of Criminal or Civil Procedure, or other state or
+              federal laws, for the service of subpoenas. Most subpoenas must be
+              served in person directly to the intended recipient.
+
+              1.     Subpoenas may be accepted by mail if:
+
+                     a)     The subpoena commands the production of records or
+                            documents only (subpoena duces tecum), and not
+                            testimony. The subpoena must not include a command to
+                            appear at a trial, hearing or deposition.; or
+
+                     b)     An attorney issuing the subpoena (or their staff) –
+
+                           (1)    Has had personal or telephone contact with the OYA
+                                  staff, and the OYA staff indicated a willingness to
+                                  appear at trial if subpoenaed;
+
+                           (2)    Has made provision for payment of witness and
+                                  mileage fees; and
+
+                           (3)    Has mailed the subpoena to the OYA staff more than
+                                  10 days prior to trial by certified mail or another
+                                  receipt-type mail.
+
+              2.    Service of a subpoena on a youth may be served on the custodian
+                    (OYA) of the youth, only upon order of the court.
+
+              3.    If someone presents a subpoena for service intended for someone
+                    who is not available, OYA staff may state that they can receive a
+                    copy for the unavailable person, but their action is not considered
+                    acceptance of service.
+
+       E.     Preparation of records or documents responsive to a subpoena
+
+              1.    The local subpoena coordinator must send complete, accurate
+                    copies of any records requested in the subpoena to the agency
+                    subpoena coordinator.
+
+              2.    The agency subpoena coordinator may coordinate with the
+                    Attorney General’s office before releasing the records.
+
+       F.     Providing testimony responsive to a subpoena
+
+              Staff may be subpoenaed to testify in proceedings involving youth as
+              defendants, victims, or plaintiffs.
+
+              1.    Staff must appear as directed and testify truthfully and to the best of
+                    their ability regarding information for which they have personal
+                    knowledge (e.g., a youth’s reformation progress while in custody).
+
+              2.    Staff must not make recommendations as to whether youth are
+                    suitable for:
+
+                    a)     Second Look Conditional Release;
+
+                    b)     Sex offender registration or relief from sex offender
+                           registration;
+
+                    c)     Waiver to circuit court under ORS 419C.349; or
+
+                    d)     Issues that are beyond the staff’s classification, job duties, or
+                           qualifications (e.g., a group life coordinator may not make
+                           statements to the court regarding a youth’s risk for
+                           reoffending).
+
+              3.   If staff are asked to testify about any of the non-disclosable
+                   information and the youth has not signed a release authorizing the
+                   staff to disclose the information requested, under Oregon law, the
+                   Public Officer Privilege protects that information.
+
+                   a)    The Public Officer Privilege provides “A public officer shall
+                         not be examined as to public records determined to be
+                         exempt from disclosure under ORS 192.501 to 192.505.”
+                         ORS 40.270.
+
+                   b)    In these situations, staff must read the below citation and
+                         then be ordered by the court to testify about non-disclosable
+                         information:
+
+                         “Your Honor, as required by the applicable state statutes that
+                         govern the privilege and disclosure of information relating to
+                         a youth’s history and prognosis, and as permitted by the
+                         Public Officer Privilege set forth in ORS 40.270, I must
+                         respectfully decline to answer counsel’s question unless I
+                         am ordered to do so by this Court. ORS 419A.257 prohibits
+                         an Oregon Youth Authority employee from disclosing
+                         information contained in reports and other materials
+                         pertaining to that youth’s history and prognosis, absent a
+                         request from the youth or consent of the juvenile court that
+                         adjudicated the youth.
+
+                         “I am advised by the Attorney General’s office that pursuant
+                         to ORS 40.270, I may not be examined regarding this
+                         privileged information to the extent that this court determines
+                         that the information is exempt from disclosure under
+                         Oregon’s Public Records Law. And, that absent a proper
+                         written authorization for release of the information signed by
+                         the youth, or an order consenting to the disclosure by the
+                         juvenile court that adjudicated the youth, the information is
+                         exempt from disclosure under ORS 192.502(9).
+
+                         “I respectfully request that the court determine and direct
+                         whether I am required to answer counsel’s questions
+                         regarding this youth.”
+                   c)    Staff must only be ordered by a court (not a prosecutor or
+                         grand jury) to testify about non-disclosable information, as
+                         described above.
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+Attachment A: Response to Subpoena Matrix
+
+ Type of case                          Appropriate staff response
+                                       Records: Staff must work with the OYA Second Look
+                                       coordinator. See OYA policy I-E-2.6 Second Look
+                                       Hearings for details.
+ Second Look hearing
+                                       Appearance: If staff are subpoenaed to appear, the
+                                       staff’s supervisor or Human Resources will arrange
+                                       court fee handling and the staff's work schedule.
+                                       Records: Local subpoena coordinators work with the
+                                       agency subpoena coordinator and ensure a case note
+ Case involving a youth
+                                       is entered into JJIS regarding the youth's subpoena
+                                       activity.
+ Case involving a youth as a subject   Appearance: The local subpoena coordinator works
+ of dependency, divorce, custody,      with management staff for the youth’s appearance.
+ support proceedings, or termination   Contact DOC if DOC youth. Contact the youth’s
+ of parental rights.                   attorney, if applicable.
+                                       The local subpoena coordinator will coordinate the staff
+                                       member's appearance and brief the staff member on
+                                       courtroom protocol.
+
+                                       Staff, with appropriate release or court order, will limit
+                                       testimony to personal knowledge and to activities
+                                       known or services directly provided by the staff
+ Case involving a youth with staff     member within the scope of his/her job responsibilities.
+ appearance in court                   Staff will not make recommendations about the
+                                       outcomes of the proceeding.
+
+                                       If staff are subpoenaed to appear, the staff’s supervisor
+                                       will arrange the staff's work schedule.
+
+                                       Any witness fees or provision of payments should be
+                                       directed to the agency subpoena coordinator.
+                                       The agency subpoena coordinator is the primary
+                                       subpoena coordinator for records and appearance
+                                       requests in criminal cases against OYA or OYA staff.
+
+                                       The local subpoena coordinator immediately contacts
+                                       the agency subpoena coordinator.
+ Criminal case against an OYA staff
+ member                                No records may be released, or appearances made,
+                                       without the Director's Office authorization.
+
+                                       The agency subpoena coordinator will contact the
+                                       public policy manager for review and direction on
+                                       contacting the Attorney General's office and DAS Risk
+                                       Management, as necessary.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/I-E-1.2.pdf> · retrieved 2026-07-21 · sha256 `2b55aa6fafa65e644467208dc71b85f66b096b8729b3cf84670c17a81365ff29`
+- Snapshot: `_meta/snapshots/oya-i-e-1-2.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

@@ -1,0 +1,248 @@
+---
+id: oya-iii-d-8-0
+title: "Religious Practices in Substitute Care Placements"
+doc_type: policy
+citation: "OYA Policy III-D-8.0"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/III-D-8.0.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "7706b900886a2dbc8e3b48a1f2e0ba6b232507724283900e9fa14871fcded6d8"
+effective_date: "2022-06-07"
+last_reviewed: null
+source_version: "Effective 06/07/2022"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N III-D-N.N Religious Practices in Substitute' x4"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/III-D-8.0.pdf> (retrieved 2026-07-21).
+
+# Religious Practices in Substitute Care Placements (OYA Policy III-D-8.0)
+
+## At a glance
+
+OYA Policy III-D-8.0 — Religious Practices in Substitute Care Placements. Oregon Youth Authority. Effective 06/07/2022.
+
+## Full text
+
+                             OREGON YOUTH AUTHORITY
+                                       Policy Statement
+                       Part III – Youth Services (Community)
+
+ Subject:
+ Religious Practices in Substitute Care Placements
+ Section – Policy Number:                    Supersedes:            Effective Date:   Date of Last
+                                                                                      Review:
+ D: Case Management – 8.0                 III-D-8.0 (02/12) 06/07/2022
+                                                                          06/07/2026
+                                          III-D-8.0 (11/07)
+ Related              U.S. Code: Title 42, Section 2000bb-1 through 2000bb-4,
+ Standards             Religious Freedom Restoration Act
+ and                  Protection of Religious Exercise in Land Use and Institutionalized
+ References:           Persons Act of 2000
+                      OYA policy: III-B-4.0 (Youth Rights and Grievances)
+                       III-A-4.0 (Searches of Youth and Areas; Processing Contraband or
+                       Evidence in Community Placements)
+ Related             None
+ Procedures:
+ Policy Owner:                                   Approved:
+
+ Community Services Assistant Director
+                                                 ______________________________
+                                                 Joseph O’Leary, Director
+
+I.     PURPOSE:
+
+       This policy provides guidelines for OYA staff when supporting participation and
+       addressing issues related to youth religious practices while in community
+       substitute care.
+
+II.    POLICY DEFINITIONS:
+
+       Religious practice: Any exercise of religion, whether or not such exercise is
+       compelled by, or central to, a system of religious belief. It includes access to
+       religious publications, religious symbols, congregate worship/religious services,
+       religious study classes and ceremonies, and adherence to dietary requirements.
+
+       Substitute care: An out-of-home placement in the community for an adjudicated
+       youth that provides 24-hour-a-day care and treatment, including adjudicated
+       youth foster homes, residential treatment facilities, and transitional housing
+       programs.
+
+II.    POLICY:
+
+       OYA has identified diversity, equity, and inclusion as an agency priority and
+       initiative, with a goal to build a respectful, diverse, equitable and inclusive
+       environment for youth and staff that is free from harassment, discrimination and
+
+       bias. Data shows youth of color and LGBTQ+ youth are disproportionately
+       represented in the juvenile justice system. While OYA is only one part of that
+       system, we play a critical role in addressing the historical and systemic inequities
+       it perpetuates. A youth’s expression and practice of religious beliefs is an
+       important part of honoring diversity. OYA requires substitute care providers to
+       support and respect a youth’s religious beliefs and practices.
+
+       Federal laws allow all people to hold individual religious beliefs. Youth in OYA
+       substitute care placements maintain this same right. OYA recognizes that cultural
+       competence and diversity also includes respecting and valuing the youth’s
+       spiritual and religious beliefs. Youth are not required to participate in religious
+       practices or rituals.
+
+       In some situations, federal laws allow states to limit a youth’s expression of
+       religious beliefs through religious practice or rituals. While OYA makes every
+       reasonable effort to allow youth the right of religious practice, the agency may
+       restrict religious actions or rituals when:
+
+       •      There is a compelling interest to do so, including, but not limited to, legitimate
+              security and operational considerations such as safety, health and order;
+              rehabilitation or treatment-related issues; or limitations of resources; and
+
+       •      The imposed limitation is the least restrictive means of addressing the
+              compelling interest.
+
+IV.    GENERAL STANDARDS:
+
+       A.        OYA contracted residential treatment programs.
+
+                 1.      Contracts between OYA and each residential treatment program
+                         must specify that programs will develop written procedures to
+                         implement specific OYA policies, including OYA policy III-D-8.0
+                         Religious Practices in Substitute Care Placements.
+
+                 2.      OYA staff who observe or receive reports of alleged actions or
+                         practices by residential treatment programs or their staff that are in
+                         conflict with OYA policy III-D-8.0 must inform the Community
+                         Resources manager, or designee, of the alleged action or practice.
+
+       B.        Youth in OYA substitute care
+
+                 1.      OYA staff must be aware of youth rights to practice the religion of
+                         their choice while in substitute care and to have reasonable access
+                         to religious activities. Religious activities may include, but are not
+                         limited to:
+
+                         a)      Religious classes (lectures, instruction, discussion);
+
+                         b)      Religious forums;
+
+                         c)      Prayer groups;
+
+                      d)      Religious choirs, ensembles and singing groups;
+
+                      e)      Self-study or group studies;
+
+                      f)      Religious group counseling;
+
+                      g)      Spiritual maturity groups;
+
+                      h)      Ceremonies;
+
+                      i)      Instruction in doctrines, rituals and ideals of various religious
+                              faiths; access to religious publications;
+
+                      j)      Provision of religious diets;
+
+                      k)      Wearing or carrying a religious emblem, medal, medallion or
+                              other religious item;
+
+                      l)      Religious dress and grooming practices which may include
+                              wearing religious clothing or adhering to shaving or hair
+                              length observances; and
+
+                      m)      Celebration of rituals necessary to meet the requirements of
+                              a given faith. Whenever possible, youth work assignments
+                              and schedules must accommodate religious practice that
+                              requires abstinence from work on certain holidays. Such
+                              accommodation must not penalize the youth.
+
+              2.      Staff who observe or receive reports of alleged actions or
+                      practices by a substitute care provider that are in conflict with this
+                      policy must inform the residential community resource manager,
+                      foster care manager, or designee.
+
+              3.      Staff must refer a youth who desires to participate in a religious
+                      activity that is not currently available within the community where
+                      the youth is placed to the youth's JPPO.
+
+                      The youth's JPPO must facilitate the youth's request for a
+                      reasonable accommodation to access religious activities or
+                      materials by helping the youth complete a written request with the
+                      following information:
+
+                      a)      The name of the religion or belief; and
+
+                      b)      The title and brief description of religious activity requested,
+                              including:
+
+                              (1)     The significance of the activity in the practice of the
+                                      religion;
+
+                              (2)     How often or under what circumstances the religious
+                                      activity will be held in the community;
+
+                              (3)     Minimum time and any physical requirements within
+                                      which the religious activity may take place;
+
+                              (4)     Any materials that are required for the religious
+                                      activity and their purpose or use, including a list of
+                                      any items associated with the religious activity that
+                                      the youth would retain, if any;
+
+                              (5)     The title (if any), function, and eligibility requirements
+                                      for participants in the activity; and
+
+                              (6)     The name, address and phone number of a
+                                      recognized religious representative who can verify the
+                                      above information.
+
+              4.      The JPPO and residential community resource manager or foster
+                      care manager must review the request and consider:
+
+                      a)      The effects of the request on the safety and security of
+                              persons and order of the substitute care placement;
+
+                      b)      Available resources to provide the activity;
+
+                      c)      Alternative means of meeting the request; and
+
+                      d)      Other issues specific to the request.
+
+              5.      The residential community resource manager or foster care
+                      manager must provide a written response. A copy must be sent to
+                      the youth, JPPO, and field supervisor.
+
+              6.      A youth may appeal a response result by filing a grievance
+                      according to OYA policy III-B-4.0 Youth Rights and Grievances.
+
+                      a)      If there is a conflict between a request for a religious practice
+                              and the substitute care provider’s interest, the matter will be
+                              resolved by OYA in consultation with the affected parties.
+                              When necessary, OYA will consult with appropriate religious
+                              representatives and other authorities as needed to clarify
+                              issues.
+
+                      b)      The decision of the OYA director is final.
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/III-D-8.0.pdf> · retrieved 2026-07-21 · sha256 `7706b900886a2dbc8e3b48a1f2e0ba6b232507724283900e9fa14871fcded6d8`
+- Snapshot: `_meta/snapshots/oya-iii-d-8-0.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

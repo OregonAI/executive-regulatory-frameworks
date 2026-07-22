@@ -1,0 +1,794 @@
+group: oregon-youth-authority-policies
+title: Oregon Youth Authority policies
+kind: content-hash
+recheck: monthly
+last_checked: '2026-07-21'
+upstream_signal: 'Static HTML listing (link text carries ''NUM TITLE'') at https://www.oregon.gov/oya/pages/policies/policy_list.aspx.
+  Freshness: re-fetch and diff the link set.'
+sources:
+- id: oya-0-2-0
+  url: https://www.oregon.gov/oya/policies/0-2.0.pdf
+  sha256: d4c54116df3251a7ad4a2ce3477dfd8f98eb5b902d024b0d6fdc75023fad2919
+  last_checked: '2026-07-21'
+  notes: Principles of Conduct (OYA Policy 0-2.0)
+- id: oya-0-2-1
+  url: https://www.oregon.gov/oya/policies/0-2.1.pdf
+  sha256: c6a3e1d03ec0984c0e36b7a01d5d3103a0113516eb9556b3bdbe5c3a4191ee30
+  last_checked: '2026-07-21'
+  notes: Professional Standards (OYA Policy 0-2.1)
+- id: oya-0-2-2
+  url: https://www.oregon.gov/oya/policies/0-2.2.pdf
+  sha256: b3b879e1c2b5982da3a342fa3cf42de31aa784543f1813a1a4b60b6c0bfd7e70
+  last_checked: '2026-07-21'
+  notes: Relationships with Youth and Their Families (OYA Policy 0-2.2)
+- id: oya-0-2-3
+  url: https://www.oregon.gov/oya/policies/0-2.3.pdf
+  sha256: 57f41c8ffe0a2419730da1ba7a29be5a1c79d120be20dd610ca77bc35fb9055a
+  last_checked: '2026-07-21'
+  notes: Mandatory Reporting of Abuse (OYA Policy 0-2.3)
+- id: oya-0-2-4
+  url: https://www.oregon.gov/oya/policies/0-2.4.pdf
+  sha256: 75b0cda13d45577d81af684ac6590b3bf16ca9c6d16b8b1c0828318627b30aff
+  last_checked: '2026-07-21'
+  notes: Conflict of Interest (OYA Policy 0-2.4)
+- id: oya-0-3-0
+  url: https://www.oregon.gov/oya/policies/0-3.0.pdf
+  sha256: 47386bd826063194e804ce572d18a05a31fab6026217951ab554d7e176270150
+  last_checked: '2026-07-21'
+  notes: Harassment-free Workplace (OYA Policy 0-3.0)
+- id: oya-0-3-1
+  url: https://www.oregon.gov/oya/policies/0-3.1.pdf
+  sha256: 0ef51bd445bcc46966c5b47d5da5e1ad461216a6596aeabf1b013a0a528a14e7
+  last_checked: '2026-07-21'
+  notes: Equal Employment Opportunity and Affirmative Action (OYA Policy 0-3.1)
+- id: oya-0-4-0
+  url: https://www.oregon.gov/oya/policies/0-4.0.pdf
+  sha256: dc12638e074f09e06e9dd97cb02d50f0e03ad3def5462b83a59801f68c108f5a
+  last_checked: '2026-07-21'
+  notes: Drug-free Workplace; Alcohol and Marijuana Restrictions (OYA Policy 0-4.0)
+- id: oya-0-5-0
+  url: https://www.oregon.gov/oya/policies/0-5.0.pdf
+  sha256: d054ab4e66a4d7552891dbc60fad99e62379dd0b8545d21f0e7001a1a5377076
+  last_checked: '2026-07-21'
+  notes: Violence-free Workplace (OYA Policy 0-5.0)
+- id: oya-0-6-0
+  url: https://www.oregon.gov/oya/policies/0-6.0.pdf
+  sha256: c542d59e51871a30d16000759a39ef9b6d686f0a14e1a22b0f56a5ade9b6325e
+  last_checked: '2026-07-21'
+  notes: Weapons in the Workplace (OYA Policy 0-6.0)
+- id: oya-0-7-0
+  url: https://www.oregon.gov/oya/policies/0-7.0.pdf
+  sha256: aed39c853b58326a9f0059e3979c5deb9303eb0b86ce39b6de746c4827513533
+  last_checked: '2026-07-21'
+  notes: Use of Electronic Information Assets and Systems (OYA Policy 0-7.0)
+- id: oya-i-a-1-0
+  url: https://www.oregon.gov/oya/policies/I-A-1.0.pdf
+  sha256: 0d6d7697bdae69c80687428fcaec4cf92aa9861bb1656f1b965e54c42dbc7474
+  last_checked: '2026-07-21'
+  notes: Lobbying (OYA Policy I-A-1.0)
+- id: oya-i-a-2-0
+  url: https://www.oregon.gov/oya/policies/I-A-2.0.pdf
+  sha256: 853b603d43c8bb06601f784b8ab5aa26445bb6505fa7c51fe76c5323527e1691
+  last_checked: '2026-07-21'
+  notes: State/Tribal Government-to-Government Relations (OYA Policy I-A-2.0)
+- id: oya-i-a-3-0
+  url: https://www.oregon.gov/oya/policies/I-A-3.0.pdf
+  sha256: afe83c130a69c654a78f71d9e4be1927e972260acd02a7efda295114dd52c971
+  last_checked: '2026-07-21'
+  notes: Attorney General Opinions and Advice (OYA Policy I-A-3.0)
+- id: oya-i-a-4-0
+  url: https://www.oregon.gov/oya/policies/I-A-4.0.pdf
+  sha256: ed9a3c9c279d5b7c9c38857dff771967b05f129e0347d5320ac481dc1b7e0dc6
+  last_checked: '2026-07-21'
+  notes: Tort Liability and Claims (OYA Policy I-A-4.0)
+- id: oya-i-a-8-0
+  url: https://www.oregon.gov/oya/policies/I-A-8.0.pdf
+  sha256: eceb6e01ad9fa2e363829893753d72a9b23d88e4a23e5d4c26b91c6804aa83c7
+  last_checked: '2026-07-21'
+  notes: Delegation of Legal Custodian and Guardianship Authority (OYA Policy I-A-8.0)
+- id: oya-i-a-9-0
+  url: https://www.oregon.gov/oya/policies/I-A-9.0.pdf
+  sha256: 84e27589646f22e261bb8f7caa3372ec6390f1d222a2c88a73a8afe0dfc8d724
+  last_checked: '2026-07-21'
+  notes: Parent/Guardian and Family Involvement in Youth Reformation (OYA Policy I-A-9.0)
+- id: oya-i-a-10-0
+  url: https://www.oregon.gov/oya/policies/I-A-10.0.pdf
+  sha256: 6458fb24c2d883026dd462b2845d7c997e949b919b153599e4240df3688f7b44
+  last_checked: '2026-07-21'
+  notes: Preventing, Detecting, and Responding to Youth Sexual Abuse and Sexual Harassment (OYA Policy
+    I-A-10.0)
+- id: oya-i-a-10-1
+  url: https://www.oregon.gov/oya/policies/I-A-10.1.pdf
+  sha256: 15bf5995e879683ed0a0e668cfa02c2e5ec4de24d7fcd0f0b0579c63cda14bcc
+  last_checked: '2026-07-21'
+  notes: Meeting LGBTQ+ Youth Needs (OYA Policy I-A-10.1)
+- id: oya-i-a-11-0
+  url: https://www.oregon.gov/oya/policies/I-A-11.0.pdf
+  sha256: 3942ab4b29e602d931ad84810244613393f381cafb60a39e1d8bbb5128d01336
+  last_checked: '2026-07-21'
+  notes: Assessment, Multidisciplinary Teams, and Case Planning (OYA Policy I-A-11.0)
+- id: oya-i-a-12-0
+  url: https://www.oregon.gov/oya/policies/I-A-12.0.pdf
+  sha256: d959b31cc1ec4e2a0fc996c25166d6d8b5cd4de8e5d44eee10d9230c1b0cfdb4
+  last_checked: '2026-07-21'
+  notes: OYA Assessment and Treatment Eligibility for Youth Who Have Committed Sex Offenses (OYA Policy
+    I-A-12.0)
+- id: oya-i-a-13-0
+  url: https://www.oregon.gov/oya/policies/I-A-13.0.pdf
+  sha256: cec9fb05fc2b9b9e79dc1727e788ced7e0083ee82192199c4f5f30a2e5394367
+  last_checked: '2026-07-21'
+  notes: Parole Revocation (OYA Policy I-A-13.0)
+- id: oya-i-b-1-0
+  url: https://www.oregon.gov/oya/policies/I-B-1.0.pdf
+  sha256: 168cdb316679e7596ab6f57b225212b96eb79d716222b23ad9b90a3f117bd8f8
+  last_checked: '2026-07-21'
+  notes: Payroll Reporting/Issuing Paychecks (OYA Policy I-B-1.0)
+- id: oya-i-b-2-0
+  url: https://www.oregon.gov/oya/policies/I-B-2.0.pdf
+  sha256: 71419c9eab3499f525d63d0b2b30e884057ec5ed3576fb34c2eec4ac874905fc
+  last_checked: '2026-07-21'
+  notes: Delegation for Expenditures and Payment Obligation Approval (OYA Policy I-B-2.0)
+- id: oya-i-b-2-1
+  url: https://www.oregon.gov/oya/policies/I-B-2.1.pdf
+  sha256: 815f50a3904ca23cb595b8eb101d69f4bf9b4a0d86bf63601b96cd917838eec6
+  last_checked: '2026-07-21'
+  notes: Use of State Purchase Card (SPOTS Card) and State Corporate Travel Card (OYA Policy I-B-2.1)
+- id: oya-i-b-3-0
+  url: https://www.oregon.gov/oya/policies/I-B-3.0.pdf
+  sha256: d648df64ef3c88740d8c2be1057544c080c86c89bb060dbe69cee66a0d9a8c64
+  last_checked: '2026-07-21'
+  notes: Youth Trust Accounts (OYA Policy I-B-3.0)
+- id: oya-i-b-3-1
+  url: https://www.oregon.gov/oya/policies/I-B-3.1.pdf
+  sha256: fa773bc6a29dc1332773d6cd8cb8c92027c0955093431f5ef9d084e458dcc1ae
+  last_checked: '2026-07-21'
+  notes: Youth Welfare Accounts (OYA Policy I-B-3.1)
+- id: oya-i-b-4-1
+  url: https://www.oregon.gov/oya/policies/I-B-4.1.pdf
+  sha256: b81ff7867aef22b9240d420999b4ca3f57ae14333cf501b3af374a3015b57a40
+  last_checked: '2026-07-21'
+  notes: Staff Personal Property Damage Reimbursement (OYA Policy I-B-4.1)
+- id: oya-i-b-5-0
+  url: https://www.oregon.gov/oya/policies/I-B-5.0.pdf
+  sha256: cda60e435e28c91957e6790c49f50614a62495102a273a2fba62b98c99b9c20e
+  last_checked: '2026-07-21'
+  notes: Agency Acceptance of Donations (OYA Policy I-B-5.0)
+- id: oya-i-c-1-0
+  url: https://www.oregon.gov/oya/policies/I-C-1.0.pdf
+  sha256: fae59352584cd786969352fb3a4e96d111056e4f8ada184c2c7a44626d886ee0
+  last_checked: '2026-07-21'
+  notes: Property Control Systems (OYA Policy I-C-1.0)
+- id: oya-i-c-2-0
+  url: https://www.oregon.gov/oya/policies/I-C-2.0.pdf
+  sha256: d48212da2cb7cae9460d4ba1fff5243983a6164b7bf85fbba14e9b0806a7023c
+  last_checked: '2026-07-21'
+  notes: Use of State-Owned Vehicles (OYA Policy I-C-2.0)
+- id: oya-i-c-3-2
+  url: https://www.oregon.gov/oya/policies/I-C-3.2.pdf
+  sha256: 4a6be7a39ae1d782e0d881bda0a40fb689a0c129cd6159dcc9846892ac251d31
+  last_checked: '2026-07-21'
+  notes: Commercial Sales and Solicitations (OYA Policy I-C-3.2)
+- id: oya-i-c-7-0
+  url: https://www.oregon.gov/oya/policies/I-C-7.0.pdf
+  sha256: 8bf1c6dd5243737042f1936e1a2129078480031c3741b47f5321c529f39bfd06
+  last_checked: '2026-07-21'
+  notes: Safety and Health Program (OYA Policy I-C-7.0)
+- id: oya-i-c-7-3
+  url: https://www.oregon.gov/oya/policies/I-C-7.3.pdf
+  sha256: 4350e8a9164f14ef4910f1fb29c42849bb6bc4fb21c5796fcb4728866e43cc86
+  last_checked: '2026-07-21'
+  notes: Hazard Communications Program (OYA Policy I-C-7.3)
+- id: oya-i-c-8-1
+  url: https://www.oregon.gov/oya/policies/I-C-8.1.pdf
+  sha256: 3f89f4b06d04d09cf310cb436d0f6ff90273f2d19a367c72f7161e077421f5e5
+  last_checked: '2026-07-21'
+  notes: Bloodborne Pathogens (OYA Policy I-C-8.1)
+- id: oya-i-c-8-3
+  url: https://www.oregon.gov/oya/policies/I-C-8.3.pdf
+  sha256: 1e1485a97b7404b946c219effa0367fb4a1fb7782872615601b603c1e404fed4
+  last_checked: '2026-07-21'
+  notes: Infection Control (OYA Policy I-C-8.3)
+- id: oya-i-c-9-0
+  url: https://www.oregon.gov/oya/policies/I-C-9.0.pdf
+  sha256: 7b360bd56d3c45851ff8d02675ca647bd2abbc0c47e02ed3756635704726a854
+  last_checked: '2026-07-21'
+  notes: Mobile Communication Devices (Cell Phones) and Other Mobile Data Storage Devices (OYA Policy
+    I-C-9.0)
+- id: oya-i-c-10-0
+  url: https://www.oregon.gov/oya/policies/I-C-10.0.pdf
+  sha256: dfab645f2c10a3b5d3ca7a610abeccefe35fadeac6870a7171f2f05b85db3c82
+  last_checked: '2026-07-21'
+  notes: OYA Information Technology Governance (OYA Policy I-C-10.0)
+- id: oya-i-d-1-5
+  url: https://www.oregon.gov/oya/policies/I-D-1.5.pdf
+  sha256: c6f7a95f14ef981dbd321a893bb5da3bfd2cceca533cc7d50e4454fe34eb59e8
+  last_checked: '2026-07-21'
+  notes: Workers' Compensation (OYA Policy I-D-1.5)
+- id: oya-i-d-1-6
+  url: https://www.oregon.gov/oya/policies/I-D-1.6.pdf
+  sha256: 64163b0bc1276e1ee3672f9d24020960e6292582f66d21eb18062e2298024e5e
+  last_checked: '2026-07-21'
+  notes: OYA Staff Wellness (OYA Policy I-D-1.6)
+- id: oya-i-d-2-0
+  url: https://www.oregon.gov/oya/policies/I-D-2.0.pdf
+  sha256: 63c732404222d6f7b60f51898c0a3e22590a016630b93328c47a90fc900c8c04
+  last_checked: '2026-07-21'
+  notes: Nonbudgeted Personnel Requests (OYA Policy I-D-2.0)
+- id: oya-i-d-2-1
+  url: https://www.oregon.gov/oya/policies/I-D-2.1.pdf
+  sha256: 12dfe1d01730858c0afafa5b8169f3e8c8ac672a00bbc54150747611b172bf1e
+  last_checked: '2026-07-21'
+  notes: Use of Language Services (OYA Policy I-D-2.1)
+- id: oya-i-d-2-2
+  url: https://www.oregon.gov/oya/policies/I-D-2.2.pdf
+  sha256: 404b5e87597a0476d8ec5ac2a4dccd93e653a7996dda76a45f847bd0f5f27dfc
+  last_checked: '2026-07-21'
+  notes: Pre-employment Physical Abilities Test (OYA Policy I-D-2.2)
+- id: oya-i-d-2-3
+  url: https://www.oregon.gov/oya/policies/I-D-2.3.pdf
+  sha256: 0804abe8a109d66a9e2506c04046ac2420abb84ad8092dc423178bbe90ee506a
+  last_checked: '2026-07-21'
+  notes: Food Handlers Sanitation and Safety (OYA Policy I-D-2.3)
+- id: oya-i-d-3-7
+  url: https://www.oregon.gov/oya/policies/I-D-3.7.pdf
+  sha256: 5743caea17154b95b807654e14105fa14ba0ca1e00c21662079454eec43fdd1a
+  last_checked: '2026-07-21'
+  notes: Staff and Volunteer Recognition (OYA Policy I-D-3.7)
+- id: oya-i-d-3-8
+  url: https://www.oregon.gov/oya/policies/I-D-3.8.pdf
+  sha256: 8b7cd9c519e05e6bb2a728712db569d4c02a0da39cea55e036110f1bf8d75e5c
+  last_checked: '2026-07-21'
+  notes: Agency Training Program (OYA Policy I-D-3.8)
+- id: oya-i-d-3-9
+  url: https://www.oregon.gov/oya/policies/I-D-3.9.pdf
+  sha256: b800cf8c02eafad1f2d7e2f86ecc50011c636fbc3115bbbe386dd1889c9360d4
+  last_checked: '2026-07-21'
+  notes: Staff Training and Development (OYA Policy I-D-3.9)
+- id: oya-i-d-3-11
+  url: https://www.oregon.gov/oya/policies/I-D-3.11.pdf
+  sha256: 878af566f4800fe0c88dbeaacfae6cbbc37d53a94cb8c8b907bc097a563bdb3e
+  last_checked: '2026-07-21'
+  notes: Political Activity (OYA Policy I-D-3.11)
+- id: oya-i-d-3-13
+  url: https://www.oregon.gov/oya/policies/I-D-3.13.pdf
+  sha256: f7c7876a2ac362c32a331b7c6b7677cc122892c6ce3e4d3908644b4a9ed9dded
+  last_checked: '2026-07-21'
+  notes: Staff Dress Standards (OYA Policy I-D-3.13)
+- id: oya-i-d-3-16
+  url: https://www.oregon.gov/oya/policies/I-D-3.16.pdf
+  sha256: f35c7f8ee092d52e016818a380f963b4f2ece79557a9eade9fcdf9e5550215dd
+  last_checked: '2026-07-21'
+  notes: Volunteer Services (OYA Policy I-D-3.16)
+- id: oya-i-d-3-19
+  url: https://www.oregon.gov/oya/policies/I-D-3.19.pdf
+  sha256: b517c4b010ef6a29b92d339d1b15c3c4021e843d448ea533cef6fb7ff247b516
+  last_checked: '2026-07-21'
+  notes: OYA Identification Badges and Shields (OYA Policy I-D-3.19)
+- id: oya-i-d-4-0
+  url: https://www.oregon.gov/oya/policies/I-D-4.0.pdf
+  sha256: 89b19121a43e93f96dfa3193b42d67aa847afa88767cd3d26efd68a335d4d109
+  last_checked: '2026-07-21'
+  notes: Professional Standards Office Investigations (OYA Policy I-D-4.0)
+- id: oya-i-d-5-0
+  url: https://www.oregon.gov/oya/policies/I-D-5.0.pdf
+  sha256: 733038afb51d3961619462f5ee8488ca17de8bff8f1aa575e0da1e34088a9642
+  last_checked: '2026-07-21'
+  notes: Criminal Records Checks; Child Abuse Registry Checks (OYA Policy I-D-5.0)
+- id: oya-i-d-6-0
+  url: https://www.oregon.gov/oya/policies/I-D-6.0.pdf
+  sha256: e3cb1d9ad0bd3d1b09ef4077329ab27fed073d7f06f6c26c7406a2ca5018babf
+  last_checked: '2026-07-21'
+  notes: Customer Service (OYA Policy I-D-6.0)
+- id: oya-i-e-1-0
+  url: https://www.oregon.gov/oya/policies/I-E-1.0.pdf
+  sha256: ad72cdaa963738fdb97e5bedb94550ee78783f0d174ba77e104653bf027dfe7a
+  last_checked: '2026-07-21'
+  notes: Director's Incident Notification and Report (OYA Policy I-E-1.0)
+- id: oya-i-e-1-1
+  url: https://www.oregon.gov/oya/policies/I-E-1.1.pdf
+  sha256: 9c6198b49b96465671dc8586fe84897fbea9a215387625338aa544c4fccfc5d2
+  last_checked: '2026-07-21'
+  notes: Administrative Rule, Policy, Procedure, and Protocol Development (OYA Policy I-E-1.1)
+- id: oya-i-e-1-2
+  url: https://www.oregon.gov/oya/policies/I-E-1.2.pdf
+  sha256: 2b55aa6fafa65e644467208dc71b85f66b096b8729b3cf84670c17a81365ff29
+  last_checked: '2026-07-21'
+  notes: Response to Subpoenas (OYA Policy I-E-1.2)
+- id: oya-i-e-1-3
+  url: https://www.oregon.gov/oya/policies/I-E-1.3.pdf
+  sha256: 6bcb637fbc9d7d7686dfcc2a544b0ae307463dee01d0f30a9963656c4f98d4d3
+  last_checked: '2026-07-21'
+  notes: Research Proposals (OYA Policy I-E-1.3)
+- id: oya-i-e-1-4
+  url: https://www.oregon.gov/oya/policies/I-E-1.4.pdf
+  sha256: 0af984e211c41818b5c959d76a954e497f48f346509b22969ab1f9736dc462bb
+  last_checked: '2026-07-21'
+  notes: Public Records Management (OYA Policy I-E-1.4)
+- id: oya-i-e-2-1
+  url: https://www.oregon.gov/oya/policies/I-E-2.1.pdf
+  sha256: 62365072b178540f9529e94c5f0fb0491ba837857e0cb3500a6fd86e33b7f279
+  last_checked: '2026-07-21'
+  notes: Public Records Requests for Agency Records (OYA Policy I-E-2.1)
+- id: oya-i-e-2-2
+  url: https://www.oregon.gov/oya/policies/I-E-2.2.pdf
+  sha256: 182bfa5da51588bc1602b88187be3a53ef8f7a243d8475ff491bc843b8323ec9
+  last_checked: '2026-07-21'
+  notes: Youth Facility Case File and Medical File Protection and Transfer (OYA Policy I-E-2.2)
+- id: oya-i-e-2-3
+  url: https://www.oregon.gov/oya/policies/I-E-2.3.pdf
+  sha256: 912373f72a3f6b89d35d8bd6d5fee1aa9bb15b6d46b6d60e18c12e8f1695b3ec
+  last_checked: '2026-07-21'
+  notes: Requests for Youth Information and Records (OYA Policy I-E-2.3)
+- id: oya-i-e-2-4
+  url: https://www.oregon.gov/oya/policies/I-E-2.4.pdf
+  sha256: 05fd9200e236aca23812e8b9ba447bbb7d71fc740bc26b8fd64a7d39726ead52
+  last_checked: '2026-07-21'
+  notes: Expunction Orders (OYA Policy I-E-2.4)
+- id: oya-i-e-2-5
+  url: https://www.oregon.gov/oya/policies/I-E-2.5.pdf
+  sha256: 6af214ca7fdc6f958ba03f5079fdff8c759faa5b14bd2d70c649e6ed76b314ad
+  last_checked: '2026-07-21'
+  notes: Crime Victim Notification and Communication (OYA Policy I-E-2.5)
+- id: oya-i-e-2-6
+  url: https://www.oregon.gov/oya/policies/I-E-2.6.pdf
+  sha256: 34cd37180fb07ce969e46e4fc533e2467b1f82e079daf150810dbfb707366d28
+  last_checked: '2026-07-21'
+  notes: Second Look Hearings (OYA Policy I-E-2.6)
+- id: oya-i-e-2-7
+  url: https://www.oregon.gov/oya/policies/I-E-2.7.pdf
+  sha256: c1b1e93832c2d30a3908a61c37498110d2c05eab95cf8beb0e306bfcdfe93a99
+  last_checked: '2026-07-21'
+  notes: Sensitive Case Descriptors (OYA Policy I-E-2.7)
+- id: oya-i-e-3-2
+  url: https://www.oregon.gov/oya/policies/I-E-3.2.pdf
+  sha256: 42eee69823065d3d6dd7b7a5513562d119e56bd82ee5894fde647f3271fc1441
+  last_checked: '2026-07-21'
+  notes: Information Asset Classification and Protection (OYA Policy I-E-3.2)
+- id: oya-i-e-3-3
+  url: https://www.oregon.gov/oya/policies/I-E-3.3.pdf
+  sha256: 3b8d8bd0bd157fd0a32ba6f0e4ff025bdb798b028250aca3d29479f4b30be674
+  last_checked: '2026-07-21'
+  notes: Information Security Incident Response (OYA Policy I-E-3.3)
+- id: oya-i-e-4-0
+  url: https://www.oregon.gov/oya/policies/I-E-4.0.pdf
+  sha256: d71f396d7e32779dfebc1143c2343f33fe08064328fb783282850ee30d443c9f
+  last_checked: '2026-07-21'
+  notes: Incident Reviews (OYA Policy I-E-4.0)
+- id: oya-i-e-5-0
+  url: https://www.oregon.gov/oya/policies/I-E-5.0.pdf
+  sha256: 1ebef20f4f2c4eca1c3fec78bb4baa3ab56c8d74893deeb002db2b461657d67b
+  last_checked: '2026-07-21'
+  notes: Notification to Parents/Guardians (OYA Policy I-E-5.0)
+- id: oya-i-e-6-0
+  url: https://www.oregon.gov/oya/policies/I-E-6.0.pdf
+  sha256: 039d0249466ebcd2f776631108f4ffd031380e64fa0f897e526dc724b3e9013a
+  last_checked: '2026-07-21'
+  notes: Contact with U.S. Immigration and Customs Enforcement (ICE) (OYA Policy I-E-6.0)
+- id: oya-i-e-7-0
+  url: https://www.oregon.gov/oya/policies/I-E-7.0.pdf
+  sha256: e90fd1086a2d8063ee0ae8a1b8533050c41337564ad6023b37cb50f2f83bdeb4
+  last_checked: '2026-07-21'
+  notes: Foreign Nationals and Consular Notification/Contact (OYA Policy I-E-7.0)
+- id: oya-ii-a-1-0
+  url: https://www.oregon.gov/oya/policies/II-A-1.0.pdf
+  sha256: c97bc9aec87fea74ac80abb9fc2e4d37303b155b86d14e429ea4b98a0030ed80
+  last_checked: '2026-07-21'
+  notes: Facility Access (OYA Policy II-A-1.0)
+- id: oya-ii-a-1-1
+  url: https://www.oregon.gov/oya/policies/II-A-1.1.pdf
+  sha256: ce5e507db34f4f27534071b0f17b1a1f744c32f3de6d6aa7e3401026ea0a617f
+  last_checked: '2026-07-21'
+  notes: Facility Safety and Security Reviews (OYA Policy II-A-1.1)
+- id: oya-ii-a-1-2
+  url: https://www.oregon.gov/oya/policies/II-A-1.2.pdf
+  sha256: 9ea9baf1eba99d6b4bd982a7364e3eb4ba31cd870ba253712ece335d80a37af4
+  last_checked: '2026-07-21'
+  notes: Preserving Chain of Evidence (OYA Policy II-A-1.2)
+- id: oya-ii-a-1-3
+  url: https://www.oregon.gov/oya/policies/II-A-1.3.pdf
+  sha256: 257d0569b18cbe3974cdcb1b9003dd18da31ccd1fef8361e5d7c47f3fd89d91a
+  last_checked: '2026-07-21'
+  notes: Youth Identification Photographs [Facility] (OYA Policy II-A-1.3)
+- id: oya-ii-a-1-4
+  url: https://www.oregon.gov/oya/policies/II-A-1.4.pdf
+  sha256: d63d94f212b78700d2f0800a7cc393fb8ab305a587398f714fab991a1af0834c
+  last_checked: '2026-07-21'
+  notes: Apprehension of Escaped Youth from OYA Facilities (OYA Policy II-A-1.4)
+- id: oya-ii-a-1-5
+  url: https://www.oregon.gov/oya/policies/II-A-1.5.pdf
+  sha256: a0a0e59cc76ec39a12664157112e7ed9497074bc2ec80d484d30a9b03af1b5c9
+  last_checked: '2026-07-21'
+  notes: Agency Case Review and DOC Early Transfer Protocol (OYA Policy II-A-1.5)
+- id: oya-ii-a-2-0
+  url: https://www.oregon.gov/oya/policies/II-A-2.0.pdf
+  sha256: 69183608d178ce583ddae20fdf459e1c01b4c32a001c56a8c4c4aa3617b3cbe9
+  last_checked: '2026-07-21'
+  notes: Searches of Youth and Youth Property in OYA Facilities (OYA Policy II-A-2.0)
+- id: oya-ii-a-2-1
+  url: https://www.oregon.gov/oya/policies/II-A-2.1.pdf
+  sha256: d63880f67c5d0b2e253bdab8d32974940e1507f9a8fec08e94360e3f40589def
+  last_checked: '2026-07-21'
+  notes: Control of Tools, Hazardous Materials and Sharps in OYA Facilities (OYA Policy II-A-2.1)
+- id: oya-ii-a-2-2
+  url: https://www.oregon.gov/oya/policies/II-A-2.2.pdf
+  sha256: 61a0e6e92a34cfc8c01bb71d664a82927ba6c5df2c0c1b6cf2677b0e39511713
+  last_checked: '2026-07-21'
+  notes: Key and Access Card Control (OYA Policy II-A-2.2)
+- id: oya-ii-a-3-0
+  url: https://www.oregon.gov/oya/policies/II-A-3.0.pdf
+  sha256: c939050cef3e001a87cef2cf4adbffb95a06233559dc00073c877dbc803e1071
+  last_checked: '2026-07-21'
+  notes: Interactive Supervision of Youth (OYA Policy II-A-3.0)
+- id: oya-ii-a-3-1
+  url: https://www.oregon.gov/oya/policies/II-A-3.1.pdf
+  sha256: d5bb699180f72f6aadacd8ec06dc5e051400936ab38acd993ea20b6534a6d4a2
+  last_checked: '2026-07-21'
+  notes: Facility Youth Transports and Escorted Trips (OYA Policy II-A-3.1)
+- id: oya-ii-a-3-2
+  url: https://www.oregon.gov/oya/policies/II-A-3.2.pdf
+  sha256: 8e0ee5c614d7337997f35a62df196d17413b644962c86050ad3e453360dd34b7
+  last_checked: '2026-07-21'
+  notes: Enhanced/Supplemental Interactive Supervision of Youth (OYA Policy II-A-3.2)
+- id: oya-ii-b-1-1
+  url: https://www.oregon.gov/oya/policies/II-B-1.1.pdf
+  sha256: 580bb06dc2d0df257b7f133de2fb9f8056673a6295988695ce3ec1df72c97120
+  last_checked: '2026-07-21'
+  notes: Physical Intervention in OYA Facilities (OYA Policy II-B-1.1)
+- id: oya-ii-b-1-2
+  url: https://www.oregon.gov/oya/policies/II-B-1.2.pdf
+  sha256: 65e2520bdaf220c89b3e1df98cb279b2eff17761b0347a29bb45888605e03f7c
+  last_checked: '2026-07-21'
+  notes: Use of Time-Out, Room-lock Other, Isolation, and Safety Programs in OYA Facilities (OYA Policy
+    II-B-1.2)
+- id: oya-ii-b-2-1
+  url: https://www.oregon.gov/oya/policies/II-B-2.1.pdf
+  sha256: 7a1f23cfab5815ef4d26d41af2346df84c8ffcd39cbe5963f432fa968e227414
+  last_checked: '2026-07-21'
+  notes: Youth Behavior Management (OYA Policy II-B-2.1)
+- id: oya-ii-b-3-0
+  url: https://www.oregon.gov/oya/policies/II-B-3.0.pdf
+  sha256: aec48c44fa53f496b1b74576404db102aa65baf4a6e2788e01e11b5801337490
+  last_checked: '2026-07-21'
+  notes: JJIS Living Unit Logs (OYA Policy II-B-3.0)
+- id: oya-ii-d-1-0
+  url: https://www.oregon.gov/oya/policies/ii-d-1.0.pdf
+  sha256: 1bcd5f23e17ac200eb2bd29f67d1b0b93c176e7513de134d463a8a65beac5650
+  last_checked: '2026-07-21'
+  notes: Facility Health Services (OYA Policy II-D-1.0)
+- id: oya-ii-d-1-1
+  url: https://www.oregon.gov/oya/policies/II-D-1.1.pdf
+  sha256: be3f7942c98e27a8aac95c0405162ef08b44bd8ae18dca39ad18cf510bd56a68
+  last_checked: '2026-07-21'
+  notes: Therapeutic Levels of Physical Health Care in OYA Facilities (OYA Policy II-D-1.1)
+- id: oya-ii-d-1-2
+  url: https://www.oregon.gov/oya/policies/II-D-1.2.pdf
+  sha256: 96f0423a0bdbf6732410d92ff96372bf880c8c994e4d4e423234742f33cdddbd
+  last_checked: '2026-07-21'
+  notes: Facility Mental Health Services (OYA Policy II-D-1.2)
+- id: oya-ii-d-1-4
+  url: https://www.oregon.gov/oya/policies/II-D-1.4.pdf
+  sha256: 2fa7185ea5729ce107995181aee08e4537d0f171d0a002714f75c7d8b377e2e0
+  last_checked: '2026-07-21'
+  notes: Medication Management in OYA Facilities (OYA Policy II-D-1.4)
+- id: oya-ii-d-2-0
+  url: https://www.oregon.gov/oya/policies/II-D-2.0.pdf
+  sha256: b8c8000f010f0f6a7fedde217a10bd4c0e164fdcd87bc4d63d15901c16be462a
+  last_checked: '2026-07-21'
+  notes: HIV Testing of Youth in OYA Facilities (OYA Policy II-D-2.0)
+- id: oya-ii-d-2-1
+  url: https://www.oregon.gov/oya/policies/II-D-2.1.pdf
+  sha256: e36f160f58c0f5efa1acfda6453dc3c8ef29a2841bbe091a15b1c2f836774f07
+  last_checked: '2026-07-21'
+  notes: Youth Substance Use Screening in OYA Facilities (OYA Policy II-D-2.1)
+- id: oya-ii-d-2-2
+  url: https://www.oregon.gov/oya/policies/II-D-2.2.pdf
+  sha256: ac0f1b73a00181544e5650216e015a4736d58ec5aac988cbaeb4920096064e20
+  last_checked: '2026-07-21'
+  notes: Suicide Prevention in OYA Close Custody Facilities (OYA Policy II-D-2.2)
+- id: oya-ii-d-3-0
+  url: https://www.oregon.gov/oya/policies/II-D-3.0.pdf
+  sha256: 5ad649e3386a0a65a1367b8a132fcd5dc5c34b1ec9d4407258b889fb861a690c
+  last_checked: '2026-07-21'
+  notes: Facility Nutrition Services (OYA Policy II-D-3.0)
+- id: oya-ii-d-3-1
+  url: https://www.oregon.gov/oya/policies/II-d-3.1.pdf
+  sha256: c830bbeb73b9454ce2075bd40938cf0be47946a3c74740fa217e7c6a38da94af
+  last_checked: '2026-07-21'
+  notes: Youth Wellness (OYA Policy II-D-3.1)
+- id: oya-ii-e-1-3
+  url: https://www.oregon.gov/oya/policies/II-E-1.3.pdf
+  sha256: e0fda716dbc8b7dab62a9da9a64bfccb6c28d9de32c41fbf8fca0b4938f4aaf6
+  last_checked: '2026-07-21'
+  notes: Tribal Notification [Facility] (OYA Policy II-E-1.3)
+- id: oya-ii-e-2-0
+  url: https://www.oregon.gov/oya/policies/II-E-2.0.pdf
+  sha256: 7dc6911011210a68d3d7bcb2f459de409fb297b483fa7be18c557412882f66d4
+  last_checked: '2026-07-21'
+  notes: Youth Fundraising Activities (OYA Policy II-E-2.0)
+- id: oya-ii-e-2-1
+  url: https://www.oregon.gov/oya/policies/II-E-2.1.pdf
+  sha256: 40f3090f29a4dfd1a6a3e090e3a6ef4351bde1623759921be5e99322f21bec87
+  last_checked: '2026-07-21'
+  notes: Youth Recreational Activities (OYA Policy II-E-2.1)
+- id: oya-ii-e-2-2
+  url: https://www.oregon.gov/oya/policies/ii-e-2.2.pdf
+  sha256: 714bb5fce597b0f568e6ade134703b368b5c237d0c896683edcdc29df76e5bb7
+  last_checked: '2026-07-21'
+  notes: Polygraph Use with Youth Who Have Committed Sexual Offenses - Facility (OYA Policy II-E-2.2)
+- id: oya-ii-e-2-3
+  url: https://www.oregon.gov/oya/policies/II-E-2.3.pdf
+  sha256: 8f0ad4d0e6ff5da6d69689324d949267b8dd77b800fe64b89cba53a08cf24abe
+  last_checked: '2026-07-21'
+  notes: Youth Tattoo Removal Service [Facility] (OYA Policy II-E-2.3)
+- id: oya-ii-e-2-4
+  url: https://www.oregon.gov/oya/policies/II-E-2.4.pdf
+  sha256: a6cf63175757f0ca7babe6d7c71d21cab64d9755aaed1b4fd4c373cf7fc70733
+  last_checked: '2026-07-21'
+  notes: English Plus – Youth [Facility] (OYA Policy II-E-2.4)
+- id: oya-ii-e-2-5
+  url: https://www.oregon.gov/oya/policies/II-E-2.5.pdf
+  sha256: 97f47f55008795fcfd25b65019116e4d1786038d64be9274da37a8b316e50d96
+  last_checked: '2026-07-21'
+  notes: Visits with Youth (OYA Policy II-E-2.5)
+- id: oya-ii-e-3-0
+  url: https://www.oregon.gov/oya/policies/II-E-3.0.pdf
+  sha256: 80ab8f0ecefec3bdfc5549da235ab9512bd5946406d7d2a2c85190f6649922d3
+  last_checked: '2026-07-21'
+  notes: Intake Review Committee; Parole Review Committee (OYA Policy II-E-3.0)
+- id: oya-ii-e-4-0
+  url: https://www.oregon.gov/oya/policies/II-E-4.0.pdf
+  sha256: cca11ca6bfe1568c131e783ffd81d65b93999e152624a16302f1f95aaa467ebc
+  last_checked: '2026-07-21'
+  notes: Interfacility Transfer Requests (OYA Policy II-E-4.0)
+- id: oya-ii-e-5-0
+  url: https://www.oregon.gov/oya/policies/II-E-5.0.pdf
+  sha256: 4f49428a984fd7ca798c15ebcae7b4ce9865360af45bf0aed3cbc8085f3a342b
+  last_checked: '2026-07-21'
+  notes: Youth Assessment for Sex Offense Risk and Protective Factors - Facility (OYA Policy II-E-5.0)
+- id: oya-ii-e-6-0
+  url: https://www.oregon.gov/oya/policies/ii-e-6.0.pdf
+  sha256: 99fb7334096a46126ba2dd54da53f6f6f745e2f37095db8ce5c11d5e605403d8
+  last_checked: '2026-07-21'
+  notes: Substance Use Assessment and Treatment in OYA Facilities (OYA Policy II-E-6.0)
+- id: oya-ii-e-7-0
+  url: https://www.oregon.gov/oya/policies/II-E-7.0.pdf
+  sha256: 2bb8651515cb8fce4b5571bcc0ed0b9183a01d81995f4a161d1cf75c48bf08a1
+  last_checked: '2026-07-21'
+  notes: Youth Work Programs (OYA Policy II-E-7.0)
+- id: oya-ii-e-8-0
+  url: https://www.oregon.gov/oya/policies/ii-e-8.0.pdf
+  sha256: ba112fc50c53dd6a3102bf8e7759791c4280057df5c313535b316aca58d183b7
+  last_checked: '2026-07-21'
+  notes: Youth Dress Standards in OYA Facilities (OYA Policy II-E-8.0)
+- id: oya-ii-e-9-0
+  url: https://www.oregon.gov/oya/policies/II-E-9.0.pdf
+  sha256: de11bd435e57512fd4017e5d04d776409e525381467e213ceedd0deb06eb85cc
+  last_checked: '2026-07-21'
+  notes: Youth Personal Property in OYA Facilities (OYA Policy II-E-9.0)
+- id: oya-ii-e-10-0
+  url: https://www.oregon.gov/oya/policies/II-E-10.0.pdf
+  sha256: f783d41eefa4873d90f8b89880c13bdb98fe772f6f097a12420073c296c40122
+  last_checked: '2026-07-21'
+  notes: Post-secondary Education in OYA Facilities (OYA Policy II-E-10.0)
+- id: oya-ii-f-1-0
+  url: https://www.oregon.gov/oya/policies/II-F-1.0.pdf
+  sha256: 1a33ba62a4a813a959fc698bb4d70eae1045911ec4272aa9864f1894eaa44f9a
+  last_checked: '2026-07-21'
+  notes: Youth Rights [Facility] (OYA Policy II-F-1.0)
+- id: oya-ii-f-1-1
+  url: https://www.oregon.gov/oya/policies/ii-f-1.1.pdf
+  sha256: be93d501f73f8537ff068b559cc037930cd2540da6581098417f6ce93e2490a6
+  last_checked: '2026-07-21'
+  notes: Youth Grievance Process - Facility (OYA Policy II-F-1.1)
+- id: oya-ii-f-2-4
+  url: https://www.oregon.gov/oya/policies/II-F-2.4.pdf
+  sha256: 2fec207a55ba46bfc7e2e4e6fe10491dac56ed87e29aa5ef00282e3b5ec38884
+  last_checked: '2026-07-21'
+  notes: Court-Ordered Financial Obligations [Facility] (OYA Policy II-F-2.4)
+- id: oya-ii-f-3-0
+  url: https://www.oregon.gov/oya/policies/II-F-3.0.pdf
+  sha256: 90b9f943cece15a37fb5c577d53ed0fe518d2a169d675ab0222c749725e64a6a
+  last_checked: '2026-07-21'
+  notes: Youth Mail in OYA Facilities (OYA Policy II-F-3.0)
+- id: oya-ii-f-3-3
+  url: https://www.oregon.gov/oya/policies/II-F-3.3.pdf
+  sha256: d3f6ea6e01915d5809875eea4f1f91e63e79112338468d9d3f4cdb9b110d327f
+  last_checked: '2026-07-21'
+  notes: Youth Marriage - Facility (OYA Policy II-F-3.3)
+- id: oya-ii-f-3-4
+  url: https://www.oregon.gov/oya/policies/ii-f-3.4.pdf
+  sha256: 23fc2e589f7ea147e106cca5ee1c817dd3a42ff4f51574163e983e6511363c27
+  last_checked: '2026-07-21'
+  notes: Youth Use of Telephones (OYA Policy II-F-3.4)
+- id: oya-ii-f-3-6
+  url: https://www.oregon.gov/oya/policies/II-F-3.6.pdf
+  sha256: d486318b891babdda0f7a53d8a7dc9629ffff2efc457acc689bced0d5e87a54b
+  last_checked: '2026-07-21'
+  notes: Youth Legal Materials and Assistance (OYA Policy II-F-3.6)
+- id: oya-ii-f-3-7
+  url: https://www.oregon.gov/oya/policies/II-F-3.7.pdf
+  sha256: 6f9d9136c4014e730ff6c3c565031aa1014ea4d387885caf3851a86f43559144
+  last_checked: '2026-07-21'
+  notes: Religious Practice in Facilities (OYA Policy II-F-3.7)
+- id: oya-iii-a-1-0
+  url: https://www.oregon.gov/oya/policies/III-A-1.0.pdf
+  sha256: b17283aeee19735e711f3112c2dcfa6c42ab607a1733081de0ffa9454e03e0a0
+  last_checked: '2026-07-21'
+  notes: Youth Incident Reports (Community) (OYA Policy III-A-1.0)
+- id: oya-iii-a-2-0
+  url: https://www.oregon.gov/oya/policies/III-A-2.0.pdf
+  sha256: 70be9f7814ac9da571d4bdfd5e97ab0c5cea0c9b4f527a8fa1990a9ea714d63e
+  last_checked: '2026-07-21'
+  notes: Targeted Case Management (OYA Policy III-A-2.0)
+- id: oya-iii-a-2-1
+  url: https://www.oregon.gov/oya/policies/III-A-2.1.pdf
+  sha256: 97c51999712323591b7b6c71b249826e3fe0844ead8453c0bab66a11aabbce4b
+  last_checked: '2026-07-21'
+  notes: Youth Legal Assistance [Community] (OYA Policy III-A-2.1)
+- id: oya-iii-a-2-2
+  url: https://www.oregon.gov/oya/policies/III-A-2.2.pdf
+  sha256: b6cf1dcb4c18ad4fb275703f296be2599c53425fe298854da3c60f8e77c872a1
+  last_checked: '2026-07-21'
+  notes: English Plus - Youth [Community] (OYA Policy III-A-2.2)
+- id: oya-iii-a-3-0
+  url: https://www.oregon.gov/oya/policies/III-A-3.0.pdf
+  sha256: e289beac3adcbeb3483d6c54614b174798ddc109ca7d7eb56716385566cc396c
+  last_checked: '2026-07-21'
+  notes: Foster Care Eligibility, Referral, Placement, and Safety (OYA Policy III-A-3.0)
+- id: oya-iii-a-3-1
+  url: https://www.oregon.gov/oya/policies/III-A-3.1.pdf
+  sha256: 69fc5ccac865f4bdccd413e75367bd1d177a45d4113b18c33d9c49e622063aa1
+  last_checked: '2026-07-21'
+  notes: Recreational Activities in Substitute Care Placements (OYA Policy III-A-3.1)
+- id: oya-iii-a-4-0
+  url: https://www.oregon.gov/oya/policies/III-A-4.0.pdf
+  sha256: 0f4a3f432662cacecf126c8240c39acf154fb4c74b3ebf226aed32e780a36d1a
+  last_checked: '2026-07-21'
+  notes: Searches of Youth and Areas; Processing of Contraband; Evidence in Community Placements (OYA
+    Policy III-A-4.0)
+- id: oya-iii-a-6-0
+  url: https://www.oregon.gov/oya/policies/III-A-6.0.pdf
+  sha256: b55282f52e44613d79caf6a40340f276215c93f35b78d01e04f767b9e6713070
+  last_checked: '2026-07-21'
+  notes: Field Office Safety and Security Standards (OYA Policy III-A-6.0)
+- id: oya-iii-a-7-0
+  url: https://www.oregon.gov/oya/policies/III-A-7.0.pdf
+  sha256: d68ef3db7b263bec0a4488add02f26e3c266e4b32edefa514c6c01719a0b4d75
+  last_checked: '2026-07-21'
+  notes: Unauthorized Absence from Assigned Community Location (OYA Policy III-A-7.0)
+- id: oya-iii-a-8-0
+  url: https://www.oregon.gov/oya/policies/III-A-8.0.pdf
+  sha256: 8d236be01295f225966700b042f5fad7396486b73f698bbc446bff0030f21dd2
+  last_checked: '2026-07-21'
+  notes: Use of Physical Intervention and Restraints in the Community (OYA Policy III-A-8.0)
+- id: oya-iii-a-9-0
+  url: https://www.oregon.gov/oya/policies/III-A-9.0.pdf
+  sha256: d8bce76f37b15208007bd1456920d896237950ca2ebfc9f89e873614138ee88d
+  last_checked: '2026-07-21'
+  notes: Youth Personal Property in the Community (OYA Policy III-A-9.0)
+- id: oya-iii-b-1-0
+  url: https://www.oregon.gov/oya/policies/III-B-1.0.pdf
+  sha256: fefe37b031bdd8bf0f4836bfa3c059568e0e998621bbed67850b0fdcf7cb4051
+  last_checked: '2026-07-21'
+  notes: Tribal Notification [Field] (OYA Policy III-B-1.0)
+- id: oya-iii-b-2-0
+  url: https://www.oregon.gov/oya/policies/III-B-2.0.pdf
+  sha256: 2895bfb5ef085996889086778c46e13ad972d5f3935b71df33b606f9b2c9ec3c
+  last_checked: '2026-07-21'
+  notes: New Commitments to OYA Legal Custody (OYA Policy III-B-2.0)
+- id: oya-iii-b-3-0
+  url: https://www.oregon.gov/oya/policies/III-B-3.0.pdf
+  sha256: b8c1bf403587d61c0dedd115dcbfaabe3292876e5574b665e67aa99820b41d79
+  last_checked: '2026-07-21'
+  notes: Youth Identification Photographs [Community] (OYA Policy III-B-3.0)
+- id: oya-iii-b-4-0
+  url: https://www.oregon.gov/oya/policies/III-B-4.0.pdf
+  sha256: 822b6df453343a0b2db247d6151310455669d593e66514101c9d45ffe8b776d9
+  last_checked: '2026-07-21'
+  notes: Youth Rights and Grievances in the Community (OYA Policy III-B-4.0)
+- id: oya-iii-c-1-1
+  url: https://www.oregon.gov/oya/policies/III-C-1.1.pdf
+  sha256: 3fbb8ed0792f208ac22076c2814e9887dd66a59af098d6ed494e842e32f26801
+  last_checked: '2026-07-21'
+  notes: Field Custody and Use of Detention/Jail (OYA Policy III-C-1.1)
+- id: oya-iii-c-1-3
+  url: https://www.oregon.gov/oya/policies/iii-c-1.3.pdf
+  sha256: d9fa646adcc833a5194b051055d8e0dab1c3dd84b50b327fe3b5764c92af9459
+  last_checked: '2026-07-21'
+  notes: Behavior Incentives and Reinforcing Behavior (Community) (OYA Policy III-C-1.3)
+- id: oya-iii-c-2-1
+  url: https://www.oregon.gov/oya/policies/III-C-2.1.pdf
+  sha256: 9c2f78886203030f227effd52b1607e597f8f1557f8c950f39c3cc3449563e4d
+  last_checked: '2026-07-21'
+  notes: Court-Ordered Restitution (OYA Policy III-C-2.1)
+- id: oya-iii-c-3-0
+  url: https://www.oregon.gov/oya/policies/III-C-3.0.pdf
+  sha256: 03fe6a1e1275d55945e17d40a9a8eb38787383b061ae00050428ab9a96cef2cd
+  last_checked: '2026-07-21'
+  notes: Youth Assessment for Sex Offense Risk and Protective Factors - Community (OYA Policy III-C-3.0)
+- id: oya-iii-c-3-1
+  url: https://www.oregon.gov/oya/policies/iii-c-3.1.pdf
+  sha256: dbec3dd78193aff9e7e7e921335218584cebde8bd98be66292a8456f512269b5
+  last_checked: '2026-07-21'
+  notes: Substance Use Disorder Screening, Assessment, and Treatment in Community Settings (OYA Policy
+    III-C-3.1)
+- id: oya-iii-c-4-0
+  url: https://www.oregon.gov/oya/policies/III-C-4.0.pdf
+  sha256: 1b976a799283aa7bb4b685e744fbfc5a85f5ff9d6e3134d819ba983f32f423c4
+  last_checked: '2026-07-21'
+  notes: Placement/Return of Youth on Interstate Compact - Juvenile (OYA Policy III-C-4.0)
+- id: oya-iii-d-1-1
+  url: https://www.oregon.gov/oya/policies/III-D-1.1.pdf
+  sha256: 60cf3b56e3ec607b3af3df525e620cb0126d5362d71904a5aead4a202abe1c72
+  last_checked: '2026-07-21'
+  notes: Juvenile Parole/Probation Agreement (OYA Policy III-D-1.1)
+- id: oya-iii-d-1-2
+  url: https://www.oregon.gov/oya/policies/III-D-1.2.pdf
+  sha256: c8e1a18fa967d004af3f6683f4c4bf61cf594c99f082bd5d05456f2beef9cb24
+  last_checked: '2026-07-21'
+  notes: Courtesy Supervision (OYA Policy III-D-1.2)
+- id: oya-iii-d-1-3
+  url: https://www.oregon.gov/oya/policies/III-D-1.3.pdf
+  sha256: d7bd6a5654e2229325b133f654bf772842505f4783cd530e8ada528f6d3eacf2
+  last_checked: '2026-07-21'
+  notes: OYA Juvenile Parole/Probation Officer Contact Standards (OYA Policy III-D-1.3)
+- id: oya-iii-d-2-1
+  url: https://www.oregon.gov/oya/policies/III-D-2.1.pdf
+  sha256: ab81c959d5b12fe9652fd761fa6bdf9f619b9596cfde279230f1dff55937c8d7
+  last_checked: '2026-07-21'
+  notes: Youth Transports and Escorts within the Community (OYA Policy III-D-2.1)
+- id: oya-iii-d-2-3
+  url: https://www.oregon.gov/oya/policies/III-D-2.3.pdf
+  sha256: 3e9a2a12bbdfac981fb8f6434e8979bb2b1c7ae8fa497c446ca67fd2ebeeeab7
+  last_checked: '2026-07-21'
+  notes: 'Staff and Youth Safety: Meeting with Youth in Community Settings (OYA Policy III-D-2.3)'
+- id: oya-iii-d-3-0
+  url: https://www.oregon.gov/oya/policies/III-D-3.0.pdf
+  sha256: 9b79d40023e4c1f85ef266f5152df753f3f74174aed492fa1ccb122d71db9305
+  last_checked: '2026-07-21'
+  notes: Medication Management in Substitute Care (OYA Policy III-D-3.0)
+- id: oya-iii-d-3-3
+  url: https://www.oregon.gov/oya/policies/III-D-3.3.pdf
+  sha256: e5762d2a30eb9df0890804d7d779494def434c73647a8e06fb738cc8cf750736
+  last_checked: '2026-07-21'
+  notes: Substance Use Screening Youth [Community] (OYA Policy III-D-3.3)
+- id: oya-iii-d-3-4
+  url: https://www.oregon.gov/oya/policies/iii-d-3.4.pdf
+  sha256: bb6ff4224b7a4503be716b0877d211205d34692cd1907250148b123ae47b0525
+  last_checked: '2026-07-21'
+  notes: Suicide Prevention in Community Placements (OYA Policy III-D-3.4)
+- id: oya-iii-d-3-5
+  url: https://www.oregon.gov/oya/policies/III-D-3.5.pdf
+  sha256: dceee203b1c8d35a731709d31f9aa9f86b7f4d8ad8d9fc2524c0185e1e1fa14e
+  last_checked: '2026-07-21'
+  notes: Youth Tattoo Removal Service [Community] (OYA Policy III-D-3.5)
+- id: oya-iii-d-3-6
+  url: https://www.oregon.gov/oya/policies/III-D-3.6.pdf
+  sha256: 13977d5a16c0e0510a10b0169846e40a25d1c999aca83dd53e18a9dbbe36bd68
+  last_checked: '2026-07-21'
+  notes: Family Planning Services - Youth (OYA Policy III-D-3.6)
+- id: oya-iii-d-3-7
+  url: https://www.oregon.gov/oya/policies/III-D-3.7.pdf
+  sha256: e0acb106d68595d9f9b40bead9c926b0573211e03b55edc56cbc71c45f91a85b
+  last_checked: '2026-07-21'
+  notes: Individualized Services (OYA Policy III-D-3.7)
+- id: oya-iii-d-5-1
+  url: https://www.oregon.gov/oya/policies/III-D-5.1.pdf
+  sha256: c8f5eb7418ca8cd5c6c45e12e2bf77df931ff9cd97647628916a4a2f5f8fffd2
+  last_checked: '2026-07-21'
+  notes: Polygraph Use with Youth Who Have Committed Sexual Offenses – Community (OYA Policy III-D-5.1)
+- id: oya-iii-d-8-0
+  url: https://www.oregon.gov/oya/policies/III-D-8.0.pdf
+  sha256: 7706b900886a2dbc8e3b48a1f2e0ba6b232507724283900e9fa14871fcded6d8
+  last_checked: '2026-07-21'
+  notes: Religious Practices in Substitute Care Placements (OYA Policy III-D-8.0)
+- id: oya-iii-d-9-0
+  url: https://www.oregon.gov/oya/policies/III-D-9.0.pdf
+  sha256: 5b61bc8e057cb4fd2dc4911e9e79883b715f343b3ad554089534949e213df979
+  last_checked: '2026-07-21'
+  notes: Youth Identification/Driver's Licenses/Permits (OYA Policy III-D-9.0)
+- id: oya-iii-e-1-0
+  url: https://www.oregon.gov/oya/policies/III-E-1.0.pdf
+  sha256: 5fdbdb067a83973cb34c84e8968f6c2547beab13380b81394624fa99b20dceeb
+  last_checked: '2026-07-21'
+  notes: Case Closure (OYA Policy III-E-1.0)

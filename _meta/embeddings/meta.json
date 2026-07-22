@@ -3,8 +3,8 @@
  "model": "minishlab/potion-retrieval-32M",
  "dim": 512,
  "granularity": "document",
- "n_chunks": 68319,
- "fingerprint": "b4d18c402cdee2658d46bc7bae4427e0dca678ecd7d96e49fe8a91ac087fd10e",
+ "n_chunks": 68483,
+ "fingerprint": "dec33f8914acab3b581d23b187cdc0c87f71ad0e85879cd5b6bc7d902d82123a",
  "repr_chars": 1400,
  "note": "one int8 vector per document (title + At-a-glance + head of full text), L2-normalized*127; cosine \u2248 int32 dot / 127^2. Rebuild with src/build_embeddings.py after any ingest."
 }

@@ -1,0 +1,400 @@
+---
+id: oya-i-a-13-0
+title: "Parole Revocation"
+doc_type: policy
+citation: "OYA Policy I-A-13.0"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/I-A-13.0.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "cec9fb05fc2b9b9e79dc1727e788ced7e0083ee82192199c4f5f30a2e5394367"
+effective_date: "2026-01-29"
+last_reviewed: null
+source_version: "Effective 01/29/2026"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N I-A-N.N Parole Revocation Effective: N/N/N' x7"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - ors-420.017
+    - ors-420.045
+    - ors-420.905
+    - ors-420.915
+    - ors-420a.115
+    - ors-420a.120
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-A-13.0.pdf> (retrieved 2026-07-21).
+
+# Parole Revocation (OYA Policy I-A-13.0)
+
+## At a glance
+
+OYA Policy I-A-13.0 — Parole Revocation. Oregon Youth Authority. Effective 01/29/2026.
+
+## Full text
+
+                            OREGON YOUTH AUTHORITY
+                                     Policy Statement
+                            Part I – Administrative Services
+ Subject:
+ Parole Revocation
+ Section – Policy Number:                  Supersedes:     Effective Date:   Date of Last
+ A: General Administration – 13.0 I-A-13.0 (10/22) 01/29/2026 Review/Revision:
+                                     I-A-13.0 (09/16)                None
+                                     II-F-2.3 (10/05)
+                                     II-F-2.3 (12/02)
+ Related         ORS 420.017 Diversion Plan
+ Standards       ORS 420.045 Parole; discharge; revocation of parole
+ and             ORS 420.905 through ORS 420.915 (Apprehension of escaped,
+ References:      absent or paroled adjudicated youth)
+                 ORS 420A.115 Parole of adjudicated youth
+                 ORS 420A.120 Suspension of parole or conditional release;
+                  rules
+                 OAR 416, Division 300 Parole and Revocations
+                 OYA policy: III-D-1.1 Juvenile Parole-Probation Agreement
+                  III-A-2.1 Youth Legal Assistance - Community
+                  II-F-3.6 Legal Materials and Assistance - Facility
+                  II-F-1.1 Youth Grievance Process - Facility
+                 JJIS forms: OYA 3001 Juvenile Parole/Probation Agreement
+                  OYA 3021 Notice of Formal Parole Revocation Hearing
+                  OYA 3022 Formal Parole Revocation Hearing Report
+                  OYA 3023 Order of Revocation of Parole
+                  OYA 3024 Notice of Preliminary Parole Revocation Hearing
+                  OYA 3025 Notice of Right to Formal Parole Revocation Hearing
+                  OYA 3026 Hearing Officer's Report on Preliminary Hearing
+                  OYA 4040 YCF Request for Warrant
+ Related         None
+ Procedures:
+ Policy Owner                        Approved:
+
+ Community Services Assistant
+ Director                                  ________________________
+                                           Mike Tessean, Director
+
+I.     PURPOSE:
+
+       This policy provides general guidelines for the parole revocation process of youth
+       on OYA parole.
+
+II.    POLICY DEFINITIONS
+
+       Due process: The process to which a youth is entitled when the youth’s
+       conditional release on parole is at risk of being revoked.
+
+       The minimum requirements for due process are:
+       (1) Written notice to the youth of the alleged violations of parole;
+       (2) Disclosure of evidence against the youth;
+       (3) An opportunity to be heard in person and to present witnesses and
+           documentary evidence;
+       (4) A right to confront and cross-examine adverse witnesses (unless a hearing
+           officer specifically finds good cause for not allowing confrontation);
+       (5) A neutral and detached hearing officer; and
+       (6) A written statement by the hearing officer as to the evidence relied on and
+           reasons for revoking parole.
+
+       Formal parole revocation hearing: A hearing to determine whether parole
+       should be revoked that is conducted after a preliminary parole revocation hearing
+       has resulted in a recommendation for revocation or another sanction.
+
+       Formal parole revocation hearing committee: A committee comprised of three
+       OYA staff selected by the superintendent who did not charge the youth with the
+       parole violation.
+
+       Juvenile Justice Information System (JJIS): A statewide integrated electronic
+       information system designed, developed, and implemented to support a
+       continuum of services and shared responsibility among all members of the
+       juvenile justice community. In a collaborative partnership between the Oregon
+       Youth Authority (OYA) and Oregon's county juvenile departments, JJIS is
+       administered by the State of Oregon through OYA.
+
+       Juvenile Parole/Probation Agreement: A written agreement between a
+       paroling youth and the Oregon Youth Authority that establishes the youth’s
+       conditions of parole.
+
+       Parole: The conditional release of a youth from a youth correctional facility
+       subject to the director’s authority to revoke parole.
+
+       Parole Revocation: An act of rescinding a youth’s parole.
+
+       Preliminary parole revocation hearing: An administrative hearing to determine
+       if probable cause exists to believe a youth has violated one or more conditions of
+       parole, and it is in the best interests of the youth and the community to revoke
+       parole.
+
+       Preliminary parole revocation hearing officer: A person designated by the
+       juvenile department who is someone other than the person(s) bringing
+       allegations against the youth that may result in the youth’s parole revocation.
+
+       Youth Correctional Facility (YCF): An OYA facility used for the confinement of
+       youth placed in the legal or physical custody of OYA (includes secure facilities
+       and transition camps).
+
+III.   POLICY
+
+       OYA has identified diversity, equity, and inclusion as an agency priority and
+       initiative, with a goal to build a respectful, diverse, equitable and inclusive
+       environment for youth and staff that is free from harassment, discrimination and
+       bias. Data shows youth of color and LGBTQ+ youth are disproportionately
+       represented in the juvenile justice system. While OYA is only one part of that
+       system, OYA plays a critical role in addressing the historical and systemic
+       inequities it perpetuates. Staff must be aware of and address any potential bias
+       they may have when deciding whether to recommend revocation of a youth’s
+       parole.
+
+       The OYA director or designee has the authority to conditionally release on parole
+       a youth who is committed to the legal custody of OYA and placed in a youth
+       correctional facility. Youth paroled into the community are not restored full
+       freedom and must follow prescribed conditions documented in a written parole
+       agreement (OYA 3001 Juvenile Parole/Probation Agreement).
+
+       A youth’s failure to comply with the conditions of parole may result in a
+       recommendation of sanctions, including a parole revocation. OYA has
+       established its parole and parole revocation standards and procedures in OAR
+       416, division 300, consistent with due process and other law requirements.
+
+       The following are general standards for OYA staff to follow when initiating a
+       youth’s parole revocation process.
+
+IV.    GENERAL STANDARDS
+
+       A.     Request for Parole Revocation
+
+              1.    Staff must base the request to revoke parole on verifiable facts that
+                    clearly demonstrate:
+
+                    a)     A serious violation of one or more of the youth’s parole
+                           agreement;
+
+                    b)     No less restrictive placement options or sanctions are
+                           available or appropriate to address the youth’s violations;
+                           and
+
+                    c)     Continuation of the current placement is not in the best
+                           interest of the youth or the community.
+
+              2.    The JPPO must complete a Notice of Preliminary Parole
+                    Revocation Hearing (YA 3024) and outline the verifiable facts that
+                    support a youth’s alleged violation(s) or why continued placement
+                    in the community is not in the youth’s or community’s best interest.
+
+              3.    The JPPO’s field supervisor must review the written report (YA
+                    3024) and determine if the request for revocation is warranted or if
+                    alternative actions may be taken.
+
+              4.    If the request for revocation is authorized by the field supervisor,
+                    the JPPO must schedule a preliminary revocation hearing with the
+                    preliminary parole revocation hearing officer designated by the
+                    juvenile department.
+
+              5.    Community Services administration must develop and maintain
+                    preliminary parole revocation hearing officer training to be shared
+                    with juvenile departments upon request.
+
+       B.     Preliminary Parole Revocation Hearing
+
+              1.    The JPPO must give the youth and the youth’s parent/guardian (if
+                    applicable) written notice of the intent to revoke parole prior to the
+                    preliminary revocation hearing. This notice must be in compliance
+                    with OAR 416-300-0050.
+
+              2.    Prior to the preliminary parole revocation hearing, the JPPO must
+                    provide the preliminary parole revocation hearing officer and the
+                    youth all documentary evidence that will be used to support the
+                    parole revocation recommendation.
+
+              3.    The preliminary parole revocation hearing officer will conduct a
+                    preliminary revocation hearing in accordance with OAR 416-300-
+                    0050 to determine if probable cause exists to believe the youth
+                    violated parole.
+
+              4.    Sanctions other than parole revocation
+
+                    If it is determined that probable cause exists to believe the youth
+                    violated parole and the JPPO and the preliminary parole revocation
+                    hearing officer agree to impose a sanction other than parole
+                    revocation, the hearing officer may impose such a sanction.
+
+                    If the JPPO and the preliminary parole revocation hearing officer do
+                    not agree on a sanction, the preliminary parole revocation hearing
+                    officer must recommend a parole revocation.
+
+              5.    Parole revocation recommended
+
+                    a)     When the preliminary revocation hearing officer determines
+                           probable cause exists to believe the youth violated parole
+                           and the recommendation is to revoke a youth’s parole, the
+                           field supervisor or designee must notify the appropriate
+                           intake facility of the youth’s name, estimated date and time
+                           of arrival and any known behavior or health concerns.
+
+                    b)     The JPPO handling the revocation must arrange
+                           transportation for the youth's return to the appropriate facility.
+
+                            The JPPO must ensure the following documents are
+                            delivered to appropriate staff at the receiving facility:
+
+                            1)     Hearing officer’s report;
+
+                            2)     Notice of Preliminary Hearing (YA 3024);
+
+                            3)     Notice of Right to Formal Parole Revocation Hearing
+                                   (YA 3025); and
+
+                            4)     Supporting documents.
+
+                     c)     The JPPO must complete a Revocation Referral
+                            Assessment in JJIS within 24 hours of the youth’s return to a
+                            facility.
+
+       C.     Formal Parole Revocation Hearing Youth Waiver
+
+              Any youth revoked to a youth correctional facility is entitled to a formal
+              parole revocation hearing. The youth may choose to waive the formal
+              parole revocation hearing after a preliminary parole revocation hearing
+              officer has recommended parole revocation.
+
+              1.     Staff must ensure the youth is provided a Notice of Right to Formal
+                     Parole Revocation Hearing (YA 3025), to inform the youth of the
+                     youth’s rights, including the right to speak with an attorney (at the
+                     youth's expense) prior to making a decision about a waiver.
+
+              2.     Staff must not influence the youth to waive or not waive a formal
+                     parole revocation hearing.
+
+              3.     The superintendent or designee may review a waiver any time after
+                     the waiver has been made. The superintendent or designee may
+                     cause a formal parole revocation hearing to be held if the
+                     superintendent or designee believes such hearing is in the youth’s
+                     best interest.
+
+       D.     Formal Parole Revocation Hearing
+
+              Each OYA facility must designate staff to serve on the facility’s formal
+              parole revocation hearing committee.
+
+              If a youth does not waive the formal revocation hearing, or the
+              superintendent believes such hearing is in the best interest of the youth,
+              the following procedures must be followed.
+
+              1.     The superintendent must designate one of the facility’s formal
+                     parole revocation hearing committee members as the chairperson,
+                     and convene the committee.
+
+              2.   A formal parole revocation hearing must be held within 60 days of a
+                   youth’s return to a youth correctional facility.
+
+                   Exception: If a petition has been filed charging the youth with new
+                   law violations, formal parole revocation hearing procedures must be
+                   suspended if the parole violation is contingent upon the outcome of
+                   the charges. The formal revocation hearing must be held within 60
+                   days of the disposition of the charges.
+
+              3.   Within a reasonable time before the formal parole revocation
+                   hearing is scheduled to occur, the hearing committee chairperson
+                   must provide notice to the youth and the youth's parent/guardian (if
+                   applicable) in accordance with OAR 416-300-0060. Written notice
+                   must be given to the youth explaining how the hearing will be
+                   conducted using a Notice of Formal Parole Revocation Hearing
+                   (OYA 3021).
+
+              4.   Staff must follow OAR 416-300-0060(3) if the youth requests to
+                   subpoena witnesses.
+
+              5.   The formal parole revocation hearing must be conducted before the
+                   parole revocation hearing committee in accordance with the
+                   procedures listed in OAR 416-300-0060.
+
+                   a)    An audio or video recording must be made of all oral
+                         testimony and presentations. The recording may be
+                         reviewed by the parole revocation hearing committee before
+                         any findings are determined, or in the event of a judicial
+                         review.
+
+                   b)    OYA must keep the recording at least 120 days after the
+                         final order is issued.
+
+              6.   Hearing outcome
+
+                   The committee chairperson must issue to the superintendent a
+                   Formal Parole Revocation Hearing Report (OYA 3022) from the
+                   hearing committee that contains the following:
+
+                   a)    A written summary of what occurred at the hearing, including
+                         the substance of the documents or testimony given in
+                         support of revocation and the youth’s response and
+                         presentation;
+
+                   b)    Ruling on admissibility of offered evidence;
+
+                   c)    Findings of fact; and
+
+                   d)    Recommendations for action by the superintendent or
+                         designee.
+
+              7.    Superintendent’s review
+
+                    The superintendent or designee must provide the youth a copy of
+                    the OYA 3022 with the hearing committee’s findings of fact and
+                    recommendations.
+
+                    The superintendent or designee must notify the youth of the youth’s
+                    right to file a written objection to the OYA 3022 within 10 days of
+                    receiving the proposed order. The youth may present objections
+                    orally, at the discretion of the superintendent.
+
+              8.    Final order
+
+                    After reviewing any exceptions and objections presented by the
+                    youth, the superintendent or designee must issue a final order
+                    using an Order of Revocation of Parole (OYA 3023).
+
+                    a)     The final order must include the action taken by the
+                           superintendent or designee and either incorporate the
+                           recommendations of the revocation hearing committee or set
+                           forth the superintendent’s or designee’s own findings of fact,
+                           conclusions, and rulings on admissibility of evidence and
+                           other matters.
+
+                    b)     The superintendent’s or designee’s final order must also set
+                           forth the youth’s right to petition for reconsideration or
+                           rehearing of the final order, and the statutes under which the
+                           final order may be appealed.
+
+                    c)     The superintendent or designee must immediately notify the
+                           committing court of the final order.
+
+                    d)     The superintendent or designee must give the youth a copy
+                           of the final order.
+
+              9.    The youth may file a petition for reconsideration or rehearing of a
+                    final order with the superintendent or designee in accordance with
+                    OAR 416-300-0060(7).
+
+       E.     Designated staff must record the appropriate JJIS Decision Points to
+              include:
+
+              1.    Preliminary parole revocation hearing; and
+
+              2.    Formal parole revocation hearing.
+
+V.     LOCAL OPERATING REQUIRED: NO
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/I-A-13.0.pdf> · retrieved 2026-07-21 · sha256 `cec9fb05fc2b9b9e79dc1727e788ced7e0083ee82192199c4f5f30a2e5394367`
+- Snapshot: `_meta/snapshots/oya-i-a-13-0.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

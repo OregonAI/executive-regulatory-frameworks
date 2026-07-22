@@ -257,6 +257,13 @@ profiles:
     governance: executive_branch
     policies_published: unknown
     governance_basis: ORS 468.010 (establishes Department of Environmental Quality); ORS 174.112
+    notes: "Investigated 2026-07-21: DEQ DOES publish an \"Internal Management Directives\"\
+      \ list (73 items, SharePoint list at /deq/Get-Involved/Lists/Internal Management Directives,\
+      \ enumerable via the anonymous _api/web/lists endpoint) but each item's \"Directive\"\
+      \ field is a link into an external records-management viewer (ormswd2.synergydcs.com/ORMSCMSearchDEQ),\
+      \ not a directly downloadable PDF — publicly reachable (200 OK, no auth) but needs\
+      \ its own text-extraction approach, distinct from the PDF-manifest pattern used elsewhere.\
+      \ Deferred; not yet ingested."
   department-of-fish-and-wildlife:
     governance: executive_branch
     policies_published: unknown
@@ -593,8 +600,13 @@ profiles:
     governance_basis: ORS 174.112 (executive department definition); OAR chapter 847 assigned per agency registry
   oregon-military-department:
     governance: executive_branch
-    policies_published: unknown
+    policies_published: web
+    policies_location: "https://www.oregon.gov/omd/employeeresources/pages/policies.aspx — mostly re-links DAS statewide\
+      \ policies and bare forms; OMD's own \"AGP\"-numbered policies are a small subset (4 ingested, 2 more image-only\
+      \ pending OCR/human review, 2026-07-21)"
     governance_basis: ORS 396.145 (establishes Military Department); ORS 174.112
+    notes: Its policy page is dominated by cross-links to DAS's statewide HR policies — only
+      documents with a genuine "OREGON MILITARY DEPARTMENT ... AGP-" header are OMD's own.
   oregon-military-department-office-of-emergency-management:
     governance: executive_branch
     policies_published: unknown
@@ -638,8 +650,12 @@ profiles:
     governance_basis: ORS 174.112 (executive department definition); OAR chapter 952 assigned per agency registry
   oregon-watershed-enhancement-board:
     governance: executive_branch
-    policies_published: unknown
+    policies_published: web
+    policies_location: "https://www.oregon.gov/oweb/resources/pages/statutes-policies.aspx — 3 named policies, no numbering\
+      \ scheme (2026-07-21)"
     governance_basis: ORS 174.112 (executive department definition); OAR chapter 695 assigned per agency registry
+    notes: Only 3 policies (customer service, mitigation-fund eligibility, tribal
+      relations); two carry no machine-readable effective date (image signature stamp).
   oregon-watershed-enhancement-board-oregon-agricultural-heritage-program:
     governance: executive_branch
     policies_published: unknown
@@ -650,8 +666,12 @@ profiles:
     governance_basis: ORS 182.454(8) (semi-independent state agency under ORS 182.454 to 182.472)
   oregon-youth-authority:
     governance: executive_branch
-    policies_published: unknown
+    policies_published: web
+    policies_location: "https://www.oregon.gov/oya/pages/policies/policy_list.aspx — static listing of a single numbered\
+      \ Policy Statement series (156 policies ingested, 2026-07-21)"
     governance_basis: ORS 420A.010 (establishes Oregon Youth Authority); ORS 174.112
+    notes: A single numbered "Policy Statement" series across parts 0/I/II/III (Mission,
+      Administrative Services, Facility Operations, Field/Community Services).
   parks-and-recreation-department:
     governance: executive_branch
     policies_published: unknown
@@ -662,8 +682,12 @@ profiles:
     governance_basis: ORS 174.112 (executive department definition); OAR chapter 859 assigned per agency registry
   public-utility-commission:
     governance: executive_branch
-    policies_published: unknown
+    policies_published: web
+    policies_location: "https://www.oregon.gov/puc/forms/Forms%20and%20Reports/Internal-Operating-Guidelines.pdf — a\
+      \ single 30-page governance document, no numbered series (2026-07-21)"
     governance_basis: ORS 756.014 (establishes Public Utility Commission); ORS 174.112
+    notes: One document (Internal Operating Guidelines) describing how open meetings,
+      rulemakings, and contested cases are run; no adoption date is machine-readable.
   public-utility-commission-oregon-board-of-maritime-pilots:
     governance: executive_branch
     policies_published: unknown

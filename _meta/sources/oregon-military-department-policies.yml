@@ -1,0 +1,30 @@
+group: oregon-military-department-policies
+title: Oregon Military Department policies
+kind: content-hash
+recheck: monthly
+last_checked: '2026-07-21'
+upstream_signal: 'Manifest hand-built from a header-by-header classification of every /omd/ PDF on https://www.oregon.gov/omd/employeeresources/pages/policies.aspx
+  (2026-07-21) — the page mostly re-links DAS statewide policies and bare forms, not OMD''s own body;
+  only documents with a genuine "OREGON MILITARY DEPARTMENT ... NUMBER: AGP-..." header were kept. Freshness:
+  re-fetch the listing page, re-classify headers, diff.'
+sources:
+- id: omd-agp-99-300-05
+  url: https://www.oregon.gov/omd/employeeresources/Documents/Criminal%20Background%20Check%20Policy.pdf
+  sha256: 952d7f209b3310dd00c17a3bdbec7fd0ef86ebcd0fc1b8bd8309d9a93954a15e
+  last_checked: '2026-07-21'
+  notes: Criminal Background Checks (OMD Policy AGP-99.300.05)
+- id: omd-agp-99-100-19
+  url: https://www.oregon.gov/omd/employeeresources/SiteAssets/Pages/Policies/99.100.19_Vehicle%20Access%20and%20Use_AGP%20Policy%2004.16.2026.pdf
+  sha256: 6b2f20abc3f78cce0ce7c6a5ab21e7e246a8985fbff992b0040d21e65451d2a8
+  last_checked: '2026-07-21'
+  notes: Vehicle Access and Use (OMD Policy AGP-99.100.19)
+- id: omd-agp-99-100-21
+  url: https://www.oregon.gov/omd/employeeresources/SiteAssets/Pages/Policies/99.100.21_Conflict%20of%20Interest%20AGP%20Policy%2001.01.pdf
+  sha256: 4acb122f846ebbae15fc0891a89c9b44b73d09f4b88620ba3b5785d29d51a8f3
+  last_checked: '2026-07-21'
+  notes: Conflict of Interest Policy (OMD Policy AGP-99.100.21)
+- id: omd-agp-99-300-07
+  url: https://www.oregon.gov/omd/employeeresources/SiteAssets/Pages/Policies/99.300.07_Criminal%20History%20Background%20Checks%20for%20Federal%20Security%20Clearances%20AGP%20Policy%20(1).pdf
+  sha256: 9b3a6747972445f87881f74a5d66a8610a2f614979fa0b15347fd7903f46b422
+  last_checked: '2026-07-21'
+  notes: Criminal History Background Checks for Federal Security Clearances (OMD Policy AGP-99.300.07)

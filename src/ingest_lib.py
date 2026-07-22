@@ -39,6 +39,16 @@ AGENCY_FURNITURE = {
     "department-of-human-services": [
         re.compile(r"^Page\s+\d+\s+of\s+\d+\b"),
     ],
+    # per-page footer "Page N of M   <num> <title>   Effective: MM/DD/YYYY" — trailing
+    # effective-date text means the shared FURN_RE's end-of-line 'Page N of M' doesn't match.
+    "oregon-youth-authority": [
+        re.compile(r"^Page\s+\d+\s+of\s+\d+\s+\S.*Effective:\s*[\d/]+\s*$"),
+    ],
+    # repeated per-page "ORDER NO." header field (its value is a stamp/image, not extracted
+    # text, so the label alone repeats on every page with nothing after it)
+    "public-utility-commission": [
+        re.compile(r"^ORDER NO\.\s*$"),
+    ],
 }
 
 

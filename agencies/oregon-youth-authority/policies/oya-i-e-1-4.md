@@ -1,0 +1,328 @@
+---
+id: oya-i-e-1-4
+title: "Public Records Management"
+doc_type: policy
+citation: "OYA Policy I-E-1.4"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/I-E-1.4.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "0af984e211c41818b5c959d76a954e497f48f346509b22969ab1f9736dc462bb"
+effective_date: "2019-04-05"
+last_reviewed: null
+source_version: "Effective 04/05/2019"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N I-E-N.N Public Records Management Effective' x6"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - ors-192.018
+    - ors-192.105
+    - ors-357.855
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-E-1.4.pdf> (retrieved 2026-07-21).
+
+# Public Records Management (OYA Policy I-E-1.4)
+
+## At a glance
+
+OYA Policy I-E-1.4 — Public Records Management. Oregon Youth Authority. Effective 04/05/2019.
+
+## Full text
+
+                             OREGON YOUTH AUTHORITY
+                                     Policy Statement
+                            Part I – Administrative Services
+ Subject:
+ Public Records Management
+ Section – Policy Number:                  Supersedes:       Effective Date:   Date of Last
+                                                                               Review:
+ E: Information Management – 1.4           I-E-1.4 (9/16)    04/05/2019        06/30/2025
+
+ Related             ORS 192.018 Written policies on use, retention and ownership of
+ Standards             public records; State Archivist approval
+ and                 ORS 192.105 State Archivist authorization for state officials to
+ References:          dispose of records; legislative records excepted; local government
+                      policy on disposing of public records; limitations; records officer;
+                      standards for State Records Center
+                     ORS 357.855 Advice and assistance on public record problems
+                     OAR Chapter 166 State Archives Division
+                     DAS statewide policies:
+                      107-004-050 (Information Asset Classification)
+                      107-001-020 (Public Records Management)
+                      107-004-150 (Cloud Computing)
+                     OYA’s Continuity of Operations Planning (COOP)
+                     OYA policies:
+                      0-7.0 (Use of Electronic Information Assets and Systems)
+                      I-C-9.0 (MCDs (Cell Phones) and Other Mobile Data Storage
+                      Devices)
+                      I-E-2.0 (Records Retention, Destruction and Archiving)
+                      I-E-2.1 (Public Records Requests for Agency Records)
+                      I-E-2.3 (Requests for Youth Information and Records)
+                      I-E-3.1 (Publication Management)
+                      I-E-3.2 (Information Asset Classification and Protection)
+ Related             None
+ Procedures:
+ Policy Owner:                             Approved:
+ Public Policy and Government
+ Relations Manager                         ________________________
+                                           Joseph O’Leary, Director
+
+I.     PURPOSE:
+
+       This policy is intended to comply with ORS 192.018 and DAS statewide policy
+       107-001-020 (Public Records Management) by defining OYA’s public records
+       management program.
+
+II.    POLICY DEFINITIONS:
+
+       Cloud computing: Has the same meaning as “Cloud Computing” defined in the
+       National Institute of Standards and Technology (NIST) Special Publication 800-
+       145, available at
+       http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf.
+
+       Custodian: A public body mandated, directly or indirectly, to create, maintain,
+       care for or control a public record. "Custodian" does not include a public body
+       that has custody of a public record as an agent of another public body that is the
+       custodian, unless the public record is not otherwise available.
+
+       Instant messaging: Real-time text communications between or among
+       computers or mobile devices over the Internet or functionally similar
+       communications network.
+
+       Metadata: Data that provides information about other data. Metadata assists in
+       resource discovery by allowing resources to be found by relevant criteria,
+       identifying resources, bringing similar resources together, distinguishing
+       dissimilar resources, and giving location information.
+
+       OYA Information Security Officer (ISO): OYA employee who is responsible for
+       overseeing the agency’s information security program to help ensure the security
+       objectives are addressed.
+
+       Public record: Has the meaning established in ORS 192.005. In general, it
+       refers to information that is prepared, owned, used or retained by a state agency
+       or political subdivision; relates to an activity, transaction or function of a state
+       agency or political subdivision; and is necessary to satisfy the fiscal, legal,
+       administrative or historical policies, requirements or needs of the state agency or
+       political subdivision.
+
+       Social media: Web-based and mobile communication technologies that allow
+       the creation and exchange of user-generated content such as comments or
+       responsive postings. Examples of “social media” include but are not limited to
+       Twitter, Flickr, blogging sites, Facebook, YouTube and Instagram.
+
+       Text messaging: Messages exchanged between fixed-line phones or mobile
+       phones and fixed or portable devices over a network. Excluded from the
+       definition of “text messages” are electronic mail (“e-mail”) communications,
+       whether such messages are exchanged among or between official state
+       government e-mail accounts or e-mail accounts maintained by private entities.
+
+       Unified Communications: A service of IBM , the packaged services or user
+       profiles available to agencies (e.g., instant messaging, video conferencing,
+       telephony, call management and call control across multiple systems). Also
+       known as IBM Unified Communications.
+
+III.   POLICY:
+
+       OYA maintains and manages its public records in a way that protects the integrity
+       of the records from the time of the record’s creation to the time of the record’s
+       final disposition, regardless of the technology or medium used to create or
+       communicate the record.
+
+IV.    GENERAL STANDARDS:
+
+       A.     Roles and Responsibilities
+
+              1.    Oregon law requires agencies to designate an agency records
+                    officer “to coordinate its agency’s Records Management Program”
+                    (ORS 192.105(2)(a)).
+
+                    OYA’s records officer serves as primary liaison with the State
+                    Archivist and receives training from the State Archivist in
+                    performing records management duties.
+
+              2.    OYA ensures public records are managed appropriately within the
+                    agency from the time of creation to final disposition by assigning
+                    these additional responsibilities to the following designated
+                    positions:
+
+                    a)     Agency retention coordinator: Develops and maintains OYA
+                           record retention schedules; provides information and
+                           consultation to OYA staff about records retention and
+                           destruction.
+
+                    b)     Agency archive coordinator: Develops and maintains
+                           agencywide archiving procedures and provides information
+                           and consultation to OYA staff about records storage and
+                           archiving.
+
+                    c)     OYA information security officer: Updates the agency
+                           information asset classification and protection matrixes; sets
+                           the standard of information asset protection and handling;
+                           coordinates a biennial review of the matrixes to ensure the
+                           matrixes are current and match the agency retention
+                           schedule. (See OYA policy I-E-3.2 Information Asset
+                           Classification and Protection.)
+
+                    d)     OYA communication manager: Ensures records placed on
+                           any social media platform by OYA is an accurate copy of an
+                           official record that is retained elsewhere by OYA, for
+                           required record retention purposes.
+
+                    e)     Chief information officer: Ensures agency compliance with
+                           DAS statewide cloud-computing policy (107-004-150; 107-
+                           004-150 PR), OAR chapter 166, and that appropriate access
+                           and version controls are applied to all electronically-stored
+                           records from record creation to final disposition.
+
+       B.     Education and Training
+
+              OYA provides basic public records training to newly-hired staff as a
+              component of its new employee orientation curriculum. Basic public
+              records training is incorporated into staff regular training at least once
+              every two years.
+
+       C.     Access and Ownership
+
+              Regardless of how public records are being stored, OYA has possession
+              and control over created records. OYA ensures all public records are
+              maintained and accessible for as long as required by applicable retention
+              schedules or litigation holds, through ongoing review of technological
+              advances.
+
+              OYA’s disaster mitigation process is addressed in OYA’s Business
+              Continuity Plan and Recovery Plans, and is incorporated by reference.
+
+       D.     Integrity
+
+              OYA ensures appropriate access and version controls are applied to all
+              electronically-stored records, from record creation to final disposition.
+              The authenticity of each record must be demonstrated either by certified
+              copy of paper records, or by accompanying metadata for electronic
+              records.
+
+       E.     Retention Generally
+
+              OYA preserves and classifies public records according to ORS chapter
+              192, OAR chapter 166, and DAS statewide policy 107-004-050 regarding
+              Information Asset Classification.
+
+              1.     Cloud computing
+
+                     OYA’s cloud-computing record retention processes comply with
+                     DAS statewide Cloud Computing policy (107-004-150; 107-004-150
+                     PR), and all requirements outlined in OAR chapter 166.
+
+              2.     E-mail
+
+                     a)       OYA e-mail accounts
+
+                              Most e-mails sent to or from staff OYA e-mail accounts meet
+                              the definition of a public record and are subject to search
+                              and production.
+
+                     b)       Private e-mail accounts
+
+                              Staff who use their private e-mail accounts to conduct OYA
+                              business must ensure their OYA e-mail accounts are copied
+                              on all such outgoing messages, and forward any received
+
+                           messages on which their OYA e-mail accounts are not
+                           copied immediately or as soon as practicable.
+                           Personal e-mail accounts (addresses) used to conduct OYA
+                           business may be subject to search and production.
+
+                    c)     Staff may refer to OYA policy 0-7.0 (Use of Electronic
+                           Information Assets and Systems) for acceptable use of the
+                           OYA e-mail system.
+
+              3.    Instant Messaging and Text Messaging
+
+                    OYA does not retain instant messages or text messages, and does
+                    not search any existing such messages in response to public
+                    records requests.
+
+                    Staff must record the substantive business content of such
+                    messages in other formats as prescribed by OYA policy 0-7.0 (Use
+                    of Electronic Information Assets and Systems).
+
+              4.    Social Media
+
+                    Records placed on a social media platform by OYA are copies of
+                    official records that are retained elsewhere per applicable retention
+                    schedules. Staff may refer to OYA policy I-E-3.1 (Publication
+                    Management) for proper social media communication standards.
+
+              5.    Unified Communications
+
+                    Public records created by services activated within the selected
+                    Unified Communications user profile will be maintained according
+                    to ORS chapter 192, OAR chapter 166 division 300.
+
+                    OYA’s Unified Communications records practices and procedures
+                    are based on the user profile selected and services available to
+                    OYA.
+
+              6.    Voicemail
+
+                    Voicemail messages are not considered public record. OYA does
+                    not retain voicemail messages, and does not search any existing
+                    voicemail messages in response to public records requests.
+
+                    Note: Staff must handle voicemail messages that are attached to
+                    e-mail messages as e-mail messages.
+
+       F.     Storage and Retrieval
+
+              1.    Paper Records
+                    OYA maintains an inventory of paper records, location, and
+                    retention period. Staff may refer to OYA policy (I-E-3.2 Information
+                    Asset Classification and Protection) to access the inventory.
+
+              2.    Electronic Records
+
+                    OYA maintains an inventory of electronic records.
+
+                    The chief information officer, in collaboration with the agency
+                    retention coordinator, must ensure that all retention periods have
+                    been met before deleting any data from large electronic record
+                    systems.
+
+       G.     Public Records Requests
+
+              OYA responds to public records requests as soon as practicable and
+              without unreasonable delay, according to timelines outlined in ORS
+              192.324 and ORS 192.329.
+
+              Staff must refer to OYA policies I-E-2.1 (Public Records Requests for
+              Agency Records) and I-E-2.3 (Requests for Youth Information and
+              Records) when responding to public records requests.
+
+       H.     Disposition and Destruction
+
+              OYA disposes of or destroys public records according to the requirements
+              of OAR chapter 166. OYA staff may refer to OYA policy I-E-2.0 (Records
+              Retention, Destruction and Archiving) for agency processes in public
+              record disposition and destruction.
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/I-E-1.4.pdf> · retrieved 2026-07-21 · sha256 `0af984e211c41818b5c959d76a954e497f48f346509b22969ab1f9736dc462bb`
+- Snapshot: `_meta/snapshots/oya-i-e-1-4.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

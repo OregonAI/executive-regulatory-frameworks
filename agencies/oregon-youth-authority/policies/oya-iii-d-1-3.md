@@ -1,0 +1,395 @@
+---
+id: oya-iii-d-1-3
+title: "OYA Juvenile Parole/Probation Officer Contact Standards"
+doc_type: policy
+citation: "OYA Policy III-D-1.3"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/III-D-1.3.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "d7bd6a5654e2229325b133f654bf772842505f4783cd530e8ada528f6d3eacf2"
+effective_date: "2024-10-29"
+last_reviewed: null
+source_version: "Effective 10/29/2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N III-D-N.N OYA JPPO Contact Standards Effect' x7"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-416-255-0010
+    - oar-416-255-0020
+    - oar-416-255-0030
+    - oar-416-300-0000
+    - oar-416-300-0010
+    - oar-416-300-0015
+    - oar-416-300-0020
+    - oar-416-300-0030
+    - oar-416-300-0040
+    - oar-416-300-0050
+    - oar-416-300-0060
+    - oar-416-300-0080
+    - ors-420.045
+    - ors-420.915
+    - ors-420a.023
+    - ors-420a.115
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/III-D-1.3.pdf> (retrieved 2026-07-21).
+
+# OYA Juvenile Parole/Probation Officer Contact Standards (OYA Policy III-D-1.3)
+
+## At a glance
+
+OYA Policy III-D-1.3 — OYA Juvenile Parole/Probation Officer Contact Standards. Oregon Youth Authority. Effective 10/29/2024.
+
+## Full text
+
+                            OREGON YOUTH AUTHORITY
+                                   Policy Statement
+                      Part III – Youth Services (Community)
+
+ Subject:
+ OYA Juvenile Parole/Probation Officer Contact Standards
+ Section – Policy Number:                Supersedes:         Effective Date:   Date of Last
+ D: Case Management – 1.3                 III-D-1.3 (1/24) 10/29/2024          Review/Revision:
+                                          III-D-1.3 (2/21)                   None
+                                          III-D-1.3 (12/18)
+ Related             ORS 420.045 Parole; discharge; revocation of parole
+ Standards           ORS 420.915 Procedure upon apprehension of escapee,
+ and                  absentee or parole violator; rules
+ References:         ORS 420A.023 (Authority of director to authorize youth correction
+                      officers to exercise power of peace officer)
+                     ORS 420A.115 Director, appointment
+                     OAR 416-300 Parole and Revocations
+                     OAR 416-255 Reentry Support and Services for DOC Offenders
+                      Releasing from OYA
+                     OYA Multidisciplinary Team (MDT) Standards
+                     OYA policy: I-A-9.0 Parent/Guardian Involvement in Youth
+                      Reformation
+                      I-A-11.0 Assessment, MDT, Case Planning
+                      II-A-1.4 Apprehension of Escaped Youth from OYA Facilities
+                      III-A-3.0 Youth Foster Care Eligibility, Referral, Placement and
+                      Safety
+                      III-A-7.0 Unauthorized Absence from Community Location or
+                      Escape from an OYA Facility
+                      III-B-1.0 Tribal Notification - Community
+                      III-D-2.3 Meeting with Youth in the Community
+                      III-C-1.3 Behavior Incentives and Reinforcing Behavior
+ Related             COM 416-255 Reentry Support and Services for DOC Youth
+ Procedures:         COM III-D-1.2 Courtesy Supervision
+ Policy Owner:                            Approved:
+
+ Community Services Assistant
+ Director                                ____________________
+                                         Joseph O’Leary, Director
+
+I.     PURPOSE:
+       This policy sets contact standards for OYA juvenile parole/probation officers with
+       youth, families, and providers.
+II.    POLICY DEFINITIONS:
+
+       Adjudicated Youth: A person placed in the legal custody of OYA through a
+       juvenile court, either in an OYA facility or placed in the community under
+       supervision.
+
+       DOC Youth: A person in the legal custody of the Department of Corrections
+       (DOC) and physical custody of OYA in an OYA facility.
+
+       Escapee: A youth who resides in an OYA facility:
+       • Who has left the grounds of a facility or work crew area without authorization;
+       • Whose location remains unknown after a reasonable search time regardless
+         of whether they have gone beyond the perimeters of the facility;
+       • Who has physically escaped during a secure transport or from a hospital
+         commitment; or
+       • Who has failed to return from an authorized leave at the specified date and
+         time.
+
+       Family: Includes a biological or legal parent, legal guardian, or other identified
+       family member or support person who is an active part of the youth’s treatment
+       team and case plan.
+
+       Youth: A person in the legal and physical custody of OYA, either in an OYA
+       facility or placed in the community under supervision, or a person in the legal
+       custody of the Department of Corrections and the physical custody of OYA.
+
+III.   POLICY:
+
+       OYA has identified diversity, equity, and inclusion as an agency priority and
+       initiative, with a goal to build a respectful, diverse, equitable and inclusive
+       environment for youth and staff that is free from harassment, discrimination and
+       bias. Data shows youth of color and LGBTQ+ youth are disproportionately
+       represented in the juvenile justice system. While OYA is only one part of that
+       system, it plays a critical role in addressing the historical and systemic inequities
+       it perpetuates. Regular contact with youth, families and providers supports OYA
+       staff to build and maintain developmental relationships with youth and families.
+       Positive relationships will help reduce staff bias and support youth behavior
+       change.
+
+       OYA protects the public by holding youth accountable, promoting change,
+       developing and improving skills, and increasing the likelihood that youth will go
+       on to lead productive, crime-free lives. OYA supports a culture of Positive Human
+       Development (PHD) to assist in achieving those goals. PHD is built on the
+       foundation of positive youth development and includes performing our duties in
+       support of the five levels of the PHD pyramid. The five levels are safety and
+       security, caring and supportive relationships, high expectations and
+       accountability, meaningful participation, and community connection. Successfully
+       conducting our work in alignment with PHD provides better support for youth
+       success.
+
+       OYA encourages interaction with youth through a developmental approach. A
+       developmental approach recognizes that most adolescent criminal behavior is
+       largely influenced by factors associated with adolescence and focuses on
+       providing opportunities that support development, especially around social and
+       emotional learning, decision-making and problem-solving, and self-efficacy and
+       self-identity.
+
+       Applying both this culture and approach, OYA assigns a JPPO to each youth in
+       its legal or physical custody. The JPPO has routine contact with youth to provide
+
+       support and reinforce treatment and development goals and progress. JPPOs
+       are the primary case manager for adjudicated youth, monitoring the youth’s case
+       plan, supporting development and ensuring compliance with probation/parole
+       conditions.
+
+IV.    GENERAL STANDARDS:
+
+       Youth contacts are intended to reinforce the case plan by identifying progress
+       toward short and long-term goals, support youth in behavior change, and monitor
+       compliance with probation and parole conditions.
+
+       A.     Adjudicated youth
+
+              1.    JPPOs must have face-to-face contact with each adjudicated youth
+                    on their caseloads at least once every 30 days.
+
+                    a)     Any exceptions must be authorized by the field supervisor. In
+                           those instances, JPPOs may use available technology (e.g.,
+                           remote video meetings) for the required contact.
+
+                    b)     If an exception(s) has been granted for a 30-day face-to-face
+                           contact, the JPPOs must at least have face-to-face contact
+                           with the youth once every 90 days.
+
+              2.    JPPOs must have face-to-face contact with adjudicated youth at
+                    the youth’s place of residence at least once every 90 days.
+
+                    a)     An exception may be authorized by the field supervisor, only
+                           if travel is not feasible or the contact would be unsafe for the
+                           JPPO.
+
+                    b)     JPPOs will follow safety standards listed in OYA policy
+                           III-D-2.3 Meeting with Youth in the Community when meeting
+                           youth in any community environment.
+
+       B.     JPPOs must have contact with DOC youth once every 30 days, and face-
+              to-face contact at least once every 90 days.
+
+       C.     All youth and family contacts must be documented as JJIS youth contact
+              notes, describing the contact content, who was present, the type of
+              contact (e.g., in person, by phone) and any authorized exceptions.
+              Contacts must be documented in JJIS within five business days of the
+              contact.
+
+       D.     JPPOs must participate in multidisciplinary team (MDT) meetings as
+              outlined in the OYA MDT Standards.
+
+       E.     JPPOs must notify the OYA tribal liaison/Native American program
+              coordinator when a youth identifies as Native American.
+
+              When a youth is an enrolled member of one of the nine federally
+              recognized tribes in Oregon, JPPOs must notify tribal representatives of
+
+              MDT meetings, significant events, and establish a routine communication
+              plan as outlined in OYA policy III-B-1.0 Tribal Notification – Community.
+
+       F.     Field supervisors must complete and document case reviews as outlined
+              in OYA policy I-A-11.0 Assessment, MDT, and Case Planning to verify
+              youth contacts and exceptions are noted in JJIS.
+
+V.     ADDITIONAL CONTACTS
+
+       The below contacts supplement the contacts listed above.
+
+       A.     Youth in OYA facilities
+
+              1.    Family contact
+
+                    a)     JPPOs must contact an adjudicated youth's family every 30
+                           days to engage the family in the youth’s case plan and
+                           inform the family of progress.
+
+                           Exceptions to family contact must be authorized by the field
+                           supervisor.
+
+                    b)     JPPOs must contact a DOC youth's family as appropriate to
+                           engage the family in the youth’s case plan and inform the
+                           family of progress.
+
+              2.    Case coordinator/camp counselor contact
+
+                    a)     JPPOs must contact an adjudicated youth’s case coordinator
+                           or camp counselor every 30 days to receive updated
+                           treatment information from facility or program staff.
+
+                    b)     JPPOs must contact a DOC youth’s case coordinator or
+                           camp counselor as appropriate to receive updated treatment
+                           information from facility staff.
+
+       B.     Youth on community supervision
+
+              1.    Adjudicated youth
+
+                    a)     Youth transitioning between placements
+
+                           JPPOs must have face-to-face contact with youth preferably
+                           the day of the transition placement (e.g., substitute care,
+                           home), or within ten days of the transition placement.
+
+                    b)     JPPOs must contact a youth’s family at least every 30 days
+                           to engage families in case planning and inform families of
+                           the youth’s progress. Exceptions to family contact must be
+                           authorized by the field supervisor.
+                    c)     JPPOs must contact a youth’s substitute care provider at
+                           least every 30 days to receive updated treatment and
+
+                         progress information.
+
+                         JPPOs may contact proctor parents to discuss behavior in
+                         the proctor home.
+
+                   d)    JPPOs must contact a foster parent(s) at least once per
+                         month to review the youth’s progress. The contact may be in
+                         person, by phone, or by email. Increased contact is advised
+                         when youth are presenting with behavioral or emotional
+                         difficulties in the foster home.
+
+                   e)    Courtesy supervision
+
+                         (1)    Primary (sending) JPPO must have face-to-face
+                                contact with the youth every 90 days.
+
+                         (2)    Courtesy (receiving) JPPO must have face-to-face
+                                contact with the youth every 30 days.
+
+                   f)    Youth who have absconded
+
+                         (1)    When staff are unable to contact youth who have
+                                absconded from their assigned community location,
+                                they must attempt to communicate with the youth or
+                                collateral contacts at least monthly. This includes
+                                people who the youth may contact or who may
+                                receive information about the youth’s location.
+
+                         (2)    Communication efforts must be documented in JJIS
+                                as a contact note.
+
+                   g)    Youth escapee from an OYA facility
+
+                         (1)     Staff must follow the standards in OYA policy III-A-
+                                 7.0 Unauthorized Absence from Assigned
+                                 Community Location or Escape from an OYA Facility.
+
+                         (2)     Staff must attempt contact with the parent/guardian
+                                 or collateral contacts of an escapee at least monthly.
+
+                         (3)     Communication efforts must be documented in JJIS
+                                 as a contact note.
+
+              2.   Paroled Youth with Public Safety Reserve (PSR) Crimes
+
+                   A higher level of community supervision must be provided during
+                   the first 90 days of parole to youth who were adjudicated for PSR
+                   crimes.
+
+                   a)    First 30 days of parole: At a minimum, the primary JPPO or
+                         other OYA staff must have weekly contact with the youth.
+                         The contact must be in person at least every other week. Off
+                         weeks may be by phone or video.
+
+              b)   Days 31-90 of parole: At a minimum, the primary JPPO or
+                   other OYA staff must have in-person contact with the youth
+                   every other week.
+
+              c)   The JPPO may also use other approaches to increase a
+                   youth’s parole supervision, including but not limited to:
+
+                   (1)    More frequent in-person contact or home visits (from
+                          primary JPPO or other OYA staff);
+
+                   (2)    More frequent phone contact;
+
+                   (3)    Increased monitoring of community activity;
+
+                   (4)    Limiting overnight stays away from approved
+                          placement; and
+
+                   (5)    Restricting activities that expose youth to high-risk
+                          situations.
+
+              d)   Youth parole supervision level review
+
+                   (1)    The JPPO must review a youth’s increased level of
+                          parole supervision with the field supervisor after the
+                          first 30 and 90 days, and every 90 days thereafter.
+
+                   (2)    The JPPO must discuss with the youth the youth’s
+                          progress after 90 days and any recommendations to
+                          maintain or decrease the level of parole supervision.
+                          The JPPO must also inform the youth that the youth
+                          may choose to discuss the recommendations with the
+                          field supervisor.
+
+                   (3)    Field supervisors must approve the removal or
+                          continuation of a youth’s increased level of parole
+                          supervision.
+
+              e)   The need for continuing a youth’s increased level of parole
+                   supervision may be based on a number of factors, including,
+                   but not limited to:
+
+                   (1)    Criminal history and risk for recidivism (ORRA and
+                          ORRA-V);
+
+                   (2)    Crime type and circumstances;
+
+                   (3)    Treatment and services completed while in an OYA
+                          close-custody facility;
+                   (4)    Psychosocial maturity needs (based on the Healthy
+                          Youth Development domain in the case plan);
+
+                         (5)    Placement setting and level of supervision;
+
+                         (6)    Community and victim impact;
+
+                         (7)    Community support (e.g., family, mentors); and
+
+                         (8)    Efforts toward meeting case plan goals and
+                                compliance with parole conditions.
+
+              3.   DOC youth
+
+                   JPPOs may only contact DOC youth who have been released from
+                   an OYA facility and placed on post-prison supervision as agreed by
+                   the supervising agency. (See Community Services procedure COM
+                   416-255 Reentry Support and Services for DOC Youth.)
+
+VI.    LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/III-D-1.3.pdf> · retrieved 2026-07-21 · sha256 `d7bd6a5654e2229325b133f654bf772842505f4783cd530e8ada528f6d3eacf2`
+- Snapshot: `_meta/snapshots/oya-iii-d-1-3.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

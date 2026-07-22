@@ -1,0 +1,559 @@
+---
+id: oya-i-b-1-0
+title: "Payroll Reporting/Issuing Paychecks"
+doc_type: policy
+citation: "OYA Policy I-B-1.0"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/I-B-1.0.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "168cdb316679e7596ab6f57b225212b96eb79d716222b23ad9b90a3f117bd8f8"
+effective_date: "2013-01-29"
+last_reviewed: null
+source_version: "Effective 01/29/2013"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N I-B-N.N Payroll Reporting; Issuing Paycheck' x10"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - ors-651.110
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-B-1.0.pdf> (retrieved 2026-07-21).
+
+# Payroll Reporting/Issuing Paychecks (OYA Policy I-B-1.0)
+
+## At a glance
+
+OYA Policy I-B-1.0 — Payroll Reporting/Issuing Paychecks. Oregon Youth Authority. Effective 01/29/2013.
+
+## Full text
+
+                            OREGON YOUTH AUTHORITY
+                                     Policy Statement
+                            Part I – Administrative Services
+
+ Subject:
+ Payroll Reporting; Issuing Paychecks
+ Section – Policy Number:                   Supersedes:          Effective Date:     Date of Last
+                                          I-B-1.0 (03/11)                            Review:
+ B: Financial Management – 1.0            I-B-1.0 (9/08)   01/29/2013
+                                                                         08/02/2024
+                                          I-B-1.0 (11/06)
+                                          I-B-1.0 (12/02)
+ Related             29 CFR 553, Fair Labor Standards Act of 1938
+ Standards           ORS 651.110 (Assistance and cooperation in enforcement of Fair
+ and                  Labor Standards Act of 1938)
+ References:         Department of Administrative Services, State Controller’s Division
+                      (DAS-SCD); Oregon Accounting Manual (OAM) 45.05.0000.PO
+                      through 45.50.0000.PO;
+                     Department of Administrative Services, Human Resources
+                      Division, policies Division 60: Employee Leave
+                     Applicable Collective Bargaining Agreements (AFSCME Local
+                      191, SEIU)
+                     OYA forms: YA 2236 (Payroll Release Form)
+                      YA 2237 (Request for Payroll Advance)
+                      YA 2238 (Lost Check Affidavit)
+                      YA 8020 (Notification of Separation)
+ Related            FAC I-B-1.0(a) Sick Leave
+ Procedures:        FAC I-B-1.0(b) Overtime Assignment in Facilities
+ Policy Owner:                            Approved:
+
+ Chief Financial Officer
+                                            ________________________
+                                            Fariborz Pakseresht, Director
+
+I.     PURPOSE:
+
+       This policy describes OYA’s process for reporting and documenting staff work
+       time and issuing paychecks.
+
+II.    POLICY DEFINITIONS:
+
+       Payroll staff: The staff responsible for and trained in various time-keeping
+       activities, including receiving and reviewing time sheets, entering time sheet
+       information into an automated payroll system, and other related activities.
+
+       Supervisor/Manager: A staff member’s immediate supervisor and other
+       manager with designated responsibility for monitoring the staff member’s work
+       hours.
+
+       OYA Time-tracking Information System (OTIS): The Oregon Youth Authority’s
+       automated staff time-tracking information system.
+
+       Time event: Any event outside a regular work schedule recorded on a time
+       sheet including but not limited to leave requests, overtime requests, and shift
+       trade requests.
+
+III.   POLICY:
+
+       OYA staff work time will be reported in a manner that results in accurate payroll
+       reporting, adequate backup documentation, and compliance with applicable
+       Collective Bargaining Agreements, Department of Administrative Services State
+       Controllers Division (DAS-SCD) policies, and federal government policies.
+       Paychecks will be produced and distributed in a consistent way throughout OYA.
+
+IV.    GENERAL STANDARDS:
+
+       A.      Time Sheets
+
+               1.   Authorization
+
+                    a)       Staff who are required to report hours worked due to their
+                             status under the Fair Labor Standards Act (FLSA) and
+                             applicable Collective Bargaining Agreements must record
+                             actual hours worked.
+
+                             For example, when such staff work a flexible schedule, the
+                             hours and days actually worked must be reflected on their
+                             time sheets using the OTIS flex time event code (FLEX).
+
+                    b)       Supervisors/Managers must have a process to keep record
+                             of their staff’s leave time. The record is used to reconcile
+                             with the staff’s time sheet information.
+
+                    c)       Staff will mark their time sheets as “Completed” in OTIS. If
+                             supervisors/managers approve time sheets, the
+                             supervisors/managers are attesting that the times reported
+                             are true and accurate.
+
+                    d)       Staff and supervisors/managers complete and approve time
+                             sheets in OTIS on or after the last workday of the pay period.
+                             In some cases, staff may complete their time sheets in OTIS
+                             prior to the last working day and project their time through
+                             the end of the pay period, with supervisor/manager approval.
+
+                    e)       Supervisors/Managers will approve time sheets in OTIS after
+                             the staff member’s shift is completed on the staff member’s
+                             last workday of the pay period.
+
+                    f)     If a staff member is unavailable to complete their time sheet
+                           in OTIS because of extended leave, the supervisor/manager
+                           will both complete and approve the time sheet in OTIS.
+
+                    g)     Central Payroll will pull a report from OTIS that contains all
+                           pay and leave information and enter it into the payroll
+                           system.
+
+                    h)     Payroll staff must not enter their own payroll information into
+                           the payroll system.
+
+                           Payroll staff’s approved time sheets must be entered by a
+                           designee assigned by the Payroll Manager.
+
+                    i)     Staff who engage in regular work hours or work overtime at
+                           an office/facility other than their assigned location must
+                           complete a separate time sheet for hours worked at each
+                           location.
+
+               2.   Corrections
+
+                    a)     Generally, corrections made after time sheets have been
+                           approved or interfaced will be done by the affected staff and
+                           the supervisor/manager.
+
+                    b)     The supervisor/manager or Central Payroll may make
+                           changes that benefit staff, with notification to the affected
+                           staff.
+
+                           Example: A staff member claims 40 hours of vacation but
+                           has accumulated only 32, resulting in eight hours of leave
+                           without pay. However, the staff member has at least eight
+                           hours of accrued compensatory or personal business time.
+                           The supervisor/manager or Central Payroll may change
+                           eight of the 40 vacation hours to compensatory or personal
+                           business leave on the time sheet, and notify the staff
+                           member of the change.
+
+                    c)     Changes that are detrimental to a staff member must be
+                           communicated to the staff member in person or in writing.
+
+                           Example: A staff member improperly claims sick leave. The
+                           supervisor/manager or Central Payroll makes the correction
+                           and calls the staff member regarding the correction.
+
+                    d)     Corrections should be made by the fifth workday of the
+                           month following the pay period in order to be included with
+                           that month’s statistics. If the need for corrections is
+                           discovered after the fifth workday and the staff member is
+                           unavailable, the supervisor/manager will:
+
+                           (1)      Authorize the necessary corrections by requesting the
+                                    time sheet be removed from OTIS by Central Payroll;
+
+                           (2)      Communicate in writing to the staff member
+                                    explaining the corrections; and
+
+                           (3)      Notify Central Payroll that the corrected time sheet is
+                                    ready to be entered.
+
+       B.      Overtime
+
+               1.   Authorization
+
+                    a)     All overtime must be approved by a supervisor/manager or
+                           designee through OTIS prior to the overtime shift, except for
+                           emergency situations.
+
+                           (1)      Emergency situations are unscheduled overtime
+                                    necessary to respond to safety and security issues or
+                                    the delivery of therapeutic services where it is
+                                    unreasonable to contact the supervisor/manager for
+                                    approval.
+
+                           (2)      Staff will request overtime in OTIS prior to the
+                                    overtime shift. The supervisor/manager, or designee,
+                                    will review and approve or deny the request in OTIS.
+
+                                    In facilities that use a centralized scheduler, the
+                                    scheduler will have final approval of overtime time
+                                    events.
+
+                           (3)      When attendance to work-related meetings requires
+                                    overtime compensation, an overtime time event must
+                                    be requested in OTIS.
+
+                    b)     In non-emergency situations when a supervisor/manager or
+                           designee is not available to immediately approve the
+                           overtime request in OTIS, staff must obtain verbal approval
+                           and enter the time event into OTIS prior to the overtime shift.
+                           The supervisor/manager or designee will approve the
+                           overtime in OTIS when feasible.
+
+               2.   Scheduling
+
+                    a)     Supervisors/Managers will schedule staff leave in a way that
+                           minimizes overtime use.
+
+                    b)     See appropriate Collective Bargaining Agreements for
+                           provisions regarding scheduling leave.
+
+               3.   Monitoring
+
+                    Supervisors/Managers, or designees, will use overtime reports
+                    provided by Central Payroll to monitor staff overtime and earned
+                    compensatory time.
+
+               4.   Compensation
+
+                    a)    Collective Bargaining Agreements provide the most current
+                          provisions regarding overtime and compensatory time.
+
+                          See DAS-SCD policy for management and unrepresented
+                          staff provisions.
+
+                    b)    SEIU-represented, FLSA non-exempt staff:
+
+                          (1)      May be paid in cash or in compensatory time for
+                                   overtime worked.
+
+                                   The staff member will make this choice when they
+                                   enter the time event into OTIS.
+
+                          (2)      Compensatory time accumulated in excess of 80
+                                   hours will be paid in cash.
+
+                          (3)      Staff may request to have a portion or all of their
+                                   compensatory time accrued balance paid to them.
+                                   Requests must be made in writing to the staff’s
+                                   supervisor. If approved, payment will be made on the
+                                   next applicable pay date.
+
+                    c)    SEIU-represented, FLSA-exempt staff:
+
+                          (1)      Receive straight time accrued for overtime worked on
+                                   a time-for-time basis.
+
+                          (2)      Straight time:
+
+                                   (a)     Must be used within the fiscal year earned or
+                                           will be lost; and
+
+                                   (b)     Has no cash value.
+
+                          (3)      Are subject to Collective Bargaining Agreement
+                                   provisions regarding timely use of accumulated
+                                   compensatory time.
+
+                          (4)      Are responsible for monitoring and managing
+                                   compensatory time, as are their
+                                   supervisors/managers.
+
+                    d)    AFSCME-represented staff:
+
+                            Receive cash or compensatory time for overtime worked.
+                            Compensatory time accumulated in excess of 80 hours must
+                            be paid in cash.
+
+                            Staff may request to have a portion or all of their
+                            compensatory time accrued balance paid to them. Requests
+                            must be made in writing to the staff’s supervisor. If approved,
+                            payment will be made on the next applicable pay date.
+
+                     e)     Unrepresented and management, FLSA non-exempt staff:
+
+                            (1)      Will receive either compensatory time or cash for
+                                     overtime worked at the supervisor’s/manager’s
+                                     discretion.
+
+                            (2)      Must be paid in cash for compensatory time
+                                     accumulated in excess of 80 hours.
+
+                            (3)      Staff may request to have a portion or all of their
+                                     compensatory time accrued balance paid to them.
+                                     Requests must be made in writing to the staff’s
+                                     supervisor. If approved, payment will be made on the
+                                     next applicable pay date.
+
+                     f)     Management, FLSA-exempt staff:
+
+                            (1)      May earn compensatory time or cash for actual time
+                                     worked on a holiday at time-and-one-half.
+
+                            (2)      Must get written pre-approval from their supervisors to
+                                     work on a holiday.
+
+       C.      Leave Authorization
+
+               1.    All leave will be authorized using the OTIS Time Event screen.
+
+               2.    Vacation leave scheduled in accordance with Collective Bargaining
+                     Agreements for facility staff may be scheduled on a calendar or
+                     some similar means for administrative ease. The
+                     time event may be entered into OTIS by the staff member and
+                     approved by the supervisor/manager at a later time that still
+                     complies with relevant payroll deadlines for time sheet submission.
+
+               3.    Accrued sick leave is the only leave that may be used without prior
+                     written approval. Staff will provide reasonable notice for sick leave
+                     and follow facility or local procedures.
+
+               4.    Vacation and compensatory time may not be used for unscheduled
+                     sick leave, except for leave under the Family Medical Leave Act
+                     (FMLA) or Oregon Family Leave Act (OFLA).
+
+               5.    Supervisors/Managers are responsible for:
+
+                     a)     Verifying the staff member has sufficient accrued time for
+                            requested time off, using payroll reports provided by Central
+                            Payroll;
+
+                     b)     Verifying that requested time off will not impact the workload
+                            of the work area by causing unnecessary overtime to accrue;
+
+                     c)     Determining if requests for sick leave qualify under FMLA or
+                            OFLA; and
+
+                     d)     Approving or denying leave requests prior to the leave
+                            occurring, except unscheduled sick leave which is generally
+                            approved on the day staff return to work following sick leave
+                            events.
+
+               6.    In facilities that use a centralized scheduler, the scheduler will have
+                     final approval of time events.
+
+       D.      Leave without Pay (LWOP)
+
+               Supervisors/Managers will ensure all projected instances of LWOP are
+               reported to Central Payroll by the payroll cutoff date (approximately five
+               business days prior to the end of the month) to prevent overpayments to
+               the LWOP staff.
+
+               1.    When a staff member incurs or will incur LWOP after the payroll
+                     cutoff date, the supervisor/manager must contact Central Payroll by
+                     telephone or e-mail so the paycheck can be canceled and reissued
+                     in the correct amount.
+
+               2.    A LWOP time event and a time sheet must be completed and
+                     approved in OTIS to document all LWOP hours for staff on
+                     extended leave including workers’ compensation claims or under
+                     FMLA or OFLA.
+
+       E.      Processing paychecks
+
+               Regular monthly and mid-month staff paychecks are processed a few
+               days prior to the 1st and the 15th of each month, respectively. Paychecks
+               are based on information entered by Central Payroll.
+
+       F.      Distribution of staff paychecks and pay stubs.
+
+               1.    An agency payroll or fiscal staff member who has update authority
+                     to the Oregon State Payroll Application (OSPA) must not receive or
+                     distribute payroll checks or direct deposit pay stubs. This includes
+                     daily manual payroll checks.
+
+               2.    OYA will provide staff paychecks, pay stubs, and payroll reports to
+                     all OYA locations at least one day prior to the day paychecks are to
+                     be issued. Paychecks are released as follows:
+
+                     a)    Payday on a weekday: paychecks will be available for
+                           distribution to staff no later than 8 AM on payday.
+
+                     b)    Payday on a weekend or a holiday: paychecks will be
+                           available to staff no later than 8 AM on the last weekday
+                           workday prior to payday.
+
+                     c)    Staff not scheduled to work on payday: paychecks may be
+                           released the day prior to payday if the paycheck is available
+                           and the staff has completed a YA 2236.
+
+                     d)    December paycheck dated January 1: released the first
+                           working day in January. This will avoid the possibility of the
+                           December paycheck being included in the prior year
+                           earnings for tax purposes.
+
+               3.    As required by the State Treasurer, paychecks may not be cashed
+                     or deposited by any staff member until the official payday even
+                     though they may have received the check earlier as allowed above.
+
+               4.    Upon receipt of the paycheck, it is the staff member’s responsibility
+                     to review the paycheck for accuracy. Any discrepancies should be
+                     reported to payroll staff immediately for correction.
+
+               5.    Electronic deposit pay stubs may be distributed at any time prior to
+                     payday upon availability.
+
+       G.      Special Paychecks
+
+               1.    Special paychecks are those which are processed and written
+                     outside the normal payroll cycle.
+
+               2.    Special checks may be written for the following reasons:
+
+                     a)    Adjustments for errors on the regular payroll cycle, including
+                           time sheet entry errors and incorrect deductions;
+
+                           Ordinarily, reimbursement to correct these errors will be
+                           made in the next regular payroll cycle. However, a special
+                           check may be issued at the request of a staff member.
+                           Requests for corrections (either in writing or via corrected
+                           time sheet) must be approved by the staff member’s
+                           supervisor/manager prior to being sent to Central Payroll for
+                           review.
+
+                     b)    Pay for newly-hired staff;
+
+                           Paychecks are routinely issued to a newly-hired staff
+                           member who has worked 32 hours or more in the month.
+
+                           (1)      A Personnel Action form must be submitted to Human
+                                    Resources Section and forwarded to Central Payroll
+                                    when new staff work more than 32 hours.
+
+                     (2)      New staff who have worked less than 32 hours in the
+                              month and wish to be paid before issuance of the first
+                              regular payroll check must request a pay advance.
+                              (See section c) below).
+
+               c)    Pay advances;
+
+                     A staff member must complete form YA 2237 (Request for
+                     Payroll Advance) and submit it to their supervisor/manager
+                     for approval. The supervisor/manager will send it to Central
+                     Payroll.
+
+                     (1)      A staff member may request a 60% draw against
+                              salary and wages earned but not paid to date, less
+                              any wage attachments.
+
+                     (2)      Advance paychecks are issued only when it has been
+                              established that a bona fide emergency exists.
+                              Payment of ordinary debts, other routine obligations,
+                              and departure on scheduled leave are not considered
+                              to be emergencies.
+
+                              Examples of emergency situations include:
+
+                              •       Death in the family,
+                              •       Major car repairs,
+                              •       Theft of funds,
+                              •       Automobile accident (loss of vehicle use),
+                              •       Accident or sickness,
+                              •       Destruction or major damage to home,
+                              •       New staff lack of funds, or
+                              •       Moving due to transfer or promotion.
+
+                     (3)      A receipt or written verification may be required as
+                              supporting evidence for each request.
+
+                     (4)      If the request is denied, it will be returned to the staff
+                              member with a notation as to why it was denied.
+
+                     (5)      If approved, the regular paycheck will be decreased
+                              by the amount of the advance drawn. Advance
+                              paychecks will not be issued in the following month to
+                              compensate for this shortage.
+
+                     (6)      No more than one advance paycheck will be made to
+                              a staff member in one month.
+
+                     (7)      No more than two pay advances will be made to a
+                              staff member during a calendar year.
+
+                           (8)      If a staff member requests an advance after the
+                                    payroll cutoff, the staff member’s paycheck may be
+                                    held and rewritten for the proper amount to avoid an
+                                    overpayment.
+
+                     d)    Pay owed to staff terminating from state employment (not
+                           including staff transferring to another state agency);
+
+                           (1)      Special paychecks will automatically be issued to staff
+                                    who terminate employment during the month,
+                                    provided the payroll unit has 48 hours notification.
+
+                                    See OYA form YA 8020 (Notice of Separation).
+
+                           (2)      Pay for unused vacation leave (up to 250 hours),
+                                    compensatory time, and overtime will be included with
+                                    the staff member’s final paycheck.
+
+                           (3)      Final paychecks will be in check form only. Direct
+                                    deposit of final paychecks is not an option.
+
+                           (4)      A special paycheck will not be issued for staff who
+                                    transfer to another state agency, unless it qualifies as
+                                    a pay advance. Staff who transfer to another state
+                                    agency will receive their final pay from OYA during
+                                    the regular payroll cycle.
+
+                3.   Special payroll checks will not be written to pay for overtime,
+                     compensatory time, or accumulated vacation time with the intent of
+                     reducing the amount of taxes withheld.
+
+                4.   Special check requests must be approved by the staff member’s
+                     supervisor/manager, and submitted to Central Payroll.
+
+                     Central Payroll reviews for completeness and appropriate
+                     signatures, makes proper calculations for payment, and routes to
+                     the Accounting Manager, or designee, for approval.
+
+                5.   Any pay produced outside of the regular payroll cycles cannot be
+                     directly deposited into a staff member’s bank account. The staff
+                     member or the supervisor/manager must indicate how the check
+                     will be distributed (mail to the staff member’s home; mail to the
+                     facility/office; or picked up by the staff member, staff member’s
+                     representative, or appropriate OYA staff).
+
+                6.   Special paychecks may take up to 72 hours to process.
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/I-B-1.0.pdf> · retrieved 2026-07-21 · sha256 `168cdb316679e7596ab6f57b225212b96eb79d716222b23ad9b90a3f117bd8f8`
+- Snapshot: `_meta/snapshots/oya-i-b-1-0.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

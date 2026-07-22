@@ -1,0 +1,267 @@
+---
+id: oya-iii-a-9-0
+title: "Youth Personal Property in the Community"
+doc_type: policy
+citation: "OYA Policy III-A-9.0"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/III-A-9.0.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "d8bce76f37b15208007bd1456920d896237950ca2ebfc9f89e873614138ee88d"
+effective_date: "2023-10-26"
+last_reviewed: null
+source_version: "Effective 10/26/2023"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N III-A-N.N Youth Personal Property in the Co' x5"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/III-A-9.0.pdf> (retrieved 2026-07-21).
+
+# Youth Personal Property in the Community (OYA Policy III-A-9.0)
+
+## At a glance
+
+OYA Policy III-A-9.0 — Youth Personal Property in the Community. Oregon Youth Authority. Effective 10/26/2023.
+
+## Full text
+
+                             OREGON YOUTH AUTHORITY
+                                      Policy Statement
+                        Part III – Community Services (Youth)
+
+ Subject:
+ Youth Personal Property in the Community
+ Section – Policy Number:                   Supersedes:          Effective Date:     Date of Last
+                                                                                     Review:
+ A: General Administration - 9.0           III-A-9.0 (5/19) 10/26/2023
+                                                                           10/26/2025
+                                           III-A-9.0 (2/17)
+                                           III-A-9.0 (9/12)
+ Related             OYA policy: III-A-4.0 Searches of Youth and Areas; Processing
+ Standards            Contraband or Evidence in Community Placements
+ and                  III-A.6.0 Field Office Safety and Security Standards
+ References:
+ Related             Local field office protocols
+ Procedures:
+ Policy Owner:                               Approved:
+
+ Community Services Assistant
+ Director                                    ________________________
+                                             Joseph O’Leary, Director
+
+I.     PURPOSE:
+
+       This policy establishes standards for OYA field staff regarding youth personal
+       property inventory, storage, and return while a youth is under supervision in the
+       community.
+
+II.    POLICY DEFINITIONS:
+
+       Personal property: Any item belonging to a youth that can be moved, including,
+       but not limited to, jewelry, money, radio, stereo, non-state-issued clothing,
+       posters, knickknacks, and photographs. Personal property does not include
+       items purchased or provided for a youth at OYA's, a substitute care provider's, or
+       other government agency's expense.
+
+       Substitute care: Residential placements in the community that provide 24-hour-
+       a-day care or treatment, excluding a relative’s home. Such placements include,
+       but are not limited to, foster care, proctor care, or contracted residential treatment
+       programs.
+
+III.   POLICY:
+
+       Youth may have personal property while in a substitute care placement. The type
+       of personal property may be determined by the substitute care provider. OYA is
+       not responsible for the damage, theft or loss of a youth’s personal property while
+       the youth is in a substitute care placement. OYA may place limits on the quantity
+
+       of personal property a youth may retain while in a substitute care placement.
+       OYA establishes appropriate controls for the management of youth personal
+       property held by OYA to minimize damage, theft or loss of items.
+
+       OYA has identified diversity, equity and inclusion as an agency priority and
+       initiative, with a goal to build a respectful, diverse, equitable and inclusive
+       environment for youth and staff that is free from harassment, discrimination and
+       bias. Data shows youth of color and LGBTQ+ youth are disproportionately
+       represented in the juvenile justice system. While OYA is only one part of that
+       system, it plays a critical role in addressing the historical and systemic inequities
+       it perpetuates. OYA staff must demonstrate respect in handling and transporting
+       youth property.
+
+IV.    GENERAL STANDARDS:
+
+       A.     Youth Property in Substitute Care Placements
+
+              1.     Contract administrators must ensure substitute care providers have
+                     policies and procedures to identify:
+
+                     a)      Allowable youth personal property; and
+
+                     b)      Personal property tracking, inventory, and storage.
+
+              2.     Staff must work with substitute care providers to ensure youth
+                     understand limitations on personal property while in a substitute
+                     care placement.
+
+                     a)      OYA must provide youth with designated storage devices for
+                             personal property, unless the youth wants to use their own
+                             equivalent storage options. The storage devices (travel kit)
+                             include two duffle bags, one toiletry bag, and one plastic
+                             tote. The quantity of youth personal property must fit in the
+                             storage device for ease of transport.
+
+                     b)      Personal property storage beyond these limits must be
+                             approved by the youth’s juvenile parole/probation officer
+                             (JPPO).
+
+                     c)      OYA staff must not use trash bags to transport or store youth
+                             property.
+
+              3.     Property Search/Inventory Upon Youth Placement/Return
+
+                     Staff must not allow youth to have access to their property,
+                     including anything a youth is carrying (e.g., in a pocket or
+                     backpack), until a contraband search has been completed.
+
+                     a)      Staff must search the youth’s property for contraband items
+                             before leaving the youth’s property at a substitute care
+                             program.
+
+                    b)      Staff must follow OYA policy III-A-4.0 (sections G and H)
+                            when searching, documenting, and confiscating any
+                            contraband items found during the search.
+
+              4.    Returning Property Left at Substitute Care Programs
+
+                    a)      Staff must ensure every possible effort is made to return
+                            personal property to a youth when the youth leaves a
+                            substitute care placement.
+
+                    b)      Staff must work with the substitute care provider to ensure
+                            personal property is returned to the youth’s family when the
+                            youth is not available to receive property.
+
+                    c)      Staff must pick up a youth’s property from the substitute care
+                            provider within 30 days of the youth exiting the program, if a
+                            program is unable to return the property directly to the youth
+                            or youth’s family.
+
+                    d)      OYA may receive a personal property item inventory from
+                            the provider. The inventory must be retained in the youth’s
+                            case file.
+
+       B.     Youth Personal Property Storage
+
+              1.    OYA field offices have limited storage capacity for youth personal
+                    property collected from substitute care providers. OYA may store
+                    youth personal property for a reasonable amount of time based on
+                    available space.
+
+              2.    Staff must search and inventory youth personal property before
+                    placing it in storage at an OYA field office.
+
+              3.    Stored items must be retained in OYA-designated storage devices
+                    (travel kits) and clearly labeled with the youth’s name.
+
+              4.    Local field offices must have a local written protocol about youth
+                    personal property tracking and storage.
+
+       C.     Disposition of unclaimed property
+
+              1.    Staff must notify a youth and the youth’s family, in writing via
+                    standard mail and email (when available), when resource
+                    limitations no longer allow OYA or a substitute care provider to
+                    store the youth’s property. The notice must include the following:
+
+                    a)      A copy of the written record listing the personal property in
+                            OYA storage;
+
+                    b)      A request for the youth or youth’s family to contact the local
+                            field office to claim the property; and
+
+                     c)     A statement that the youth’s property will be donated to a
+                            local charity or destroyed if not claimed within 30 days.
+
+                     d)     Donation or destruction of spiritual or religious items.
+
+                            (1)     Staff must contact the OYA Native American services
+                                    coordinator and or the OYA Native American tribal
+                                    liaison for Native American religious, cultural or
+                                    spiritual items to properly handle these items. Native
+                                    American practices do not allow for destruction or
+                                    donation of sacred items.
+
+                            (2)     Staff must contact an OYA religious services
+                                    coordinator for proper handling of any other spiritual
+                                    or religious items prior to the donation or destruction
+                                    of the items.
+
+              2.     Staff must retain a copy of the written notice in the youth’s file,
+                     along with a final property disposition notation.
+
+       D.     Lost, Stolen, or Damaged Personal Property
+
+              Staff must refer a youth to the following process if the youth believes loss
+              of personal property is a result of OYA negligence.
+
+              1.     The youth may file a claim letter with the Oregon Department of
+                     Administrative Services, Risk Management Division (RMD); 1225
+                     Ferry St SE, U105; Salem OR 97301.
+
+                     The letter must include:
+
+                     a)     The youth’s name and location;
+
+                     b)     The date of loss (within 90 days of loss or knowledge of
+                            loss);
+
+                     c)     Specifics regarding the loss (what, where, how);
+
+                     d)     The name(s) of staff witness(es) and work phone number(s);
+
+                     e)     The replacement value (attach receipts if possible); and
+
+                     f)     An explanation detailing how the state is liable for the loss.
+
+              2.     The letter may be submitted by:
+
+                     a)     A youth’s parent/guardian; or
+
+                     b)     A youth who is over age 18, emancipated, or whose
+                            parent/guardian is unavailable. The youth must explain why
+                            the youth is submitting the claim instead of the
+                            parent/guardian.
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: YES
+
+       Each field office must have a local protocol to address the following:
+
+       A.     Where youth personal property items will be stored;
+
+       B.     How to verify items have been searched prior to storage;
+
+       C.     The maximum length of time items may be stored; and
+
+       D.     A process for tracking stored items.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/III-A-9.0.pdf> · retrieved 2026-07-21 · sha256 `d8bce76f37b15208007bd1456920d896237950ca2ebfc9f89e873614138ee88d`
+- Snapshot: `_meta/snapshots/oya-iii-a-9-0.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

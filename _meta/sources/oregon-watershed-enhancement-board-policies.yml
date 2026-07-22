@@ -1,0 +1,25 @@
+group: oregon-watershed-enhancement-board-policies
+title: Oregon Watershed Enhancement Board policies
+kind: content-hash
+recheck: monthly
+last_checked: '2026-07-21'
+upstream_signal: 'Manifest hand-built from the "Statutes & Policies" page (https://www.oregon.gov/oweb/resources/pages/statutes-policies.aspx,
+  2026-07-21) — only 3 of its 4 PDF links are OWEB policies (one is a parking-lot map, excluded); no numbering
+  scheme, so identity is by path/filename. Freshness: re-fetch the page, diff the PDF-link set.'
+sources:
+- id: oweb-customer-service-policy
+  url: https://www.oregon.gov/oweb/Documents/OWEB-Policy-Customer-Service-Standards.pdf
+  sha256: c10358b93189e56c231ab47f246ed02f1858e277a447988bd52837468a23e810
+  last_checked: '2026-07-21'
+  notes: customer-service-policy|Customer Service Policy
+- id: oweb-mitigation-guidance
+  url: https://www.oregon.gov/oweb/Documents/Policy-Mitigation-Guidance-2009.pdf
+  sha256: 8312075e9ed3fbd5e13712ab2cf1fe4046ff47d258d46027a22cea5f34cd3d7d
+  last_checked: '2026-07-21'
+  notes: mitigation-guidance|Mitigation Guidance — Eligible Uses of OWEB Funds Related to Mitigation Projects
+    and Funds
+- id: oweb-tribal-relations-policy
+  url: https://www.oregon.gov/oweb/Documents/Tribal-Policy-Signed-2018.pdf
+  sha256: 63065971e3ed38ca938e3f60e87a3e53b98df5e844352b51a141eb399997928c
+  last_checked: '2026-07-21'
+  notes: tribal-relations-policy|Revised Statement of State-Tribal Relations Policy

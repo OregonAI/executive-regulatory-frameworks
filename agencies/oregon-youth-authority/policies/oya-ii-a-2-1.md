@@ -1,0 +1,369 @@
+---
+id: oya-ii-a-2-1
+title: "Control of Tools, Hazardous Materials and Sharps in OYA Facilities"
+doc_type: policy
+citation: "OYA Policy II-A-2.1"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/II-A-2.1.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "d63880f67c5d0b2e253bdab8d32974940e1507f9a8fec08e94360e3f40589def"
+effective_date: "2026-01-29"
+last_reviewed: null
+source_version: "Effective 01/29/2026"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N II-A-N.N Control of Tools, Hazardous Materi' x7"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/II-A-2.1.pdf> (retrieved 2026-07-21).
+
+# Control of Tools, Hazardous Materials and Sharps in OYA Facilities (OYA Policy II-A-2.1)
+
+## At a glance
+
+OYA Policy II-A-2.1 — Control of Tools, Hazardous Materials and Sharps in OYA Facilities. Oregon Youth Authority. Effective 01/29/2026.
+
+## Full text
+
+                               OREGON YOUTH AUTHORITY
+                                          Policy Statement
+                            Part II – Youth Services (Facilities)
+ Subject:
+ Control of Tools, Hazardous Materials, and Sharps in OYA Facilities
+ Section – Policy Number:                         Supersedes:            Effective Date:    Date of Last
+ A: Security – 2.1                       II-A-2.1 (05/12) 01/29/2026     Revision/Review:
+                                         II-A-2.1 (03/07)                None
+                                         II-A-2.1 (08/96)
+ Related            Performance-based Standards (PbS), Juvenile Correction and
+ Standards           Detention Facilities; Security
+ and                American Correctional Association, Standards for Juvenile
+ References:         Correctional Facilities; 5-JCF-2A-28 (Tools Control); 5-JCF-5C-62
+                     (Medical and Dental Instrument Control)
+                    OYA policies: II-A-1.0 (Facility Access)
+                     II-A-2.0 (Searches of Youth and Youth Property in OYA Facilities)
+                     I-C-7.3 (Hazard Communications Program)
+                     II-D-1.4 (Medication Management in OYA Facilities)
+                    OYA forms: YA 4008 Facility Youth Prohibited Items
+                    Attachment A: Dangerous Tools, Hazardous Materials, and
+                     Sharps
+ Related            Facility local protocols
+ Procedures:
+ Policy Owner:                                    Approved:
+
+ Facility Services Assistant Director
+                                                  _______________________
+                                                  Mike Tessean, Director
+
+I.      PURPOSE:
+        The purpose of this policy is to establish an effective agency plan to ensure
+        control of tools, hazardous materials, and sharps and promote safe operations in
+        all areas of OYA close-custody facilities.
+
+II.     POLICY DEFINITIONS:
+        Dangerous Tools: Tools that when used inappropriately may cause death,
+        injury, or be used as an escape device or weapon.
+        Hazardous Materials: Solvents and other chemicals or products that may cause
+        death or serious injury if used inappropriately.
+        Sharps: Medical or dental instruments, kitchen items, and hygiene items that
+        can penetrate the skin (e.g., needles, scalpel blades, kitchen knives, and razor
+        blades).
+
+III.    POLICY:
+
+        OYA provides a safe and secure environment in all OYA facilities. Proper
+        guidelines for control, storage, and accountability of tools, hazardous materials
+        and sharps must be followed by all staff and youth to avoid potential risk of
+        death, injury, weapons manufacture, or escape.
+
+        Medication control is delineated in OYA policy II-D-1.4 Medication Management
+        in OYA Facilities.
+
+IV.     GENERAL STANDARDS:
+
+        A.      All facility staff members must verify by signature that they have read and
+                understood this policy.
+
+        B.      All facility staff are responsible for controlling tools, hazardous materials,
+                and sharps in their facility. Each staff member is directly responsible for
+                controlling these items in the staff member’s work area.
+
+        C.      Staff must account for tools that are not classified as "dangerous tools"
+                due to the potential risk of youth misusing or altering any tool.
+
+        D.      Staff must directly supervise youth who are using dangerous tools,
+                hazardous materials, or sharps.
+
+        E.      Staff who use tools, hazardous materials or sharps or supervise youth
+                who use these items must ensure the item is used properly and account
+                for each item prior to the end of any work period (meal breaks, workday).
+
+        F.      Staff must search a youth when a youth is exiting a vocational training
+                program, work assignment, or other secure area to ensure the youth does
+                not possess a tool, sharp, or hazardous material. The search must comply
+                with OYA policy II-A-2.0 Searches of Youth and Youth Property in OYA
+                Facilities.
+
+        G.      Staff must maintain dangerous tools, sharps, and hazardous materials in a
+                secure location when not in use.
+
+                See Attachment A for a list of dangerous tools, hazardous materials, and
+                sharps that must be secured when not in use.
+
+        H.      When possible, staff must mark, etch, color-code, or tag tools and sharps
+                with an identifier to denote its proper location on site.
+
+        I.      Sharps cabinets on living units will be inventoried at the beginning and
+                end of every shift.
+
+V.      STORAGE AND INVENTORY:
+
+        A.      Each facility will designate a staff member as the facility's tool control
+                coordinator. This staff member will ensure storage of dangerous tools,
+                hazardous materials, and sharps is appropriate.
+
+        B.      A shadow board is considered the best method of storing all tools which
+                can be mounted. Staff must use shadow boards when storing dangerous
+                tools when possible.
+
+                1.       Only one tool may be kept on each shadow.
+
+                2.       The shadow must be identical in size and shape of the tool.
+
+        C.      Staff must store dangerous tools not adaptable to a shadow board in a
+                locked drawer, cabinet, or other locked container.
+
+        D.      Staff must maintain individual toolboxes containing tools used on a daily
+                basis secured with a lock. The staff member responsible for the toolbox
+                must keep an inventory sheet in the toolbox.
+
+        E.      Staff may store large quantities of maintenance tools and landscape tools
+                in locked tool cages.
+
+        F.      Excess/surplus tools/sharps must ideally be stored outside the secure
+                perimeter of the facility.
+
+                When these excess items are stored within the secure perimeter, staff
+                must inventory and account for them.
+
+                1.       The storage area must be secured with a lock with a restricted core
+                         different from cores used for operational secured items.
+
+                2.       The storage area must not be accessible by keys carried by staff in
+                         the course of daily operations.
+
+                3.       Staff must never allow youth into the storage area.
+
+        G.      Sharps containers must be strategically located in areas of use for the
+                storage and disposal of sharps and contraband sharps requiring secure
+                storage.
+
+        H.      Routine monthly facility inspections will include area inspections of
+                dangerous tools, hazardous materials, and sharps.
+
+        I.      Staff responsible for tools, hazardous materials, or sharps in their work
+                areas must maintain a tool or material inventory posted conspicuously
+                where the items are stored.
+
+        J.      The tool control coordinator must review inventories of tools, hazardous
+                materials, and sharps monthly.
+
+        K.      Tool control audits must be conducted by the tool control coordinator
+                every six months with written reports submitted to the facility
+                superintendent or camp director.
+
+        L.      Each facility must build and sustain a master inventory of all tools and
+                sharps that is maintained and retained by the facility’s tool control
+                coordinator.
+
+VI.     MAINTENANCE CONTRACTORS
+
+        Staff must subject all people who enter an OYA facility's grounds or perimeter for
+        official business with non-OYA equipment or tools to the safety and security
+        requirements outlined in OYA policy II-A-1.0 (Facility Access) regarding tools and
+        equipment.
+
+VII.    FOOD SERVICE TOOLS and HIGH RISK FOOD PRODUCTS
+
+        A.      Staff must ensure all knives in the food service area are attached to a
+                workstation or table (tethered) when youth are present in kitchen areas.
+
+        B.      Staff must maintain an inventory for high-risk food products youth are
+                prohibited from possessing. These products include yeast, cayenne
+                pepper, hot peppers, and poppy seeds. (See OYA form YA 4008 Facility
+                Youth Prohibited Items for the entire list of prohibited items).
+
+        C.      Staff must account for all reusable eating utensils after each meal.
+
+        D.      Staff must secure tin can lids from youth access.
+
+VIII.   ONSITE SCHOOL TOOL CONTROL
+
+        The OYA Facility Education Administrator must ensure facility school policies and
+        procedures adhere to the standards set in this policy.
+
+IX.     HAZARDOUS MATERIALS CONTROL
+
+        A.      Staff must handle and store hazardous materials as described in OYA
+                policy I-C-7.3 Hazard Communications Program.
+
+        B.      Staff may be issued hazardous materials for work purposes.
+
+        C.      Staff must use hazardous materials consistent with the provisions and
+                precautions listed on the material's Safety Data Sheet (SDS).
+
+        D.      Staff may issue a youth a diluted chemical, cleaning agent, or caustic
+                material only in the quantity required to accomplish an immediate task.
+                Unused and undiluted materials may not be stored in areas accessible to
+                youth.
+
+        E.      Staff must ensure containers containing hazardous materials are labeled
+                to identify the contents. This includes diluted hazardous materials issued
+
+                to youth or drawn by staff from a point of supply and put into canisters or
+                dispensers.
+
+        F.      Staff must ensure flammable materials are managed and controlled as
+                hazardous materials and stored in flammable materials lockers in
+                accordance with state and local fire codes.
+
+X.      MISSING TOOLS, HAZARDOUS MATERIALS, AND SHARPS
+
+        A.      When a dangerous tool, hazardous material, or sharp is missing, the staff
+                member using or supervising the use of the tool, material or sharp must
+                immediately verbally notify the staff member’s supervisor/OD and security
+                staff (if available).
+
+                The staff member must also complete a written notification of the event to
+                the facility superintendent or camp director prior to the end of the staff
+                member's work shift.
+
+        B.      If the staff member becomes aware of the missing dangerous tool,
+                hazardous material, or sharp while youth who had access to the item are
+                still on site, the staff member must keep the youth on site until a thorough
+                search of the site is conducted.
+
+        C.      If the missing dangerous tool, hazardous material, or sharp is not found
+                during the search, staff must verbally update the staff member's
+                supervisor/OD and security staff (if available) of the continued missing
+                item.
+
+                Facility management must ensure security measures are taken according
+                to the risk involved.
+
+        D.      Whenever a missing dangerous tool, hazardous material, or sharp is
+                found during any search, staff must follow the confiscation process
+                described in OYA policy II-A-2.0 Searches of Youth and Youth Property in
+                OYA Facilities.
+
+                1.       The tool control coordinator must check the confiscated item
+                         against inventories to determine whether it is a missing facility tool,
+                         material, or sharp or an unaccounted for contraband item.
+
+                2.       The tool control coordinator must follow up with staff as needed.
+
+XI.     DISPOSAL AND REPLACEMENT
+
+        A.      Staff must ensure tools, hazardous material containers, and sharps, and
+                sharps containers are in good repair to ensure safety.
+
+        B.      Staff must document when tools or equipment is sent out for repair on the
+                inventory log.
+
+        C.      Staff must document when a tool or sharp is broken or worn-out on the
+                inventory log. The staff member must ensure the item is destroyed or
+
+                disposed of in a secure area and removed from the written inventory. If the
+                item was stored on a shadow board, the shadow must be eliminated
+                unless an identical replacement is put into use.
+
+        D.      Staff must ensure replacement tools are identified and stored
+                appropriately and the inventory or shadow board adjusted accordingly.
+
+XII.    LOCAL OPERATING PROTOCOL REQUIRED: YES
+
+        Each facility must develop a local protocol to address:
+
+        A.      Storage of tools, hazardous materials and sharps in a manner that would
+                make any loss or removal immediately apparent.
+
+                Each facility must develop a system to account for all tools, hazardous
+                materials and sharps in the facility (e.g., shadow boards, color code tools
+                by work area, check out tools before and after each class period in
+                school).
+
+        B.      Inventory of tools, hazardous materials, and sharps.
+
+        C.      Lost or missing tools, hazardous materials, and sharps.
+
+        D.      Supervision of youth using tools, hazardous materials, and sharps.
+
+Attachment A: Dangerous Tools, Hazardous Materials, and Sharps
+
+The below-listed items are considered dangerous tools, hazardous materials, or sharps
+as described in this policy.
+
+Each OYA facility may add to the list below when deemed appropriate by the facility's
+administration.
+
+1.      Metal cutting tools including hacksaws, blades, chisels, files, drills and drill bits,
+        bolt cutters, pipe cutters, wire cutters.
+
+2.      Power tools, portable jacks and hoists.
+
+3.      Hand tools readily usable or adaptable as a weapon, escape device, or to defeat
+        locking or security systems such as screwdrivers, pliers, wrenches, saws, mop
+        handles, broom handles, hoes, and rakes.
+
+4.      Acetylene torches, cutting tips, arc welders, plasma cutting equipment.
+
+5.      Grinders, emery wheels, abrasive discs, and etching or engraving tools; hones,
+        and sharpening tools.
+
+6.      Tubing, pipe, and conduit benders; rope, chain, wire, cable and electrical cords.
+
+7.      Surgical instruments, hypodermic needles, syringes, medical and dental
+        instruments.
+
+8.      Utility and carpet knives, kitchen knives.
+
+9.      Cleavers, ice picks, meat cutters, and glass containers or sheet glass.
+
+10.     Paper cutters, x-acto knives, scissors; electric, fiberglass, medical, or masking
+        tape.
+
+11.     Ladders, garden hoses, gasoline powered or electric lawn care equipment, snow
+        removal equipment, pitchforks, fertilizer.
+
+12.     Axes, hatchets, sledgehammers.
+
+13.     Barber tools, scissors, nail clippers, loose razor blades, straight razors, sewing or
+        knitting needles.
+
+14.     Flammable, corrosive, or toxic material, including cleaning supplies and fire
+        extinguishers; paint, glue, or other items that cause hallucinatory effects when
+        inhaled or ingested.
+
+15.     Duplicating and printing equipment, fluids, and powders; photographic
+        equipment.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/II-A-2.1.pdf> · retrieved 2026-07-21 · sha256 `d63880f67c5d0b2e253bdab8d32974940e1507f9a8fec08e94360e3f40589def`
+- Snapshot: `_meta/snapshots/oya-ii-a-2-1.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

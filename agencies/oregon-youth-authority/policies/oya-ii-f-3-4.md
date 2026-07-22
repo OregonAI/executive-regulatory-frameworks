@@ -1,0 +1,218 @@
+---
+id: oya-ii-f-3-4
+title: "Youth Use of Telephones"
+doc_type: policy
+citation: "OYA Policy II-F-3.4"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/ii-f-3.4.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "23fc2e589f7ea147e106cca5ee1c817dd3a42ff4f51574163e983e6511363c27"
+effective_date: "2010-10-25"
+last_reviewed: null
+source_version: "Effective 10/25/2010"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N II-F-N.N Youth Use of Telephones Effective:' x4"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-416-150-0020
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/ii-f-3.4.pdf> (retrieved 2026-07-21).
+
+# Youth Use of Telephones (OYA Policy II-F-3.4)
+
+## At a glance
+
+OYA Policy II-F-3.4 — Youth Use of Telephones. Oregon Youth Authority. Effective 10/25/2010.
+
+## Full text
+
+                            OREGON YOUTH AUTHORITY
+                                     Policy Statement
+                                Part II - Youth Services
+
+ Subject:
+ Youth Use of Telephones
+ Section – Policy Number:               Supersedes:          Effective Date:   Date of Last
+                                        II-F-3.4 (7/08)                        Revision:
+ F: Justice – 3.4                       II-F-3.4.a (02/07)   10/25/2010        12/08/2022
+                                                                               (Replaced “hotline”
+                                        II-F-3.4 (05/04)                       with “reporting line”)
+                                        II-F-3.4 (01/96)                       Reviewed:
+                                                                               01/17/2025
+ Related             OAR 416-150-0020 (Attorney Interview)
+ Standards           Performance-based Standards (PbS), Juvenile Correction and
+ and                  Detention Facilities; Programming; Justice
+ References:         American Correctional Association, Standards for Juvenile
+                      Correctional Facilities; 4-JCF-3A-16 (Telephones)
+                     OYA policy: I-D-4.0 (Professional Standards Office)
+                      I-A-10.0 (Preventing, Detecting, and Responding to Youth Sexual
+                      Abuse and Sexual Harassment)
+                      II-F-1.1 (Youth Grievance Process)
+                      II-F-3.6 (Youth Legal Materials and Assistance)
+ Related             Facilitywide procedure: FAC I-E-4.0 Youth Incident Report
+ Procedures:
+ Interpretation:                        Approved:
+
+ Facility Services;
+ Professional Standards Office
+                                        _____________________
+                                        Colette S. Peters, Director
+
+I.     PURPOSE:
+
+       This policy provides guidelines for OYA staff regarding youth telephone use in
+       OYA facilities.
+
+II.    POLICY DEFINITIONS:
+
+       None
+
+III.   POLICY:
+
+       OYA recognizes the importance of communication between the youth in its
+       custody and their families and members of the community. Such communication
+       allows youth to maintain contact with their families and community, and
+       contributes to effective planning for a youth’s treatment needs. In an effort to
+       maintain this communication, each facility will follow the use of telephone policy
+
+       and procedures described herein while also providing security within close-
+       custody programs. Youth telephone use will be reasonable, equitable, and
+       provide a reasonable amount of privacy.
+
+       OYA established the OYA Reporting Line (formerly “Hotline”) telephone number
+       consistent with its mission of providing opportunities for reformation in safe
+       environments. Youth may call the OYA Reporting Line to make complaints
+       related to safety, abuse, or youth rights. Calls to the OYA Reporting Line may be
+       anonymous. Youth are given as much privacy as possible within the limitations of
+       the facility’s physical design while making OYA Reporting Line calls. Youth
+       information acquired through the OYA Reporting Line process is confidential. The
+       OYA Reporting Line is not intended to replace the Youth grievance process
+       described in OYA policy II-F-1.1 (Youth Grievance Process). Calls made to the
+       OYA Reporting Line are recorded, reviewed, and responded to by Professional
+       Standards Office (PSO) staff during business hours/days.
+
+IV.    GENERAL STANDARDS and PROCEDURE:
+
+       A.     Telecommunications Device for the Deaf (TDD)
+
+              1.    Youth with hearing or speech disabilities, and youth who wish to
+                    communicate with people who have such disabilities, will be
+                    afforded access to a TDD or comparable equipment.
+
+              2.    Telephones with volume control will be made available to youth
+                    who are hard of hearing.
+
+       B.     Attorney Telephone Calls
+
+              All communication between a youth and their attorney or the attorney’s
+              authorized representative is confidential. See OYA policy
+              II-F-3.6 (Youth Legal Assistance) regarding attorney telephone calls.
+
+       C.     Regular Telephone Calls
+
+              Regular telephone calls are calls a youth may receive or make to maintain
+              family or community ties consistent with the youth’s case plan.
+
+              1.    A youth may receive or make a minimum of one regular telephone
+                    call from/to a family member per week. The length of the call must
+                    be at least 10 minutes in duration. These outgoing telephone calls
+                    are paid for by OYA.
+
+                    Telephone calls beyond the minimum may be allotted according to
+                    the facility’s behavior management system.
+
+              2.    Each facility must establish the hours during which a telephone is
+                    available to youth.
+
+              3.    Staff must verify the telephone number and person the youth
+                    wishes to call have been approved by the youth’s treatment team
+
+                     prior to allowing the telephone call. Approved telephone numbers
+                     are normally located in the youth’s JJIS profile.
+
+              4.     Staff must place and ensure the approved party answers before the
+                     youth accesses the telephone.
+
+              5.     Staff must remain in visual and audio proximity to monitor the youth
+                     for safety and security reasons while the youth is on the telephone.
+
+              6.     Staff must terminate a telephone call if they believe that one of the
+                     parties participating in the call is being verbally abusive or
+                     committing a facility behavior violation.
+
+                     Terminated telephone calls related to a youth’s behavior violation
+                     must be documented in a Youth Incident Report (YIR). See
+                     facilitywide procedure FAC I-E-1.0 Youth Incident Report.
+
+              7.     Staff must document all attempted or completed regular telephone
+                     calls in the youth’s JJIS “Visits/Phone Calls” tab.
+
+              8.     Staff must also follow the above procedure for youth regular
+                     incoming telephone calls.
+
+      D.      OYA Reporting Line
+
+              Staff must allow a youth access to a telephone to call the OYA Reporting
+              Line regarding safety, abuse, or youth rights issues as soon as possible
+              from the youth’s request to call, and prior to the end of the staff member’s
+              shift.
+
+              1.     Staff must give the youth as much privacy as possible within the
+                     limitations of the facility’s physical design while making an OYA
+                     Reporting Line call. Youth information acquired through the OYA
+                     Reporting Line process is confidential.
+
+                     a)     Staff must not ask the youth the purpose of the call.
+
+                     b)     Staff must not document the call in JJIS. Reporting Line
+                            calls are not tracked in JJIS.
+
+                     c)     Staff must ensure only the OYA Reporting Line number
+                            1-800-315-5440 is called.
+
+                     d)     Staff must not deliberately listen to the youth’s conversation.
+
+                     e)     Staff may visually monitor the youth for safety and security
+                            reasons while the youth is on the telephone.
+
+              2.     If the call cannot be completed by the end of the staff member’s
+                     shift, the staff member must notify their on-duty supervisor or
+                     officer-of-the-day (OD) of the youth’s request to call the OYA
+                     Reporting Line.
+
+                   a)     The supervisor or OD must ensure the youth calls the OYA
+                          Reporting Line during the next shift.
+
+                   b)     If the call is delayed because the youth poses a danger to
+                          self or others, the supervisor or OD must notify the
+                          Professional Standards Office (PSO) of the youth’s request.
+
+              3.   PSO staff must review recorded calls received through the OYA
+                   Reporting Line.
+
+                   PSO staff must respond to the OYA Reporting Line calls as soon as
+                   possible.
+
+V.     LOCAL OPERATING PROCEDURE REQUIRED: NO
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/ii-f-3.4.pdf> · retrieved 2026-07-21 · sha256 `23fc2e589f7ea147e106cca5ee1c817dd3a42ff4f51574163e983e6511363c27`
+- Snapshot: `_meta/snapshots/oya-ii-f-3-4.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

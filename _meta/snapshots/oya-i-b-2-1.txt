@@ -1,0 +1,549 @@
+                            OREGON YOUTH AUTHORITY
+                                    Policy Statement
+                            Part I – Administrative Services
+
+ Subject:
+ Use of State Purchase Card (SPOTS Card) and State Corporate Travel Card
+ Section – Policy Number:                    Supersedes:       Effective Date:   Date of Last
+                                                                                 Review/Revision:
+ B: Financial Management – 2.1            I-B-2.1 (6/22) 06/22/2026
+                                          I-B-2.1 (1/20)                 None
+                                          I-B-2.1 (2/15)
+                                          I-B-2.1 (6/13)
+                                          I-B-2.1 (3/11)
+                                          I-B-2.1 (6/09)
+ Related             ORS Chapter 279A (Public Contracting – General Provisions)
+ Standards           ORS Chapter 279B (Public Contracting – Procurement)
+ and                 ORS Chapter 279C (Public Contracting – Public Improvements
+ References:          and Related Contracts)
+                     OAR Chapter 125 Division 55 (State Purchasing)
+                     OAR Chapter 125 Division 246 (General Provisions for Public
+                      Contracting)
+                     OAR Chapter 125 Division 247 (Public Procurement of Supplies
+                      and Services)
+                     Department of Administrative Services (DAS), Oregon Accounting
+                      Manual (OAM): 55.30.00 PO (SPOTS Purchase Card Program)
+                      40.20.00 PO (Travel Advances and Corporate Travel Card)
+                     OYA policy: I-B-2.0 (Delegation for Expenditures & Payment
+                      Obligation Approval)
+                     DAS forms: 75.40.03.FO (Corporate Travel Card Agreement)
+                      75.55.02.FO (Small Purchase Order Transaction System
+                      (SPOTS) Purchase Card Application and Agreement)
+ Related             None
+ Procedures:
+ Policy Owner:                               Approved:
+
+ Chief Financial Officer
+                                             ________________________
+                                             Mike Tessean, Director
+
+I.     PURPOSE:
+
+       This policy provides general standards for OYA staff when obtaining and using
+       state purchases (SPOTS cards) or travel cards.
+
+
+
+
+Page 1 of 11   I-B-2.1 Use of State Purchase Card (SPOTS Card) and          Effective: 06/22/2026
+                       State Corporate Travel Card
+II.    POLICY DEFINITIONS:
+
+       Activity Log: List of credit card transaction information generated from a bank’s
+       Online System.
+
+       Application: OYA’s State P-Card of Oregon Transaction System (SPOTS) Card
+       Application and Agreement.
+
+       Approving officer: Agency staff member appointed by the agency head or
+       person with delegated authority to act as administrator of the agency SPOTS
+       program, and authorize SPOTS card issuance and usage.
+
+       Card custodian: The OYA staff member responsible for administering,
+       controlling, and safeguarding an assigned department card.
+
+       Cardholder: OYA staff to whom a SPOTS card is issued in their name.
+
+       Card user: A global term for those staff who make purchases with a SPOTS card.
+
+       Department card: A SPOTS card issued to a program, department, or other
+       segment and assigned to a card custodian.
+
+       Designated card user: An individual OYA staff member authorized to use a
+       department card.
+
+       Online system: A bank’s web-based system to manage credit card accounts.
+
+       SPOTS (State P-Card of Oregon Transaction System) card: A state-
+       sponsored credit card agencies may use to procure goods and services.
+
+       SPOTS coordinator: Agency staff member appointed by the approving officer to
+       update cardholder information on the bank’s Web-based system, change
+       cardholders’ spending limits, and monitor card activities delegated to them.
+
+III.   POLICY:
+
+       OYA maximizes flexibility for agency purchases, minimizes administrative costs,
+       and expedites payments to OYA suppliers. Staff must follow the general
+       standards listed in this policy when obtaining and using state purchase cards
+       (SPOTS card) or travel cards.
+
+       OYA has identified diversity, equity, and inclusion as an agency priority and
+       initiative, to build a respectful, diverse, equitable, and inclusive environment for
+       youth and staff that is free from harassment, discrimination, and bias. The
+       SPOTS card program and use must support this initiative.
+
+IV.    GENERAL STANDARDS:
+
+       A.      SPOTS Card and Travel Card Purpose
+
+               1.     Staff may obtain a SPOTS card for all purchases of goods and
+                      trade services.
+Page 2 of 11   I-B-2.1 Use of State Purchase Card (SPOTS Card) and      Effective: 06/22/2026
+                       State Corporate Travel Card
+                      a)      Purchase cards acquired through the state’s contract is the
+                              preferred method for making purchases of goods when
+                              procurement rules allow.
+
+                              (1)    Software purchases may require Department of
+                                     Administrative Services (DAS) Enterprise Information
+                                     Security (EIS) approval. Check with Information
+                                     Systems prior to purchasing software.
+
+                              (2)    The use of purchase orders and other methods for
+                                     purchases must be minimized.
+
+                              (3)    All purchases must comply with all procurement rules,
+                                     policy, and procedures.
+
+                      b)      Higher purchase limits may be given to staff who have
+                              demonstrated a business need upon management’s request
+                              and the OYA approving officer’s approval.
+
+                              (1)    Single purchase limit requests greater than $10,000
+                                     per purchase require additional training and approval
+                                     by the OYA Procurement Team.
+
+                              (2)    Monthly purchase limit requests greater than $50,000
+                                     require DAS approval.
+
+               2.     Staff may obtain a state corporate travel card for state-related travel
+                      costs (except for lodging) if the staff travels frequently. Staff may
+                      get a travel card rather than a cash advance from the state. Refer
+                      to DAS statewide policy OAM 40.20.00 (Travel Advances and
+                      Corporate Travel Card).
+
+       B.      Program Administration
+
+               1.     To reduce the potential for duplicate payments, a single established
+                      payment method is preferred.
+
+                      a)      All lodging must be paid with a SPOTS card.
+
+                      b)      Lodging purchases must follow GSA in accordance with DAS
+                              policy OAM 40.10.00 Travel Advances and Corporate Travel
+                              Card.
+
+                      c)      Personal reimbursement for lodging will be processed on an
+                              exception basis.
+
+               2.     Card limits
+
+                      Monthly and per purchase credit limits may be established based on
+                      anticipated business needs.
+
+
+
+Page 3 of 11   I-B-2.1 Use of State Purchase Card (SPOTS Card) and     Effective: 06/22/2026
+                       State Corporate Travel Card
+                      a)      Changes to limits may be temporarily or permanently approved
+                              by the cardholder’s supervisor and approving officer based on
+                              justified need.
+
+                              (1)    Refer to additional approvals outlined in section A.1.b.
+                                     above.
+
+                              (2)    The SPOTS coordinator or designee must conduct
+                                     periodic reviews of credit limits to determine if
+                                     adjustments are necessary based on actual spending.
+
+                      b)      All cards must have specific Merchant Category Codes (MCCs)
+                              blocked according to DAS OAM policy to prevent high-risk
+                              purchases from high-risk vendors.
+
+                              Exceptions must be approved by DAS Financial Business
+                              Services (FBS).
+
+                      c)      All lodging MCCs must also be blocked from all SPOTS cards.
+
+                              Exceptions for specific staff required to make travel
+                              arrangements as part of their job duties may be approved to
+                              have lodging MCCs unblocked upon completion of additional
+                              training and approval by the approving officer.
+
+               3.     Exceptions
+
+                      a)      Exceptions to this policy must comply with Oregon Accounting
+                              Manual (OAM) 55.30.00 SPOTS Purchase Card Program, have
+                              written justification, and prior approval from the cardholder’s
+                              supervisor or assistant director and approving officer.
+
+                      b)      Exceptions to OAM 55.30.00 SPOTS Purchase Card Program
+                              must have written prior approval by DAS Financial Business
+                              Services.
+
+               4.     Cardholders and card custodians will be granted access by the
+                      SPOTS coordinator to their cardholder accounts in the online
+                      system.
+
+               5.     SPOTS coordinators must be granted access to all cardholder
+                      accounts in the online system.
+
+               6.     Inactive or infrequently used accounts
+
+                      Accounts must be reviewed quarterly by the SPOTS coordinator for
+                      lack of use and determined if there is a continued need.
+
+               7.     Emergency card
+
+                      Emergency response card(s) may be issued as part of the emergency
+                      preparedness plan to the OYA director as deemed appropriate by the
+                      agency.
+Page 4 of 11   I-B-2.1 Use of State Purchase Card (SPOTS Card) and       Effective: 06/22/2026
+                       State Corporate Travel Card
+       C.      Obtaining a SPOTS Card
+
+               1.     Staff must request a SPOTS card from their supervisor/manager
+                      and complete an OYA SPOTS application.
+
+               2.     The authorized cardholder must complete applicable DAS-
+                      approved OYA SPOTS training on allowable uses and
+                      recordkeeping requirements before receiving the card.
+
+               3.     Cardholders requesting per-purchase limits over $10,000 must
+                      complete additional training and receive approval from OYA
+                      Procurement.
+
+               4.     For monthly credit limit requests over $50,000, the SPOTS
+                      coordinator must forward the request to DAS FBS for approval.
+
+               5.     The SPOTS coordinator must review applications for completeness
+                      and accuracy and forward the applications to OYA’s approving
+                      officer for authorization and signature.
+
+               6.     A cardholder may also be a card custodian, a designated card user,
+                      or both.
+
+       D.      SPOTS Card Use
+
+               1.     Card users are subject to policies and guidelines described in the
+                      SPOTS card application, the corporate charge card
+                      acknowledgment form, state purchasing rules, Oregon Accounting
+                      Manual (OAM), and related training and procedural documents
+                      administered by Financial Services.
+
+               2.     SPOTS card users must only use SPOTS cards for authorized
+                      purchases that further the state’s business.
+
+               3.     SPOTS card users must not use the SPOTS card for personal
+                      purchases or personal gain.
+
+               4.     SPOTS card users must use the state’s procurement Buy Decision
+                      checklist for each purchase.
+
+                      The Buy Decision listed in priority order below must be followed.
+                      Only if the below do not yield results may a purchase be made from
+                      the open market.
+                      https://www.oregon.gov/das/OPM/Pages/method.aspx
+
+                      a)      Surplus property;
+
+                      b)      OregonForward (OFC) – formerly Qualified Rehabilitation
+                              Facility Program (QRF);
+
+
+
+Page 5 of 11   I-B-2.1 Use of State Purchase Card (SPOTS Card) and   Effective: 06/22/2026
+                       State Corporate Travel Card
+                      c)      Adult in custody labor (Oregon Correction Enterprises and
+                              DOC adult in custody labor, refer to the Buy Decision link
+                              above); or
+
+                      d)      DAS statewide price agreements.
+
+               5.     SPOTS card users must check the OYA Where to Buy List for
+                      guidance on selection of vendors, and prioritize use of Certification
+                      Office for Business Inclusion and Diversity (COBID) certified firms.
+
+               6.     Prior to acceptance of online or other terms and conditions, SPOTS
+                      card users must contact agency procurement staff.
+
+               7.     Authorized card users who have completed required training
+                      related to the procurement of lodging may purchase lodging on a
+                      SPOTS card. Authorization is granted at the supervisor’s request
+                      and approval of the approving officer.
+
+                      a)      Card users must not procure meals or other personal lodging
+                              expenses.
+
+                      b)      Card users must not procure their own travel
+                              accommodations.
+
+                      c)      Staff must not approve their own travel expenses.
+
+                      d)      Lodging expenses must be substantiated within 60 days
+                              after the travel expense is paid or incurred to avoid having
+                              the costs added to the W-2 as taxable wages.
+
+                              Substantiation must include a detailed receipt signed by the
+                              traveler.
+
+               8.     Cardholders and card custodians must monitor account activity
+                      periodically for appropriateness and accuracy, including recurring
+                      charges.
+
+       E.      Card Custodian Responsibilities
+
+               Card custodians must:
+
+               1.     Manage physical custody and security of the SPOTS card and
+                      account number;
+
+               2.     Maintain records of card checkout and check-in by designated card
+                      users;
+
+               3.     Maintain purchase documentation and receipts;
+
+               4.     Ensure card use complies with agency policies and procedures;
+
+
+Page 6 of 11   I-B-2.1 Use of State Purchase Card (SPOTS Card) and      Effective: 06/22/2026
+                       State Corporate Travel Card
+               5.     Reconcile bank transactions with receipts monthly;
+
+               6.     Complete coding and comments in the online system monthly by
+                      the due date designated by the SPOTS coordinator; and
+
+               7.     Submit complete documentation to OYA Accounting monthly by the
+                      due date designated by the SPOTS coordinator.
+
+       F.      Designated Card User Responsibilities
+
+               Designated card users must:
+
+               1.     Complete the SPOTS training before first checkout of a SPOTS
+                      card.
+
+               2.     Check the card in and out from the card custodian;
+
+               3.     Use the card in compliance with all agency policies and
+                      procedures, obtain pre-approval from applicable managers when
+                      appropriate; and
+
+               4.     Timely submit detailed, signed receipts to the card custodian.
+
+       G.      Cardholder Responsibilities
+
+               Cardholders must:
+
+               1.     Sufficiently document each purchase;
+
+               2.     Submit a detailed receipt or invoice that includes:
+
+                      a)      Name of the vendor;
+
+                      b)      Date of purchase;
+
+                      c)      Item description;
+
+                      d)      Cost of each item purchased; and
+
+                      e)      Reason for purchase.
+
+               3.     Ensure timely and accurate coding for each purchase is entered
+                      into Online System by the due date established by the SPOTS
+                      coordinator;
+
+               4.     Obtain the cardholder’s supervisor’s approval on the Activity Log
+                      indicating review of purchase and documentation. If the supervisor
+                      does not have expenditure authority for the purchase, the manager
+                      with the expenditure authority must approve a detailed invoice or
+                      other purchase documentation;
+
+
+Page 7 of 11   I-B-2.1 Use of State Purchase Card (SPOTS Card) and     Effective: 06/22/2026
+                       State Corporate Travel Card
+               5.     Document lodging purchases within 60 days of the travel.
+                      Documentation must consist of a detailed receipt from the hotel
+                      documenting the stay and signed by the traveler attesting to the
+                      receipt of services;
+
+               6.     Obtain independent verification by OYA team member that the
+                      agency received the product or service. The accounting manager
+                      may approve exceptions in certain circumstances where receipt of
+                      service is automatic or implied;
+
+               7.     Document Open Market purchases outside the Buy Decision with a
+                      brief but specific justification, including options explored;
+
+               8.     Have a manager who has the delegated authority for coding used
+                      according to their YA 2201 approve each invoice or receipt;
+
+               9.     Reconcile the activity log to the statement and other supporting
+                      documentation, ensuring all transactions are valid and documenting
+                      any discrepancies;
+
+               10.    Submit the completed activity log and supporting documents to the
+                      SPOTS coordinator by the due date established by the SPOTS
+                      coordinator;
+
+               11.    Ensure all cards, card-related PINs, and account passwords are
+                      secured and controlled by the cardholder at all times, including after
+                      hours, while unattended, or not in the cardholder’s possession;
+
+               12.    Participate in training administered by the SPOTS coordinator at
+                      least every other year after obtaining a SPOTS card or as
+                      requested by the cardholder’s supervisor/manager or the approving
+                      officer;
+
+               13.    Obtain written approval from a requesting manager that has been
+                      delegated purchasing authority before purchasing outside the
+                      cardholder’s scope of authority;
+
+               14.    Immediately notify the bank and SPOTS coordinator if a SPOTS
+                      card is lost or stolen;
+
+               15.    Immediately notify the SPOTS coordinator when the cardholder is
+                      out on extended leave from their current position (e.g., job rotation,
+                      military leave);
+
+               16.    Properly destroy the SPOTS card at position termination or if
+                      cancelling the card. The cardholder must notify the SPOTS
+                      coordinator of cancellation or termination immediately, include the
+                      date of the last transaction, and submit final documentation to the
+                      SPOTS coordinator as described above; and
+
+
+
+Page 8 of 11   I-B-2.1 Use of State Purchase Card (SPOTS Card) and     Effective: 06/22/2026
+                       State Corporate Travel Card
+               17.    The cardholder must also submit documentation to the SPOTS
+                      coordinator of final purchases.
+
+       H.      Supervisor Responsibilities
+
+               The cardholder or card custodian’s supervisor are responsible for the
+               below activities.
+
+               1.     Complete related training administered by the SPOTS coordinator
+                      before approving SPOTS card transactions and at least every other
+                      year thereafter.
+
+               2.     Review the cardholder or card custodian’s transactions as follows:
+
+                      a)      Review each transaction for appropriateness, accuracy,
+                              completeness, and fraud, and follow up as appropriate; and
+
+                      b)      Sign the Activity Log, which confirms each purchase of
+                              goods or services has been received by OYA, is reasonable,
+                              and furthers OYA’s mission.
+
+               3.     Assign work in a way to ensure the following roles and
+                      responsibilities are not performed by the same staff member:
+
+                      a)      Purchaser - performed by the cardholder;
+
+                      b)      Receiver – independently reviews and verifies the purchased
+                              items or services were received; and
+
+                      c)      Management approval.
+
+                      d)      Exceptions may be allowed by the accounting manager
+                              under certain circumstances on a case-by-case basis.
+
+               4.     Upon first knowledge of cardholder termination from OYA:
+
+                      a)      Notify the SPOTS coordinator of the cardholder’s
+                              termination; and
+
+                      b)      Ensure the cardholder properly destroys the card and
+                              submits the final documentation described above (section
+                              G.17).
+
+               5.     Immediately report all cases of actual or suspected fraud, abuse, or
+                      misuse to the approving officer.
+
+       I.      Monthly Payment and Reconciliation
+
+               1.     Financial Services staff must make weekly payments for
+                      transactions posted by the bank during the previous week. The
+                      payments must be coded to a clearing account until they are
+
+Page 9 of 11   I-B-2.1 Use of State Purchase Card (SPOTS Card) and   Effective: 06/22/2026
+                       State Corporate Travel Card
+                      transferred monthly to a proper accounting code as indicated in the
+                      online system.
+
+              2.      Financial Services staff must reconcile monthly memo statements
+                      with weekly payments and monthly transfers.
+
+       J.     Inappropriate SPOTS Card Use
+
+              1.      Inappropriate SPOTS card actions, as defined in OAM policy
+                      10.40.00, may result in disciplinary action, including dismissal,
+                      forfeiture of the card, and personal liability.
+
+              2.      Inappropriate use includes, but is not limited to:
+
+                      a)     Any intentional personal use or a pattern of unintentional
+                             use. Personal use is defined in the application;
+
+                      b)     Disregard for SPOTS card agreement guidelines, purchasing
+                             rules, or cardholder responsibilities as described in
+                             section G. above;
+
+                      c)     Fragmentation - When a purchase is artificially divided or
+                             fragmented so as to qualify as a small procurement or
+                             eligible for purchase through a SPOTS card;
+
+                      d)     Unauthorized use as described in the card application and
+                             agreement;
+
+                      e)     A pattern of missing or late submittal of documentation; or
+
+                      f)     A pattern of incorrect coding or insufficient documentation.
+
+              3.      Cardholders must reimburse the state for inappropriate purchases.
+                      Financial Services will initiate the collection of reimbursement from
+                      staff, and the staff’s supervisor or assistant director will initiate
+                      appropriate personnel actions.
+
+       K.     SPOTS Card Compliance Review
+
+              1.      Financial Services staff must perform periodic reviews of supporting
+                      documentation for accuracy, completeness, and compliance with
+                      related policies and procedures. Financial Services staff will notify
+                      the cardholder and cardholder’s supervisor of non-compliance
+                      issues.
+
+              2.      Financial Services staff, in collaboration with the cardholder’s
+                      supervisor, must develop a corrective action plan or follow-up
+                      action plan, as needed.
+
+
+
+
+Page 10 of 11 I-B-2.1 Use of State Purchase Card (SPOTS Card) and          Effective: 06/22/2026
+                      State Corporate Travel Card
+                      The cardholder’s failure to meet the objectives of a corrective action
+                      plan or follow-up action plan may result in suspension or forfeiture
+                      of the SPOTS card.
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+
+
+
+Page 11 of 11 I-B-2.1 Use of State Purchase Card (SPOTS Card) and      Effective: 06/22/2026
+                      State Corporate Travel Card
+

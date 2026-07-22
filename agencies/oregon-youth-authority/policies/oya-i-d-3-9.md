@@ -1,0 +1,455 @@
+---
+id: oya-i-d-3-9
+title: "Staff Training and Development"
+doc_type: policy
+citation: "OYA Policy I-D-3.9"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/I-D-3.9.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "b800cf8c02eafad1f2d7e2f86ecc50011c636fbc3115bbbe386dd1889c9360d4"
+effective_date: "2026-06-22"
+last_reviewed: null
+source_version: "Effective 06/22/2026"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N I-D-N.N Staff Training and Development Effe' x8"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-D-3.9.pdf> (retrieved 2026-07-21).
+
+# Staff Training and Development (OYA Policy I-D-3.9)
+
+## At a glance
+
+OYA Policy I-D-3.9 — Staff Training and Development. Oregon Youth Authority. Effective 06/22/2026.
+
+## Full text
+
+                            OREGON YOUTH AUTHORITY
+                                    Policy Statement
+                            Part I – Administrative Services
+ Subject:
+ Staff Training and Development
+ Section – Policy Number:                   Supersedes:         Effective Date:   Date of Last
+                                        I-D-3.9 (10/23)               Review/Revision:
+ D: Personnel Management – 3.9          I-D-3.9 (06/22) 06/22/2026 None
+                                        I-D-3.9 (10/19)
+                                        I-D-3.9 (7/14)
+                                        I-D-3.9 (9/09)
+                                        I-D-3.9 (9/02)
+                                        I-D-3.9 (6/03)
+ Related         DAS policy 50.035.01 (Performance Management Process)
+ Standards       DAS policy 50.045.01 (Employee Development and
+ and              Implementation of Oregon Benchmarks for Workforce
+ References:      Development)
+                 American Correctional Association, Standards for Juvenile
+                  Correctional Facilities; 5-JCF-7E-01 (Staff Development)
+                 OYA policy: 0-2.1 Professional Standards
+                  I-D-3.8 Agency Training Program
+                  I-E-3.0 OYA External Communications
+                 OYA forms: YA 1200 Training Roster
+                  YA 2229 Out-of-State Travel Authorization
+ Related         Checklist: Use of Staff Images in OYA Training Events
+ Procedures:     TA I-E-3.8 Curriculum Development Workgroups
+ Policy Owner:                          Approved:
+
+ Training Academy Director
+                                            ________________________
+                                            Mike Tessean, Director
+
+I.     PURPOSE:
+
+       This policy establishes OYA’s standards for staff training lesson plans, training
+       delivery, training attendance approval, trainee and trainer responsibilities, and
+       training documentation.
+
+II.    POLICY DEFINITIONS:
+
+       Agency training: Training developed and provided by OYA (usually through the
+       Training Academy) for OYA staff.
+
+       Curriculum development workgroup: A cross-agency group convened to
+       develop course descriptions, learning outcomes, and evaluation methods for
+       specific training topics.. This group may also include representatives from other
+       agencies and community partners. Membership varies by topic and need, and
+
+       must include decision-makers, content experts, and representatives of
+       marginalized communities.
+
+       In-Service training: Professional development provided to employees while they
+       are actively working in their roles to strengthen skills, update knowledge, and
+       maintain alignment with agency expectations. It is role-specific, continuous,
+       focused on practical application, and encourages collaboration and shared
+       learning among participants.
+
+       Knowledge, Skills, and Abilities (KSAs): A competency framework describing
+       the knowledge an individual must possess, the skills they must be able to
+       perform, and the abilities—both natural and developed—that support effective job
+       performance.
+
+       Local training: Training developed and provided by a local facility or office for
+       staff who work at that facility or office.
+
+       New Employee Training (NET): A structured, five-week training program for
+       newly hired staff that includes classroom instruction and on-the-job shadowing.
+
+       Orientation training: Mandatory introductory training for newly hired staff that
+       provides foundational information about agency policies, expectations, and job
+       requirements. It is delivered through online instruction, classroom learning,
+       one-on-one mentoring, or a combination of these methods.
+
+       Qualified OYA instructors: OYA staff who have knowledge and expertise in the
+       subject matter they present, and are skilled in presenting topics to adult learners.
+
+       Training: An organized and evaluated learning process designed to build the
+       knowledge, skills, and abilities (KSAs) needed for effective job performance. It
+       uses structured methods, clear objectives, and practical application to ensure
+       participants can understand and apply what they learn, supporting both individual
+       development and organizational goals.
+
+       Training Advisory Committee (TAC): An agency committee that assesses
+       agency training needs and aligns training strategies to support and implement
+       agency (and juvenile justice) business initiatives most effectively. Membership
+       must include the Training Academy director and representative decision-makers
+       from all OYA departments, professional trainers, and OYA training end users.
+
+       Training Evaluation System: A structured way to understand how well training
+       works by collecting immediate participant feedback, checking how effectively
+       people use what they learned on the job, measuring skill growth and behavior
+       change at three- and six-month intervals, and looking at how all of this
+       contributes to the agency’s overall performance and priorities.
+
+       Training expenses: Expenses related to a training activity that include, but are
+       not limited to, leave requests, travel, per diem costs, and tuition.
+
+       Workday Learning: An Oregon state employee learning management system
+       that retains employee training records and online courses.
+
+       Workday Learning partner: An OYA staff member who is trained to enter data
+       into Workday Learning and support Workday Learning at the local level.
+
+III.   POLICY:
+
+       OYA has identified diversity, equity, and inclusion as an agency priority and
+       initiative, with a goal to build a respectful, diverse, equitable and inclusive
+       environment for youth and staff that is free from harassment, discrimination, and
+       bias. While OYA is only one part of a system that has disproportionately
+       impacted youth of color and LGBTQ+ youth, it plays a critical role in addressing
+       the historical and systemic inequities it perpetuates. It is critical that OYA staff
+       are trained and educated on the historically racist foundation of the juvenile
+       justice system, its impact on marginalized groups, and the connection to current
+       issues within juvenile justice. It is also imperative that staff professional
+       development opportunities are equitable, do not perpetuate disparate impacts to
+       marginalized groups, and balance being responsible stewards of state resources.
+       It is also imperative that staff be educated on bias, develop a self-awareness of
+       their own biases and how to prevent bias from impacting decision points within
+       their spheres of influence.
+
+       OYA values a productive, motivated, culturally responsive, and culturally diverse
+       workforce. OYA has a coordinated, comprehensive system of staff development
+       and training designed for the following purposes:
+
+       •      To help meet internal and external mandates by providing the training
+              necessary to execute agency policies and procedures in a consistent and
+              timely manner;
+
+       •      To provide effective services to youth by ensuring that staff have the basic
+              competencies to carry out their job responsibilities;
+
+       •      To enhance staff knowledge, skills, abilities, and competencies to perform
+              jobs more efficiently and effectively; and
+
+       •      To provide staff with opportunities for continued personal and professional
+              development.
+
+       The Training Academy coordinates and facilitates the agency’s training program
+       to ensure the training needs of OYA offices and facilities are consistently met and
+       in aligned with the agency’s mission and values. The Training Academy engages
+       staff early, recognizes learning as an ongoing process, partners with managers
+       and key collaborators, and delivers relevant, real-world, data-informed training
+       grounded in youth perspectives. In addition, the Training Academy partners with
+       managers and divisions to provide a cohesive onboarding experience for new
+       agency staff, ensuring the Academy-led onboarding aligns effectively with facility-
+       and division-level onboarding processes.
+
+       The Training Academy ensures all OYA staff training curriculum and lesson plans
+       (LPs) meet recognized professional standards. In addition, the Training Academy
+       develops partnerships with other state agencies, county juvenile departments,
+       correctional and juvenile justice organizations, and colleges to support a
+       consistent and competent continuum of services throughout Oregon.
+
+IV.    GENERAL STANDARDS:
+
+       A.     The Training Academy must collaborate with supervisors, managers,
+              division leadership, and other key partners to assess both division-wide
+              and local training needs and, as appropriate to business priorities, provide
+              guidance on service delivery options.
+
+       B.     All OYA agency training delivered to OYA staff must use an OYA-
+              approved lesson plan or curriculum and be facilitated by qualified OYA
+              instructors.
+
+              1.    The curriculum development workgroup must review curriculum
+                    and lesson plans to ensure alignment with OYA standards and
+                    mission, verify instructor qualifications, and, as appropriate to the
+                    topic or training need, require revisions or additional guidance.
+
+              2.    OYA staff training must contain:
+
+                    a)     A clear description of the training course;
+
+                    b)     Defined learning outcomes;
+
+                    c)     A documented lesson plan outlining the content delivered;
+
+                    d)     Consideration of potential impacts on marginalized groups;
+
+                    e)     Methods for measuring training effectiveness; and
+
+                    f)     Documented attendance for all training formats (e.g., live
+                           sessions and self-paced learning, whether online, in-person,
+                           or on-site).
+
+       C.     Training affecting service delivery to youth requires approval from the
+              Training Advisory Committee (TAC) before it is implemented.
+              Supervisors may send staff to observe such training without the TAC’s
+              approval when the intent is to gather information to share with the agency.
+
+       D.     Staff training request approvals
+
+              1.    All training requests, including authorization for training expenses,
+                    must be approved by the supervisor before training begins.
+
+              2.    Requests for out-of-state training must be approved by an assistant
+                    director, who will forward the request to the Director’s Office for
+                    final approval.
+
+       E.     Training for other agencies or community partners
+
+              1.    A staff member who is asked to represent OYA while providing
+                    training to other agencies or community partners must have
+                    approval from their supervisor prior to acting on the request.
+
+              2.    For individuals who are not certified trainers in the content they
+                    intend to deliver, the supervisor must review and approved the
+                    lesson plan or training agenda before authorizing the training. The
+                    Training Academy director may be consulted for guidance as
+                    needed.
+
+       F.     Individual staff development
+
+              OYA supports staff development to ensure employees are prepared to
+              perform their jobs competently and effectively.
+
+              1.    Orientation training
+
+                    All new staff must complete mandatory orientation training within 60
+                    days of their hire date. This training is delivered through online
+                    instruction, classroom learning, one-on-one mentoring, or a
+                    combination of these methods.
+
+              2.    New Employee Training (NET)
+
+                    a)     New staff must complete NET as appropriate to their job
+                           duties and classifications within 90 days of their hire dates.
+                           This training is delivered through online instruction,
+                           classroom learning, one-on-one mentoring, or a combination
+                           of these methods.
+
+                    b)     Any exceptions to NET requirements must be reviewed and
+                           approved by the appropriate assistant director, in
+                           collaboration with the Human Resources administrator and
+                           the Training Academy director, to ensure consistency and
+                           support operational needs.
+
+                           Exceptions must:
+
+                           (1)    Be documented in writing;
+
+                           (2)    List the factors considered for the exception;
+
+                           (3)    Detail an alternate training plan; and
+
+                           (4)    Be retained by the Training Academy.
+
+              3.    Annual training and professional development
+
+                    All OYA staff must complete training annually.
+
+                    a)     Training topics will include those required by job
+                           classification, law, OYA policy, and related bargaining
+                           agreements. Requirements related to defensive tactics,
+                           physical intervention, and restraint training (including who
+                           must complete them, applicable timelines, and renewal
+                           expectations) are detailed in OYA policy II-B-1.1 Physical
+
+                          Intervention in OYA Facilities, section IV.G. Training. These
+                          trainings are competency-based.
+
+                   b)     OYA encourages staff to participate in professional
+                          development opportunities identified in their Individual
+                          Development Plans. In-service training is one of the
+                          available options staff may use to meet their annual training
+                          and professional development requirement. Training
+                          Academy learning and development specialists are available
+                          as a resource to help staff and supervisors learn more about
+                          in-service training opportunities, including those typically
+                          planned on a quarterly basis each year.
+
+              4.   Approval for non-mandatory training and staff development
+                   activities is a local management decision which must consider:
+
+                   a)     Local need, including alignment with the staff’s development
+                          plan and the work unit’s training needs;
+
+                   b)     Available training funds (including per diem, travel, tuition,
+                          and staffing costs);
+
+                   c)     The unit/office ability to meet operating requirements while
+                          the staff participates in training;
+
+                   d)     Training that meets staff need; and
+
+                   e)     Fulfilling agency goals, mission.
+
+              5.   Specific roles
+
+                   a)     Supervisors
+
+                          (1)       Assess and identify staff training and development
+                                    needs.
+
+                          (2)       Facilitate training opportunities that address the
+                                    development needs of individual staff or the work unit.
+
+                          (3)       Schedule staff for mandatory training and adjust
+                                    workload to support participation. .
+
+                          (4)       Approve or deny non-mandatory training and
+                                    professional development activities based on agency
+                                    training priorities, budget availability, and workload
+                                    coverage.
+
+                          (5)       Ensure completion and documentation of all required
+                                    training and professional development activities.
+
+                   b)     Staff
+
+                          (1)    Assess training and development needs related to job
+                                 duties and developmental goals.
+
+                          (2)    Collaborate with their supervisors to identify
+                                 development plans during regularly scheduled
+                                 performance management meetings.
+
+                          (3)    Provide documentation of completed professional
+                                 development activities to their supervisors.
+
+                          (4)    Attend classroom or online training as approved and
+                                 scheduled.
+
+                          (5)    Sign required attendance documentation (e.g.,
+                                 roster).
+
+                          (6)    Provide recommendations for curriculum development
+                                 and improvement through the local management
+                                 structure.
+
+       G.     Training documentation
+
+              1.    All training requests must be made in writing by a staff member or
+                    supervisor, as appropriate.
+
+              2.    Workday Learning
+
+                    OYA must retain a computerized training record for each staff
+                    member that documents completed training and staff development
+                    activities. These records are retained in the Workday Learning
+                    management system.
+
+                    a)    Agency classroom or in-person training must be documented
+                          on OYA form YA 1200 (Training Roster).
+
+                          (1)    Agency training provided by the Training Academy
+
+                                 A designated Training Academy staff will enter the
+                                 corresponding training into Workday Learning.
+
+                          (2)    Agency training provided by the JJIS Business
+                                 Integration Team.
+
+                                 A designated Information Systems staff will enter the
+                                 corresponding training into Workday Learning.
+
+                    b)    Workday Learning partners must enter completed local
+                          training into Workday Learning.
+
+                    c)    Completion of training or professional development activities
+                          that do not meet the criteria described in the paragraphs
+                          above must be documented in the attendee’s Workday
+
+                            Learning training record using the self-reported learning
+                            choice.
+
+                            (1)    Staff members are responsible for providing their
+                                   supervisors with supporting documentation of the
+                                   training or activity.
+
+                            (2)    An activity is deemed professional development as
+                                   determined by the supervisor.
+
+                     d)     OYA staff may view their individual training records in
+                            Workday Learning.
+
+       H.     Staff responsibilities during training sessions
+
+              1.     Classroom training sessions, including virtual classrooms, are
+                     considered part of the regular workday. Training participants are
+                     expected to maintain professional standards and be prepared to
+                     fully engage in all aspects of the training.
+
+                     Participants must:
+
+                     a)     Bring required materials;
+
+                     b)     Wear clothing appropriate for a professional setting and the
+                            training activity;
+
+                     c)     Arrive on time for each session and return promptly from
+                            designated breaks; and
+
+                     d)     Follow the instructions of the qualified instructor or
+                            authorized presenters.
+
+              2.     Qualified instructors will maintain an appropriate learning
+                     environment and may redirect any participant whose behavior is
+                     unsafe or disrupts the training.
+
+              3.     Any participant who fails to follow reasonable instructions from a
+                     qualified instructor may be considered disruptive and may be
+                     subject to appropriate corrective action, as determined by their
+                     supervisor.
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/I-D-3.9.pdf> · retrieved 2026-07-21 · sha256 `b800cf8c02eafad1f2d7e2f86ecc50011c636fbc3115bbbe386dd1889c9360d4`
+- Snapshot: `_meta/snapshots/oya-i-d-3-9.pdf`
+- See [CHANGELOG](./CHANGELOG.md).
