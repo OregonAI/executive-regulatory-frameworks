@@ -36,11 +36,14 @@ DIV_LINK_CAP = 12  # division-level citations link all its rules only if small
 
 # Policy-to-policy cross-references (a policy's own "Directives/References" block naming
 # other agencies' policies). These are `related` edges, not authority `implements`.
-#   DAS Policy: 107-001-015   -> das-107-001-015   (hyphen triple)
+#   DAS Policy: 107-001-015   -> das-107-001-015   (hyphen triple; also matches the dotted
+#                                form "DAS Policy 50.010.03" and 2-digit families like 10-011-01)
 #   (DOC) Policy: 30.2.3      -> doc-30-2-3        (dotted triple, DOC numbering)
-DAS_POL_RE = re.compile(r"DAS Policy:?\s*(\d{3}-\d{3}-\d{3})", re.I)
+#   OYA policy: 0-2.3 / I-A-10.1  -> oya-0-2-3 / oya-i-a-10-1  (OYA's own numbering scheme)
+DAS_POL_RE = re.compile(r"DAS Policy:?\s*(\d{2,3})[-.](\d{3})[-.](\d{2,3})", re.I)
 DOC_POL_RE = re.compile(r"\bPolicy:?\s*(\d{1,3}\.\d{1,2}\.\d{1,3})\b")
 OSH_POL_RE = re.compile(r"\bPolicy:?\s*(\d{1,2}\.\d{3})\b")   # OSH two-part number, e.g. 1.010
+OYA_POL_RE = re.compile(r"\b(0-\d{1,2}\.\d{1,2}|[IVX]{1,3}-[A-Z]-\d{1,2}(?:\.\d{1,2})?)\b")
 
 REL_KEYS = ["implements", "implemented_by", "references_external", "related", "supersedes"]
 
@@ -83,9 +86,10 @@ def authority_text(fm, body):
                 parts.append("ORS " + seg[:end])  # ensure bare numbers count as ORS refs
     elif fm["doc_type"] in ("policy", "procedure", "manual", "standard"):
         if str(fm.get("agency", "")).startswith(
-                ("oregon-health-authority", "department-of-human-services")):
-            parts.append(t)  # OHA/DHS policies cite ORS/OAR/other policies in a body
-                             # "References" section, not a header authority block
+                ("oregon-health-authority", "department-of-human-services",
+                 "oregon-watershed-enhancement-board", "public-utility-commission")):
+            parts.append(t)  # small agencies whose policies cite ORS/OAR/other policies
+                             # throughout the body, not in a header authority block
         else:
             # header region: everything before the first substantive heading
             m = re.search(r"\b(PURPOSE|POLICY STATEMENT|POLICY/)\b", t)
@@ -119,15 +123,20 @@ def resolve_citations(text, docs, rule_map, div_map, rules_by_div, self_id):
 
 def policy_xrefs(text, docs, self_id):
     """In-repo policy ids cross-referenced by a policy's directives/references block —
-    `related` edges (not authority). Resolves DAS (hyphen-triple) and DOC (dotted-triple)
-    policy numbers; links only to policies actually in the corpus."""
+    `related` edges (not authority). Resolves DAS (hyphen or dotted), DOC (dotted-triple), and
+    OYA (its own numbering scheme) policy numbers; links only to policies actually in the
+    corpus."""
     out = set()
-    for num in DAS_POL_RE.findall(text):
-        tid = f"das-{num}"
+    for g1, g2, g3 in DAS_POL_RE.findall(text):
+        tid = f"das-{g1}-{g2}-{g3}"
         if tid in docs:
             out.add(tid)
     for num in DOC_POL_RE.findall(text):
         tid = "doc-" + num.replace(".", "-")
+        if tid in docs:
+            out.add(tid)
+    for num in OYA_POL_RE.findall(text):
+        tid = "oya-" + num.lower().replace(".", "-")
         if tid in docs:
             out.add(tid)
     if self_id.startswith("oha-osh"):        # OSH policies cross-reference sibling OSH policies

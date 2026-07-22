@@ -27,7 +27,8 @@ relationships:
     - ors-279a.167
   implemented_by: []
   references_external: []
-  related: []
+  related:
+    - das-50-035-01
   supersedes: []
 tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
 ---

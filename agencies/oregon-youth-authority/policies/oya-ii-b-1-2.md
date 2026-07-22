@@ -36,7 +36,15 @@ relationships:
     - oar-416-490-0050
   implemented_by: []
   references_external: []
-  related: []
+  related:
+    - oya-i-e-4-0
+    - oya-ii-a-1-5
+    - oya-ii-a-2-0
+    - oya-ii-b-1-1
+    - oya-ii-d-2-2
+    - oya-ii-e-4-0
+    - oya-ii-f-3-4
+    - oya-ii-f-3-7
   supersedes: []
 tags: ['oregon-youth-authority', 'policy']
 ---

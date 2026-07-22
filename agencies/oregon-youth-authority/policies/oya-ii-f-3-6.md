@@ -27,7 +27,10 @@ relationships:
     - ors-419c.200
   implemented_by: []
   references_external: []
-  related: []
+  related:
+    - oya-ii-f-1-0
+    - oya-ii-f-3-0
+    - oya-ii-f-3-4
   supersedes: []
 tags: ['oregon-youth-authority', 'policy']
 ---
