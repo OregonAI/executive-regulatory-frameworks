@@ -1,0 +1,92 @@
+note: >
+  CURATED, NOT mechanically derived. Maps OAR chapters to 4 stated gubernatorial priority
+  areas (as given by the repo maintainer, 2026-07-22), so build_governor_priorities.py can
+  show rulemaking recency/volume in each area. This is an interpretive judgment call about
+  which agencies/chapters plausibly implement each priority — not something the corpus itself
+  asserts. A chapter appears in at most one area (even where a real dual-purpose exists, e.g.
+  DLCD's land-use rules touch both industrial siting and housing production) to keep each
+  area's story distinct rather than double-counted. Review before treating as authoritative;
+  update citations/reasoning if the mapping should change.
+retrieved: '2026-07-22'
+areas:
+  - id: economic_growth
+    name: "Economic Growth & Job Creation"
+    summary: "Oregon's Prosperity Roadmap / Governor's Prosperity Council — fast-track
+      permits for major projects, prepare industrial sites, modernize business incentives."
+    chapters:
+      - agency: oregon-business-development-department
+        oar_chapter: '123'
+        reasoning: "Business Oregon — state loans/grants/incentive programs; the most
+          direct match to \"modernize business incentives.\""
+      - agency: department-of-environmental-quality
+        oar_chapter: '340'
+        reasoning: "DEQ issues the environmental permits (air/water/land) that \"fast-track
+          permits for major projects\" would need to streamline. Broad chapter — not every
+          DEQ rule is permit-timeline-related, but permitting is a large share of it."
+  - id: housing
+    name: "Housing & Homelessness"
+    summary: "Multi-pronged approach to housing production — funding for housing
+      infrastructure, affordable rental construction, home repair for older adults."
+    chapters:
+      - agency: oregon-housing-and-community-services-department
+        oar_chapter: '813'
+        reasoning: "OHCS is the state housing-production/homelessness-funding agency —
+          the direct implementer of this priority."
+      - agency: department-of-consumer-and-business-services-building-codes-division
+        oar_chapter: '918'
+        reasoning: "Building code rules directly gate how fast housing (and repairs) can
+          be built/permitted."
+      - agency: land-conservation-and-development-department
+        oar_chapter: '660'
+        reasoning: "DLCD sets regional housing-needs and housing-production-strategy
+          rules (also touches industrial land use, but housing production is the more
+          specific, currently active mandate — kept out of economic_growth to avoid
+          double-counting the same chapter in two areas)."
+  - id: mental_health
+    name: "Mental Health & Addiction"
+    summary: "Remove barriers for qualified behavioral health/addiction professionals —
+      streamline credentialing, reduce administrative burdens."
+    chapters:
+      - agency: oregon-health-authority-health-systems-division-behavioral-health-services
+        oar_chapter: '309'
+        reasoning: "OHA's behavioral-health program rules — direct service-delivery
+          implementer."
+      - agency: oregon-health-authority-health-systems-division-addiction-services
+        oar_chapter: '415'
+        reasoning: "OHA's addiction-services program rules — direct service-delivery
+          implementer, explicitly named in the priority (\"addiction\")."
+      - agency: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
+        oar_chapter: '833'
+        reasoning: "Licenses counselors/therapists — the credentialing-streamlining
+          target named in the priority."
+      - agency: mental-health-regulatory-agency-oregon-board-of-psychology
+        oar_chapter: '858'
+        reasoning: "Licenses psychologists — same credentialing-streamlining rationale."
+      - agency: board-of-licensed-social-workers
+        oar_chapter: '877'
+        reasoning: "Licenses social workers, a substantial share of the behavioral-health
+          workforce — same credentialing-streamlining rationale."
+  - id: communities
+    name: "Defending Oregon Communities"
+    summary: "Protecting vulnerable residents, core services, and civil liberties from
+      federal funding cuts and aggressive immigration enforcement."
+    caveat: "The weakest fit of the four to routine OAR rulemaking — this priority is
+      substantially about litigation posture, funding decisions, and administrative
+      guidance (much of it never becomes a numbered rule), not chapter-level rule
+      amendments. Included for completeness; read its rulemaking-activity signal with
+      that caveat, more than the other three areas."
+    chapters:
+      - agency: department-of-justice
+        oar_chapter: '137'
+        reasoning: "DOJ is the state's legal-defense function — the most direct link to
+          \"defending\" against federal action, though DOJ's chapter covers routine
+          practice rules (e.g. public records, victims' rights) more than litigation
+          posture, which isn't rulemaking at all."
+      - agency: department-of-human-services
+        oar_chapter: '407'
+        reasoning: "DHS administers core services (SNAP, TANF, child welfare) for the
+          \"vulnerable residents\" this priority names as needing protection."
+      - agency: bureau-of-labor-and-industries
+        oar_chapter: '839'
+        reasoning: "BOLI enforces employment civil-rights protections — the closest
+          rulemaking-adjacent link to \"civil liberties\"."
