@@ -1,7 +1,9 @@
 name: check-links
 
+# Link-checking 68k markdown files hits every external URL — far too slow (and too noisy
+# to external hosts) for a per-PR gate, and link rot shouldn't block a merge. Runs weekly
+# and on manual dispatch only.
 on:
-  pull_request:
   workflow_dispatch:
   schedule:
     - cron: "17 9 * * 1" # weekly, Monday 09:17 UTC
@@ -9,6 +11,7 @@ on:
 jobs:
   lychee:
     runs-on: ubuntu-latest
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
       - name: Check Markdown links

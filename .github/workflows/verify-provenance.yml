@@ -1,16 +1,20 @@
 name: verify-provenance
 
+# PRs and pushes verify only the CHANGED files (fast); the nightly cron (and manual
+# workflow_dispatch) run the full-corpus verification — at ~68k files a full pass is far
+# too slow for a per-PR gate.
 on:
   push:
     branches: [main]
   pull_request:
   schedule:
-    # nightly full-corpus verification (PRs only check changed files)
-    - cron: "0 8 * * *"
+    - cron: "0 8 * * *"   # nightly full-corpus verification
+  workflow_dispatch:
 
 jobs:
   verify:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
         with:
@@ -20,11 +24,14 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install pyyaml
-      - name: Verify provenance (changed files on PRs, full corpus otherwise)
+      - name: Verify provenance
         run: |
-          if [ "${{ github.event_name }}" = "pull_request" ]; then
-            git fetch --no-tags origin "${{ github.base_ref }}"
-            python3 src/verify_provenance.py --changed "origin/${{ github.base_ref }}"
-          else
-            python3 src/verify_provenance.py
-          fi
+          case "${{ github.event_name }}" in
+            pull_request)
+              git fetch --no-tags origin "${{ github.base_ref }}"
+              python3 src/verify_provenance.py --changed "origin/${{ github.base_ref }}" -j2 ;;
+            push)
+              python3 src/verify_provenance.py --changed "${{ github.event.before }}" -j2 ;;
+            *)  # schedule / workflow_dispatch — full corpus
+              python3 src/verify_provenance.py -j2 ;;
+          esac

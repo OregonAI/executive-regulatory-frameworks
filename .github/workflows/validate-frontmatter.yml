@@ -1,48 +1,61 @@
 name: validate-frontmatter
 
+# PRs and pushes validate only the CHANGED files plus the fast/moderate staleness gates;
+# the two heaviest full-corpus scans (review_queue, enrich_oar) and the full-corpus
+# frontmatter validation run only nightly (cron) and on manual dispatch — at ~68k files
+# they blow past a reasonable per-PR budget.
 on:
   push:
     branches: [main]
   pull_request:
   schedule:
-    # nightly full-corpus validation (PRs only check changed files)
-    - cron: "0 8 * * *"
+    - cron: "0 8 * * *"   # nightly full-corpus audit
+  workflow_dispatch:
 
 jobs:
   validate:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
         with:
-          # full history so --changed can compute the merge-base with the PR base
-          fetch-depth: 0
+          fetch-depth: 0   # full history so --changed can compute the merge-base
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: pip install pyyaml jsonschema
-      - name: Validate frontmatter (changed files on PRs, full corpus otherwise)
+      - name: Validate frontmatter
         run: |
-          if [ "${{ github.event_name }}" = "pull_request" ]; then
-            git fetch --no-tags origin "${{ github.base_ref }}"
-            python3 src/validate_frontmatter.py --changed "origin/${{ github.base_ref }}"
-          else
-            python3 src/validate_frontmatter.py
-          fi
-      - name: Review queue must be current
-        run: python3 src/review_queue.py --check
+          case "${{ github.event_name }}" in
+            pull_request)
+              git fetch --no-tags origin "${{ github.base_ref }}"
+              python3 src/validate_frontmatter.py --changed "origin/${{ github.base_ref }}" -j2 ;;
+            push)
+              python3 src/validate_frontmatter.py --changed "${{ github.event.before }}" -j2 ;;
+            *)  # schedule / workflow_dispatch — full corpus
+              python3 src/validate_frontmatter.py -j2 ;;
+          esac
+
+      # --- generated-file staleness gates (moderate; every run) ---
       - name: Relationship graph must be current
         run: python3 src/link_graph.py --check
       - name: llms.txt must be current
         run: python3 src/build_llms.py --check
-      - name: OAR frontmatter must match each rule's own structured lines
-        run: python3 src/enrich_oar.py --check
       - name: Agency overview must be current
         run: python3 src/build_agency_index.py --check
+      - name: Agency authority-graph visualization must be current
+        run: python3 src/build_agency_graph.py --check
+      - name: Semantic vector index must be current (soft-pass if not built)
+        run: python3 src/build_embeddings.py --check
       - name: Agency profile engine selftest
         run: python3 src/agency_profile.py --selftest
       - name: MCP query engine selftest
         run: python3 src/mcp_lib.py --selftest
-      - name: Semantic vector index must be current (soft-pass if not built)
-        run: python3 src/build_embeddings.py --check
-      - name: Agency authority-graph visualization must be current
-        run: python3 src/build_agency_graph.py --check
+
+      # --- heaviest full-corpus scans: nightly / on-demand only ---
+      - name: Review queue must be current (nightly)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python3 src/review_queue.py --check
+      - name: OAR frontmatter must match each rule's own structured lines (nightly)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python3 src/enrich_oar.py --check
