@@ -1,0 +1,2378 @@
+ Internal Water
+ Surface  Management
+                Management
+                     Directive
+
+
+Regulatory Mixing Zone
+Internal Management Directive
+Part Two: Reviewing Mixing Zone Studies
+
+June 2013
+
+
+
+
+                                             Last Updated: 6/10/12
+                                             By: Sonja Biorn-Hansen
+Oregon Department of Environmental Quality   DEQ 07-WQ-012 Rev. 2.1
+                                             SWM-RN-00478
+Questions or comments on this IMD can be directed to:
+Sonja Biorn-Hansen, DEQ Surface Water Management Section, or Steve Schnurbusch, Western Region, Salem
+Office.
+
+
+
+
+Alternative formats (Braille, large type) of this document can be made available.
+Contact DEQ’s Office of Communications & Outreach, Portland, at (503) 229-5696, or toll-free in Oregon at
+1-800-452-4011, ext. 5696.
+
+
+Oregon Department of Environmental Quality                                                                  ii
+Regulatory Mixing Zone Internal Management Directive
+
+
+Disclaimer
+This internal management directive (IMD) represents the department’s current process for allocating
+regulatory mixing zones and reviewing mixing zone studies. The recommendations in this IMD should
+not be construed as a requirement of rule or statute. The IMD outlines general guidelines; it is not
+meant to limit how the department conducts regulatory mixing zone analyses, which are performed on
+a case-by-case basis. The department anticipates revising this document as needed to address
+additional issues or clarify direction to staff.
+
+
+
+
+Document Development
+
+Prepared By:     Sonja Biorn-Hansen                                              May 2012
+
+
+Reviewed By      Steve Schnurbusch and Ranei Nomura                              Spring 2012
+
+
+Approved By:                                                            Date:
+Regulatory Mixing Zone Internal Management Directive
+
+
+Table of Contents
+        Part Two: Reviewing Mixing Zone Studies........................................................................................ 1
+        May 2012 ............................................................................................................................................ 1
+1. Introduction ............................................................................................................................................. 1
+    Overview................................................................................................................................................................. 1
+        Purpose ............................................................................................................................................... 1
+        Role of the Permit Writer.................................................................................................................... 1
+        Organization ....................................................................................................................................... 1
+        What is a Mixing Zone Study? ........................................................................................................... 1
+2. Mixing and Modeling Basics................................................................................................................... 3
+    2.1 Physical Mixing Characteristics ........................................................................................................................ 3
+        Factors Controlling Mixing ................................................................................................................ 3
+        Near and Far-Field Mixing Processes ................................................................................................. 3
+        Influence of Boundary Interactions on Mixing................................................................................... 4
+        Re-Entrainment of Discharge ............................................................................................................. 6
+    2.2 Mixing Zone Models......................................................................................................................................... 6
+        Available Models ................................................................................................................................ 6
+        Steady-State vs. Dynamic Models ...................................................................................................... 6
+        When Steady-State Mixing Zone Models May Not Be Appropriate .................................................. 7
+        Model Sensitivity ................................................................................................................................ 7
+3. Expected Effort and Mixing Zone Study Checklist................................................................................. 8
+    3.1 Level of Effort For Different Types of Discharges .......................................................................................... 8
+        Overview............................................................................................................................................. 8
+        Level 1: Simple ................................................................................................................................... 8
+        Level 2: Moderate ............................................................................................................................... 9
+        Level 3: Complex ............................................................................................................................... 9
+        Examples............................................................................................................................................. 9
+        Decision Flow Chart to Dedermine Level of Effort ........................................................................... 9
+    3.2 Permit Writer’s Quick Review Checklist ........................................................................................................ 13
+        How to Use the Checklist ................................................................................................................. 13
+        Missing Information?........................................................................................................................ 13
+        Enough Detail? ................................................................................................................................. 13
+4. Mixing Zone Study Components.......................................................................................................... 19
+    Introduction....................................................................................................................................... 19
+    4.1 Environmental Mapping ................................................................................................................................ 19
+Regulatory Mixing Zone Internal Management Directive
+        Overview........................................................................................................................................... 19
+        Available Resources ......................................................................................................................... 19
+        Levels 1, 2, & 3................................................................................................................................. 21
+        Example ............................................................................................................................................ 21
+        Additional Information: Level 3 ....................................................................................................... 23
+    4.2 Outfall and RMZ Characterization................................................................................................................. 24
+        Overview........................................................................................................................................... 24
+        All Levels.......................................................................................................................................... 24
+    4.3 Ambient Receiving Water Conditions ........................................................................................................... 26
+        Overview........................................................................................................................................... 26
+        Resources for Flow Data................................................................................................................... 27
+        Characterizing Critical and “Off-Design” Conditions ...................................................................... 27
+        Effort Level for Riverine Environments ........................................................................................... 27
+        Effort Level for Tidally-Affected Waterbodies, Estuaries, Bays, and Oceans ................................. 28
+        Statistics for Critical Flow Conditions.............................................................................................. 28
+        Receiving Waterbody Cross-Sectional Profile ................................................................................. 28
+        Ambient Velocity Profile .................................................................................................................. 28
+        Temperature and Salinity Profile ...................................................................................................... 29
+        Manning’s Roughness Coefficient.................................................................................................... 29
+    4.4 Discharge Characteristics ............................................................................................................................... 31
+        Overview........................................................................................................................................... 31
+        Discharge Flow Statistics.................................................................................................................. 31
+        Temperature and Density .................................................................................................................. 32
+    4.5 Mixing Zone Modeling Analysis ................................................................................................................... 32
+        Overview........................................................................................................................................... 32
+        Expected Level of Effort When Modeling........................................................................................ 32
+        What Type of Information is Needed?.............................................................................................. 33
+        Was the Appropriate Model Used? ................................................................................................... 35
+References ................................................................................................................................................. 38
+Appendix A: Mixing Zone Study Checklist .............................................................................................. 39
+Appendix B: Examples of Mixing Zone Study Effort Levels ................................................................... 44
+    Level 1: Simple ..................................................................................................................................................... 44
+        ABC Packaging: ............................................................................................................................... 44
+        ACME, Inc. ....................................................................................................................................... 44
+        City of Mythical ................................................................................................................................ 44
+    Level 2: Moderate ................................................................................................................................................. 44
+        Mythical Mills .................................................................................................................................. 44
+        City of Hypothetical ......................................................................................................................... 45
+Regulatory Mixing Zone Internal Management Directive
+       City of Example ................................................................................................................................ 45
+   Level 3: Complex.................................................................................................................................................. 45
+       City of Utopia ................................................................................................................................... 45
+       ABC Paper Company ....................................................................................................................... 45
+Appendix C: Critical Flow Conditions ...................................................................................................... 46
+   Overview............................................................................................................................................................... 46
+   Rivers and Run-of-Rivers Reservoirs ................................................................................................................... 46
+   Design Flow Software........................................................................................................................................... 47
+   Lakes and Reservoirs ............................................................................................................................................ 47
+   Estuaries and Coastal Bays ................................................................................................................................... 47
+   Oceans................................................................................................................................................................... 48
+Appendix D: Revision History .................................................................................................................. 49
+   Overview............................................................................................................................................................... 49
+   Revisions............................................................................................................................................................... 49
+       Rev. 1.1 ............................................................................................................................................. 49
+       Rev. 2.0 ............................................................................................................................................. 49
+Regulatory Mixing Zone IMD – Part 2                                        Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                           May 2012
+Revision 2.0                                                                                            Page 1 of 50
+
+
+
+
+ 1. Introduction
+
+ Overview
+ Purpose
+ The purpose of this internal management directive (IMD) is to assist department staff in allocating
+ regulatory mixing zones (RMZs) in National Pollutant Discharge Elimination System (NPDES)
+ individual permits for intermittent and continuous wastewater discharges. The effective implementation
+ date for this IMD is July 1, 2008. All completed applications received after this date must be processed
+ pursuant to the guidelines contained in the IMD.
+
+ The IMD is in two parts to address the following issues:
+
+ Part 1: Allocating Regulatory Mixing Zones
+     •    Details the necessary steps for sizing and allocating an RMZ in accordance with state and federal
+          regulations.
+     •    Clarifies what documentation is needed in both the permit and permit evaluation report (fact
+          sheet) to support allocation of an RMZ.
+
+ Part 2: Reviewing Mixing Zone Studies
+     •    Provides for staff consistency when requesting and reviewing mixing zone study information.
+     •    Clarifies for staff and permit applicants what information should be provided in a mixing zone
+          study prior to permit development.
+
+
+ Role of the Permit Writer
+ The primary role of the permit writer is to ensure that a mixing zone study has the minimum information
+ necessary to proceed with allocating a new mixing zone or reviewing an existing one. However, not
+ every permit writer will have the necessary experience or knowledge to make this determination. It may
+ also be difficult for the permit writer to interpret the information in the study. In these situations,
+ consultation with DEQ modeling and laboratory staff will be necessary.
+
+
+ Organization
+ Part 2 of this IMD is organized into the following sections:
+
+     1.   Introduction
+     2.   Mixing and Modeling Basics
+     3.   Expected Effort and Mixing Zone Study Checklist
+     4.   Mixing Zone Study Components
+
+
+ What is a Mixing Zone Study?
+ Pursuant to Oregon Administrative Rule (OAR) 340-041-0053(2)(e) and (f), the department may request
+ information to properly define an RMZ or evaluate an existing RMZ. The applicant provides this
+Regulatory Mixing Zone IMD – Part 2                                         Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                            May 2012
+Revision 2.0                                                                                             Page 2 of 50
+
+
+ information to the department as a “mixing zone study.” The following are considered essential
+ components of a study:
+
+     •   Environmental mapping Section 4.1
+         A map and characterization of the specific habitats, critical resource areas, and other beneficial
+         uses of the receiving water.
+
+     •   Outfall and RMZ characteristics Section 4.2
+         A description of the existing or proposed RMZ, including a description of existing or proposed
+         outfalls.
+
+     •   Ambient receiving water conditions Section 4.3
+
+     •   Discharge characteristics Section 4.4
+
+     •   Mixing zone modeling analysis Section 4.5
+         Information on the type of model used, why it was selected over other models, and results of the
+         modeling exercise. Results of the modeling exercise will predict available dilution in the
+         receiving water.
+
+ In gathering the above information, the applicant should be made aware that the RMZ must be evaluated
+ under critical conditions, with justification provided for the determination of when these conditions are
+ expected to occur. The determination should take into account the fact that pollutant concentrations and
+ uses of the receiving stream may vary with the season. Additionally, the size and travel time associated
+ with the physical mixing zone may vary from season to season as effluent and instream flows and
+ velocities vary.
+
+ Studies may range in level of effort and complexity depending on the nature of the discharge and
+ sensitivity of the receiving water. The department’s expectation for different situations is discussed
+ further in Section 3: Expected Effort and Mixing Zone Study Checklist. A printable version of the
+ checklist is contained in Appendix A.
+Regulatory Mixing Zone IMD – Part 2                                              Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                                 May 2012
+Revision 2.0                                                                                                  Page 3 of 50
+
+
+
+ 2. Mixing and Modeling Basics
+
+ 2.1 Physical Mixing Characteristics
+ Factors Controlling Mixing
+ Mixing processes are largely controlled by two factors:
+       •     Discharge characteristics
+             Discharge velocity, flow rate, diffuser and port dimensions and configurations (e.g., port or pipe
+             diameter, number of discharge ports, diffuser and port orientation angles, elevation of port or pipe
+             off the bottom), temperature, and density.
+
+       •     Ambient receiving water conditions
+             Ambient velocity, flow rate, lateral cross sections and depth, density profile, and bottom
+             roughness.
+
+ Near and Far-Field Mixing Processes
+ The physical mixing process can be conceptualized in two distinct regions: near-field and far-field (see
+ Figure 2-1):
+
+   •       Near-field
+           The near-field region is defined where initial jet momentum, buoyancy flux, and outfall
+           characteristics control the mixing process. Designers of diffusers and outfalls try to maximize
+           initial mixing and dilution in this near-field region. When the discharge flow encounters a
+           boundary condition (see Influence of Boundary Interactions on Mixing later in this section) such as
+           a surface, bottom, or internal ambient density stratification layer, the near-field region ends and the
+           transition to the far-field begins.
+
+   •       Far-field
+           The far-field region is the area where ambient processes dominate the mixing process. Once the
+           discharge interacts with a vertical boundary (e.g., the water surface), the mixing processes are
+           primarily a function of the ambient conditions characterized by the longitudinal dispersion of the
+           discharge plume by ambient velocity. The discharge in the far-field loses its “memory” of its initial
+           conditions and mixing is now mainly a function of the ambient conditions.
+
+ To summarize, the near-field region is typically the region that is controlled by initial discharge
+ characteristics (e.g., flow rate, port diameter) and buoyancy. The far-field region is the region that is
+ controlled by ambient conditions (e.g., ambient velocity and density field, cross sectional area).
+Regulatory Mixing Zone IMD – Part 2                                        Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                           May 2012
+Revision 2.0                                                                                            Page 4 of 50
+
+
+ Figure 2-1. Example of Near and Far-Field Regions (CORMIX manual)
+
+
+
+
+ Influence of Boundary Interactions on Mixing
+ There are several types of boundary interactions:
+   •   Bottom boundaries – The discharge plume hits the bottom of the receiving water [Figure 2-2(c)].
+       These are more likely to occur when the outfall is near the bottom. Attachments of the discharge
+       plume may also occur in what are known as “wake” or “Coanda” attachments. A wake attachment
+       occurs when the crossflow of the receiving water bends the plume over [Figure 2-2(a)]. A Coanda
+       attachment occurs when entrainment demand of the effluent jet itself forces the plume over; this is
+       due to low pressure effects as the jet periphery is close to the water bottom [Figure 2-2(b)].
+
+   •   Stratification boundaries – The discharge plume hits an intermediate boundary layer due to density
+       stratification of the ambient water body. These typically occur in estuaries, oceans, or reservoirs.
+       [Figure 2-2(d)]
+
+   •   Surface water boundaries – The discharge plume hits the surface. This interaction will occur in
+       most discharge situations. [Figure 2-2(e)]
+
+   •   Bank attachments – The discharge plume hugs the bank. Bank attachments are more like to occur
+       when the outfall is near the bank. [Figure 2-2(f)]
+
+ Boundaries inhibit mixing; therefore each boundary interaction needs to be modeled.
+Regulatory Mixing Zone IMD – Part 2                                                 Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                                    May 2012
+Revision 2.0                                                                                                     Page 5 of 50
+
+
+ Figure 2-1: Boundary Examples
+
+
+
+
+                          a) Wake Attachment                                  b) Coanda Attachment
+                              (side view)                                          (side view)
+
+                                Figures from Fischer, H.B. et al. “Mixing Inland and
+                                     Coastal Waters,” Academic Press, 1979.)
+
+
+
+
+     c) Bottom Boundary                       d) Stratification Boundary                  e) Surface Boundary
+         (side view)                                  (side view)                              (side view)
+
+
+
+
+                                      Flow direction
+
+
+
+
+                                                                             PLUM
+
+
+
+
+                                                       f) Bank Attachment
+                                                        (top or plan view)
+Regulatory Mixing Zone IMD – Part 2                                        Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                           May 2012
+Revision 2.0                                                                                            Page 6 of 50
+
+
+ Re-Entrainment of Discharge
+
+ In shallow environments, discharges can become re-entrained in the near-field region due to instabilities
+ associated with surface and bottom interactions and localized recirculation cells that extend over the
+ entire water depth [see Figure 2-3(b), below]. Because re-entrainment can cause a build up of pollutant
+ concentrations and reduce the amount of dilution actually occurring in the receiving water, it is important
+ to know whether re-entrainment is occurring. See Figure 2-3 below for more examples of near-field
+ stability and instabilities.
+
+ Figure 2-3. Near-field Stability and Instability (CORMIX manual)
+
+
+
+
+ 2.2 Mixing Zone Models
+
+ Available Models
+ The department prefers EPA-supported models (e.g., PLUMES, CORMIX), but the permit writer may
+ consider other models if adequate documentation on model selection is provided as discussed in Section
+ 4.5: What type of information is needed? For more information on EPA-supported models visit EPA’s
+ Center for Exposure Assessment Modeling located on-line at
+ http://www.epa.gov/ceampubl/swater/index.htm or EPA Water Quality Models at
+ http://www.epa.gov/ost/wqm/.
+
+ Steady-State vs. Dynamic Models
+ The mixing zone models typically used by DEQ are considered “steady-state” models meaning they make
+ predictions based on steady conditions that are fixed (e.g., flow rates, pollutant concentrations). A
+ dynamic model is a model that takes changing conditions into account. For example, a dynamic model
+ may be needed in estuaries where there are hourly tidal fluctuations.
+Regulatory Mixing Zone IMD – Part 2                                        Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                           May 2012
+Revision 2.0                                                                                            Page 7 of 50
+
+
+ When Steady-State Mixing Zone Models May Not Be Appropriate
+ Mixing zone models are not always able to adequately simulate discharge conditions. Many models are
+ not appropriate when discharge is to:
+
+     •   Shallow streams of non-uniform flow where the stream substrate (e.g., rocks, boulders, logs)
+         impedes water flow. In this case, a simple field study using a conductivity meter may be
+         sufficient. It needs to be performed during conditions that approximate critical conditions.
+
+     •   Tidally-influenced waterbodies, which are highly dynamic and may cause re-entrainment of the
+         effluent plume as tides change.
+
+ A dynamic model may be needed in a highly dynamic system like an estuary. These models have the
+ ability to simulate unsteady flow in two and three dimensions, but they are typically complex and require
+ a large amount of data, including field measurements for calibration and validation of the model. Field
+ dye studies for the entire tidal cycle coupled with steady-state modeling may also be feasible. Note that
+ several scenarios may need to be modeled over the tidal cycle. See Appendix C: Critical Flow Conditions
+ for more information on tidal influences.
+
+ Model Sensitivity
+ It is important to evaluate model sensitivity when performing any type of modeling because slight
+ changes in some input parameters can provide significantly different model results. For example, mixing
+ zone model predictions are typically sensitive to changes in stream velocity. Therefore, it is important to
+ obtain an accurate instream velocity data set to maximize the confidence in the model predictions.
+
+ Model sensitivity should be determined prior to collecting the necessary data to run the model. A
+ sensitivity analysis will indicate where accurate field measurements need to be obtained to reduce
+ uncertainty in the model results. When analyzing for sensitivity, the key is to change only one input
+ variable at a time. If more than one input variable is changed at the same time, it is impossible to
+ determine which variable caused the change in output results. See Section 4.5: Was the appropriate
+ model used? for more detail on how to check model sensitivity.
+Regulatory Mixing Zone IMD – Part 2                                          Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                             May 2012
+Revision 2.0                                                                                              Page 8 of 50
+
+
+
+ 3. Expected Effort and Mixing Zone Study
+    Checklist
+
+ 3.1 Level of Effort For Different Types of Discharges
+ Overview
+ The complexity of a mixing zone study will depend on the nature of the discharge and sensitivity of the
+ receiving water. To determine the minimum information needed in a study, the department has classified
+ discharges into three “effort levels” discussed further in this Section:
+ • Level 1 – Simple
+ • Level 2 – Moderate
+ • Level 3 – Complex
+
+ Section 4.5 describes the level of modeling associated with each level of field study.
+
+ These different effort levels have been developed based on the department’s experience with existing
+ mixing zone studies. These are general guidelines to be used when determining the appropriate effort
+ level. The permit writer should communicate with the permit holder to ensure the appropriate effort level
+ has been chosen.
+
+ Note: It may be acceptable to proceed with conservative assumptions if the minimum information
+ requested for these effort levels is not available or will take too long to collect. For example, conservative
+ estimates of instream critical flow condition may be used if actual flow data is incomplete and the critical
+ flow condition for the year has recently passed. In some cases, the permit applicant may also accept more
+ conservative assumptions to prevent delays in permit issuance.
+
+
+ Level 1: Simple
+ Level 1 represents the simplest approach and is appropriate for evaluating a discharge with a low level of
+ risk to ecological resources and public health. To be specific, this level is appropriate for a discharge for
+ which both of the following are true:
+
+     1) The discharge has no reasonable potential to exceed acute criteria at the end of pipe and the
+        available dilution in the receiving water is greater than 20 times 25% of critical flow (see section
+        4.2 of Part 1 of the RMZ IMD for definitions). If the potential to exceed acute criteria in this
+        situation is only due to chlorine and ammonia, the discharge may still be considered in the
+        context of a Level 1 effort because these pollutants rapidly change to less toxic forms and do not
+        bioaccumulate.
+
+     2) The discharge is not classified as “major” (see item #5 on p. 10).
+
+     The comparison of dilution against “25% critical flow” is directly related to the temperature water
+     quality standard and temperature mixing zone requirements. The temperature water quality standard
+     in OAR 340-041-0028(12)(b)(A) uses 25% of flow to evaluate discharges for temperature concerns
+     prior to TMDL or other cumulative effects analysis:
+Regulatory Mixing Zone IMD – Part 2                                         Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                            May 2012
+Revision 2.0                                                                                             Page 9 of 50
+
+
+         “…no single discharge may cause temperature to the water body to increase more than
+         0.3 °C (0.5 °F) above applicable criteria after mixing with either 25% of stream flow or
+         the temperature mixing zone, whichever is more restrictive.”
+
+ The use of a dilution factor of 20 or more to characterize a Level 1 effort represents the department’s
+ judgment and experience with existing mixing zone studies. The department believes that the availability
+ of dilution at this level, or greater, lessens concerns over temperature increases and a Level 1 effort is
+ appropriate.
+
+ Level 2: Moderate
+ Level 2 represents the next tier of complexity and is generally appropriate for the following situations:
+
+     1) A discharge with the reasonable potential to exceed acute criteria at the end of pipe, but the
+        available dilution in the receiving water is greater than 20 times 25% of critical flow. If potential
+        to exceed acute criteria in this situation is only due to chlorine and ammonia and the discharge is
+        not classified as “major,” a Level 1 effort may still be considered because these pollutants rapidly
+        change to less toxic forms and do not bioaccumulate.
+     2) A discharge that meets the acute criteria at end of pipe, but available dilution in the receiving
+        water is less than 20 times 25% of critical flow.
+
+
+ Level 3: Complex
+ Level 3 is the most complex approach and is generally appropriate for either of the following:
+
+     1) A discharge with the reasonable potential for major environmental impact (see step #2 in flow
+        chart presented in Figure 3-1).
+     2) A discharge with the reasonable potential for exceeding acute criteria at the end of pipe and
+        available dilution in the receiving water is less than 20 times 25% of critical flow. If potential to
+        exceed acute criteria in this situation is only due to chlorine and ammonia, a Level 2 effort may
+        still be considered because these pollutants rapidly change to less toxic forms and do not
+        bioaccumulate.
+
+
+
+ Examples
+ See Appendix B: Examples of Mixing Zone Study Effort Levels for examples of different mixing zone
+ study effort levels.
+
+
+ Decision Flow Chart to Dedermine Level of Effort
+ A flow chart that may be used to determine the level of effort expected from the applicant when doing a
+ mixing zone study is provided in Figure 3-1. This flow chart assumes that critical questions pertaining to
+ the department’s antidegradation policy and statewide narrative criteria (OAR 340-041-0004 and 0007,
+ respectively) have been addressed..
+
+ The major decision steps include the following:
+
+     1) Is dilution available at critical flow?
+        Discharges to waterbodies with no available dilution are required to meet applicable water quality
+        criteria at the end-of-pipe. In some circumstances, an intake credit, a variance, site specific
+        criteria or a use attainability analysis may be considered (see the department’s Use Attainability
+Regulatory Mixing Zone IMD – Part 2                                         Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                            May 2012
+Revision 2.0                                                                                             Page 10 of 50
+
+
+         Analysis IMD and Variance IMD for more information). Note, however, that these alternatives
+         may be resource intensive and are not available in all circumstances.
+
+     2) Is there potential to impact ecologically sensitive areas?
+        In some situations, a discharge may have the potential to impact ecologically sensitive areas
+        because the RMZ encroaches on frequently used public beaches, a drinking water intake, or
+        spawning or unique habitat for threatened and endangered species. In these situations, a Level 3
+        effort is needed.
+
+     3) Are acute criteria met at end of pipe?
+        A review of discharge characterization data must be performed to determine whether the
+        discharge will meet acute criteria at the end of pipe. This data should be included in the permit
+        application. If the data does not exist or is insufficient to complete the reasonable potential and
+        mixing zone analysis, the permit writer must request the necessary information before
+        proceeding.
+
+         If ammonia and chlorine are the only acute criteria with the reasonable potential to be exceeded at
+         end-of-pipe, Level 1 or 2 mixing zone studies may still be considered because these pollutants do
+         not bioaccumulate and quickly change to less toxic forms.
+
+         This review must be conducted using the most current version of the department’s Reasonable
+         Potential Analysis and Limits Workbook in Excel format available on the DEQ website at:
+         http://www.deq.state.or.us/wq/pubs/imds/rpaIMD.pdf
+         Using the workbook will allow for a statistical comparison of the maximum expected
+         concentration against the acute criteria. A simple comparison of discharge characterization data
+         against the criteria is not sufficient.
+
+     4) Is dilution with 25% of critical flow greater than 20?
+        Using the applicable low flow critical condition, a determination must be made as to whether or
+        not 25% of this low flow rate would yield a dilution factor greater than 20 when considering the
+        discharge flow rate (in other words, dilution with the entire stream flow must be greater than or
+        equal to 80).
+
+         (.25Qs + Qe) / Qe > 20 ?        Where: Qs = stream 7Q10 flow (cfs)
+                                         Qe = discharge flow (cfs)
+
+         The applicable low flow rate for most sources discharging to flowing systems is the 7Q10 flow
+         (see Table 4-2: Receiving Water Flow Statistics to Use in Mixing Zone Analysis and Table 4.3:
+         Effluent Flow statistics to Use in Mixing Zone Analysis of this part of the RMZ IMD) for
+         additional information on critical flow conditions). For sources that discharge below dams or
+         other impoundments, a minimum release rate may be a more appropriate statistic to represent low
+         flow conditions.
+
+     5) Is the facility classified as “major”?
+        The classification of a facility as major or minor is determined when the facility first applies for a
+        permit, and is reviewed at each permit renewal. The process by which the determination is made
+        is described below for informational purposes.
+
+         For industrial facilities, EPA’s NPDES Permit Rating Work Sheet (available at
+         http://www.epa.gov/npdes/pubs/owm0116.pdf) must be completed to determine if a facility is a
+         “major” discharger. (This is part of the NPDES permit issuance process regardless of whether an
+         RMZ is being considered.) This scoring system considers the toxic pollutant potential of the
+         discharge, discharge flow, receiving stream flow, presence of conventional pollutants (e.g.,
+Regulatory Mixing Zone IMD – Part 2                                         Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                            May 2012
+Revision 2.0                                                                                             Page 11 of 50
+
+
+         biochemical oxygen demand, total suspended solids, ammonia), public health impact, water
+         quality factors (e.g., receiving stream is water quality limited, wasteload allocation assigned,
+         discharge shows toxicity), and proximity to coastal waters.
+
+     For domestic facilities, a facility may be classified as a “major” discharger for EPA purposes if any
+     one of the following is true:
+         • Design flow is 1 million gallons per day (MGD) or greater;
+         • Service population is 10,000 or greater; or
+         • Discharge causes significant water quality impacts.
+
+ The permittee, with departmental support may petition the EPA to re-classify a domestic facility with a
+ design flow at 1 MGD or greater as “minor” if actual average dry weather flows are significantly below 1
+ MGD and not expected to rise.
+Regulatory Mixing Zone IMD – Part 2                                                                          Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                                                             May 2012
+Revision 2.0                                                                                                                              Page 12 of 50
+
+
+ Figure 3-1: Decision Flow Chart for Determining Level of Effort
+
+
+                                                          Apply WQ criteria at
+                   1. Is dilution                       end-of-pipe or consider
+                available at critical      No            variance, site-specific
+                       flow?                                 criteria, or use
+                                                         attainability analysis.
+
+
+                        Yes
+
+
+
+
+               2. Is there potential
+             for major environmental
+                      impact?
+
+
+
+
+                        No
+
+
+
+
+                                                        4. Is dilution with                    5. Is the facility
+            3. Are acute criteria met at                                                                                  Level 1 Mixing
+                                           Yes         25% of critical flow        Yes         classified as a      No
+                   end-of-pipe?                                                                                            Zone Study
+                                                           >20 (>19:1)                              major?
+
+
+
+
+                        No
+
+                                                 Yes
+
+
+               3a. Are chlorine and
+             ammonia the only acute
+             criteria exceeded at the
+                    end-of-pipe?
+
+
+
+                                                                                                     Yes
+
+                        No
+
+
+
+
+                 4. Is dilution with                             No                                                       Level 2 Mixing
+                25% of critical flow                                           Yes                                         Zone Study
+                    >20 (>19:1)
+                                                                                                            No
+
+
+
+                                                                               5. Is the facility
+                                            No                                 classified as a
+                                                                                    major?
+    Yes
+
+
+                                                                                                           Yes            Level 3 Mixing
+                                                                                                                           Zone Study
+Regulatory Mixing Zone IMD – Part 2                                       Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                          May 2012
+Revision 2.0                                                                                           Page 13 of 50
+
+
+ 3.2 Permit Writer’s Quick Review Checklist
+ How to Use the Checklist
+ Prior to performing an in-depth review of a mixing zone study, the permit writer must use the most
+ current version of the checklist in Table 3-1 to determine if the necessary information has been provided
+ by the applicant. The completed checklist must be incorporated into the permit evaluation report
+ (fact sheet).
+
+
+ Missing Information?
+ Normally, a permit application is reviewed for completeness to ensure that necessary data has been
+ included. If items in the checklist have not been provided, the permit writer should contact the applicant
+ to request the missing information. The permit writer may determine that the information is not necessary
+ after talking with the applicant. The permit writer must document these decisions on the checklist or by
+ memo to the permit file. With manager approval, the permit writer may decide to assist the applicant in
+ collecting some of this information.
+
+
+ Enough Detail?
+ See Section 4: Mixing Zone Study Components for information on the level of detail needed for each
+ item in the checklist.
+Regulatory Mixing Zone IMD – Part 2                                             Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                                May 2012
+Revision 2.0                                                                                                 Page 14 of 50
+
+
+ Table 3-1. Mixing Zone Study Information Checklist (see Appendix A for a printable copy)
+                            Oregon DEQ Mixing Zone Study Checklist
+        (to be submitted to DEQ with Report on Mixing Zone Study) (v. 2.0, May 2012)
+  Legal Name:                                          Date Submitted:
+  Common Name:
+  Facility ID#:                                        Conducted by:
+  Application #:
+  Study Level (to be filled out by DEQ):       Information:                                            Check if
+       Level 1 - Simple                        X = required                                            Complete
+       Level 2 - Moderate                      E = estimate is acceptable                                (or note
+                                               M = measurement (field or engineering plans)            deficiencies)
+       Level 3 – Complex                                                                                To be filled
+                                               D = desirable
+  (See Part 2 of RMZ, Section 3.1, p.8)                                                                out by DEQ.
+   1   2   3   1.   Environmental Mapping (RMZ IMD Part 2, Section 4.1, p. 19)
+  X X      X A. Attach plan view map showing outfall and a segment of river that extends at least
+                1/2 mile upstream and downstream of outfall. Map should indicate the following
+                features downstream of outfall unless otherwise noted. By checking whether the
+                specific feature is present or not, the permittee is certifying they have researched
+                the information resources listed in Section 4.1 (Environmental Mapping) of the
+                RMZ IMD.
+                                                                                           Not
+                                        Feature                             Present
+                                                                                         present
+                Known commercial or recreational shellfish areas
+                Fish spawning/rearing habitat
+                Cold water refugia for fish
+                Areas identified as having species (fish or non-
+                fish) that may be sensitive to impact of discharge*
+                Physical structures expected to attract fish (e.g.,
+                piers, large woody debris, outfalls)
+                Public access areas such as boat ramps, docks or
+                public beaches
+                Drinking water intakes within the vicinity of the            To be determined
+                outfall and ½ mile downstream (to be identified by               by DEQ
+                DEQ. Link to internal webpage is
+                http://deq05/wqoutfalls/EOPbasics.aspx
+                Other NPDES discharges upstream and                          To be determined
+                downstream within ½ mile of outfall (to be                       by DEQ
+                identified by DEQ. Link to internal webpage is
+                http://deq05/wqoutfalls/EOPbasics.aspx)
+             *If such species are found to be present, report should include a description of such
+             species.
+             Page number(s) __________
+  X X      X B. Are there threatened and endangered species in the RMZ? □ Yes □ No
+             If yes, report should include a description of threatened and endangered species
+             present, habitat, and migration pathways as well as source(s) of information.
+             Page number(s) __________
+Regulatory Mixing Zone IMD – Part 2                                            Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                               May 2012
+Revision 2.0                                                                                                Page 15 of 50
+
+
+                            Oregon DEQ Mixing Zone Study Checklist
+        (to be submitted to DEQ with Report on Mixing Zone Study) (v. 2.0, May 2012)
+           D C. Other information as appropriate.
+                                    Type of Information                                Page
+                                   (check all that apply)                            Number(s)
+                □ Detailed salmonid use
+                □ Bioassessment.
+                □ Fish migration study
+                □ Thermal imagery
+                □ Map or measurements of channel width/depth
+                □ Published information supporting environmental mapping
+                □ Other. Describe:
+               2.   Outfall Location and Mixing Description (RMZ IMD Part 2, Section 4.2, p.24)
+  E M      M A. Outfall Measurements:
+                                Measurement                                Page Number(s)
+                Distance from bank (ft):
+                Height above bottom (ft):
+  E M      M B. If present, diffuser and port dimensions, orientation angle and configuration
+                  (include drawings, if available)
+             □ N/A
+             □ Description on page number(s) __________
+             □ Drawing on page number(s): __________
+  X M      M C. Outfall Location:
+             Latitude:_________________________
+
+             Longitude:_______________________
+             This information may be available on the following internal webpage:
+             http://deq05/wqoutfalls/EOPbasics.aspx
+  E E      E D. River mile of outfall:_______________
+             This information may be available on the following internal webpage:
+             http://deq05/wqoutfalls/EOPbasics.aspx
+  D D      D E. Photographs of the outfall vicinity
+             □ N/A
+             □ See attached on page number(s): __________
+  X X      X F. Description and plan view of current RMZ and ZID as described in permit:
+             □ See attached on page number(s): __________
+Regulatory Mixing Zone IMD – Part 2                                              Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                                 May 2012
+Revision 2.0                                                                                                  Page 16 of 50
+
+
+               Part 3. Ambient Receiving Water Conditions (RMZ IMD Part 2, Section 4.3, p.26)
+  E E      E A. Parameter:
+             Dates of Critical Period:
+             (Note:may vary with parameter. See Section 4.3, p.26)
+             □ See attached on page number(s) __________
+             ______________________________________________________________________
+             Justification for Critical Period:
+             □ See attached on page number(s) __________
+             ______________________________________________________________________
+
+               For Riverine Systems:
+               Flow statistics and dilutions corresponding to critical period:
+                                                     Velocity Dilution
+                     Flow          Stream Flow                                 Dilution at
+                                                     (ft/sec)*        at                     Page
+                    Statistic           (cfs)                                   edge of
+                                                                   edge of                 Number(s)
+                                                                                 RMZ
+                                                                    ZID
+                     1Q10
+                     7Q10
+                     30Q5
+                   Harmonic
+                     Mean
+               *For systems where velocity can be approximated by a single value. If velocity profile
+               is needed, go to next section B.
+
+               Describe source (USGS, other) and extent of flow data on which critical flow statistics
+               are based.
+               □ N/A
+               □ See attached on page number(s) __________
+
+            For Marine/Estuarine Systems:
+            Refer to Table 4-2 on p. 30 for appropriate statistics and describe in an attachment.
+            □ N/A
+            □ See attached on page number(s) __________
+  E E/M E/M B. Velocity profile* for each critical flow condition
+            □ N/A
+            □ See attached on page number(s) __________
+            *for systems that where velocity cannot be approximated by a single value.
+  E E/M M C. Cross sectional area (width and depth) for each critical flow.
+          □ See attached on page number(s) __________
+  E E/M M D. Temperature and salinity profiles
+          □ N/A (no stratification)
+          □ See attached on page number(s) __________
+  E E   E E. Manning's roughness coefficient:
+          Page number __________
+Regulatory Mixing Zone IMD – Part 2                                               Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                                  May 2012
+Revision 2.0                                                                                                   Page 17 of 50
+
+
+               Part 4. Discharge Characteristics (RMZ IMD Part 2, Section 4.4, Table 4-3, p. 31)
+  E X      X A. Discharge flow rates for critical flow scenarios:
+                                      □ Domestic                                 □ Industrial
+              Aquatic □ For plants operating at <85%                    □ Use maximum daily
+              Life:       DWDF1 during the critical period:               average flow for the past 3
+              Acute       Use maximum daily average flow for              years during the period
+                          the past 3 years during the period              when the critical receiving
+                          when the critical receiving water               water flow is most likely to
+                          flow is most likely to occur.                   occur.
+                        □ For plants operating at 85-100% of            □ If flows are expected to
+                          DWDF:                                           increase over the life of the
+                          Use DWDF x PF2                                  permit, estimate highest
+                                                                          daily maximum flow.
+                           Applicable Effluent Flow :                               Page No.:
+                Aquatic    □ For plants operating at 85-100% of         □ Use highest monthly
+                Life:        DWDF during the critical period:             average flow for the past 3
+                Chronic      Use DWDF.                                    years during the period
+                           □ For plants operating at <85%                 when the critical receiving
+                             DWDF:                                        water flow is most likely to
+                             Use highest monthly average flow             occur.
+                             for the past 3 years during the critical   □ If flow is expected to
+                             period or during the period when the         increase, estimate highest
+                             critical condition is likely to occur.       monthly average maximum
+                                                                          flow.
+                           Applicable Effluent Flow :                               Page No.:
+                Human      □ Carcinogens:                               □ Carcinogens:
+                Health       Use the annual average design flow           Use the annual average flow
+                             as specified in the engineering report       based on the permit
+                             or permit application, or use the            application or DMR
+                             annual average flow based on DMR             analysis.
+                             analysis.                                  □ Non-carcinogens:
+                           □ Non-carcinogens:                             Use highest monthly
+                             □ For plants operating at 85-100% of         average flow for the past 3
+                                design capacity:                          years during the period
+                                Use the dry weather design flow.          when the critical receiving
+                             □ For plants operating at <85% of            water flow is most likely to
+                                design flow: Use highest monthly          occur. If flows are expected
+                                average flow for the past 3 years         to increase over the life of
+                                during the period when the critical       the permit, estimate highest
+                                receiving water flow is most likely       average monthly flow.
+                                to occur.
+                           Applicable Effluent Flow :                              Page No.:
+               Notes:
+               1
+                 DWDF - Dry Weather Design Flow
+               2
+                 PF – Peaking Factor
+Regulatory Mixing Zone IMD – Part 2                                            Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                               May 2012
+Revision 2.0                                                                                                Page 18 of 50
+
+
+       E/M M B. Discharge chemistry data:
+                   Check if        Parameter                 Value             Page Number(s)
+                   N/A
+                                   Temperature (F)
+                                   Conductivity (µmhos)
+                                   Salinity (ppt)
+                 Part 5. Mixing Zone Modeling* (RMZ IMD Part 2, Section 4.5, p. 32)
+        D    M A. Field mixing measurements (e.g., dye studies)
+               □ N/A
+               □ See attached on page number(s) __________
+  X X        X B. Model selection and application discussion
+               □ N/A
+               □ See attached on page number(s) __________
+  X X        X C. Description of mixing and plume dynamics (near-field and far-field)
+               □ N/A
+               □ See attached on page number(s) __________
+  X X       X D. Sensitivity analysis
+                □ N/A
+                □ See attached on page number(s) __________
+  X X       X E. Model results table (see Table 4-4 on page 34 of Section 4.5 of Part 2 of the RMZ
+                     IMD for an example)
+                □ N/A
+                □ See attached on page number(s) __________
+  *Note: In some cases (e.g., shallow streams with non-uniform flow and tidally-influence waterbodies), modeling
+  is not appropriate. See RMZ IMD Part 2, Section 2.2, p. 6.
+  DEQ Reviewer Comments
+  Name of DEQ Reviewer:
+
+  Date:
+
+  1.    Describe deficiencies, if any.
+
+
+
+
+  2.    Which if any need to be addressed before the permit can be issued?
+
+
+
+
+  3.    Which if any may be addressed through permit conditions?
+
+
+
+
+  The checklist and reviewer comments should be attached to the permit evaluation report.
+Regulatory Mixing Zone IMD – Part 2                                         Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                            May 2012
+Revision 2.0                                                                                             Page 19 of 50
+
+
+
+ 4. Mixing Zone Study Components
+
+ Introduction
+ As discussed earlier, the essential mixing zone study components include:
+
+     •   Environmental mapping
+     •   Outfall and RMZ description
+     •   Ambient receiving water conditions
+     •   Discharge characteristics
+     •   Mixing zone modeling analysis
+
+ While the level of detail and type of information may vary for each of these components, this Section
+ provides a general idea of what should be expected for each component.
+
+
+ 4.1 Environmental Mapping
+ Overview
+ “Environmental mapping” is done to identify the areas in and around the RMZ that may be sensitive to
+ the impact of the discharge. It involves characterizing and mapping specific habitats, critical resources
+ areas, and other beneficial uses within the segment of the water body receiving the discharge.
+
+ Beneficial uses fall into the following categories:
+     •   Designated beneficial uses. These are described in the Oregon Administrative Rules.
+     •   All uses actually attained on or after November 28, 1975.
+     •   All current uses.
+ Beneficial uses include the use of the receiving water by species such as fish and amphibians.
+
+ A complete environmental mapping exercise will result in the identification of all beneficial uses
+ associated with the receiving water body around the point of discharge. Where possible, existing uses
+ that have been impaired or extirpated should also be identified.
+ The information gained through environmental mapping is used to evaluate the potential environmental
+ impact of the discharge and make decisions about the allowable size and placement of an RMZ.
+
+ While this information can be provided as a narrative, physically mapping key pieces of information
+ provides for a reference that is easy to visualize and understand. This section details the information
+ necessary for a complete environmental map and specifies when a physical map is preferred. Further
+ information that may be necessary for very complex Level 3 situations is also discussed.
+
+ Available Resources
+ The following websites provide information that can be used to help identify the various species that may
+ be making use of the receiving water body around the point of discharge
+ The Oregon Explorer website contains natural resource data compiled by state and federal agencies, local
+ governments, university scientists, and citizens.
+ http://www.oregonexplorer.info/
+Regulatory Mixing Zone IMD – Part 2                                      Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                         May 2012
+Revision 2.0                                                                                          Page 20 of 50
+
+
+ The Oregon Biodiversity Center also includes information from a wide variety of sources.
+ http://orbic.pdx.edu/data-request.html
+ The following websites provide habitat information for fish populations in Oregon:
+   •   Oregon DEQ Fish Use Maps http://www.deq.state.or.us/wq/rules/div041tblsfigs.htm)
+   •   Oregon department of Fish and Wildlife (ODFW) Timing Guidelines
+       (http://www.dfw.state.or.us/lands/inwater/)
+
+ Note: The second of the above two sites contains “In-water work” guidelines. These guidelines identify
+ where threatened aquatic species are located, and the time periods of their migration, rearing and
+ spawning.
+   •   ODFW Fish Distribution/Habitat maps
+       (http://nrimp.dfw.state.or.us/OregonPlan/default.aspx?p=130)
+
+ Spawning/rearing/migration in each stream segment, organized by major salmonid species and/or by sub-
+ basin.
+   •   ODFW maps (http://nrimp.dfw.state.or.us/OregonPlan/)
+
+ Oregon Plan core areas: the most productive areas for salmonids in the Oregon Coast and southern
+ Oregon.
+   •   ODFW Data Resources (http://nrimp.dfw.state.or.us/nrimp/default.aspx)
+
+
+ Index and links for available data from ODFW.
+   •   Threatened and endangered fish species
+       (http://www.dfw.state.or.us/threatened_endangered/t_e.html)
+
+ State and federal listed species.
+   • ODFW fact sheet (http://www.dfw.state.or.us/ODFWhtml/InfoCntrFish/PDFs/BKG_Coastal.pdf)
+       Information on Oregon’s coastal salmon and trout.
+
+ Other useful websites:
+   •   Outfall Location Data (use to identify Public Water Supplies with drinking water intakes
+       downstream of outfalls)
+   •   Oregon DEQ Beneficial Use Tables by Basin
+       (http://www.deq.state.or.us/wq/rules/div041tblsfigs.htm#t1)
+   •   Oregon DEQ Facility Profiler (http://deq12.deq.state.or.us/fp20/)
+   •   Oregon DEQ Laboratory Data (http://www.deq.state.or.us/lab/lasar.htm) DEQ air and water quality
+       monitoring data
+   •   Storet Data (http://www.storet.org/website/cdamap/viewer.htm)
+
+ Data contained in the Pacific Northwest Water Quality Data Exchange and U.S. Geological Survey
+ National Water Information System (NWIS) in and around Oregon connected with GIS.
+  • Oregon DEQ Source Water Assessment Maps (http://www.deq.state.or.us/wq/dwp/results.htm)
+Regulatory Mixing Zone IMD – Part 2                                        Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                           May 2012
+Revision 2.0                                                                                            Page 21 of 50
+
+
+         Maps of the groundwater and surface water drinking water source areas and potential contaminant
+         sources identified within those drinking water source areas available as GIS data layers.
+
+ •   http://www.oregonexplorer.info/ (I’m not sure how to characterize)
+
+
+
+ Levels 1, 2, & 3
+ For all effort levels, the following information is needed. The permit writer will develop this information
+ and request that the permittee perform it as part of the mixing zone analysis.
+
+ 1) Plan view map delineating the following areas within or near the mixing zone:
+ 2)
+     •    Known commercial or recreational shellfish harvesting areas.
+     •    Fish spawning/rearing habitat.
+     •    Cold water refugia for fish (e.g., cold water tributaries).
+     •    Physical structures expected to attract fish (e.g., piers, outfalls, large woody debris).
+     •    Public access areas such as boat ramps, docks or public beaches.
+     •    Drinking water intakes within the vicinity of the outfall and within ½ mile downstream of the
+          outfall.
+     •    Other NPDES discharges upstream and downstream within ½ mile.
+  2) If applicable, description of threatened and endangered (T&E) species presence, habitat, and
+     migration pathways.
+
+
+ Example
+ See Figures 4-1 & 4-2 for mapping examples. Note: Narrative descriptions are also acceptable.
+Regulatory Mixing Zone IMD – Part 2                                       Oregon Department of Environmental Quality
+DEQ Publication Number 07-WQ-012                                                                          May 2012
+Revision 2.0                                                                                           Page 22 of 50
+
+
+ Figure 4-1. Level 1 Environmental Map Example
+
+
+                                                                            Recreational crabbing
+
+                                                                            Private boat launch
+
+                                                                            RMZ – portion of Lint
+                                                                            Slough within a 50 ft
+                                                                            radius of the outfall
+
+                                                                            Outfall location
+
+                                                                             The Kayak Shack
+                                                                             (kayak launch site)
+
+                                                                             Wastewater Treatment
+                                                                             Plant
+
+ There are no active redds (fish eggs) in the RMZ and no critical habitat in the vicinity in need of
+ additional protection. There is no commercial or recreational shell fishing in Lint Slough. There are no
+ other NPDES discharges or drinking water intakes within ½ mile of the outfall. There are no public
+ beaches; however, the Slough is used for recreational kayaking.
+Regulatory Mixing Zones IMD – Part 2                                     Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                        Date
+Revision 2.1                                                                                          Page 23 of 50
+
+
+
+
+   Figure 4-2. Level 3 Environmental Map Example
+
+
+
+
+   Additional Information: Level 3
+   The following are examples of additional information that may be necessary for a Level 3 mixing zone
+   study. Since gathering this additional information may be expensive and assessment of this data may
+   be inconclusive, the permit writer should discuss whether the information is needed with his or her
+   manager, other experienced DEQ staff, experts outside of the agency, and the permit applicant.
+       •   Detailed salmonid T&E use (e.g., spawning, holding, rearing, migratory pathways).
+       •   Measure of biologic integrity (e.g., rapid bioassessments, benthic surveys).
+       •   Fish migrations studies (see Figure 4-3: Detailed T&E Salmnid Use in the Lower Willamette
+           River).
+       •   Thermal imagery [e.g., Forward Looking Infrared (FLIR) camera technology].
+       •   Maps illustrating channel width and depth and receiving water depth in the vicinity of the
+           outfall.
+       •   Published literature or agency reports in support of the environmental mapping.
+
+   Additional information may be found in Table 5-2 of Part 1 of the RMZ IMD, entitled “RMZ-related
+   bioassessment techniques”.
+Regulatory Mixing Zones IMD – Part 2                                                                Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                                                   Date
+Revision 2.1                                                                                                                     Page 24 of 50
+
+   Figure 4-3. Detailed T&E Salmonid Use in the Lower Willamette River
+
+
+
+   Willamette River (Mouth to Willamette Falls)
+                                                                                        Month
+     Species        Freshwater
+                    Life phase          J         F   M      A           M          J           J   A       S     O       N      D
+
+   Spring       Upstream Migration
+   Chinook
+   Salmon
+                Juvenile Outmigration
+
+   Fall         Upstream Migration
+   Chinook
+   Salmon
+                Juvenile Outmigration
+
+   Coho         Upstream Migration
+   Salmon
+
+                Juvenile Outmigration
+
+   Summer Upstream Migration
+   Steelhead
+   Trout
+                Juvenile Outmigration
+
+   Winter    Upstream Migration
+   Steelhead
+   Trout
+                Juvenile Outmigration
+
+   Sea-run   Upstream Migration
+   Cutthroat
+   Trout
+                Kelt Outmigration
+
+                Juvenile Outmigration
+
+   Life Stage Presence                                    Peak Activity
+                                                          Less than Peak Activity
+
+
+
+
+   4.2 Outfall and RMZ Characterization
+
+   Overview
+   This section describes how to characterize an existing outfall and RMZ necessary for a mixing zone
+   evaluation done as part of a permit renewal. If a new outfall is being proposed for an existing source or
+   the permit application is for a new source, all available design engineering information, ambient
+   receiving water body and proposed effluent characterization at time of application must be provided.
+
+   All Levels
+   The minimum characterization required for all levels includes the following:
+
+           1) A plan view of the discharge that includes the locations of the RMZ and, if defined, ZID
+                  boundaries, including the narrative descriptions in the permit of the RMZ and ZID. (Not
+                  applicable for new outfalls or new permit applications.)
+
+           2) Outfall distance from bank and outfall height above bottom.
+                  a. Level 1: Estimate
+                  b. Level 2 & 3: Measurement in field or from engineering plans and diagram (see Figure 4-
+                     4).
+Regulatory Mixing Zones IMD – Part 2                                       Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                          Date
+Revision 2.1                                                                                            Page 25 of 50
+
+       3) If present, the following diffuser and port dimensions and configurations are required:
+          a. Diffuser length
+          b. Number of ports (note and describe blocked or non-functioning ports)
+          c. Orientation angles
+               i. THETA – vertical angle of discharge between the port centerline and a horizontal
+                   plane (-45° and 90°).
+              ii. SIGMA – horizontal angle of discharge measured counterclockwise from the ambient
+                   current direction (x-axis) to the plan projection of the port centerlines (0° to 360°).
+              iii. BETA – relative orientation angle measured either clockwise or counterclockwise from
+                   the average plan projection of the port centerlines to the nearest diffuser axis (0° to
+                   90°).
+              iv. GAMMA – average alignment angle of the diffuser pipe measured counterclockwise
+                   from the ambient current direction (x-axis) to the diffuser axis (0° to 180°)
+           Depending upon level the aforementioned information shall be in the following form:
+           a. Level 1: Estimate
+           b. Level 2 & 3: Measurement in field or from engineering plans and diagram (see Figure 4-
+              4).
+
+       4) The latitude and longitude and river mile location of the outfall. The permit writer can assist
+           the applicant in determining river mile.
+
+       5) Optional, but desirable: Photographs of the area of discharge (upstream and downstream).
+           Photographs provide valuable information particularly to those who have not visited the outfall
+           site and are a good tool for historical reference.
+Regulatory Mixing Zones IMD – Part 2                                         Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                            Date
+Revision 2.1                                                                                              Page 26 of 50
+
+   Figure 4-4. Levels 2 and 3 Plan Example for Discharge Placement
+
+
+
+
+   4.3 Ambient Receiving Water Conditions
+
+   Overview
+   Specific information about ambient receiving water conditions is critical when modeling mixing
+   because these conditions greatly influence the mixing process. These conditions include:
+       •   Critical flow statistics
+       •   Receiving water body cross-sectional profile (width and depth)
+       •   Velocity profile
+       •   Density, temperature, and salinity profile (for stratified systems)
+       •   Manning’s roughness coefficient
+
+   Unfortunately, ambient information is not always readily available and may take additional time and
+   resources to collect. To ensure that the proper information is submitted, the next sections describe
+   available resources, level of effort necessary to characterize ambient conditions, and applicable ambient
+   conditions in more detail.
+Regulatory Mixing Zones IMD – Part 2                                         Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                            Date
+Revision 2.1                                                                                              Page 27 of 50
+
+   Resources for Flow Data
+   For data on historical stream flow, the permit writer should be using the following:
+       •   USGS Real-Time Stream Flow Data
+           http://waterdata.usgs.gov/or/nwis/rt
+       •   National Water Information System (NWIS) Data (includes surface water, groundwater, and
+           water quality data)
+           http://waterdata.usgs.gov/or/nwis/
+       •   Oregon Water Resources Department Historical Stream Flow Data
+           http://www.wrd.state.or.us/OWRD/SW/streamflow.shtml
+
+   To calculate critical low stream flows, the department primarily uses the EPA-supported DFLOW 3
+   tool at http://www.epa.gov/waterscience/dflow/, but other tools are acceptable provided they are
+   discussed in advance with the department.
+
+   Characterizing Critical and “Off-Design” Conditions
+   Ambient conditions vary depending on the time of year. To protect receiving waters, the department
+   considers critical flow statistics (described in the next section) as well as “off-design” conditions when
+   allocating an RMZ. “Off-design” conditions are discharge and stream conditions that are not typically
+   associated with low flow conditions, but may be important when evaluating a discharge. For example,
+   peak discharge flow or wet weather conditions could be critical off-design conditions. Late fall
+   conditions where instream temperatures have cooled but stream flow is still low, or winter conditions
+   when discharge temperature is high but receiving stream temperature is low may also need to be
+   considered.
+
+   Effort Level for Riverine Environments
+                Level 1                              Level 2                              Level 3
+   Estimates of ambient velocity        Measurements of ambient             Direct measurements of ambient
+   based on assumptions regarding       velocity during critical and off-   velocity, salinity (if applicable),
+   flow, depth, cross-sectional area,   design conditions at a location     and temperature at different
+   slope, and friction factors          representative of the average       depths during critical conditions
+   acceptable if local velocity data    water column velocity are           for consideration of density
+   is not available.                    desirable, but estimates are        stratification on mixing
+                                        acceptable.                         dynamics are necessary.
+                                                                            Estimates for off-design
+                                        Detailed cross-sectional profile    conditions, if necessary, are
+                                        (width and depth) data is needed    acceptable.
+                                        if local velocities are estimated
+                                        based on calculations.
+Regulatory Mixing Zones IMD – Part 2                                        Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                           Date
+Revision 2.1                                                                                             Page 28 of 50
+
+   Effort Level for Tidally-Affected Waterbodies, Estuaries, Bays, and Oceans
+               Level 1                              Level 2                           Level 3
+   Measurements of ambient             Direct measurements of ambient      Same as Level 2
+   velocity during critical and off-   velocity during critical
+   design conditions are desirable.    conditions representative of
+                                       water column velocity within
+   On a case-by-case basis,            the mixing zone are necessary.
+   estimates of local velocities,      Estimates for off-design
+   salinities, and thermal gradient    conditions, if necessary, are
+   in lieu of measurements             acceptable.
+   depending on expected plume
+   behavior may be acceptable.
+
+
+   Statistics for Critical Flow Conditions
+   Mixing zones must be modeled under reasonable “critical” flow conditions to ensure that impacts to
+   receiving waters are assessed under worst case conditions. The critical period will typically be late
+   summer when stream flows are low and temperatures are high, but there are exceptions. The critical
+   period may also vary with the parameter in question. Justification should be provided for the critical
+   period defined for each parameter.
+
+   For riverine systems, critical flow condition statistics vary depending on the potential impact as
+   follows:
+
+       •   A short, very infrequent flow condition for acute toxicity (1Q10) and slightly longer period for
+           chronic toxicity (7Q10) are used by the department. Note that in some cases these critical
+           conditions do not differ significantly and it may be acceptable to use the 7Q10.
+
+       •   Longer term human health impacts are evaluated on a longer term flow statistic (30Q5 for non-
+           carcinogenic criteria and harmonic mean flow for carcinogenic criteria).
+
+   For information on flow statistics for both riverine and tidally-affected waterbodies, see Table 4-2.
+   This table summarizes the minimum required ambient flow statistics for riverine systems recommended
+   by EPA’s Technical Support Document for Water Quality-based Toxics Control, March 1991 (or TSD)
+   and tidally-affected systems as recommended by Washington Department of Ecology’s Water Quality
+   Program Permit Writer’s Manual, July 2005.
+
+   Receiving Waterbody Cross-Sectional Profile
+   The cross section of the receiving water may vertically and laterally constrain plume spreading. In
+   such cases, it is important to confirm that the mixing model used does not assume an infinite receiving
+   water body since such a model will not be able to model boundary interactions. The cross sectional
+   profile within the RMZ and ZID need to be described and diagrammed.
+
+   Ambient Velocity Profile
+   Ambient velocity greatly influences plume dynamics and plume shape. Sometimes assuming an
+   average velocity over the entire depth is adequate for modeling purposes, but if there are significant
+   changes in velocity with respect to depth, a velocity profile is necessary.
+
+   The velocity profile is developed by measuring the velocity at multiple points in both the vertical and
+   horizontal direction at a particular location (or transect) along the stream. If there are significant
+Regulatory Mixing Zones IMD – Part 2                                         Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                            Date
+Revision 2.1                                                                                              Page 29 of 50
+
+   changes in river bathymetry within the mixing zone, velocity profiles should be developed at
+   representative locations.
+
+   A velocity profile (or ambient velocity) is needed for each flow statistic for which modeling is to be
+   performed.
+
+   If the receiving stream is tidally influenced, the velocity dynamics need to be described over the tidal
+   cycle.
+
+
+   Temperature and Salinity Profile
+   Salinity and temperature profiles of a water body affect its density, which will influence the plume
+   dynamics of a discharge due to buoyant forces. Waterbodies that are stratified either due to salinity or
+   temperature must be described and diagrammed because stratification greatly affects how an effluent
+   plume will mix with the receiving water. Stratification typically occurs in deep waterbodies (i.e., lakes
+   and reservoirs) and tidally-influenced areas (i.e., oceans and estuaries).
+
+   In tidal systems, salinity and temperature profiles over the full tidal cycle are necessary if they are
+   likely to occur. Note that in some cases a river may be influenced by the tide, but not have
+   stratification issues due to salinity or temperature profiles (e.g., lower Willamette River to the Oregon
+   City falls). Maximum and minimum stratification conditions must also be characterized because these
+   are typically worst case conditions.
+
+   Manning’s Roughness Coefficient
+   Manning’s roughness coefficient (n) is a measure of the friction at the stream bottom. The channel
+   morphology should be described and Manning’s n estimated based on this description.
+
+   Table 4-1. Estimate of Manning’s n
+                      Description                              n
+    Bare earth, straight                                0.020 - 0.030
+    Bare earth, winding                                 0.040 - 0.05
+    Mountain streams, gravel, cobbles                   0.040 - 0.050
+    Mountain streams, gravel, cobbles, and boulders     0.050 - 0.70
+    Grass lined, weeds                                  0.050 - 0.06
+    Heavy brush, timber                                 0.10 - 0.12
+    Major rivers                                        0.030 - 0.035
+    Sluggish with pools                                 0.040 - 0.050
+Regulatory Mixing Zones IMD – Part 2                                                Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                                   Date
+Revision 2.1                                                                                                     Page 30 of 50
+
+   Table 4-2. Receiving Water Flow Statistics to Use in Mixing Zone Analysis
+     Water                            1
+                Streamflow Statistics                                                                 2
+    Quality                                Ambient Statistics for Marine/Estuarine Waters
+                       for Rivers
+    Criteria
+   Aquatic     • 1Q10                   Critical velocity = 10th and 90th percentile current velocities
+   Life:       • associated velocity    derived from a cumulative frequency distribution analysis.
+   Acute                                The current velocity frequency distribution analysis should be
+                                        conducted, at minimum, over one neap and spring tide cycle3.
+
+                                                Critical ambient density profile = density profile that results
+                                                in the lowest mixing.
+
+                                                Critical diffuser depth = depth at MLLW4. For estuaries, the
+                                                diffuser depth is defined for low-water slack and low river
+                                                flow conditions.
+   Aquatic       • 7Q10                         Critical velocity = 50th percentile current velocity derived
+   Life:         • associated velocity          from a cumulative frequency distribution analysis. The
+   Chronic                                      current velocity frequency distribution analysis should be
+                                                conducted, at a minimum, over one tidal cycle.
+
+                                                Critical ambient density profile = density profile that results
+                                                in the lowest mixing.
+
+                                                Critical diffuser depth = depth at MLLW.
+   Human         • Carcinogens:                 Note: Statistics for marine/estuarine waters are the same for
+   Health          Harmonic mean5               both carcinogens and non-carcinogens.
+                 • Non-carcinogens: 30Q56
+                 • associated velocities        Use the median velocity taken over one tidal cycle or from as
+                                                many tidal cycles as are available in the period of record.
+
+                                                Critical ambient density profile = density profile that results
+                                                in average mixing.
+
+                                                 For marine waters, critical diffuser depth = depth at MLLW.
+                                                 For estuaries, the diffuser depth is defined as the smaller of
+                                                 the median water depth at either the ebb tide or the flood tide
+                                                 during the critical receiving water period.
+   1
+     Technical Support Document for Water Quality-based Toxics Control, U.S. EPA, March 1991.
+   2
+     Table VI -3, “Applicable criteria/design conditions for determining the acute and chronic dilution factors for
+     aquatic life” and Table VII-1 “Design conditions for water quality-based permitting of human health criteria”
+     from Water Quality Program Permit Writer’s Manual, Washington Department of Ecology, November 2010.
+   3
+     Spring tides occur around full and new moons. Neap tides occur around the first and last quarters of the lunar
+     cycle. The greatest range of tidal elevation is seen during spring tides and the smallest range of tidal elevations
+     occurs during neap tides.
+   4
+     MLLW stands for Mean Lower Low Water and it is equal to the average height of the lower of the two daily low
+   tides. For more explanation, see oregon.gov/DSL/SSNERR/images/explain_tides.ppt
+   5
+     Use the harmonic mean flow for the representative period of record. The representative period is the period that
+     best represents flows as they now exist. For instance, if a dam was constructed that modified flows, use data
+     from the time after the dam was constructed to determine the critical flow.
+   6
+     If the 30Q5 is not available, use the 7Q10 as an estimate of the 7Q10.
+Regulatory Mixing Zones IMD – Part 2                                               Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                                  Date
+Revision 2.1                                                                                                    Page 31 of 50
+
+
+
+
+   4.4 Discharge Characteristics
+   Overview
+   Flow, temperature, and density are the major discharge characteristics that influence mixing. This
+   section discusses the specific information needed for each of these characteristics so mixing conditions
+   may be properly assessed.
+
+   Discharge Flow Statistics
+   Discharge flow statistics should be developed to coincide with the critical period. This will typically
+   be late summer when stream flows are low and temperatures are high, but there are exceptions. As
+   mentioned in Section 4.3, the critical period may vary with the parameter in question. The permit
+   writer may use different discharge flow rates depending on the timing of environmental factors (e.g.,
+   salmonid migration, shellfish harvesting). Table 4-3: Effluent Flow Statistics to Use in Mixing Zone
+   Analyses shown below, provides more information on effluent flow statistics that are needed.
+
+   Table 4-3. Effluent Flow Statistics to Use in Mixing Zone Analyses (for both riverine and
+   marine/estuarine systems)
+
+   Water                                               Effluent Flow
+                                                                       1
+   Quality
+   Criteria
+                                    Domestic                                           Industrial
+   Aquatic    For plants operating at <85% DWDF2 during the            Use maximum daily average flow for
+   Life:      critical period:                                         the past 3 years during the period when
+   Acute      Use maximum daily average flow for the past 3 years      the critical receiving water flow is most
+              during the period when the critical receiving water      likely to occur.
+              flow is most likely to occur.
+                                                                       If flows are expected to increase over
+              For plants operating at 85-100% of DWDF:                 the life of the permit, estimate highest
+              Use DWDF x PF3                                           daily maximum flow.
+   Aquatic    For plants operating at 85-100% of DWDF during           Use highest monthly average flow for
+   Life:      the critical period:                                     the past 3 years during the period when
+   Chronic    Use DWDF.                                                the critical receiving water flow is most
+                                                                       likely to occur.
+              For plants operating at <85% DWDF:
+              Use highest monthly average flow for the past 3          If flow is expected to increase, estimate
+              years during the critical period or during the period    highest monthly average maximum
+              when the critical condition is likely to occur.          flow.
+   Human      Carcinogens:                                             Carcinogens:
+   Health     Use the annual average design flow as specified in       Use the annual average flow based on
+              the engineering report or permit application, or use     the permit application or DMR
+              the annual average flow based on DMR analysis.           analysis.
+
+              Non-carcinogens:                                         Non-carcinogens:
+              For plants operating at 85-100% of design capacity:      Use highest monthly average flow for
+              Use the dry weather design flow.                         the past 3 years during the period when
+                                                                       the critical receiving water flow is most
+              For plants operating at <85% of design flow: Use         likely to occur. If flows are expected to
+              highest monthly average flow for the past 3 years        increase over the life of the permit,
+              during the period when the critical receiving water      estimate highest average monthly flow.
+              flow is most likely to occur.
+   Notes:
+Regulatory Mixing Zones IMD – Part 2                                                Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                                   Date
+Revision 2.1                                                                                                     Page 32 of 50
+
+   1
+     Table VI -3, “Applicable criteria/design conditions for determining the acute and chronic dilution factors for
+   aquatic life” and Table VII-1 “Design conditions for water quality-based permitting of human health criteria”
+   from Water Quality Program Permit Writer’s Manual, Washington Department of Ecology, November 2010.
+   2
+     DWDF - Dry Weather Design Flow
+   3
+     PF – Peaking Factor
+
+
+   Temperature and Density
+   Temperatures and conductivity and/or salinity to determine densities of the discharge for the critical
+   time periods are needed. Temperature values should be determined as follows:
+
+                         Water Quality Criteria                Effluent Temperature
+                                                              th
+                                                           90 % of daily maximums during
+                                   Acute
+                                                                    critical period
+                                                           Average daily temperature during
+                                  Chronic
+                                                                    critical period
+                               Human health                          Annual average
+
+
+
+
+   4.5 Mixing Zone Modeling Analysis
+   Overview
+   Several numerical models are available for simulating mixing. Because different models perform
+   better under specific conditions, models should be selected that best match the conditions being
+   simulated. This section details what information is needed to determine if the correct model was used
+   and whether the modeling results are acceptable.
+
+
+   Expected Level of Effort When Modeling
+   As explained in Section 3.1, the level of effort expected for different types of discharges varies
+   depending on whether the discharge is classified as simple (Level 1), moderate (Level 2) or complex
+   (Level 3). Generally, the following is expected for each level:
+
+       •    Level 1
+            Modeling using design conditions and available data without field sampling or further
+            calibration of the model is acceptable. In some instances, ambient-induced mixing equations
+            may be used to predict dilutions at the edge of the ZID and RMZ as discussed in EPA’s TSD,
+            Section 4.4.5, p. 77).
+
+       •    Level 2
+            Modeling with design conditions and available data is acceptable, but some field sampling to
+            gather model input data is expected. Sensitivity analysis should be conducted to determine
+            model sensitivity to various input parameters.
+
+       •    Level 3
+            Field data is necessary to calibrate or validate the model. Characterization of field dilution data
+            should be based on a department-approved tracer study performed during critical conditions or
+            is translatable to critical conditions. Field studies during off-design conditions may also be
+            necessary if these time periods are important. See “Characterizing Critical and ‘Off-Design’
+Regulatory Mixing Zones IMD – Part 2                                       Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                          Date
+Revision 2.1                                                                                            Page 33 of 50
+
+           Conditions” in Section 4.3 for more information on types of conditions that may need to be
+           considered.
+
+   Note: Mixing zone models are not always able to adequately simulate discharge conditions. Many
+   models are not appropriate when discharge is to shallow streams of non-uniform flow or to tidally
+   influenced waterbodies. See “When steady-state mixing zone models may not be appropriate” at the
+   end of section 2.1.
+
+   What Type of Information is Needed?
+   Generally, modeling for each critical flow condition is needed. However, in some cases the critical
+   conditions do not differ significantly (e.g., 1Q10 vs. 7Q10 in large streams) and it is acceptable to
+   model fewer conditions. The following information is needed for each condition modeled to assess the
+   modeling analysis:
+
+       1) Version number of model(s) used and the reason for selecting the model(s). If more than one
+          model was used or if a different one was used for the far-field analysis versus the near-field
+          analysis, an explanation should be provided.
+
+       2) A description of the model input parameters used.
+
+       3) Description of the physical mixing occurring within the near-field and far-field, including:
+           a. When the plume interacts with the surface or other boundary conditions. (Levels 1 and 2)
+           b. Near-field dynamic attachments (e.g., if the plume attaches to the stream bottom). (Levels
+              2 and 3)
+           c. Occurrence of near-field instabilities associated with surface and bottom interaction and
+              localized recirculation cells extending over the entire water depth (Levels 2 and 3)
+           d. Where the plume loses its initial momentum and where the far-field process begins.
+              (Levels 2 and 3)
+           e. Stratification of the plume. (Levels 2 and 3)
+           f. Shape of the plume in three dimensions. (Levels 2 and 3)
+           g. Whether there are any buoyant upstream intrusions. (Levels 2 and 3)
+
+       4) Predicted “minimum centerline” dilution at the edge of the ZID defined in permit and “average
+          flux” dilution at edge of the RMZ defined in the permit. These are described further below and
+          in Figure 4-5. For a new discharge where the ZID and RMZ have yet to be allocated, predicted
+          dilutions based on estimated ZID and RMZ sizes are acceptable if the estimates were
+          developed based on RMZ IMD Part 1.
+           •   Centerline Dilution: This is the minimum dilution that occurs at the centerline of the
+               plume and where the effluent is most concentrated. Centerline dilution is applied to acute
+               criteria at the edge of the ZID.
+           •   Flux Average Dilution: This is the average dilution across the entire cross-section of the
+               plume. Flux average dilution is applied to chronic criteria and human health criteria at the
+               edge of the RMZ.
+Regulatory Mixing Zones IMD – Part 2                                                           Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                                              Date
+Revision 2.1                                                                                                                Page 34 of 50
+
+   Figure 4-5. Centerline and Flux Average dilution
+
+
+
+                                                                                 Flux Average Dilution
+
+     Centerline Dilution
+
+
+
+
+       5) The following information is needed regarding model results:
+          a. A list of the modeling scenarios performed with the critical conditions and flow statistic
+             provided for each.
+       6 ) For each modeling scenario, a summary table displaying the modeling results including all input
+            parameters needed to run the model(s) and results achieved for each modeling scenario.
+            Include model sensitivity results. See the following example in Table 4-4. Note: the example
+            only provides basic inputs. Other critical inputs, such as port angle and orientation, may be
+            needed.
+
+
+   Table 4-4. Modeling Results Summary Example for Riverine Systems
+                                                                                                      Outfall     Dilutions
+                                                                           Discharge
+                                 Ambient Conditions                                                Characteristic Predicted
+                                                                           Conditions
+  Model Run Flow                                                                                        s         by Model
+  Descriptio Statist
+      n        ic          Velocity   Depth   Width   Flow    Temp      Flow
+                                                                                Port
+                                                                                          Temp
+                                                                                                                Port
+                                                                               Velocity            # Ports     Diam.    ZID   MZ
+                            (ft/s)     (ft)    (ft)            (° F)   (mgd)               (° F)
+                                                      (cfs)
+                                                                                (ft/s)                       (inches)
+
+                 30Q10
+  Existing        7Q10
+  Condition:      1Q10
+  outfall
+  w/single       Harmo
+  port            nic
+                 Mean
+                 Flow
+                 30Q10
+               7Q10
+  Proposed
+  Scenarios 1, 1Q10
+  2, 3 etc.:   Harmo
+  (describe)    nic
+               Mean
+               Flow
+Regulatory Mixing Zones IMD – Part 2                                        Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                           Date
+Revision 2.1                                                                                             Page 35 of 50
+
+   Was the Appropriate Model Used?
+   To determine if results from the modeling are sufficient to proceed with permit development, the
+   permit writer must:
+
+   1. Become familiar with the assumptions and limits of various models.
+       See discussion entitled xx in Section 2.1 for more information.
+
+   2. Review the information provided by the applicant to:
+      a. Classify the type of discharge and then determine which models are applicable.
+           There are three classifications:
+           i. Submerged single port diffuser,
+           ii. Submerged multi-port diffuser, and
+           iii. Surface discharge.
+
+       b. Determine the possibility of boundary interaction.
+           See Section 2-1: Influence of Boundary Interactions, for a discussion of boundaries. Since not
+           all mixing zone models are designed to model the various boundary conditions, it is important
+           to understand what boundary interactions could exist and use a model to simulate these
+           boundary conditions.
+
+       c. Determine whether there are instabilities in the near-field, such as surface or bottom
+           interactions or localized recirculation areas which may cause buildup of discharge
+           concentrations by obstructing discharge flow.
+           See Section 2-1: Re-entrainment of Discharge for a discussion of instabilities.
+
+           A series of equations can be used to determine whether a discharge is stable (no re-entrainment
+           likely to occur) based on the discharge and receiving water characteristics. Typically, the
+           department will use the CORMIX model to determine stability for each simulation. CORMIX
+           is readily available to staff and designed to account for stability internally within its
+           programming. If a discharge is determined to be unstable, a model that can simulate unstable
+           conditions must be used. In general, standard jet-integral models cannot be used for unstable
+           conditions because of entrainment issues.
+
+   3. Ask the following:
+      a. Is the model EPA-supported or have a proven scientific track record?
+           If no, supporting document for the model should be provided otherwise it should not be
+           accepted.
+
+
+       b. Does the applicant’s reason for selecting the model make sense?
+           If it does not, then it should not be accepted without further explanation from the applicant.
+
+       c. Does the applicant adequately address the sensitivity of the model?
+           See Section 2-2: Model Sensitivity, for background information. Prior to collecting field data
+           or more data, the model should have been run using available data or assumptions to determine
+           its sensitive parameters. If this step was not performed, then the model must be analyzed for
+           sensitivity by the applicant or permit writer before proceeding with permit development.
+           Follow these steps:
+           i. Run the model by entering the maximum, minimum, and a few intermediate values for
+                each parameter likely to be sensitive. Parameters most likely to be sensitive include
+Regulatory Mixing Zones IMD – Part 2                                       Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                          Date
+Revision 2.1                                                                                            Page 36 of 50
+
+                discharge flow rate and temperature and ambient velocity and temperature. Models can
+                also be sensitive to the location and type of stratification in stratified waterbodies.
+           ii. Change only one input variable at a time otherwise it is impossible to determine which
+                input variable caused the changes in output results.
+           iii. If there is no plan to collect additional data to confirm modeling results, the most
+                conservative dilution results must be used.
+
+       d. For permit renewals, are the modeling results consistent with what is known about the existing
+           RMZ?
+           The applicant or permit writer must do a quick check of the predicted dilution factors from the
+           chosen mixing zone model to determine if they are reasonable. Follow these steps:
+
+           i. Calculate the percentage of stream mixing with discharge using the dilution factor from the
+               model and the following basic mass balance equation.
+
+               % of stream mixing with discharge = ((D-1) x Qe)/Qs
+               Where: D = predicted dilution factor (From the model output)
+                         Qe = discharge flow (cfs)
+                         Qs = stream flow (cfs)
+
+           ii. Compare this percentage with what is actually known about the discharge. See the
+               following for an example of the different conclusions reached for one flow scenario when
+               existing information differs.
+
+           An example mass balance exercise follows.
+Regulatory Mixing Zones IMD – Part 2                                          Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                             Date
+Revision 2.1                                                                                               Page 37 of 50
+
+
+
+    Flow Scenario:
+    Model predicted dilution factor at edge of mixing zone (DF) = 45
+    Discharge flow (Qe) = 1.80 mgd x 1.547 = 2.78 cfs
+    Stream 7Q10 flow (Qs) = 170 cfs
+     % of stream mixing with discharge = ((DF x Qe)/Qs) x 100
+                                         = [(45 x 2.78)/170] x 100 = 73.5%
+
+       Existing Information                         Conclusion
+    Example 1: Dye study
+    indicates discharge stays on       Model is over predicting dilution.
+    one side of stream and does        Model must be refined or a different
+    not mix with majority (>50%)       model used.
+    of stream.
+
+       Existing Information                         Conclusion
+                                       Discharge may cause migration
+                                       blockage because it mixes with a
+    Example 2: No knowledge of         significant portion of stream.
+    discharge mixing                   Additional field data may be needed or
+    characteristics or field           discharge characteristics (e.g., outfall
+    studies.                           configuration, discharge volume and
+                                       rate, discharge chemistry) may need to
+                                       be changed.
+
+
+   Permit development may proceed when the permit writer is satisfied that the modeling results are
+   sufficient. If further assistance is needed in evaluating the modeling results, the permit writer may
+   consult with the modeling specialist in the region or headquarters.
+Regulatory Mixing Zones IMD – Part 2                                 Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                    Date
+Revision 2.1                                                                                      Page 38 of 50
+
+
+   References
+
+   Jirka, Gerhard H., Robert L. Doneker, Steven W. Hinton. 1996. User’s Manual for CORMIX: A
+   Hydrodynamic Mixing Model and Decision Support System for Pollutant Discharges into Surface
+   Waters. U.S. EPA, Office of Science and Technology, Washington, DC.
+
+   U.S. EPA. 1990. NPDES Non-Municipal Rating System – Permit Rating Worksheet.
+   http://www.epa.gov/npdes/pubs/owm0116.pdf
+
+   U.S. EPA. 1991. Technical Support Document for Water Quality-based Toxics Control. EPA/505/2-2-
+   90-001.
+
+   Washington Department of Ecology. 2005. Water Quality Program Permit Writer’s Manual.
+   Publication #92-109.
+Regulatory Mixing Zones IMD – Part 2                                             Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                                Date
+Revision 2.1                                                                                                  Page 39 of 50
+
+
+   Appendix A: Mixing Zone Study Checklist
+
+                             Oregon DEQ Mixing Zone Study Checklist
+         (to be submitted to DEQ with Report on Mixing Zone Study) (v. 2.0, May 2012)
+   Legal Name:                                          Date Submitted:
+   Common Name:
+   Facility ID#:                                        Conducted by:
+   Application #:
+   Study Level (to be filled out by DEQ):       Information:                                            Check if
+        Level 1 - Simple                        X = required                                            Complete
+        Level 2 - Moderate                      E = estimate is acceptable                                (or note
+                                                M = measurement (field or engineering plans)            deficiencies)
+        Level 3 – Complex                                                                                To be filled
+                                                D = desirable
+   (See Part 2 of RMZ, Section 3.1, p.8)                                                                out by DEQ.
+   1   2    3   1.   Environmental Mapping (RMZ IMD Part 2, Section 4.1, p. 19)
+   X X      X A. Attach plan view map showing outfall and a segment of river that extends at least
+                 1/2 mile upstream and downstream of outfall. Map should indicate the following
+                 features downstream of outfall unless otherwise noted. By checking whether the
+                 specific feature is present or not, the permittee is certifying they have researched
+                 the information resources listed in Section 4.1 (Environmental Mapping) of the
+                 RMZ IMD.
+                                                                                            Not
+                                         Feature                             Present
+                                                                                          present
+                 Known commercial or recreational shellfish areas
+                 Fish spawning/rearing habitat
+                 Cold water refugia for fish
+                 Areas identified as having species (fish or non-
+                 fish) that may be sensitive to impact of discharge*
+                 Physical structures expected to attract fish (e.g.,
+                 piers, large woody debris, outfalls)
+                 Public access areas such as boat ramps, docks or
+                 public beaches
+                 Drinking water intakes within the vicinity of the            To be determined
+                 outfall and ½ mile downstream (to be identified by               by DEQ
+                 DEQ. Link to internal webpage is
+                 http://deq05/wqoutfalls/EOPbasics.aspx
+                 Other NPDES discharges upstream and                          To be determined
+                 downstream within ½ mile of outfall (to be                       by DEQ
+                 identified by DEQ. Link to internal webpage is
+                 http://deq05/wqoutfalls/EOPbasics.aspx)
+              *If such species are found to be present, report should include a description of such
+              species.
+              Page number(s) __________
+   X X      X B. Are there threatened and endangered species in the RMZ? □ Yes □ No
+              If yes, report should include a description of threatened and endangered species
+              present, habitat, and migration pathways as well as source(s) of information.
+              Page number(s) __________
+Regulatory Mixing Zones IMD – Part 2                                            Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                               Date
+Revision 2.1                                                                                                 Page 40 of 50
+
+
+                              Oregon DEQ Mixing Zone Study Checklist
+           (to be submitted to DEQ with Report on Mixing Zone Study) (v. 2.0, May 2012)
+             D C. Other information as appropriate.
+                                      Type of Information                                Page
+                                     (check all that apply)                            Number(s)
+                  □ Detailed salmonid use
+                  □ Bioassessment.
+                  □ Fish migration study
+                  □ Thermal imagery
+                  □ Map or measurements of channel width/depth
+                  □ Published information supporting environmental mapping
+                  □ Other. Describe:
+                 2.   Outfall Location and Mixing Description (RMZ IMD Part 2, Section 4.2, p.24)
+   E M       M A. Outfall Measurements:
+                                  Measurement                                Page Number(s)
+                  Distance from bank (ft):
+                  Height above bottom (ft):
+   E M       M B. If present, diffuser and port dimensions, orientation angle and configuration
+                    (include drawings, if available)
+               □ N/A
+               □ Description on page number(s) __________
+               □ Drawing on page number(s): __________
+   X M       M C. Outfall Location:
+               Latitude:_________________________
+
+               Longitude:_______________________
+               This information may be available on the following internal webpage:
+               http://deq05/wqoutfalls/EOPbasics.aspx
+   E   E     E D. River mile of outfall:_______________
+               This information may be available on the following internal webpage:
+               http://deq05/wqoutfalls/EOPbasics.aspx
+   D D       D E. Photographs of the outfall vicinity
+               □ N/A
+               □ See attached on page number(s): __________
+   X X       X F. Description and plan view of current RMZ and ZID as described in permit:
+               □ See attached on page number(s): __________
+Regulatory Mixing Zones IMD – Part 2                                             Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                                Date
+Revision 2.1                                                                                                  Page 41 of 50
+
+                Part 3. Ambient Receiving Water Conditions (RMZ IMD Part 2, Section 4.3, p.26)
+   E   E    E A. Parameter:
+              Dates of Critical Period:
+              (Note:may vary with parameter. See Section 4.3, p.26)
+              □ See attached on page number(s) __________
+              ______________________________________________________________________
+              Justification for Critical Period:
+              □ See attached on page number(s) __________
+              ______________________________________________________________________
+
+                For Riverine Systems:
+                Flow statistics and dilutions corresponding to critical period:
+                                                      Velocity Dilution
+                      Flow          Stream Flow                                 Dilution at
+                                                      (ft/sec)*        at                     Page
+                     Statistic           (cfs)                                   edge of
+                                                                    edge of                 Number(s)
+                                                                                  RMZ
+                                                                     ZID
+                      1Q10
+                      7Q10
+                      30Q5
+                    Harmonic
+                      Mean
+                *For systems where velocity can be approximated by a single value. If velocity profile
+                is needed, go to next section B.
+
+                Describe source (USGS, other) and extent of flow data on which critical flow statistics
+                are based.
+                □ N/A
+                □ See attached on page number(s) __________
+
+             For Marine/Estuarine Systems:
+             Refer to Table 4-2 on p. 30 for appropriate statistics and describe in an attachment.
+             □ N/A
+             □ See attached on page number(s) __________
+   E E/M E/M B. Velocity profile* for each critical flow condition
+             □ N/A
+             □ See attached on page number(s) __________
+             *for systems that where velocity cannot be approximated by a single value.
+   E E/M M C. Cross sectional area (width and depth) for each critical flow.
+           □ See attached on page number(s) __________
+   E E/M M D. Temperature and salinity profiles
+           □ N/A (no stratification)
+           □ See attached on page number(s) __________
+   E E   E E. Manning's roughness coefficient:
+           Page number __________
+Regulatory Mixing Zones IMD – Part 2                                               Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                                  Date
+Revision 2.1                                                                                                    Page 42 of 50
+
+               Part 4. Discharge Characteristics (RMZ IMD Part 2, Section 4.4, Table 4-3, p. 31)
+   E X      X C. Discharge flow rates for critical flow scenarios:
+                                       □ Domestic                                 □ Industrial
+               Aquatic □ For plants operating at <85%                    □ Use maximum daily
+               Life:      DWDF1 during the critical period:                average flow for the past 3
+               Acute      Use maximum daily average flow for               years during the period
+                          the past 3 years during the period               when the critical receiving
+                          when the critical receiving water                water flow is most likely to
+                          flow is most likely to occur.                    occur.
+                        □ For plants operating at 85-100% of             □ If flows are expected to
+                          DWDF:                                            increase over the life of the
+                          Use DWDF x PF2                                   permit, estimate highest
+                                                                           daily maximum flow.
+                            Applicable Effluent Flow :                               Page No.:
+                 Aquatic    □ For plants operating at 85-100% of         □ Use highest monthly
+                 Life:        DWDF during the critical period:             average flow for the past 3
+                 Chronic      Use DWDF.                                    years during the period
+                            □ For plants operating at <85%                 when the critical receiving
+                              DWDF:                                        water flow is most likely to
+                              Use highest monthly average flow             occur.
+                              for the past 3 years during the critical   □ If flow is expected to
+                              period or during the period when the         increase, estimate highest
+                              critical condition is likely to occur.       monthly average maximum
+                                                                           flow.
+                            Applicable Effluent Flow :                               Page No.:
+                 Human      □ Carcinogens:                               □ Carcinogens:
+                 Health       Use the annual average design flow           Use the annual average flow
+                              as specified in the engineering report       based on the permit
+                              or permit application, or use the            application or DMR
+                              annual average flow based on DMR             analysis.
+                              analysis.                                  □ Non-carcinogens:
+                            □ Non-carcinogens:                             Use highest monthly
+                              □ For plants operating at 85-100% of         average flow for the past 3
+                                 design capacity:                          years during the period
+                                 Use the dry weather design flow.          when the critical receiving
+                              □ For plants operating at <85% of            water flow is most likely to
+                                 design flow: Use highest monthly          occur. If flows are expected
+                                 average flow for the past 3 years         to increase over the life of
+                                 during the period when the critical       the permit, estimate highest
+                                 receiving water flow is most likely       average monthly flow.
+                                 to occur.
+                            Applicable Effluent Flow :                              Page No.:
+               Notes:
+               1
+                 DWDF - Dry Weather Design Flow
+               2
+                 PF – Peaking Factor
+Regulatory Mixing Zones IMD – Part 2                                            Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                               Date
+Revision 2.1                                                                                                 Page 43 of 50
+
+        E/M M D. Discharge chemistry data:
+                    Check if        Parameter                 Value             Page Number(s)
+                    N/A
+                                    Temperature (F)
+                                    Conductivity (µmhos)
+                                    Salinity (ppt)
+                  Part 5. Mixing Zone Modeling* (RMZ IMD Part 2, Section 4.5, p. 32)
+         D    M A. Field mixing measurements (e.g., dye studies)
+                □ N/A
+                □ See attached on page number(s) __________
+   X X        X B. Model selection and application discussion
+                □ N/A
+                □ See attached on page number(s) __________
+   X X        X C. Description of mixing and plume dynamics (near-field and far-field)
+                □ N/A
+                □ See attached on page number(s) __________
+   X X       X D. Sensitivity analysis
+                 □ N/A
+                 □ See attached on page number(s) __________
+   X X       X E. Model results table (see Table 4-4 on page 34 of Section 4.5 of Part 2 of the RMZ
+                      IMD for an example)
+                 □ N/A
+                 □ See attached on page number(s) __________
+   *Note: In some cases (e.g., shallow streams with non-uniform flow and tidally-influence waterbodies), modeling
+   is not appropriate. See RMZ IMD Part 2, Section 2.2, p. 6.
+   DEQ Reviewer Comments
+   Name of DEQ Reviewer:
+
+   Date:
+
+   4.    Describe deficiencies, if any.
+
+
+
+
+   5.    Which if any need to be addressed before the permit can be issued?
+
+
+
+
+   6.    Which if any may be addressed through permit conditions?
+
+
+
+
+   The checklist and reviewer comments should be attached to the permit evaluation report.
+Regulatory Mixing Zones IMD – Part 2                                       Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                          Date
+Revision 2.1                                                                                            Page 44 of 50
+
+
+   Appendix B: Examples of Mixing Zone
+   Study Effort Levels
+
+   *Note: the names of the permittee, city and receiving waters have been replaced with generic
+   terminology.
+
+
+   Level 1: Simple
+   ABC Packaging:
+   The permittee discharges non-contact cooling water to the Mythical River through four outfalls at about
+   River Mile 105.7. The NPDES permit defines the regulatory mixing zone (RMZ) at each outfall as the
+   portion of the Mythical River from the discharge to 150 feet downstream of the point of discharge. All
+   four discharge locations are submerged single port outfalls. A mixing zone study was conducted in
+   2001. The study consisted of using CORMIX, an EPA-approved model, to predict dilution at the edge
+   of the RMZ. The mixing zone dilutions at the four outfalls ranged from 19:1 to 40:1 and the dilution at
+   the edge of the zone of immediate dilution (ZID) ranged from 4:1 to 8:1.
+
+
+   ACME, Inc.
+   The permittee discharges non-contact to the Mythical Slough at RM 6.0. The NPDES permit defines
+   the RMZ as a rectangle 25 meters wide and 70 meters upstream and 70 meters downstream of the
+   discharge. The discharge occurs through a side-bank outfall that is above the water surface. A mixing
+   zone study was conducted in 2001. The study consisted of using CORMIX, an EPA-approved model,
+   to predict dilution at the edge of the RMZ. The RMZ dilution was estimated to be 6.3:1. The permit
+   does not define a ZID.
+
+
+   City of Mythical
+   The city discharges to the Mythical River at RM 190. The NPDES permit defines the RMZ as that
+   portion of the Mythical River within a 100 foot radius of the point of discharge. The ZID may not
+   exceed 10 percent of the defined RMZ in any direction from the point of discharge. The city discharge
+   consists of a 48-inch reinforced concrete pipe that extends over 150 feet from the river bank into the
+   Mythical River. The outfall pipe is one 39-inch angled port at the water surface. The field work for the
+   mixing zone was conducted in September 1994. The mixing zone study approach employed the
+   injection of rhodamine WT dye into the effluent at know concentrations. The RMZ dilution was
+   estimated to be 16:1 and the dilution at the edge of the ZID was estimated to be 2:1.
+
+
+
+   Level 2: Moderate
+   Mythical Mills
+   Mythical Mills discharges process wastewater to the Mythical River at RM 2.7. The NPDES permit
+   defines the RMZ as that portion of the Mythical River within a 90 meter radius from the point of
+   discharge. The discharge is through a submerged single port outfall. A mixing zone study was
+   conducted in 2001. As part of the mixing zone evaluation, velocity profile data was collected. The
+   study used the field data as input for modeling. The modeling consisted of using CORMIX, an EPA-
+Regulatory Mixing Zones IMD – Part 2                                        Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                           Date
+Revision 2.1                                                                                             Page 45 of 50
+
+   approved model, to predict dilution at the edge of the RMZ. The RMZ dilution was estimated to be
+   24:1 and the dilution at the edge of the ZID was estimated to be 5:1.
+
+
+   City of Hypothetical
+   The city discharges wastewater to the Mythical River at RM 38.6. The NPDES permit defines the
+   RMZ as that portion of the Mythical River within 150 feet downstream of the point of discharge. The
+   discharge is through a submerged single port outfall. A mixing zone study was conducted in 2002.
+   The modeling consisted of using CORMIX to predict dilution at the edge of the RMZ. The mixing
+   zone evaluation also consisted of several model runs to assess the sensitivity of dilution predictions to
+   input assumptions. The RMZ dilution was estimated to be 23:1 and the dilution at the edge of the ZID
+   was estimated to be 3:1.
+
+
+   City of Example
+   The city discharges to the Mythical River at RM 168.5. The NPDES permit defines the RMZ as that
+   portion of the Mythical River within a 100 foot radius of the point of discharge. The outfall is a 54-
+   inch diameter corrugated metal pipe. The end of the outfall is on a rock peninsula which extends
+   approximately 15 feet into the Mythical River from the main shoreline. The outfall is an open ended
+   pipe without a diffuser. The mixing zone was evaluated by measuring the dilution of dye injected at a
+   constant rate into the effluent stream and with CORMIX. The field work for the mixing zone was
+   conducted in August 1994. The RMZ dilution was estimated to be 15:1 and the dilution at the edge of
+   the ZID was estimated to be 5:1.
+
+
+
+   Level 3: Complex
+   City of Utopia
+   The city discharges wastewater to the Mythical River at RM 2.3. The NPDES permit defines the RMZ
+   as that portion of the Mythical River from the point of discharge to 100 feet downstream of the
+   discharge. The discharge is through a submerged single port outfall. A mixing zone study was
+   conducted in 2003. The mixing zone evaluation consisted of a field dye study followed by modeling
+   using CORMIX. The CORMIX model was first calibrated to field conditions. Then the model was
+   used to run several scenarios. The RMZ dilution was estimated to be 42:1 and the dilution at the edge
+   of the ZID was estimated to be 7:1.
+
+
+   ABC Paper Company
+   The permittee discharges wastewater to the Mythical River at RM 27.7. The NPDES permit defines
+   the RMZ as that portion of the Mythical River from the point of discharge to 20 meters downstream of
+   the discharge. The discharge is through a submerged multi-port diffuser consisting of 11 diffuser ports.
+   A mixing zone study was conducted in 2003. The mixing zone evaluation consisted of a field dye
+   study followed by modeling. Both CORMIX and Visual Plumes were used to determine which model
+   more closely represented field conditions. The mixing zone evaluation concluded that DKHW from
+   the Visual Plumes modeling suite better represented field conditions than CORMIX. Once the model
+   was selected, several model runs were conducted for a variety of scenarios. The RMZ dilution was
+   estimated to be 53:1 and the dilution at the edge of the ZID was estimated to be 5:1.
+Regulatory Mixing Zones IMD – Part 2                                          Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                             Date
+Revision 2.1                                                                                               Page 46 of 50
+
+
+   Appendix C: Critical Flow Conditions
+
+   Overview
+   Critical design flow conditions must be used when conducting a mixing zone study for the purpose of
+   allocating an RMZ. EPA recommends either the hydrologic method developed by the U.S. Geological
+   Survey or a biologically-based method developed by EPA for calculations of critical flows.
+
+   Although water quality criteria within the RMZ may be exceeded under these critical flows, the water
+   within the RMZ must at all times be free from substances settling to form objectionable deposits;
+   floating debris, scum, oil, or other matter; produce objectionable color, odor, taste, or turbidity; cause
+   acutely toxic conditions; or produce undesirable or nuisance aquatic life.
+
+   EPA’s Technical Support Document for Water Quality-based Toxics Control (TSD) describes the
+   critical design flows that should be used when performing mixing zone analyses for the various
+   waterbodies. This discussion is summarized in the following sections. The waterbodies are grouped as
+   follows: rivers and run-of-rivers reservoirs, lakes and reservoirs, estuaries and coastal bays, and oceans.
+
+
+   Rivers and Run-of-Rivers Reservoirs
+   EPA’s TSD defines rivers and run-of-river reservoirs as waterbodies that have a persistent throughflow
+   in the downstream direction and do not exhibit significant natural density stratification. Critical design
+   periods for these waterbodies are discussed in greater detail in Appendix D of the TSD. The TSD
+   recommends the use of the hydrologically or biologically based design flows. The critical flows are as
+   follows:
+
+   •   Aquatic Life
+       Acute criteria (CMC):         1Q10 or 1B3
+       Chronic criterion (CCC):      7Q10 or 4B3
+
+   •   Human Health
+       Non-carcinogens:              30Q5
+       Carcinogens:                  Harmonic mean flow
+
+   1Q10 is the lowest one day flow with an average recurrence frequency of once in 10 years.
+   7Q10 is the lowest average 7 consecutive day low flow with an average recurrence frequency of once
+      in 10 years.
+   30Q5 is the lowest average 30 consecutive day low flow with an average recurrence frequency of one
+      in 5 years.
+   harmonic mean flow is a long term mean flow value calculated by dividing the number of daily flows
+      analyzed by the sum of the reciprocals of those daily flows. The equation is:
+                                                   n
+                                              ∑ 1 / Qi − n
+                                             where n = number of daily flows
+                                             Q = flow
+
+   1B3 and 4B3 are biologically-based design flows determined using a method developed by EPA. This
+      method directly incorporates the aquatic-life water quality criteria averaging periods and
+Regulatory Mixing Zones IMD – Part 2                                          Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                             Date
+Revision 2.1                                                                                               Page 47 of 50
+
+       frequencies specified for the CMC and CCC (i.e. 1 day and 3 years for the CMC and 4 days and 3
+       years for the CCC).
+
+   Note: Regulated rivers may have a minimum flow in excess of these toxicological flows. In these
+   cases, EPA recommends using the minimum flow.
+
+
+   Design Flow Software
+   EPA has two software programs that can calculate both types of design flows. Hydrologically-based
+   design flows can be calculated using the programs DFLOW or FLOSTAT, and biologically-based
+   design flows can be calculated using DFLOW. Both programs are available from EPA at
+   http://www.epa.gov/waterscience/dflow/. The software package WQHYDRO (Aroner) also has the
+   ability to calculate both types of design flows.
+
+
+   Lakes and Reservoirs
+   The critical time period should be determined based on seasonal variations in water level, density
+   stratification, wind speed and direction, and seasonal solar radiation. In general, all four seasons
+   should be analyzed to determine the most critical period.
+
+
+   Estuaries and Coastal Bays
+   EPA’s TSD defines estuaries as having a main channel reversing flow and coastal bays as having
+   significant two-dimensional flow in the horizontal directions. For both water bodies, the critical design
+   conditions recommended by EPA are based on a combination of the tides and the river conditions.
+
+   Because plume dynamics within an estuarine environment are so complex, discharge dilution can not
+   be calculated simply based on the receiving stream critical low flow and the effluent discharge rate.
+   Effluent mixing within an estuary is complicated by density stratification, tidal variation, wind effects,
+   riverine inputs, and complex circulation patterns. The complex nature of the above factors requires site
+   specific, empirical data to determine the critical dilution factors.
+
+   The TSD makes separate recommendations for estuaries without stratification and with stratification.
+   In estuaries without stratification, the critical dilution condition includes a combination of low-water
+   slack at spring tide for the estuary and design low flow for riverine inflow. In estuaries with
+   stratification, a site-specific analysis of a period of minimum stratification and a period of maximum
+   stratification, both at low-water slack, should be made to evaluate which one results in the lowest
+   dilution. In general, minimum stratification is associated with low river inflows and large tidal ranges
+   (spring tide), whereas maximum stratification is associated with high river inflows and low tidal ranges
+   (neap tide).
+
+   In addition to evaluation of the above critical design conditions, an off-design condition should be
+   evaluated as well. The recommended off-design condition for both stratified and unstratified
+   conditions is that of maximum velocity during a tidal cycle. The off-design condition will likely result
+   in greater dilution but it may carry the plume further downstream. Evaluations of this condition are
+   necessary to assure toxic conditions are not carried downstream into critical resource areas such as
+   shellfish habitat.
+
+   For application of acute criteria, the 10th % velocity over one tidal cycle should be used for critical
+   slack conditions and 90th % for the off-design condition. For chronic and human health criteria the
+   50th% velocity should be used.
+Regulatory Mixing Zones IMD – Part 2                                       Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                          Date
+Revision 2.1                                                                                            Page 48 of 50
+
+
+   Oceans
+   EPA’s TSD refers to two documents that discuss critical design periods for ocean analyses (EPA, 1982
+   and Muellenhoff et al, 1985). The TSD provides a brief summary of these documents as they relate to
+   mixing analysis for oceanic outfalls.
+
+   Like critical conditions for estuarine environments, oceanic critical periods must include analysis for
+   periods of maximum and minimum stratification. The analysis must also include periods when oceanic
+   conditions, weather conditions, or discharge conditions indicate that water quality standards are likely
+   to be exceeded. The TSD suggests the 10th percentile value from the cumulative frequency of each
+   parameter should be used in the analysis.
+Regulatory Mixing Zones IMD – Part 2                                       Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                          Date
+Revision 2.1                                                                                            Page 49 of 50
+
+
+   Appendix D: Revision History
+
+   Overview
+   Rev. 1 Initial publishing of document, December 2007
+   Rev. 1.1 Minor editorial changes, February 2008
+   Rev. 2.0 Changes to content, wording and formatting, May 2012.
+   Rev. 2.1 Minor change to content, May 2013.
+
+
+
+   Revisions
+   Rev. 1.1
+       •   P. 29, Table 4-2, change of required effluent flow parameter for human health (non-
+           carcinogen) from “annual average flow” to “average dry weather design flow”
+       •   P. 29, Table 4-2, correct footnotes on human health flow systems to reflect “carcinogen” or
+           “non-carcinogen”
+
+
+   Rev. 2.0
+
+   Section 1
+      • Language has been added to clarify that the RMZ must be evaluated under critical conditions,
+         and that justification must be provided for the determination of when these conditions are
+         expected to occur. This was done to comply with the terms of the settlement agreement which
+         stipulates that “data relevant to the mixing zone includes information for all appropriate
+         seasons (depending on pollutants and seasonal uses).”
+
+       •   The document has been revised to reflect the fact that DEQ no longer has resources to conduct
+           mixing zone studies.
+
+   Section 3
+      • Mixing zone study information checklist has been modified so that it serves to document the
+         findings of the mixing zone study.
+
+       •   The terms swimming holes, swimming areas and fishing holes have been replaced with the
+           terms public beaches, docks and boat ramps because they are more identifiable and therefore
+           less likely to be overlooked.
+
+   Section 4
+      • The section on environmental mapping was expanded to include discussion of the different
+         categories of beneficial uses and to include resources for identifying beneficial uses other than
+         fish.
+
+       •   The discussion of critical conditions has been expanded to emphasize that mixing zones must
+           be modeled under critical conditions and that justification must be provided for the decision as
+           to what constitutes critical conditions for each parameter being evaluated. This change was
+           made to comply with the terms of the settlement agreement which stipulates that “data relevant
+Regulatory Mixing Zones IMD – Part 2                                       Oregon Department of Environmental Quality
+DEQ Publication Number                                                                                          Date
+Revision 2.1                                                                                            Page 50 of 50
+
+           to the mixing zone includes information for all appropriate seasons (depending on pollutants
+           and seasonal uses).”
+
+       •   Mention of far-field analysis has been removed from the discussion of receiving waterbody
+           cross-sectional profile because mixing analyses are by definition not far-field analyses.
+
+       •   The discussion of ambient velocity profile has been expanded and more detail on how it may
+           be determined has been added.
+
+       •   Table 4-2 entitled “Required Statistics for Critical Condition and Effluent Flow” has been
+           updated and broken into two separate tables, one entitled “Table 4-2: Receiving Water Flow
+           Statistics to Use in Mixing Zone Analyses” and the other entitled “Table 4-3: Effluent Flow
+           Statistics to Use in Mixing Zone Analyses (For Both Riverine and Marine/Estuarine Systems)”.
+           In addition, “highest daily maximum flow” has been replaced with “maximum daily average
+           flow”. This change was made in order to avoid the accidental use of the instantaneous
+           maximum flow.
+
+       •   “Table 4-4 Modeling Results Summary Example for A Given Set of Conditions” has been
+           replaced with “Table 4-4: Modeling Results Summary Example for Riverine Systems”.
+
+       •   Section 4.6 entitled “Additional water quality data” has been deleted because it is redundant
+           with DEQ’s RPA IMD and does not pertain specifically to mixing zone analyses.
+
+
+
+   Rev. 2.1
+
+   Section 4.5
+       •   From page 36:
+       % of stream mixing with discharge = ((D-1) x Qe)/Qs
+       Where: D = predicted dilution factor = (Qe+Qs)/Qe (From the model output)
+       Qe = discharge flow (cfs)
+       Qs = stream flow (cfs)
+       • From page 37:
+           Existing Information
+           Example 1: Dye study indicates
+           discharge stays on one side of
+           stream and does not mix with
+           majority (>50%) of stream.
+

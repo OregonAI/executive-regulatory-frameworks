@@ -88,6 +88,78 @@ def _sp_pdf_rows(web: str, list_url: str) -> list[dict]:
     return [r for r in rows if str(r.get("FileLeafRef", "")).lower().endswith(".pdf")]
 
 
+def _sp_list_items(web: str, list_url: str, fields: list[str]) -> list[dict]:
+    """All items (recursively) of a SharePoint custom LIST (not a document library — no
+    FileLeafRef/FileRef file-download shape), via the anonymous RenderListDataAsStream API.
+    Requests only `fields` to keep the payload small. Used for lists whose items are metadata
+    rows pointing at content elsewhere (e.g. DEQ's Internal Management Directives list, whose
+    'Directive' field links to an external records-viewer page, not a downloadable file)."""
+    from urllib.parse import quote
+    url = (f"https://www.oregon.gov{web}/_api/web/GetList('{quote(list_url)}')/"
+           "RenderListDataAsStream")
+    field_refs = "".join(f"<FieldRef Name='{f}'/>" for f in fields)
+    vx = f"<View Scope='RecursiveAll'><ViewFields>{field_refs}</ViewFields><RowLimit>5000</RowLimit></View>"
+    body = json.dumps({"parameters": {"__metadata": {"type": "SP.RenderListDataParameters"},
+                                      "RenderOptions": 2, "ViewXml": vx}}).encode()
+    import urllib.request
+    req = urllib.request.Request(url, data=body, headers={
+        "User-Agent": "Mozilla/5.0 (oregon-policy-repo updater)",
+        "Accept": "application/json;odata=verbose",
+        "Content-Type": "application/json;odata=verbose"})
+    with urllib.request.urlopen(req, timeout=90) as resp:
+        return json.loads(resp.read()).get("Row", [])
+
+
+DEQ_URI_RE = re.compile(r"uri=\s*(\d+)")
+
+
+def _discover_deq_imd(prof: dict) -> tuple[list, str]:
+    """DEQ's 'Internal Management Directives' SharePoint LIST (not a document library): each
+    row names a directive and links to an external records-management viewer page
+    (ormswd2.synergydcs.com/.../RecordViewer.aspx?uri=NNNNNN) rather than a downloadable file
+    — see _fetch_synergy_pdf for how the actual PDF is recovered from that page. Identity is
+    the stable numeric 'uri' from the Directive link (survives a title rename); one real
+    source-side duplicate exists (two titled rows linking to the same uri) and collapses to a
+    single entry, keeping the first title encountered."""
+    rows = _sp_list_items("/deq/Get-Involved", "/deq/Get-Involved/Lists/Internal Management Directives",
+                          ["Title", "Directive", "Division", "Year_x0020_Issued"])
+    seen, sources = set(), []
+    for row in rows:
+        m = DEQ_URI_RE.search(row.get("Directive") or "")
+        if not m:
+            continue
+        uri = m.group(1)
+        if uri in seen:
+            continue
+        seen.add(uri)
+        title = re.sub(r"\s+", " ", row.get("Title") or "").strip()
+        div = row.get("Division") or ""
+        year = row.get("Year_x0020_Issued") or ""
+        # notes carries num|title|division|year_issued — the last two are DEQ-specific extra
+        # fields; path-identity unpacking in ingest_one treats them as optional (blank for
+        # every other path-identity profile's 2-part notes).
+        sources.append({"id": f"deq-imd-{uri}", "url": row["Directive"].replace(" ", ""),
+                        "sha256": "TODO", "last_checked": TODAY,
+                        "notes": f"{uri}|{title}|{div}|{year}"})
+    return sources, ("SharePoint LIST 'Internal Management Directives' at "
+                     "/deq/Get-Involved/Lists/Internal Management Directives, queried via "
+                     "RenderListDataAsStream. Freshness: re-query and diff the item set.")
+
+
+def _fetch_synergy_pdf(viewer_url: str) -> bytes:
+    """The DEQ records-viewer page (ormswd2.synergydcs.com RecordViewer.aspx) embeds the full
+    PDF inline as a base64 JS variable (`var myPdfBase64 = '...'`) for client-side pdf.js
+    rendering — no separate document-download endpoint exists. Fetch the page and decode that
+    variable to recover the real PDF bytes. Raises ValueError if the page has no such variable
+    (e.g. an unexpected page shape) — never fabricates content."""
+    import base64
+    html = fetch(viewer_url).decode("utf-8", errors="replace")
+    m = re.search(r"var myPdfBase64\s*=\s*'([^']+)'", html)
+    if not m:
+        raise ValueError(f"no embedded PDF found at {viewer_url}")
+    return base64.b64decode(m.group(1))
+
+
 def _omd_header(raw_txt: str):
     """(division, title) from an OMD 'AGP-' policy header: 'ADJUTANT GENERAL PERSONNNEL'
     banner line + a 'SUBJECT: ...' line."""
@@ -259,6 +331,26 @@ POLICY_PROFILES = {
         "authority_level": "state_policy",
         "tags": ["public-utility-commission", "policy", "governance"],
     },
+    # DEQ Internal Management Directives: discovered from a SharePoint LIST (not a document
+    # library — see _discover_deq_imd); each item's PDF lives behind an external
+    # records-management viewer page, recovered via _fetch_synergy_pdf (base64-embedded for
+    # client-side pdf.js rendering, no separate download endpoint). identity: 'path'; num is
+    # the stable numeric "uri" from the Directive link, division/year_issued come from the
+    # list's own fields (not from parsing the PDF — the PDFs' own cover-page dates are
+    # inconsistent free text across documents, so day-level effective_date is intentionally
+    # left unset; year_issued is recorded as a coarse, explicitly-labeled signal instead).
+    "department-of-environmental-quality": {
+        "agency": "department-of-environmental-quality",
+        "discovery": "deq-imd",
+        "identity": "path",
+        "fetch": "synergy-viewer",
+        "effective_re": re.compile(r"(?!x)x"),  # no reliable machine-readable date across docs
+        "citation": lambda num: "DEQ Internal Management Directive",
+        "id": lambda num: "deq-imd-" + num,
+        "issuing_default": "Oregon Department of Environmental Quality",
+        "authority_level": "state_policy",
+        "tags": ["department-of-environmental-quality", "policy", "internal-management-directive"],
+    },
 }
 
 
@@ -353,6 +445,8 @@ def discover(group_path: Path, gd: dict, prof: dict):
         sources, signal = _discover_sharepoint(prof)
     elif mode == "link-list":
         sources, signal = _discover_link_list(prof)
+    elif mode == "deq-imd":
+        sources, signal = _discover_deq_imd(prof)
     else:
         sources, signal = _discover_static_html(prof)
     gd["sources"] = sources
@@ -394,17 +488,24 @@ def doc_header_title(raw_txt: str):
 
 
 # ---- ingest one ----
-def doc_markdown(prof, num, title, division, url, sha, effective, supersedes, raw_txt):
+def doc_markdown(prof, num, title, division, url, sha, effective, supersedes, raw_txt,
+                 year_issued=""):
     doc_id = prof["id"](num)
     citation = prof["citation"](num).replace(chr(34), chr(39))  # keep frontmatter YAML valid
     eff_iso = iso_date(effective)
     body, conv = clean_pdf_text(raw_txt, prof["agency"])
     eff_field = f'"{eff_iso}"' if eff_iso else "null"
-    src_ver = f"Effective {effective}" if effective else ""
+    # year_issued is a coarse (year-only) date signal from the source listing itself, used only
+    # when no day-level effective date was transcribable from the document (never fabricated —
+    # labeled as coming from the listing, not parsed from the doc's own text)
+    src_ver = (f"Effective {effective}" if effective else
+              (f"Year issued: {year_issued} (per the source listing)" if year_issued else ""))
     sup_field = f'"Superseded policy dated {supersedes}"' if supersedes else "null"
     glance = f"{citation} — {title}. {prof['issuing_default']}."
     if eff_iso:
         glance += f" Effective {effective}."
+    elif year_issued:
+        glance += f" Issued {year_issued}."
     fm = f"""---
 id: {doc_id}
 title: "{title.replace(chr(34), chr(39))}"
@@ -468,7 +569,7 @@ def ingest_one(prof, src, out_dir) -> dict:
     url, prov_id = src["url"], src["id"]
     path_identity = prof.get("identity") == "path"
     try:
-        raw = fetch(url)
+        raw = _fetch_synergy_pdf(url) if prof.get("fetch") == "synergy-viewer" else fetch(url)
     except Exception as e:
         return {"status": "fail", "id": prov_id, "msg": f"FETCH_FAIL {prov_id}: {e}"}
     if raw[:5] != b"%PDF-":
@@ -483,10 +584,12 @@ def ingest_one(prof, src, out_dir) -> dict:
                 "msg": f"NO_TEXT {prov_id} (image-only/empty; needs OCR/human review)"}
 
     if path_identity:
-        num, title = (src["notes"].split("|", 1) + [""])[:2]
+        # notes is 'num|title' for most path-identity profiles, or 'num|title|division|
+        # year_issued' for DEQ; the extra fields are blank (no-op) everywhere else.
+        num, title, division, year_issued = (src["notes"].split("|") + ["", "", "", ""])[:4]
         doc_id = prov_id
-        division = ""
     else:
+        year_issued = ""
         mnum = prof["num_re"].search(raw_txt)
         if not mnum:
             pdf_path.unlink(missing_ok=True)
@@ -507,12 +610,15 @@ def ingest_one(prof, src, out_dir) -> dict:
         pdf_path.rename(SNAPSHOT_DIR / f"{doc_id}.pdf")
     (SNAPSHOT_DIR / f"{doc_id}.txt").write_text(raw_txt, encoding="utf-8")
     sha = content_hash(raw, "pdf")
-    _id, text = doc_markdown(prof, num, title, division, url, sha, effective, supersedes, raw_txt)
+    _id, text = doc_markdown(prof, num, title, division, url, sha, effective, supersedes,
+                             raw_txt, year_issued)
     (out_dir / f"{doc_id}.md").write_text(text, encoding="utf-8")
-    # path-identity manifests are keyed by 'num|title' (read back on any future re-ingest, e.g.
-    # --only); preserve that shape rather than a free-text "title (citation)" summary, or a
-    # second run would parse the summary itself as num/title and mis-derive doc_id.
-    notes = f"{num}|{title}" if path_identity else f"{title} ({prof['citation'](num)})"
+    # path-identity manifests are keyed by 'num|title[|division|year_issued]' (read back on any
+    # future re-ingest, e.g. --only); preserve that shape rather than a free-text
+    # "title (citation)" summary, or a second run would parse the summary itself as num/title
+    # and mis-derive doc_id.
+    notes = (f"{num}|{title}|{division}|{year_issued}" if path_identity
+            else f"{title} ({prof['citation'](num)})")
     return {"status": "ok", "id": doc_id, "sha": sha, "url": url,
             "notes": notes, "msg": f"OK {doc_id} ({prof['citation'](num)})"}
 
@@ -562,16 +668,19 @@ def main():
             skipped += 1
 
     # Write real sha256/id back into the manifest; drop processed non-policy attachments.
-    # Sources not processed this run (subset --only/--limit) are left untouched.
+    # Sources not processed this run (subset --only/--limit) are left untouched. A transient
+    # 'fail' (network/fetch error) is kept as-is (sha256 stays TODO) so the next run retries it
+    # — only a content-based 'skip' (image-only/non-policy attachment, a stable fact about the
+    # source) is dropped.
     new_sources = []
     for s in gd.get("sources") or []:
         r = results.get(s["id"])
-        if r is None:
-            new_sources.append(s)                       # not processed this run
+        if r is None or r["status"] == "fail":
+            new_sources.append(s)                       # not processed, or a transient failure
         elif r["status"] == "ok":
             new_sources.append({"id": r["id"], "url": r["url"], "sha256": r["sha"],
                                 "last_checked": TODAY, "notes": r["notes"]})
-        # status skip/fail with no PDF/number -> dropped
+        # status skip -> dropped (a stable fact: image-only / not a policy)
     gd["sources"] = new_sources
     gd["last_checked"] = TODAY
     group_path.write_text(yaml.safe_dump(gd, sort_keys=False, allow_unicode=True, width=100))

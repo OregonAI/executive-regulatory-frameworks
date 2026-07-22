@@ -1,0 +1,114 @@
+                       Internal Management Directive
+                Subject:                                               IMD Number:
+
+                PM2.5 True-Up                                          AQ-00-0015
+
+                Effective Date:         August 10, 2011
+                                                                       Pages:            3
+                Revision Date:
+
+
+                Approval:
+
+                                        Andrew Ginsburg - Air Quality Administrator
+
+Intent / Purpose / Statement of Need:
+This Internal Management Directive describes the procedure DEQ will use to establish an initial
+PM2.5 netting basis for previously permitted sources requiring a netting basis adjustment of up to
+5 tons to avoid retroactive violations due to exceedance of the PM2.5 significant emission rate.
+
+Directive to Air Quality Permit Writers:
+This directive applies to Air Quality permit writers who are establishing an initial PM2.5 netting
+basis for sources that have a PM10 Plant Site Emission Limit 10 to 14 tons greater than their
+PM10 netting basis. Mostly, this directive applies to permitting sources with a Generic PSEL for
+PM10 and no netting basis, but it could also apply to permitting sources with source specific
+PSELs and a netting basis if their PM10 PSEL is 10 to 14 tons greater than the PM10 netting basis.
+If these criteria are met, the permit writer may establish a PM2.5 netting basis using the “PM2.5
+true-up” provision in OAR 340-200-0020.
+
+   1. First, determine the required PM2.5 PSEL for the source using the Instructions for
+      Determining the PM2.5 Plant Site Emission Limit and Netting Basis (refer to the ACDP
+      and Title V application forms and instructions for calculating emissions).
+
+   2. Next, calculate the PM2.5 netting basis by multiplying the PM10 netting basis by the ratio
+      of the PM2.5 PSEL to the PM10 PSEL. For sources with no netting basis for PM10, this
+      will result in no netting basis for PM2.5.
+
+   3. If the required PM2.5 PSEL is greater than the PM2.5 netting basis by 10 to 14 tons, the
+      source may request the “true-up”.
+
+   4. If a source requests the “true-up”, the PM2.5 netting basis will be set according to the
+      equation below:
+
+               (PM2.5 netting basis) = (Required PM2.5 PSEL) – (PM2.5 SER -1).
+
+   5. If the source currently has a Simple ACDP, it must apply for a Standard ACDP in order
+      to establish and maintain a netting basis for PM2.5. If the source has surrendered netting
+      bases for other pollutants in order to qualify for the Simple ACDP, it cannot reestablish
+      those netting bases; it can only establish a new netting basis for PM2.5.
+                                                1
+Background:
+The rule basis for the “PM2.5 true-up” is the definition of Netting Basis in OAR 340-200-0020:
+
+       "Netting Basis" means the baseline emission rate MINUS any emission reductions
+       required by rule, orders, or permit conditions required by the SIP or used to avoid SIP
+       requirements, MINUS any unassigned emissions that are reduced from allowable under
+       OAR 340-222-0045, MINUS any emission reduction credits transferred off site, PLUS
+       any emission increases approved through the New Source Review regulations in OAR
+       340 division 224 MINUS any emissions reductions required by subsection (g) of this
+       section.
+       (a) A netting basis will only be established for regulated pollutants subject to OAR 340
+       division 224 as specified in the definition of regulated pollutant.
+       (b) The initial PM2.5 netting basis and PSEL for a source that was permitted prior to May
+       1, 2011 will be established with the first permitting action issued after July 1, 2011,
+       provided the permitting action involved a public notice period that began after July 1,
+       2011.
+       (A) The initial netting basis is the PM2.5 fraction of the PM10 netting basis in effect
+       on May 1, 2011. DEQ may increase the initial PM2.5 netting basis by up to 5 tons if
+       necessary to avoid exceedance of the PM2.5 significant emission rate as of May 1,
+       2011.
+
+PM2.5 has been indirectly regulated through PM10 and total particulate matter for years. Because
+of this, DEQ is adding PM2.5 to the program in a manner that avoids imposing retroactive
+violations on sources who have complied with existing permitting requirements for particulate
+matter. The PM2.5 Significant Emission Rate (SER) is 10 tons per year (tpy), while the PM10 SER
+is 15 tpy. If a source’s PM2.5 fraction of PM10 is close to or equal to one (meaning that most or all
+of the PM10 is PM2.5), it is possible for a source to have PM2.5 emissions greater than the PM2.5
+netting basis by more than the SER.
+
+Without a rule provision to address this situation, sources could retroactively violate the air
+quality analysis requirements of OAR 340-222-0041 or New Source Review requirements.
+Sources could also be required to satisfy those requirements for any future change, even if
+emissions did not increase. Subsection (b)(A) of the definition of Netting Basis, referred to as the
+“PM2.5 true-up”, was adopted by the Environmental Quality Commission to avoid this situation.
+The PM2.5 true-up allows DEQ to establish a PM2.5 netting basis at the minimum level necessary
+so that the source’s PM2.5 PSEL is less than the PM2.5 SER over the netting basis.
+
+A source that requires a source-specific PM2.5 PSEL greater than the generic level and/or a PM2.5
+netting basis must have a Standard ACDP or Title V permit. Simple ACDPs cannot have a
+netting basis or PSEL greater than the generic level. Any source currently on a Simple ACDP
+that needs to establish a PM2.5 netting basis will need to obtain a Standard ACDP.
+
+Applicability:
+Plant Site Emission Limits - OAR 340, Division 222
+New Source Review - OAR 340, Division 224
+
+Definitions:
+Netting Basis - OAR 340-200-0020
+                                                 2
+Internal Contact:
+Jill Inahara
+503-229-5001
+inahara.jill@deq.state.or.us
+
+Internal Management Directive:
+This document is an internal management directive that is intended only as direction to DEQ
+staff in the absence of different direction provided by DEQ management. This internal
+management directive does not establish policy or legal interpretations that may be relied upon
+by permittees or other third parties.
+
+
+
+
+                                                3
+

@@ -1,0 +1,737 @@
+Implementation of
+HB 3814 (enacted)
+Internal Management Directive
+
+12/18/2025
+                                      This document was prepared by
+                                 Oregon Department of Environmental Quality
+
+                             Water Quality Permitting and Program Development
+                                   700 NE Multnomah Street, Suite 600
+                                           Portland Oregon, 97232
+
+                                              Contact: Aliana Britson
+                                              Phone: 503-229-6044
+
+                                               www.oregon.gov/deq
+
+
+
+
+Translation or other formats
+Español | 한국어 | 繁體中文 | Pусский | Tiếng Việt | ‫اﻟﻌﺮﺑﯿﺔ‬
+800-452-4011 | TTY: 711 | deqinfo@deq.oregon.gov
+
+
+Non-discrimination statement
+DEQ does not discriminate on the basis of race, color, national origin, disability, age, sex, religion, sexual
+orientation, gender identity, or marital status in the administration of its programs and activities. Visit DEQ’s
+Civil Rights and Environmental Justice page.
+Disclaimer
+This directive is intended solely as guidance for DEQ employees. It does not constitute
+rulemaking by the Environmental Quality Commission and may not be relied upon to create an
+enforceable right or benefit, substantive or procedural, enforceable at law or in equity, by any
+person. With written managerial approval, DEQ employees may deviate from this directive.
+DEQ anticipates revising this directive from time to time as conditions warrant.
+
+Document development
+Prepared By:      Aliana Britson, Senior Permit Policy Consultant
+                  James McConaghie, Water Quality Standards Coordinator
+                  Jeff Linzer, Senior Permit Writer
+                  Robert Burkhart, Senior Permit Program Consultant
+                  Emma Prichard, NPDES Permit Writer
+                  Tatyana Isupov, Water Quality Standards Specialist
+Reviewed By:
+                  Rebecca Bodnar, Water Quality Permitting and Program Development Manager
+                  Jeff Navarro, Water Quality Senior Permit Program Analyst
+                  Ranei Nomura, Western Region Water Quality Program Manager
+                  Tiffany Yelton-Bram, Northwest Region Water Quality Source Control Section Manager
+                  Connie Dou; Standards, Source Water Protection and Assessments Manager
+                  Sara Slater, Acting Water Quality Deputy Administrator
+
+
+                                                                                   12/16/2025
+ Approved By:
+                                                                           Date:
+
+                 Jennifer Wigal, Water Quality Administrator
+Table of contents
+       1.   Purpose of the IMD ................................................................................................................ 6
+
+       2.   Acronyms used in this directive .............................................................................................. 7
+
+       3.   House Bill 3814 (enacted) ...................................................................................................... 8
+
+            3.1       HB 3814 and bacteria rules ....................................................................................... 10
+
+       4.   Bacteria criteria .................................................................................................................... 10
+
+            4.1       Background ............................................................................................................... 10
+
+                4.1.1        Primary contact recreation.................................................................................. 10
+
+                4.1.2        Shellfish harvesting ............................................................................................ 11
+
+            4.2       Determining applicable bacteria criteria..................................................................... 12
+
+            4.3       Alternative criteria...................................................................................................... 12
+
+       5.   RMZs for bacteria ................................................................................................................. 13
+
+            5.1       Adverse effect to public health .................................................................................. 13
+
+            5.2       Human waste exclusion requirement ........................................................................ 13
+
+            5.3       Determining areas of confirmed primary contact recreation and shellfish harvesting
+                      use   14
+
+            5.4       Sizing a bacteria RMZ ............................................................................................... 15
+
+                5.4.1        Biotoxin closures ................................................................................................ 17
+
+       6.   Determining bacteria limits ................................................................................................... 18
+
+            6.1       Applicability of limits .................................................................................................. 18
+
+            6.2       Determining dilutions ................................................................................................. 18
+
+            6.3       Determining assimilative capacity ............................................................................. 18
+
+            6.4       Derivation of limits ..................................................................................................... 18
+
+            6.5       Growth or decay factors ............................................................................................ 19
+
+            6.6       Compliance limits ...................................................................................................... 19
+
+            6.7       Compliance schedules .............................................................................................. 20
+
+            6.8       Antidegradation ......................................................................................................... 20
+
+       7.   Best management practices ................................................................................................. 20
+
+            7.1       Identifying external fecal sources .............................................................................. 21
+
+            7.2       Reduction of external fecal sources .......................................................................... 21
+
+
+Internal Management Directive: Implementation of HB 3814                                                                                                4
+                7.3       Routine verification .................................................................................................... 21
+
+                7.4       Implementation of BMPs in permits ........................................................................... 21
+
+          8.    References ........................................................................................................................... 22
+
+          9.    Record of revisions to directive ............................................................................................ 23
+
+
+
+
+List of tables
+Table 4-1: Applicable Bacteria Criteria ............................................................................................ 12
+
+
+
+
+Table of figures
+Figure 3-1: Full Text of HB 3814 ............................................................................................................... 8
+Figure 3-2: Flowchart of Process .............................................................................................................. 9
+Figure 5-1: Example of possible RMZ scenarios. Image is for illustrative purposes only and does not
+reflect actual outfalls, allocated RMZs, or activities ................................................................................. 16
+
+
+
+
+          Internal Management Directive: Implementation of HB 3814                                                                                     5
+1. Purpose of the IMD
+HB 3814 (enacted) was officially signed by Governor Kotek on May 14, 2025. The bill, effective
+October 1, 2025, allows a bacteria mixing zone (referred to as a “Regulatory Mixing Zone” or
+RMZ by DEQ to a seafood processing facility for the discharge of wastewater effluent if the
+department determines that the RMZ would not adversely affect public health and that best
+management practices are implemented to prevent the inclusion of bacteria from external fecal
+sources. For the complete bill text see Section 3.
+The purpose of this IMD is to promote consistent application of HB 3814: the department may
+determine, based on a review of information that clearly demonstrates that the mixing zone
+would not adversely affect public health, that a bacteria RMZs may be included in NPDES
+permits for seafood processing facilities for the discharge of wastewater effluent into waters of
+the state. This IMD supplements the “Oregon Bacteria Rule: Bacteria Criteria for Marine and
+Estuarine Waters” IMD (2/18/2011) ( “Bacteria IMD”) and will be incorporated into the Bacteria
+IMD at a future date. This IMD provides guidance to staff on what is considered an adverse
+effect on public health, appropriate sizing of bacteria RMZs, necessary information to request
+from permittees and future permit applicants, how to develop bacteria limits for implementation
+in permits, and how to determine best management practices (BMPs) to prevent inclusion of
+bacteria from external fecal sources.
+This IMD is to be used by NPDES permitting mixing zone subject matter experts, bacteria
+subject matter experts, and permit writers when issuing or modifying NPDES permits for
+seafood processing facilities.
+
+
+
+
+Internal Management Directive: Implementation of HB 3814                                            6
+2. Acronyms used in this directive
+BMP: Best Management Practices
+
+BSMP: Bacterial Source Management Plan
+
+DEQ: Oregon Department of Environmental Quality
+
+EPA: Environmental Protection Agency
+
+FIB: Fecal Indicator Bacteria
+
+HB: House Bill
+
+IMD: Internal Management Directive
+
+NPDES: National Pollutant Discharge Elimination System
+
+OAR: Oregon Administrative Rule
+
+ODA: Oregon Department of
+
+Agriculture ODFW: Oregon
+
+Department of Fish and Wildlife
+
+RMZ: Regulatory Mixing Zone
+
+RPA: Reasonable Potential
+
+Analysis RWQC: Recreational
+
+Water Quality Criteria TMDL:
+
+Total Maximum Daily Load
+
+TSD: Technical Support Document
+
+WLA: Waste Load Allocation
+
+WQBEL: Water Quality Based Effluent Limit
+
+
+
+
+Internal Management Directive: Implementation of HB 3814   7
+3. House Bill 3814 (enacted)
+HB 3814 was officially signed by Governor Kotek on May 14, 2025, and takes effect on October
+1, 2025. The bill authorizes DEQ to grant a bacteria RMZ for seafood processing facilities for
+the discharge of wastewater effluent into waters of the state, provided the department
+determines that the RMZ will not adversely affect public health and that BMPs are implemented
+to prevent the inclusion of bacteria from external fecal sources.
+
+
+
+
+Figure 3-1: Full Text of HB 3814
+The sections below provide guidance for how this bill is implemented by DEQ. The figure below
+outlines the full process, from determining whether a bacteria RMZ does not adversely affect
+public health through final implementation of limits in the permit.
+
+
+Internal Management Directive: Implementation of HB 3814                                         8
+Figure 3-2: Flowchart of Process
+
+
+
+
+Internal Management Directive: Implementation of HB 3814   9
+3.1 HB 3814 and bacteria rules
+Current bacteria rules are outlined in OAR 340-041-0009. OAR 340-041-0009(6) specifies the
+implementation of bacteria criteria in NPDES permits and specifically states the bacteria
+limitations for effluent discharges associated with fecal sources in areas with the designated
+beneficial uses of coastal contact recreation and freshwater contact recreation. Because the
+rule states bacteria in effluent discharges may not exceed numeric thresholds for enterococcus
+or E. coli in waters designated for contact recreation, no RMZ have been applied to NPDES
+applicants when determining limits for these analytes. HB 3814 clarifies that seafood processing
+facility permits may have RMZs for bacteria and thus dilution may be applied to the limits
+specified in OAR 340-041-0009(6)(a) and (b). Fecal coliform criteria are in a separate section of
+rule (OAR 340-041-0009(1)(c)) that does not specify NPDES limits. Therefore, RMZs are
+applied to fecal coliform limits in areas where shellfish harvesting is designated, but actual
+harvesting is unlikely.
+
+
+4. Bacteria criteria
+4.1 Background
+The current Oregon water quality standard for bacteria, updated in 2016, is based on EPA’s
+2012 national recommended criteria (U.S. EPA, 2012) for enterococcus in coastal recreational
+waters, E.coli in recreational freshwater, and EPA’s 1976 recommended criteria (U.S. EPA,
+1976) for fecal coliform in shellfish producing waters. These standards are intended to protect
+people engaging in contact recreational activities or shellfish consumption from fecal sources in
+effluent discharges. EPA has long used fecal indicator bacteria (FIB), E. coli, enterococcus, and
+fecal coliforms to assess the safety of recreational and shellfish producing waters. While most
+strains of these bacteria do not directly cause illness, they serve as indicators of pathogens from
+fecal contamination and correlate with rates of illness in exposed persons (Oregon Department
+of Environmental Quality, 2016).
+
+4.1.1 Primary contact recreation
+The Recreational Water Quality Criteria (RWQC) defines primary contact recreation as activities
+involving a high level of bodily immersion and potential ingestion, such as swimming and water
+play, with illness risk assessed over a 10-to-12-day period after exposure (U.S. EPA, 2012).
+EPA’s 2012 RWQC were informed by studies examining gastrointestinal illness rates among
+swimmers following exposure to waters with wastewater treatment plant influence. These
+studies included comparisons of marine and freshwater beaches and found little statistical
+difference in illness risk between the two, suggesting that factors like the source of fecal
+contamination and environmental variables (such as water body size, sediment, and transport of
+pathogens) are more critical than whether the water is coastal or inland. Additional physical and
+biological conditions of coastal versus non-coastal waters can influence how long FIB and
+
+
+
+Internal Management Directive: Implementation of HB 3814                                         10
+pathogens survive. These environmental differences complicate the relationship between
+indicator bacteria and human health risks.
+EPA has acknowledged that the 2012 RWQC recommendations were developed with
+uncertainty in the scientific understanding of the health risks associated with nonhuman sources
+of fecal contamination. Therefore, EPA recommended the criteria be applied uniformly,
+regardless of the source of contamination, unless site-specific standards are justified, or an
+epidemiological study demonstrates that nonhuman sources did not pose a human health risk.
+The 2012 RWQC emphasized that both human and animal feces in recreational waters can
+present health risks, especially to vulnerable populations. Differences in FIB sources are
+observed between waters impacted by treated wastewater from wastewater treatment plants
+and those affected by non-sewage sources. Studies cited by EPA show that the risk from
+animal-sourced contamination can vary widely, sometimes higher and other times significantly
+lower than the risk level of human fecal contamination. Research also indicates that the types of
+illnesses linked to swimming vary with the source: human fecal contamination tends to result in
+viral illnesses, while animal sources more often lead to bacterial and protozoan infections (U.S.
+EPA, 2012). EPA’s 2012 RWQC did not delineate between fecal contamination from warm-
+blooded and cold-blooded animals; seafood sources were not analyzed separately.
+EPA’s 2012 RWQC explains that the recreational “criteria are designed to protect primary
+contact recreation, including swimming, bathing, surfing, water skiing, tubing, water play by
+children, and similar water contact activities where a high degree of bodily contact with the
+water, immersion and ingestion are likely.” EPA also has guidance for developing bacteria
+criteria for secondary contact recreation for activities with a lower degree of bodily contact and
+where immersion and ingestion of ambient water is less likely than primary contact recreation.
+EPA defers to the states to define the specific activities but lists examples of secondary contact
+activities such as “boating, canoeing in calm water (i.e., no capsizing), fishing, kayaking in calm
+water (i.e., no capsizing), rowing in calm water (i.e., no capsizing), sports diving with full face
+mask, wading/splashing, walking.” If immersion is possible but is less than equivalent exposure
+to “a full day at the beach”, it could be considered secondary contact and not primary contact
+(U.S. EPA, 2022). DEQ considers boating and fishing to be secondary contact beneficial uses
+but does not currently have bacteria criteria associated with secondary contact uses.
+
+4.1.2 Shellfish harvesting
+Oregon’s water quality standards have included numeric criteria for shellfish harvesting since
+1979 and were based on EPA’s 1976 recommended criteria (U.S. EPA, 1976). These values
+were updated in the 1986 U.S. EPA Quality Criteria for Water to include findings that related
+values between total coliform and fecal coliform. These criteria were derived from total coliform
+values “accepted by international agreement” to be 70 total coliforms per 100 mL and having no
+more than 10% of values exceeding 240 total coliforms. Waters that met these requirements
+showed no evidence of disease outbreak from shellfish consumption. This standard was
+selected to maintain acceptable quality of shellfish meats and human health outcomes.
+
+
+
+
+Internal Management Directive: Implementation of HB 3814                                          11
+However, studies found that fecal coliform contamination may occur from non-fecal sources. In
+response, the National Shellfish Sanitation Program conducted a series of studies to evaluate
+the relationship between the occurrence of total coliforms to fecal coliforms. They found that a
+70 total coliform MPN per 100 mL at the 50th percentile was equivalent to a fecal coliform MPN
+of 14 per 100 mL. Therefore, a median value for a fecal coliform standard is 14 and the 90th
+percentile should not exceed 43 for a 5-tube, 3-dilution method (U.S. EPA, 1986). These EPA
+recommended values serve as the basis for DEQ bacteria criteria for shellfish harvesting
+(Oregon Department of Environmental Quality, 2016).
+EPA’s recommended bacteria criteria for shellfish harvesting are based on a primary
+epidemiological exposure route of raw shellfish consumption. EPA cites evidence that shellfish
+meats have higher concentrations of fecal coliform bacteria when grown in waters and
+sediments with higher fecal coliform concentrations, increasing likelihood of human illness from
+raw shellfish consumption (U.S. EPA, 1976). EPA’s recommended criteria do not explicitly
+define activities considered under “shellfish harvesting”. ORS 622.010 defines shellfish as
+mollusks, specifically edible species of oysters, clams, mussels and scallops. When defining
+shellfish harvesting areas in the 2016 updates to the bacteria criteria, DEQ considered the
+harvest of oysters, clams, mussels and scallops as well as their respective salinity tolerance
+(Oregon Department of Environmental Quality, 2016).
+
+4.2 Determining applicable bacteria criteria
+The applicable bacteria criteria depend upon the designated beneficial uses of the location the
+applicant discharges into (OAR 340-041-0009). Designated beneficial uses for each basin are
+defined in OAR 340-041.
+Table 4-1: Applicable Bacteria Criteria
+         Designated Beneficial Use                         Applicable Bacteria Criteria
+
+Freshwater Contact Recreation                    E. coli
+Coastal Contact Recreation                       Enterococcus
+Shellfish Harvesting                             Fecal coliform
+
+
+In situations where there are multiple designated beneficial uses, then the bacteria criteria for
+each designated beneficial use applies simultaneously. For example, if an applicant discharges
+into an area that is designated both as coastal contact recreation and as shellfish harvesting,
+then both the enterococcus and fecal coliform criteria apply, limits are derived for both
+enterococcus and fecal coliform, and monitoring is required for both enterococcus and fecal
+coliform.
+
+4.3     Alternative criteria
+The language of the bill does not allow or require the development of alternative bacteria criteria
+
+
+Internal Management Directive: Implementation of HB 3814                                          12
+for seafood processing wastewater. RMZs only allow for the suspension of the criteria within the
+boundary of the mixing zone (OAR 340-041-0053). It is outside the scope of this IMD to outline
+the pathway for the development of alternative, site-specific bacteria criteria for seafood
+processing facilities. Site-specific criteria would need to be adopted through the administrative
+rulemaking process.
+
+
+5. RMZs for bacteria
+5.1 Adverse effect to public health
+The statute requires that any bacteria mixing zone must not adversely affect public health. To
+ensure consistent application of this requirement, DEQ has established the following criteria for
+staff to use to determine that a bacteria RMZ could be provided while also remaining protective
+of public health:
+
+   •   There are no identified sources of human waste in the effluent.
+   •   The bacteria RMZ may not overlap with areas of confirmed primary contact recreation or
+       shellfish harvesting activities.
+   •   Bacteria RMZs may not overlap.
+
+5.2 Human waste exclusion requirement
+Because human fecal sources are known to adversely affect public health, no human waste
+may be present in the effluent of a seafood processing facility for a RMZ to be granted. A
+positive demonstration that the effluent is free of human fecal matter must be confirmed before
+DEQ will consider authorization of a RMZ. If an applicant cannot conclusively demonstrate the
+absence of human fecal matter in the effluent, DEQ cannot verify that the RMZ would not
+adversely affect public health.
+To demonstrate that external human waste sources are not entering the effluent, the permit
+writer must request that the applicant submit a written report of a dye test. Results are subject to
+DEQ review and approval.
+The dye test requirement is described as follows:
+
+Scope of testing: Dye testing of plumbing system from all potential sources of human waste at
+the facility such as toilets, showers, bathroom and kitchen sinks, utility sinks located in
+bathrooms, and bathroom floor drains to ensure that there are no cross connections where
+human waste could enter the effluent.
+
+Travel time determination: The facility must estimate the expected travel time to the outfall
+from all dye test locations and include method of estimation in the written report.
+
+Observation period: At the time of the dye test the furthest point downstream of the
+
+
+Internal Management Directive: Implementation of HB 3814                                            13
+wastewater treatment system that can reasonably be observed (such as the outfall pipe listed in
+application or NPDES permit, an accessible point between the outfall and treatment system, or
+the end of the treatment system) must be observed until the greatest expected travel time to the
+observation location plus three (3) hours has passed.
+The written report must include the following:
+
+   i.   The full names of the personnel who completed the dye test and the date(s) the test was
+        conducted.
+  ii.   The type of dye used, including manufacturer and color.
+ iii.   Each location and entry point where dye was injected, the quantity of dye used at each
+        location, and the exact time when the dye was introduced.
+ iv.    Documentation of the time and location where the dye was first observed, or the last time
+        and location where the dye was not observed.
+  v.    Timestamped photographs or video of each dye injection point and the downstream
+        point(s) where dye was observed.
+ vi.    A narrative description assessing the observed flow patterns to determine if the
+        plumbing system is connected as shown in facility diagrams. If the observed flow
+        patterns are not matching expected flow patterns based on facility diagrams, include in
+        the narrative as well.
+vii.    Identification of any leaks or potential cross-connections.
+viii.   A map(s) and/or diagram(s) (hand drawn is acceptable) showing all dye test locations, the
+        expected flow path to the outfall, and the location of the flow patterns described in the
+        narrative, if applicable.
+ ix.    A signature and certification from the responsible official in accordance with 40 CFR
+        122.22.
+DEQ may request additional testing, as needed.
+
+5.3 Determining areas of confirmed primary contact
+    recreation and shellfish harvesting use
+RMZs would not be protective of public health and therefore may not be granted in areas where
+activities related to primary recreational contact or shellfish harvesting are known to occur.
+When determining the bacteria RMZ boundaries, DEQ will identify these areas by consulting
+relevant sources such as existing shellfish use maps, county websites, recreational websites,
+and other documentation that indicates primary recreational contact or shellfish harvesting is
+occurring within the local area. Examples include the Estuary Shellfish Mariculture Explorer by
+Oregon Department of Land Conservation and Development (Estuary Shellfish Mariculture
+Explorer) or Surf-Forecast.com (Oregon Surf Forecast & Surf Reports). DEQ may also rely on
+communications, either written or verbal, that confirm the activity is occurring. These may come
+
+
+
+Internal Management Directive: Implementation of HB 3814                                          14
+from state or federal government staff (e.g., Oregon Department of Fish and Wildlife biologists),
+tribal governments, or public input. Examples of public input include written comments during a
+NPDES permit public notice period, verbal comments during a NPDES permit public hearing,
+emails submitted by concerned citizens, or conversations with community members during site
+visits. Examples of documentation that would confirm the activity is occurring include (but are
+not limited to) recreation use studies, photographic or video evidence of primary recreation or
+shellfish harvesting in the area of the proposed RMZ, first person accounts of primary recreation
+or shellfish harvesting within the area, declarations of tribal reserved rights, evidence of historic
+use for the activity since 1975 for primary recreation or shellfish harvesting, or professional
+opinions from state or federal government staff.
+In some cases, clearly defined boundaries around a confirmed primary contact or shellfish
+harvesting area may not be able to be established. In these situations, a site-specific buffer
+zone will be included between the RMZ boundary and the area of confirmed primary contact or
+shellfish harvesting activity to protect public health.
+
+5.4 Sizing a bacteria RMZ
+The mixing zone rule requires that RMZs be as small as feasible, avoid overlapping with other
+RMZs, be less than the total stream width, minimize adverse effects on the indigenous
+biological community, not threaten public health, and minimize adverse effects on designated
+beneficial uses outside of the RMZ (OAR 340-041-0053(2)(c)(A through E)). The Regulatory
+Mixing Zone IMD, Part I provides guidance on appropriately sizing a RMZ while accounting for
+these factors.
+When feasible, DEQ recommends designating a single RMZ for all parameters, as this
+approach simplifies permit implementation and supports compliance with RMZ requirements in
+rule. If a separate bacteria RMZ is necessary, it is recommended that the bacteria RMZ not
+exceed the size of the RMZ established for other parameters, because doing so may conflict
+with the rule requirements described above.
+RMZs are not granted in areas with confirmed shellfish harvesting activity, as this would conflict
+with OAR 340-041-0053(2)(c)(C), which requires that RMZs minimize adverse effects on the
+indigenous biological community. RMZs may be allowed in areas of confirmed primary contact
+recreation as long as the parameters the RMZ is allowed for do not impact public health
+consistent with OAR 340-041-0053(2)(c)(D). An example of a parameter that would not be
+expected to impact public health is total residual chlorine. If the applicant’s RMZ for non-bacteria
+parameters overlaps with areas of confirmed primary contact recreation, a separate, smaller
+bacteria RMZ may be designated to avoid the area. However, if the RMZ for other parameters
+lies wholly within an area of confirmed primary contact recreation, a bacteria RMZ would not be
+allowed because of the possible adverse effect on public health. The permit could still provide
+for a RMZ for other parameters, provided that the requirements of OAR 340-041-0053(2)(c)(A
+through E) are met.
+For example, in Figure 5-1 Outfall A is outside of the confirmed clamming area (purple) and
+
+
+
+Internal Management Directive: Implementation of HB 3814                                           15
+recreational swimming area (pink); therefore, the RMZ (blue circle) applies to all parameters
+including bacteria. Outfall B is within the clamming area and, to comply with OAR 340-041-
+0053(2)(c)(C), no RMZ is authorized. Outfall C has a RMZ (red circle) that overlaps with the
+recreational swimming area; therefore, a separate, smaller RMZ (yellow circle) is designated for
+bacteria.
+
+
+
+
+Internal Management Directive: Implementation of HB 3814                                      16
+Figure 5-1: Example of possible RMZ scenarios. Image is for illustrative purposes only and does
+not reflect actual outfalls, allocated RMZs, or activities.
+
+
+
+5.4.1    Biotoxin closures
+Biotoxins may concentrate in shellfish as a result of harmful algae blooms, posing risks to
+people who recreationally harvest and consume shellfish. The Oregon Department of
+Agriculture (ODA) and Oregon Department of Fish and Wildlife (ODFW) jointly issue
+recreational shellfish closures when biotoxin test results exceed safe levels for human
+consumption. Biotoxin closures that are caused by bacteria will be considered when sizing
+bacteria RMZs. In cases where biotoxin closures are not due to bacterial sources (such as
+harmful algae blooms), the biotoxin closures will not be considered when sizing bacteria RMZs.
+Any other closures not due to bacterial sources would likewise not be considered when sizing
+bacteria RMZs.
+
+
+
+
+Internal Management Directive: Implementation of HB 3814                                          17
+6. Determining bacteria limits
+6.1 Applicability of limits
+OAR 340-041-0009 specifies that bacteria limits should be incorporated into the permit in areas
+designated for primary contact recreation and shellfish harvesting. HB 3814 only specifies the
+allowance of a RMZ for a wastewater discharge from seafood processing facilities and does not
+alter the bacterial water quality standard in OAR 340-041-0009. Therefore, relevant bacteria
+limits (calculated using the process outlined below) will be included in permits authorizing
+wastewater discharges from seafood processing facilities, regardless of the concentration of the
+bacteria discharged or disinfection systems employed at the facility. The bacteria criteria as
+defined in OAR 340-041-0009 must be met at the edge of the RMZ.
+
+6.2 Determining dilutions
+Dilutions to be used in deriving bacteria limits should be determined in accordance with the
+Regulatory Mixing Zone IMD – Part 2 (current version). For the purposes of limit derivation for
+bacteria, the dilutions associated with the Chronic Aquatic Life criteria outlined in the RMZ IMD
+should be used. The Chronic Aquatic Life modeling scenario dilutions in the IMD utilize the
+7Q10 flow value for riverine scenarios or a 50th percentile velocity and density profile that results
+in the lowest mixing for tidally influenced scenarios. This approach, which is utilized by other
+states that allow bacteria RMZs (Washington State Department of Ecology, 2018), ensures that
+bacteria criteria will be met at the edge of the RMZ during times when available dilution is
+minimal.
+
+6.3 Determining assimilative capacity
+Determinations of effluent limits for bacteria should include an estimation of the assimilative
+capacity of the receiving water into which the effluent is discharged. In accordance with the RPA
+IMD, assimilative capacity should be determined using the 90th percentile concentration of
+ambient data. A minimum of 4 samples collected at least one week apart and sampled from
+outside of the RMZ boundary is recommended. Ambient data characterization is further
+described in the RPA IMD. If no recent (within the last 10 years) local data is available, data
+should be collected by the applicant for the characterization of assimilative capacity. For areas
+which are listed as “water quality limited” (Category 4 or 5) on the Integrated Report, there is
+assumed to be no assimilative capacity, and no ambient data collection is required. If evidence
+indicates that the IR listing may be incorrect, DEQ will follow the process outlined in the Memo
+“How to Resolve a Discrepancy with an Assessment Unit Listing in the Integrated Report”
+(Britson, 2023) to resolve the issue and document the resolution.
+
+6.4     Derivation of limits
+Effluent limits will be determined based on the methodology outlined in the EPA Technical
+
+
+Internal Management Directive: Implementation of HB 3814                                           18
+Support Document for Water Quality-based Toxics Control (TSD) Section 5.4 and 5.5.
+Additional detail on how this is implemented by Oregon DEQ can be found in the RPA IMD.
+Limits derived in accordance with this methodology will be applied in the permit as a maximum
+daily limit and an average monthly limit. Using the TSD methodology ensures that limits will be
+protective of the designated use, as the methodology calculates conservative limits based on a
+Waste Load Allocation (WLA) that defines the effluent quality necessary to comply with the
+relevant criteria at the edge of the RMZ, and accounts for effluent variability to ensure that the
+waste load allocation is not exceeded. This is more protective than approaches that derive limits
+by directly multiplying the criteria by the dilution, as they do not account for effluent variability.
+Because these limits are based on water quality criteria, they will be Water Quality Based
+Effluent Limits (WQBELs) for the purposes of permit implementation.
+For receiving water bodies that are listed as Category 5 on the integrated report for bacteria,
+there is no assimilative capacity, and effluent limits will be set at the applicable criteria values.
+For receiving water bodies with a completed TMDL for bacteria, the WLA designated in the
+TMDL will be utilized to develop bacteria limits.
+
+6.5      Growth or decay factors
+While bacteria growth can vary depending on conditions, the conditions of most receiving
+waters are in general not conducive to bacterial growth (Eregno, et al., 2018; Carlucci & Pramer,
+1959; Korajkic, Wanjugi, Brooks, Cao, & Harwood, 2019). Therefore, a growth factor does not
+need to be included when determining bacteria limits. Though bacterial decay is the more likely
+scenario, decay rates tend to occur on the scale of hours to days (Eregno, et al., 2018; Korajkic,
+Wanjugi, Brooks, Cao, & Harwood, 2019), while effluent travel time from the outfall to the edge
+of the RMZ is measured in seconds to minutes. Therefore, the bacteria from the effluent will
+reach the edge of the RMZ before any meaningful decay has occurred, and it is not appropriate
+to incorporate a decay factor when determining effluent limits.
+
+6.6      Compliance limits
+Bacteria tests have defined detection ranges, beyond which the actual quantity of bacteria in a
+sample cannot be measured. The applicable detection range depends on the specific test
+method used and sample dilution. Reported results that exceed the upper detection range
+preclude a determination of compliance with permit effluent limitations.
+If the applicant reports bacteria data in excess of the upper range of detection (for example,
+“>2419 #/100 ml” or TNTC, “too numerous to count”), compliance with the permit effluent
+limitation cannot be determined. To address this, permits will require that reported bacteria data
+fall within the quantifiable range of the applicable limit. For example, if a permit includes a
+maximum daily limit of 300 #/100 ml, the test method used must have an upper detection range
+greater than 300 #/100 ml. This requirement ensures that compliance with bacteria limits can be
+verified.
+
+
+
+Internal Management Directive: Implementation of HB 3814                                                19
+6.7 Compliance schedules
+If an applicant is unable to meet a new or more stringent bacteria limit at the time of permit
+issuance, a compliance schedule may be included to allow time for necessary facility
+modifications. Compliance schedules must comply with the requirements in 40 CFR 122.47 and
+OAR 340-041-0061(12). These provisions require that the compliance schedule be as short as
+possible, and that annual milestones be included for any compliance schedule longer than one
+year.
+
+6.8 Antidegradation
+DEQ must ensure that permits and permit limits comply with Oregon’s antidegradation policy
+found in OAR 340-041-0004. This policy protects water quality by limiting unnecessary
+degradation from new or increased sources of pollution. Details on how DEQ implements the
+policy are included in guidance available on DEQ’s antidegradation web page.
+When establishing bacteria limits, it is necessary to evaluate if the calculated limit would result
+in an increased bacterial load compared to the current discharge. Any increase resulting from
+the allocation of an RMZ is subject to review under the state’s antidegradation policy. Increases
+in loading are determined by evaluating the bacteria load currently discharged, regardless of
+whether an effluent limit or benchmark is in place.
+To perform an antidegradation analysis, both ambient data (to determine assimilative capacity;
+see section 6.3) and effluent data (to quantify existing bacterial loading) are required. Any
+bacteria limit that would allow increased loading must undergo further review to determine
+whether increased loading is permissible under OAR 340-041-0004 prior to incorporation into a
+permit. Conversely, limits that maintain or reduce existing loading may be incorporated into the
+permit without additional review.
+
+
+7. Best management practices
+Section 2 subsection (2) of HB 3814 requires that best management practices (BMPs) be
+included in a permit to reduce external fecal sources of bacteria in order for the applicant to
+qualify for a mixing zone. These BMPs must be site-specific. External fecal sources are defined
+as any fecal bacterial not originating from the processing of seafood itself. Examples include
+human waste from sanitary sewer systems, seagull waste entering drains connected to the
+effluent treatment system, or animal feces tracked in by employees.
+To implement this section of HB 3814, it is recommended that DEQ staff request that applicants
+submit and maintain a site-specific Bacterial Source Management Plan (BSMP). To be
+persuasive these plans may include, but are not limited to, the following information:
+
+   1. Identification of all external fecal bacteria sources.
+   2. Strategies for reducing each identified source.
+
+
+
+Internal Management Directive: Implementation of HB 3814                                          20
+   3. A program for routine verification of external sources and reduction strategies.
+   4. A training program for all staff.
+Each of these items is described in the following sections.
+
+7.1 Identifying external fecal sources
+An approvable BSMP should identify all locations and pathways by which external fecal bacteria
+can enter the effluent. Human fecal waste is of primary concern, as it poses the greatest risk to
+public health. To grant a mixing zone, staff must have evidence that no human fecal matter
+enters or cross-contaminates the effluent (see Section 5.2). Other sources must also be
+documented, with site diagrams showing points of entry (such as storm drains), and associated
+areas. Only sources that connect to the NPDES-permitted outfall(s) must be included. Areas
+draining to stormwater systems covered by a separate permit (such as an NPDES 1200-Z) are
+outside the scope of HB3814 and need not be included in the BSMP.
+
+7.2 Reduction of external fecal sources
+An approvable BSMP should describes clear strategies to reduce external fecal sources.
+Examples include requiring all employees to clean footwear prior to entering the facility,
+ensuring seafood residuals are properly managed to avoid attracting seagulls, and maintaining
+pest management practices to prevent rodent intrusion. Practices required by other regulatory
+agencies may be referenced in the BSMP (for example, pest management requirements to
+comply with food safety regulations).
+
+7.3 Routine verification
+An approvable BSMP should establishes a schedule for verifying that no additional external
+fecal sources are present. It must include measures to confirm that changes to sanitary sewer or
+other related infrastructure do not introduce new fecal sources or cross-contamination between
+process effluent lines and sanitary sewer lines. Verification should also ensure that reduction
+strategies are implemented effectively. Outcomes of these verifications must be documented
+and maintained on site.
+
+7.4 Implementation of BMPs in permits
+HB 3814 states that “A seafood processing facility subject to a permit…shall implement best
+management practices”. Given this, staff should request that applicants submit the BSMP for
+review and approval either when requesting a mixing zone for an existing permit modification, or
+with a new or renewal permit application. Consistent with HB 3814, permits will include a
+Schedule D condition requiring BSMP implementation and maintenance. Schedule B will require
+annual BSMP reports documenting whether additional external fecal sources were identified,
+whether reduction strategies are being maintained, and an analysis of the effectiveness of those
+strategies.
+
+
+
+Internal Management Directive: Implementation of HB 3814                                        21
+8. References
+Britson, A. (2023). Memo: How to Resolve a Discrepancy with an Assessment Unit Listing in the
+        Integrated Report.
+Carlucci, A., & Pramer, D. (1959). Factors Affecting the Survivial of Bacteria in Sea Water.
+       Microbiological Process Report.
+Eregno, F., Tryland, I., Myrmel, M., Wennberg, A., Oliinyk, A., Khatri, M., & Heistad, A. (2018).
+      Decay rate of virsu and faecal indicator bacteria (FIB) in seawater and the concentration
+      of FIBs in different wastewater systems. Microbial Risk Analysis, 14-21.
+Korajkic, A., Wanjugi, P., Brooks, L., Cao, Y., & Harwood, V. (2019). Persistence and Decay of
+       Fecal Microbiota in Aquatic Habitats. Microbiology and Molecular Biology Reviews.
+Oregon Department of Environmental Quality. (2016). Issue Paper: Revisions to the Water
+      Quality Standard for Bacteria. Portland, OR.
+U.S. EPA. (1976). Quality Criteria for Water (Red Book). EPA 440-9-76-23. Washington, DC.
+U.S. EPA. (1986). Quality Criteria for Water. Washington, DC.
+U.S. EPA. (2012). Recreational Water Quality Criteria. 820-F-12-058. Washington, DC: Office of
+       Water.
+U.S. EPA. (2022). An Approach for Applying EPA’s 2012 Recreational Water White Paper.
+       Washington, D.C.: Office of Water.
+US. EPA Office of Science and Technology Office of Water. (n.d.). An Approach for Applying
+      EPA's 2012 Recreational Water Quality Criteria Recommendation to Non-primary
+      Contact Exposure Scenarios, White Paper.
+Washington State Department of Ecology. (2018). Water Quality Program Permit Writer's
+      Manual.
+
+
+
+
+Internal Management Directive: Implementation of HB 3814                                        22
+9. Record of revisions to directive
+
+       Revision                   Date                     Changes      Editor
+
+    Creation of IMD            12/18/2025                  New IMD   Aliana Britson
+
+
+
+
+Internal Management Directive: Implementation of HB 3814                              23
+

@@ -1,0 +1,400 @@
+    Short-Term NAAQS Compliance
+    Internal Management Directive
+
+
+
+
+                                             Air Operations
+                                             700 NE Multnomah St.
+                                             Suite 600
+                                             Portland, OR 97232
+                                             Phone: 503-229-5696
+                                                     800-452-4011
+                                             Fax:    503-229-6124
+                                             Contact: Jill Inahara
+                                             www.oregon.gov/DEQ
+
+
+
+
+                                             DEQ is a leader in
+                                             restoring, maintaining and
+                                             enhancing the quality of
+                                             Oregon’s air, land and
+                                             water.
+
+
+
+
+Oregon Department of Environmental Quality
+DEQ can provide documents in an alternate format or in a language other than English upon request. Call
+DEQ at 800-452-4011 or email deqinfo@deq.state.or.us.
+
+
+
+Oregon Department of Environmental Quality                                                            ii
+Disclaimer
+This directive is intended solely as guidance for DEQ employees. It does not constitute rulemaking by the
+Environmental Quality Commission and may not be relied upon to create an enforceable right or benefit,
+substantive or procedural, enforceable at law or in equity, by any person. With written managerial
+approval, DEQ employees may deviate from this directive. DEQ anticipates revising this directive from
+time to time as conditions warrant.
+
+
+
+
+Document Development
+ Prepared By:          Jill Inahara
+
+
+ Approved By: Ali Mirzakhalili (Sep 1, 2021 13:11 PDT)                 Sep 1, 2021
+                       Ali Mirzakhalili                                 Date
+
+
+
+
+                                                                                                       iii
+Table of Contents
+1. Intent/Purpose/Statement of Need ............................................................................................. 1
+2. Applicability .............................................................................................................................. 1
+3. Summary .................................................................................................................................... 1
+4. Background ................................................................................................................................ 2
+5. Acronyms Used in This Directive.............................................................................................. 6
+6. Directive ..................................................................................................................................... 6
+7. Record of Revisions to IMD ...................................................................................................... 7
+
+
+
+
+                                                                                                                                                   iv
+1. Intent/Purpose/Statement of Need
+The purpose of this IMD is to ensure the short-term (1-hour and 24-hour) National Ambient Air
+Quality Standards (NAAQS) are not exceeded for new sources constructing and for certain new
+permitting activities in Oregon. Specifically, this IMD is clarifying that permits issued by DEQ
+must ensure that the NAAQS are protected, and confirms that the NAAQS criteria applies to new
+sources and to existing sources. Existing sources will be addressed at a later date.
+
+
+
+
+2. Applicability
+This IMD is to be used by DEQ air quality permitting staff when permitting:
+    • New sources on Simple Air Contaminant Discharge Permits (ACDPs) or Standard
+       ACDPs; and
+    • Sources that trigger New Source Review.
+
+
+
+
+3. Summary
+DEQ rules provide that DEQ will establish permit requirements “to prevent violation of an
+ambient air quality standard caused or projected to be caused substantially by emissions from the
+source as determined by modeling, monitoring, or a combination thereof.” [OAR 340-226-
+0140(1)] DEQ rules also authorize DEQ to request information from existing sources to
+determine applicability and compliance with requirements. [OAR 340-214-0110] In 2010, EPA
+established 1-hour NAAQS for both NO2 and SO2 for the first time. In 2006, EPA lowered the
+primary and secondary 24-hour PM2.5 standards. Permitting actions to protect the NAAQS have
+been accomplished through Oregon’s New Source Review (NSR) program. NSR is applicable to
+sources that increase annual emissions compared to Significant Emission Rates (SERs), which
+were established in 1980, before 1-hour NAAQS were set. SERs are based on long-term (annual)
+emissions which do not take into account the variability of operations on a short-term basis.
+Because of this, SERs may not be protective of the short-term NAAQS in many cases. In order
+to protect short-term NAAQS, in compliance with the Clean Air Act, DEQ must apply its
+existing rules to require modeling information to be able to implement the policy of OAR 340-
+226-0140(1).
+
+
+
+
+                                                                                                1
+4. Background
+The Clean Air Act requires EPA to set National Ambient Air Quality Standards for six principal
+pollutants (“criteria” air pollutants) which can be harmful to public health and the environment.
+The Clean Air Act identifies two types of National Ambient Air Quality Standards. Primary
+standards provide public health protection, including protecting the health of “sensitive”
+populations such as asthmatics, children, and the elderly. Secondary standards provide public
+welfare protection, including protection against decreased visibility and damage to animals,
+crops, vegetation, and buildings.
+
+Statutory and Rule Authority
+DEQ’s authority for requiring sources to ensure compliance with the NAAQS comes from the
+following:
+
+       ORS 468A. 025 Air purity standards; air quality standards; treatment and
+       control of emissions; rules.
+       (4) The commission shall specifically fulfill the intent of the policy under ORS
+       468A.010 (1)(a) as it pertains to the highest and best practicable treatment and
+       control of emissions from stationary sources through the adoption of rules:
+       .....
+             (b) To require typically achievable control technology for new, modified and
+       existing sources of air contaminants or precursors to air contaminants for which
+       ambient air quality standards are established, to the extent emission units at the
+       source are not subject to other emission standards for a particular air contaminant
+       and to the extent the department determines additional controls on such sources
+       are necessary to carry out the policy under ORS 468A.010 (1)(a).
+             (c) To require controls necessary to achieve ambient air quality standards or
+       prevent significant impairment of visibility in areas designated by the
+       commission for any source that is a substantial cause of any exceedance or
+       projected exceedance in the near future of national ambient air quality standards
+       or visibility requirements.
+
+
+       340-214-0110
+       Request for Information
+       All stationary sources must provide in a reasonably timely manner any and all
+       information that DEQ reasonably requires for the purpose of regulating the
+       stationary source. Such information may be required on a one-time…basis and
+       may include, but is not limited to, information necessary to:
+            ***
+       (2) Ascertain applicability of any requirement; [and]
+       (3) Ascertain compliance or noncompliance with any applicable requirement…
+
+
+
+
+                                                                                                    2
+           340-226-0140
+           Highest and Best Practicable Treatment and Control: Additional Control
+           Requirements for Stationary Sources of Air Contaminants
+           In addition to other applicable requirements, DEQ may establish control
+           requirements by permit if necessary as specified in sections (1) through (5):
+           (1) Requirements will be established to prevent violation of an ambient air quality
+           standard caused or projected to be caused substantially by emissions from the
+           source as determined by modeling, monitoring, or a combination thereof.
+
+
+
+NAAQS History
+The history of the NAAQS and how they are implemented in the state of Oregon is long and
+reflects changes in the understanding of the health effects of the criteria pollutants. The
+following table summarizes these changes for NO2, which together with SO2, currently have 1-
+hour standards.
+
+                                                          History of the NO2 NAAQS
+          Date                                                                              Level
+                               Primary/            Averaging
+         Rule/                                                           Action                                            Form                       Reference
+                              Secondary              Time                             ppb      ug/m3
+        Decision
+         1971           Primary & Secondary           Annual            new           53        100              Annual arithmetic average           36 FR 8186
+         1985           Primary & Secondary           Annual        no revision       53        100              Annual arithmetic average           50 FR 25532
+         1996           Primary & Secondary           Annual        no revision       53        100              Annual arithmetic average           61 FR 52852
+         2010                 Primary                 1-hour            new           100       188          98th %tile, avg. over 3 years (H8H)     75 FR 6474
+                        Primary & Secondary           Annual        no revision       53        100              Annual arithmetic average           75 FR 6474
+           2012             Secondary                 Annual        no revision       53        100              Annual arithmetic average           77 FR 20218
+
+
+
+
+The SO2 NAAQS have a similar revision history in which the annual standard is supplemented
+or replaced with shorter averaging time standards. In its present form, the SO2 annual and 24-
+hour standards have been revoked by the EPA and replaced with the 1-hour and 3-hour
+standards. Note that Oregon still retains the annual and 24-hour SO2 standards.
+
+                                                          History of the SO2 NAAQS
+ Final Rule/    Primary/                      Averaging
+                                Action                          Level                               Form                        Reference          Date
+  Decision     Secondary                        Time
+                                 new           24-Hour         0.14 ppm      Not to be exceeded more than once per year
+                   Primary
+                                 new            Annual         0.03 ppm                 Annual arithmetic average
+    1971                                                                                                                        36 FR 8186   Apr 30, 1971
+                                 new            3-Hour         0.5 ppm       Not to be exceeded more than once per year
+                  Secondary
+                                 new            Annual         0.02 ppm                 Annual arithmetic average
+                               Secondary 3-hour SO2 standard retained, without revision; secondary annual SO2 standard
+    1973          Secondary                                                                                                    38 FR 25678   Sep 14, 1973
+                                                                     revoked.
+    1996           Primary                      Existing primary SO2 standards retained, without revision.                     61 FR 25566   May 22, 1996
+                                 new            1-hour          75 ppb            99th percentile, averaged over 3 years
+    2010           Primary                                                                                                     75 FR 35520   Jun 22, 2010
+                                                  Primary annual and 24-hour SO2 standards revoked.
+    2012          Secondary            Existing secondary SO2 standard (3-hour average) retained, without revision.            77 FR 20218    Apr 3, 2012
+    2019           Primary                       Existing primary SO2 standard retained, without revision.                      84 FR 9866   Mar 18, 2019
+
+
+
+
+As one can see, there is a shift in focus from the long-term annual effects to the 1-hour exposure
+time frame, reflective of evolving scientific studies showing health impacts due to shorter
+exposure periods. Both the NO2 and SO2 1-hour standards were set because of ‘strong scientific
+evidence indicating that short-term exposures to NO2 [and SO2] can worsen asthma symptoms in
+
+
+                                                                                                                                                                   3
+  people with the disease.’ 1 Some studies indicate that as little as 5-10 minutes of exposure to SO2
+  can exacerbate asthma symptoms. 2
+
+
+  The PM10 and PM2.5 NAAQS have experienced similar trend towards shorter-time standards,
+  also as health effects were better understood. As can be seen in the table below, the indicator PM
+  pollutant has changed from TSP in 1971 to PM2.5 in 1997.
+
+                                             History of the Particulate Matter NAAQS
+ Rule/                                       Averaging             NAAQS    SER
+           Primary/Secondary     Pollutant               Action                                      Form                         Reference        Date
+Decision                                       Time                 ug/m3   tpy
+ 1971           Primary           TSP*        24-hour     new        260     25    Not to be exceeded more than once per year     36 FR 8186    Apr 30, 1971
+                                                                                  Not to be exceeded more than once per year on
+ 1987      Primary & Secondary     PM10       24-hour     new       150     15                                                    52 FR 24634   Jul 1, 1987
+                                                                                              average over a 3 years
+ 1997      Primary & Secondary    PM2.5       24-hour      new       65     10         98th percentile, averaged over 3 years   62 FR 38652 Jul 18, 1997
+ 2006      Primary & Secondary    PM2.5       24-hour      new       35     10         98th percentile, averaged over 3 years   71 FR 61144 Oct 17, 2006
+ 1971            Primary          TSP         Annual       new       75     25               Annual geometric mean               36 FR 8186 Apr 20, 1971
+ 1987      Primary & Secondary    PM10        Annual       new       50     15    Annual arithmetic mean, averaged over 3 years 52 FR 24634 Jul 1,1987
+ 1997      Primary & Secondary    PM2.5       Annual       new       15     10    Annual arithmetic mean, averaged over 3 years 62 FR 38652 Jul 18, 1997
+ 2006      Primary & Secondary    PM10        Annual     revoked                                                                72 FR 61144 Oct 17, 2006
+ 2012            Primary          PM2.5       Annual       new       12     10    Annual arithmetic mean, averaged over 3 years 78 FR 3085 Jan 15, 2013
+  *TSP = Total Suspended Particulate
+
+  The changes in the PM indicator were accompanied by changes in the NAAQS and the
+  Significant Emission Rates, which are further described below. Essentially, the PM SERs were
+  based on modeled back-calculations using 4% of the 24-hour NAAQS concentration. Although
+  the value of the PM2.5 24-hour NAAQS changed from 65 ug/m3 in 1997 to 35 ug/m3 in 2006, the
+  SER was not recalculated, but remained at 10 tons per year. Note that the PM10 annual NAAQS
+  was revoked in 2006, contemporaneous with the tightening of the PM2.5 NAAQS. There is a
+  parallel between the derivation of the SER used for the 24-hour PM2.5 NAAQS of 35 ug/m3, and
+  the derivation of the SER used for the 1-hour NO2 NAAQS of 188 ug/m3; the former was based
+  on a 24-hour NAAQS of 65 ug/m3 (almost double), and the latter based on an annual NAAQS of
+  100 ug/m3 established in 1971.
+
+
+  NAAQS Protection
+  Oregon protects the NAAQS through its designated authority in the EPA approved State
+  Implementation Plan (SIP) and in the Oregon Revised Statute 468A.025 Air purity standards; air
+  quality standards; treatment and control of emissions; rules. Oregon’s air quality permitting
+  program has required computer modeling to demonstrate that the NAAQS are protected if NSR
+  is triggered (OAR 340-224-0010).
+
+  NSR is a permitting process created by the US Congress in 1977 as part of a series of
+  amendments to the Clean Air Act. The NSR process requires industry to undergo pre-
+  construction review for environmental controls if they propose either building new facilities or
+  any modifications to existing facilities that would create a “significant increase” of a regulated
+  pollutant. Significant increases, called Significant Emission Rates, are based on thresholds for
+
+
+  1
+      https://www.epa.gov/sites/production/files/2018-04/documents/no2_naaqs.final_action.fact_sheet_4.6.18.pdf
+  2
+      https://www.epa.gov/sites/production/files/2019-02/documents/fact_sheet_primary_so2_naaqs_nfr_0.pdf
+
+
+
+                                                                                                                                                          4
+increases of annual emissions, not short-term emissions. SERs were defined in 1980, well before
+any short-term NAAQS were set.
+
+Under the NSR program, Oregon utilizes a tiered screening approach that first compares a
+source’s emission rate increases to the SERs. If emissions equal or exceed the SERs, then the
+source must show that emissions are less than the Significant Impact Levels (SILs) and NAAQS
+through refined computer modeling. Fundamental to this process is the assumption that the SERs
+are protective of the NAAQS in all forms, including the 1-hour and 24-hour standards. The
+history of the SER indicates this assumption may not be justified.
+
+The SERs were originally established in 1980 (45 FR 52708) by EPA using air quality modeling
+to estimate emission rates that would result in air concentrations equivalent to a fraction of the
+NAAQS. For NOx, a concentration that represented 2% of the annual NAAQS for NO2 was used,
+and for SO2 and PM, 4% of the 24-hour NAAQS was used. The reason the NOx level was set at
+2% and not 4% was based on two broad assumptions. First, annual NAAQS concentrations are
+smaller than the 24-hour NAAQS by virtue of the averaging period. Second, the decision to set
+the level at 2% was done in order to set the NOx SER equal to that of the SO2 SER of 40 ton per
+year (tpy), primarily for convenience purposes. As one can see, the development of the SERs
+was based on broad assumptions and scaling of annual and 24-hour standards, and do not
+represent a robust scientific analysis of short-term health effects.
+
+
+Issues
+As described above, the NOx SER was developed based on an annual average emission rate, and
+SO2 and PM2.5 SERs based on 24-hour average emissions. In reality, emission rates vary
+throughout the year, and annual average emissions can obscure high peak 1-hour emissions that
+may exceed the NAAQS. In addition, the development of the SERs did not take into account
+hourly meteorological conditions. These two factors, varying emissions coupled with varying
+meteorology, become important considerations when modeling sources with high intermittent
+emissions at 1-hour averaging times. In addition, as noted above, the development of the SO2 and
+NOx SERs were based on broad assumptions and simplified policy decisions, rather than a robust
+scientific analysis.
+
+As a result, facility emissions that are below the SERs may still cause short-term NAAQS
+exceedances. DEQ in-house analyses have demonstrated, through the modeling of hypothetical
+facilities, that a 1-hour standard can be exceeded while annual average emissions are below the
+SER. Both the basis of the SERs and the in-house modeling demonstrations lead DEQ to
+conclude the current practice of using the SERs to screen out sources from NAAQS modeling
+may not sufficiently demonstrate that the NO2 and SO2 1-hour NAAQS, and the 24-hour PM2.5
+NAAQS are protected.
+
+
+
+
+                                                                                                  5
+5. Acronyms Used in This Directive
+ACDP         Air Contaminant Discharge Permit
+CAO          Cleaner Air Oregon
+DEQ          Department of Environmental Quality
+EPA          Environmental Protection Agency
+NAAQS        National Ambient Air Quality Standard
+NO2          Nitrogen Dioxide
+NOx          Nitrogen Oxides
+NSR          New Source Review
+PM           Particulate Matter
+PM10         Particulate Matter less than 10 microns
+PM2.5        Particulate Matter less than 2.5 microns
+SER          Significant Emission Rate
+SIL          Significant Impact Level
+SO2          Sulfur Dioxide
+
+
+
+
+6. Directive
+  •   Assess potential NAAQS impact of all new construction sources applying for Simple
+      ACDPs or Standard ACDPs. This includes sources discovered to be operating illegally
+      without a Simple or Standard ACDP. The applicants must provide the air quality analysis
+      and all the supporting information necessary to demonstrate the NO2 and SO2 1-hour
+      NAAQS and the PM2.5 24-hour NAAQS are protected. Permit writers must clearly state
+      whether the permit as recommended for issuance is protective of all NAAQS and provide
+      supporting documentation. This new requirement applies to new sources who have
+      pending applications as of, or after, June 9, 2021.
+
+  •   Advise all existing sources called in by Cleaner Air Oregon (now and until a plan for
+      existing sources is completed) of the option to perform air quality modeling to
+      demonstrate the NO2 and SO2 1-hour NAAQS and the PM2.5 24-hour NAAQS are
+      protected. Because these sources are currently conducting modeling for risk assessments,
+      this modeling can also be used to determine if the short-term NAAQS are protected,
+      saving time and resources for both industry and DEQ. Sources that choose the option of
+      doing the NAAQS modeling in conjunction with the CAO modeling have the option of
+      doing the modeling or having DEQ perform the modeling.
+
+  •   Ensure all new or modified sources that trigger major NSR or State NSR for any
+      pollutant, also perform air quality modeling to demonstrate the NO2 and SO2 1-hour
+      NAAQS and the PM2.5 24-hour NAAQS are protected.
+
+
+
+
+                                                                                             6
+   •   DEQ may approve proposed computer modeling protocol proposed by a source in
+       accordance with Air Quality Dispersion Modeling Recommended Procedures.
+
+For the large number of existing sources in Oregon that are on a Simple ACDP, Standard ACDP
+or Title V permit or existing sources that have been called in to CAO but opted not to perform
+NAAQS modeling concurrently with CAO modeling, DEQ will develop a process to address the
+short-term NAAQS protection requirement. DEQ will provide additional information about that
+process when it is available.
+
+
+
+
+7. Record of Revisions to IMD
+
+  Revision       Date                       Changes                              Editor
+     #1         09/01/21    •   Correct typos                           Jill Inahara
+                            •   Added acronyms for pollutants and DEQ
+                            •   Require short-term NAAQS modeling for
+                                all sources that trigger NSR for any
+                                pollutant
+
+
+
+
+                                                                                             7
+

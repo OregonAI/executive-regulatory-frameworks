@@ -1,0 +1,534 @@
+IMD for Functionally Equivalent Discharges:
+Determining if a WPCF permit should be a
+NPDES permit under the Maui Supreme Court
+Decision
+
+
+
+
+                                             Water Quality Permitting
+                                             and Program
+                                             Development
+                                             700 NE Multnomah St.
+                                             Suite 600
+                                             Portland, OR 97232
+                                             Phone: 503-229-5696
+                                                     800-452-4011
+                                             Fax:    503-229-6124
+                                             Contact: Aliana Britson
+                                             www.oregon.gov/DEQ
+
+
+
+
+                                             DEQ is a leader in
+                                             restoring, maintaining and
+                                             enhancing the quality of
+                                             Oregon’s air, land and
+                                             water.
+
+
+
+
+Oregon Department of Environmental Quality
+2
+Translation or other formats
+Español | 한국어 | 繁體中文 | Pусский | Tiếng Việt | ‫العربية‬
+800-452-4011 | TTY: 711 | deqinfo@deq.oregon.gov
+
+Non-discrimination statement
+DEQ does not discriminate on the basis of race, color, national origin, disability, age or sex in administration of
+its programs or activities. Visit DEQ’s Civil Rights and Environmental Justice page.
+
+
+
+
+                                                                                                                      3
+Table of contents
+1. Overview – the Maui Decision .................................................................................................. 5
+2. Impact of the Maui Decision on Wastewater Permits in Oregon .............................................. 5
+3. Analysis for Determining if a Discharge Requires a NPDES Permit ........................................ 6
+   When to Use This Analysis ....................................................................................................................... 6
+4. Factor Overview......................................................................................................................... 7
+   Factor 1: Transit Time .............................................................................................................................. 7
+   Factor 2: Distance Traveled ...................................................................................................................... 7
+   Factor 3: The nature of the material through which the pollutant travels ................................................. 8
+   Factor 4: The extent to which the pollutant is diluted or chemically changed as it travels ...................... 9
+   Factor 5: The amount of pollutant entering the navigable waters relative to the amount of the pollutant
+   that leaves the point source ....................................................................................................................... 9
+   Factor 6: The manner by or area in which the pollutant enters the navigable waters ............................. 10
+   Factor 7: The degree to which the pollution (at that point) has maintained its specific identity ............ 10
+5. Interpreting the Worksheet Scores ........................................................................................... 11
+   Highest Score: “Unable to Assess” ......................................................................................................... 11
+   Highest Score: “Unlikely Factor” ........................................................................................................... 11
+   Highest Score: “Ambiguous Factor”....................................................................................................... 11
+   Highest Score: “Likely Factor” ............................................................................................................... 11
+6. Relevant Guidance ................................................................................................................... 12
+7. References ................................................................................................................................ 12
+8. Appendix A: Functional Equivalent Worksheet ...................................................................... 13
+9. Record of Revisions to IMD .................................................................................................... 15
+
+
+
+
+                                                                                                                                                        4
+1. Overview – the Maui Decision
+On April 23, 2020, the Supreme Court ruled 6-3 in County of Maui, Hawaii v. Hawaii Wildlife Fund et al.
+(a.k.a the Maui Decision) that the Clean Water Act (CWA) requires an NPDES permit when a point
+source adds pollutants to navigable waters1 through groundwater if this addition of pollutants is “the
+functional equivalent of a direct discharge” from the source into navigable waters. The Maui Decision
+applies to discharges that originate from point sources. This analysis is not intended to be used for
+pollution that originates from nonpoint sources.
+
+
+2. Impact of the Maui Decision on
+Wastewater Permits in Oregon
+Wastewater from facilities is regulated by National Pollutant Discharge Elimination System (NPDES),
+Water Pollution Control Facility (WPCF), or a Water Pollution Control Facility Onsite (WPCF-OS)
+permit (OAR 340-045 and OAR 340-071). Under federal law, facilities that discharge to waters of the
+United States from a point source require an NPDES permit. WPCF and WPCF-OS permits regulate
+wastewater disposal either to the ground or underground. Prior to the Maui Decision, DEQ’s standard
+approach to permitting a facility that did not have a direct conveyance (e.g. outfall or drainage ditch) to a
+surface water was a WPCF permit. Following the Maui Decision, permittees must now be evaluated for
+possible functionally equivalent discharges. Permittees previously covered under a WPCF permit may
+need to apply for a NPDES permit if it is determined that there is a “functional equivalent of a direct
+discharge” from the permitted facility into navigable waters.
+
+The “functional equivalent” trigger has two components. First, there must be a hydrologic connection
+that creates a discharge to a navigable water. Second, the character of the discharge to navigable waters
+must maintain enough similarity to the original effluent from the facility. The difficulty lies in
+determining whether the discharge is similar enough to the original effluent when it reaches the navigable
+water that it can be classified as a “functional equivalent of a direct discharge.” It should be stressed that
+just because any discharge reaches a navigable waterway, it does not automatically mean that the
+discharge is a “functional equivalent of a direct discharge” such that NPDES permit coverage is required.
+The Supreme Court specifically rejected the Ninth Circuit Court of Appeals interpretation that any “fairly
+traceable” discharge should require an NPDES permit and set out the factors outlined in the next section
+for evaluating whether a functional equivalent of a direct discharge occurs and a NPDES permit is
+needed.
+
+
+
+
+1
+    The Maui Supreme Court Decision explicitly uses the term “navigable waters”.
+
+                                                                                                                5
+3. Analysis for Determining if a
+Discharge Requires a NPDES Permit
+In the Maui Decision, the Supreme Court specifically acknowledged the difficulty of defining a
+“functional equivalent of a direct discharge” due to “too many potentially relevant factors applicable to
+factually different cases…” and therefore did not establish a bright-line test. However, the court’s opinion
+did provide some guidance by outlining seven potential factors:
+
+        “Consider, for example, just some of the factors that may prove relevant (depending upon
+        the circumstances of a particular case): (1) transit time, (2) distance traveled, (3) the
+        nature of the material through which the pollutant travels, (4) the extent to which the
+        pollutant is diluted or chemically changed as it travels, (5) the amount of pollutant
+        entering the navigable waters relative to the amount of the pollutant that leaves the point
+        source, (6) the manner by or area in which the pollutant enters the navigable waters, (7)
+        the degree to which the pollution (at that point) has maintained its specific identity. Time
+        and distance will be the most important factors in most cases, but not necessarily every
+        case.”
+
+While these factors are not inclusive of all factors that could be considered, they do provide a foundation
+upon which to base a determination. The following analysis outlines each factor and includes an
+additional framework which the permit writer can use to determine, on a case-by-case basis, whether a
+discharge is the functional equivalent of a direct discharge, and therefore must be permitted pursuant to an
+NPDES permit.
+
+The following analysis is not meant to create a bright-line test. Instead, this analysis and accompanying
+worksheet (Appendix A) is intended to help DEQ staff (the permit writer and/or SME) organize
+information and determine whether the discharge from a specific facility is likely a “functional equivalent
+of a direct discharge.” The determination of a functionally equivalent discharge will be made in
+coordination with the water quality permitting program development manager and the signing manager of
+the permit.
+
+When to Use This Analysis
+DEQ staff should use this analysis to guide review of any available information and indicators that a new
+or existing WPCF permittee may have a functional equivalent discharge to navigable waters as outlined in
+the Maui Decision. In addition, DEQ staff should use this information and procedures to determine if
+underground point source discharges of an NPDES permittee may constitute a functional equivalent
+discharge to navigable waters. Generally, DEQ staff should perform this analysis at the time of
+application for a new WPCF or NPDES permit or at permit renewal. However, if there is strong evidence
+that a permittee has a functional equivalent discharge and that permit conditions/permit type should
+change this analysis can be done outside of the permit renewal process.
+
+
+
+
+                                                                                                           6
+4. Factor Overview
+The permit writer or subject matter expert (SME) should read each factor and document the information
+relevant to each factor in the Functionally Equivalent Discharge Worksheet (Appendix A) based on the
+information available. Be specific as to where the information comes from and what methods were used.
+For initial determinations, or in the absence of detailed groundwater studies, the permit writer should fill
+out the worksheet with the available information. The SME will then review the “Next Steps” section.
+The “Next Steps” section advises the course of action to take depending on the number of factors that
+indicate the presence of a functional equivalent of a direct discharge and whether more information is
+needed.
+
+Factor 1: Transit Time
+What to Consider
+Transit time is the amount of time a discharge takes to reach the navigable water from the point of
+discharge from the point source. Transit times from the source of the effluent to the navigable water
+measured in days or weeks are less likely to be diluted or transformed compared with transit times
+measured in months or years.
+
+For the Lahaina Wastewater Reclamation Facility (LWRF) that was the subject of the Maui Decision the
+minimum transit time was 84 days and the average transit time was 14 to 16 months, which was cited as
+weighing in favor of requiring an NPDES permit. In the absence of other guidance from EPA, regulations
+or caselaw, permit writers should use the following times based on the transit time for the LWRF
+wastewater as a rough benchmark:
+    • A transit time of roughly 90 days or less (approximately 3 months) would strongly indicate that
+        the discharge is a functional equivalent discharge.
+    • Transit times between roughly 3 months and 18 months (approximately 1.5 years) would indicate
+        that the discharge is likely a functional equivalent discharge, but determination of an equivalent
+        discharge will include other factors.
+    • Facilities with transit times greater than 18 months will rely more on other factors to determine
+        whether a functional equivalent of a direct discharge is present.
+
+Determining Transit Time
+Transit time is largely contingent on groundwater velocity, which is dependent on the hydraulic
+conductivity of the aquifer, the hydraulic gradient of the aquifer, and the effective porosity of the
+sediments. Using the groundwater velocity, groundwater flow direction, and the distance from the
+discharge point to the receiving water the transit time can be estimated. A crude velocity can be calculated
+with literature values of hydrogeologic conditions; a more detailed velocity will need to be based on site
+specific hydrogeologic conditions from a robust hydrogeologic characterization provided by the
+permittee. Consult with a DEQ hydrogeologist to determine transit time.
+
+
+Factor 2: Distance Traveled
+What to Consider
+In general, the closer a point source is to a navigable water, the more likely it is that discharges from that
+point source will be a functional equivalent of a direct discharge and thus facilities that are sited closer to
+a navigable water require closer scrutiny. While the Maui Decision did not provide a definitive estimate
+
+                                                                                                                  7
+for what distance would constitute a functional equivalent of direct discharge, the Maui Decision and
+Oregon rule can be used to help determine if a functional equivalent of a direct discharge is likely to be
+present.
+
+The effluent from the LWRF was estimated to travel 0.5 miles from the facility to the Pacific Ocean.
+Furthermore, OAR 340-071-0220 Table 1 states that there must be a minimum separation distance of 50
+to 100 ft between a surface water and a standard subsurface system for the system to be approved. In
+Stone v High Mountain Mining Co., LLC, a Colorado Federal District Court determined that a placer mine
+within 100 ft of the nearby navigable waterway was a functional equivalent of a direct discharge (2022).
+Based on this information, in examining travel distance, permit writers should consider the following:
+    • Facilities sited within 100 ft of a navigable water would strongly indicate the potential for a
+         functional equivalent of a direct discharge.
+    • For facilities with point source discharges further than 100 ft away but within 0.5 miles distance
+         may be a likely indicator that the discharge is a functional equivalent discharge, but other factors
+         will also be necessary to show whether a discharge to navigable waters is a functional equivalent
+         of a direct discharge.
+    • Facilities with point source discharges greater than 0.5 miles from a navigable water are less
+         likely to be considered functionally equivalent discharges. However, determining whether a
+         functional equivalent of a direct discharge is present will rely more on other factors.
+
+Determining Distance
+In the absence of a groundwater study, distance traveled can be estimated by determining the distance
+between the land application site, well injection, or storage location and the closest point of the navigable
+water. This can be done using mapping software or online tools (for example: DEQ WQ Standards and
+Assessment Tool (https://hdcgcx2.deq.state.or.us/Html5Viewer211/?viewer=wqsa)) and will provide a
+conservative estimate in the absence of knowledge of groundwater flow paths. If a groundwater study is
+available, consult with a DEQ hydrogeologist to determine distance traveled.
+
+
+Factor 3: The nature of the material through which the pollutant travels
+What to Consider
+The substrate (either soil or bedrock) through which the pollutant travels can significantly affect the
+transit time, the amount of pollutant entering navigable waters, the characteristics of the pollutant
+(dilution, interactions, or chemical transformations), and the manner which the pollutant enters the
+navigable water. Substrates that are denser and that have lower porosity or poorly connected pores will
+likely result in much slower transit times and a more diffuse entry into the navigable water. Substrates
+that have different temperature, pH, or chemical profiles can have effects on the final pollutant mix that
+enters the navigable waterway.
+
+In Stone v. High Mountain, the material through which the pollutants traveled had an extremely high
+percolation rate, but the court gave the factor little weight due to the “limited evidence presented about
+the composition of the soil below the Settling Ponds”. The US District Court for the District of Hawaii
+found that the nature of the material through which the pollutant traveled did not weigh in favor of
+requiring an NPDES permit for the LWRF though overall evidence eventually determined that an NPDES
+permit would be required.
+
+In the absence of additional guidance from EPA, regulation or caselaw on this factor, the permit writer, in
+consult with a DEQ hydrogeologist, should consider the nature of the material through which the
+pollutants travel.
+
+
+                                                                                                             8
+Determining Nature of the Material
+The nature of the material through which the pollutant travels can be determined by geologic surveys
+and/or soil surveys (depending on whether the pollutant travels through bedrock, soil, or both). In the
+absence of detailed surveys done in the location of the pollutant plume, local geology and soils can be
+determined by examining USGS National Geologic Map Database
+(https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html),USDA’s Web Soil Survey
+(https://websoilsurvey.sc.egov.usda.gov/App/HomePage.htm), or DOGAMI’s Geologic Map
+(https://gis.dogami.oregon.gov/maps/geologicmap/). DEQ hydrogeologists may suggest additional
+regional tools or studies. Note that these tools are not substitutes for a local survey done for the discharge
+in question and should only be used for initial approximations. Consult with a DEQ hydrogeologist to
+determine the effect of nature of the material.
+
+
+Factor 4: The extent to which the pollutant is diluted or chemically changed as it
+travels
+What to Consider
+Once the effluent reaches groundwater, it can be diluted or chemically changed by the groundwater,
+aquifer material, or aquifer sediments. Chemical changes to the pollutant will also be mediated by
+chemical differences between the effluent and the groundwater. The amount of dilution will depend on
+the amount of effluent relative to the groundwater, the amount of mixing of the effluent and the
+groundwater, and the flow path of the effluent through the groundwater. For example, if an effluent
+stream has a direct flow path through large soil pores or bedrock cracks to a navigable water that limits
+the time for interaction with the groundwater, it is less likely to be diluted or chemically changed. The
+more the effluent interacts with the groundwater, the more likely it is to be diluted or chemically changed
+by the time it reaches the navigable water. Court cases to date have either not considered this factor or
+have given it less weight than the other factors.
+
+In the absence of clear guidance from EPA, regulation or caselaw on this factor, the permit writer, in
+consult with a DEQ hydrogeologist, should consider the extent to which the pollutants in question are
+diluted or chemically changed as they travel, however this factor will not, on its own, support a finding of
+a functional equivalent of a direct discharge.
+
+Determining Extent of Dilution or Chemical Change
+Determining the extent of dilution or chemical change will require groundwater studies and will vary
+depending on the nature of the pollutant. Consult with a DEQ hydrogeologist to determine the extent
+of dilution or chemical change of the effluent.
+
+Factor 5: The amount of pollutant entering the navigable waters relative to the
+amount of the pollutant that leaves the point source
+What to Consider
+The amount of pollutant entering navigable waters will be determined by multiple factors, including
+direction and velocity of groundwater flow. Factor 5 is distinct from factor 4 (dilution of the pollutant) in
+that it deals with the percentage of the pollutant that arrives at the navigable water, regardless of whether
+it is diluted and/or chemically changed. If the groundwater plume carrying the effluent is disperse and
+travels in multiple directions, it is possible that very little of the effluent will eventually reach the
+navigable water, whereas if the groundwater plume carrying the effluent has a direct and swift flow path
+to the navigable water a large proportion of the effluent may reach the navigable water, even if it has been
+diluted by the groundwater. For this factor the LWRF and the Maui Decision does not provide a helpful
+benchmark, as it was determined that 100% of the wastewater entered the ocean.
+
+                                                                                                             9
+In general, the higher the percentage of pollutants entering the navigable water the more support there is
+for finding a functional equivalent of a direct discharge.
+
+Determining Amount of Pollutant Entering Navigable Waters
+Determining the amount of pollutant entering the navigable waters will require knowledge of how much
+effluent is leaving the facility and how much pollutant is entering the navigable waters, as well as
+knowledge of whether the navigable water is a losing or gaining reach. Groundwater, surface water, and
+effluent studies will be needed with data provided by the permittee. Approximations may be done using
+groundwater studies and estimates provided by the permittee. Consult with a DEQ hydrogeologist to
+determine the amount of pollutant entering navigable waters.
+
+
+Factor 6: The manner by or area in which the pollutant enters the navigable
+waters
+What to Consider
+The more discrete an area in which the pollutant enters a navigable water, the more likely it is to be a
+functional equivalent of a direct discharge. For example, if an effluent plume entered the navigable
+waterway through a naturally made crack or tunnel it would be more likely to be a functional equivalent
+of a direct discharge than if it entered the navigable waterway through a diffuse groundwater plume.
+
+Determining Manner/Area in which pollutant enters navigable waters
+The manner or area in which a pollutant enters the navigable water would be determined by developing a
+conceptual model of the site’s hydrogeology and site-specific groundwater investigations. Consult with a
+DEQ hydrogeologist to determine the manner/area in which a pollutant enters the navigable
+waters.
+
+
+Factor 7: The degree to which the pollution (at that point) has maintained its
+specific identity
+What to Consider
+Factor 7 considers all the pollutants from the effluent in aggregate and requires a determination of how
+close the discharge into the navigable water is in composition to the original effluent from the point
+source. As the effluent interacts with the groundwater, it will be changed in varying ways based on the
+pollutant, amount of time, dilution, and chemical interaction. Some pollutants, such as temperature, will
+in most cases be mitigated in short order when interacting with groundwater before reaching a navigable
+waterway. Other pollutants such as ammonia or nitrate may be transformed, while pollutants such as DDT
+will remain relatively inert while travelling to a navigable water. The groundwater itself, or other
+nonpoint sources, may add chemicals not originally from the facility. The permit writer should be careful
+to focus on pollutants that are from the facility in question and not pollutants that are from other sources
+(such as iron or other metals from groundwater or nitrogen compounds from non-point sources).
+
+In the Maui case, the water near the seeps from which LWRF facility’s effluent was emerging had
+elevated levels of inorganic nitrogen and phosphorus, low salinity, low pH, and high temperature and
+therefore the degree to which the pollution maintained its specific identity weighed in favor of requiring
+an NPDES permit. The court in Stone v. High Mountain Mining Co., LLC made a determination that a
+permittee should get an NPDES permit without consideration of this factor.
+
+
+
+                                                                                                         10
+Determining Degree of Identity Maintenance
+The permit writer will want to consider all the relevant pollutants that are part of the effluent and
+therefore will want data fully characterizing the effluent, groundwater, discharge at the navigable water,
+and ambient for those pollutants. Once this data is in hand then the permit writer can determine which
+pollutants are found in the discharge to the navigable water and how much they have changed using a
+Piper Diagram or other graphing technique. Consult with a DEQ hydrologist to determine the degree
+to which a pollutant maintains its identity.
+
+
+5. Interpreting the Worksheet Scores
+Once the worksheet in Appendix A is complete, the next steps will be determined by which category
+received the highest number of marks (with 7 being the highest score possible). Note that this process can
+be iterative; if more information is received about the facility’s discharge the worksheet should be re-
+assessed. Additionally, DEQ’s case-by-case determination of a functionally equivalent discharge is not
+limited to these factors and this analysis. The director may deviate from this process in writing and make
+a determination on behalf of the agency.
+
+Highest Score: “Unable to Assess”
+If the highest score is “Unable to Assess” then proceed with the “Next Steps” for the second highest
+score. This is because not all factors need to be assessed for a functional equivalent of a direct discharge
+to be determined. For example, there may be clear evidence that a discharge from a facility is entering a
+navigable water at a discrete location and that the discharge carries a distinct signature from the facility
+(factors 6 and 7), but other factors (transit time, distance traveled, nature of the material, extent of
+dilution, amount of pollutant) were not assessed.
+
+Highest Score: “Unlikely Factor”
+If the highest score is “Unlikely Factor” then the point source discharge does not likely need to be
+permitted as a functional equivalent of a direct discharge and further investigation is likely not warranted.
+However, there may be exceptions for this if one or two factors are “likely factors” (especially Factors 1
+and 2 – Transit time and Distance). In that case, DEQ should include conditions in the renewed permit (or
+as part of a permit modification or separate department order) requiring the permittee to perform studies
+to address any factors that were unable to be assessed (consult with the regional hydrogeologist to
+determine appropriate studies).
+
+Highest Score: “Ambiguous Factor”
+If the highest score is “Ambiguous Factor” then DEQ should place conditions in the renewed permit (or
+require conditions in a separate department order) requiring the permittee to perform studies to address
+the ambiguous factor or factors that were unable to be assessed. Consult with the regional hydrogeologist
+to determine the appropriate studies and timelines for permit requirements. It should be noted that the
+Supreme Court placed heavy emphasis on Factors 1 and 2 in Maui, and that these factors also factored
+heavily in Stone v High Mountain Mining Co., LLC. Therefore, while it is not necessary for prescribed
+studies to answer each of the seven factors it is expected at a minimum that transit time and distance
+would be addressed by any required studies.
+
+Highest Score: “Likely Factor”
+If the highest score is “Likely Factor” the next step is to discuss the results with the Functional Equivalent
+Discharge SME and DEQ management to determine the most appropriate pathway for permitting.
+
+                                                                                                           11
+The main exception to this is if the “Likely Factor” score is 2 or less. In this case the permit writer should
+follow the “Next Steps” for “Ambiguous Factor”. This situation could occur if only one or two factors
+have been evaluated and the rest are unable to be assessed.
+
+
+6. Relevant Guidance
+This section outlines other relevant DEQ documents and guidelines that can be of use when trying to
+determine whether a discharge is a functional equivalent of a direct discharge.
+
+Preliminary Groundwater Assessment Guidelines, DEQ Eastern Region Office, 1995
+This document reviews information that should be included in preliminary groundwater assessments.
+
+Hydrogeologic Characterization Part B: Guidelines, DEQ Eastern Region Office, 1994 This
+document reviews information that should be included in hydrogeologic characterizations, which are
+more technical and complex than preliminary groundwater assessments.
+
+OAR Chapter 340 Division 52 Guidelines for Estimating Leakage from Existing Sewage Lagoons
+This document describes how to test for lagoon leakage. This test can be used to help determine if a
+functional equivalent discharge may be occurring from a pond or lagoon.
+
+
+7. References
+Stone v. High Mountain Mining Co., LLC, 627 F Supp 3d 1211, 1229 (D Colo 2022)
+
+Hawai'i Wildlife Fund et al v. County of Maui. Order Granting Plaintiffs' Motions for Summary
+Judgment; Order Denying Defendant's Motion for Summary Judgment. U.S. District Court for
+the District of Hawaii. July 15, 2021. Civ. No. 12-00198.
+
+Cnty. of Maui v. Haw. Wildlife Fund, 140 S.Ct. 1462 (2020).
+
+
+
+
+                                                                                                            12
+8. Appendix A: Functional Equivalent
+Worksheet
+For each factor below document the known information. Once the data has been evaluated for each factor
+place a checkmark under the appropriate box (Unable to Assess, Unlikely Factor, Ambiguous Factor, or
+Likely Factor) using this IMD to help inform the decision.
+
+Factor 1: Transit Time
+ Information:
+
+
+
+
+ Unable to Assess (no info)   Unlikely Factor   Ambiguous Factor          Likely Factor
+
+
+
+
+Factor 2: Distance Traveled
+ Information:
+
+
+
+
+ Unable to Assess (no info)   Unlikely Factor   Ambiguous Factor          Likely Factor
+
+
+Factor 3: The nature of the material through which the pollutant travels
+ Information:
+
+
+
+
+ Unable to Assess (no info)   Unlikely Factor   Ambiguous Factor          Likely Factor
+
+
+Factor 4: The extent to which the pollutant is diluted or chemically changed as it travels
+ Information:
+
+
+
+
+                                                                                                    13
+ Unable to Assess (no info)   Unlikely Factor   Ambiguous Factor           Likely Factor
+
+
+Factor 5: The amount of pollutant entering the navigable waters relative to the amount of the
+pollutant that leaves the point source
+ Information:
+
+
+
+
+ Unable to Assess (no info)   Unlikely Factor   Ambiguous Factor           Likely Factor
+
+
+Factor 6: The manner by or area in which the pollutant enters the navigable waters
+ Information:
+
+
+
+
+ Unable to Assess (no info)   Unlikely Factor   Ambiguous Factor           Likely Factor
+
+
+Factor 7: The degree to which the pollution (at that point) has maintained its specific identity
+ Information:
+
+
+
+
+ Unable to Assess (no info)   Unlikely Factor   Ambiguous Factor           Likely Factor
+
+
+Results:
+Tally the number of marks from each category below. Refer to this IMD for next steps.
+
+ Unable to Assess (no info)   Unlikely Factor   Ambiguous Factor           Likely Factor
+
+
+
+
+                                                                                                   14
+9. Record of Revisions to IMD
+
+      Revision           Date          Changes            Editor
+1.0              05/08/2024     Creation of IMD   Aliana Britson
+
+
+
+
+                                                                   15
+

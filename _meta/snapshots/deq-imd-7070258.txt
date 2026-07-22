@@ -1,0 +1,120 @@
+                       Internal Management Directive
+                Subject:                                                IMD Number:
+                PM10 and PM2.5 Netting Basis and PSEL
+                Corrections, Due to Improved Emissions                  AQ-00-017
+                Information, for Pre-May 1, 2011 Sources
+                Effective Date:          February 1, 2012
+                                                                        Pages:            3
+                Revision Date:
+                                         [signature on file]
+                Approval:
+                                         Andrew Ginsburg - Air Quality Administrator
+
+
+Intent / Purpose / Statement of Need:
+This Internal Management Directive describes the procedure the Air Quality Division of DEQ
+will use to correct PM10 netting bases and PSELs due to better emissions information for sources
+that were permitted as of May 1, 2011. The corrected PM10 netting basis and PSEL will then be
+used to establish or correct a PM2.5 netting basis and PSEL.
+
+Applicability:
+This directive applies to Air Quality permit writers who are establishing or correcting PM2.5
+netting bases and Plant Site Emission Limits for Air Contaminant Discharge Permits and Title V
+permits where the PM10 netting basis and PSEL require correction due to improved emissions
+information. This IMD applies to the following sources in any area of the state:
+     • sources that were permitted and operating on May 1, 2011, and
+     • sources that were permitted but not yet constructed and operating on May 1, 2011.
+
+For sources that were permitted but not yet constructed and operating on May 1, 2011, the
+correction only applies if there is no change (i.e., to equipment, production rate, etc.) to the
+proposed facility. If the proposed facility is revised and a new permit must be issued, the facility
+should be permitted as a new source.
+
+Directive to Air Quality Permit Writers:
+
+Correcting PM10 Netting Basis and PSELs
+If the PM10 netting basis and PSEL require correction due to improved emissions information,
+permit writers should:
+     • recalculate the PM10 netting basis and PSEL based on the corrected emission factor(s).
+     • determine whether additional analysis or other requirements for PM10 are triggered by the
+        corrections, (i.e., NSR/PSD applicability, modeling under the PSEL rule (OAR 340-222-
+        0041(3)).
+     • calculate or recalculate the PM2.5 netting basis and PSEL based on the PM2.5 fraction of
+        the corrected PM10 netting basis and PSEL.
+
+
+IMD AQ-00-0017                                                                                     1
+           o If the PM10 PSEL is 10 to 14 tons greater than the PM10 netting basis, apply the
+             PM2.5 true-up (OAR 340-200-0020(76) definition of netting basis).
+           o If the PM 2.5 true-up does not apply and the PM2.5 PSEL is greater than the PM2.5
+             netting basis by more than the significant emission rate of 10 tons/year, permit
+             writers should determine whether:
+                   the PM2.5 emissions correction would have a material impact on air
+                     quality, or
+                   the source is willing to commit to enforceable conditions (i.e., offsets from
+                     other point sources, offsets from area sources such as woodstove change-
+                     outs, etc.) to ensure that the PM2.5 emissions correction would not have a
+                     material impact on air quality.
+           o If the PM2.5 emissions correction has a material impact on air quality, this IMD
+             does not apply to the source and the issue should be referred to the Air Quality
+             Regional Management Team and Division Administrator for a case-by-case
+             evaluation.
+
+Changes to the PM10 netting basis due to revisions to the PM10 baseline emission rate are limited
+by OAR 340-200-0020(13)(e):
+
+       “Once the baseline emission rate has been established or recalculated in accordance with
+       subsection (d) of this section, the production basis for the baseline emission rate may
+       only be changed if a material mistake or an inaccurate statement was made in establishing
+       the production basis for baseline emission rate”.
+
+Sources that were not permitted on May 1, 2011 will have a netting basis of zero for PM10 and
+PM2.5 and should be permitted like any new source.
+
+Background:
+As stated in the response to comment document for the PM2.5/GHG rulemaking, PM2.5 has been
+indirectly regulated through PM10 and total particulate matter for years. Because of this, DEQ is
+adding PM2.5 to the program in a manner that avoids imposing retroactive violations on existing
+sources who have complied with existing permitting requirements for particulate matter. Making
+corrections to the PM10 netting basis and PSEL before establishing the PM2.5 netting basis and
+PSEL is critical to ensuring that projects approved prior to May 1, 2011 are not second-guessed
+and the addition of a newly regulated pollutant, PM2.5, does not trigger any new applicable
+requirements (note that this IMD also applies to corrections to the PM10 netting basis and PSEL
+after calculating the initial PM2.5 netting basis and PSEL).
+
+The definition of netting basis establishes how the PM2.5 netting basis and PSEL are established:
+
+       OAR 340-200-0020(76)(b) The initial PM2.5 netting basis and PSEL for a source that was
+       permitted prior to May 1, 2011 will be established with the first permitting action issued
+       after July 1, 2011, provided the permitting action involved a public notice period that
+       began after July 1, 2011.
+       (A) The initial netting basis is the PM2.5 fraction of the PM10 netting basis in effect on
+       May 1, 2011. DEQ may increase the initial PM2.5 netting basis by up to 5 tons if
+       necessary to avoid exceedance of the PM2.5 significant emission rate as of May 1, 2011.
+
+
+IMD AQ-00-0017                                                                                  2
+       (B) Notwithstanding OAR 340-222-0041(2), the initial source specific PSEL for a source
+       with PTE greater than or equal to the SER will be set equal to the PM2.5 fraction of the
+       PM10 PSEL.
+
+Definitions:
+Netting basis
+Plant Site Emission Limit
+
+Internal Contact:
+Jill Inahara
+503-229-5001
+inahara.jill@deq.state.or.us
+
+Internal Management Directive:
+This document is an internal management directive that is intended only as direction to DEQ
+staff in the absence of different direction provided by DEQ management. This internal
+management directive does not establish policy or legal interpretations that may be relied upon
+by permittees or other third parties.
+
+
+
+
+IMD AQ-00-0017                                                                                    3
+

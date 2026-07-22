@@ -49,6 +49,10 @@
 
 - [Index](agencies/department-of-corrections/policies/_index.md): 135 documents.
 
+## Department of Environmental Quality — Policies
+
+- [Index](agencies/department-of-environmental-quality/policies/_index.md): 52 documents.
+
 ## Department of Human Services — Policies
 
 - [Index](agencies/department-of-human-services/policies/_index.md): 17 documents.

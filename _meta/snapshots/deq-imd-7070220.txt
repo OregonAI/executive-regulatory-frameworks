@@ -1,0 +1,337 @@
+                       Internal Management Directive
+              Subject:                                                   IMD Number:
+              POLICY AND IMPLEMENTATION GUIDANCE                         AQ.00.014
+              FOR THE OREGON AIR TOXICS PROGRAM
+
+                 Effective Date:      JUNE 16, 2008                      Pages: 6
+                 Revision Date:
+                      Approval:       See last page
+
+
+
+Intent / Purpose / Statement of Need:
+This Internal Management Directive describes the procedures and policies DEQ will use in
+implementing the Oregon Air Toxics Program, including guidance on:
+-      Implementing the Geographic Program
+-      Implementing Source Category Rules and Strategies
+-      Implementing the Safety Net Program
+
+
+Authority:
+OAR 340-246-0010 through 0230
+
+
+
+Applicability:
+1)     This Directive applies to communities and sources of air toxics emissions throughout
+Oregon.
+2)     This Directive is intended solely as guidance for Department staff.
+3)     This Directive does not create any rights, duties, obligations, or defenses, implied or
+otherwise, in any third parties. It is not intended for use in pleading, at hearing, or at trial.
+4)     This Directive does not constitute rulemaking by the Environmental Quality Commission
+and may not be relied upon to create a right or benefit, substantive or procedural, enforceable
+by law or in equity, by any person.
+
+
+Definitions:
+
+
+Internal Contact:
+Gregg Lande
+503-229-6411
+lande.gregg@deq.state.or.us
+
+
+Policy:
+BACKGROUND ON THE OREGON AIR TOXICS PROGRAM
+
+In its 2006 National Air Toxics Assessment (NATA) the U.S. Environmental Protection Agency
+(EPA) estimated that concentrations of sixteen toxic air pollutants in Oregon are high enough to
+warrant public health concern. In light of this, and other data, the Oregon Department of
+Environmental Quality (DEQ) established the Oregon Air Toxics Program to systematically
+identify air toxics problems and set up methods to reduce risk in communities throughout the
+
+                                                                        G:\Emma\factsheetsIMD\AQ.00.014.doc
+                                                                                  Last Saved: August 7, 2008
+state.
+
+The Oregon Environmental Quality Commission (EQC) adopted rules in October 2003 that
+established the Oregon Air Toxics Program. In August 2006, with the advice of a technical
+committee, the EQC adopted rules setting ambient benchmarks for 51 air toxics in Oregon based
+on levels protective of human health that consider sensitive populations. Air toxics benchmarks,
+expressed as micrograms of a specific toxic chemical per cubic meter of air, are levels that a
+person could breathe for a lifetime without any non-cancer health effects, and without increasing
+their cancer risk by more than one in a million.
+
+The Oregon Air Toxics Program uses three complementary approaches to reduce the release of
+toxics air pollutants: geographic, source category and safety net. The geographic approach
+relies on affected stakeholders and community members, working with DEQ, to identify toxic air
+contaminants of concern in a specific geographic area, determine their sources, and develop
+strategies that will reduce people’s exposure to those chemicals.
+
+The source category approach addresses reductions for categories of pollutants statewide. DEQ’s
+initial effort to reduce emissions from a statewide source category was the Oregon Clean Diesel
+Initiative. Under this strategy DEQ has promoted diesel emission reductions at truck stops, from
+tug boats and construction equipment, and on school buses.
+
+The safety net approach is for rare industrial “hot spot” problems where a particular facility may
+not be adequately addressed by federal air toxics regulations or a geographic approach, and
+emissions cause elevated risk to people nearby.
+
+NATA is the primary source of information about air toxics nationally. NATA was first released in
+2002 and was based on air toxics emission data collected in 1996. In the second release of
+NATA in 2006, data collected for 1999 indicated levels of concern for various air toxics. This
+data, along with estimates of people’s risk from exposure demonstrated potential problems
+associated with air toxics. EPA generally updates NATA every three years. NATA includes
+emissions and ambient concentrations for 177 air toxics, plus diesel particulate matter (PM) for
+every census tract in the nation. It also includes an exposure and risk assessment (cancer and
+non-cancer) for 133 of these toxics (including diesel PM). NATA uses the latest EPA-approved
+models for air toxics emissions and pathways, and high quality information about sources of air
+toxics.
+
+DEQ has monitored for air toxics in several areas of the state. This information, while limited, is
+useful to validate air toxics modeling estimates. A 1999-2000 monitoring study measured
+concentrations at five sites in the Portland area for a full year. DEQ conducted an additional
+year-long air toxics monitoring study in Portland in 2005. Both of these studies followed EPA-
+approved monitoring methods. The studies demonstrated fairly similar concentrations of most
+gaseous air toxics, many related to vehicle emissions, throughout the city. Higher
+concentrations of some pollutants, especially a few metals, were found in localized areas.
+
+DEQ also conducted a modeling study in the Portland Area called the Portland Air Toxics
+Assessment (PATA), which was adjusted for local topography, weather and emission patterns.
+This local scale model, coupled with better detail about the location of emissions, including traffic
+data, gave PATA the capability to predict problem areas within the Portland region. For each
+pollutant, model estimates were plotted as maps that provided more detail about air toxics
+concentrations across the region.
+
+
+GUIDANCE FOR IMPLEMENTING AIR TOXICS EMISSION REDUCTIONS THROUGH THE
+GEOGRAPHIC PROGRAM.
+
+1. Background on the Geographic Program
+
+
+                                                                         G:\Emma\factsheetsIMD\AQ.00.014.doc
+                                                                                   Last Saved: August 7, 2008
+In a typical urban area people are exposed to a variety of air pollutants released from off and on-
+road mobile sources, from large and small businesses, and from common household activities.
+This urban atmosphere containing multiple pollutants from many sources is sometimes referred
+to as “urban soup”. Exposures to these pollutants can occur throughout the day as people travel
+around the community, attend school, work, shop, or play. While pollutant concentrations may
+be very low, the repeated exposures can result in significant health impacts. Determining who is
+exposed, what pollutants are of concern, how much they are exposed to, and the source of those
+pollutants is a complex process best taken in steps.
+
+This guidance describes an initial assessment of communities in Oregon likely to experience air
+toxics problems and the creation of a conceptual model of the multi-source, multi-pollutant
+problem, including boundary conditions, to begin to address the problems. Additional guidance
+for analysis, through air monitoring and modeling, and for assessment of exposure and health
+risk is available. Additional detail and discussion can be found in the US EPA Air Toxics Risk
+Assessment Library, Volume 3 – Community-Scale Assessment.
+
+2. Tiered Assessment
+Generally, health risk assessments are conducted in a progressive manner moving from a
+relatively simple analysis relying on conservative default assumptions (Tier 1) through an
+intermediate analysis using more realistic information (Tier 2) to an advanced analysis using
+situation specific information and sophisticated mathematical techniques (Tier 3).
+
+The Department relies on the NATA to conduct what is essentially a Tier 1 assessment. Using
+statewide emissions inventories provided by ODEQ and other air agencies every three years, the
+US EPA models ambient air concentrations across the country and then estimates exposures and
+health risks for each census tract in the nation. Although these studies use high quality
+emissions information, other features of the model, such as meteorology and topography, do not
+have the sufficient localized specificity to make these assessments better than screening level
+estimates.
+
+With results from NATA in hand the prioritization and selection of geographic areas for further
+analysis is governed by the rules (340-246-0150). “High priority geographic areas, where
+concentrations of air toxics are more than ten times above the ambient benchmarks or hazard
+quotient of one” will receive attention first. Factors that must be considered in this prioritization
+are listed in the rules. For more information on procedures used to form a list of high priority
+geographic areas and select areas for planning work, see DEQ AQ Internal Management Directive
+00.012, “Prioritizing and Selecting Air Toxics Geographic Areas.
+
+In a departure from the usual tiered process, the Air Toxics Program rules require that air
+monitoring be done in what is essentially a Tier 2 analysis (340-246-0150(2)). Monitoring, as
+opposed to more refined modeling, was recommended by the stakeholder group advising the
+Department on rule development. Monitoring is limited in time and location but is generally
+more acceptable to the public since it provides a measure of actual air toxics concentrations. It
+has the additional potential advantage of identifying pollutants not captured in the emissions
+inventory. Monitoring can be used effectively as a complement to modeling by confirming or
+validating model performance and results, thereby giving credence to the model predictions
+which will be used later in airshed emissions reduction planning.
+
+The guidance for ambient air toxics monitoring places specific emphasis on constructing a
+monitoring plan to meet clearly defined objectives. It also recommends that care is given to
+determining the location of monitors so that these objectives can be met. Fortunately the NATA
+results provide ambient air concentrations by census tract as a starting point for determining
+monitor placement. Criteria pollutant monitoring, and knowledge of meteorology, topography,
+and land use will assist in creating an optimal set of monitoring sites. Guidance for ambient air
+monitoring is available.
+
+
+
+                                                                         G:\Emma\factsheetsIMD\AQ.00.014.doc
+                                                                                   Last Saved: August 7, 2008
+After monitoring has been completed, corroborating that air toxics concentrations are above the
+ABCs, refined modeling comprises the Tier 3 assessment. This modeling is an essential element
+that should be done prior to convening the local advisory committee as it will provide a basis for
+describing the scope of the problem. Developing an emissions inventory specific to the
+geographic area should be presumed necessary for that modeling work. It may be prudent to
+have other data analysis results, such as source apportionment studies, available before
+convening the committee. Guidance for predicting ambient concentrations and for determining
+exposures by modeling is available. Further guidance for conducting the community-wide risk
+assessment is also available.
+
+3. Geographic Area Boundaries
+The Department has considerable discretion in drawing the boundaries for Geographic Areas.
+While 340-246-0150(4) provides a list of criteria to be considered it also allows flexibility in the
+boundary setting process. Boundary setting should be done prior to monitoring.
+
+Following the criteria in the rule:
+1.     model estimates should be used to create isopleth maps delineating the areas where
+concentrations are greater than the ABC;
+2.     existing air quality non-attainment or maintenance area boundaries should be mapped;
+3.     geographic features and topography should be delineated if they limit air flow;
+4.     areas surrounding influential sources should be included;
+5.     if not already included, populated areas likely to be impacted should be added;
+6.     local political boundaries (city, county) should be mapped.
+
+These criteria are not intended to be all-inclusive. Other factors such as current and future land
+use, and population growth, may also be significant considerations. When a geographic area has
+been selected for emissions reduction planning the Secretary of State Bulletin Notice will include
+designation of the boundary for the area.
+
+4. Local Advisory Committee
+The Department has always been committed to including Oregonians in all aspects of the
+agency's decision-making and the Air Quality Division has a wealth of experience in working with
+local citizens to solve community-wide air quality problems. Historically, DEQ has developed a
+number of attainment plans and maintenance plans to bring criteria pollutant concentrations
+below the National Ambient Air Quality Standards and to keep them there.
+
+While working on more than one toxic air pollutant might be more technically complex than
+developing a reduction strategy for a single criteria pollutant, the involvement of the public and
+the process to follow will be similar. Guidance is available
+(http://deq05/intranet/communication/publicinvolvement/overview.htm) for establishing a
+stakeholder group and for ensuring that the public is closely involved with strategy development.
+
+
+GUIDANCE FOR IMPLEMENTING AIR TOXICS EMISSION REDUCTIONS THROUGH SOURCE
+CATEGORY RULES AND STRATEGIES
+
+1. Background on Source Category Emissions
+In a typical urban area people are exposed to a variety of air pollutants releases from off and on-
+road mobile sources, from large and small businesses, and from common household activities.
+These source types may have a unique relative contribution to the air toxics in each urban area
+but it is reasonable to assume that many activities will be common to urban areas throughout
+the state. Examples of such activities include small businesses like gas stations or body shops,
+and household activities like backyard burning.
+
+2. Identifying Source Categories
+The Department anticipates that sources potentially amenable to categorical emissions reduction
+
+
+                                                                         G:\Emma\factsheetsIMD\AQ.00.014.doc
+                                                                                   Last Saved: August 7, 2008
+strategies will become apparent as other aspects of the air toxics program are implemented.
+This includes emissions inventory development, modeling, monitoring, creating local air toxics
+reduction plans, and assessing safety net sources. Diesel engines, used in myriad applications,
+have already been identified as a significant source of air toxics as a result of the 1999 NATA.
+California’s community right-to-know program (AB 2588) has been in place for some time now.
+It required an air toxics risk assessment by businesses in that state and may also provide some
+indications of source category types that are important air toxics sources in urban areas.
+
+3. Determining Emission Reductions
+Once a potential category has been identified, the Air Toxics Program rules provide criteria which
+the Department should consider when determining if a source category rule is appropriate [340-
+246-0110]. First, if the category is already covered by a rule or strategy. Second, if emissions
+can effectively be reduced through regulatory or voluntary means. And third, if the category
+contributes significantly to benchmark exceedances in several geographic areas. The intent of
+the criteria is to focus on the practicality of implementation and ensure that there is a level
+playing field so that polluting practices do not migrate to other areas of the state.
+
+Of course some categories are likely to contribute more pollution or to be significant in more than
+one place. If several categories present themselves at the same time then finite resources
+dictate that they are prioritized for consideration. The rules provide no instruction for this
+process. However, prioritizing criteria are provided in the Geographic Program and can be looked
+to for guidance [340-246-0150].
+
+Once a source category has been identified for air toxics emissions reductions it is necessary to
+work on a strategy to accomplish that in consultation with interested stakeholders. If the
+category includes small businesses, then recent Oregon statute requires an element of that
+stakeholder process be consideration of costs and benefits.
+
+
+GUIDANCE FOR IMPLEMENTING AIR TOXICS EMISSION REDUCTIONS THROUGH THE SAFETY
+NET PROGRAM
+
+1. Background on the Safety Net Program
+The Safety Net Program was intended as a remedy for exceptional situations where an industrial
+source of air toxics causes risk to people nearby and the emissions are not adequately addressed
+through federal standards, a geographic plan or source category reductions. Because the Safety
+Net Program can impose emission reduction requirements on individual facilities, there are
+detailed conditions leading to its use.
+
+2. Identification of Potential Safety Net Sources
+Generally, health risk assessments are conducted in a progressive manner moving from a
+relatively simple analysis relying on conservative default assumptions (Tier 1) through an
+intermediate analysis using more realistic information (Tier 2) to an advanced analysis using
+situation specific information and sophisticated mathematical techniques (Tier 3).
+
+The Department does not intend to conduct an assessment of point sources throughout the state
+to determine which ones might be subject to the Safety Net approach.
+Earlier in-house discussions suggested that identification of a potential source would probably
+occur as a by-product of some other action, and might come about either by:
+
+1.     Emissions inventory or permit processing information (e.g. NSR) indicating that a
+potential facility-specific air toxics problem exists; or
+2.     Public complaints about a specific facility and questions about the localized air toxics
+impact; or
+3.     Air Quality staff recognition of an individual facility as a result of either Geographic Area
+analysis or Source Category evaluation; or
+
+
+                                                                          G:\Emma\factsheetsIMD\AQ.00.014.doc
+                                                                                    Last Saved: August 7, 2008
+4.     Ambient monitoring data showing a pollutant over its ABC, and where the emissions from
+one facility are likely to be the cause.
+
+As possible sources come to staff attention a determination must be made whether the source is
+“exempt” based on the Safety Net source criteria [340-246-0190(3)]. At this point DEQ will
+have conducted what is equivalent to a first tier assessment.
+
+3. Monitoring at a Potential Safety Net Source
+In a departure from the usual tiered process, the Air Toxics Program rules require that air
+monitoring be done in what is essentially a second tier analysis (340-246-0190[3]). Monitoring,
+as opposed to more refined modeling, was recommended by the stakeholder group advising the
+Department on rule development. Monitoring is limited in time and location but is generally
+more acceptable to the public since it provides a measure of actual air toxics concentrations.
+According to the rule, monitoring must show that an ambient benchmark concentration is
+exceeded at a public receptor and that a particular point source is solely responsible for that
+ambient concentration.
+
+The guidance for ambient air toxics monitoring places specific emphasis on constructing a
+monitoring plan to meet clearly defined objectives. It also recommends that care is given to
+determining the location of monitors so that these objectives can be met. As a consequence,
+dispersion modeling is an essential step toward developing a monitoring plan. Guidance for both
+modeling and monitoring is available (IMD # AQ.00.013 ).
+
+4. ATSAC Review and Exposure Modeling
+Once adequate data have been collected, validated, and summarized by ODEQ to establish that
+annual average ambient concentrations exceed one or more ABCs, and one particular source is
+responsible, the Department must present their analysis to the Air Toxics Science Advisory
+Committee (ATSAC). ATSAC then has the responsibility to review the information within 120
+days [340-246-0190(4)]. If they agree with the Department and find that the source is indeed
+subject to the Safety Net Source requirements, then the Department will notify the company in
+writing that they are to conduct a facility-specific exposure modeling and health risk assessment
+[340-246-0190(5) and (6). This assessment is essentially a third tier analysis which, after
+Department and ATSAC review, may lead to no further action or the implementation of emissions
+reduction efforts by the facility. Specific guidance for this assessment is available (IMD #
+AQ.00.013).
+
+
+
+
+                                                                      G:\Emma\factsheetsIMD\AQ.00.014.doc
+                                                                                Last Saved: August 7, 2008
+

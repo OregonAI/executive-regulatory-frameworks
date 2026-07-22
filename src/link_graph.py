@@ -87,7 +87,8 @@ def authority_text(fm, body):
     elif fm["doc_type"] in ("policy", "procedure", "manual", "standard"):
         if str(fm.get("agency", "")).startswith(
                 ("oregon-health-authority", "department-of-human-services",
-                 "oregon-watershed-enhancement-board", "public-utility-commission")):
+                 "oregon-watershed-enhancement-board", "public-utility-commission",
+                 "department-of-environmental-quality")):
             parts.append(t)  # small agencies whose policies cite ORS/OAR/other policies
                              # throughout the body, not in a header authority block
         else:

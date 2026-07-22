@@ -27,6 +27,7 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
+    - deq-imd-7070553
     - oar-340-200-0020
     - oar-340-210-0205
     - oar-340-210-0215

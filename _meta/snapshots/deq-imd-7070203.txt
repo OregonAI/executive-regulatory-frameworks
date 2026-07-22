@@ -1,0 +1,326 @@
+Instructions for BOD5 to CBOD5
+Substitution in NPDES Permits
+Revision 3.0
+
+
+
+
+                                             Water Quality
+                                             Permitting and
+                                             Program Development
+                                             700 NE Multnomah St.
+                                             Suite 600 Portland
+                                             Oregon, 97232
+
+                                             Portland, OR 97204
+                                             Phone:     503-229-5696
+                                                        800-452-4011
+                                             Fax:       503-229-6762
+                                             Contact: Rob Burkhart
+
+                                             www.oregon.gov/DEQ
+
+
+                                             DEQ is a leader in
+                                             restoring, maintaining and
+                                             enhancing the quality of
+                                             Oregon’s air, land and
+                                             water.
+
+
+
+
+Oregon Department of Environmental Quality
+DEQ can provide documents in an alternate format or in a language other than English upon request. Call
+DEQ at 800-452-4011 or email deqinfo@deq.state.or.us.
+
+
+
+
+                                                                                                      1
+Disclaimer
+This directive is intended solely as guidance for DEQ employees. It does not constitute rulemaking by the
+Environmental Quality Commission and may not be relied upon to create an enforceable right or benefit,
+substantive or procedural, enforceable at law or in equity, by any person. With written managerial
+approval, DEQ employees may deviate from this directive. DEQ anticipates revising this directive from
+time to time as conditions warrant.
+
+
+
+
+Document Development
+ Prepared By:      Rob Burkhart
+
+ Reviewed By:      WQPPD
+
+
+ Approved By:      Geoff Rabinowitz                                          Date:   2/08/2022
+
+                     Geoffrey                 Digitally signed by Geoffrey
+                                              Rabinowitz
+
+                     Rabinowitz               Date: 2022.02.08 11:36:23
+                                              -08'00'
+
+
+
+
+                                                                                                        2
+Table of Contents
+
+1. Intent/Purpose/Statement of Need ............................................................................................. 4
+   1.1 Authority .............................................................................................................................................4
+   1.2 Applicability .....................................................................................................................................4
+   1.3 Definitions ..........................................................................................................................................4
+2. Summary .................................................................................................................................... 5
+3. Background ................................................................................................................................ 5
+4. Directive ..................................................................................................................................... 6
+   4.1 Implementing Federal Secondary Standards ....................................................................................6
+      Secondary Standards .......................................................................................................................................... 6
+       Equivalent to Secondary Standards .................................................................................................................... 6
+   4.2 Implementing State Design Criteria ...................................................................................................7
+5. Record of Revisions to IMD ...................................................................................................... 9
+
+
+
+
+                                                                                                                                                                     3
+1. Intent/Purpose/Statement of Need
+This directive clarifies DEQ’s policy and implementation procedures on the substitution of five-day
+carbonaceous biochemical oxygen demand (CBOD5) for five-day biochemical oxygen demand (BOD5) in
+technology-based effluent limits in NPDES permits.
+
+
+1.1 Authority
+Under 40 CFR 133.102, DEQ, at its discretion, may substitute CBOD5 limits for BOD5 limits to meet
+federal secondary treatment standards. Under Oregon Administrative Rules (OAR), including OAR 340-
+041-0007(15), DEQ has the authority to establish NPDES permit limits to implement state minimum
+design criteria. Also, under 40 CFR 133.105, where data exist to establish CBOD5 limits, DEQ may
+substitute CBOD5 limits for BOD5 limits to meet federal equivalent to secondary treatment standards.
+
+
+1.2 Applicability
+This directive provides instructions to Oregon NPDES permit development staff for evaluating and
+setting technology-based effluent limits in NPDES individual permits for the following conditions:
+    •    The existing permit contains CBOD5 limits or the facility requests a substitution of CBOD5 limits
+         for the existing BOD5 limits;1 and
+    •    The limits are based on either federal secondary standards, federal equivalent to secondary
+         standards or state basin-specific design standards.
+This IMD is not directly applicable to the implementation of BOD wasteload allocations (WLAs)
+associated with TMDLs, or any BOD water quality-based effluent limits that are more stringent than the
+applicable technology-based effluent limits.2
+
+
+1.3 Definitions
+    •    BOD5 (five-day biochemical oxygen demand) means a measurement of the amount of oxygen
+         used by the bacteria as they stabilize the organic matter over a five-day period at 20°C.
+    •    CBOD5 (five-day carbonaceous biochemical oxygen demand) means a measurement of the
+         amount of oxygen demand over a five-day period exerted by organic (carbonaceous) compounds,
+         excluding the oxygen demand exerted by the nitrogenous compounds.
+    •    NOD (nitrogenous biochemical oxygen demand) means the oxygen demand exerted by
+         nitrogenous compounds.
+    •    Conversion factor means an arithmetic multiplier for converting a quantity expressed in BOD5
+         into an equivalent expressed in CBOD5.
+
+
+
+
+1
+  This could be for either the scenario where the existing permit already includes the substitution, or where the
+existing permit contains BOD5 limits.
+2
+  Any effluent limit associated with a TMDL WLA will need to be consistent with the TMDL.
+
+
+                                                                                                                    4
+2. Summary
+The Clean Water Act requires that wastewater treatment plants provide a minimum level of treatment. For
+publicly owned treatment works (POTWs), federal regulations establish Secondary Treatment Standards
+for BOD5, suspended solids (SS) and pH. Problems have arisen with the use of the BOD5 testing at some
+municipal secondary facilities. When sufficient numbers of nitrifying-bacteria are present in the test
+sample, they can exert a significant nitrogenous oxygen demand (NOD) in the BOD5 test that would not
+be exerted in their absence.3 This may lead to inaccurate assessment of compliance with federal
+secondary standard limitations and state design criteria. To address this concern regarding secondary
+standards, 40 CFR 133.102(a)(4) and 40 CFR 133.105(e) provide the permitting authority (DEQ) the
+option to substitute the BOD5 effluent limit with a CBOD5 limit.
+
+EPA has established CBOD standards for cases where secondary treatment standards or equivalent to
+secondary treatment standards are applied. However, implementation of Oregon’s Minimum Design
+Criteria4 may result in BOD5 limits for treated sewage5 that are more stringent than the applicable federal
+secondary standards. The federal rules do not address this situation. When including permit limits based
+on these design criteria, the DEQ permit writer may use the guidance in this IMD to substitute CBOD5 for
+BOD5 in accordance with the methods described in this IMD.
+
+
+3. Background
+In 1984, EPA promulgated rule revisions allowing for the substitution of CBOD5 for BOD5 when
+implementing federal secondary and equivalent to secondary standards. The federal register promulgating
+these rule revisions6 explained the rationale for the changes:
+           The Agency is allowing substitution of the CBOD5 parameter for the BOD5 parameter, because it
+           believes that this parameter is a better reflection of the understood meaning of secondary
+           treatment in terms of measuring the removal of carbonaceous organic materials by secondary
+           treatment for certain POTWs. In addition, the Agency believes that implementation of CBOD5 test
+           procedures should eliminate the counter-productive operating practices that were noted above
+           since incidental nitrification will no longer affect test results.7
+The rule revisions pertain to the implementation of both secondary standards for BOD5, and equivalent to
+secondary standards for BOD5. These rules and their implementation are discussed in more detail below.
+
+In addition to the federal secondary standards for BOD5, OARs contain general and basin-specific
+minimum design criteria for the treatment and control of sewage wastes. These design criteria include
+
+
+
+3
+  From Federal Register/Vol.49, No. 184/Sept. 20, 1984, page 36988:
+https://cdn.loc.gov/service/ll/fedreg/fr049/fr049184/fr049184.pdf.
+4
+  OAR 340-041-0007(15).
+5
+  "Sewage" is defined in OAR 340-041-0002(57) as the water-carried human or animal waste from residences,
+buildings, industrial establishments, or other places together with such groundwater infiltration and surface water as
+may be present. The admixture with sewage of industrial wastes or wastes, as defined in this rule, may also be
+considered "sewage" within the meaning of this division.
+6
+    Federal Register/Vol.49, No. 184/Sept. 20, 1984 https://cdn.loc.gov/service/ll/fedreg/fr049/fr049184/fr049184.pdf.
+7
+    Ibid, page 36988.
+
+
+                                                                                                                     5
+BOD5 concentrations and may be implemented in permits as either CBOD5 or BOD5 limits. These rules
+and their implementation are discussed in more detail below.
+
+
+4. Directive
+4.1 Implementing Federal Secondary Standards
+Secondary Standards
+Under federal regulations and guidance,8 a permit writer may substitute CBOD5 for BOD5 when applying
+federal secondary standards. This substitution should take place if a permittee requests the substitution,
+or if a permit containing CBOD5 limits is being renewed and the permittee has not requested BOD5
+limits.9 The monitoring requirements included in permits to determine compliance with the CBOD5
+limits must be for CBOD5 in order to conform to federal and state requirements.
+
+The CBOD5 limits that will be included in these permits, when used, are:
+                    o 25 mg/L as a monthly average
+                    o 40 mg/L as a weekly average
+                    o 85% removal as a monthly average
+These limits are substitutes for the 30 mg/L (monthly average), 45 mg/L (weekly average), 85% removal
+(monthly average) BOD5 limits used to address federal secondary standards. The substitution may be
+applied seasonally or year-round.
+
+
+Equivalent to Secondary Standards
+Federal regulations and guidance also allow permit writers to substitute CBOD5 for BOD5 when applying
+federal equivalent to secondary standards. However, the applicable regulation10 only allows this
+substitution “(w)here data are available to establish CBOD5 limitations …”. The federal register
+promulgating these rule revisions explains that the required data are expected to be parallel CBOD5 and
+BOD5 data submitted by the permittee. These data would be used by DEQ to help establish CBOD5
+limits when applying federal equivalent to secondary standards. The federal regulations state that the
+resulting CBOD5 limits may not be less stringent than the following:
+                      o 40 mg/L as a monthly average
+                      o 60 mg/L as a weekly average
+                      o 65% removal as a monthly average
+In order to substitute CBOD5 for BOD5 when applying federal equivalent to secondary standards, the
+permittee should request the substitution, and submit parallel CBOD5 and BOD5 effluent data. The data
+should be collected during periods of cool weather and while the facility is achieving at least the 45 mg/L
+(monthly average), 65 mg/L (weekly average), and 85% removal (monthly average) BOD5 limits. DEQ
+permitting staff will then analyze the data to determine the relationship between the CBOD5 and BOD5
+
+
+
+
+8
+  40 CFR 133.102 and U.S EPA’s NPDES Permit Writer’s Manual, September 2010, page 5-10.
+9
+  As explained in the federal register promulgating these rule revisions, no facility-specific data or information is
+required to implement this substitution (Federal Register/Vol.49, No. 184/Sept. 20, 1984, p. 36999).
+10
+   40 CFR 133.105(e).
+
+
+                                                                                                                        6
+data, and then develop a conversion factor to be used to establish appropriate CBOD5 limits.11 The
+substitution may be applied seasonally or year-round.
+
+
+
+4.2 Implementing State Design Criteria
+As noted above, the implementation of Oregon’s Minimum Design Criteria12 may result in BOD5 limits
+for treated sewage6 that are more stringent than the applicable federal secondary standards. The federal
+rules do not address the substitution of CBOD5 limits for BOD5 limits when applying these criteria.
+
+While state regulations do not specifically address the substitution of CBOD for BOD when
+establishing permit limits, DEQ has concluded that it is appropriate to do so due to the same
+rationale presented by EPA when developing their rule allowing the substitution (see Section 3,
+above). As such, it is DEQ’s policy that permit writers may substitute CBOD5 for BOD5 when
+including permit limits to implement Oregon’s Minimum Design Criteria. This substitution may take
+place if a permittee requests the substitution, or if a permit containing CBOD5 limits is being renewed and
+the permittee has not requested BOD5 limits. The substitution may be applied seasonally or year-round.
+As with substitution of CBOD5 for BOD5 for federal standards, the permit must include CBOD5 (nitrogen
+inhibited) monitoring to ensure monitoring occurs for the parameter being regulated within the permit.
+
+When including CBOD5 limits to implement Oregon’s Minimum Design Criteria, the use of a
+CBOD5/BOD5conversation factor is necessary when a permit currently contains BOD5 limits to
+implement the design criteria and the permittee requests the substitution of CBOD5 limits. The two
+options for calculating and assigning a conversion factor are:
+        •    Default Conversation Factor (CBOD5:BOD5). Based on the ratios of the CBOD5 to BOD5
+             concentrations used in the implementation of federal secondary standards.
+                o 0.8 for the 30-day average limit, derived from the federal substitution relationship of
+                    25 mg/L CBOD5 to 30 mg/L BOD5
+                o 0.9 for the 7-day average limit, derived from the Federal substitution relationship of
+                    40 mg/L CBOD5 to 45 mg/L BOD5
+        •    Site-specific Conversion Factor. A site-specific conversation factor may be determined
+             based on a parallel monitoring study or engineering study to quantify the CBOD5/BOD5
+             concentration relationship. The derivation of this conversion factor should generally follow
+             the same process used by EPA for deriving the conversion factor related to the federal
+             equivalent to secondary standards. This includes the proposal and acceptance of a
+             facility/outfall specific CBOD5 limit with a future approved facility plan.
+
+
+
+4.3 Implementation Exceptions
+         While the above implementation will be applicable to many situations, it cannot take into account
+all scenarios. The following non-exhaustive list includes the anticipated scenarios that may justify
+deviating from the direction of this IMD and provide a direction on how to do so.
+
+
+11
+   These requirements are based on the data collection and analysis process EPA used to determine the CBOD5
+limits for secondary standards. The process is explained in Federal Register/Vol.49, No. 184/Sept. 20, 1984, p.
+37000.
+12
+   OAR 340-041-0007(15) and associated basin-specific criteria in OAR 340-041.
+
+
+                                                                                                                  7
+•   Facilities currently operating under the previous DEQ 10 mg/l CBOD5 policy
+        o If a permit containing CBOD5 limits is being renewed, it is reasonable to proceed with an
+             understanding that the existing CBOD5 limits were considered to be equivalent control
+             when the design criteria were implemented during facility plan review and approval. In
+             this situation, the existing CBOD5 limits should be retained. If it has been established
+             (i.e., clearly documented in the facility records) that the existing CBOD5 limits were not
+             considered to be equivalent control when the design criteria were implemented, then the
+             use of a CBOD5/BOD5 conversation factor is appropriate.
+•   Site specific study:
+        o Facilities operating or wanting to operate under the 10 mg/l CBOD5 limit may choose to
+             conduct a facility specific study, as described in section 4.2.
+
+
+
+
+                                                                                                      8
+5. Record of Revisions to IMD
+      Revision           Date          Changes                  Editor
+1.0              8/17/2017      First Version            Spencer Bohaboy
+2.0              2/1/2018       Final Version            Jeff Navarro
+3.0              5/13/2021      Corrections to ensure    Rob Burkhart
+                                consistency with rules
+                                and guidance
+3.1              2/8/2022       Update of possible       Geoff Rabinowitz
+                                exception options
+
+
+
+
+                                                                            9
+
