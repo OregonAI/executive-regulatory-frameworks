@@ -26,6 +26,7 @@ relationships:
   implements: []
   implemented_by:
     - das-50-010-01
+    - dhs-060-044
     - oar-414-350-0090
     - oar-839-005-0010
     - oar-839-005-0013
@@ -34,6 +35,7 @@ relationships:
     - oar-839-005-0030
     - oar-839-005-0125
     - oar-839-006-0117
+    - oha-osh-5-008
   references_external: []
   related: []
   supersedes: []

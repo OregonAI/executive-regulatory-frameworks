@@ -1,0 +1,182 @@
+---
+id: oha-osh-6-028
+title: "Education for Patients"
+doc_type: policy
+citation: "OSH Policy 6.028"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/6.028%20Education%20for%20Patients/6.028%20Education%20for%20Patients.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "fe73fb0736ae227286a4d72a5e82fb14842fb213defdf72dd1577d1e83e1ea04"
+effective_date: "2024-07-25"
+last_reviewed: null
+source_version: "Effective JULY 25, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-851-045-0060
+  implemented_by: []
+  references_external: []
+  related:
+    - oha-osh-6-045
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/6.028%20Education%20for%20Patients/6.028%20Education%20for%20Patients.pdf> (retrieved 2026-07-21).
+
+# Education for Patients (OSH Policy 6.028)
+
+## At a glance
+
+OSH Policy 6.028 — Education for Patients. Oregon State Hospital (Oregon Health Authority). Effective JULY 25, 2024.
+
+## Full text
+
+                      OREGON STATE HOSPITAL
+                                           POLICY
+SECTION 6:        Patient Care                                                 POLICY: 6.028
+
+SUBJECT:          Education for Patients
+
+POINT PERSON:     Director of Vocational,
+                  Educational, Spiritual, Peer
+                  Recovery and Native Services
+
+APPROVED:         Sara Walker, MD                                       DATE: JULY 25, 2024
+
+                  Interim Superintendent
+
+SELECT ONE:
+
+ I. PURPOSE AND APPLICABILITY
+   A. Oregon State Hospital (OSH) provides a collaborative learning and education
+      environment to support treatment and recovery. OSH will therefore provide
+      education resources, programs, and activities for individualized patient treatment
+      in accordance with regulations and best practices for patient care. Whenever
+      possible, educational resources should be evidence based in accordance with
+      the definitions of evidence-based practices set forth by the Oregon Health
+      Authority.
+   B. The Policy applies to all staff.
+
+II. POLICY
+   A. Every interdisciplinary treatment team (IDT) will assess patient learning and
+      education needs and will document the findings on the Patient Learning Needs
+      Assessment (PLNA) form. They will coordinate completing the form by the 10th day
+      after the patient’s admission and will collaborate with the patient to establish
+      appropriate treatment care plan (TCP) interventions as needed.
+
+   B. Patient education is the process by which staff and others convey information to
+      patients and their caregivers that will affect or improve their health behaviors or
+      health status. To support patient education, OSH provides patient-centered
+      therapeutic treatment, education, and activity programs, including:
+      1. treatment malls;
+
+ Subject:                                                           Policy Number: 6.028
+             Education for Patients
+ Date:       July 25, 2024                                                      P AGE 2 OF 3
+
+       2. psychiatric rehabilitation programs for acquiring skills and accepting supports
+          necessary for achieving a specific patient goal in a vocational, living, social, or
+          educational environment;
+       3. vocational preparation programs;
+       4. academic programs;
+       5. educational materials; and
+       6. educational equipment, including computerized and audio-tutorial formats.
+
+   C. Educational services and consultation are available on a referral basis through
+      Dietary Services, Pharmacy, Spiritual Services, Educational Services, and other
+      clinical or treatment services staff who provide patient education as a part of their job
+      function.
+
+   D. Clinical disciplines, including Pharmacy staff, must provide the patient with sufficient
+      information and education about their treatment, including medications and
+      treatment options, to make informed decisions and participate in their care.
+
+   E. At the time of discharge, every patient must be provided with pertinent discharge
+      information and other instruction as needed per OSH Policy and Procedure 6.013,
+      “Discharge and Conditional Release Planning”. Educational needs not identified to
+      be a priority during hospitalization should be addressed through community referral
+      and discharge planning.
+
+   F. All education provided to a patient must be documented. The patient’s response to
+      education and progress towards educational goals must be documented in progress
+      notes as delineated in OSH Policy 6.045, “Clinical Documentation”. Patient
+      education provided in treatment mall groups must be documented in group notes per
+      the same policy.
+
+   G. OSH follows all applicable regulations, including federal and state statutes and
+      rules; Oregon Department of Administrative Services (DAS), Shared Services,
+      and Oregon Health Authority (OHA) policies; and relevant accreditation
+      standards. Such regulations supersede the provisions of this policy unless this
+      policy is more restrictive.
+   H. Staff who fail to comply with this policy or related policy attachments or protocols
+      may be subject to disciplinary action, up to and including dismissal.
+
+III.   DEFINITIONS
+   A. “Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
+      and other state employees assigned to work at Oregon State Hospital (OSH).
+
+IV. RELATED OSH POLICIES AND PROTOCOLS
+6.058 Admissions
+6.045 Clinical documentation
+
+ Subject:                                                              Policy Number: 6.028
+              Education for Patients
+ Date:        July 25, 2024                                                         P AGE 3 OF 3
+
+6.013 Discharge and Conditional Release planning
+6.053 Education services for patients under 21 Years of Age
+6.011 Treatment care planning
+Patient Learning Needs Assessment, OSH STK: 75065 [medical record form].
+
+V. REFERENCES
+42 CFR § 482.13(b)2.
+42 CFR § 482.23.
+42 CFR § 482.61.
+42 CFR § 482.62.
+Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual for
+behavioral healthcare and human services. CTS.02.01.03. Oakbrook Terrace, IL: Author.
+Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual for
+behavioral healthcare and human services. CTS.02.01.13. Oakbrook Terrace, IL: Author.
+Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual for
+behavioral healthcare and human services. CTS.04.01.03. Oakbrook Terrace, IL: Author.
+Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual for
+behavioral healthcare and human services. CTS.04.03.15. Oakbrook Terrace, IL: Author.
+Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual for
+behavioral healthcare and human services. CTS.06.01.03. Oakbrook Terrace, IL: Author.
+Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual for
+behavioral healthcare and human services. NPSG.03.06.01. Oakbrook Terrace, IL: Author.
+Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual for
+behavioral healthcare and human services. RI.01.03.01. Oakbrook Terrace, IL: Author.
+Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual for
+hospitals. MS.05.01.03. Oakbrook Terrace, IL: Author.
+Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual for
+hospitals. NPSG.03.06.01. Oakbrook Terrace, IL: Author.
+Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual for
+hospitals. PC.01.02.07. Oakbrook Terrace, IL: Author.
+Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual for
+hospitals. PC.01.02.11. Oakbrook Terrace, IL: Author.
+Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual for
+hospitals. PC.01.02.13. Oakbrook Terrace, IL: Author.
+Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual for
+hospitals. PC.02.03.01. Oakbrook Terrace, IL: Author.
+Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual for
+hospitals. RI.01.03.01. Oakbrook Terrace, IL: Author.
+Oregon Administrative Rule § 851-045-0060.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/6.028%20Education%20for%20Patients/6.028%20Education%20for%20Patients.pdf> · retrieved 2026-07-21 · sha256 `fe73fb0736ae227286a4d72a5e82fb14842fb213defdf72dd1577d1e83e1ea04`
+- Snapshot: `_meta/snapshots/oha-osh-6-028.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

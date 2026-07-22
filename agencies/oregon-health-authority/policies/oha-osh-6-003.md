@@ -1,0 +1,355 @@
+---
+id: oha-osh-6-003
+title: "Seclusion or Restraints"
+doc_type: policy
+citation: "OSH Policy 6.003"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/6.003%20Seclusion%20or%20Restraints/6.003%20Seclusion%20or%20Restraint.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "c90d61d5e1834a76acfb3b21b53d94c6ea10b5c4b6aa8738a57d1fc661d069b4"
+effective_date: "2026-01-15"
+last_reviewed: null
+source_version: "Effective January 15, 2026"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-309-033-0530
+    - oar-309-033-0700
+    - oar-309-033-0735
+    - oar-309-035-0205
+    - oar-309-112-0000
+    - oar-309-112-0015
+    - oar-309-112-0035
+    - ors-124.105
+    - ors-426.070
+    - ors-426.072
+    - ors-426.228
+    - ors-426.232
+    - ors-426.233
+    - ors-426.385
+    - ors-426.415
+    - ors-430.021
+    - ors-654.414
+  implemented_by: []
+  references_external: []
+  related:
+    - oha-osh-6-005
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/6.003%20Seclusion%20or%20Restraints/6.003%20Seclusion%20or%20Restraint.pdf> (retrieved 2026-07-21).
+
+# Seclusion or Restraints (OSH Policy 6.003)
+
+## At a glance
+
+OSH Policy 6.003 — Seclusion or Restraints. Oregon State Hospital (Oregon Health Authority). Effective January 15, 2026.
+
+## Full text
+
+                       OREGON STATE HOSPITAL
+                                            POLICY
+
+SECTION 6:         Patient Care                                              POLICY: 6.003
+
+SUBJECT:           Seclusion or Restraint
+
+POINT PERSON:      Chief Medical Officer
+
+APPROVED:          Jim Diegel                                     0ATE:JANUARY15. 2026
+
+                   Interim Superintendent
+
+SELECT ONE:      r- New policy                          r. Minor/technical revision of
+                                                           existing policy
+
+                 r Reaffirmation of existing policy     r Major revision of existing policy
+
+ I. PURPOSE AND APPLICABILITY
+   A. Oregon State Hospital (OSH) will provide for the safe and appropriate use of
+      seclusion or restraint when clinically justified by behavior that presents an
+      immediate danger of harm to self or others.
+   B. This policy applies to all staff.
+
+II. GUIDELINES
+   A. All patients have the right to be free from seclusion or restraint of any form that is
+      imposed as a means of coercion, discipline, convenience, or retaliation by staff.
+      Non-physical interventions must be tried before the use of seclusion or restraint,
+      except in situations where the patient's behavior presents an immediate danger.
+      When seclusion or restraint is no longer indicated, the intervention will be
+      terminated.
+   B. Indications
+      1. Seclusion or restraint may be used when less restrictive means are not
+          sufficient to protect the physical safety of patients, staff members, or others.
+      2. Seclusion or restraint may only be used for the management of dangerous
+         behavior that presents an immediate risk of harm to the patient or others.
+      3. Secure transport restraints are only indicated for transporting patients outside
+          of the hospital and managed by security staff.
+
+   C. Orders
+      1. Each episode of seclusion or restraint will be initiated upon:
+
+Subject:                                                             Policy Number: 6.003
+              Seclusion or Restraint
+Date:
+              January 15, 2026                                                 P AGE 2 OF 7
+
+           a. The order of a psychiatric practitioner who is responsible for the patient, or
+           b. By a trained registered nurse (RN) when they determine it is necessary to
+              protect the patient or others. If a trained RN initiates seclusion or restraint
+              before a psychiatric practitioner’s order, an order from a responsible
+              psychiatric practitioner will be obtained as soon as clinically possible,
+              typically within 15 minutes.
+           c. The treating or attending psychiatric practitioner who ordered the
+              intervention must review and sign the initial Seclusion or Restraint (S/R)
+              order.
+
+        2. Notification of a psychiatric practitioner: The psychiatric practitioner assigned
+           to the regular care of the patient (attending), or their designee, will be notified
+           of the seclusion or restraint episode.
+        3. PRN orders for seclusion or restraint will not be used for patients, except in the
+           following circumstances:
+           a. The use of a "Geri chair" is required with the tray locked to support safety
+               out of bed,
+           b. Bed (side) rails are needed as a restraint to keep the patient from getting
+               out of bed without assistance due to the patient’s condition, or
+           c. Interventions intended to protect the patient from repetitive self-mutilating
+               behavior.
+
+        4. Duration of seclusion or restraint orders for dangerous behavior:
+           a. Orders for seclusion or restraint applied to manage dangerous behavior
+              will remain in effect until no longer necessary. Each order is completed in
+              4-hour increments and may be renewed if clinically indicated.
+
+        5. Evaluation of seclusion or restraint:
+           a. Ongoing face-to-face requirements:
+              i. Seclusion lasting longer than 24 hours requires a face-to-face
+                  evaluation by a psychiatric practitioner, with ongoing face-to-face
+                  evaluations conducted at regular 24-hour intervals until the patient is
+                  released. The 24-hour interval is based on the start time of the
+                  restricted intervention.
+              ii. Restraints lasting longer than 8 hours require a face-to-face evaluation
+                  by a psychiatric practitioner, with ongoing face-to-face evaluations
+                  conducted at regular 8-hour intervals until the patient is released. The
+                  8-hour interval is based on the start time of the restricted intervention.
+           b. Seclusion lasting longer than 24 hours, or restraint lasting longer than 8
+              hours, or a combination of seclusion and restraint lasting longer than 24
+
+Subject:                                                             Policy Number: 6.003
+              Seclusion or Restraint
+Date:
+              January 15, 2026                                                 P AGE 3 OF 7
+
+               hours requires documentation from the extended seclusion restraint
+               consult team (ESRCT). (Procedure A)
+
+        6. Any modification to an existing order of restraint (i.e., application of a chest
+           strap, or atypical application of restraint) requires a new order and face-to-
+           face assessment by the licensed clinician. Removal of restraint does not
+           require a new order or face-to-face assessment by the psychiatric
+           practitioner.
+        7. Any modification to an existing order of seclusion (i.e., placement into
+           restraints) requires a new order and face-to-face assessment by the
+           psychiatric practitioner. The removal of seclusion does not require a new
+           order or face-to-face assessment by the psychiatric practitioner.
+        8. Temporary Release: A new restraint order is not required when
+           restraining devices are temporarily released and reapplied during the
+           provision of care and treatment, such as dressing changes, range of
+           motion exercises, or personal care. A “trial release” of the restraint is not
+           allowed.
+
+  D. Assessment, Monitoring, and Treatment Care Plan
+        1. Restraint for the management of dangerous behavior:
+           a. Assessments: psychiatric practitioners are required to perform a face-to-
+              face evaluation within 1 hour of the initiation of restraint or seclusion. RNs
+              with validated training by a psychiatric practitioner and documented
+              competencies may perform the initial face-to-face assessment. (Note: RN
+              face-to-face assessments are only performed on the Junction City
+              Campus when the Psychiatrist On-Duty is unavailable)
+              i. The face-to-face evaluation includes:
+                   a. An evaluation of the patient’s immediate situation;
+                   b. The patient’s reaction to the intervention;
+                   c. The patient’s medical and behavioral condition; and
+                   d. The need to continue or terminate the restraint or seclusion.
+              ii. Assessments by the psychiatric practitioner and RN for continued
+                   seclusion or restraint will occur as often as indicated by the patient's
+                   physical and mental status, behavior, and environmental
+                   considerations.
+              iii. The RN will assess the patient every hour at a minimum.
+
+           b. Monitoring: Secluded or restrained patients will be monitored by trained
+              and competent individuals.
+
+Subject:                                                           Policy Number: 6.003
+             Seclusion or Restraint
+Date:
+             January 15, 2026                                                P AGE 4 OF 7
+
+              i. Simultaneously restrained and secluded patients will be continually
+                 (defined as ongoing without interruption) monitored via:
+                 a. Face-to-face observation by staff members, or
+                 b. Remote observation by staff members located near the patient
+                    who are viewing a video image of the patient using video,
+                    stationed in close proximity to the patient, and able to intervene
+                    without delay.
+           c. When seclusion and restraint are used simultaneously, staff must
+              document in the medical record the clinical justification for simultaneous
+              use.
+
+           d. Common Examples:
+              i. A patient restrained in a room is not automatically considered secluded
+                   when the ante-room door is left open.
+              ii. If the restraint were removed and both the seclusion room and ante
+                   room doors are closed, then the patient is secluded. This will require a
+                   new order and a new face-to-face by the psychiatric practitioner.
+              iii. If restraint were removed and the patient could freely leave the
+                   seclusion room, the intervention is considered discontinued.
+              iv. If the patient cannot leave because the doors are locked or staff
+                   otherwise prevent exit, the intervention is considered both restraint and
+                   seclusion.
+           e. A patient in restraint and/or seclusion will be continuously monitored with
+              staff documentation at least every 15 minutes.
+
+           f. Treatment Care Plan:
+              i. Upon seclusion or restraint initiation, the RN will develop a patient's
+                  plan of care for seclusion or restraint based on the assessments
+                  described above. The Treatment Care Plan (TCP) will be updated on
+                  the following business day, in consultation with other members of the
+                  clinical team, if possible, to reflect the modification.
+              ii. The RN will notify the patient’s guardian and other identified
+                  individual(s), who have a right to such information, as soon as possible
+                  following a restrictive intervention.
+
+  E. Medical Emergency: In the event of a medical concern or emergency (e.g., fall,
+     seizure, vomiting, etc.), the RN will determine a 2- or 4-person seclusion room
+     entry with “Code Blue” activation if warranted.
+  F. Staff Training: Staff will be trained and able to demonstrate competence in the
+     implementation of seclusion or restraint, application of restraints, monitoring,
+     assessment, and providing care:
+
+ Subject:                                                        Policy Number: 6.003
+               Seclusion or Restraint
+ Date:
+               January 15, 2026                                           P AGE 5 OF 7
+
+         1. Before performing any activities in this policy,
+         2. As a part of new employee orientation, and
+         3. On an annual basis.
+
+   G. Quality Assessment Performance Improvement (QAPI):
+      1. A clinical oversight committee is established to review and evaluate the
+         appropriateness of seclusion and/or restraints, review data, and identify
+         quality improvement opportunities.
+      2. The committee reports to the Quality and Safety Oversight Committee.
+
+   H. Reporting Seclusion and/or Restraint-related Deaths (Please see Policy 6.005
+      Patient Death and Organ Donation).
+
+   I. Seclusion Room Use: The seclusion room may be used for seclusion, restraint,
+      and clinical patient needs (e.g., stimulus reduction, bathroom use, new admission
+      shower, and skin assessment).
+      1. When the room is used for a clinical need:
+         a. the RN will be notified,
+         b. the door will be unlocked, and
+         c. staff will be designated to remain one-to-one with the patient until the
+             patient exits the room.
+   J. Oregon State Hospital (OSH) follows all applicable regulations, including federal
+      and state statutes and rules; Oregon Department of Administrative Services
+      (DAS), Shared Services, and Oregon Health Authority (OHA) policies; and
+      relevant accreditation standards. Such regulations supersede the provisions of
+      this policy unless this policy is more restrictive.
+   K. Failure to comply with this policy or related policy attachments or protocols may
+      be subject to disciplinary action.
+
+III. DEFINITIONS (SEE GLOSSARY)
+
+IV. PROCEDURE
+   Procedures A         Extended Seclusion or Restraint Consult Team
+
+V. ATTACHMENTS
+   Attachment A         SR Staff Training Outline
+
+VI. RELATED OSH FORMS
+   Seclusion/Restraint Orders [76118 MR-4 06/2025, Medical Record Form]
+   Seclusion or Restraint RN Assessment & Release Criteria [Nursing Documentation]
+
+  Subject:                                                               Policy Number: 6.003
+              Seclusion or Restraint
+  Date:
+              January 15, 2026                                                     P AGE 6 OF 7
+
+    Seclusion or Restraint Log
+
+VII. RELATED OSH POLICIES AND PROTOCOLS
+    1.001 Policy Systems at OSH
+    1.003 Incident Reporting
+    6.005 Patient Death and Organ Donation
+    6.010 Patient Observation Enhanced Supervision
+    6.011 Treatment Care Planning
+    6.045 Clinical Documentation
+    6.047 Patient Food
+    6.052 Trauma Screening
+    7.005 Patient Rights
+    7.006 Patient Grievances
+    7.008 Patient Abuse or Mistreatment Allegation Reporting
+    8.019 Staff Response to Alleged Criminal Acts
+    8.380 Code Blue Medical Emergency
+    8.390 Secure Transport Restraints
+    8.040 Acute Milieu Emergency
+    8.041 Patient Personal Searches
+    8.044 Contraband, Prohibited Items, Limited Access Items
+    8.046 Shields
+    9.010 BLS CPR Training and Certification
+    9.020 Training for Staff
+    Nursing Protocol 2.096 Restrictive Event Documentation and Reporting
+
+VIII. REFERENCES
+    42 Code of Federal Regulations § 482.13.
+    Joint Commission Resources, Inc. (2020). The joint commission comprehensive accreditation manual
+    for behavioral health care and human services, CTS.05.05.01. — 05.04.17. Oakbrook Terrace, IL:
+    Author.
+    Joint Commission Resources, Inc. (2020). The joint commission comprehensive accreditation manual
+    for behavioral health care and human services, CTS.05.06.05. — 05.06.35. Oakbrook Terrace, IL:
+    Author. Joint Commission Resources, Inc. (2020).
+    The joint commission comprehensive accreditation manual for behavioral health care and human
+    services, HRM.01.06.07. Oakbrook Terrace, IL: Author.
+    Joint Commission Resources, Inc. (2020). The joint commission comprehensive accreditation manual
+    for hospitals, PC.01.01.01. Oakbrook Terrace, IL: Author.
+    Joint Commission Resources, Inc. (2020). The joint commission comprehensive accreditation manual
+    for hospitals, PC.01.03.03. — PC.01.03.05. Oakbrook Terrace, IL: Author.
+    Joint Commission Resources, Inc. (2020). The joint commission comprehensive accreditation manual
+    for hospitals, PC.03.05.01. — PC.03.05.19. Oakbrook Terrace, IL: Author.
+    Oregon Administrative Rule § 309-033-0530.
+
+Subject:                                                              Policy Number: 6.003
+            Seclusion or Restraint
+Date:
+            January 15, 2026                                                    P AGE 7 OF 7
+
+  Oregon Administrative Rule §§ 309-033-0700 – 309-033-0735. Oregon Administrative Rule § 309-
+  035-0175.
+  Oregon Administrative Rule § 309-035-0205.
+  Oregon Administrative Rule §§ 309-112-0000 – 309-112-0035. Oregon Revised Statute § 124.105.
+  Oregon Revised Statute § 309-112-0015.
+  Oregon Revised Statute §§ 426.070 — 426.072. Oregon Revised Statute § 426.228.
+  Oregon Revised Statute §§ 426.232 — 426.233. Oregon Revised Statute § 426.385.
+  Oregon Revised Statute § 426.415. Oregon Revised Statute § 430.021. Oregon Revised Statute §
+  654.414.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/6.003%20Seclusion%20or%20Restraints/6.003%20Seclusion%20or%20Restraint.pdf> · retrieved 2026-07-21 · sha256 `c90d61d5e1834a76acfb3b21b53d94c6ea10b5c4b6aa8738a57d1fc661d069b4`
+- Snapshot: `_meta/snapshots/oha-osh-6-003.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

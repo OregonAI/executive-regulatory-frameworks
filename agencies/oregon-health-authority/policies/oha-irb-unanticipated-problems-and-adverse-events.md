@@ -1,0 +1,167 @@
+---
+id: oha-irb-unanticipated-problems-and-adverse-events
+title: "Unanticipated Problems and Adverse Events"
+doc_type: policy
+citation: "OHA Public Health IRB — Unanticipated Problems and Adverse Events"
+authority_level: state_policy
+issuing_body: "Oregon Health Authority (Public Health Institutional Review Board)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/Unanticipated%20Problem_Adverse%20Event%202026.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "cdf03eb7d2b8aae1152ca7e1f7a67b2f3ede267e35e3fac3d884062b46c6ca1f"
+effective_date: null
+last_reviewed: null
+source_version: ""
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'institutional-review-board', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/Unanticipated%20Problem_Adverse%20Event%202026.pdf> (retrieved 2026-07-21).
+
+# Unanticipated Problems and Adverse Events (OHA Public Health IRB — Unanticipated Problems and Adverse Events)
+
+## At a glance
+
+OHA Public Health IRB — Unanticipated Problems and Adverse Events — Unanticipated Problems and Adverse Events. Oregon Health Authority (Public Health Institutional Review Board).
+
+## Full text
+
+Public Health Division
+Reports of Unanticipated Problems and Adverse Events
+
+Any unanticipated problems (UAP) or adverse events (AE) involving risks to research subjects as a
+result of their participation in the study must be promptly reported to the Public Health Institutional
+Review Board (PH IRB) for review. More information can be found in the OHRP guidance:
+        - Reviewing and Reporting Unanticipated Problems Involving Risks to Subjects or Others
+            and Adverse Events, and
+        - Reporting Incidents to OHRP (2022)
+
+Definitions:
+   • Adverse event: any untoward or unfavorable medical occurrence in a human subject,
+        including any abnormal sign, symptom, or disease temporally associated with the
+        individual’s participation in the research, whether or not considered related to the subject’s
+        participation in the research. This includes both physical and psychological harms and occurs
+        most commonly in the context of biomedical research.
+   • External Adverse Event: From the perspective of one particular institution engaged in a
+        multicenter clinical trial, those adverse events experienced by subjects enrolled by
+        investigators at other institutions engaged in the clinical trial.
+   • Internal Adverse Event: From the perspective of one particular institution engaged in a
+        multicenter clinical trial, those adverse events experienced by subjects enrolled by the
+        investigators at that institution. In the context of a single-center clinical trial, all AEs would
+        be considered internal.
+   • Unanticipated Problem: Any incident, experience, or outcome that meets all the following
+        criteria:
+            1. Unexpected given the nature of the research procedures and the subject population
+                being studied;
+            2. Related or possibly related to an individual’s participation in the research; and
+            3. Suggests that the research may place subjects or others at increased risk of harm
+                (including physical, psychological, economic or social harm) than was previously
+                known or recognized.
+
+Investigator Responsibility:
+The Principal Investigator must:
+    • Using the PH IRB Unanticipated Problem/Adverse Event Report form, analyze and review
+        the particular incident, experience, or outcome to determine if it is an adverse event, an
+        adverse event that is reportable as an unanticipated problem, or an unanticipated problem.
+    • Submit the form to the PH IRB Administrator, including the Chair and Vice Chair on the e-
+        mail correspondence, within the time frames specified below.
+
+What is Reportable and When to Report:
+If unsure, Principal Investigator’s should always consult with the PH IRB Administrator as soon as
+possible regarding the specific occurrence and whether or not it should be formally reported to the
+IRB. In assessing the situation, the research team should review the provided guidelines and the
+Unanticipated Problem Analysis Chart found on the last pages of the PH IRB Unanticipated
+Problem/Adverse Event Report form as it will assist in deciphering the occurrence as either an
+unanticipated problem or an adverse event.
+
+Formal reports using the PH IRB Unanticipated Problem/Adverse Event Report form must be made
+
+                                                                                               Rev. May 2026
+
+by the Investigator to the PH IRB within the following time frames:
+    • Fatal or potentially life-threatening unexpected problems must be reported to the PH IRB
+        within five (5) working days after the Investigator learns of the event. If it is determined that
+        a change is required to the protocol or consent form due to the event(s), revisions must be
+        made promptly for submission to the PH IRB for review.
+    • All other unexpected problems must be reported to the IRB within fifteen (15) working days
+        of the Investigator learning of the event. Again, if it is determined that a change is required to
+        the protocol or consent form due to the event(s), revisions must be made promptly for
+        submission to the PH IRB for review.
+
+Further, a brief summary of such events must be submitted with the Continuing Review
+Questionnaire or Annual Check-in Form at the time of the yearly update with the PH IRB. The PH
+IRB may also request a report or additional information from the Investigator at any time it deems
+necessary.
+
+PH IRB Review of Submitted Reports:
+Upon receipt of the report, the PH IRB Administrator will conduct an extensive preliminary review
+and assessment to ensure the description of the occurrence corresponds with the context of the
+report, including what the Principal Investigator has distinguished it as. Already taken actions and/or
+proposed changes brought forward by the Investigator as a result of the event will be analyzed by the
+PH IRB using federal guidance to determine whether or not further action or revisions should take
+place. The report will be sent to the PH IRB Chair and/or Vice-Chair by e-mail along with a detailed
+summary, a recommendation for next steps, and a draft determination memo. Either the Chair, Vice-
+Chair, or a designated PH IRB Board member of their choosing, will then provide a formal review.
+Any minor modifications to the protocol or supplemental study documentation that result due to the
+event, may be reviewed and approved in accordance with expedited procedures by the reviewer. If
+any resulting modifications are more-than minor in nature however, they must be brought forward to
+the Full Board. E-mail review and approval will be permissible due to the quick turnaround required
+for such situations. Additionally, if the PH IRB Administrator is not present to provide the pre-
+review, that step may be bypassed.
+
+Notification of Review and Determination:
+Once approved, a copy of the final determination memo will be sent to the Principal Investigator
+explaining the details of the PH IRB’s review, whether or not proposed changes have been approved
+or if further changes are needed, who else, if anyone will be notified, and in some cases whether or
+not the study is suspended or terminated. The Full Board will be notified of the report, actions taken
+as a result of it, and the PH IRB determination, either at the next scheduled PH IRB meeting or
+promptly via e-mail. If at that time additional actions are requested the research team will be
+notified.
+
+   -   Adverse Events: If found to be an adverse event, the PH IRB will review the study protocol
+       to see if a monitoring entity has been designated. If so, the research team will be required to
+       notify the entity so they may too review, as they may subsequently find that per their review
+       it does in fact qualify as an unanticipated problem and thus further reports must be made.
+
+   -   Unanticipated Problems: If found to be an unanticipated problem, the PH IRB will notify the
+       Office for Human Research Protections (OHRP) and the supporting HHS Agency head as is
+       required per federal regulations. The reporting requirements in 45 CFR 46 do not specify a
+       time frame, except to say it must be done in a “prompt” manner. In some instances, it may be
+
+                                                                                               Rev. May 2026
+
+       appropriate for the PH IRB to submit an initial report to OHRP, indicating that a follow-up or
+       final report will follow by a specific date, or when a final determination has been made.
+       - Office for Human Research Protections’ Incident Report Form
+
+Note, proposed modifications that are disapproved by the PH IRB may be appealed by the Principal
+Investigator and the PH IRB may require additional information be submitted by the Investigator,
+Data Safety Monitoring Board, the study sponsor, or the study coordinating center on any event or
+unanticipated problem at any time.
+
+Applicable Regulations:
+45 CFR 46.108
+21 CFR 56.108(b)
+
+                                                                                          Rev. May 2026
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/Unanticipated%20Problem_Adverse%20Event%202026.pdf> · retrieved 2026-07-21 · sha256 `cdf03eb7d2b8aae1152ca7e1f7a67b2f3ede267e35e3fac3d884062b46c6ca1f`
+- Snapshot: `_meta/snapshots/oha-irb-unanticipated-problems-and-adverse-events.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

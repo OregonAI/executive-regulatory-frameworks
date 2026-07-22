@@ -1,0 +1,38 @@
+                OREGON STATE HOSPITAL
+                             POLICY ATTACHMENT
+PROCEDURES B:   Medical Record Transportation                        POLICY : 2.014
+
+POINT PERSON:   Health Information Manager
+
+APPROVED:       Interim Superintendent                        DATE: JULY 31, 2024
+
+SELECT ONE:
+
+
+
+
+  RESPONSIBLE                              PROCEDURES
+PERSON/GROUP
+Staff           1. To request approval to remove protected health information
+                   (PHI) from OSH grounds, complete the form, “Request to
+                   Remove Documents”.
+                2. Submit the completed form to the supervisor.
+                3. If permission is obtained, send a copy of the completed form
+                   with the supervisor’s signature to Health Information Manager.
+                4. Follow all provisions of OSH policy 2.014, “Medical Record
+                   Maintenance and Transportation” and DAS policy 107-004-100,
+                   “Transporting Information Assets.”
+                5. Maintain control of PHI during transport.
+                6. Before removing PHI, complete a desk log itemizing the date
+                   and scope of the information being transported, and the patient
+                   medical record number.
+                7. Keep the desk log in the secure work environment, available for
+                   supervisor review.
+                8. Destroy the log after the medical record has been returned to
+                   OSH.
+                9. If PHI is lost, report the loss in accordance with regulation and
+                   Oregon Health Authority policy and related procedures.
+Supervisor      1. Review request to remove PHI and respond in writing with
+                   approval or denial.
+                2. If needed, review the desk log.
+

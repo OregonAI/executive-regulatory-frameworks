@@ -1,0 +1,223 @@
+---
+id: oha-ispo-090-004
+title: "Information Security and Privacy Awareness and Training Policy"
+doc_type: policy
+citation: "ODHS|OHA Policy 090-004"
+authority_level: state_policy
+issuing_body: "Oregon Health Authority (Information Security & Privacy Office)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me090-004.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "6dd4891d1e9d55b8bdaa3d99a9f02744dffd57452a67a8472042d0cd581adacf"
+effective_date: null
+last_reviewed: null
+source_version: ""
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-125-055-0100
+    - oar-125-055-0130
+    - oar-166-300-0040
+    - oar-407-014-0300
+    - oar-407-014-0320
+    - oar-943-014-0300
+    - oar-943-014-0465
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'information-security', 'privacy', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me090-004.pdf> (retrieved 2026-07-21).
+
+# Information Security and Privacy Awareness and Training Policy (ODHS|OHA Policy 090-004)
+
+## At a glance
+
+ODHS|OHA Policy 090-004 — Information Security and Privacy Awareness and Training Policy. Oregon Health Authority (Information Security & Privacy Office).
+
+## Full text
+
+                                     SHARED SERVICES
+                                Office of Information Services
+                           Information Security and Privacy Office
+
+Operational Policy
+Policy title: Information Security and Privacy Awareness and Training Policy
+
+Policy number: ODHSOHA 090-004
+
+Original policy date: 05/17/2004
+
+Last update: 07/01/2026
+
+Approved by: Kris Kautz, OHA and Seth Lyon, ODHS
+
+Purpose
+The Oregon Department of Human Services (ODHS) and the Oregon Health
+Authority (OHA) are committed to protecting the agency’s information assets
+and systems. The purpose of this policy is to establish and sustain an
+appropriate level of protection for information and technology resources through
+security and privacy awareness training
+
+Description
+This policy describes what ODHS and OHA managers must do to make sure all
+staff know about and are trained in information security and privacy policies and
+practices. It also describes staff responsibilities to understand and follow
+agency, state, and federal laws, as well as other related requirements.
+
+Applicability
+This policy applies to all ODHS and OHA staff, including full-time, part-time,
+contingent, temporary, and limited duration employees, volunteers, trainees,
+and interns. The requirements of this policy also apply to contractors, grantees,
+and partners in their delivery of goods or services to or on behalf of either
+agency, as required under the applicable contract, grant, or other form of
+agreement.
+
+                                        1 of 5              ODHSOHA 090-004 (07/2026)
+
+As keepers of the public trust, all ODHS and OHA staff play a vital role in
+upholding state and agency policies, administrative rules, and state and federal
+laws. ODHS and OHA are committed to exceptional public and customer
+service. The agencies are dedicated to maintaining standards of exceptional
+service and trust staff to do the same. Failure to follow policies, rules and laws
+may result in beginning a personnel process to consider formal action as
+appropriate, including progressive discipline up to and including dismissal from
+state service.
+
+Policy
+1. ODHS and OHA staff shall complete security and privacy awareness training
+    within 30 days of beginning work on behalf of the agency and annually, or
+    when required by system changes or significant events, or when there is a
+    change in role.1
+2. Staff must complete required role-based training as determined by access
+    requirements, including but not limited to criminal justice information (CJI) or
+    federal tax information (FTI).
+3. All ODHS and OHA staff (OR#) shall follow current and ongoing information
+    security and privacy training curriculum and phishing awareness program
+    expectations2 provided by the Department of Administrative Services (DAS).3
+    a. The information security and privacy awareness and training curriculum
+       must be reviewed annually and when required by system changes or
+       following significant events.4
+    b. DAS is responsible for maintaining and updating this curriculum.
+4. Partners, providers, contractors, volunteers, and non-state affiliates (P#) are
+    required to complete the initial and annual agency information security and
+    privacy awareness training. If following their own curriculum, they must
+    request an exception by email at
+    ispo.awarenesseducation@odhsoha.oregon.gov.
+
+1
+  Statewide IT Control Standards AT-2a
+2
+  Enterprise Information Services (EIS) Phishing Awareness Program
+3
+  DAS 107-004-052 Cyber and Information Security Policy
+4
+  Statewide IT Control Standards AT-2c
+
+                                                    2 of 5           ODHSOHA 090-004 (07/2026)
+
+5. Managers or program sponsors who are designated as accountable for
+   oversight of a program, project, or functional area involving partners,
+   providers, contractors, volunteers and non-state affiliates shall ensure all
+   staff are aware of their responsibilities for the security and privacy of
+   information assets and systems under agency, state and federal law and
+   requirements.
+6. Records related to information security and privacy training shall be
+   systematically maintained and tracked by ODHS and OHA within the
+   enterprise Human Resources Information System (HRIS).
+  c. Security and privacy training records shall be maintained a minimum of
+     three years or by applicable special record retention rules, whichever is
+     longer
+7. Training records shall be audited annually to ensure compliance.
+
+8. Records related to information security and privacy training for partners,
+   providers, contractors, volunteers, and non-state affiliates shall be
+   systematically maintained and tracked by program sponsors or managers.
+
+References
+45 CFR 160 General Administrative Requirements
+45 CFR 164 Security and Privacy
+Oregon Administrative Rules (OARs) 125-055-0100 to 125-055-0130 HIPAA
+Privacy and Security Rule Implementations; HITECH Act Implementation
+OARs 166-300-0040(11) Personnel Records
+OARs 407-014-0300 to 407-014-0320 Privacy and Confidentiality
+OARs 943-014-0300 to 943-014-0465 Privacy and Confidentiality
+Acceptable Risk Controls for Affordable Care Act (ACA), Medicaid, and Partner
+Entities (ARC-AMPE)
+Criminal Justice Information Services (CJIS) Security Policy
+Enterprise Information Services (EIS) Phishing Awareness Program
+Federal Information Processing Standards (FIPS) Publication (Pub) 200 Minimum
+Security Requirements for Federal Information and Information Systems
+IRS Publication 1075, Tax Information Security Guidelines for Federal, State and
+Local Agencies
+
+                                       3 of 5           ODHSOHA 090-004 (07/2026)
+
+National Institute of Standards and Technology (NIST) Special Publication (SP)
+800-50 Rev 1 Building a Cybersecurity and Privacy Learning Program
+National Institute of Standards and Technology (NIST) 800-53 Rev. 5 Security and
+Privacy Controls for Information Systems and Organizations
+Social Security Administration Information Exchange Security Requirements and
+Procedures
+Statewide Information Technology (IT) Control Standards
+ODHSOHA Agency Information Security Plan
+Center for Internet Security Controls
+ODHSOHA 090-005-01 Information Security Incident Reporting Process
+ODHSOHA 090-003-08 Third Party Entity Approval for System Access – Agency
+Partners
+ODHSOHA 090-003-10 Third Party Entity Approval for System Access – Agency
+Contractors
+
+Related policies
+DAS 107-001-020 Public Records Management
+DAS 107-004-120 Cyber and Information Security Incident Response
+ODHSOHA 100-012 Enforcement of Individual Privacy Violations
+
+This policy shall be reviewed at least once every year to ensure relevance.
+
+Contact
+Information Security and Privacy Office (ISPO)
+
+ispo.awarenesseducation@odhsoha.oregon.gov
+
+Policy history
+Version 1 DHS090-004 established 05/17/2004
+Replaced by joint policy
+Version 1 DHSOHA 090-004 established 3/11/15
+Version 1 DHSOHA 090-004 reviewed annually 03/04/16
+Version 2 DHSOHA 090-004 revised 12/20/2017
+Version 2 DHSOHA 090-004 reviewed annually 04/01/2019
+Version 2 ODHSOHA 090-004 reviewed annually 11/02/2020
+
+                                       4 of 5           ODHSOHA 090-004 (07/2026)
+
+Version 2 ODHSOHA 090-004 reviewed annually 10/04/2021
+Version 3 ODHSOHA 090-004 revised 04/15/2025
+Version 4 ODHSOHA 090-004 revised 07/01/2026
+
+Keywords
+Access, curriculum, phishing
+
+You can get this document in other languages, large print, braille or a format you
+prefer free of charge. Contact Publications and Creative Services at dhs-
+oha.publicationrequest@odhsoha.oregon.gov or 503-373-1342. We accept all
+relay calls.
+
+                                       5 of 5            ODHSOHA 090-004 (07/2026)
+
+## Provenance & change history
+
+- Source: <https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me090-004.pdf> · retrieved 2026-07-21 · sha256 `6dd4891d1e9d55b8bdaa3d99a9f02744dffd57452a67a8472042d0cd581adacf`
+- Snapshot: `_meta/snapshots/oha-ispo-090-004.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

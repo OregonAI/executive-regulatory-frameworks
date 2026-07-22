@@ -26,6 +26,7 @@ relationships:
   implements: []
   implemented_by:
     - das-60-000-03
+    - oha-osh-5-002
   references_external: []
   related: []
   supersedes: []

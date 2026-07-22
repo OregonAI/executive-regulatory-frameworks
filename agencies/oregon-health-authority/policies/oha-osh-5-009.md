@@ -1,0 +1,203 @@
+---
+id: oha-osh-5-009
+title: "Staff Patient Relationships"
+doc_type: policy
+citation: "OSH Policy 5.009"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/5.009%20Staff%20Patient%20Relationships/5.009%20Staff%20and%20Patient%20Relationships.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "36265b4fc5c2c1ced36ae94fa90ae5f945623872216b6c0ee3e3dc91b8e2591a"
+effective_date: "2024-02-28"
+last_reviewed: null
+source_version: "Effective February 28, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-309-102-0100
+    - oar-419-120-0000
+    - oar-419-120-0070
+    - ors-163.448
+    - ors-163.454
+    - ors-426.385
+  implemented_by: []
+  references_external: []
+  related:
+    - oha-osh-5-014
+    - oha-osh-7-008
+    - oha-osh-8-026
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/5.009%20Staff%20Patient%20Relationships/5.009%20Staff%20and%20Patient%20Relationships.pdf> (retrieved 2026-07-21).
+
+# Staff Patient Relationships (OSH Policy 5.009)
+
+## At a glance
+
+OSH Policy 5.009 — Staff Patient Relationships. Oregon State Hospital (Oregon Health Authority). Effective February 28, 2024.
+
+## Full text
+
+                         OREGON STATE HOSPITAL
+                                             POLICY
+  SECTION 5:         Human Resources Management                               POLICY: 5.009
+
+  SUBJECT:           Staff and Patient Relationships
+
+  POINT PERSON:      Chief Financial Officer/Chief Operations Officer
+
+  APPROVED:          Dolores Matteucci                                  DATE: February 28, 2024
+
+                     Superintendent
+
+  SELECT ONE:
+
+I.    PURPOSE AND APPLICABILITY
+      A. This policy establishes Oregon State Hospital (OSH) parameters for staff and
+         patient relationships.
+      B. This policy applies to all staff.
+
+II.   POLICY
+      A. OSH recognizes professional relationship boundaries between staff and patients
+         are essential to effective and ethical patient care. A relationship between a staff
+         member and a patient must be guided by and be consistent with therapeutic
+         relationship objectives.
+      B. Staff may not establish a relationship with a patient (e.g., develop personal
+         friendships, make after-work social arrangements) beyond the level directed by
+         the staff member’s position description and professional therapeutic relationship
+         boundaries.
+         1. Questions regarding the propriety of a relationship with a patient must be
+            referred in writing to the staff member's supervisor and Human Resources for
+            review and counsel. The supervisor must respond in writing and send a copy
+            to Human Resources.
+         2. Staff may not accept a gift from a patient unless the gift is made by the
+            patient, is worth less than $3.00, stays in the work area, and the patient’s IDT
+            approved the request. Staff may not accept any type of donation from a
+            patient. Any gift from a patient worth less than $3.00 and which is considered
+            abandoned or unreturnable must be given to Volunteer Services Donations
+
+SUBJECT: Staff and Patient Relationships                         POLICY NUMBER: 5.009
+
+DATE:      February 28, 2024                                                PAGE 2 OF 4
+
+        Program (see OSH policy 4.011, “Donations, Contributions, and Charitable
+        Fundraising”).
+  C. Staff may not exploit the patient emotionally, sexually (e.g., inappropriate
+     touching, kissing, fondling), financially, or in any other way (see OSH policy
+     7.008, “Patient Abuse or Mistreatment Allegation Reporting). Staff may not
+     conduct economic transactions, borrow, give, or loan services or personal
+     property, including money with a patient (see OSH policy 4.010, “Patient Funds”).
+     Exploitation of a patient must be reported in accordance with OSH Policy 7.008,
+     “Patient Abuse or Mistreatment Allegation Reporting”.
+  D. Staff may not discuss personal matters, including other staff’s personal lives, with
+     a patient or within a patient’s hearing. Self-disclosure may be used on occasion
+     as a planned intervention but only by staff who have appropriate skills and
+     professional training.
+  E. Staff must show respect to patients consistent with therapeutic relationship and
+     cultural sensitivity principles.
+     1. A patient must be addressed respectfully by their first name, last name, or a
+        nickname of their preference.
+     2. Staff may not use verbally-abusive language or humor to or about a patient,
+        including but not limited to calling names, demeaning, cursing, mocking, or
+        using sexually-provocative language. Staff may not use pet names or terms of
+        endearment which could be considered inappropriate, patronizing,
+        infantilizing, or sexually harassing.
+     3. Staff must refer a patient’s spiritual or religious questions to the
+        interdisciplinary treatment team (IDT) or the Spiritual Care Department.
+     4. Staff participation in approved hospital-wide or program leisure/recreational
+        activities during work hours is for the sole purpose of engaging participation of
+        patients. Neither employees nor patients shall engage in highly competitive,
+        aggressive sports activities, which expose participants to unnecessary risk of
+        physical injury.
+     5. When planning or participating in leisure/recreational activities with patients,
+        staff must be aware of and consider the power dynamic between staff and
+        patients. Staff must also be aware of and consider the impact “winning”
+        and/or “losing” may have on the patient.
+     6. Physical conduct such as “horseplay” or “rough housing” is prohibited.
+  F. When a patient is admitted who is known to a staff member (e.g., friend,
+     acquaintance, relative), they must immediately notify their direct supervisor.
+
+       SUBJECT: Staff and Patient Relationships                          POLICY NUMBER: 5.009
+
+       DATE:      February 28 2024                                                   PAGE 3 OF 4
+
+            Together, they shall collaborate with Human Resources to develop a plan of
+            action such as a change of assignment or other measures.
+         G. Staff, including former staff, may not visit a patient at OSH unless an exception is
+            granted by the Superintendent per OSH Policy 8.026, “Visitors to Patients.”
+         H. When a patient is discharged, staff must terminate the relationship.
+            1. If there is an extenuating circumstance where an outpatient relationship is
+               necessary, the matter must be referred in writing to the staff member’s
+               supervisor for review and approval. The supervisor must respond in writing
+               and send a copy to Human Resources.
+            2. When an outpatient relationship does exist, staff must document the situation
+               in patient’s medical records.
+         I. Staff must handle potential conflicts of interest or dual relationships as a result of
+            employment at OSH in accordance with OSH Policy 5.014, “Conflict of Interest”.
+         J. Oregon State Hospital (OSH) follows all applicable regulations, including federal
+            and state statutes and rules; Oregon Department of Administrative Services
+            (DAS), Shared Services, and Oregon Health Authority (OHA) policies; and
+            relevant accreditation standards. Such regulations supersede the provisions of
+            this policy unless this policy is more restrictive.
+         K. Staff who fail to comply with this policy or related policy attachments or protocols
+            may be subject to disciplinary action, up to and including dismissal.
+
+III.     DEFINITIONS
+         A. “Dual relationship" means a staff member has both a therapeutic relationship with
+            a patient and a personal relationship with that same patient involving satisfaction
+            of mutual needs (e.g., providing treatment services to a family member or close
+            friend, or developing a close personal relationship with a person after having a
+            therapeutic relationship with them).
+         B. “Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
+            and other state employees assigned to work at Oregon State Hospital (OSH).
+         C. "Therapeutic relationship" means a planned, purposeful interaction between a
+            staff member and a patient. It is a goal-directed relationship in which the staff
+            member accepts the patient as a human being with dignity and establishes and
+            maintains trust in order to effect a beneficial change in the patient's response to
+            the patient’s problems. This type of relationship exists solely for the patient's
+            therapeutic benefit.
+
+      SUBJECT: Staff and Patient Relationships                        POLICY NUMBER: 5.009
+
+      DATE:        February 28, 2024                                           PAGE 4 OF 4
+
+IV.     RELATED OSH POLICIES AND PROTOCOLS
+        2.008 Privacy and Security of Patient Information
+        4.010 Patient Funds
+        4.011 Donations, Contributions, and Charitable Fundraising
+        5.004 Valuing Diversity
+        5.014 Conflict of Interest
+        5.017 Dress Code for Staff
+        6.016 Sexual Activity Involving Patients
+        6.061 Transgender and Gender Non-Conforming Treatment
+        7.002 Media Access for Patients
+        7.005 Patient Rights
+        7.008 Patient Abuse or Mistreatment Allegation Reporting
+        8.019 Staff Response to Alleged Criminal Acts and Contraband
+        8.026 Visitors to Patients
+        8.037 Patient Property and Valuables: Handling and Storage
+
+V.      REFERENCES
+        Oregon Administrative Rule §§ 309-102-0100 — 309-118-0150.
+        Oregon Administrative Rule §§ 419-120-0000 — 419-120-0070.
+        Oregon Revised Statute §§ 163.448 — 163.454.
+        Oregon Revised Statute § 426.385.
+        Shared Services. Conflict of interest, DHS-060-002. Author.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/5.009%20Staff%20Patient%20Relationships/5.009%20Staff%20and%20Patient%20Relationships.pdf> · retrieved 2026-07-21 · sha256 `36265b4fc5c2c1ced36ae94fa90ae5f945623872216b6c0ee3e3dc91b8e2591a`
+- Snapshot: `_meta/snapshots/oha-osh-5-009.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

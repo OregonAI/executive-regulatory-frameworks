@@ -1,0 +1,200 @@
+---
+id: oha-osh-5-018
+title: "Volunteers"
+doc_type: policy
+citation: "OSH Policy 5.018"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/5.018%20Volunteers/5.018%20Volunteers.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "385e271e3eb56aae9186f0bc1ec97d80da58f44a517687f698a174c991f71a7a"
+effective_date: "2024-11-15"
+last_reviewed: null
+source_version: "Effective NOVEMBER 15, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-407-043-0020
+    - ors-409.360
+    - ors-413.036
+    - ors-426.385
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/5.018%20Volunteers/5.018%20Volunteers.pdf> (retrieved 2026-07-21).
+
+# Volunteers (OSH Policy 5.018)
+
+## At a glance
+
+OSH Policy 5.018 — Volunteers. Oregon State Hospital (Oregon Health Authority). Effective NOVEMBER 15, 2024.
+
+## Full text
+
+                      OREGON STATE HOSPITAL
+                                           POLICY
+SECTION 5:        Human Resources                                           POLICY: 5.018
+
+SUBJECT:          Volunteers
+
+POINT PERSON:     Deputy Superintendent
+
+APPROVED:         Sara Walker, MD                              DATE: NOVEMBER 15, 2024
+
+                  Interim Superintendent
+
+SELECT ONE:
+
+ I. PURPOSE AND APPLICABILITY
+   A. Oregon State Hospital (OSH) maintain a volunteer services program individuals
+      and groups can volunteer to provide services to patients or others at OSH. This
+      policy outlines the parameters for volunteer services, and the requirements of
+      anyone interested in volunteering at OSH.
+   B. This policy applies to all staff.
+
+II. POLICY
+   A. A volunteer means anyone who is approved by Volunteer Services to provide
+      services at OSH without remuneration, including but not limited to a one-time
+      professional volunteer.
+      1. An individual who provides a professional service or educational visit within
+         one eight-hour period as a one-time, approved, registered, volunteer is
+         considered a one-time professional volunteer.
+   B. A volunteer may not provide clinical care to patients, except as outlined in this
+      policy.
+      1. Pre-approved, trained volunteer support may be utilized for direct patient care
+         in specific situations as identified by emergency operations and as approved
+         per instance by the superintendent or designee.
+      2. In specific situations as identified by emergency operations, the
+         superintendent or designee may grant temporary approval for the utilization of
+         pre-approved, trained, and specifically qualified volunteer support for direct
+         patient care under the supervision of OSH management. Such volunteers
+
+Subject:                                                              Policy Number: 5.018
+              Volunteers
+Date:
+              November 15, 2024                                              P AGE 2 OF 4
+
+           must maintain any active licenses or continued education for the roles
+           performed and will only be authorized to provide direct patient care for the
+           duration of the identified temporary need (and will be relieved of direct patient
+           care duties as soon as adequate employee coverage is possible).
+  C. Before any person volunteers at OSH, they must complete the volunteer
+     application process and orientation, or briefing required by Volunteer Services
+     and applicable OSH policies.
+  D. Each volunteer will be assigned a supervisor who is responsible for their
+     necessary site or program orientation, training, supervision, assignments, and
+     evaluation. The supervisor must coordinate all volunteer positions and status
+     changes with Volunteer Services.
+  E. Volunteer Services must maintain a personnel file on all volunteers. At minimum,
+     the file must contain a position description describing the duties to be performed,
+     all completed orientation papers, the Human Resources criminal or background
+     check results notification statement, and other materials as directed by the
+     Volunteer Services Director.
+  F. Volunteers must follow all applicable laws or regulations, OSH policies and
+     procedures, and program or department protocols. If a volunteer does not follow
+     these regulations, the Director of Volunteer Services or designee, Human
+     Resource Analyst or hospital leadership may dismiss the volunteer.
+  G. Staff may volunteer if the volunteer work is substantially different from the
+     individual's assigned work (i.e., the volunteer work is not in the same
+     occupational category as defined by the Dictionary of Occupational Titles) and all
+     approvals are in place prior to the volunteer work being conducted.
+  H. A former patient may serve in a volunteer capacity at OSH if:
+        1. they were discharged from OSH more than one year before applying to
+           volunteer,
+        2. there is a demonstrated need for the volunteer activity,
+        3. the director or supervisor of the area in which the individual would volunteer
+           deems that volunteering would be consistent with their continued
+           development as a former patient, and
+        4. their community caregiver, if applicable, agrees to the volunteer arrangement.
+  I. A current patient may serve in a volunteer capacity at OSH if:
+        1. the patient expresses a desire to volunteer,
+        2. the patient’s interdisciplinary treatment team (IDT) determines that
+           volunteering is consistent with the patient's treatment program,
+
+ Subject:                                                               Policy Number: 5.018
+               Volunteers
+ Date:
+               November 15, 2024                                                P AGE 3 OF 4
+
+         3. the IDT provides a demonstrated need for the patient's volunteer activity to
+            Vocational Services, and
+         4. the patient’s volunteer activities are consistent with patient rights as set forth
+            in Oregon Revised Statute 426.385.
+            a. A patient's volunteer activities must be recreational in nature and may not
+               be construed as, nor confused with, work activities. Allowed recreational
+               activities include, but are not limited to arts and crafts, playing games,
+               general visiting, taking walks, field trips, recreational gardening.
+            b. A patient may not provide patient care (e.g., changing beds, bathing,
+               feeding, toileting), kitchen work, custodial work, plant maintenance and
+               repair, or grounds work (e.g., mowing and watering lawns, trimming
+               hedges and trees).
+   J. OSH follows all applicable regulations, including federal and state statutes and
+      rules; Oregon Department of Administrative Services (DAS), Shared Services,
+      and Oregon Health Authority (OHA) policies; and relevant accreditation
+      standards. Such regulations supersede the provisions of this policy unless this
+      policy is more restrictive.
+   K. Staff who fail to comply with this policy or related policy attachments or protocols
+      may be subject to disciplinary action, up to and including dismissal.
+
+III. DEFINITIONS
+   A. “Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
+      and other state employees assigned to work at Oregon State Hospital (OSH).
+
+IV. PROCEDURES
+   Procedures A        Volunteering, Standard Procedures
+
+V. RELATED OSH POLICIES AND PROTOCOLS
+   8.004 Criminal Offender Information Access
+   5.017 Dress code for Staff Author.
+   2.013 Electronic Health Record Access
+   5.028 Electronic Time Management System
+   4.006 Meal service for Staff and Others
+   8.007 Identification Badges
+   9.010 Interns
+
+ Subject:                                                                    Policy Number: 5.018
+              Volunteers
+ Date:
+              November 15, 2024                                                       P AGE 4 OF 4
+
+   8.021 Key Inventory and Control
+   7.008 Patient Abuse or Mistreatment Allegation Reporting
+   5.009 Staff and Patient Relationships
+   8.006 Vehicle Usage
+   8.026 Visitors to Patients
+
+VI. REFERENCES
+   Fair Labor Standards Act, 29 U.S.C. § 8 (1938)
+   Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual
+       for behavioral health care, CTS.06.01.03. Oakbrook Terrace, IL: Author.
+   Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation manual
+       for hospitals, EM.12.02.07. Oakbrook Terrace, IL: Author.
+   Oregon Administrative Rule § 407-043-0020.
+   Oregon Department of Administrative Services Policy Manual. Fair Labor Standards Act (FLSA),
+      20.005.20.
+   Oregon Department of Administrative Services Policy Manual. Liability self-insurance policy manual,
+      125-7-201. Risk Management.
+   Oregon Department of Human Services. Background Checks on DHS Volunteers, DHS-060-010-04.
+   Oregon Revised Statute § 409.360.
+   Oregon Revised Statute § 413.036.
+   Oregon Revised Statute § 426.385.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/5.018%20Volunteers/5.018%20Volunteers.pdf> · retrieved 2026-07-21 · sha256 `385e271e3eb56aae9186f0bc1ec97d80da58f44a517687f698a174c991f71a7a`
+- Snapshot: `_meta/snapshots/oha-osh-5-018.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

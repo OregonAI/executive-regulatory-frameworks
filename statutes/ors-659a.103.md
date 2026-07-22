@@ -52,6 +52,8 @@ relationships:
     - oar-839-006-0330
     - oar-839-006-0335
     - oar-839-006-0340
+    - oha-osh-1-012
+    - oha-osh-5-007
   references_external: []
   related: []
   supersedes: []

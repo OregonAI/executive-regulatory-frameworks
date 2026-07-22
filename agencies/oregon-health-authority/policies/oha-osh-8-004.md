@@ -1,0 +1,235 @@
+---
+id: oha-osh-8-004
+title: "Criminal Offender Information Access"
+doc_type: policy
+citation: "OSH Policy 8.004"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/8.004%20Criminal%20Offender%20Information%20Access/8.004%20Criminal%20Offender%20Information%20Access.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "4ac6c2245dd816c1f5858ba5a9e5977f87eadd4ff37981719725c8ac49b4f177"
+effective_date: "2023-05-30"
+last_reviewed: null
+source_version: "Effective MAY 30, 2023"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-257-010-0010
+    - oar-257-010-0060
+    - oar-407-007-0000
+    - oar-407-007-0460
+    - oar-943-007-0001
+    - ors-161.327
+    - ors-161.370
+    - ors-426.095
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/8.004%20Criminal%20Offender%20Information%20Access/8.004%20Criminal%20Offender%20Information%20Access.pdf> (retrieved 2026-07-21).
+
+# Criminal Offender Information Access (OSH Policy 8.004)
+
+## At a glance
+
+OSH Policy 8.004 — Criminal Offender Information Access. Oregon State Hospital (Oregon Health Authority). Effective MAY 30, 2023.
+
+## Full text
+
+                         OREGON STATE HOSPITAL
+                                             POLICY
+  SECTION 8:         Safety, Security, Emergency                              POLICY: 8.004
+                     Management
+
+  SUBJECT:           Criminal Offender Information Access
+
+  POINT PERSON:      Chief Financial Officer/Chief Operations Officer
+
+  APPROVED:          Dolores Matteucci                                  DATE: MAY 30, 2023
+
+                     Superintendent
+
+  SELECT ONE:                                               Minor/technical revision of
+                     New policy
+                                                            existing policy
+
+                     Reaffirmation of existing policy       Major revision of existing policy
+
+I.    PURPOSE AND APPLICABILITY
+      A. This policy establishes Oregon State Hospital (OSH) parameters for access to
+         criminal history information.
+      B. This policy applies to all staff.
+
+II.   POLICY
+      A. OSH requires access to criminal history information to perform its designated
+         functions, including:
+         1. Providing secure evaluation and treatment plans, services, and setting for
+            persons committed to Oregon Health Authority (OHA);
+         2. Consulting with the courts in commitment proceedings in assessing a
+            person's dangerousness before the court's decision;
+         3. Reporting and clearing of patients on unauthorized leave from OSH;
+         4. Screening of visitors to patients; and
+         5. Screening applicants for employment, transfer, promotion, volunteer services,
+            or internship, and contract employees who may have direct contact with
+            patients or adults in custody.
+      B. OSH restricts use of criminal offender information in accordance with set
+         guidelines. Information received from the Oregon State Police, including Law
+         Enforcement Data System (LEDS) reports, may not be used for any purpose
+
+SUBJECT: Criminal Offender Information Access                   POLICY NUMBER: 8.004
+
+DATE:      May 30, 2023                                                    PAGE 2 OF 5
+
+     other than that for which it is obtained and may not be disseminated to
+     unauthorized persons or agencies.
+     1. In the event that patient criminal offender information is requested, staff must
+        adhere to OSH’s policies and procedures regarding release of information.
+     2. LEDS reports obtained for the purposes stated in this policy may not be
+        released from OSH.
+     3. LEDS reports or documents containing LEDS information must be maintained
+        in secure files until destroyed and must be treated in a manner that does not
+        permit use in later proceedings.
+     4. LEDS reports may not be printed or stored outside the designated LEDS
+        folder.
+     5. LEDS reports may not be included in patient files, including the medical
+        record.
+     6. LEDS reports shall be deleted from the LEDS folder after three months.
+  C. A request for patient criminal offender information may be made and viewed only
+     by Criminal Justice Information System (CJIS)-cleared staff involved in diagnosis,
+     evaluation, or treatment of:
+     1. A person currently receiving care and treatment at OSH; or
+     2. A person committed or who is being considered for commitment as a patient.
+  D. The Admissions Office and Forensic Evaluation Services shall complete a
+     request for LEDS before each patient admission.
+  E. Criminal history information for employment, volunteering, or internship may be
+     used only as a reference to identify the source of original records or in direct
+     discussion with a subject individual with the Office of Human Resources.
+  F. Criminal offender information relating to a subject individual for employment or a
+     current staff shall be processed in accordance with OSH policy 5.021,
+     “Background Checks for Staff,” and applicable rules.
+     1. The applicant must sign a consent authorizing the criminal offender
+        information check.
+     2. A refusal to sign a consent form for a criminal records review or a false
+        swearing to an arrest or non-conviction of a crime may be cause to deny
+        employment, volunteer position, or internship.
+
+       SUBJECT: Criminal Offender Information Access                    POLICY NUMBER: 8.004
+
+       DATE:      May 30, 2023                                                      PAGE 3 OF 5
+
+            3. Further checks may be made when the Superintendent or Human Resources
+               Manager determines such review is necessary.
+         G. Any staff must notify the office of Human Resources (HR) manager within five
+            days upon being arrested, charged, or convicted for any crime per OAR 407-007-
+            0020. Conviction of a crime may be cause for termination of employment,
+            volunteer position, internship, or contractor status.
+         H. LEDS requests shall be addressed in a timely manner per Procedures A.
+         I. Staff performing designated functions for OSH must complete CJIS security
+            training before accessing LEDS reports and must re-certify every two years for
+            continued access.
+         A. State Hospital (OSH) follows all applicable regulations, including federal and
+            state statutes and rules; Oregon Department of Administrative Services (DAS),
+            Shared Services, and Oregon Health Authority (OHA) policies; and relevant
+            accreditation standards. Such regulations supersede the provisions of this policy
+            unless this policy is more restrictive.
+         B. Staff who fail to comply with this policy or related policy attachments or protocols
+            may be subject to disciplinary action, up to and including dismissal.
+
+III.     DEFINITIONS
+         A. “Adult(s) in custody” is as defined in OSH policy 5.016, “Adults in Custody
+            Workforce.” Adult in custody in this policy means any person working at OSH
+            through the Adult in Custody Work Program under the supervision of the
+            Department of Corrections (DOC) and who is not on parole, post-prison
+            supervision, or probation status. Adults in custody in this policy does not refer to
+            Oregon State Hospital patients.
+         B. "Criminal offender information" includes records of arrests and the nature and
+            disposition of criminal charges, including sentencing, confinement, and release.
+            For the purposes of this policy, criminal offender information means information
+            obtained from LEDS reports.
+         C. “Law Enforcement Data System (LEDS)” refers to a system that contains
+            statewide criminal offender information.
+         D. “Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
+            and other state employees assigned to work at Oregon State Hospital (OSH).
+         E. “Subject individual” has the same meaning as the definition in OAR 407-007-
+            0010.
+
+IV.      PROCEDURES
+
+       SUBJECT: Criminal Offender Information Access                           POLICY NUMBER: 8.004
+
+       DATE:       May 30, 2023                                                             PAGE 4 OF 5
+
+         Procedures A       Law Enforcement Data Systems (LEDS) Requests
+
+ V.      ATTACHMENTS
+
+VI.      RELATED OSH POLICIES AND PROTOCOLS
+         2.006 Public Records Retention and Destruction
+         2.008 Privacy and Security of Patient Information
+         2.018 Complete Medical Record
+         5.003 Driver License Record and Vehicle Registration Access
+         5.008 Equal Opportunity Employment or Non-Discrimination
+         5.016 Adults in Custody Workforce
+         5.018 Volunteers
+         5.021 Background Checks for Staff
+         6.021 Release of Information, Communication with Family, Others
+         6.045 Clinical Documentation
+         7.014 Medical Records Patient Requests
+         8.018 Unauthorized Leave
+         8.026 Visitors to Patients
+         9.010 Interns
+
+VII.     REFERENCES
+         Department of Human Services. Criminal history checks, 060-010. Author.
+
+         Department of Human Services. Background checks procedure on non-institution DHS employees,
+         060-010-01. Author.
+
+         Department of Human Services. Background checks procedure on institution DHS employees, 060-
+         010-02. Author.
+
+         Department of Human Services. Reporting of new criminal or abuse activity procedure, 060-010-03.
+         Author.
+
+         Department of Human Services. Background checks procedure on volunteers, 060-010-04. Author.
+
+         Oregon Administrative Rule, §§257-010-0010 —257-010-0060.
+
+         Oregon Administrative Rule §309-106-010.
+
+         Oregon Administrative Rule §§407-007-0000 — 407-007-0460.
+
+SUBJECT: Criminal Offender Information Access                              POLICY NUMBER: 8.004
+
+DATE:        May 30, 2023                                                              PAGE 5 OF 5
+
+  Oregon Administrative Rule §943-007-0001.
+
+  Oregon Revised Statute §161.370.
+
+  Oregon Revised Statute §161.327.
+
+  Oregon Revised Statute §§181.010 — 181.540.
+
+  Oregon Revised Statute §426.095.
+
+  US Department of Justice, Criminal Justice Information Services (CJIS) Security Policy Version 5.6.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/8.004%20Criminal%20Offender%20Information%20Access/8.004%20Criminal%20Offender%20Information%20Access.pdf> · retrieved 2026-07-21 · sha256 `4ac6c2245dd816c1f5858ba5a9e5977f87eadd4ff37981719725c8ac49b4f177`
+- Snapshot: `_meta/snapshots/oha-osh-8-004.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

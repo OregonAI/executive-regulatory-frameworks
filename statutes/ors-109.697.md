@@ -24,7 +24,8 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by: []
+  implemented_by:
+    - oha-irb-children-participation-in-research
   references_external: []
   related: []
   supersedes: []

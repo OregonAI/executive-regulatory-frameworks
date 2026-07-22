@@ -1,0 +1,215 @@
+                         OREGON STATE HOSPITAL
+                                              POLICY
+  SECTION 6:         Patient Care                                             POLICY: 6.045
+
+  SUBJECT:           Clinical Documentation
+
+  POINT PERSON:      Health Information Director
+
+  APPROVED:          Dolores Matteucci                                DATE: MARCH 9, 2023
+
+                     Superintendent
+
+  SELECT ONE:                                               Minor/technical revision of
+                     New policy
+                                                            existing policy
+
+                     Reaffirmation of existing policy       Major revision of existing policy
+
+I.    PURPOSE AND APPLICABILITY
+      A. A patient’s medical record is systematic documentation about a patient’s
+         condition, care, and treatment. Clinical documentation chronicles information
+         about patients and their medical history; their responses to care, treatment, and
+         services; and progress towards treatment goals. It is maintained for purposes of
+         communication, accountability, and coordination of care and services.
+      B. This policy establishes clinical documentation requirements, processes, and style
+         guide information. This policy also describes draft note reports as found in the
+         electronic health record (EHR).
+      C. This policy applies to all staff.
+
+II.   POLICY
+      A. At Oregon State Hospital (OSH), the medical record is contained in the
+         designated blue medical record binder, brown medical record folders, or EHR.
+      B. Staff must complete and document required assessments as indicated by
+         applicable regulations, discipline-specific standards of practice, and department
+         protocols.
+         1. Staff must document clinical findings and observations about patients’
+            response to treatment and their progress towards treatment plan goals
+            generally on the date of service/observation. If staff cannot document on date
+            of service, the entry must be labeled as a late entry per this policy.
+         2. Staff are responsible for the accuracy and necessity of their documentation.
+SUBJECT: Clinical Documentation                                      POLICY NUMBER: 6.045
+
+DATE:      March 9, 2023                                                         PAGE 2 OF 6
+
+     3. Documentation must be recorded in the correct medical record section.
+  C. Only individuals authorized by OSH may document in the medical record.
+     1. Staff must document with their own unique electronic medical record log-in.
+        They may not share their log-in information with anyone else.
+     2. Staff must clearly identify when care has been rendered by another person.
+        They may not document an entry for another staff member.
+  D. Documentation must conform to acceptable clinical documentation and medical
+     record standards.
+     1. Proper spelling, grammar, and military time must be used in handwritten
+        entries.
+     2. Symbols, abbreviations, and acronyms may be used sparingly.
+        a. If used, abbreviations and acronyms should be spelled out and/or defined
+           the first time they are used in a document (e.g., treatment care plan
+           [TCP]). All subsequent uses in the same document may use the
+           abbreviation or acronym.
+        b. Only abbreviations accepted by Medical and Allied Health Professional
+           Staff (MAHPS) may be used in the medical record.
+     3. Every document filed in the paper medical record must include, at minimum,
+        the patient's first and last name and medical record number on both front and
+        back of the form.
+     4. If clinically appropriate, the name and title of other staff may be documented
+        in the medical record.
+     5. A patient’s identifying information (e.g., name, initials, or medical record
+        number) may not be recorded in any other patient’s medical record.
+     6. Every entry in the medical record must be authenticated (i.e., finalized) with:
+        a. A legible printed name, credentials or working title, and a signature or
+           initials. If initials are used in place of a signature, the initials of both the
+           first and last name must be included;
+        b. Date (including month, day, and year); and
+        c. Time.
+     7. Unless legitimately necessary, staff should avoid cloning (i.e., copying and
+        pasting) information from previous documentation. If information is cloned,
+        staff must include the original date, author, and source document.
+     8. Removable notes or Post-its may not be used for documentation purposes
+        and may not be retained in the medical record.
+SUBJECT: Clinical Documentation                                   POLICY NUMBER: 6.045
+
+DATE:      March 9, 2023                                                     PAGE 3 OF 6
+
+  E. All EHR draft status entries must be finalized within 48 hours of initiating the
+     entry. Staff should follow Procedures A to process draft documents.
+  F. Progress notes must be completed in accordance with 42 Code of Federal
+     Regulations (CFR) 412.27(c)(4) and 42 CFR 482.61(d).
+     1. The Doctor of Medicine or osteopathy responsible for the care of the patient,
+        Nursing, and Social Work must document progress notes at least weekly for
+        the first 2 months and at least one a month thereafter; and
+     2. All disciplines significantly involved in active treatment modalities must
+        document progress notes per frequency of services provided and as
+        necessary as determined by the condition of the patient (i.e., as indicated per
+        acuity of clinical presentation).
+  G. Treatment Group Notes
+     1. Group Leaders are responsible to complete group notes for each group
+        meeting based on the group meeting schedule.
+     2. Group notes must be documented as soon as possible, but no later than one
+        calendar week following the group session where services are provided.
+         a. Group notes not completed on the date of service/observation must be
+            identified as a late entry per this policy, even if still within the week
+            deadline.
+         b. If something clinically significant occurs during a group, staff must
+            document about the situation promptly on the date of service/observation.
+  H. Late Entries
+     1. It is expected that staff document notes on the date of service/observation.
+        However, extenuating circumstances may prevent this from happening on
+        occasion. Any progress note or group note not finalized on the date of
+        service/observation must be identified as a late entry.
+     2. Late entries must be clearly identified at the beginning of the entry and
+        reference the actual date and time of the service provided, observation,
+        and/or event.
+  I. Editing Medical Record Entries
+     1. In the EHR, the “append” function may only be used for its defined and
+        intended purpose.
+         a. The original author may use the append function to correct or clarify an
+            entry.
+       SUBJECT: Clinical Documentation                                  POLICY NUMBER: 6.045
+
+       DATE:      March 9, 2023                                                    PAGE 4 OF 6
+
+                b. A supervisor may use the append function to cosign, comment, or clarify
+                   information; to acknowledge a subordinate’s entry; or to close
+                   documentation not finalized by the original author if they are not available.
+                c. Staff may not use the append function to comment on another staff
+                   member’s entry.
+            2. Corrections to a medical record entry can be made by:
+                a. Paper - the original author may correct an entry by drawing a single line
+                   through it, initialing, and dating the correction.
+                b. Electronic – the original author should contact the OSH Health Information
+                   Department for specific guidance on correcting an entry in the EHR.
+         J. In the event of EHR downtime, staff must follow business continuity processes
+            and documentation procedures as outlined in the EHR “Downtime Binder” on
+            each unit. Paper records entered in the EHR after the downtime should be
+            designated as “downtime late entries.”
+         K. Only the Medical Records Committee may authorize an alternate clinical
+            documentation process for good cause.
+         L. Oregon State Hospital (OSH) follows all applicable regulations, including federal
+            and state statutes and rules; Oregon Department of Administrative Services
+            (DAS), Shared Services, and Oregon Health Authority (OHA) policies; and
+            relevant accreditation standards. Such regulations supersede the provisions of
+            this policy unless this policy is more restrictive.
+         M. Staff who fail to comply with this policy or related policy attachments or protocols
+            may be subject to disciplinary action, up to and including dismissal.
+
+III.     DEFINITIONS
+         A. “Cloning” refers to “copying-and-pasting” blocks of text from one document to
+            another. Cloning includes information located in pre-populated fields from earlier
+            documents or other medical records.
+         B. “Electronic health record (EHR) downtime” means any period of planned or
+            unplanned time the EHR is unavailable.
+         C. “Military time” refers to sequentially representing time using 24 hours, from 0000
+            [12:00 a.m.] to 2359 [11:59 p.m.].
+         D. “Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
+            and other state employees assigned to work at Oregon State Hospital (OSH).
+
+IV.      PROCEDURES
+       SUBJECT: Clinical Documentation                                            POLICY NUMBER: 6.045
+
+       DATE:        March 9, 2023                                                              PAGE 5 OF 6
+
+         Procedures A        Draft Clinical Documentation Notes
+
+ V.      ATTACHMENTS
+
+VI.      RELATED OSH POLICIES AND PROTOCOLS
+         2.009 Medical Record Forms Management
+         2.013 Electronic Health Record Access
+         2.014 Medical Record Maintenance and Transportation
+         2.018 Complete Medical Record
+         6.011 Treatment Care Planning
+         6.028 Learning Needs Assessment
+         Avatar Data Correction (ADC) form
+         OSH Business Continuity Processes – Avatar Downtime Binder
+
+VII.     REFERENCES
+         42 CFR § 412.27.
+
+         42 CFR § 482.24.
+
+         42 CFR §§ 482.60 – 482.61.
+
+         45 CFR § 164.
+
+         Centers for Medicare and Medicaid Services. (2018). Publication 100-2. Medicare Benefit Policy
+            Manual. Chapter 2.
+
+         Centers for Medicare and Medicaid Services. (2020). Amendments, Corrections and Delayed Entries
+            in Medical Documentation. Publication 100-08. Medicare Program Integrity Manual. Chapter
+            3.3.2.5.
+
+         Joint Commission Resources, Inc. (2023). The joint commission comprehensive accreditation manual
+             for hospitals. IM.01.01.01. — IM.03.01.01. Oakbrook Terrace, IL: Author.
+
+         Joint Commission Resources, Inc. (2023). The joint commission comprehensive accreditation manual
+             for hospitals. LD.04.03.01. Oakbrook Terrace, IL: Author.
+
+         Joint Commission Resources, Inc. (2023). The joint commission comprehensive accreditation manual
+             for hospitals. RC.01.01.01 — RC.02.04.01. Oakbrook Terrace, IL: Author.
+
+         Oregon Administrative Rule § 333-505-0050.
+
+         Oregon Administrative Rule § 333-525-0000.
+
+         Oregon Administrative Rule §§ 851-045-0030 – 851-045-0070.
+
+         Oregon Administrative Rule § 858-010-0060.
+SUBJECT: Clinical Documentation                  POLICY NUMBER: 6.045
+
+DATE:       March 9, 2023                                 PAGE 6 OF 6
+
+  Oregon Administrative Rule § 877-030-0100.
+
+  Oregon Revised Statute §§ 192.553 – 192.568.
+

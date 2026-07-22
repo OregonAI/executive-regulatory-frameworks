@@ -1,0 +1,92 @@
+                    OREGON STATE HOSPITAL
+                                           POLICY
+SECTION 4:       Fiscal                                                   POLICY: 4.007
+
+SUBJECT:         Asset Management
+
+POINT PERSON:    Chief Financial Officer
+
+APPROVED:        Sara Walker, MD                               DATE: JANUARY 15, 2025
+
+                 Interim Superintendent
+
+SELECT ONE:      New policy                             Minor/technical revision of
+                                                        existing policy
+
+                 Reaffirmation of existing policy       Major revision of existing policy
+
+
+ I. PURPOSE AND APPLICABILITY
+   A. This policy establishes Oregon State Hospital (OSH) systems and procedures for
+      asset management.
+   B. This policy applies to all OSH staff involved with procurement and inventory
+      recordkeeping.
+
+II. POLICY
+   A. OSH follows the Department of Administrative Services Oregon Accounting
+      Manual.
+   B. OSH will maintain a system for asset accounting and control to:
+      1. Safeguard assets within OSH against unauthorized use or removal,
+      2. Provide accurate accounting of all State of Oregon assets owned and
+         operated by OSH, including the reconciling and annual reporting of all Capital
+         Assets,
+      3. Assign responsibility to the Materials Distribution Warehouse (MDW) for asset
+         control and management of all Capital Assets,
+      4. Assign responsibility to the Business Office for annual inventory reporting and
+         distribution,
+      5. Assist the Superintendent in the effective management and accountability of
+         property and equipment assets.
+ Subject:                                                            Policy Number: 4.007
+              Asset Management
+ Date:
+              January 15, 2025                                               P AGE 2 OF 3
+
+   C. Staff must follow the attached procedures of this policy for all matters in asset
+      inventory, tracking, and record maintenance.
+         1. Information technology assets are tracked and maintained according to OSH
+            Policy 1.005 “Information Technology Hardware and Software - Purchasing
+            and Use,” and Office of Information Services (OIS) protocol.
+   D. OSH follows all applicable regulations, including federal and state statutes and
+      rules; Oregon Department of Administrative Services (DAS), Shared Services,
+      and Oregon Health Authority (OHA) policies; and relevant accreditation
+      standards. Such regulations supersede the provisions of this policy unless this
+      policy is more restrictive.
+   E. Staff who fail to comply with this policy or related policy attachments or protocols
+      may be subject to disciplinary action, up to and including dismissal.
+
+III. DEFINITIONS
+   A. “Asset” refers to capital and non-capital assets.
+   B. “Capital Asset” means tangible or intangible property used in agency operations
+      having an initial estimated useful life of more than one year and an initial cost
+      (including ancillary charges) of $5,000 or more.
+   C. “Non-Capital Asset” means tangible or intangible property used in agency
+      operations with an initial estimated useful life of one year or more, and an initial
+      cost (including ancillary charges) of less than $5,000.
+   D. “Property Disposition Request (PDR)" means a form that must be completed
+      when an asset is no longer needed or usable for any reason, and removal from
+      the property inventory record is necessary.
+   E. “Property Inventory Record (PIR)” or “Capital Asset Property List (CAPL)" means
+      a computer-generated list of assets which identifies each property, pertinent
+      information regarding each property, and current location for each property.
+   F. “Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
+      and other state employees assigned to work at Oregon State Hospital.
+
+IV. PROCEDURES
+   Procedures A       Asset Inventory, Tracking, and Record Maintenance
+
+V. RELATED OSH POLICIES AND PROTOCOLS
+   1.003 Incident Reporting
+   1.005 Information Technology Hardware and Software - Purchasing and Use
+ Subject:                                                                  Policy Number: 4.007
+               Asset Management
+ Date:
+               January 15, 2025                                                      P AGE 3 OF 3
+
+VI. REFERENCES
+   Department of Administrative Services. Oregon accounting manual. Retrieved from
+         https://www.oregon.gov/das/Financial/Acctng/Pages/OAM.aspx
+   Department of Administrative Services. Oregon accounting manual. Non-capital assets, 15.55.00.
+         Author. Retrieved from https://www.oregon.gov/das/Financial/Acctng/pages/OAM.aspx#acctng
+   Oregon Revised Statute § 278.011.
+   Oregon Revised Statute § 278.050.
+

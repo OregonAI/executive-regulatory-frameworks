@@ -1,0 +1,187 @@
+---
+id: oha-osh-6-062
+title: "Epinephrine Outside the Secure Perimeter"
+doc_type: policy
+citation: "OSH Policy 6.062"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/6.062%20Epinephrine%20Outside%20the%20Secure%20Perimeter/6.062%20Epinephrine%20Outside%20the%20Secure%20Perimeter.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "0f694ce11d74d3d4c6e74a1597e91baab79e14c9cab36b5d94d27ef3eb61956f"
+effective_date: "2024-04-23"
+last_reviewed: null
+source_version: "Effective APRIL 23, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-309-035-0215
+    - oar-851-048-0010
+    - oar-851-048-0060
+    - ors-678.036
+    - ors-678.150
+  implemented_by: []
+  references_external: []
+  related:
+    - oha-osh-9-002
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/6.062%20Epinephrine%20Outside%20the%20Secure%20Perimeter/6.062%20Epinephrine%20Outside%20the%20Secure%20Perimeter.pdf> (retrieved 2026-07-21).
+
+# Epinephrine Outside the Secure Perimeter (OSH Policy 6.062)
+
+## At a glance
+
+OSH Policy 6.062 — Epinephrine Outside the Secure Perimeter. Oregon State Hospital (Oregon Health Authority). Effective APRIL 23, 2024.
+
+## Full text
+
+                      OREGON STATE HOSPITAL
+                                            POLICY
+SECTION 6:         Patient Care                                             POLICY: 6.062
+
+SUBJECT:           Epinephrine Outside the Secure
+                   Perimeter
+
+POINT PERSON:      Chief of Medicine
+
+APPROVED:          Dr. Sara Walker                                   DATE: APRIL 23, 2024
+
+                   Interim Superintendent
+
+SELECT ONE:
+
+PURPOSE AND APPLICABILITY
+A. Purpose Statement: Oregon State Hospital is committed to safely providing
+   epinephrine auto-injector pens (epinephrine) for emergent situations to a patient
+   who has a known hymenoptera venom allergy (e.g., bee or wasp venom) or another
+   serious allergy with the potential to cause anaphylaxis. Epinephrine for a patient
+   may only be dispensed, carried, and used as directed by this policy for situations
+   while they are outside the secure perimeter.
+B. This policy applies to staff to staff and patients
+
+POLICY
+A. Whenever a Staff, or patient agrees to carry and administer epinephrine when
+   needed outside the secure perimeter, the person accepts full responsibility for
+   carrying and administering it in accordance with the provisions of this policy.
+B. A patient may not carry or administer epinephrine to another patient.
+C. Epinephrine may only be dispensed to a staff or patient if:
+         1. The physician/nurse practitioner (NP) has assessed the situation and, if
+            approved,
+         2. Has written an order approving the staff or patient to carry and administer
+            epinephrine when needed.
+D. Before a staff may carry and administer epinephrine while outside the secure
+   perimeter, they must successfully pass the required competency requirements.
+   Only licensed nursing staff, physicians, or NPs may administer epinephrine while
+   outside of the secure perimeter.
+
+Subject:                                                          Policy Number: 6.062
+             Epinephrine Outside the Secure Perimeter
+Date:
+             April 23, 2024                                                 P AGE 2 OF 4
+
+        1. Staff listed in Attachment A must complete applicable epinephrine
+           medication administration competency on hire.
+E. Before a patient may carry and administer epinephrine while outside the secure
+   perimeter, they must be assessed to be capable of safely administering
+   epinephrine. Such education must be documented.
+        1. A registered nurse (RN) must educate the patient who is allowed to carry or
+           administer epinephrine before giving epinephrine to them.
+                a. The RN must re-assess their capability to administer epinephrine
+                  before giving epinephrine to them for subsequent passes or outings. If
+                  needed, the RN must provide additional education and deem they are
+                  capable of safely administering epinephrine.
+                b. At each reassessment, per Nursing Services protocol the RN must
+                  document whether the person is capable of safely administering
+                  epinephrine and whether education was needed or provided.
+        2. The RN must educate the patient as follows:
+                a. Initially and at least annually thereafter, the RN must educate the
+                  patient in epinephrine self-administration.
+                b. In addition, six months after each training the RN must re-assess
+                  whether the patient is capable of safely administering epinephrine and
+                  provide education if needed.
+                c. The RN must document all education results on the appropriate
+                  medical record form.
+F. At minimum, patient education about epinephrine must include:
+        1. Medication name, type, and reason for use;
+        2. how to administer medication, including process, time, frequency, route, and
+           dose;
+        3. Anticipated actions and potential side effects of the medication administered;
+        4. Monitoring the effects of the medication;
+        5. Other special instructions, including instructions that if epinephrine has been
+           administered to a patient, the person must call 911, notify the patient’s unit
+           RN, and call OSH reception; and
+        6. Demonstration that the staff or patient is capable of safely administering
+           epinephrine.
+G. If the RN does not believe the patient is able to carry or administer epinephrine and
+   a licensed nurse or medical staff is not available to accompany the patient, the RN
+   may cancel the outing.
+H. An epinephrine pen must be secured at all times.
+
+Subject:                                                                   Policy Number: 6.062
+               Epinephrine Outside the Secure Perimeter
+Date:
+               April 23, 2024                                                         P AGE 3 OF 4
+
+         1. The medication must be dispensed to the automated dispensing cabinet
+            (ADC) according to Pharmacy processes.
+         2. Staff may not retrieve epinephrine from an emergency kit or the ADC’s
+            emergency supply to send with a patient on an outing or pass.
+         3. The staff or patient allowed by this policy to carry or administer epinephrine
+            must keep it on their person at all times in its sealed security bag until
+            needed for the patient or until returned to the ADC.
+I.   If epinephrine is administered the staff or patient must report the administration to the
+     RN.
+J. Oregon State Hospital (OSH) follows all applicable regulations, including federal
+   and state statutes and rules; Oregon Department of Administrative Services (DAS),
+   Shared Services, and Oregon Health Authority (OHA) policies; and relevant
+   accreditation standards. Such regulations supersede the provisions of this policy
+   unless this policy is more restrictive.
+K. Staff who fail to comply with this policy or related policy attachments or protocols
+   may be subject to disciplinary action, up to and including dismissal.
+
+PROCEDURES
+     Procedures A       Epinephrine Screening, Education and Use
+
+ATTACHMENTS
+     Attachment A       Epinephrine Training List
+
+RELATED OSH POLICIES AND PROTOCOLS
+     OSH Policy 9.002 Training for Staff
+
+REFERENCES
+     42 Code of Federal Regulations § 482.23(c)(6).
+     42 Code of Federal Regulations § 482.25.
+     Joint Commission Resources, Inc. (2019). The joint commission comprehensive accreditation manual
+     for behavioral healthcare, MM 06.01.03. EPs 1-7. Oakbrook Terrace, IL: Author.
+     Joint Commission Resources, Inc. (2019). The joint commission comprehensive accreditation manual
+     for hospitals, MM 06.01.03. EPs 1-7. Oakbrook Terrace, IL: Author.
+     Joint Commission Resources, Inc. (2019). The joint commission comprehensive accreditation manual
+     for hospitals, MM 06.01.01. Oakbrook Terrace, IL: Author.
+     Oregon Administrative Rule § 309-035-0215.
+     Oregon Administrative Rule §§ 851-048-0010 – 851-048-0060.
+     Oregon Revised Statute § 678.036.
+
+Subject:                                               Policy Number: 6.062
+            Epinephrine Outside the Secure Perimeter
+Date:
+            April 23, 2024                                     P AGE 4 OF 4
+
+  Oregon Revised Statute § 678.150.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/6.062%20Epinephrine%20Outside%20the%20Secure%20Perimeter/6.062%20Epinephrine%20Outside%20the%20Secure%20Perimeter.pdf> · retrieved 2026-07-21 · sha256 `0f694ce11d74d3d4c6e74a1597e91baab79e14c9cab36b5d94d27ef3eb61956f`
+- Snapshot: `_meta/snapshots/oha-osh-6-062.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

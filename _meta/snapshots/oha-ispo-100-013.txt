@@ -1,0 +1,135 @@
+                                      SHARED SERVICES
+                             OFFICE OF INFORMATION SERVICES
+                            Information Security and Privacy Office
+
+
+Operational Policy
+Policy Title:     HIPAA: ODHS|OHA Business Associate Relationships
+
+Policy
+                  ODHSOHA 100-013
+Number:
+
+Original Date: 7/22/2014                       Last Update:      11/07/2022
+                  Kris Kautz, OHA Deputy Director
+Approved:
+                  Don Erickson, Chief Administrative Officer, ODHS
+
+Purpose
+This Health Insurance Portability and Accountability Act (HIPAA) policy is one of a
+series that outlines Oregon Department of Human Services (ODHS) and Oregon
+Health Authority (OHA) expectations for the necessary collection, use, and disclosure
+of protected health information (PHI) about individuals in order to provide services and
+benefits while maintaining reasonable safeguards to protect the privacy of their
+information.
+
+ODHS and OHA workforce shall review all ODHS and OHA privacy policies to protect
+individual privacy and ensure compliance.
+Description
+This policy describes the responsibilities of ODHS programs that are business
+associates of OHA when creating, receiving, maintaining, or transmitting individual
+PHI.
+
+Applicability
+This policy applies to all ODHS and OHA staff including employees, volunteers,
+interns, and agency contractors employed by or doing business with the covered entity
+components of OHA or the business associate components of ODHS.
+
+As keepers of the public trust, all agency employees have a responsibility to comply
+with state and agency policies, administrative rule, and state and federal law. The
+agency takes this responsibility seriously and failure to fulfill this responsibility is not
+treated lightly. Employees who fail to comply with state or agency policy, administrative
+rule, or state and federal law may face progressive discipline, up to and including
+dismissal from state service.
+Policy
+1. A covered entity is a health plan, health care clearinghouse, or any health care
+   provider which transmits protected health information (PHI) in electronic form in
+   connection with transactions for which the U.S. Department of Health and Human
+   Services (DHHS) has adopted standards under the Health Insurance Portability and
+   Accountability Act (HIPAA).
+2. A business associate in general is a person or entity that, on behalf of the covered
+   entity component of OHA or a business associate component of an ODHS program,
+   creates, receives, maintains, or transmits PHI as detailed by the Health Insurance
+   Portability and Accountability Act (HIPAA) and Health Information Technology for
+   Economic and Clinical Health Act (HITECH).
+3. Due to functions performed by certain ODHS programs on behalf of OHA, some
+   programs are considered and defined as business associates of OHA.
+4. ODHS and OHA contract administrators shall review contracts to ensure a business
+   associate agreement is in place for relationships, when appropriate.
+5. When OHA covered entity components or ODHS business associate components
+   are engaged in a relationship with an external entity that involves creating,
+   receiving, maintaining, or transmitting PHI:
+   a. The agency program most directly involved in that relationship shall determine
+      whether the external entity is a business associate.
+   b. The agency program is responsible for communicating the relationship to ODHS
+      and OHA contract administrators and ISPO.
+6. Staff who are unclear about the activities or services performed by the agency that
+   creates a business associate relationship as defined by HIPAA, shall contact ISPO.
+7. Staff shall complete required privacy and security training and review of agency
+   policies as follows:
+   a. Staff shall complete all required training assigned by the Department of
+      Administrative Services (DAS); and
+   b. Partner and contractor staff shall complete all required privacy and security
+      training within 30 days of accessing ODHS and OHA information.
+8. Staff shall adhere to ODHS privacy and security policies as outlined by DAS and
+   ISPO.
+9. Examples of ODHS programs who have been identified as performing business
+   associate functions include but are not limited to:
+   a. Office of Developmental Disability Services (ODDS)
+   b. Facilities
+   c. Internal Audits
+   d. Office of Payment Accuracy and Recovery (OPAR)
+   e. Office of Program Integrity (OPI)
+                                                                              Page |2
+   f. Aging and People with Disabilities (APD)
+   g. Office of Business Intelligence (OBI)
+   h. Office of Contracts and Procurement (OC&P)
+   i. Office of Legal and Client Relations
+10. When any ODHS or external entity staff learns of a practice or pattern of activity
+   that constitutes a data breach or violation of the business associate’s obligation
+   under the HIPAA Privacy and Security rule, related Oregon Administrative Rules
+   (OARs), the contract, or other agreement:
+   a. ISPO and OC&P shall be notified.
+   b. ISPO and OC&P shall consult on contract breaches, mitigation, and corrective
+      action plans, up to and including terminating the business associate contract.
+
+References
+45 CFR 160 General Administrative Requirements
+45 CFR 164 Security and Privacy
+OAR 407-014-0050 Business Associate
+OAR 943-014 Privacy and Confidentiality
+OAR 943-014-0015 Covered Entity Status for Purposes of the HIPAA Privacy Rules
+
+
+Contacts
+Information Security and Privacy Office (ISPO)
+Phone: 503-945-6812 (Security)
+        503-945-5780 (Privacy)
+Fax: 503-947-5396
+dhsinfo.security@odhsoha.oregon.gov
+privacyoffice@odhsoha.oregon.gov
+
+Policy History
+Version 1 Established 7/22/2014
+Reviewed 10/03/2016
+Version 2 ODHS|OHA 100-013 established 11/07/2022
+
+To request this policy in another format or language, contact the Publications
+and Design Section at 503-378-3486, 711 for TTY, or email dhs-
+oha.publicationrequest@odhsoha.oregon.gov.
+
+Keywords
+Business associate, contract, covered entity, external entity, HIPAA, protected health
+information, PHI
+                                                                                Page |3
+This document can be provided upon request in an alternate format for individuals with
+disabilities or in a language other than English for people with limited English skills. To
+request this document in another format or language, contact the Publications and
+Design Section at 503-378-3486, 7-1-1 for TTY, or email dhs-
+oha.publicationrequest@odhsoha.oregon.gov.
+
+
+
+
+                                                                                  Page |4
+

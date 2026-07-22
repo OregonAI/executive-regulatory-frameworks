@@ -1,0 +1,145 @@
+---
+id: oha-osh-8-031
+title: "Personal Protective Equipment"
+doc_type: policy
+citation: "OSH Policy 8.031"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/8.031%20Personal%20Protective%20Equipment/8.031%20Procedures%20A%20-%20PPE%20Specific%20Guidance.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "4c1ddedbcd6a1c9d6d518e8ff8f11288c4b55137e8a949049ecf8c616aeb7562"
+effective_date: "2024-10-15"
+last_reviewed: null
+source_version: "Effective October 15, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/8.031%20Personal%20Protective%20Equipment/8.031%20Procedures%20A%20-%20PPE%20Specific%20Guidance.pdf> (retrieved 2026-07-21).
+
+# Personal Protective Equipment (OSH Policy 8.031)
+
+## At a glance
+
+OSH Policy 8.031 — Personal Protective Equipment. Oregon State Hospital (Oregon Health Authority). Effective October 15, 2024.
+
+## Full text
+
+                  OREGON STATE HOSPITAL
+                                  POLICY ATTACHMENT
+    PROCEDURES A: Personal Protective Equipment Specific               POLICY : 8.031
+                       Guidance
+
+    POINT PERSON:      Director of Safety
+
+    APPROVED:          Interim Superintendent              DATE: October 15, 2024
+
+    SELECT ONE:
+
+ Personal Protective
+                                                    Procedures
+     Equipment
+Gloves for patient        1. Staff will have access to single-use nitrile gloves and other
+contact and general          non-latex gloves.
+cleaning                  2. Staff with an allergy or sensitivity to nitrile may order
+                             reusable cotton liner gloves available through Warehouse.
+                          3. Alternatively, staff with a nitrile allergy or sensitivity may
+                             obtain a note from their primary care provider attesting to
+                             the sensitivity or allergy and submit the note to a
+                             manager.
+                                 a. The manager must submit the note to Human
+                                     Resources.
+                                 b. Human Resources will authorize the staff member’s
+                                     work area to purchase other non-latex gloves.
+                          4. All gloves must be immediately removed upon completion
+                             of the task for which the gloves were donned. Staff must
+                             change gloves between every patient contact. Gloves
+                             must be disposed of in regular trash bags and
+                             receptacles.
+Surgical Masks            1. Staff are required to wear surgical masks when patients
+                             are ill from an acute respiratory illness, or per infection
+                             control procedures, or based on Chief Medical Officer’s
+                             “mask on” directives.
+                          2. Mask must be worn completely over the nose and mouth
+                             and fit snugly against the sides of face without gaps.
+
+PROCEDURES A   Personal Protective Equipment Specific                POLICY NUMBER 8.031
+               Guidance
+
+DATE           October 15, 2024                                               PAGE 2 of 3
+
+                         3. Masks must be disposed of in regular trash bags and
+                            receptacles and replaced when visibly soiled, damaged, or
+                            when saturated with respiratory secretions or based on
+                            specific hospital wide or infection control procedures.
+Eye & Face Protection    1. Staff must inspect and check eye and face protection
+(Goggles/Face Shields)      before and after each use for damage, excessive wear, or
+                            missing pieces.
+                                a. Staff must remove damaged or broken eye and
+                                    face protection from work areas to avoid being use.
+                                b. Management must conduct routine inspections and
+                                    checks to ensure eye and face protection are free
+                                    of defects and replace as necessary.
+                         2. Eye and face protection will be worn in work areas or
+                            during procedures which are known or likely or suspected
+                            to cause droplets, splashing, spraying, spitting or flying
+                            particles.
+                         3. Eye and face protection must be washed and disinfected
+                            using non-abrasive soap and water following each use
+                            and any time they become contaminated.
+Gowns                    1. Gowns must be worn during procedures in which the
+                            possibility or likelihood of splashing, spraying, infesting, or
+                            soiling of clothing may occur. Gowns must also be worn in
+                            accordance with any isolation or quarantine precautions in
+                            effect.
+                         2. Gowns must be removed before leaving the room in which
+                            the procedure took place or immediately upon completion
+                            of the task for which PPE is required. Gowns must be
+                            disposed of in regular trash bags and receptables.
+Shoe Covers              1. Show covers should be used when blood and body fluid
+                            spills or floor contamination is recognized or anticipated.
+                         2. Shoe covers must be removed and disposed of in regular
+                            trash bags and receptables at the site of use after the
+                            affected area is cleaned and disinfected.
+N-95 Filtered       1. Requires completion of fit test process in Procedure B
+Facepiece/CAPR/PAPR    prior to issue and use.
+                    2. Staff will be provided with initial and refresher training on
+                       how to maintain and use the N-95 mask during their fit
+                       testing.
+
+PROCEDURES A   Personal Protective Equipment Specific                POLICY NUMBER 8.031
+               Guidance
+
+DATE           October 15, 2024                                               PAGE 3 of 3
+
+                         3. N-95’s should be replaced and disposed of in regular
+                            trash bags and receptables when wet, soiled, damaged,
+                            or as otherwise determined by the Safety Office.
+Full and Half-Face       1. Requires completion of fit test process in Procedure B
+Respirators                 prior to issue and use, and with recertification annually.
+(Occupational            2. Staff will be provided with initial and refresher training on
+Exposure)                   how to maintain and use full and half-face respirators
+                            during thier fit testing.
+                         3. Individually issued and maintained by the user.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/8.031%20Personal%20Protective%20Equipment/8.031%20Procedures%20A%20-%20PPE%20Specific%20Guidance.pdf> · retrieved 2026-07-21 · sha256 `4c1ddedbcd6a1c9d6d518e8ff8f11288c4b55137e8a949049ecf8c616aeb7562`
+- Snapshot: `_meta/snapshots/oha-osh-8-031.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

@@ -1,0 +1,200 @@
+---
+id: oha-osh-2-013
+title: "Electronic Health Record Access"
+doc_type: policy
+citation: "OSH Policy 2.013"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/2.013%20Electronic%20Health%20Record%20Access/2.013%20Electronic%20Health%20Record%20Access.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "4f7318340556d8793a4822a4f366f1964046d1b0277b34cdf771dae7924f8331"
+effective_date: "2024-07-17"
+last_reviewed: null
+source_version: "Effective JULY 17, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - ors-179.505
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/2.013%20Electronic%20Health%20Record%20Access/2.013%20Electronic%20Health%20Record%20Access.pdf> (retrieved 2026-07-21).
+
+# Electronic Health Record Access (OSH Policy 2.013)
+
+## At a glance
+
+OSH Policy 2.013 — Electronic Health Record Access. Oregon State Hospital (Oregon Health Authority). Effective JULY 17, 2024.
+
+## Full text
+
+                    OREGON STATE HOSPITAL
+                                             POLICY
+SECTION 2:        Clinical Support                                        POLICY: 2.013
+
+SUBJECT:          Electronic Health Record Access
+
+POINT PERSON:     Health information Director
+
+APPROVED:         Sara Walker, MD                                  DATE: JULY 17, 2024
+
+                  Interim Superintendent
+
+SELECT ONE:
+
+I. PURPOSE AND APPLICABILITY
+  A. Oregon State Hospital (OSH) will provide limited access to a patient’s medical
+     record via the electronic health record (EHR) to those with a “need to know”,
+     while maintaining compliance with appropriate regulatory bodies and the Health
+     Insurance Portability and Accountability Act (HIPAA) rules and standards
+
+  B. This policy applies to all OSH staff.
+
+II. POLICY
+   A. Before access will be granted, a sponsor seeking access for any person to any
+      of OSH’s EHR information must verify the following forms are complete and
+      submitted before or on the first day of the requested access date:
+        1. ODHSIOHA Office of Information Services Individual Access
+           Request (MSC 0786),
+        2. OSH Confidentiality and Access Agreement (OSH-STK 76113), and
+        3. any additional paperwork required to process and address security
+           and firewall-related issues.
+   B. Each sponsor is responsible to verify access rights are modified or deleted
+      by submitting the MSC 0786 form as the user’s role changes or if they
+      leave OSH.
+   C. The Health Information (HI) Director or designee will determine approval for
+      exceptions to a standard user role dependent upon the level of access
+
+Subject:                                                          Policy Number: 2.013
+             Electronic Health Record Access
+Date:        July 17, 2024                                                   P AGE 2 OF 4
+
+        required for the position.
+         1. The HI Director or designee may either deny or grant access on a
+            case-by- case basis. Consideration will include at minimum:
+            a. level of security risk, including contract verification and
+               Information Security and Privacy Office (ISPO) access
+               agreement;
+            b. physical environment, including remote access;
+             c. training and role of the requestor; and
+            d. HIPAA-related principles of “need to know” and “minimum necessary.”
+         2. If access is granted, an appropriate user role must be specified.
+  D. A new EHR user who attends standard EHR training through New Employee
+     Orientation (NEO) must also complete the appropriate level of training
+     related to the assigned user role.
+         1. The user role will determine the level of access and training requirements.
+         2. Training must include at least the following:
+            a. the EHR and access to EHR data, reports, or screens; and
+            b. privacy and security of protected health information.
+         3. The Learning and Development Department (L&DD) will update
+            the Centralized Personnel Database (CPD) with the completed
+            training information.
+   E. Exceptions to EHR standard training must be coordinated with L&DD.
+  F. Anyone who learns of misuse or inappropriate access to EHR must report the
+     misuse or inappropriate access as indicated in Oregon Health Authority (OHA)
+     policy ODHS/OHA 100-014, “Report and Response to Privacy Incidents”,
+     including reporting to Human Resources, the sponsor, and the Health
+     Information Manager.
+         1. The user’s access may be suspended until further investigation is complete.
+         2. The HI Director has final authority to allow or terminate access.
+   G. Deactivation of a user account must be done upon request or at the end
+      of employment upon notification by the updated Individual Access
+      Request form and in the CPD report.
+  H. For security purposes, EHR accounts may be deactivated after four months
+     of inactivity and may require the individual to complete an EHR refresher
+     training.
+         1. If an account was deactivated due to inactivity, the sponsor and HI
+            Manager must approve before account reactivation.
+
+ Subject:                                                      Policy Number: 2.013
+            Electronic Health Record Access
+ Date:      July 17, 2024                                                  P AGE 3 OF 4
+
+         2. Requests for a user role change such as modification to an existing role,
+            creation of a new user role, etc., must be directed to the HI Manager for
+            review and approval.
+     I. This policy applies to all staff, including employees, volunteers, trainees,
+        interns, contractors, vendors, and other state employees assigned to work
+        at OSH, and other persons who request access to the EHR.
+     J. OSH follows all applicable regulations, including federal and state statutes
+        and rules; Oregon Department of Administrative Services, Shared
+        Services, and Oregon Health Authority policies; and relevant accreditation
+        standards. Such regulations supersede the provisions of this policy unless
+        this policy is more restrictive.
+     K. Staff who fail to comply with this policy or related procedures may be
+        subject to disciplinary action, up to and including dismissal.
+
+ III. DEFINITIONS
+“Electronic health record (EHR)” means health-related information on an individual that
+     is created, gathered, managed, and consulted by authorized staff.
+“Health Insurance Portability and Accountability Act of 1996 (HIPAA)” and its regulations
+(the "Privacy Rule" and the "Security Rule") protect the privacy of an individual’s health
+information, and governs the way health care providers collect, maintain, use and
+disclose protected health information (“PHI”).
+“Minimum necessary” means using or disclosing the smallest amount of PHI necessary
+to complete the job and is a guiding principle from the HIPAA privacy regulations.
+“Need to know” means the minimum amount of PHI needed to complete a particular job
+and is a guiding principle from the HIPAA privacy regulations.
+“Sponsor” means the OSH employee ultimately responsible for the supervision,
+management, and monitoring of the requestor’s presence and need for EHR access. In
+this policy, “sponsor” may also refer to the sponsor’s designee with signing authority.
+“Staff” includes employees, volunteers, trainees, interns, contractors, vendors, and
+other state employees assigned to work at Oregon State Hospital (OSH).
+
+IV. ATTACHMENTS
+     Attachment A     Avatar Account Creation Process
+
+Subject:                                                               Policy Number: 2.013
+            Electronic Health Record Access
+Date:       July 17, 2024                                                           P AGE 4 OF 4
+
+V. RELATED OSH POLICIES AND PROTOCOLS
+    1.014 Data governance
+    2.104 Medical record maintenance and transportation
+    6.045 Clinical documentation
+    9.010 Interns
+
+VI. REFERENCES
+    42 CFR § 482.24.
+
+    42 U.S.C. § 1320.
+
+    45 CFR § 160.
+
+    45 CFR § 162.
+
+    45 CFR § 164.
+
+    Department of Human Services/Oregon Health Authority. Access Control Policy, 090-003. Author.
+    ODHSIOHA Office of Information Services Individual Access Request, MSC 0786 [Office of
+    Information
+        Services form].
+    Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation
+        manual for hospitals, IM.01.01.01 — IM.03.01.01. Oakbrook Terrace, IL: Author.
+
+    Joint Commission Resources, Inc. (2024). The joint commission comprehensive accreditation
+        manual for hospitals, RC.01.04.01 EP 1. Oakbrook Terrace, IL: Author.
+
+    Oregon Revised Statute § 179.505.
+
+    Oregon state hospital confidentiality and access agreement, OSH-STK 76113 [form].
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/2.013%20Electronic%20Health%20Record%20Access/2.013%20Electronic%20Health%20Record%20Access.pdf> · retrieved 2026-07-21 · sha256 `4f7318340556d8793a4822a4f366f1964046d1b0277b34cdf771dae7924f8331`
+- Snapshot: `_meta/snapshots/oha-osh-2-013.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

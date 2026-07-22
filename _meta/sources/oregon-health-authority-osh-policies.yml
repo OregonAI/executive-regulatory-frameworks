@@ -1,0 +1,768 @@
+group: oregon-health-authority-osh-policies
+title: Oregon State Hospital (OHA) policies
+kind: content-hash
+recheck: monthly
+last_checked: '2026-07-21'
+upstream_signal: 'SharePoint document library (/oha/OSH/Policies), queried via RenderListDataAsStream.
+  Freshness: re-query and diff the file set; re-hash members.'
+sources:
+- id: oha-osh-1-010
+  url: https://www.oregon.gov/oha/OSH/Policies/1.010%20Research%20at%20OSH/1.010%20Research%20at%20OSH.pdf
+  sha256: 53cc6a4448b72bf2dbfc1c6d1c7e312a6a31c5b0dd9e80dbcf6557562e22ff7a
+  last_checked: '2026-07-21'
+  notes: Research at OSH (OSH Policy 1.010)
+- id: oha-osh-1-015
+  url: https://www.oregon.gov/oha/OSH/Policies/1.015%20Notarial%20Services/1.015%20Notarial%20Services.pdf
+  sha256: 9857fdf80f0961c8d1e1ae236b88bc1cfe6a31e55313d279595e5104ea17ee6d
+  last_checked: '2026-07-21'
+  notes: Notarial Services (OSH Policy 1.015)
+- id: oha-osh-2-009
+  url: https://www.oregon.gov/oha/OSH/Policies/2.009%20Medical%20Record%20Forms%20Management/2.009%20Medical%20Record%20Forms%20Management.pdf
+  sha256: 47feea245e53b259cc007a173ba65e610a6c860712f10894d0533577168692b5
+  last_checked: '2026-07-21'
+  notes: Medical Record Forms Management (OSH Policy 2.009)
+- id: oha-osh-2-010
+  url: https://www.oregon.gov/oha/OSH/Policies/2.010%20Notification%20Regarding%20Fire-setters%20and%20Arsonists/2.010%20Notification%20Regarding%20Fire-setters%20and%20Arsonists.pdf
+  sha256: 5f8cffd22bef7ac39d4a1d79d88fc7e7aa2298d860c3157df739d093d6bcbc17
+  last_checked: '2026-07-21'
+  notes: Notification Regarding Fire-setters and Arsonists (OSH Policy 2.010)
+- id: oha-osh-2-016
+  url: https://www.oregon.gov/oha/OSH/Policies/2.016%20Clinical%20Practice%20Guidelines/2.016%20-%20Procedures%20A.pdf
+  sha256: 0cc3279562a0ec1cd2e93307681b03ef1d6f0a79096d72e95fcdffd33b94a076
+  last_checked: '2026-07-21'
+  notes: Clinical Practice Guidelines (OSH Policy 2.016)
+- id: oha-osh-2-018
+  url: https://www.oregon.gov/oha/OSH/Policies/2.018%20Complete%20Medical%20Record/2.018%20Complete%20Medical%20Record.pdf
+  sha256: 871f96813782128c69f6399c3cd25e43b98951af53ed29ad06eb124f0a1d42c8
+  last_checked: '2026-07-21'
+  notes: Complete Medical Record (OSH Policy 2.018)
+- id: oha-osh-3-003
+  url: https://www.oregon.gov/oha/OSH/Policies/3.003%20Medical%20Equipment%20Safety/3.003%20Medical%20Equipment%20Safety.pdf
+  sha256: 5f197d2ec9d2dd7de0e57e0a31b246da842ad5109fec7b6ca9b26a4b67b28113
+  last_checked: '2026-07-21'
+  notes: Medical Equipment Safety (OSH Policy 3.003)
+- id: oha-osh-4-003
+  url: https://www.oregon.gov/oha/OSH/Policies/4.003%20Payroll%20Check%20Distribution/4.003%20Payroll%20Check%20Distribution.pdf
+  sha256: d0af0364fb061f22d74d39c492ccf696c42aef9a447678c545b884b488df6c5f
+  last_checked: '2026-07-21'
+  notes: Payroll Check Distribution (OSH Policy 4.003)
+- id: oha-osh-4-004
+  url: https://www.oregon.gov/oha/OSH/Policies/4.004%20Patient%20Benevolent%20Fund/4.004%20Patient%20Benevolent%20Fund.pdf
+  sha256: d43f24c6fe6a2d5cacbedb02d95f3cc3ec0404ebf6bfcc9ec83aa49a4406f300
+  last_checked: '2026-07-21'
+  notes: Patient Benevolent Fund (OSH Policy 4.004)
+- id: oha-osh-4-008
+  url: https://www.oregon.gov/oha/OSH/Policies/4.008%20Peggy%20Ross%20Trust%20Fund/4.008%20Peggy%20Ross%20Trust%20Fund.pdf
+  sha256: 5429ac76722f922775a640840949647bca9ef1d5f8ed0ab8191129ad0574721d
+  last_checked: '2026-07-21'
+  notes: Peggy Ross Trust Fund (OSH Policy 4.008)
+- id: oha-osh-4-011
+  url: https://www.oregon.gov/oha/OSH/Policies/4.011%20Donations%20Contributions%20Charitable%20Fundraising/4.011%20Donations%20Contributions%20Charitable%20Fundraising.pdf
+  sha256: 9b216f7ed0e0068dfb94083b941f725ecdd6dfc4896d8c57081f8eda7a224bcc
+  last_checked: '2026-07-21'
+  notes: Donations Contributions Charitable Fundraising (OSH Policy 4.011)
+- id: oha-osh-5-002
+  url: https://www.oregon.gov/oha/OSH/Policies/5.002%20Family%20Medical%20Leave/5.002%20Family%20Medical%20Leave.pdf
+  sha256: 2308213d8b32b317c2218b9282d77321b43fb4a9b12a055fc0d90a564b9aa5b0
+  last_checked: '2026-07-21'
+  notes: Family Medical Leave (OSH Policy 5.002)
+- id: oha-osh-5-008
+  url: https://www.oregon.gov/oha/OSH/Policies/5.008%20Equal%20Opportunity%20Employment%20or%20Non-Discrimination/5.008%20Equal%20Opportunity%20Employment%20or%20Non-Discrimination.pdf
+  sha256: fe4499f514dbe2eabc4936576e527c4c93d9b9fa05be6b68897f2c1758fb79f5
+  last_checked: '2026-07-21'
+  notes: Equal Opportunity Employment or Non-Discrimination (OSH Policy 5.008)
+- id: oha-osh-5-014
+  url: https://www.oregon.gov/oha/OSH/Policies/5.014%20Conflict%20of%20Interest/5.014%20Conflict%20of%20Interest.pdf
+  sha256: 5b48a411472a16d2f08219597c06943c748f10401141628e5b8f2d00df801960
+  last_checked: '2026-07-21'
+  notes: Conflict of Interest (OSH Policy 5.014)
+- id: oha-osh-5-018
+  url: https://www.oregon.gov/oha/OSH/Policies/5.018%20Volunteers/5.018%20Volunteers.pdf
+  sha256: 385e271e3eb56aae9186f0bc1ec97d80da58f44a517687f698a174c991f71a7a
+  last_checked: '2026-07-21'
+  notes: Volunteers (OSH Policy 5.018)
+- id: oha-osh-5-023
+  url: https://www.oregon.gov/oha/OSH/Policies/5.023%20Nepotism/5.023%20Nepotism.pdf
+  sha256: b896d2fb657b1e5b49ae01224ac756f6fb3404aacec91cd8f706f0ae6d62931d
+  last_checked: '2026-07-21'
+  notes: Nepotism (OSH Policy 5.023)
+- id: oha-osh-5-024
+  url: https://www.oregon.gov/oha/OSH/Policies/5.024%20HEART%20Trauma%20Response%20Program/5.024%20HEART%20Trauma%20Response%20Program.pdf
+  sha256: 00feeabd365e72df42a9d207c01b381c64a0a475bf347662fe94c8e44bdf716f
+  last_checked: '2026-07-21'
+  notes: HEART Trauma Response Program (OSH Policy 5.024)
+- id: oha-osh-5-027
+  url: https://www.oregon.gov/oha/OSH/Policies/5.027%20Performance%20Management%20Plan/5.027%20Performance%20Management%20Plan.pdf
+  sha256: 37fa3f5aedc0463f181cfdb40a9f0ce2b87cb0135054ffd4d694a5f505af1fdc
+  last_checked: '2026-07-21'
+  notes: Performance Management Plan (OSH Policy 5.027)
+- id: oha-osh-5-028
+  url: https://www.oregon.gov/oha/OSH/Policies/5.028%20Electronic%20Time%20Management%20System/5.028%20Electronic%20Time%20Management%20System.pdf
+  sha256: eebdd79924b34c44d5ab04ad245d424631eef33ae07c4a8f001935fd59be5570
+  last_checked: '2026-07-21'
+  notes: Electronic Time Management System (OSH Policy 5.028)
+- id: oha-osh-5-029
+  url: https://www.oregon.gov/oha/OSH/Policies/5.029%20Tobacco%20and%20Smoke-Free%20Facility/5.029%20Tobacco%20and%20Smoke-Free%20Facility.pdf
+  sha256: d00f92590829e0c2cf9d0fda7f015ac96a3fb60597f2ad71369f313a6803f81f
+  last_checked: '2026-07-21'
+  notes: Tobacco and Smoke-Free Facility (OSH Policy 5.029)
+- id: oha-osh-5-030
+  url: https://www.oregon.gov/oha/OSH/Policies/5.030%20Credentialing%20for%20Non-MAHPS%20Staff/5.030%20Credentialing%20for%20Non-MAHPS%20Staff.pdf
+  sha256: 7db179e1b61ebd82fe4994a1ed6d001cbecc6f6aa4780b7c7443ef5632d85669
+  last_checked: '2026-07-21'
+  notes: Credentialing for Non-MAHPS Staff (OSH Policy 5.030)
+- id: oha-osh-6-006
+  url: https://www.oregon.gov/oha/OSH/Policies/6.006%20Ongrounds%20Offgrounds%20Movement%20%28ADMINISTRATIVE%20DIRECTIVE%29/6.006%20Ongrounds%20Offgrounds%20Movement.pdf
+  sha256: 667a1170bef689504bad0fb853e8076329f8e4bd8f88acc3324312b2dfe207aa
+  last_checked: '2026-07-21'
+  notes: Ongrounds Offgrounds Movement (ADMINISTRATIVE DIRECTIVE) (OSH Policy 6.006)
+- id: oha-osh-6-011
+  url: https://www.oregon.gov/oha/OSH/Policies/6.011%20Treatment%20Care%20Planning%20%28ADMINISTRATIVE%20DIRECTIVE%29/6.011%20Treatment%20Care%20Planning.pdf
+  sha256: 5912ca3de36bd345865969647a9666b8304bd561ea9388a2da0b50249eff4040
+  last_checked: '2026-07-21'
+  notes: Treatment Care Planning (ADMINISTRATIVE DIRECTIVE) (OSH Policy 6.011)
+- id: oha-osh-6-012
+  url: https://www.oregon.gov/oha/OSH/Policies/6.012%20Code%20Status/6.012%20Code%20Status.pdf
+  sha256: f901841a281f434a5d5e6350646c67ea3fa142c05028a0626138228e83b5efd1
+  last_checked: '2026-07-21'
+  notes: Code Status (OSH Policy 6.012)
+- id: oha-osh-6-013
+  url: https://www.oregon.gov/oha/OSH/Policies/6.013%20Discharge%20and%20Conditional%20Release%20Planning/6.013%20Procedures%20A%20-%20Discharge%20Readiness.pdf
+  sha256: 0cfced610193c8adc3db59342af3b3485f6f4567a40ea19fe6e1dce77dc3eae6
+  last_checked: '2026-07-21'
+  notes: Discharge and Conditional Release Planning (OSH Policy 6.013)
+- id: oha-osh-6-025
+  url: https://www.oregon.gov/oha/OSH/Policies/6.025%20Advance%20Directives/6.025%20Advance%20Directives.pdf
+  sha256: 155be8f9a5d9f967c45ba13e4a23fa4769837012c4d62d40a26ffa064c2753fa
+  last_checked: '2026-07-21'
+  notes: Advance Directives (OSH Policy 6.025)
+- id: oha-osh-6-028
+  url: https://www.oregon.gov/oha/OSH/Policies/6.028%20Education%20for%20Patients/6.028%20Education%20for%20Patients.pdf
+  sha256: fe73fb0736ae227286a4d72a5e82fb14842fb213defdf72dd1577d1e83e1ea04
+  last_checked: '2026-07-21'
+  notes: Education for Patients (OSH Policy 6.028)
+- id: oha-osh-6-030
+  url: https://www.oregon.gov/oha/OSH/Policies/6.030%20Electronic%20Device%20and%20Internet%20Access%20%28ADMINISTRATIVE%20DIRECTIVE%29/6.030%20Electronic%20Device%20and%20Internet%20Access.pdf
+  sha256: 348105fca447afcc6804c43c519d3694c1a0dd46656952ce5a4285b2b89cc5ae
+  last_checked: '2026-07-21'
+  notes: Electronic Device and Internet Access (ADMINISTRATIVE DIRECTIVE) (OSH Policy 6.030)
+- id: oha-osh-6-031
+  url: https://www.oregon.gov/oha/OSH/Policies/6.031%20Dysphagia%20Screening/6.031%20Dysphagia%20Screening.pdf
+  sha256: c18d47aa821af417e809bbdeb6ca2db6014069a624bc9a2f2da97a4d77217119
+  last_checked: '2026-07-21'
+  notes: Dysphagia Screening (OSH Policy 6.031)
+- id: oha-osh-6-032
+  url: https://www.oregon.gov/oha/OSH/Policies/6.032%20Marriage%20Requests/6.032%20Marriage%20Requests.pdf
+  sha256: 6f0c4aa249e39ede146bb0a176463e14538bcf03cce1e628ccf0f7c760003c04
+  last_checked: '2026-07-21'
+  notes: Marriage Requests (OSH Policy 6.032)
+- id: oha-osh-6-035
+  url: https://www.oregon.gov/oha/OSH/Policies/6.035%20Medication%20Reconciliation/6.035%20Medication%20Reconciliation.pdf
+  sha256: 1317674aef21e6997efe0b9c1225cce1445964952268f4a6943f663f1eace2b8
+  last_checked: '2026-07-21'
+  notes: Medication Reconciliation (OSH Policy 6.035)
+- id: oha-osh-6-044
+  url: https://www.oregon.gov/oha/OSH/Policies/6.044%20Guardianship/6.044%20Guardianship.pdf
+  sha256: 8784356f5174d583bfbfac1e3b40b014608ed75fdfcd7ac4532a930a6fc8d044
+  last_checked: '2026-07-21'
+  notes: Guardianship (OSH Policy 6.044)
+- id: oha-osh-6-052
+  url: https://www.oregon.gov/oha/OSH/Policies/6.052%20Trauma%20Screening/6.052%20Trauma%20Screening.pdf
+  sha256: 2f301f158c2ab3ec922c92b74c6850fa673a82a7e0832367b2b1009e5ae510ba
+  last_checked: '2026-07-21'
+  notes: Trauma Screening (OSH Policy 6.052)
+- id: oha-osh-6-053
+  url: https://www.oregon.gov/oha/OSH/Policies/6.053%20Education%20Services%20for%20Patients%20Under%2021/6.053%20-%20Procedures%20A%20-%20School%20Enrollment.pdf
+  sha256: a1aefe366a7ae53a2cc17fb78f962c020290555c6592c1e6804418d95e04e1bb
+  last_checked: '2026-07-21'
+  notes: Education Services for Patients Under 21 (OSH Policy 6.053)
+- id: oha-osh-6-054
+  url: https://www.oregon.gov/oha/OSH/Policies/6.054%20Critical%20Values%20or%20Results/6.054%20Critical%20Values%20or%20Results.pdf
+  sha256: 4a2219a98c05c14c2c7816d49905836f94575c07ed49558cd6eeb6c42373dc88
+  last_checked: '2026-07-21'
+  notes: Critical Values or Results (OSH Policy 6.054)
+- id: oha-osh-6-055
+  url: https://www.oregon.gov/oha/OSH/Policies/6.055%20Medication%20Management/6.055%20Medication%20Management.pdf
+  sha256: 570954ca6364a002cf159b97bef402b8cc0333c4ab96ff175b9f4dea0bd17ffc
+  last_checked: '2026-07-21'
+  notes: Medication Management (OSH Policy 6.055)
+- id: oha-osh-6-058
+  url: https://www.oregon.gov/oha/OSH/Policies/6.058%20Admissions%20%28ADMINISTRATIVE%20DIRECTIVE%29/6.058%20Admissions.pdf
+  sha256: 38bc0c2f55dcdf69b0dc01d2b6cb71f9c9fefdb5dc2c4d3c179dd93da11403a8
+  last_checked: '2026-07-21'
+  notes: Admissions (ADMINISTRATIVE DIRECTIVE) (OSH Policy 6.058)
+- id: oha-osh-6-060
+  url: https://www.oregon.gov/oha/OSH/Policies/6.060%20Photographs%20for%20Patient%20Identification/6.060%20Photographs%20for%20Patient%20Identification.pdf
+  sha256: 21b2b52308b980e643a431d1110353d110e9ed38b64cb48ca68cef36cb88d62e
+  last_checked: '2026-07-21'
+  notes: Photographs for Patient Identification (OSH Policy 6.060)
+- id: oha-osh-6-063
+  url: https://www.oregon.gov/oha/OSH/Policies/6.063%20Hepatitis%20C%20Treatment/6.063%20Hepatitis%20C%20Treatment.pdf
+  sha256: d873ff0b3d1abfb7d9fb4fc6ad4b65827d478f76091cd6a7bbedf06086dfa5ac
+  last_checked: '2026-07-21'
+  notes: Hepatitis C Treatment (OSH Policy 6.063)
+- id: oha-osh-6-064
+  url: https://www.oregon.gov/oha/OSH/Policies/6.064%20Case%20Formulation%20%28TEMPORARILY%20SUSPENDED%29/6.064%20Case%20Formulation.pdf
+  sha256: b88d09e7c2e69b29fe375a84dcd5a0dec793be846f2046315e0d8800c17201ad
+  last_checked: '2026-07-21'
+  notes: Case Formulation (TEMPORARILY SUSPENDED) (OSH Policy 6.064)
+- id: oha-osh-6-065
+  url: https://www.oregon.gov/oha/OSH/Policies/6.065%20Pregnant%20Patient%20Care%20Labor%20and%20Birth/6.065%20Pregnant%20Patient%20Care%20Labor%20and%20Birth.pdf
+  sha256: a764ec63f9f599ac99896f86abd0b5fdb94f9a5de8f50bd4005cdd9c8b4d34a5
+  last_checked: '2026-07-21'
+  notes: Pregnant Patient Care Labor and Birth (OSH Policy 6.065)
+- id: oha-osh-7-001
+  url: https://www.oregon.gov/oha/OSH/Policies/7.001%20Mail%20and%20Packages%20for%20Patients%20%28ADMINISTRATIVE%20DIRECTIVE%29/7.001%20Policy%20Face%20Sheet%20.pdf
+  sha256: 08147a6f62d81ed0b5c71399d328362f82b2eb8069065ba6422fdee31cb819fe
+  last_checked: '2026-07-21'
+  notes: Mail and Packages for Patients (ADMINISTRATIVE DIRECTIVE) (OSH Policy 7.001)
+- id: oha-osh-7-002
+  url: https://www.oregon.gov/oha/OSH/Policies/7.002%20Media%20Access%20for%20Patients%20%28ADMINISTRATIVE%20DIRECTIVE%29/7.002%20Media%20Access%20for%20Patients.pdf
+  sha256: f72021b69d243536161918906739ea1264f54fed1065bd976c8122944a1d0e53
+  last_checked: '2026-07-21'
+  notes: Media Access for Patients (ADMINISTRATIVE DIRECTIVE) (OSH Policy 7.002)
+- id: oha-osh-7-003
+  url: https://www.oregon.gov/oha/OSH/Policies/7.003%20Photographing%20or%20Recording%20of%20Patients/7.003%20Photographing%20or%20Recording%20of%20Patients.pdf
+  sha256: e96d7f2bc776c14021c10e13114653c681346c0324774bc997e5dfeb37525bbf
+  last_checked: '2026-07-21'
+  notes: Photographing or Recording of Patients (OSH Policy 7.003)
+- id: oha-osh-7-005
+  url: https://www.oregon.gov/oha/OSH/Policies/7.005%20Patient%20Rights/7.005%20Patient%20Rights.pdf
+  sha256: 121c662c680911d6a4999bd65a57f8bbf0a11b1242b26a13b2c4920f25d7bdd9
+  last_checked: '2026-07-21'
+  notes: Patient Rights (OSH Policy 7.005)
+- id: oha-osh-7-009
+  url: https://www.oregon.gov/oha/OSH/Policies/7.009%20Voter%20Registration%20and%20Voting/7.009%20Voter%20Registration%20and%20Voting.pdf
+  sha256: 7ddd5e87d6ed42782d49a751b9256983ac5014e59a810e0e897be24ad4cb70ee
+  last_checked: '2026-07-21'
+  notes: Voter Registration and Voting (OSH Policy 7.009)
+- id: oha-osh-7-012
+  url: https://www.oregon.gov/oha/OSH/Policies/7.012%20Patient%20Responsibilities%20and%20Family%20Responsibilities/7.012%20Patient%20and%20Family%20Responsibilities.pdf
+  sha256: 042a55ac30bc0af2a8aeaf2b7af1fa4e288ad2303596862e6403a3ced338efc0
+  last_checked: '2026-07-21'
+  notes: Patient Responsibilities and Family Responsibilities (OSH Policy 7.012)
+- id: oha-osh-7-014
+  url: https://www.oregon.gov/oha/OSH/Policies/7.014%20Medical%20Records%20Patient%20Requests/7.014%20Medical%20Records%20Patient%20Requests.pdf
+  sha256: 24e3c12b90c4b1ce701cccf2b060956da5177f1a51d48de2c1d98d1335dd09d7
+  last_checked: '2026-07-21'
+  notes: Medical Records Patient Requests (OSH Policy 7.014)
+- id: oha-osh-7-015
+  url: https://www.oregon.gov/oha/OSH/Policies/7.015%20Patient%20Rights%20Restrictions/7.015%20Patient%20Rights%20Restrictions.pdf
+  sha256: 21589d3b8e4cd581cd0bd1e14de230efbcd1d83f9f89d8e309a631f06e3952f9
+  last_checked: '2026-07-21'
+  notes: Patient Rights Restrictions (OSH Policy 7.015)
+- id: oha-osh-8-002
+  url: https://www.oregon.gov/oha/OSH/Policies/8.002%20Emergency%20Care%20Provided%20by%20OSH/8.002%20Emergency%20Care%20Provided%20by%20OSH.pdf
+  sha256: 7dc7642399a6d76eeb54306bfcbc11be85004d359f9601fc9034e87bbccc921a
+  last_checked: '2026-07-21'
+  notes: Emergency Care Provided by OSH (OSH Policy 8.002)
+- id: oha-osh-8-014
+  url: https://www.oregon.gov/oha/OSH/Policies/8.014%20Room%20Unit%20Treatment%20Mall%20Searches%20%28ADMINISTRATIVE%20DIRECTIVE%29/8.014%20Room%20Unit%20Treatment%20Mall%20Searches.pdf
+  sha256: f4fc1495b225d09257f76ec94992e6534ecb7dad19196b1608bc4f87c948ed5f
+  last_checked: '2026-07-21'
+  notes: Room Unit Treatment Mall Searches (ADMINISTRATIVE DIRECTIVE) (OSH Policy 8.014)
+- id: oha-osh-8-015
+  url: https://www.oregon.gov/oha/OSH/Policies/8.015%20Communication%20System%20Testing/8.015%20Communication%20System%20Testing.pdf
+  sha256: d3ee26e29ca21cad3b3fca21642de2632e4072024753cf9d0ffa4807903b0888
+  last_checked: '2026-07-21'
+  notes: Communication System Testing (OSH Policy 8.015)
+- id: oha-osh-8-021
+  url: https://www.oregon.gov/oha/OSH/Policies/8.021%20Key%20Inventory%20and%20Control/8.021%20Key%20Inventory%20and%20Control.pdf
+  sha256: 4617843dda0969eea15ac5954e9bf612b28a265ed4522ab1d3ca1b52601fd3f0
+  last_checked: '2026-07-21'
+  notes: Key Inventory and Control (OSH Policy 8.021)
+- id: oha-osh-8-023
+  url: https://www.oregon.gov/oha/OSH/Policies/8.023%20Parking%20and%20Parking%20Registration/8.023%20Parking%20and%20Parking%20Registration.pdf
+  sha256: 8ba1cf308d37541af12321640390419b863c9b16d424bb0a7ec37c9156031dce
+  last_checked: '2026-07-21'
+  notes: Parking and Parking Registration (OSH Policy 8.023)
+- id: oha-osh-8-027
+  url: https://www.oregon.gov/oha/OSH/Policies/8.027%20Weapons%20on%20Campus%20%28ADMINISTRATIVE%20DIRECTIVE%29/8.027%20Weapons%20on%20Campus.pdf
+  sha256: 4a4c58d5692c3b3a94c732dba3e032e07cfc7e008376b34dd0e3ea05cc86748b
+  last_checked: '2026-07-21'
+  notes: Weapons on Campus (ADMINISTRATIVE DIRECTIVE) (OSH Policy 8.027)
+- id: oha-osh-8-029
+  url: https://www.oregon.gov/oha/OSH/Policies/8.029%20Safety%20Grant/8.029%20Safety%20Grant.pdf
+  sha256: baa553689bd9b9a9895e815e9cd6f65359d7fface8ec24e7cef44736cd3d3471
+  last_checked: '2026-07-21'
+  notes: Safety Grant (OSH Policy 8.029)
+- id: oha-osh-8-034
+  url: https://www.oregon.gov/oha/OSH/Policies/8.034%20Property%20Claims%20for%20Employee%20Personal%20Property/8.034%20Procedures%20A%20-%20Property%20Claims%20Requests.pdf
+  sha256: ba9e9f253a7c832a989e7d9785431f1612b3b8ae807e8499fed3ef8e15c9ef87
+  last_checked: '2026-07-21'
+  notes: Property Claims for Employee Personal Property (OSH Policy 8.034)
+- id: oha-osh-8-035
+  url: https://www.oregon.gov/oha/OSH/Policies/8.035%20Duress%20Alarm%20System/8.035%20Duress%20Alarm%20System.pdf
+  sha256: 5b32d8e77f80525df4610a1cc0ff66ec49c5e739d792ef91f9eef890f6453338
+  last_checked: '2026-07-21'
+  notes: Duress Alarm System (OSH Policy 8.035)
+- id: oha-osh-8-036
+  url: https://www.oregon.gov/oha/OSH/Policies/8.036%20FES%20Violence%20Mitigation%20Plan/8.036%20FES%20Violence%20Mitigation%20Plan.pdf
+  sha256: cff6ce14ef2b85ad6535904ced51ecd8c6bb8af9d91aec477a9d6fec1d30b93e
+  last_checked: '2026-07-21'
+  notes: FES Violence Mitigation Plan (OSH Policy 8.036)
+- id: oha-osh-8-040
+  url: https://www.oregon.gov/oha/OSH/Policies/8.040%20Acute%20Milieu%20Emergency/8.040%20Acute%20Milieu%20Emergency.pdf
+  sha256: 67f5aed816e941ae49f5475cde4acf81117e32534f8c021fefab91629387b718
+  last_checked: '2026-07-21'
+  notes: Acute Milieu Emergency (OSH Policy 8.040)
+- id: oha-osh-8-045
+  url: https://www.oregon.gov/oha/OSH/Policies/8.045%20Injured%20Staff%20Transportation/8.045%20Injured%20Staff%20Transportation.pdf
+  sha256: c6a71e31d4a0db737bcc88286534614355244aec14318569fc2e086760c1879c
+  last_checked: '2026-07-21'
+  notes: Injured Staff Transportation (OSH Policy 8.045)
+- id: oha-osh-9-010
+  url: https://www.oregon.gov/oha/OSH/Policies/9.010%20Interns/9.010%20Interns.pdf
+  sha256: 99c9305c75185da028e8704036e5b1d341e92393044996d66a3d7c28ccee0216
+  last_checked: '2026-07-21'
+  notes: Interns (OSH Policy 9.010)
+- id: oha-osh-4-007
+  url: https://www.oregon.gov/oha/OSH/Policies/4.007%20Asset%20Management/4.007%20Asset%20Management.pdf
+  sha256: 6110592777a1cf6965d5c6177661436a48c18319353e6484af602789747444a2
+  last_checked: '2026-07-21'
+  notes: Asset Management (OSH Policy 4.007)
+- id: oha-osh-5-007
+  url: https://www.oregon.gov/oha/OSH/Policies/5.007%20ADA%20and%20Reasonable%20Accommodation%20in%20Employment/5.007%20ADA%20and%20Reasonable%20Accommodation%20in%20Employment.pdf
+  sha256: 712acfbfaabc92a70d6b6a327d1e43b4e32e09de5d8dc679173ea1899e2fb202
+  last_checked: '2026-07-21'
+  notes: ADA and Reasonable Accommodation in Employment (OSH Policy 5.007)
+- id: oha-osh-5-011
+  url: https://www.oregon.gov/oha/OSH/Policies/5.011%20Return%20to%20Work%20of%20Staff%20Injured%20on%20the%20Job/5.011%20Return%20to%20Work%20of%20Staff%20Injured%20on%20the%20Job.pdf
+  sha256: c18f62a594fcbf2052f8902c9ebaa6e335f92aa89b6a5757d72d5263d9324990
+  last_checked: '2026-07-21'
+  notes: Return to Work of Staff Injured on the Job (OSH Policy 5.011)
+- id: oha-osh-5-015
+  url: https://www.oregon.gov/oha/OSH/Policies/5.015%20Staff%20Separation/5.015%20Staff%20Separation.pdf
+  sha256: f43e523ee0ad387f6cef1e82431acda7339a18064db1da5b7b1fefea49d80589
+  last_checked: '2026-07-21'
+  notes: Staff Separation (OSH Policy 5.015)
+- id: oha-osh-5-025
+  url: https://www.oregon.gov/oha/OSH/Policies/5.025%20Maintaining%20A%20Professional%20Workplace/5.025%20Maintaining%20A%20Professional%20Workplace.pdf
+  sha256: eb2dd184e53a9d380a7750772d574f9e9d7f34fd8e15a0b17eacad22c211da22
+  last_checked: '2026-07-21'
+  notes: Maintaining A Professional Workplace (OSH Policy 5.025)
+- id: oha-osh-7-017
+  url: https://www.oregon.gov/oha/OSH/Policies/7.017%20Native%20Artifacts%20and%20Property%20%28ADMINISTRATIVE%20DIRECTIVE%29/7.017%20Native%20Artifacts%20and%20Property.pdf
+  sha256: c323a10e060988f85a4aee7704b99a07b2689550344b33552d515e6769531ca7
+  last_checked: '2026-07-21'
+  notes: Native Artifacts and Property (ADMINISTRATIVE DIRECTIVE) (OSH Policy 7.017)
+- id: oha-osh-8-024
+  url: https://www.oregon.gov/oha/OSH/Policies/8.024%20Tool%20and%20Sharp%20Security/8.024%20Tool%20and%20Sharp%20Security.pdf
+  sha256: 1b85869c41fa9af5cbbba4c0cdf045cd2be942ee2189b7cd2567ff16683d1eff
+  last_checked: '2026-07-21'
+  notes: Tool and Sharp Security (OSH Policy 8.024)
+- id: oha-osh-6-024
+  url: https://www.oregon.gov/oha/OSH/Policies/6.024%20Transportation%20and%20Supervision%20Ratios/6.024%20Transportation%20and%20Supervision%20Ratios.pdf
+  sha256: b814cb04b3e7355ece5c0c9e077c8a709a29943e8365329700524a5619618a7d
+  last_checked: '2026-07-21'
+  notes: Transportation and Supervision Ratios (OSH Policy 6.024)
+- id: oha-osh-5-012
+  url: https://www.oregon.gov/oha/OSH/Policies/5.012%20Injury%20or%20Illness%20Reporting/5.012%20Injury%20or%20Illness%20Reporting.pdf
+  sha256: f9dada40f95dcb7273b44664348d20ef9f689c3e5204c7abe7e8bf6fbd5ca256
+  last_checked: '2026-07-21'
+  notes: Injury or Illness Reporting (OSH Policy 5.012)
+- id: oha-osh-4-020
+  url: https://www.oregon.gov/oha/OSH/Policies/4.020%20Contracts%20and%20Agreements%20at%20OSH/4.020%20Contracts%20and%20Agreements%20at%20OSH.pdf
+  sha256: 6ba5e36cc3c64d109abb79b6cb5f5c0181fe014c82691dec9a8660b982a3d74b
+  last_checked: '2026-07-21'
+  notes: Contracts and Agreements at OSH (OSH Policy 4.020)
+- id: oha-osh-6-045
+  url: https://www.oregon.gov/oha/OSH/Policies/6.045%20Clinical%20Documentation%20%28ADMINISTRATIVE%20DIRECTIVE%29/6.045%20Clinical%20Documentation.pdf
+  sha256: 2db9873063a0b59f0e75d6162c71a0ca66126b77dcb7668e8b07cfe97a429d8c
+  last_checked: '2026-07-21'
+  notes: Clinical Documentation (ADMINISTRATIVE DIRECTIVE) (OSH Policy 6.045)
+- id: oha-osh-1-012
+  url: https://www.oregon.gov/oha/OSH/Policies/1.012%20Non-Discrimination%20and%20Alternate%20Language%20Access/1.012%20Non-Discrimination%20and%20Alternate%20Language%20Access.pdf
+  sha256: 1828f08854e53e359cea622193504fcb7b62cf872a08d543ea83b62613134c6e
+  last_checked: '2026-07-21'
+  notes: Non-Discrimination and Alternate Language Access (OSH Policy 1.012)
+- id: oha-osh-5-016
+  url: https://www.oregon.gov/oha/OSH/Policies/5.016%20Adults%20in%20Custody%20Workforce/5.016%20Adults%20in%20Custody%20Workforce.pdf
+  sha256: 9e10fda4c27a915b5502b7184f393a5aaec4dddfa54805b2a2a5f0383c89e26d
+  last_checked: '2026-07-21'
+  notes: Adults in Custody Workforce (OSH Policy 5.016)
+- id: oha-osh-5-020
+  url: https://www.oregon.gov/oha/OSH/Policies/5.020%20Staff%20and%20Adult%20in%20Custody%20Worker%20Relationships/5.020%20Staff%20and%20Adult%20in%20Custody%20Worker%20Relationships.pdf
+  sha256: ab914441774268df43a6d49aa90ba6579ff0be41959c9d2d6334ec61ce1dab20
+  last_checked: '2026-07-21'
+  notes: Staff and Adult in Custody Worker Relationships (OSH Policy 5.020)
+- id: oha-osh-1-016
+  url: https://www.oregon.gov/oha/OSH/Policies/1.016%20OSH%20Delegation%20of%20Authority/1.016%20-%20OSH%20Delegation%20of%20Authority.pdf
+  sha256: 01fb861b2722ecc73917bd88b9fac1d0210439a7be77161b3977edb5f5808d6b
+  last_checked: '2026-07-21'
+  notes: OSH Delegation of Authority (OSH Policy 1.016)
+- id: oha-osh-1-005
+  url: https://www.oregon.gov/oha/OSH/Policies/1.005%20Information%20Technology%20Hardware%20and%20Software/1.005%20-%20Procedures%20A%20-%20Oregon%20State%20Hospital%20IT%20Purchase%20Process.pdf
+  sha256: 52f2d20b5c8e0b0babcb09a4ca39dc43b7d2f3ded547288a4875b8c439dbbc58
+  last_checked: '2026-07-21'
+  notes: Information Technology Hardware and Software (OSH Policy 1.005)
+- id: oha-osh-4-018
+  url: https://www.oregon.gov/oha/OSH/Policies/4.018%20OSH%20Purchase%20and%20Maintenance%20-%20Supplies%2C%20Assets%2C%20and%20Equipment/4.018%20-%20Procedures%20B%20-%20Product%20Risk%20Assessment%20%28PRA%29.pdf
+  sha256: 5de84c9cdd3b646f0dd9a5e0d399b7820509bc62f07f3b4026fc716bc1df0b10
+  last_checked: '2026-07-21'
+  notes: OSH Purchase and Maintenance - Supplies, Assets, and Equipment (OSH Policy 4.018)
+- id: oha-osh-10-004
+  url: https://www.oregon.gov/oha/OSH/Policies/10.004%20Override%20Process%20for%20Medications%20in%20Emergency%20Situations/10.004%20Override%20Process%20for%20Medications%20in%20Emergency%20Situations.pdf
+  sha256: c0e41b20816af92ea4ba8c86004ae7e931ad402980b3bc350febdbb168baa5e2
+  last_checked: '2026-07-21'
+  notes: Override Process for Medications in Emergency Situations (OSH Policy 10.004)
+- id: oha-osh-6-002
+  url: https://www.oregon.gov/oha/OSH/Policies/6.002%20Authorized%20Person%20Passes/6.002%20Authorized%20Person%20Passes.pdf
+  sha256: b121965cde4077cb86651f91c921cdba4e70f2f0cf26eb164b4968b4b63c04df
+  last_checked: '2026-07-21'
+  notes: Authorized Person Passes (OSH Policy 6.002)
+- id: oha-osh-7-011
+  url: https://www.oregon.gov/oha/OSH/Policies/7.011%20Faiths%20Beliefs%20and%20Practices/7.011%20Faiths%20Beliefs%20and%20Practices.pdf
+  sha256: d2a646ae1c8b70677f4ac56713dd6a887d4f9971daba966afce935d6609d282d
+  last_checked: '2026-07-21'
+  notes: Faiths Beliefs and Practices (OSH Policy 7.011)
+- id: oha-osh-4-013
+  url: https://www.oregon.gov/oha/OSH/Policies/4.013%20Professional%20Credential%20and%20Membership%20Fees/4.013%20Professional%20Credential%20and%20Membership%20Fees.pdf
+  sha256: 43d205f4473304156b62405609a25c295846c419e3bf1fe18334f50c12873b13
+  last_checked: '2026-07-21'
+  notes: Professional Credential and Membership Fees (OSH Policy 4.013)
+- id: oha-osh-1-001
+  url: https://www.oregon.gov/oha/OSH/Policies/1.001%20Policy%20System%20at%20OSH/1.001%20Policy%20System%20at%20OSH.pdf
+  sha256: 615078bc98619ab94d3dd1bf6c31228289abbccb3120b4e70422dfc4bc4ff208
+  last_checked: '2026-07-21'
+  notes: Policy System at OSH (OSH Policy 1.001)
+- id: oha-osh-5-009
+  url: https://www.oregon.gov/oha/OSH/Policies/5.009%20Staff%20Patient%20Relationships/5.009%20Staff%20and%20Patient%20Relationships.pdf
+  sha256: 36265b4fc5c2c1ced36ae94fa90ae5f945623872216b6c0ee3e3dc91b8e2591a
+  last_checked: '2026-07-21'
+  notes: Staff Patient Relationships (OSH Policy 5.009)
+- id: oha-osh-2-017
+  url: https://www.oregon.gov/oha/OSH/Policies/2.017%20Influenza%20Prevention/2.017%20Influenza%20Prevention.pdf
+  sha256: 9abc03f16a93ad8ea8f49b3f345439b994dc55fa8d10bfd17dffbfd06df300e4
+  last_checked: '2026-07-21'
+  notes: Influenza Prevention (OSH Policy 2.017)
+- id: oha-osh-4-006
+  url: https://www.oregon.gov/oha/OSH/Policies/4.006%20Meal%20Service%20for%20Staff%20and%20Others/4.006%20-%20Procedures%20A%20-%20Meal%20Service.pdf
+  sha256: 6210bb624a1a01c38834c3559d593ce73e1cf83c6f8175e344b70e2cd7df72f7
+  last_checked: '2026-07-21'
+  notes: Meal Service for Staff and Others (OSH Policy 4.006)
+- id: oha-osh-8-004
+  url: https://www.oregon.gov/oha/OSH/Policies/8.004%20Criminal%20Offender%20Information%20Access/8.004%20Criminal%20Offender%20Information%20Access.pdf
+  sha256: 4ac6c2245dd816c1f5858ba5a9e5977f87eadd4ff37981719725c8ac49b4f177
+  last_checked: '2026-07-21'
+  notes: Criminal Offender Information Access (OSH Policy 8.004)
+- id: oha-osh-5-005
+  url: https://www.oregon.gov/oha/OSH/Policies/5.005%20Staff-Owned%20Equipment/5.005%20Staff-Owned%20Equipment.pdf
+  sha256: b33511437bcf56803b67c3538ea6f03914b18c0d5b466d08c6fb5de7cbb5368a
+  last_checked: '2026-07-21'
+  notes: Staff-Owned Equipment (OSH Policy 5.005)
+- id: oha-osh-8-009
+  url: https://www.oregon.gov/oha/OSH/Policies/8.009%20OSH%20Safety%20Programs/8.009%20OSH%20Safety%20Programs.pdf
+  sha256: cf2cb2fc1efe573a4bf0f10ef82b354964c786ef2c8b4efcb9f4ee31185402f3
+  last_checked: '2026-07-21'
+  notes: OSH Safety Programs (OSH Policy 8.009)
+- id: oha-osh-9-001
+  url: https://www.oregon.gov/oha/OSH/Policies/9.001%20BLS%20CPR%20Training%20and%20Certification/9.001%20Basic%20Life%20Support%20%28BLS%29%20Cardiopulmonary%20Resuscitation%20%28CPR%29%20Training%20and%20Certification%20Final.pdf
+  sha256: 40f0e599be7f8a88e842ea9cc45cad604f91825e7ae4303ef6a6e1fb005b2f41
+  last_checked: '2026-07-21'
+  notes: BLS CPR Training and Certification (OSH Policy 9.001)
+- id: oha-osh-2-013
+  url: https://www.oregon.gov/oha/OSH/Policies/2.013%20Electronic%20Health%20Record%20Access/2.013%20Electronic%20Health%20Record%20Access.pdf
+  sha256: 4f7318340556d8793a4822a4f366f1964046d1b0277b34cdf771dae7924f8331
+  last_checked: '2026-07-21'
+  notes: Electronic Health Record Access (OSH Policy 2.013)
+- id: oha-osh-2-006
+  url: https://www.oregon.gov/oha/OSH/Policies/2.006%20Public%20Records%20Retention%20and%20Destruction/2.006%20Records%20Retention%20and%20Management.pdf
+  sha256: 0fd4611adecac3b9ba8522509d23010d0e6e100566331f644ad53cd22fc81ddf
+  last_checked: '2026-07-21'
+  notes: Public Records Retention and Destruction (OSH Policy 2.006)
+- id: oha-osh-5-006
+  url: https://www.oregon.gov/oha/OSH/Policies/5.006%20Employee%20Recognition/5.006%20Staff%20Recognition.pdf
+  sha256: 4566a41f2e63e219ea07e3caaa38995a504b2327255bdca118d30191eb331fd6
+  last_checked: '2026-07-21'
+  notes: Employee Recognition (OSH Policy 5.006)
+- id: oha-osh-8-037
+  url: https://www.oregon.gov/oha/OSH/Policies/8.037%20Patient%20Property%20and%20Valuables%20%28ADMINISTRATIVE%20DIRECTIVE%29/8.037%20Patient%20Property%20and%20Valuables.pdf
+  sha256: 840953f87a8c35a49585c53fefc9ca5763259d1d6a4e38df92efcf3607d07124
+  last_checked: '2026-07-21'
+  notes: Patient Property and Valuables (ADMINISTRATIVE DIRECTIVE) (OSH Policy 8.037)
+- id: oha-osh-8-033
+  url: https://www.oregon.gov/oha/OSH/Policies/8.033%20Workplace%20Violence%20Prevention/8.033%20Procedures%20A%20-%20Type%20I%20.pdf
+  sha256: 28f34d3fccbf8f1dc670ccb398182410b04ef2999fe4ad2d02e9481b11dd30ea
+  last_checked: '2026-07-21'
+  notes: Workplace Violence Prevention (OSH Policy 8.033)
+- id: oha-osh-1-009
+  url: https://www.oregon.gov/oha/OSH/Policies/1.009%20Tours%20at%20OSH/1.009%20-%20Procedures%20A%20.pdf
+  sha256: e27e8003ef9e7714a3ca2c546bf7321565a360f42959863251f5f4be7e9c4b11
+  last_checked: '2026-07-21'
+  notes: Tours at OSH (OSH Policy 1.009)
+- id: oha-osh-4-005
+  url: https://www.oregon.gov/oha/OSH/Policies/4.005%20Visitor%20Cottage/4.005%20Visitor%20Cottage%20and%20Travel%20Fund.pdf
+  sha256: b831944ce1d80195181f18633d2e7e8cf0259b6652cb14dbd7e95c1bf0307546
+  last_checked: '2026-07-21'
+  notes: Visitor Cottage (OSH Policy 4.005)
+- id: oha-osh-1-014
+  url: https://www.oregon.gov/oha/OSH/Policies/1.014%20Data%20Governance/1.014%20Data%20Governance.pdf
+  sha256: 894b2c4d09e2c0bed4af64209d4901eeef0de39d74796a82c4a323db5759080b
+  last_checked: '2026-07-21'
+  notes: Data Governance (OSH Policy 1.014)
+- id: oha-osh-4-019
+  url: https://www.oregon.gov/oha/OSH/Policies/4.019%20Staff%20Meal%20Reimbursements%20and%20Patient%20Meal%20Payments/4.019%20Procedures%20A%20-%20Staff%20Meal%20Reimbursement.pdf
+  sha256: fa5e16cd06985d26530b0a1f649d5c0ec65256ebd8dd7e208f15e0fb44205da8
+  last_checked: '2026-07-21'
+  notes: Staff Meal Reimbursements and Patient Meal Payments (OSH Policy 4.019)
+- id: oha-osh-8-018
+  url: https://www.oregon.gov/oha/OSH/Policies/8.018%20Unauthorized%20Leave%20Events/8.018%20Unauthorized%20Leave%20Events%20.pdf
+  sha256: 0ba865e9bb42ec523c24c6730fe79714d8841efab387d549e226647cf02e72a3
+  last_checked: '2026-07-21'
+  notes: Unauthorized Leave Events (OSH Policy 8.018)
+- id: oha-osh-6-016
+  url: https://www.oregon.gov/oha/OSH/Policies/6.016%20Sexual%20Activity%20Involving%20Patients%20%28ADMINISTRATIVE%20DIRECTIVE%29/6.016%20Sexual%20Activity%20Involving%20Patients.pdf
+  sha256: 9d56d1452846e07daa681a7a989f8fd7b6a33eac9476e7f006f422334b96928c
+  last_checked: '2026-07-21'
+  notes: Sexual Activity Involving Patients (ADMINISTRATIVE DIRECTIVE) (OSH Policy 6.016)
+- id: oha-osh-7-008
+  url: https://www.oregon.gov/oha/OSH/Policies/7.008%20Patient%20Abuse%20or%20Mistreatment%20Allegation%20Reporting/7.008%20Patient%20Abuse%20or%20Mistreatment%20Allegation.pdf
+  sha256: 41757e64c3bc8b323bf1b91009e4eb21c8e293176172da6f5d5cb0fcbd425120
+  last_checked: '2026-07-21'
+  notes: Patient Abuse or Mistreatment Allegation Reporting (OSH Policy 7.008)
+- id: oha-osh-6-061
+  url: https://www.oregon.gov/oha/OSH/Policies/6.061%20Transgender%20Gender%20Non-Conforming%20Treatment/6.061%20Procedures%20A%20-%20Patient%20Requests.pdf
+  sha256: 82e831c8d08a09356c3fc40c28c6490c7a26b07991fee83419d0004de03cf0ce
+  last_checked: '2026-07-21'
+  notes: Transgender Gender Non-Conforming Treatment (OSH Policy 6.061)
+- id: oha-osh-6-062
+  url: https://www.oregon.gov/oha/OSH/Policies/6.062%20Epinephrine%20Outside%20the%20Secure%20Perimeter/6.062%20Epinephrine%20Outside%20the%20Secure%20Perimeter.pdf
+  sha256: 0f694ce11d74d3d4c6e74a1597e91baab79e14c9cab36b5d94d27ef3eb61956f
+  last_checked: '2026-07-21'
+  notes: Epinephrine Outside the Secure Perimeter (OSH Policy 6.062)
+- id: oha-osh-7-006
+  url: https://www.oregon.gov/oha/OSH/Policies/7.006%20Patient%20Grievances/7.006%20Patient%20Grievances.pdf
+  sha256: 42607567597865f096480a6cac3354b4a0c226cd7289043036ce36ac6029b71b
+  last_checked: '2026-07-21'
+  notes: Patient Grievances (OSH Policy 7.006)
+- id: oha-osh-9-002
+  url: https://www.oregon.gov/oha/OSH/Policies/9.002%20Training%20for%20Staff/9.002%20Training%20for%20Staff.pdf
+  sha256: d4d8c408885afc1b199f59b5090b9391515a86a3bb834e95d87fc82ed0f9191e
+  last_checked: '2026-07-21'
+  notes: Training for Staff (OSH Policy 9.002)
+- id: oha-osh-6-059
+  url: https://www.oregon.gov/oha/OSH/Policies/6.059%20Animals%20at%20Oregon%20State%20Hospital/6.059%20-%20Animals%20at%20OSH.pdf
+  sha256: b2aa6504d0467462705834a5e6f113aa4d97949b3ed54861c9cdbc1470382f70
+  last_checked: '2026-07-21'
+  notes: Animals at Oregon State Hospital (OSH Policy 6.059)
+- id: oha-osh-6-049
+  url: https://www.oregon.gov/oha/OSH/Policies/6.049%20Admission%20of%20Patients%20with%20Medical%20Problems/6.049-%20OSH%20Policy%20Discontinuation.pdf
+  sha256: d624ececfe26ed46ac1891f2490b4ce5d1fc50803f730be439ca27a830b529ed
+  last_checked: '2026-07-21'
+  notes: Admission of Patients with Medical Problems (OSH Policy 6.049)
+- id: oha-osh-8-039
+  url: https://www.oregon.gov/oha/OSH/Policies/8.039%20Secure%20Transport%20Restraints/8.039%20Procedures%20A%20STR%20Process%20.pdf
+  sha256: 779406b01c216be2e7e2792e370d0ba3e62725ab2ed1a1f654a013927c80f960
+  last_checked: '2026-07-21'
+  notes: Secure Transport Restraints (OSH Policy 8.039)
+- id: oha-osh-2-003
+  url: https://www.oregon.gov/oha/OSH/Policies/2.003%20Infectious%20Disease%20Management%20for%20Staff/2.003%20Procedures%20A%20-%20Staff%20Responsibilities.pdf
+  sha256: 87617805df6c0e6e77a31b2736455c0e0755ca363b4825cdd6e0fc9fd51478cf
+  last_checked: '2026-07-21'
+  notes: Infectious Disease Management for Staff (OSH Policy 2.003)
+- id: oha-osh-4-012
+  url: https://www.oregon.gov/oha/OSH/Policies/4.012%20Medical%20Equipment%20or%20Goods%20and%20Outside%20Medical%20Service%20Purchase/4.012%20Medical%20Equipment%20or%20Service%20Purchase.pdf
+  sha256: d7425b066b8fc7e6350f35776feb815b3c41d0f6f1cd68220520d2a51628a8fc
+  last_checked: '2026-07-21'
+  notes: Medical Equipment or Goods and Outside Medical Service Purchase (OSH Policy 4.012)
+- id: oha-osh-7-013
+  url: https://www.oregon.gov/oha/OSH/Policies/7.013%20Law%20Library%20Access%20to%20Legal%20Materials/7.013%20Law%20Library%20Access.pdf
+  sha256: e29b29a2b183f884e47b0e18c2634b73119d17d76d6f3d976a97418c02a2cd54
+  last_checked: '2026-07-21'
+  notes: Law Library Access to Legal Materials (OSH Policy 7.013)
+- id: oha-osh-7-016
+  url: https://www.oregon.gov/oha/OSH/Policies/7.016%20Outdoors%20and%20Fresh%20Air%20Patient%20Rights/7.016%20Outdoors%20and%20Fresh%20Air%20Patient%20Rights.pdf
+  sha256: 3e191e9fe62b935a2bf3f433313589da5cfe57ca138cfa2e37a4c22c7dfc40ff
+  last_checked: '2026-07-21'
+  notes: Outdoors and Fresh Air Patient Rights (OSH Policy 7.016)
+- id: oha-osh-8-016
+  url: https://www.oregon.gov/oha/OSH/Policies/8.016%20Civil%20or%20Internal%20Disturbance%20Response/8.016%20Civil%20or%20Internal%20Disturbance.pdf
+  sha256: 73f009308fb59dc4aefd66aa9d925d164983afbec244009e12bac56ef8b66a42
+  last_checked: '2026-07-21'
+  notes: Civil or Internal Disturbance Response (OSH Policy 8.016)
+- id: oha-osh-2-014
+  url: https://www.oregon.gov/oha/OSH/Policies/2.014%20Medical%20Record%20Maintenance%20and%20Transportation/2.014%20Procedures%20B.pdf
+  sha256: 5b84a0a243a84c63675cefb0ede585de516664bb12d36607e9f4b022a7c3653b
+  last_checked: '2026-07-21'
+  notes: Medical Record Maintenance and Transportation (OSH Policy 2.014)
+- id: oha-osh-5-003
+  url: https://www.oregon.gov/oha/OSH/Policies/5.003%20Driver%27s%20License%20Record%20check%2C%20Driver%20Certification%20and%20Vehicle%20Usage/5.003%20Procedures%20A%20Screening%20and%20Approved%20Drivers%20List.pdf
+  sha256: 2fe3280316acdf8c077784d4211634638d791de555b0889476f43e80d0f06f01
+  last_checked: '2026-07-21'
+  notes: Driver's License Record check, Driver Certification and Vehicle Usage (OSH Policy 5.003)
+- id: oha-osh-8-028
+  url: https://www.oregon.gov/oha/OSH/Policies/8.028%20Interim%20Life%20Safety%20Measures%20ILSM/8.028%20Procedures%20A%20ILSM%20Procedures.pdf
+  sha256: 6a095585ef54994d3c029462f036fc0cfc49b22908981133c5663ace8749bf6a
+  last_checked: '2026-07-21'
+  notes: Interim Life Safety Measures ILSM (OSH Policy 8.028)
+- id: oha-osh-8-043
+  url: https://www.oregon.gov/oha/OSH/Policies/8.043%20Firewatch/8.043%20Discontinuation.pdf
+  sha256: 25241973f2f3475c7ec7300590ba837e7cebc237480254b1488d855b4c265b09
+  last_checked: '2026-07-21'
+  notes: Firewatch (OSH Policy 8.043)
+- id: oha-osh-6-042
+  url: https://www.oregon.gov/oha/OSH/Policies/6.042%20Short-Term%20Assessment%20of%20Risk%20and%20Treatability%20%28START%29/6.042%20Short-Term%20Assessment%20of%20Risk%20and%20Treatability%20%28START%29.pdf
+  sha256: c27c13c9a98dacc0fd535b0fd1d31b359f4937bebe5a0c75f8edbed9e3c5c847
+  last_checked: '2026-07-21'
+  notes: Short-Term Assessment of Risk and Treatability (START) (OSH Policy 6.042)
+- id: oha-osh-6-005
+  url: https://www.oregon.gov/oha/OSH/Policies/6.005%20Patient%20Death%20and%20Organ%20Donation/6.005%20Patient%20Death%20and%20Organ%20Donation_.pdf
+  sha256: 42f182985d5dc8811beecd42e2e000b754c987692200b37c2460b61cf90783dd
+  last_checked: '2026-07-21'
+  notes: Patient Death and Organ Donation (OSH Policy 6.005)
+- id: oha-osh-10-003
+  url: https://www.oregon.gov/oha/OSH/Policies/10.003%20Medication%20Crush/10.003%20Medication%20Crush%20.pdf
+  sha256: 0c51134ca49625a2791f9dbeed4b8444fbe52702cc935783aa9719931add5362
+  last_checked: '2026-07-21'
+  notes: Medication Crush (OSH Policy 10.003)
+- id: oha-osh-8-026
+  url: https://www.oregon.gov/oha/OSH/Policies/8.026%20Visitors%20to%20Patients/8.026%20Visitors%20to%20Patients.pdf
+  sha256: e864c363bfc9340128f68b42314bd7eefc44a5e017170c5160d406920158c999
+  last_checked: '2026-07-21'
+  notes: Visitors to Patients (OSH Policy 8.026)
+- id: oha-osh-6-067
+  url: https://www.oregon.gov/oha/OSH/Policies/6.067%20Opioid%20Prescription%20Use%20and%20Opioid%20Overdose%20Reversal%20with%20Naloxone%20%28Narcan%C2%AE%29/6.067%20Opioid%20Prescription%20Use%20and%20Opioid%20Overdose%20Reversal%20with%20Naloxone%20%28Narcan%C2%AE%29.pdf
+  sha256: 23f9dcf658ebe16872b8a664ed446d1fd168058d5f85400a213c7ba65cb0dbf9
+  last_checked: '2026-07-21'
+  notes: Opioid Prescription Use and Opioid Overdose Reversal with Naloxone (Narcan®) (OSH Policy 6.067)
+- id: oha-osh-8-031
+  url: https://www.oregon.gov/oha/OSH/Policies/8.031%20Personal%20Protective%20Equipment/8.031%20Procedures%20A%20-%20PPE%20Specific%20Guidance.pdf
+  sha256: 4c1ddedbcd6a1c9d6d518e8ff8f11288c4b55137e8a949049ecf8c616aeb7562
+  last_checked: '2026-07-21'
+  notes: Personal Protective Equipment (OSH Policy 8.031)
+- id: oha-osh-6-047
+  url: https://www.oregon.gov/oha/OSH/Policies/6.047%20Patient%20Food/6.047%20-%20Patient%20Food.pdf
+  sha256: 91ff9efd822696cbf075e76b0e40319c84a83e80b22fd6e5795234b1d7f779e7
+  last_checked: '2026-07-21'
+  notes: Patient Food (OSH Policy 6.047)
+- id: oha-osh-8-046
+  url: https://www.oregon.gov/oha/OSH/Policies/8.046%20Shields/8.046%20Shields%20.pdf
+  sha256: 4db29018b7ca9ea65177734328581bd4a14b92560b35709df6379b85e4bfa602
+  last_checked: '2026-07-21'
+  notes: Shields (OSH Policy 8.046)
+- id: oha-osh-5-017
+  url: https://www.oregon.gov/oha/OSH/Policies/5.017%20Dress%20Code%20for%20Staff/5.017%20Dress%20Code%20for%20Staff%20.pdf
+  sha256: 0f33d313524f5267307d1dce3d3271e63a96b74053a055fce03f0b7180db5683
+  last_checked: '2026-07-21'
+  notes: Dress Code for Staff (OSH Policy 5.017)
+- id: oha-osh-6-056
+  url: https://www.oregon.gov/oha/OSH/Policies/6.056%20Suicide%20Risk%20Screening%2C%20Assessment%20%28ADMINISTRATIVE%20DIRECTIVE%29/6.056%20Suicide%20Risk%20Screening%20and%20Assessment.pdf
+  sha256: 71d11c465cdda8c0b8a9923dd192a579a1955015297b78be37310b2a63752327
+  last_checked: '2026-07-21'
+  notes: Suicide Risk Screening, Assessment (ADMINISTRATIVE DIRECTIVE) (OSH Policy 6.056)
+- id: oha-osh-6-068
+  url: https://www.oregon.gov/oha/OSH/Policies/6.068%20Random%20Urine%20Drug%20Screening/6.068%20Random%20Urine%20Drug%20Screening%20SW.pdf
+  sha256: da34eeb6e3dec63f72ea540c5b32e1919bad9eba0ba826adbe7ba3cab090a027
+  last_checked: '2026-07-21'
+  notes: Random Urine Drug Screening (OSH Policy 6.068)
+- id: oha-osh-8-019
+  url: https://www.oregon.gov/oha/OSH/Policies/8.019%20Staff%20Response%20to%20Alleged%20Criminal%20Acts/8.019%20Staff%20Response%20to%20Alleged%20Criminal%20Acts.pdf
+  sha256: 4f0d292c913191371cda6e227ace287c572a0c7a2b5f32d467e4075e2aa633df
+  last_checked: '2026-07-21'
+  notes: Staff Response to Alleged Criminal Acts (OSH Policy 8.019)
+- id: oha-osh-8-041
+  url: https://www.oregon.gov/oha/OSH/Policies/8.041%20Patient%20Personal%20Searches/8.041%20-%20Procedures%20A%20-%20Wanding%20.pdf
+  sha256: 28bf35f59cbb6f2ed98b043cddcc02d64de663f5b04590bf67e52830115bd355
+  last_checked: '2026-07-21'
+  notes: Patient Personal Searches (OSH Policy 8.041)
+- id: oha-osh-5-021
+  url: https://www.oregon.gov/oha/OSH/Policies/5.021%20Background%20Checks/5.021%20Background%20Checks.pdf
+  sha256: fd556a0edff1a709c484893810d6687ce8d2943f3544f0f96d2511eb3336a3e1
+  last_checked: '2026-07-21'
+  notes: Background Checks (OSH Policy 5.021)
+- id: oha-osh-6-001
+  url: https://www.oregon.gov/oha/OSH/Policies/6.001%20Patient%20Transfers%20%28ADMINISTRATIVE%20DIRECTIVE%29/6.001%20Patient%20Transfers.pdf
+  sha256: 865274b66be074934870041a0930aaac0e1b7cffc9a837cfd9d546542011d3d5
+  last_checked: '2026-07-21'
+  notes: Patient Transfers (ADMINISTRATIVE DIRECTIVE) (OSH Policy 6.001)
+- id: oha-osh-6-010
+  url: https://www.oregon.gov/oha/OSH/Policies/6.010%20Patient%20Observation%20and%20Enhanced%20Supervision/6.010%20Procedures%20B%20-%20Supervision%20Practices.pdf
+  sha256: 6fe0ae74f37f9efdfddc679fccd56394b5593de6c7e955f49db42c4352e8c1a1
+  last_checked: '2026-07-21'
+  notes: Patient Observation and Enhanced Supervision (OSH Policy 6.010)
+- id: oha-osh-8-044
+  url: https://www.oregon.gov/oha/OSH/Policies/8.044%20Contraband%2C%20Prohibited%20Items%2C%20Limited%20Access%20Items%20%28ADMINISTRATIVE%20DIRECTIVE%29/8.044%20Contraband%20Prohibited%20Items%20Limited%20Access%20Items.pdf
+  sha256: c9bc26301fe557de2b001fd2fb1418b621f77db27b6925cf047e1eaa3d4923c9
+  last_checked: '2026-07-21'
+  notes: Contraband, Prohibited Items, Limited Access Items (ADMINISTRATIVE DIRECTIVE) (OSH Policy 8.044)
+- id: oha-osh-6-046
+  url: https://www.oregon.gov/oha/OSH/Policies/6.046%20Patient%20Falls%20Program/6.046%20Patient%20Falls%20Program.pdf
+  sha256: 975a4f89d57d072a386af4259e68c48ba7886987d584f29d480f2de56233a0fc
+  last_checked: '2026-07-21'
+  notes: Patient Falls Program (OSH Policy 6.046)
+- id: oha-osh-7-018
+  url: https://www.oregon.gov/oha/OSH/Policies/7.018%20Meaningful%20Involvement%20%28MI%29/7.018%20Meaningful%20Involvement%20.pdf
+  sha256: f71891684ad75b781f69a067f77a3bc6e899821340f51d45a9961355ebbff951
+  last_checked: '2026-07-21'
+  notes: Meaningful Involvement (MI) (OSH Policy 7.018)
+- id: oha-osh-8-038
+  url: https://www.oregon.gov/oha/OSH/Policies/8.038%20Code%20Blue%20Medical%20Emergency/8.038%20Code%20Blue%20Medical%20Emergency.pdf
+  sha256: 6608f952c52d45671e5e0b211855b6da3d6cea55ada0bba2ccc2678831391800
+  last_checked: '2026-07-21'
+  notes: Code Blue Medical Emergency (OSH Policy 8.038)
+- id: oha-osh-6-069
+  url: https://www.oregon.gov/oha/OSH/Policies/6.069%20Escalation%20of%20Clinical%20Concerns/6.069%20Escalation%20of%20Clinical%20Concerns.pdf
+  sha256: b11b420565ecc2e27a832166f495674e817ba5c08c436a0269b05a8604c51498
+  last_checked: '2026-07-21'
+  notes: Escalation of Clinical Concerns (OSH Policy 6.069)
+- id: oha-osh-6-003
+  url: https://www.oregon.gov/oha/OSH/Policies/6.003%20Seclusion%20or%20Restraints/6.003%20Seclusion%20or%20Restraint.pdf
+  sha256: c90d61d5e1834a76acfb3b21b53d94c6ea10b5c4b6aa8738a57d1fc661d069b4
+  last_checked: '2026-07-21'
+  notes: Seclusion or Restraints (OSH Policy 6.003)
+- id: oha-osh-6-070
+  url: https://www.oregon.gov/oha/OSH/Policies/6.070%20Medical%20Care%20of%20Patients/6.070%20Medical%20Care%20of%20Patients.pdf
+  sha256: 7c7fdeae640da45067c4913e9a18a14789464c9b6de4856fff4946a65b150e91
+  last_checked: '2026-07-21'
+  notes: Medical Care of Patients (OSH Policy 6.070)
+- id: oha-osh-6-020
+  url: https://www.oregon.gov/oha/OSH/Policies/6.020%20Interpreter%20Language%20Services%20for%20Patients/6.020%20Language%20Services%20for%20Patients.pdf
+  sha256: 886dd3f6b4d06c1fd9c994830912b7e0aea086f04970a1b6ce1bceacce0e9526
+  last_checked: '2026-07-21'
+  notes: Interpreter Language Services for Patients (OSH Policy 6.020)
+- id: oha-osh-6-029
+  url: https://www.oregon.gov/oha/OSH/Policies/6.029%20Risk%20Review%20and%20Privileges%20%28ADMINISTRATIVE%20DIRECTIVE%29/6.029%20Risk%20Review%20and%20Privileges.pdf
+  sha256: fa5cd443fd38770844b828976664b5466372e1a484fdbf120d8ff1d13f1541bf
+  last_checked: '2026-07-21'
+  notes: Risk Review and Privileges (ADMINISTRATIVE DIRECTIVE) (OSH Policy 6.029)
+- id: oha-osh-6-071
+  url: https://www.oregon.gov/oha/OSH/Policies/6.071%20OSH%20History%20and%20Physical%20Examination%20Requirements/6.071%20Oregon%20State%20Hospital%20History%20and%20Physical%20Examination%20Requirements.pdf
+  sha256: 9663bbcc6429fb9bd41a14432eeec6d438351f9c5cd14c45d918d07e8a5b4c13
+  last_checked: '2026-07-21'
+  notes: OSH History and Physical Examination Requirements (OSH Policy 6.071)
+- id: oha-osh-8-022
+  url: https://www.oregon.gov/oha/OSH/Policies/8.022%20Code%20Red%20Response/8.022%20Code%20Red%20Response.pdf
+  sha256: ab8160471369de7346150da301f9b7d72558fa8197944aacac5cb775cbe785b5
+  last_checked: '2026-07-21'
+  notes: Code Red Response (OSH Policy 8.022)
+- id: oha-osh-5-001
+  url: https://www.oregon.gov/oha/OSH/Policies/5.001%20Drug-free%20Workplace/5.001%20-%20Executive%20Summary%2004.01.26.pdf
+  sha256: 272dc0ab8c8a44dad24e87342210532117910c543495a3d15e4287bb90f9753e
+  last_checked: '2026-07-21'
+  notes: Drug-free Workplace (OSH Policy 5.001)
+- id: oha-osh-2-008
+  url: https://www.oregon.gov/oha/OSH/Policies/2.008%20Privacy%20and%20Information%20Security%20of%20Patient%20Information/2.008%20Executive%20Summary.pdf
+  sha256: fa2cdfd5ec5c23034feabaf15bbaefbbc165e308efef590aa030c56470a05637
+  last_checked: '2026-07-21'
+  notes: Privacy and Information Security of Patient Information (OSH Policy 2.008)
+- id: oha-osh-8-001
+  url: https://www.oregon.gov/oha/OSH/Policies/8.001%20Video%20Surveillance/8.001%20Video%20Surveillance.pdf
+  sha256: 38c05308925aa86c44c679c817e4af61778448ede585b19a93b2f74d8586f1d8
+  last_checked: '2026-07-21'
+  notes: Video Surveillance (OSH Policy 8.001)
+- id: oha-osh-2-001
+  url: https://www.oregon.gov/oha/OSH/Policies/2.001%20Infection%20Prevention%20Program/2.001%20Infection%20Prevention%20Program.pdf
+  sha256: 3c4c4cceceaacd55800e427d9d4c3e07f54e5ed52886472e0e55e505629750a6
+  last_checked: '2026-07-21'
+  notes: Infection Prevention Program (OSH Policy 2.001)
+- id: oha-osh-3-002
+  url: https://www.oregon.gov/oha/OSH/Policies/3.002%20Electrical%20Equipment%20and%20Resource%20Conservation/3.002%20Electrical%20Equipment%20and%20Resource%20Conservation.pdf
+  sha256: fac72789036d72023f65d3ee93ef062ec0d70ce631130e06ad59436f03f47c32
+  last_checked: '2026-07-21'
+  notes: Electrical Equipment and Resource Conservation (OSH Policy 3.002)
+- id: oha-osh-8-048
+  url: https://www.oregon.gov/oha/OSH/Policies/8.048%20OSH%20Response%20to%20Law%20Enforcement/8.048%20OSH%20Response%20to%20Law%20Enforcement.pdf
+  sha256: 4f71ec9bb549d2862f13e7544dbe3caab77c6ed87677cbb8a0e4cee16fec11fe
+  last_checked: '2026-07-21'
+  notes: OSH Response to Law Enforcement (OSH Policy 8.048)

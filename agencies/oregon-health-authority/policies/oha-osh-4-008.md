@@ -1,0 +1,190 @@
+---
+id: oha-osh-4-008
+title: "Peggy Ross Trust Fund"
+doc_type: policy
+citation: "OSH Policy 4.008"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/4.008%20Peggy%20Ross%20Trust%20Fund/4.008%20Peggy%20Ross%20Trust%20Fund.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "5429ac76722f922775a640840949647bca9ef1d5f8ed0ab8191129ad0574721d"
+effective_date: "2024-07-25"
+last_reviewed: null
+source_version: "Effective JULY 25, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/4.008%20Peggy%20Ross%20Trust%20Fund/4.008%20Peggy%20Ross%20Trust%20Fund.pdf> (retrieved 2026-07-21).
+
+# Peggy Ross Trust Fund (OSH Policy 4.008)
+
+## At a glance
+
+OSH Policy 4.008 — Peggy Ross Trust Fund. Oregon State Hospital (Oregon Health Authority). Effective JULY 25, 2024.
+
+## Full text
+
+                      OREGON STATE HOSPITAL
+                                           POLICY
+SECTION 4:        Fiscal                                                     POLICY: 4.008
+
+SUBJECT:          Peggy Ross Trust Fund
+
+POINT PERSON:     Director of Volunteer Services
+
+APPROVED:         Sara Walker, MD                                     DATE: JULY 25, 2024
+
+                  Interim Superintendent
+
+SELECT ONE:       New policy                               Minor/technical revision of
+                                                           existing policy
+
+                  Reaffirmation of existing policy         Major revision of existing policy
+
+ I. PURPOSE AND APPLICABILITY
+   A. The Peggy Ross Trust Fund was established to provide funding for clinical
+      projects that directly benefit patients at Oregon State Hospital (OSH). The
+      Volunteer Services Director (Director) is responsible for administering the trust
+      funds. This policy guides staff and establishes requirements for the application
+      and award process.
+   B. This policy applies to all staff.
+
+II. POLICY
+      A. The Director is responsible to establish a common format and specific criteria
+         for Peggy Ross Trust Fund proposals each year. The Director must make
+         these criteria available well in advance of the submission deadline.
+           1. Proposal formats must include:
+              a. identification of the need or problem addressed;
+              b. definition of the goals and objectives;
+              c. definition of the goals and objectives;
+              d. description of expected benefits and proposed impact upon patient
+                 care;
+              e. definition of the project methods which indicate the goals and
+                 objectives are addressed by the project;
+              f. definition of the method and criteria used to evaluate the project at the
+                 end of the specified project time; and
+
+Subject:                                                            Policy Number: 4.008
+             Peggy Ross Trust Fund
+Date:
+             July 25, 2024                                                 P AGE 2 OF 4
+
+              g. description of needed materials or services and estimated costs.
+           2. On March 31 of each year, the Director must send a reminder of the
+              proposal submission deadline to all program directors and discipline
+              directors. The reminder must include the approximate projected dollar
+              amount expected to be available that year, the project proposal criteria,
+              and the proposal format for that year.
+  B. A department, a program, or an individual may submit a proposal.
+        1. Proposals submitted must demonstrate direct benefit to OSH patients.
+        2. Proposals must follow the format and criteria established by the Director.
+           a. Proposals involving separate expenditures over several months must
+              include a schedule of expenditures as part of the proposal.
+           b. Proposals which anticipate follow-up awards in subsequent years must
+              indicate anticipated follow-up awards in the first year proposal (NOTE:
+              such proposals must be submitted each subsequent year).
+        3. Proposals must be submitted no later than May 1.
+        4. The money requested in a proposal may be all or part of the available funds
+           for the period.
+  C. The Director must consider all proposals and recommend funding select
+     proposals to Superintendent’s Cabinet.
+        1. On June 1, the Director must submit the proposals recommended for funding
+           to the Superintendent’s Cabinet.
+        2. Superintendent’s Cabinet will review the presented proposals and select
+           projects to fund.
+        3. The number of proposals funded will depend on the quality of proposals and
+           amount of funds available.
+        4. The Director must notify the authors of approved funded projects by memo.
+           a. The memo must include instructions that monies awarded are available
+              no later than June 30.
+           b. Sponsoring directors must be copied on the memo.
+  D. The Business Office must provide the Director with the amount of interest
+     available for consideration on or near January 1.
+        1. The amount available is the interest accrued from January 1 through
+           December 31 of the previous year.
+
+Subject:                                                           Policy Number: 4.008
+             Peggy Ross Trust Fund
+Date:
+             July 25, 2024                                                P AGE 3 OF 4
+
+        2. The amount available may not exceed the interest earned that year, less any
+           necessary expenses that may occur in managing the fund.
+        3. Monies awarded must be available no later than June 30.
+        4. Unexpended or unobligated balances from the prior year must revert to the
+           fund and become a part of the principal on December 31 of the following year.
+        5. The Business Office must establish other necessary monetary procedures to
+           verify proper distribution and use of funds.
+  E. Purchases are subject to all state purchasing rules. Items purchased with these
+  trust funds become hospital property unless otherwise indicated.
+        1. The Director must keep track of the awards – including when partial orders
+           are involved.
+        2. Purchases made under Peggy Ross Trust funds must originate with an
+           approved request for purchase (RFP) clearly marked as to the source of
+           funding.
+        3. The RFP must be first approved by the Director.
+        4. In the case of purchases of services, such as entertainment, a Personal
+           Services Contract must be executed in accordance with purchasing rules.
+           a. A “Contract Request” form MSC 0118 must be completed and submitted
+              to the Director instead of a RFP.
+           b. After approval by the Director, the Purchasing Department must forward
+              the RFP to the Office of Contracts and Administration for execution of a
+              Personal Services Contract.
+        5. Projects must be completed and awarded funds expended by November 30
+           of the current year following the award.
+        6. For those projects which are not completed by November 30, the sponsor
+           must provide the Director with a status report on December 1. The report
+           must include a revised estimate of the completion date.
+  F. The program directors or discipline directors who have sponsored approved
+     proposals must monitor the projects until the project is completed.
+  G. If notification dates indicated in this policy are not able to be met due to a
+     legitimate reason for delay, notification dates may be adjusted to accommodate
+     the delay as long as funds are awarded and expended as intended by
+     November 30 of the same year.
+  H. OSH follows all applicable regulations, including federal and state statutes and
+     rules; Oregon Department of Administrative Services (DAS), Shared Services,
+
+ Subject:                                                            Policy Number: 4.008
+              Peggy Ross Trust Fund
+ Date:
+              July 25, 2024                                                 P AGE 4 OF 4
+
+         and Oregon Health Authority (OHA) policies; and relevant accreditation
+         standards. Such regulations supersede the provisions of this policy unless this
+         policy is more restrictive.
+   I. Staff who fail to comply with this policy or related policy attachments or protocols
+      may be subject to disciplinary action, up to and including dismissal.
+
+III. DEFINITIONS
+   A. “Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
+      and other state employees assigned to work at Oregon State Hospital (OSH).
+
+IV. RELATED OSH POLICIES AND PROTOCOLS
+   Oregon state hospital request for purchase, MSC 0114OSH [Oregon State Hospital
+   form]
+
+V. REFERENCES
+   Contract request, MSC 0118 [Shared Services form]
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/4.008%20Peggy%20Ross%20Trust%20Fund/4.008%20Peggy%20Ross%20Trust%20Fund.pdf> · retrieved 2026-07-21 · sha256 `5429ac76722f922775a640840949647bca9ef1d5f8ed0ab8191129ad0574721d`
+- Snapshot: `_meta/snapshots/oha-osh-4-008.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

@@ -73,12 +73,12 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Department of Fish and Wildlife | unclassified | unknown | 1693 | 1693 | 0 | 0 | — |
 | Department of Forestry | unclassified | unknown | 522 | 522 | 0 | 0 | — |
 | Department of Geology and Mineral Industries | unclassified | unknown | 223 | 223 | 0 | 0 | — |
-| Department of Human Services | unclassified | unknown | 143 | 143 | 0 | 0 | — |
-| Department of Human Services, Aging and People with Disabilities and Developmental Disabilities | unclassified | unknown | 955 | 955 | 0 | 0 | — |
-| Department of Human Services, Child Welfare Programs | unclassified | unknown | 661 | 661 | 0 | 0 | — |
-| Department of Human Services, Home Care Commission | unclassified | unknown | 24 | 24 | 0 | 0 | — |
-| Department of Human Services, Self-Sufficiency Programs | unclassified | unknown | 519 | 519 | 0 | 0 | — |
-| Department of Human Services, Vocational Rehabilitation Services | unclassified | unknown | 105 | 105 | 0 | 0 | — |
+| [Department of Human Services](department-of-human-services/_index.md) | executive branch | web | 160 | 160 | 0 | 0 | 2026-07-21 |
+| Department of Human Services, Aging and People with Disabilities and Developmental Disabilities | unclassified | unknown | 955 | 955 | 0 | 0 | 2026-07-21 |
+| Department of Human Services, Child Welfare Programs | unclassified | unknown | 661 | 661 | 0 | 0 | 2026-07-21 |
+| Department of Human Services, Home Care Commission | unclassified | unknown | 24 | 24 | 0 | 0 | 2026-07-21 |
+| Department of Human Services, Self-Sufficiency Programs | unclassified | unknown | 519 | 519 | 0 | 0 | 2026-07-21 |
+| Department of Human Services, Vocational Rehabilitation Services | unclassified | unknown | 105 | 105 | 0 | 0 | 2026-07-21 |
 | Department of Justice | executive branch | unknown | 747 | 747 | 0 | 0 | — |
 | Department of Public Safety Standards and Training | unclassified | unknown | 141 | 141 | 0 | 0 | — |
 | Department of Revenue | unclassified | unknown | 928 | 928 | 0 | 0 | — |
@@ -131,23 +131,23 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Oregon Film and Video Office | unclassified | unknown | 30 | 30 | 0 | 0 | — |
 | Oregon Forest Resources Institute | unclassified | unknown | 12 | 12 | 0 | 0 | — |
 | Oregon Government Ethics Commission | unclassified | unknown | 41 | 41 | 0 | 0 | — |
-| Oregon Health Authority | unclassified | unknown | 115 | 115 | 0 | 0 | — |
-| Oregon Health Authority Equity and Inclusion Division | unclassified | unknown | 44 | 44 | 0 | 0 | — |
-| Oregon Health Authority, Health Licensing Office | unclassified | unknown | 284 | 284 | 0 | 0 | — |
-| Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board | unclassified | unknown | 11 | 11 | 0 | 0 | — |
-| Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians | unclassified | unknown | 20 | 20 | 0 | 0 | — |
-| Oregon Health Authority, Health Licensing Office, Board of Cosmetology | unclassified | unknown | 65 | 65 | 0 | 0 | — |
-| Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery | unclassified | unknown | 25 | 25 | 0 | 0 | — |
-| Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians | unclassified | unknown | 8 | 8 | 0 | 0 | — |
-| Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board | unclassified | unknown | 14 | 14 | 0 | 0 | — |
-| Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board | unclassified | unknown | 18 | 18 | 0 | 0 | — |
-| Oregon Health Authority, Health Policy and Analytics | unclassified | unknown | 134 | 134 | 0 | 0 | — |
-| Oregon Health Authority, Health Systems Division: Addiction Services | unclassified | unknown | 128 | 128 | 0 | 0 | — |
-| Oregon Health Authority, Health Systems Division: Behavioral Health Services | unclassified | unknown | 495 | 495 | 0 | 0 | — |
-| Oregon Health Authority, Health Systems Division: Medical Assistance Programs | unclassified | unknown | 716 | 716 | 0 | 0 | — |
-| Oregon Health Authority, Oregon Prescription Drug Program | unclassified | unknown | 7 | 7 | 0 | 0 | — |
-| Oregon Health Authority, Public Employees' Benefit Board | unclassified | unknown | 70 | 70 | 0 | 0 | — |
-| Oregon Health Authority, Public Health Division | unclassified | unknown | 2294 | 2294 | 0 | 0 | — |
+| [Oregon Health Authority](oregon-health-authority/_index.md) | executive branch | web | 304 | 304 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority Equity and Inclusion Division | unclassified | unknown | 44 | 44 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Licensing Office | unclassified | unknown | 284 | 284 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board | unclassified | unknown | 11 | 11 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians | unclassified | unknown | 20 | 20 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Licensing Office, Board of Cosmetology | unclassified | unknown | 65 | 65 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery | unclassified | unknown | 25 | 25 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians | unclassified | unknown | 8 | 8 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board | unclassified | unknown | 14 | 14 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board | unclassified | unknown | 18 | 18 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Policy and Analytics | unclassified | unknown | 134 | 134 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Systems Division: Addiction Services | unclassified | unknown | 128 | 128 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Systems Division: Behavioral Health Services | unclassified | unknown | 495 | 495 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Systems Division: Medical Assistance Programs | unclassified | unknown | 716 | 716 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Oregon Prescription Drug Program | unclassified | unknown | 7 | 7 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Public Employees' Benefit Board | unclassified | unknown | 70 | 70 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Public Health Division | unclassified | unknown | 2294 | 2294 | 0 | 0 | 2026-07-21 |
 | Oregon Housing and Community Services Department | unclassified | unknown | 602 | 602 | 0 | 0 | — |
 | Oregon Investment Council | unclassified | unknown | 3 | 3 | 0 | 0 | — |
 | Oregon Liquor Control Commission | unclassified | unknown | 414 | 414 | 0 | 0 | — |

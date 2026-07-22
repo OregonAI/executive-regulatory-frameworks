@@ -1,0 +1,192 @@
+                                                   SHARED SERVICES
+                                              Office of Information Services
+                                         Information Security and Privacy Office
+
+    Operational Policy
+
+    Policy title:             Information System Maintenance Policy
+
+    Policy number:            ODHSOHA 090-012
+
+    Original date:             06/06/2022                       Last update: 2/1/2026
+                              Kris Kautz, Deputy Director OHA
+    Approved:
+                              Seth Lyons COO ODHS
+
+Purpose
+The Oregon Department of Human Services (ODHS) and the Oregon Health Authority (OHA) are
+responsible for the establishment and implementation of information system controls that safeguard the
+confidentiality, integrity, and availability of information systems.
+
+Description
+This policy addresses risks related to information systems maintenance and repairs by establishing an
+information system maintenance program. This policy outlines the requirements for maintenance of
+information systems and information system components for ODHS and OHA.
+
+Applicability
+This policy applies to all ODHS and OHA staff including full-time, part-time, contingent, temporary, and
+limited duration employees, volunteers, trainees, and interns.
+
+As keepers of the public trust, all ODHS and OHA staff play a vital role in upholding state and agency
+policies, administrative rules, and state and federal laws. ODHS and OHA are committed to exceptional
+public and customer service. The agencies are dedicated to maintaining standards of exceptional
+service and trust staff to do the same. Failure to follow policies, rules and laws may result in beginning
+a personnel process to consider formal action as appropriate, including progressive discipline up to and
+including dismissal from state service.
+
+If this policy is intended to apply to contractors or grantees the necessary language must incorporated
+into the contract.
+
+Policy
+1. The information system owner1 or designee shall authorize, approve, control, and monitor
+     maintenance and diagnostic activities performed on ODHS and OHA virtual or physical
+     information systems, hardware, or software whether those activities are performed on or off-site.
+2. Maintenance is any act that either prevents the failure or malfunction of equipment, software, or
+     systems, or restores its operating capability.2
+
+
+1
+    National Institutes of Standards and Technology (NIST) SP 800-53 Rev. 5 Glossary
+2
+    NIST SP 800-53 Rev. 5 Maintenance (MA)-1
+
+                                                       Page 1 of 4                     ODHSOHA 090-012 (02/2026)
+3.   This policy shall apply to all information systems and information system components that are
+     managed by, or managed for, ODHS and OHA including, but not limited to:
+      a. Mainframes, servers, and other devices that provide centralized computing capabilities.
+      b. Devices that provide centralized storage capabilities.
+      c. Desktops, laptops, and other devices that provide distributed computing capabilities.
+      d. Mobile communication devices.
+      e. Routers, switches, and other devices that provide network capabilities.
+      f. Firewalls, intrusion detection and prevention systems, and other devices that provide
+          dedicated security capabilities.
+      g. Associated media such as scanners, copiers, and printers.
+4.   Maintenance requirements for cloud or hosted service providers shall align with the Statewide
+     Information Technology (IT) Control Standards and reflect the agreed upon service level
+     agreement.
+5.   The information system owner or designee shall approve the removal of information systems or
+     information system components for off-site maintenance, repair, or replacement,3 and ensure that
+     the equipment being maintained does not contain agency information4 by:
+     a. Verifying that organizational information is not contained on the equipment when the
+          equipment has the capability of retaining information.
+     b. Sanitizing or destroying the equipment in accordance with state and federal requirements.
+     c. Retaining the equipment within the facility.
+     d. Obtaining an exemption from the information owner explicitly authorizing removal of the
+          equipment from the facility.
+6.   All media containing agency data shall be sanitized in accordance with ODHSOHA 090-011-01
+     Media Disposal Process prior to removal for off-site maintenance, repair, or replacement.5
+7.   Only authorized staff shall schedule, perform, document, and review records of maintenance and
+     repairs on information system components in accordance with manufacturer, vendor, or partner
+     specifications and organizational requirements. Authorized staff shall:
+     a. Send notification of the date, time, and description of the planned maintenance activity to
+          ODHSOHA information system owners in accordance with the ODHSOHA 070-015
+          Information Technology Change Management Policy.
+     b. Coordinate and follow maintenance activities inside of designated change management
+          windows as required by ODHSOHA 070-015 and the OIS Change Management Process.
+     c. Monitor vendor and partner changes that have potential to impact the ODHS and OHA
+          information systems environment.
+     d. Coordinate with appropriate OIS units to complete activities necessary for repair, dependent
+          upon the warranty coverage of the device.
+8.   Only authorized staff or technicians shall have unescorted access to agency-owned information
+     systems. Individuals without appropriate access, such as Criminal Justice Information Services
+     (CJIS) clearance, shall be escorted at all times by staff with the technical competence to supervise
+     the maintenance activities.6 7
+
+
+3
+  NIST SP 800-53 Rev. 5 MA-2
+4
+  NIST SP 800-53 Rev. 5 MA-3.b(3)
+5
+  Statewide IT Control Standards MA-2(d)
+6
+  Statewide IT Control Standards MA-5(1)
+7
+  Statewide IT Control Standards MA-5.c.
+
+                                              Page 2 of 4                ODHSOHA 090-012 (02/2026)
+9.    All access by vendors for maintenance activities, whether performed on-site or remotely, and for
+      maintenance tools that execute with increased privilege, shall be approved, monitored, and
+      documented including:
+      a. Using remote maintenance, diagnostic tools, and encryption consistent with agency policy
+           and documented in the security plan for the system.
+      b. Employing strong authentication in the establishment of remote sessions.
+      c. Terminating session and network connections when remote maintenance is completed.
+10.   Following maintenance, repair, or replacement actions, authorized staff shall check all potentially
+      affected controls to verify that the controls are still functioning properly.
+11.   Maintenance tools shall be approved, controlled, monitored, and documented in accordance with:
+      a. IT Standards and Approved Products List.
+      b. Approved contracts with third party entities.
+12.   Maintenance tools can include hardware, software, and firmware items such as diagnostic test
+      equipment and packet sniffers.8 The use of maintenance tools shall be restricted to authorized
+      staff and comply with the following requirements:
+      a. Have current patches and updates installed.
+      b. Be inspected for improper or unauthorized modifications.
+      c. Be checked for malicious code before use in the system.
+      d. Be reviewed at least annually.
+13.   Maintenance support and spare or replacement parts shall be available for critical information
+      systems.9
+14.   Information system maintenance records shall be retained as long as the system is operational.
+      When the system is decommissioned, the records follow the record retention requirements.
+      System maintenance records shall include the following information:10
+      a. Component name.
+      b. Component serial number.
+      c. Date and time of maintenance.
+      d. Maintenance performed.
+      e. Names of entity performing maintenance, including the escort if required.
+
+References
+Acceptable Risk Controls for Affordable Care Act for Medicaid Partner Exchanges
+Center for Internet Security Critical Security Controls
+Criminal Justice Information Services (CJIS) Security Policy
+National Institute of Standards and Technology (NIST) SP 800-53 Rev. 5, Security and Privacy
+Controls for Federal Information Systems and Organizations
+NIST SP 800-82 Rev. 3 Guide to Operational Technology (OT) Security
+ODHSOHA 090-011-01 Media Disposal Process
+Oregon Administrative Rules (OARs) 166-300-0030(1) Information and Records Management Records
+
+
+8
+  NIST SP 800-53 Rev. 5, MA-3
+9
+  Statewide IT Control Standards MA-6
+10
+   Criminal Justice Information Services (CJIS) 5.9.4, MA-2(f)1-4
+
+                                                        Page 3 of 4       ODHSOHA 090-012 (02/2026)
+Statewide Information Technology (IT) Control Standards
+OIS Change Management Process
+IT Standards and Approved Products List
+
+Related policies
+DAS 107-004-110 Acceptable Use of State Information Assets
+DAS 107-004-150 Cloud or Hosted Systems Policy
+ODHSOHA 070-006 Disaster Recovery Policy for Information Technology
+ODHSOHA 070-015 Information Technology Change Management Policy
+ODHSOHA 090-009 Administrative, Technical and Physical Safeguards of Information Policy
+
+This policy shall be reviewed and updated at least once every year and following any security incidents
+involving unauthorized access to CJI or systems used to process, store, or transmit CJI.
+
+Contact
+Information Security and Privacy Office
+OIS-ISPO-InfoSecurity@odhsoha.oregon.gov
+
+History
+Version 1 ODHS|OHA 090-012 established 06/06/2022
+Version 2 revised 04/03/2023
+Version 3 revised 09/09/2024
+Version 4 reviewed 02/01/2026
+
+Keywords
+Equipment, maintenance tools, remote maintenance
+
+You can get this document in other languages, large print, braille or a format you prefer free of charge.
+Contact Publications and Creative Services at dhs-oha.publicationrequest@odhsoha.oregon.gov or 503-
+373-1342. We accept all relay calls.
+
+
+
+
+                                              Page 4 of 4                ODHSOHA 090-012 (02/2026)
+

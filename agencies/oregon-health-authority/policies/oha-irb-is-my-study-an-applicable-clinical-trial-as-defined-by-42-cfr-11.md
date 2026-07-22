@@ -1,0 +1,550 @@
+---
+id: oha-irb-is-my-study-an-applicable-clinical-trial-as-defined-by-42-cfr-11
+title: "Is my study an 'applicable clinical trial' as defined by 42 CFR 11?"
+doc_type: policy
+citation: "OHA Public Health IRB — Is my study an 'applicable clinical trial' as defined by 42 CFR 11?"
+authority_level: state_policy
+issuing_body: "Oregon Health Authority (Public Health Institutional Review Board)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/ApplicableClinicalTrialChart.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "a4a3fbf06b2f1f9b9fab29c5087d8a68fd08c528bee625f2859dc55eea6f4809"
+effective_date: null
+last_reviewed: null
+source_version: ""
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - ors-312.110
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'institutional-review-board', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/ApplicableClinicalTrialChart.pdf> (retrieved 2026-07-21).
+
+# Is my study an "applicable clinical trial" as defined by 42 CFR 11? (OHA Public Health IRB — Is my study an "applicable clinical trial" as defined by 42 CFR 11?)
+
+## At a glance
+
+OHA Public Health IRB — Is my study an "applicable clinical trial" as defined by 42 CFR 11? — Is my study an "applicable clinical trial" as defined by 42 CFR 11?. Oregon Health Authority (Public Health Institutional Review Board).
+
+## Full text
+
+                                                                                             ClinicalTrials.gov is a service of the
+                                                                                                    National Institutes of Health.
+
+          Checklist for Evaluating Whether a Clinical Trial or Study is an Applicable Clinical Trial (ACT)
+                Under 42 CFR 11.22(b) for Clinical Trials Initiated on or After January 18, 20171
+                                          (NOT FOR SUBMISSION2)
+
+Instructions: Answer the following questions to evaluate whether the study is an applicable clinical trial (ACT). Use the
+accompanying "Elaboration" for additional information to help answer the questions.
+
+    Question                                                                                                    Yes        No
+
+    1. Is the study interventional (a clinical trial)?
+       Study Type data element is “Interventional”
+
+    2. Do ANY of the following apply (is the answer “Yes” to at least one of the following
+       sub-questions: 2a, 2b, OR 2c)?
+        a. Is at least one study facility located in the United States or a U.S. territory?
+           Facility Location – Country data element is “United States,” “American Samoa,”
+           “Guam,” “Northern Mariana Islands,” “Puerto Rico,” “U.S. Virgin Islands,” or other
+           U.S. territory.
+         b. Is the study conducted under a U.S. FDA Investigational New Drug application (IND)
+            or Investigational Device Exemption (IDE)?
+            U.S. Food and Drug Administration IND or IDE Number data element is “Yes.”
+         c. Does the study involve a drug, biological, or device product that is manufactured in
+            and exported from the U.S. (or a U.S. territory) for study in another country?
+            Product Manufactured in and Exported from the U.S. data element is “Yes.”
+
+    3. Does the study evaluate at least one drug, biological, or device product regulated by the
+       United States Food and Drug Administration (U.S. FDA)?
+       Studies a U.S. FDA-regulated Device Product data element is “Yes” and/or
+       Studies a U.S. FDA-regulated Drug Product data element is “Yes.”
+
+    4. Is the study other than a Phase 1 trial of a drug and/or biological product or is the
+       study other than a device feasibility study?
+        For drug product trials, Study Phase data element is NOT “Phase 1” and
+        for device product trials, Primary Purpose is NOT “Device Feasibility.”
+
+If “Yes” is answered to all 4 questions, and the study was initiated on or after January 18, 2017, the trial would meet
+the definition of an ACT that is required to be registered under 42 CFR 11.22.
+
+1 All pediatric postmarket surveillance studies of a device product as required by U.S. FDA under section 522 of the FD&C Act and for
+
+which FDA approved the plan on or after January 18, 2017 meet the definition of an ACT in 42 CFR Part 11.22(b) and are subject to
+the final rule requirements.
+2 The outcome generated by the checklist tool will not be retained by the Agency and will not be binding on either the user or any
+
+Government agency in any future actions.
+ACT Checklist                                                     1                                                    27 June 2018
+
+                                                                                        ClinicalTrials.gov is a service of the
+                                                                                               National Institutes of Health.
+
+  Elaboration: Checklist for Evaluating Whether a Clinical Trial or Study is an Applicable Clinical Trial (ACT)
+               Under 42 CFR 11.22(b) for Clinical Trials Initiated on or After January 18, 2017
+
+The final rule for Clinical Trials Registration and Results Information Submission (42 CFR Part 11) specifies requirements
+for submitting clinical trial information to ClinicalTrials.gov. The “Checklist for Evaluating Whether a Clinical Trial or
+Study is an Applicable Clinical Trial (ACT)” (or “ACT Checklist”) and this elaboration is intended to assist users in
+evaluating whether a clinical trial or study is considered to meet the definition of an ACT, as specified in 42 CFR 11.22(b),
+and is subject to “expanded” registration requirements under the final rule.
+
+                                                 General Considerations
+
+1. Definition of ACT. Under the Final Rule, which implements Section 801 of the Food and Drug Administration
+   Amendments Act (FDAAA 801), two types of ACTs are defined:
+
+    •   Applicable device clinical trial: (1) a prospective clinical study of health outcomes comparing an intervention
+        with a device product subject to section 510(k), 515, or 520(m) of the Federal Food, Drug, and Cosmetic Act
+        (FD&C Act) (21 U.S.C. 360(k), 21 U.S.C. 360e, 21 U.S.C. 360j(m)) against a control in human subjects (other than a
+        small clinical trial to determine the feasibility of a device product, or a clinical trial to test prototype device
+        products where the primary outcome measure relates to feasibility and not to health outcomes); (2) a pediatric
+        postmarket surveillance of a device product as required under section 522 of the FD&C Act (21 U.S.C. 3601); or
+        (3) a clinical trial of a combination product with a device primary mode of action under 21 CFR Part 3, provided
+        that it meets all other criteria of the definition under this part. [Source: 42 CFR 11.10(a); 81 FR 65139]
+    •   Applicable drug clinical trial: a controlled clinical investigation, other than a phase 1 clinical investigation, of a
+        drug product subject to section 505 of the FD&C Act (21 U.S.C. 355) or a biological product subject to section
+        351 of the Public Health Service Act (PHS Act) (42 U.S.C. 262), where “clinical investigation” has the meaning
+        given in 21 CFR 312.3 and “phase 1” has the meaning given in 21 CFR 312.21. A clinical trial of a combination
+        product with a drug primary mode of action under 21 CFR Part 3 is also an applicable drug clinical trial, provided
+        that it meets all other criteria of the definition under this part. [Source: 42 CFR 11.10(a); 81 FR 65139]
+
+2. Determination of ACT. 42 CFR 11.22(b) sets forth an approach for determining whether or not a clinical trial
+   initiated on or after January 18, 2017, meets the regulatory definitions of an applicable device clinical trial and an
+   applicable drug clinical trial by identifying a series of specific criteria and the corresponding ClinicalTrials.gov
+   registration data elements. [Source: 81 FR 65029]
+
+    Please note the following caveats:
+
+    •   Pediatric Postmarket Surveillance Studies of a Device Product. While the ACT Checklist is intended to be used
+        to evaluate clinical trials only, all pediatric postmarket surveillance studies involving a device product as required
+        by U.S. FDA under section 522 of the FD&C Act and initiated on or after January 18, 2017, meet the definition of
+        an ACT in 42 CFR Part 11.22(b) and are subject to “expanded” registration requirements under the final rule.
+        Pediatric postmarket surveillance of a device product means the active, systematic, scientifically valid collection,
+        analysis, and interpretation of data or other information conducted under section 522 of the FD&C Act
+        (21 U.S.C. 360l) about a marketed device product that is expected to have significant use in patients who are
+        21 years of age or younger at the time of diagnosis or treatment. A pediatric postmarket surveillance of a device
+        product may be, but is not always, a clinical trial. [Source: 42 CFR 11.10(a); 81 FR 65140]
+    •   Study Start Date on or After January 18, 2017. The ACT Checklist is intended to be used to evaluate clinical trials
+        initiated on or after January 18, 2017. An ACT is considered to be initiated on the date on which the first human
+        subject is enrolled according to 42 CFR 11.22(a)(3) and is based on the Study Start Date data element, defined in
+        part at 42 CFR 11.10(b)(16) as the actual date on which the first human subject was enrolled. As specified in
+        42 CFR 11.10(a), enroll or enrolled means a human subject’s, or their legally authorized representative’s,
+        agreement to participate in a clinical trial following completion of the informed consent process, as required in
+
+ACT Checklist                                                 2                                                  27 June 2018
+
+                                                                                           ClinicalTrials.gov is a service of the
+                                                                                                  National Institutes of Health.
+
+        21 CFR Part 50 and/or 45 CFR Part 46, as applicable. For the purposes of this regulation, potential subjects who
+        are screened for the purpose of determining eligibility for a trial, but do not participate in the trial, are not
+        considered enrolled, unless otherwise specified by the protocol. [Source: 81 FR 65140]
+
+                                                  Specific Considerations
+
+1. Is the study interventional (a clinical trial)?
+
+Study Type data element is “Interventional.” [Sources: 42 CFR 11.22(b)(1)(ii)(A) & (b)(2)(i)]
+
+Study Type is defined in the final rule as the nature of the investigation or investigational use for which clinical trial
+information is being submitted, e.g., interventional, observational. [Source: 42 CFR 11.10(b)(7); 81 FR 65140-41]
+
+Interventional is defined in the final rule to mean, with respect to a clinical study or a clinical investigation, that
+participants are assigned prospectively to an intervention or interventions according to a protocol to evaluate the effect
+of the intervention(s) on biomedical or other health-related outcomes. [Source: 42 CFR 11.10(a); 81 FR 65140-41]
+
+Clinical Trial is defined in the final rule as a clinical investigation or a clinical study in which human subject(s) are
+prospectively assigned, according to a protocol, to one or more interventions (or no intervention) to evaluate the
+effect(s) of the intervention(s) on biomedical or health-related outcomes. [Source: 42 CFR 11.10(a); 81 FR 65139]
+
+2. Do ANY of the following apply?
+
+    A. Is at least one study facility located in the United States or a U.S. territory?
+
+    Facility Location – Country data element is “United States,” “American Samoa,” “Guam,” “Northern Mariana
+    Islands,” “Puerto Rico,” “U.S. Virgin Islands,” or other U.S. territory. [Sources: 42 CFR 11.22(b)(1)(ii)(D)(1) and
+    (b)(2)(iv)(A)]
+
+    The Facility Location data element is required for each participating facility in a clinical trial and includes information
+    about the country in which participating facilities are located. [Source: 42 CFR 11.10(b)(31)(ii)]
+
+    Points to Consider:
+
+        •   If a clinical study of a device product includes sites both within the United States (including any U.S.
+            territory) and outside of the United States, and if any of those sites is using (for the purposes of the clinical
+            study) a device product that is subject to section 510(k), 515, or 520(m) of the FD&C Act, we would consider
+            the entire clinical study to be an applicable device clinical trial, provided that it meets all of the other criteria
+            of the definition under this regulation. [Source: 81 FR 65013]
+        •   If a clinical investigation of a drug product (including a biological product) includes sites both within the
+            United States (including any U.S. territory) and outside of the United States, and any of those sites is using
+            (for the purposes of the clinical investigation) a drug product or biological product that is subject to section
+            505 of the FD&C Act or section 351 of the PHS Act, we would consider the entire clinical investigation to be
+            an applicable drug clinical trial, provided that it meets all other criteria of the definition under this
+            regulation. [Source: 81 FR 65015]
+
+        •   If a sponsor of a clinical trial in a foreign country that does not meet the definition of an applicable clinical
+            trial, and has an initiation date after the effective date of the regulations in 42 CFR Part 11, decides to add a
+            location in the U.S. (or its territories), and as a result the trial meets the definition of an applicable clinical
+            trial, the sponsor becomes subject to section 402(j) of the Public Health Service Act and 42 CFR Part 11. The
+            requirements set forth in the regulation would need to be met, beginning with registration of the applicable
+            clinical trial not later than 21 days after the enrollment of the first participant at the U.S. site. A clinical trial
+            or study that, at any point in time, meets the conditions listed in 42 CFR 11.22(b)(1) or 11.22(b)(2), one of
+
+ACT Checklist                                                   3                                                    27 June 2018
+
+                                                                                       ClinicalTrials.gov is a service of the
+                                                                                              National Institutes of Health.
+
+           which would be satisfied if there is at least one site location in the United States or U.S. territory, will be
+           considered to meet the definition of an applicable clinical trial (emphasis added). [Source: 42 CFR 11.22(b)]
+           Therefore, a clinical trial in a foreign country that otherwise meets the criteria in 42 CFR 11.22(b)(1) or
+           11.22 (b)(2) would become an applicable clinical trial when it adds the U.S. site. Clinical trial registration
+           information would have to include information applicable to the entire trial, as is the case with all multi-site
+           trials with information in ClinicalTrials.gov, because the entire clinical investigation is considered to be the
+           applicable device or drug clinical trial. [Source: 81 FR 65013, 81 FR 65015]
+       •   Whether a site is considered a "participating facility" is dependent on whether participants can enroll at that
+           site; this is reflected in 42 CFR 11.10(b)(31)(iii)(A), which describes Facility Contact Information in reference
+           to enrollment at that particular site. A study coordinating center that may provide study oversight or data
+           management and analysis support, but that does not enroll participants at that location, would not be
+           considered a "participating facility" as described in Facility Location. Therefore, the coordinating center
+           would not be considered a Facility Location for the purposes of 42 CFR 11.28(a)(2)(iii)(C) and the ACT criteria
+           outlined in 42 CFR 11.22(b).
+
+   B. Is the study conducted under a U.S. FDA Investigational New Drug application (IND) or Investigational Device
+      Exemption (IDE)?
+
+   U.S. Food and Drug Administration IND or IDE Number data element is “Yes” [Sources: 42 CFR 11.22(b)(1)(ii)(D)(3)
+   and (b)(2)(iv)(C)]
+
+   The U.S. Food and Drug Administration IND or IDE Number data element provides an indication of whether there is
+   an IND or IDE for the clinical trial. [Source: 42 CFR 11.10(b)(34)]
+
+   Points to Consider:
+
+       •   Device products that are considered to be subject to section 510(k), 515, or 520(m) of the FD&C Act include
+           significant risk devices for which approval of an IDE is required under section 520(g) of the FD&C Act or
+           non-significant risk devices that are considered to have an approved IDE in accordance with 21 CFR 812.2(b).
+           [Source: 81 FR 65012]
+       •   Drug products (including biological products) that are being studied under an IND are considered ‘‘subject to
+           section 505 of the FD&C Act’’ both because (in most situations) the drug product being studied would need
+           an approved NDA or licensed BLA to be marketed legally, and because INDs are issued by FDA pursuant to
+           the authority in section 505(i) of the FD&C Act. [Source: 81 FR 65014]
+       •   Furthermore, if a sponsor chooses to obtain an IND (issued under section 505 of the FD&C Act) for a clinical
+           investigation of a drug product (including a biological product) that is not otherwise subject to section 505 of
+           the FD&C Act or section 351 of the PHS Act, the sponsor, in so doing, agrees to regulation under section 505
+           of the FD&C Act, and that clinical investigation thus will be considered an applicable drug clinical trial,
+           provided that it meets all other criteria of the definition under this part. [Source: 81 FR 65015]
+
+   C. Does the study involve a drug, biological, or device product that is manufactured in and exported from the
+      U.S. (or a U.S. territory) for study in another country?
+
+   Product Manufactured in and Exported from the U.S. data element is “Yes” [Sources: 42 CFR 11.22(b)(1)(ii)(D)(2) and
+   (b)(2)(iv)(B)]
+
+   Product Manufactured in and Exported from the U.S. element means that any drug product (including a biological
+   product) or device product studied in the clinical trial is manufactured in the United States or one of its territories
+   and exported for study in a clinical trial in another country. [Source: 42 CFR 11.10(b)(15)]
+
+   Points to Consider:
+
+ACT Checklist                                                4                                                  27 June 2018
+
+                                                                                        ClinicalTrials.gov is a service of the
+                                                                                               National Institutes of Health.
+
+       •   If the device product is manufactured in the United States or any U.S. territory, and is exported for study in
+           another country (whether it is exported under section 801(e) or section 802 of the FD&C Act), the device
+           product is considered to be subject to section 510(k), 515, or 520(m) of the FD&C Act. If the device product
+           is manufactured outside of the United States or its territories, and the clinical study sites are all outside of
+           the United States and/or its territories, the device product would not be considered to be subject to section
+           510(k), 515, or 520(m) of the FD&C Act. A device product that is packaged and/or labeled in the United
+           States would be considered ‘‘manufactured’’ in the United States subject to section 510(k), 515, or 520(m)
+           of the FD&C Act. [Source: 81 FR 65013]
+       •   If the drug product (including a biological product) is manufactured in the United States or any U.S. territory,
+           and is exported for study in another country under an IND (whether pursuant to 21 CFR 312.110 or section
+           802 of the FD&C Act), the drug product or biological product is considered to be subject to section 505 of
+           the FD&C Act or section 351 of the PHS Act (as applicable), and the clinical investigation may be an
+           applicable drug clinical trial, provided that it meets all other criteria of the definition under this part. A drug
+           product that is packaged and/or labeled in the United States would be considered ‘‘manufactured’’ in the
+           United States subject to section 505 of the FD&C Act or section 351 of the PHS Act. [Source: 81 FR 65015]
+       •   The term "manufacture" is used as a short-hand for all device or drug activities within FDA's jurisdiction.
+           [Source: 81 FR 65011, 81 FR 65014] Therefore, any step in the manufacturing of the device or drug product
+           (including device components, drug active ingredients, and packaging/labeling) that occurs in the United
+           States (or one of its territories) would be considered "manufactured" in the United States.
+       •   One of the criteria that must be met for a study to be an applicable clinical trial would be satisfied where the
+           drug, biological, or device product "under investigation is a Product Manufactured in and Exported from the
+           U.S. or one of its territories for study in another country." [42 CFR 11.22(b)(1)(ii)(D)(2) and 42 CFR
+           11.22(b)(2)(iv)(B)] The drug, biological, or device product "under investigation" as described in 42 CFR
+           11.22(b)(1)(ii)(D)(2) and 42 CFR 11.22(b)(2)(iv)(B) includes products that are used in the clinical trial in
+           conjunction with, or compared to, each other. If a drug, biological, or device product is tested in conjunction
+           with, or compared to, one or more other drug, biological, or device products (including a placebo or sham),
+           then the products would be considered "under investigation" for purposes of this ACT condition.
+3. Does the study evaluate at least one U.S. FDA-regulated drug, biological, or device product?
+
+Studies a U.S. FDA-regulated Device Product data element is “Yes” and/or Studies a U.S. FDA-regulated Drug Product
+data element is “Yes.” [Sources: 42 CFR 11.22(b)(1)(ii)(C) & (b)(2)(iii)]
+
+These data elements are defined as follows:
+
+       Studies a U.S. FDA-regulated Device Product means that a clinical trial studies a device product subject to section
+       510(k), 515, or 520(m) of the FD&C Act (21 U.S.C. 360(k), 21 U.S.C. 360e, 21 U.S.C. 360j(m)). [Source: 42 CFR
+       11.10(b)(38); 81 FR 65143]
+
+       A device product is considered to be subject to section 510(k), 515, or 520(m) of the FD&C Act if any of the
+       following is required before it may be legally marketed in the United States: (1) a finding of substantial
+       equivalence under section 510(k) of the FD&C Act, (2) an order under section 515 of the FD&C Act approving a
+       premarket approval application (PMA) for the device product, or (3) an HDE under section 520(m) of the FD&C
+       Act. Device products that are considered to be subject to section 510(k), 515, or 520(m) of the FD&C Act include
+       significant risk devices for which approval of an IDE is required under section 520(g) of the FD&C Act,
+       non-significant risk devices that are considered to have an approved IDE in accordance with 21 CFR 812.2(b), or
+       device products that are exempt from the submission requirements of 21 CFR part 812. [Source: 81 FR 65012]
+
+       A clinical study of a device product that is being conducted entirely outside of the United States (i.e., does not
+       have any sites in the United States or in any U.S. territory) and is not conducted under an IDE may not be a
+       clinical study of a device product subject to section 510(k), 515, or 520(m) of the FD&C Act and, therefore, is not
+       an applicable device clinical trial, depending on where the device product being used in the clinical study is
+ACT Checklist                                                5                                                   27 June 2018
+
+                                                                                        ClinicalTrials.gov is a service of the
+                                                                                               National Institutes of Health.
+
+       manufactured. If the device product is manufactured outside of the United States or its territories, and the
+       clinical study sites are all outside of the United States and/or its territories, the device product would not be
+       considered to be subject to section 510(k), 515, or 520(m) of the FD&C Act. [Source: 81 FR 65013)
+
+       Therefore, a study record that (1) does not list “United States” (or a U.S. territory) for the Facility
+       Information/Country data element, (2) lists “No” for the U.S. Food and Drug Administration IND or IDE data
+       element, and (3) lists “No” for the Product Manufactured in and Exported from the U.S. data element, would
+       indicate that a studied device product is not “subject to” section 510(k), 515, or 520(m) of the FD&C Act. For
+       such a study, the responsible party would list “No” for the Studies a U.S. FDA-regulated Device Product data
+       element and the study would not be considered an applicable device clinical trial. Note that even if the device
+       product being studied had previously been approved or cleared by the U.S. FDA under section 510(k), 515, or
+       520(m) of the FD&C Act for marketing in the U.S., that responsible party would list “No” for the Studies a U.S.
+       FDA-regulated Device Product data element because the particular device product used in that study is not
+       subject to those sections of the FD&C Act.
+
+       Regarding combination products, FDA regulations in 21 CFR part 3 specify that the primary mode of action of a
+       combination product is the single mode of action that provides the most important therapeutic action of the
+       intended therapeutic effects of the combination product. A study of a combination product with a device
+       primary mode of action under 21 CFR part 3 would be considered an applicable device clinical trial, provided
+       that it meets all other criteria of the definition under 42 CFR 11.10(a). We note that for such trials, the
+       responsible party must indicate that the trial Studies a U.S. FDA-regulated Device Product. [Source: 81 FR 65014
+       and 65040]
+
+       Points to Consider:
+
+           •    Device products may be used in clinical trials even though they are not the intervention studied in the
+                clinical trial or the experimental variable of interest in the study. For example, clinical trials of
+                procedures involving surgical device products may not be designed to study the effect of those device
+                products. Therefore, when considering whether a clinical trial Studies a U.S. FDA-regulated Device
+                Product a responsible party should consider whether (a) the study is designed to examine the effect or
+                performance of an FDA-regulated device product or differences in the intended use, for example,
+                variations in frequency of use, method of administration, design specifications, and other characteristics
+                (e.g., used in one or more, but not all, arms in a multi-arm study); and/or (b) at least one pre-specified
+                primary or secondary outcome measure reflects a characteristic, effect, or performance of an FDA-
+                regulated device product (e.g., need for replacement or maintenance of the device). [Source: 81 FR
+                65040] If either (a) or (b) are true, this would support that the clinical trial “studies” the device product.
+           •    Many radiation-emitting device products are subject to section 510(k) of the FD&C Act and some are
+                subject to section 515 of the FD&C Act. If the product is a medical device intended to benefit patients in
+                the treatment or diagnosis of a disease or condition that affects or is manifested in not more than 8,000
+                individuals in the United States per year, it may meet the requirements for a humanitarian use device,
+                under section 520(m) of the FD&C Act. FDA’s regulation in 21 CFR Part 892 describes the legal status
+                (i.e., “classification”) of specific radiology devices, including diagnostic and therapeutic devices. For
+                example, magnetic resonance diagnostic devices and medical charged-particle radiation therapy
+                systems are designated in 21 CFR 892.1000 and 21 CFR 892.5050, respectively, as Class II devices (as
+                defined in 21 CFR 860.3(c)(2)) and are subject to section 510(k) of the FD&C Act. In addition, an
+                individual radiology device that is classified as a “high risk” class III device or has been found by FDA to
+                be not substantially equivalent (NSE) to an existing Class I, II, or III device must generally be approved by
+                FDA under section 515 of the FD&C Act before marketing.
+
+ACT Checklist                                                 6                                                  27 June 2018
+
+                                                                                       ClinicalTrials.gov is a service of the
+                                                                                              National Institutes of Health.
+
+           •    The determination of whether the study of a specific device product is an applicable device clinical trial
+                does not depend on the product’s device classification in 21 CFR 860.3(c) (i.e., Class I, II, or III). The
+                relevant question is whether the device product must receive a finding of substantial equivalence under
+                section 510(k) of the FD&C Act, an order under section 515 of the FD&C Act approving a pre-market
+                approval application for the device product, or an HDE under section 520(m) of the FD&C Act. Most
+                Class I devices, but not all, are exempt from the requirements for a finding of substantial equivalence
+                under section 510(k) of the FD&C Act and do not require a premarket approval order under section 515
+                of the FD&C Act. By contrast, most Class II and all Class III devices require either clearance under section
+                510(k) of the FD&C Act or premarket approval under section 515 of the FD&C Act.
+
+       Studies a U.S. FDA-regulated Drug Product means a clinical trial studies a drug product (including a biological
+       product) subject to section 505 of the FD&C Act (21 U.S.C. 355) or section 351 of the PHS Act (42 U.S.C. 262).
+       [Source: 42 CFR 11.10(b)(38); 81 FR 65143]
+
+       This definition is interpreted to mean that the clinical trial studies a drug that is the subject of an approved NDA
+       [new drug application] or BLA [biologic license application] or that would require an approved NDA or BLA to be
+       legally marketed in the United States. A non-prescription drug product that is or could be marketed under an
+       existing over-the-counter drug monograph (see 21 CFR 330–358) is not considered “subject to section 505 of the
+       [FD&C Act].” [Source: 81 FR 65041]
+
+       A clinical investigation of a drug product (including a biological product) that is being conducted entirely outside
+       of the United States (i.e., does not have any sites in the United States or in any U.S. territory) may not be a
+       clinical investigation of a drug product or biological product subject to section 505 of the FD&C Act or section
+       351 of the PHS Act, and therefore not an applicable drug clinical trial, depending on where the drug product
+       (including biological product) being used in the clinical investigation is manufactured. If the drug product
+       (including a biological product) is manufactured outside of the United States or its territories, the clinical
+       investigation sites are all outside of the United States, and the clinical investigation is not being conducted under
+       an IND, the drug product or biological product would not be considered to be subject to section 505 of the FD&C
+       Act or section 351 of the PHS Act, and the clinical investigation would not be an applicable drug clinical trial.
+       [Source: 81 FR 65015)
+
+       Therefore, a study record that (1) does not list “United States” (or a U.S. territory) for the Facility
+       Information/Country data element, (2) lists “No” for the U.S. Food and Drug Administration IND or IDE data
+       element, and (3) lists “No” for the Product Manufactured in and Exported from the U.S. data element, would
+       indicate that a studied drug or biologic product is not “subject to” section 505 of the FD&C Act or section 351 of
+       the PHS Act. For such a study, the responsible party would answer “No” to the Studies a U.S. FDA-regulated Drug
+       Product data element and the study would not be considered an applicable drug clinical trial. Note that even if
+       the drug or biologic product being studied had previously been approved by the U.S. FDA under section 505 of
+       the FD&C Act or section 351 of the PHS Act for marketing in the U.S., that responsible party would list “No” for
+       the Studies a U.S. FDA-regulated Drug Product data element because the particular drug or biological product
+       used in that study is not subject to those sections of the FD&C Act or PHS Act.
+
+       Regarding combination products, FDA regulations in 21 CFR part 3 specify that the primary mode of action of a
+       combination product is the single mode of action that provides the most important therapeutic action of the
+       intended therapeutic effects of the combination product. A study of a combination product with a drug primary
+       mode of action under 21 CFR part 3 would be considered an applicable drug clinical trial, provided that it meets
+       all other criteria of the definition under 42 CFR 11.10(a). We note that for such trials, the responsible party must
+       indicate that the trial Studies a U.S. FDA-regulated Drug Product. [Source: 81 FR 65014 and 65041]
+
+       Points to Consider:
+
+           •    A clinical trial for which the responsible party indicates the Intervention Type to be “dietary
+                supplement” or “genetic” or “procedure” could in fact be an applicable drug clinical trial studying a drug
+
+ACT Checklist                                                7                                                  27 June 2018
+
+                                                                                          ClinicalTrials.gov is a service of the
+                                                                                                 National Institutes of Health.
+
+                product subject to section 505 of the FD&C Act or a biological product subject to section 351 of the PHS
+                Act. For example, a product otherwise marketed as a dietary supplement could be studied for the
+                treatment of cancer, or a genetic trial could study a gene therapy. [Source: 81 FR 65041]
+            •   A clinical trial may include an FDA-regulated drug product even though the drug product is not a variable
+                of interest. For example, a clinical trial of a device product may involve the surgical insertion of the
+                device product under anesthesia, but the anesthesia drug product is not studied in the clinical trial. In
+                determining whether a clinical trial studies a U.S. FDA-regulated drug product, a responsible party
+                should consider whether (a) the clinical trial is designed to examine the effect of the FDA-regulated drug
+                product(s) or of differences in the intended use, including differences in dosing, frequency of use, or
+                route of administration; and/or (b) at least one of the pre-specified primary or secondary outcome
+                measures reflects a characteristic or effect of the FDA-regulated drug product(s). [Source: 81 FR 65041]
+                If either (a) or (b) are true, this would support that the clinical trial “studies” the drug product.
+
+4. Is the study other than a Phase 1 trial of a drug and/or biological product or is the study other than a device
+   feasibility study?
+
+For drug trials, Study Phase data element is NOT “Phase 1” and for device trials, Primary Purpose is NOT “Device
+Feasibility.” [Sources: 42 CFR 11.22(b)(1)(ii)(B) & (b)(2)(ii)]
+
+These data elements are defined as follows:
+
+        Study Phase means, for a clinical trial of a drug product (including a biological product), the numerical phase of
+        such clinical trial, consistent with terminology in 21 CFR 312.21, such as phase 2 or phase 3, and in 21 CFR
+        312.85 for phase 4 studies. [Source: 42 CFR 11.10(b)(6); 81 FR 65141]
+
+        Under 21 CFR 312.21(a)(1), a phase 1 study ‘‘includes the initial introduction of an investigational new drug into
+        humans. Phase 1 studies are typically closely monitored and may be conducted in patients or normal volunteer
+        subjects. These studies are designed to determine the metabolism and pharmacologic actions of the drug in
+        humans, the side effects associated with increasing doses, and, if possible, to gain early evidence on
+        effectiveness. During phase 1, sufficient information about the drug’s pharmacokinetics and pharmacological
+        effects should be obtained to permit the design of well-controlled, scientifically valid, phase 2 studies. The total
+        number of subjects and patients included in phase 1 studies varies with the drug, but is generally in the range of
+        20 to 80.’’ Under 21 CFR 312.21(a)(2), ‘‘[p]hase 1 studies also include studies of drug metabolism, structure-
+        activity relationships, and mechanism of action in humans, as well as studies in which investigational drugs are
+        used as research tools to explore biological phenomena or disease processes.’’ Clinical trials that are phase 1
+        studies under 21 CFR 312.21 are not applicable drug clinical trials. [Source: 81 FR 65015-16]
+
+        Points to Consider:
+
+            •   Although we are aware that the term ‘‘phase 0’’ is used in practice (e.g., to refer to clinical trials that are
+                exploratory in nature and are not designed to evaluate therapeutic or diagnostic intent), any trial that
+                would be referred to as ‘‘phase 0’’ meets the definition of a phase 1 trial under FDA regulations (21 CFR
+                312.21). [Source: 81 FR 65036]
+            •   Clinical trials that are identified as phase 1/phase 2 trials (i.e., trials with characteristics of both phase 1
+                and phase 2 studies) are not considered phase 1 studies and may be applicable drug clinical trials if they
+                meet the other specified criteria. [Source: 81 FR 65016]
+            •   A bioequivalence or comparative bioavailability study that falls within the scope of 21 CFR 320.24(b)(1),
+                (2), or (3) shares many of the characteristics of a phase 1 study and is considered to be a phase 1 trial
+                (and, therefore, not an applicable clinical trial) in this rule. [Source: 81 FR 65016]
+
+        Primary Purpose means the main objective of the intervention(s) being evaluated by the clinical trial.
+        [Source: 42 CFR 11.10(b)(4); 81 FR 65141]
+ACT Checklist                                                  8                                                   27 June 2018
+
+                                                                                         ClinicalTrials.gov is a service of the
+                                                                                                National Institutes of Health.
+
+        Regarding the options available under Primary Purpose, “device feasibility” should only be selected when a
+        device product is being evaluated for the feasibility of the product or of a test prototype device and not health
+        outcomes. Other options include “treatment,” “prevention,” “diagnostic,” and “screening.” [Source: 81 FR
+        65035]
+
+        Small clinical trials to determine the feasibility of a device product, or clinical trials to test prototype device
+        products where the primary outcome measure relates to feasibility and not to health outcomes, are excluded
+        from the definition of an applicable clinical trial. [Source: 42 CFR 11.10(a)] Our explanation of this exemption
+        [for “device feasibility” from the definition of applicable device clinical trial] is consistent with FDA's regulation
+        of devices. FDA published the guidance Investigational Device Exemptions (IDEs) for Early Feasibility Medical
+        Device Clinical Studies, Including Certain First in Human (FIH) Studies (October 2013) to address the
+        development and review of IDE applications for early feasibility studies of significant risk devices. For the
+        purposes of the guidance, the guidance defines an “early feasibility study” as a limited clinical investigation of a
+        device early in development, typically before the device design has been finalized, for a specific indication. The
+        guidance further defines a “traditional feasibility study” as a clinical investigation that is commonly used to
+        capture preliminary safety and effectiveness information on a near-final or final device design to adequately
+        plan an appropriate pivotal study. Section 402(j)(1)(A)(ii)(I) of the PHS Act excludes “small clinical trial[s] to
+        determine the feasibility of a device, or a clinical trial to test prototype devices where the primary outcome
+        measure relates to feasibility and not to health outcomes” from the definition of “applicable device clinical
+        trial.” The excluded clinical trials described in this statutory definition appear to be consistent with the early
+        feasibility study definition in the guidance, but not with that of the traditional feasibility study, which evaluates
+        preliminary safety and effectiveness information (i.e., for “health outcomes”). Therefore, it is likely that only
+        early feasibility studies would fall within this exclusion under the § 11.10 definition of an “applicable device
+        clinical trial.” [Source: 81 FR 65011] In addition, although the regulation does not specify a threshold number, a
+        trial with at least 10 subjects would generally not be considered “small” for purposes of the exclusion. [Source:
+        81 FR 65011]
+
+You may contact Register@ClinicalTrials.gov if you have questions about this Checklist and Elaboration for Evaluating
+Whether a Clinical Trial or Study is an Applicable Clinical Trial.
+
+History of Changes
+
+2016-12-14: Original version
+
+2017-06-14: Elaboration re-ordered and expanded to integrate information made available on the ClinicalTrials.gov
+Frequently Asked Questions Web page (accessible from: https://prsinfo.clinicaltrials.gov). Checklist re-ordered.
+
+2017-10-19: Elaboration expanded to integrate information about radiation-emitting device products and device
+product classes made available on the ClinicalTrials.gov Frequently Asked Questions Web page (accessible from:
+https://prsinfo.clinicaltrials.gov).
+
+2017-10-20: Corrected document to add text from 2017-06-14 version that was inadvertently removed with the 2017-
+10-19 update.
+
+2018-06-27: Elaboration expanded to integrate information made available on the ClinicalTrials.gov Frequently Asked
+Questions Web page (accessible from: https://prsinfo.clinicaltrials.gov).
+
+ACT Checklist                                                 9                                                   27 June 2018
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/INSTITUTIONALREVIEWBOARD/Documents/ApplicableClinicalTrialChart.pdf> · retrieved 2026-07-21 · sha256 `a4a3fbf06b2f1f9b9fab29c5087d8a68fd08c528bee625f2859dc55eea6f4809`
+- Snapshot: `_meta/snapshots/oha-irb-is-my-study-an-applicable-clinical-trial-as-defined-by-42-cfr-11.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

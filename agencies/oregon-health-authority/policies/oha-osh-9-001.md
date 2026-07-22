@@ -1,0 +1,140 @@
+---
+id: oha-osh-9-001
+title: "BLS CPR Training and Certification"
+doc_type: policy
+citation: "OSH Policy 9.001"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/9.001%20BLS%20CPR%20Training%20and%20Certification/9.001%20Basic%20Life%20Support%20%28BLS%29%20Cardiopulmonary%20Resuscitation%20%28CPR%29%20Training%20and%20Certification%20Final.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "40f0e599be7f8a88e842ea9cc45cad604f91825e7ae4303ef6a6e1fb005b2f41"
+effective_date: "2023-06-28"
+last_reviewed: null
+source_version: "Effective 06/28/2023"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/9.001%20BLS%20CPR%20Training%20and%20Certification/9.001%20Basic%20Life%20Support%20%28BLS%29%20Cardiopulmonary%20Resuscitation%20%28CPR%29%20Training%20and%20Certification%20Final.pdf> (retrieved 2026-07-21).
+
+# BLS CPR Training and Certification (OSH Policy 9.001)
+
+## At a glance
+
+OSH Policy 9.001 — BLS CPR Training and Certification. Oregon State Hospital (Oregon Health Authority). Effective 06/28/2023.
+
+## Full text
+
+                         OREGON STATE HOSPITAL
+                                               POLICY
+  SECTION 9:         Training and Development                                      POLICY: 9.001
+
+  SUBJECT:           Basic Life Support (BLS) Cardiopulmonary
+                     Resuscitation (CPR) Training and Certification
+
+  POINT PERSON:      Director of Staff Education and Development
+
+  APPROVED:          Dolores Matteucci                                         DATE: 06/28/2023
+
+                     Superintendent
+
+  SELECT ONE:                                                   Minor/technical revision of
+                     New policy
+                                                                existing policy
+
+                     Reaffirmation of existing policy           Major revision of existing policy
+
+I.    PURPOSE AND APPLICABILITY
+      A. This policy established Oregon State Hospital (OSH) procedures and
+         requirements for Basic Life Support (BLS) Cardiopulmonary Resuscitation (CPR)
+         certification for staff.
+      B. This policy applies to all staff.
+
+II.   POLICY
+      A. OSH acknowledges the key importance of properly recognizing and managing
+         conditions that cause unconsciousness, airway obstruction, and cardiopulmonary
+         arrest. Therefore, OSH designates staff who must maintain BLS CPR certification
+         appropriate to their position.
+      B. All staff working in the capacity of one of the positions listed in Attachment A of this
+         policy (including overtime shifts) must maintain AHA BLS CPR certification. Other
+         comparable certifications may be accepted by Learning and Development
+         Department (LDD) on a case-by-case basis.
+         1. Employees listed in Attachment A are responsible for maintaining their own
+            certification and must avoid any lapse in certification.
+         2. Individual departments are at liberty to require certification be completed more
+            frequently than every other year.
+         3. Employees not listed in Attachment A are encouraged to obtain and maintain
+            certification in BLS CPR.
+
+        SUBJECT: Basic Life Support (BLS) Cardiopulmonary                     POLICY NUMBER: 9.001
+                 Resuscitation (CPR) Training and
+                 Certification
+
+        DATE:        06/28/2023                                                          PAGE 2 OF 3
+
+          C. Supervisors are responsible for verifying staff compliance with this policy at
+             performance reviews.
+          D. OSH provides relevant courses approved by the American Heart Association (AHA).
+          E. LDD shall provide sufficient opportunities to recertify staff.
+              1. LDD shall regularly distribute notifications of scheduled BLS CPR training.
+              2. LDD shall provide quarterly reports on staff certification compliance to OSH
+                 management service staff.
+          F. Only persons who are certified as instructors by AHA and who are approved to teach
+             from the OSH AHA Training Center may certify or recertify employees in AHA BLS
+             CPR.
+          G. BLS CPR trainers must collect and submit all required AHA paperwork to LDD.
+          H. Oregon State Hospital (OSH) follows all applicable regulations, including federal
+             and state statutes and rules; Oregon Department of Administrative Services
+             (DAS), Shared Services, and Oregon Health Authority (OHA) policies; and
+             relevant accreditation standards. Such regulations supersede the provisions of
+             this policy unless this policy is more restrictive.
+          I. Staff who fail to comply with this policy or related policy attachments or protocols
+             may be subject to disciplinary action, up to and including dismissal.
+
+ III.     DEFINITIONS
+          A. “Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
+             and other state employees assigned to work at Oregon State Hospital (OSH).
+
+IV.       PROCEDURES
+
+ V.       ATTACHMENTS
+          Attachment A        Required BLS CPR Certification List
+
+VI.       RELATED OSH POLICIES AND PROTOCOLS
+          9.002 Training for Staff
+
+VII.      REFERENCES
+          42 CFR § 482.13(f)(2)(vii).
+
+          American Heart Association 2015 Handbook of Emergency Cardiovascular Care for Healthcare
+             Providers. American Heart Association, Inc.
+
+SUBJECT: Basic Life Support (BLS) Cardiopulmonary   POLICY NUMBER: 9.001
+         Resuscitation (CPR) Training and
+         Certification
+
+DATE:       06/28/2023                                       PAGE 3 OF 3
+
+  Oregon Administrative Rule § 333-510-003.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/9.001%20BLS%20CPR%20Training%20and%20Certification/9.001%20Basic%20Life%20Support%20%28BLS%29%20Cardiopulmonary%20Resuscitation%20%28CPR%29%20Training%20and%20Certification%20Final.pdf> · retrieved 2026-07-21 · sha256 `40f0e599be7f8a88e842ea9cc45cad604f91825e7ae4303ef6a6e1fb005b2f41`
+- Snapshot: `_meta/snapshots/oha-osh-9-001.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

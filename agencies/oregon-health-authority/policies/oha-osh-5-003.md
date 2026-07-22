@@ -1,0 +1,136 @@
+---
+id: oha-osh-5-003
+title: "Driver's License Record check, Driver Certification and Vehicle Usage"
+doc_type: policy
+citation: "OSH Policy 5.003"
+authority_level: state_policy
+issuing_body: "Oregon State Hospital (Oregon Health Authority)"
+agency: oregon-health-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oha/OSH/Policies/5.003%20Driver%27s%20License%20Record%20check%2C%20Driver%20Certification%20and%20Vehicle%20Usage/5.003%20Procedures%20A%20Screening%20and%20Approved%20Drivers%20List.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "2fe3280316acdf8c077784d4211634638d791de555b0889476f43e80d0f06f01"
+effective_date: "2024-07-31"
+last_reviewed: null
+source_version: "Effective JULY 31, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'DATE: July N, N Page N of N' x1"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related:
+    - oha-osh-5-021
+  supersedes: []
+tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/5.003%20Driver%27s%20License%20Record%20check%2C%20Driver%20Certification%20and%20Vehicle%20Usage/5.003%20Procedures%20A%20Screening%20and%20Approved%20Drivers%20List.pdf> (retrieved 2026-07-21).
+
+# Driver's License Record check, Driver Certification and Vehicle Usage (OSH Policy 5.003)
+
+## At a glance
+
+OSH Policy 5.003 — Driver's License Record check, Driver Certification and Vehicle Usage. Oregon State Hospital (Oregon Health Authority). Effective JULY 31, 2024.
+
+## Full text
+
+                OREGON STATE HOSPITAL
+                               POLICY ATTACHMENT
+PROCEDURES A:    Pre-Employment Screening and Approved                    POLICY : 5.003
+                 Drivers List Maintenance
+
+POINT PERSON:    Director of Occupational Health & Safety
+
+APPROVED:        Interim Superintendent                            DATE: JULY 31, 2024
+
+SELECT ONE:                                           Minor/technical revision of
+                     New policy attachment
+                                                      existing policy attachment
+                     Reaffirmation of existing        Major revision of existing
+                     policy attachment                policy attachment
+
+  I. PRE-EMPLOYMENT SCREENING
+      RESPONSIBLE                                  PROCEDURES
+     PERSON/GROUP
+Applicant’s Hiring         1. Coordinate request with Human Resources recruiter.
+Supervisor                 2. Send applicant information to DHS Background Check
+                              Unit for review for criminal background and driver’s
+                              license check.
+                           3. This is only required if the applicant is required to
+                              perform driving duties on official state business in a
+                              state or personal vehicle.
+Applicant’s Hiring             1. If applicant is eligible to drive on official state
+Supervisor and Human              business, proceed with hiring process.
+Resources                      2. If applicant is ineligible to drive on official state
+                                  business, follow OSH Policy 5.021, “Background
+                                  Checks” and Human Resources protocols to
+                                  include, but not limited to:
+                                      a. Modify applicant’s job duties and
+                                          responsibilities; or
+                                      b. Rescind applicant’s job offer.
+
+  II. APPROVED DRIVERS LIST APPLICATION AND MAINTENANCE
+      RESPONSIBLE                                  PROCEDURES
+     PERSON/GROUP
+OSH Approved Drivers      1. The applicant is required to complete the following every
+List Applicant               year:
+                             a. Complete OHA – OSH – Online: Driver Training –
+                                OSH STAFF ONLY on Workday.
+
+PROCEDURES A: Driving Record Review: Approved                     POLICY NUMBER : 5.003
+              Drivers List Maintenance
+
+                               b. Complete the OSH Driver Record Certification Form
+                                   from I:Drive/Publications/OSH Driver List folder or
+                                   Safety Department’s OWL site.
+                               i. Submit form to immediate supervisor and Safety
+                                   Department at
+                                   oshcertifieddriver.application@odhsoha.oregon.gov
+                            2. Failure to submit a completed form and course
+                               completion certificate may result in removal from the
+                               OSH Approved Driver’s List.
+Safety Department           1. Update the OSH Approved Driver List regularly in the I:
+                               Drive/Publications/OSH Driver List folder and Safety
+                               Department’s OWL Site.
+                            2. Conduct driver license record check on applicants.
+                               a. If applicant has a satisfactory and acceptable driving
+                                    record as outlined in Attachment A, Safety must
+                                    update applicant’s information to the OSH Approved
+                                    Driver List and notify Motor Pool to grant badge
+                                    access for approval. The applicant, immediate
+                                    supervisor and HR must receive notification of the
+                                    approval.
+                               b. If the driving record is not acceptable as outlined in
+                                    Attachment A, notify the Director of Safety, HR and
+                                    OSH Motor Pool to deny badge access and remove
+                                    staff from the OSH Approved Drivers List if
+                                    necessary.
+
+Director of Safety           1. If employee fails to report or does not qualify to drive a
+                                state vehicle due to prior violations, Director of Safety
+                                will:
+                                a. Confirm LEDs report and application of violations.
+                                b. Contact employee directly via email, carbon copying
+                                     the employee’s direct supervisor, their Human
+                                     Resource Analyst and
+                                     oshcertifieddriver.application@odhsoha.oregon.gov
+                                     inbox.
+Human Resources                 1. Upload copy of OSH Approved Driver’s form to staff’s
+                                   Workday.
+                                2. If driving a vehicle is required for the staff’s position
+                                   and the Driver Record Certification Form was denied,
+                                   upload this form to staff’s Workday.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oha/OSH/Policies/5.003%20Driver%27s%20License%20Record%20check%2C%20Driver%20Certification%20and%20Vehicle%20Usage/5.003%20Procedures%20A%20Screening%20and%20Approved%20Drivers%20List.pdf> · retrieved 2026-07-21 · sha256 `2fe3280316acdf8c077784d4211634638d791de555b0889476f43e80d0f06f01`
+- Snapshot: `_meta/snapshots/oha-osh-5-003.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

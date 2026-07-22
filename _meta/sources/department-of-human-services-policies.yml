@@ -1,0 +1,104 @@
+group: department-of-human-services-policies
+title: Department of Human Services policies
+kind: content-hash
+recheck: monthly
+last_checked: '2026-07-21'
+upstream_signal: 'SharePoint LIST (not a document library) at /odhs/rules-policy (Lists/policiesguidelines),
+  queried via RenderListDataAsStream, same API technique as the sharepoint doc-library profiles but with
+  structured columns (PolicyNumber, Agency_x0020_1, EffectiveDate, PoliciesAndGuidelinesTitle=PDF url,
+  .desc=title) instead of FileRef paths. This is the same list ISPO''s manifest was built from; filtered
+  here to rows whose Agency_x0020_1 is exactly ''ODHS'' (DHS-only administrative/agency policies, not
+  shared with OHA, and not the separate program Transmittals system, which this list does not contain).
+  No POLICY_PROFILES discovery function fits a SharePoint LIST (only doc-library and DOC-style static-HTML
+  are implemented), so this manifest was built by hand from the list''s own rows; PDFs are served from
+  sharedsystems.dhsoha.state.or.us, which sends an incomplete TLS chain (missing DigiCert Global G2 TLS
+  RSA SHA256 2020 CA1 intermediate) -- ingest with SSL_CERT_FILE set to a bundle that supplies that intermediate
+  (chain completion, not verification bypass). Freshness: re-query the list, diff PolicyNumber set, re-hash
+  members.'
+sources:
+- id: dhs-010-010
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/de-010-010.pdf
+  sha256: 230cb93f8527cad8c85c329f1d2f2105271fcd1831ab62dfcde14c62cdd5f8dc
+  last_checked: '2026-07-21'
+  notes: Public Records Requests, Fees and Waivers (ODHS Policy 010-010)
+- id: dhs-010-013-01
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/de010-013-01.pdf
+  sha256: 8d9a9d4e22eef30f5adf876c61089e61bdf3ef7cf6f7e64f35f2d6beafa26908
+  last_checked: '2026-07-21'
+  notes: Guideline - Bilingual and Multilingual Roles for ODHS Staff Only (ODHS Policy 010-013-01)
+- id: dhs-010-015
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/me010-015.pdf
+  sha256: 5312c1377fdc4b60416babfe6eef4ab8fb67db5da7f66890baca66db2fded911
+  last_checked: '2026-07-21'
+  notes: DHS Bilingual Proficiency Certification Policy (ODHS Policy 010-015)
+- id: dhs-010-016
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/de010-016.pdf
+  sha256: d1f7106419b2c9af6c1a31cc464d93b280b10215ff0269a0e44119e9085d162e
+  last_checked: '2026-07-21'
+  notes: Employee Resource Groups (ERGs) (ODHS Policy 010-016)
+- id: dhs-010-022
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/de010-022.pdf
+  sha256: 2f38d22e47a2bbcb3f37e6a5de1de4b2d6c98c4178b9dc036d0a2538e426faa2
+  last_checked: '2026-07-21'
+  notes: Trauma-Informed Organization Policy (ODHS Policy 010-022)
+- id: dhs-010-026
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/De010-026.pdf
+  sha256: 8398ef36dd7b896fb4f622c2bed0b30506b5c3e5806b3b39163d186a1fb027da
+  last_checked: '2026-07-21'
+  notes: Race, Ethnicity, Language, and Disability Demographic (REALD) Data (ODHS Policy 010-026)
+- id: dhs-010-027
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/de010-027.pdf
+  sha256: ab14fd4f3efd6439d63dae3350b84e1718395c33f29103c1da19e93599225c00
+  last_checked: '2026-07-21'
+  notes: Equity and Inclusion Committee (ODHS Policy 010-027)
+- id: dhs-010-031-01
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/de010-031-01.pdf
+  sha256: ce6065dee1db36f4596c15faaeb3b15a784a6bcc94152f9e78145bd6c1898c0a
+  last_checked: '2026-07-21'
+  notes: Completing Records Requests from Federal Immigration Authorities (ODHS Policy 010-031-01)
+- id: dhs-040-026
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/de040-026.pdf
+  sha256: f64832de814abdf8fa84d64e66e85b66401fda2b804329b828297d260536cc24
+  last_checked: '2026-07-21'
+  notes: Donated Funds, Goods, and Services (ODHS Policy 040-026)
+- id: dhs-040-026-01
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/de040-026-01.pdf
+  sha256: 0db1fa00745632e09447169615ac520ab576207cc0085feafc9bedcf07b325ba
+  last_checked: '2026-07-21'
+  notes: Donations - Soliciting (ODHS Policy 040-026-01)
+- id: dhs-040-026-02
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/de040-026-02.pdf
+  sha256: c3f33267b861e09f47e32973504515c4e696543862f5bed8355f433787514193
+  last_checked: '2026-07-21'
+  notes: Donations - Receipting and Recording (ODHS Policy 040-026-02)
+- id: dhs-040-026-03
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/de040-026-03.pdf
+  sha256: 7c032eb56d8f910dc536a0f83b8cf8dfec03ef0c7f50ad8951a7f8c10b378296
+  last_checked: '2026-07-21'
+  notes: Donations - Disbursements Process (ODHS Policy 040-026-03)
+- id: dhs-040-026-04
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/DE040-026-04.pdf
+  sha256: cc26be99449fab55d67069b65a43b73639f05c08ad73cb1c7b29e01e42186f71
+  last_checked: '2026-07-21'
+  notes: Donated Funds Reporting (ODHS Policy 040-026-04)
+- id: dhs-060-034-02
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/de060-034-02.pdf
+  sha256: 45517b9b43a04b46937927272a96bedf4cb342476d3578d1f38ce276d6998c08
+  last_checked: '2026-07-21'
+  notes: Reasonable Accommodation in Employment Process (ODHS Policy 060-034-02)
+- id: dhs-060-044
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/de060-044.pdf
+  sha256: 997ed94e23c80f740f406151acb38b3fd0f0af84843101c14ae4b5a6fcf28a62
+  last_checked: '2026-07-21'
+  notes: Close Personal Relationships (ODHS Policy 060-044)
+- id: dhs-100-003
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/DE100-003.pdf
+  sha256: ac9e2c85c028e22c113e8784d05c8925e49be4fd03887e2d78ce4d271b65630a
+  last_checked: '2026-07-21'
+  notes: Access to Records (ODHS Policy 100-003)
+- id: dhs-100-004
+  url: https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/de100-004.pdf
+  sha256: fe180fff9d97bc6b49b143c249f512061b068f46124c9aeb90d6cb674b2b4b30
+  last_checked: '2026-07-21'
+  notes: Minimum Necessary Standard for Releasing Confidential, Sensitive and Protected Information (ODHS
+    Policy 100-004)

@@ -1,0 +1,200 @@
+Public Health Division
+Prisoner Participation in Research
+
+When a proposed research project includes prisoners, regardless of funding, the Public Health
+IRB (PH IRB) elects to apply 45 CFR 46 Subpart C, “Additional Protections Pertaining to
+Biomedical and Behavioral Research Involving Prisoners as Subjects”. By regulatory definition,
+a prisoner is any individual involuntarily confined or detained in a penal institution. The term is
+intended to encompass individuals sentenced to such an institution under a criminal or civil
+statute, individuals detained in other facilities by virtue of statutes or commitment procedures
+which provide alternatives to criminal prosecution or incarceration in a penal institution, and
+individuals detained pending arraignment, trial, or sentencing. Penal institutions include prisons,
+jails, and juvenile offender facilities in which an individual’s ability to leave is restricted.
+Individuals involuntarily confined or detained to other institutions by court-order, including
+inpatient treatment facilities, hospitals, or halfway houses are also prisoners. Parolees and
+probationers living in the community and/or wearing monitoring devices are generally not
+considered to be prisoners.
+
+It is important to understand that these additional mandated protections are not intended for
+individuals who have ever served time in prison over their lifetime. The protection is in place,
+rather, for any subject that is a prisoner involved in the research during their incarceration or
+other court ordered confinement. If the PH IRB finds that there are no particular risks in linking
+their health data to information regarding their incarceration or conviction and further, there is
+zero risk that a prisoner in the study would somehow be taken advantage of, abused, or lose
+something as a result of being a prisoner, then it may determine that Subpart C does not apply.
+
+In order to conduct any research in a correctional facility, investigators must seek and receive
+approval from that facility to conduct or continue the research. Questions will need to be asked
+of appropriate authorities to determine whether it’s even feasible that the inmate participate in
+the study, prior to obtaining PH IRB review. Investigators should familiarize themselves with the
+following regulations pertaining to research with an inmate in the Department of Corrections:
+
+   ORS 421-085
+   OAR 291-035-0005 through 0015
+   OAR 291-124-0080
+
+The Review
+When reviewing research involving prisoners the PH IRB will:
+ apply the prisoner specific definition of minimal risk, “the probability and magnitude of
+   physical or psychological harm that is normally encountered in the daily lives, or in the
+   routine medical, dental, or psychological examination of healthy persons who are not
+   prisoners”;
+ apply the Public Health Division “Children Participation in Research” policy and Subpart D
+   if the prisoner is also a minor;
+ apply both the general PH IRB policies and procedures as well as any additional rules
+   pertinent to the inclusion of prisoners as determined by Federal, state, county and local
+   regulations;
+
+
+
+                                                                                Revised February 2018
+   have at least one PH IRB member be a former prisoner, or a Prisoner Representative with
+    appropriate background and experience to serve in that capacity;
+   ensure a majority of the Board, exclusive of this Prisoner Representative, has no association
+    with the prison(s) involved, apart from their membership on the PH IRB;
+   review all research including initial, continuing, amendment requests, and reports of adverse
+    events in which prisoners are the target population or incidentally included; and
+   cease all research interactions, interventions, and the obtainment of identifiable private
+    information about incarcerated prisoner-subjects if a human subject participating in an IRB-
+    approved protocol becomes a prisoner after the research has begun.
+
+Previously Enrolled Subjects
+If an enrolled research participant becomes incarcerated during the course of the research it is the
+duty of the investigator to report the event to the PH IRB within 5 working days of becoming
+aware, unless the study was previously approved by the PH IRB for prisoner participation. If this
+is not the case but investigators assure the PH IRB that research interactions and interventions
+and/or obtaining identifiable private information will not occur during the subject’s
+incarceration, then approval under Subpart C will not be required.
+
+If, however, investigators wish to pursue research interactions and interventions and/or obtain
+identifiable private information while the participant is incarcerated, the PH IRB must review the
+protocol under the prisoner regulations at Subpart C and thus no research activity can occur with
+this participant until the PH IRB has re-reviewed and approved the research for their inclusion.
+For federally funded studies this will include secretarial consultation and certification to OHRP
+which is discussed in greater detail below.
+
+In special circumstances in which the Principal Investigator asserts that it is in the best interest of
+the subject to remain in the research study while incarcerated, the PH IRB Chair or Vice Chair
+may determine that the subject may continue to participate in the research before the
+requirements of Subpart C are satisfied. For example, it would be detrimental to the subject if
+he/she is undergoing some medical treatment and suddenly must stop the treatment simply
+because regulations require that such interaction ceases once a subject becomes an incarcerated
+prisoner-subject. If the PH IRB Chair or Vice-Chair agrees with the P.I.’s assessment, that it is in
+the best interest of the participant to remain in the research study while incarcerated and prior to
+the requirements of Subpart C being met, the exception will be made.
+
+Federally Funded Studies
+Note, for any HHS conducted or supported research involving prisoners, the PH IRB will also
+certify to the HHS Secretary, through OHRP, that it has reviewed the research and made the
+seven findings as required by Subpart C. No action may be taken by the research team until these
+federally mandated steps are complete. For research not conducted or supported by HHS,
+although Subpart C will be applied, secretarial consultation and certification to OHRP are not
+required.
+
+Prisoner Certification Letter to OHRP
+
+
+
+
+                                                                                  Revised February 2018
+The PH IRB Coordinator will assist investigators in the submission of material to OHRP for
+certification of federally funded research involving prisoners. The certification letter to OHRP
+shall include the following:
+ Institutional assurance number;
+ PH IRB registration number;
+ Sites where research involving prisoners will be conducted. If considered engaged in the
+    research, site assurance numbers must be included;
+ Title of the DHHS grant and the grant award number;
+ DHHS funding agency name;
+ DHHS program officer contact information; and
+ A chronological listing of IRB meetings where the protocol was considered for approval.
+
+Along with the certification letter, the following material must be sent:
+ PH IRB approval letter indicating the Board made the required findings under 45 CFR
+   46.305(a) and which one of the four categories under 45 CFR 46.306(a)(2) is applicable to
+   the study;
+ PH IRB approved protocol and consent forms;
+ Any relevant DHHS grant application or proposal;
+ Any PH IRB application forms required by the IRB; and
+ Any other information requested or required by the PH IRB to be considering during its
+   initial review.
+
+Routes of Review
+Research involving prisoners must be reviewed by the convened PH IRB unless the project is
+eligible for expedited review. For initial, continuing, and amendment requests, studies that meet
+expedited review criteria, in accordance with 45 CFR 46.110(b)(1), will be assigned to the
+Prisoner Representative and one additional Board member for review. The exemptions at 45
+CFR 46.101(b) do not apply to research involving prisoners.
+
+In order to approve research involving prisoners, investigators must address the following seven
+requirements of 45 CFR 46.305 in their research protocol and/or application to the PH IRB and
+the Board must make these same findings:
+1) Any possible advantages accruing to the prisoner through his or her participation in the
+    research, when compared to the general living conditions, medical care, quality of food,
+    amenities and opportunity for earnings in the prison, are not of such a magnitude that his or
+    her ability to weigh the risks of the research against the value of such advantages in the
+    limited choice environment of the prison is impaired;
+2) The risks involved in the research are commensurate with risks that would be accepted by
+    non-prisoner volunteers;
+3) Procedures for the selection of subjects within the prison are fair to all prisoners and immune
+    from arbitrary intervention by prison authorities or prisoners. Unless the principal
+    investigator provides to the PH IRB justification in writing for following some other
+    procedures, control subjects must be selected randomly from the group of available prisoners
+    who meet the characteristics needed for that particular research project;
+4) The information is presented in language which is understandable to the subject population;
+
+
+
+
+                                                                               Revised February 2018
+5) Adequate assurance exists that parole boards will not take into account a prisoner's
+     participation in the research in making decisions regarding parole, and each prisoner is
+     clearly informed in advance that participation in the research will have no effect on his or her
+     parole;
+6) Where the PH IRB finds there may be a need for follow-up examination or care of
+     participants after the end of their participation, adequate provision has been made for such
+     examination or care, taking into account the varying lengths of individual prisoners'
+     sentences, and for informing participants of this fact; and
+7) The research under review represents one of the following permissible categories under 45
+     CFR 46.306(a)(2):
+   i. Research on the possible causes, effects, and processes of incarceration, and of criminal
+         behavior, provided that the study presents no more than minimal risk and no more than
+         inconvenience to the subjects;
+  ii. Research on prisons as institutional structures or on prisoners as incarcerated persons,
+         provided that the study presents no more than minimal risk and no more than
+         inconvenience to the subjects;
+ iii. Research on conditions particularly affecting prisoners as a class (e.g., vaccine trials and
+         other research on hepatitis which is much more prevalent in prisons than elsewhere; and
+         research on social and psychological problems such as alcoholism, drug addiction, and
+         sexual assaults) provided that the study may proceed only after the Secretary of HHS,
+         through OHRP, has consulted with appropriate experts including experts in penology
+         medicine and ethics, and published notice in the Federal Register, of intent to approve
+         such research;
+ iv.     Research on practices both innovative and accepted, which have the intent and reasonable
+         probability of improving the health or well-being of the participant. In cases in which
+         those studies require the assignment of prisoners in a manner consistent with protocols
+         approved by the IRB to control groups which may not benefit from the research, the
+         study may proceed only after the Secretary of HHS, through OHRP, has consulted with
+         appropriate experts including experts in penology, medicine, and ethics and published
+         notice in the Federal Register, of intent to approve such research; or
+  v. Research conducted or supported by HHS that meets the 2003 Secretarial Waiver of the
+         Applicability of Certain Provisions of DHHS Regulations for the Protection of Human
+         Subjects for DHHS Epidemiologic Research Involving Prisoners as Subjects. The sole
+         purpose of such studies must be to describe the prevalence or incidence of a disease by
+         identifying all cases or to study potential risk factor associations for a disease. In such
+         cases where this waiver may apply, the PH IRB must still review the research under
+         Subpart C and certify to OHRP that 1-6 referenced above apply, the research presents no
+         more than minimal risk and no more than inconvenience to the prisoner-subjects, and the
+         prisoner population is not a particular focus of the research. Until the PH IRB receives
+         confirmation from OHRP that the research appropriately meets the waiver criteria, the
+         research may not proceed.
+
+
+Applicable Regulations:
+45 CFR 46, Subpart C
+
+
+
+
+                                                                                Revised February 2018
+
