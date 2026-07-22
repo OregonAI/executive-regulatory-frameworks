@@ -1,0 +1,254 @@
+---
+id: oya-iii-a-3-1
+title: "Recreational Activities in Substitute Care Placements"
+doc_type: policy
+citation: "OYA Policy III-A-3.1"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/III-A-3.1.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "69fc5ccac865f4bdccd413e75367bd1d177a45d4113b18c33d9c49e622063aa1"
+effective_date: "2019-05-29"
+last_reviewed: null
+source_version: "Effective 05/29/2019"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N III-A-N.N Recreational Activities in Substi' x4"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/III-A-3.1.pdf> (retrieved 2026-07-21).
+
+# Recreational Activities in Substitute Care Placements (OYA Policy III-A-3.1)
+
+## At a glance
+
+OYA Policy III-A-3.1 — Recreational Activities in Substitute Care Placements. Oregon Youth Authority. Effective 05/29/2019.
+
+## Full text
+
+                             OREGON YOUTH AUTHORITY
+                                       Policy Statement
+                       Part III – Youth Services (Community)
+
+ Subject:
+ Recreational Activities in Substitute Care Placements
+ Section – Policy Number:                     Supersedes:            Effective Date:   Date of Last
+                                                                                       Review:
+ A: General Administration – 3.1          III-A.3.1 (05/12) 05/29/2019
+                                                                          07/03/2025
+                                          III-A-3.1 (07/11)
+                                          III-E-2.1 (11/04)
+ Related              OAR Chapter 416, Division 500 (Recreational Activities for
+ Standards             Adjudicated Youth in Substitute Care Placements)
+ and                  OYA policy: I-A-8.0 (Exercise and Delegation of Legal Custodian
+ References:           and Guardianship Authority)
+                      OYA form: YA 3080 (Recreational Activity Risk Assessment)
+                       YA 3081 (Consent for OYA Youth to Participate in Recreational
+                       Activity)
+ Related              None
+ Procedures:
+ Policy Owner:                                Approved:
+
+ Community Services Assistant
+ Director                                     ________________________
+                                              Joseph O’Leary, Director
+
+I.     PURPOSE:
+
+       This policy provides standards for OYA Community Services staff when
+       reviewing youth recreational activities in the community.
+
+II.    POLICY DEFINITIONS:
+
+       Recreation: Any play or leisure activity in which youth participate, either
+       structured or unstructured. Recreation activities are intended to refresh, offer
+       sport or pastime. Recreation is all those things that a person or group chooses to
+       do in order to make leisure time more interesting, more enjoyable, and more
+       personally satisfying.
+
+       Substitute care placements: Any of the out-of-home care and treatment
+       programs authorized by OYA to serve youth in OYA custody, including
+       contracted residential programs and certified foster homes. Substitute care
+       placements exclude OYA’s close-custody facilities.
+
+       Substitute care providers: Persons authorized by OYA through contract or
+       other written agreement to provide supervision and care for youth on parole or
+       probation status in the community. Such persons include, but are not limited to,
+       contracted residential providers and certified foster parents (including respite
+       providers).
+
+III.     POLICY:
+
+         OYA recognizes recreational activities provide youth positive reinforcement and
+         healthy prosocial alternatives to boredom and illegal behavior.
+
+         Recreation develops concepts of cooperation, sportsmanship, and community
+         connection. Purposeful youth recreational activities can develop positive
+         physical, cognitive, social, and emotional skills.
+
+         OYA has identified diversity, equity and inclusion as an agency priority and
+Added
+7/6/23   initiative, with a goal to build a respectful, diverse, equitable and inclusive
+         environment for youth and staff that is free from harassment, discrimination and
+         bias. Data shows youth of color and LGBTQ+ youth are disproportionately
+         represented in the juvenile justice system. While OYA is only one part of that
+         system, it plays a critical role in addressing the historical and systemic inequities
+         it perpetuates. OYA expects its substitute care providers to seek and engage in
+         recreational activities that support a youth’s cultural identity.
+
+IV.      GENERAL STANDARDS:
+
+         A.     Activity Approval Process
+
+                1.     The approval process outlined below is required only for those
+                       youth recreational activities that:
+
+                       a)      Require a moderate to high level of technical expertise to
+                               perform safely;
+
+                       b)      Present environmental hazards; or
+
+                       c)      Require or recommend special certification or training (e.g.,
+                               whitewater rafting, rock climbing, Ropes courses, recreating
+                               on or in any body of water where a certified lifeguard is not
+                               present and on duty, backpacking, mountain climbing).
+
+                2.     Foster Home Placements
+
+                       a)      The foster parents, foster care certifier, and youth must
+                               review and sign a completed OYA Recreational Activity Risk
+                               Assessment (YA 3080) form.
+
+                       b)      OYA staff must notify the foster care certifier of any concerns
+                               with the activity.
+
+                       c)      The original signed YA 3080 must be retained in the master
+                               foster home file.
+
+                               The foster care certifier must send a copy of the signed
+                               YA 3080 to the youth’s juvenile parole/probation officer
+                               (JPPO).
+
+                     d)      The youth’s JPPO, and parent/guardian (if available), must
+                             review and sign a completed Consent for OYA Youth to
+                             Participate in Recreational Activity (YA 3081) form.
+
+                     e)      The JPPO must retain the original YA 3081 in the youth’s
+                             file.
+
+                             Copies must be sent to the foster parents and foster care
+                             certifier.
+
+              3.     Substitute Care Program Placements
+
+                     a)      Program staff and Community Resources Unit staff must
+                             sign a completed YA 3080.
+
+                     b)      OYA staff must notify the Community Resources Unit liaison
+                             of any concerns with the activity.
+
+                     c)      Community Resources Unit staff must send a copy of the
+                             signed YA 3080 to the residential program for individual
+                             youth signature and distribution to the JPPO(s).
+
+                             The original YA 3080 signed by Community Resources Unit
+                             staff (without individual youth signatures) will be retained by
+                             the Community Resources Unit.
+
+                     d)      The youth’s JPPO, and parent/guardian (if available), must
+                             sign a completed YA 3081.
+
+                     e)      The JPPO must retain the original YA 3081 in the youth’s
+                             file.
+
+                             Copies must be sent to the substitute care program.
+
+              4.     The JPPO may determine whether subsequent approval via a
+                     YA 3081 is necessary for an identical recreational activity for the
+                     same youth when the youth does not present any higher level of
+                     risk, and is living in the same substitute care placement.
+
+              5.     Community Resources Unit staff may determine whether
+                     subsequent approval via YA 3080 is necessary for a substitute care
+                     program planning an identical recreational activity when the youth
+                     do not present any higher level of risk.
+
+              6.     The foster care certifier may determine whether subsequent
+                     approval via a YA 3080 is necessary for a foster home planning an
+                     identical recreational activity for the same youth or for youth who do
+                     not present a higher level of risk.
+
+       B.     Restrictions
+
+              1.     Youth travel outside of Oregon for recreational purposes must be
+                     reviewed on a case-by-case basis.
+
+                     a)      The Community Services assistant director must review
+                             every request for youth travel to another state for
+                             recreational purposes and approve or deny the request.
+
+                     b)      Staff will ensure interstate compact agreements are followed
+                             when necessary.
+
+              2.     Youth in a substitute care placement may not participate in hunting
+                     activities. No exceptions may be made to this standard.
+
+       C.     Release of liability form signatures
+
+              1.     Youth age 18 or older may sign release of liability forms for their
+                     participation in recreational activities.
+
+              2.     Youth under age 18 require their parent/legal guardian’s signature.
+
+              3.     The Community Services assistant director or designee may only
+                     sign release of liability forms for youth participation in recreational
+                     activities if all the following conditions are met:
+
+                     a)      Parent or legal guardian approval has been attempted and
+                             they are not responsive, or uninvolved in the youth’s
+                             placement and treatment;
+
+                     b)      The activity supports the youth’s case plan or treatment
+                             goals;
+
+                     c)      The OYA Recreational Risk Activity (YA 3080) has been
+                             approved by the Community Resources program analyst or
+                             Foster Care certifier;
+
+                     d)      The Consent for OYA Youth to Participate in Recreational
+                             Activity (YA 3081) has been completed and signed; and
+
+                     e)      The JPPO has documented in JJIS notes all information on
+                             items (a) through (d) listed above.
+
+              4.     When the Community Services assistant director or designee signs
+                     a release of liability form, a copy of the signed form must be
+                     retained in the youth’s case file.
+
+              5.     The Community Services assistant director or designee may not
+                     sign release of liability forms if the youth’s parent or legal guardian
+                     has communicated they do not approve of the youth’s participation
+                     and have declined to sign the release of liability form.
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/III-A-3.1.pdf> · retrieved 2026-07-21 · sha256 `69fc5ccac865f4bdccd413e75367bd1d177a45d4113b18c33d9c49e622063aa1`
+- Snapshot: `_meta/snapshots/oya-iii-a-3-1.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

@@ -1,0 +1,775 @@
+                            OREGON YOUTH AUTHORITY
+                                   Policy Statement
+                        Part 0 – Mission, Values, Principles
+
+ Subject:
+ Mandatory Reporting of Abuse
+ Section – Policy Number:                  Supersedes:      Effective Date:     Date of Last
+                                                                                Review:
+ 0: Mission, Values, Principles - 2.3        0-2.3 (5/19)     10/26/2023
+                                                                            10/26/2025
+                                             0-2.3 (12/17)
+                                             0-2.3 (12/13)
+                                             0-2.3 (6/10)
+                                             0-2.3 (6/06)
+                                             I-A-2.0 (7/00)
+ Related             ORS 124.005 to 124.040 (Elderly Persons and Persons with
+ Standards and        Disabilities Abuse Prevention Act)
+ References:         ORS Chapter 163 (Offenses Against Persons)
+                     ORS 418.205 Definitions (Child-caring agencies; Placement in Foster
+                      Homes by child-caring agencies)
+                     ORS 418.747 (County teams for investigation; duties; training;
+                      method of investigation; designated medical professional)
+                     ORS 418.748 (Statewide team on child abuse and suicide)
+                     ORS 418.749 (Training and education for persons investigating child
+                      abuse)
+                     ORS 419B.005 through 419B.050 (Reporting and Investigation of
+                      Child Abuse)
+                     ORS 192.001 through 192.170 (Public Records Policy)
+                     Department of Human Services, Child Protective Services (DHS-
+                      CPS)
+                     DHS booklet: What You Can Do About Child Abuse
+                     DHS Website: Abuse and Neglect Information (Adults)
+                     Performance-Based Standards for Juvenile Correction and Detention
+                      Centers; Order
+                     American Correctional Association, Standards for Juvenile
+                      Correctional Facilities; 5-JCF-3D-01 (Child Abuse and Neglect)
+                     Attachment A: Mandatory Reporting of Youth Abuse Flowchart
+                     Attachment B: Mandatory Child Abuse Reporting Checklists
+                     OYA policy: 0-2.0 (Principles of Conduct)
+                      I-E-1.0 (Director’s Incident Notification and Report)
+                      I-A-10.0 (Preventing, Detecting, and Responding to Youth Sexual
+                      Abuse and Sexual Harassment)
+                      I-E-4.0 (Incident Reviews)
+                      III-A-1.0 (Youth Incident Report – Community)
+ Related             Facilitywide procedure: FAC I-E-4.0 Youth Incident Report (YIR)
+ Procedures:
+ Policy Owner:                             Approved:
+
+ Professional Standards Office Chief
+ Investigator                              _______________________
+                                           Joseph O’Leary , Director
+Page 1 of 17                  0-2.3 Mandatory Reporting of Abuse              Effective: 10/26/2023
+I.     PURPOSE:
+
+       This policy directs staff on reporting suspected, alleged, or observed abuse of youth,
+       children, and adults who are elderly or have a disability.
+
+II.    POLICY DEFINITIONS:
+
+       Abuse (of a child or youth): Includes physical or mental injury, sexual abuse or
+       exploitation, negligent treatment or maltreatment of a child; as defined in ORS
+       Chapter 163 and
+       ORS 419B.005, to include:
+       1. Any assault or physical injury to a child that has been caused by other than
+          accidental means, including any injury which appears to be at variance with the
+          explanation given of the injury.
+       2. Any mental injury to a child, which includes only cruel or unconscionable acts or
+          statements made, or threatened to be made, to a child if the acts, statements, or
+          threats result in severe harm to the child’s psychological, cognitive, emotional or
+          social well-being and functioning.
+       3. Rape of a child, including but not limited to rape, sodomy, unlawful sexual
+          penetration and incest.
+       4. Sexual abuse.
+       5. Sexual exploitation, including, but not limited to:
+           a) Contributing to the sexual delinquency of a minor;
+           b) Allowing, employing, authorizing, permitting, inducing or encouraging a child
+              to engage in the performing for people to observe or the photographing,
+              filming, tape recording or other exhibition which depicts sexual conduct or
+              contact; and
+           c) Allowing, permitting, encouraging or hiring a child to engage in prostitution.
+       6. Negligent treatment or maltreatment of a child, including but not limited to the
+          failure to provide adequate food, clothing, shelter or medical care.
+       7. Threatened harm to a child, including substantial risk of harm to the child’s health
+          or welfare.
+       8. Buying or selling a person under the age of 18 as described in ORS         163.537.
+       9. Permitting a person under 18 years of age to enter or remain in or upon premises
+          where methamphetamines are being manufactured.
+       10. Unlawful exposure to a controlled substance, as defined in ORS 475.005, that
+           subjects a child to a substantial risk of harm to the child’s health and safety.
+
+       Abuse (of an elderly person or person with disabilities): See part VI., section D
+       of this policy.
+
+       Child: An unmarried person who –
+       • Is under 18 years of age, including emancipated youth; or
+       • Is under 21 years of age and residing in or receiving care or services at a child-
+          caring agency as that term is defined in ORS 418.205.
+
+       Child-caring agency (CCA): A CCA refers to a private agency or private
+       organization licensed by DHS and includes:
+
+Page 2 of 17                   0-2.3 Mandatory Reporting of Abuse         Effective: 10/26/2023
+       •   Psychiatric day treatment for children;
+       •   Adoption placements services ;
+       •   Residential care, including proctor foster care or residential treatment;
+       •   Boarding schools;
+       •   Outdoor youth programs; or
+       •   Other similar care or services for children.
+
+       Elderly person: A person 65 years of age or older.
+
+       Nonstaff: : Any person who is not an OYA staff person but has contact with OYA
+       youth due to the person's role as an OYA volunteer, mentor, intern, contracted
+       service provider, or contracted service provider's agent.
+
+       PREA coordinator: A full-time position that reports to Director’s Office. The PREA
+       coordinator’s responsibilities include developing, implementing, and overseeing the
+       agency’s plan to comply with national Prison Rape Elimination Act (PREA)
+       standards.
+
+       Sexual abuse response and resource coordinator (SARRC): A management
+       staff member designated by the facility superintendent/camp director to coordinate
+       responses, reporting, and follow-up to incidents of youth sexual abuse within the
+       facility.
+
+       Staff: OYA employees.
+
+       Substitute care providers: Persons authorized by OYA through contract or other
+       written agreement to provide supervision, care, room and board for youth on parole
+       or probation status in the community. Such persons include, but are not limited to,
+       contracted residential treatment providers and certified foster parents (including
+       respite providers).
+
+       Youth: A person in the legal and physical custody of OYA, either in an OYA facility
+       or placed in the community under supervision, or a person in the legal custody of the
+       Department of Corrections and the physical custody of OYA in an OYA facility.
+
+III.   POLICY:
+
+       OYA staff and nonstaff have a responsibility to ensure the safety of all youth in OYA
+       custody, regardless of age. Nonstaff must immediately report any observed,
+       suspected, or alleged abuse to an OYA staff member or Professional Standards
+       Office (PSO). OYA staff must immediately respond to any observed, suspected, or
+       alleged youth abuse by ensuring the youth’s safety and reporting the abuse as
+       described in this policy.
+
+       Oregon law requires certain professionals and employees of certain state agencies
+       to report to law enforcement or the Department of Human Services/Child Protective
+       Services (DHS-CPS) any instance where the professional or employee becomes
+       aware of or has reasonable cause to believe child abuse has occurred. OYA staff
+       are designated and mandated by law to report any alleged or suspected child abuse
+       occurring on the job and in their private lives. “Child” is defined in this policy (part II
+       above). Nonstaff may be required to follow the child abuse reporting laws according
+       to their professions or employment statuses.
+
+
+
+Page 3 of 17                    0-2.3 Mandatory Reporting of Abuse           Effective: 10/26/2023
+       As with child abuse incidents, OYA staff are required by Oregon law to report any
+       instance where they become aware of or have reasonable cause to believe abuse
+       has occurred of an adult who is an elderly person or has a disability.
+
+IV.    Mandatory Youth Abuse Reporting:
+
+       Staff and nonstaff must report any abuse of a youth that occurred while in OYA legal
+       or physical custody, regardless of the youth's age. See Attachment A (Mandatory
+       Reporting of Youth Abuse Flowchart).
+
+       A.      Contract administrators must ensure contracts with individuals who have
+               direct contact with youth reflect the duty to report all suspected, observed, or
+               alleged youth abuse, and that contracted health care providers inform youth
+               of that obligation at the initiation of services.
+
+       B.      OYA site volunteer coordinators must ensure volunteer orientation/training
+               includes information regarding the duty to report all suspected, observed, or
+               alleged youth abuse.
+
+       C.      Who to report to
+
+               1.     Once a staff member becomes aware of suspected, observed, or
+                      alleged abuse of a youth that occurred while in OYA custody, the staff
+                      member must ensure the youth's safety and verbally report the
+                      incident to the staff member's supervisor, or officer-of-the-day (OD).
+
+                      If the alleged perpetrator of the abuse is an OYA staff member or
+                      nonstaff, staff must also verbally report the incident to the Professional
+                      Standards Office (PSO).
+
+               2.     Staff must follow additional processes as described in section V of this
+                      policy (Mandatory Child Abuse Reporting) when responding to
+                      suspected, observed, or alleged abuse of a youth less than 18 years
+                      old, or less than 21 years old and receiving services from a child-
+                      caring agency.
+
+               3.     Nonstaff must be instructed during their OYA orientations/trainings to
+                      verbally report suspected, observed, or alleged abuse of a youth to an
+                      OYA staff member or PSO.
+
+               4.     Staff must follow additional processes as described in OYA policy
+                      I-A-10.0 (Preventing, Detecting, and Responding to Youth Sexual
+                      Abuse and Sexual Harassment) when responding to suspected,
+                      observed, or alleged youth sexual abuse or sexual harassment.
+
+       D.      All youth abuse reports must be documented in a Youth Incident Report (YIR)
+               as described in facilitywide procedure FAC I-E-4.0 (Youth Incident Reports)
+               or OYA policy III-A-1.0 (Youth Incident Reports - Field).
+
+       E.      If PSO receives an abuse complaint that allegedly occurred while a youth was
+               placed in the physical custody of another agency, PSO must notify that
+               agency of the allegation within 24 hours of having received the allegation
+               (e.g., detention facility, Department of Corrections, another state agency).
+
+
+Page 4 of 17                   0-2.3 Mandatory Reporting of Abuse          Effective: 10/26/2023
+V.     Mandatory Child Abuse Reporting
+
+       A.      Duty to Report
+
+               All OYA staff and substitute care providers are subject to mandatory child
+               abuse reporting laws and must immediately report any observed, alleged or
+               suspected child abuse. The obligation to report includes any child and is not
+               limited to incidents involving youth in OYA legal or physical custody.
+
+               1.     As mandatory child abuse reporters, staff and substitute care
+                      providers are required to report alleged or suspected child abuse
+                      brought to their attention both on and off duty. The duty to report
+                      suspected child abuse extends to all hours of the day, every day. The
+                      duty to report remains the same whether the information is learned
+                      through rumors or hearsay, alleged by perpetrators or victims, is
+                      suspected, or is observed.
+
+                      For example:
+
+                      a)     A staff member suspects a youth in OYA custody may have
+                             been abused while under the age of 18 or caused the abuse of
+                             a person under age 18. The staff member has a duty to report
+                             the suspicion. The same is true if a youth is receiving services
+                             from a child-caring agency and is under age 21.
+
+                      b)     Any allegation or report of abuse or maltreatment allegedly
+                             committed by a staff member or substitute care provider to a
+                             youth under the age of 18 in OYA custody must be reported.
+                             The same is true if a youth is receiving services from a child-
+                             caring agency and is under age 21.
+
+                      c)     While talking to another person, a staff member believes the
+                             person they are talking to may have abused a child. The staff
+                             member has a duty to report the suspicion.
+
+                      d)     While talking to another person, a staff member hears
+                             secondhand information about the suspected abuse of an OYA
+                             youth under age 18 (or under 21 and receiving services from a
+                             child-caring agency). The staff member must verify a
+                             mandatory report has been made by the person providing the
+                             information, and the necessary documentation and report
+                             verification described in this policy have been completed.
+
+                      e)     During off-duty hours, a staff member sees or hears about an
+                             incident which the staff member believes or suspects is child
+                             abuse. The staff member has a duty to report the incident
+                             whether the child is in OYA custody or not.
+
+               2.     The intent of the law is to prevent further abuse, and safeguard and
+                      enhance the welfare of abused children. Simply sharing suspicions of
+                      abuse with a supervisor or another mandatory reporter does not
+                      relieve the person’s responsibility to report as described in
+                      section B below.
+
+
+Page 5 of 17                    0-2.3 Mandatory Reporting of Abuse        Effective: 10/26/2023
+               3.     Staff must assess whether the youth who is the subject of the abuse
+                      report may be in danger of further abuse and take immediate action to
+                      ensure the youth is protected and safe from additional harm.
+
+               4.     Staff must maintain confidentiality of information as required by law
+                      and OYA policy.
+
+               5.     Staff must ensure the victim and reporting parties are free from
+                      retaliation for reporting suspected abuse.
+
+                      For youth-related incidents, staff may receive disciplinary action for
+                      direct retaliation or for allowing retaliation to occur.
+
+       B.      Who to report to
+
+               Depending on where the incident occurred, immediate verbal reports must be
+               made accordingly. See Attachment A (Mandatory Reporting of Youth Abuse
+               Flowchart) and Attachment B (Mandatory Child Abuse Reporting Checklists)
+               for clarity.
+
+               1.     Oregon State Police (OSP)
+
+                      Staff must report child abuse to OSP if -
+
+                      a)      The alleged child abuse occurred in an OYA close-custody
+                              facility; or
+
+                      b)      The alleged child abuse perpetrator is an OYA staff or nonstaff.
+
+               2.     DHS-CPS
+
+                      Staff must report child abuse to DHS-CPS if the abuse occurred in the
+                      community, regardless of when the abuse occurred.
+
+                      Staff must call this toll-free number to report abuse or neglect of any
+                      child: 1-855-503-SAFE (7233).
+
+               3.     Local law enforcement
+
+                      Staff must report child abuse to local law enforcement if the alleged
+                      victim resides in the community and the incident requires an
+                      emergency community response.
+
+       C.      Information to Report
+
+               In all instances, staff must report child abuse even if all the information is not
+               available at the time of the report. The verbal report must contain, at least the
+               following information if known:
+
+               1.     Name, age, address of the child involved (if known);
+
+               2.     Names of parents or caretakers (if known);
+
+
+
+Page 6 of 17                    0-2.3 Mandatory Reporting of Abuse          Effective: 10/26/2023
+               3.     Nature and extent of suspected, alleged, or observed abuse, including
+                      noticeable or reported injuries;
+
+               4.     The explanation, if any, given for the abuse; and
+
+               5.     Any other information that helps establish the cause of the abuse and
+                      the identity of the alleged perpetrator, including where and when the
+                      incident occurred.
+
+       D.      Follow-up verbal notifications
+
+               If an OYA youth was a victim or perpetrator in the child abuse report, staff
+               must also make the following verbal notifications after reporting the child
+               abuse incident to DHS-CPS or OSP:
+
+               1.     The staff member's immediate supervisor if the alleged incident
+                      occurred while the youth was in OYA custody;
+
+               2.     PSO, if the alleged perpetrator is an OYA staff member or nonstaff;
+                      and
+
+               3.     The PREA Coordinator and the local facility Sexual Abuse Response
+                      and Resource Coordinator (SARRC) if the alleged abuse was sexual
+                      and occurred during the youth's commitment to OYA.
+
+                      See OYA policy I-A-10.0 (Preventing, Detecting, and Responding to
+                      Youth Sexual Abuse and Sexual Harassment) for more instructions
+                      about responding to youth sexual abuse.
+
+       E.      Follow-up documentation is not required when the reported incident does not
+               involve an OYA youth. For example, the reported incident occurred in the
+               community by and to members of the general public.
+
+       F.      Documenting youth-related child abuse reports
+
+               1.     All youth-related child abuse reports must be documented in a Youth
+                      Incident Report (YIR).
+
+               2.     Staff must select one of the following YIR types to document the child
+                      abuse report.
+
+                      The YIR type depends on when and where the abuse occurred.
+
+                      a)     Information-only YIR
+
+                             An informational YIR must only be used to document reported
+                             incidents when the incident occurred while a youth was not in
+                             OYA custody (historical child abuse incidents).
+
+                      b)     Facility YIR
+
+                             A facility YIR must be used to document reported incidents
+                             when the incident occurred while a youth was residing in an
+                             OYA facility.
+
+Page 7 of 17                   0-2.3 Mandatory Reporting of Abuse          Effective: 10/26/2023
+                      c)     Field YIR
+
+                             A field YIR must be used to document reported incidents when
+                             the incident occurred while a youth was on OYA community
+                             supervision.
+
+               3.     Staff as alleged perpetrators
+
+                      If the alleged perpetrator of abuse is a staff member, the reporting staff
+                      member must create the YIR with minimal alleged perpetrator
+                      identifying information, and must -
+
+                      a)     Omit the name of the alleged perpetrator;
+
+                      b)     Immediately restrict access to the YIR; and
+
+                      c)     Ensure PSO is notified.
+
+               4.     If the reporting staff does not have JJIS security access to create a
+                      YIR, the reporting staff must contact their supervisor for further
+                      instructions. Another staff member who has JJIS security access to
+                      create a YIR may initiate the YIR, or PSO may assist in the process.
+
+       G.      Verifying youth-related child abuse reports
+
+               1.     Child abuse reports must be verified by a supervisor/manager during
+                      the normal YIR review process.
+
+                      See OYA policy III-A-1.0 (Youth Incident Reports - Field) and
+                      facilitywide procedure FAC I-E-1.0 (Youth Incident Report) for process
+                      details.
+
+               2.     During the YIR review, the supervisor/manager must ensure the YIR
+                      indicates specifically to whom the verbal report was made (OSP, local
+                      law enforcement, DHS-CPS), what information was given during the
+                      verbal report, and that the Notification Documentation screen is correct
+                      (e.g., PSO radio button is clicked).
+
+               3.     Prior to locking the YIR, the supervisor/manager must ensure all
+                      documentation is correct and notifications were made according to this
+                      policy.
+
+               4.     Additional notification to superintendent/camp director, field
+                      supervisor, or community resources manager
+
+                      The supervisor/manager reviewing the YIR must notify the below-listed
+                      staff if the child abuse incident occurred while the youth was in OYA
+                      legal or physical custody but the youth is no longer in the placement
+                      where the incident occurred.
+
+                      a)     Facility superintendent/camp director if the abuse occurred in
+                             or during a facility placement.
+
+
+
+Page 8 of 17                   0-2.3 Mandatory Reporting of Abuse          Effective: 10/26/2023
+                      b)     Community resource manager and field supervisor if the abuse
+                             occurred during substitute care placement.
+
+                      c)     Field supervisor if the abuse occurred during community
+                             placement.
+
+       H.      Training
+
+               1.     All staff must complete annual training on mandatory child abuse
+                      reporting offered by the OYA Training Academy.
+
+               2.     Volunteer coordinators and contract administrators must ensure this
+                      policy is included in nonstaff orientations.
+
+       I.      Confidentiality of records
+
+               Unless required by statute, reports and records compiled under the Oregon
+               mandatory child abuse laws are confidential and may not by disclosed to the
+               public.
+
+VI.    MANDATORY ADULT ABUSE REPORTING
+
+       Oregon law requires certain professionals and state employees (including OYA staff)
+       to report adult abuse when the adult is aged 65 and older (elderly), or has a physical
+       or developmental disability. Adult abuse is defined in section D below.
+
+       A.      If a staff member becomes aware of adult abuse while performing job duties
+               and the abused person is not in OYA custody, they must immediately call
+               Oregon’s abuse reporting hotline at (855) 503-SAFE (855-503-7233).
+
+               1.     Staff must then contact their supervisor and PSO regarding the report.
+
+               2.     Staff must document their verbal report in an e-mail to PSO.
+
+       B.      If a staff member becomes aware of abuse not while performing job duties
+               and the abused person is not in OYA custody, they must immediately call
+               Oregon’s abuse reporting hotline at (855) 503-SAFE (855-503-7233).
+
+       C.      Staff may seek additional information regarding reporting adult abuse from
+               the DHS website: http://www.oregon.gov/dhs/abuse/Pages/index.aspx.
+
+       D.      Abuse (of an elderly person or person with disabilities), as defined in ORS
+               124.005 to 124.040 includes one or more of the following:
+
+               1.     Any physical injury caused by other than accidental means, or that
+                      appears to be at variance with the explanation given of the injury.
+
+               2.     Neglect that leads to physical harm through withholding of services
+                      necessary to maintain health and well-being.
+
+               3.     Abandonment, including desertion or willful forsaking of an elderly
+                      person or a person with a disability or the withdrawal or neglect of
+                      duties and obligations owed an elderly person or a person with a
+                      disability by a caregiver or other person.
+
+Page 9 of 17                   0-2.3 Mandatory Reporting of Abuse         Effective: 10/26/2023
+                4.   Willful infliction of physical pain or injury.
+
+                5.   Use of derogatory or inappropriate names, phrases or profanity,
+                     ridicule, harassment, coercion, threats, cursing, intimidation or
+                     inappropriate sexual comments or conduct of such a nature as to
+                     threaten significant physical or emotional harm to the elderly person or
+                     person with a disability.
+
+                6.   Causing any sweepstakes promotion to be mailed to an elderly person
+                     or a person with a disability who had received sweepstakes
+                     promotional material in the United States mail, spent more than $500
+                     in the preceding year on any sweepstakes promotions, or any
+                     combination of sweepstakes promotions from the same service,
+                     regardless of the identities of the originators of the sweepstakes
+                     promotion and who represented to the court that the person felt the
+                     need for the court’s assistance to prevent the person from incurring
+                     further expense.
+
+                7.   Wrongfully taking or appropriating money or property, or knowingly
+                     subjecting an elderly person or person with a disability to alarm by
+                     conveying a threat to wrongfully take or appropriate money or
+                     property, which threat reasonably would be expected to cause the
+                     elderly person or person with a disability to believe that the threat will
+                     be carried out.
+
+                8.   Sexual contact with a nonconsenting elderly person or person with a
+                     disability or with an elderly person or person with a disability
+                     considered incapable of consenting to a sexual act as described in
+                     ORS 163.315. As used in this paragraph, “sexual contact” has the
+                     meaning given that term in ORS 163.305.
+
+VII.   LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+
+
+
+Page 10 of 17                   0-2.3 Mandatory Reporting of Abuse           Effective: 10/26/2023
+Attachment A: Mandatory Reporting of Youth Abuse Flowchart
+
+                   Abuse incident happened while youth was in OYA custody
+                                                   Staff observes,
+                                               suspects, or receives
+                                                allegation of youth
+                                                       abuse.
+
+
+
+
+                                                  Ensure youth's
+                                                      safety
+
+
+
+
+                                                                       Yes
+                                                     Is youth                 Follow child abuse
+                                                    under 18?                reporting checklists
+
+
+
+                                                           No
+
+
+
+                                                      Is youth         Yes
+                Verbally report the                 under 21 &
+                    incident to                     serviced by
+                    supervisor            No           a CCA?
+                      (or OD)
+
+
+
+
+                                                      Alleged          Yes
+                                                    perpetrator                  Contact PSO
+                                                    OYA staff or                800-315-5440
+                                                     nonstaff?
+References:
+
+ CCA: Child-caring agency                                  No
+
+ Nonstaff = OYA volunteer, mentor,
+  intern, contracted service provider
+  (or their agent)                                                             Contact a Sexual
+                                                      Sexual           Yes
+ PSO = Professional Standards Office                 abuse/                 Abuse Response and
+                                                    harassment                    Resource
+ SARRC: Sexual Abuse Response and                       ?                   Coordinator (SARRC)
+  Resource Coordinator
+ OD: Officer-of-the-day                                   No
+
+
+                                                    Document
+                                                   incident in a
+                                                  Youth Incident
+                                                   Report (YIR)
+
+
+Page 11 of 17                           0-2.3 Mandatory Reporting of Abuse                    Effective: 10/26/2023
+Attachment B: Mandatory Child Abuse Reporting Checklists
+
+Child Abuse Victim = Youth who was in an OYA facility at the time of the abuse
+
+   Ensure youth is safe, if still in OYA custody
+   Make a verbal report to Oregon State Police (OSP) including this information:
+       Name, age, address of the victim
+       Names of parents or caretakers (if known)
+       Nature and extent of abuse, including noticeable or reported injuries
+       Explanation given for abuse (if any)
+       Any other information that helps establish the cause of the abuse and the identity
+       of the alleged perpetrator (where and when the incident occurred)
+   Make follow-up verbal notifications:
+       Your immediate supervisor if abuse occurred during OYA commitment.
+       Professional Standards Office (PSO) if the alleged perpetrator is an OYA staff,
+       volunteer, or contractor.
+       PREA Coordinator and local Sexual Abuse Response and Resource Coordinator
+       (SARRC) if sexual abuse and occurred during OYA commitment.
+   Document the verbal report in a YIR
+       Information-only YIR - if the incident occurred while the youth was not in OYA
+       custody. These typically are historical incidents staff become aware of through
+       the youth's treatment.
+       Facility YIR - if the incident occurred while the youth was living in an OYA facility.
+       Field YIR - if the incident occurred while the youth was on OYA community
+       supervision.
+   Is staff the alleged perpetrator?
+       No = no additional precautions
+       Yes = do the following
+           Omit the name of the alleged perpetrator in the YIR
+           Restrict access to the YIR
+           Ensure PSO is notified
+
+
+
+
+Page 12 of 17                   0-2.3 Mandatory Reporting of Abuse        Effective: 10/26/2023
+Attachment B: Mandatory Child Abuse Reporting Checklists
+
+Child Abuse Perpetrator = Youth who was in an OYA facility at the time of the
+abuse
+
+   Make a verbal report to Oregon State Police (OSP) including this information:
+       Name, age, address of the victim (if known)
+       Names of parents or caretakers (if known)
+       Nature and extent of abuse, including reported injuries
+       Explanation given for abuse (if any)
+       Any other information
+   Make follow-up verbal notifications:
+       Your immediate supervisor if the abuse occurred during OYA commitment.
+       PREA Coordinator and local Sexual Abuse Response and Resource Coordinator
+       SARRC if sexual abuse and occurred during OYA commitment.
+   Document the verbal report in a YIR
+       Information-only YIR - if the incident occurred while the youth was not in OYA
+       custody. These typically are historical incidents staff become aware of through
+       the youth's treatment.
+       Facility YIR - if the incident occurred while the youth was living in an OYA facility.
+       Field YIR - if the incident occurred while the youth was on OYA community
+       supervision.
+
+
+
+
+Page 13 of 17                  0-2.3 Mandatory Reporting of Abuse         Effective: 10/26/2023
+Attachment B: Mandatory Child Abuse Reporting Checklists
+
+Child Abuse Victim = Youth who was NOT in an OYA facility at the time of the
+abuse
+
+   Ensure youth is safe, if still in OYA custody
+   Make a verbal report - to whom depends on variables below
+       Oregon State Police (OSP) - if alleged perpetrator is an OYA staff, volunteer, or
+       contractor
+       Local law enforcement - if the incident requires emergency community response
+       (law enforcement, ambulance, fire)
+       DHS-CPS (Child Protective Service) – Oregon’s abuse reporting hotline:
+       855-503-SAFE (7233)
+   The verbal report must contain this information -
+       Name, age, address of the victim
+       Names of parents or caretakers (if known)
+       Nature and extent of abuse, including noticeable or reported injuries
+       Explanation given for abuse (if any)
+       Any other information that helps establish the cause of the abuse and the identity
+       of the alleged perpetrator (where and when the incident occurred)
+   Make follow-up verbal notifications:
+       Your immediate supervisor if the abuse occurred during OYA commitment.
+       Professional Standards Office (PSO) if alleged perpetrator is an OYA staff,
+       volunteer, or contractor.
+       PREA Coordinator and local Sexual Abuse Response and Resource Coordinator
+       (SARRC) if sexual abuse and occurred during OYA commitment.
+   Document the verbal report in a YIR
+       Information-only YIR - if the incident occurred while the youth was not in OYA
+       custody. These typically are historical incidents staff become aware of through
+       the youth's treatment.
+       Facility YIR - if the incident occurred while the youth was living in an OYA facility.
+       Field YIR - if the incident occurred while the youth was on OYA community
+       supervision.
+   Is staff the alleged perpetrator?
+       No = no additional precautions
+       Yes = do the following
+           Omit the name of the alleged perpetrator in the YIR
+           Restrict access to the YIR
+           Ensure PSO is notified
+
+
+
+
+Page 14 of 17                  0-2.3 Mandatory Reporting of Abuse         Effective: 10/26/2023
+Attachment B: Mandatory Child Abuse Reporting Checklists
+
+Child Abuse Perpetrator = Youth who was NOT in an OYA facility at the time of
+the abuse
+
+   Make a verbal report to -
+       Local law enforcement - if the incident requires emergency community response
+       (law enforcement, ambulance, fire)
+      DHS-CPS (Child Protective Services) – Oregon’s abuse reporting hotline:
+      855-503-SAFE (7233)
+   The verbal report must contain this information -
+       Name, age, address of the victim (if known)
+       Names of parents or caretakers (if known)
+       Nature and extent of abuse, including noticeable or reported injuries
+       Explanation given for abuse (if any)
+       Any other information that helps establish the cause of the abuse and the identity
+       of the alleged perpetrator (where and when the incident occurred)
+   Make follow-up verbal notifications:
+       Your immediate supervisor if the abuse occurred during OYA commitment.
+       PREA Coordinator and local Sexual Abuse Response and Resource Coordinator
+       (SARRC) if sexual abuse and occurred during OYA commitment.
+   Document the verbal report in a YIR
+       Information-only YIR - if the incident occurred while the youth was not in OYA
+       custody. These typically are historical incidents staff become aware of through
+       the youth's treatment.
+       Facility YIR - if the incident occurred while the youth was living in an OYA facility.
+       Field YIR - if the incident occurred while the youth was on OYA community
+       supervision.
+
+
+
+
+Page 15 of 17                  0-2.3 Mandatory Reporting of Abuse         Effective: 10/26/2023
+Attachment B: Mandatory Child Abuse Reporting Checklists
+
+Child abuse incident does not involve youth in OYA custody nor OYA staff,
+volunteers, contractors
+
+   Make a verbal report to DHS-CPS (Child Protective Services) including this
+   information -
+   Oregon’s abuse reporting hotline: (855) 503-SAFE (7233)
+       Name, age, address of the victim (if known)
+       Names of parents or caretakers (if known)
+       Nature and extent of abuse, including reported injuries
+       Explanation given for abuse (if any)
+       Any other information
+   Follow-up verbal notifications?
+       None necessary
+   Document the verbal report?
+       None necessary
+
+
+
+
+Page 16 of 17                  0-2.3 Mandatory Reporting of Abuse    Effective: 10/26/2023
+Attachment B: Mandatory Child Abuse Reporting Checklists
+
+Child Abuse Perpetrator = OYA staff, volunteer, contractor
+Victim = Not in OYA physical or legal custody
+
+   Make a verbal report to Oregon State Police (OSP)
+   The verbal report must contain this information -
+       Name, age, address of the victim (if known)
+       Names of parents or caretakers (if known)
+       Nature and extent of abuse, including noticeable or reported injuries
+       Explanation given for abuse (if any)
+       Any other information that helps establish the cause of the abuse and the identity
+       of the alleged perpetrator (where and when the incident occurred)
+   Make a follow-up verbal notification to PSO
+
+
+
+
+Page 17 of 17                 0-2.3 Mandatory Reporting of Abuse       Effective: 10/26/2023
+

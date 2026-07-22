@@ -165,6 +165,13 @@ agencies:
     Search Warrant Procedures, Enforcement Guidance for Field Staff, water/air/land-quality directives.
     Strong match for "internal policy" definition.'
   confidence: high
+  investigated_2026_07_21: 'Confirmed real: a 73-item SharePoint LIST at /deq/Get-Involved/Lists/Internal
+    Management Directives (page is JS-rendered; list found via the anonymous _api/web/lists
+    enumeration endpoint). But each item''s "Directive" field links into an external
+    records-management viewer (ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx) —
+    publicly reachable (200 OK, no auth) but not a direct PDF, so it needs its own
+    text-extraction approach distinct from the PDF-manifest ingest_policies.py pattern. Deferred,
+    not ingested.'
 - slug: department-of-fish-and-wildlife
   name: Department of Fish and Wildlife
   status: candidate_found
@@ -433,12 +440,15 @@ agencies:
     surfaced.
 - slug: oregon-military-department
   name: Oregon Military Department
-  status: candidate_found
+  status: ingested
   url: https://www.oregon.gov/omd/employeeresources/pages/policies.aspx
   appears_to_be: '"Policies" page under Employee Resources — HR-style policy listing (COVID-19 guidance,
     temporary interruption of employment, Code of Ethics, conflict of interest, occupational health &
     safety) issued by The Adjutant General for OMD employees.'
   confidence: high
+  ingested_2026_07_21: 'Mostly re-links DAS statewide policies + bare forms, not OMD''s own body.
+    4 genuinely OMD-authored "AGP-" numbered policies ingested; 2 more (AGP-99.100.18,
+    AGP-99.100.20) are image-only PDFs pending OCR/human review.'
 - slug: oregon-patient-safety-commission
   name: Oregon Patient Safety Commission
   status: rules_only
@@ -514,12 +524,14 @@ agencies:
     (Rulemaking page found there); no internal-policy listing surfaced.
 - slug: oregon-watershed-enhancement-board
   name: Oregon Watershed Enhancement Board
-  status: candidate_found
+  status: ingested
   url: https://www.oregon.gov/oweb/resources/pages/statutes-policies.aspx
   appears_to_be: '"Statutes & Policies" page naming specific board policies: Customer Service Standards
     Policy, Environmental Cleanup Sites Policy & Guidance, Mitigation Policy Guidance, and State-Tribal
     Relations Policy.'
   confidence: high
+  ingested_2026_07_21: 'Only 3 of the page''s 4 PDF links are real policies (one is a parking-lot
+    map); no "Environmental Cleanup Sites" PDF was actually present. All 3 ingested.'
 - slug: oregon-wine-board
   name: Oregon Wine Board
   status: not_found
@@ -528,13 +540,14 @@ agencies:
     no internal-policy listing surfaced.
 - slug: oregon-youth-authority
   name: Oregon Youth Authority
-  status: candidate_found
+  status: ingested
   url: http://www.oregon.gov/oya/pages/policies/policy_list.aspx
   appears_to_be: '"Policies" listing under About OYA — large, numbered policy series (e.g. III-B-4.0 Youth
     Rights and Grievances, III-D-2.1 Youth Transports and Escorts, III-D-2.3 Staff and Youth Safety) each
     as individual PDFs. Comparable in structure to the already-ingested DOC policy listing.'
   confidence: high
   notes: URL 301-redirects to /oya/aboutoya/Pages/Policies.aspx (verified live).
+  ingested_2026_07_21: 156 of 157 discovered PDF links ingested (one duplicate).
 - slug: parks-and-recreation-department
   name: Parks and Recreation Department
   status: rules_only
@@ -549,12 +562,14 @@ agencies:
     surfaced.
 - slug: public-utility-commission
   name: Public Utility Commission
-  status: candidate_found
+  status: ingested
   url: https://www.oregon.gov/puc/forms/Forms%20and%20Reports/Internal-Operating-Guidelines.pdf
   appears_to_be: '"Internal Operating Guidelines" (Order No., Appendix A, ~30pp) — explains how PUC decisions
     are made and outlines Commission responsibilities and procedures for contested cases, rulemaking,
     public meetings, intervention.'
   confidence: high
+  ingested_2026_07_21: 'Ingested as a single document. No adoption date is machine-readable
+    (the "ORDER NO." field is a stamp/image on every page).'
 - slug: real-estate-agency
   name: Real Estate Agency
   status: rules_only

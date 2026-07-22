@@ -1,0 +1,392 @@
+---
+id: oya-ii-e-2-5
+title: "Visits with Youth"
+doc_type: policy
+citation: "OYA Policy II-E-2.5"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/II-E-2.5.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "97f47f55008795fcfd25b65019116e4d1786038d64be9274da37a8b316e50d96"
+effective_date: "2026-06-22"
+last_reviewed: null
+source_version: "Effective 06/22/2026"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N II-E-N.N Visits with Youth Effective: N/N/N' x7"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/II-E-2.5.pdf> (retrieved 2026-07-21).
+
+# Visits with Youth (OYA Policy II-E-2.5)
+
+## At a glance
+
+OYA Policy II-E-2.5 — Visits with Youth. Oregon Youth Authority. Effective 06/22/2026.
+
+## Full text
+
+                              OREGON YOUTH AUTHORITY
+                                       Policy Statement
+                            Part II – Youth Services [Facilities]
+
+ Subject:
+ Visits with Youth
+ Section – Policy Number:                      Supersedes:   Effective Date:   Date of Last
+ E: Programming – 2.5                  II-E-2.5 (9/13)  06/22/2026
+                                                                      Review/Revision:
+                                       II-E-2.5 (7/11)                None
+                                       II-E-2.5 (08/05)
+                                       II-E-2.5 (10/03)
+ Related        OAR 416 Division 420 (OYA Facility Access, Tours, and Youth in
+ Standards        Custody Visitation)
+ and            OAR 416 Division 800 (Criminal Records Checks)
+ References:    American Correctional Association, Standards for Juvenile
+                  Correctional Facilities; 5-JCF-3A-20 (Approved Visitors);
+                  5-JCF-3A-21 (Visitation Area)
+                OYA policy: I-A-9.0 Parent/Guardian and Family Involvement in
+                  Youth Reformation
+                  I-E-3.0 OYA External Communications
+                  II-A-1.0 Facility Access
+                  II-F-1.1 Youth Grievance Process - Facility
+                OYA forms: YA 4006 Request to Visit
+                  YA 4007 Facility Access Level 1 Visitors and Guests
+                  YA 4206 Youth Visitation Denial
+ Related        Facility Local Operating Protocol
+ Procedures:    FAC II-E-2.5 Visitor Computerized Criminal Records Checks.
+                FAC II-E-2.5(a) Youth Internet-based Video Calls
+ Policy Owner:                         Approved:
+
+ Facility Services Assistant Director
+                                               ________________________
+                                               Mike Tessean, Director
+
+I.     PURPOSE:
+
+       This policy delineates how staff review a request to visit a youth for approval or
+       denial.
+
+       Information regarding visitor entry into facilities is delineated in OYA policy
+       II-A-1.0 Facility Access. Information regarding media representative visits with
+       youth is delineated in OYA policy I-E-3.0 OYA External Communications.
+
+II.    POLICY DEFINITIONS:
+
+       Computerized Criminal Records Check: A check of criminal youth information
+       conducted through use of the Law Enforcement Data Systems (LEDS), including
+       information from the Federal Bureau of Investigation's (FBI) National Crime
+
+       Information Center (NCIC), and the National Law Enforcement
+       Telecommunications System (NLETS).
+
+       Multidisciplinary Team (MDT): A team of individuals working collaboratively to
+       develop and maintain a comprehensive individualized case plan that is culturally
+       competent and gender-specific for each youth committed to the Oregon Youth
+       Authority (OYA). The MDT is based on a core team membership consisting of the
+       youth, OYA primary case manager, placement representative, QMHP
+       (facility)/treatment provider (community), tribal representative (for youth enrolled
+       in one of one of Oregon’s federally recognized tribes) and the parents/guardians.
+       Additional team members are identified by the core team based on the youth
+       youth’s Risk Needs Assessment, identified criminogenic needs and placement.
+
+III.   POLICY:
+
+       OYA recognizes the positive impact of youth visits with family and community
+       members on youth reformation. OYA encourages visits with family and others
+       who have a positive influence on a youth’s life. Visits also give youth
+       opportunities to maintain prosocial relationships which promote a successful
+       reentry into communities.
+
+       Visits in OYA facilities are permitted when the visit furthers a youth’s case plan
+       and is consistent with the safe, secure and orderly management and operation of
+       the facility.
+
+IV.    GENERAL STANDARDS:
+
+       A.     OYA staff must supervise youth visits in person. Cameras may not be
+              used to replace staff in-person supervision.
+
+       B.     The superintendent/camp director must designate an OYA staff member
+              who is responsible for ensuring accurate visitation schedules are
+              displayed on the facility’s public website, and included in the parent
+              orientation packets with instructions on how to schedule a visit.
+
+       C.     OYA staff must inform visitors of applicable visiting rules, policies, and
+              protocols prior to allowing visitors entry to OYA facilities, including the
+              following:
+
+              1.     Contact with individual youth is limited to those youth the visitor is
+                     authorized to visit, unless specifically authorized by the facility
+                     superintendent/camp director;
+
+              2.     Compliance with OYA policy II-A-1.0 Facility Access regarding
+                     searches of persons and property, prohibited items in facilities,
+                     physical contact with youth, and appropriate dress;
+
+                     Staff must ensure the visitor reads and signs OYA form YA 4007
+                     Facility Access Level 1 Visitors and Guests prior to entering a
+                     facility to visit a youth. The YA 4007 form outlines what items a
+                     visitor may bring into a facility, appropriate dress, and appropriate
+                     youth contact.
+
+              3.     Presentation of valid picture identification for visitors ages 13 and
+                     older;
+              4.     Visitors less than age 18 must be accompanied by a parent or
+                     guardian;
+
+              5.     Compliance with the visiting schedule, including the day, time, and
+                     length of visit allowed, and check-in at the designated reception
+                     area; and
+
+              6.     Limited number of visitors when required by space, supervision or
+                     security.
+
+       D.     Staff may refuse a visitor entry or remove the visitor from the facility if a
+              visitor fails to comply with applicable OYA rules, policy, or local protocols.
+
+       E.     Request to Visit (YA 4006)
+
+              1.     Case coordinators or camp counselors must ensure an OYA form
+                     YA 4006 Request to Visit is completed by or on behalf of each
+                     prospective visitor, regardless of age.
+
+              2.     Staff may obtain information by phone and complete a YA 4006 on
+                     behalf of a prospective visitor in time-sensitive situations. Staff must
+                     read the form contents to the prospective visitor to ensure the
+                     prospective visitor is aware of why they are providing the
+                     information and how it will be used.
+
+              3.     Staff may receive faxed copies of YA 4006s.
+
+              4.     Staff must forward incoming completed YA 4006s to the youth’s
+                     juvenile parole/probation officer (JPPO) or case coordinator/camp
+                     counselor.
+
+       F.     Visitor MDT Review
+
+              1.     According to OAR 416-420-0030, the MDT will consider all
+                     requests to visit and allow or deny visitation on the basis of what
+                     would best benefit the youth, within the interests of facility security
+                     and order.
+
+              2.     Requests to visit will be reviewed, approved, or denied by the
+                     youth’s JPPO (for adjudicated youth) and the youth’s
+                     multidisciplinary team (MDT).
+
+              3.     When conflicts arise in the approval process, the request will be
+                     reviewed by the facility superintendent/camp director and the
+                     JPPO’s field supervisor.
+
+                     If the issue is not resolved, the Facility Services assistant director
+                     will make the final decision.
+
+              4.   According to OAR 416-420-0030, the MDT will consider the
+                   following when making a determination to approve or deny a
+                   Request to Visit:
+
+                   a)    The relationship that exists between the youth and the
+                         visitor;
+
+                   b)    The youth’s case plan;
+
+                   c)    The goals for the visit;
+
+                   d)    Facility security and order;
+
+                   e)    The youth’s wishes;
+
+                   f)    Orders of the court; and
+
+                   g)    Department of Corrections (DOC) recommendations for
+                         youth in the physical custody of OYA and legal custody of
+                         DOC.
+
+              5.   The MDT must limit visitation to those persons who are integral to
+                   the youth’s case plan. Those persons include the following:
+
+                   a)    Family members, including but not limited to parents,
+                         siblings, children of youth, legal guardians, members of
+                         stepfamilies, surrogate parents, or grandparents;
+
+                   b)    Youth’s attorney;
+
+                   c)    Persons involved in treatment planning, including but not
+                         limited to mentors, transition resources, placement options,
+                         or representatives of tribal governments; and
+
+                   d)    Other persons, as approved on a case-by-case basis by the
+                         youth’s JPPO, MDT, and the facility superintendent/camp
+                         director.
+
+              6.   The MDT may deny a person’s request to visit for the following
+                   reasons:
+
+                   a)    The person has abused, may abuse, or is alleged to have
+                         abused a youth;
+
+                   b)    The person has encouraged the youth to violate the law or
+                         disobey OYA rules, policies or procedures;
+
+                   c)    The person has violated OYA rules, policies or procedures;
+
+                   d)    There is reasonable cause to believe the person intends to
+                         aid a youth in escaping;
+
+                     e)     The person has interfered with the order, security or
+                            operations of the facility and there is reasonable cause to
+                            believe the person will do so again;
+
+                     f)     The requested time for the person’s visit interferes with daily
+                            programming;
+
+                     g)     The visit interferes with the youth’s overall reformation;
+
+                     h)     The court, DOC, or community corrections has ordered that
+                            the person not visit;
+
+                     i)     The youth or the youth's parent or legal guardian has
+                            requested that the person not visit;
+
+                     j)     The person is a former OYA staff, volunteer, or contractor
+                            who engaged in an inappropriate relationship with a youth;
+
+                     k)     The person has an active warrant for arrest; or
+
+                     l)     The person is on supervision in the community by any
+                            supervising authority.
+
+                            The request will be reviewed by the youth’s JPPO, MDT and
+                            the facility superintendent/camp director prior to approval or
+                            denial. The person’s supervising authority must also approve
+                            or deny the visit.
+
+              7.     If the request to visit is denied, the MDT must follow section G
+                     below.
+
+              8.     If the request to visit is approved, the MDT must ensure a
+                     computerized criminal records check, JJIS check, or both are
+                     completed as required in sections H and I below.
+
+       G.     Visitation Denial
+
+              1.     Immediate family member denials
+
+                     a)     If the requestor is an immediate family member, the
+                            proposed denial must be reviewed by the
+                            superintendent/camp director and field supervisor for
+                            approval or denial.
+
+                     b)     If the facility superintendent/camp director and field
+                            supervisor affirm the visitation denial, the denial must be
+                            forwarded to the Facility Services assistant director.
+
+                     c)     The Facility Services assistant director may approve or deny
+                            the visitor based on their review.
+
+              2.    All denials
+
+                    When any request to visit is denied, facility staff must notify the
+                    requestor and the youth in writing via OYA form YA 4206 (Youth
+                    Visitation Denial).
+
+                    a)      The written denial must inform the youth that the youth may
+                            appeal the decision by following the youth grievance process
+                            outlined in OAR 416-020 Youth Grievance Process and OYA
+                            policy II-F-1.1 Youth Grievance Process - Facility.
+
+                    b)      The written denial must inform the requestor that the
+                            requestor may appeal the decision by writing to the facility
+                            superintendent/camp director within 30 days of receiving the
+                            YA 4206.
+
+                            The superintendent/camp director must respond to the
+                            requestor’s appeal within five working days of receipt.
+
+       H.     Computerized Criminal Records Checks
+
+              1.    LEDS-certified staff must complete computerized criminal records
+                    checks on prospective visitors ages 15 and older.
+
+              2.    LEDS-certified staff will use the information provided on the
+                    YA 4006 to complete a computerized criminal records check.
+
+              3.    LEDS-certified staff may complete a computerized criminal records
+                    check without the prospective visitor’s signature. A signature is
+                    preferred whenever possible.
+
+              4.    Designated managers who have proper clearance must use
+                    information obtained through a computerized criminal records
+                    check to assist in assessing supervision during the visit, safety, and
+                    security of the facility.
+
+                    A visitor may be denied entry to a facility if adequate supervision
+                    cannot be provided during the visit to mitigate safety and security
+                    risks based on the visitor's criminal record.
+
+                    See facilitywide procedure FAC II-E-2.5 Visitor Computerized
+                    Criminal Records Checks.
+
+              5.    The case coordinator or camp counselor must notify the JPPO if a
+                    youth's visitor is denied entry into a facility.
+
+       I.     JJIS Checks
+
+              A youth’s JPPO or case coordinator must complete a JJIS check on the
+              youth’s prospective visitors who are ages 12 to 24. Information obtained
+              through JJIS will be reviewed by the youth’s MDT to assist in assessing
+              supervision during the visits, safety, and security of the facility.
+
+       J.     JJIS Documentation
+
+              Staff must document approval or denial of each visitor by entering the
+              visitor’s name in the youth’s JJIS “persons” tab.
+
+              Staff must also add the “contact condition” visiting status. Options are
+              “approved,” “not approved,” and “approved with conditions.”
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: YES
+       A.     Each facility must have a local operating protocol to address the following
+              topics:
+
+              1.     Who a visitor must contact to schedule a visit;
+
+              2.     Whether the facility visiting schedule is open to all approved visitors
+                     or by appointment only;
+
+              3.     How staff will process visitor purchases and food consumption
+                     (e.g., vending machine, canteen, cash only);
+
+              4.     Visitor and youth restroom use during visits (e.g., separate
+                     restrooms for visitors and youth; searches);
+
+              5.     Any special process for supervising child visitors (e.g., children’s
+                     play area);
+
+              6.     Limited number of visitors or visit sessions a youth may have due to
+                     physical plant layout or staffing patterns; and
+
+              7.     Visitor and youth photographs (if available).
+
+       B.     The local protocols must be reviewed by the Facility Services assistant
+              director, or designee, prior to implementation.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/II-E-2.5.pdf> · retrieved 2026-07-21 · sha256 `97f47f55008795fcfd25b65019116e4d1786038d64be9274da37a8b316e50d96`
+- Snapshot: `_meta/snapshots/oya-ii-e-2-5.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

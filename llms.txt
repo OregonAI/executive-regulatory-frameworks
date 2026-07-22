@@ -56,3 +56,19 @@
 ## Oregon Health Authority — Policies
 
 - [Index](agencies/oregon-health-authority/policies/_index.md): 189 documents.
+
+## Oregon Military Department — Policies
+
+- [Index](agencies/oregon-military-department/policies/_index.md): 4 documents.
+
+## Oregon Watershed Enhancement Board — Policies
+
+- [Index](agencies/oregon-watershed-enhancement-board/policies/_index.md): 3 documents.
+
+## Oregon Youth Authority — Policies
+
+- [Index](agencies/oregon-youth-authority/policies/_index.md): 156 documents.
+
+## Public Utility Commission — Policies
+
+- [Index](agencies/public-utility-commission/policies/_index.md): 1 documents.

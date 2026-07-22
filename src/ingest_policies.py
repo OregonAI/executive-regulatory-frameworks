@@ -21,6 +21,7 @@ Adding agency #3: add a POLICY_PROFILES entry (listing url + link/header regexes
 format) and, if its PDFs have running furniture, an AGENCY_FURNITURE entry in ingest_lib.
 """
 import argparse
+import html
 import json
 import re
 import subprocess
@@ -85,6 +86,14 @@ def _sp_pdf_rows(web: str, list_url: str) -> list[dict]:
     with urllib.request.urlopen(req, timeout=90) as resp:
         rows = json.loads(resp.read()).get("Row", [])
     return [r for r in rows if str(r.get("FileLeafRef", "")).lower().endswith(".pdf")]
+
+
+def _omd_header(raw_txt: str):
+    """(division, title) from an OMD 'AGP-' policy header: 'ADJUTANT GENERAL PERSONNNEL'
+    banner line + a 'SUBJECT: ...' line."""
+    m = re.search(r"SUBJECT:\s*(.+)", raw_txt)
+    title = re.sub(r"\s+", " ", m.group(1)).strip() if m else ""
+    return "Adjutant General Personnel (Oregon Military Department)", title
 
 
 # ---- per-agency profiles ----
@@ -177,6 +186,79 @@ POLICY_PROFILES = {
         "authority_level": "state_policy",
         "tags": ["oregon-health-authority", "institutional-review-board", "policy"],
     },
+    # Oregon Youth Authority: a static listing whose OWN link text is "NUM  TITLE" for every
+    # policy PDF (e.g. "0-2.0    Principles of Conduct"), so discovery needs no PDF header
+    # parsing at all (discovery: 'link-list', identity: 'path'). effective_date comes from the
+    # per-page footer ("Effective: MM/DD/YYYY"); OYA's "Supersedes:" table lists prior
+    # effective dates of the SAME policy number (a revision history), not a distinct
+    # predecessor policy the way DOC's does — left null rather than mis-mapped.
+    "oregon-youth-authority": {
+        "agency": "oregon-youth-authority",
+        "discovery": "link-list",
+        "identity": "path",
+        "listing_url": "https://www.oregon.gov/oya/pages/policies/policy_list.aspx",
+        "site_root": "https://www.oregon.gov",
+        "link_re": re.compile(r'<a href="(/oya/policies/[^"]+\.pdf)">([^<]+)</a>'),
+        "label_re": re.compile(r"^([A-Za-z0-9]+(?:-[A-Za-z0-9]+)*\.\d+[A-Za-z]?)\s+(.+)$"),
+        "effective_re": re.compile(r"Effective:\s*([\d/]+)"),
+        "citation": lambda num: f"OYA Policy {num}",
+        "id": lambda num: "oya-" + num.lower().replace(".", "-"),
+        "issuing_default": "Oregon Youth Authority",
+        "authority_level": "state_policy",
+        "tags": ["oregon-youth-authority", "policy"],
+    },
+    # Oregon Military Department: its "Employee Resources > Policies" page mostly re-links
+    # DAS statewide HR policies (header 'STATEWIDE POLICY') and bare forms/attachments — NOT
+    # OMD's own body. Its genuinely agency-authored documents carry a distinct header
+    # ('OREGON MILITARY DEPARTMENT ... NUMBER: AGP-XX.XXX.XX ... SUBJECT: ...', 'AGP' =
+    # Adjutant General Personnel). Manifest hand-built from a header-by-header classification
+    # of every /omd/ PDF on the page (2026-07-21): 4 have real AGP-numbered text; 2 more
+    # (AGP-99.100.18, AGP-99.100.20) are AGP policies but image-only PDFs with no text layer
+    # (HC-1: never OCR — left out, needs future human review), the rest are DAS-owned or forms.
+    "oregon-military-department": {
+        "agency": "oregon-military-department",
+        "num_re": re.compile(r"NUMBER:\s*(AGP-[\d.]+)", re.I),
+        "effective_re": re.compile(r"EFFECTIVE DATE:\s*([A-Za-z]+\.?\s+\d{1,2},?\s*\d{4}|[\d/]+)", re.I),
+        "header_parser": _omd_header,
+        "citation": lambda num: f"OMD Policy {num}",
+        "id": lambda num: "omd-" + num.lower().replace(".", "-"),
+        "issuing_default": "Oregon Military Department",
+        "authority_level": "state_policy",
+        "tags": ["oregon-military-department", "policy"],
+    },
+    # Oregon Watershed Enhancement Board: a tiny "Statutes & Policies" page — only 3 real
+    # named policies (a parking-map PDF on the same page is excluded), no numbering scheme,
+    # each with its own header layout. identity: 'path' (manifest hand-built); title comes
+    # from the manifest notes. Two of the three carry only a blank 'Effective:'/'Approved By:'
+    # label with no machine-readable date next to it (the actual date appears to be an image
+    # signature-stamp, not text) — effective_re intentionally only matches the one doc that
+    # has a real transcribable date; the other two get a null effective_date rather than a
+    # guess from the filename.
+    "oregon-watershed-enhancement-board": {
+        "agency": "oregon-watershed-enhancement-board",
+        "identity": "path",
+        "effective_re": re.compile(r"EFFECTIVE DATE:\s*([A-Za-z]+\.?\s+\d{1,2},?\s+\d{4})", re.I),
+        "citation": lambda num: "OWEB Policy",  # no numbering scheme; num is only an id key
+        "id": lambda num: "oweb-" + re.sub(r"[^a-z0-9]+", "-", num.lower()).strip("-"),
+        "issuing_default": "Oregon Watershed Enhancement Board",
+        "authority_level": "state_policy",
+        "tags": ["oregon-watershed-enhancement-board", "policy"],
+    },
+    # Public Utility Commission: a single 30-page governance document (how the Commission
+    # runs open meetings, rulemakings, and contested cases), not a numbered series — one
+    # manifest entry, identity: 'path'. Its "ORDER NO." field is a per-page stamp/image with
+    # no extractable text value and no adoption date appears anywhere in the extracted text,
+    # so effective_date is intentionally left unset (no effective_re) rather than guessed.
+    "public-utility-commission": {
+        "agency": "public-utility-commission",
+        "identity": "path",
+        "effective_re": re.compile(r"(?!x)x"),  # no machine-readable date in this document
+        "citation": lambda num: "PUC Internal Operating Guidelines",
+        "id": lambda num: "puc-" + num,
+        "issuing_default": "Public Utility Commission of Oregon",
+        "authority_level": "state_policy",
+        "tags": ["public-utility-commission", "policy", "governance"],
+    },
 }
 
 
@@ -242,9 +324,35 @@ def _discover_sharepoint(prof: dict) -> tuple[list, str]:
                      "queried via RenderListDataAsStream. Freshness: re-query and diff the file set; re-hash members.")
 
 
+def _discover_link_list(prof: dict) -> tuple[list, str]:
+    """Static listing where the anchor text itself is 'NUM  TITLE' (e.g. OYA's
+    '<a href=".../0-2.0.pdf">0-2.0    Principles of Conduct</a>') — identity: 'path'; num/title
+    come straight from the link, so ingest_one only opens the PDF for the body + effective
+    date, no header parsing needed. prof['link_re'] must capture (href, label)."""
+    html_text = fetch(prof["listing_url"]).decode("utf-8", errors="replace")
+    seen, sources = set(), []
+    for href, label in prof["link_re"].findall(html_text):
+        label = html.unescape(label).replace("\xa0", " ").replace("​", "")
+        m = prof["label_re"].match(label.strip())
+        if not m:
+            continue
+        num, title = m.group(1).strip(), re.sub(r"\s+", " ", m.group(2)).strip()
+        pid = prof["id"](num)
+        if pid in seen:
+            continue
+        seen.add(pid)
+        sources.append({"id": pid, "url": prof["site_root"] + href, "sha256": "TODO",
+                        "last_checked": TODAY, "notes": f"{num}|{title}"})
+    return sources, (f"Static HTML listing (link text carries 'NUM TITLE') at "
+                     f"{prof['listing_url']}. Freshness: re-fetch and diff the link set.")
+
+
 def discover(group_path: Path, gd: dict, prof: dict):
-    if prof.get("discovery") == "sharepoint":
+    mode = prof.get("discovery")
+    if mode == "sharepoint":
         sources, signal = _discover_sharepoint(prof)
+    elif mode == "link-list":
+        sources, signal = _discover_link_list(prof)
     else:
         sources, signal = _discover_static_html(prof)
     gd["sources"] = sources
@@ -387,7 +495,7 @@ def ingest_one(prof, src, out_dir) -> dict:
                            "(attachment/form); dropped from manifest"}
         num = mnum.group(1)
         doc_id = prof["id"](num)
-        division, title = doc_header_title(raw_txt)
+        division, title = prof.get("header_parser", doc_header_title)(raw_txt)
         if not title:
             title = src.get("notes", doc_id)
     me = prof["effective_re"].search(raw_txt)
@@ -401,8 +509,12 @@ def ingest_one(prof, src, out_dir) -> dict:
     sha = content_hash(raw, "pdf")
     _id, text = doc_markdown(prof, num, title, division, url, sha, effective, supersedes, raw_txt)
     (out_dir / f"{doc_id}.md").write_text(text, encoding="utf-8")
+    # path-identity manifests are keyed by 'num|title' (read back on any future re-ingest, e.g.
+    # --only); preserve that shape rather than a free-text "title (citation)" summary, or a
+    # second run would parse the summary itself as num/title and mis-derive doc_id.
+    notes = f"{num}|{title}" if path_identity else f"{title} ({prof['citation'](num)})"
     return {"status": "ok", "id": doc_id, "sha": sha, "url": url,
-            "notes": f"{title} ({prof['citation'](num)})", "msg": f"OK {doc_id} ({prof['citation'](num)})"}
+            "notes": notes, "msg": f"OK {doc_id} ({prof['citation'](num)})"}
 
 
 def main():

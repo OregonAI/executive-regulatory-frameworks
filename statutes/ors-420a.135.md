@@ -26,7 +26,10 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by: []
+  implemented_by:
+    - oya-ii-a-1-0
+    - oya-ii-e-6-0
+    - oya-iii-c-3-1
   references_external: []
   related: []
   supersedes: []

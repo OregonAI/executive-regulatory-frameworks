@@ -1,0 +1,14 @@
+group: public-utility-commission-policies
+title: Public Utility Commission policies
+kind: content-hash
+recheck: monthly
+last_checked: '2026-07-21'
+upstream_signal: 'Single-document manifest: the PUC "Forms and Reports" page (https://www.oregon.gov/puc/forms/)
+  links its Internal Operating Guidelines PDF directly — no numbered series, no listing to diff. Freshness:
+  re-fetch and re-hash the one PDF.'
+sources:
+- id: puc-internal-operating-guidelines
+  url: https://www.oregon.gov/puc/forms/Forms%20and%20Reports/Internal-Operating-Guidelines.pdf
+  sha256: adb4c29edd9360a0ed0ffae54c4ffc43dd6e81e001004f20295d222c7538ecfc
+  last_checked: '2026-07-21'
+  notes: internal-operating-guidelines|Internal Operating Guidelines

@@ -1,0 +1,773 @@
+                             OREGON YOUTH AUTHORITY
+                                        Policy Statement
+                            Part I – Administrative Services
+
+ Subject:
+ Assessment, Multidisciplinary Teams, and Case Planning
+ Section – Policy Number:                 Supersedes:           Effective Date:   Date of Last
+                                                                                  Revision:
+ A: General Administration: 11.0          II-E-1.8 (12/04)      07/30/2012
+                                                                                  10/02/2019
+                                                                                  (deleted references
+                                                                                  to ARB)
+                                                                                  Review:
+                                                                                  10/02/2023
+ Related             ORS 419C.486 (Consideration of recommendations of committing court;
+ Standards             case planning)
+ and                 ORS 420A.125 (Youth offender; intake assessments; reformation plan;
+ References:           placement)
+                     ORS 182.515–182.525 (Evidence-based programs)
+                     Performance-based Standards (PbS), Juvenile Correction and Detention
+                       Facilities; Programming
+                     American Correctional Association; Standards for Juvenile Correctional
+                      Facilities; 4-JCF-5C-03 (Assessments); 4-JCF-5C-04 (Social Services
+                      Staffing); 4-JCF-5C-05 (Case Planning); 4-JCF-5C-06 (Treatment
+                      Team); 4-JCF-5C-07 (Individual Contacts)
+                     American Correctional Association; Standards for Juvenile Probation
+                      and Aftercare Services; 2-7134, 35, 37, 38 (Supervision)
+                     OYA Multidisciplinary Team Standards
+                     OYA Case Documentation Standards
+                     OYA Risk/Needs Assessment Resource Manual
+                     Attachment A: OYA Youth Assessment, MDT, and Case Planning
+                      Timeline
+                     OYA policy: II-D-2.2 (Suicide Prevention in OYA Close-custody
+                      Facilities)
+                      II-D-1.0 (Facility Health Services)
+                      II-E-3.0 (Intake Review Committee; Parole Review Committee)
+                      II-E-6.0 (Substance Use Assessment and Treatment in Facilities)
+                      II-E-5.0 (Youth Assessment for Risk of Sexually Reoffending - Facility)
+                      III-B-2.0 (New Commitments to OYA Legal Custody)
+                      III-C-3.0 (Youth Assessment for Risk of Sexually Reoffending -
+                      Community)
+                      III-C-3.1 (Substance Use Disorder Screening, Assessment, and
+                      Treatment in Community Settings)
+                     OYA forms: YA 3001 (Juvenile Parole Agreement)
+                      YA 3002-J (Case Plan Report – MDT Field)
+                      YA 3003-J (Transition Case Plan)
+                      YA 3004-J (Referral Case Plan)
+                      YA 3005-J (Case Plan History)
+                      YA 3006-J (Short-Term Goal History)
+                      YA 3007-J (Short Term Goal List)
+                      YA 3008-J (Court Report – Full Report)
+                      YA 3009-J (Court Report)
+
+Page 1 of 15   I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+                       YA 3010-J (Report to Court – Plan Progress)
+                       YA 3013-J (Case Plan Summary)
+                       YA 4097-J (Case Plan Report - MDT Facility)
+                                   YA 4101-J (Case Plan Report MDT Facility – DOC Youth)
+                                   YA 4102-J (DOC Quarterly Review Report)
+                                   YA 4104-J (DOC Transfer or Release)
+                                   YA 4408 (Initial Health Screening)
+                                   YA 4409 (Initial Mental Status Assessment)
+                                   OYA Risk/Needs Assessment
+                                   YA 1814 (MDT Team Process Guide)
+                                   YA 1815 (MDT Observation Form)
+                                   YA 1816 (Family Communication Questionnaire [Facility])
+ Related             FAC I-A-11.0 Family Communication Questionnaire (Facility)
+ Procedures:
+
+ Policy Owner:                            Approved:
+
+ Development Services Assistant
+ Director                                 ________________________
+                                          Fariborz Pakseresht, Director
+
+I.     PURPOSE:
+
+       This policy provides OYA staff standards to assess a youth’s risks and needs for
+       individual case plan development. Guidelines for case planning, MDT meetings,
+       and quality assurance are also addressed.
+
+II.    POLICY DEFINITIONS:
+
+       Case Plan: A case plan is a formal plan with prescribed interventions and
+       documentation requirements and is a tool to assist staff in managing cases,
+       setting goals and reviewing youth’ interventions and progress. A case plan
+       constitutes and fulfills the requirements of the Reformation Plan as defined in
+       ORS 420A.005, 420A.125 and 420A.010 and is created and maintained in the
+       statewide Juvenile Justice Information System (JJIS).
+
+       Intake Review Committee (IRC): An agency committee that reviews all youth
+       who are admitted for intake into a youth correction facility (excluding Oak Creek
+       YCF) from the community to determine the youth’s initial facility placement. The
+       committee voting members are the Facility Services chief of operations and the
+       Community Services chief of parole/probation operations.
+
+       Juvenile Justice Information System (JJIS): The Juvenile Justice Information
+       System (JJIS) is a statewide-integrated electronic information system designed,
+       developed, and implemented to support a continuum of services and shared
+       responsibility among all members of the juvenile justice community. In a
+       collaborative partnership between the Oregon Youth Authority (OYA) and
+       Oregon's county juvenile departments, JJIS is administered by the State of
+       Oregon through OYA.
+
+       Multidisciplinary Team (MDT): A team of individuals who work collaboratively to
+       develop and maintain a comprehensive individualized case plan that is culturally
+
+Page 2 of 15   I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+       competent and gender-appropriate for each youth committed to the Oregon
+       Youth Authority (OYA). The MDT is based on a core team membership
+       consisting of the youth, OYA primary case manager, placement representative,
+       QMHP (facility)/treatment provider (community), tribal representative (for youth
+       enrolled in one of Oregon’s federally recognized tribes) and the
+       parents/guardians. Additional team members are identified by the core team
+       based on the youth’s Risk Needs Assessment, identified criminogenic needs and
+       placement.
+
+       Youth: A person in the legal and physical custody of OYA, either in an OYA
+       facility or placed in the community under supervision; or a person in the legal
+       custody of the Department of Corrections and the physical custody of OYA in an
+       OYA facility.
+
+       OYA Primary Case Manager: OYA Juvenile Parole/Probation Officers (JPPO)
+       are primary case managers for all juvenile commitments. OYA case coordinators
+       are primary case managers for Department of Corrections (DOC) commitments.
+
+       OYA (Risk/Needs Assessment) RNA: A comprehensive assessment
+       instrument that:
+        Identifies static and dynamic areas of risk, need and protective factors in
+           known criminogenic risk areas for youth;
+        Focuses on youth’ needs for change such as antisocial attitudes, antisocial
+           friends, substance abuse, lack of problem-solving skills, impulsive behavior,
+           academic failures;
+        Assists in individualized case planning in identified domains (i.e. offense
+           specific, family, mental health, substance use, education, vocation, life/social
+           skills, and medical);
+        Assists in determination of service, program, placement, and transition needs
+           for all OYA youth;
+        Assists in determining which competencies are needed to reduce risk; and
+        Assists in demonstrating youth progress through competency ratings and
+           achieving positive youth outcomes.
+
+       Placement Representative: If a youth is placed outside of their home, a
+       representative from such placement will attend MDT meetings. Depending on
+       where the youth is placed, these representatives are generally close-custody
+       facility living unit managers (or designees), camp directors (or designees),
+       residential treatment providers and counselors, foster parents, or foster care
+       certifiers.
+
+III.   POLICY:
+
+       OYA’s fundamental goal is to protect the public by ensuring youth accountability,
+       promoting change, developing and improving skills, and reducing the likelihood
+       that youth will commit future crimes. The case planning process and case plan
+       are intended to assist in achieving this goal.
+
+       The identification of areas of risk and need is foundational to case plan
+       development. OYA conducts various assessments, including a risk-needs
+
+Page 3 of 15   I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+       assessment, and develops a case plan based on a youth’s criminogenic risks,
+       needs, strengths, and available interventions. All risk-needs assessments are
+       conducted by trained staff using various assessments, including the OYA
+       Risk/Needs Assessment (RNA). Case plans are documented in JJIS.
+       OYA Case Planning Principles:
+          A case plan is developed and implemented for each youth in OYA custody.
+          OYA juvenile parole/probation officers (JPPO) are primary case managers for
+           OYA juvenile court commitments.
+          OYA case coordinators (or designated staff) are primary case managers for
+           Department of Corrections (DOC) commitments in OYA physical custody.
+           OYA JPPOs may assist case coordinators (or designated staff) in case
+           management by advocating for DOC youth, providing community/family/victim
+           continuity support, and possibly transition support.
+          The case planning process is built on assessments. It focuses on the youth’s
+           needs and strengths, and directs gender- and culturally-specific interventions
+           to reduce risk of future criminal conduct.
+          The major criminogenic risk factors a case plan addresses include antisocial
+           attitudes, delinquent associations and isolation from pro-social associations,
+           temperament and behavioral characteristics, low educational or employment
+           achievement, negative family factors, substance abuse, and leisure time
+           activities.
+          Protective factors are identified in the assessments and included in the case
+           plan as the youth’s strengths.
+          A case plan targets specific reformation areas (called “domains”) including
+           offense-specific, family, mental health, substance use, education, vocation,
+           social skills, and medical.
+          Youth focus on developing their skills in each identified domain. These
+           specific skills are identified in the case plan as “competencies."
+          A case plan is developed and monitored by a Multidisciplinary Team (MDT).
+          The MDT is family and youth-focused, allowing the youth opportunities to
+           engage in targeted skill-based interventions designed to help the youth live a
+           productive, crime-free life.
+          Facility staff provide families with Family Communication Questionnaires (YA
+           1816) to ensure families are engaged in youth reformation while youth are in
+           OYA facilities.
+          Case plans are reviewed regularly to monitor the youth’s progress and update
+           goals.
+          Each MDT member provides case planning recommendations to the MDT
+           according to their specific area of expertise. The MDT collaborates to
+           develop, coordinate, and monitor case plans.
+          The MDT regularly reviews and documents a youth's progress toward
+           meeting reformation goals in the case plan as evidenced by the youth’s
+           behavior and in documentation of long-term goals, short-term goals,
+           competencies, and interventions.
+
+
+Page 4 of 15   I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+IV.    GENERAL STANDARDS:
+
+       A.      Multidisciplinary Team and Case Documentation Standards
+
+               Standards for Multidisciplinary Teams (MDT) and case documentation are
+               detailed in the OYA Multidisciplinary Team Standards and OYA Case
+               Documentation Standards. Staff involved in the MDT or case
+               documentation process must follow the standards listed in these
+               documents.
+
+       B.      OYA Risk/Needs Assessment
+
+               The identification of areas of risk and need is the first step in case plan
+               development. Risk and needs assessment is accomplished through a
+               formally-guided interview (of youth, family, and partners) and the use of an
+               instrument that has been scientifically validated to identify areas of risk
+               and needs.
+
+               All OYA youth are assessed for criminogenic areas of risk, protective
+               factors, and resource need with the OYA Risk/ Needs Assessment (RNA).
+               The RNA is completed as specified in this policy and OYA standards for
+               workflow related to case planning.
+
+               OYA staff may refer to the Oregon Youth Authority Risk/Needs
+               Assessment Resource Manual for detailed instructions on administering
+               the RNA. The manual provides specific instructions for each domain item;
+               domain item relationship to re-offending; protective factor research
+               information; and sample interview questions.
+
+               The RNA is designed to identify the youth’s relative risk to re-offend and a
+               wide variety of risk factors/protective factors in a number of domains. The
+               domains include:
+                  Criminal History;
+                  Demographics;
+                  School;
+                  Use of Free Time;
+                  Employment;
+                  Relationships;
+                  Family;
+                  Living Arrangements;
+                  Alcohol and Drug Use;
+                  Mental Health;
+                  Attitudes and Behaviors;
+                  Aggression; and
+                  Skills.
+
+
+
+Page 5 of 15   I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+               1.     Probation commitments
+
+                      a)      The youth's JPPO must complete an RNA within 30 days of
+                              the youth's OYA probation commitment.
+
+                              An RNA completed within 60 days prior to a youth's OYA
+                              commitment may be used as the initial RNA for case
+                              planning purposes but must be professionally reviewed for
+                              accuracy. Any new or inaccurate information must be
+                              updated in a new RNA.
+
+                      b)      Youth placed in residential treatment facilities: OYA staff
+                              must provide a copy of the RNA graph #2 and factoid to
+                              residential treatment providers prior to the Master Service
+                              Plan meeting.
+
+               2.     Interstate Compact youth
+
+                      The youth's JPPO must complete an RNA within 30 days of the
+                      youth's placement in Oregon only if the youth's length of
+                      supervision is scheduled to exceed 90 days.
+
+               3.     OYA facility commitments:
+
+                      a)      Initial RNA: YCF intake staff must complete the RNA for
+                              youth committed directly from a county to close custody, and
+                              for DOC commitments to OYA.
+
+                              (1)     OYA facility intake staff must complete an RNA within
+                                      21 days of a youth's admittance into an OYA facility.
+
+                                      An RNA completed within 60 days prior to a youth's
+                                      OYA initial commitment may be used as the initial
+                                      RNA for case planning purposes but must be
+                                      professionally reviewed for accuracy. Any new or
+                                      inaccurate information must be updated in a new
+                                      RNA.
+
+                              (2)     Intake staff must complete the RNA prior to
+                                      developing the youth's case plan, and before the case
+                                      is reviewed by the Intake Review Committee (except
+                                      Oak Creek YCF).
+
+                      b)      Parole/Probation RNA Reassessment: A JPPO must update
+                              a youth's RNA within seven days of the youth's revocation or
+                              admission to a YCF when the youth is committed to OYA
+                              close custody from OYA probation or parole.
+
+               4.     Staff may reassess a youth with an RNA as needed for case
+                      planning purposes such as when there is a change in placement or
+                      the youth commits additional crimes.
+
+Page 6 of 15   I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+       C.       Additional Assessments
+
+                1.        Assessment in the community
+                          a)    OYA field staff must be aware of and follow their local
+                                protocols regarding mental health and health screening of
+                                newly-committed youth.
+
+                          b)    Special assessments relating to behaviors associated with
+                                adjudicated crimes (e.g., sex youth, fire setter) may be
+                                required by OYA.
+
+                          c)    See OYA policy III-B-2.0 (New Commitments to OYA Legal
+                                Custody) for guidelines in gathering and documenting
+                                information for youth ordered by the court to OYA legal
+                                custody.
+
+                2.        Assessment in OYA facilities
+
+                          In addition to the RNA, intake assessments include the following:
+
+                          a)    Initial Mental Status Assessment;
+
+                                Staff must ensure all youth receive an Initial Mental Status
+                                Assessment (YA 4409) by a health care practitioner within
+                                one hour of presentation for admission to an OYA facility.
+                                Based on the results of the assessment, staff will assign a
+                                Suicide Risk level. The Suicide Risk Level must be recorded
+                                in the JJIS Population Group “OYA *Suicide
+                                Documentation.” (See OYA policy II-D-2.2 Suicide
+                                Prevention in OYA Close-custody Facilities.)
+
+                                See OYA policy II-D-1.0 (Facility Health Services) regarding
+                                mental health assessments for youth returning to an OYA
+                                facility after releasing to the community, and youth
+                                transferring between OYA facilities.
+
+                          b)    If a youth is taking psychotropic medication, a psychiatrist or
+                                psychiatric mental health nurse practitioner must complete a
+               Revised          psychiatric evaluation within 14 days of the youth's initial
+               01/14/13         admittance to an OYA facility;
+
+                          c)    A staff or contracted psychologist, or psychologist resident
+                                must complete a psychological evaluation on each youth
+                                within 30 days of the youth's initial admittance to an OYA
+                                facility from the community;
+
+                          d)    A physical health screening;
+
+                                Staff must ensure all youth receive an Initial Health Screen
+                                (YA 4408) within one hour of admittance to an OYA facility.
+                                This screening may be completed by a health-trained staff
+
+Page 7 of 15    I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+                              (OYA transition camps only) or a qualified health care
+                              professional.
+
+                      e)      Special assessments concerning behaviors associated with
+                              adjudicated or convicted crimes (e.g. sex offense, fire
+                              setter);
+
+                      f)      A comprehensive drug and alcohol abuse evaluation if the
+                              youth’s RNA shows a score of 3 or more in the Alcohol and
+                              Drug domain;
+
+                              Refer to OYA policies II-E-6.0 (Alcohol & Drug Screening,
+                              Assessment, & Treatment in Close Custody Facilities) or
+                              III-C-3.1 (Alcohol & Drug Screening, Assessment, &
+                              Treatment in Community Settings) for specific guidelines.
+
+                      g)      If appropriate, a vocational evaluation; and
+
+                      h)      An educational evaluation provided by the state Department
+                              of Education. The educational evaluation must include
+                              evaluations for special education as required by the
+                              Individuals with Disabilities Education Act.
+
+       D.      Case Plan Development
+
+               1.     The development of the case plan is based on the Risk/Needs
+                      Assessment and the following:
+
+                      a)      Other assessment findings;
+
+                      b)      Input from the core MDT members and a variety of people
+                              including:
+
+                              (1)     The youth;
+
+                              (2)     The youth’s family;
+
+                              (3)     Educators;
+
+                              (4)     Medical/mental health professionals;
+
+                              (5)     Community and facility treatment providers;
+
+                              (6)     Vocational specialists; and
+
+                              (7)     The youth’s primary case manager.
+
+               2.     Staff must ensure a youth's case plan addresses concerns
+                      (described as "problems”) using strengths and focusing on goals
+                      and skill development necessary to enhance public safety. The
+
+
+
+Page 8 of 15   I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+                        case plan may target factors within one or more of the following
+                        domains:
+                         Offense-specific;
+                         Family;
+                         Mental health;
+                         Substance Use;
+                         Education;
+                         Vocation;
+                         Life/Social skills; or
+                         Medical.
+
+                        Staff must activate domains that have the highest criminogenic risk
+                        and need factors. Not every domain will be active for each youth.
+
+                        The mapping between RNA domains and case plan domains is
+                        illustrated below.
+
+               OYA Risk/Needs Assessment Domains                OYA Case Plan Domains
+               Aggression                                       Life/Social Skills
+               Alcohol & Drug (current & history)               Substance Use
+               Attitudes & Behaviors                            Offense-specific
+               Criminal History                                 Offense-specific (Pre-screen only)
+               Demographics                                     None
+               Employment (current & history)                   Vocation
+               Family History                                   Family
+               Living Arrangement (current)                     Family
+               Mental Health (current & history)                Mental Health
+               Relationships                                    Life/Social Skills
+               School (current & history)                       Education
+               Skills                                           Life/Social Skills
+               Use of Free Time (current & history)             Life/Social Skills
+               None                                             Medical
+
+                 3.     The MDT will develop a case plan based on the needs identified in
+                        all assessments.
+
+                        a)      The MDT must follow standards set in the OYA
+                                Multidisciplinary Team Standards document regarding the
+                                role of the MDT and its members in case plan development.
+
+                        b)      Case plans developed during a youth's close-custody intake
+                                placement may be limited in scope, as a comprehensive
+                                case plan will be developed once the youth arrives at his/her
+                                treatment unit.
+                 4.     Case plan timeliness
+
+                        a)      Probation cases: The JPPO must document a youth's case
+                                plan in JJIS within 45 days of the youth’s commitment to
+                                OYA.
+
+Page 9 of 15     I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+                      b)      OYA facility cases:
+
+                              (1)     Direct commitments from county or DOC: Facility
+                                      intake case coordinators must document a youth's
+                                      initial intake case plan in JJIS within 30 days of the
+                                      youth's admission into an OYA facility.
+
+                              (2)     Commitments from probation or parole: The youth's
+                                      JPPO must update the case plan as needed.
+
+               5.     Staff must ensure each case plan contains the following for each
+                      open domain:
+
+                      a)      Problem statement: Behavioral deficit or symptoms
+                              presented by the youth in an assessment are described as
+                              “problems.” Problem statements are written so the targeted
+                              behavior is well-defined. Findings from the assessments are
+                              used when writing the problem statement.
+
+                      b)      Strengths/Assets: youth committed to OYA come with a
+                              variety of personal strengths that can assist them in
+                              achieving identified goals. The protective factors identified
+                              from the RNA and cultural attributes must be considered
+                              when identifying strengths.
+
+                      c)      Long-term Goals: The long-term goal is the desired outcome
+                              of behavior change and skill improvement that should be
+                              achieved over time.
+
+                              JJIS offers a selection of the most commonly used goals for
+                              each case plan domain. If none of the JJIS goals meet a
+                              youth's needs, staff may develop unique goals.
+
+                      d)      Competencies: Competencies are the skills a youth must
+                              develop to reach a long-term goal.
+
+                              JJIS offers a selection of core competencies associated with
+                              specific long-term goals. If none of the JJIS competencies
+                              meet a youth's needs, staff may develop unique
+                              competencies.
+
+                      e)      Short-term Goals: Short-term goals are Short, Measurable,
+                              Attainable, Realistic and Timely (SMART).
+
+                              Short-term goals are small, linear steps designed to help a
+                              youth reach a long-term goal. Short-term goals outline
+                              realistic incremental achievements the youth is expected to
+                              accomplish within 30- and 90-day periods (between MDT
+                              meetings).
+
+
+
+
+Page 10 of 15 I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+                              (1)     Short-term goals are individualized and entered into
+                                      JJIS as free-form text.
+
+                              (2)     The ability of the youth to respond will be considered
+                                      when developing short-term goals.
+
+                              (3)     Short-term goals are not required for youth in
+                                      community residential placements (BRS placements).
+
+                      f)      Interventions: Interventions are services or supports
+                              provided to a youth in order to successfully develop
+                              competencies and achieve long-term goals.
+
+                              (1)     Interventions may be delivered by staff, service
+                                      providers, and others in either a structured format or
+                                      curriculum (program), or a less formal format.
+
+                              (2)     The youth's learning style and other factors that may
+                                      impact the youth's ability to respond will be
+                                      considered when identifying interventions.
+
+               6.     Transition case planning
+
+                      a)      The MDT must establish two transition placement goals
+                              when developing a youth's initial case plan: “Placement at
+                              Termination of Custody” and the “Next Placement.”
+
+                              The primary case manager must update these placement
+                              goals in JJIS as they change.
+
+                      b)      The primary case manager must document in JJIS transition
+                              activities (specialized activities designed to ensure a smooth
+                              transition to the next placement) prior to the youth's
+                              transition to the next placement.
+
+                              (1)     These activities may be documented prior to the
+                                      youth's transfer between OYA facilities.
+
+                              (2)     These activities must be documented when a youth
+                                      returns to the community from either an OYA facility
+                                      or a residential treatment facility.
+
+       E.      Monitoring Goals and Case Plan Progress
+
+               1.     Staff must document a youth’s progress toward meeting case plan
+                      goals by entering progress notes in JJIS.
+
+                      Progress notes include notations related to the youth’s progress
+                      toward meeting short-term goals and competencies, participating in
+                      treatment groups, interventions, and general behavioral
+                      observations.
+
+Page 11 of 15 I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+               2.     OYA facility: The appropriate staff must enter a youth's progress
+                      notes as needed but not less than every other week. The unit
+                      management staff must ensure progress notes are documented.
+
+               3.     Probation and parole: The appropriate staff must enter a youth's
+                      progress notes as needed, and not less than once per month.
+
+       F.      Reviewing Goals and the Case Plan
+
+               OYA staff and the MDT must periodically review individual case plans
+               throughout a youth’s commitment to OYA.
+
+               These reviews must analyze youth progress toward achieving goals over
+               the last 90 days and establish or revise goals for the next 90 days.
+
+               The MDT must conduct these reviews –
+
+               1.     Quarterly;
+
+               2.     Within 45 days of a youth’s transition into the community; and
+
+               3.     Unscheduled, as needed.
+
+               See the OYA Multidisciplinary Team Standards document for general
+               standards concerning goal and case plan reviews.
+
+       G.      Distribution of the Case Plan
+
+               1.     Staff must provide youth and participating parents/guardians a
+                      Case Plan Summary (YA 3013) after each MDT meeting. A full
+                      copy of the case plan may be provided upon request.
+
+               2.     The following OYA JJIS forms have designated signature areas for
+                      OYA staff, youth, and parents/guardians.
+
+                      Staff must ensure the correct forms are signed and distributed as
+                      directed on the forms. The originals must be kept in the youth’s
+                      case file.
+
+                      a)      Case Plan Report MDT - Facility (YA 4097)
+
+                      b)      Case Plan Report MDT - Facility – DOC Youth (YA 4101)
+
+                      c)      Case Plan Report MDT - Field (YA 3002)
+
+                              Residential placements: A signed Master Service Plan
+                              attached to the YA 3002 may substitute a youth’s signature
+                              on the YA 3002.
+
+
+
+
+Page 12 of 15 I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+H.     Quality Assurance
+
+               1.     MDT Team Process Guide (YA 1814)
+
+                      MDT meeting facilitators may use a checklist (form YA 1814) to
+                      help guide them through the MDT process and ensure the team
+                      adheres to the OYA Multidisciplinary Team Standards.
+
+               2.     MDT observation
+
+                      a)      Supervisors must observe their staff members during at least
+                              one MDT meeting each year.
+
+                              (1)     Field supervisors will observe their JPPOs during
+                                      MDT meetings in the community or close-custody
+                                      facilities.
+
+                              (2)     Youth transitional facility MDT meetings: The camp
+                                      director or superintendent will observe their staff.
+
+                              (3)     Youth correctional facility MDT meetings: Program
+                                      directors will observe their staff.
+
+                      b)      Supervisors must complete a YA 1815 (MDT Observation
+                              Form) to help ensure staff adhere to OYA Multidisciplinary
+                              Team Standards.
+
+                              (1)     Supervisors must review their observations with their
+                                      staff and maintain the original YA 1815.
+
+                              (2)     A copy of the YA 1815 must be sent to the OYA
+                                      Quality Assurance Coordinator.
+
+                              (3)     The OYA Quality Assurance Coordinator must create
+                                      periodic statewide summary reports derived from the
+                                      information in the YA 1815s.
+
+                                      Information from the statewide summary reports must
+                                      be shared with field supervisors, facility
+                                      superintendents, camp directors, and facility program
+                                      directors to provide a comprehensive view of how the
+                                      agency is adhering to its OYA Multidisciplinary Team
+                                      Standards.
+
+               3.     Case Plan Audits
+
+                      a)      Field supervisors must complete case plan audits of their
+                              staff's caseloads.
+
+                              (1)     Initial case plans must be audited within 60 days of a
+                                      youth's placement in the community.
+
+
+Page 13 of 15 I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+                              (2)     Transition plans must be audited within 60 days of a
+                                      youth's release into the community from a close-
+                                      custody facility.
+
+                              (3)     The field supervisor must review each youth's case
+                                      within their purview with the assigned JPPO every 90
+                                      days.
+
+                      b)      Facility supervisors (superintendents, camp directors, or
+                              program directors) must complete initial case plan audits of
+                              their staff's caseloads.
+
+                              Initial case plans must be audited within 105 days of a
+                              youth's direct commitment to an OYA facility.
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+
+
+
+Page 14 of 15 I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+                              OYA Youth Assessment, MDT, and Case Planning Timeline
+                 Youth committed to OYA physical or legal custody.
+                 Within 30 days of commitment: Intake Assessment
+                    Collect and review file information.
+                    Facility: Schedule Intake MDT.
+
+
+All Youth
+                    Community: Schedule Initial MDT.
+                    Interview youth, family/guardians, prior supervising agents and others involved (school, providers,
+                    relatives, mentors, etc.).
+                    Complete OYA RNA in JJIS within 21 days for facilities; 30 days for probation cases; 7 days for
+                    parole/probation violator cases.
+                    Complete appropriate additional assessments and record in JJIS (e.g., ERASOR, mental health,
+                    MAYSI II, alcohol and drug).
+                 Within 30 days of commitment: Facility Intake MDT
+                    Establish MDT membership beyond core team.
+                    Present youth and other MDT members with assessment results and information collected.
+                    Complete intake case plan.
+
+
+
+
+Facility Youth
+                    Enter case plan information into JJIS.
+                    Present case plan and MDT recommendations to IRC for treatment placement designation.
+                 Within 30 days of arrival to designated treatment unit (or after any change in facility placement):
+                 Facility Initial MDT
+                    Establish MDT members beyond core team.
+                    Complete comprehensive case plan (short and long-term goals, competencies, interventions) and enter
+                    into JJIS.
+                    Schedule next MDT (quarterly).
+                    If youth not moved to designation within 60 days, reestablish goals through MDT follow-up.
+                 Within 30 days of commitment (or after any change in community placement): Community Initial MDT
+
+
+
+Field Youth
+                    Present youth and other MDT members with assessment results and information collected.
+                    Complete initial case plan (short and long-term goals, competencies, interventions) within 45 days of
+                    commitment.
+                    Enter case plan information into JJIS.
+                    Establish MDT membership beyond core team.
+                 JPPO Contacts (adjudicated youth): At least every 30 days.
+                    Identify progress toward goals.
+                    Document in JJIS contact notes.
+                 90 days after Initial MDT: Quarterly MDT (and subsequently every 90 days)
+                    Core team presence required.
+                    Progress toward short and long-term goals and goal setting for next 90 days.
+                    Review progress toward competencies and determine ratings.
+                    Give youth and parents a copy of short-term goals.
+
+
+All Youth
+                    Give youth and parents a “Case Plan Summary” printed from JJIS.
+                    Facilities only: Have family complete a YA 1816 questionnaire according to procedure FAC I-A-11.0.
+                    Schedule next MDT meeting.
+                 Within 45 days of transition date: Transition MDT
+                    Focus on providing information and bridging goals and competencies between placements.
+                    Identify intervention needs and begin process of establishing resources.
+                    MDT will identify transition short-term goals.
+                    Enter transition information into JJIS.
+                    Facilities only: Schedule Parole Review Committee. Transition plan prepared by case coordinator. Case
+                    coordinator will request unofficial school records from the facility school for transition purposes.
+                    Complete Juvenile Parole/Probation Agreement identifying transition expectations.
+
+
+
+
+                 Page 15 of 15 I-A-11.0 Assessment, Multidisciplinary Teams, and Case Planning Effective: 07/30/2012
+

@@ -1,0 +1,351 @@
+---
+id: oya-iii-b-4-0
+title: "Youth Rights and Grievances in the Community"
+doc_type: policy
+citation: "OYA Policy III-B-4.0"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/III-B-4.0.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "822b6df453343a0b2db247d6151310455669d593e66514101c9d45ffe8b776d9"
+effective_date: "2025-01-15"
+last_reviewed: null
+source_version: "Effective 01/15/2025"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N III-B-N.N Youth Rights and Grievances in th' x6"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - ors-419b.005
+    - ors-419b.050
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/III-B-4.0.pdf> (retrieved 2026-07-21).
+
+# Youth Rights and Grievances in the Community (OYA Policy III-B-4.0)
+
+## At a glance
+
+OYA Policy III-B-4.0 — Youth Rights and Grievances in the Community. Oregon Youth Authority. Effective 01/15/2025.
+
+## Full text
+
+                            OREGON YOUTH AUTHORITY
+                                     Policy Statement
+                       Part III – Youth Services (Community)
+
+ Subject:
+ Youth Rights and Grievances in the Community
+ Section – Policy Number:                 Supersedes:           Effective Date:     Date of Last
+                                                                                    Revision/Review:
+ B: Intake – 4.0                         III-B-4.0 (10/22) 01/15/2025
+                                                                        None
+                                         III-B-4.0 (01/20)
+                                         III-B-4.0 (09/13)
+                                         III-B-4.0 (05/12)
+                                         III-B-4.0 (10/10)
+                                         III-B-4.0 (01/07)
+ Related             ORS 419B.005 through 419B.050 (Reporting of Child Abuse)
+ Standards           OAR Chapter 416, Division 150 (Interviews with Youth)
+ and                 OAR Chapter 416, Division 440 (Youth Mail)
+ References:         OAR Chapter 416, Division 20 (Youth in Custody Grievance
+                      Process)
+                     OYA policy: 0-2.0 Principles of Conduct
+                      0-2.3 Mandatory Reporting of Abuse
+                      I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual
+                      Abuse and Sexual Harassment
+                      I-E-3.0 OYA Media Relations
+                      III-A-2.1 Youth Legal Assistance
+                      III-B-2.0 New Commitments to OYA Legal Custody
+                      III-C-1.3 Behavior Incentives and Reinforcing Behavior
+                      (Community)
+                      III-D-1.1 Juvenile Parole/Probation Agreement
+                     OYA forms: YA 1300 Youth Grievance Filing Form
+                      YA 1300 SP Youth Grievance Filing Form (Spanish)
+                      YA 1300A Youth Grievance Review Form
+                      YA 1300A SP Youth Grievance Review Form (Spanish)
+ Related            None
+ Procedures:
+ Policy Owner:                            Approved:
+
+ Community Services Assistant
+ Director                                 ________________________
+                                          Joseph O’Leary, Director
+
+I.     PURPOSE:
+       This policy delineates youth rights and a youth grievance process while youth are
+       on OYA parole/probation, and staff response to alleged violations of youth rights.
+
+II.    POLICY DEFINITIONS:
+
+       Discrimination: Any act, policy or practice that penalizes or disadvantages
+       youth or subjects them to harassment based on actual or perceived race,
+       ethnicity, religious belief, national origin, gender, physical or mental disability,
+       sexual orientation, gender identity or intersex status.
+
+       Representative: An adult person who is authorized by a youth to receive
+       confidential information from OYA and to act on behalf of the youth with respect
+       to a grievance. A representative includes, but is not limited to, an attorney,
+       relative, friend, or legal guardian, but not another youth.
+
+III.   POLICY:
+
+       OYA has identified diversity, equity and inclusion as an agency priority and
+       initiative, with a goal to build a respectful, diverse, equitable and inclusive
+       environment for youth and staff that is free from harassment, discrimination and
+       bias. Data shows youth of color and LGBTQ+ youth are disproportionately
+       represented in the juvenile justice system. While OYA is only one part of that
+       system, it plays a critical role in addressing the historical and systemic inequities
+       it perpetuates. OYA staff must be aware that youth from historically marginalized
+       communities may have experienced racial trauma and powerlessness in the
+       past. Therefore, it is critical that OYA staff discuss with youth the rights they have
+       while in OYA custody, and the ability to grieve decisions that impact those rights.
+
+       OYA staff must treat youth equally, regardless of race, ethnicity, religious beliefs,
+       national origin, gender, physical or mental disabilities, sexual orientation, gender
+       identity or expression. OYA provides youth with programs and services
+       necessary to promote their personal reformation and development while
+       addressing their criminogenic needs and case plan goals. These services are
+       designed to maintain a youth's physical and psychological well-being and are
+       equally available to all youth.
+
+       OYA recognizes all youth have a right to review any action or decision affecting
+       them and initiate a grievance without fear of reprisal. Youth who believe they
+       have been dealt with unjustly by OYA may file a grievance using the process
+       described below. Limitations on filing grievances are listed in OAR 416-020-
+       0045. Youth are not required to discuss the nature of their grievance with staff;
+       however, staff are encouraged to handle questions and complaints at the lowest
+       level possible.
+
+       Grievances may also be filed on behalf of a youth by the youth’s representative
+       when the youth agrees on the filing. Staff must document a youth's declination of
+       a representative's offer to file a grievance on behalf of the youth. Grievances filed
+       by a youth’s parent or legal guardian involving possible civil rights violations or
+       criminal matters are not conditioned on the youth agreeing to have the grievance
+       filed on the youth's behalf.
+
+IV.    GENERAL STANDARDS:
+
+       A.     OYA must notify youth of their rights including, but not limited to, the
+              following:
+
+              1.       Equal opportunities to participate in all relevant programs, free of
+                       discrimination, abuse and humiliation, following OYA policy 0-2.0
+                       Principles of Conduct.
+
+              2.       To receive sanctions for misconduct without degrading comments
+                       or intentional bodily harm.
+
+                       a)      Sanctions that may adversely affect a youth’s health,
+                               physical or psychological well-being, or deny a youth regular
+                               meals, sufficient sleep or exercise, medical care,
+                               correspondence privileges, religious services, or legal
+                               assistance are expressly prohibited.
+
+                       b)      Calisthenics or other physical demands will not be used as a
+                               sanction. To use such activities as a sanction or punishment
+                               is considered harassment and is prohibited.
+
+                               (1)    Any required physical act such as push-ups, sit-ups,
+                                      running, lifting, or standing are only allowed as part of
+                                      organized, supervised physical education activity.
+
+                               (2)    Housekeeping and maintenance chores may be
+                                      assigned as a sanction.
+
+                       c)      Staff may refer to OYA policy III-C-1.3 Behavior Incentives
+                               and Reinforcing Behavior (Community) for guidance on
+                               permissible behavior incentives and reinforcements.
+
+              3.       To receive complete information about the youth’s own progress in
+                       language the youth understands.
+
+              4.       Opportunity and access for play, recreation and exercise.
+
+              5.       Opportunity and access to education.
+
+              6.       Adequate nutrition, sleep and medical care.
+
+              7.       To have information kept confidential except in areas that allow for
+                       those who need to know certain information as defined by law.
+
+              8.       To receive/send mail in accordance with court orders.
+
+              9.       Reasonable access to religious services and practices. No youth
+                       will be forced to participate.
+
+              10.      To not be exploited or required to make public statement of
+                       gratitude for the agency to the public; or be required to perform at
+                       public gatherings.
+
+              11.      Opportunity to contact the youth’s own attorney, parent, guardian,
+                       and juvenile parole/probation officer.
+
+              12.      To file a grievance if the youth believes a right has been denied or
+                       violated. Youth may also call the OYA Reporting Line (1-800-315-
+                       5440) to report such events.
+
+       B.     Staff must not harass, intimidate, punish, or retaliate against youth for
+              filing a grievance.
+
+       C.     Staff witnessing any form of youth sanctions with intentional bodily harm
+              or denial of rights listed above must follow the process below:
+
+              1.       Immediately ensure the safety of the youth, and notify law
+                       enforcement if appropriate;
+
+              2.       As soon as possible, prepare a Youth Incident Report (YIR) as
+                       described in OYA policy III-A-1.0 (Youth Incident Reports –
+                       Community);
+
+              3.       Contact the appropriate field supervisor regarding the incident; and
+
+              4.       Ensure that medical attention is provided for any injury that
+                       occurred during the incident.
+
+              5.       The field supervisor must immediately contact the Community
+                       Services assistant director and review the related YIR to determine
+                       a response.
+
+       D.     Grievance Limitations
+
+              Grievance limitations are listed in OAR 416-020-0020. Youth may request
+              review of only one matter, action, or incident per grievance form. The
+              same issue may only be grieved more than once if there is another
+              incident and new information is available about the issue. A youth may not
+              submit more than two new grievances in any one week or six in any
+              calendar month (a week is Sunday through Saturday). Exceptions may be
+              made if a youth clearly states in writing the reason for submitting above
+              the number allowed. If the local grievance coordinator determines that
+              these reasons are not clear, concise, or valid, the grievance will be
+              returned as denied. These limitations do not apply to “emergency issues.”
+              The local grievance coordinator determines whether an issue is an
+              emergency or not.
+
+              According to OAR 416-020-0020(2), a youth may not grieve the following:
+
+              1.       Issues for which the youth is entitled to a contested case hearing,
+                       according to ORS Chapter 183;
+
+              2.       Actions or decisions not within the jurisdiction of OYA (e.g., actions
+                       by the court or another agency);
+
+              3.       Incidents or problems to which the youth was not a party;
+
+              4.      Issues for which the youth has initiated court action or filed notice of
+                      intent to file tort claim; or
+
+              5.      The matter of the grievance will be or has already been decided by
+                      a judge.
+
+       E.     Grievance Review Process
+
+              1.      Staff must inform youth of the grievance process during initial
+                      intake.
+
+              2.      Staff must send each youth’s parent/guardian information about the
+                      grievance process during initial intake.
+
+                      This information is contained in document “Youth in the
+                      Community: Top Things for Families to Know.”
+
+              3.      Emergency Grievances
+
+                      If a youth or youth’s representative files a grievance for an
+                      emergency matter where life, health, or safety may be threatened
+                      (e.g., imminent danger, abuse, injury, sexual vulnerability), staff
+                      must immediately notify the appropriate field supervisor or
+                      Community Services assistant director of the matter. The grievance
+                      must be responded to as soon as possible.
+
+                      Staff may also suggest the youth or youth’s representative call the
+                      OYA Reporting Line (1-800-315-5440) regarding the emergency
+                      matter. Staff must remind them that OYA Reporting Line calls are
+                      not responded to during weekends or public holidays.
+
+              4.      Civil Rights Violations or Criminal Matters
+
+                      When a grievance concerns a civil rights violation or criminal matter
+                      (e.g., abuse, harassment, neglect), staff must notify the
+                      Professional Standards Office. If the matter is emergent, staff must
+                      follow the Emergency Grievance process described above.
+
+              5.      Forms Access and Collection
+
+                      a)      Youth Grievance Filing Forms (YA 1300) must be openly
+                              available to all youth and their parents/guardians within a
+                              public area of each field office.
+
+                              The forms must have a self-addressed envelope attached,
+                              addressed to the field office, Attn: Field Supervisor.
+
+                      b)      The Youth Grievance Filing Form must be available on the
+                              OYA website.
+
+                      c)      Staff may accept written grievances that are not written on a
+                              Youth Grievance Filing Form.
+
+              6.       Field supervisors are local grievance coordinators for the offices
+                       within their purview.
+
+                       If a grievance pertains to a residential program, foster care
+                       placement, or proctor care placement, the field supervisor will refer
+                       the grievance to the Community Resources or Foster Care
+                       manager to coordinate a response.
+
+              7.       The field supervisor must contact the youth/youth’s representative
+                       within seven working days of receiving a grievance to review the
+                       matter.
+
+              8.       Staff members who are the subject of a grievance or to whom the
+                       grievance may pose a conflict of interest must not be the reviewer.
+
+              9.       The results of the review must be provided in writing to the
+                       youth/youth’s representative as soon as practicable and include the
+                       steps necessary to initiate a subsequent grievance review if the
+                       youth remains dissatisfied.
+
+              10.      If a youth/youth’s representative submits a second written
+                       grievance review request, the Community Services assistant
+                       director or designee must review and respond within 30 calendar
+                       days of receiving the request.
+
+                       a)      The response must include instructions for filing an appeal to
+                               the OYA director if the youth is dissatisfied with the
+                               resolution.
+
+                       b)      A copy of the decision must be sent to the youth as soon as
+                               practicable following its completion.
+
+              11.      Records
+
+                       a)      The field supervisor must track grievances through an
+                               electronic tracking system (e.g., spreadsheet).
+
+                               The field supervisor must provide the agency grievance
+                               coordinator access to the tracking system upon request.
+
+                       b)      Original grievance forms, responses, and supporting
+                               documentation must be retained for three years by the field
+                               supervisor separately from youth case files.
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/III-B-4.0.pdf> · retrieved 2026-07-21 · sha256 `822b6df453343a0b2db247d6151310455669d593e66514101c9d45ffe8b776d9`
+- Snapshot: `_meta/snapshots/oya-iii-b-4-0.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

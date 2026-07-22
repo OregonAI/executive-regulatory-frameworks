@@ -1,0 +1,429 @@
+---
+id: oya-ii-e-3-0
+title: "Intake Review Committee; Parole Review Committee"
+doc_type: policy
+citation: "OYA Policy II-E-3.0"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/II-E-3.0.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "80ab8f0ecefec3bdfc5549da235ab9512bd5946406d7d2a2c85190f6649922d3"
+effective_date: "2024-10-29"
+last_reviewed: null
+source_version: "Effective 10/29/2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N II-E-N.N Intake Review Committee; Parole Re' x8"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - oar-416-300-0000
+    - oar-416-300-0010
+    - oar-416-300-0015
+    - oar-416-300-0020
+    - oar-416-300-0030
+    - oar-416-300-0040
+    - oar-416-300-0050
+    - oar-416-300-0060
+    - oar-416-300-0080
+    - oar-416-330-0000
+    - oar-416-330-0010
+    - oar-416-330-0020
+    - oar-416-330-0030
+    - oar-416-410-0000
+    - oar-416-410-0010
+    - oar-416-410-0020
+    - oar-416-410-0030
+    - oar-416-410-0050
+    - oar-416-410-0060
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/II-E-3.0.pdf> (retrieved 2026-07-21).
+
+# Intake Review Committee; Parole Review Committee (OYA Policy II-E-3.0)
+
+## At a glance
+
+OYA Policy II-E-3.0 — Intake Review Committee; Parole Review Committee. Oregon Youth Authority. Effective 10/29/2024.
+
+## Full text
+
+                              OREGON YOUTH AUTHORITY
+                                     Policy Statement
+                            Part II – Youth Services (Facilities)
+
+ Subject:
+ Intake Review Committee; Parole Review Committees
+ Section – Policy Number:                   Supersedes:        Effective Date:     Date of Last
+                                                                                   Review/Revision:
+ E: Programming – 3.0                       II-E-3.0 (04/24) 10/29/2024
+                                                                         None
+                                            II-E-3.0 (10/22)
+                                            II-E-3.0 (07/20)
+                                            II-E-3.0 (10/19)
+ Related             ORS Chapter 163 Offenses Against Persons
+ Standards           ORS Chapter 164 Offenses Against Property
+ and                 ORS 420A Oregon Youth Authority; Youth Correction Facilities
+ References:         OAR 416-410-0050 Initial Placement
+                     OAR 416-300 Parole and Revocations
+                     OAR 416-330 Substitute Care Placements
+                     OAR 416-410 Close-custody Population
+                     OYA policies: I-A-11.0 Assessment, Multidisciplinary Teams, and
+                      Case Planning
+                      II-A-1.5 Agency Case Review and DOC Early Transfer Protocol
+                      II-E-4.0 Interfacility Transfer Request
+                     JJIS documents: OYA 4114 Intake Review Committee Findings
+                      and Orders
+                      OYA 4540 Recommendation for Parole and PRC Findings and
+                      Orders
+                      OYA 4105CP Agency Case Review
+                      OYA 4107CP Agency Case Review Findings and Orders
+                     Attachment A: OYA Facility Services Population Management
+                      Principles
+ Related             None
+ Procedures:
+ Policy Owner:                              Approved:
+
+ Deputy Director
+                                            ____________________
+                                            Joseph O’Leary, Director
+
+I.     PURPOSE:
+
+       The policy delineates a process for OYA’s Intake Review Committee and Parole
+       Review Committees to follow when designating a youth’s initial facility placement,
+       and reviewing parole appropriateness.
+
+II.    POLICY DEFINITIONS:
+
+       Agency Case Review Committee (ACR): A committee that conducts the
+       executive-level review of all specified youth and their identified movements within
+
+       and from OYA facilities, including the early transfer of DOC youth to the
+       Department of Corrections. Membership includes the Facility Services assistant
+       director, the Community Services assistant director, and additional members
+       appointed by the OYA director.
+
+       Intake Review Committee (IRC): An agency committee that reviews all youth
+       who are admitted for intake into a youth correction facility (excluding Oak Creek
+       YCF) from the community to determine the youth’s initial facility placement. The
+       committee has a minimum of two management team members including the
+       Facility Services chief of operations and the Community Services chief of
+       parole/probation operations, who are advised by the Office of Inclusion and
+       Intercultural Relations and a treatment services supervisor.
+
+       Multidisciplinary Review Team (MDT): A team of individuals who work
+       collaboratively to develop and maintain a comprehensive individualized case plan
+       that is culturally competent and gender-appropriate for each youth committed to
+       OYA. The MDT is based on a core team membership consisting of the youth,
+       OYA primary case manager, placement representative, QMHP (facility)/treatment
+       provider (community), tribal representative (for youth enrolled in one of Oregon’s
+       federally recognized tribes) and the parents/guardians. Additional team members
+       are identified by the core team based on the youth’s Risk Needs Assessment,
+       identified criminogenic needs and placement.
+
+       Parole Review Committee (PRC): A committee, from a specific facility, that
+       reviews all youth parole recommendations for appropriateness. The committee
+       members are the youth’s field supervisor, and the facility’s superintendent/camp
+       director or designee.
+
+       Population Management Committee (PMC): A committee that coordinates
+       youth placements, treatment opportunities, and provides quality assurance for
+       lengths-of-stay in OYA close-custody facilities. The committee is chaired by the
+       Facility Services chief of operations, and includes the chief of parole and
+       probation, and representation from the Office of Inclusion and Intercultural
+       Relations, Facility Services, and Treatment Services.
+
+III.   POLICY:
+
+       OYA has identified diversity, equity and inclusion as an agency priority and
+       initiative, with a goal to build a respectful, diverse, equitable and inclusive
+       environment for youth and staff that is free from harassment, discrimination and
+       bias. Data shows youth of color and LGBTQ+ youth are disproportionately
+       represented in the juvenile justice system. While OYA is only one part of that
+       system, it plays a critical role in addressing the historical and systemic inequities
+       it perpetuates. Staff must be aware of their biases when assessing youth for
+       program placements and parole. Including advisors from the Office of Inclusion
+       and Intercultural Relations (OIIR) in decision-making committees helps ensure
+       OYA is making decisions that are culturally appropriate for youth in its care.
+
+       OYA has one youth correctional facility designated primarily for female youth.
+       Most female youth are initially placed at Oak Creek Youth Correctional Facility for
+       intake from the community. OYA has multiple primarily male youth correctional
+       facilities. The Intake Review Committee (IRC) is an agencywide committee that
+
+       reviews all youth who are admitted for intake into MacLaren YCF from the
+       community to determine the youth’s initial facility placement. The committee
+       members are primarily the Facility Services chief of operations and the
+       Community Services chief of parole/probation operations, who are advised by
+       OIIR and treatment services supervisors. Facility placement is determined
+       considering a youth’s individual risks and needs, and facility availability.
+
+       Parole Review Committees (PRCs) are facility-based committees that review all
+       youth in their facilities who are recommended for parole by their multidisciplinary
+       teams (MDTs). The committee voting members are the youth’s field supervisor,
+       and the facility’s superintendent/camp director or designee. OYA has established
+       its parole standards in OAR 416, division 300. Placement decisions paroling to
+       substitute care must follow OAR 416-330-0030.
+
+       OYA is committed to evidence-based decision-making, including using a
+       validated risk/needs assessment and other actuarial assessments to effectively
+       match the right youth to the right services for the right length of time. It is
+       expected that assessments, data-informed tools, and other relevant evidence-
+       informed information are evaluated when making decisions in IRC and PRC.
+
+IV.    GENERAL STANDARDS:
+
+       A.     Intake Review Committee (IRC)
+
+              1.     A youth’s MDT must forward their primary and secondary
+                     recommendations for the youth’s facility placement to the IRC
+                     within 30 days of the youth’s admittance to a youth correctional
+                     facility from the community.
+
+                     a)     The MDT must vet proposed youth placements with
+                            proposed receiving housing units, or facilities.
+
+                     b)     Difficult youth placements may be referred to the Population
+                            Management Committee for placement recommendations.
+
+              2.     Primarily male youth whose parole has been revoked
+
+                     A youth’s JPPO must complete an OYA Revocation Referral
+                     Assessment in JJIS to determine whether the youth will participate
+                     in an expedited release program (Track 1), or will be referred to the
+                     IRC for another facility placement (Track 2).
+
+                     a)     Track 1: Youth whose parole was revoked because of
+                            technical violations, or program termination for behavioral
+                            issues with no other available or appropriate placement at
+                            the time of revocation will participate in identified
+                            programming for 45 to 90 days.
+
+                            Requests for exceptions to move a youth to Track 2 may be
+                            approved by the chief of parole/probation operations.
+                     b)     Track 2: Youth with new or pending criminal charges,
+                            intravenous drug use within the past 90 days (e.g.,
+
+                             methamphetamine, heroin), significant substance use with
+                             anticipated significant detoxification time, or other significant
+                             documented reasons must be referred to the IRC for a
+                             facility placement (as described in subsection 1 above).
+
+              3.     The IRC must review the MDT’s placement recommendations
+                     within seven days of receiving them from a youth’s MDT.
+
+              4.     The IRC must consider the following when determining a youth’s
+                     facility placement:
+
+                     a)      The youth’s risk and protective factors;
+
+                     b)      Facility placement availability and dynamics;
+
+                     c)      The youth’s responsiveness to programs and treatment;
+
+                     d)      The youth’s county of commitment;
+
+                     e)      The youth’s family/supports location;
+
+                     f)      The youth’s treatment/program needs;
+
+                     g)      The youth’s cultural needs:
+
+                     h)      The youth’s mental health needs;
+
+                     i)      The youth’s physical health needs;
+
+                     j)      Security management issues; and
+
+                     k)      Any applicable predictive data tools.
+
+              5.     The IRC must document its decision in a JJIS document IRC
+                     Findings and Order (OYA 4114) within one working day of its
+                     decision.
+
+              6.     If the IRC is unable to agree on a youth’s facility placement, the
+                     case must be referred to the Agency Case Review Committee for a
+                     decision.
+
+       B.     Interfacility transfers
+
+              Staff must follow OYA policy II-E-4.0 Interfacility Transfer Requests when
+              considering youth transfers between OYA facilities.
+
+       C.     Parole Review Committee (PRC)
+
+              1.     A youth’s MDT must notify the facility’s PRC of the youth’s
+                     recommendation for parole using JJIS documents OYA 4540
+                     Recommendation for Parole and PRC Findings if the youth does
+
+                     not require an Agency Case Review, or OYA 4105CP Agency Case
+                     Review if they do.
+
+              2.     Prior to the PRC review, the JPPO must import the youth’s
+                     Transition Goals and Transition Checklist into JJIS.
+
+              3.     The PRC must review the MDT’s parole recommendation within
+                     seven days of receiving it.
+
+              4.     The PRC must consider the following when determining parole
+                     readiness:
+
+                     a)     The youth’s efforts, participation in and progress on
+                            treatment, educational, vocational and behavioral goals;
+
+                     b)     The youth’s transition plans as outlined in the Transition
+                            Goals and Transition Checklist;
+
+                     c)     Whether the youth has made and agrees to continue to
+                            make restitution to the victim;
+
+                     d)     Available community resources that support continued
+                            development and safe placement availability;
+
+                     e)     The threat of harm the youth represents to self or others;
+
+                     f)     The impact of the youth’s release on the victim and the
+                            community;
+
+                     g)     Any applicable predictive data tools;
+
+                     h)     The youth’s demonstrated development of the following
+                            markers of psychosocial maturity shown by research to be
+                            corroborated with desistance from crime:
+
+                            (1)     Emotion management and impulse control;
+
+                            (2)     Suppression of aggressive behavior;
+
+                            (3)     Consideration of others;
+
+                            (4)     Future orientation;
+
+                            (5)     Ability to take personal responsibility;
+
+                                    o Commitment offense impact on community and
+                                      victim;
+
+                                    o Current and future conduct; and
+
+                            (6)     Resisting peer influences; and
+
+                     i)     Any other factors or circumstances deemed relevant by OYA
+                            based on the individual characteristics and circumstances of
+                            the youth.
+
+              5.     In addition to paragraph 3 above, the PRC must consider the
+                     following when determining suitable substitute care placement:
+
+                     a)     The youth’s parent’s/legal guardian’s input regarding
+                            placement;
+
+                     b)     The youth’s placement preference;
+
+                     c)     The youth’s religious, cultural, and ethnic heritage;
+
+                     d)     The youth’s medical, physical, and psychological needs; and
+
+                     e)     The youth’s behavioral treatment needs.
+
+              6.     The PRC must document its decision on the appropriate JJIS
+                     document (OYA 4540 or OYA 4105), within one working day of its
+                     decision.
+
+              7.     If the PRC cannot agree on a decision, the case must be referred to
+                     the Facility Services chief of operations and Community Services
+                     chief of parole/probation operations for resolution.
+
+                     a)     The Facility Services and Community Services chiefs of
+                            operations must document their decision in a JJIS document
+                            OYA 4540.
+
+                     b)     Unresolved cases must be forwarded to the Agency Case
+                            Review Committee for resolution.
+
+              8.     Additional approval required
+                     The PRC must forward its parole approval to the Agency Case
+                     Review Committee for final approval if the youth’s offense included
+                     the following:
+                     a)     Aggravated murder, as defined in ORS 163.095;
+                     b)     Murder I, as defined by ORS 163.107(1);
+                     c)     Murder II, as defined in ORS 163.115;
+                     d)     Attempt to commit murder, as defined in ORS 161.405(2)(a);
+                     e)     Manslaughter I, as defined in ORS 163.118;
+                     f)     Manslaughter II, as defined in ORS 163.125;
+                     g)     Criminally negligent homicide, as defined in ORS 163.145;
+                     h)     Assault I, as defined in ORS 163.185;
+
+                     i)     Assault II, as defined in ORS 163.175;
+                     j)     Kidnapping I, as defined in ORS 163.235;
+                     k)     Kidnapping II, as defined in ORS 163.225;
+                     l)     Rape I, as defined in ORS 163.375;
+                     m)     Rape II, as defined in ORS 163.365;
+                     n)     Sodomy I, as defined in ORS 163.405;
+                     o)     Sodomy II, as defined in ORS 163.395;
+                     p)     Unlawful sexual penetration I, as defined in ORS 163.411;
+                     q)     Unlawful sexual penetration II, as defined in ORS 163.408;
+                     r)     Sexual abuse in the first degree, as defined in ORS 163.427;
+                     s)     Robbery I, as defined in ORS 164.415;
+                     t)     Robbery II, as defined in ORS 164.405;
+                     u)     Arson I, as defined in ORS 164.325;
+                     v)     Using a child in a display of sexually explicit conduct, as
+                            defined in ORS 163.670;
+                     w)     Compelling prostitution, as defined in ORS 167.017;
+                     x)     Unlawful manufacture or delivery of a controlled substance
+                            thereby causing death, as defined by ORS 475.752(6);
+                     y)     Aggravated vehicular homicide, as defined in ORS 163.149;
+                            or
+                     z)     Conspiracy to commit any of the offenses listed above, as
+                            defined in ORS 161.450.
+
+              9.     The Agency Case Review committee will follow OYA policy II-A-1.5
+                     Agency Case Review and DOC Early Transfer Protocol, and
+                     document its decision on a JJIS document OYA 4107CP Agency
+                     Case Review Findings and Orders.
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+       Attachment A: OYA Facility Services Population Management Principles
+
+   •    Principle 1 - Family and regional preference
+                      Every effort will be made to keep youth close to home and family.
+
+   •    Principle 2 - Attaching and Belonging
+                      We stick with youth, so they know:
+                       We don’t give up on them.
+                       They will be accountable to the unit community for their
+                         behaviors.
+                       Negative behavior will not result in preferred placements.
+
+   •    Principle 3 - Transitions
+                      We value providing time for effective transitions and connections
+                      during movements and new placements.
+
+   •    Principle 4 - The MDT makes the recommendation
+                      Decisions are not driven by a single person. We strive to hear every
+                      participant’s perspective, including youth and families.
+
+   •    Principle 5 - Data-informed at every step
+                      Data, assessments, and predictive tools will be considered (when
+                      appropriate) and meaningfully included in our conversations about
+                      youth placement.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/II-E-3.0.pdf> · retrieved 2026-07-21 · sha256 `80ab8f0ecefec3bdfc5549da235ab9512bd5946406d7d2a2c85190f6649922d3`
+- Snapshot: `_meta/snapshots/oya-ii-e-3-0.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

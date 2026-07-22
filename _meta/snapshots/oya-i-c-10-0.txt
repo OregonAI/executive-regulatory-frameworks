@@ -1,0 +1,175 @@
+                            OREGON YOUTH AUTHORITY
+                                    Policy Statement
+                            Part I – Administrative Services
+
+ Subject:
+ OYA Information Technology Governance
+ Section – Policy Number:                 Supersedes:           Effective Date:   Date of Last
+                                                                                  Review/Revision:
+ C: Property Management – 10.0          I-C-10.0 (08/25) 06/22/2026 None
+                                        I-C-10.0 (04/25)
+                                        I-C-10.0 (10/22)
+ Related             OAR 166-300 State Agency General Records Retention Schedule
+ Standards           DAS Enterprise Information Services – Agency Guide to IT
+ and                  Governance
+ References:         OYA Information Technology Governance Committee Charter
+                     IT Governance Decision Log
+                     OYA policy: I-E-1.1 OYA Administrative Rule, Policy, Procedure,
+                      and Protocol Development
+ Related             OYA IT Governance Process
+ Procedures:
+ Policy Owner:                            Approved:
+
+ Assistant Director of Business
+ Services                                 _________________________
+                                          Mike Tessean, Director
+
+I.     PURPOSE:
+
+       This policy establishes a formal Information Technology (IT) Governance
+       Program. The policy and the related agency-wide processes ensure alignment
+       among OYA IT investments, the agency’s business strategy, and desired
+       outcomes to achieve effective and efficient use of information technology.
+
+II.    POLICY DEFINITIONS:
+
+       Business: The core mission and operations of OYA, which include managing
+       juvenile justice programs, rehabilitation efforts for youth, public safety, and the
+       overall effectiveness of services delivered to youth, families, and communities. It
+       also encompasses internal administrative functions, such as resource
+       management, casework processing, and the technology that supports them.
+
+       IT governance: The mechanism by which an organization implements,
+       manages, and monitors its IT investments to achieve effective and efficient use
+       of information technology.
+
+       IT Governance Committee (ITGC): The group that oversees OYA IT
+       investments to ensure that IT investment decisions (a) deliver value to the
+       business; (b) are aligned with business strategic goals and priorities; (c) are
+       within acceptable levels of risk, and (d) are aligned with State guidance for IT
+Page 1 of 4    I-C-10.0 OYA Information Technology Governance       Effective: 06/22/2026
+       governance. The committee assumes responsibility for strategic decisions
+       regarding IT resources and investments to support OYA’s mission.
+
+       IT investment: Expenditure of financial or staff resources on information
+       technology, including computing infrastructure or other technological services
+       and applications that support the daily operations and the agency's mission.
+
+       IT request: A formal submission requesting the expenditure of IT resources
+       (either financial or staff) on information technology, including computing
+       infrastructure or other technology services and applications in support of the daily
+       operations and the agency's mission.
+
+       OYA Executive Team: An executive staff group that provides oversight of
+       agency operations. Membership includes the director, deputy director, assistant
+       directors, and other persons as requested by the executive team.
+
+III.   POLICY:
+
+       IT investments and technological solutions are evaluated and implemented to
+       support an inclusive and equitable environment, ensuring that technology serves
+       the needs of all individuals within OYA, including youth, staff, and stakeholders,
+       without bias or discrimination.
+
+       This policy applies to anyone at OYA who is involved in IT decisions, whether
+       they request, influence, or support them. All IT decisions must follow the
+       standards below to keep technological efforts coordinated and prevent confusion.
+
+IV.    GENERAL STANDARDS:
+
+       A.     OYA IT Governance Process
+
+              1.     OYA must have a written agencywide process documenting how IT
+                     investments are identified, analyzed, reviewed, and approved or
+                     deferred. (See OYA IT Governance Process.)
+
+              2.     The written process must also describe how OYA monitors
+                     anticipated IT investment results.
+
+       B.     OYA’s IT Governance Structure
+
+              1.     OYA’s IT governance body is the IT Governance Committee
+                     (ITGC).
+
+              2.     The ITGC must have a charter approved by the OYA Executive
+                     Team.
+
+              3.     As referenced in the ITGC Charter, the committee is composed of
+                     seven voting members and three nonvoting members. The charter
+                     further specifies the roles and composition of these members.
+
+              4.     The ITGC is the sole authority for approving IT investments. The
+                     ITGC must operate by consensus. If consensus cannot be reached,
+Page 2 of 4   I-C-10.0 OYA Information Technology Governance   Effective: 06/22/2026
+                     decisions require a two-thirds majority vote of voting members
+                     present, provided a quorum is met. Quorum is defined as a simple
+                     majority of voting members. The ITGC chair may make a final
+                     decision only if a quorum is met, but no resolution occurs after two
+                     voting attempts.
+
+              5.     As referenced in the ITGC Charter, the committee determines
+                     priorities and makes decisions regarding IT requests to ensure that
+                     IT investments are aligned with business strategies and desired
+                     outcomes. ITGC must apply a weighted prioritization model
+                     described in the OYA IT Governance Process document.
+
+              6.     The ITGC must establish assurance checkpoints so that Executive
+                     Branch projects do not conflict or impact enterprise initiatives that
+                     are time-bound.
+
+              7.     The ITGC must ensure accountability in IT governance approvals,
+                     decision-making, and risk acceptance.
+
+              8.     The ITGC must meet quarterly and perform a portfolio review
+                     annually, by June 1 of each year. The annual review ensures that
+                     each investment has delivered on its stated objectives and
+                     achieved the desired outcomes, providing an opportunity for
+                     strategic adjustments when necessary.
+
+                     a)     The IS Management Team must prepare the proposed
+                            annual updates.
+
+                     b)     ITGC must review the updates and provide any additional
+                            recommendations for the OYA director.
+
+                     c)     The OYA director must approve of the portfolio by June 1
+                            each year.
+
+              9.     The ITGC must evaluate emerging technologies such as Artificial
+                     Intelligence (AI) for ethical use, data privacy, and security in
+                     alignment with OYA’s mission, vision, and values and the State of
+                     Oregon’s AI guidelines.
+
+              10.    Projects must be escalated to the ITGC based on the criteria and
+                     thresholds outlined in Section 6.2 of the IT Governance Process.
+                     Assurance checkpoints, as defined in subsection 6 above, will be
+                     applied as appropriate.
+
+                     These criteria include effort, budget, risk level, data classification,
+                     external dependencies, and strategic impact. Assurance
+                     checkpoints must also be applied to ensure Executive Branch
+                     Projects do not conflict with enterprise initiatives.
+
+       C.     This policy must be reviewed for possible updates at least every two years
+              in accordance with OYA policy I-E-1.1 OYA Administrative Rule, Policy,
+              Procedure, and Protocol Development.
+Page 3 of 4   I-C-10.0 OYA Information Technology Governance     Effective: 06/22/2026
+       D.     Documentation
+
+              The ITGC must ensure that all governance decisions, including approvals,
+              risk considerations, outcomes, and accountable parties, are formally
+              documented and traceable. All ITGC-related documentation must be
+              retained in accordance with OAR 166-300 State Agency General Records
+              Retention Schedule to support compliance, audit readiness, and long-term
+              accountability.
+
+       E.     The IS Management Team must create and publish ITGC approved
+              quarterly and annual reports on the OYA public internet website.
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+
+
+
+Page 4 of 4   I-C-10.0 OYA Information Technology Governance   Effective: 06/22/2026
+

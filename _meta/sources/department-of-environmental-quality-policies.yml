@@ -1,0 +1,10 @@
+group: department-of-environmental-quality-policies
+title: Department of Environmental Quality policies
+kind: content-hash
+recheck: monthly
+last_checked: '2026-07-21'
+upstream_signal: 'TODO: find the listing of record for this agency''s policies (usually a
+  data-tables-web-part SharePoint list behind its oregon.gov policy page — see AGENTS.md
+  "Checking for / applying upstream changes"), switch kind to sp-listing, and add
+  listing_snapshot. Until then this group only re-hashes its member sources.'
+sources: []

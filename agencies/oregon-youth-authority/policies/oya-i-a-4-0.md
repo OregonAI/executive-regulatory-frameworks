@@ -1,0 +1,211 @@
+---
+id: oya-i-a-4-0
+title: "Tort Liability and Claims"
+doc_type: policy
+citation: "OYA Policy I-A-4.0"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/I-A-4.0.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "ed9a3c9c279d5b7c9c38857dff771967b05f129e0347d5320ac481dc1b7e0dc6"
+effective_date: "2024-10-29"
+last_reviewed: null
+source_version: "Effective 10/29/2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N I-A-N.N Tort Liability and Claims Effective' x4"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-A-4.0.pdf> (retrieved 2026-07-21).
+
+# Tort Liability and Claims (OYA Policy I-A-4.0)
+
+## At a glance
+
+OYA Policy I-A-4.0 — Tort Liability and Claims. Oregon Youth Authority. Effective 10/29/2024.
+
+## Full text
+
+                            OREGON YOUTH AUTHORITY
+                                     Policy Statement
+                            Part I – Administrative Services
+ Subject:
+ Tort Liability and Claims
+ Section – Policy Number:                    Supersedes:          Effective Date:   Date of Last
+ A: General Administration – 4.0     I-A-4.0 (10/19) 10/29/2024      Review:
+                                     I-A-4.0 (9/16)                  None
+                                     I-A-4.0 (7/14)
+                                     I-A-4.0 (07/12)
+                                     I-A-4.0 (11/06)
+                                     I-A-4.0 (09/96)
+ Related         ORS 30.260 through 30.300 (Tort Actions Against Public Bodies)
+ Standards       OAR Chapter 125, Division 150 (Risk Management)
+ and             Department of Administrative Services, Enterprise Goods and
+ References:      Services(DAS-RMD) 125-7-201 (Liability Self-Insurance Policy
+                  Manual)
+                 OYA policy: I-A-3.0 (Attorney General Opinions and Advice)
+ Related         None
+ Procedures:
+ Policy Owner:                       Approved:
+ Public Policy and Government                ____________________
+ Relations Manager                           Joseph O’Leary, Director
+
+I.     PURPOSE:
+
+       This policy describes OYA's responsibilities in reporting claims or lawsuits
+       against OYA, staff, agents, or lawful agents when acting in their official
+       capacities.
+
+II.    POLICY DEFINITIONS:
+
+       Claim: A legal action to obtain money, property or the enforcement of a right
+       protected by law against another party.
+
+       Complaint: A complaint is the initial pleading that starts the process of civil
+       litigation, citing the grounds for the lawsuit, the plaintiff’s claim, and the relief
+       sought.
+
+       Personal liability insurance: Provides coverage to staff in connection with
+       claims for damages to persons or property caused by alleged wrongful acts or
+       omissions.
+
+       Torts: Wrongful acts, except for breach of contract, for which civil action may be
+       instituted.
+
+III.   POLICY:
+
+       The State of Oregon is liable for its torts and those of its officers, employees,
+       agents and lawful agents acting within the scope of their employment or
+       contracted responsibility. The Department of Administrative Services, Risk
+       Management Division (DAS-RMD) administers the liability fund insurance
+       program that covers tort liability. The scope of tort liability is limited by Oregon
+       statute. The maximum amount of liability coverage is also limited by statute.
+
+       Defense of a staff or agent is the responsibility of the Attorney General's office.
+       The Attorney General will reject defense of the claim if, after investigation, it is
+       found that:
+       • The claim or demand does not arise out of an alleged act or omission
+          occurring in the performance of duty; or
+       • The act or omission complained of amounted to malfeasance in office, or
+          willful or wanton neglect of duty.
+
+IV.    GENERAL STANDARDS:
+
+       A.     OYA’s risk coordinator is the public policy and government relations
+              manager.
+
+              The tort and litigation administrative specialist 2 or agency records officer
+              may serve as the risk coordinator’s designee.
+
+       B.     Notification process
+
+              1.     The risk coordinator, or designee, must notify DAS-RMD verbally or
+                     in writing of any accident, occurrence, or loss which could
+                     reasonably be assumed to result in a tort liability claim or lawsuit.
+                     The risk coordinator must ensure that summary information is
+                     gathered and provide it to DAS-RMD risk within 10 days of
+                     becoming aware of the incident.
+
+              2.     Upon receipt of a tort notice or a suit, the risk coordinator must
+                     notify the OYA director, deputy director, Human Resources Office,
+                     and pertinent assistant directors. The risk coordinator must
+                     complete the notifications within five days of becoming aware of the
+                     incident.
+
+                     The risk coordinator, or designee, must respond to DAS-RMD
+                     within 30 days of receipt of a tort notice.
+
+              3.     OYA must cooperate with DAS-RMD and the Trial Division,
+                     Department of Justice in the investigation, settlement, and defense
+                     of claims and lawsuits. This may include attending hearings and
+                     trials, securing and giving evidence, obtaining the attendance of
+                     employee witnesses, and disclosing all pertinent records and files.
+
+                     The risk coordinator manages this process.
+
+              4.     DAS RMD has sole authority to pay tort claims. OYA must have
+                     DAS-RMD approval prior to resolving, assuming an obligation, or
+                     incurring an expense concerning a claim.
+
+       C.     Potential tort liability claims
+
+              1.     If a manager becomes aware of a reason to believe that an act by a
+                     staff, agent, or lawful agent could produce a liability claim or
+                     lawsuit, the manager must notify the risk coordinator by emailing
+                     OYAtortsandlitigation@oya.oregon.gov and attaching any relevant
+                     reports.
+
+                     The notice must be completed as soon as possible after the
+                     manager becomes aware of a specific incident or identification that
+                     an act may have the potential for a liability claim.
+
+              2.     The risk coordinator, or designee, may obtain incident
+                     documentation from JJIS and youth records when appropriate.
+
+              3.     If documentation is not available through JJIS or youth records,
+                     staff must provide the following information to the risk coordinator:
+
+                     a)      The time, place, and circumstances giving rise to the claim;
+                             and
+
+                     b)      The identity of persons involved, and any witnesses.
+
+       D.     Tort liability claims
+
+              1.     Staff, agents or lawful agents must direct individuals to DAS-RMD,
+                     Claims Section if contacted by individuals about claim filing
+                     procedures or notice of a claim.
+
+              2.     The local office or facility must immediately forward any written
+                     claim notices, whether received in person or by mail (usually a
+                     demand letter or notice of intent to sue), through the local
+                     management structure to the risk coordinator at
+                     OYAtortsandlitigation@oya.oregon.gov.
+
+                     Staff must also include the following information with the notice:
+
+                     a)      The person upon whom notice was served;
+
+                     b)      If personally presented, by whom and date received; and
+
+                     c)      If by mail, date received.
+
+              3.     The risk coordinator, or designee, must send a letter to the claimant
+                     notifying the claimant to file a claim with DAS-RMD.
+
+       E.     Tort complaints (lawsuits)
+
+              Whenever a staff, agent, or lawful agent is served with a complaint
+              (lawsuit), they must immediately notify the risk coordinator.
+
+              1.   Copies of the summons and complaint papers, along with a
+                   description of the exact date, time, and method the complaint was
+                   served, must be forwarded to the risk coordinator at
+                   OYAtortsandlitigation@oya.oregon.gov.
+
+              2.   The risk coordinator, or designee, must work with the local office or
+                   facility to initiate communication with the appropriate parties in the
+                   Department of Justice, Trial Division, and DAS-RMD.
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/I-A-4.0.pdf> · retrieved 2026-07-21 · sha256 `ed9a3c9c279d5b7c9c38857dff771967b05f129e0347d5320ac481dc1b7e0dc6`
+- Snapshot: `_meta/snapshots/oya-i-a-4-0.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

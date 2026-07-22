@@ -1,0 +1,614 @@
+                              OREGON YOUTH AUTHORITY
+                                       Policy Statement
+                            Part II – Youth Services (Facilities)
+ Subject:
+ Suicide Prevention in OYA Close-custody Facilities
+ Section – Policy Number:                    Supersedes:          Effective Date:   Date of Last
+                                           II-D-2.2 01/13                           Revision/Review:
+ D: Health and Mental Health – 2.2                           10/10/2022    None
+                                           II-D-2.2 10/10
+                                           II-D-2.2 11/07
+                                           II-D-2.2 10/05
+ Related              OAR 416-070-0030 (QMHP and Treatment Services Supervisor
+ Standards             Standards)
+ and                  Performance-based Standards (PbS), Juvenile Correction and
+ References:           Detention Facilities; Safety; Programming; Health and Mental
+                       Health
+                      National Commission on Correctional Health Care, Standards for
+                       Health Services in Juvenile Detention and Confinement Facilities
+                        Y-E-02 (Receiving Screening); Y-E-05 (Mental Health Screening
+                        and Evaluation); Y-G-05 (Suicide Prevention Program)
+                      OYA policy: I-D-3.9 (Staff Training)
+                       I-E-1.0 (Director’s Notification and Report)
+                       I-E-3.0 (Media Relations)
+                       I-E-4.0 (Incident Reviews)
+                       I-E-5.0 (Notification to Parents/Guardian)
+                       II-A-2.0 (Searches of Youth and Youth Property in OYA Facilities)
+                       II-A-3.2 (Enhanced/Supplemental Interactive Supervision of
+                       Youth)
+                       II-B-1.1 (Physical Intervention in Facilities)
+                       II-B-1.2 (Use of Time-out, Room-lock Other, Isolation, and Safety
+                       Programs in OYA Facilities)
+                      OYA forms: YA 4400 (Youth Visual Observation Log)
+                       YA 4409 (JJIS Assessment Initial Mental Status Assessment)
+                       YA 4413 (Youth Correctional Facility Brief Mental Health Status
+                       Assessment)
+                       YA 4414 (JJIS Assessment OYA Camp Suicide Pre-Screen
+                       Worksheet)
+                       YA 4411 (Suicide Prevention Protocols)
+                       YA 4412 (YCF Mental Status Review)
+                       YA 4439 (JJIS Document OYA Suicide Watch/Precautions)
+                       YA 8410 (Rescue Kit Contents)
+                       YA 4438 (JJIS Assessment Referral for Psychiatric/Psychological
+                       Suicide Risk Evaluation)
+                       YA 0024 (Administrative Incident Review Report)
+                       YA 0025 (Critical Incident Review Report)
+ Related              FAC II-D-2.2 (Suicide Prevention in OYA Close-custody Facilities)
+ Procedures:          FAC I-E-4.0 (Youth Incident Report)
+
+
+Page 1 of 12 II-D-2.2 Suicide Prevention in OYA Close-custody Facilities        Effective: 10/10/2022
+ Policy Owner:                                 Approved:
+ Facility Services Assistant Director
+
+                                               _______________________
+                                               Joseph O’Leary, Director
+
+I.     PURPOSE:
+
+       This policy provides guidelines for the prevention of and response to youth
+       suicides and nonsuicidal self-injurious behavior in OYA close-custody facilities.
+
+II.    POLICY DEFINITIONS:
+
+       Intake: The admission of a youth to the close-custody system.
+
+       Mental health practitioner: A qualified mental health professional (QMHP),
+       psychiatric mental health nurse practitioner, psychiatrist, or psychologist.
+
+       Nonsuicidal self-injurious behavior (NSIB): Intentionally injuring oneself in a
+       manner that often results in damage to body tissue, but without any conscious
+       suicidal intent.
+
+       Qualified Mental Health Professional (QMHP): A person who provides mental
+       health treatment services to youth in OYA facilities meets the criteria established
+       in OAR 416-070-0030.
+       Self-harm behavior: Self-inflicted behavior that intentionally causes physical
+       harm to oneself, regardless of intent behind the behavior.
+
+       Suicidal behavior: Suicidal ideation, suicide attempts, and completed suicide.
+
+       Suicidal ideation: Having thoughts, ideas, or ruminations about the possibility of
+       ending one’s life.
+
+       Suicidal intent: The youth’s level of commitment for carrying out their plan or
+       expectation that the plan will result in death. Intent may vary from none to
+       high/full.
+
+       Suicidal plan: A suicidal plan involves identifying a specific method, and
+       possibly a given time frame, in which an adolescent plans to kill themself.
+
+       Suicide attempt: Incomplete, potentially lethal effort to complete suicide.
+
+       Suicide contagion: Risk arising from exposure to suicidal behavior in family,
+       peer group, or media.
+
+       Youth Safety Review Committee (YSRC): A designated committee that reviews
+       requests for youth Suicide Risk Level reductions and determines if a reduction is
+       warranted. Members include (if positions are available) a program director, clinic
+       staff, treatment services supervisor, all QMHPs, psychiatrist, psychologist,
+       psychiatric mental nurse practitioner, and the youth’s living unit manager or
+       designee. Membership of the ad hoc YSRC consists of at least three treatment
+
+Page 2 of 12 II-D-2.2 Suicide Prevention in OYA Close-custody Facilities   Effective: 10/10/2022
+       professionals, and must include the QMHP assessing the youth, the facility’s staff
+       or contracted psychiatrist, psychiatric mental health nurse practitioner or
+       psychologist (consultation by phone/video is acceptable), and Treatment
+       Services supervisor (if applicable)/living unit manager/program director.
+
+III.   POLICY:
+
+       OYA recognizes youth suicide prevention is of paramount importance.
+       Prevention includes identification, risk assessment, precautions towards reducing
+       the risk of completed suicide, and other intervention to mitigate underlying mental
+       health conditions for youth. Suicide risk screenings and assessments must be
+       completed in accordance with clinical best practices, policy, and all related
+       procedures.
+
+       OYA strives to create respectful, diverse, equitable, and inclusive environments
+       for youth and staff that are free from harassment, discrimination, and bias. Data
+       shows that historically marginalized youth are disproportionately at risk for
+       suicidal ideation, suicide attempts, and NSIB. OYA is mindful and focused on
+       youth needs and safety to prevent these incidents, particularly LGBTQ+ youth
+       who present the highest risk for suicidal ideation, suicide attempts, and NSIB.
+
+IV.    GENERAL STANDARDS:
+
+       A.      Observation and identification of youth needing screening:
+
+               1.      Any staff who becomes aware of a youth’s need for a suicide risk
+                       screening or assessment must immediately notify the QMHP on
+                       duty or Officer-of-the-Day (OD) if no QMHP is available.
+
+               2.      All staff must engage with youth in an interactive manner to build
+                       caring and supportive relationships as outlined in OYA policy II-A-
+                       3.0 Interactive Supervision of Youth. This must include observation
+                       of youth behavior for the following signs and symptoms:
+
+                       a)      Suicidal or NSIB statements or behavior;
+
+                       b)      New mood changes, anxiety, or agitation;
+
+                       c)      An abrupt change in behavior or presentation;
+
+                       d)      New, compounding, or chronic stressors;
+
+                       e)      Statements of hopelessness; or
+
+                       f)      Preparation for completion (e.g., giving things away; saying
+                               goodbye).
+
+       B.      Screening and Assessment of Suicide Risk and Nonsuicidal Self-
+               injurious Behaviors (NSIB) Risk
+
+               1.      Intake Suicide Risk/NSIB Risk Assessment:
+
+
+
+Page 3 of 12 II-D-2.2 Suicide Prevention in OYA Close-custody Facilities   Effective: 10/10/2022
+                       a)      Staff must maintain constant supervision of all youth upon
+                               admission to a facility awaiting completion of an agency
+                               approved suicide risk/NSIB risk evaluation and assignment
+                               of a Suicide Risk Level (SRL).
+
+                       b)      A mental health practitioner must begin an agency approved
+                               suicide risk/NSIB risk evaluation within one hour of a youth’s
+                               presentation for admission to a facility. This includes initial
+                               intake, parole violation intake, and any facility transfers.
+
+                       c)      The mental health practitioner must assign the youth a SRL
+                               based on the results of the assessment.
+
+                       d)      The mental health practitioner must record the SRL in the
+                               JJIS Population Group “OYA *Suicide Documentation.”
+
+                       e)      The mental health practitioner must communicate with the
+                               Unit Leadership Team (ULT) and verbally with unit staff that
+                               will be immediately supervising the youth following the
+                               evaluation to share the SRL, and other pertinent information
+                               concerning youth safety and behavior.
+
+                       f)      The mental health practitioner must enter the assessment in
+                               the youth’s JJIS notebook using the appropriate form, OYA
+                               4409 for new intakes and OYA 4413 for youth transferring,
+                               on the day of the assessment by the end of the mental
+                               health practitioner’s work shift.
+
+               2.      Until the suicide risk/NSIB risk assessment is completed and a risk
+                       level assigned, line of sight supervision must be maintained.
+
+               3.      Ongoing Suicide Risk/NSIB Risk Assessment:
+
+                       a)      A mental health practitioner must complete an agency
+                               approved suicide risk/NSIB risk evaluation at least every 90
+                               days for all youth on the standard risk level (SRL 5) and will
+                               document the assessment in the youth’s JJIS notebook.
+
+                       b)      All youth at an elevated risk level will be re-assessed as
+                               specified by the risk level.
+
+                       c)      Staff must refer youth to the QMHP for assessment as
+                               needed.
+
+                       d)      QMHP must follow the process outlined in paragraph 1
+                               above.
+
+               4.      Camp/transition facilities exception
+
+                       a)      A designated camp staff member must ensure an OYA
+                               Camp Suicide Pre-Screen Worksheet (YA 4414) is
+
+
+Page 4 of 12 II-D-2.2 Suicide Prevention in OYA Close-custody Facilities   Effective: 10/10/2022
+                               completed on every initial youth admission to a camp facility
+                               within one hour of the youth’s arrival.
+
+                       b)      A QMHP must review the YA 4414 no later than 72 hours
+                               after its completion.
+
+                               The QMHP must also complete the agency approved suicide
+                               risk/NSIB risk evaluation no later than 72 hours after the
+                               youth’s arrival at the camp facility and follow the paragraphs
+                               above for intake assessments.
+
+               5.      Once an SRL is assigned by the mental health practitioner, only the
+                       Youth Safety Review Committee (YSRC) or ad hoc group can
+                       reduce the level. See the related facilitywide procedure (FAC II-D-
+                       2.2) regarding the YSRC.
+
+               6.      The QMHP must request all mental health information from the
+                       most recent placement be forwarded to the QMHP within 24 hours
+                       of the youth’s arrival at the facility.
+
+               7.      An OYA Treatment Services supervisor must review agency
+                       approved suicide risk/NSIB risk evaluations within seven days of
+                       the assessment’s completion during a youth’s initial commitment or
+                       parole revocation intake.
+
+       C.      Suicide Risk Levels (SRLs)
+
+               1.      Level 1: High Suicide Risk
+
+                       Description: Youth who are at high risk of imminent suicidal attempt
+                       or severe forms of NSIB. These youth are in a life-threatening crisis
+                       and may manifest the following:
+
+                       a)      Frequent, intense, enduring suicidal ideation with specific
+                               plans;
+
+                       b)      Committed a serious or potentially lethal suicidal behavior;
+
+                       c)      Persistent, or escalating suicidal behaviors over a relatively
+                               short period of time (e.g., within two to three weeks);
+
+                       d)      Direct statements threatening to complete suicide;
+
+                       e)      Serious depression, especially if co-occurring with a history
+                               of impulsivity; profound hopelessness; fully intends to die;
+                               impaired self-control;
+
+                       f)      History of serious suicidal behavior, intentionality and
+                               depression;
+
+                       g)      Unresponsiveness to therapeutic interventions; or
+
+
+Page 5 of 12 II-D-2.2 Suicide Prevention in OYA Close-custody Facilities   Effective: 10/10/2022
+                       h)      Command hallucinations directing youth to harm self.
+
+               2.      Level 2: Moderate Risk
+
+                       Description: Youth who are at moderate risk of imminent suicidal
+                       behavior or attempts or NSIB. These youth may manifest the
+                       following:
+
+                       a)      Suicidal behaviors with low or no lethality (choking self with
+                               hands; choking self with object wrapped but not tied around
+                               neck; ingestion of non- or low-toxic substance; head-
+                               banging);
+
+                       b)      Moderately persistent self-harm behavior over a relatively
+                               short period of time;
+
+                       c)      Frequent, moderate, enduring suicidal ideation;
+
+                       d)      Specific viable plans;
+
+                       e)      Seriously or acutely depressed, with or without history of
+                               impulsivity; some degree of hopelessness; modest to serious
+                               history of depression;
+
+                       f)      Ambivalent with regard to intentions to die; indirect, unclear
+                               messages of threats to complete suicide; or
+
+                       g)      Is willing to participate in therapeutic intervention.
+
+               3.      Level 3: Elevated Risk
+
+                       Description: Youth who are at low to moderate risk of imminent
+                       suicidal behavior, attempts, or NSIB. These youth may manifest the
+                       following:
+
+                       a)      Some suicidal ideation with limited intensity and duration;
+
+                       b)      Nonsuicidal self-injurious behaviors (scratching, picking,
+                               carving, superficial cutting);
+
+                       c)      Veiled or subtle threats of suicidal behavior;
+
+                       d)      Experiencing current significant stressful circumstances or
+                               life stressors, including transition;
+
+                       e)      Some specific plans non-lethal plans;
+
+                       f)      Some coping skill behavior;
+
+                       g)      History of depression or history of successful management
+                               of depression; or
+
+
+Page 6 of 12 II-D-2.2 Suicide Prevention in OYA Close-custody Facilities    Effective: 10/10/2022
+                       h)     Is amenable to treatment and focuses attention to alternate
+                              coping skills.
+               4.      Level 4: Risk by History
+
+                       Description: Youth who are at increased risk of becoming severely
+                       depressed or who are at risk for nonsuicidal self-injurious behaviors
+                       or suicidal ideation based upon history.
+
+               5.      Level 5: Regular Risk
+
+                       Description: Youth who are at regular or at an expected risk of
+                       depression and suicide, given their close-custody situation.
+
+       D.      Suicide risk precautions and interventions
+
+               1.      Any staff may increase a youth’s supervision level pending official
+                       reassessment by a mental health practitioner.
+
+               2.      Youth assessed as high risk require one-to-one supervision as
+                       outlined in OYA policy II-A-3.2 Enhanced/Supplemental Interactive
+                       Supervision of Youth.
+
+               3.      For youth on all other levels, mental health staff or YSRC must
+                       determine and implement enhanced supervision needs deemed
+                       clinically appropriate in accordance with OYA policy II-A-3.2
+                       Enhanced/Supplemental Interactive Supervision of Youth.
+
+               4.      Upon being assessed as high risk, the Treatment Services
+                       supervisor or the supervising psychologist or designee, must review
+                       the youth’s housing and appropriate level of care and placement.
+                       Transfer to the Oregon State Hospital, Children’s Farm Home, or
+                       MacLaren YCF will be determined on a case-by-case basis.
+
+                       Removal from the living unit must only be used as an intervention
+                       when all other interventions have been exhausted. Once initiated, it
+                       must be time limited as much as possible.
+
+               5.      Youth assessed as elevated, moderate, or high risk must have
+                       safety precautions deemed clinically appropriate by a QMHP,
+                       Treatment Services supervisor, supervising psychologist, or clinical
+                       team staffing the youth’s case. These precautions must be
+                       documented in JJIS on the OYA 4439.
+
+               6.      Youth assessed as elevated, moderate, or high risk must have
+                       face-to-face contact with a mental health practitioner, including
+                       assessment/reassessment of risk using an agency approved risk
+                       assessment, at the following frequency:
+
+                       a)      Elevated risk youth: At least weekly; and
+
+                       b)      Moderate and high risk youth: At least daily, or as
+                               designated in JJIS on the OYA 4439.
+Page 7 of 12 II-D-2.2 Suicide Prevention in OYA Close-custody Facilities   Effective: 10/10/2022
+               7.      Youth assessed as elevated, moderate, or high risk must have an
+                       open mental health domain in the JJIS case plan, with an active,
+                       up-to-date goal and appropriate interventions to remediate risk for
+                       suicide and NSIB. This plan must be reviewed as part of QMHP bi-
+                       monthly supervision with the Treatment Services supervisor.
+
+               8.      Youth assessed as having risk by history risk require at least
+                       monthly face-to-face contact with a mental health practitioner
+                       including assessment/reassessment of risk using an agency
+                       approved risk assessment. These contacts must be documented in
+                       the youth’s JJIS notebook.
+
+               9.      Youth assessed as standard risk require at least quarterly face-to-
+                       face contact with a mental health practitioner including
+                       assessment/reassessment of risk using an agency approved risk
+                       assessment. These contacts must be documented in the youth’s
+                       JJIS notebook.
+
+               10.     Youth at all risk levels must have:
+
+                       a)      Access to medical and mental health treatment services that
+                               are not hindered in any way;
+
+                       b)      A daily minimum of one hour of exercise involving large-
+                               muscle activity; and
+
+                       c)      Those who have not completed school or attained a general
+                               equivalency diploma (GED) must have access to educational
+                               resources. If necessary, provisions may be made for
+                               individualized educational tasks to be completed in living
+                               units.
+
+               11.     Each facility living unit must have a rescue kit kept in an area not
+                       accessible to youth but readily accessible to all direct service staff.
+                       Each kit must contain, at a minimum, items listed in YA 8410
+                       (Rescue Kit Contents).
+
+       E.      Youth Safety Review Committee (YSRC)
+
+               1.      Once an SRL is assigned, only the YSRC may lower the risk level.
+
+               2.      A risk level reduction may only be made following a review of a
+                       youth’s current mental status.
+
+               3.      Each facility must maintain a practice where all youth at SRLs of 3
+                       and higher and youth with complex behavioral health needs are
+                       reviewed by the YSRC. This review must occur on a weekly basis.
+
+               4.      An ad-hoc YSRC (including at minimum; a psychologist, QMHP,
+                       TSS) must meet daily when a youth is SRL-1 High Risk. This daily
+                       meeting must ensure clinically appropriate precautions and
+
+
+Page 8 of 12 II-D-2.2 Suicide Prevention in OYA Close-custody Facilities   Effective: 10/10/2022
+                       interventions are in place, review youth progress, daily assessment
+                       and determine youth’s SRL.
+
+               5.      The QMHP must record the risk level change in the JJIS Population
+                       Group by switching risk level groups.
+
+               6.      Assigned QMHP must distribute recommendations resulting from
+                       all YSRC meetings to the youth’s living unit, campus operations,
+                       and Health Services staff as appropriate.
+
+       F.      Documenting Suicidal Behavior
+
+               1.      The QMHP is responsible for documenting youth suicidal behavior
+                       for youth in close custody.
+
+               2.      All instances of known past and present suicidal behavior exhibited
+                       by any youth in OYA custody must be documented in the JJIS
+                       Population Group “OYA *Suicide Documentation”.
+
+               3.      Documenting suicidal behavior during OYA custody
+
+                       Each incident of suicide behavior exhibited while in OYA custody
+                       must be documented in a Youth Incident Report (YIR) by the staff
+                       who witnessed the behavior. Other staff who were involved in the
+                       incident must update the YIR to document their involvement.
+
+               4.      Documenting suicidal behavior prior to OYA custody
+
+                       Documented or self-reported suicide behavior exhibited prior to
+                       OYA custody must be entered in the JJIS Population Group – “OYA
+                       *Suicide Documentation.” Each prior incident must be entered as a
+                       unique subcategory with the dates of the incidents as the
+                       subcategory start date. These subcategories may only be closed at
+                       case closure.
+
+       G.      Documenting Nonsuicidal Self-injurious Behaviors (NSIBs)
+
+               1.      Documenting NSIBs during OYA custody
+
+                       Each incident of nonsuicidal self-injurious behavior exhibited while
+                       in OYA custody must be documented as such in a Youth Incident
+                       Report (YIR) by the staff who witnessed the behavior. Other staff
+                       who were involved in the incident must update the YIR to document
+                       their involvement.
+
+                       See facilitywide procedure FAC I-E-4.0 Youth Incident Report for
+                       more information on YIRs.
+
+               2.      Documenting NSIBs prior to OYA custody
+
+                       a)      Documented or self-reported NSIBs exhibited prior to OYA
+                               custody must be documented in the Initial Mental Status
+Page 9 of 12 II-D-2.2 Suicide Prevention in OYA Close-custody Facilities   Effective: 10/10/2022
+                               Assessment (YA 4409) or Brief Mental Status Assessment
+                               (YA 4413) if disclosed at time of intake or transfer.
+
+                       b)      Documented or self-reported NSIBs exhibited prior to OYA
+                               custody but discovered or disclosed during the course of
+                               OYA custody must be documented in a progress note in
+                               JJIS at the time of discovery or disclosure.
+
+       H.      Communication Regarding the Status of Potentially Suicidal Youth
+               and NSIB Youth
+
+               1.      Each facility must have a local operating protocol governing
+                       communication between mental health treatment staff, living unit
+                       personnel, education staff, and facility administrators regarding the
+                       status of potentially suicidal and NSIB youth.
+
+                       a)      All communication by QMHPs to living unit managers (or
+                               designated staff) regarding SRLs and housing restrictions;
+                               and NSIB risk and safety restrictions, must be documented
+                               in JJIS.
+
+                               Local operating protocols must identify ways to communicate
+                               this information on a daily basis to necessary individuals
+                               such as the QMHP, supervising psychologist, clinic, program
+                               director, and living unit manager.
+
+                       b)      Information regarding suicide and NSIB interventions may be
+                               shared with staff on a need-to-know basis, with the
+                               determination made based on ensuring youth safety.
+
+               2.      A reasonable effort must be made to notify family regarding a
+                       youth’s SRL and resulting treatment and intervention.
+
+               3.      For youth transitioning from close-custody to the community on
+                       elevated risk or higher, the QMHP must notify and share the most
+                       recent copy of the YA 4439 with the youth’s JPPO and the
+                       behavioral health coordinator prior to transition.
+
+       I.      Notification to the Director’s Office
+
+               Suicide attempts that include taking a youth off site for emergency medical
+               care, or are potentially lethal, and completed suicides are considered
+               significant incidents.
+
+               Staff must follow OYA policy I-E-1.0 Director’s Incident Notification and
+               Report when notifying the Director’s Office of a significant incident.
+
+       J.      Reducing Suicide Contagion after a Completed Suicide.
+
+               1.      If a completed youth suicide occurs, staff must make a brief
+                       announcement to youth in each living unit. The deceased youth’s
+                       name and living unit will be announced.
+Page 10 of 12 II-D-2.2 Suicide Prevention in OYA Close-custody Facilities   Effective: 10/10/2022
+                       Also announced must be a description of how a youth may arrange
+                       to meet with an available staff or QMHP to talk about the completed
+                       suicide. Youth may only meet individually with staff or QMHPs to
+                       talk about the incident.
+
+               2.      QMHPs, in collaboration with supervisory and contracted mental
+                       health providers and living unit managers (or designees), must
+                       identify youth who are deemed vulnerable, and schedule individual
+                       appointments. Triage referrals will be made to consulting mental
+                       health professionals.
+
+               3.      Religious or spiritual ceremonies must be scheduled on an
+                       individual basis as opposed to group memorials or group events.
+                       Religious staff or volunteers must avoid statements in group
+                       settings that praise or honor the youth who completed the suicide
+                       or refer to the youth as now “in a better place” (or similar type of
+                       statements). Reduce conversations that dramatize, glorify, or give
+                       undue attention to the completed suicide or the individual who
+                       completed suicide. Steer conversations in the direction of clarifying
+                       better coping strategies.
+
+               4.      Staff must not make public statements to the media about the
+                       completed suicide. Only a designated OYA spokesperson may
+                       make public comments. See OYA policy I-E-3.0 Media Relations.
+
+       K.      Reducing NSIB Contagion
+
+               QMHPs, in collaboration with supervisory and contracted mental health
+               providers and living unit managers (or designees), must identify youth who
+               are deemed at risk, and schedule individual appointments for further
+               assessment.
+
+       L.      Staff Training
+
+               1.      All staff who work directly with youth or in an OYA facility must
+                       complete an initial suicide prevention/NSIB training course through
+                       the OYA Training Academy.
+
+                       The training course must include, but not be limited to, information
+                       about:
+
+                       a)      Stressors associated with suicidal behavior or NSIBs in
+                               juvenile correctional facilities;
+
+                       b)      Behavior and appearance indicators that require immediate
+                               referral for mental health intervention and care;
+                       c)      Suicide precaution levels;
+
+                       d)      Enhanced monitoring and supervision requirements;
+
+                       e)      Positive intervention and management strategies to use with
+                               potentially suicidal youth in living units;
+Page 11 of 12 II-D-2.2 Suicide Prevention in OYA Close-custody Facilities   Effective: 10/10/2022
+                       f)      The referral process to obtain an immediate mental health
+                               intervention for a suicidal youth;
+
+                       g)      Steps to follow if a youth attempts or completes suicide; and
+
+                       h)      Skill development and competency in using the Rescue Kit
+                               and its contents.
+
+               2.      In addition to the initial training, all facility staff and direct service
+                       staff must complete a suicide prevention course as part of required
+                       annual update training.
+
+               3.      Mental health practitioners must additionally complete suicide
+                       prevention, crisis intervention, screening and assessment, and
+                       lethal means training as provided or authorized by OYA.
+
+M.     LOCAL OPERATING PROTOCOL REQUIRED: YES
+
+       Each OYA facility must have a written local operating protocol governing
+       communication between mental health treatment staff, living unit staff, education
+       staff, and facility administrators regarding the status of potentially suicidal and
+       NSIB youth, as indicated in section IV.H. (above).
+
+
+
+
+Page 12 of 12 II-D-2.2 Suicide Prevention in OYA Close-custody Facilities   Effective: 10/10/2022
+

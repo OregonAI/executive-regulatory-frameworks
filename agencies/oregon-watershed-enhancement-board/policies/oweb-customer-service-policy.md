@@ -1,0 +1,168 @@
+---
+id: oweb-customer-service-policy
+title: "Customer Service Policy"
+doc_type: policy
+citation: "OWEB Policy"
+authority_level: state_policy
+issuing_body: "Oregon Watershed Enhancement Board"
+agency: oregon-watershed-enhancement-board
+legal_authority: []
+source_url: "https://www.oregon.gov/oweb/Documents/OWEB-Policy-Customer-Service-Standards.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "c10358b93189e56c231ab47f246ed02f1858e277a447988bd52837468a23e810"
+effective_date: "2025-03-31"
+last_reviewed: null
+source_version: "Effective March 31, 2025"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'OWEB Customer Service Policy April, N Page N of N' x3"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-watershed-enhancement-board', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oweb/Documents/OWEB-Policy-Customer-Service-Standards.pdf> (retrieved 2026-07-21).
+
+# Customer Service Policy (OWEB Policy)
+
+## At a glance
+
+OWEB Policy — Customer Service Policy. Oregon Watershed Enhancement Board. Effective March 31, 2025.
+
+## Full text
+
+               CUSTOMER SERVICE POLICY
+               Oregon Watershed Enhancement Board
+
+ EFFECTIVE DATE:       March 31, 2025
+ LAST REVISION:        NEW (this policy will be reviewed annually)
+ RESPONSIBLE FOR
+                       Director’s Office
+ UPDATES
+
+                       DAS Enterprise Customer Service Standards
+ RESOURCES:
+                       OWEB Customer Service Strategy
+
+POLICY STATEMENT
+This policy establishes an internal customer service standard for the Oregon Watershed Enhancement Board to ensure
+quality customer service in all daily operations through equitable, accessible, timely, educated and responsive service
+initiatives.
+
+PURPOSE
+    •   Ensure universally accessible and responsive communication with Oregonians and Oregon Watershed
+        Enhancement Board customers.
+    •   Reinforce an equitable customer service culture throughout the Oregon Watershed Enhancement Board that
+        reflects State of Oregon enterprise values and competencies.
+    •   Continuously measure customer service feedback, and apply meaningful solutions, process enhancements, and
+        timely responses.
+    •   Improve customer accessibility through updated methods, procedures, and more efficient communication
+        among staff and stakeholders.
+    •   Prioritizing customer service responses responding to external customer inquiries within a one-business-day
+        timeframe.
+
+APPLICABILITY
+This policy applies to all agency employees and volunteers.
+
+ATTACHMENTS
+OWEB Customer Service Strategy (available upon request)
+
+DEFINITIONS
+Contact Center: A system that coordinates telephone and electronic contacts between the agency and the public.
+Customer: Any individual who interacts with a state agency internal or external.
+External Customer: Any individual from outside state government who interacts with a state agency.
+Customer Facing: State occupied location open to the public.
+Customer Service: Timely, accessible, equitable, and responsive support-based interactions between agencies and
+customers.
+Professional workplace communication: Communication that is timely, clear, and respectful, regardless of the medium
+of communication.
+
+CUSTOMER SERVICE COMPETENCIES
+Oregon Watershed Enhancement Board will foster a Proficient level of customer service delivery consistent with the
+definition in the State Enterprise Values & Competencies. Employees with this skill level:
+    • Ensure quality customer service
+    • Continually seek ways to improve customer services
+    • Explore flexible options to meet customer needs
+    • Understand and address customer implications of process changes
+    • Continually seek ways to improve processes for all partners
+    • Develop and provide flexible options for customers, removing barriers when necessary
+    • Take appropriate steps to become familiar with relevant policies, develop recommendations if changes are
+         needed, and work to ensure recommendations are implemented
+
+CUSTOMER ACCESS AND PRACTICES
+Oregon Watershed Enhancement Board will provide comprehensive customer service in the following ways:
+   • Keep all content, staff and departmental contact information, and associated links current on OWEB website.
+   • Promote use of OWEB customer service email and ensure prompt, consistent, and timely responses.
+   • Encourage phone and virtual conversations wherever possible either instead of or in addition to email
+       communications.
+   • Assess readability of web-based material and public facing communications on OWEB website for broader
+       understanding.
+   • Ensure accessibility in compliance with the Americans with Disabilities Act and Enterprise Information Service
+       e-Government guidance.
+   • Offer a variety of options for all OWEB public meetings and interactions with customers by making phone, video
+       calls, email, virtual meetings and webform submissions available when possible.
+   • Ensure staff are trained in appropriate and consistent responses to all public inquiries.
+   • Maintain updated staff contact information on the agency website, including phone numbers, mailing address,
+       operating hours, and instructions for scheduling agency services. Whenever a new staff person joins the agency
+       or an existing staff person departs the agency, the agency will update its staff directory within three (3) business
+       days to reflect updated contact information.
+   • Post customer service hours (8 am to 5 pm, Monday through Friday) on the agency website and indicate that
+       meetings at the agency headquarters are by appointment only.
+   • For planned closures, OWEB places alerts on the website.
+   • For unplanned closures, OWEB follows the DAS policy on Temporary Interruption of Employment 60.015.01.
+   • Practice professional workplace communication, regardless of the communication medium.
+   • Provide language and communication options consistent with program customer needs.
+
+CUSTOMER RESPONSE REQUIREMENTS
+    •   OWEB employees shall, at a minimum, acknowledge receipt of voicemail, text messages, and email (including
+        web messages if applicable) from external customers within one business day. Employees unable to reply within
+        this timeframe shall update their voicemail greeting and external email autoreply with details about when the
+        employee will return and an alternate contact name, phone, and email of who can provide responsive assistance
+        while the employee is not available.
+    •   OWEB staff will notify agency staff within one business day of receipt when US mail is received that needs follow
+        up.
+    •   OWEB’s main customer service line is monitored during business hours. Within one business day, external
+        customer messages are relayed to appropriate individuals who follow-up via phone to the customer.
+
+    •   OWEB has a dedicated general email address that is monitored during business hours and emails are responded
+        to or forwarded to the appropriate staff for responses within one business day.
+
+SYSTEMATIC APPROACH TO IMPROVE CUSTOMER SERVICE DELIVERY
+    •   Identify resource and system needs to support continuous improvements.
+    •   Continuously improve and modernize OWEB’s processes to allow for more equitable customer service
+        strategies.
+    •   Continue to identify and implement improvements to grantmaking systems and processes to enhance
+        accessibility.
+    •   Continuously solicit customer service feedback, and use this to inform, adapt and improve current and future
+        public-facing processes.
+    •   Continue to serve as a responsive partner for customers and policymakers to take on and deliver new programs
+        and services and identify short-term and long-term resource needs to support serving in this role.
+
+OWEB Customer Service Strategy
+OWEB’s Customer Service Strategy will assist in developing, maintaining and reviewing service processes to ensure
+established service level goals are being met, and exceeded.
+
+Point of Contact
+For matters related to this policy, please contact:
+Stephanie Page, Deputy Director
+Stephanie.page@oweb.oregon.gov
+971-345-7004
+
+Policy location
+OWEB’s customer service policy will be publicly accessible from the agency web site.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oweb/Documents/OWEB-Policy-Customer-Service-Standards.pdf> · retrieved 2026-07-21 · sha256 `c10358b93189e56c231ab47f246ed02f1858e277a447988bd52837468a23e810`
+- Snapshot: `_meta/snapshots/oweb-customer-service-policy.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

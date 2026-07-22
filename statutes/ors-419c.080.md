@@ -28,6 +28,8 @@ relationships:
   implements: []
   implemented_by:
     - oar-413-020-0090
+    - oya-ii-a-1-4
+    - oya-iii-c-1-1
   references_external: []
   related: []
   supersedes: []

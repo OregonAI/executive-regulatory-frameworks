@@ -54,7 +54,7 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-administrative-services/accounting-manual/oam-15-60-25.md` — document's printed date differs from the listing of record (see Curator notes)
 - `agencies/department-of-administrative-services/accounting-manual/oam-45-20-00.md` — document's printed date differs from the listing of record (see Curator notes)
 
-## Unlinked rules/policies/procedures/standards — no graph edges (349)
+## Unlinked rules/policies/procedures/standards — no graph edges (398)
 
 `src/link_graph.py` found no authority citation (or, for procedures, no `_PR` naming match) connecting this document to anything else in the corpus. Itemized entries usually mean the source's authority text doesn't match the extractor's citation patterns — check the source and either fix the citation text or add a hand-authored relationship. Per-chapter aggregate entries are rules whose own cited authority is chapter-level or not in the corpus — correct non-links, nothing to fix.
 
@@ -225,6 +225,55 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/oregon-health-authority/policies/oha-osh-8-045.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-8-048.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-9-001.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-watershed-enhancement-board/policies/oweb-customer-service-policy.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-0-2-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-0-2-4.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-a-10-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-a-4-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-a-9-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-b-2-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-b-3-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-c-7-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-c-8-3.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-c-9-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-d-1-6.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-d-2-3.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-d-3-13.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-d-3-16.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-d-3-7.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-d-3-8.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-d-3-9.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-d-4-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-d-6-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-e-1-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-e-2-2.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-e-3-2.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-i-e-5-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-ii-a-1-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-ii-a-1-2.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-ii-a-2-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-ii-a-2-2.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-ii-d-3-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-ii-d-3-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-ii-e-2-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-ii-e-2-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-ii-e-2-4.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-ii-e-2-5.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-ii-e-8-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-ii-e-9-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-ii-f-3-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-ii-f-3-7.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-iii-a-2-2.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-iii-a-3-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-iii-a-3-1.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-iii-a-6-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-iii-a-9-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-iii-b-3-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-iii-d-2-3.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-iii-d-3-6.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-iii-d-8-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-youth-authority/policies/oya-iii-d-9-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/public-utility-commission/policies/puc-internal-operating-guidelines.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/104/ (40 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); 29 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/114/ (20 rules)` — correct non-links — 20 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
 - `rules/115/ (9 rules)` — correct non-links — 9 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
@@ -234,7 +283,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/125/ (41 rules)` — correct non-links — 39 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/125/075/oar-125-075-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/128/ (9 rules)` — correct non-links — 9 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/137/ (90 rules)` — correct non-links — 10 cite only chapter-level authority (no section to link to); 80 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/137/ (89 rules)` — correct non-links — 10 cite only chapter-level authority (no section to link to); 79 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/137/080/oar-137-080-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/141/ (108 rules)` — correct non-links — 106 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/150/308/oar-150-308-0540.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -1335,173 +1384,174 @@ Oddities in the /gov/eo listing of record recorded by `src/ingest_eo.py` (duplic
 - `eo-21-05` — two listing rows with different bytes (/gov/eo/eo-21-05.pdf vs /gov/eo/eo_21-05.pdf) — confirm which file is the order of record
 - `eo-21-20` — listing says 2021 No. 29; filename (trusted) says 2021 No. 20 — the description matches the filename
 
-## Agency profiles needing curation (163)
+## Agency profiles needing curation (164)
 
 These agencies have in-repo content but their profile (`_meta/agency-profiles.yml`) still carries stub values — the model gets their data without its context until a human fills governance (with a citation) and publication status.
 
-- `_meta/agency-profiles.yml (appraiser-certification-and-licensure-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (board-of-chiropractic-examiners)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (board-of-examiners-for-engineering-and-land-surveying)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (board-of-examiners-for-speech-language-pathology-and-audiology)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (board-of-geologist-examiners)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (board-of-licensed-social-workers)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (board-of-massage-therapists)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (board-of-medical-imaging)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (board-of-nursing)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (board-of-optometry)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (board-of-parole-and-post-prison-supervision)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (board-of-pharmacy)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (bureau-of-labor-and-industries)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (chief-education-office)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (citizens-initiative-review-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (columbia-river-gorge-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (commission-for-the-blind)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (construction-contractors-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-albacore-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-alfalfa-seed-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-beef-council)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-blueberry-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-clover-seed-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-dairy-products-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-dungeness-crab-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-fine-fescue-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-hazelnut-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-hop-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-invasive-species-council)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-mint-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-potato-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-processed-vegetable-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-raspberry-and-blackberry-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-ryegrass-growers-seed-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-salmon-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-sheep-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-strawberry-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-sweet-cherry-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-tall-fescue-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-trawl-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-agriculture-oregon-wheat-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-building-codes-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-director-s-office)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-finance-and-securities-regulation)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-health-insurance-marketplace)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-insurance-regulation)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-oregon-occupational-safety-and-health-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-workers-compensation-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-workers-compensation-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-energy)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-energy-energy-facility-siting-council)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-environmental-quality)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-fish-and-wildlife)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-forestry)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-geology-and-mineral-industries)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-human-services-child-welfare-programs)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-human-services-home-care-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-human-services-self-sufficiency-programs)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-human-services-vocational-rehabilitation-services)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (appraiser-certification-and-licensure-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-chiropractic-examiners)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-examiners-for-engineering-and-land-surveying)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-examiners-for-speech-language-pathology-and-audiology)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-geologist-examiners)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-licensed-social-workers)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-massage-therapists)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-medical-imaging)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-nursing)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-optometry)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-parole-and-post-prison-supervision)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-pharmacy)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (bureau-of-labor-and-industries)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (chief-education-office)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (citizens-initiative-review-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (columbia-river-gorge-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (commission-for-the-blind)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (construction-contractors-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-albacore-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-alfalfa-seed-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-beef-council)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-blueberry-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-clover-seed-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-dairy-products-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-dungeness-crab-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-fine-fescue-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-hazelnut-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-hop-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-invasive-species-council)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-mint-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-potato-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-processed-vegetable-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-raspberry-and-blackberry-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-ryegrass-growers-seed-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-salmon-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-sheep-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-strawberry-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-sweet-cherry-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-tall-fescue-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-trawl-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-wheat-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-building-codes-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-director-s-office)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-finance-and-securities-regulation)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-health-insurance-marketplace)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-insurance-regulation)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-oregon-occupational-safety-and-health-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-workers-compensation-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-workers-compensation-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-energy)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-energy-energy-facility-siting-council)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-environmental-quality)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-fish-and-wildlife)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-forestry)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-geology-and-mineral-industries)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-human-services-child-welfare-programs)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-human-services-home-care-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-human-services-self-sufficiency-programs)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-human-services-vocational-rehabilitation-services)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-justice)` — policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-public-safety-standards-and-training)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-revenue)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-state-lands)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-state-lands-south-slough-national-estuarine-research-reserve)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-state-police)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-state-police-office-of-state-fire-marshal)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-state-police-oregon-state-athletic-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-transportation)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-transportation-driver-and-motor-vehicle-services-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-transportation-highway-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-transportation-motor-carrier-transportation-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-transportation-public-transit-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-transportation-rail-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-transportation-transportation-safety-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-veterans-affairs)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (eastern-oregon-border-economic-development-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (economic-recovery-review-council)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (employment-department)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (employment-relations-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (higher-education-coordinating-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (higher-education-coordinating-commission-office-of-degree-authorization)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (higher-education-coordinating-commission-office-of-student-access-and-completion)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (judicial-department)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (land-conservation-and-development-department)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (land-use-board-of-appeals)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (landscape-architect-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (landscape-contractors-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (legislative-administration-committee)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (long-term-care-ombudsman)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (mental-health-regulatory-agency-oregon-board-of-psychology)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (mortuary-and-cemetery-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (occupational-therapy-licensing-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (office-of-training-investigations-and-safety)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-529-savings-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-board-of-accountancy)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-board-of-dentistry)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-board-of-naturopathic-medicine)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-board-of-physical-therapy)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-business-development-department)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-criminal-justice-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-department-of-aviation)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-department-of-education)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-department-of-education-early-learning-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-department-of-education-fair-dismissal-appeals-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-department-of-education-youth-development-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-facilities-authority)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-film-and-video-office)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-forest-resources-institute)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-government-ethics-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-equity-and-inclusion-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-board-of-cosmetology)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-board-of-licensed-dietitians)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-environmental-health-registration-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-long-term-care-administrators-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-health-policy-and-analytics)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-health-systems-division-addiction-services)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-health-systems-division-behavioral-health-services)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-health-systems-division-medical-assistance-programs)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-oregon-prescription-drug-program)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-public-employees-benefit-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-health-authority-public-health-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-housing-and-community-services-department)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-investment-council)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-liquor-control-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-medical-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-military-department-office-of-emergency-management)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-patient-safety-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-public-employees-retirement-system)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-racing-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-state-library)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-state-lottery)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-state-marine-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-public-safety-standards-and-training)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-revenue)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-state-lands)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-state-lands-south-slough-national-estuarine-research-reserve)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-state-police)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-state-police-office-of-state-fire-marshal)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-state-police-oregon-state-athletic-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-transportation)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-transportation-driver-and-motor-vehicle-services-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-transportation-highway-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-transportation-motor-carrier-transportation-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-transportation-public-transit-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-transportation-rail-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-transportation-transportation-safety-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-veterans-affairs)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (eastern-oregon-border-economic-development-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (economic-recovery-review-council)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (employment-department)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (employment-relations-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (higher-education-coordinating-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (higher-education-coordinating-commission-office-of-degree-authorization)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (higher-education-coordinating-commission-office-of-student-access-and-completion)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (judicial-department)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (land-conservation-and-development-department)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (land-use-board-of-appeals)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (landscape-architect-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (landscape-contractors-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (legislative-administration-committee)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (long-term-care-ombudsman)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (mental-health-regulatory-agency-oregon-board-of-psychology)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (mortuary-and-cemetery-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (occupational-therapy-licensing-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (office-of-training-investigations-and-safety)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-529-savings-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-board-of-accountancy)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-board-of-dentistry)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-board-of-naturopathic-medicine)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-board-of-physical-therapy)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-business-development-department)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-criminal-justice-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-department-of-aviation)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-department-of-education)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-department-of-education-early-learning-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-department-of-education-fair-dismissal-appeals-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-department-of-education-youth-development-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-facilities-authority)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-film-and-video-office)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-forest-resources-institute)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-government-ethics-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-equity-and-inclusion-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-board-of-cosmetology)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-board-of-licensed-dietitians)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-environmental-health-registration-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-long-term-care-administrators-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-policy-and-analytics)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-systems-division-addiction-services)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-systems-division-behavioral-health-services)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-systems-division-medical-assistance-programs)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-oregon-prescription-drug-program)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-public-employees-benefit-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-public-health-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-housing-and-community-services-department)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-investment-council)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-liquor-control-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-medical-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-military-department)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-military-department-office-of-emergency-management)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-patient-safety-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-public-employees-retirement-system)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-racing-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-state-library)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-state-lottery)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-state-marine-board)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-state-treasury)` — policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-tourism-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-utility-notification-center)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-watershed-enhancement-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-watershed-enhancement-board-oregon-agricultural-heritage-program)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-wine-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (oregon-youth-authority)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (parks-and-recreation-department)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (psychiatric-security-review-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (public-utility-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (public-utility-commission-oregon-board-of-maritime-pilots)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (real-estate-agency)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (secretary-of-state-archives-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (secretary-of-state-audits-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (secretary-of-state-business-services-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (secretary-of-state-corporation-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (secretary-of-state-elections-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (southern-oregon-university)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (state-board-of-architect-examiners)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (teacher-standards-and-practices-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (travel-information-council)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (veterinary-medical-examining-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (water-resources-department)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-tourism-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-utility-notification-center)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-watershed-enhancement-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-watershed-enhancement-board-oregon-agricultural-heritage-program)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-wine-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-youth-authority)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (parks-and-recreation-department)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (psychiatric-security-review-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (public-utility-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (public-utility-commission-oregon-board-of-maritime-pilots)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (real-estate-agency)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (secretary-of-state-archives-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (secretary-of-state-audits-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (secretary-of-state-business-services-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (secretary-of-state-corporation-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (secretary-of-state-elections-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (southern-oregon-university)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (state-board-of-architect-examiners)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (teacher-standards-and-practices-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (travel-information-council)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (veterinary-medical-examining-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (water-resources-department)` — policies_published unknown (where does this agency publish?)
 
 ## Standing item: human verification stamps
 
@@ -1518,6 +1568,10 @@ the attestation the review gates call for. Corpus size by directory:
 - `agencies/department-of-corrections/policies/`: 135 documents
 - `agencies/department-of-human-services/policies/`: 17 documents
 - `agencies/oregon-health-authority/policies/`: 189 documents
+- `agencies/oregon-military-department/policies/`: 4 documents
+- `agencies/oregon-watershed-enhancement-board/policies/`: 3 documents
+- `agencies/oregon-youth-authority/policies/`: 156 documents
+- `agencies/public-utility-commission/policies/`: 1 documents
 - `executive-orders/`: 526 documents
 - `external-references/`: 1 documents
 - `rules/101/001/`: 3 documents

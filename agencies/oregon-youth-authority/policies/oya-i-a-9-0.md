@@ -1,0 +1,323 @@
+---
+id: oya-i-a-9-0
+title: "Parent/Guardian and Family Involvement in Youth Reformation"
+doc_type: policy
+citation: "OYA Policy I-A-9.0"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/I-A-9.0.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "84e27589646f22e261bb8f7caa3372ec6390f1d222a2c88a73a8afe0dfc8d724"
+effective_date: "2021-06-30"
+last_reviewed: null
+source_version: "Effective 06/30/2021"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N I-A-N.N Parent/Guardian and Family Involvem' x6"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-A-9.0.pdf> (retrieved 2026-07-21).
+
+# Parent/Guardian and Family Involvement in Youth Reformation (OYA Policy I-A-9.0)
+
+## At a glance
+
+OYA Policy I-A-9.0 — Parent/Guardian and Family Involvement in Youth Reformation. Oregon Youth Authority. Effective 06/30/2021.
+
+## Full text
+
+                             OREGON YOUTH AUTHORITY
+                                        Policy Statement
+                            Part I – Administrative Services
+ Subject:
+ Parent/Guardian and Family Involvement in Youth Reformation
+ Section – Policy Number:                        Supersedes:         Effective Date:   Date of Last
+                                                                                       Revision:
+ A: General Administration – 9.0             I-A-9.0 (3/20) 06/30/2021
+                                                                           06/30/2025
+                                             I-A-9.0 (9/11)
+                                             I-A-9.0 (3/08)
+ Related             OAR 416, Division 420 (OYA Facility Access, Tours, and YIC
+ Standards            Visitation)
+ and                 Performance-based Standards (PbS), Juvenile Correction and
+ References:          Detention Facilities; Programming
+                     American Correctional Association, Standards for Juvenile
+                      Correctional Facilities; 4-JCF-4C-42 (Parental Notification)
+                     OYA Multidisciplinary Team Standards
+                     OYA policy: 0-2.2 (Relationship with Youth and their Families)
+                      I-A-11.0 (Assessment, Multidisciplinary Teams, and Case
+                      Planning)
+                      I-E-2.1 (Public Records Requests for Agency Records)
+                      I-E-2.3 (Requests for Youth Information and Records)
+                      II-D-1.4 (Medication Management in OYA Facilities)
+                      II-E-1.0 (Notification to Parents/Guardians)
+                      II-E-2.5 (Visits with Youth)
+                      II-F-3.0 (Youth Mail in Close-custody Facilities)
+                      II-F-3.4 (Youth Use of Telephones)
+                      II-E-2.4 (English Plus – Youth [Facility])
+                      III-A-2.2 (English Plus - Youth [Community])
+                      III-B-2.0 (New Commitments to OYA Legal Custody)
+                      III-D-3.0 (Medication Management in Substitute Care)
+                     OYA forms: YA 0055 (Authorization for Release of Information)
+                     OYA Top Things for Families to Know brochures:
+                      English – Facilities English - Community
+                      Spanish – Facilities Spanish - Community
+                      Family Guide to Intake at MacLaren
+                      Family Guide to Oak Creek
+ Related             COM III-B-2.0 (New Commitments to OYA Legal Custody)
+ Procedures:
+ Policy Owner:                                   Approved:
+
+ Assistant Director Development
+ Services                                        _______________________
+                                                 Joseph O’Leary, Director
+
+I.      PURPOSE:
+        This policy establishes uniform standards of practice throughout OYA regarding
+        family involvement in youth reformation.
+
+II.     POLICY DEFINITIONS:
+
+        Family: Includes the biological or legal parents, siblings, child, other relatives,
+        foster parents, legal guardians, spouse, domestic partner, caregivers and other
+        primary relatives to a youth whether by blood, adoption, legal, or social
+        relationships. Family also includes any person (other than an OYA employee)
+        identified by the youth as important who provides formal or informal support and
+        whose positive involvement helps sustain the youth’s reformation process.
+
+        Multidisciplinary Team (MDT): A team of individuals who work collaboratively to
+        develop and maintain a comprehensive individualized case plan that is culturally
+        competent and gender-specific for each youth committed to the Oregon Youth
+        Authority (OYA). The MDT is based on a core team membership consisting of the
+        youth, OYA primary case manager, placement representative, QMHP
+        (facility)/treatment provider (community), tribal representative (for youth enrolled
+        in one of Oregon’s federally recognized tribes) and the parents/guardians.
+        Additional team members are fluid and are identified by the core team based on
+        the youth’s Risk Needs Assessment, identified criminogenic needs and
+        placement.
+
+        Parent/Guardian: One who nurtures, raises, or is legally responsible for the care
+        and management of a minor.
+
+        Published information: Low-sensitive information. Information that is not
+        protected from disclosure, that if disclosed will not jeopardize the privacy or
+        security of agency employees, clients and partners. This includes information
+        regularly made available to the public through electronic, verbal or hard copy
+        media.
+
+III.    POLICY:
+
+        OYA’s mission is to protect the public and reduce crime by holding youth
+        accountable and providing opportunities for reformation in safe environments.
+        Family involvement in a youth’s reformation activities, including assessment,
+        case planning, and treatment, is vital. Youth families include the youth’s parents,
+        guardians, and other relatives and supportive people whose positive involvement
+        help sustain the youth’s positive development process.
+
+        Successful outcomes and the reduction of youth recidivism are often affected by
+        the degree of family involvement in a youth’s treatment. It is particularly effective
+        when families address criminogenic risk factors that increase a youth’s risk to re-
+        offend, and reinforce new behaviors and skills to assist in the youth’s positive
+        development. Returning youth to safe environments in the community and
+        reinforcing their newly-acquired skills creates safer communities.
+
+        It is OYA’s policy to encourage, solicit, and facilitate family involvement in each
+        youth’s case planning, supervision, and treatment. Parents and guardians are
+        included in a youth’s reformation unless they pose a threat to the youth’s safety
+
+        or have a debilitating impact on a youth’s reformation. Other family members
+        may be included in the youth’s reformation as long as they contribute toward the
+        process.
+
+        Additionally, OYA has identified diversity, equity, and inclusion as an agency
+        priority and initiative, with a goal to build a respectful, diverse, equitable and
+        inclusive environment for youth and staff that is free from harassment,
+        discrimination, and bias. Data shows youth of color and LGBTQ+ youth are
+        disproportionately represented in the juvenile justice system. While OYA is only
+        one part of that system, it plays a critical role in addressing the historical and
+        systemic inequities it perpetuates. OYA prioritizes culturally relevant and
+        culturally appropriate services to youth and their families to optimize positive
+        outcomes and reduce these inequities.
+
+        Staff are encouraged to listen to and learn from families about any cultural
+        considerations to be included when developing each youth’s case plan and
+        treatment program. Staff will take specific steps to collaborate with families to
+        ensure they participate and are included in their youth’s reformation.
+
+IV.     GENERAL STANDARDS:
+
+        A.     Sharing Information
+
+               1.      Staff must share published information with youth families upon
+                       request.
+
+               2.      Information pertinent to the youth’s case plan, reports and other
+                       materials regarding the youth’s case history and prognosis may be
+                       shared if:
+
+                       a)      The youth has signed a release of information form
+                               YA 0055 (Authorization for Release of Information); or
+
+                       b)      The youth is under 18 years old and the staff is sharing the
+                               information with the youth’s parent/guardian and the sharing
+                               of information is of benefit to the youth’s reformation.
+
+                               If the youth is uncomfortable sharing this information with a
+                               parent or guardian, staff will help the youth and family
+                               develop a plan to address the concerns.
+
+               3.      Medical information (for youth age 15 and older), and substance
+                       abuse and mental health clinical information (for youth age 14 and
+                       older) is generally not disclosable without the youth’s consent, but
+                       may be shared with a parent/guardian pursuant to Oregon laws by
+                       the treatment provider.
+
+                       Staff must refer to Health Services or Public Policy/Government
+                       Relations staff for clarity if a parent or guardian requests such
+                       information and the youth has not signed a release of information.
+
+        B.     Orientation
+
+              1.      Parents and guardians will be mailed a parent orientation packet
+                      when a youth is placed in OYA custody. The orientation information
+                      will be provided in the parent/guardian’s preferred non-English
+                      language, if known and available.
+
+                      a)      For youth placed in a community setting, parent orientation
+                              packets must be mailed immediately upon the assignment of
+                              a JPPO by the field office where the JPPO is assigned.
+
+                      b)      For youth placed in a close-custody facility, the facility staff
+                              must mail parent orientation packets immediately upon the
+                              youth’s intake into MacLaren YCF or Oak Creek YCF.
+
+              2.      Parent orientation packets must include at least the following:
+
+                      a)      General information about OYA;
+
+                      b)      Information on how to report abuse;
+
+                      c)      Information concerning the grievance process;
+
+                      d)      Pertinent OYA contact information;
+
+                      e)      Information on language and cultural services; and
+
+                      f)      Family Guide to Intake at MacLaren; or Family Guide to Oak
+                              Creek for youth committed to a close-custody facility.
+
+                      Most of this information is contained in the “Youth in the
+                      Community: Top Things for Families to Know” and “Youth in Close
+                      Custody: Top Things for Families to Know documents.
+
+              3.      The JPPO (community placement youth) and case coordinator
+                      (facility youth) must discuss the information contained in the parent
+                      orientation packet with the parents and guardians prior to the initial
+                      Multidisciplinary Team (MDT) meeting.
+
+              4.      If a youth subsequently transfers to another OYA facility, facility
+                      staff must mail parents/guardians orientation packets specific to the
+                      subsequent facility upon the youth’s arrival.
+
+        C.    Intake Assessment
+
+              1.      Staff must contact and interview parents/guardians to complete the
+                      OYA Risk/Needs Assessment.
+
+              2.      Staff must encourage parents/guardians to participate in the youth’s
+                      assessment.
+
+              3.      Staff must explain parents/guardians and staff roles and
+                      responsibilities.
+
+              4.      Staff must ensure parents/guardians sign applicable release of
+                      information forms.
+
+              5.      Staff must discuss youth and family’s language and cultural needs.
+
+              6.      Staff must discuss family counseling or parenting programs options
+                      with parents/guardians.
+
+              7.      Staff must discuss family support resources (e.g. peer-to-peer
+                      support or parent support groups).
+
+        D.    Multidisciplinary Teams (MDT)
+
+              Families are central to the case planning process. MDT scheduling must
+              accommodate family members. All staff must reinforce to the family the
+              importance of their participation.
+
+              1.      The JPPO (community placement youth) and case coordinator
+                      (facility youth) must contact parents/guardians to schedule the
+                      MDT.
+
+              2.      JPPOs and case coordinators must make accommodations,
+                      including videoconferencing and telephone conferencing, to support
+                      parent/guardian participation.
+
+        E.    Notification
+
+              Parents/guardians must be notified of significant events or changes that
+              impact youth. See OYA policy I-E-5.0 (Notification to Parents/Guardians)
+              for related procedures.
+
+        F.    Visitation
+
+              Family members are encouraged to visit the youth.
+
+              1.      The visiting approval/denial process in OYA facilities is outlined in
+                      OYA policy II-E-2.5 (Visiting with Youth).
+
+              2.      OYA must follow court orders that affect family visitation.
+
+        G.    Suspension of Family Member Involvement
+
+              Parents/guardians must be included in the youth’s case planning and
+              treatment process unless there is clear evidence that the
+              parents/guardians pose a safety risk to the youth or is detrimental to the
+              youth’s reformation. Other family members may be included in the youth’s
+              case planning and treatment process as long as they support and
+              contribute toward these efforts.
+
+              1.      Any recommendation to temporarily suspend a family member’s
+                      involvement in a youth’s case planning and treatment process must
+                      be made by the youth’s MDT and will address a specific area of
+                      concern.
+
+              2.      Any decision to temporarily suspend a family member’s
+                      involvement (other than parent/guardian) in a youth’s case planning
+                      and treatment process must be made by the appropriate field
+                      supervisor or facility superintendent/camp director.
+
+              3.      Any decision to temporarily suspend a parent/guardian’s
+                      involvement in a youth’s case planning and treatment process must
+                      be made by the appropriate assistant director and will be
+                      communicated in writing to the parent/guardian by the assistant
+                      director, including clear expectations and steps for reinstating the
+                      parent/guardian’s involvement.
+
+              4.      The MDT must review the temporary suspension of a family
+                      member’s involvement for possible reinstatement monthly.
+
+V.      LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/I-A-9.0.pdf> · retrieved 2026-07-21 · sha256 `84e27589646f22e261bb8f7caa3372ec6390f1d222a2c88a73a8afe0dfc8d724`
+- Snapshot: `_meta/snapshots/oya-i-a-9-0.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

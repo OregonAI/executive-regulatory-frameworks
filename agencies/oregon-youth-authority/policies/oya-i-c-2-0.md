@@ -1,0 +1,569 @@
+---
+id: oya-i-c-2-0
+title: "Use of State-Owned Vehicles"
+doc_type: policy
+citation: "OYA Policy I-C-2.0"
+authority_level: state_policy
+issuing_body: "Oregon Youth Authority"
+agency: oregon-youth-authority
+legal_authority: []
+source_url: "https://www.oregon.gov/oya/policies/I-C-2.0.pdf"
+source_format: pdf
+retrieved: "2026-07-21"
+source_sha256: "d48212da2cb7cae9460d4ba1fff5243983a6164b7bf85fbba14e9b0806a7023c"
+effective_date: "2024-10-29"
+last_reviewed: null
+source_version: "Effective 10/29/2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "stripped page line 'Page N of N I-C-N.N Use of State-owned Vehicles Effecti' x10"
+last_verified: "2026-07-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - ors-283.305
+    - ors-283.395
+    - ors-806.010
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['oregon-youth-authority', 'policy']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-C-2.0.pdf> (retrieved 2026-07-21).
+
+# Use of State-Owned Vehicles (OYA Policy I-C-2.0)
+
+## At a glance
+
+OYA Policy I-C-2.0 — Use of State-Owned Vehicles. Oregon Youth Authority. Effective 10/29/2024.
+
+## Full text
+
+                            OREGON YOUTH AUTHORITY
+                                     Policy Statement
+                            Part I – Administrative Services
+
+ Subject:
+ Use of State-owned Vehicles
+ Section – Policy Number:                Supersedes:               Effective Date:   Date of Last
+                                         I-C-2.0 (10/21)                             Revision/Review:
+ C: Property Management – 2.0            I-C-2.0 (12/13)           10/29/2024        None
+                                         I-C-2.0 (12/11)
+                                         I-C-2.0 (9/08)
+                                         I-C-2.0 (7/04)
+                                         I-C-2.0 (6/03)
+                                         I-C-2.1 (9/02 Info
+                                         Letter)
+ Related             ORS 283.305 through 283.395 (Control and regulation of state-
+ Standards            owned motor vehicles)
+ and                 ORS 806.010 (Oregon’s Mandatory Insurance Law)
+ References:         OAR 125-155 (State Vehicle Use and Access)
+                     DAS, Enterprise Asset Management, Fleet and Parking Services
+                      policy:
+                      107-011-040 PO (Statewide Fleet Management)
+                     DAS, Risk Management Division (DAS-RMD) Travel Kit: A Guide
+                      to Managing Risks While on the Road
+                     Oregon Accounting Manual, 40.10.00.PO (Statewide Travel
+                      Policy)
+                     Applicable Collective Bargaining Agreements AFSCME Local 191;
+                      SEIU Institutions Coalition
+                     OYA policy: I-A-4.0 (Tort Liability and Claims)
+                      I-C-7.0 (Safety and Health Program)
+                      II-A-3.1 (Facility Youth Transports and Escorted Trips)
+                      III-D-2.1 (Youth Transports and Escorts within the Community)
+                     OYA forms: YA 0029 (OYA Mileage Report)
+                      YA 0030 (State Vehicle Inspection Report Checklist)
+                      YA 8008 (Application for Employment – Driving Record
+                      Certification)
+                      YA 8300 (Incident/Accident/Hazard Report)
+                      YA 8313 (Supervisor Responsibilities for Filing SAIF/Workers
+                      Comp Claims)
+                      YA 8321 (Authorization to Use Private Vehicle)
+                     Other forms: SAIF 801 (Workers’ Compensation Claim Form 801)
+ Related             None
+ Procedures:
+ Policy Owner:                                Approved:
+
+ Facilities Manager
+                                              _____________________
+                                              Joseph O’Leary, Director
+
+I.     PURPOSE:
+
+       This policy provides OYA staff guidelines for using state vehicles in a way that
+       promotes safety, economy, good public relations, and complies with state rules
+       and policy.
+
+II.    POLICY DEFINITIONS:
+
+       Official state business or state business: Any activity conducted in
+       conformance to this policy and controlled by OYA to advance the lawful policies
+       and purposes of the agency. State law requires a narrow interpretation of this
+       term.
+
+       Official workstation: The location designated in writing by OYA from which a
+       staff normally carries out their duties.
+
+       Private vehicle: A motor vehicle that is owned, rented, borrowed, leased, or
+       otherwise lawfully in the possession and control of any private person or any
+       entity other than the state. Private vehicles, when in use for state business, are
+       treated as state vehicles in this policy.
+
+       State vehicle: A motor vehicle owned, rented, borrowed, leased, or otherwise
+       under the possession and control of the state. It is licensed for highway use.
+
+       Vehicle custodian: OYA staff responsible for review and reconciliation of
+       vehicle mileage logs.
+
+       Volunteer: An unpaid person appointed by OYA to work on its behalf.
+       Volunteers are appointed in writing to do state business under agency direction
+       and control. They receive no compensation.
+
+III.   POLICY:
+
+       OYA is committed to a safe work environment, including prevention of work-
+       related automobile accidents and incidents through staff awareness and training.
+       Staff may use state-owned vehicles to conduct official state business. Staff must
+       use state vehicles legally, courteously, and safely.
+
+       Staff are expected to maintain a good driving record, and to recognize that off-
+       duty incidents may affect OYA employment status. In addition, staff are
+       cautioned that all on-duty traffic citations, citizen complaints, accidents, and
+       vehicle incidents will be reviewed and may result in disciplinary action, up to and
+       including dismissal from state service.
+
+IV.    GENERAL STANDARDS:
+
+       A.      Staff and representatives must use state vehicles in a way that promotes
+               safety, economy, and good public relations.
+
+       B.      In all cases, persons who use a motor vehicle must have a valid driver’s
+               license.
+
+       C.      Transportation as required in performance of duties for official state
+               business is an obligation. Transportation between home and a staff’s
+               workplace is a personal obligation.
+
+       D.      Efficient and economical use of state vehicles is required of all drivers.
+               Each driver must select the method of transportation most advantageous
+               to state government, when cost and other factors are considered.
+
+               The travel should be by the most expeditious means of transportation
+               practicable and commensurate with the nature and purpose of the
+               employee’s duties. Also considered is energy conservation, total cost to
+               state government (including costs of per diem, overtime, lost work time,
+               and actual transportation costs), total distance traveled, number of points
+               visited, and number of travelers.
+
+       E.      Privately-owned vehicles may be used for official travel when such use
+               benefits OYA and is authorized by the staff’s supervisor/manager.
+               Approval must be documented on a completed form YA 8321
+               (Authorization to Use Private Vehicle).
+
+       F.      State liability insurance coverage
+
+               1.     State-owned vehicles
+
+                      Coverage is provided to staff and authorized users of state-owned,
+                      controlled, or leased vehicles for injuries to persons and property.
+
+               2.     Privately-owned vehicles
+
+                      a)     Coverage is provided for OYA staff using their own vehicles
+                             only if the staff is engaged in an activity within their scope of
+                             employment, and is secondary to insurance provided by the
+                             staff’s own policy.
+
+                      b)     A staff member who elects to use their private vehicle for
+                             official travel must have a completed form YA 8321
+                             (Authorization to Use Private Vehicle) on file with Central
+                             Accounting.
+
+       G.      OYA job announcements and position descriptions must clearly state the
+               position’s driving responsibilities, including whether driving is an essential
+               function of the job.
+
+               Managers, supervisors, and Human Resources must review each position
+               description to determine if driving is an essential function of the job prior to
+               posting job the announcement. Limiting driving as an essential job function
+               broadens the pool of qualified applicants, allowing a more diverse,
+               equitable, and inclusive workforce.
+
+       H.      Minimum driver requirements
+
+               To drive any motor vehicle on state business, a driver must:
+
+               1.    Be 18 years or older, legally responsible for their actions and
+                     contracts, and subject to OYA’s direction and control;
+
+               2.    Hold an acceptable driver’s license;
+
+                     An acceptable driver’s license is a regular, temporary, or
+                     commercial license that is lawful, current, and valid.
+
+               3.    Qualify to drive under this policy and any rules or policies of the
+                     State of Oregon; and
+
+               4.    Have permission from OYA to drive.
+
+       I.      Operating state-owned vehicles:
+
+               1.    Generally, only state employees are authorized to operate state
+                     vehicles.
+
+               2.    OYA volunteers may occasionally operate state vehicles under
+                     these circumstances:
+
+                     a)     The appropriate supervisor/manager has verified a business
+                            need and approved of the vehicle use in writing; and
+
+                     b)     The volunteer meets the minimum driver requirements listed
+                            in section H above.
+
+               3.    Staff may transport people or things to the extent needed to
+                     accomplish state business. Prior authorization from the staff
+                     member’s supervisor/manager is required for passengers who are
+                     not state employees or youth (including observers, minors, pets, or
+                     family members). Such approval must comply with DAS rule OAR
+                     125-155-0420 (Passengers).
+
+                     Transporting youth is addressed in OYA policies II-A-3.1 (Facility
+                     Youth Transports and Escorted Trips) and III-D-2.1 (Youth
+                     Transports and Escorts within the Community).
+
+               4.    Hitchhikers are not allowed in any state vehicle or private vehicle
+                     on state business.
+
+       J.      Twelve-passenger vans
+
+               1.    In an effort to reduce the rollover hazards of vans designed to carry
+                     12 passengers, OYA requires compliance with the following
+                     directives.
+
+                     a)     Roof-top carriers must not be used on vans.
+
+                     b)     Regardless of van capacity, no more than 12 people (total of
+                            staff and youth) may be transported per van.
+
+               2.     Supervisors/Managers must ensure all staff who operate such vans
+                      are trained using the OYA Training Academy curriculum.
+
+       K.      Staff must follow all traffic laws and ordinances while driving during state
+               business.
+
+               1.     Individuals are personally responsible for traffic tickets, citations,
+                      and fines imposed while operating a state vehicle.
+
+               2.     Approved automobile safety restraints must be operational at all
+                      times, unmodified, and used by the driver and all passengers.
+
+               3.     Drivers must not consume alcohol in vehicles nor operate a vehicle
+                      under the influence of intoxicants. Alcohol must not be transported
+                      in a state vehicle.
+
+               4.     Drivers must not transport weapons, illegal drugs, or contraband of
+                      any kind in state vehicles except as necessary to carry out their
+                      assigned duties of official state business.
+
+       L.      Vehicle logs
+
+               1.     State vehicle use must be documented in the trip mileage log
+                      (YA 0029) when driving outside the official workstation (facility or
+                      office).
+
+               2.     OYA assistant directors must designate a custodian of each state-
+                      owned vehicle within their purview.
+
+                      The vehicle custodian must review vehicle mileage logs every 90
+                      days. A notation of the custodian’s review and whether the vehicle
+                      use complied with state and OYA policy must be made on the log.
+
+                      a)      Potential misuse of the vehicle noted during the vehicle log
+                              review must be reported to the appropriate assistant director.
+
+                      b)      Vehicle mileage logs must be retained by the custodian. The
+                              logs must be destroyed four years after their creation.
+
+               3.     The vehicle custodian must send copies of their vehicle mileage log
+                      reviews to the appropriate assistant director on a quarterly basis.
+
+       M.      Day use
+
+               “Day use” means the driver of a state vehicle is not staying away overnight
+               due to state business.
+
+               1.     During day use, the driver may only travel for state business. No
+                      personal business is allowed.
+
+               2.     The state vehicle must not be used to reach personal recreational
+                      activity sites, personal appointments, grooming or fitness facilities,
+
+                      or personal visits; or for transportation of, or errands for, friends or
+                      relatives.
+
+               3.     Staff may stop for food or breaks at sites reasonably near to their
+                      direct business destination route.
+
+       N.      Overnight use
+
+               “Overnight use” means the driver of a state vehicle is staying overnight on
+               state business.
+
+               During overnight use, state vehicles may be used for staffs’ daily
+               necessities. The minimum necessary use of the state vehicle is permitted
+               to meet drivers’ and passengers’ normal daily needs. Such travel must be
+               within the local vicinity of the direct travel route or of the overnight
+               assignment, and during reasonable hours.
+
+               The driver may travel to:
+
+               1.     Restaurants, stores, etc. for meals, breaks, and personal needs;
+
+               2.     Facilities for grooming, medical treatment, fitness, or laundry; and
+
+               3.     Recreational activity sites such as theaters, parks, or friends’ or
+                      relatives’ homes.
+
+       O.      A person may lose permission to drive state vehicles if the person:
+
+               1.     Commits a driving-related offense or violation; or
+
+               2.     Violates this policy.
+
+       P.      Driver assessment and training
+
+               The following standards apply to staff whose position descriptions include
+               driving as a part of their job function and staff whose position descriptions
+               include driving as an essential job function.
+
+               1.     Prior to employment, Human Resources must assess and review
+                      the applicant’s driving record, and verify current driver license
+                      status via OYA form YA 8008 (Application for Employment –
+                      Driving Record Certification). All employment offers must be
+                      contingent upon proof of an acceptable driving record.
+
+               2.     A staff member must immediately report to the staff member’s
+                      supervisor/manager (no later than the next working day) if the staff
+                      member’s driver’s license is suspended or restricted, and decline
+                      any work-related requests to operate a motor vehicle. Upon notice,
+                      supervisors/managers must temporarily suspend the staff
+                      member’s work-related driving privilege and contact Human
+                      Resources to determine appropriate action.
+
+               3.    All new OYA staff must complete a defensive driver training during
+                     their first year of employment with OYA.
+
+                     a)     The OYA Training Academy must provide a driver safety and
+                            use of state-owned vehicle course.
+
+                     b)     A refresher course may be taken as determined by the staff
+                            member’s supervisor/manager.
+
+       Q.      Vehicle procurement
+
+               1.    An assistant director may authorize procurement of a state vehicle
+                     for offices or facilities under the assistant director's purview.
+
+               2.    State vehicles may be assigned to OYA or to an OYA staff member
+                     on a permanent basis when extended and continuous use of a
+                     motor vehicle is required, and use will exceed the minimum monthly
+                     mileage requirement (see section R below).
+
+               3.    Vehicles may be reserved in advance from the state motor pool by
+                     contacting the motor pool dispatcher for temporary use.
+
+       R.      Minimum mileage requirements
+
+               Each OYA regular fueled and hybrid vehicle must meet a minimum
+               monthly mileage requirement to ensure the vehicle is used in an efficient
+               and cost-effective way. Because of their limited range and lack of refueling
+               infrastructure, compressed natural gas, hydrogen powered, and electric
+               vehicles are exempt from minimum mileage requirements.
+
+               1.    OYA regular fueled and hybrid vehicles must be driven at least 600
+                     miles per month.
+
+               2.    Management staff may request an exemption from the minimum
+                     monthly mileage requirement in writing through the OYA facilities
+                     manager.
+
+               3.    The below-listed criteria may be considered by the OYA facilities
+                     manager when reviewing a minimum mileage requirement
+                     exemption request:
+
+                     a)     The vehicle requires specific identification or has special
+                            safety considerations for youth transports, site visits, or
+                            home visits;
+
+                     b)     The vehicle has a special modification, carries equipment, or
+                            carries property required to conduct the work tasks of the
+                            agency;
+
+                     c)     The vehicle supports services to a remote facility, remote
+                            area, or for a seasonal setting; or
+
+                     d)     The vehicle is required for circumstances not listed above.
+
+               4.    After consultation with the appropriate assistant director, the OYA
+                     facilities manager will forward the exemption request to DAS Fleet
+                     and Parking Services for final determination.
+
+               5.    Removing vehicles that do not meet the minimum mileage
+                     requirement or exemption
+
+                     a)     The vehicle user may be allowed six months to raise the
+                            vehicle mileage to or above the minimum.
+
+                     b)     If the vehicle's minimum mileage is not met within the six-
+                            month period, the vehicle must be reassigned to a work area
+                            that can meet the minimum mileage requirement, or the
+                            vehicle must be returned to DAS Fleet and Parking Services.
+
+               6.    Nonexempt under-minimum-mileage vehicles may not be replaced.
+
+       S.      Vehicle storage
+
+               1.    Staff must store state vehicles at sites owned, leased, or controlled
+                     by the state except during travel or for other business purposes
+                     with the approval of a supervisor/manager.
+
+               2.    When possible, a state vehicle stored at any other location must be
+                     parked off the public street in a reasonably secure setting.
+
+       T.      Vehicle maintenance
+
+               Maintaining state vehicles in good working order is an essential
+               component of vehicle safety.
+
+               1.    Staff must not operate a vehicle that needs repair, or is damaged,
+                     to the extent that it is unsafe to drive.
+
+               2.    Staff must adhere to DAS maintenance schedules.
+
+               3.    Supervisors/Managers must ensure that staff complete a monthly
+                     State Vehicle Inspection Report Checklist (YA 0030) for all
+                     vehicles.
+
+               4.    Supervisors/Managers must coordinate vehicle repairs or
+                     maintenance with state motor pool. Service provided by private
+                     repair shops must be authorized in advance by the state motor
+                     pool.
+
+               5.    Supervisors/Managers are responsible for maintaining the interior
+                     and exterior of the vehicle in good repair and clean condition.
+
+               6.    Damage to state-owned vehicles as a result of vandalism must be
+                     reported immediately to the supervisor/manager, who will contact
+
+                     the OYA risk management coordinator, the state motor pool, and
+                     local law enforcement.
+
+               7.    The DAS motor pool credit card use is restricted to fuel and oil
+                     purchases, preauthorized service work, and emergency repairs as
+                     specified in the vehicle information packet.
+
+                     The credit card may only be used for the state vehicle to which the
+                     card is assigned.
+
+               8.    Purchase of vehicle supplies such as tires, batteries, antifreeze and
+                     similar items must be through regular state contracts, SPOTS
+                     cards, or purchase orders.
+
+        U.     Accident reporting and review
+
+               1.    Following an accident, staff are cautioned not to discuss the
+                     accident with anyone except the police, state officials, or a state
+                     risk management representative.
+
+                     The driver must complete the following forms for every accident,
+                     regardless of damage or cost, and forward them to the appropriate
+                     supervisor/manager who will review and forward the documentation
+                     to the central risk management coordinator within five working days
+                     of the date of the accident.
+
+                     a)     For accidents occurring in state vehicles staff must
+                            complete:
+
+                            (1)    A Risk Management Accident Report Packet (found in
+                                   the vehicle glove compartment); and
+
+                            (2)    A YA 8300 (Incident/Accident/Hazard Report).
+
+                            (3)    If staff is injured, staff must complete an Injured
+                                   Worker’s Packet.
+
+                     b)     For accidents occurring in personal vehicles while
+                            completing state business:
+
+                            (1)    Staff must complete OYA form YA 8300.
+
+                            (2)    Staff must also complete the Injured Worker’s Packet
+                                   if injured.
+
+               2.    Staff must promptly report to their supervisor/manager any vehicle
+                     accident, citation or warning, or incident that occurs while driving a
+                     state-issued or personal vehicle in the performance of state
+                     business.
+
+                     The supervisor/manager, Human Resources staff, and the staff
+                     member who was in the accident must promptly review all such
+
+                      incidents and document the outcome of the review in the staff
+                      member’s supervisory file. The appropriate assistant director must
+                      be notified of such review and its outcome.
+
+                3.    The risk management coordinator must:
+
+                      a)     Maintain the agency repository of data relating to vehicle
+                             claims, citations, and citizen complaints;
+
+                      b)     Report citations and citizen complaints to the appropriate
+                             assistant director and supervisor/manager, and track
+                             process to closure; and
+
+                      c)     Provide vehicle reports annually to the OYA safety manager.
+
+                4.    Human Resources will work with the risk management coordinator
+                      to distribute accident, injury, citation and citizen complaint data.
+
+       V.       The OYA safety manager must develop strategies to improve vehicle
+                safety and prevent accidents.
+
+       W.       Staff response to roadside emergencies
+
+                A roadside emergency is an obvious accident or breakdown that leaves a
+                vehicle's occupants dangerously stranded. Someone just hitchhiking or
+                asking for a ride, or someone in a city with a mechanical breakdown are
+                not roadside emergencies.
+
+                1.    Staff must not stop to give emergency aid while transporting youth.
+                      Staff may call 9-1-1 or use a state mobile communication device to
+                      call for assistance.
+
+                2.    Rendering aid is purely voluntary. Staff are not urged or expected
+                      to render aid. A staff member should do only what they are willing
+                      and trained or experienced to do.
+
+                3.    Staff may render reasonable aid to a roadside emergency by using
+                      a state mobile communication device to call for aid. If necessary,
+                      the state vehicle may be used to transport someone to the nearest
+                      telephone, shelter, repair service or emergency medical provider.
+                      State first aid kits and blankets may be used.
+
+                4.    Staff may use a state vehicle to transport an injured staff member
+                      or youth to emergency medical care. Traffic laws must be obeyed.
+                      A state vehicle must not be used for transport unnecessarily or
+                      when appropriate professional emergency services are available.
+
+V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/oya/policies/I-C-2.0.pdf> · retrieved 2026-07-21 · sha256 `d48212da2cb7cae9460d4ba1fff5243983a6164b7bf85fbba14e9b0806a7023c`
+- Snapshot: `_meta/snapshots/oya-i-c-2-0.pdf`
+- See [CHANGELOG](./CHANGELOG.md).

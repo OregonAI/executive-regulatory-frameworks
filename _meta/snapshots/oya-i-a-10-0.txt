@@ -1,0 +1,1036 @@
+                              OREGON YOUTH AUTHORITY
+                                      Policy Statement
+                              Part I – Administrative Services
+
+   Subject: Preventing, Detecting, and Responding to Youth Sexual Abuse and
+   Sexual Harassment
+   Section – Policy Number:                    Supersedes:          Effective Date:   Date of Last
+                                                                                      Revision/Review:
+   A: General Administration – 10.0            I-A-10.0 (10/21)     09/24/2025
+                                               I-A-10.0 (07/17)                       None
+                                               I-A-10.0 (12/14)
+                                               I-A-10.0 (7/14)
+                                               I-A-10.0 (1/13)
+                                               I-A-10.0 (12/10)
+                                               II-B-4.0 (10/05)
+   Related              Public Law 108-79 Prison Rape Elimination Act (PREA) of 2003
+   Standards            28 CFR Part 115 National Standards to Prevent, Detect, and Respond to Prison
+                         Rape Under PREA
+   and                  National Commission on Correctional Health Care, Standards for Health
+   References:           Services in Juvenile Detention and Confinement Facilities,
+                         Y-B-06 (Procedure in the Event of Sexual Assault)
+                        American Correctional Association, Standards for Juvenile Correctional
+                         Facilities; 5-JCF-3D-02 through 5-JCF-3D-09 (Sexual Abuse and Assault
+                         (PREA)); 5-JCF-5C-51 (Sexual Assault)
+                        Performance-based Standards (PbS), Juvenile Correction and Detention
+                         Facilities; Safety
+                        DAS Policy 50.010.03: Maintaining a Professional Workplace
+                        Attachment A (OYA Contract Requirements Regarding Sexual Abuse
+                         Prevention and Response)
+                        Youth Safety Guide
+                        OYA policy: 0-2.3 (Mandatory Reporting of Abuse)
+                          I-A-10.1 (Meeting LGBTQ+ Youth Needs)
+                          I-E-1.0 (Director’s Incident Notification and Report)
+                          I-E-4.0 (Incident Reviews)
+                          II-A-1.2 (Preserving Chain of Evidence)
+                          II-B-2.1 (Youth Behavior Management)
+                          II-D-1.0 (Facility Health Services)
+                          II-D-2.2 (Suicide Prevention in Close-custody Facilities)
+                          II-F-1.1 (Youth Grievance Process - Facility)
+                          II-F-3.4 (Youth Use of Telephone)
+                          III-A-1.0 (Youth Incident Reports - Community)
+                          III-B-4.0 (Youth Rights and Grievances in the Community)
+                        OYA forms: YA 1958 (Facility First Responders to Sexual Abuse Checklist)
+                          YA 1959 (Facility SARRT Sexual Abuse Incident Checklist)
+                          YA 4033 (Intake Close-custody Youth Sexual Safety Education)
+                          YA 4037 (Facility Staffing Plan PREA Review)
+                          YA 4452 (Psychology Progress Report)
+                          YA 4453 (Psychiatric Progress Report)
+                          YA 8037 (PREA Questionnaire)
+   Related              FAC I-A-10.0 Monitoring Youth for Retaliation
+   Procedures:          FAC I-E-4.0 Youth Incident Report (YIR)
+                        FAC I-A-10.0(b) OYA VSAB Placement Tool
+                        HS I-A-10.0 Responding to Youth Sexual Abuse/Assault
+
+
+
+
+Page 1 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+      Policy Owner:                              Approved:
+      Deputy Director
+                                                 _____________________________
+                                                 Mike Tessean, Director
+
+I.       PURPOSE:
+
+         This policy provides guidelines for staff to prevent, detect, and respond to all forms
+         of sexual abuse and sexual harassment within OYA facilities and community
+         placements. It also complies with the Prison Rape Elimination Act (PREA) of 2003
+         and related national standards.
+
+II.      POLICY DEFINITIONS:
+
+         Executive team: An executive group that provides oversight of agency operations.
+
+         Gender nonconforming: A person whose appearance or manner does not conform
+         to traditional societal gender expectations.
+
+         Institutional employer: A prison, jail, lockup, community confinement facility,
+         juvenile facility, or other “institution” as that term is defined in the Civil Rights of
+         Institutionalized Persons Act (CRIPA), 42 U.S.C. 1997 et seq. to include state
+         facilities for persons who are mentally ill, disabled, or retarded, or chronically ill or
+         handicapped; residential care or treatment facilities for juveniles; and facilities that
+         provide skilled nursing, intermediate or long-term care, or custodial or residential
+         care. See 42 U.S.C. 1997(1)
+
+         Intersex: A person whose sexual or reproductive anatomy or chromosomal pattern
+         does not seem to fit typical definitions of male or female. Intersex medical conditions
+         are sometimes referred to as disorders of sex development.
+
+         LGBTQ+: People who have identified themselves or may be perceived as lesbian,
+         gay, bisexual, transgender, queer, questioning, gender diverse, gender fluid or
+         intersex.
+
+         Mental health practitioner: A qualified mental health professional (QMHP),
+         psychiatric mental health nurse practitioner, psychiatrist, or psychologist.
+
+         PREA: Prison Rape Elimination Act of 2003.
+
+         PREA compliance manager (PCM): Management staff designated by the
+         superintendent or camp director with sufficient time and authority to coordinate the
+         facility’s efforts to comply with the PREA standards.
+
+         PREA coordinator: A full-time OYA staff member whose responsibilities include
+         developing, implementing, and overseeing the agency’s plan for zero tolerance of
+         sexual abuse and sexual harassment.
+
+         Retaliation: When a youth or staff injures, harms, or intimidates a person who has
+         reported sexual abuse/harassment, has cooperated in an investigation, or is the
+         alleged victim of the sexual abuse/harassment; or any attempts to do so.
+Page 2 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+       Sexual abuse: Includes (1) sexual abuse of a youth by another youth; and
+       (2) sexual abuse of a youth by a staff member, contractor, or volunteer.
+
+           (1) Sexual abuse of a youth by another youth includes any of the following acts if
+               the victim does not consent, is coerced into such act by overt or implied
+               threats of violence, or is unable to consent or refuse:
+               a) Contact between the penis and the vulva or the penis and the anus,
+                   including penetration, however slight;
+               b) Contact between the mouth and the penis, vulva, or anus;
+               c) Penetration of the anal or genital opening of another person, however
+                   slight, by a hand, finger, object, or other instrument; and
+               d) Any other intentional touching, either directly or through the clothing, of the
+                   genitalia, anus, groin, breast, inner thigh, or the buttocks of another
+                   person, excluding contact incidental to a physical altercation.
+           (2) Sexual abuse of a youth by a staff member, contractor, or volunteer includes
+               any of the following acts, with or without consent of the youth:
+               a) Contact between the penis and the vulva or the penis and the anus,
+                  including penetration, however slight;
+               b) Contact between the mouth and the penis, vulva, or anus;
+               c) Contact between the mouth and any body part where the staff member,
+                  contractor, or volunteer has the intent to abuse, arouse, or gratify sexual
+                  desire;
+               d) Penetration of the anal or genital opening, however slight, by a hand,
+                  finger, object, or other instrument, that is unrelated to official duties or
+                  where the staff member, contractor, or volunteer has the intent to abuse,
+                  arouse, or gratify sexual desire;
+               e) Any other intentional contact, either directly or through the clothing, of or
+                  with the genitalia, anus, groin, breast, inner thigh, or the buttocks, that is
+                  unrelated to official duties, or where the staff member, contractor, or
+                  volunteer has the intent to abuse, arouse, or gratify sexual desire;
+               f) Any attempt, threat, or request by a staff member, contractor, or volunteer
+                  to engage in the activities described in paragraphs (a)-(e) of this section;
+               g) Any display by a staff member, contractor, or volunteer of his or her
+                  uncovered genitalia, buttocks, or breast in the presence of a youth; and
+               h) Voyeurism by a staff member, contractor, or volunteer is an invasion of
+                  privacy of a youth by a staff member, contractor, or volunteer for reasons
+                  unrelated to official duties, such as peering at a youth who is using a
+                  toilet in his or her cell to perform bodily functions; requiring a youth to
+                  expose his or her buttocks, genitals, or breasts; or taking images of all or
+                  part of a youth’s naked body or of a youth performing bodily functions.
+
+       Sexual harassment: Includes -
+       (1) Repeated and unwelcome sexual advances, requests for sexual favors; or verbal
+       comments, gestures, or actions of a derogatory or offensive sexual nature by one
+       youth directed toward another; and
+       (2) Repeated verbal comments or gestures of a sexual nature to a youth by a staff
+       member, contractor, or volunteer, including demeaning references to gender,
+       sexually suggestive or derogatory comments about body or clothing, or obscene
+       language or gestures.
+
+
+Page 3 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+       Sexual abuse response and resource coordinator (SARRC): Staff, preferably
+       management, designated by the facility superintendent, camp director, or assistant
+       director who coordinates responses, reporting, and follow-up to youth sexual abuse
+       incidents.
+       Sexual Abuse Response and Resource Team (SARRT): A team of individuals
+       who work collaboratively in response to sexual abuse. The team is based on a core
+       membership of the PCM, SARRC, youth’s OYA primary case manager and QMHP.
+
+       Sexually aggressive youth: A youth committing sexual abuse against another
+       youth, or coercing sex from another youth in exchange for protection or other favors.
+
+       Volunteers: Persons, who, on a non-paid basis, provide services to OYA, including:
+       (a) Mentors: Mature, trustworthy and experienced persons who encourage a youth’s
+       personal growth, offer supportive friendships, act as positive role models and
+       promote a constructive attitude and law-abiding behavior.
+       (b) Work Readiness Coaches: Persons who teach particular skills/tasks related to
+       employment, or provide practical work experience.
+       (c) Students or Interns: Persons enrolled in a college or university-sanctioned
+       program who earn college credit for their activities.
+       (d) Tutors: Persons who work with individual youth to improve the youth's academic
+       performance.
+       (e) Religious Services Assistants: Persons who assist with religious programming or
+       services.
+
+       Vulnerable youth: A youth who is at high risk to become a victim of sexual abuse
+       by another youth due to characteristics related to age, physical stature, criminal
+       history, and physical or mental disabilities, or past history of being victimized.
+
+       Youth: A person in the legal and physical custody of the OYA, either in an OYA
+       facility or placed in the community under supervision, or a person in the legal
+       custody of the Department of Corrections and the physical custody of OYA.
+
+III.   POLICY:
+
+       OYA has a zero-tolerance standard toward all forms of youth sexual abuse and
+       sexual harassment. This policy provides uniform guidelines and procedures to
+       reduce the risk of sexual abuse and sexual harassment in OYA facilities, field
+       offices, and community residential programs.
+
+       OYA has identified diversity, equity and inclusion as an agency priority and initiative,
+       with a goal to build a respectful, diverse, equitable and inclusive environment for
+       youth and staff that is free from harassment, discrimination and bias. Data shows
+       youth of color and LGBTQ+ youth are disproportionately represented in the juvenile
+       justice system. While OYA is only one part of that system, we play a critical role in
+       addressing the historical and systemic inequities it perpetuates. OYA must ensure
+       the sexual safety of all youth. Staff must be aware of possible bias when responding
+       to allegations of abuse, and ensure responses are carried out in an equitable
+       manner regardless of who the incident reporter, alleged victim, or alleged perpetrator
+       is.
+
+       All staff will be trained to recognize the signs of sexual abuse and sexual
+       harassment and to understand their responsibility in the prevention, detection,
+Page 4 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+       response, and reporting of alleged sexual abuse and sexual harassment.
+       Professional, trained staff will help prevent sexual abuse by acting in the following
+       manner during the performance of their duties:
+       • Knowing and enforcing rules regarding sexual behavior;
+       • Maintaining professionalism at all times, including maintaining a sexual-
+          harassment-free professional workplace; and
+       • Treating any allegation of sexual abuse or sexual harassment seriously by
+          following appropriate reporting procedures.
+
+       Supervision of youth is necessary to protect them from sexual abuse and sexual
+       harassment. Sound correctional practice includes conducting frequent, random area
+       checks, providing direct staff supervision, and having an open line of communication
+       that includes positive, supportive, consistent, and accountable behavior and
+       expectations.
+
+       Inappropriate sexual behavior is prohibited in OYA facilities and community
+       residential programs. Youth who commit any type of behavior violation in OYA
+       facilities may be refocused according to OYA policy II-B-2.1 (Youth Behavior
+       Management). Behavior violations involving sexual behavior will be assessed by the
+       PREA coordinator as potential sexual abuse or sexual harassment cases.
+
+       Staff must be aware of warning signs that might indicate that a youth has been
+       sexually abused or is in fear of being sexually abused. Warning signs include, but
+       are not limited to:
+       • Isolating self from others;
+       • Depression;
+       • Major changes in behavior, mood, and daily activities;
+       • Lashing out at others;
+       • Refusing to shower;
+       • Suicidal thoughts or actions;
+       • Seeking protective custody; and
+       • Refusing to leave an isolation room.
+
+       In the event that a youth is alleged to have sexually abused a staff member,
+       volunteer, or contractor, the immediate response and preservation of evidence steps
+       described in this policy must also be followed. Any health care examination must
+       occur in the community.
+
+       Any sexual behavior or act between staff and youth, volunteers and youth, or
+       contractors and youth, regardless of consensual status, is prohibited and subject to
+       administrative and criminal disciplinary sanctions. Termination is the presumptive
+       disciplinary sanction for staff, contractors, or volunteers, who have engaged in
+       sexual abuse.
+
+IV.    GENERAL STANDARDS:
+
+       A.      OYA will respond to, investigate, and support the prosecution of sexual abuse
+               in its facilities, field offices, and community placements in partnership with law
+               enforcement and the judicial system.
+
+
+Page 5 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+               1.      Through continual education of staff and youth, OYA increases
+                       awareness of safe reporting mechanisms and available services to
+                       victims, thereby creating an agency culture that discourages sexual
+                       abuse and sexual harassment.
+
+               2.      Through appropriate placement in program, education, work, and
+                       housing assignments, and physical plant improvements when feasible,
+                       OYA identifies opportunities to separate and carefully monitor both
+                       sexually aggressive and vulnerable youth to eliminate sexual abuse
+                       and sexual harassment incidents.
+
+               3.      OYA will collect related data and review all sexual abuse and sexual
+                       harassment incidents to assist in improving sexual abuse and sexual
+                       harassment prevention practices. The PREA coordinator will
+                       coordinate the data collection.
+
+               4.      OYA requires that all residential programs contracting with OYA are
+                       committed to the elimination of sexual abuse and sexual harassment in
+                       their programs by adopting policies and procedures consistent with this
+                       OYA policy.
+
+               5.      Contract administrators must ensure contracts with individuals who
+                       have direct contact with youth address items listed on
+                       Attachment A (Contract Requirements Regarding Sexual Abuse
+                       Prevention and Response).
+
+       B.      To ensure OYA does not hire, promote, or enlist services of any person who
+               may have direct contact with youth who has engaged in, been convicted of, or
+               been civilly or administratively adjudicated for engaging in sexual abuse in a
+               confinement setting, or has been convicted of engaging or attempting to
+               engage in sexual activity in the community facilitated by force, overt or implied
+               threats of force or coercion or if the victim did not consent or was unable to
+               consent or refuse, OYA:
+
+               1.      Conducts both a criminal record check and child abuse registry check
+                       on every applicant staff member or contractor who may have direct
+                       contact with youth;
+
+               2.      Conducts follow-up criminal record checks on the people listed in
+                       paragraph 1 above at least every five years;
+
+               3.      Ensures a criminal record check was completed no more than a year
+                       prior to any promotion of a staff member;
+
+               4.      When hiring, makes the best effort to contact all previous institutional
+                       employers to obtain information on substantiated allegations of sexual
+                       abuse and sexual harassment;
+
+               5.      Considers any incidents of substantiated sexual harassment in
+                       determining whether to hire or promote staff, or to enlist the services of
+                       any contractor who may have contact with youth;
+
+Page 6 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+               6.      In written applications and through a yearly signed disclosure form,
+                       affirms the duty to disclose any such actions;
+
+               7.      Considers omissions regarding such conduct or the provision of false
+                       information as grounds for termination; and
+
+               8.      Provides information on substantiated allegations of sexual abuse or
+                       sexual harassment involving a former staff member upon receiving a
+                       request from an institutional employer, as laws allow.
+
+       C.      Training
+
+               1.      All staff receive instruction related to the prevention, detection,
+                       reporting, and investigation of youth sexual abuse and sexual
+                       harassment during New Employee Orientation (NEO).
+
+                       The training must include the following topics:
+
+                       a)      OYA's zero-tolerance for sexual abuse and sexual harassment;
+
+                       b)      How staff must prevent, detect, report, and respond to youth
+                               sexual abuse and sexual harassment;
+
+                       c)      A youth's right to be free from sexual abuse and sexual
+                               harassment;
+
+                       d)      A staff member's and youth's right to be free from retaliation for
+                               reporting sexual abuse and sexual harassment incidents;
+
+                       e)      The dynamics of sexual abuse and sexual harassment in
+                               juvenile facilities, field offices, and community programs;
+
+                       f)      The common reactions of juvenile victims of sexual abuse and
+                               sexual harassment;
+
+                       g)      How to detect and respond to signs of threatened and actual
+                               sexual abuse and how to distinguish between consensual
+                               sexual contact and sexual abuse between youth;
+
+                       h)      How to avoid inappropriate relationships with youth;
+
+                       i)      How to communicate effectively and professionally with youth,
+                               including LGBTQ+, and gender nonconforming youth; and
+
+                       j)      Relevant laws regarding the applicable age of sexual consent.
+
+               2.      In-service training
+
+                       a)      Staff who have direct contact with OYA youth will receive in-
+                               service training on preventing, detecting, reporting, and
+                               responding to youth sexual abuse and harassment during
+                               annual staff updates according to their job classifications.
+Page 7 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+                       b)      In-service training must be tailored to the gender of youth the
+                               staff member has contact with.
+
+               3.      Specialized training
+
+                       a)      If a facility has a Sexual Abuse Response and Resource Team
+                               (SARRT), staff who may be team members must complete
+                               specialized training specific to sexual abuse responses and
+                               SARRT functionality.
+
+                       b)      Professional Standards Office (PSO) investigators must
+                               complete specialized training specific to conducting sexual
+                               abuse investigations in juvenile justice settings.
+
+                       c)      OYA medical and mental health care practitioners must
+                               complete specialized training on the following topics:
+
+                               (1)     How to detect and assess signs of sexual abuse and
+                                       sexual harassment;
+
+                               (2)     How to preserve physical evidence of sexual abuse;
+
+                               (3)     How to respond effectively and professionally to juvenile
+                                       victims of sexual abuse and sexual harassment; and
+
+                               (4)     How and where to report allegations or suspicions of
+                                       sexual abuse or sexual harassment.
+
+       D.      Youth education
+
+               1.      Upon a youth’s commitment to OYA custody and any subsequent
+                       transfer between close-custody facilities, staff must give the youth the
+                       Youth Safety Guide and Reporting Line card the same day they arrive
+                       at the facility.
+
+                       The Youth Safety Guide identifies abuse; gives guidelines on how to
+                       stay safe; how to report abuse; and what to do if abused. The
+                       Reporting Line card provides direct contact information to the
+                       Professional Standards Office.
+
+               2.      Staff must document in JJIS that the Youth Safety Guide and
+                       Reporting Line card were given and explained to the youth, and the
+                       youth indicated an understanding. (JJIS case note – category:
+                       Orientation; subcategory: Youth Safety Guide)
+
+               3.      Staff also must provide each facility youth a comprehensive age-
+                       appropriate presentation (in-person or electronic) regarding the youth's
+                       right to be free from sexual abuse and harassment, free from
+                       retaliation for reporting incidents, and how OYA must respond to such
+                       incidents.
+
+
+Page 8 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+                       This presentation must be provided within 10 days of a facility youth's
+                       commitment to OYA custody. Staff must document on OYA form
+                       YA 4033 that the youth viewed the presentation and understood it. The
+                       YA 4033 must be distributed and retained according to the form’s
+                       instructions.
+
+               4.      All OYA facilities and field offices must have the information described
+                       in paragraphs 1 and 2 (above) readily available and displayed for
+                       youth.
+
+               5.      Provisions of youth education must include formats accessible to all
+                       youth, including those who are limited English proficient, deaf or hard
+                       of hearing, blind or have low vision, have limited reading skills, or are
+                       otherwise disabled (e.g., intellectual, psychiatric, or speech
+                       disabilities).
+
+               6.      All OYA facilities and field offices must provide youth with, or display in
+                       an accessible area, mailing addresses and telephone numbers of local,
+                       state, or national victim advocacy or rape crisis organizations; OYA
+                       safety posters; Reporting Line information posters; and Youth
+                       Grievance forms (YA 1300).
+
+E.     Confidentiality
+
+               1.      Staff must notify youth upon initial intake to OYA custody that any
+                       report of sexual abuse will be reported to law enforcement or
+                       Department of Human Services, Child Protective Services.
+
+               2.      OYA facility medical and mental health practitioners
+
+                       a)      Must notify youth at the initiation of services of their duty to
+                               report and the limitations of confidentiality.
+
+                       b)      Must obtain informed consent from youth who are 18 years old
+                               or older before reporting information about the youth’ prior
+                               sexual victimization that did not happen in an institutional
+                               setting.
+
+               3.      Any sexual abuse information received by any staff member must only
+                       be disclosed on a need-to-know basis. Information must be shared
+                       according to state and federal privacy laws, professional licensure, and
+                       ethical standards.
+
+               4.      Youth interviews about sexual abuse incidents must be conducted in
+                       safe and private environments.
+
+               5.      Under no circumstances may access to treatment resources be denied
+                       a youth who is a victim of sexual abuse because the youth refuses to
+                       disclose sexual abuse incident details.
+
+
+
+Page 9 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+       F.      Youth reporting
+
+               1.      OYA provides multiple ways for youth to report sexual abuse and
+                       sexual harassment incidents, retaliation for reporting incidents, and
+                       perceived staff neglect or policy violations that may be contributed to
+                       sexual abuse or sexual harassment incidents, including:
+
+                       a)      The youth grievance process (see OYA policies II-F-1.1 Youth
+                               Grievance Process – Facility, and III-B-4.0 Youth Rights and
+                               Grievances in the Community);
+
+                       b)      Access to the confidential OYA Reporting Line 1-800-315-5440
+                               (see OYA policy II-F-3.4 Use of Telephone);
+
+                       c)      Regular safety surveys;
+
+                       d)      Confidential access (correspondence, telephonic, or in person)
+                               to agencies that provide legal services, including legal aid
+                               offices; and
+
+                       e)      Confidential access through correspondence to the Governor’s
+                               Constituency Services Office that receives and forwards reports
+                               of sexual abuse and sexual harassment to OYA officials,
+                               allowing the youth to remain anonymous upon request.
+
+               2.      In OYA facilities, the PREA compliance manager (PCM) must ensure
+                       any youth who reports sexual abuse or sexual harassment or
+                       cooperates with sexual abuse or sexual harassment investigations is
+                       protected from retaliation by other youth or staff.
+
+                       a)      Protection may include:
+
+                               (1)     Housing change;
+
+                               (2)     Facility transfer; and
+
+                               (3)     Emotional support.
+
+                       b)      For at least 90 days following a report of sexual abuse or sexual
+                               harassment, the PCM or designee must monitor the youth’s
+                               conduct or treatment to see if there are changes that may
+                               suggest possible retaliation by other youth or staff and must act
+                               promptly to remedy any such retaliation. (See facilitywide
+                               procedure FAC I-A-10.0 Monitoring Youth for Retaliation.)
+
+                               (1)     Monitoring must be documented the youth’s JJIS case
+                                       notes. Use the PREA category, subcategory Retaliation
+                                       Monitoring.
+
+                               (2)     Monitoring may include reviewing youth behavior
+                                       violation incident reports (YIRs), housing or other
+
+Page 10 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+                                       program changes, unit log entries, and periodic face-to-
+                                       face check-ins with the youth.
+
+                                       Staff may only refocus a youth for a behavior violation
+                                       regarding an unfounded allegation if it can be determined
+                                       that the youth made the allegation in bad faith.
+
+                               (3)     The PCM or designee must continue such monitoring
+                                       beyond 90 days if the initial monitoring indicates
+                                       continued need.
+
+               3.      After responding to a facility youth's report of sexual abuse or sexual
+                       harassment, the facility’s PCM must ensure the youth is notified
+                       whether the allegation has been substantiated, unsubstantiated, or
+                       unfounded. All notifications must be documented in the youth’s JJIS
+                       case notes, PREA category.
+
+                       a)      If the allegation is substantiated and the perpetrator is a staff
+                               member, the PCM or designee must inform the youth of the
+                               following when known:
+
+                               (1)     The staff member is no longer assigned to work in the
+                                       youth’s housing unit;
+
+                               (2)     The staff member is no longer employed at the facility
+                                       where the youth is residing;
+
+                               (3)     The agency learns that the staff member has been
+                                       indicted on a charge related to the allegation; or
+
+                               (4)     The agency learns that the staff member has been
+                                       convicted on a charge related to the allegation.
+
+                       b)      If the allegation is substantiated and the perpetrator is another
+                               youth, the PCM or designee must inform the youth who reported
+                               the incident of the following when known:
+
+                               (1)     The agency learns that the alleged perpetrator has been
+                                       indicted on a charge related to the allegation; or
+
+                               (2)     The agency learns that the alleged perpetrator has been
+                                       convicted on a charge related to the allegation.
+
+               4.      Field supervisors must ensure youth who have reported sexual abuse
+                       or sexual harassment incidents while in community placements are
+                       notified of the results of related investigations, if the information is
+                       available to OYA. Investigations of allegations in the community may
+                       be conducted by law enforcement or another government agency that
+                       may not share the information with OYA.
+
+
+
+Page 11 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+       G.      Third-party reporting
+
+               OYA may receive youth-related sexual abuse and sexual harassment reports
+               from youth family members or the public. Information regarding the reporting
+               process is available on the OYA public Internet website and the Youth Family
+               Guides (close-custody youth, and community youth) including:
+
+               1.      Access to the confidential OYA Reporting Line 1-800-315-5440;
+
+               2.      Access to a confidential e-mail contact:
+                       professionalstandards.office@oya.state.or.us;
+
+               3.      E-complaint form:
+                       https://www.oregon.gov/oya/pso/Pages/OnlineComplaintForm.aspx;
+
+               4.      The youth grievance process; and
+
+               5.      By notifying staff.
+
+       H.      OYA must ensure any staff member who reports youth sexual abuse or
+               sexual harassment or cooperates with sexual abuse or sexual harassment
+               investigations is protected from retaliation by youth or other staff. Protection
+               may include workplace changes, ensuring the subject(s) of the investigation
+               cannot contact the staff member, and emotional support.
+
+               For at least 90 days following a report of sexual abuse or sexual harassment,
+               the PREA coordinator, in collaboration with the facility’s PCM, must monitor
+               the staff’s conduct to see if there are changes that may suggest possible
+               retaliation by youth or other staff and must act promptly to remedy any such
+               retaliation.
+
+               1.      Monitoring must be documented in the PSO case management system
+                       database.
+
+               2.      Monitoring may include reviewing for negative performance reviews,
+                       unwarranted reassignments, and periodic face-to-face check-ins with
+                       the staff member.
+
+               3.      The PREA coordinator, in collaboration with the facility’s PCM, must
+                       continue such monitoring beyond 90 days if the initial monitoring
+                       indicates continued need.
+
+        I.     Youth placement in OYA facility program, education, work, housing, and bed
+               assignments
+
+               OYA will provide safe program, education, work, housing unit, and bed
+               assignments for every youth to reduce the likelihood of sexual abuse while a
+               youth is in close custody.
+
+               1.      OYA staff will consider vulnerability to sexual abuse or sexual
+                       aggressiveness of each youth at the time of the youth’s admission to
+
+Page 12 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+                       close custody and prior to assigning the youth a program, education,
+                       work, housing unit, or bed.
+                       Sexual abuse vulnerability and aggressiveness will be reviewed during
+                       the youth's regularly scheduled Multidisciplinary Team (MDT)
+                       meetings.
+
+               2.      Sexually vulnerable youth
+
+                       A mental health practitioner will evaluate a youth within 72 hours of the
+                       youth's initial intake to close custody, transfer to another OYA facility
+                       and annually, specifically to determine the youth's vulnerability to
+                       sexual abuse or sexual harassment as indicated by the following risk
+                       factors:
+
+                       a)      Age;
+
+                       b)      Physical size and stature;
+
+                       c)      Intellectual or developmental disabilities;
+
+                       d)      Level of emotional and cognitive development;
+
+                       e)      Mental illness or mental disability;
+
+                       f)      Physical disabilities;
+
+                       g)      Current charges and offense history including sexual offenses;
+
+                       h)      First-time-youth status (first time in OYA custody);
+
+                       i)      Past history of victimization;
+
+                       j)      Any gender nonconforming appearance or manner, or
+                               identification as lesbian, gay, bisexual, transgender, queer,
+                               questioning, or intersex (LGBTQ+);
+
+                       k)      The youth’s own perception of vulnerability; and
+
+                       l)      Any other specific information about the youth that may require
+                               an increase in supervision, additional safety precautions, or
+                               separation from certain other youth.
+
+                       See facilitywide procedure FAC I-A-10.0(b) VSAB Placement Tool for
+                       more information.
+
+               3.      Sexually aggressive youth
+
+                       a)      A mental health practitioner will also evaluate a youth within 72
+                               hours of the youth's initial intake to close custody, transfer to
+                               another OYA facility, and annually, specifically to determine if
+                               there are indications that the youth is prone to sexually abusing
+                               other youth, including the following:
+Page 13 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+                               (1)     History of sexually aggressive behavior;
+
+                               (2)     History of violence, especially if related to a sex offense
+                                       with same gender victim; and
+
+                               (3)     Antisocial attitudes indicative of sexually aggressive
+                                       behavior.
+
+                               See facilitywide procedure FAC I-A-10.0(b) VSAB Placement
+                               Tool for more information.
+
+                       b)      LGBTQ+ identification or status may not be considered as an
+                               indicator of likelihood of being sexually aggressive.
+
+               4.      A youth who discloses any previously unknown sexual victimization or
+                       perpetration must be offered an individual meeting with a mental health
+                       practitioner to further assess related treatment and placement needs
+                       within 14 days of the disclosure.
+
+                       The mental health practitioner’s meeting must be documented in the
+                       following manner and include recommendations about the youth's
+                       treatment and placement needs:
+
+                       a)      A case note restricted to the "OYA MH Full Access" group in
+                               JJIS; or
+
+                       b)      A YA 4452 (Psychology Progress Report) if completed by a
+                               psychologist; or
+
+                       c)      A YA 4453 (Psychiatric Progress Report) if completed by a
+                               psychiatrist or psychiatric mental health nurse practitioner.
+
+               5.      Any staff who learns that a youth is subject to a substantial risk of
+                       imminent sexual abuse, or is a substantial risk of imminently sexually
+                       abusing must immediately ensure the youth's safety, and notify the
+                       staff member's supervisor or officer-of-the-day (OD), and a PCM.
+
+V.     Responding to Alleged Youth Sexual Abuse in OYA Facilities
+
+       A.      Each superintendent or camp director must designate a PREA compliance
+               manager (PCM) who is responsible for the facility’s compliance with the
+               national PREA standards and OYA policies regarding preventing, detecting,
+               and responding to sexual abuse and sexual harassment incidents.
+
+       B.      The PCM may designate a Sexual Abuse Response and Resource Team
+               (SARRT) to facilitate a coordinated response to sexual abuse.
+
+               The PCM must ensure responses to sexual abuse incidents and
+               investigations use a coordinated response that follows established protocols
+               described in this policy, local operating protocols, and if appropriate, the
+               Facility SARRT Sexual Abuse Incident Checklist (YA 1959).
+
+Page 14 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+       C.      Notification and investigation of sexual abuse in OYA facilities
+               1.      If a youth notifies a staff member that the youth has been sexually
+                       abused or the staff sees or learns of the abuse, staff must, in the
+                       following order, immediately:
+                       a)      Ensure the victim is safe and kept separated from the
+                               perpetrator.
+                       b)      If the incident occurred within 96 hours, secure the incident
+                               area(s) and treat it as a crime scene(s) in accordance with OYA
+                               policy II-A-1.2 (Preserving Chain of Evidence) until released.
+                               (1)     Request that the alleged victim not take any action that
+                                       could destroy physical evidence to include brushing
+                                       teeth, changing clothes, showering, washing, urinating,
+                                       defecating, drinking, or eating.
+                               (2)     Ensure that the alleged abuser does not take any action
+                                       that could destroy physical evidence to include brushing
+                                       teeth, changing clothes, showering, washing, urinating,
+                                       defecating, drinking, or eating.
+                       c)      Notify their supervisor or officer-of-day (OD).
+               2.      The supervisor or OD must verbally notify:
+                       a)      The superintendent or camp director;
+                       b)      The PCM; and
+                       c)      The PSO Chief Investigator.
+               3.      The superintendent, camp director, or OD, and the facility SARRC will
+                       ensure their local operating protocol is followed.
+               4.      Staff responding to sexual abuse incidents may refer to the Facility
+                       First Responders to Sexual Abuse Checklist (YA 1958) to help guide
+                       them through the appropriate response.
+               5.      The staff who saw the incident or to whom the incident was reported
+                       will initiate a related Youth Incident Report (YIR).
+                       Refer to facilitywide procedure FAC I-E-4.0 (Youth Incident Reports)
+                       for YIR instructions.
+               6.      Staff must follow mandatory reporting laws regarding child abuse if the
+                       victim is less than 18 years old. Refer to OYA policy
+                       0-2.3 (Mandatory Reporting of Abuse) for instructions on how to
+                       comply with mandatory child abuse reporting.
+               7.      The agency’s PREA coordinator will automatically be notified of the
+                       incident through the YIR reporting process.
+
+
+
+
+Page 15 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+                   8.        If the victim is under the guardianship of the child welfare system
+                             (Department of Human Services - DHS), the PREA coordinator must
+                             ensure DHS is notified of the incident.
+                   9.        If the victim was committed to OYA through a juvenile court and has an
+                             attorney or legal representative on record, the PREA coordinator must
+                             ensure that person is notified within 14 days of the sexual abuse
+                             allegation.
+         D.        Sexual abuse victim services in OYA facilities
+
+                   1.        If the reported incident was a sexually abusive penetration1 that
+                             occurred within 96 hours, Health Services staff (if available) must
+                             assist in arranging the youth’s medical examination in the local
+                             community at a facility equipped to evaluate and treat sexual abuse
+                             victims. If Health Services staff are not available, facility staff will
+                             arrange the medical examination in the community.
+
+                   2.        Health Services staff must follow Health Services procedure
+                             HS I-A-10.0 (Preventing, Responding to Monitoring Sexual
+                             Assault/Abuse) when responding to sexual abuse incidents.
+
+                   3.        Prophylactic treatment and follow-up care for sexually transmitted or
+                             other communicable diseases must be offered to the victim, as
+                             appropriate, and documented.
+
+                   4.        A mental health practitioner must evaluate the victim for crisis
+                             intervention counseling and long-term follow-up within 24 hours of the
+                             medical examination.
+
+                             a)        The evaluation must include an assessment for potential for
+                                       suicide and anxiety disorders, and appropriate treatment needs
+                                       to address victimization. (See OYA policy II-D-2.2 Suicide
+                                       Prevention in OYA Close-custody Facilities)
+
+                             b)        The evaluation must be documented in the following manner
+                                       and include specific recommendations about the youth's
+                                       treatment and placement needs:
+
+                                       (1)       A case note restricted to the "OYA MH Full Access"
+                                                 group in JJIS;
+
+                                       (2)       A YA 4452 (Psychology Progress Report) if completed by
+                                                 a psychologist; or
+
+                                       (3)       A YA 4453 (Psychiatric Progress Report) if completed by
+                                                 a psychiatrist or psychiatric mental health nurse
+                                                 practitioner.
+
+
+1 The sexual act included: (1) Contact between the penis and the vagina or the anus; or (2) Contact between the mouth and
+  the penis, vagina, or anus; or (3) Penetration of the anal or genital opening by a hand, finger, or other object.
+
+Page 16 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+               5.      The superintendent, camp director, SARRC or PCM, must ensure the
+                       sexual abuse victim is reminded of victim rights and advocacy
+                       information, and that a qualified victim advocate is available to the
+                       sexual abuse victim. The qualified victim advocate may be a qualified
+                       agency staff member, or an advocate from a community-based
+                       organization.
+
+       E.      Alleged perpetrator services in OYA facilities
+
+               1.      A mental health practitioner must conduct an evaluation of a youth who
+                       allegedly perpetrated a sexual abuse against another youth to assess
+                       related treatment needs within 60 days of the mental health practitioner
+                       learning of the alleged sexual abuse.
+
+               2.      The evaluation must be documented in the following manner and
+                       include specific recommendations about the youth's treatment and
+                       placement needs:
+
+                       a)      A case note restricted to the "OYA MH Full Access" group in
+                               JJIS;
+
+                       b)      A YA 4452 (Psychology Progress Report) if completed by a
+                               psychologist; or
+
+                       c)      A YA 4453 (Psychiatric Progress Report) if completed by a
+                               psychiatrist or psychiatric mental health nurse practitioner.
+
+       F.      Allegations of sexual abuse in another facility
+
+               1.      Upon receiving an allegation that a youth was sexually abused while
+                       housed in another facility, the superintendent/camp director that
+                       received the allegation must notify the following entities as soon as
+                       possible, but no longer than 72 hours after receiving the allegation:
+
+                       a)      The head of the facility or appropriate office of the agency
+                               where the alleged abuse occurred;
+
+                       b)      The other facility’s or office’s investigative agency; and
+
+                       c)      PSO.
+
+               2.      PSO must document the notification in its case management system.
+
+       G.      Sexual abuse incident review
+
+               The superintendent, camp director, or PCM, must ensure an Administrative
+               Incident Review Report (YA 0024) is completed within 30 calendar days after
+               the conclusion of a sexual abuse investigation whenever the allegation is
+               unsubstantiated or substantiated. (See OYA policy I-E-4.0 Incident Reviews)
+
+
+Page 17 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+VI.    Responding to Alleged Youth Sexual Abuse in the Community
+
+       A.      Notification and investigation of alleged youth sexual abuse in the community
+
+               1.      If a staff member becomes aware of a sexual abuse allegation of a
+                       youth on OYA supervision in the community, the staff member must, in
+                       the following order, immediately:
+
+                       a)      Ensure the victim is safe and kept separated from the alleged
+                               perpetrator;
+
+                       b)      Notify the field supervisor;
+
+                       c)      If the victim is a minor, notify law enforcement or DHS Child
+                               Protection Services (see OYA policy 0-2.3 Mandatory Reporting
+                               of Abuse); and
+
+                       d)      If the victim is 18 years old or older, notify law enforcement.
+
+               2.      The staff who saw the incident or to whom the incident was reported
+                       will initiate a related Youth Incident Report (YIR).
+
+                       Refer to OYA policy III-A-1.0 (Youth Incident Reports – Field) for YIR
+                       instructions.
+
+               3.      Staff must follow mandatory reporting laws regarding child abuse if the
+                       victim is less than 18 years old. Refer to OYA policy
+                       0-2.3 (Mandatory Reporting of Youth Abuse and Child Abuse) for
+                       instructions on how to comply with mandatory child abuse reporting.
+
+               4.      The agency’s PREA coordinator will automatically be notified of the
+                       incident through the YIR reporting process.
+
+       B.      Victim and alleged perpetrator services for youth in the community
+
+               1.      Appropriate OYA contract administrators must ensure contracted
+                       community residential programs have procedures addressing sexual
+                       abuse victim services and alleged perpetrator services.
+
+               2.      Field supervisors must ensure OYA youth victims and alleged OYA
+                       youth perpetrators receive appropriate health care services in the
+                       community if needed or requested.
+
+VII.   Data Collection and Monitoring
+
+       A.      The PREA coordinator must coordinate OYA’s PREA data collection and
+               generate any reports needed to comply with national PREA Standards. The
+               data will be retained for 20 years after related investigations are completed.
+
+       B.      The PREA coordinator is responsible for monitoring the PREA data and
+               alerting the OYA Executive Team of any notable trends.
+
+Page 18 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+VIII.   LOCAL OPERATING PROTOCOL REQUIRED: YES
+
+        Each OYA facility must have a local operating protocol that coordinates actions
+        taken among staff first responders, medical and mental health practitioners,
+        investigators, and facility leadership in response to an incident of youth sexual
+        abuse.
+
+
+
+
+Page 19 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+Attachment A: OYA Contract Requirements Regarding Sexual Abuse Prevention and Response
+
+
+                Type of Contractor                  Language Required in Contract
+                                                    1. Sexual abuse prevention training and reporting required.
+                                                    2. Criminal record and child abuse registry checks required;
+                                                       update CRC every five years. Language re: zero tolerance of
+  Medical Treatment Providers at OYA facilities
+                                                       sexual abuse
+                                                    3. Completion of a PREA Acknowledgment form prior to contact
+                                                       with youth
+                                                    1. Sexual abuse reporting required.
+  Medical Treatment Providers serving youth         2. Zero tolerance of sexual abuse required.
+  outside of OYA facilities (e.g., dentists, ERs,
+  opticians)                                        Professional licenses require reporting and criminal records
+                                                    checks. Also, they have minimal contact with youth.
+                                                    BRS Placements are not subject to the PREA regulations because
+                                                    youth are admitted to BRS programs "pursuant to a social
+                                                    service system, or for medical purposes, and is beyond the scope
+                                                    of these regulations." (28 CFR Part 115 § 115.5 General
+                                                    Definitions "juvenile facility.")
+                                                    However, DHS and OYA remain committed to the safety of the
+  Residential Providers (BRS Medical)               youth in these programs through licensing and review for
+                                                    compliance with Oregon Administrative Rules and contracts.
+                                                    Therefore, OYA requires:
+                                                    1. Sexual abuse reporting.
+                                                    2. Zero tolerance of sexual abuse.
+                                                    3. Criminal record checks required and updated every five
+                                                       years.
+  Residential Providers (non-BRS)                   1. Sexual abuse reporting required.
+  (e.g., county providers, YCCs)                    2. Zero tolerance of sexual abuse required.
+                                                    3. Criminal record and child abuse registry checks required; and
+  Youth-specific Residential Providers (non-BRS)       CRC updated every five years.
+  [Used on occasional short-term placements
+  (under 90 days) to meet targeted needs of a
+  specific youth]
+                                                    1. Zero tolerance of sexual abuse required.
+                                                    2. Criminal record and child abuse registry checks required; and
+  Licensed Contractors With Direct Facility Youth      CRC updated at least every five years.
+  Contact                                           3. Completion of a PREA Acknowledgment form prior to contact
+  (e.g., LCSWs, LPCs, LMFTs)                           with youth
+                                                    These contractors already are subject to training and reporting
+                                                    requirements as part of their licensure.
+  • Unlicensed Contractors With Direct Facility     1. Sexual abuse prevention training and reporting required.
+    Youth Contact                                   2. Zero tolerance of sexual abuse required.
+  • VESOY providers                                 3. Criminal record and child abuse registry checks required; and
+  • Community Reintegration Contractors with           CRC updated at least every five years.
+    Direct Facility Youth Contact                   4. Completion of a PREA Acknowledgment form prior to contact
+  • Youth Work Crew Contractors                        with youth
+  No Direct Youth Contact - e.g., trade services
+                                                    No sexual abuse prevention training or reporting required.
+  contractors, consultants, training vendors etc.
+                                                    Language regarding considering the effect of the building design,
+  Architects, Engineers, Building Design            acquisition, expansion, or modification upon OYA’s ability to
+  Consultants                                       protect residents from sexual abuse required in relevant
+                                                    building design contracts.
+
+
+
+
+Page 20 of 20 I-A-10.0 Preventing, Detecting, and Responding to Youth Sexual Abuse/Harassment
+Effective: 09/24/2025
+

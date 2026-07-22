@@ -111,6 +111,11 @@ relationships:
     - oha-osh-7-006
     - oha-osh-7-008
     - oha-osh-8-019
+    - oya-0-2-0
+    - oya-0-2-2
+    - oya-0-2-3
+    - oya-ii-f-1-0
+    - oya-iii-b-4-0
   references_external: []
   related: []
   supersedes: []
