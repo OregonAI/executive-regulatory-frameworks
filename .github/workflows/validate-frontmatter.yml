@@ -59,6 +59,8 @@ jobs:
         run: python3 src/build_freshness.py --check
       - name: Semantic vector index must be current (soft-pass if not built)
         run: python3 src/build_embeddings.py --check
+      - name: Policy-age visualization must be current
+        run: python3 src/build_policy_age.py --check
 
       # --- heaviest full-corpus scans: nightly / on-demand only ---
       # agency_profile/mcp_lib selftests moved here: both scan every one of ~68k files'
@@ -72,6 +74,9 @@ jobs:
       - name: MCP query engine selftest (nightly)
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: python3 src/mcp_lib.py --selftest
+      - name: Policy-age dataset must match the corpus (nightly; full-corpus scan)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python3 src/build_policy_age_data.py --check
       - name: Review queue must be current (nightly)
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: python3 src/review_queue.py --check

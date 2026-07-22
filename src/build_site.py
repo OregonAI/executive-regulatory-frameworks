@@ -36,6 +36,8 @@ VIZZES = [
      "A 2-D UMAP of every document's embedding: proximity means similar text, so clusters surface topics across ORS, OAR, and policy."),
     ("Regulatory freshness", "regulatory-freshness.html",
      "The functional age of the rule &amp; policy body — which rules lag the statutes they implement, sliced by agency, with the specific documents worth reviewing."),
+    ("Policy age", "policy-age.html",
+     "How long since each internal policy/procedure/standard was last touched, against a 2-year review cadence — sliced by agency, with the specific documents overdue for review."),
 ]
 
 
