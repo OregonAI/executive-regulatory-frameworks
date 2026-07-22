@@ -68,6 +68,9 @@ jobs:
       - name: Review queue must be current (nightly)
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: python3 src/review_queue.py --check
+      - name: ORS frontmatter must match each statute's own history notes (nightly)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python3 src/enrich_statutes.py --check
       - name: OAR frontmatter must match each rule's own structured lines (nightly)
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: python3 src/enrich_oar.py --check

@@ -50,6 +50,8 @@
       "description": "Snapshot basename in _meta/snapshots/ when it differs from id — for documents split from, or sharing, one source file (e.g. control-family files of one standard; ORS sections from one chapter HTML)"
     },
     "effective_date": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "enacted": { "type": ["integer", "null"], "minimum": 1800, "maximum": 2100, "description": "Original enactment year — MIN legislative-history year in a statute's own text; derived mechanically by enrich_statutes.py, null when none is parseable" },
+    "last_amended": { "type": ["integer", "null"], "minimum": 1800, "maximum": 2100, "description": "Most recent legislative action year — MAX legislative-history year in a statute's own text; derived mechanically by enrich_statutes.py, null when none is parseable" },
     "last_reviewed": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
     "source_version": { "type": ["string", "null"] },
     "status": { "enum": ["current", "superseded", "repealed", "proposed", "draft"] },

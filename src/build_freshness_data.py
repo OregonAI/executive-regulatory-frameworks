@@ -34,9 +34,12 @@ from repo_lib import REPO_ROOT
 
 GRAPH = REPO_ROOT / "_meta/graph.json"
 OUT = REPO_ROOT / "_meta/freshness.json"
-YEAR = re.compile(r"\b(1[89]\d\d|20\d\d)\b")
-BRACKET = re.compile(r"\[[^\]]*\]")
 EFF = re.compile(r'^effective_date:\s*"?(\d{4})', re.M)
+LAST_AMENDED = re.compile(r"^last_amended:\s*(\d{4})", re.M)
+# a statute cited by more than this many rules is a broad "enabling" statute (e.g. ORS
+# 496.146 "additional powers of the commission"); one amendment to it isn't evidence any
+# particular rule is stale, so it doesn't count as a rule's governing authority for flagging.
+UBIQUITY_MAX = 75
 
 
 def _fingerprint() -> str:
@@ -44,14 +47,16 @@ def _fingerprint() -> str:
 
 
 def _statute_year(sid: str):
+    """Last-amendment year from the statute's first-class `last_amended` frontmatter field
+    (written by enrich_statutes.py from the section's own history notes)."""
     p = REPO_ROOT / f"statutes/{sid}.md"
     if not p.exists():
         return None
-    body = p.read_text(encoding="utf-8", errors="ignore").split("## Provenance")[0]
-    yrs = [int(y) for br in BRACKET.findall(body)
-           if ("c." in br or "Amended" in br or "Formerly" in br)
-           for y in YEAR.findall(br)]
-    return max(yrs) if yrs else None
+    parts = p.read_text(encoding="utf-8", errors="ignore").split("---")
+    if len(parts) < 2:
+        return None
+    m = LAST_AMENDED.search(parts[1])
+    return int(m.group(1)) if m else None
 
 
 def _eff_year(path: str):
@@ -70,13 +75,18 @@ def compute() -> dict:
     names = {o["slug"]: o.get("name", o["slug"]) for o in
              yaml.safe_load((REPO_ROOT / "_meta/catalog/agencies.yml").read_text())["organizations"]}
 
-    # authorities: doc -> statutes it implements
+    # authorities: doc -> statutes it implements; fan_in: how many rules cite each statute
     auth = defaultdict(list)
+    fan_in = defaultdict(int)
     for e in g["edges"]:
         if e["type"] == "implements" and e["to"].startswith("ors-"):
             auth[e["from"]].append(e["to"])
+            if e["from"].startswith("oar-"):
+                fan_in[e["to"]] += 1
     cited = {s for v in auth.values() for s in v}
     syear = {s: _statute_year(s) for s in cited}
+    # a statute counts as a "specific" (flag-worthy) authority only if it isn't ubiquitous
+    specific = {s for s in cited if fan_in[s] <= UBIQUITY_MAX}
 
     def agency_of(doc_id):
         if doc_id.startswith("oar-"):
@@ -86,9 +96,13 @@ def compute() -> dict:
         return names.get(path.split("/")[1], path.split("/")[1]) if path.startswith("agencies/") else None
 
     def best_authority(doc_id):
-        """(statute id, year) of the most-recently-amended KNOWN authority, or (None, None)."""
+        """(statute id, year) of the most-recently-amended KNOWN, SPECIFIC (non-ubiquitous)
+        authority, or (None, None) — so a rule isn't flagged merely because a broad enabling
+        statute it cites was amended."""
         best_s, best_y = None, None
         for s in auth.get(doc_id, []):
+            if s not in specific:
+                continue
             y = syear.get(s)
             if y is not None and (best_y is None or y > best_y):
                 best_s, best_y = s, y
