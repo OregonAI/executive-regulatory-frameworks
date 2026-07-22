@@ -59,12 +59,19 @@ jobs:
         run: python3 src/build_freshness.py --check
       - name: Semantic vector index must be current (soft-pass if not built)
         run: python3 src/build_embeddings.py --check
-      - name: Agency profile engine selftest
-        run: python3 src/agency_profile.py --selftest
-      - name: MCP query engine selftest
-        run: python3 src/mcp_lib.py --selftest
 
       # --- heaviest full-corpus scans: nightly / on-demand only ---
+      # agency_profile/mcp_lib selftests moved here: both scan every one of ~68k files'
+      # frontmatter with no cross-process cache (agency_profile's in-memory stats cache only
+      # helps a long-lived process like the MCP server, not a fresh CI checkout), so each now
+      # takes several minutes — too slow for the per-PR fast tier, same tradeoff already made
+      # for review_queue/enrich_oar/enrich_statutes below.
+      - name: Agency profile engine selftest (nightly)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python3 src/agency_profile.py --selftest
+      - name: MCP query engine selftest (nightly)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python3 src/mcp_lib.py --selftest
       - name: Review queue must be current (nightly)
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: python3 src/review_queue.py --check

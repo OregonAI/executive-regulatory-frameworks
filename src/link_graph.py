@@ -22,9 +22,8 @@ import re
 import sys
 from pathlib import Path
 
-import yaml
-
-from repo_lib import REPO_ROOT, content_files, extract_fulltext, parse_frontmatter, ws_only
+from repo_lib import (REPO_ROOT, content_files, extract_fulltext, parse_frontmatter, ws_only,
+                      yaml_load)
 
 GRAPH = REPO_ROOT / "_meta/graph.json"
 OAR_CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
@@ -50,7 +49,7 @@ REL_KEYS = ["implements", "implemented_by", "references_external", "related", "s
 
 def build_renumber_map():
     """old rule number -> served rule number, and old division -> served division(s)."""
-    cat = yaml.safe_load(OAR_CATALOG.read_text())
+    cat = yaml_load(OAR_CATALOG.read_text())
     rule_map, div_map = {}, {}
     for c in cat["chapters"]:
         for d in c["divisions"]:

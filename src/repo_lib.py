@@ -1,6 +1,8 @@
 """Shared helpers for repo validation tooling."""
 import datetime
+import hashlib
 import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -11,6 +13,30 @@ CONTENT_DIRS = ["statutes", "rules", "executive-orders", "agencies", "external-r
 SNAPSHOT_DIR = REPO_ROOT / "_meta" / "snapshots"
 SCHEMA_DIR = REPO_ROOT / "_meta" / "schema"
 SOURCES_DIR = REPO_ROOT / "_meta" / "sources"
+
+_YAML_LOADER = getattr(yaml, "CSafeLoader", yaml.SafeLoader)
+
+
+def repo_state() -> str:
+    """Cheap fingerprint of the corpus: HEAD commit + hash of `git status` porcelain
+    (captures uncommitted adds/edits well enough for a cache key). Shared by every
+    module-level cache keyed on "has the corpus changed" (mcp_lib's FTS index,
+    agency_profile's derived stats) so they invalidate together and consistently."""
+    head = subprocess.run(["git", "rev-parse", "HEAD"], cwd=REPO_ROOT,
+                          capture_output=True, text=True).stdout.strip()
+    status = subprocess.run(["git", "status", "--porcelain"], cwd=REPO_ROOT,
+                            capture_output=True, text=True).stdout
+    return head + ":" + hashlib.sha256(status.encode()).hexdigest()[:16]
+
+
+def yaml_load(text: str):
+    """yaml.safe_load, but via the libyaml-backed CSafeLoader when available. Matters at
+    this corpus's scale: the big catalogs (oar.yml ~3.8MB, ors.yml ~4.5MB) take ~24-28s each
+    under PyYAML's pure-Python SafeLoader vs ~5s under CSafeLoader — a real cost when paid
+    repeatedly (every MCP corpus_overview/resolve_citation call, every full-corpus script
+    run) rather than once. Falls back to plain SafeLoader if libyaml bindings aren't
+    installed in a given environment; same result either way, just slower."""
+    return yaml.load(text, Loader=_YAML_LOADER)
 
 
 def source_groups():

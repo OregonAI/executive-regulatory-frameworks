@@ -25,9 +25,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-import yaml
-
-from repo_lib import REPO_ROOT, content_files, parse_frontmatter
+from repo_lib import REPO_ROOT, content_files, parse_frontmatter, repo_state, yaml_load
 
 PROFILES = REPO_ROOT / "_meta/agency-profiles.yml"
 REGISTRY = REPO_ROOT / "_meta/catalog/agencies.yml"
@@ -35,13 +33,26 @@ SOURCES_DIR = REPO_ROOT / "_meta/sources"
 
 
 def _load():
-    reg = yaml.safe_load(REGISTRY.read_text())
-    prof = yaml.safe_load(PROFILES.read_text())
+    reg = yaml_load(REGISTRY.read_text())
+    prof = yaml_load(PROFILES.read_text())
     return {o["slug"]: o for o in reg["organizations"]}, prof["profiles"]
 
 
+_STATS_CACHE = None  # (repo_state, stats, groups) — in-memory only, per docstring ("nothing
+                     # derived is ever stored" means never written to disk/repo; this just
+                     # memoizes within one long-lived process, e.g. the MCP server)
+
+
 def _derived_stats():
-    """Per-agency corpus stats + update-group freshness, computed fresh."""
+    """Per-agency corpus stats + update-group freshness. At ~68k documents, scanning every
+    file's frontmatter takes real minutes — cached in memory for a long-lived process (the
+    MCP server) and invalidated via the same repo_state() fingerprint the FTS index uses, so
+    a CLI one-shot run and a server that's been up for days both always see current data."""
+    global _STATS_CACHE
+    state = repo_state()
+    if _STATS_CACHE and _STATS_CACHE[0] == state:
+        return _STATS_CACHE[1], _STATS_CACHE[2]
+
     stats = defaultdict(lambda: {"documents": 0, "by_body": defaultdict(int),
                                  "verbatim": 0, "summary": 0, "ocr_recovered": 0,
                                  "content_exceptions": 0})
@@ -66,10 +77,11 @@ def _derived_stats():
     # belong to (id prefix match is enough: group files name their agency or body)
     groups = {}
     for gp in sorted(SOURCES_DIR.glob("*.yml")):
-        g = yaml.safe_load(gp.read_text())
+        g = yaml_load(gp.read_text())
         groups[g["group"]] = {"last_checked": g.get("last_checked"),
                               "recheck": g.get("recheck"),
                               "upstream_signal": g.get("upstream_signal", "")[:160]}
+    _STATS_CACHE = (state, stats, groups)
     return stats, groups
 
 
