@@ -1,0 +1,43 @@
+name: pages
+
+# Build the curated landing page (src/build_site.py) and deploy ./site/ to GitHub Pages.
+on:
+  push:
+    branches: [main]
+    # only rebuild when something the site shows can change
+    paths:
+      - "_meta/graph.json"
+      - "viz/agency-authority-graph.html"
+      - "llms.txt"
+      - "src/build_site.py"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build the site
+        run: python3 src/build_site.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
