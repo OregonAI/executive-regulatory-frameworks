@@ -78,7 +78,7 @@ def build_data() -> dict:
               if types[k] in DOC_LAYER and meta.get(i, {}).get("title")}
     return {"ids": ids, "x": proj["x"], "y": proj["y"], "grid": proj["grid"],
             "ty": ty, "tl": tl, "ag": ag, "agl": agl,
-            "cl": proj["cl"], "clusters": proj["clusters"],
+            "cl": proj["cl"], "clusters": proj["clusters"], "noise": proj.get("noise", 0),
             "titles": titles, "n": len(ids),
             "note": "2-D UMAP (cosine) of model2vec document embeddings; regions labeled by "
                     "their distinctive words. Proximity ≈ textual similarity, not authority. "
@@ -167,8 +167,10 @@ function docLabel(k){const id=DATA.ids[k];
 function topicColor(i){return `hsl(${(i*137.508)%360},58%,55%)`;}
 function agColor(i){const e=DATA.agl[i];return e.kind==='other'?'#8892a0':e.kind==='statute'?'#b4bcc7':PAL16[i%PAL16.length];}
 // color modes: each maps a per-point category array to a list of {name,color}
+const topicCats=DATA.clusters.map((c,i)=>({name:c.t,color:topicColor(i),n:c.n}));
+if(DATA.noise>0)topicCats.push({name:'(unclustered — diffuse text)',color:'#8892a0',n:DATA.noise});
 const MODES={
-  topic:{arr:DATA.cl,cats:DATA.clusters.map((c,i)=>({name:c.t,color:topicColor(i),n:c.n})),title:'topic region'},
+  topic:{arr:DATA.cl,cats:topicCats,title:'topic region'},
   type:{arr:DATA.ty,cats:tl.map((t)=>({name:t.replace(/_/g,' '),color:TYPECOL[t]||'#888'})),title:'document type'},
   agency:{arr:DATA.ag,cats:DATA.agl.map((a,i)=>({name:a.name,color:agColor(i),n:a.n})),title:'agency'},
 };
@@ -196,17 +198,25 @@ function draw(){raf=0;
   ctx.globalAlpha=1;
   drawTopicLabels();
 }
+const LABEL_ORDER=DATA.clusters.map((c,i)=>i).sort((a,b)=>DATA.clusters[b].n-DATA.clusters[a].n);
 function drawTopicLabels(){
   ctx.textAlign='center';ctx.textBaseline='middle';
   const ink=getComputedStyle(document.body).getPropertyValue('--ink').trim();
   const panel=getComputedStyle(document.body).getPropertyValue('--panel').trim();
   ctx.font='600 12.5px system-ui';
-  for(const c of DATA.clusters){
+  // draw biggest clusters first; skip any label whose box overlaps one already placed, so
+  // the crowded core declutters at overview and more labels appear as you zoom in
+  const placed=[];
+  for(const i of LABEL_ORDER){
+    const c=DATA.clusters[i];
     const px=view.tx+c.x*view.s,py=view.ty+c.y*view.s;
     if(px<-40||px>cv.clientWidth+40||py<-20||py>cv.clientHeight+20)continue;
     const w=ctx.measureText(c.t).width;
-    ctx.globalAlpha=0.72;ctx.fillStyle=panel;
-    ctx.fillRect(px-w/2-5,py-9,w+10,18);
+    const box={x:px-w/2-5,y:py-9,w:w+10,h:18};
+    if(placed.some(p=>box.x<p.x+p.w&&box.x+box.w>p.x&&box.y<p.y+p.h&&box.y+box.h>p.y))continue;
+    placed.push(box);
+    ctx.globalAlpha=0.74;ctx.fillStyle=panel;
+    ctx.fillRect(box.x,box.y,box.w,box.h);
     ctx.globalAlpha=1;ctx.fillStyle=ink;ctx.fillText(c.t,px,py);
   }
 }
