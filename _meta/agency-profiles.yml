@@ -1,578 +1,736 @@
-note: 'Curated context about each agency''s DATA, not the data itself: governance class (with a required
-  citation basis), where the agency publishes its policies (or that it doesn''t), and quality caveats.
-  Keyed by registry slug (_meta/catalog/agencies.yml); schema-validated (_meta/schema/agency-profile.schema.json).
-  Derived stats (doc counts, OCR counts, last-checked dates) are computed fresh by src/agency_profile.py
-  — never stored here. ''unclassified''/''unknown'' are honest defaults awaiting human curation; a classification
-  without a citation is an invented claim and the schema rejects it.'
+note: "Curated context about each agency's DATA, not the data itself: governance class (with a required citation basis), where\
+  \ the agency publishes its policies (or that it doesn't), and quality caveats. Keyed by registry slug (_meta/catalog/agencies.yml);\
+  \ schema-validated (_meta/schema/agency-profile.schema.json). Derived stats (doc counts, OCR counts, last-checked dates)\
+  \ are computed fresh by src/agency_profile.py \u2014 never stored here. 'unclassified'/'unknown' are honest defaults awaiting\
+  \ human curation; a classification without a citation is an invented claim and the schema rejects it."
 profiles:
   appraiser-certification-and-licensure-board:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 182.454(1) (semi-independent state agency under ORS 182.454 to 182.472)
   board-of-chiropractic-examiners:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 811 assigned per agency registry
   board-of-examiners-for-engineering-and-land-surveying:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 182.454(3) (semi-independent state agency under ORS 182.454 to 182.472)
   board-of-examiners-for-speech-language-pathology-and-audiology:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 335 assigned per agency registry
   board-of-geologist-examiners:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 182.454(4) (semi-independent state agency under ORS 182.454 to 182.472)
   board-of-licensed-social-workers:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 877 assigned per agency registry
   board-of-massage-therapists:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 182.454(9) (semi-independent state agency under ORS 182.454 to 182.472)
   board-of-medical-imaging:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 337 assigned per agency registry
   board-of-nursing:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 851 assigned per agency registry
   board-of-optometry:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 182.454(6) (semi-independent state agency under ORS 182.454 to 182.472)
   board-of-parole-and-post-prison-supervision:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 255 assigned per agency registry
   board-of-pharmacy:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 855 assigned per agency registry
   bureau-of-labor-and-industries:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 651.020 (creates Commissioner of BOLI); ORS 174.112 (executive department definition)
   chief-education-office:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 705 assigned per agency registry
   citizens-initiative-review-commission:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 182.454(12) (semi-independent state agency under ORS 182.454 to 182.472)
   columbia-river-gorge-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 350 assigned per agency registry
   commission-for-the-blind:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 585 assigned per agency registry
   construction-contractors-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 812 assigned per agency registry
   department-of-administrative-services:
     governance: executive_branch
-    governance_basis: ORS 184.305 (creates DAS); ORS 174.112 (executive department definition) — both
-      in-repo
+    governance_basis: "ORS 184.305 (creates DAS); ORS 174.112 (executive department definition) \u2014 both in-repo"
     policies_published: web
-    policies_location: https://www.oregon.gov/das/Pages/policies.aspx (+ policieshr.aspx) — SharePoint
-      listing of record, 14 category views; mirrored by the department-of-administrative-services-policies
-      update group
-    notes: Statewide policies binding executive-branch agencies. 9 pre-2010 policy PDFs are identical
-      blank-placeholder scans on the source site (unrecoverable; summary stubs in-repo); 3 policies carry
-      OCR-recovered text (see conversion_notes).
+    policies_location: "https://www.oregon.gov/das/Pages/policies.aspx (+ policieshr.aspx) \u2014 SharePoint listing of record,\
+      \ 14 category views; mirrored by the department-of-administrative-services-policies update group"
+    notes: Statewide policies binding executive-branch agencies. 9 pre-2010 policy PDFs are identical blank-placeholder scans
+      on the source site (unrecoverable; summary stubs in-repo); 3 policies carry OCR-recovered text (see conversion_notes).
   department-of-administrative-services-chief-financial-office:
     governance: executive_branch
     governance_basis: Sub-unit of DAS (ORS 184.305); OAR chapter 122 assigned per the agency registry
     policies_published: web
-    policies_location: 'Oregon Accounting Manual: SharePoint listing behind oregon.gov/das/Financial/Acctng
-      (16 chapter views); mirrored by the oam update group'
-    notes: Issues the Oregon Accounting Manual (OAM) — statewide accounting policy/procedure.
+    policies_location: 'Oregon Accounting Manual: SharePoint listing behind oregon.gov/das/Financial/Acctng (16 chapter views);
+      mirrored by the oam update group'
+    notes: "Issues the Oregon Accounting Manual (OAM) \u2014 statewide accounting policy/procedure."
   department-of-administrative-services-chief-human-resources-office:
     governance: executive_branch
     governance_basis: Sub-unit of DAS (ORS 184.305); OAR chapter 105 assigned per the agency registry
     policies_published: web
-    policies_location: State HR policies are part of the DAS policies listing (policieshr.aspx views);
-      OARs in chapter 105
+    policies_location: State HR policies are part of the DAS policies listing (policieshr.aspx views); OARs in chapter 105
     notes: Statewide HR policy issuer (50-xxx and 105-xxx series).
   department-of-administrative-services-office-of-the-state-chief-information-officer:
     governance: executive_branch
-    governance_basis: Sub-unit of DAS (ORS 184.305); statutory duties in ORS 276A (in-repo); OAR chapter
-      128 assigned per the agency registry
+    governance_basis: Sub-unit of DAS (ORS 184.305); statutory duties in ORS 276A (in-repo); OAR chapter 128 assigned per
+      the agency registry
     policies_published: web
-    policies_location: 'EIS/CSS standards: oregon.gov/eis/cyber-security-services pages; security OARs
-      in chapter 128 division 30; statewide IT policies in the DAS 107-004-xxx series'
+    policies_location: 'EIS/CSS standards: oregon.gov/eis/cyber-security-services pages; security OARs in chapter 128 division
+      30; statewide IT policies in the DAS 107-004-xxx series'
     notes: State CIO / Enterprise Information Services. IT security authority rooted at ORS 276A.300.
   department-of-agriculture:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 561.010 (establishes State Department of Agriculture); ORS 174.112
   department-of-agriculture-oregon-albacore-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 972 assigned per agency registry
   department-of-agriculture-oregon-alfalfa-seed-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 624 assigned per agency registry
   department-of-agriculture-oregon-beef-council:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 605 assigned per agency registry
   department-of-agriculture-oregon-blueberry-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 670 assigned per agency registry
   department-of-agriculture-oregon-clover-seed-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 664 assigned per agency registry
   department-of-agriculture-oregon-dairy-products-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 617 assigned per agency registry
   department-of-agriculture-oregon-dungeness-crab-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 645 assigned per agency registry
   department-of-agriculture-oregon-fine-fescue-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 604 assigned per agency registry
   department-of-agriculture-oregon-hazelnut-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 623 assigned per agency registry
   department-of-agriculture-oregon-hop-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 643 assigned per agency registry
   department-of-agriculture-oregon-invasive-species-council:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 609 assigned per agency registry
   department-of-agriculture-oregon-mint-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 642 assigned per agency registry
   department-of-agriculture-oregon-potato-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 658 assigned per agency registry
   department-of-agriculture-oregon-processed-vegetable-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 647 assigned per agency registry
   department-of-agriculture-oregon-raspberry-and-blackberry-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 611 assigned per agency registry
   department-of-agriculture-oregon-ryegrass-growers-seed-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 657 assigned per agency registry
   department-of-agriculture-oregon-salmon-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 646 assigned per agency registry
   department-of-agriculture-oregon-sheep-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 644 assigned per agency registry
   department-of-agriculture-oregon-strawberry-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 668 assigned per agency registry
   department-of-agriculture-oregon-sweet-cherry-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 669 assigned per agency registry
   department-of-agriculture-oregon-tall-fescue-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 607 assigned per agency registry
   department-of-agriculture-oregon-trawl-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 656 assigned per agency registry
   department-of-agriculture-oregon-wheat-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 678 assigned per agency registry
   department-of-consumer-and-business-services:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 705.105 (establishes DCBS); ORS 174.112
   department-of-consumer-and-business-services-building-codes-division:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Consumer and Business Services; OAR chapter 918 assigned per agency registry
   department-of-consumer-and-business-services-director-s-office:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Consumer and Business Services; OAR chapter 440 assigned per agency registry
   department-of-consumer-and-business-services-finance-and-securities-regulation:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Consumer and Business Services; OAR chapter 441 assigned per agency registry
   department-of-consumer-and-business-services-health-insurance-marketplace:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Consumer and Business Services; OAR chapter 945 assigned per agency registry
   department-of-consumer-and-business-services-insurance-regulation:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Consumer and Business Services; OAR chapter 836 assigned per agency registry
   department-of-consumer-and-business-services-oregon-occupational-safety-and-health-division:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Consumer and Business Services; OAR chapter 437 assigned per agency registry
   department-of-consumer-and-business-services-workers-compensation-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Consumer and Business Services; OAR chapter 438 assigned per agency registry
   department-of-consumer-and-business-services-workers-compensation-division:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Consumer and Business Services; OAR chapter 436 assigned per agency registry
   department-of-corrections:
     governance: executive_branch
-    governance_basis: ORS 423.020 (creates the Department of Corrections) and ORS 423.075
-      (director appointed by, and serving at the pleasure of, the Governor) — both in-repo
+    governance_basis: "ORS 423.020 (creates the Department of Corrections) and ORS 423.075 (director appointed by, and serving\
+      \ at the pleasure of, the Governor) \u2014 both in-repo"
     policies_published: web
     policies_location: https://www.oregon.gov/doc/rules-and-policies/pages/policies.aspx
-    notes: Numbered departmental policy series (e.g. 10.1.2) published as individual PDFs
-      with a clean text layer; ingested mechanically from the static listing page via
-      src/ingest_policies.py.
+    notes: Numbered departmental policy series (e.g. 10.1.2) published as individual PDFs with a clean text layer; ingested
+      mechanically from the static listing page via src/ingest_policies.py.
   department-of-energy:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 330 assigned per agency registry
   department-of-energy-energy-facility-siting-council:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Energy; OAR chapter 345 assigned per agency registry
   department-of-environmental-quality:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 468.010 (establishes Department of Environmental Quality); ORS 174.112
   department-of-fish-and-wildlife:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 635 assigned per agency registry
   department-of-forestry:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 526.008 (establishes State Forestry Department); ORS 174.112
   department-of-geology-and-mineral-industries:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 632 assigned per agency registry
   department-of-human-services:
     governance: executive_branch
-    governance_basis: ORS 409.010 (establishes the Department of Human Services) — in-repo
+    governance_basis: "ORS 409.010 (establishes the Department of Human Services) \u2014 in-repo"
     policies_published: web
     policies_location: https://www.oregon.gov/odhs/rules-policy/Pages/agency-policies.aspx
-    notes: Administrative/agency policies ingested from the ODHS Rules & Policies SharePoint
-      list. The separate program Transmittals system (change-announcements) is out of scope
-      — see BACKLOG.
+    notes: "Administrative/agency policies ingested from the ODHS Rules & Policies SharePoint list. The separate program Transmittals\
+      \ system (change-announcements) is out of scope \u2014 see BACKLOG."
   department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Human Services; OAR chapter 411 assigned per agency registry
   department-of-human-services-child-welfare-programs:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Human Services; OAR chapter 413 assigned per agency registry
   department-of-human-services-home-care-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Human Services; OAR chapter 418 assigned per agency registry
   department-of-human-services-self-sufficiency-programs:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Human Services; OAR chapter 461 assigned per agency registry
   department-of-human-services-vocational-rehabilitation-services:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Human Services; OAR chapter 582 assigned per agency registry
   department-of-justice:
     governance: executive_branch
-    governance_basis: ORS 180.020 (Attorney General elected statewide — in-repo); office created by statute
-      (ORS ch. 180), not the constitution
+    governance_basis: "ORS 180.020 (Attorney General elected statewide \u2014 in-repo); office created by statute (ORS ch.\
+      \ 180), not the constitution"
     policies_published: unknown
-    notes: Headed by the statewide-elected Attorney General; statutory (not constitutional) office, so
-      classed executive_branch — see basis.
+    notes: "Headed by the statewide-elected Attorney General; statutory (not constitutional) office, so classed executive_branch\
+      \ \u2014 see basis."
   department-of-public-safety-standards-and-training:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 259 assigned per agency registry
   department-of-revenue:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 150 assigned per agency registry
   department-of-state-lands:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 273.041 (establishes Department of State Lands); ORS 174.112
   department-of-state-lands-south-slough-national-estuarine-research-reserve:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of State Lands; OAR chapter 142 assigned per agency registry
   department-of-state-police:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 257 assigned per agency registry
   department-of-state-police-office-of-state-fire-marshal:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of State Police; OAR chapter 837 assigned per agency registry
   department-of-state-police-oregon-state-athletic-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of State Police; OAR chapter 230 assigned per agency registry
   department-of-transportation:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 184.615 (establishes Department of Transportation); ORS 174.112
   department-of-transportation-driver-and-motor-vehicle-services-division:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Transportation; OAR chapter 735 assigned per agency registry
   department-of-transportation-highway-division:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Transportation; OAR chapter 734 assigned per agency registry
   department-of-transportation-motor-carrier-transportation-division:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Transportation; OAR chapter 740 assigned per agency registry
   department-of-transportation-public-transit-division:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Transportation; OAR chapter 732 assigned per agency registry
   department-of-transportation-rail-division:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Transportation; OAR chapter 741 assigned per agency registry
   department-of-transportation-transportation-safety-division:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Department of Transportation; OAR chapter 737 assigned per agency registry
   department-of-veterans-affairs:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 406.005 (establishes Department of Veterans' Affairs); ORS 174.112
   eastern-oregon-border-economic-development-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 124 assigned per agency registry
   economic-recovery-review-council:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 966 assigned per agency registry
   employment-department:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 657.601 (establishes Employment Department); ORS 174.112
   employment-relations-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 240.060 (establishes Employment Relations Board); ORS 174.112
   higher-education-coordinating-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 350.075 (establishes HECC); ORS 174.112
   higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Higher Education Coordinating Commission; OAR chapter 589 assigned per agency registry
   higher-education-coordinating-commission-office-of-degree-authorization:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Higher Education Coordinating Commission; OAR chapter 583 assigned per agency registry
   higher-education-coordinating-commission-office-of-student-access-and-completion:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Higher Education Coordinating Commission; OAR chapter 575 assigned per agency registry
   judicial-department:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Or. Const. Art. VII; ORS ch. 1; judicial branch agency assigned per OAR chapter 137
   land-conservation-and-development-department:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 660 assigned per agency registry
   land-use-board-of-appeals:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 661 assigned per agency registry
   landscape-architect-board:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 182.454(5) (semi-independent state agency under ORS 182.454 to 182.472)
   landscape-contractors-board:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 182.454(11) (semi-independent state agency under ORS 182.454 to 182.472)
   legislative-administration-committee:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 173.710 (establishes Legislative Administration Committee); legislative branch service agency
   long-term-care-ombudsman:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 114 assigned per agency registry
   mental-health-regulatory-agency:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter None assigned per agency registry
   mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Mental Health Regulatory Agency; OAR chapter 833 assigned per agency registry
   mental-health-regulatory-agency-oregon-board-of-psychology:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Mental Health Regulatory Agency; OAR chapter 858 assigned per agency registry
   mortuary-and-cemetery-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 830 assigned per agency registry
   occupational-therapy-licensing-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 339 assigned per agency registry
   oregon-529-savings-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 173 assigned per agency registry
   oregon-board-of-accountancy:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 801 assigned per agency registry
   oregon-board-of-dentistry:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 818 assigned per agency registry
   oregon-board-of-naturopathic-medicine:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 850 assigned per agency registry
   oregon-board-of-physical-therapy:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 182.454(10) (semi-independent state agency under ORS 182.454 to 182.472)
   oregon-business-development-department:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 285A.070 (Business Oregon); ORS 174.112
   oregon-criminal-justice-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 137.653 (establishes Criminal Justice Commission); ORS 174.112
   oregon-department-of-aviation:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 738 assigned per agency registry
   oregon-department-of-education:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 326.111 (establishes Department of Education); ORS 174.112
   oregon-department-of-education-early-learning-division:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Department of Education; OAR chapter 414 assigned per agency registry
   oregon-department-of-education-fair-dismissal-appeals-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Department of Education; OAR chapter 586 assigned per agency registry
   oregon-department-of-education-youth-development-division:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Department of Education; OAR chapter 423 assigned per agency registry
   oregon-facilities-authority:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 172 assigned per agency registry
   oregon-film-and-video-office:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 284.305 (semi-independent state agency)
   oregon-forest-resources-institute:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 628 assigned per agency registry
   oregon-government-ethics-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 244.250 (establishes Government Ethics Commission); ORS 174.112
   oregon-health-authority:
     governance: executive_branch
-    governance_basis: ORS 413.032 (establishes the Oregon Health Authority) and ORS 413.033
-      (OHA director) — both in-repo
+    governance_basis: "ORS 413.032 (establishes the Oregon Health Authority) and ORS 413.033 (OHA director) \u2014 both in-repo"
     policies_published: web
     policies_location: https://www.oregon.gov/oha/osh/pages/policies.aspx
-    notes: Decentralized — policies published per division. Ingested the policy-publishing
-      divisions (Oregon State Hospital, Info-Security/Privacy Office, Public Health IRB);
-      Equity & Inclusion has no policy library (retired page). Attributed to this parent slug
-      (OSH/ISPO/IRB are not separate registry orgs).
+    notes: "Decentralized \u2014 policies published per division. Ingested the policy-publishing divisions (Oregon State Hospital,\
+      \ Info-Security/Privacy Office, Public Health IRB); Equity & Inclusion has no policy library (retired page). Attributed\
+      \ to this parent slug (OSH/ISPO/IRB are not separate registry orgs)."
   oregon-health-authority-health-licensing-office:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 331 assigned per agency registry
   oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 824 assigned per agency registry
   oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 819 assigned per agency registry
   oregon-health-authority-health-licensing-office-board-of-cosmetology:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 817 assigned per agency registry
   oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 332 assigned per agency registry
   oregon-health-authority-health-licensing-office-board-of-licensed-dietitians:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 834 assigned per agency registry
   oregon-health-authority-health-licensing-office-environmental-health-registration-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 338 assigned per agency registry
   oregon-health-authority-health-licensing-office-long-term-care-administrators-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 853 assigned per agency registry
   oregon-health-authority-health-policy-and-analytics:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 409 assigned per agency registry
   oregon-health-authority-health-systems-division-addiction-services:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 415 assigned per agency registry
   oregon-health-authority-health-systems-division-behavioral-health-services:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 309 assigned per agency registry
   oregon-health-authority-health-systems-division-medical-assistance-programs:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 410 assigned per agency registry
   oregon-health-authority-oregon-prescription-drug-program:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 431 assigned per agency registry
   oregon-health-authority-public-employees-benefit-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 101 assigned per agency registry
   oregon-health-authority-public-health-division:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 333 assigned per agency registry
   oregon-housing-and-community-services-department:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 813 assigned per agency registry
   oregon-investment-council:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 171 assigned per agency registry
   oregon-liquor-control-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 471.705 (establishes OLCC); ORS 174.112
   oregon-medical-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 847 assigned per agency registry
   oregon-military-department:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 396.145 (establishes Military Department); ORS 174.112
   oregon-military-department-office-of-emergency-management:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Military Department; OAR chapter 104 assigned per agency registry
   oregon-patient-safety-commission:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 182.454(7) (semi-independent state agency under ORS 182.454 to 182.472)
   oregon-public-employees-retirement-system:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 238.601 (establishes PERS); ORS 174.112
   oregon-racing-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 462 assigned per agency registry
   oregon-state-library:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 543 assigned per agency registry
   oregon-state-lottery:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: "Or. Const. Art. XV, \xA7 4b; ORS 461.100 (State Lottery Commission)"
   oregon-state-marine-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 250 assigned per agency registry
   oregon-state-treasury:
     governance: constitutional_elected
-    governance_basis: Or. Const. Art. VI, §1 (office established); ORS ch. 178 (duties — in-repo)
+    governance_basis: "Or. Const. Art. VI, \xA71 (office established); ORS ch. 178 (duties \u2014 in-repo)"
     policies_published: unknown
-    notes: Constitutional statewide elected office; excluded from several DAS statewide policies (see
-      ORS 276A.303).
+    notes: Constitutional statewide elected office; excluded from several DAS statewide policies (see ORS 276A.303).
   oregon-tourism-commission:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 284.111 (Travel Oregon / semi-independent state commission)
   oregon-utility-notification-center:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 952 assigned per agency registry
   oregon-watershed-enhancement-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 695 assigned per agency registry
   oregon-watershed-enhancement-board-oregon-agricultural-heritage-program:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Watershed Enhancement Board; OAR chapter 698 assigned per agency registry
   oregon-wine-board:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 182.454(8) (semi-independent state agency under ORS 182.454 to 182.472)
   oregon-youth-authority:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 420A.010 (establishes Oregon Youth Authority); ORS 174.112
   parks-and-recreation-department:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 390.111 (establishes Parks and Recreation Department); ORS 174.112
   psychiatric-security-review-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 859 assigned per agency registry
   public-utility-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 756.014 (establishes Public Utility Commission); ORS 174.112
   public-utility-commission-oregon-board-of-maritime-pilots:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Public Utility Commission; OAR chapter 856 assigned per agency registry
   real-estate-agency:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 696.375 (establishes Real Estate Agency); ORS 174.112
   secretary-of-state:
     governance: constitutional_elected
-    governance_basis: Or. Const. Art. VI, §1 (office established); ORS ch. 177 (duties — in-repo)
+    governance_basis: "Or. Const. Art. VI, \xA71 (office established); ORS ch. 177 (duties \u2014 in-repo)"
     policies_published: unknown
-    notes: Constitutional statewide elected office; excluded from several DAS statewide policies (see
-      ORS 276A.303).
+    notes: Constitutional statewide elected office; excluded from several DAS statewide policies (see ORS 276A.303).
   secretary-of-state-archives-division:
-    governance: unclassified
+    governance: constitutional_elected
     policies_published: unknown
+    governance_basis: "Sub-unit of Secretary of State (Or. Const. Art. VI, \xA71; ORS ch. 177); OAR chapter 166 assigned per\
+      \ agency registry"
   secretary-of-state-audits-division:
-    governance: unclassified
+    governance: constitutional_elected
     policies_published: unknown
+    governance_basis: "Sub-unit of Secretary of State (Or. Const. Art. VI, \xA71; ORS ch. 177); OAR chapter 162 assigned per\
+      \ agency registry"
   secretary-of-state-business-services-division:
-    governance: unclassified
+    governance: constitutional_elected
     policies_published: unknown
+    governance_basis: "Sub-unit of Secretary of State (Or. Const. Art. VI, \xA71; ORS ch. 177); OAR chapter 167 assigned per\
+      \ agency registry"
   secretary-of-state-corporation-division:
-    governance: unclassified
+    governance: constitutional_elected
     policies_published: unknown
+    governance_basis: "Sub-unit of Secretary of State (Or. Const. Art. VI, \xA71; ORS ch. 177); OAR chapter 160 assigned per\
+      \ agency registry"
   secretary-of-state-elections-division:
-    governance: unclassified
+    governance: constitutional_elected
     policies_published: unknown
+    governance_basis: "Sub-unit of Secretary of State (Or. Const. Art. VI, \xA71; ORS ch. 177); OAR chapter 165 assigned per\
+      \ agency registry"
   southern-oregon-university:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 573 assigned per agency registry
   state-board-of-architect-examiners:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 182.454(2) (semi-independent state agency under ORS 182.454 to 182.472)
   teacher-standards-and-practices-commission:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 584 assigned per agency registry
   travel-information-council:
-    governance: unclassified
+    governance: semi_independent
     policies_published: unknown
+    governance_basis: ORS 377.835 (establishes Travel Information Council as semi-independent state agency)
   veterinary-medical-examining-board:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 875 assigned per agency registry
   water-resources-department:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 536.039 (establishes Water Resources Department); ORS 174.112
   office-of-training-investigations-and-safety:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 419 assigned per agency registry
   oregon-health-authority-equity-and-inclusion-division:
-    governance: unclassified
+    governance: executive_branch
     policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 950 assigned per agency registry
