@@ -1,0 +1,335 @@
+Category 85 Implementation Plan
+Internal Management Directive
+
+
+
+
+                                             Air Quality – Headquarters
+                                             Air Operations
+                                             700 NE Multnomah St.
+                                             Suite 600
+                                             Portland, OR 97232
+                                             Phone: 503-229-6442
+                                                     800-452-4011
+                                             Fax:    503-229-5408
+                                             Contact: Dan DeFehr
+                                             daniel.defehr@deq.oregon.gov
+                                             www.oregon.gov/DEQ
+
+
+
+
+                                             DEQ is a leader in restoring,
+                                             maintaining and enhancing the
+                                             quality of Oregon’s air, land
+                                             and water.
+
+
+
+
+Oregon Department of Environmental Quality
+DEQ can provide documents in an alternate format or in a language other than English upon request. Call
+DEQ at 800-452-4011 or email deqinfo@deq.state.or.us.
+
+
+
+                                                                                                      ii
+Disclaimer
+This directive is intended solely as guidance for DEQ employees. It does not constitute
+rulemaking by the Environmental Quality Commission and may not be relied upon to create an
+enforceable right or benefit, substantive or procedural, enforceable at law or in equity, by any
+person. With written managerial approval, DEQ employees may deviate from this directive.
+DEQ anticipates revising this directive from time to time as conditions warrant.
+
+
+
+
+Document Development
+
+ Prepared By:         Dan DeFehr and Jill Inahara
+
+                     Mark Bailey                                  Apr 12, 2022
+ Reviewed By: Mark Bailey (Apr 12, 2022 11:54 PDT)
+               Mark Bailey
+                     Claudia Davis                                Apr 13, 2022
+                     Claudia Davis (Apr 13, 2022 17:13 PDT)
+                      Claudia Davis
+
+                     Matthew Davis
+                     Matthew Davis (Apr 14, 2022 15:04 PDT)
+                                                                  Apr 14, 2022
+                      Matt Davis
+
+                     Melissa Hovey
+                     Melissa Hovey (Mar 25, 2022 08:11 PDT)
+                                                                  Mar 25, 2022
+                      Melissa Hovey
+                     Tim Wollerman
+                     Tim Wollerman (Apr 18, 2022 14:11 PDT)
+                                                                  Apr 18, 2022
+                      Air Quality Program Operations Manager
+
+
+                     Ali Mirzakhalili                             Apr 18, 2022
+ Approved By: Ali Mirzakhalili (Apr 18, 2022 21:07 PDT)
+                 Ali Mirzakhalili                                   Date
+
+
+
+
+                                                                                                   iii
+Table of Contents
+1. Intent/Purpose/Statement of Need ............................................................................................. 1
+2. Applicability .............................................................................................................................. 1
+3. Summary .................................................................................................................................... 1
+4. Background ................................................................................................................................ 1
+5. Directive ..................................................................................................................................... 5
+6. Record of Revisions to IMD ...................................................................................................... 7
+
+
+
+
+                                                                                                                                                   iv
+1. Intent/Purpose/Statement of Need
+The purpose of this IMD is to provide direction to staff to ensure consistent interpretation of permit
+applicability under Part B, Category 85, of OAR 340-216-8010 Table 1. The new Category 85 Basic
+ACDP, adopted by the EQC in September 2020, will be issued to sources with emissions that require
+permitting under Category 85 but that accept a small number of enforceable limits and conditions so a
+Simple or Standard ACDP is not required. The sources that would qualify for a Category 85 Basic
+ACDP may emit low levels of criteria pollutants that do not significantly contribute to exceedances of
+the National Ambient Air Quality Standards but may emit toxic air contaminants as well. Regulatory
+oversight is needed to ensure monitoring, recordkeeping, and reporting activities are conducted to
+ensure compliance with the permit limit and prevent adverse air quality impacts.
+
+
+
+
+2. Applicability
+DEQ air quality permit writers will use this IMD to ensure consistency among DEQ staff when
+determining if a permit is required, and the type of permit, under DEQ rules. A Category 85 analysis is
+performed if a source type is not listed in any of the source specific categories in OAR 340-216-8010
+Table 1 and also if the source is below the permitting threshold in any of the source specific categories.
+
+
+
+
+3. Summary
+The applicability requirements of Category 85 of OAR 340-216-8010 Table 1 were subject to
+interpretation by regional offices that may have historically been different from one another. The air
+quality permitting program needs consistent interpretation of permit applicability under this category to
+provide a predictable, fair and equitable approach to permitting determinations for all sources. Sources
+that are not required to obtain permits can be regulated under a Notice of Intent to Construct with
+enforceable conditions. Therefore, procedures in this IMD to permit sources under Category 85, either
+on a Basic, Simple or Standard ACDP, are intended to ensure consistency.
+
+
+
+
+4. Background
+New sources submit a Notice of Intent to Construct when they believe a permit is not required.
+However, Category 85 is so encompassing that many sources do not realize that they are required to
+obtain a permit instead of approval through an NC. Although NC approvals can contain enforceable
+conditions because DEQ issues these approvals as enforceable orders, staff typically do not inspect
+these sources. In addition, NCs can be “approved” without DEQ issuing an approval or denying the
+application as allowed by OAR 340-210-0240. NCs were also not subject to fees until recently. To
+ensure compliance for some sources required to obtain a permit under Category 85, a Category 85
+3/25/2022                                                                                                1
+Basic ACDP is the appropriate compliance mechanism, not a Notice of Intent to Construct approval.
+Other sources may require a Simple or Standard ACDP. The permitted source is required to submit
+annual reports and is inspected on a regular basis.
+
+In September 2020, the EQC adopted a new category of Basic ACDPs:
+
+       Table 1 – OAR 340-216-8010
+       Activities and Sources
+
+       Part A: Basic ACDP
+       8) Sources subject to permitting under Part B of this table, number 85 if all of the following
+       criteria are met:
+          a) The source is not subject to any category listed on this table other than Part B number 85;
+          b) The source has requested an enforceable limit on their actual emissions, if the source were to
+          operate uncontrolled, to below Part B number 85 of this table as applicable depending on the
+          source’s location through one or both of the following:
+                i) A limit on hours of operation;
+                ii) A limit on production;
+          c) Control devices are not required to be used or otherwise accounted for to maintain emissions
+          levels compliant with 8.b above;
+          d) The source is not subject to and does not have any affected emissions units subject to a 40
+          C.F.R. part 60, part 61, or part 63 standard (NSPS or NESHAP);
+          e) The source is not subject to any specific industry or operation standard in OAR chapter 340
+          divisions 232, 234, or 236.
+          f) DEQ has determined that the source is not required to conduct source testing and source
+          testing for emission factor verification will not be required.
+
+
+Category 85 states the following: 1
+
+       85 All other sources, both stationary and portable, not listed herein which would have actual
+       emissions, if the source were to operate uncontrolled, of 5 or more tons per year of direct PM2.5
+       or PM10 if located in a PM2.5 or PM10 nonattainment or maintenance area, or 10 or more tons
+       per year of any single criteria pollutant if located in any part of the state.
+
+
+
+Permit writers should calculate potential uncontrolled emissions in lieu of “actual emissions” to
+determine whether a permit is required under Category 85 because new sources not yet constructed do
+not have actual emissions. See Section 5 (Directive) for details on the calculation method. PTE is
+defined in OAR 340-216-200-0020(124) as the following:
+
+       (124) "Potential to emit" or "PTE" means the lesser of:
+               (a) The regulated pollutant emissions capacity of a stationary source; or
+               (b) The maximum allowable regulated pollutant emissions taking into consideration any
+               physical or operational limitation, including use of control devices and restrictions on
+               hours of operation or on the type or amount of material combusted, stored, or processed, if
+               the limitation is enforceable by the Administrator.
+               (c) This definition does not alter or affect the use of this term for any other purposes under
+               the FCAA or the term "capacity factor" as used in Title IV of the FCAA and the
+
+1
+ Terms that are in bold italic font are defined in this document.
+3/25/2022                                                                                                       2
+              regulations promulgated thereunder. Secondary emissions are not considered in
+              determining the potential to emit.
+
+
+The following definitions are included in the definition of “potential to emit” and are important in the
+understanding of PTE:
+
+       (19) "Capacity" means the maximum regulated pollutant emissions from a stationary source
+       under its physical and operational design.
+
+
+      (34) “Control device” means equipment, other than inherent process equipment that is used to
+      destroy or remove a regulated pollutant prior to discharge to the atmosphere. The types of
+      equipment that may commonly be used as control devices include, but are not limited to, fabric
+      filters, mechanical collectors, electrostatic precipitators, inertial separators, afterburners, thermal
+      or catalytic incinerators, adsorption devices, such as carbon beds, condensers, scrubbers, such as
+      wet collection and gas absorption devices, selective catalytic or non-catalytic reduction systems,
+      flue gas recirculation systems, spray dryers, spray towers, mist eliminators, acid plants, sulfur
+      recovery plants, injection systems, such as water, steam, ammonia, sorbent or limestone injection,
+      and combustion devices independent of the particular process being conducted at an emissions
+      unit, e.g., the destruction of emissions achieved by venting process emission streams to flares,
+      boilers or process heaters. For purposes of OAR 340-212-0200 through 340-212-0280, a control
+      device does not include passive control measures that act to prevent regulated pollutants from
+      forming, such as the use of seals, lids, or roofs to prevent the release of regulated pollutants, use of
+      low-polluting fuel or feedstocks, or the use of combustion or other process design features or
+      characteristics. If an applicable requirement establishes that particular equipment which otherwise
+      meets this definition of a control device does not constitute a control device as applied to a
+      particular regulated pollutant-specific emissions unit, then that definition will be binding for
+      purposes of OAR 340-212-0200 through 340-212-0280.
+
+
+
+       (138) "Secondary emissions" means emissions that are a result of the construction and/or
+       operation of a source or modification, but that do not come from the source itself. Secondary
+       emissions must be specific, well defined, quantifiable, and impact the same general area as the
+       source associated with the secondary emissions. Secondary emissions may include, but are not
+       limited to:
+               (a) Emissions from ships and trains coming to or from a facility;
+               (b) Emissions from off-site support facilities that would be constructed or would
+               otherwise increase emissions as a result of the construction or modification of a source.
+
+
+
+
+3/25/2022                                                                                                        3
+       The following flowchart shows how permitting of the Category 85 Basic ACDP should be implemented:
+
+
+
+
+3/25/2022                                                                                                  4
+5. Directive
+To determine if Category 85 requires a source to obtain a permit, staff must do the following:
+   •   Evaluate PTE using the definition in OAR 340-200-0020(124)(a), assuming 8,760
+       hours/year of operation without add-on controls or limits on hours of operation.
+       Secondary emissions are not considered in determining PTE.
+            o If emissions are less than the Category 85 thresholds, and enforceable conditions
+              are not required to keep a source under those permitting thresholds, a permit is not
+              required. A Notice of Intent to Construct application will be required and may be
+              approved.
+            o If emissions are greater than the Category 85 thresholds:
+                      If the source has submitted an NC, staff must notify the source within the
+                       time deadlines described in OAR 340-210-0240 (depending on the type of
+                       NC submitted) that the NC is denied, and that they must apply for a
+                       permit; and
+                      If the source meets the criteria, they can submit a Category 85 Basic
+                       ACDP application that will include enforceable conditions on operation
+                       that will limit emissions to less than the Category 85 thresholds. In
+                       addition, the permit will include recordkeeping and annual reporting
+                       requirements, (e.g., limiting annual fuel usage, requiring recording of
+                       monthly fuel usage, and reporting annual fuel usage); or
+                      If the source is not willing or able to take enforceable limits to stay under
+                       Category 85 permitting thresholds, the source must apply for a Simple or
+                       Standard ACDP.
+
+Implementation Schedule
+   1. Implementation of this updated interpretation of Category 85 will begin immediately for
+      new sources and unpermitted existing sources that should be permitted as they are
+      discovered.
+   2. The SIC and NAICS codes for these sources that will be permitted under the Category 85
+      Basic ACDP will be entered into the TRAACS (Tracking, Reporting and Administration
+      of Air Contaminant Sources) database.
+   3. Beginning in 2022, the Small Business Assistance staff person will create a project plan
+      that evaluates sources on Simple ACPDs that may be eligible for a Category 85 Basic
+      ACDP. The plan will include conducting a statewide search for all unpermitted sources
+      with the same SIC and NAICS codes in the database to determine where additional
+      permits may be required. The plan will also include contacting these sources to obtain
+
+
+
+
+3/25/2022                                                                                              5
+       information to determine if a Category 85 ACDP or the alternative Basic ACDP is
+       required.
+   4. For sources that have previously been constructed pursuant to the NC process but should
+      have been permitted, DEQ will use its enforcement guidance based on the facts of each
+      case. If the source had submitted a Notice of Intent to Construct, which DEQ either
+      concurred with or was “default approved”, then DEQ will request, in writing, that the
+      source submit a permit application by a date certain. If the source fails to submit a permit
+      application by the date requested, DEQ will follow the enforcement guidance to issue the
+      appropriate enforcement response (WL/OC or PEN).
+
+
+Implementation Materials/Software
+   •   Headquarters staff have updated application forms and approval templates to clarify the
+       procedures for implementation of Category 85.
+   •   10% of NC applications submitted between 2015 and 2020, will be audited to determine
+       if a significant number of sources should be permitted under a Category 85 ACDP based
+       on this IMD. If a significant number of sources will require a permit, then RMT will
+       agree on an additional review iteration. Upon identifying a source requiring a permit,
+       then regional staff will contact these sources and require permit applications as follows
+       within 45 days of confirming a permit is required.
+
+
+Personnel
+Permit writers and permit coordinators will implement the procedures for determining whether a
+source should be permitted under Category 85. The Small Business Assistance staff person will
+help with identification of potential sources and outreach.
+
+
+Training
+This implementation plan will be available on the Permit Writers’ Resource Center. For
+questions regarding Category 85, staff should contact Dan DeFehr at 503-229-6442 or by email
+at Daniel.DEFEHR@deq.oregon.gov.
+
+
+Outstanding Issues
+Rulemaking may be pursued to complement this plan.
+   •   OAR 340-216-8010 Table 1 Part B, Category 85 may be clarified to require calculation
+       of emissions using uncontrolled potential to emit rather than relying on actual emissions
+       definition; and
+   •   Notice of Intent to Construct rules in OAR 340-210-0205 through 340-210-0250 may
+       require clarification.
+
+
+3/25/2022                                                                                          6
+6. Record of Revisions to IMD
+
+      Revision   Date    Changes   Editor
+
+
+
+
+3/25/2022                                   7
+

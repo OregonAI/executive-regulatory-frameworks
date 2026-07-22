@@ -1,0 +1,562 @@
+                                                                      Directive
+
+                    Title:      r:-waste·Handling facility Perrnltting & Cornpliari <:e       FORM C
+
+                                                                                              Pa es:4
+State of Oregon
+Department of
+Environmental
+Quality
+
+
+Scope:
+This directive defines e-waste, categorizes e-waste handling facilities, describes potential
+environmental concerns at these facilities, determines when an e-waste handling facility needs a solid
+waste permit, describes what should be in the permit, and outlines inspection and technical assistance
+guidelines.
+
+
+Purpose/Need:
+The purpose is to address potential environmental concerns at e-waste handling facilities and
+coordinate permitting and compliance work done by solid waste and hazardous waste staff.
+
+This directive applies to e-waste handling facilities but does not apply to transporters of e-waste
+(regulated by ODOT, local hauling franchises, etc.). Facilities that only repair electronics for resale are
+not defined as handling waste. This !MD is not intended to address some types of electronic waste
+such as white goods (household appliances containing circuit boards). These materials must still be
+managed appropriately to address potential hazardous waste or other environmental concerns. If
+some time in the future DEQ determines that white goods require more scrutiny, DEQ will amend this
+IM D or create a new one.
+
+Legal Authority:
+ORS 459, 465, and 466; OAR 340-093, 095-097, 102. See Attachment A, Guidance for Inspectors
+Regarding Management of Electronic Waste, for details on relevant statutes and administrative rules.
+
+Discussion:
+Electronics waste recycling is a growing sector in Oregon. The electronics waste stream is expected to
+grow due to increasing electronics in the marketplace as well as Oregon's E-cycle program initiated in
+January 2009 and the landfill ban on covered electronic devices slated to go into effect in January
+2010. Since electronics contain hazardous materials such as lead, mercury and cadmium, storage and
+handling must meet solid and hazardous waste requirements to protect human and environmental
+health. This sector has been under scrutiny for sham recycling. HW and SW inspectors have
+discovered several instances of mismanagement of e-waste through complaints. In addition, DEQ has
+not had a systematic, consistent approach to solid waste permitting and inspecting e-waste facilities
+and to hazardous waste regulation of small and large quantity generators who generate hazardous
+waste from e-waste. This !MD identifies a methodical approach that DEQ staff will use to address
+potential threats to Oregon's environment and human health regarding the safe collection and handling
+of e-waste.
+
+Directive:
+Definition of e-waste: E-waste is defined as electronic devices used in the work-place and at home
+that have been discarded or are intended to be discarded by the owner. These devices may contain
+toxic or hazardous substances such as lead or mercury. E-waste includes televisions, computer
+monitors, computers, printers, facsimile machines, copying equipment, calculators, VCRs, cell phones,
+telephones, radios, DVD players, portable DVD players with video screens, and any other existing or
+future types of equipment that are designed primarily to store or convey information electronically and
+any accessories to such equipment.
+
+
+
+
+Oregon Dept. of Environmental Quality, E-\vaste handling facility permitting and compliance       Page I
+Categories of e-waste handling facilities: DEQ is categorizing e-waste handling facilities by their
+activities. Environmental concerns increase as facilities carry out more activities. The categories are
+listed in order of increasing potential for environmental concern.
+
+Collector: A collector takes e-waste in and prepares it for shipping out with minimal handling and may
+store it for some period of time.
+
+Disassembly, dismantling and remanufacturing CDDRl: A DOR facility disassembles devices by taking
+them apart, dismantles devices by popping rivets, breaking or cutting components apart, or
+reconfiguring them, and/or remanufactures devices by mining them for parts or putting devices back
+together using parts from various units. Residual waste is sent for disposal or additional recycling.
+
+Shredding. grinding. or breaking CRTs and other e-waste: These facilities intentionally break CRTs,
+computers and other e-waste most often through grinding or shredding for the purpose of material
+recovery. Residual waste is sent for disposal or additional recycling. Shredding for purposes of
+disposal may require a SW treatment permit.
+
+Transformers: These facilities use processes such as smelting or refining to recover materials.
+
+Environmental concerns accordma to e-waste catec ories:
+Environmental Concerns & Regulatory Compliance    Collectors                                   DDRs   Shredder     Transformer
+                                                                                                      or Grinder
+Exposure to stormwater contributinq to water quality impacts                    x              x      x            x
+Exposure to elements that could result in breakage and                          x              x      x            x
+exoosure to hazardous substances or water aualitv imoacts
+Fire hazards                                                                    x              x      x            x
+Vectors (similar to those seen at landfill or other disposal                    x              x      x            x
+sites) such as rats, mice, insects, birds, or bats. These vectors
+could cause exposure to diseases or viruses harmful to
+humans or other animals.         If materials accumulate water,
+thev may become breedinCJ Qrounds for mosquitoes.
+Inadvertent breakage may create HW that must be handled &                       x              x      x            x
+disoosed of orooerlv
+Securitv of the facilitv                                                        x              x      x            x
+If the facility activities generate HW, HW may not be                           x              x      x            x
+appropriately or adequately labeled or there may be no
+labelina.
+Volume of material stored:        Speculative accumulation is                   x              x      x            x
+treated slightly differently between SW and HW. For SW
+purposes, speculative accumulation occurs if material is onsite
+longer than 6 months.        For HW purposes, speculative
+accumulation occurs when <75% of material on site has been
+sent for recycling since the start of the calendar year and no
+markets are identified for the materials.
+Lack of appropriate documentation to substantiate recycling                     x              x      x            x
+activities. Minimum required is where, what, how much, and
+when e-waste was received and where it went, how, and to
+whom.
+If CRT's are shipped out of the country for recycling, the                      x              x      x            x
+facility needs to inform EPA and receive EPA confirmation. If
+shinned out for reuse, facilitv needs to notifv EPA.
+Possible illegal disposal of source separated recyclables or                    x              x      x            x
+sham recvclina
+Potential for creatina lead or other metal dust                                                x      x            x
+Possible air or wastewater discharaes                                                          x      x            x
+other toxic dust aels or liauids                                                               x      x            x
+Could become HW aenerator by activities at facility                                            x      x            x
+More likely breakage, shredding/grinding or transforming                                              x            x
+activities that could cause air quality or water quality
+oroblems
+Fluff or dust from arindina or transformina mav create HW &                                           x            x
+
+
+Oregon Dept. of Environn1ental Quality, E-\vaste handling Facility permitting and compliance                           Page 2
+require HW characterization
+Mav have sufficient air emissions to need an air quality permit                                   x   x
+Mav have offsite dust                                                                             x   x
+Generation & disposal of non-recyclable residues from                                         x   x   x
+orocessina source seoarated recvclables
+
+
+Solid waste permit determinations: DEQ has determined permit needs based on each type of
+facility.
+
+Collector: If the collector has a solid waste permit already, it will be amended to address e-waste
+handling. If the collector does not have a solid waste permit, DEQ will not require one unless a
+complaint response or site visit uncovers environmental concerns that are not addressed. A transfer
+station or material recovery facility {MRF) permit may be issued if the facility does not address
+environmental concerns. (OAR 340-093-0050(3)(f))
+
+DOR: If a DDR has a solid waste permit, it will be amended to address e-waste handling. If a DDR
+does not have a solid waste permit, DEQ will evaluate each facility and will require a MRF permit if,
+after considering all of the following criteria, DEQ staff determine the facility's activities have potential
+for environmental impact.
+{l)The facility processes more than 100 tons of e-waste per year.
+(2) The facility processes or stores e-waste outside or not under cover and near waterways or
+wetlands or near a public drinking water supply. Tarping is not considered cover sufficient to protect
+e-waste from environmental exposure. Materials are exposed to ambient conditions including
+precipitation, flooding, wind, or other atmospheric conditions.
+{3)The facility is near or in a residence, school, daycare facility, park, or playground or any other
+locations where children are regularly present. Schools using computer repair and recycling activities
+as an education tool may not need a permit.
+( 4) The facility has had a notice of noncompliance, warning letter, pre-enforcement notice, or penalty
+order for a WQ, HQ, or SW violation in the past five years, unless the facility is under new ownership
+and violations occurred under past owners.
+
+Shredder or Grinder: A shredder or grinder will need to get a solid waste MRF permit.
+
+
+Transformer: DEQ will evaluate each transforming facility on a case-by-case basis to determine if
+SW MRF or treatment permit is needed. Environmental concerns may be adequately addressed under
+an AQ or WQ permit or existing facilities may comply with all HW requirements.
+
+New SW permits:       DEQ will communicate the requirements for a new permit to existing unpermitted
+e-waste facilities starting in April 2009 and will work with these facilities in a technical assistance role
+to help them apply for permits and make sure they are managing e-waste appropriately. By January 1,
+2010, any existing or new facility not currently accepting e-waste that wants to start accepting e­
+waste and meets the criteria requiring a SW permit, must obtain a new permit or obtain a permit
+amendment before accepting e-waste.
+
+DEQ has prepared a draft permit template and draft operations plan template that are attached to this
+IMD. In addition to typical solid waste requirements for safe management, storage, and processing,
+the SW permit will include:
+    1. Generic HW requirements, downstream due diligence for all e-waste recyclers that generate
+       HW, and e-waste specific requirements.
+   2. The landfill ban for E-Cycles Program covered devices (televisions, computers, laptops,
+       monitors).
+   3. An operations plan to be reviewed by both SW and HW staff that includes any special waste
+       management plan requirements to address spills, breakage or accumulation.
+   4. Facility closure plans
+    5. After 2009 rule changes become effective that broaden the requirement for financial assurance,
+       DEQ will require financial assurance for all facilities that shred, grind, or break CRTs and other
+       e-waste. other facilities will be evaluated on a case-by-case basis.
+   6. Record keeping and reporting requirements to avoid speculative accumulation and for material
+       recovery survey purposes.
+
+Oregon Dept. of Environmental Quality, E-\vaste handling facility permitting and compliance               Page 3
+     7.   Other requirements appropriate for the specific facility.
+
+Existing SW permits: Existing SW permits for collectors and DDRs will be modified to include any
+appropriate requirements identified above (DEQ does not know of any permitted shredders or
+transformers in Oregon). DEQ will determine if any permit changes warrant public comment.
+
+Site visits: DEQ will decide priority order of site visits depending on the facility activities, whether it
+has or needs a SW permit, and its HW generator status. Regional SW and HW managers will consult
+and determine which program leads all site visits. Many visits during 2009 will be in a technical
+assistance mode, unless egregious violations of environmental requirements for e-waste are found.
+Beginning in 2010, site visits will shift to compliance inspections, although any type of facility may
+request HW TA at any time.
+
+SW permitted facilities will be inspected at least annually (collectors, DDRs, and shredders/grinders).
+
+Non permitted facilities will be inspected periodically according to the priority assigned to the facility
+(considering, for example, their HW generator status) and DEQ workload and resources available.
+Regional managers will confer and agree on which program, HW or SW, takes lead, if inspections will
+be joint inspections, whether TA staff or inspectors will do site visits, etc. At unpermitted DDRs, HW
+will lead inspections but will consult with SW. These facilities may warrant a joint inspection to
+determine whether they need permits. For collectors that do not have an existing permit but are in the
+Oregon E-Cycles Program, DEQ will rely on plan representative audits to determine if site visit follow­
+up is needed. These will be lower priority for DEQ inspections. Collectors not participating in the
+Oregon E-Cycles Program will be higher priority for DEQ inspections or site visits. DEQ intends to
+conduct a site visit at each of these facilities by 2011.
+
+Inspector guidance. Hazardous Waste, Solid Waste and E-Cycles staff and inspectors will share and
+exchange information and consult one another on facilities and compliance information." SW and HW
+inspector guidance about the types of e-waste facilities and the kinds of violations to look for during
+site visits is Attachment A to this !MD. DEQ's enforcement guidance covers these violations. This !MD
+does not intend to enforce the Oregon E-Cycles Program, so no E-Cycles Program-specific violations
+are identified in the guidance.
+
+Implementation Plan and Schedule:
+Implementation of this !MD will start upon signature and will follow the attached implementation plan
+and schedule.
+
+
+Review Schedule:
+The periodic review schedule will apply.
+
+Contact Person:
+Audrey O'Brien, 503-229-5072, obrien.audrey@deq.state.or.us.
+
+Disclaimer:
+This directive is intended solely as guidance for DEQ employees. It does not constitute rulemaking by
+the Environmental Quality Commission and may not be relied upon to create an enforceable right or
+benefit, substantive or procedural, enforceable at law or in equity, by any person. DEQ may take
+action at variance with this policy.
+
+
+
+
+Oregon Dept. of Environmental Quality, E-\vaste handling facility permitting and compliance         Page4
+                        Attachment A
+Guidance for Inspectors/TAs Regarding Management of
+Electronic Waste
+
+This guidance is intended to be used by solid waste and hazardous waste inspectors
+or technical assistance staff when they inspect/visit electronic waste facilities that
+collect; dismantle, disassemble, or remanufacture (DDR); or shred, grind, or break
+CRTs or other types of e-waste. This guidance summarizes existing solid waste and
+hazardous waste regulations applicable to facilities that collect or handle e-waste. It
+also references common but not necessarily all air quality and water quality
+requirements that may apply to these facilities. It does not include requirements for
+the Oregon E-Cycles Program, which is monitored through a state contractor
+program and manufacturer programs and third-party audits. However, DEQ SW and
+HW inspectors will be inspecting some facilities participating in Oregon E-Cycles to
+verify that they are complying with solid waste and hazardous waste requirements
+that apply because they are handling e-waste. Information about Oregon E-Cycles,
+including a list of facilities participating in the program, can be found at
+www.deq.state.or.us/lq/ecycle/index.htm.
+
+Before using this guidance, please review the information in the e-waste directive
+(IMD) that defines e-waste and the types of facilities you may inspect and provides
+other guidance on the collection and handling of e-waste.
+
+Hazardous waste, solid waste, and Oregon E-Cycles staff and TAs/inspectors will
+share information and consult one another on facilities and compliance information.
+A checklist is being created for use when conducting site visits.
+
+
+
+
+                                           1
+Requirements that apply to all e-waste facilities
+
+Regulation                                                 Details
+Various                                                    All facilities that collect, store, or process e-waste
+                                                           must comply with applicable local, state, and federal
+                                                           regulations, including applicable SW & HW regulations
+                                                           as well as other environmental, health, and safety
+                                                           regulations.
+Speculative accumulation/illegal storage of HW w/o         A material that a facility intends to recycle that would
+permit, ORS 466.095(a) – Pursuant to 40 CFR                otherwise be a HW is “accumulated speculatively” – if
+261.2(c)(4) and 261.1(c)(8)                                it is accumulated before being recycled unless the
+                                                           person accumulating it can show that the material is
+                                                           potentially recyclable and has a feasible means of
+                                                           being recycled; and that during the calendar year
+                                                           (commencing Jan 1) the amount of material that is
+                                                           recycled, or transferred to a different site for
+                                                           recycling, equals at least 75% by weight or volume of
+                                                           that material accumulated at the beginning of the
+                                                           period. Through photographs and documentation,
+                                                           inspectors should note whether the collection of e-
+                                                           waste stored on site is timely and appropriately
+                                                           recycled. If e-waste is accumulated speculatively, SW
+                                                           and HW regulations will apply. Inspectors/TA staff
+                                                           may be able to verify speculative accumulation by
+                                                           records requests after one site visit. However, if no
+                                                           records are available, inspectors may need to conduct
+                                                           multiple site visits to appropriately verify speculative
+                                                           accumulation by documenting amounts through
+                                                           repeated site visits (photographs, etc.).
+Speculative Accumulation of SW, Operating a disposal       Per SW policy, if material is accumulated for more
+site without a SW permit, OAR 340-093-0050(1)              than six months, the facility is considered a disposal
+                                                           site. The material must be removed or the owner
+                                                           must apply for a SW permit. Under this policy, a SW
+
+                                                       2
+Regulation                                            Details
+                                                      speculative accumulation violation may be
+                                                      documented earlier than a HW one. The same feasible
+                                                      recycling and 75% recycled amount exemptions apply
+                                                      as noted above for HW. If speculative accumulation of
+                                                      SW is documented, the violation is creating,
+                                                      operating, or maintaining an illegal solid waste
+                                                      disposal site.
+Illegal disposal of SW, OAR 340-093-0040(1)           If disposal of residuals or recyclable materials is
+                                                      documented on-site (speculative accumulation or
+                                                      otherwise), illegal disposal of solid waste is the
+                                                      violation.
+Hazardous waste determination (HWD), OAR 340-102- A person who generates a residue as defined in OAR
+0011(2)                                            340-100-0010 must determine if that residue is a
+                                                   hazardous waste using the following method: (a)
+                                                   Persons should first determine if the waste is
+                                                   excluded from regulation under 40 CFR 261.4 or
+                                                   OAR 340-101-0004; (b) Persons must then determine
+                                                   if the waste is listed as a hazardous waste in Subpart
+                                                   D of 40 CFR Part 261. This includes conditionally
+                                                   exempt generators (Pursuant to 40 CFR 261.5(g)(1).
+                                                   Performing a HWD is one of the thresholds for
+                                                   qualifying as a CEG). Any materials taken from e-
+                                                   waste components as defined above that do not go to
+                                                   recycling but are disposed of instead will require a
+                                                   HWD. Wastes of concern include (all of the following
+                                                   would be HW violations if the materials fail a HW
+                                                   determination): Lead dust contaminated plastic or
+                                                   other materials, fire retardant contaminated materials
+                                                   and broken CRT glass. Facilities that generate a
+                                                   residual, including shredding fluff as a result of their
+                                                   processing, shredding, or grinding of e-waste have
+                                                   generated a new waste and must perform a HWD on
+                                                   the residual. The inspector/TA staff should evaluate
+                                                 3
+Regulation                                                  Details
+                                                            the sampling protocol being used by the facility as
+                                                            part of the evaluation of the HW Determination. If the
+                                                            residual is recycled, it may be excluded from HW
+                                                            regulations. If the residual is HW and is not recycled,
+                                                            it is subject to the generator requirements of 40 CFR
+                                                            262.34. (Note that CEG and SAA regulations may
+                                                            apply). In addition , any facility that has violated the
+                                                            speculative accumulation requirements for HW must
+                                                            conduct a HWD on the e-waste if they cannot do so
+                                                            by knowledge of process.
+Illegal disposal of HW without a permit, ORS                If a facility does not comply with HWD requirement or
+466.100(1) and (2)                                          through speculative accumulation or regular
+                                                            generation, the facility becomes a SQG (220 lbs per
+                                                            month HW or 2200 lbs accumulated at any one time)
+                                                            or LQG, then the facility must dispose of HW at a
+                                                            Subtitle C landfill. If they do not, then they have
+                                                            illegally disposed of HW without a permit.
+Illegal disposal of source separated recyclables, ORS       ORS 459A.080(3) prohibits a person from mixing
+459A.080 & OAR 340-090-0090                                 source separated recyclable material with solid waste
+                                                            “in any vehicle, box, container or receptacle used in
+                                                            solid waste collection or disposal.”
+
+                                                            OAR 340-090-0090(2) more specifically provides that
+                                                            “no person shall dispose of source separated
+                                                            recyclable material which has been collected or
+                                                            received from the generator by any method other
+                                                            than reuse or recycling except for used oil and wood
+                                                            waste which may be collected and burned for energy
+                                                            recovery.”
+Labeling requirements, 40 CFR 262.34                        If HW is stored or managed, the labeling and
+                                                            management requirements of 40 CFR 262.34 apply.
+                                                            For DDRs this will likely apply to e-waste that has
+                                                            been speculatively accumulated or hazardous non-
+                                                        4
+Regulation                                                      Details
+                                                                recycled debris or other material related to DDR
+                                                                activities.
+CRT policy violations (interim policy in effect until DEQ       CRTs that are not being recycled and are broken must
+adopts EPA rule in June 2009). Applies to e-waste               have a HW determination made if they came from
+from large or small quantity generators. Facilities will        either small or large quantity generators. If the HW
+need to separate e-waste received from household                determination results in a CRT failing the HW
+hazardous waste generators (HHW) and conditionally              characteristic for lead, it must be labeled, dated, and
+exempt generators (CEG) from small/large quantity               follow other HW requirements according to the
+generators (SQG/LQG).                                           appropriate generator status.. If a CRT that is being
+                                                                recycled is later determined to be unusable, a HW
+                                                                determination is needed if the CRT was received from
+                                                                a small or large quantity generator or if the facility
+                                                                failed to separate HHW/CEG from SQG/LQG waste.
+                                                                DEQ intends to adopt these federal rules during 2009.
+                                                                The EPA CRT rules require that CRTs must be
+                                                                recycled to avoid HW requirements. The CRT user
+                                                                who decides the CRT cannot be used any longer must
+                                                                know the final recycling destination of the CRT.
+
+                                                                CRTs to be recycled must be accumulated in a
+                                                                manner that minimizes breakage and is protective to
+                                                                the environment. Any residuals from breakage must
+                                                                be managed in suitable, closed containers that do not
+                                                                leak and cannot be easily crushed to prevent releases
+                                                                of hazardous constituents into the environment.
+                                                                Cardboard Gaylord boxes would not be suitable
+                                                                containers for broken, ground or crushed CRTs.
+                                                                Containers holding broken CRTs must be labeled with
+                                                                words “Broken CRTs for recycling.” If not recycled,
+                                                                CRTs must be managed as potential HW. If broken
+                                                                CRTs are exposed to the environment, then HW
+                                                                regulations apply.
+
+
+                                                            5
+Regulation                                                     Details
+                                                               Shredders/grinders and transforming facilities must
+                                                               conduct all dismantling or processing inside a building
+                                                               and have applicable permits. Residuals or waste
+                                                               materials generated from the management of CRTs
+                                                               that are destined for disposal or not destined for
+                                                               recycling must be managed as potential HW. A HWD
+                                                               must be performed and if the materials designate as
+                                                               HW, then all applicable HW generator requirements
+                                                               apply.
+Water quality concerns: channelized discharges to              Note any water quality concerns and refer to the
+surface water or wetlands; potential underground               appropriate program or government. Check with WQ
+injection control points; stormwater sheet flow runoff;        program about possible UIC discharge without a
+construction runoff; discharge to wastewater                   permit. Check with local government or DEQ WQ
+treatment systems.                                             program about surface WQ discharge without NPDES
+                                                               or WPCF permit or potential violations for not treating
+                                                               wastewater before discharging.
+Landfill ban, ORS 459A.305(12)(b)(A) and (5)(a) Each           Electronic devices covered by Oregon E-Cycles may
+disposal site operator shall establish and implement, in       not be disposed of in landfills, starting Jan. 2, 2010.
+accordance with any permit requirements established            Covered devices are televisions, computers, laptops,
+by the Department of Environmental Quality, a                  and monitors. If the inspector sees a CED disposed,
+program reasonably designed to prevent acceptance              the inspector will need to evaluate the facility’s
+of covered electronic devices for disposal. If an              program to determine whether the operator is
+operator operates the disposal site in conformity with         following a DEQ approved program designed to
+the program, the operator is presumed to have                  prevent acceptance of CEDs for disposal.
+complied with the provisions of this section that
+prohibit knowingly accepting covered electronic
+devices for disposal.”
+Offsite dust violation, OAR 340-208-0450; new                  Note any visible offsite dust issues and refer to DEQ’s
+emission equipment without Notice of Intent to                 AQ program for follow up or for help with response.
+Construct filed with DEQ AQ program, OAR 340-0210              No facility is allowed to have visible offsite dust from
+                                                               their facility operations after DEQ documents the first
+                                                               occurrence and tells the facility to correct the
+
+                                                           6
+Regulation                                                   Details
+                                                             problem. If DEQ inspectors/TA staff observe offsite
+                                                             dust after a facility has been told to correct this
+                                                             problem, DEQ may refer ongoing offsite dust
+                                                             violations for penalty.
+
+                                                             Any newly installed or recently installed emission
+                                                             units should have been reviewed by DEQ’s AQ
+                                                             program under the Notice of Intent to Construct
+                                                             program. If the equipment has not been evaluated
+                                                             by AQ, refer the concern and the facility to
+                                                             appropriate AQ staff for follow up.
+Failure to file material recovery survey, OAR 340-090-       Materials collected for recycling from households and
+100(5)                                                       commercial establishments must be reported annually
+                                                             on the material recovery survey. Check with SW HQs
+                                                             to see if the company is filing or needs to file.
+Lack of appropriate documentation for management of          If e-waste is not being recycled or speculatively
+HW                                                           accumulated and it designates as HW, then all the
+                                                             appropriate documentation is needed based on the
+                                                             generator status of the facility. This would include
+                                                             recordkeeping, notification requirements,
+                                                             documentation of appropriate training, labeling
+                                                             requirements and all the appropriate documentation
+                                                             for safe management and disposal of HW for either
+                                                             SQG or LQG or proof that the facility is a CEG or only
+                                                             handling HHW. Documents that inspectors/TA staff
+                                                             should check for include: receipts for incoming e-
+                                                             waste, bills of lading or shipping receipts that
+                                                             document where, to whom and when e-waste is
+                                                             shipped offsite, landfill disposal receipts or records of
+                                                             disposal, and HW manifests if needed.
+Worker health and safety issues, various regulations         Inspectors/TA staff should be aware of regulations
+                                                             that address worker exposures to hazardous
+                                                         7
+Regulation                 Details
+                           materials and hazardous wastes. These regulations
+                           require recyclers who perform authorized treatment
+                           to ensure that workers/handlers who process the
+                           electronic devices are thoroughly familiar with the
+                           hazards associated with such processing and that
+                           they have access to the proper procedures and
+                           protective equipment necessary to conduct the
+                           processing safely. In addition, the regulations require
+                           handlers who process e-waste to comply with all
+                           applicable worker health and safety laws and
+                           regulations including: OR OSHA, DOT, and the Fire
+                           Marshal. If inspectors/TA staff identify poor
+                           housekeeping practices such as dust is present and
+                           uncontrolled, staff should refer the facility to OR
+                           OSHA for consultation or make a referral to OR
+                           OSHA. If DEQ staff visit the facility in a TA mode,
+                           then recommend the facility contact OSHA’s
+                           consultant program which provides TA to facilities.
+Fire safety concerns       Staff should consider a referral to the Fire Marshal if
+                           chemicals and hazardous materials are stored on-site
+                           in large volumes or the quantity of e-waste seems
+                           disproportionate for the building.
+
+
+
+
+                       8
+Requirements that apply to e-waste facilities that have SW permits.
+
+Regulation                       Details
+Violating permit or operations   Permit requirements are identified in OAR 340-093 and 096 and may vary
+plan conditions, OAR 340-093-    depending upon the type of permit issued. DEQ anticipates that collectors if
+0050(6) and (7). OAR 340-096-    required to have a permit will have a SW transfer station or material
+0040                             recovery facility permit. DDRs will most likely have SW material recovery
+                                 facility permits. Shredders/grinders will most likely have a material
+                                 recovery facility permit or possibly a SW treatment permit. A transformer
+                                 will be evaluated to determine if existing permits adequately address
+                                 environmental concerns. If a SW permit is needed, it may be a material
+                                 recovery facility permit or a treatment permit.
+
+                                 Permit requirements will include DEQ approval of site characterization, plans
+                                 and specifications, operations plans, any required financial assurance, and
+                                 other requirements designed to assure safe handling, management and
+                                 disposal of e-waste to avoid environmental and human health impacts. E-
+                                 waste facilities are disposal sites as defined by ORS Chapter 459, and are
+                                 also subject to the requirements of OAR Chapter 340, Divisions 93, 95 and
+                                 97 as applicable.
+Exceeding permit or operating    Permits may include limits on the amounts of materials stored, processed or
+plan limits, OAR 340-093-        managed on site. These limits may be exceeded if the facility speculatively
+0050(6)-(7)                      accumulates e-waste on site.
+
+
+
+
+                                                     9
+Note: If an inspector documents violations of SW permit conditions, the inspector should check if
+the permit condition is established to carry out a specific rule requirement. Enforcement of rule
+violations can be addressed through warning letters or pre-enforcement notices that refer
+violations for penalty orders. Permit condition violations that are not also rule or statutory
+violations require notices of permit violations which take significantly more time to complete.
+
+Specific Exemptions that may apply to e-waste facilities:
+
+Each participating facility will need to very carefully manage their recycling programs to ensure that the e-
+waste does not speculatively accumulate or become discarded so that HW requirements are triggered.
+
+Some household hazardous waste facilities may act as E-cycles collection facilities only. Those facilities are not
+subject to HW regulation if the covered electronic devices are handled properly because there is an assumption
+in the law that the covered electronic devices are coming from households or small businesses so they are
+treated as household hazardous waste or conditionally exempt generator waste. However, in order to maintain
+the household hazardous waste designation the Collection/Storage/Processing facility will have to keep that
+household E-cycles e-waste segregated from E-waste from other sources.
+
+
+
+
+                                                        10
+

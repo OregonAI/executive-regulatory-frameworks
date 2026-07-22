@@ -1,0 +1,392 @@
+Internal Management Directive
+Describing DEQ’s Regulation of
+Facilities Used to Manage Woody
+Biomass from Forestry Operations
+
+
+
+
+                                             Materials Management
+                                             700 NE Multnomah St.
+                                             Suite 600
+                                             Portland, OR 97232
+                                             Phone: 503-229-5696
+                                                     800-452-4011
+                                             Fax:    503-229-6124
+                                             Contact: Bob Barrows
+                                             www.oregon.gov/DEQ
+
+
+
+
+                                             DEQ is a leader in
+                                             restoring, maintaining and
+                                             enhancing the quality of
+                                             Oregon’s air, land and
+                                             water.
+
+
+
+
+Oregon Department of Environmental Quality
+DEQ can provide documents in an alternate format or in a language other than English upon request. Call
+DEQ at 800-452-4011 or email deqinfo@deq.state.or.us.
+
+
+
+Oregon Department of Environmental Quality                                                            ii
+Disclaimer
+This directive is intended solely as guidance for DEQ employees. It does not constitute rulemaking by
+the Environmental Quality Commission and may not be relied upon to create an enforceable right or
+benefit, substantive or procedural, enforceable at law or in equity, by any person. With written
+managerial approval, DEQ employees may deviate from this directive. DEQ anticipates revising this
+directive from time to time as conditions warrant.
+
+
+
+
+Document Development
+ Prepared By:      Bob Barrows and Jamie Jones
+
+                   Loretta Pickerell, Ron Doughten, Shannon Davis,
+ Reviewed By:      Audrey O’Brien, Brian Fuller
+
+
+ Approved By:                                                              Date:    December 2, 2020
+
+                   Lydia Emer, Land Quality Administrator
+
+
+
+
+                                                                                                        iii
+Table of Contents
+1.     Intent/Purpose/Statement of Need ......................................................................................... 1
+2.     Applicability .......................................................................................................................... 1
+3.     Summary ................................................................................................................................ 1
+4.     Background ............................................................................................................................ 2
+5.     Definitions.............................................................................................................................. 2
+6.     Acronyms Used in This Directive.......................................................................................... 3
+7.     Directive ................................................................................................................................. 3
+     7.1     Framework for regulation of solid waste disposal facilities ....................................................................... 3
+     7.2     Determine whether a material is a solid waste ........................................................................................... 4
+     7.3     Determine whether a facility is excluded from permit requirements ......................................................... 6
+     7.4     Determine the permit and other regulations that apply .............................................................................. 7
+8.     Record of Revisions to IMD .................................................................................................. 9
+
+
+
+
+                                                                                                                                                       iv
+1. Intent/Purpose/Statement of Need
+Oregon’s solid waste statutes and rules authorize DEQ to regulate facilities that manage solid
+waste. Particularly due to heightened efforts to improve forest health, new technologies and
+initiatives are emerging that necessitate the management of woody biomass generated.
+For facilities managing woody biomass, DEQ staff will be asked to determine whether such
+woody biomass is a solid waste and, if so, whether and how the facility is regulated under solid
+waste statutes and rules. This guidance will help DEQ staff evaluate these new initiatives and
+consistently apply DEQ authorities in making these determinations.
+
+2. Applicability
+DEQ Materials Management staff will use this Internal Management Directive to assist in
+assessing whether and how facilities used to manage woody biomass from forestry operations are
+regulated under Oregon’s solid waste statutes and rules.
+
+3. Summary
+Oregon’s solid waste statute and rules define “solid waste” broadly and authorize DEQ to
+regulate facilities used to manage solid waste, defined as “disposal sites.” Owners or operators of
+these facilities are required to obtain a solid waste permit from DEQ unless their facilities are
+excluded from this permit requirement. Solid waste rules also require certain management
+practices for both permitted and unpermitted facilities.
+To apply these regulations to a facility managing woody biomass, DEQ first determines whether
+the woody biomass meets the definition of “solid waste,” i.e., is it useless or discarded by the
+generator. This is a case specific, fact-based determination. If the woody biomass is not a solid
+waste, DEQ lacks authority under solid waste laws to regulate the facility’s management of that
+woody biomass.
+If the woody biomass is a solid waste, DEQ next determines whether the facility managing that
+waste is excluded from solid waste permit requirements, and if not, the type of permit required.
+DEQ may also assess the facility’s potential for a beneficial use determination in lieu of a permit.
+Whether or not the facility requires a permit, DEQ also determines whether rules requiring
+certain management practices for both permitted and unpermitted facilities apply.
+To ensure these regulations are consistently applied, DEQ staff should consult within their own
+and other regions and with their managers regarding relevant factors, information needed, and
+prior precedent. Staff should ensure the information supporting their determinations is properly
+documented.
+
+
+
+
+                                                                                                   1
+4. Background
+Oregon’s Solid Waste Management law, ORS 459, establishes the framework for the regulation
+of facilities used to manage solid waste and authorizes EQC rulemaking to implement the law.
+“Solid waste” is defined at ORS 459.005(24) and OAR 340-093-0030(91). A few types of
+materials and uses of material are excluded from that definition or from the applicability of that
+definition under ORS 459.007.
+ORS 459.205 and 215 require facilities used to manage solid waste to obtain solid waste disposal
+site permits unless they are excluded from permit requirements by statute or rule. Those
+exclusions are found in OAR 340-093-0050(3) (multiple types of facilities), OAR 340-096-
+0060(3) (composting facilities), OAR 340-096-0160(4) (conversion technology facilities), and
+OAR 340-93-0030(38) (definition of disposal site”). ORS 459.215 also excludes some of these.
+Permit requirements for different types of solid waste management facilities are found in OAR
+340-093 through 340-097. Rules for approving beneficial use determinations in lieu of permits
+begin at OAR 340-093-0260. Solid waste rules requiring certain management practices for both
+permitted and unpermitted facilities are found in OAR 340-093 and in rules for specific types of
+disposal site permits.
+
+5. Definitions
+"Disposal Site" means land and facilities used for the disposal, handling, treatment or transfer of,
+or energy recovery, material recovery and recycling from solid wastes, including but not limited
+to dumps, landfills, sludge lagoons, sludge treatment facilities, disposal sites for septic tank
+pumping or cesspool cleaning service, land application units (except as exempted within the
+definition of solid waste in this rule), transfer stations, conversion technology facilities, energy
+recovery facilities, incinerators for solid waste delivered by the public or by a collection service,
+composting facilities and land and facilities previously used for solid waste disposal at a land
+disposal site.
+The term “disposal site” does not include a facility authorized by a permit issued under ORS
+466.005 to 466.385 to store, treat or dispose of both hazardous waste and solid waste; a facility
+subject to the permit requirements of ORS 468B.050; a site that is used by the owner or person in
+control of the premises to dispose of soil, rock, concrete or other similar non-decomposable clean
+fill material, unless the site is used by the public either directly or through a collection service; or
+a site operated by a wrecker issued a certificate under ORS 822.110. OAR 340-093-0030(38);
+also see ORS 459.005(8).
+"Recycling" means any process by which solid waste materials are transformed into new
+products in such a manner that the original products may lose their identity. OAR 340-093-
+0030(79); ORS 459.005(20).
+
+
+
+
+                                                                                                      2
+"Solid Waste" means all useless or discarded putrescible and non-putrescible materials,
+including but not limited to garbage, rubbish, refuse, ashes, paper and cardboard, sewage sludge,
+septic tank and cesspool pumpings or other sludge, useless or discarded commercial, industrial,
+demolition and construction materials, discarded or abandoned vehicles or parts thereof,
+discarded home and industrial appliances, manure, vegetable or animal solid and semi-solid
+materials, dead animals and infectious waste. The term does not include:
+       (a) Hazardous waste as defined in ORS 466.005;
+       (b) Materials used for fertilizer, soil conditioning, humus restoration, or for other
+       productive purposes or which are salvageable for these purposes and are used on land in
+       agricultural operations and the growing or harvesting of crops and the raising of fowls or
+       animals, provided the materials are used at or below agronomic application rates; or
+       (c) Woody biomass that is combusted as a fuel by a facility that has obtained a permit
+       described in ORS 468A.040. OAR 340-093-0030(91). Also see ORS 459.005(24).
+“Woody biomass” means material from trees and woody plants, including limbs, tops, needles,
+leaves and other woody parts, grown in a forest, woodland, farm, rangeland or wildland-urban
+interface environment that is the by-product of forest management, ecosystem restoration or
+hazardous fuel reduction treatment. OAR 340-093-0030(108); ORS 459.005(30).
+
+6. Acronyms Used in This Directive
+BUD – Beneficial Use Determination
+DEQ – Department of Environmental Quality
+EQC – Environmental Quality Commission
+IMD – Internal Management Directive
+OAR – Oregon Administrative Rules
+ORS – Oregon Revised Statutes
+
+7. Directive
+7.1    Framework for regulation of solid waste disposal facilities
+In adopting Oregon’s Solid Waste Management law in 1971, ORS 459, the Oregon legislature
+defined “solid waste” broadly and authorized DEQ to regulate facilities used to manage solid
+waste, defined as “disposal sites.” Owners or operators of these facilities are required to obtain a
+solid waste disposal site permit from DEQ unless their facilities are excluded from this permit
+requirement. Some exclusions exist in statute. The EQC can by rule also exclude facilities that
+do not pose a significant risk to public health or the environment, and has adopted such rules.
+
+
+
+
+                                                                                                   3
+The EQC has by rule created different types of permits tailored to specific types of facilities.
+Rules for each type of permit set performance standards and operational requirements designed
+to minimize potential risks to public health or the environment, and they often exclude low-risk
+facilities from some or all of these permit requirements. The EQC has also adopted rules for
+approving beneficial uses of solid waste in lieu of issuing a permit, as well as rules requiring
+certain management practices for both permitted and unpermitted facilities.
+A few types of materials and uses of materials are specifically excluded from the definition of
+“solid waste” or from the applicability of that definition in ORS 459.007. DEQ does not have
+authority under solid waste management statutes or rules to regulate facilities that are not
+managing solid waste.
+
+
+7.2       Determine whether a material is a solid waste
+Examining whether a material such as woody biomass is a solid waste requires an analysis of the
+specific circumstances. Woody biomass is not categorically considered a solid waste. To be a
+solid waste, woody biomass must meet the definition of a solid waste and must not be excluded
+from that definition or from the application of that definition in ORS 459.007.
+The definition of “solid waste” describes a comprehensive range of materials that are considered
+solid waste if they are “useless or discarded.” Whether or when a material becomes a solid waste
+is a fact-based determination and not subject to a bright line standard.
+DEQ generally considers a material to be “discarded” if it is discarded, thrown away or
+abandoned by the generator. A material that is discarded becomes part of a waste stream and is a
+solid waste, even if it is also useful, recyclable or reclaimable.
+DEQ generally considers a material to be “useless” when it cannot be productively used for any
+purpose, or if it was made for a particular purpose, when it cannot be used for the original
+purpose for which it was made, and is fit, if for anything, only for remanufacturing into
+something else or for some other use that differs substantially from the original use. If a material
+must be reclaimed, processed, transformed, mixed, purified or otherwise altered to be useful, it
+will generally be considered a waste until actually converted into a bona fide product.
+Whether woody biomass is a solid waste will be clear in many cases. For others cases, staff will
+have to identify and consider multiple factors when evaluating whether it is useless or discarded
+by the generator. Additional information may be needed for that evaluation.
+The following are some of the factors that have been relevant in determining whether woody
+biomass being used in a manufacturing process is a solid waste or a bona fide commodity or
+product. Each of these factors, if applicable, may indicate that a material is not a solid waste, and
+their absence may indicate it is a solid waste, though all relevant information should be
+considered in making that determination:
+      •   The woody biomass is productively used “as-is” or with minimal processing.
+      •   The woody biomass was intentionally produced for use as a commodity in trade.
+
+
+                                                                                                    4
+   •   The woody biomass was manufactured or processed to specifications required.
+   •   A legitimate market exists for the woody biomass.
+   •   The woody biomass was purchased for fair market value.
+   •   The woody biomass is stored and managed in a manner that preserves its value as a
+       commodity or product.
+   •   The woody biomass is not speculatively accumulated.
+   •   The woody biomass is not mixed with a solid waste.
+   •   The woody biomass does not contain contaminants not normally associated with woody
+       biomass or that make it unsuitable for its intended use.
+   •   A legitimate market exists for the product made from woody biomass.
+The following scenarios help illustrate how these factors may be applied.
+       Scenario 1: Company A harvests trees from its property and leaves woody biomass on
+       the forest floor. Company B operates an industrial facility that processes woody biomass
+       into a product. B purchases woody biomass that meets specifications required for its
+       operations from A for fair market value. B accepts only material that is screened to meet
+       its specifications and is scheduled for use in its production process. B stores the material
+       in a manner retaining its value and for a limited time before processing it into a saleable
+       product. B has a market for that product.
+       If managed as described, the woody biomass is not useless or discarded, and is not a solid
+       waste. B accepts only woody biomass screened to meet required specifications; it was not
+       intentionally produced for use as a commodity, but is purchased at fair market value for
+       use in the production process; it is stored to retain its value; and the product has a
+       legitimate market.
+       Scenario 2: Scenario 1 with these changes: A delivers woody biomass to B free of
+       charge. B plans to sort and grind the woody biomass and use it to produce innovative
+       widgets that B hopes will attract a new market. After encountering several production
+       problems, B manages to produce some widgets, but is unable to attract buyers. Woody
+       biomass is stored in piles exposed to rain and weather, degrading its value for making
+       widgets. Unsold widgets are stored outside under cover.
+       In this case the woody biomass may be useless or discarded by the generator and may be
+       a solid waste. B did not purchase the woody biomass for fair market value, and it was not
+       intentionally produced as a commodity or processed to specifications for B, although B’s
+       processing might be considered minimal. The woody biomass is not stored or managed as
+       a valuable commodity. The market for the widgets produced is not well-established and
+       may not be legitimate. If the unsold widgets are speculatively accumulated or degrade in
+       storage, they may also be considered solid wastes. In this scenario, several factors support
+       the conclusion the woody biomass is solid waste.
+
+
+
+
+                                                                                                      5
+DEQ must also determine whether any exclusions from the definition of solid waste or
+application of that definition applies. Two exclusions that may be applicable to the management
+of woody biomass are OAR 340-093-030(91)(b) and (c):
+      •   Woody biomass used for productive purposes in agricultural operations in accordance
+          with OAR 340-093-030(91)(b). Example: woody biomass applied productively as a soil
+          amendment at agronomic rate on agricultural lands.
+      •   Woody biomass combusted as a fuel by a facility that has obtained an air quality permit.
+          Burning wood pellets and hog fuel are examples of combustion (substances reacting with
+          oxygen and transferring energy as heat and light). By definition, conversion technologies
+          such as gasification, pyrolysis or torrefaction are not considered combustion, OAR 340-
+          093-0030(28), and are not excluded under this provision.
+If woody biomass is not solid waste in a particular case, DEQ lacks authority under its solid
+waste laws to regulate the facility’s management of that material.
+Implementation: Every material and situation may be different and should be evaluated on a
+case-by-case basis. Relevant factors should be identified and information gathered to evaluate
+those factors. To ensure consistency, staff should consult within their own and other regions and
+with their managers regarding the factors, information needed, and their analyses and
+conclusions. Staff should also ensure all information collected and considered has been properly
+documented.
+
+
+7.3       Determine whether a facility is excluded from permit requirements
+If a material or product has been determined to be a solid waste, DEQ must then determine
+whether regulation under a solid waste permit is required. The owner or operator of a facility
+used to manage woody biomass determined to be solid waste is required to obtain a disposal site
+permit from DEQ unless their facility is excluded from permit requirements by statute or rule.
+The following are examples of the types of facilities excluded from permit requirements (under
+the conditions specified), that may be relevant to facilities managing woody biomass:
+      •   Facilities excluded under OAR 340-093-0050(3), including certain material recovery and
+          recycling facilities, facilities operating under a water quality permit issued under ORS
+          468B.050, facilities combusting wood or tire chips for energy recovery, facilities
+          processing wood for energy recovery, and land disposal sites accepting only clean fill;
+      •   Composting facilities excluded under OAR 340-096-0060(3); and
+      •   Conversion technology facilities excluded under OAR 340-096-0160(4).
+Implementation: Staff should review potential exclusions to determine whether a facility
+requires a disposal site permit. Additionally, staff should consult with their managers and other
+regional staff to ensure statewide consistency in their assessments. If any permitting exclusions
+apply, staff should document their conclusion and discuss with their manager.
+
+
+
+
+                                                                                                    6
+7.4       Determine the permit and other regulations that apply
+For facilities used to manage woody biomass that require a permit, staff should identify the type
+or types of permits that may apply and may assess the facility’s potential for a beneficial use
+determination in lieu of a permit. For all facilities, staff should consider any other solid waste
+management rules applicable to both permitted and unpermitted facilities that may apply.
+The following are the permit types that may apply to a facility managing woody biomass solid
+waste:
+      •   Solid Waste Disposal Site Permit – The types of permits and their requirements are in
+          OAR 340-093 through 340-096. Composting, conversion technology, and landfill are
+          examples of permit types that may apply to management of woody biomass.
+      •   Solid Waste Letter Authorization – Letter authorizations are permits issued for short-
+          term, low-volume, low-risk disposal operations of up to six months if the proposed or
+          existing disposal site is not likely to create a public nuisance, health hazard, or
+          environmental problem. The authority for letter authorizations is at OAR 340-093-
+          0050(5). Example: short-term pilot project testing the effectiveness of a mobile
+          torrefaction unit in a low-fire risk area.
+A beneficial use determination may also apply to a woody biomass facility otherwise required to
+obtain a permit.
+      •   Beneficial Use Determination – DEQ may approve a beneficial use determination for the
+          productive use of woody biomass as an alternative to issuing a disposal permit. The
+          proposed use must meet performance criteria to demonstrate the use is productive and
+          will not cause an adverse impact to public health, safety, welfare or the environment.
+          DEQ does not regulate the material managed under a BUD as a solid waste as long as it is
+          used in accordance with the BUD. BUDs may be case-specific or categorical. “Beneficial
+          use” rules begin at OAR 340-093-0260. Example: Woody biomass used as soil
+          amendment to establish a vegetative cover on a landfill.
+Whether or not a facility requires a permit, it may be subject to other rules requiring certain solid
+waste management practices that apply to both permitted and non-permitted facilities. Those
+include requirements relating to:
+      •   Storage and Collection, OAR 340-093-0210
+      •   Transportation, OAR 340-093-0220
+      •   Environmental performance standards for composting facilities, OAR 340-096-0070
+      •   Environmental performance standards for conversion technology facilities, OAR 340-
+          096-0170.
+Staff should identify the permit and other rules that apply to a facility, evaluate options where
+those exist, and determine the permit and rules to pursue. They should also remind facility
+owners and operators they are responsible for identifying and complying with all requirements
+applicable to their operations.
+
+
+
+                                                                                                     7
+Implementation: Staff should seek consistency throughout the state in determining the permit
+and other rules that apply to a facility. Where questions arise, the appropriate managers should
+be informed and discuss appropriate action. When staff conclude a facility is being used to
+manage solid waste and their assessment of the permit requirements and other applicable rules is
+consistent with prior decisions, staff should recommend the person responsible for a facility
+obtain and follow those requirements.
+
+
+
+
+                                                                                               8
+8. Record of Revisions to IMD
+Stakeholders with technical expertise and interest in this topic were consulted in development of
+this guidance. DEQ will seek additional consultation on technical issues should the IMD require
+revision.
+
+
+      Revision                 Date                Changes                Editor
+
+
+
+
+                                                                                                9
+

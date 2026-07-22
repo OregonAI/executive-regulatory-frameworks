@@ -69,7 +69,7 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | [Department of Corrections](department-of-corrections/_index.md) | executive branch | web | 991 | 991 | 0 | 0 | 2026-07-20 |
 | Department of Energy | executive branch | unknown | 420 | 420 | 0 | 0 | — |
 | Department of Energy, Energy Facility Siting Council | executive branch | unknown | 248 | 248 | 0 | 0 | — |
-| Department of Environmental Quality | executive branch | unknown | 1876 | 1876 | 0 | 0 | 2026-07-21 |
+| [Department of Environmental Quality](department-of-environmental-quality/_index.md) | executive branch | web | 1928 | 1928 | 0 | 0 | 2026-07-22 |
 | Department of Fish and Wildlife | executive branch | unknown | 1693 | 1693 | 0 | 0 | — |
 | Department of Forestry | executive branch | unknown | 522 | 522 | 0 | 0 | — |
 | Department of Geology and Mineral Industries | executive branch | unknown | 223 | 223 | 0 | 0 | — |

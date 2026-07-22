@@ -159,19 +159,20 @@ agencies:
     not internal administrative policy); no internal-policy listing surfaced.
 - slug: department-of-environmental-quality
   name: Department of Environmental Quality
-  status: candidate_found
+  status: ingested
   url: https://www.oregon.gov/deq/get-involved/pages/imd.aspx
   appears_to_be: '"Internal Management Directives" (IMDs) listing — staff-facing directives e.g. Administrative
     Search Warrant Procedures, Enforcement Guidance for Field Staff, water/air/land-quality directives.
     Strong match for "internal policy" definition.'
   confidence: high
-  investigated_2026_07_21: 'Confirmed real: a 73-item SharePoint LIST at /deq/Get-Involved/Lists/Internal
-    Management Directives (page is JS-rendered; list found via the anonymous _api/web/lists
-    enumeration endpoint). But each item''s "Directive" field links into an external
-    records-management viewer (ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx) —
-    publicly reachable (200 OK, no auth) but not a direct PDF, so it needs its own
-    text-extraction approach distinct from the PDF-manifest ingest_policies.py pattern. Deferred,
-    not ingested.'
+  ingested_2026_07_22: 'The listing page is JS-rendered (no static links); the real source is a
+    73-item SharePoint LIST at /deq/Get-Involved/Lists/Internal Management Directives, found via
+    the anonymous _api/web/lists enumeration endpoint. Each item''s "Directive" field links to an
+    external records-viewer page (ormswd2.synergydcs.com) that embeds the full PDF inline as
+    base64 for client-side pdf.js rendering — recovered via a new _fetch_synergy_pdf helper in
+    ingest_policies.py, no separate download endpoint exists. 52 of 72 distinct documents
+    ingested; 19 are image-only scans (no text layer, excluded per HC-1) and 1 links to a
+    differently-shaped page with no embedded document at all (deferred).'
 - slug: department-of-fish-and-wildlife
   name: Department of Fish and Wildlife
   status: candidate_found

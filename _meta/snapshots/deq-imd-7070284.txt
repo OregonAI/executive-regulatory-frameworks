@@ -1,0 +1,619 @@
+ Internal Management Directive
+
+
+The Use of Significant Figures
+and Rounding Conventions
+in Water Quality Permitting
+
+
+                                             Water Quality Division
+                                             Surfce Water
+                                             Management Section,
+                                             Headquarters
+                                             811 SW 6th Avenue
+                                             Portland, OR 97204
+                                             Phone:     (503) 229-5696
+                                                        (800) 452-4011
+                                             Fax:       (503) 229-6762
+                                             Contact: Sonja Biorn-
+                                             Hansen
+                                             www.oregon.gov/DEQ
+
+
+                                             DEQ is a leader in
+                                             restoring, maintaining
+                                             and enhancing the quality
+                                             of Oregon’s air, land and
+                                             water.
+
+
+
+
+                                              Last Updated: 12/05/2013
+                                              By: Sonja Biorn-Hansen
+Oregon Department of Environmental Quality    DEQ11-WQ-050
+                                              Rev1.3
+Water Quality Permitting
+
+
+
+
+                                       Oregon Department of Environmental Quality
+                                                 Water Quality Division
+                                                    811 SW 6th Ave.
+                                                   Portland, OR 97204
+                                                  For more information:
+                                           Sonja Biorn-Hansen, (503) 229-5257
+
+
+
+
+    Alternative formats (Braille, large type) of this document can be made available.
+    Contact DEQ’s Office of Communications & Outreach, Portland, at (503) 229-5696, or toll-free in
+    Oregon at 1-800-452-4011, ext. 5696.
+
+
+    Oregon Department of Environmental Quality                                                        ii
+Water Quality Permitting
+
+
+
+    Disclaimer
+    This internal management directive represents the Department of Environmental Quality’s current
+    directions to staff on the proper use of significant figures and rounding conventions in permit
+    development. This IMD is not final agency action and does not create any rights, duties,
+    obligations, or defenses, implied or otherwise, in any third parties. This directive should not be
+    construed as rule, although some of it describes existing state and federal laws. The
+    recommendations contained in this directive should not be construed as a requirement of rule or
+    statute. DEQ anticipates revising this document from time to time as conditions warrant.
+
+
+
+
+    Document Development
+                       Sonja Biorn-Hansen, Senior Policy Analyst, Surface
+    Prepared By:       Water Management
+
+
+    Reviewed By        Scott Hoatson, Agency Quality Assurance Officer
+
+
+    Approved By:       Dennis Ades                                              Date:     12/5/2013
+
+
+
+
+    Oregon Department of Environmental Quality                                                           iii
+The Use of Significant Figures and Rounding Conventions
+                                                    iv ivin Water Quality Permitting
+
+
+
+Table of Contents
+
+1. Purpose....................................................................................................................................... 1
+2. Applicability .............................................................................................................................. 1
+3. Background ................................................................................................................................ 1
+4. Conventions ............................................................................................................................... 1
+     4.1 Significant Figures ............................................................................................................................................ 1
+     4.2 Rounding........................................................................................................................................................... 2
+     4.3 Significant Figures, Decimal Places, and Reporting ......................................................................................... 3
+     4.4 Permit Examples ............................................................................................................................................... 6
+5.       Sample Permit Language ....................................................................................................... 9
+
+
+
+
+List of Appendices
+Appendix A Revision History........................................................................................................................ 10
+Appendix B Table of Significant Figures for Conventional and Toxic Parameters ....................................... 11
+
+
+
+
+Oregon Department of Environmental Quality                                                                                                                                       iv
+Significant Figures and Rounding Conventions in Permitting          Oregon Department of Environmental Quality
+DEQ Publication Number                                                                      December 05, 2013
+Version 1.3
+                                                                   1 1                           Page 1 of 11
+
+
+
+
+   1. Purpose
+   The purpose of this internal management directive is to explain the conventions for significant figures,
+   rounding and precision for DEQ’s Water Quality Permitting Program. This Directive is authorized by
+   Oregon Revised Statutes 468.035, 468B.035 and 468B.050.
+
+
+
+   2. Applicability
+   This Directive sets forth the conventions that DEQ water quality permitting staff should use when
+   developing permit limits and determining compliance with permit limits. Adherence to these conventions
+   will ensure clarity and consistency in permit limit development and compliance determinations.
+   Because many of the permits issued by DEQ were developed prior to the development of this IMD, there
+   will be instances in which permit writers and permit holders may agree to follow conventions established
+   when those permits were written.
+
+   As new permits are written, permit writers should revise permit limits and associated reporting
+   requirements to be consistent with the contents of this IMD.
+
+   This Directive does not create any rights, duties, obligations, or defenses, implied or otherwise, in any
+   third parties, except as created through permit or order. It is not intended for use in pleading, at hearing or
+   at trial.
+
+
+
+   3. Background
+   The process of developing and demonstrating compliance with water quality permits involves the analysis
+   and interpretation of environmental data. This data is collected by a variety of public and private
+   organizations employing a variety of sampling, analytic and data management practices that have varying
+   levels of precision. The challenge for DEQ permit writers and compliance staff is how to interpret and use
+   this data in a manner that is statistically relevant and consistent.
+
+
+
+   4. Conventions
+   There are 3 categories of conventions described in this document: those pertaining to the determination of
+   the correct number of significant figures, those pertaining to rounding and those pertaining to precision. In
+   some cases, the conventions vary with the context in which they are being applied: measurements or
+   calculations. Where there are differences, these are noted.
+
+
+   4.1 Significant Figures
+   Regardless of the measuring device, there is always some uncertainty in a measurement. Significant
+   figures include all of the digits in a measurement that are known with certainty as well as the last digit,
+   which is an approximation. This has implications both for permit limit development and for establishing
+   compliance with a permit limit.
+Significant Figures and Rounding Conventions in Permitting           Oregon Department of Environmental Quality
+DEQ Publication Number                                                                       December 05, 2013
+Version 1.3
+                                                                    2 2                           Page 2 of 11
+
+
+
+   Table 1 below lists the conventions in use at DEQ regarding significant figures.
+
+   Table 1: DEQ’s Conventions for Significant Figures
+                                                                                                        No. of
+                                    Conventions                                         Example       Significant
+                                                                                                       Figures
+   1. All non-zero digits (1-9) are to be counted as significant.                               23        2
+                                                                                               231        3
+                                                                                              4308        4
+   2. All zeros between non-zero digits are always significant.
+                                                                                             40.05        4
+   3. For numbers that do not contain decimal points, the trailing zeros may or
+      may not be significant. In this situation, the number of significant figures        470,000        2 to 6
+      is ambiguous.
+
+   4. For numbers that do contain decimal points, the trailing zeros are                     0.360          3
+      significant.                                                                            4.00          3
+
+                                                                                          0.00253           3
+   5. If a number is less than 1, zeros that follow the decimal point and are
+      before a non-zero digit are not significant.
+                                                                                           0.0670           3
+
+   As indicated in the third convention above, numbers that contain trailing zeros but that do not contain
+   decimal points can be problematic. For example, “10” could be either one or two significant figures.
+   There is no way to know what was intended unless it is written in terms of scientific notation or there is a
+   note that explicitly states how many significant figures there are.
+
+   Replacing “10” with “10.” is not a robust solution to this problem since Excel replaces “10.” with “10”
+   and the information that the user intended to provide is lost.
+
+   The problem with how to interpret the number 10 (or 20 or 30, etc.) is pervasive enough that EPA recently
+   changed the MCL for arsenic in drinking water from 10 ppb to 0.010 ppm in order to clarify the number of
+   significant figures associated with the MCL.
+
+   The number of significant figures associated with various conventional and toxic parameters may be found
+   in Appendix B of this document. For QL information on toxic parameters, refer to Appendix C of DEQ’s
+   Internal Management Directive on the Reasonable Potential Analysis Process. This document may be
+   found at:
+   http://www.deq.state.or.us/wq/pubs/imds/rpaIMD.pdf
+
+
+   4.2 Rounding
+   In reporting results and in calculating permit limits or mass loads, it is necessary to round off the results to
+   the correct number of significant figures. There are different rounding conventions in use, and DEQ has
+   adopted a hybrid approach in which the rounding convention used depends on the context. The difference
+   between the conventions involves the treatment of the number 5. In reporting measured values, 5 is
+   rounded to the nearest even number. In the case of calculated values, the number 5 is rounded up.
+   The two sets of conventions are listed below.
+Significant Figures and Rounding Conventions in Permitting        Oregon Department of Environmental Quality
+DEQ Publication Number                                                                    December 05, 2013
+Version 1.3
+                                                                 3 3                           Page 3 of 11
+
+
+   Table 2: DEQ’s Conventions for Rounding for Calculated and Measured Values
+                                                                                  Examples
+                                                                       Rounding Off     Rounding Off
+                   Conventions for Rounding
+                                                                        Calculated        Measured
+                                                                          Values           Values
+                                                                        1.11 → 1.1
+   1. If the digit being dropped is 1, 2, 3 or 4, leave the             1.12 → 1.1
+                                                                                            Same
+      preceding number as-is.                                           1.13 → 1.1
+                                                                        1.14 → 1.1
+   2. For calculations: If the digit being dropped is 5, round
+      the preceding digit up.                                            1.15 → 1.2             1.15 → 1.2
+
+   3. For measurements: If the digit being dropped is 5, round           1.25 → 1.3             1.25 → 1.2
+      off the preceding digit to the nearest even number (0 is
+      considered an even number when rounding off).
+                                                                         1.16 → 1.2
+   4. If the digit being dropped is 6, 7, 8 or 9, increase the           1.17 → 1.2
+                                                                                                   Same
+      preceding digit by one.                                            1.18 → 1.2
+                                                                         1.19 → 1.2
+
+   The conventions shown above for measured results are consistent with the rules for rounding found in
+   Standard Methods for the Examination of Water and Wastewater, Part 1050 B. These are the rules
+   used by the DEQ lab in reporting laboratory results.
+   For calculated results, the digit 5 is handled consistent with the convention used by Excel software, and is
+   rounded up. This is explained in the DEQ Lab Quality Manual for DEQ’s Laboratory and Environmental
+   Assessment Division (LEAD) as follows:
+       Where commercial software packages and spreadsheets employ a different rounding routine (e.g.,
+       rounds up in all cases), the analyst shall NOT change the results generated by the software.
+
+   The DEQ document may be found at: www.deq.state.or.us/lab/techrpts/docs/DEQ91LAB0006QMP.pdf
+
+
+   If a permit holder chooses to use the same convention for calculated values as for measured values, the
+   permit holder is allowed to do so, provided the permit holder is willing to commit to doing so on a
+   consistent basis. This decision may necessitate the purchase of special software.
+   A shorthand version of the information presented in this section is as follows:
+
+           Measured values – the digit 5 should be rounded to the nearest even number.
+           Calculated values – the digit 5 should be rounded up, unless the permit holder has chosen to
+           follow the convention for measured values. The permit holder must do so on a consistent
+           basis.
+
+
+
+
+   4.3 Significant Figures, Decimal Places, and Reporting
+   There are two types of permit limits: those for which compliance will be determined based on the results
+   of a laboratory or field measurement and those for which compliance will be based on the results of a
+   calculation.
+Significant Figures and Rounding Conventions in Permitting          Oregon Department of Environmental Quality
+DEQ Publication Number                                                                      December 05, 2013
+Version 1.3
+                                                                   4 4                           Page 4 of 11
+
+
+
+   If compliance will be established based on a laboratory or field measurement, the number of significant
+   figures in the permit limit should be the same as the number of significant figures associated with the
+   laboratory or field measurement. Appendix B contains a table with this information for conventional and
+   toxic parameters. Appendix C of the Reasonable Potential Analysis IMD contains a table of QLs for toxic
+   parameters. This IMD available at: http://deq05/wq/wqpermits/PCGuidance.htm#IMD
+
+   If compliance with a permit effluent limit will be determined based on the results of a calculation, the
+   number of significant figures in the permit limit should be determined in a manner that is consistent with
+   DEQ’s rules for the determination of the number of figures to report as listed below.
+
+   Table 3: DEQ’s Conventions Determining the Number of Figures to Report
+                     Convention                                                 Example
+   1. For addition or subtraction, the number of            13.681 – 0.5 = 13.181 becomes 13.2
+      decimal places* in the result is equal to the
+      number of decimal places in the least precise         0.5 is reported to only one decimal place so the final
+      value used in the calculation.                        answer has one decimal place.
+
+       *The number of decimal places is equal to the        Note that the number of digits in the answer is
+       number of digits to the right of the decimal         determined by the number of decimal places in the
+       point.                                               least precise measurement, and not on the number of
+                                                            significant figures.
+   2. For multiplication or division, the number of         2.5 x 3.42 = 8.55 becomes 8.6
+      significant figures in the final result is equal to
+      the smallest number of significant figures of         2.5 has the fewest significant figures (2) so the final
+      the values used in the calculation.                   result has 2 significant figures.
+   3. When a calculation involves multiple                  (2.5 x 3.42) + 13.681 – 0.5 = 21.731 becomes 21.7
+      arithmetic operations, the number of
+      significant figures is determined by both of the
+                                                            1) First do the operation in parenthesis (in this
+      above rules with arithmetic operations
+                                                                case multiplication – Rule 2 above)
+      performed in the following order:
+                                                            = 8.55 + 13.681 – 0.5
+        a. Operation(s) in parentheses
+        b. Multiplication
+        c. Division                                         2) Next perform addition -Rule 1 above
+        d. Addition                                         = 22.231 – 0.5
+        e. Subtraction
+      In a situation with multiple operations it is         3) Then subtraction – Rule 1 above
+      important not to round answers after each             = 21.731 all digits carried through
+      intermediate step. Instead keep track of the
+      right most digit that would be retained based         = 21.7 final rounding
+      on rules 1 and 2 above (shown in the example
+      on the left by an underline).                         In step 1, (based on rule 2), 8.55 would only be
+                                                            reported to 2 figures (retaining one figure to the
+       The order of operations is seldom an issue in        right of the decimal). In this case, one place to the
+       permitting. This information is included for         right of the decimal is the limiting digit for steps 2
+       completeness.                                        and 3 and therefore the final result is reported to one
+                                                            decimal place.
+   4. Values that are not considered. Values that           Example 1:
+      are considered “exact” numbers are not                For a POTW with a design flow of 1.5 MGD, the
+      included in the determination of the final            mass load of a pollutant measured at 5.25 mg/L is
+      number of significant figures. Here are some          calculated as follows:
+Significant Figures and Rounding Conventions in Permitting        Oregon Department of Environmental Quality
+DEQ Publication Number                                                                    December 05, 2013
+Version 1.3
+                                                                 5 5                           Page 5 of 11
+
+
+       examples of exact values:                          5.25 mg/L x 1.5 MGD flow x 8.34 = 219 lbs
+       a. Design flow of a treatment facility.
+                                                          The result contains 3 significant figures because the
+           By contrast, the measured flow at a facility   concentration of 5.25 contains 3 significant figures.
+           is not an exact number and does affect the     The other numbers in the calculation, 1.5 MGD
+           number of significant figures in a             (design flow) and 8.34 (conversion factor), have no
+           calculation. Measured flows at treatment       effect on the number of significant figures in the
+           plants typically have 2 significant figures.   result.
+
+       b. Conversion factors. Note: these should          Note that if the MGD of the facility were measured
+          be selected so that the number of digits is     at the plant rather than being supplied by the design
+          at least that associated with measured          engineer, the number of significant figures
+          values used in a calculation.                   associated with the flow would matter. Flow
+                                                          measurements typically have 2 significant figures.
+       c. Values below the Quantitation Limit.
+          Where the permittee is allowed to treat         Example 2:
+          <QL as zero when averaging, the zero is         What is the average of the following 3
+          not considered when determining the final       concentrations: 4.6 mg/L, 2.3 mg/L and <QL
+          number of significant figures.
+                                                          Answer: (4.6 + 2.3 + 0)/3 = 2.3 mg/L
+       d. Counted values such as:                         The number of decimal places is equal to the
+                                                          number of decimal places for the detected
+          i. Bacteria measurements                        concentrations.
+         ii. The number of samples
+        iii. Values denoting time (days, months,          The 3 in the denominator is a counted value and
+             etc.)                                        does not affect the determination of the number of
+                                                          significant figures or decimal places in the final
+                                                          rounding.
+Significant Figures and Rounding Conventions in Permitting         Oregon Department of Environmental Quality
+DEQ Publication Number                                                                     December 05, 2013
+Version 1.3
+                                                                  6 6                           Page 6 of 11
+
+
+   4.4 Permit Examples
+   Here are some examples of how these rules may apply when developing mass load limits or when
+   determining compliance with monthly mass load limits.
+
+   Example 1: Calculate a permit limit for the average daily mass load of ammonia.
+
+   Facility Info:
+            Average Dry Weather Design flow = 1.25 MGD
+            Permit limit for ammonia (Total Ammonia as N) = 5.0 mg/L
+            Conversion factor from MGD and mg/L to pounds per day = 8.34
+
+   The allowable mass load for ammonia from this facility is calculated as follows:
+   1.25 MGD x 5.0 mg/L x 8.34 = 52.13 lbs/day → 52 lbs/day
+
+   Comments
+   The resulting permit limit has been rounded off to 2 significant figures because that is how many
+   significant figures are associated with the ammonia concentration. The number of significant figures in
+   the permit limit is unaffected by the number of digits in the design flow or the conversion factor (see
+   Conventions 4.a and b. in Table 3).
+
+   If the calculated result had been 52.5 lbs/day instead of 52.13 lbs/day, the permit limit would have been
+   rounded up to 53 lbs/day (see Rounding Convention 3 in Table 3).
+
+   Note that if the allowable ammonia concentration was greater than 10, the permit limit would contain 3
+   significant figures instead of 2. This is because if the ammonia concentration is greater than 10, it has 3
+   significant figures instead of 2 (see Appendix B for more information).
+Significant Figures and Rounding Conventions in Permitting          Oregon Department of Environmental Quality
+DEQ Publication Number                                                                      December 05, 2013
+Version 1.3
+                                                                   7 7                           Page 7 of 11
+
+
+   Example 2: Calculate the 7-day average concentration for ammonia.
+
+   Permit limit = 4.5 mg/L, sampled 4 times a week
+
+   Measured concentrations = 0.5, 2.5, 12.7 mg/L and <0.1 mg/L
+
+   (0.6 + 2.5 + 12.7 + 0)/4 = 3.95 mg/L → 4.0 mg/L
+
+   Comments
+   The result has been rounded off to 2 significant figures because the permit limit contains 2 significant
+   figures and it is rounded up (see Rounding Convention 3 in Table 3).
+
+   0.6 mg/L only has one place to the right of the decimal so the result is reported to one decimal place (see
+   Convention 1, Table 3)
+
+   Note that the lab result 12.7 contains more significant figures than the permit limit. This value is
+   consistent with the information provided in Appendix B for ammonia. Lab results for ammonia have 2
+   significant figures when the values are below 10 mg/L and 3 when they are above 10 mg/L; however, it
+   doesn’t affect the final answer of 4.0 mg/L.
+
+
+   Note that the nondetect is treated as zero and it does not affect the number of significant figures in the final
+   result (see convention 4.c. in Table 3). The value of 4 in the denominator also has no affect because it is a
+   counted number (see Convention 4.d. in Table 3).
+
+
+   Example 3: Determine if the following facility is in compliance with their permit limit for average
+   daily mass load of ammonia of 38 lbs/day.
+
+   Facility Info:
+            Average daily flow = 0.85 MGD
+            Average daily concentration of ammonia (measured as Total Ammonia as N) = 5.0 mg/L
+            Conversion factor from MGD and mg/L to pounds per day = 8.34
+
+   The allowable mass load for ammonia from this facility is calculated as follows:
+   0.85 MGD x 5.0 mg/L x 8.34 = 35.5 lbs/day → 36 lbs/day
+
+   Comments
+   The result has been rounded off to 2 significant figures because that is how many significant figures are
+   associated with the ammonia concentration and with the average daily flow from the facility. The
+   conversion factor has no affect on the number of significant figures.
+
+   Note: The flow measuring devices at POTWs are typically, but not always, accurate to 2 significant
+   figures. Inaccurate flow measurements can serve to mask compliance problems. They should not be
+   allowed to do so.
+Significant Figures and Rounding Conventions in Permitting       Oregon Department of Environmental Quality
+DEQ Publication Number                                                                   December 05, 2013
+Version 1.3
+                                                                8 8                           Page 8 of 11
+
+
+   Example 4: Calculate the geometric mean of the following data set (data in cts./100ml).
+
+   Result type                  Data Reported                       Data for Calculation
+   No colony growth                    <4                                   4
+   # of colonies <20                   15 est.                              15
+   Colonies between 20-60              40                                   40
+   Colonies > 60                       150 est.                             150
+   Colonies TNTC                       >6000                                6000
+   TNTC = too numerous to count
+
+   The geometric mean may be calculated as the nth root of the results:
+
+                            Geometric Mean = X g = n�X1 × X 2 × X 3 × … × X n
+
+   Where: n = the number of values observed / analyzed
+                  X1, X2, … Xn = the sample results or values
+
+   For example data set:
+          5
+    X g = √4 × 15 × 40 × 150 × 6000 = 5√2,160,000,000 = 74 cts./100 ml
+
+   Comments
+   The results of bacteria calculations are always whole numbers, and the number of significant figures is
+   equal to the number of digits of a particular result.
+Significant Figures and Rounding Conventions in Permitting        Oregon Department of Environmental Quality
+DEQ Publication Number                                                                    December 05, 2013
+Version 1.3
+                                                                 9 9                           Page 9 of 11
+
+
+
+   5. Sample Permit Language
+   The following is suggested permit language:
+
+       Permit Language: (Schedule B, Monitoring and Reporting Requirements)
+
+           2.   Reporting Requirements
+
+                (f) The permittee shall report the same number of significant digits as the permit limit for a
+                    given parameter. Regardless of the rounding conventions used by the permittee (i.e.,
+                    rounding 5 up for calculated results or, in the case of laboratory results, rounding 5 to the
+                    nearest even number), the permittee shall use the conventions consistently, and shall
+                    ensure that consulting laboratories employed by the permittee use the same conventions.
+Significant Figures and Rounding Conventions in Permitting       Oregon Department of Environmental Quality
+DEQ Publication Number                                                                   December 05, 2013
+Version 1.3
+                                                               10 10                          Page 10 of 11
+
+
+
+   Appendix A Revision History
+         Revision         Date                 Changes                                      Editor
+   1.0                 10/31/2011 New Document                                        SBH
+   1.1                 1/24/2012                                                      SBH, SCH
+                                     1) Section 4.2 on rounding has been made
+                                        more concise.
+                                     2) Section 4.3 on precision has been
+                                        modified as follows:
+                                                a. “Significant figures” has
+                                                    been replaced with “decimal
+                                                    places” where relevant.
+                                                b. Information on the correct
+                                                    order of arithmetic
+                                                    operations has been added.
+                                     3) Appendix B has been modified so that
+                                        the number of decimal places in the
+                                        columns entitled “Typical Permit Limit
+                                        Range” and “Significant Figures” are
+                                        consistent with each other.
+   1.2                 5/31/2013                                                      SBH
+                                     Section 4.2 has been modified to state that if
+                                     a permit holder chooses to use the same
+                                     convention for calculated values as for
+                                     measured values, the permit holder is
+                                     allowed to do so, provided the permit holder
+                                     is willing to commit to doing so on a
+                                     consistent basis.
+   1.3                 12/05/2013                                                     SCH
+                                     Corrected typos - Editorial changes only
+Significant Figures and Rounding Conventions in Permitting        Oregon Department of Environmental Quality
+DEQ Publication Number                                                                    December 05, 2013
+Versions 1.3
+                                                                11 11                          Page 11 of 11
+
+
+
+   Appendix B Table of Significant Figures for
+   Conventional and Toxic Parameters
+                                                     Standard
+       Conventional          Typical Permit                            Significant
+                                                    Laboratory                           DMR reporting
+        Parameters            Limit Range                               Figures
+                                                    Technique
+                                                                                         < 10 (0.1 mg/L)
+            BOD              5.0 to 50 mg/L          DO Probe               2
+                                                                                      > 10 (whole numbers)
+                                                                                         < 10 (0.1 mg/L)
+           CBOD              2.0 to 45 mg/L          DO Probe               2
+                                                                                      > 10 (whole numbers)
+                                                                       <10 = 2 sig
+                                                                         figures
+            TSS             5.0 to 80.0 mg/L Filtration/Gravimetric                    Report to 0.1 mg/L
+                                                                       > 10 = 3 sig
+                                                                         figures
+                                77 F as a
+        Temperature                                   Various            Various      + 0.1 degrees F or C
+                                maximum
+                              126/406 for e
+                              coli or 14 for
+                            fecal for sewage                            <10 = 1
+     Bacteria (Fecal, e.
+                             effluent, and 2          Various         >10 <100 = 2    Whole numbers only
+         Coli, etc.)
+                            total bacteria for                          >100 = 3
+                            Class A recycled
+                                  water
+                                                                      <10 = 2, >10
+            DO              8.0 to 10.0 mg/L         DO Probe                          Report to 0.1 mg/L
+                                                                           =3
+                            0.02 mg/L to 1.0
+      Total Chlorine                                                     < 0.1=1
+                                  mg/L           Amperometric Titr.
+         Residual                                                        <10 = 2
+                             0.1 mg/L to 1.0     DPD – colorimetric                    Report to 0.1 mg/L
+    (method dependent)                                                   >10 = 3
+                                  mg/L
+     Minimum UV dose          35 millijoules
+                                                                         <10 = 2
+             pH                 6.0 to 9.0           pH Probe                              0.1 pH unit
+                                                                         >10 = 3
+          Nutrients
+                                                  Digest w/ ISE or       <10 = 2
+            TKN             5.0 to 20.0 mg/L                                           Report to 0.1 mg/L
+                                                    Colorimetric         >10 = 3
+                                                  Distill w/ ISE or      <10 = 2
+    Total Ammonia as N      1.0 to 30.0 mg/L                                           Report to 0.1 mg/L
+                                                  Colorimetric IC        >10 = 3
+                                                                         <10 = 2
+     Nitrate and Nitrite    1.0 to 20.0 mg/L     Colorimetric or IC                    Report to 0.1 mg/L
+                                                                         >10 = 3
+                                                                         < 0.1=1        <0.1 (0.01 mg/L)
+     Total Phosphorus       0.01 to 3.0 mg/L        Colorimetric         <10 = 2        > 0.1 (0.1 mg/L)
+                                                                         >10 = 3
+                                                                         < 0.1=1         <1 (0.01 mg/L)
+        Dissolved
+                            0.01 to 3.0 mg/L        Colorimetric         <10 = 2         > 1 (0.1 mg/L)
+   Orthophosphate as P
+                                                                         >10 = 3
+           Toxics
+                                                                                      Various. Refer to QLs
+                                                                         <10 = 2
+          Various                Various              Various                         in Appendix C of RPA
+                                                                         >10 = 3
+                                                                                               IMD
+

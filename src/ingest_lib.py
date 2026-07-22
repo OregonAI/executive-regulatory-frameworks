@@ -49,6 +49,13 @@ AGENCY_FURNITURE = {
     "public-utility-commission": [
         re.compile(r"^ORDER NO\.\s*$"),
     ],
+    # DEQ IMDs span 2001-2026 with no single template (different authors/divisions), so
+    # footers vary; this narrow pattern only strips a bare "M/D/YYYY" per-page date-stamp
+    # footer, optionally followed by a short page-number token — never matches real body
+    # text, which doesn't consist of just a date.
+    "department-of-environmental-quality": [
+        re.compile(r"^\d{1,2}/\d{1,2}/\d{4}\s*[ivxIVX0-9]{0,4}\s*$"),
+    ],
 }
 
 

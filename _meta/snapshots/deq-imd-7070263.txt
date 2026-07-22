@@ -1,0 +1,697 @@
+                                                                               Guidance P-8-20-100
+
+
+                       Internal Management Directive
+                          Guidance for Evaluating VOC Emissions from Drying and
+                       Hot-Pressing Activities Common to the Wood Products Industry
+
+                  Effective Date:       January 2, 2007                     Pages:     14
+                  Revision Date:
+                       Approval:                                             AQ.00.011
+
+
+
+
+1. Purpose:
+
+The purpose of this document is to direct Source Test Coordinators on evaluating VOC testing
+strategies, calculating VOC emissions, and correcting existing VOC emissions testing data. This
+document shall also be used to direct permit writers on modifying permits and to direct permit
+writers and inspectors on how to make compliance determinations during permit modifications
+and in the interim period prior to permit modifications.
+
+2. Applicability:
+
+       a) This Directive applies to quantification of VOC emissions from the drying and hot-
+           pressing activities common to the wood product facilities that have relatively well-
+           defined VOC emission streams with characteristics that are suitable for measurement
+           using this guidance. These facilities include permitted facilities that dry wood
+           (excluding dry kilns) and/or press resin-impregnated or adhesive-containing wood
+           materials together under heat and pressure. These facilities include but are not
+           limited to:
+
+                  •   Particle Board Facilities
+                  •   Medium Density Fiberboard Facilities
+                  •   Hardboard Facilities
+                  •   Plywood Manufacturing Facilities
+                  •   Veneer Drying Facilities
+                  •   Oriented Strand Board Facilities
+
+       b) This Directive is intended solely as guidance for Air Quality staff and other
+          employees of the Department.
+       c) The Directive does not create any rights, duties, obligations, or defenses, implied or
+          otherwise, in any third parties.
+       d) It does not constitute rulemaking by the Environmental Quality Commission and may
+          not be relied upon to create a right or benefit, substantive or procedural, enforceable
+          by law or in equity, by any person. DEQ may take action which varies from this
+          directive.
+
+
+
+                                               1
+                                                                               Guidance P-8-20-100
+
+
+
+3. Background:
+
+Recognizing there wasn’t a perfect solution to quantifying VOC emissions from the wood
+products industry in Oregon, yet recognizing the need for a reasonable and consistent approach,
+ODEQ chose to quantify VOC emissions based on the carbon content of the VOC measured by
+Method 25A.
+
+During EPA’s enforcement actions in the Wood Products Initiative, EPA quantified VOC
+emissions by adjusting Method 25A data, correcting for a mass-to-carbon ratio of 1.13 (terpenes)
+and by applying a sample moisture correction factor.
+In December of 2000, the EPA responded to an ODEQ inquiry regarding the calculation of VOC
+emissions. Within the EPA response, the total mass of VOCs was defined two ways:
+
+
+       For the purpose of major source or major modification determinations (and similarly for
+       Title V applicability), emissions must be calculated as the total mass of VOCs (an “as
+       VOC” basis). Expressing VOC emissions in any other way (e.g. as carbon) may
+       underestimate the quantity of VOCs being emitted and thereby result in erroneous major
+       source/modification determinations.
+
+       However, for the purposes of determining compliance with source category specific
+       emission limits or performance standards, VOCs may be expressed according to the test
+       methods in the approved State Implementation Plan or 40 C.F.R. Part 60, Appendix A, as
+       specified in the particular rule or regulation. This can be on a carbon, propane
+       calibration gas, or compound specific basis.
+
+ODEQ recognized they had to develop a new method for quantifying VOC emissions from the
+wood products industry since their current methods underestimated actual emissions by
+approximately 22% given that it did not count the weight of the non-carbon atoms and it ignores
+the relative sensitivity of the test method in measuring some specific VOC’s.
+
+The new testing strategy is defined within Section 5 of this document and is largely dependent on
+the process types and their emission controls. Formaldehyde, methanol, and terpenes are the
+principal VOCs of interest. Each will be measured independently and their sum will represent
+VOC emissions on an “as VOC” basis. Terpene emissions will be conservatively approximated
+utilizing EPA Method 25A expressed “as propane”. Section 4 discusses the limited usefulness of
+EPA Method 25A and Attachment 2 addresses test methods used to quantify formaldehyde and
+methanol emissions.
+
+
+
+
+                                               2
+                                                                                Guidance P-8-20-100
+
+4. Technical Discussion of the Shortcomings of Method 25A:
+
+Drying and pressing processes that meet the applicability requirements of this guidance
+document emit complex forms of volatile organic compounds (VOCs), which are difficult to
+quantify by any one testing method. The most common VOC testing methodology currently
+accepted by the Department to determine regulatory compliance is EPA Method 25A. Method
+25A is very repeatable, relatively easy to perform, and is one of the least expensive VOC testing
+methodologies. However, Method 25A has multiple shortcomings that can significantly affect
+emission test results.
+
+
+EPA Method 25A is applicable for the measurement of gaseous organic compounds that consist
+primarily as alkanes, alkenes, and aromatic compounds by use of a flame ionization detector
+(FID). The FID response is roughly proportional to the rate of organic carbon atoms introduced
+to the flame and is dependent on the analyzer manufacturer, FID fuel composition, calibration
+materials, sample-gas moisture content, sample-gas oxygen concentration, and the characteristics
+of the organic molecules being analyzed. Therefore, depressed or elevated responses from the
+Method 25A analyzer are common.
+
+Once more, EPA Method 25A is applicable for the measurement of gaseous organic compounds
+that consist primarily as alkanes, alkenes, and aromatic compounds. Applying EPA Method 25A
+to sources that emit other complex strains of VOCs requires the use of empirical data to
+determine the molar response of each organic compound. This data reduction technique is
+beyond the scope of this guidance.
+
+5. ODEQ’s Approach for VOC testing:
+
+The approach to VOC testing under this guidance is dependent on the source type and whether
+the source is equipped with VOC Best Available Control Technology (BACT), Reasonably
+Available Control Technology (RACT), or with VOC Lowest Achievable Emission Rate
+(LAER) technology.
+
+
+5.1        Wood Dryers
+
+           For wood dryers not equipped with VOC BACT, RACT or LAER, the Department
+           will require the use of EPA Method 25A (expressed as propane) for measuring the
+           gaseous organic compounds that consist primarily as terpenes. Methanol and
+           formaldehyde are to be measured separately and concurrently at least once to verify
+           their contribution to the total VOC emissions. If methanol and formaldehyde
+           emissions are of significant consequence, it will be necessary to measure them
+           concurrently with EPA Method 25A every time VOC emissions testing is performed.
+           Significant consequences will be a case-by-case determination based on the potential
+           of the methanol and formaldehyde emissions to cause an exceedance of a regulatory
+           threshold such as Title V permitting, major source determination, NSR/PSD, etc.
+           Mass emissions results from EPA Method 25A (as propane), methanol, and
+           formaldehyde will be summed to determine VOC mass emissions. Refer to
+           Attachments 1 & 2 for more details on calculations and specific test methods.
+                                                3
+                                                                                 Guidance P-8-20-100
+
+
+
+            For direct-fired dryers that combust natural gas, ethane and/or methane may
+            significantly bias an EPA Method 25A test. Methane and ethane are deemed to have
+            “negligible photochemical reactivity” and are not regulated VOCs. Therefore,
+            methane and ethane may be measured independently and the analyzer response of
+            EPA Method 25A may be corrected. The measurement of methane and ethane should
+            be an available option but not a requirement. Refer to Attachments 1 & 2 for more
+            details.
+
+
+5.2         Press Vents
+
+            For press vents not equipped with VOC BACT, RACT or LAER, the Department will
+            require the use of EPA Method 25A (expressed as propane) for measuring the
+            gaseous organic compounds that consist primarily as terpenes. Methanol and
+            formaldehyde are to be measured separately and concurrently every time VOC
+            emissions testing is performed. Mass emissions results from EPA Method 25A (as
+            propane), methanol, and formaldehyde will be summed to determine VOC mass
+            emissions. Refer to Attachments 1 & 2 for more details.
+
+
+      5.3   Sources Equipped with VOC BACT, RACT or LAER Control Technology
+
+            For sources equipped with VOC Best Available Control Technology (BACT),
+            Reasonably Available Control Technology (RACT) or with VOC Lowest Achievable
+            Emission Rate (LAER) technology prior to the implementation of this guidance, the
+            Department recognizes an existing limit may have been based on an identified control
+            technology and testing methodology that understated the total mass of VOC
+            emissions. Under these circumstances the Department cannot merely apply a new
+            VOC test method to evaluate compliance with the previous limit because that could
+            make the limit more stringent, possibly forcing the installation of a different control
+            technology than that already established. For these reasons, VOC testing
+            methodology incorporated on sources equipped with BACT, RACT or LAER prior to
+            the implementation of this guidance will be evaluated on a case-by-case basis.
+
+
+            For sources equipped with BACT, RACT or LAER technology after the
+            implementation of this guidance, the Department will require the use of EPA Method
+            25A (expressed as propane) for measuring the mass-rate of gaseous organic
+            compounds exhausting from the control equipment. The Department will evaluate
+            each BACT, RACT or LAER source on a case-by-case basis to determine if
+            additional measurements of methanol and formaldehyde are necessary to quantify
+            VOC emissions.
+
+
+            For VOC control equipment that requires the combustion of natural gas, ethane
+            and/or methane may significantly bias an EPA Method 25A test and an adjustment is
+            commonly made for the bias. Methane and ethane are deemed to have “negligible
+
+                                                 4
+                                                                                  Guidance P-8-20-100
+
+             photochemical reactivity” and are not regulated VOCs. Therefore, methane and
+             ethane may be measured independently and the analyzer response of EPA Method
+             25A may be corrected. The measurement of methane and ethane should be an
+             available option but not a requirement. Refer to Attachments 1 & 2 for more details.
+
+
+             The measurement of VOC emissions for determining destruction and removal
+             efficiency (DRE) is beyond the scope of this guidance.
+
+
+      5.4    Explanatory Comments Regarding Phenol Testing
+
+             Sources applicable to this guideline may also emit a significant amount of phenol
+             emissions. Phenol is a designated VOC, however, EPA Method 25A expressed as
+             propane will account for approximately 85% of the total phenol emitted. In an
+             attempt to formulate a representative and comprehensible VOC sampling approach,
+             the Department considers the independent quantification of phenol unnecessary when
+             this guidance is applied.
+
+
+6. Implementation of this Guidance:
+
+Full implementation of this guidance will involve many parts. Ultimately all affected permits
+will have to be revised to reflect the new method for quantifying VOC emissions. Until that is
+accomplished, staff will be faced with determining compliance with VOC emission limits,
+approving source test protocols, and reviewing source test results. Because this guidance does
+not directly lead to any emission reductions and due to the significant workload of revising
+permits, it is not of the highest priority to revise all permits immediately. Permits should be
+revised to reflect this guidance upon renewal, during a major permit modification for other
+reasons, or at the request of the permittee. See Section 7 of this guidance for further details on
+permit revisions. What follows is guidance for issues staff will face until all affected permits
+are revised.
+
+6.1         Approving source test protocols
+
+            With the effective date of this guidance, all source test protocols for VOC testing of
+            processes described in the applicability section should follow the procedures in Section
+            5 of this guidance. Results should be reported consistent with this guidance to enable
+            development of new VOC emission limits and consistent with the test methods used to
+            establish the existing permit limits to enable a determination of compliance with the
+            existing permit.
+
+
+
+
+                                                   5
+                                                                                 Guidance P-8-20-100
+
+6.2      Reviewing source test results
+
+         Source test reports received after the effective date of this guidance, based on protocols
+         approved prior to the effective date of this guidance, should be evaluated based on the
+         approved protocol.
+
+         Determining compliance with permit conditions
+
+         Evaluation of source test results to determine compliance must be consistent with the
+         test methods used to establish the emission limits.
+
+7. Permit Revisions:
+
+As stated earlier, due to the significant workload for these permit revisions, ODEQ will
+implement the permit revisions during permit renewals, significant permit modifications, or at
+the request of a permittee. Emphasis should be placed on updating the permit to current
+allowable emissions using these new procedures for calculating VOC emissions. It is not high
+priority to go back and re-examine every physical change from the past, using this new method
+to calculate VOC emissions, to evaluate whether those changes may have triggered New Source
+Review or Prevention of Significant Deterioration. In the Wood Products Initiative, EPA already
+did this evaluation for most of the bigger facilities to which this new guidance will apply.
+
+Permit revisions will involve establishing new emission factors for PSELs, baseline emission
+rates, and the netting basis. If source test results are available that follow this new guidance,
+calculation procedures are straightforward. If there are source tests available that follow the old
+guidance, the results of those tests should be recalculated using the guidance in Attachment 1.
+
+7.1      Compliance issues discovered as a result of permit revision
+
+         As baseline emission rates, netting basis, and current PSELs are recalculated using this
+         guidance, there may be instances where compliance issues are discovered such as the
+         recalculated PSEL exceeds the netting basis by an amount greater than the SER. In
+         general, formal enforcement is not warranted for violations resulting solely from
+         recalculation, provided that the source satisfies any subsequently triggered requirement.
+         For instance, the source would have to either reduce previously approved emission
+         increases to less than the SER or satisfy the requirements of New Source Review (NSR)
+         or Prevention of Significant Deterioration (PSD), or other applicable state rules. The
+         appropriate timeline would have to be determined on a case-by-case basis.
+
+         If a source could reasonably reduce permitted emission levels and stay below relevant
+         thresholds, they should be required to do so. Failure to do so could be considered a
+         willful continuing violation. In some cases sources may have difficulty staying below
+         thresholds because they have entered into contracts based on previously approved
+         production increases that would not be allowed based on corrected emission rates. In
+         such a case, staff should allow the source a reasonable period of time to satisfy any
+         subsequent requirements such as NSR, PSD, or TV permitting requirements.
+
+         Staff should seek to create an enforceable compliance schedule through a Mutual
+         Agreement and Order (MAO), unilateral Order, or a compliance schedule in the permit.
+                                                 6
+                                                                              Guidance P-8-20-100
+
+       Note however, that creation of a compliance schedule will not absolve the source of
+       potential enforcement from EPA.
+
+       If the only compliance issue is an apparent exceedance of the PSEL without triggering
+       any new applicable requirement, the permit writer should request the permittee modify
+       the permit application in hand to request a higher PSEL.
+
+       Although it is not high priority to re-examine all past physical changes against this new
+       guidance for calculating VOC emissions, staff may identify cases where a permittee had
+       been granted an emissions increase from a physical change and the emissions increase
+       was below the SER, thereby avoiding NSR or PSD permitting requirements. In some
+       cases, a permittee may have knowingly underestimated the VOC emissions increase,
+       which could be a Class I violation if the permittee submitted false, inaccurate or
+       incomplete information to the department where the submittal masked a violation,
+       caused environmental harm, or caused the department to misinterpret any substantive
+       fact ( OAR 340-012-0053(1)(b) ). The fact that the permit application was submitted
+       after EPA’s Wood Products Initiative was conducted would not normally be sufficient,
+       in and of itself, to indicate that a permittee knowingly underestimated emissions. Staff
+       should examine the situation on a case-by-case basis using the most-current
+       Enforcement Guidance to determine if a violation occurred, how it should be classified,
+       and whether formal enforcement is warranted.
+
+
+8. Internal Contacts:
+
+Kenan Smith, WR, Medford
+Gary Andes, WR, Salem
+Jim Broad/Patty Jacobs, NWR, Portland
+Mark W. Bailey, ER, Bend
+
+
+
+
+                                              7
+                                                                          Guidance P-8-20-100
+
+
+
+
+                                    Attachment 1
+
+      CALCULATION OF VOC EMISSIONS FROM DRYING OR PRESSING OF WOOD
+
+
+
+Calculating the VOC emissions on an “as VOC basis” will be performed as per Equation A-
+1. The supplementary measurement of VOCs not addressed within Section 5 of this
+guidance is not required, but is included in equation A-1 for completeness. Production or
+process rate factors are addressed in equation A-2, below, while corrections to method 25A
+test results are addressed in equations A-3 and A-4.
+
+                                            n
+          Evoc = EFID + EFOR + EMOH +      Σ     Evoci         (Equation A-1)
+                                           i=1
+
+          WHERE:
+          Evoc = Total VOC emissions rate, lbs/hr as VOC basis.
+          EFID = Terpene emissions by Method 25A, lbs/hr as propane.
+          EFOR = Formaldehyde emissions rate, lbs/hr as formaldehyde.
+          EMOH = Methanol emissions rate, lbs/hr as methanol.
+          Evoci = VOC emissions rate of pollutant “i”, lbs/hr as VOC, measured in
+                  conjunction with and quantified independently from terpene,
+                  formaldehyde and methanol emission measurements.
+          n=      Number of additional VOC pollutants measured in conjunction
+                  with Method 25A.
+
+
+
+
+Process based VOC emissions factor is calculated as follows:
+
+
+                                    Evoc
+                          EFvoc =                                       (Equation A-2)
+                                     P
+
+
+          Where:
+          EFvoc = Process based VOC emission factor, lbs VOCs/unit.
+          Evoc = VOC emissions rate, lbs/hr (from equation A-1).
+          P=      Process rate, number of units per hour.
+
+
+
+
+                                            8
+                                                                              Guidance P-8-20-100
+
+CALCULATION OF TERPENE EMISSIONS (EFID) FROM UNREFINED METHOD 25A TEST DATA
+
+
+  At times, it will be necessary for the Source Test Coordinator (STC) to calculate terpene
+  emissions from unrefined EPA Method 25A test data. Following is an overview of the
+  calculations a STC will have to perform to accomplish such a task:
+  Overall correction of Method 25A data for methane, ethane, methanol and other applicable
+  VOC compounds is performed as per Equation A-3. These corrections to Method 25A are
+  optional, as the source might consider these emissions to be insignificant or may wish to
+  retain a degree of conservatism in the test results.
+               ⎡CM × RFM ⎤ ⎡ 2 × CE × RFE ⎤ ⎡CMOH × RFMOH ⎤ n NCi × Ci × RFi
+CFID' = CFID − ⎢         ⎥−⎢              ⎥−⎢             ⎥ −∑               (Equation A-3)
+               ⎣    3    ⎦ ⎣       3      ⎦ ⎣      3      ⎦ i =1    3
+         Where:
+         CFID’ =    Corrected FID response, ppmv as propane (dry/wet basis)2. CFID’ must not
+                    be less than the sensitivity of Method 25A (2% of the system span).
+         CFID =     Average FID response, ppmv as propane (dry/wet basis) 1, 2.
+         CM =       Methane concentration, ppmv as methane (dry/wet basis) 1,2.
+         CE =       Ethane concentration, ppmv as ethane (dry/wet basis) 1,2.
+         CMOH =     Methanol concentration, ppmv as methanol (dry/wet basis) 1, 2.
+         C=         Concentration of pollutant “i”, ppmv as VOC (dry/wet basis) 1,2, measured
+                    in conjunction with and quantified independently from terpene,
+                    formaldehyde and methanol emission measurements.
+         NCi =      Number of carbon atoms in VOC “i” molecule (dry/wet basis).
+         RFM =      Method 25A response factor for methane (as methane), default of 1.0.
+         RFE =      Method 25A response factor for ethane (as ethane), default of 1.0.
+         RFMOH = Method 25A response factor for methanol (as methanol), default 0.55.
+         RFi =       Method 25A response factor to VOC “i”, expressed as decimal fraction.
+         n=         Number of additional VOC pollutants measured in conjunction with
+                    Method 25A.
+         Notes:
+             1) CM, CE, CMOH, and/or Ci are equal to “0” if measurements are below detection
+                limit or if not measured in conjunction with EPA Method 25A.
+             2) CM, CE, CMOH, and/or Ci must be expressed on an equivalent basis, either dry
+                or wet. For consistency reasons, the Department prefers all concentrations
+                expressed on a dry basis.
+
+   Terpene emissions measured by EPA Method 25A (as propane) are calculated as follows:
+             EFID = (6.84 x 10-6) (CFID’) (Qs)                    (Equation A-4)
+             Where:
+             EFID = Terpene emissions measured by 25A, lbs/hr as propane.
+             CFID’= FID response, corrected for methane, ethane, methanol, and/or VOCi
+                    where applicable, ppmv (dry/wet) as propane (Equation A-3). CFID’ must
+                    not be less than the sensitivity of Method 25A (2% of the system span).
+             Qs = Exhaust gas flow rate, dry scfm if pollutant concentrations are expressed
+                    on a dry basis, wet scfm if pollutant concentrations are expressed on a wet
+                    basis.
+                                               9
+                                                                                Guidance P-8-20-100
+
+
+
+
+CORRECTING VOC TEST RESULTS THAT ARE EXPRESSED AS CARBON OR AS METHANE
+
+
+  As permits are renewed, permit writers may need to adjust VOC Baseline emissions or VOC
+  PSELs that were based on test results that were expressed “as carbon” or “as methane”. The
+  Department may be required to aid in evaluating how the VOCs were expressed and how to
+  correct the results. Utilize the correction factors in Table I to adjust the emissions to an “as
+  VOCs” basis.
+
+
+
+  TABLE I:
+  CONVERSION FACTORS FOR CORRECTING VOC EMISSIONS DATA*
+
+
+
+         VOC                  CONVERT                  CONVERT                 MULTIPLY
+      PARAMETER                                                                   BY
+                                FROM                        TO
+
+         EPA 25A             AS CARBON                AS PROPANE                   1.22
+       (TERPENES)
+
+         EPA 25A            AS METHANE                AS PROPANE                   0.92
+       (TERPENES)
+
+    FORMALDEHYDE             AS CARBON           AS FORMALDEHYDE                   2.50
+
+
+    FORMALDEHYDE            AS METHANE           AS FORMALDEHYDE                   1.88
+
+       METHANOL              AS CARBON              AS METHANOL                    2.67
+
+       METHANOL             AS METHANE              AS METHANOL                    2.00
+
+
+  Notes:
+    These conversion factors are utilized to convert mass emission rates (lbs/hr) and
+    production based emission rates (lb/# units), and are not applicable for correcting
+    pollutant concentrations.
+
+
+
+
+                                               10
+                                                                                    Guidance P-8-20-100
+
+
+
+   EXAMPLE CALCULATIONS TO DEMONSTRATE USE OF TABLE I CONVERSION FACTORS:
+
+
+   Source: Steam-heated Veneer Dryer
+
+
+   Reported VOC Emissions Test Results:
+
+              Terpenes (EPA Method 25A) = 10.5 lbs/hr as carbon
+              Formaldehyde Testing Results = 2.3 lbs/hr as carbon
+              Methanol Testing Results = 1.7 lbs/hr as carbon
+              Total VOCs = 14.5 lbs/hr as carbon
+              Process Rate = 12,000 sq ft/hr 3/8” basis
+              Emission Factor = 1.21 lbs/Msf (3/8” basis) as carbon
+
+   Corrected Test Results as per Guideline:
+
+       Terpenes (EPA M25A) =     (10.5 lbC/hr) x 1.22       = 12.8 lbs/hr as propane
+       Formaldehyde        =     (2.3 lbC/hr) x 2.50        = 5.8 lbs/hr as formaldehyde
+       Methanol            =     (1.7 lbC/hr) x 2.67        = 4.5 lbs/hr as methanol
+       Total VOCs          =     (12.8+5.8+4.5)             = 23.1 lbs/hr (as VOC)
+       Emission Factor     =     23.1 lbs/hr / 12Msf (3/8”) = 1.93 lbs/Msf (3/8” basis) as VOCs
+
+A correction for methanol may be appropriate to avoid double counting a portion (approximately
+55%) of the measured methanol emissions. If these corrections were not applied to the response
+of the FID analyzer as demonstrated in Equation A-3, procedures for correcting the terpene
+emissions as measured by Method 25A for methane, ethane and methanol are demonstrated
+below. Note that these corrections are optional and are not required by the Department.
+
+Correction of mass emission rate of terpenes as measured by EPA Method 25A:
+
+                       ⎡ E M × 44 ⎤ ⎡ E E × 2 × 44 ⎤ ⎡ E MOH × 0 . 55 × 44 ⎤
+     E FID ' = E FID − ⎢          ⎥−⎢              ⎥−⎢                     ⎥ (Equation A-5)
+                       ⎣ 3 × 16 ⎦ ⎣ 3 × 30 ⎦ ⎣               3 × 32        ⎦
+
+          Where:
+          EFID’= Corrected terpene emissions, lbs/hr as propane.
+          EFID = Terpene emissions by Method 25A (uncorrected), lbs/hr as propane.
+          EM= Methane emissions rate, lbs/hr as methane (default response factor of 1.0).
+          EE=     Ethane emissions rate, lbs/hr as ethane (default response factor of 1.0).
+          EMOH = Methanol emissions rate, lbs/hr as methanol (default response factor of 0.55).
+              Notes:
+                  • EM, EE, and/or EMOH are equal to “0” if measurements are below detection
+                     limits or if not measured in conjunction with EPA Method 25A.
+                  • It is not acceptable to produce a corrected terpene emission value (EFID’)
+                     that is less than the sensitivity of EPA Method 25A (2% of the system
+                     span).
+
+                                                11
+                                                                               Guidance P-8-20-100
+
+
+
+                                      Attachment 2
+
+
+Testing Methods
+
+Acceptable testing Methods for measuring VOC emissions from sources applicable to this
+guideline are listed below. Note however, that since the drafting of this document, new methods
+may have been promulgated or a listed method may have been deemed non-representative.
+
+
+EPA Method 25A for Terpene:
+
+
+   Calibration Materials: Calibrate the FID detector utilizing reference materials comprised of
+   a known concentration of propane. If the oxygen concentration of the measured exhaust gas
+   is greater or equal to 15 % by volume, then it is recommended, although not required, to use
+   a reference material comprised of propane with a balance of air.
+
+   FID Fuel: It is recommended, although not required, that a FID fuel be used that is
+   composed of 40% hydrogen and 60% helium. It is understood that some analyzers require a
+   100% hydrogen fuel and that a 40/60 fuel mixture may not be feasible.
+
+   Exhaust Moisture: It is recommended, although not required, to use a sample dilution system
+   if the moisture content of the measured exhaust gas exceeds 20% by volume. The sample
+   dilution system should be capable of reducing the moisture content of the sample gas to less
+   than 10% by volume.
+
+   Response Corrections for Methane, Ethane & Methanol: Corrections to the FID response for
+   the presence of methane, ethane & methanol are allowed, although not required. For a
+   response correction to be considered valid, the concentration of ethane, methane, and/or
+   methanol must be measured in conjunction with Method 25A testing utilizing pre-approved
+   testing methodology. A default FID response factor of 1.0 shall be assumed for methane and
+   ethane, while a default FID response factor of 0.55 shall be assumed for methanol.
+   Alternatively, a site specific response factor can be determined utilizing auditing procedures
+   defined within a Department approved test plan. Refer to the calculation procedures of
+   Attachment 1.
+
+   Response Corrections for Additional VOC Compounds: Corrections to the FID response
+   based on supplementary measurements of VOCs not addressed within Section 5 of this
+   guidance are allowed, although not required. For a response correction to be considered
+   valid, the concentration of the supplementary VOC must be measured in conjunction with
+   Method 25A testing utilizing pre-approved testing methodology. Corresponding response
+   factors for each VOC compound must be determined experimentally for the Method 25A
+   sampling system and must represent in-field sampling conditions. Techniques utilized to
+   determine Method 25A response factors must be pre-approved by the Department prior to
+   their implementation.
+
+
+                                              12
+                                                                           Guidance P-8-20-100
+
+Results: Test results from Method 25A are to be reported as ppmv (as propane) and mass
+rate of VOCs (as propane). If the net calculated terpene concentration (after applicable
+response corrections) is less than the sensitivity of Method 25A (2% of the span)
+emission calculations must be performed utilizing the sensitivity value.
+
+
+
+Formaldehyde
+
+          EPA Method 0011 – DNPH Method:
+          EPA Method 0011 is an isokinetic sampling method that has inherent sample
+          stability problems that should be addressed in the field. Caution, this method may
+          be inappropriate for wood dryers that operate at elevated inlet temperatures
+          (approximately 1,000oF or greater)
+
+          EPA Method 323, NCASI Methods CI/WP-98.01 or 99.02 – Chilled Impinger
+          Methods:
+          These are non-isokinetic test methods that utilize a simple colorimetric analysis to
+          measure formaldehyde emissions. Methanol can also be measured from the same
+          sample utilizing a Gas Chromatograph (GC/FID). Caution, these methods may be
+          inappropriate for gas streams that contain significant amounts of entrained water
+          droplets.
+
+          NCASI Method ISS/FP-A105.01-BHA Method:
+          This is a non-isokinetic midget impinger method developed to capture the six
+          HAPs of interest within the PCWP MACT. Formaldehyde is quantified utilizing
+          a gas chromatograph with a nitrogen phosphorous detector (GC/NPD). Methanol
+          and phenol can also be measured from the same sample utilizing a Gas
+          Chromatograph with a flame ionization detector (GC/FID). Caution, this method
+          may be inappropriate for gas streams that contain significant amounts of entrained
+          water droplets.
+
+          EPA Method 320 – Extractive Fourier Transform Infrared (FTIR):
+          EPA Method 320 is a difficult method but gives “real-time” data. It includes the
+          use of a heated sample system and a FTIR analyzer. Due to the limitations of
+          alternative methods, the use of Method 320 may become more prevalent as testers
+          become familiar with the FTIR instrumentation.
+
+To assure data quality, it is very important to follow QA/QC procedures of each
+method. Results are to be expressed as ppmv of formaldehyde and mass rate of
+formaldehyde emissions.
+
+
+
+
+                                           13
+                                                                             Guidance P-8-20-100
+
+Methanol
+
+
+             EPA Method 308 – Chilled Midget Impingers:
+             Non-isokinetic sample, methanol analyzed by GC/FID. Caution, this method may
+             be inappropriate for gas streams that contain significant amounts of entrained
+             water droplets.
+
+             NCASI Methods CI/WP-98.01 or 99.02 – Chilled Impinger Methods:
+             NCASI CI/WP-98.01 or 99.02 are non-isokinetic midget impinger methods that
+             utilize a GC/FID to measure methanol. Formaldehyde may also be determined
+             from the same sample. Caution, these methods may be inappropriate for gas
+             streams that contain significant amounts of entrained water droplets.
+
+             NCASI Method ISS/FP-A105.01-BHA Method:
+             This is a non-isokinetic midget impinger method developed to capture the six
+             HAPs of interest within the PCWP MACT. Methanol is quantified utilizing a
+             GC/FID. Formaldehyde can also be measured from the same sample utilizing a
+             GC/NPD. Caution, this method may be inappropriate for gas streams that contain
+             significant amounts of entrained water droplets.
+
+             EPA Method 320 – FTIR:
+             EPA Method 320 is a difficult method but gives “real-time” data. It includes the
+             use of a heated sample system and a FTIR analyzer. Due to the limitations of
+             alternative methods, the use of Method 320 will become more prevalent as testers
+             become familiar with the FTIR instrumentation.
+
+   To assure data quality, it is very important to follow QA/QC procedures of each
+   method. Results are to be expressed as ppmv of methanol and mass rate of methanol
+   emissions.
+
+
+Methane and Ethane
+
+
+   EPA Method 18 (or equivalent) – Gas Chromatograph
+
+
+             This method is able to speciate gaseous organic compounds and provides a
+             number of sampling options. Samples are generally extracted from the source
+             utilizing a sample transport system common to EPA Method 25A and stored in
+             tedlar bags (evacuated canisters are acceptable for methane and ethane analysis).
+             These samples are either analyzed on-site or shipped to a laboratory. Direct
+             interface sampling and dilution interface sampling are two techniques that are not
+             as common, but acceptable. If samples are analyzed after being stored at or below
+             room temperature, then measured results are to be considered dry concentrations.
+             Results are to be expressed as ppmv of methane and ppmv of ethane. When
+             correcting response of EPA Method 25A data, it is very important to report results
+             on a consistent basis, ppmv dry or ppmv wet.
+                                             14
+

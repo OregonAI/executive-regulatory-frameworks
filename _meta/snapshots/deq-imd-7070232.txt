@@ -1,0 +1,1506 @@
+    Clean Fill Determinations
+
+
+
+
+                                             Materials Management
+                                             700 NE Multnomah St.
+                                             Suite 600
+                                             Portland, OR 97232
+                                             Phone: 503-229-5696
+                                                      800-452-4011
+                                             Fax:     503-229-5850
+                                             Contact: Heather
+                                             Kuoppamaki
+                                             Kuoppamaki.heather@deq.st
+                                             ate.or.us
+                                             www.oregon.gov/DEQ
+
+
+
+
+                                             DEQ is a leader in
+                                             restoring, maintaining
+                                             and enhancing the quality
+                                             of Oregon’s air, land and
+                                             water.
+
+
+
+
+Oregon Department of Environmental Quality
+Documents can be provided upon request in an alternate format for individuals with disabilities
+or in a language other than English for people with limited English skills. To request a document
+in another format or language, call DEQ in Portland at 503-229-5696, or toll-free in Oregon at 1-
+800-452-4011, ext. 5696; or email deqinfo@deq.state.or.us.
+
+
+
+
+Oregon Department of Environmental Quality                                                      ii
+Disclaimer
+This directive is intended solely as guidance for DEQ employees. It does not constitute
+rulemaking by the Environmental Quality Commission and may not be relied upon to create an
+enforceable right or benefit, substantive or procedural, enforceable at law or in equity, by any
+person. With written managerial approval, DEQ employees may deviate from this directive.
+DEQ anticipates revising this directive from time to time as conditions warrant.
+
+
+
+
+Document Development
+
+                  Heather Kuoppamaki
+
+
+Reviewed By: Audrey O'Brien
+
+                  / /
+Approved By: ^//j //f/^, F^L/V"' _ Date: kLi-lO^:-q 2.( , /^ cy
+         '"1^' ~—--- —-J ""'
+Table of Contents
+     Intent/Purpose/Statement of Need ......................................................................................... 1
+     Applicability .......................................................................................................................... 1
+     Summary ................................................................................................................................ 1
+     Background and Definitions .................................................................................................. 1
+     Abbreviations Used in This Directive.................................................................................... 3
+     Updates to 2014 Directive ..................................................................................................... 3
+     Directive ................................................................................................................................. 4
+    7.1.         Who can make clean fill determinations ................................................................... 4
+          7.1.a.          Generator                                                                                                             4
+          7.1.b.          DEQ Materials Management                                                                                              4
+          7.1.c.          DEQ Cleanup                                                                                                           4
+    7.2.         Placement Locations ................................................................................................. 4
+          7.2.a.          Physiographic Provinces                                                                                               4
+          7.2.b.          In-Water Locations                                                                                                    5
+          7.2.c.          Clean Fill Land Disposal Sites                                                                                        5
+    7.3.         Clean Fill Evaluation ................................................................................................ 5
+          7.3.a.          Material description                                                                                                  5
+          7.3.b.          Contaminants Evaluation                                                                                               6
+          7.3.c.          Compare chemical concentrations to clean fill screening levels                                                        7
+     Derivation of clean fill screening levels ................................................................................ 8
+    8.1.         Table 1 ...................................................................................................................... 8
+    8.2.         Table 2 ...................................................................................................................... 8
+    8.3.         Modifications ............................................................................................................ 9
+     Review Schedule .................................................................................................................... 9
+     Record of Revisions to IMD ................................................................................................ 10
+
+Tables:
+Table 1 - Province specific and background metals Clean Fill Screening Levels
+Table 2 - Clean fill screening levels for organics and other selected constituents
+
+Figures:
+Figure 1 – Physiographic Provinces of Oregon
+Figure 2 – Clean Fill Evaluation Flow Chart
+
+
+
+
+                                                                                                                                                 iv
+       Intent/Purpose/Statement of Need
+DEQ often receives requests to determine or confirm whether solid waste qualifies as clean fill.
+Oregon Administrative Rules define clean fill and allow DEQ to exempt clean fill from
+regulation as solid waste in many instances. It is important to note that clean fill that is mixed
+with solid waste is considered to be solid waste. This directive describes the screening criteria
+DEQ Materials Management staff uses to evaluate whether material meets DEQ’s definition of
+clean fill for purposes of reuse or disposal.
+
+
+       Applicability
+DEQ Materials Management staff are to use this Internal Management Directive to determine
+whether a waste material is clean fill or needs to be regulated as a solid waste.
+
+
+       Summary
+This directive lays out a process and provides screening values that DEQ Materials Management
+staff should use to prepare and review clean fill determinations.
+Section 7 of this directive describes the process that DEQ Materials Management staff will use to
+make clean fill determinations. Section 8 provides information on how the clean fill screening
+levels were determined, and information on how and when the screening levels can be updated.
+Tables 1 and 2 provide clean fill screening levels.
+
+
+       Background and Definitions
+Clean fill – As defined in DEQ regulations, clean fill means “material consisting of soil, rock,
+concrete, brick, building block, tile or asphalt paving, which do not contain contaminants that
+could adversely impact the waters of the state or public health.” Clean fill does not include
+“putrescible wastes, construction and demolition wastes and industrial solid wastes.” [OAR 340-
+093-0030(18)]. This definition is clarified in the following subsections of the regulations:
+       Asphalt paving means “asphalt which has been applied to the land to form a street, road,
+       path, parking lot, highway, or similar paved surface and that is weathered, consolidated,
+       and does not contain visual evidence of fresh oil.” [OAR 340-093-0030(9)].
+       Clean fill that has been separated from construction and demolition waste is considered
+       clean fill [OAR 340-093-0030(26)].
+
+
+
+                                                                                                     1
+Clean fill land disposal sites – DEQ’s Materials Management Program does not regulate clean
+fill land disposal sites that are managed correctly. If solid waste is accepted at such a clean fill
+land disposal site, the facility is then subject to permit requirements and possible enforcement
+action by DEQ. This is stated in the following regulations:
+       A disposal site does not include a site that is used by the owner or person in control of the
+       premises to dispose of soil, rock, concrete or other similar non-decomposable clean fill
+       material, unless the site is used by the public either directly or through a collection
+       service [OAR 340-093-0030(38)].
+       A person owning or controlling a land disposal site used exclusively for the disposal of
+       clean fill may be exempt from DEQ solid waste permitting requirements. Clean fill still
+       must be managed so that, when placed or disposed, it will not create an adverse impact on
+       groundwater, surface water, or public health or safety. [OAR 340-093-0050(3)(c)].
+Permit exemptions - Persons owning or controlling a land disposal site used exclusively for the
+disposal of clean fill, are specifically exempted from the requirements to obtain a DEQ solid
+waste permit. Such persons must comply with all other provisions of OAR chapter 340, divisions
+93 through 97 and other applicable laws, rules, and regulations regarding solid waste disposal.
+The exemption does not apply if the materials have been contaminated such that the Department
+determines that their nature, amount or location may create an adverse impact on groundwater,
+surface water or public health or safety [based on OAR 340-093-0050(3)(c)]. Additional
+information on receiving DEQ approval at an exempt site is provided in OAR 340-093-0080:
+       A person wishing to obtain an exemption from the requirement to obtain a solid waste
+       permit for disposal of an inert waste in specified locations may submit a request to the
+       Department. The applicant must demonstrate that the waste is substantially the same as
+       “clean fill.” The request shall include but not be limited to the following information:
+               (a) The exact location (including a map) at which the waste is to be disposed of
+               and a description of the surrounding area;
+               (b) The monthly rate of disposal;
+               (c) A copy of the Safety Data Sheet (or equivalent, if a Safety Data Sheet is not
+               available) for all applicable raw materials used at the facility generating the waste;
+               (d) A description of the process generating the waste and how that process fits
+               into the overall operation of the facility;
+               (e) Documentation that the waste is not hazardous as defined in OAR 340,
+               division 101. The procedure for making a hazardous waste determination is in
+               OAR 340-102-0011;
+               (f) A demonstration that the waste is inert, stable, non-putrescible, and physically
+               similar to soil, rock, concrete, brick, building block, tile, or asphalt paving;
+               (g) A demonstration that the waste will not discharge constituents which would
+               adversely impact the waters of the state or public health.
+
+
+
+                                                                                                       2
+       Abbreviations Used in This Directive
+DEQ – Oregon Department of Environmental Quality
+ECO SSL – EPA Ecological Soil Screening Level
+EPA – United States Environmental Protection Agency
+IMD – Internal Management Directive
+OAR – Oregon Administration Rule
+RBC – Oregon DEQ Risk Based Concentration
+RSL – EPA Regional Screening Level
+USGS – United States Geological Survey
+VOC – Volatile Organic Compound
+
+
+       Updates to 2014 Directive
+This 2018 update makes the following changes to the clean fill IMD-
+
+   •   The format is modified to meet DEQ’s IMD format guidelines.
+
+   •   Modifies language to reflect rule requirements.
+
+   •   Clarifies and expands some of the guidance language.
+
+   •   Updates the clean fill tables to:
+        include EPA groundwater protection SSLs (adjusted to reflect Oregon DEQ dilution
+         attenuation factor),
+        remove the DEQ chemical-specific calculation for leaching to groundwater [since
+         these are now provided by the EPA soil screening levels (SSL)],
+        incorporate updated DEQ risk based concentrations (RBCs) and EPA regional
+         screening levels (RSLs), and
+        include screening ecological benchmarks developed by Oak Ridge National
+         Laboratory.
+
+   •   Updates links to Oregon DEQ’s new web pages.
+
+
+
+
+                                                                                            3
+    •   Removes lanthanum, niobium, technetium, tellurium, titanium, and tungsten from Table
+        1 as they are not commonly detected in soils in Oregon, and are generally not
+        contaminants of interest at sites investigated in Oregon.
+
+
+        Directive
+7.1. Who can make clean fill determinations
+7.1.a. Generator
+When generators of excavated materials (or their consultants) ask how they can make their own
+clean fill determinations, DEQ Materials Management staff should explain that, when presented
+with a permit-exemption application, DEQ evaluates whether a material is clean fill according to
+the process outlined in this IMD.
+A generator always has the option to do their own statistical analysis and make site-specific
+clean fill decisions based on the material generated.
+
+7.1.b. DEQ Materials Management
+DEQ Materials Management staff should encourage the generators of material (or their
+consultants) to make their own clean fill determination based on this IMD, including the clean
+fill screening levels provided in Table 1 and Table 2. If generators want to use different risk
+assumptions or would like DEQ to review clean fill determinations and provide approval, direct
+them to apply for a permit exemption (OAR 340-093-0080) and pay any associated fees.
+
+7.1.c. DEQ Cleanup
+If a generator is remediating a site under our Cleanup Program, DEQ Materials Management
+staff should involve DEQ’s project manager for the site. Under cleanup statutes, DEQ may
+exempt the onsite reuse of materials from regulation under solid waste statutes, provided that
+substantive requirements are met. [See ORS 465.315 (3) and (4)]
+
+
+7.2. Placement Locations
+7.2.a. Physiographic Provinces
+The clean fill values shown in Table 1 take into account naturally occurring concentrations of
+metals and metalloids in the various physiographic provinces within Oregon (Figure 1). These
+concentrations are compiled from DEQ Cleanup Program’s background metals technical report 1.
+Clean fill generated in one physiographic province may not qualify as clean fill in another
+physiographic province with lower background metals concentrations. The material must be
+below the clean fill screening levels in both the province in which it is generated and the
+province in which it is disposed.
+
+
+1
+ DEQ. 2013. Development of Oregon Background Metals Concentrations in Soil, Technical Report. March.
+https://www.oregon.gov/deq/FilterDocs/DebORbackgroundMetal.pdf
+
+
+                                                                                                       4
+7.2.b. In-Water Locations
+The clean fill determination process applies only to terrestrial (upland) reuse or disposal. The
+Clean Water Act and associated state water quality rules, rather than the solid waste rules,
+govern the filling of wetlands or waters of the state.
+If generators of clean fill plan to place the material in wetlands or other waters of the state, DEQ
+Materials Management staff should direct them to the Army Corps of Engineers and the Oregon
+Department of State Lands.
+
+7.2.c. Clean Fill Land Disposal Sites
+If any solid wastes are be disposed of at a site that accepts clean fill, the site is no longer exempt
+from DEQ solid waste permitting requirements.
+
+
+7.3. Clean Fill Evaluation
+The clean fill definition in OAR 340-093-0030 refers to material type as well as the presence of
+contaminants that could adversely impact waters of the state and human health. Both parts of the
+definition must be satisfied for the material to be considered clean fill.
+
+   (1) The material type is limited to soil, rock, concrete, brick, building block, tile or asphalt
+       paving and does not consist of putrescible wastes, construction and demolition wastes
+       and industrial solid wastes.
+   (2) The contaminants may not adversely impact waters of the state or public health. The
+       clean fill screening level tables are based on background concentrations (for metals) and
+       risk screening levels published by Oregon DEQ and EPA.
+The steps to conduct a clean fill determination are described below. These steps are also shown
+in Figure 2.
+
+7.3.a. Material description
+The first step in performing a clean fill determination is to check that the material meets the
+general material definition. To do this, determine whether the material:
+
+   •   Consists of soil, rock, concrete, brick, building block, tile or asphalt paving; and,
+   •   Does not include putrescible wastes, construction and demolition wastes, or industrial
+       solid wastes
+
+In addition, specific material attributes should be considered. Some examples:
+
+   •   Asphalt paving must be used, be weathered material (not fresh asphalt) and consist of
+       large, intact chunks. Ground up asphalt is not clean fill.
+   •   Concrete, brick, blocks or tile must be unpainted, unless the materials have been
+       evaluated for hazardous constituents, and concentrations of those constituents are below
+       clean fill screening levels.
+
+
+
+
+                                                                                                         5
+    •   If filler material used in the production of concrete, brick, building block, or tile has the
+        potential to impact waters of the state or public health, the material is not clean fill.
+
+Material that is determined to not be clean fill is solid waste. It may be disposed under a
+location-specific permit exemption, a solid waste letter authorization, or in a permitted landfill.
+The material also potentially may be reused under the authority of a Beneficial Use
+Determination.
+
+7.3.b. Contaminants Evaluation
+The second step in conducting a clean fill determination is to evaluate the risk from contaminants
+in the material. This is based on the presence of staining or odor, known hazardous substances,
+and laboratory analysis of the material for contaminants of potential concern.
+Staining or odor
+If the material appears chemically stained or has a chemical smell it is not clean fill. Chemicals
+that stain or produce odors indicate the material contains contaminants that could impact waters
+of the state or public health.
+Hazardous waste
+If the material contains a listed or characteristic hazardous waste it is not clean fill, even if the
+chemical concentrations are below clean fill table values. The generator may use alternative
+management methods such as “contained-in” determinations 2 to decide the ultimate disposal of
+the material.
+Characterize the fill for chemical characterization
+DEQ Materials Management staff should determine whether applicants adequately characterized
+the chemical quality of fill materials.
+DEQ review must ensure that the applicant proposes and conducts an adequate sampling
+program to characterize the material. Sampling programs should be based on an understanding of
+the historical site use, processes that were used at the site, spatial variability of site soils, and
+potential chemicals that were handled, used, or stored at the site. Sampling programs should
+include: how samples are collected (in-situ or ex-situ), where samples are collected to obtain
+representative results, types of samples collected (discrete or composite), the number of samples
+collected, and the constituents the samples are being analyzed for. The sampling program should
+depend on the size, condition, spatial variability of the soils, and history of the area the generator
+will excavate (or has excavated).
+Because designing a sampling program to collect representative data for heterogeneous materials
+is potentially complex, DEQ staff should refer generators to sampling guidance such as EPA
+
+
+
+
+2
+ DEQ, 2015. Conducting Contained-In Determinations for Environmental Media, Internal Management Directive.
+https://www.oregon.gov/deq/Filtered%20Library/IMDEnvMediaContainedinDet.pdf
+
+
+                                                                                                             6
+(1986) 3, EPA (2002) 4, ITRC (2012) 5 or to an experienced consultant when asked “how many
+samples should I collect?” during the pre-application period.
+Examples of site considerations:
+An applicant would need to collect fewer samples along a long stretch of highway through a
+single land use (such as agricultural fields with similar crops) than in areas where land use
+changes frequently.
+Materials from agricultural lands should be tested for metals and pesticides/herbicides at a
+minimum. Materials from a facility whose history is uncertain may require testing for a larger list
+of analytes. Historical site information may be available in an environmental site assessment
+conducted in accordance with standard practices (for instance, ASTM E1903) 6.
+If the material is sediment that is being dredged and will be placed upland, DEQ Materials
+Management staff should work with DEQ Water Quality staff to determine if sampling done for
+the 401 water quality certification or dredging permits is sufficient to adequately characterize the
+sediment that will be placed upland.
+
+7.3.c. Compare chemical concentrations to clean fill screening levels
+Once an appropriate sampling and analysis program has been completed, the results should be
+compared to clean fill screening levels. These levels are provided in Tables 1 and 2. When
+reviewing the results, make sure the laboratory method detection limit (MDL) is lower than the
+screening table value.
+If the contaminant concentrations in the material do not exceed clean fill screening levels defined
+in the tables, the material is clean fill, provided the other criteria described in this IMD are also
+met, such as absence of staining or odor.
+Note that the material may be clean fill even if there are some exceedances of these screening
+levels. For instance, if an appropriate statistical analysis 7 demonstrates that the concentration of
+the contaminants are very close to clean fill screening values, DEQ may determine that the
+material can be considered to be clean fill in certain cases.
+If a clean fill determination cannot be made, the party may contact DEQ to discuss other options,
+such as a permit exemption, disposal under a solid waste letter authorization, and disposal at a
+permitted landfill.
+
+
+
+3
+  EPA, 1986. Test Methods for Evaluating Solid Waste, Physical/Chemical Methods (SW-846), Chapter 9,
+https://www.epa.gov/sites/production/files/2015-10/documents/chap9_0.pdf
+4
+  EPA, 2002. Guidance on Choosing a Sampling Design for Environmental Data Collection, EPA QA/G-5S.
+https://www.epa.gov/sites/production/files/2015-06/documents/g5s-final.pdf
+5
+  ITRC, 2012. Incremental Sampling Methodology, Technical and Regulatory Guidance. February.
+https://www.itrcweb.org/ism-1/pdfs/ISM-1_021512_Final.pdf
+6
+  ASTM, 2011. Standard Practice for Environmental Site Assessments: Phase II Environmental Site Assessment
+Process, E1903-11. http://www.astm.org/Standards/E1903.htm
+7
+  Calculating a 90% Upper Confidence Limit is usually an appropriate statistical method. https://www.epa.gov/land-
+research/proucl-software
+
+
+                                                                                                                 7
+        Derivation of clean fill screening
+        levels
+8.1. Table 1
+The values in Table 1 are based on the following:
+• DEQ’s technical report on background metals concentrations in soil 8
+• DEQ and EPA ecological screening levels 9, 10
+• Ecological screening benchmarks developed by Oak Ridge National Laboratory 11
+• DEQ RBCs for residential soils 12
+• EPA RSLs for residential soils 13
+• Calculations based on USGS data 14
+
+In the case of background metals concentrations exceeding human health or ecological screening
+values, the background metal values are shown. Otherwise, the lowest of human or ecological
+screening values are used.
+
+In the case of metals for which background concentration levels are not available, DEQ used data
+compiled by USGS to calculate an estimated background value. DEQ used ProUCL to calculate
+a nonparametric 95% Upper Prediction Limit.
+
+The background concentration of lead for the Portland Basin appears to include anthropogenic
+influences (it is 79 mg/kg compared to no more than about 36 mg/kg in the rest of the state).
+Therefore, DEQ used the background lead concentration from the South Willamette Basin
+province as a background concentration for lead (28 mg/kg) for the Portland Basin.
+
+
+8.2. Table 2
+Values in Table 2 are based on the lowest of the following:
+• Residential soil concentrations from DEQ’s Risk-Based Decision Making table
+• EPA’s residential soil Regional Screening Level
+
+
+8
+  DEQ. 2013. Development of Oregon Background Metals Concentrations in Soil, Technical Report. March.
+https://www.oregon.gov/deq/FilterDocs/DebORbackgroundMetal.pdf
+9
+  DEQ, 1998. Guidance for Ecological Risk Assessment: Levels I, II, III, IV. April.
+https://www.oregon.gov/deq/FilterDocs/GuidanceEcologicalRisk.pdf
+10
+   EPA, Interim Ecological Soil Screening Level Documents. Website accessed September 6, 2018:
+https://www.epa.gov/chemical-research/interim-ecological-soil-screening-level-documents
+11
+   Oak Ridge National Laboratory, https://www.lanl.gov/environment/protection/eco-risk-assessment.php
+12
+   DEQ, 2018. Risk-Based Concentrations for Individual Chemicals. May.
+https://www.oregon.gov/deq/FilterDocs/RBDMTable.pdf
+13
+   EPA, 2018. Regional Screening Levels (RSLs) – Generic Tables. May.
+http://www.epa.gov/reg3hwmd/risk/human/rb-concentration_table/index.htm
+14
+   USGS, 2013. Geochemical and Mineralogical Data for Soils of the Conterminous United States.
+https://pubs.usgs.gov/ds/801/pdf/ds801.pdf
+
+
+                                                                                                        8
+•      EPA’s risk-based soil screening levels (SSL) for protection of groundwater, multiplied by 60.
+       EPA uses a dilution attenuation factor (DAF) of 1 in the calculation of their SSLs; DEQ uses
+       a default DAF of 60. Therefore the EPA SSL is multiplied by 60 to be consistent with DEQ
+       methodology.
+•      For chemicals where DEQ and EPA have both calculated a screening level for groundwater
+       protection, the DEQ level is used.
+•      DEQ’s Ecological Screening Level Values
+•      EPA’s Ecological Soil Screening Levels
+•      Ecological screening benchmarks developed by Oak Ridge National Laboratory 15
+
+
+8.3. Modifications
+If any of the references screening levels are updated and the clean fill guidance has not been
+updated to reflect the new screening levels, generators can calculate their own, updated, clean fill
+screening levels based on the methods discussed above.
+
+
+           Review Schedule
+This Directive and its referenced clean fill screening tables should be reviewed and updated
+when DEQ or EPA risk-based screening levels change.
+
+
+
+
+15
+     Oak Ridge National Laboratory, https://www.lanl.gov/environment/protection/eco-risk-assessment.php
+
+
+                                                                                                          9
+    Record of Revisions to IMD
+Revision       Date                      Changes                               Editor
+   0       07/15/2014   New document                                   Bill Mason
+   1       07/23/2014   a. Corrected URL in footnote 1                 Bill Mason
+                        b. Corrected OAR reference on page 3
+   2       07/12/2018   a. Incorporated new RBCs, RSLs and             Heather Kuoppamaki
+                           SSLs
+                        b. Updated formatting
+                        c. See Section 6 for all changes
+   3       11/7/2018    Grammatical/typographical review               Julie Miller
+   4       4/3/2019     Minor edits in Tables 1 and 2. Fix footnotes   Heather Kuoppamaki
+                        in Table 1, remove Chromium III from
+                        Table 2
+   5       6/17/2019    Minor edits in Tables 1 and 2. Add CAS         Heather
+                        numbers and BaP equivalents to Table 2.        Kuoppamakirecordof
+
+
+
+
+                                                                                            10
+                               Table 1 - Clean fill screening levels for province specific and background metals. All concentrations in mg/kg
+
+                                                                                        *
+                      Statewide                                                Province Background / Clean Fill Value
+                                                                                        Deschutes-                                          South                        Note
+                      Clean Fill    Basin and       Blue          Cascade      Coast               High Lava Klamath               Owyhee             Portland
+                                                                                        Columbia                                           Willamette
+                        Value        Range        Mountains        Range       Range                 Plains     Mountains          Uplands              Basin
+Elements                                                                                 Plateau                                            Valley
+Antimony                                  0.86         1.3d     d    0.67       0.55       1.3        0.35          0.59            1.3 d     0.39    0.56             a
+Arsenic                                    12            14           19         12        6.8         7.2           12              17        18      8.8             a
+Barium                                    790           950          630        840        700         790          630             970       730      790             a
+Beryllium                                  2.4          2.6          2.1         2.8       2.6         2.6          1.4              2         2.6      2              a
+Bismuth                    20                                                                                                                                          c
+Cadmium                                   0.81         0.69          0.54       0.54         0.4          0.78          0.52       N/A             1.6      0.63       a
+Chromium (total)                          100           190          200         240         170          140           890          120           100       76        a
+Cobalt                     43                                                                                                                                          b
+Copper                                    110           120           73         100          29           62           110           50           140       34        a
+Lead                                       29            21           34         34           18           21            36           30           28        28 **     a
+Lithium                    35                                                                                                                                          b
+Manganese                                1,600        1,800         2,100       2,100       1,300        1,500         3,000        1,200         2,900     1,800      a
+Mercury                                   0.28          1.4          0.24       0.11         0.04         0.06          0.17         0.75         0.07      0.23       a
+Molybdenum                 2.1                                                                                                                                         b
+Nickel                                     66            92          110         160          78           75           630           53           50        47        a
+Selenium                                  0.41         0.93          0.52        1.5         0.46         0.54          0.8          0.49         0.68      0.71       a
+Silver                                    0.42         0.51          0.17       0.41         0.82         0.68          0.16          2.2         0.33      0.82       a
+Strontium (stable)       4,700                                                                                                                                         b
+Thallium                                  0.22        N/A            2.8         5.4         4.6          0.21          0.31       N/A             5.7       5.2       a
+Tin (inorganic)            50                                                                                                                                          c
+Uranium                     5                                                                                                                                          c
+Vanadium                                  270           400          280         260         300          220           290          190           370       180       a
+Zinc                                      130           160          170         140         130          140           140          120           200       180       a
+Notes:
+a - Table 4, Development of Oregon Background Metals Concentrations in Soil, Technical Report, DEQ (2013),
+https://www.oregon.gov/deq/FilterDocs/DebORbackgroundMetal.pdf. Background concentrations (a or d), when available, are used for the clean fill value. When background
+concentrations are not available, risk screening values are used.
+b - 95% Upper Prediction Limit calculated using USGS data for Oregon, Smith, D.B., Cannon, W.F., Woodruff, L.G., Solano, Federico, Kilburn, J.E., and Fey, D.L., 2013,
+Geochemical and mineralogical data for soils of the conterminous United States: U.S. Geological Survey Data Series 801, 19 p., http://pubs.usgs.gov/ds/801/
+c - Table 1, Guidance for Ecological Risk Assessment, Level II Screening Level Values, DEQ (2001), https://www.oregon.gov/deq/FilterDocs/GuidanceEcologicalRisk.pdf. Only
+used if ecotoxicological benchmarks from Oak Ridge National Laboratory are not available.
+d - Ecotoxicological screening benchmarks developed by Oak Ridge National Laboratory: https://www.lanl.gov/environment/protection/eco-risk-assessment.php
+e - Regional Screening Levels, EPA (May 2018), Residential soil. http://www.epa.gov/reg3hwmd/risk/human/rb-concentration_table/index.htm
+* - Province boundaries are presented in Figure 1
+
+** - The background concentration of lead for the Portland Basin appears to include anthropogenic influences (it is 79 mg/kg compared to no more than about 36 mg/kg in the rest
+of the state). Therefore, DEQ used the background lead concentration from the South Willamette Basin province as a background concentration for lead for the Portland Basin.
+Last updated by Heather Kuoppamaki, DEQ-NWR, on June 17, 2019
+      Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                     concentrations in mg/kg
+
+               Chemical Name                             CAS           Clean Fill Value     Note
+Acenaphthene                                      83-32-9                     0.25              g
+Acenaphthylene                                    208-96-8                    120               g
+Acephate                                          30560-19-1                  0.32              b
+Acetaldehyde                                      75-07-0                    0.031              b
+Acetochlor                                        34256-82-1                   17               b
+Acetone                                           67-64-1                      1.2              g
+Acetone Cyanohydrin                               75-86-5                 2,800,000             a
+Acetonitrile                                      75-05-8                      1.6              b
+Acetophenone                                      98-86-2                      35               b
+Acetylaminofluorene, 2-                           53-96-3                   0.0043              b
+Acrolein (Propenal)                               107-02-8                  0.0005              b
+Acrylamide                                        79-06-1                  0.00066              b
+Acrylic Acid                                      79-10-7                    0.025              b
+Acrylonitrile                                     107-13-1                 0.00036              d
+Adiponitrile                                      111-69-3                8,500,000             a
+Alachlor                                          15972-60-8                 0.052              b
+Aldicarb                                          116-06-3                    0.29              b
+Aldicarb Sulfone                                  1646-88-4                   0.26              b
+Aldrin                                            309-00-2                   0.023              d
+Allyl Alcohol                                     107-18-6                  0.0025              b
+Allyl Chloride                                    107-05-1                   0.014              b
+Aluminum Phosphide                                20859-73-8                   31               a
+Ametryn                                           834-12-8                     9.6              b
+Aminobiphenyl, 4-                                 92-67-1                   0.0009              b
+Aminophenol, m-                                   591-27-5                     37               b
+Aminophenol, o-                                   95-55-6                      1.8              b
+Aminophenol, p-                                   123-30-8                      9               b
+Amitraz                                           33089-61-1                  160               a
+Ammonium Perchlorate                              7790-98-9                    55               a
+Ammonium polyphosphate                            68333-79-9              3,800,000             a
+Ammonium Sulfamate                                7773-06-0                 16,000              a
+Amyl Alcohol, tert-                               75-85-4                    0.078              b
+Aniline                                           62-53-3                     0.28              b
+Anthracene                                        120-12-7                     6.8              g
+Anthraquinone, 9,10-                              84-65-1                     0.84              b
+Antimony Pentoxide                                1314-60-9                    39               a
+Antimony Tetroxide                                1332-81-6                    31               a
+Antimony Trioxide                                 1309-64-4                280,000              a
+Aroclor 1016                                      12674-11-2                   1.1              g
+Aroclor 1221                                      11104-28-2                0.0048              b
+Aroclor 1232                                      11141-16-5                0.0048              b
+Aroclor 1242                                      53469-21-9                 0.041              g
+Aroclor 1248                                      12672-29-6                0.0073              g
+Aroclor 1254                                      11097-69-1                 0.041              g
+Aroclor 1260                                      11096-82-5                  0.24              a
+Aroclor 5460                                      11126-42-4                   35               a
+Arsenic III                                       7440-38-2                    10               e
+Arsine                                            7784-42-1                   0.27              a
+Asulam                                            3337-71-1                    11               b
+Atrazine                                          1912-24-9                  0.012              b
+Auramine                                          492-80-8                   0.037              b
+       Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                      concentrations in mg/kg
+
+                 Chemical Name                            CAS           Clean Fill Value     Note
+Avermectin B1                                      65195-55-3                  25                a
+Azinphos-methyl                                    86-50-0                      1                b
+Azobenzene                                         103-33-3                  0.056               b
+Azodicarbonamide                                   123-77-3                   410                b
+Benfluralin                                        1861-40-1                   56                b
+Benomyl                                            17804-35-2                  51                b
+Bensulfuron-methyl                                 83055-99-6                  60                b
+Bentazon                                           25057-89-0                  7.2               b
+Benzaldehyde                                       100-52-7                   0.25               b
+Benzene                                            71-43-2                   0.023               d
+Benzenediamine-2-methyl sulfate, 1,4-              6369-59-1                 0.013               b
+Benzenethiol (thiophenol)                          108-98-5                   0.66               b
+Benzidine                                          92-87-5                 0.000038              d
+Benzo(a)anthracene                                 56-55-3                    0.73               g
+Benzo(a)pyrene (BaP equivalents)                   50-32-8                    0.11               a
+Benzo(b)fluoranthene                               205-99-2                    1.1               a
+Benzo(g,h,i)perylene                               191-24-2                    25                g
+Benzo(j)fluoranthene                               205-82-3                   0.42               a
+Benzo(k)fluoranthene                               207-08-9                    11                a
+Benzoic Acid                                       65-85-0                      1                g
+Benzotrichloride                                   98-07-7                  0.0004               b
+Benzyl Alcohol                                     100-51-6                    29                b
+Benzyl Chloride                                    100-44-7                 0.0059               b
+Bidrin (Dicrotophos)                               141-66-2                 0.0084               b
+Bifenox                                            42576-02-3                  46                b
+Biphenthrin                                        82657-04-3                 950                a
+Biphenyl, 1,1'-                                    92-52-4                    0.52               b
+Bis(2-chloro-1-methylethyl) ether (Bis(2-
+                                                   108-60-1                    16                b
+chloroisopropyl) ether)
+Bis(2-chloroethoxy)methane                         111-91-1                   0.78               b
+Bis(2-chloroethyl)ether (dichloroethyl ether)      111-44-4                 0.00019              d
+Bis(2-ethylhexyl)phthalate (DEHP)                  117-81-7                   0.02               g
+Bis(chloromethyl)ether                             542-88-1                0.000001              b
+Bisphenol A                                        80-05-7                   3,200               a
+Boron And Borates Only                             7440-42-8                   0.5               e
+Boron Trichloride                                  10294-34-5               160,000              a
+Boron Trifluoride                                  7637-07-2                 3,100               a
+Bromate                                            15541-45-4                0.051               b
+Bromine                                            7726-95-6                   10                e
+Bromo-2-chloroethane, 1-                           107-04-0                 0.00013              b
+Bromo-3-fluorobenzene, 1-                          1073-06-9                  0.28               b
+Bromo-4-fluorobenzene, 1-                          460-00-4                   0.26               b
+Bromoaniline, 4-                                   106-40-1                   100                e
+Bromobenzene                                       108-86-1                    2.5               b
+Bromochloromethane                                 74-97-5                     1.3               b
+Bromodichloromethane                               75-27-4                   0.002               d
+Bromoform (tribromomethane)                        75-25-2                   0.046               d
+Bromomethane                                       74-83-9                   0.083               d
+Bromophos                                          2104-96-3                    9                b
+Bromopropane, 1-                                   106-94-5                    3.8               b
+Bromoxynil                                         1689-84-5                 0.031               b
+       Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                      concentrations in mg/kg
+
+                Chemical Name                             CAS           Clean Fill Value     Note
+Bromoxynil Octanoate                               1689-99-2                   0.13              b
+Butadiene, 1,3-                                    106-99-0                 0.00059              b
+Butanoic acid, 4-(2,4-dichlorophenoxy)-            94-82-6                      25               b
+Butanol, N-                                        71-36-3                      25               b
+Butyl alcohol, sec-                                78-92-2                     300               b
+Butyl benzyl phthlate                              85-68-7                      14               b
+Butylate                                           2008-41-5                    27               b
+Butylated hydroxyanisole                           25013-16-5                   17               b
+Butylated hydroxytoluene                           128-37-0                      6               b
+Butylbenzene, n-                                   104-51-8                    190               b
+Butylbenzene, sec-                                 135-98-8                    350               b
+Butylbenzene, tert-                                98-06-6                      96               b
+Butylphthalyl Butylglycolate                       85-70-1                   19,000              b
+Cacodylic Acid                                     75-60-5                      6.6              b
+Calcium Cyanide                                    592-01-8                     78               a
+Calcium pyrophosphate                              7790-76-3               3,800,000             a
+Caprolactam                                        105-60-2                    150               b
+Captafol                                           2425-06-1                  0.043              b
+Captan                                             133-06-2                     1.3              b
+Carbaryl                                           63-25-2                     100               b
+Carbazole                                          86-74-8                      79               g
+Carbofuran                                         1563-66-2                    2.2              b
+Carbon Disulfide                                   75-15-0                     0.81              g
+Carbon Tetrachloride                               56-23-5                    0.013              d
+Carbonyl Sulfide                                   463-58-1                     31               b
+Carbosulfan                                        55285-14-8                   72               b
+Carboxin                                           5234-68-4                    60               b
+Ceric oxide                                        1306-38-3               1,300,000             a
+Chloral Hydrate                                    302-17-0                     24               b
+Chloramben                                         133-90-4                     4.2              b
+Chloranil                                          118-75-2                   0.009              b
+Chloraniline, 3-                                   108-42-9                     20               e
+Chlordane, alpha-                                  5103-71-9                   0.27              g
+Chlordane, gamma-                                  5103-74-2                    2.2              g
+Chlordane, technical                               57-74-9                     0.91              d
+Chlordecone (Kepone)                               143-50-0                  0.0072              b
+Chlorfenvinphos                                    470-90-6                     1.9              b
+Chlorimuron, Ethyl-                                90982-32-4                   36               b
+Chlorine                                           7782-50-5                 0.0084              b
+Chlorine Dioxide                                   10049-04-4                 2,300              a
+Chlorite (Sodium Salt)                             7758-19-2                  2,300              a
+Chloro-1,1-difluoroethane, 1-                      75-68-3                    3,100              b
+Chloro-1,3-butadiene, 2- (Chloroprene)             126-99-8                 0.00059              b
+Chloro-2-methylaniline HCl, 4-                     3165-93-3                  0.009              b
+Chloro-2-methylaniline, 4-                         95-69-2                    0.024              b
+Chloroacetaldehyde, 2-                             107-20-0                  0.0035              b
+Chloroacetamide                                    79-07-2                       2               e
+Chloroacetophenone, 2-                             532-27-4                  43,000              a
+Chloroaniline, p- (4-Chloroaniline)                106-47-8                  0.0096              b
+Chlorobenzene                                      108-90-7                     2.4              g
+Chlorobenzene sulfonic acid, p-                    98-66-8                      28               b
+       Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                      concentrations in mg/kg
+
+                Chemical Name                             CAS           Clean Fill Value     Note
+Chlorobenzilate                                    510-15-6                   0.06               b
+Chlorobenzoic Acid, p-                             74-11-3                     7.8               b
+Chlorobenzotrifluoride, 4-                         98-56-6                     7.2               b
+Chlorobutane, 1-                                   109-69-3                    16                b
+Chlorodibromomethane
+                                                   124-48-1                 0.0024               d
+(dibromochloromethane)
+Chlorodifluoromethane                              75-45-6                     2,600             b
+Chloroethanol, 2-                                  107-07-3                      4.9             b
+Chloroform                                         67-66-3                    0.0034             d
+Chloromethane                                      74-87-3                       2.2             d
+Chloromethyl Methyl Ether                          107-30-2                 0.000084             b
+Chloronaphthalene, Beta-                           91-58-7                      230              b
+Chloronitrobenzene, o-                             88-73-3                     0.013             b
+Chloronitrobenzene, p-                             100-00-5                    0.066             b
+Chlorophenol, 2-                                   95-57-8                      0.39             g
+Chlorophenol, 3-                                   108-43-0                       7              e
+Chlorophenol, 4-                                   106-48-9                      50              e
+Chloropicrin                                       76-06-2                     0.015             b
+Chlorothalonil                                     1897-45-6                      3              b
+Chlorotoluene, o-                                  95-49-8                       14              b
+Chlorotoluene, p-                                  106-43-4                      14              b
+Chlorozotocin                                      54749-90-5              0.0000043             b
+Chlorpropham                                       101-21-3                      38              b
+Chlorpyrifos                                       2921-88-2                     7.2             b
+Chlorpyrifos Methyl                                5598-13-0                     32              b
+Chlorsulfuron                                      64902-72-3                    50              b
+Chlorthal-dimethyl                                 1861-32-1                      9              b
+Chlorthiophos                                      60238-56-4                    4.4             b
+Chromium (VI)                                      18540-29-9                   0.04             b
+Chrysene                                           218-01-9                      3.1             g
+Clofentezine                                       74115-24-5                   820              a
+Copper Cyanide                                     544-92-3                     390              a
+Cresol, m- (3-Methylphenol)                        108-39-4                     0.69             g
+Cresol, o- (2-Methylphenol)                        95-48-7                      0.67             g
+Cresol, p-                                         106-44-5                      90              b
+Cresol, p-chloro-m-                                59-50-7                      100              b
+Cresols                                            1319-77-3                     78              b
+Crotonaldehyde, trans-                             123-73-9                  0.00049             b
+Cumene                                             98-82-8                       96              d
+Cupferron                                          135-20-6                    0.037             b
+Cyanazine                                          21725-46-2                 0.0025             b
+Cyanogen                                           460-19-5                      78              a
+Cyanogen Bromide                                   506-68-3                    7,000             a
+Cyanogen Chloride                                  506-77-4                    3,900             a
+Cyclohexane                                        110-82-7                     780              b
+Cyclohexane, 1,2,3,4,5-pentabromo-6-chloro-        87-84-3                      0.96             b
+Cyclohexanone                                      108-94-1                      20              b
+Cyclohexene                                        110-83-8                      2.8             b
+Cyclohexylamine                                    108-91-8                      60              b
+Cyfluthrin                                         68359-37-5                  1,600             a
+Cyhalothrin/karate                                 68085-85-8                    63              a
+        Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                       concentrations in mg/kg
+
+                  Chemical Name                            CAS           Clean Fill Value     Note
+Cyromazine                                           66215-27-8                150                b
+Dalapon                                              75-99-0                   7.2                b
+Daminozide (Alar)                                    1596-84-5                0.057               b
+Decabromodiphenyl ether, 2,2',3,3',4,4',5,5',6,6'-
+                                                     1163-19-5                 440                a
+(BDE-209)
+Demeton                                              8065-48-3                    2.5             a
+Di(2-ethylhexyl)adipate                              103-23-1                    280              b
+Diallate                                             2303-16-4                  0.048             b
+Diammonium phosphate                                 7783-28-0              3,800,000             a
+Diazinon                                             333-41-5                     3.9             b
+Dibenz(a,h)anthracene                                53-70-3                     0.11             a
+Dibenzo(a,e)pyrene                                   192-65-4                   0.042             a
+Dibenzofuran                                         132-64-9                   0.002             e
+Dibenzothiophene                                     132-65-0                     72              b
+Dibromo-3-chloropropane, 1,2-                        96-12-8                0.0000084             b
+Dibromobenzene, 1,3-                                 108-36-1                    0.31             b
+Dibromobenzene, 1,4-                                 106-37-6                     7.2             b
+dibromoethane, 1,2- (EDB)                            106-93-4                 0.00012             d
+Dibromomethane (Methylene Bromide)                   74-95-3                     0.13             b
+Dibutyl phthalate (Di-n-butyl phthalate)             84-74-2                    0.011             g
+Dibutyltin Compounds                                 E1790660                     19              a
+Dicalcium phosphate                                  7757-93-9              3,800,000             a
+Dicamba                                              1918-00-9                     9              b
+Dichloro-2-butene, 1,4-                              764-41-0                 0.00004             b
+Dichloro-2-butene, cis-1,4-                          1476-11-5               0.000037             b
+Dichloro-2-butene, trans-1,4-                        110-57-6                0.000037             b
+Dichloroacetic Acid                                  79-43-6                    0.019             b
+Dichloroaniline, 2,4-                                554-00-7                    100              e
+Dichloroaniline, 3,4-                                95-76-1                      10              e
+Dichlorobenzene, 1,2-                                95-50-1                     0.92             g
+Dichlorobenzene, 1,3-                                541-76-1                    0.74             g
+Dichlorobenzene, 1,4-                                106-46-7                   0.057             d
+Dichlorobenzidine, 3,3'-                             91-94-1                     0.17             d
+Dichlorobenzophenone, 4,4'-                          90-98-2                      28              b
+Dichlorodifluoromethane (Freon-12)                   75-71-8                      18              b
+Dichlorodiphenyldichloroethane, 4,4- (DDD)           72-54-8                   0.0063             g
+Dichlorodiphenyldichloroethene, 4,4- (DDE)           72-55-9                     0.01             e
+Dichlorodiphenyltrichloroethane, 4,4- (DDT)          50-29-3                     0.01             e
+Dichloroethane, 1,1-                                 75-34-3                    0.044             d
+Dichloroethane, 1,2- (EDC)                           107-06-2                  0.0028             d
+Dichloroethylene, 1,1-                               75-35-4                      6.7             d
+Dichloroethylene, 1,2- (mixture)                                                2,500             e
+Dichloroethylene, 1,2-cis-                           156-59-2                    0.63             d
+Dichloroethylene, 1,2-trans-                         156-60-5                      7              d
+Dichloromethane                                      75-09-2                     0.14             d
+Dichlorophenol, 2,4-                                 120-83-2                     1.4             b
+Dichlorophenol, 3,4-                                 95-77-2                      20              e
+Dichlorophenoxy Acetic Acid, 2,4-                    94-75-7                      2.3             d
+Dichloropropane, 1,2-                                78-87-5                    0.017             b
+Dichloropropane, 1,3-                                142-28-9                     7.8             b
+Dichloropropanol, 2,3-                               616-23-9                    0.78             b
+       Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                      concentrations in mg/kg
+
+                Chemical Name                             CAS           Clean Fill Value     Note
+Dichloropropene, 1,3-                              542-75-6                    0.01              b
+Dichlorvos                                         62-73-7                   0.0049              b
+Dicyclopentadiene                                  77-73-6                     0.13              b
+Dieldrin                                           60-57-1                   0.0045              g
+Diethanolamine                                     111-42-2                    0.49              b
+Diethyl phthalate                                  84-66-2                     100               e
+Diethylene Glycol Monobutyl Ether                  112-34-5                     7.8              b
+Diethylene glycol monoethyl ether                  111-90-0                     14               b
+Diethylformamide                                   617-84-5                    0.25              b
+Diethylstilbestrol                                 56-53-1                   0.0016              a
+Difenzoquat                                        43222-48-6                 5,200              a
+Diflubenzuron                                      35367-38-5                   20               b
+Difluoroethane, 1,1- (DFE)                         75-37-6                    1,700              b
+Difluoropropane, 2,2-                              420-45-1                   8,400              b
+Dihydrosafrole                                     94-58-6                    0.011              b
+Diisopropyl ether (DIPE)                           108-20-3                     22               b
+Diisopropyl Methylphosphonate                      1445-75-6                    27               b
+Dimagnesium phosphate                              7782-75-4               3,800,000             a
+Dimethipin                                         55290-64-7                   5.8              b
+Dimethoate                                         60-51-5                     0.59              b
+Dimethoxybenzidine, 3,3'-                          119-90-4                  0.0035              b
+Dimethyl methylphosphonate                         756-79-6                    0.58              b
+Dimethyl phthalate                                 131-11-3                     10               g
+Dimethylamino azobenzene [p-]                      60-11-7                   0.0013              b
+Dimethylaniline HCl, 2,4-                          21436-96-4                0.0072              b
+Dimethylaniline, 2,4-                              95-68-1                    0.013              b
+Dimethylaniline, N,N-                              121-69-7                   0.054              b
+Dimethylbenz(a)anthracene, 7,12-                   57-97-6                  0.00046              a
+Dimethylbenzidine, 3,3'-                           119-93-7                  0.0026              b
+Dimethylformamide                                  68-12-2                     0.72              b
+Dimethylhydrazine, 1,1-                            57-14-7                 0.000056              b
+Dimethylhydrazine, 1,2-                            540-73-8               0.00000039             b
+Dimethylphenol, 2,4-                               105-67-9                     20               e
+Dimethylphenol, 2,6-                               576-26-1                    0.78              b
+Dimethylphenol, 3,4-                               95-65-8                      1.3              b
+Dimethylterephthalate                              120-61-6                     29               b
+Dimethylvinylchloride                              513-37-1                  0.0066              b
+Di-n-hexylphthalate                                84-75-3                    3,100              e
+Dinitrobenzene, 1,2-                               528-29-0                    0.11              b
+Dinitrobenzene, 1,3-                               99-65-0                    0.072              g
+Dinitrobenzene, 1,4-                               100-25-4                    0.11              b
+Dinitro-o-cresol, 4,6-                             534-52-1                    0.16              b
+Dinitro-o-cyclohexyl Phenol, 4,6-                  131-89-5                     46               b
+Dinitrophenol, 2,4-                                51-28-5                      2.6              b
+Dinitrotoluene Mixture, 2,4/2,6-                   E1615210                   0.009              b
+Dinitrotoluene, 2,4-                               121-14-2                   0.019              b
+Dinitrotoluene, 2,6-                               606-20-2                  0.0089              d
+Dinitrotoluene, 2-Amino-4,6-                       35572-78-2                   1.8              b
+Dinitrotoluene, 4-Amino-2,6-                       19406-51-0                   1.8              b
+Dinitrotoluene, Technical grade                    25321-14-6                0.0084              b
+Dinoseb                                            88-85-7                      7.8              b
+       Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                      concentrations in mg/kg
+
+                Chemical Name                             CAS           Clean Fill Value     Note
+Di-N-propylnitrosamine (N-nitrosodi-N-
+                                                   621-64-7                 0.00094              d
+propylamine)
+Dioxane, 1,4-                                      123-91-1                  0.0023              d
+Diphenamid                                         957-51-7                    310               b
+Diphenyl Ether                                     101-84-8                     0.2              b
+Diphenyl Sulfone                                   127-63-9                     2.2              b
+Diphenylamine                                      122-39-4                     10               g
+Diphenylhydrazine, 1,2-                            122-66-7                   0.015              b
+Dipotassium phosphate                              7758-11-4               3,800,000             a
+Diquat                                             85-00-7                      50               b
+Direct Black 38                                    1937-37-7                  0.076              a
+Direct Blue 6                                      2602-46-2                  0.073              a
+Direct Brown 95                                    16071-86-6                 0.081              a
+Disodium phosphate                                 7558-79-4               3,800,000             a
+Disulfoton                                         298-04-4                   0.056              b
+Dithiane, 1,4-                                     505-29-3                     5.8              b
+Diuron                                             330-54-1                     0.9              b
+Dodine                                             2439-10-3                   130               b
+Endosulfan, (alpha-beta)                                                       0.64              g
+Endothall                                          145-73-3                     5.5              b
+Endrin                                             72-20-8                   0.0014              g
+Epichlorohydrin                                    106-89-8                   0.027              b
+Epoxybutane, 1,2-                                  106-88-7                    0.55              b
+EPTC                                               759-94-4                     24               b
+Ethanol                                            64-17-5                    4,000              e
+Ethanol, 2-(2-methoxyethoxy)-                      111-77-3                     9.6              b
+Ethephon                                           16672-87-0                   1.3              b
+Ethion                                             563-12-2                    0.51              b
+Ethoxyethanol Acetate, 2-                          111-15-9                     1.5              b
+Ethoxyethanol, 2-                                  110-80-5                     4.1              b
+Ethyl Acetate                                      141-78-6                     1.9              b
+Ethyl Acrylate                                     140-88-5                    0.19              b
+Ethyl Chloride (Chloroethane)                      75-00-3                     310               d
+Ethyl Ether (Diethyl ether)                        60-29-7                      53               b
+Ethyl Methacrylate                                 97-63-2                       9               b
+Ethylbenzene                                       100-41-4                    0.22              d
+Ethylene Cyanohydrin                               109-78-4                     17               b
+Ethylene Diamine                                   107-15-3                     25               b
+Ethylene Glycol                                    107-21-1                    490               b
+Ethylene Glycol Monobutyl Ether                    111-76-2                     25               b
+Ethylene Oxide                                     75-21-8                 0.0000084             b
+Ethylene Thiourea                                  96-45-7                    0.022              b
+Ethyleneimine                                      151-56-4                0.0000031             b
+Ethylphthalyl Ethyl Glycolate                      84-72-0                    7,800              b
+Ethyl-p-nitrophenyl phosphonate (EPN)              2104-64-5                   0.17              b
+Fenamiphos                                         22224-92-6                0.0002              e
+Fenpropathrin                                      39515-41-8                  170               b
+Fenvalerate                                        51630-58-1                 1,600              a
+Fluometuron                                        2164-17-2                    11               b
+Fluoranthene                                       206-44-0                     10               g
+Fluorene                                           86-73-7                      3.7              g
+       Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                      concentrations in mg/kg
+
+                Chemical Name                             CAS           Clean Fill Value     Note
+Fluoride                                           16984-48-8                3,100               a
+Fluorine (Soluble Fluoride)                        7782-41-4                   30                e
+Fluridone                                          59756-60-4                5,100               a
+Flurprimidol                                       56425-91-3                 190                b
+Flusilazole                                        85509-19-9                 130                a
+Flutolanil                                         66332-96-5                2,500               b
+Fluvalinate                                        69409-94-5                 630                a
+Folpet                                             133-07-3                    23                b
+Fomesafen                                          72178-02-0                  9.6               b
+Fonofos                                            944-22-9                    2.8               b
+Formaldehyde                                       50-00-0                   0.002               d
+Formic Acid                                        64-18-6                  0.0078               b
+Fosetyl-AL                                         39148-24-8               40,000               b
+Furan                                              110-00-9                   0.44               b
+Furazolidone                                       67-45-8                  0.0023               b
+Furfural                                           98-01-1                    0.49               b
+Furium                                             531-82-8                 0.0041               b
+Furmecyclox                                        60568-05-0                0.072               b
+Generic Diesel/Heating Oil                                                   1,100               c
+Generic Gasoline                                                               31                d
+Generic Mineral/Insulating Oil                                               2,800               c
+Glufosinate, Ammonium                              77182-82-2                  1.6               b
+Glutaraldehyde                                     111-30-8                    24                b
+Glycidyl                                           765-34-4                   0.02               b
+Glyphosate                                         1071-83-6                  530                b
+Guanidine                                          113-00-8                    2.7               b
+Guanidine Chloride                                 50-01-1                   1,300               a
+Guanidine Nitrate                                  506-93-4                     9                b
+Haloxyfop, Methyl                                  69806-40-2                  0.5               b
+Heptachlor                                         76-44-8                   0.017               d
+Heptachlor Epoxide                                 1024-57-3                0.0042               d
+Heptachlorobiphenyl, 2,3,3',4,4',5,5'- (PCB 189)   39635-31-9                 0.13               a
+Heptanal, n-                                       111-71-7                  0.084               b
+Heptane, N-                                        142-82-5                     1                e
+Hexabromobenzene                                   87-82-1                     14                b
+Hexabromodiphenyl ether, 2,2',4,4',5,5'- (BDE-
+                                                   68631-49-2                  13                a
+153)
+Hexachlorobenzene                                  118-74-1                  0.018               d
+Hexachlorobiphenyl, 2,3,3',4,4',5- (PCB 156)       38380-08-4                 0.1                b
+Hexachlorobiphenyl, 2,3,3',4,4',5'- (PCB 157)      69782-90-7                 0.1                b
+Hexachlorobiphenyl, 2,3',4,4',5,5'- (PCB 167)      52663-72-6                 0.1                b
+Hexachlorobiphenyl, 3,3',4,4',5,5'- (PCB 169)      32774-16-6               0.0001               b
+Hexachlorobutadiene                                87-68-3                   0.016               b
+Hexachlorocyclohexane, (technical-BHC)             608-73-1                  0.009               b
+Hexachlorocyclohexane, alpha- (alpha-HCH or
+                                                   319-84-6                 0.0063               d
+alpha-BHC)
+Hexachlorocyclohexane, Beta- (beta-BHC)            319-85-7                  0.009               b
+Hexachlorocyclohexane, gamma- (gamma-BHC or
+                                                   58-89-9                  0.0095               g
+Lindane)
+Hexachlorocyclopentadiene                          77-47-4                   0.078               b
+Hexachlorodibenzo-p-dioxin, Mixture                0                        0.0001               a
+       Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                      concentrations in mg/kg
+
+                 Chemical Name                            CAS           Clean Fill Value     Note
+Hexachloroethane                                   67-72-1                     0.022             d
+Hexachlorophene                                    70-30-4                       19              a
+Hexahydro-1,3,5-trinitro-1,3,5-triazine (RDX)      121-82-4                    0.016             b
+Hexamethylene Diisocyanate, 1,6-                   822-06-0                    0.013             b
+Hexamethylphosphoramide                            680-31-9                     0.11             b
+Hexane, N-                                         110-54-3                     600              b
+Hexanedioic Acid                                   124-04-9                     590              b
+Hexanone, 2-                                       591-78-6                     0.36             g
+Hexazinone                                         51235-04-2                    18              b
+Hexythiazox                                        78587-05-0                    30              b
+Hydramethylnon                                     67485-29-4                  1,100             a
+Hydrazine                                          302-01-2                 0.000013             b
+Hydrazine Sulfate                                  10034-93-2                   0.23             a
+Hydrogen Chloride                                  7647-01-0               28,000,000            a
+Hydrogen Cyanide                                   74-90-8                      0.88             d
+Hydrogen Fluoride                                  7664-39-3                   3,100             a
+Hydrogen Sulfide                                   7783-06-4                2,800,000            a
+Hydroquinone                                       123-31-9                    0.052             b
+Imazalil                                           35554-44-0                    0.9             b
+Imazaquin                                          81335-37-7                  1,400             b
+Imazethapyr                                        81335-77-5                  2,500             b
+Indeno[1,2,3-cd]pyrene                             193-39-5                      1.1             a
+Iodine                                             7553-56-2                      4              e
+Iprodione                                          36734-19-7                    13              b
+Isobutyl Alcohol                                   78-83-1                       72              b
+Isophorone                                         78-59-1                       1.6             b
+Isopropalin                                        33820-53-0                    55              b
+Isopropanol                                        67-63-0                        5              b
+Isopropyl Methyl Phosphonic Acid                   1832-54-8                     26              b
+Isoxaben                                           82558-50-7                   120              b
+JP-7                                               E1737665               430,000,000            a
+Lactofen                                           77501-63-4                   280              b
+Lactonitrile                                       78-97-7                     0.049             b
+Lead acetate                                       301-04-2                     0.11             b
+Lead Phosphate                                     7446-27-7                     82              a
+Lead subacetate                                    1335-32-6                    0.12             b
+Lewisite                                           541-25-3                   0.0023             b
+Linuron                                            330-55-2                      6.6             b
+Lithium Perchlorate                                7791-03-9                     55              a
+Malathion                                          121-75-5                       6              b
+Maleic Anhydride                                   108-31-6                      23              b
+Maleic Hydrazide                                   123-33-1                     130              b
+Malononitrile                                      109-77-3                    0.025             b
+Mancozeb                                           8018-01-7                     46              b
+Maneb                                              12427-38-2                    8.4             b
+MCPA ((4-chloro-2-methylphenoxy)acetic acid)       94-74-6                   0.097               d
+MCPB                                               94-81-5                     1.6               b
+MCPP                                               93-65-2                    0.28               b
+Mephosfolan                                        950-10-7                   0.16               b
+Mepiquat Chloride                                  24307-26-4                  12                b
+       Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                      concentrations in mg/kg
+
+                 Chemical Name                            CAS           Clean Fill Value     Note
+Mercaptobenzothiazole, 2-                          149-30-4                    1.1               b
+Mercuric Chloride (and other Mercury salts)        7487-94-7                   23                a
+Mercury (methyl)                                   22967-92-6               0.0002               e
+Merphos                                            150-50-5                    2.3               a
+Merphos Oxide                                      78-48-8                   0.084               b
+Metalaxyl                                          57837-19-1                  20                b
+Methacrylonitrile                                  126-98-7                  0.026               b
+Methamidophos                                      10265-92-6                0.013               b
+Methanol                                           67-56-1                    250                b
+Methidathion                                       950-37-8                   0.43               b
+Methomyl                                           16752-77-5                  6.6               b
+Methoxy-5-nitroaniline, 2-                         99-59-2                   0.032               b
+Methoxychlor                                       72-43-5                     5.1               g
+Methoxyethanol Acetate, 2-                         110-49-6                  0.025               b
+Methoxyethanol, 2-                                 109-86-4                   0.35               b
+Methyl Acetate                                     79-20-9                    250                b
+Methyl Acrylate                                    96-33-3                    0.53               b
+Methyl Ethyl Ketone (2-Butanone)                   78-93-3                     72                b
+Methyl Hydrazine                                   60-34-4                 0.000078              b
+Methyl Iodide                                      74-88-4                   0.038               g
+Methyl Isobutyl Ketone (4-methyl-2-pentanone)      108-10-1                   9.7                g
+
+Methyl Isocyanate                                  624-83-9                  0.035               b
+Methyl Methacrylate                                80-62-6                     18                b
+Methyl Methanesulfonate                            66-27-3                  0.0096               b
+Methyl Parathion                                   298-00-0                   0.44               b
+Methyl Phosphonic Acid                             993-13-5                    14                b
+Methyl Styrene (Mixed Isomers)                     25013-15-4                  2.3               b
+Methyl tert-Butyl Ether (MTBE)                     1634-04-4                  0.11               d
+Methyl-1,4-benzenediamine dihydrochloride, 2-      615-45-2                   0.22               b
+Methyl-2-Pentanol, 4-                              108-11-2                    84                b
+Methyl-5-nitroaniline, 2- (5-Nitro-o-toluidine)    99-55-8                    0.28               b
+Methylaniline Hydrochloride, 2-                    636-21-5                  0.016               b
+Methylarsonic acid                                 124-58-3                    3.5               b
+Methylbenzene,1-4-diamine monohydrochloride, 2- 74612-12-7                     13                a
+Methylbenzene-1,4-diamine sulfate, 2-              615-50-9                     5.4              a
+Methylcholanthrene, 3-                             56-49-5                   0.0055              a
+Methylene-bis(2-chloroaniline), 4,4'-              101-14-4                    0.11              b
+Methylene-bis(N,N-dimethyl) Aniline, 4,4'-         101-61-1                    0.16              b
+Methylenebisbenzenamine, 4,4'-                     101-77-9                   0.013              b
+Methylenediphenyl Diisocyanate                     101-68-8                 850,000              a
+Methylnaphthalene, 1-                              90-12-0                     0.36              b
+Methylnaphthalene, 2-                              91-57-6                      11               b
+Methyl-N-nitro-N-nitrosoguanidine, N-              70-25-7                  0.00019              b
+Methylstyrene, Alpha-                              98-83-9                      72               b
+Metolachlor                                        51218-45-2                  190               b
+Metribuzin                                         21087-64-9                    9               b
+Metsulfuron-methyl                                 74223-64-6                  110               b
+Mineral oils                                       8012-95-1                140,000              b
+Mirex                                              2385-85-5                  0.036              a
+       Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                      concentrations in mg/kg
+
+                Chemical Name                             CAS           Clean Fill Value     Note
+Molinate                                           2212-67-1                      1              b
+Monoaluminum phosphate                             13530-50-2              3,800,000             a
+Monoammonium phosphate                             7722-76-1               3,800,000             a
+Monocalcium phosphate                              7758-23-8               3,800,000             a
+Monochloramine                                     10599-90-3                  7,800             a
+Monomagnesium phosphate                            7757-86-0               3,800,000             a
+Monomethylaniline                                  100-61-8                     0.84             b
+Monopotassium phosphate                            7778-77-0               3,800,000             a
+Monosodium phosphate                               7558-80-7               3,800,000             a
+Myclobutanil                                       88671-89-0                   340              b
+N,N'-Diphenyl-1,4-benzenediamine                   74-31-7                       19              a
+Naled                                              300-76-5                      1.1             b
+Naphtha, High Flash Aromatic (HFAN)                64742-95-6                  2,300             a
+Naphthalene                                        91-20-3                     0.077             d
+Naphthylamine, 2-                                  91-59-8                     0.012             b
+Napropamide                                        15299-99-7                   780              b
+Nickel Acetate                                     373-02-4                      2.7             b
+Nickel Carbonate                                   3333-67-3                    670              a
+Nickel Carbonyl                                    13463-39-3                   820              a
+Nickel Hydroxide                                   12054-48-7                   820              a
+Nickel Oxide                                       1313-99-1                    840              a
+Nickel Refinery Dust                               E715532                      820              a
+Nickel Subsulfide                                  12035-72-2                   0.41             a
+Nickelocene                                        1271-28-9                    670              a
+Nitrate                                            14797-55-8                130,000             a
+Nitrite                                            14797-65-0                  7,800             a
+Nitroaniline, 2-                                   88-74-4                       4.8             b
+Nitroaniline, 3-                                   99-09-2                       70              e
+Nitroaniline, 4-                                   100-01-6                    0.096             b
+Nitrobenzene                                       98-95-3                    0.0055             b
+Nitrocellulose                                     9004-70-0                 780,000             b
+Nitrofurantoin                                     67-20-9                       37              b
+Nitrofurazone                                      59-87-0                    0.0032             b
+Nitroglycerin                                      55-63-0                     0.051             b
+Nitroguanidine                                     556-88-7                      29              b
+Nitromethane                                       75-52-5                    0.0084             b
+Nitrophenol, 4-                                    100-02-7                       7              e
+Nitropropane, 2-                                   79-46-9                  0.000032             b
+Nitropyrene, 4-                                    57835-92-4                    0.2             b
+Nitrosodiethanolamine, N-                          1116-54-7                 0.00034             b
+Nitrosodiethylamine, N-                            55-18-5                 0.0000037             b
+Nitrosodimethylamine, N-                           62-75-9                 0.0000016             b
+Nitroso-di-N-butylamine, N-                        924-16-3                  0.00033             b
+Nitrosodiphenylamine, N- (Diphenylnitrosamine)     86-30-6                     10                d
+Nitrosomethylethylamine, N-                        10595-95-6               0.000012             b
+Nitrosomorpholine [N-]                             59-89-2                   0.00017             b
+Nitroso-N-ethylurea, N-                            759-73-9                 0.000013             b
+Nitroso-N-methylurea, N-                           684-93-5                0.0000028             b
+Nitrosopiperidine [N-]                             100-75-4                  0.00026             b
+Nitrosopyrrolidine, N-                             930-55-2                  0.00084             b
+       Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                      concentrations in mg/kg
+
+                 Chemical Name                            CAS           Clean Fill Value     Note
+Nitrotoluene, m-                                   99-08-1                   0.096               b
+Nitrotoluene, o-                                   88-72-2                   0.018               b
+Nitrotoluene, p-                                   99-99-0                    0.24               b
+Nonane, n-                                         111-84-2                    4.5               b
+Norflurazon                                        27314-13-2                 110                b
+Octabromodiphenyl Ether                            32536-52-0                 190                a
+Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine
+                                                   2691-41-0                   16                g
+(HMX)
+Octamethylpyrophosphoramide                        152-16-9                   0.58               b
+Octyl Phthalate, di-N-                             117-84-0                   0.91               g
+Oryzalin                                           19044-88-3                  0.9               b
+Oxadiazon                                          19666-30-9                  29                b
+Oxamyl                                             23135-22-0                  6.6               b
+Oxyfluorfen                                        42874-03-3                  2.6               b
+Paclobutrazol                                      76738-62-0                  28                b
+PAHs - High Molecular Weight                       0                           1.1               f
+PAHs - Low Molecular Weight                        0                           29                f
+Paraquat Dichloride                                1910-42-5                   72                b
+Parathion                                          56-38-2                     26                b
+Pebulate                                           1114-71-2                   27                b
+Pendimethalin                                      40487-42-1                 960                b
+Pentabromodiphenyl Ether                           32534-81-9                 100                b
+Pentabromodiphenyl ether, 2,2',4,4',5- (BDE-99)    60348-60-9                  5.2               b
+Pentachlorobenzene                                 608-93-5                    1.4               b
+Pentachlorobiphenyl, 2,3,3',4,4'- (PCB 105)        32598-14-4                 0.06               b
+Pentachlorobiphenyl, 2,3,4,4',5- (PCB 114)         74472-37-0                 0.06               b
+Pentachlorobiphenyl, 2,3',4,4',5- (PCB 118)        31508-00-6                 0.06               b
+Pentachlorobiphenyl, 2',3,4,4',5- (PCB 123)        65510-44-3                 0.06               b
+Pentachlorobiphenyl, 3,3',4,4',5- (PCB 126)        57465-28-8              0.000018              b
+Pentachloroethane                                  76-01-7                   0.019               b
+Pentachloronitrobenzene                            82-68-8                    0.09               b
+Pentachlorophenol                                  87-86-5                   0.066               d
+Pentaerythritol tetranitrate (PETN)                78-11-5                     1.7               b
+Pentane, n-                                        109-66-0                   600                b
+Perchlorate and perchlorate salts                  14797-73-0                  55                a
+Perfluorobutane sulfonic acid (PFBS)               375-73-5                    7.8               b
+Perfluorobutanesulfonate                           45187-15-3                  7.8               b
+Permethrin                                         52645-53-1                3,200               a
+Phenacetin                                         62-44-2                    0.58               b
+Phenanthrene                                       85-01-8                     5.5               g
+Phenmedipham                                       13684-63-4                1,300               b
+Phenol                                             108-95-2                   0.79               g
+Phenol, 2-(1-methylethoxy)-, methylcarbamate       114-26-1                    1.5               b
+Phenothiazine                                      92-84-2                    0.84               b
+Phenyl Isothiocyanate                              103-72-0                    0.1               b
+Phenylenediamine, m-                               108-45-2                    1.9               b
+Phenylenediamine, o-                               95-54-5                    0.01               b
+Phenylenediamine, p-                               106-50-3                   0.32               b
+Phenylmercuric Acetate                             62-38-4                    0.03               b
+Phenylphenol, 2-                                   90-43-7                     25                b
+Phorate                                            298-02-2                    0.2               b
+       Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                      concentrations in mg/kg
+
+                Chemical Name                             CAS           Clean Fill Value     Note
+Phosgene                                           75-44-5                    0.31               a
+Phosmet                                            732-11-6                    4.9               b
+Phosphine                                          7803-51-2                   23                a
+Phosphoric Acid                                    7664-38-2               3,000,000             a
+Phosphorus, White                                  7723-14-0                  0.09               b
+Phthalic Acid, P-                                  100-21-0                   410                b
+Phthalic Anhydride                                 85-44-9                    510                b
+Picloram                                           1918-02-1                   23                b
+Picramic Acid (2-Amino-4,6-dinitrophenol)          96-91-3                   0.078               b
+Picric Acid (2,4,6-Trinitrophenol)                 88-89-1                      5                b
+Pirimiphos, Methyl                                 29232-93-7                0.049               b
+Polybrominated biphenyls                           59536-65-1                0.018               a
+Polychlorinated biphenyls (Total
+                                                                              0.23               c
+PCBs)
+Polymeric Methylene Diphenyl Diisocyanate
+                                                   9016-87-9                850,000              a
+(PMDI)
+Polyphosphoric acid                                8017-16-1               3,800,000             a
+Potassium Cyanide                                  151-50-8                    160               a
+Potassium Perchlorate                              7778-74-7                    55               a
+Potassium Perfluorobutane Sulfonate                29420-49-3                 1,300              a
+Potassium Silver Cyanide                           506-61-6                    390               a
+Potassium tripolyphosphate                         13845-36-8              3,800,000             a
+Prochloraz                                         67747-09-5                  0.11              b
+Profluralin                                        26399-36-0                   96               b
+Prometon                                           1610-18-0                    7.2              b
+Prometryn                                          7287-19-6                    54               b
+Propachlor                                         1918-16-7                     9               b
+Propanil                                           709-98-8                     2.7              b
+Propargite                                         2312-35-8                   0.66              b
+Propargyl Alcohol                                  107-19-7                    0.49              b
+Propazine                                          139-40-2                     18               b
+Propham                                            122-42-9                     13               b
+Propiconazole                                      60207-90-1                  320               b
+Propionaldehyde                                    123-38-6                     0.2              b
+Propyl benzene                                     103-65-1                     72               b
+Propylene                                          115-07-1                    360               b
+Propylene Glycol                                   57-55-6                    4,900              b
+Propylene Glycol Dinitrate                         6423-43-4                390,000              a
+Propylene Glycol Monomethyl Ether                  107-98-2                     39               b
+Propylene Oxide                                    75-56-9                   0.0034              b
+Propyzamide                                        23950-58-5                   72               b
+Pyrene                                             129-00-0                     10               g
+Pyridine                                           110-86-1                    0.41              b
+Quinalphos                                         13593-03-8                   2.6              b
+Quinoline                                          91-22-5                   0.0047              b
+Quizalofop-ethyl                                   76578-14-8                  110               b
+Refractory Ceramic Fibers                          E715557                43,000,000             a
+Resmethrin                                         10453-86-8                 1,900              a
+Ronnel                                             299-84-3                    220               b
+Rotenone                                           83-79-4                     250               a
+Safrole                                            94-59-7                   0.0035              b
+       Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                      concentrations in mg/kg
+
+                Chemical Name                             CAS           Clean Fill Value     Note
+Selenious Acid                                     7783-00-8                   390               a
+Selenium Sulfide                                   7446-34-6                   390               a
+Sethoxydim                                         74051-80-2                  840               b
+Silica (crystalline, respirable)                   7631-86-9               4,300,000             a
+Silver Cyanide                                     506-64-9                   7,800              a
+Simazine                                           122-34-9                   0.018              b
+Sodium acid pyrophosphate                          7758-16-9               3,800,000             a
+Sodium Acifluorfen                                 62476-59-9                  130               b
+Sodium aluminum phosphate (acidic)                 7785-88-8               3,800,000             a
+Sodium aluminum phosphate (anhydrous)              10279-59-1              3,800,000             a
+Sodium aluminum phosphate (tetrahydrate)           10305-76-7              3,800,000             a
+Sodium Azide                                       26628-22-8                  310               a
+Sodium Cyanide                                     143-33-9                     78               a
+Sodium Diethyldithiocarbamate                      148-18-5                   0.011              b
+Sodium Fluoride                                    7681-49-4                  3,900              a
+Sodium Fluoroacetate                               62-74-8                   0.0049              b
+Sodium hexametaphosphate                           10124-56-8              3,800,000             a
+Sodium Metavanadate                                13718-26-8                   78               a
+Sodium Perchlorate                                 7601-89-0                    55               a
+Sodium polyphosphate                               68915-31-1              3,800,000             a
+Sodium trimetaphosphate                            7785-84-4               3,800,000             a
+Sodium tripolyphosphate                            7758-29-4               3,800,000             a
+Sodium Tungstate                                   13472-45-2                   63               a
+Sodium Tungstate Dihydrate                         10213-10-2                   63               a
+Stirofos (Tetrachlorovinphos)                      961-11-5                    0.49              b
+Strychnine                                         57-24-9                      3.9              b
+Styrene                                            100-42-5                     1.2              g
+Styrene-Acrylonitrile (SAN) Trimer                                             190               a
+Sulfolane                                          126-33-0                    0.26              b
+Sulfonylbis(4-chlorobenzene), 1,1'-                80-07-9                      3.9              b
+Sulfur Trioxide                                    7446-11-9               1,400,000             a
+Sulfuric Acid                                      7664-93-9               1,400,000             a
+Sulfurous acid, 2-chloroethyl 2-[4-(1,1-
+                                                   140-57-8                   0.9                b
+dimethylethyl)phenoxy]-1-methylethyl ester
+Tebuthiuron                                        34014-18-1                  23                b
+Temephos                                           3383-96-8                 1,300               a
+Terbacil                                           5902-51-2                   4.5               b
+Terbufos                                           13071-79-9                0.031               b
+Terbutryn                                          886-50-0                    1.1               b
+Tetrabromodiphenyl ether, 2,2',4,4'- (BDE-47)      5436-43-1                   3.2               b
+Tetrachloroaniline, 2,3,5,6-                       3481-20-7                   20                e
+Tetrachlorobenzene, 1,2,3,4-                       634-66-2                    10                e
+Tetrachlorobenzene, 1,2,4,5-                       95-94-3                    0.47               b
+Tetrachlorobiphenyl, 3,3',4,4'- (PCB 77)           32598-13-3                0.038               a
+Tetrachlorobiphenyl, 3,4,4',5- (PCB 81)            70362-50-4               0.0037               b
+Tetrachlorodibenzodioxin (TCDD), 2,3,7,8-
+                                                   1746-01-6              0.00000029             g
+(dioxin)
+Tetrachloroethane, 1,1,1,2-                        630-20-6                  0.013               b
+Tetrachloroethane, 1,1,2,2-                        79-34-5                  0.0018               b
+Tetrachloroethylene (PCE)                          127-18-4                   0.18               g
+Tetrachlorophenol, 2,3,4,6-                        58-90-2                     11                b
+       Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                      concentrations in mg/kg
+
+                 Chemical Name                            CAS           Clean Fill Value     Note
+Tetrachlorotoluene, p- alpha, alpha, alpha-        5216-25-1                0.00027              b
+Tetraethyl Dithiopyrophosphate                     3689-24-5                   0.31              b
+Tetraethyl lead                                    78-00-2                  0.00028              b
+Tetrafluoroethane, 1,1,1,2-                        811-97-2                   5,600              b
+Tetrahydrofuran                                    109-99-9                     45               b
+Tetrapotassium phosphate                           7320-34-5               3,800,000             a
+Tetrasodium pyrophosphate                          7722-88-5               3,800,000             a
+Tetryl (Trinitrophenylmethylnitramine)             479-45-8                     1.5              g
+Thallic Oxide                                      1314-32-5                    1.6              a
+Thallium (I) Nitrate                               10102-45-1                  0.78              a
+Thallium (Soluble Salts)                           7440-28-0                   0.78              a
+Thallium Acetate                                   563-68-8                  0.0025              b
+Thallium Carbonate                                 6533-73-9                  0.005              b
+Thallium Chloride                                  7791-12-0                   0.78              a
+Thallium Selenite                                  12039-52-0                  0.78              a
+Thallium Sulfate                                   7446-18-6                    1.6              a
+Thifensulfuron-methyl                              79277-27-3                   16               b
+Thiobencarb                                        28249-77-6                   33               b
+Thiocyanates                                       E1790664                     16               a
+Thiocyanic Acid                                    463-56-9                     16               a
+Thiocyanomethylthio benzothiazole, 2- (TCMTB) 21564-17-0                      200                b
+Thiodiglycol                                       111-48-8                     17               b
+Thiofanox                                          39196-18-4                  0.11              b
+Thiophanate, Methyl                                23564-05-8                  0.34              b
+Thiram                                             137-26-8                     25               b
+Titanium Tetrachloride                             7550-45-0                140,000              a
+Toluene                                            108-88-3                     23               g
+Toluene-2,4-diisocyanate                           584-84-9                   0.015              b
+Toluene-2,5-diamine                                95-70-5                   0.0078              b
+Toluene-2,6-diisocyanate                           91-08-7                    0.016              b
+Toluic Acid, p-                                    99-94-5                      1.4              b
+Toluidine, o- (Methylaniline, 2-)                  95-53-4                     0.12              b
+Toluidine, p-                                      106-49-0                   0.066              b
+Total Petroleum Hydrocarbons (Aliphatic High)      E1790670                 140,000              b
+Total Petroleum Hydrocarbons (Aliphatic Low)    E1790666                      520                a
+Total Petroleum Hydrocarbons (Aliphatic Medium) E1790668                       90                b
+Total Petroleum Hydrocarbons (Aromatic High)       E1790676                  2,500               a
+Total Petroleum Hydrocarbons (Aromatic Low)    E1790672                        1                 b
+Total Petroleum Hydrocarbons (Aromatic Medium) E1790674                       1.4                b
+Toxaphene                                      8001-35-2                     0.36                d
+Tralomethrin                                   66841-25-6                    470                 a
+Triacetin                                      102-76-1                     27,000               b
+Triadimefon                                    43121-43-3                     30                 b
+Triallate                                      2303-17-5                     0.06                b
+Trialuminum sodium tetra
+                                               15136-87-5                  3,800,000             a
+decahydrogenoctaorthophosphate (dihydrate)
+Triasulfuron                                   82097-50-5                     13                 b
+Tribenuron-methyl                              101200-48-0                    3.7                b
+       Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                      concentrations in mg/kg
+
+                 Chemical Name                            CAS           Clean Fill Value     Note
+Tribromobenzene, 1,2,4-                            615-54-3                   3.8                b
+Tribromophenol, 2,4,6-                             118-79-6                   13                 b
+Tributyl Phosphate                                 126-73-8                   1.5                b
+Tributyltin Compounds                              E1790678                   19                 a
+Tributyltin oxide (TBTO)                           56-35-9                    19                 a
+Tricalcium phosphate                               7758-87-4               3,800,000             a
+Trichloro-1,2,2-trifluoroethane, 1,1,2- (Freon 113) 76-13-1                  1,600               b
+Trichloroacetic Acid                               76-03-9                    0.013              b
+Trichloroaniline HCl, 2,4,6-                       33663-50-2                  0.44              b
+Trichloroaniline, 2,4,5-                           636-30-6                     20               e
+Trichloroaniline, 2,4,6-                           634-93-5                    0.22              b
+Trichlorobenzene, 1,2,3-                           87-61-6                      1.3              b
+Trichlorobenzene, 1,2,4-                           120-82-1                     0.2              b
+Trichloroethane, 1,1,1-                            71-55-6                     190               d
+Trichloroethane, 1,1,2-                            79-00-5                   0.0063              d
+Trichloroethylene (TCE)                            79-01-6                    0.013              d
+Trichlorofluoromethane (Freon 11)                  75-69-4                      52               g
+Trichlorophenol, 2,4,5-                            95-95-4                       4               e
+Trichlorophenol, 2,4,6-                            88-06-2                      2.4              d
+Trichlorophenoxyacetic Acid, 2,4,5-                93-76-5                      4.1              b
+Trichlorophenoxypropionic acid, -2,4,5             93-72-1                      3.7              b
+Trichloropropane, 1,1,2-                           598-77-6                     2.1              b
+Trichloropropane, 1,2,3-                           96-18-4                 0.000019              b
+Trichloropropene, 1,2,3-                           96-19-5                    0.019              b
+Tricresyl Phosphate (TCP)                          1330-78-5                   900               b
+Tridiphane                                         58138-08-2                   7.8              b
+Triethylamine                                      121-44-8                    0.26              b
+Triethylene Glycol                                 112-27-6                    530               b
+Trifluoroethane, 1,1,1-                            420-46-2                   7,800              b
+Trifluralin                                        1582-09-8                     5               b
+Trimagnesium phosphate                             7757-87-1               3,800,000             a
+Trimethyl Phosphate                                512-56-1                   0.052              b
+Trimethylbenzene, 1,2,3-                           526-73-8                     4.9              b
+Trimethylbenzene, 1,2,4-                           95-63-6                      10               d
+Trimethylbenzene, 1,3,5-                           108-67-8                     11               d
+Trimethylpentene, 2,4,4-                           25167-70-8                   13               b
+Tri-n-butyltin                                     688-73-3                     4.9              b
+Trinitrobenzene, 1,3,5-                            99-35-4                      10               g
+Trinitrotoluene, 2,4,6- (TNT)                      118-96-7                     0.9              b
+Triphenylphosphine Oxide                           791-28-6                     90               b
+Tripotassium phosphate                             7778-53-2               3,800,000             a
+Tris(1,3-Dichloro-2-propyl) Phosphate              13674-87-8                  480               b
+Tris(1-chloro-2-propyl)phosphate                   13674-84-5                   39               b
+Tris(2,3-dibromopropyl)phosphate                   126-72-7                  0.0078              b
+Tris(2-chloroethyl)phosphate                       115-96-8                    0.23              b
+Tris(2-ethylhexyl)phosphate                        78-42-2                     170               a
+Trisodium phosphate                                7601-54-9               3,800,000             a
+Uranium (Soluble Salts)                            E715565                       5               e
+Urethane (Ethyl carbamate)                         51-79-6                  0.00034              b
+Vanadium Pentoxide                                 1314-62-1                   460               a
+         Table 2 - Clean fill screening levels for organics and other selected constituents. All
+                                        concentrations in mg/kg
+
+                     Chemical Name                                      CAS              Clean Fill Value           Note
+Vernolate                                                       1929-77-7                         0.53                b
+Vinclozolin                                                     50471-44-8                        0.96                b
+Vinyl Acetate                                                   108-05-4                           5.2                b
+Vinyl Bromide                                                   593-60-2                        0.0031                b
+Vinyl Chloride                                                  75-01-4                        0.00057                d
+Warfarin                                                        81-81-2                           0.35                b
+Xylene, m-                                                      108-38-3                           11                 b
+Xylene, o-                                                      95-47-6                             1                 e
+Xylene, P-                                                      106-42-3                           11                 b
+Xylenes                                                         1330-20-7                          1.4                g
+Zinc Cyanide                                                    557-21-1                         3,900                a
+Zinc Phosphide                                                  1314-84-7                          23                 a
+Zineb                                                           12122-67-7                        170                 b
+Zirconium                                                       7440-67-7                          6.3                a
+
+Notes:
+a - Regional Screening Levels, EPA (May 2018), Residential soil. http://www.epa.gov/reg3hwmd/risk/human/rb-
+concentration_table/index.htm
+b - Regional Screening Levels, EPA (May 2018), groundwater protection (x60 to convert to Oregon dilution attenuation factor).
+c - Risk Based Concentrations, DEQ (May 2018), Residential soil. https://www.oregon.gov/deq/FilterDocs/RBDMTable.pdf
+d - Risk Based Concentrations, DEQ (May 2018), Leaching to groundwater.
+e - Table 1, Guidance for Ecological Risk Assessment, Level II Screening Level Values, DEQ (2001),
+https://www.oregon.gov/deq/FilterDocs/GuidanceEcologicalRisk.pdf
+f - Ecological Soil Screening Levels, EPA (2005, 2007), http://www.epa.gov/ecotox/ecossl/
+g - Ecotoxicological screening benchmarks developed by Oak Ridge National Laboratory:
+https://www.lanl.gov/environment/protection/eco-risk-assessment.php
+Last updated by Heather Kuoppamaki, DEQ-NWR, on June 17, 2019
+                       Portland
+                                        Deschutes Columbia
+
+
+
+                Wil
+                    la m
+                        et t e                                      Blue Mountains
+
+
+            Sou
+                th
+
+
+
+
+  Coast Range
+
+                    Cascade Mountains        High Lava Plains
+
+
+
+
+Klamath Mountains
+                                          Basin and Range
+                                                                                                Owyhee Uplands
+
+
+
+
+                                           Sources: Esri, HERE, Garmin, USGS, Intermap, INCREMENT P, NRCan, Esri Japan, METI, Esri
+                                           China (Hong Kong), Esri Korea, Esri (Thailand), NGCC, © OpenStreetMap contributors, and the GIS
+                                           User Community                    Figure 1. Physiographic Provinces of Oregon
+

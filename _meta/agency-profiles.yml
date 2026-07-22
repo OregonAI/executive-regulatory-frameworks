@@ -255,15 +255,20 @@ profiles:
     governance_basis: Sub-unit of Department of Energy; OAR chapter 345 assigned per agency registry
   department-of-environmental-quality:
     governance: executive_branch
-    policies_published: unknown
+    policies_published: web
+    policies_location: "SharePoint LIST at /deq/Get-Involved/Lists/Internal Management Directives\
+      \ (found via the anonymous _api/web/lists endpoint; the page itself is JS-rendered, no\
+      \ static links) — 52 Internal Management Directives ingested 2026-07-22"
     governance_basis: ORS 468.010 (establishes Department of Environmental Quality); ORS 174.112
-    notes: "Investigated 2026-07-21: DEQ DOES publish an \"Internal Management Directives\"\
-      \ list (73 items, SharePoint list at /deq/Get-Involved/Lists/Internal Management Directives,\
-      \ enumerable via the anonymous _api/web/lists endpoint) but each item's \"Directive\"\
-      \ field is a link into an external records-management viewer (ormswd2.synergydcs.com/ORMSCMSearchDEQ),\
-      \ not a directly downloadable PDF — publicly reachable (200 OK, no auth) but needs\
-      \ its own text-extraction approach, distinct from the PDF-manifest pattern used elsewhere.\
-      \ Deferred; not yet ingested."
+    notes: "Each list item's \"Directive\" field links to an external records-management viewer\
+      \ (ormswd2.synergydcs.com/ORMSCMSearchDEQ) that embeds the full PDF inline as base64 for\
+      \ client-side pdf.js rendering — no separate download endpoint; recovered via\
+      \ _fetch_synergy_pdf in src/ingest_policies.py. Of 72 distinct documents, 19 are\
+      \ image-only scans with no text layer (excluded per HC-1, flagged for future human\
+      \ review/OCR) and 1 links to a differently-shaped page with no embedded document at all\
+      \ (deferred). No consistent structured date field across the 2001-2026 span, so\
+      \ effective_date is null throughout; the list's own Year_x0020_Issued field is recorded\
+      \ in source_version instead, explicitly labeled as listing metadata, not a parsed date."
   department-of-fish-and-wildlife:
     governance: executive_branch
     policies_published: unknown

@@ -1,0 +1,286 @@
+              Monitoring Background Groundwater Quality
+    Internal Management Directive for Regulating Permitted
+              Operations under OAR 340-040-0030
+
+                                          Summary
+
+
+Purpose        This document provides direction to Department of Environmental Quality
+               (DEQ) staff reviewing background groundwater quality monitoring information
+               submitted by a permitted source or permit applicant as required by OAR 340-
+               040-0030.
+
+
+Scope          The information provided in this document is meant to guide DEQ in applying
+               existing statutes and rules related to groundwater quality protection at permitted
+               operations. The Internal Management Directive does not create rights or
+               obligations on the part of the public or regulated entities.
+
+
+Applicability This Internal Management Directive will be used by DEQ staff conducting
+              groundwater reviews in cases where monitoring background groundwater quality
+              is required under OAR 340-040-0030. This may include review for:
+
+               •   New or renewal NPDES permits;
+               •   New or renewal WPCF permits;
+               •   New or renewal On-Site Sewage Disposal permits;
+               •   New or renewal Solid Waste Disposal permits;
+               •   New or renewal Hazardous Waste Disposal permits; and
+               •   Any other point source permitted operation or activity that requires
+                   monitoring of background ground water quality conditions under OAR 340-
+                   040.
+
+               This document may be used by permittees and permit applicants in order to
+               collect and prepare information for submittal to DEQ.
+
+
+Contact for    For questions concerning this guidance, contact Karla Urbanowicz (503-229-
+questions      6099) Groundwater Program Coordinator in the Land Application and Licensing
+               Section, Water Quality Division.
+
+
+
+
+7/14/03 KLU                                                                             Page 1 of 7
+                                        Introduction
+
+
+What is        Background water quality is defined in the Groundwater Quality Protection
+background     rules as “… the quality of water immediately upgradient from a current or
+water quality? potential source of pollution that is unaffected by the source”. (OAR 340-40-
+               0010(1))
+
+                 Background groundwater quality is the baseline quality of groundwater in the
+                 absence of pollutants added by source facility operations. A representative
+                 measure of this baseline can usually be obtained at the upgradient boundary of a
+                 facility. In hydrogeologic terms, an upgradient location is related to the
+                 direction of groundwater movement and is outside the area of potential adverse
+                 impacts from facility operations. Groundwater generally moves in the
+                 subsurface from outside the facility boundaries (“upgradient”), flows beneath
+                 the area of operations, and eventually flows away from the site
+                 (“downgradient”). Groundwater outside and upgradient of the facility is
+                 generally presumed to be unaffected by the source. Groundwater beneath and
+                 downgradient from the area of facility operations is most likely to be affected
+                 by pollutant discharges. Once pollutants affect groundwater, the contaminants
+                 usually move in the direction of groundwater flow downgradient and away from
+                 area of immediate impact.
+
+
+What are the     For permitted sources where there is a likely adverse groundwater quality
+requirements     impact, the permittee is required by rule to develop a groundwater quality
+for              protection program. (OAR 340-040-0030(2)) This includes a plan for
+background       groundwater monitoring for the uppermost aquifer and any other aquifer
+groundwater      potentially affected by operations at the facility.
+monitoring at
+permitted        The plan must provide a way to determine the rate and direction of groundwater
+facilities?      flow and monitor groundwater quality immediately upgradient and
+                 downgradient from the waste management area, and also locate background
+                 monitoring points, detection monitoring points, and groundwater quality
+                 compliance points.
+
+                 The permittee must monitor “… the background water quality of the uppermost
+                 aquifer. The background monitoring point(s) shall be located where water
+                 quality is unaffected by the facility operations.” (OAR 340-40-0030(2)(c))
+
+                 As discussed in the following sections, monitoring must characterize the
+                 groundwater upgradient and unaffected by the facility. A monitoring point
+                 physically located upgradient of the facility is preferred, but in some
+                 circumstances other methods can be used to obtain information that accurately
+                 represents groundwater quality upgradient and unaffected by the facility.
+
+
+7/14/03 KLU                                                                            Page 2 of 7
+What             The Environmental Quality Commission (EQC) adopted in rule a policy to
+groundwater      prevent groundwater pollution and control waste discharges to groundwater so
+protection       the highest possible water quality is maintained. (OAR 340-040-0020(2)) The
+requirements     EQC also adopted a general policy to protect all groundwater from pollution
+apply?           that could impair the existing or potential beneficial uses for which the natural
+                 water quality of the groundwater is adequate and to maintain existing high
+                 quality groundwater. (OAR 340-040-0020(3)) Rules adopted by EQC (OAR
+                 340-040-0030) direct the Department to implement these policies for permitted
+                 sources through groundwater quality protection requirements specified in
+                 facility permits.
+
+
+How does         DEQ staff review information submitted by permitted sources on the natural
+DEQ              background quality of groundwater in the vicinity of a permitted facility.
+implement        Information must be sufficient to determine the groundwater quality in the
+these            absence of any impacts from activities that have occurred or could in the future
+requirements?    occur at a permitted facility. DEQ will use this information to establish permit
+                 requirements such as concentration limits at compliance points.
+
+                 A number of methods can be used by permittees to select points to monitor
+                 groundwater quality and collect and analyze data that will be reviewed by DEQ.
+                 Examples of various methods and their application are given below.
+
+
+                   Monitoring Background Groundwater Quality
+
+
+Methods to  Some methods to monitor, collect, and evaluate information on background
+monitor     groundwater quality include:
+background
+groundwater    • Locating monitoring points upgradient to the facility
+quality        • Locating monitoring points crossgradient and adjacent to a facility,
+               • Locating monitoring points downgradient from a site prior to any facility
+                  waste discharges,
+               • Locating other monitoring points, based on specific site hydrogeology,
+               • Conducting an interwell data analysis to compare data collected at
+                  upgradient or crossgradient monitoring points to downgradient monitoring
+                  points,
+               • Conducting an intrawell data analysis to evaluate data collected at a
+                  single downgradient monitoring point before and after facility or waste
+                  discharge operations have begun.
+
+                DEQ staff and permittees should consult available and current technical reference
+                and guidance documents for specific details on appropriate monitoring protocols,
+                data evaluation methods, and statistical analyses that can be used with the above
+                approaches.
+
+7/14/03 KLU                                                                             Page 3 of 7
+              This monitoring information provides a baseline measure of groundwater quality
+              unaffected by facility operations. The baseline can be established for a point
+              physically located upgradient to the facility, or at a location that is representative
+              of groundwater quality upgradient to the facility. The baseline may be
+              established at a point in time prior to facility operations begin, or may be an
+              ongoing measure of background groundwater quality during the operation of a
+              facility.
+
+
+What          There are situations when it is technically advisable to use one method versus
+method is     another to monitor background groundwater quality.
+acceptable?
+              The appropriate methodology should be chosen based on the site geology and
+              groundwater flow conditions, potential facility impacts on groundwater, and the
+              ability to adequately monitor the uppermost aquifer or any aquifer that could be
+              affected.
+
+              It is generally preferable to use a monitoring point that is physically located
+              upgradient to a facility and collect information during the facility operations.
+
+              However, geology and groundwater flow systems are not always simple and
+              straightforward. At some sites, groundwater monitoring upgradient and
+              downgradient of a facility will provide adequate information to assess and
+              monitor current and potential impacts from pollutant discharges. In some
+              complex geologic and groundwater settings, this information may not be
+              adequate or technically appropriate to determine the effects of the facility on
+              groundwater quality. Other information may be required to adequately
+              characterize baseline groundwater quality and assess the impacts of the facility on
+              the uppermost aquifer or another aquifer that may be potentially impacted. The
+              following examples illustrate the application of several methods.
+
+
+                                           Examples
+
+
+Using          At some sites, background groundwater quality can be monitored at points
+upgradient     physically located upgradient of current or potential facility operation areas.
+monitoring     The purpose of upgradient monitoring is to provide information on the quality of
+points         groundwater before it moves beneath a waste management area. Information
+               from an upgradient monitoring point can be used to set permit-specific
+               concentration limits. Upgradient monitoring can also indicate changes in off-
+               site groundwater quality, or help evaluate changes in groundwater quality at
+               facility compliance points.
+
+               The following factors should be considered by DEQ hydrogeologists reviewing
+               information from upgradient monitoring points to determine the appropriate use
+
+7/14/03 KLU                                                                               Page 4 of 7
+                of the monitoring data:
+
+                   •   Hydrostratigraphic zone screened by the upgradient monitoring point;
+                   •   Hydrostratigraphic zone screened by detection monitoring points and
+                       compliance points;
+                   •   Groundwater flow systems, particular hydrogeologic divides or aquifer
+                       boundaries;
+                   •   Spatial distribution of upgradient monitoring points in relation to facility
+                       operations, and detection and compliance monitoring points
+                   •   Potential for pollutants to migrate upgradient of waste management areas
+                       (i.e., landfill gas or vapor phase migration, upgradient groundwater
+                       dispersion, seasonal groundwater flow changes).
+
+                Data collected from upgradient monitoring points may be evaluated using
+                standard statistical analyses such as calculating upper tolerance limits to
+                determine permit-specific concentration limits, or comparison between
+                upgradient and downgradient points for statistically significant differences.
+
+
+Using           Crossgradient monitoring points are located at points adjacent to facility
+crossgradient   operations and monitor groundwater moving alongside rather than under a site.
+monitoring      In some cases, a crossgradient monitoring point may be used to monitor
+points          background groundwater quality if the permittee can demonstrate that such a
+                location will not be affected by facility operations and is representative of the
+                potentially impacted aquifers upgradient and under the facility. This
+                demonstration should be based on a thorough understanding of area geology and
+                the groundwater flow system.
+
+                For instance, a facility may be located at the edge of a valley. Information about
+                the site geology and hydrogeology may show that the uppermost aquifer under
+                the facility is not present outside the site boundary in the upgradient direction.
+                In this case, a background monitoring point installed in the upgradient direction
+                would not monitor the same groundwater zone present under the facility.
+                Monitoring in the upgradient direction would not be appropriate to determine the
+                baseline background groundwater quality and serve as a point of comparison to
+                monitor potential impacts from the facility. In this instance, a monitoring point
+                located cross gradient to the facility in the same groundwater zone present under
+                the area of operations would provide better information on the quality of
+                groundwater unaffected by facility operations.
+
+
+Using           Monitoring at points located downgradient from a future waste management
+downgradient    operation can provide information on groundwater quality prior to facility
+monitoring      operations. This information can be used to represent upgradient background
+points          groundwater quality and in some cases can be used to set permit-specific
+                concentration limits. A statistically sufficient amount of groundwater quality
+                information must be collected prior to facility operations. The permittee must
+
+7/14/03 KLU                                                                             Page 5 of 7
+                demonstrate that the information represents groundwater quality that is
+                unaffected by facility operations.
+
+
+Intrawell       The evaluation of groundwater quality data from a single monitoring point can
+data            be done using intrawell analytical techniques. To use this type of analysis, the
+evaluation      permittee must demonstrate that the groundwater quality data has not been
+                impacted by facility operations. Statistical methods such as the analysis of
+                variance (ANOVA) may be an appropriate data evaluation technique. If
+                groundwater has been affected by facility operations at any point in time, this
+                approach cannot be used to monitor background groundwater quality.
+
+                Using an intrawell data evaluation may provide a sensitive method to determine
+                if a contaminant release has occurred. This data evaluation method may
+                eliminate uncertainty created by spatial variability between upgradient and
+                downgradient monitoring points. By using data collected from one monitoring
+                point and comparing it to data collected over time at that same monitoring point,
+                spatial variability can be eliminated. Seasonal variations in groundwater quality
+                may still be a factor to be evaluated.
+
+
+                       Conclusion to Internal Management Directive
+
+
+Implementing DEQ staff review information submitted by permitted sources on the
+rule         background quality of groundwater in the vicinity of a permitted facility. This
+requirements information should be sufficient to determine the groundwater quality in the
+             absence of any impacts from activities that have occurred or could in the future
+             occur at a permitted facility. Information collected upgradient of a facility or
+             equivalently representing the groundwater quality upgradient of a facility will be
+             used by DEQ staff for setting and implementing permit requirements.
+
+                A number of methods can be used by permittees to select points to monitor
+                groundwater quality and collect and analyze data that will be reviewed by DEQ.
+                The appropriate methodology should be chosen based on the site geology and
+                groundwater flow conditions, potential facility impacts on groundwater, and the
+                ability to adequately monitor the uppermost aquifer or any aquifer that could be
+                affected. It is generally preferable to use a monitoring point that is physically
+                located upgradient to a facility and collect information during the facility
+                operations. In situations when it is technically advisable to use another method,
+                the appropriate method should be chosen based on site geology and groundwater
+                flow conditions, potential facility impacts on groundwater, and the ability to
+                adequately monitor the uppermost aquifer or any aquifer that could be affected.
+
+
+
+
+7/14/03 KLU                                                                            Page 6 of 7
+

@@ -54,7 +54,7 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-administrative-services/accounting-manual/oam-15-60-25.md` — document's printed date differs from the listing of record (see Curator notes)
 - `agencies/department-of-administrative-services/accounting-manual/oam-45-20-00.md` — document's printed date differs from the listing of record (see Curator notes)
 
-## Unlinked rules/policies/procedures/standards — no graph edges (348)
+## Unlinked rules/policies/procedures/standards — no graph edges (354)
 
 `src/link_graph.py` found no authority citation (or, for procedures, no `_PR` naming match) connecting this document to anything else in the corpus. Itemized entries usually mean the source's authority text doesn't match the extractor's citation patterns — check the source and either fix the citation text or add a hand-authored relationship. Per-chapter aggregate entries are rules whose own cited authority is chapter-level or not in the corpus — correct non-links, nothing to fix.
 
@@ -143,6 +143,12 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-corrections/policies/doc-90-2-4.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-90-2-5.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-corrections/policies/doc-90-2-6.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-environmental-quality/policies/deq-imd-7070240.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-environmental-quality/policies/deq-imd-7070243.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-environmental-quality/policies/deq-imd-7070273.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-environmental-quality/policies/deq-imd-7070281.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-environmental-quality/policies/deq-imd-7070283.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-environmental-quality/policies/deq-imd-7070295.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-human-services/policies/dhs-010-013-01.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-human-services/policies/dhs-010-016.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-human-services/policies/dhs-010-022.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -270,7 +276,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/333/030/oar-333-030-0085.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/334/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/337/ (2 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/340/ (57 rules)` — correct non-links — 28 cite only chapter-level authority (no section to link to); 29 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/340/ (55 rules)` — correct non-links — 26 cite only chapter-level authority (no section to link to); 29 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/340/222/oar-340-222-0090.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/345/ (1 rules)` — correct non-links — 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/345/020/oar-345-020-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -1334,7 +1340,7 @@ Oddities in the /gov/eo listing of record recorded by `src/ingest_eo.py` (duplic
 - `eo-21-05` — two listing rows with different bytes (/gov/eo/eo-21-05.pdf vs /gov/eo/eo_21-05.pdf) — confirm which file is the order of record
 - `eo-21-20` — listing says 2021 No. 29; filename (trusted) says 2021 No. 20 — the description matches the filename
 
-## Agency profiles needing curation (160)
+## Agency profiles needing curation (159)
 
 These agencies have in-repo content but their profile (`_meta/agency-profiles.yml`) still carries stub values — the model gets their data without its context until a human fills governance (with a citation) and publication status.
 
@@ -1390,7 +1396,6 @@ These agencies have in-repo content but their profile (`_meta/agency-profiles.ym
 - `_meta/agency-profiles.yml (department-of-consumer-and-business-services-workers-compensation-division)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-energy)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-energy-energy-facility-siting-council)` — policies_published unknown (where does this agency publish?)
-- `_meta/agency-profiles.yml (department-of-environmental-quality)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-fish-and-wildlife)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-forestry)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-geology-and-mineral-industries)` — policies_published unknown (where does this agency publish?)
@@ -1512,6 +1517,7 @@ the attestation the review gates call for. Corpus size by directory:
 - `agencies/department-of-administrative-services/standards/`: 3 documents
 - `agencies/department-of-administrative-services/standards/eis-css-it-control-standards/`: 18 documents
 - `agencies/department-of-corrections/policies/`: 135 documents
+- `agencies/department-of-environmental-quality/policies/`: 52 documents
 - `agencies/department-of-human-services/policies/`: 17 documents
 - `agencies/oregon-health-authority/policies/`: 189 documents
 - `agencies/oregon-military-department/policies/`: 4 documents

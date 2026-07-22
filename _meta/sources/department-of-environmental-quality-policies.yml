@@ -2,9 +2,274 @@ group: department-of-environmental-quality-policies
 title: Department of Environmental Quality policies
 kind: content-hash
 recheck: monthly
-last_checked: '2026-07-21'
-upstream_signal: 'TODO: find the listing of record for this agency''s policies (usually a
-  data-tables-web-part SharePoint list behind its oregon.gov policy page — see AGENTS.md
-  "Checking for / applying upstream changes"), switch kind to sp-listing, and add
-  listing_snapshot. Until then this group only re-hashes its member sources.'
-sources: []
+last_checked: '2026-07-22'
+upstream_signal: 'SharePoint LIST ''Internal Management Directives'' at /deq/Get-Involved/Lists/Internal
+  Management Directives, queried via RenderListDataAsStream. Freshness: re-query and diff the item set.'
+sources:
+- id: deq-imd-7070214
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070214
+  sha256: 4e9408016b0b64d7b7b2c6bbbfd297f46a2583131d0e9b15b3679b643eee847d
+  last_checked: '2026-07-22'
+  notes: 7070214|Category 85 Implementation Plan|Air Quality|2022
+- id: deq-imd-7070263
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070263
+  sha256: ed217a0906ffa7babf6b48bf1a538a7cf44ec8849ce67ce2be333b5c41b71d66
+  last_checked: '2026-07-22'
+  notes: 7070263|Guidance for Evaluating VOC Emissions from Drying and Hot-Pressing Activities|Air Quality|2007
+- id: deq-imd-7070241
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070241
+  sha256: 86950e1dc1b744d7285c0252a759d65ad45c50a428a260ffd69f1a16fdea9c7d
+  last_checked: '2026-07-22'
+  notes: 7070241|Emission Factor Guidance for NSR Regulated Pollutants|Air Quality|2024
+- id: deq-imd-7070257
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070257
+  sha256: 4d3ca0d0374e1dff9952859c5a6d642896954a0e4bdccdac823ec507a410cde0
+  last_checked: '2026-07-22'
+  notes: 7070257|Invoicing Guidance for ACDP and Title V Permits|Air Quality|2015
+- id: deq-imd-7070553
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070553
+  sha256: 9c57c2b1c09fa61f061238806f98c5df684222bf0ddc45f8af2dbe7adae65ac0
+  last_checked: '2026-07-22'
+  notes: 7070553|Netting Basis Emission Reductions Required by Rule|Air Quality|2009
+- id: deq-imd-7039667
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7039667
+  sha256: d9ae481b2ae1de95c852795231e541f1c9a1f9f1609e2f8e04287e3b8aed81e8
+  last_checked: '2026-07-22'
+  notes: 7039667|Notice of Intent to Construct|Air Quality|2022
+- id: deq-imd-7070261
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070261
+  sha256: 85e20c5075fc8797c3279fc08adac98b1b9463caa94f333e7fdfb80e0455296e
+  last_checked: '2026-07-22'
+  notes: 7070261|Short-Term NAAQS Compliance|Air Quality|2021
+- id: deq-imd-7070295
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070295
+  sha256: df14837141a05caa9a7c7c65ef412de5c57850e8033a11c6665b3888a9b0e4a2
+  last_checked: '2026-07-22'
+  notes: 7070295|Staff Guidance on Noise Control Issues|Air Quality|2006
+- id: deq-imd-7070258
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070258
+  sha256: 8830059827277bfbffdd887cb9f9d9699f48d8e7e814f525082a217f595136f4
+  last_checked: '2026-07-22'
+  notes: 7070258|Particulate Matter 10 and 2.5 Netting Basis and PSEL Corrections|Air Quality|2012
+- id: deq-imd-7070552
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070552
+  sha256: de65dbe4affa8700085d6b8be30acbef476f7b1304b9968b2326ce4a012d52d2
+  last_checked: '2026-07-22'
+  notes: 7070552|Particulate Matter 2.5 True Up|Air Quality|2011
+- id: deq-imd-7070220
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070220
+  sha256: 3bac785671b8089fdc37887c7a71c73de936aa25f7c8dc44fd1482796b52c665
+  last_checked: '2026-07-22'
+  notes: 7070220|Policy and Implementation Guidance for the Oregon Air Toxics Program|Air Quality|2008
+- id: deq-imd-7070260
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070260
+  sha256: b37f8790a72434a94b669a78d68e13f1d9045e6a61bdd5e3b85cf7c947d11fe9
+  last_checked: '2026-07-22'
+  notes: 7070260|Temporary Open-Burning Response Guidance|Air Quality|2012
+- id: deq-imd-7070242
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070242
+  sha256: 4d3f6c222c431b1441bf4d48486e547d76343eda0337d6d5f76551314a068862
+  last_checked: '2026-07-22'
+  notes: 7070242|Use of Emission Reduction Credits|Air Quality|2012
+- id: deq-imd-7070216
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070216
+  sha256: 6558226ec8d13fb9d1bcac92cb8c63bcbdefc5aa50f3c8294d54a1e793a8f0d9
+  last_checked: '2026-07-22'
+  notes: 7070216|Applying Hazardous Waste, Universal Waste and State-Only Waste Pesticide Residue Management
+    Standards|Land Quality|
+- id: deq-imd-7070232
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070232
+  sha256: b84cd892d37d265efc7d272ced886940da9b7a138f0d7d1d3454fdd26563b365
+  last_checked: '2026-07-22'
+  notes: 7070232|Clean Fill Determinations|Land Quality|2019
+- id: deq-imd-7070243
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070243
+  sha256: dd868d4e439b496416edd9aa2840de58145352237dd0f3e952c759ac039552f3
+  last_checked: '2026-07-22'
+  notes: 7070243|Conducting Contained-In Determinations For Environmental Media|Land Quality|2024
+- id: deq-imd-7070237
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070237
+  sha256: dfdea21a8c00d6a5d0ced2e9c8054f6d92eb85d720da1ec00a5f674240114a18
+  last_checked: '2026-07-22'
+  notes: 7070237|Contaminant Delineation for Cleanup Projects|Land Quality|2014
+- id: deq-imd-7070240
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070240
+  sha256: 5eeccec4cc539aba9646aa2410972f78c5564dec78c14537e1fcc5ccf4fd7ce8
+  last_checked: '2026-07-22'
+  notes: 7070240|Developing Concentration Limits at Permitted Solid Waste Facilities|Land Quality|2011
+- id: deq-imd-7070265
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070265
+  sha256: 399da58fb341e7dab14acfbc49bf3f8b17d371d78454f1bb9880ffde47c49773
+  last_checked: '2026-07-22'
+  notes: 7070265|E-Waste Handling Facility Permitting and Compliance|Land Quality|2009
+- id: deq-imd-7070267
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070267
+  sha256: dd0e36820e56fbf14f09fc0a537a3e3d2d495e359d65a3ab3b5e379f95318717
+  last_checked: '2026-07-22'
+  notes: 7070267|Hazardous Waste Fees for Remediation Wastes|Land Quality|2015
+- id: deq-imd-7070289
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070289
+  sha256: 8f9efe19fdfc147ab712f2c2e836729bb9177dd6f69478638a2f95abac9ac7a0
+  last_checked: '2026-07-22'
+  notes: 7070289|Regulation of Facilities Used to Manage Woody Biomass from Forestry Operations|Land Quality|2020
+- id: deq-imd-7070280
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070280
+  sha256: d102c800e9a57e48c93d4acc1c2517e59c5df5bad2255a30f0cc459c56825fd3
+  last_checked: '2026-07-22'
+  notes: 7070280|Underground Storage Tank Technical Assistance Inspection Program|Land Quality|2011
+- id: deq-imd-7070221
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070221
+  sha256: e1b8fbc99e91df355e3cc75b4930f720e742f77a81106bc238687b9fc89658b6
+  last_checked: '2026-07-22'
+  notes: 7070221|Antidegradation Policy Implementation|Water Quality|2001
+- id: deq-imd-7070228
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070228
+  sha256: f14deb23c5b723a9044cef569ddb4f4e1dff93f9691d2b60e8fdfb0d1a4c19f6
+  last_checked: '2026-07-22'
+  notes: 7070228|Arsenic Reduction Policy in Surface Water Drinking Water Source Area|Water Quality|2013
+- id: deq-imd-7070230
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070230
+  sha256: dcb70161b2d10eb6bc735120d8592b0de64f830767efc5c2b5ad8b6db5f105b0
+  last_checked: '2026-07-22'
+  notes: 7070230|Bacterial Criteria for Marine and Estuarine Waters|Water Quality|2012
+- id: deq-imd-7070207
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070207
+  sha256: 018a861ec91ad2c047d2757683f558e72f198a5e58de5d83f16e9e901e825eb6
+  last_checked: '2026-07-22'
+  notes: 7070207|Copper Biotic Ligand Model IMD|Water Quality|2024
+- id: deq-imd-7070201
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070201
+  sha256: a03d80720dbe0e63b0595e776d0bb29aac6e5a1c1e197ae69434fd02c3a994da
+  last_checked: '2026-07-22'
+  notes: '7070201|​​​​​​IMD for Functionally Equivalent Discharges: Determining if a WPCF permit should
+    be a NPDES permit under the Maui Supreme Court Decision|Water Quality|'
+- id: deq-imd-7070205
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070205
+  sha256: 1c9543ccdc73f1d9f5bed361ecff17b74d05c9f9d591ccb42e773c15a4920d50
+  last_checked: '2026-07-22'
+  notes: 7070205|Implementation of HB3814|Water Quality|
+- id: deq-imd-7070212
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070212
+  sha256: 381ea30a59bea987f4383a09baa59a2ac4aca020a04015bec2c0c1bce895ba46
+  last_checked: '2026-07-22'
+  notes: 7070212|Implementing Oregon's Biosolids Program|Water Quality|2005
+- id: deq-imd-7070203
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070203
+  sha256: fbe64f1eb24f0f1628c0c28e99b90fb9b7217bddefc9fc04d143a466e604bebe
+  last_checked: '2026-07-22'
+  notes: 7070203|Instructions for BOD5 to CBOD5 Substitution in NPDES Permits|Water Quality|
+- id: deq-imd-7070297
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070297
+  sha256: 304165d59913b62ad9a2cc40250e0b4ef973383a301d1f2e61b714663e8194c2
+  last_checked: '2026-07-22'
+  notes: 7070297|Monitoring Background Groundwater Quality for Regulating Permitted Operations under OAR
+    340-040-0030|Water Quality|2023
+- id: deq-imd-7070286
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070286
+  sha256: 47f4d480b8fa99302cb1b89bc52ecf91a4a2f73a33df8ade7688f68a89cd3c07
+  last_checked: '2026-07-22'
+  notes: 7070286|Nonpoint Source Compliance with the Protecting Cold Water Criterion of the Temperature
+    Standard|Water Quality|
+- id: deq-imd-7070200
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070200
+  sha256: 50745499e4ddef7b3c5464dd87c51e12992da8d80fe8e510ba868ca78e368166
+  last_checked: '2026-07-22'
+  notes: 7070200|NPDES Compliance Schedule Guidance (with addendum)|Water Quality|
+- id: deq-imd-7070196
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070196
+  sha256: 768387daafeccd8a512dbfbe16dc086ee3323fddd31df778db9de01b09eae35e
+  last_checked: '2026-07-22'
+  notes: 7070196|Onsite Septic Variances|Water Quality|2023
+- id: deq-imd-7070273
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070273
+  sha256: 95af6e0b3e89dd2ce5c829bfb19ad5c8ff02227b63c496d33687277767958f78
+  last_checked: '2026-07-22'
+  notes: 7070273|Operations, Monitoring and Management Plans for Land Application of Non-Sanitary Wastewater|Water
+    Quality|2002
+- id: deq-imd-7070211
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070211
+  sha256: dcb70161b2d10eb6bc735120d8592b0de64f830767efc5c2b5ad8b6db5f105b0
+  last_checked: '2026-07-22'
+  notes: '7070211|Oregon Bacterial Rule: Bacterial Criteria for Marine and Estuarine Waters|Water Quality|'
+- id: deq-imd-7070294
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070294
+  sha256: 47f4d480b8fa99302cb1b89bc52ecf91a4a2f73a33df8ade7688f68a89cd3c07
+  last_checked: '2026-07-22'
+  notes: 7070294|Protecting Cold Water Criterion|Water Quality|2011
+- id: deq-imd-7070202
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070202
+  sha256: 5231fae79e35414fb5e7759d61c9c9a1fa1ca00b69d8355a1f5cc0c21bcb80df
+  last_checked: '2026-07-22'
+  notes: 7070202|Reasonable Potential Analysis Process for Toxic Pollutants|Water Quality|2024
+- id: deq-imd-7070285
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070285
+  sha256: a27a5345997037379febac01a044acf5f714e6dd1f8f23149510e035e69018f4
+  last_checked: '2026-07-22'
+  notes: 7070285|Recycled Water|Water Quality|2009
+- id: deq-imd-7070208
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070208
+  sha256: a995b5aebb27c3381e0d684212fdc53fd829b77a3ac77e1ece4e235308583ce8
+  last_checked: '2026-07-22'
+  notes: 7070208|Regulatory Mixing Zone IMD - part 1|Water Quality|
+- id: deq-imd-7070209
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070209
+  sha256: c47e6537707993321ac63f0dcf35b18ad64d74ff96b51598603952905ef1b6f2
+  last_checked: '2026-07-22'
+  notes: 7070209|Regulatory Mixing Zone IMD - part 2|Water Quality|2013
+- id: deq-imd-7070281
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070281
+  sha256: 0af0e7a7ea9f0a095d99450b43dd4ef03eb90a796da03580634c4d8068026e83
+  last_checked: '2026-07-22'
+  notes: 7070281|Regulatory Mixing Zone IMD Transmittal Memo|Water Quality|
+- id: deq-imd-7070217
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070217
+  sha256: 1916bbde872c8e0b64627f64318f25663a2ae1e126ac1ca59246e3e07979faab
+  last_checked: '2026-07-22'
+  notes: 7070217|Site-Specific Background Pollutant Criterion|Water Quality|2012
+- id: deq-imd-7070299
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070299
+  sha256: 7649032f34e66d059fa44fea38d24af7366822cbcd545846ff84960a09f90caa
+  last_checked: '2026-07-22'
+  notes: 7070299|Temperature Water Quality Standard Implementation|Water Quality|2008
+- id: deq-imd-7070284
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070284
+  sha256: b69f41b7cbf94461b276794498584d4282190a196566ce2afe3b3b7a4e31e099
+  last_checked: '2026-07-22'
+  notes: 7070284|Use of Significant Figures and Rounding Conventions in Water Quality Permitting|Water
+    Quality|2013
+- id: deq-imd-7070283
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070283
+  sha256: 6fb6a14a222ee22e8a890e4f21306b66528cd56df6561e0eda214cac8270864f
+  last_checked: '2026-07-22'
+  notes: 7070283|Use of Significant Figures and Rounding Conventions in Water Quality Permitting - Transmittal
+    Memo|Water Quality|
+- id: deq-imd-7070300
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070300
+  sha256: b0868bc05e2375f2ef944f1267139024b9687830eb157795b3e02a05e0c3a90c
+  last_checked: '2026-07-22'
+  notes: 7070300|Variances for NPDES Permit Holders|Water Quality|2012
+- id: deq-imd-7070198
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070198
+  sha256: 08f8f1fc8badead829de2ac821080a4b3b8a70dd4dd94751417a2fd4d700853b
+  last_checked: '2026-07-22'
+  notes: 7070198|Water Quality Trading|Water Quality|2016
+- id: deq-imd-7070218
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070218
+  sha256: 5582eb66f9edbea7fcc0837643d744a500a28ff816c7772ddb7720a83725936a
+  last_checked: '2026-07-22'
+  notes: 7070218|Administrative Search Warrant Procedures|Cross-Agency|
+- id: deq-imd-7070215
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070215
+  sha256: 039efb05e213e65e2d75c12e516f01582392bd808429b61324c69a11ee4a4fbc
+  last_checked: '2026-07-22'
+  notes: 7070215|Enforcement Guidance for Field Staff|Cross-Agency|
+- id: deq-imd-7070287
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7070287
+  sha256: e602047f62d1ff53155fd317e6cb835ccd14d689e12b768fb7b4391fce800c8a
+  last_checked: '2026-07-22'
+  notes: 7070287|Staff Guidance Regarding Cultural Resources Protection Laws, Office of the Director Directive|Cross-Agency|
+- id: deq-imd-7079990
+  url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/RecordViewer.aspx?uri=7079990
+  sha256: 5e49b850b1271c6fa916a2569b505f5d73f81a7f5662efb6ea41c7695d3bbd1f
+  last_checked: '2026-07-22'
+  notes: 7079990|Internal Management Directive for Supplemental Environmental Projects|Cross-Agency|2023
