@@ -38,6 +38,8 @@ VIZZES = [
      "The functional age of the rule &amp; policy body — which rules lag the statutes they implement, sliced by agency, with the specific documents worth reviewing."),
     ("Policy age", "policy-age.html",
      "How long since each internal policy/procedure/standard was last touched, against a 2-year review cadence — sliced by agency, with the specific documents overdue for review."),
+    ("Governor's priorities", "governor-priorities.html",
+     "Does OAR rulemaking show elevated recent activity in the chapters that plausibly implement 4 stated priority areas? A curated mapping, clearly labeled as interpretive."),
 ]
 
 
