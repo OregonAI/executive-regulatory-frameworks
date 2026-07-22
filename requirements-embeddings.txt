@@ -4,6 +4,10 @@
 # `mcp_lib --selftest` runs without them. Install only to BUILD the vector index
 # (src/build_embeddings.py) or to SERVE semantic queries.
 numpy
+# Only needed to compute the 2-D topic-map projection (src/build_topic_projection.py, run
+# once after a re-embed). The committed projection cache + the HTML generator
+# (build_topic_map.py) need neither umap nor numpy.
+umap-learn
 # Default production backend: static (model2vec) embeddings — token-vector lookup, no
 # transformer forward pass, so it embeds ~10k texts/sec on CPU (a transformer manages
 # ~1-2/sec at this text length). Retrieval quality is lower than a transformer but clearly

@@ -45,6 +45,14 @@ jobs:
         run: python3 src/build_agency_index.py --check
       - name: Agency authority-graph visualization must be current
         run: python3 src/build_agency_graph.py --check
+      - name: Corpus coverage map must be current
+        run: python3 src/build_coverage_map.py --check
+      - name: Statute-operationalization view must be current
+        run: python3 src/build_statute_fan.py --check
+      - name: Authority-chain explorer must be current
+        run: python3 src/build_authority_explorer.py --check
+      - name: Semantic topic map must be current (reads committed UMAP cache)
+        run: python3 src/build_topic_map.py --check
       - name: Semantic vector index must be current (soft-pass if not built)
         run: python3 src/build_embeddings.py --check
       - name: Agency profile engine selftest

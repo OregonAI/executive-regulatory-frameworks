@@ -41,21 +41,24 @@ Hand-maintained list of known improvements deliberately deferred. (Distinct from
 
 ## Visualization
 
-The first viz is **built**: `src/build_agency_graph.py` → `viz/agency-authority-graph.html`
-(self-contained interactive canvas graph) + `_meta/agency-graph.json`. It's the **agency
-shared-statutory-authority** graph — agencies linked by ORS chapters their rules both
-implement, ubiquity-discounted. Deferred follow-on ideas from the same brainstorm:
+All five vizzes from this brainstorm are now **built** (each a self-contained generator +
+`--check` gate, wired into the Pages site via `src/build_site.py`):
 
-- **Authority-chain ego explorer** — pick any document, render its N-hop up/down
-  neighborhood (a visual `authority_chain`/`graph_neighbors`). Needs only `_meta/graph.json`.
-- **Statute-operationalization fan** — for an ORS chapter, show every OAR rule (across all
-  agencies) that implements it; reveals heavily-operationalized vs. dormant statutes.
-- **Corpus coverage map** — treemap/sunburst of body → agency → doc_type sized by count,
-  colored by `content_mode` (verbatim vs. stub) or freshness; visualizes the import gap
-  (e.g. agency policies not yet ingested).
-- **Semantic topic map** — 2-D UMAP projection of document embeddings colored by
-  agency/doc_type; clusters = cross-agency topics. **Requires the production embedding
-  index first** (see semantic-search item below).
+- ✅ **Agency authority graph** — `src/build_agency_graph.py` → `viz/agency-authority-graph.html`
+  + `_meta/agency-graph.json`. Agencies linked by ORS chapters their rules both implement,
+  ubiquity-discounted.
+- ✅ **Authority-chain ego explorer** — `src/build_authority_explorer.py` →
+  `viz/authority-explorer.html`. Pick any of the 68k docs; layered N-hop up/down neighborhood
+  from a compact inlined adjacency (implements edges only), per-node fan-out capped at 60.
+- ✅ **Statute-operationalization fan** — `src/build_statute_fan.py` →
+  `viz/statute-operationalization.html`. All 404 implemented ORS chapters ranked by
+  implementing-rule count, bars segmented by agency; dormant tail toggle.
+- ✅ **Corpus coverage map** — `src/build_coverage_map.py` → `viz/corpus-coverage.html`.
+  Squarified treemap of body → agency → doc_type sized by count.
+- ✅ **Semantic topic map** — `src/build_topic_map.py` → `viz/topic-map.html`, over a cached
+  UMAP from `src/build_topic_projection.py` → `_meta/embeddings/projection.2d.json` (computed
+  once with a fixed seed; needs `requirements-embeddings.txt` + `umap-learn`). 68k points,
+  colored by doc_type with per-type filtering.
 - **Do NOT** rebuild the *directed* "agency A cites agency B" graph: 98% of `implements`
   edges point to statewide ORS statutes (not agency-owned), so only ~150 true inter-agency
   citation edges exist — the directed graph is a near-empty statewide hub. The

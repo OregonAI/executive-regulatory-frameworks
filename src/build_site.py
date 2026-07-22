@@ -22,6 +22,20 @@ SITE = REPO / "site"
 REPO_URL = "https://github.com/morficflux/oregon-policy-repo"
 MCP_URL = "https://mcp.morficflux.com/mcp"
 
+# (title, filename, one-line description) — copied into site/ and shown in the gallery
+VIZZES = [
+    ("Agency authority graph", "agency-authority-graph.html",
+     "Which agencies share statutory turf — linked by the ORS chapters their rules jointly implement."),
+    ("Authority-chain explorer", "authority-explorer.html",
+     "Pick any document and walk its authority neighborhood — up to the statutes it implements, down to the rules that implement it."),
+    ("Statute operationalization", "statute-operationalization.html",
+     "Which ORS chapters get turned into the most administrative rules — and which lie dormant."),
+    ("Corpus coverage map", "corpus-coverage.html",
+     "A treemap of the whole corpus by body, agency, and document type — where the depth is, and where the gaps are."),
+    ("Semantic topic map", "topic-map.html",
+     "A 2-D UMAP of every document's embedding: proximity means similar text, so clusters surface topics across ORS, OAR, and policy."),
+]
+
 
 def stats() -> dict:
     g = json.loads((REPO / "_meta/graph.json").read_text())
@@ -61,19 +75,22 @@ def build_html() -> str:
         f'''<div class="tile"><div class="num">{commas(v)}</div>
         <div class="lbl">{name}</div><div class="sub">{sub}</div></div>'''
         for name, v, sub in tiles)
+    viz_html = "\n".join(
+        f'''<div class="card"><h3>{title}</h3><p>{desc}</p>
+        <a class="go" href="{fn}">Open the visualization →</a></div>'''
+        for title, fn, desc in VIZZES)
     return TEMPLATE.format(
-        tiles=tile_html, docs=commas(s["documents"]), agencies=s["agencies"],
-        repo=REPO_URL, mcp=MCP_URL, today=today)
+        tiles=tile_html, vizzes=viz_html, docs=commas(s["documents"]),
+        agencies=s["agencies"], repo=REPO_URL, mcp=MCP_URL, today=today)
 
 
 def main():
     SITE.mkdir(exist_ok=True)
     (SITE / "index.html").write_text(build_html(), encoding="utf-8")
-    for src, dst in [("viz/agency-authority-graph.html", "agency-authority-graph.html"),
-                     ("llms.txt", "llms.txt")]:
-        p = REPO / src
+    for src in [f for _, f, *_ in VIZZES] + ["llms.txt"]:
+        p = REPO / ("llms.txt" if src == "llms.txt" else f"viz/{src}")
         if p.exists():
-            shutil.copyfile(p, SITE / dst)
+            shutil.copyfile(p, SITE / src)
     print(f"built site/ ({stats()['documents']:,} documents) -> {SITE.relative_to(REPO)}")
 
 
@@ -141,7 +158,7 @@ TEMPLATE = r"""<!doctype html>
       complete verbatim text with a mechanically-derived authority graph linking each rule and policy
       up to the statute that authorizes it. Built for AI agents and humans alike.</p>
     <div class="cta">
-      <a class="btn primary" href="agency-authority-graph.html">◑ Explore the agency graph</a>
+      <a class="btn primary" href="authority-explorer.html">◑ Explore the corpus</a>
       <a class="btn" href="{repo}">View on GitHub</a>
       <a class="btn" href="llms.txt">llms.txt (AI index)</a>
     </div>
@@ -154,14 +171,15 @@ TEMPLATE = r"""<!doctype html>
   </section>
 
   <section>
-    <h2>Three ways in</h2>
+    <h2>Explore the corpus</h2>
     <div class="cards">
-      <div class="card">
-        <h3>The agency graph</h3>
-        <p>An interactive map of which Oregon agencies share statutory turf — agencies linked by the ORS
-          chapters their rules jointly implement. Click a node to trace its neighborhood.</p>
-        <a class="go" href="agency-authority-graph.html">Open the visualization →</a>
-      </div>
+      {vizzes}
+    </div>
+  </section>
+
+  <section>
+    <h2>Two more ways in</h2>
+    <div class="cards">
       <div class="card">
         <h3>For AI agents (MCP)</h3>
         <p>A live Model Context Protocol server exposes full-text search, citation resolution, document
