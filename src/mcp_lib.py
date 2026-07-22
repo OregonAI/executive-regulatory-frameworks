@@ -12,7 +12,6 @@ Layers:
 
 Every document payload carries the non-authoritative notice + source_url + retrieved,
 straight from frontmatter — this server must never present content as official text."""
-import hashlib
 import json
 import re
 import sqlite3
@@ -21,7 +20,8 @@ import sys
 from pathlib import Path
 
 from link_graph import build_renumber_map
-from repo_lib import REPO_ROOT, content_files, extract_fulltext, parse_frontmatter
+from repo_lib import (REPO_ROOT, content_files, extract_fulltext, parse_frontmatter,
+                      repo_state, yaml_load)
 
 CACHE_DIR = REPO_ROOT / "_meta/.cache"
 DB_PATH = CACHE_DIR / "fts.db"
@@ -33,15 +33,7 @@ DISCLAIMER = ("NON-AUTHORITATIVE curated copy for AI-agent reference. Not the of
 
 
 # ---------- corpus state / index ----------
-
-def repo_state() -> str:
-    """Cheap fingerprint of the corpus: HEAD commit + hash of `git status` porcelain
-    (captures uncommitted adds/edits well enough for a cache key)."""
-    head = subprocess.run(["git", "rev-parse", "HEAD"], cwd=REPO_ROOT,
-                          capture_output=True, text=True).stdout.strip()
-    status = subprocess.run(["git", "status", "--porcelain"], cwd=REPO_ROOT,
-                            capture_output=True, text=True).stdout
-    return head + ":" + hashlib.sha256(status.encode()).hexdigest()[:16]
+# repo_state() now lives in repo_lib (shared with agency_profile.py's own cache).
 
 
 def _extract_section(body: str, heading: str) -> str | None:
@@ -50,18 +42,30 @@ def _extract_section(body: str, heading: str) -> str | None:
 
 
 def ensure_index() -> sqlite3.Connection:
+    """Open the FTS cache, rebuilding it if the corpus has changed. At ~68k documents a
+    rebuild takes real minutes, so it (a) runs in WAL mode with synchronous=NORMAL instead of
+    the SQLite defaults tuned for tiny single-statement writes, and (b) builds into a fresh
+    temp file and atomically renames it into place — so a second process opening DB_PATH
+    concurrently (e.g. a long-lived MCP server process racing a CLI rebuild) reads either the
+    complete old cache or the complete new one, never a half-written file. Without this, two
+    writers on the same fts.db can produce a genuine SQLITE_IOERR, not just contention."""
     CACHE_DIR.mkdir(exist_ok=True)
     state = repo_state()
-    con = sqlite3.connect(DB_PATH)
-    try:
-        row = con.execute("SELECT v FROM meta WHERE k='state'").fetchone()
-        if row and row[0] == state:
-            return con
-    except sqlite3.OperationalError:
-        pass
-    con.close()
-    DB_PATH.unlink(missing_ok=True)
-    con = sqlite3.connect(DB_PATH)
+    if DB_PATH.exists():
+        con = sqlite3.connect(DB_PATH)
+        try:
+            row = con.execute("SELECT v FROM meta WHERE k='state'").fetchone()
+            if row and row[0] == state:
+                return con
+        except sqlite3.OperationalError:
+            pass
+        con.close()
+
+    tmp_path = DB_PATH.with_suffix(".db.tmp")
+    tmp_path.unlink(missing_ok=True)
+    con = sqlite3.connect(tmp_path)
+    con.execute("PRAGMA journal_mode=WAL")
+    con.execute("PRAGMA synchronous=NORMAL")
     con.execute("CREATE TABLE meta (k TEXT PRIMARY KEY, v TEXT)")
     con.execute("""CREATE TABLE docs (
         id TEXT PRIMARY KEY, path TEXT, doc_type TEXT, agency TEXT, citation TEXT,
@@ -69,6 +73,7 @@ def ensure_index() -> sqlite3.Connection:
         content_mode TEXT, content_exception TEXT, size INTEGER)""")
     con.execute("""CREATE VIRTUAL TABLE fts USING fts5(
         id, citation, title, tags, glance, body, tokenize='porter unicode61')""")
+    con.execute("BEGIN")
     for p in content_files():
         fm, body = parse_frontmatter(p)
         glance = _extract_section(body, "At a glance") or ""
@@ -84,7 +89,17 @@ def ensure_index() -> sqlite3.Connection:
             " ".join(fm.get("tags") or []), glance, ft))
     con.execute("INSERT INTO meta VALUES ('state', ?)", (state,))
     con.commit()
-    return con
+    con.close()
+    # WAL leaves -wal/-shm siblings; checkpoint back into the main file before the rename so
+    # the single renamed-into-place file is self-contained.
+    con = sqlite3.connect(tmp_path)
+    con.execute("PRAGMA wal_checkpoint(TRUNCATE)")
+    con.execute("PRAGMA journal_mode=DELETE")
+    con.close()
+    tmp_path.replace(DB_PATH)
+    for stray in (DB_PATH.with_name(DB_PATH.name + "-wal"), DB_PATH.with_name(DB_PATH.name + "-shm")):
+        stray.unlink(missing_ok=True)
+    return sqlite3.connect(DB_PATH)
 
 
 def _load_graph():
@@ -381,7 +396,6 @@ def _catalog_coverage() -> dict:
     _meta/catalog/*.yml for leaf nodes carrying a status field (a node's own status
     is ignored when its children carry statuses, so a division doesn't double-count
     its rules). Data-driven so new agencies/catalogs appear here automatically."""
-    import yaml
     from collections import Counter
     out = {}
     for p in sorted((REPO_ROOT / "_meta/catalog").glob("*.yml")):
@@ -401,7 +415,7 @@ def _catalog_coverage() -> dict:
                     found = walk(v) or found
             return found
 
-        walk(yaml.safe_load(p.read_text()))
+        walk(yaml_load(p.read_text()))
         out[p.stem] = dict(counts.most_common())
     return out
 
