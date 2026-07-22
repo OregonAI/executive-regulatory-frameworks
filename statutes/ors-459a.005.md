@@ -15,6 +15,8 @@ snapshot_id: ors-chapter-459a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 2021
+enacted: 2015
 status: current
 supersedes: null
 content_mode: verbatim
