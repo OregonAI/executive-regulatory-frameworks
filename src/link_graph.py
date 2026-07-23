@@ -68,6 +68,22 @@ def build_renumber_map():
     return rule_map, div_map
 
 
+def build_ors_renumber_map(docs):
+    """old ORS section (lowercase, no 'ORS ' prefix) -> current ors-* doc id, mined from
+    statute docs' own relationships.supersedes ("ORS <old>", populated by
+    ingest_ors_renumbering.py from the official Legislative Counsel renumbering table).
+    Mirrors build_renumber_map()'s OAR-to-OAR role for the ORS side."""
+    out = {}
+    for did, d in docs.items():
+        if not did.startswith("ors-"):
+            continue
+        for s in (d["fm"].get("relationships") or {}).get("supersedes") or []:
+            m = re.match(r"ORS\s+(\S+)", str(s), re.I)
+            if m:
+                out[m.group(1).lower()] = did
+    return out
+
+
 def authority_text(fm, body):
     """The authority-bearing text regions for a doc (never the whole full text)."""
     parts = [" ".join(str(x) for x in (fm.get("legal_authority") or []))]
@@ -100,13 +116,15 @@ def authority_text(fm, body):
     return " ".join(parts)
 
 
-def resolve_citations(text, docs, rule_map, div_map, rules_by_div, self_id):
+def resolve_citations(text, docs, rule_map, div_map, rules_by_div, self_id, ors_renumber_map):
     """Set of in-repo ids this authority text cites."""
     out = set()
     for sec in ORS_RE.findall(text):
         tid = f"ors-{sec.lower()}"
         if tid in docs:
             out.add(tid)
+        elif sec.lower() in ors_renumber_map:
+            out.add(ors_renumber_map[sec.lower()])
     for rule in OAR_RULE_RE.findall(text):
         rule = rule_map.get(rule, rule)
         tid = f"oar-{rule}"
@@ -190,6 +208,7 @@ def compute(write=False):
         if did.startswith("oar-"):
             rules_by_div.setdefault("-".join(did[4:].split("-")[:2]), []).append(did)
     rule_map, div_map = build_renumber_map()
+    ors_renumber_map = build_ors_renumber_map(docs)
 
     # start from existing edges
     rel = {did: {k: list((d["fm"].get("relationships") or {}).get(k) or [])
@@ -199,7 +218,7 @@ def compute(write=False):
     for did, d in docs.items():
         if d["fm"]["doc_type"] in LINK_DOC_TYPES:
             targets = resolve_citations(
-                d["auth"], docs, rule_map, div_map, rules_by_div, did)
+                d["auth"], docs, rule_map, div_map, rules_by_div, did, ors_renumber_map)
             rel[did]["implements"].extend(sorted(targets))
             if d["fm"]["doc_type"] in ("policy", "procedure"):
                 rel[did]["related"].extend(sorted(policy_xrefs(d["auth"], docs, did)))

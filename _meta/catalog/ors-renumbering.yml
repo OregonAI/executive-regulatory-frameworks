@@ -1,0 +1,492 @@
+note: Oregon Legislative Counsel's official ORS renumbering table, one entry per edition found (Legislative
+  Counsel overwrites the same URL in place each biennium and keeps no historical archive of it — past
+  editions here were recovered via Wayback Machine captures of that URL, hand-verified against each PDF's
+  own printed edition title; 2017 is the earliest capture available, not necessarily the earliest edition
+  that ever existed). 'resolved_chains' merges every edition's single-section-to-single-section mappings
+  and walks each starting number to its final current section, which is what actually gets applied to
+  relationships.supersedes. Advisory (multi-section list/range) rows are recorded per-edition below for
+  human reference only — never auto-expanded or chained, since the table gives no positional correspondence
+  to safely follow. Non-authoritative; verify against the source PDFs before relying on any entry here.
+resolved_chains:
+- formerly: '1.182'
+  current: '1.179'
+  hops:
+  - '1.182'
+  - '1.179'
+  current_ingested: false
+- formerly: '100.412'
+  current: '100.483'
+  hops:
+  - '100.412'
+  - '100.483'
+  current_ingested: true
+- formerly: '137.220'
+  current: '137.212'
+  hops:
+  - '137.220'
+  - '137.212'
+  current_ingested: true
+- formerly: '177.200'
+  current: 276a.239
+  hops:
+  - '177.200'
+  - 276a.239
+  current_ingested: true
+- formerly: '178.100'
+  current: 276a.242
+  hops:
+  - '178.100'
+  - 276a.242
+  current_ingested: true
+- formerly: '238.231'
+  current: '238.235'
+  hops:
+  - '238.231'
+  - '238.235'
+  current_ingested: true
+- formerly: '243.800'
+  current: '243.815'
+  hops:
+  - '243.800'
+  - '243.815'
+  current_ingested: true
+- formerly: '274.085'
+  current: '273.117'
+  hops:
+  - '274.085'
+  - '273.117'
+  current_ingested: true
+- formerly: 285c.309
+  current: '315.506'
+  hops:
+  - 285c.309
+  - '315.506'
+  current_ingested: true
+- formerly: '30.865'
+  current: '30.831'
+  hops:
+  - '30.865'
+  - '30.831'
+  current_ingested: false
+- formerly: '305.085'
+  current: '305.079'
+  hops:
+  - '305.085'
+  - '305.079'
+  current_ingested: true
+- formerly: '305.230'
+  current: '305.239'
+  hops:
+  - '305.230'
+  - '305.239'
+  current_ingested: true
+- formerly: '308.440'
+  current: '308.429'
+  hops:
+  - '308.440'
+  - '308.429'
+  current_ingested: true
+- formerly: '308.520'
+  current: '308.524'
+  hops:
+  - '308.520'
+  - '308.524'
+  current_ingested: true
+- formerly: '315.521'
+  current: '315.640'
+  hops:
+  - '315.521'
+  - '315.640'
+  current_ingested: true
+- formerly: '316.806'
+  current: '316.811'
+  hops:
+  - '316.806'
+  - '316.811'
+  current_ingested: true
+- formerly: 329a.440
+  current: '197.671'
+  hops:
+  - 329a.440
+  - '197.671'
+  current_ingested: true
+- formerly: '336.071'
+  current: '339.408'
+  hops:
+  - '336.071'
+  - '339.408'
+  current_ingested: true
+- formerly: '341.430'
+  current: '350.395'
+  hops:
+  - '341.430'
+  - '350.395'
+  current_ingested: true
+- formerly: '352.629'
+  current: '350.379'
+  hops:
+  - '352.629'
+  - '350.379'
+  current_ingested: true
+- formerly: '366.150'
+  current: '184.626'
+  hops:
+  - '366.150'
+  - '184.626'
+  current_ingested: true
+- formerly: '409.365'
+  current: '409.065'
+  hops:
+  - '409.365'
+  - '409.065'
+  current_ingested: true
+- formerly: 419b.354
+  current: '418.322'
+  hops:
+  - 419b.354
+  - '418.322'
+  current_ingested: true
+- formerly: '420.014'
+  current: '420.081'
+  hops:
+  - '420.014'
+  - '420.081'
+  current_ingested: true
+- formerly: '433.285'
+  current: '433.288'
+  hops:
+  - '433.285'
+  - '433.288'
+  current_ingested: true
+- formerly: '435.305'
+  current: '436.200'
+  hops:
+  - '435.305'
+  - '436.200'
+  current_ingested: false
+- formerly: '442.445'
+  current: '442.994'
+  hops:
+  - '442.445'
+  - '442.994'
+  current_ingested: false
+- formerly: '442.765'
+  current: '441.078'
+  hops:
+  - '442.765'
+  - '441.078'
+  current_ingested: true
+- formerly: '446.265'
+  current: '197.746'
+  hops:
+  - '446.265'
+  - '197.746'
+  current_ingested: false
+- formerly: '446.547'
+  current: '90.769'
+  hops:
+  - '446.547'
+  - '90.769'
+  current_ingested: false
+- formerly: '458.385'
+  current: '430.643'
+  hops:
+  - '458.385'
+  - '430.643'
+  current_ingested: true
+- formerly: '477.505'
+  current: '477.508'
+  hops:
+  - '477.505'
+  - '477.508'
+  current_ingested: true
+- formerly: '540.550'
+  current: '540.589'
+  hops:
+  - '540.550'
+  - '540.589'
+  current_ingested: true
+- formerly: '570.880'
+  current: '192.582'
+  hops:
+  - '570.880'
+  - '192.582'
+  current_ingested: true
+- formerly: '687.057'
+  current: '687.054'
+  hops:
+  - '687.057'
+  - '687.054'
+  current_ingested: true
+- formerly: '689.683'
+  current: '689.689'
+  hops:
+  - '689.683'
+  - '689.689'
+  current_ingested: true
+- formerly: '705.250'
+  current: '455.146'
+  hops:
+  - '705.250'
+  - '455.146'
+  current_ingested: true
+- formerly: 743b.120
+  current: 743a.262
+  hops:
+  - 743b.120
+  - 743a.262
+  current_ingested: true
+- formerly: 743b.280
+  current: 743b.275
+  hops:
+  - 743b.280
+  - 743b.275
+  current_ingested: true
+- formerly: '759.690'
+  current: '759.680'
+  hops:
+  - '759.690'
+  - '759.680'
+  current_ingested: true
+- formerly: '94.667'
+  current: '205.225'
+  hops:
+  - '94.667'
+  - '205.225'
+  current_ingested: true
+editions:
+- edition: '2017'
+  source_url: http://web.archive.org/web/20190428122324id_/https://www.oregonlegislature.gov/bills_laws/BillsLawsEDL/ORS_Renum.pdf
+  source_sha256: 4d0d8859bc5e5706650d0df622adc2aeb042ea788b264fe9a6e8940354e53696
+  simple:
+  - formerly: '177.200'
+    renumbered: 276a.239
+  - formerly: '178.100'
+    renumbered: 276a.242
+  - formerly: 285c.309
+    renumbered: '315.506'
+  - formerly: '305.085'
+    renumbered: '305.079'
+  - formerly: '341.430'
+    renumbered: '350.395'
+  - formerly: '366.150'
+    renumbered: '184.626'
+  - formerly: '420.014'
+    renumbered: '420.081'
+  - formerly: '540.550'
+    renumbered: '540.589'
+  - formerly: '689.683'
+    renumbered: '689.689'
+  - formerly: '705.250'
+    renumbered: '455.146'
+  - formerly: 743b.120
+    renumbered: 743a.262
+  - formerly: '759.690'
+    renumbered: '759.680'
+  advisory:
+  - formerly: 138.012, 138.060 and 138.125 to 138.185
+    renumbered: 138.015, 138.045, 138.052 and 138.285 to 138.305
+  - formerly: 167.400 and 167.402 to 167.407
+    renumbered: 167.765 and 167.775 to 167.785
+  - formerly: 182.122 to 182.132
+    renumbered: 276A.270 to 276A.303
+  - formerly: 184.473 to 184.488
+    renumbered: 276A.230 to 276A.236 and 276A.250 to 276A.262
+  - formerly: 192.310 to 192.505
+    renumbered: 192.173, 192.311 to 192.324, 192.338, 192.345 to 192.401 and 192.411 to 192.431
+  - formerly: 283.500 to 283.524
+    renumbered: 276A.400 to 276A.415
+  - formerly: 291.035 to 291.039 and 291.041
+    renumbered: 276A.200 to 276A.223
+  - formerly: 332.166 and 332.167
+    renumbered: 332.341 and 332.345
+  - formerly: 468A.270 and 468A.275
+    renumbered: 468A.266 and 468A.279
+  - formerly: 469.673, 469.681 and 469.683
+    renumbered: 456.594 to 456.597
+  - formerly: 475B.075, 475B.110, 475B.125 to 475B.280, 475B.290 to 475B.517, 475B.525 and 475B.800
+    renumbered: 475B.085, 475B.105, 475B.119, 475B.154 to 475B.163, 475B.173, 475B.177, 475B.206 to 475B.216,
+      475B.224 to 475B.246, 475B.256 to 475B.266, 475B.276 to 475B.286, 475B.296, 475B.301 to 475B.321,
+      475B.329, 475B.333, 475B.381, 475B.409 to 475B.474, 475B.479 to 475B.491, 475B.501, 475B.506, 475B.514
+      to 475B.535, 475B.545, 475B.548, 475B.785 to 475B.797, 475B.804 to 475B.810, 475B.816, 475B.822,
+      475B.831 to 475B.840, 475B.846 to 475B.858, 475B.867, 475B.870, 475B.879 to 475B.888, 475B.898 to
+      475B.949 and 475B.968
+  - formerly: 541.423 to 541.426, 541.875 and 541.880
+    renumbered: 541.386, 541.393 and 541.973 to 541.975
+  - formerly: 653.525 and 653.545
+    renumbered: 653.400 and 653.403
+  - formerly: 676.460, 676.575 to 676.592 and 676.609 to
+    renumbered: 676.454 and 676.560 to 676.590
+  - formerly: '676.611'
+    renumbered: ''
+- edition: '2019'
+  source_url: http://web.archive.org/web/20210719113022id_/https://www.oregonlegislature.gov/bills_laws/BillsLawsEDL/ORS_Renum.pdf
+  source_sha256: b09185a8afaf5924bbd49b1180155954bbdb12336b54111ee75aa24b6e52a572
+  simple:
+  - formerly: '30.865'
+    renumbered: '30.831'
+  - formerly: '100.412'
+    renumbered: '100.483'
+  - formerly: '238.231'
+    renumbered: '238.235'
+  - formerly: '243.800'
+    renumbered: '243.815'
+  - formerly: '308.520'
+    renumbered: '308.524'
+  - formerly: '315.521'
+    renumbered: '315.640'
+  - formerly: '352.629'
+    renumbered: '350.379'
+  - formerly: '442.765'
+    renumbered: '441.078'
+  - formerly: '446.547'
+    renumbered: '90.769'
+  - formerly: '570.880'
+    renumbered: '192.582'
+  advisory:
+  - formerly: 90.531 to 90.543
+    renumbered: 90.560 to 90.568 and 90.572 to 90.582
+  - formerly: 97.850 and 97.860
+    renumbered: 97.843 and 97.846
+  - formerly: 163.098 and 163.103
+    renumbered: 163.109 and 163.111
+  - formerly: 171.557 (4)
+    renumbered: '171.558'
+  - formerly: 196.905 and 196.910
+    renumbered: 196.921 and 196.931
+  - formerly: 197.295 and 197.747
+    renumbered: 197.286 and 197.627
+  - formerly: 314.730 to 314.752
+    renumbered: 314.761 to 314.772
+  - formerly: 414.620 to 414.627, 414.629, 414.635, 414.637, 414.645 to 414.653, 414.661, 414.679, 414.685,
+      414.768 and 414.839
+    renumbered: 414.117, 414.570 to 414.575, 414.578, 414.590, 414.591, 414.595 to 414.619, 414.669 and
+      414.772
+  - formerly: 416.400 to 416.486
+    renumbered: 25.501 to 25.577
+  - formerly: 419B.022 and 419B.024
+    renumbered: 418.804 and 418.811
+  - formerly: 430.241 and 430.242
+    renumbered: 430.221 and 430.223
+  - formerly: 441.050, 441.057, 441.196 and 441.198
+    renumbered: 441.038, 441.044, 441.051 and 441.054
+  - formerly: 442.025 to 442.205, 442.464, 442.466, 442.600 and 442.625
+    renumbered: 442.310, 442.370 to 442.373, 442.601, 442.602, 442.860 and 442.870
+  - formerly: 443.435 and 443.440
+    renumbered: 443.416 and 443.421
+  - formerly: 446.380 to 446.392 and 446.515 to 446.543
+    renumbered: 456.403 to 456.433
+  - formerly: 459A.739 and 459A.740
+    renumbered: 459A.742 and 459A.743
+  - formerly: 561.750 to 561.760
+    renumbered: 633.487 to 633.491
+  - formerly: 571.300 to 571.321
+    renumbered: 571.269, 571.272 and 571.281 to 571.291
+  - formerly: 576.750 to 576.775
+    renumbered: 576.850 to 576.877
+- edition: '2021'
+  source_url: http://web.archive.org/web/20231007143028id_/https://www.oregonlegislature.gov/bills_laws/BillsLawsEDL/ORS_Renum.pdf
+  source_sha256: 6a75e623a3c06ffb47eb03c37b9aa7bdeca79113658f0756b7fccc204f3e50ad
+  simple:
+  - formerly: '137.220'
+    renumbered: '137.212'
+  - formerly: '274.085'
+    renumbered: '273.117'
+  - formerly: '305.230'
+    renumbered: '305.239'
+  - formerly: '409.365'
+    renumbered: '409.065'
+  - formerly: 419b.354
+    renumbered: '418.322'
+  - formerly: '442.445'
+    renumbered: '442.994'
+  - formerly: '446.265'
+    renumbered: '197.746'
+  - formerly: '458.385'
+    renumbered: '430.643'
+  advisory:
+  - formerly: 109.304 to 109.321
+    renumbered: 109.266 to 109.276 and 109.281 to 109.301
+  - formerly: 181A.675 to 181A.692, 181A.825 to 181A.832, 181A.910 and 181A.912
+    renumbered: 181A.487, 181A.661, 181A.672, 181A.674 and 181A.940 to 181A.972
+  - formerly: 197.757 and 197.763
+    renumbered: 197.256 and 197.797
+  - formerly: 203.077 to 203.082
+    renumbered: 195.500 to 195.520
+  - formerly: 390.233 and 390.234
+    renumbered: 390.241 and 390.242
+  - formerly: 430.385 and 430.395
+    renumbered: 430.381 and 430.709
+  - formerly: 443.437, 443.438 and 443.888
+    renumbered: 443.448, 443.449 and 443.895
+  - formerly: 458.555 to 458.575
+    renumbered: 660.500 to 660.523
+  - formerly: 475B.005 to 475B.968
+    renumbered: 475C.001 to 475C.077, 475C.085 to 475C.109, 475C.121 to 475C.205, 475C.213 to 475C.257,
+      475C.265 to 475C.578, 475C.586 to 475C.644, 475C.670 to 475C.726, 475C.734 to 475C.913 and 475C.919
+      to 475C.950
+  - formerly: 571.288, 571.302 and 571.350 to 571.370
+    renumbered: 571.290, 571.325 and 571.650 to 571.670
+  - formerly: 735.601 to 735.608 and 735.617
+    renumbered: 413.610 to 413.613
+- edition: '2025'
+  source_url: https://www.oregonlegislature.gov/bills_laws/BillsLawsEDL/ORS_Renum.pdf
+  source_sha256: d86de50d752eaae71d0215172474199b96c38e52f38333ecffcf795b7fe06da7
+  simple:
+  - formerly: '1.182'
+    renumbered: '1.179'
+  - formerly: '94.667'
+    renumbered: '205.225'
+  - formerly: '308.440'
+    renumbered: '308.429'
+  - formerly: '316.806'
+    renumbered: '316.811'
+  - formerly: 329a.440
+    renumbered: '197.671'
+  - formerly: '336.071'
+    renumbered: '339.408'
+  - formerly: '433.285'
+    renumbered: '433.288'
+  - formerly: '435.305'
+    renumbered: '436.200'
+  - formerly: '477.505'
+    renumbered: '477.508'
+  - formerly: '687.057'
+    renumbered: '687.054'
+  - formerly: 743b.280
+    renumbered: 743b.275
+  advisory:
+  - formerly: 55.011 to 55.110, 55.130 and 55.140
+    renumbered: 52.750 to 52.815, 52.825 and 52.830
+  - formerly: 58.375 to 58.389
+    renumbered: 58.500, 58.503 and 58.509 to 58.527
+  - formerly: 79.0101 to 79.0628
+    renumbered: 79A.1010 to 79A.1050, 79A.1060, 79A.1070, 79A.1080 to 79A.3060, 79A.3070 to 79A.3140,
+      79A.3150 to 79A.3260 and 79A.3270 to 79A.6280
+  - formerly: 80.010 to 80.130
+    renumbered: 81.200 to 81.263
+  - formerly: 109.112, 109.165 to 109.237, 109.259, 109.260, 109.510 and 109.520
+    renumbered: 109.154, 109.158 to 109.173, 109.204 and 109.621 to 109.628
+  - formerly: 137.679, 137.681, 137.682 and 137.686
+    renumbered: 137.865 and 137.885 to 137.893
+  - formerly: 156.010 to 156.705
+    renumbered: 53.150 to 53.350
+  - formerly: 197.186, 197.200, 197.360, 197.365, 197.475 to 197.490, 197.522 and 197.746 to 197.756
+    renumbered: 197A.140, 197A.142, 197A.207, 197A.208, 197A.212, 197A.216, 197A.218, 197A.402, 197A.431
+      to 197A.440, 197A.449 and 197A.452
+  - formerly: 327.102 to 327.108, 327.141 and 327.222 to 327.235
+    renumbered: 327.088, 327.158 to 327.162 and 327.169 to 327.174
+  - formerly: 418.650 to 418.663
+    renumbered: 660.450 to 660.463
+  - formerly: 426.238 to 426.255, 426.310 and 426.370
+    renumbered: 426.035, 426.165 and 426.311 to 426.318
+  - formerly: 456.250 to 456.267
+    renumbered: 456.766 to 456.819
+  - formerly: 459A.742 to 459A.750
+    renumbered: 459A.752 to 459A.754 and 459A.765
+  - formerly: 476.694 to 476.698
+    renumbered: 660.425 to 660.435
+  - formerly: 660.320, 660.350 and 660.351
+    renumbered: 660.440 to 660.448
+  - formerly: 744.107 and 744.111
+    renumbered: 744.121 and 744.124

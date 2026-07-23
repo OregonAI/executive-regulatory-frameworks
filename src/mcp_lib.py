@@ -313,6 +313,8 @@ EO_C = re.compile(r"(?:EO|Executive\s+Order)\s*(?:No\.?\s*)?(?:20)?(\d{2})-(\d{1
 NUMS_C = re.compile(r"(?:DAS|policy|statewide policy|OAM)?\s*([\d]{2,3}[.\-][\d]{3}[.\-][\d]{2,4})\s*$", re.I)
 
 _RENUM = None
+_ORS_DISPOSITION = None
+ORS_DISPOSITION_PATH = REPO_ROOT / "_meta/catalog/ors-disposition.yml"
 
 
 def _renumber(rule):
@@ -322,13 +324,26 @@ def _renumber(rule):
     return _RENUM.get(rule, rule)
 
 
+def _ors_disposition(section: str):
+    """{'status': 'repealed', 'year': N} for a lowercased ORS section string ('184.616'),
+    mined by build_ors_disposition.py from already-cached chapter snapshots, or None."""
+    global _ORS_DISPOSITION
+    if _ORS_DISPOSITION is None:
+        _ORS_DISPOSITION = {}
+        if ORS_DISPOSITION_PATH.exists():
+            cat = yaml_load(ORS_DISPOSITION_PATH.read_text())
+            _ORS_DISPOSITION = {s["section"]: s for s in cat.get("sections", [])}
+    return _ORS_DISPOSITION.get(section)
+
+
 def resolve_citation(citation: str) -> dict:
     """Map a legal citation string to in-repo document id(s)."""
     nodes, _ = graph()
     c = citation.strip()
-    cands, note = [], None
+    cands, note, ors_section = [], None, None
     if m := ORS_C.search(c):
-        cands = [f"ors-{m.group(1).lower()}"]
+        ors_section = m.group(1).lower()
+        cands = [f"ors-{ors_section}"]
     elif m := OAR_RULE_C.search(c):
         served = _renumber(m.group(1))
         cands = [f"oar-{served}"]
@@ -349,11 +364,21 @@ def resolve_citation(citation: str) -> dict:
     if note:
         out["note"] = note
     if not hits:
-        out["note"] = ("no direct match — the document may not be ingested (see "
-                       "corpus_overview) or the citation format wasn't recognized; "
-                       "try search_corpus")
-        out["search_fallback"] = [{"id": s["id"], "title": s["title"]}
-                                  for s in search_corpus(c, limit=3)]
+        disp = _ors_disposition(ors_section) if ors_section else None
+        if disp and disp.get("status") == "repealed":
+            out["note"] = (f"ORS {ors_section} was repealed in {disp['year']} — no current "
+                           "text exists. Citing rules/policies may not have been updated "
+                           "since (this is legally normal in Oregon; a rule stays valid "
+                           "until the agency files a housekeeping correction). Mechanically "
+                           "mined from the chapter's own legislative-history bracket, not "
+                           "an authoritative disposition table — verify against "
+                           "oregonlegislature.gov.")
+        else:
+            out["note"] = ("no direct match — the document may not be ingested (see "
+                           "corpus_overview) or the citation format wasn't recognized; "
+                           "try search_corpus")
+            out["search_fallback"] = [{"id": s["id"], "title": s["title"]}
+                                      for s in search_corpus(c, limit=3)]
     return out
 
 

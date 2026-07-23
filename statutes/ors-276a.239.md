@@ -29,7 +29,8 @@ relationships:
   implemented_by: []
   references_external: []
   related: []
-  supersedes: []
+  supersedes:
+    - "ORS 177.200"
 tags: ["ors", "chapter-276a"]
 ---
 
