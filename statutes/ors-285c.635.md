@@ -1,6 +1,6 @@
 ---
 id: ors-285c.635
-title: "Determination of personal income tax revenue; distributions to counties; annual limit; rules OREGON LOW INCOME COMMUNITY JOBS INITIATIVE"
+title: "Determination of personal income tax revenue; distributions to counties; annual limit; rules"
 doc_type: statute
 citation: "ORS 285C.635"
 authority_level: statute
@@ -46,11 +46,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Determination of personal income tax revenue; distributions to counties; annual limit; rules OREGON LOW INCOME COMMUNITY JOBS INITIATIVE (ORS 285C.635)
+# Determination of personal income tax revenue; distributions to counties; annual limit; rules (ORS 285C.635)
 
 ## At a glance
 
-ORS 285C.635 — Determination of personal income tax revenue; distributions to counties; annual limit; rules OREGON LOW INCOME COMMUNITY JOBS INITIATIVE. Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.635 — Determination of personal income tax revenue; distributions to counties; annual limit; rules. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 
@@ -72,7 +72,7 @@ ORS 285C.635 — Determination of personal income tax revenue; distributions to 
 
 (3) of this section. The department shall make the distributions out of the unreceipted revenue in lieu of paying the revenue over to the State Treasurer for deposit in the General Fund.
 
-(5) The Oregon Department of Administrative Services shall adopt rules necessary to administer this section. [2007 c.905 §3; 2013 c.722 §50; 2013 c.763 §6; 2015 c.757 §3; 2025 c.565 §11] Note: See second note under 285C.615. Note: Section 43, chapter 298, Oregon Laws 2023, provides: Sec. 43. The Legislative Revenue Officer shall conduct a review of the strategic investment program established under ORS 285C.600 to 285C.635 and 307.123. Not later than October 1, 2034, the officer shall submit a report of the findings of the review, in the manner provided by ORS 192.245, to the interim committees of the Legislative Assembly related to revenue, and may include recommendations for legislation in the report. [2023 c.298 §43] 285C.639 [2007 c.905 §4; 2013 c.722 §51; repealed by 2015 c.757 §4] OREGON LOW INCOME COMMUNITY JOBS INITIATIVE 
+(5) The Oregon Department of Administrative Services shall adopt rules necessary to administer this section. [2007 c.905 §3; 2013 c.722 §50; 2013 c.763 §6; 2015 c.757 §3; 2025 c.565 §11] Note: See second note under 285C.615. Note: Section 43, chapter 298, Oregon Laws 2023, provides: Sec. 43. The Legislative Revenue Officer shall conduct a review of the strategic investment program established under ORS 285C.600 to 285C.635 and 307.123. Not later than October 1, 2034, the officer shall submit a report of the findings of the review, in the manner provided by ORS 192.245, to the interim committees of the Legislative Assembly related to revenue, and may include recommendations for legislation in the report. [2023 c.298 §43] 285C.639 [2007 c.905 §4; 2013 c.722 §51; repealed by 2015 c.757 §4]
 
 ## Provenance & change history
 

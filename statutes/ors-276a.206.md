@@ -1,6 +1,6 @@
 ---
 id: ors-276a.206
-title: "Oversight of state information and telecommunications technology by State Chief Information Officer; policy; rules; application for designation as community of interest"
+title: "Oversight of state information and telecommunications technology by State Chief Information Officer; policy; rules; application for designation as community of "
 doc_type: statute
 citation: "ORS 276A.206"
 authority_level: statute
@@ -49,11 +49,11 @@ tags: ["ors", "chapter-276a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Oversight of state information and telecommunications technology by State Chief Information Officer; policy; rules; application for designation as community of interest (ORS 276A.206)
+# Oversight of state information and telecommunications technology by State Chief Information Officer; policy; rules; application for designation as community of  (ORS 276A.206)
 
 ## At a glance
 
-ORS 276A.206 — Oversight of state information and telecommunications technology by State Chief Information Officer; policy; rules; application for designation as community of interest. Chapter 276A (Information Technology), 2025 Edition.
+ORS 276A.206 — Oversight of state information and telecommunications technology by State Chief Information Officer; policy; rules; application for designation as community of . Chapter 276A (Information Technology), 2025 Edition.
 
 ## Full text
 

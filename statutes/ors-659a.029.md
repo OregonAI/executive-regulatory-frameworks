@@ -1,6 +1,6 @@
 ---
 id: ors-659a.029
-title: "“Because of sex” defined for ORS"
+title: "“Because of sex” defined for ORS 659A.030"
 doc_type: statute
 citation: "ORS 659A.029"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# “Because of sex” defined for ORS (ORS 659A.029)
+# “Because of sex” defined for ORS 659A.030 (ORS 659A.029)
 
 ## At a glance
 
-ORS 659A.029 — “Because of sex” defined for ORS. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.029 — “Because of sex” defined for ORS 659A.030. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

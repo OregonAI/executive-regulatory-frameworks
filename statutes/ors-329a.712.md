@@ -1,6 +1,6 @@
 ---
 id: ors-329a.712
-title: "Revenue distribution to child care providers EARLY LEARNING AND CARE INFRASTRUCTURE FUNDING"
+title: "Revenue distribution to child care providers"
 doc_type: statute
 citation: "ORS 329A.712"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-329a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Revenue distribution to child care providers EARLY LEARNING AND CARE INFRASTRUCTURE FUNDING (ORS 329A.712)
+# Revenue distribution to child care providers (ORS 329A.712)
 
 ## At a glance
 
-ORS 329A.712 — Revenue distribution to child care providers EARLY LEARNING AND CARE INFRASTRUCTURE FUNDING. Chapter 329A (Chapter 329A), 2025 Edition.
+ORS 329A.712 — Revenue distribution to child care providers. Chapter 329A (Chapter 329A), 2025 Edition.
 
 ## Full text
 
@@ -53,7 +53,7 @@ ORS 329A.712 — Revenue distribution to child care providers EARLY LEARNING AND
 
 (2) Revenues shall be disbursed to child care providers consistent with rules adopted by the Early Learning Council.
 
-(3) Distributions shall be made to child care providers in the proportion that the department determines best promotes the provision of high quality child care in this state. [Formerly 657A.712; 2015 c.701 §24; 2017 c.186 §3; 2021 c.631 §42; 2023 c.554 §40] Note: See note under 329A.700. 329A.715 [Formerly 657A.715; repealed by 2017 c.186 §4] 329A.718 [Formerly 657A.718; repealed by 2017 c.186 §4] EARLY LEARNING AND CARE INFRASTRUCTURE FUNDING 
+(3) Distributions shall be made to child care providers in the proportion that the department determines best promotes the provision of high quality child care in this state. [Formerly 657A.712; 2015 c.701 §24; 2017 c.186 §3; 2021 c.631 §42; 2023 c.554 §40] Note: See note under 329A.700. 329A.715 [Formerly 657A.715; repealed by 2017 c.186 §4] 329A.718 [Formerly 657A.718; repealed by 2017 c.186 §4]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-646a.535
-title: "Assistance of Attorney General in obtaining recall notices PREMOISTENED WIPES"
+title: "Assistance of Attorney General in obtaining recall notices"
 doc_type: statute
 citation: "ORS 646A.535"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Assistance of Attorney General in obtaining recall notices PREMOISTENED WIPES (ORS 646A.535)
+# Assistance of Attorney General in obtaining recall notices (ORS 646A.535)
 
 ## At a glance
 
-ORS 646A.535 — Assistance of Attorney General in obtaining recall notices PREMOISTENED WIPES. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.535 — Assistance of Attorney General in obtaining recall notices. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 
-646A.535 Assistance of Attorney General in obtaining recall notices. The Attorney General shall assist retailers in obtaining information the retailers may need to subscribe to or arrange to receive recall notices issued by the United States Consumer Product Safety Commission for children’s products. The assistance shall include, but is not limited to, providing links from the Attorney General’s website to a website maintained by or in cooperation with the Consumer Product Safety Commission for the purpose of disseminating product recall notices. [2008 c.31 §3] PREMOISTENED WIPES 
+646A.535 Assistance of Attorney General in obtaining recall notices. The Attorney General shall assist retailers in obtaining information the retailers may need to subscribe to or arrange to receive recall notices issued by the United States Consumer Product Safety Commission for children’s products. The assistance shall include, but is not limited to, providing links from the Attorney General’s website to a website maintained by or in cooperation with the Consumer Product Safety Commission for the purpose of disseminating product recall notices. [2008 c.31 §3]
 
 ## Provenance & change history
 

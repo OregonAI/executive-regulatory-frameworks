@@ -1,6 +1,6 @@
 ---
 id: ors-431a.655
-title: "Control of fund MATERNAL MENTAL HEALTH"
+title: "Control of fund"
 doc_type: statute
 citation: "ORS 431A.655"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Control of fund MATERNAL MENTAL HEALTH (ORS 431A.655)
+# Control of fund (ORS 431A.655)
 
 ## At a glance
 
-ORS 431A.655 — Control of fund MATERNAL MENTAL HEALTH. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.655 — Control of fund. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
-431A.655 Control of fund. Oregon Health and Science University shall have access to and control of the moneys held in the Alzheimer’s Disease Research Fund established under ORS 431A.650 but shall use such moneys only for the purposes specified in ORS 431A.650 (2). [Formerly 431.860] MATERNAL MENTAL HEALTH 
+431A.655 Control of fund. Oregon Health and Science University shall have access to and control of the moneys held in the Alzheimer’s Disease Research Fund established under ORS 431A.650 but shall use such moneys only for the purposes specified in ORS 431A.650 (2). [Formerly 431.860]
 
 ## Provenance & change history
 

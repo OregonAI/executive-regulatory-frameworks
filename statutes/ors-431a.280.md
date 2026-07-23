@@ -1,6 +1,6 @@
 ---
 id: ors-431a.280
-title: "Biennial report to Legislative Assembly TOXIC COSMETIC PRODUCTS"
+title: "Biennial report to Legislative Assembly"
 doc_type: statute
 citation: "ORS 431A.280"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Biennial report to Legislative Assembly TOXIC COSMETIC PRODUCTS (ORS 431A.280)
+# Biennial report to Legislative Assembly (ORS 431A.280)
 
 ## At a glance
 
-ORS 431A.280 — Biennial report to Legislative Assembly TOXIC COSMETIC PRODUCTS. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.280 — Biennial report to Legislative Assembly. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -57,7 +57,7 @@ ORS 431A.280 — Biennial report to Legislative Assembly TOXIC COSMETIC PRODUCTS
 
 (4) A summary of compliance testing results obtained under ORS 431A.270.
 
-(5) Any recommendations submitted to the authority by manufacturers under ORS 431A.258 (7). [2015 c.786 §13] 431A.300 [Formerly 431.870; repealed by 2025 c.405 §13] 431A.303 [Formerly 431.875; repealed by 2025 c.405 §13] 431A.305 [Formerly 431.880; repealed by 2025 c.405 §13] 431A.308 [Formerly 431.885; repealed by 2025 c.405 §13] 431A.310 [Formerly 431.887; repealed by 2025 c.405 §13] 431A.313 [Formerly 431.890; repealed by 2025 c.405 §13] 431A.315 [Formerly 431.895; repealed by 2025 c.405 §13] 431A.318 [Formerly 431.900; repealed by 2025 c.405 §13] 431A.320 [Formerly 431.905; repealed by 2025 c.405 §13] 431A.323 [Formerly 431.910; repealed by 2025 c.405 §13] 431A.325 [Formerly 431.915; repealed by 2025 c.405 §13] TOXIC COSMETIC PRODUCTS 
+(5) Any recommendations submitted to the authority by manufacturers under ORS 431A.258 (7). [2015 c.786 §13] 431A.300 [Formerly 431.870; repealed by 2025 c.405 §13] 431A.303 [Formerly 431.875; repealed by 2025 c.405 §13] 431A.305 [Formerly 431.880; repealed by 2025 c.405 §13] 431A.308 [Formerly 431.885; repealed by 2025 c.405 §13] 431A.310 [Formerly 431.887; repealed by 2025 c.405 §13] 431A.313 [Formerly 431.890; repealed by 2025 c.405 §13] 431A.315 [Formerly 431.895; repealed by 2025 c.405 §13] 431A.318 [Formerly 431.900; repealed by 2025 c.405 §13] 431A.320 [Formerly 431.905; repealed by 2025 c.405 §13] 431A.323 [Formerly 431.910; repealed by 2025 c.405 §13] 431A.325 [Formerly 431.915; repealed by 2025 c.405 §13]
 
 ## Provenance & change history
 

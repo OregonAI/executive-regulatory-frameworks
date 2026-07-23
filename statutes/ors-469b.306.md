@@ -1,6 +1,6 @@
 ---
 id: ors-469b.306
-title: "Policies and procedures; standards for single energy conservation project; rules TRANSPORTATION PROJECTS"
+title: "Policies and procedures; standards for single energy conservation project; rules"
 doc_type: statute
 citation: "ORS 469B.306"
 authority_level: statute
@@ -51,15 +51,15 @@ tags: ["ors", "chapter-469b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Policies and procedures; standards for single energy conservation project; rules TRANSPORTATION PROJECTS (ORS 469B.306)
+# Policies and procedures; standards for single energy conservation project; rules (ORS 469B.306)
 
 ## At a glance
 
-ORS 469B.306 — Policies and procedures; standards for single energy conservation project; rules TRANSPORTATION PROJECTS. Chapter 469B (Chapter 469B), 2025 Edition.
+ORS 469B.306 — Policies and procedures; standards for single energy conservation project; rules. Chapter 469B (Chapter 469B), 2025 Edition.
 
 ## Full text
 
-469B.306 Policies and procedures; standards for single energy conservation project; rules. The State Department of Energy shall by rule establish policies and procedures for the administration and enforcement of the provisions of ORS 315.331 and 469B.270 to 469B.306 and section 36, chapter 730, Oregon Laws 2011, including standards for what constitutes a single energy conservation project. [2011 c.730 §50] TRANSPORTATION PROJECTS 
+469B.306 Policies and procedures; standards for single energy conservation project; rules. The State Department of Energy shall by rule establish policies and procedures for the administration and enforcement of the provisions of ORS 315.331 and 469B.270 to 469B.306 and section 36, chapter 730, Oregon Laws 2011, including standards for what constitutes a single energy conservation project. [2011 c.730 §50]
 
 ## Provenance & change history
 

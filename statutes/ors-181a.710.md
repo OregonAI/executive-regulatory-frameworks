@@ -1,6 +1,6 @@
 ---
 id: ors-181a.710
-title: "Use of other law enforcement agencies to engage in barred conduct OREGON COMMUNITY CRIME PREVENTION INFORMATION CENTER"
+title: "Use of other law enforcement agencies to engage in barred conduct"
 doc_type: statute
 citation: "ORS 181A.710"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Use of other law enforcement agencies to engage in barred conduct OREGON COMMUNITY CRIME PREVENTION INFORMATION CENTER (ORS 181A.710)
+# Use of other law enforcement agencies to engage in barred conduct (ORS 181A.710)
 
 ## At a glance
 
-ORS 181A.710 — Use of other law enforcement agencies to engage in barred conduct OREGON COMMUNITY CRIME PREVENTION INFORMATION CENTER. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.710 — Use of other law enforcement agencies to engage in barred conduct. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 181A.710 — Use of other law enforcement agencies to engage in barred condu
 
 (2) A law enforcement agency or a person acting on behalf of a law enforcement agency may not: (a) Use a proxy law enforcement agency to use crowd management measures that a court or statute has barred the law enforcement agency from using. (b) Act in concert with another law enforcement agency to engage in misconduct barred by a court order or statute.
 
-(3) Intentional violation of this section constitutes official misconduct in the second degree under ORS 162.405. [2021 c.540 §3; 2022 c.40 §4] OREGON COMMUNITY CRIME PREVENTION INFORMATION CENTER 
+(3) Intentional violation of this section constitutes official misconduct in the second degree under ORS 162.405. [2021 c.540 §3; 2022 c.40 §4]
 
 ## Provenance & change history
 

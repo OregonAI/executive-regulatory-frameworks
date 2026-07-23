@@ -1,6 +1,6 @@
 ---
 id: ors-743b.505
-title: "Provider networks; rules DISCLOSURE OF HEALTH INFORMATION"
+title: "Provider networks; rules"
 doc_type: statute
 citation: "ORS 743B.505"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Provider networks; rules DISCLOSURE OF HEALTH INFORMATION (ORS 743B.505)
+# Provider networks; rules (ORS 743B.505)
 
 ## At a glance
 
-ORS 743B.505 — Provider networks; rules DISCLOSURE OF HEALTH INFORMATION. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.505 — Provider networks; rules. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

@@ -71,7 +71,7 @@ ORS 468A.620 — and. Chapter 468A (Chapter 468A), 2025 Edition.
 
 (2) The commission may allow open burning under this section of acreage for which permits have not been issued under ORS 468A.575 if the commission finds that the experimental burning: (a) Can, in theory, reduce the adverse effects on air quality or public health from open field burning; and (b) Is necessary in order to obtain information on air quality, public health or the agronomic effects of an experimental form of field sanitization.
 
-(3) The commission may, by rule, establish fees, registration requirements and other requirements or limitations necessary to carry out the provisions of this section. [1991 c.920 §14; 2009 c.692 §10] CHLOROFLUOROCARBONS AND HALON CONTROL 
+(3) The commission may, by rule, establish fees, registration requirements and other requirements or limitations necessary to carry out the provisions of this section. [1991 c.920 §14; 2009 c.692 §10]
 
 ## Provenance & change history
 

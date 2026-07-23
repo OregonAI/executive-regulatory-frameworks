@@ -1,6 +1,6 @@
 ---
 id: ors-329a.100
-title: "“Resource and referral system” defined for ORS"
+title: "“Resource and referral system” defined for ORS 329A.100 to"
 doc_type: statute
 citation: "ORS 329A.100"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-329a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# “Resource and referral system” defined for ORS (ORS 329A.100)
+# “Resource and referral system” defined for ORS 329A.100 to (ORS 329A.100)
 
 ## At a glance
 
-ORS 329A.100 — “Resource and referral system” defined for ORS. Chapter 329A (Chapter 329A), 2025 Edition.
+ORS 329A.100 — “Resource and referral system” defined for ORS 329A.100 to. Chapter 329A (Chapter 329A), 2025 Edition.
 
 ## Full text
 

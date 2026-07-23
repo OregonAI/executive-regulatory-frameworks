@@ -1,6 +1,6 @@
 ---
 id: ors-743b.020
-title: "Eligible employees and small employers; rules MARKETING REQUIREMENTS"
+title: "Eligible employees and small employers; rules"
 doc_type: statute
 citation: "ORS 743B.020"
 authority_level: statute
@@ -39,11 +39,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Eligible employees and small employers; rules MARKETING REQUIREMENTS (ORS 743B.020)
+# Eligible employees and small employers; rules (ORS 743B.020)
 
 ## At a glance
 
-ORS 743B.020 — Eligible employees and small employers; rules MARKETING REQUIREMENTS. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.020 — Eligible employees and small employers; rules. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

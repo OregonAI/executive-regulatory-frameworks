@@ -1,6 +1,6 @@
 ---
 id: ors-431a.550
-title: "Facilities to provide notice; rules BREAST RECONSTRUCTION EDUCATION"
+title: "Facilities to provide notice; rules"
 doc_type: statute
 citation: "ORS 431A.550"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Facilities to provide notice; rules BREAST RECONSTRUCTION EDUCATION (ORS 431A.550)
+# Facilities to provide notice; rules (ORS 431A.550)
 
 ## At a glance
 
-ORS 431A.550 — Facilities to provide notice; rules BREAST RECONSTRUCTION EDUCATION. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.550 — Facilities to provide notice; rules. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -55,7 +55,7 @@ ORS 431A.550 — Facilities to provide notice; rules BREAST RECONSTRUCTION EDUCA
 
 (1) of this section. The notice must include but is not limited to all of the following: (a) Information about breast density, based on the Breast Imaging Reporting and Data System established by the American College of Radiology; (b) An explanation that dense breast tissue can make it harder to find cancer on a mammogram and that dense breast tissue may also be associated with an increased risk of breast cancer; (c) That the patient may benefit from supplementary screening or diagnostic testing including a breast ultrasound; and (d) That the patient should contact the patient’s health care provider to find out whether the health care provider recommends additional testing.
 
-(3) The authority shall adopt by rule a definition of “dense breast tissue” and shall amend the definition whenever necessary to ensure that the definition is consistent with current medical evidence. [Formerly 431.823] BREAST RECONSTRUCTION EDUCATION 
+(3) The authority shall adopt by rule a definition of “dense breast tissue” and shall amend the definition whenever necessary to ensure that the definition is consistent with current medical evidence. [Formerly 431.823]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-708a.275
-title: "Establishment of loan production office; notice; fee LOAN AND OTHER OBLIGATION LIMITS"
+title: "Establishment of loan production office; notice; fee"
 doc_type: statute
 citation: "ORS 708A.275"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-708a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Establishment of loan production office; notice; fee LOAN AND OTHER OBLIGATION LIMITS (ORS 708A.275)
+# Establishment of loan production office; notice; fee (ORS 708A.275)
 
 ## At a glance
 
-ORS 708A.275 — Establishment of loan production office; notice; fee LOAN AND OTHER OBLIGATION LIMITS. Chapter 708A (Chapter 708A), 2025 Edition.
+ORS 708A.275 — Establishment of loan production office; notice; fee. Chapter 708A (Chapter 708A), 2025 Edition.
 
 ## Full text
 
@@ -59,7 +59,7 @@ ORS 708A.275 — Establishment of loan production office; notice; fee LOAN AND O
 
 (1) of this section. A fee is not required for amendments.
 
-(4) An Oregon bank shall notify the director of the closure of a loan production office, the date of closure and the disposition of any records previously maintained at the loan production office. A fee is not required for a notice of closure. [1999 c.107 §5; 2015 c.244 §45a] LOAN AND OTHER OBLIGATION LIMITS 
+(4) An Oregon bank shall notify the director of the closure of a loan production office, the date of closure and the disposition of any records previously maintained at the loan production office. A fee is not required for a notice of closure. [1999 c.107 §5; 2015 c.244 §45a]
 
 ## Provenance & change history
 

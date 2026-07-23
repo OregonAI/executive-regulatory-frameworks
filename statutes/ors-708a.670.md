@@ -1,6 +1,6 @@
 ---
 id: ors-708a.670
-title: "Definitions for ORS"
+title: "Definitions for ORS 708A.670 and 708A.675"
 doc_type: statute
 citation: "ORS 708A.670"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-708a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 708A.670)
+# Definitions for ORS 708A.670 and 708A.675 (ORS 708A.670)
 
 ## At a glance
 
-ORS 708A.670 — Definitions for ORS. Chapter 708A (Chapter 708A), 2025 Edition.
+ORS 708A.670 — Definitions for ORS 708A.670 and 708A.675. Chapter 708A (Chapter 708A), 2025 Edition.
 
 ## Full text
 

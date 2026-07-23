@@ -1,6 +1,6 @@
 ---
 id: ors-419c.616
-title: "Effect of prior proceeding on petition under ORS"
+title: "Effect of prior proceeding on petition under ORS 419C.615"
 doc_type: statute
 citation: "ORS 419C.616"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Effect of prior proceeding on petition under ORS (ORS 419C.616)
+# Effect of prior proceeding on petition under ORS 419C.615 (ORS 419C.616)
 
 ## At a glance
 
-ORS 419C.616 — Effect of prior proceeding on petition under ORS. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.616 — Effect of prior proceeding on petition under ORS 419C.615. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 

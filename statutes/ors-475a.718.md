@@ -1,6 +1,6 @@
 ---
 id: ors-475a.718
-title: "Adoption of ordinances; referral to electors for approval SEVERABILITY"
+title: "Adoption of ordinances; referral to electors for approval"
 doc_type: statute
 citation: "ORS 475A.718"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Adoption of ordinances; referral to electors for approval SEVERABILITY (ORS 475A.718)
+# Adoption of ordinances; referral to electors for approval (ORS 475A.718)
 
 ## At a glance
 
-ORS 475A.718 — Adoption of ordinances; referral to electors for approval SEVERABILITY. Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.718 — Adoption of ordinances; referral to electors for approval. Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 
@@ -65,7 +65,7 @@ ORS 475A.718 — Adoption of ordinances; referral to electors for approval SEVER
 
 (6) Notwithstanding any other provisions of law, a city or county that adopts an ordinance under this section that prohibits the establishment of an entity described in subsection
 
-(1) of this section may not impose a tax or fee on the manufacturing or sale of psilocybin products. [2021 c.1 §128] SEVERABILITY 
+(1) of this section may not impose a tax or fee on the manufacturing or sale of psilocybin products. [2021 c.1 §128]
 
 ## Provenance & change history
 

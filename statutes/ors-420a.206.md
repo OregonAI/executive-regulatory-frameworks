@@ -1,6 +1,6 @@
 ---
 id: ors-420a.206
-title: "Conditional release; release plan; conditions; effect of violation of release plan; revocation MISCELLANEOUS PROVISIONS"
+title: "Conditional release; release plan; conditions; effect of violation of release plan; revocation"
 doc_type: statute
 citation: "ORS 420A.206"
 authority_level: statute
@@ -39,11 +39,11 @@ tags: ["ors", "chapter-420a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors420A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Conditional release; release plan; conditions; effect of violation of release plan; revocation MISCELLANEOUS PROVISIONS (ORS 420A.206)
+# Conditional release; release plan; conditions; effect of violation of release plan; revocation (ORS 420A.206)
 
 ## At a glance
 
-ORS 420A.206 — Conditional release; release plan; conditions; effect of violation of release plan; revocation MISCELLANEOUS PROVISIONS. Chapter 420A (Chapter 420A), 2025 Edition.
+ORS 420A.206 — Conditional release; release plan; conditions; effect of violation of release plan; revocation. Chapter 420A (Chapter 420A), 2025 Edition.
 
 ## Full text
 
@@ -67,7 +67,7 @@ ORS 420A.206 — Conditional release; release plan; conditions; effect of violat
 
 (4) or
 
-(5) of this section. The appellate court’s review is limited to claims that: (A) The disposition is not authorized under this section; (B) The court failed to comply with the requirements of law; and (C) The finding of the court that the person did or did not violate a condition of release is not supported by substantial evidence in the record. [1995 c.422 §56; 1997 c.727 §16; 2001 c.962 §92; 2013 c.37 §1] MISCELLANEOUS PROVISIONS 
+(5) of this section. The appellate court’s review is limited to claims that: (A) The disposition is not authorized under this section; (B) The court failed to comply with the requirements of law; and (C) The finding of the court that the person did or did not violate a condition of release is not supported by substantial evidence in the record. [1995 c.422 §56; 1997 c.727 §16; 2001 c.962 §92; 2013 c.37 §1]
 
 ## Provenance & change history
 

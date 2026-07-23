@@ -1,6 +1,6 @@
 ---
 id: ors-475a.622
-title: "Exemption from criminal liability PACKAGING, LABELING AND CONCENTRATION OF PSILOCYBIN PRODUCTS"
+title: "Exemption from criminal liability PACKAGING,"
 doc_type: statute
 citation: "ORS 475A.622"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Exemption from criminal liability PACKAGING, LABELING AND CONCENTRATION OF PSILOCYBIN PRODUCTS (ORS 475A.622)
+# Exemption from criminal liability PACKAGING, (ORS 475A.622)
 
 ## At a glance
 
-ORS 475A.622 — Exemption from criminal liability PACKAGING, LABELING AND CONCENTRATION OF PSILOCYBIN PRODUCTS. Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.622 — Exemption from criminal liability PACKAGING,. Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-708a.535
-title: "Granting security interests in institution assets REGULATORY ACCOUNTING"
+title: "Granting security interests in institution assets"
 doc_type: statute
 citation: "ORS 708A.535"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-708a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Granting security interests in institution assets REGULATORY ACCOUNTING (ORS 708A.535)
+# Granting security interests in institution assets (ORS 708A.535)
 
 ## At a glance
 
-ORS 708A.535 — Granting security interests in institution assets REGULATORY ACCOUNTING. Chapter 708A (Chapter 708A), 2025 Edition.
+ORS 708A.535 — Granting security interests in institution assets. Chapter 708A (Chapter 708A), 2025 Edition.
 
 ## Full text
 
@@ -54,7 +54,7 @@ ORS 708A.535 — Granting security interests in institution assets REGULATORY AC
 
 (3) An institution shall grant a security interest in its assets only when authorized by a general or specific prior resolution of its board of directors.
 
-(4) As used in this section, “public funds” means deposits belonging to: (a) The State of Oregon that may be deposited to the official credit of the State Treasurer, and funds that may be deposited in an official capacity by any state officer, board or commission. (b) Any county within this state deposited to the official credit of the county treasurer, including the funds of any irrigation or drainage district organized under the laws of this state, or any school district within this state where funds of the school district are deposited with the county treasurer, and funds that may be deposited in an official capacity by any county officer. (c) Any port, port commission, dock or dock commission within this state that may be deposited to the credit of the port, port commission, dock or dock commission, or the treasurer thereof. (d) Any city within this state deposited to the official credit of the city treasurer, and funds that may be deposited in an official capacity by any officer of any municipal corporation. (e) Any school district within this state. (f) Any district organized under the laws of this state with the power to levy taxes. (g) Any housing authority organized and operating pursuant to ORS 456.055 to 456.235. (h) The United States and any of its agencies and instrumentalities to be deposited in the manner and under the rules prescribed by the United States Government. [1997 c.631 §185; 2001 c.445 §180; 2007 c.871 §31] REGULATORY ACCOUNTING 
+(4) As used in this section, “public funds” means deposits belonging to: (a) The State of Oregon that may be deposited to the official credit of the State Treasurer, and funds that may be deposited in an official capacity by any state officer, board or commission. (b) Any county within this state deposited to the official credit of the county treasurer, including the funds of any irrigation or drainage district organized under the laws of this state, or any school district within this state where funds of the school district are deposited with the county treasurer, and funds that may be deposited in an official capacity by any county officer. (c) Any port, port commission, dock or dock commission within this state that may be deposited to the credit of the port, port commission, dock or dock commission, or the treasurer thereof. (d) Any city within this state deposited to the official credit of the city treasurer, and funds that may be deposited in an official capacity by any officer of any municipal corporation. (e) Any school district within this state. (f) Any district organized under the laws of this state with the power to levy taxes. (g) Any housing authority organized and operating pursuant to ORS 456.055 to 456.235. (h) The United States and any of its agencies and instrumentalities to be deposited in the manner and under the rules prescribed by the United States Government. [1997 c.631 §185; 2001 c.445 §180; 2007 c.871 §31]
 
 ## Provenance & change history
 

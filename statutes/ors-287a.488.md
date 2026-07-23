@@ -1,6 +1,6 @@
 ---
 id: ors-287a.488
-title: "Taxes must be levied for payment of claims included in master warrant OREGON MUNICIPAL DEBT ADVISORY COMMISSION"
+title: "Taxes must be levied for payment of claims included in master warrant"
 doc_type: statute
 citation: "ORS 287A.488"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-287a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors287A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Taxes must be levied for payment of claims included in master warrant OREGON MUNICIPAL DEBT ADVISORY COMMISSION (ORS 287A.488)
+# Taxes must be levied for payment of claims included in master warrant (ORS 287A.488)
 
 ## At a glance
 
-ORS 287A.488 — Taxes must be levied for payment of claims included in master warrant OREGON MUNICIPAL DEBT ADVISORY COMMISSION. Chapter 287A (Chapter 287A), 2025 Edition.
+ORS 287A.488 — Taxes must be levied for payment of claims included in master warrant. Chapter 287A (Chapter 287A), 2025 Edition.
 
 ## Full text
 
-287A.488 Taxes must be levied for payment of claims included in master warrant. No master warrant shall be issued under ORS 287A.482 to 287A.488 unless taxes have been levied for the payment of all claims included in the master warrant and such taxes are in the process of being collected at the time of the issuance of the master warrant. [Formerly 287.488] OREGON MUNICIPAL DEBT ADVISORY COMMISSION 
+287A.488 Taxes must be levied for payment of claims included in master warrant. No master warrant shall be issued under ORS 287A.482 to 287A.488 unless taxes have been levied for the payment of all claims included in the master warrant and such taxes are in the process of being collected at the time of the issuance of the master warrant. [Formerly 287.488]
 
 ## Provenance & change history
 

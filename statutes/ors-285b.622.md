@@ -1,6 +1,6 @@
 ---
 id: ors-285b.622
-title: "Transfer of moneys from Strategic Reserve Fund OREGON INDUSTRIAL SITE READINESS PROGRAM"
+title: "Transfer of moneys from Strategic Reserve Fund"
 doc_type: statute
 citation: "ORS 285B.622"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Transfer of moneys from Strategic Reserve Fund OREGON INDUSTRIAL SITE READINESS PROGRAM (ORS 285B.622)
+# Transfer of moneys from Strategic Reserve Fund (ORS 285B.622)
 
 ## At a glance
 
-ORS 285B.622 — Transfer of moneys from Strategic Reserve Fund OREGON INDUSTRIAL SITE READINESS PROGRAM. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.622 — Transfer of moneys from Strategic Reserve Fund. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

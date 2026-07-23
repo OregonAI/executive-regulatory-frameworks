@@ -1,6 +1,6 @@
 ---
 id: ors-431a.570
-title: "Significant exposure to bodily fluids; petition to compel testing; confidentiality of results FETAL ALCOHOL SYNDROME"
+title: "Significant exposure to bodily fluids; petition to compel testing; confidentiality of results"
 doc_type: statute
 citation: "ORS 431A.570"
 authority_level: statute
@@ -39,11 +39,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Significant exposure to bodily fluids; petition to compel testing; confidentiality of results FETAL ALCOHOL SYNDROME (ORS 431A.570)
+# Significant exposure to bodily fluids; petition to compel testing; confidentiality of results (ORS 431A.570)
 
 ## At a glance
 
-ORS 431A.570 — Significant exposure to bodily fluids; petition to compel testing; confidentiality of results FETAL ALCOHOL SYNDROME. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.570 — Significant exposure to bodily fluids; petition to compel testing; confidentiality of results. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -71,7 +71,7 @@ ORS 431A.570 — Significant exposure to bodily fluids; petition to compel testi
 
 (7) Blood, bodily fluids or other potentially infectious materials taken from a source person for the purpose of performing a test under this section: (a) May not be used for a civil or criminal investigation or as evidence in civil or criminal proceeding; and (b) May be retained only as long as necessary to confirm the results of a test performed under this section.
 
-(8) A charge or filing fee may not be imposed for the filing of a petition under this section. The cost of any testing ordered under this section shall be the responsibility of the employer of the petitioner. [2017 c.696 §1; 2021 c.102 §1; 2024 c.73 §75; 2025 c.261 §1] FETAL ALCOHOL SYNDROME 
+(8) A charge or filing fee may not be imposed for the filing of a petition under this section. The cost of any testing ordered under this section shall be the responsibility of the employer of the petitioner. [2017 c.696 §1; 2021 c.102 §1; 2024 c.73 §75; 2025 c.261 §1]
 
 ## Provenance & change history
 

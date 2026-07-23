@@ -101,7 +101,7 @@ ORS 285B.098 — Status of loan to county or municipality; project as security; 
 
 (3) of this section, until June 30, 2025.
 
-(5) Any moneys remaining in the Oregon CHIPS Fund on June 30, 2025, shall be transferred to the General Fund. [2023 c.25 §6; 2024 c.81 §5; 2024 c.89 §7] Sec. 7. Sections 1 to 6 of this 2023 Act are repealed on January 2, 2033. [2023 c.25 §7] 285B.103 [2001 c.944 §2; 2003 c.374 §1; renumbered 285C.500 in 2003] 285B.105 [2001 c.944 §3; 2003 c.374 §2; renumbered 285C.503 in 2003] 285B.108 [2001 c.944 §4; 2003 c.374 §3; renumbered 285C.506 in 2003] CAPITAL ACCESS PROGRAM 
+(5) Any moneys remaining in the Oregon CHIPS Fund on June 30, 2025, shall be transferred to the General Fund. [2023 c.25 §6; 2024 c.81 §5; 2024 c.89 §7] Sec. 7. Sections 1 to 6 of this 2023 Act are repealed on January 2, 2033. [2023 c.25 §7] 285B.103 [2001 c.944 §2; 2003 c.374 §1; renumbered 285C.500 in 2003] 285B.105 [2001 c.944 §3; 2003 c.374 §2; renumbered 285C.503 in 2003] 285B.108 [2001 c.944 §4; 2003 c.374 §3; renumbered 285C.506 in 2003]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-743b.344
-title: "Procedure for obtaining continuation of coverage under ORS"
+title: "Procedure for obtaining continuation of coverage under ORS 743B.343"
 doc_type: statute
 citation: "ORS 743B.344"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Procedure for obtaining continuation of coverage under ORS (ORS 743B.344)
+# Procedure for obtaining continuation of coverage under ORS 743B.343 (ORS 743B.344)
 
 ## At a glance
 
-ORS 743B.344 — Procedure for obtaining continuation of coverage under ORS. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.344 — Procedure for obtaining continuation of coverage under ORS 743B.343. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-286a.016
-title: "Disposition of charges AUTHORITY FOR BORROWING"
+title: "Disposition of charges"
 doc_type: statute
 citation: "ORS 286A.016"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-286a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Disposition of charges AUTHORITY FOR BORROWING (ORS 286A.016)
+# Disposition of charges (ORS 286A.016)
 
 ## At a glance
 
-ORS 286A.016 — Disposition of charges AUTHORITY FOR BORROWING. Chapter 286A (Chapter 286A), 2025 Edition.
+ORS 286A.016 — Disposition of charges. Chapter 286A (Chapter 286A), 2025 Edition.
 
 ## Full text
 
-286A.016 Disposition of charges. All moneys received under ORS 286A.014 and 287A.634 shall be deposited in the Miscellaneous Receipts Account established in the General Fund for the State Treasurer. The State Treasurer may use moneys in the account for payment of expenses of the State Treasurer in connection with bonds of the State of Oregon or a public body as defined in ORS 287A.001. [Formerly 286.025] AUTHORITY FOR BORROWING 
+286A.016 Disposition of charges. All moneys received under ORS 286A.014 and 287A.634 shall be deposited in the Miscellaneous Receipts Account established in the General Fund for the State Treasurer. The State Treasurer may use moneys in the account for payment of expenses of the State Treasurer in connection with bonds of the State of Oregon or a public body as defined in ORS 287A.001. [Formerly 286.025]
 
 ## Provenance & change history
 

@@ -48,12 +48,28 @@ ACTION_ID_RE = re.compile(r"([A-Z]{2,8} \d+-\d{4}(?:\(Temp\))?)")
 EFF_LONG_RE = re.compile(r"effective (\d{2}/\d{2}/\d{4})")
 EFF_SHORT_RE = re.compile(r"(?:cert\. ef\.|& ef\.|cert\. &? ?ef\.|ef\.)\s*(\d{1,2}-\d{1,2}-\d{2,4})")
 RENUM_RE = re.compile(r"renumbered from (\d{3}-\d{3}-\d{4})")
-CITE_FAMILY_RE = re.compile(r"^(ORS|OAR|OL|USC|CFR|Or Laws|Oregon Laws)\b", re.I)
+CITE_FAMILY_RE = re.compile(r"^(ORS|OAR|OL|USC|CFR|Or Laws|Oregon Laws|Ch\.?|Chapter|Sec\.?|Section)\b", re.I)
+# A year-led session-law or bill citation ("2013 HB 2633", "2010 OL Ch. 30") starts with a
+# digit like a bare continuation number would, but is a citation in its own right — never
+# ORS-prefixed, and doesn't change what family a later bare digit continues.
+SESSION_OR_BILL_RE = re.compile(r"^\d{4}\s+(OL|Oregon Laws|c\.|HB|SB)\b", re.I)
+# A bare "42 CFR 441.505" / "45 USC 1234" starts with a digit too, but is its own family.
+CFR_USC_BARE_RE = re.compile(r"^\d+(\.\d+)?\s+(CFR|USC)\b", re.I)
+# A bare parenthetical ("(4)", "(1)(yy)") split off by the '&'/',' splitter is a subsection
+# continuation of the PREVIOUS citation, not a new one.
+CONTINUATION_RE = re.compile(r"^\(")
 
 
 def parse_citation_list(text: str) -> list:
     """'ORS 184.340, 278.405 & 655.520' -> ['ORS 184.340','ORS 278.405','ORS 655.520'].
-    Ranges ('ORS 655.505 - 655.555') and non-standard cites kept as printed."""
+    Ranges ('ORS 655.505 - 655.555') and non-standard cites kept as printed.
+
+    Splitting a compound citation on ','/'&' can strand fragments that aren't citations on
+    their own: a bare subsection continuation ('& (4)'), a session-law/bill year+id that
+    happens to start with a digit ('2013 HB 2633'), or a bare CFR/USC cite. Each is handled
+    below rather than falling through to the bare-digit ORS/OAR re-prefix rule, which would
+    otherwise fabricate a citation family the source text never asserted (e.g. 'ORS 723' for
+    what the source actually means as 'Ch. 723', or 'ORS 2013 HB 2633')."""
     text = re.sub(r"\s+", " ", text).strip().rstrip(".,;")
     if not text:
         return []
@@ -64,15 +80,33 @@ def parse_citation_list(text: str) -> list:
         p = p.strip().rstrip(".,;")
         if not p:
             continue
+        if CONTINUATION_RE.match(p) and out:
+            out[-1] = f"{out[-1]} & {p}"
+            continue
         m = CITE_FAMILY_RE.match(p)
         if m:
-            family = m.group(1)
+            # "Ch"/"Sec" match without their optional period (a word boundary sits right
+            # after the letters, before "."), so normalize for a consistent later prefix
+            family = m.group(1).rstrip(".")
+            if family in ("Ch", "Sec"):
+                family += "."
             out.append(p)
+        elif SESSION_OR_BILL_RE.match(p) or CFR_USC_BARE_RE.match(p):
+            out.append(p)  # own family; doesn't inherit or set `family`
         elif re.match(r"^\d", p) and family:
             out.append(f"{family} {p}")
         else:
             out.append(p)  # keep verbatim ("Chapter 690 Oregon Laws 1983", etc.)
-    return out
+    # merge an "OL <year>" immediately followed by "Ch./Chapter <n>" into one citation
+    # (the source usually means "chapter N, Oregon Laws <year>" split across '&'/',')
+    merged = []
+    for p in out:
+        if (merged and re.match(r"^(OL|Oregon Laws)\s+\d{4}$", merged[-1], re.I)
+                and re.match(r"^(Ch\.?|Chapter)\s+\d", p, re.I)):
+            merged[-1] = f"{merged[-1]} {p}"
+        else:
+            merged.append(p)
+    return merged
 
 
 def parse_effective(action_text: str):

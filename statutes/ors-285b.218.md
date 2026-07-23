@@ -1,6 +1,6 @@
 ---
 id: ors-285b.218
-title: "Pledge to assure repayment; transfer of funds to pay claims LOCAL ECONOMIC DEVELOPMENT"
+title: "Pledge to assure repayment; transfer of funds to pay claims"
 doc_type: statute
 citation: "ORS 285B.218"
 authority_level: statute
@@ -53,11 +53,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Pledge to assure repayment; transfer of funds to pay claims LOCAL ECONOMIC DEVELOPMENT (ORS 285B.218)
+# Pledge to assure repayment; transfer of funds to pay claims (ORS 285B.218)
 
 ## At a glance
 
-ORS 285B.218 — Pledge to assure repayment; transfer of funds to pay claims LOCAL ECONOMIC DEVELOPMENT. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.218 — Pledge to assure repayment; transfer of funds to pay claims. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

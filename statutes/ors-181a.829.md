@@ -1,6 +1,6 @@
 ---
 id: ors-181a.829
-title: "Prohibition on agreements related to immigration enforcement; operation of private immigration detention facility; civil action PEER SUPPORT SERVICES"
+title: "Prohibition on agreements related to immigration enforcement; operation of private immigration detention facility; civil action"
 doc_type: statute
 citation: "ORS 181A.829"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Prohibition on agreements related to immigration enforcement; operation of private immigration detention facility; civil action PEER SUPPORT SERVICES (ORS 181A.829)
+# Prohibition on agreements related to immigration enforcement; operation of private immigration detention facility; civil action (ORS 181A.829)
 
 ## At a glance
 
-ORS 181A.829 — Prohibition on agreements related to immigration enforcement; operation of private immigration detention facility; civil action PEER SUPPORT SERVICES. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.829 — Prohibition on agreements related to immigration enforcement; operation of private immigration detention facility; civil action. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 
@@ -54,7 +54,7 @@ ORS 181A.829 — Prohibition on agreements related to immigration enforcement; o
 
 (3) A person may not operate a private immigration detention facility within this state.
 
-(4) Any person may bring a civil action against a law enforcement agency or public body that violates this section to enjoin the violation. [2021 c.550 §6] 181A.830 [Formerly 181.854; 2020 s.s.1 c.7 §5; renumbered 181A.674 in 2021] 181A.832 [2019 c.79 §1; renumbered 181A.487 in 2021] PEER SUPPORT SERVICES 
+(4) Any person may bring a civil action against a law enforcement agency or public body that violates this section to enjoin the violation. [2021 c.550 §6] 181A.830 [Formerly 181.854; 2020 s.s.1 c.7 §5; renumbered 181A.674 in 2021] 181A.832 [2019 c.79 §1; renumbered 181A.487 in 2021]
 
 ## Provenance & change history
 

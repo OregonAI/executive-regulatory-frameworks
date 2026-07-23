@@ -1,6 +1,6 @@
 ---
 id: ors-285b.599
-title: "Effect of failure to repay to Water Fund; default OREGON BUSINESS RETENTION AND EXPANSION PROGRAM"
+title: "Effect of failure to repay to Water Fund; default"
 doc_type: statute
 citation: "ORS 285B.599"
 authority_level: statute
@@ -50,11 +50,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Effect of failure to repay to Water Fund; default OREGON BUSINESS RETENTION AND EXPANSION PROGRAM (ORS 285B.599)
+# Effect of failure to repay to Water Fund; default (ORS 285B.599)
 
 ## At a glance
 
-ORS 285B.599 — Effect of failure to repay to Water Fund; default OREGON BUSINESS RETENTION AND EXPANSION PROGRAM. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.599 — Effect of failure to repay to Water Fund; default. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 
@@ -64,7 +64,7 @@ ORS 285B.599 — Effect of failure to repay to Water Fund; default OREGON BUSINE
 
 (2) Moneys withheld under subsection
 
-(1) of this section shall be deposited in the fund and shall be used to repay any account in the fund from which funds were expended to pay obligations upon which the municipality defaulted. [Formerly 285.968; 2009 c.830 §129] OREGON BUSINESS RETENTION AND EXPANSION PROGRAM 
+(1) of this section shall be deposited in the fund and shall be used to repay any account in the fund from which funds were expended to pay obligations upon which the municipality defaulted. [Formerly 285.968; 2009 c.830 §129]
 
 ## Provenance & change history
 

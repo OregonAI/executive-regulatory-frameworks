@@ -1,6 +1,6 @@
 ---
 id: ors-659a.148
-title: "Employers to whom provisions relating to reasonable accommodation apply FAMILY LEAVE"
+title: "Employers to whom provisions relating to reasonable accommodation apply"
 doc_type: statute
 citation: "ORS 659A.148"
 authority_level: statute
@@ -39,15 +39,15 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Employers to whom provisions relating to reasonable accommodation apply FAMILY LEAVE (ORS 659A.148)
+# Employers to whom provisions relating to reasonable accommodation apply (ORS 659A.148)
 
 ## At a glance
 
-ORS 659A.148 — Employers to whom provisions relating to reasonable accommodation apply FAMILY LEAVE. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.148 — Employers to whom provisions relating to reasonable accommodation apply. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 
-659A.148 Employers to whom provisions relating to reasonable accommodation apply. The requirements of ORS 659A.147 apply only to employers who employ six or more persons. [2019 c.139 §4] FAMILY LEAVE 
+659A.148 Employers to whom provisions relating to reasonable accommodation apply. The requirements of ORS 659A.147 apply only to employers who employ six or more persons. [2019 c.139 §4]
 
 ## Provenance & change history
 

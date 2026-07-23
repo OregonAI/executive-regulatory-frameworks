@@ -1,6 +1,6 @@
 ---
 id: ors-469b.480
-title: "Grants to assist landlords with providing community cooling spaces PENALTIES"
+title: "Grants to assist landlords with providing community cooling spaces"
 doc_type: statute
 citation: "ORS 469B.480"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-469b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Grants to assist landlords with providing community cooling spaces PENALTIES (ORS 469B.480)
+# Grants to assist landlords with providing community cooling spaces (ORS 469B.480)
 
 ## At a glance
 
-ORS 469B.480 — Grants to assist landlords with providing community cooling spaces PENALTIES. Chapter 469B (Chapter 469B), 2025 Edition.
+ORS 469B.480 — Grants to assist landlords with providing community cooling spaces. Chapter 469B (Chapter 469B), 2025 Edition.
 
 ## Full text
 
@@ -53,7 +53,7 @@ ORS 469B.480 — Grants to assist landlords with providing community cooling spa
 
 (3) The nongovernmental entity receiving a grant under this section shall maintain separate accounting of the expenditures of the grant funds and shall report the accounting to the Public Utility Commission and the independent auditor described in ORS 757.746 (1)(d). The nongovernmental entity may not utilize moneys received under ORS 757.054
 
-(4) or 757.612 (3)(d) for grant purposes under this section. [2022 c.86 §24; 2023 c.442 §77] PENALTIES 
+(4) or 757.612 (3)(d) for grant purposes under this section. [2022 c.86 §24; 2023 c.442 §77]
 
 ## Provenance & change history
 

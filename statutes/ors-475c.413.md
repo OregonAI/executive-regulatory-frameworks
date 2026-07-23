@@ -1,6 +1,6 @@
 ---
 id: ors-475c.413
-title: "Authority of law enforcement to enforce ORS"
+title: "Authority of law enforcement to enforce ORS 475C.005 to"
 doc_type: statute
 citation: "ORS 475C.413"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority of law enforcement to enforce ORS (ORS 475C.413)
+# Authority of law enforcement to enforce ORS 475C.005 to (ORS 475C.413)
 
 ## At a glance
 
-ORS 475C.413 — Authority of law enforcement to enforce ORS. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.413 — Authority of law enforcement to enforce ORS 475C.005 to. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

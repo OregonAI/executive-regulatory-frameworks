@@ -1,6 +1,6 @@
 ---
 id: ors-659a.001
-title: "Definitions PURPOSE AND POLICY"
+title: "Definitions"
 doc_type: statute
 citation: "ORS 659A.001"
 authority_level: statute
@@ -39,11 +39,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions PURPOSE AND POLICY (ORS 659A.001)
+# Definitions (ORS 659A.001)
 
 ## At a glance
 
-ORS 659A.001 — Definitions PURPOSE AND POLICY. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.001 — Definitions. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 
@@ -71,7 +71,7 @@ ORS 659A.001 — Definitions PURPOSE AND POLICY. Chapter 659A (Chapter 659A), 20
 
 (13) “Unlawful employment practice” means a practice specifically denominated as an unlawful employment practice in this chapter. “Unlawful employment practice” includes a practice that is specifically denominated in another statute of this state as an unlawful employment practice and that is specifically made subject to enforcement under this chapter.
 
-(14) “Unlawful practice” means any unlawful employment practice or any other practice specifically denominated as an unlawful practice in this chapter. “Unlawful practice” includes a practice that is specifically denominated in another statute of this state as an unlawful practice and that is specifically made subject to enforcement under this chapter, or a practice that violates a rule adopted by the commissioner for the enforcement of the provisions of this chapter. [2001 c.621 §1; 2008 c.36 §4; 2013 c.379 §3; 2021 c.239 §1] PURPOSE AND POLICY 
+(14) “Unlawful practice” means any unlawful employment practice or any other practice specifically denominated as an unlawful practice in this chapter. “Unlawful practice” includes a practice that is specifically denominated in another statute of this state as an unlawful practice and that is specifically made subject to enforcement under this chapter, or a practice that violates a rule adopted by the commissioner for the enforcement of the provisions of this chapter. [2001 c.621 §1; 2008 c.36 §4; 2013 c.379 §3; 2021 c.239 §1]
 
 ## Provenance & change history
 

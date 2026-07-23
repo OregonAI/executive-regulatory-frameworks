@@ -1,6 +1,6 @@
 ---
 id: ors-708a.375
-title: "Obligations of guarantors DEPOSITS"
+title: "Obligations of guarantors"
 doc_type: statute
 citation: "ORS 708A.375"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-708a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Obligations of guarantors DEPOSITS (ORS 708A.375)
+# Obligations of guarantors (ORS 708A.375)
 
 ## At a glance
 
-ORS 708A.375 — Obligations of guarantors DEPOSITS. Chapter 708A (Chapter 708A), 2025 Edition.
+ORS 708A.375 — Obligations of guarantors. Chapter 708A (Chapter 708A), 2025 Edition.
 
 ## Full text
 
-708A.375 Obligations of guarantors. In addition to obligations permitted by ORS 708A.295, an Oregon commercial bank may acquire obligations of a person, in the form of a guaranty or otherwise, without regard to amount, on account of obligations previously contracted in good faith or to reduce the risk of loss. Any such obligations shall, however, be subject to ORS 708A.295 in determining whether the Oregon commercial bank may make additional loans to or acquire other obligations of the person. [1997 c.631 §160] DEPOSITS 
+708A.375 Obligations of guarantors. In addition to obligations permitted by ORS 708A.295, an Oregon commercial bank may acquire obligations of a person, in the form of a guaranty or otherwise, without regard to amount, on account of obligations previously contracted in good faith or to reduce the risk of loss. Any such obligations shall, however, be subject to ORS 708A.295 in determining whether the Oregon commercial bank may make additional loans to or acquire other obligations of the person. [1997 c.631 §160]
 
 ## Provenance & change history
 

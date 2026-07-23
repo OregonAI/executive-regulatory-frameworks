@@ -1,6 +1,6 @@
 ---
 id: ors-419c.179
-title: "Release security provisions not applicable COURT-APPOINTED COUNSEL"
+title: "Release security provisions not applicable"
 doc_type: statute
 citation: "ORS 419C.179"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Release security provisions not applicable COURT-APPOINTED COUNSEL (ORS 419C.179)
+# Release security provisions not applicable (ORS 419C.179)
 
 ## At a glance
 
-ORS 419C.179 — Release security provisions not applicable COURT-APPOINTED COUNSEL. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.179 — Release security provisions not applicable. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 
-419C.179 Release security provisions not applicable. Provisions regarding security for release in criminal cases shall not be applicable to youths held or taken into custody as provided in this chapter. [1993 c.33 §181; 1999 c.1051 §271] COURT-APPOINTED COUNSEL 
+419C.179 Release security provisions not applicable. Provisions regarding security for release in criminal cases shall not be applicable to youths held or taken into custody as provided in this chapter. [1993 c.33 §181; 1999 c.1051 §271]
 
 ## Provenance & change history
 

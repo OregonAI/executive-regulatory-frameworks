@@ -1,6 +1,6 @@
 ---
 id: ors-475a.589
-title: "Disclosure of confidential information to public entities TESTING OF PSILOCYBIN PRODUCTS"
+title: "Disclosure of confidential information to public entities"
 doc_type: statute
 citation: "ORS 475A.589"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Disclosure of confidential information to public entities TESTING OF PSILOCYBIN PRODUCTS (ORS 475A.589)
+# Disclosure of confidential information to public entities (ORS 475A.589)
 
 ## At a glance
 
-ORS 475A.589 — Disclosure of confidential information to public entities TESTING OF PSILOCYBIN PRODUCTS. Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.589 — Disclosure of confidential information to public entities. Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 
@@ -53,7 +53,7 @@ ORS 475A.589 — Disclosure of confidential information to public entities TESTI
 
 (3) The authority may not disclose information described in subsection
 
-(2) of this section to another public entity if the information relates to the provision of or referral for reproductive or gender-affirming health care services. [2025 c.147 §3] TESTING OF PSILOCYBIN PRODUCTS 
+(2) of this section to another public entity if the information relates to the provision of or referral for reproductive or gender-affirming health care services. [2025 c.147 §3]
 
 ## Provenance & change history
 

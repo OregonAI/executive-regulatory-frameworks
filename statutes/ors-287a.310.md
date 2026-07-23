@@ -1,6 +1,6 @@
 ---
 id: ors-287a.310
-title: "Definitions for ORS"
+title: "Definitions for ORS 287A.310 and 287A.315; lien of a pledge; Uniform Commercial Code"
 doc_type: statute
 citation: "ORS 287A.310"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-287a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors287A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 287A.310)
+# Definitions for ORS 287A.310 and 287A.315; lien of a pledge; Uniform Commercial Code (ORS 287A.310)
 
 ## At a glance
 
-ORS 287A.310 — Definitions for ORS. Chapter 287A (Chapter 287A), 2025 Edition.
+ORS 287A.310 — Definitions for ORS 287A.310 and 287A.315; lien of a pledge; Uniform Commercial Code. Chapter 287A (Chapter 287A), 2025 Edition.
 
 ## Full text
 

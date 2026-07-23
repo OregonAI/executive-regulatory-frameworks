@@ -1,6 +1,6 @@
 ---
 id: ors-420a.315
-title: "Rules GENERAL PROVISIONS"
+title: "Rules"
 doc_type: statute
 citation: "ORS 420A.315"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-420a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors420A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Rules GENERAL PROVISIONS (ORS 420A.315)
+# Rules (ORS 420A.315)
 
 ## At a glance
 
-ORS 420A.315 — Rules GENERAL PROVISIONS. Chapter 420A (Chapter 420A), 2025 Edition.
+ORS 420A.315 — Rules. Chapter 420A (Chapter 420A), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-286a.095
-title: "Compliance with constitutional or statutory debt limit ADMINISTRATION OF BONDS"
+title: "Compliance with constitutional or statutory debt limit"
 doc_type: statute
 citation: "ORS 286A.095"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-286a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Compliance with constitutional or statutory debt limit ADMINISTRATION OF BONDS (ORS 286A.095)
+# Compliance with constitutional or statutory debt limit (ORS 286A.095)
 
 ## At a glance
 
-ORS 286A.095 — Compliance with constitutional or statutory debt limit ADMINISTRATION OF BONDS. Chapter 286A (Chapter 286A), 2025 Edition.
+ORS 286A.095 — Compliance with constitutional or statutory debt limit. Chapter 286A (Chapter 286A), 2025 Edition.
 
 ## Full text
 
@@ -50,7 +50,7 @@ ORS 286A.095 — Compliance with constitutional or statutory debt limit ADMINIST
 
 (1) When calculating compliance with a constitutional or statutory debt limit: (a) If a bond is issued to a provider of a credit enhancement device for a bond that is subject to a debt limit, the bond issued to the provider must be taken into account only to the extent that the amount of the bond issued to the provider exceeds the amount of the bond that is secured by the credit enhancement device. (b) The amount of interest to be paid on bonds, whether paid currently or deferred, is not taken into account. (c) For a zero coupon bond or other original issue discount bond on which periodic interest payments are not made, only the accreted value of the bond on the date the bond is issued is taken into account. (d) The state may deduct from the amount of outstanding bonds: (A) The amount of moneys and investments held by the state or a trustee of the state to pay bonds that have not been defeased; and (B) The principal amount of bonds that have been defeased.
 
-(2) For purposes of this section, a bond is defeased if: (a) The state has set aside in an irrevocable escrow government obligations, as defined in ORS 287A.375, the receipts from which have been calculated by a certified public accountant or other experienced professional to be sufficient, without reinvestment, to pay the principal, interest and premium, if any, due on the bond at maturity or on prior redemption; or (b) The state has complied with the provisions in the documents authorizing the bond that provide for the payment or defeasance of the bond. [2007 c.783 §15] ADMINISTRATION OF BONDS 
+(2) For purposes of this section, a bond is defeased if: (a) The state has set aside in an irrevocable escrow government obligations, as defined in ORS 287A.375, the receipts from which have been calculated by a certified public accountant or other experienced professional to be sufficient, without reinvestment, to pay the principal, interest and premium, if any, due on the bond at maturity or on prior redemption; or (b) The state has complied with the provisions in the documents authorizing the bond that provide for the payment or defeasance of the bond. [2007 c.783 §15]
 
 ## Provenance & change history
 

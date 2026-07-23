@@ -1,6 +1,6 @@
 ---
 id: ors-181a.155
-title: "Authority over blood and buccal samples and analyses; rules; disclosure; inspection by subject person; destruction of sample CRIME REPORTING"
+title: "Authority over blood and buccal samples and analyses; rules; disclosure; inspection by subject person; destruction of sample"
 doc_type: statute
 citation: "ORS 181A.155"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Authority over blood and buccal samples and analyses; rules; disclosure; inspection by subject person; destruction of sample CRIME REPORTING (ORS 181A.155)
+# Authority over blood and buccal samples and analyses; rules; disclosure; inspection by subject person; destruction of sample (ORS 181A.155)
 
 ## At a glance
 
-ORS 181A.155 — Authority over blood and buccal samples and analyses; rules; disclosure; inspection by subject person; destruction of sample CRIME REPORTING. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.155 — Authority over blood and buccal samples and analyses; rules; disclosure; inspection by subject person; destruction of sample. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

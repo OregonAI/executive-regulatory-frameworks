@@ -1,6 +1,6 @@
 ---
 id: ors-646a.593
-title: "Definitions; requirement to register with Department of Consumer and Business Services to operate as data broker; method of registration; penalty; rules IDENTIT"
+title: "Definitions; requirement to register with Department of Consumer and Business Services to operate as data broker; method of registration; penalty; rules"
 doc_type: statute
 citation: "ORS 646A.593"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions; requirement to register with Department of Consumer and Business Services to operate as data broker; method of registration; penalty; rules IDENTIT (ORS 646A.593)
+# Definitions; requirement to register with Department of Consumer and Business Services to operate as data broker; method of registration; penalty; rules (ORS 646A.593)
 
 ## At a glance
 
-ORS 646A.593 — Definitions; requirement to register with Department of Consumer and Business Services to operate as data broker; method of registration; penalty; rules IDENTIT. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.593 — Definitions; requirement to register with Department of Consumer and Business Services to operate as data broker; method of registration; penalty; rules. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 
@@ -61,7 +61,7 @@ ORS 646A.593 — Definitions; requirement to register with Department of Consume
 
 (6) The department shall make the information that business entities submit for registration under this section publicly available on or by means of the department’s website. (7)(a) The department may impose a civil penalty: (A) In an amount that does not exceed $500 for each of a data broker’s violations of a requirement under this section or each violation of a rule the department adopted under this section; or (B) In the case of a continuing violation, in the amount of $500 for each day in which the violation continues. (b) The total amount of penalties that the department imposes on a data broker may not exceed $10,000 during any calendar year.
 
-(8) The department may adopt rules that are necessary to implement the provisions of this section. [2023 c.395 §1] IDENTITY THEFT PREVENTION 
+(8) The department may adopt rules that are necessary to implement the provisions of this section. [2023 c.395 §1]
 
 ## Provenance & change history
 

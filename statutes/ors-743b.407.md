@@ -1,6 +1,6 @@
 ---
 id: ors-743b.407
-title: "Naturopathic physicians UTILIZATION CONTROLS"
+title: "Naturopathic physicians"
 doc_type: statute
 citation: "ORS 743B.407"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Naturopathic physicians UTILIZATION CONTROLS (ORS 743B.407)
+# Naturopathic physicians (ORS 743B.407)
 
 ## At a glance
 
-ORS 743B.407 — Naturopathic physicians UTILIZATION CONTROLS. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.407 — Naturopathic physicians. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

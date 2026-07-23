@@ -1,6 +1,6 @@
 ---
 id: ors-163a.065
-title: "Immunity CLASSIFICATION"
+title: "Immunity"
 doc_type: statute
 citation: "ORS 163A.065"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-163a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors163A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Immunity CLASSIFICATION (ORS 163A.065)
+# Immunity (ORS 163A.065)
 
 ## At a glance
 
-ORS 163A.065 — Immunity CLASSIFICATION. Chapter 163A (Chapter 163A), 2025 Edition.
+ORS 163A.065 — Immunity. Chapter 163A (Chapter 163A), 2025 Edition.
 
 ## Full text
 
-163A.065 Immunity. A public agency and its employees are immune from liability, both civil and criminal, for the good faith performance of the agency’s or employee’s duties under ORS 163A.005 to 163A.235. [Formerly 181.818] CLASSIFICATION 
+163A.065 Immunity. A public agency and its employees are immune from liability, both civil and criminal, for the good faith performance of the agency’s or employee’s duties under ORS 163A.005 to 163A.235. [Formerly 181.818]
 
 ## Provenance & change history
 

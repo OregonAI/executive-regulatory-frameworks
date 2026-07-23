@@ -1,6 +1,6 @@
 ---
 id: ors-459a.822
-title: "Definitions for ORS"
+title: "Definitions for ORS 459A.820 to"
 doc_type: statute
 citation: "ORS 459A.822"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 459A.822)
+# Definitions for ORS 459A.820 to (ORS 459A.822)
 
 ## At a glance
 
-ORS 459A.822 — Definitions for ORS. Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.822 — Definitions for ORS 459A.820 to. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 

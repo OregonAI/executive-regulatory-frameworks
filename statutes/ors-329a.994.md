@@ -1,6 +1,6 @@
 ---
 id: ors-329a.994
-title: "Civil penalty for interference with disclosure of information DUTIES OF DEPARTMENT OF EARLY LEARNING AND CARE RELATED TO CHILD CARE"
+title: "Civil penalty for interference with disclosure of information"
 doc_type: statute
 citation: "ORS 329A.994"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-329a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Civil penalty for interference with disclosure of information DUTIES OF DEPARTMENT OF EARLY LEARNING AND CARE RELATED TO CHILD CARE (ORS 329A.994)
+# Civil penalty for interference with disclosure of information (ORS 329A.994)
 
 ## At a glance
 
-ORS 329A.994 — Civil penalty for interference with disclosure of information DUTIES OF DEPARTMENT OF EARLY LEARNING AND CARE RELATED TO CHILD CARE. Chapter 329A (Chapter 329A), 2025 Edition.
+ORS 329A.994 — Civil penalty for interference with disclosure of information. Chapter 329A (Chapter 329A), 2025 Edition.
 
 ## Full text
 

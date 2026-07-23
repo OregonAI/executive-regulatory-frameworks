@@ -1,6 +1,6 @@
 ---
 id: ors-543a.025
-title: "Minimum standards for decision on reauthorization of water right; rules WATER RIGHT APPLICATION PROCESS FOR REAUTHORIZING A STATE PROJECT"
+title: "Minimum standards for decision on reauthorization of water right; rules"
 doc_type: statute
 citation: "ORS 543A.025"
 authority_level: statute
@@ -39,11 +39,11 @@ tags: ["ors", "chapter-543a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors543A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Minimum standards for decision on reauthorization of water right; rules WATER RIGHT APPLICATION PROCESS FOR REAUTHORIZING A STATE PROJECT (ORS 543A.025)
+# Minimum standards for decision on reauthorization of water right; rules (ORS 543A.025)
 
 ## At a glance
 
-ORS 543A.025 — Minimum standards for decision on reauthorization of water right; rules WATER RIGHT APPLICATION PROCESS FOR REAUTHORIZING A STATE PROJECT. Chapter 543A (Chapter 543A), 2025 Edition.
+ORS 543A.025 — Minimum standards for decision on reauthorization of water right; rules. Chapter 543A (Chapter 543A), 2025 Edition.
 
 ## Full text
 
@@ -61,7 +61,7 @@ ORS 543A.025 — Minimum standards for decision on reauthorization of water righ
 
 (2) of this section. In the absence of implementing rules, the department may act on applications for reauthorization of a project subject to the standards set forth in this section.
 
-(5) As used in this section, “mitigation” means addressing the adverse effects of a project proposed for reauthorization by considering, in the following order of priority: (a) Avoiding the impact altogether by not taking a certain development action or parts of that action; (b) Minimizing impacts by limiting the degree or magnitude of the development action and its implementation; (c) Rectifying the impact by repairing or rehabilitating the affected environment; (d) Reducing or eliminating the impact over time by preservation or maintenance operations during the life of the development action by monitoring and taking appropriate corrective measures; and (e) Compensating for the impact by replacing or providing comparable substitute resources or environments. [1997 c.449 §5] WATER RIGHT APPLICATION PROCESS FOR REAUTHORIZING A STATE PROJECT 
+(5) As used in this section, “mitigation” means addressing the adverse effects of a project proposed for reauthorization by considering, in the following order of priority: (a) Avoiding the impact altogether by not taking a certain development action or parts of that action; (b) Minimizing impacts by limiting the degree or magnitude of the development action and its implementation; (c) Rectifying the impact by repairing or rehabilitating the affected environment; (d) Reducing or eliminating the impact over time by preservation or maintenance operations during the life of the development action by monitoring and taking appropriate corrective measures; and (e) Compensating for the impact by replacing or providing comparable substitute resources or environments. [1997 c.449 §5]
 
 ## Provenance & change history
 

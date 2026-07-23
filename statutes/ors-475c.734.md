@@ -1,6 +1,6 @@
 ---
 id: ors-475c.734
-title: "Suspense account; payment of expenses; crediting balance to Oregon Marijuana Account FINANCIAL INSTITUTIONS"
+title: "Suspense account; payment of expenses; crediting balance to Oregon Marijuana Account"
 doc_type: statute
 citation: "ORS 475C.734"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Suspense account; payment of expenses; crediting balance to Oregon Marijuana Account FINANCIAL INSTITUTIONS (ORS 475C.734)
+# Suspense account; payment of expenses; crediting balance to Oregon Marijuana Account (ORS 475C.734)
 
 ## At a glance
 
-ORS 475C.734 — Suspense account; payment of expenses; crediting balance to Oregon Marijuana Account FINANCIAL INSTITUTIONS. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.734 — Suspense account; payment of expenses; crediting balance to Oregon Marijuana Account. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 
@@ -49,7 +49,7 @@ ORS 475C.734 — Suspense account; payment of expenses; crediting balance to Ore
 
 (1) All moneys received by the Department of Revenue under ORS 475C.670 to 475C.734 shall be deposited in the State Treasury and credited to a suspense account established under ORS 293.445. The department may pay expenses for the administration and enforcement of ORS 475C.670 to 475C.734 out of moneys received from the tax imposed under ORS 475C.674. Amounts necessary to pay administrative and enforcement expenses are continuously appropriated to the department from the suspense account.
 
-(2) After the payment of administrative and enforcement expenses and refunds or credits arising from erroneous overpayments, the department shall credit the balance of the moneys received by the department under this section to the Oregon Marijuana Account established under ORS 475C.726. [Formerly 475B.760] FINANCIAL INSTITUTIONS 
+(2) After the payment of administrative and enforcement expenses and refunds or credits arising from erroneous overpayments, the department shall credit the balance of the moneys received by the department under this section to the Oregon Marijuana Account established under ORS 475C.726. [Formerly 475B.760]
 
 ## Provenance & change history
 

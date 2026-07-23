@@ -1,6 +1,6 @@
 ---
 id: ors-285a.312
-title: "Application of federal statutes FOREIGN TRADE ZONES"
+title: "Application of federal statutes"
 doc_type: statute
 citation: "ORS 285A.312"
 authority_level: statute
@@ -38,15 +38,15 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Application of federal statutes FOREIGN TRADE ZONES (ORS 285A.312)
+# Application of federal statutes (ORS 285A.312)
 
 ## At a glance
 
-ORS 285A.312 — Application of federal statutes FOREIGN TRADE ZONES. Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.312 — Application of federal statutes. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 
-285A.312 Application of federal statutes. All federal overlay statutes associated with moneys received from the federal Housing and Urban Development Community Development Block Grant Program for Small Cities shall continue to apply to the use of those moneys in the Title I Bank Fund received from sources described in ORS 285A.306 (3)(b). [Formerly 285.690; 1999 c.509 §15; 2005 c.22 §203] FOREIGN TRADE ZONES 
+285A.312 Application of federal statutes. All federal overlay statutes associated with moneys received from the federal Housing and Urban Development Community Development Block Grant Program for Small Cities shall continue to apply to the use of those moneys in the Title I Bank Fund received from sources described in ORS 285A.306 (3)(b). [Formerly 285.690; 1999 c.509 §15; 2005 c.22 §203]
 
 ## Provenance & change history
 

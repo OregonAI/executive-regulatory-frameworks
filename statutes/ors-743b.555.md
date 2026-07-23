@@ -1,6 +1,6 @@
 ---
 id: ors-743b.555
-title: "Confidential communications PRESCRIPTION DRUG COVERAGE"
+title: "Confidential communications"
 doc_type: statute
 citation: "ORS 743B.555"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Confidential communications PRESCRIPTION DRUG COVERAGE (ORS 743B.555)
+# Confidential communications (ORS 743B.555)
 
 ## At a glance
 
-ORS 743B.555 — Confidential communications PRESCRIPTION DRUG COVERAGE. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.555 — Confidential communications. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-285b.763
-title: "Economic Equity Investment Fund DISADVANTAGED AND EMERGING SMALL BUSINESS LOAN PROGRAM"
+title: "Economic Equity Investment Fund"
 doc_type: statute
 citation: "ORS 285B.763"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Economic Equity Investment Fund DISADVANTAGED AND EMERGING SMALL BUSINESS LOAN PROGRAM (ORS 285B.763)
+# Economic Equity Investment Fund (ORS 285B.763)
 
 ## At a glance
 
-ORS 285B.763 — Economic Equity Investment Fund DISADVANTAGED AND EMERGING SMALL BUSINESS LOAN PROGRAM. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.763 — Economic Equity Investment Fund. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

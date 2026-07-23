@@ -1,6 +1,6 @@
 ---
 id: ors-419c.398
-title: "Removal of youth from placement for purpose of receiving restorative services ADJUDICATION"
+title: "Removal of youth from placement for purpose of receiving restorative services"
 doc_type: statute
 citation: "ORS 419C.398"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Removal of youth from placement for purpose of receiving restorative services ADJUDICATION (ORS 419C.398)
+# Removal of youth from placement for purpose of receiving restorative services (ORS 419C.398)
 
 ## At a glance
 
-ORS 419C.398 — Removal of youth from placement for purpose of receiving restorative services ADJUDICATION. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.398 — Removal of youth from placement for purpose of receiving restorative services. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 

@@ -56,7 +56,7 @@ ORS 276A.335 — Moneys from federal government and other sources. Chapter 276A 
 
 (3) Any cybersecurity initiative, consistent with the purposes of ORS 276A.323 to 276A.335, 276A.555 and 276A.560, may be financed in whole or in part by contributions of any funds or property made by any private entity or unit of government that is a party to any agreement entered into under the authority of the office of Enterprise Information Services.
 
-(4) The State Chief Information Officer shall deposit into the State Information Technology Operating Fund established under ORS 276A.209 all moneys received under this section. [2017 c.513 §6; 2021 c.17 §5] USE OF COVERED PRODUCTS ON STATE INFORMATION TECHNOLOGY ASSETS 
+(4) The State Chief Information Officer shall deposit into the State Information Technology Operating Fund established under ORS 276A.209 all moneys received under this section. [2017 c.513 §6; 2021 c.17 §5]
 
 ## Provenance & change history
 

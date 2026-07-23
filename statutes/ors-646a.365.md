@@ -1,6 +1,6 @@
 ---
 id: ors-646a.365
-title: "Check, draft or payment instrument creating obligation for payment AUTOMATIC DIALING AND ANNOUNCING DEVICES"
+title: "Check, draft or payment instrument creating obligation for payment"
 doc_type: statute
 citation: "ORS 646A.365"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Check, draft or payment instrument creating obligation for payment AUTOMATIC DIALING AND ANNOUNCING DEVICES (ORS 646A.365)
+# Check, draft or payment instrument creating obligation for payment (ORS 646A.365)
 
 ## At a glance
 
-ORS 646A.365 — Check, draft or payment instrument creating obligation for payment AUTOMATIC DIALING AND ANNOUNCING DEVICES. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.365 — Check, draft or payment instrument creating obligation for payment. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 
-646A.365 Check, draft or payment instrument creating obligation for payment. A person may not mail or cause to be sent a check, draft or other payment instrument that, when deposited or cashed, obligates the depositor or payee thereafter to make any payment. This section does not apply to an extension of credit or an offer to lend money. [2007 c.304 §1] AUTOMATIC DIALING AND ANNOUNCING DEVICES 
+646A.365 Check, draft or payment instrument creating obligation for payment. A person may not mail or cause to be sent a check, draft or other payment instrument that, when deposited or cashed, obligates the depositor or payee thereafter to make any payment. This section does not apply to an extension of credit or an offer to lend money. [2007 c.304 §1]
 
 ## Provenance & change history
 

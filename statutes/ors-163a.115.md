@@ -1,6 +1,6 @@
 ---
 id: ors-163a.115
-title: "When certain classification required; persons ineligible for relief from reporting obligation RECLASSIFICATION AND RELIEF FROM REPORTING"
+title: "When certain classification required; persons ineligible for relief from reporting obligation"
 doc_type: statute
 citation: "ORS 163A.115"
 authority_level: statute
@@ -59,11 +59,11 @@ tags: ["ors", "chapter-163a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors163A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# When certain classification required; persons ineligible for relief from reporting obligation RECLASSIFICATION AND RELIEF FROM REPORTING (ORS 163A.115)
+# When certain classification required; persons ineligible for relief from reporting obligation (ORS 163A.115)
 
 ## At a glance
 
-ORS 163A.115 — When certain classification required; persons ineligible for relief from reporting obligation RECLASSIFICATION AND RELIEF FROM REPORTING. Chapter 163A (Chapter 163A), 2025 Edition.
+ORS 163A.115 — When certain classification required; persons ineligible for relief from reporting obligation. Chapter 163A (Chapter 163A), 2025 Edition.
 
 ## Full text
 
@@ -73,7 +73,7 @@ ORS 163A.115 — When certain classification required; persons ineligible for re
 
 (2) A person who has been convicted or found guilty except for insanity of one of the following offenses is not eligible for relief from the obligation to report as a sex offender pursuant to a petition filed under ORS 163A.125 (1): (a) Rape in the first degree; (b) Sodomy in the first degree; (c) Unlawful sexual penetration in the first degree; (d) Kidnapping in the first degree as described in ORS 163.235 (1)(e) or when the victim is under 18 years of age; or (e) Burglary in the first degree when committed with the intent to commit any of the offenses listed in ORS 163A.005 (5)(a) to (y).
 
-(3) A person classified as a level three sex offender under section 7 (2)(b), chapter 708, Oregon Laws 2013, is not eligible for relief from the obligation to report as a sex offender pursuant to a petition filed under ORS 163A.125 (1). [Formerly 181.803; 2023 c.200 §5; 2024 c.63 §2] 163A.120 [Formerly 181.820; repealed by 2013 c.708 §34, 2015 c.820 §28 and 2017 c.488 §3] RECLASSIFICATION AND RELIEF FROM REPORTING 
+(3) A person classified as a level three sex offender under section 7 (2)(b), chapter 708, Oregon Laws 2013, is not eligible for relief from the obligation to report as a sex offender pursuant to a petition filed under ORS 163A.125 (1). [Formerly 181.803; 2023 c.200 §5; 2024 c.63 §2] 163A.120 [Formerly 181.820; repealed by 2013 c.708 §34, 2015 c.820 §28 and 2017 c.488 §3]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-468a.330
-title: "Small Business Stationary Source Technical and Environmental Compliance Assistance Program TOXIC AIR CONTAMINANTS"
+title: "Small Business Stationary Source Technical and Environmental Compliance Assistance Program"
 doc_type: statute
 citation: "ORS 468A.330"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Small Business Stationary Source Technical and Environmental Compliance Assistance Program TOXIC AIR CONTAMINANTS (ORS 468A.330)
+# Small Business Stationary Source Technical and Environmental Compliance Assistance Program (ORS 468A.330)
 
 ## At a glance
 
-ORS 468A.330 — Small Business Stationary Source Technical and Environmental Compliance Assistance Program TOXIC AIR CONTAMINANTS. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.330 — Small Business Stationary Source Technical and Environmental Compliance Assistance Program. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 468A.330 — Small Business Stationary Source Technical and Environmental Co
 
 (2) A Compliance Advisory Panel is established to: (a) Advise the department on the effectiveness of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program; (b) Report to the Administrator of the United States Environmental Protection Agency as required by federal law; (c) Review the information to be issued by the program for small businesses to assure the information is understandable by a layperson; and (d) Perform any other function required by the Clean Air Act.
 
-(3) The Compliance Advisory Panel shall consist of not less than seven members: (a) Two members appointed by the Governor, who are not owners, or representatives of owners, of small business stationary sources, to represent the general public; (b) Four members who are owners, or who represent owners, of small business stationary sources as follows: (A) One member appointed by the President of the Senate; (B) One member appointed by the Speaker of the House; (C) One member appointed by the Senate Minority Leader; and (D) One member appointed by the House Minority Leader; and (c) One member appointed by the Director of the Department of Environmental Quality. (4)(a) On-site technical assistance for the development and implementation of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program shall not result in inspections or enforcement actions, except that the department may initiate compliance and enforcement actions immediately if, during onsite technical assistance, there is reasonable cause to believe a clear and immediate danger to the public health and safety or to the environment exists. (b) As used in this subsection: (A) “Clear” means plain, evident, free from doubt. (B) “Immediate danger” means a situation in which there is substantial likelihood that serious harm may be experienced within the time frame necessary for the department to pursue an enforcement action. [1991 c.752 §12] TOXIC AIR CONTAMINANTS 
+(3) The Compliance Advisory Panel shall consist of not less than seven members: (a) Two members appointed by the Governor, who are not owners, or representatives of owners, of small business stationary sources, to represent the general public; (b) Four members who are owners, or who represent owners, of small business stationary sources as follows: (A) One member appointed by the President of the Senate; (B) One member appointed by the Speaker of the House; (C) One member appointed by the Senate Minority Leader; and (D) One member appointed by the House Minority Leader; and (c) One member appointed by the Director of the Department of Environmental Quality. (4)(a) On-site technical assistance for the development and implementation of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program shall not result in inspections or enforcement actions, except that the department may initiate compliance and enforcement actions immediately if, during onsite technical assistance, there is reasonable cause to believe a clear and immediate danger to the public health and safety or to the environment exists. (b) As used in this subsection: (A) “Clear” means plain, evident, free from doubt. (B) “Immediate danger” means a situation in which there is substantial likelihood that serious harm may be experienced within the time frame necessary for the department to pursue an enforcement action. [1991 c.752 §12]
 
 ## Provenance & change history
 

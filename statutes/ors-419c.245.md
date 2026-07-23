@@ -1,6 +1,6 @@
 ---
 id: ors-419c.245
-title: "Right to counsel; waiver PETITION"
+title: "Right to counsel; waiver"
 doc_type: statute
 citation: "ORS 419C.245"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Right to counsel; waiver PETITION (ORS 419C.245)
+# Right to counsel; waiver (ORS 419C.245)
 
 ## At a glance
 
-ORS 419C.245 — Right to counsel; waiver PETITION. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.245 — Right to counsel; waiver. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 
@@ -49,7 +49,7 @@ ORS 419C.245 — Right to counsel; waiver PETITION. Chapter 419C (Chapter 419C),
 
 (1) The juvenile department counselor shall inform, in writing, a youth and the youth’s parents or guardians of the youth’s right to counsel and to appointed counsel at state expense. The right to counsel shall attach prior to the youth’s entering into a formal accountability agreement.
 
-(2) The youth may waive the right to counsel prior to the youth’s entering into a formal accountability agreement, provided that: (a) The youth’s juvenile department counselor has advised the youth of the youth’s right to counsel, in writing; and (b) The waiver is in writing, signed by the youth and presented to the youth’s juvenile department counselor. [1993 c.33 §194; 1995 c.422 §126; 2001 c.962 §84; 2003 c.449 §14; 2017 c.389 §2; 2021 c.597 §15] PETITION 
+(2) The youth may waive the right to counsel prior to the youth’s entering into a formal accountability agreement, provided that: (a) The youth’s juvenile department counselor has advised the youth of the youth’s right to counsel, in writing; and (b) The waiver is in writing, signed by the youth and presented to the youth’s juvenile department counselor. [1993 c.33 §194; 1995 c.422 §126; 2001 c.962 §84; 2003 c.449 §14; 2017 c.389 §2; 2021 c.597 §15]
 
 ## Provenance & change history
 

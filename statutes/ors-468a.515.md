@@ -1,6 +1,6 @@
 ---
 id: ors-468a.515
-title: "Residential solid fuel heating curtailment program requirements; exemptions; rules FIELD BURNING AND PROPANE FLAMING"
+title: "Residential solid fuel heating curtailment program requirements; exemptions; rules"
 doc_type: statute
 citation: "ORS 468A.515"
 authority_level: statute
@@ -47,11 +47,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Residential solid fuel heating curtailment program requirements; exemptions; rules FIELD BURNING AND PROPANE FLAMING (ORS 468A.515)
+# Residential solid fuel heating curtailment program requirements; exemptions; rules (ORS 468A.515)
 
 ## At a glance
 
-ORS 468A.515 — Residential solid fuel heating curtailment program requirements; exemptions; rules FIELD BURNING AND PROPANE FLAMING. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.515 — Residential solid fuel heating curtailment program requirements; exemptions; rules. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 
@@ -73,7 +73,7 @@ ORS 468A.515 — Residential solid fuel heating curtailment program requirements
 
 (2) of this section for the certification of new solid fuel burning devices, the commission by rule may require curtailment during the less severe stage of projected air quality of some or all solid fuel burning devices certified for sale as new under less stringent standards if: (a) The solid fuel burning devices were manufactured at least 15 years prior to the date on which the commission adopts more stringent standards; or (b) The solid fuel burning devices are located in a nonattainment area in this state that does not attain compliance with standards for particulate matter established by the commission pursuant to ORS 468A.025.
 
-(4) Programs adopted by the commission to curtail residential solid fuel heating during periods of air stagnation do not apply to: (a) A person who is classified at less than or equal to 125 percent of poverty level pursuant to guidelines established by the commission taking into account federal poverty guidelines; (b) A person whose residence is equipped solely with a solid fuel burning device that meets any additional requirements as described in rules adopted by the commission; and (c) Pellet stoves, unless the pellet stove is located in a nonattainment area in this state that does not attain compliance with standards for particulate matter established by the commission pursuant to ORS 468A.025. [1991 c.752 §11; 2009 c.387 §12] 468A.520 [1991 c.752 §21; repealed by 2009 c.387 §20] FIELD BURNING AND PROPANE FLAMING 
+(4) Programs adopted by the commission to curtail residential solid fuel heating during periods of air stagnation do not apply to: (a) A person who is classified at less than or equal to 125 percent of poverty level pursuant to guidelines established by the commission taking into account federal poverty guidelines; (b) A person whose residence is equipped solely with a solid fuel burning device that meets any additional requirements as described in rules adopted by the commission; and (c) Pellet stoves, unless the pellet stove is located in a nonattainment area in this state that does not attain compliance with standards for particulate matter established by the commission pursuant to ORS 468A.025. [1991 c.752 §11; 2009 c.387 §12] 468A.520 [1991 c.752 §21; repealed by 2009 c.387 §20]
 
 ## Provenance & change history
 

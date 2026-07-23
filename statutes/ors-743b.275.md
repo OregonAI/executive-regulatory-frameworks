@@ -1,6 +1,6 @@
 ---
 id: ors-743b.275
-title: "Definitions for ORS"
+title: "Definitions for ORS 743B.275 to"
 doc_type: statute
 citation: "ORS 743B.275"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 743B.275)
+# Definitions for ORS 743B.275 to (ORS 743B.275)
 
 ## At a glance
 
-ORS 743B.275 — Definitions for ORS. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.275 — Definitions for ORS 743B.275 to. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

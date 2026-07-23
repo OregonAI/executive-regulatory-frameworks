@@ -1,6 +1,6 @@
 ---
 id: ors-475c.910
-title: "Applicability of ORS"
+title: "Applicability of ORS 475C.770 to"
 doc_type: statute
 citation: "ORS 475C.910"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Applicability of ORS (ORS 475C.910)
+# Applicability of ORS 475C.770 to (ORS 475C.910)
 
 ## At a glance
 
-ORS 475C.910 — Applicability of ORS. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.910 — Applicability of ORS 475C.770 to. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-468a.760
-title: "Content of bid advertisement INDOOR AIR POLLUTION CONTROL"
+title: "Content of bid advertisement"
 doc_type: statute
 citation: "ORS 468A.760"
 authority_level: statute
@@ -42,15 +42,15 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Content of bid advertisement INDOOR AIR POLLUTION CONTROL (ORS 468A.760)
+# Content of bid advertisement (ORS 468A.760)
 
 ## At a glance
 
-ORS 468A.760 — Content of bid advertisement INDOOR AIR POLLUTION CONTROL. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.760 — Content of bid advertisement. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 
-468A.760 Content of bid advertisement. Any public agency requesting bids or proposals for a proposed project shall first make a determination of whether or not the project requires a contractor licensed under ORS 468A.720. The public agency shall include such requirement in the bid or proposal advertisement under ORS 279B.055 (2)(g), 279B.060 (2)(g) and 279C.365 (1)(j). [Formerly 468.899; 2003 c.794 §295] INDOOR AIR POLLUTION CONTROL 
+468A.760 Content of bid advertisement. Any public agency requesting bids or proposals for a proposed project shall first make a determination of whether or not the project requires a contractor licensed under ORS 468A.720. The public agency shall include such requirement in the bid or proposal advertisement under ORS 279B.055 (2)(g), 279B.060 (2)(g) and 279C.365 (1)(j). [Formerly 468.899; 2003 c.794 §295]
 
 ## Provenance & change history
 

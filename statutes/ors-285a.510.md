@@ -1,6 +1,6 @@
 ---
 id: ors-285a.510
-title: "Definitions for ORS"
+title: "Definitions for ORS 285A.510 to"
 doc_type: statute
 citation: "ORS 285A.510"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 285A.510)
+# Definitions for ORS 285A.510 to (ORS 285A.510)
 
 ## At a glance
 
-ORS 285A.510 — Definitions for ORS. Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.510 — Definitions for ORS 285A.510 to. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

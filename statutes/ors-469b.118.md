@@ -1,6 +1,6 @@
 ---
 id: ors-469b.118
-title: "Forfeiture of tax credits; revocation of contractor certificate; inspection; effect of failure to allow inspection; collection RENEWABLE ENERGY RESOURCES"
+title: "Forfeiture of tax credits; revocation of contractor certificate; inspection; effect of failure to allow inspection; collection"
 doc_type: statute
 citation: "ORS 469B.118"
 authority_level: statute
@@ -64,11 +64,11 @@ tags: ["ors", "chapter-469b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Forfeiture of tax credits; revocation of contractor certificate; inspection; effect of failure to allow inspection; collection RENEWABLE ENERGY RESOURCES (ORS 469B.118)
+# Forfeiture of tax credits; revocation of contractor certificate; inspection; effect of failure to allow inspection; collection (ORS 469B.118)
 
 ## At a glance
 
-ORS 469B.118 — Forfeiture of tax credits; revocation of contractor certificate; inspection; effect of failure to allow inspection; collection RENEWABLE ENERGY RESOURCES. Chapter 469B (Chapter 469B), 2025 Edition.
+ORS 469B.118 — Forfeiture of tax credits; revocation of contractor certificate; inspection; effect of failure to allow inspection; collection. Chapter 469B (Chapter 469B), 2025 Edition.
 
 ## Full text
 
@@ -82,7 +82,7 @@ ORS 469B.118 — Forfeiture of tax credits; revocation of contractor certificate
 
 (4) In order to obtain information necessary to verify eligibility and amount of the tax credit, the State Department of Energy or its representative may inspect an alternative energy device that has been purchased, constructed or installed. The inspection shall be made only with the consent of the owner of the dwelling. Failure to consent to the inspection is grounds for the forfeiture of any tax credit relief under ORS 316.116. The Department of Revenue shall proceed to collect any taxes due according to subsection
 
-(3) of this section. For electrical generating alternative energy devices, the State Department of Energy may obtain energy consumption records for the dwelling the device serves, for a 12-month period, in order to verify eligibility and amount of the tax credit. [Formerly 469.180; 2015 c.701 §33; 2019 c.483 §11] RENEWABLE ENERGY RESOURCES 
+(3) of this section. For electrical generating alternative energy devices, the State Department of Energy may obtain energy consumption records for the dwelling the device serves, for a 12-month period, in order to verify eligibility and amount of the tax credit. [Formerly 469.180; 2015 c.701 §33; 2019 c.483 §11]
 
 ## Provenance & change history
 

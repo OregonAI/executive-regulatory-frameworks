@@ -1,6 +1,6 @@
 ---
 id: ors-659a.033
-title: "Violation of ORS"
+title: "Violation of ORS 659A.030 by denying religious leave or prohibiting certain religious observances or practices; determination of reasonable accommodation"
 doc_type: statute
 citation: "ORS 659A.033"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Violation of ORS (ORS 659A.033)
+# Violation of ORS 659A.030 by denying religious leave or prohibiting certain religious observances or practices; determination of reasonable accommodation (ORS 659A.033)
 
 ## At a glance
 
-ORS 659A.033 — Violation of ORS. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.033 — Violation of ORS 659A.030 by denying religious leave or prohibiting certain religious observances or practices; determination of reasonable accommodation. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

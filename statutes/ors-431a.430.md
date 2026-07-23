@@ -1,6 +1,6 @@
 ---
 id: ors-431a.430
-title: "Air conditioner and air filter deployment program; eligibility; rules AUTOMATED EXTERNAL DEFIBRILLATORS"
+title: "Air conditioner and air filter deployment program; eligibility; rules"
 doc_type: statute
 citation: "ORS 431A.430"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Air conditioner and air filter deployment program; eligibility; rules AUTOMATED EXTERNAL DEFIBRILLATORS (ORS 431A.430)
+# Air conditioner and air filter deployment program; eligibility; rules (ORS 431A.430)
 
 ## At a glance
 
-ORS 431A.430 — Air conditioner and air filter deployment program; eligibility; rules AUTOMATED EXTERNAL DEFIBRILLATORS. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.430 — Air conditioner and air filter deployment program; eligibility; rules. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -59,7 +59,7 @@ ORS 431A.430 — Air conditioner and air filter deployment program; eligibility;
 
 (6) The Oregon Health Authority and any eligible distribution entity participating in the program are immune from civil liability for: (a) The functioning, safety or impact of any air conditioner or air filter distributed by the program. (b) Any heat-related health impacts to an individual using an air conditioner or air filter distributed by the program.
 
-(7) The Oregon Health Authority shall adopt rules to implement the program. [2022 c.86 §7; 2024 c.108 §1] AUTOMATED EXTERNAL DEFIBRILLATORS 
+(7) The Oregon Health Authority shall adopt rules to implement the program. [2022 c.86 §7; 2024 c.108 §1]
 
 ## Provenance & change history
 

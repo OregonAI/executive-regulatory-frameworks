@@ -1,6 +1,6 @@
 ---
 id: ors-286a.816
-title: "Definitions for ORS"
+title: "Definitions for ORS 286A.816 to"
 doc_type: statute
 citation: "ORS 286A.816"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-286a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 286A.816)
+# Definitions for ORS 286A.816 to (ORS 286A.816)
 
 ## At a glance
 
-ORS 286A.816 — Definitions for ORS. Chapter 286A (Chapter 286A), 2025 Edition.
+ORS 286A.816 — Definitions for ORS 286A.816 to. Chapter 286A (Chapter 286A), 2025 Edition.
 
 ## Full text
 

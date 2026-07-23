@@ -1,6 +1,6 @@
 ---
 id: ors-419b.550
-title: "Definitions for ORS"
+title: "Definitions for ORS 419B.550 to"
 doc_type: statute
 citation: "ORS 419B.550"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 419B.550)
+# Definitions for ORS 419B.550 to (ORS 419B.550)
 
 ## At a glance
 
-ORS 419B.550 — Definitions for ORS. Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.550 — Definitions for ORS 419B.550 to. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

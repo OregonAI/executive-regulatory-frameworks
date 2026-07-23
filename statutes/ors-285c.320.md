@@ -1,6 +1,6 @@
 ---
 id: ors-285c.320
-title: "Status of reservation enterprise zone and reservation partnership zone; sponsor RURAL RENEWABLE ENERGY DEVELOPMENT ZONES"
+title: "Status of reservation enterprise zone and reservation partnership zone; sponsor"
 doc_type: statute
 citation: "ORS 285C.320"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Status of reservation enterprise zone and reservation partnership zone; sponsor RURAL RENEWABLE ENERGY DEVELOPMENT ZONES (ORS 285C.320)
+# Status of reservation enterprise zone and reservation partnership zone; sponsor (ORS 285C.320)
 
 ## At a glance
 
-ORS 285C.320 — Status of reservation enterprise zone and reservation partnership zone; sponsor RURAL RENEWABLE ENERGY DEVELOPMENT ZONES. Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.320 — Status of reservation enterprise zone and reservation partnership zone; sponsor. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 
@@ -57,7 +57,7 @@ ORS 285C.320 — Status of reservation enterprise zone and reservation partnersh
 
 (3) Exemptions and tax credits available in connection with an enterprise zone are available in connection with a reservation enterprise zone or a reservation partnership zone. In order for property within a reservation enterprise zone or a reservation partnership zone to be exempt under ORS 285C.175, the business firm and property must meet the requirements applicable to business firms and property in an enterprise zone.
 
-(4) As used in this section, “business firm” has the meaning given that term in ORS 285C.050. [Formerly 285B.776; 2005 c.94 §11; 2009 c.743 §2; 2010 c.76 §25] RURAL RENEWABLE ENERGY DEVELOPMENT ZONES 
+(4) As used in this section, “business firm” has the meaning given that term in ORS 285C.050. [Formerly 285B.776; 2005 c.94 §11; 2009 c.743 §2; 2010 c.76 §25]
 
 ## Provenance & change history
 

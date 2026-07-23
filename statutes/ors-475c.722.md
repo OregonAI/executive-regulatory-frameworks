@@ -1,6 +1,6 @@
 ---
 id: ors-475c.722
-title: "Applicability of tax laws to ORS"
+title: "Applicability of tax laws to ORS 475C.670 to"
 doc_type: statute
 citation: "ORS 475C.722"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Applicability of tax laws to ORS (ORS 475C.722)
+# Applicability of tax laws to ORS 475C.670 to (ORS 475C.722)
 
 ## At a glance
 
-ORS 475C.722 — Applicability of tax laws to ORS. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.722 — Applicability of tax laws to ORS 475C.670 to. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-543a.810
-title: "Effect of amendment or repeal of law GENERAL PROVISIONS"
+title: "Effect of amendment or repeal of law"
 doc_type: statute
 citation: "ORS 543A.810"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-543a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors543A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Effect of amendment or repeal of law GENERAL PROVISIONS (ORS 543A.810)
+# Effect of amendment or repeal of law (ORS 543A.810)
 
 ## At a glance
 
-ORS 543A.810 — Effect of amendment or repeal of law GENERAL PROVISIONS. Chapter 543A (Chapter 543A), 2025 Edition.
+ORS 543A.810 — Effect of amendment or repeal of law. Chapter 543A (Chapter 543A), 2025 Edition.
 
 ## Full text
 

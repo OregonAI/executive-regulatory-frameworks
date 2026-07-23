@@ -1,6 +1,6 @@
 ---
 id: ors-279b.425
-title: "Review of prequalification and debarment decisions GENERAL PROVISIONS"
+title: "Review of prequalification and debarment decisions"
 doc_type: statute
 citation: "ORS 279B.425"
 authority_level: statute
@@ -39,11 +39,11 @@ tags: ["ors", "chapter-279b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279B.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Review of prequalification and debarment decisions GENERAL PROVISIONS (ORS 279B.425)
+# Review of prequalification and debarment decisions (ORS 279B.425)
 
 ## At a glance
 
-ORS 279B.425 — Review of prequalification and debarment decisions GENERAL PROVISIONS. Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
+ORS 279B.425 — Review of prequalification and debarment decisions. Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
 
 ## Full text
 

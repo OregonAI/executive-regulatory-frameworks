@@ -1,6 +1,6 @@
 ---
 id: ors-646a.327
-title: "Attorney fees for action under ORS"
+title: "Attorney fees for action under ORS 646A.325 MAILINGS AND DELIVERIES (Mail Agents)"
 doc_type: statute
 citation: "ORS 646A.327"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Attorney fees for action under ORS (ORS 646A.327)
+# Attorney fees for action under ORS 646A.325 MAILINGS AND DELIVERIES (Mail Agents) (ORS 646A.327)
 
 ## At a glance
 
-ORS 646A.327 — Attorney fees for action under ORS. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.327 — Attorney fees for action under ORS 646A.325 MAILINGS AND DELIVERIES (Mail Agents). Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-279c.800
-title: "Definitions for ORS"
+title: "Definitions for ORS 279C.800 to"
 doc_type: statute
 citation: "ORS 279C.800"
 authority_level: statute
@@ -55,11 +55,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Definitions for ORS (ORS 279C.800)
+# Definitions for ORS 279C.800 to (ORS 279C.800)
 
 ## At a glance
 
-ORS 279C.800 — Definitions for ORS. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.800 — Definitions for ORS 279C.800 to. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

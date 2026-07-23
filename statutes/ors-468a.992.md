@@ -1,6 +1,6 @@
 ---
 id: ors-468a.992
-title: "Civil penalties for open field burning violations AIR POLLUTION CONTROL"
+title: "Civil penalties for open field burning violations"
 doc_type: statute
 citation: "ORS 468A.992"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Civil penalties for open field burning violations AIR POLLUTION CONTROL (ORS 468A.992)
+# Civil penalties for open field burning violations (ORS 468A.992)
 
 ## At a glance
 
-ORS 468A.992 — Civil penalties for open field burning violations AIR POLLUTION CONTROL. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.992 — Civil penalties for open field burning violations. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 

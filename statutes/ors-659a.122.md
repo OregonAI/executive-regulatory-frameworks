@@ -1,6 +1,6 @@
 ---
 id: ors-659a.122
-title: "Definitions for ORS"
+title: "Definitions for ORS 659A.124,"
 doc_type: statute
 citation: "ORS 659A.122"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 659A.122)
+# Definitions for ORS 659A.124, (ORS 659A.122)
 
 ## At a glance
 
-ORS 659A.122 — Definitions for ORS. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.122 — Definitions for ORS 659A.124,. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

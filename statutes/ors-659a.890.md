@@ -1,6 +1,6 @@
 ---
 id: ors-659a.890
-title: "Civil action for violation of ORS"
+title: "Civil action for violation of ORS 659A.865"
 doc_type: statute
 citation: "ORS 659A.890"
 authority_level: statute
@@ -39,11 +39,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Civil action for violation of ORS (ORS 659A.890)
+# Civil action for violation of ORS 659A.865 (ORS 659A.890)
 
 ## At a glance
 
-ORS 659A.890 — Civil action for violation of ORS. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.890 — Civil action for violation of ORS 659A.865. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 
@@ -55,7 +55,7 @@ ORS 659A.890 — Civil action for violation of ORS. Chapter 659A (Chapter 659A),
 
 (3) for unlawful practices.
 
-(2) As a defense to any cause of action arising under this section, the defendant may plead and prove that either: (a) Subsequent to the defendant’s conduct on which the plaintiff bases the cause of action, the complaint under ORS 659A.820 has been dismissed by the Commissioner of the Bureau of Labor and Industries or deputy, or the court, either for want of evidence to proceed to a hearing or for lack of merit after such hearing; or (b) In the case of the sale of real property, defendant’s conduct giving rise to plaintiff’s cause of action was neither committed within the first two years after notice by the commissioner or deputy of the filing of the complaint under ORS 659A.820, nor within any extended period of time obtained at the request of respondent for disposition of the case. [Formerly 659.105] PENALTIES 
+(2) As a defense to any cause of action arising under this section, the defendant may plead and prove that either: (a) Subsequent to the defendant’s conduct on which the plaintiff bases the cause of action, the complaint under ORS 659A.820 has been dismissed by the Commissioner of the Bureau of Labor and Industries or deputy, or the court, either for want of evidence to proceed to a hearing or for lack of merit after such hearing; or (b) In the case of the sale of real property, defendant’s conduct giving rise to plaintiff’s cause of action was neither committed within the first two years after notice by the commissioner or deputy of the filing of the complaint under ORS 659A.820, nor within any extended period of time obtained at the request of respondent for disposition of the case. [Formerly 659.105]
 
 ## Provenance & change history
 

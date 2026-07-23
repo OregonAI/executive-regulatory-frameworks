@@ -1,6 +1,6 @@
 ---
 id: ors-419c.680
-title: "Curfew; parental responsibility; authority of political subdivisions; custody authorized GENERALLY"
+title: "Curfew; parental responsibility; authority of political subdivisions; custody authorized"
 doc_type: statute
 citation: "ORS 419C.680"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Curfew; parental responsibility; authority of political subdivisions; custody authorized GENERALLY (ORS 419C.680)
+# Curfew; parental responsibility; authority of political subdivisions; custody authorized (ORS 419C.680)
 
 ## At a glance
 
-ORS 419C.680 — Curfew; parental responsibility; authority of political subdivisions; custody authorized GENERALLY. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.680 — Curfew; parental responsibility; authority of political subdivisions; custody authorized. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 

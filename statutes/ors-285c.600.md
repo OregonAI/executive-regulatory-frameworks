@@ -1,6 +1,6 @@
 ---
 id: ors-285c.600
-title: "Definitions for ORS"
+title: "Definitions for ORS 285C.600 to"
 doc_type: statute
 citation: "ORS 285C.600"
 authority_level: statute
@@ -50,11 +50,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 285C.600)
+# Definitions for ORS 285C.600 to (ORS 285C.600)
 
 ## At a glance
 
-ORS 285C.600 — Definitions for ORS. Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.600 — Definitions for ORS 285C.600 to. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 

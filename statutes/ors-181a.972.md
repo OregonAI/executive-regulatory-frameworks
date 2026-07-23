@@ -1,6 +1,6 @@
 ---
 id: ors-181a.972
-title: "Requirements for special campus security providers and private security providers on campuses of institutions of higher education PENALTIES"
+title: "Requirements for special campus security providers and private security providers on campuses of institutions of higher education"
 doc_type: statute
 citation: "ORS 181A.972"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Requirements for special campus security providers and private security providers on campuses of institutions of higher education PENALTIES (ORS 181A.972)
+# Requirements for special campus security providers and private security providers on campuses of institutions of higher education (ORS 181A.972)
 
 ## At a glance
 
-ORS 181A.972 — Requirements for special campus security providers and private security providers on campuses of institutions of higher education PENALTIES. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.972 — Requirements for special campus security providers and private security providers on campuses of institutions of higher education. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 
@@ -57,7 +57,7 @@ ORS 181A.972 — Requirements for special campus security providers and private 
 
 (7) Private security professionals and special campus security officers commissioned under ORS 352.118 who provide security services on the campus of an institution of higher education do not have stop and frisk authority as set forth in ORS 131.605 to 131.625.
 
-(8) If an institution of higher education contracts with a private security provider to provide temporary security for an event, the terms of the contract must require the private security provider to comply with all relevant statutes and rules governing the duties of contracted private security providers. [Formerly 181A.912; 2025 c.53 §1] PENALTIES 
+(8) If an institution of higher education contracts with a private security provider to provide temporary security for an event, the terms of the contract must require the private security provider to comply with all relevant statutes and rules governing the duties of contracted private security providers. [Formerly 181A.912; 2025 c.53 §1]
 
 ## Provenance & change history
 

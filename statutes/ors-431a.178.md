@@ -1,6 +1,6 @@
 ---
 id: ors-431a.178
-title: "Civil penalty for violation of ORS"
+title: "Civil penalty for violation of ORS 431A.175, other law, rule or regulation governing tobacco products or inhalant delivery systems"
 doc_type: statute
 citation: "ORS 431A.178"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Civil penalty for violation of ORS (ORS 431A.178)
+# Civil penalty for violation of ORS 431A.175, other law, rule or regulation governing tobacco products or inhalant delivery systems (ORS 431A.178)
 
 ## At a glance
 
-ORS 431A.178 — Civil penalty for violation of ORS. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.178 — Civil penalty for violation of ORS 431A.175, other law, rule or regulation governing tobacco products or inhalant delivery systems. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-329a.460
-title: "Separate sleeping quarters not required for certain persons providing child care or babysitting services; exemption from age group segregation requirements EMPL"
+title: "Separate sleeping quarters not required for certain persons providing child care or babysitting services; exemption from age group segregation requirements"
 doc_type: statute
 citation: "ORS 329A.460"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-329a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Separate sleeping quarters not required for certain persons providing child care or babysitting services; exemption from age group segregation requirements EMPL (ORS 329A.460)
+# Separate sleeping quarters not required for certain persons providing child care or babysitting services; exemption from age group segregation requirements (ORS 329A.460)
 
 ## At a glance
 
-ORS 329A.460 — Separate sleeping quarters not required for certain persons providing child care or babysitting services; exemption from age group segregation requirements EMPL. Chapter 329A (Chapter 329A), 2025 Edition.
+ORS 329A.460 — Separate sleeping quarters not required for certain persons providing child care or babysitting services; exemption from age group segregation requirements. Chapter 329A (Chapter 329A), 2025 Edition.
 
 ## Full text
 
-329A.460 Separate sleeping quarters not required for certain persons providing child care or babysitting services; exemption from age group segregation requirements. Notwithstanding any other provision of law, children of any person providing babysitting or child care services within the person’s own home shall not be required to sleep in any area other than their normal sleeping quarters. Such children related by blood within the first degree of consanguinity shall not be segregated by age grouping while in the care of a person providing babysitting or child care services if the parents request exemption from the operation of any statute or rule requiring such segregation or separation by age. [Formerly 657A.460] 329A.490 [Formerly 657A.490; repealed by 2021 c.631 §63] 329A.493 [Formerly 657A.493; repealed by 2021 c.631 §63] EMPLOYMENT RELATED DAY CARE 
+329A.460 Separate sleeping quarters not required for certain persons providing child care or babysitting services; exemption from age group segregation requirements. Notwithstanding any other provision of law, children of any person providing babysitting or child care services within the person’s own home shall not be required to sleep in any area other than their normal sleeping quarters. Such children related by blood within the first degree of consanguinity shall not be segregated by age grouping while in the care of a person providing babysitting or child care services if the parents request exemption from the operation of any statute or rule requiring such segregation or separation by age. [Formerly 657A.460] 329A.490 [Formerly 657A.490; repealed by 2021 c.631 §63] 329A.493 [Formerly 657A.493; repealed by 2021 c.631 §63]
 
 ## Provenance & change history
 

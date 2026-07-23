@@ -1,6 +1,6 @@
 ---
 id: ors-431a.349
-title: "Civil penalty for violation of ORS"
+title: "Civil penalty for violation of ORS 431A.340 or"
 doc_type: statute
 citation: "ORS 431A.349"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Civil penalty for violation of ORS (ORS 431A.349)
+# Civil penalty for violation of ORS 431A.340 or (ORS 431A.349)
 
 ## At a glance
 
-ORS 431A.349 — Civil penalty for violation of ORS. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.349 — Civil penalty for violation of ORS 431A.340 or. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 

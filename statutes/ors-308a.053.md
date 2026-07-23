@@ -1,6 +1,6 @@
 ---
 id: ors-308a.053
-title: "Definitions for ORS"
+title: "Definitions for ORS 308A.050 to"
 doc_type: statute
 citation: "ORS 308A.053"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-308a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors308A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 308A.053)
+# Definitions for ORS 308A.050 to (ORS 308A.053)
 
 ## At a glance
 
-ORS 308A.053 — Definitions for ORS. Chapter 308A (Chapter 308A), 2025 Edition.
+ORS 308A.053 — Definitions for ORS 308A.050 to. Chapter 308A (Chapter 308A), 2025 Edition.
 
 ## Full text
 

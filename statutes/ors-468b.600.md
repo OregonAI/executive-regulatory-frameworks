@@ -1,6 +1,6 @@
 ---
 id: ors-468b.600
-title: "Harmful algal bloom monitoring and response strategy; data; determination of causes WATER REUSE"
+title: "Harmful algal bloom monitoring and response strategy; data; determination of causes"
 doc_type: statute
 citation: "ORS 468B.600"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Harmful algal bloom monitoring and response strategy; data; determination of causes WATER REUSE (ORS 468B.600)
+# Harmful algal bloom monitoring and response strategy; data; determination of causes (ORS 468B.600)
 
 ## At a glance
 
-ORS 468B.600 — Harmful algal bloom monitoring and response strategy; data; determination of causes WATER REUSE. Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.600 — Harmful algal bloom monitoring and response strategy; data; determination of causes. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 
@@ -49,7 +49,7 @@ ORS 468B.600 — Harmful algal bloom monitoring and response strategy; data; det
 
 (1) The Department of Environmental Quality, in coordination with the Oregon Health Authority, shall: (a) Develop and maintain a coordinated state agency harmful algal bloom monitoring and response strategy. (b) Develop a system for the regular monitoring and testing of water bodies determined to be susceptible to harmful algal blooms or that are downstream of or influenced by water bodies that are susceptible to harmful algal blooms. (c) Produce timely and high-quality data that allow the authority to determine the level of risk of harm or injury to public health by the occurrence of harmful algal blooms. (d) Maintain a publicly accessible clearinghouse or database of water quality samples collected to characterize freshwater harmful algal blooms. (e) Identify sources of pollutants that contribute to the occurrences of harmful algal blooms. (f) Develop and implement strategies for reducing pollutants that contribute to the occurrences of harmful algal blooms and the frequency and severity of harmful algal blooms. (g) Monitor and evaluate the effectiveness of strategies implemented for reducing pollutants that contribute to the occurrences of harmful algal blooms. (2)(a) As part of the state agency harmful algal bloom monitoring and response strategy developed by the department under subsection
 
-(1) of this section, the department shall make efforts to determine the causes of harmful algal blooms and to identify any point sources or nonpoint sources that contribute to the susceptibility of specific bodies of water to harmful algal blooms. (b) The department shall work with persons to develop pollution reduction plans for point sources and nonpoint sources identified under paragraph (a) of this subsection. [2023 c.442 §85] WATER REUSE 
+(1) of this section, the department shall make efforts to determine the causes of harmful algal blooms and to identify any point sources or nonpoint sources that contribute to the susceptibility of specific bodies of water to harmful algal blooms. (b) The department shall work with persons to develop pollution reduction plans for point sources and nonpoint sources identified under paragraph (a) of this subsection. [2023 c.442 §85]
 
 ## Provenance & change history
 

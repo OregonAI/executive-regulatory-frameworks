@@ -1,6 +1,6 @@
 ---
 id: ors-419c.542
-title: "Hearings before Psychiatric Security Review Board LEGAL CUSTODIAN OF YOUTH OR ADJUDICATED YOUTH"
+title: "Hearings before Psychiatric Security Review Board"
 doc_type: statute
 citation: "ORS 419C.542"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Hearings before Psychiatric Security Review Board LEGAL CUSTODIAN OF YOUTH OR ADJUDICATED YOUTH (ORS 419C.542)
+# Hearings before Psychiatric Security Review Board (ORS 419C.542)
 
 ## At a glance
 
-ORS 419C.542 — Hearings before Psychiatric Security Review Board LEGAL CUSTODIAN OF YOUTH OR ADJUDICATED YOUTH. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.542 — Hearings before Psychiatric Security Review Board. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 
@@ -61,7 +61,7 @@ ORS 419C.542 — Hearings before Psychiatric Security Review Board LEGAL CUSTODI
 
 (4) Notwithstanding the fact that a young person who is brought before the board under subsection
 
-(3) of this section continues to have a serious mental condition, the board may discharge the young person if the young person did not exhibit behaviors that presented a substantial danger to others during the period of conditional release and no longer requires supervision by the board. [2005 c.843 §18; 2009 c.595 §374; 2025 c.56 §10] 419C.544 [2005 c.843 §19; repealed by 2025 c.56 §11] LEGAL CUSTODIAN OF YOUTH OR ADJUDICATED YOUTH 
+(3) of this section continues to have a serious mental condition, the board may discharge the young person if the young person did not exhibit behaviors that presented a substantial danger to others during the period of conditional release and no longer requires supervision by the board. [2005 c.843 §18; 2009 c.595 §374; 2025 c.56 §10] 419C.544 [2005 c.843 §19; repealed by 2025 c.56 §11]
 
 ## Provenance & change history
 

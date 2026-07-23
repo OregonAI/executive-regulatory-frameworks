@@ -1,6 +1,6 @@
 ---
 id: ors-469a.300
-title: "Hydrogen power stations; compliance with renewable portfolio standard; cost recovery for prudent energy investments REDUCTION OF GREENHOUSE GAS EMISSIONS ASSOCI"
+title: "Hydrogen power stations; compliance with renewable portfolio standard; cost recovery for prudent energy investments"
 doc_type: statute
 citation: "ORS 469A.300"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-469a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Hydrogen power stations; compliance with renewable portfolio standard; cost recovery for prudent energy investments REDUCTION OF GREENHOUSE GAS EMISSIONS ASSOCI (ORS 469A.300)
+# Hydrogen power stations; compliance with renewable portfolio standard; cost recovery for prudent energy investments (ORS 469A.300)
 
 ## At a glance
 
-ORS 469A.300 — Hydrogen power stations; compliance with renewable portfolio standard; cost recovery for prudent energy investments REDUCTION OF GREENHOUSE GAS EMISSIONS ASSOCI. Chapter 469A (Chapter 469A), 2025 Edition.
+ORS 469A.300 — Hydrogen power stations; compliance with renewable portfolio standard; cost recovery for prudent energy investments. Chapter 469A (Chapter 469A), 2025 Edition.
 
 ## Full text
 
@@ -53,7 +53,7 @@ ORS 469A.300 — Hydrogen power stations; compliance with renewable portfolio st
 
 (3) Energy systems designed to use anhydrous ammonia generated from renewable energy sources as a fuel to generate electricity; and
 
-(4) Electronic control and management systems designed to effectively integrate hydrogen power station processes into the electricity transmission grid. [2010 c.17 §2] REDUCTION OF GREENHOUSE GAS EMISSIONS ASSOCIATED WITH ELECTRICITY SOLD 
+(4) Electronic control and management systems designed to effectively integrate hydrogen power station processes into the electricity transmission grid. [2010 c.17 §2]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-238a.050
-title: "Oregon Public Service Retirement Plan part of Public Employees Retirement System PARTICIPATION BY PUBLIC EMPLOYERS"
+title: "Oregon Public Service Retirement Plan part of Public Employees Retirement System"
 doc_type: statute
 citation: "ORS 238A.050"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon Public Service Retirement Plan part of Public Employees Retirement System PARTICIPATION BY PUBLIC EMPLOYERS (ORS 238A.050)
+# Oregon Public Service Retirement Plan part of Public Employees Retirement System (ORS 238A.050)
 
 ## At a glance
 
-ORS 238A.050 — Oregon Public Service Retirement Plan part of Public Employees Retirement System PARTICIPATION BY PUBLIC EMPLOYERS. Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.050 — Oregon Public Service Retirement Plan part of Public Employees Retirement System. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 
@@ -64,7 +64,7 @@ ORS 238A.050 — Oregon Public Service Retirement Plan part of Public Employees 
 
 (4) Investment of the assets of the Oregon Public Service Retirement Plan is not subject to the limitations imposed by ORS 293.726 (6).
 
-(5) The board may contract with a private provider for the administration of the individual account program. The board is not subject to the provisions of ORS chapter 279A or 279B in awarding a contract under the provisions of this subsection. The board shall establish procedures for inviting proposals and awarding contracts under this subsection. [2003 c.733 §§3,3a; 2005 c.808 §§15,16; 2010 c.1 §5; 2013 s.s. c.3 §5] PARTICIPATION BY PUBLIC EMPLOYERS 
+(5) The board may contract with a private provider for the administration of the individual account program. The board is not subject to the provisions of ORS chapter 279A or 279B in awarding a contract under the provisions of this subsection. The board shall establish procedures for inviting proposals and awarding contracts under this subsection. [2003 c.733 §§3,3a; 2005 c.808 §§15,16; 2010 c.1 §5; 2013 s.s. c.3 §5]
 
 ## Provenance & change history
 

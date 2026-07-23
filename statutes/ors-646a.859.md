@@ -1,6 +1,6 @@
 ---
 id: ors-646a.859
-title: "Attorney General enforcement COSMETICS TESTED ON ANIMALS"
+title: "Attorney General enforcement"
 doc_type: statute
 citation: "ORS 646A.859"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Attorney General enforcement COSMETICS TESTED ON ANIMALS (ORS 646A.859)
+# Attorney General enforcement (ORS 646A.859)
 
 ## At a glance
 
-ORS 646A.859 — Attorney General enforcement COSMETICS TESTED ON ANIMALS. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.859 — Attorney General enforcement. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-197a.470
-title: "Final action on affordable housing application; affordable housing developed by religious corporation SOUTHWEST CORRIDOR MAX LIGHT RAIL PROJECT"
+title: "Final action on affordable housing application; affordable housing developed by religious corporation"
 doc_type: statute
 citation: "ORS 197A.470"
 authority_level: statute
@@ -48,11 +48,11 @@ tags: ["ors", "chapter-197a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Final action on affordable housing application; affordable housing developed by religious corporation SOUTHWEST CORRIDOR MAX LIGHT RAIL PROJECT (ORS 197A.470)
+# Final action on affordable housing application; affordable housing developed by religious corporation (ORS 197A.470)
 
 ## At a glance
 
-ORS 197A.470 — Final action on affordable housing application; affordable housing developed by religious corporation SOUTHWEST CORRIDOR MAX LIGHT RAIL PROJECT. Chapter 197A (Chapter 197A), 2025 Edition.
+ORS 197A.470 — Final action on affordable housing application; affordable housing developed by religious corporation. Chapter 197A (Chapter 197A), 2025 Edition.
 
 ## Full text
 

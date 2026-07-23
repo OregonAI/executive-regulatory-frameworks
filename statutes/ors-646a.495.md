@@ -1,6 +1,6 @@
 ---
 id: ors-646a.495
-title: "Owner designee; waiver of authorization requirement INFANT CRIB SAFETY"
+title: "Owner designee; waiver of authorization requirement"
 doc_type: statute
 citation: "ORS 646A.495"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Owner designee; waiver of authorization requirement INFANT CRIB SAFETY (ORS 646A.495)
+# Owner designee; waiver of authorization requirement (ORS 646A.495)
 
 ## At a glance
 
-ORS 646A.495 — Owner designee; waiver of authorization requirement INFANT CRIB SAFETY. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.495 — Owner designee; waiver of authorization requirement. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 
@@ -55,7 +55,7 @@ ORS 646A.495 — Owner designee; waiver of authorization requirement INFANT CRIB
 
 (3) An owner may not designate a motor vehicle repair shop or a principal, agent or employee of a motor vehicle repair shop as the owner’s designee.
 
-(4) For purposes of this section, a statement is conspicuous if a reasonable person reading the separate document should have noticed the statement. [2009 c.133 §5] INFANT CRIB SAFETY 
+(4) For purposes of this section, a statement is conspicuous if a reasonable person reading the separate document should have noticed the statement. [2009 c.133 §5]
 
 ## Provenance & change history
 

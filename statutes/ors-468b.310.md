@@ -1,6 +1,6 @@
 ---
 id: ors-468b.310
-title: "Liability for violation of ORS"
+title: "Liability for violation of ORS 468B.305; exceptions"
 doc_type: statute
 citation: "ORS 468B.310"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Liability for violation of ORS (ORS 468B.310)
+# Liability for violation of ORS 468B.305; exceptions (ORS 468B.310)
 
 ## At a glance
 
-ORS 468B.310 — Liability for violation of ORS. Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.310 — Liability for violation of ORS 468B.305; exceptions. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 

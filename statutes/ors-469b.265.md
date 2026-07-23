@@ -1,6 +1,6 @@
 ---
 id: ors-469b.265
-title: "Policies and procedures; standards for single renewable energy production system; rules ENERGY CONSERVATION PROJECTS"
+title: "Policies and procedures; standards for single renewable energy production system; rules"
 doc_type: statute
 citation: "ORS 469B.265"
 authority_level: statute
@@ -48,15 +48,15 @@ tags: ["ors", "chapter-469b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Policies and procedures; standards for single renewable energy production system; rules ENERGY CONSERVATION PROJECTS (ORS 469B.265)
+# Policies and procedures; standards for single renewable energy production system; rules (ORS 469B.265)
 
 ## At a glance
 
-ORS 469B.265 — Policies and procedures; standards for single renewable energy production system; rules ENERGY CONSERVATION PROJECTS. Chapter 469B (Chapter 469B), 2025 Edition.
+ORS 469B.265 — Policies and procedures; standards for single renewable energy production system; rules. Chapter 469B (Chapter 469B), 2025 Edition.
 
 ## Full text
 
-469B.265 Policies and procedures; standards for single renewable energy production system; rules. The State Department of Energy shall by rule establish policies and procedures for the administration and enforcement of the provisions of ORS 315.326, 315.329 and 469B.250 to 469B.265, including standards for what constitutes a single renewable energy production system. [2011 c.730 §33] ENERGY CONSERVATION PROJECTS 
+469B.265 Policies and procedures; standards for single renewable energy production system; rules. The State Department of Energy shall by rule establish policies and procedures for the administration and enforcement of the provisions of ORS 315.326, 315.329 and 469B.250 to 469B.265, including standards for what constitutes a single renewable energy production system. [2011 c.730 §33]
 
 ## Provenance & change history
 

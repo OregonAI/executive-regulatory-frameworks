@@ -1,6 +1,6 @@
 ---
 id: ors-329a.750
-title: "Department of Early Learning and Care responsible for administering federal funds PENALTIES"
+title: "Department of Early Learning and Care responsible for administering federal funds"
 doc_type: statute
 citation: "ORS 329A.750"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-329a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Department of Early Learning and Care responsible for administering federal funds PENALTIES (ORS 329A.750)
+# Department of Early Learning and Care responsible for administering federal funds (ORS 329A.750)
 
 ## At a glance
 
-ORS 329A.750 — Department of Early Learning and Care responsible for administering federal funds PENALTIES. Chapter 329A (Chapter 329A), 2025 Edition.
+ORS 329A.750 — Department of Early Learning and Care responsible for administering federal funds. Chapter 329A (Chapter 329A), 2025 Edition.
 
 ## Full text
 

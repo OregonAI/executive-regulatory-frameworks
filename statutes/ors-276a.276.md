@@ -55,7 +55,7 @@ ORS 276A.276 — Ability to offer government services through portal; portal pro
 
 (4) The State Chief Information Officer may adopt rules to implement the provisions of this section.
 
-(5) Not later than the beginning of each odd-numbered year regular legislative session, the State Chief Information Officer shall prepare and submit to the Legislative Assembly a report in the manner provided in ORS 192.245 that summarizes the State Chief Information Officer’s activities under the provisions of this section. [Formerly 182.132] INFORMATION SECURITY 
+(5) Not later than the beginning of each odd-numbered year regular legislative session, the State Chief Information Officer shall prepare and submit to the Legislative Assembly a report in the manner provided in ORS 192.245 that summarizes the State Chief Information Officer’s activities under the provisions of this section. [Formerly 182.132]
 
 ## Provenance & change history
 

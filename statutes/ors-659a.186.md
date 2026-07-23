@@ -1,6 +1,6 @@
 ---
 id: ors-659a.186
-title: "Exclusivity of provisions; construction; concurrent leave LEAVE TO ATTEND CRIMINAL PROCEEDING"
+title: "Exclusivity of provisions; construction; concurrent leave"
 doc_type: statute
 citation: "ORS 659A.186"
 authority_level: statute
@@ -56,11 +56,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Exclusivity of provisions; construction; concurrent leave LEAVE TO ATTEND CRIMINAL PROCEEDING (ORS 659A.186)
+# Exclusivity of provisions; construction; concurrent leave (ORS 659A.186)
 
 ## At a glance
 
-ORS 659A.186 — Exclusivity of provisions; construction; concurrent leave LEAVE TO ATTEND CRIMINAL PROCEEDING. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.186 — Exclusivity of provisions; construction; concurrent leave. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 
@@ -70,7 +70,7 @@ ORS 659A.186 — Exclusivity of provisions; construction; concurrent leave LEAVE
 
 (1) and to which the employee may be entitled under any agreement between the employer and the employee, collective bargaining agreement or employer policy.
 
-(2) ORS 659A.150 to 659A.186 shall be construed to the extent possible in a manner that is consistent with any similar provisions of the federal Family and Medical Leave Act of 1993. If family leave taken under ORS 659A.150 to 659A.186 qualifies as protected leave pursuant to the federal Family and Medical Leave Act of 1993 (P.L. 103-3), family leave taken under ORS 659A.150 to 659A.186 must be taken concurrently with, and not in addition to, any leave taken under the federal Family and Medical Leave Act of 1993 (P.L. 103-3). [Formerly 659.494; 2013 c.384 §6; 2023 c.203 §8; 2024 c.20 §19] LEAVE TO ATTEND CRIMINAL PROCEEDING 
+(2) ORS 659A.150 to 659A.186 shall be construed to the extent possible in a manner that is consistent with any similar provisions of the federal Family and Medical Leave Act of 1993. If family leave taken under ORS 659A.150 to 659A.186 qualifies as protected leave pursuant to the federal Family and Medical Leave Act of 1993 (P.L. 103-3), family leave taken under ORS 659A.150 to 659A.186 must be taken concurrently with, and not in addition to, any leave taken under the federal Family and Medical Leave Act of 1993 (P.L. 103-3). [Formerly 659.494; 2013 c.384 §6; 2023 c.203 §8; 2024 c.20 §19]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-468a.820
-title: "Community emission reduction credit banks; establishment; rules; credits COMMUNITY SMOKE RESPONSE"
+title: "Community emission reduction credit banks; establishment; rules; credits"
 doc_type: statute
 citation: "ORS 468A.820"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Community emission reduction credit banks; establishment; rules; credits COMMUNITY SMOKE RESPONSE (ORS 468A.820)
+# Community emission reduction credit banks; establishment; rules; credits (ORS 468A.820)
 
 ## At a glance
 
-ORS 468A.820 — Community emission reduction credit banks; establishment; rules; credits COMMUNITY SMOKE RESPONSE. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.820 — Community emission reduction credit banks; establishment; rules; credits. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-468a.298
-title: "Community Climate Investment Oversight Account FEDERAL OPERATING PERMIT PROGRAM"
+title: "Community Climate Investment Oversight Account"
 doc_type: statute
 citation: "ORS 468A.298"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Community Climate Investment Oversight Account FEDERAL OPERATING PERMIT PROGRAM (ORS 468A.298)
+# Community Climate Investment Oversight Account (ORS 468A.298)
 
 ## At a glance
 
-ORS 468A.298 — Community Climate Investment Oversight Account FEDERAL OPERATING PERMIT PROGRAM. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.298 — Community Climate Investment Oversight Account. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 
-468A.298 Community Climate Investment Oversight Account. The Community Climate Investment Oversight Account is established, separate and distinct from the General Fund. The account consists of moneys deposited into the account under ORS 468A.295 and moneys transferred or appropriated to the account by the Legislative Assembly. Interest earned by the account shall be credited to the account. All moneys in the account are continuously appropriated to the Department of Environmental Quality and may be used only to pay the costs of administering and overseeing those portions of the climate protection program related to community climate investments. [2023 c.442 §81] FEDERAL OPERATING PERMIT PROGRAM 
+468A.298 Community Climate Investment Oversight Account. The Community Climate Investment Oversight Account is established, separate and distinct from the General Fund. The account consists of moneys deposited into the account under ORS 468A.295 and moneys transferred or appropriated to the account by the Legislative Assembly. Interest earned by the account shall be credited to the account. All moneys in the account are continuously appropriated to the Department of Environmental Quality and may be used only to pay the costs of administering and overseeing those portions of the climate protection program related to community climate investments. [2023 c.442 §81]
 
 ## Provenance & change history
 

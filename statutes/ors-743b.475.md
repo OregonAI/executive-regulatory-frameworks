@@ -1,6 +1,6 @@
 ---
 id: ors-743b.475
-title: "Guidelines for coordination of benefits; rules (Temporary provisions relating to primary care payment collaborative are compiled as notes following ORS"
+title: "Guidelines for coordination of benefits; rules (Temporary provisions relating to primary care payment collaborative are compiled as notes following ORS 743B.475"
 doc_type: statute
 citation: "ORS 743B.475"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Guidelines for coordination of benefits; rules (Temporary provisions relating to primary care payment collaborative are compiled as notes following ORS (ORS 743B.475)
+# Guidelines for coordination of benefits; rules (Temporary provisions relating to primary care payment collaborative are compiled as notes following ORS 743B.475 (ORS 743B.475)
 
 ## At a glance
 
-ORS 743B.475 — Guidelines for coordination of benefits; rules (Temporary provisions relating to primary care payment collaborative are compiled as notes following ORS. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.475 — Guidelines for coordination of benefits; rules (Temporary provisions relating to primary care payment collaborative are compiled as notes following ORS 743B.475. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 
@@ -96,7 +96,7 @@ ORS 743B.475 — Guidelines for coordination of benefits; rules (Temporary provi
 
 (2) Section 3, chapter 489, Oregon Laws 2017, is repealed on December 31, 2027.
 
-(3) The amendments to section 8 of this 2022 Act [743B.221] by section 14 of this 2022 Act become operative on December 31, 2027. [2015 c.575 §5; 2016 c.26 §8; 2017 c.489 §19; 2022 c.37 §15] PROVIDER PANELS 
+(3) The amendments to section 8 of this 2022 Act [743B.221] by section 14 of this 2022 Act become operative on December 31, 2027. [2015 c.575 §5; 2016 c.26 §8; 2017 c.489 §19; 2022 c.37 §15]
 
 ## Provenance & change history
 

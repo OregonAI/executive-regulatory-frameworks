@@ -1,6 +1,6 @@
 ---
 id: ors-419c.109
-title: "Initial disposition of youth taken into custody DETENTION"
+title: "Initial disposition of youth taken into custody"
 doc_type: statute
 citation: "ORS 419C.109"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Initial disposition of youth taken into custody DETENTION (ORS 419C.109)
+# Initial disposition of youth taken into custody (ORS 419C.109)
 
 ## At a glance
 
-ORS 419C.109 — Initial disposition of youth taken into custody DETENTION. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.109 — Initial disposition of youth taken into custody. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 
@@ -59,7 +59,7 @@ ORS 419C.109 — Initial disposition of youth taken into custody DETENTION. Chap
 
 (3) and 419C.103
 
-(2) and a petition is filed under ORS 419C.005 alleging that the youth, while in or on a public building or court facility within the last 120 days, possessed a firearm or destructive device in violation of ORS 166.250, 166.370 or 166.382, the court shall determine the youth’s initial disposition at a hearing conducted pursuant to ORS 419C.145. The parties to the hearing are the youth, the juvenile department and the state, represented by the district attorney. (b) The court shall inform the youth: (A) Of the youth’s rights, including the right to be represented by counsel and the right to remain silent; and (B) Of the allegations against the youth. (c) The court shall make a determination under ORS 419C.145 whether the youth should remain in detention pending adjudication on the merits. The court may order that the hearing be continued and that the youth remain in detention for a reasonable period of time not to exceed seven days if the court finds: (A) That additional information concerning the youth is necessary to aid the court in making the determination under ORS 419C.145; and (B) There is probable cause to believe that the youth, while in or on a public building or court facility within the last 120 days, possessed a firearm or destructive device in violation of ORS 166.250, 166.370 or 166.382. (d) If the court orders that the hearing be continued and that the youth remain in detention under paragraph (c) of this subsection, in addition to and not in lieu of any other order the court may make, the court may order a mental health assessment or screening of the youth. (e) If the court determines that the youth should not be detained pending adjudication on the merits, the court may order any other preadjudication disposition authorized. [1993 c.33 §169; 1993 c.546 §67; 1995 c.422 §73d; 1999 c.577 §6; 1999 c.1095 §16] DETENTION 
+(2) and a petition is filed under ORS 419C.005 alleging that the youth, while in or on a public building or court facility within the last 120 days, possessed a firearm or destructive device in violation of ORS 166.250, 166.370 or 166.382, the court shall determine the youth’s initial disposition at a hearing conducted pursuant to ORS 419C.145. The parties to the hearing are the youth, the juvenile department and the state, represented by the district attorney. (b) The court shall inform the youth: (A) Of the youth’s rights, including the right to be represented by counsel and the right to remain silent; and (B) Of the allegations against the youth. (c) The court shall make a determination under ORS 419C.145 whether the youth should remain in detention pending adjudication on the merits. The court may order that the hearing be continued and that the youth remain in detention for a reasonable period of time not to exceed seven days if the court finds: (A) That additional information concerning the youth is necessary to aid the court in making the determination under ORS 419C.145; and (B) There is probable cause to believe that the youth, while in or on a public building or court facility within the last 120 days, possessed a firearm or destructive device in violation of ORS 166.250, 166.370 or 166.382. (d) If the court orders that the hearing be continued and that the youth remain in detention under paragraph (c) of this subsection, in addition to and not in lieu of any other order the court may make, the court may order a mental health assessment or screening of the youth. (e) If the court determines that the youth should not be detained pending adjudication on the merits, the court may order any other preadjudication disposition authorized. [1993 c.33 §169; 1993 c.546 §67; 1995 c.422 §73d; 1999 c.577 §6; 1999 c.1095 §16]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-163a.210
-title: "Provision of records by Oregon Youth Authority and juvenile department RELEASE OF INFORMATION"
+title: "Provision of records by Oregon Youth Authority and juvenile department"
 doc_type: statute
 citation: "ORS 163A.210"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-163a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors163A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Provision of records by Oregon Youth Authority and juvenile department RELEASE OF INFORMATION (ORS 163A.210)
+# Provision of records by Oregon Youth Authority and juvenile department (ORS 163A.210)
 
 ## At a glance
 
-ORS 163A.210 — Provision of records by Oregon Youth Authority and juvenile department RELEASE OF INFORMATION. Chapter 163A (Chapter 163A), 2025 Edition.
+ORS 163A.210 — Provision of records by Oregon Youth Authority and juvenile department. Chapter 163A (Chapter 163A), 2025 Edition.
 
 ## Full text
 

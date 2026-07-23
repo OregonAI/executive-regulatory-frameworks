@@ -1,6 +1,6 @@
 ---
 id: ors-286a.792
-title: "Payment of bond-related costs SCHOOL CAPITAL MATCHING BONDS"
+title: "Payment of bond-related costs"
 doc_type: statute
 citation: "ORS 286A.792"
 authority_level: statute
@@ -42,15 +42,15 @@ tags: ["ors", "chapter-286a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Payment of bond-related costs SCHOOL CAPITAL MATCHING BONDS (ORS 286A.792)
+# Payment of bond-related costs (ORS 286A.792)
 
 ## At a glance
 
-ORS 286A.792 — Payment of bond-related costs SCHOOL CAPITAL MATCHING BONDS. Chapter 286A (Chapter 286A), 2025 Edition.
+ORS 286A.792 — Payment of bond-related costs. Chapter 286A (Chapter 286A), 2025 Edition.
 
 ## Full text
 
-286A.792 Payment of bond-related costs. For each biennium in which Article XI-N bonds will be outstanding, the Oregon Department of Administrative Services shall include in the Governor’s budget an amount that, when added to the amount on deposit in the Article XI-N Bond Fund and the Article XI-N Bond Administration Fund, is sufficient to pay the bond-related costs that are scheduled to come due in the biennium. [Formerly 286.792; 2016 c.117 §50] SCHOOL CAPITAL MATCHING BONDS 
+286A.792 Payment of bond-related costs. For each biennium in which Article XI-N bonds will be outstanding, the Oregon Department of Administrative Services shall include in the Governor’s budget an amount that, when added to the amount on deposit in the Article XI-N Bond Fund and the Article XI-N Bond Administration Fund, is sufficient to pay the bond-related costs that are scheduled to come due in the biennium. [Formerly 286.792; 2016 c.117 §50]
 
 ## Provenance & change history
 

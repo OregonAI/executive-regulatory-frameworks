@@ -1,6 +1,6 @@
 ---
 id: ors-459a.754
-title: "Bottle Bill Fund CHECKOUT BAGS"
+title: "Bottle Bill Fund"
 doc_type: statute
 citation: "ORS 459A.754"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Bottle Bill Fund CHECKOUT BAGS (ORS 459A.754)
+# Bottle Bill Fund (ORS 459A.754)
 
 ## At a glance
 
-ORS 459A.754 — Bottle Bill Fund CHECKOUT BAGS. Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.754 — Bottle Bill Fund. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 
-459A.754 Bottle Bill Fund. The Bottle Bill Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Bottle Bill Fund shall be credited to the fund. Moneys in the fund are continuously appropriated to the Oregon Liquor and Cannabis Commission and may be used to pay the costs of the commission in carrying out the duties of the commission under ORS 459A.700 to 459A.754. [Formerly 459A.744] ] CHECKOUT BAGS 
+459A.754 Bottle Bill Fund. The Bottle Bill Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Bottle Bill Fund shall be credited to the fund. Moneys in the fund are continuously appropriated to the Oregon Liquor and Cannabis Commission and may be used to pay the costs of the commission in carrying out the duties of the commission under ORS 459A.700 to 459A.754. [Formerly 459A.744] ]
 
 ## Provenance & change history
 

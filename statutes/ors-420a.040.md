@@ -1,6 +1,6 @@
 ---
 id: ors-420a.040
-title: "Provision of juvenile corrections programs and services to tribal adjudicated youth; agreements; award of funds YOUTH CORRECTION FACILITIES"
+title: "Provision of juvenile corrections programs and services to tribal adjudicated youth; agreements; award of funds"
 doc_type: statute
 citation: "ORS 420A.040"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-420a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors420A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Provision of juvenile corrections programs and services to tribal adjudicated youth; agreements; award of funds YOUTH CORRECTION FACILITIES (ORS 420A.040)
+# Provision of juvenile corrections programs and services to tribal adjudicated youth; agreements; award of funds (ORS 420A.040)
 
 ## At a glance
 
-ORS 420A.040 — Provision of juvenile corrections programs and services to tribal adjudicated youth; agreements; award of funds YOUTH CORRECTION FACILITIES. Chapter 420A (Chapter 420A), 2025 Edition.
+ORS 420A.040 — Provision of juvenile corrections programs and services to tribal adjudicated youth; agreements; award of funds. Chapter 420A (Chapter 420A), 2025 Edition.
 
 ## Full text
 

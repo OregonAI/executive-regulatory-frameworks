@@ -1,6 +1,6 @@
 ---
 id: ors-468a.145
-title: "Contract for commission to retain authority under ORS"
+title: "Contract for commission to retain authority under ORS 468A.135"
 doc_type: statute
 citation: "ORS 468A.145"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Contract for commission to retain authority under ORS (ORS 468A.145)
+# Contract for commission to retain authority under ORS 468A.135 (ORS 468A.145)
 
 ## At a glance
 
-ORS 468A.145 — Contract for commission to retain authority under ORS. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.145 — Contract for commission to retain authority under ORS 468A.135. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 

@@ -45,7 +45,7 @@ ORS 276A.374 — Application to Secretary of State and State Treasurer; rules. C
 
 ## Full text
 
-276A.374 Application to Secretary of State and State Treasurer; rules. The Secretary of State and the State Treasurer shall by rule adopt for each respective office requirements related to data that are the same as, or are similar to, the requirements established by ORS 276A.350 to 276A.371 and by rules adopted by the State Chief Information Officer or the Chief Data Officer under ORS 276A.350 to 276A.371. [2017 c.720 §9] TELECOMMUNICATIONS AND BROADBAND INTERNET ACCESS SERVICES 
+276A.374 Application to Secretary of State and State Treasurer; rules. The Secretary of State and the State Treasurer shall by rule adopt for each respective office requirements related to data that are the same as, or are similar to, the requirements established by ORS 276A.350 to 276A.371 and by rules adopted by the State Chief Information Officer or the Chief Data Officer under ORS 276A.350 to 276A.371. [2017 c.720 §9]
 
 ## Provenance & change history
 

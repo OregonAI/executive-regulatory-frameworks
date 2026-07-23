@@ -1,6 +1,6 @@
 ---
 id: ors-475c.535
-title: "Illegal Marijuana Market Enforcement Grant Program Fund TESTING OF CANNABIS AND CANNABIS PRODUCTS"
+title: "Illegal Marijuana Market Enforcement Grant Program Fund"
 doc_type: statute
 citation: "ORS 475C.535"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Illegal Marijuana Market Enforcement Grant Program Fund TESTING OF CANNABIS AND CANNABIS PRODUCTS (ORS 475C.535)
+# Illegal Marijuana Market Enforcement Grant Program Fund (ORS 475C.535)
 
 ## At a glance
 
-ORS 475C.535 — Illegal Marijuana Market Enforcement Grant Program Fund TESTING OF CANNABIS AND CANNABIS PRODUCTS. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.535 — Illegal Marijuana Market Enforcement Grant Program Fund. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 
-475C.535 Illegal Marijuana Market Enforcement Grant Program Fund. The Illegal Marijuana Market Enforcement Grant Program Fund is established in the State Treasury separate and distinct from the General Fund. Moneys in the Illegal Marijuana Market Enforcement Grant Program Fund are continuously appropriated to the Oregon Criminal Justice Commission for the purposes of carrying out the provisions of ORS 475C.531. Interest earned by the fund shall be credited to the fund. [2018 c.103 §15] TESTING OF CANNABIS AND CANNABIS PRODUCTS 
+475C.535 Illegal Marijuana Market Enforcement Grant Program Fund. The Illegal Marijuana Market Enforcement Grant Program Fund is established in the State Treasury separate and distinct from the General Fund. Moneys in the Illegal Marijuana Market Enforcement Grant Program Fund are continuously appropriated to the Oregon Criminal Justice Commission for the purposes of carrying out the provisions of ORS 475C.531. Interest earned by the fund shall be credited to the fund. [2018 c.103 §15]
 
 ## Provenance & change history
 

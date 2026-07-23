@@ -1,6 +1,6 @@
 ---
 id: ors-431a.560
-title: "Educational materials about breast reconstruction; requirements EXPOSURE TO BODILY FLUIDS"
+title: "Educational materials about breast reconstruction; requirements"
 doc_type: statute
 citation: "ORS 431A.560"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Educational materials about breast reconstruction; requirements EXPOSURE TO BODILY FLUIDS (ORS 431A.560)
+# Educational materials about breast reconstruction; requirements (ORS 431A.560)
 
 ## At a glance
 
-ORS 431A.560 — Educational materials about breast reconstruction; requirements EXPOSURE TO BODILY FLUIDS. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.560 — Educational materials about breast reconstruction; requirements. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -53,7 +53,7 @@ ORS 431A.560 — Educational materials about breast reconstruction; requirements
 
 (1) of this section next to a link on the website to information about breast cancer screenings and under a tab designated “Breast Reconstruction Education.” The materials must include links to information about breast reconstruction surgery published by governmental entities with a nexus to this state or nonprofit organizations with expertise in breast reconstruction surgery, including but not limited to information about: (a) The availability of the option to have breast reconstruction surgery following a mastectomy including that the breast reconstruction surgery may be performed at the time of a mastectomy or may be delayed until a later date. (b) Prostheses or breast forms as alternatives to breast reconstruction surgery. (c) The requirements of the Women’s Health and Cancer Rights Act of 1998 (P.L. 105-277) including the right to breast reconstruction surgery following a mastectomy even if the surgery is delayed until a later date.
 
-(3) The authority may include educational information about breast reconstruction surgery in newsletters or similar publications that the authority sends to clients or physicians on a weekly or monthly basis. [2017 c.163 §1] EXPOSURE TO BODILY FLUIDS 
+(3) The authority may include educational information about breast reconstruction surgery in newsletters or similar publications that the authority sends to clients or physicians on a weekly or monthly basis. [2017 c.163 §1]
 
 ## Provenance & change history
 

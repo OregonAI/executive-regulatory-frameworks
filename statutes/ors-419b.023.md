@@ -1,6 +1,6 @@
 ---
 id: ors-419b.023
-title: "Duties of person conducting investigation under ORS"
+title: "Duties of person conducting investigation under ORS 419B.020"
 doc_type: statute
 citation: "ORS 419B.023"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Duties of person conducting investigation under ORS (ORS 419B.023)
+# Duties of person conducting investigation under ORS 419B.020 (ORS 419B.023)
 
 ## At a glance
 
-ORS 419B.023 — Duties of person conducting investigation under ORS. Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.023 — Duties of person conducting investigation under ORS 419B.020. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

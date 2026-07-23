@@ -1,6 +1,6 @@
 ---
 id: ors-308a.430
-title: "Disqualification from special assessment; additional taxes CONSERVATION EASEMENT"
+title: "Disqualification from special assessment; additional taxes"
 doc_type: statute
 citation: "ORS 308A.430"
 authority_level: statute
@@ -47,11 +47,11 @@ tags: ["ors", "chapter-308a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors308A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Disqualification from special assessment; additional taxes CONSERVATION EASEMENT (ORS 308A.430)
+# Disqualification from special assessment; additional taxes (ORS 308A.430)
 
 ## At a glance
 
-ORS 308A.430 — Disqualification from special assessment; additional taxes CONSERVATION EASEMENT. Chapter 308A (Chapter 308A), 2025 Edition.
+ORS 308A.430 — Disqualification from special assessment; additional taxes. Chapter 308A (Chapter 308A), 2025 Edition.
 
 ## Full text
 
@@ -65,7 +65,7 @@ ORS 308A.430 — Disqualification from special assessment; additional taxes CONS
 
 (4) If, pursuant to subsection (3)(e) of this section, the county assessor disqualifies land for wildlife habitat special assessment, the land may requalify for wildlife habitat special assessment upon: (a) Payment of all additional tax and interest that remains due and owing as a result of the disqualification; (b) Compliance with ORS 308A.403 to 308A.430; and (c) Submission of an application for wildlife habitat special assessment under ORS 308A.424 and approval of the application by the county assessor.
 
-(5) Upon disqualification, additional taxes shall be determined as provided in ORS 308A.700 to 308A.733. [2003 c.539 §10; 2023 c.409 §5] CONSERVATION EASEMENT 
+(5) Upon disqualification, additional taxes shall be determined as provided in ORS 308A.700 to 308A.733. [2003 c.539 §10; 2023 c.409 §5]
 
 ## Provenance & change history
 

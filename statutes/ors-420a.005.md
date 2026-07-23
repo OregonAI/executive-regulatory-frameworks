@@ -1,6 +1,6 @@
 ---
 id: ors-420a.005
-title: "Definitions OREGON YOUTH AUTHORITY"
+title: "Definitions"
 doc_type: statute
 citation: "ORS 420A.005"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-420a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors420A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions OREGON YOUTH AUTHORITY (ORS 420A.005)
+# Definitions (ORS 420A.005)
 
 ## At a glance
 
-ORS 420A.005 — Definitions OREGON YOUTH AUTHORITY. Chapter 420A (Chapter 420A), 2025 Edition.
+ORS 420A.005 — Definitions. Chapter 420A (Chapter 420A), 2025 Edition.
 
 ## Full text
 
@@ -57,7 +57,7 @@ ORS 420A.005 — Definitions OREGON YOUTH AUTHORITY. Chapter 420A (Chapter 420A)
 
 (5) “Youth authority” means the Oregon Youth Authority.
 
-(6) “Youth correction facility” has the meaning given that term in ORS 420.005. [1995 c.422 §1b; 1997 c.433 §6; 2021 c.489 §135] OREGON YOUTH AUTHORITY 
+(6) “Youth correction facility” has the meaning given that term in ORS 420.005. [1995 c.422 §1b; 1997 c.433 §6; 2021 c.489 §135]
 
 ## Provenance & change history
 

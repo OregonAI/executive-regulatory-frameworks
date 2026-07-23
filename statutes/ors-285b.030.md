@@ -1,6 +1,6 @@
 ---
 id: ors-285b.030
-title: "Industrial Lands Loan Fund INDUSTRIAL SITE LOAN FUND"
+title: "Industrial Lands Loan Fund"
 doc_type: statute
 citation: "ORS 285B.030"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Industrial Lands Loan Fund INDUSTRIAL SITE LOAN FUND (ORS 285B.030)
+# Industrial Lands Loan Fund (ORS 285B.030)
 
 ## At a glance
 
-ORS 285B.030 — Industrial Lands Loan Fund INDUSTRIAL SITE LOAN FUND. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.030 — Industrial Lands Loan Fund. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 
@@ -49,7 +49,7 @@ ORS 285B.030 — Industrial Lands Loan Fund INDUSTRIAL SITE LOAN FUND. Chapter 2
 
 (2) Moneys in the fund may be invested as provided by ORS 293.701 to 293.857, and the earnings from the investments shall be credited to the account in the fund designated by the department.
 
-(3) The fund shall consist of moneys credited to the fund, including: (a) Moneys appropriated to the fund by the Legislative Assembly; (b) Moneys transferred to the fund by the department; (c) Earnings on moneys in the fund; (d) Repayment of financial assistance, including interest, under ORS 285B.024 and 285B.027; (e) Moneys received from the federal, state or local governments; and (f) Moneys, or the proceeds of assets, from any other public or private source, including, but not limited to, grants and gifts. (4)(a) The department may commit moneys in the fund, or reserve future income of the fund, for expenditure in future years in accordance with this section. (b) The department may commit moneys or reserve future income under this subsection only after: (A) Allowing for contingencies; and (B) Determining that there will be sufficient unobligated net moneys in the fund to make the future payments, consistent with the requirements of this section. [2023 c.25 §23] INDUSTRIAL SITE LOAN FUND 
+(3) The fund shall consist of moneys credited to the fund, including: (a) Moneys appropriated to the fund by the Legislative Assembly; (b) Moneys transferred to the fund by the department; (c) Earnings on moneys in the fund; (d) Repayment of financial assistance, including interest, under ORS 285B.024 and 285B.027; (e) Moneys received from the federal, state or local governments; and (f) Moneys, or the proceeds of assets, from any other public or private source, including, but not limited to, grants and gifts. (4)(a) The department may commit moneys in the fund, or reserve future income of the fund, for expenditure in future years in accordance with this section. (b) The department may commit moneys or reserve future income under this subsection only after: (A) Allowing for contingencies; and (B) Determining that there will be sufficient unobligated net moneys in the fund to make the future payments, consistent with the requirements of this section. [2023 c.25 §23]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-468a.790
-title: "Memorandum of understanding with State Department of Agriculture; rules DIESEL ENGINES"
+title: "Memorandum of understanding with State Department of Agriculture; rules"
 doc_type: statute
 citation: "ORS 468A.790"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Memorandum of understanding with State Department of Agriculture; rules DIESEL ENGINES (ORS 468A.790)
+# Memorandum of understanding with State Department of Agriculture; rules (ORS 468A.790)
 
 ## At a glance
 
-ORS 468A.790 — Memorandum of understanding with State Department of Agriculture; rules DIESEL ENGINES. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.790 — Memorandum of understanding with State Department of Agriculture; rules. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 
@@ -55,7 +55,7 @@ ORS 468A.790 — Memorandum of understanding with State Department of Agricultur
 
 (3) In adopting rules subject to the memorandum of understanding required by subsection
 
-(1) of this section, the Environmental Quality Commission and the State Department of Agriculture shall consult with each other. [2007 c.799 §2] DIESEL ENGINES 
+(1) of this section, the Environmental Quality Commission and the State Department of Agriculture shall consult with each other. [2007 c.799 §2]
 
 ## Provenance & change history
 

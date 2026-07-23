@@ -1,6 +1,6 @@
 ---
 id: ors-431a.685
-title: "Funding ADRENAL INSUFFICIENCY"
+title: "Funding"
 doc_type: statute
 citation: "ORS 431A.685"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Funding ADRENAL INSUFFICIENCY (ORS 431A.685)
+# Funding (ORS 431A.685)
 
 ## At a glance
 
-ORS 431A.685 — Funding ADRENAL INSUFFICIENCY. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.685 — Funding. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -55,7 +55,7 @@ ORS 431A.685 — Funding ADRENAL INSUFFICIENCY. Chapter 431A (Chapter 431A), 202
 
 (3) Until the operative date specified in subsection
 
-(1) of this section, the authority shall report on the actions taken by the authority pursuant to ORS 431.866 to the Joint Committee on Ways and Means at least once during an odd-numbered year regular session of the Legislative Assembly. [2011 c.220 §4; 2012 c.107 §4] ADRENAL INSUFFICIENCY 
+(1) of this section, the authority shall report on the actions taken by the authority pursuant to ORS 431.866 to the Joint Committee on Ways and Means at least once during an odd-numbered year regular session of the Legislative Assembly. [2011 c.220 §4; 2012 c.107 §4]
 
 ## Provenance & change history
 

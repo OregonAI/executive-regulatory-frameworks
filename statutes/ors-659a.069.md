@@ -1,6 +1,6 @@
 ---
 id: ors-659a.069
-title: "Discrimination against state worker applying for benefits under ORS"
+title: "Discrimination against state worker applying for benefits under ORS 659A.060 to"
 doc_type: statute
 citation: "ORS 659A.069"
 authority_level: statute
@@ -39,11 +39,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Discrimination against state worker applying for benefits under ORS (ORS 659A.069)
+# Discrimination against state worker applying for benefits under ORS 659A.060 to (ORS 659A.069)
 
 ## At a glance
 
-ORS 659A.069 — Discrimination against state worker applying for benefits under ORS. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.069 — Discrimination against state worker applying for benefits under ORS 659A.060 to. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

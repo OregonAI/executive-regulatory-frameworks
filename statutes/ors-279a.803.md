@@ -1,6 +1,6 @@
 ---
 id: ors-279a.803
-title: "Requirements for qualified projects funded with moneys from American Rescue Plan Act of 2021; exceptions PENALTIES"
+title: "Requirements for qualified projects funded with moneys from American Rescue Plan Act of 2021; exceptions"
 doc_type: statute
 citation: "ORS 279A.803"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-279a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Requirements for qualified projects funded with moneys from American Rescue Plan Act of 2021; exceptions PENALTIES (ORS 279A.803)
+# Requirements for qualified projects funded with moneys from American Rescue Plan Act of 2021; exceptions (ORS 279A.803)
 
 ## At a glance
 
-ORS 279A.803 — Requirements for qualified projects funded with moneys from American Rescue Plan Act of 2021; exceptions PENALTIES. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
+ORS 279A.803 — Requirements for qualified projects funded with moneys from American Rescue Plan Act of 2021; exceptions. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
 
 ## Full text
 

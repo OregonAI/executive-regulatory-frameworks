@@ -1,6 +1,6 @@
 ---
 id: ors-279c.875
-title: "Criminal liability for intentional failure to pay prevailing wage; rules GENERAL PROVISIONS"
+title: "Criminal liability for intentional failure to pay prevailing wage; rules"
 doc_type: statute
 citation: "ORS 279C.875"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Criminal liability for intentional failure to pay prevailing wage; rules GENERAL PROVISIONS (ORS 279C.875)
+# Criminal liability for intentional failure to pay prevailing wage; rules (ORS 279C.875)
 
 ## At a glance
 
-ORS 279C.875 — Criminal liability for intentional failure to pay prevailing wage; rules GENERAL PROVISIONS. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.875 — Criminal liability for intentional failure to pay prevailing wage; rules. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

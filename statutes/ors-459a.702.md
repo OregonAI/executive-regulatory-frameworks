@@ -1,6 +1,6 @@
 ---
 id: ors-459a.702
-title: "Applicability of ORS"
+title: "Applicability of ORS 459A.700 to"
 doc_type: statute
 citation: "ORS 459A.702"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Applicability of ORS (ORS 459A.702)
+# Applicability of ORS 459A.700 to (ORS 459A.702)
 
 ## At a glance
 
-ORS 459A.702 — Applicability of ORS. Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.702 — Applicability of ORS 459A.700 to. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 

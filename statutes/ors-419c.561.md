@@ -1,6 +1,6 @@
 ---
 id: ors-419c.561
-title: "Limitation of guardianship granted by juvenile court AUTHORITY OF COURT OVER PARENT OR GUARDIAN"
+title: "Limitation of guardianship granted by juvenile court"
 doc_type: statute
 citation: "ORS 419C.561"
 authority_level: statute
@@ -38,15 +38,15 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Limitation of guardianship granted by juvenile court AUTHORITY OF COURT OVER PARENT OR GUARDIAN (ORS 419C.561)
+# Limitation of guardianship granted by juvenile court (ORS 419C.561)
 
 ## At a glance
 
-ORS 419C.561 — Limitation of guardianship granted by juvenile court AUTHORITY OF COURT OVER PARENT OR GUARDIAN. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.561 — Limitation of guardianship granted by juvenile court. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 
-419C.561 Limitation of guardianship granted by juvenile court. A person appointed guardian of an adjudicated youth by the court is guardian only and not a conservator of the estate of the adjudicated youth, unless that person is appointed conservator of the adjudicated youth’s estate in a protective proceeding as provided in ORS chapter 125. [1993 c.33 §252; 1995 c.664 §95; 2003 c.396 §128; 2021 c.489 §95] AUTHORITY OF COURT OVER PARENT OR GUARDIAN 
+419C.561 Limitation of guardianship granted by juvenile court. A person appointed guardian of an adjudicated youth by the court is guardian only and not a conservator of the estate of the adjudicated youth, unless that person is appointed conservator of the adjudicated youth’s estate in a protective proceeding as provided in ORS chapter 125. [1993 c.33 §252; 1995 c.664 §95; 2003 c.396 §128; 2021 c.489 §95]
 
 ## Provenance & change history
 

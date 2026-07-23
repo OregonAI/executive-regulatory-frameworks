@@ -1,6 +1,6 @@
 ---
 id: ors-181a.430
-title: "Effect of minimum requirements under authority other than ORS"
+title: "Effect of minimum requirements under authority other than ORS 181A.410"
 doc_type: statute
 citation: "ORS 181A.430"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Effect of minimum requirements under authority other than ORS (ORS 181A.430)
+# Effect of minimum requirements under authority other than ORS 181A.410 (ORS 181A.430)
 
 ## At a glance
 
-ORS 181A.430 — Effect of minimum requirements under authority other than ORS. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.430 — Effect of minimum requirements under authority other than ORS 181A.410. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

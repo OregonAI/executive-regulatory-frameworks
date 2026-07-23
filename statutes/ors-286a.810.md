@@ -1,6 +1,6 @@
 ---
 id: ors-286a.810
-title: "LEED certification of school projects financed with Article XI-P bonds ARTICLE XI-Q BONDS"
+title: "LEED certification of school projects financed with Article XI-P bonds"
 doc_type: statute
 citation: "ORS 286A.810"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-286a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# LEED certification of school projects financed with Article XI-P bonds ARTICLE XI-Q BONDS (ORS 286A.810)
+# LEED certification of school projects financed with Article XI-P bonds (ORS 286A.810)
 
 ## At a glance
 
-ORS 286A.810 — LEED certification of school projects financed with Article XI-P bonds ARTICLE XI-Q BONDS. Chapter 286A (Chapter 286A), 2025 Edition.
+ORS 286A.810 — LEED certification of school projects financed with Article XI-P bonds. Chapter 286A (Chapter 286A), 2025 Edition.
 
 ## Full text
 

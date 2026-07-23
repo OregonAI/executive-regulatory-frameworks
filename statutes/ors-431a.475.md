@@ -1,6 +1,6 @@
 ---
 id: ors-431a.475
-title: "Oregon Health Authority duties STROKE CARE"
+title: "Oregon Health Authority duties"
 doc_type: statute
 citation: "ORS 431A.475"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon Health Authority duties STROKE CARE (ORS 431A.475)
+# Oregon Health Authority duties (ORS 431A.475)
 
 ## At a glance
 
-ORS 431A.475 — Oregon Health Authority duties STROKE CARE. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.475 — Oregon Health Authority duties. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -49,7 +49,7 @@ ORS 431A.475 — Oregon Health Authority duties STROKE CARE. Chapter 431A (Chapt
 
 (1) The Oregon Health Authority shall educate residents of this state about: (a) The need for bone marrow donors; (b) The procedures required to become registered as a potential bone marrow donor, including procedures for determining a person’s tissue type; and (c) The medical procedures a donor must undergo to donate bone marrow or other sources of blood stem cells.
 
-(2) The Oregon Health Authority shall make special efforts to educate and recruit citizens of Oregon with a special emphasis on minority populations to volunteer as potential bone marrow donors. Means of communication may include use of press, radio and television, and placement of educational materials in appropriate health care facilities, blood banks and state and local agencies. The Oregon Health Authority in conjunction with the Department of Transportation shall make educational materials available at all places where driver licenses are issued or renewed. [Formerly 431.270] 431A.500 [Formerly 431.290; repealed by 2025 c.405 §1] 431A.505 [Formerly 431.292; repealed by 2025 c.405 §1] 431A.510 [Formerly 431.294; repealed by 2025 c.405 §1] STROKE CARE 
+(2) The Oregon Health Authority shall make special efforts to educate and recruit citizens of Oregon with a special emphasis on minority populations to volunteer as potential bone marrow donors. Means of communication may include use of press, radio and television, and placement of educational materials in appropriate health care facilities, blood banks and state and local agencies. The Oregon Health Authority in conjunction with the Department of Transportation shall make educational materials available at all places where driver licenses are issued or renewed. [Formerly 431.270] 431A.500 [Formerly 431.290; repealed by 2025 c.405 §1] 431A.505 [Formerly 431.292; repealed by 2025 c.405 §1] 431A.510 [Formerly 431.294; repealed by 2025 c.405 §1]
 
 ## Provenance & change history
 

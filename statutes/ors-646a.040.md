@@ -1,6 +1,6 @@
 ---
 id: ors-646a.040
-title: "Waiver of provisions of ORS"
+title: "Waiver of provisions of ORS 646A.030 to"
 doc_type: statute
 citation: "ORS 646A.040"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Waiver of provisions of ORS (ORS 646A.040)
+# Waiver of provisions of ORS 646A.030 to (ORS 646A.040)
 
 ## At a glance
 
-ORS 646A.040 — Waiver of provisions of ORS. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.040 — Waiver of provisions of ORS 646A.030 to. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

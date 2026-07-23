@@ -1,6 +1,6 @@
 ---
 id: ors-646a.288
-title: "Presumptions in cause of action brought under ORS"
+title: "Presumptions in cause of action brought under ORS 646A.284 or"
 doc_type: statute
 citation: "ORS 646A.288"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Presumptions in cause of action brought under ORS (ORS 646A.288)
+# Presumptions in cause of action brought under ORS 646A.284 or (ORS 646A.288)
 
 ## At a glance
 
-ORS 646A.288 — Presumptions in cause of action brought under ORS. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.288 — Presumptions in cause of action brought under ORS 646A.284 or. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

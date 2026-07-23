@@ -1,6 +1,6 @@
 ---
 id: ors-419b.818
-title: "Form of summons under ORS"
+title: "Form of summons under ORS 419B.815"
 doc_type: statute
 citation: "ORS 419B.818"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Form of summons under ORS (ORS 419B.818)
+# Form of summons under ORS 419B.815 (ORS 419B.818)
 
 ## At a glance
 
-ORS 419B.818 — Form of summons under ORS. Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.818 — Form of summons under ORS 419B.815. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

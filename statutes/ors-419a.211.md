@@ -1,6 +1,6 @@
 ---
 id: ors-419a.211
-title: "Appointment of counsel RESTRAINTS"
+title: "Appointment of counsel"
 doc_type: statute
 citation: "ORS 419A.211"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Appointment of counsel RESTRAINTS (ORS 419A.211)
+# Appointment of counsel (ORS 419A.211)
 
 ## At a glance
 
-ORS 419A.211 — Appointment of counsel RESTRAINTS. Chapter 419A (Chapter 419A), 2025 Edition.
+ORS 419A.211 — Appointment of counsel. Chapter 419A (Chapter 419A), 2025 Edition.
 
 ## Full text
 
@@ -55,7 +55,7 @@ ORS 419A.211 — Appointment of counsel RESTRAINTS. Chapter 419A (Chapter 419A),
 
 (4) Notwithstanding subsection
 
-(1) of this section, a youth or adjudicated youth, or the parent or guardian of the youth or adjudicated youth, is entitled to court-appointed counsel at state expense under this section regardless of the financial circumstances of the youth or adjudicated youth or the parent or guardian of the youth or adjudicated youth. In addition, the court may not order the youth’s or adjudicated youth’s parent or guardian to pay any part of the administrative costs of determining the entitlement of the youth, adjudicated youth, parent or guardian to court-appointed counsel at state expense nor any of the costs of the legal and other services that are related to the provision of appointed counsel. [2001 c.480 §6; 2001 c.962 §56; 2003 c.396 §§31,32; 2003 c.449 §50; 2012 c.107 §45; 2021 c.489 §47; 2021 c.597 §11a; 2023 c.281 §59] RESTRAINTS 
+(1) of this section, a youth or adjudicated youth, or the parent or guardian of the youth or adjudicated youth, is entitled to court-appointed counsel at state expense under this section regardless of the financial circumstances of the youth or adjudicated youth or the parent or guardian of the youth or adjudicated youth. In addition, the court may not order the youth’s or adjudicated youth’s parent or guardian to pay any part of the administrative costs of determining the entitlement of the youth, adjudicated youth, parent or guardian to court-appointed counsel at state expense nor any of the costs of the legal and other services that are related to the provision of appointed counsel. [2001 c.480 §6; 2001 c.962 §56; 2003 c.396 §§31,32; 2003 c.449 §50; 2012 c.107 §45; 2021 c.489 §47; 2021 c.597 §11a; 2023 c.281 §59]
 
 ## Provenance & change history
 

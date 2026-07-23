@@ -1,6 +1,6 @@
 ---
 id: ors-431a.125
-title: "Oregon Health Authority powers; rules SMOKING CESSATION AND TOBACCO USE REDUCTION"
+title: "Oregon Health Authority powers; rules"
 doc_type: statute
 citation: "ORS 431A.125"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon Health Authority powers; rules SMOKING CESSATION AND TOBACCO USE REDUCTION (ORS 431A.125)
+# Oregon Health Authority powers; rules (ORS 431A.125)
 
 ## At a glance
 
-ORS 431A.125 — Oregon Health Authority powers; rules SMOKING CESSATION AND TOBACCO USE REDUCTION. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.125 — Oregon Health Authority powers; rules. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -55,7 +55,7 @@ ORS 431A.125 — Oregon Health Authority powers; rules SMOKING CESSATION AND TOB
 
 (4) A person who furnishes information to the authority for a purpose described in this section is not civilly or criminally liable for any loss, damage or injury arising out of the furnishing of that information to the authority.
 
-(5) The authority may accept gifts, grants or donations from any public or private source for the purpose of carrying out this section. Funds received under this subsection shall be deposited in the Oregon Health Authority Fund established under ORS 413.101 and are continuously appropriated to the authority for the purposes of carrying out this section. [Formerly 431.678] SMOKING CESSATION AND TOBACCO USE REDUCTION 
+(5) The authority may accept gifts, grants or donations from any public or private source for the purpose of carrying out this section. Funds received under this subsection shall be deposited in the Oregon Health Authority Fund established under ORS 413.101 and are continuously appropriated to the authority for the purposes of carrying out this section. [Formerly 431.678]
 
 ## Provenance & change history
 

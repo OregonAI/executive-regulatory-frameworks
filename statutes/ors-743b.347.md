@@ -71,7 +71,7 @@ ORS 743B.347 — Continuation of coverage under group policy upon termination of
 
 (5) of this section. The notice shall include information prescribed by the Director of the Department of Consumer and Business Services.
 
-(11) This section applies only to employers who are not required to make available continuation of health insurance benefits under Titles X and XXII of the Consolidated Omnibus Budget Reconciliation Act of 1985, as amended, P.L. 99-272, April 7, 1986. [Formerly 743.610] CONTRACTED HEALTH CARE PROVIDERS 
+(11) This section applies only to employers who are not required to make available continuation of health insurance benefits under Titles X and XXII of the Consolidated Omnibus Budget Reconciliation Act of 1985, as amended, P.L. 99-272, April 7, 1986. [Formerly 743.610]
 
 ## Provenance & change history
 

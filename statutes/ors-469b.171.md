@@ -1,6 +1,6 @@
 ---
 id: ors-469b.171
-title: "Assistance with facility purchase for investor-owned utility customers RENEWABLE ENERGY PRODUCTION SYSTEMS"
+title: "Assistance with facility purchase for investor-owned utility customers"
 doc_type: statute
 citation: "ORS 469B.171"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-469b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Assistance with facility purchase for investor-owned utility customers RENEWABLE ENERGY PRODUCTION SYSTEMS (ORS 469B.171)
+# Assistance with facility purchase for investor-owned utility customers (ORS 469B.171)
 
 ## At a glance
 
-ORS 469B.171 — Assistance with facility purchase for investor-owned utility customers RENEWABLE ENERGY PRODUCTION SYSTEMS. Chapter 469B (Chapter 469B), 2025 Edition.
+ORS 469B.171 — Assistance with facility purchase for investor-owned utility customers. Chapter 469B (Chapter 469B), 2025 Edition.
 
 ## Full text
 
@@ -53,7 +53,7 @@ ORS 469B.171 — Assistance with facility purchase for investor-owned utility cu
 
 (1) An investor-owned utility may offer cash payments to assist the utility’s commercial and industrial customers in purchasing a facility as defined in ORS 469B.130, including but not limited to an alternative fuel vehicle refueling station. The utility may pay the customer the present value to the utility of the tax credit to which the customer would be entitled under ORS 469B.130 to 469B.169.
 
-(2) As used in this section, “cash payment” and “investor-owned utility” have the meanings given those terms in ORS 469.631. [Formerly 469.878] RENEWABLE ENERGY PRODUCTION SYSTEMS 
+(2) As used in this section, “cash payment” and “investor-owned utility” have the meanings given those terms in ORS 469.631. [Formerly 469.878]
 
 ## Provenance & change history
 

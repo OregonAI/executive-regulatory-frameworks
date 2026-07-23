@@ -1,6 +1,6 @@
 ---
 id: ors-475c.325
-title: "Requirements for assessment and treatment under ORS"
+title: "Requirements for assessment and treatment under ORS 475C.317"
 doc_type: statute
 citation: "ORS 475C.325"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Requirements for assessment and treatment under ORS (ORS 475C.325)
+# Requirements for assessment and treatment under ORS 475C.317 (ORS 475C.325)
 
 ## At a glance
 
-ORS 475C.325 — Requirements for assessment and treatment under ORS. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.325 — Requirements for assessment and treatment under ORS 475C.317. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

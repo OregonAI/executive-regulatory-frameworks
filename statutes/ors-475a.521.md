@@ -1,6 +1,6 @@
 ---
 id: ors-475a.521
-title: "Penalty for violation of rule adopted under ORS"
+title: "Penalty for violation of rule adopted under ORS 475A.235 (Regulation by Cities and Counties of Psilocybin Products)"
 doc_type: statute
 citation: "ORS 475A.521"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Penalty for violation of rule adopted under ORS (ORS 475A.521)
+# Penalty for violation of rule adopted under ORS 475A.235 (Regulation by Cities and Counties of Psilocybin Products) (ORS 475A.521)
 
 ## At a glance
 
-ORS 475A.521 — Penalty for violation of rule adopted under ORS. Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.521 — Penalty for violation of rule adopted under ORS 475A.235 (Regulation by Cities and Counties of Psilocybin Products). Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 

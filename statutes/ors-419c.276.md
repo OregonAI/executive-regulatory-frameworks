@@ -61,7 +61,7 @@ ORS 419C.276 — Disclosure of personal identifiers of victim or witness; advice
 
 (5) of this section, “contact” has the meaning given that term in ORS 163.730. (b) For the purposes of subsection
 
-(1) of this section, “personal identifiers” means a person’s address, telephone number, Social Security number and date of birth and the identifying number of a person’s depository account at a financial institution, as defined in ORS 706.008, or credit card account. [2007 c.609 §3; 2009 c.113 §1; 2021 c.489 §66] CONSOLIDATION 
+(1) of this section, “personal identifiers” means a person’s address, telephone number, Social Security number and date of birth and the identifying number of a person’s depository account at a financial institution, as defined in ORS 706.008, or credit card account. [2007 c.609 §3; 2009 c.113 §1; 2021 c.489 §66]
 
 ## Provenance & change history
 

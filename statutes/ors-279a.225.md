@@ -1,6 +1,6 @@
 ---
 id: ors-279a.225
-title: "Protests and disputes STATE SURPLUS PROPERTY"
+title: "Protests and disputes"
 doc_type: statute
 citation: "ORS 279A.225"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-279a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Protests and disputes STATE SURPLUS PROPERTY (ORS 279A.225)
+# Protests and disputes (ORS 279A.225)
 
 ## At a glance
 
-ORS 279A.225 — Protests and disputes STATE SURPLUS PROPERTY. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
+ORS 279A.225 — Protests and disputes. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
 
 ## Full text
 
@@ -56,7 +56,7 @@ ORS 279A.225 — Protests and disputes STATE SURPLUS PROPERTY. Chapter 279A (Pub
 
 (3) The decision of a local contracting agency to use a cooperative procurement is reviewable in the circuit court of the county where the principal offices of the local contracting agency are located. The decision of a state contracting agency to use a cooperative procurement shall be reviewable by the Circuit Court for Marion County or the circuit court of the county where the principal offices of the state contracting agency are located.
 
-(4) Disputes regarding contract performance between a purchasing contracting agency and a contractor may be resolved solely by the purchasing contracting agency and the contractor. [2003 c.794 §30] STATE SURPLUS PROPERTY 
+(4) Disputes regarding contract performance between a purchasing contracting agency and a contractor may be resolved solely by the purchasing contracting agency and the contractor. [2003 c.794 §30]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-279a.990
-title: "Penalties GENERAL PROVISIONS"
+title: "Penalties"
 doc_type: statute
 citation: "ORS 279A.990"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-279a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Penalties GENERAL PROVISIONS (ORS 279A.990)
+# Penalties (ORS 279A.990)
 
 ## At a glance
 
-ORS 279A.990 — Penalties GENERAL PROVISIONS. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
+ORS 279A.990 — Penalties. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
 
 ## Full text
 

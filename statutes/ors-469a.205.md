@@ -1,6 +1,6 @@
 ---
 id: ors-469a.205
-title: "Green power rate COMMUNITY-BASED RENEWABLE ENERGY PROJECTS"
+title: "Green power rate"
 doc_type: statute
 citation: "ORS 469A.205"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-469a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Green power rate COMMUNITY-BASED RENEWABLE ENERGY PROJECTS (ORS 469A.205)
+# Green power rate (ORS 469A.205)
 
 ## At a glance
 
-ORS 469A.205 — Green power rate COMMUNITY-BASED RENEWABLE ENERGY PROJECTS. Chapter 469A (Chapter 469A), 2025 Edition.
+ORS 469A.205 — Green power rate. Chapter 469A (Chapter 469A), 2025 Edition.
 
 ## Full text
 
@@ -59,7 +59,7 @@ ORS 469A.205 — Green power rate COMMUNITY-BASED RENEWABLE ENERGY PROJECTS. Cha
 
 (4) An electric utility may comply with the requirements of subsection
 
-(1) of this section by contracting with a third-party provider. [2007 c.301 §23; 2021 c.508 §21] COMMUNITY-BASED RENEWABLE ENERGY PROJECTS 
+(1) of this section by contracting with a third-party provider. [2007 c.301 §23; 2021 c.508 §21]
 
 ## Provenance & change history
 

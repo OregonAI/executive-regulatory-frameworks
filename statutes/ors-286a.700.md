@@ -1,6 +1,6 @@
 ---
 id: ors-286a.700
-title: "Authority to issue baccalaureate bonds WATER POWER BONDS"
+title: "Authority to issue baccalaureate bonds"
 doc_type: statute
 citation: "ORS 286A.700"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-286a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority to issue baccalaureate bonds WATER POWER BONDS (ORS 286A.700)
+# Authority to issue baccalaureate bonds (ORS 286A.700)
 
 ## At a glance
 
-ORS 286A.700 — Authority to issue baccalaureate bonds WATER POWER BONDS. Chapter 286A (Chapter 286A), 2025 Edition.
+ORS 286A.700 — Authority to issue baccalaureate bonds. Chapter 286A (Chapter 286A), 2025 Edition.
 
 ## Full text
 
@@ -55,7 +55,7 @@ ORS 286A.700 — Authority to issue baccalaureate bonds WATER POWER BONDS. Chapt
 
 (4) At the request of the Higher Education Coordinating Commission, the State Treasurer may: (a) Issue bonds as Oregon Baccalaureate Bonds, to encourage investors to save for post-secondary education opportunities. (b) Investigate and implement the means and procedures to facilitate the participation by the broadest practical range of investors in the Oregon Baccalaureate Bond program. The means and procedures may include, but are not limited to, adjustments in the denominations in which the bonds are issued and the frequency with which the bonds are issued.
 
-(5) The purchase of an Oregon Baccalaureate Bond does not guarantee the purchaser, owner or beneficiary of the bond admittance to a public university or private post-secondary institution. [2007 c.783 §33; 2011 c.637 §96; 2013 c.768 §123d; 2015 c.767 §9] WATER POWER BONDS 
+(5) The purchase of an Oregon Baccalaureate Bond does not guarantee the purchaser, owner or beneficiary of the bond admittance to a public university or private post-secondary institution. [2007 c.783 §33; 2011 c.637 §96; 2013 c.768 §123d; 2015 c.767 §9]
 
 ## Provenance & change history
 

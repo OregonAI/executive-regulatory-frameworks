@@ -1,6 +1,6 @@
 ---
 id: ors-431a.417
-title: "Reporting on smoke filtration device grants AIR CONDITIONER AND AIR FILTER DEPLOYMENT PROGRAM"
+title: "Reporting on smoke filtration device grants"
 doc_type: statute
 citation: "ORS 431A.417"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Reporting on smoke filtration device grants AIR CONDITIONER AND AIR FILTER DEPLOYMENT PROGRAM (ORS 431A.417)
+# Reporting on smoke filtration device grants (ORS 431A.417)
 
 ## At a glance
 
-ORS 431A.417 — Reporting on smoke filtration device grants AIR CONDITIONER AND AIR FILTER DEPLOYMENT PROGRAM. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.417 — Reporting on smoke filtration device grants. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -55,7 +55,7 @@ ORS 431A.417 — Reporting on smoke filtration device grants AIR CONDITIONER AND
 
 (4) Public health impacts during wildfire smoke events.
 
-(5) Whether funding described in ORS 431A.415 has provided a public health return on investment. [2021 c.592 §15a] AIR CONDITIONER AND AIR FILTER DEPLOYMENT PROGRAM 
+(5) Whether funding described in ORS 431A.415 has provided a public health return on investment. [2021 c.592 §15a]
 
 ## Provenance & change history
 

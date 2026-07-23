@@ -1,6 +1,6 @@
 ---
 id: ors-468b.105
-title: "and"
+title: "Review of water quality standard affecting forest operations"
 doc_type: statute
 citation: "ORS 468B.105"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# and (ORS 468B.105)
+# Review of water quality standard affecting forest operations (ORS 468B.105)
 
 ## At a glance
 
-ORS 468B.105 — and. Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.105 — Review of water quality standard affecting forest operations. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 

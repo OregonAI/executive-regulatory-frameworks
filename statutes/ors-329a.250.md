@@ -1,6 +1,6 @@
 ---
 id: ors-329a.250
-title: "Definitions for ORS"
+title: "Definitions for ORS 329A.030,"
 doc_type: statute
 citation: "ORS 329A.250"
 authority_level: statute
@@ -45,11 +45,11 @@ tags: ["ors", "chapter-329a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 329A.250)
+# Definitions for ORS 329A.030, (ORS 329A.250)
 
 ## At a glance
 
-ORS 329A.250 — Definitions for ORS. Chapter 329A (Chapter 329A), 2025 Edition.
+ORS 329A.250 — Definitions for ORS 329A.030,. Chapter 329A (Chapter 329A), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-468a.885
-title: "Surface emissions monitoring and mitigation; rules PENALTIES"
+title: "Surface emissions monitoring and mitigation; rules"
 doc_type: statute
 citation: "ORS 468A.885"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Surface emissions monitoring and mitigation; rules PENALTIES (ORS 468A.885)
+# Surface emissions monitoring and mitigation; rules (ORS 468A.885)
 
 ## At a glance
 
-ORS 468A.885 — Surface emissions monitoring and mitigation; rules PENALTIES. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.885 — Surface emissions monitoring and mitigation; rules. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-419a.271
-title: "Appointment of counsel JUVENILE JUSTICE POLICY COMMISSION"
+title: "Appointment of counsel"
 doc_type: statute
 citation: "ORS 419A.271"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Appointment of counsel JUVENILE JUSTICE POLICY COMMISSION (ORS 419A.271)
+# Appointment of counsel (ORS 419A.271)
 
 ## At a glance
 
-ORS 419A.271 — Appointment of counsel JUVENILE JUSTICE POLICY COMMISSION. Chapter 419A (Chapter 419A), 2025 Edition.
+ORS 419A.271 — Appointment of counsel. Chapter 419A (Chapter 419A), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 419A.271 — Appointment of counsel JUVENILE JUSTICE POLICY COMMISSION. Chap
 
 (2) The juvenile court shall inform a person requesting court-appointed counsel under this section of the person’s right to be represented by suitable counsel possessing skills and experience commensurate with the nature and complexity of the expunction process, to consult with counsel prior to the filing of an application for expunction under ORS 419A.262 and prior to a hearing on the matter and to have suitable counsel appointed at state expense.
 
-(3) When the juvenile court appoints counsel for a person under this section, the compensation for counsel and reasonable fees and expenses of investigation, preparation and presentation paid or incurred shall be determined and paid as provided in ORS 135.055. [2021 c.585 §4; 2023 c.182 §8; 2025 c.487 §6] JUVENILE JUSTICE POLICY COMMISSION 
+(3) When the juvenile court appoints counsel for a person under this section, the compensation for counsel and reasonable fees and expenses of investigation, preparation and presentation paid or incurred shall be determined and paid as provided in ORS 135.055. [2021 c.585 §4; 2023 c.182 §8; 2025 c.487 §6]
 
 ## Provenance & change history
 
