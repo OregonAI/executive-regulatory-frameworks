@@ -65,6 +65,10 @@ jobs:
         run: python3 src/build_governor_priorities_data.py --check
       - name: Governor-priorities visualization must be current
         run: python3 src/build_governor_priorities.py --check
+      - name: Conflict-candidates dataset must match the graph (verifies every citation)
+        run: python3 src/build_conflict_candidates_data.py --check
+      - name: Conflict-candidates visualization must be current
+        run: python3 src/build_conflict_candidates.py --check
 
       # --- heaviest full-corpus scans: nightly / on-demand only ---
       # agency_profile/mcp_lib selftests moved here: both scan every one of ~68k files'

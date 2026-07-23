@@ -62,6 +62,17 @@ All five vizzes from this brainstorm are now **built** (each a self-contained ge
   UMAP from `src/build_topic_projection.py` → `_meta/embeddings/projection.2d.json` (computed
   once with a fixed seed; needs `requirements-embeddings.txt` + `umap-learn`). 68k points,
   colored by doc_type with per-type filtering.
+- ✅ **Conflict candidates (pilot)** — `src/build_conflict_candidates.py` →
+  `viz/conflict-candidates.html`, over `_meta/catalog/conflict-candidates.yml` (curated,
+  AI-assisted, NOT mechanically derived or legally reviewed — see that file's note).
+  For each of 12 piloted ORS chapters (of 245 in the shared-authority set), an LLM read the
+  full statute + implementing-rule text in one pass and flagged candidate inconsistencies
+  with quotes and citations; ~15 candidates found across 9 chapters chosen for high agency
+  overlap + staleness (0 in the first 3 chosen without that bias — selection criteria
+  matters). Every cited document id is mechanically verified against `_meta/graph.json` by
+  `build_conflict_candidates_data.py` before the cache is trusted. Scaling to more of the
+  245 chapters, or fixing the citation-metadata/title-truncation bugs the pilot surfaced
+  along the way, are natural next steps — not done here.
 - **Do NOT** rebuild the *directed* "agency A cites agency B" graph: 98% of `implements`
   edges point to statewide ORS statutes (not agency-owned), so only ~150 true inter-agency
   citation edges exist — the directed graph is a near-empty statewide hub. The
