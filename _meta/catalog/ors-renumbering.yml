@@ -1,0 +1,77 @@
+source_url: https://www.oregonlegislature.gov/bills_laws/BillsLawsEDL/ORS_Renum.pdf
+source_sha256: d86de50d752eaae71d0215172474199b96c38e52f38333ecffcf795b7fe06da7
+note: Oregon Legislative Counsel's official ORS renumbering table, current edition only (fetched from
+  source_url above — republished each biennium, this is NOT a master historical index). 'simple' rows
+  are single-section-to-single-section mappings, confident enough to auto-apply to relationships.supersedes.
+  'advisory' rows are multi-section lists or ranges the table gives no positional correspondence for —
+  recorded for human reference only, never auto-expanded. Non-authoritative; verify against the source
+  PDF before relying on any entry here.
+simple:
+- formerly: '1.182'
+  renumbered: '1.179'
+  new_section_ingested: false
+- formerly: '94.667'
+  renumbered: '205.225'
+  new_section_ingested: true
+- formerly: '308.440'
+  renumbered: '308.429'
+  new_section_ingested: true
+- formerly: '316.806'
+  renumbered: '316.811'
+  new_section_ingested: true
+- formerly: 329a.440
+  renumbered: '197.671'
+  new_section_ingested: true
+- formerly: '336.071'
+  renumbered: '339.408'
+  new_section_ingested: true
+- formerly: '433.285'
+  renumbered: '433.288'
+  new_section_ingested: true
+- formerly: '435.305'
+  renumbered: '436.200'
+  new_section_ingested: false
+- formerly: '477.505'
+  renumbered: '477.508'
+  new_section_ingested: true
+- formerly: '687.057'
+  renumbered: '687.054'
+  new_section_ingested: true
+- formerly: 743b.280
+  renumbered: 743b.275
+  new_section_ingested: true
+advisory:
+- formerly: 55.011 to 55.110, 55.130 and 55.140
+  renumbered: 52.750 to 52.815, 52.825 and 52.830
+- formerly: 58.375 to 58.389
+  renumbered: 58.500, 58.503 and 58.509 to 58.527
+- formerly: 79.0101 to 79.0628
+  renumbered: 79A.1010 to 79A.1050, 79A.1060, 79A.1070, 79A.1080 to 79A.3060, 79A.3070 to 79A.3140, 79A.3150
+    to 79A.3260 and 79A.3270 to 79A.6280
+- formerly: 80.010 to 80.130
+  renumbered: 81.200 to 81.263
+- formerly: 109.112, 109.165 to 109.237, 109.259, 109.260, 109.510 and 109.520
+  renumbered: 109.154, 109.158 to 109.173, 109.204 and 109.621 to 109.628
+- formerly: 137.679, 137.681, 137.682 and 137.686
+  renumbered: 137.865 and 137.885 to 137.893
+- formerly: 156.010 to 156.705
+  renumbered: 53.150 to 53.350
+- formerly: 197.186, 197.200, 197.360, 197.365, 197.475 to 197.490, 197.522 and 197.746 to 197.756
+  renumbered: 197A.140, 197A.142, 197A.207, 197A.208, 197A.212, 197A.216, 197A.218, 197A.402, 197A.431
+    to 197A.440, 197A.449 and 197A.452
+- formerly: 327.102 to 327.108, 327.141 and 327.222 to 327.235
+  renumbered: 327.088, 327.158 to 327.162 and 327.169 to 327.174
+- formerly: 418.650 to 418.663
+  renumbered: 660.450 to 660.463
+- formerly: 426.238 to 426.255, 426.310 and 426.370
+  renumbered: 426.035, 426.165 and 426.311 to 426.318
+- formerly: 456.250 to 456.267
+  renumbered: 456.766 to 456.819
+- formerly: 459A.742 to 459A.750
+  renumbered: 459A.752 to 459A.754 and 459A.765
+- formerly: 476.694 to 476.698
+  renumbered: 660.425 to 660.435
+- formerly: 660.320, 660.350 and 660.351
+  renumbered: 660.440 to 660.448
+- formerly: 744.107 and 744.111
+  renumbered: 744.121 and 744.124

@@ -29,7 +29,8 @@ relationships:
   implemented_by: []
   references_external: []
   related: []
-  supersedes: []
+  supersedes:
+    - "ORS 743B.280"
 tags: ["ors", "chapter-743b"]
 ---
 
