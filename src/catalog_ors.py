@@ -87,23 +87,35 @@ def parse_toc(raw_text, ch):
     if i < 0:
         return []
     start = i + len("EDITION")
-    chunk = t[start:start + 30000]
-    m = re.search(r" \(1\) | means ", chunk[300:])
-    end = 300 + m.start() if m else len(chunk)
-    seg = chunk[:end]
-    xref_spans = [m.span() for m in XREF_RE.finditer(seg)]
+    # Wide enough for any chapter's real TOC (the largest, ORS 656, has ~220 entries) --
+    # the old fixed 30,000-char window plus a first-match-of-"(1)"/"means" boundary was too
+    # small AND too fragile for large chapters: it broke whenever an early section's own
+    # catchline happened to contain either phrase (e.g. ORS 656.010 "Treatment by spiritual
+    # means"), silently truncating the TOC to a handful of entries. Instead, find every
+    # real (non-cross-reference) section-number match in a wide window, and use match
+    # DENSITY to find the boundary: the TOC is a dense run of "NUM catchline NUM catchline
+    # ..." (each entry a few dozen characters), while body prose is not -- the first big
+    # gap between consecutive matches marks the transition to body text.
+    chunk = t[start:start + 600000]
+    xref_spans = [m.span() for m in XREF_RE.finditer(chunk)]
 
     def real_boundary(m):
         return not any(a <= m.start() < b for a, b in xref_spans)
 
     num_re = re.compile(re.escape(ch) + r"[A-Z]?\.\d{3}\b")
-    nums = [m for m in num_re.finditer(seg) if real_boundary(m)]
-    if not nums:
+    all_matches = [m for m in num_re.finditer(chunk) if real_boundary(m)]
+    if not all_matches:
         return []
-    last = nums[-1]
-    toc = seg[:last.start()]
+    GAP = 600
+    cut = len(all_matches) - 1
+    for k in range(len(all_matches) - 1):
+        if all_matches[k + 1].start() - all_matches[k].start() > GAP:
+            cut = k
+            break
+    last = all_matches[cut]
+    toc = chunk[:last.start()]
 
-    bounds = [m.start() for m in num_re.finditer(toc) if real_boundary(m)]
+    bounds = [m.start() for m in all_matches[:cut]]
     parts = [toc[b:(bounds[i + 1] if i + 1 < len(bounds) else len(toc))]
              for i, b in enumerate(bounds)]
     out, seen = [], set()
@@ -114,7 +126,13 @@ def parse_toc(raw_text, ch):
         num, rest = pm.groups()
         rest = re.split(r"\[", rest)[0].strip(" .")
         rest = TRAILING_HEADING_RE.sub("", rest).strip(" .")
-        if num in seen or len(rest) < 3 or rest.lower() in ("to", "enacted in lieu of"):
+        # a heavily-renumbered chapter (e.g. 279, split into 279A/B/C in 2003) often carries
+        # a "repealed sections" summary elsewhere on the page listing old numbers with their
+        # repeal year in a bracket ("279.435 [... repealed by ... in 1989]") -- these also
+        # match the section-number pattern but aren't real TOC entries. A real catchline is
+        # always capitalized; a lowercase-first fragment like "in 1989]" is this artifact.
+        if num in seen or len(rest) < 3 or rest.lower() in ("to", "enacted in lieu of") \
+                or not (rest[0].isupper() or rest[0] in "“‘\"'"):
             continue
         seen.add(num)
         out.append({"number": num, "title": rest[:160], "status": "not_ingested"})

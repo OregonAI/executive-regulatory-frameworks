@@ -132,7 +132,7 @@
   "185": 1,
   "187": 1,
   "190": 3,
-  "192": 53,
+  "192": 55,
   "194": 4,
   "195": 2,
   "196": 6,
@@ -391,7 +391,7 @@
   "653": 1,
   "654": 7,
   "655": 1,
-  "656": 2,
+  "656": 9,
   "657": 5,
   "658": 2,
   "659": 5,
@@ -442,7 +442,7 @@
   "723": 1,
   "725": 1,
   "726": 1,
-  "731": 2,
+  "731": 3,
   "732": 1,
   "733": 1,
   "734": 1,
@@ -457,7 +457,7 @@
   "746": 2,
   "750": 1,
   "756": 2,
-  "757": 1,
+  "757": 4,
   "758": 2,
   "759": 1,
   "776": 1,
@@ -799,6 +799,7 @@
     "571",
     "634",
     "646",
+    "656",
     "670",
     "671",
     "701",
@@ -1297,7 +1298,7 @@
   {
    "slug": "department-of-consumer-and-business-services-building-codes-division",
    "name": "Department of Consumer and Business Services, Building Codes Division",
-   "rules": 629,
+   "rules": 668,
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
@@ -1333,6 +1334,7 @@
     "183",
     "293",
     "654",
+    "656",
     "697",
     "705",
     "706",
@@ -1398,6 +1400,7 @@
     "293",
     "433",
     "646a",
+    "656",
     "680",
     "705",
     "731",
@@ -1419,7 +1422,7 @@
   {
    "slug": "department-of-consumer-and-business-services-oregon-occupational-safety-and-health-division",
    "name": "Department of Consumer and Business Services, Oregon Occupational Safety and Health Division",
-   "rules": 622,
+   "rules": 636,
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
@@ -1427,13 +1430,14 @@
    "chapters": [
     "315",
     "654",
+    "656",
     "658"
    ]
   },
   {
    "slug": "department-of-consumer-and-business-services-workers-compensation-board",
    "name": "Department of Consumer and Business Services, Workers' Compensation Board",
-   "rules": 92,
+   "rules": 219,
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
@@ -1448,7 +1452,7 @@
   {
    "slug": "department-of-consumer-and-business-services-workers-compensation-division",
    "name": "Department of Consumer and Business Services, Workers' Compensation Division",
-   "rules": 77,
+   "rules": 461,
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
@@ -1460,7 +1464,8 @@
     "293",
     "316",
     "656",
-    "670"
+    "670",
+    "731"
    ]
   },
   {
@@ -1503,7 +1508,7 @@
   {
    "slug": "department-of-energy",
    "name": "Department of Energy",
-   "rules": 318,
+   "rules": 322,
    "parent": null,
    "group": "department-of-energy",
    "group_name": "Department of Energy",
@@ -1518,7 +1523,8 @@
     "469a",
     "469b",
     "470",
-    "756"
+    "756",
+    "757"
    ]
   },
   {
@@ -1759,7 +1765,8 @@
    "chapters": [
     "183",
     "279a",
-    "410"
+    "410",
+    "656"
    ]
   },
   {
@@ -1781,6 +1788,7 @@
     "131",
     "178",
     "183",
+    "192",
     "205",
     "291",
     "329a",
@@ -1817,7 +1825,7 @@
   {
    "slug": "department-of-justice",
    "name": "Department of Justice",
-   "rules": 655,
+   "rules": 666,
    "parent": null,
    "group": "department-of-justice",
    "group_name": "Department of Justice",
@@ -1838,6 +1846,7 @@
     "181a",
     "183",
     "190",
+    "192",
     "200",
     "279a",
     "279b",
@@ -1857,6 +1866,7 @@
     "468",
     "468a",
     "646",
+    "656",
     "657",
     "671",
     "701"
@@ -2268,7 +2278,7 @@
   {
    "slug": "employment-department",
    "name": "Employment Department",
-   "rules": 167,
+   "rules": 168,
    "parent": null,
    "group": "employment-department",
    "group_name": "Employment Department",
@@ -2287,7 +2297,7 @@
   {
    "slug": "employment-relations-board",
    "name": "Employment Relations Board",
-   "rules": 116,
+   "rules": 125,
    "parent": null,
    "group": "employment-relations-board",
    "group_name": "Employment Relations Board",
@@ -2557,7 +2567,7 @@
   {
    "slug": "oregon-529-savings-board",
    "name": "Oregon 529 Savings Board",
-   "rules": 2,
+   "rules": 3,
    "parent": null,
    "group": "oregon-529-savings-board",
    "group_name": "Oregon 529 Savings Board",
@@ -3143,7 +3153,7 @@
   {
    "slug": "oregon-health-authority-public-health-division",
    "name": "Oregon Health Authority, Public Health Division",
-   "rules": 2197,
+   "rules": 2209,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
@@ -3182,6 +3192,7 @@
     "475c",
     "616",
     "624",
+    "656",
     "670",
     "676",
     "678",
@@ -3198,7 +3209,7 @@
   {
    "slug": "oregon-housing-and-community-services-department",
    "name": "Oregon Housing and Community Services Department",
-   "rules": 397,
+   "rules": 575,
    "parent": null,
    "group": "oregon-housing-and-community-services-department",
    "group_name": "Oregon Housing and Community Services Department",
@@ -3224,7 +3235,8 @@
     "458",
     "468a",
     "469",
-    "566"
+    "566",
+    "757"
    ]
   },
   {
@@ -3429,13 +3441,14 @@
   {
    "slug": "oregon-utility-notification-center",
    "name": "Oregon Utility Notification Center",
-   "rules": 2,
+   "rules": 12,
    "parent": null,
    "group": "oregon-utility-notification-center",
    "group_name": "Oregon Utility Notification Center",
    "governance": "executive_branch",
    "chapters": [
-    "183"
+    "183",
+    "757"
    ]
   },
   {
@@ -3487,7 +3500,7 @@
   {
    "slug": "parks-and-recreation-department",
    "name": "Parks and Recreation Department",
-   "rules": 450,
+   "rules": 451,
    "parent": null,
    "group": "parks-and-recreation-department",
    "group_name": "Parks and Recreation Department",
@@ -3549,7 +3562,7 @@
   {
    "slug": "public-utility-commission",
    "name": "Public Utility Commission",
-   "rules": 684,
+   "rules": 758,
    "parent": null,
    "group": "public-utility-commission",
    "group_name": "Public Utility Commission",
