@@ -53,8 +53,11 @@ All five vizzes from this brainstorm are now **built** (each a self-contained ge
 - ✅ **Statute-operationalization fan** — `src/build_statute_fan.py` →
   `viz/statute-operationalization.html`. All 404 implemented ORS chapters ranked by
   implementing-rule count, bars segmented by agency; dormant tail toggle.
-- ✅ **Corpus coverage map** — `src/build_coverage_map.py` → `viz/corpus-coverage.html`.
-  Squarified treemap of body → agency → doc_type sized by count.
+- ✅ **Policy documentation gap** — `src/build_policy_gap.py` → `viz/policy-documentation-gap.html`.
+  Of 93 rule-writing agencies, only 9 have any policy/procedure document ingested into the
+  corpus — ranked bars of rules vs. ingested policies per agency, explicitly framed as an
+  ingestion-coverage gap (see "Agency-policy coverage" above), never as a claim that an
+  agency lacks internal policies.
 - ✅ **Semantic topic map** — `src/build_topic_map.py` → `viz/topic-map.html`, over a cached
   UMAP from `src/build_topic_projection.py` → `_meta/embeddings/projection.2d.json` (computed
   once with a fixed seed; needs `requirements-embeddings.txt` + `umap-learn`). 68k points,
