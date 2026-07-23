@@ -26,6 +26,8 @@ relationships:
     - oar-839-006-0130
     - oar-839-006-0135
     - oar-839-006-0150
+    - ors-656.262
+    - ors-656.340
     - ors-659a.043
     - ors-659a.046
   implemented_by: []
