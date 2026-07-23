@@ -45,8 +45,8 @@ jobs:
         run: python3 src/build_agency_index.py --check
       - name: Agency authority-graph visualization must be current
         run: python3 src/build_agency_graph.py --check
-      - name: Corpus coverage map must be current
-        run: python3 src/build_coverage_map.py --check
+      - name: Policy-documentation-gap view must be current
+        run: python3 src/build_policy_gap.py --check
       - name: Statute-operationalization view must be current
         run: python3 src/build_statute_fan.py --check
       - name: Authority-chain explorer must be current
