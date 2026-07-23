@@ -115,10 +115,22 @@ def outputs():
     return {OUT: json.dumps(compute(), ensure_ascii=False, separators=(",", ":"))}
 
 
+def _stable(text: str) -> dict:
+    """Parsed JSON with the 'generated' timestamp dropped, so --check compares actual
+    data, not the date it happened to run on. Without this, --check trips on nothing but
+    the clock whenever it runs on a different calendar day (in its own timezone) than the
+    day the committed file was generated on — e.g. a file built in the evening in a
+    UTC-negative timezone looks stale to CI running in UTC a few hours later, same date in
+    neither reality but 'today' already rolled over in one of them."""
+    d = json.loads(text)
+    d.pop("generated", None)
+    return d
+
+
 def main():
     outs = outputs()
     if "--check" in sys.argv:
-        stale = [p for p, t in outs.items() if not p.exists() or p.read_text() != t]
+        stale = [p for p, t in outs.items() if not p.exists() or _stable(p.read_text()) != _stable(t)]
         if stale:
             print(f"{OUT.relative_to(REPO_ROOT)} is stale — run: "
                   "python3 src/build_governor_priorities_data.py")
