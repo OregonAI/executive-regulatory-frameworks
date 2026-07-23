@@ -77,10 +77,24 @@ def outputs():
     return {OUT: json.dumps(compute(), ensure_ascii=False, separators=(",", ":"))}
 
 
+def _stable(text: str) -> dict:
+    """Parsed JSON with the clock-derived fields dropped, so --check compares actual data,
+    not the day it happened to run on. 'generated' and every doc's 'age_years' are a
+    function of date.today() (age_years literally ticks up by 1/365.25 every day even with
+    zero real change), so an exact-text --check flakes daily on nothing but the clock --
+    worse than the governor-priorities version of this same bug, since that only flaked
+    across a UTC/local day-boundary crossing, not on every single run."""
+    d = json.loads(text)
+    d.pop("generated", None)
+    for doc in d.get("docs", []):
+        doc.pop("age_years", None)
+    return d
+
+
 def main():
     outs = outputs()
     if "--check" in sys.argv:
-        stale = [p for p, t in outs.items() if not p.exists() or p.read_text() != t]
+        stale = [p for p, t in outs.items() if not p.exists() or _stable(p.read_text()) != _stable(t)]
         if stale:
             print(f"{OUT.relative_to(REPO_ROOT)} is stale — run: python3 src/build_policy_age_data.py")
             sys.exit(1)
