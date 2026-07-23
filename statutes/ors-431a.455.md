@@ -1,6 +1,6 @@
 ---
 id: ors-431a.455
-title: "Automated external defibrillators required at places of public assembly; exceptions TREATMENT OF SUBSTANCE USE DISORDERS"
+title: "Automated external defibrillators required at places of public assembly; exceptions"
 doc_type: statute
 citation: "ORS 431A.455"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Automated external defibrillators required at places of public assembly; exceptions TREATMENT OF SUBSTANCE USE DISORDERS (ORS 431A.455)
+# Automated external defibrillators required at places of public assembly; exceptions (ORS 431A.455)
 
 ## At a glance
 
-ORS 431A.455 — Automated external defibrillators required at places of public assembly; exceptions TREATMENT OF SUBSTANCE USE DISORDERS. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.455 — Automated external defibrillators required at places of public assembly; exceptions. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -57,7 +57,7 @@ ORS 431A.455 — Automated external defibrillators required at places of public 
 
 (4) Subsection
 
-(2) of this section does not apply to a building primarily used for worship or education associated with worship. [Formerly 431.690] TREATMENT OF SUBSTANCE USE DISORDERS 
+(2) of this section does not apply to a building primarily used for worship or education associated with worship. [Formerly 431.690]
 
 ## Provenance & change history
 

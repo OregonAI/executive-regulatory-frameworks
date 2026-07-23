@@ -1,6 +1,6 @@
 ---
 id: ors-743b.345
-title: "Premium for continuation of coverage under ORS"
+title: "Premium for continuation of coverage under ORS 743B.344; termination of right to continuation"
 doc_type: statute
 citation: "ORS 743B.345"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Premium for continuation of coverage under ORS (ORS 743B.345)
+# Premium for continuation of coverage under ORS 743B.344; termination of right to continuation (ORS 743B.345)
 
 ## At a glance
 
-ORS 743B.345 — Premium for continuation of coverage under ORS. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.345 — Premium for continuation of coverage under ORS 743B.344; termination of right to continuation. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

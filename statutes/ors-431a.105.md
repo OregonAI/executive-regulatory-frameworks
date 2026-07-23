@@ -1,6 +1,6 @@
 ---
 id: ors-431a.105
-title: "Emergency Medical Services for Children Program; duties of Oregon Health Authority HEMOGLOBINOPATHIES AND HEMATOLOGISTS"
+title: "Emergency Medical Services for Children Program; duties of Oregon Health Authority"
 doc_type: statute
 citation: "ORS 431A.105"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Emergency Medical Services for Children Program; duties of Oregon Health Authority HEMOGLOBINOPATHIES AND HEMATOLOGISTS (ORS 431A.105)
+# Emergency Medical Services for Children Program; duties of Oregon Health Authority (ORS 431A.105)
 
 ## At a glance
 
-ORS 431A.105 — Emergency Medical Services for Children Program; duties of Oregon Health Authority HEMOGLOBINOPATHIES AND HEMATOLOGISTS. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.105 — Emergency Medical Services for Children Program; duties of Oregon Health Authority. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 

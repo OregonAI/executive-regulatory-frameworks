@@ -1,6 +1,6 @@
 ---
 id: ors-197a.030
-title: "Department support to local governments and tribes to incentivize needed housing STIMULATION OF HOUSING SUPPLY"
+title: "Department support to local governments and tribes to incentivize needed housing"
 doc_type: statute
 citation: "ORS 197A.030"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-197a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Department support to local governments and tribes to incentivize needed housing STIMULATION OF HOUSING SUPPLY (ORS 197A.030)
+# Department support to local governments and tribes to incentivize needed housing (ORS 197A.030)
 
 ## At a glance
 
-ORS 197A.030 — Department support to local governments and tribes to incentivize needed housing STIMULATION OF HOUSING SUPPLY. Chapter 197A (Chapter 197A), 2025 Edition.
+ORS 197A.030 — Department support to local governments and tribes to incentivize needed housing. Chapter 197A (Chapter 197A), 2025 Edition.
 
 ## Full text
 

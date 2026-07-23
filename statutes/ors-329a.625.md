@@ -1,6 +1,6 @@
 ---
 id: ors-329a.625
-title: "Prohibition on suspending or expelling child from program CHILD CARE TAX CREDIT PROGRAM"
+title: "Prohibition on suspending or expelling child from program"
 doc_type: statute
 citation: "ORS 329A.625"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-329a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Prohibition on suspending or expelling child from program CHILD CARE TAX CREDIT PROGRAM (ORS 329A.625)
+# Prohibition on suspending or expelling child from program (ORS 329A.625)
 
 ## At a glance
 
-ORS 329A.625 — Prohibition on suspending or expelling child from program CHILD CARE TAX CREDIT PROGRAM. Chapter 329A (Chapter 329A), 2025 Edition.
+ORS 329A.625 — Prohibition on suspending or expelling child from program. Chapter 329A (Chapter 329A), 2025 Edition.
 
 ## Full text
 

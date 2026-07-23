@@ -1,6 +1,6 @@
 ---
 id: ors-743b.197
-title: "Health Care Consumer Protection Advisory Committee MANAGED HEALTH INSURANCE"
+title: "Health Care Consumer Protection Advisory Committee"
 doc_type: statute
 citation: "ORS 743B.197"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Health Care Consumer Protection Advisory Committee MANAGED HEALTH INSURANCE (ORS 743B.197)
+# Health Care Consumer Protection Advisory Committee (ORS 743B.197)
 
 ## At a glance
 
-ORS 743B.197 — Health Care Consumer Protection Advisory Committee MANAGED HEALTH INSURANCE. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.197 — Health Care Consumer Protection Advisory Committee. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 
-743B.197 Health Care Consumer Protection Advisory Committee. The Director of the Department of Consumer and Business Services shall appoint a Health Care Consumer Protection Advisory Committee with fair representation of health care consumers, providers and insurers. The committee shall advise the director regarding the implementation of ORS 743.008, 743A.012, 743B.001, 743B.195, 743B.197, 743B.200, 743B.202, 743B.204, 743B.220, 743B.250, 743B.400, 743B.403, 743B.405, 743B.420, 743B.422, 743B.423, 743B.424 and 743B.550 and other issues related to health care consumer protection. [Formerly 743.827; 2017 c.101 §55; 2017 c.384 §11] MANAGED HEALTH INSURANCE 
+743B.197 Health Care Consumer Protection Advisory Committee. The Director of the Department of Consumer and Business Services shall appoint a Health Care Consumer Protection Advisory Committee with fair representation of health care consumers, providers and insurers. The committee shall advise the director regarding the implementation of ORS 743.008, 743A.012, 743B.001, 743B.195, 743B.197, 743B.200, 743B.202, 743B.204, 743B.220, 743B.250, 743B.400, 743B.403, 743B.405, 743B.420, 743B.422, 743B.423, 743B.424 and 743B.550 and other issues related to health care consumer protection. [Formerly 743.827; 2017 c.101 §55; 2017 c.384 §11]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-431a.780
-title: "Recombinant DNA research to comply with federal guidelines COMMUNITY VIOLENCE INTERVENTION PROGRAMS"
+title: "Recombinant DNA research to comply with federal guidelines"
 doc_type: statute
 citation: "ORS 431A.780"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Recombinant DNA research to comply with federal guidelines COMMUNITY VIOLENCE INTERVENTION PROGRAMS (ORS 431A.780)
+# Recombinant DNA research to comply with federal guidelines (ORS 431A.780)
 
 ## At a glance
 
-ORS 431A.780 — Recombinant DNA research to comply with federal guidelines COMMUNITY VIOLENCE INTERVENTION PROGRAMS. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.780 — Recombinant DNA research to comply with federal guidelines. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
-431A.780 Recombinant DNA research to comply with federal guidelines. Persons carrying out recombinant DNA research must comply with the recombinant research guidelines adopted by the National Institutes of Health and any subsequent modifications thereof. [Formerly 431.810] COMMUNITY VIOLENCE INTERVENTION PROGRAMS 
+431A.780 Recombinant DNA research to comply with federal guidelines. Persons carrying out recombinant DNA research must comply with the recombinant research guidelines adopted by the National Institutes of Health and any subsequent modifications thereof. [Formerly 431.810]
 
 ## Provenance & change history
 

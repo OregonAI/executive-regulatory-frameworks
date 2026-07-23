@@ -1,6 +1,6 @@
 ---
 id: ors-286a.255
-title: "Functions and duties of commission LOTTERY BONDS"
+title: "Functions and duties of commission"
 doc_type: statute
 citation: "ORS 286A.255"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-286a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Functions and duties of commission LOTTERY BONDS (ORS 286A.255)
+# Functions and duties of commission (ORS 286A.255)
 
 ## At a glance
 
-ORS 286A.255 — Functions and duties of commission LOTTERY BONDS. Chapter 286A (Chapter 286A), 2025 Edition.
+ORS 286A.255 — Functions and duties of commission. Chapter 286A (Chapter 286A), 2025 Edition.
 
 ## Full text
 

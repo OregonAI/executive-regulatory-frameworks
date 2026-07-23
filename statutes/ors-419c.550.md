@@ -1,6 +1,6 @@
 ---
 id: ors-419c.550
-title: "Duties and authority GUARDIAN"
+title: "Duties and authority"
 doc_type: statute
 citation: "ORS 419C.550"
 authority_level: statute
@@ -49,11 +49,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Duties and authority GUARDIAN (ORS 419C.550)
+# Duties and authority (ORS 419C.550)
 
 ## At a glance
 
-ORS 419C.550 — Duties and authority GUARDIAN. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.550 — Duties and authority. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 
@@ -71,7 +71,7 @@ ORS 419C.550 — Duties and authority GUARDIAN. Chapter 419C (Chapter 419C), 202
 
 (6) To apply for any Social Security benefits, public assistance or medical assistance, as defined in ORS 414.025, to which the youth or adjudicated youth is otherwise entitled and to use the benefits or assistance to provide for the care of the youth or adjudicated youth.
 
-(7) To obtain and disclose information necessary to apply for Social Security benefits, public assistance or medical assistance on behalf of the youth or adjudicated youth including the youth or adjudicated youth’s Social Security number or information that is not otherwise subject to disclosure under ORS 411.320 or 413.175. Information obtained under this subsection may be used only for the purpose of applying for Social Security benefits, public assistance or medical assistance on behalf of the youth or adjudicated youth. [1993 c.33 §250; 1993 c.367 §2; 2003 c.396 §125; 2013 c.640 §2; 2013 c.688 §89; 2021 c.489 §92] GUARDIAN 
+(7) To obtain and disclose information necessary to apply for Social Security benefits, public assistance or medical assistance on behalf of the youth or adjudicated youth including the youth or adjudicated youth’s Social Security number or information that is not otherwise subject to disclosure under ORS 411.320 or 413.175. Information obtained under this subsection may be used only for the purpose of applying for Social Security benefits, public assistance or medical assistance on behalf of the youth or adjudicated youth. [1993 c.33 §250; 1993 c.367 §2; 2003 c.396 §125; 2013 c.640 §2; 2013 c.688 §89; 2021 c.489 §92]
 
 ## Provenance & change history
 

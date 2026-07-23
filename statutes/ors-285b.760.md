@@ -1,6 +1,6 @@
 ---
 id: ors-285b.760
-title: "Definitions for ORS"
+title: "Definitions for ORS 285B.760 to"
 doc_type: statute
 citation: "ORS 285B.760"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 285B.760)
+# Definitions for ORS 285B.760 to (ORS 285B.760)
 
 ## At a glance
 
-ORS 285B.760 — Definitions for ORS. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.760 — Definitions for ORS 285B.760 to. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

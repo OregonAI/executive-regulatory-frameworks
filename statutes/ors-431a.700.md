@@ -1,6 +1,6 @@
 ---
 id: ors-431a.700
-title: "Oregon Health Authority to disseminate information DENTAL SEALANT PROGRAMS"
+title: "Oregon Health Authority to disseminate information"
 doc_type: statute
 citation: "ORS 431A.700"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon Health Authority to disseminate information DENTAL SEALANT PROGRAMS (ORS 431A.700)
+# Oregon Health Authority to disseminate information (ORS 431A.700)
 
 ## At a glance
 
-ORS 431A.700 — Oregon Health Authority to disseminate information DENTAL SEALANT PROGRAMS. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.700 — Oregon Health Authority to disseminate information. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -55,7 +55,7 @@ ORS 431A.700 — Oregon Health Authority to disseminate information DENTAL SEALA
 
 (3) In disseminating the information described in subsection
 
-(1) of this section, the authority shall consider the most effective means of providing the information to emergency medical services providers licensed under ORS chapter 682 and health care professionals who work in a hospital emergency department. [2015 c.501 §1] DENTAL SEALANT PROGRAMS 
+(1) of this section, the authority shall consider the most effective means of providing the information to emergency medical services providers licensed under ORS chapter 682 and health care professionals who work in a hospital emergency department. [2015 c.501 §1]
 
 ## Provenance & change history
 

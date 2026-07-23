@@ -1,6 +1,6 @@
 ---
 id: ors-468a.645
-title: "State Fire Marshal; program; halons; guidelines AEROSOL SPRAY CONTROL"
+title: "State Fire Marshal; program; halons; guidelines"
 doc_type: statute
 citation: "ORS 468A.645"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# State Fire Marshal; program; halons; guidelines AEROSOL SPRAY CONTROL (ORS 468A.645)
+# State Fire Marshal; program; halons; guidelines (ORS 468A.645)
 
 ## At a glance
 
-ORS 468A.645 — State Fire Marshal; program; halons; guidelines AEROSOL SPRAY CONTROL. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.645 — State Fire Marshal; program; halons; guidelines. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 
-468A.645 State Fire Marshal; program; halons; guidelines. The State Fire Marshal shall establish a program to minimize the unnecessary release of halons into the environment by providing guidelines for alternatives to full-scale dump testing procedures for industrial halon-based fire extinguishing systems. [Formerly 468.621] AEROSOL SPRAY CONTROL 
+468A.645 State Fire Marshal; program; halons; guidelines. The State Fire Marshal shall establish a program to minimize the unnecessary release of halons into the environment by providing guidelines for alternatives to full-scale dump testing procedures for industrial halon-based fire extinguishing systems. [Formerly 468.621]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-420a.155
-title: "Regional residential academies SECOND LOOK"
+title: "Regional residential academies"
 doc_type: statute
 citation: "ORS 420A.155"
 authority_level: statute
@@ -39,11 +39,11 @@ tags: ["ors", "chapter-420a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors420A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Regional residential academies SECOND LOOK (ORS 420A.155)
+# Regional residential academies (ORS 420A.155)
 
 ## At a glance
 
-ORS 420A.155 — Regional residential academies SECOND LOOK. Chapter 420A (Chapter 420A), 2025 Edition.
+ORS 420A.155 — Regional residential academies. Chapter 420A (Chapter 420A), 2025 Edition.
 
 ## Full text
 
@@ -57,7 +57,7 @@ ORS 420A.155 — Regional residential academies SECOND LOOK. Chapter 420A (Chapt
 
 (4) The youth authority may contract with any private agency to administer a regional residential academy subject to the provisions of ORS 420A.108 and 420A.111 (5).
 
-(5) The Director of the Oregon Youth Authority is solely responsible for determining which persons committed to, or placed in the physical custody of, the youth authority are eligible to participate in, and are accepted for, a regional residential academy. The juvenile court may recommend to the Oregon Youth Authority that an adjudicated youth be placed in a regional residential academy, but the recommendation is not binding on the youth authority. [1995 c.422 §§25,26; 2005 c.271 §6; 2009 c.595 §379; 2021 c.489 §153] SECOND LOOK 
+(5) The Director of the Oregon Youth Authority is solely responsible for determining which persons committed to, or placed in the physical custody of, the youth authority are eligible to participate in, and are accepted for, a regional residential academy. The juvenile court may recommend to the Oregon Youth Authority that an adjudicated youth be placed in a regional residential academy, but the recommendation is not binding on the youth authority. [1995 c.422 §§25,26; 2005 c.271 §6; 2009 c.595 §379; 2021 c.489 §153]
 
 ## Provenance & change history
 

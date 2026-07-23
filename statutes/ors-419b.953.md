@@ -1,6 +1,6 @@
 ---
 id: ors-419b.953
-title: "Training and continuing education for caseworkers REPORTING AND INVESTIGATION OF CHILD ABUSE"
+title: "Training and continuing education for caseworkers"
 doc_type: statute
 citation: "ORS 419B.953"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Training and continuing education for caseworkers REPORTING AND INVESTIGATION OF CHILD ABUSE (ORS 419B.953)
+# Training and continuing education for caseworkers (ORS 419B.953)
 
 ## At a glance
 
-ORS 419B.953 — Training and continuing education for caseworkers REPORTING AND INVESTIGATION OF CHILD ABUSE. Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.953 — Training and continuing education for caseworkers. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

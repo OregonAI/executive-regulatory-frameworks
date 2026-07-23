@@ -1,6 +1,6 @@
 ---
 id: ors-431a.158
-title: "Oregon Health Authority to prepare report REGULATION OF TOBACCO AND INHALANT DELIVERY SYSTEM SALES"
+title: "Oregon Health Authority to prepare report"
 doc_type: statute
 citation: "ORS 431A.158"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon Health Authority to prepare report REGULATION OF TOBACCO AND INHALANT DELIVERY SYSTEM SALES (ORS 431A.158)
+# Oregon Health Authority to prepare report (ORS 431A.158)
 
 ## At a glance
 
-ORS 431A.158 — Oregon Health Authority to prepare report REGULATION OF TOBACCO AND INHALANT DELIVERY SYSTEM SALES. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.158 — Oregon Health Authority to prepare report. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
-431A.158 Oregon Health Authority to prepare report. During each biennium, the Oregon Health Authority shall prepare a report regarding the awarding of grants from the Tobacco Use Reduction Account and the formation of public-private partnerships in connection with the receipt of funds from the account. The authority shall present the report to the Governor and to those committees of the Legislative Assembly to which matters of public health are assigned. [Formerly 431.836] REGULATION OF TOBACCO AND INHALANT DELIVERY SYSTEM SALES 
+431A.158 Oregon Health Authority to prepare report. During each biennium, the Oregon Health Authority shall prepare a report regarding the awarding of grants from the Tobacco Use Reduction Account and the formation of public-private partnerships in connection with the receipt of funds from the account. The authority shall present the report to the Governor and to those committees of the Legislative Assembly to which matters of public health are assigned. [Formerly 431.836]
 
 ## Provenance & change history
 

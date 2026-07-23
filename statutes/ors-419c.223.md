@@ -1,6 +1,6 @@
 ---
 id: ors-419c.223
-title: "Duties and tenure AUTHORIZED DIVERSION PROGRAMS"
+title: "Duties and tenure"
 doc_type: statute
 citation: "ORS 419C.223"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Duties and tenure AUTHORIZED DIVERSION PROGRAMS (ORS 419C.223)
+# Duties and tenure (ORS 419C.223)
 
 ## At a glance
 
-ORS 419C.223 — Duties and tenure AUTHORIZED DIVERSION PROGRAMS. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.223 — Duties and tenure. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 419C.223 — Duties and tenure AUTHORIZED DIVERSION PROGRAMS. Chapter 419C (
 
 (2) The adjudicated youth is determined to be no longer eligible for special education; or
 
-(3) The juvenile court terminates jurisdiction of the adjudicated youth and determines that the adjudicated youth’s parent or guardian is both known and available to protect the special educational rights of the adjudicated youth. [1993 c.33 §188; 2003 c.396 §101; 2021 c.489 §64] AUTHORIZED DIVERSION PROGRAMS 
+(3) The juvenile court terminates jurisdiction of the adjudicated youth and determines that the adjudicated youth’s parent or guardian is both known and available to protect the special educational rights of the adjudicated youth. [1993 c.33 §188; 2003 c.396 §101; 2021 c.489 §64]
 
 ## Provenance & change history
 

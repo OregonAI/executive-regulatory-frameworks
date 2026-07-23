@@ -1,6 +1,6 @@
 ---
 id: ors-646a.062
-title: "Penalty for violation of ORS"
+title: "Penalty for violation of ORS 646A.060"
 doc_type: statute
 citation: "ORS 646A.062"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Penalty for violation of ORS (ORS 646A.062)
+# Penalty for violation of ORS 646A.060 (ORS 646A.062)
 
 ## At a glance
 
-ORS 646A.062 — Penalty for violation of ORS. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.062 — Penalty for violation of ORS 646A.060. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

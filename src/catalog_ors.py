@@ -68,6 +68,19 @@ def extract_chapter_title(raw_text, ch):
     return title[:160] if len(title) >= 3 else None
 
 
+# A cross-reference embedded in an earlier entry's own catchline ("'Agency' defined for
+# ORS 283.140 and 283.143") contains section-number-looking substrings that would
+# otherwise be mistaken for real TOC-entry boundaries below, truncating the entry that
+# contains them and stealing/discarding the real entry those numbers actually belong to.
+XREF_RE = re.compile(r"\bORS\s+\d{3}[A-Z]?\.\d{3}(?:\s+and\s+\d{3}[A-Z]?\.\d{3})*\b")
+# A bare part/subpart heading ("TREATMENT OF PRISONERS") between two numbered TOC entries
+# has no section number of its own, so it isn't a split boundary either — it trails onto
+# the PRECEDING entry's catchline instead. Distinguished from real title text by being an
+# all-caps multi-word run (ORS catchlines are Title Case); length-gated so a short acronym
+# at the end of a real title ("...eligibility for TANF") isn't mistaken for one.
+TRAILING_HEADING_RE = re.compile(r"\s+[A-Z][A-Z '\-]{7,}$")
+
+
 def parse_toc(raw_text, ch):
     t = ws_only(raw_text)
     i = t.find("EDITION")
@@ -78,13 +91,21 @@ def parse_toc(raw_text, ch):
     m = re.search(r" \(1\) | means ", chunk[300:])
     end = 300 + m.start() if m else len(chunk)
     seg = chunk[:end]
-    nums = list(re.finditer(re.escape(ch) + r"[A-Z]?\.\d{3}\b", seg))
+    xref_spans = [m.span() for m in XREF_RE.finditer(seg)]
+
+    def real_boundary(m):
+        return not any(a <= m.start() < b for a, b in xref_spans)
+
+    num_re = re.compile(re.escape(ch) + r"[A-Z]?\.\d{3}\b")
+    nums = [m for m in num_re.finditer(seg) if real_boundary(m)]
     if not nums:
         return []
     last = nums[-1]
     toc = seg[:last.start()]
 
-    parts = re.split(r"(?=\b" + re.escape(ch) + r"\.\d{3}\b)", toc)
+    bounds = [m.start() for m in num_re.finditer(toc) if real_boundary(m)]
+    parts = [toc[b:(bounds[i + 1] if i + 1 < len(bounds) else len(toc))]
+             for i, b in enumerate(bounds)]
     out, seen = [], set()
     for p in parts:
         pm = re.match(r"(" + re.escape(ch) + r"\.\d{3})\s+(.*)", p.strip())
@@ -92,6 +113,7 @@ def parse_toc(raw_text, ch):
             continue
         num, rest = pm.groups()
         rest = re.split(r"\[", rest)[0].strip(" .")
+        rest = TRAILING_HEADING_RE.sub("", rest).strip(" .")
         if num in seen or len(rest) < 3 or rest.lower() in ("to", "enacted in lieu of"):
             continue
         seen.add(num)

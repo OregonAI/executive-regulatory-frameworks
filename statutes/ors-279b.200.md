@@ -1,6 +1,6 @@
 ---
 id: ors-279b.200
-title: "Definitions for ORS"
+title: "Definitions for ORS 279B.200 to"
 doc_type: statute
 citation: "ORS 279B.200"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-279b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279B.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Definitions for ORS (ORS 279B.200)
+# Definitions for ORS 279B.200 to (ORS 279B.200)
 
 ## At a glance
 
-ORS 279B.200 — Definitions for ORS. Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
+ORS 279B.200 — Definitions for ORS 279B.200 to. Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
 
 ## Full text
 

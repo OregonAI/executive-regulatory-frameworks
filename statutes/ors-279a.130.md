@@ -1,6 +1,6 @@
 ---
 id: ors-279a.130
-title: "Preference for exceeding Buy America requirements for transit projects; rules STATE PROCUREMENT"
+title: "Preference for exceeding Buy America requirements for transit projects; rules"
 doc_type: statute
 citation: "ORS 279A.130"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-279a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Preference for exceeding Buy America requirements for transit projects; rules STATE PROCUREMENT (ORS 279A.130)
+# Preference for exceeding Buy America requirements for transit projects; rules (ORS 279A.130)
 
 ## At a glance
 
-ORS 279A.130 — Preference for exceeding Buy America requirements for transit projects; rules STATE PROCUREMENT. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
+ORS 279A.130 — Preference for exceeding Buy America requirements for transit projects; rules. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 279A.130 — Preference for exceeding Buy America requirements for transit p
 
 (2) The Department of Transportation, the Oregon Department of Administrative Services and the Attorney General may adopt rules under ORS 279A.065 and establish policies and procedures to implement subsection
 
-(1) of this section. [2012 c.58 §2] STATE PROCUREMENT 
+(1) of this section. [2012 c.58 §2]
 
 ## Provenance & change history
 

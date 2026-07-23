@@ -1,6 +1,6 @@
 ---
 id: ors-285b.676
-title: "Oregon Rural Capacity Fund (Temporary provisions relating to Agricultural Overtime Award Fund are compiled as notes following ORS"
+title: "Oregon Rural Capacity Fund (Temporary provisions relating to Agricultural Overtime Award Fund are compiled as notes following ORS 285B.676)"
 doc_type: statute
 citation: "ORS 285B.676"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon Rural Capacity Fund (Temporary provisions relating to Agricultural Overtime Award Fund are compiled as notes following ORS (ORS 285B.676)
+# Oregon Rural Capacity Fund (Temporary provisions relating to Agricultural Overtime Award Fund are compiled as notes following ORS 285B.676) (ORS 285B.676)
 
 ## At a glance
 
-ORS 285B.676 — Oregon Rural Capacity Fund (Temporary provisions relating to Agricultural Overtime Award Fund are compiled as notes following ORS. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.676 — Oregon Rural Capacity Fund (Temporary provisions relating to Agricultural Overtime Award Fund are compiled as notes following ORS 285B.676). Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 
@@ -71,7 +71,7 @@ ORS 285B.676 — Oregon Rural Capacity Fund (Temporary provisions relating to Ag
 
 (3) Moneys in the fund are continuously appropriated to the Oregon Business Development Department for the following purposes: (a) Paying the actual costs incurred by the department in developing and administering section 1, chapter 12, Oregon Laws 2023; and (b) Carrying out the provisions of section 1, chapter 12, Oregon Laws 2023, in accordance with section 447 (1), chapter 110, Oregon Laws 2022.
 
-(4) Any moneys remaining in the fund on January 2, 2027, shall be transferred to the General Fund. [2023 c.12 §2; 2025 c.629 §1] Sec. 3. Sections 1 and 2 of this 2023 Act are repealed on January 2, 2027. [2023 c.12 §3] 285B.677 [Formerly 285.583; 1999 c.460 §7; 2003 c.662 §19; renumbered 285C.085 in 2003] 285B.680 [Formerly 285.585; 2003 c.662 §25; renumbered 285C.115 in 2003] 285B.683 [1997 c.835 §2; 2003 c.662 §26; renumbered 285C.120 in 2003] 285B.686 [Formerly 285.587; 2003 c.662 §47; renumbered 285C.245 in 2003] 285B.689 [Formerly 285.588; 2003 c.662 §48; renumbered 285C.250 in 2003] 285B.692 [Formerly 285.593; 2003 c.662 §27; renumbered 285C.125 in 2003] 285B.695 [Formerly 285.595; 2003 c.662 §28; renumbered 285C.130 in 2003] 285B.698 [Formerly 285.597; 2003 c.662 §35; renumbered 285C.175 in 2003] 285B.701 [Formerly 285.598; 1999 c.1104 §3; 2003 c.662 §31; renumbered 285C.145 in 2003] 285B.704 [Formerly 285.600; 1999 c.1104 §3a; 2003 c.662 §39; renumbered 285C.200 in 2003] 285B.705 [1999 c.1104 §4b; repealed by 2003 c.662 §55] 285B.707 [Formerly 285.603; 1999 c.1104 §5; 2001 c.957 §3; 2003 c.662 §29; renumbered 285C.135 in 2003] 285B.710 [Formerly 285.605; 2003 c.662 §41; renumbered 285C.215 in 2003] 285B.713 [Formerly 285.607; 2001 c.957 §4; 2003 c.662 §36; renumbered 285C.180 in 2003] 285B.714 [2001 c.883 §39d; 2003 c.662 §38; renumbered 285C.190 in 2003] 285B.716 [Formerly 285.610; repealed by 2003 c.662 §55] 285B.719 [Formerly 285.613; 2003 c.662 §30; renumbered 285C.140 in 2003] 285B.722 [Formerly 285.615; 2003 c.662 §42; renumbered 285C.220 in 2003] 285B.723 [1999 c.1104 §2; repealed by 2003 c.662 §55] 285B.725 [Formerly 285.616; 1999 c.1104 §7; repealed by 2003 c.662 §55] 285B.726 [1997 c.835 §44; 1999 c.1104 §19; repealed by 2003 c.662 §55] 285B.728 [Formerly 285.617; 1999 c.1104 §8; 2003 c.662 §46; renumbered 285C.240 in 2003] 285B.731 [Formerly 285.620; 2003 c.662 §50; renumbered 285C.260 in 2003] ENTREPRENEURIAL DEVELOPMENT 
+(4) Any moneys remaining in the fund on January 2, 2027, shall be transferred to the General Fund. [2023 c.12 §2; 2025 c.629 §1] Sec. 3. Sections 1 and 2 of this 2023 Act are repealed on January 2, 2027. [2023 c.12 §3] 285B.677 [Formerly 285.583; 1999 c.460 §7; 2003 c.662 §19; renumbered 285C.085 in 2003] 285B.680 [Formerly 285.585; 2003 c.662 §25; renumbered 285C.115 in 2003] 285B.683 [1997 c.835 §2; 2003 c.662 §26; renumbered 285C.120 in 2003] 285B.686 [Formerly 285.587; 2003 c.662 §47; renumbered 285C.245 in 2003] 285B.689 [Formerly 285.588; 2003 c.662 §48; renumbered 285C.250 in 2003] 285B.692 [Formerly 285.593; 2003 c.662 §27; renumbered 285C.125 in 2003] 285B.695 [Formerly 285.595; 2003 c.662 §28; renumbered 285C.130 in 2003] 285B.698 [Formerly 285.597; 2003 c.662 §35; renumbered 285C.175 in 2003] 285B.701 [Formerly 285.598; 1999 c.1104 §3; 2003 c.662 §31; renumbered 285C.145 in 2003] 285B.704 [Formerly 285.600; 1999 c.1104 §3a; 2003 c.662 §39; renumbered 285C.200 in 2003] 285B.705 [1999 c.1104 §4b; repealed by 2003 c.662 §55] 285B.707 [Formerly 285.603; 1999 c.1104 §5; 2001 c.957 §3; 2003 c.662 §29; renumbered 285C.135 in 2003] 285B.710 [Formerly 285.605; 2003 c.662 §41; renumbered 285C.215 in 2003] 285B.713 [Formerly 285.607; 2001 c.957 §4; 2003 c.662 §36; renumbered 285C.180 in 2003] 285B.714 [2001 c.883 §39d; 2003 c.662 §38; renumbered 285C.190 in 2003] 285B.716 [Formerly 285.610; repealed by 2003 c.662 §55] 285B.719 [Formerly 285.613; 2003 c.662 §30; renumbered 285C.140 in 2003] 285B.722 [Formerly 285.615; 2003 c.662 §42; renumbered 285C.220 in 2003] 285B.723 [1999 c.1104 §2; repealed by 2003 c.662 §55] 285B.725 [Formerly 285.616; 1999 c.1104 §7; repealed by 2003 c.662 §55] 285B.726 [1997 c.835 §44; 1999 c.1104 §19; repealed by 2003 c.662 §55] 285B.728 [Formerly 285.617; 1999 c.1104 §8; 2003 c.662 §46; renumbered 285C.240 in 2003] 285B.731 [Formerly 285.620; 2003 c.662 §50; renumbered 285C.260 in 2003]
 
 ## Provenance & change history
 

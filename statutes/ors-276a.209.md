@@ -1,6 +1,6 @@
 ---
 id: ors-276a.209
-title: "State Information Technology Operating Fund"
+title: "State Information Technology Operating Fund (Technical Services and Information Technology Management)"
 doc_type: statute
 citation: "ORS 276A.209"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-276a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# State Information Technology Operating Fund (ORS 276A.209)
+# State Information Technology Operating Fund (Technical Services and Information Technology Management) (ORS 276A.209)
 
 ## At a glance
 
-ORS 276A.209 — State Information Technology Operating Fund. Chapter 276A (Information Technology), 2025 Edition.
+ORS 276A.209 — State Information Technology Operating Fund (Technical Services and Information Technology Management). Chapter 276A (Information Technology), 2025 Edition.
 
 ## Full text
 

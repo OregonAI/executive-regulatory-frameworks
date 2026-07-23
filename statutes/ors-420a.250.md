@@ -1,6 +1,6 @@
 ---
 id: ors-420a.250
-title: "Peer support; confidentiality of peer support communications RESTORATIVE JUSTICE PROGRAM"
+title: "Peer support; confidentiality of peer support communications"
 doc_type: statute
 citation: "ORS 420A.250"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-420a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors420A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Peer support; confidentiality of peer support communications RESTORATIVE JUSTICE PROGRAM (ORS 420A.250)
+# Peer support; confidentiality of peer support communications (ORS 420A.250)
 
 ## At a glance
 
-ORS 420A.250 — Peer support; confidentiality of peer support communications RESTORATIVE JUSTICE PROGRAM. Chapter 420A (Chapter 420A), 2025 Edition.
+ORS 420A.250 — Peer support; confidentiality of peer support communications. Chapter 420A (Chapter 420A), 2025 Edition.
 
 ## Full text
 
@@ -63,7 +63,7 @@ ORS 420A.250 — Peer support; confidentiality of peer support communications RE
 
 (8) Notwithstanding subsection
 
-(2) of this section, nothing in this section prohibits any communications between peer support team members who conduct peer support check-in sessions. [2023 c.272 §1] RESTORATIVE JUSTICE PROGRAM 
+(2) of this section, nothing in this section prohibits any communications between peer support team members who conduct peer support check-in sessions. [2023 c.272 §1]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-659a.206
-title: "Effects of ORS"
+title: "Effects of ORS 659A.200 to"
 doc_type: statute
 citation: "ORS 659A.206"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Effects of ORS (ORS 659A.206)
+# Effects of ORS 659A.200 to (ORS 659A.206)
 
 ## At a glance
 
-ORS 659A.206 — Effects of ORS. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.206 — Effects of ORS 659A.200 to. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

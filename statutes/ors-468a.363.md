@@ -1,6 +1,6 @@
 ---
 id: ors-468a.363
-title: "Purpose of ORS"
+title: "Purpose of ORS 468A.363,"
 doc_type: statute
 citation: "ORS 468A.363"
 authority_level: statute
@@ -77,11 +77,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Purpose of ORS (ORS 468A.363)
+# Purpose of ORS 468A.363, (ORS 468A.363)
 
 ## At a glance
 
-ORS 468A.363 — Purpose of ORS. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.363 — Purpose of ORS 468A.363,. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 

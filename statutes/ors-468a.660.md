@@ -1,6 +1,6 @@
 ---
 id: ors-468a.660
-title: "Wholesale transactions permitted ASBESTOS ABATEMENT PROJECTS"
+title: "Wholesale transactions permitted"
 doc_type: statute
 citation: "ORS 468A.660"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Wholesale transactions permitted ASBESTOS ABATEMENT PROJECTS (ORS 468A.660)
+# Wholesale transactions permitted (ORS 468A.660)
 
 ## At a glance
 
-ORS 468A.660 — Wholesale transactions permitted ASBESTOS ABATEMENT PROJECTS. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.660 — Wholesale transactions permitted. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 
-468A.660 Wholesale transactions permitted. Nothing in ORS 468A.655 shall prevent wholesale transactions, including but not limited to the transportation, warehousing, sale, and delivery of any aerosol spray described in ORS 468A.655 (1). [Formerly 468.610] ASBESTOS ABATEMENT PROJECTS 
+468A.660 Wholesale transactions permitted. Nothing in ORS 468A.655 shall prevent wholesale transactions, including but not limited to the transportation, warehousing, sale, and delivery of any aerosol spray described in ORS 468A.655 (1). [Formerly 468.610]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-279b.283
-title: "Condition concerning use of conflict minerals LEGAL REMEDIES"
+title: "Condition concerning use of conflict minerals"
 doc_type: statute
 citation: "ORS 279B.283"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-279b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279B.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Condition concerning use of conflict minerals LEGAL REMEDIES (ORS 279B.283)
+# Condition concerning use of conflict minerals (ORS 279B.283)
 
 ## At a glance
 
-ORS 279B.283 — Condition concerning use of conflict minerals LEGAL REMEDIES. Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
+ORS 279B.283 — Condition concerning use of conflict minerals. Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 279B.283 — Condition concerning use of conflict minerals LEGAL REMEDIES. C
 
 (3) Notwithstanding provisions of law that require a state contracting agency to award a public contract to the lowest responsible bidder or to the prospective contractor that submits the best proposal or quotation, to the extent that procurement requires or will use conflict minerals, a state contracting agency shall give a preference to each prospective contractor that meets the requirements set forth in subsection
 
-(2) of this section. [2019 c.294 §2] LEGAL REMEDIES 
+(2) of this section. [2019 c.294 §2]
 
 ## Provenance & change history
 

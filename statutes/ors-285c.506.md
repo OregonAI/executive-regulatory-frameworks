@@ -1,6 +1,6 @@
 ---
 id: ors-285c.506
-title: "Annual certification of facility; application; fee; review; appeal; duration of certification RENEWABLE ENERGY RESOURCE EQUIPMENT MANUFACTURING FACILITIES"
+title: "Annual certification of facility; application; fee; review; appeal; duration of certification"
 doc_type: statute
 citation: "ORS 285C.506"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Annual certification of facility; application; fee; review; appeal; duration of certification RENEWABLE ENERGY RESOURCE EQUIPMENT MANUFACTURING FACILITIES (ORS 285C.506)
+# Annual certification of facility; application; fee; review; appeal; duration of certification (ORS 285C.506)
 
 ## At a glance
 
-ORS 285C.506 — Annual certification of facility; application; fee; review; appeal; duration of certification RENEWABLE ENERGY RESOURCE EQUIPMENT MANUFACTURING FACILITIES. Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.506 — Annual certification of facility; application; fee; review; appeal; duration of certification. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 
@@ -82,7 +82,7 @@ ORS 285C.506 — Annual certification of facility; application; fee; review; app
 
 (12) An annual certification may not be issued under this section for a tax year that is more than nine consecutive tax years following the first tax year an exemption is allowed under ORS 316.778 or 317.391 with respect to the facility.
 
-(13) The department must approve or disapprove an application under this section within 30 days of the date the application is filed. [Formerly 285B.108; 2007 c.843 §78; 2011 c.730 §21b] 285C.530 [Formerly 285B.486; repealed by 2011 c.83 §4] 285C.533 [Formerly 285B.488; repealed by 2011 c.83 §4] RENEWABLE ENERGY RESOURCE EQUIPMENT MANUFACTURING FACILITIES 
+(13) The department must approve or disapprove an application under this section within 30 days of the date the application is filed. [Formerly 285B.108; 2007 c.843 §78; 2011 c.730 §21b] 285C.530 [Formerly 285B.486; repealed by 2011 c.83 §4] 285C.533 [Formerly 285B.488; repealed by 2011 c.83 §4]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-419b.929
-title: "Enforcement of certain orders and judgments MISCELLANEOUS"
+title: "Enforcement of certain orders and judgments"
 doc_type: statute
 citation: "ORS 419B.929"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Enforcement of certain orders and judgments MISCELLANEOUS (ORS 419B.929)
+# Enforcement of certain orders and judgments (ORS 419B.929)
 
 ## At a glance
 
-ORS 419B.929 — Enforcement of certain orders and judgments MISCELLANEOUS. Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.929 — Enforcement of certain orders and judgments. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 
-419B.929 Enforcement of certain orders and judgments. A court may enforce an order or judgment directing a party to perform a specific act by punishing the party refusing or neglecting to comply with the order or judgment, as for a contempt as provided in ORS 33.015 to 33.155. [2001 c.622 §35] MISCELLANEOUS 
+419B.929 Enforcement of certain orders and judgments. A court may enforce an order or judgment directing a party to perform a specific act by punishing the party refusing or neglecting to comply with the order or judgment, as for a contempt as provided in ORS 33.015 to 33.155. [2001 c.622 §35]
 
 ## Provenance & change history
 

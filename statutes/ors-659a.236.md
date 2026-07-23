@@ -1,6 +1,6 @@
 ---
 id: ors-659a.236
-title: "Discrimination for testifying before Legislative Assembly, committee or task force prohibited UNLAWFUL EMPLOYMENT DISCRIMINATION RELATING TO EMPLOYEE HOUSING"
+title: "Discrimination for testifying before Legislative Assembly, committee or task force prohibited"
 doc_type: statute
 citation: "ORS 659A.236"
 authority_level: statute
@@ -38,15 +38,15 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Discrimination for testifying before Legislative Assembly, committee or task force prohibited UNLAWFUL EMPLOYMENT DISCRIMINATION RELATING TO EMPLOYEE HOUSING (ORS 659A.236)
+# Discrimination for testifying before Legislative Assembly, committee or task force prohibited (ORS 659A.236)
 
 ## At a glance
 
-ORS 659A.236 — Discrimination for testifying before Legislative Assembly, committee or task force prohibited UNLAWFUL EMPLOYMENT DISCRIMINATION RELATING TO EMPLOYEE HOUSING. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.236 — Discrimination for testifying before Legislative Assembly, committee or task force prohibited. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 
-659A.236 Discrimination for testifying before Legislative Assembly, committee or task force prohibited. It is an unlawful employment practice for an employer to discharge, demote, suspend or in any manner discriminate against an employee with regard to promotion, compensation or other terms, conditions or privileges of employment solely for the reason that the employee has testified before the Legislative Assembly or any of its interim or statutory committees, including advisory committees and subcommittees thereof, or task forces. [Formerly 659.270] UNLAWFUL EMPLOYMENT DISCRIMINATION RELATING TO EMPLOYEE HOUSING 
+659A.236 Discrimination for testifying before Legislative Assembly, committee or task force prohibited. It is an unlawful employment practice for an employer to discharge, demote, suspend or in any manner discriminate against an employee with regard to promotion, compensation or other terms, conditions or privileges of employment solely for the reason that the employee has testified before the Legislative Assembly or any of its interim or statutory committees, including advisory committees and subcommittees thereof, or task forces. [Formerly 659.270]
 
 ## Provenance & change history
 

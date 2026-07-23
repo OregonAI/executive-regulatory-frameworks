@@ -1,6 +1,6 @@
 ---
 id: ors-181a.735
-title: "Advisory committee; meetings; expenses PLAN ADDRESSING USE OF DEADLY PHYSICAL FORCE"
+title: "Advisory committee; meetings; expenses"
 doc_type: statute
 citation: "ORS 181A.735"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Advisory committee; meetings; expenses PLAN ADDRESSING USE OF DEADLY PHYSICAL FORCE (ORS 181A.735)
+# Advisory committee; meetings; expenses (ORS 181A.735)
 
 ## At a glance
 
-ORS 181A.735 — Advisory committee; meetings; expenses PLAN ADDRESSING USE OF DEADLY PHYSICAL FORCE. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.735 — Advisory committee; meetings; expenses. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 181A.735 — Advisory committee; meetings; expenses PLAN ADDRESSING USE OF D
 
 (2) The committee shall meet at such times and places as shall be determined by the coordinator.
 
-(3) Legislative members shall receive no compensation or per diem for services as members but may receive actual and necessary travel and other expenses under ORS 171.072 from funds appropriated to the Legislative Assembly. Other members of the committee shall be entitled to expenses as provided in ORS 292.495. [Formerly 181.765] PLAN ADDRESSING USE OF DEADLY PHYSICAL FORCE 
+(3) Legislative members shall receive no compensation or per diem for services as members but may receive actual and necessary travel and other expenses under ORS 171.072 from funds appropriated to the Legislative Assembly. Other members of the committee shall be entitled to expenses as provided in ORS 292.495. [Formerly 181.765]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-419c.420
-title: "Adjudication without hearing DISPOSITION"
+title: "Adjudication without hearing"
 doc_type: statute
 citation: "ORS 419C.420"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Adjudication without hearing DISPOSITION (ORS 419C.420)
+# Adjudication without hearing (ORS 419C.420)
 
 ## At a glance
 
-ORS 419C.420 — Adjudication without hearing DISPOSITION. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.420 — Adjudication without hearing. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 
-419C.420 Adjudication without hearing. If a youth is cited or summoned for violating ORS 471.430, 475C.317 or 475C.341 and fails to appear, the court may adjudicate the citation or petition and enter a disposition without a hearing. [2001 c.904 §14; 2005 c.708 §54; 2013 c.591 §9; 2016 c.24 §56; 2017 c.20 §6a; 2017 c.21 §106] DISPOSITION 
+419C.420 Adjudication without hearing. If a youth is cited or summoned for violating ORS 471.430, 475C.317 or 475C.341 and fails to appear, the court may adjudicate the citation or petition and enter a disposition without a hearing. [2001 c.904 §14; 2005 c.708 §54; 2013 c.591 §9; 2016 c.24 §56; 2017 c.20 §6a; 2017 c.21 §106]
 
 ## Provenance & change history
 

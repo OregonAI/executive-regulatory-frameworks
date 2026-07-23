@@ -60,7 +60,7 @@ ORS 286A.585 — and 327.700 to 327.711. Chapter 286A (Chapter 286A), 2025 Editi
 
 (4) The net proceeds of lottery bonds issued pursuant to this section shall be deposited in the Economic Infrastructure Project Fund established by ORS 285B.551. The Director of the Oregon Business Development Department shall allocate the moneys deposited in the Economic Infrastructure Project Fund for the purpose described in this section in accordance with the priorities developed by the Oregon Business Development Commission in accordance with ORS 285A.020.
 
-(5) The proceeds of lottery bonds issued pursuant to this section shall be used only for the purposes set forth in this section and for bond-related costs. [Formerly 286.585] PRIVATE ACTIVITY BONDS 
+(5) The proceeds of lottery bonds issued pursuant to this section shall be used only for the purposes set forth in this section and for bond-related costs. [Formerly 286.585]
 
 ## Provenance & change history
 

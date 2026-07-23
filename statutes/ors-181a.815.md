@@ -1,6 +1,6 @@
 ---
 id: ors-181a.815
-title: "Expenses; rules IMMIGRATION ENFORCEMENT"
+title: "Expenses; rules"
 doc_type: statute
 citation: "ORS 181A.815"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Expenses; rules IMMIGRATION ENFORCEMENT (ORS 181A.815)
+# Expenses; rules (ORS 181A.815)
 
 ## At a glance
 
-ORS 181A.815 — Expenses; rules IMMIGRATION ENFORCEMENT. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.815 — Expenses; rules. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 
@@ -61,7 +61,7 @@ ORS 181A.815 — Expenses; rules IMMIGRATION ENFORCEMENT. Chapter 181A (State Po
 
 (2) of this section.
 
-(4) The department may adopt rules necessary for the administration of this section. [Formerly 181.799] IMMIGRATION ENFORCEMENT 
+(4) The department may adopt rules necessary for the administration of this section. [Formerly 181.799]
 
 ## Provenance & change history
 

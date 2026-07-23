@@ -1,6 +1,6 @@
 ---
 id: ors-475c.556
-title: "Statement of applicant for license under ORS"
+title: "Statement of applicant for license under ORS 475C.548"
 doc_type: statute
 citation: "ORS 475C.556"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Statement of applicant for license under ORS (ORS 475C.556)
+# Statement of applicant for license under ORS 475C.548 (ORS 475C.556)
 
 ## At a glance
 
-ORS 475C.556 — Statement of applicant for license under ORS. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.556 — Statement of applicant for license under ORS 475C.548. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

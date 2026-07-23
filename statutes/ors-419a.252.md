@@ -1,6 +1,6 @@
 ---
 id: ors-419a.252
-title: "Definitions for ORS"
+title: "Definitions for ORS 419A.252,"
 doc_type: statute
 citation: "ORS 419A.252"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-419a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 419A.252)
+# Definitions for ORS 419A.252, (ORS 419A.252)
 
 ## At a glance
 
-ORS 419A.252 — Definitions for ORS. Chapter 419A (Chapter 419A), 2025 Edition.
+ORS 419A.252 — Definitions for ORS 419A.252,. Chapter 419A (Chapter 419A), 2025 Edition.
 
 ## Full text
 

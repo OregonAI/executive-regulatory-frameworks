@@ -1,6 +1,6 @@
 ---
 id: ors-659a.419
-title: "Closed captioning required on television receivers in places of public accommodation; exceptions; training requirements; penalties; rules UNLAWFUL DISCRIMINATIO"
+title: "Closed captioning required on television receivers in places of public accommodation; exceptions; training requirements; penalties; rules"
 doc_type: statute
 citation: "ORS 659A.419"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Closed captioning required on television receivers in places of public accommodation; exceptions; training requirements; penalties; rules UNLAWFUL DISCRIMINATIO (ORS 659A.419)
+# Closed captioning required on television receivers in places of public accommodation; exceptions; training requirements; penalties; rules (ORS 659A.419)
 
 ## At a glance
 
-ORS 659A.419 — Closed captioning required on television receivers in places of public accommodation; exceptions; training requirements; penalties; rules UNLAWFUL DISCRIMINATIO. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.419 — Closed captioning required on television receivers in places of public accommodation; exceptions; training requirements; penalties; rules. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 
@@ -67,7 +67,7 @@ ORS 659A.419 — Closed captioning required on television receivers in places of
 
 (11) Moneys collected as penalties under this section shall be deposited in the Bureau of Labor and Industries Account established under ORS 651.160.
 
-(12) The Commissioner of the Bureau of Labor and Industries may adopt rules reasonably necessary for the administration of this section. [2023 c.144 §2] 659A.420 [Formerly 659.031; repealed by 2008 c.36 §17] UNLAWFUL DISCRIMINATION IN REAL PROPERTY TRANSACTIONS 
+(12) The Commissioner of the Bureau of Labor and Industries may adopt rules reasonably necessary for the administration of this section. [2023 c.144 §2] 659A.420 [Formerly 659.031; repealed by 2008 c.36 §17]
 
 ## Provenance & change history
 

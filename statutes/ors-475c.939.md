@@ -1,6 +1,6 @@
 ---
 id: ors-475c.939
-title: "Duties of commission EXCLUSIVELY MEDICAL LICENSEES"
+title: "Duties of commission"
 doc_type: statute
 citation: "ORS 475C.939"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Duties of commission EXCLUSIVELY MEDICAL LICENSEES (ORS 475C.939)
+# Duties of commission (ORS 475C.939)
 
 ## At a glance
 
-ORS 475C.939 — Duties of commission EXCLUSIVELY MEDICAL LICENSEES. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.939 — Duties of commission. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 
@@ -56,7 +56,7 @@ ORS 475C.939 — Duties of commission EXCLUSIVELY MEDICAL LICENSEES. Chapter 475
 
 (4) Develop a long-term strategic plan for ensuring that cannabis will remain affordable for persons with debilitating medical conditions as defined in ORS 475C.777; and
 
-(5) Monitor and study federal laws, regulations and policies regarding marijuana. [Formerly 475B.961] EXCLUSIVELY MEDICAL LICENSEES 
+(5) Monitor and study federal laws, regulations and policies regarding marijuana. [Formerly 475B.961]
 
 ## Provenance & change history
 

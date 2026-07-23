@@ -1,6 +1,6 @@
 ---
 id: ors-468b.525
-title: "Seismic Risk Mitigation Fund POLLUTANT REDUCTION TRADING PROGRAMS"
+title: "Seismic Risk Mitigation Fund"
 doc_type: statute
 citation: "ORS 468B.525"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Seismic Risk Mitigation Fund POLLUTANT REDUCTION TRADING PROGRAMS (ORS 468B.525)
+# Seismic Risk Mitigation Fund (ORS 468B.525)
 
 ## At a glance
 
-ORS 468B.525 — Seismic Risk Mitigation Fund POLLUTANT REDUCTION TRADING PROGRAMS. Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.525 — Seismic Risk Mitigation Fund. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 468B.525 — Seismic Risk Mitigation Fund POLLUTANT REDUCTION TRADING PROGRA
 
 (2) Moneys in the Seismic Risk Mitigation Fund shall consist of: (a) Money appropriated to the fund by the Legislative Assembly; (b) Fees deposited in the fund under ORS 468B.513; (c) Moneys transferred to the fund from the federal or state government; or (d) Gifts, grants and donations received from any source.
 
-(3) All moneys in the Seismic Risk Mitigation Fund are continuously appropriated to the Department of Environmental Quality for the purposes of: (a) Reviewing seismic risk mitigation implementation plans submitted under ORS 468B.513 and seismic risk assessments submitted under ORS 468B.510; and (b) Providing grants or other financial assistance to owners or operators of bulk oils or liquid fuels terminals under ORS 468B.513 (2)(k). [2022 c.99 §6] POLLUTANT REDUCTION TRADING PROGRAMS 
+(3) All moneys in the Seismic Risk Mitigation Fund are continuously appropriated to the Department of Environmental Quality for the purposes of: (a) Reviewing seismic risk mitigation implementation plans submitted under ORS 468B.513 and seismic risk assessments submitted under ORS 468B.510; and (b) Providing grants or other financial assistance to owners or operators of bulk oils or liquid fuels terminals under ORS 468B.513 (2)(k). [2022 c.99 §6]
 
 ## Provenance & change history
 

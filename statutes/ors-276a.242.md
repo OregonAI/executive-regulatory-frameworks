@@ -1,6 +1,6 @@
 ---
 id: ors-276a.242
-title: "Portfolio-based management of information technology resources for State Treasurer"
+title: "Portfolio-based management of information technology resources for State Treasurer (Oregon Transparency Website)"
 doc_type: statute
 citation: "ORS 276A.242"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-276a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Portfolio-based management of information technology resources for State Treasurer (ORS 276A.242)
+# Portfolio-based management of information technology resources for State Treasurer (Oregon Transparency Website) (ORS 276A.242)
 
 ## At a glance
 
-ORS 276A.242 — Portfolio-based management of information technology resources for State Treasurer. Chapter 276A (Information Technology), 2025 Edition.
+ORS 276A.242 — Portfolio-based management of information technology resources for State Treasurer (Oregon Transparency Website). Chapter 276A (Information Technology), 2025 Edition.
 
 ## Full text
 

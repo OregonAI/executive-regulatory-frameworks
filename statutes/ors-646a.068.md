@@ -1,6 +1,6 @@
 ---
 id: ors-646a.068
-title: "Penalty for violating ORS"
+title: "Penalty for violating ORS 646A.065 (Telephonic Equipment)"
 doc_type: statute
 citation: "ORS 646A.068"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Penalty for violating ORS (ORS 646A.068)
+# Penalty for violating ORS 646A.065 (Telephonic Equipment) (ORS 646A.068)
 
 ## At a glance
 
-ORS 646A.068 — Penalty for violating ORS. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.068 — Penalty for violating ORS 646A.065 (Telephonic Equipment). Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-646a.544
-title: "Local government enforcement; notice required; penalties LICENSES"
+title: "Local government enforcement; notice required; penalties"
 doc_type: statute
 citation: "ORS 646A.544"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Local government enforcement; notice required; penalties LICENSES (ORS 646A.544)
+# Local government enforcement; notice required; penalties (ORS 646A.544)
 
 ## At a glance
 
-ORS 646A.544 — Local government enforcement; notice required; penalties LICENSES. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.544 — Local government enforcement; notice required; penalties. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 646A.544 — Local government enforcement; notice required; penalties LICENS
 
 (3) A covered entity shall pay any civil penalty imposed under this section to the city, county or special district that brought the action to recover the civil penalty.
 
-(4) In addition to the amount of any civil penalty imposed, a city, county or special district may recover reasonable enforcement costs and attorney fees. [2021 c.181 §3] LICENSES 
+(4) In addition to the amount of any civil penalty imposed, a city, county or special district may recover reasonable enforcement costs and attorney fees. [2021 c.181 §3]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-475a.220
-title: "Definitions for ORS"
+title: "Definitions for ORS 475A.210 to"
 doc_type: statute
 citation: "ORS 475A.220"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 475A.220)
+# Definitions for ORS 475A.210 to (ORS 475A.220)
 
 ## At a glance
 
-ORS 475A.220 — Definitions for ORS. Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.220 — Definitions for ORS 475A.210 to. Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 

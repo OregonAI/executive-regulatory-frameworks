@@ -1,6 +1,7 @@
 """Shared helpers for repo validation tooling."""
 import datetime
 import hashlib
+import html
 import re
 import subprocess
 import sys
@@ -202,6 +203,30 @@ def _itcs_bounds(lines):
     return starts
 
 
+RULE_TITLE_HTML_RE = re.compile(
+    r"<strong>\s*(\S+)\s*</strong>\s*<br\s*/?>\s*<strong>(.*?)</strong>", re.S)
+
+
+def rule_title_from_html(raw_html: str, target: str) -> str | None:
+    """An OAR rule's real title, read from OARD's own markup: the rule number and its
+    title both sit in their own <strong> tag, separated by a <br> — '<strong>817-010-0110
+    </strong><br><strong>Walls and Ceilings</strong>'. Far more reliable than guessing a
+    prose boundary in the flattened text: OARD titles are Title Case (most words
+    capitalized), which defeats a first-capitalized-word heuristic almost immediately, and
+    many rules have no numbered '(1)' subsection to anchor on either. None if not found."""
+    m = RULE_TITLE_HTML_RE.search(raw_html)
+    if not m or m.group(1) != target:
+        # the target rule's tag pair isn't the first one on the page (e.g. OARD served a
+        # renumbered page listing a neighbor first) — search all pairs for the right number
+        for m in RULE_TITLE_HTML_RE.finditer(raw_html):
+            if m.group(1) == target:
+                break
+        else:
+            return None
+    title = html.unescape(re.sub(r"<[^>]+>", " ", m.group(2)))
+    return normalize_ws(title) or None
+
+
 def snapshot_slice(doc_id: str, snapshot_id: str, raw_text: str) -> str:
     """The portion of a shared snapshot's text that a document's '## Full text' covers.
     Used identically by the migration generator and verify_provenance so coverage is
@@ -213,8 +238,18 @@ def snapshot_slice(doc_id: str, snapshot_id: str, raw_text: str) -> str:
         if not matches:
             return ""
         start = matches[-1].start()
-        nxt = re.search(r"\b\d{3}[A-Z]?\.\d{3} [A-Z“\"]", norm[start + 10:])
-        end = start + 10 + nxt.start() if nxt else len(norm)
+        window = norm[start + 10:]
+        nxt = re.search(r"\b\d{3}[A-Z]?\.\d{3} [A-Z“\"]", window)
+        # A bare part/subpart heading ("TREATMENT OF PRISONERS") right after this section's
+        # closing citation bracket has no section number of its own, so the next-numbered-
+        # section search above doesn't stop there — it would otherwise bleed into this
+        # slice. If one immediately follows the bracket before the next real section, end
+        # right after the bracket instead.
+        head = re.search(r"\]\s+[A-Z][A-Z '\-]{7,}(?:\s|$)", window)
+        candidates = [start + 10 + nxt.start()] if nxt else []
+        if head:
+            candidates.append(start + 10 + head.start() + 1)  # +1 = right after "]"
+        end = min(candidates) if candidates else len(norm)
         return norm[start:end]
     if doc_id.startswith("oar-"):
         # OARD page text includes site chrome; the rule text runs from the rule number

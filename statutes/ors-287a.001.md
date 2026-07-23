@@ -1,6 +1,6 @@
 ---
 id: ors-287a.001
-title: "Definitions for ORS chapter 287A AUTHORITY FOR BORROWING"
+title: "Definitions for ORS chapter 287A"
 doc_type: statute
 citation: "ORS 287A.001"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-287a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors287A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS chapter 287A AUTHORITY FOR BORROWING (ORS 287A.001)
+# Definitions for ORS chapter 287A (ORS 287A.001)
 
 ## At a glance
 
-ORS 287A.001 — Definitions for ORS chapter 287A AUTHORITY FOR BORROWING. Chapter 287A (Chapter 287A), 2025 Edition.
+ORS 287A.001 — Definitions for ORS chapter 287A. Chapter 287A (Chapter 287A), 2025 Edition.
 
 ## Full text
 
@@ -79,7 +79,7 @@ ORS 287A.001 — Definitions for ORS chapter 287A AUTHORITY FOR BORROWING. Chapt
 
 (18) “Revenue bond” means a bond that is not a general obligation bond.
 
-(19) “Termination payment” means the amount payable under an agreement for exchange of interest rates by one party to another party as a result of the termination, in whole or part, of the agreement prior to the expiration of the stated term. [2007 c.783 §42; 2009 c.537 §9; 2013 c.491 §2; 2013 c.768 §28; 2015 c.53 §2; 2015 c.767 §88] AUTHORITY FOR BORROWING 
+(19) “Termination payment” means the amount payable under an agreement for exchange of interest rates by one party to another party as a result of the termination, in whole or part, of the agreement prior to the expiration of the stated term. [2007 c.783 §42; 2009 c.537 §9; 2013 c.491 §2; 2013 c.768 §28; 2015 c.53 §2; 2015 c.767 §88]
 
 ## Provenance & change history
 

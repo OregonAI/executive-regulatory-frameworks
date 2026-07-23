@@ -1,6 +1,6 @@
 ---
 id: ors-181a.290
-title: "Certain information required from agencies; rules MISSING PERSONS PROCEDURES"
+title: "Certain information required from agencies; rules"
 doc_type: statute
 citation: "ORS 181A.290"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Certain information required from agencies; rules MISSING PERSONS PROCEDURES (ORS 181A.290)
+# Certain information required from agencies; rules (ORS 181A.290)
 
 ## At a glance
 
-ORS 181A.290 — Certain information required from agencies; rules MISSING PERSONS PROCEDURES. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.290 — Certain information required from agencies; rules. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

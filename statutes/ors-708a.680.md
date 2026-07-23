@@ -1,6 +1,6 @@
 ---
 id: ors-708a.680
-title: "Contractual rights not restricted PENALTIES"
+title: "Contractual rights not restricted"
 doc_type: statute
 citation: "ORS 708A.680"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-708a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Contractual rights not restricted PENALTIES (ORS 708A.680)
+# Contractual rights not restricted (ORS 708A.680)
 
 ## At a glance
 
-ORS 708A.680 — Contractual rights not restricted PENALTIES. Chapter 708A (Chapter 708A), 2025 Edition.
+ORS 708A.680 — Contractual rights not restricted. Chapter 708A (Chapter 708A), 2025 Edition.
 
 ## Full text
 

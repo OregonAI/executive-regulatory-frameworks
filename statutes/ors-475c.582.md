@@ -1,6 +1,6 @@
 ---
 id: ors-475c.582
-title: "Authority of State Department of Agriculture, Oregon Liquor and Cannabis Commission for certain violations of ORS"
+title: "Authority of State Department of Agriculture, Oregon Liquor and Cannabis Commission for certain violations of ORS 475C.540 to"
 doc_type: statute
 citation: "ORS 475C.582"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority of State Department of Agriculture, Oregon Liquor and Cannabis Commission for certain violations of ORS (ORS 475C.582)
+# Authority of State Department of Agriculture, Oregon Liquor and Cannabis Commission for certain violations of ORS 475C.540 to (ORS 475C.582)
 
 ## At a glance
 
-ORS 475C.582 — Authority of State Department of Agriculture, Oregon Liquor and Cannabis Commission for certain violations of ORS. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.582 — Authority of State Department of Agriculture, Oregon Liquor and Cannabis Commission for certain violations of ORS 475C.540 to. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

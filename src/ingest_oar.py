@@ -26,7 +26,7 @@ import yaml
 from html_to_text import html_to_text
 from ingest_lib import fetch
 from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, content_hash, normalize_ws,
-                      normalize_volatile, snapshot_slice, ws_only)
+                      normalize_volatile, rule_title_from_html, snapshot_slice, ws_only)
 
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
 GROUP = REPO_ROOT / "_meta/sources/oar.yml"
@@ -235,9 +235,8 @@ def cmd_ingest(chapters, skip_group=False):
                     r["note"] = "no rule body found on the OARD page"
                     skipped += 1
                     continue
-                # title = text between the rule number and the first sentence marker
-                m = re.match(re.escape(target) + r"\s+(.{3,120}?)(?:\s\(1\)|\s[A-Z][a-z]|\.)", sl)
-                title_line = normalize_ws(m.group(1)) if m else f"OAR {target}"
+                title_line = rule_title_from_html(raw.decode("utf-8", errors="replace"),
+                                                  target) or f"OAR {target}"
                 body = doc_body(target, title_line, url, sha, s_ch, s_div)
                 body = body.replace("{FT}", flow_to_lines(sl))
                 out.write_text(body)

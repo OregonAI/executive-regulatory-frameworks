@@ -1,6 +1,6 @@
 ---
 id: ors-181a.320
-title: "Written policies relating to missing vulnerable adults required SEXUAL ASSAULT FORENSIC EVIDENCE KITS"
+title: "Written policies relating to missing vulnerable adults required"
 doc_type: statute
 citation: "ORS 181A.320"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Written policies relating to missing vulnerable adults required SEXUAL ASSAULT FORENSIC EVIDENCE KITS (ORS 181A.320)
+# Written policies relating to missing vulnerable adults required (ORS 181A.320)
 
 ## At a glance
 
-ORS 181A.320 — Written policies relating to missing vulnerable adults required SEXUAL ASSAULT FORENSIC EVIDENCE KITS. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.320 — Written policies relating to missing vulnerable adults required. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

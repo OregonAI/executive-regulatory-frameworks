@@ -1,6 +1,6 @@
 ---
 id: ors-279c.670
-title: "Application of ORS"
+title: "Application of ORS 279C.650 to"
 doc_type: statute
 citation: "ORS 279C.670"
 authority_level: statute
@@ -40,15 +40,15 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Application of ORS (ORS 279C.670)
+# Application of ORS 279C.650 to (ORS 279C.670)
 
 ## At a glance
 
-ORS 279C.670 — Application of ORS. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.670 — Application of ORS 279C.650 to. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 
-279C.670 Application of ORS 279C.650 to 279C.670. ORS 279C.650 to 279C.670 do not apply to suspension of the work or termination of the contract that occurs as a result of the contractor’s violation of federal, state or local statutes, ordinances, rules or regulations in existence at the time the contract was executed or as a result of violations of the terms of the contract. [2003 c.794 §164] PREVAILING WAGE RATE 
+279C.670 Application of ORS 279C.650 to 279C.670. ORS 279C.650 to 279C.670 do not apply to suspension of the work or termination of the contract that occurs as a result of the contractor’s violation of federal, state or local statutes, ordinances, rules or regulations in existence at the time the contract was executed or as a result of violations of the terms of the contract. [2003 c.794 §164]
 
 ## Provenance & change history
 

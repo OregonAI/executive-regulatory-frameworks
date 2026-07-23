@@ -1,6 +1,6 @@
 ---
 id: ors-419a.180
-title: "Power of court to enforce orders by contempt order FORMER JEOPARDY"
+title: "Power of court to enforce orders by contempt order"
 doc_type: statute
 citation: "ORS 419A.180"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-419a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Power of court to enforce orders by contempt order FORMER JEOPARDY (ORS 419A.180)
+# Power of court to enforce orders by contempt order (ORS 419A.180)
 
 ## At a glance
 
-ORS 419A.180 — Power of court to enforce orders by contempt order FORMER JEOPARDY. Chapter 419A (Chapter 419A), 2025 Edition.
+ORS 419A.180 — Power of court to enforce orders by contempt order. Chapter 419A (Chapter 419A), 2025 Edition.
 
 ## Full text
 
-419A.180 Power of court to enforce orders by contempt order. In case of failure to comply with any order of the juvenile court, the court may proceed for contempt of court against the person failing to comply. [1993 c.33 §45] FORMER JEOPARDY 
+419A.180 Power of court to enforce orders by contempt order. In case of failure to comply with any order of the juvenile court, the court may proceed for contempt of court against the person failing to comply. [1993 c.33 §45]
 
 ## Provenance & change history
 

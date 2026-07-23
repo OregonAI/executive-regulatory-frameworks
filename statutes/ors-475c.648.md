@@ -1,6 +1,6 @@
 ---
 id: ors-475c.648
-title: "Authority of State Department of Agriculture, Oregon Liquor and Cannabis Commission for certain violations of ORS"
+title: "Authority of State Department of Agriculture, Oregon Liquor and Cannabis Commission for certain violations of ORS 475C.600 to"
 doc_type: statute
 citation: "ORS 475C.648"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority of State Department of Agriculture, Oregon Liquor and Cannabis Commission for certain violations of ORS (ORS 475C.648)
+# Authority of State Department of Agriculture, Oregon Liquor and Cannabis Commission for certain violations of ORS 475C.600 to (ORS 475C.648)
 
 ## At a glance
 
-ORS 475C.648 — Authority of State Department of Agriculture, Oregon Liquor and Cannabis Commission for certain violations of ORS. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.648 — Authority of State Department of Agriculture, Oregon Liquor and Cannabis Commission for certain violations of ORS 475C.600 to. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 
@@ -49,7 +49,7 @@ ORS 475C.648 — Authority of State Department of Agriculture, Oregon Liquor and
 
 (1) If a person violates a provision of ORS 475C.600 to 475C.648 or a rule adopted under ORS 475C.600 to 475C.648 with regard to an industrial hemp-derived vapor item: (a) The State Department of Agriculture may impose disciplinary action described in ORS 571.285 and impose a civil penalty under ORS 571.348 if the person is a grower or handler licensed under ORS 571.281. (b) The Oregon Liquor and Cannabis Commission may impose a civil penalty under ORS 475C.644 if the person is not a grower or handler licensed under ORS 571.281.
 
-(2) The commission and the department may adopt rules to carry out this section. [2021 c.646 §12; 2025 c.2 §34] TAXATION OF CANNABIS AND CANNABIS PRODUCTS 
+(2) The commission and the department may adopt rules to carry out this section. [2021 c.646 §12; 2025 c.2 §34]
 
 ## Provenance & change history
 

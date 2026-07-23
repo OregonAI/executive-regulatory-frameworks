@@ -1,6 +1,6 @@
 ---
 id: ors-468a.785
-title: "Pilot programs AGRICULTURAL OPERATIONS AND EQUIPMENT"
+title: "Pilot programs"
 doc_type: statute
 citation: "ORS 468A.785"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Pilot programs AGRICULTURAL OPERATIONS AND EQUIPMENT (ORS 468A.785)
+# Pilot programs (ORS 468A.785)
 
 ## At a glance
 
-ORS 468A.785 — Pilot programs AGRICULTURAL OPERATIONS AND EQUIPMENT. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.785 — Pilot programs. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 

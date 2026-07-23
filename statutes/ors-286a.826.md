@@ -1,6 +1,6 @@
 ---
 id: ors-286a.826
-title: "Budgeting for Article XI-Q project costs HIGHER EDUCATION BONDS"
+title: "Budgeting for Article XI-Q project costs"
 doc_type: statute
 citation: "ORS 286A.826"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-286a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Budgeting for Article XI-Q project costs HIGHER EDUCATION BONDS (ORS 286A.826)
+# Budgeting for Article XI-Q project costs (ORS 286A.826)
 
 ## At a glance
 
-ORS 286A.826 — Budgeting for Article XI-Q project costs HIGHER EDUCATION BONDS. Chapter 286A (Chapter 286A), 2025 Edition.
+ORS 286A.826 — Budgeting for Article XI-Q project costs. Chapter 286A (Chapter 286A), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 286A.826 — Budgeting for Article XI-Q project costs HIGHER EDUCATION BONDS
 
 (2) Amounts billed during the biennium by the Oregon Department of Administrative Services under ORS 286A.824; and
 
-(3) The bond-related costs associated with the projects financed or to be financed with Article XI-Q bonds. [2011 c.14 §7; 2016 c.117 §51] HIGHER EDUCATION BONDS 
+(3) The bond-related costs associated with the projects financed or to be financed with Article XI-Q bonds. [2011 c.14 §7; 2016 c.117 §51]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-419b.558
-title: "Entry of judgment of emancipation INDIAN CHILD WELFARE"
+title: "Entry of judgment of emancipation"
 doc_type: statute
 citation: "ORS 419B.558"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Entry of judgment of emancipation INDIAN CHILD WELFARE (ORS 419B.558)
+# Entry of judgment of emancipation (ORS 419B.558)
 
 ## At a glance
 
-ORS 419B.558 — Entry of judgment of emancipation INDIAN CHILD WELFARE. Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.558 — Entry of judgment of emancipation. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 
@@ -52,7 +52,7 @@ ORS 419B.558 — Entry of judgment of emancipation INDIAN CHILD WELFARE. Chapter
 
 (2) Upon entry of a judgment of emancipation by the court, the applicant shall be given a copy of the judgment. The judgment shall instruct that the applicant obtain an Oregon driver’s license or an Oregon identification card through the Department of Transportation and that the Department of Transportation make a notation of the minor’s emancipated status on the license or identification card.
 
-(3) An emancipated minor shall be subject to the jurisdiction of the adult courts for all criminal offenses. [1993 c.546 §136; 2003 c.576 §452] INDIAN CHILD WELFARE 
+(3) An emancipated minor shall be subject to the jurisdiction of the adult courts for all criminal offenses. [1993 c.546 §136; 2003 c.576 §452]
 
 ## Provenance & change history
 

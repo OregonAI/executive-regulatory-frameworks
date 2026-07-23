@@ -1,6 +1,6 @@
 ---
 id: ors-459a.759
-title: "State preemption of certain local provisions EDUCATION"
+title: "State preemption of certain local provisions"
 doc_type: statute
 citation: "ORS 459A.759"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# State preemption of certain local provisions EDUCATION (ORS 459A.759)
+# State preemption of certain local provisions (ORS 459A.759)
 
 ## At a glance
 
-ORS 459A.759 — State preemption of certain local provisions EDUCATION. Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.759 — State preemption of certain local provisions. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 

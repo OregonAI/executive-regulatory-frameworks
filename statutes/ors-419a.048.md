@@ -1,6 +1,6 @@
 ---
 id: ors-419a.048
-title: "Court to comply with fiscal reporting procedures DETENTION AND SHELTER FACILITIES"
+title: "Court to comply with fiscal reporting procedures"
 doc_type: statute
 citation: "ORS 419A.048"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-419a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Court to comply with fiscal reporting procedures DETENTION AND SHELTER FACILITIES (ORS 419A.048)
+# Court to comply with fiscal reporting procedures (ORS 419A.048)
 
 ## At a glance
 
-ORS 419A.048 — Court to comply with fiscal reporting procedures DETENTION AND SHELTER FACILITIES. Chapter 419A (Chapter 419A), 2025 Edition.
+ORS 419A.048 — Court to comply with fiscal reporting procedures. Chapter 419A (Chapter 419A), 2025 Edition.
 
 ## Full text
 
-419A.048 Court to comply with fiscal reporting procedures. Any court with juvenile court jurisdiction that receives financial assistance under ORS 419A.045 to 419A.048 shall comply with fiscal reporting procedures developed and approved by the Oregon Youth Authority. [Formerly 423.350; 2001 c.904 §4; 2001 c.905 §5] DETENTION AND SHELTER FACILITIES 
+419A.048 Court to comply with fiscal reporting procedures. Any court with juvenile court jurisdiction that receives financial assistance under ORS 419A.045 to 419A.048 shall comply with fiscal reporting procedures developed and approved by the Oregon Youth Authority. [Formerly 423.350; 2001 c.904 §4; 2001 c.905 §5]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-308a.259
-title: "Disqualification of homesite OPEN SPACE LANDS"
+title: "Disqualification of homesite"
 doc_type: statute
 citation: "ORS 308A.259"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-308a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors308A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Disqualification of homesite OPEN SPACE LANDS (ORS 308A.259)
+# Disqualification of homesite (ORS 308A.259)
 
 ## At a glance
 
-ORS 308A.259 — Disqualification of homesite OPEN SPACE LANDS. Chapter 308A (Chapter 308A), 2025 Edition.
+ORS 308A.259 — Disqualification of homesite. Chapter 308A (Chapter 308A), 2025 Edition.
 
 ## Full text
 
@@ -53,7 +53,7 @@ ORS 308A.259 — Disqualification of homesite OPEN SPACE LANDS. Chapter 308A (Ch
 
 (1) of this section, except for establishing a nonfarm dwelling pursuant to ORS 215.236, no additional tax shall be imposed following disqualification. The remaining qualifying portion of the parcel shall be valued as specially assessed.
 
-(3) If the owner establishes a nonfarm dwelling in an exclusive farm use zone under ORS 215.236, additional taxes shall be imposed as provided in ORS 308A.700 to 308A.733. [Formerly 308.378] OPEN SPACE LANDS 
+(3) If the owner establishes a nonfarm dwelling in an exclusive farm use zone under ORS 215.236, additional taxes shall be imposed as provided in ORS 308A.700 to 308A.733. [Formerly 308.378]
 
 ## Provenance & change history
 

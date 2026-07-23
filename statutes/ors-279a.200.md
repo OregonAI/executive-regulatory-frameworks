@@ -1,6 +1,6 @@
 ---
 id: ors-279a.200
-title: "Definitions for ORS"
+title: "Definitions for ORS 279A.200 to"
 doc_type: statute
 citation: "ORS 279A.200"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-279a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Definitions for ORS (ORS 279A.200)
+# Definitions for ORS 279A.200 to (ORS 279A.200)
 
 ## At a glance
 
-ORS 279A.200 — Definitions for ORS. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
+ORS 279A.200 — Definitions for ORS 279A.200 to. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
 
 ## Full text
 

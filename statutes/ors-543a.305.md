@@ -1,6 +1,6 @@
 ---
 id: ors-543a.305
-title: "Conversion of hydroelectric water right to in-stream water right; exceptions HYDROELECTRIC APPLICATION REVIEW TEAM"
+title: "Conversion of hydroelectric water right to in-stream water right; exceptions"
 doc_type: statute
 citation: "ORS 543A.305"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-543a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors543A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Conversion of hydroelectric water right to in-stream water right; exceptions HYDROELECTRIC APPLICATION REVIEW TEAM (ORS 543A.305)
+# Conversion of hydroelectric water right to in-stream water right; exceptions (ORS 543A.305)
 
 ## At a glance
 
-ORS 543A.305 — Conversion of hydroelectric water right to in-stream water right; exceptions HYDROELECTRIC APPLICATION REVIEW TEAM. Chapter 543A (Chapter 543A), 2025 Edition.
+ORS 543A.305 — Conversion of hydroelectric water right to in-stream water right; exceptions. Chapter 543A (Chapter 543A), 2025 Edition.
 
 ## Full text
 

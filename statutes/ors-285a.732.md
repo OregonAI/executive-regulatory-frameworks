@@ -1,6 +1,6 @@
 ---
 id: ors-285a.732
-title: "Short title GENERAL PROVISIONS"
+title: "Short title"
 doc_type: statute
 citation: "ORS 285A.732"
 authority_level: statute
@@ -45,11 +45,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Short title GENERAL PROVISIONS (ORS 285A.732)
+# Short title (ORS 285A.732)
 
 ## At a glance
 
-ORS 285A.732 — Short title GENERAL PROVISIONS. Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.732 — Short title. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

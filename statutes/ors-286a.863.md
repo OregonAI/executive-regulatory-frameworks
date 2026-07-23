@@ -1,6 +1,6 @@
 ---
 id: ors-286a.863
-title: "Rules; billing of public universities and community colleges; agreements with Oregon Health and Science University GENERAL PROVISIONS"
+title: "Rules; billing of public universities and community colleges; agreements with Oregon Health and Science University"
 doc_type: statute
 citation: "ORS 286A.863"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-286a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Rules; billing of public universities and community colleges; agreements with Oregon Health and Science University GENERAL PROVISIONS (ORS 286A.863)
+# Rules; billing of public universities and community colleges; agreements with Oregon Health and Science University (ORS 286A.863)
 
 ## At a glance
 
-ORS 286A.863 — Rules; billing of public universities and community colleges; agreements with Oregon Health and Science University GENERAL PROVISIONS. Chapter 286A (Chapter 286A), 2025 Edition.
+ORS 286A.863 — Rules; billing of public universities and community colleges; agreements with Oregon Health and Science University. Chapter 286A (Chapter 286A), 2025 Edition.
 
 ## Full text
 

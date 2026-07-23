@@ -1,6 +1,6 @@
 ---
 id: ors-646a.276
-title: "and"
+title: "Sale of gift card that expires, declines in value, includes fee or does not give option to redeem"
 doc_type: statute
 citation: "ORS 646A.276"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# and (ORS 646A.276)
+# Sale of gift card that expires, declines in value, includes fee or does not give option to redeem (ORS 646A.276)
 
 ## At a glance
 
-ORS 646A.276 — and. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.276 — Sale of gift card that expires, declines in value, includes fee or does not give option to redeem. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

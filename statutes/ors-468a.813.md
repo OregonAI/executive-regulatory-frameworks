@@ -1,6 +1,6 @@
 ---
 id: ors-468a.813
-title: "Voluntary emission control label program; rules; fees EMISSION REDUCTION CREDIT BANKS"
+title: "Voluntary emission control label program; rules; fees"
 doc_type: statute
 citation: "ORS 468A.813"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Voluntary emission control label program; rules; fees EMISSION REDUCTION CREDIT BANKS (ORS 468A.813)
+# Voluntary emission control label program; rules; fees (ORS 468A.813)
 
 ## At a glance
 
-ORS 468A.813 — Voluntary emission control label program; rules; fees EMISSION REDUCTION CREDIT BANKS. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.813 — Voluntary emission control label program; rules; fees. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 
@@ -57,7 +57,7 @@ ORS 468A.813 — Voluntary emission control label program; rules; fees EMISSION 
 
 (4) The fees collected under subsection
 
-(3) of this section shall be deposited into the State Treasury to the credit of an account of the department and are continuously appropriated to the department for payment of the costs of the department in carrying out the provisions of this section. [2019 c.645 §15] EMISSION REDUCTION CREDIT BANKS 
+(3) of this section shall be deposited into the State Treasury to the credit of an account of the department and are continuously appropriated to the department for payment of the costs of the department in carrying out the provisions of this section. [2019 c.645 §15]
 
 ## Provenance & change history
 

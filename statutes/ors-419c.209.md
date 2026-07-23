@@ -1,6 +1,6 @@
 ---
 id: ors-419c.209
-title: "Applicability of other laws EDUCATIONAL SURROGATE"
+title: "Applicability of other laws"
 doc_type: statute
 citation: "ORS 419C.209"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Applicability of other laws EDUCATIONAL SURROGATE (ORS 419C.209)
+# Applicability of other laws (ORS 419C.209)
 
 ## At a glance
 
-ORS 419C.209 — Applicability of other laws EDUCATIONAL SURROGATE. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.209 — Applicability of other laws. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 
-419C.209 Applicability of other laws. Appointment of counsel for the youth or parent is subject to ORS 135.055, 151.216 and 151.219. [1993 c.33 §186; 2001 c.962 §52] EDUCATIONAL SURROGATE 
+419C.209 Applicability of other laws. Appointment of counsel for the youth or parent is subject to ORS 135.055, 151.216 and 151.219. [1993 c.33 §186; 2001 c.962 §52]
 
 ## Provenance & change history
 

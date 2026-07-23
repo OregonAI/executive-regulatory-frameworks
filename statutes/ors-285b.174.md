@@ -1,6 +1,6 @@
 ---
 id: ors-285b.174
-title: "Programs to assist businesses in procuring government contracts and grants MICROENTERPRISE DEVELOPMENT"
+title: "Programs to assist businesses in procuring government contracts and grants"
 doc_type: statute
 citation: "ORS 285B.174"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Programs to assist businesses in procuring government contracts and grants MICROENTERPRISE DEVELOPMENT (ORS 285B.174)
+# Programs to assist businesses in procuring government contracts and grants (ORS 285B.174)
 
 ## At a glance
 
-ORS 285B.174 — Programs to assist businesses in procuring government contracts and grants MICROENTERPRISE DEVELOPMENT. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.174 — Programs to assist businesses in procuring government contracts and grants. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 
-285B.174 Programs to assist businesses in procuring government contracts and grants. In cooperation with other state agencies and private organizations, public universities listed in ORS 352.002 and community colleges may develop programs to assist Oregon businesses with the procurement of government contracts and grants. Small business development centers established under ORS 285B.165 to 285B.171 may assist with these programs. [Formerly 285.550; 2001 c.148 §5; 2007 c.804 §19; 2011 c.637 §94] 285B.177 [Formerly 285.553; repealed by 1999 c.509 §61] MICROENTERPRISE DEVELOPMENT 
+285B.174 Programs to assist businesses in procuring government contracts and grants. In cooperation with other state agencies and private organizations, public universities listed in ORS 352.002 and community colleges may develop programs to assist Oregon businesses with the procurement of government contracts and grants. Small business development centers established under ORS 285B.165 to 285B.171 may assist with these programs. [Formerly 285.550; 2001 c.148 §5; 2007 c.804 §19; 2011 c.637 §94] 285B.177 [Formerly 285.553; repealed by 1999 c.509 §61]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-475c.353
-title: "Classification of felony under ORS"
+title: "Classification of felony under ORS 475C.337,"
 doc_type: statute
 citation: "ORS 475C.353"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Classification of felony under ORS (ORS 475C.353)
+# Classification of felony under ORS 475C.337, (ORS 475C.353)
 
 ## At a glance
 
-ORS 475C.353 — Classification of felony under ORS. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.353 — Classification of felony under ORS 475C.337,. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

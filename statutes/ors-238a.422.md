@@ -1,6 +1,6 @@
 ---
 id: ors-238a.422
-title: "Limitation of liability DIRECT ROLLOVERS"
+title: "Limitation of liability"
 doc_type: statute
 citation: "ORS 238A.422"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Limitation of liability DIRECT ROLLOVERS (ORS 238A.422)
+# Limitation of liability (ORS 238A.422)
 
 ## At a glance
 
-ORS 238A.422 — Limitation of liability DIRECT ROLLOVERS. Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.422 — Limitation of liability. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 
-238A.422 Limitation of liability. The state, the State Treasurer, the Oregon Investment Council and the Public Employees Retirement Board, and their officers or employees, are not liable in a civil action or otherwise, for any losses suffered by a member because of a member’s election of an investment option under ORS 238A.420. [2019 c.355 §32] DIRECT ROLLOVERS 
+238A.422 Limitation of liability. The state, the State Treasurer, the Oregon Investment Council and the Public Employees Retirement Board, and their officers or employees, are not liable in a civil action or otherwise, for any losses suffered by a member because of a member’s election of an investment option under ORS 238A.420. [2019 c.355 §32]
 
 ## Provenance & change history
 

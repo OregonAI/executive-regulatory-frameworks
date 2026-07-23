@@ -1,6 +1,6 @@
 ---
 id: ors-743b.260
-title: "Claims and appeals of adverse benefit determinations under disability income insurance policies; rules OUT-OF-POCKET COSTS"
+title: "Claims and appeals of adverse benefit determinations under disability income insurance policies; rules"
 doc_type: statute
 citation: "ORS 743B.260"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Claims and appeals of adverse benefit determinations under disability income insurance policies; rules OUT-OF-POCKET COSTS (ORS 743B.260)
+# Claims and appeals of adverse benefit determinations under disability income insurance policies; rules (ORS 743B.260)
 
 ## At a glance
 
-ORS 743B.260 — Claims and appeals of adverse benefit determinations under disability income insurance policies; rules OUT-OF-POCKET COSTS. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.260 — Claims and appeals of adverse benefit determinations under disability income insurance policies; rules. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

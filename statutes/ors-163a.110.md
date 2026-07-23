@@ -1,6 +1,6 @@
 ---
 id: ors-163a.110
-title: "Applicability of ORS"
+title: "Applicability of ORS 163A.105 Note Existing registrants--2013 c.708 §7"
 doc_type: statute
 citation: "ORS 163A.110"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-163a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors163A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Applicability of ORS (ORS 163A.110)
+# Applicability of ORS 163A.105 Note Existing registrants--2013 c.708 §7 (ORS 163A.110)
 
 ## At a glance
 
-ORS 163A.110 — Applicability of ORS. Chapter 163A (Chapter 163A), 2025 Edition.
+ORS 163A.110 — Applicability of ORS 163A.105 Note Existing registrants--2013 c.708 §7. Chapter 163A (Chapter 163A), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-163a.235
-title: "Agreements to resolve concerns about community notification REPORTING"
+title: "Agreements to resolve concerns about community notification"
 doc_type: statute
 citation: "ORS 163A.235"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-163a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors163A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Agreements to resolve concerns about community notification REPORTING (ORS 163A.235)
+# Agreements to resolve concerns about community notification (ORS 163A.235)
 
 ## At a glance
 
-ORS 163A.235 — Agreements to resolve concerns about community notification REPORTING. Chapter 163A (Chapter 163A), 2025 Edition.
+ORS 163A.235 — Agreements to resolve concerns about community notification. Chapter 163A (Chapter 163A), 2025 Edition.
 
 ## Full text
 

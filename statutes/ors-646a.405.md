@@ -1,6 +1,6 @@
 ---
 id: ors-646a.405
-title: "Manufacturer action under ORS"
+title: "Manufacturer action under ORS 646A.404; request to Department of Transportation; notice to buyer; unlawful practice; rules"
 doc_type: statute
 citation: "ORS 646A.405"
 authority_level: statute
@@ -39,11 +39,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Manufacturer action under ORS (ORS 646A.405)
+# Manufacturer action under ORS 646A.404; request to Department of Transportation; notice to buyer; unlawful practice; rules (ORS 646A.405)
 
 ## At a glance
 
-ORS 646A.405 — Manufacturer action under ORS. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.405 — Manufacturer action under ORS 646A.404; request to Department of Transportation; notice to buyer; unlawful practice; rules. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

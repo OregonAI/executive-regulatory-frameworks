@@ -1,6 +1,6 @@
 ---
 id: ors-743a.060
-title: "Definition for ORS"
+title: "Definition for ORS 743A.062"
 doc_type: statute
 citation: "ORS 743A.060"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-743a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definition for ORS (ORS 743A.060)
+# Definition for ORS 743A.062 (ORS 743A.060)
 
 ## At a glance
 
-ORS 743A.060 — Definition for ORS. Chapter 743A (Chapter 743A), 2025 Edition.
+ORS 743A.060 — Definition for ORS 743A.062. Chapter 743A (Chapter 743A), 2025 Edition.
 
 ## Full text
 

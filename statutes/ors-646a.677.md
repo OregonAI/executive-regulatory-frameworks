@@ -69,7 +69,7 @@ ORS 646A.677 — Requirement to screen for financial assistance before transferr
 
 (10) A hospital, nonprofit hospital-affiliated clinic or other debt collector engages in an unlawful debt collection practice under ORS 646.639 if the hospital, nonprofit hospital-affiliated clinic or debt collector collects or attempts to collect a medical debt in a manner that the hospital, nonprofit hospital-affiliated clinic or other debt collector knows, or after exercising reasonable diligence would know, is in violation of this section. (11)(a) A person may not report to a consumer reporting agency the amount or existence of any medical debt that a resident of this state owes or is alleged to owe. (b) A violation of paragraph (a) of this subsection is an unlawful practice under ORS 646.608. (c) In an action under paragraph (b) of this subsection, in addition to any other relief a court may grant, the court may declare the medical debt void and uncollectible.
 
-(12) A consumer reporting agency may not include in a consumer report an item that the consumer reporting agency knows or reasonably should know is medical debt. A violation of this subsection is an unlawful practice under ORS 646.608. [2019 c.497 §4; 2021 c.96 §2; 2023 c.263 §4; 2025 c.343 §1] DRUG PRICING AND SALES 
+(12) A consumer reporting agency may not include in a consumer report an item that the consumer reporting agency knows or reasonably should know is medical debt. A violation of this subsection is an unlawful practice under ORS 646.608. [2019 c.497 §4; 2021 c.96 §2; 2023 c.263 §4; 2025 c.343 §1]
 
 ## Provenance & change history
 

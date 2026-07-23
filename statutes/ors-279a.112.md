@@ -58,7 +58,7 @@ ORS 279A.112 — Requirement to certify that contractor has policy and practice 
 
 (4) A state contracting agency may enter into a public contract described in subsection (2)(a) of this section with a prospective contractor that has not provided the certification described in subsection
 
-(2) of this section if: (a) The state contracting agency conducted the procurement under ORS 279B.075, 279B.080 or 279B.085; or (b) Only one prospective contractor submitted a bid or proposal in response to the state contracting agency’s solicitation. [2017 c.212 §2] CONTRACT PREFERENCES 
+(2) of this section if: (a) The state contracting agency conducted the procurement under ORS 279B.075, 279B.080 or 279B.085; or (b) Only one prospective contractor submitted a bid or proposal in response to the state contracting agency’s solicitation. [2017 c.212 §2]
 
 ## Provenance & change history
 

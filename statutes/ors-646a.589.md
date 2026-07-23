@@ -63,7 +63,7 @@ ORS 646A.589 — Investigative demand by Attorney General; representation by cou
 
 (2) Beginning January 1, 2026, subsection
 
-(1) of this section applies only to a controller that is a noncommercial educational broadcast station, as defined in 47 U.S.C. 397, as in effect on the effective date of this 2025 Act [June 24, 2025], that: (a) Receives funding from the Corporation for Public Broadcasting or is a primary entry point, national primary or state primary, as defined in 47 C.F.R. 11.18, as in effect on the effective date of this 2025 Act; and (b) Distributes the noncommercial educational broadcast station’s journalism content without cost to recipients. [2025 c.417 §5] Sec. 6. Section 5 of this 2025 Act is repealed on July 1, 2026. [2025 c.417 §6] 646A.590 [2011 c.393 §7; renumbered 646A.838 in 2023] 646A.592 [2011 c.393 §8; renumbered 646A.841 in 2023] DATA BROKERS 
+(1) of this section applies only to a controller that is a noncommercial educational broadcast station, as defined in 47 U.S.C. 397, as in effect on the effective date of this 2025 Act [June 24, 2025], that: (a) Receives funding from the Corporation for Public Broadcasting or is a primary entry point, national primary or state primary, as defined in 47 C.F.R. 11.18, as in effect on the effective date of this 2025 Act; and (b) Distributes the noncommercial educational broadcast station’s journalism content without cost to recipients. [2025 c.417 §5] Sec. 6. Section 5 of this 2025 Act is repealed on July 1, 2026. [2025 c.417 §6] 646A.590 [2011 c.393 §7; renumbered 646A.838 in 2023] 646A.592 [2011 c.393 §8; renumbered 646A.841 in 2023]
 
 ## Provenance & change history
 

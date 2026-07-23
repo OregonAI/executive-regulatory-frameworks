@@ -1,6 +1,6 @@
 ---
 id: ors-431a.463
-title: "Prohibition on requiring prior authorization of payment for substance use disorder treatment; rules BONE MARROW DONOR PROGRAM"
+title: "Prohibition on requiring prior authorization of payment for substance use disorder treatment; rules"
 doc_type: statute
 citation: "ORS 431A.463"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Prohibition on requiring prior authorization of payment for substance use disorder treatment; rules BONE MARROW DONOR PROGRAM (ORS 431A.463)
+# Prohibition on requiring prior authorization of payment for substance use disorder treatment; rules (ORS 431A.463)
 
 ## At a glance
 
-ORS 431A.463 — Prohibition on requiring prior authorization of payment for substance use disorder treatment; rules BONE MARROW DONOR PROGRAM. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.463 — Prohibition on requiring prior authorization of payment for substance use disorder treatment; rules. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -55,7 +55,7 @@ ORS 431A.463 — Prohibition on requiring prior authorization of payment for sub
 
 (2) of this section, a coordinated care organization may require prior authorization of a brand name drug for medication-assisted treatment if a generic equivalent is available to substitute for a prescribed brand name drug. As used in this subsection, a different formulation of the medication is not a generic equivalent.
 
-(4) The authority may adopt rules to carry out this section. [2019 c.583 §7; 2024 c.70 §5] BONE MARROW DONOR PROGRAM 
+(4) The authority may adopt rules to carry out this section. [2019 c.583 §7; 2024 c.70 §5]
 
 ## Provenance & change history
 

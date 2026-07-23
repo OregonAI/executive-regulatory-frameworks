@@ -1,6 +1,6 @@
 ---
 id: ors-419c.617
-title: "Time limitation for certain adults seeking relief under ORS"
+title: "Time limitation for certain adults seeking relief under ORS 419C.615"
 doc_type: statute
 citation: "ORS 419C.617"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Time limitation for certain adults seeking relief under ORS (ORS 419C.617)
+# Time limitation for certain adults seeking relief under ORS 419C.615 (ORS 419C.617)
 
 ## At a glance
 
-ORS 419C.617 — Time limitation for certain adults seeking relief under ORS. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.617 — Time limitation for certain adults seeking relief under ORS 419C.615. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 
@@ -49,7 +49,7 @@ ORS 419C.617 — Time limitation for certain adults seeking relief under ORS. Ch
 
 (1) If no appeal is taken, the date the juvenile court adjudication was entered in the register.
 
-(2) If an appeal is taken, the date the appeal is final in the Oregon appellate courts. [2001 c.803 §5] REPORTS BY AGENCY HAVING GUARDIANSHIP OR LEGAL CUSTODY 
+(2) If an appeal is taken, the date the appeal is final in the Oregon appellate courts. [2001 c.803 §5]
 
 ## Provenance & change history
 

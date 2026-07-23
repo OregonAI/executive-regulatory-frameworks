@@ -1,6 +1,6 @@
 ---
 id: ors-329a.525
-title: "Standards and processes for international early childhood professionals; rules EARLY CHILDHOOD SUSPENSION AND EXPULSION PREVENTION"
+title: "Standards and processes for international early childhood professionals; rules"
 doc_type: statute
 citation: "ORS 329A.525"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-329a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Standards and processes for international early childhood professionals; rules EARLY CHILDHOOD SUSPENSION AND EXPULSION PREVENTION (ORS 329A.525)
+# Standards and processes for international early childhood professionals; rules (ORS 329A.525)
 
 ## At a glance
 
-ORS 329A.525 — Standards and processes for international early childhood professionals; rules EARLY CHILDHOOD SUSPENSION AND EXPULSION PREVENTION. Chapter 329A (Chapter 329A), 2025 Edition.
+ORS 329A.525 — Standards and processes for international early childhood professionals; rules. Chapter 329A (Chapter 329A), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-419c.030
-title: "Screening for sex trafficking victims; resource referral TRANSFER"
+title: "Screening for sex trafficking victims; resource referral"
 doc_type: statute
 citation: "ORS 419C.030"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Screening for sex trafficking victims; resource referral TRANSFER (ORS 419C.030)
+# Screening for sex trafficking victims; resource referral (ORS 419C.030)
 
 ## At a glance
 
-ORS 419C.030 — Screening for sex trafficking victims; resource referral TRANSFER. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.030 — Screening for sex trafficking victims; resource referral. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 419C.030 — Screening for sex trafficking victims; resource referral TRANSF
 
 (2) The Department of Justice: (a) In consultation with the advisory committee appointed by the department under ORS 147.480, the Department of Human Services and the Oregon Youth Authority, shall maintain and make available to each county juvenile department a regularly updated list of referral resources. (b) In consultation with the advisory committee appointed by the Department of Justice under ORS 147.480, shall develop and provide training on the use of a standardized screening tool required to be used by a county juvenile department in carrying out the county juvenile department’s duties under this section.
 
-(3) Each county juvenile department shall ensure that all staff of the county juvenile department who work directly with youths or adjudicated youths complete the screening tool training developed by the Department of Justice under this section. [2023 c.187 §2] TRANSFER 
+(3) Each county juvenile department shall ensure that all staff of the county juvenile department who work directly with youths or adjudicated youths complete the screening tool training developed by the Department of Justice under this section. [2023 c.187 §2]
 
 ## Provenance & change history
 

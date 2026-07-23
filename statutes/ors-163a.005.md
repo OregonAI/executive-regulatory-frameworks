@@ -1,6 +1,6 @@
 ---
 id: ors-163a.005
-title: "Definitions for ORS"
+title: "Definitions for ORS 163A.005 to"
 doc_type: statute
 citation: "ORS 163A.005"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-163a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors163A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 163A.005)
+# Definitions for ORS 163A.005 to (ORS 163A.005)
 
 ## At a glance
 
-ORS 163A.005 — Definitions for ORS. Chapter 163A (Chapter 163A), 2025 Edition.
+ORS 163A.005 — Definitions for ORS 163A.005 to. Chapter 163A (Chapter 163A), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-659a.425
-title: "Violation based on facially neutral housing policy UNLAWFUL DISCRIMINATION BECAUSE OF EMPLOYMENT STATUS"
+title: "Violation based on facially neutral housing policy"
 doc_type: statute
 citation: "ORS 659A.425"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Violation based on facially neutral housing policy UNLAWFUL DISCRIMINATION BECAUSE OF EMPLOYMENT STATUS (ORS 659A.425)
+# Violation based on facially neutral housing policy (ORS 659A.425)
 
 ## At a glance
 
-ORS 659A.425 — Violation based on facially neutral housing policy UNLAWFUL DISCRIMINATION BECAUSE OF EMPLOYMENT STATUS. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.425 — Violation based on facially neutral housing policy. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 
@@ -53,7 +53,7 @@ ORS 659A.425 — Violation based on facially neutral housing policy UNLAWFUL DIS
 
 (3) In determining under subsection
 
-(2) of this section whether a violation has occurred and, if a violation has occurred, what relief should be granted, a court or the commissioner shall consider: (a) The significance of the adverse impact on the protected class; (b) The importance and necessity of any business purpose for the facially neutral housing policy; and (c) The availability of less discriminatory alternatives for achieving the business purpose for the facially neutral housing policy. [2008 c.36 §2; 2021 c.367 §41] UNLAWFUL DISCRIMINATION BECAUSE OF EMPLOYMENT STATUS 
+(2) of this section whether a violation has occurred and, if a violation has occurred, what relief should be granted, a court or the commissioner shall consider: (a) The significance of the adverse impact on the protected class; (b) The importance and necessity of any business purpose for the facially neutral housing policy; and (c) The availability of less discriminatory alternatives for achieving the business purpose for the facially neutral housing policy. [2008 c.36 §2; 2021 c.367 §41]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-238a.450
-title: "Rules for Oregon Public Service Retirement Plan CHANGES TO OREGON PUBLIC SERVICE RETIREMENT PLAN"
+title: "Rules for Oregon Public Service Retirement Plan"
 doc_type: statute
 citation: "ORS 238A.450"
 authority_level: statute
@@ -123,11 +123,11 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Rules for Oregon Public Service Retirement Plan CHANGES TO OREGON PUBLIC SERVICE RETIREMENT PLAN (ORS 238A.450)
+# Rules for Oregon Public Service Retirement Plan (ORS 238A.450)
 
 ## At a glance
 
-ORS 238A.450 — Rules for Oregon Public Service Retirement Plan CHANGES TO OREGON PUBLIC SERVICE RETIREMENT PLAN. Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.450 — Rules for Oregon Public Service Retirement Plan. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 
@@ -135,7 +135,7 @@ ORS 238A.450 — Rules for Oregon Public Service Retirement Plan CHANGES TO OREG
 
 (1) The Public Employees Retirement Board shall adopt rules for the administration of this chapter.
 
-(2) All rules adopted by the board under this section become part of the written plan document for the Public Employees Retirement System that is required to maintain the status of the pension program and the individual account program as parts of a tax-qualified governmental retirement plan under the Internal Revenue Code and under regulations adopted pursuant to the Internal Revenue Code. [2003 c.733 §44a; 2005 c.808 §19] CHANGES TO OREGON PUBLIC SERVICE RETIREMENT PLAN 
+(2) All rules adopted by the board under this section become part of the written plan document for the Public Employees Retirement System that is required to maintain the status of the pension program and the individual account program as parts of a tax-qualified governmental retirement plan under the Internal Revenue Code and under regulations adopted pursuant to the Internal Revenue Code. [2003 c.733 §44a; 2005 c.808 §19]
 
 ## Provenance & change history
 

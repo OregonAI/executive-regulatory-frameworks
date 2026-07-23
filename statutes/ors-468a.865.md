@@ -1,6 +1,6 @@
 ---
 id: ors-468a.865
-title: "Limit on required temperature for crematory incinerators MUNICIPAL SOLID WASTE INCINERATORS"
+title: "Limit on required temperature for crematory incinerators"
 doc_type: statute
 citation: "ORS 468A.865"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Limit on required temperature for crematory incinerators MUNICIPAL SOLID WASTE INCINERATORS (ORS 468A.865)
+# Limit on required temperature for crematory incinerators (ORS 468A.865)
 
 ## At a glance
 
-ORS 468A.865 — Limit on required temperature for crematory incinerators MUNICIPAL SOLID WASTE INCINERATORS. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.865 — Limit on required temperature for crematory incinerators. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 
-468A.865 Limit on required temperature for crematory incinerators. Notwithstanding any other provisions of law, the Department of Environmental Quality, the Environmental Quality Commission or a regional air quality control authority formed under ORS 468A.105 may not adopt or enforce any rule or standard that requires a person to operate a human or animal crematory incinerator at a temperature greater than 1,600 degrees Fahrenheit. [2025 c.306 §2] MUNICIPAL SOLID WASTE INCINERATORS 
+468A.865 Limit on required temperature for crematory incinerators. Notwithstanding any other provisions of law, the Department of Environmental Quality, the Environmental Quality Commission or a regional air quality control authority formed under ORS 468A.105 may not adopt or enforce any rule or standard that requires a person to operate a human or animal crematory incinerator at a temperature greater than 1,600 degrees Fahrenheit. [2025 c.306 §2]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-743b.610
-title: "Clinician-administered drugs for treatment of cancer RISK ADJUSTMENT"
+title: "Clinician-administered drugs for treatment of cancer"
 doc_type: statute
 citation: "ORS 743B.610"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Clinician-administered drugs for treatment of cancer RISK ADJUSTMENT (ORS 743B.610)
+# Clinician-administered drugs for treatment of cancer (ORS 743B.610)
 
 ## At a glance
 
-ORS 743B.610 — Clinician-administered drugs for treatment of cancer RISK ADJUSTMENT. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.610 — Clinician-administered drugs for treatment of cancer. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

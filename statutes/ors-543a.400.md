@@ -1,6 +1,6 @@
 ---
 id: ors-543a.400
-title: "Duties of Hydroelectric Application Review Team FEES AND EXPENSES"
+title: "Duties of Hydroelectric Application Review Team"
 doc_type: statute
 citation: "ORS 543A.400"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-543a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors543A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Duties of Hydroelectric Application Review Team FEES AND EXPENSES (ORS 543A.400)
+# Duties of Hydroelectric Application Review Team (ORS 543A.400)
 
 ## At a glance
 
-ORS 543A.400 — Duties of Hydroelectric Application Review Team FEES AND EXPENSES. Chapter 543A (Chapter 543A), 2025 Edition.
+ORS 543A.400 — Duties of Hydroelectric Application Review Team. Chapter 543A (Chapter 543A), 2025 Edition.
 
 ## Full text
 
@@ -53,7 +53,7 @@ ORS 543A.400 — Duties of Hydroelectric Application Review Team FEES AND EXPENS
 
 (3) A team responsible for reviewing a federally licensed project shall: (a) Represent the state in any federal proceeding to reauthorize the federal license for the project; (b) Participate in the state process in accordance with ORS 543A.085, 543A.090, 543A.105, 543A.110 and 543A.115; (c) Recommend a state response to a request for certification for reauthorization of a federally licensed project under ORS 468B.040; and (d) Develop a state position as required under 16 U.S.C. 803(j).
 
-(4) The Water Resources Department may also convene a team to: (a) Coordinate the activities of all state agencies involved in decommissioning a project. (b) Develop a unified state position for a project that is subject to federal relicensing but that operates under a water right that does not expire. The unified state position developed under this paragraph shall include the elements set forth in ORS 543A.105 except for the reauthorization of the state water right. In developing the unified state position under this paragraph the team shall participate to the fullest extent possible in all proceedings conducted pursuant to the Federal Energy Regulatory Commission relicensing process for the project. [1997 c.449 §32] FEES AND EXPENSES 
+(4) The Water Resources Department may also convene a team to: (a) Coordinate the activities of all state agencies involved in decommissioning a project. (b) Develop a unified state position for a project that is subject to federal relicensing but that operates under a water right that does not expire. The unified state position developed under this paragraph shall include the elements set forth in ORS 543A.105 except for the reauthorization of the state water right. In developing the unified state position under this paragraph the team shall participate to the fullest extent possible in all proceedings conducted pursuant to the Federal Energy Regulatory Commission relicensing process for the project. [1997 c.449 §32]
 
 ## Provenance & change history
 

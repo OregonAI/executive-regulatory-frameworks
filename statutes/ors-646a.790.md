@@ -1,6 +1,6 @@
 ---
 id: ors-646a.790
-title: "Unlawful practices MISCELLANEOUS"
+title: "Unlawful practices"
 doc_type: statute
 citation: "ORS 646A.790"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Unlawful practices MISCELLANEOUS (ORS 646A.790)
+# Unlawful practices (ORS 646A.790)
 
 ## At a glance
 
-ORS 646A.790 — Unlawful practices MISCELLANEOUS. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.790 — Unlawful practices. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 
-646A.790 Unlawful practices. A violation of a provision of ORS 646A.770 to 646A.787 is an unlawful practice under ORS 646.608. [2015 c.523 §8] MISCELLANEOUS 
+646A.790 Unlawful practices. A violation of a provision of ORS 646A.770 to 646A.787 is an unlawful practice under ORS 646.608. [2015 c.523 §8]
 
 ## Provenance & change history
 

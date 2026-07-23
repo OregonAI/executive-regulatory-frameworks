@@ -4,7 +4,7 @@
  "dim": 512,
  "granularity": "document",
  "n_chunks": 68535,
- "fingerprint": "cf2a2fb4860f8e669a5799fbd2c977e0e17a1484ba0e8d4f68e0f72daf0d3483",
+ "fingerprint": "d255d9b3e2b5d6904cca23de292b897c70646e5aa562e8fba7d0c92a48e7d847",
  "repr_chars": 1400,
  "note": "one int8 vector per document (title + At-a-glance + head of full text), L2-normalized*127; cosine \u2248 int32 dot / 127^2. Rebuild with src/build_embeddings.py after any ingest."
 }

@@ -1,6 +1,6 @@
 ---
 id: ors-659a.088
-title: "Violation of ORS"
+title: "Violation of ORS 659A.086 as unlawful employment practice; complaint; remedies and penalties (Notification to Director of Veterans’ Affairs)"
 doc_type: statute
 citation: "ORS 659A.088"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Violation of ORS (ORS 659A.088)
+# Violation of ORS 659A.086 as unlawful employment practice; complaint; remedies and penalties (Notification to Director of Veterans’ Affairs) (ORS 659A.088)
 
 ## At a glance
 
-ORS 659A.088 — Violation of ORS. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.088 — Violation of ORS 659A.086 as unlawful employment practice; complaint; remedies and penalties (Notification to Director of Veterans’ Affairs). Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

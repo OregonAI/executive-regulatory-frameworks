@@ -1,6 +1,6 @@
 ---
 id: ors-743b.800
-title: "Risk adjustment procedures; rules (Temporary provisions relating to the Oregon Reinsurance Program are compiled as notes following ORS"
+title: "Risk adjustment procedures; rules (Temporary provisions relating to the Oregon Reinsurance Program are compiled as notes following ORS 743B.800)"
 doc_type: statute
 citation: "ORS 743B.800"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Risk adjustment procedures; rules (Temporary provisions relating to the Oregon Reinsurance Program are compiled as notes following ORS (ORS 743B.800)
+# Risk adjustment procedures; rules (Temporary provisions relating to the Oregon Reinsurance Program are compiled as notes following ORS 743B.800) (ORS 743B.800)
 
 ## At a glance
 
-ORS 743B.800 — Risk adjustment procedures; rules (Temporary provisions relating to the Oregon Reinsurance Program are compiled as notes following ORS. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.800 — Risk adjustment procedures; rules (Temporary provisions relating to the Oregon Reinsurance Program are compiled as notes following ORS 743B.800). Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 
@@ -119,7 +119,7 @@ ORS 743B.800 — Risk adjustment procedures; rules (Temporary provisions relatin
 
 (6) Section 7, chapter 538, Oregon Laws 2017, is repealed on January 2, 2038.
 
-(7) Section 8, chapter 538, Oregon Laws 2017, as amended by section 8, chapter 2, Oregon Laws 2019, and section 2 of this 2025 Act, is repealed on January 2, 2038. [2025 c.4 §6] Sec. 7. Nothing in the repeal of sections 2 to 8, chapter 538, Oregon Laws 2017, by section 6 of this 2025 Act affects the imposition and collection of a health insurance premium assessment under section 3 or 5, chapter 538, Oregon Laws 2017, for a calendar quarter ending on or before December 31, 2032. [2025 c.4 §7] Sec. 8. Any moneys remaining in the Health System Fund established by section 2, chapter 538, Oregon Laws 2017, on December 31, 2038, are transferred to the General Fund. [2025 c.4 §8] MISCELLANEOUS 
+(7) Section 8, chapter 538, Oregon Laws 2017, as amended by section 8, chapter 2, Oregon Laws 2019, and section 2 of this 2025 Act, is repealed on January 2, 2038. [2025 c.4 §6] Sec. 7. Nothing in the repeal of sections 2 to 8, chapter 538, Oregon Laws 2017, by section 6 of this 2025 Act affects the imposition and collection of a health insurance premium assessment under section 3 or 5, chapter 538, Oregon Laws 2017, for a calendar quarter ending on or before December 31, 2032. [2025 c.4 §7] Sec. 8. Any moneys remaining in the Health System Fund established by section 2, chapter 538, Oregon Laws 2017, on December 31, 2038, are transferred to the General Fund. [2025 c.4 §8]
 
 ## Provenance & change history
 

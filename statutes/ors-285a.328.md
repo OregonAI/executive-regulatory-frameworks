@@ -1,6 +1,6 @@
 ---
 id: ors-285a.328
-title: "Specific corporation authorized to maintain foreign trade zone ASSISTANCE TO SMALL BUSINESSES"
+title: "Specific corporation authorized to maintain foreign trade zone"
 doc_type: statute
 citation: "ORS 285A.328"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Specific corporation authorized to maintain foreign trade zone ASSISTANCE TO SMALL BUSINESSES (ORS 285A.328)
+# Specific corporation authorized to maintain foreign trade zone (ORS 285A.328)
 
 ## At a glance
 
-ORS 285A.328 — Specific corporation authorized to maintain foreign trade zone ASSISTANCE TO SMALL BUSINESSES. Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.328 — Specific corporation authorized to maintain foreign trade zone. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

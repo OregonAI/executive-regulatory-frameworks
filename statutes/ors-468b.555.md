@@ -1,6 +1,6 @@
 ---
 id: ors-468b.555
-title: "Trading program development; priorities; fees HARMFUL ALGAL BLOOMS"
+title: "Trading program development; priorities; fees"
 doc_type: statute
 citation: "ORS 468B.555"
 authority_level: statute
@@ -49,11 +49,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Trading program development; priorities; fees HARMFUL ALGAL BLOOMS (ORS 468B.555)
+# Trading program development; priorities; fees (ORS 468B.555)
 
 ## At a glance
 
-ORS 468B.555 — Trading program development; priorities; fees HARMFUL ALGAL BLOOMS. Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.555 — Trading program development; priorities; fees. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 
@@ -69,7 +69,7 @@ ORS 468B.555 — Trading program development; priorities; fees HARMFUL ALGAL BLO
 
 (6) The department shall seek a minimum of $200,000 in federal funding to support the program.
 
-(7) This section may not be construed to allow any activity expressly prohibited by federal law or regulation. [2001 c.758 §3; 2007 c.71 §150] HARMFUL ALGAL BLOOMS 
+(7) This section may not be construed to allow any activity expressly prohibited by federal law or regulation. [2001 c.758 §3; 2007 c.71 §150]
 
 ## Provenance & change history
 

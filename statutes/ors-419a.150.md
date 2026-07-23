@@ -1,6 +1,6 @@
 ---
 id: ors-419a.150
-title: "Appointment; qualifications; hearings; orders; rehearings CONTEMPT"
+title: "Appointment; qualifications; hearings; orders; rehearings"
 doc_type: statute
 citation: "ORS 419A.150"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Appointment; qualifications; hearings; orders; rehearings CONTEMPT (ORS 419A.150)
+# Appointment; qualifications; hearings; orders; rehearings (ORS 419A.150)
 
 ## At a glance
 
-ORS 419A.150 — Appointment; qualifications; hearings; orders; rehearings CONTEMPT. Chapter 419A (Chapter 419A), 2025 Edition.
+ORS 419A.150 — Appointment; qualifications; hearings; orders; rehearings. Chapter 419A (Chapter 419A), 2025 Edition.
 
 ## Full text
 
@@ -67,7 +67,7 @@ ORS 419A.150 — Appointment; qualifications; hearings; orders; rehearings CONTE
 
 (9) Notwithstanding subsection
 
-(7) of this section, when a referee finds that a youth is not within the jurisdiction of the court in a proceeding brought under ORS 419C.005, the district attorney may not request a rehearing. [1993 c.33 §43; 1993 c.546 §7; 2003 c.396 §24; 2021 c.489 §44] 419A.170 [1993 c.33 §44; 1993 c.546 §92; 1993 c.676 §41; 1997 c.130 §12; 2001 c.962 §91; 2003 c.396 §§25,26; 2005 c.755 §35; 2011 c.190 §1; repealed by 2012 c.97 §1] CONTEMPT 
+(7) of this section, when a referee finds that a youth is not within the jurisdiction of the court in a proceeding brought under ORS 419C.005, the district attorney may not request a rehearing. [1993 c.33 §43; 1993 c.546 §7; 2003 c.396 §24; 2021 c.489 §44] 419A.170 [1993 c.33 §44; 1993 c.546 §92; 1993 c.676 §41; 1997 c.130 §12; 2001 c.962 §91; 2003 c.396 §§25,26; 2005 c.755 §35; 2011 c.190 §1; repealed by 2012 c.97 §1]
 
 ## Provenance & change history
 

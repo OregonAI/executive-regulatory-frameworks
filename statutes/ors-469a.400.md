@@ -1,6 +1,6 @@
 ---
 id: ors-469a.400
-title: "Definitions for ORS"
+title: "Definitions for ORS 469A.400 to"
 doc_type: statute
 citation: "ORS 469A.400"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-469a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 469A.400)
+# Definitions for ORS 469A.400 to (ORS 469A.400)
 
 ## At a glance
 
-ORS 469A.400 — Definitions for ORS. Chapter 469A (Chapter 469A), 2025 Edition.
+ORS 469A.400 — Definitions for ORS 469A.400 to. Chapter 469A (Chapter 469A), 2025 Edition.
 
 ## Full text
 

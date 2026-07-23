@@ -1,6 +1,6 @@
 ---
 id: ors-285b.632
-title: "Oregon Industrial Site Readiness Program Fund; sources; uses OREGON INDUSTRIAL SITE READINESS ASSESSMENT PROGRAM"
+title: "Oregon Industrial Site Readiness Program Fund; sources; uses"
 doc_type: statute
 citation: "ORS 285B.632"
 authority_level: statute
@@ -39,11 +39,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon Industrial Site Readiness Program Fund; sources; uses OREGON INDUSTRIAL SITE READINESS ASSESSMENT PROGRAM (ORS 285B.632)
+# Oregon Industrial Site Readiness Program Fund; sources; uses (ORS 285B.632)
 
 ## At a glance
 
-ORS 285B.632 — Oregon Industrial Site Readiness Program Fund; sources; uses OREGON INDUSTRIAL SITE READINESS ASSESSMENT PROGRAM. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.632 — Oregon Industrial Site Readiness Program Fund; sources; uses. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

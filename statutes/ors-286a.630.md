@@ -1,6 +1,6 @@
 ---
 id: ors-286a.630
-title: "Reallocation of private activity bond cap; rules BACCALAUREATE BONDS"
+title: "Reallocation of private activity bond cap; rules"
 doc_type: statute
 citation: "ORS 286A.630"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-286a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Reallocation of private activity bond cap; rules BACCALAUREATE BONDS (ORS 286A.630)
+# Reallocation of private activity bond cap; rules (ORS 286A.630)
 
 ## At a glance
 
-ORS 286A.630 — Reallocation of private activity bond cap; rules BACCALAUREATE BONDS. Chapter 286A (Chapter 286A), 2025 Edition.
+ORS 286A.630 — Reallocation of private activity bond cap; rules. Chapter 286A (Chapter 286A), 2025 Edition.
 
 ## Full text
 
@@ -69,7 +69,7 @@ ORS 286A.630 — Reallocation of private activity bond cap; rules BACCALAUREATE 
 
 (6) The Private Activity Bond Committee may allocate, reallocate and otherwise manage any bonding authority that is created or expanded by the American Recovery and Reinvestment Act of 2009 (P.L. 111-5) if that responsibility is not assigned to a state agency by this section, or if an agency that is assigned that responsibility requests the Private Activity Bond Committee to allocate that authority on behalf of that agency.
 
-(7) The Department of Education, the Oregon Business Development Department, the State Department of Energy and the Private Activity Bond Committee may adopt rules to implement the provisions of this section including, but not limited to, rules prescribing: (a) Application processes and requirements to receive a subsequent allocation or reallocation; (b) Standards upon which an allocation or reallocation may be based; and (c) Any conditions that must be met to receive an allocation or reallocation of the bonding authority or to receive the benefits of such bonding authority. [2009 c.885 §12] BACCALAUREATE BONDS 
+(7) The Department of Education, the Oregon Business Development Department, the State Department of Energy and the Private Activity Bond Committee may adopt rules to implement the provisions of this section including, but not limited to, rules prescribing: (a) Application processes and requirements to receive a subsequent allocation or reallocation; (b) Standards upon which an allocation or reallocation may be based; and (c) Any conditions that must be met to receive an allocation or reallocation of the bonding authority or to receive the benefits of such bonding authority. [2009 c.885 §12]
 
 ## Provenance & change history
 

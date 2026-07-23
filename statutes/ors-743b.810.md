@@ -1,6 +1,6 @@
 ---
 id: ors-743b.810
-title: "Enrollees covered by workers’ compensation DEFINITIONS AND PURPOSES"
+title: "Enrollees covered by workers’ compensation"
 doc_type: statute
 citation: "ORS 743B.810"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Enrollees covered by workers’ compensation DEFINITIONS AND PURPOSES (ORS 743B.810)
+# Enrollees covered by workers’ compensation (ORS 743B.810)
 
 ## At a glance
 
-ORS 743B.810 — Enrollees covered by workers’ compensation DEFINITIONS AND PURPOSES. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.810 — Enrollees covered by workers’ compensation. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

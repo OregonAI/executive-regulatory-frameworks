@@ -1,6 +1,6 @@
 ---
 id: ors-197a.503
-title: "Preemptive effect of ORS"
+title: "Preemptive effect of ORS 197A.500 to"
 doc_type: statute
 citation: "ORS 197A.503"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-197a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Preemptive effect of ORS (ORS 197A.503)
+# Preemptive effect of ORS 197A.500 to (ORS 197A.503)
 
 ## At a glance
 
-ORS 197A.503 — Preemptive effect of ORS. Chapter 197A (Chapter 197A), 2025 Edition.
+ORS 197A.503 — Preemptive effect of ORS 197A.500 to. Chapter 197A (Chapter 197A), 2025 Edition.
 
 ## Full text
 

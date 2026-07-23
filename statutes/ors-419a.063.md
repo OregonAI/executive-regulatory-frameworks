@@ -1,6 +1,6 @@
 ---
 id: ors-419a.063
-title: "Requirements for detention facilities LOCAL CITIZEN REVIEW BOARDS"
+title: "Requirements for detention facilities"
 doc_type: statute
 citation: "ORS 419A.063"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Requirements for detention facilities LOCAL CITIZEN REVIEW BOARDS (ORS 419A.063)
+# Requirements for detention facilities (ORS 419A.063)
 
 ## At a glance
 
-ORS 419A.063 — Requirements for detention facilities LOCAL CITIZEN REVIEW BOARDS. Chapter 419A (Chapter 419A), 2025 Edition.
+ORS 419A.063 — Requirements for detention facilities. Chapter 419A (Chapter 419A), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 419A.063 — Requirements for detention facilities LOCAL CITIZEN REVIEW BOAR
 
 (2) In no case may the court order, pursuant to ORS 419C.453, that an adjudicated youth under 14 years of age be placed in any detention facility in which adults are detained or imprisoned.
 
-(3) As used in this section, “adult” does not include a person who is 18 years of age or older and is alleged to be, or has been found to be, within the jurisdiction of the juvenile court under ORS 419C.005. [1993 c.33 §14; 2003 c.396 §15; 2003 c.442 §6; 2021 c.489 §42] LOCAL CITIZEN REVIEW BOARDS 
+(3) As used in this section, “adult” does not include a person who is 18 years of age or older and is alleged to be, or has been found to be, within the jurisdiction of the juvenile court under ORS 419C.005. [1993 c.33 §14; 2003 c.396 §15; 2003 c.442 §6; 2021 c.489 §42]
 
 ## Provenance & change history
 

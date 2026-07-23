@@ -1,6 +1,6 @@
 ---
 id: ors-308a.383
-title: "Rules WILDLIFE HABITAT SPECIAL ASSESSMENT"
+title: "Rules"
 doc_type: statute
 citation: "ORS 308A.383"
 authority_level: statute
@@ -52,15 +52,15 @@ tags: ["ors", "chapter-308a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors308A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Rules WILDLIFE HABITAT SPECIAL ASSESSMENT (ORS 308A.383)
+# Rules (ORS 308A.383)
 
 ## At a glance
 
-ORS 308A.383 — Rules WILDLIFE HABITAT SPECIAL ASSESSMENT. Chapter 308A (Chapter 308A), 2025 Edition.
+ORS 308A.383 — Rules. Chapter 308A (Chapter 308A), 2025 Edition.
 
 ## Full text
 
-308A.383 Rules. The Department of Revenue and the State Department of Fish and Wildlife shall make such rules consistent with ORS 308A.350 to 308A.383 as may be necessary or desirable to permit its effective administration. [Formerly 308.803] WILDLIFE HABITAT SPECIAL ASSESSMENT 
+308A.383 Rules. The Department of Revenue and the State Department of Fish and Wildlife shall make such rules consistent with ORS 308A.350 to 308A.383 as may be necessary or desirable to permit its effective administration. [Formerly 308.803]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-431a.365
-title: "Costs imposed pursuant to ORS"
+title: "Costs imposed pursuant to ORS 431A.363; notice; hearing; lien"
 doc_type: statute
 citation: "ORS 431A.365"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Costs imposed pursuant to ORS (ORS 431A.365)
+# Costs imposed pursuant to ORS 431A.363; notice; hearing; lien (ORS 431A.365)
 
 ## At a glance
 
-ORS 431A.365 — Costs imposed pursuant to ORS. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.365 — Costs imposed pursuant to ORS 431A.363; notice; hearing; lien. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -63,7 +63,7 @@ ORS 431A.365 — Costs imposed pursuant to ORS. Chapter 431A (Chapter 431A), 202
 
 (6) The notice described in this section may be made part of any other notice served by the authority pursuant to ORS 183.415. (7)(a) Costs in an amount sufficient to cover expenses incurred by the authority under ORS 431A.363 shall constitute a lien upon any real and personal property owned by a person who fails to timely comply with an order issued under this section. (b) At any time after a person fails to comply with an order issued under this section, the authority may file a claim of lien on real property to be charged with a lien under this subsection with the recording officer of each county in which the real property is located, and a claim of lien on personal property to be charged with a lien under this section with the Secretary of State. (c) A lien filed under this section shall attach and become enforceable on the date of the filing. The lien claim must contain: (A) A statement of the demand; (B) The name of the person against whose property the lien attaches; (C) A description of the property charged with the lien sufficient for identification; and (D) A statement of the failure of the person to perform the risk assessment, hazard abatement or hazard control as required. (d) A lien created by this section may be foreclosed by a suit on real and personal property in the circuit court in the manner provided by law for the foreclosure of other liens. In an action to foreclose on a lien under this section in which the authority prevails, the court, at trial and on appeal, shall allow and fix a reasonable amount for attorney fees for prosecution of the action, if the court finds that a written demand for payment of the claim was made on the defendant not less than 20 days before the commencement of the action.
 
-(8) This section does not affect the ability of the authority to bring other actions to recover costs described in ORS 431A.363, or as otherwise authorized by law. [2021 c.49 §3] HEALTHY HOMES PROGRAM 
+(8) This section does not affect the ability of the authority to bring other actions to recover costs described in ORS 431A.363, or as otherwise authorized by law. [2021 c.49 §3]
 
 ## Provenance & change history
 

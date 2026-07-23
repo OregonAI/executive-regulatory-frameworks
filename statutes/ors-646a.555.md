@@ -1,6 +1,6 @@
 ---
 id: ors-646a.555
-title: "License to engage in business activity not required for individual under 17 years of age CONTROL AND PROCESSING OF CONSUMER PERSONAL DATA"
+title: "License to engage in business activity not required for individual under 17 years of age"
 doc_type: statute
 citation: "ORS 646A.555"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# License to engage in business activity not required for individual under 17 years of age CONTROL AND PROCESSING OF CONSUMER PERSONAL DATA (ORS 646A.555)
+# License to engage in business activity not required for individual under 17 years of age (ORS 646A.555)
 
 ## At a glance
 
-ORS 646A.555 — License to engage in business activity not required for individual under 17 years of age CONTROL AND PROCESSING OF CONSUMER PERSONAL DATA. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.555 — License to engage in business activity not required for individual under 17 years of age. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 646A.555 — License to engage in business activity not required for individ
 
 (2) of this section and notwithstanding any other provision of law, the State of Oregon, a political subdivision of the state or an agency of the state or of a political subdivision of the state may not require an individual under 17 years of age who is a resident of this state to obtain a license or permit to engage in a business activity in which the individual operates as a sole proprietor under the individual’s own name.
 
-(2) This section does not affect a statute, rule, ordinance or other provision of law that requires a license, certificate, registration, permit or other authorization to conduct a business activity that is subject to regulation for the purpose of protecting the environment or the public health, safety or welfare. [2009 c.276 §2] 646A.560 [2012 c.52 §1; repealed by 2023 c.410 §5] 646A.562 [2012 c.52 §2; repealed by 2023 c.410 §5] 646A.564 [2012 c.52 §3; repealed by 2023 c.410 §5] 646A.566 [2012 c.52 §4; repealed by 2023 c.410 §5] CONTROL AND PROCESSING OF CONSUMER PERSONAL DATA 
+(2) This section does not affect a statute, rule, ordinance or other provision of law that requires a license, certificate, registration, permit or other authorization to conduct a business activity that is subject to regulation for the purpose of protecting the environment or the public health, safety or welfare. [2009 c.276 §2] 646A.560 [2012 c.52 §1; repealed by 2023 c.410 §5] 646A.562 [2012 c.52 §2; repealed by 2023 c.410 §5] 646A.564 [2012 c.52 §3; repealed by 2023 c.410 §5] 646A.566 [2012 c.52 §4; repealed by 2023 c.410 §5]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-419a.046
-title: "Definition for ORS"
+title: "Definition for ORS 419A.046 and 419A.048"
 doc_type: statute
 citation: "ORS 419A.046"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definition for ORS (ORS 419A.046)
+# Definition for ORS 419A.046 and 419A.048 (ORS 419A.046)
 
 ## At a glance
 
-ORS 419A.046 — Definition for ORS. Chapter 419A (Chapter 419A), 2025 Edition.
+ORS 419A.046 — Definition for ORS 419A.046 and 419A.048. Chapter 419A (Chapter 419A), 2025 Edition.
 
 ## Full text
 

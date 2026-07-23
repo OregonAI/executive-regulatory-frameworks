@@ -1,6 +1,6 @@
 ---
 id: ors-646a.815
-title: "Compensation for preparing, presenting or prosecuting application for veteran’s benefit; prohibitions; excessive and unreasonable fees; written agreement PORTAB"
+title: "Compensation for preparing, presenting or prosecuting application for veteran’s benefit; prohibitions; excessive and unreasonable fees; written agreement"
 doc_type: statute
 citation: "ORS 646A.815"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Compensation for preparing, presenting or prosecuting application for veteran’s benefit; prohibitions; excessive and unreasonable fees; written agreement PORTAB (ORS 646A.815)
+# Compensation for preparing, presenting or prosecuting application for veteran’s benefit; prohibitions; excessive and unreasonable fees; written agreement (ORS 646A.815)
 
 ## At a glance
 
-ORS 646A.815 — Compensation for preparing, presenting or prosecuting application for veteran’s benefit; prohibitions; excessive and unreasonable fees; written agreement PORTAB. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.815 — Compensation for preparing, presenting or prosecuting application for veteran’s benefit; prohibitions; excessive and unreasonable fees; written agreement. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 
@@ -53,7 +53,7 @@ ORS 646A.815 — Compensation for preparing, presenting or prosecuting applicati
 
 (4) In order to encourage veterans to seek free advice and assistance concerning a claim for a veteran’s benefit, the Department of Veterans’ Affairs shall conduct outreach, provide education and disseminate information that, at a minimum: (a) Identifies tribal veterans’ service officers, as described in 38 C.F.R. 14.629, as in effect on September 26, 2025, and county veterans’ service officers; (b) Locates the offices or facilities throughout this state in which the tribal veterans’ service officers and county veterans’ service officers provide services; and (c) Describes the services the tribal veterans’ services officers and county veterans’ service officers provide.
 
-(5) A violation of this section is an unlawful practice under ORS 646.608. [2025 c.326 §1] PORTABLE ELECTRONICS INSURANCE 
+(5) A violation of this section is an unlawful practice under ORS 646.608. [2025 c.326 §1]
 
 ## Provenance & change history
 

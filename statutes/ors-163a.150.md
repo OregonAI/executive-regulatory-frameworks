@@ -1,6 +1,6 @@
 ---
 id: ors-163a.150
-title: "Procedure for relief under ORS"
+title: "Procedure for relief under ORS 163A.140; after conviction or adjudication; testimony of victim"
 doc_type: statute
 citation: "ORS 163A.150"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-163a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors163A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Procedure for relief under ORS (ORS 163A.150)
+# Procedure for relief under ORS 163A.140; after conviction or adjudication; testimony of victim (ORS 163A.150)
 
 ## At a glance
 
-ORS 163A.150 — Procedure for relief under ORS. Chapter 163A (Chapter 163A), 2025 Edition.
+ORS 163A.150 — Procedure for relief under ORS 163A.140; after conviction or adjudication; testimony of victim. Chapter 163A (Chapter 163A), 2025 Edition.
 
 ## Full text
 
@@ -61,7 +61,7 @@ ORS 163A.150 — Procedure for relief under ORS. Chapter 163A (Chapter 163A), 20
 
 (9) The Oregon Evidence Code and the Oregon Rules of Civil Procedure do not apply to the hearing described in subsection
 
-(2) of this section. [Formerly 181.833; 2021 c.274 §2] PROVISION OF RECORDS BY AGENCIES 
+(2) of this section. [Formerly 181.833; 2021 c.274 §2]
 
 ## Provenance & change history
 

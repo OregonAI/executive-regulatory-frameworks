@@ -1,6 +1,6 @@
 ---
 id: ors-419c.159
-title: "Escape; punishment SHELTER HEARINGS"
+title: "Escape; punishment"
 doc_type: statute
 citation: "ORS 419C.159"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Escape; punishment SHELTER HEARINGS (ORS 419C.159)
+# Escape; punishment (ORS 419C.159)
 
 ## At a glance
 
-ORS 419C.159 — Escape; punishment SHELTER HEARINGS. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.159 — Escape; punishment. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 
-419C.159 Escape; punishment. Any youth 12 years of age or older, alleged to be within the jurisdiction of the juvenile court by reason of having committed an act which would be a crime if committed by an adult, who escapes from a juvenile detention facility as defined in ORS 419A.004 after having been placed in the facility pursuant to the filing of a petition alleging that the youth has committed an act which would be a crime if committed by an adult commits a violation punishable by placement in a detention facility for youths for a specific period of time not to exceed eight days, in addition to time already spent in the facility, when such punishment is ordered by the juvenile court pursuant to ORS 419C.453. [1993 c.33 §177] SHELTER HEARINGS 
+419C.159 Escape; punishment. Any youth 12 years of age or older, alleged to be within the jurisdiction of the juvenile court by reason of having committed an act which would be a crime if committed by an adult, who escapes from a juvenile detention facility as defined in ORS 419A.004 after having been placed in the facility pursuant to the filing of a petition alleging that the youth has committed an act which would be a crime if committed by an adult commits a violation punishable by placement in a detention facility for youths for a specific period of time not to exceed eight days, in addition to time already spent in the facility, when such punishment is ordered by the juvenile court pursuant to ORS 419C.453. [1993 c.33 §177]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-279a.290
-title: "Miscellaneous receipts accounts MISCELLANEOUS PROVISIONS"
+title: "Miscellaneous receipts accounts"
 doc_type: statute
 citation: "ORS 279A.290"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-279a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Miscellaneous receipts accounts MISCELLANEOUS PROVISIONS (ORS 279A.290)
+# Miscellaneous receipts accounts (ORS 279A.290)
 
 ## At a glance
 
-ORS 279A.290 — Miscellaneous receipts accounts MISCELLANEOUS PROVISIONS. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
+ORS 279A.290 — Miscellaneous receipts accounts. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
 
 ## Full text
 
@@ -49,7 +49,7 @@ ORS 279A.290 — Miscellaneous receipts accounts MISCELLANEOUS PROVISIONS. Chapt
 
 (1) The State Treasurer may establish a miscellaneous receipts account for any state agency and shall credit to the account any amounts paid into the State Treasury under ORS 190.240 (1), 279A.280, 279A.285, 283.110 or 357.885 for the state agency for which the account was established. The moneys credited to the miscellaneous receipts account of a state agency established under this section are appropriated continuously for the payment of the expenses of the state agency, subject to the allotment system provided by ORS 291.234 to 291.260.
 
-(2) Laws enacted by the Legislative Assembly limiting expenditures do not limit expenditures from miscellaneous receipts accounts established under this section except when the law limiting expenditures of a state agency specifically establishes a limit for expenditures from the miscellaneous receipts account of the agency. [2003 c.794 §44; 2003 c.794 §44a] MISCELLANEOUS PROVISIONS 
+(2) Laws enacted by the Legislative Assembly limiting expenditures do not limit expenditures from miscellaneous receipts accounts established under this section except when the law limiting expenditures of a state agency specifically establishes a limit for expenditures from the miscellaneous receipts account of the agency. [2003 c.794 §44; 2003 c.794 §44a]
 
 ## Provenance & change history
 

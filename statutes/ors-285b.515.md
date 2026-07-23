@@ -1,6 +1,6 @@
 ---
 id: ors-285b.515
-title: "“Primary sponsor” and “project sponsor” defined LOTTERY BONDS FOR INFRASTRUCTURE PROJECTS"
+title: "“Primary sponsor” and “project sponsor” defined"
 doc_type: statute
 citation: "ORS 285B.515"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# “Primary sponsor” and “project sponsor” defined LOTTERY BONDS FOR INFRASTRUCTURE PROJECTS (ORS 285B.515)
+# “Primary sponsor” and “project sponsor” defined (ORS 285B.515)
 
 ## At a glance
 
-ORS 285B.515 — “Primary sponsor” and “project sponsor” defined LOTTERY BONDS FOR INFRASTRUCTURE PROJECTS. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.515 — “Primary sponsor” and “project sponsor” defined. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

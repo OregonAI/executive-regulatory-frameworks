@@ -1,6 +1,6 @@
 ---
 id: ors-285b.266
-title: "Strategic Reserve Fund; uses INDUSTRY DEVELOPMENT PROJECTS"
+title: "Strategic Reserve Fund; uses"
 doc_type: statute
 citation: "ORS 285B.266"
 authority_level: statute
@@ -49,11 +49,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Strategic Reserve Fund; uses INDUSTRY DEVELOPMENT PROJECTS (ORS 285B.266)
+# Strategic Reserve Fund; uses (ORS 285B.266)
 
 ## At a glance
 
-ORS 285B.266 — Strategic Reserve Fund; uses INDUSTRY DEVELOPMENT PROJECTS. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.266 — Strategic Reserve Fund; uses. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 
@@ -63,7 +63,7 @@ ORS 285B.266 — Strategic Reserve Fund; uses INDUSTRY DEVELOPMENT PROJECTS. Cha
 
 (2) The fund shall not be used to retire any debt or, except upon approval of the Joint Ways and Means Committee or, if the Legislative Assembly is not in session, the Emergency Board, to pay administrative expenses of the department. Expenses that are project related shall not be considered to be administrative expenses of the department.
 
-(3) The department is directed to place particular emphasis on investments that assist communities, businesses or industries in cost-effective projects that assist the creation, expansion and preservation of the principal traded sector industries of Oregon and encourage diversification and preservation of regional economies. The fund shall be used to assist economic and community development projects of public entities, industry groups or businesses with significant long-term, regional or statewide economic impacts, to provide interim financing mechanisms to augment existing public or private sector programs or to analyze statewide, long-term economic issues and opportunities. [Formerly 285.653; 1999 c.509 §19; 2009 c.830 §80] 285B.269 [Formerly 285.655; repealed by 2009 c.830 §171] INDUSTRY DEVELOPMENT PROJECTS 
+(3) The department is directed to place particular emphasis on investments that assist communities, businesses or industries in cost-effective projects that assist the creation, expansion and preservation of the principal traded sector industries of Oregon and encourage diversification and preservation of regional economies. The fund shall be used to assist economic and community development projects of public entities, industry groups or businesses with significant long-term, regional or statewide economic impacts, to provide interim financing mechanisms to augment existing public or private sector programs or to analyze statewide, long-term economic issues and opportunities. [Formerly 285.653; 1999 c.509 §19; 2009 c.830 §80] 285B.269 [Formerly 285.655; repealed by 2009 c.830 §171]
 
 ## Provenance & change history
 

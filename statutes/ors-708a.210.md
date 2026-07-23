@@ -1,6 +1,6 @@
 ---
 id: ors-708a.210
-title: "Challenge to validity of institution action; prohibition; exceptions LOANS GENERALLY"
+title: "Challenge to validity of institution action; prohibition; exceptions"
 doc_type: statute
 citation: "ORS 708A.210"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-708a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Challenge to validity of institution action; prohibition; exceptions LOANS GENERALLY (ORS 708A.210)
+# Challenge to validity of institution action; prohibition; exceptions (ORS 708A.210)
 
 ## At a glance
 
-ORS 708A.210 — Challenge to validity of institution action; prohibition; exceptions LOANS GENERALLY. Chapter 708A (Chapter 708A), 2025 Edition.
+ORS 708A.210 — Challenge to validity of institution action; prohibition; exceptions. Chapter 708A (Chapter 708A), 2025 Edition.
 
 ## Full text
 
@@ -53,7 +53,7 @@ ORS 708A.210 — Challenge to validity of institution action; prohibition; excep
 
 (2) An institution’s power to act may be challenged: (a) In a proceeding by a stockholder against the institution to enjoin the act; (b) In a proceeding by the institution, directly, derivatively or through a receiver, trustee or other legal representative, against an incumbent or former director, officer, employee or agent of the institution; or (c) By the Director of the Department of Consumer and Business Services.
 
-(3) In a stockholder’s proceeding under subsection (2)(a) of this section to enjoin an unauthorized act, the court may enjoin or set aside the act if equitable and if all affected persons are parties to the proceeding, and may award damages for loss other than anticipated profits suffered by the institution or another party because of enjoining the unauthorized act. [1997 c.631 §137] LOANS GENERALLY 
+(3) In a stockholder’s proceeding under subsection (2)(a) of this section to enjoin an unauthorized act, the court may enjoin or set aside the act if equitable and if all affected persons are parties to the proceeding, and may award damages for loss other than anticipated profits suffered by the institution or another party because of enjoining the unauthorized act. [1997 c.631 §137]
 
 ## Provenance & change history
 

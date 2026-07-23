@@ -1,6 +1,6 @@
 ---
 id: ors-708a.995
-title: "Criminal penalties POWERS OF INSTITUTIONS"
+title: "Criminal penalties"
 doc_type: statute
 citation: "ORS 708A.995"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-708a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Criminal penalties POWERS OF INSTITUTIONS (ORS 708A.995)
+# Criminal penalties (ORS 708A.995)
 
 ## At a glance
 
-ORS 708A.995 — Criminal penalties POWERS OF INSTITUTIONS. Chapter 708A (Chapter 708A), 2025 Edition.
+ORS 708A.995 — Criminal penalties. Chapter 708A (Chapter 708A), 2025 Edition.
 
 ## Full text
 

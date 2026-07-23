@@ -1,6 +1,6 @@
 ---
 id: ors-181a.702
-title: "and"
+title: "Identifying information on uniform"
 doc_type: statute
 citation: "ORS 181A.702"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# and (ORS 181A.702)
+# Identifying information on uniform (ORS 181A.702)
 
 ## At a glance
 
-ORS 181A.702 — and. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.702 — Identifying information on uniform. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

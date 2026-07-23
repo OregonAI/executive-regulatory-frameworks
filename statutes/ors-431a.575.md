@@ -1,6 +1,6 @@
 ---
 id: ors-431a.575
-title: "Oregon Health Authority to provide pamphlets FEMALE GENITAL MUTILATION"
+title: "Oregon Health Authority to provide pamphlets"
 doc_type: statute
 citation: "ORS 431A.575"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon Health Authority to provide pamphlets FEMALE GENITAL MUTILATION (ORS 431A.575)
+# Oregon Health Authority to provide pamphlets (ORS 431A.575)
 
 ## At a glance
 
-ORS 431A.575 — Oregon Health Authority to provide pamphlets FEMALE GENITAL MUTILATION. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.575 — Oregon Health Authority to provide pamphlets. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
-431A.575 Oregon Health Authority to provide pamphlets. The Oregon Health Authority shall provide to the counties of this state pamphlets described in ORS 106.081. The authority may produce such pamphlets with moneys available for the purpose or may accept a gift of such pamphlets from any public or private source if the content is acceptable to the authority. [Formerly 431.825] FEMALE GENITAL MUTILATION 
+431A.575 Oregon Health Authority to provide pamphlets. The Oregon Health Authority shall provide to the counties of this state pamphlets described in ORS 106.081. The authority may produce such pamphlets with moneys available for the purpose or may accept a gift of such pamphlets from any public or private source if the content is acceptable to the authority. [Formerly 431.825]
 
 ## Provenance & change history
 

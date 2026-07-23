@@ -1,6 +1,6 @@
 ---
 id: ors-475a.205
-title: "Purposes of ORS"
+title: "Purposes of ORS 475A.200 to"
 doc_type: statute
 citation: "ORS 475A.205"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Purposes of ORS (ORS 475A.205)
+# Purposes of ORS 475A.200 to (ORS 475A.205)
 
 ## At a glance
 
-ORS 475A.205 — Purposes of ORS. Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.205 — Purposes of ORS 475A.200 to. Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 

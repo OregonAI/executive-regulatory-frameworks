@@ -1,6 +1,6 @@
 ---
 id: ors-285b.186
-title: "Short title CREDIT ENHANCEMENT FUND"
+title: "Short title"
 doc_type: statute
 citation: "ORS 285B.186"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Short title CREDIT ENHANCEMENT FUND (ORS 285B.186)
+# Short title (ORS 285B.186)
 
 ## At a glance
 
-ORS 285B.186 — Short title CREDIT ENHANCEMENT FUND. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.186 — Short title. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

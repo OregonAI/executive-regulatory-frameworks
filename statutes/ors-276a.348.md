@@ -55,7 +55,7 @@ ORS 276A.348 — State Treasurer prohibited from using covered products; risk mi
 
 (3) For any corporate entity that the State Chief Information Officer designates as a covered vendor under ORS 276A.344, the State Treasurer may: (a) Prohibit a covered product from being: (A) Installed or downloaded onto a state information technology asset; or (B) Used or accessed by a state information technology asset; (b) Remove any covered product that is installed or downloaded onto a state information technology asset; and (c) Implement all measures necessary to prevent the: (A) Installation or download of a covered product onto a state information technology asset; or (B) Use or access of a covered product by a state information technology asset.
 
-(4) If the State Treasurer adopts risk mitigation standards and procedures related to the installation, download, use or access of a covered product, the State Treasurer may, for investigatory, regulatory or law enforcement purposes, permit the: (a) Installation or download of the covered product onto a state information technology asset; or (b) Use or access of the covered product by a state information technology asset. [2023 c.256 §5; 2025 c.396 §4] OPEN DATA STANDARD 
+(4) If the State Treasurer adopts risk mitigation standards and procedures related to the installation, download, use or access of a covered product, the State Treasurer may, for investigatory, regulatory or law enforcement purposes, permit the: (a) Installation or download of the covered product onto a state information technology asset; or (b) Use or access of the covered product by a state information technology asset. [2023 c.256 §5; 2025 c.396 §4]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-308a.128
-title: "Certain district assessments inapplicable to exclusive farm use zone farmland FARM AND FOREST HOMESITES"
+title: "Certain district assessments inapplicable to exclusive farm use zone farmland"
 doc_type: statute
 citation: "ORS 308A.128"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-308a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors308A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Certain district assessments inapplicable to exclusive farm use zone farmland FARM AND FOREST HOMESITES (ORS 308A.128)
+# Certain district assessments inapplicable to exclusive farm use zone farmland (ORS 308A.128)
 
 ## At a glance
 
-ORS 308A.128 — Certain district assessments inapplicable to exclusive farm use zone farmland FARM AND FOREST HOMESITES. Chapter 308A (Chapter 308A), 2025 Edition.
+ORS 308A.128 — Certain district assessments inapplicable to exclusive farm use zone farmland. Chapter 308A (Chapter 308A), 2025 Edition.
 
 ## Full text
 
@@ -53,7 +53,7 @@ ORS 308A.128 — Certain district assessments inapplicable to exclusive farm use
 
 (2) Subsection
 
-(1) of this section does not apply to: (a) Benefit assessments or special ad valorem tax levies imposed upon homesites situated within a parcel of farm use land. As used in this paragraph, “homesite” means not more than one acre of land upon which are constructed nonfarm dwellings and appurtenances; or (b) Benefit assessments or special ad valorem tax levies imposed subsequent to disqualification of lands for farm use special assessment under ORS 308A.062. [Formerly 308.401] FARM AND FOREST HOMESITES 
+(1) of this section does not apply to: (a) Benefit assessments or special ad valorem tax levies imposed upon homesites situated within a parcel of farm use land. As used in this paragraph, “homesite” means not more than one acre of land upon which are constructed nonfarm dwellings and appurtenances; or (b) Benefit assessments or special ad valorem tax levies imposed subsequent to disqualification of lands for farm use special assessment under ORS 308A.062. [Formerly 308.401]
 
 ## Provenance & change history
 

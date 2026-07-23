@@ -83,7 +83,7 @@ ORS 659A.145 — prohibited. Chapter 659A (Chapter 659A), 2025 Edition.
 
 (10) In the sale, lease or rental of real property, a person may not disclose to any person that an occupant or owner of the real property has or died from a blood-borne infection.
 
-(11) Any violation of this section is an unlawful practice. [Formerly 659.430; 2007 c.70 §298; 2007 c.903 §3a; 2008 c.36 §5; 2009 c.109 §1; 2009 c.508 §16; 2019 c.280 §12] UNLAWFUL DISCRIMINATION AND REASONABLE ACCOMMODATION RELATED TO PREGNANCY 
+(11) Any violation of this section is an unlawful practice. [Formerly 659.430; 2007 c.70 §298; 2007 c.903 §3a; 2008 c.36 §5; 2009 c.109 §1; 2009 c.508 §16; 2019 c.280 §12]
 
 ## Provenance & change history
 

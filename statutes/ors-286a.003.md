@@ -1,6 +1,6 @@
 ---
 id: ors-286a.003
-title: "State policy on debt management DUTIES OF STATE TREASURER"
+title: "State policy on debt management"
 doc_type: statute
 citation: "ORS 286A.003"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-286a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# State policy on debt management DUTIES OF STATE TREASURER (ORS 286A.003)
+# State policy on debt management (ORS 286A.003)
 
 ## At a glance
 
-ORS 286A.003 — State policy on debt management DUTIES OF STATE TREASURER. Chapter 286A (Chapter 286A), 2025 Edition.
+ORS 286A.003 — State policy on debt management. Chapter 286A (Chapter 286A), 2025 Edition.
 
 ## Full text
 
@@ -49,7 +49,7 @@ ORS 286A.003 — State policy on debt management DUTIES OF STATE TREASURER. Chap
 
 (1) The State of Oregon recognizes that adherence to a debt management policy that provides guidelines for debt issuance is necessary to limit the long-term impact of debt on the budget of the state, to preserve the credit rating of the state and to maintain available debt capacity to meet the continuing capital investment needs of this state. Accordingly, it is the policy of the State of Oregon that, in determining the total amount of bonds to be authorized each biennium, the Legislative Assembly shall: (a) Limit the issuance of bonds to projects or programs that require a minimum amount of state funding, as determined by the Legislative Assembly each biennium, and direct that projects or programs with funding needs that are under the minimum amount be funded with current resources; and (b) Prohibit the issuance of bonds for ongoing operating expenditures of the state.
 
-(2) This section does not require the Legislative Assembly to prohibit: (a) Borrowing for ongoing operating expenditures of the state as authorized under ORS 286A.045; (b) Borrowing to finance pension obligations under ORS 238.692 to 238.698; (c) Borrowing to finance activities related to environmental remediation; (d) The use of bond proceeds to pay for administration or management of projects or programs funded by the bond proceeds; or (e) The use of interest or investment earnings on bond proceeds for ongoing operating expenditures. [2017 c.746 §14] DUTIES OF STATE TREASURER 
+(2) This section does not require the Legislative Assembly to prohibit: (a) Borrowing for ongoing operating expenditures of the state as authorized under ORS 286A.045; (b) Borrowing to finance pension obligations under ORS 238.692 to 238.698; (c) Borrowing to finance activities related to environmental remediation; (d) The use of bond proceeds to pay for administration or management of projects or programs funded by the bond proceeds; or (e) The use of interest or investment earnings on bond proceeds for ongoing operating expenditures. [2017 c.746 §14]
 
 ## Provenance & change history
 

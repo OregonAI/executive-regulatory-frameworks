@@ -1,6 +1,6 @@
 ---
 id: ors-659a.865
-title: "Retaliatory action prohibited CIVIL ACTIONS FOR UNLAWFUL DISCRIMINATION"
+title: "Retaliatory action prohibited"
 doc_type: statute
 citation: "ORS 659A.865"
 authority_level: statute
@@ -43,15 +43,15 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Retaliatory action prohibited CIVIL ACTIONS FOR UNLAWFUL DISCRIMINATION (ORS 659A.865)
+# Retaliatory action prohibited (ORS 659A.865)
 
 ## At a glance
 
-ORS 659A.865 — Retaliatory action prohibited CIVIL ACTIONS FOR UNLAWFUL DISCRIMINATION. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.865 — Retaliatory action prohibited. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 
-659A.865 Retaliatory action prohibited. A respondent named in a complaint filed under ORS 659A.820 may not, with the intention of defeating a purpose of this chapter, take any action that deprives the person filing the complaint of any services, real property, employment or employment opportunities sought in the complaint during the period of time commencing with the date on which the respondent receives notice from the Commissioner of the Bureau of Labor and Industries that the complaint has been filed and ending on the date on which an administrative determination is made on the merits of the complaint or the matter is resolved by settlement. [2001 c.621 §11] CIVIL ACTIONS FOR UNLAWFUL DISCRIMINATION 
+659A.865 Retaliatory action prohibited. A respondent named in a complaint filed under ORS 659A.820 may not, with the intention of defeating a purpose of this chapter, take any action that deprives the person filing the complaint of any services, real property, employment or employment opportunities sought in the complaint during the period of time commencing with the date on which the respondent receives notice from the Commissioner of the Bureau of Labor and Industries that the complaint has been filed and ending on the date on which an administrative determination is made on the merits of the complaint or the matter is resolved by settlement. [2001 c.621 §11]
 
 ## Provenance & change history
 

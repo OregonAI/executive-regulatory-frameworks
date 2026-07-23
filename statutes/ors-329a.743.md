@@ -1,6 +1,6 @@
 ---
 id: ors-329a.743
-title: "CHIPS Child Care Fund FEDERAL MONEYS"
+title: "CHIPS Child Care Fund"
 doc_type: statute
 citation: "ORS 329A.743"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-329a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# CHIPS Child Care Fund FEDERAL MONEYS (ORS 329A.743)
+# CHIPS Child Care Fund (ORS 329A.743)
 
 ## At a glance
 
-ORS 329A.743 — CHIPS Child Care Fund FEDERAL MONEYS. Chapter 329A (Chapter 329A), 2025 Edition.
+ORS 329A.743 — CHIPS Child Care Fund. Chapter 329A (Chapter 329A), 2025 Edition.
 
 ## Full text
 

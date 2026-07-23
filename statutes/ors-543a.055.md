@@ -1,6 +1,6 @@
 ---
 id: ors-543a.055
-title: "Hydroelectric Application Review Team review of application; draft proposed final order; public comment WATER RIGHT APPLICATION PROCESS FOR REAUTHORIZING A FEDE"
+title: "Hydroelectric Application Review Team review of application; draft proposed final order; public comment"
 doc_type: statute
 citation: "ORS 543A.055"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-543a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors543A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Hydroelectric Application Review Team review of application; draft proposed final order; public comment WATER RIGHT APPLICATION PROCESS FOR REAUTHORIZING A FEDE (ORS 543A.055)
+# Hydroelectric Application Review Team review of application; draft proposed final order; public comment (ORS 543A.055)
 
 ## At a glance
 
-ORS 543A.055 — Hydroelectric Application Review Team review of application; draft proposed final order; public comment WATER RIGHT APPLICATION PROCESS FOR REAUTHORIZING A FEDE. Chapter 543A (Chapter 543A), 2025 Edition.
+ORS 543A.055 — Hydroelectric Application Review Team review of application; draft proposed final order; public comment. Chapter 543A (Chapter 543A), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-163a.125
-title: "Relief from reporting obligation for sex offenders classified under ORS"
+title: "Relief from reporting obligation for sex offenders classified under ORS 163A.100; reclassification; procedure"
 doc_type: statute
 citation: "ORS 163A.125"
 authority_level: statute
@@ -72,11 +72,11 @@ tags: ["ors", "chapter-163a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors163A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Relief from reporting obligation for sex offenders classified under ORS (ORS 163A.125)
+# Relief from reporting obligation for sex offenders classified under ORS 163A.100; reclassification; procedure (ORS 163A.125)
 
 ## At a glance
 
-ORS 163A.125 — Relief from reporting obligation for sex offenders classified under ORS. Chapter 163A (Chapter 163A), 2025 Edition.
+ORS 163A.125 — Relief from reporting obligation for sex offenders classified under ORS 163A.100; reclassification; procedure. Chapter 163A (Chapter 163A), 2025 Edition.
 
 ## Full text
 

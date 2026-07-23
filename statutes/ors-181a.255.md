@@ -1,6 +1,6 @@
 ---
 id: ors-181a.255
-title: "Report of suspected criminal homicide; form and time of report; compilation; comparison CRIMINAL JUSTICE INFORMATION STANDARDS"
+title: "Report of suspected criminal homicide; form and time of report; compilation; comparison"
 doc_type: statute
 citation: "ORS 181A.255"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Report of suspected criminal homicide; form and time of report; compilation; comparison CRIMINAL JUSTICE INFORMATION STANDARDS (ORS 181A.255)
+# Report of suspected criminal homicide; form and time of report; compilation; comparison (ORS 181A.255)
 
 ## At a glance
 
-ORS 181A.255 — Report of suspected criminal homicide; form and time of report; compilation; comparison CRIMINAL JUSTICE INFORMATION STANDARDS. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.255 — Report of suspected criminal homicide; form and time of report; compilation; comparison. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

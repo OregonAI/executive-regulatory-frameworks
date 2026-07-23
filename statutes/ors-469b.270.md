@@ -1,6 +1,6 @@
 ---
 id: ors-469b.270
-title: "Definitions for ORS 315.331 and"
+title: "Definitions for ORS 315.331 and 469B.270 to"
 doc_type: statute
 citation: "ORS 469B.270"
 authority_level: statute
@@ -51,11 +51,11 @@ tags: ["ors", "chapter-469b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS 315.331 and (ORS 469B.270)
+# Definitions for ORS 315.331 and 469B.270 to (ORS 469B.270)
 
 ## At a glance
 
-ORS 469B.270 — Definitions for ORS 315.331 and. Chapter 469B (Chapter 469B), 2025 Edition.
+ORS 469B.270 — Definitions for ORS 315.331 and 469B.270 to. Chapter 469B (Chapter 469B), 2025 Edition.
 
 ## Full text
 

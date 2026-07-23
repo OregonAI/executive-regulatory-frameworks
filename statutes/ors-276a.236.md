@@ -1,6 +1,6 @@
 ---
 id: ors-276a.236
-title: "Enterprise information resources management; adoption and implementation of strategy; state agency information technology initiatives costing more than $1 million"
+title: "Enterprise information resources management; adoption and implementation of strategy; state agency information technology initiatives costing more than $1 milli"
 doc_type: statute
 citation: "ORS 276A.236"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-276a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Enterprise information resources management; adoption and implementation of strategy; state agency information technology initiatives costing more than $1 million (ORS 276A.236)
+# Enterprise information resources management; adoption and implementation of strategy; state agency information technology initiatives costing more than $1 milli (ORS 276A.236)
 
 ## At a glance
 
-ORS 276A.236 — Enterprise information resources management; adoption and implementation of strategy; state agency information technology initiatives costing more than $1 million. Chapter 276A (Information Technology), 2025 Edition.
+ORS 276A.236 — Enterprise information resources management; adoption and implementation of strategy; state agency information technology initiatives costing more than $1 milli. Chapter 276A (Information Technology), 2025 Edition.
 
 ## Full text
 

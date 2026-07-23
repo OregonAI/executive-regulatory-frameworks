@@ -1,6 +1,6 @@
 ---
 id: ors-431a.108
-title: "Oregon Health Authority to notify emergency departments of information related to hemoglobinopathies and hematologists STATEWIDE INJURY AND VIOLENCE PREVENTION "
+title: "Oregon Health Authority to notify emergency departments of information related to hemoglobinopathies and hematologists"
 doc_type: statute
 citation: "ORS 431A.108"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon Health Authority to notify emergency departments of information related to hemoglobinopathies and hematologists STATEWIDE INJURY AND VIOLENCE PREVENTION  (ORS 431A.108)
+# Oregon Health Authority to notify emergency departments of information related to hemoglobinopathies and hematologists (ORS 431A.108)
 
 ## At a glance
 
-ORS 431A.108 — Oregon Health Authority to notify emergency departments of information related to hemoglobinopathies and hematologists STATEWIDE INJURY AND VIOLENCE PREVENTION . Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.108 — Oregon Health Authority to notify emergency departments of information related to hemoglobinopathies and hematologists. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -49,7 +49,7 @@ ORS 431A.108 — Oregon Health Authority to notify emergency departments of info
 
 (1) Identify patients with hemo-globinopathies; and
 
-(2) Provide information on how to contact a hematologist in real time. [2025 c.301 §1] STATEWIDE INJURY AND VIOLENCE PREVENTION PROGRAM 
+(2) Provide information on how to contact a hematologist in real time. [2025 c.301 §1]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-646a.514
-title: "Scope of remedies CHILDREN’S PRODUCTS"
+title: "Scope of remedies CHILDREN’S"
 doc_type: statute
 citation: "ORS 646A.514"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Scope of remedies CHILDREN’S PRODUCTS (ORS 646A.514)
+# Scope of remedies CHILDREN’S (ORS 646A.514)
 
 ## At a glance
 
-ORS 646A.514 — Scope of remedies CHILDREN’S PRODUCTS. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.514 — Scope of remedies CHILDREN’S. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

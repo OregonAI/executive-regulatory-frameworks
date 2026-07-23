@@ -1,6 +1,6 @@
 ---
 id: ors-469b.347
-title: "Policies and procedures; standards for single transportation project; rules BIOFUELS AND BIOMASS"
+title: "Policies and procedures; standards for single transportation project; rules"
 doc_type: statute
 citation: "ORS 469B.347"
 authority_level: statute
@@ -59,15 +59,15 @@ tags: ["ors", "chapter-469b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Policies and procedures; standards for single transportation project; rules BIOFUELS AND BIOMASS (ORS 469B.347)
+# Policies and procedures; standards for single transportation project; rules (ORS 469B.347)
 
 ## At a glance
 
-ORS 469B.347 — Policies and procedures; standards for single transportation project; rules BIOFUELS AND BIOMASS. Chapter 469B (Chapter 469B), 2025 Edition.
+ORS 469B.347 — Policies and procedures; standards for single transportation project; rules. Chapter 469B (Chapter 469B), 2025 Edition.
 
 ## Full text
 
-469B.347 Policies and procedures; standards for single transportation project; rules. The State Department of Energy shall by rule establish policies and procedures for the administration and enforcement of the provisions of ORS 315.336 and 469B.320 to 469B.347, including standards for what constitutes a single transportation project. [2011 c.730 §65] BIOFUELS AND BIOMASS 
+469B.347 Policies and procedures; standards for single transportation project; rules. The State Department of Energy shall by rule establish policies and procedures for the administration and enforcement of the provisions of ORS 315.336 and 469B.320 to 469B.347, including standards for what constitutes a single transportation project. [2011 c.730 §65]
 
 ## Provenance & change history
 

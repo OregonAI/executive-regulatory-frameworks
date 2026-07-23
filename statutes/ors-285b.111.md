@@ -1,6 +1,6 @@
 ---
 id: ors-285b.111
-title: "Purpose of ORS"
+title: "Purpose of ORS 285B.109 to"
 doc_type: statute
 citation: "ORS 285B.111"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Purpose of ORS (ORS 285B.111)
+# Purpose of ORS 285B.109 to (ORS 285B.111)
 
 ## At a glance
 
-ORS 285B.111 — Purpose of ORS. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.111 — Purpose of ORS 285B.109 to. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

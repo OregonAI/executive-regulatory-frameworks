@@ -1,6 +1,6 @@
 ---
 id: ors-743b.445
-title: "Application programming interface; requirements PAYMENT OF CLAIMS"
+title: "Application programming interface; requirements"
 doc_type: statute
 citation: "ORS 743B.445"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Application programming interface; requirements PAYMENT OF CLAIMS (ORS 743B.445)
+# Application programming interface; requirements (ORS 743B.445)
 
 ## At a glance
 
-ORS 743B.445 — Application programming interface; requirements PAYMENT OF CLAIMS. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.445 — Application programming interface; requirements. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-468b.075
-title: "Definitions for ORS"
+title: "Definitions for ORS 468B.080"
 doc_type: statute
 citation: "ORS 468B.075"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 468B.075)
+# Definitions for ORS 468B.080 (ORS 468B.075)
 
 ## At a glance
 
-ORS 468B.075 — Definitions for ORS. Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.075 — Definitions for ORS 468B.080. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 

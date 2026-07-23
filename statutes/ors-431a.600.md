@@ -1,6 +1,6 @@
 ---
 id: ors-431a.600
-title: "Oregon Health Authority to conduct prevention and education activities ACQUIRED IMMUNE DEFICIENCY SYNDROME"
+title: "Oregon Health Authority to conduct prevention and education activities"
 doc_type: statute
 citation: "ORS 431A.600"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon Health Authority to conduct prevention and education activities ACQUIRED IMMUNE DEFICIENCY SYNDROME (ORS 431A.600)
+# Oregon Health Authority to conduct prevention and education activities (ORS 431A.600)
 
 ## At a glance
 
-ORS 431A.600 — Oregon Health Authority to conduct prevention and education activities ACQUIRED IMMUNE DEFICIENCY SYNDROME. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.600 — Oregon Health Authority to conduct prevention and education activities. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 431A.600 — Oregon Health Authority to conduct prevention and education act
 
 (2) Those communities and the medical community as to the existence and ramifications of ORS 163.207; and
 
-(3) Those communities that the practices constitute physical injuries to a child for purposes of ORS 419B.005. [Formerly 431.827] ACQUIRED IMMUNE DEFICIENCY SYNDROME 
+(3) Those communities that the practices constitute physical injuries to a child for purposes of ORS 419B.005. [Formerly 431.827]
 
 ## Provenance & change history
 

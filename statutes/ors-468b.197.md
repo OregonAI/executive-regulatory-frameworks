@@ -1,6 +1,6 @@
 ---
 id: ors-468b.197
-title: "Subsurface Injection Fluids Account; establishment; interest; uses ANIMAL WASTE CONTROL"
+title: "Subsurface Injection Fluids Account; establishment; interest; uses"
 doc_type: statute
 citation: "ORS 468B.197"
 authority_level: statute
@@ -37,15 +37,15 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Subsurface Injection Fluids Account; establishment; interest; uses ANIMAL WASTE CONTROL (ORS 468B.197)
+# Subsurface Injection Fluids Account; establishment; interest; uses (ORS 468B.197)
 
 ## At a glance
 
-ORS 468B.197 — Subsurface Injection Fluids Account; establishment; interest; uses ANIMAL WASTE CONTROL. Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.197 — Subsurface Injection Fluids Account; establishment; interest; uses. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 
-468B.197 Subsurface Injection Fluids Account; establishment; interest; uses. The Subsurface Injection Fluids Account is established separate and distinct from the General Fund. Interest earned by the account shall be credited to the account. Moneys in the account are continuously appropriated to the Department of Environmental Quality and may be used only to pay the administrative expenses of the underground injection control program implemented under ORS 468B.195. [2007 c.297 §4] ANIMAL WASTE CONTROL 
+468B.197 Subsurface Injection Fluids Account; establishment; interest; uses. The Subsurface Injection Fluids Account is established separate and distinct from the General Fund. Interest earned by the account shall be credited to the account. Moneys in the account are continuously appropriated to the Department of Environmental Quality and may be used only to pay the administrative expenses of the underground injection control program implemented under ORS 468B.195. [2007 c.297 §4]
 
 ## Provenance & change history
 

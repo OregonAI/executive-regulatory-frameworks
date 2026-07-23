@@ -1,6 +1,6 @@
 ---
 id: ors-419a.128
-title: "State Citizen Review Board Operating Account JUVENILE COURT REFEREES"
+title: "State Citizen Review Board Operating Account"
 doc_type: statute
 citation: "ORS 419A.128"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# State Citizen Review Board Operating Account JUVENILE COURT REFEREES (ORS 419A.128)
+# State Citizen Review Board Operating Account (ORS 419A.128)
 
 ## At a glance
 
-ORS 419A.128 — State Citizen Review Board Operating Account JUVENILE COURT REFEREES. Chapter 419A (Chapter 419A), 2025 Edition.
+ORS 419A.128 — State Citizen Review Board Operating Account. Chapter 419A (Chapter 419A), 2025 Edition.
 
 ## Full text
 
@@ -49,7 +49,7 @@ ORS 419A.128 — State Citizen Review Board Operating Account JUVENILE COURT REF
 
 (1) There is created a State Citizen Review Board Operating Account in the General Fund which is continuously appropriated to the State Court Administrator to pay the expenses incurred under ORS 419A.090 to 419A.128, 419B.470, 419B.473 and 419B.476. Such expenses shall be paid only from funds specifically appropriated for the purposes of ORS 419A.090 to 419A.128, 419B.470, 419B.473 and 419B.476 and no other moneys appropriated to the State Court Administrator shall be used for these purposes.
 
-(2) The State Court Administrator may accept funds and assistance from public and private sources for carrying out the purposes of ORS 419A.090 to 419A.128, 419B.470, 419B.473 and 419B.476 and may agree to conditions on the funds and assistance that are not inconsistent with ORS 419A.090 to 419A.128, 419B.470, 419B.473 and 419B.476. Such funds shall be credited to the State Citizen Review Board Operating Account. [1993 c.33 §42; 2003 c.442 §9] JUVENILE COURT REFEREES 
+(2) The State Court Administrator may accept funds and assistance from public and private sources for carrying out the purposes of ORS 419A.090 to 419A.128, 419B.470, 419B.473 and 419B.476 and may agree to conditions on the funds and assistance that are not inconsistent with ORS 419A.090 to 419A.128, 419B.470, 419B.473 and 419B.476. Such funds shall be credited to the State Citizen Review Board Operating Account. [1993 c.33 §42; 2003 c.442 §9]
 
 ## Provenance & change history
 

@@ -1,6 +1,6 @@
 ---
 id: ors-287a.640
-title: "Notice to commission of proposed issues; duty of public bodies to assist; rules DEFINITIONS"
+title: "Notice to commission of proposed issues; duty of public bodies to assist; rules"
 doc_type: statute
 citation: "ORS 287A.640"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-287a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors287A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Notice to commission of proposed issues; duty of public bodies to assist; rules DEFINITIONS (ORS 287A.640)
+# Notice to commission of proposed issues; duty of public bodies to assist; rules (ORS 287A.640)
 
 ## At a glance
 
-ORS 287A.640 — Notice to commission of proposed issues; duty of public bodies to assist; rules DEFINITIONS. Chapter 287A (Chapter 287A), 2025 Edition.
+ORS 287A.640 — Notice to commission of proposed issues; duty of public bodies to assist; rules. Chapter 287A (Chapter 287A), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-431a.530
-title: "Oregon Health Authority duties; database; confidentiality DENSE BREAST TISSUE"
+title: "Oregon Health Authority duties; database; confidentiality"
 doc_type: statute
 citation: "ORS 431A.530"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon Health Authority duties; database; confidentiality DENSE BREAST TISSUE (ORS 431A.530)
+# Oregon Health Authority duties; database; confidentiality (ORS 431A.530)
 
 ## At a glance
 
-ORS 431A.530 — Oregon Health Authority duties; database; confidentiality DENSE BREAST TISSUE. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.530 — Oregon Health Authority duties; database; confidentiality. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 

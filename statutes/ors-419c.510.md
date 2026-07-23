@@ -1,6 +1,6 @@
 ---
 id: ors-419c.510
-title: "Advisory committee to study dispositions; recommendations QUALIFYING MENTAL DISORDER"
+title: "Advisory committee to study dispositions; recommendations"
 doc_type: statute
 citation: "ORS 419C.510"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Advisory committee to study dispositions; recommendations QUALIFYING MENTAL DISORDER (ORS 419C.510)
+# Advisory committee to study dispositions; recommendations (ORS 419C.510)
 
 ## At a glance
 
-ORS 419C.510 — Advisory committee to study dispositions; recommendations QUALIFYING MENTAL DISORDER. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.510 — Advisory committee to study dispositions; recommendations. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 

@@ -1,6 +1,6 @@
 ---
 id: ors-708a.460
-title: "Application of ORS"
+title: "Application of ORS 708A.465 to"
 doc_type: statute
 citation: "ORS 708A.460"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-708a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Application of ORS (ORS 708A.460)
+# Application of ORS 708A.465 to (ORS 708A.460)
 
 ## At a glance
 
-ORS 708A.460 — Application of ORS. Chapter 708A (Chapter 708A), 2025 Edition.
+ORS 708A.460 — Application of ORS 708A.465 to. Chapter 708A (Chapter 708A), 2025 Edition.
 
 ## Full text
 

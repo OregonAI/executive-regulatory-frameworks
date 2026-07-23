@@ -1,6 +1,6 @@
 ---
 id: ors-181a.946
-title: "Application for nontribal police officers to exercise tribal police powers on tribal lands; citation for tribal offense; liability for torts; report SECURITY ON"
+title: "Application for nontribal police officers to exercise tribal police powers on tribal lands; citation for tribal offense; liability for torts; report"
 doc_type: statute
 citation: "ORS 181A.946"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Application for nontribal police officers to exercise tribal police powers on tribal lands; citation for tribal offense; liability for torts; report SECURITY ON (ORS 181A.946)
+# Application for nontribal police officers to exercise tribal police powers on tribal lands; citation for tribal offense; liability for torts; report (ORS 181A.946)
 
 ## At a glance
 
-ORS 181A.946 — Application for nontribal police officers to exercise tribal police powers on tribal lands; citation for tribal offense; liability for torts; report SECURITY ON. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.946 — Application for nontribal police officers to exercise tribal police powers on tribal lands; citation for tribal offense; liability for torts; report. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 
@@ -55,7 +55,7 @@ ORS 181A.946 — Application for nontribal police officers to exercise tribal po
 
 (5) A tribal government that authorizes a nontribal police officer employed by an applicant to exercise all or a portion of the powers of a tribal police officer while on tribal land may require the applicant to reimburse the tribal government for any costs incurred in carrying out the provisions of this section. (6)(a) A tribal government that employs, or seeks to employ, authorized tribal police officers under ORS 181A.940 to 181A.946, no later than 90 days after receiving an application under subsection
 
-(1) of this section, or within such additional time as the tribal government determines is appropriate, shall accept, accept with modifications or reject an application filed under this section. (b) Before acting on an application, a tribal government that employs, or seeks to employ, authorized tribal police officers shall engage in good faith consultation with the applicant concerning the terms and conditions of the proposed authorization of nontribal police officers. (7)(a) If the tribal government rejects the application, or accepts the application with modifications that are rejected by the applicant: (A) The applicant and a tribal government that employs, or seeks to employ, authorized tribal police officers shall, from the date of rejection until June 1, 2012, collect individualized data on the frequency of instances known to the applicant or the tribal government in which nontribal police officers employed by the applicant encountered, but were forced to release without further action due to a lack of legal authority, persons suspected of committing violations of the law while on tribal lands; (B) The applicant shall promptly report any such instance to the tribal government and the tribal government shall promptly report any such instance to the applicant; (C) The applicant and tribal government shall classify the suspected offenses according to their potential to endanger public safety; and (D) The tribal government and applicant shall engage in good faith consultation concerning the collection and classification of data; and (b) No later than September 1, 2013, the tribal government shall report to the Legislative Assembly, in the manner provided in ORS 192.245, on the data collected under paragraph (a) of this subsection. The tribal government and the applicant shall engage in good faith consultation concerning the contents of the report. [Formerly 181A.692] SECURITY ON CAMPUS 
+(1) of this section, or within such additional time as the tribal government determines is appropriate, shall accept, accept with modifications or reject an application filed under this section. (b) Before acting on an application, a tribal government that employs, or seeks to employ, authorized tribal police officers shall engage in good faith consultation with the applicant concerning the terms and conditions of the proposed authorization of nontribal police officers. (7)(a) If the tribal government rejects the application, or accepts the application with modifications that are rejected by the applicant: (A) The applicant and a tribal government that employs, or seeks to employ, authorized tribal police officers shall, from the date of rejection until June 1, 2012, collect individualized data on the frequency of instances known to the applicant or the tribal government in which nontribal police officers employed by the applicant encountered, but were forced to release without further action due to a lack of legal authority, persons suspected of committing violations of the law while on tribal lands; (B) The applicant shall promptly report any such instance to the tribal government and the tribal government shall promptly report any such instance to the applicant; (C) The applicant and tribal government shall classify the suspected offenses according to their potential to endanger public safety; and (D) The tribal government and applicant shall engage in good faith consultation concerning the collection and classification of data; and (b) No later than September 1, 2013, the tribal government shall report to the Legislative Assembly, in the manner provided in ORS 192.245, on the data collected under paragraph (a) of this subsection. The tribal government and the applicant shall engage in good faith consultation concerning the contents of the report. [Formerly 181A.692]
 
 ## Provenance & change history
 

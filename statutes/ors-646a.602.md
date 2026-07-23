@@ -1,6 +1,6 @@
 ---
 id: ors-646a.602
-title: "Definitions for ORS"
+title: "Definitions for ORS 646A.600 to"
 doc_type: statute
 citation: "ORS 646A.602"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS (ORS 646A.602)
+# Definitions for ORS 646A.600 to (ORS 646A.602)
 
 ## At a glance
 
-ORS 646A.602 — Definitions for ORS. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.602 — Definitions for ORS 646A.600 to. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

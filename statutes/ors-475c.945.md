@@ -1,6 +1,6 @@
 ---
 id: ors-475c.945
-title: "City, county ordinances regarding medical marijuana AUTHORITIES OF CITIES, COUNTIES TO PROHIBIT ESTABLISHMENT OF CANNABIS-RELATED BUSINESSES"
+title: "City, county ordinances regarding medical marijuana AUTHORITIES OF CITIES,"
 doc_type: statute
 citation: "ORS 475C.945"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# City, county ordinances regarding medical marijuana AUTHORITIES OF CITIES, COUNTIES TO PROHIBIT ESTABLISHMENT OF CANNABIS-RELATED BUSINESSES (ORS 475C.945)
+# City, county ordinances regarding medical marijuana AUTHORITIES OF CITIES, (ORS 475C.945)
 
 ## At a glance
 
-ORS 475C.945 — City, county ordinances regarding medical marijuana AUTHORITIES OF CITIES, COUNTIES TO PROHIBIT ESTABLISHMENT OF CANNABIS-RELATED BUSINESSES. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.945 — City, county ordinances regarding medical marijuana AUTHORITIES OF CITIES,. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

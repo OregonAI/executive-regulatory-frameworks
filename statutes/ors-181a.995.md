@@ -1,6 +1,6 @@
 ---
 id: ors-181a.995
-title: "Penalties relating to regulation of private security; criminal and civil STATE POLICE"
+title: "Penalties relating to regulation of private security; criminal and civil"
 doc_type: statute
 citation: "ORS 181A.995"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Penalties relating to regulation of private security; criminal and civil STATE POLICE (ORS 181A.995)
+# Penalties relating to regulation of private security; criminal and civil (ORS 181A.995)
 
 ## At a glance
 
-ORS 181A.995 — Penalties relating to regulation of private security; criminal and civil STATE POLICE. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.995 — Penalties relating to regulation of private security; criminal and civil. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

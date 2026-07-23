@@ -1,6 +1,6 @@
 ---
 id: ors-285b.426
-title: "Housing Infrastructure Project Fund (Temporary provisions relating to support for municipal infrastructure planning are compiled as notes following ORS"
+title: "Housing Infrastructure Project Fund (Temporary provisions relating to support for municipal infrastructure planning are compiled as notes following ORS 285B.426"
 doc_type: statute
 citation: "ORS 285B.426"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Housing Infrastructure Project Fund (Temporary provisions relating to support for municipal infrastructure planning are compiled as notes following ORS (ORS 285B.426)
+# Housing Infrastructure Project Fund (Temporary provisions relating to support for municipal infrastructure planning are compiled as notes following ORS 285B.426 (ORS 285B.426)
 
 ## At a glance
 
-ORS 285B.426 — Housing Infrastructure Project Fund (Temporary provisions relating to support for municipal infrastructure planning are compiled as notes following ORS. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.426 — Housing Infrastructure Project Fund (Temporary provisions relating to support for municipal infrastructure planning are compiled as notes following ORS 285B.426. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

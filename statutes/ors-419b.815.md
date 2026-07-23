@@ -1,6 +1,6 @@
 ---
 id: ors-419b.815
-title: "Summons for proceeding to establish jurisdiction under ORS"
+title: "Summons for proceeding to establish jurisdiction under ORS 419B.100; contents; failure to appear"
 doc_type: statute
 citation: "ORS 419B.815"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Summons for proceeding to establish jurisdiction under ORS (ORS 419B.815)
+# Summons for proceeding to establish jurisdiction under ORS 419B.100; contents; failure to appear (ORS 419B.815)
 
 ## At a glance
 
-ORS 419B.815 — Summons for proceeding to establish jurisdiction under ORS. Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.815 — Summons for proceeding to establish jurisdiction under ORS 419B.100; contents; failure to appear. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

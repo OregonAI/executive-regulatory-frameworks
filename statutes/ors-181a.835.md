@@ -1,6 +1,6 @@
 ---
 id: ors-181a.835
-title: "Peer support services; confidentiality; admissibility as evidence PRIVATE SECURITY"
+title: "Peer support services; confidentiality; admissibility as evidence"
 doc_type: statute
 citation: "ORS 181A.835"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Peer support services; confidentiality; admissibility as evidence PRIVATE SECURITY (ORS 181A.835)
+# Peer support services; confidentiality; admissibility as evidence (ORS 181A.835)
 
 ## At a glance
 
-ORS 181A.835 — Peer support services; confidentiality; admissibility as evidence PRIVATE SECURITY. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.835 — Peer support services; confidentiality; admissibility as evidence. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 
@@ -68,7 +68,7 @@ ORS 181A.835 — Peer support services; confidentiality; admissibility as eviden
 
 (8) This section does not apply to: (a) Any threat of suicide or homicide made by a participant in peer support services, or any information conveyed in the course of peer support services relating to a threat of suicide or homicide; (b) Any information relating to abuse of children or of the elderly, or other information that is required to be reported by law; or (c) Any admission of criminal conduct.
 
-(9) This section does not prohibit any communications between peer supporters, or any communications between peer supporters and the supervisors or staff of an employee assistance program. [Formerly 181.860; 2023 c.430 §1; 2025 c.309 §1] PRIVATE SECURITY 
+(9) This section does not prohibit any communications between peer supporters, or any communications between peer supporters and the supervisors or staff of an employee assistance program. [Formerly 181.860; 2023 c.430 §1; 2025 c.309 §1]
 
 ## Provenance & change history
 

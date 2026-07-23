@@ -1,6 +1,6 @@
 ---
 id: ors-475a.654
-title: "Civil penalty for violating ORS"
+title: "Civil penalty for violating ORS 475A.626 to"
 doc_type: statute
 citation: "ORS 475A.654"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Civil penalty for violating ORS (ORS 475A.654)
+# Civil penalty for violating ORS 475A.626 to (ORS 475A.654)
 
 ## At a glance
 
-ORS 475A.654 — Civil penalty for violating ORS. Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.654 — Civil penalty for violating ORS 475A.626 to. Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 475A.654 — Civil penalty for violating ORS. Chapter 475A (Chapter 475A), 2
 
 (2) The authority shall impose civil penalties under this section in the manner provided by ORS 183.745.
 
-(3) Moneys collected under this section shall be deposited in the Psilocybin Control and Regulation Fund established under ORS 475A.492 and are continuously appropriated to the authority for the purpose of carrying out the duties, functions and powers of the authority under ORS 475A.210 to 475A.722. [2021 c.1 §112] TAXATION OF PSILOCYBIN PRODUCTS 
+(3) Moneys collected under this section shall be deposited in the Psilocybin Control and Regulation Fund established under ORS 475A.492 and are continuously appropriated to the authority for the purpose of carrying out the duties, functions and powers of the authority under ORS 475A.210 to 475A.722. [2021 c.1 §112]
 
 ## Provenance & change history
 

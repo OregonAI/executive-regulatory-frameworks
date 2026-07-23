@@ -1,6 +1,6 @@
 ---
 id: ors-543a.115
-title: "Final unified state position PROCESS FOR COMPLETING REAUTHORIZATION OF WATER RIGHT FOR EITHER STATE OR FEDERALLY LICENSED PROJECT"
+title: "Final unified state position"
 doc_type: statute
 citation: "ORS 543A.115"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-543a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors543A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Final unified state position PROCESS FOR COMPLETING REAUTHORIZATION OF WATER RIGHT FOR EITHER STATE OR FEDERALLY LICENSED PROJECT (ORS 543A.115)
+# Final unified state position (ORS 543A.115)
 
 ## At a glance
 
-ORS 543A.115 — Final unified state position PROCESS FOR COMPLETING REAUTHORIZATION OF WATER RIGHT FOR EITHER STATE OR FEDERALLY LICENSED PROJECT. Chapter 543A (Chapter 543A), 2025 Edition.
+ORS 543A.115 — Final unified state position. Chapter 543A (Chapter 543A), 2025 Edition.
 
 ## Full text
 
@@ -51,7 +51,7 @@ ORS 543A.115 — Final unified state position PROCESS FOR COMPLETING REAUTHORIZA
 
 (2) The team shall provide the final unified state position to the applicant and to the Federal Energy Regulatory Commission. The team shall submit the proposed final order on reauthorization of the water right to the Water Resources Department. Upon receipt of the proposed final order, the department shall complete processing of the application for reauthorization of the water right in accordance with the provisions of ORS 543A.120 to 543A.300.
 
-(3) The team may submit to the Federal Energy Regulatory Commission and the applicant any proposed final unified state position, comments, recommendations, conditions or additional information requests, coordinated in accordance with this chapter, at any time necessary to satisfy a deadline established by the Federal Energy Regulatory Commission for such submission, even if the procedures set forth in this section for the development of a final unified state position have not been completed. [1997 c.449 §22; 2001 c.369 §6] PROCESS FOR COMPLETING REAUTHORIZATION OF WATER RIGHT FOR EITHER STATE OR FEDERALLY LICENSED PROJECT 
+(3) The team may submit to the Federal Energy Regulatory Commission and the applicant any proposed final unified state position, comments, recommendations, conditions or additional information requests, coordinated in accordance with this chapter, at any time necessary to satisfy a deadline established by the Federal Energy Regulatory Commission for such submission, even if the procedures set forth in this section for the development of a final unified state position have not been completed. [1997 c.449 §22; 2001 c.369 §6]
 
 ## Provenance & change history
 

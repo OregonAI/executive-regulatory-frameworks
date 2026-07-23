@@ -1,6 +1,6 @@
 ---
 id: ors-646a.476
-title: "Civil action for damages; attorney fees; limitation on actions VEHICLE REPAIR SHOPS"
+title: "Civil action for damages; attorney fees; limitation on actions"
 doc_type: statute
 citation: "ORS 646A.476"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Civil action for damages; attorney fees; limitation on actions VEHICLE REPAIR SHOPS (ORS 646A.476)
+# Civil action for damages; attorney fees; limitation on actions (ORS 646A.476)
 
 ## At a glance
 
-ORS 646A.476 — Civil action for damages; attorney fees; limitation on actions VEHICLE REPAIR SHOPS. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.476 — Civil action for damages; attorney fees; limitation on actions. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 
@@ -57,7 +57,7 @@ ORS 646A.476 — Civil action for damages; attorney fees; limitation on actions 
 
 (2) of this section, the party opposing the consumer shall be entitled to reasonable attorney fees if the court finds the action to have been frivolous.
 
-(4) Any action brought under this section shall be commenced during the period beginning one year after the date the assistive device was originally delivered to the consumer and ending two years later. [Formerly 646.498] VEHICLE REPAIR SHOPS 
+(4) Any action brought under this section shall be commenced during the period beginning one year after the date the assistive device was originally delivered to the consumer and ending two years later. [Formerly 646.498]
 
 ## Provenance & change history
 

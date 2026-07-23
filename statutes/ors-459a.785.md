@@ -1,6 +1,6 @@
 ---
 id: ors-459a.785
-title: "Effective recycling program; standards for determining ARCHITECTURAL PAINT STEWARDSHIP PROGRAM"
+title: "Effective recycling program; standards for determining"
 doc_type: statute
 citation: "ORS 459A.785"
 authority_level: statute
@@ -37,11 +37,11 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Effective recycling program; standards for determining ARCHITECTURAL PAINT STEWARDSHIP PROGRAM (ORS 459A.785)
+# Effective recycling program; standards for determining (ORS 459A.785)
 
 ## At a glance
 
-ORS 459A.785 — Effective recycling program; standards for determining ARCHITECTURAL PAINT STEWARDSHIP PROGRAM. Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.785 — Effective recycling program; standards for determining. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 
