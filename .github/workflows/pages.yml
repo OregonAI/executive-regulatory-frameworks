@@ -7,7 +7,7 @@ on:
     # only rebuild when something the site shows can change
     paths:
       - "_meta/graph.json"
-      - "viz/agency-authority-graph.html"
+      - "viz/**"
       - "llms.txt"
       - "src/build_site.py"
       - ".github/workflows/pages.yml"
