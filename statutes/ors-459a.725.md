@@ -29,7 +29,6 @@ relationships:
   implemented_by:
     - oar-845-020-0005
     - oar-845-020-0010
-    - oar-845-020-0015
   references_external: []
   related: []
   supersedes: []

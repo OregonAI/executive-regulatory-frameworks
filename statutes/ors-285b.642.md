@@ -28,7 +28,6 @@ relationships:
   implements: []
   implemented_by:
     - oar-123-098-0010
-    - oar-123-098-0020
     - oar-123-098-0030
     - oar-123-098-0040
     - oar-123-098-0050

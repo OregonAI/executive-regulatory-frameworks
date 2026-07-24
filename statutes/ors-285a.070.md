@@ -28,11 +28,6 @@ relationships:
   implements: []
   implemented_by:
     - oar-123-092-0060
-    - oar-123-200-1000
-    - oar-123-200-1100
-    - oar-123-200-1210
-    - oar-123-200-1220
-    - oar-123-200-1240
   references_external: []
   related: []
   supersedes: []

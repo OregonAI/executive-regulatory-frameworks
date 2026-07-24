@@ -30,8 +30,6 @@ relationships:
     - oar-459-035-0000
     - oar-459-035-0001
     - oar-459-035-0020
-    - oar-459-070-0100
-    - oar-459-070-0110
     - oar-459-080-0015
     - oar-459-080-0400
   references_external: []

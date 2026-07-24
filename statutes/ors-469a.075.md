@@ -27,7 +27,6 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
-    - oar-860-083-0400
     - oar-860-089-0020
     - oar-860-089-0200
     - oar-860-089-0250

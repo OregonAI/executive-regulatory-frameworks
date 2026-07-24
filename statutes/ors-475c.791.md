@@ -26,9 +26,7 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by:
-    - oar-333-008-0020
-    - oar-333-008-0030
+  implemented_by: []
   references_external: []
   related: []
   supersedes: []

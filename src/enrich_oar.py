@@ -48,6 +48,7 @@ ACTION_ID_RE = re.compile(r"([A-Z]{2,8} \d+-\d{4}(?:\(Temp\))?)")
 EFF_LONG_RE = re.compile(r"effective (\d{2}/\d{2}/\d{4})")
 EFF_SHORT_RE = re.compile(r"(?:cert\. ef\.|& ef\.|cert\. &? ?ef\.|ef\.)\s*(\d{1,2}-\d{1,2}-\d{2,4})")
 RENUM_RE = re.compile(r"renumbered from (\d{3}-\d{3}-\d{4})")
+REPEAL_RE = re.compile(r"\brepeal", re.I)
 CITE_FAMILY_RE = re.compile(r"^(ORS|OAR|OL|USC|CFR|Or Laws|Oregon Laws|Ch\.?|Chapter|Sec\.?|Section)\b", re.I)
 # A year-led session-law or bill citation ("2013 HB 2633", "2010 OL Ch. 30") starts with a
 # digit like a bare continuation number would, but is a citation in its own right — never
@@ -125,17 +126,21 @@ def parse_effective(action_text: str):
 
 
 def parse_history(hist: str):
-    """(newest_action_id, newest_effective_iso, renumbered_from) from a History line.
-    Actions run newest-first; each starts with an id like 'DAS 2-2026'."""
+    """(newest_action_id, newest_effective_iso, renumbered_from, repealed) from a History
+    line. Actions run newest-first; each starts with an id like 'DAS 2-2026'. `repealed`
+    reflects ONLY the newest action — an older action mentioning "repealed by ... enacted
+    in lieu of" must not mark a rule that was later re-adopted as currently repealed."""
     ids = list(ACTION_ID_RE.finditer(hist))
     if not ids:
-        return None, parse_effective(hist), (RENUM_RE.search(hist).group(1)
-                                             if RENUM_RE.search(hist) else None)
+        return (None, parse_effective(hist),
+                (RENUM_RE.search(hist).group(1) if RENUM_RE.search(hist) else None),
+                bool(REPEAL_RE.search(hist)))
     first = ids[0]
     end = ids[1].start() if len(ids) > 1 else len(hist)
     newest = hist[first.start():end]
     renum = RENUM_RE.search(newest)
-    return first.group(1), parse_effective(newest), (renum.group(1) if renum else None)
+    return (first.group(1), parse_effective(newest), (renum.group(1) if renum else None),
+            bool(REPEAL_RE.search(newest)))
 
 
 def derive(body: str, doc_id: str, registry_by_chapter: dict) -> dict:
@@ -147,12 +152,14 @@ def derive(body: str, doc_id: str, registry_by_chapter: dict) -> dict:
     d["statutes_implemented"] = parse_citation_list(m.group(1)) if m else []
     m = HIST_RE.search(body)
     action_id = eff = renum = None
+    repealed = False
     if m:
-        action_id, eff, renum = parse_history(m.group(1))
+        action_id, eff, renum, repealed = parse_history(m.group(1))
     d["effective_date"] = eff
     d["source_version"] = (f"{action_id}, effective {eff}" if action_id and eff
                            else action_id)
     d["renumbered_from"] = renum
+    d["status"] = "repealed" if repealed else "current"
     ch = doc_id.split("-")[1]
     org = registry_by_chapter.get(ch)
     if org is None:
@@ -200,6 +207,7 @@ def apply(path: Path, d: dict) -> bool:
     text = re.sub(r'^agency: .*$', f'agency: {d["agency"]}', text, count=1, flags=re.M)
     text = re.sub(r'^issuing_body: .*$', f'issuing_body: "{d["issuing_body"]}"',
                   text, count=1, flags=re.M)
+    text = re.sub(r'^status: .*$', f'status: {d["status"]}', text, count=1, flags=re.M)
     if d["renumbered_from"]:
         sup = f'OAR {d["renumbered_from"]}'
         if f'"{sup}"' not in text:
@@ -222,6 +230,8 @@ def expected_mismatch(fm: dict, d: dict) -> list:
         bad.append("effective_date")
     if fm.get("agency") != d["agency"]:
         bad.append("agency")
+    if fm.get("status") != d["status"]:
+        bad.append("status")
     return bad
 
 

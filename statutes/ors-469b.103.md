@@ -26,32 +26,7 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by:
-    - oar-330-070-0010
-    - oar-330-070-0013
-    - oar-330-070-0020
-    - oar-330-070-0021
-    - oar-330-070-0022
-    - oar-330-070-0024
-    - oar-330-070-0025
-    - oar-330-070-0026
-    - oar-330-070-0027
-    - oar-330-070-0029
-    - oar-330-070-0040
-    - oar-330-070-0045
-    - oar-330-070-0048
-    - oar-330-070-0055
-    - oar-330-070-0059
-    - oar-330-070-0060
-    - oar-330-070-0062
-    - oar-330-070-0063
-    - oar-330-070-0064
-    - oar-330-070-0070
-    - oar-330-070-0073
-    - oar-330-070-0076
-    - oar-330-070-0078
-    - oar-330-070-0085
-    - oar-330-070-0097
+  implemented_by: []
   references_external: []
   related: []
   supersedes: []

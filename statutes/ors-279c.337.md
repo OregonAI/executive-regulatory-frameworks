@@ -29,7 +29,6 @@ relationships:
   implemented_by:
     - oar-137-049-0600
     - oar-137-049-0690
-    - oar-731-007-0340
   references_external: []
   related: []
   supersedes: []

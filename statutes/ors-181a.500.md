@@ -28,7 +28,6 @@ relationships:
   implements: []
   implemented_by:
     - oar-259-008-0067
-    - oar-259-008-0069
     - oar-259-009-0067
   references_external: []
   related: []

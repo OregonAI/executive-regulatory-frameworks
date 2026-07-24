@@ -26,21 +26,7 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by:
-    - oar-309-090-0000
-    - oar-309-090-0005
-    - oar-309-090-0010
-    - oar-309-090-0015
-    - oar-309-090-0020
-    - oar-309-090-0025
-    - oar-309-090-0030
-    - oar-309-090-0035
-    - oar-309-090-0040
-    - oar-309-090-0050
-    - oar-309-090-0055
-    - oar-309-090-0060
-    - oar-309-090-0065
-    - oar-309-090-0070
+  implemented_by: []
   references_external: []
   related: []
   supersedes: []

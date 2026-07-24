@@ -26,20 +26,7 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by:
-    - oar-123-043-0000
-    - oar-123-043-0010
-    - oar-123-043-0015
-    - oar-123-043-0025
-    - oar-123-043-0035
-    - oar-123-043-0041
-    - oar-123-043-0055
-    - oar-123-043-0065
-    - oar-123-043-0075
-    - oar-123-043-0085
-    - oar-123-043-0095
-    - oar-123-043-0102
-    - oar-123-043-0115
+  implemented_by: []
   references_external: []
   related: []
   supersedes: []

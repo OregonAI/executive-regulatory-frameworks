@@ -29,7 +29,6 @@ relationships:
   implemented_by:
     - das-50-010-04
     - das-60-000-12
-    - oar-839-005-0160
     - oar-839-009-0325
     - oar-839-009-0330
     - oar-839-009-0340

@@ -30,9 +30,6 @@ relationships:
     - oar-123-165-0010
     - oar-123-165-0020
     - oar-123-165-0030
-    - oar-123-165-0040
-    - oar-123-165-0045
-    - oar-123-165-0050
   references_external: []
   related: []
   supersedes: []

@@ -26,17 +26,7 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by:
-    - oar-839-009-0370
-    - oar-839-009-0380
-    - oar-839-009-0390
-    - oar-839-009-0400
-    - oar-839-009-0410
-    - oar-839-009-0420
-    - oar-839-009-0430
-    - oar-839-009-0440
-    - oar-839-009-0450
-    - oar-839-009-0460
+  implemented_by: []
   references_external: []
   related: []
   supersedes: []

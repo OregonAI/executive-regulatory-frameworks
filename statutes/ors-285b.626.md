@@ -27,14 +27,11 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
-    - oar-123-097-0100
-    - oar-123-097-0200
     - oar-123-097-0500
     - oar-123-097-1000
     - oar-123-097-1500
     - oar-123-097-2000
     - oar-123-097-2500
-    - oar-123-098-0020
   references_external: []
   related: []
   supersedes: []
