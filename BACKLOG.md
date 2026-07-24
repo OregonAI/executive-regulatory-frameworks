@@ -78,6 +78,89 @@ All five vizzes from this brainstorm are now **built** (each a self-contained ge
   citation edges exist — the directed graph is a near-empty statewide hub. The
   shared-authority projection above is the data-supported alternative.
 
+## Corpus data-quality bugs surfaced by the conflict-candidates pilot (batch 3, 2026-07-23)
+
+Two systemic patterns turned up repeatedly across independent chapters during the 60-chapter
+conflict-candidates pilot (`_meta/catalog/conflict-candidates.yml`) — frequently enough, and
+mechanically similar enough each time, that they read as pipeline bugs rather than one-off
+curation slips. Neither is fixed here; flagging with enough detail (affected doc ids, the
+mechanism, and which pipeline stage to suspect) to pick up later without re-deriving it.
+
+- **`relationships.implements` is built from `legal_authority` instead of
+  `statutes_implemented`, producing implements-graph edges that contradict a rule's own
+  frontmatter.** A rule's `statutes_implemented` field (and its own body-text "Statutes/Other
+  Implemented" line, when present) is the rule's self-declared claim about what it
+  implements; `legal_authority` (its "Statutory/Other Authority" line) is a *different*,
+  broader list — the rulemaking authority the agency is acting under, which routinely
+  includes statutes the rule doesn't substantively implement (a general rulemaking-authority
+  statute, an adjacent statute cited only for context, etc.). In several rules, the curated
+  `relationships.implements` array was evidently derived from `legal_authority` rather than
+  `statutes_implemented`, so it both includes statutes the rule doesn't claim to implement
+  and *omits* ones it does. Confirmed instances (chapter → rule → mismatch):
+  - ORS 190: `oar-125-090-0000` — `statutes_implemented` leads with `"ORS 98.805"`, but
+    `relationships.implements` omits `ors-98.805` entirely while including `ors-184.340`,
+    `ors-276.601`, `ors-283.100` (present only in `legal_authority`). Same pattern in
+    `oar-125-090-0002`, `oar-735-030-0055`, `oar-735-030-0057`, `oar-735-062-0080`.
+  - ORS 131: all five `oar-416-150-00xx` rules — `statutes_implemented` says `"ORS 420.014"`
+    (matching the rules' own body text) but `relationships.implements` points to
+    `ors-420.081` instead — identical across all five sibling rules, so likely one upstream
+    mapping error rather than five independent ones.
+  - ORS 153: `oar-738-140-0010/-0015/-0020/-0025/-0030` and `oar-740-100-0100` — each rule's
+    own text keeps "Statutory/Other Authority" and "Statutes/Other Implemented" as two
+    distinct lists, but `relationships.implements` merges both into one array. Net effect:
+    `ors-153.022`'s `implemented_by` list claims six rules implement it, but none of those
+    six rules' own "Statutes/Other Implemented" line actually includes ORS 153.022 — it
+    appears only as authority in every one of them.
+  - ORS 693: `oar-918-695-0040` and `oar-918-780-0030` — both cite their target statute
+    (`ORS 693.030`, `ORS 693.135` respectively) in `legal_authority` only, per their own
+    verbatim "Statutory/Other Authority" vs. "Statutes/Other Implemented" split, yet
+    `relationships.implements` (and the statute's own `implemented_by`) treat them as
+    implementing that statute.
+  - Also seen (asymmetric but same root cause) in ORS 271 (`oar-125-045-0205`), ORS 106
+    (`oar-411-049-0102`, disagrees across all three of `legal_authority`/
+    `statutes_implemented`/`relationships.implements` simultaneously), and ORS 205/419A/814
+    clusters.
+  Suspected fix location: whatever step in the ingestion/enrichment pipeline populates
+  `relationships.implements` for OAR rules (likely in `src/enrich_oar.py` or
+  `src/link_graph.py`) — should source strictly from `statutes_implemented`, never
+  `legal_authority`. Worth a corpus-wide audit script comparing the two fields once fixed,
+  not just a fix for future ingests, since ~69k existing rule docs may carry the bug.
+
+- **Rules repealed per their own "History" line are still tagged `status: current` and left
+  wired into a statute's `implemented_by` graph as if live.** The rule's frontmatter
+  (`status: current`, and often `effective_date` set to the *repeal* date rather than a real
+  effective date) contradicts its own body text, which shows a `repeal filed .../ effective
+  ...` entry as the most recent history item and has no operative rule text beyond the
+  title/authority/history block. A reader or downstream tool trusting `status`/
+  `implemented_by` would believe obsolete rule text still governs. Confirmed instances
+  (chapter → rule(s) → repeal date per the rule's own History line):
+  - ORS 244: `oar-199-001-0040` (repealed 2021-12-30); `oar-199-010-0085`, `-0090`, `-0100`
+    (all repealed 2021-12-30) — all four still listed in their respective statutes'
+    `implemented_by`.
+  - ORS 171: same three `oar-199-010-00xx` rules (shared with ORS 244 above, both statutes
+    cite them), plus `oar-855-010-0016` (repealed 2024-02-29, Oregon Medical Board).
+  - ORS 419A: the entire `oar-413-350-0100/-0110/-0120/-0130/-0140` division (all repealed
+    2021-11-01) — the *only* rules ORS 419A.260/419A.262 list as implementers, even though
+    both statutes were substantively re-amended in 2025, four years after the repeal.
+  - ORS 340: the entire `oar-581-017-0640/-0642/-0644/-0646/-0648/-0650` division
+    implementing ORS 340.320 (five repealed 2025-04-02, one 2025-06-16).
+  - ORS 578: `oar-678-030-0000/-0010/-0020` (all repealed 2022-03-04) — the rules ORS
+    578.060(3)'s "shall adopt" per-diem/expense mandate depends on.
+  - ORS 205: `oar-813-001-0060` (repealed 2026-07-06, the day before this pilot's own
+    retrieval date) — ORS 205.125's sole implementer.
+  - ORS 280: `oar-123-042-0165` (repealed 2026-06-18) — ORS 280.518's sole implementer.
+  - ORS 131: `oar-461-135-0440` (repealed 2023-07-01, same date as its own
+    `effective_date` field) — ORS 131.715's sole implementer.
+  - ORS 107: eight `oar-416-100-00xx` OYA rules (all repealed 2022-01-03), still listed in
+    ORS 107.108's `implemented_by`.
+  - ORS 163: `oar-333-015-0210` (repealed 2022-02-10) — ORS 163.575's sole implementer.
+  This is frequent enough (10 chapters independently hit it) that it's very likely a gap in
+  how repeal filings are detected/applied during OAR re-ingestion, not ten unrelated
+  curation misses — worth checking whatever step sets `status` from the OARD "History" text
+  in `src/ingest_oar.py`/`src/enrich_oar.py`. A cheap mechanical detector: any rule whose
+  full text is empty (title + authority/history block only) AND whose most recent History
+  entry contains "repeal" should never carry `status: current`.
+
 ## Other known deferrals
 
 - Docker image smoke test (blocked: local user lacks docker socket permission —
