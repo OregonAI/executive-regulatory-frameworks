@@ -27,28 +27,7 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
-    - oar-340-090-0010
     - oar-340-090-0015
-    - oar-340-090-0030
-    - oar-340-090-0040
-    - oar-340-090-0060
-    - oar-340-093-0010
-    - oar-340-093-0020
-    - oar-340-093-0040
-    - oar-340-093-0100
-    - oar-340-093-0160
-    - oar-340-093-0170
-    - oar-340-093-0210
-    - oar-340-093-0220
-    - oar-340-094-0001
-    - oar-340-094-0010
-    - oar-340-094-0020
-    - oar-340-094-0060
-    - oar-340-094-0080
-    - oar-340-095-0001
-    - oar-340-095-0030
-    - oar-340-096-0001
-    - oar-340-097-0001
   references_external: []
   related: []
   supersedes: []

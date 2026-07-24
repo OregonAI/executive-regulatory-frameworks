@@ -28,7 +28,6 @@ relationships:
   implements: []
   implemented_by:
     - oar-123-001-0520
-    - oar-123-021-0015
     - oar-123-021-2100
     - oar-123-021-2200
     - oar-123-021-2300
@@ -41,8 +40,6 @@ relationships:
     - oar-123-021-3000
     - oar-123-021-3500
     - oar-123-021-3600
-    - oar-123-021-3700
-    - oar-123-021-3800
   references_external: []
   related: []
   supersedes: []

@@ -28,9 +28,7 @@ relationships:
   implements: []
   implemented_by:
     - deq-imd-7070198
-    - oar-340-012-0055
     - oar-340-041-0001
-    - oar-340-041-0002
     - oar-340-043-0000
     - oar-340-043-0025
     - oar-340-044-0010

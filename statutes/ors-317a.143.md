@@ -26,33 +26,7 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by:
-    - oar-150-305-0068
-    - oar-150-317-1000
-    - oar-150-317-1010
-    - oar-150-317-1020
-    - oar-150-317-1025
-    - oar-150-317-1030
-    - oar-150-317-1040
-    - oar-150-317-1050
-    - oar-150-317-1060
-    - oar-150-317-1070
-    - oar-150-317-1100
-    - oar-150-317-1120
-    - oar-150-317-1130
-    - oar-150-317-1140
-    - oar-150-317-1150
-    - oar-150-317-1160
-    - oar-150-317-1170
-    - oar-150-317-1200
-    - oar-150-317-1300
-    - oar-150-317-1310
-    - oar-150-317-1320
-    - oar-150-317-1330
-    - oar-150-317-1400
-    - oar-150-317-1410
-    - oar-150-317-1420
-    - oar-150-317-1500
+  implemented_by: []
   references_external: []
   related: []
   supersedes: []

@@ -42,8 +42,6 @@ relationships:
     - oar-123-092-0050
     - oar-123-092-0060
     - oar-123-092-0070
-    - oar-123-092-0080
-    - oar-123-092-0090
   references_external: []
   related: []
   supersedes: []

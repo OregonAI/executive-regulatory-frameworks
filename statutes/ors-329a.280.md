@@ -26,30 +26,7 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by:
-    - oar-414-205-0065
-    - oar-414-350-0000
-    - oar-414-350-0020
-    - oar-414-350-0040
-    - oar-414-350-0050
-    - oar-414-350-0060
-    - oar-414-350-0070
-    - oar-414-350-0100
-    - oar-414-350-0110
-    - oar-414-350-0115
-    - oar-414-350-0120
-    - oar-414-350-0130
-    - oar-414-350-0140
-    - oar-414-350-0150
-    - oar-414-350-0160
-    - oar-414-350-0170
-    - oar-414-350-0180
-    - oar-414-350-0200
-    - oar-414-350-0210
-    - oar-414-350-0220
-    - oar-414-350-0230
-    - oar-414-350-0235
-    - oar-414-350-0375
+  implemented_by: []
   references_external: []
   related: []
   supersedes: []

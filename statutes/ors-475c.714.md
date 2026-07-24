@@ -26,16 +26,7 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by:
-    - oar-150-475-2010
-    - oar-150-475-2020
-    - oar-150-475-2030
-    - oar-150-475-2040
-    - oar-150-475-2050
-    - oar-150-475-2060
-    - oar-150-475-2070
-    - oar-150-475-2080
-    - oar-150-475-2100
+  implemented_by: []
   references_external: []
   related: []
   supersedes: []

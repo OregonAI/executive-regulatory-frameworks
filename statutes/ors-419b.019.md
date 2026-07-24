@@ -27,22 +27,11 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
-    - oar-419-230-0100
-    - oar-419-230-0110
-    - oar-419-230-0120
-    - oar-419-230-0130
-    - oar-419-230-0140
-    - oar-419-230-0150
-    - oar-419-230-0170
-    - oar-419-230-0180
-    - oar-419-230-0190
-    - oar-419-230-0200
     - oar-581-055-0001
     - oar-581-055-0004
     - oar-581-055-0007
     - oar-581-055-0011
     - oar-581-055-0014
-    - oar-581-055-0017
   references_external: []
   related: []
   supersedes: []

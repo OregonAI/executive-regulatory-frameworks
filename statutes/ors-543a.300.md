@@ -26,24 +26,7 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by:
-    - oar-690-052-0000
-    - oar-690-052-0010
-    - oar-690-052-0020
-    - oar-690-052-0030
-    - oar-690-052-0040
-    - oar-690-052-0050
-    - oar-690-052-0060
-    - oar-690-052-0070
-    - oar-690-052-0080
-    - oar-690-052-0090
-    - oar-690-052-0100
-    - oar-690-052-0110
-    - oar-690-052-0120
-    - oar-690-052-0130
-    - oar-690-052-0140
-    - oar-690-052-0150
-    - oar-690-052-0160
+  implemented_by: []
   references_external: []
   related: []
   supersedes: []

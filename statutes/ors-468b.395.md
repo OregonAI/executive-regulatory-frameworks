@@ -27,14 +27,6 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
-    - oar-340-141-0100
-    - oar-340-141-0130
-    - oar-340-141-0140
-    - oar-340-141-0150
-    - oar-340-141-0160
-    - oar-340-141-0170
-    - oar-340-141-0180
-    - oar-340-141-0280
     - oar-340-141-0285
     - oar-340-142-0130
   references_external: []

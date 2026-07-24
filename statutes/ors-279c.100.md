@@ -29,7 +29,6 @@ relationships:
   implemented_by:
     - oar-125-248-0130
     - oar-137-048-0130
-    - oar-731-007-0400
     - oar-731-148-0130
   references_external: []
   related: []

@@ -28,9 +28,6 @@ relationships:
   implements: []
   implemented_by:
     - oar-340-012-0082
-    - oar-340-141-0001
-    - oar-340-141-0005
-    - oar-340-141-0010
     - oar-340-141-0130
     - oar-340-141-0140
     - oar-340-141-0160
@@ -38,7 +35,6 @@ relationships:
     - oar-340-141-0210
     - oar-340-141-0220
     - oar-340-141-0230
-    - oar-340-141-0240
   references_external: []
   related: []
   supersedes: []

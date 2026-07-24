@@ -26,12 +26,7 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by:
-    - oar-123-140-0010
-    - oar-123-140-0020
-    - oar-123-140-0030
-    - oar-123-140-0040
-    - oar-123-140-0050
+  implemented_by: []
   references_external: []
   related: []
   supersedes: []

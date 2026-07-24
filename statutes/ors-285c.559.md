@@ -26,16 +26,7 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by:
-    - oar-123-600-0100
-    - oar-123-600-0105
-    - oar-123-600-0110
-    - oar-123-600-0120
-    - oar-123-600-0130
-    - oar-123-600-0135
-    - oar-123-600-0140
-    - oar-123-600-0150
-    - oar-123-600-0250
+  implemented_by: []
   references_external: []
   related: []
   supersedes: []

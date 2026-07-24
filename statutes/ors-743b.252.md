@@ -29,11 +29,9 @@ relationships:
   implemented_by:
     - oar-836-053-1300
     - oar-836-053-1305
-    - oar-836-053-1310
     - oar-836-053-1325
     - oar-836-053-1330
     - oar-836-053-1342
-    - oar-836-053-1350
   references_external: []
   related: []
   supersedes: []

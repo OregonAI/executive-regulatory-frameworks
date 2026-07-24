@@ -29,7 +29,6 @@ relationships:
   implemented_by:
     - oar-839-025-0005
     - oar-839-025-0038
-    - oar-839-050-0000
     - oar-839-050-0445
   references_external: []
   related: []

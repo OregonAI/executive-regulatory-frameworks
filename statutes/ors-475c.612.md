@@ -27,14 +27,10 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
-    - oar-845-025-5760
     - oar-845-025-7010
     - oar-845-025-7020
-    - oar-845-025-7030
     - oar-845-025-7150
-    - oar-845-025-7170
     - oar-845-025-7180
-    - oar-845-025-7190
   references_external: []
   related: []
   supersedes: []

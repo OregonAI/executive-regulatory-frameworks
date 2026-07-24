@@ -28,7 +28,6 @@ relationships:
   implements: []
   implemented_by:
     - oar-413-015-0409
-    - oar-413-015-0440
   references_external: []
   related: []
   supersedes: []

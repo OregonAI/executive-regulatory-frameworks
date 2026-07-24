@@ -28,9 +28,7 @@ relationships:
   implements: []
   implemented_by:
     - oar-340-090-0015
-    - oar-340-090-0090
     - oar-340-090-0150
-    - oar-340-090-0190
     - oar-340-091-0035
     - oar-340-091-0040
     - oar-340-091-0050

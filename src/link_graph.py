@@ -85,21 +85,25 @@ def build_ors_renumber_map(docs):
 
 
 def authority_text(fm, body):
-    """The authority-bearing text regions for a doc (never the whole full text)."""
+    """The authority-bearing text regions for a doc (never the whole full text).
+
+    For rules, this is used to derive `implements` edges, so it must reflect ONLY what
+    the rule implements — never its broader rulemaking authority. legal_authority and
+    the body's "Statutory/Other Authority:" line frequently cite statutes the rule does
+    NOT implement (general enabling statutes, adjacent context, etc.); mixing them in
+    here previously contaminated `implements` with authority-only citations (see
+    BACKLOG.md's "relationships.implements built from legal_authority" entry). Rules
+    therefore use ONLY the already-parsed statutes_implemented frontmatter (populated by
+    enrich_oar.py from the body's "Statutes/Other Implemented:" line) — never
+    legal_authority, never the raw "Statutory/Other Authority:" text."""
+    if fm["doc_type"] == "rule":
+        return " ".join(str(x) for x in (fm.get("statutes_implemented") or []))
     parts = [" ".join(str(x) for x in (fm.get("legal_authority") or []))]
     ft = extract_fulltext(body)
     if not ft:
         return " ".join(parts)
     t = ws_only(ft)
-    if fm["doc_type"] == "rule":
-        for marker in ("Statutory/Other Authority:", "Statutes/Other Implemented:"):
-            i = t.find(marker)
-            if i > -1:
-                seg = t[i + len(marker):]
-                end = min([x for x in (seg.find("History:"), seg.find("Statutes/Other"),
-                                       len(seg)) if x > -1])
-                parts.append("ORS " + seg[:end])  # ensure bare numbers count as ORS refs
-    elif fm["doc_type"] in ("policy", "procedure", "manual", "standard"):
+    if fm["doc_type"] in ("policy", "procedure", "manual", "standard"):
         if str(fm.get("agency", "")).startswith(
                 ("oregon-health-authority", "department-of-human-services",
                  "oregon-watershed-enhancement-board", "public-utility-commission",
@@ -210,13 +214,28 @@ def compute(write=False):
     rule_map, div_map = build_renumber_map()
     ors_renumber_map = build_ors_renumber_map(docs)
 
-    # start from existing edges
-    rel = {did: {k: list((d["fm"].get("relationships") or {}).get(k) or [])
+    # start from existing edges — but only for fields that are ever hand-authored
+    # (related, references_external, supersedes: the latter written by
+    # ingest_ors_renumbering.py/enrich_oar.py's renumbering detection). `implements` and
+    # `implemented_by` are NEVER hand-authored anywhere in the pipeline (every ingest_*.py
+    # writes only the placeholder `implements: []`; this script is the sole writer of a
+    # non-empty value) — seeding them from existing frontmatter only let bad edges from a
+    # prior buggy run survive forever, since nothing downstream ever prunes, only unions.
+    # Always recomputing them fresh each run makes fixes to the derivation logic below
+    # self-migrating: no separate reset/migration pass is needed after a bugfix.
+    PRESERVED_KEYS = ["references_external", "related", "supersedes"]
+    rel = {did: {k: (list((d["fm"].get("relationships") or {}).get(k) or [])
+                      if k in PRESERVED_KEYS else [])
                  for k in REL_KEYS} for did, d in docs.items()}
 
-    # 1) citation-derived implements edges (rules/policies/procedures/manuals/standards)
+    # 1) citation-derived implements edges (rules/policies/procedures/manuals/standards).
+    # A repealed rule implements nothing currently in force, so it must not contribute
+    # implements edges — otherwise a stale "implemented_by" survives on the target
+    # statute even after the rule itself is correctly marked status: repealed.
     for did, d in docs.items():
         if d["fm"]["doc_type"] in LINK_DOC_TYPES:
+            if d["fm"]["doc_type"] == "rule" and d["fm"].get("status", "current") != "current":
+                continue
             targets = resolve_citations(
                 d["auth"], docs, rule_map, div_map, rules_by_div, did, ors_renumber_map)
             rel[did]["implements"].extend(sorted(targets))

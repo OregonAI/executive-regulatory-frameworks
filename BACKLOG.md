@@ -78,13 +78,33 @@ All five vizzes from this brainstorm are now **built** (each a self-contained ge
   citation edges exist — the directed graph is a near-empty statewide hub. The
   shared-authority projection above is the data-supported alternative.
 
-## Corpus data-quality bugs surfaced by the conflict-candidates pilot (batch 3, 2026-07-23)
+## Corpus data-quality bugs surfaced by the conflict-candidates pilot — DONE (2026-07-24)
 
 Two systemic patterns turned up repeatedly across independent chapters during the 60-chapter
 conflict-candidates pilot (`_meta/catalog/conflict-candidates.yml`) — frequently enough, and
 mechanically similar enough each time, that they read as pipeline bugs rather than one-off
-curation slips. Neither is fixed here; flagging with enough detail (affected doc ids, the
-mechanism, and which pipeline stage to suspect) to pick up later without re-deriving it.
+curation slips. Both are now fixed:
+
+- **`relationships.implements` contamination** — DONE. `src/link_graph.py`'s
+  `authority_text()` now derives a rule's implements-relevant text from its already-parsed
+  `statutes_implemented` frontmatter ONLY (never `legal_authority`, never the raw
+  "Statutory/Other Authority:" body text). `compute()` also stopped seeding `implements`/
+  `implemented_by` from existing frontmatter before unioning in newly-resolved citations —
+  those two fields are never hand-authored anywhere in the pipeline, so always recomputing
+  them fresh each run makes future derivation fixes self-migrating (no separate reset
+  script needed). One `link_graph.py` run after the fix dropped total `implements` edges
+  from ~122,717 to 81,284 and correctly re-derived every rule's edges corpus-wide.
+- **Repealed rules still `status: current`** — DONE. `src/enrich_oar.py`'s `parse_history()`
+  now also reports whether a rule's *newest* History action is a repeal (reusing the
+  existing newest-action boundary slicing, so an older "repealed by ... enacted in lieu of"
+  note on a still-live rule doesn't false-positive); `derive()`/`apply()`/
+  `expected_mismatch()` propagate `status: repealed` accordingly. A corpus-wide
+  `enrich_oar.py` run corrected 2,031 rules (of 36,953 — ~5.5%, matching the original
+  estimate almost exactly). Combined with the implements fix above (a repealed rule now
+  contributes zero `implements` edges), the corresponding stale `implemented_by` entries
+  on statutes were removed automatically, with no separate migration pass needed.
+
+Original bug report, preserved for reference:
 
 - **`relationships.implements` is built from `legal_authority` instead of
   `statutes_implemented`, producing implements-graph edges that contradict a rule's own
