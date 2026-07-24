@@ -46,7 +46,8 @@ def main():
         p.parent.mkdir(parents=True, exist_ok=True)
         p.write_text(t, encoding="utf-8")
     d = build_data()
-    print(f"wrote {OUT.relative_to(REPO_ROOT)}: {d['n_chapters']} chapters, {d['n_candidates']} candidates")
+    print(f"wrote {OUT.relative_to(REPO_ROOT)}: {d['n_chapters']} chapters, {d['n_candidates']} candidates, "
+          f"{len(d.get('all_agencies', []))} agencies")
 
 
 TEMPLATE = r"""<!doctype html>
@@ -87,36 +88,64 @@ TEMPLATE = r"""<!doctype html>
   .artifacts li{margin-bottom:5px}
   #theme{position:fixed;top:14px;right:16px;width:34px;height:34px;border-radius:9px;border:1px solid var(--line);background:var(--panel);color:var(--ink);cursor:pointer;box-shadow:var(--shadow);font-size:15px}
   footer{color:var(--muted);font-size:12px;margin-top:18px;line-height:1.6}
+  .filterbar{display:flex;align-items:center;gap:8px;margin:2px 0 16px;flex-wrap:wrap}
+  .filterbar label{font-size:12.5px;color:var(--muted);font-weight:600}
+  #agencyFilter{font:inherit;font-size:13px;padding:6px 10px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--ink);max-width:340px}
+  #clearFilter{font-size:12px;color:var(--accent2);background:none;border:none;cursor:pointer;padding:0;display:none}
+  .card.hidden{display:none}
+  .agchip{display:inline-block;font-size:11px;font-weight:600;color:var(--muted);background:color-mix(in srgb, var(--ink) 6%, transparent);border-radius:99px;padding:2px 8px;margin:0 4px 4px 0}
 </style></head>
 <body>
 <button id="theme" title="Toggle theme">◑</button>
 <div class="wrap">
-  <h1>What does 12 ORS chapters' worth of cross-referencing actually hold together?</h1>
+  <h1 id="h1"></h1>
   <div class="sub" id="sub"></div>
   <div class="banner">
     <b>Every item below is a CANDIDATE for human/legal review — none is a confirmed conflict.</b>
     Produced by an LLM reading each chapter's full statute + implementing-rule text in one pass. Every
     candidate carries the exact document citations and quoted text it's based on, so you can verify
-    it yourself. This is a pilot over 12 of 245 shared-authority chapters, not an exhaustive scan.
+    it yourself. This is a pilot over a subset of 245 shared-authority chapters, not an exhaustive scan.
+  </div>
+  <div class="filterbar">
+    <label for="agencyFilter">Filter by agency</label>
+    <select id="agencyFilter"><option value="">All agencies</option></select>
+    <button id="clearFilter">clear</button>
+    <span class="sub" id="filterCount" style="margin:0"></span>
   </div>
   <div id="list"></div>
   <footer id="foot"></footer>
 </div>
 <script>
 const DATA=/*DATA*/;
+document.getElementById('h1').textContent=`What does ${DATA.n_chapters} ORS chapters' worth of cross-referencing actually hold together?`;
 document.getElementById('sub').textContent=`${DATA.n_chapters} chapters piloted · ${DATA.n_candidates} candidates · ${DATA.n_clean_chapters} chapters with none found · ${DATA.n_docs_verified} citations verified against the corpus graph · non-authoritative`;
 document.getElementById('foot').innerHTML = esc(DATA.note) + '<br><br><b>Methodology:</b> ' + esc(DATA.methodology);
+
+const sel=document.getElementById('agencyFilter');
+for(const a of (DATA.all_agencies||[])){
+  const opt=document.createElement('option');
+  opt.value=a.slug; opt.textContent=`${a.name} (${a.chapters})`;
+  sel.appendChild(opt);
+}
+
 const list=document.getElementById('list');
 const rows=DATA.chapters.slice().sort((a,b)=>(b.candidates||[]).length-(a.candidates||[]).length);
+const cards=[];
 for(const ch of rows){
   const n=(ch.candidates||[]).length;
   const el=document.createElement('div');el.className='card';
   const badge = n>0 ? `<span class="badge has">${n} candidate${n===1?'':'s'}</span>` : `<span class="badge clean">none found</span>`;
+  const agList = ch.agency_list||[];
+  const agChips = agList.map(a=>`<span class="agchip">${esc(a.name)}</span>`).join('');
   el.innerHTML = `<div class="head">
       <div class="htitle">ORS chapter ${esc(ch.ors_chapter)}<small>${ch.agencies} agencies · ${ch.rules_reviewed} rules reviewed</small></div>
       ${badge}
     </div><div class="body"></div>`;
   const bodyEl = el.querySelector('.body');
+  if(agChips){
+    const agDiv=document.createElement('div');agDiv.style.marginTop='12px';agDiv.innerHTML=agChips;
+    bodyEl.appendChild(agDiv);
+  }
   if(n>0){
     for(const c of ch.candidates){
       const cand=document.createElement('div');cand.className='cand';
@@ -136,8 +165,24 @@ for(const ch of rows){
   }
   el.querySelector('.head').addEventListener('click',()=>el.classList.toggle('open'));
   list.appendChild(el);
+  cards.push({el, slugs: new Set(agList.map(a=>a.slug))});
 }
 if(rows.length) list.firstChild.classList.add('open');
+
+function applyFilter(){
+  const slug = sel.value;
+  document.getElementById('clearFilter').style.display = slug ? 'inline' : 'none';
+  let shown = 0;
+  for(const {el, slugs} of cards){
+    const match = !slug || slugs.has(slug);
+    el.classList.toggle('hidden', !match);
+    if(match) shown++;
+  }
+  document.getElementById('filterCount').textContent = slug ? `showing ${shown} of ${cards.length} chapters` : '';
+}
+sel.addEventListener('change', applyFilter);
+document.getElementById('clearFilter').addEventListener('click', ()=>{sel.value=''; applyFilter();});
+
 function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
 document.getElementById('theme').onclick=()=>{const c=document.documentElement.getAttribute('data-theme');
   document.documentElement.setAttribute('data-theme',c==='dark'?'light':c==='light'?'dark':(matchMedia('(prefers-color-scheme:dark)').matches?'light':'dark'));};
