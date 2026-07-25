@@ -11,7 +11,7 @@ from pathlib import Path
 from repo_lib import (DIR_DOC_TYPE, JURISDICTION_WIDE_DIRS, REPO_ROOT, SNAPSHOT_DIR,
                       content_hash, normalize_ws, parse_frontmatter, snapshot_slice)
 
-USER_AGENT = "Mozilla/5.0 (oregon-policy-repo updater; +https://github.com/morficflux/oregon-policy-repo)"
+USER_AGENT = "Mozilla/5.0 (executive-regulatory-frameworks updater; +https://github.com/OregonAI/executive-regulatory-frameworks)"
 
 FURN_RE = re.compile(
     r"(Page[s]? \d+ of \d+\s*$)|(^Level 1, Published)|(^\.\d+ OF \.\d+$)|"

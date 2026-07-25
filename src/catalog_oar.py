@@ -34,7 +34,7 @@ from repo_lib import REPO_ROOT
 BASE = "https://oregon.public.law"
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
 REGISTRY = REPO_ROOT / "_meta/catalog/agencies.yml"
-UA = "oregon-policy-repo (+https://github.com/morficflux/oregon-policy-repo)"
+UA = "executive-regulatory-frameworks (+https://github.com/OregonAI/executive-regulatory-frameworks)"
 TODAY = date.today().isoformat()
 
 DIV_LINK_RE = re.compile(
