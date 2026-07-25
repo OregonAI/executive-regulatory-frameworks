@@ -1,51 +1,3 @@
----
-schema_version: 1
-corpus: "executive-regulatory-frameworks"
-jurisdiction: "oregon"
-id: eo-06-04
-title: "Representation of Subsidized, License-Exempt Family Child Care Providers"
-doc_type: executive_order
-citation: "Executive Order 06-04"
-authority_level: executive_order
-issuing_body: "Office of the Governor, State of Oregon"
-agency: statewide
-legal_authority: []
-source_url: "https://www.oregon.gov/gov/eo/eo0604.pdf"
-source_format: pdf
-retrieved: "2026-07-18"
-source_sha256: "c168e28980d3bb3838aa31b2715df2825f97f85ddd18c8af3ccdc719b611edc2"
-snapshot_policy: hash-only
-effective_date: null
-last_reviewed: null
-source_version: null
-status: current
-supersedes: null
-content_mode: verbatim
-conversion_notes: "text recovered via fallback OCR after the primary engine produced none; two independent engines (rapidocr-onnxruntime + easyocr) agree on 95% of the word sequence, 97% dictionary-recognizable; 2 heading/letterhead token(s) lost their word spacing in extraction and are left as-is rather than reconstructed; NOT human-verified"
-last_verified: "2026-07-25"
-verified_by: "@morficflux"
-maintainer: "@morficflux"
-relationships:
-  implements: []
-  implemented_by: []
-  references_external: []
-  related: []
-  supersedes: []
-tags: ["executive-order", "year-2006"]
----
-
-> **NON-AUTHORITATIVE — AI-friendly reference only.** The text below was recovered by
-> OCR from a scan and is **not human-verified**. Verify against the official
-> source: <https://www.oregon.gov/gov/eo/eo0604.pdf> (retrieved 2026-07-25).
-
-# Representation of Subsidized, License-Exempt Family Child Care Providers (Executive Order 06-04)
-
-## At a glance
-
-Executive Order 06-04: Representation of Subsidized, License-Exempt Family Child Care Providers. (Title as printed in the Governor's office listing of record; see Provenance.)
-
-## Full text
-
 Officeof the Governor
 StateofOregon
 85
@@ -135,13 +87,3 @@ day of February, 2006.
 GOVERNOR
 ATTEST:
 SECRETARYOFSTATE
-
-## Curator notes
-
-The source PDF has no usable text layer, so this text was produced by OCR, not by the document's own embedded text. It was promoted only because two independent OCR engines (rapidocr-onnxruntime + easyocr) independently produced 95%-matching output — agreement between independent engines is evidence the words are on the page, not invented. It has **not** been checked by a human against the source. Signature blocks, names, and dates are the least reliable part of an OCR'd scan; treat them with particular care and verify anything load-bearing against the linked source PDF. Wide-tracked letterhead and all-caps headings sometimes lose their word spacing in extraction (`OfficeoftheGovernor`); these are left exactly as extracted rather than repaired, because re-inserting word boundaries would mean writing text the OCR did not resolve. Body prose is unaffected.
-
-## Provenance & change history
-
-- Source: <https://www.oregon.gov/gov/eo/eo0604.pdf> · retrieved 2026-07-18 · text-content sha256 `c168e28980d3bb3838aa31b2715df2825f97f85ddd18c8af3ccdc719b611edc2`
-- Snapshot policy: **hash-only** — executive-order PDFs (mostly large image scans) are not committed to the repo; the OCR text extraction is committed as `_meta/snapshots/eo-06-04.txt`.
-- See this knowledge body's [CHANGELOG](./CHANGELOG.md).

@@ -1,51 +1,3 @@
----
-schema_version: 1
-corpus: "executive-regulatory-frameworks"
-jurisdiction: "oregon"
-id: eo-06-13
-title: "Governor's Task Force on Methamphetamine"
-doc_type: executive_order
-citation: "Executive Order 06-13"
-authority_level: executive_order
-issuing_body: "Office of the Governor, State of Oregon"
-agency: statewide
-legal_authority: []
-source_url: "https://www.oregon.gov/gov/eo/eo0613.pdf"
-source_format: pdf
-retrieved: "2026-07-18"
-source_sha256: "a36853c2682029f694bcc2a61fd1d37063b65acf0c3cc459192a6771de986234"
-snapshot_policy: hash-only
-effective_date: null
-last_reviewed: null
-source_version: null
-status: current
-supersedes: null
-content_mode: verbatim
-conversion_notes: "text recovered via fallback OCR after the primary engine produced none; two independent engines (rapidocr-onnxruntime + easyocr) agree on 95% of the word sequence, 96% dictionary-recognizable; 1 heading/letterhead token(s) lost their word spacing in extraction and are left as-is rather than reconstructed; NOT human-verified"
-last_verified: "2026-07-25"
-verified_by: "@morficflux"
-maintainer: "@morficflux"
-relationships:
-  implements: []
-  implemented_by: []
-  references_external: []
-  related: []
-  supersedes: []
-tags: ["executive-order", "year-2006"]
----
-
-> **NON-AUTHORITATIVE — AI-friendly reference only.** The text below was recovered by
-> OCR from a scan and is **not human-verified**. Verify against the official
-> source: <https://www.oregon.gov/gov/eo/eo0613.pdf> (retrieved 2026-07-25).
-
-# Governor's Task Force on Methamphetamine (Executive Order 06-13)
-
-## At a glance
-
-Executive Order 06-13: Governor's Task Force on Methamphetamine. (Title as printed in the Governor's office listing of record; see Provenance.)
-
-## Full text
-
 Officeof theGovernor
 Stateof Oregon
 EXECUTIVEORDERNO.06-13
@@ -105,13 +57,3 @@ ATTEST:
 N
 Bill Bradbury
 SECRETARYOFSTATE
-
-## Curator notes
-
-The source PDF has no usable text layer, so this text was produced by OCR, not by the document's own embedded text. It was promoted only because two independent OCR engines (rapidocr-onnxruntime + easyocr) independently produced 95%-matching output — agreement between independent engines is evidence the words are on the page, not invented. It has **not** been checked by a human against the source. Signature blocks, names, and dates are the least reliable part of an OCR'd scan; treat them with particular care and verify anything load-bearing against the linked source PDF. Wide-tracked letterhead and all-caps headings sometimes lose their word spacing in extraction (`OfficeoftheGovernor`); these are left exactly as extracted rather than repaired, because re-inserting word boundaries would mean writing text the OCR did not resolve. Body prose is unaffected.
-
-## Provenance & change history
-
-- Source: <https://www.oregon.gov/gov/eo/eo0613.pdf> · retrieved 2026-07-18 · text-content sha256 `a36853c2682029f694bcc2a61fd1d37063b65acf0c3cc459192a6771de986234`
-- Snapshot policy: **hash-only** — executive-order PDFs (mostly large image scans) are not committed to the repo; the OCR text extraction is committed as `_meta/snapshots/eo-06-13.txt`.
-- See this knowledge body's [CHANGELOG](./CHANGELOG.md).
