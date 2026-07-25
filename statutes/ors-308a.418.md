@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.418
 title: "Removal of designation upon request of city or county; requirements"
 doc_type: statute

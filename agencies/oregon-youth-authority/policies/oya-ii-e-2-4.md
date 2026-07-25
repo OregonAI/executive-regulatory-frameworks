@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-e-2-4
 title: "English Plus – Youth [Facility]"
 doc_type: policy

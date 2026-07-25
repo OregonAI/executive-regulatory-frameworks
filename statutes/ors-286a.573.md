@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.573
 title: "Lottery Bond Administrative Fund; purposes"
 doc_type: statute

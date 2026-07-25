@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.485
 title: "System and procedures for separation and collection of solid waste; rules; exemption"
 doc_type: statute

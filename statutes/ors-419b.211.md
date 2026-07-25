@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.211
 title: "Motion to withdraw as counsel (Educational Surrogate)"
 doc_type: statute

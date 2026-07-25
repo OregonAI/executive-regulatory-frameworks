@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.552
 title: "Application for emancipation judgment; effect of judgment"
 doc_type: statute

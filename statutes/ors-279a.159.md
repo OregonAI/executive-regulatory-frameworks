@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.159
 title: "Education and training or experience requirements for persons that conduct procurements or administer contracts for state contracting agencies; deadlines; rules"
 doc_type: statute

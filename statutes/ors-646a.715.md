@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.715
 title: "Cancellation; effective date; payment for services provided before cancellation or breach; form; sufficiency of notice"
 doc_type: statute

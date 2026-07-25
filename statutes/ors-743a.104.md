@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.104
 title: "Pelvic examinations and Pap smear examinations"
 doc_type: statute

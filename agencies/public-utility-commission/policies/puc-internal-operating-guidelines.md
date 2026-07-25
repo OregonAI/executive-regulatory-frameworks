@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: puc-internal-operating-guidelines
 title: "Internal Operating Guidelines"
 doc_type: policy

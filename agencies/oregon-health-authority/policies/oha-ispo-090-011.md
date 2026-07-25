@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-ispo-090-011
 title: "Media Protection and Disposal Policy"
 doc_type: policy

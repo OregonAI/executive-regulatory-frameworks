@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.097
 title: "Retail license; sale of medical grade items; fees; rules"
 doc_type: statute

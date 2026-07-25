@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.185
 title: "Cancellation, purchase or redemption of bonds; lost or destroyed evidence of bonds; rules"
 doc_type: statute

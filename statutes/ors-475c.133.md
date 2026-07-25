@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.133
 title: "Exclusively medical licensee designation for marijuana retailer (Production, Processing and Sale for Medical Purposes)"
 doc_type: statute

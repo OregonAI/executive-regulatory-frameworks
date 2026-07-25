@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.190
 title: "Criminal records check; qualified entities; Department of Human Services to make fitness determination; rules; fees"
 doc_type: statute

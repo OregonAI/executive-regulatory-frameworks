@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.560
 title: "Form of retainage; requirements for surety bonds; conditions for rejecting bonds, securities or other instruments; allocation of costs; procedures for holding a"
 doc_type: statute

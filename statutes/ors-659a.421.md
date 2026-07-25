@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.421
 title: "Discrimination in selling, renting or leasing real property prohibited"
 doc_type: statute

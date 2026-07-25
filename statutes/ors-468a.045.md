@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.045
 title: "Activities prohibited without permit; limit on activities with permit"
 doc_type: statute

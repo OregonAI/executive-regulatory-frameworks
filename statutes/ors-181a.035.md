@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.035
 title: "Appointment of Deputy Superintendent of State Police"
 doc_type: statute

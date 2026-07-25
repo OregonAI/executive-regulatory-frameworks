@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.193
 title: "Net biological carbon sequestration and storage baseline; activity-based and community impact metrics"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.795
 title: "Duty to submit production data to Oregon Health Authority"
 doc_type: statute

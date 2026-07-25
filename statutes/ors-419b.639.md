@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.639
 title: "Notice to tribe in emergency proceeding; notice in other proceedings; form and timing of notice; exception"
 doc_type: statute

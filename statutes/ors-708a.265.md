@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.265
 title: "Accepting stock of other institutions as collateral"
 doc_type: statute

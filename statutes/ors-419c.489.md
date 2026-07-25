@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.489
 title: "Condition requiring medical care or special treatment; preparation of plan; progress reports"
 doc_type: statute

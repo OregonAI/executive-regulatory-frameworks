@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.185
 title: "Minimum cost of qualified property; leased property; hotel, motel or destination resort property; electronic commerce property"
 doc_type: statute

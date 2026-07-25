@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.522
 title: "Annual report of plant closings and layoffs; contents PORTS (Generally)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.077
 title: "Marijuana plant grow canopies; rules"
 doc_type: statute

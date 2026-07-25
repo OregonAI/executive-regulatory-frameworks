@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.203
 title: "Suspension of employment requirements; resumption of exemption period; sponsor resolution required"
 doc_type: statute

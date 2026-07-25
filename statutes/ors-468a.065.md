@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.065
 title: "Furnishing copies of rules and standards to building permit issuing agencies"
 doc_type: statute

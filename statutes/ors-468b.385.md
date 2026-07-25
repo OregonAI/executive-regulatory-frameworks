@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.385
 title: "Modification of approval of contingency plan; revocation of approval; violation"
 doc_type: statute

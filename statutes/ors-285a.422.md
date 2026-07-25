@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.422
 title: "Definitions for ORS 285A.420 to"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.505
 title: "Conditions concerning payment, contributions, liens, withholding, drug testing"
 doc_type: statute

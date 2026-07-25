@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.445
 title: "Checks of intoxicated, drugged or financially exploited persons"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.106
 title: "Claim for tax credits; eligibility; contents; contractor system certification; rules"
 doc_type: statute

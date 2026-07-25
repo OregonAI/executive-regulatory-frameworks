@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.015
 title: "Affirmative action reports to include information on contracts to minority businesses UNLAWFUL EMPLOYMENT DISCRIMINATION BECAUSE OF RACE, COLOR, RELIGION, SEX, "
 doc_type: statute

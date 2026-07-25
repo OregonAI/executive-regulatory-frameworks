@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.291
 title: "Final certification; eligibility; contents of application; performance agreement; rules"
 doc_type: statute

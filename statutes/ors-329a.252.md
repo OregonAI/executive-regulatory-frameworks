@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.252
 title: "Provision of care by persons whose record, certification or registration or enrollment in registry is denied, revoked or suspended"
 doc_type: statute

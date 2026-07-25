@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.355
 title: "Priority of land to be included within Metro urban growth boundary"
 doc_type: statute

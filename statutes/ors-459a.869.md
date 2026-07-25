@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.869
 title: "Requirements for producers and producer responsibility organizations; rules"
 doc_type: statute

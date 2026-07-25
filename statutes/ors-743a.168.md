@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.168
 title: "Behavioral health treatment; qualified providers; rules Note Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.411 §7"
 doc_type: statute

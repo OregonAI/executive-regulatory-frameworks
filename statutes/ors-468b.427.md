@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.427
 title: "Oil spill contingency plan required for high hazard train routes in state; notice of operations; renewal of plan; department response"
 doc_type: statute

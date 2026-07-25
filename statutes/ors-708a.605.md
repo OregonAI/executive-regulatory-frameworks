@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.605
 title: "Separate accounts for foreign branches OTHER PROVISIONS (Miscellaneous)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.707
 title: "Additional taxes when land disqualified from small tract forestland assessment"
 doc_type: statute

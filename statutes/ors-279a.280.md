@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.280
 title: "Disposal of surplus property; costs of disposal"
 doc_type: statute

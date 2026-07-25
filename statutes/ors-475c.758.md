@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.758
 title: "Confidentiality of information MEDICAL USE OF CANNABIS (Generally)"
 doc_type: statute

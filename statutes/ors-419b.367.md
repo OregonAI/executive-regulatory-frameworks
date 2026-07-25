@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.367
 title: "Letters of guardianship; reports by guardian; review of reports; legal status and liability of guardian"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.130
 title: "Rebate of additional fee to economically distressed counties"
 doc_type: statute

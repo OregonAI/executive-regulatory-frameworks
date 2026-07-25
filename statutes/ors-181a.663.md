@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.663
 title: "National Use-of-Force Data Collection (Police Standards and Training Account)"
 doc_type: statute

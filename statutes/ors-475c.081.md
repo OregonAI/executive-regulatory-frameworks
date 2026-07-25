@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.081
 title: "Permissible delivery and receipt by marijuana producer and marijuana processor, between marijuana producers"
 doc_type: statute

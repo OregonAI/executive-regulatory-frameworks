@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.903
 title: "Authority to possess, seize or dispose of marijuana and marijuana-derived products"
 doc_type: statute

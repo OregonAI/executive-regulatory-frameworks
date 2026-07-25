@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.089
 title: "Cannabinoid concentrate; kief (License to Sell Marijuana Items at Wholesale)"
 doc_type: statute

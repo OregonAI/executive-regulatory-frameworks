@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.829
 title: "Agreement with other state to pay less than prevailing rate of wage"
 doc_type: statute

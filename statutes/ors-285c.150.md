@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.150
 title: "Conditions required by sponsor for authorization; reports"
 doc_type: statute

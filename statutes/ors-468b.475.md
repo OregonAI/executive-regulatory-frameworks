@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.475
 title: "Legislative finding; need for evidence of financial assurance for ships transporting oil"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.728
 title: "Distributions from Oregon Marijuana Account"
 doc_type: statute

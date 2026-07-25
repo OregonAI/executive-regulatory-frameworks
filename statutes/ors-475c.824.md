@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.824
 title: "Public health and safety standards for medical cannabinoid products, concentrates and extracts; rules"
 doc_type: statute

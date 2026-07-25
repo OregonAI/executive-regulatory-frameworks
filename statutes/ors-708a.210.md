@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.210
 title: "Challenge to validity of institution action; prohibition; exceptions"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.440
 title: "Temporary exemption; conflicts with reliability"
 doc_type: statute

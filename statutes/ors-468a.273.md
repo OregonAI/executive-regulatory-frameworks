@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.273
 title: "Forecast deferral; order; methods for deferring compliance; duration"
 doc_type: statute

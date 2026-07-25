@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-ir
 title: "Statewide IT Control Standards — Incident Response (IR)"
 doc_type: standard

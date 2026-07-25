@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.400
 title: "Decisions regarding health care facility length of stay, level of care and follow-up care"
 doc_type: statute

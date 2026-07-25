@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.335
 title: "Agreements for exchange of interest rates; rules"
 doc_type: statute

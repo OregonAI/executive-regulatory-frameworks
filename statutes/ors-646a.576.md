@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.576
 title: "Method for requesting personal data; persons who may request personal data on consumer’s behalf; designation by consumer; duties of controller; process for appe"
 doc_type: statute

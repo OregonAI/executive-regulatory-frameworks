@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.010
 title: "Duty of officials to report child abuse; exceptions; penalty"
 doc_type: statute

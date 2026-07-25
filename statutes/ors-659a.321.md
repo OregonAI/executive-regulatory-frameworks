@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.321
 title: "Seniority systems and benefit plans not unlawful employment practices"
 doc_type: statute

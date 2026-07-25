@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.323
 title: "Transferability of project tax credit; determination of prices; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-b-1-2
 title: "Use of Time-Out, Room-lock Other, Isolation, and Safety Programs in OYA Facilities"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.190
 title: "Transfers of fire protection equipment between fire departments (Cooperative Procurement)"
 doc_type: statute

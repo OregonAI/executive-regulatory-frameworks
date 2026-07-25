@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.430
 title: "Prohibition against manufacturing psilocybin products outdoors"
 doc_type: statute

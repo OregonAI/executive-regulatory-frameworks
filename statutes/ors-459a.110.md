@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.110
 title: "Additional fees for programs for reduction of waste and environmental risks; assessment"
 doc_type: statute

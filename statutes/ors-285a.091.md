@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.091
 title: "Oregon Infrastructure Finance Authority Board; members; terms; quorum"
 doc_type: statute

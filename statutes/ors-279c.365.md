@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.365
 title: "Requirements for solicitation documents and bids and proposals"
 doc_type: statute

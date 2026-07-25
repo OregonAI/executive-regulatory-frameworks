@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.430
 title: "Air conditioner and air filter deployment program; eligibility; rules"
 doc_type: statute

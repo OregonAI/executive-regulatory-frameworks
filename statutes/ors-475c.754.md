@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.754
 title: "Required disclosure by Department of Revenue; fees"
 doc_type: statute

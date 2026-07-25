@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.070
 title: "Oregon Business Development Department; organization; director; confirmation; duties and powers; rules"
 doc_type: statute

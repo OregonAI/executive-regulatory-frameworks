@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.743
 title: "Disqualification limited when land subject to certain plans, easements, deed restrictions or leases; procedural requirements FARM USE SPECIAL ASSESSMENT (Policy"
 doc_type: statute

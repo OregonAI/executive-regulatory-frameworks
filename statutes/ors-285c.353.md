@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.353
 title: "Designation of rural renewable energy development zones; requirements; multiple designations; zone sponsor"
 doc_type: statute

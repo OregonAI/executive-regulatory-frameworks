@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.430
 title: "Effect of minimum requirements under authority other than ORS 181A.410"
 doc_type: statute

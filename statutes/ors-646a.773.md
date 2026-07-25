@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.773
 title: "Applicability of Insurance Code; statement of costs; exemptions"
 doc_type: statute

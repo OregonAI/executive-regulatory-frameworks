@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.450
 title: "Prompt payment of claims; limits on use of electronic payment methods; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.665
 title: "Opportunity to recycle rigid plastic containers BEVERAGE CONTAINERS;"
 doc_type: statute

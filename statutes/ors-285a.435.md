@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.435
 title: "Beginning and Expanding Farmer Loan Program Fund"
 doc_type: statute

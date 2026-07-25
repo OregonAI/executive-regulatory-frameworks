@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.255
 title: "Sunset of enterprise zone program RESERVATION ENTERPRISE ZONES;"
 doc_type: statute

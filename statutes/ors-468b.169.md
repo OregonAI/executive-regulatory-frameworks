@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.169
 title: "Requests for funding, advice or assistance for ground water projects"
 doc_type: statute

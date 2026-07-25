@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.253
 title: "Restriction of access to employee housing owned or controlled by employer prohibited; telephone accessibility"
 doc_type: statute

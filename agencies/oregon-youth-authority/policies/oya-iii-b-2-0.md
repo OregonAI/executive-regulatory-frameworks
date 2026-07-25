@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-b-2-0
 title: "New Commitments to OYA Legal Custody"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-a-1-5
 title: "Agency Case Review and DOC Early Transfer Protocol"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.056
 title: "Transfer of jurisdiction by court in county of youth’s residence"
 doc_type: statute

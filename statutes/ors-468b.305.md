@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.305
 title: "Entry of oil into waters of state prohibited; exceptions"
 doc_type: statute

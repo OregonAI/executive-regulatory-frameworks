@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.205
 title: "Judgments described; jurisdiction of juvenile court during pendency of appeal; disposition"
 doc_type: statute

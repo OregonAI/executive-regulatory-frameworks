@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.206
 title: "Department to prepare financial statements; contents; reporting period"
 doc_type: statute

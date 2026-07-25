@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.800
 title: "Elimination and prevention of discrimination by Bureau of Labor and Industries; subpoenas"
 doc_type: statute

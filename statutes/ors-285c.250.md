@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.250
 title: "Redesignation or designation of new zone following zone termination (Sunset Date)"
 doc_type: statute

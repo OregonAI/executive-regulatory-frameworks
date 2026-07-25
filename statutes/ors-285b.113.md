@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.113
 title: "Contracts with financial institutions to participate in program; required contents; disclosure of information"
 doc_type: statute

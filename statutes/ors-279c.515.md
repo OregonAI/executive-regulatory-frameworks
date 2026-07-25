@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.515
 title: "Conditions concerning payment of claims by public officers, payment to persons furnishing labor or materials and complaints"
 doc_type: statute

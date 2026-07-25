@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.995
 title: "Penalties relating to regulation of private security; criminal and civil"
 doc_type: statute

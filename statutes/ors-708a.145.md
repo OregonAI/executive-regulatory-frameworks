@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.145
 title: "Authorized services of bank service corporations; sale of insurance; regulation of services"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.777
 title: "Definitions for ORS 475C.770 to"
 doc_type: statute

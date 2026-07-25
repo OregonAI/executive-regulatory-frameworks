@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.218
 title: "Availability of urban facilities and services (Urban and Rural Reserves)"
 doc_type: statute

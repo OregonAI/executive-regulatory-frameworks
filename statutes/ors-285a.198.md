@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.198
 title: "Oregon Brownfield Properties Revitalization Fund (Financial Affairs)"
 doc_type: statute

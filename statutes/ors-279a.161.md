@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.161
 title: "Review and verification of advice and recommendations concerning procurements; delegation"
 doc_type: statute

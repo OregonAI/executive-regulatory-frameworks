@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.167
 title: "Certification program for training in pay equity provisions of state law; rules INTERGOVERNMENTAL RELATIONS (Generally)"
 doc_type: statute

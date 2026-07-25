@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.532
 title: "Reinstatement of parental rights; rules (Emancipation of Minor)"
 doc_type: statute

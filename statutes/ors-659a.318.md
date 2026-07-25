@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.318
 title: "Discrimination relating to academic degree in theology or religious occupations prohibited"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.181
 title: "Provisions required for department programs using certain federal moneys (Brownfields Redevelopment and Cleanup)"
 doc_type: statute

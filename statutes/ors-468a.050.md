@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.050
 title: "Classification of air contamination sources; registration and reporting of sources; rules; fees"
 doc_type: statute

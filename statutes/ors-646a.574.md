@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.574
 title: "Consumer requests for personal data; requirement to correct inaccuracies; requirement to delete personal data; conditions under which consumer may opt out of pe"
 doc_type: statute

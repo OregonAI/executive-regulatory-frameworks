@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.878
 title: "Judicial inquiry and finding regarding whether child is Indian child"
 doc_type: statute

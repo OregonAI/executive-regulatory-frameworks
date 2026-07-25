@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.091
 title: "Rules for farm use special assessment pursuant to remediation plan; fee; limitation (Valuation)"
 doc_type: statute

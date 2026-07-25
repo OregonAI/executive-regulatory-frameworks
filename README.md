@@ -1,4 +1,7 @@
-# Oregon Executive-Branch Knowledge Repository (DAS pilot)
+# Oregon Executive Regulatory Frameworks
+
+Part of the [OregonAI](https://github.com/OregonAI) civic corpus platform
+([corpus-toolkit](https://github.com/OregonAI/corpus-toolkit)). Archetype: **document**.
 
 > ## ⚠️ NON-AUTHORITATIVE — AI-friendly reference only
 > This repository contains **curated full-text copies** of Oregon statutes, administrative
@@ -40,8 +43,12 @@ rules/               OAR — Oregon Administrative Rules (chapter/division)
 executive-orders/    Governor's executive orders
 agencies/department-of-administrative-services/   DAS-scoped: policies/ · procedures/ · accounting-manual/ · standards/
 external-references/ Non-policy documents that policies require agencies to uphold
-_meta/               Schemas, templates, intake skill, source manifest, snapshots
-src/                 Validation tooling (frontmatter, provenance, change detection)
+_meta/               Corpus config, schemas, templates, intake skill, source manifest, snapshots
+src/                 Ingestion, catalog, and derived-view tooling. Frontmatter
+                     validation, provenance verification, change detection, and the
+                     MCP server come from corpus-toolkit (pinned in requirements.txt);
+                     src/citation_schemes.py, snapshot_slice.py, and semantic_search.py
+                     are this corpus's plugins into that framework.
 ```
 
 Organized by **authority tier** (statute → rule → executive order → policy → standard →

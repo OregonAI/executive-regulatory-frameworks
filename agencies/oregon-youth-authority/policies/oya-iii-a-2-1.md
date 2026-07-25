@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-a-2-1
 title: "Youth Legal Assistance [Community]"
 doc_type: policy

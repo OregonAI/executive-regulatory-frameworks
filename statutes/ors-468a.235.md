@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.235
 title: "Coordination of state and local efforts to reduce greenhouse gas emissions"
 doc_type: statute

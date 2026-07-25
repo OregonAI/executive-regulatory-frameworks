@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-543a.075
 title: "Notice of intent to apply for reauthorization of right to use water for hydroelectric purposes"
 doc_type: statute

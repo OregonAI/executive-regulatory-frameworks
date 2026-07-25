@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.560
 title: "Laboratory accreditation; qualifications; fees; rules"
 doc_type: statute

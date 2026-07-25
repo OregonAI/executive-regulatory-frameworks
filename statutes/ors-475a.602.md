@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.602
 title: "Statement of applicant for license under ORS 475A.594"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.760
 title: "Civil action for damages; attorney fees and costs; limitation on commencement of action (Penalties)"
 doc_type: statute

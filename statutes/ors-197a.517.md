@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.517
 title: "Supreme Court review of Land Use Board of Appeals opinion on land use final order"
 doc_type: statute

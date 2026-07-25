@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.306
 title: "Reservation enterprise zones and reservation partnership zones"
 doc_type: statute

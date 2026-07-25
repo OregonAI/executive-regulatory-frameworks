@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.580
 title: "Issuance of lottery bonds; refunding bonds; bond covenants; reserves for bonds; appropriation to maintain reserves; credit enhancements"
 doc_type: statute

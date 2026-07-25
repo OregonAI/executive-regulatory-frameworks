@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.150
 title: "Conduct of public hearings; entry of orders"
 doc_type: statute

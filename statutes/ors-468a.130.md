@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.130
 title: "Advisory committee; duties; members; term; chairperson; meetings"
 doc_type: statute

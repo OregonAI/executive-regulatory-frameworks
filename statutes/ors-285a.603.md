@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.603
 title: "“Port” defined for ORS 285A.603 to"
 doc_type: statute

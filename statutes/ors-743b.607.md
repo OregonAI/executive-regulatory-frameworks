@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.607
 title: "Nonopioid prescription drug coverage requirements"
 doc_type: statute

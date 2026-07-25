@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-317a.140
 title: "Accounting; installment payment; rules"
 doc_type: statute

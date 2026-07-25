@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.276
 title: "Disclosure of personal identifiers of victim or witness; advice of rights prior to interview or deposition; prohibited contact with victim or witness; effect of"
 doc_type: statute

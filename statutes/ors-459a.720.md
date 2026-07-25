@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.720
 title: "Indication of refund value; exception; prohibition of certain metal containers and plastic container holders"
 doc_type: statute

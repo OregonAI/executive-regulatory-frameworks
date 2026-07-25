@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.160
 title: "Corporation or limited liability company created to establish ATMs; banking institution as stockholder"
 doc_type: statute

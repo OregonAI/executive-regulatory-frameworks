@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.145
 title: "Application for preliminary certification; eligibility; contents of application; fees; rules"
 doc_type: statute

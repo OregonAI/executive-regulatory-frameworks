@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.836
 title: "Loan agreements for Article XI-F(1) bonds"
 doc_type: statute

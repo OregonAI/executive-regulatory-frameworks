@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.827
 title: "Prohibition against transferring medical cannabinoid products, concentrates and extracts to certain persons; exceptions"
 doc_type: statute

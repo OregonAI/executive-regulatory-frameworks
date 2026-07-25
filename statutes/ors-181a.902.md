@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.902
 title: "Investigation of applicant’s character, competence and reliability"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.087
 title: "Mixing zone authorized for seafood processing facilities"
 doc_type: statute

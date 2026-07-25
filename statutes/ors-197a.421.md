@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.421
 title: "Additional accessible or affordable middle housing units"
 doc_type: statute

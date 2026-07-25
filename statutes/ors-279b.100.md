@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.100
 title: "Cancellation, rejection, delay of invitations for bids or requests for proposals (Qualifications)"
 doc_type: statute

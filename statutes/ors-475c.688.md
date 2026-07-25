@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.688
 title: "Enforcement; liability; notice of liability; notices of determination and assessment"
 doc_type: statute

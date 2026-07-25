@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.414
 title: "Requirements for competitive quotes (Prequalification and Disqualification)"
 doc_type: statute

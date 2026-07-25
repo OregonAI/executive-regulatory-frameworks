@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.555
 title: "License to engage in business activity not required for individual under 17 years of age"
 doc_type: statute

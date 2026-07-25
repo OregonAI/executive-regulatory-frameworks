@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.175
 title: "Ground water quality concern area; declaration; recommendation; findings"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.257
 title: "Nonapplicability of Uniform Controlled Substances Act"
 doc_type: statute

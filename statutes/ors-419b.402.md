@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.402
 title: "Support order is judgment; modification; satisfaction"
 doc_type: statute

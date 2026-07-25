@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.493
 title: "Regulation of marijuana items as food or other commodity subject to regulation by State Department of Agriculture"
 doc_type: statute

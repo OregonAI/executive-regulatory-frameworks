@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.022
 title: "Responsibility of counties over 400,000 population"
 doc_type: statute

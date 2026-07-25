@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.463
 title: "Prohibition on requiring prior authorization of payment for substance use disorder treatment; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.157
 title: "Oregon Broadband Advisory Council Fund; sources of funds"
 doc_type: statute

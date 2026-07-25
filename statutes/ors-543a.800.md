@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-543a.800
 title: "Effect of hydroelectric reauthorization process on existing rights"
 doc_type: statute

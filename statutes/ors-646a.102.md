@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.102
 title: "Notice of intent to conduct going out of business sale; display and filing; exceptions; prohibited activities"
 doc_type: statute

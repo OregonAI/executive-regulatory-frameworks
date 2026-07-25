@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-8-027
 title: "Weapons on Campus (ADMINISTRATIVE DIRECTIVE)"
 doc_type: policy

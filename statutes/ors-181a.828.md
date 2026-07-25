@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.828
 title: "Prohibition on civil arrest without warrant or order in court facility or in connection with court proceeding; civil action"
 doc_type: statute

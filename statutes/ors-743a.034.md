@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.034
 title: "Services provided by expanded practice dental hygienist"
 doc_type: statute

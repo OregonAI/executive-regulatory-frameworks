@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.313
 title: "Prohibition against producing, processing or storing homemade cannabinoid extracts, industrial hemp extracts (Prohibited Conduct)"
 doc_type: statute

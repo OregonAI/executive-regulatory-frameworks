@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.433
 title: "Authority of Oregon Business Development Department; document specifications; prohibited actions"
 doc_type: statute

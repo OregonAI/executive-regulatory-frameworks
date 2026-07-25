@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.349
 title: "Evaluation of effectiveness of assistance"
 doc_type: statute

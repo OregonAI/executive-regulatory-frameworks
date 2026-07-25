@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.180
 title: "Power of court to enforce orders by contempt order"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-e-3-2
 title: "Information Asset Classification and Protection"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-ispo-100-013
 title: "HIPAA: ODHS|OHA Business Associate Relationships"
 doc_type: policy

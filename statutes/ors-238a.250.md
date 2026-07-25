@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.250
 title: "Option of legislators to receive certain benefits INDIVIDUAL ACCOUNT PROGRAM (Membership)"
 doc_type: statute

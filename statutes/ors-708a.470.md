@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.470
 title: "Multiple-party accounts; disposition of deposit upon death of party or trustee; effect of will"
 doc_type: statute

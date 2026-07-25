@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.550
 title: "Definitions for ORS 419B.550 to"
 doc_type: statute

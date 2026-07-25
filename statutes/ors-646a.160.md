@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.160
 title: "Service contract obligor as agent of insurer; indemnification or subrogation rights of insurer"
 doc_type: statute

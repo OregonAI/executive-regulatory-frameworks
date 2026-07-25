@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.212
 title: "Policy on cooperation with law enforcement officials; duty to report person subject to warrant for arrest"
 doc_type: statute

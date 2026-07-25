@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.883
 title: "Contractual shortening of statute of limitations prohibited"
 doc_type: statute

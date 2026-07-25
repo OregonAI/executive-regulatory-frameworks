@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.371
 title: "Community guardianship (Legal Custodian of Child)"
 doc_type: statute

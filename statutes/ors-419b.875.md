@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.875
 title: "Parties to proceedings; rights of limited participation; status of grandparents; interpreters"
 doc_type: statute

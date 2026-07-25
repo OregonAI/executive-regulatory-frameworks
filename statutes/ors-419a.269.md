@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.269
 title: "Effect of expunction; confidentiality violations; penalties"
 doc_type: statute

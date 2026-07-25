@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.660
 title: "Savings promotion raffles; rules (Financial Exploitation of Vulnerable Persons)"
 doc_type: statute

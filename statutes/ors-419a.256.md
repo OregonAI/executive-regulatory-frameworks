@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.256
 title: "When transcript of proceeding is part of record of case; access to transcript; disclosure"
 doc_type: statute

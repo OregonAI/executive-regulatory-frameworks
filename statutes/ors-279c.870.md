@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.870
 title: "Civil action to enforce payment of prevailing rates of wage"
 doc_type: statute

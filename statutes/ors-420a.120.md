@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.120
 title: "Suspension of parole or conditional release; rules"
 doc_type: statute

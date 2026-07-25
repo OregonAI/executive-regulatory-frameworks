@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.142
 title: "Notice to adjacent governments of potential increased infrastructure use"
 doc_type: statute

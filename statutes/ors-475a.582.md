@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.582
 title: "Oregon Health Authority hotline for verification of license"
 doc_type: statute

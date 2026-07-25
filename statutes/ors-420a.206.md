@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.206
 title: "Conditional release; release plan; conditions; effect of violation of release plan; revocation"
 doc_type: statute

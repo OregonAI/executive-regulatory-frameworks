@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-d-2-0
 title: "HIV Testing of Youth in OYA Facilities"
 doc_type: policy

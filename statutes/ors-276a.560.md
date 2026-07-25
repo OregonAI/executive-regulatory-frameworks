@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.560
 title: "Oregon Cybersecurity Advisory Council"
 doc_type: statute

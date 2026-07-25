@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-ispo-100-004
 title: "HIPAA: Recording and Accounting for Disclosures of Individual Information"
 doc_type: policy

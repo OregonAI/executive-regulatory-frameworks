@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.372
 title: "Requirement of psilocybin service center operator to collect, maintain, aggregate and submit to Oregon Health Authority specified information; client opt-out; e"
 doc_type: statute

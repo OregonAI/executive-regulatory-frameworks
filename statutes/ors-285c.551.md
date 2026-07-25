@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.551
 title: "Submission of plans, specifications and contract terms; preliminary certification; suspension or denial"
 doc_type: statute

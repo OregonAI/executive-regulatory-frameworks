@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.275
 title: "Lawful manufacture, delivery and possession of psilocybin products"
 doc_type: statute

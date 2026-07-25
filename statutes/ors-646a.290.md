@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.290
 title: "Construction; other remedies (Automatic Renewal and Continuous Service Offers)"
 doc_type: statute

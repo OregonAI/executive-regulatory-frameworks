@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.345
 title: "Prohibition on certain intentionally added chemicals or classes of chemicals"
 doc_type: statute

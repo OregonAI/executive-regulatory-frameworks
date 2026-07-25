@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.285
 title: "Disposition of moneys received as payment for repair or replacement of damaged, destroyed, lost or stolen property"
 doc_type: statute

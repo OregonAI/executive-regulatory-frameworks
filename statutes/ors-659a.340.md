@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.340
 title: "Interfering with employee’s good faith disclosure of information concerning unlawful conduct or certain violations prohibited; remedy"
 doc_type: statute

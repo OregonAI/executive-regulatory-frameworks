@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.457
 title: "Prohibition on imposition of fines and fees for acts committed by child, youth, adjudicated youth or young person Note Satisfaction of preexisting judgments; ru"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.343
 title: "Availability of continued coverage under group policy for surviving, divorced or separated spouse 55 or older"
 doc_type: statute

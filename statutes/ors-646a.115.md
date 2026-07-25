@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.115
 title: "Prohibition on use of software that interferes with sale of admission tickets to entertainment events; prohibition on unauthorized use of certain intellectual p"
 doc_type: statute

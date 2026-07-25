@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.117
 title: "Delivery of marijuana items to consumer; requirements; limitations; rules (Exclusively Medical Licensee)"
 doc_type: statute

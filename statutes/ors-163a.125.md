@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.125
 title: "Relief from reporting obligation for sex offenders classified under ORS 163A.100; reclassification; procedure"
 doc_type: statute

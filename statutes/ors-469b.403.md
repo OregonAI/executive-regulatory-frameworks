@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.403
 title: "Biomass; eligibility for tax credits; rates SOLAR SYSTEMS (Temporary provisions relating to rebates for solar systems are compiled as notes following ORS 469B.4"
 doc_type: statute

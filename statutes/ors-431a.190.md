@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.190
 title: "Definitions for ORS 431A.190 to"
 doc_type: statute

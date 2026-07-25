@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.965
 title: "Prohibition on promoting acceptance of certain materials for composting; pilot programs"
 doc_type: statute

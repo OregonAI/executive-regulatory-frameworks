@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.405
 title: "Authority to limit motor vehicle operation and traffic; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.856
 title: "Application with regard to cell phone or consumer equipment of obligation to make available documentation, tool, part or other device to owner or independent re"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.165
 title: "Ground water contaminants; maximum levels; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-d-2-3
 title: "Food Handlers Sanitation and Safety"
 doc_type: policy

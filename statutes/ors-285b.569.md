@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.569
 title: "When constitutional restrictions apply to use of certain funds (Revenue Bond Financing of Safe Drinking Water Projects)"
 doc_type: statute

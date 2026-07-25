@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.552
 title: "Recycling and recovery of used oil; goal"
 doc_type: statute

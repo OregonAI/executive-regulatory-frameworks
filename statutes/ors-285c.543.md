@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.543
 title: "Rules; criteria for renewable energy resource equipment manufacturing facilities"
 doc_type: statute

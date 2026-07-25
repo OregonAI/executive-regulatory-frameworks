@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.270
 title: "State contracting agencies to use recovered resources and recycled materials; notice to prospective contractors"
 doc_type: statute

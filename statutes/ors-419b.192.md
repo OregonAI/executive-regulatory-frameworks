@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.192
 title: "Placement of child or ward; preference given to relatives and caregivers; written findings of court required"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.230
 title: "Victim access to sex offender information; toll-free telephone number"
 doc_type: statute

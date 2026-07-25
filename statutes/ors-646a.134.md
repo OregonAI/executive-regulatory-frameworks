@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.134
 title: "Disclosures required in advertisement for lease-purchase agreements (Collision Damage Waivers in Vehicle Rentals)"
 doc_type: statute

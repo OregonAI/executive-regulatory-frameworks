@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.374
 title: "Prohibited actions; liability of persons that provide substantial assistance or support for violation; exceptions"
 doc_type: statute

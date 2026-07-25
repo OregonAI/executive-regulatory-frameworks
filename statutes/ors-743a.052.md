@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.052
 title: "Services provided by professional counselor or marriage and family therapist"
 doc_type: statute

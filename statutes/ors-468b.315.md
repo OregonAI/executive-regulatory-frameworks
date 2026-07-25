@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.315
 title: "Duty to collect and remove oil; dispersal of oil"
 doc_type: statute

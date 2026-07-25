@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.320
 title: "Action by state; liability for state expense; order; appeal"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.658
 title: "Definitions for ORS 475A.658 to"
 doc_type: statute

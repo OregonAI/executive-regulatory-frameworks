@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.646
 title: "License application; requirements; application through Nationwide Multistate Licensing System; fee; insurance; license renewal; director’s investigation; licens"
 doc_type: statute

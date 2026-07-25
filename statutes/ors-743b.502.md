@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.502
 title: "Third party contracts for leasing of provider panels; requirements"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.440
 title: "Prohibition against selling or delivering psilocybin products to persons under 21 years of age"
 doc_type: statute

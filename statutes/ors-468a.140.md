@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.140
 title: "Assumption, retention and transfer of control over classes of air contamination sources"
 doc_type: statute

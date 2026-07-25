@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.630
 title: "Department to obtain employment and wage information for eligible employers at regionally significant industrial sites and determine estimated incremental incom"
 doc_type: statute

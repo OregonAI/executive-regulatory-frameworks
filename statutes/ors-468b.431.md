@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.431
 title: "Review of contingency plan; plan approval; change affecting plan; certificate of approval"
 doc_type: statute

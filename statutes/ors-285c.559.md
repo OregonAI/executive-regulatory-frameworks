@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.559
 title: "Revocation of certificate; collection STRATEGIC INVESTMENT PROGRAM (Generally)"
 doc_type: statute

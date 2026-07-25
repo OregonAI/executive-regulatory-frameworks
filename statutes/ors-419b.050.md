@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.050
 title: "Authority of health care provider to disclose information; immunity from liability"
 doc_type: statute

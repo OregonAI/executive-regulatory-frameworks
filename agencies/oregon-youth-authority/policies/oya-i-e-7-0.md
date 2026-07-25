@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-e-7-0
 title: "Foreign Nationals and Consular Notification/Contact"
 doc_type: policy

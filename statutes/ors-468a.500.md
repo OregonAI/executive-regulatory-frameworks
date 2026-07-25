@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.500
 title: "Prohibition on sale of noncertified solid fuel burning devices; rules"
 doc_type: statute

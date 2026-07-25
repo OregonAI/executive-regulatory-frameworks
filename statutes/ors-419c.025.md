@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.025
 title: "Appearance by telephone or closed-circuit television"
 doc_type: statute

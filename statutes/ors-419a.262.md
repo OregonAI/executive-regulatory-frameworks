@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.262
 title: "Application for expunction of records relating to certain misdemeanors, prostitution and certain sex crimes; eligibility; denial; judgment; notice to victim"
 doc_type: statute

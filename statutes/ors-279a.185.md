@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.185
 title: "Local contracting agency arrangements for use or disposition of personal property authorized"
 doc_type: statute

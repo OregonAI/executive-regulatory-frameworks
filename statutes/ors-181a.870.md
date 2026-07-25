@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.870
 title: "Board on Public Safety Standards and Training to establish standards; department to establish procedures and fees; report; rules"
 doc_type: statute

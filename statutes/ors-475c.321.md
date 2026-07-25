@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.321
 title: "Prohibition against producing identification that falsely indicates age; protections for reliance on identification"
 doc_type: statute

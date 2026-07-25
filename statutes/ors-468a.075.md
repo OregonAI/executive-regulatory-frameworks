@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.075
 title: "Variances from air contamination rules and standards; delegation to local governments; notices"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.321
 title: "Approval of electronics producer responsibility plan"
 doc_type: statute

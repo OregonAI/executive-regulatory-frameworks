@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.347
 title: "Policies and procedures; standards for single transportation project; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.039
 title: "Procedures for developing methodologies for assessment of water quality (Surface Water)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.270
 title: "Determination of housing capacity and accommodation of needed housing by cities with population of 25,000 or greater"
 doc_type: statute

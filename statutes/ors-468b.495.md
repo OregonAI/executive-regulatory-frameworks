@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.495
 title: "Interagency response plan for oil or hazardous material spills"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.185
 title: "Report of release or escape from state institution of certain inmates"
 doc_type: statute

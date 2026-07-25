@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.425
 title: "Exemption from liability for removal costs or damages (High Hazard Train Route Contingency Planning)"
 doc_type: statute

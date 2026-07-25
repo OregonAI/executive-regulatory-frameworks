@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.164
 title: "Meaning of “one-year period” for purposes of determining amount of leave available to eligible employee; rules"
 doc_type: statute

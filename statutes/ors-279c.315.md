@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.315
 title: "Waiver of damages for unreasonable delay by contracting agency against public policy"
 doc_type: statute

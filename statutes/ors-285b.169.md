@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.169
 title: "Centers to collaborate with state agencies and private sector"
 doc_type: statute

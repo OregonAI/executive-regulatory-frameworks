@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-6-010
 title: "Patient Observation and Enhanced Supervision"
 doc_type: policy

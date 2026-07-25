@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.817
 title: "Determination of applicability of prevailing wage rate; time limitation; hearing; rules"
 doc_type: statute

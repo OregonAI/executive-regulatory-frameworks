@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.819
 title: "Summons for proceeding to establish permanent guardianship or terminate parental rights; contents; failure to appear"
 doc_type: statute

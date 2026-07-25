@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.724
 title: "Application for change of special assessment following disqualification; time for meeting farm use income requirements; application due dates; limitation on spe"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.478
 title: "Commitment to Oregon Youth Authority or Department of Human Services"
 doc_type: statute

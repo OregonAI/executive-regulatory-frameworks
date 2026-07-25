@@ -18,9 +18,10 @@ provenance mechanically. AI agents are welcome contributors under the rules in
 
 ## Definition of done (any content PR)
 
-- [ ] Frontmatter complete and schema-valid (`python3 src/validate_frontmatter.py`)
+- [ ] Frontmatter complete and schema-valid (`corpus-validate-frontmatter --config
+      _meta/corpus.yml --schema .toolkit/schemas/document.frontmatter.v1.schema.json`)
 - [ ] Source snapshot committed; `source_sha256` matches; every `[VERBATIM]` quote passes
-      `python3 src/verify_provenance.py`
+      `corpus-verify-provenance --config _meta/corpus.yml`
 - [ ] Effective/reviewed/version dates transcribed from the source itself, not assumed
 - [ ] Non-authoritative disclaimer block present at top of the document body
 - [ ] `relationships` targets resolve; new document added to `llms.txt` and the directory
@@ -41,7 +42,8 @@ Maintainers should enable on `main`:
 ## Local setup
 
 ```bash
-pip install pyyaml jsonschema
-python3 src/validate_frontmatter.py
-python3 src/verify_provenance.py
+pip install -r requirements.txt
+corpus-validate-frontmatter --config _meta/corpus.yml \
+  --schema .toolkit/schemas/document.frontmatter.v1.schema.json
+corpus-verify-provenance --config _meta/corpus.yml
 ```

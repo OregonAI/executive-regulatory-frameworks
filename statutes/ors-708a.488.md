@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.488
 title: "Withdrawal or payment conditioned on advance notice"
 doc_type: statute

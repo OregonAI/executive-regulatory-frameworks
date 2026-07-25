@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.380
 title: "Leave to perform duties of board or policy committee (Director)"
 doc_type: statute

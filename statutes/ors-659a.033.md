@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.033
 title: "Violation of ORS 659A.030 by denying religious leave or prohibiting certain religious observances or practices; determination of reasonable accommodation"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.190
 title: "Ground water monitoring and assessment (Underground Injection Control Program)"
 doc_type: statute

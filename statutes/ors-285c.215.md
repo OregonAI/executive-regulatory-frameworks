@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.215
 title: "First-source hiring agreements; rules (Exemption Claim and Verification Procedures)"
 doc_type: statute

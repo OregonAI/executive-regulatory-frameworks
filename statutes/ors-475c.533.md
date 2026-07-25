@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.533
 title: "Oregon Criminal Justice Commission reports"
 doc_type: statute

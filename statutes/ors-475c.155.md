@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.155
 title: "Limitations on Oregon Liquor and Cannabis Commission’s authority to accept application for new license; exceptions; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.351
 title: "Court approval of placement in qualified residential treatment program"
 doc_type: statute

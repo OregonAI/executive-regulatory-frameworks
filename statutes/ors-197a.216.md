@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.216
 title: "Removal of open spaces from buildable lands inventory"
 doc_type: statute

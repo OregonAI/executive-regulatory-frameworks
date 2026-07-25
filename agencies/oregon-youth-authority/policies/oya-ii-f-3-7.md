@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-f-3-7
 title: "Religious Practice in Facilities"
 doc_type: policy

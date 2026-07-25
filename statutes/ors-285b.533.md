@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.533
 title: "Issuance of infrastructure lottery bonds; amount; use of bond proceeds"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.089
 title: "Notification to Director of Veterans’ Affairs (Oregon Military Family Leave Act)"
 doc_type: statute

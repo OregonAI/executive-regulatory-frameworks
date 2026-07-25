@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.045
 title: "Duties and functions of commission; exercise of commission powers; rules"
 doc_type: statute

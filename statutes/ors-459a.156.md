@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.156
 title: "Requirement to participate in mattress stewardship program; program information; mattress stewardship assessment"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.310
 title: "Obligations of indorser of discounted commercial paper"
 doc_type: statute

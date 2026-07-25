@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.027
 title: "Notice of founded disposition Note Exception against substantiation of allegation of abuse by public education program personnel--2023 c.581 §§8,12"
 doc_type: statute

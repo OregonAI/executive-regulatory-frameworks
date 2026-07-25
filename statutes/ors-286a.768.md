@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.768
 title: "Education Seismic Fund; purposes; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.481
 title: "Guardianship and legal custody of adjudicated youth committed to Oregon Youth Authority"
 doc_type: statute

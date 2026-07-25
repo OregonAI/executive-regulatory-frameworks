@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.459
 title: "Cleanup of waste from certain real property; public nuisance; city or county lien (Powers and Duties of State Agencies and Officers and Governor)"
 doc_type: statute

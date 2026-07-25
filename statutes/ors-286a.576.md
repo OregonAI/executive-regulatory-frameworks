@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.576
 title: "Allocation of lottery moneys for lottery bonds; priorities"
 doc_type: statute

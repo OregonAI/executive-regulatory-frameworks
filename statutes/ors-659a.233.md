@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.233
 title: "Discrimination for reporting certain violations or testifying at unemployment compensation hearing prohibited (Legislative Testimony)"
 doc_type: statute

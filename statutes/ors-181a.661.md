@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.661
 title: "Police Memorial Trust Fund; rules (National Use-of-Force Data Collection)"
 doc_type: statute

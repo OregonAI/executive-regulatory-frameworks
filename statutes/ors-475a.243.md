@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.243
 title: "Powers related to decedents and insolvent or bankrupt persons (Application Process and Licenses)"
 doc_type: statute

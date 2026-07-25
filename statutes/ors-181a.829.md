@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.829
 title: "Prohibition on agreements related to immigration enforcement; operation of private immigration detention facility; civil action"
 doc_type: statute

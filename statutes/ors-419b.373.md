@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.373
 title: "Duties and authority of legal custodian (Guardian)"
 doc_type: statute

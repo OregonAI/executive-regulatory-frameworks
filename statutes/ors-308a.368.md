@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.368
 title: "Additional taxes upon withdrawal from riparian land designation; computation"
 doc_type: statute

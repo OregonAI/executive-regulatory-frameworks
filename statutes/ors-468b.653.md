@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.653
 title: "Interagency water reuse team; duties of Department of Environmental Quality Note Report--2025 c.477 §§3,4 WATER POLLUTION CONTROL (Generally)"
 doc_type: statute

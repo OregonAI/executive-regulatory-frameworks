@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.188
 title: "Brownfields Redevelopment Fund; definitions; uses; priorities for loans and grants; eligibility; rules"
 doc_type: statute

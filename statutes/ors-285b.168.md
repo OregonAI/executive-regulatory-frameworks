@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.168
 title: "Grants; application; required provisions; authorized uses; eligibility; subcontracts; report"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-1-012
 title: "Non-Discrimination and Alternate Language Access"
 doc_type: policy

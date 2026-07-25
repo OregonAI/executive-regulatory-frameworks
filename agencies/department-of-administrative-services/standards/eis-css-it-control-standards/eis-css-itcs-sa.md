@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-sa
 title: "Statewide IT Control Standards — System and Services Acquisition (SA)"
 doc_type: standard

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.502
 title: "Legislative findings; equivalency of project procedures and requirements to certain land use procedures; construe liberally"
 doc_type: statute

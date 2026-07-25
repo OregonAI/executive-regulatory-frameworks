@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.654
 title: "Port Planning and Marketing Fund; uses; sources; investment"
 doc_type: statute

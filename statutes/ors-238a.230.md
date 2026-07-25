@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.230
 title: "Death benefit; rules (Disability Benefit)"
 doc_type: statute

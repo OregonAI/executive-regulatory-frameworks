@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.101
 title: "Supplemental or diagnostic breast examinations"
 doc_type: statute

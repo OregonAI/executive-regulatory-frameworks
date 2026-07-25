@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.320
 title: "Electronics producer responsibility program plan; requirements; annual report; rules"
 doc_type: statute

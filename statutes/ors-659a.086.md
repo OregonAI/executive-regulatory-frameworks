@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.086
 title: "Employment rights of members of organized militia when called into active state service"
 doc_type: statute

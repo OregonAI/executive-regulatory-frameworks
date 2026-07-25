@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.100
 title: "Authority to establish and operate; provision of personal hygiene products"
 doc_type: statute

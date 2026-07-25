@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.651
 title: "Vacating order or judgment regarding jurisdiction, placement, guardianship or termination of parental rights; effect of vacated order or judgment"
 doc_type: statute

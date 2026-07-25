@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.225
 title: "Meetings; quorum; personnel; agency reports"
 doc_type: statute

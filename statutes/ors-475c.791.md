@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.791
 title: "Registry identification cardholder ability to designate certain entities as additional caregivers (Marijuana Grow Sites)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.285
 title: "Authority to hold multiple licenses (License to Manufacture Psilocybin Products)"
 doc_type: statute

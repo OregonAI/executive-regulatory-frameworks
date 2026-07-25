@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.260
 title: "Minimum standards for child care facilities; rules"
 doc_type: statute

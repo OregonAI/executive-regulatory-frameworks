@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.779
 title: "Determination of amount of waiver; waivers that are required and waivers that are not required"
 doc_type: statute

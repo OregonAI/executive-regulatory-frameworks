@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.065
 title: "County counsel review of exclusive farm use zoning ordinances; notice upon determination of unqualified land; assessment pending zone requalification"
 doc_type: statute

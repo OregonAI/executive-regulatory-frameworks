@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.250
 title: "Mandate of Oregon Climate Action Commission"
 doc_type: statute

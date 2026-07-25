@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.196
 title: "Documentation required for forgiveness; repayment for noncompliance; cure"
 doc_type: statute

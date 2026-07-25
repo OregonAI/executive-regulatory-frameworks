@@ -62,7 +62,7 @@ the issue.
    `output_dir_for(doc_type, agency)` in `src/ingest_lib.py` (AGENTS.md "Directory
    routing" has the full table) — don't hand-type the target directory; a
    procedure (`doc_type: procedure`, filename ends `_pr`) belongs in
-   `agencies/<agency>/procedures/`, never `.../policies/`. `validate_frontmatter.py`
+   `agencies/<agency>/procedures/`, never `.../policies/`. `corpus-validate-frontmatter`
    will hard-fail CI if this is wrong, but getting it right the first time saves the
    round trip.
 4. Transcribe header metadata (effective/reviewed dates, version string) exactly as
@@ -82,7 +82,7 @@ the issue.
 
 ## Phase 3 — Verify & merge (REVIEW GATE #2)
 
-1. Run locally: `python3 src/validate_frontmatter.py && python3 src/verify_provenance.py`.
+1. Run locally: `corpus-validate-frontmatter --config _meta/corpus.yml --schema .toolkit/schemas/document.frontmatter.v1.schema.json && corpus-verify-provenance --config _meta/corpus.yml`.
 2. Open the PR; complete the checklist in the PR template.
 3. A CODEOWNER for the knowledge body reviews against the source and merges.
 4. Commits carry `Assisted-by: <agent> (supervised|autonomous)` trailers.

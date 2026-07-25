@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.353
 title: "Classification of felony under ORS 475C.337,"
 doc_type: statute

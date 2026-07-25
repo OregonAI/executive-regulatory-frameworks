@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.240
 title: "Exclusion of recycled oils prohibited (Specifications in State Contracts)"
 doc_type: statute

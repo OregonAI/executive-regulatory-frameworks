@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.346
 title: "Juvenile court’s retention of authority over parent"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.865
 title: "Disclosure of information; corrections; records; immunity from liability (Temporary provisions relating to practitioner notice of patient overdose are compiled "
 doc_type: statute

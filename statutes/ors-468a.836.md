@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.836
 title: "Program to support community monitoring of air quality conditions caused by smoke"
 doc_type: statute

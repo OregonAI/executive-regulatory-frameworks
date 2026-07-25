@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.942
 title: "Eligibility to act as authorized tribal police officer"
 doc_type: statute

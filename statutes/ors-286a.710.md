@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.710
 title: "Definitions for ORS 286A.710 to"
 doc_type: statute

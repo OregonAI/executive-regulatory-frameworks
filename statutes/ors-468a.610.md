@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.610
 title: "Acreage permitted to be open burned, propane flamed or stack or pile burned; exceptions; fees; rules"
 doc_type: statute

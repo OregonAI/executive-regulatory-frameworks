@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-543a.105
 title: "Hydroelectric Application Review Team review of final application; unified state position in federal proceeding"
 doc_type: statute

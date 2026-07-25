@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.178
 title: "Civil penalty for violation of ORS 431A.175, other law, rule or regulation governing tobacco products or inhalant delivery systems"
 doc_type: statute

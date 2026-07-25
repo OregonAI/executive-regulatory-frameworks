@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.090
 title: "Retail installment contract or lease agreement for motor vehicle; notice to buyer; liability to buyer if lender does not approve funding or seller disposes of t"
 doc_type: statute

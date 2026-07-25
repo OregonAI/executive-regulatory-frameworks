@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.503
 title: "Preemptive effect of ORS 197A.500 to"
 doc_type: statute

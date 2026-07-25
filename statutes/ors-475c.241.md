@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.241
 title: "Prohibition against certain licensees possessing mature marijuana plants"
 doc_type: statute

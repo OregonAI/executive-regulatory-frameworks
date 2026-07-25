@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.710
 title: "Use of other law enforcement agencies to engage in barred conduct"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.676
 title: "Oregon Rural Capacity Fund (Temporary provisions relating to Agricultural Overtime Award Fund are compiled as notes following ORS 285B.676)"
 doc_type: statute

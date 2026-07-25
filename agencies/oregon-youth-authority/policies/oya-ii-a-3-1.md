@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-a-3-1
 title: "Facility Youth Transports and Escorted Trips"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-6-030
 title: "Electronic Device and Internet Access (ADMINISTRATIVE DIRECTIVE)"
 doc_type: policy

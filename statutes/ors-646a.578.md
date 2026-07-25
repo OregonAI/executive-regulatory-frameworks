@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.578
 title: "Duties of controller; prohibitions; privacy notice to consumer"
 doc_type: statute

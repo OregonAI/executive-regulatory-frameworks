@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.433
 title: "Prohibition against operation of premises for which license issued; petition; election"
 doc_type: statute

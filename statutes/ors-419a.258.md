@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.258
 title: "Motion to inspect or copy records (Expunction)"
 doc_type: statute

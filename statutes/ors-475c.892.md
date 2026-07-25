@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.892
 title: "Prohibition against taking disciplinary action against professional licensee; right to administer marijuana for medical purposes (Civil Enforcement of ORS 475C."
 doc_type: statute

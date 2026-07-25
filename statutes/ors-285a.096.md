@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.096
 title: "Oregon Infrastructure Finance Authority; duties; staff"
 doc_type: statute

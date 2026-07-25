@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.484
 title: "Master warrant procedure authorized if warrants would be not paid"
 doc_type: statute

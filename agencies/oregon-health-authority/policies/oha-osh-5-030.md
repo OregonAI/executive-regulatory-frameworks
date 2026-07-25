@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-5-030
 title: "Credentialing for Non-MAHPS Staff"
 doc_type: policy

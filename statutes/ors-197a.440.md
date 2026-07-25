@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.440
 title: "Replacement of park destroyed by natural disaster (Affordable Housing and Emergency Shelters)"
 doc_type: statute

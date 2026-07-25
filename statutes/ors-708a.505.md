@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.505
 title: "Discharge of institution from liability for payments made; conditions"
 doc_type: statute

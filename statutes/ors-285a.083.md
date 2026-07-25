@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.083
 title: "Authority to require fingerprints for criminal records check (Oregon Infrastructure Finance Authority Board)"
 doc_type: statute

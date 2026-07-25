@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.070
 title: "Area trauma advisory boards; duties; members"
 doc_type: statute

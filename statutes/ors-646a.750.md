@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.750
 title: "Rebuttable presumptions; accounting; bona fide purchaser; memorandum of agreement; form"
 doc_type: statute

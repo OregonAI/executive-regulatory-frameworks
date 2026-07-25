@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.360
 title: "Board on Public Safety Standards and Training; term limit; confirmation"
 doc_type: statute

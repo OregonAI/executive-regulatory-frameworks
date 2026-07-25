@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.335
 title: "Effect of federal regulations of oil spillage"
 doc_type: statute

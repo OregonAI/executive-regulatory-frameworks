@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.517
 title: "Certain information related to licenses and permits exempt from disclosure"
 doc_type: statute

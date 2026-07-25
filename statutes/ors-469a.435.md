@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.435
 title: "Determining compliance with clean energy targets; unplanned emissions"
 doc_type: statute

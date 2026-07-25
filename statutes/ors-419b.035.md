@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.035
 title: "Confidentiality of records; when available to others; rules"
 doc_type: statute

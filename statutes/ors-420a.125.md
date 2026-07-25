@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.125
 title: "Adjudicated youths; intake assessments; reformation plan; placement"
 doc_type: statute

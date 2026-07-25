@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.605
 title: "Rules for purchase of compost and sewage sludge by state"
 doc_type: statute

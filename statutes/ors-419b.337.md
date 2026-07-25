@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.337
 title: "Commitment to custody of Department of Human Services"
 doc_type: statute

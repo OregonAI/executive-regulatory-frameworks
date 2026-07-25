@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.225
 title: "Sponsor’s addendum; property schedule; amendments"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.890
 title: "Civil action for violation of ORS 659A.865"
 doc_type: statute

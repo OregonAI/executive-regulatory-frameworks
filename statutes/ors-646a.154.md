@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.154
 title: "Service contract defined; registration; proof of financial stability; bond; action; rules; applicability of Insurance Code"
 doc_type: statute

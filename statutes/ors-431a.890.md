@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.890
 title: "Prescription Monitoring Program Advisory Commission; purposes; members"
 doc_type: statute

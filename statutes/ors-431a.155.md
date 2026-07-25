@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.155
 title: "Oregon Health Authority to adopt rules for awarding grants"
 doc_type: statute

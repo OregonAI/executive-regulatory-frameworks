@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.575
 title: "Court may order drug or alcohol treatment; hearing required; appointment of counsel for parent or guardian"
 doc_type: statute

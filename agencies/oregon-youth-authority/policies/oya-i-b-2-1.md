@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-b-2-1
 title: "Use of State Purchase Card (SPOTS Card) and State Corporate Travel Card"
 doc_type: policy

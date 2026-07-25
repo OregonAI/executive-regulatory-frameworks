@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.250
 title: "Authority; segregation of records; access; when records may be kept with those of adults; destruction of records; missing children RECORDS (Transcripts; Confide"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-b-2-0
 title: "Delegation for Expenditures and Payment Obligation Approval"
 doc_type: policy

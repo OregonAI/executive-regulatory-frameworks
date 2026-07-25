@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.144
 title: "Moneys received under ORS 468B.142; disposition (Ground Water)"
 doc_type: statute

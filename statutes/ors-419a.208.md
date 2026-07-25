@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.208
 title: "Orders subject to appeal by state; effect of appeal of preadjudicatory order"
 doc_type: statute

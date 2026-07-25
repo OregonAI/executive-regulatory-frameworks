@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.340
 title: "Employer contributions (Individual Accounts)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.625
 title: "Joint liability when payment bond not executed (Termination or Suspension of Contract for Public Interest Reasons)"
 doc_type: statute

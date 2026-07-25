@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.740
 title: "Cancellation; effective date; rebuttable presumption of delivery; payment for services; form; sufficiency of notice; return of documents"
 doc_type: statute

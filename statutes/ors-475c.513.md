@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.513
 title: "Transport of marijuana items to trade show; rules"
 doc_type: statute

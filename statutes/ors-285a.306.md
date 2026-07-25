@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.306
 title: "Title I Bank Fund; investment; sources; administration; rules and policies; costs"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.456
 title: "Application for conservation easement special assessment; contents; application fee"
 doc_type: statute

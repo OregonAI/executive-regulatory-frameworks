@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-e-10-0
 title: "Post-secondary Education in OYA Facilities"
 doc_type: policy

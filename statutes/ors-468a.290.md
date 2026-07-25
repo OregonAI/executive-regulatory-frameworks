@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.290
 title: "Oregon Climate Corps; long-term plan; grants and donations"
 doc_type: statute

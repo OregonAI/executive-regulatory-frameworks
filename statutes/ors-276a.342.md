@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.342
 title: "State agencies prohibited from using covered products; risk mitigation; exceptions"
 doc_type: statute

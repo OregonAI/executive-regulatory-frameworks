@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.256
 title: "Grant award; performance agreement; denial; limitations; forfeiture"
 doc_type: statute

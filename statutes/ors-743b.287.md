@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.287
 title: "Balance billing prohibited for health care facility services"
 doc_type: statute

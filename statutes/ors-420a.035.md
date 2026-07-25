@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.035
 title: "Authorization to deposit money belonging to adjudicated youths and youth in authority custody in trust account"
 doc_type: statute

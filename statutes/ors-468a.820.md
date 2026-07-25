@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.820
 title: "Community emission reduction credit banks; establishment; rules; credits"
 doc_type: statute

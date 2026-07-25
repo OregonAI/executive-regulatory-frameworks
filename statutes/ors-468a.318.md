@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.318
 title: "Exemption for certain air curtain incinerators"
 doc_type: statute

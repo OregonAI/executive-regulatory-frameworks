@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.837
 title: "Notification regarding changes to architectural paint stewardship program"
 doc_type: statute

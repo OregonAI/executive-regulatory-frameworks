@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-c-2-0
 title: "Use of State-Owned Vehicles"
 doc_type: policy

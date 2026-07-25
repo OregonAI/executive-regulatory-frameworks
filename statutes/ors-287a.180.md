@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.180
 title: "Short-term borrowing by public body (Debt Limits)"
 doc_type: statute

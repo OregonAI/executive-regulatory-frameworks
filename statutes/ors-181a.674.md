@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.674
 title: "Disclosure of information about certain public safety employees"
 doc_type: statute

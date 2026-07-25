@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.372
 title: "Handling of motor vehicle, boating or game cases not requiring waiver"
 doc_type: statute

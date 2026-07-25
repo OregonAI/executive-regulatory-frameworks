@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.123
 title: "Purpose (Small Business Expansion Loan Fund)"
 doc_type: statute

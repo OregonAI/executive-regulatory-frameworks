@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.065
 title: "Early refills of prescription eye drops for treatment of glaucoma"
 doc_type: statute

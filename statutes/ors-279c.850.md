@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.850
 title: "Inspection to determine whether prevailing rate of wage being paid; civil action for failure to pay prevailing rate of wage or overtime"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.139
 title: "Criteria for high-performance homes, renewable energy systems, combined heat and power facilities and facilities using or producing renewable energy resources; "
 doc_type: statute

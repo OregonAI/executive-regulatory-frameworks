@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.110
 title: "Authority to establish and enforce water quality standards by rule or order; limitation on authority; instream water quality standards (Motorized In-Stream Plac"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.580
 title: "Certification of certain Law Enforcement Data System employees"
 doc_type: statute

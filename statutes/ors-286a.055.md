@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.055
 title: "Report by State Treasurer on amount of bonds issued, amounts repaid, costs and interest earned"
 doc_type: statute

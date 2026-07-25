@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.080
 title: "Sale of novelty item containing mercury; penalty"
 doc_type: statute

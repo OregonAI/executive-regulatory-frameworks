@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.048
 title: "Court to comply with fiscal reporting procedures"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.100
 title: "Limits on cost of compliance with renewable portfolio standard (Cost Recovery)"
 doc_type: statute

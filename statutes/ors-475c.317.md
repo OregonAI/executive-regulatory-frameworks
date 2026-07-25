@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.317
 title: "Prohibition against person under 21 years of age possessing, attempting to purchase or purchasing marijuana item; penalty"
 doc_type: statute

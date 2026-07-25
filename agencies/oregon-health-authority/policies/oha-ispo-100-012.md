@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-ispo-100-012
 title: "Enforcement of Individual Privacy Violations"
 doc_type: policy

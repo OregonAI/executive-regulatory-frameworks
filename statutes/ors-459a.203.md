@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.203
 title: "Requirement to participate in drug take-back program; rules; fines"
 doc_type: statute

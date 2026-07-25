@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.533
 title: "Minimum hours and pay for apprentices employed on public improvements; contractor’s plan for outreach to and recruitment and retention of COBID-certified busine"
 doc_type: statute

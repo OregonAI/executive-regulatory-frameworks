@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-8-019
 title: "Staff Response to Alleged Criminal Acts"
 doc_type: policy

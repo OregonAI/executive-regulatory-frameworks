@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.250
 title: "State Debt Policy Advisory Commission; membership; compensation; quorum; meetings; personnel; consultation with other agencies"
 doc_type: statute

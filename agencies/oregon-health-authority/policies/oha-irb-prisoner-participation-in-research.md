@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-irb-prisoner-participation-in-research
 title: "Prisoner Participation in Research"
 doc_type: policy

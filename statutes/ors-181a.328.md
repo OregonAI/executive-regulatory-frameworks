@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.328
 title: "Committee on tracking of sexual assault forensic evidence; statewide electronic sexual assault forensic evidence kit tracking system"
 doc_type: statute

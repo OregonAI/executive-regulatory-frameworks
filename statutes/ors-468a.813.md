@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.813
 title: "Voluntary emission control label program; rules; fees"
 doc_type: statute

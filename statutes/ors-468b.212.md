@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.212
 title: "Land use compatibility statement; permitted or conditional use required"
 doc_type: statute

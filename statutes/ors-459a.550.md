@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.550
 title: "Report on use of new and recycled glass; minimum percentage of recycled glass required (Used Oil Recycling)"
 doc_type: statute

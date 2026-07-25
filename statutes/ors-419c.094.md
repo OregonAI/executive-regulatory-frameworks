@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.094
 title: "Jurisdiction attaches at time youth taken into custody"
 doc_type: statute

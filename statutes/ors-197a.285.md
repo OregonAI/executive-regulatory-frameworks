@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.285
 title: "Priority of land to be included within urban growth boundaries; rules (Alternative Urban Growth Boundary Amendment Process for Cities Outside Metro)"
 doc_type: statute

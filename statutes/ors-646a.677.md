@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.677
 title: "Requirement to screen for financial assistance before transferring medical debt for collection; permitted interest rate; prohibition on reporting medical debt t"
 doc_type: statute

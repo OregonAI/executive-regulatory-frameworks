@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.122
 title: "Effect of requalification on potential additional taxes"
 doc_type: statute

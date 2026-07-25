@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.290
 title: "“Capital” defined for ORS 708A.290 to"
 doc_type: statute

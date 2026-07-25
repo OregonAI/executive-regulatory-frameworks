@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.108
 title: "Oregon Health Authority to notify emergency departments of information related to hemoglobinopathies and hematologists"
 doc_type: statute

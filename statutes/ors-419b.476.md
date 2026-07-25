@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.476
 title: "Conduct of hearing; court determinations; orders (Termination of Parental Rights)"
 doc_type: statute

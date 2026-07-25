@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.413
 title: "Authority of law enforcement to enforce ORS 475C.005 to"
 doc_type: statute

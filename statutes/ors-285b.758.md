@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.758
 title: "Oregon Entrepreneurial Development Loan Fund; uses"
 doc_type: statute

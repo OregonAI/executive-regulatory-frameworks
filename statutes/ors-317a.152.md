@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-317a.152
 title: "Payments to Department of Revenue"
 doc_type: statute

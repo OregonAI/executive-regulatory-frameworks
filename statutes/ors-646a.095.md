@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.095
 title: "Disclosure required when purchaser of product offered technical support through information delivery system"
 doc_type: statute

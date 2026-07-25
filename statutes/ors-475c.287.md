@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.287
 title: "Requirement to report sex trafficking or other human trafficking at licensed premises; immunity; rules (Cannabis Research)"
 doc_type: statute

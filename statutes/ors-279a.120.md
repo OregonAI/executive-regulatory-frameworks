@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.120
 title: "Preference for Oregon goods and services; nonresident bidders"
 doc_type: statute

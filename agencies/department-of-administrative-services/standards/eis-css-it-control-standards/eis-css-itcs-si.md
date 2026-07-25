@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-si
 title: "Statewide IT Control Standards — System and Information Integrity (SI)"
 doc_type: standard

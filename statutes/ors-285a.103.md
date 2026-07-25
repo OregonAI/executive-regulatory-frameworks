@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.103
 title: "Oregon Infrastructure Finance Fund; sources; uses; rules"
 doc_type: statute

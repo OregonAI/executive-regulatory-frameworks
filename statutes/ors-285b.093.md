@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.093
 title: "Oregon Targeted Development Account; purpose; exemption from minimum interest rate"
 doc_type: statute

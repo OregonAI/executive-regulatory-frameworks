@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.025
 title: "Action by Attorney General to impose civil penalty or obtain injunction"
 doc_type: statute

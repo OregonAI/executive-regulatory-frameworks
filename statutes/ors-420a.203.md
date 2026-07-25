@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.203
 title: "Eligibility for second look; report to sentencing court; hearing; disposition"
 doc_type: statute

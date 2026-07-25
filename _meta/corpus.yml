@@ -1,0 +1,56 @@
+# Corpus configuration — the single source of truth corpus-toolkit reads.
+corpus:
+  id: "executive-regulatory-frameworks"
+  name: "Oregon Executive Regulatory Frameworks"
+  jurisdiction: "oregon"
+  archetype: "document"
+  schema_version: 1
+  contract_version: 1
+
+content_roots:
+  # jurisdiction-wide: one doc_type for the whole directory
+  - path: "statutes"
+    doc_type: statute
+  - path: "rules"
+    doc_type: rule
+  - path: "executive-orders"
+    doc_type: executive_order
+  - path: "external-references"
+    doc_type: external_reference
+  # issuing-body-scoped: agencies/<slug>/<subdir>
+  - path: "agencies"
+    scoped: true
+    subdirs:
+      policies: policy
+      procedures: procedure
+      accounting-manual: manual
+      standards: standard
+
+plugins:
+  citation_module: "src.citation_schemes"
+  snapshot_slice_module: "src.snapshot_slice:slice"
+  semantic_search_module: "src.semantic_search"
+  issuing_body_registry: "_meta/catalog/agencies.yml"
+  issuing_body_registry_key: "organizations"
+  issuing_body_profiles: "_meta/agency-profiles.yml"
+  extra_schema_checks:
+    - path: "_meta/agency-profiles.yml"
+      schema: "_meta/schema/agency-profile.schema.json"
+    - path: "_meta/sources/*.yml"
+      schema: "_meta/schema/source-group.schema.json"
+
+disclaimer_marker: "NON-AUTHORITATIVE"
+graph_path: "_meta/graph.json"
+source_manifest_path: "_meta/sources"
+snapshot_dir: "_meta/snapshots"
+
+mcp:
+  server_name: "executive-regulatory-frameworks"
+  transports: [stdio, http]
+
+status:
+  reverify_days: 90
+
+provenance:
+  coverage_fail_threshold: 0.70
+  coverage_warn_threshold: 0.90

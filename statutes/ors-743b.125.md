@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.125
 title: "Individual health benefit plans; waiting or exclusion periods; preexisting condition exclusions; guaranteed issue and renewal"
 doc_type: statute

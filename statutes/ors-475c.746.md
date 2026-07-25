@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.746
 title: "Required disclosure by Oregon Liquor and Cannabis Commission; fees"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-b-3-0
 title: "Youth Identification Photographs [Community]"
 doc_type: policy

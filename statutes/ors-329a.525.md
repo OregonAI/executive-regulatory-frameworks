@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.525
 title: "Standards and processes for international early childhood professionals; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.660
 title: "Oregon Business Development Department to develop policy for distributions, work with district association, oversee rural grant services"
 doc_type: statute

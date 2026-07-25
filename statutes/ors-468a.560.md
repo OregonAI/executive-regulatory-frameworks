@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.560
 title: "Applicability of open field burning, propane flaming and stack and pile burning statutes"
 doc_type: statute

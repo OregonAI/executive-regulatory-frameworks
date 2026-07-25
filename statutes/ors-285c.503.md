@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.503
 title: "Preliminary certification of facility; application; fee; review; appeal"
 doc_type: statute

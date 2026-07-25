@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.379
 title: "Guardian is not conservator (Authority Over Parents)"
 doc_type: statute

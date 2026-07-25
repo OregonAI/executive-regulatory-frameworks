@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.060
 title: "Appointment of employees of department as special state police officers"
 doc_type: statute

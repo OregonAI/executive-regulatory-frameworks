@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.045
 title: "Purpose of sex offender reporting obligation; rules"
 doc_type: statute

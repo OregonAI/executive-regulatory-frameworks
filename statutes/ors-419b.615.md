@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.615
 title: "Assistance enrolling child in tribe; notice to parents"
 doc_type: statute

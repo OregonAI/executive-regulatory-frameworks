@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.105
 title: "Contracts for architectural, engineering, photogrammetric mapping, transportation planning or land surveying and related services; procedures"
 doc_type: statute

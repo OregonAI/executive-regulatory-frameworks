@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.253
 title: "When information in report, material or document considered by court must be identified in record"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.185
 title: "Brownfields redevelopment; department duties; rules"
 doc_type: statute

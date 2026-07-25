@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.344
 title: "Bond or letter of credit; action; exceptions"
 doc_type: statute

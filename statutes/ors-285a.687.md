@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.687
 title: "Filing of lien against port; notice of satisfaction"
 doc_type: statute

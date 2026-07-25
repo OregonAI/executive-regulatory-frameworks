@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.534
 title: "Advisory committee for monitoring implementation of apprenticeship condition in public improvement contracts"
 doc_type: statute

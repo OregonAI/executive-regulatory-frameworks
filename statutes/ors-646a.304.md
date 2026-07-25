@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.304
 title: "Payment for farm implements, parts, software, tools and signs upon termination of retailer agreement"
 doc_type: statute

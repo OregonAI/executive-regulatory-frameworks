@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.110
 title: "Applicability of ORS 163A.105 Note Existing registrants--2013 c.708 §7"
 doc_type: statute

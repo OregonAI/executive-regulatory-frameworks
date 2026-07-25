@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.360
 title: "Motor vehicle emission and noise standards; copy to Department of Transportation"
 doc_type: statute

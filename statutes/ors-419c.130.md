@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.130
 title: "Youth or adjudicated youth may not be detained where adults are detained; exceptions"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.450
 title: "Confidentiality of client communications, information; exceptions"
 doc_type: statute

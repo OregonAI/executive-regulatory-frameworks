@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.146
 title: "Expedited process for certain residential development applications PLANNING FOR URBAN GROWTH (Generally)"
 doc_type: statute

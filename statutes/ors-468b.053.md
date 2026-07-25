@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.053
 title: "Alternatives to obtaining water quality permit; rules"
 doc_type: statute

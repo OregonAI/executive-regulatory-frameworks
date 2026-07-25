@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.315
 title: "Emission fees for major sources; base fees; basis of fees; rules"
 doc_type: statute

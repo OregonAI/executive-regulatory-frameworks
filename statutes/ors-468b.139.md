@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.139
 title: "Report; consultation with governments, agencies and organizations; surcharge"
 doc_type: statute

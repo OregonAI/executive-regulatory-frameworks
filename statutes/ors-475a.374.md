@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.374
 title: "Oregon Health Authority collection, publication of certain data; rules (Powers and Duties of Oregon Health Authority with Respect to Licensees)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.753
 title: "Indexing of annual revenue limit amount and total loan limit amount"
 doc_type: statute

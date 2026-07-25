@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.204
 title: "Required managed health insurance contract provision; enrollee liability"
 doc_type: statute

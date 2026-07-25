@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.020
 title: "Limitations on requiring contribution for government assisted housing"
 doc_type: statute

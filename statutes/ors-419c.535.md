@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.535
 title: "Appointed counsel; representation of state in contested hearings before Psychiatric Security Review Board"
 doc_type: statute

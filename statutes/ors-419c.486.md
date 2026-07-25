@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.486
 title: "Consideration of recommendations of committing court; case planning"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.265
 title: "Criminal Justice Information Standards program; duties"
 doc_type: statute

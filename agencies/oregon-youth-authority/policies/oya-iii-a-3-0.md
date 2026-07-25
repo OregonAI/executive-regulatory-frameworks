@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-a-3-0
 title: "Foster Care Eligibility, Referral, Placement, and Safety"
 doc_type: policy

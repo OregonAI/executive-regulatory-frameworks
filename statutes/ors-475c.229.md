@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.229
 title: "Prohibition against importing or exporting marijuana items"
 doc_type: statute

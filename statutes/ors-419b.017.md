@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.017
 title: "Time limits for notification between law enforcement agencies and Department of Human Services; rules"
 doc_type: statute

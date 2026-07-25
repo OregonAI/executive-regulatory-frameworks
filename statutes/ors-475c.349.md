@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.349
 title: "Unlawful manufacture of marijuana item"
 doc_type: statute

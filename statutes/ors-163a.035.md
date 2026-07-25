@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.035
 title: "Registration forms; Department of State Police to provide; distribution of information; rules; fee"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.308
 title: "Civil action for supplier’s failure to pay; venue"
 doc_type: statute

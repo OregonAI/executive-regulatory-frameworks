@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.070
 title: "Limitation on amount charged person who source separates recyclable material"
 doc_type: statute

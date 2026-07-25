@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.205
 title: "Appointment of counsel for parent or legal guardian"
 doc_type: statute

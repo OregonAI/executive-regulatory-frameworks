@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.720
 title: "Prohibited acts of foreclosure consultant (Equity Conveyances)"
 doc_type: statute

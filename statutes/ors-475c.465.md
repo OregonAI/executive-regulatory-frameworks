@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.465
 title: "Duty of State Department of Agriculture to assist"
 doc_type: statute

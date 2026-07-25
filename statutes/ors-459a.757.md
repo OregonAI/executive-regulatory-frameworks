@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.757
 title: "Prohibition on provision of certain checkout bags; exceptions"
 doc_type: statute

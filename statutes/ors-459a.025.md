@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.025
 title: "Adoption of rules regarding waste disposal and recycling"
 doc_type: statute

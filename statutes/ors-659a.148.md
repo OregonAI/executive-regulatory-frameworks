@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.148
 title: "Employers to whom provisions relating to reasonable accommodation apply"
 doc_type: statute

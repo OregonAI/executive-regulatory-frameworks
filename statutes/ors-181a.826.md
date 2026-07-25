@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.826
 title: "Prohibition on use of public resources for immigration enforcement; documentation; submission to Oregon Criminal Justice Commission; website; disclosure to Depa"
 doc_type: statute

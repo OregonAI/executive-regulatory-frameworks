@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.640
 title: "Notice to commission of proposed issues; duty of public bodies to assist; rules"
 doc_type: statute

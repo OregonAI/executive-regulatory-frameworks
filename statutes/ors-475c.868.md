@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.868
 title: "Oregon Health Authority electronic system; requirements; confidentiality"
 doc_type: statute

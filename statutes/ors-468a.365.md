@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.365
 title: "Certification of motor vehicle pollution control systems and inspection of motor vehicles; rules"
 doc_type: statute

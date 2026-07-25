@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-a-2-1
 title: "Control of Tools, Hazardous Materials and Sharps in OYA Facilities"
 doc_type: policy

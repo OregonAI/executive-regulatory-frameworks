@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.625
 title: "Oregon Health Authority to establish services and programs ALZHEIMER’S DISEASE"
 doc_type: statute

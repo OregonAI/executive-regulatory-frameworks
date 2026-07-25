@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.914
 title: "Proceeding when person entitled to service is not summoned and is not before court"
 doc_type: statute

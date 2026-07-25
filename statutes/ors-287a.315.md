@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.315
 title: "Pledge of full faith and credit and taxing power"
 doc_type: statute

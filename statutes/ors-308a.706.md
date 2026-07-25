@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.706
 title: "Circumstances when additional taxes are deferred; exceptions; potential additional tax liability"
 doc_type: statute

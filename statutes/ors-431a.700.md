@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.700
 title: "Oregon Health Authority to disseminate information"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.309
 title: "Prohibition against producing, processing, possessing or storing homegrown marijuana or homemade cannabinoid products, extracts"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.505
 title: "Establishment of criteria for decisions in land use final order"
 doc_type: statute

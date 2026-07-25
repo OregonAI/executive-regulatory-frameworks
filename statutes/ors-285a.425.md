@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.425
 title: "Beginning and Expanding Farmer Loan Program; eligibility and qualifications; rules; fees; authority to enter into contracts and agreements"
 doc_type: statute

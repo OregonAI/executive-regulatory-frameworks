@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.413
 title: "Legislative findings; purpose; use of moneys; rules"
 doc_type: statute

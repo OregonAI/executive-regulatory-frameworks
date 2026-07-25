@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.065
 title: "Oregon Health Authority to adopt rules for trauma system hospitals"
 doc_type: statute

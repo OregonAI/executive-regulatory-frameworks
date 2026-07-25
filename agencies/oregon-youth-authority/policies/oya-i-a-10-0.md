@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-a-10-0
 title: "Preventing, Detecting, and Responding to Youth Sexual Abuse and Sexual Harassment"
 doc_type: policy

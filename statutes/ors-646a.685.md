@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.685
 title: "Plan and methodology to establish upper payment limits for drugs sold in this state; report"
 doc_type: statute
