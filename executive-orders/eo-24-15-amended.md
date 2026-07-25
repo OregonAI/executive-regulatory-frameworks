@@ -15,7 +15,7 @@ source_format: pdf
 retrieved: "2026-07-19"
 source_sha256: "fe876f1a8bd3dfc8c643843bb2522ee227283527f2fb01cb2625c75afbb4d2a3"
 snapshot_policy: hash-only
-effective_date: null
+effective_date: "2024-07-19"
 last_reviewed: null
 source_version: null
 status: current
