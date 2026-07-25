@@ -15,8 +15,9 @@ on:
 jobs:
   frontmatter:
     uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.0.5
-    with:
-      jobs: "2"
+    # jobs: left unset — the CLI auto-detects the runner's own cpu_count rather than
+    # a hardcoded worker number, so this scales automatically with whatever runner
+    # (GitHub-hosted or self-hosted) actually executes it.
 
   generated-views:
     runs-on: ubuntu-latest
