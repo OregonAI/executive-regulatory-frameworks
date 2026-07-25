@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.233
 title: "Information technology portfolio-based management; inventory; standards; rules; exception"
 doc_type: statute

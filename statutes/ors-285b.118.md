@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.118
 title: "Claims for reimbursement of losses; reimbursable costs; repayment to loss reserve account"
 doc_type: statute

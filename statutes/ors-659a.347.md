@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.347
 title: "Discrimination related to possession of valid driver license"
 doc_type: statute

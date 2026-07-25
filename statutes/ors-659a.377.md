@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.377
 title: "Requirements for mediation related to claims or allegations of unlawful conduct as described under ORS 659A.370"
 doc_type: statute

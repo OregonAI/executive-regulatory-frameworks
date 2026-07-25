@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.216
 title: "Water supply plan; review by Water Resources Department; recommended permit conditions"
 doc_type: statute

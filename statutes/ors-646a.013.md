@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.013
 title: "Exceptions to prohibition on sales of cosmetics developed using animal testing"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-a-11-0
 title: "Assessment, Multidisciplinary Teams, and Case Planning"
 doc_type: policy

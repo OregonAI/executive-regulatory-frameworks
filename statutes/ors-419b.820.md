@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.820
 title: "Notice to parent contesting petition to establish permanent guardianship or terminate parental rights"
 doc_type: statute

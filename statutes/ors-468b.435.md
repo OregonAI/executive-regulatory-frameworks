@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.435
 title: "High Hazard Train Route Oil Spill Preparedness Fund; uses (Temporary provisions relating to fees are compiled as notes following ORS 468B.435)"
 doc_type: statute

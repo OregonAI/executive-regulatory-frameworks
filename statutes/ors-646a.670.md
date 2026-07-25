@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.670
 title: "Legal action to collect debt; requirements for pleadings; judgments; attorney fees"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.468
 title: "Requirement that psilocybin products comply with minimum standards"
 doc_type: statute

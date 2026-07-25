@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.175
 title: "Definitions; unlawful activities; notice; rules"
 doc_type: statute

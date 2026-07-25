@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.061
 title: "Authority for licensee other than laboratory licensee to hold multiple licenses (License to Produce Marijuana)"
 doc_type: statute

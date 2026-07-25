@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.154
 title: "Transferability of rental housing unit tax credit; rules"
 doc_type: statute

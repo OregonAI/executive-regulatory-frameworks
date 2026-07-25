@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.237
 title: "Timeline for referral of contested case to dispute denial of application for disability benefits"
 doc_type: statute

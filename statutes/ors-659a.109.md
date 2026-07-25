@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.109
 title: "Discrimination against individual for using procedures in ORS 659A.103 to"
 doc_type: statute

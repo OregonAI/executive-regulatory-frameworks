@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.875
 title: "Licenses and certificates; issuance; duration; denial or revocation"
 doc_type: statute

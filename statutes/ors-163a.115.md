@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.115
 title: "When certain classification required; persons ineligible for relief from reporting obligation"
 doc_type: statute

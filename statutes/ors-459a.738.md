@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.738
 title: "Convenience zones for full-service redemption centers"
 doc_type: statute

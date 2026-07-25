@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.815
 title: "Compensation for preparing, presenting or prosecuting application for veteran’s benefit; prohibitions; excessive and unreasonable fees; written agreement"
 doc_type: statute

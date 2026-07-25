@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.400
 title: "Fuel blends and solid biofuels; qualification for tax credits; rules"
 doc_type: statute

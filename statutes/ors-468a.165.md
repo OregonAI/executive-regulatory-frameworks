@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.165
 title: "Compliance with state standards required; hearing; notice"
 doc_type: statute

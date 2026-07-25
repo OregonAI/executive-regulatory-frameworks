@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.681
 title: "Report of misconduct or violation of minimum standards; investigation; failure to intervene or report grounds for discipline; reporting requirement"
 doc_type: statute

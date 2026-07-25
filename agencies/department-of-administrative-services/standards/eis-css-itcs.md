@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs
 title: "Statewide Information Technology (IT) Control Standards"
 doc_type: standard

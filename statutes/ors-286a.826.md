@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.826
 title: "Budgeting for Article XI-Q project costs"
 doc_type: statute

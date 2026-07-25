@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.215
 title: "Brand name or equal specification; brand name specification"
 doc_type: statute

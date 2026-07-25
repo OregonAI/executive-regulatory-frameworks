@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.863
 title: "Rules; billing of public universities and community colleges; agreements with Oregon Health and Science University"
 doc_type: statute

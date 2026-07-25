@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.310
 title: "Application; fees; use; certification applies only to premises and applicant; expiration date (Registration)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.096
 title: "Denial of leave, retaliation and discrimination prohibited"
 doc_type: statute

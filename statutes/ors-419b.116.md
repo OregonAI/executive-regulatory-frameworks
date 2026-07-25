@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.116
 title: "Intervention; caregiver relationship; rights of limited participation"
 doc_type: statute

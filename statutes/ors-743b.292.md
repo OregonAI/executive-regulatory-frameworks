@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.292
 title: "Balance billing prohibited for ground ambulance services; health benefit plan reimbursement rate requirements; reporting and database of established local rate;"
 doc_type: statute

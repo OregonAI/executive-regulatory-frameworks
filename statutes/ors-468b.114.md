@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.114
 title: "Motorized in-stream placer mining; discharge prohibited without permit; other prohibitions"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.345
 title: "Obligations secured by government obligations or shares of mutual fund or unit trust"
 doc_type: statute

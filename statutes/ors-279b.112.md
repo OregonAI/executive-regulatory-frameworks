@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.112
 title: "Personnel deployment disclosure; contents; preference for bidder or proposer that will employ more workers in state; rules; exception"
 doc_type: statute

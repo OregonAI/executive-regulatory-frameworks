@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.362
 title: "Release of publishable data on web portal; exemptions; rules"
 doc_type: statute

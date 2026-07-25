@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.712
 title: "Determining amount of deferred additional taxes and period for which additional taxes are due"
 doc_type: statute

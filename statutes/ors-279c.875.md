@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.875
 title: "Criminal liability for intentional failure to pay prevailing wage; rules"
 doc_type: statute

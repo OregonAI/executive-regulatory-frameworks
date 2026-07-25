@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.618
 title: "Prohibition on changes to consumer report subject to security freeze; entities subject to requirement to place security freeze"
 doc_type: statute

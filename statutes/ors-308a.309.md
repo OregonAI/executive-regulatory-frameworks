@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.309
 title: "Submission of application for approval of local granting authority; grounds for denial; approval; application withdrawal"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.436
 title: "Warrantor registration; requirements; expiration; fees; rules"
 doc_type: statute

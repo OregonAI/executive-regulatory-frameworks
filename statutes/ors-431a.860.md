@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.860
 title: "Duty of pharmacy to report to program; exceptions"
 doc_type: statute

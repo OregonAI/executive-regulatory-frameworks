@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.845
 title: "Estimate by Department of Environmental Quality of total volume of post-consumer architectural paint collected"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.422
 title: "Utilization review requirements for medical services contracts to which insurer not party; right to appeal"
 doc_type: statute

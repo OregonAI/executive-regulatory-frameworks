@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.578
 title: "Litigation challenging legality of Oregon State Lottery"
 doc_type: statute

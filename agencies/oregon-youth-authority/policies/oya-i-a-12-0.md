@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-a-12-0
 title: "OYA Assessment and Treatment Eligibility for Youth Who Have Committed Sex Offenses"
 doc_type: policy

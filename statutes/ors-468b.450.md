@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.450
 title: "Willful or negligent discharge of oil; civil penalty; authority of director to mitigate"
 doc_type: statute

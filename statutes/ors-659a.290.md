@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.290
 title: "Prohibited conduct by employer; records confidential MISCELLANEOUS UNLAWFUL EMPLOYMENT DISCRIMINATION (Prohibited Testing)"
 doc_type: statute

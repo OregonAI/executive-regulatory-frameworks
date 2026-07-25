@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.059
 title: "Conditions for commission approval of project; limits; exceptions"
 doc_type: statute

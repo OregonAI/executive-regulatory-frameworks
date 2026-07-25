@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.509
 title: "Development of land use final order; steering committee; application to council for land use final order; council procedures; public hearing; notice; staff repo"
 doc_type: statute

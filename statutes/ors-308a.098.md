@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.098
 title: "County property value appeals board use of assessor’s data"
 doc_type: statute

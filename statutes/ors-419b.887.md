@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.887
 title: "Objections at depositions; effect of failure to make timely objection; errors and irregularities in transcript preparation"
 doc_type: statute

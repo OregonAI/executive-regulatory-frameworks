@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-c-3-1
 title: "Substance Use Disorder Screening, Assessment, and Treatment in Community Settings"
 doc_type: policy

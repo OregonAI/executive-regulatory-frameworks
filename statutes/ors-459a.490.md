@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.490
 title: "Paper conservation (Newsprint and Directories)"
 doc_type: statute

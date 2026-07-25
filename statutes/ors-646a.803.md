@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.803
 title: "Contest and sweepstakes solicitations; required disclosures; prohibited representations"
 doc_type: statute

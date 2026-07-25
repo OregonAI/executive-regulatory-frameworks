@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.228
 title: "Discrimination for reporting violation of election laws prohibited (Initiating or Aiding Administrative, Criminal or Civil Proceeding)"
 doc_type: statute

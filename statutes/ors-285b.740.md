@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.740
 title: "Legislative intent; delegation of loan program responsibilities; powers of department; loan fees"
 doc_type: statute

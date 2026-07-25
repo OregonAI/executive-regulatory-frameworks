@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.506
 title: "Annual certification of facility; application; fee; review; appeal; duration of certification"
 doc_type: statute

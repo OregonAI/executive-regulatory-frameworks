@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.871
 title: "Use of Oregon Liquor and Cannabis Commission tracking system; distribution from Oregon Marijuana Account; exemptions; fees; rules (Designation, Assignment, Fore"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-b-3-0
 title: "JJIS Living Unit Logs"
 doc_type: policy

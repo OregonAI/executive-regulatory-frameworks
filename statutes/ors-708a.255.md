@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.255
 title: "Interest rates on loans or uses of money; late charges"
 doc_type: statute

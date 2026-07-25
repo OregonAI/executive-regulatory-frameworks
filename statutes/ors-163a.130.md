@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.130
 title: "Relief from reporting obligation for juvenile offenders adjudicated in Oregon"
 doc_type: statute

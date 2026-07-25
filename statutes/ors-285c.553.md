@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.553
 title: "Final certification; eligibility; application; content; performance agreement; rules"
 doc_type: statute

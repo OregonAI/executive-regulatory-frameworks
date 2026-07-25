@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.750
 title: "Required disclosure by Oregon Health Authority; fees"
 doc_type: statute

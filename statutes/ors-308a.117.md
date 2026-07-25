@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.117
 title: "Disqualification for illegal growing of marijuana on land; exceptions; additional taxes"
 doc_type: statute

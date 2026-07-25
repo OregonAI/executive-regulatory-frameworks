@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-a-10-1
 title: "Meeting LGBTQ+ Youth Needs"
 doc_type: policy

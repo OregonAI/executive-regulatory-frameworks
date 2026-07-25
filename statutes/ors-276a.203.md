@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.203
 title: "State Chief Information Officer; qualifications; duties; Enterprise Information Resources Management Strategy; rules"
 doc_type: statute

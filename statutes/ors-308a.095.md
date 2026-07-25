@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.095
 title: "Elective appointment of county board of review for advice on income-approach factors"
 doc_type: statute

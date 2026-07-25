@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.880
 title: "Restriction on combustion of hospital, medical or infectious waste"
 doc_type: statute

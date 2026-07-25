@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.160
 title: "Fingerprints, identifying data, disposition report required upon arrest"
 doc_type: statute

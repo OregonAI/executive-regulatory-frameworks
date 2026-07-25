@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.370
 title: "Determination of adequacy of plan; practice drills; rules"
 doc_type: statute

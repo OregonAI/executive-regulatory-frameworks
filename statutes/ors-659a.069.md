@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.069
 title: "Discrimination against state worker applying for benefits under ORS 659A.060 to"
 doc_type: statute

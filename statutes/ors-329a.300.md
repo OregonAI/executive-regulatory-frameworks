@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.300
 title: "Issuance of certification; temporary certification; conditions on certification; department’s duties under federal programs"
 doc_type: statute

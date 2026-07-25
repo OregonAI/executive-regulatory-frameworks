@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-ra
 title: "Statewide IT Control Standards — Risk Assessment (RA)"
 doc_type: standard

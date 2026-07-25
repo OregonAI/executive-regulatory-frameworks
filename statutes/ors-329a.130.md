@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.130
 title: "Resource and referral entities required to match funds; rules"
 doc_type: statute

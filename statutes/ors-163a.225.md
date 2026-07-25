@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.225
 title: "Release of information concerning sex offender adjudicated in juvenile court"
 doc_type: statute

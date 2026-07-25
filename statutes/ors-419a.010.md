@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.010
 title: "Appointment of counselors and director; juvenile director oversight committee"
 doc_type: statute

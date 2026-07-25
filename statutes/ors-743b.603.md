@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.603
 title: "Out-of-pocket maximums, deductibles, copayments, coinsurance and cost-sharing"
 doc_type: statute

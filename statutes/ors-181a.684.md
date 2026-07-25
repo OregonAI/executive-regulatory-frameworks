@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.684
 title: "Database of discipline and suspensions and revocations of certification of police officers; reporting requirement"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-4-011
 title: "Donations Contributions Charitable Fundraising"
 doc_type: policy

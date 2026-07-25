@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.622
 title: "Requirement to develop safeguards for personal information; conduct deemed to comply with requirement; defenses"
 doc_type: statute

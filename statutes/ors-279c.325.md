@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.325
 title: "Limitation on contracting agency awarding contract to nonresident education service district (Competitive Bidding; Contract Specifications; Exceptions; Exemptio"
 doc_type: statute

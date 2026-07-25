@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.595
 title: "Commission rules to regulate burning pursuant to ORS 468A.550 to"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-e-1-1
 title: "Administrative Rule, Policy, Procedure, and Protocol Development"
 doc_type: policy

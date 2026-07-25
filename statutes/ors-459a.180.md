@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.180
 title: "Inspection by Department of Environmental Quality"
 doc_type: statute

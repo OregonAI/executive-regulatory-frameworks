@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.305
 title: "Applicability of provisions to homegrown plants, homemade cannabinoid products and concentrates, specified possession and delivery"
 doc_type: statute

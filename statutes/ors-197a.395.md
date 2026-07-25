@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.395
 title: "Limits on local government prohibitions (Temporary provisions relating to housing land use adjustments are compiled as notes following ORS 197A.395)"
 doc_type: statute

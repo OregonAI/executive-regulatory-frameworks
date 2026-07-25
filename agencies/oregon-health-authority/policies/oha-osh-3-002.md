@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-3-002
 title: "Electrical Equipment and Resource Conservation"
 doc_type: policy

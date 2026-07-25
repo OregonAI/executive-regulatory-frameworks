@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.152
 title: "Assessment of procurement practices related to recycled products and materials and recycled PETE"
 doc_type: statute

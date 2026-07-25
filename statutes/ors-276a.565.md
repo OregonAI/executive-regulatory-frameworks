@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.565
 title: "Oregon Cybersecurity Center of Excellence Operating Fund; biennial report"
 doc_type: statute

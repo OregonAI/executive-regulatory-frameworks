@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.256
 title: "Maximum assessed value and assessed value of homesites"
 doc_type: statute

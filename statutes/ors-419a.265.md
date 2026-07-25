@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.265
 title: "Eligibility for order of expunction for certain adjudications involving marijuana"
 doc_type: statute

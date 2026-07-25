@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.840
 title: "Payment of prevailing rate of wage; posting of rates and fringe benefit plan provisions"
 doc_type: statute

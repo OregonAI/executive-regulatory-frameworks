@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.026
 title: "Required findings for investigation conducted under ORS 419B.020"
 doc_type: statute

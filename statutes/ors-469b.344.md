@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.344
 title: "Limitation on amount of potential tax credits for transportation projects"
 doc_type: statute

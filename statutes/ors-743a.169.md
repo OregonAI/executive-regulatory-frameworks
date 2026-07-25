@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.169
 title: "Behavioral and physical health services provided on same day or in same facility; behavioral health services provided by behavioral health home specialist or pa"
 doc_type: statute

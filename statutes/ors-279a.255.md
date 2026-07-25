@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.255
 title: "Inspection, appraisal and inventory of state property; reports by state agencies"
 doc_type: statute

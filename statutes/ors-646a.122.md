@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.122
 title: "Applicability of ORS 646A.120 to"
 doc_type: statute

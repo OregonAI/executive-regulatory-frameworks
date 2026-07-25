@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-b-4-1
 title: "Staff Personal Property Damage Reimbursement"
 doc_type: policy

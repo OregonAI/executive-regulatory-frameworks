@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.323
 title: "Definitions for ORS 181A.323 to"
 doc_type: statute

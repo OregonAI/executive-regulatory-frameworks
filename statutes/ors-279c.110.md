@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.110
 title: "Selection procedures for consultants to provide services; use of pricing proposals; compensation; protests; applicability; rules"
 doc_type: statute

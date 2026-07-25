@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.115
 title: "Performance assumptions and prescriptive measures for tax credits"
 doc_type: statute

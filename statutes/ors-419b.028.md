@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.028
 title: "Photographing child during investigation; photographs as records"
 doc_type: statute

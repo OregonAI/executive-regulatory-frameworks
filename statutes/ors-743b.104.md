@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.104
 title: "Coverage in group health benefit plans; consideration of prospective enrollee health status restricted; effect of discontinuing offer of plans; exceptions; cove"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.722
 title: "Applicability of tax laws to ORS 475C.670 to"
 doc_type: statute

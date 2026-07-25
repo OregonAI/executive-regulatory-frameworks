@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.743
 title: "Application for entrepreneurial development loan; eligibility; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-4-012
 title: "Medical Equipment or Goods and Outside Medical Service Purchase"
 doc_type: policy

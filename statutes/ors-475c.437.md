@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.437
 title: "Effective date of prohibition against operation of licensed premises"
 doc_type: statute

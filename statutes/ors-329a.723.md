@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.723
 title: "Definitions for ORS 329A.720 to"
 doc_type: statute

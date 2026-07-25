@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-irb-policy-and-procedures-for-addressing-allegations-of-research-misconduct
 title: "Policy and Procedures for Addressing Allegations of Research Misconduct"
 doc_type: policy

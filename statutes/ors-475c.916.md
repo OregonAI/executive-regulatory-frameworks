@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.916
 title: "Authority of nurse to discuss medical use of marijuana (Rulemaking)"
 doc_type: statute

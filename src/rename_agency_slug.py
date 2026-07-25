@@ -102,7 +102,9 @@ Remaining manual step: grep for prose links/examples that still name the old slu
   grep -rn "{old}" --include="*.md" --include="*.py" .
 
 Then: python3 src/link_graph.py && python3 src/review_queue.py && \\
-      python3 src/validate_frontmatter.py && python3 src/verify_provenance.py""")
+      corpus-validate-frontmatter --config _meta/corpus.yml \\
+        --schema .toolkit/schemas/document.frontmatter.v1.schema.json && \\
+      corpus-verify-provenance --config _meta/corpus.yml""")
 
 
 if __name__ == "__main__":

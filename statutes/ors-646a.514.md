@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.514
 title: "Scope of remedies CHILDREN’S"
 doc_type: statute

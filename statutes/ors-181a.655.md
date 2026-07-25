@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.655
 title: "Civil penalties relating to certification; rules; immunity from civil liability (Accreditation of Law Enforcement Agencies)"
 doc_type: statute

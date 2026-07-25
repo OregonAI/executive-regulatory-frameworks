@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.600
 title: "Early Childhood Suspension and Expulsion Prevention Program; rules"
 doc_type: statute

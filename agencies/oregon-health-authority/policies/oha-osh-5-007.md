@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-5-007
 title: "ADA and Reasonable Accommodation in Employment"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.495
 title: "Owner designee; waiver of authorization requirement"
 doc_type: statute

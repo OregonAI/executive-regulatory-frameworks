@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.455
 title: "Special Public Works Fund; uses; administration of fund"
 doc_type: statute

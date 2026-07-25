@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.147
 title: "Exemption from limitation on use of unbundled certificates for consumer-owned utilities"
 doc_type: statute

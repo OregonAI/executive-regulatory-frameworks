@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.165
 title: "Report concerning special procurements; requirement to maintain records"
 doc_type: statute

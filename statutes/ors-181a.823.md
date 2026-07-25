@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.823
 title: "Prohibitions related to immigration enforcement; explanation of rights and consequences; civil action"
 doc_type: statute

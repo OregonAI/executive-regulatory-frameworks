@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.240
 title: "Disqualification; notice and procedures; in lieu payments and additional taxes; penalty; use of moneys (Termination of Enterprise Zone)"
 doc_type: statute

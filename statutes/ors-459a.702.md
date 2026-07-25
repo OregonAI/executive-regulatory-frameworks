@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.702
 title: "Applicability of ORS 459A.700 to"
 doc_type: statute

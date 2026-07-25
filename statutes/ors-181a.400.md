@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.400
 title: "Authority of Department of Public Safety Standards and Training to require fingerprints"
 doc_type: statute

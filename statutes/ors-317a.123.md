@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-317a.123
 title: "Receipts from sale of prescription drugs excluded"
 doc_type: statute

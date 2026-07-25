@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.329
 title: "Prohibition regarding person who is visibly intoxicated; prohibition against allowing consumption of marijuana by person under 21 years of age on private proper"
 doc_type: statute

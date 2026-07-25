@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.090
 title: "Duty to enforce laws and regulations of agencies"
 doc_type: statute

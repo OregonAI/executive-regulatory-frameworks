@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.040
 title: "Discrimination against worker applying for or inquiring about workers’ compensation benefits prohibited"
 doc_type: statute

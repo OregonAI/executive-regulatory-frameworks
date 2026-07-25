@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.898
 title: "Practitioner training; rules (Penalty)"
 doc_type: statute

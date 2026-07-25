@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.380
 title: "Licensing of personnel and equipment; certification of motor vehicles; rules"
 doc_type: statute

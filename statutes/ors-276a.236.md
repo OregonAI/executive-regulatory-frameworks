@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.236
 title: "Enterprise information resources management; adoption and implementation of strategy; state agency information technology initiatives costing more than $1 milli"
 doc_type: statute

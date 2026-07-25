@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.255
 title: "Preschool recorded program and school-age recorded program; criminal background check required; fee; rules; civil penalty"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.803
 title: "Requirements for qualified projects funded with moneys from American Rescue Plan Act of 2021; exceptions"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-6-001
 title: "Patient Transfers (ADMINISTRATIVE DIRECTIVE)"
 doc_type: policy

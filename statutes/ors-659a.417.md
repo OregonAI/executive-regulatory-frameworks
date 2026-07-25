@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.417
 title: "Violation of ORS 659A.413 (Closed Captioning on Television Receivers)"
 doc_type: statute

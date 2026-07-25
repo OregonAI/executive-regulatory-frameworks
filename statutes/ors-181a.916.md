@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.916
 title: "Hiring unlicensed private security entity; liability for unpaid wages"
 doc_type: statute

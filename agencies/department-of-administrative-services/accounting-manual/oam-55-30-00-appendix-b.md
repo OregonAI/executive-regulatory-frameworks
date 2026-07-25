@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oam-55-30-00-appendix-b
 title: "SPOTS Card Program log example- appendix B"
 doc_type: manual

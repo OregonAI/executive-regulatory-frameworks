@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.230
 title: "Establishment of procedures for access to criminal record information; rules"
 doc_type: statute

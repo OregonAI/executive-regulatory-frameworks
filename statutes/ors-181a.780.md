@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.780
 title: "Planning authority; development and approval of plan; compliance; notice upon challenge to plan"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.130
 title: "Duties of county assessor (Eligible Business Firms)"
 doc_type: statute

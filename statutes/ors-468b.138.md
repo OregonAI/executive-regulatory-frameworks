@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.138
 title: "Definitions for ORS 468B.138 to"
 doc_type: statute

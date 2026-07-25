@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.612
 title: "Conditions for lifting or removing security freeze"
 doc_type: statute

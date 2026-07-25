@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-c-1-1
 title: "Field Custody and Use of Detention/Jail"
 doc_type: policy

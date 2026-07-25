@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-b-1-0
 title: "Tribal Notification [Field]"
 doc_type: policy

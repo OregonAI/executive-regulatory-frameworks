@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.007
 title: "Opportunity to recycle program elements; local government fee"
 doc_type: statute

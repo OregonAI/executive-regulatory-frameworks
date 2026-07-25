@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.415
 title: "Business firm notice to county assessor and zone sponsor; data submission; zone sponsor annual data report; disqualification; cure; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.062
 title: "Penalty for violation of ORS 646A.060"
 doc_type: statute

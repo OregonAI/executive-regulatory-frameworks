@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.657
 title: "Grants; purposes; application; eligibility; standards; prohibited funding"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.522
 title: "Qualifying mental disorder as affirmative defense"
 doc_type: statute

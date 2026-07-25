@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.660
 title: "Manufacturer records; certification by package manufacturer; exempt containers"
 doc_type: statute

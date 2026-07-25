@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.630
 title: "Motor vehicle mercury light switches (Plastics)"
 doc_type: statute

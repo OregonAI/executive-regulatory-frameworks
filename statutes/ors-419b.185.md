@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.185
 title: "Evidentiary hearing (Placement of Child or Ward)"
 doc_type: statute

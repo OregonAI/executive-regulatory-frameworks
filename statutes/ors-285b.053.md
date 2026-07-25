@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.053
 title: "Borrowing money from Oregon Business Development Fund; application; report"
 doc_type: statute

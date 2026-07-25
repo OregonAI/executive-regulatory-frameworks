@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-ispo-090-004
 title: "Information Security and Privacy Awareness and Training Policy"
 doc_type: policy

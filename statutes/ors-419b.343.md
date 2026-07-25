@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.343
 title: "Recommendations of committing court; case planning; plan contents"
 doc_type: statute

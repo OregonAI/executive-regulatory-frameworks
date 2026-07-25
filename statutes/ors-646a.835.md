@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.835
 title: "Restrictions on modification or termination of coverage; notice; consent to notice"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.063
 title: "State to continue group health benefits for injured worker and covered dependents; when ended"
 doc_type: statute

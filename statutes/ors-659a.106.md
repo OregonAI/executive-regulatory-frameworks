@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.106
 title: "Employers to whom ORS 659A.112 to"
 doc_type: statute

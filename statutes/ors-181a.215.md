@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.215
 title: "Oregon Department of Administrative Services to adopt rules relating to certain aspects of criminal records checks; immunity from civil liability"
 doc_type: statute

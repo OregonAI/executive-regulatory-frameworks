@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-543a.025
 title: "Minimum standards for decision on reauthorization of water right; rules"
 doc_type: statute

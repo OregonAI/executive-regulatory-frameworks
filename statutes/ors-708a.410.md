@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.410
 title: "Savings accounts; conditions for withdrawal; interest rate; inadvertent overdraft"
 doc_type: statute

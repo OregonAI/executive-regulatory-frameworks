@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.165
 title: "Purpose of ORS 285B.165 to"
 doc_type: statute

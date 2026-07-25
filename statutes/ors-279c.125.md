@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.125
 title: "Architectural, engineering, photogrammetric mapping, transportation planning and land surveying services selection process for local public improvements procure"
 doc_type: statute

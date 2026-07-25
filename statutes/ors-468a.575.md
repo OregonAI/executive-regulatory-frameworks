@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.575
 title: "Permits for open burning, propane flaming or stack or pile burning; rules"
 doc_type: statute

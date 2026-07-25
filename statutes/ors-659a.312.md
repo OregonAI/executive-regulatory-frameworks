@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.312
 title: "Leave of absence to donate bone marrow; verification by employer"
 doc_type: statute

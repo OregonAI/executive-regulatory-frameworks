@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.605
 title: "Certification of eligible employers; time period to approve application"
 doc_type: statute

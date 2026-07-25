@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.775
 title: "Indoor air quality sampling; accreditation and certification programs"
 doc_type: statute

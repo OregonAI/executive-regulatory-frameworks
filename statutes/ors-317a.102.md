@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-317a.102
 title: "Determination of commercial activity of taxpayer engaged in farming operation"
 doc_type: statute

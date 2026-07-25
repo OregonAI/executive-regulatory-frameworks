@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.832
 title: "Approval or denial of new or updated plans for architectural paint stewardship programs"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.420
 title: "Cooperative agreements to inspect premises (Collective Bargaining)"
 doc_type: statute

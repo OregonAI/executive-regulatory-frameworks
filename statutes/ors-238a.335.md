@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.335
 title: "Employer payment of employee contribution (Employer Contributions)"
 doc_type: statute

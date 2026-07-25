@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.400
 title: "Use of tracking system for psilocybin products; distribution of moneys"
 doc_type: statute

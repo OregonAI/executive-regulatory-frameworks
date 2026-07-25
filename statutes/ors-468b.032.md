@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.032
 title: "Alternative enforcement proceeding; request; public notice; fees"
 doc_type: statute

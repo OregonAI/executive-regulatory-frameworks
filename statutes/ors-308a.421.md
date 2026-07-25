@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.421
 title: "Effect of designation or removal for property tax purposes"
 doc_type: statute

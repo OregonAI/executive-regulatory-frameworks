@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.425
 title: "Authority to investigate, discipline permit holder (Conduct of Licensees)"
 doc_type: statute

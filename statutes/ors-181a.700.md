@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.700
 title: "Definitions for ORS 181A.702 and 181A.704"
 doc_type: statute

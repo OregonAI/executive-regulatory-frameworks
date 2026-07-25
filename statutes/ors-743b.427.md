@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.427
 title: "Nonquantitative treatment limitations on coverage of behavioral health conditions; carrier reporting requirements; confidentiality; summary annually reported to"
 doc_type: statute

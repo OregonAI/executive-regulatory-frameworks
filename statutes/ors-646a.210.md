@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.210
 title: "Requiring credit card number as condition for accepting check or share draft prohibited; exceptions"
 doc_type: statute

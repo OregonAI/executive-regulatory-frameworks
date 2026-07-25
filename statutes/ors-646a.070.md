@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.070
 title: "Sale of telephonic equipment; disclosure requirements; enforcement; penalty"
 doc_type: statute

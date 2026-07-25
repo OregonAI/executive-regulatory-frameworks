@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.560
 title: "Certification of telecommunicators and emergency medical dispatchers"
 doc_type: statute

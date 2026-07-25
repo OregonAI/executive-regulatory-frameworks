@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-6-042
 title: "Short-Term Assessment of Risk and Treatability (START)"
 doc_type: policy

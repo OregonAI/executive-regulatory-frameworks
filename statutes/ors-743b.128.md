@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.128
 title: "Exceptions to requirement to actively market all plans"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.009
 title: "Declaration of policy against discrimination in employment because of age"
 doc_type: statute

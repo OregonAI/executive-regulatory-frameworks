@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.627
 title: "Jurisdiction; limitations; tribal court assumption of jurisdiction"
 doc_type: statute

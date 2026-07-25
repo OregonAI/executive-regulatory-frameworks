@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.535
 title: "Illegal Marijuana Market Enforcement Grant Program Fund"
 doc_type: statute

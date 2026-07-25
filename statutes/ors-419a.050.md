@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.050
 title: "Authority to acquire, equip and maintain detention and shelter facilities"
 doc_type: statute

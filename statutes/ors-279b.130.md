@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.130
 title: "Debarment of prospective bidders and proposers (Notice of Intent to Award)"
 doc_type: statute

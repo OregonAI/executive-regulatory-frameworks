@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.206
 title: "Duties of department; rules; application procedure; agreement contents"
 doc_type: statute

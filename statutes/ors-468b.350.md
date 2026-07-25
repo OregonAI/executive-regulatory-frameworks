@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.350
 title: "Standards for contingency plans; oil spill response zones; rules"
 doc_type: statute

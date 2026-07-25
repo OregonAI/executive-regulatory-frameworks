@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.215
 title: "Credit Enhancement Fund; uses; sources"
 doc_type: statute

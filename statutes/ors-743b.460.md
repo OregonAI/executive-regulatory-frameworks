@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.460
 title: "Conditions for restricting payments to only in-network providers"
 doc_type: statute

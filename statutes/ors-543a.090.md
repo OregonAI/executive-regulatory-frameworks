@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-543a.090
 title: "Mid-study status report; public meeting; period for comment on status report"
 doc_type: statute

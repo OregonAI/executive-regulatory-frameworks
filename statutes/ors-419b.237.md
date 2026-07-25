@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.237
 title: "Duration of appointment; compensation (Hearings)"
 doc_type: statute

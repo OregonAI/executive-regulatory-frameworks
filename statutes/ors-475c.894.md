@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.894
 title: "Authority to investigate; rights related to seized property"
 doc_type: statute

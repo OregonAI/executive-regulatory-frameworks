@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.258
 title: "Private right of action (Disability Income Insurance)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.596
 title: "Funding of distressed area or nonurban water projects"
 doc_type: statute

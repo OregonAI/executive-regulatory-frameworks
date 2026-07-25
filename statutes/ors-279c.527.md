@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.527
 title: "Inclusion of amount for green energy technology or woody biomass energy technology in public improvement contract; written determination of appropriateness; con"
 doc_type: statute

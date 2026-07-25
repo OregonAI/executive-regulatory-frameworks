@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.260
 title: "Report to Legislative Assembly (Low Carbon Fuel Standards)"
 doc_type: statute

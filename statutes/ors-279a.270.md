@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.270
 title: "Contracts with federal government for accepting gifts and acquiring surplus property; bids not required"
 doc_type: statute

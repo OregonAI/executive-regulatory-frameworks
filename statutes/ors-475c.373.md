@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.373
 title: "Unlawful sale or delivery of marijuana paraphernalia"
 doc_type: statute

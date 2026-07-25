@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.575
 title: "Oregon Cybersecurity Grant Program Fund; standards and requirements; biennial report OFFICE OF ENTERPRISE INFORMATION SERVICES (State Chief Information Officer)"
 doc_type: statute

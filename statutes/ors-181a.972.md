@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.972
 title: "Requirements for special campus security providers and private security providers on campuses of institutions of higher education"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.040
 title: "Certain privileges not grounds for excluding evidence in court proceedings on child abuse"
 doc_type: statute

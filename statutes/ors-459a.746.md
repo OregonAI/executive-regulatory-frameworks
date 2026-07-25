@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.746
 title: "Convenience zones for alternative access redemption centers and mobile or satellite redemption sites"
 doc_type: statute

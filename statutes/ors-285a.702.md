@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.702
 title: "Funds for joint projects or match money; form of application"
 doc_type: statute

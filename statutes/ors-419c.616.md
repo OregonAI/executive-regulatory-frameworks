@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.616
 title: "Effect of prior proceeding on petition under ORS 419C.615"
 doc_type: statute

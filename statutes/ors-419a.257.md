@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.257
 title: "Reports and materials privileged; permissible disclosures; use of materials in evidence"
 doc_type: statute

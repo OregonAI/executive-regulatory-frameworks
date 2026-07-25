@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.192
 title: "Leave to attend criminal proceeding; undue hardship on employer; scheduling criminal proceeding"
 doc_type: statute

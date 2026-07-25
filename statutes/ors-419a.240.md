@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.240
 title: "Use of restraints during juvenile court proceedings"
 doc_type: statute

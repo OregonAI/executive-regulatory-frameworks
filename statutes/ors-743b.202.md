@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.202
 title: "Requirements for insurers offering managed health or preferred provider organization insurance; rules; opportunity to participate"
 doc_type: statute

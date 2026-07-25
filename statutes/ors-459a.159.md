@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.159
 title: "Mattress stewardship program plan; requirements"
 doc_type: statute

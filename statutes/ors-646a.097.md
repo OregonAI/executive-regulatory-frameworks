@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.097
 title: "Payment of sales commissions following termination of contract between sales representative and principal; definitions; civil action (Going Out of Business Sale"
 doc_type: statute

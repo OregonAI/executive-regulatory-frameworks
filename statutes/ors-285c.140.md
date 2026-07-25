@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.140
 title: "Application for authorization; contents; filing fee; conference; approval; appeal; late filing"
 doc_type: statute

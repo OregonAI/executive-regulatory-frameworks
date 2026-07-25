@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.195
 title: "Criminal records check; authorized agencies; retention of fingerprint cards by FBI and Department of State Police; fitness determinations; rules; fee"
 doc_type: statute

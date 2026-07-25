@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.470
 title: "Contract rights under Oregon Public Service Retirement Plan"
 doc_type: statute

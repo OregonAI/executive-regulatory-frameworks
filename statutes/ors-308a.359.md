@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.359
 title: "Standards and criteria for exemption; determination; exemption limited to certain lands; application withdrawal"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.186
 title: "Exclusivity of provisions; construction; concurrent leave"
 doc_type: statute

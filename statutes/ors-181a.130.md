@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.130
 title: "Records and reports of activities and time spent in performance of duties"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.056
 title: "Cancellation or postponement of scheduled issuance of bonds"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.946
 title: "Application for nontribal police officers to exercise tribal police powers on tribal lands; citation for tribal offense; liability for torts; report"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.662
 title: "Imposition of tax on retail sale of psilocybin products"
 doc_type: statute

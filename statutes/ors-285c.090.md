@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.090
 title: "Requirements for area to be designated zone; exception (Electronic Commerce)"
 doc_type: statute

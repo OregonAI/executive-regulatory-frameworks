@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-317a.155
 title: "Suspense account; payment of refunds; disposition of net revenue"
 doc_type: statute

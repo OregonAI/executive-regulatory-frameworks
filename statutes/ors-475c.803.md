@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.803
 title: "Marijuana grow site security systems (Possession Limits for Registry Identification Cardholders, Designated Primary Caregivers and Marijuana Grow Sites)"
 doc_type: statute

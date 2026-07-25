@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.233
 title: "Prohibition against obfuscating mark or label or using mark or label to deceive"
 doc_type: statute

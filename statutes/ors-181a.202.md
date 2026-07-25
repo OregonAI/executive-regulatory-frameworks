@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.202
 title: "Authority of municipal tax collection agency to require fingerprints"
 doc_type: statute

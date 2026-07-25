@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.855
 title: "Product Stewardship Fund; sources; uses PRODUCER RESPONSIBILITY FOR PACKAGING, PAPER AND FOOD SERVICEWEAR (General Provisions)"
 doc_type: statute

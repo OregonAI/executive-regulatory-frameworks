@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-at
 title: "Statewide IT Control Standards — Awareness and Training (AT)"
 doc_type: standard

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.323
 title: "Separate notice to policyholder required before cancellation of individual or group health insurance policy for nonpayment of premium; rules"
 doc_type: statute

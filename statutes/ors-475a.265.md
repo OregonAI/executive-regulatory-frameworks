@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.265
 title: "Duties of Oregon Health Authority with respect to issuing licenses"
 doc_type: statute

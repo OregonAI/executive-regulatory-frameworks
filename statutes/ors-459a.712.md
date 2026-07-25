@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.712
 title: "Liability of manufacturer, distributor and importer for failure to pay refund value of beverage containers"
 doc_type: statute

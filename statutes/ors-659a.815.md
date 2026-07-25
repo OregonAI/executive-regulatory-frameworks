@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.815
 title: "Advisory agencies and intergroup-relations councils (Complaint, Investigation and Hearing Procedures)"
 doc_type: statute

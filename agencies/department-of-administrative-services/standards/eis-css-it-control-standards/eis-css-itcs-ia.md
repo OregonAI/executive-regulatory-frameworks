@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-ia
 title: "Statewide IT Control Standards — Identification and Authentication (IA)"
 doc_type: standard

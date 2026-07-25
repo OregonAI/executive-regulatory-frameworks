@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-irb-financial-conflicts-of-interest-in-federally-sponsored-research-activities
 title: "Financial Conflicts of Interest in Federally Sponsored Research Activities"
 doc_type: policy

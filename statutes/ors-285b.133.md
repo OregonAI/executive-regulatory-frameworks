@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.133
 title: "Small Business Expansion Loan Fund; purposes; sources of moneys; special transfers to and from fund (Small Business Development Centers)"
 doc_type: statute

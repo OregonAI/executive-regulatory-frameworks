@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.190
 title: "Definitions for ORS 659A.190 to"
 doc_type: statute

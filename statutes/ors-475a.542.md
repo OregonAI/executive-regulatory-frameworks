@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.542
 title: "Duty of Oregon Liquor and Cannabis Commission to assist"
 doc_type: statute

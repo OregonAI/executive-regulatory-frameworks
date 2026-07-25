@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.615
 title: "Private Activity Bond Committee; purpose of private activity bonding; suballocation; rules"
 doc_type: statute

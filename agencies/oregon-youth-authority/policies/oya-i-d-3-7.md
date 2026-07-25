@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-d-3-7
 title: "Staff and Volunteer Recognition"
 doc_type: policy

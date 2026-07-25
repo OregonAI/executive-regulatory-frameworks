@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-a-3-1
 title: "Recreational Activities in Substitute Care Placements"
 doc_type: policy

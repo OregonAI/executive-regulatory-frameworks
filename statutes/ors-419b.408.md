@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.408
 title: "Enforcement of support order (Reports by Guardians and Custodians)"
 doc_type: statute

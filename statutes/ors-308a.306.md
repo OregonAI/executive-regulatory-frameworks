@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.306
 title: "Application for open space use assessment; contents of application; filing; reapplication"
 doc_type: statute

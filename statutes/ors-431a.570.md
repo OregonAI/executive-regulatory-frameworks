@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.570
 title: "Significant exposure to bodily fluids; petition to compel testing; confidentiality of results"
 doc_type: statute

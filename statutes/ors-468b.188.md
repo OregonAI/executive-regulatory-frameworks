@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.188
 title: "Repeal of declaration of ground water quality management area"
 doc_type: statute

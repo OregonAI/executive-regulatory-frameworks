@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.675
 title: "Maternal Mental Health Patient and Provider Education Program; informational materials"
 doc_type: statute

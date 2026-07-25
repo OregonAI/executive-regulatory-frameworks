@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.207
 title: "Zoning for urban services; capital improvement plan; tax assessment"
 doc_type: statute

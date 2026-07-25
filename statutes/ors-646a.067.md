@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.067
 title: "Preemption of local requirements applicable to pawnbrokers"
 doc_type: statute

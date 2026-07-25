@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.303
 title: "Production in United States of materials for public improvements and public works; waiver and review of waiver; technical assistance and grant program; rules"
 doc_type: statute

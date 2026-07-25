@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.461
 title: "Duty of Oregon Health Authority to assist"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-e-2-3
 title: "Youth Tattoo Removal Service [Facility]"
 doc_type: policy

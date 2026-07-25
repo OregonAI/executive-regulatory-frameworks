@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.476
 title: "Application of law to revenue bonds; proceeds; maximum duration of loans"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.134
 title: "Treatment of chaplain’s housing allowance (Retirement Credit)"
 doc_type: statute

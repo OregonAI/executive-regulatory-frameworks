@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.165
 title: "Approval of mattress stewardship program plan or amendment; revocation; additional reporting requirements"
 doc_type: statute

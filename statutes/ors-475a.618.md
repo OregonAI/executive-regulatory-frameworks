@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.618
 title: "Civil penalty for violating ORS 475A.590 to"
 doc_type: statute

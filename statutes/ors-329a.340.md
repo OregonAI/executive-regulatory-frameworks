@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.340
 title: "Certain child care providers required to attend orientation; content of orientation; effect of ceasing to provide services; cost (Discipline; Investigation; Ins"
 doc_type: statute

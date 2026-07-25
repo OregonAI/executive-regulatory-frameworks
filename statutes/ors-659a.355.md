@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.355
 title: "Discrimination based on wage inquiry or wage complaint; exception"
 doc_type: statute

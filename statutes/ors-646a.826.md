@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.826
 title: "Cost of coverage; billing requirements; remission to insurer or supervising entity; funds held in trust; compensation"
 doc_type: statute

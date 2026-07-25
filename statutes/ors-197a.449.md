@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.449
 title: "Conversion of hotel or motel to emergency shelter or affordable housing"
 doc_type: statute

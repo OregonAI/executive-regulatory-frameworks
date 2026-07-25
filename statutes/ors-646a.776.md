@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.776
 title: "Required disclosures; cancellation provisions; effect on motor vehicle purchaser’s credit"
 doc_type: statute

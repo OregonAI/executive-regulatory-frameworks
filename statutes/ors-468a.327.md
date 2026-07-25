@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.327
 title: "Requirement for adoption, amendment or repeal of rules; oral hearing"
 doc_type: statute

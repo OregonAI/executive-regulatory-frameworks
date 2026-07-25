@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.833
 title: "Medical marijuana dispensary registration system; fees; rules"
 doc_type: statute

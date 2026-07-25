@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.062
 title: "Qualification of exclusive farm use zone farmland"
 doc_type: statute

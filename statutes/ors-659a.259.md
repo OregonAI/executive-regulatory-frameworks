@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.259
 title: "Eviction from employee housing or discrimination against employee for reporting violations of ORS 659A.250 to"
 doc_type: statute

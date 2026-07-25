@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.465
 title: "Certification requirements for new solid fuel burning devices; rules"
 doc_type: statute

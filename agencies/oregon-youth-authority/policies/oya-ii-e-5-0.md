@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-e-5-0
 title: "Youth Assessment for Sex Offense Risk and Protective Factors - Facility"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.128
 title: "Certain district assessments inapplicable to exclusive farm use zone farmland"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.085
 title: "Residential open burning of vegetative debris; rules; local government authority"
 doc_type: statute

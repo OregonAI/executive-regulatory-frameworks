@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.129
 title: "Exclusively medical licensee designation for marijuana wholesaler"
 doc_type: statute

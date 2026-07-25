@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.312
 title: "Notice to assessor of approval or denial; recording approval; assessor to record potential additional taxes on tax roll; appeal from denial"
 doc_type: statute

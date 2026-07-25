@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.303
 title: "Information systems security for Secretary of State, State Treasurer and Attorney General"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.515
 title: "Land Use Board of Appeals review of land use final order"
 doc_type: statute

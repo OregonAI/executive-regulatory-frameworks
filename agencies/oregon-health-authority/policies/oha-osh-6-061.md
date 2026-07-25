@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-6-061
 title: "Transgender Gender Non-Conforming Treatment"
 doc_type: policy

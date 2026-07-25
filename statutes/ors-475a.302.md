@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.302
 title: "Legal address and ownership of premises used for psilocybin manufacturing; owner consent; rules (License to Operate Psilocybin Service Center)"
 doc_type: statute

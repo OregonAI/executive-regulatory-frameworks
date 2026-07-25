@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.609
 title: "Acknowledgment or establishment of parentage"
 doc_type: statute

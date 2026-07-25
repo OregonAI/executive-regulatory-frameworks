@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.365
 title: "Advance refunding bonds and forward current refunding"
 doc_type: statute

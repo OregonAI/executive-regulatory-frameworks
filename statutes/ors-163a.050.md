@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.050
 title: "Notice of reporting obligation to be given by court; procedure at intake"
 doc_type: statute

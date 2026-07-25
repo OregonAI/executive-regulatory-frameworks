@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.589
 title: "Investigative demand by Attorney General; representation by counsel; confidentiality of proceedings and materials; action to impose civil penalty or obtain inju"
 doc_type: statute

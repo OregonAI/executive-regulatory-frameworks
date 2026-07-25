@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.475
 title: "Right of survivorship based on form of account; alteration of form of account"
 doc_type: statute

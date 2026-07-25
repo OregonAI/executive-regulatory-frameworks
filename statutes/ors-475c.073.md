@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.073
 title: "Marijuana production as nonconforming land use; alterations to premises; continued use requirement"
 doc_type: statute

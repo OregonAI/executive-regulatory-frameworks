@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.215
 title: "Oregon Climate Action Commission; appointment; term; vacancies; expenses of members"
 doc_type: statute

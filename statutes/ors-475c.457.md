@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.457
 title: "Repeal of city, county ordinance that prohibits certain establishments"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.761
 title: "Economic Equity Investment Program; grants; eligible projects; technical assistance"
 doc_type: statute

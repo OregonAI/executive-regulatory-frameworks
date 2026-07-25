@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.714
 title: "Duties and powers of Department of Revenue; rules; interagency cooperation"
 doc_type: statute

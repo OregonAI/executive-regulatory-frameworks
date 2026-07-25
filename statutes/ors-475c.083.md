@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.083
 title: "Samples of immature marijuana plants, seeds; limitations; rules (License to Process Marijuana Items)"
 doc_type: statute

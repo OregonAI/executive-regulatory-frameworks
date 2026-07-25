@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.793
 title: "Goal to reduce excess lifetime risk of cancer due to exposure to diesel engine emissions"
 doc_type: statute

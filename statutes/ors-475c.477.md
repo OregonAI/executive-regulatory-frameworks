@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.477
 title: "Immunity for state agencies, officers and employees in performance of duties"
 doc_type: statute

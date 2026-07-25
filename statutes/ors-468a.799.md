@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.799
 title: "Standards for qualifying replacements, repowers and retrofits; rules"
 doc_type: statute

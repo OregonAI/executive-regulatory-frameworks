@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-irb-is-my-study-an-applicable-clinical-trial-as-defined-by-42-cfr-11
 title: "Is my study an 'applicable clinical trial' as defined by 42 CFR 11?"
 doc_type: policy

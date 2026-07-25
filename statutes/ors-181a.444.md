@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.444
 title: "Training on interacting with persons who have experienced trauma"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.455
 title: "Oil Spillage Control Fund; source; use"
 doc_type: statute

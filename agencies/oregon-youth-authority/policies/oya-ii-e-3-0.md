@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-e-3-0
 title: "Intake Review Committee; Parole Review Committee"
 doc_type: policy

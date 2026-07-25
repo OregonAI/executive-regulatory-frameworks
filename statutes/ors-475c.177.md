@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.177
 title: "Duty to develop and maintain system for tracking transfer of marijuana items"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.409
 title: "Use of agency travel and transportation funds for telecommunications services"
 doc_type: statute

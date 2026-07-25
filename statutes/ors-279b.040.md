@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.040
 title: "Prohibition on accepting bid or proposal from contractor that advised or assisted contracting agency to develop specifications or solicitation documents; except"
 doc_type: statute

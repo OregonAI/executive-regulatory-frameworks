@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.135
 title: "Eligible business firms; exclusions (Authorization)"
 doc_type: statute

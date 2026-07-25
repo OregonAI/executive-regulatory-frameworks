@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.095
 title: "Use of sludge on agricultural, horticultural or silvicultural land; rules (Forest Operations)"
 doc_type: statute

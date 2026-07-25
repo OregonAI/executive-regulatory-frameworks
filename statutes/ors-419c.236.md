@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.236
 title: "Agreement may require counseling, community service, education, treatment or training; restitution"
 doc_type: statute

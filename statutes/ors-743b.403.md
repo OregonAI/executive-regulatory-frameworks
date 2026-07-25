@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.403
 title: "Insurer prohibited practices; patient communication and referral"
 doc_type: statute

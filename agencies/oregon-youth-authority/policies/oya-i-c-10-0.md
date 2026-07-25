@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-c-10-0
 title: "OYA Information Technology Governance"
 doc_type: policy

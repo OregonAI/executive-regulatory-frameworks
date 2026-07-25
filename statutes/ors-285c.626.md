@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.626
 title: "Business firm application for project within strategic investment zone (Distributions)"
 doc_type: statute

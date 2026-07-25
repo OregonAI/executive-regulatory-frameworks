@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-8-037
 title: "Patient Property and Valuables (ADMINISTRATIVE DIRECTIVE)"
 doc_type: policy

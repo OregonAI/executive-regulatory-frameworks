@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.205
 title: "Policy; greenhouse gas emissions reduction goals"
 doc_type: statute

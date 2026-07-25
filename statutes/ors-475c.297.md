@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.297
 title: "Marijuana Control and Regulation Fund (Regulatory Specialists)"
 doc_type: statute

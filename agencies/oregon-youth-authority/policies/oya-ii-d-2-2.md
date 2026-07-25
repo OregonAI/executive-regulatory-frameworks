@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-d-2-2
 title: "Suicide Prevention in OYA Close Custody Facilities"
 doc_type: policy

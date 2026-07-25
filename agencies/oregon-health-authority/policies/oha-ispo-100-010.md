@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-ispo-100-010
 title: "Release and Waivers for Use and Disclosure for Research and Reporting Policy"
 doc_type: policy

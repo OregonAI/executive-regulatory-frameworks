@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.344
 title: "Procedure for obtaining continuation of coverage under ORS 743B.343"
 doc_type: statute

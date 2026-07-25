@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.125
 title: "Detention in place where adults are detained of certain persons alleged to be within court’s jurisdiction"
 doc_type: statute

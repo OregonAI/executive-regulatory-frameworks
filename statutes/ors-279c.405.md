@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.405
 title: "Requests for information, interest or qualifications; requirements for requests for proposals"
 doc_type: statute

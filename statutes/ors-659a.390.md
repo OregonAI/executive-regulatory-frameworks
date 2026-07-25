@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.390
 title: "Restrictions on no-rehire provisions as condition of workers’ compensation settlements; exceptions; remedy for violation; civil penalties ACCESS TO PUBLIC ACCOM"
 doc_type: statute

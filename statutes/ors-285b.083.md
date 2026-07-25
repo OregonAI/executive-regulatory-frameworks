@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.083
 title: "Use of refinancing and other financial assistance for repayment"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.269
 title: "Permit or temporary permit required to perform work for or on behalf of marijuana retailer or laboratory"
 doc_type: statute

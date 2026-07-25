@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.346
 title: "Purchases of assistance services for small businesses; grants; requirements for providers of services; waiver of federal requirements"
 doc_type: statute

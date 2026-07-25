@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-pe
 title: "Statewide IT Control Standards — Physical and Environmental Protection (PE)"
 doc_type: standard

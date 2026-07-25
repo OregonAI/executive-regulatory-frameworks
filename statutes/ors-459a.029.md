@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.029
 title: "Provision of materials to local governments; commercial generator recovery rate goal"
 doc_type: statute

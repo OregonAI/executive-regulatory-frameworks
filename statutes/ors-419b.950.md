@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.950
 title: "Educational program regarding federal and state adoption and child welfare laws; establishment; purpose"
 doc_type: statute

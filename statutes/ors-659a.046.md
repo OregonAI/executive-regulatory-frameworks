@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.046
 title: "Reemployment of injured worker in other available and suitable work; termination of right to reemployment; effect of collective bargaining agreement"
 doc_type: statute

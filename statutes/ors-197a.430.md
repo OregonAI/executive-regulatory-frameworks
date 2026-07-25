@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.430
 title: "Single room occupancies (Manufactured and Prefabricated Housing, Recreational Vehicles and Parks)"
 doc_type: statute

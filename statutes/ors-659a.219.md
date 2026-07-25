@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.219
 title: "Uniform standards and procedures manual for implementation of Whistleblower Law; requirements"
 doc_type: statute

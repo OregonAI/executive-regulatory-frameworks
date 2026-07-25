@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-au
 title: "Statewide IT Control Standards — Audit and Accountability (AU)"
 doc_type: standard

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.289
 title: "Juvenile Justice Policy Commission; membership"
 doc_type: statute

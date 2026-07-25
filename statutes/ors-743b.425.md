@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.425
 title: "Prohibited restrictions on coverage of treatment for opioid or opiate withdrawal, post-exposure and preexposure prophylactic antiretroviral drugs and drugs for "
 doc_type: statute

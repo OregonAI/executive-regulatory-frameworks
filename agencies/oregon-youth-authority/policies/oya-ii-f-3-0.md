@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-f-3-0
 title: "Youth Mail in OYA Facilities"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.119
 title: "Capital Access Fund; investment; retrieval of interest; administrative expenses SMALL BUSINESS DEVELOPMENT (Oregon Small Business Development Act)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.880
 title: "Hearing if license or certificate denied, suspended or revoked"
 doc_type: statute

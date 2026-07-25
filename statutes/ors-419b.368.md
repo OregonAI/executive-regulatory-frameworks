@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.368
 title: "Review, modification or vacation of guardianship order"
 doc_type: statute

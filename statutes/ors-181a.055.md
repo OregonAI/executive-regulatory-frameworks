@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.055
 title: "Qualifications for appointment and reappointment of state police; special officers; neighboring states"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.445
 title: "Affordable housing allowed outright; commercial conversion to residential use; affordable housing density bonus"
 doc_type: statute

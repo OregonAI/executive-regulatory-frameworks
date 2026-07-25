@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.194
 title: "Participation in extracurricular activities; reasonable and prudent parent standard; fees; rules (Counsel)"
 doc_type: statute

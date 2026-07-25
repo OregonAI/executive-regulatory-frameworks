@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.081
 title: "Prohibition on sale or installation of mercury vapor outdoor lighting fixtures"
 doc_type: statute

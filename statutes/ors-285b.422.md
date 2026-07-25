@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.422
 title: "Funding to municipalities for development projects; criteria for project funding; prohibited uses (Housing Infrastructure Financing)"
 doc_type: statute

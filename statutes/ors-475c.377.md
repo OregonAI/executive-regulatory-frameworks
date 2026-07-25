@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.377
 title: "Prohibition against using marijuana item in public place"
 doc_type: statute

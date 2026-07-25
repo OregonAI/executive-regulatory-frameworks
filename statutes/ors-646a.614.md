@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.614
 title: "Effect of security freeze on use of consumer reports or protective records"
 doc_type: statute

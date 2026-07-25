@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.509
 title: "Oregon Liquor and Cannabis Commission hotline for verification of license"
 doc_type: statute

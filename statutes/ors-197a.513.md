@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.513
 title: "Plan amendments; approvals; petition for writ of mandamus"
 doc_type: statute

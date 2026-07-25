@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.415
 title: "Authority to require financial disclosure from licensee"
 doc_type: statute

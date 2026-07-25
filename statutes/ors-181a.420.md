@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.420
 title: "Minimum standards and training requirements inapplicable to certain persons; certification based on experience, education or training"
 doc_type: statute

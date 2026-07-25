@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-6-065
 title: "Pregnant Patient Care Labor and Birth"
 doc_type: policy

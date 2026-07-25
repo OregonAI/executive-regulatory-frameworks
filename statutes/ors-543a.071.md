@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-543a.071
 title: "Water Resources Department notification to holder of hydroelectric license or water right for hydroelectric purposes; response of holder"
 doc_type: statute

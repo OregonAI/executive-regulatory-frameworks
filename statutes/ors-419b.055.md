@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.055
 title: "Action by Attorney General for protective order on behalf of department employee; written request; eligible employees JUVENILE COURT (Generally)"
 doc_type: statute

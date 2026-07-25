@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.125
 title: "Historic cemeteries within exclusive farm use zones; partition; effect of disqualification"
 doc_type: statute

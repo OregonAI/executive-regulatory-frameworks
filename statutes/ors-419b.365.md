@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.365
 title: "Permanent guardianship; petition; when filed; procedure"
 doc_type: statute

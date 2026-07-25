@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.535
 title: "Assistance of Attorney General in obtaining recall notices"
 doc_type: statute

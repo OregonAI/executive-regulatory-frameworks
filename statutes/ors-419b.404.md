@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.404
 title: "Support for child or ward in state financed or supported institution"
 doc_type: statute

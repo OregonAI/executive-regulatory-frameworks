@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.130
 title: "Delegation of jurisdiction by county of residence"
 doc_type: statute

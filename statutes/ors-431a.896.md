@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.896
 title: "Prescription Monitoring Program Prescribing Practices Review Subcommittee"
 doc_type: statute

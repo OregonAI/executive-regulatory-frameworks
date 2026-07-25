@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.142
 title: "Annual limit to cost of facility eligible for tax credits; discretion of director; rules"
 doc_type: statute

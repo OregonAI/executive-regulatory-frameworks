@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-a-1-4
 title: "Apprehension of Escaped Youth from OYA Facilities"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.205
 title: "Effect of productivity increases on qualification of certain firms; uses of tax savings"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.670
 title: "Definitions for ORS 708A.670 and 708A.675"
 doc_type: statute

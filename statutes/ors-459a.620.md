@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.620
 title: "Use of compost or sewage sludge by state agencies given priority (Mercury)"
 doc_type: statute

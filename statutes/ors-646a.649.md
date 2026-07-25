@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.649
 title: "Licensee’s principal place of business and registered agent; assumed business name; display of license; rules"
 doc_type: statute

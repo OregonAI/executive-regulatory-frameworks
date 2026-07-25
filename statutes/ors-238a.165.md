@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.165
 title: "Earliest retirement age; earliest retirement date"
 doc_type: statute

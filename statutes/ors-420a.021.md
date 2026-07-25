@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.021
 title: "Authority of Oregon Youth Authority to require fingerprints"
 doc_type: statute

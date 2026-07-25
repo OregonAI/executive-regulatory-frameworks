@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.135
 title: "Exemptions (Persistent Pollutants)"
 doc_type: statute

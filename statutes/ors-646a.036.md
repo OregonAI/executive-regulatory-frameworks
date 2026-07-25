@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.036
 title: "Contracts and rules; delivery to buyer"
 doc_type: statute

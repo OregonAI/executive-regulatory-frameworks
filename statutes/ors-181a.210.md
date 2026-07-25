@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.210
 title: "Criminal identification information to be furnished to Native American tribe"
 doc_type: statute

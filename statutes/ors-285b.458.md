@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.458
 title: "Grants for assistance to distressed or rural areas; minimum"
 doc_type: statute

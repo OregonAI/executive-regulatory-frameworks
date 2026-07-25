@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.141
 title: "Damages recoverable for harm or theft of assistance animal"
 doc_type: statute

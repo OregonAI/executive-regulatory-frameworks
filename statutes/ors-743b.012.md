@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.012
 title: "Requirement to offer all health benefit plans to small employers; offering of plan by carriers; exceptions"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.343
 title: "Discrimination based on individual’s presentation of identification other than Real ID prohibited; remedies"
 doc_type: statute

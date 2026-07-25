@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.465
 title: "Allowable costs of projects (Revenue Bond Financing)"
 doc_type: statute

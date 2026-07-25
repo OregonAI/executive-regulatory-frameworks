@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-ispo-100-008
 title: "HIPAA: Minimum Necessary Requirements"
 doc_type: policy

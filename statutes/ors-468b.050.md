@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.050
 title: "Water quality permit; issuance by rule or order; rules Note Temporary exemption for treatment works in North Santiam Basin--2025 c.19 §§1,2,3"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.046
 title: "Definition for ORS 419A.046 and 419A.048"
 doc_type: statute

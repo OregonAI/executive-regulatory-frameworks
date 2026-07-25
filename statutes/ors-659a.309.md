@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.309
 title: "Discrimination solely because of employment of another family member prohibited; exceptions"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.110
 title: "Real property improvements and machinery not subject to farm use special assessment (Disqualification)"
 doc_type: statute

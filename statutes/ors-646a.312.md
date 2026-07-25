@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.312
 title: "Termination, cancellation or nonrenewal of retailer agreement; notice; good cause"
 doc_type: statute

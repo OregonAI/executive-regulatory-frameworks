@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.810
 title: "Patent infringement claim made in bad faith; enforcement as unlawful practice; limitations; rules"
 doc_type: statute

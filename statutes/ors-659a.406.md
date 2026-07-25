@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.406
 title: "Aiding or abetting certain discrimination prohibited"
 doc_type: statute

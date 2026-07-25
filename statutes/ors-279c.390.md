@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.390
 title: "Exemption of contracts from bid security and bonds"
 doc_type: statute

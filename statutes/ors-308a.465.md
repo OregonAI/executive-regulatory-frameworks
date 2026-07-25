@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.465
 title: "Inspection by holder; disqualification; notice; requalification; additional tax ADDITIONAL TAXES, PROCEDURES APPLICABLE TO CERTAIN LAND SPECIAL ASSESSMENT PROGR"
 doc_type: statute

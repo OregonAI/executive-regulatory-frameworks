@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-f-3-6
 title: "Youth Legal Materials and Assistance"
 doc_type: policy

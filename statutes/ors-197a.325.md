@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.325
 title: "Review of final decision of city; rules (Planning by Metro Cities and Metro)"
 doc_type: statute

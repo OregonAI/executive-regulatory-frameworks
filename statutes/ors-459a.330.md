@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.330
 title: "Prohibition against charging fee for collection, transportation or recycling of covered electronic devices; exception"
 doc_type: statute

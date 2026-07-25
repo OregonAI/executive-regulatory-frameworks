@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.412
 title: "Contracts for telecommunications equipment and services not to exceed 10 years; exception for broadband infrastructure; contract benefits for designated communi"
 doc_type: statute

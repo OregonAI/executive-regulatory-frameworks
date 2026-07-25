@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.350
 title: "Delivery of unrequested hazardous substances prohibited"
 doc_type: statute

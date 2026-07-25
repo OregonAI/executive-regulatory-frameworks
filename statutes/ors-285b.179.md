@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.179
 title: "Purposes of Microenterprise Development Act"
 doc_type: statute

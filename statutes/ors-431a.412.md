@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.412
 title: "Department of Human Services as lead state agency for clean air shelter operations"
 doc_type: statute

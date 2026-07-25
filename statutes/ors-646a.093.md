@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.093
 title: "Disclosures for handling and shipping consumer goods required in advertisements, offers and sales; penalty"
 doc_type: statute

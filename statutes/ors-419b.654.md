@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.654
 title: "Placement preferences; motion for placement contrary to preferences for good cause"
 doc_type: statute

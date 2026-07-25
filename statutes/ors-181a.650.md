@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.650
 title: "Judicial review of department’s final order; reapplication for certification; rules"
 doc_type: statute

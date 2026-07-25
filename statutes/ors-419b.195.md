@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.195
 title: "Appointment of counsel for child or ward; access of appointed counsel to records of child or ward"
 doc_type: statute

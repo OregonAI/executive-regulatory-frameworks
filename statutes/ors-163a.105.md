@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.105
 title: "When risk assessments performed; classification into risk level; review; rules"
 doc_type: statute

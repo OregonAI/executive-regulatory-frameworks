@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.452
 title: "Distribution of report by court (Child Surrendered for Adoption)"
 doc_type: statute

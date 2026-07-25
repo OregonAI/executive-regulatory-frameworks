@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.512
 title: "Oregon Geographic Information Council Fund; records and reports"
 doc_type: statute

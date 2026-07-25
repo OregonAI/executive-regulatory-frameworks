@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.714
 title: "Article XI-D Bond Fund; purposes"
 doc_type: statute

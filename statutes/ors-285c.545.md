@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.545
 title: "Annual limit to cost of facility in granting tax credits; discretion of director"
 doc_type: statute

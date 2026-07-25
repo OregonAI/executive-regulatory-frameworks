@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.055
 title: "Variance or request for extension to provide opportunity to recycle"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-sr
 title: "Statewide IT Control Standards — Supply Chain Risk Management (SR)"
 doc_type: standard

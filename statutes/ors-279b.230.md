@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.230
 title: "Condition concerning payment for medical care and providing workers’ compensation"
 doc_type: statute

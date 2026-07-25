@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.020
 title: "Qualifying electricity; age of generating facility"
 doc_type: statute

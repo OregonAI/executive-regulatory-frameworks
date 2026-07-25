@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.674
 title: "Imposition of tax on retail sale of marijuana items"
 doc_type: statute

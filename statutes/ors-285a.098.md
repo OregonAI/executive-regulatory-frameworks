@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.098
 title: "Powers of Oregon Infrastructure Finance Authority; administration of federal Community Development Block Grant funding program"
 doc_type: statute

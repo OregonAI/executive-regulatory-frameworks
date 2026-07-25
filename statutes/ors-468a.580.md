@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.580
 title: "Permits; inspections; planting restrictions; civil penalty"
 doc_type: statute

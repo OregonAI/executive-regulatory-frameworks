@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.055
 title: "Examination of facilities; capacity limits; standards for release; notice"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.347
 title: "Continuation of coverage under group policy upon termination of membership in group health insurance policy; applicability of waiting period to rehired employee"
 doc_type: statute

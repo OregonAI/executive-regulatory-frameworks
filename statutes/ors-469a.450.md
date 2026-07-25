@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.450
 title: "Cost cap for electricity service suppliers; comparable exemption and procedures"
 doc_type: statute

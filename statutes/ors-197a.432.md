@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.432
 title: "Siting of manufactured home or prefabricated structure"
 doc_type: statute

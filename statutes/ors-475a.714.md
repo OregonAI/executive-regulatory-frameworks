@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.714
 title: "Suspense account; payment of expenses; crediting balance to Oregon Psilocybin Account"
 doc_type: statute

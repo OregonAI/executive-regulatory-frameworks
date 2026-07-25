@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.145
 title: "Finality of determinations SPECIFICATIONS (General Provisions)"
 doc_type: statute

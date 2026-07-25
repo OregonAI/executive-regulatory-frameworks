@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.287
 title: "Entry of certain convictions related to possession of firearms or ammunition into Law Enforcement Data System and databases of National Crime Information Center"
 doc_type: statute

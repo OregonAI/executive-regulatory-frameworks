@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.615
 title: "Oregon Business Retention and Expansion Program; purpose; agreements; contents; loans"
 doc_type: statute

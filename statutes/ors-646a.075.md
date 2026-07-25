@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.075
 title: "Prohibition on retail pet store sales of dogs and cats; exceptions; information required in connection with permitted sale of dog; penalties"
 doc_type: statute

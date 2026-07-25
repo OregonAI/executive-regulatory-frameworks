@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.122
 title: "Notice of release or discharge of adjudicated youth"
 doc_type: statute

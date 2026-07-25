@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.380
 title: "Tax levy to pay maturing general obligation advance refunding bonds WARRANTS AND CHECKS; INTEREST; UNCLAIMED WARRANTS AND CHECKS;"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.012
 title: "Recidivism; definition; reporting system; duties of Oregon Youth Authority and juvenile departments"
 doc_type: statute

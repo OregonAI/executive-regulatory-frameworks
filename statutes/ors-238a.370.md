@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.370
 title: "Limitation on contributions; rules (Withdrawal by Inactive Member)"
 doc_type: statute

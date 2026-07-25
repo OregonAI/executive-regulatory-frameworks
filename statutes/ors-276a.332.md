@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.332
 title: "Authority of State Chief Information Officer to enter into agreements"
 doc_type: statute

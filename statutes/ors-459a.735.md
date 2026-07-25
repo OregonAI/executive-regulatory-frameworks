@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.735
 title: "Full-service redemption centers; application for approval; contents of approval order; notice; public comment"
 doc_type: statute

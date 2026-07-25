@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.430
 title: "Revenue bonds to finance agricultural projects"
 doc_type: statute

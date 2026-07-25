@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.360
 title: "Rollover contributions; rules (Limitation on Contributions)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.086
 title: "Authorization to lend funds for joint governmental projects or match money; form of loan application; loan limit"
 doc_type: statute

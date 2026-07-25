@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.693
 title: "Prescription Drug Affordability Board; membership and qualifications of members; terms of office; duties; conflicts of interest; rules"
 doc_type: statute

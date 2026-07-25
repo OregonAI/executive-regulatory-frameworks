@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.035
 title: "Implementation of Federal Water Pollution Control Act; rules"
 doc_type: statute

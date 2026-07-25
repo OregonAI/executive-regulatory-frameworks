@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eo-24-15-amended
 title: "(AMENDED) Invocation of Emergency Conflagration Act for the Lone Rock Fire in Gilliam County and Boneyard Fire in Grant County"
 doc_type: executive_order

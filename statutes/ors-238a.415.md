@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.415
 title: "Credit for service in uniformed services; rules (Investment Options)"
 doc_type: statute

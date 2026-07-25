@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.180
 title: "Acquisition of personal property for leasing purposes"
 doc_type: statute

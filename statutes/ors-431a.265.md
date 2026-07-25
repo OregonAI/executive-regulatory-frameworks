@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.265
 title: "Process for waiving requirement to remove or substitute chemicals"
 doc_type: statute

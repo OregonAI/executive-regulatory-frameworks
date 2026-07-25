@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.113
 title: "Ordinance allowing delivery of marijuana items to consumers; prohibition on local tax or fee"
 doc_type: statute

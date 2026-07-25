@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.130
 title: "Requirement to offer bronze and silver plans; rules"
 doc_type: statute

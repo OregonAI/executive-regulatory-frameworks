@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.010
 title: "Definitions for ORS 284.101 to 284.148 and ORS chapters 285A, 285B and 285C"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.113
 title: "Disqualification of exclusive farm use zone farmland; reversal for remediation plan"
 doc_type: statute

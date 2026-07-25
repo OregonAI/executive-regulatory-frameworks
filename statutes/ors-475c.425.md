@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.425
 title: "Penalty for violating ORS 475C.005 to"
 doc_type: statute

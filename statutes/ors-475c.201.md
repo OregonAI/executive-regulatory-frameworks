@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.201
 title: "Authority to delegate certain duties, functions and powers"
 doc_type: statute

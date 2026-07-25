@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.300
 title: "Disclosure of differences in replacement health insurance policies; nonduplication for persons 65 and older; rules (Rescission)"
 doc_type: statute

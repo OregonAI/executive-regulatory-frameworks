@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.220
 title: "Civil penalty for violation of permit requirement"
 doc_type: statute

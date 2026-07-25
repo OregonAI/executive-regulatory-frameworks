@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.010
 title: "Reporting by sex offender discharged, paroled or released from correctional facility or another United States jurisdiction"
 doc_type: statute

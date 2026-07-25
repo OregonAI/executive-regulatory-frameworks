@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-program-plan-2023
 title: "2023 Statewide Information Security Program Plan"
 doc_type: standard

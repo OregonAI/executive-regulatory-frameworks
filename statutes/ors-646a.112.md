@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.112
 title: "Injunction of sham sale; evidence; attorney fees; defense; definitions"
 doc_type: statute

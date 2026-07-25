@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.874
 title: "Authority to designate responsibility for site or dispensary to another person"
 doc_type: statute

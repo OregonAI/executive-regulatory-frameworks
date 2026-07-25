@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.203
 title: "Prohibited conduct by public or nonprofit employer; prohibited conduct by school services employer during public health emergency; remedies"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.153
 title: "Oregon Health Authority rule requirement (Powers and Duties of Oregon Liquor and Cannabis Commission with Respect to Licensees)"
 doc_type: statute

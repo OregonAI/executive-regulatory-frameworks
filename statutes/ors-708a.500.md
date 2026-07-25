@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.500
 title: "Trust account; payment to any trustee; payment to others"
 doc_type: statute

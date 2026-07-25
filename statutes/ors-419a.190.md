@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.190
 title: "Effect of adjudicatory hearing or admission APPEALS"
 doc_type: statute

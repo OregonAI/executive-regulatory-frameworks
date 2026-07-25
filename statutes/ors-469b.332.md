@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.332
 title: "Final certification; eligibility; contents of application; rules"
 doc_type: statute

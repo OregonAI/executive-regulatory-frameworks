@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.064
 title: "Prescription drugs dispensed at rural health clinics"
 doc_type: statute

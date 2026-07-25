@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.331
 title: "When protective supervision authorized; conditions that may be imposed"
 doc_type: statute

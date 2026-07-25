@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.190
 title: "Acceptance of drafts and bills of exchange; issuance of letters of credit; obligation for participation share in bills; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.835
 title: "Notifying commissioner of public works contract subject to prevailing wage; payment of fee"
 doc_type: statute

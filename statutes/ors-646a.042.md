@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.042
 title: "Remedies and obligations supplementary to existing remedies (Manufactured Dwellings)"
 doc_type: statute

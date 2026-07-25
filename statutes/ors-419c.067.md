@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.067
 title: "Case transferred to juvenile court after verdict in criminal court CUSTODY"
 doc_type: statute

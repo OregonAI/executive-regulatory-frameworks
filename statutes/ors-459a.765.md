@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.765
 title: "Recycling and waste reduction component of curriculum; teacher’s guide; informational materials"
 doc_type: statute

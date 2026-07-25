@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.010
 title: "Powers conveyed to public bodies (General Obligation Bonds)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.660
 title: "Funding priorities; port strategic business plans; rules (Oregon Port Revolving Fund)"
 doc_type: statute

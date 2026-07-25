@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.310
 title: "Federal operating permit program approval; rules; content of plan"
 doc_type: statute

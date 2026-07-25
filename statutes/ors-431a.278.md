@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.278
 title: "High Priority Chemicals of Concern for Children’s Health Fund"
 doc_type: statute

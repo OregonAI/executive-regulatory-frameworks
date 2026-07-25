@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.655
 title: "Distributions to assist rural jurisdictions with applications for funding"
 doc_type: statute

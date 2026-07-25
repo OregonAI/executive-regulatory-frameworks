@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.305
 title: "Psilocybin service center operator license; fees; rules"
 doc_type: statute

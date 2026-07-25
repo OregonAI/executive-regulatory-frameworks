@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.410
 title: "Minimum standards and training for certification; duties in improving public safety units; grants; fees; rules"
 doc_type: statute

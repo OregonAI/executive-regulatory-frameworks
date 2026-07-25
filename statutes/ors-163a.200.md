@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.200
 title: "Provision of records by Psychiatric Security Review Board and Oregon Health Authority"
 doc_type: statute

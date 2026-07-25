@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.133
 title: "Detention of youth under 12 years of age; judicial review required"
 doc_type: statute

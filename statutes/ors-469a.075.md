@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.075
 title: "Electric company plan for meeting requirements; commission review; rules (Cost Limitation)"
 doc_type: statute

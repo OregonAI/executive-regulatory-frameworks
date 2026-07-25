@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-e-2-2
 title: "Polygraph Use with Youth Who Have Committed Sexual Offenses - Facility"
 doc_type: policy

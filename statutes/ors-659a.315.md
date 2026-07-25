@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.315
 title: "Restricting use of tobacco in nonworking hours prohibited; exceptions"
 doc_type: statute

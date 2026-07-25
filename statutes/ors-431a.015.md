@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.015
 title: "Authority of Public Health Director to take public health actions; authorized actions; rules"
 doc_type: statute

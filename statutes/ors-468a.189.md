@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.189
 title: "Allocations from Natural and Working Lands Fund; uses of allocated amounts; rules"
 doc_type: statute

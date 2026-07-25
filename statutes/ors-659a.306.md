@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.306
 title: "Requiring employee to pay for medical examination as condition of continued employment prohibited; exceptions (Miscellaneous Provisions)"
 doc_type: statute

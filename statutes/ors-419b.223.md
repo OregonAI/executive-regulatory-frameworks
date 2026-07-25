@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.223
 title: "Duties and tenure of surrogate (Guardian Ad Litem for Parent)"
 doc_type: statute

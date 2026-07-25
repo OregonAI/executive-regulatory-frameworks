@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.276
 title: "Sale of gift card that expires, declines in value, includes fee or does not give option to redeem"
 doc_type: statute
