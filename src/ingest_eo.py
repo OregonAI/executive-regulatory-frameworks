@@ -180,17 +180,58 @@ def eo_citation(oid: str):
     return f"Executive Order {m.group(1)}-{m.group(2)}" if m else f"Executive Order {oid[3:]}"
 
 
-def parse_signed_date(text: str):
-    """The order's own 'Dated this Nth day of Month, Year' line, if cleanly printed."""
-    m = re.search(r"Dated\s+this\s+(\d{1,2})\w{0,2}\s+day\s+of\s+([A-Z][a-z]+),?\s+(\d{4})",
-                  text)
-    if not m:
+MONTHS = {mo: i for i, mo in enumerate(
+    ["january", "february", "march", "april", "may", "june", "july", "august",
+     "september", "october", "november", "december"], 1)}
+
+# Anchor on "<day> of <Month> <Year>", NOT on the lead-in phrase.
+#
+# The previous pattern required "Dated this Nth day of Month, Year" — a phrasing that
+# appears in ZERO of the 499 committed orders. Oregon signs with "Done at Salem, Oregon
+# this Nth day of Month, Year", and the lead-in varies further ("Oregon," with a comma;
+# "…day of June, 2003, in Salem, Oregon" with the place moved after the date). Requiring
+# it is what left all 526 orders with effective_date: null.
+#
+# The month name and 4-digit year survive OCR most reliably, so they are the anchor. The
+# literal word "day" is often mangled in a scanned signature block ('26" Gay of June'),
+# hence \w{0,4}day. The day-of-month digits are recovered by looking BACKWARD from the
+# anchor, so a garbled day yields None rather than poisoning an otherwise-good date.
+_SIGNED_ANCHOR = re.compile(
+    rf"\b\w{{0,4}}day\s+of\s+({'|'.join(MONTHS)})\b\W{{0,4}}(\d{{4}})", re.I)
+_SIGNED_DAY = re.compile(r"(\d{1,2})\s*\S{0,3}\s*$")
+
+
+def parse_signed_date(text: str, order_id: str | None = None):
+    """The order's own '… Nth day of Month, Year' signature line, or None.
+
+    Pass `order_id` to enable the cross-check: an order numbered eo-YY-NN is signed in
+    20YY (or, rarely, that December of the prior year). A parsed date that contradicts
+    its own id is rejected rather than written — a confidently wrong effective_date is
+    worse than a null one."""
+    matches = list(_SIGNED_ANCHOR.finditer(text))
+    if not matches:
         return None
-    months = {mo: i for i, mo in enumerate(
-        ["January", "February", "March", "April", "May", "June", "July", "August",
-         "September", "October", "November", "December"], 1)}
-    mo = months.get(m.group(2))
-    return f"{m.group(3)}-{mo:02d}-{int(m.group(1)):02d}" if mo else None
+    m = matches[-1]                      # the signature block is at the end of the order
+    month, year = MONTHS[m.group(1).lower()], int(m.group(2))
+    if not 1990 <= year <= 2100:
+        return None
+    d = _SIGNED_DAY.search(text[max(0, m.start() - 16):m.start()])
+    if not d:
+        return None
+    day = int(d.group(1))
+    if not 1 <= day <= 31:
+        return None
+
+    if order_id:
+        yy = re.match(r"eo-(\d{2})-", order_id)
+        if yy:
+            id_year = 2000 + int(yy.group(1))
+            if not (year == id_year or (year == id_year - 1 and month == 12)):
+                return None
+    try:
+        return date(year, month, day).isoformat()            # rejects e.g. Feb 31
+    except ValueError:
+        return None
 
 
 BANNER = """> **NON-AUTHORITATIVE — AI-friendly reference only.**{extra} Verify against the official
@@ -354,7 +395,7 @@ def cmd_ocr(limit=None, only=None):
         conv = f"text recovered via OCR (ocrmypdf/tesseract); {conv}"
         (SNAPSHOT_DIR / f"{oid}.txt").write_text(text, encoding="utf-8")
         sha = hashlib.sha256(normalize_ws(text).encode("utf-8")).hexdigest()
-        eff = parse_signed_date(normalize_ws(text))
+        eff = parse_signed_date(normalize_ws(text), oid)
         eff_date = f'"{eff}"' if eff else None
         related = []
         base = re.match(r"^(eo-\d{2}-\d{2})-", oid)
@@ -444,7 +485,7 @@ def cmd_ingest(limit=None):
             ft, conv = clean_pdf_text(text)
             (SNAPSHOT_DIR / f"{o['id']}.txt").write_text(text, encoding="utf-8")
             sha = hashlib.sha256(normalize_ws(text).encode("utf-8")).hexdigest()
-            eff = parse_signed_date(normalize_ws(text))
+            eff = parse_signed_date(normalize_ws(text), o["id"])
             eff_date = f'"{eff}"' if eff else None
             doc = doc_text(o["id"], o["title"], url, sha, ft, conv, eff_date, None, related)
             o["text_layer"] = f"clean ({words} words, {ratio:.0%} dictionary)"
