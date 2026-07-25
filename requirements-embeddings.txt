@@ -1,21 +1,22 @@
 # Optional extra: semantic/vector search for the MCP server.
-# The base install (requirements.txt) stays stdlib-only + `mcp[cli]`; the query engine
-# lazily imports these and falls back to keyword-only search when they're absent, so CI's
-# `mcp_lib --selftest` runs without them. Install only to BUILD the vector index
+# The base install (requirements.txt) stays stdlib-only + the toolkit's mcp[cli] extra;
+# the query engine (src/semantic_search.py) lazily imports these and falls back to
+# keyword-only search when they're absent. Install only to BUILD the vector index
 # (src/build_embeddings.py) or to SERVE semantic queries.
 numpy
 # Only needed to compute the 2-D topic-map projection (src/build_topic_projection.py, run
 # once after a re-embed). The committed projection cache + the HTML generator
 # (build_topic_map.py) need neither umap nor numpy.
 umap-learn
-# Default production backend: static (model2vec) embeddings — token-vector lookup, no
-# transformer forward pass, so it embeds ~10k texts/sec on CPU (a transformer manages
-# ~1-2/sec at this text length). Retrieval quality is lower than a transformer but clearly
-# separates related from unrelated concepts, which is what the vector arm of hybrid search
-# needs. Default model: minishlab/potion-retrieval-32M.
+# CPU-appropriate fallback backend: static (model2vec) embeddings — token-vector lookup,
+# no transformer forward pass, so it embeds ~10k texts/sec on CPU. Auto-selected by
+# `--backend auto` only when no CUDA GPU is available (see torch below).
 model2vec
-# Optional higher-quality transformer backend (--backend sentence-transformers), practical
-# only with a GPU or a small corpus; far too slow for a large corpus on CPU. torch must
-# come from the CPU wheel index:
+# Production backend given a GPU (auto-selected by `--backend auto` when
+# torch.cuda.is_available()): BAAI/bge-large-en-v1.5, chunk-level embedding. On a
+# CUDA-capable host, plain `pip install torch` resolves a CUDA-enabled wheel (matches
+# your installed driver automatically on recent pip/torch). CPU-only hosts should
+# instead use:
 #   pip install torch --index-url https://download.pytorch.org/whl/cpu
-# sentence-transformers
+torch
+sentence-transformers

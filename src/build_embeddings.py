@@ -2,35 +2,38 @@
 """Build the semantic-search vector index for the MCP server (optional workstream).
 
 An offline, run-once-after-ingest step (like link_graph.py): embed every content
-document with a LOCAL model (one vector per document — title + At-a-glance + head of
-full text) and write an int8-quantized vector artifact under _meta/embeddings/ that the
-MCP query engine (src/mcp_lib.py) loads for hybrid BM25+vector search.
+document, CHUNK-level (one vector per ~1600-char chunk, title-prefixed for context —
+see iter_chunks/chunk_text), and write an int8-quantized vector artifact under
+_meta/embeddings/ that the MCP query engine (src/semantic_search.py, wired into the
+corpus-toolkit MCP framework via plugins.semantic_search_module) loads for hybrid
+BM25+vector search.
 
   python3 src/build_embeddings.py                 # build/refresh the index
   python3 src/build_embeddings.py --check         # exit 1 if artifact is stale (CI)
   python3 src/build_embeddings.py --limit 500     # embed a subset (dev/smoke)
-  python3 src/build_embeddings.py --backend sentence-transformers
+  python3 src/build_embeddings.py --backend model2vec
 
-Backends (auto: model2vec -> sentence-transformers -> hashing; override with --backend):
-  - model2vec              PRODUCTION DEFAULT. Static embeddings (default
+Backends (auto: sentence-transformers when a CUDA GPU is available, else model2vec,
+else hashing; override with --backend):
+  - sentence-transformers  PRODUCTION DEFAULT ON GPU. Higher quality than model2vec
+                           (default BAAI/bge-large-en-v1.5, 1024-dim). A GPU removes
+                           the "~1-2 texts/sec on CPU" penalty that made this
+                           impractical for a corpus this size before — device-aware
+                           (cuda if available), fp16 + batch_size 128 on GPU.
+  - model2vec              CPU-appropriate fallback. Static embeddings (default
                            minishlab/potion-retrieval-32M) — token-vector lookup, no
-                           transformer forward pass, so ~10k texts/sec on CPU. The right
-                           choice for a CPU-only host; a transformer manages ~1-2/sec at
-                           this text length (a ~13h build over this corpus).
-  - sentence-transformers  Higher quality but ~1-2 texts/sec on CPU — practical only with
-                           a GPU or a small corpus (default BAAI/bge-small-en-v1.5).
+                           transformer forward pass, so ~10k texts/sec on CPU.
   - hashing                ZERO-DEPENDENCY fallback: hashed char-ngram bag-of-words. NO
                            semantic quality — only for wiring the pipeline / CI tests.
 
 Artifact (under _meta/embeddings/, committed to git):
-  vectors.i8.npy   int8 [n_docs, dim]  — each row an L2-normalized embedding × 127
-  chunks.jsonl     one JSON object per row (one per doc): {doc_id, heading, ordinal, preview}
-  meta.json        {backend, model, dim, granularity, n_chunks, fingerprint, repr_chars}
+  vectors.i8.npy   int8 [n_chunks, dim]  — each row an L2-normalized embedding × 127
+  chunks.jsonl     one JSON object per row (one per CHUNK): {doc_id, heading, ordinal, preview}
+  meta.json        {backend, model, dim, granularity, n_chunks, fingerprint, chunk_chars, chunk_overlap}
 
 Dependency policy: this BUILD tool requires numpy (+ a model backend). The SERVE
-side (mcp_lib) lazily imports numpy and falls back to pure FTS keyword search when
-the artifact or numpy is absent — so the base install stays stdlib-only and the CI
-`mcp_lib --selftest` runs without extra deps.
+side lazily imports numpy and falls back to pure FTS keyword search when the
+artifact or numpy is absent — so the base install stays stdlib-only.
 """
 import argparse
 import hashlib
@@ -46,8 +49,8 @@ VECTORS = EMB_DIR / "vectors.i8.npy"
 CHUNKS = EMB_DIR / "chunks.jsonl"
 META = EMB_DIR / "meta.json"
 
-DEFAULT_M2V = "minishlab/potion-retrieval-32M"      # static, CPU-fast (default backend)
-DEFAULT_MODEL = "BAAI/bge-small-en-v1.5"             # transformer (--backend sentence-transformers)
+DEFAULT_M2V = "minishlab/potion-retrieval-32M"      # static, CPU-fast fallback backend
+DEFAULT_MODEL = "BAAI/bge-large-en-v1.5"             # transformer (GPU default; 1024-dim)
 CHUNK_CHARS = 1600     # ~400 tokens
 OVERLAP = 200
 
@@ -178,34 +181,58 @@ class Model2VecEmbedder:
 
 
 class SentenceTransformerEmbedder:
-    """Transformer backend — higher quality than model2vec but ~1-2 texts/sec on CPU, so
-    only practical with a GPU or for a small corpus. Rebuild with --backend
-    sentence-transformers where compute allows."""
+    """Transformer backend — higher quality than model2vec. Device-aware: uses CUDA
+    + fp16 + a larger batch when a GPU is available (removing the "~1-2 texts/sec on
+    CPU" penalty that made this backend impractical before), falls back to fp32/CPU
+    with a conservative batch size otherwise. Rebuild with --backend
+    sentence-transformers (or let --backend auto pick it up on a GPU host)."""
     name = "sentence-transformers"
 
     def __init__(self, model=DEFAULT_MODEL):
+        import torch
         from sentence_transformers import SentenceTransformer
         self.model = model or DEFAULT_MODEL
-        self._m = SentenceTransformer(self.model)
-        self.dim = self._m.get_sentence_embedding_dimension()
+        self.device = "cuda" if torch.cuda.is_available() else "cpu"
+        self._m = SentenceTransformer(self.model, device=self.device)
+        if self.device == "cuda":
+            self._m.half()  # fp16 on GPU: ~2x throughput, negligible retrieval-quality cost
+        get_dim = getattr(self._m, "get_embedding_dimension", None) or \
+            self._m.get_sentence_embedding_dimension
+        self.dim = get_dim()
+        # 128 comfortably fits an 8GB card for bge-large-length chunks in fp16; lower
+        # this if you hit a CUDA OOM on a smaller card.
+        self.batch_size = 128 if self.device == "cuda" else 32
 
     def encode(self, texts):
-        return self._m.encode(texts, normalize_embeddings=True,
-                              batch_size=64, show_progress_bar=False).astype("float32")
+        return self._m.encode(list(texts), normalize_embeddings=True,
+                              batch_size=self.batch_size,
+                              show_progress_bar=False).astype("float32")
 
 
 def make_embedder(backend, dim, model=None):
     """Build the embedder for a given backend. `model` is honored so the SERVE side
-    (mcp_lib) reconstructs the SAME model the committed index was built with — using a
-    different query model against those vectors would return silent garbage."""
+    (src/semantic_search.py) reconstructs the SAME model the committed index was built
+    with — using a different query model against those vectors would return silent
+    garbage."""
     if backend == "hashing":
         return HashingEmbedder(dim=dim, model=model or "hashing-ngram-v1")
     if backend == "model2vec":
         return Model2VecEmbedder(model)
     if backend == "sentence-transformers":
         return SentenceTransformerEmbedder(model)
-    # auto: static model2vec (CPU-appropriate) -> transformer -> hashing fallback
-    for ctor in (lambda: Model2VecEmbedder(model), lambda: SentenceTransformerEmbedder(model)):
+    # auto: prefer the transformer backend when a GPU is available — a GPU removes the
+    # CPU throughput penalty that made model2vec's lower-quality static embeddings the
+    # right tradeoff before, so higher retrieval quality is now the free default. Falls
+    # back to model2vec (CPU-appropriate), then hashing, when no GPU/model is available.
+    try:
+        import torch
+        gpu = torch.cuda.is_available()
+    except ImportError:
+        gpu = False
+    ctors = [lambda: SentenceTransformerEmbedder(model), lambda: Model2VecEmbedder(model)]
+    if not gpu:
+        ctors.reverse()
+    for ctor in ctors:
         try:
             return ctor()
         except Exception:
@@ -222,29 +249,18 @@ def quantize_int8(vecs):
     return np.clip(np.rint(vecs * 127.0), -127, 127).astype(np.int8)
 
 
-REPR_CHARS = 1400   # ~350 tokens: title + At-a-glance + head of full text
-BATCH = 256         # encode/report granularity
-
-
-def doc_repr(path):
-    """One representative text per document for a single embedding: title +
-    At-a-glance + the head of the full text. Doc-level (one vector per doc) is the
-    right granularity for a CPU-only build over a ~68k-doc corpus — search returns
-    documents, and BM25 covers full-text keyword recall in the hybrid path. (Per-chunk
-    embedding is 5-10x the cost for marginal ranking gain here.)"""
-    fm, body = parse_frontmatter(path)
-    parts = [fm.get("title", "")]
-    glance = _section(body, "At a glance")
-    if glance:
-        parts.append(glance)
-    ft = extract_fulltext(body) or _section(body, "Key provisions")
-    if ft:
-        parts.append(ft)
-    text = re.sub(r"[ \t]+", " ", "\n".join(p for p in parts if p)).strip()
-    return fm["id"], text[:REPR_CHARS]
+BATCH = 256         # encode/report granularity (outer loop; the embedder's own
+                    # batch_size — see SentenceTransformerEmbedder — governs actual
+                    # GPU/CPU batching within each call)
 
 
 def build(backend="auto", limit=None, dim=384):
+    """Embed every chunk of every document (see iter_chunks/chunk_text — full-
+    document coverage, not a head-truncated per-doc summary) and write the vector
+    artifact. Chunk-level was always the design (chunks.jsonl already stores
+    heading/ordinal per row, and the serve side already dedupes to best-chunk-per-doc
+    — see semantic_search.py's _semantic_doc_order equivalent); doc-level embedding
+    was the CPU-appropriate shortcut. A GPU removes the reason for that shortcut."""
     import time
 
     import numpy as np
@@ -253,18 +269,19 @@ def build(backend="auto", limit=None, dim=384):
         paths = paths[:limit]
     emb = make_embedder(backend, dim)
 
-    ids, texts, previews = [], [], []
-    for p in paths:
-        did, text = doc_repr(p)
-        if not text:
-            continue
-        ids.append(did); texts.append(text); previews.append(text[:160])
+    ids, headings, ordinals, texts, previews = [], [], [], [], []
+    for doc_id, heading, ordinal, title, chunk in iter_chunks(paths):
+        ids.append(doc_id); headings.append(heading); ordinals.append(ordinal)
+        # title-prefixed so a chunk deep in a long document still carries the
+        # document's own identity for retrieval, not just its local text
+        texts.append(f"{title}\n\n{chunk}" if title else chunk)
+        previews.append(chunk[:160])
     n = len(texts)
     if not n:
         print("no documents to embed")
         return
 
-    print(f"embedding {n} documents ({emb.name}, doc-level) …", flush=True)
+    print(f"embedding {n} chunks across {len(set(ids))} documents ({emb.name}) …", flush=True)
     out = np.empty((n, emb.dim), dtype=np.int8)
     t0 = time.time()
     for start in range(0, n, BATCH):
@@ -274,24 +291,28 @@ def build(backend="auto", limit=None, dim=384):
         if done % (BATCH * 4) == 0 or done == n:
             rate = done / max(time.time() - t0, 1e-6)
             eta = (n - done) / max(rate, 1e-6)
-            print(f"  {done}/{n} ({done*100//n}%) · {rate:.1f} docs/s · "
+            print(f"  {done}/{n} ({done*100//n}%) · {rate:.1f} chunks/s · "
                   f"ETA {eta/60:.0f} min", flush=True)
 
     EMB_DIR.mkdir(parents=True, exist_ok=True)
     np.save(VECTORS, out)
     with CHUNKS.open("w", encoding="utf-8") as f:
         for i in range(n):
-            f.write(json.dumps({"doc_id": ids[i], "heading": "doc", "ordinal": 0,
-                                "preview": previews[i]}, ensure_ascii=False) + "\n")
+            f.write(json.dumps({"doc_id": ids[i], "heading": headings[i],
+                                "ordinal": ordinals[i], "preview": previews[i]},
+                               ensure_ascii=False) + "\n")
     META.write_text(json.dumps({
         "backend": emb.name, "model": getattr(emb, "model", ""), "dim": int(emb.dim),
-        "granularity": "document", "n_chunks": n,
-        "fingerprint": corpus_fingerprint(paths), "repr_chars": REPR_CHARS,
-        "note": ("one int8 vector per document (title + At-a-glance + head of full text), "
-                 "L2-normalized*127; cosine ≈ int32 dot / 127^2. Rebuild with "
+        "granularity": "chunk", "n_chunks": n,
+        "fingerprint": corpus_fingerprint(paths),
+        "chunk_chars": CHUNK_CHARS, "chunk_overlap": OVERLAP,
+        "note": ("one int8 vector per CHUNK (title-prefixed text, paragraph-chunked at "
+                 "~chunk_chars chars with overlap — see chunk_text()), L2-normalized*127; "
+                 "cosine ≈ int32 dot / 127^2. Multiple chunks share a doc_id; the serve "
+                 "side dedupes to each document's best-scoring chunk. Rebuild with "
                  "src/build_embeddings.py after any ingest."),
     }, indent=1) + "\n")
-    print(f"embedded {n} documents ({emb.name}, dim={emb.dim}) -> "
+    print(f"embedded {n} chunks ({emb.name}, dim={emb.dim}) -> "
           f"{VECTORS.relative_to(REPO_ROOT)}", flush=True)
 
 
