@@ -41,7 +41,7 @@ from repo_lib import REPO_ROOT
 BASE = "https://oregon.public.law"
 INDEX_URL = f"{BASE}/rules"
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
-UA = "oregon-policy-repo (+https://github.com/morficflux/oregon-policy-repo)"
+UA = "executive-regulatory-frameworks (+https://github.com/OregonAI/executive-regulatory-frameworks)"
 
 ENTRY_RE = re.compile(
     r'<dt class="col-sm-2">[^<]*</dt>\s*'

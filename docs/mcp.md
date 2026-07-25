@@ -44,7 +44,7 @@ reconstructs the same one the committed vectors were built with).
 ## Local setup (stdio)
 
 ```bash
-git clone https://github.com/morficflux/oregon-policy-repo && cd oregon-policy-repo
+git clone https://github.com/OregonAI/executive-regulatory-frameworks && cd executive-regulatory-frameworks
 uv venv .venv --system-site-packages && uv pip install --python .venv/bin/python "mcp[cli]"
 # Claude Code:
 claude mcp add oregon-policy -- "$PWD/.venv/bin/python" "$PWD/src/mcp_server.py"

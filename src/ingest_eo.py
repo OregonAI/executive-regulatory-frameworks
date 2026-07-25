@@ -70,7 +70,7 @@ def fetch_rows():
     body = json.dumps({"parameters": {"__metadata": {"type": "SP.RenderListDataParameters"},
                                       "RenderOptions": 2, "ViewXml": viewxml}}).encode()
     req = urllib.request.Request(url, data=body, headers={
-        "User-Agent": "oregon-policy-repo (+https://github.com/morficflux/oregon-policy-repo)",
+        "User-Agent": "executive-regulatory-frameworks (+https://github.com/OregonAI/executive-regulatory-frameworks)",
         "Accept": "application/json;odata=verbose",
         "Content-Type": "application/json;odata=verbose"})
     with urllib.request.urlopen(req, timeout=60) as resp:

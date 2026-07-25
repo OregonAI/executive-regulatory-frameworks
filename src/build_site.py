@@ -19,7 +19,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 SITE = REPO / "site"
-REPO_URL = "https://github.com/morficflux/oregon-policy-repo"
+REPO_URL = "https://github.com/OregonAI/executive-regulatory-frameworks"
 MCP_URL = "https://mcp.morficflux.com/mcp"
 
 # (title, filename, one-line description) — copied into site/ and shown in the gallery
