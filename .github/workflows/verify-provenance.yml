@@ -1,8 +1,9 @@
 name: verify-provenance
 
-# PRs and pushes verify only the CHANGED files (fast); the nightly cron (and manual
-# workflow_dispatch) run the full-corpus verification — at ~68k files a full pass is far
-# too slow for a per-PR gate.
+# PRs and pushes verify only the CHANGED files (corpus-toolkit's reusable workflow
+# branches on github.event_name itself); the nightly cron (and manual
+# workflow_dispatch) run the full-corpus verification — at ~69k files a full pass is
+# far too slow for a per-PR gate.
 on:
   push:
     branches: [main]
@@ -13,25 +14,6 @@ on:
 
 jobs:
   verify:
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          # full history so --changed can compute the merge-base with the PR base
-          fetch-depth: 0
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: pip install pyyaml
-      - name: Verify provenance
-        run: |
-          case "${{ github.event_name }}" in
-            pull_request)
-              git fetch --no-tags origin "${{ github.base_ref }}"
-              python3 src/verify_provenance.py --changed "origin/${{ github.base_ref }}" -j2 ;;
-            push)
-              python3 src/verify_provenance.py --changed "${{ github.event.before }}" -j2 ;;
-            *)  # schedule / workflow_dispatch — full corpus
-              python3 src/verify_provenance.py -j2 ;;
-          esac
+    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.0.5
+    with:
+      jobs: "2"

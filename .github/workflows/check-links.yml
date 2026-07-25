@@ -1,26 +1,17 @@
 name: check-links
 
-# Link-checking 68k markdown files hits every external URL — far too slow (and too noisy
-# to external hosts) for a per-PR gate, and link rot shouldn't block a merge. Runs weekly
-# and on manual dispatch only.
+# Link-checking ~69k markdown files hits every external URL — far too slow (and too
+# noisy to external hosts) for a per-PR gate, and link rot shouldn't block a merge.
+# Runs weekly and on manual dispatch only.
 on:
   workflow_dispatch:
   schedule:
     - cron: "17 9 * * 1" # weekly, Monday 09:17 UTC
 
 jobs:
-  lychee:
-    runs-on: ubuntu-latest
-    timeout-minutes: 40
-    steps:
-      - uses: actions/checkout@v4
-      - name: Check Markdown links
-        uses: lycheeverse/lychee-action@v2
-        with:
-          args: >-
-            --no-progress
-            --accept 200..=299,403,429
-            --exclude-path _meta/snapshots
-            --exclude-path _meta/templates
-            "**/*.md" llms.txt
-          fail: true
+  links:
+    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.0.5
+    with:
+      exclude-paths: |
+        _meta/snapshots
+        _meta/templates
