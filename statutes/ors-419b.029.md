@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.029
 title: "Power to subpoena documents and records in child abuse investigations"
 doc_type: statute

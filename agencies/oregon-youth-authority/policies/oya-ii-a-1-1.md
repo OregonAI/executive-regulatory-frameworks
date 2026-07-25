@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-a-1-1
 title: "Facility Safety and Security Reviews"
 doc_type: policy

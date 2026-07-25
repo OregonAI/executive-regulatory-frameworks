@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.409
 title: "Wildlife habitat conservation and management plans; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.425
 title: "Violation based on facially neutral housing policy"
 doc_type: statute

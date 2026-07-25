@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-543a.045
 title: "Public scoping meeting"
 doc_type: statute

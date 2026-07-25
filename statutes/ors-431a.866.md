@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.866
 title: "Prescribing practices"
 doc_type: statute

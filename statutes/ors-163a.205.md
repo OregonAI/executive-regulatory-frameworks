@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.205
 title: "Provision of records by Oregon Health Authority"
 doc_type: statute

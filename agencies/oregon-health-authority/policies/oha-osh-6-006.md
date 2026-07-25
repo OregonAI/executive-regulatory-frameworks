@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-6-006
 title: "Ongrounds Offgrounds Movement (ADMINISTRATIVE DIRECTIVE)"
 doc_type: policy

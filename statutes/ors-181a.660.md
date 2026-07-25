@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.660
 title: "Oregon Center for Policing Excellence; purpose; rules (Police Memorial Trust Fund)"
 doc_type: statute

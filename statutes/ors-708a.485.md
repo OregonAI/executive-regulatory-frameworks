@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.485
 title: "Payment of deposit in multiple-party account to one or more parties; institution not required to determine source or use of funds in account"
 doc_type: statute

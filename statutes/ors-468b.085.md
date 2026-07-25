@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.085
 title: "Depositing vehicles or manufactured structures into water prohibited"
 doc_type: statute

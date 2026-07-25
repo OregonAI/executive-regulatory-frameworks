@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.406
 title: "Presumption of reasonable attempt to conform; extension of time for repairs; notice to manufacturer"
 doc_type: statute

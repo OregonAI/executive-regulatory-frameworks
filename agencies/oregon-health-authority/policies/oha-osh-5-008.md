@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-5-008
 title: "Equal Opportunity Employment or Non-Discrimination"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.837
 title: "Authority to require fingerprints of applicants and other individuals"
 doc_type: statute

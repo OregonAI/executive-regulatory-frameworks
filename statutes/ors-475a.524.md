@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.524
 title: "Preemption of municipal charter amendments and local ordinances"
 doc_type: statute

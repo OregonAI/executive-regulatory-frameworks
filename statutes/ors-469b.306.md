@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.306
 title: "Policies and procedures; standards for single energy conservation project; rules"
 doc_type: statute

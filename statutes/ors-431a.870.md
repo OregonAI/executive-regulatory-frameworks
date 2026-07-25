@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.870
 title: "Duty of pharmacist to fill prescription"
 doc_type: statute

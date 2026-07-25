@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.069
 title: "Exemption from requirement to obtain land use compatibility statement"
 doc_type: statute

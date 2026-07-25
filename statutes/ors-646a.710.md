@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.710
 title: "Foreclosure consulting contract; requirements; void provisions"
 doc_type: statute

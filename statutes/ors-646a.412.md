@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.412
 title: "Action in court; damages if manufacturer does not act in good faith; attorney fees; expert witness fees; costs"
 doc_type: statute

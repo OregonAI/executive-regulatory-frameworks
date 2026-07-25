@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.555
 title: "Policy to reduce open field burning"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.284
 title: "Alternative mechanism for disclosure of costs and charges"
 doc_type: statute

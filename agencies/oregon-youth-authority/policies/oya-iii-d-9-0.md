@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-d-9-0
 title: "Youth Identification/Driver's Licenses/Permits"
 doc_type: policy

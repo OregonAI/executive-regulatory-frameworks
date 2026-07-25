@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.180
 title: "Financial assistance programs to support broadband access; rules"
 doc_type: statute

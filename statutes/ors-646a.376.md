@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.376
 title: "Enforcement; civil penalty WARRANTY REGULATION AND ENFORCEMENT (Enforcement of Express Warranties on New Motor Vehicles)"
 doc_type: statute

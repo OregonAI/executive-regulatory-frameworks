@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.200
 title: "Definitions for ORS 279B.200 to"
 doc_type: statute

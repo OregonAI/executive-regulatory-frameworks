@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.170
 title: "Latest retirement date; required minimum distributions; rules (Pension)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.355
 title: "Power of Oregon Health Authority to regulate lead-based paint activities and renovation; fees"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.620
 title: "Concentration and servings limits; rules"
 doc_type: statute

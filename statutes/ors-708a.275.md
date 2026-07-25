@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.275
 title: "Establishment of loan production office; notice; fee"
 doc_type: statute

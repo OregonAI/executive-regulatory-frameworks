@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.570
 title: "Parent or guardian summoned subject to jurisdiction of court; probation contract"
 doc_type: statute

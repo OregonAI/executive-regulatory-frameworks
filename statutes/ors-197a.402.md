@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.402
 title: "Local approval of land division or construction of housing; conditions of approval"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.853
 title: "Notices to customer required before repairing consumer equipment"
 doc_type: statute

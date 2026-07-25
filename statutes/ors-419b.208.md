@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.208
 title: "Other law applicable to appointment of counsel"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.290
 title: "Industry Competitiveness Fund; uses (Temporary provisions relating to outdoor gear and apparel industry grants are compiled as notes following ORS 285B.290) STA"
 doc_type: statute

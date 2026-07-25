@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.315
 title: "Travel expenses of party summoned"
 doc_type: statute

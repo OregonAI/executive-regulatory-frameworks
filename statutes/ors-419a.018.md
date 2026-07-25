@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.018
 title: "Juvenile department is county agency"
 doc_type: statute

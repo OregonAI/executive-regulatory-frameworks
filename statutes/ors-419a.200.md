@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.200
 title: "Who may appeal; time limitations; procedure; effect of filing appeal; record on appeal; disclosure"
 doc_type: statute

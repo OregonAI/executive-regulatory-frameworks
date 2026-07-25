@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.105
 title: "Emergency Medical Services for Children Program; duties of Oregon Health Authority"
 doc_type: statute

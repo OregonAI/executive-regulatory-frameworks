@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.195
 title: "Underground injection control program of federal Safe Drinking Water Act; rules; fees"
 doc_type: statute

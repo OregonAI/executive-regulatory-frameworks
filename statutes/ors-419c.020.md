@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.020
 title: "Notice to parents or guardian of youth; when given; contents"
 doc_type: statute

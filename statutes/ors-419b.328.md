@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.328
 title: "Ward of the court; duration of wardship"
 doc_type: statute

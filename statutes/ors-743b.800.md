@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.800
 title: "Risk adjustment procedures; rules (Temporary provisions relating to the Oregon Reinsurance Program are compiled as notes following ORS 743B.800)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.531
 title: "Notice to victim; opportunity to be heard; request for reconsideration"
 doc_type: statute

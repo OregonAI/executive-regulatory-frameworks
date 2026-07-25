@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.030
 title: "Hearing on issue of reporting by sex offender adjudicated in juvenile court; right to counsel"
 doc_type: statute

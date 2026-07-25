@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.325
 title: "Repurchase of motor vehicle by manufacturer; notice to dealer; contents of notice; notice to prospective buyer"
 doc_type: statute

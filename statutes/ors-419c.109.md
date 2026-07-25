@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.109
 title: "Initial disposition of youth taken into custody"
 doc_type: statute

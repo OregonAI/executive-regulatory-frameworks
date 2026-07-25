@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.410
 title: "Informal dispute settlement procedure; recordkeeping; review by Department of Justice"
 doc_type: statute

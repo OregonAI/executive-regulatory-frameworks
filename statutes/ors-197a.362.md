@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.362
 title: "Timing of Metro accommodation of needed housing; lands for public schools"
 doc_type: statute

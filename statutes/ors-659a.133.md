@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.133
 title: "Medical examinations and inquiries of job applicants"
 doc_type: statute

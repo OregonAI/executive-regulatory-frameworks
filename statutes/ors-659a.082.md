@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.082
 title: "Discrimination against person for service in uniformed service prohibited (Leave of Absence for State Service)"
 doc_type: statute

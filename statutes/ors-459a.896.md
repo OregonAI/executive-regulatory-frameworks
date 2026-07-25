@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.896
 title: "Other duties of producer responsibility organization (Oregon Recycling System Advisory Council)"
 doc_type: statute

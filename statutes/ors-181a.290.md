@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.290
 title: "Certain information required from agencies; rules"
 doc_type: statute

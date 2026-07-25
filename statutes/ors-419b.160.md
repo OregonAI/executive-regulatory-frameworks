@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.160
 title: "Prohibition on detention; exceptions; place of holding; record; parental notice required"
 doc_type: statute

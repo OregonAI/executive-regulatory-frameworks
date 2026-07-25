@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.250
 title: "Required notices to applicants and enrollees; grievances, internal appeals and external reviews; reports to department"
 doc_type: statute

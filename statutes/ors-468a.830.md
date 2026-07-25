@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.830
 title: "Program for environmental and public health impacts of smoke"
 doc_type: statute

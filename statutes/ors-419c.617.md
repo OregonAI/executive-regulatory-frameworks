@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.617
 title: "Time limitation for certain adults seeking relief under ORS 419C.615"
 doc_type: statute

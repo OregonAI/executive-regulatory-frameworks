@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-d-6-0
 title: "Customer Service"
 doc_type: policy

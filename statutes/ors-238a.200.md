@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.200
 title: "Actuarial equivalency factor tables (Cost-of-Living Adjustment)"
 doc_type: statute

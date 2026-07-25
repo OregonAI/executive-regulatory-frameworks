@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.104
 title: "Report on children and wards in substitute care"
 doc_type: statute

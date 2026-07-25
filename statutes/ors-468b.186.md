@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.186
 title: "Comment on action plan; final action plan; report"
 doc_type: statute

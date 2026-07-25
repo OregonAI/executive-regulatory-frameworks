@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.830
 title: "Exception to registration requirement (Ownership of Premises used for Marijuana Grow Site, Marijuana Processing Site)"
 doc_type: statute

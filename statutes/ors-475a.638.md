@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.638
 title: "Authority to require preapproval of packaging; fees"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.300
 title: "Information systems security in executive department; rules"
 doc_type: statute

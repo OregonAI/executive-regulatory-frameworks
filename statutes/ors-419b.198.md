@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.198
 title: "Responsibility for payment of costs related to provision of appointed counsel for child or ward"
 doc_type: statute

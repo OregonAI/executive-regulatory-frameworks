@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-a-2-0
 title: "Searches of Youth and Youth Property in OYA Facilities"
 doc_type: policy

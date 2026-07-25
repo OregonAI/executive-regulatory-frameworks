@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.130
 title: "Preference for exceeding Buy America requirements for transit projects; rules"
 doc_type: statute

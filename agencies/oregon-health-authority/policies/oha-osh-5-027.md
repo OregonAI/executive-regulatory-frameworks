@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-5-027
 title: "Performance Management Plan"
 doc_type: policy

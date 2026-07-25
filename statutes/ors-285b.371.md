@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.371
 title: "State interest in eligible projects not necessary for loans; security INFRASTRUCTURE PROJECTS (Generally)"
 doc_type: statute

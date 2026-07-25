@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.128
 title: "Provisions prohibited in lease-purchase agreements"
 doc_type: statute

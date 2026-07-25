@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.519
 title: "Notification of employers under Worker Adjustment and Retraining Notification Act"
 doc_type: statute

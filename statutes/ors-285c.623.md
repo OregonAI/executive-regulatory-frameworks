@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.623
 title: "Strategic investment zones; designation; community services fee agreement; distribution of fee proceeds"
 doc_type: statute

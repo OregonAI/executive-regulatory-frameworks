@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.635
 title: "Determination of personal income tax revenue; distributions to counties; annual limit; rules"
 doc_type: statute

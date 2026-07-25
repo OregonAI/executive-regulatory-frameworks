@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-6-011
 title: "Treatment Care Planning (ADMINISTRATIVE DIRECTIVE)"
 doc_type: policy

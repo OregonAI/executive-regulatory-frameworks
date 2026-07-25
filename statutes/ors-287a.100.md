@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.100
 title: "Authority of county to issue general obligation bonds"
 doc_type: statute

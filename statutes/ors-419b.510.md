@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.510
 title: "Termination upon finding child conceived as result of rape"
 doc_type: statute

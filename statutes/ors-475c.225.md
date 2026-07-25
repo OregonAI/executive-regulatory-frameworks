@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.225
 title: "Prohibition against employing persons under 21 years of age"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.570
 title: "Prompt payment policy; progress payments; retainage; interest; exception; settlement of compensation disputes (Subcontractors)"
 doc_type: statute

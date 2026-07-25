@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.112
 title: "Requirement to certify that contractor has policy and practice of preventing sexual harassment, sexual assault and discrimination against employees who are memb"
 doc_type: statute

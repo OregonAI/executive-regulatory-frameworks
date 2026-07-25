@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.279
 title: "Required posting of summaries of statutes and rules"
 doc_type: statute

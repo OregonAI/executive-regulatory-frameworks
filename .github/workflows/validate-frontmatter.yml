@@ -1,9 +1,9 @@
 name: validate-frontmatter
 
-# PRs and pushes validate only the CHANGED files plus the fast/moderate staleness gates;
-# the two heaviest full-corpus scans (review_queue, enrich_oar) and the full-corpus
-# frontmatter validation run only nightly (cron) and on manual dispatch — at ~68k files
-# they blow past a reasonable per-PR budget.
+# PRs and pushes validate only the CHANGED files (corpus-toolkit's reusable workflow
+# branches on github.event_name itself); the full-corpus frontmatter validation plus
+# every generated-file staleness gate below run nightly + on manual dispatch — at
+# ~69k files they blow past a reasonable per-PR budget.
 on:
   push:
     branches: [main]
@@ -13,28 +13,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  validate:
+  frontmatter:
+    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.0.5
+    # jobs: left unset — the CLI auto-detects the runner's own cpu_count rather than
+    # a hardcoded worker number, so this scales automatically with whatever runner
+    # (GitHub-hosted or self-hosted) actually executes it.
+
+  generated-views:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # full history so --changed can compute the merge-base
+          fetch-depth: 0   # some of these scripts read git history
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install pyyaml jsonschema
-      - name: Validate frontmatter
-        run: |
-          case "${{ github.event_name }}" in
-            pull_request)
-              git fetch --no-tags origin "${{ github.base_ref }}"
-              python3 src/validate_frontmatter.py --changed "origin/${{ github.base_ref }}" -j2 ;;
-            push)
-              python3 src/validate_frontmatter.py --changed "${{ github.event.before }}" -j2 ;;
-            *)  # schedule / workflow_dispatch — full corpus
-              python3 src/validate_frontmatter.py -j2 ;;
-          esac
+      - run: pip install pyyaml
 
       # --- generated-file staleness gates (moderate; every run) ---
       - name: Relationship graph must be current
@@ -71,17 +66,40 @@ jobs:
         run: python3 src/build_conflict_candidates.py --check
 
       # --- heaviest full-corpus scans: nightly / on-demand only ---
-      # agency_profile/mcp_lib selftests moved here: both scan every one of ~68k files'
-      # frontmatter with no cross-process cache (agency_profile's in-memory stats cache only
-      # helps a long-lived process like the MCP server, not a fresh CI checkout), so each now
-      # takes several minutes — too slow for the per-PR fast tier, same tradeoff already made
-      # for review_queue/enrich_oar/enrich_statutes below.
+      # agency_profile selftest: scans every one of ~69k files' frontmatter with no
+      # cross-process cache (its in-memory stats cache only helps a long-lived process
+      # like the MCP server, not a fresh CI checkout), so it takes several minutes —
+      # too slow for the per-PR fast tier, same tradeoff as review_queue/enrich_oar/
+      # enrich_statutes below.
       - name: Agency profile engine selftest (nightly)
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: python3 src/agency_profile.py --selftest
-      - name: MCP query engine selftest (nightly)
+      - name: MCP query engine smoke test (nightly)
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
-        run: python3 src/mcp_lib.py --selftest
+        run: |
+          pip install "corpus-toolkit @ git+https://github.com/OregonAI/corpus-toolkit@v1.0.5"
+          python3 -c "
+          import sys
+          from corpus_toolkit import config as config_mod
+          from corpus_toolkit.mcp.framework import CorpusFramework
+          config = config_mod.load('_meta/corpus.yml')
+          fw = CorpusFramework(config)
+          fails = []
+          def check(name, cond):
+              print(('PASS ' if cond else 'FAIL ') + name)
+              if not cond: fails.append(name)
+          r = fw.resolve_citation('OAR 125-800-0020')
+          check('renumbered OAR citation resolves', any(m['id']=='oar-128-030-0020' for m in r['matches']))
+          r = fw.resolve_citation('ORS 276A.300')
+          check('ORS citation resolves', any(m['id']=='ors-276a.300' for m in r['matches']))
+          r = fw.get_document('oar-128-030-0020')
+          check('get_document returns body + disclaimer', 'body' in r and r.get('disclaimer'))
+          r = fw.corpus_overview()
+          check('corpus_overview counts documents', sum(r['documents_by_type'].values()) > 60000)
+          r = fw.issuing_body_profile('department-of-administrative-services')
+          check('issuing_body_profile has real doc counts', isinstance(r.get('in_repo'), dict) and sum(r['in_repo'].values()) > 100)
+          sys.exit(1 if fails else 0)
+          "
       - name: Policy-age dataset must match the corpus (nightly; full-corpus scan)
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: python3 src/build_policy_age_data.py --check

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.280
 title: "Law Enforcement Data System established; duties; rules"
 doc_type: statute

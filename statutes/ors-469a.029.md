@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.029
 title: "Eligibility; registration date for certain generating facilities with tracking system"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-8-029
 title: "Safety Grant"
 doc_type: policy

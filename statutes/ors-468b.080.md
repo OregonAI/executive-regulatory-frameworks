@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.080
 title: "Prohibitions relating to garbage or sewage dumping into waters of state"
 doc_type: statute

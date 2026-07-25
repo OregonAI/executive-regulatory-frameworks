@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.800
 title: "Hospital-based violence intervention grant program"
 doc_type: statute

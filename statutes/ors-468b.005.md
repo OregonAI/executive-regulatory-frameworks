@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.005
 title: "Definitions for water pollution control laws"
 doc_type: statute

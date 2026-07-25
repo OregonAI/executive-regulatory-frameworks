@@ -1,3 +1,2 @@
 pyyaml
-jsonschema
-mcp[cli]
+corpus-toolkit[mcp] @ git+https://github.com/OregonAI/corpus-toolkit@v1.0.5

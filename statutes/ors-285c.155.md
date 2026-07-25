@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.155
 title: "Minimum employment and other requirements for authorization"
 doc_type: statute

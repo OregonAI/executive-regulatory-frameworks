@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.020
 title: "Statewide integrated solid waste management plan; review; revision"
 doc_type: statute

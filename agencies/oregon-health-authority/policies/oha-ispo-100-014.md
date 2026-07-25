@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-ispo-100-014
 title: "Report and Response to Privacy Incidents"
 doc_type: policy

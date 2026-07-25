@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.420
 title: "Notice to depositor upon change in terms, charges, withdrawal conditions or decrease in interest rate; exception"
 doc_type: statute

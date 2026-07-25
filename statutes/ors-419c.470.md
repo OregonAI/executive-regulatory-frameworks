@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.470
 title: "Opportunities to fulfill obligations imposed by court"
 doc_type: statute

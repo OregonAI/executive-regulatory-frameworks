@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.489
 title: "Marijuana as crop; exceptions to permitted uses"
 doc_type: statute

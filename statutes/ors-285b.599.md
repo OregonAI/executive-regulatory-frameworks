@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.599
 title: "Effect of failure to repay to Water Fund; default"
 doc_type: statute

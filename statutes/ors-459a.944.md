@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.944
 title: "Life cycle evaluation; rules"
 doc_type: statute

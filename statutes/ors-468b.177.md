@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.177
 title: "Interagency team; assessment and outreach plan; report"
 doc_type: statute

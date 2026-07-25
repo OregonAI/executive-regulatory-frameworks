@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.120
 title: "Commanding assistance of citizens"
 doc_type: statute

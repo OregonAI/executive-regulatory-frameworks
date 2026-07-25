@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.262
 title: "Transparency Oregon Advisory Commission Fund (Electronic Government Portal)"
 doc_type: statute

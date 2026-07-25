@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.418
 title: "Remedies supplementary to existing statutory or common law remedies; election of remedies (Vehicle Protection Product Warranties)"
 doc_type: statute

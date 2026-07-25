@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.288
 title: "Presumptions in cause of action brought under ORS 646A.284 or"
 doc_type: statute

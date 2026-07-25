@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-a-8-0
 title: "Delegation of Legal Custodian and Guardianship Authority"
 doc_type: policy

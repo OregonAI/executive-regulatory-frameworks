@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-ispo-100-005
 title: "HIPAA: Restricting Access to Individual Information"
 doc_type: policy

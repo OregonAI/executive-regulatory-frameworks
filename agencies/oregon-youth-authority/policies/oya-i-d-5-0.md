@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-d-5-0
 title: "Criminal Records Checks; Child Abuse Registry Checks"
 doc_type: policy

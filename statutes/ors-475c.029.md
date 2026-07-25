@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.029
 title: "Authority to limit quantity of marijuana items transferred to individual (Application Process and Licenses)"
 doc_type: statute

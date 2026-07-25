@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.045
 title: "Oath of superintendent and deputy superintendent"
 doc_type: statute

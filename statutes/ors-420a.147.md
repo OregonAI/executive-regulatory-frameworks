@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.147
 title: "Placement in regional youth accountability camps"
 doc_type: statute

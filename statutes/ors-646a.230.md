@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.230
 title: "Action by Attorney General or district attorney; civil and criminal penalties"
 doc_type: statute

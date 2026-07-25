@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.065
 title: "Model rules generally; applicability to contracting agencies"
 doc_type: statute

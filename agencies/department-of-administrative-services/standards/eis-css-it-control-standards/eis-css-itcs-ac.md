@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-ac
 title: "Statewide IT Control Standards — Access Control (AC)"
 doc_type: standard

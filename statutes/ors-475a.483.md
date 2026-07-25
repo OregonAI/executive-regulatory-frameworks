@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.483
 title: "Issuing, renewing permits; fees; rules"
 doc_type: statute

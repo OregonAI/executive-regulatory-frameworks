@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.990
 title: "Penalties for air pollution offenses"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.023
 title: "Authority of youth correction officers to exercise power of peace officer"
 doc_type: statute

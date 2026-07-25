@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.423
 title: "Utilization review requirements for insurers offering health benefit plan"
 doc_type: statute

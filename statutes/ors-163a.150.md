@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.150
 title: "Procedure for relief under ORS 163A.140; after conviction or adjudication; testimony of victim"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.215
 title: "Fees; preliminary consultation; permit conditions; inspection by State Department of Agriculture; review"
 doc_type: statute

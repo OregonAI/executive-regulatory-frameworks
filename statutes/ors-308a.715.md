@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.715
 title: "Imposition of deferred additional taxes upon request of owner (Disqualification Notification Procedures)"
 doc_type: statute

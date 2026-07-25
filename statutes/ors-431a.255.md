@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.255
 title: "List of high priority chemicals of concern in children’s products; practical quantification limits"
 doc_type: statute

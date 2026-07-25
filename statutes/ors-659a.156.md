@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.156
 title: "Eligible employees; exceptions; eligibility during public health emergency; restoration of time worked"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-a-3-2
 title: "Enhanced/Supplemental Interactive Supervision of Youth"
 doc_type: policy

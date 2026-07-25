@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.015
 title: "Payment of expenses of State Treasurer"
 doc_type: statute

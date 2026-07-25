@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.135
 title: "Renewable energy certificates that may be used to comply with standards"
 doc_type: statute

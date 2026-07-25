@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.840
 title: "Conduct authorized; supervision by Department of Environmental Quality; rules"
 doc_type: statute

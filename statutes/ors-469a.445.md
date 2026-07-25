@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.445
 title: "Cost cap for electric companies; determining compliance costs and rate impact; exemption"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.810
 title: "Willful interference with administration of law and violation of orders of commissioner prohibited"
 doc_type: statute

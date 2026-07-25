@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.090
 title: "Permit authorized for discharge of shrimp and crab processing by-products; conditions"
 doc_type: statute

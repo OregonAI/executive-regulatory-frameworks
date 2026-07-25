@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.438
 title: "Restriction on parks in commercial or industrial zones"
 doc_type: statute

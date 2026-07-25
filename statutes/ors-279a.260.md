@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.260
 title: "Powers and duties of department; acquisitions by qualified donees; rules"
 doc_type: statute

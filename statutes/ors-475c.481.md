@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.481
 title: "Authority to purchase, possess, seize or dispose of marijuana items"
 doc_type: statute

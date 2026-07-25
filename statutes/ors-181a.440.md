@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.440
 title: "Training in vehicle pursuit, mental illness and airway and circulatory systems; certification in cardiopulmonary resuscitation"
 doc_type: statute

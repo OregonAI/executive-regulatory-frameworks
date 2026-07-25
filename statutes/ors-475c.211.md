@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.211
 title: "Samples of certain marijuana items; limitations; rules"
 doc_type: statute

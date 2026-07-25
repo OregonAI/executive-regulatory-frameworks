@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.283
 title: "Condition concerning use of conflict minerals"
 doc_type: statute

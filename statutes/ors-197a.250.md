@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.250
 title: "Designation of certain Washington County lands (Planning for Cities Outside Metro)"
 doc_type: statute

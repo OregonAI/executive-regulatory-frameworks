@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-a-1-0
 title: "Youth Incident Reports (Community)"
 doc_type: policy

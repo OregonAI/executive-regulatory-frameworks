@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.175
 title: "Enterprise zone exemption; requirements; duration (Qualified Property)"
 doc_type: statute

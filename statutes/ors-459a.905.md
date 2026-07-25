@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.905
 title: "Prohibition on delivery of commingled recyclables to certain facilities"
 doc_type: statute

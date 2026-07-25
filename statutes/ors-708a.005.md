@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.005
 title: "Powers of institutions; insurance transactions; rules"
 doc_type: statute

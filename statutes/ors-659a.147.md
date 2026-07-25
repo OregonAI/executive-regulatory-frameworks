@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.147
 title: "Prohibited conduct; posting requirements; Commissioner of Bureau of Labor and Industries to develop training and education materials; undue hardship exception; "
 doc_type: statute

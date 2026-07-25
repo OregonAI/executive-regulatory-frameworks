@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.355
 title: "Evaluation of public improvement projects not contracted by competitive bidding (Solicitation; Contract Award; Rejection)"
 doc_type: statute

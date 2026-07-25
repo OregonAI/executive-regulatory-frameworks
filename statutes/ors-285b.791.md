@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.791
 title: "Agreements with lenders; terms; waiver and breach of lender obligations upon borrower default; minimum total loan principal amount"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.475
 title: "Legislative findings; electricity markets; review of greenhouse gas emissions rates"
 doc_type: statute

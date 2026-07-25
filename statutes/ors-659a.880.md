@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.880
 title: "Notice informing complainant of right to file civil action"
 doc_type: statute

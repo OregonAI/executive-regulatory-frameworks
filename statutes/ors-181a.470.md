@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.470
 title: "Training relating to Vienna Convention and crimes motivated by prejudice or that constitute abuse"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.790
 title: "Policy relating to use of deadly physical force; collection of information; rules"
 doc_type: statute

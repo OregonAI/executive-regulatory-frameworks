@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.572
 title: "Eligibility of project for revenue bond financing; rules; decision to issue bonds"
 doc_type: statute

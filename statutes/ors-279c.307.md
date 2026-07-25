@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.307
 title: "Limitations in procurement of personal services; exceptions; procedure for obtaining exception from appropriate authority; basis for approving exception"
 doc_type: statute

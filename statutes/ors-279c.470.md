@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.470
 title: "Compensation for contractor on contract declared void by court; exceptions; applicability CONSTRUCTION CONTRACTS GENERALLY (Required Contract Conditions)"
 doc_type: statute

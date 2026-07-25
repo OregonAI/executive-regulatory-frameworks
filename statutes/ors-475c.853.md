@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.853
 title: "Oregon Health Authority telephone hotline (Databases and Confidentiality of Information)"
 doc_type: statute

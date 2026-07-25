@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.218
 title: "Disclosure of employee’s name without consent prohibited"
 doc_type: statute

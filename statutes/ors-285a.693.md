@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.693
 title: "Sources of loan repayment moneys"
 doc_type: statute

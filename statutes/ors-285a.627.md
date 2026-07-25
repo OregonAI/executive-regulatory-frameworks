@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.627
 title: "Authority as coordinating entity for port activities; approval required for creation of new ports (Planning and Marketing)"
 doc_type: statute

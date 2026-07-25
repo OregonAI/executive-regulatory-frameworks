@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.014
 title: "Payments for ambulance care and transportation"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.403
 title: "Discrimination in place of public accommodation prohibited"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.806
 title: "Website with photographs and information about arrested persons; requirement to remove photographs and information upon request; penalty"
 doc_type: statute

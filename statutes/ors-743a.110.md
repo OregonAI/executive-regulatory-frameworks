@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.110
 title: "Mastectomy-related services; expedited external review required"
 doc_type: statute

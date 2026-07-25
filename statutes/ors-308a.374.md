@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.374
 title: "Reports on riparian land use from owners; effect of failure to make report upon demand; request by assessor for determination of continued qualification"
 doc_type: statute

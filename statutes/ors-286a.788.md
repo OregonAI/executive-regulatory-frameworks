@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.788
 title: "Emergency Services Seismic Fund; purposes; rules; fees"
 doc_type: statute

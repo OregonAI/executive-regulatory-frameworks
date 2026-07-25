@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.250
 title: "Definitions for ORS 469B.250 to"
 doc_type: statute

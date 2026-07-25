@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.140
 title: "Ad valorem tax levy to pay general obligation bonds"
 doc_type: statute

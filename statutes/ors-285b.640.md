@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.640
 title: "Oregon Industrial Site Readiness Assessment Program Fund; sources; uses"
 doc_type: statute

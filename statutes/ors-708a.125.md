@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.125
 title: "Stock in corporations acquired to strengthen capital or eliminate undesirable assets"
 doc_type: statute

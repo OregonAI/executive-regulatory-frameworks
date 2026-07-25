@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-e-2-6
 title: "Second Look Hearings"
 doc_type: policy

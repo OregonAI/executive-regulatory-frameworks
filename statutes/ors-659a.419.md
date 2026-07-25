@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.419
 title: "Closed captioning required on television receivers in places of public accommodation; exceptions; training requirements; penalties; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.130
 title: "Cities with unmet housing needs; referral to housing acceleration program; housing acceleration agreement"
 doc_type: statute

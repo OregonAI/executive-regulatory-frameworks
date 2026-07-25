@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.395
 title: "Judgment of parentage or nonparentage (Support)"
 doc_type: statute

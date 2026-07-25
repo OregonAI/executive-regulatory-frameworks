@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.802
 title: "Article XI-P Bond Fund; purposes"
 doc_type: statute

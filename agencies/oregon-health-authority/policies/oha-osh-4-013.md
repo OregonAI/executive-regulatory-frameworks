@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-4-013
 title: "Professional Credential and Membership Fees"
 doc_type: policy

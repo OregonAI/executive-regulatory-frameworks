@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.482
 title: "Estimate required before beginning work; contents; evaluation"
 doc_type: statute

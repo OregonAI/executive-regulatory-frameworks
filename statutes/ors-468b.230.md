@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.230
 title: "Department of Agriculture civil penalty authority Note Report on emissions of air contaminants from animal feeding operations--2023 c.465 §13 OIL OR HAZARDOUS M"
 doc_type: statute

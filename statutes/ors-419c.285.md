@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.285
 title: "Parties to delinquency proceeding; rights of limited participation; interpreters SUMMONS"
 doc_type: statute

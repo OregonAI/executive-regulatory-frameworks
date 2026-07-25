@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.107
 title: "Value for farm use; maximum assessed value and assessed value of farmland"
 doc_type: statute

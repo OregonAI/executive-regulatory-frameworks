@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-7-018
 title: "Meaningful Involvement (MI)"
 doc_type: policy

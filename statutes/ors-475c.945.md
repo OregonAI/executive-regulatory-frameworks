@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.945
 title: "City, county ordinances regarding medical marijuana AUTHORITIES OF CITIES,"
 doc_type: statute

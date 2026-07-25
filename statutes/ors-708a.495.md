@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.495
 title: "P.O.D. account; payment to any original party; payment to others"
 doc_type: statute

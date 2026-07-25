@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.475
 title: "Application of legislative changes to legislators REPORTS ON MEMBERS IN HAZARDOUS POSITIONS (Temporary provisions relating to reports on members in hazardous po"
 doc_type: statute

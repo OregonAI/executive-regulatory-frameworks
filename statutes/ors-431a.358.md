@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.358
 title: "Performance of lead-based paint activities and renovation without certification prohibited"
 doc_type: statute

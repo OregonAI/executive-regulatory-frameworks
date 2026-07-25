@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.608
 title: "Deadline for placing security freeze; protective record creation; use and release of information; confirmation; personal identification number; exception; lifti"
 doc_type: statute

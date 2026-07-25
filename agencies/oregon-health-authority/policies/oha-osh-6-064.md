@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-6-064
 title: "Case Formulation (TEMPORARILY SUSPENDED)"
 doc_type: policy

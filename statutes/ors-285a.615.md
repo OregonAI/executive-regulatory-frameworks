@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.615
 title: "Provision of managerial assistance and technical services; duties of authority; cooperation with other agencies"
 doc_type: statute

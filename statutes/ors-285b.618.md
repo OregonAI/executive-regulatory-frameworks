@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.618
 title: "Department estimate of program tax revenues; methodology"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.293
 title: "Authority to require fingerprints of applicants and other individuals (Marijuana Control and Regulation Fund)"
 doc_type: statute

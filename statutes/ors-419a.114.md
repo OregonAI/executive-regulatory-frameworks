@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.114
 title: "When presence of agency personnel at board hearings required"
 doc_type: statute

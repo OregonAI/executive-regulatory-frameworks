@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.780
 title: "Schedule of fees; accreditation and certification programs; rules"
 doc_type: statute

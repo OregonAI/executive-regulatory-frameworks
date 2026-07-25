@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.352
 title: "Penalty (Other Mailings or Deliveries)"
 doc_type: statute

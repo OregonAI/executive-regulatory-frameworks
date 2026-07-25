@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.178
 title: "Definitions for Microenterprise Development Act"
 doc_type: statute

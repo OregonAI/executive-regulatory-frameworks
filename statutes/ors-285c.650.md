@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.650
 title: "Certification as qualified equity investment; eligibility for tax credit; rules; fees"
 doc_type: statute

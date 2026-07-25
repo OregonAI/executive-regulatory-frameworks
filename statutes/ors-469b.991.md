@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.991
 title: "Civil penalty when contractor certificate revoked"
 doc_type: statute

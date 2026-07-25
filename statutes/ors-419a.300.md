@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.300
 title: "Reports to school districts concerning young persons on conditional release"
 doc_type: statute

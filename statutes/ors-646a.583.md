@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.583
 title: "Controller’s use of deidentified data; exclusions"
 doc_type: statute

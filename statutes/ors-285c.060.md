@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.060
 title: "Duties of Oregon Business Development Department; rules (Designation of Enterprise Zone)"
 doc_type: statute

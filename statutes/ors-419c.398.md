@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.398
 title: "Removal of youth from placement for purpose of receiving restorative services"
 doc_type: statute

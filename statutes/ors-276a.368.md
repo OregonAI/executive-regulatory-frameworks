@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.368
 title: "Purpose of data; limitation of liability; publishable data in public domain"
 doc_type: statute

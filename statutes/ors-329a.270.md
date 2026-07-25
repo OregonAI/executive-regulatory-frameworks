@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.270
 title: "Renewal procedure for certification or registration"
 doc_type: statute

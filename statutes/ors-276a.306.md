@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.306
 title: "Information security incidents and assessments; reports"
 doc_type: statute

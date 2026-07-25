@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.460
 title: "Heat Pump Deployment Program; eligibility requirements; performance agreement; use of grant funds; reports; rules"
 doc_type: statute

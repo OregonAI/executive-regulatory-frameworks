@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.404
 title: "Consumer’s remedies; manufacturer’s affirmative defenses"
 doc_type: statute

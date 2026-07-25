@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.480
 title: "Electric company serving 25,000 or fewer consumers not subject to requirements RENEWABLE PORTFOLIO STANDARDS (Definitions)"
 doc_type: statute

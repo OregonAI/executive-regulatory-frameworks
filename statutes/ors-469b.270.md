@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.270
 title: "Definitions for ORS 315.331 and 469B.270 to"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.107
 title: "Certification as disadvantaged business enterprise, minority-owned business, woman-owned business, veteran-owned business or emerging small business during term"
 doc_type: statute

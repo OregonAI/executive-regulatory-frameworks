@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.089
 title: "Loan contract; required provisions; repayment schedule"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-2-014
 title: "Medical Record Maintenance and Transportation"
 doc_type: policy

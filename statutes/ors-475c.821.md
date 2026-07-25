@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.821
 title: "Duty to submit processing data to Oregon Health Authority; rules"
 doc_type: statute

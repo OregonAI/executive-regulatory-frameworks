@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.341
 title: "Suspension or revocation of certificate or portion of certificate"
 doc_type: statute

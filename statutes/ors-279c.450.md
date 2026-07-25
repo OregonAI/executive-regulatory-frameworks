@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.450
 title: "Appeal procedure for decision to deny, revoke or revise prequalification; hearing; costs; judicial review (Remedies)"
 doc_type: statute

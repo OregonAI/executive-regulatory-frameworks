@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.600
 title: "Right of action on payment bond or public works bond of contractor or subcontractor; notice of claim"
 doc_type: statute

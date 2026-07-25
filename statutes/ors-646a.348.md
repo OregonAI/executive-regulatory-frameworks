@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.348
 title: "Action by Attorney General; civil penalty; injunction; damages; attorney fees and costs (Delivery of Hazardous Materials)"
 doc_type: statute

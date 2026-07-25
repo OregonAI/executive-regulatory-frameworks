@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.220
 title: "Damage to property of employee of Oregon Youth Authority; claims; payment"
 doc_type: statute

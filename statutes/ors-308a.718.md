@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.718
 title: "Assessor to send notice upon disqualification or forestland change in use; deadline; appeal; change in special assessment explanation; remediation plan notifica"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.805
 title: "Rules for carrying out ORS chapter 659A"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.095
 title: "Compliance with constitutional or statutory debt limit"
 doc_type: statute

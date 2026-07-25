@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.410
 title: "Refusing to accept currency or coins as payment prohibited; advertising and education duties of Bureau of Labor and Industries; exceptions; remedies for violati"
 doc_type: statute

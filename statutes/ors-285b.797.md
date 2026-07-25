@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.797
 title: "Release of lender and use of balance in account; repayment of balance"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.305
 title: "Persons establishing membership in system before August 29, 2003"
 doc_type: statute

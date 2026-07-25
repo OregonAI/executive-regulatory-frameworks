@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.400
 title: "Definitions for ORS 469A.400 to"
 doc_type: statute

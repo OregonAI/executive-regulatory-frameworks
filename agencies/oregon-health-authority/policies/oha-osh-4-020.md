@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-4-020
 title: "Contracts and Agreements at OSH"
 doc_type: policy

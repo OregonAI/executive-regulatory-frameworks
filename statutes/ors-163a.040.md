@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.040
 title: "Failure to report as sex offender; defense"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.062
 title: "Use attainability analysis of certain waters of state"
 doc_type: statute

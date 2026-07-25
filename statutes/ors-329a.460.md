@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.460
 title: "Separate sleeping quarters not required for certain persons providing child care or babysitting services; exemption from age group segregation requirements"
 doc_type: statute

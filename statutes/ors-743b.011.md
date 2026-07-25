@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.011
 title: "Group health benefit plans subject to provisions of specified laws; exemptions"
 doc_type: statute

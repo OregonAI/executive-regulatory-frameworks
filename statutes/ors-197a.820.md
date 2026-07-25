@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.820
 title: "Housing Accountability and Production Office Fund Note: Definitions in 197.015 apply to ORS chapter 197A"
 doc_type: statute

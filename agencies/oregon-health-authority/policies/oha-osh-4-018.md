@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-4-018
 title: "OSH Purchase and Maintenance - Supplies, Assets, and Equipment"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-ispo-100-007
 title: "HIPAA: Right to Request Alternative Communications"
 doc_type: policy

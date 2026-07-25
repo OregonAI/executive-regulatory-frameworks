@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.465
 title: "Action against successful bidder; amount of damages; when action to be commenced; defenses"
 doc_type: statute

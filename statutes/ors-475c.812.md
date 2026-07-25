@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.812
 title: "Duty to carry card when at location other than address on file with Oregon Health Authority (Marijuana Processing Sites)"
 doc_type: statute

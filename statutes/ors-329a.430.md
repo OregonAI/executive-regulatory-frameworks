@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.430
 title: "Rights of family child care providers to join labor organizations; state as employer for collective bargaining purposes (Miscellaneous)"
 doc_type: statute

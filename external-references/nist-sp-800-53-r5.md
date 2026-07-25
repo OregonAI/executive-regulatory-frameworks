@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: nist-sp-800-53-r5
 title: "NIST SP 800-53 Rev. 5 — Security and Privacy Controls for Information Systems and Organizations"
 doc_type: external_reference

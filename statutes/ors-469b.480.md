@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.480
 title: "Grants to assist landlords with providing community cooling spaces"
 doc_type: statute

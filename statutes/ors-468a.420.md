@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.420
 title: "Oxygenated motor vehicle fuels; when required by rule"
 doc_type: statute

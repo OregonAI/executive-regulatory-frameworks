@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.825
 title: "Complaints filed by Attorney General or commissioner; temporary cease and desist orders in certain cases"
 doc_type: statute

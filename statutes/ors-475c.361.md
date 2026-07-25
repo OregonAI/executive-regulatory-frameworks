@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.361
 title: "Arson incident to manufacture of cannabinoid extract in second degree"
 doc_type: statute

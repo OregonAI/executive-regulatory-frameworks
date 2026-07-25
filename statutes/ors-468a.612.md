@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.612
 title: "Field burning prohibition in critical nonburn areas; rules"
 doc_type: statute

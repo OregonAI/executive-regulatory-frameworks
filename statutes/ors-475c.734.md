@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.734
 title: "Suspense account; payment of expenses; crediting balance to Oregon Marijuana Account"
 doc_type: statute

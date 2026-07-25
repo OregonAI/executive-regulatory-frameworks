@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.395
 title: "Rejection of bids (Competitive Proposals)"
 doc_type: statute

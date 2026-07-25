@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.206
 title: "Oversight of state information and telecommunications technology by State Chief Information Officer; policy; rules; application for designation as community of "
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.630
 title: "Negligent, excessive, dishonest or unlawful loans; civil liability of officer, director or employee"
 doc_type: statute

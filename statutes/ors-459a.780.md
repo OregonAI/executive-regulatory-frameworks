@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.780
 title: "Prohibition against purchase or use of nonbiodegradable and nonrecyclable food packaging; exemptions"
 doc_type: statute

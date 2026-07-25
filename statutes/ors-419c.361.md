@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.361
 title: "Disposition of nonwaivable consolidated charges and lesser included offenses"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.038
 title: "Federal Water Pollution Control Act; consultation with applicant for variance"
 doc_type: statute

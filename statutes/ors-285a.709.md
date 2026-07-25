@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.709
 title: "Transfers to Port Planning and Marketing Fund"
 doc_type: statute

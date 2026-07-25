@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.081
 title: "Doulas, lactation counselors and lactation educators"
 doc_type: statute

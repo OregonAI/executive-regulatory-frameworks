@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.668
 title: "Request for employment information; injunction to compel disclosure; confidentiality"
 doc_type: statute

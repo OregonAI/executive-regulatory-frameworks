@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.800
 title: "Consideration of whether bidder or proposer owes liquidated and delinquent debt to state"
 doc_type: statute

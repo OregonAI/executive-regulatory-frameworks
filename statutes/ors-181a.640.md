@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.640
 title: "Grounds for denial, suspension or revocation of application or certification of person or accreditation of program; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.891
 title: "Persons providing private security services on September 9, 1995"
 doc_type: statute

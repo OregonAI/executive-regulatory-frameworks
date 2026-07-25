@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.176
 title: "Geospatial data; proprietary information; rules (Oregon Business Development Department Financial Assistance)"
 doc_type: statute

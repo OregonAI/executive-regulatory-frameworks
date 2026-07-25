@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.070
 title: "Manner of complying with renewable portfolio standards"
 doc_type: statute

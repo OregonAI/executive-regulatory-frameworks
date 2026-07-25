@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.515
 title: "State geographic information officer; qualifications; duties"
 doc_type: statute

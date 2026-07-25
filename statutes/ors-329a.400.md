@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.400
 title: "Duties of Oregon Health Authority; inspection"
 doc_type: statute

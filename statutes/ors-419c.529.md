@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.529
 title: "Finding of serious mental condition; jurisdiction of Psychiatric Security Review Board; conditional release or commitment"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.205
 title: "Purposes of ORS 475A.200 to"
 doc_type: statute

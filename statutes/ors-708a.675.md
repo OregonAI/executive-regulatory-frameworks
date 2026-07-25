@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.675
 title: "Authority of financial institutions in cases of suspected financial exploitation; notifications; limitation on liability"
 doc_type: statute

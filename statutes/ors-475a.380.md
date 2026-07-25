@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.380
 title: "Minimum standards of education and training for psilocybin service facilitators; rules"
 doc_type: statute

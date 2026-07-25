@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.060
 title: "Duty to comply with laws, rules and standards"
 doc_type: statute

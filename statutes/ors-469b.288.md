@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.288
 title: "Submissions for preliminary certification; alteration, conditions, suspension or denial of preliminary certification"
 doc_type: statute

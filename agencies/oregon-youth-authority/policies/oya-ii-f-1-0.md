@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-f-1-0
 title: "Youth Rights [Facility]"
 doc_type: policy

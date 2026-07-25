@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.370
 title: "Employer prohibited from entering into agreements that prevent employee from discussing certain unlawful conduct; exceptions; remedies"
 doc_type: statute

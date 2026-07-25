@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-6-069
 title: "Escalation of Clinical Concerns"
 doc_type: policy

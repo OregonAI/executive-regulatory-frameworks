@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.897
 title: "Local time, place and manner regulations (Miscellaneous)"
 doc_type: statute

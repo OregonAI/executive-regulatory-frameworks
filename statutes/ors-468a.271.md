@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.271
 title: "Clean fuels program design requirements; duties of Department of Environmental Quality, State Department of Agriculture"
 doc_type: statute

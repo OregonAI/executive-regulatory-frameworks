@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.208
 title: "Disqualification of farm use assessment upon sale for land zoned for urban services"
 doc_type: statute

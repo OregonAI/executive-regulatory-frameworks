@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.860
 title: "Ineligibility for public works contracts for failure to pay or post notice of prevailing rates of wage; certified payroll reports to commissioner"
 doc_type: statute

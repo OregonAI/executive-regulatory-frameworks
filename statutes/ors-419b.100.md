@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.100
 title: "Jurisdiction; bases; Indian children"
 doc_type: statute

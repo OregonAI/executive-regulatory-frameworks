@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.025
 title: "Procurement practices regarding recyclable and reusable goods"
 doc_type: statute

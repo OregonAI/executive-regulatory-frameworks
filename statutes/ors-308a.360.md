@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.360
 title: "City and county authorization required for exemption of riparian land within city and urban growth boundary"
 doc_type: statute

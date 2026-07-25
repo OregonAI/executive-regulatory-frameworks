@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.220
 title: "Bureau of Labor and Industries to collect and compile information relating to disclosures; report to legislature"
 doc_type: statute

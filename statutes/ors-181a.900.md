@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.900
 title: "Procedures for licensing of private security entities; rules; fees"
 doc_type: statute

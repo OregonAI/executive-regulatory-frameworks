@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.200
 title: "Definitions for ORS 646A.202 and 646A.204"
 doc_type: statute

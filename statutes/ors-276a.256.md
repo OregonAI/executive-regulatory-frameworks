@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.256
 title: "Reports of tax expenditures connected to economic development"
 doc_type: statute

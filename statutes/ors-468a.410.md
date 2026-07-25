@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.410
 title: "Administration and enforcement of rules adopted under ORS 468A.405"
 doc_type: statute

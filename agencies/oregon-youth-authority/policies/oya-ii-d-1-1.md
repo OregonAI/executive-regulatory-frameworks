@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-d-1-1
 title: "Therapeutic Levels of Physical Health Care in OYA Facilities"
 doc_type: policy

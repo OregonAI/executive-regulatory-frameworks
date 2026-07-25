@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.144
 title: "Required accommodations in transient lodging; liability; limitations on applicability"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.295
 title: "Limitations on amount of obligations to Oregon commercial bank; applicability"
 doc_type: statute

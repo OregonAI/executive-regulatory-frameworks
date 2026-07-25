@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.260
 title: "Requirement to remove or substitute high priority chemicals of concern; waivers; exemptions"
 doc_type: statute

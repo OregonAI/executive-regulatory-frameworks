@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.408
 title: "Claiming property tax exemption or income tax credit"
 doc_type: statute

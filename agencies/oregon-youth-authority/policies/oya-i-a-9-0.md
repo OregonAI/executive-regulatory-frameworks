@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-a-9-0
 title: "Parent/Guardian and Family Involvement in Youth Reformation"
 doc_type: policy

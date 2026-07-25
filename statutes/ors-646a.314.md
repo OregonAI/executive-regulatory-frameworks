@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.314
 title: "New or relocated dealership; notice; area of responsibility"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.020
 title: "Legislative findings; purpose; declaration of economic strategy; principles for investment of resources; priorities for funding and assistance ADMINISTRATION (C"
 doc_type: statute

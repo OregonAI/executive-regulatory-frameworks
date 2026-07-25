@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.197
 title: "Subsurface Injection Fluids Account; establishment; interest; uses"
 doc_type: statute

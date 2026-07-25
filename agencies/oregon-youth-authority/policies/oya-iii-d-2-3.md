@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-d-2-3
 title: "Staff and Youth Safety: Meeting with Youth in Community Settings"
 doc_type: policy

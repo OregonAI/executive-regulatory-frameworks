@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.365
 title: "Costs imposed pursuant to ORS 431A.363; notice; hearing; lien"
 doc_type: statute

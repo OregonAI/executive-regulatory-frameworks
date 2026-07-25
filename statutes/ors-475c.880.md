@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.880
 title: "Rights of secured parties (Protections From Civil and Criminal Liability)"
 doc_type: statute

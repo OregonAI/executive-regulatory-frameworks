@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.310
 title: "Liability for violation of ORS 468B.305; exceptions"
 doc_type: statute

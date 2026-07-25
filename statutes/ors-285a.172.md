@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.172
 title: "Broadband Action Plan; Digital Equity Plan; supplemental strategies"
 doc_type: statute

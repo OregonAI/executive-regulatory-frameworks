@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.606
 title: "Eligibility of projects for tax exemption; exclusions; revenue bond financing; first-source hiring agreements and job fairs"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.636
 title: "Definitions for ORS 285B.635 to"
 doc_type: statute

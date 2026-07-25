@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.077
 title: "Application to qualify nonexclusive farm use zone farmland"
 doc_type: statute

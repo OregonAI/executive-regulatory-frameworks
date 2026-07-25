@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.210
 title: "Provision of records by Oregon Youth Authority and juvenile department"
 doc_type: statute

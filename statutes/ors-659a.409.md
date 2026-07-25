@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.409
 title: "Notice that discrimination will be made in place of public accommodation prohibited; age exceptions"
 doc_type: statute

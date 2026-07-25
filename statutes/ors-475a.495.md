@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.495
 title: "Prohibition against person under 21 years of age entering premises; penalty"
 doc_type: statute

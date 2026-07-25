@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.426
 title: "Housing Infrastructure Project Fund (Temporary provisions relating to support for municipal infrastructure planning are compiled as notes following ORS 285B.426"
 doc_type: statute

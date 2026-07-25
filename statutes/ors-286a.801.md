@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.801
 title: "Matching fund grants to school districts; requirements; awards; rules"
 doc_type: statute

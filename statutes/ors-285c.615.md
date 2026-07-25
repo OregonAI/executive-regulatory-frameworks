@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.615
 title: "Annual participant reports; penalty; disclosure; rules"
 doc_type: statute

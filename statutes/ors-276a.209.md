@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.209
 title: "State Information Technology Operating Fund (Technical Services and Information Technology Management)"
 doc_type: statute

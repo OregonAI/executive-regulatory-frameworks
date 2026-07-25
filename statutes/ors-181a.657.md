@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.657
 title: "Accreditation of law enforcement agencies; rules (Oregon Center for Policing Excellence)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.020
 title: "County responsibility for expenses of juvenile department"
 doc_type: statute

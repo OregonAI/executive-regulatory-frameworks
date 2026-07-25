@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.320
 title: "Discrimination based on information in credit history prohibited; exceptions; remedies for violation"
 doc_type: statute

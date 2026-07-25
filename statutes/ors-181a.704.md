@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.704
 title: "Provision of officer identity to member of public (Law Enforcement Tactics)"
 doc_type: statute

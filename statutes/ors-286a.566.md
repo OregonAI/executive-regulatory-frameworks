@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.566
 title: "Requirements for legislation authorizing lottery bonds"
 doc_type: statute

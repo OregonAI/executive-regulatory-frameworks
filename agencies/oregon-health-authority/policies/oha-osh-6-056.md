@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-6-056
 title: "Suicide Risk Screening, Assessment (ADMINISTRATIVE DIRECTIVE)"
 doc_type: policy

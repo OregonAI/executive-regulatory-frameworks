@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-5-011
 title: "Return to Work of Staff Injured on the Job"
 doc_type: policy

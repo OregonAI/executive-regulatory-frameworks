@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.006
 title: "Declaration of policy against unlawful discrimination; opportunity to obtain employment without unlawful discrimination recognized as a civil right; exception o"
 doc_type: statute

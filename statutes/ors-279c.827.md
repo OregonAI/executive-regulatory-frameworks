@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.827
 title: "Division of public works project; applicability of prevailing wage rate to divided projects"
 doc_type: statute

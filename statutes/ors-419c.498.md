@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.498
 title: "Disposition under compact, agreement or arrangement with another state"
 doc_type: statute

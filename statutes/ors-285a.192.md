@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.192
 title: "Oregon Coalition Brownfields Cleanup Fund; sources; uses"
 doc_type: statute

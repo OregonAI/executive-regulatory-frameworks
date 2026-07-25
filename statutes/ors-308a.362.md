@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.362
 title: "Approval or disapproval of application; limitation on approval; order; notice; exemption; potential additional taxes"
 doc_type: statute

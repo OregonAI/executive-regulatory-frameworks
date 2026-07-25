@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.330
 title: "Notice to policyholder required for cancellation or nonrenewal of health benefit plan; effect of failure to give notice (Continuation)"
 doc_type: statute

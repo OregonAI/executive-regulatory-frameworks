@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.310
 title: "Cities with population of less than 10,000; rules"
 doc_type: statute

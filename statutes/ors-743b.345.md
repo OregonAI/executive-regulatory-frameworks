@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.345
 title: "Premium for continuation of coverage under ORS 743B.344; termination of right to continuation"
 doc_type: statute

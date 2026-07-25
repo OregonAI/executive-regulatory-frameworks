@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.030
 title: "Demonstration that procurement will cost less than performing service with contracting agency’s own personnel and resources or that performing service is not fe"
 doc_type: statute

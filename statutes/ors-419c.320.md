@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.320
 title: "When arrest warrant for summoned person authorized"
 doc_type: statute

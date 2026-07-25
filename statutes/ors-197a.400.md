@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.400
 title: "Clear and objective approval criteria required; alternative approval process (Temporary provisions relating to limits on applying residential design standards a"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.434
 title: "Prohibition of restrictions on manufactured dwelling or prefabricated structure"
 doc_type: statute

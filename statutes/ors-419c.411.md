@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.411
 title: "Disposition order; factors to be considered; finding of responsible except for insanity"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.305
 title: "Facilitated dialogue and responsibility letter bank program communications"
 doc_type: statute

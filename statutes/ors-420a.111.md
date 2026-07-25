@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.111
 title: "Levels of custody; transfer between levels; significance"
 doc_type: statute

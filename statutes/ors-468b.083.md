@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.083
 title: "When motor vehicle parts may be placed in waters of state; rules"
 doc_type: statute

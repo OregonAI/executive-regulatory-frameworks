@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.338
 title: "Purchase and receipt of property from military equipment surplus program"
 doc_type: statute

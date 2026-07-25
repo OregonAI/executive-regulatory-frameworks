@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.797
 title: "Delegation of duty to submit production data; rules"
 doc_type: statute

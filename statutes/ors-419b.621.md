@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.621
 title: "Judicial determination of Indian child’s residence, domicile and status as ward"
 doc_type: statute

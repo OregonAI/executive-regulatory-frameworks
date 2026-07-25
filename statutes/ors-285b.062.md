@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.062
 title: "Loan contract; required provisions; repayment plan; state liability"
 doc_type: statute

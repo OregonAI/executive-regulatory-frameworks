@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.400
 title: "Definitions for ORS 285C.400 to"
 doc_type: statute

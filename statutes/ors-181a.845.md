@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.845
 title: "Applicability of ORS 181A.840 to"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-543a.080
 title: "Submission of preliminary application information"
 doc_type: statute

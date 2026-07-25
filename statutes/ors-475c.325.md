@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.325
 title: "Requirements for assessment and treatment under ORS 475C.317"
 doc_type: statute

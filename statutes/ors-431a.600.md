@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.600
 title: "Oregon Health Authority to conduct prevention and education activities"
 doc_type: statute

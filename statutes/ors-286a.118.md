@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.118
 title: "Termination payment of pass-through revenue bond borrower"
 doc_type: statute

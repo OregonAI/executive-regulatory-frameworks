@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.115
 title: "Parole of adjudicated youths; disclosure of information to victims; rules"
 doc_type: statute

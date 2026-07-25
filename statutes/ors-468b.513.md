@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.513
 title: "Seismic risk mitigation implementation program; plan; fees; rules"
 doc_type: statute

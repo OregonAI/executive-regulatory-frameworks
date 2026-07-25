@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.527
 title: "Map of locations of licensed industrial hemp operations, premises licensed for marijuana production (Biennial Report on Supply and Demand)"
 doc_type: statute

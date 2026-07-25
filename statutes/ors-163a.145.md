@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.145
 title: "Procedure for relief under ORS 163A.140; upon conviction or adjudication"
 doc_type: statute

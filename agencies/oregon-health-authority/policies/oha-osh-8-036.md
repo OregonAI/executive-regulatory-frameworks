@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-8-036
 title: "FES Violence Mitigation Plan"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.783
 title: "Registry identification cardholders; eligibility; fees; rules"
 doc_type: statute

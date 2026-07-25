@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.295
 title: "Prohibited actions; requirements; timing; failure to obtain consent; exceptions REPURCHASING (Repurchase of Farm Implements by Supplier From Retailer)"
 doc_type: statute

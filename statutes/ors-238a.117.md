@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.117
 title: "Vesting of member killed in course and scope of employment (Withdrawal)"
 doc_type: statute

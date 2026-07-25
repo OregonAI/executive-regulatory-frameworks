@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.135
 title: "Notice of intent to award (Price Agreements)"
 doc_type: statute

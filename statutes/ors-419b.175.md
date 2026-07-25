@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.175
 title: "Initial disposition of child taken into protective custody (Shelter Hearings)"
 doc_type: statute

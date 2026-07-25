@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.775
 title: "Annual report by Oregon Business Development Department to legislature LENDERS’"
 doc_type: statute

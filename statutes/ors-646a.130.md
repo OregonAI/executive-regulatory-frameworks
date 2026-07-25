@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.130
 title: "Reinstatement of lease-purchase agreement by consumer; receipt for each payment"
 doc_type: statute

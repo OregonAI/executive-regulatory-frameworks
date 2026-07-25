@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.012
 title: "State agencies to carry out policy against discrimination in employment; evaluation of supervisors; affirmative action reports"
 doc_type: statute

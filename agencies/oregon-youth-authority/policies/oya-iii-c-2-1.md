@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-c-2-1
 title: "Court-Ordered Restitution"
 doc_type: policy

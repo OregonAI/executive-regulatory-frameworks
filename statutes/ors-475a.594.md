@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.594
 title: "Laboratory licensure; qualifications; fees; rules"
 doc_type: statute

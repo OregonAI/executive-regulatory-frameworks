@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.907
 title: "Cannabis seeds as propagant of nursery stock"
 doc_type: statute

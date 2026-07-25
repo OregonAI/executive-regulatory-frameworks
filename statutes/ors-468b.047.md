@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.047
 title: "Fees for state certification under Federal Water Pollution Control Act; rules; review of department determination; disposition of fees"
 doc_type: statute

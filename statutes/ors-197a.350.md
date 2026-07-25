@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.350
 title: "Determination of housing capacity and accommodation of needed housing by Metro"
 doc_type: statute

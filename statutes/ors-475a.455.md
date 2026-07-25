@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.455
 title: "Prohibition against psilocybin service facilitator consuming psilocybin product"
 doc_type: statute

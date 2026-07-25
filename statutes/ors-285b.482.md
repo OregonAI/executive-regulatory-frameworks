@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.482
 title: "Revenue bonds as parity bonds; consolidation of bond proceeds; loans and consolidated funds as security for water or development projects"
 doc_type: statute

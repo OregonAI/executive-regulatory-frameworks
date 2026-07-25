@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.554
 title: "Prohibition against refusing to perform duties on basis that certain conduct is prohibited by federal law"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.375
 title: "Employer policies relating to prevention of discrimination and sexual assault; requirements"
 doc_type: statute

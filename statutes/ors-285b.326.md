@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.326
 title: "Request for issuance of bonds; fees; rules; reimbursement for expenses"
 doc_type: statute

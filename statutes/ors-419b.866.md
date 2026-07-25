@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.866
 title: "Signing pleadings required; effect of signing or not signing"
 doc_type: statute

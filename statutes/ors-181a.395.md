@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.395
 title: "Certain officers required to be at least 21 years of age"
 doc_type: statute

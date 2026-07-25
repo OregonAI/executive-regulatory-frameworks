@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-ispo-090-012
 title: "Information System Maintenance Policy"
 doc_type: policy

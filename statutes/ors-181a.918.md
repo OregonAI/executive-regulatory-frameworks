@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.918
 title: "Injunction against using services of unlicensed private security entity; attorney fees; damages"
 doc_type: statute

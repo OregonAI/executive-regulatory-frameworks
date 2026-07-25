@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.098
 title: "Status of loan to county or municipality; project as security; repayment (Temporary provisions relating to Oregon CHIPS Fund grant and loan program are compiled"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.463
 title: "Heat Pump Deployment Advisory Council"
 doc_type: statute

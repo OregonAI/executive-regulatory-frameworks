@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.105
 title: "Subcontracting to emerging small businesses or veteran-owned businesses"
 doc_type: statute

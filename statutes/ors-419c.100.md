@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.100
 title: "Release of youth taken into custody; exceptions"
 doc_type: statute

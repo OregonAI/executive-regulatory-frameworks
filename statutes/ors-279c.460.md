@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.460
 title: "Action by or on behalf of adversely affected bidder or proposer; exception for personal services contract"
 doc_type: statute

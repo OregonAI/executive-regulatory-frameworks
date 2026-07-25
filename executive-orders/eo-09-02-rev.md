@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eo-09-02-rev
 title: "Task Force on Disproportionality in Child Welfare"
 doc_type: executive_order

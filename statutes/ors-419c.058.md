@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.058
 title: "Transfer of jurisdiction to tribal court"
 doc_type: statute

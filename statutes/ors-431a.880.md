@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.880
 title: "Licensing information; fees; rules (Commission)"
 doc_type: statute

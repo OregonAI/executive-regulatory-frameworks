@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.274
 title: "Emergency deferral; order; methods for deferring compliance; duration; other remedies"
 doc_type: statute

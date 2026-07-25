@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.637
 title: "Oregon Industrial Site Readiness Assessment Program; purpose; application; grant eligibility; limitations; rules"
 doc_type: statute

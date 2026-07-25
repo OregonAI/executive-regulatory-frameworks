@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.242
 title: "Portfolio-based management of information technology resources for State Treasurer (Oregon Transparency Website)"
 doc_type: statute

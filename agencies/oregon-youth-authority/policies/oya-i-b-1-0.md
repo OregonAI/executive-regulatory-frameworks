@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-b-1-0
 title: "Payroll Reporting/Issuing Paychecks"
 doc_type: policy

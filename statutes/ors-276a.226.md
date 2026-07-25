@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.226
 title: "State agency funding requests for information technology; review by State Chief Information Officer and Enterprise Information Services; priority rankings; bien"
 doc_type: statute

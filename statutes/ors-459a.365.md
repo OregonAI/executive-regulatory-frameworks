@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.365
 title: "City and county regulation of collection of solid waste SPECIFIC RECYCLING REQUIREMENTS (State Agencies)"
 doc_type: statute

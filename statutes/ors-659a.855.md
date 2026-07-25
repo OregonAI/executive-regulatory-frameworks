@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.855
 title: "Civil penalty for certain complaints filed by commissioner"
 doc_type: statute

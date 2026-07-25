@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.310
 title: "Definitions for ORS 287A.310 and 287A.315; lien of a pledge; Uniform Commercial Code"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.620
 title: "Confidentiality of project information (Strategic Investment Zones)"
 doc_type: statute

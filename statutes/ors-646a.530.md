@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.530
 title: "Prohibited sales of certain children’s products; recall notices and warnings; disposal of recalled children’s products; compliance with warning instructions"
 doc_type: statute

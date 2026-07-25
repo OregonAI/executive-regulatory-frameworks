@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.285
 title: "Application for preliminary certification; eligibility; contents; fees; certification to remain valid for three years; rules"
 doc_type: statute

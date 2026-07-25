@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.171
 title: "Reapproval of mattress stewardship program plan"
 doc_type: statute

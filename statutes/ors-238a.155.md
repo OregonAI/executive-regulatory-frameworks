@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.155
 title: "Retirement credit for periods of disability (Retirement)"
 doc_type: statute

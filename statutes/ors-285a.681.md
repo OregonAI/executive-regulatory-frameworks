@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.681
 title: "Loan from fund; contract terms; repayment plan; rules"
 doc_type: statute

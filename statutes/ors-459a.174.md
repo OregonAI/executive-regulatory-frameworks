@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.174
 title: "Annual report; budget; additional reports; performance audit; fees"
 doc_type: statute

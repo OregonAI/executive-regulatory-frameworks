@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.166
 title: "Refusal to continue or suspension or revocation of registration"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-d-2-2
 title: "Pre-employment Physical Abilities Test"
 doc_type: policy

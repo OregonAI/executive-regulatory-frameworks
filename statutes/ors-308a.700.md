@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.700
 title: "Definitions for ORS 308A.700 to"
 doc_type: statute

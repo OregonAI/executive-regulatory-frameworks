@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.036
 title: "Services provided by licensed nurse practitioner or licensed physician associate"
 doc_type: statute

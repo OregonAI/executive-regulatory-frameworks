@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.665
 title: "Contractual provisions for compensation when contract terminated due to public interest"
 doc_type: statute

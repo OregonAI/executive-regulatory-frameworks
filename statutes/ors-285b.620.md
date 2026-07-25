@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.620
 title: "Oregon Business Retention and Expansion Program Fund; sources; uses"
 doc_type: statute

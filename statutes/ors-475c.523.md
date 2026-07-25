@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.523
 title: "Cannabis reference laboratory; requirements; use of laboratory by State Department of Agriculture, Oregon Health Authority, Oregon Liquor and Cannabis Commissio"
 doc_type: statute

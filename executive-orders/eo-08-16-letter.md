@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eo-08-16-letter
 title: "Promoting Diversity and Equal Opportunity for Minority and Women owned Businesses (letter)"
 doc_type: executive_order

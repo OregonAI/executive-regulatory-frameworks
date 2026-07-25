@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.374
 title: "Alternative conduct of proceedings involving traffic, boating and game cases FITNESS TO PROCEED (Motion)"
 doc_type: statute

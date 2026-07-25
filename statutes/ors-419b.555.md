@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.555
 title: "Hearing; notice to parent; duty to advise minor of liabilities of emancipated person; filing fee"
 doc_type: statute

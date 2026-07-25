@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.150
 title: "Community development corporations; authority to invest or organize; conditions; corporate form; functions"
 doc_type: statute

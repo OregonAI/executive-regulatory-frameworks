@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.529
 title: "Duty to report to Legislative Assembly (Illegal Marijuana Market Enforcement Grant Program)"
 doc_type: statute

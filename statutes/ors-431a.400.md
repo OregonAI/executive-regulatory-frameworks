@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.400
 title: "Healthy Homes Program; grants; reporting; rules"
 doc_type: statute

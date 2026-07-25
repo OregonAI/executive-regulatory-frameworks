@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.551
 title: "Issuance of additional lottery bonds; uses; maximum amounts; Economic Infrastructure Project Fund (Temporary provisions relating to issuance of lottery bonds fo"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.195
 title: "Net biological carbon sequestration and storage inventory"
 doc_type: statute

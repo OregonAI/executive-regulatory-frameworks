@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.195
 title: "Enforcement of Newborns’ and Mothers’ Health Protection Act of 1996"
 doc_type: statute

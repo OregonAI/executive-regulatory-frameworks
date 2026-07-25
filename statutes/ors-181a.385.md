@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.385
 title: "Appointment of director of department (Standards and Training)"
 doc_type: statute

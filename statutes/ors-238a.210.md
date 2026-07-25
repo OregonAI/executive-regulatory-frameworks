@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.210
 title: "Cost-of-living adjustment (Employer Contributions)"
 doc_type: statute

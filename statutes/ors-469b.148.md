@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.148
 title: "Transferability of facility tax credit; effect on taxes reported by public utility; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.812
 title: "Issuance of summons; time for hearing on petition"
 doc_type: statute

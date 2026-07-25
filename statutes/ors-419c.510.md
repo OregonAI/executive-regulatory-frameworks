@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.510
 title: "Advisory committee to study dispositions; recommendations"
 doc_type: statute

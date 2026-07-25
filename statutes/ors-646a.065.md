@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.065
 title: "Records required for transactions involving items of precious metal; maintenance required of precious metal secondhand dealer; retention of items of precious me"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.145
 title: "Leasing existing property to authorized firm; failure to timely file for authorization; certain records exempt from disclosure"
 doc_type: statute

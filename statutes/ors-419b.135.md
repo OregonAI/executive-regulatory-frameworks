@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.135
 title: "Transfer of case; transportation of child or ward (Protective Custody)"
 doc_type: statute

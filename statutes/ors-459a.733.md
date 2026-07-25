@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.733
 title: "Fees for certain distributors; distributor cooperative fee"
 doc_type: statute

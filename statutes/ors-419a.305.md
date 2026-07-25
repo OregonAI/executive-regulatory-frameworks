@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.305
 title: "Notice to school administrators concerning students subject to juvenile court petitions"
 doc_type: statute

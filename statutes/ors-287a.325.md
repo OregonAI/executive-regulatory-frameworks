@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.325
 title: "Covenants of public bodies regarding pledges"
 doc_type: statute

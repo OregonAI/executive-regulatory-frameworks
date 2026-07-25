@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.645
 title: "State Fire Marshal; program; halons; guidelines"
 doc_type: statute

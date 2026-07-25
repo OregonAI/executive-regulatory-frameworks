@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.310
 title: "Applicability to manufacturers; applicability to reused or refurbished covered electronic devices; requirements for sale of covered electronic devices by manufa"
 doc_type: statute

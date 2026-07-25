@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.415
 title: "Designation by State Fish and Wildlife Commission of land eligible for wildlife habitat special assessment"
 doc_type: statute

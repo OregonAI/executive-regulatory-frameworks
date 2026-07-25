@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.694
 title: "Authority to require production of books, papers, accounts and other information"
 doc_type: statute

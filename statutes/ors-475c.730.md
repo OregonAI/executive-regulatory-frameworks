@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.730
 title: "Requirement to establish county cannabis advisory panel prior to adoption of certain local ordinance"
 doc_type: statute

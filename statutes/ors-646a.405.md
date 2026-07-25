@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.405
 title: "Manufacturer action under ORS 646A.404; request to Department of Transportation; notice to buyer; unlawful practice; rules"
 doc_type: statute

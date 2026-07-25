@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.169
 title: "Duty to develop procedures to transfer from registration to license; rules"
 doc_type: statute

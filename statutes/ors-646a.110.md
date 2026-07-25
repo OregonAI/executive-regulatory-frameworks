@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.110
 title: "Applicability of ORS 646A.100 to"
 doc_type: statute

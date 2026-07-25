@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.220
 title: "Requirements for insurers that require designation of participating primary care physician; exceptions"
 doc_type: statute

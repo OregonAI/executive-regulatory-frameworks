@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.030
 title: "Department support to local governments and tribes to incentivize needed housing"
 doc_type: statute

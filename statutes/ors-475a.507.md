@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.507
 title: "Prohibition against giving psilocybin product as prize; penalty (Civil Enforcement of ORS 475A.210 to"
 doc_type: statute

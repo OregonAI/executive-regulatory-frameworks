@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.678
 title: "Exemption from tax on retail sale of marijuana items; rules"
 doc_type: statute

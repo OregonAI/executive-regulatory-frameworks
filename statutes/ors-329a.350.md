@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.350
 title: "Denial, revocation or suspension of certification or registration"
 doc_type: statute

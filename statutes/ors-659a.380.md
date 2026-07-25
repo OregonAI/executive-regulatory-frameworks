@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.380
 title: "When severance or separation agreements are voidable by employer"
 doc_type: statute

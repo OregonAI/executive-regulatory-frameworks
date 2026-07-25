@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.781
 title: "Cancellation and expiration; refunds; effect of sale, assignment or transfer"
 doc_type: statute

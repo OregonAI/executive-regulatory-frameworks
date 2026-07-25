@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.356
 title: "Application for exemption as riparian land; contents; notice after sale or transfer"
 doc_type: statute

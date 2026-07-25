@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.199
 title: "Prohibited conduct by employer (Disclosures by Public and Nonprofit Employees)"
 doc_type: statute

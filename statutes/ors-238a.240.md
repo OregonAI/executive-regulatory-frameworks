@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.240
 title: "Funding of disability benefit (Reemployment of Retired Members)"
 doc_type: statute

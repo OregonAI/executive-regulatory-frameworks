@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.089
 title: "Requalification of disqualified nonexclusive farm use zone farmland; fee"
 doc_type: statute

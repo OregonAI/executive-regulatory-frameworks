@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.477
 title: "Grounds for revocation, suspension or restriction of license (Employees and Other Workers)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.275
 title: "Criminal Justice Information Standards Advisory Board; members; expenses"
 doc_type: statute

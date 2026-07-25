@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-543a.060
 title: "Coordination of state and federal reauthorization processes"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.093
 title: "Board duties; rules (Oregon Infrastructure Finance Authority)"
 doc_type: statute

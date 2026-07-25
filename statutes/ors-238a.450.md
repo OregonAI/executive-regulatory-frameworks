@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.450
 title: "Rules for Oregon Public Service Retirement Plan"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.992
 title: "Suspension; revocation; civil penalty; rules; injunctive relief"
 doc_type: statute

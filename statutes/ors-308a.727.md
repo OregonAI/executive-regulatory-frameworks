@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.727
 title: "Change to open space use; additional taxes upon withdrawal; notification upon application"
 doc_type: statute

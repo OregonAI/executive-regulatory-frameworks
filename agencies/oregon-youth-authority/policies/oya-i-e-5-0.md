@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-e-5-0
 title: "Notification to Parents/Guardians"
 doc_type: policy

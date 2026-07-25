@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.085
 title: "Sale of rights by distributor to exhibit motion picture without first giving exhibitor opportunity to view motion picture prohibited; attorney fees"
 doc_type: statute

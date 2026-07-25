@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.831
 title: "Legal address and ownership of premises used for marijuana production, processing; owner consent; rules (Medical Marijuana Dispensaries)"
 doc_type: statute

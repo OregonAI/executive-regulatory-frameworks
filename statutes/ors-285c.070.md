@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.070
 title: "Election to permit hotels, motels or destination resorts as eligible business firms; procedures; election revocation"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.343
 title: "Public meetings; private actions (Temporary provisions relating to benchmarks for excess noncancer risk for existing air contamination sources are compiled as n"
 doc_type: statute

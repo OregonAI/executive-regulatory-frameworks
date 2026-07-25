@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.630
 title: "Procedure for denial, suspension or revocation of application or certification"
 doc_type: statute

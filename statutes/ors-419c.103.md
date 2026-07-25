@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.103
 title: "Procedure when youth is not released; release decision when youth taken into custody resides in other county"
 doc_type: statute

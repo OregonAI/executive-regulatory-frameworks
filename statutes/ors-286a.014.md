@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.014
 title: "Fees and expenses of State Treasurer; rules"
 doc_type: statute

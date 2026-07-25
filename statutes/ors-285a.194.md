@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.194
 title: "Forgivable loan program for removal and remedial costs at brownfields; limits; loan enhancements"
 doc_type: statute

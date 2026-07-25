@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.940
 title: "Definitions for ORS 181A.940 to"
 doc_type: statute

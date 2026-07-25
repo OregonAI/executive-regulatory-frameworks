@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.046
 title: "Reauthorization of hydroelectric project not to limit authority of department related to certification of project for water quality purposes"
 doc_type: statute

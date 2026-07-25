@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.750
 title: "Department of Early Learning and Care responsible for administering federal funds"
 doc_type: statute

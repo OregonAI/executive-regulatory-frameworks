@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.745
 title: "Alternative access redemption centers; mobile or satellite redemption sites; rules"
 doc_type: statute

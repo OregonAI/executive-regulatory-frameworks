@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.474
 title: "Warrants and checks more than two years old; report by fiscal officer; claim by owner"
 doc_type: statute

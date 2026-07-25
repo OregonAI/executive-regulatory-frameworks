@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.718
 title: "Distributor cooperatives; requirements; beverage container registry; compliance; report; rules"
 doc_type: statute

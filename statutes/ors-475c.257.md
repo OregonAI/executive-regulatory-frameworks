@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.257
 title: "Prohibition against sale of certain marijuana items; rules (Disciplining Licensees)"
 doc_type: statute

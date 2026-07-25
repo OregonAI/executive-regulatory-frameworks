@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-irb-unanticipated-problems-and-adverse-events
 title: "Unanticipated Problems and Adverse Events"
 doc_type: policy

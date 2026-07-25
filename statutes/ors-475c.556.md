@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.556
 title: "Statement of applicant for license under ORS 475C.548"
 doc_type: statute

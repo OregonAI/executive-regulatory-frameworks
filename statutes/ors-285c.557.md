@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.557
 title: "Certification required for tax credits; certification not to exceed five years; use by transferee"
 doc_type: statute

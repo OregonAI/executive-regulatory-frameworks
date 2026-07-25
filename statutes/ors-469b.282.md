@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.282
 title: "Limitation on amount receiving preliminary certification"
 doc_type: statute

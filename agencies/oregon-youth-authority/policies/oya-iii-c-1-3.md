@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-c-1-3
 title: "Behavior Incentives and Reinforcing Behavior (Community)"
 doc_type: policy

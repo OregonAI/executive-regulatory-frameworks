@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.600
 title: "Harmful algal bloom monitoring and response strategy; data; determination of causes"
 doc_type: statute

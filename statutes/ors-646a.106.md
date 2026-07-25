@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.106
 title: "Circumstances in which going out of business sale prohibited"
 doc_type: statute

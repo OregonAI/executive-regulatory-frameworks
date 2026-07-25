@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.590
 title: "Complaint process for substitutions of subcontractors; civil penalties (Action on Payment Bonds and Public Works Bonds)"
 doc_type: statute

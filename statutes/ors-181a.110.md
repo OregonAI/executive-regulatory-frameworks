@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.110
 title: "Standard uniform for state police; service without wearing uniform; wearing uniforms by other persons prohibited"
 doc_type: statute

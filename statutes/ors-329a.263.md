@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.263
 title: "Emergency plan for facilities; training; rules"
 doc_type: statute

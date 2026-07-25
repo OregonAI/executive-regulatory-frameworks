@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.200
 title: "Authority of Department of Human Services, Oregon Health Authority and Employment Department to require fingerprints; qualified entities; rules (Temporary provi"
 doc_type: statute

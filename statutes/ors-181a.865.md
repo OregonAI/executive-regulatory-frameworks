@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.865
 title: "Qualifications for executive manager or supervisory manager"
 doc_type: statute

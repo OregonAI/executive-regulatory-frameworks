@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.102
 title: "Lien of a pledge; Uniform Commercial Code"
 doc_type: statute

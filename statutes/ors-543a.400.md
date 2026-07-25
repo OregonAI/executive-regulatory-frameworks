@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-543a.400
 title: "Duties of Hydroelectric Application Review Team"
 doc_type: statute

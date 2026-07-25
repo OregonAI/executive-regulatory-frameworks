@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.676
 title: "Uniform background checklist; standardized personal history questionnaire (Misconduct, Discipline and Standards)"
 doc_type: statute

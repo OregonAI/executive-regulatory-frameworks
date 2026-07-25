@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.590
 title: "Advisory committee on standards for testing potency of marijuana and marijuana items PACKAGING,"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.038
 title: "Moneys paid prior to facility opening; disposition; priority of claim; refund"
 doc_type: statute

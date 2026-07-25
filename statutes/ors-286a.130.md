@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.130
 title: "Bond counsel services; financial advisory services; Public Contracting Code"
 doc_type: statute

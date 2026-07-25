@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-ca
 title: "Statewide IT Control Standards — Assessment, Authorization, and Monitoring (CA)"
 doc_type: standard

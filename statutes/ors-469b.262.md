@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.262
 title: "Limitations on amount of potential tax credits for certified renewable energy development contributions; allocation; rules"
 doc_type: statute

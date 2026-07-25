@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.455
 title: "Automated external defibrillators required at places of public assembly; exceptions"
 doc_type: statute

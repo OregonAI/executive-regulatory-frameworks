@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-2-010
 title: "Notification Regarding Fire-setters and Arsonists"
 doc_type: policy

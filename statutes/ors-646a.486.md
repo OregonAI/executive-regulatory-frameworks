@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.486
 title: "Prohibited actions if estimate exceeds $200; revision of estimate; methods to obtain owner authorization"
 doc_type: statute

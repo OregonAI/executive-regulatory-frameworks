@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.200
 title: "Court-appointed counsel for youth; waiver"
 doc_type: statute

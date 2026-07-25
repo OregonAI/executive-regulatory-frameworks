@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.707
 title: "Asbestos abatement program; rules; contractor licensing; worker certification"
 doc_type: statute

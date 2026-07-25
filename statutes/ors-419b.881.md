@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.881
 title: "Disclosure; scope; when required; exceptions; breach of duty to disclose"
 doc_type: statute

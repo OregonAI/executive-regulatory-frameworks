@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.421
 title: "Levee Project Grant Fund; limits; matching funds; rural and distressed areas (Municipal Development Projects)"
 doc_type: statute

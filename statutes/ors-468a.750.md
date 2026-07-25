@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.750
 title: "Fee schedule; waiver; disposition; rules"
 doc_type: statute

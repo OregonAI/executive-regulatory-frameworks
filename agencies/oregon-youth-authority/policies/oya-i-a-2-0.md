@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-a-2-0
 title: "State/Tribal Government-to-Government Relations"
 doc_type: policy

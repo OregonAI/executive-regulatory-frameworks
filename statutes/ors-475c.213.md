@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.213
 title: "Prohibition against selling or delivering marijuana items to persons under 21 years of age; exception"
 doc_type: statute

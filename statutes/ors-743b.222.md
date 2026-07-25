@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.222
 title: "Designation of women’s health care provider as primary care provider; direct access to women’s health care provider"
 doc_type: statute

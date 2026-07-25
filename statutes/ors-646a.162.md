@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.162
 title: "Investigation of violations; inspection of records; subpoenas; discontinue or desist order; civil penalties"
 doc_type: statute

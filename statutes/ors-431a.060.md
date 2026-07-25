@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.060
 title: "Designation of trauma areas; rules; trauma system hospitals"
 doc_type: statute

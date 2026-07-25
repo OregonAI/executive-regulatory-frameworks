@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.253
 title: "Labeling of industrial hemp commodity or product"
 doc_type: statute

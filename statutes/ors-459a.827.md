@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.827
 title: "Plan for architectural paint stewardship program; requirements; exemptions; assessment"
 doc_type: statute

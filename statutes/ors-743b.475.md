@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.475
 title: "Guidelines for coordination of benefits; rules (Temporary provisions relating to primary care payment collaborative are compiled as notes following ORS 743B.475"
 doc_type: statute

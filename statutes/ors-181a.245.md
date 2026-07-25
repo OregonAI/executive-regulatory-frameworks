@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.245
 title: "Procedure when information requested by other than criminal justice agency"
 doc_type: statute

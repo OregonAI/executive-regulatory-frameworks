@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.699
 title: "Reimbursement to port revolving fund upon refinancing of project"
 doc_type: statute

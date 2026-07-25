@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.694
 title: "Annual affordability determination for identified drugs and insulin products; criteria for and limitations on determination; confidentiality; rules"
 doc_type: statute

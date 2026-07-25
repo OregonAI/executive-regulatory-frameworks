@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.023
 title: "Duties of person conducting investigation under ORS 419B.020"
 doc_type: statute

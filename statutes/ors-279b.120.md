@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.120
 title: "Prequalification of prospective bidders and proposers"
 doc_type: statute

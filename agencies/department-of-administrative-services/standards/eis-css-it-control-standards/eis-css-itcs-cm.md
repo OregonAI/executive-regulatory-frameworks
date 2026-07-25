@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-cm
 title: "Statewide IT Control Standards — Configuration Management (CM)"
 doc_type: standard

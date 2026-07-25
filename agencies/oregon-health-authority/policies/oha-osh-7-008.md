@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-7-008
 title: "Patient Abuse or Mistreatment Allegation Reporting"
 doc_type: policy

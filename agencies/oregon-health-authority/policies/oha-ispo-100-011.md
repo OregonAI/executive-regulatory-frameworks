@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-ispo-100-011
 title: "De-identification of Individual Information and Use of Limited Data Sets Policy"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-a-8-0
 title: "Use of Physical Intervention and Restraints in the Community"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.630
 title: "Authority to require preapproval of labels; fees"
 doc_type: statute

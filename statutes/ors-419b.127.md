@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.127
 title: "Transfer to court of county of child or ward’s residence"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.147
 title: "Oregon-Ireland Sister State Committee authority"
 doc_type: statute

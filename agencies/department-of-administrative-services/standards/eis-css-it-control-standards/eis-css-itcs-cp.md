@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-cp
 title: "Statewide IT Control Standards — Contingency Planning (CP)"
 doc_type: standard

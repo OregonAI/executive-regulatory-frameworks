@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.201
 title: "Compensation for court-appointed counsel for child or ward under ORS 135.055"
 doc_type: statute

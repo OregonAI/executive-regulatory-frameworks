@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.326
 title: "Notification to law enforcement agency when kit collected"
 doc_type: statute

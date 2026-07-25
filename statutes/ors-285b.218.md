@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.218
 title: "Pledge to assure repayment; transfer of funds to pay claims"
 doc_type: statute

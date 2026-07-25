@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.379
 title: "Unlawful production of marijuana (Defenses, Protection and Setting Aside of Conviction)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.214
 title: "Verification of identity in credit or debit card transactions (Credit and Charge Card Solicitation Disclosure Requirements)"
 doc_type: statute

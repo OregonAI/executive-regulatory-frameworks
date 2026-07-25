@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.277
 title: "Credits to deductibles and out-of-pocket expenses; requirements; process"
 doc_type: statute

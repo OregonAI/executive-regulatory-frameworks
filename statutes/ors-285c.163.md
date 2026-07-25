@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.163
 title: "Posting of agreement terms on zone sponsor’s website; rules"
 doc_type: statute

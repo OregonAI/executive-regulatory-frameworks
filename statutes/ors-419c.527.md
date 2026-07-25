@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.527
 title: "Procedure for state to obtain mental examination of youth; limitations"
 doc_type: statute

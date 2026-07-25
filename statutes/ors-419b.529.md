@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.529
 title: "Adoption after permanent commitment or surrender; procedure; certain fees prohibited"
 doc_type: statute

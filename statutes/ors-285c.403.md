@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.403
 title: "Certification of business firm; fulfillment centers ineligible; application; written agreement; period of exemption; appeals"
 doc_type: statute

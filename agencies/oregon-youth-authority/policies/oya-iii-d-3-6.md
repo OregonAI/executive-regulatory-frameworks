@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-d-3-6
 title: "Family Planning Services - Youth"
 doc_type: policy

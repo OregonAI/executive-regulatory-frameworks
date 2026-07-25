@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.335
 title: "Requirements for sale of covered electronic devices by retailers; retailer’s duty to consumers regarding information about recycling covered electronic devices"
 doc_type: statute

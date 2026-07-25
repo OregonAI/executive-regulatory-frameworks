@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.240
 title: "Treatment of child support obligations by creditor in applications for extensions of credit"
 doc_type: statute

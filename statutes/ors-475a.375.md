@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.375
 title: "Powers and duties relating to psilocybin service facilitators"
 doc_type: statute

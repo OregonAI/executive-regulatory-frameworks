@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.093
 title: "Employer required to provide leave; job protection; benefits; notice to employer; use of accrued leave; rules"
 doc_type: statute
