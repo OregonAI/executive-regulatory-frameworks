@@ -13,14 +13,16 @@ are metadata stubs today: no `## Full text`, nothing diffable, flagged in REVIEW
 the highest review priority. Recovering them adds text where there is currently none,
 which is a strictly different (and safer) proposition than replacing text that exists.
 
-THE GUARDRAIL. AGENTS.md's rule is "never auto-OCR a scan into `## Full text`", written
-when the only available option was a single engine that produced garbage. This tool is
-the amended form of that rule, not an exemption from it: text is promoted only when TWO
-INDEPENDENT engines agree. Two engines inventing the *same* words is vanishingly
-unlikely, so high agreement is positive evidence the words are really on the page —
-which is exactly the assurance a single engine cannot give. Promotion additionally
-requires the pre-existing quality gate (>= MIN_WORDS words, >= MIN_DICT_RATIO
-dictionary-recognizable) to pass unchanged.
+THE GUARDRAIL. This tool implements AGENTS.md's "OCR into `## Full text` — the
+two-engine rule"; read that section first, it is the governing policy and this file is
+only its mechanism. It replaced a blanket "never auto-OCR a scan into `## Full text`",
+written when the only option was a single engine producing garbage — and a single
+engine's output is still never promotable. What changed is that INDEPENDENT
+CORROBORATION is now available: two engines sharing no model weights are vanishingly
+unlikely to invent the *same* words, so high agreement is positive evidence the words
+are really on the page, which is exactly the assurance one engine cannot give.
+Promotion additionally requires the pre-existing quality gate (>= MIN_WORDS words,
+>= MIN_DICT_RATIO dictionary-recognizable) to pass unchanged.
 
 Anything below either bar is left exactly as it is — still a stub, still in REVIEW.md —
 with the attempt recorded in `_meta/catalog/eo.yml`'s `text_layer` so a later run can
