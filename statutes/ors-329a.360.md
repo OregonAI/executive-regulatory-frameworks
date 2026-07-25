@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.360
 title: "Notice; hearing; decision; judicial review"
 doc_type: statute

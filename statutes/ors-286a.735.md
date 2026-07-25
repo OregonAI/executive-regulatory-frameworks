@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.735
 title: "Authority of State Treasurer to issue pension liability bonds; nature and purpose of bonds; refunding bonds"
 doc_type: statute

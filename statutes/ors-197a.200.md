@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.200
 title: "Local government planning for needed housing (Temporary provisions relating to affordable housing pilot program are compiled as notes following ORS 197A.200) (T"
 doc_type: statute

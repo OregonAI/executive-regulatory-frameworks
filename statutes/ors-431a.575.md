@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.575
 title: "Oregon Health Authority to provide pamphlets"
 doc_type: statute

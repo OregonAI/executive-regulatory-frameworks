@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.696
 title: "Report to Health Care Cost Growth Target program and Legislative Assembly; contents of report"
 doc_type: statute

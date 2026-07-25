@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.180
 title: "Payment of certain court costs not required CLIMATE CHANGE (Natural Climate Solutions)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-b-4-0
 title: "Youth Rights and Grievances in the Community"
 doc_type: policy

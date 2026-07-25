@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.661
 title: "Director’s supervisory authority; examinations and investigations; referral to Attorney General; costs of examination or investigation; consultation and coopera"
 doc_type: statute

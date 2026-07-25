@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.082
 title: "Floral retail sales; disclosure of principal place of business; enforcement; penalty"
 doc_type: statute

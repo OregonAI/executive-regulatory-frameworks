@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.656
 title: "Suspension or revocation of certificate; recapture of tax credit"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.125
 title: "Exclusively medical licensee designation for marijuana processor"
 doc_type: statute

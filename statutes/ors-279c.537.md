@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.537
 title: "Condition concerning use of diesel engines in motor vehicles used in performing certain public improvement contracts; rules (Hours of Labor)"
 doc_type: statute

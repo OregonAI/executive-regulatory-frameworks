@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.203
 title: "License assignment program; rules (Conduct of Licensees)"
 doc_type: statute

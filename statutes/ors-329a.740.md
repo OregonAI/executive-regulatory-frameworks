@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.740
 title: "Financial support and child care subsidies for construction workforce; rules"
 doc_type: statute

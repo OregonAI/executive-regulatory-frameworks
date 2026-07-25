@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.435
 title: "Distribution of death benefit as rollover distribution RULES"
 doc_type: statute

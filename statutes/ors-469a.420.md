@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.420
 title: "Emissions verification; baseline emissions determination; clean energy plan acknowledgment; annual report; compliance"
 doc_type: statute

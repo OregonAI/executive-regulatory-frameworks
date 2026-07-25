@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.135
 title: "National Crime Prevention and Privacy Compact; rules"
 doc_type: statute

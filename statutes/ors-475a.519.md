@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.519
 title: "Duty to notify Oregon Health Authority of conviction of licensee"
 doc_type: statute

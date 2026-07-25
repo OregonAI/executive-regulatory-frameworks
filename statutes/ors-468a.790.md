@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.790
 title: "Memorandum of understanding with State Department of Agriculture; rules"
 doc_type: statute

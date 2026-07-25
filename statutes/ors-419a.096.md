@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.096
 title: "Duties of Judicial Department in administering boards"
 doc_type: statute

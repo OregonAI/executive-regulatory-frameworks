@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.683
 title: "Form for reports; forwarding of reports to law enforcement unit"
 doc_type: statute

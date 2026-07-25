@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.700
 title: "Authority to issue baccalaureate bonds"
 doc_type: statute

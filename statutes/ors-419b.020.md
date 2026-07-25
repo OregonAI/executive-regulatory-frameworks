@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.020
 title: "Duty of department or law enforcement agency receiving report; investigation; notice; physical examination; child’s consent; notice at conclusion of investigati"
 doc_type: statute

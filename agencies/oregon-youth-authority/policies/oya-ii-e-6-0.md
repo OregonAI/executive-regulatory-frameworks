@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-e-6-0
 title: "Substance Use Assessment and Treatment in OYA Facilities"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.620
 title: "Rights of person providing medical care to employees of contractor"
 doc_type: statute

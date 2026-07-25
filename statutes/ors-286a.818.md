@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.818
 title: "Authority of State Treasurer to issue bonds"
 doc_type: statute

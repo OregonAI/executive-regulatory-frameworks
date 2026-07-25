@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.510
 title: "Demolition contracts to require material salvage; lawn and landscape maintenance contracts to require composting or mulching"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.109
 title: "Review of cases of wards for whom guardian has been appointed; rules"
 doc_type: statute

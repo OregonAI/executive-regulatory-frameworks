@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.950
 title: "Waste Prevention and Reuse Fund"
 doc_type: statute

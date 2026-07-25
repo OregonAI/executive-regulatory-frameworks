@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.460
 title: "Agency’s responsibility (Permanency Hearing)"
 doc_type: statute

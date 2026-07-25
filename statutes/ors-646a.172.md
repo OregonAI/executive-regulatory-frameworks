@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.172
 title: "Rules; exemption of certain obligors CREDIT AND PURCHASING (Credit and Debit Card Receipts)"
 doc_type: statute

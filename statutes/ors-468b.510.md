@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.510
 title: "Seismic vulnerability assessment required for bulk oils or liquid fuels terminal; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.590
 title: "Use, management, disposal and resource recovery; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.706
 title: "Applicability of tax laws to ORS 475A.658 to"
 doc_type: statute

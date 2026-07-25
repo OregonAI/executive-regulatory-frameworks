@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.323
 title: "Coordinating body; manufacturer obligation"
 doc_type: statute

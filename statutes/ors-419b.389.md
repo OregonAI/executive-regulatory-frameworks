@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.389
 title: "Inability of parent to comply with order of court (Parentage)"
 doc_type: statute

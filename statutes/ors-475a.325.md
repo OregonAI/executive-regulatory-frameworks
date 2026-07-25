@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.325
 title: "Psilocybin service facilitator license; fees; rules"
 doc_type: statute

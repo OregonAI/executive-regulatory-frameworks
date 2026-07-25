@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.697
 title: "Study of market for generic drugs; effect of pricing on insurance premiums; report to Legislative Assembly MORTGAGE RESCUE FRAUD PREVENTION ACT (Foreclosure Con"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.272
 title: "Fuel supply forecast; forecast review team"
 doc_type: statute

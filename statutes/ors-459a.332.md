@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.332
 title: "Submission of information to Department of Environmental Quality; confidentiality"
 doc_type: statute

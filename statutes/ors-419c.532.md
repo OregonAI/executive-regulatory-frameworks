@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.532
 title: "Hearings of Psychiatric Security Review Board; requirements; standards; dispositions"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.659
 title: "Report; posting on Oregon transparency website required Note: 285A.010 contains definitions for ORS chapter 285C. ENTERPRISE ZONES (Generally)"
 doc_type: statute

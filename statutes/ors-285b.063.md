@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.063
 title: "Annual adjustment of maximum contract amounts"
 doc_type: statute

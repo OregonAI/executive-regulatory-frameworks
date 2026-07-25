@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.346
 title: "Secretary of State prohibited from using covered products; risk mitigation; exceptions"
 doc_type: statute

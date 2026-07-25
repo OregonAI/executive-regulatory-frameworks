@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.315
 title: "Expansion study areas; notice; urban service agreements"
 doc_type: statute

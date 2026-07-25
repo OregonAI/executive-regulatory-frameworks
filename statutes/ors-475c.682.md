@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.682
 title: "Collection of tax; refund; credit; penalties"
 doc_type: statute

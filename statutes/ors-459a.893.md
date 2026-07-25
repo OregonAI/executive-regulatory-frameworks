@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.893
 title: "Development of educational resources; promotional campaigns (Temporary provisions relating to recommendations for digital labeling to convey recyclability claim"
 doc_type: statute

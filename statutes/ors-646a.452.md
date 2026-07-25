@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.452
 title: "Enforcement by Attorney General (Warranties on Assistive Devices)"
 doc_type: statute

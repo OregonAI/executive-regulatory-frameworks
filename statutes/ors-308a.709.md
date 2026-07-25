@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.709
 title: "Circumstances when additional taxes are not imposed"
 doc_type: statute

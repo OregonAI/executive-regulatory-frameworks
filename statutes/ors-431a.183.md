@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.183
 title: "Agreements to enforce regulation of tobacco products and inhalant delivery systems; report; rules TOBACCO RETAILER LICENSURE (Generally)"
 doc_type: statute

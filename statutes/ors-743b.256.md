@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.256
 title: "Duties of independent review organizations; expedited reviews"
 doc_type: statute

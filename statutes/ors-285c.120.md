@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.120
 title: "Zone boundary change restrictions when county ceases to be sparsely populated; waiver of distance limitations (Duties of Property Tax Administrators)"
 doc_type: statute

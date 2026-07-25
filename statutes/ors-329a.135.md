@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.135
 title: "Duties of department related to resource and referral system CHILD CARE FACILITIES (Generally)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-5-020
 title: "Staff and Adult in Custody Worker Relationships"
 doc_type: policy

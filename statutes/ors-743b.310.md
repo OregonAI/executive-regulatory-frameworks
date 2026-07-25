@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.310
 title: "Rescinding coverage; permissible bases; notice; rules (Termination)"
 doc_type: statute

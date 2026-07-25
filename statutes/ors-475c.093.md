@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.093
 title: "Wholesale license; fees; rules (License to Sell Marijuana Items at Retail)"
 doc_type: statute

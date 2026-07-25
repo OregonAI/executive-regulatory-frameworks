@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.116
 title: "Regions for job development; economic innovation coordination (Sister States)"
 doc_type: statute

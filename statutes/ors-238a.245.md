@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.245
 title: "Reemployment after commencement of pension benefits (Temporary provisions relating to employment of retired member through 2034 are compiled as notes following "
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.318
 title: "Change in use of open space land; notice to assessor; withdrawal from classification; collection of additional taxes; exception"
 doc_type: statute

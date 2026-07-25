@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.377
 title: "Abatement of additional taxes when farm, forest or open space land designated riparian"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.850
 title: "Prohibited acts; temporary assignment of person not certified allowed"
 doc_type: statute

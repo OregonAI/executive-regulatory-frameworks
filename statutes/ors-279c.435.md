@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.435
 title: "Effect of prequalification by Department of Transportation or Oregon Department of Administrative Services"
 doc_type: statute

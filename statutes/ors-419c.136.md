@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.136
 title: "Temporary hold to develop release plan; duration"
 doc_type: statute

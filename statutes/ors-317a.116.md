@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-317a.116
 title: "Corporate activity tax imposed on commercial activity"
 doc_type: statute

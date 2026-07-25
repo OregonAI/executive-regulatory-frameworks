@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.456
 title: "Limits on use of electronic payment methods for reimbursement of dental claims"
 doc_type: statute

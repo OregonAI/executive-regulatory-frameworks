@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.655
 title: "Minimum reuse, recycled material or recycled content for rigid plastic containers"
 doc_type: statute

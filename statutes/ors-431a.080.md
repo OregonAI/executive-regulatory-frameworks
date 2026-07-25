@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.080
 title: "Duties of Oregon Health Authority related to trauma"
 doc_type: statute

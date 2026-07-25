@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.150
 title: "Appointment; qualifications; hearings; orders; rehearings"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.190
 title: "Oregon Coalition Brownfields Cleanup Program; loans and grants; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.838
 title: "Applicability of state and federal rates of wage; determination of site of project; determination of applicability of wage to transportation workers; waiver"
 doc_type: statute

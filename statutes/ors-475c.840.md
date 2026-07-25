@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.840
 title: "Medical marijuana dispensary located within 1,000 feet of prekindergarten, kindergarten or school"
 doc_type: statute

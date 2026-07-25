@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.225
 title: "Condition concerning salvaging, recycling, composting or mulching yard waste material"
 doc_type: statute

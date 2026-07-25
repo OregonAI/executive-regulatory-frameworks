@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.581
 title: "Duties of processor of personal data; contract between controller and processor; liabilities of controller and processor"
 doc_type: statute

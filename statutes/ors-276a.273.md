@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.273
 title: "Electronic Government Portal Advisory Board"
 doc_type: statute

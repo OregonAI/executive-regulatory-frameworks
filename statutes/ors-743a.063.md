@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.063
 title: "Ninety-day supply of prescription drug refills"
 doc_type: statute

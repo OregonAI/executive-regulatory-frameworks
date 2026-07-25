@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.476
 title: "Civil action for damages; attorney fees; limitation on actions"
 doc_type: statute

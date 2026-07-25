@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eo-08-26-rev
 title: "Oregon Energy Planning Council"
 doc_type: executive_order

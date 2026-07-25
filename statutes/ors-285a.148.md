@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.148
 title: "Oregon-China Sister State Committee; membership; term"
 doc_type: statute

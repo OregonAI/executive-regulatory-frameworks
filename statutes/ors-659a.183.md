@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.183
 title: "Denying family leave to eligible employee prohibited; retaliation prohibited"
 doc_type: statute

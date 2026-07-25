@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.845
 title: "Certified statements regarding payment of prevailing rates of wage; retainage"
 doc_type: statute

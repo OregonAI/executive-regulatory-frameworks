@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.768
 title: "Oregon Business Development Department to develop and implement loan program; limits and requirements"
 doc_type: statute

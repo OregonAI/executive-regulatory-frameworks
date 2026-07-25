@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.244
 title: "Cause of action for violation of ORS 646A.240; injunction; attorney fees; defenses (Gift Cards)"
 doc_type: statute

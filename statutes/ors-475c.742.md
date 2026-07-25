@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.742
 title: "Financial institution exempt from certain criminal laws"
 doc_type: statute

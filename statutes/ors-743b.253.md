@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.253
 title: "Director to contract with independent review organizations to provide external review; rules"
 doc_type: statute

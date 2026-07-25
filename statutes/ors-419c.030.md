@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.030
 title: "Screening for sex trafficking victims; resource referral"
 doc_type: statute

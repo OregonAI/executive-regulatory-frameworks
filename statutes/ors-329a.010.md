@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.010
 title: "Implementation of child care laws by department; child care information"
 doc_type: statute

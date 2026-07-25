@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-543a.125
 title: "Approval or rejection of application for reauthorization"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.803
 title: "Uses of Clean Diesel Engine Fund; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.800
 title: "Applicability of ORS 419B.800 to"
 doc_type: statute

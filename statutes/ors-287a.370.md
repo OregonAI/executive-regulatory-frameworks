@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.370
 title: "Proposed refunding plan for advance refunding bonds or forward current refunding; rules; fees"
 doc_type: statute

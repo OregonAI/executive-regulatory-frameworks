@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.444
 title: "Recordkeeping requirements for warrantor; record retention"
 doc_type: statute

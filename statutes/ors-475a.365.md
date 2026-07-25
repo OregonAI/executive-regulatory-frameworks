@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.365
 title: "Use of client information form in prosecution; reliance on client information form; exception from liability"
 doc_type: statute

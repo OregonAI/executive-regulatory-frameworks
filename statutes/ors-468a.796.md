@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.796
 title: "School buses; repowering or retrofitting of engines; replacement"
 doc_type: statute

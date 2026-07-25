@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.890
 title: "Dismissal of petition at end of petitioner’s case; settlement conference"
 doc_type: statute

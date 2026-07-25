@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.300
 title: "Requiring breathalyzer, polygraph, psychological stress or brain-wave test or genetic test prohibited; exceptions"
 doc_type: statute

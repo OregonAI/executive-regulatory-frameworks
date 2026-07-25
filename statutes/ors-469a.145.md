@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.145
 title: "Limitations on use of unbundled certificates to meet renewable portfolio standard"
 doc_type: statute

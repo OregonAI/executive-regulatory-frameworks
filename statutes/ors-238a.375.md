@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.375
 title: "Distribution of accounts to inactive member (Defined Contribution Benefit)"
 doc_type: statute

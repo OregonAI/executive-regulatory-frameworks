@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.276
 title: "Ability to offer government services through portal; portal provider fee; rules"
 doc_type: statute

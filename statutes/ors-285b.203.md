@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.203
 title: "Purpose of Credit Enhancement Fund"
 doc_type: statute

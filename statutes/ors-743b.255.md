@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.255
 title: "Enrollee application for external review; when enrollee deemed to have exhausted internal appeal"
 doc_type: statute

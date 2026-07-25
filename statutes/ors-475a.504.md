@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.504
 title: "Prohibition regarding person who is visibly intoxicated; penalty"
 doc_type: statute

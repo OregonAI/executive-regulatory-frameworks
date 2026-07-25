@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.460
 title: "Residential use of commercial lands for affordable housing"
 doc_type: statute

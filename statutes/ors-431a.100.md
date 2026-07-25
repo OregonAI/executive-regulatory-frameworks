@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.100
 title: "Release of information from Oregon Trauma Registry"
 doc_type: statute

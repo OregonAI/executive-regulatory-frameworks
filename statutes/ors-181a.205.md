@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.205
 title: "Fingerprint retention system; Rap Back program; rules; fee"
 doc_type: statute

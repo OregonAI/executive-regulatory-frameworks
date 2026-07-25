@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.048
 title: "Rules for standards of quality and purity; factors to be considered; meeting standards"
 doc_type: statute

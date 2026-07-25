@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.865
 title: "Disclosure of personally identifiable information upon revocation or suspension of registration"
 doc_type: statute

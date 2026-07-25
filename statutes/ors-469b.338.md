@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.338
 title: "Certificate required for tax credits; certification not to exceed five years"
 doc_type: statute

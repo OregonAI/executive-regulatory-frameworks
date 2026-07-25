@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-10-004
 title: "Override Process for Medications in Emergency Situations"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.087
 title: "Sale of goods or services online; requirements for price advertisements, displays or offers; unlawful practice; exclusions"
 doc_type: statute

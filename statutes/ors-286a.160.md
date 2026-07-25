@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.160
 title: "Exception to expenditure limits for repaying obligations; administrative limits; reports"
 doc_type: statute

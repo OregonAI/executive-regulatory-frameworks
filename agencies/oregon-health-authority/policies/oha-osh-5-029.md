@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-5-029
 title: "Tobacco and Smoke-Free Facility"
 doc_type: policy

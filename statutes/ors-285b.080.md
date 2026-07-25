@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.080
 title: "Director as agent; duties; authority to approve loans"
 doc_type: statute

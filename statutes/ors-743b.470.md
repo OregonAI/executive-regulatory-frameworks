@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.470
 title: "Medicaid not considered in coverage eligibility determination; claims for services paid for by medical assistance; prohibited ground for denial of enrollment of"
 doc_type: statute

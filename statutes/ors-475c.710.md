@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.710
 title: "Authority to retain portion of tax to pay expenses incurred"
 doc_type: statute

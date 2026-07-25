@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.075
 title: "Department duties; rules; contract authority; foreign trade offices"
 doc_type: statute

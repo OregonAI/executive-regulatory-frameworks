@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.037
 title: "Grounds for refusing to issue license or issuing restricted license"
 doc_type: statute

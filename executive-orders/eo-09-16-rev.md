@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eo-09-16-rev
 title: "Implementing the State Response to Pandemic H1N1 Influenza"
 doc_type: executive_order

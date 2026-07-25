@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.001
 title: "Purposes of juvenile justice system in delinquency cases; audits"
 doc_type: statute

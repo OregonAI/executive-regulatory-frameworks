@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.049
 title: "Duties of Oregon Liquor and Cannabis Commission with respect to issuing licenses"
 doc_type: statute

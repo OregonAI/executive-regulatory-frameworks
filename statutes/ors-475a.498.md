@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.498
 title: "Use of psilocybin product allowed only at service center and only under facilitator supervision"
 doc_type: statute

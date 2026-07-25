@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.333
 title: "Prohibition against giving marijuana item as prize; penalty"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.115
 title: "Loss reserve accounts; policies; rules; moneys as property of state"
 doc_type: statute

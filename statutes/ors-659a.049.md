@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.049
 title: "Rights of reinstatement and reemployment protected"
 doc_type: statute

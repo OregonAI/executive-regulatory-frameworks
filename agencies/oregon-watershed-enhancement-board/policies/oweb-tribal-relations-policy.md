@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oweb-tribal-relations-policy
 title: "Revised Statement of State-Tribal Relations Policy"
 doc_type: policy

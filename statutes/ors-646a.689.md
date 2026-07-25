@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.689
 title: "Requirement to report certain information concerning drug manufacturing and pricing; contents of report; penalty; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.550
 title: "Discrimination because of employment status prohibited; penalties ADMINISTRATIVE ACTIONS FOR UNLAWFUL DISCRIMINATION (Enforcement Powers of Bureau of Labor and "
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.815
 title: "Determination of prevailing wage; sources of information; comparison of state and federal prevailing wage; other powers of commissioner"
 doc_type: statute

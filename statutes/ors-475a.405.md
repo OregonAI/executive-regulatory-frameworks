@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.405
 title: "Authority to prevent diversion of psilocybin products"
 doc_type: statute

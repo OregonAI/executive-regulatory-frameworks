@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.408
 title: "Use of informal dispute settlement procedure as condition for remedy; binding effect on manufacturer"
 doc_type: statute

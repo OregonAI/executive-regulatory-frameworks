@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.117
 title: "Documentation for zone boundary change to be submitted to department; requirements for positive determination"
 doc_type: statute

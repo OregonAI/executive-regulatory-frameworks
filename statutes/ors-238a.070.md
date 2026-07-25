@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.070
 title: "Participation generally PENSION PROGRAM (Membership)"
 doc_type: statute

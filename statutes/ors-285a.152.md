@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.152
 title: "Oregon-China Sister State Committee authority (Oregon Broadband Advisory Council)"
 doc_type: statute

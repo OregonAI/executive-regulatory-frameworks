@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.085
 title: "City, county authority to issue collection service franchises; opportunity to recycle; rates"
 doc_type: statute

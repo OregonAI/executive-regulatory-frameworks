@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.067
 title: "Consultation with local taxing districts; school support fee rate; rules"
 doc_type: statute

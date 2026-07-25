@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-irb-ph-irb-policy-procedures-manual-the-revised-common-rule
 title: "PH IRB Policy & Procedures Manual: The Revised Common Rule"
 doc_type: policy

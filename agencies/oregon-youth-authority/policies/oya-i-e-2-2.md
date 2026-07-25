@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-e-2-2
 title: "Youth Facility Case File and Medical File Protection and Transfer"
 doc_type: policy

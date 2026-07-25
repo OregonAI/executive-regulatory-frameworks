@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.268
 title: "Exemption from requirement to remove or substitute chemicals"
 doc_type: statute

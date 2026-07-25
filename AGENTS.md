@@ -28,7 +28,7 @@ authoritative. Every answer you derive from it should cite the document's `sourc
 
 ## Directory routing (CI-enforced)
 
-Every `doc_type` has exactly one directory it may live in — `validate_frontmatter.py`
+Every `doc_type` has exactly one directory it may live in — `corpus-validate-frontmatter`
 hard-fails CI if a document is in the wrong place, or if a `_pr` filename and
 `doc_type: procedure` disagree. Jurisdiction-wide types sit at repo root; the rest are
 agency-scoped under `agencies/<agency>/`:
@@ -114,7 +114,7 @@ is needed for state-authored content.
   parent/sub-unit hierarchy from the index tree), refreshed via
   `python3 src/catalog_agencies.py --refresh`. Every content file's `agency:` field
   must be `statewide`, `external`, or a slug from this registry —
-  `validate_frontmatter.py` hard-fails otherwise.
+  `corpus-validate-frontmatter` hard-fails otherwise.
 - **Agency profiles**: `_meta/agency-profiles.yml` carries curated context ABOUT each
   agency's data — governance class (citation basis REQUIRED; 'unclassified' is the
   only uncited value allowed), where the agency publishes policies (or that it
@@ -133,8 +133,9 @@ is needed for state-authored content.
   (`.claude/skills/check-updates`) — group-scoped, token-efficient, driven by
   `src/check_updates.py` over the update groups in `_meta/sources/`. Log a
   `Source-Updated` entry in the affected body's `CHANGELOG.md`.
-- **Every PR**: run `python3 src/validate_frontmatter.py` and
-  `python3 src/verify_provenance.py` locally; complete the PR checklist; update the
+- **Every PR**: run `corpus-validate-frontmatter --config _meta/corpus.yml --schema
+  .toolkit/schemas/document.frontmatter.v1.schema.json` and
+  `corpus-verify-provenance --config _meta/corpus.yml` locally; complete the PR checklist; update the
   relevant `CHANGELOG.md` and, for new documents, the directory `_index.md`, and run
   `python3 src/build_llms.py` (llms.txt regenerates itself from the corpus).
 
@@ -186,25 +187,33 @@ add a hand-authored relationship if the document really has no in-repo authority
 
 ## MCP server
 
-`src/mcp_server.py` serves this corpus over MCP (stdio or `--http`): search
-(`search_corpus`, `mode` = hybrid/keyword/semantic), `get_document` with provenance,
-citation resolution incl. OAR renumbering, and authority-chain traversal over
-`_meta/graph.json`. Setup, tool reference, and deploy notes: [docs/mcp.md](docs/mcp.md).
-The query engine (`src/mcp_lib.py`) is stdlib-only and CI-tested (`--selftest`); its FTS
-cache lives in `_meta/.cache/` (gitignored) and rebuilds automatically when the repo
-changes. Semantic/vector search is optional and additive: it uses a committed int8 vector
-index under `_meta/embeddings/` (built offline by `src/build_embeddings.py`, refreshed
-after ingests, CI-gated by `--check`) and the extras in `requirements-embeddings.txt`
-(numpy + a local embedding model); when those are absent the engine transparently falls
-back to keyword-only, so the stdlib guarantee holds. Never hand-edit the vector artifact.
+`corpus-mcp-serve --config _meta/corpus.yml` (from corpus-toolkit) serves this corpus
+over MCP (stdio or `--http`): search (`search_corpus`, `mode` = hybrid/keyword/semantic),
+`get_document` with provenance, citation resolution incl. OAR renumbering, and
+authority-chain traversal over `_meta/graph.json`. Setup, tool reference, and deploy
+notes: [docs/mcp.md](docs/mcp.md). The generic query engine
+(`corpus_toolkit.mcp.framework`) is stdlib-only; this corpus's citation/renumbering
+logic and snapshot-slicing rules plug in via `src/citation_schemes.py` and
+`src/snapshot_slice.py` (see `_meta/corpus.yml`'s `plugins:` block). Its FTS cache lives
+in `_meta/.cache/` (gitignored) and rebuilds automatically when the repo changes.
+Semantic/vector search is optional and additive, wired in via `src/semantic_search.py`:
+it uses a committed int8 vector index under `_meta/embeddings/` (built offline by
+`src/build_embeddings.py`, refreshed after ingests, CI-gated by `--check`) and the
+extras in `requirements-embeddings.txt` (numpy + a local embedding model); when those are
+absent the engine transparently falls back to keyword-only. Never hand-edit the vector
+artifact.
 
 ## Validation commands
 
 ```bash
-python3 src/validate_frontmatter.py   # schema + relationship-graph check, all content files
-python3 src/verify_provenance.py      # snapshot hash + full-text containment/coverage
-python3 src/detect_changes.py         # re-fetch manifest URLs, report hash drift
+corpus-validate-frontmatter --config _meta/corpus.yml \
+  --schema .toolkit/schemas/document.frontmatter.v1.schema.json   # schema + relationship-graph check
+corpus-verify-provenance --config _meta/corpus.yml   # snapshot hash + full-text containment/coverage
+corpus-detect-changes --config _meta/corpus.yml      # re-fetch manifest URLs, report hash drift
 ```
+
+(All three are console entry points installed from corpus-toolkit — see
+`requirements.txt` — not local `src/` scripts.)
 
 At corpus scale both validators support `--changed [ref]` (verify only files in the git
 diff vs `ref`, default merge-base with `origin/main`) and `-j N` (parallel workers,
@@ -212,4 +221,5 @@ default all CPUs). CI uses `--changed` on PRs and the full corpus on push-to-mai
 nightly cron. The relationship-resolution universe in `--changed` mode is read from
 `_meta/graph.json`'s nodes, so scoped PR runs still resolve targets against the whole corpus.
 
-Dependencies: `pip install pyyaml jsonschema`.
+Dependencies: `pip install -r requirements.txt` (installs corpus-toolkit, pinned in
+that file, plus pyyaml/jsonschema for the local scripts under `src/`).

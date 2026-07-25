@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.010
 title: "Issuance of group health benefit plan to affiliated group of employers; determination of number of employees for purpose of determining eligibility as small emp"
 doc_type: statute

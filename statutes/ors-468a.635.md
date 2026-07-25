@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.635
 title: "Restrictions on sale, installation and repairing of items containing chlorofluorocarbons and halon; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.235
 title: "Authority of county assessor; authority of sponsor (Disqualification From Exemption)"
 doc_type: statute

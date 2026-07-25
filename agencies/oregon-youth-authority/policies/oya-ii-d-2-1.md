@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-d-2-1
 title: "Youth Substance Use Screening in OYA Facilities"
 doc_type: policy

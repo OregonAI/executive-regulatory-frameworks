@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.205
 title: "Restrictions on delivery or receipt; waiver by commission"
 doc_type: statute

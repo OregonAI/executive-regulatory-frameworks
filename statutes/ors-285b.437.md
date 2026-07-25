@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.437
 title: "Contract with municipality; required provisions; repayment"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.257
 title: "Civil penalty for failure to comply by insurer that agreed to be bound by decision"
 doc_type: statute

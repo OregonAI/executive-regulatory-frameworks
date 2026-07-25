@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-7-016
 title: "Outdoors and Fresh Air Patient Rights"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.027
 title: "Certification of eligibility for certain generating facilities; generation date of electricity"
 doc_type: statute

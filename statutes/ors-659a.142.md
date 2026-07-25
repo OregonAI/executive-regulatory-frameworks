@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.142
 title: "Discrimination against individual with disability by employment agency, labor organization, place of public accommodation or state government prohibited; discri"
 doc_type: statute

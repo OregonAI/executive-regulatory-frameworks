@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.820
 title: "Enforcement of federal immigration laws; civil action for violation"
 doc_type: statute

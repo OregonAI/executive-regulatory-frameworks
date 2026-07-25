@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.235
 title: "Agreements to resolve concerns about community notification"
 doc_type: statute

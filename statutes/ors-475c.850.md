@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.850
 title: "Receipt of marijuana by nonprofit dispensary; dispensation to certain cardholders; rules"
 doc_type: statute

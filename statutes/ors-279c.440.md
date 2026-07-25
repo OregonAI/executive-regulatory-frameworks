@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.440
 title: "Disqualification from consideration for award of contracts"
 doc_type: statute

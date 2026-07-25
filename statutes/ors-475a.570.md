@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.570
 title: "Psilocybin-producing fungi as crop; exceptions to permitted uses"
 doc_type: statute

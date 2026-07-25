@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.435
 title: "Adverse claim to deposit; notice; restraining order or other process; indemnity bond or letter of credit"
 doc_type: statute

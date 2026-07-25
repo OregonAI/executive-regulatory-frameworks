@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.410
 title: "Clean energy targets; reduction of greenhouse gas emissions"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.005
 title: "Definitions for ORS 163A.005 to"
 doc_type: statute

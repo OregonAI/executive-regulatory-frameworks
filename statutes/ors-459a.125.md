@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.125
 title: "Maximum amount of additional fee; adjustments"
 doc_type: statute

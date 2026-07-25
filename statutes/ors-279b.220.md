@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.220
 title: "Conditions concerning payment, contributions, liens, withholding"
 doc_type: statute

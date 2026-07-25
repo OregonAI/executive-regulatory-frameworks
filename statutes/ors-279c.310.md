@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.310
 title: "Limitation on contracting agency constructing public improvement"
 doc_type: statute

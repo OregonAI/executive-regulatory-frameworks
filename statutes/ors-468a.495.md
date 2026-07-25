@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.495
 title: "Prohibition on installation of used solid fuel burning devices; exceptions; rules"
 doc_type: statute

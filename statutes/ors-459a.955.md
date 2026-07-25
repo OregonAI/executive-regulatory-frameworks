@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.955
 title: "Permit required for commingled recycling processing facility; rules"
 doc_type: statute

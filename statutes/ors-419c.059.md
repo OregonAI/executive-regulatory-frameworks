@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.059
 title: "Facilitation of disposition; interests of youth; authority of court where proceeding pending to allow other county to conduct hearing or assume jurisdiction"
 doc_type: statute

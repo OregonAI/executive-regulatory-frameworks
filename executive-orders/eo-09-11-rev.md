@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eo-09-11-rev
 title: "Oregon Health Authority Planning and Implementation"
 doc_type: executive_order

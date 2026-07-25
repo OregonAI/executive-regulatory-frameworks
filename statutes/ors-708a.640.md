@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.640
 title: "Receiving illegal compensation; misapplication of property and credit"
 doc_type: statute

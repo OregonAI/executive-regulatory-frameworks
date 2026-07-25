@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.021
 title: "Investigative demand by Attorney General; confidentiality of trade secret information"
 doc_type: statute

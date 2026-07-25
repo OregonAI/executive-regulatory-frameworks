@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oweb-customer-service-policy
 title: "Customer Service Policy"
 doc_type: policy

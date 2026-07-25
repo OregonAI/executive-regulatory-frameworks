@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.410
 title: "Authority to discipline for unregulated commerce"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.308
 title: "Community benefit contract; permitted provisions; required contents of solicitation; powers and duties of contracting agency and local contract review board; ru"
 doc_type: statute

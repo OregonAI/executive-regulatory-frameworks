@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.283
 title: "Submission of methodology used to determine insurer’s allowable charges"
 doc_type: statute

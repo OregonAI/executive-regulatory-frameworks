@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oam-55-30-00-appendix-a
 title: "SPOTS Card Program blocked MCCs - appendix A"
 doc_type: manual

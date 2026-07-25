@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.022
 title: "Certification of employees to provide mental health services; rules"
 doc_type: statute

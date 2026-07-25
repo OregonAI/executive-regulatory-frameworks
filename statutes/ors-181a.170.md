@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.170
 title: "Electronic fingerprint capture technology required; exceptions; Oregon Department of Administrative Services to develop contract for electronic fingerprint capt"
 doc_type: statute

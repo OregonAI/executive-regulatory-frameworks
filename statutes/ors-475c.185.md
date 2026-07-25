@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.185
 title: "Authority to discipline for unregulated commerce; licensing requirements"
 doc_type: statute

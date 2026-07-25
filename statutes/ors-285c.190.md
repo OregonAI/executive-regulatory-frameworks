@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.190
 title: "Requirements for qualifying reconditioned, refurbished, retrofitted or upgraded property (Firm and Employment Qualifications)"
 doc_type: statute

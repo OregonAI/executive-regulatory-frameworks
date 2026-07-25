@@ -52,7 +52,7 @@ def check_group(gpath, g, refresh, today):
     changed = []
     # 1) listing diff for sp-listing groups
     if g["kind"] == "sp-listing":
-        from detect_changes import check_sp_listing
+        from sp_listing import check_sp_listing
         snap_name = g["listing_snapshot"].rsplit("/", 1)[-1]
         try:
             diffs = check_sp_listing(snap_name)

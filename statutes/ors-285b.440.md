@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.440
 title: "Primary use of moneys in fund; standards for awarding grants; limitations; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.033
 title: "Contents of cost analysis; conditions under which procurement may proceed; exceptions"
 doc_type: statute

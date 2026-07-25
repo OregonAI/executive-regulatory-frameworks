@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.805
 title: "Certified violence prevention professionals; community violence prevention services; advisory group; rules PRESCRIPTION MONITORING PROGRAM (Definitions)"
 doc_type: statute

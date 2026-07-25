@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.157
 title: "Jurisdiction attaches at time of custody"
 doc_type: statute

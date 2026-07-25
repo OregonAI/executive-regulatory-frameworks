@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.415
 title: "Agreements to fund or acquire telecommunications equipment and services"
 doc_type: statute

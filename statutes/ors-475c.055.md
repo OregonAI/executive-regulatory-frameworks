@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.055
 title: "Legal address and ownership of premises used for marijuana production, processing; owner consent; rules (Licensees in General)"
 doc_type: statute

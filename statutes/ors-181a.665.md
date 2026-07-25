@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.665
 title: "Police Standards and Training Account (Employment Information)"
 doc_type: statute

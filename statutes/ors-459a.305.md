@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.305
 title: "Definitions for ORS 459A.305 to"
 doc_type: statute

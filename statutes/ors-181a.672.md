@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.672
 title: "Disclosure of information about certain employees of law enforcement agencies"
 doc_type: statute

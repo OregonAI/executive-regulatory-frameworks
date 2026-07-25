@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-7-017
 title: "Native Artifacts and Property (ADMINISTRATIVE DIRECTIVE)"
 doc_type: policy

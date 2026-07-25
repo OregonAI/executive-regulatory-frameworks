@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.856
 title: "Database of information related to production, processing and dispensing"
 doc_type: statute

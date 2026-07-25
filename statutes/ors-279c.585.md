@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.585
 title: "Authority to substitute undisclosed first-tier subcontractor; circumstances; rules"
 doc_type: statute

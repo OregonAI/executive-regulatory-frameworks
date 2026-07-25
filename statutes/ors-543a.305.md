@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-543a.305
 title: "Conversion of hydroelectric water right to in-stream water right; exceptions"
 doc_type: statute

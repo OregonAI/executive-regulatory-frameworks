@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.640
 title: "Department program to reduce use of and recycle compounds"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.342
 title: "Continuation of benefits after injury or illness covered by workers’ compensation"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.466
 title: "Heat Pump Deployment Fund; biennial reports (Residential Heat Pump Rebates and Grants) (Temporary provisions relating to rebates and grants for residential heat"
 doc_type: statute

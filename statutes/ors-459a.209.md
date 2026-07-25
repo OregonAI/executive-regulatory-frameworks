@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.209
 title: "Plan for drug take-back program; requirements; approval; updated plans"
 doc_type: statute

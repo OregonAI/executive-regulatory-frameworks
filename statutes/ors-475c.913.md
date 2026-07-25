@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.913
 title: "Petitioning for disease or condition to be included as debilitating medical condition; rules"
 doc_type: statute

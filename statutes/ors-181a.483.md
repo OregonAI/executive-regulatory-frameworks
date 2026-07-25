@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.483
 title: "Prohibition on training to use physical force that impedes breathing or circulation; rules"
 doc_type: statute

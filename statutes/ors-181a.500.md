@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.500
 title: "Lapse of certification; reapplication for certification; rules; fees"
 doc_type: statute

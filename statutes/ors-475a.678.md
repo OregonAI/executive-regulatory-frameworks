@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.678
 title: "Duty to keep receipts, invoices and other records"
 doc_type: statute

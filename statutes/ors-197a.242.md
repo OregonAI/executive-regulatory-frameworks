@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.242
 title: "Coordinated and concurrent process for designation of urban and rural reserves"
 doc_type: statute

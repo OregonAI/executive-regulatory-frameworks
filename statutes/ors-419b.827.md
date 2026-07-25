@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.827
 title: "Responsibility for costs of service of summons and travel expenses of party summoned"
 doc_type: statute

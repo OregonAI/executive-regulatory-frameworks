@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.168
 title: "Amendments to mattress stewardship program plan; notice of changes to plan"
 doc_type: statute

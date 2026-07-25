@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.221
 title: "Uniform application to all public employers; optional procedure for disclosures; rules"
 doc_type: statute

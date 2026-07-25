@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.165
 title: "Extension of period of authorization; filing fee (Exemptions)"
 doc_type: statute

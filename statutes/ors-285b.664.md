@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.664
 title: "Requirements for member district receiving moneys; agreements with regional solutions advisory committees; quarterly reports; member district hiring authority"
 doc_type: statute

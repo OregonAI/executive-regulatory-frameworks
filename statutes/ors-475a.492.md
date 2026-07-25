@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.492
 title: "Psilocybin Control and Regulation Fund (Prohibited Conduct)"
 doc_type: statute

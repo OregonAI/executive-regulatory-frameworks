@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.080
 title: "Air and water pollution control permit for geothermal well drilling and operation; enforcement authority of director"
 doc_type: statute

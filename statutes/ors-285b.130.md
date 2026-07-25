@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.130
 title: "Loans from Small Business Expansion Loan Fund; application fees; eligibility; loan agreements; loan limits; moneys reserved for low to moderate income applicant"
 doc_type: statute

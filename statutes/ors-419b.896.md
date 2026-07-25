@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.896
 title: "Subpoena for production of books, papers, documents and other tangible things"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.375
 title: "Maximum amount of advance refunding bonds"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.593
 title: "Definitions; requirement to register with Department of Consumer and Business Services to operate as data broker; method of registration; penalty; rules"
 doc_type: statute

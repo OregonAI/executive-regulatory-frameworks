@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.040
 title: "Waiver of provisions of ORS 646A.030 to"
 doc_type: statute

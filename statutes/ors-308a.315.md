@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.315
 title: "Determination of maximum assessed value and assessed value of open space lands; rules"
 doc_type: statute

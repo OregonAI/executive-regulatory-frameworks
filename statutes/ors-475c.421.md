@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.421
 title: "Notification to Oregon Liquor and Cannabis Commission of licensee conviction; notification to commission, county assessor, Department of Revenue of judicial out"
 doc_type: statute

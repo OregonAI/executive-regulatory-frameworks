@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.115
 title: "Change of zone boundaries; positive determination by department required"
 doc_type: statute

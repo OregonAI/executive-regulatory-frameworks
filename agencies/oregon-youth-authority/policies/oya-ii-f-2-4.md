@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-ii-f-2-4
 title: "Court-Ordered Financial Obligations [Facility]"
 doc_type: policy

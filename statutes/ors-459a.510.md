@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.510
 title: "Report to consumer of amount of post-consumer waste in shipment"
 doc_type: statute

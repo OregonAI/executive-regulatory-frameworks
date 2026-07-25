@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.737
 title: "Full-service redemption centers; registration; fees; rules"
 doc_type: statute

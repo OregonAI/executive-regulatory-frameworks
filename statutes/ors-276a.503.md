@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.503
 title: "Oregon Geographic Information Council; establishment; purposes; membership; terms of office"
 doc_type: statute

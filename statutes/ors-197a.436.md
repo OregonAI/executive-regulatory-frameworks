@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.436
 title: "Planning for parks; inventory; placement and design standards"
 doc_type: statute

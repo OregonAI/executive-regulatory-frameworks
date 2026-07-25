@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.055
 title: "Plans and specifications for disposal, treatment and sewerage systems"
 doc_type: statute

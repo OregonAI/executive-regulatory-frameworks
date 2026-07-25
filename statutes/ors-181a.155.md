@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.155
 title: "Authority over blood and buccal samples and analyses; rules; disclosure; inspection by subject person; destruction of sample"
 doc_type: statute

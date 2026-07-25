@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.300
 title: "Establishment and maintenance of missing persons clearinghouse"
 doc_type: statute

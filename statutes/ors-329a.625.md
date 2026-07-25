@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.625
 title: "Prohibition on suspending or expelling child from program"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.235
 title: "Designation of rural and urban reserves pursuant to intergovernmental agreement; rules"
 doc_type: statute

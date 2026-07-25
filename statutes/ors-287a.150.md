@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.150
 title: "Authority of public body to issue revenue bonds"
 doc_type: statute

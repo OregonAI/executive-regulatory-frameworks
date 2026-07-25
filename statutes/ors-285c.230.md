@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.230
 title: "Assessor to grant or deny exemption; assistance of sponsor"
 doc_type: statute

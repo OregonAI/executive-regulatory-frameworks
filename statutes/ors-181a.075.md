@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.075
 title: "Instruction; rules and regulations for discipline and control"
 doc_type: statute

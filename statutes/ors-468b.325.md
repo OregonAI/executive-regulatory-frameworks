@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.325
 title: "Director’s right of entry in response to spill or release of oil or hazardous material; state liability for damages"
 doc_type: statute

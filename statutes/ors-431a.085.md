@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.085
 title: "Emergency Medical Services and Trauma Systems Program created in Oregon Health Authority; Oregon Trauma Registry; rules"
 doc_type: statute

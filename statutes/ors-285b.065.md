@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.065
 title: "Loans in distressed areas exempt from security and collateral requirements"
 doc_type: statute

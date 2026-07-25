@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.400
 title: "Protests and judicial review of approvals of special procurements"
 doc_type: statute

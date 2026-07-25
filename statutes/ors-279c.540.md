@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.540
 title: "Maximum hours of labor on public contracts; holidays; exceptions; liability to workers; rules"
 doc_type: statute

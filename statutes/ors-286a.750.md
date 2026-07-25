@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.750
 title: "Terms and conditions of pension liability bonds SEISMIC REHABILITATION BONDS (Public Education Buildings)"
 doc_type: statute

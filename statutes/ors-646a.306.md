@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.306
 title: "Repurchase of inventory by supplier; effect of new retailer agreement"
 doc_type: statute

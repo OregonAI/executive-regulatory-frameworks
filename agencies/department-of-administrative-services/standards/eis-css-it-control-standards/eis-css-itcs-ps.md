@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-ps
 title: "Statewide IT Control Standards — Personnel Security (PS)"
 doc_type: standard

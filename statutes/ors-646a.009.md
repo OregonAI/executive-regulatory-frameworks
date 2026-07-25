@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.009
 title: "Prohibition on sales of cosmetics developed or manufactured using animal testing; exceptions; preemption of local laws"
 doc_type: statute

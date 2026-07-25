@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.810
 title: "Office enforcement orders; order request notice; rules"
 doc_type: statute

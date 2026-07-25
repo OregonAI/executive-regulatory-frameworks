@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.328
 title: "Specific corporation authorized to maintain foreign trade zone"
 doc_type: statute

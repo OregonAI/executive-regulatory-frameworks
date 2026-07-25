@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.197
 title: "Authority to investigate, discipline permit holder, temporary permit holder"
 doc_type: statute

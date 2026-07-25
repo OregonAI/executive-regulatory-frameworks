@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.205
 title: "Housing and Community Services Department review of certain local housing measures"
 doc_type: statute

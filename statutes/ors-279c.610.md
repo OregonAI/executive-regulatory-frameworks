@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.610
 title: "Action on contractor’s public works bond or payment bond; time limitation"
 doc_type: statute

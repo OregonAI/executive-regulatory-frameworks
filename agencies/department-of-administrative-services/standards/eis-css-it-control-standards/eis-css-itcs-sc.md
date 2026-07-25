@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-sc
 title: "Statewide IT Control Standards — System and Communication Protection (SC)"
 doc_type: standard

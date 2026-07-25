@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.815
 title: "Summons for proceeding to establish jurisdiction under ORS 419B.100; contents; failure to appear"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.397
 title: "Order setting aside qualifying marijuana conviction (Civil Enforcement of ORS 475C.005 to"
 doc_type: statute

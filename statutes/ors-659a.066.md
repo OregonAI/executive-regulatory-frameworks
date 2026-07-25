@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.066
 title: "Worker may continue benefits after employer’s obligation ends"
 doc_type: statute

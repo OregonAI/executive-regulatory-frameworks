@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.305
 title: "Least-cost policy for public improvements; requirement to file list of planned projects and estimated costs and to identify projects contracting agency intends "
 doc_type: statute

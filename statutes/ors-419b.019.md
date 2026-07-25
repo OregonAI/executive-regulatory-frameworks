@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.019
 title: "Investigation of report involving school; notification; report to Legislative Assembly; rules"
 doc_type: statute

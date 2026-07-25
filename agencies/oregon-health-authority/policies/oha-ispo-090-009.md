@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-ispo-090-009
 title: "Administrative, Technical and Physical Safeguards of Information Policy"
 doc_type: policy

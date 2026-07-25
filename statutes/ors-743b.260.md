@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.260
 title: "Claims and appeals of adverse benefit determinations under disability income insurance policies; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eis-css-itcs-mp
 title: "Statewide IT Control Standards — Media Protection (MP)"
 doc_type: standard

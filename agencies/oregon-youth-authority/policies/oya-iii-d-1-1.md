@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-d-1-1
 title: "Juvenile Parole/Probation Agreement"
 doc_type: policy

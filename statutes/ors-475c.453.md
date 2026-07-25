@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.453
 title: "Local tax or fee; referral to electors for approval"
 doc_type: statute

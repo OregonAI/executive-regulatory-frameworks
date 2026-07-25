@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.240
 title: "Procedure when information requested by designated agency; exception for investigation of child abuse or neglect"
 doc_type: statute

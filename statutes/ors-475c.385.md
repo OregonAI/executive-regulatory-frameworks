@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.385
 title: "Effect of crime under federal law or law of another state"
 doc_type: statute

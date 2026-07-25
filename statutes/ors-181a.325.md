@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.325
 title: "Policies and procedures regarding collection, submission for testing, retention and destruction of kits"
 doc_type: statute

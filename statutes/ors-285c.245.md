@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.245
 title: "Termination; reservation zones; effect of termination on exemption; disqualification"
 doc_type: statute

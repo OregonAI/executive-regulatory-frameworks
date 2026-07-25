@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.064
 title: "Follow-up assessments of waters of state that exceed numeric temperature criteria"
 doc_type: statute

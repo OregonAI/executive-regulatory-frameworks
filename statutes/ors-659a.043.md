@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.043
 title: "Reinstatement of injured worker to former position; certificate evidencing ability to work; effect of collective bargaining agreement; termination of right to r"
 doc_type: statute

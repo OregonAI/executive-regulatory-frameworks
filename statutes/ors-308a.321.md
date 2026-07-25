@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.321
 title: "Withdrawal by assessor when use changed; notice; imposition of additional taxes; interest; penalty; exception"
 doc_type: statute

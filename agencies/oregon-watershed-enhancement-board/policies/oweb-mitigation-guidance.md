@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oweb-mitigation-guidance
 title: "Mitigation Guidance — Eligible Uses of OWEB Funds Related to Mitigation Projects and Funds"
 doc_type: policy

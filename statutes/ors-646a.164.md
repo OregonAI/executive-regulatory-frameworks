@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.164
 title: "Complaints and investigations confidential; exceptions"
 doc_type: statute

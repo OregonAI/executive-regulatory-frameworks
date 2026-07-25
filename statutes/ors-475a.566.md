@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.566
 title: "Authority of Governor to suspend license or permit without notice (Other Provisions)"
 doc_type: statute

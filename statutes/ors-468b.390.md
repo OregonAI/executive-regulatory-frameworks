@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.390
 title: "Compliance with federal Oil Pollution Act of 1990; proof of financial responsibility"
 doc_type: statute

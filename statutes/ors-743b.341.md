@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.341
 title: "Continuation of benefits after termination of group health insurance policy; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.487
 title: "Mental health wellness policies for law enforcement agencies (Certification)"
 doc_type: statute

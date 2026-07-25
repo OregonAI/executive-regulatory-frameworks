@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.634
 title: "Powers and duties of commission; rules; fees"
 doc_type: statute

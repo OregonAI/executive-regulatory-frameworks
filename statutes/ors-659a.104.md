@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.104
 title: "Description of disability for purposes of ORS 659A.103 to"
 doc_type: statute

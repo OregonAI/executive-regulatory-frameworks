@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.286
 title: "Cause of action by private party; judgment; attorney fees"
 doc_type: statute

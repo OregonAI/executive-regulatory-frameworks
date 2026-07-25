@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.145
 title: "Federal taxation of bond interest; interest rate subsidies; rules"
 doc_type: statute

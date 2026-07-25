@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.340
 title: "When group health insurance policies to continue in effect upon payment of premium by insured individual"
 doc_type: statute

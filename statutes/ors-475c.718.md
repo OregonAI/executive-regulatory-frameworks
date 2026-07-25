@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.718
 title: "Department of Revenue tax rebate agreement with qualified Indian tribe"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-d-8-0
 title: "Religious Practices in Substitute Care Placements"
 doc_type: policy

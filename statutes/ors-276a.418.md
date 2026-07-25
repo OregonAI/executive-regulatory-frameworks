@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.418
 title: "Public contracts for broadband Internet access service; prohibitions; exceptions; rules"
 doc_type: statute

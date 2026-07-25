@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.500
 title: "Selling and leasing of provider panels by contracting entity; definitions"
 doc_type: statute

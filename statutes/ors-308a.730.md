@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.730
 title: "Application for special assessment following acquisition of land through government exchange; amount of additional taxes following disqualification"
 doc_type: statute

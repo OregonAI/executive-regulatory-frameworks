@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.604
 title: "Notice of breach of security; delay; methods of notification; contents of notice; application of notice requirement"
 doc_type: statute

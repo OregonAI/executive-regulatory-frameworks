@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.118
 title: "Forfeiture of tax credits; revocation of contractor certificate; inspection; effect of failure to allow inspection; collection"
 doc_type: statute

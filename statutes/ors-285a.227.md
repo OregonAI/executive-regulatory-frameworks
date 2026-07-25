@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.227
 title: "Oregon Business, Innovation and Trade Fund; uses; sources; rules"
 doc_type: statute

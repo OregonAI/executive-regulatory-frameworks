@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.173
 title: "Authority to establish merit-based criteria for licensure or renewal of licensure"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.670
 title: "Disclosure of information about public safety officer; order to compel compliance"
 doc_type: statute

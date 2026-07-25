@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.345
 title: "Humane special agents to enforce animal welfare laws under direction of law enforcement agency; notice required of allegation of abuse of commission"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.886
 title: "Exceptions to exemption from criminal liability"
 doc_type: statute

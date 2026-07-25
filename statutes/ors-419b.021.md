@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.021
 title: "Degree requirements for persons conducting investigation or making determination regarding child"
 doc_type: statute

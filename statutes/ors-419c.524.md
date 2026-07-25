@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.524
 title: "Notice and filing report prerequisite to defense; timing"
 doc_type: statute

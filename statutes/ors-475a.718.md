@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.718
 title: "Adoption of ordinances; referral to electors for approval"
 doc_type: statute

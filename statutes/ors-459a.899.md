@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.899
 title: "Oregon Recycling System Advisory Council"
 doc_type: statute

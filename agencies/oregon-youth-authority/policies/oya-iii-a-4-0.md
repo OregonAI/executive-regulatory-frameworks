@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-a-4-0
 title: "Searches of Youth and Areas; Processing of Contraband; Evidence in Community Placements"
 doc_type: policy

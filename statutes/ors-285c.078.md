@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.078
 title: "Notification to department of intent to make designation of enterprise zone or zone or city for electronic commerce; required consultation"
 doc_type: statute

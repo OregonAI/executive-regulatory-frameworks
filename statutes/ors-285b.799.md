@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.799
 title: "Biennial report by Oregon Business Development Department to legislature Note Program evaluation by legislature; recommendations--2021 c.676 §9 Note: 285A.010 c"
 doc_type: statute

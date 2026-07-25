@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.092
 title: "Advertisements for sale or lease of motor vehicle; exceptions"
 doc_type: statute

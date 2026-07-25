@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.256
 title: "Regulations by employers concerning use and occupancy of employee housing; requirements; notice"
 doc_type: statute

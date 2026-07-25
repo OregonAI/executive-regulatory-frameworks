@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.227
 title: "Referrals to specialists GRIEVANCES AND APPEALS (Health Benefit Plans)"
 doc_type: statute

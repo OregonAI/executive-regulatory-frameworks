@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.220
 title: "Exemption claims; contents; late filing; fees"
 doc_type: statute

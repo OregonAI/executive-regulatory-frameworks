@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-543a.055
 title: "Hydroelectric Application Review Team review of application; draft proposed final order; public comment"
 doc_type: statute

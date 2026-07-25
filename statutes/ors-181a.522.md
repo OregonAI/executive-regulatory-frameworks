@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.522
 title: "Training of corrections officers by Department of Corrections; standards; audits"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.255
 title: "Report of suspected criminal homicide; form and time of report; compilation; comparison"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.340
 title: "Metro urbanizable lands; use in planning; county responsibility"
 doc_type: statute

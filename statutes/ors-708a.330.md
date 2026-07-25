@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.330
 title: "Bankers’ acceptances of other financial institutions"
 doc_type: statute

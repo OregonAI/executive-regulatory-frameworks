@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.512
 title: "End of lottery allocations upon certification by administrator of authority"
 doc_type: statute

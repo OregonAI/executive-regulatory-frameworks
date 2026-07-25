@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.330
 title: "Small Business Stationary Source Technical and Environmental Compliance Assistance Program"
 doc_type: statute

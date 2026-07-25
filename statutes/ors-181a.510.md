@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.510
 title: "Certification for certain purposes of individuals employed by tribal government to perform duties of public safety officer"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-irb-compensating-research-participants
 title: "Compensating Research Participants"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.715
 title: "Refusal of dealer or distributor to accept or pay refund in certain cases; notice"
 doc_type: statute

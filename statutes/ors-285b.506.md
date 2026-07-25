@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.506
 title: "Grant agreements; maximum grant amount; required provisions; assignment of right to receive grant moneys; agreement not to constitute state debt or liability"
 doc_type: statute

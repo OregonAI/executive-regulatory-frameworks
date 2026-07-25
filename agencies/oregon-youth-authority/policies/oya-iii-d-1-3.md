@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-d-1-3
 title: "OYA Juvenile Parole/Probation Officer Contact Standards"
 doc_type: policy

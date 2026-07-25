@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.335
 title: "Determination of housing capacity and accommodation of needed housing by Metro cities"
 doc_type: statute

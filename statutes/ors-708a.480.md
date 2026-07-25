@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.480
 title: "Transfer of moneys upon death of depositor or trustee is not testamentary disposition"
 doc_type: statute

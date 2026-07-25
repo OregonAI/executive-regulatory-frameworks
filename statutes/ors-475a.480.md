@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.480
 title: "Permit required to perform work for or on behalf of licensee"
 doc_type: statute

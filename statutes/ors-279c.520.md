@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.520
 title: "Condition concerning hours of labor; compliance with pay equity provisions; employee discussions of rate of pay or benefits"
 doc_type: statute

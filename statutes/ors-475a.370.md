@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.370
 title: "Right to terminate or refuse to provide services; exception"
 doc_type: statute

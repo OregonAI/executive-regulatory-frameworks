@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.352
 title: "Grounds for waiving youth under 15 years of age"
 doc_type: statute

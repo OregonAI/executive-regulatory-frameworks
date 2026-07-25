@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.450
 title: "Automated external defibrillators required at health clubs; exception"
 doc_type: statute

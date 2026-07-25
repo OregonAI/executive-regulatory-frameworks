@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.686
 title: "Report on discipline to Department of Public Safety Standards and Training"
 doc_type: statute

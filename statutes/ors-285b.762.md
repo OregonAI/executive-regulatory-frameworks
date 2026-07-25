@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.762
 title: "Biennial evaluations of grantees’ services; report to legislature"
 doc_type: statute

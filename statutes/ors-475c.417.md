@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.417
 title: "Seizure of marijuana items by law enforcement personnel"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.415
 title: "Oregon coast safety committee; subcommittees"
 doc_type: statute

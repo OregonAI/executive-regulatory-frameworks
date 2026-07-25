@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.215
 title: "Application to remove property from within urban growth boundary; conditions"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.300
 title: "Obligations secured by readily marketable collateral"
 doc_type: statute

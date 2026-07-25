@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.405
 title: "School support fee in lieu of property taxes; collection; delinquency; appeals"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.795
 title: "Admissibility of conclusions and recommendations"
 doc_type: statute

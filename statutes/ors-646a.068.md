@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.068
 title: "Penalty for violating ORS 646A.065 (Telephonic Equipment)"
 doc_type: statute

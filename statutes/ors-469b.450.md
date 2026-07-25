@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.450
 title: "Rebates for home energy efficiency retrofits; rebates for high-efficiency appliance and nonappliance upgrades INCENTIVES FOR RESIDENTIAL HEATING AND COOLING PRO"
 doc_type: statute

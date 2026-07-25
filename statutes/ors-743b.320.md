@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.320
 title: "Minimum grace period; notice upon termination of policy; effect of failure to notify"
 doc_type: statute

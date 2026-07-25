@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.891
 title: "Prohibition against taking disciplinary action against attending provider"
 doc_type: statute

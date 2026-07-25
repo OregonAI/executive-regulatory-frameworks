@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.635
 title: "Written policies regarding reporting to and obtaining approval of board; duty to report"
 doc_type: statute

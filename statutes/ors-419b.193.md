@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.193
 title: "Search for substitute care placements among relatives; notices to parents and certain relatives"
 doc_type: statute

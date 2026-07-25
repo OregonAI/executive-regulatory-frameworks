@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.408
 title: "Adoption of preapproved residential development types; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.012
 title: "Alternative recovery rate calculation methods; rules"
 doc_type: statute

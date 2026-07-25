@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.160
 title: "Agreement between firm and sponsor for additional period of exemption; requirements"
 doc_type: statute

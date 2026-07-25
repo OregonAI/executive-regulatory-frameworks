@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.884
 title: "Membership fees charged by producer responsibility organization"
 doc_type: statute

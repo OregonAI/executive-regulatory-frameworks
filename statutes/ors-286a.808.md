@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.808
 title: "Oregon School Capital Improvement Matching Account; purposes"
 doc_type: statute

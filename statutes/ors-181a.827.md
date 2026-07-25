@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.827
 title: "Sanctuary violation reporting mechanism; website"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.650
 title: "Alzheimer’s Disease Research Fund"
 doc_type: statute

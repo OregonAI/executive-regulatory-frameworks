@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.278
 title: "Requirements for sale of gift card that expires (Simulated Invoices)"
 doc_type: statute

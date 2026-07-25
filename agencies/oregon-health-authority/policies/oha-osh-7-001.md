@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-osh-7-001
 title: "Mail and Packages for Patients (ADMINISTRATIVE DIRECTIVE)"
 doc_type: policy

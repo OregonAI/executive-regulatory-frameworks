@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.472
 title: "Interest on municipal warrants not paid on presentation"
 doc_type: statute

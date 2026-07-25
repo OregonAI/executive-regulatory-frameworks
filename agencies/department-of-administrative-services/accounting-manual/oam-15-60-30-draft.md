@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oam-15-60-30-draft
 title: "Capital Assets — Leases (pending draft revision)"
 doc_type: manual

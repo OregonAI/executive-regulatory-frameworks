@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.509
 title: "Public body duty to share geospatial framework data with council; conditions and exceptions; methods for sharing; limitations of liability"
 doc_type: statute

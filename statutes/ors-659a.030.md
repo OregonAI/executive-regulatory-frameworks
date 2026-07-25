@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.030
 title: "Discrimination because of race, color, religion, sex, sexual orientation, gender identity, national origin, marital status, age or expunged juvenile record proh"
 doc_type: statute

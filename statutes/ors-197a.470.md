@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.470
 title: "Final action on affordable housing application; affordable housing developed by religious corporation"
 doc_type: statute

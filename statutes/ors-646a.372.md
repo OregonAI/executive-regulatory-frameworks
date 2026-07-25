@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.372
 title: "Limits on usage of automatic dialing and announcing device"
 doc_type: statute

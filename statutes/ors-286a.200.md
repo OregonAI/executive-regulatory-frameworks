@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.200
 title: "Administration of certain bond programs by Oregon Department of Administrative Services"
 doc_type: statute

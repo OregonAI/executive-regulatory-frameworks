@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.636
 title: "Inquiry to determine whether child is Indian child; when there is reason to know child is Indian child; notice"
 doc_type: statute

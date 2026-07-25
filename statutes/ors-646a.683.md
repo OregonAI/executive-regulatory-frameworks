@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.683
 title: "Requirement to report increase in drug price; exemptions"
 doc_type: statute

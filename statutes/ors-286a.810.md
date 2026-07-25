@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.810
 title: "LEED certification of school projects financed with Article XI-P bonds"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.102
 title: "Documentation for designation of zone or city for electronic commerce to be submitted to department; requirements for positive determination; rules (Management "
 doc_type: statute

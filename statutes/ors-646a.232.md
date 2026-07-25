@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.232
 title: "Effect of compliance with federal law (Extension of Credit)"
 doc_type: statute

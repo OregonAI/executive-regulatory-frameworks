@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.574
 title: "Authority of Oregon Health Authority to discipline registrants of authority"
 doc_type: statute

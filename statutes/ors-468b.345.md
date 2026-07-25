@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.345
 title: "Oil spill contingency plan required to operate facility or covered vessel in state or state waters; exceptions"
 doc_type: statute

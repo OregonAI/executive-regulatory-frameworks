@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.869
 title: "Sharing and use of program information with other states and tribes"
 doc_type: statute

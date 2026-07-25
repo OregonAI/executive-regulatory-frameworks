@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.335
 title: "Obligations secured by documents covering readily marketable staples"
 doc_type: statute

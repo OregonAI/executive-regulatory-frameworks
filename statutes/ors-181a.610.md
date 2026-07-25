@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.610
 title: "Reimbursement for training to local law enforcement units; rules"
 doc_type: statute

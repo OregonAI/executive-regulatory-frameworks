@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.771
 title: "Application process; assistance from technical assistance provider required; referral of application to Oregon Business Development Department; payment of closi"
 doc_type: statute

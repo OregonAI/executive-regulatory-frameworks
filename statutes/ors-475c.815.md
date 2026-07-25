@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.815
 title: "Marijuana processing site registration system; fees; rules"
 doc_type: statute

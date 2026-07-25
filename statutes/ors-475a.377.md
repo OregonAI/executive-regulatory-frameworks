@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.377
 title: "Authority to require fingerprints of certain individuals"
 doc_type: statute

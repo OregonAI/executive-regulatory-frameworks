@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.808
 title: "Obtaining personal information by false representation via electronic media"
 doc_type: statute

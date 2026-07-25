@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.630
 title: "Motion to transfer to tribal court; objection; good cause to deny transfer"
 doc_type: statute

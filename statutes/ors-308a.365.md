@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.365
 title: "Duration of exemption; change in use; withdrawal at request of owner"
 doc_type: statute

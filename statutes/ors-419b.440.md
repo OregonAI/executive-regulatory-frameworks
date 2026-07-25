@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.440
 title: "Circumstances requiring reports; exceptions"
 doc_type: statute

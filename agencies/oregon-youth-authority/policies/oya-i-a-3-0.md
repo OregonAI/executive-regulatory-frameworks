@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-a-3-0
 title: "Attorney General Opinions and Advice"
 doc_type: policy

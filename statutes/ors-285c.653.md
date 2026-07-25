@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285c.653
 title: "Tax credit utilization limit per tax year; rules"
 doc_type: statute

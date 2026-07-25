@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.132
 title: "Delegation of jurisdiction among county juvenile courts"
 doc_type: statute

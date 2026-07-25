@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.578
 title: "Civil penalty for violating ORS 475C.540 to"
 doc_type: statute

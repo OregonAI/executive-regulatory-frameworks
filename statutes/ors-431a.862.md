@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.862
 title: "Receipt of prescription monitoring information by pharmacist"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.040
 title: "Oregon Business Development Commission; appointment; confirmation; qualifications of members; term; compensation and expenses; presiding officer; quorum; meetin"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.374
 title: "Application to Secretary of State and State Treasurer; rules"
 doc_type: statute

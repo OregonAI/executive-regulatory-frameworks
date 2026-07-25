@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.264
 title: "Disease outbreaks, epidemics and conditions of public health importance (Temporary provisions relating to coverage of applied behavior analysis are compiled as "
 doc_type: statute

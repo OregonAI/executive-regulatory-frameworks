@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.800
 title: "Establishment of Housing Accountability and Production Office; rules"
 doc_type: statute

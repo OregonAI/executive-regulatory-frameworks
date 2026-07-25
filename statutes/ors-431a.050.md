@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.050
 title: "Oregon Health Authority to develop comprehensive emergency medical services and trauma system"
 doc_type: statute

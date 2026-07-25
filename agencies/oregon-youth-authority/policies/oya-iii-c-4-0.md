@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-c-4-0
 title: "Placement/Return of Youth on Interstate Compact - Juvenile"
 doc_type: policy

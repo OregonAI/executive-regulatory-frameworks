@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.784
 title: "Reimbursement insurance policies for guaranteed asset protection waivers"
 doc_type: statute

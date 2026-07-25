@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.708
 title: "Oregon Port Revolving Fund; uses; debt limit"
 doc_type: statute

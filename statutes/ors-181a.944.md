@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.944
 title: "Legislative purpose; requirements for citation issued outside tribal jurisdiction; tribal government insurance; tribal police officer not officer, employee or a"
 doc_type: statute

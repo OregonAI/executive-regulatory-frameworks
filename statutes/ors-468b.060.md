@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.060
 title: "Liability for damage to fish or wildlife or habitat; agency to which damages payable"
 doc_type: statute

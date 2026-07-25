@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.265
 title: "Use of Oregon Department of Administrative Services Operating Fund; cash dividends"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.154
 title: "Oregon Broadband Advisory Council; members; compensation and expenses; powers and duties"
 doc_type: statute

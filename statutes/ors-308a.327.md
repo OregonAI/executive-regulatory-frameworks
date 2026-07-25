@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.327
 title: "Reports on land use from owners; effect of failure to make report upon demand"
 doc_type: statute

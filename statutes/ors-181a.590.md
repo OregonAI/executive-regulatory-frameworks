@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.590
 title: "Certification of instructors; accreditation of training programs"
 doc_type: statute

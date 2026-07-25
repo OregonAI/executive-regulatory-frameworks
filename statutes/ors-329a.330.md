@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.330
 title: "Registration requirements; fee; waiver; renewal; conditions on registration; rules; work sheet (Orientation)"
 doc_type: statute

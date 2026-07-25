@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.057
 title: "Payment of maintenance expenses; admission of adjudicated youths"
 doc_type: statute

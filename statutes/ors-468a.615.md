@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.615
 title: "Registration of acreage to be burned; fees; rules"
 doc_type: statute

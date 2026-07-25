@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279a.157
 title: "State contracting agency use of contract form, contract template or solicitation template; exceptions and exemptions; rules"
 doc_type: statute

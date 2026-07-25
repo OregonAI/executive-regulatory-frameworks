@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.130
 title: "Prohibition on sale or distribution of cleaning agents containing phosphorous; rules"
 doc_type: statute

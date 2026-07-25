@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.124
 title: "Colorectal cancer screenings and laboratory tests"
 doc_type: statute

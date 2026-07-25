@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.420
 title: "Financial assistance for levee projects; required findings"
 doc_type: statute

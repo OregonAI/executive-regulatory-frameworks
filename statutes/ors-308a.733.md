@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.733
 title: "Withdrawal of change of special assessment application (Conservation Management; Effect on Disqualification)"
 doc_type: statute

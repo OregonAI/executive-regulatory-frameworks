@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.120
 title: "Withdrawal from pension program by vested inactive member (Computation of Benefit)"
 doc_type: statute

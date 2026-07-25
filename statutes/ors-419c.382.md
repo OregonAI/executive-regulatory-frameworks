@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.382
 title: "Duties of Oregon Health Authority; rules (Report, Hearing and Findings)"
 doc_type: statute

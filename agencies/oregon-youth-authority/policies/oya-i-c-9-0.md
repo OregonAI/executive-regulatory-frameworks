@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-c-9-0
 title: "Mobile Communication Devices (Cell Phones) and Other Mobile Data Storage Devices"
 doc_type: policy

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.126
 title: "Carrier marketing of individual health benefit plans; rules; duties of carrier regarding applications; effect of discontinuing offer of plans"
 doc_type: statute

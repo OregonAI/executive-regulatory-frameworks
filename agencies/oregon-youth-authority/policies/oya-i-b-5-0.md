@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-b-5-0
 title: "Agency Acceptance of Donations"
 doc_type: policy

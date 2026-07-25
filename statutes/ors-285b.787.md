@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.787
 title: "RFP process for awards to lenders; limits; approval criteria"
 doc_type: statute

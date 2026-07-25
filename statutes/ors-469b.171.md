@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.171
 title: "Assistance with facility purchase for investor-owned utility customers"
 doc_type: statute

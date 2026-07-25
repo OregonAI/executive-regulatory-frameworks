@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.055
 title: "Notice prior to construction of new sources; order authorizing or prohibiting construction; effect of no order; appeal"
 doc_type: statute

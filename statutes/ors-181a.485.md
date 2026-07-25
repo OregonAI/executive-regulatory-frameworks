@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.485
 title: "Psychological screening of law enforcement officers; rules"
 doc_type: statute

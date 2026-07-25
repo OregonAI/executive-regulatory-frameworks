@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.237
 title: "Requirement that marijuana items comply with minimum standards"
 doc_type: statute

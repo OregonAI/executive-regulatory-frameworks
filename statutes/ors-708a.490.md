@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.490
 title: "Joint account; payment to any party to account; payment to others"
 doc_type: statute

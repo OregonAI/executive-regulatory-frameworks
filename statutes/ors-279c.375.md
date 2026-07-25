@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.375
 title: "Award and execution of contract; determination of responsibility of bidder; bonds; impermissible exclusions"
 doc_type: statute

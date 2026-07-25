@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.105
 title: "Requirements for group health benefit plans other than small employer plans"
 doc_type: statute

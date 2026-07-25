@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.213
 title: "Authority of city or county to require setback or buffer for new large confined animal feeding operation"
 doc_type: statute

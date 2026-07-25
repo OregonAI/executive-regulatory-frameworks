@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-i-e-6-0
 title: "Contact with U.S. Immigration and Customs Enforcement (ICE)"
 doc_type: policy

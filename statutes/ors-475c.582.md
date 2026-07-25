@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.582
 title: "Authority of State Department of Agriculture, Oregon Liquor and Cannabis Commission for certain violations of ORS 475C.540 to"
 doc_type: statute

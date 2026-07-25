@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.280
 title: "Restriction on financial interests in multiple licensees"
 doc_type: statute

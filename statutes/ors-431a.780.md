@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.780
 title: "Recombinant DNA research to comply with federal guidelines"
 doc_type: statute

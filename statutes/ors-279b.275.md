@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.275
 title: "Purchase of goods containing recycled polyethylene material"
 doc_type: statute

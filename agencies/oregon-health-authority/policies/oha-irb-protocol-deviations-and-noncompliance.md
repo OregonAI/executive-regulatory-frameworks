@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oha-irb-protocol-deviations-and-noncompliance
 title: "Protocol Deviations and Noncompliance"
 doc_type: policy

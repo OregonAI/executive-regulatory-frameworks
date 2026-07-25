@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279b.045
 title: "Contractor warranty and covenant concerning tax law compliance SOURCE SELECTION (Methods of Source Selection)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.835
 title: "Peer support services; confidentiality; admissibility as evidence"
 doc_type: statute

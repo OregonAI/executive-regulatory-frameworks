@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.498
 title: "Termination of parental rights; petition by Department of Human Services; when required"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.412
 title: "Report regarding fees and oil spill prevention activities"
 doc_type: statute

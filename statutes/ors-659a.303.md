@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.303
 title: "Employer prohibited from obtaining, seeking to obtain or using genetic information"
 doc_type: statute

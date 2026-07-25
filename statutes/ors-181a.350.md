@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.350
 title: "Eligibility of towing business to be placed on department list; rules PUBLIC SAFETY STANDARDS AND TRAINING (Definitions)"
 doc_type: statute

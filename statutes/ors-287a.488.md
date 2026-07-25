@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.488
 title: "Taxes must be levied for payment of claims included in master warrant"
 doc_type: statute

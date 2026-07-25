@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.586
 title: "Data protection assessment for processing activities with heightened risk of harm; criteria for conducting data protection assessment; provision to Attorney Gen"
 doc_type: statute

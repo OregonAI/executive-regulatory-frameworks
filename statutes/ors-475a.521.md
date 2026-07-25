@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.521
 title: "Penalty for violation of rule adopted under ORS 475A.235 (Regulation by Cities and Counties of Psilocybin Products)"
 doc_type: statute

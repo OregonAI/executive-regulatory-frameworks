@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469b.320
 title: "Definitions for ORS 315.336 and 469B.320 to"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.300
 title: "Hydrogen power stations; compliance with renewable portfolio standard; cost recovery for prudent energy investments"
 doc_type: statute

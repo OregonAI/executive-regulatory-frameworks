@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.646
 title: "Authority of Oregon Health Authority to inspect"
 doc_type: statute

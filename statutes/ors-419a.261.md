@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.261
 title: "Application for expunction of records relating to contact, violations and certain misdemeanors and felonies; eligibility; denial; notice to victim; judgment"
 doc_type: statute

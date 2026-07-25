@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.209
 title: "Joint motion to vacate judgment or order; appeal after reconsideration"
 doc_type: statute

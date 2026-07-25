@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.320
 title: "Requirement to verify person’s age; rules (License to Facilitate Psilocybin Services)"
 doc_type: statute

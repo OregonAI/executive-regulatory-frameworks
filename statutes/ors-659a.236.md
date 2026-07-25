@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.236
 title: "Discrimination for testifying before Legislative Assembly, committee or task force prohibited"
 doc_type: statute

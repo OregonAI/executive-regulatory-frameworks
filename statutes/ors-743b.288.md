@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743b.288
 title: "Balance billing prohibited for labor and delivery services rendered by out-of-network provider to which insured was diverted during public health emergency"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.230
 title: "Discrimination for initiating or aiding in criminal or civil proceedings prohibited; remedies not exclusive"
 doc_type: statute

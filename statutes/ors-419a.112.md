@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419a.112
 title: "Disclosure of information to participants in case review; confidentiality"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-286a.786
 title: "Article XI-N Bond Administration Fund; purposes"
 doc_type: statute

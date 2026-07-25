@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.515
 title: "Temporary events; permissible transfers, sales; samples; rules"
 doc_type: statute

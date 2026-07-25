@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-329a.505
 title: "Inspection; right to enter premises and to inspect records; investigation; rules"
 doc_type: statute

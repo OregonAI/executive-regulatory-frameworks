@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.412
 title: "Competitive quotes for intermediate procurements"
 doc_type: statute

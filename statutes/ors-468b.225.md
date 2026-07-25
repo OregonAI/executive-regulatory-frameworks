@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.225
 title: "Prerequisite for investigation; written complaint; security deposit"
 doc_type: statute

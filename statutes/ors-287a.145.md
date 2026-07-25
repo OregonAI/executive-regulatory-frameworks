@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-287a.145
 title: "Misspent proceeds of general obligation bonds (Revenue Bonds)"
 doc_type: statute

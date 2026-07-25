@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-163a.020
 title: "Reporting by sex offender upon moving into state; reporting by certain nonresidents and certain residents"
 doc_type: statute

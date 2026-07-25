@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.587
 title: "Confidentiality of information obtained during investigation; disclosure"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.174
 title: "Programs to assist businesses in procuring government contracts and grants"
 doc_type: statute

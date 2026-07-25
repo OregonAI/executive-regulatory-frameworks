@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.395
 title: "Bond or letter of credit; remedy against person licensed under ORS 468A.380; cancellation of license"
 doc_type: statute

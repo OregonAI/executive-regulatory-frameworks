@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.323
 title: "Proceeding when summoned party not before court WAIVER"
 doc_type: statute

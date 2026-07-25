@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.355
 title: "Contingency plans; participation in maritime association; lien; liability of maritime association; exemption from liability"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.490
 title: "Certification of police officers and certified reserve officers"
 doc_type: statute

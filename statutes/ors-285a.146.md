@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.146
 title: "Oregon-Ireland Sister State Committee; membership; term"
 doc_type: statute

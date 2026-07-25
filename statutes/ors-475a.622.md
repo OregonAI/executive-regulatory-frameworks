@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.622
 title: "Exemption from criminal liability PACKAGING,"
 doc_type: statute

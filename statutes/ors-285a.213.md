@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.213
 title: "Safe Drinking Water Revolving Loan Fund; administration; sources; uses"
 doc_type: statute

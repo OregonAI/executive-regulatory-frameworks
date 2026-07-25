@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.223
 title: "Requirement that state agency or public corporation obtain quality management services when implementing information technology initiative; reports; exceptions"
 doc_type: statute

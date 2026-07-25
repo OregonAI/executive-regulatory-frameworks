@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.117
 title: "Enrollment of qualified loan in program; notice to department; fees; transfers to loss reserve accounts; rules and limits for loans"
 doc_type: statute

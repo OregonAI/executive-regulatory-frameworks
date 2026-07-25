@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.052
 title: "Reemployment rights of injured state workers; rules (Benefits for Injured State Workers and Covered Dependents)"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.415
 title: "Securing deposits by surety bond, letter of credit or insurance"
 doc_type: statute

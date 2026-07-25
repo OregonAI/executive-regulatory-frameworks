@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.031
 title: "Eligibility; registration date of generating facility that uses biomass with Western Renewable Energy Generation Information System (Renewable Portfolio Standar"
 doc_type: statute

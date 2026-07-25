@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-469a.120
 title: "Cost recovery by electric companies (Renewable Energy Certificates)"
 doc_type: statute

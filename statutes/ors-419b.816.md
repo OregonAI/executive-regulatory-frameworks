@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.816
 title: "Notice to person contesting petition to establish jurisdiction"
 doc_type: statute

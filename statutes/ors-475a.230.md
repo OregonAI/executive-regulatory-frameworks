@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.230
 title: "Duties of Oregon Psilocybin Advisory Board (Powers and Duties of Oregon Health Authority)"
 doc_type: statute

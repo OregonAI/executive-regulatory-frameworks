@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.274
 title: "Notification of victim regarding waiver hearing or second look hearing"
 doc_type: statute

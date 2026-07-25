@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oya-iii-a-7-0
 title: "Unauthorized Absence from Assigned Community Location"
 doc_type: policy

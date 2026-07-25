@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.224
 title: "Business Retention Fund; purpose; administration; uses; rules"
 doc_type: statute

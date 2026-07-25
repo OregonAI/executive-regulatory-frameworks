@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.725
 title: "Oregon Community Crime Prevention Information Center; duties"
 doc_type: statute

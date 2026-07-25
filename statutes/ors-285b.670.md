@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.670
 title: "Annual report to legislature by Oregon Business Development Department"
 doc_type: statute

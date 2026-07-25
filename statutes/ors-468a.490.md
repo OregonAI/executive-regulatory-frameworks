@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.490
 title: "Residential Solid Fuel Heating Air Quality Improvement Fund; uses"
 doc_type: statute

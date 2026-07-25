@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.225
 title: "Members of Oregon Psilocybin Advisory Board; terms; meetings; compensation; rules"
 doc_type: statute

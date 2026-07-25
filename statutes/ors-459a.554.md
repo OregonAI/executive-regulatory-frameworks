@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.554
 title: "Reduction, reuse and recovery of used oil"
 doc_type: statute

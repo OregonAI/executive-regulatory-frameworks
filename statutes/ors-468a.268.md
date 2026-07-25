@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.268
 title: "Conditions for considering biodiesel as low carbon fuel; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.335
 title: "Department of Human Services reports regarding out-of-state placements"
 doc_type: statute

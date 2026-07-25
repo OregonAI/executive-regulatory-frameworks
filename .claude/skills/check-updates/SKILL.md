@@ -53,7 +53,9 @@ changes.
 
 4. **Validate and land**:
 
-       python3 src/validate_frontmatter.py && python3 src/verify_provenance.py
+       corpus-validate-frontmatter --config _meta/corpus.yml \
+         --schema .toolkit/schemas/document.frontmatter.v1.schema.json
+       corpus-verify-provenance --config _meta/corpus.yml
        python3 src/link_graph.py     # refresh relationship edges + _meta/graph.json
        python3 src/review_queue.py   # refresh REVIEW.md (CI checks it is current;
                                       # flags any rule/policy/procedure/standard left
@@ -67,7 +69,8 @@ changes.
 
 - `chapter-html` groups (e.g. `ors`): one shared snapshot covers several section
   documents; a refresh regenerates every dependent file automatically.
-- The old all-sources sweep still exists as `src/detect_changes.py` behind the
-  `detect-upstream-changes` workflow's manual `workflow_dispatch` (cron removed).
+- The old all-sources sweep is now `corpus-detect-changes` (from corpus-toolkit)
+  behind the `detect-upstream-changes` workflow's manual `workflow_dispatch`
+  (cron removed).
 - Adding a new group: copy an existing `_meta/sources/*.yml`, fill `kind`/`recheck`/
   `upstream_signal`/`sources`; it appears in `--due` immediately.

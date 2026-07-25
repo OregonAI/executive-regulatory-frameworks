@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468a.805
 title: "Environmental Mitigation Trust Agreement moneys; uses; rules"
 doc_type: statute

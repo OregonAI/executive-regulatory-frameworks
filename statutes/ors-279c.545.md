@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.545
 title: "Time limitation on claim for overtime; posting of circular by contractor (Retainage and Payments)"
 doc_type: statute

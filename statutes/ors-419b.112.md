@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.112
 title: "Court appointed special advocate; duties; immunity; access to information; funding; rules"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419b.876
 title: "Visitation or other contact between grandparent and ward; findings; order; appeal"
 doc_type: statute

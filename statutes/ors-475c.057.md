@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.057
 title: "Lawful production, delivery and possession of marijuana items"
 doc_type: statute

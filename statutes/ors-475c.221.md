@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.221
 title: "Identification for purchasing; restrictions on use of information"
 doc_type: statute

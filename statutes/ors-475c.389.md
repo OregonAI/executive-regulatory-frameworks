@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475c.389
 title: "Protection for person obtaining assistance for cannabis-related overdose"
 doc_type: statute

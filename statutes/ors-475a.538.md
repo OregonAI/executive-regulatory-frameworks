@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.538
 title: "Repeal of city, county ordinance that prohibits certain establishments (Powers and Duties of State Agencies and Officers and Governor)"
 doc_type: statute

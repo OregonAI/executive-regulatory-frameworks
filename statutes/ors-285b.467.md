@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.467
 title: "Oregon Infrastructure Finance Authority to determine eligibility for revenue bond financing; rules; request for issuance; allowable costs"
 doc_type: statute

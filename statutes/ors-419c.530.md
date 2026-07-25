@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-419c.530
 title: "Continuing jurisdiction of Psychiatric Security Review Board after placement"
 doc_type: statute

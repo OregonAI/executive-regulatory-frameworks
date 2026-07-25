@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.415
 title: "Oregon Health Authority grants for purchase of smoke filtration devices; rules"
 doc_type: statute

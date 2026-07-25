@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.165
 title: "Membership in Federal Reserve System; member bank, officers, directors and shareholders subject to duties and liabilities imposed by laws of this state"
 doc_type: statute

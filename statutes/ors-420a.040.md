@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.040
 title: "Provision of juvenile corrections programs and services to tribal adjudicated youth; agreements; award of funds"
 doc_type: statute

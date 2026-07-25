@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.365
 title: "Check, draft or payment instrument creating obligation for payment"
 doc_type: statute

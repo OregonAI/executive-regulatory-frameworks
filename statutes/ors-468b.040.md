@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.040
 title: "Certification of hydroelectric power project; comments of affected state agencies"
 doc_type: statute

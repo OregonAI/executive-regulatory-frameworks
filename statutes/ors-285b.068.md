@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285b.068
 title: "Payment of moneys for project; applicant to pay percentage of loan principal to Oregon Business Development Fund"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.180
 title: "Copy of certain disposition reports to Teacher Standards and Practices Commission and Department of Education"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.375
 title: "Inspection of facilities and vessels; coordination with State of Washington"
 doc_type: statute

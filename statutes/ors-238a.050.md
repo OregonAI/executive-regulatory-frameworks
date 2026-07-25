@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-238a.050
 title: "Oregon Public Service Retirement Plan part of Public Employees Retirement System"
 doc_type: statute

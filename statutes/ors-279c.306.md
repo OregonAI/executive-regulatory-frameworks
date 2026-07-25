@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.306
 title: "Administrative enforcement of least-cost policy for public improvements; procedure; civil action"
 doc_type: statute

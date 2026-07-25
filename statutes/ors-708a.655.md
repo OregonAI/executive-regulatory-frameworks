@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-708a.655
 title: "Procedures for opening safe deposit box after death of person who was sole lessee or last surviving lessee of box"
 doc_type: statute

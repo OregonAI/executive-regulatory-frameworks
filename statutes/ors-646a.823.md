@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-646a.823
 title: "Limited license required; application; fee; renewal; prohibited representations"
 doc_type: statute

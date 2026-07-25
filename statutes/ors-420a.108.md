@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-420a.108
 title: "Policy regarding rules and consequences for violations of rules; review of dispositions"
 doc_type: statute

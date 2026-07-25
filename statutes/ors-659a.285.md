@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-659a.285
 title: "Use of paid leave (Prohibited Conduct)"
 doc_type: statute

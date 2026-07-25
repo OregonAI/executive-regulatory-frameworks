@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-431a.010
 title: "Power of Oregon Health Authority and local public health administrators to enforce public health laws; authorized actions; rules; penalties"
 doc_type: statute

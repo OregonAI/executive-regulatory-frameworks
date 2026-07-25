@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.167
 title: "Broadband Fund; use of moneys; authority to contract (Temporary provisions relating to program for broadband service infrastructure grants and loans are compile"
 doc_type: statute

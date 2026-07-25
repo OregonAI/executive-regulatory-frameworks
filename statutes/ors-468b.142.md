@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-468b.142
 title: "Order compelling compliance with rules; injunction; security not required; attorney fees"
 doc_type: statute

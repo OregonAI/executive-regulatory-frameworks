@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-181a.908
 title: "Training through Bureau of Labor and Industries"
 doc_type: statute

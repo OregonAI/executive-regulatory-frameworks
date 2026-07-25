@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.372
 title: "Metro evaluation of accommodation of needed housing; corrective action; enforcement LOCAL REGULATIONS OF USES (Treatment Facilities)"
 doc_type: statute

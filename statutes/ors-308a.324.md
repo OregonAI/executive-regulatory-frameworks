@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-308a.324
 title: "Prepayment of additional taxes; extending taxes on tax roll; collection; distribution"
 doc_type: statute

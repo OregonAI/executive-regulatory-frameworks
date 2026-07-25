@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-197a.447
 title: "Planning and uses of home start lands for affordable housing"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-285a.516
 title: "Notification of plant closing or mass layoff under Worker Adjustment and Retraining Notification Act"
 doc_type: statute

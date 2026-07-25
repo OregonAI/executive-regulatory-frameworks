@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.100
 title: "Definitions for ORS 459A.100 to"
 doc_type: statute

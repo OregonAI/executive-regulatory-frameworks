@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: eo-03-03-letter
 title: "Sustainable Oregon EO 03-03 Letter to Secretary of State"
 doc_type: executive_order

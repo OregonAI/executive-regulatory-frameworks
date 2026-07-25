@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-276a.421
 title: "Provision of broadband services that compete with services of private telecommunications provider; circumstances of competition; broadband services advisory com"
 doc_type: statute

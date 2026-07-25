@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-279c.525
 title: "Provisions concerning environmental and natural resources laws; remedies"
 doc_type: statute

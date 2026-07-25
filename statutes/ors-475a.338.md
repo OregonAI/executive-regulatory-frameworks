@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-475a.338
 title: "Ability of health care provider, behavioral health care provider, to conduct certain sessions; protection from discipline"
 doc_type: statute

@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-459a.911
 title: "Other duties of local governments (Responsibilities of Environmental Quality Commission and Department of Environmental Quality)"
 doc_type: statute

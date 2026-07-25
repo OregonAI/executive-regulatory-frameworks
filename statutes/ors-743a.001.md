@@ -1,4 +1,7 @@
 ---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-743a.001
 title: "Automatic repeal of certain statutes on individual and group health insurance"
 doc_type: statute
