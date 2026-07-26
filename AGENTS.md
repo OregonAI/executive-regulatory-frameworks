@@ -75,11 +75,65 @@ A state-authored doc may be non-verbatim only with a frontmatter `content_except
 layer passes the ingest quality gate (≥100 words, ≥80% dictionary-recognizable —
 rejects garbage OCR) carry verbatim full text verified against their committed
 small `.txt` extraction; the rest are metadata stubs (`content_exception`) whose
-`source_sha256` is the raw-byte hash of the uncommitted PDF. Never auto-OCR a scan
-into `## Full text`. Orders are immutable: upstream checking watches the listing
-for **new** orders only (`_meta/sources/executive-orders.yml`); ingestion is
-`python3 src/ingest_eo.py --enumerate` / `--ingest`, catalog in
+`source_sha256` is the raw-byte hash of the uncommitted PDF — recoverable only
+under the two-engine rule below. Orders are immutable: upstream checking watches
+the listing for **new** orders only (`_meta/sources/executive-orders.yml`);
+ingestion is `python3 src/ingest_eo.py --enumerate` / `--ingest`, catalog in
 `_meta/catalog/eo.yml`.
+
+### OCR into `## Full text` — the two-engine rule
+
+This section supersedes the earlier blanket prohibition *"Never auto-OCR a scan
+into `## Full text`."* That rule was written when the only option was a single
+engine producing unverifiable garbage, and a single engine's output is still
+never promotable. What changed is that **independent corroboration is now
+available**: two OCR engines that share no model weights are vanishingly unlikely
+to invent the *same* words, so high agreement between them is positive evidence
+the words are physically on the page. That evidence — not a better engine — is
+what makes promotion defensible.
+
+OCR-derived text may enter `## Full text` only when **every** condition holds:
+
+1. **The document has no text at all today.** OCR may *add* text where a stub has
+   none; it may **never** replace or "improve" text already committed. (Measured:
+   a 26-order bake-off found the alternative engines worse than the incumbent
+   wherever the incumbent produces output — 0 of 18 improved, mean dictionary
+   ratio 87.6% → 75.3%.)
+2. **Two independent, purpose-built OCR engines agree ≥80%** on the word sequence
+   (`difflib.SequenceMatcher` over lowercased word tokens).
+3. **The pre-existing quality gate passes unchanged** — ≥100 words,
+   ≥80% dictionary-recognizable.
+4. **Generative / VLM OCR is forbidden for transcription.** Purpose-built
+   detector-recognizer engines only. A generative model asked to read a blurry
+   legal scan will emit fluent, plausible, *wrong* statutory language; a
+   purpose-built engine garbles visibly instead. Visible garbage is a safety
+   property here — it fails the gate rather than passing as text.
+5. **Artifacts are disclosed, never repaired.** Lost word spacing in letterhead
+   (`OfficeoftheGovernor`) is counted and reported, not fixed — re-inserting word
+   boundaries means writing text the OCR did not resolve, which
+   [the content policy](#content-policy-hard-requirements--full-text-first-anti-fabrication)
+   forbids.
+6. **Provenance is recorded in `conversion_notes`**: both engine names, the
+   agreement rate, the dictionary ratio, and the words `NOT human-verified`.
+7. **The reader is warned in the document itself** — the non-authoritative banner
+   states the text is OCR-derived and unverified, and `## Curator notes` explains
+   that signature blocks, names, and dates are the least reliable part of an OCR'd
+   scan.
+8. **The human review gate is unchanged.** CODEOWNER review before merge, exactly
+   as for any other content change.
+
+Anything failing any bar stays a stub and stays in REVIEW.md, with the failed
+attempt recorded in `_meta/catalog/eo.yml`'s `text_layer` so a later run can
+distinguish "tried and failed" from "never tried". Implementation:
+`python3 src/ocr_fallback_eo.py --report` / `--apply`.
+
+**This text is not verbatim in the sense the rest of the corpus is.** Everywhere
+else, `## Full text` means a human-authored source was transcribed and every line
+is diffed against a pinned snapshot. Here the snapshot *is* the machine's reading
+of an image, so the hash proves only that the file matches what OCR produced — not
+that OCR read the page correctly. Treat these documents as the best available
+reconstruction, cite them with that caveat, and verify anything load-bearing
+against the source PDF.
 
 Absolute do-nots:
 

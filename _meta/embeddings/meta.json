@@ -2,9 +2,10 @@
  "backend": "model2vec",
  "model": "minishlab/potion-retrieval-32M",
  "dim": 512,
- "granularity": "document",
- "n_chunks": 69395,
- "fingerprint": "97d2a3e87c38785d3cd7aa874e6700873b3d81dfb93337c1d83cbac2024aa700",
- "repr_chars": 1400,
- "note": "one int8 vector per document (title + At-a-glance + head of full text), L2-normalized*127; cosine \u2248 int32 dot / 127^2. Rebuild with src/build_embeddings.py after any ingest."
+ "granularity": "chunk",
+ "n_chunks": 167844,
+ "fingerprint": "6156f253979950685b034af0911c9975a33856de32ad176f9d6edaf87ed397a9",
+ "chunk_chars": 3200,
+ "chunk_overlap": 200,
+ "note": "one int8 vector per CHUNK (title-prefixed text, paragraph-chunked at ~chunk_chars chars with overlap \u2014 see chunk_text()), L2-normalized*127; cosine \u2248 int32 dot / 127^2. Multiple chunks share a doc_id; the serve side dedupes to each document's best-scoring chunk. Rebuild with src/build_embeddings.py after any ingest."
 }
