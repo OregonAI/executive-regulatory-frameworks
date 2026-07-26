@@ -80,6 +80,11 @@ TEMPLATE = r"""<!doctype html>
   .cand .csum{font-weight:600;font-size:13.5px;margin-bottom:6px}
   blockquote{margin:6px 0;padding:8px 12px;border-left:3px solid var(--accent2);background:color-mix(in srgb, var(--accent2) 6%, transparent);border-radius:0 6px 6px 0;font-size:12.5px;font-style:italic}
   blockquote cite{display:block;font-style:normal;font-weight:650;font-size:11.5px;color:var(--muted);margin-bottom:3px}
+  .qv{display:inline-block;margin-left:8px;padding:1px 6px;border-radius:9px;font-size:10px;font-weight:600;font-style:normal;vertical-align:1px}
+  .qv-ok{background:color-mix(in srgb,#2e7d32 18%,transparent);color:#2e7d32}
+  .qv-abs{background:color-mix(in srgb,#777 18%,transparent);color:var(--muted)}
+  .qv-no{background:color-mix(in srgb,#c62828 18%,transparent);color:#c62828}
+  @media(prefers-color-scheme:dark){.qv-ok{color:#81c784}.qv-no{color:#ef9a9a}}
   .cnote{font-size:12.5px;color:var(--muted);margin-top:4px}
   .cleannote{font-size:13px;color:var(--muted);padding-top:12px}
   details{margin-top:12px}
@@ -105,6 +110,12 @@ TEMPLATE = r"""<!doctype html>
     Produced by an LLM reading each chapter's full statute + implementing-rule text in one pass. Every
     candidate carries the exact document citations and quoted text it's based on, so you can verify
     it yourself. This is a pilot over a subset of 245 shared-authority chapters, not an exhaustive scan.
+    <span id="qvsummary"></span> Each quote is machine-checked against the cited document's own full
+    text: <span class="qv qv-ok">verified in source</span> means those exact words were found there;
+    <span class="qv qv-abs">absence claim</span> means the finding is that the source <i>omits</i>
+    something, which cannot be matched; <span class="qv qv-no">not found in source</span> means the
+    document exists but those words were not located in it — treat those as unverified and read the
+    source before relying on them.
   </div>
   <div class="filterbar">
     <label for="agencyFilter">Filter by agency</label>
@@ -118,7 +129,8 @@ TEMPLATE = r"""<!doctype html>
 <script>
 const DATA=/*DATA*/;
 document.getElementById('h1').textContent=`What does ${DATA.n_chapters} ORS chapters' worth of cross-referencing actually hold together?`;
-document.getElementById('sub').textContent=`${DATA.n_chapters} chapters piloted · ${DATA.n_candidates} candidates · ${DATA.n_clean_chapters} chapters with none found · ${DATA.n_docs_verified} citations verified against the corpus graph · non-authoritative`;
+document.getElementById('sub').textContent=`${DATA.n_chapters} chapters piloted · ${DATA.n_candidates} candidates · ${DATA.n_clean_chapters} chapters with none found · ${DATA.n_docs_verified} citations verified against the corpus graph · ${DATA.n_quotes_grounded} of ${DATA.n_docs_verified} quotes verified in source · non-authoritative`;
+document.getElementById('qvsummary').textContent=`Of ${DATA.n_docs_verified} quoted passages, ${DATA.n_quotes_grounded} were located verbatim in the cited source, ${DATA.n_quotes_absence_claim} assert an omission, and ${DATA.n_quotes_ungrounded} could not be located.`;
 document.getElementById('foot').innerHTML = esc(DATA.note) + '<br><br><b>Methodology:</b> ' + esc(DATA.methodology);
 
 const sel=document.getElementById('agencyFilter');
@@ -149,7 +161,18 @@ for(const ch of rows){
   if(n>0){
     for(const c of ch.candidates){
       const cand=document.createElement('div');cand.className='cand';
-      const quotes=c.documents.map(d=>`<blockquote><cite>${esc(d.citation)}${d.not_found?' — NOT FOUND in corpus':''}</cite>${esc(d.quote)}</blockquote>`).join('');
+      const quotes=c.documents.map(d=>{
+        // quote_verified: true = these exact words were found in the cited document's
+        // '## Full text'; "absence" = the claim is that the source OMITS something, so
+        // there is nothing to match; false = cited document exists but the words were
+        // not found in it — read that one against the source before relying on it.
+        const v = d.quote_verified;
+        const mark = v===true ? '<span class="qv qv-ok" title="These words were found verbatim in the cited document’s full text">verified in source</span>'
+                  : v==='absence' ? '<span class="qv qv-abs" title="This claims the source omits something, so it cannot be matched against the source">absence claim</span>'
+                  : v===false ? '<span class="qv qv-no" title="The cited document exists, but these words were not found in its full text. Check against the source.">not found in source</span>'
+                  : '';
+        return `<blockquote><cite>${esc(d.citation)}${d.not_found?' — NOT FOUND in corpus':''}${mark}</cite>${esc(d.quote)}</blockquote>`;
+      }).join('');
       cand.innerHTML = `<div class="csum">${esc(c.summary)}</div>${quotes}<div class="cnote">${esc(c.note||'')}</div>`;
       bodyEl.appendChild(cand);
     }

@@ -444,6 +444,18 @@ The document prints a different date than its listing of record (known site typo
 - `rules/951/ (11 rules)` — correct non-links — 11 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/972/ (11 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 9 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 
+## Executive-order dates that contradict their own numbering (7)
+
+Order numbers are assigned sequentially within a year, so a higher number carrying an earlier signature date means one of the two dates was misread — usually OCR damage to the signature block, which is the least reliable part of a scanned order. This check is independent of the parser (which validates a date against the YEAR in its id and therefore cannot see a wrong day), and it is what surfaced the day-truncation bug. Not every entry is an error: orders are occasionally signed out of numeric order. Resolve by reading both signature blocks against the source PDFs and correcting or nulling the wrong one; `python3 src/recheck_eo_signed_dates.py` re-derives dates from the committed extractions.
+
+- `eo-03-14` — signed 2003-09-09, but the preceding order `eo-03-13` is dated 2003-09-24 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
+- `eo-08-23` — signed 2008-09-04, but the preceding order `eo-08-21` is dated 2008-09-17 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
+- `eo-13-08` — signed 2013-07-25, but the preceding order `eo-13-07` is dated 2013-07-29 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
+- `eo-15-16` — signed 2015-08-15, but the preceding order `eo-15-13` is dated 2015-08-25 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
+- `eo-23-20` — signed 2023-08-31, but the preceding order `eo-23-19` is dated 2023-09-05 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
+- `eo-23-22` — signed 2023-09-01, but the preceding order `eo-23-21` is dated 2023-09-05 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
+- `eo-24-18` — signed 2024-07-20, but the preceding order `eo-24-17` is dated 2024-07-21 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
+
 ## Catalog: sections with no sliceable body (343)
 
 ORS catalog entries whose section text couldn't be found in the chapter HTML (likely renumbered/repealed or TOC noise). Verify against the printed ORS if any of these numbers matter; otherwise they stay intentionally not ingested.
