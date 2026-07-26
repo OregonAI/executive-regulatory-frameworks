@@ -33,6 +33,7 @@ claim about a document must be checkable against the corpus, not taken on faith.
   python3 src/build_conflict_candidates_data.py --report-quotes  # list ungrounded quotes
   python3 src/build_conflict_candidates_data.py --strict-quotes  # exit 1 on any ungrounded
 """
+import hashlib
 import json
 import re
 import sys
@@ -107,6 +108,75 @@ def looks_like_absence_claim(quote: str) -> bool:
     return bool(_ABSENCE_RE.search(quote.strip()))
 
 
+GRADES = (None, "low", "medium", "high")
+TRIAGE_STATES = ("unreviewed", "confirmed", "dismissed")
+
+
+# Citations are free text from a model ("ORS 435.254(3)"), so they are reduced to
+# alphanumerics before hashing: a re-run writing "ORS 435.254 (3)" must land on the same
+# fingerprint, or triage silently fails to carry over.
+_CITE_NOISE = re.compile(r"[^a-z0-9]+")
+
+
+def candidate_fingerprint(ors_chapter: str, cand: dict) -> str:
+    """Stable identity of a candidate ACROSS RUNS: its chapter plus the set of
+    (document, cited subsection) pairs it is about.
+
+    Deliberately NOT the summary. Two runs describing the same tension between the same
+    provisions are the same finding for triage purposes even when they word it
+    differently, and a rewording must not resurrect something a human dismissed.
+
+    Deliberately NOT document ids alone, either — that was the first design and the
+    corpus refuted it immediately. ORS 435 carries two distinct findings over the same
+    pair of documents: one about ORS 435.254(3) vs OAR 333-505-0120(6), another about
+    (1)(c) vs (1)(c). Keying on ids alone would have forced two real findings to merge.
+    The subsection is what makes them different, so the subsection is in the key.
+
+    Known limit: a re-run that cites the same provision in a materially different STYLE
+    ("subsection 3" rather than "(3)") gets a new fingerprint and loses its triage. That
+    surfaces as a resurrected candidate — visible and correctable — rather than as a
+    dismissal silently applied to the wrong finding."""
+    parts = sorted({f"{d['id']}#{_CITE_NOISE.sub('', (d.get('citation') or '').lower())}"
+                    for d in cand.get("documents") or []})
+    return hashlib.sha256("|".join([str(ors_chapter), *parts]).encode()).hexdigest()[:16]
+
+
+def validate_envelope(ors_chapter: str, cand: dict, seen: dict) -> None:
+    """Enforce the v2 provenance/triage envelope. These are hard failures: the whole point
+    of the schema is that an ungraded or untriaged candidate cannot masquerade as a
+    reviewed one."""
+    for field in ("confidence", "severity"):
+        if cand.get(field) not in GRADES:
+            raise SystemExit(
+                f"conflict-candidates.yml (ORS {ors_chapter}): {field}="
+                f"{cand.get(field)!r} — must be one of {GRADES!r}. null means NOT "
+                "RECORDED; do not use it to mean 'low'.")
+    triage = cand.get("triage") or {}
+    if triage.get("status") not in TRIAGE_STATES:
+        raise SystemExit(
+            f"conflict-candidates.yml (ORS {ors_chapter}): triage.status="
+            f"{triage.get('status')!r} — must be one of {TRIAGE_STATES!r}.")
+    if triage["status"] == "dismissed" and not (triage.get("note") or "").strip():
+        raise SystemExit(
+            f"conflict-candidates.yml (ORS {ors_chapter}): a dismissed candidate must "
+            "carry triage.note saying why — an unexplained dismissal is indistinguishable "
+            f"from an oversight. Candidate: {cand.get('summary', '')[:80]!r}")
+    if not cand.get("run_id"):
+        raise SystemExit(
+            f"conflict-candidates.yml (ORS {ors_chapter}): candidate has no run_id — "
+            "every candidate must be attributable to the run that produced it.")
+
+    fp = candidate_fingerprint(ors_chapter, cand)
+    if fp in seen:
+        raise SystemExit(
+            f"conflict-candidates.yml (ORS {ors_chapter}): two candidates cite the same "
+            f"set of documents ({sorted({d['id'] for d in cand.get('documents') or []})}), "
+            "so they share a triage fingerprint and a re-run could not tell them apart. "
+            "Merge them, or make them cite the documents they actually differ on.")
+    seen[fp] = True
+    cand["fingerprint"] = fp
+
+
 def _chapter_agencies(ors_chapter: str, graph: dict, registry_by_chapter: dict) -> list:
     """Every agency (slug+name) with an OAR rule implementing this ORS chapter, derived
     the same way the catalog's per-chapter agency COUNT was originally computed: walk
@@ -148,9 +218,15 @@ def compute(collect_ungrounded: list | None = None) -> dict:
     n_candidates = n_docs_checked = n_artifacts = 0
     n_grounded = n_absence = n_ungrounded = 0
     all_agencies = {}
+    triage_counts = dict.fromkeys(TRIAGE_STATES, 0)
+    severity_counts = {g or "ungraded": 0 for g in GRADES}
+    seen_fingerprints: dict = {}
     for ch in cat["chapters"]:
         for cand in ch.get("candidates", []):
             n_candidates += 1
+            validate_envelope(ch["ors_chapter"], cand, seen_fingerprints)
+            triage_counts[cand["triage"]["status"]] += 1
+            severity_counts[cand.get("severity") or "ungraded"] += 1
             for doc in cand["documents"]:
                 n_docs_checked += 1
                 exists = doc["id"] in ids
@@ -202,6 +278,9 @@ def compute(collect_ungrounded: list | None = None) -> dict:
         "n_quotes_grounded": n_grounded,
         "n_quotes_absence_claim": n_absence,
         "n_quotes_ungrounded": n_ungrounded,
+        "schema_version": cat.get("schema_version", 1),
+        "triage_counts": triage_counts,
+        "severity_counts": severity_counts,
         "all_agencies": sorted(
             [{"slug": s, "name": agency_names[s], "chapters": n} for s, n in all_agencies.items()],
             key=lambda a: a["name"]),

@@ -74,6 +74,15 @@ TEMPLATE = r"""<!doctype html>
   .badge{padding:3px 9px;border-radius:99px;font-size:11.5px;font-weight:650;white-space:nowrap}
   .badge.has{background:color-mix(in srgb, var(--accent) 16%, transparent);color:var(--accent)}
   .badge.clean{background:color-mix(in srgb, #2f9e44 16%, transparent);color:#2f9e44}
+  .cmeta{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 8px}
+  .tri,.gr{padding:2px 8px;border-radius:99px;font-size:11px;font-weight:650;letter-spacing:.02em}
+  /* Triage is the human verdict — the only one of these a reader should lean on. */
+  .tri-unreviewed{background:color-mix(in srgb,#868e96 18%,transparent);color:#868e96}
+  .tri-confirmed{background:color-mix(in srgb,#e03131 16%,transparent);color:#e03131}
+  .tri-dismissed{background:color-mix(in srgb,#2f9e44 14%,transparent);color:#2f9e44;text-decoration:line-through}
+  /* Model-assigned grades: deliberately muted so they don't read as human judgment. */
+  .gr{background:color-mix(in srgb,var(--ink) 7%,transparent);color:var(--muted);font-weight:600}
+  .gr-high{color:#e8590c}.gr-medium{color:#f08c00}.gr-low{color:var(--muted)}
   .body{display:none;padding:0 16px 14px;border-top:1px solid var(--line)}
   .card.open .body{display:block}
   .cand{margin-top:14px;padding-top:2px}
@@ -110,6 +119,7 @@ TEMPLATE = r"""<!doctype html>
     Produced by an LLM reading each chapter's full statute + implementing-rule text in one pass. Every
     candidate carries the exact document citations and quoted text it's based on, so you can verify
     it yourself. This is a pilot over a subset of 245 shared-authority chapters, not an exhaustive scan.
+    <span id="trisummary"></span>
     <span id="qvsummary"></span> Each quote is machine-checked against the cited document's own full
     text: <span class="qv qv-ok">verified in source</span> means those exact words were found there;
     <span class="qv qv-abs">absence claim</span> means the finding is that the source <i>omits</i>
@@ -131,6 +141,10 @@ const DATA=/*DATA*/;
 document.getElementById('h1').textContent=`What does ${DATA.n_chapters} ORS chapters' worth of cross-referencing actually hold together?`;
 document.getElementById('sub').textContent=`${DATA.n_chapters} chapters piloted · ${DATA.n_candidates} candidates · ${DATA.n_clean_chapters} chapters with none found · ${DATA.n_docs_verified} citations verified against the corpus graph · ${DATA.n_quotes_grounded} of ${DATA.n_docs_verified} quotes verified in source · non-authoritative`;
 document.getElementById('qvsummary').textContent=`Of ${DATA.n_docs_verified} quoted passages, ${DATA.n_quotes_grounded} were located verbatim in the cited source, ${DATA.n_quotes_absence_claim} assert an omission, and ${DATA.n_quotes_ungrounded} could not be located.`;
+{ // Triage state, stated plainly: nothing here has been through human review yet.
+  const t=DATA.triage_counts||{}, el=document.getElementById('trisummary');
+  if(el) el.textContent=`Human review: ${t.confirmed||0} confirmed, ${t.dismissed||0} dismissed, ${t.unreviewed||0} still unreviewed of ${DATA.n_candidates}. Severity and confidence, where shown, are the analysing model's own assessment — not a human's, and not a legal one.`;
+}
 document.getElementById('foot').innerHTML = esc(DATA.note) + '<br><br><b>Methodology:</b> ' + esc(DATA.methodology);
 
 const sel=document.getElementById('agencyFilter');
@@ -173,7 +187,20 @@ for(const ch of rows){
                   : '';
         return `<blockquote><cite>${esc(d.citation)}${d.not_found?' — NOT FOUND in corpus':''}${mark}</cite>${esc(d.quote)}</blockquote>`;
       }).join('');
-      cand.innerHTML = `<div class="csum">${esc(c.summary)}</div>${quotes}<div class="cnote">${esc(c.note||'')}</div>`;
+      // v2 envelope. severity/confidence are the MODEL's graded assessment and are shown
+      // as such; triage is the HUMAN verdict and is the one a reader should weight. null
+      // means the producing run never recorded it — rendered as "ungraded", never as low.
+      const grade = (label,v) => v ? `<span class="gr gr-${v}">${label} ${v}</span>` : '';
+      const tri = (c.triage&&c.triage.status)||'unreviewed';
+      const triNote = (c.triage&&c.triage.note)||'';
+      const meta = `<div class="cmeta">`
+        + `<span class="tri tri-${tri}" title="${tri==='unreviewed'?'No human has assessed this candidate yet':esc(triNote)}">${tri}</span>`
+        + grade('severity', c.severity) + grade('confidence', c.confidence)
+        + (c.model ? `<span class="gr gr-model" title="Model that produced this candidate">${esc(c.model)}</span>`
+                   : `<span class="gr gr-model" title="${esc(c.model_note||'model not recorded')}">model unrecorded</span>`)
+        + `</div>`;
+      cand.innerHTML = `<div class="csum">${esc(c.summary)}</div>${meta}${quotes}<div class="cnote">${esc(c.note||'')}</div>`
+        + (triNote ? `<div class="cnote"><b>Triage:</b> ${esc(triNote)}</div>` : '');
       bodyEl.appendChild(cand);
     }
   } else if(ch.note){
