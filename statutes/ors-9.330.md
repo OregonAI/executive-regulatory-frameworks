@@ -1,0 +1,67 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: ors-9.330
+title: "Authority of attorney"
+doc_type: statute
+citation: "ORS 9.330"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors009.html"
+source_format: html
+retrieved: "2026-07-26"
+source_sha256: "a0a2745e838694080ec783a796ca93303346461f34caac97858e9121d0567ec6"
+snapshot_id: ors-chapter-9
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+last_amended: 2011
+enacted: 1975
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-26"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-9"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors009.html> (retrieved 2026-07-26, 2025 Edition).
+
+# Authority of attorney (ORS 9.330)
+
+## At a glance
+
+ORS 9.330 — Authority of attorney. Chapter 9 (Oregon State Bar; Attorneys; Law Libraries), 2025 Edition.
+
+## Full text
+
+9.330 Authority of attorney. An attorney has authority to bind the attorney’s client in any of the proceedings in an action, suit or proceeding, by the attorney and client agreement, filed with the clerk or entered in the appropriate record of the court. The attorney also has authority to receive money or property claimed by the client in an action, suit or proceeding, during the pendency thereof, or within three years after judgment, and upon the payment or delivery thereof to discharge the claim or acknowledge satisfaction of the judgment. This section does not prevent a party from employing a new attorney to issue execution upon a judgment or to take other proceedings prescribed by law for its enforcement, and when the party does so, the authority of the former attorney ceases. [Amended by 1985 c.540 §23; 2003 c.576 §277] 9.340 Challenge by party of attorney’s authority to appear for party. If it is alleged by a party for whom an attorney appears that the attorney does so without authority, and the allegation is verified by the affidavit of the party, the court may, if it finds the allegation true, at any stage of the proceedings relieve the party for whom the attorney has assumed to appear from the consequences of the attorney’s acts. 9.350 Challenge of attorney’s authority to appear for adverse party. The court or judge thereof may, on motion of either party and on showing reasonable grounds therefor, require the attorney for an adverse party to prove the authority under which the attorney appears, and until the attorney does so, may stay all proceedings by the attorney on behalf of the party for whom the attorney assumes to appear. 9.360 Compelling delivery by attorney of money or papers. When an attorney refuses to deliver over money or papers to a person from whom or for whom the attorney has received them in the course of professional employment, the attorney may be required by an order of the court in which a judicial proceeding was prosecuted or defended, or if none were prosecuted or defended, then by an order of the circuit court or judge thereof for the county where such attorney resides or may be found, to do so within a specified time, or show cause why the attorney should not be punished for a contempt. 9.370 Compelling delivery when attorney claims lien. If an attorney claims a lien, under the provisions of ORS 87.430, upon the money or papers subject to delivery under ORS 9.360, the court shall:
+
+(1) Impose, as a condition of making the order, the requirement that the client give security, in form and amount to be directed, to satisfy the lien when determined in an action or suit;
+
+(2) Summarily inquire into the facts on which the claim of a lien is founded, and determine the same; or
+
+(3) Direct the trial of the controversy by a jury, or refer it, and upon the verdict or report, determine the same as in other cases. [Amended by 1975 c.648 §70; 1991 c.67 §2; 2003 c.14 §9] 9.380 Changing attorneys and terminating attorney-client relationship.
+
+(1) The attorney in an action or proceeding may be changed, or the relationship of attorney and client terminated, as follows: (a) Before judgment or final determination, upon the consent of the attorney filed with the clerk or entered in the appropriate record of the court; or (b) At any time, upon the order of the court, based on the application of the client or the attorney, for good and sufficient cause.
+
+(2) The relationship of attorney and client may be terminated after the entry of a judgment or other final determination in an action or proceeding by the filing of a notice of termination of the relationship in the action or proceeding. The notice must be signed by the attorney and must state that all services required of the attorney under the agreement between the attorney and the client have been provided. [Amended by 1985 c.540 §24; 2003 c.576 §278; 2011 c.60 §1] 9.390 Notice of change or termination. When an attorney is changed, or the relationship of attorney and client is terminated, as provided in ORS 9.380, written notice of the change or termination shall be given to the adverse party. Until the notice is given, the adverse party is bound to recognize the former attorney. [Amended by 2011 c.60 §2] 9.400 [1987 c.774 §8; renumbered 20.340 in 1997]
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors009.html> · retrieved 2026-07-26 · sha256 `a0a2745e838694080ec783a796ca93303346461f34caac97858e9121d0567ec6`
+  (chapter snapshot `_meta/snapshots/ors-chapter-9.html`)
+- See [CHANGELOG](./CHANGELOG.md).

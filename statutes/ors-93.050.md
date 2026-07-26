@@ -1,0 +1,57 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: ors-93.050
+title: "Gift or conveyance of life estate"
+doc_type: statute
+citation: "ORS 93.050"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors093.html"
+source_format: html
+retrieved: "2026-07-26"
+source_sha256: "68c72fc291fbcdf7b9bcb846c21157dc6675b345873c9dc1df90a186dbc0a062"
+snapshot_id: ors-chapter-93
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+last_amended: 1991
+enacted: 1991
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-26"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-93"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors093.html> (retrieved 2026-07-26, 2025 Edition).
+
+# Gift or conveyance of life estate (ORS 93.050)
+
+## At a glance
+
+ORS 93.050 — Gift or conveyance of life estate. Chapter 93 (Conveyancing and Recording), 2025 Edition.
+
+## Full text
+
+93.050 Gift or conveyance of life estate. A gift or conveyance of property under deed or other writing executed after June 30, 1993, to any person for the term of the life of the person, and after the death of the person to the children or heirs of the person, vests an estate or interest for life only in the grantee or person receiving the gift or conveyance, and remainder in the children or heirs. [1991 c.850 §3]
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors093.html> · retrieved 2026-07-26 · sha256 `68c72fc291fbcdf7b9bcb846c21157dc6675b345873c9dc1df90a186dbc0a062`
+  (chapter snapshot `_meta/snapshots/ors-chapter-93.html`)
+- See [CHANGELOG](./CHANGELOG.md).

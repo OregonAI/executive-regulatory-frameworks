@@ -1,0 +1,1127 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+111 — General Provisions 
+
+ TITLE 12 
+
+ PROBATE LAW 
+
+   
+
+ Chapter     111.     General
+Provisions 
+
+                   112.     Intestate
+Succession and Wills 
+
+                   113.     Initiation
+of Estate Proceedings 
+
+                   114.     Administration
+of Estates Generally 
+
+                   115.     Claims;
+Actions and Suits 
+
+                   116.     Accounting,
+Distribution and Closing 
+
+                   117.     Estates
+of Absentees 
+
+                   118.     Estate
+Tax 
+
+                   119.     Revised
+Uniform Fiduciary Access to Digital Assets Act 
+
+ _______________ 
+
+   
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ PROBATE LAW 
+
+   
+
+ DEFINITIONS AND APPLICATION OF
+PROBATE LAW 
+
+   
+
+ 111.005     Definitions for probate
+law 
+
+   
+
+ 111.015     Application of chapter
+591, Oregon Laws 1969 
+
+   
+
+ 111.025     Oregon Tax Court
+jurisdiction 
+
+   
+
+ PROBATE COURTS AND COMMISSIONERS 
+
+   
+
+ 111.055     Transfer of probate
+jurisdiction 
+
+   
+
+ 111.075     Probate jurisdiction
+vested 
+
+   
+
+ 111.085     Probate jurisdiction
+described 
+
+   
+
+ 111.095     Powers of probate court 
+
+   
+
+ 111.105     Appeals from probate
+court; reexamination of issues 
+
+   
+
+ 111.115     Transfer of estate
+proceeding from county court to circuit court 
+
+   
+
+ 111.175     Appointment of probate
+commissioner and deputy probate commissioners 
+
+   
+
+ 111.185     Powers of probate
+commissioner and deputy probate commissioners 
+
+   
+
+ PROBATE PROCEDURE GENERALLY 
+
+   
+
+ 111.200     Applicability of Oregon
+Rules of Civil Procedure and Oregon Evidence Code; contested issues in probate
+proceedings 
+
+   
+
+ 111.205     Commencement of probate
+proceeding; pleadings and mode of procedure; jury trial 
+
+   
+
+ 111.215     Notice; method and time
+of giving; computation of time 
+
+   
+
+ 111.218     Proof of service; proof
+of publication 
+
+   
+
+ 111.225     Waiver of notice 
+
+   
+
+ 111.235     Filing objections to
+petition or motion 
+
+   
+
+ 111.241     Hearing 
+
+   
+
+ 111.245     Proof of documents;
+certification 
+
+   
+
+ 111.255     Translation of
+documents 
+
+   
+
+ 111.275     Limited judgments 
+
+   
+
+ DEFINITIONS AND APPLICATION OF
+PROBATE LAW 
+
+   
+
+       111.005
+Definitions for probate law. 
+As used in ORS chapters 111, 112, 113, 114, 115, 116 and 117, unless the
+context requires otherwise: 
+
+       (1) “Abate” means
+to reduce a devise on account of the insufficiency of the estate to pay all
+claims, expenses and devises in full. 
+
+       (2) “Action”
+includes suits and legal proceedings. 
+
+       (3) “Administration”
+means any proceeding relating to the estate of a decedent, whether the decedent
+died testate, intestate or partially intestate. 
+
+       (4) “Advancement”
+means a gift by a decedent to an heir or devisee with the intent that the gift
+satisfy in whole or in part the heir’s share of an intestate estate or the
+devisee’s share of a testate estate. 
+
+       (5) “Assets”
+includes real, personal and intangible property. 
+
+       (6) “Claim”
+includes liabilities of a decedent, whether arising in contract, in tort or
+otherwise. 
+
+       (7) “Court” or “probate
+court” means the court in which jurisdiction of probate matters, causes and
+proceedings is vested as provided in ORS 111.075. 
+
+       (8) “Decedent”
+means a person who has died. 
+
+       (9)(a) “Descendant”
+means a person who is descended from a specific ancestor and includes an
+adopted child and the adopted child’s descendants. 
+
+       (b) When used to
+refer to persons who take by intestate succession, “descendant” does not
+include a person who is the descendant of a living descendant. 
+
+       (10) “Devise,”
+when used as a noun, means property disposed of by a will. 
+
+       (11) “Devise,”
+when used as a verb, means to dispose of property by a will. 
+
+       (12) “Devisee”
+means a person designated in a will to receive a devise. 
+
+       (13) “Distributee”
+means a person entitled to any property of a decedent under the will of the
+decedent or under intestate succession. 
+
+       (14) “Domicile”
+means the place of abode of a person, where the person intends to remain and to
+which, if absent, the person intends to return. 
+
+       (15)(a) “Estate”
+means the real and personal property of a decedent, as from time to time
+changed in form by sale, reinvestment, substitutions or otherwise, augmented by
+any accretions or additions or diminished by any decreases or distributions. 
+
+       (b) “Estate”
+includes tangible and intangible personal property of a decedent domiciled in
+Oregon, wherever the property is situated. 
+
+       (16) “Funeral”
+includes the burial or other disposition of the remains of a decedent, any plot
+or tomb and other necessary incidents to the disposition of the remains, any
+memorial ceremony or other observance and related expenses. 
+
+       (17) “General
+devise” means a devise chargeable generally on the estate of a testator so that
+the devise is not distinguishable from other parts of the estate and does not
+constitute a specific devise. 
+
+       (18) “Heir” means
+any person who is or would be entitled under intestate succession to property
+of a person upon that person’s death. 
+
+       (19)(a) “Interested
+person” means any person having a property right in or claim against the estate
+of a decedent that may be affected by the proceeding. 
+
+       (b) “Interested
+person” includes a decedent’s heir, devisee, child, spouse or creditor if the
+heir, devisee, child, spouse or creditor has a property right in or claim
+against the decedent’s estate. 
+
+       (c) “Interested
+person” also includes: 
+
+       (A) A fiduciary
+representing a person described in paragraph (a) or (b) of this subsection; and 
+
+       (B) A person
+designated in writing by the decedent to control the use of the decedent’s
+gametes or embryos after the decedent’s death. 
+
+       (20) “Intestate”
+means one who dies without leaving a valid will, or the circumstance of dying
+without leaving a valid will, effectively disposing of all the estate. 
+
+       (21) “Intestate
+succession” means succession to property of a decedent who dies intestate or
+partially intestate. 
+
+       (22) “Issue”
+means a descendant or descendants. 
+
+       (23) “Net estate”
+means the real and personal property of a decedent, except property used for
+the support of the surviving spouse and children and for the payment of
+expenses of administration, funeral expenses, claims and taxes. 
+
+       (24) “Net
+intestate estate” means any part of the net estate of a decedent not
+effectively disposed of by the will. 
+
+       (25) “Personal
+property” includes all property other than real property. 
+
+       (26) “Personal
+representative” includes executor, administrator, administrator with will
+annexed and administrator de bonis non, but does not include special
+administrator. 
+
+       (27) “Property”
+includes both real and personal property. 
+
+       (28) “Real
+property” includes all legal and equitable interests in land, in fee and for
+life. 
+
+       (29) “Settlement”
+includes, as to the estate of a decedent, the full process of administration,
+distribution and closing. 
+
+       (30) “Specific
+devise” means a devise of a specific thing or specified part of the estate of a
+testator that is so described as to be capable of identification. A specific
+devise is a gift of a part of the estate identified and differentiated from all
+other parts. 
+
+       (31) “Will”
+includes codicil and also includes a testamentary instrument that merely
+appoints a personal representative or that merely revokes or revives another
+will. [1969 c.591 §1; 2015 c.387 §31; 2016 c.42 §1; 2017 c.169 §1; 2021 c.282 §4;
+2025 c.592 §75] 
+
+   
+
+       111.010 [Repealed by 1969 c.591 §305] 
+
+   
+
+       111.015
+Application of chapter 591, Oregon Laws 1969. Except as specifically provided otherwise in chapter
+591, Oregon Laws 1969, on July 1, 1970, chapter 591, Oregon Laws 1969, applies
+to wills of decedents dying thereafter, and a will executed before July 1,
+1970, shall be considered lawfully executed if the application of ORS 112.255
+would make it so, but the construction of a will executed before July 1, 1970,
+shall be governed by the law in effect on the date of execution unless a
+contrary intent is established by the will. [1969 c.591 §303; 2016 c.42 §12] 
+
+   
+
+       111.020 [Repealed by 1969 c.591 §305] 
+
+   
+
+       111.025 Oregon
+Tax Court jurisdiction. 
+For purposes of ORS chapters 111 to 116, the Oregon Tax Court is not a court
+having probate jurisdiction and is limited to the trial of appeals on estate
+tax matters. [1971 c.567 §3; 1997 c.99 §25; 2011 c.526 §17; 2017 c.169 §44] 
+
+   
+
+       111.030 [Repealed by 1969 c.591 §305] 
+
+   
+
+       111.040 [Repealed by 1969 c.591 §305] 
+
+   
+
+       111.050 [Repealed by 1969 c.591 §305] 
+
+   
+
+ PROBATE COURTS AND
+COMMISSIONERS 
+
+   
+
+       111.055
+Transfer of probate jurisdiction. 
+(1) All probate jurisdiction, authority, powers, functions and duties of the
+county courts and the judges thereof are transferred to the circuit courts and
+the judges thereof in all counties except Gilliam, Grant, Harney, Malheur,
+Sherman and Wheeler Counties. 
+
+       (2) All probate
+jurisdiction, authority, powers, functions and duties of the circuit courts and
+the judges thereof are transferred to the county courts and the judges thereof
+in Gilliam, Grant, Harney, Malheur, Sherman and Wheeler Counties. [1969 c.591 §2;
+1995 c.658 §71] 
+
+   
+
+       111.060 [Repealed by 1969 c.591 §305] 
+
+   
+
+       111.065 [1969 c.591 §3; 1979 c.683 §34;
+repealed by 1983 c.740 §12] 
+
+   
+
+       111.070 [Repealed by 1969 c.591 §305] 
+
+   
+
+       111.075
+Probate jurisdiction vested. 
+Jurisdiction of all probate matters, causes and proceedings is vested in the
+county courts of Gilliam, Grant, Harney, Malheur, Sherman and Wheeler Counties
+and in the circuit court for each other county and as provided in ORS 111.115. [1969
+c.591 §4] 
+
+   
+
+       111.085
+Probate jurisdiction described. 
+(1) The jurisdiction of the probate court includes, but is not limited to: 
+
+       (a) Appointment
+and qualification of personal representatives. 
+
+       (b) Probate and
+contest of wills. 
+
+       (c) Determination
+of heirship. 
+
+       (d) Determination
+of title to, rights in and possession of property claimed by or against
+personal representatives, guardians and conservators. 
+
+       (e)
+Administration, settlement and distribution of estates of decedents. 
+
+       (f) Construction
+of wills, whether incident to the administration or distribution of an estate
+or as a separate proceeding. 
+
+       (g) Guardianships
+and conservatorships, including the appointment and qualification of guardians
+and conservators and the administration, settlement and closing of
+guardianships and conservatorships. 
+
+       (h) Supervision
+and disciplining of personal representatives, guardians and conservators. 
+
+       (i) If a
+testamentary trustee vacancy occurs during a probate proceeding and the will
+does not name a trustee or successor trustee who is able to serve, appointment
+of a testamentary trustee or successor testamentary trustee. 
+
+       (2) The
+distributees of an estate administered in Oregon are subject to the
+jurisdiction of the courts of Oregon regarding any matter involving the
+distributees’ interests in the estate. By accepting a distribution from an
+estate, the distributee submits personally to the jurisdiction of the courts of
+this state regarding any matter involving the estate. 
+
+       (3) This section
+does not preclude other methods of obtaining jurisdiction over a person to whom
+assets are distributed from an estate. [1969 c.591 §5; 1973 c.177 §1; 2017
+c.169 §2; 2021 c.282 §5] 
+
+   
+
+       111.095 Powers
+of probate court. 
+(1) A probate court has the general legal and equitable powers of a circuit
+court. 
+
+       (2) The
+determinations, orders and judgments of a probate court have the same validity,
+finality and presumption of regularity as those of a circuit court. 
+
+       (3) A probate
+court has full, legal and equitable powers to make declaratory judgments, as
+provided in ORS 28.010 to 28.160, in all matters involved in the administration
+of an estate, including matters pertaining to the title of real property and
+ownership of personal property, the determination of heirship and the
+distribution of the estate. 
+
+       (4) A court
+having jurisdiction over a probate proceeding may: 
+
+       (a) Compel the
+attendance of, or require the response to inquiries by and production of
+documents subject to discovery under ORCP 36 from, any person, including a
+beneficiary, creditor, fiduciary or any other person who may have knowledge
+about the decedent’s taxes, financial affairs or property. 
+
+       (b) Exercise
+jurisdiction over any transaction entered into by a fiduciary to determine if a
+conflict of interest existed and enter an appropriate order or judgment with
+respect to the transaction. 
+
+       (c) Surcharge a
+fiduciary and any surety for any loss caused by failure of a fiduciary to
+perform a fiduciary duty or any other duty imposed by ORS chapter 111, 112,
+113, 114, 115, 116 or 117. 
+
+       (d) Determine
+ownership of title for real or personal property. 
+
+       (e) Subject to
+ORS chapter 90, require delivery of possession of property of the decedent,
+including records, accounts and documents relating to that property. 
+
+       (f) Require the
+fiduciary to produce any and all records that might provide information about
+the condition of the estate’s property. 
+
+       (g) Remove a
+fiduciary whenever that removal is in the best interests of the interested
+persons of an estate. 
+
+       (h) Appoint a
+successor fiduciary when a fiduciary has died, resigned or been removed. 
+
+       (i) Impose any
+conditions and limitations upon the fiduciary that the court considers
+appropriate, including limitations on the duration of the appointment. 
+
+       (j) Without
+hearing or upon such hearing as the court may prescribe, rule on any matter
+concerning the administration, settlement or distribution of the estate,
+including the fiduciary’s authority, the court’s approval of the fiduciary’s
+actions or the court’s instructions to the fiduciary. [1969 c.591 §6; 1979
+c.284 §102; 2016 c.42 §13; 2021 c.282 §6] 
+
+   
+
+       111.105 Appeals
+from probate court; reexamination of issues. (1) Except as otherwise provided in this section, no
+issue determined in a probate court exercising probate jurisdiction shall be
+tried again on appeal or otherwise reexamined in a manner other than those
+appropriate to issues determined by a court of record with general
+jurisdiction. 
+
+       (2) Appeals from
+a circuit court exercising probate jurisdiction shall be taken to the Court of
+Appeals in the manner provided by law for appeals from the circuit court. 
+
+       (3) Appeals from
+a county court exercising probate jurisdiction shall be taken to the circuit
+court and Court of Appeals in the manner provided by ORS 5.120. [1969 c.591 §7;
+1979 c.284 §103; 2021 c.282 §7] 
+
+   
+
+       111.110 [Repealed by 1969 c.591 §305] 
+
+   
+
+       111.115
+Transfer of estate proceeding from county court to circuit court. (1) An estate proceeding may be
+transferred at any time from a county court to the circuit court for the county
+by order of the county court. 
+
+       (2) An estate
+proceeding commenced in a county court and in which the county judge is a party
+or directly interested must be transferred from the county court to the circuit
+court for the county by order of the county court. 
+
+       (3) Upon transfer
+of an estate proceeding from a county court to the circuit court for the county
+under this section: 
+
+       (a) The county
+clerk shall certify and cause to be filed in the records of the circuit court
+all original papers, records and proceedings pertaining to the estate
+proceeding; and 
+
+       (b) Jurisdiction
+over the estate proceeding vests in the circuit court as if the jurisdiction
+had been originally and exclusively vested in the circuit court. [1969 c.591 §8;
+2016 c.42 §14; 2021 c.282 §8] 
+
+   
+
+       111.120 [Repealed by 1969 c.591 §305] 
+
+   
+
+       111.130 [Repealed by 1969 c.591 §305] 
+
+   
+
+       111.140 [Repealed by 1969 c.591 §305] 
+
+   
+
+       111.150 [Repealed by 1969 c.591 §305] 
+
+   
+
+       111.160 [Repealed by 1969 c.591 §305] 
+
+   
+
+       111.165 [1969 c.591 §9; repealed by 1995
+c.658 §127] 
+
+   
+
+       111.170 [Repealed by 1969 c.591 §305] 
+
+   
+
+       111.175
+Appointment of probate commissioner and deputy probate commissioners. The presiding judge of a circuit
+court or the county judge of a county court may appoint a probate commissioner
+and one or more deputy probate commissioners and, if such appointments are
+made, shall prescribe, by rule or order, the duties and responsibilities of the
+probate commissioner and deputy probate commissioners, subject to ORS 111.185. [1969
+c.591 §10; 2016 c.42 §15] 
+
+   
+
+       111.185 Powers
+of probate commissioner and deputy probate commissioners. (1) To the extent prescribed or
+otherwise authorized by rule or order made under ORS 111.175, a probate
+commissioner or deputy probate commissioner may: 
+
+       (a) Act upon
+uncontested petitions for appointment of special administrators, for probate of
+wills and for appointment of personal representatives, guardians and
+conservators; 
+
+       (b) Make and
+enter orders and judgments admitting wills to probate and appointing and
+setting the amount of the bonds of special administrators, personal
+representatives, guardians and conservators; and 
+
+       (c) Appoint court
+visitors. 
+
+       (2) Any matter
+presented to the probate commissioner or deputy probate commissioner may be
+referred to the judge of the court. 
+
+       (3) Any order or
+judgment made by a probate commissioner or deputy probate commissioner is
+subject to being set aside or modified by the judge of the court within 30 days
+after the date of the order or judgment. 
+
+       (4) Any
+interested person may object to an order or judgment of a probate commissioner
+or deputy probate commissioner within 30 days after the date of the order or
+judgment, and the judge of the court may set aside or modify the order or
+judgment. 
+
+       (5) Unless set
+aside or modified by the judge of the court, the orders and judgments of the
+probate commissioner or deputy probate commissioner have the same effect as if
+made by the judge of the court. [1969 c.591 §11; 2016 c.42 §16] 
+
+   
+
+ PROBATE PROCEDURE
+GENERALLY 
+
+   
+
+       111.200
+Applicability of Oregon Rules of Civil Procedure and Oregon Evidence Code;
+contested issues in probate proceedings. (1) As used in this section: 
+
+       (a) “Probate
+proceeding” means a proceeding under ORS chapter 111, 112, 113, 114, 115, 116
+or 117 for the administration of a decedent’s estate. 
+
+       (b) “Probate
+proceeding” does not include: 
+
+       (A) A proceeding
+for summary determination of a claim under ORS 115.145 (1)(b); or 
+
+       (B) A declaratory
+judgment action under ORS chapter 28. 
+
+       (2) Except as
+otherwise provided in ORS 111.205, 111.218, 112.588, 113.005, 113.105, 114.720,
+115.315, 116.083 or 116.253, the Oregon Rules of Civil Procedure and the Oregon
+Evidence Code do not apply to probate proceedings. 
+
+       (3)
+Notwithstanding subsection (2) of this section: 
+
+       (a) ORCP 12
+applies to any probate proceeding. 
+
+       (b) ORCP 9, 10 A,
+16 B, 16 D, 17, 18, 19, 21, 22, 23, 25, 27, 29, 30, 31, 33, 34 A to F, 36 to
+43, 44 A, B, D and E, 45, 46, 47, 53, 55, 62, 64 A and C to G, 65, 67, 68, 71,
+72 and 78 apply to a contested issue in a probate proceeding. 
+
+       (c) The Oregon
+Evidence Code applies to a contested issue in a probate proceeding. 
+
+       (4) For the
+purposes of applying the Oregon Rules of Civil Procedure to a contested issue
+in a probate proceeding: 
+
+       (a) “Plaintiff”
+means any party asserting a claim for relief, whether by way of petition or
+motion; and 
+
+       (b) “Defendant”
+means: 
+
+       (A) Any party
+against whom the claim is asserted; 
+
+       (B) Any party
+objecting to the petition or motion; or 
+
+       (C) If the court
+issues a show cause order, the party subject to the order. 
+
+       (5)(a) For the
+purposes of this section, an issue in a probate proceeding is contested if it
+is or arises from: 
+
+       (A) A petition or
+motion for declaratory judgment, including a will contest; 
+
+       (B) A petition to
+remove a court-appointed fiduciary; 
+
+       (C) A petition or
+motion for affirmative relief of any sort against a person; 
+
+       (D) A petition or
+motion to apportion the proceeds of a wrongful death settlement; 
+
+       (E) If filed by a
+person other than the personal representative: 
+
+       (i) A motion to
+increase the amount of the bond of the personal representative, or to require a
+new bond; 
+
+       (ii) A petition
+to restrict the powers of the personal representative; 
+
+       (iii) A petition
+to determine heirship; 
+
+       (iv) A petition
+for instructions; or 
+
+       (v) A petition to
+appoint a fiduciary other than the fiduciary nominated in the will admitted to
+probate; 
+
+       (F) Any other
+petition or motion to which another person has filed an objection; or 
+
+       (G) Any other
+petition, motion or show cause order determined by the court to be a contested
+issue in a probate proceeding. 
+
+       (b)
+Notwithstanding paragraph (a) of this subsection, unless otherwise determined
+by the court, the following are not contested issues in probate proceedings: 
+
+       (A) A petition
+for summary review of administration of a simple estate under ORS 114.550; 
+
+       (B) A petition or
+motion for summary determination of a claim as provided in ORS 114.542 or
+115.145 (1)(a); or 
+
+       (C) An
+application for an order directing payment of a claim under ORS 115.185. 
+
+       (6) Nothing in
+this section is intended to affect the burden of proof or standard of proof
+that is applied in probate proceedings. [2021 c.282 §2; 2023 c.17 §7; 2025 c.34
+§5] 
+
+   
+
+       Note: Section 6 (3), chapter 34, Oregon
+Laws 2025, provides: 
+
+       Sec. 6. (3) The amendments to ORS 111.200
+by section 5 of this 2025 Act apply to contested issues first raised in a
+probate proceeding on or after the effective date of this 2025 Act [January 1,
+2026]. [2025 c.34 §6(3)] 
+
+   
+
+       111.205
+Commencement of probate proceeding; pleadings and mode of procedure; jury
+trial. (1) A
+probate proceeding is commenced by the filing of a petition in a court with
+jurisdiction over probate proceedings. Petitions to commence probate
+proceedings are authorized in ORS chapters 113 and 117. 
+
+       (2) No particular
+pleadings or forms of pleadings are required in the exercise of jurisdiction of
+probate courts. All petitions, inventories, reports and accountings in a
+probate proceeding must be in writing and include a declaration under penalty
+of perjury in the form required by ORCP 1 E. The declaration must be made by at
+least one of the persons making the pleading or by the attorney for the person,
+or in the case of a business entity by an authorized agent. A declarant who is
+physically outside the boundaries of the United States must make an unsworn
+declaration under ORS 194.800 to 194.835. 
+
+       (3) Actions in a
+probate proceeding are not triable by a jury except as otherwise provided by
+law. [1969 c.591 §12; 1979 c.284 §104; 2007 c.284 §1; 2013 c.218 §13; 2017
+c.169 §45; 2021 c.282 §9] 
+
+   
+
+       111.210 [Repealed by 1969 c.591 §305] 
+
+   
+
+       111.212 [1953 c.650 §2; repealed by 1969
+c.591 §305] 
+
+   
+
+       111.215
+Notice; method and time of giving; computation of time. (1)(a) A notice required under ORS
+chapter 111, 112, 113, 114, 115, 116 or 117 must contain the following: 
+
+       (A) The name,
+address and telephone number of the person giving the notice and the nature of
+that person’s interest in the estate; 
+
+       (B) A statement
+where objections may be filed and the deadline for filing those objections, if
+any; and 
+
+       (C) A statement
+that the objection must include a plain and concise statement of the basis for
+the objection. 
+
+       (b) The notice
+must be accompanied by copies of any relevant documents filed or to be filed
+with the court. 
+
+       (2)(a) Except as
+otherwise specifically provided in ORS chapter 111, 112, 113, 114, 115, 116 or
+117, whenever notice is required in ORS chapter 111, 112, 113, 114, 115, 116 or
+117, the petitioner or other person filing the document shall cause notice to be
+given to the personal representative, to each interested person whose interests
+may be affected by the substance of the document or the grant or denial of the
+requested action or relief. 
+
+       (b) If the person
+giving notice under this section knows that a person who is entitled to notice
+under paragraph (a) of this subsection is represented by a fiduciary, the
+notice must also be given to the person’s fiduciary. 
+
+       (c) If a person
+who is entitled to notice under paragraph (a) of this subsection is a minor, as
+that term is defined in ORS 125.005, the notice must be given to the minor’s
+parents and, if the minor is 14 years of age or older, to the minor. 
+
+       (d) As used in
+this subsection, “parent” means a parent as defined in ORS 419A.004 whose
+rights have not been terminated or whose rights were terminated but reinstated
+under ORS 419B.532. 
+
+       (3) Except as
+otherwise specifically provided in ORS chapter 111, 112, 113, 114, 115, 116 or
+117, a notice described in subsection (1) or (2) of this section must be given
+in one or more of the following ways: 
+
+       (a) By first
+class mail to the person’s place of residence or business. 
+
+       (b) By personal
+delivery at the person’s place of residence or business. 
+
+       (c) If the person
+consents in writing to electronic notice, or if the notice is being given to
+the Department of Human Services or the Oregon Health Authority and the
+department or authority has adopted rules allowing for the department or
+authority to accept electronic notice, by properly directed electronic mail. 
+
+       (d) If the person
+has appeared by attorney or has requested that notice be sent to the person’s
+attorney, by mailing or delivery to the person’s attorney. If notice is given
+to a person’s attorney consistent with this paragraph, the person giving notice
+is not required to also send notice to the person. 
+
+       (e) If the place
+of residence or business of any person is not known or cannot be ascertained
+with reasonable diligence, by publishing a copy of the notice once in each of
+three consecutive weeks in a newspaper of general circulation in the county
+where the probate court sits. 
+
+       (f) Upon good
+cause shown any other method determined by the court to be reasonably suitable
+under the circumstances and likely to result in receipt of the notice,
+including notice by electronic mail irrespective of whether the person has
+consented to electronic service. 
+
+       (4)(a) Except as
+otherwise ordered by the court or specifically provided in ORS chapter 111,
+112, 113, 114, 115, 116 or 117, the notice described in subsection (1) of this
+section must be given no later than 15 days before the earlier of the date for
+filing objections to the petition or other pleading or the date set for the
+hearing. 
+
+       (b) If a notice
+of time for filing objections or of the date set for a hearing is published as
+provided in subsection (3)(e) of this section, the last date of publication of
+the notice shall be at least 15 days before the earlier of the date for the
+filing of objections to the petition or motion or the date set for the hearing. 
+
+       (5) Proof of the
+giving of notice described in subsection (1) of this section must be made at or
+before the hearing, if any, and filed in the proceeding. 
+
+       (6) The time
+within which an act is to be done under ORS chapter 111, 112, 113, 114, 115,
+116 or 117 is determined under ORS 174.120 and 174.125. [1969 c.591 §13; 2007
+c.284 §8; 2017 c.169 §3; 2021 c.282 §10] 
+
+   
+
+       111.218 Proof
+of service; proof of publication. 
+(1) Proof of service must be made for all documents for which statutes require
+giving notice. If notice of a document is not required, no proof of service is
+required. 
+
+       (2) Proof of
+service of a document may be on the document filed in the form of a certificate
+of service that specifies the date of mailing or other service or may be by a
+separate filing. 
+
+       (3) Proof of
+publication required to be filed in probate court must be made in the form
+required by ORCP 7 F. [2007 c.284 §7; 2021 c.282 §11] 
+
+   
+
+       111.220 [Repealed by 1957 c.411 §7] 
+
+   
+
+       111.225 Waiver
+of notice. When
+any notice or information is required to be given under ORS chapters 111, 112,
+113, 114, 115, 116 and 117, a guardian, a guardian ad litem, a conservator or a
+person who is neither incompetent nor a minor may waive notice by a writing
+signed by the guardian, guardian at litem, conservator or person or the
+attorney of the guardian, guardian ad litem, conservator or person and filed in
+the proceeding, or by the appearance of the guardian, guardian ad litem,
+conservator or person at the hearing. [1969 c.591 §14; 1973 c.506 §5] 
+
+   
+
+       111.230 [Repealed by 1957 c.411 §7] 
+
+   
+
+       111.231 [1957 c.411 §3; repealed by 1969
+c.591 §305] 
+
+   
+
+       111.235 Filing
+objections to petition or motion. 
+(1) Any interested person or the personal representative may file a written
+objection to a petition or motion previously filed. 
+
+       (2) An objection
+filed under this section must: 
+
+       (a) Include a
+plain and concise statement of the basis for the objection; 
+
+       (b) Be served on
+the persons described in ORS 111.215 (2); and 
+
+       (c) Be filed on
+or before the final date for the filing of objections to the petition or
+motion. 
+
+       (3) If no
+objections are filed before the final date for the filing of objections to the
+petition or motion, or if all filed objections are withdrawn, the court may
+sign the proposed order or judgment without further notice. [1969 c.591 §15;
+2021 c.282 §12] 
+
+   
+
+       111.240 [Repealed by 1957 c.411 §7] 
+
+   
+
+       111.241
+Hearing. (1) The
+court may require that a hearing be held on any petition or motion in a probate
+proceeding. 
+
+       (2) A hearing
+must be held on a petition or a motion in a probate proceeding if an objection
+to the petition or motion is filed and the objection is not withdrawn before
+the hearing. [2021 c.282 §3] 
+
+   
+
+       111.245 Proof
+of documents; certification. 
+(1) Proof of documents pursuant to ORS chapter 111, 112, 113, 114, 115, 116 or
+117 may be made as follows: 
+
+       (a) Of a will, by
+a certified copy of the will. 
+
+       (b) That a will
+has been probated or established in a foreign jurisdiction, by a certified copy
+of the document entered in the foreign jurisdiction admitting the will to
+probate or recognizing the validity of the will. 
+
+       (c) Of letters
+testamentary or letters of administration, by a certified copy of the letters.
+The certification may include a statement that the letters have not been
+revoked. 
+
+       (2) A document
+filed or entered in a foreign jurisdiction may be proved by a copy of the
+document, certified by a clerk of the court in which the document was filed or
+entered or by any other official having legal custody of the original document.
+[1969 c.591 §16; 2017 c.169 §46; 2021 c.282 §13] 
+
+   
+
+       111.255
+Translation of documents. 
+If all or part of a document is not in the English language, a translation
+certified by the translator to be accurate may be attached to the document. If
+no objection is made to the certified translation, any person who relies in
+good faith on the accuracy of the translation may not be prejudiced because of
+its inaccuracy. [1969 c.591 §17; 2017 c.169 §47; 2021 c.282 §14] 
+
+   
+
+       111.265 [1969 c.591 §18; repealed by 2021
+c.282 §23] 
+
+   
+
+       111.275
+Limited judgments. 
+(1) The court in a probate proceeding may enter a limited judgment only for the
+following decisions of the court: 
+
+       (a) A decision on
+a petition for appointment or removal of a personal representative, including a
+successor personal representative. 
+
+       (b) A decision in
+a will contest filed in the probate proceeding. 
+
+       (c) A decision to
+require delivery of possession of property of the decedent, including records,
+accounts or documents relating to the property. 
+
+       (d) A decision to
+determine ownership of title for real or personal property. 
+
+       (e) A decision on
+a petition or motion for support or elective share. 
+
+       (f) A decision on
+an objection to a final accounting. 
+
+       (g) A decision on
+a request made in the proceeding for a declaratory judgment under ORS 111.095. 
+
+       (h) A decision on
+a request for an award of expenses under ORS 116.183. 
+
+       (i) A decision on
+surcharge of a fiduciary or a surety. 
+
+       (j) Such
+decisions of the court as may be specified by rules or orders of the Chief
+Justice of the Supreme Court under ORS 18.028. 
+
+       (k) Any other
+decision that is a final determination of the rights of one or more persons. 
+
+       (2) A court may
+enter a limited judgment under this section only if the court determines that
+there is no just reason for delay. The judgment document need not reflect the
+court’s determination that there is no just reason for delay. [2005 c.568 §33;
+2009 c.50 §1; 2016 c.42 §18; 2021 c.282 §15] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

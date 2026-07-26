@@ -26,3 +26,13 @@ site/
 # Batch-run bookkeeping for src/analyze_conflicts.py (batch ids, bundle manifests).
 # Reproducible from the catalog + graph; nothing here is an input to CI.
 _meta/.cache/conflict-runs/
+
+# Semantic vector index. Not committed: it is a derived artifact, nothing in CI or Pages
+# consumes it (build_embeddings.py --check soft-passes when absent, and the MCP server
+# falls back to keyword search), and at corpus scale it exceeds GitHub's 100 MiB per-file
+# limit. Keeping it out of git also frees the build to use the best available model
+# (sentence-transformers/bge-large on a GPU host) instead of whichever one fits a size cap.
+# Build locally to enable semantic search:  python3 src/build_embeddings.py
+_meta/embeddings/*
+# ...except the 2-D projection, which is small and IS a committed CI input (build_topic_map).
+!_meta/embeddings/projection.2d.json

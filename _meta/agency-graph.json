@@ -5,7 +5,7 @@
  "counts": {
   "agencies": 166,
   "colored_groups": 15,
-  "ors_chapters": 398
+  "ors_chapters": 428
  },
  "colored_groups": [
   {
@@ -85,6 +85,7 @@
   }
  ],
  "chapter_pop": {
+  "10": 1,
   "100": 1,
   "101": 1,
   "105": 3,
@@ -98,6 +99,7 @@
   "115": 1,
   "116": 1,
   "118": 1,
+  "12": 1,
   "124": 1,
   "125": 3,
   "127": 5,
@@ -124,6 +126,7 @@
   "177": 3,
   "178": 3,
   "179": 7,
+  "18": 4,
   "180": 4,
   "181a": 22,
   "182": 11,
@@ -143,6 +146,7 @@
   "205": 2,
   "206": 1,
   "209": 1,
+  "21": 1,
   "215": 3,
   "221": 1,
   "222": 2,
@@ -158,6 +162,7 @@
   "247": 1,
   "248": 1,
   "249": 1,
+  "25": 13,
   "250": 3,
   "251": 1,
   "254": 1,
@@ -191,6 +196,7 @@
   "294": 1,
   "295": 1,
   "297": 2,
+  "30": 6,
   "305": 9,
   "306": 1,
   "307": 4,
@@ -223,6 +229,7 @@
   "337": 1,
   "338": 2,
   "339": 5,
+  "34": 1,
   "340": 1,
   "341": 4,
   "342": 4,
@@ -237,6 +244,7 @@
   "357": 3,
   "358": 2,
   "359": 1,
+  "36": 41,
   "366": 3,
   "367": 2,
   "374": 1,
@@ -265,7 +273,7 @@
   "419c": 6,
   "420": 3,
   "420a": 2,
-  "421": 1,
+  "421": 2,
   "423": 1,
   "426": 5,
   "427": 2,
@@ -277,12 +285,15 @@
   "433": 7,
   "435": 4,
   "438": 1,
+  "44": 1,
   "441": 5,
+  "442": 3,
   "443": 9,
   "444": 1,
   "446": 4,
   "447": 3,
   "448": 3,
+  "45": 3,
   "450": 1,
   "453": 4,
   "454": 1,
@@ -343,6 +354,7 @@
   "543": 2,
   "543a": 1,
   "554": 1,
+  "56": 1,
   "561": 1,
   "564": 1,
   "566": 2,
@@ -352,9 +364,12 @@
   "576": 20,
   "577": 2,
   "578": 2,
+  "58": 3,
   "586": 1,
+  "59": 1,
   "596": 1,
   "599": 1,
+  "60": 1,
   "601": 1,
   "602": 1,
   "603": 1,
@@ -365,11 +380,13 @@
   "616": 2,
   "618": 1,
   "619": 1,
+  "62": 2,
   "621": 1,
   "622": 2,
   "624": 1,
   "625": 1,
   "628": 1,
+  "63": 3,
   "632": 1,
   "633": 1,
   "634": 2,
@@ -379,6 +396,7 @@
   "646a": 3,
   "647": 1,
   "648": 2,
+  "65": 2,
   "650": 1,
   "651": 1,
   "652": 1,
@@ -472,6 +490,7 @@
   "816": 3,
   "818": 3,
   "819": 3,
+  "82": 1,
   "820": 4,
   "821": 2,
   "822": 1,
@@ -482,7 +501,18 @@
   "830": 1,
   "835": 1,
   "836": 2,
-  "837": 1
+  "837": 1,
+  "84": 3,
+  "86": 1,
+  "86a": 1,
+  "87": 3,
+  "88": 1,
+  "90": 6,
+  "92": 1,
+  "93": 1,
+  "94": 1,
+  "97": 7,
+  "98": 4
  },
  "agencies": [
   {
@@ -500,14 +530,16 @@
   {
    "slug": "board-of-chiropractic-examiners",
    "name": "Board of Chiropractic Examiners",
-   "rules": 42,
+   "rules": 43,
    "parent": null,
    "group": "board-of-chiropractic-examiners",
    "group_name": "Board of Chiropractic Examiners",
    "governance": "executive_branch",
    "chapters": [
     "183",
+    "36",
     "441",
+    "58",
     "684"
    ]
   },
@@ -527,7 +559,7 @@
   {
    "slug": "board-of-examiners-for-speech-language-pathology-and-audiology",
    "name": "Board of Examiners for Speech-Language Pathology and Audiology",
-   "rules": 38,
+   "rules": 39,
    "parent": null,
    "group": "board-of-examiners-for-speech-language-pathology-and-audiology",
    "group_name": "Board of Examiners for Speech-Language Pathology and Audiology",
@@ -536,6 +568,7 @@
     "183",
     "215",
     "305",
+    "36",
     "413",
     "676",
     "681"
@@ -544,7 +577,7 @@
   {
    "slug": "board-of-geologist-examiners",
    "name": "Board of Geologist Examiners",
-   "rules": 53,
+   "rules": 55,
    "parent": null,
    "group": "board-of-geologist-examiners",
    "group_name": "Board of Geologist Examiners",
@@ -553,7 +586,9 @@
     "182",
     "183",
     "192",
+    "25",
     "305",
+    "36",
     "670",
     "672"
    ]
@@ -630,6 +665,8 @@
     "183",
     "192",
     "408",
+    "58",
+    "63",
     "646",
     "670",
     "676",
@@ -676,17 +713,21 @@
   {
    "slug": "bureau-of-labor-and-industries",
    "name": "Bureau of Labor and Industries",
-   "rules": 543,
+   "rules": 546,
    "parent": null,
    "group": "bureau-of-labor-and-industries",
    "group_name": "Bureau of Labor and Industries",
    "governance": "executive_branch",
    "chapters": [
+    "10",
+    "18",
     "183",
+    "25",
     "260",
     "279c",
     "344",
     "345",
+    "36",
     "390",
     "408",
     "479",
@@ -741,7 +782,7 @@
   {
    "slug": "commission-for-the-blind",
    "name": "Commission for the Blind",
-   "rules": 53,
+   "rules": 54,
    "parent": null,
    "group": "commission-for-the-blind",
    "group_name": "Commission for the Blind",
@@ -750,13 +791,14 @@
     "181a",
     "183",
     "192",
-    "346"
+    "346",
+    "36"
    ]
   },
   {
    "slug": "construction-contractors-board",
    "name": "Construction Contractors Board",
-   "rules": 256,
+   "rules": 263,
    "parent": null,
    "group": "construction-contractors-board",
    "group_name": "Construction Contractors Board",
@@ -766,8 +808,10 @@
     "183",
     "192",
     "244",
+    "25",
     "279c",
     "293",
+    "36",
     "448",
     "470",
     "571",
@@ -777,13 +821,14 @@
     "670",
     "671",
     "701",
-    "813"
+    "813",
+    "87"
    ]
   },
   {
    "slug": "department-of-administrative-services",
    "name": "Department of Administrative Services",
-   "rules": 344,
+   "rules": 346,
    "parent": null,
    "group": "department-of-administrative-services",
    "group_name": "Department of Administrative Services",
@@ -810,12 +855,14 @@
     "291",
     "292",
     "305",
+    "36",
     "468a",
     "646",
     "655",
     "671",
     "676",
-    "701"
+    "701",
+    "98"
    ]
   },
   {
@@ -866,7 +913,7 @@
   {
    "slug": "department-of-agriculture",
    "name": "Department of Agriculture",
-   "rules": 1013,
+   "rules": 1020,
    "parent": null,
    "group": "department-of-agriculture",
    "group_name": "Department of Agriculture",
@@ -880,6 +927,7 @@
     "276",
     "307",
     "315",
+    "36",
     "468",
     "468a",
     "468b",
@@ -905,6 +953,7 @@
     "616",
     "618",
     "619",
+    "62",
     "621",
     "622",
     "625",
@@ -1231,7 +1280,7 @@
   {
    "slug": "department-of-consumer-and-business-services-building-codes-division",
    "name": "Department of Consumer and Business Services, Building Codes Division",
-   "rules": 649,
+   "rules": 650,
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
@@ -1239,6 +1288,7 @@
    "chapters": [
     "183",
     "197",
+    "25",
     "293",
     "446",
     "447",
@@ -1250,19 +1300,22 @@
     "479",
     "480",
     "670",
-    "693"
+    "693",
+    "90"
    ]
   },
   {
    "slug": "department-of-consumer-and-business-services-director-s-office",
    "name": "Department of Consumer and Business Services, Director's Office",
-   "rules": 14,
+   "rules": 17,
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
    "governance": "executive_branch",
    "chapters": [
     "183",
+    "25",
+    "36",
     "654",
     "656",
     "697",
@@ -1274,15 +1327,17 @@
   {
    "slug": "department-of-consumer-and-business-services-finance-and-securities-regulation",
    "name": "Department of Consumer and Business Services, Finance and Securities Regulation",
-   "rules": 185,
+   "rules": 432,
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
    "governance": "executive_branch",
    "chapters": [
     "183",
+    "25",
     "293",
     "446",
+    "59",
     "645",
     "646a",
     "650",
@@ -1299,7 +1354,9 @@
     "717",
     "723",
     "725",
-    "726"
+    "726",
+    "86a",
+    "97"
    ]
   },
   {
@@ -1318,15 +1375,17 @@
   {
    "slug": "department-of-consumer-and-business-services-insurance-regulation",
    "name": "Department of Consumer and Business Services, Insurance Regulation",
-   "rules": 815,
+   "rules": 816,
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
    "governance": "executive_branch",
    "chapters": [
+    "12",
     "174",
     "183",
     "293",
+    "30",
     "433",
     "646a",
     "656",
@@ -1374,6 +1433,7 @@
    "chapters": [
     "147",
     "183",
+    "45",
     "654",
     "656"
    ]
@@ -1394,13 +1454,14 @@
     "316",
     "656",
     "670",
-    "731"
+    "731",
+    "84"
    ]
   },
   {
    "slug": "department-of-corrections",
    "name": "Department of Corrections",
-   "rules": 812,
+   "rules": 814,
    "parent": null,
    "group": "department-of-corrections",
    "group_name": "Department of Corrections",
@@ -1420,6 +1481,9 @@
     "197",
     "276",
     "293",
+    "30",
+    "34",
+    "36",
     "419a",
     "419b",
     "420",
@@ -1430,7 +1494,8 @@
     "475",
     "659a",
     "802",
-    "813"
+    "813",
+    "98"
    ]
   },
   {
@@ -1458,7 +1523,7 @@
   {
    "slug": "department-of-energy-energy-facility-siting-council",
    "name": "Department of Energy, Energy Facility Siting Council",
-   "rules": 218,
+   "rules": 219,
    "parent": "department-of-energy",
    "group": "department-of-energy",
    "group_name": "Department of Energy",
@@ -1467,13 +1532,15 @@
     "174",
     "183",
     "192",
-    "469"
+    "36",
+    "469",
+    "97"
    ]
   },
   {
    "slug": "department-of-environmental-quality",
    "name": "Department of Environmental Quality",
-   "rules": 1554,
+   "rules": 1556,
    "parent": null,
    "group": "department-of-environmental-quality",
    "group_name": "Department of Environmental Quality",
@@ -1482,6 +1549,7 @@
     "183",
     "197",
     "315",
+    "36",
     "448",
     "453",
     "454",
@@ -1553,6 +1621,7 @@
     "292",
     "315",
     "321",
+    "36",
     "477",
     "526",
     "527",
@@ -1581,7 +1650,7 @@
   {
    "slug": "department-of-human-services",
    "name": "Department of Human Services",
-   "rules": 125,
+   "rules": 127,
    "parent": null,
    "group": "department-of-human-services",
    "group_name": "Department of Human Services",
@@ -1589,6 +1658,7 @@
    "chapters": [
     "181a",
     "183",
+    "36",
     "409",
     "410",
     "411",
@@ -1656,6 +1726,7 @@
     "180",
     "181a",
     "183",
+    "25",
     "293",
     "326",
     "329",
@@ -1670,7 +1741,8 @@
     "419a",
     "419b",
     "419c",
-    "435"
+    "435",
+    "97"
    ]
   },
   {
@@ -1705,9 +1777,11 @@
     "125",
     "130",
     "178",
+    "18",
     "183",
     "192",
     "205",
+    "25",
     "291",
     "329a",
     "348",
@@ -1723,7 +1797,9 @@
     "458",
     "659",
     "743b",
-    "825"
+    "825",
+    "84",
+    "93"
    ]
   },
   {
@@ -1742,7 +1818,7 @@
   {
    "slug": "department-of-justice",
    "name": "Department of Justice",
-   "rules": 526,
+   "rules": 627,
    "parent": null,
    "group": "department-of-justice",
    "group_name": "Department of Justice",
@@ -1759,33 +1835,42 @@
     "147",
     "166",
     "167",
+    "18",
     "180",
     "181a",
     "183",
     "190",
     "192",
     "200",
+    "25",
     "279a",
     "279b",
     "279c",
     "291",
     "293",
+    "30",
     "305",
     "323",
     "357",
+    "36",
     "411",
     "412",
     "418",
     "419b",
     "432",
+    "44",
+    "45",
     "464",
     "468",
     "468a",
     "646",
+    "65",
     "656",
     "657",
     "671",
-    "701"
+    "701",
+    "82",
+    "90"
    ]
   },
   {
@@ -1811,7 +1896,7 @@
   {
    "slug": "department-of-revenue",
    "name": "Department of Revenue",
-   "rules": 889,
+   "rules": 895,
    "parent": null,
    "group": "department-of-revenue",
    "group_name": "Department of Revenue",
@@ -1819,6 +1904,7 @@
    "chapters": [
     "118",
     "137",
+    "18",
     "180",
     "181a",
     "183",
@@ -1858,13 +1944,16 @@
     "457",
     "465",
     "475c",
-    "670"
+    "63",
+    "670",
+    "84",
+    "90"
    ]
   },
   {
    "slug": "department-of-state-lands",
    "name": "Department of State Lands",
-   "rules": 491,
+   "rules": 492,
    "parent": null,
    "group": "department-of-state-lands",
    "group_name": "Department of State Lands",
@@ -1877,6 +1966,7 @@
     "270",
     "273",
     "274",
+    "36",
     "376",
     "390",
     "530",
@@ -1899,7 +1989,7 @@
   {
    "slug": "department-of-state-police",
    "name": "Department of State Police",
-   "rules": 75,
+   "rules": 76,
    "parent": null,
    "group": "department-of-state-police",
    "group_name": "Department of State Police",
@@ -1913,6 +2003,7 @@
     "183",
     "192",
     "244",
+    "36",
     "475",
     "801",
     "809",
@@ -1955,7 +2046,7 @@
   {
    "slug": "department-of-transportation",
    "name": "Department of Transportation",
-   "rules": 183,
+   "rules": 185,
    "parent": null,
    "group": "department-of-transportation",
    "group_name": "Department of Transportation",
@@ -1971,6 +2062,7 @@
     "279c",
     "305",
     "319",
+    "36",
     "366",
     "367",
     "383",
@@ -1982,7 +2074,7 @@
   {
    "slug": "department-of-transportation-driver-and-motor-vehicle-services-division",
    "name": "Department of Transportation, Driver and Motor Vehicle Services Division",
-   "rules": 554,
+   "rules": 556,
    "parent": "department-of-transportation",
    "group": "department-of-transportation",
    "group_name": "Department of Transportation",
@@ -2019,7 +2111,10 @@
     "821",
     "822",
     "825",
-    "826"
+    "826",
+    "87",
+    "90",
+    "98"
    ]
   },
   {
@@ -2062,6 +2157,7 @@
    "chapters": [
     "153",
     "183",
+    "30",
     "319",
     "802",
     "803",
@@ -2127,7 +2223,7 @@
   {
    "slug": "department-of-veterans-affairs",
    "name": "Department of Veterans' Affairs",
-   "rules": 171,
+   "rules": 173,
    "parent": null,
    "group": "department-of-veterans-affairs",
    "group_name": "Department of Veterans' Affairs",
@@ -2135,9 +2231,11 @@
    "chapters": [
     "183",
     "273",
+    "36",
     "406",
     "407",
-    "408"
+    "408",
+    "88"
    ]
   },
   {
@@ -2167,7 +2265,7 @@
   {
    "slug": "employment-department",
    "name": "Employment Department",
-   "rules": 161,
+   "rules": 164,
    "parent": null,
    "group": "employment-department",
    "group_name": "Employment Department",
@@ -2175,7 +2273,9 @@
    "chapters": [
     "181a",
     "183",
+    "36",
     "410",
+    "45",
     "657",
     "670",
     "671",
@@ -2207,6 +2307,7 @@
    "governance": "executive_branch",
    "chapters": [
     "183",
+    "21",
     "284",
     "340",
     "341",
@@ -2214,6 +2315,7 @@
     "348",
     "350",
     "352",
+    "36",
     "659"
    ]
   },
@@ -2228,6 +2330,7 @@
    "chapters": [
     "183",
     "291",
+    "30",
     "339",
     "341",
     "342",
@@ -2255,7 +2358,7 @@
   {
    "slug": "higher-education-coordinating-commission-office-of-student-access-and-completion",
    "name": "Higher Education Coordinating Commission, Office of Student Access and Completion",
-   "rules": 87,
+   "rules": 96,
    "parent": "higher-education-coordinating-commission",
    "group": "higher-education-coordinating-commission",
    "group_name": "Higher Education Coordinating Commission",
@@ -2263,7 +2366,8 @@
    "chapters": [
     "183",
     "341",
-    "348"
+    "348",
+    "442"
    ]
   },
   {
@@ -2282,7 +2386,7 @@
   {
    "slug": "land-conservation-and-development-department",
    "name": "Land Conservation and Development Department",
-   "rules": 364,
+   "rules": 366,
    "parent": null,
    "group": "land-conservation-and-development-department",
    "group_name": "Land Conservation and Development Department",
@@ -2297,6 +2401,7 @@
     "197a",
     "215",
     "284",
+    "36",
     "390",
     "836"
    ]
@@ -2325,6 +2430,7 @@
     "182",
     "183",
     "192",
+    "25",
     "305",
     "670",
     "671"
@@ -2333,7 +2439,7 @@
   {
    "slug": "landscape-contractors-board",
    "name": "Landscape Contractors Board",
-   "rules": 212,
+   "rules": 214,
    "parent": null,
    "group": "landscape-contractors-board",
    "group_name": "Landscape Contractors Board",
@@ -2342,10 +2448,12 @@
     "182",
     "183",
     "293",
+    "36",
     "447",
     "670",
     "671",
-    "701"
+    "701",
+    "92"
    ]
   },
   {
@@ -2396,7 +2504,7 @@
   {
    "slug": "mortuary-and-cemetery-board",
    "name": "Mortuary and Cemetery Board",
-   "rules": 40,
+   "rules": 43,
    "parent": null,
    "group": "mortuary-and-cemetery-board",
    "group_name": "Mortuary and Cemetery Board",
@@ -2404,19 +2512,21 @@
    "chapters": [
     "183",
     "676",
-    "692"
+    "692",
+    "97"
    ]
   },
   {
    "slug": "occupational-therapy-licensing-board",
    "name": "Occupational Therapy Licensing Board",
-   "rules": 23,
+   "rules": 24,
    "parent": null,
    "group": "occupational-therapy-licensing-board",
    "group_name": "Occupational Therapy Licensing Board",
    "governance": "executive_branch",
    "chapters": [
     "183",
+    "36",
     "657",
     "675",
     "676"
@@ -2449,13 +2559,14 @@
   {
    "slug": "oregon-529-savings-board",
    "name": "Oregon 529 Savings Board",
-   "rules": 3,
+   "rules": 5,
    "parent": null,
    "group": "oregon-529-savings-board",
    "group_name": "Oregon 529 Savings Board",
    "governance": "executive_branch",
    "chapters": [
-    "183"
+    "183",
+    "36"
    ]
   },
   {
@@ -2469,13 +2580,14 @@
    "chapters": [
     "183",
     "297",
+    "36",
     "673"
    ]
   },
   {
    "slug": "oregon-board-of-dentistry",
    "name": "Oregon Board of Dentistry",
-   "rules": 95,
+   "rules": 96,
    "parent": null,
    "group": "oregon-board-of-dentistry",
    "group_name": "Oregon Board of Dentistry",
@@ -2484,6 +2596,7 @@
     "181a",
     "183",
     "293",
+    "36",
     "670",
     "676",
     "679",
@@ -2568,6 +2681,7 @@
     "169",
     "183",
     "419c",
+    "421",
     "475",
     "811",
     "813"
@@ -2596,7 +2710,7 @@
   {
    "slug": "oregon-department-of-education",
    "name": "Oregon Department of Education",
-   "rules": 615,
+   "rules": 617,
    "parent": null,
    "group": "oregon-department-of-education",
    "group_name": "Oregon Department of Education",
@@ -2623,6 +2737,7 @@
     "343",
     "344",
     "346",
+    "36",
     "417",
     "419b",
     "659",
@@ -2633,13 +2748,14 @@
   {
    "slug": "oregon-department-of-education-early-learning-division",
    "name": "Oregon Department of Education, Early Learning Division",
-   "rules": 111,
+   "rules": 112,
    "parent": "oregon-department-of-education",
    "group": "oregon-department-of-education",
    "group_name": "Oregon Department of Education",
    "governance": "executive_branch",
    "chapters": [
     "183",
+    "25",
     "326",
     "329",
     "329a",
@@ -2663,7 +2779,7 @@
   {
    "slug": "oregon-department-of-education-youth-development-division",
    "name": "Oregon Department of Education, Youth Development Division",
-   "rules": 36,
+   "rules": 37,
    "parent": "oregon-department-of-education",
    "group": "oregon-department-of-education",
    "group_name": "Oregon Department of Education",
@@ -2671,6 +2787,7 @@
    "chapters": [
     "169",
     "183",
+    "36",
     "417",
     "419c"
    ]
@@ -2733,7 +2850,7 @@
   {
    "slug": "oregon-health-authority",
    "name": "Oregon Health Authority",
-   "rules": 80,
+   "rules": 82,
    "parent": null,
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
@@ -2744,6 +2861,7 @@
     "192",
     "279a",
     "279b",
+    "36",
     "411",
     "413",
     "414",
@@ -2771,7 +2889,7 @@
   {
    "slug": "oregon-health-authority-health-licensing-office",
    "name": "Oregon Health Authority, Health Licensing Office",
-   "rules": 273,
+   "rules": 276,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
@@ -2780,7 +2898,9 @@
     "181a",
     "183",
     "192",
+    "25",
     "293",
+    "30",
     "305",
     "408",
     "670",
@@ -2885,7 +3005,7 @@
   {
    "slug": "oregon-health-authority-health-policy-and-analytics",
    "name": "Oregon Health Authority, Health Policy and Analytics",
-   "rules": 73,
+   "rules": 106,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
@@ -2895,6 +3015,7 @@
     "413",
     "414",
     "441",
+    "442",
     "443",
     "676"
    ]
@@ -2915,7 +3036,8 @@
     "461",
     "676",
     "743a",
-    "813"
+    "813",
+    "90"
    ]
   },
   {
@@ -3004,7 +3126,7 @@
   {
    "slug": "oregon-health-authority-public-health-division",
    "name": "Oregon Health Authority, Public Health Division",
-   "rules": 2024,
+   "rules": 2032,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
@@ -3029,6 +3151,7 @@
     "435",
     "438",
     "441",
+    "442",
     "443",
     "444",
     "446",
@@ -3049,13 +3172,14 @@
     "701",
     "743a",
     "813",
-    "820"
+    "820",
+    "97"
    ]
   },
   {
    "slug": "oregon-housing-and-community-services-department",
    "name": "Oregon Housing and Community Services Department",
-   "rules": 502,
+   "rules": 513,
    "parent": null,
    "group": "oregon-housing-and-community-services-department",
    "group_name": "Oregon Housing and Community Services Department",
@@ -3071,6 +3195,7 @@
     "315",
     "317",
     "319",
+    "36",
     "401",
     "408",
     "446",
@@ -3080,13 +3205,15 @@
     "468a",
     "469",
     "566",
-    "757"
+    "757",
+    "86",
+    "90"
    ]
   },
   {
    "slug": "oregon-liquor-control-commission",
    "name": "Oregon Liquor Control Commission",
-   "rules": 384,
+   "rules": 386,
    "parent": null,
    "group": "oregon-liquor-control-commission",
    "group_name": "Oregon Liquor Control Commission",
@@ -3095,6 +3222,7 @@
     "165",
     "183",
     "293",
+    "36",
     "459a",
     "471",
     "473",
@@ -3106,7 +3234,7 @@
   {
    "slug": "oregon-medical-board",
    "name": "Oregon Medical Board",
-   "rules": 172,
+   "rules": 173,
    "parent": null,
    "group": "oregon-medical-board",
    "group_name": "Oregon Medical Board",
@@ -3117,8 +3245,10 @@
     "181a",
     "183",
     "192",
+    "25",
     "292",
     "305",
+    "36",
     "401",
     "413",
     "431a",
@@ -3161,7 +3291,7 @@
   {
    "slug": "oregon-public-employees-retirement-system",
    "name": "Oregon Public Employees Retirement System",
-   "rules": 228,
+   "rules": 230,
    "parent": null,
    "group": "oregon-public-employees-retirement-system",
    "group_name": "Oregon Public Employees Retirement System",
@@ -3176,6 +3306,7 @@
     "293",
     "341",
     "353",
+    "36",
     "399",
     "526"
    ]
@@ -3196,7 +3327,7 @@
   {
    "slug": "oregon-state-library",
    "name": "Oregon State Library",
-   "rules": 32,
+   "rules": 33,
    "parent": null,
    "group": "oregon-state-library",
    "group_name": "Oregon State Library",
@@ -3204,7 +3335,8 @@
    "chapters": [
     "183",
     "192",
-    "357"
+    "357",
+    "36"
    ]
   },
   {
@@ -3219,6 +3351,7 @@
     "167",
     "183",
     "316",
+    "36",
     "461"
    ]
   },
@@ -3240,7 +3373,7 @@
   {
    "slug": "oregon-state-treasury",
    "name": "Oregon State Treasury",
-   "rules": 56,
+   "rules": 59,
    "parent": null,
    "group": "oregon-state-treasury",
    "group_name": "Oregon State Treasury",
@@ -3256,7 +3389,9 @@
     "287a",
     "293",
     "295",
-    "328"
+    "328",
+    "36",
+    "97"
    ]
   },
   {
@@ -3313,7 +3448,7 @@
   {
    "slug": "oregon-youth-authority",
    "name": "Oregon Youth Authority",
-   "rules": 230,
+   "rules": 231,
    "parent": null,
    "group": "oregon-youth-authority",
    "group_name": "Oregon Youth Authority",
@@ -3323,6 +3458,7 @@
     "162",
     "179",
     "183",
+    "36",
     "417",
     "418",
     "419a",
@@ -3334,7 +3470,7 @@
   {
    "slug": "parks-and-recreation-department",
    "name": "Parks and Recreation Department",
-   "rules": 433,
+   "rules": 440,
    "parent": null,
    "group": "parks-and-recreation-department",
    "group_name": "Parks and Recreation Department",
@@ -3363,7 +3499,8 @@
     "537",
     "814",
     "819",
-    "821"
+    "821",
+    "97"
    ]
   },
   {
@@ -3398,6 +3535,7 @@
     "183",
     "192",
     "279a",
+    "36",
     "469",
     "469a",
     "646",
@@ -3405,7 +3543,8 @@
     "756",
     "757",
     "758",
-    "759"
+    "759",
+    "98"
    ]
   },
   {
@@ -3425,7 +3564,7 @@
   {
    "slug": "real-estate-agency",
    "name": "Real Estate Agency",
-   "rules": 173,
+   "rules": 180,
    "parent": null,
    "group": "real-estate-agency",
    "group_name": "Real Estate Agency",
@@ -3435,7 +3574,8 @@
     "181a",
     "183",
     "293",
-    "696"
+    "696",
+    "94"
    ]
   },
   {
@@ -3483,7 +3623,7 @@
   {
    "slug": "secretary-of-state-corporation-division",
    "name": "Secretary of State, Corporation Division",
-   "rules": 70,
+   "rules": 89,
    "parent": "secretary-of-state",
    "group": "secretary-of-state",
    "group_name": "Secretary of State",
@@ -3496,8 +3636,15 @@
     "465",
     "466",
     "554",
+    "56",
+    "58",
+    "60",
+    "62",
+    "63",
     "647",
-    "648"
+    "648",
+    "65",
+    "87"
    ]
   },
   {
@@ -3557,7 +3704,7 @@
   {
    "slug": "travel-information-council",
    "name": "Travel Information Council",
-   "rules": 33,
+   "rules": 35,
    "parent": null,
    "group": "travel-information-council",
    "group_name": "Travel Information Council",
@@ -3565,6 +3712,7 @@
    "chapters": [
     "183",
     "279a",
+    "36",
     "377",
     "648"
    ]
@@ -3587,7 +3735,7 @@
   {
    "slug": "water-resources-department",
    "name": "Water Resources Department",
-   "rules": 600,
+   "rules": 602,
    "parent": null,
    "group": "water-resources-department",
    "group_name": "Water Resources Department",
@@ -3595,6 +3743,7 @@
    "chapters": [
     "106",
     "183",
+    "36",
     "390",
     "450",
     "468b",
