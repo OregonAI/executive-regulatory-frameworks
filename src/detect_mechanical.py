@@ -16,13 +16,22 @@ redefines a statutory term, where two agencies disagree.
 
 EVERYTHING HERE IS A CANDIDATE, NOT A FINDING, and one limit matters more than the rest.
 
-An unresolvable citation has at least three causes and this tool CANNOT tell them apart:
-the section was repealed or renumbered, the rule mistyped it, or the corpus simply lacks
-it. A first version tried to separate "genuinely dead" from "our gap" by asking whether
-the ORS catalog knew the section — that test is invalid: the catalog covers 432 chapters
-but omits some real ones entirely (ORS chapter 25, Support Enforcement, is absent), so
-"not in the catalog" would have accused agencies of 887 bad citations that are mostly
-just uncatalogued. They are reported as ONE bucket with the cause stated as unknown.
+An unresolvable citation has several causes, and separating them was impossible until
+recently. A first version asked whether the ORS catalog knew the section — invalid at the
+time, because the catalog omitted whole real chapters (ORS 25, Support Enforcement, was
+absent), so "not in the catalog" would have accused agencies of 887 bad citations that
+were merely uncatalogued. The cause was a missing zero-pad in the chapter URL: every
+chapter below 100 404'd and was never fetched. With that fixed and 538 chapters
+catalogued, the test is now sound, and classify_dead() splits three ways:
+
+  renumbered_or_repealed  chapter is current, but this section left its table of contents
+  not_ingested            OUR gap: catalogued, yet no document was produced
+  chapter_absent          no such chapter page exists on the site
+
+Only `not_ingested` is a defect in this corpus. The other two are findings ABOUT the
+rules — agencies citing statute numbers that no longer exist. A mistyped citation is
+still not separable from a genuinely dead one; both land in renumbered_or_repealed, so
+it remains a candidate, not a finding.
 
 Staleness is read from _meta/freshness.json rather than recomputed. ORS documents carry
 no effective_date at all — only source_version and status — so a from-scratch computation
@@ -68,18 +77,32 @@ def load_universe():
     paths = {n["id"]: n["path"] for n in g["nodes"]}
     # Sections the ORS catalog knows about, ingested or not. A citation absent from BOTH
     # the corpus and the catalog is the one that suggests a defect in the rule itself.
-    known = set()
+    known, chapters = set(), set()
     if ORS_CAT.is_file():
         cat = yaml.safe_load(ORS_CAT.read_text())
         for ch in cat.get("chapters", []):
+            chapters.add(str(ch.get("chapter", "")).lower())
             for s in ch.get("sections", []):
                 if s.get("number"):
                     known.add(f"ors-{str(s['number']).lower()}")
-    return ids, paths, known
+    return ids, paths, known, chapters
+
+
+def classify_dead(section_id, in_catalog, chapters):
+    """Why an ORS citation resolves to nothing. This split was impossible while the
+    catalog was missing whole real chapters (every chapter below 100 404'd on an unpadded
+    URL); with those catalogued it is now decidable, and the three causes want different
+    responses -- only the middle one is a defect in our corpus."""
+    ch = section_id[4:].split(".")[0]
+    if ch not in chapters:
+        return "chapter_absent"      # no such chapter page on the site (fully repealed)
+    if in_catalog:
+        return "not_ingested"        # OUR gap: catalogued, but no document was produced
+    return "renumbered_or_repealed"  # chapter is current; this section left its TOC
 
 
 def check_all(limit=None, today="2026-07-26"):
-    ids, paths, catalog = load_universe()
+    ids, paths, catalog, chapters = load_universe()
     rules = sorted(i for i in ids if i.startswith("oar-"))
     if limit:
         rules = rules[:limit]
@@ -110,10 +133,14 @@ def check_all(limit=None, today="2026-07-26"):
             if tid in ids:
                 continue
             out["dead_xref"].append({"rule": rid, "cites": f"ORS {num}",
-                                     "in_ors_catalog": tid in catalog})
+                                     "in_ors_catalog": tid in catalog,
+                                     "cause": classify_dead(tid, tid in catalog, chapters)})
         for num in set(OAR_CITE.findall(text)):
             if f"oar-{num}" not in ids:
-                out["dead_xref"].append({"rule": rid, "cites": f"OAR {num}"})
+                out["dead_xref"].append({"rule": rid, "cites": f"OAR {num}",
+                                     # the ORS catalog says nothing about OAR rules,
+                                     # so these are out of scope for classify_dead()
+                                     "cause": "oar_unclassified"})
 
         # 2. repealed / self-sunset but still current
         if fm.get("status") == "current":
@@ -155,9 +182,11 @@ def main():
         print()
 
     if args.check in ("all", "xref"):
+        causes = collections.Counter(r.get("cause", "unknown") for r in res["dead_xref"])
         section("dead_xref", "CITATIONS THAT RESOLVE TO NOTHING",
-                "cause UNKNOWN: repealed, renumbered, mistyped, or simply not ingested "
-                "here. The ORS catalog cannot settle it — it omits whole real chapters",
+                "by cause — " + ", ".join(f"{k} {v:,}" for k, v in causes.most_common())
+                + "\n   (only not_ingested is a gap in this corpus; the rest are findings "
+                  "about rules citing statute numbers that no longer exist)",
                 lambda r: r["cites"])
     if args.check in ("all", "zombie"):
         section("zombie", "LAPSED BUT STILL 'current'",
