@@ -1,0 +1,4102 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+ Chapter
+657B — Family and Medical Leave Insurance 
+
+   
+
+ ORS sections in this
+chapter were amended or repealed by the Legislative Assembly during its 2026
+regular session. See the table of ORS sections amended or repealed during the
+2026 regular session: 2026
+A&R Tables 
+
+   
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ FAMILY AND MEDICAL LEAVE INSURANCE 
+
+   
+
+ LABOR, EMPLOYMENT; UNLAWFUL
+DISCRIMINATION 
+
+   
+
+ GENERALLY 
+
+   
+
+ 657B.005  Legislative findings 
+
+   
+
+ 657B.010  Definitions 
+
+   
+
+ BENEFITS AND CLAIMS 
+
+   
+
+ (Generally) 
+
+   
+
+ 657B.015  Benefit eligibility 
+
+   
+
+ 657B.020  Qualifying purposes for
+benefits; duration of benefits 
+
+   
+
+ 657B.023  Determining family member
+by reason of affinity 
+
+   
+
+ 657B.025  Coordination of leave 
+
+   
+
+ 657B.030  Use of other paid leave
+benefits in addition to paid family and medical leave insurance benefits 
+
+   
+
+ 657B.040  Notice to employers prior
+to commencing leave; exceptions 
+
+   
+
+ 657B.050  Amount of benefits;
+limits on weekly benefit amount; extent to which benefits are payable;
+exemptions from garnishment 
+
+   
+
+ (Protections) 
+
+   
+
+ 657B.060  Job protection; benefits;
+discrimination prohibited 
+
+   
+
+ (Prohibited Conduct) 
+
+   
+
+ 657B.070  Denying leave;
+discrimination and retaliation prohibited; remedies for violation; exception;
+statute of limitations tolled during appeal 
+
+   
+
+ 657B.080  False statements or
+failure to report material fact by employer 
+
+   
+
+ (Claims Administration) 
+
+   
+
+ 657B.090  Claim for benefits; leave
+increment requirements; authorized agents; rules 
+
+   
+
+ 657B.100  Allowing or denying
+claim; notice of denial; decision final unless hearing requested 
+
+   
+
+ 657B.110  Continuous jurisdiction
+of director; reconsideration of previous decisions 
+
+   
+
+ ELECTIVE COVERAGE 
+
+   
+
+ 657B.130  Elective coverage for
+certain individuals; notice of election; termination of coverage; rules for
+collection of contributions and benefit overpayments 
+
+   
+
+ CONTRIBUTIONS 
+
+   
+
+ 657B.150  Contributions; director
+to set rates; reporting requirements for employers; rules for successor in
+interest 
+
+   
+
+ 657B.175  Effect of place of
+performance of service 
+
+   
+
+ 657B.180  Unlawful practices of
+employer 
+
+   
+
+ 657B.190  Employer’s security for
+payment of contributions 
+
+   
+
+ 657B.200  Employer assistance
+grants; eligibility; rules 
+
+   
+
+ EQUIVALENT PLANS 
+
+   
+
+ 657B.210  Equivalent plans,
+generally; rules; fee 
+
+   
+
+ 657B.220  Director review of
+benefits provided under equivalent plan; termination of noncompliant plan 
+
+   
+
+ 657B.230  Application for
+reapproval of plan 
+
+   
+
+ 657B.240  Withdrawal from plan;
+handling of employee deductions 
+
+   
+
+ 657B.250  Portability of benefits
+and retention of eligibility status between jobs 
+
+   
+
+ 657B.260  Successor in interest
+required to continue offering approved plan to eligible employees until
+withdrawal of plan; request for withdrawal 
+
+   
+
+ COLLECTIONS; RECOVERY AND RESOLUTION
+OF IMPROPER BENEFIT PAYMENTS 
+
+   
+
+ 657B.280  Delinquent contributions
+and improper benefit payments as liens on real or personal property;
+foreclosure 
+
+   
+
+ 657B.290  Filing of lien statement
+or warrant 
+
+   
+
+ 657B.300  Alternative remedies for
+collection of amounts liable to be repaid; warrants; execution by sheriff 
+
+   
+
+ 657B.310  Release, compromise or
+satisfaction of lien 
+
+   
+
+ 657B.320  Delinquent contributions
+or grant repayments; interest; civil penalties; collection by civil action;
+settlement 
+
+   
+
+ 657B.330  Liability of certain
+officers, members, partners or employees for amounts in default 
+
+   
+
+ 657B.332  False statements or
+failure to report material fact; recovery of erroneous benefit payments due to
+misrepresentation or nondisclosure; notice requirements; penalties; rules 
+
+   
+
+ 657B.334  Ineligibility for
+benefits upon conviction of fraud in obtaining benefits 
+
+   
+
+ 657B.335  Deduction of benefits
+paid in error not due to recipient fault; director discretion; civil action by
+director to recover benefits paid in error 
+
+   
+
+ 657B.336  Waiver of recovery of
+overpaid benefits 
+
+   
+
+ 657B.337  Cancellation of
+unrecoverable benefit payments and amounts of interest or penalties due and
+unpaid 
+
+   
+
+ 657B.338  Request for offset of
+moneys owed to debtor by Department of Revenue against certain amounts
+owed by debtor; fees 
+
+   
+
+ 657B.339  Authority of director to
+compromise de minimis program debts and interest and penalties, retain de
+minimis overpayments; uncollectible accounts; recordkeeping 
+
+   
+
+ EMPLOYMENT DEPARTMENT;
+ADMINISTRATION 
+
+   
+
+ (Generally) 
+
+   
+
+ 657B.340  Family and medical leave
+insurance program; administration of program; rules; state agency assistance 
+
+   
+
+ 657B.350  Third party
+administrator; agreements; oversight by director 
+
+   
+
+ 657B.355  Bureau of Labor and
+Industries to have oversight for provisions relating to job retention,
+retaliation and discrimination; rules 
+
+   
+
+ 657B.360  Determining
+number of employees employed by employer; replacement workers; rules 
+
+   
+
+ 657B.370  Computation and
+assessment of employer contributions and interest; jeopardy assessments;
+application for hearing 
+
+   
+
+ 657B.380  Advisory committee;
+membership; terms 
+
+   
+
+ 657B.390  Employment records; inspection 
+
+   
+
+ 657B.400  Confidentiality of
+information; disclosures of information by Employment Department; rules 
+
+   
+
+ (Hearings and Appeals) 
+
+   
+
+ 657B.410  Appeals process,
+generally; process subject to judicial review; representation in proceeding 
+
+   
+
+ 657B.420  Appeals of decisions
+under equivalent employer plan; rules 
+
+   
+
+ 657B.425  Dismissal of request
+or application for hearing 
+
+   
+
+ (Reports and Reviews) 
+
+   
+
+ (Temporary provisions relating to
+reports and reviews by Director of Employment Department are compiled as notes
+following ORS 657B.425) 
+
+   
+
+ FUNDS 
+
+   
+
+ 657B.430  Paid Family and Medical
+Leave Insurance Fund 
+
+   
+
+ Note          Solvency of
+fund--2023 c.66 §§2,3 
+
+   
+
+ Note          Periodic assessments
+regarding solvency of fund; adjustments to benefits; public notice--2024 c.19 §2 
+
+   
+
+ MISCELLANEOUS PROVISIONS 
+
+   
+
+ 657B.440  Employer required to
+provide notice advising employees of rights and duties 
+
+   
+
+ 657B.460  Construction of chapter 
+
+   
+
+ Note          Reopening or
+renegotiation of collective bargaining agreement--2019 c.700 §49 
+
+   
+
+ 657B.470  Preemption of local laws
+relating to paid family and medical leave 
+
+   
+
+ 657B.480  State agency assistance;
+intergovernmental agreements 
+
+   
+
+ PENALTIES 
+
+   
+
+ 657B.900  Criminal penalties 
+
+   
+
+ 657B.910  Penalty when employer
+fails to file contribution reports or pay contributions when due; notice of
+failure; waiver 
+
+   
+
+ 657B.920  Penalty when employer
+fails to file reports; amount of penalty; request for deletion of penalty 
+
+   
+
+ 657B.925  Penalties for
+employer violation of requirements applicable to employer-offered
+benefit plans 
+
+   
+
+ GENERALLY 
+
+   
+
+       657B.005
+Legislative findings. 
+The Legislative Assembly finds that: 
+
+       (1) Employees
+experience a variety of caregiving obligations that interfere with work time. 
+
+       (2) It is in the
+public interest to create a family and medical leave insurance program to
+provide to employees and certain other individuals compensated time off from
+work to care for and bond with a child during the first year after the child’s birth
+or arrival through adoption or foster care, to provide care for a family member
+who has a serious health condition or to recover from an employee’s or an
+individual’s own serious health condition. [2019 c.700 §1] 
+
+   
+
+       657B.010
+Definitions. As
+used in this chapter: 
+
+       (1) “Alternate
+base year” means the last four completed calendar quarters preceding the
+benefit year. 
+
+       (2) “Average
+weekly wage” means the amount calculated by the Employment Department as the
+state average weekly covered wage under ORS 657.150 (4)(e) as determined not
+more than once per year. 
+
+       (3) “Base year”
+means the first four of the last five completed calendar quarters preceding the
+benefit year. 
+
+       (4) “Benefits”
+means family and medical leave insurance benefits. 
+
+       (5)(a) “Benefit
+year” means, except as provided in paragraph (b) of this subsection, a period
+of 52 consecutive weeks beginning on the Sunday immediately preceding the date
+on which family leave, medical leave or safe leave commences. 
+
+       (b) “Benefit year”
+means, in the event that the 52-week period described in paragraph (a) of this
+subsection would result in an overlap of any quarter of the base year of a
+previously filed valid claim, a period of 53 consecutive weeks beginning on the
+Sunday immediately preceding the date on which family leave, medical leave or
+safe leave commences. 
+
+       (6) “Child”
+means: 
+
+       (a) A biological
+child, adopted child, stepchild or foster child of a covered individual or of
+the covered individual’s spouse or domestic partner; 
+
+       (b) A person who
+is or was a legal ward of a covered individual or of the covered individual’s
+spouse or domestic partner; or 
+
+       (c) A person who
+is or was in a relationship of in loco parentis with a covered individual or
+with the covered individual’s spouse or domestic partner. 
+
+       (7) “Claimant”
+means an individual who has submitted an application or established a claim for
+benefits. 
+
+       (8) “Contribution”
+or “contributions” means the money payments made by any of the following under
+ORS 657B.150: 
+
+       (a) An employer; 
+
+       (b) An employee; 
+
+       (c) A
+self-employed individual; 
+
+       (d) A tribal
+government; or 
+
+       (e) An employee
+of a tribal government. 
+
+       (9) “Covered
+individual” means any one of the following who qualifies under ORS 657B.015 to
+receive family and medical leave insurance benefits: 
+
+       (a) An eligible
+employee; 
+
+       (b) A
+self-employed individual; or 
+
+       (c) An employee
+of a tribal government. 
+
+       (10) “Domestic
+partner” means an individual joined in a domestic partnership. 
+
+       (11) “Domestic
+partnership” has the meaning given that term in ORS 106.310. 
+
+       (12) “Eligible
+employee” means: 
+
+       (a)(A) An
+employee who has earned at least $1,000 in wages during the base year; or 
+
+       (B) If an
+employee has not earned at least $1,000 in wages during the base year, an
+employee who has earned at least $1,000 in wages during the alternate base
+year; and 
+
+       (b) An employee
+to whom paid family and medical leave insurance benefits may be available under
+ORS 657B.015. 
+
+       (13) “Eligible
+employee’s average weekly wage” means an amount calculated by the Director of
+the Employment Department by dividing the total wages earned by an eligible
+employee during the base year by the number of weeks in the base year. 
+
+       (14)(a) “Employee”
+means: 
+
+       (A) An individual
+performing services for an employer for remuneration or under any contract of hire,
+written or oral, express or implied. 
+
+       (B) A home care
+worker as defined in ORS 410.600. 
+
+       (b) “Employee”
+does not include: 
+
+       (A) An
+independent contractor as defined in ORS 670.600. 
+
+       (B) A participant
+in a work training program administered under a state or federal assistance
+program. 
+
+       (C) A participant
+in a work-study program that provides students in secondary or postsecondary
+educational institutions with employment opportunities for financial assistance
+or vocational training. 
+
+       (D) A railroad
+worker exempted under the federal Railroad Unemployment Insurance Act. 
+
+       (E) A volunteer. 
+
+       (F) A judge as
+defined in ORS 260.005. 
+
+       (G) A member of
+the Legislative Assembly. 
+
+       (H) A holder of
+public office as defined in ORS 260.005. 
+
+       (15)(a) “Employer”
+means any person that employs one or more employees working anywhere in this
+state or any agent or employee of such person to whom the duties of the person
+under this chapter have been delegated. 
+
+       (b) “Employer”
+includes: 
+
+       (A) A political
+subdivision of this state or any county, city, district, authority or public
+corporation, or any instrumentality of a county, city, district, authority or
+public corporation, organized and existing under law or charter; 
+
+       (B) An
+individual; 
+
+       (C) Any type of
+organization, corporation, partnership, limited liability company, association,
+trust, estate, joint stock company or insurance company; 
+
+       (D) Any successor
+in interest to an entity described in subparagraph (C) of this paragraph; 
+
+       (E) A trustee,
+trustee in bankruptcy or receiver; or 
+
+       (F) A trustee or
+legal representative of a deceased person. 
+
+       (c) “Employer”
+does not include the federal government or a tribal government. 
+
+       (16) “Employment
+agency” has the meaning given that term in ORS 658.005. 
+
+       (17) “Family and
+medical leave insurance benefits” means the wage replacement benefits that are
+available to a covered individual under ORS 657B.050 or under the terms of an
+employer plan approved under ORS 657B.210, for family leave, medical leave or
+safe leave. 
+
+       (18)(a) “Family
+leave” means leave from work taken by a covered individual: 
+
+       (A) To care for
+and bond with a child during the first year after the child’s birth or during
+the first year after the placement of the child through foster care or
+adoption; 
+
+       (B) To effectuate
+the legal process required for placement of a foster child or the adoption of a
+child; or 
+
+       (C) To care for a
+family member with a serious health condition. 
+
+       (b) “Family leave”
+does not mean: 
+
+       (A) Leave
+described in ORS 659A.159 (1)(a) except for leave to care for a child who
+requires home care due to an illness, injury or condition that is a serious
+health condition; 
+
+       (B) Leave
+described in ORS 659A.159 (1)(b); or 
+
+       (C) Leave
+authorized under ORS 659A.093. 
+
+       (19) “Family
+member” means: 
+
+       (a) The spouse of
+a covered individual; 
+
+       (b) A child or
+the child’s spouse or domestic partner; 
+
+       (c) A parent or
+the parent’s spouse or domestic partner; 
+
+       (d) A sibling or
+stepsibling of a covered individual or the sibling’s or stepsibling’s spouse or
+domestic partner; 
+
+       (e) A grandparent
+of a covered individual or the grandparent’s spouse or domestic partner; 
+
+       (f) A grandchild
+of a covered individual or the grandchild’s spouse or domestic partner; 
+
+       (g) The domestic
+partner of a covered individual; or 
+
+       (h) Any
+individual related by blood or affinity whose close association with a covered
+individual is the equivalent of a family relationship. 
+
+       (20) “Medical
+leave” means leave from work taken by a covered individual that is made
+necessary by the individual’s own serious health condition. 
+
+       (21) “Parent”
+means: 
+
+       (a) A biological
+parent, adoptive parent, stepparent or foster parent of a covered individual; 
+
+       (b) A person who
+was a foster parent of a covered individual when the covered individual was a
+minor; 
+
+       (c) A person designated
+as the legal guardian of a covered individual at the time the covered
+individual was a minor or required a legal guardian; 
+
+       (d) A person with
+whom a covered individual was or is in a relationship of in loco parentis; or 
+
+       (e) A parent of a
+covered individual’s spouse or domestic partner who meets a description under
+paragraphs (a) to (d) of this subsection. 
+
+       (22) “Safe leave”
+means leave taken for any purpose described in ORS 659A.272. 
+
+       (23) “Self-employed
+individual” means: 
+
+       (a) An individual
+who has self-employment income as defined in section 1402(b) of the Internal
+Revenue Code as amended and in effect on December 31, 2023; or 
+
+       (b) An
+independent contractor as defined in ORS 670.600. 
+
+       (24) “Serious
+health condition” means: 
+
+       (a) An illness,
+injury, impairment or physical or mental condition that requires inpatient care
+in a hospital, hospice or residential medical care facility; 
+
+       (b) An illness,
+disease or condition that in the medical judgment of the treating health care
+provider poses an imminent danger of death, is terminal in prognosis with a
+reasonable possibility of death in the near future, or requires constant care; 
+
+       (c) Any period of
+disability due to pregnancy, or period of absence for prenatal care; or 
+
+       (d) Any period of
+absence for the donation of a body part, organ or tissue, including
+preoperative or diagnostic services, surgery, post-operative treatment and
+recovery. 
+
+       (25) “Third party
+administrator” means a third party that enters into an agreement with the
+Director of the Employment Department to implement and administer the paid
+family and medical leave program established under this chapter. 
+
+       (26) “Tribal
+government” means: 
+
+       (a) A tribal
+government as defined in ORS 181A.940; or 
+
+       (b) A federally
+recognized Indian tribe. 
+
+       (27)(a) “Wages”
+has the meaning given that term in ORS 657.105. 
+
+       (b) “Wages” does
+not mean contribution amounts paid to the Paid Family and Medical Leave
+Insurance Fund by an employer on behalf of an employee under ORS 657B.150 (5). [2019
+c.700 §2; 2021 c.388 §10; 2021 c.456 §29; 2022 c.24 §1; 2022 c.83 §29; 2023
+c.171 §29; 2023 c.292 §11; 2024 c.20 §§3,4; 2024 c.75 §29] 
+
+   
+
+       Note: Section 16 (8), chapter 292,
+Oregon Laws 2023, provides: 
+
+       Sec. 16. (8) The amendments to ORS 657B.010
+by section 11 of this 2023 Act apply to contributions paid and benefits made
+available on or after January 1, 2023. [2023 c.292 §16(8); 2023 c.292 §16a(8)] 
+
+   
+
+ BENEFITS AND CLAIMS 
+
+   
+
+ (Generally) 
+
+   
+
+       657B.015
+Benefit eligibility. 
+Family and medical leave insurance benefits are available to any of the
+following during a period of family leave, medical leave or safe leave: 
+
+       (1) An eligible
+employee who: 
+
+       (a) During the
+base year or alternate base year, as applicable, contributes to the Paid Family
+and Medical Leave Insurance Fund established under ORS 657B.430 in accordance
+with ORS 657B.150; and 
+
+       (b) Submits a claim
+for benefits in accordance with the requirements under ORS 657B.090; 
+
+       (2) A
+self-employed individual who: 
+
+       (a)(A) Has earned
+at least $1,000 in taxable income during the base year; or 
+
+       (B) Has not
+earned at least $1,000 in taxable income during the base year, but who has
+earned at least $1,000 in taxable income during the alternate base year; 
+
+       (b) Elects
+coverage under ORS 657B.130; 
+
+       (c) During the
+base year or alternate base year, as applicable, contributes to the Paid Family
+and Medical Leave Insurance Fund established under ORS 657B.430 an amount
+determined by the Director of the Employment Department under ORS 657B.150; and 
+
+       (d) Submits a
+claim for benefits in accordance with the requirements under ORS 657B.090; or 
+
+       (3) An employee
+of a tribal government, if: 
+
+       (a)(A) The
+employee has earned at least $1,000 in wages during the base year; or 
+
+       (B) The employee
+has not earned at least $1,000 in wages during the base year, but has earned at
+least $1,000 in wages during the alternate base year; 
+
+       (b) The tribal
+government elects coverage for its employees under ORS 657B.130; 
+
+       (c) During the
+base year or alternate base year, as applicable, the employee and tribal
+government contribute to the Paid Family and Medical Leave Insurance Fund
+established under ORS 657B.430 an amount determined by the director under ORS
+657B.150; and 
+
+       (d) Submits a
+claim for benefits in accordance with the requirements under ORS 657B.090. [2019
+c.700 §3; 2023 c.292 §4] 
+
+   
+
+       Note: Section 16 (2), chapter 292,
+Oregon Laws 2023, provides: 
+
+       Sec. 16. (2) The amendments to ORS
+657B.015, 657B.030, 657B.090 and 657B.210 by sections 3, 4, 7 and 14 of this
+2023 Act apply to benefits paid or made available on or after September 3,
+2023. [2023 c.292 §16(2); 2023 c.292 §16a(2)] 
+
+   
+
+       657B.020
+Qualifying purposes for benefits; duration of benefits. (1) A covered individual may
+qualify for up to 12 weeks of family and medical leave insurance benefits per
+benefit year for leave taken for any of the following purposes, in any
+combination: 
+
+       (a) Family leave; 
+
+       (b) Medical
+leave; or 
+
+       (c) Safe leave. 
+
+       (2) In addition
+to the leave available under subsection (1) of this section, a covered
+individual may qualify for up to two additional weeks of benefits for
+limitations related to pregnancy, childbirth or a related medical condition,
+including but not limited to lactation, for a total amount of leave under this
+subsection and subsection (1) of this section, not to exceed 14 weeks per
+benefit year. [2019 c.700 §4; 2024 c.20 §7] 
+
+   
+
+       657B.023
+Determining family member by reason of affinity. In order to determine whether an
+individual qualifies as a family member by reason of affinity, as that term is
+used in ORS 657B.010, consideration shall be given to whether there exists a
+significant personal bond attributed to factors, established by the Director of
+the Employment Department by rule, that, when examined in total, resemble a
+family relationship. [2023 c.203 §10] 
+
+   
+
+       657B.025
+Coordination of leave. 
+Any family leave or medical leave taken under this chapter must be taken
+concurrently with any leave taken by an eligible employee under the federal
+Family and Medical Leave Act of 1993 (P.L. 103-3) for the same purposes. [2019
+c.700 §5; 2024 c.20 §14] 
+
+   
+
+       657B.030 Use
+of other paid leave benefits in addition to paid family and medical leave
+insurance benefits. 
+(1) Family and medical leave insurance benefits are in addition to any paid
+sick time under ORS 653.606, vacation leave or other paid leave earned by an
+employee. 
+
+       (2)(a) Except as
+otherwise provided in paragraph (b) of this subsection, an employee is entitled
+to use any accrued paid sick leave, accrued paid vacation leave or any other
+paid leave that is offered by the employer in addition to receiving paid family
+and medical leave insurance benefits during a period of leave taken for family
+leave, medical leave or safe leave to the extent that the total combined amount
+of accrued paid leave and benefits received by the employee does not exceed an
+amount equal to the employee’s full wage replacement during the period of
+family leave, medical leave or safe leave. 
+
+       (b) An employer
+may permit an employee to use accrued paid leave in addition to receiving paid
+family and medical leave insurance benefits such that the total combined
+amounts received by the employee may exceed the employee’s full wage
+replacement amount as described in paragraph (a) of this subsection. 
+
+       (3) Subject to
+the terms of any agreement between the employee and the employer or the terms
+of a collective bargaining agreement, the employer may determine the particular
+order in which accrued leave is to be used when more than one type of accrued
+leave is available to the covered individual. 
+
+       (4) In any week
+in which an employee is eligible to receive workers’ compensation time loss
+benefits under ORS chapter 656 or wage replacement benefits under a state or
+federal unemployment benefits program, the employee is disqualified from
+receiving family and medical leave insurance benefits. [2019 c.700 §6; 2023
+c.292 §14; 2024 c.20 §5; 2025 c.93 §1] 
+
+   
+
+       Note: See note under 657B.015. 
+
+   
+
+       657B.040
+Notice to employers prior to commencing leave; exceptions. (1) Except as provided in
+subsection (2) of this section, an employer may require an eligible employee to
+give the employer written notice at least 30 days before commencing a period of
+family leave, medical leave or safe leave. The employer may require the
+employee to include in the notice an explanation of the need for the leave. 
+
+       (2) An eligible
+employee may commence leave without 30 days’ advance notice if the leave is not
+foreseeable, as in circumstances including but not limited to: 
+
+       (a) An unexpected
+serious health condition of the employee or a family member of the employee; 
+
+       (b) A premature
+birth, unexpected adoption or unexpected foster placement by or with the
+employee; or 
+
+       (c) Safe leave. 
+
+       (3)(a) Except as
+provided in subsection (5) of this section, if an eligible employee commences
+leave without prior notice under subsection (2) of this section, the employee
+must give oral notice to the employer within 24 hours of the commencement of
+the leave and must provide the written notice required under subsection (1) of
+this section within three days after the commencement of leave. 
+
+       (b) The oral
+notice required by this subsection may be given by any other person on behalf
+of the eligible employee taking leave. 
+
+       (c) The person
+named as the eligible employee’s emergency contact person, or any other person
+otherwise designated by the eligible employee, as reflected in the employer’s
+records, may provide the written notice required under subsection (1) of this
+section. 
+
+       (4)(a) If an
+eligible employee fails to give notice as required under subsections (2) and
+(3) of this section, the Director of the Employment Department may reduce the
+first weekly benefit amount payable to the employee under ORS 657B.090 by up to
+25 percent. 
+
+       (b) An employer
+shall notify the director of the employee’s failure to provide the required
+notice, in the manner prescribed by the director by rule. 
+
+       (5) An eligible
+employee who takes safe leave shall give the employer reasonable advance notice
+of the individual’s intention to take safe leave, unless giving the advance
+notice is not feasible. [2019 c.700 §9] 
+
+   
+
+       657B.050
+Amount of benefits; limits on weekly benefit amount; extent to which benefits
+are payable; exemptions from garnishment. (1) The Director of the Employment Department shall
+set the weekly benefit amount of family and medical leave insurance benefits
+that a covered individual qualifies for as follows: 
+
+       (a) If the
+eligible employee’s average weekly wage is equal to or less than 65 percent of
+the average weekly wage, the employee’s weekly benefit amount shall be 100
+percent of the employee’s average weekly wage. 
+
+       (b) If the
+eligible employee’s average weekly wage is greater than 65 percent of the
+average weekly wage, the employee’s weekly benefit amount is the sum of: 
+
+       (A) 65 percent of
+the average weekly wage; and 
+
+       (B) 50 percent of
+the employee’s average weekly wage that is greater than 65 percent of the
+average weekly wage. 
+
+       (2)
+Notwithstanding subsection (1) of this section, the director shall establish: 
+
+       (a) A maximum
+weekly benefit amount of 120 percent of the average weekly wage. 
+
+       (b) A minimum
+weekly benefit amount of five percent of the average weekly wage. 
+
+       (3) The director
+shall determine, based on the contribution amounts made by a self-employed
+individual, a tribal government or the employees of a tribal government under
+ORS 657B.150, the amount of benefits payable to a self-employed individual or
+to an employee of a tribal government. 
+
+       (4) Benefits are
+payable only to the extent that moneys are available in the Paid Family and
+Medical Leave Insurance Fund for that purpose. The state, any political
+subdivision of the state and any state agency are not liable for any amount in
+excess of this limit. 
+
+       (5) Benefits
+payable under this section are exempt from garnishment except for: 
+
+       (a) Child or
+spousal support garnishments; and 
+
+       (b) Restitution
+for crime victims. [2019 c.700 §7; 2024 c.20 §6] 
+
+   
+
+ (Protections) 
+
+   
+
+       657B.060 Job
+protection; benefits; discrimination prohibited. (1)(a) Except as provided in
+paragraph (b) of this subsection, after returning to work after a period of
+family leave, medical leave or safe leave, an eligible employee is entitled to
+be restored to the position of employment held by the employee when the leave
+commenced, if that position still exists, without regard to whether the
+employer filled the position with a replacement worker during the period of
+leave. If the position held by the employee at the time leave commenced no
+longer exists, the employee is entitled to be restored to any available
+equivalent position with equivalent employment benefits, pay and other terms
+and conditions of employment. If an equivalent position is not available at the
+job site of the employee’s former position, the employer shall offer the
+employee an equivalent position at a job site located within 50 miles of the
+job site of the employee’s former position, if such a position is available. If
+equivalent positions are available at multiple job sites, the employer shall first
+offer the employee the position at the job site that is nearest to the job site
+of the employee’s former position. 
+
+       (b) For employers
+that employ fewer than 25 employees, if the position held by an eligible
+employee when the employee’s leave commenced no longer exists, an employer may,
+at the employer’s discretion based on business necessity, restore the eligible
+employee to a different position with similar job duties and with the same
+employment benefits and pay. 
+
+       (2)(a) During a
+period in which an eligible employee takes leave described under subsection (1)
+of this section, the employer shall maintain any health care benefits the
+employee had prior to taking such leave for the duration of the leave, as if
+the employee had continued in employment continuously during the period of
+leave. The employee must continue to make any regular contributions to the cost
+of the health insurance premiums. 
+
+       (b)
+Notwithstanding ORS 652.610 (3) and except as provided in paragraph (a) of this
+subsection, if the employer is required or elects to pay any part of the costs
+of providing disability, life or other insurance coverage for an eligible
+employee during the period of family leave that should have been paid by the
+employee, the employer may deduct from the employee’s pay such amounts upon the
+employee’s return to work until the amount the employer advanced toward the
+payments is paid. In no event may the total amount deducted for insurance under
+the provisions of this subsection exceed 10 percent of the employee’s gross pay
+each period. 
+
+       (3) An eligible
+employee who has taken leave described under subsection (1) of this section
+does not lose any employment benefits, including seniority or pension rights,
+accrued before the date on which the leave commenced. 
+
+       (4)(a) Before
+restoring an employee to a position under subsection (1) of this section after
+a period of medical leave, an employer may require that the employee receive
+certification from the employee’s health care provider that the employee is
+able to resume work. Certification under this subsection may only be required
+pursuant to a uniformly applied practice or policy of the employer. 
+
+       (b) This
+subsection does not affect the ability of an employer to require an employee
+during a period of medical leave to report periodically to the employer on the
+employee’s status and on the employee’s intention to return to work. 
+
+       (5) It is an
+unlawful employment practice to discriminate against an eligible employee who
+has invoked any provision of this chapter. 
+
+       (6) Nothing in
+this section entitles an eligible employee to accrue employment benefits during
+a period of leave or to a right, benefit or position of employment other than a
+right, benefit or position to which the employee would have been entitled had the
+employee not taken leave. 
+
+       (7)(a) Nothing in
+this section requires an employer to retain a temporary worker who was hired to
+replace an eligible employee taking family leave, medical leave or safe leave
+after the eligible employee has returned to work. 
+
+       (b) A civil
+action may not be brought against an employer for taking any of the following
+actions necessary to restore an eligible employee to the position of employment
+held by the employee as required under subsection (1) of this section: 
+
+       (A) Terminating
+the employment of a worker who was hired solely to temporarily replace an
+eligible employee during a period of leave; or 
+
+       (B) Removing an
+employee from a position to which the employee was transferred to temporarily
+replace an eligible employee while the eligible employee was on leave, and
+returning the employee to the position originally held by the employee prior to
+the transfer at the salary or rate of pay and benefits associated with the
+position. 
+
+       (c) An employer
+shall, either at the time of hire or before reassignment, inform a temporary
+worker or an employee who is reassigned to a position to temporarily replace an
+eligible employee during a period of leave of the information provided under
+this subsection. 
+
+       (8) The
+protections provided under this section apply only to an eligible employee who
+was employed by the employer for at least 90 days before taking leave described
+under subsection (1) of this section. [2019 c.700 §10; 2023 c.203 §12; 2025
+c.85 §7] 
+
+   
+
+ (Prohibited Conduct) 
+
+   
+
+       657B.070
+Denying leave; discrimination and retaliation prohibited; remedies for
+violation; exception; statute of limitations tolled during appeal. (1) It is an unlawful employment
+practice for an employer to: 
+
+       (a) Violate ORS
+657B.060. 
+
+       (b) Deny leave or
+interfere with any other right to which an eligible employee is entitled under
+this chapter. 
+
+       (c) Retaliate or
+in any way discriminate against an employee with respect to hire or tenure or
+any other term or condition of employment because the employee has inquired
+about the rights or responsibilities under this chapter. 
+
+       (2)(a) An
+employee who alleges a violation of this section may bring a civil action under
+ORS 659A.885 or may file a complaint with the Commissioner of the Bureau of
+Labor and Industries in the manner provided by ORS 659A.820. 
+
+       (b) This
+subsection does not apply if the process described in ORS 657B.410, or the
+method established under ORS 657B.420, provides a remedy for the alleged
+violation. 
+
+       (3)
+Notwithstanding the applicable statute of limitations for complaints filed
+under ORS 659A.820 or actions brought under ORS 659A.885 alleging a violation
+of ORS 657B.060 or this section, if a claimant filed an appeal under ORS
+657B.410 or 657B.420, the appeal tolls the statute of limitations for the
+period of time during which the appeal is pending. [2019 c.700 §11; 2023 c.203 §13;
+2025 c.85 §3] 
+
+   
+
+       657B.080 False
+statements or failure to report material fact by employer. It is unlawful for an employer to
+willfully make or cause to be made false statements or to willfully fail to
+report a material fact regarding the claim of an employee of the employer or
+regarding an employee’s eligibility for benefits under this chapter. [2019
+c.700 §29] 
+
+   
+
+ (Claims Administration) 
+
+   
+
+       657B.090 Claim
+for benefits; leave increment requirements; authorized agents; rules. (1) Except as otherwise provided
+under this section, family and medical leave insurance benefits are not payable
+to a covered individual unless: 
+
+       (a) The
+individual submits a claim to the Director of the Employment Department in the
+manner determined by the director by rule; and 
+
+       (b) The director
+has made a decision to allow or deny the claim under ORS 657B.100. 
+
+       (2) If the
+director has made a decision to allow the claim, the director shall make a
+reasonable effort to issue the first payment of benefits to a covered
+individual within two weeks after receiving the claim. 
+
+       (3)(a) Benefits
+may be claimed for leave that is taken by a covered individual in increments
+that are equivalent to one work day or one work week as those terms are defined
+by the director by rule. 
+
+       (b) If a covered
+individual takes leave in increments that are equivalent to one work day,
+benefits may be claimed for leave that occurs in nonconsecutive periods of
+leave. 
+
+       (4) Benefit
+amounts, as determined under ORS 657B.050: 
+
+       (a) Must be
+prorated to increments that are equivalent to one work day; and 
+
+       (b) Must be paid
+in increments that are equivalent to one work week. 
+
+       (5)(a) If a
+covered individual dies or becomes incapacitated before submitting a claim to
+the director for payment of family and medical leave insurance benefits or
+before the director has made a final decision regarding the approval or denial
+of a pending or existing claim previously submitted to the director, an
+authorized agent may engage in any of the following activities on behalf of the
+deceased or incapacitated covered individual: 
+
+       (A) Submit a
+claim for benefits to the director for a qualifying purpose under ORS 657B.020
+and in the manner prescribed by the director by rule. 
+
+       (B) Receive
+information about benefits due or paid by the director to the covered
+individual. 
+
+       (C) Receive
+information concerning decisions regarding existing or pending claims
+previously submitted to the director. 
+
+       (D) Request a
+hearing to obtain review of a final decision of the director regarding any of
+the matters provided in ORS 657B.410 (1)(b). 
+
+       (E) Submit any
+additional information the director deems necessary to complete a claim for
+benefits. 
+
+       (b) Actions taken
+on behalf of a deceased or incapacitated covered individual by an authorized
+agent under this subsection are binding on the covered individual. 
+
+       (c) The payment
+of benefits by the director to an incapacitated covered individual under this
+section, or to the estate of a deceased individual in accordance with ORS
+293.490, releases the director from any future liability with respect to such
+benefits. 
+
+       (6) The director
+shall adopt rules to implement the provisions of this section. At a minimum,
+the rules must: 
+
+       (a) Provide the
+requirements for the designation or authorization of an authorized agent. 
+
+       (b) Establish
+when an authorized agent’s authority to act on behalf of a deceased or
+incapacitated covered individual expires. 
+
+       (7) As used in
+this section: 
+
+       (a) “Authorized
+agent” means an individual who: 
+
+       (A) Has been
+specifically designated by a covered individual in the manner prescribed by the
+director by rule to act on behalf of the covered individual; or 
+
+       (B) Is authorized
+under rules adopted by the director to act on behalf of a covered individual. 
+
+       (b) “Incapacitated”
+has the meaning given that term under ORS 125.005. [2019 c.700 §12; 2023 c.292 §3;
+2025 c.93 §2] 
+
+   
+
+       Note: See note under 657B.015. 
+
+   
+
+       657B.100
+Allowing or denying claim; notice of denial; decision final unless hearing
+requested. (1) The
+Director of the Employment Department shall promptly examine each claim for
+family and medical leave insurance benefits and, on the basis of the facts
+available, make a decision to allow or deny the claim. Information furnished in
+the claim, as prescribed by the director by rule, must be accompanied by a
+written or electronically signed statement that such information is true and
+correct to the best of the individual’s knowledge. 
+
+       (2)(a) The
+director shall promptly give notice of a decision to allow or deny a claim. 
+
+       (b) If the claim
+is denied, the written notice must include a statement of the reasons for
+denial. 
+
+       (3) A decision
+made under this section is final and the benefits must be paid or denied
+accordingly. A covered individual may request review of the director’s decision
+as provided in ORS 657B.410. [2019 c.700 §13] 
+
+   
+
+       657B.110
+Continuous jurisdiction of director; reconsideration of previous decisions. (1) The Director of the Employment
+Department, upon motion of the director or upon application of a covered
+individual, may at any time reconsider any final decision under this chapter.
+Reconsideration may occur when there is evidence of: 
+
+       (a) Errors of
+computation; 
+
+       (b) Clerical
+errors; 
+
+       (c)
+Misinformation provided to a party by the Employment Department; 
+
+       (d) Facts not
+previously known to the director; or 
+
+       (e) Errors caused
+by misapplication of law by the department. 
+
+       (2)
+Reconsideration of a final decision shall be made in accordance with such
+regulations as the director may prescribe, and may include the making of a new
+decision which, if made, shall award, deny, terminate, continue, increase or
+decrease benefits to the extent found necessary and appropriate for the
+correction of a previous error respecting such benefits. Any new decision made
+under this subsection shall be subject to review as provided in ORS 657B.410. [2019
+c.700 §14] 
+
+   
+
+       657B.120 [2019 c.700 §15; 2023 c.120 §9;
+renumbered 657B.332 in 2023] 
+
+   
+
+ ELECTIVE COVERAGE 
+
+   
+
+       657B.130
+Elective coverage for certain individuals; notice of election; termination of
+coverage; rules for collection of contributions and benefit overpayments. (1) Except as provided in
+subsections (2) and (3) of this section, a self-employed individual may elect
+to be covered under this chapter for a period of not less than three years. The
+self-employed individual must file a notice of election in writing with the
+Director of the Employment Department and contribute to the Paid Family and
+Medical Leave Insurance Fund established under ORS 657B.430 in the manner
+prescribed by the director by rule. The election becomes effective on the date
+the notice is filed. The self-employed individual must agree to supply any
+information concerning taxable income that the director deems necessary. 
+
+       (2) Subject to
+ORS 657B.150, a self-employed individual who has elected coverage may terminate
+coverage by filing written notice with the director at such times as the
+director prescribes by rule, including at the time of a change in the
+self-employed individual’s employment status. The termination may not take
+effect sooner than 30 days after the notice is filed. 
+
+       (3) A
+self-employed individual who has elected coverage may terminate coverage on the
+date of filing of a voluntary or involuntary bankruptcy petition. The
+self-employed individual’s elective coverage terminates on the date on which
+the self-employed individual provides to the director documentation to support
+the self-employed individual’s filing of the bankruptcy petition and files
+written notice with the director. At any time thereafter, the self-employed
+individual may re-elect coverage under this section. 
+
+       (4) A tribal
+government may elect to be covered under this chapter, or to terminate
+coverage, in the same manner as provided in subsections (1) to (3) of this
+section. 
+
+       (5) The director
+shall prescribe by rule the method for collecting contributions and erroneous
+payments of benefits from self-employed individuals, tribal governments and
+tribal government employees. [2019 c.700 §41] 
+
+   
+
+ CONTRIBUTIONS 
+
+   
+
+       657B.150
+Contributions; director to set rates; reporting requirements for employers;
+rules for successor in interest. 
+(1)(a) Except as otherwise provided in subsections (3) and (4) of this section
+and ORS 657B.210 (4), all employers and employees shall contribute to the Paid
+Family and Medical Leave Insurance Fund established under ORS 657B.430. 
+
+       (b) Contributions
+shall be paid by employers and employees as a percentage of a total rate
+determined by the Director of the Employment Department. 
+
+       (c) The total
+rate may not exceed one percent of employee wages, up to a maximum amount in
+wages that is equivalent to the Social Security contribution and benefit base
+limit established by the United States Social Security Administration for
+purposes of the federal Old-Age, Survivors, and Disability Insurance program
+limits pursuant to 42 U.S.C. 430. 
+
+       (2)(a) Employer
+contributions shall be paid in an amount that is equal to 40 percent of the
+total rate determined by the director. 
+
+       (b) An employer
+shall deduct employee contributions from the wages of each employee in an
+amount that is equal to 60 percent of the total rate determined by the
+director. 
+
+       (3) When an
+employment agency is acting as an employer, the employer contributions required
+under this section shall be the responsibility of the employment agency. 
+
+       (4)(a) Employers
+that employ fewer than 25 employees are not required to pay the employer
+contributions under subsection (1) of this section. 
+
+       (b) If an
+employer that employs fewer than 25 employees elects to pay the employer
+contributions under subsection (1) of this section, the employer may apply to
+receive a grant under ORS 657B.200. 
+
+       (5)
+Notwithstanding subsection (1) of this section, an employer may elect to pay
+the required employee contributions, in whole or in part, as an
+employer-offered benefit. 
+
+       (6) Subject to
+ORS 657B.130 (2) and (3), a self-employed individual who has elected coverage
+under ORS 657B.130 (1) shall contribute to the fund, at a rate that may not
+exceed one percent of the individual’s taxable income, up to a maximum amount
+that is equivalent to the Social Security contribution and benefit base limit
+established by the United States Social Security Administration for purposes of
+the federal Old-Age, Survivors, and Disability Insurance program limits
+pursuant to 42 U.S.C. 430, as determined by the director by rule, for a period
+of not less than three years from the date that the election becomes effective. 
+
+       (7) A tribal
+government that elects coverage under ORS 657B.130 and employees of the tribal
+government shall contribute to the fund in contribution amounts and at a rate
+that may not exceed one percent of employee wages, up to a maximum amount in
+wages that is equivalent to the Social Security contribution and benefit base
+limit established by the United States Social Security Administration for
+purposes of the federal Old-Age, Survivors, and Disability Insurance program
+limits pursuant to 42 U.S.C. 430, as determined by the director by rule, for a
+period of not less than three years from the date that the election becomes
+effective. 
+
+       (8) The director
+shall set rates for the collection of payroll contributions consistent with
+subsection (1) of this section and in a manner such that: 
+
+       (a) At the end of
+the period for which the rates are effective, the balance of moneys in the fund
+is an amount not less than six months’ worth of projected expenditures from the
+fund for performance of the functions and duties of the director under this
+chapter; and 
+
+       (b) The
+volatility of the contribution rates is minimized. 
+
+       (9) No later than
+December 15 of each year, for purposes of subsections (1)(c), (6) and (7) of
+this section, the director shall annually adjust the maximum amount of employee
+wages for the calendar year immediately following to align with the
+contributions and benefit base limit established by the United States Social
+Security Administration for purposes of the federal Old-Age, Survivors, and
+Disability Insurance program limits pursuant to 42 U.S.C. 430. 
+
+       (10) The director
+shall determine on an annual basis the amount of payroll contributions, timing
+of payroll contributions and maximum employee contributions sufficient to
+finance the costs related to the provisions of this chapter. 
+
+       (11) An employer
+shall hold any moneys collected under this section in trust for the State of
+Oregon and for the payment thereof to the Department of Revenue in the manner
+described in subsection (12) of this section. 
+
+       (12)(a) An
+employer shall make and file a combined quarterly report of wages earned and
+contributions paid under this section on a form prescribed by the Department of
+Revenue. 
+
+       (b) The report
+shall be filed with the Department of Revenue on or before the last day of the
+month following the quarter to which the report relates and shall be deemed
+received on the date of mailing. 
+
+       (c) The report
+shall be accompanied by payment of any contributions due under this section in
+a manner determined by the Department of Revenue. 
+
+       (13) Moneys
+collected under this section shall be deposited in the Paid Family and Medical
+Leave Insurance Fund established under ORS 657B.430. 
+
+       (14)(a) If an
+employer ceases or discontinues operations or business, or sells out, exchanges
+or otherwise disposes of the business or stock of goods, any payroll
+contribution payable under this section is immediately due and payable, and the
+employer shall, within 10 calendar days, pay the payroll contribution due. Any
+person who becomes a successor in interest to the business is liable for the
+full amount of the unpaid payroll contribution. 
+
+       (b) The director
+shall adopt rules for compliance with this chapter with regard to contributions
+from an employer’s successor in interest. 
+
+       (15) Benefits may
+not be denied to a covered individual solely because an employer failed to
+collect or remit the contributions required under this section. [2019 c.700 §16;
+2023 c.292 §§5,6; 2025 c.27 §4] 
+
+   
+
+       657B.175
+Effect of place of performance of service. (1) An employee’s wages shall be used to make
+determinations under this chapter if the wages are earned for service that is: 
+
+       (a) Localized
+within this state; or 
+
+       (b) Not localized
+within any state, but some of the service is performed within this state and: 
+
+       (A) The base of
+operations is in this state or, if there is no base of operations, the place
+from which the service is directed or controlled is in this state; or 
+
+       (B) The base of
+operations or place from which the service is directed or controlled is not in
+any state in which some part of the service is performed, but the individual’s
+residence is in this state. 
+
+       (2) Service is
+localized within this state if it is: 
+
+       (a) Performed
+entirely within this state; or 
+
+       (b) Performed
+both within and outside this state, but the service performed outside this
+state is incidental to the employee’s service within this state. [2019 c.700 §21;
+2023 c.292 §13] 
+
+   
+
+       Note: Section 16 (10), chapter 292,
+Oregon Laws 2023, provides: 
+
+       Sec. 16. (10) The amendments to ORS
+657B.175 by section 13 of this 2023 Act apply to wages earned on or after
+January 1, 2023. [2023 c.292 §16(10); 2023 c.292 §16a(10)] 
+
+   
+
+       657B.180
+Unlawful practices of employer. 
+(1) An employer may not willfully refuse or fail to pay a contribution to the
+Paid Family and Medical Leave Insurance Fund established under ORS 657B.430 or
+to furnish any report, audit or information duly required by the Director of
+the Employment Department under this chapter. 
+
+       (2) An employer
+may not make a deduction from the wages of an employee to pay any portion of
+the employer contributions due from the employer. [2019 c.700 §26] 
+
+   
+
+       657B.190
+Employer’s security for payment of contributions. (1) If, upon satisfactory
+evidence, the Director of the Employment Department finds it necessary for the
+protection of the Paid Family and Medical Leave Insurance Fund established
+under ORS 657B.430, the director may require any employer subject to this
+chapter, other than the State of Oregon, and every state officer, board,
+commission, department, institution, branch, agency or political subdivision of
+this state, to deposit and keep on deposit with the director a sum equal to the
+contributions due or estimated to be due from the employer for a period of
+three calendar quarters. 
+
+       (2)(a) In lieu of
+a deposit required under subsection (1) of this section, the director may
+accept a bond or an irrevocable letter of credit issued by an insured
+institution as defined in ORS 706.008 in a form acceptable to the director to
+secure payment of contributions to become due to the fund. 
+
+       (b) The deposit
+or posting of a bond or letter of credit under paragraph (a) of this subsection
+shall not relieve the employer of the obligation to make contributions to the
+fund as provided under ORS 657B.150. 
+
+       (c) The director
+may at any time apply any portion of the deposit, payment on the bond or the
+proceeds of the letter of credit to the payment of any amounts due from the
+employer under any provisions of this chapter. 
+
+       (3)(a) Except as
+provided in subsection (4) of this section, any deposit, bond or letter of
+credit shall be deemed for all purposes to become the sole property of the
+director and shall be deposited in the fund and held for the sole benefit of
+the fund. 
+
+       (b) The deposit,
+bond or letter of credit shall be prior to all other liens, claims or
+encumbrances and shall be exempt from any process, attachment, garnishment or
+execution whatsoever and shall be for the sole benefit of the fund. 
+
+       (4)(a) If an
+employer ceases to be an employer subject to this chapter, such sums as are on
+deposit in the fund shall first be applied to any amounts due from the employer
+to the fund under any provisions of this chapter. 
+
+       (b) Only upon
+receipt of all payments due to the fund from an employer described in paragraph
+(a) of this subsection, the director shall refund to the employer all deposits
+remaining to the employer’s credit in the fund and shall cancel any bond or
+letter of credit given under this section. 
+
+       (c) An employer
+described in paragraph (a) of this subsection shall have no interest in a
+deposit, bond or letter of credit prior to full compliance with this section
+and all provisions of this chapter. [2019 c.700 §23] 
+
+   
+
+       657B.200
+Employer assistance grants; eligibility; rules. (1) Except as provided in
+subsection (2) of this section, employers that employ fewer than 25 employees
+and that make the required contributions under ORS 657B.150 may apply to the
+Employment Department to receive one of the following grants: 
+
+       (a) If the
+employer hires a temporary worker to replace an eligible employee who takes
+family leave, medical leave or safe leave for a period of seven or more days, a
+grant of up to $3,000 to apply toward the costs of hiring the worker. 
+
+       (b) A grant of up
+to $1,000 as reimbursement for significant additional wage-related costs
+incurred during a period in which an eligible employee takes leave described
+under paragraph (a) of this subsection. 
+
+       (2) In addition
+to a grant received under subsection (1)(b) of this section, an employer may
+receive a grant in the amount of the difference between the grant awarded and
+$3,000 if: 
+
+       (a) After the
+commencement of a period of family leave, medical leave or safe leave taken by
+an eligible employee, the employee extends the period of leave beyond the
+employee’s initial expected period of leave; and 
+
+       (b) The employer
+hired a temporary worker to replace the eligible employee during the employee’s
+period of leave. 
+
+       (3) An employer
+may apply for a grant under subsection (1) of this section not more than 10
+times per calendar year and not more than once for each eligible employee who
+takes leave under ORS 657B.020. 
+
+       (4) To be
+eligible for a grant under this section, an employer shall provide to the
+Director of the Employment Department written documentation showing that the
+employer hired a temporary worker or that the wage-related costs incurred are
+due to an eligible employee’s use of family leave, medical leave or safe leave. 
+
+       (5) The grants
+awarded under this section shall be funded with moneys in the Paid Family and
+Medical Leave Insurance Fund established under ORS 657B.430. 
+
+       (6) The director
+shall adopt any rules necessary to implement this section. [2019 c.700 §42] 
+
+   
+
+ EQUIVALENT PLANS 
+
+   
+
+       657B.210
+Equivalent plans, generally; rules; fee. (1)(a) An employer may apply to the Director of the
+Employment Department for approval of an employer-offered benefit plan that
+provides family and medical leave insurance benefits to the employer’s
+employees. 
+
+       (b) An employer
+that seeks approval of a plan shall submit an application to the director in
+the form and manner prescribed by the director by rule, accompanied by an
+application fee not to exceed $250. 
+
+       (2) The director
+shall review and approve an application for a plan if the director finds that: 
+
+       (a) The plan is
+made available to all employees who have been continuously employed with an
+employer for 30 days. 
+
+       (b) The benefits
+afforded to employees covered under the plan are equal to or greater than the
+weekly benefits and the duration of leave that an eligible employee would
+qualify for under this chapter. 
+
+       (3) An employer
+may make a plan available to employees who have been employed by the employer
+for less than 30 days but in no event may an employer require an employee to
+have been employed by the employer for more than 30 days to be eligible for
+coverage under the plan. 
+
+       (4) Neither an
+employer that provides benefits under an approved plan nor an employee covered
+under such a plan is required to make the contributions under ORS 657B.150 for
+any calendar quarter that begins on or after the effective date of an approved
+plan, and thereafter, for the duration of the approved plan. 
+
+       (5)(a) An
+employer may assume all or a part of the costs related to a plan approved under
+this section. 
+
+       (b) If an
+employer assumes only part of the costs, the employer may deduct employee
+contributions from the wages of employees to finance the costs related to the
+plan, except that any contribution amounts deducted may not exceed the amount
+that an employee would otherwise be required to contribute under ORS 657B.150. 
+
+       (c) Employee
+contributions received or retained by an employer under this subsection must be
+used for plan expenses and are not considered to be a part of an employer’s
+assets for any purpose. 
+
+       (6) Any paid sick
+leave earned under ORS 653.606 is in addition to the benefits made available
+under a plan that has been approved under this section. 
+
+       (7) An employee
+who takes leave pursuant to a plan approved under this section shall provide
+notice to an employer of such leave in the same manner as provided in ORS
+657B.040. 
+
+       (8) A plan
+approved under this section shall remain in effect for a period of not less
+than one year. 
+
+       (9) Nothing in
+this section prohibits an employee who is otherwise eligible from applying for
+coverage under the program established under ORS 657B.340 or under a separate
+employer-offered plan that has been approved under this section. 
+
+       (10) The director
+shall adopt rules that require that the benefits made available to an eligible
+employee who is covered under more than one plan shall be prorated under each
+respective plan. 
+
+       (11) An employer
+that offers a plan approved under this section shall: 
+
+       (a) Be subject to
+the same requirements provided in ORS 657B.060 and 657B.070; 
+
+       (b) Maintain all
+reports, information and records relating to the plan, including payroll and
+account records that document employee contributions and expenses, in the
+manner established by the director by rule; and 
+
+       (c) Provide
+written notice to employees that includes: 
+
+       (A) Information
+about benefits available under the approved plan, including the duration of
+leave; 
+
+       (B) The process
+for filing a claim to receive benefits under the plan; 
+
+       (C) The process
+for employee deductions used to finance the costs of the plan, if any; 
+
+       (D) An employee’s
+right to dispute a benefit determination in the manner determined by the
+director under ORS 657B.420; 
+
+       (E) The right to
+job protection and benefits continuation, if applicable; and 
+
+       (F) A statement
+that discrimination and retaliatory personnel actions against an employee for
+inquiring about the family and medical leave insurance program established
+under ORS 657B.340, giving notification of leave under the program, taking
+leave under the program or claiming family and medical leave insurance benefits
+are prohibited. 
+
+       (12) Benefits
+received under this section are considered wages for purposes of a wage claim
+under ORS chapter 652. 
+
+       (13) An employer
+whose application for plan approval was denied by the director under this
+section or terminated by the director under ORS 657B.220 may request review of
+the decision as provided in ORS 657B.410. [2019 c.700 §43; 2023 c.292 §7; 2025
+c.93 §3] 
+
+   
+
+       Note: See note under 657B.015. 
+
+   
+
+       657B.220
+Director review of benefits provided under equivalent plan; termination of
+noncompliant plan. 
+(1)(a) At such times as may be established by the Director of the Employment
+Department by rule, the director shall review the family and medical leave
+insurance benefits provided under a plan that has been approved under ORS
+657B.210. 
+
+       (b) Based on the
+review, the director shall determine whether the approved plan provides
+benefits that are equal to or greater than the benefits that would be available
+to eligible employees under the family and medical leave insurance program
+established under ORS 657B.340. 
+
+       (2) If the
+director determines that the approved plan does not provide benefits in
+compliance with requirements under ORS 657B.210 (2), the director shall
+terminate the plan and the employer shall be required to make employer
+contributions and deduct employee contributions in accordance with ORS
+657B.150. [2019 c.700 §44] 
+
+   
+
+       657B.230
+Application for reapproval of plan. 
+(1) Except as provided in ORS 657B.240, an employer shall resubmit an
+application to the Director of the Employment Department for reapproval of a
+plan that was approved under ORS 657B.210. An employer shall apply for
+reapproval once a year for a three-year period following the date on which the
+director first approved the plan. 
+
+       (2) Unless an
+employer has made changes to a plan that were not considered by the director in
+a previously approved or reapproved application, an employer need not submit an
+application for reapproval of the plan after expiration of the three-year
+period described in subsection (1) of this section. [2019 c.700 §45] 
+
+   
+
+       657B.240
+Withdrawal from plan; handling of employee deductions. (1) An employer may elect to
+withdraw from a plan that was approved under ORS 657B.210 in the manner
+specified by the Director of the Employment Department by rule provided that
+the plan has been in effect for at least one year. 
+
+       (2) If an
+employer elects to withdraw from an approved plan, any deductions made from the
+wages of an employee that remain in possession of the employer upon the
+employer’s withdrawal of the plan shall be disposed of as determined by the
+director. [2019 c.700 §46] 
+
+   
+
+       657B.250
+Portability of benefits and retention of eligibility status between jobs. (1) An employee who is a covered
+individual under the program established under ORS 657B.340 retains such status
+until the employee qualifies for coverage under a plan approved under ORS
+657B.210. 
+
+       (2)(a) An
+employee who has ceased to be covered by a plan approved under ORS 657B.210,
+is, if otherwise eligible, automatically qualified to receive family and
+medical leave insurance benefits under the program established under ORS
+657B.340. 
+
+       (b)
+Notwithstanding ORS 657B.210 (3), an employee who was eligible for benefits
+under a plan approved under ORS 657B.210 is automatically eligible for benefits
+under a plan that is offered by a new employer and that has been approved under
+ORS 657B.210. 
+
+       (c) For purposes
+of this subsection, an employee has ceased to be covered by an approved plan
+if: 
+
+       (A) The employee
+takes family leave, medical leave or safe leave after the employee has
+separated from employment with an employer that offered a plan approved under
+ORS 657B.210; 
+
+       (B) The employer
+has withdrawn from the plan as provided under ORS 657B.240; 
+
+       (C) The Director
+of the Employment Department has terminated the plan under ORS 657B.220; or 
+
+       (D) The director
+finds that the employer is insolvent or has discontinued doing business in this
+state. [2019 c.700 §47] 
+
+   
+
+       657B.260
+Successor in interest required to continue offering approved plan to eligible
+employees until withdrawal of plan; request for withdrawal. (1) Except as provided in
+subsection (2) of this section, a plan that has been approved under ORS
+657B.210 and that is in effect at the time a successor in interest acquires the
+organization, trade or business, or substantially all assets of the organization,
+trade or business or a distinct and severable portion of the organization,
+trade or business, and continues its operation without substantial reduction of
+personnel resulting from the acquisition, must continue to be offered to
+eligible employees and the successor in interest may not withdraw the plan
+without a specific request for withdrawal in a manner prescribed by the
+Director of the Employment Department by rule. 
+
+       (2) Within 90
+days following the date of an acquisition described in subsection (1) of this
+section, a successor in interest to an employer may terminate a plan that was
+approved under ORS 657B.210 and that was in effect on the date of acquisition
+without a request to withdraw the plan, provided the successor in interest
+provides notice to the director and all employees of the employer in a manner
+prescribed by the director by rule. [2019 c.700 §48] 
+
+   
+
+ COLLECTIONS; RECOVERY
+AND RESOLUTION OF IMPROPER BENEFIT PAYMENTS 
+
+   
+
+       657B.280
+Delinquent contributions and improper benefit payments as liens on real or
+personal property; foreclosure.  (1)
+This section applies to: 
+
+       (a) An employer
+that fails to remit to the Department of Revenue any amount of contributions
+due under ORS 657B.150; 
+
+       (b) An individual
+liable to repay any amount of benefits paid under this chapter to which the
+individual was not entitled; 
+
+       (c) A person
+liable under ORS 657B.330 for amounts due under this chapter; 
+
+       (d) A
+self-employed individual or tribal government that fails to remit to the
+Department of Revenue any amount of contributions due under ORS 657B.130; 
+
+       (e) An employer
+liable to repay any amount of grant moneys awarded under ORS 657B.200 for which
+the employer was not eligible; and 
+
+       (f) An individual
+or an employer liable for any amounts due under this chapter. 
+
+       (2) If a judgment
+or final administrative order is rendered in favor of the Director of the
+Employment Department for amounts described in subsection (1) of this section,
+the amounts shall be a lien in favor of the director upon all property, whether
+real or personal, belonging to the employer, individual or person. 
+
+       (3) The lien
+shall be perfected and attach: 
+
+       (a) To real and
+personal property located within the county, upon the recording of a warrant,
+as provided in ORS 657B.300, with the clerk of the county in which the property
+is located. 
+
+       (b) To personal
+property wherever located within the state, upon: 
+
+       (A) The recording
+of a warrant, as provided in ORS 657B.300, with the clerk of any county; and 
+
+       (B) The filing of
+a copy of the warrant with the Secretary of State as provided in ORS 657B.290. 
+
+       (4) The lien
+created by this section may be foreclosed by a suit in the circuit court in the
+manner provided by law for the foreclosure of other liens on real or personal
+property. [2019 c.700 §17; 2023 c.120 §10] 
+
+   
+
+       Note: Section 13 (5), chapter 120,
+Oregon Laws 2023, provides: 
+
+       Sec. 13. (5) The amendments to ORS 657B.280
+by section 10, chapter 120, Oregon Laws 2023, apply to amounts due or liable to
+be repaid on or after January 1, 2023. [2023 c.120 §13(5); 2023 c.292 §16b(5)] 
+
+   
+
+       657B.290
+Filing of lien statement or warrant. 
+(1) Any warrant attaching the lien under ORS 657B.280 may also be filed in the
+office of the Secretary of State. Filing in the office of the Secretary of
+State has no effect until a copy of the statement of lien or the warrant has
+been recorded with the county clerk. 
+
+       (2) When a copy
+of the statement of lien or the warrant is filed with the Secretary of State in
+compliance with subsection (1) of this section, such filing shall have the same
+effect with respect to personal property as if the copy of the statement of lien
+or the warrant had been duly recorded with the county clerk in each county of
+this state. 
+
+       (3) A copy of the
+statement of lien or the warrant filed with the Secretary of State shall be
+filed and indexed by the Secretary of State in the same manner as provided
+under ORS 79A.5010 for the filing and indexing of financing statements. [2019
+c.700 §18] 
+
+   
+
+       657B.300
+Alternative remedies for collection of amounts liable to be repaid; warrants;
+execution by sheriff. 
+(1) In any case in which the Director of the Employment Department may bring a
+civil action for the collection of amounts liable to be repaid under ORS
+657B.280, interest on those amounts or penalties, the director may instead
+issue a warrant for the amount liable to be repaid with the added interest,
+penalties, collection charges and the sheriff’s costs of executing the warrant.
+The Employment Department shall mail or deliver a copy of the warrant to the
+last known address of the employer, individual or person. 
+
+       (2) At any time
+after issuing a warrant under this section, the department may record the
+warrant in the County Clerk Lien Record of any county of this state. Recording
+of the warrant has the effect described in ORS 205.125. 
+
+       (3) After
+recording a warrant under this section, the director may direct the sheriff of
+the county in which the warrant is recorded to levy upon and sell any real and
+personal property, and levy upon any currency, belonging to the employer,
+individual or person and found within that county. The proceeds or currency
+shall be applied against the amount reflected in the warrant and the sheriff’s
+costs of executing the warrant. 
+
+       (4) The sheriff
+shall proceed on the warrant in the same manner prescribed by law for
+executions issued against property pursuant to a judgment and is entitled to
+the same fees as provided for executions issued against property pursuant to a
+judgment. The fees of the sheriff shall be added to and collected as a part of
+the warrant liability. 
+
+       (5)(a) The
+director may direct the warrant to any agent and authorize the agent to collect
+the amount reflected in the warrant. 
+
+       (b) In the
+execution of the warrant the agent has all of the powers conferred by law upon
+sheriffs but is entitled to no fee or compensation in excess of actual expenses
+incurred in the execution. 
+
+       (6) Amounts
+collected pursuant to this section shall be deposited in the Paid Family and
+Medical Leave Insurance Fund established under ORS 657B.430. [2019 c.700 §19] 
+
+   
+
+       657B.310
+Release, compromise or satisfaction of lien.  (1)(a) The Director of the Employment Department
+may release, compromise or satisfy any lien provided for in ORS 657B.280 and
+657B.290 by filing a notice of release or satisfaction with the county clerk of
+the county in which the notice of lien claim was filed. 
+
+       (b) Upon filing
+of the notice under this subsection, the property against which the lien is
+claimed shall be released from the lien. 
+
+       (2) The director
+may include in the amount received for the release of the lien any costs
+incurred by the director in collecting the amounts due. 
+
+       (3) Amounts
+collected pursuant to this section shall be deposited in the Paid Family and
+Medical Leave Insurance Fund established under ORS 657B.430. [2019 c.700 §20] 
+
+   
+
+       657B.320
+Delinquent contributions or grant repayments; interest; civil penalties;
+collection by civil action; settlement. (1) If an employer defaults with respect to any
+amount of contributions required to be made by the employer to the Paid Family
+and Medical Leave Insurance Fund established under ORS 657B.430 or with respect
+to the repayment of any grant moneys awarded to the employer under ORS 657B.200
+for which the employer was not eligible, the unpaid amount, together with
+interest and penalties, shall be collected by the Director of the Employment
+Department in a civil action against the employer brought in the name of the
+director. 
+
+       (2)(a) Judgment
+rendered on a civil action brought under subsection (1) of this section in
+favor of the director shall bear interest at the rate provided in subsection
+(3) of this section. 
+
+       (b) An employer’s
+compliance with the requirements of ORS 657B.150 shall date from the time that
+contributions were collected from the employer or grants were received by the
+employer. 
+
+       (c) The amount of
+contributions or any grant repayment described in subsection (1) of this
+section collected from an employer, together with interest and penalties, shall
+be paid into the fund. 
+
+       (3)(a) Interest
+upon any amounts due from an employer shall be paid and collected at the rate
+of one and one-half percent per month from the date prescribed for the payment
+to the fund. In computing the interest, a fraction of a month shall be counted
+as a full month. 
+
+       (b) Interest
+shall be paid at the same time contributions or grant repayments are required
+to be paid by the employer to the fund. 
+
+       (4) If an
+employer fails to pay contributions required by ORS 657B.150 at the time
+prescribed by the director, the employer shall be in default. 
+
+       (5) If an
+employer is awarded grant moneys under ORS 657B.200 for which the employer was
+not eligible and the employer fails to repay the moneys to the Employment
+Department within 30 days after receiving notice from the department explaining
+the employer’s obligation to repay the moneys, the employer shall be in
+default. 
+
+       (6) If an
+employer that is in default with respect to payment of contributions or a grant
+repayment fails to make payment within 10 days after written demand has been
+made by the director, the employer shall be subject to a penalty of 10 percent
+of the amount of the contributions or the grant repayment. A demand for payment
+shall be deemed to have been made when deposited in the mail addressed to the
+employer at the employer’s last known address of record with the director. 
+
+       (7)(a) If any
+part of a deficiency is due to fraud with intent to avoid payment of
+contributions to the fund, then 50 percent of the total amount of the
+deficiency, in addition to the deficiency, shall be assessed, collected and
+paid, in the same manner as if it were a deficiency, and deposited in the fund. 
+
+       (b) If an
+employer’s award of grant moneys under ORS 657B.200 was obtained by fraud or
+misrepresentation by the employer, then 50 percent of the total amount of the
+grant award, in addition to the amount of the grant repayment due to the
+department, shall be assessed, collected and paid, in the same manner as if it
+were a deficiency, and deposited in the fund. 
+
+       (8) Civil actions
+brought in the name of the director under this section to collect
+contributions, grant repayments, interest or penalties from an employer shall
+be entitled to preference upon the calendar over all civil cases that involve
+only private parties. 
+
+       (9)(a)
+Notwithstanding the provisions of this section, the director may agree to
+accept from an employer or former employer with a delinquent account any amount
+the director finds reasonable under the circumstances as consideration in
+settlement of the full amount of contributions, grant repayments, interest or
+penalties due if the director finds that: 
+
+       (A) The total
+interest collectible on the delinquent account is in excess of 25 percent of
+the principal; 
+
+       (B) The employer
+or former employer no longer conducts an active business and has insufficient
+net assets to pay the full amount of all contributions, grant repayments,
+interest or penalties due; and 
+
+       (C) The employer
+or former employer can pay some but not all of the delinquent amounts. 
+
+       (b) Whenever a
+settlement agreement is made pursuant to paragraph (a) of this subsection, a
+written record signed by the director shall be maintained in the files of the
+director. Such records shall set forth: 
+
+       (A) The name of
+the employer or former employer against whom the liability was assessed; 
+
+       (B) The amount of
+the assessed liability; 
+
+       (C) The amount of
+the liability paid; 
+
+       (D) The amount of
+the liability canceled or waived; and 
+
+       (E) A sworn
+statement of the employer or former employer setting forth the complete
+financial responsibility of the employer or former employer and containing a
+full disclosure of all matters bearing upon the ability of the employer or
+former employer to pay the full amount of the liability assessed. 
+
+       (10) The director
+shall file a full and true copy of the record of each settlement agreement with
+the Secretary of State as a public record. 
+
+       (11) Any amount
+agreed to in settlement of the director’s claims on behalf of the fund pursuant
+to subsection (9)(a) of this section shall be first credited to the
+contributions or grant repayments due from the employer or former employer,
+whichever is applicable, until the principal amount of contributions or grant
+repayments due has been satisfied and shall be deposited in the fund. [2019
+c.700 §24; 2023 c.120 §11] 
+
+   
+
+       Note: Section 13 (6), chapter 120,
+Oregon Laws 2023, provides: 
+
+       Sec. 13. (6) The amendments to ORS 657B.320
+by section 11, chapter 120, Oregon Laws 2023, apply to grant moneys awarded on
+or after September 3, 2023. [2023 c.120 §13(6); 2023 c.292 §16b(6)] 
+
+   
+
+       657B.330
+Liability of certain officers, members, partners or employees for amounts in
+default. (1) This
+section applies to an individual who is one or more of the following: 
+
+       (a) An officer or
+employee of a corporation; 
+
+       (b) A member or
+employee of a limited liability company; or 
+
+       (c) A partner in
+or employee of a limited liability partnership. 
+
+       (2) In the case
+of default by an employer subject to ORS 657B.320, an individual described in
+subsection (1) of this section who is under a duty to perform the actions
+required of employers under ORS 657B.150 shall be personally liable for amounts
+due under ORS 657B.150. More than one individual may be jointly and severally
+liable under this section for amounts due. 
+
+       (3) If the
+Director of the Employment Department determines that an amount is due under
+this section, the director shall issue a notice of assessment to the individual
+liable under this section by mail to the individual’s last known address of
+record with the director. 
+
+       (4) If the
+director has reason to believe that the individual liable under this section is
+insolvent, the director may issue a jeopardy assessment as provided under ORS
+657B.370 (4). 
+
+       (5) Amounts
+assessed under this section may be reviewed in the manner provided by ORS
+657B.370 (5). [2019 c.700 §25] 
+
+   
+
+       657B.332 False
+statements or failure to report material fact; recovery of erroneous benefit
+payments due to misrepresentation or nondisclosure; notice requirements;
+penalties; rules. 
+(1) An employer may not willfully make or cause to be made false statements or
+willfully fail to report a material fact regarding the claim of an eligible
+employee or regarding an employee’s eligibility for family and medical leave
+insurance benefits under this chapter. 
+
+       (2) The Director
+of the Employment Department may assess a civil penalty in an amount not to
+exceed $1,000 against an employer for each occurrence that violates subsection
+(1) of this section. 
+
+       (3) If the
+director determines that a covered individual willfully made a false statement
+or willfully failed to report a material fact in order to obtain benefits under
+this chapter, the covered individual is: 
+
+       (a) Disqualified
+from claiming benefits for one year; and 
+
+       (b) Liable for a
+penalty imposed at a rate prescribed by the director of at least 15 percent,
+but not greater than 30 percent, of the amount of benefits the covered
+individual received to which the covered individual was not entitled. 
+
+       (4)(a) If the
+director determines that a covered individual has received benefits to which
+the covered individual was not entitled, the director may: 
+
+       (A) Seek
+repayment of benefits from the covered individual in a manner prescribed by the
+director by rule; or 
+
+       (B) Have the
+amount of the benefits deducted from any future benefits otherwise payable to
+the covered individual under ORS 657B.100. 
+
+       (b) For purposes
+of paragraph (a)(B) of this subsection, the director may deduct all or any part
+of the covered individual’s future weekly benefits. 
+
+       (c) Except as
+provided in paragraph (d) of this subsection, benefits described in paragraph
+(a) of this subsection may be collected for any week or weeks within five years
+following the week in which the decision establishing the erroneous payment
+became final. 
+
+       (d)
+Notwithstanding paragraph (c) of this subsection, overpaid benefits subject to
+the penalty imposed under subsection (3)(b) of this section may be collected at
+any time. 
+
+       (e) Notice
+provided to a covered individual of the covered individual’s liability for
+recovery of benefits under this section must include a description of: 
+
+       (A) The basis for
+the director’s decision that benefits have been overpaid; and 
+
+       (B) The
+consequences of the overpayment, including the methods of recovery of the
+overpaid amount, with interest and penalties, and the possibility of waiver
+under ORS 657B.336. 
+
+       (5) If benefits
+are paid because of an error that is not due to provision of a false statement,
+nondisclosure of a material fact or misrepresentation by a covered individual,
+the director may waive, in whole or in part, the amount of any such payments
+for which recovery under subsection (4) of this section would be against
+equity, good conscience or administrative efficiency. 
+
+       (6) A decision of
+the director under this section does not authorize the recovery of the amount
+of any benefits paid to a covered individual until the decision is final and
+the decision specifies: 
+
+       (a) That the
+covered individual, by reason of false statement, nondisclosure or
+misrepresentation, is liable to repay the amount to the Paid Family and Medical
+Leave Insurance Fund established under ORS 657B.430; 
+
+       (b) The nature of
+the false statement, nondisclosure or misrepresentation; 
+
+       (c) The week or
+weeks for which the benefits were paid; and 
+
+       (d) That any
+amount subject to recovery and any penalty due under this section may be
+collected by the director in a civil action against the employer or covered
+individual brought in the name of the director. 
+
+       (7)(a) The
+director may bring a civil action against a covered individual to collect any
+amount subject to recovery and any penalty due under this section. 
+
+       (b) Any judgment
+rendered shall bear interest at the rate provided in subsection (8) of this
+section. 
+
+       (8) Interest on
+any amount liable to be repaid under this section shall be paid and collected
+at the same time repayment of benefits is made by the covered individual, at
+the rate of one percent per month. In computing the interest, a fraction of a
+month shall be counted as a full month. 
+
+       (9)(a) Deductions
+from paid family and medical leave insurance benefits pursuant to subsection
+(4) of this section shall be applied solely to the amount of the benefits
+liable to be repaid under this section. 
+
+       (b) All other
+payments shall be applied first to court costs, then to penalties, then to
+interest, then to the amount liable to be repaid. 
+
+       (10) The
+following amounts collected under this section shall be paid into the Paid
+Family and Medical Leave Insurance Fund established under ORS 657B.430: 
+
+       (a) Amounts in
+repayment of benefits; 
+
+       (b) Amounts
+collected as interest under subsection (8) of this section; and 
+
+       (c) The penalties
+imposed under subsection (3)(b) of this section. 
+
+       (11) The director
+shall adopt rules establishing standards and procedures for the repayment of
+benefits and payment of penalties and interest under this section. 
+
+       (12) An employer
+or covered individual may appeal a determination made under this section as
+provided in ORS 657B.410. [Formerly 657B.120] 
+
+   
+
+       Note: Section 13 (1), chapter 120,
+Oregon Laws 2023, provides: 
+
+       Sec. 13. (1) Sections 2 to 5, chapter 120,
+Oregon Laws 2023 [657B.334, 657B.335, 657B.336 and 657B.337], and the
+amendments to ORS 657B.120 [renumbered 657B.332] by section 9, chapter 120,
+Oregon Laws 2023, apply to benefits paid on or after September 3, 2023. [2023
+c.120 §13(1); 2023 c.292 §16b(1)] 
+
+   
+
+       657B.334
+Ineligibility for benefits upon conviction of fraud in obtaining benefits. (1) If a person is convicted by a
+court of competent jurisdiction of willfully making a false statement or
+misrepresentation, or willfully failing to report a material fact, to obtain
+any benefits under this chapter, in addition to any penalties imposed by the
+court, the person shall: 
+
+       (a) Be ineligible
+for benefits based upon wages paid to the person in the calendar quarter in
+which the person was convicted and in all prior calendar quarters; and 
+
+       (b) Be ineligible
+for benefits after the conviction until the person has reimbursed the Paid
+Family and Medical Leave Insurance Fund established under ORS 657B.430 for the
+full amount received as a result of the false statement or misrepresentation or
+of the failure to report a material fact. 
+
+       (2) The
+provisions of this section are in addition and supplemental to the provisions
+of ORS 657B.332. [2023 c.120 §4] 
+
+   
+
+       Note: See note under 657B.332. 
+
+   
+
+       657B.335
+Deduction of benefits paid in error not due to recipient fault; director
+discretion; civil action by director to recover benefits paid in error. (1)(a) If the Director of the
+Employment Department decides that a covered individual has been paid benefits
+to which the covered individual is not entitled because of an error not due to
+the covered individual providing a false statement or misrepresentation of a
+material fact or not disclosing a material fact, or because an initial decision
+to pay benefits is subsequently reversed by a decision finding that the covered
+individual is not eligible for the benefits, then the covered individual is
+liable to have the amount of any benefits paid in error deducted from any
+future benefits otherwise payable to the covered individual under this chapter
+for any week or weeks within five years following the week in which the
+decision establishing the erroneous payment became final. 
+
+       (b) For purposes
+of paragraph (a) of this subsection, the director may deduct all or any part of
+the covered individual’s future weekly benefits. 
+
+       (c) Any notice
+provided to a covered individual of the covered individual’s liability for
+recovery of benefits under this section must include a description of: 
+
+       (A) The basis for
+the director’s decision that benefits have been overpaid; and 
+
+       (B) The
+consequences of the overpayment, including recovery of the overpaid amount and
+the possibility of waiver under ORS 657B.336. 
+
+       (2) Subject to
+ORS 657B.410, a decision of the director under this section does not authorize
+the recovery of the amount of any benefits paid to a covered individual until
+the decision is final. 
+
+       (3) The director
+may bring a civil action against a covered individual to recover amounts paid
+to the covered individual in excess of the maximum benefits allowable pursuant
+to this chapter. [2023 c.120 §2] 
+
+   
+
+       Note: See note under 657B.332. 
+
+   
+
+       657B.336
+Waiver of recovery of overpaid benefits. (1) The Director of the Employment Department shall
+waive recovery of overpaid benefits under ORS 657B.335 if the director finds
+that the benefits are recoverable due to a change in state law, the application
+of which has caused the disqualification of benefits previously paid. 
+
+       (2) The director
+may not waive recovery under this section of overpaid benefits that are subject
+to the penalty imposed under ORS 657B.332 (3). 
+
+       (3) The director
+may waive establishment and recovery of overpaid benefits when no decision has
+been issued under ORS 657B.332 or 657B.335 and the amount of the overpayment is
+equal to or less than one-half of the maximum weekly benefit amount in effect at
+the time the overpayment is discovered. 
+
+       (4) Any waiver
+granted under this section extinguishes all liability of the debtor for the
+waived amounts. [2023 c.120 §3] 
+
+   
+
+       Note: See note under 657B.332. 
+
+   
+
+       657B.337
+Cancellation of unrecoverable benefit payments and amounts of interest or
+penalties due and unpaid. 
+(1)(a) If any amount paid to a covered individual as benefits, for which the
+covered individual has been found liable under the provisions of ORS 657B.332
+to repay or to have deducted from benefits payable, has been neither repaid nor
+deducted within a period of five years following the date the decision
+establishing the overpayment became final, and is equal to or less than
+one-half of the state maximum weekly benefit amount in effect at the time the
+overpayment is discovered, or determined by the Director of the Employment
+Department to be uncollectible, the overpayment, together with the record of
+the overpayment and the resulting shortage, may be canceled. 
+
+       (b)
+Notwithstanding paragraph (a) of this subsection, the overpayment may not be
+canceled if the debt is being recovered by payments or deductions that were
+received within the last three months or if repayment of the overpayment is
+required under ORS 657B.334. 
+
+       (2) If an amount
+paid to a covered individual as benefits, for which the covered individual has
+been found liable under the provisions of ORS 657B.335 to have deducted from
+benefits payable, has not been waived under ORS 657B.336, paid or deducted from
+benefits otherwise payable to the covered individual for any week or weeks
+within five years following the week in which the decision establishing the
+overpayment became final, the overpayment, together with the record of the
+overpayment and the resulting shortage, shall be canceled. 
+
+       (3) When in the
+judgment of the director the best interests of the Employment Department are
+served in an effort to settle accounts, the director may waive, reduce or
+compromise any part or all of the interest or penalty charged pursuant to ORS
+657B.332. The director may determine that the amount of interest or penalty due
+and unpaid is uncollectible, and write off the amount. In making the
+determination that interest or a penalty is uncollectible, the director shall
+consider, among other factors: 
+
+       (a) The
+administrative costs of continued collection efforts in relation to the amount
+due; 
+
+       (b) The
+accessibility of the debtor for effective collection actions; and 
+
+       (c) The debtor’s
+financial condition and ability to pay the amount due, both current and
+projected. [2023 c.120 §5] 
+
+   
+
+       Note: See note under 657B.332. 
+
+   
+
+       657B.338
+Request for offset of moneys owed to debtor by Department of Revenue against
+certain amounts owed by debtor; fees. 
+(1) The Director of the Employment Department may pay a fee charged by the
+Department of Revenue pursuant to ORS 293.250 for processing a request to
+offset against liquidated state debt a state tax refund owed to the debtor. 
+
+       (2) The net
+amount received from the Department of Revenue after deduction of fees charged
+under subsection (1) of this section shall be offset against the debt. [2023
+c.120 §6] 
+
+   
+
+       Note: Section 13 (2), chapter 120,
+Oregon Laws 2023, provides: 
+
+       Sec. 13. (2) Section 6, chapter 120, Oregon
+Laws 2023 [657B.338], applies to amounts owed by a debtor on or after January
+1, 2023. [2023 c.120 §13(2); 2023 c.292 §16b(2)] 
+
+   
+
+       657B.339
+Authority of director to compromise de minimis program debts and interest and
+penalties, retain de minimis overpayments; uncollectible accounts;
+recordkeeping. (1)
+As used in this section, “grant repayment” means a repayment of grant moneys
+awarded to an employer under ORS 657B.200 for which the employer was not
+eligible. 
+
+       (2) When in the
+judgment of the Director of the Employment Department the best interests of the
+Employment Department are served, the director may: 
+
+       (a) Waive, reduce
+or compromise any balance of $10 or less from a contribution due under ORS
+657B.150 or a grant repayment due under ORS 657B.320. 
+
+       (b) Retain any
+overpayment of $10 or less from the following amounts paid: 
+
+       (A) A
+contribution under this chapter. 
+
+       (B) An
+application fee under ORS 657B.210. 
+
+       (C) A grant
+repayment collected under ORS 657B.320. 
+
+       (D) A civil
+penalty assessed under ORS 657B.332. 
+
+       (E) A monetary
+penalty assessed under ORS 657B.925. 
+
+       (c) Waive, reduce
+or compromise any part or all of the interest and penalties, including civil
+penalties and monetary penalties, provided by this chapter with respect to
+contributions, grant repayments, employer-offered benefit plans approved under
+ORS 657B.210 and employer violations. 
+
+       (3) The director
+may determine that the amount of contribution, grant repayment, interest or
+penalty due and unpaid by an employer on a delinquent account is uncollectible,
+and write off such amount, if: 
+
+       (a) The
+delinquent amount has been reduced to the status of a lien or judgment under
+the provisions of this chapter and such lien or judgment has expired; or 
+
+       (b)(A) The
+employer no longer has an active business in Oregon and has not had an active
+business within the three most recently completed calendar years; and 
+
+       (B) There is
+little or no likelihood of recovering the amount due. 
+
+       (4) In making the
+determination under subsection (3) of this section that a delinquent account is
+uncollectible, the director shall consider, among other factors: 
+
+       (a) The
+administrative costs of continued collection efforts in relation to the amount
+due; 
+
+       (b) The
+accessibility of the employer for effective collection actions; and 
+
+       (c) The employer’s
+financial condition and ability to pay the amount due, both current and
+projected. 
+
+       (5) A record
+shall be made showing the reasons for waiving, reducing, compromising or
+writing off amounts under this section. Such record shall be retained for a
+period of seven years from the date the account was written off. [2023 c.120 §8;
+2025 c.94 §1] 
+
+   
+
+       Note: Section 2, chapter 94, Oregon Laws
+2025, provides: 
+
+       Sec. 2. The amendments to ORS 657B.339 by
+section 1 of this 2025 Act apply to: 
+
+       (1) Contributions
+due or paid on or after January 1, 2023. 
+
+       (2) Grant
+repayments due or paid on or after September 3, 2023. 
+
+       (3) Application
+fees paid before, on or after January 1, 2023. 
+
+       (4) Penalties and
+interest assessed on or after January 1, 2023. [2025 c.94 §2] 
+
+   
+
+ EMPLOYMENT DEPARTMENT;
+ADMINISTRATION 
+
+   
+
+ (Generally) 
+
+   
+
+       657B.340
+Family and medical leave insurance program; administration of program; rules;
+state agency assistance. 
+(1) The Director of the Employment Department shall establish a family and
+medical leave insurance program to provide family and medical leave insurance
+benefits to a covered individual as specified in this chapter. 
+
+       (2) Not later
+than September 1, 2022, the director shall adopt rules that are necessary to
+establish the program under subsection (1) of this section, including but not
+limited to rules that: 
+
+       (a) Establish an
+outreach plan for the program to receive input from, and disseminate
+information to, employers and eligible employees. 
+
+       (b) Establish a
+process by which employers may apply for approval of an employer-offered
+benefit plan under ORS 657B.210. 
+
+       (3) The director
+may enter into interagency agreements to perform the duties and functions
+necessary to implement and administer this chapter. 
+
+       (4) Whenever
+possible, the director shall use existing employer and public infrastructure to
+maintain records, conduct outreach and facilitate contributions made to the
+program. 
+
+       (5) All agencies
+of state government, as defined in ORS 174.111, shall, upon request of the
+director, assist in the performance of the director’s duties under this
+chapter, including but not limited to outreach, technical assistance and
+training. [2019 c.700 §33; 2021 c.639 §1; 2022 c.24 §2] 
+
+   
+
+       657B.350 Third
+party administrator; agreements; oversight by director. (1) The Director of the Employment
+Department may enter into an agreement with a third party to implement this
+chapter and to serve as the administrator of the program established under ORS
+657B.340. The director may enter into such an agreement only on a competitive
+bid basis. 
+
+       (2) Every service
+provided by a third party administrator pursuant to an agreement entered into
+under this section is subject to the same requirements provided under this
+chapter as if the services had been provided by the director. 
+
+       (3) A third party
+administrator that enters into an agreement with the director under this
+section is subject to oversight by the director. 
+
+       (4) Costs
+incurred by the director pursuant to an agreement with a third party
+administrator entered into under this section may not be recovered by an
+increase in the contribution rate determined by the director under ORS
+657B.150. [2019 c.700 §34] 
+
+   
+
+       657B.355
+Bureau of Labor and Industries to have oversight for provisions relating to job
+retention, retaliation and discrimination; rules. Notwithstanding any other
+provision under this chapter, the Bureau of Labor and Industries is responsible
+for administrative and regulatory oversight regarding the requirements under
+ORS 657B.060, and the provisions of ORS 657B.070 relating to retaliation and
+discrimination, and shall adopt any rules necessary and proper for the
+administration of those sections. [2025 c.85 §2] 
+
+   
+
+       657B.360
+Determining number of employees employed by employer; replacement workers;
+rules. (1) Subject
+to subsection (2) of this section, for purposes of ORS 657B.060 and 657B.150,
+the Director of the Employment Department shall establish by rule a method to
+determine on an annual basis the number of employees employed by an employer.
+The method shall require that the determination be based on the average number
+of employees employed by the employer in the 12-month period immediately
+preceding the date on which the determination is made. 
+
+       (2) A replacement
+worker who is hired to temporarily replace an eligible employee during a period
+of family leave, medical leave or safe leave shall not be counted as an
+employee for purposes of determining the number of employees employed by an
+employer. [2019 c.700 §35] 
+
+   
+
+       657B.370
+Computation and assessment of employer contributions and interest; jeopardy
+assessments; application for hearing. 
+(1)(a) If an employer files a report for the purpose of determining the amount
+of contributions due under ORS 657B.150 but fails to pay contributions or
+interest, the Director of the Employment Department may assess the amount of
+contributions or interest due on the basis of the information submitted and
+shall give written notice of the assessment to the employer by mail sent to the
+employer’s last known address of record with the director. 
+
+       (b)
+Notwithstanding subsection (5) of this section, if the report is subsequently
+found to be incorrect, additional assessments may be made. 
+
+       (2) If an
+employer fails to file a report when required by the director for the purpose
+of determining the amount of contributions due under ORS 657B.150, the director
+may make an estimate based upon any information of the amount of the wages of
+the employer’s employees for the period or periods for which no report was
+filed and upon the basis of the estimate shall compute and assess the amount of
+contributions payable by the employer. Written notice of the assessment to the
+employer shall be mailed to the employer’s last known address of record with
+the director. 
+
+       (3) If the
+director is not satisfied with a report made by an employer for the purpose of
+determining the amount of contributions due under ORS 657B.150, the director
+may compute the amount required to be paid upon the basis of facts contained in
+the report or of any information obtainable and may make an assessment of the
+amount of the deficiency. Written notice of a deficiency assessment to the
+employer shall be mailed to the employer’s last known address of record with
+the director. 
+
+       (4)(a) If the
+director has reason to believe that an employer or an individual liable under
+ORS 657B.330 is insolvent, or that the collection of any contributions will be
+jeopardized by delaying collection, the director may make an immediate
+assessment of the estimated amount of accrued contributions, noting upon the
+assessment that it is a jeopardy assessment levied under this subsection, and
+may proceed to enforce collection immediately. 
+
+       (b)(A) Interest
+shall not begin to accrue on contributions collected under paragraph (a) of
+this subsection until the due date. 
+
+       (B) Court costs
+may not be charged against an employer or an individual liable under ORS
+657B.330 on any action to enforce collection commenced prior to the due date. 
+
+       (c) In levying an
+assessment under paragraph (a) of this subsection, the director may demand a
+bond or deposit of such security as is necessary to ensure collection of the
+amount of the assessment. 
+
+       (d) Written
+notice of an assessment to an employer or an individual liable under ORS
+657B.330 shall be mailed to the employer’s or individual’s last known address
+of record with the director. 
+
+       (5)(a) All
+assessments provided for in this section shall finally fix the amount of
+contributions due and payable unless: 
+
+       (A) The employer
+or the individual liable under ORS 657B.330 applies to the director for a
+hearing within 20 days after the mailing of the notice of assessment; or 
+
+       (B) The director
+reviews the assessment prior to a decision of the administrative law judge
+pursuant to a hearing. 
+
+       (b) An employer
+or person liable under ORS 657B.320 and 657B.330 that fails to apply for a
+hearing upon an assessment within the time provided or, having applied, fails
+to appear and be heard after due notice of the hearing, is precluded from
+raising any defense to any action, suit or proceeding brought by the director
+for the recovery of contributions based upon the assessment that could have
+been raised in the hearing. 
+
+       (c) The amount of
+contributions assessed under this section shall be subject to the penalties and
+interest provided by ORS 657B.320 and 657B.330. [2019 c.700 §28] 
+
+   
+
+       657B.380
+Advisory committee; membership; terms. 
+(1) The Director of the Employment Department shall establish an advisory
+committee to review issues related to the implementation and administration of
+the family and medical leave insurance program established under ORS 657B.340
+and rulemaking related to the program. 
+
+       (2)(a) The
+advisory committee shall consist of nine members appointed by the director as
+follows: 
+
+       (A) A
+representative of the Employment Department. 
+
+       (B) Four members
+who represent employees. 
+
+       (C) Four members
+who represent employers, at least one of whom represents employers that employ
+fewer than 25 employees. 
+
+       (b) Members shall
+serve for a term of two years and may be reappointed. If there is a vacancy for
+any cause, the director shall make an appointment to become immediately
+effective for the unexpired term. 
+
+       (c) The
+representative of the department shall serve as chairperson of the advisory
+committee. 
+
+       (3) The advisory
+committee shall advise and make recommendations to the director regarding
+issues related to the program, including but not limited to: 
+
+       (a)
+Implementation; 
+
+       (b)
+Administration; and 
+
+       (c) Rulemaking. 
+
+       (4) Members of
+the advisory committee are not entitled to compensation but may be reimbursed
+for actual and necessary travel or other expenses incurred in the performance
+of their official duties. The director shall pay the expenses out of funds
+appropriated to the department under section 59, chapter 700, Oregon Laws 2019. 
+
+       (5) All agencies
+of state government, as defined in ORS 174.111, are directed to assist the
+advisory committee in the performance of the duties of the advisory committee
+and, to the extent permitted by laws relating to confidentiality, to furnish
+information and advice that the members of the advisory committee consider
+necessary to perform their duties. [2019 c.700 §36] 
+
+   
+
+       657B.390
+Employment records; inspection. 
+(1) All employers shall maintain payroll records, including account records
+that document employee contributions and expenses, and employment records that
+reflect the total hours worked by all employees and the amount of leave taken
+by employees under this chapter for the current calendar year and the three
+prior calendar years. 
+
+       (2) The Director
+of the Employment Department may inspect the payroll and employment records of
+employers for the purpose of administering this chapter. Employers must provide
+the director with all pertinent payroll and employment records upon request. 
+
+       (3) When an
+employment agency is acting as an employer, the requirements under subsections
+(1) and (2) of this section shall be the responsibility of the employment
+agency. [2019 c.700 §37] 
+
+   
+
+       657B.400
+Confidentiality of information; disclosures of information by Employment
+Department; rules. 
+(1) Except as provided in subsections (2) to (7) and (10) of this section, all
+information in the records of the Employment Department or a third party
+administrator pertaining to the administration of this chapter: 
+
+       (a) Is
+confidential and for the exclusive use and information of the Director of the
+Employment Department in administering this chapter; 
+
+       (b) May not be
+used in any court action or in any proceeding pending in the court unless the
+director or the State of Oregon is a party to the action or proceeding or
+unless the action or proceeding concerns the establishment, enforcement or
+modification of a support obligation and child support services are being
+provided by the Division of Child Support of the Department of Justice or the
+district attorney pursuant to ORS 25.080; and 
+
+       (c) Is exempt
+from disclosure under ORS 192.311 to 192.478. 
+
+       (2) The
+Employment Department may disclose information: 
+
+       (a) To the extent
+necessary for the payment of benefits or collection of contributions due under
+this chapter: 
+
+       (A) To any
+claimant or employer; or 
+
+       (B) To a legal
+representative, an authorized agent described under ORS 657B.090 or another
+designee authorized by a claimant or employer in accordance with any rules
+adopted by the director regarding the receipt of confidential information on
+behalf of a claimant or employer. 
+
+       (b) Upon request
+to the United States Attorney’s Office. Under this paragraph, the Employment
+Department may disclose an individual’s employment and wage information in
+response to a federal grand jury subpoena or for the purpose of collecting
+civil and criminal judgments issued by a federal court, including restitution
+and special assessment fees. The information disclosed is confidential and may
+not be used for any other purpose. The costs of disclosing information under
+this paragraph shall be paid by the United States Attorney’s Office. 
+
+       (c) Regarding the
+benefit amounts paid to employees, to the extent necessary to exercise the
+authority granted to employers under ORS 657B.030 (2). 
+
+       (3) At the
+discretion of the director and subject to an interagency agreement, the
+Employment Department may disclose, upon request, information: 
+
+       (a) To state or
+local child support enforcement agencies enforcing child support obligations
+for the purposes of establishing child support obligations, locating
+individuals owing child support obligations and collecting child support
+obligations from those individuals. The information disclosed is confidential
+and may not be used for any other purpose. The costs of disclosing information
+under this paragraph shall be paid by the child support enforcement agency. 
+
+       (b) To agencies
+participating in an income and eligibility verification system for the purpose
+of verifying an individual’s eligibility for benefits, or the amount of
+benefits, under a state or federal program such as unemployment insurance,
+temporary assistance for needy families, medical assistance, supplemental
+nutrition assistance, Supplemental Security Income, child support enforcement
+or Social Security. The information disclosed is confidential and may not be
+used for any other purpose. The costs of disclosing information under this
+paragraph shall be paid by the requesting agency. 
+
+       (c) To officers
+and employees of the United States Department of Housing and Urban Development
+and to representatives of a state or local public housing agency for the
+purpose of determining an individual’s eligibility for benefits, or the amount
+of benefits, under a housing assistance program. The information disclosed is
+confidential and may not be used for any other purpose. The costs of disclosing
+information under this paragraph shall be paid by the requesting agency. 
+
+       (4) At the
+discretion of the director and subject to an interagency agreement, the
+Employment Department may disclose information secured from employers: 
+
+       (a) To state
+agencies, federal agencies, local government agencies, public universities
+listed in ORS 352.002 and the Oregon Health and Science University established
+under ORS 353.020, to the extent necessary to properly carry out governmental
+planning, performance measurement, program analysis, socioeconomic analysis or
+policy analysis functions performed under applicable law and at the discretion
+of the director and subject to an interagency agreement. The information
+disclosed is confidential and may not be disclosed by the agencies or
+universities in any manner that would identify individuals, claimants,
+employees or employers. If the information disclosed under this paragraph is
+not prepared for the use of the Employment Department, the costs of disclosing
+the information shall be paid by the agency or university requesting the
+information. 
+
+       (b) As part of a
+geographic information system. Points on a map may be used to represent
+economic data, including the location, employer size and industrial
+classification of businesses in Oregon. Information presented as part of a
+geographic information system may not give specific details regarding a
+business’s address, actual employment or proprietary information. If the
+information disclosed under this paragraph is not prepared for the use of the
+Employment Department, the costs of disclosing the information shall be paid by
+the party requesting the information. 
+
+       (5) At the
+discretion of the director and subject to an interagency agreement, the
+Employment Department may disclose information received from an employer, an
+employee or a claimant: 
+
+       (a) To public
+employees in the performance of their duties under state or federal laws
+relating to the payment of family and medical leave insurance benefits. 
+
+       (b) Pursuant to
+an informed consent, received from the employer, employee or claimant, to
+disclose the information. 
+
+       (c) To the Bureau
+of Labor and Industries for the purpose of performing duties under ORS 279C.800
+to 279C.870, 658.005 to 658.245 or 658.405 to 658.511 or ORS chapter 652, 653
+or 659A. The information disclosed may include the names and addresses of employers
+and employees, payroll data of employers and employees, and information
+obtained for an appeal from a determination under a plan approved under ORS
+657B.210. The information disclosed is confidential and may not be used for any
+other purpose. If the information disclosed under this paragraph is not
+prepared for the use of the Employment Department, the costs of disclosing the
+information shall be paid by the bureau. 
+
+       (d) To the
+Department of Revenue for the purpose of performing its duties under ORS
+293.250 or under the revenue and tax laws of this state and identifying
+potential identity theft and fraud. The information disclosed may include the
+names and addresses of employers and employees, payroll data of employers and
+employees, and particulars, as defined in ORS 314.835. The information
+disclosed is confidential and may not be disclosed by the Department of Revenue
+in any manner that would identify an employer or employee except to the extent
+necessary to carry out the department’s duties under ORS 293.250 or in auditing
+or reviewing any report or return required or permitted to be filed under the
+revenue and tax laws administered by the department. The Department of Revenue
+may not disclose any information received to any private collection agency or
+for any other purpose. If the information disclosed under this paragraph is not
+prepared for the use of the Employment Department, the costs of disclosing the
+information shall be paid by the Department of Revenue. 
+
+       (e) To the
+Department of Consumer and Business Services for the purpose of performing its
+duties under ORS chapters 654, 656 and 731. The information disclosed may
+include, but is not limited to, the name, address, number of employees and
+standard industrial classification code of an employer and payroll data of
+employers and employees. The information disclosed is confidential and may not
+be disclosed by the Department of Consumer and Business Services in any manner
+that would identify an employer or employee except to the extent necessary to
+carry out the department’s duties under ORS chapters 654, 656 and 731,
+including administrative hearings and court proceedings in which the Department
+of Consumer and Business Services is a party. If the information disclosed
+under this paragraph is not prepared for the use of the Employment Department,
+the costs of disclosing the information shall be paid by the Department of
+Consumer and Business Services. 
+
+       (f) To the
+Construction Contractors Board for the purpose of performing its duties under
+ORS chapter 701. The information disclosed to the board may include the names
+and addresses of employers and status of their compliance with this chapter. If
+the information disclosed under this paragraph is not prepared for the use of
+the Employment Department, the costs of disclosing the information shall be
+paid by the board. 
+
+       (g) To the
+Department of Transportation to assist the department in carrying out its
+duties relating to collection of delinquent and liquidated debts, including
+taxes, under ORS 184.610 to 184.665, 184.670 to 184.733 and 805.263, ORS
+chapter 319 and the Oregon Vehicle Code, or in auditing or reviewing any report
+or return required or permitted to be filed under the revenue and tax laws
+administered by the department. The information disclosed may include the names
+and addresses of employers and employees and payroll data of employers and
+employees. The information disclosed is confidential and may not be disclosed
+by the Department of Transportation in any manner that would identify an
+employer or employee except to the extent necessary to carry out the department’s
+duties relating to collection of delinquent and liquidated debts or in auditing
+or reviewing any report or return required or permitted to be filed under the
+revenue and tax laws administered by the department. The Department of
+Transportation may not disclose any information received to any private
+collection agency or for any other purpose. If the information disclosed under
+this paragraph is not prepared for the use of the Employment Department, the
+costs of disclosing the information shall be paid by the Department of
+Transportation. 
+
+       (h) To the
+Department of Human Services and the Oregon Health Authority to assist the
+department and the authority in the collection of debts that the department and
+the authority are authorized by law to collect. The information disclosed may
+include the names and addresses of employers and employees and payroll data of
+employers and employees. The information disclosed is confidential and may not
+be disclosed by the Department of Human Services or the Oregon Health Authority
+in any manner that would identify an employer or employee except to the extent
+necessary for the collection of debts as described in this paragraph. The
+Department of Human Services and the Oregon Health Authority may not disclose
+information received under this paragraph to a private collection agency or use
+the information for a purpose other than the collection of debts as described
+in this paragraph. If the information disclosed under this paragraph is not
+prepared for the use of the Employment Department, the costs of disclosing the
+information shall be paid by the Department of Human Services or the Oregon
+Health Authority. 
+
+       (i) To the State
+Treasurer useful for the purpose of performing the State Treasurer’s duties
+under ORS 98.302 to 98.436, 98.992, 113.235 and 116.253. The information
+disclosed is confidential and may not be used by the State Treasurer for any
+other purpose. If the information disclosed under this paragraph is not
+prepared for the use of the Employment Department, the costs of disclosing the
+information shall be paid by the State Treasurer. 
+
+       (6) At the
+discretion of the director and subject to an interagency agreement, the
+director may disclose information to a public official in the performance of
+the public official’s official duties administering or enforcing laws within
+the public official’s authority and to an agent or contractor of a public
+official. The public official shall agree to assume responsibility for misuse
+of the information by the public official’s agent or contractor. 
+
+       (7) At the
+discretion of the director, the director may disclose information to a
+contractor pursuant to a contract for actuarial services. The contractor shall
+agree to assume responsibility for misuse of the information by the contractor’s
+agent. 
+
+       (8) Any officer
+appointed by or any employee of the director who discloses confidential
+information, except with the authority of the director, pursuant to rules or as
+otherwise required by law, may be disqualified from holding any appointment or
+employment with the Employment Department. 
+
+       (9) Any person or
+any officer or employee of an entity to whom information is disclosed by the
+Employment Department under this section who divulges or uses the information
+for any purpose other than that specified in the provision of law or agreement
+authorizing the use or disclosure may be disqualified from performing any
+service under contract or from holding any appointment or employment with the
+state agency that engaged or employed that person, officer or employee. The
+Employment Department may immediately cancel or modify any information-sharing
+agreement with an entity when a person or an officer or employee of that entity
+discloses confidential information, other than as specified in law or
+agreement. 
+
+       (10) At the
+discretion of the director, the director may disclose information to an
+employee or officer within any division of the Employment Department as
+necessary to conduct research, compile aggregate data from the information
+received and any other purpose deemed necessary by the director to assist the
+director in carrying out the duties under this chapter or other duties under
+ORS chapter 657. 
+
+       (11) The director
+may adopt any rules necessary to implement this section. [2019 c.700 §38; 2023
+c.292 §8; 2025 c.85 §6; 2025 c.93 §4; 2025 c.99 §70] 
+
+   
+
+       Note: Section 16 (5), chapter 292,
+Oregon Laws 2023, provides: 
+
+       Sec. 16. (5) The amendments to ORS 657B.400
+by section 8 of this 2023 Act apply to disclosures of information made by the
+Employment Department on or after September 3, 2023. [2023 c.292 §16(5); 2023
+c.292 §16a(5)] 
+
+   
+
+ (Hearings and Appeals) 
+
+   
+
+       657B.410
+Appeals process, generally; process subject to judicial review; representation
+in proceeding. (1)
+The Director of the Employment Department shall establish a process by which: 
+
+       (a) An employer
+may request a hearing to obtain review of a final decision of the director
+regarding any of the following: 
+
+       (A) Approval or
+denial of an employer’s application for approval of a plan under ORS 657B.210; 
+
+       (B) The
+assessment of penalties under ORS 657B.925; or 
+
+       (C) A
+determination made under ORS 657B.332. 
+
+       (b) A covered
+individual or an authorized agent, as defined in ORS 657B.090, may request a
+hearing to obtain review of a final decision of the director regarding any of
+the following: 
+
+       (A) Approval or
+denial of a claim submitted to the director for payment of family and medical
+leave insurance benefits; 
+
+       (B) The weekly
+benefit amount payable to a covered individual as determined under ORS
+657B.050; 
+
+       (C) Matters
+affecting the covered individual under ORS 657B.040 or 657B.332; or 
+
+       (D) Benefit
+overpayments, including overpayments under ORS 657B.335. 
+
+       (c) A
+self-employed individual or a tribal government may request a hearing to review
+a final decision of the director regarding elective coverage under ORS
+657B.130. 
+
+       (d) An employer
+may request a hearing: 
+
+       (A) To review a
+final decision of the director regarding contributions under this chapter; 
+
+       (B) Regarding
+decisions of the director regarding penalties under this chapter; or 
+
+       (C) To review a
+final decision of the director regarding a grant made available under this
+chapter. 
+
+       (2)
+Notwithstanding ORS 183.315, the process established by the director under this
+section shall comply with provisions for a contested case under ORS chapter 183
+and is subject to judicial review as provided in ORS 183.482. 
+
+       (3)(a)
+Notwithstanding any other law, a person in a proceeding described under this
+section may be represented by legal counsel or by any other representative that
+the person authorizes to represent the person as prescribed by the director by
+rule. The legal counsel or other representative authorized to represent the
+person in the proceeding must comply with any procedures or process regarding
+such representation established by the department by rule, including, but not
+limited to, a rule establishing the maximum amount that the legal counsel or
+other authorized representative may charge for such representation. 
+
+       (b) For purposes
+of this subsection, “person” includes individuals, corporations, associations,
+firms, partnerships, limited liability companies and joint stock companies,
+this state and the political subdivisions of this state. [2019 c.700 §31; 2023
+c.120 §12; 2023 c.292 §9a; 2025 c.93 §5] 
+
+   
+
+       Note: Section 16 (6) and (7), chapter
+292, Oregon Laws 2023, provides: 
+
+       Sec. 16. (6) The amendments to ORS 657B.410
+by section 9a of this 2023 Act apply to hearings regarding final decisions of
+the Director of the Employment Department occurring on or after January 1,
+2023. 
+
+       (7) The
+amendments to ORS 657B.420 by section 10 of this 2023 Act apply to
+determinations by the department that occurred on or after September 3, 2023.
+[2023 c.292 §16(6),(7); 2023 c.292 §16a(6),(7)] 
+
+   
+
+       657B.420
+Appeals of decisions under equivalent employer plan; rules. The Director of the Employment
+Department shall establish by rule a method to resolve disputes between
+employers and employees concerning coverage and benefits provided under a plan
+approved under ORS 657B.210 that may, as appropriate, employ the appeals
+process established under ORS 657B.410 to provide employers and employees an
+opportunity to obtain review of a determination by the director. [2019 c.700 §32;
+2023 c.292 §10] 
+
+   
+
+       Note: See note under 657B.410. 
+
+   
+
+       657B.425
+Dismissal of request or application for hearing. (1) When a request for a hearing
+is made under this chapter, the Director of the Employment Department may
+dismiss the request or application for hearing if: 
+
+       (a) The request
+for hearing is withdrawn by the requesting party; 
+
+       (b) The matter is
+resolved by reversal or amendment of the decision that is the subject of the
+hearing request; 
+
+       (c) The request
+for hearing is filed prior to the date of the written decision or written
+determination that is the subject of the hearing request; or 
+
+       (d) The request
+for hearing is made by a person who is not entitled to a hearing or is not the
+authorized representative of a party who is entitled to a hearing. 
+
+       (2)(a) A
+dismissal by the director under subsection (1) of this section is final unless
+the party whose request for hearing has been dismissed files a request for
+hearing regarding the dismissal within 20 days after the dismissal notice is
+sent electronically or mailed to the party’s last-known address. 
+
+       (b) If the party
+files a timely request under paragraph (a) of this subsection, the hearing
+regarding the dismissal shall be assigned to an administrative law judge from
+the Office of Administrative Hearings. 
+
+       (c) The
+administrative law judge assigned under paragraph (b) of this subsection shall
+determine whether the dismissal was appropriately entered. If the dismissal was
+not appropriately entered, the administrative law judge shall decide the
+underlying issue upon which the hearing was requested. [2023 c.292 §2] 
+
+   
+
+       Note: Section 16 (1), chapter 292,
+Oregon Laws 2023, provides: 
+
+       Sec. 16. (1) Section 2 of this 2023 Act
+[657B.425] applies to requests for hearings made on or after January 1, 2023.
+[2023 c.292 §16(1); 2023 c.292 §16a(1)] 
+
+ (Reports and Reviews) 
+
+   
+
+       Note: Sections 50 and 51, chapter 700,
+Oregon Laws 2019, provide: 
+
+       Sec. 50.
+Review of department expenses. 
+Beginning January 1, 2024, and not more than once each year for three
+consecutive calendar years thereafter, the Director of the Employment
+Department shall conduct a review of the expenses incurred by the Employment
+Department in reviewing plans for approval under ORS 657B.210, including an
+analysis of adequacy of the application fee determined by the department and
+administrative expenses related to request for review of determinations
+regarding approval or denial of applications as provided under ORS 657B.410.
+[2019 c.700 §50; 2021 c.639 §2] 
+
+       Sec. 51.
+Director of Employment Department to report to legislature on progress of
+program implementation. 
+(1)(a) The Director of the Employment Department shall submit to the interim
+committees of the Legislative Assembly related to workforce or business and
+labor, in the manner provided in ORS 192.245, reports summarizing the
+Employment Department’s progress toward implementing the family and medical
+leave insurance program described in ORS chapter 657B. 
+
+       (b) The director
+shall submit the first report not later than February 15, 2020, and a second
+report not later than September 1, 2022. 
+
+       (2) Beginning on
+July 1, 2024, and once during each of the following five consecutive biennia,
+the director shall, to the extent that the director has acquired the
+information, submit to the interim committees of the Legislative Assembly
+related to workforce or business and labor, in the manner provided in ORS
+192.245, a report that includes: 
+
+       (a) The total
+number of claims submitted under ORS 657B.090. 
+
+       (b) The number of
+claims allowed under ORS 657B.100 and the number of claims denied under ORS
+657B.100. 
+
+       (c) The total
+amount of benefits paid out of the Paid Family and Medical Leave Insurance Fund
+established under ORS 657B.430. 
+
+       (d) Data
+regarding the use of moneys in the fund, the solvency of the fund and the
+balance of the fund. 
+
+       (e) The amount of
+contributions collected under ORS 657B.150. 
+
+       (f) The number of
+applications for plan approval submitted under ORS 657B.210, including the
+number of plans approved and the costs the department incurred in reviewing
+such applications. 
+
+       (g) The number of
+applications received by the department for employer assistance and the total
+amounts awarded in grants under ORS 657B.200. 
+
+       (h) A summary of
+any periodic assessments conducted by the director pursuant to section 2 of
+this 2024 Act to determine the solvency of the Paid Family and Medical Leave
+Insurance Fund, including a summary of the information upon which the solvency
+determination was based. 
+
+       (i) A summary of
+any action that was taken by the director under section 2 of this 2024 Act to
+restore the solvency of the fund and the resulting outcomes of such action. 
+
+       (3) The director
+shall include in the reports described in this subsection any recommendations
+made by the advisory committee under ORS 657B.380. [2019 c.700 §51; 2021 c.639 §3;
+2024 c.19 §3] 
+
+   
+
+ FUNDS 
+
+   
+
+       657B.430 Paid
+Family and Medical Leave Insurance Fund. (1) The Paid Family and Medical Leave Insurance Fund
+is established in the State Treasury, separate and distinct from the General
+Fund. The Paid Family and Medical Leave Insurance Fund is declared to be a
+trust fund. 
+
+       (2) The fund
+consists of moneys deposited in the fund from contributions made under ORS
+657B.150 and from penalties, fees, revenues and all other amounts deposited in
+or credited to the fund. Interest earned by the fund shall be credited to the
+fund. 
+
+       (3) Moneys in the
+fund are continuously appropriated to the Director of the Employment Department
+and may be used solely to: 
+
+       (a) Carry out the
+purposes set forth in this chapter, including the payment of administrative
+costs and expenses that the director incurs in carrying out the provisions of
+this chapter; and 
+
+       (b) Pay the
+compensation of the Director of the Employment Department in accordance with
+ORS 657.608. [2019 c.700 §39; 2025 c.43 §5] 
+
+   
+
+       Note: Sections 1 to 3, chapter 66,
+Oregon Laws 2023, provide: 
+
+       Sec. 1. Section 2 of this 2023 Act is
+added to and made a part of ORS chapter 657B. [2023 c.66 §1] 
+
+       Sec. 2.
+Solvency of fund. 
+(1) As used in this section: 
+
+       (a) “Grant” means
+a grant awarded under ORS 657B.200. 
+
+       (b) “Solvency of
+the fund” and “solvent” mean that the cumulative amount of contributions
+collected under the provisions of this chapter [ORS chapter 657B] and deposited
+in the fund are sufficient to pay, in full and in a timely manner, the benefits
+anticipated to be claimed by covered individuals under ORS 657B.090, grants
+awarded under ORS 657B.200 and any costs and expenses associated with
+processing payments of the benefits and grant awards. 
+
+       (2)
+Notwithstanding any other provision under this chapter: 
+
+       (a) No later than
+August 11, 2023, the Director of the Employment Department shall determine
+whether the fund is solvent with respect to the benefits anticipated to be
+claimed and any grant moneys anticipated to be awarded on or after September 3,
+2023. 
+
+       (b) If, pursuant
+to paragraph (a) of this subsection, the director determines that the fund is: 
+
+       (A) Solvent, the
+director shall commence paying benefits and any grant awards on September 3,
+2023. 
+
+       (B) Insolvent,
+the director shall delay the start of benefit payments and grant awards until
+December 3, 2023, and make further quarterly determinations of the solvency of
+the fund under subsection (3) of this section. 
+
+       (3)
+Notwithstanding any other provision of this chapter: 
+
+       (a)(A) If,
+pursuant to subsection (2) of this section, the director determines that the
+fund is insolvent, the director shall, on a quarterly basis, determine whether
+the fund is solvent with respect to the benefits anticipated to be claimed and
+any grants anticipated to be awarded beginning with the first week of the last
+month of the current calendar quarter. 
+
+       (B) Each
+quarterly determination shall be made no later than two weeks immediately
+following the date on which the combined quarterly reports are due under ORS
+657B.150 (12). 
+
+       (b) If, pursuant
+to paragraph (a) of this subsection, the director determines that the fund is: 
+
+       (A) Solvent, the
+director shall commence paying benefits and any grant awards in accordance with
+paragraph (c) of this subsection. 
+
+       (B) Insolvent,
+the director shall continue making quarterly determinations of the solvency of
+the fund, as provided under paragraph (a) of this subsection, until the fund is
+determined to be solvent. 
+
+       (c) The director
+shall commence benefit payments and grant awards under this subsection
+beginning with the first week of the last month of the current calendar quarter
+or 30 days following the notice provided to employers and covered individuals
+under subsection (4) of this section regarding the commencement of benefits or
+grants, whichever is later. 
+
+       (4) The director
+shall provide at least 30 days’ advance notice to employers and covered
+individuals before commencing benefit payments or grants under subsection (3)
+of this section. [2023 c.66 §2] 
+
+       Sec. 3. Section 2 of this 2023 Act is
+repealed on September 3, 2026. [2023 c.66 §3] 
+
+   
+
+       Note: Sections 1 and 2, chapter 19,
+Oregon Laws 2024, provide: 
+
+       Sec. 1. Section 2 of this 2024 Act is
+added to and made a part of ORS chapter 657B. [2024 c.19 §1] 
+
+       Sec. 2.
+Periodic assessments regarding solvency of fund; adjustments to benefits;
+public notice. (1)
+As used in this section: 
+
+       (a) “Family leave
+for parental bonding” means the family leave described under ORS 657B.010
+(18)(a)(A). 
+
+       (b) “Grant” means
+a grant described under ORS 657B.200. 
+
+       (c) “Projected
+expenses” means benefits anticipated to be claimed by covered individuals under
+ORS 657B.090, anticipated grant awards, any anticipated costs and expenses
+associated with processing payments of the benefits and grant awards and any
+other expenses anticipated to be incurred by the Employment Department in
+carrying out the provisions of this chapter [ORS chapter 657B]. 
+
+       (d) “Solvency of
+the fund” and “solvent” mean that the cumulative amount of contributions
+collected under the provisions of this chapter and any other moneys deposited
+in the fund are sufficient to pay, in full and in a timely manner, not less
+than six months of projected expenses. 
+
+       (2) The Director
+of the Employment Department shall periodically assess the Paid Family and
+Medical Leave Insurance Fund established under ORS 657B.430 to make
+determinations regarding the solvency of the fund. The director shall use
+actuarial calculations in making such determinations and may consider any
+relevant information including, but not limited to: 
+
+       (a) The total
+cost of administrative expenses incurred by the department during the six-month
+period immediately preceding a periodic assessment of the fund. 
+
+       (b) The number of
+grant applications received by the department in the calendar year immediately
+preceding a periodic assessment of the fund. 
+
+       (c) The total
+grants awarded in the calendar year immediately preceding a periodic assessment
+of the fund. 
+
+       (d) The average
+amount of weekly benefits paid in the calendar year immediately preceding a
+periodic assessment of the fund. 
+
+       (e) Annual
+predictable birth rate data. 
+
+       (3)
+Notwithstanding any other provision under this chapter, if, pursuant to
+subsection (2) of this section, the director determines that the fund is or may
+be insolvent, the director may take any of the following actions to maintain or
+restore the solvency of the fund: 
+
+       (a) Adjust the
+maximum weekly benefit amount provided under ORS 657B.050 (2)(a) so that the
+maximum weekly benefit amount is less than 120 percent but not less than 100
+percent of the average weekly wage. 
+
+       (b) Adjust the
+weekly benefit amount available to eligible employees under ORS 657B.050 (1)(b)
+such that the employee’s weekly benefit amount is the sum of: 
+
+       (A) 65 percent of
+the average weekly wage; and 
+
+       (B) Not less than
+40 percent of the employee’s average weekly wage that is greater than 65
+percent of the average weekly wage. 
+
+       (4)
+Notwithstanding any other provision under this chapter: 
+
+       (a) Except as
+provided in paragraph (b) of this subsection, if, after taking both of the
+actions authorized under subsection (3)(a) and (b) of this section, it is
+apparent to the director that the fund is or may be insolvent, the director may
+reduce the number of weeks that would otherwise be available to a covered
+individual under ORS 657B.020 (1) to reflect that a covered individual may
+qualify for 10 weeks of family and medical leave insurance benefits per benefit
+year for family leave, medical leave and safe leave taken individually or in
+any combination. 
+
+       (b) Nothing in
+this subsection authorizes the director to reduce the number of weeks that
+would otherwise be available to a covered individual under ORS 657B.020 (1) for
+family leave for parental bonding taken individually or in combination with: 
+
+       (A) Other family
+leave, medical leave or safe leave; and 
+
+       (B) The leave for
+which a covered individual may qualify under ORS 657B.020 (3) [renumbered
+657B.020 (2)]. 
+
+       (5)(a) Whenever
+an adjustment to benefits occurs as a result of any action taken by the
+director pursuant to subsections (3) and (4) of this section, the adjustment
+shall remain effective for not more than five calendar years from the date on
+which the action was taken. 
+
+       (b) The director
+shall discontinue the use of this section to determine appropriate benefits and
+shall resume determining benefits in accordance with ORS 657B.020 and 657B.050
+not later than whichever of the following first occurs: 
+
+       (A) Upon the
+director’s determination that resuming determinations in accordance with the
+provisions of those sections will not cause volatility in the fund or with
+respect to the administration of the family and medical leave insurance
+program. 
+
+       (B) The date
+described under paragraph (a) of this subsection. 
+
+       (6) Any action
+taken by the director under this section shall apply to benefits to be claimed
+in benefit years beginning on or after the first day of the first calendar
+quarter following the date on which the action was taken. 
+
+       (7) The director
+shall provide at least 30 days’ advance notice to the public of any changes to
+benefits resulting from any action taken by the director under this section,
+including the effective date of such changes. The director shall give notice to
+the public by posting the information on the website maintained by the
+department. [2024 c.19 §2] 
+
+   
+
+ MISCELLANEOUS
+PROVISIONS 
+
+   
+
+       657B.440
+Employer required to provide notice advising employees of rights and duties. (1) An employer shall provide
+written notice to each employee of the duties and rights of an eligible
+employee under this chapter in accordance with rules adopted by the Director of
+the Employment Department. At a minimum, the notice must advise the employee of
+the following: 
+
+       (a) The right of
+an eligible employee to claim and receive family and medical leave insurance
+benefits under this chapter; 
+
+       (b) The procedure
+for filing a claim for benefits under ORS 657B.090; 
+
+       (c) That an
+eligible employee must provide notice to an employer before the employee
+commences leave, as required under ORS 657B.040, and a description of the
+penalties for failure to comply with the notice requirements; 
+
+       (d) The right of
+an eligible employee to job protection and benefits continuation under ORS
+657B.060; 
+
+       (e) The right of
+an eligible employee to appeal a decision or determination made by the director
+under ORS 657B.410; 
+
+       (f) That
+discrimination and retaliatory personnel actions against an employee for
+inquiring about the family and medical leave insurance program established
+under ORS 657B.340, giving notification of leave under the program, taking
+leave under the program or claiming family and medical leave insurance benefits
+are prohibited; 
+
+       (g) The right of
+an eligible employee to bring a civil action or to file a complaint for
+violation of ORS 657B.060 or 657B.070; and 
+
+       (h) That any
+health information related to family leave, medical leave or safe leave
+provided to an employer by an employee is confidential and may not be released
+without the permission of the employee unless state or federal law or a court
+order permits or requires disclosure. 
+
+       (2) A notice
+provided to an employee under this section must be in the language the employer
+typically uses to communicate with the employee. 
+
+       (3) The director
+shall make available to employers a model notice that meets the requirements of
+this section. [2019 c.700 §8] 
+
+   
+
+       657B.460
+Construction of chapter. 
+This chapter establishes minimum requirements pertaining to family leave,
+medical leave and safe leave and may not be construed to preempt, limit or
+otherwise diminish the applicability of any employer policy, standard or
+collective bargaining agreement that provides for greater use of family leave,
+medical leave or safe leave under state or federal law. [2019 c.700 §49a] 
+
+   
+
+       Note: Section 49, chapter 700, Oregon
+Laws 2019, provides: 
+
+       Sec. 49.
+Reopening or renegotiation of collective bargaining agreement. Nothing in sections 1 to 51 of
+this 2019 Act [ORS chapter 657B] requires the reopening or renegotiation of a
+collective bargaining agreement entered into before the effective date of this
+2019 Act [September 29, 2019] prior to the date on which the agreement expires.
+[2019 c.700 §49] 
+
+   
+
+       657B.470
+Preemption of local laws relating to paid family and medical leave. Except as provided in ORS
+657B.210, ORS chapter 657B supersedes and preempts any rule, regulation, code
+or ordinance of any unit of a local government, as defined in ORS 174.116,
+relating to paid family and medical leave. [2019 c.700 §61] 
+
+   
+
+       Note: 657B.470 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter
+657B or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       657B.480 State
+agency assistance; intergovernmental agreements. The Director of the Employment
+Department may enter into intergovernmental agreements under ORS chapter 190
+with the Department of Revenue, the Department of Consumer and Business
+Services, the Bureau of Labor and Industries and any other agency to provide
+outreach, technical assistance or compliance services related to this chapter
+on behalf of the director. [2019 c.700 §40] 
+
+   
+
+ PENALTIES 
+
+   
+
+       657B.900
+Criminal penalties. 
+(1) In addition to any penalties otherwise prescribed under this chapter,
+violation of any provision of this chapter is a Class A misdemeanor. 
+
+       (2) If an
+offending employer is a corporation, the president, secretary and the
+treasurer, or officers exercising corresponding functions, are subject to the
+penalties in this section in respect to any duties of which they respectively
+had knowledge or in the proper exercise of their duties ought to have had
+knowledge. 
+
+       (3) Subject to
+ORS 153.022, willful violation of this chapter or of any order issued or rule
+adopted under this chapter, the violation of which is made unlawful or the
+compliance with which is required under this chapter, and for which a penalty
+is neither prescribed in this section nor provided by any other applicable
+statute, is a Class C misdemeanor. Each day the violation continues is
+considered a separate offense. [2019 c.700 §30] 
+
+   
+
+       657B.910
+Penalty when employer fails to file contribution reports or pay contributions
+when due; notice of failure; waiver. 
+(1) On or before June 30 of each year, the Director of the Employment
+Department shall send a written notice to each employer that has failed to file
+all reports as required by the director or to pay all contributions due under
+ORS 657B.150, warning the employer about the penalty provided in subsection (2)
+of this section. 
+
+       (2) If, prior to
+September 1 of each year, an employer has failed to file all required reports
+and pay all contributions due in that year under ORS 657B.150, the employer
+shall pay a penalty equal to one percent of the wages of the employer’s
+employees in the preceding calendar year. 
+
+       (3)(a) On or
+before October 20 of each year, the director shall assess the penalty provided
+in subsection (2) of this section and send written notification of the
+assessment to the employer’s last known address. 
+
+       (b)
+Notwithstanding paragraph (a) of this subsection, the director may waive the
+penalty for good cause if the employer has filed the required reports and
+payments. 
+
+       (4) On or before
+November 10 following a penalty assessment under subsection (3) of this
+section, the employer that is assessed the penalty may submit a written request
+to the director that the penalty be waived. The request must contain the
+specific reasons for the failure to file the required reports or payments prior
+to September 1. 
+
+       (5)(a) If the
+request for waiver of the penalty is denied, the director shall send written
+notification of the denial to the employer at the employer’s last known
+address. The decision denying the request shall become final unless within 20
+days from the date on which the notification of the decision is sent to the
+employer, the employer files a written request for a hearing that states the
+reasons for the request. 
+
+       (b) Hearings,
+decisions and reconsiderations under this section shall be conducted in
+accordance with rules adopted by the director. 
+
+       (c) Judicial
+review of an order assessing a penalty under this section shall be as provided
+for review of orders in contested cases under ORS chapter 183, except that the
+petition must be filed within 20 days after the issuance of the order of the
+director. 
+
+       (6) The penalty
+provided in subsection (2) of this section shall be collected in accordance
+with the provisions of ORS 657B.280, 657B.290, 657B.300 and 657B.310, and any
+amounts collected pursuant to this subsection shall be paid to the Paid Family
+and Medical Leave Insurance Fund established under ORS 657B.430. [2019 c.700 §22] 
+
+   
+
+       657B.920
+Penalty when employer fails to file reports; amount of penalty; request for
+deletion of penalty. 
+(1) If an employer fails to file a combined quarterly report of wages earned
+and contributions paid under ORS 657B.150 by the 10th day of the second month
+following the end of the calendar quarter, the Director of the Employment
+Department, for the first such failure, shall send to the employer at the
+employer’s last known address a written notice warning the employer that a
+subsequent failure to file a report could result in the imposition of a late
+filing penalty. 
+
+       (2) If an
+employer, without good cause, fails to file a timely report within the
+three-year period immediately following a written warning sent pursuant to
+subsection (1) of this section, the employer may be assessed a late filing
+penalty in addition to other amounts due. 
+
+       (3) Except as
+provided in subsection (4) of this section, a penalty assessed under subsection
+(2) of this section shall be 0.02 percent of the wages of the employer’s
+employees rounded to the nearest $100. 
+
+       (4) A penalty
+assessed under subsection (2) of this section for an employer who has no
+employees during the calendar quarter to which a quarterly report relates shall
+be as follows: 
+
+       (a) $10 for the
+first report filed late within the three-year period immediately following a
+written notice sent pursuant to subsection (1) of this section. 
+
+       (b) $25 for the
+first report filed late within the three-year period immediately following the
+assessment of a penalty under subsection (2) of this section. 
+
+       (c) $50 for the
+second report filed late within the three-year period immediately following the
+assessment of a penalty under subsection (2) of this section. 
+
+       (d) $100 for the
+third or subsequent report filed late within the three-year period immediately
+following the assessment of a penalty under subsection (2) of this section. 
+
+       (5)(a) A penalty
+assessed under this section is final unless, within 20 days after the date the
+assessment is mailed to the last known address of the employer, the employer
+requests that the penalty be deleted. The request must be in writing and state
+the reason why the report was filed late. 
+
+       (b) If the
+director determines that the employer had good cause for filing the report
+late, the penalty shall be deleted. If it is determined there was not good
+cause for filing the report late, the request for deletion shall be denied. 
+
+       (6)(a) A
+determination denying the request for deletion is final unless, within 20 days
+after the date the determination is mailed to the last known address of the
+employer, the employer files a request for hearing. The request for hearing
+must be in writing and state the reasons why the determination should not be
+affirmed. 
+
+       (b) Judicial
+review of the determination of denial shall be as provided for review of orders
+in contested cases in ORS chapter 183, except that the request for hearing must
+be filed within 20 days after the issuance of the determination of the director
+or a designated representative. [2019 c.700 §27] 
+
+   
+
+       657B.925
+Penalties for employer violation of requirements applicable to employer-offered
+benefit plans. (1)
+If the Director of the Employment Department determines that an employer that
+offers benefits pursuant to a plan approved under ORS 657B.210 has at any time
+violated any requirements applicable to plans approved under ORS 657B.210, the
+director may assess the following penalties against the employer: 
+
+       (a) $1,000 for
+the first violation. 
+
+       (b) $2,000 for
+the second and each subsequent violation. 
+
+       (2) The director
+may waive collection of a penalty assessed under subsection (1) of this section
+if the employer corrects the violation within 30 days of receiving a notice of
+the violation and the notice is for a first violation. 
+
+       (3) The director
+may waive collection of any penalties if the director determines the violation
+to be an inadvertent error by the employer. 
+
+       (4) Monetary
+penalties collected under this section shall be deposited in the Paid Family
+and Medical Leave Insurance Fund established under ORS 657B.430. 
+
+       (5) The decision
+of the director to assess a penalty under this section shall become final
+unless within 20 days following the date of the notice informing the employer
+of the penalty, the employer submits a written request for a hearing under ORS
+657B.410 to review the director’s decision. A decision of the director to
+assess a penalty under this section does not authorize the collection of the
+penalty until the decision becomes final. [2023 c.120 §7] 
+
+   
+
+       Note: Section 13 (3), chapter 120,
+Oregon Laws 2023, provides: 
+
+       Sec. 13. (3) Section 7, chapter 120, Oregon
+Laws 2023 [657B.925], applies to penalties assessed on or after September 3,
+2023. [2023 c.120 §13(3); 2023 c.292 §16b(3)] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

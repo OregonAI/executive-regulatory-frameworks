@@ -1,0 +1,65 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: ors-40.385
+title: "Rule 615. Exclusion of witnesses"
+doc_type: statute
+citation: "ORS 40.385"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors040.html"
+source_format: html
+retrieved: "2026-07-26"
+source_sha256: "9eeccb80e2e53e0f5c13c05ad03bd5bb1969874c589b08fc7aa955343a8e8f41"
+snapshot_id: ors-chapter-40
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+last_amended: 2003
+enacted: 1981
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-26"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-40"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors040.html> (retrieved 2026-07-26, 2025 Edition).
+
+# Rule 615. Exclusion of witnesses (ORS 40.385)
+
+## At a glance
+
+ORS 40.385 — Rule 615. Exclusion of witnesses. Chapter 40 (Evidence Code), 2025 Edition.
+
+## Full text
+
+40.385 Rule 615. Exclusion of witnesses. At the request of a party the court may order witnesses excluded until the time of final argument, and it may make the order of its own motion. This rule does not authorize exclusion of:
+
+(1) A party who is a natural person;
+
+(2) An officer or employee of a party which is not a natural person designated as its representative by its attorney;
+
+(3) A person whose presence is shown by a party to be essential to the presentation of the party’s cause; or
+
+(4) The victim in a criminal case. [1981 c.892 §56; 1987 c.2 §5; 2003 c.14 §20]
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors040.html> · retrieved 2026-07-26 · sha256 `9eeccb80e2e53e0f5c13c05ad03bd5bb1969874c589b08fc7aa955343a8e8f41`
+  (chapter snapshot `_meta/snapshots/ors-chapter-40.html`)
+- See [CHANGELOG](./CHANGELOG.md).

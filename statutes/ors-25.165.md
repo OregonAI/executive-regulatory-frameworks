@@ -1,0 +1,304 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: ors-25.165
+title: "Application of support payments; rules"
+doc_type: statute
+citation: "ORS 25.165"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors025.html"
+source_format: html
+retrieved: "2026-07-26"
+source_sha256: "05698826ca8619ff6f2697352b2960dcfed1348ed58999a088a7bbbc185a2425"
+snapshot_id: ors-chapter-25
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+last_amended: 2025
+enacted: 1985
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-26"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by:
+    - oar-137-055-6022
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-25"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors025.html> (retrieved 2026-07-26, 2025 Edition).
+
+# Application of support payments; rules (ORS 25.165)
+
+## At a glance
+
+ORS 25.165 — Application of support payments; rules. Chapter 25 (Child Support Services), 2025 Edition.
+
+## Full text
+
+25.165 Application of support payments; rules. The Division of Child Support of the Department of Justice shall adopt rules that:
+
+(1) Require distribution of payments to child, medical or spousal support obligations and arrears in any sequence that is consistent with federal law;
+
+(2) Permit the division to develop criteria for when the division may override the debtor’s designation of the particular support debt to which the payment of child support or spousal support is applied; and
+
+(3) Provide the manner in which payments of child, medical or spousal support shall be applied to principal and interest that is due and owing on such obligations and arrears, irrespective of any contrary law. [2017 c.458 §2] Note: 25.165 was added to and made a part of ORS chapter 25 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 25.166 Support payment due dates.
+
+(1) Any court order or administrative order issued or modified in a proceeding under ORS 25.501 to 25.556 or ORS chapter 107, 108, 109, 110, 419B or 419C that contains an order for the payment of child support or spousal support must specify an initial due date and year for the payment of support that is on the first day of a calendar month, with subsequent payments due on the first day of each subsequent month for which the support is payable.
+
+(2) For purposes of support enforcement, any support payment that becomes due and payable on a day other than the first day of the month in which the payment is due shall be enforceable by income withholding as of the first day of that month.
+
+(3) Any court order or administrative order that contains an award of child, medical or spousal support that accrues on other than a monthly basis may, for income withholding and administrative support billing purposes only, be converted to a monthly amount.
+
+(4) Support payments become delinquent only if not paid in full within one month of the payment due date. A monthly child support obligation that is to be paid in two or more installments does not become delinquent until the obligation is not paid in full by the due date for the first installment in the next month. This subsection does not apply to the accrual of interest under ORS 82.010.
+
+(5) Subsections
+
+(2) and
+
+(3) of this section do not apply to the determination or issuance of support arrearage liens, installment arrearage liens, judgment liens, writs of garnishment or any other action or proceeding that affects property rights under ORS chapter 18. [2017 c.462 §1; 2019 c.13 §12; 2019 c.291 §5] Note: 25.166 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 25 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 25.167 Procedure for determining arrearages. This section establishes procedures for determining the amount of arrearage and for making a record of arrearage of support payments. All of the following apply to this section:
+
+(1) A record of support payment arrearage may be established by: (a) Court order; (b) A governing child support judgment issued under ORS 25.091 or 25.531; (c) Administrative order issued under ORS 25.513 or 25.540; (d) Stipulation of the parties; or (e) The procedures under subsection
+
+(2) of this section whenever an existing child or spousal support case enters the Department of Justice records system without a current payment record maintained by any court clerk.
+
+(2) When allowed under subsection
+
+(1) of this section, arrearage amounts may be established under this subsection. All of the following apply to this subsection: (a) The obligee or obligor may execute a certificate in a form acceptable to the Department of Justice that states the total amount owed or the payment history in as much detail as is necessary to demonstrate the periods and amounts of any arrearage. (b) The person making the certificate shall file the original certificate with the court in which the support judgment was entered. When a governing child support judgment has been issued, the person making the certificate shall file the original certificate with the court that issued the governing child support judgment. (c) The person making the certificate shall serve a true copy of the certificate upon the other party together with a notice that the certificate will be the basis of a permanent record unless the other party files objections. (d) For objections to be valid under paragraph (c) of this subsection, the other party must file the objection with the court within 30 days from the date of service of the certificate and must serve true copies of the objections on both the party who filed the certificate and the entity responsible for child support services under ORS 25.080. Service under this paragraph may be by regular first class mail or, if authorized by the recipient, electronic mail or other electronic delivery method described by the administrator by rule. (e) If objections are filed within the time allowed, the party filing the certificate must file a supplemental certificate that is in a form acceptable to the department and that provides any information concerning the payment history that the department determines necessary. (f) If objections are filed within the time allowed, the district attorney or the Division of Child Support shall cause the case to be set for a court hearing. At the hearing, the court shall consider the correctness of the certificate but may not consider objections to the merits of the support judgment. The parties may settle the case by written agreement anytime before the court hearing. Notice of the court hearing shall be served upon the party filing the objections as authorized in ORCP 9 B. (g) If no objections are filed under this subsection within the time allowed, the amount of arrearage stated in the certificate is the amount owed for purposes of any subsequent action. The district attorney or the Division of Child Support shall file with the court a certificate stating the arrearage established under this paragraph.
+
+(3) When an application to enroll in child support services is made under ORS 25.164, an agency or court may not take or allow any ex parte enforcement action on amounts owed as arrearage from before the time that the Department of Justice commences support accounting and disbursement until the amount is established under this section. This subsection does not prohibit or limit any enforcement action on support payments that become due subsequent to the department’s commencement of support accounting and disbursement under ORS 25.164.
+
+(4) In any determination under this section, a canceled check, payable to the obligee, indorsed by the obligee or deposited to an account of the obligee, drawn on the account of the obligor and marked as child support shall be prima facie evidence that child support was paid to the obligee in the amount shown on the face of the check. It is immaterial that the check was signed by a person other than the obligor, provided that the person who signed the check was an authorized signatory of checks drawn on the account. [Formerly 25.330; 2003 c.146 §7; 2003 c.576 §298; 2009 c.352 §7; 2011 c.318 §1; 2025 c.99 §16] 25.170 Proceedings to require delinquent obligor to appear for examination of financial circumstances. When a support obligation is more than one month in arrears, the Attorney General or a district attorney may upon motion obtain an order requiring the obligor to appear for the purpose of examination regarding the obligor’s financial circumstances. The court shall require the obligor to appear at a time and date certain at such place as may be appropriate. The order to appear shall inform the obligor that the obligor’s answers may be used in subsequent enforcement and possible criminal proceedings, and that the obligor has a right to be represented by an attorney at the examination. The order shall be served upon the obligor in the same manner as service of summons. The order to appear shall also be provided to the obligee by regular first class mail or, if authorized by the obligee, by electronic mail or other electronic delivery method as described by the administrator by rule. The obligee shall have the right to attend any such examination. [Formerly 23.835; 1989 c.599 §1; 1993 c.596 §4; 2025 c.99 §17] 25.180 Examination of obligor’s financial circumstances.
+
+(1) The examination shall be conducted under oath by an employee of the Department of Justice or district attorney. The employee shall inform the obligor that the obligor’s answers may be used in subsequent enforcement and possible criminal proceedings, and that the obligor has a right to be represented by an attorney at the examination. A record of the examination may be made by either stenographic or electronic means. The obligor may be examined in regard to the obligor’s income and property, and to any matter relevant to the obligor’s ability to pay support.
+
+(2) An obligee or the obligee’s attorney may examine the obligor in a proceeding conducted under this section. [Formerly 23.837; 1989 c.599 §2; 1993 c.596 §5] 25.190 Continuance of proceedings; certification of matter to court; service of notice to obligor and obligee.
+
+(1) The examination may be continued for further review of the obligor’s financial circumstances and employment, or the matter may be certified to the court for a contempt hearing on the issue of failure to pay support as ordered. If the examination is to be continued for further review or is to be certified to the court for a contempt hearing, the obligor shall be served at the examination with a notice stating the time, date and place for further examination or hearing before the court. Service may be made by an employee of the Department of Justice or district attorney.
+
+(2) Any notice served upon the obligor regarding a continuation of the examination or regarding the certification of the matter to the court for a contempt hearing must also be served upon the obligee by regular first class mail or, if authorized by the obligee, by electronic mail or other electronic delivery method as described by the administrator by rule. [Formerly 23.842; 1989 c.599 §3; 1993 c.596 §6; 2025 c.99 §18] 25.200 Arrest of obligor for failure to appear.
+
+(1) If the obligor fails to appear for examination or further examination, the Attorney General or a district attorney may apply to the court which issued the order to appear for an order directing the issuance of a warrant for the arrest of the obligor. The motion shall be accompanied by an affidavit which shall state the relevant facts and whether the obligor contacted the Department of Justice or district attorney, as appropriate. If the court finds that the obligor had notice and failed to appear, the court shall order the issuance of a warrant for the arrest of the obligor in order to bring the obligor before the court to show cause why the obligor should not be held in contempt for a failure to appear as ordered.
+
+(2) If the matter has been certified to the court for a contempt hearing and the obligor, having been properly served, fails to appear, the court shall order the issuance of a warrant for the arrest of the obligor. Upon arrest, the obligor shall be brought before the court to show cause why the obligor should not be held in contempt for a failure to appear as ordered. [Formerly 23.845; 1989 c.599 §4] 25.210 Use of obligor’s property for delinquent support payments. If by examination of the obligor it appears that the obligor has any property liable to execution, the court, upon motion of the Attorney General or a district attorney, shall order that the obligor apply the same in satisfaction of the arrears or that the property be levied on by execution, or both. [Formerly 23.847; 1989 c.599 §5] 25.213 Assignment of proceeds of insurance policy to secure support obligation. If by examination of the obligor under ORS 25.170, it appears that the obligor is the beneficiary and owner of an insurance policy on the life of the child, the court, upon motion of the Attorney General or a district attorney, may order that the obligor assign to the obligee the rights to as much of the proceeds of the insurance policy as necessary to secure the obligation to make support payments, if assignment is permitted in the policy. This assignment shall be in addition to any other security ordered by the court. [1997 c.54 §2] 25.220 Computer records of administrator; evidence of authenticity not required in support proceedings; evidentiary effect.
+
+(1) In any proceeding to establish, enforce or modify a support obligation, extrinsic evidence of authenticity is not required as a condition precedent to the admission of a computer record of the administrator that may reflect the employment records of a parent, the support payment record of an obligor, the payment of public assistance, the amounts paid, the period during which public assistance was paid, the persons receiving or having received assistance and any other pertinent information, if the record bears a seal purporting to be that of the administrator and is certified as a true copy by original, electronic or facsimile signature of a person purporting to be an officer or employee of the administrator. Records certified in accordance with this section constitute prima facie evidence of the existence of the facts stated therein.
+
+(2) To the extent permitted under federal and state law, obligors and obligees, and their attorneys, may obtain copies of such records upon request made to the administrator. [Formerly 23.855; 1989 c.519 §1; 1997 c.704 §23; 1999 c.735 §19; 2019 c.291 §6] 25.230 Court authorized to require security for support payments. Whenever a court has entered an order for the payment of support, the court may provide for such security, bond or other guarantee satisfactory to the court to secure the obligation to make support payments. [Formerly 23.865] 25.240 Order to pay support by parent with legal custody of minor. Notwithstanding any other law, when a court or the administrator has the authority under ORS chapter 107, 108, 109 or 110 or ORS 25.501 to 25.556 or 419B.400 to 419B.406 to require a parent without legal custody to pay support for a minor child, the court or administrator may require a parent with legal custody to pay support for the child as long as that parent does not have physical custody of the child or is not providing the child with the necessities of life, including but not limited to lodging, food and clothing. [1985 c.610 §11; 1993 c.33 §368; 1995 c.608 §28; 2001 c.455 §5; 2019 c.13 §13; 2021 c.597 §48] 25.241 Suspension of enforcement or holdback of moneys received during pendency of certain actions; rules.
+
+(1) Subject to subsection
+
+(2) of this section, when an action is pending to modify, terminate, satisfy, vacate or set aside a support order, the administrator may: (a) Suspend enforcement of the support order; or (b) Hold some or all moneys received from, or received on behalf of, an obligor under a support order for possible refund, reallocation or redistribution upon resolution of the pending action.
+
+(2) The Department of Justice may suspend enforcement of a support order or hold moneys received from, or received on behalf of, an obligor under a support order as described in subsection
+
+(1) of this section if the administrator determines that: (a) Collection of child support will impair the ability of the obligor with physical custody of all of the parties’ children to provide direct support to the children; or (b) Resolution of the pending action will result in: (A) A payee receiving more moneys than are due to the payee; or (B) An adjustment that may cause an overpayment in favor of the state under ORS 25.125 (2).
+
+(3) The administrator shall notify the parties when it suspends enforcement of a support order or holds moneys received under a support order under subsection
+
+(1) of this section.
+
+(4) Any party may request an administrative review of the administrator’s actions under subsections
+
+(1) and
+
+(2) of this section by submitting a written request for administrative review to the department. No later than 30 days following the receipt of a written request for administrative review, the department shall conduct an administrative review to determine if the department will resume enforcement of the support order or release moneys received under the support order to a party. A party may appeal the administrator’s decision under ORS 183.484.
+
+(5) The department shall adopt rules to carry out the provisions of this section. [2019 c.290 §2] Note: 25.241 was added to and made a part of ORS chapter 25 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 25.243 Grievance procedure; rules. In addition to any other hearing rights authorized by law, an applicant for services provided under ORS 25.080 and any party to a child support order for which services are provided under ORS 25.080 may file a grievance with the Department of Justice concerning any service provided under ORS 25.080. The department shall adopt rules establishing a process for handling grievances under this section. The process must provide that grievances not involving a public child support agency in another state be addressed no later than 90 days after the grievance is submitted to the department. [1995 c.608 §45; 2003 c.73 §23] 25.245 Rebuttable presumption of inability to pay child support when parent receiving certain assistance payments; rules.
+
+(1) Notwithstanding any other provision of Oregon law, a parent who is eligible for and receiving cash payments under ORS 412.001 to 412.069, Title IV-A of the Social Security Act, the general assistance program as provided in ORS chapter 411 or a general assistance program of another state or tribe, the Oregon Supplemental Income Program or the federal Supplemental Security Income Program shall be rebuttably presumed unable to pay child support and a child support obligation does not accrue unless the presumption is rebutted.
+
+(2) Each month, the Department of Human Services shall identify those persons receiving cash payments under the programs listed in subsection
+
+(1) of this section that are administered by the State of Oregon and provide that information to the administrator. If benefits are received from programs listed in subsection
+
+(1) of this section that are administered by other states, tribes or federal agencies, the obligor shall provide the administrator with written documentation of the benefits. The Department of Human Services shall adopt rules to implement this subsection.
+
+(3) The administrator shall refer to the information provided in subsection
+
+(2) of this section prior to establishing any child support obligation. Within 30 days following identification of persons under subsection
+
+(2) of this section, the entity responsible for child support services under ORS 25.080 shall provide notice of the presumption to the obligee and obligor and shall inform all parties to the support order that, unless a party objects as provided in subsection
+
+(4) of this section, child support shall cease accruing beginning with the support payment due on or after the date the obligor first begins receiving the cash payments and continuing through the support payment due in the last month in which the obligor received the cash payments. The entity responsible for child support services shall serve the notice on the obligee in the manner provided for the service of summons in a civil action, by certified mail, return receipt requested, or by any other mail service with delivery confirmation and shall provide the notice to the obligor by regular first class mail to the obligor’s last-known address or, if authorized by the obligor, by electronic mail or other electronic delivery method described by the administrator by rule. The notice must specify the month in which cash payments are first made and must contain a statement that the administrator represents the state and that low-cost legal counsel may be available.
+
+(4) A party may object to the presumption by sending an objection to the entity responsible for child support services under ORS 25.080 within 30 days after the date of service of the notice. The objection must describe the resources of the obligor or other evidence that might rebut the presumption of inability to pay child support. The entity receiving the objection shall cause the case to be set for a hearing before a court or an administrative law judge. The court or administrative law judge may consider only whether the presumption has been rebutted.
+
+(5) If no objection is made, or if the court or administrative law judge finds that the presumption has not been rebutted, the Department of Justice shall discontinue billing the obligor for the period of time described in subsection
+
+(3) of this section and no arrearage shall accrue for the period during which the obligor is not billed. In addition, the entity providing child support services shall file with the circuit court in which the support order or judgment has been entered a copy of the notice described in subsection
+
+(3) of this section or, if an objection is made and the presumption is not rebutted, a copy of the administrative law judge’s order. (6)(a) Within 30 days after the date the obligor ceases receiving cash payments under a program listed in subsection
+
+(1) of this section, the Department of Justice shall provide notice to all parties to the support order: (A) Specifying the last month in which a cash payment was made; (B) Stating that the payment of those benefits has terminated and that by operation of law billing and accrual of support resumes; and (C) Informing the parties of their rights to request a review and modification of the support order based on a substantial change in circumstance or pursuant to ORS 25.287 or any other provision of law. (b) The notice must include a statement that the administrator represents the state and that low-cost legal counsel may be available. (c) The entity providing child support services shall file a copy of the notice required by paragraph (a) of this subsection with the circuit court in which the support order or judgment has been entered.
+
+(7) Receipt by a child support obligor of cash payments under any of the programs listed in subsection
+
+(1) of this section shall be sufficient cause for a court or administrative law judge to allow a credit and satisfaction against child support arrearage for months that the obligor received the cash payments.
+
+(8) The notice and proposed order required by ORS 25.511 must include notice of the presumption, nonaccrual and arrearage credit rights provided for in this section.
+
+(9) The presumption, nonaccrual and arrearage credit rights created by this section shall apply whether or not child support services are being provided under Title IV-D of the Social Security Act.
+
+(10) Application of the presumption, nonaccrual and arrearage credit rights created by this section does not constitute a modification but does not limit the right of any party to seek a modification of a support order based upon a change of circumstances or pursuant to ORS 25.287 or any other provision of law. In determining whether a change in circumstances has occurred or whether three years have elapsed, or such shorter cycle as determined by rule of the Department of Justice, since entry of a support order, the court or administrative law judge may not consider any action taken under this section as entry of a support order. The presumption stated in subsection
+
+(1) of this section applies in any modification proceeding. [1991 c.520 §3; 1993 c.799 §1; 1997 c.704 §24; 2001 c.104 §5; 2001 c.455 §6; 2003 c.75 §73; 2003 c.576 §299; 2007 c.861 §11; 2007 c.878 §3; 2009 c.80 §1; 2011 c.318 §2; 2025 c.99 §19] 25.247 Rebuttable presumption of inability to pay child support when obligor incarcerated; objection; reinstatement of support order; rules.
+
+(1) An obligor who is incarcerated for a period of 180 or more consecutive days shall be rebuttably presumed unable to pay child support and a child support obligation does not accrue for the duration of the incarceration unless the presumption is rebutted as provided in this section or as determined by the court.
+
+(2) The Department of Justice and the Department of Corrections shall enter into an agreement to conduct data matches to identify the obligors described in subsection
+
+(1) of this section.
+
+(3) Within 30 days following identification of an obligor described in subsection
+
+(1) of this section whose child support obligation has not already been modified due to incarceration, the entity responsible for child support services under ORS 25.080 shall provide notice of the presumption to the obligee and obligor and shall inform all parties to the support order that, unless a party objects as provided in subsection
+
+(4) of this section, child support shall cease accruing beginning with the first day of the first month that follows the obligor becoming incarcerated for a period of at least 180 consecutive days and continuing through the support payment due in the last month prior to the reinstatement of the support order as provided in subsection
+
+(8) of this section. The entity shall serve the notice on the obligee in the manner provided for the service of summons in a civil action, by certified mail, return receipt requested, or by any other mail service with delivery confirmation and shall serve the notice to the obligor by regular first class mail to the obligor’s last-known address or, if authorized by the obligor, by electronic mail or other electronic delivery method described by the administrator by rule. The notice must specify the month in which the obligor became incarcerated and must contain a statement that the administrator represents the state and that low-cost legal counsel may be available.
+
+(4) Before the support order is suspended, a party may object to the presumption by sending an objection to the entity that served the notice under subsection
+
+(3) of this section within 30 days after the date of service of the notice. The objection must describe the resources of the obligor or other evidence that rebuts the presumption of inability to pay child support. The entity receiving the objection shall cause the case to be set for a hearing before a court or an administrative law judge. The court or administrative law judge may consider only whether the presumption has been rebutted.
+
+(5) If no objection is made under subsection
+
+(4) of this section, or if the court or administrative law judge finds that the presumption has not been rebutted, the administrator shall discontinue billing the obligor for the period of time described in subsection
+
+(3) of this section and no arrearage shall accrue for the period during which the obligor is not billed. In addition, the entity providing child support services shall file with the circuit court in which the support order or judgment has been entered a copy of the notice described in subsection
+
+(3) of this section or, if an objection is made and the presumption is not rebutted, a copy of the court’s or administrative law judge’s order.
+
+(6) After the suspension of a support order, a party may object to the presumption of inability to pay by sending an objection to the entity that served the notice under subsection
+
+(3) of this section. The objection must describe the evidence of ability to pay that was not available at the time the order was suspended. The entity receiving the objection shall cause the case to be set for a hearing before a court or an administrative law judge. The court or administrative law judge may consider only whether the presumption has been rebutted. In making the determination, the court or administrative law judge shall consider any evidence presented by a party of the expenses an obligor will incur reintegrating into society following release from incarceration.
+
+(7) If an objection is made under subsection
+
+(6) of this section and the court or administrative law judge finds that the presumption has been rebutted, the support order will be reinstated at 50 percent of the previously ordered support amount on the first day of the first month following the finding by the court or administrative law judge.
+
+(8) An order that has been suspended as provided in subsection
+
+(3) of this section will automatically be reinstated at 50 percent of the previously ordered support amount on the first day of the first month that follows the 120th day after the obligor’s release from incarceration. (9)(a) Within 30 days following reinstatement of the order pursuant to subsection
+
+(8) of this section, the administrator shall provide notice to all parties to the support order: (A) Specifying the last date on which the obligor was incarcerated; (B) Stating that by operation of law, billing and accrual of support resumed on the first day of the first month that follows the 120th day after the obligor’s release from incarceration; and (C) Informing the parties that the administrator will review the support order for purposes of modification of the support order as provided in subsection
+
+(10) of this section within 60 days following reinstatement of the order. (b) The notice must include a statement that the administrator represents the state and that low-cost legal counsel may be available. (c) The entity providing child support services shall file a copy of the notice required by paragraph (a) of this subsection with the circuit court in which the support order or judgment has been entered.
+
+(10) Within 60 days of the reinstatement under subsection
+
+(7) or
+
+(8) of this section, the administrator shall review the support order for purposes of modifying the support order. Reinstatement of support after an order has been suspended under this section is considered a substantial change of circumstances for purposes of child support modification proceedings.
+
+(11) Proof of incarceration for at least 180 consecutive days is sufficient cause for the administrator, court or administrative law judge to allow a credit and satisfaction against child support arrearages for each month that the obligor was incarcerated or that is within 120 days following the obligor’s release from incarceration unless the presumption of inability to pay has been rebutted.
+
+(12) Orders modified to zero prior to January 1, 2018, remain in force with reinstatement at the full amount ordered by the court occurring 61 days after release. Such orders are not subject to suspension and reinstatement as provided in this section.
+
+(13) The provisions of subsections
+
+(1) and
+
+(11) of this section apply regardless of whether child support services are being provided under Title IV-D of the Social Security Act.
+
+(14) The Department of Justice shall adopt rules to implement this section.
+
+(15) As used in this section, “support order” means a judgment or administrative order that creates child support rights and that is entered or issued under ORS 419B.400 or this chapter or ORS chapter 107, 108, 109 or 110. [2017 c.464 §2; 2019 c.291 §7; 2021 c.500 §1; 2021 c.597 §49; 2025 c.99 §20] 25.250 [1987 c.427 §1; repealed by 1993 c.798 §21] 25.255 [1989 c.812 §2; 1991 c.67 §4; 1991 c.519 §2; 1993 c.33 §286; 1993 c.800 §1; 1995 c.506 §§12,12a; 1999 c.80 §10; 2003 c.73 §24a; 2003 c.75 §74; repealed by 2003 c.637 §14] 25.260 Confidentiality of records; rules.
+
+(1) Unless otherwise authorized by law, child support records, including data contained in the Oregon Child Support Program’s automated system, are confidential and may be disclosed or used only as necessary for the administration of the program.
+
+(2) In administering the Oregon Child Support Program, the program may: (a) In accordance with rules adopted under subsection
+
+(6) of this section, report abuse as defined in ORS 419B.005 if the abuse is discovered while providing program services. (b) Extract and exchange information from other databases as necessary to carry out the program’s responsibilities under state and federal law.
+
+(3) The program may compare and share information with public and private entities as necessary to carry out the program’s responsibilities under state and federal law.
+
+(4) The program may exchange information with state agencies administering the following programs as necessary for the Oregon Child Support Program and the state agencies to perform their responsibilities under state and federal law: (a) Programs funded under Title IV, XIX or XXI of the Social Security Act; and (b) The Supplemental Nutrition Assistance Program under ORS 411.806 to 411.845.
+
+(5) In addition to any penalty to which an individual may be subject under ORS 25.990, an employee of the Department of Justice, of a district attorney or of the Department of Human Services who discloses or uses the contents of any records in violation of subsection
+
+(1) of this section is subject to discipline, up to and including dismissal from employment.
+
+(6) The Department of Justice shall adopt rules consistent with federal regulations governing confidentiality of Oregon Child Support Program information. [1989 c.812 §3(1); 1991 c.758 §2; 1995 c.609 §7; 1999 c.80 §72; 2003 c.450 §1; 2005 c.22 §16; 2019 c.291 §8; 2025 c.99 §21] 25.265 Access to information in Federal Parent Locator Service; rules. The Department of Justice shall adopt rules establishing a procedure by which a person authorized under federal law may access information in the Federal Parent Locator Service. [1997 c.746 §22a; 2003 c.73 §25] Note: 25.265 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 25 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. FORMULA FOR DETERMINING AMOUNT OF CHILD SUPPORT 25.270 Legislative findings. The Legislative Assembly finds that:
+
+(1) The federal Family Support Act of 1988 mandates that the state must establish a formula for child support award amounts that is applicable in any judicial or administrative proceeding for the award of child support.
+
+(2) It is further mandated that the amount of child support determined by the formula must be presumed to be the correct amount unless rebutted by a specific finding on the record that the application of the formula would be unjust or inappropriate in the particular case as determined under criteria established by the state.
+
+(3) It is also mandated that the formula is to be reviewed at least once every four years to ensure that the application of the formula results in appropriate child support awards.
+
+(4) There is a need for uniformity in child support awards, and child support awards often are based upon noneconomic factors and are inadequate in terms of the needs of the child.
+
+(5) The Division of Child Support of the Department of Justice is the appropriate agency to establish the required formula. [1989 c.811 §2; 2025 c.99 §22] 25.275 Formula for determining child support awards; criteria to be considered; mandated standards; reduction; rules.
+
+(1) The Division of Child Support of the Department of Justice shall establish by rule a formula for determining child support awards in any judicial or administrative proceeding. In establishing the formula, the division shall take into consideration the following criteria: (a) All earnings, income and resources of each parent, including real and personal property; (b) The earnings history and potential of each parent; (c) The reasonable necessities of each parent; (d) The ability of each parent to borrow; (e) The educational, physical and emotional needs of the child for whom the support is sought; (f) The amount of assistance that would be paid to the child under the full standard of need of the state’s IV-A plan; (g) Preexisting support orders and current dependents; and (h) Other reasonable criteria that the division may find to be appropriate.
+
+(2) The formula described in subsection
+
+(1) of this section must also comply with the following standards: (a) The child is entitled to benefit from the income of both parents to the same extent that the child would have benefited had the family unit remained intact or if there had been an intact family unit consisting of both parents and the child. (b) Both parents should share in the costs of supporting the child in the same proportion as each parent’s income bears to the combined income of both parents.
+
+(3) The formula described in subsection
+
+(1) of this section must be designed to ensure, as a minimum, that the child for whom support is sought benefits from the income and resources of the absent parent on an equitable basis in comparison with any other minor children of the absent parent.
+
+(4) The child support obligation to be paid by the obligor and determined under the formula described in subsection
+
+(1) of this section: (a) May be reduced or increased in consideration of medical support, as provided in ORS 25.321 to 25.343. (b) May be reduced dollar for dollar in consideration of any Social Security or apportioned Veterans’ benefits paid to the child, or to a representative payee administering the funds for the child’s use and benefit, as a result of the obligor’s disability or retirement. (c) Shall be reduced dollar for dollar in consideration of any Survivors’ and Dependents’ Educational Assistance under 38 U.S.C. chapter 35 paid to the child, or to a representative payee administering the funds for the child’s use and benefit, as a result of the obligor’s disability or retirement. [1989 c.811 §3; 1993 c.800 §2; 1999 c.1030 §1; 2003 c.73 §26a; 2003 c.75 §75; 2003 c.572 §6; 2003 c.637 §15; 2009 c.351 §7] 25.280 Formula amount presumed correct; rebuttal of presumption; criteria. In any judicial or administrative proceeding for the establishment or modification of a child support obligation under ORS chapter 107, 108, 109 or 110 or ORS 25.501 to 25.556, 419B.400, 419B.923 or 419C.610, the amount of support determined by the formula established under ORS 25.275 is presumed to be the correct amount of the obligation. This is a rebuttable presumption and a written finding or a specific finding on the record that the application of the formula would be unjust or inappropriate in a particular case is sufficient to rebut the presumption. The following criteria shall be considered in making the finding:
+
+(1) Evidence of the other available resources of a parent;
+
+(2) The reasonable necessities of a parent;
+
+(3) The net income of a parent remaining after withholdings required by law or as a condition of employment;
+
+(4) A parent’s ability to borrow;
+
+(5) The number and needs of other dependents of a parent;
+
+(6) The special hardships of a parent including, but not limited to, any medical circumstances of a parent affecting the parent’s ability to pay child support;
+
+(7) The needs of the child;
+
+(8) The desirability of the custodial parent remaining in the home as a full-time parent and homemaker;
+
+(9) The tax consequences, if any, to both parents resulting from spousal support awarded and determination of which parent will name the child as a dependent; and
+
+(10) The financial advantage afforded a parent’s household by the income of a spouse or another person with whom the parent lives in a relationship similar to that of a spouse. [1989 c.811 §4; 1993 c.33 §287; 1993 c.354 §1; 1995 c.608 §30; 2001 c.622 §42; 2007 c.71 §8; 2007 c.356 §3; 2015 c.629 §1; 2019 c.13 §14; 2021 c.597 §50] 25.285 [1989 c.811 §5; repealed by 1991 c.519 §8 (25.287 enacted in lieu of 25.285 in 1993)] 25.287 Proceedings to modify orders to comply with formula; when proceeding may be initiated; issues considered. (1)(a) The entity providing child support services under ORS 25.080 may initiate proceedings to modify a support obligation to ensure that the support obligation is in accordance with the formula established under ORS 25.275. (b) Proceedings under this subsection may occur only after three years have elapsed, or such shorter cycle as determined by rule of the Department of Justice, from the latest of the following: (A) The date the original support obligation took effect; (B) The date any previous modification of the support obligation took effect; or (C) The date of any previous review and determination under this subsection that resulted in no modification of the support obligation. (c) For purposes of paragraph (b) of this subsection, a support obligation or modification takes effect on the first date on which the obligor is to pay the established or modified support amount. (d) The only issues at proceedings under this subsection are whether three years have elapsed, or such shorter cycle as determined by rule of the department, and whether the support obligation is in substantial compliance with the formula established under ORS 25.275. (e) Upon review, if the administrator determines that a support obligation does not qualify for modification under this section, a party may appeal the administrator’s decision under ORS 183.484. (f) If the court, the administrator or an administrative law judge finds that more than three years have elapsed, or such shorter cycle as determined by rule of the department, the court, the administrator or the administrative law judge shall modify the support order to bring the support obligation into substantial compliance with the formula established under ORS 25.275, regardless of whether there has been a substantial change in circumstances since the support obligation was last established, modified or reviewed. Proceedings by the administrator or administrative law judge under this subsection shall be conducted according to the provisions of ORS 25.513 and 25.527. (g)(A) The provisions of this subsection apply to any support obligation established by a support order under this chapter or ORS chapter 107, 108, 109 or 110 or ORS 419B.400. (B) Notwithstanding subparagraph (A) of this paragraph, if a support order is suspended under ORS 25.245 or 25.247, the provisions of this subsection apply to the support obligation upon reinstatement of the support order.
+
+(2) The entity providing child support services shall state in the document initiating the proceeding, to the extent known: (a) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving the child, including a proceeding brought under ORS 25.501 to 25.556, 107.085, 107.135, 107.431, 108.110, 109.100, 109.103, 109.158, 125.025 or 419B.400 or ORS chapter 110; and (b) Whether there exists in this state or any other jurisdiction a support order, as defined in ORS 110.503, involving the child, other than the support obligation the entity seeks to modify.
+
+(3) The entity providing child support services shall include with the document initiating the proceeding a certificate regarding any pending support proceeding and any existing support order other than the support obligation the entity seeks to modify. The entity providing child support services shall use a certificate that is in a form prescribed by the administrator and must include information required by the administrator and subsection
+
+(2) of this section.
+
+(4) The administrator, court or administrative law judge may use the provisions of subsection
+
+(1) of this section when a support order was entered in another state and registered in Oregon, the provisions of ORS chapter 110 apply and more than three years have elapsed, or such shorter cycle as determined by rule of the department.
+
+(5) Notwithstanding the provisions of this section, proceedings may be initiated at any time to modify a support obligation based upon a substantial change of circumstances under any other provision of law.
+
+(6) The obligee is a party to any action to modify a support obligation under this section. [1991 c.519 §3; 1993 c.33 §369; 1993 c.596 §7 (enacted in lieu of 25.285 in 1993); 1995 c.608 §31; 1999 c.80 §64; 1999 c.735 §1; 2001 c.455 §§7,8; 2003 c.75 §24; 2003 c.116 §§1,2; 2003 c.576 §§183,184; 2005 c.560 §4; 2007 c.71 §9; 2007 c.878 §4; 2015 c.298 §86; 2019 c.13 §15; 2019 c.291 §9; 2021 c.500 §3; 2021 c.597 §51; 2025 c.99 §23] 25.290 Determining disposable income of obligor; offsets; rules.
+
+(1) In determining the disposable income of an obligor, the obligor may claim offsets against gross receipts for ordinary and necessary business expenses and taxes directly related to the income withheld. The obligor has the burden of proof and must furnish documentation to support any offsets claimed.
+
+(2) The Department of Justice may adopt rules governing the determination of the income subject to withholding that remains after application of offsets. Withholding actions in a case that is not receiving child support services under ORS 25.080 may be appealed to the circuit court. [1995 c.608 §1b; 2003 c.73 §27; 2025 c.99 §24] 25.310 [1985 c.671 §4; 1989 c.812 §4; 1991 c.362 §2; repealed by 1993 c.798 §21] 25.311 [1993 c.798 §5; 1995 c.608 §32; 1999 c.80 §2; 1999 c.735 §8; 1999 c.849 §§38,39; renumbered 25.378 in 1999] 25.313 [1993 c.798 §3; renumbered 25.393 in 1999] 25.314 [1993 c.798 §6; 1995 c.272 §6; 1997 c.704 §26; 1999 c.80 §3; renumbered 25.402 in 1999] 25.315 [1993 c.798 §7; 1999 c.80 §4; renumbered 25.399 in 1999] 25.316 [1993 c.798 §8; 1999 c.80 §5; 1999 c.735 §12; renumbered 25.405 in 1999] 25.317 [1993 c.798 §9; 1999 c.735 §11; renumbered 25.396 in 1999] 25.318 [1993 c.798 §10; renumbered 25.390 in 1999] 25.320 [1985 c.671 §5; 1997 c.704 §27; renumbered 25.164 in 1999]
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors025.html> · retrieved 2026-07-26 · sha256 `05698826ca8619ff6f2697352b2960dcfed1348ed58999a088a7bbbc185a2425`
+  (chapter snapshot `_meta/snapshots/ors-chapter-25.html`)
+- See [CHANGELOG](./CHANGELOG.md).

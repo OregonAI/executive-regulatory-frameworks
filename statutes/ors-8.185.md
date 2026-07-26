@@ -1,0 +1,77 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: ors-8.185
+title: "Trial court administrator for judicial district"
+doc_type: statute
+citation: "ORS 8.185"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors008.html"
+source_format: html
+retrieved: "2026-07-26"
+source_sha256: "426d29eb0db6203db269b713e3d0edc891ee0a13809416e17559d5c18ce13a06"
+snapshot_id: ors-chapter-8
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+last_amended: 2015
+enacted: 1953
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-26"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-8"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors008.html> (retrieved 2026-07-26, 2025 Edition).
+
+# Trial court administrator for judicial district (ORS 8.185)
+
+## At a glance
+
+ORS 8.185 — Trial court administrator for judicial district. Chapter 8 (Court Officers and District Attorneys), 2025 Edition.
+
+## Full text
+
+8.185 Trial court administrator for judicial district. Unless otherwise ordered by the Chief Justice of the Supreme Court, there shall be a trial court administrator for each judicial district described in ORS 3.012. The Chief Justice may order that one trial court administrator serve for two or more adjoining judicial districts. [1981 s.s. c.3 §8; 1995 c.658 §17; 1997 c.801 §115] 8.195 Appointment of trial court administrators; removal.
+
+(1) Subject to applicable provisions of a personnel plan established by the Chief Justice of the Supreme Court, a person to serve as trial court administrator for: (a) One judicial district shall be appointed by the presiding judge for the judicial district, with the approval of a majority of the circuit court judges in the district. (b) The circuit court in a judicial district shall be appointed by the presiding judge for the judicial district, with the approval of a majority of the circuit court judges. (c) Two or more adjoining judicial districts shall be appointed by the presiding judges for the judicial districts, with the approval of a majority of the circuit court judges in the districts.
+
+(2) A trial court administrator may be removed from the office by the appointing presiding judge as provided in a personnel plan established by the Chief Justice of the Supreme Court. [1981 s.s. c.3 §9; 1995 c.658 §18; 1995 c.781 §18] 8.205 [1981 s.s. c.3 §10; 1995 c.658 §19; repealed by 1997 c.801 §131] 8.210 [Repealed by 1973 c.781 §4] 8.215 [1981 s.s. c.3 §11; 1995 c.658 §20a; 1995 c.781 §19; repealed by 1997 c.801 §131] 8.220 [Repealed by 1973 c.781 §4] 8.225 Duties of trial court administrator; delegation; transcript coordinator.
+
+(1) The trial court administrator for a judicial district has the duties, powers and functions prescribed by law or by rules of the circuit courts in the district.
+
+(2) A trial court administrator shall, for each court served by the officer: (a) Keep the seal of the court, and affix it in all cases required by law. (b) Record the proceedings of the court. (c) Maintain the records, files, books and other documents pertaining to the court. (d) File all documents delivered to the trial court administrator in any action or proceeding in the court. (e) Attend the court, administer oaths and receive the verdict of a jury in any action or proceeding therein, in the presence and under the direction of the court. (f) Under the direction of the court enter its orders and judgments. (g) Authenticate, by certificate or transcript, as may be required, the records, files or proceedings of the court, or any document pertaining thereto, and filed with the officer. (h) In the performance of duties pertaining to the court, conform to the direction of the court.
+
+(3) A trial court administrator may take and certify the proof and acknowledgment of a conveyance of real property or any other written instrument authorized or required to be proved or acknowledged.
+
+(4) A trial court administrator may delegate powers of the office of trial court administrator to employees of the trial court administrator.
+
+(5) A trial court administrator shall designate a person to act as transcript coordinator for the court. [1981 s.s. c.3 §12; 1985 c.540 §22; 1993 c.223 §1; 1995 c.273 §4; 1997 c.801 §§117,117a; 2007 c.129 §8; 2015 c.212 §13] 8.235 Trial court administrators as state employees. Trial court administrators appointed under ORS 8.195 and other nonjudicial officers and employees of the circuit courts who are appointed under a personnel plan established by the Chief Justice of the Supreme Court are state officers or employees in the exempt service and not subject to ORS chapter 240. However, such personnel shall retain the right to be dismissed only for just cause after hearing and appeal. [1981 s.s. c.3 §13; 1997 c.801 §118] 8.245 Trial court administrators and other personnel not to engage in private practice of law. Trial court administrators appointed under ORS 8.195 and other nonjudicial officers and employees of the circuit courts who are appointed under a personnel plan established by the Chief Justice of the Supreme Court shall not engage in the private practice of law. [1981 s.s. c.3 §15; 1997 c.801 §119] 8.255 Agreement between state and county to provide services with county employees; payment to county; supervision of employees.
+
+(1) The State Court Administrator, on behalf of the state, and the governing body of a county, on behalf of the county, may enter into an agreement whereby services required to be provided by the state for the circuit court for the county are provided by employees of the county, instead of by state officers and employees, and the expenses of the county in providing those services are paid to the county by the state from funds available for the purpose.
+
+(2) County employees providing services under an agreement shall be under the supervision and control of the trial court administrator appointed under ORS 8.195. County employees providing services under an agreement are not thereby state employees. County employees providing services under an agreement shall not engage in the private practice of law.
+
+(3) With the prior approval of the State Court Administrator, a trial court administrator appointed under ORS 8.195, on behalf of the state, and the governing body of a county, on behalf of the county, may enter into an agreement under this section in respect to services for a circuit court for the county served by the trial court administrator. [1981 s.s. c.3 §16; 1995 c.781 §20; 1997 c.801 §120] 8.260 [1953 c.34 §6; repealed by 1959 c.552 §16]
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors008.html> · retrieved 2026-07-26 · sha256 `426d29eb0db6203db269b713e3d0edc891ee0a13809416e17559d5c18ce13a06`
+  (chapter snapshot `_meta/snapshots/ors-chapter-8.html`)
+- See [CHANGELOG](./CHANGELOG.md).

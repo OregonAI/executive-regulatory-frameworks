@@ -313,7 +313,9 @@ function cite(id){if(!id)return '—';
   return id.toUpperCase();}
 function url(id){
   if(id.startsWith('oar-'))return 'https://secure.sos.state.or.us/oard/view.action?ruleNumber='+id.slice(4);
-  if(id.startsWith('ors-'))return 'https://www.oregonlegislature.gov/bills_laws/ors/ors'+id.slice(4).split('.')[0]+'.html';
+  // the site zero-pads the numeric part to three digits; ors25.html 404s, ors025.html does not
+  if(id.startsWith('ors-'))return 'https://www.oregonlegislature.gov/bills_laws/ors/ors'+
+    id.slice(4).split('.')[0].replace(/^(\d+)([a-z]?)$/i,(_,n,s)=>String(n).padStart(3,'0')+s.toLowerCase())+'.html';
   return '#';}
 function esc(s){return String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
 document.getElementById('theme').onclick=()=>{const c=document.documentElement.getAttribute('data-theme');

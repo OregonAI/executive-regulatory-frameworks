@@ -1,0 +1,2320 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+ Chapter
+146 — Investigations of Deaths, Injuries and Missing Persons 
+
+   
+
+ Uncodified sections
+printed in this chapter were amended or repealed by the Legislative Assembly
+during its 2026 regular session. See the table of uncodified sections amended
+or repealed during the 2026 regular session: 2026
+A&R Tables 
+
+   
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ DEATHS, INJURIES AND MISSING
+PERSONS 
+
+   
+
+ PROCEDURE IN CRIMINAL MATTERS
+GENERALLY 
+
+   
+
+ INVESTIGATION OF DEATHS 
+
+   
+
+ (Definitions) 
+
+   
+
+ 146.003     Definitions for ORS
+146.003 to 146.189 and 146.710 to 146.992 
+
+   
+
+ (Administrative Provisions) 
+
+   
+
+ 146.015     State Medical Examiner
+Advisory Board; appointment of Chief Medical Examiner; rules 
+
+   
+
+ 146.025     Functions of board 
+
+   
+
+ 146.035     Chief Medical Examiner;
+personnel; records; right to examine records 
+
+   
+
+ 146.045     Duties of Chief Medical
+Examiner; persons missing at sea, in wilderness or in forested environment 
+
+   
+
+ 146.055     Advice; autopsies;
+training programs; report 
+
+   
+
+ 146.065     Local medical
+examiners; appointment; Deputy State Medical Examiner 
+
+   
+
+ 146.075     District office duties;
+personnel; expenses for certain duties; records and reports 
+
+   
+
+ 146.080     Assistant district
+medical examiner 
+
+   
+
+ 146.085     Medical-legal death
+investigators 
+
+   
+
+ 146.088     Officer or employee of
+public body 
+
+   
+
+ 146.090     Deaths requiring
+investigation 
+
+   
+
+ 146.095     Investigation;
+certification; report; training 
+
+   
+
+ 146.100     Where death considered
+to have occurred; notification of death required 
+
+   
+
+ 146.102     Guidance concerning
+overdose death communication; notification 
+
+   
+
+ 146.103     Removal of body,
+effects or weapons prohibited without consent 
+
+   
+
+ 146.107     Authority to enter and
+secure certain premises; court order 
+
+   
+
+ 146.109     Notification of next of
+kin 
+
+   
+
+ 146.113     Authority to order
+removal of body fluids 
+
+   
+
+ 146.117     Autopsies 
+
+   
+
+ 146.121     Disposition of body;
+filing; expenses 
+
+   
+
+ 146.125     Disposition of personal
+property 
+
+   
+
+ (Inquest) 
+
+   
+
+ 146.135     Authority to order
+inquest 
+
+   
+
+ 146.145     Jury of inquest 
+
+   
+
+ 146.155     Inquest proceedings 
+
+   
+
+ 146.165     Verdict; findings;
+testimony and verdict of inquest as admissible evidence in subsequent
+proceedings 
+
+   
+
+ IDENTIFICATION OF DEAD AND MISSING
+PERSONS 
+
+   
+
+ 146.171     Unidentified human
+remains; maintenance of records 
+
+   
+
+ 146.174     Medical examiner to
+provide information about unidentified human remains; identification 
+
+   
+
+ 146.177     Procedures for
+investigating missing persons 
+
+   
+
+ 146.181     Missing persons; police
+report; supplementary report 
+
+   
+
+ 146.184     Medical practitioners
+to provide information about missing persons 
+
+   
+
+ 146.187     DNA sample 
+
+   
+
+ 146.189     Use of records to
+identify human remains and missing persons; disposition of records 
+
+   
+
+ INVESTIGATIONS OF INJURIES 
+
+   
+
+ 146.710     Definition for ORS
+146.710 to 146.780 
+
+   
+
+ 146.730     Investigation 
+
+   
+
+ 146.740     Reports of medical
+examiner 
+
+   
+
+ 146.750     Injuries to be reported
+to law enforcement agency 
+
+   
+
+ 146.760     Immunity of participant
+in making of report 
+
+   
+
+ 146.780     Confidentiality of
+records and reports 
+
+   
+
+ PENALTIES 
+
+   
+
+ 146.992     Penalties 
+
+   
+
+       146.001 [Formerly 146.087; repealed by
+1987 c.517 §1 (432.300 enacted in lieu of 146.001)] 
+
+   
+
+ INVESTIGATION OF DEATHS 
+
+   
+
+ (Definitions) 
+
+   
+
+       146.003
+Definitions for ORS 146.003 to 146.189 and 146.710 to 146.992. As used in ORS 146.003 to 146.189
+and 146.710 to 146.992, unless the context requires otherwise: 
+
+       (1) “Approved
+laboratory” means a laboratory approved by the Chief Medical Examiner as
+competent to perform the blood sample analysis required by ORS 146.113 (2). 
+
+       (2) “Assistant
+district medical examiner” means a physician licensed under ORS chapter 677,
+physician associate licensed under ORS 677.505 to 677.525 or nurse practitioner
+licensed under ORS 678.375 to 678.390 appointed by the district medical
+examiner to investigate and certify deaths within a county or district. 
+
+       (3) “Cause of
+death” means the primary or basic disease process or injury ending life. 
+
+       (4) “Death
+requiring investigation” means the death of a person occurring in any one of
+the circumstances set forth in ORS 146.090. 
+
+       (5) “District
+medical examiner” means a physician licensed under ORS chapter 677, physician
+associate licensed under ORS 677.505 to 677.525 or nurse practitioner licensed
+under ORS 678.375 to 678.390 appointed by the Chief Medical Examiner to
+investigate and certify deaths within a county or district, including a Deputy
+State Medical Examiner. 
+
+       (6) “Law
+enforcement agency” means a county sheriff’s office, municipal police
+department, police department established by a university under ORS 352.121 or
+353.125 and the Oregon State Police. 
+
+       (7) “Legal
+intervention” includes an execution pursuant to ORS 137.463, 137.467 and
+137.473 and other legal use of force resulting in death. 
+
+       (8) “Manner of
+death” means the designation of the probable mode of production of the cause of
+death, including natural, accidental, suicidal, homicidal, legal intervention
+or undetermined. 
+
+       (9) “Medical
+examiner” means a physician licensed under ORS chapter 677, physician associate
+licensed under ORS 677.505 to 677.525 or nurse practitioner licensed under ORS
+678.375 to 678.390 appointed as provided by ORS 146.003 to 146.189 to
+investigate and certify the cause and manner of deaths requiring investigation,
+including the Chief Medical Examiner. 
+
+       (10) “Medical-legal
+death investigator” means a person appointed by the district medical examiner
+to assist in the investigation of deaths within a county. 
+
+       (11) “Pathologist”
+means a physician licensed under ORS chapter 677 who is eligible for
+certification by the American Board of Pathology, or its successor
+organization, as approved by the State Medical Examiner Advisory Board. 
+
+       (12) “Unidentified
+human remains” does not include human remains that are unidentified human
+remains that are part of an archaeological site or suspected of being Native
+American and covered under ORS chapters 97 and 390 and ORS 358.905 to 358.961. [1973
+c.408 §1a; 1995 c.744 §17; 2007 c.500 §1; 2011 c.506 §18; 2013 c.180 §18; 2017
+c.151 §3; 2025 c.223 §1] 
+
+   
+
+       146.005 [1959 c.629 §8; 1965 c.221 §14;
+repealed by 1973 c.408 §35] 
+
+   
+
+       146.010 [Amended by 1959 c.629 §16;
+renumbered 10.810] 
+
+   
+
+ (Administrative
+Provisions) 
+
+   
+
+       146.015 State
+Medical Examiner Advisory Board; appointment of Chief Medical Examiner; rules. (1) There is hereby established
+the State Medical Examiner Advisory Board. 
+
+       (2) The board
+shall make policies for the administration of ORS 146.003 to 146.189 and the
+Department of State Police shall adopt rules to effectuate the policies. 
+
+       (3) The board
+shall recommend the name or names of pathologists to the Superintendent of
+State Police from which the superintendent shall appoint the Chief Medical
+Examiner. 
+
+       (4) The board
+consists of 11 members appointed by the Governor who are: 
+
+       (a) The Chair of
+the Department of Pathology of the Oregon Health and Science University, who is
+the chairperson of the board; 
+
+       (b) The State
+Health Officer; 
+
+       (c) A sheriff; 
+
+       (d) A trauma
+physician recommended by the State Trauma Advisory Board; 
+
+       (e) A
+pathologist; 
+
+       (f) A district
+attorney; 
+
+       (g) A funeral
+service practitioner and embalmer licensed by the State Mortuary and Cemetery
+Board; 
+
+       (h) A chief of
+police; 
+
+       (i) A member of
+the defense bar; 
+
+       (j) A member of
+the public at large; and 
+
+       (k) A member of
+one of the federally recognized Oregon Indian tribes. 
+
+       (5) The members
+described in subsection (4)(a) and (b) of this section may serve as long as
+they hold their respective positions. The term of office of each member
+described in subsection (4)(c), (f) and (h) of this section is for four years,
+except that the position becomes vacant if the member ceases to be a sheriff,
+district attorney or chief of police, respectively. The terms of office of the
+other members of the State Medical Examiner Advisory Board are for four years. 
+
+       (6) A member of
+the board is entitled to compensation and expenses as provided in ORS 292.495. 
+
+       (7) The board
+shall meet annually at a time and place determined by the chairperson. The
+chairperson or any four members of the board may call a special meeting upon
+not less than one week’s notice to the members of the board. 
+
+       (8) Six members
+of the board constitute a quorum. [1973 c.408 §2; 1995 c.744 §9; 2011 c.28 §1;
+2017 c.151 §4] 
+
+   
+
+       Note: The amendments to 146.015 by
+section 41, chapter 32, Oregon Laws 2024, become operative January 1, 2027. See
+section 44, chapter 32, Oregon Laws 2024. The text that is operative on and
+after January 1, 2027, is set forth for the user’s convenience. 
+
+       146.015. (1) There is hereby established
+the State Medical Examiner Advisory Board. 
+
+       (2) The board
+shall make policies for the administration of ORS 146.003 to 146.189 and the
+Department of State Police shall adopt rules to effectuate the policies. 
+
+       (3) The board
+shall recommend the name or names of pathologists to the Superintendent of
+State Police from which the superintendent shall appoint the Chief Medical
+Examiner. 
+
+       (4) The board
+consists of 11 members appointed by the Governor who are: 
+
+       (a) The Chair of
+the Department of Pathology of the Oregon Health and Science University, who is
+the chairperson of the board; 
+
+       (b) The State
+Health Officer; 
+
+       (c) A sheriff; 
+
+       (d) A trauma
+physician recommended by the Emergency Medical Services Advisory Board; 
+
+       (e) A
+pathologist; 
+
+       (f) A district
+attorney; 
+
+       (g) A funeral
+service practitioner and embalmer licensed by the State Mortuary and Cemetery
+Board; 
+
+       (h) A chief of
+police; 
+
+       (i) A member of
+the defense bar; 
+
+       (j) A member of
+the public at large; and 
+
+       (k) A member of
+one of the federally recognized Oregon Indian tribes. 
+
+       (5) The members
+described in subsection (4)(a) and (b) of this section may serve as long as
+they hold their respective positions. The term of office of each member
+described in subsection (4)(c), (f) and (h) of this section is for four years,
+except that the position becomes vacant if the member ceases to be a sheriff,
+district attorney or chief of police, respectively. The terms of office of the
+other members of the State Medical Examiner Advisory Board are for four years. 
+
+       (6) A member of
+the board is entitled to compensation and expenses as provided in ORS 292.495. 
+
+       (7) The board
+shall meet annually at a time and place determined by the chairperson. The
+chairperson or any four members of the board may call a special meeting upon
+not less than one week’s notice to the members of the board. 
+
+       (8) Six members
+of the board constitute a quorum. 
+
+   
+
+       146.020 [Renumbered 10.820] 
+
+   
+
+       146.025
+Functions of board. 
+In addition to the duties set forth in ORS 146.015 the State Medical Examiner
+Advisory Board shall: 
+
+       (1) Recommend to
+the Oregon Department of Administrative Services the qualifications and
+compensation for the positions of Chief Medical Examiner and Deputy State
+Medical Examiner. 
+
+       (2) Recommend to
+the county courts the compensation of the district medical examiners and
+assistant district medical examiners. 
+
+       (3) Recommend to
+district medical examiners and district attorneys the qualifications for
+medical-legal death investigators. 
+
+       (4) Approve or
+disapprove of a single district medical examiner’s office for two or more
+counties as provided by ORS 146.065 (5). 
+
+       (5) Recommend a
+proposed budget for the Office of the Chief Medical Examiner to the Department
+of State Police. 
+
+       (6) Annually
+review the Chief Medical Examiner’s report prescribed by ORS 146.055 and report
+to the Superintendent of State Police and to the State Board of Health
+regarding the operation of the Office of the Chief Medical Examiner. [1973
+c.408 §3; 1995 c.744 §10; 2017 c.151 §5] 
+
+   
+
+       146.030 [1959 c.629 §10; 1965 c.221 §15;
+repealed by 1973 c.408 §35] 
+
+   
+
+       146.035 Chief
+Medical Examiner; personnel; records; right to examine records. (1) There is established within
+the Department of State Police the Office of the Chief Medical Examiner for the
+purpose of directing and supporting the state death investigation program. 
+
+       (2) The Chief
+Medical Examiner shall manage all aspects of the Office of the Chief Medical
+Examiner’s program. 
+
+       (3) Subject to
+the State Personnel Relations Law, the Chief Medical Examiner may employ or
+discharge other personnel of the Office of the Chief Medical Examiner. 
+
+       (4) The Office of
+the Chief Medical Examiner shall: 
+
+       (a) File and
+maintain appropriate reports on all deaths requiring investigation. 
+
+       (b) Maintain an
+accurate list of all active district medical examiners, assistant district
+medical examiners and designated pathologists. 
+
+       (c) Transmit
+monthly to the Department of Transportation a report for the preceding calendar
+month of all information obtained under ORS 146.113. 
+
+       (5)
+Notwithstanding ORS 192.345 (36): 
+
+       (a) Any parent,
+spouse, sibling, child or personal representative of the deceased, or any
+person who may be criminally or civilly liable for the death, or their
+authorized representatives respectively, may examine and obtain copies of any
+medical examiner’s report, autopsy report or laboratory test report ordered by
+a medical examiner under ORS 146.117. 
+
+       (b) The system
+described in ORS 192.517 (1) shall have access to reports described in this
+subsection as provided in ORS 192.517. [1973 c.408 §4; 1987 c.142 §1; 1995
+c.504 §3; 1995 c.744 §8; 2003 c.14 §60; 2005 c.498 §1; 2009 c.222 §§3,5; 2011
+c.9 §7; 2013 c.1 §§6,7; 2015 c.14 §3; 2017 c.151 §6] 
+
+   
+
+       146.040 [1959 c.629 §1; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.045 Duties
+of Chief Medical Examiner; persons missing at sea, in wilderness or in forested
+environment. (1)
+After consultation with the State Medical Examiner Advisory Board, the Chief
+Medical Examiner shall appoint each Deputy State Medical Examiner. 
+
+       (2) The Chief
+Medical Examiner shall: 
+
+       (a) Appoint and
+discharge each district medical examiner as provided by ORS 146.065 (2). 
+
+       (b) Designate
+those pathologists authorized to perform autopsies under ORS 146.117 (2). 
+
+       (c) Approve those
+laboratories authorized to perform the analyses required under ORS 146.113 (2). 
+
+       (3) The Chief
+Medical Examiner may: 
+
+       (a) Assume
+control of a death investigation in cooperation with the district attorney. 
+
+       (b) Order an
+autopsy in a death requiring investigation. 
+
+       (c) Certify the
+cause and manner of a death requiring investigation. 
+
+       (d) Amend a
+previously completed report on a death requiring investigation. 
+
+       (e) Order a body
+exhumed in a death requiring investigation. 
+
+       (f) Designate a
+Deputy State Medical Examiner as Acting Chief Medical Examiner. 
+
+       (g) After a
+reasonable and thorough investigation, complete and file a report of death for
+a person whose body is not found. 
+
+       (4) Distribution
+of moneys from the Chief Medical Examiner’s budget for partial reimbursement of
+each county’s autopsy expenditures shall be made subject to approval of the
+Chief Medical Examiner. 
+
+       (5) Within 45
+days of receipt of information that a person is missing at sea and presumed
+dead, the Chief Medical Examiner shall determine whether the information is
+credible and, if so, complete and file a report of death for the person
+presumed dead. If the information is determined not to be credible, the Chief
+Medical Examiner may continue the death investigation. 
+
+       (6)(a) If the
+Search and Rescue Coordinator and a county sheriff investigate a person missing
+in the wilderness or a forested environment and determine that the person is
+believed to be deceased, the sheriff shall send documentation of the
+investigation and determination to the Chief Medical Examiner. 
+
+       (b) Within seven
+days after receiving documentation under paragraph (a) of this subsection, the
+Chief Medical Examiner shall evaluate the credibility of the investigation and
+the determination that the person is believed to be deceased. 
+
+       (c) If the Chief
+Medical Examiner, based on the evaluation under paragraph (b) of this
+subsection and the Chief Medical Examiner’s field of expertise, determines that
+there is no reasonable suspicion that the person is not deceased, the Chief
+Medical Examiner shall complete and file a report of death for the person
+believed to be deceased within 45 days after making the determination. 
+
+       (d)(A) If the
+Chief Medical Examiner, based on the evaluation under paragraph (b) of this
+subsection and the Chief Medical Examiner’s field of expertise, determines that
+there is a reasonable suspicion that the person is not deceased, the Chief
+Medical Examiner shall report to the sheriff with the basis for the
+determination and a list of any missing information that would aid the Chief
+Medical Examiner in evaluating the credibility of the investigation and the
+determination that the person is believed to be deceased. 
+
+       (B) Upon
+receiving a report under subparagraph (A) of this paragraph, the sheriff shall
+make a reasonable effort to provide the missing information listed by the Chief
+Medical Examiner. 
+
+       (C) After issuing
+a report under this paragraph, the Chief Medical Examiner shall continue the
+death investigation in conjunction with the sheriff and the Search and Rescue
+Coordinator until the sheriff issues a final report on the missing person. If,
+at any time, the Chief Medical Examiner determines, based on the Chief Medical
+Examiner’s field of expertise, that there is no reasonable suspicion that the
+person is not deceased, the Chief Medical Examiner shall complete and file a
+report of death for the person believed to be deceased within 45 days after
+making the determination. [1973 c.408 §5; 2005 c.90 §1; 2013 c.366 §66; 2017
+c.151 §7; 2019 c.435 §1] 
+
+   
+
+       146.050 [1959 c.629 §2; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.055
+Advice; autopsies; training programs; report. (1) The Chief Medical Examiner shall assist and
+advise district medical examiners in the performance of their duties. 
+
+       (2) The Chief
+Medical Examiner shall perform autopsies, if in the judgment of the Chief
+Medical Examiner such autopsy is necessary in any death requiring
+investigation, when requested by a medical examiner or district attorney. 
+
+       (3) The Chief
+Medical Examiner shall regularly conduct training programs for the district
+medical examiners and law enforcement agencies. 
+
+       (4) The Chief
+Medical Examiner shall submit an annual report to the State Medical Examiner
+Advisory Board detailing the activities and accomplishments of the state and
+each county office in the preceding year as well as a cost analysis of the
+Office of the Chief Medical Examiner. [1973 c.408 §6; 2017 c.151 §8] 
+
+   
+
+       146.060 [1959 c.629 §3; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.065 Local
+medical examiners; appointment; Deputy State Medical Examiner. (1) In each county there shall be
+a medical examiner for the purpose of investigating and certifying the cause
+and manner of deaths requiring investigation. 
+
+       (2) Each district
+medical examiner shall be appointed by the Chief Medical Examiner with approval
+of the appropriate board or boards of commissioners and may be discharged by
+the Chief Medical Examiner without such approval. 
+
+       (3) If the
+position of district medical examiner is vacant, the local health officer shall
+temporarily act as medical examiner in cooperation with the Chief Medical
+Examiner until the vacancy is filled. 
+
+       (4) If the
+positions of district medical examiner and local health officer are both
+vacant, the district attorney shall temporarily act as medical examiner in
+cooperation with the Chief Medical Examiner until the vacancy is filled. 
+
+       (5) Two or more
+counties, with the approval of the State Medical Examiner Advisory Board and
+commissioners of each county, may form a district medical examiner’s office
+instead of an office for each such county. 
+
+       (6) When a county
+or district has a population of 200,000 or more persons, the Chief Medical
+Examiner may, with the approval of the State Medical Examiner Advisory Board,
+appoint a Deputy State Medical Examiner for that county or district. 
+
+       (7) The
+compensation of the Deputy State Medical Examiner shall be paid by the state
+from funds available for such purpose. 
+
+       (8) The services
+of the Deputy State Medical Examiner may be contracted by the Department of
+State Police. These contracts may be terminated by either party at any time by
+written notice to the other party to the agreement and, upon termination, the
+appointment of such Deputy State Medical Examiner is terminated. [1973 c.408 §7;
+1995 c.744 §11; 2015 c.736 §50; 2017 c.151 §9] 
+
+   
+
+       146.070 [1959 c.629 §4; 1969 c.314 §8;
+repealed by 1973 c.408 §35] 
+
+   
+
+       146.075
+District office duties; personnel; expenses for certain duties; records and
+reports. (1) The
+district medical examiner shall serve as the administrator of the district
+medical examiner’s office. Subject to applicable provisions of a county
+personnel policy or civil service law, the district medical examiner may employ
+such other personnel as the district medical examiner deems necessary to
+operate the office. 
+
+       (2) All expenses
+of equipping, maintaining and operating the district medical examiner’s office,
+including the compensation of the district medical examiner and assistant
+district medical examiners, shall be paid by the county or counties of the
+district from funds budgeted for such purpose. 
+
+       (3) When a
+district medical examiner also serves as local health officer, the county shall
+separately budget the compensation and expenses to be paid for medical examiner’s
+duties. 
+
+       (4) All expenses
+of death investigations shall be paid from county funds budgeted for such
+purpose except that, in counties under 200,000 population upon the approval of
+the Chief Medical Examiner, one-half of the costs of autopsies ordered under
+ORS 146.117 shall be paid annually by the state from funds for such purpose. If
+funds available for this payment are insufficient to meet one-half of these
+costs, even proportional payments to the counties shall be made. 
+
+       (5) Expenses of
+burial or other disposition of an unclaimed body shall be paid by the county
+where the death occurs, as provided by ORS 146.100 (2), in the manner provided
+by ORS 146.121 (4). 
+
+       (6) Each district
+office shall maintain copies of the: 
+
+       (a) Reports of
+death investigation by the medical examiner; 
+
+       (b) Autopsy
+reports; 
+
+       (c) Laboratory
+analysis reports; and 
+
+       (d) Inventories
+of money or property of the deceased taken into custody during the
+investigation. 
+
+       (7) Reports and
+inventories maintained by the district office shall be available for inspection
+as provided by ORS 146.035 (5). 
+
+       (8) Copies of
+reports of death investigations by medical examiners and autopsy reports shall
+be forwarded to the Office of the Chief Medical Examiner. 
+
+       (9) Each district
+office shall maintain current records of: 
+
+       (a) All assistant
+district medical examiners appointed. 
+
+       (b) Appointments
+of each medical-legal death investigator appointed for the county or district. 
+
+       (c) The name,
+address and director of each licensed funeral home located within the county or
+district. 
+
+       (10) Each
+district office shall immediately in writing notify the Office of the Chief
+Medical Examiner of all appointments and resignations of their medical
+examiners. [1973 c.408 §8; 1987 c.142 §2; 2015 c.736 §51; 2017 c.151 §10] 
+
+   
+
+       146.080
+Assistant district medical examiner. 
+(1) Each district medical examiner may appoint one or more assistant district
+medical examiners. 
+
+       (2) The
+qualifications of an assistant district medical examiner shall be prescribed by
+the State Medical Examiner Advisory Board. 
+
+       (3) When
+delegated by the district medical examiner, an assistant district medical
+examiner shall: 
+
+       (a) Assist the
+district medical examiner in investigating and certifying deaths. 
+
+       (b) Have the
+authority and responsibility to investigate and certify deaths requiring
+investigation. [1973 c.408 §10] 
+
+   
+
+       146.085
+Medical-legal death investigators. 
+(1) The district medical examiner shall appoint, subject to the approval of the
+district attorney and applicable civil service regulations, qualified
+medical-legal death investigators, including the sheriff or a deputy sheriff
+and a member of the Oregon State Police for each county. Other peace officers
+may also be appointed as medical-legal death investigators. 
+
+       (2) The district
+medical examiner and the district attorney shall establish qualifications for
+medical-legal death investigators. 
+
+       (3) Each
+medical-legal death investigator shall be individually appointed and the name
+of the medical-legal death investigator shall be on file in the office of the
+district medical examiner. 
+
+       (4) A
+medical-legal death investigator shall investigate deaths subject to the
+control and direction of the district medical examiner or the district
+attorney. 
+
+       (5) A
+medical-legal death investigator may authorize the removal of the body of a
+deceased person from the apparent place of death. 
+
+       (6) The
+medical-legal death investigator may not authorize embalming, order a
+post-mortem examination or autopsy, or certify the cause and manner of death. [1973
+c.408 §11; 2017 c.151 §11] 
+
+   
+
+       146.087 [1975 c.565 §1; renumbered
+146.001] 
+
+   
+
+       146.088
+Officer or employee of public body. 
+A district medical examiner, medical-legal death investigator, assistant
+district medical examiner or designated pathologist is deemed to be an officer
+or employee of a public body for purposes of ORS 30.260 to 30.300 while acting
+as a district medical examiner, medical-legal death investigator, assistant
+district medical examiner or designated pathologist. [1995 c.744 §13; 2017
+c.151 §12] 
+
+   
+
+       146.090 Deaths
+requiring investigation. 
+(1) The medical examiner shall investigate and certify the cause and manner of
+all human deaths: 
+
+       (a) Apparently
+homicidal, suicidal or occurring under suspicious or unknown circumstances; 
+
+       (b) Resulting
+from the unlawful use of controlled substances or the use or abuse of chemicals
+or toxic agents; 
+
+       (c) Occurring
+while incarcerated in any jail, correction facility or in police custody; 
+
+       (d) Apparently
+accidental or following an injury; 
+
+       (e) By disease,
+injury or toxic agent during or arising from employment; 
+
+       (f) While not
+under the care of a physician during the period immediately previous to death; 
+
+       (g) Related to
+disease which might constitute a threat to the public health; or 
+
+       (h) In which a
+human body apparently has been disposed of in an offensive manner. 
+
+       (2) As used in
+this section, “offensive manner” means a manner offensive to the generally
+accepted standards of the community. [1973 c.408 §12; 1979 c.744 §4; 1985 c.207
+§1] 
+
+   
+
+       146.095
+Investigation; certification; report; training. (1) The district medical examiner
+and the district attorney for the county where death occurs, as provided by ORS
+146.100 (2), shall be responsible for the investigation of all deaths requiring
+investigation. 
+
+       (2) The medical
+examiner shall certify the manner and the cause of all deaths which the medical
+examiner is required to investigate. The report of death shall be submitted to
+the State Registrar of the Center of Health Statistics as required by ORS 432.133. 
+
+       (3) The medical
+examiner shall make a report of death investigation to the Chief Medical
+Examiner as soon as possible after being notified of a death requiring
+investigation. 
+
+       (4) Within five
+days after notification of a death requiring investigation, the medical
+examiner shall make a written report of the investigation and file it in the
+district medical examiner’s office. 
+
+       (5) The district
+medical examiner shall supervise the assistant district medical examiners and
+medical-legal death investigators in cooperation with the district attorney. 
+
+       (6) The district
+medical examiner shall regularly conduct administrative training programs for
+the assistant district medical examiners, medical-legal death investigators and
+law enforcement agencies. [1973 c.408 §9; 2013 c.366 §67; 2017 c.151 §13; 2025
+c.444 §2] 
+
+   
+
+       146.100 Where
+death considered to have occurred; notification of death required. (1) Death investigations shall be
+under the direction of the district medical examiner and the district attorney
+for the county where the death occurs. 
+
+       (2) For purposes
+of ORS 146.003 to 146.189, if the county where death occurs is unknown, the
+death shall be deemed to have occurred in the county where the body is found,
+except that if in an emergency the body is moved by conveyance to another
+county and is dead on arrival, the death shall be deemed to have occurred in
+the county from which the body was originally removed. 
+
+       (3) The district
+medical examiner or an assistant district medical examiner for the county where
+death occurs shall be immediately notified of: 
+
+       (a) All deaths
+requiring investigation; and 
+
+       (b) All deaths of
+persons admitted to a hospital or institution for less than 24 hours, although
+the medical examiner need not investigate nor certify such deaths. 
+
+       (4) No person
+having knowledge of a death requiring investigation shall intentionally or
+knowingly fail to make notification thereof as required by subsection (3) of
+this section. 
+
+       (5) The district
+medical examiner or medical-legal death investigator shall immediately notify
+the district attorney for the county where death occurs of all deaths requiring
+investigation except for those specified by ORS 146.090 (1)(d) to (g). 
+
+       (6) All peace
+officers, health care providers as defined in ORS 192.556, supervisors of penal
+institutions, supervisors of youth correction facilities, juvenile community
+supervision officers as defined in ORS 420.905, and supervisors of hospitals or
+institutions caring for the ill or helpless shall cooperate with the medical
+examiner or medical-legal death investigator by providing a decedent’s medical
+records and tissue samples and any other material necessary to conduct the
+death investigation of the decedent and shall make notification of deaths as
+required by subsection (3) of this section. A person who cooperates with the
+medical examiner or medical-legal death investigator in accordance with this
+subsection does not: 
+
+       (a) Waive any
+claim of privilege applicable to, or the confidentiality of, the materials and
+records provided. 
+
+       (b) Waive any
+claim that the materials and records are subject to an exemption from
+disclosure under ORS 192.311 to 192.478. 
+
+       (c) Violate the
+restrictions on disclosing or providing copies of reports and other materials
+in ORS 419A.257. 
+
+       (7) Records or
+materials described in subsection (6) of this section may be released by the
+medical examiner or medical-legal death investigator only pursuant to a valid
+court order. 
+
+       (8)(a) If a death
+is suspected to be suicide and the decedent was 24 years of age or younger, the
+district medical examiner or medical-legal death investigator shall notify the
+local mental health authority in the county where the death occurred and, if the
+decedent was a member of a federally recognized Indian tribe in Oregon, shall
+also notify the tribe’s mental health authority. 
+
+       (b) For the
+purposes of this subsection, the manner of death is suspected to be suicide if
+the district medical examiner, the assistant district medical examiner, a
+pathologist authorized under ORS 146.045 (2)(b) or a designee of the district
+medical examiner, including a medical-legal death investigator, confirms orally
+or in writing that the district medical examiner, assistant district medical
+examiner, pathologist or designee of the district medical examiner reasonably
+believes that the manner of death was suicide. 
+
+       (c) The
+notification under this subsection must include the decedent’s name, date of
+birth, date of death, suspected manner of death and cause of death. 
+
+       (d) The
+notification under this subsection may include any other information that the
+district medical examiner or medical-legal death investigator determines is
+necessary to preserve the public health and that is not otherwise protected
+from public disclosure by state or federal law, including information regarding
+the decedent’s school attended and extracurricular activities. 
+
+       (e) The district
+medical examiner or medical-legal death investigator must provide the
+notification under this subsection no later than: 
+
+       (A) 48 hours
+after receiving notification of the death if the county where the death
+occurred has a population of 400,000 or more; or 
+
+       (B) 72 hours
+after receiving notification of the death if the county where the death
+occurred has a population of fewer than 400,000. 
+
+       (9)(a) If a death
+is suspected to be the result of an opioid overdose or other overdose and the
+decedent was 24 years of age or younger, the district medical examiner or
+medical-legal death investigator shall notify the local mental health authority
+in the county where the death occurred and, if the decedent was a member of a
+federally recognized Indian tribe in Oregon, shall also notify the tribe’s
+mental health authority. 
+
+       (b) For purposes
+of this subsection, the cause of death is suspected to be the result of an
+opioid overdose or other overdose if the district medical examiner, the
+assistant district medical examiner, a pathologist authorized under ORS 146.045
+(2)(b) or a designee of the district medical examiner, including a
+medical-legal death investigator, confirms orally or in writing that the
+district medical examiner, assistant district medical examiner, pathologist or
+designee of the district medical examiner reasonably believes that the cause of
+death was the result of an opioid overdose or other overdose. 
+
+       (c) The
+notification under this subsection must include the decedent’s name, date of
+birth, date of death, suspected manner of death and cause of death. The
+notification may include the information described in subsection (8)(d) of this
+section and be provided as required under subsection (8)(e) of this section. 
+
+       (10) As used in
+this section: 
+
+       (a) “Local mental
+health authority” has the meaning given that term in ORS 430.630. 
+
+       (b) “Opioid”
+means a natural, synthetic or semisynthetic chemical that interacts with opioid
+receptors on nerve cells in the body and brain to reduce the intensity of pain
+signals and feelings of pain. 
+
+       (c) “Opioid
+overdose” means a medical condition that causes depressed consciousness,
+depressed respiratory function or the impairment of vital bodily functions as a
+result of ingesting opioids. [1973 c.408 §13; 1985 c.207 §22; 1995 c.744 §14;
+2009 c.222 §1; 2017 c.151 §14; 2021 c.185 §1; 2021 c.321 §1; 2023 c.593 §21] 
+
+   
+
+       146.102
+Guidance concerning overdose death communication; notification. (1) As used in this section: 
+
+       (a) “Cause of
+death” has the meaning given that term in ORS 146.003. 
+
+       (b) “Local mental
+health authority” has the meaning given that term in ORS 430.630. 
+
+       (c) “Manner of
+death” has the meaning given that term in ORS 146.003. 
+
+       (d) “Opioid”
+means a natural, synthetic or semisynthetic chemical that interacts with opioid
+receptors on nerve cells in the body and brain to reduce the intensity of pain
+signals and feelings of pain. 
+
+       (e) “Opioid
+overdose” means a medical condition that causes depressed consciousness,
+depressed respiratory function or the impairment of vital bodily functions as a
+result of ingesting opioids. 
+
+       (f) “Third-party
+notification” means notification from a source other than a patient in a
+program administered by a local mental health authority during the patient’s
+treatment. 
+
+       (g) “Urban Indian
+health program” means an urban Indian health program in this state that is
+operated by an urban Indian organization pursuant to 25 U.S.C. 1651 et seq. 
+
+       (2)(a) The Oregon
+Health Authority shall provide guidance for communication among local mental
+health authorities to improve notifications and information sharing when an
+individual who is 24 years of age or younger dies and the presumed cause of
+death is suspected to be the result of an opioid overdose or other overdose.
+The guidance may address community opioid overdose and other overdose response
+and efforts to address the potential of future related deaths. The Oregon
+Health Authority may collaborate with the following entities in providing the
+guidance described in this subsection: 
+
+       (A) Local mental
+health authorities; 
+
+       (B) The nine
+federally recognized Indian tribes in this state; 
+
+       (C) County
+juvenile departments; 
+
+       (D)
+Community-based substance use disorder treatment programs; 
+
+       (E) Urban Indian
+health programs; 
+
+       (F) The Oregon
+Youth Authority; 
+
+       (G) The
+Department of Human Services; 
+
+       (H) Community
+developmental disabilities programs; and 
+
+       (I) Any other
+organization identified by the Oregon Health Authority or a local mental health
+authority as necessary to preserve the public health. 
+
+       (b) The Oregon
+Health Authority may develop post-intervention guidance to enable local mental
+health authorities to deploy uniform and effective post-intervention efforts.
+In developing the guidance, the authority may consult with the entities
+described in paragraph (a) of this subsection. 
+
+       (3) No later than
+72 hours after receiving a third-party notification, including notice under ORS
+146.100, of the death of an individual described in subsection (2)(a) of this
+section, if the decedent was not domiciled in the county where the death occurred,
+the local mental health authority shall provide notice of the death to the
+local mental health authority in the county where the decedent was domiciled. 
+
+       (4) The local
+mental health authority in the county where an individual described in
+subsection (2)(a) of this section was domiciled may notify the local mental
+health authority in any other county in which the decedent had significant
+contacts, as described by the Oregon Health Authority by rule. 
+
+       (5) After
+receiving notice of the death of an individual described in subsection (2)(a)
+of this section, each local mental health authority in a county in which the
+decedent had significant contacts may inform the Oregon Health Authority, in a
+manner and format determined by the authority, of activities implemented to
+support individuals and any local entities affected by the death and to prevent
+the risk of future related deaths. The Oregon Health Authority may serve as a
+resource to the local mental health authorities as needed by the community. 
+
+       (6) In compliance
+with any state or federal laws regulating public disclosure of such
+information, the notification described in subsections (3) and (4) of this
+section must contain the following information regarding the decedent to enable
+the local mental health authorities described in subsections (3) and (4) of
+this section to deploy effective post-intervention efforts: 
+
+       (a) The name of
+the decedent; 
+
+       (b) The dates of
+birth and death of the decedent; 
+
+       (c) The suspected
+manner of death; 
+
+       (d) The suspected
+cause of death; and 
+
+       (e) Any other
+information that the local mental health authority determines necessary to
+preserve the public health. [2023 c.593 §20] 
+
+   
+
+       Note: 146.102 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 146
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       146.103
+Removal of body, effects or weapons prohibited without consent. (1) In a death requiring an
+investigation, no person shall move a human body or body suspected of being
+human, or remove any of the effects of the deceased or instruments or weapons
+related to the death without the permission of a medical examiner, medical-legal
+death investigator or the district attorney. 
+
+       (2) No person
+shall move or remove any of the items specified in subsection (1) of this
+section if the medical examiner or district attorney objects. 
+
+       (3) A medical
+examiner, district attorney or medical-legal death investigator shall take
+custody of or exercise control over the body, the effects of the deceased and
+any weapons, instruments, vehicles, buildings or premises which the medical
+examiner, district attorney or medical-legal death investigator has reason to
+believe were involved in the death, in order to preserve evidence relating to
+the cause and manner of death. 
+
+       (4) In a death
+requiring investigation, no person shall undress, embalm, cleanse the surface
+of the body or otherwise alter the appearance or the state of the body without
+the permission of the medical examiner or the district attorney. [1973 c.408 §14;
+2017 c.151 §15] 
+
+   
+
+       146.105 [1959 c.629 §7; repealed by 1965
+c.221 §7] 
+
+   
+
+       146.107
+Authority to enter and secure certain premises; court order. (1) A medical examiner,
+medical-legal death investigator or district attorney may enter any room,
+dwelling, building or other place in which the medical examiner, medical-legal
+death investigator or district attorney has reasonable cause to believe that a
+body or evidence of the circumstances of death requiring investigation may be
+found. 
+
+       (2) If refused
+entry, the medical examiner, medical-legal death investigator or district
+attorney may apply to any judge authorized to issue search warrants for an
+order to enter such premises, search for and seize a body or any evidence of
+the cause or manner of death. 
+
+       (3) Upon
+application supported by an affidavit setting forth facts and circumstances
+tending to show that a body or such evidence of death is in the place to be
+searched, the judge shall issue such order to enter and search and seize. 
+
+       (4) To preserve
+evidence, a medical examiner, medical-legal death investigator or district
+attorney may: 
+
+       (a) Place under
+the custody or control of the medical examiner, medical-legal death
+investigator or district attorney, or enclose or lock any room, dwelling,
+building or other enclosure for a period of not more than five days. 
+
+       (b) Rope off or
+otherwise restrict entry to any open area. 
+
+       (c) Forbid the
+entrance of any unauthorized person into the area specified under paragraphs
+(a) and (b) of this subsection. 
+
+       (5) No person
+shall enter upon the enclosures or areas specified in subsection (4) of this
+section without the permission of the medical examiner, medical-legal death
+investigator or district attorney. [1973 c.408 §15; 2017 c.151 §16] 
+
+   
+
+       146.109
+Notification of next of kin. 
+(1) Upon identifying the body, the medical examiner shall immediately attempt
+to locate the next of kin or responsible friends to obtain the designation of a
+funeral home to which the deceased is to be taken. 
+
+       (2) If unable to
+promptly obtain a designation of funeral home from the next of kin or
+responsible friends, the medical examiner or medical-legal death investigator
+shall designate the funeral home. In designating the funeral home, the medical
+examiner or medical-legal death investigator shall be fair and equitable among
+the funeral homes listed in the office of the district medical examiner. [1973
+c.408 §16; 2017 c.151 §17] 
+
+   
+
+       146.110 [Amended by 1959 c.629 §34;
+repealed by 1965 c.221 §27] 
+
+   
+
+       146.113
+Authority to order removal of body fluids. (1) A medical examiner or district attorney may, in
+any death requiring investigation, order samples of blood or urine taken for
+laboratory analysis. 
+
+       (2) When a death
+requiring an investigation as a result of a motor vehicle accident occurs
+within five hours after the accident and the deceased is over 13 years of age,
+a blood sample shall be taken and forwarded to an approved laboratory for
+analysis. Such blood or urine samples shall be analyzed for the presence and
+quantity of ethyl alcohol, and if considered necessary by the Chief Medical
+Examiner, the presence of any other intoxicants, as defined in ORS 801.321. 
+
+       (3) Laboratory
+reports of the analysis shall be made a part of the Chief Medical Examiner’s
+and district medical examiner’s files. [1973 c.408 §17; 1979 c.744 §5; 2017
+c.21 §41; 2017 c.151 §18; 2023 c.498 §17] 
+
+   
+
+       146.115 [Amended by 1955 c.190 §1;
+repealed by 1965 c.221 §27] 
+
+   
+
+       146.117
+Autopsies. (1) A
+medical examiner or district attorney may order an autopsy performed in any
+death requiring investigation. This authorization for an autopsy shall permit
+the pathologist to remove and retain body tissues or organs from the deceased
+for the purpose of the legal or medical determination of the manner or cause of
+death, or other purposes approved under policies established by the State
+Medical Examiner Advisory Board. 
+
+       (2) If an autopsy
+is ordered, the medical examiner shall obtain the services of a pathologist
+authorized under ORS 146.045 (2)(b). 
+
+       (3) A pathologist
+may not receive compensation for performing the autopsy if, as medical
+examiner, the pathologist ordered the autopsy. [1973 c.408 §18; 1987 c.142 §4;
+1995 c.744 §15] 
+
+   
+
+       146.120 [Amended by 1959 c.629 §35;
+repealed by 1965 c.221 §27] 
+
+   
+
+       146.121
+Disposition of body; filing; expenses. 
+(1) No person shall bury or otherwise dispose of the body of a person whose
+death required investigation, without having first obtained a burial, cremation
+or reduction permit, or a report of death completed and signed by a medical
+examiner. 
+
+       (2) When a
+medical examiner investigates the death of a person whose body is not claimed
+by a friend or relative within five days of the date of death, the sheriff or,
+in counties having a population of 400,000 or more, the medical examiner shall
+dispose of the body according to the provisions of ORS 97.170 to 97.210. 
+
+       (3) If the
+medical examiner is unable to dispose of the body of a deceased person
+according to subsection (2) of this section, the medical examiner may order in
+writing that the body be either cremated, reduced or plainly and decently
+buried. 
+
+       (4) The sheriff
+or medical examiner shall file a copy of the report of death, the order for
+disposition and a verified statement of the expenses of the cremation,
+reduction or burial with the board of county commissioners. The board of county
+commissioners shall pay such expenses, or any proportion thereof as may be
+available, from county funds annually budgeted for this purpose. [1973 c.408 §19;
+1995 c.744 §16; 2013 c.366 §68; 2021 c.296 §25] 
+
+   
+
+       146.125
+Disposition of personal property. 
+(1) The medical examiner, medical-legal death investigator, district attorney
+or sheriff may temporarily retain possession of any property found on the body
+or in the possession of the deceased that in the opinion of the medical
+examiner, medical-legal death investigator, district attorney or sheriff may be
+useful in establishing the cause or manner of death or may be used in further
+proceedings. 
+
+       (2) When a
+medical examiner, medical-legal death investigator, district attorney or
+sheriff assumes control or custody of money or personal property found on the
+body or in the possession of the deceased, the medical examiner, medical-legal
+death investigator, district attorney or sheriff shall: 
+
+       (a) Make a
+verified inventory of such money or property. 
+
+       (b) File the
+inventory in the district medical examiner’s office. 
+
+       (c) Deposit the
+money with the county treasurer to the credit of the county general fund. 
+
+       (3) If personal
+property is not retained by the medical examiner, medical-legal death
+investigator, district attorney or sheriff, and is not claimed within 30 days,
+the inventory shall be filed with the board of county commissioners to be
+disposed of as follows: 
+
+       (a) If the
+property has value, the board may order it sold and after deducting the cost of
+sale, shall deposit the proceeds of the sale with the county treasurer to the
+credit of the county general fund. 
+
+       (b) If the
+property has no value in the judgment of the board, the board may order the
+sheriff to destroy such property. 
+
+       (4) Any expenses
+incurred by the county in transporting or disposing of the body may be deducted
+from the money or proceeds of the sale of personal property before it is
+delivered to a claimant. 
+
+       (5) If it appears
+that the person whose death required investigation died wholly intestate and
+without heirs, the county whose official has control or custody of the property
+shall notify an estate administrator of the State Treasurer appointed under ORS
+113.235 within 15 days after the death. 
+
+       (6) If a legally
+qualified personal representative, spouse, next of kin or estate administrator
+of the State Treasurer: 
+
+       (a) Claims the
+money of the deceased, the county treasurer shall, subject to the provisions of
+subsection (4) of this section, deliver such money to the claimant. 
+
+       (b) Within 30
+days, claims the personal property of the deceased, the property shall be
+delivered to such claimant subject to the provisions of subsections (1) and (5)
+of this section. 
+
+       (7) If money of
+the deceased is not claimed within seven years, the money is presumed abandoned
+as provided by ORS 98.302 to 98.436 and 98.992 and the board of county
+commissioners shall order the county treasurer to deliver and report the money
+to the State Treasurer as required by ORS 98.352. [1973 c.408 §20; 1977 c.582 §5;
+2003 c.395 §19; 2017 c.151 §19; 2019 c.678 §55] 
+
+   
+
+       146.130 [Amended by 1959 c.629 §36;
+repealed by 1965 c.221 §27] 
+
+   
+
+ (Inquest) 
+
+   
+
+       146.135
+Authority to order inquest. 
+(1) The district attorney for the county where the death occurs may order an
+inquest to obtain a jury finding of the cause and manner of death in any case
+requiring investigation. 
+
+       (2) For the
+purpose of conducting an inquest, the district attorney shall have the powers
+of a judicial officer as described by ORS 1.240 and 1.250. 
+
+       (3) The district
+attorney shall advise the jury of inquest as to its duties and instruct the
+jury on questions of law. 
+
+       (4) The district
+attorney shall cause a record of the inquest proceedings to be made which shall
+include the written order of inquest, a record of the testimony of witnesses
+and the written verdict of the jury. 
+
+       (5) Within a
+reasonable time after the verdict is returned, the record of inquest shall be
+filed in the district medical examiner’s office for the county where the
+inquest was held. 
+
+       (6) A copy of the
+order of inquest and verdict of the jury shall be filed in the Office of the
+Chief Medical Examiner. 
+
+       (7) The record of
+inquest shall be available for inspection as provided by ORS 146.035 (5). [1973
+c.408 §21; 1987 c.142 §3; 2017 c.151 §20] 
+
+   
+
+       146.140 [Amended by 1959 c.629 §37;
+repealed by 1965 c.221 §27] 
+
+   
+
+       146.145 Jury
+of inquest. (1)
+The district attorney shall order the inquest to be held at a specified time
+and place and as provided in ORS 10.810 and 10.820 shall summon a jury of
+inquest to inquire into the cause and manner of death. 
+
+       (2) Upon receipt
+of a copy of the order of inquest, the sheriff shall select, as provided by
+law, not less than eight prospective members of the jury of inquest. 
+
+       (3) The sheriff
+shall obtain a summons for each prospective juror selected and cause the
+summons to be served upon such juror. 
+
+       (4) At the time
+and place of the inquest the sheriff shall report to the district attorney the
+names of all prospective jurors summoned. 
+
+       (5) A prospective
+juror may be excused by the district attorney if the juror was related or
+closely associated with the deceased, was a witness to the death or shows good
+cause that the juror may be biased. 
+
+       (6) From among
+the prospective jurors not excused, six members of the jury of inquest shall be
+drawn by lot. [1973 c.408 §22] 
+
+   
+
+       146.150 [Amended by 1959 c.629 §38;
+repealed by 1965 c.221 §27] 
+
+   
+
+       146.155
+Inquest proceedings. 
+(1) The six members of the jury of inquest shall be sworn by the district
+attorney to: 
+
+       (a) Inquire into
+who the deceased person was, when and where the deceased person came to death,
+the cause of death and the manner of death. 
+
+       (b) Give a true
+verdict thereof according to the evidence produced during the inquest. 
+
+       (2) The district
+attorney shall subpoena as a witness any person who the district attorney
+believes has knowledge of facts relevant and material to the inquiry. The jury
+of inquest may request but may not require that other persons be subpoenaed. 
+
+       (3) The district
+attorney shall examine each witness as to all facts which the district attorney
+deems relevant and material to the inquiry. After examination by the district
+attorney, the members of the jury may inquire of the witness provided that their
+examination is relevant and material. 
+
+       (4) When the
+examination of witnesses is closed, the district attorney shall advise the jury
+as to their duty under law, and as to questions of law arising from the facts
+or posed by the jury. 
+
+       (5) After having
+been advised of law, the jury shall retire to deliberate and to arrive at its
+verdict. 
+
+       (6) The verdict
+shall be delivered to the district attorney. [1973 c.408 §23] 
+
+   
+
+       146.160 [Amended by 1959 c.629 §39;
+repealed by 1965 c.221 §27] 
+
+   
+
+       146.165
+Verdict; findings; testimony and verdict of inquest as admissible evidence in
+subsequent proceedings. 
+(1) The jury shall give its verdict in writing, signed by its members, setting
+forth its findings from the evidence produced: 
+
+       (a) Who the
+deceased person was; 
+
+       (b) When and
+where the deceased person came to death; 
+
+       (c) The cause of
+death; and 
+
+       (d) The manner of
+death. 
+
+       (2) The verdict
+of a jury of inquest shall not preclude nor require a criminal charge by the
+grand jury or district attorney. 
+
+       (3) The testimony
+of any witness before a jury of inquest shall not be admissible evidence in any
+civil or criminal proceeding except: 
+
+       (a) A criminal
+trial in which the witness is charged with perjury or false swearing arising
+from the testimony given before the jury of inquest. 
+
+       (b) A civil or
+criminal trial in which the testimony before the jury of inquest is offered as
+a prior inconsistent statement to impeach the same witness. 
+
+       (4) The verdict
+of a jury of inquest shall not be admitted into evidence in any trial. [1973
+c.408 §24] 
+
+   
+
+       146.170 [Amended by 1955 c.161 §1; 1959
+c.629 §40; repealed by 1965 c.221 §27] 
+
+   
+
+ IDENTIFICATION OF DEAD
+AND MISSING PERSONS 
+
+   
+
+       146.171
+Unidentified human remains; maintenance of records. (1) The Superintendent of State
+Police shall establish and maintain a file of records relating to unidentified
+human remains found within the state and of which the Oregon State Police are
+notified under ORS 146.174. The records shall be maintained in order to
+facilitate the identification of such remains. 
+
+       (2) The
+Superintendent of State Police shall establish the file described under
+subsection (1) of this section after consultation with the Chief Medical
+Examiner to determine what areas of information generally shall be requested,
+obtained and preserved in the file. General areas of information determined
+under this section shall be for the purpose of developing file format and
+standard forms for collecting data to aid in identifying human remains.
+Information having potential value in identifying human remains shall not be
+excluded from a file because it does not fall within a general area of
+information determined under this section or is not required by federal
+authorities. 
+
+       (3) In addition
+to any other file it maintains, the Department of State Police shall enter
+appropriate information relating to unidentified human remains into any file
+maintained by federal authorities to facilitate the identification of such
+remains. The department shall conform file entries under this subsection to the
+format prescribed by the authorities responsible for the federal file. [Formerly
+146.505; 2017 c.151 §21] 
+
+   
+
+       146.174
+Medical examiner to provide information about unidentified human remains;
+identification. 
+(1) If a medical examiner is unable to determine the identity of human remains,
+the medical examiner shall, not later than 30 days after such remains are
+brought to the medical examiner’s attention, notify and provide to the
+Superintendent of State Police or the superintendent’s designee all information
+in the medical examiner’s records concerning the remains. 
+
+       (2) The medical
+examiner shall make reasonable attempts to promptly identify human remains and
+may consider procedures consistent with current forensic autopsy performance
+standards of the National Association of Medical Examiners. Reasonable attempts
+to identify human remains include, but are not limited to, obtaining: 
+
+       (a) Photographs
+of the remains prior to an autopsy; 
+
+       (b) Dental or
+skeletal X-rays of the remains; 
+
+       (c) Photographs
+of items found with the remains; 
+
+       (d) Fingerprints
+of the remains; and 
+
+       (e) Samples of
+tissue, bone or hair from the remains that are suitable for DNA
+(deoxyribonucleic acid) analysis. 
+
+       (3) The medical
+examiner may not dispose of unidentified human remains, or take any action that
+materially affects the unidentified human remains, before the medical examiner
+completes the steps described in subsection (2) of this section. [Formerly
+146.515] 
+
+   
+
+       146.177
+Procedures for investigating missing persons. Written policies adopted by Oregon law enforcement
+agencies regarding missing persons shall specify the procedures for
+investigating missing persons in order to ensure that reported missing persons
+cases, particularly those involving minor children, are investigated as soon as
+possible, utilizing all available resources. In adopting policies under this
+section, Oregon law enforcement agencies may consider standards set by the
+Oregon Accreditation Alliance and adopt policies consistent with Oregon Accreditation
+Alliance standards. Policies adopted under this section should include the
+following: 
+
+       (1) Requirements
+for accepting missing persons reports; 
+
+       (2) Procedures
+for initial investigations; 
+
+       (3)
+Responsibility for follow-up investigations; 
+
+       (4) Standards for
+maintaining and clearing computer data of missing persons information stored in
+the Law Enforcement Data System and the National Crime Information Center; and 
+
+       (5) Initiation
+and activation criteria for Amber Plan alerts under ORS 181A.315. [2007 c.500 §2] 
+
+   
+
+       146.180 [Repealed by 1965 c.221 §27] 
+
+   
+
+       146.181
+Missing persons; police report; supplementary report. (1) When a person is reported as
+missing to any city, county or state police agency, the agency, within 12 hours
+thereafter, shall enter into state and federal records maintained for that
+purpose, a report of the missing person in a format and according to procedures
+established by the authorities responsible respectively for the state and
+federal records. 
+
+       (2) The law
+enforcement agency to which the report is made: 
+
+       (a) May request
+from the person making the report information or material likely to be useful
+in identifying the missing person or the human remains of the missing person,
+including, but not limited to: 
+
+       (A) The name of
+the missing person and any alternative names the person uses; 
+
+       (B) The date of
+birth of the missing person; 
+
+       (C) A physical
+description of the missing person, including the height, weight, gender, race,
+eye color, current hair color and natural hair color of the missing person, any
+identifying marks on the missing person, any prosthetics used by, or surgical
+implants in, the missing person and any physical anomalies of the missing
+person; 
+
+       (D) The blood
+type of the missing person; 
+
+       (E) The driver
+license number of the missing person; 
+
+       (F) The Social
+Security number of the missing person; 
+
+       (G) A recent
+photograph of the missing person; 
+
+       (H) A description
+of the clothing the missing person is believed to have been wearing at the time
+the person disappeared; 
+
+       (I) A description
+of items that the missing person is believed to have had with the person at the
+time the person disappeared; 
+
+       (J) Telephone
+numbers and electronic mail addresses of the missing person; 
+
+       (K) The name and
+address of any school the missing person attends; 
+
+       (L) The name and
+address of any employer of the missing person; 
+
+       (M) The name and
+address of the physician, physician associate, naturopathic physician, nurse
+practitioner or dentist who provides health care services to the missing
+person; 
+
+       (N) A description
+of any vehicle that the missing person might have been driving or riding in
+when the person disappeared; 
+
+       (O) The reasons
+why the person making the missing person report believes the person is missing; 
+
+       (P) Any
+circumstances that indicate that the missing person may be at risk of injury or
+death; 
+
+       (Q) Any
+circumstances that may indicate that the disappearance is not voluntary; 
+
+       (R) Information
+about a known or possible abductor or a person who was last seen with the
+missing person; and 
+
+       (S) The date of
+the last contact with the missing person. 
+
+       (b) May request
+in writing from any dentist, denturist, physician, physician associate,
+naturopathic physician, nurse practitioner, optometrist or other medical
+practitioner possessing it such medical, dental or other physically descriptive
+information as is likely to be useful in identifying the missing person or the
+human remains of the missing person. 
+
+       (3) The law
+enforcement agency, upon obtaining information pursuant to subsection (2) of
+this section, shall make a supplementary entry of that information into the
+state and federal records described in subsection (1) of this section. The
+supplementary report shall be in a format and according to procedures
+established by the authorities responsible respectively for the state and
+federal records. [Formerly 146.525; 2014 c.45 §25; 2017 c.356 §16; 2024 c.73 §40] 
+
+   
+
+       146.184
+Medical practitioners to provide information about missing persons. (1) A dentist, denturist,
+physician, naturopathic physician, optometrist or other medical practitioner,
+upon receipt of a written request from a law enforcement agency for identifying
+information pursuant to ORS 146.181, shall provide to the agency any information
+known to the practitioner upon the request forms provided by the agency. 
+
+       (2) Information
+obtained under this section is restricted to use for the identification of
+missing persons or the identification of unidentified human remains and may not
+be made available to the public. 
+
+       (3) Compliance
+with a written request for information under this section by a dentist,
+denturist, physician, naturopathic physician, optometrist or other medical
+practitioner does not constitute a breach of confidentiality. [Formerly
+146.535; 2017 c.356 §17] 
+
+   
+
+       146.187 DNA
+sample. (1) If a
+person who has been reported as missing has not been located within 30 days
+after the missing person report is made, the law enforcement agency that
+accepted the missing persons report shall attempt to obtain a DNA sample from
+the missing person or from family members of the missing person in addition to
+any documentation necessary to enable the agency to use the samples in
+conducting searches of DNA databases. 
+
+       (2) A law
+enforcement agency shall forward a DNA sample obtained for use in a missing
+persons case as directed by the Department of State Police. 
+
+       (3) A person, or
+the executor of the person’s estate, who was a missing person and who had a DNA
+sample obtained for use in the person’s case may request the destruction of the
+DNA sample, and any resultant database entries, when the missing person has
+been located or identified. The request shall be made in writing to the
+department. The department, upon confirming that the status of the missing
+person has been resolved, shall destroy the DNA sample and remove any database
+entries related to the DNA sample. 
+
+       (4) As used in
+this section, “DNA” means deoxyribonucleic acid. [2007 c.500 §4] 
+
+   
+
+       146.189 Use of
+records to identify human remains and missing persons; disposition of records. (1) If the Superintendent of State
+Police is notified that a record of unidentified human remains filed by the
+Department of State Police under ORS 146.171 corresponds with the record of a
+person reported as missing, the superintendent shall immediately notify the
+medical examiner who reported the unidentified human remains and the law
+enforcement agency that filed the missing person report under ORS 146.181. If
+the medical examiner identifies the remains, the medical examiner shall
+immediately notify the superintendent and the superintendent shall cancel the
+report of unidentified human remains. 
+
+       (2) When a person
+reported as missing under ORS 146.181 is found, or when the remains of the
+person have been discovered and identified, the law enforcement agency to which
+the person was reported missing shall cancel the reports to state and federal
+authorities under ORS 146.181. The agency shall destroy all information and
+material received under ORS 146.181 relating to a missing person who is
+discovered to be living. In the case of a missing person found to be no longer
+living, the agency shall seal the information and material obtained under ORS
+146.181, except as otherwise may be necessary to investigate or prosecute a
+criminal action relating to the person’s disappearance or death. [Formerly
+146.545] 
+
+   
+
+       146.190 [Amended by 1959 c.629 §41;
+repealed by 1965 c.221 §27] 
+
+   
+
+       146.200 [Repealed by 1965 c.221 §27] 
+
+   
+
+       146.210 [Amended by 1959 c.629 §42;
+repealed by 1965 c.221 §27] 
+
+   
+
+       146.220 [Repealed by 1965 c.221 §27] 
+
+   
+
+       146.230 [Repealed by 1965 c.221 §27] 
+
+   
+
+       146.240 [Repealed by 1965 c.221 §27] 
+
+   
+
+       146.250 [Amended by 1953 c.568 §3;
+repealed by 1965 c.221 §27] 
+
+   
+
+       146.260 [Amended by 1953 c.568 §3;
+repealed by 1965 c.221 §27] 
+
+   
+
+       146.270 [Repealed by 1965 c.221 §27] 
+
+   
+
+       146.280 [Repealed by 1965 c.221 §27] 
+
+   
+
+       146.310 [1965 c.221 §2; 1971 c.487 §3;
+repealed by 1973 c.408 §35] 
+
+   
+
+       146.315 [1971 c.487 §2; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.320 [1965 c.221 §5; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.330 [1965 c.221 §3; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.340 [1965 c.221 §4; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.350 [1965 c.221 §6; 1971 c.487 §4;
+repealed by 1973 c.408 §35] 
+
+   
+
+       146.360 [1965 c.221 §7; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.370 [1965 c.221 §8; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.410 [1959 c.629 §6; 1965 c.221 §16;
+repealed by 1973 c.408 §35] 
+
+   
+
+       146.420 [1959 c.629 §9; 1963 c.98 §1; 1965
+c.91 §1; repealed by 1973 c.408 §35] 
+
+   
+
+       146.430 [1959 c.629 §11; 1961 c.434 §3;
+1965 c.91 §2; repealed by 1973 c.408 §35] 
+
+   
+
+       146.440 [1959 c.629 §12; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.450 [1959 c.629 §13; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.460 [1959 c.629 §14; repealed by 1965
+c.91 §3 (146.461 enacted in lieu of 146.460)] 
+
+   
+
+       146.461 [1965 c.91 §4 (enacted in lieu of
+146.460); repealed by 1973 c.408 §35] 
+
+   
+
+       146.470 [1959 c.629 §15; 1961 c.434 §4;
+1965 c.91 §5; repealed by 1973 c.408 §35] 
+
+   
+
+       146.480 [1959 c.629 §17; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.490 [1959 c.629 §18; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.500 [1959 c.629 §19; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.505 [1983 c.390 §1; renumbered 146.171
+in 2007] 
+
+   
+
+       146.510 [1959 c.629 §20; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.515 [1983 c.390 §2; 2007 c.500 §5;
+renumbered 146.174 in 2007] 
+
+   
+
+       146.520 [1959 c.629 §21; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.525 [1983 c.390 §3; 1989 c.1059 §3;
+2007 c.500 §3; renumbered 146.181 in 2007] 
+
+   
+
+       146.530 [1959 c.629 §22; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.535 [1983 c.390 §4; 2007 c.500 §6;
+renumbered 146.184 in 2007] 
+
+   
+
+       146.540 [1959 c.629 §23; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.545 [1983 c.390 §5; 2007 c.500 §7;
+renumbered 146.189 in 2007] 
+
+   
+
+       146.550 [1959 c.629 §24; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.560 [1959 c.629 §25; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.565 [1961 c.434 §2; 1965 c.91 §6; 1965
+c.439 §4; repealed by 1973 c.408 §35] 
+
+   
+
+       146.570 [1959 c.629 §26; 1967 c.632 §1;
+repealed by 1973 c.408 §35] 
+
+   
+
+       146.580 [1959 c.629 §27; 1961 c.434 §5;
+1967 c.632 §2; repealed by 1973 c.408 §35] 
+
+   
+
+       146.590 [1959 c.629 §§28,29; 1961 c.434 §6;
+1967 c.632 §3; repealed by 1973 c.408 §35] 
+
+   
+
+       146.600 [1959 c.629 §30; repealed by 1973
+c.408 §35] 
+
+   
+
+       146.610 [1959 c.629 §31; repealed by 1973
+c.408 §35] 
+
+   
+
+ INVESTIGATIONS OF
+INJURIES 
+
+   
+
+       146.710
+Definition for ORS 146.710 to 146.780. 
+As used in ORS 146.710 to 146.780, “injury” means: 
+
+       (1) A physical
+injury caused by a knife, gun, pistol or other dangerous or deadly weapon; or 
+
+       (2) A serious
+physical injury. [1963 c.621 §1; 1965 c.472 §1; 1967 c.545 §1; 1971 c.451 §9;
+2007 c.294 §1] 
+
+   
+
+       146.720 [1963 c.621 §§3,4; 1965 c.221 §17;
+repealed by 1965 c.472 §9] 
+
+   
+
+       146.730
+Investigation. A
+medical examiner or district attorney may investigate an injury whenever the
+injury occurred under suspicious or unknown circumstances. All authority
+granted to the medical examiner or district attorney by ORS 146.003 to 146.189
+and 146.710 to 146.992 may be exercised in making such investigation. [1963
+c.621 §2; 1965 c.221 §18; 1967 c.545 §§2,3; 1971 c.401 §7; 1971 c.451 §10; 1973
+c.408 §26; 2007 c.294 §2] 
+
+   
+
+       146.740
+Reports of medical examiner. 
+Whenever the medical examiner concludes that a crime may have been committed by
+any person in causing the injury, the medical examiner shall report the
+conclusion to the district attorney. [1963 c.621 §§5,6; 1965 c.221 §19; 1967
+c.545 §§4,5; 1971 c.401 §8; 1971 c.451 §11; 1973 c.408 §27] 
+
+   
+
+       146.750
+Injuries to be reported to law enforcement agency. (1) Except as required in
+subsection (3) of this section, a physician, including an intern and resident,
+a physician associate licensed under ORS 677.505 to 677.525, a naturopathic
+physician licensed under ORS chapter 685 or a registered nurse licensed under
+ORS chapter 678, who has reasonable cause to suspect that a person brought to
+the physician, physician associate, naturopathic physician or registered nurse
+or coming before the physician, physician associate, naturopathic physician or
+registered nurse for examination, care or treatment has had injury inflicted
+upon the person other than by accidental means, shall report or cause reports
+to be made in accordance with the provisions of subsection (2) of this section. 
+
+       (2) An oral
+report must be made immediately by telephone or otherwise, and followed as soon
+thereafter as possible by a report in writing, to an appropriate law
+enforcement agency. 
+
+       (3) When an
+injury, or abuse as defined in ORS 419B.005, occurs to an unmarried person who
+is under 18 years of age, the provisions of ORS 419B.005 to 419B.050 apply. [1965
+c.472 §§3,4; 1967 c.545 §6; 1971 c.401 §9; 1971 c.451 §12; 1973 c.408 §28; 1975
+c.644 §1; 1993 c.546 §99; 2011 c.347 §1; 2014 c.45 §26; 2017 c.356 §18; 2024
+c.73 §41] 
+
+   
+
+       146.760
+Immunity of participant in making of report. Anyone participating in good faith in the making of a
+report pursuant to ORS 146.750 and who has reasonable grounds for the making
+thereof shall have immunity from any liability, civil or criminal, that might
+otherwise be incurred or imposed with respect to the making of such report. Any
+such participant shall have the same immunity with respect to participation in
+any judicial proceeding resulting from such report. [1965 c.472 §5; 1971 c.451 §13;
+1989 c.171 §20] 
+
+   
+
+       146.770 [1965 c.472 §6; 1971 c.451 §14;
+renumbered 418.775] 
+
+   
+
+       146.780
+Confidentiality of records and reports. Notwithstanding the provisions of ORS 192.311 to
+192.478 relating to confidentiality and accessibility for public inspection of
+public records, records and reports made under the provisions of ORS 146.750
+are confidential and are not accessible for public inspection. [1965 c.472 §7;
+1967 c.545 §7; 1971 c.401 §10; 1971 c.451 §15; 1973 c.408 §29; 1973 c.794 §15a] 
+
+   
+
+       146.990 [Subsection (1) enacted as 1959
+c.629 §45; subsection (3) of 1963 Replacement Part enacted as 1963 c.621 §7;
+1965 c.221 §20; 1965 c.472 §8; 1971 c.451 §16; repealed by 1973 c.408 §35] 
+
+   
+
+ PENALTIES 
+
+   
+
+       146.992
+Penalties. (1) A
+person who violates ORS 146.103 (1) commits a Class A misdemeanor. 
+
+       (2) A person who
+violates ORS 146.103 (2) or (4), 146.107 (5), or 146.121 (1) commits a Class B
+misdemeanor. 
+
+       (3) A person who
+violates ORS 146.100 (4) commits a Class C misdemeanor. [1973 c.408 §25] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

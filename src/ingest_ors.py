@@ -47,7 +47,13 @@ def anchor_ok(slice_text: str, sec: str, title: str) -> bool:
 
 def doc_body(sec, title, ch, ch_title, snap_id, sha, url, slice_text):
     ft = flow_to_lines(slice_text)
+    # The three platform fields must lead the frontmatter and match every other document in
+    # the corpus; they were added by the multi-corpus work after this template was written,
+    # so docs generated here silently lacked them.
     return f"""---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: ors-{sec.lower()}
 title: "{title.replace(chr(34), chr(39))}"
 doc_type: statute

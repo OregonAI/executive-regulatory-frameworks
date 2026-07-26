@@ -1,0 +1,81 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: ors-92.176
+title: "Validation of unit of land not lawfully established"
+doc_type: statute
+citation: "ORS 92.176"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors092.html"
+source_format: html
+retrieved: "2026-07-26"
+source_sha256: "e66c564886adffec9cd74de43b079c75b02de1f43660e3ea38a403464afc4ace"
+snapshot_id: ors-chapter-92
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+last_amended: 2023
+enacted: 1993
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-26"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-92"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors092.html> (retrieved 2026-07-26, 2025 Edition).
+
+# Validation of unit of land not lawfully established (ORS 92.176)
+
+## At a glance
+
+ORS 92.176 — Validation of unit of land not lawfully established. Chapter 92 (Subdivisions and Partitions), 2025 Edition.
+
+## Full text
+
+92.176 Validation of unit of land not lawfully established.
+
+(1) A county or city may approve an application to validate a unit of land that was created by a sale that did not comply with the applicable criteria for creation of a unit of land if the unit of land: (a) Is not a lawfully established unit of land; and (b) Could have complied with the applicable criteria for the creation of a lawfully established unit of land in effect when the unit of land was sold.
+
+(2) Notwithstanding subsection (1)(b) of this section, a county or city may approve an application to validate a unit of land under this section if the county or city approved a permit, as defined in ORS 215.402 or 227.160, respectively, for the construction or placement of a dwelling or other building on the unit of land after the sale. If the permit was approved for a dwelling, the county or city must determine that the dwelling has: (a) Intact exterior walls and roof structure; (b) Indoor plumbing consisting of a kitchen sink, a toilet and bathing facilities connected to a sanitary waste disposal system; (c) Interior wiring for interior lights; and (d) A heating system.
+
+(3) A county or city may approve an application for a permit, as defined in ORS 215.402 or 227.160, respectively, or a permit under the applicable state or local building code for the continued use of a dwelling or other building on a unit of land that was not lawfully established if: (a) The dwelling or other building was lawfully established prior to January 1, 2007; and (b) The permit does not change or intensify the use of the dwelling or other building.
+
+(4) An application to validate a unit of land under this section is an application for a permit, as defined in ORS 215.402 or 227.160. An application to a county under this section is not subject to the minimum lot or parcel sizes established by ORS 215.780.
+
+(5) A unit of land becomes a lawfully established parcel when the county or city validates the unit of land under this section if the owner of the unit of land causes a partition plat to be recorded within 365 days after the date the county or city validates the unit of land.
+
+(6) A county or city may not approve an application to validate a unit of land under this section if the unit of land was unlawfully created on or after January 1, 2007.
+
+(7) Development or improvement of a parcel created under subsection
+
+(5) of this section must comply with the applicable laws in effect when a complete application for the development or improvement is submitted as described in ORS 215.427 (3)(a) or 227.178 (3)(a). [2007 c.866 §2; 2021 c.237 §1; 2023 c.301 §4] 92.177 Creation of parcel by less than all owners of lawfully established unit of land. When a unit of land was sold before January 1, 2007, but was not a lawfully established unit of land, the governing body of the city or county or its designee shall consider and may approve an application for the creation of a parcel pursuant to ORS 92.176, notwithstanding that less than all of the owners of the existing lawfully established unit of land have applied for the approval. [1993 c.436 §2; 1995 c.595 §14; 2007 c.866 §6] 92.178 Creation of parcel previously approved but not acted upon.
+
+(1) The governing body of a county may approve an application requesting formation of one parcel if the county issued a land use decision approving the parcel prior to January 1, 1994, and: (a) A plat implementing the previous land use decision was not recorded; or (b) A condition of approval of the previously approved land use decision requiring consolidation of adjacent lots or parcels was not complied with by a previous owner of the land.
+
+(2) An application under this section is not subject to ORS 215.780.
+
+(3) Approval of an application under this section does not affect the legal status of land that is not the subject of the application.
+
+(4) As used in this section: (a) “Lot” has the meaning given the term in ORS 92.010. (b) “Parcel” has the meaning given the term in ORS 92.010. [2005 c.240 §1] Note: 92.178 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 92 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 92.179 Liability for costs of relocating utility facilities. Notwithstanding any other provision of law, a person who subdivides or partitions real property shall be liable for the reasonable and necessary costs of continuing utility service to structures on the property being subdivided or partitioned if the subdividing or partitioning causes utility lines to be moved or service to be interrupted, unless the person subdividing or partitioning the real property grants an easement to the utility service provider to accommodate continuing utility service to the structures. [1997 c.523 §2]
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors092.html> · retrieved 2026-07-26 · sha256 `e66c564886adffec9cd74de43b079c75b02de1f43660e3ea38a403464afc4ace`
+  (chapter snapshot `_meta/snapshots/ors-chapter-92.html`)
+- See [CHANGELOG](./CHANGELOG.md).

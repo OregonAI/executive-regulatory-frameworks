@@ -1,0 +1,75 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: ors-58.087
+title: "When restatement of articles of incorporation required"
+doc_type: statute
+citation: "ORS 58.087"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors058.html"
+source_format: html
+retrieved: "2026-07-26"
+source_sha256: "8c2dc5fd330373471e8978fb982990eb045ac65dcb5699c888b56edf9e3a8047"
+snapshot_id: ors-chapter-58
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+last_amended: 1999
+enacted: 1961
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-26"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-58"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors058.html> (retrieved 2026-07-26, 2025 Edition).
+
+# When restatement of articles of incorporation required (ORS 58.087)
+
+## At a glance
+
+ORS 58.087 — When restatement of articles of incorporation required. Chapter 58 (Professional Corporations), 2025 Edition.
+
+## Full text
+
+58.087 When restatement of articles of incorporation required. A professional corporation shall restate its articles of incorporation under ORS 60.451 and shall comply with ORS 58.085 anytime the professional service or services to be rendered by the professional corporation are changed or as may be required by law. [1993 c.235 §27] 58.090 [Repealed by 1961 c.726 §427] 58.095 [1969 c.592 §8; repealed by 1993 c.235 §40] 58.100 [Repealed by 1961 c.726 §427] 58.101 Term of office for directors; classes.
+
+(1) Notwithstanding ORS 60.314, the articles of incorporation or bylaws of a professional corporation may specify any length for the term of office of director.
+
+(2) If the articles of incorporation or bylaws specify a length for the term of office of director other than that provided in ORS 60.314, the bylaws may divide the directors into classes and may assign to each class a different initial term of office so that the terms of office of the classes expire at staggered intervals. Each class shall be as nearly equal in number as possible. At the annual meeting at the time of which the term of office of the directors in a class expires, the number of directors equal to the number of the class whose term expires at the time of the meeting shall be elected to hold office for the term specified in the articles of incorporation or bylaws. [1983 c.172 §2; 1987 c.94 §16] 58.105 [1969 c.592 §9; 1983 c.717 §20; 1985 c.764 §5; repealed by 1993 c.235 §40] 58.108 [1993 c.235 §29; repealed by 1997 c.774 §31] 58.110 [Repealed by 1961 c.726 §427] 58.112 [1993 c.235 §34; repealed by 1997 c.774 §31] 58.115 Corporate name. The corporate name of a professional corporation shall comply with the rules and regulations of the regulatory board or boards or standards of professional conduct of the profession practiced through the corporation. The corporate name need not comply with ORS 60.094 (1), but shall contain the words “professional corporation” or the abbreviations “P.C.” or “Prof. Corp.” [1969 c.592 §13; 1985 c.728 §102; 1987 c.94 §17; 1993 c.235 §4; 1997 c.774 §6] 58.120 [Repealed by 1961 c.726 §427] 58.125 [1983 c.717 §§17,19; 1985 c.728 §43; 1993 c.235 §5; repealed by 1999 c.362 §67] (Foreign Professional Corporations) 58.129 Requirements to transact business in this state.
+
+(1) A foreign professional corporation may render professional service or services in this state only after the foreign professional corporation obtains: (a) Approval from the regulatory board of each professional service which will be rendered in this state before offering or rendering the service in this state; and (b) Authorization to transact business in this state from the Secretary of State.
+
+(2) A foreign professional corporation may not obtain authority to transact business in this state, unless: (a) The name of the corporation satisfies the requirements of ORS 58.115; and (b) It complies with ORS 58.076. [1987 c.94 §20; 1993 c.235 §6] 58.130 [Repealed by 1961 c.726 §427] 58.134 Application for authority to transact business. A foreign professional corporation may apply for authority to transact business in this state by delivering an application to the Office of Secretary of State for filing. The application must meet the requirements of ORS 60.707, and, in addition, shall set forth:
+
+(1) The professional service or services to be rendered in this state through the foreign professional corporation; and
+
+(2) Any other business purposes permitted under ORS 58.076. [1987 c.94 §21; 1993 c.235 §7; 1999 c.486 §2] 58.136 Amended application for authority to transact business. A foreign professional corporation shall file an amended application with the Office of Secretary of State anytime there is a change in the professional service or services to be rendered by the foreign professional corporation or in the business purpose as specified in the application under ORS 58.134, or as otherwise required by law. [1993 c.235 §31] 58.139 [1987 c.94 §22; repealed by 1993 c.235 §40] 58.140 [Repealed by 1961 c.726 §427] 58.141 Rights and duties of foreign professional corporation and shareholders; authority to transact business.
+
+(1) A foreign professional corporation authorized to transact business in this state has the same but no greater rights and the same but no greater privileges as a domestic professional corporation and, except as otherwise provided in this chapter, is subject to the same duties, restrictions, penalties and liabilities imposed on a domestic professional corporation.
+
+(2) A foreign professional corporation shareholder who practices within this state has the same but no greater rights and the same but no greater privileges as a domestic professional corporation shareholder and, except as otherwise provided in this chapter, is subject to the same duties, restrictions, penalties and liabilities imposed on a domestic professional corporation shareholder.
+
+(3) The filing by the Secretary of State of an application or amendment to the application for authority to transact business shall constitute authorization to transact business in this state, subject to the approval by the applicable regulatory board or boards and subject to the right of the Secretary of State to revoke the authorization. [1993 c.235 §30] 58.144 [1987 c.94 §23; repealed by 1993 c.235 §40] 58.150 [Repealed by 1961 c.726 §427] 58.155 [1969 c.592 §10; repealed by 1993 c.235 §40]
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors058.html> · retrieved 2026-07-26 · sha256 `8c2dc5fd330373471e8978fb982990eb045ac65dcb5699c888b56edf9e3a8047`
+  (chapter snapshot `_meta/snapshots/ors-chapter-58.html`)
+- See [CHANGELOG](./CHANGELOG.md).
