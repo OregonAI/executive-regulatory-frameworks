@@ -198,7 +198,61 @@ MONTHS = {mo: i for i, mo in enumerate(
 # anchor, so a garbled day yields None rather than poisoning an otherwise-good date.
 _SIGNED_ANCHOR = re.compile(
     rf"\b\w{{0,4}}day\s+of\s+({'|'.join(MONTHS)})\b\W{{0,4}}(\d{{4}})", re.I)
-_SIGNED_DAY = re.compile(r"(\d{1,2})\s*\S{0,3}\s*$")
+_DIGIT_RUN = re.compile(r"\d+")
+# Two digit runs closer together than this are one number the OCR broke apart, not a
+# day followed by an ordinal.
+_ADJACENT = 3
+
+# Punctuation an OCR'd superscript ordinal degrades into: "20%", "3°", "1'", '4"', "6 —".
+_ORD_PUNCT = re.compile(r"[\s'\"‘’“”`´.,;:%°*!?_—–@¢$#^~|\\/()\[\]{}+-]")
+# Recognized ordinals. Checked BEFORE the lookalike test below, because "st" and "nd"
+# themselves contain letters that test as digit-lookalikes.
+_ORDINALS = {"", "st", "nd", "rd", "th"}
+# Glyphs OCR routinely emits for a digit. Sitting where the day's other digit belongs,
+# they mean the day may be truncated and there is no way to distinguish that from a
+# genuine ordinal suffix. Lowercase "i" is excluded: it is dot-topped and shows up in
+# garbled ordinals ("23 ih" for 23rd) far more often than it does as a misread 1.
+_LOOKALIKE = re.compile(r"[IlOoDSsBZgq]")
+# Same test for the glyph BEFORE the digits — a lost leading digit ("‘L5" for 15).
+# Uppercase only: "this5th" would otherwise reject on the s of "this".
+_LEAD_LOOKALIKE = re.compile(r"[ILODSBZ]")
+
+
+def _extract_day(window: str):
+    """(day, lead_glyph, suffix) from the text just before the word 'day', or None.
+
+    The hard case is two digit runs. OCR produces both
+        "this 22\"4 day"   -> 22nd, where the superscript 'nd' came through as "4
+        "this 2.6 day"     -> 26, a single number split by a stray glyph
+    and they are not distinguishable by position alone. A two-digit first run is
+    already a complete day, so a stray trailing digit is ordinal debris; a one-digit
+    first run means either reading is possible, and a coin flip is exactly what this
+    parser must not do."""
+    runs = list(_DIGIT_RUN.finditer(window))
+    if not runs:
+        return None
+    day_run = runs[-1]
+    if len(runs) >= 2 and runs[-1].start() - runs[-2].end() <= _ADJACENT:
+        if len(runs[-2].group()) != 2:
+            return None                      # split day: 2.6 / 1.5 / 2 3 — unresolvable
+        day_run = runs[-2]                   # 22"4 — the 22 is the day
+    lead = window[day_run.start() - 1] if day_run.start() else ""
+    return int(day_run.group()), lead, window[day_run.end():]
+
+
+def _day_is_trustworthy(lead: str, suffix: str) -> bool:
+    """True when the glyphs around the day digits cannot be hiding a lost digit.
+
+    A confidently wrong date is worse than a null one, so anything ambiguous is
+    rejected rather than guessed."""
+    residue = _ORD_PUNCT.sub("", suffix)
+    # Case matters to the lookalike test ("I" is a 1, "i" is not), so compare the
+    # ordinal case-insensitively but run the lookalike test on the original glyphs.
+    if residue.lower() in _ORDINALS:               # "th", "st", "" — unambiguous
+        return not _LEAD_LOOKALIKE.search(lead)
+    if _LOOKALIKE.search(residue):                 # "I", "S", "D", "tl" — could be a digit
+        return False
+    return not _LEAD_LOOKALIKE.search(lead)        # "ih", "TM", "a" — garbled, but not a digit
 
 
 def parse_signed_date(text: str, order_id: str | None = None):
@@ -207,7 +261,11 @@ def parse_signed_date(text: str, order_id: str | None = None):
     Pass `order_id` to enable the cross-check: an order numbered eo-YY-NN is signed in
     20YY (or, rarely, that December of the prior year). A parsed date that contradicts
     its own id is rejected rather than written — a confidently wrong effective_date is
-    worse than a null one."""
+    worse than a null one.
+
+    Note what that cross-check does NOT cover: it validates the YEAR only, so it agrees
+    with a date whose DAY has been silently truncated by OCR. `_day_is_trustworthy`
+    is what guards the day."""
     matches = list(_SIGNED_ANCHOR.finditer(text))
     if not matches:
         return None
@@ -215,11 +273,13 @@ def parse_signed_date(text: str, order_id: str | None = None):
     month, year = MONTHS[m.group(1).lower()], int(m.group(2))
     if not 1990 <= year <= 2100:
         return None
-    d = _SIGNED_DAY.search(text[max(0, m.start() - 16):m.start()])
+    d = _extract_day(text[max(0, m.start() - 16):m.start()])
     if not d:
         return None
-    day = int(d.group(1))
+    day, lead, suffix = d
     if not 1 <= day <= 31:
+        return None
+    if not _day_is_trustworthy(lead, suffix):
         return None
 
     if order_id:
@@ -552,8 +612,59 @@ def write_index():
     print(f"executive-orders/_index.md: {len(ingested)} orders across {len(by_year)} years")
 
 
+# Every case below is a REAL signature line from this corpus, not an invented one.
+# (snippet, order_id, expected) — expected None means "reject: cannot be trusted".
+_SELFTEST_CASES = [
+    # clean ordinals — must still parse
+    ("and signed this 29'th day of August 2005", "eo-05-08", "2005-08-29"),
+    ("land, Oregon this 5th day of September, 2005", "eo-05-09", "2005-09-05"),
+    ("lem, Oregon, this 9th day of February, 2006", "eo-06-03", "2006-02-09"),
+    ("06 and signed this 21 day of July, 2006", "eo-06-10", "2006-07-21"),
+    # superscript ordinal degraded to punctuation — must still parse
+    ("e at Salem, Oregon this 20% day of February, 2004", "eo-04-01", "2004-02-20"),
+    ("at Salem, Oregon, this 31° day of March, 2021", "eo-21-07", "2021-03-31"),
+    ("at Salem, Oregon, this 1‘ day of April, 2020", "eo-20-13", "2020-04-01"),
+    ("t Portland, Oregon this 26TM day of August, 2011", "eo-11-08", "2011-08-26"),
+    ("y, 2006 and signed this 23 ih day of July, 2006", "eo-06-11", "2006-07-23"),
+    ("at Salem, Oregon this_ 29 _ day of July, 2013", "eo-13-07", "2013-07-29"),
+    # digit-like glyph where a second digit belongs — must reject
+    ("e at Salem, Oregon this 3I day of October, 2007", "eo-07-18", None),   # is 31
+    ("at Salem, Oregon, this 1S day of July, 2016", "eo-16-12", None),
+    ("at Salem, Oregon, this 2S day of October, 2019", "eo-19-08", None),
+    ("at Salem, Oregon, this 2D day of January, 2016", "eo-16-04", None),
+    ("at Salem, Oregon, this 1o* day of March, 2020", "eo-20-04", None),
+    ("one at Salem,Oregon,tbis3D-day of May, 2006", "eo-06-08", None),
+    ("2023 and signed, this 27tl'day of February, 2023", "eo-23-06", None),
+    # lost LEADING digit — must reject
+    ("5, and signed this ‘L5 __ day of August, 2015", "eo-15-14", None),
+    # split / doubled digit runs — real lines, see _extract_day
+    ("Done at Salem, Oregon this 22\"4 day of March, 2020", "eo-20-11", "2020-03-22"),
+    ("Done at Salem, Oregon, this    1.5     day of March, 2011", "eo-11-04", None),
+    ("ugust, 2015, and signed this   2.6      day of August, 2015", "eo-15-15", None),
+    ("Done at Salem, Oregon this 2 3 day of June, 2013", "eo-13-06", None),
+    # pre-existing guards must be untouched
+    ("this 9th day of February, 1899", "eo-06-03", None),      # year out of range
+    ("this 9th day of February, 2011", "eo-06-03", None),      # contradicts id year
+    ("this 31st day of February, 2006", "eo-06-03", None),     # impossible calendar date
+    ("no signature block here at all", "eo-06-03", None),
+]
+
+
+def selftest() -> int:
+    fails = 0
+    for text, oid, expected in _SELFTEST_CASES:
+        got = parse_signed_date(text, oid)
+        if got != expected:
+            fails += 1
+            print(f"FAIL {oid}: got {got!r}, want {expected!r} — {text[-46:]!r}")
+    print(f"parse_signed_date: {len(_SELFTEST_CASES) - fails}/{len(_SELFTEST_CASES)} passed")
+    return 1 if fails else 0
+
+
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument("--selftest", action="store_true",
+                    help="run parse_signed_date against real corpus signature lines")
     ap.add_argument("--enumerate", action="store_true")
     ap.add_argument("--ingest", action="store_true")
     ap.add_argument("--ocr", action="store_true",
@@ -562,7 +673,9 @@ def main():
     ap.add_argument("--limit", type=int, default=None, help="process at most N (testing)")
     ap.add_argument("--only", default=None, help="--ocr a single order id (testing)")
     args = ap.parse_args()
-    if args.enumerate:
+    if args.selftest:
+        sys.exit(selftest())
+    elif args.enumerate:
         cmd_enumerate()
     elif args.ingest:
         cmd_ingest(args.limit)
