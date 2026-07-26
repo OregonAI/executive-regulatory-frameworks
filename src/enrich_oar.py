@@ -49,13 +49,25 @@ EFF_LONG_RE = re.compile(r"effective (\d{2}/\d{2}/\d{4})")
 EFF_SHORT_RE = re.compile(r"(?:cert\. ef\.|& ef\.|cert\. &? ?ef\.|ef\.)\s*(\d{1,2}-\d{1,2}-\d{2,4})")
 RENUM_RE = re.compile(r"renumbered from (\d{3}-\d{3}-\d{4})")
 REPEAL_RE = re.compile(r"\brepeal", re.I)
-CITE_FAMILY_RE = re.compile(r"^(ORS|OAR|OL|USC|CFR|Or Laws|Oregon Laws|Ch\.?|Chapter|Sec\.?|Section)\b", re.I)
+# RCW is Washington's code. It appears in the Gorge Commission's rules alongside ORS and
+# survived the bug only because it does not start with a digit; naming it explicitly
+# makes that correctness deliberate rather than accidental, and lets a bare section
+# following it inherit RCW instead of the list's opening family.
+CITE_FAMILY_RE = re.compile(
+    r"^(ORS|OAR|OL|USC|CFR|RCW|Or Laws|Oregon Laws|Ch\.?|Chapter|Sec\.?|Section)\b", re.I)
 # A year-led session-law or bill citation ("2013 HB 2633", "2010 OL Ch. 30") starts with a
 # digit like a bare continuation number would, but is a citation in its own right — never
 # ORS-prefixed, and doesn't change what family a later bare digit continues.
 SESSION_OR_BILL_RE = re.compile(r"^\d{4}\s+(OL|Oregon Laws|c\.|HB|SB)\b", re.I)
 # A bare "42 CFR 441.505" / "45 USC 1234" starts with a digit too, but is its own family.
-CFR_USC_BARE_RE = re.compile(r"^\d+(\.\d+)?\s+(CFR|USC)\b", re.I)
+# THE PERIODS MATTER. This first accepted only unpunctuated "CFR"/"USC", so the form
+# Oregon actually publishes — "16 U.S.C. § 544c(b)" — fell through to the bare-digit
+# rule below and inherited the list's leading "ORS", producing "ORS 16 U.S.C. § 544c(b)"
+# on 272 documents. Oregon Revised Statutes and the United States Code are different
+# bodies of law; that citation cannot exist. It came from OAR chapter 350, the Columbia
+# River Gorge Commission, whose rules cite Oregon, Washington and federal law in one
+# list precisely because the compact is bi-state.
+CFR_USC_BARE_RE = re.compile(r"^\d+(\.\d+)?\s+(C\.?\s?F\.?\s?R|U\.?\s?S\.?\s?C)\.?(?=\s|$|\W)", re.I)
 # A bare parenthetical ("(4)", "(1)(yy)") split off by the '&'/',' splitter is a subsection
 # continuation of the PREVIOUS citation, not a new one.
 CONTINUATION_RE = re.compile(r"^\(")
