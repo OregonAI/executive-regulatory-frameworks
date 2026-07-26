@@ -20,7 +20,7 @@ These carry `content_exception`: their sources are image-only scans or binary fo
 - `agencies/department-of-administrative-services/policies/das-105-050-0004.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
 - `agencies/department-of-administrative-services/policies/das-105-050-0025.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
 - `agencies/department-of-administrative-services/policies/das-105-050-0030.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
-- `executive-orders/ (27 documents)` — image-only scans or unusable OCR layers — metadata stubs only; resolvable only by an OCR + human-verification pass; per-order detail in `_meta/catalog/eo.yml` (`text_layer` field)
+- `executive-orders/ (12 documents)` — image-only scans or unusable OCR layers — metadata stubs only; resolvable only by an OCR + human-verification pass; per-order detail in `_meta/catalog/eo.yml` (`text_layer` field)
 
 ## Explicit TODO markers (0)
 
@@ -301,7 +301,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/411/ (6 rules)` — correct non-links — 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/411/340/oar-411-340-0135.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/413/ (53 rules)` — correct non-links — 53 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/414/ (140 rules)` — correct non-links — 20 cite only chapter-level authority (no section to link to); 120 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/414/ (137 rules)` — correct non-links — 19 cite only chapter-level authority (no section to link to); 118 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/415/ (7 rules)` — correct non-links — 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/415/065/oar-415-065-0070.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/416/ (9 rules)` — correct non-links — 9 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority

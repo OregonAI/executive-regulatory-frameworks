@@ -72,7 +72,8 @@ orders:
   file_ref: /gov/eo/eo-03-08.pdf
   listing_year: '2003'
   listing_number: '8'
-  text_layer: 'none (OCR attempted 2026-07-19: 77 words, 92% dictionary — below threshold)'
+  text_layer: 'none (fallback OCR attempted 2026-07-25: 43 words, 53% dictionary, 39% cross-engine agreement
+    — below threshold)'
   path: executive-orders/eo-03-08.md
   sha256: 811d5235f94327c03181888cc8fe1c9cdd87d32c4c8875e17a01d55d4ed17972
 - id: eo-03-09
@@ -252,7 +253,7 @@ orders:
   file_ref: /gov/eo/EO0508.pdf
   listing_year: '2005'
   listing_number: '8'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (257 words, 93% dictionary, 96% cross-engine agreement)
   path: executive-orders/eo-05-08.md
   sha256: 6f2d861255a20bfb91ecfe1859324f1a242c123921bad9a52f93fed0a188053d
 - id: eo-05-09
@@ -261,7 +262,7 @@ orders:
   file_ref: /gov/eo/EO0509.pdf
   listing_year: '2005'
   listing_number: '9'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (196 words, 92% dictionary, 87% cross-engine agreement)
   path: executive-orders/eo-05-09.md
   sha256: 5e44fdc0b4c365d6694ed61a93c9a46ba4f3d40d5ca27828aa251161d3c79c94
 - id: eo-05-10
@@ -297,7 +298,7 @@ orders:
   file_ref: /gov/eo/eo0603.pdf
   listing_year: '2006'
   listing_number: '3'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (689 words, 92% dictionary, 97% cross-engine agreement)
   path: executive-orders/eo-06-03.md
   sha256: b6901e9fe10c373f59a9962e06d1dfd3f8fb57870f80b4f581d9c6034a03eb17
 - id: eo-06-04
@@ -306,7 +307,7 @@ orders:
   file_ref: /gov/eo/eo0604.pdf
   listing_year: '2006'
   listing_number: '4'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (847 words, 97% dictionary, 95% cross-engine agreement)
   path: executive-orders/eo-06-04.md
   sha256: b57989a6686ed6a4dfa9431cd8b3aca13bf6567736370bd54f7ce618d9598ee4
 - id: eo-06-05
@@ -315,7 +316,7 @@ orders:
   file_ref: /gov/eo/eo-06-05.pdf
   listing_year: '2006'
   listing_number: '5'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (972 words, 94% dictionary, 97% cross-engine agreement)
   path: executive-orders/eo-06-05.md
   sha256: bf1ea16a9fe4f0db3464e330733c85b590902361e0ddbde68672fc988fcabcb2
 - id: eo-06-06
@@ -353,7 +354,7 @@ orders:
   file_ref: /gov/eo/eo0609.pdf
   listing_year: '2006'
   listing_number: '9'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (319 words, 94% dictionary, 93% cross-engine agreement)
   path: executive-orders/eo-06-09.md
   sha256: c6f12e5fc003bc7fc52d0d8bbcef1a4f2552bf79ce16568fcc6c12b0e4220d9a
 - id: eo-06-10
@@ -362,7 +363,7 @@ orders:
   file_ref: /gov/eo/eo0610.pdf
   listing_year: '2006'
   listing_number: '10'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (269 words, 93% dictionary, 89% cross-engine agreement)
   path: executive-orders/eo-06-10.md
   sha256: 1f0f1c9f63846be8a0cdec8f938ed9be2d4e259c1779a3ffc5ce8014450e7e2e
 - id: eo-06-11
@@ -371,7 +372,7 @@ orders:
   file_ref: /gov/eo/eo0611.pdf
   listing_year: '2006'
   listing_number: '11'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (259 words, 92% dictionary, 95% cross-engine agreement)
   path: executive-orders/eo-06-11.md
   sha256: 56afacd12625824c2a3b7ca52aa305ee525ea228cd663b40da0a240a90a730d3
 - id: eo-06-12
@@ -380,7 +381,7 @@ orders:
   file_ref: /gov/eo/eo0612.pdf
   listing_year: '2006'
   listing_number: '12'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (246 words, 93% dictionary, 94% cross-engine agreement)
   path: executive-orders/eo-06-12.md
   sha256: da9c2ec4ce2059ffc4ff9d86545b81bdbee109e10d3db6ba3ac832c3b76ee25c
 - id: eo-06-13
@@ -391,7 +392,7 @@ orders:
   listing_number: '13'
   listing_metadata_mismatch: listing says 2007 No. 13; filename (trusted) says 2006 No. 13 — the description
     matches the filename
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (488 words, 96% dictionary, 95% cross-engine agreement)
   path: executive-orders/eo-06-13.md
   sha256: 62985ccf0364dddf2a70debb9906cb9621872b27c45fd02ca414374e3892316a
 - id: eo-06-14
@@ -400,7 +401,7 @@ orders:
   file_ref: /gov/eo/eo-06-14.pdf
   listing_year: '2006'
   listing_number: '14'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (607 words, 94% dictionary, 97% cross-engine agreement)
   path: executive-orders/eo-06-14.md
   sha256: 2c3a6b0978565fb4fb8378491caff293f5a5026b6f43dea57f30842dc2e07823
 - id: eo-06-15
@@ -411,7 +412,7 @@ orders:
   listing_number: '14'
   listing_metadata_mismatch: listing says 2006 No. 14; filename (trusted) says 2006 No. 15 — the description
     matches the filename
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (282 words, 93% dictionary, 95% cross-engine agreement)
   path: executive-orders/eo-06-15.md
   sha256: 661bac5f02d4b07fdd1e955ff004bccdc77169ac8804147b87dbc063fc221c04
 - id: eo-06-16
@@ -430,7 +431,7 @@ orders:
   file_ref: /gov/eo/eo-07-01.pdf
   listing_year: '2007'
   listing_number: '1'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (662 words, 96% dictionary, 97% cross-engine agreement)
   path: executive-orders/eo-07-01.md
   sha256: c995b7a2940c44ff3c1bac014d7b25bf4d996faf61269aeb1f2e38f9ce94e065
 - id: eo-07-02
@@ -475,7 +476,8 @@ orders:
   file_ref: /gov/eo/eo-07-06.pdf
   listing_year: '2007'
   listing_number: '6'
-  text_layer: 'none (OCR attempted 2026-07-19: 76 words, 99% dictionary — below threshold)'
+  text_layer: 'none (fallback OCR attempted 2026-07-25: 44 words, 61% dictionary, 43% cross-engine agreement
+    — below threshold)'
   path: executive-orders/eo-07-06.md
   sha256: a2908b64e1d2f7cca8ebc6c46a5e55e7f89194f3b74491d1d92ee8970454d83e
 - id: eo-07-07
@@ -588,7 +590,7 @@ orders:
   file_ref: /gov/eo/eo-07-18.pdf
   listing_year: '2007'
   listing_number: '18'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (259 words, 94% dictionary, 93% cross-engine agreement)
   path: executive-orders/eo-07-18.md
   sha256: 50d88b7ef8d0af94f6e705fc8fa0bca141c4fcd47dc32621962f0bc1bace0a94
 - id: eo-07-19
@@ -597,7 +599,7 @@ orders:
   file_ref: /gov/eo/eo-07-19.pdf
   listing_year: '2007'
   listing_number: '19'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: fallback-ocr (214 words, 95% dictionary, 94% cross-engine agreement)
   path: executive-orders/eo-07-19.md
   sha256: 190243e9002a2b67536558aabbc8aae20115782d91353a612e39ad38be87722a
 - id: eo-07-20
@@ -665,7 +667,8 @@ orders:
   file_ref: /gov/eo/eo-07-26-a.pdf
   listing_year: '2007'
   listing_number: '26'
-  text_layer: 'none (OCR attempted 2026-07-19: 83 words, 94% dictionary — below threshold)'
+  text_layer: 'none (fallback OCR attempted 2026-07-25: 48 words, 46% dictionary, 41% cross-engine agreement
+    — below threshold)'
   path: executive-orders/eo-07-26-a.md
   sha256: 3f8aa4d812aaec6e10f532520cfc4e97e9a879c7e08dbb26d29271edeacaaa17
 - id: eo-07-27
@@ -794,7 +797,8 @@ orders:
   file_ref: /gov/eo/eo-08-13.pdf
   listing_year: '2008'
   listing_number: '13'
-  text_layer: 'none (OCR attempted 2026-07-19: 87 words, 99% dictionary — below threshold)'
+  text_layer: 'none (fallback OCR attempted 2026-07-25: 82 words, 89% dictionary, 89% cross-engine agreement
+    — below threshold)'
   path: executive-orders/eo-08-13.md
   sha256: 72aae9087cfed54b701ce9e18a4ef4a9ef9cfae172d0deb96a83b56853471dd7
 - id: eo-08-14
@@ -915,7 +919,8 @@ orders:
   file_ref: /gov/eo/eo-08-25.pdf
   listing_year: '2008'
   listing_number: '25'
-  text_layer: 'none (OCR attempted 2026-07-19: 92 words, 96% dictionary — below threshold)'
+  text_layer: 'none (fallback OCR attempted 2026-07-25: 79 words, 87% dictionary, 78% cross-engine agreement
+    — below threshold)'
   path: executive-orders/eo-08-25.md
   sha256: 4cdc26832f8a800cf4a84bae1d574238213c38a3ffeaf3e32e0830bea0f9e6c2
 - id: eo-08-26-rev
@@ -1382,7 +1387,8 @@ orders:
   file_ref: /gov/eo/eo-12-04.pdf
   listing_year: '2012'
   listing_number: '4'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: 'none (fallback OCR attempted 2026-07-25: 52 words, 73% dictionary, 56% cross-engine agreement
+    — below threshold)'
   path: executive-orders/eo-12-04.md
   sha256: e259732183ab1b23c1191a7e72efc798c27a7d03760efbe357a3488048e36969
 - id: eo-12-05
@@ -1429,7 +1435,8 @@ orders:
   file_ref: /gov/eo/eo-12-09.pdf
   listing_year: '2012'
   listing_number: '9'
-  text_layer: 'none (OCR attempted 2026-07-19: 96 words, 95% dictionary — below threshold)'
+  text_layer: 'none (fallback OCR attempted 2026-07-25: 51 words, 47% dictionary, 35% cross-engine agreement
+    — below threshold)'
   path: executive-orders/eo-12-09.md
   sha256: 9e34fb46be29e81e920624e6d4a306aa959f81b5fc2797a1810bc4e2b52e6978
 - id: eo-12-10
@@ -2012,7 +2019,8 @@ orders:
   file_ref: /gov/eo/eo_16-01.pdf
   listing_year: '2016'
   listing_number: '1'
-  text_layer: 'none (OCR attempted 2026-07-19: 83 words, 96% dictionary — below threshold)'
+  text_layer: 'none (fallback OCR attempted 2026-07-25: 53 words, 62% dictionary, 54% cross-engine agreement
+    — below threshold)'
   path: executive-orders/eo-16-01.md
   sha256: 7906a4e0f37293c28fc82cf232354ba7079a4b0cc3a14d96c7eeb3a700f261c6
 - id: eo-16-02
@@ -2141,7 +2149,8 @@ orders:
   file_ref: /gov/eo/eo_16-15.pdf
   listing_year: '2016'
   listing_number: '15'
-  text_layer: 'none (OCR attempted 2026-07-19: 53 words, 98% dictionary — below threshold)'
+  text_layer: 'none (fallback OCR attempted 2026-07-25: 27 words, 52% dictionary, 45% cross-engine agreement
+    — below threshold)'
   path: executive-orders/eo-16-15.md
   sha256: 0257b4c62ce1628f0687160052dff9388a79048dc2dd64326e097b91b6524b3e
 - id: eo-17-01
@@ -2237,7 +2246,8 @@ orders:
   file_ref: /gov/eo/eo_17-10.pdf
   listing_year: '2017'
   listing_number: '10'
-  text_layer: 'none (OCR attempted 2026-07-19: 78 words, 99% dictionary — below threshold)'
+  text_layer: 'none (fallback OCR attempted 2026-07-25: 50 words, 74% dictionary, 61% cross-engine agreement
+    — below threshold)'
   path: executive-orders/eo-17-10.md
   sha256: a4cc356983b629ed66fb2e31d3fec777f2bd1152b898b74126e1dccf6947573b
 - id: eo-17-11
@@ -2712,7 +2722,8 @@ orders:
   file_ref: /gov/eo/eo_19_07.pdf
   listing_year: '2019'
   listing_number: '7'
-  text_layer: 'none (OCR attempted 2026-07-19: 78 words, 91% dictionary — below threshold)'
+  text_layer: 'none (fallback OCR attempted 2026-07-25: 45 words, 51% dictionary, 40% cross-engine agreement
+    — below threshold)'
   path: executive-orders/eo-19-07.md
   sha256: 0656a47c9e4da0461d755aa409f2440abe5ee54d85b0fc0ddcfa390e80b619d7
 - id: eo-19-08
@@ -4792,7 +4803,8 @@ orders:
   file_ref: /gov/eo/eo-25-31.pdf
   listing_year: '2025'
   listing_number: '31'
-  text_layer: none (ocrmypdf failed exit 6 on 2026-07-19)
+  text_layer: 'none (fallback OCR attempted 2026-07-25: 85 words, 80% dictionary, 84% cross-engine agreement
+    — below threshold)'
   path: executive-orders/eo-25-31.md
   sha256: ec843548cc63b7904480455a1b98fcb8a75838d1481ea5f4ab909cbbea345b78
 - id: eo-25-32
