@@ -92,6 +92,34 @@ def build_html() -> str:
         agencies=s["agencies"], repo=REPO_URL, mcp=MCP_URL, today=today)
 
 
+def build_corpus_index(site: Path) -> str:
+    """Publish the cross-corpus resolution index to the Pages site.
+
+    A sibling corpus resolving a citation like `OAR 166-300-0040` needs to know that
+    document exists here and what it is called. It cannot read our _meta/graph.json to
+    find out — that file is 26 MB. corpus-generate-index emits the same information
+    without edges: id -> [title, doc_type, path], about 7 MB, and 1.4 MB over the wire
+    because GitHub serves it gzipped.
+
+    Built here, at deploy time, rather than committed. A committed index is a generated
+    file that can silently fall behind its own corpus, which then makes SIBLINGS resolve
+    stale titles and paths — a failure that shows up in someone else's repository. Built
+    on every push to main it is current by construction and needs no staleness gate at
+    all. It also keeps ~7 MB per regeneration out of git history.
+
+    Written compact: this is machine-read by a sibling's resolver, never diffed by a
+    human, so the 2 MB of indentation buys nothing.
+    """
+    from corpus_toolkit import config as config_mod
+    from corpus_toolkit.index import build_index
+
+    index = build_index(config_mod.load(str(REPO / "_meta/corpus.yml")))
+    out = site / "corpus-index.json"
+    out.write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")),
+                   encoding="utf-8")
+    return f"{index['n_documents']:,} documents, {out.stat().st_size / 1048576:.1f} MiB"
+
+
 def main():
     SITE.mkdir(exist_ok=True)
     (SITE / "index.html").write_text(build_html(), encoding="utf-8")
@@ -100,6 +128,7 @@ def main():
         if p.exists():
             shutil.copyfile(p, SITE / src)
     print(f"built site/ ({stats()['documents']:,} documents) -> {SITE.relative_to(REPO)}")
+    print(f"  corpus-index.json: {build_corpus_index(SITE)}")
 
 
 TEMPLATE = r"""<!doctype html>
