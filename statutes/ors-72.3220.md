@@ -1,0 +1,129 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: ors-72.3220
+title: "Delivery “ex-ship”"
+doc_type: statute
+citation: "ORS 72.3220"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors072.html"
+source_format: html
+retrieved: "2026-07-26"
+source_sha256: "39294435e138cdd58ae800a6807156f7687d6347bea8323ee7b42f91886bebec"
+snapshot_id: ors-chapter-72
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+last_amended: 2009
+enacted: 1961
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-26"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-72"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors072.html> (retrieved 2026-07-26, 2025 Edition).
+
+# Delivery “ex-ship” (ORS 72.3220)
+
+## At a glance
+
+ORS 72.3220 — Delivery “ex-ship”. Chapter 72 (Sales), 2025 Edition.
+
+## Full text
+
+72.3220 Delivery “ex-ship.”
+
+(1) Unless otherwise agreed a term for delivery of goods “ex-ship” (which means from the carrying vessel) or in equivalent language is not restricted to a particular ship and requires delivery from a ship which has reached a place at the named port of destination where goods of the kind are usually discharged.
+
+(2) Under such a term unless otherwise agreed: (a) The seller must discharge all liens arising out of the carriage and furnish the buyer with a direction which puts the carrier under a duty to deliver the goods; and (b) The risk of loss does not pass to the buyer until the goods leave the ship’s tackle or are otherwise properly unloaded. [1961 c.726 §72.3220] 72.3230 Form of bill of lading required in overseas shipment; “overseas.”
+
+(1) Where the contract contemplates overseas shipment and contains a term C.I.F. or C. and F. or F.O.B. vessel, the seller unless otherwise agreed must obtain a negotiable bill of lading stating that the goods have been loaded on board or, in the case of a term C.I.F. or C. and F., received for shipment.
+
+(2) Where in a case within subsection
+
+(1) of this section a tangible bill of lading has been issued in a set of parts, unless otherwise agreed if the documents are not to be sent from abroad the buyer may demand tender of the full set; otherwise only one part of the bill of lading need be tendered. Even if the agreement expressly requires a full set: (a) Due tender of a single part is acceptable within the provisions of ORS 72.5080
+
+(1) on cure of improper delivery; and (b) Even though the full set is demanded, if the documents are sent from abroad the person tendering an incomplete set may nevertheless require payment upon furnishing an indemnity which the buyer in good faith deems adequate.
+
+(3) A shipment by water or by air or a contract contemplating such shipment is “overseas” in so far as by usage of trade or agreement it is subject to the commercial, financing or shipping practices characteristic of international deep water commerce. [1961 c.726 §72.3230; 2009 c.181 §28] 72.3240 “No arrival, no sale” term. Under a term “no arrival, no sale” or terms of like meaning, unless otherwise agreed:
+
+(1) The seller must properly ship conforming goods and if they arrive by any means the seller must tender them on arrival but the seller assumes no obligation that the goods will arrive unless the seller has caused the nonarrival; and
+
+(2) Where without fault of the seller the goods are in part lost or have so deteriorated as no longer to conform to the contract or arrive after the contract time, the buyer may proceed as if there had been casualty to identified goods as provided in ORS 72.6130. [1961 c.726 §72.3240] 72.3250 “Letter of credit” term; “confirmed credit.”
+
+(1) Failure of the buyer seasonably to furnish an agreed letter of credit is a breach of the contract for sale.
+
+(2) The delivery to seller of a proper letter of credit suspends the buyer’s obligation to pay. If the letter of credit is dishonored, the seller may on seasonable notification to the buyer require payment directly from the buyer.
+
+(3) Unless otherwise agreed the term “letter of credit” or “banker’s credit” in a contract for sale means an irrevocable credit issued by a financing agency of good repute and, where the shipment is overseas, of good international repute. The term “confirmed credit” means that the credit must also carry the direct obligation of such an agency which does business in the seller’s financial market. [1961 c.726 §72.3250] 72.3260 Sale on approval and sale or return; rights of creditors.
+
+(1) Unless otherwise agreed, if delivered goods may be returned by the buyer even though they conform to the contract, the transaction is: (a) A “sale on approval” if the goods are delivered primarily for use; and (b) A “sale or return” if the goods are delivered primarily for resale.
+
+(2) Goods held on approval are not subject to the claims of the buyer’s creditors until acceptance; goods held on sale or return are subject to such claims while in the buyer’s possession.
+
+(3) Any “or return” term of a contract for sale is to be treated as a separate contract for sale within ORS 72.2010 relating to the statute of frauds and as contradicting the sale aspect of the contract within the provisions of ORS 72.2020 on parole or extrinsic evidence. [1961 c.726 §72.3260; 1967 c.395 §1; 1993 c.756 §1; 2001 c.445 §134] 72.3270 Special incidents of sale on approval and sale or return.
+
+(1) Under a sale on approval unless otherwise agreed: (a) Although the goods are identified to the contract the risk of loss and the title do not pass to the buyer until acceptance; and (b) Use of the goods consistent with the purpose of trial is not acceptance but failure seasonably to notify the seller of election to return the goods is acceptance, and if the goods conform to the contract acceptance of any part is acceptance of the whole; and (c) After due notification of election to return, the return is at the seller’s risk and expense but a merchant buyer must follow any reasonable instructions.
+
+(2) Under a sale or return unless otherwise agreed: (a) The option to return extends to the whole or any commercial unit of the goods while in substantially their original condition, but must be exercised seasonably; and (b) The return is at the buyer’s risk and expense. [1961 c.726 §72.3270] 72.3280 Sale by auction.
+
+(1) In a sale by auction if goods are put up in lots each lot is the subject of a separate sale.
+
+(2) A sale by auction is complete when the auctioneer so announces by the fall of the hammer or in other customary manner. Where a bid is made while the hammer is falling in acceptance of a prior bid the auctioneer may in the auctioneer’s discretion reopen the bidding or declare the goods sold under the bid on which the hammer was falling.
+
+(3) Such a sale is with reserve unless the goods are in explicit terms put up without reserve. In an auction with reserve the auctioneer may withdraw the goods at any time until the auctioneer announces completion of the sale. In an auction without reserve, after the auctioneer calls for bids on an article or lot, that article or lot cannot be withdrawn unless no bid is made within a reasonable time. In either case a bidder may retract a bid until the auctioneer’s announcement of completion of the sale, but a bidder’s retraction does not revive any previous bid.
+
+(4) If the auctioneer knowingly receives a bid on the seller’s behalf or the seller makes or procures such a bid, and notice has not been given that liberty for such bidding is reserved, the buyer may at the buyer’s option avoid the sale or take the goods at the price of the last good faith bid prior to the completion of the sale. This subsection shall not apply to any bid at a forced sale. [1961 c.726 §72.3280; 1983 c.404 §4; 1985 c.822 §2] TITLE, CREDITORS AND GOOD FAITH PURCHASERS 72.4005 Definitions for ORS 72.4010 and 72.4030. As used in ORS 72.4010 and 72.4030, “draft,” “check,” “certificate of deposit” and “note” have the meaning for those terms provided in ORS 73.0104. [1973 c.287 §4; 1993 c.545 §117] 72.4010 Passing of title; reservation for security; limited application of ORS 72.4010. Each provision of this chapter with regard to the rights, obligations and remedies of the seller, the buyer, purchasers or other third parties applies irrespective of title to the goods except where the provision refers to such title. In so far as situations are not covered by the other provisions of this chapter and matters concerning title become material the following rules apply:
+
+(1) Title to goods cannot pass under a contract for sale prior to their identification to the contract as provided in ORS 72.5010, and unless otherwise explicitly agreed the buyer acquires by their identification a special property as limited by the Uniform Commercial Code. Any retention or reservation by the seller of the title (property) in goods shipped or delivered to the buyer is limited in effect to a reservation of a security interest. Subject to these provisions and to the provisions of ORS chapter 79A on secured transactions, title to goods passes from the seller to the buyer in any manner and on any conditions explicitly agreed on by the parties.
+
+(2) Unless otherwise explicitly agreed title passes to the buyer at the time and place at which the seller completes performance with reference to the physical delivery of the goods, despite any reservation of a security interest and even though a document of title is to be delivered at a different time or place; and in particular and despite any reservation of a security interest by the bill of lading: (a) If the contract requires or authorizes the seller to send the goods to the buyer but does not require the seller to deliver them at destination, title passes to the buyer at the time and place of shipment; but (b) If the contract requires delivery at destination, title passes on tender there.
+
+(3) Unless otherwise explicitly agreed where delivery is to be made without moving the goods: (a) If the seller is to deliver a tangible document of title, title passes at the time when and the place where the seller delivers the document and if the seller is to deliver an electronic document of title, title passes when the seller delivers the document; or (b) If the goods are at the time of contracting already identified and no documents of title are to be delivered, title passes at the time and place of contracting.
+
+(4) When livestock has been delivered under a contract of sale and is transported by private, common or contract carrier, if on the accompanying brand inspection certificate or memorandum of brand inspection certificate the seller has noted that as consideration for the sale of the livestock a draft, check, certificate of deposit or note has been given, title does not pass until the instrument is paid.
+
+(5) A rejection or other refusal by the buyer to receive or retain the goods, whether or not justified, or a justified revocation of acceptance revests title to the goods in the seller. Such revesting occurs by operation of law and is not a “sale.” [1961 c.726 §72.4010; 1973 c.287 §1; 2001 c.445 §135; 2009 c.181 §29] 72.4020 Rights of seller’s creditors against sold goods.
+
+(1) Except as provided in subsections
+
+(2) and
+
+(3) of this section, rights of unsecured creditors of the seller with respect to goods which have been identified to a contract for sale are subject to the buyer’s rights to recover the goods pursuant to ORS 72.5020 and 72.7160.
+
+(2) A creditor of the seller may treat a sale or an identification of goods to a contract for sale as void if as against the creditor a retention of possession by the seller is fraudulent under any rule of law of the state where the goods are situated, except that retention of possession in good faith and current course of trade by a merchant-seller for a commercially reasonable time after a sale or identification is not fraudulent.
+
+(3) Nothing in this chapter shall be deemed to impair the rights of creditors of the seller: (a) Under the provisions of ORS chapter 79A on secured transactions; or (b) Where identification to the contract or delivery is made not in current course of trade but in satisfaction of or as security for a preexisting claim for money, security or the like and is made under circumstances which under any rule of law of the state where the goods are situated would apart from this chapter constitute the transaction a fraudulent transfer or voidable preference. [1961 c.726 §72.4020; 2001 c.445 §136] 72.4030 Power to transfer; good faith purchase of goods; “entrusting.”
+
+(1) A purchaser of goods acquires all title which the transferor had or had power to transfer except that a purchaser of a limited interest acquires rights only to the extent of the interest purchased. A person with voidable title has power to transfer a good title to a good faith purchaser for value. When goods have been delivered under a transaction of purchase the purchaser has such power even though: (a) The transferor was deceived as to the identity of the purchaser; or (b) The delivery was in exchange for a check which is later dishonored; or (c) It was agreed that the transaction was to be a “cash sale”; or (d) The delivery was procured through fraud punishable as larcenous under the criminal law.
+
+(2) Notwithstanding any other provision of this section, when livestock has been delivered under a transaction of purchase, is transported by private, common or contract carrier and on the accompanying brand inspection certificate or memorandum of brand inspection certificate the seller has noted that as consideration for the transaction of purchase a draft, check, certificate of deposit or note was given, if the draft, check, certificate of deposit or note is later dishonored, the buyer does not have power to transfer good title to a good faith purchaser for value.
+
+(3) Any entrusting of possession of goods to a merchant who deals in goods of that kind gives the merchant power to transfer all rights of the entruster to a buyer in ordinary course of business.
+
+(4) “Entrusting” includes any delivery and any acquiescence in retention of possession regardless of any condition expressed between the parties to the delivery or acquiescence and regardless of whether the procurement of the entrusting of the possessor’s disposition of the goods have been such as to be larcenous under the criminal law.
+
+(5) The rights of other purchasers of goods and of lien creditors are governed by ORS chapter 79A on secured transactions and ORS chapter 77 on documents of title. [1961 c.726 §72.4030; 1973 c.287 §2; 1991 c.83 §4; 2001 c.445 §137]
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors072.html> · retrieved 2026-07-26 · sha256 `39294435e138cdd58ae800a6807156f7687d6347bea8323ee7b42f91886bebec`
+  (chapter snapshot `_meta/snapshots/ors-chapter-72.html`)
+- See [CHANGELOG](./CHANGELOG.md).

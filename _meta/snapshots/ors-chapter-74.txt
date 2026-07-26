@@ -1,0 +1,1627 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+74 — Bank Deposits and Collections 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ BANK DEPOSITS AND COLLECTIONS 
+
+   
+
+ COMMERCIAL TRANSACTIONS 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 74.1010     Short title 
+
+   
+
+ 74.1020     Applicability 
+
+   
+
+ 74.1030     Variation by agreement;
+measure of damages; action constituting ordinary care 
+
+   
+
+ 74.1040     Definitions and index
+of definitions 
+
+   
+
+ 74.1050     “Bank”; “depositary
+bank”; “intermediary bank”; “collecting bank”; “payor bank”; “presenting bank” 
+
+   
+
+ 74.1060     Payable through or
+payable at bank; collecting bank 
+
+   
+
+ 74.1070     Separate office of bank
+for computing time for actions, notices and orders 
+
+   
+
+ 74.1080     Time of receipt of
+items 
+
+   
+
+ 74.1090     Waiver of time limits;
+when delay excused 
+
+   
+
+ 74.1110     Statute of limitations 
+
+   
+
+ 74.1120     Electronic presentment 
+
+   
+
+ COLLECTION OF ITEMS 
+
+   
+
+ (Depositary and Collecting Banks) 
+
+   
+
+ 74.2010     Status of collecting
+bank as agent and provisional status of credits; applicability of chapter; item
+indorsed “pay any bank” 
+
+   
+
+ 74.2020     Responsibility for
+collection; when action timely 
+
+   
+
+ 74.2030     Effect of instructions 
+
+   
+
+ 74.2040     Methods of sending and
+presenting; presentment 
+
+   
+
+ 74.2050     Depositary bank as
+holder of unindorsed item 
+
+   
+
+ 74.2060     Transfer between banks 
+
+   
+
+ 74.2070     Warranties of customer
+and collecting bank on transfer of item; dishonor of item; remedies; when claim
+accrues 
+
+   
+
+ 74.2080     Presentment warranties;
+remedies; defenses; payment of dishonored draft; warranty disclaimer not
+applicable to checks; when warranty claim accrues 
+
+   
+
+ 74.2090     Encoding and retention
+warranties; remedies 
+
+   
+
+ 74.2100     Security interest of
+collecting bank in items; priority 
+
+   
+
+ 74.2110     Bank as holder in due
+course 
+
+   
+
+ 74.2120     Presentment by notice
+of item not payable by, through or at bank; liability of drawer or indorser 
+
+   
+
+ 74.2130     Medium and time of
+settlement by bank 
+
+   
+
+ 74.2140     Right of charge-back or
+refund; liability of collecting bank; return of item 
+
+   
+
+ 74.2150     Final payment of item
+by payor bank; when provisional debits and credits become final; when certain
+credits become available for withdrawal 
+
+   
+
+ 74.2160     Insolvency and
+preference 
+
+   
+
+ (Payor Banks) 
+
+   
+
+ 74.3010     Deferred posting;
+recovery of payment by return of items; time of dishonor; return of items by
+payor bank 
+
+   
+
+ 74.3020     Payor bank’s
+responsibility for late return of item; defenses to liability of payor bank 
+
+   
+
+ 74.3030     When items subject to
+notice, stop payment order, legal process or setoff; order in which items may
+be charged or certified; cutoff hour for checks 
+
+   
+
+ RELATIONSHIP BETWEEN PAYOR BANK AND
+ITS CUSTOMER 
+
+   
+
+ 74.4010     When bank may charge
+customer’s account 
+
+   
+
+ 74.4020     Bank’s liability to
+customer for wrongful dishonor; time of determining insufficiency of account 
+
+   
+
+ 74.4030     Customer’s right to
+stop payment; duration of stop payment order; burden of proof of loss 
+
+   
+
+ 74.4040     Bank not obligated to
+pay check more than six months old 
+
+   
+
+ 74.4050     Death or incompetence
+of customer 
+
+   
+
+ 74.4060     Statements to customer;
+requirements; retaining copies of items; duty of customer to determine
+unauthorized payment; allocation of loss 
+
+   
+
+ 74.4070     Payor bank’s right to
+subrogation on improper payment 
+
+   
+
+ COLLECTION OF DOCUMENTARY DRAFTS 
+
+   
+
+ 74.5010     Handling of documentary
+drafts; duty to send for presentment and to notify customer of dishonor 
+
+   
+
+ 74.5020     Presentment of “on
+arrival” drafts 
+
+   
+
+ 74.5030     Responsibility of
+presenting bank for documents and goods; report of reasons for dishonor;
+referee in case of need 
+
+   
+
+ 74.5040     Privilege of presenting
+bank to deal with goods; security interest for expenses 
+
+   
+
+       74.010,
+74.020, 74.030, 74.040, 74.050, 74.060, 74.070, 74.080, 74.090, 74.100, 74.110,
+74.120, 74.130, 74.140, 74.150, 74.160, 74.170, 74.180, 74.190, 74.200, 74.210,
+74.220, 74.230, 74.240, 74.250, 74.260, 74.270, 74.280, 74.290, 74.300, 74.310,
+74.320, 74.330, 74.340, 74.350, 74.360, 74.370, 74.380, 74.390, 74.400, 74.410,
+74.420, 74.430, 74.440, 74.450, 74.460, 74.470, 74.480, 74.490 [Repealed by 1961 c.726 §427] 
+
+   
+
+       74.500 [Renumbered 165.655] 
+
+   
+
+       74.510 [Renumbered 165.660] 
+
+   
+
+       74.520 [Renumbered 165.665] 
+
+   
+
+       74.530 [Renumbered 165.670] 
+
+   
+
+       74.540 [Renumbered 165.675] 
+
+   
+
+       74.550 [Renumbered 165.680] 
+
+   
+
+       74.560,
+74.570, 74.580, 74.590 
+[Repealed by 1961 c.726 §427] 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       74.1010 Short
+title. This
+chapter may be cited as Uniform Commercial Code–Bank Deposits and Collections. [1961
+c.726 §74.1010] 
+
+   
+
+       74.1020
+Applicability. (1)
+To the extent that items within this chapter are also within ORS chapters 73
+and 78, they are subject to those chapters. If there is conflict, this chapter
+and ORS chapter 78 govern ORS chapter 73. 
+
+       (2) The liability
+of a bank for action or nonaction with respect to an item handled by it for
+purposes of presentment, payment or collection is governed by the law of the
+place where the bank is located. In the case of action or nonaction by or at a
+branch or separate office of a bank, its liability is governed by the law of
+the place where the branch or separate office is located. [1961 c.726 §74.1020;
+1993 c.545 §73; 1995 c.79 §25] 
+
+   
+
+       74.1030
+Variation by agreement; measure of damages; action constituting ordinary care. (1) The effect of the provisions
+of this chapter may be varied by agreement, but the parties to the agreement
+cannot disclaim a bank’s responsibility for its lack of good faith or failure
+to exercise ordinary care or limit the measure of damages for the lack or
+failure. However, the parties may determine by agreement the standards by which
+the bank’s responsibility is to be measured if those standards are not
+manifestly unreasonable. 
+
+       (2) Federal
+reserve regulations and operating circulars, clearing house rules, and the like
+have the effect of agreements under subsection (1) of this section whether or
+not specifically assented to by all parties interested in items handled. 
+
+       (3) Action or
+nonaction approved by this chapter or pursuant to Federal Reserve regulations
+or operating circulars is the exercise of ordinary care and, in the absence of
+special instructions, action or nonaction consistent with clearing house rules
+and the like or with a general banking usage not disapproved by this chapter,
+is prima facie the exercise of ordinary care. 
+
+       (4) The
+specification or approval of certain procedures by this chapter is not
+disapproval of other procedures that may be reasonable under the circumstances. 
+
+       (5) The measure
+of damages for failure to exercise ordinary care in handling an item is the
+amount of the item reduced by an amount that could not have been realized by
+the exercise of ordinary care. If there is bad faith it includes any other
+damages the party suffered as a proximate consequence. [1961 c.726 §74.1030;
+1993 c.545 §74] 
+
+   
+
+       74.1040
+Definitions and index of definitions. 
+(1) In this chapter, unless the context otherwise requires: 
+
+       (a) “Account”
+means any deposit or credit account with a bank, including a demand, time,
+savings, passbook, share draft or like account, other than an account evidenced
+by a certificate of deposit. 
+
+       (b) “Afternoon”
+means the period of a day between noon and midnight. 
+
+       (c) “Banking day”
+has the meaning given that term in ORS 708A.650. 
+
+       (d) “Clearing
+house” means an association of banks or other payors regularly clearing items. 
+
+       (e) “Customer”
+means a person having an account with a bank or for whom a bank has agreed to
+collect items, including a bank that maintains an account at another bank. 
+
+       (f) “Documentary
+draft” means a draft to be presented for acceptance or payment if specified
+documents, certificated securities defined in ORS 78.1020 or instructions for
+uncertificated securities described in ORS 78.1020, or other certificates,
+statements or the like are to be received by the drawee or other payor before
+acceptance or payment of the draft. 
+
+       (g) “Draft” means
+a draft as defined in ORS 73.0104 or an item, other than an instrument, that is
+an order. 
+
+       (h) “Drawee”
+means a person ordered in a draft to make payment. 
+
+       (i) “Item” means
+an instrument or a promise or order to pay money handled by a bank for
+collection or payment. The term does not include a payment order governed by
+ORS chapter 74A or a credit or debit card slip. 
+
+       (j) “Midnight
+deadline” with respect to a bank is midnight on its next banking day following
+the banking day on which it receives the relevant item or notice or from which
+the time for taking action commences to run, whichever is later. 
+
+       (k) “Settle”
+means to pay in cash, by clearing house settlement, in a charge or credit or by
+remittance, or otherwise as agreed. A settlement may be either provisional or
+final. 
+
+       (L) “Suspends
+payments” with respect to a bank means that it has been closed by order of the
+supervisory authorities, that a public officer has been appointed to take it
+over, or that it ceases or refuses to make payments in the ordinary course of
+business. 
+
+       (2) Other
+definitions applying to this chapter and the sections in which they appear are: 
+
+       (a) “Agreement
+for electronic presentment,” as defined in ORS 74.1120. 
+
+       (b) “Bank,” as
+defined in ORS 74.1050. 
+
+       (c) “Collecting
+bank,” as defined in ORS 74.1050. 
+
+       (d) “Depositary
+bank,” as defined in ORS 74.1050. 
+
+       (e) “Intermediary
+bank,” as defined in ORS 74.1050. 
+
+       (f) “Payor bank,”
+as defined in ORS 74.1050. 
+
+       (g) “Presenting
+bank,” as defined in ORS 74.1050. 
+
+       (h) “Presentment
+notice,” as defined in ORS 74.1120. 
+
+       (3) “Control” as
+provided in ORS 77.1060 and the following definitions in other sections apply
+to this chapter: 
+
+       (a) “Acceptance,”
+as defined in ORS 73.0409. 
+
+       (b) “Alteration,”
+as defined in ORS 73.0407. 
+
+       (c) “Cashier’s
+check,” as defined in ORS 73.0104. 
+
+       (d) “Certificate
+of deposit,” as defined in ORS 73.0104. 
+
+       (e) “Certified
+check,” as defined in ORS 73.0409. 
+
+       (f) “Check,” as
+defined in ORS 73.0104. 
+
+       (g) “Holder in
+due course,” as defined in ORS 73.0302. 
+
+       (h) “Instrument,”
+as defined in ORS 73.0104. 
+
+       (i) “Notice of
+dishonor,” as defined in ORS 73.0503. 
+
+       (j) “Order,” as
+defined in ORS 73.0103. 
+
+       (k) “Ordinary
+care,” as defined in ORS 73.0103. 
+
+       (L) “Person
+entitled to enforce,” as defined in ORS 73.0301. 
+
+       (m) “Presentment,”
+as defined in ORS 73.0501. 
+
+       (n) “Promise,” as
+defined in ORS 73.0103. 
+
+       (o) “Prove,” as
+defined in ORS 73.0103. 
+
+       (p) “Teller’s
+check,” as defined in ORS 73.0104. 
+
+       (q) “Unauthorized
+signature,” as defined in ORS 73.0403. 
+
+       (4) In addition,
+ORS chapter 71 contains general definitions and principles of construction and
+interpretation applicable throughout this chapter. [1961 c.726 §74.1040; 1993
+c.220 §1; 1993 c.545 §75; 1995 c.328 §67; 1997 c.631 §379; 2009 c.181 §45] 
+
+   
+
+       74.1050 “Bank”;
+“depositary bank”; “intermediary bank”; “collecting bank”; “payor bank”; “presenting
+bank.” In this
+chapter: 
+
+       (1) “Bank” means
+a financial institution, as defined in ORS 706.008. 
+
+       (2) “Depositary
+bank” means the first bank to take an item even though it is also the payor
+bank unless the item is presented for immediate payment over the counter. 
+
+       (3) “Payor bank”
+means a bank that is the drawee of a draft. 
+
+       (4) “Intermediary
+bank” means a bank to which an item is transferred in course of collection
+except the depositary or payor bank. 
+
+       (5) “Collecting
+bank” means a bank handling an item for collection except the payor bank. 
+
+       (6) “Presenting
+bank” means a bank presenting an item except a payor bank. [1961 c.726 §74.1050;
+1993 c.545 §76; 1997 c.631 §380] 
+
+   
+
+       74.1060
+Payable through or payable at bank; collecting bank. (1) If an item states that it is “payable
+through” a bank identified in the item: 
+
+       (a) The item
+designates the bank as a collecting bank and does not by itself authorize the
+bank to pay the item; and 
+
+       (b) The item may
+be presented for payment only by or through the bank. 
+
+       (2) If an item
+states that it is “payable at” a bank identified in the item: 
+
+       (a) The item
+designates the bank as a collecting bank and does not by itself authorize the
+bank to pay the item; and 
+
+       (b) The item may
+be presented for payment only by or through the bank. 
+
+       (3) If a draft
+names a nonbank drawee and it is unclear whether a bank named in the draft is a
+co-drawee or a collecting bank, the bank is a collecting bank. [1961 c.726 §74.1060;
+1963 c.402 §2; 1993 c.545 §77] 
+
+   
+
+       74.1070
+Separate office of bank for computing time for actions, notices and orders. A bank or separate office of a
+bank is a separate bank for the purpose of computing the time within which and
+determining the place at or to which action may be taken or notices or orders
+must be given under this chapter and ORS chapter 73. [1961 c.726 §74.1070; 1993
+c.545 §78] 
+
+   
+
+       74.1080 Time
+of receipt of items. 
+(1) For the purpose of allowing time to process items, prove balances and make
+the necessary entries on its books to determine its position for a day, a bank
+may fix an afternoon hour of 2 p.m. or later as a cutoff hour for the
+handling of money and items and the making of entries on its books. 
+
+       (2) An item or
+deposit of money received on any day after a cutoff hour so fixed or after the
+close of the banking day may be treated as being received at the opening of the
+next banking day. [1961 c.726 §74.1080; 1993 c.545 §79] 
+
+   
+
+       74.1090 Waiver
+of time limits; when delay excused. 
+(1) Unless otherwise instructed, a collecting bank in a good faith effort to
+secure payment of a specific item drawn on a payor other than a bank, and with
+or without the approval of any person involved, may waive, modify or extend
+time limits imposed or permitted by the Uniform Commercial Code for a period
+not exceeding two additional banking days without discharge of drawers or
+indorsers or liability to its transferor or a prior party. 
+
+       (2) Delay by a
+collecting bank or payor bank beyond time limits prescribed or permitted by the
+Uniform Commercial Code or by instructions is excused if: 
+
+       (a) The delay is
+caused by interruption of communication or computer facilities, suspension of
+payments by another bank, war, emergency conditions, failure of equipment or
+other circumstances beyond the control of the bank; and 
+
+       (b) The bank
+exercises such diligence as the circumstances require. [1993 c.545 §81] 
+
+   
+
+       74.1110
+Statute of limitations. 
+An action to enforce an obligation, duty or right arising under this chapter
+must be commenced within three years after the claim for relief accrues. [1993
+c.545 §83] 
+
+   
+
+       74.1120
+Electronic presentment. 
+(1) “Agreement for electronic presentment” means an agreement, clearing house
+rule, or Federal Reserve regulation or operating circular, providing that
+presentment of an item may be made by transmission of an image of an item or
+information describing the item (“presentment notice”) rather than delivery of
+the item itself. The agreement may provide for procedures governing retention,
+presentment, payment, dishonor and other matters concerning items subject to
+the agreement. 
+
+       (2) Presentment
+of an item pursuant to an agreement for presentment is made when the
+presentment notice is received. 
+
+       (3) If
+presentment is made by presentment notice, a reference to “item” or “check” in
+this chapter means the presentment notice unless the context otherwise
+indicates. [1993 c.545 §82] 
+
+   
+
+ COLLECTION OF ITEMS 
+
+ (Depositary and
+Collecting Banks) 
+
+   
+
+       74.2010 Status
+of collecting bank as agent and provisional status of credits; applicability of
+chapter; item indorsed “pay any bank.” 
+(1) Unless a contrary intent clearly appears and before the time that a
+settlement given by a collecting bank for an item is or becomes final the bank,
+with respect to the item, is an agent or subagent of the owner of the item and
+any settlement given for the item is provisional. This provision applies
+regardless of the form of indorsement or lack of indorsement and even though
+credit given for the item is subject to immediate withdrawal as of right or is
+in fact withdrawn; but the continuance of ownership of an item by its owner and
+any rights of the owner to proceeds of the item are subject to rights of a
+collecting bank, such as those resulting from outstanding advances on the item
+and rights of recoupment or setoff. If an item is handled by banks for purposes
+of presentment, payment, collection or return, the relevant provisions of this
+chapter apply even though action of the parties clearly establishes that a
+particular bank has purchased the item and is the owner of it. 
+
+       (2) After an item
+has been indorsed with the words “pay any bank” or the like, only a bank may
+acquire the rights of a holder until the item has been: 
+
+       (a) Returned to
+the customer initiating collection; or 
+
+       (b) Specially
+indorsed by a bank to a person who is not a bank. [1961 c.726 §74.2010; 1993
+c.545 §84] 
+
+   
+
+       74.2020
+Responsibility for collection; when action timely. (1) A collecting bank must
+exercise ordinary care in: 
+
+       (a) Presenting an
+item or sending it for presentment; 
+
+       (b) Sending
+notice of dishonor or nonpayment or returning an item other than a documentary
+draft to the bank’s transferor after learning that the item has not been paid
+or accepted, as the case may be; 
+
+       (c) Settling for
+an item when the bank receives final settlement; and 
+
+       (d) Notifying its
+transferor of any loss or delay in transit within a reasonable time after
+discovery thereof. 
+
+       (2) A collecting
+bank exercises ordinary care under subsection (1) of this section by taking
+proper action before its midnight deadline following receipt of an item, notice
+or settlement. Taking proper action within a reasonably longer time may
+constitute the exercise of ordinary care, but the bank has the burden of
+establishing timeliness. 
+
+       (3) Subject to
+subsection (1)(a) of this section, a bank is not liable for the insolvency,
+neglect, misconduct, mistake or default of another bank or person or for loss
+or destruction of an item in the possession of others or in transit. [1961
+c.726 §74.2020; 1993 c.545 §85] 
+
+   
+
+       74.2030 Effect
+of instructions. 
+Subject to ORS 73.0420 concerning conversion of instruments and ORS chapter 73
+and this chapter concerning restrictive indorsements, only a collecting bank’s
+transferor can give instructions that affect the bank or constitute notice to
+it, and a collecting bank is not liable to prior parties for any action taken
+pursuant to the instructions or in accordance with any agreement with its
+transferor. [1961 c.726 §74.2030; 1993 c.545 §86] 
+
+   
+
+       74.2040
+Methods of sending and presenting; presentment. (1) A collecting bank shall send
+items by a reasonably prompt method, taking into consideration relevant
+instructions, the nature of the item, the number of those items on hand, the
+cost of collection involved, and the method generally used by it or others to
+present those items. 
+
+       (2) A collecting
+bank may send: 
+
+       (a) An item
+directly to the payor bank; 
+
+       (b) An item to a
+nonbank payor if authorized by its transferor; and 
+
+       (c) An item other
+than documentary drafts to a nonbank payor, if authorized by Federal Reserve
+regulation or operating circular, clearing house rule or the like. 
+
+       (3) Presentment
+may be made by a presenting bank at a place where the payor bank or other payor
+has requested that presentment be made. [1961 c.726 §74.2040; 1963 c.402 §3;
+1993 c.545 §87] 
+
+   
+
+       74.2050
+Depositary bank as holder of unindorsed item. If a customer delivers an item to a depositary bank
+for collection: 
+
+       (1) The
+depositary bank becomes a holder of the item at the time it receives the item
+for collection if the customer at the time of delivery was a holder of the
+item, whether or not the customer indorses the item, and, if the bank satisfies
+the other requirements of ORS 73.0302, it is a holder in due course; and 
+
+       (2) The
+depositary bank warrants to collecting banks, the payor bank or other payor,
+and the drawer that the amount of the item was paid to the customer or
+deposited to the customer’s account. [1961 c.726 §74.2050; 1993 c.545 §88] 
+
+   
+
+       74.2060
+Transfer between banks. 
+Any agreed method that identifies the transferor bank is sufficient for the
+item’s further transfer to another bank. [1961 c.726 §74.2060; 1993 c.545 §89] 
+
+   
+
+       74.2070
+Warranties of customer and collecting bank on transfer of item; dishonor of
+item; remedies; when claim accrues. 
+(1) A customer or collecting bank that transfers an item and receives a
+settlement or other consideration warrants to the transferee and to any
+subsequent collecting bank that: 
+
+       (a) The warrantor
+is a person entitled to enforce the item; 
+
+       (b) All
+signatures on the item are authentic and authorized; 
+
+       (c) The item has
+not been altered; 
+
+       (d) The item is
+not subject to a defense or claim in recoupment under ORS 73.0305 (1) of any
+party that can be asserted against the warrantor; 
+
+       (e) The warrantor
+has no knowledge of any insolvency proceeding commenced with respect to the
+maker or acceptor or, in the case of an unaccepted draft, the drawer; and 
+
+       (f) If the item
+is a demand draft, creation of the item according to the terms on its face was
+authorized by the person identified as drawer. 
+
+       (2) If an item is
+dishonored, a customer or collecting bank transferring the item and receiving
+settlement or other consideration is obliged to pay the amount due on the item
+according to the terms of the item at the time it was transferred, or if the transfer
+was of an incomplete item, according to its terms when completed as stated in
+ORS 73.0115 and 73.0407. The obligation of a transferor is owed to the
+transferee and to any subsequent collecting bank that takes the item in good
+faith. A transferor cannot disclaim its obligation under this subsection by an
+indorsement stating that it is made “without recourse” or otherwise disclaiming
+liability. 
+
+       (3) A person to
+whom the warranties under subsection (1) of this section are made and who took
+the item in good faith may recover from the warrantor as damages for breach of
+warranty an amount equal to the loss suffered as a result of the breach, but
+not more than the amount of the item plus expenses and loss of interest
+incurred as a result of the breach. 
+
+       (4) The
+warranties stated in subsection (1) of this section cannot be disclaimed with
+respect to checks. Unless notice of a claim for breach of warranty is given to
+the warrantor within 30 days after the claimant has reason to know of the
+breach and the identity of the warrantor, the warrantor is discharged to the
+extent of any loss caused by the delay in giving notice of the claim. 
+
+       (5) A claim for
+relief for breach of warranty under this section accrues when the claimant has
+reason to know of the breach. 
+
+       (6) If the
+warranty in subsection (1)(f) of this section is not given by a transferor
+under applicable conflict of law rules, then the warranty is not given to that
+transferor when that transferor is a transferee. [1961 c.726 §74.2070; 1993
+c.545 §90; 1997 c.822 §5] 
+
+   
+
+       74.2080
+Presentment warranties; remedies; defenses; payment of dishonored draft;
+warranty disclaimer not applicable to checks; when warranty claim accrues. (1) If an unaccepted draft is
+presented to the drawee for payment or acceptance and the drawee pays or
+accepts the draft, the person obtaining payment or acceptance, at the time of
+presentment, and a previous transferor of the draft, at the time of transfer,
+warrant to the drawee that pays or accepts the draft in good faith that: 
+
+       (a) The warrantor
+is, or was, at the time the warrantor transferred the draft, a person entitled
+to enforce the draft or authorized to obtain payment or acceptance of the draft
+on behalf of a person entitled to enforce the draft; 
+
+       (b) The draft has
+not been altered; 
+
+       (c) The warrantor
+has no knowledge that the signature of the purported drawer of the draft is
+unauthorized; and 
+
+       (d) If the draft
+is a demand draft, creation of the draft according to the terms on its face was
+authorized by the person identified as drawer. 
+
+       (2) A drawee
+making payment may recover from a warrantor damages for breach of warranty
+equal to the amount paid by the drawee less the amount the drawee received or
+is entitled to receive from the drawer because of the payment. In addition, the
+drawee is entitled to compensation for expenses and loss of interest resulting
+from the breach. The right of the drawee to recover damages under this
+subsection is not affected by any failure of the drawee to exercise ordinary
+care in making payment. If the drawee accepts the draft: 
+
+       (a) Breach of
+warranty is a defense to the obligation of the acceptor; and 
+
+       (b) If the
+acceptor makes payment with respect to the draft, the acceptor is entitled to
+recover from a warrantor for breach of warranty the amounts stated in this
+subsection. 
+
+       (3) If a drawee
+asserts a claim for breach of warranty under subsection (1) of this section
+based on an unauthorized indorsement of the draft or an alteration of the
+draft, the warrantor may defend by proving that the indorsement is effective
+under ORS 73.0404 or 73.0405 or the drawer is precluded under ORS 73.0406 or
+74.4060 from asserting against the drawee the unauthorized indorsement or
+alteration. 
+
+       (4) If a
+dishonored draft is presented for payment to the drawer or an indorser or any
+item is presented for payment to a party obliged to pay the item, and the item
+is paid, the person obtaining payment and a prior transferor of the item
+warrant to the person making payment in good faith that the warrantor is, or
+was, at the time the warrantor transferred the item, a person entitled to
+enforce the item or authorized to obtain payment on behalf of a person entitled
+to enforce the item. The person making payment may recover from any warrantor
+for breach of warranty an amount equal to the amount paid plus expenses and
+loss of interest resulting from the breach. 
+
+       (5) The
+warranties stated in subsections (1) and (4) of this section cannot be
+disclaimed with respect to checks. Unless notice of a claim for breach of
+warranty is given to the warrantor within 30 days after the claimant has reason
+to know of the breach and the identity of the warrantor, the warrantor is
+discharged to the extent of any loss caused by the delay in giving notice of
+the claim. 
+
+       (6) A claim for
+relief for breach of warranty under this section accrues when the claimant has
+reason to know of the breach. 
+
+       (7) A demand
+draft is a check, as defined in ORS 73.0104 (6). 
+
+       (8) If the
+warranty in subsection (1)(d) of this section is not given by a transferor
+under applicable conflict of law rules, then the warranty is not given to that
+transferor when that transferor is a transferee. [1961 c.726 §74.2080; 1993
+c.545 §91; 1997 c.822 §6; 2019 c.13 §20b] 
+
+   
+
+       74.2090
+Encoding and retention warranties; remedies. (1) A person who encodes information on or with
+respect to an item after issue warrants to any subsequent collecting bank and
+to the payor bank or other payor that the information is correctly encoded. If
+the customer of a depositary bank encodes, that bank also makes the warranty. 
+
+       (2) A person who
+undertakes to retain an item pursuant to an agreement for electronic
+presentment warrants to any subsequent collecting bank and to the payor bank or
+other payor that retention and presentment of the item comply with the
+agreement. If the customer of a depositary bank undertakes to retain an item,
+that bank also makes this warranty. 
+
+       (3) A person to
+whom warranties are made under this section and who took the item in good faith
+may recover from the warrantor as damages for breach of warranty an amount
+equal to the loss suffered as a result of the breach, plus expenses and loss of
+interest incurred as a result of the breach. [1961 c.726 §74.2090; 1993 c.545 §92] 
+
+   
+
+       74.2100
+Security interest of collecting bank in items; priority. (1) A collecting bank has a
+security interest in an item and in any accompanying documents or in the
+proceeds of either: 
+
+       (a) In case of an
+item deposited in an account, to the extent to which credit given for the item
+has been withdrawn or applied; 
+
+       (b) In case of an
+item for which it has given credit available for withdrawal as of right, to the
+extent of the credit given, whether or not the credit is drawn upon or there is
+a right of charge-back; or 
+
+       (c) If it makes
+an advance on or against the item. 
+
+       (2) If credit
+given for several items received at one time or pursuant to a single agreement
+is withdrawn or applied in part, the security interest remains upon all the
+items, any accompanying documents or the proceeds of either. For the purpose of
+this action, credits first given are first withdrawn. 
+
+       (3) Receipt by a
+collecting bank of a final settlement for an item is a realization on its
+security interest in the item, accompanying documents and proceeds. So long as
+the bank does not receive final settlement for the item or give up possession
+of the item or possession or control of the accompanying documents for purposes
+other than collection, the security interest continues to that extent and is
+subject to ORS chapter 79A, but: 
+
+       (a) No security
+agreements are necessary to make the security interest enforceable under ORS
+79A.2030 (2)(c)(A); 
+
+       (b) No filing is
+required to perfect the security interest; and 
+
+       (c) The security
+interest has priority over conflicting perfected security interests in the
+item, accompanying documents or proceeds. [1961 c.726 §74.2100; 1993 c.545 §93;
+2001 c.445 §146; 2009 c.181 §46] 
+
+   
+
+       74.2110 Bank
+as holder in due course. 
+For purposes of determining its status as a holder in due course, a bank has
+given value to the extent it has a security interest in an item, if the bank
+otherwise complies with the requirements of ORS 73.0302 on what constitutes a
+holder in due course. [1961 c.726 §74.2110; 1993 c.545 §94] 
+
+   
+
+       74.2120
+Presentment by notice of item not payable by, through or at bank; liability of
+drawer or indorser. 
+(1) Unless otherwise instructed, a collecting bank may present an item not
+payable by, through or at a bank by sending to the party to accept or pay a
+written notice that the bank holds the item for acceptance or payment. The
+notice must be sent in time to be received on or before the day when
+presentment is due and the bank must meet any requirement of the party to
+accept or pay under ORS 73.0501 by the close of the bank’s next banking day
+after it knows of the requirement. 
+
+       (2) If
+presentment is made by notice, and payment, acceptance or request for compliance
+with a requirement under ORS 73.0501 is not received by the close of business
+on the day after maturity or, in the case of demand items, by the close of
+business on the third banking day after notice was sent, the presenting bank
+may treat the item as dishonored and charge any drawer or indorser by sending
+it notice of the facts. [1961 c.726 §74.2120; 1985 c.436 §1; 1993 c.545 §95;
+1995 c.79 §26] 
+
+   
+
+       74.2130 Medium
+and time of settlement by bank. 
+(1) With respect to settlement by a bank, the medium and time of settlement may
+be prescribed by Federal Reserve regulations or circulars, clearing house rules
+and the like, or agreement. In the absence of such prescription: 
+
+       (a) The medium of
+settlement is cash or credit to an account in a Federal Reserve Bank of or
+specified by the person to receive settlement; and 
+
+       (b) The time of
+settlement is: 
+
+       (A) With respect
+to tender of settlement by cash, a cashier’s check or teller’s check, when the
+cash or check is sent or delivered; 
+
+       (B) With respect
+to tender of settlement by credit in an account in a Federal Reserve Bank, when
+the credit is made; 
+
+       (C) With respect
+to tender of settlement by a credit or debit to an account in a bank, when the
+credit or debit is made or, in the case of tender of settlement by authority to
+charge an account, when the authority is sent or delivered; or 
+
+       (D) With respect
+to tender of settlement by a funds transfer, when payment is made pursuant to
+subsection (1) of this section or ORS 74A.4060 to the person receiving
+settlement. 
+
+       (2) If the tender
+of settlement is not by a medium authorized by subsection (1) of this section
+or the time of settlement is not fixed by subsection (1) of this section, no
+settlement occurs until the tender of settlement is accepted by the person
+receiving settlement. 
+
+       (3) If settlement
+for an item is made by cashier’s check or teller’s check and the person
+receiving settlement, before its midnight deadline: 
+
+       (a) Presents or
+forwards the check for collection, settlement is final when the check is
+finally paid; or 
+
+       (b) Fails to
+present or forward the check for collection, settlement is final at the
+midnight deadline of the person receiving settlement. 
+
+       (4) If settlement
+for an item is made by giving authority to charge the account of the bank
+giving settlement in the bank receiving settlement, settlement is final when
+the charge is made by the bank receiving settlement if there are funds
+available in the account for the amount of the item. [1961 c.726 §74.2130; 1993
+c.545 §96] 
+
+   
+
+       74.2140 Right
+of charge-back or refund; liability of collecting bank; return of item. (1) If a collecting bank has made
+provisional settlement with its customer for an item and fails by reason of
+dishonor, suspension of payments by a bank or otherwise to receive a settlement
+for the item which is or becomes final, the bank may revoke the settlement
+given by it, charge back the amount of any credit given for the item to its
+customer’s account or obtain refund from its customer, whether or not it is
+able to return the item, if by its midnight deadline or within a longer
+reasonable time after it learns the facts it returns the item or sends
+notification of the facts. If the return or notice is delayed beyond the bank’s
+midnight deadline or a longer reasonable time after it learns the facts, the
+bank may revoke the settlement, charge back the credit or obtain refund from
+its customer, but it is liable for any loss resulting from the delay. The
+rights to revoke, charge back and obtain refund terminate if and when a
+settlement for the item received by the bank is or becomes final. 
+
+       (2) A collecting
+bank returns an item when it is sent or delivered to the bank’s customer or
+transferor or pursuant to its instructions. 
+
+       (3) A depositary
+bank that is also the payor may charge back the amount of an item to its
+customer’s account or obtain refund in accordance with the provision governing
+return of an item received by a payor bank for credit on its books as provided
+in ORS 74.3010. 
+
+       (4) The right to
+charge back is not affected by: 
+
+       (a) Previous use
+of a credit given for the item; or 
+
+       (b) Failure by
+any bank to exercise ordinary care with respect to the item, but a bank so
+failing remains liable. 
+
+       (5) A failure to
+charge back or claim refund does not affect other rights of the bank against
+the customer or any other party. 
+
+       (6) If credit is
+given in dollars as the equivalent of the value of an item payable in a foreign
+money, the dollar amount of any charge-back or refund must be calculated on the
+basis of the bank-offered spot rate for the foreign money prevailing on the day
+when the person entitled to the charge-back or refund learns that it will not
+receive payment in ordinary course. [1961 c.726 §74.2140; 1993 c.545 §97] 
+
+   
+
+       74.2150 Final
+payment of item by payor bank; when provisional debits and credits become
+final; when certain credits become available for withdrawal. (1) An item is finally paid by a
+payor bank when the bank has first done any of the following: 
+
+       (a) Paid the item
+in cash; 
+
+       (b) Settled for
+the item without having a right to revoke the settlement under statute,
+clearing house rule or agreement; or 
+
+       (c) Made a
+provisional settlement for the item and failed to revoke the settlement in the
+time and manner permitted by statute, clearing house rule or agreement. 
+
+       (2) If
+provisional settlement for an item does not become final, the item is not
+finally paid. 
+
+       (3) If
+provisional settlement for an item between the presenting and payor banks is
+made through a clearing house or by debits or credits in an account between
+them, then to the extent that provisional debits or credits for the item are
+entered in accounts between the presenting and payor banks or between the
+presenting and successive prior collecting banks seriatim, they become final
+upon final payment of the items by the payor bank. 
+
+       (4) If a
+collecting bank receives a settlement for an item which is or becomes final,
+the bank is accountable to its customer for the amount of the item and any
+provisional credit given for the item in an account with its customer becomes
+final. 
+
+       (5) Subject to
+applicable law stating a time for availability of funds and any right of the
+bank to apply the credit to an obligation of the customer, credit given by a
+bank for an item in a customer’s account becomes available for withdrawal as of
+right: 
+
+       (a) If the bank
+has received a provisional settlement for the item, when the settlement becomes
+final and the bank has had a reasonable time to receive return of the item and
+the item has not been received within that time; or 
+
+       (b) If the bank
+is both the depositary bank and the payor bank, and the item is finally paid,
+at the opening of the bank’s second banking day following receipt of the item. 
+
+       (6) Subject to
+applicable law stating a time for availability of funds and any right of a bank
+to apply a deposit to an obligation of the depositor, a deposit of money
+becomes available for withdrawal as of right at the opening of the bank’s next
+banking day after receipt of the deposit. [1993 c.545 §99] 
+
+   
+
+       74.2160
+Insolvency and preference. 
+(1) If an item is in or comes into the possession of a payor or collecting bank
+that suspends payment and the item has not been finally paid, the item must be
+returned by the receiver, trustee or agent in charge of the closed bank to the
+presenting bank or the closed bank’s customer. 
+
+       (2) If a payor
+bank finally pays an item and suspends payments without making a settlement for
+the item with its customer or the presenting bank which settlement is or
+becomes final, the owner of the item has a preferred claim against the payor
+bank. 
+
+       (3) If a payor
+bank gives or a collecting bank gives or receives a provisional settlement for
+an item and thereafter suspends payments, the suspension does not prevent or
+interfere with the settlement’s becoming final if the finality occurs
+automatically upon the lapse of certain time or the happening of certain
+events. 
+
+       (4) If a
+collecting bank receives from subsequent parties settlement for an item, which
+settlement is or becomes final and the bank suspends payments without making a
+settlement for the item with its customer which settlement is or becomes final,
+the owner of the item has a preferred claim against the collecting bank. [1993
+c.545 §100] 
+
+   
+
+ (Payor Banks) 
+
+   
+
+       74.3010
+Deferred posting; recovery of payment by return of items; time of dishonor;
+return of items by payor bank. 
+(1) If a payor bank settles for a demand item other than a documentary draft
+presented otherwise than for immediate payment over the counter before midnight
+of the banking day of receipt, the payor bank may revoke the settlement and
+recover the settlement if, before it has made final payment and before its
+midnight deadline, it: 
+
+       (a) Returns the
+item; or 
+
+       (b) Sends written
+notice of dishonor or nonpayment if the item is unavailable for return. 
+
+       (2) If a demand
+item is received by a payor bank for credit on its books it may return the item
+or send notice of dishonor and may revoke any credit given or recover the
+amount thereof withdrawn by its customer, if it acts within the time limit and
+in the manner specified in subsection (1) of this section. 
+
+       (3) Unless
+previous notice of dishonor has been sent, an item is dishonored at the time
+when for purposes of dishonor it is returned or notice sent in accordance with
+this section. 
+
+       (4) An item is
+returned: 
+
+       (a) As to an item
+presented through a clearing house, when it is delivered to the presenting or
+last collecting bank or to the clearing house or is sent or delivered in
+accordance with clearing house rules; or 
+
+       (b) In all other
+cases, when it is sent or delivered to the bank’s customer or transferor or
+pursuant to instructions of the customer or transferor. [1961 c.726 §74.3010;
+1993 c.545 §101] 
+
+   
+
+       74.3020 Payor
+bank’s responsibility for late return of item; defenses to liability of payor
+bank. (1) Pursuant
+to ORS 74.2070 (1), if an item is presented to and received by a payor bank,
+the bank is accountable for the amount of: 
+
+       (a) A demand
+item, other than a documentary draft, whether properly payable or not, if the
+bank, in any case in which it is not also the depositary bank, retains the item
+beyond midnight of the banking day of receipt without settling for it or,
+whether or not it is also the depositary bank, does not pay or return the item
+or send notice of dishonor until after its midnight deadline; or 
+
+       (b) Any other
+properly payable item unless within the time allowed for acceptance or payment
+of that item the bank either accepts or pays the item or returns it and
+accompanying documents. 
+
+       (2) The liability
+of a payor bank to pay an item pursuant to subsection (1) of this section is
+subject to defenses based on breach of a presentment warranty under ORS 74.2080
+or proof that the person seeking enforcement of the liability presented or transferred
+the item for the purpose of defrauding the payor bank. [1961 c.726 §74.3020;
+1993 c.545 §102] 
+
+   
+
+       74.3030 When
+items subject to notice, stop payment order, legal process or setoff; order in
+which items may be charged or certified; cutoff hour for checks. (1) Any knowledge, notice or stop
+payment order received by, legal process served upon, or setoff exercised by a
+payor bank comes too late to terminate, suspend or modify the bank’s right or
+duty to pay an item or to charge its customer’s account for the item if the
+knowledge, notice, stop payment order or legal process is received or served
+and a reasonable time for the bank to act thereon expires or the setoff is
+exercised after the earliest of the following: 
+
+       (a) The bank
+accepts or certifies the item; 
+
+       (b) The bank pays
+the item in cash; 
+
+       (c) The bank
+settles for the item without having a right to revoke the settlement under
+statute, clearing house rule or agreement; 
+
+       (d) The bank
+becomes accountable for the amount of the item under ORS 74.3020 dealing with
+the payor bank’s responsibility for late return of items; or 
+
+       (e) With respect
+to checks, a cutoff hour no earlier than one hour after the opening of the next
+banking day after the banking day on which the bank received the check and no
+later than the close of that next banking day or, if no cutoff hour is fixed, the
+close of the next banking day after the banking day on which the bank received
+the check. 
+
+       (2) Subject to
+subsection (1) of this section items may be accepted, paid, certified or
+charged to the indicated account of its customer in any order. [1961 c.726 §74.3030;
+1993 c.545 §103] 
+
+   
+
+ RELATIONSHIP BETWEEN
+PAYOR BANK AND ITS CUSTOMER 
+
+   
+
+       74.4010 When
+bank may charge customer’s account. 
+(1) A bank may charge against the account of a customer an item that is
+properly payable from that account even though the charge creates an overdraft.
+An item is properly payable if it is authorized by the customer and is in
+accordance with any agreement between the customer and bank. 
+
+       (2) A customer is
+not liable for the amount of an overdraft if the customer neither signed the
+item nor benefits from the proceeds of the item. 
+
+       (3) A bank may
+charge against the account of a customer a check that is otherwise properly
+payable from the account, even though payment was made before the date of the
+check, unless the customer has given notice to the bank of the postdating
+describing the check with reasonable certainty. The notice is effective for the
+period stated in ORS 74.4030 (2) for stop payment orders, and must be received
+at such time and in such manner as to afford the bank a reasonable opportunity
+to act on it before the bank takes any action with respect to the check
+described in ORS 74.3030. If a bank charges against the account of a customer a
+check before the date stated in the notice of postdating, the bank is liable
+for damages for the loss resulting from its act. The loss may include damages
+for dishonor of subsequent items under ORS 74.4020. 
+
+       (4) A bank that
+in good faith makes payment to a holder may charge the indicated account of its
+customer according to: 
+
+       (a) The original
+terms of the altered item; or 
+
+       (b) The terms of
+the completed item, even though the bank knows the item has been completed
+unless the bank has notice that the completion was improper. [1961 c.726 §74.4010;
+1993 c.545 §104] 
+
+   
+
+       74.4020 Bank’s
+liability to customer for wrongful dishonor; time of determining insufficiency
+of account. (1)
+Except as otherwise provided in this chapter, a payor bank wrongfully dishonors
+an item if it dishonors an item that is properly payable. However, a bank may
+dishonor an item that would create an overdraft unless it has agreed to pay the
+overdraft. 
+
+       (2) A payor bank
+is liable to its customer for damages proximately caused by the wrongful
+dishonor of an item. Liability is limited to actual damages proved and may
+include damages for an arrest or prosecution of the customer or other
+consequential damages. Whether any consequential damages are proximately caused
+by the wrongful dishonor is a question of fact to be determined in each case. 
+
+       (3) A payor bank’s
+determination of the customer’s account balance on which a decision to dishonor
+for insufficiency of available funds is based may be made at a time between the
+time the item is received by the payor bank and the time that the payor bank
+returns the item or gives notice in lieu of return, and no more than one
+determination need be made. If, at the election of the payor bank, a subsequent
+balance determination is made for the purpose of reevaluating the bank’s
+decision to dishonor the item, the account balance at that time is
+determinative of whether a dishonor for insufficiency of availability funds is
+wrongful. [1961 c.726 §74.4020; 1993 c.545 §105] 
+
+   
+
+       74.4030
+Customer’s right to stop payment; duration of stop payment order; burden of
+proof of loss. (1)
+A customer or any person authorized to draw on the account if there is more
+than one person may stop payment of any item drawn on the customer’s account or
+close the account by an order to the bank describing the item or account with
+reasonable certainty received at a time and in a manner that affords the bank a
+reasonable opportunity to act on it before any action by the bank with respect
+to the item described in ORS 74.3030. If the signature of more than one person
+is required to draw on an account, any of these persons may stop payment or
+close the account. 
+
+       (2) A stop
+payment order is effective for six months, but it lapses after 14 calendar days
+if the original order was oral and was not confirmed in writing within that
+period. A stop payment order may be renewed for additional six-month periods by
+a writing given to the bank within a period during which the stop payment order
+is effective. 
+
+       (3) The burden of
+establishing the fact and amount of loss resulting from the payment of an item
+contrary to a stop payment order or order to close an account is on the
+customer. The loss from payment of an item contrary to a stop payment order may
+include damages for dishonor of subsequent items under ORS 74.4020. [1961 c.726
+§74.4030; 1993 c.545 §106] 
+
+   
+
+       74.4040 Bank
+not obligated to pay check more than six months old. A bank is under no obligation to a
+customer having a checking account to pay a check, other than a certified
+check, which is presented more than six months after its date, but it may
+charge its customer’s account for a payment made thereafter in good faith. [1961
+c.726 §74.4040] 
+
+   
+
+       74.4050 Death
+or incompetence of customer. 
+(1) A payor or collecting bank’s authority to accept, pay or collect an item or
+to account for proceeds of its collection, if otherwise effective, is not
+rendered ineffective by incompetence of a customer of either bank existing at
+the time the item is issued or its collection is undertaken if the bank does
+not know of an adjudication of incompetence. Neither death nor incompetence of
+a customer revokes the authority to accept, pay, collect or account until the
+bank knows of the fact of death or of an adjudication of incompetence and has
+reasonable opportunity to act on it. 
+
+       (2) Even with
+knowledge, a bank may for 10 days after the date of death pay or certify checks
+drawn on or before that date unless ordered to stop payment by a person
+claiming an interest in the account. [1961 c.726 §74.4050; 1993 c.545 §107] 
+
+   
+
+       74.4060
+Statements to customer; requirements; retaining copies of items; duty of
+customer to determine unauthorized payment; allocation of loss. (1) A bank that sends or makes
+available to a customer a statement of account showing payment of items for the
+account shall either return or make available to the customer the items paid or
+provide information in the statement of account sufficient to allow the
+customer reasonably to identify the items paid. The statement of account
+provides sufficient information if the item is described by item number, amount
+and date of payment. 
+
+       (2) If the items
+are not returned to the customer, the person retaining the items shall either
+retain the items or, if the items are destroyed, maintain the capacity to
+furnish legible copies of the items until the expiration of seven years after
+receipt of the items. A customer may request an item from the bank that paid
+the item, and the bank must provide in a reasonable time either the item or, if
+the item has been destroyed or is not otherwise obtainable, a legible copy of
+the item. 
+
+       (3) If a bank
+sends or makes available a statement of account or items pursuant to subsection
+(1) of this section, the customer must exercise reasonable promptness in
+examining the statement or the items to determine whether any payment was not
+authorized because an alteration of an item or because a purported signature by
+or on behalf of the customer was not authorized. If, based on the statement or
+items provided, the customer should reasonably have discovered the unauthorized
+payment, the customer must promptly notify the bank of the relevant facts. 
+
+       (4) If the bank
+proves that the customer failed, with respect to an item, to comply with the
+duties imposed on the customer by subsection (3) of this section the customer
+is precluded from asserting against the bank: 
+
+       (a) The customer’s
+unauthorized signature or any alteration on the item, if the bank also proves
+that it suffered a loss by reason of the failure; and 
+
+       (b) The customer’s
+unauthorized signature or alteration by the same wrongdoer on any other item
+paid in good faith by the bank if the payment was made before the bank received
+notice from the customer of the unauthorized signature or alteration and after
+the customer had been afforded a reasonable period of time, not exceeding 30
+days, in which to examine the item or statement of account and notify the bank. 
+
+       (5) If subsection
+(4) of this section applies and the customer proves that the bank failed to
+exercise ordinary care in paying the item and that the failure substantially
+contributed to loss, the loss is allocated between the customer precluded and
+the bank asserting the preclusion according to the extent to which the failure
+of the customer to comply with subsection (3) of this section and the failure
+of the bank to exercise ordinary care contributed to the loss. If the customer
+proves that the bank did not pay the item in good faith, the preclusion under
+subsection (4) of this section does not apply. 
+
+       (6) Without
+regard to care or lack of care of either the customer or the bank, a customer
+who does not within 180 days after the statement or items are made available to
+the customer as provided in subsection (1) of this section discover and report
+the customer’s unauthorized signature on or any alteration on the face or back
+of the item or does not within 18 months from that time discover and report any
+unauthorized indorsement on the item is precluded from asserting against the
+bank the unauthorized signature or indorsement or alteration. If there is a
+preclusion under this subsection, the payor bank may not recover for breach of
+warranty under ORS 74.2080 with respect to the unauthorized signature or
+indorsement or alteration to which the preclusion applies. [1961 c.726 §74.4060;
+1989 c.604 §1; 1993 c.545 §108] 
+
+   
+
+       74.4070 Payor
+bank’s right to subrogation on improper payment. If a payor bank has paid an item
+over the order of the drawer or maker to stop payment, or after an account has
+been closed, or otherwise under circumstances giving a basis for objection by
+the drawer or maker, to prevent unjust enrichment and only to the extent
+necessary to prevent loss to the bank by reason of its payment of the item, the
+payor bank shall be subrogated to the rights: 
+
+       (1) Of any holder
+in due course on the item against the drawer or maker; and 
+
+       (2) Of the payee
+or any other holder of the item against the drawer or maker either on the item
+or under the transaction out of which the item arose; and 
+
+       (3) Of the drawer
+or maker against the payee or any other holder of the item with respect to the
+transaction out of which the item arose. [1961 c.726 §74.4070; 1993 c.545 §109] 
+
+   
+
+ COLLECTION OF DOCUMENTARY
+DRAFTS 
+
+   
+
+       74.5010
+Handling of documentary drafts; duty to send for presentment and to notify
+customer of dishonor. 
+A bank that takes a documentary draft for collection shall present or send the
+draft and accompanying documents for presentment and upon learning that the
+draft has not been paid or accepted in due course, shall seasonably notify its
+customer of the fact even though it may have discounted or bought the draft or
+extended credit available for withdrawal as of right. [1961 c.726 §74.5010;
+1993 c.545 §110] 
+
+   
+
+       74.5020
+Presentment of “on arrival” drafts. 
+If a draft or the relevant instructions require presentment “on arrival,” “when
+goods arrive” or the like, the collecting bank need not present until in its
+judgment a reasonable time for arrival of the goods has expired. Refusal to pay
+or accept because the goods have not arrived is not dishonor; the bank must
+notify its transferor of the refusal but need not present the draft again until
+it is instructed to do so or learns of the arrival of the goods. [1961 c.726 §74.5020;
+1993 c.545 §111] 
+
+   
+
+       74.5030
+Responsibility of presenting bank for documents and goods; report of reasons
+for dishonor; referee in case of need. 
+Unless otherwise instructed and except as provided in ORS chapter 75, a bank
+presenting a documentary draft: 
+
+       (1) Must deliver
+the documents to the drawee on acceptance of the draft if it is payable more
+than three days after presentment; otherwise, only on payment; and 
+
+       (2) Upon
+dishonor, either in the case of presentment for acceptance or presentment for
+payment, may seek and follow instructions from any referee in case of need
+designated in the draft or if the presenting bank does not choose to utilize
+the referee’s services, it must use diligence and good faith to ascertain the
+reason for dishonor, must notify its transferor of the dishonor and of the
+results of its effort to ascertain the reasons therefor and must request
+instructions. 
+
+   
+
+ However, the presenting
+bank is under no obligation with respect to goods represented by the documents
+except to follow any reasonable instructions seasonably received; it has a
+right to reimbursement for any expense incurred in following instructions and
+to prepayment of or indemnity for those expenses. [1961 c.726 §74.5030; 1993
+c.545 §112] 
+
+   
+
+       74.5040
+Privilege of presenting bank to deal with goods; security interest for
+expenses. (1) A
+presenting bank that, following the dishonor of a documentary draft, has
+seasonably requested instructions but does not receive them within a reasonable
+time may store, sell, or otherwise deal with the goods in any reasonable
+manner. 
+
+       (2) For its
+reasonable expenses incurred by action under subsection (1) of this section the
+presenting bank has a lien upon the goods or their proceeds, which may be
+foreclosed in the same manner as an unpaid seller’s lien. [1961 c.726 §74.5040;
+1993 c.545 §113] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

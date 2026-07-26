@@ -1,0 +1,67 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: ors-60.967
+title: "Corporations incorporated under special acts"
+doc_type: statute
+citation: "ORS 60.967"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors060.html"
+source_format: html
+retrieved: "2026-07-26"
+source_sha256: "78c01e6bcd1e232e0233c31b11b6fe8516ffc449ef435d1b7d9dcc15a9bdcc47"
+snapshot_id: ors-chapter-60
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+last_amended: 2017
+enacted: 1903
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-26"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-60"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors060.html> (retrieved 2026-07-26, 2025 Edition).
+
+# Corporations incorporated under special acts (ORS 60.967)
+
+## At a glance
+
+ORS 60.967 — Corporations incorporated under special acts. Chapter 60 (Private Corporations), 2025 Edition.
+
+## Full text
+
+60.967 Corporations incorporated under special acts. The shareholders of any private incorporation incorporated by any special Act of the Legislative Assembly before December 31, 1953, may incorporate themselves under this chapter at any time after June 15, 1987, while the corporation exists for the purpose of carrying on the enterprise, business, pursuit or occupation for which they were specially incorporated. The filing of the articles of incorporation shall be deemed a surrender of the special incorporation, but not of any vested right thereunder, and thereafter the corporation shall have the powers and privileges, and be subject to the liabilities and limitations provided by this chapter and not otherwise. [1987 c.52 §179; 1989 c.1040 §35] 60.971 Severability. If any provision of this chapter or its application to any person or circumstance is held invalid by a court of competent jurisdiction, the invalidity does not affect other provisions or applications of this chapter that can be given effect without the invalid provision or application, and to this end the provisions of this chapter are severable. [1987 c.52 §180] 60.990 [(Enacted in 1903) repealed by 1953 c.549 §138; 60.990 (enacted by 1987 c.52 §175) renumbered 60.992 in 1993] PENALTY 60.992 Penalty for signing false document.
+
+(1) A person commits the crime of signing a false document for filing if the person: (a) Knows the document is false in any material respect; and (b) Signs the document with an intent that the document be delivered to the office of the Secretary of State for filing under this chapter.
+
+(2) Signing a false document for filing is a Class A misdemeanor. [Formerly 60.990; 2013 c.158 §23] 60.994 Liability for certain actions in connection with operation of shell entity; actions as false claim; enforcement by civil action.
+
+(1) An officer, director, employee or agent of a shell entity is liable for damages to a person that suffers an ascertainable loss of money or property as a result of the officer, director, employee or agent: (a) Making, issuing, delivering or publishing, or participating in making, issuing, delivering or publishing, a prospectus, report, circular, certificate, financial statement, balance sheet, public notice or document concerning the shell entity or the shell entity’s shares, assets, liabilities, capital, dividends, earnings, accounts or business operations that the officer, director, employee or agent knows is false in any material respect; (b) Making an entry or causing another person to make an entry in a shell entity’s books, records, minutes or accounts that the director, officer, employee or agent knows is false in any material respect; or (c) Removing, erasing, altering or canceling, or causing another person to remove, erase, alter or cancel, an entry in a shell entity’s books, records, minutes or accounts if by means of the removal, erasure, alteration or cancellation the director, officer, employee or agent intends to deceive another person.
+
+(2) An officer, director, employee or agent of a shell entity that engages in any of the actions described in subsection
+
+(1) of this section in a submission to, or an interaction with, a public agency, as defined in ORS 180.750, makes a false claim and is subject to a civil action as provided in ORS 180.750 to 180.785. [2017 c.705 §3] _______________
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors060.html> · retrieved 2026-07-26 · sha256 `78c01e6bcd1e232e0233c31b11b6fe8516ffc449ef435d1b7d9dcc15a9bdcc47`
+  (chapter snapshot `_meta/snapshots/ors-chapter-60.html`)
+- See [CHANGELOG](./CHANGELOG.md).

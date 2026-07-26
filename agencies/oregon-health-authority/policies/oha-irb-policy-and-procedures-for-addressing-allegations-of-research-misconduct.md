@@ -25,7 +25,8 @@ last_verified: "2026-07-21"
 verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
-  implements: []
+  implements:
+    - ors-93.310
   implemented_by: []
   references_external: []
   related: []
