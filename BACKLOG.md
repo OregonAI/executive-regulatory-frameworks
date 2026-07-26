@@ -181,19 +181,61 @@ Original bug report, preserved for reference:
   full text is empty (title + authority/history block only) AND whose most recent History
   entry contains "repeal" should never carry `status: current`.
 
+## Semantic vector index — deferred after the 2026-07-26 rebuild
+
+The index was rebuilt at chunk granularity in #32 (`CHUNK_CHARS` 1600 → 3200, 167,844
+chunks, 82.0 MiB). It had previously become unreproducible: the committed artifact was
+document-level while the code produced chunk-level, and a fresh build at 1600 came to
+112.5 MiB — over GitHub's hard 100 MiB per-file limit, so it could not be pushed even
+once rebuilt. `build_embeddings.py` now fails loudly at that ceiling. Two related
+things were deliberately NOT done in that PR:
+
+- **`_meta/embeddings/projection.2d.json` was computed from the OLD document-level
+  vectors.** It passes `build_topic_map.py --check` and the topic map renders, because
+  the projection cache is self-consistent and the freshness check compares the cache
+  against itself — it cannot see that the vectors it was derived from changed shape
+  (69,395 document vectors → 167,844 chunk vectors). So the map is not wrong so much as
+  built from a superseded basis. Rebuild via `src/build_topic_projection.py` (needs
+  `umap-learn` from `requirements-embeddings.txt`, fixed seed) and re-run
+  `build_topic_map.py`. Worth pairing with a real fix to the staleness check: it should
+  key on the vector artifact's fingerprint, not only its own contents — this is the same
+  latent-staleness pattern that let the index itself drift unnoticed.
+
+- **The embedding backend is still `model2vec` (`potion-retrieval-32M`, dim 512).** It
+  was pinned deliberately during the rebuild to match what was committed. This host now
+  has a CUDA GPU, so `--backend auto` selects `sentence-transformers`
+  (`BAAI/bge-large-en-v1.5`, dim 1024) instead — a genuine retrieval-quality upgrade that
+  is no longer blocked by the old "~1-2 texts/sec on CPU" penalty. Not done here because
+  it re-embeds the whole corpus with a different model, and doubling the dimension
+  doubles bytes per vector: 167,844 × 1024 ≈ 164 MiB, **over the 100 MiB limit**, so it
+  cannot ship as a plain committed file. Doing it means solving that first — raise
+  `CHUNK_CHARS` further, shard the artifact, or move `_meta/embeddings/` to Git LFS — and
+  it deserves its own before/after retrieval evaluation rather than riding along with an
+  unrelated change.
+
 ## Other known deferrals
 
 - Docker image smoke test (blocked: local user lacks docker socket permission —
   `sudo docker build -t oregon-policy-mcp . && sudo docker run -p 8000:8000
   oregon-policy-mcp`).
-- OCR + human-verification pass over the ~507 image-only executive orders
-  (per-order detail: `_meta/catalog/eo.yml` `text_layer` field).
+- Human-verification pass over the OCR'd executive orders. Machine recovery is
+  effectively finished: 514 of 526 orders now carry full text, and only **12** remain
+  metadata stubs (`content_exception`) — a two-engine fallback pass (#32,
+  `src/ocr_fallback_eo.py`) recovered 15 of the 27 orders that had no machine-readable
+  text at all, and a 26-document bake-off found no engine that beats the incumbent
+  where the incumbent already produces output. What is NOT done is a human reading any
+  of the recovered text against its source PDF: those 15 documents are marked
+  `NOT human-verified` in `conversion_notes` and in their own Curator notes, and
+  signature blocks/names/dates are their least reliable part. Per-order detail:
+  `_meta/catalog/eo.yml` `text_layer` field; the amended promotion rule lives in
+  AGENTS.md ("OCR into `## Full text` — the two-engine rule").
 - CI runtime: verify only changed files on PRs, full corpus on main pushes,
   once the suite passes ~10 minutes (~2.5 min at 2,409 files).
-- Semantic/embedding search for the MCP server — infrastructure DONE (hybrid
+- Semantic/embedding search for the MCP server — DONE. Infrastructure (hybrid
   BM25+vector `search_corpus` with RRF, `src/build_embeddings.py`, int8 committed-vector
-  format, optional-dep lazy fallback to keyword-only, CI soft-gate). Remaining: build and
-  commit the production index over the full corpus with a real local model
-  (`pip install -r requirements-embeddings.txt`; the default `hashing` fallback backend
-  has NO semantic quality and is for wiring/tests only). Best done after the ORS
-  mass-ingest so the vectors cover the expanded corpus.
+  format, optional-dep lazy fallback to keyword-only, CI soft-gate) plus a committed
+  production index over the full corpus with a real local model: `model2vec`
+  (`potion-retrieval-32M`, dim 512), chunk granularity, 167,844 vectors covering all
+  69,395 documents. The `hashing` fallback backend has NO semantic quality and remains
+  wiring/tests only. Model and granularity follow-ups are tracked under "Semantic vector
+  index" above.
