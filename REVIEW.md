@@ -54,7 +54,7 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-administrative-services/accounting-manual/oam-15-60-25.md` — document's printed date differs from the listing of record (see Curator notes)
 - `agencies/department-of-administrative-services/accounting-manual/oam-45-20-00.md` — document's printed date differs from the listing of record (see Curator notes)
 
-## Unlinked rules/policies/procedures/standards — no graph edges (354)
+## Unlinked rules/policies/procedures/standards — no graph edges (385)
 
 `src/link_graph.py` found no authority citation (or, for procedures, no `_PR` naming match) connecting this document to anything else in the corpus. Itemized entries usually mean the source's authority text doesn't match the extractor's citation patterns — check the source and either fix the citation text or add a hand-authored relationship. Per-chapter aggregate entries are rules whose own cited authority is chapter-level or not in the corpus — correct non-links, nothing to fix.
 
@@ -156,7 +156,6 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-human-services/policies/dhs-040-026-02.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-human-services/policies/dhs-040-026-03.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-human-services/policies/dhs-040-026-04.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/department-of-human-services/policies/dhs-040-026.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-human-services/policies/dhs-060-034-02.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-irb-compensating-research-participants.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-irb-financial-conflicts-of-interest-in-federally-sponsored-research-activities.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -230,103 +229,127 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/oregon-youth-authority/policies/oya-i-d-3-7.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-youth-authority/policies/oya-iii-b-3-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-youth-authority/policies/oya-iii-d-9-0.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/104/ (40 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); 29 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/101/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/104/ (55 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); 44 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/105/ (1 rules)` — correct non-links — 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/114/ (20 rules)` — correct non-links — 20 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/115/ (9 rules)` — correct non-links — 9 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/122/ (1 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/123/ (25 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 23 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/115/ (91 rules)` — correct non-links — 91 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/122/ (9 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/123/ (89 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 87 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/123/042/oar-123-042-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/ (41 rules)` — correct non-links — 39 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/125/ (69 rules)` — correct non-links — 39 cite only chapter-level authority (no section to link to); 30 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/125/075/oar-125-075-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/128/ (9 rules)` — correct non-links — 9 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/137/ (89 rules)` — correct non-links — 10 cite only chapter-level authority (no section to link to); 79 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/128/ (15 rules)` — correct non-links — 9 cite only chapter-level authority (no section to link to); 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/137/ (217 rules)` — correct non-links — 10 cite only chapter-level authority (no section to link to); 207 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/137/080/oar-137-080-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/141/ (108 rules)` — correct non-links — 106 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/141/ (228 rules)` — correct non-links — 106 cite only chapter-level authority (no section to link to); 122 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/150/ (38 rules)` — correct non-links — 38 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/150/308/oar-150-308-0540.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/160/ (77 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 75 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/162/ (1 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/165/ (7 rules)` — correct non-links — 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/160/ (83 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 81 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/161/ (34 rules)` — correct non-links — 34 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/162/ (4 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/165/ (24 rules)` — correct non-links — 24 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/165/014/oar-165-014-0090.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/165/020/oar-165-020-0125.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/166/ (13 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 12 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/166/ (93 rules)` — correct non-links — 79 cite only chapter-level authority (no section to link to); 14 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/166/020/oar-166-020-0045.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/167/ (7 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/170/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/167/ (20 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 17 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/170/ (13 rules)` — correct non-links — 13 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/171/ (3 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/173/ (26 rules)` — correct non-links — 26 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/177/ (12 rules)` — correct non-links — 12 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/173/ (25 rules)` — correct non-links — 25 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/177/ (27 rules)` — correct non-links — 27 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/199/ (5 rules)` — correct non-links — 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/213/ (18 rules)` — correct non-links — 18 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/230/ (13 rules)` — correct non-links — 13 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/250/ (2 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
+- `rules/230/ (48 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 47 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/250/ (51 rules)` — correct non-links — 25 cite only chapter-level authority (no section to link to); 26 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/250/010/oar-250-010-0430.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/255/ (5 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/255/ (22 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 18 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/255/075/oar-255-075-0001.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/255/075/oar-255-075-0073.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/257/ (50 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 49 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/259/ (1 rules)` — correct non-links — 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/274/ (22 rules)` — correct non-links — 16 cite only chapter-level authority (no section to link to); 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/257/ (53 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 52 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/259/ (4 rules)` — correct non-links — 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/274/ (54 rules)` — correct non-links — 16 cite only chapter-level authority (no section to link to); 38 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/291/ (20 rules)` — correct non-links — 20 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/309/ (39 rules)` — correct non-links — 39 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/309/022/oar-309-022-0192.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/325/ (72 rules)` — correct non-links — 72 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/330/ (101 rules)` — correct non-links — 86 cite only chapter-level authority (no section to link to); 15 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/325/ (77 rules)` — correct non-links — 77 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/330/ (163 rules)` — correct non-links — 82 cite only chapter-level authority (no section to link to); 81 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/330/067/oar-330-067-0067.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/331/ (2 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/331/ (10 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 9 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/331/430/oar-331-430-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/333/ (95 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 94 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/332/ (1 rules)` — correct non-links — 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/333/ (268 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 267 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/333/015/oar-333-015-0090.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/333/030/oar-333-030-0085.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/334/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/337/ (2 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/340/ (55 rules)` — correct non-links — 26 cite only chapter-level authority (no section to link to); 29 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/334/ (3 rules)` — correct non-links — 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/335/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/337/ (6 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/339/ (11 rules)` — correct non-links — 11 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/340/ (290 rules)` — correct non-links — 37 cite only chapter-level authority (no section to link to); 253 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/340/222/oar-340-222-0090.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/345/ (1 rules)` — correct non-links — 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/345/ (29 rules)` — correct non-links — 29 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/345/020/oar-345-020-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/350/ (22 rules)` — correct non-links — 22 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/350/ (127 rules)` — correct non-links — 127 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/350/011/oar-350-011-0005.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/350/011/oar-350-011-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/350/013/oar-350-013-0001.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/409/ (44 rules)` — correct non-links — 44 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/407/ (16 rules)` — correct non-links — 16 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/409/ (59 rules)` — correct non-links — 59 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/409/015/oar-409-015-0022.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/410/ (95 rules)` — correct non-links — 95 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/410/146/oar-410-146-0080.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/411/ (6 rules)` — correct non-links — 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/411/340/oar-411-340-0135.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/413/ (7 rules)` — correct non-links — 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/414/ (31 rules)` — correct non-links — 7 cite only chapter-level authority (no section to link to); 24 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/413/ (53 rules)` — correct non-links — 53 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/414/ (140 rules)` — correct non-links — 20 cite only chapter-level authority (no section to link to); 120 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/415/ (7 rules)` — correct non-links — 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/415/065/oar-415-065-0070.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/416/ (9 rules)` — correct non-links — 9 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/419/ (1 rules)` — correct non-links — 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/423/ (1 rules)` — correct non-links — 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/436/ (382 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 378 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/436/ (8 rules)` — correct non-links — 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/436/105/oar-436-105-0510.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/437/ (14 rules)` — correct non-links — 14 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/437/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/437/081/oar-437-081-0879.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/437/081/oar-437-081-0985.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/437/081/oar-437-081-2305.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/438/ (128 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 127 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/440/ (2 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/441/ (267 rules)` — correct non-links — 30 cite only chapter-level authority (no section to link to); 237 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/459/ (5 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/462/ (1 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/471/ (5 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/543/ (3 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/438/ (2 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/440/ (10 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 9 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/441/ (286 rules)` — correct non-links — 30 cite only chapter-level authority (no section to link to); 256 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/459/ (43 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 40 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/461/ (30 rules)` — correct non-links — 30 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/462/ (4 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/471/ (11 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/543/ (4 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/573/ (10 rules)` — correct non-links — 10 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/575/ (101 rules)` — correct non-links — 78 cite only chapter-level authority (no section to link to); 23 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/575/ (103 rules)` — correct non-links — 78 cite only chapter-level authority (no section to link to); 25 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/575/037/oar-575-037-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/581/ (167 rules)` — correct non-links — 16 cite only chapter-level authority (no section to link to); 151 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/581/ (239 rules)` — correct non-links — 18 cite only chapter-level authority (no section to link to); 221 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/581/023/oar-581-023-0006.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/584/ (4 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/586/ (19 rules)` — correct non-links — 19 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
+- `rules/582/ (1 rules)` — correct non-links — 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/583/ (5 rules)` — correct non-links — 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/584/ (79 rules)` — correct non-links — 76 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/585/ (3 rules)` — correct non-links — 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/586/ (26 rules)` — correct non-links — 19 cite only chapter-level authority (no section to link to); 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/586/030/oar-586-030-0025.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/603/ (77 rules)` — correct non-links — 49 cite only chapter-level authority (no section to link to); 28 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/589/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/603/ (167 rules)` — correct non-links — 62 cite only chapter-level authority (no section to link to); 105 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/603/011/oar-603-011-0345.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/603/011/oar-603-011-0540.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/604/ (7 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/605/ (4 rules)` — correct non-links — 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/605/ (5 rules)` — correct non-links — 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/607/ (7 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/611/ (3 rules)` — correct non-links — 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/617/ (10 rules)` — correct non-links — 6 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/611/ (4 rules)` — correct non-links — 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/617/ (13 rules)` — correct non-links — 6 cite only chapter-level authority (no section to link to); 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/619/ (6 rules)` — correct non-links — 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/623/ (6 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/624/ (10 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/629/ (22 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 20 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/624/ (14 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 10 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/628/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/629/ (69 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 66 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/629/001/oar-629-001-0030.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/629/620/oar-629-620-0200.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/632/ (3 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/635/ (240 rules)` — correct non-links — 232 cite only chapter-level authority (no section to link to); 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/635/ (263 rules)` — correct non-links — 232 cite only chapter-level authority (no section to link to); 31 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/635/004/oar-635-004-0420.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/635/007/oar-635-007-0960.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/635/007/oar-635-007-0965.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -335,85 +358,105 @@ The document prints a different date than its listing of record (known site typo
 - `rules/635/007/oar-635-007-0980.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/635/007/oar-635-007-0990.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/635/007/oar-635-007-0995.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/642/ (6 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/642/ (9 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/643/ (8 rules)` — correct non-links — 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/644/ (14 rules)` — correct non-links — 10 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/645/ (7 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/646/ (5 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/647/ (7 rules)` — correct non-links — 5 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/656/ (7 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/657/ (5 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/658/ (3 rules)` — correct non-links — 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/660/ (5 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/644/ (17 rules)` — correct non-links — 10 cite only chapter-level authority (no section to link to); 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/645/ (12 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 10 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/646/ (8 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/647/ (10 rules)` — correct non-links — 5 cite only chapter-level authority (no section to link to); 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/656/ (10 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/657/ (8 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/658/ (6 rules)` — correct non-links — 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/660/ (81 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 77 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/660/001/oar-660-001-0105.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/660/012/oar-660-012-0016.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/660/025/oar-660-025-0230.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/661/ (2 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/664/ (5 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/668/ (4 rules)` — correct non-links — 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/669/ (9 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/670/ (5 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/678/ (11 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/690/ (280 rules)` — correct non-links — 263 cite only chapter-level authority (no section to link to); 17 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/664/ (11 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 10 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/668/ (5 rules)` — correct non-links — 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/669/ (10 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/670/ (8 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/678/ (15 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/690/ (456 rules)` — correct non-links — 263 cite only chapter-level authority (no section to link to); 193 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/690/040/oar-690-040-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/690/080/oar-690-080-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/695/ (1 rules)` — correct non-links — 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/695/ (6 rules)` — correct non-links — 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/698/ (4 rules)` — correct non-links — 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/705/ (18 rules)` — correct non-links — 18 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/715/ (5 rules)` — correct non-links — 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/733/ (3 rules)` — correct non-links — 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/734/ (1 rules)` — correct non-links — 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/735/ (1 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
+- `rules/715/ (6 rules)` — correct non-links — 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/731/ (58 rules)` — correct non-links — 58 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/732/ (42 rules)` — correct non-links — 42 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/733/ (6 rules)` — correct non-links — 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/734/ (25 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 24 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/735/ (24 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 23 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/735/080/oar-735-080-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/736/ (11 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 9 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/738/ (4 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/741/ (2 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/804/ (1 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
+- `rules/736/ (28 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 27 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/737/ (10 rules)` — correct non-links — 10 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/738/ (9 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/740/ (9 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/741/ (17 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 15 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/801/ (8 rules)` — correct non-links — 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/804/ (7 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/804/010/oar-804-010-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/808/ (4 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/806/ (1 rules)` — correct non-links — 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/808/ (40 rules)` — correct non-links — 5 cite only chapter-level authority (no section to link to); 35 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/808/001/oar-808-001-0035.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/808/005/oar-808-005-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/809/ (6 rules)` — correct non-links — 6 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/811/ (6 rules)` — correct non-links — 6 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/812/ (7 rules)` — correct non-links — 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/813/ (202 rules)` — correct non-links — 202 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/809/ (9 rules)` — correct non-links — 6 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/811/ (9 rules)` — correct non-links — 6 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/812/ (63 rules)` — correct non-links — 63 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/813/ (97 rules)` — correct non-links — 97 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/813/005/oar-813-005-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/813/005/oar-813-005-0025.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/813/005/oar-813-005-0030.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/817/ (3 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/818/ (9 rules)` — correct non-links — 6 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/817/ (6 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/818/ (13 rules)` — correct non-links — 9 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/820/ (1 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/830/ (3 rules)` — correct non-links — 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/833/ (1 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/836/ (26 rules)` — correct non-links — 10 cite only chapter-level authority (no section to link to); 16 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/830/ (4 rules)` — correct non-links — 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/833/ (3 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/836/ (182 rules)` — correct non-links — 10 cite only chapter-level authority (no section to link to); 172 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/836/010/oar-836-010-0014.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/836/052/oar-836-052-0225.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/836/052/oar-836-052-0230.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/836/054/oar-836-054-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/837/ (12 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 10 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/839/ (45 rules)` — correct non-links — 16 cite only chapter-level authority (no section to link to); 29 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/845/ (4 rules)` — correct non-links — 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/847/ (1 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/848/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/850/ (11 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/851/ (1 rules)` — correct non-links — 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/837/ (32 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 30 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/839/ (134 rules)` — correct non-links — 18 cite only chapter-level authority (no section to link to); 116 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/845/ (30 rules)` — correct non-links — 30 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/847/ (16 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 15 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/848/ (3 rules)` — correct non-links — 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/850/ (15 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/851/ (72 rules)` — correct non-links — 72 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/852/ (2 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/855/ (14 rules)` — correct non-links — 14 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/856/ (1 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/858/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/855/ (148 rules)` — correct non-links — 15 cite only chapter-level authority (no section to link to); 133 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/856/ (4 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/858/ (4 rules)` — correct non-links — 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/858/010/oar-858-010-0037.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/859/ (1 rules)` — correct non-links — 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/859/400/oar-859-400-0025.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/860/ (111 rules)` — correct non-links — 37 cite only chapter-level authority (no section to link to); 74 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/863/ (9 rules)` — correct non-links — 7 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/877/ (1 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/918/ (40 rules)` — correct non-links — 40 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/860/ (51 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); 40 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/863/ (30 rules)` — correct non-links — 7 cite only chapter-level authority (no section to link to); 23 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/875/ (5 rules)` — correct non-links — 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/877/ (3 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/918/ (20 rules)` — correct non-links — 20 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/918/674/oar-918-674-0025.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/943/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/945/ (9 rules)` — correct non-links — 9 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/951/ (5 rules)` — correct non-links — 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/952/ (10 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/972/ (7 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/943/ (29 rules)` — correct non-links — 29 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/945/ (10 rules)` — correct non-links — 10 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/951/ (11 rules)` — correct non-links — 11 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/972/ (11 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 9 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 
-## Catalog: sections with no sliceable body (366)
+## Executive-order dates that contradict their own numbering (7)
+
+Order numbers are assigned sequentially within a year, so a higher number carrying an earlier signature date means one of the two dates was misread — usually OCR damage to the signature block, which is the least reliable part of a scanned order. This check is independent of the parser (which validates a date against the YEAR in its id and therefore cannot see a wrong day), and it is what surfaced the day-truncation bug. Not every entry is an error: orders are occasionally signed out of numeric order. Resolve by reading both signature blocks against the source PDFs and correcting or nulling the wrong one; `python3 src/recheck_eo_signed_dates.py` re-derives dates from the committed extractions.
+
+- `eo-03-14` — signed 2003-09-09, but the preceding order `eo-03-13` is dated 2003-09-24 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
+- `eo-08-23` — signed 2008-09-04, but the preceding order `eo-08-21` is dated 2008-09-17 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
+- `eo-13-08` — signed 2013-07-25, but the preceding order `eo-13-07` is dated 2013-07-29 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
+- `eo-15-16` — signed 2015-08-15, but the preceding order `eo-15-13` is dated 2015-08-25 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
+- `eo-23-20` — signed 2023-08-31, but the preceding order `eo-23-19` is dated 2023-09-05 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
+- `eo-23-22` — signed 2023-09-01, but the preceding order `eo-23-21` is dated 2023-09-05 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
+- `eo-24-18` — signed 2024-07-20, but the preceding order `eo-24-17` is dated 2024-07-21 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
+
+## Catalog: sections with no sliceable body (343)
 
 ORS catalog entries whose section text couldn't be found in the chapter HTML (likely renumbered/repealed or TOC noise). Verify against the printed ORS if any of these numbers matter; otherwise they stay intentionally not ingested.
 
@@ -422,17 +465,6 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 105.462` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 105.844` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 109.990` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 110.304` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 110.349` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 110.379` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 110.391` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 110.392` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 110.394` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 110.440` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 110.443` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 110.446` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 110.449` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 110.452` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 110.500` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 110.593` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 110.611` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
@@ -498,7 +530,6 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 187.308` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 187.320` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 187.323` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 192.478` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 196.555` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 196.692` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 196.919` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
@@ -517,12 +548,6 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 276.001` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 276.106` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 276.137` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 279.435` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 279.545` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 279.555` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 279.560` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 279.565` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 279.570` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 279A.005` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 279A.075` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 279B.085` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
@@ -618,7 +643,7 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 441.419` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 441.695` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 441.745` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 443.350` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 443.460` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 446.285` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 446.420` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 447.992` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
@@ -762,12 +787,7 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 732.544` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 732.596` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 743B.005` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 744.054` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 744.057` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 744.066` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 744.124` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 744.240` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 744.245` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 756.010` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 758.475` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 759.455` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
@@ -4364,4 +4384,4 @@ the attestation the review gates call for. Corpus size by directory:
 - `rules/972/040/`: 3 documents
 - `rules/976/001/`: 2 documents
 - `rules/976/002/`: 4 documents
-- `statutes/`: 30171 documents
+- `statutes/`: 31031 documents

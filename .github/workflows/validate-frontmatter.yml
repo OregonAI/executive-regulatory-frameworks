@@ -31,6 +31,12 @@ jobs:
           python-version: "3.12"
       - run: pip install pyyaml
 
+      # --- parser regression guards (fast; every run) ---
+      # Signature-block dates are the single most OCR-damaged field in the corpus, and
+      # a wrong date passes every other gate silently. Cases are real corpus lines.
+      - name: Executive-order signed-date parser
+        run: python3 src/ingest_eo.py --selftest
+
       # --- generated-file staleness gates (moderate; every run) ---
       - name: Relationship graph must be current
         run: python3 src/link_graph.py --check
