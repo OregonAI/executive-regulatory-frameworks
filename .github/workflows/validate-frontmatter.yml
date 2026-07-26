@@ -14,7 +14,7 @@ on:
 
 jobs:
   frontmatter:
-    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.0.5
+    uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1.1.0
     # jobs: left unset — the CLI auto-detects the runner's own cpu_count rather than
     # a hardcoded worker number, so this scales automatically with whatever runner
     # (GitHub-hosted or self-hosted) actually executes it.
@@ -83,7 +83,7 @@ jobs:
       - name: MCP query engine smoke test (nightly)
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
-          pip install "corpus-toolkit @ git+https://github.com/OregonAI/corpus-toolkit@v1.0.5"
+          pip install "corpus-toolkit @ git+https://github.com/OregonAI/corpus-toolkit@v1.1.0"
           python3 -c "
           import sys
           from corpus_toolkit import config as config_mod
