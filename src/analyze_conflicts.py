@@ -117,7 +117,53 @@ def shared_authority_chapters(graph: dict) -> dict:
     return {c: a for c, a in by_chapter.items() if len(a) >= 2}
 
 
-def build_bundles(chapters: list, graph: dict, tier: str = "cluster") -> list:
+def split_rules(rules: list, statute_chars: int, max_tokens: int, registry: dict) -> list:
+    """Split a section's rules into sub-clusters that each fit `max_tokens`.
+
+    The statute rides in EVERY sub-cluster — it is the thing the rules are compared
+    against, so a part without it can only find rule-vs-rule and would silently lose
+    the statute-vs-rule class that is 81% of the known candidates.
+
+    Rules are interleaved BY AGENCY rather than taken in id order. Ids sort by OAR
+    chapter, which means one agency's rules are contiguous, so a naive fill puts a
+    single agency in each part — and inter-agency conflict, the highest-value class
+    and the entire reason 'shared authority' is the selection criterion, becomes
+    structurally undiscoverable. Round-robin gives every part a mix.
+
+    A single rule larger than the budget still gets its own part. Truncating it would
+    silently hide text the model was told it had read, and a candidate quoting a
+    passage that was never shown is exactly the fabrication this pipeline exists to
+    avoid. An oversized part is visible in the size report; a truncated one is not.
+    """
+    budget = max_tokens * CHARS_PER_TOKEN - statute_chars
+    if budget <= 0:                       # statute alone exceeds the window
+        return [[r] for r in rules]
+    if sum(len(r["text"]) for r in rules) <= budget:
+        return [rules]                    # the common case: whole section fits
+
+    by_agency: dict = collections.defaultdict(list)
+    for r in rules:
+        by_agency[registry.get(r["id"].split("-")[1], {}).get("slug")].append(r)
+    queues = [collections.deque(v) for _, v in sorted(by_agency.items(),
+                                                     key=lambda kv: str(kv[0]))]
+    parts, cur, size = [], [], 0
+    while any(queues):
+        for q in queues:
+            if not q:
+                continue
+            r = q.popleft()
+            if cur and size + len(r["text"]) > budget:
+                parts.append(cur)
+                cur, size = [], 0
+            cur.append(r)
+            size += len(r["text"])
+    if cur:
+        parts.append(cur)
+    return parts
+
+
+def build_bundles(chapters: list, graph: dict, tier: str = "cluster",
+                  max_tokens: int = MAX_BUNDLE_TOKENS) -> list:
     """Bundles to analyze, scoped by tier.
 
     WHY TWO TIERS. 'Shared authority' — 2+ agencies regulating under one statute — is what
@@ -163,7 +209,14 @@ def build_bundles(chapters: list, graph: dict, tier: str = "cluster") -> list:
         agencies = {registry.get(r["id"].split("-")[1], {}).get("slug") for r in rules}
         agencies.discard(None)
         multi = len(agencies) >= 2
-        want_cluster = multi and tier in ("cluster", "all")
+        # `section` clusters EVERY section with rules, not just multi-agency ones. The
+        # multi-agency filter is a cost optimisation for a paid API — it targets the
+        # inter-agency class and skips sections that structurally cannot produce one.
+        # For a local model, where compute is free and the question is "what can this
+        # model find at all", that filter throws away most of the evidence: only 57 of
+        # the eval set's 479 sections are multi-agency, leaving 18 of 137 known
+        # candidates reachable and the measurement meaningless.
+        want_cluster = tier == "section" or (multi and tier in ("cluster", "all"))
         want_pairs = tier in ("pairwise", "all") and not (multi and tier == "all")
 
         common = {"ors_chapter": chapter, "section": section,
@@ -171,20 +224,15 @@ def build_bundles(chapters: list, graph: dict, tier: str = "cluster") -> list:
                   "n_agencies": len(agencies)}
 
         if want_cluster:
-            budget = MAX_BUNDLE_TOKENS * CHARS_PER_TOKEN - len(statute)
-            parts, cur, size = [], [], 0
-            for r in rules:
-                if cur and size + len(r["text"]) > budget:
-                    parts.append(cur)
-                    cur, size = [], 0
-                cur.append(r)
-                size += len(r["text"])
-            if cur:
-                parts.append(cur)
+            parts = split_rules(rules, len(statute), max_tokens, registry)
             for i, part in enumerate(parts):
                 bundles.append({**common, "custom_id": f"{section}#{i}", "mode": "cluster",
                                 "rules": part, "partial": len(parts) > 1,
                                 "part": i, "n_parts": len(parts),
+                                "agencies_in_part": sorted(
+                                    {registry.get(r["id"].split("-")[1], {}).get("slug")
+                                     for r in part} - {None}),
+                                "co_present": [r["id"] for r in part],
                                 "est_tokens": (len(statute) + sum(len(r["text"]) for r in part))
                                 // CHARS_PER_TOKEN})
         elif want_pairs:
@@ -247,6 +295,35 @@ Reply with ONLY a fenced ```json block, no prose before or after:
 ```
 
 An empty list is the correct answer when nothing qualifies."""
+
+
+# A SECOND prompt, for small local models, because the one above does not work on them.
+# Measured on qwen2.5-7b-instruct-q4_K_M: with the full SYSTEM prompt the model ignores
+# the JSON contract entirely and writes a prose summary of the rules. The cause is not
+# the wording — it is length. Compliance holds to ~3,000 input tokens and collapses
+# above it (223/1,489/2,933 tokens: valid JSON; 5,227/6,601/15,091: prose). A 7B has the
+# instruction-following budget for a short contract or a long document, not both.
+#
+# So this keeps only the guardrails that cannot be given up, and drops the rest:
+#   - quotes must be copied, never composed  (the grounding check depends on it)
+#   - an empty list is a CORRECT answer      (or the model manufactures findings)
+#   - candidates, not conclusions            (the corpus's whole framing)
+# Scope lists, severity/confidence grading and the near-miss guidance are gone. They are
+# real losses — graded output is simply unavailable from this model — and the evaluation
+# reports confidence/severity as null rather than inventing them.
+LOCAL_SYSTEM = """Compare the Oregon statute below against the rules that implement it.
+
+Find places where a rule CONTRADICTS the statute: a different dollar amount, deadline,
+scope, or duty. Report candidates for a human to review, never conclusions.
+
+- Copy every quote EXACTLY from the text you were given. Never write text that is not
+  there. Quotes are checked mechanically against the source.
+- Only cite an id that appears above.
+- If nothing contradicts, reply {"candidates":[]}. That is a correct and useful answer.
+  Do not invent a finding to seem thorough.
+
+Reply with ONLY this JSON and nothing else:
+{"candidates":[{"summary":"one sentence","documents":[{"id":"exact id","citation":"e.g. ORS 291.047(1)","quote":"exact words"}]}]}"""
 
 
 def render_user(bundle: dict) -> str:
@@ -344,33 +421,95 @@ class LocalBackend:
     not drag in a dependency the Claude path doesn't need."""
     name = "local"
 
-    def __init__(self, model: str, base_url: str):
+    def __init__(self, model: str, base_url: str, max_tokens: int = 4000,
+                 timeout: int = 900, system: str | None = None):
         self.model = model
+        self.system = system or LOCAL_SYSTEM
         self.url = base_url.rstrip("/") + "/chat/completions"
+        # Without a cap a small model can ramble past the useful answer and burn minutes
+        # per bundle. 4k is generous for the JSON this prompt asks for.
+        self.max_tokens = max_tokens
+        self.timeout = timeout
 
     def submit(self, bundles):
         raise SystemExit("--backend local runs inline; use it without --submit/--collect.")
 
-    def run(self, bundles: list) -> dict:
-        out = {}
+    def _once(self, bundle: dict, force_json: bool) -> str:
+        payload = {
+            "model": self.model, "temperature": 0,
+            "max_tokens": self.max_tokens,
+            "messages": [{"role": "system", "content": self.system},
+                         {"role": "user", "content": render_user(bundle)}],
+        }
+        if force_json:
+            # ollama and most OpenAI-compatible servers honour this; a server that does
+            # not simply ignores it, so it is safe to send unconditionally on a retry.
+            payload["response_format"] = {"type": "json_object"}
+        req = urllib.request.Request(
+            self.url, data=json.dumps(payload).encode(),
+            headers={"Content-Type": "application/json"})
+        with urllib.request.urlopen(req, timeout=self.timeout) as r:
+            return json.loads(r.read())["choices"][0]["message"]["content"]
+
+    def run(self, bundles: list) -> tuple[dict, dict]:
+        """(results, status). Returns BOTH, and that is the point.
+
+        The previous version swallowed every failure into a stderr line and dropped the
+        bundle from `results` entirely — which makes a section that errored
+        indistinguishable from a section the model read and found clean. For a
+        measurement run that is fatal: failures would silently inflate the clean rate and
+        deflate the denominator, and the summary would look better the more often the
+        model broke. Status is now recorded per bundle so failed sections can be excluded
+        from rates rather than counted as findings of nothing.
+
+        Small models break strict JSON often enough that one retry with an explicit
+        json_object request is worth it; beyond that the bundle is recorded as
+        parse_failed rather than retried indefinitely."""
+        out: dict = {}
+        status: dict = {}
         for i, b in enumerate(bundles, 1):
-            body = json.dumps({
-                "model": self.model, "temperature": 0,
-                "messages": [{"role": "system", "content": SYSTEM},
-                             {"role": "user", "content": render_user(b)}],
-            }).encode()
-            req = urllib.request.Request(self.url, data=body,
-                                         headers={"Content-Type": "application/json"})
-            try:
-                with urllib.request.urlopen(req, timeout=600) as r:
-                    payload = json.loads(r.read())
-                text = payload["choices"][0]["message"]["content"]
-                out[b["custom_id"]] = parse_reply(text)
-            except Exception as e:                       # noqa: BLE001 - report and continue
-                print(f"  {b['custom_id']}: FAILED ({e})", file=sys.stderr)
-            print(f"  [{i}/{len(bundles)}] {b['custom_id']} "
-                  f"({b['est_tokens']:,} tok)", file=sys.stderr)
-        return out
+            cid = b["custom_id"]
+            for attempt, force_json in enumerate((False, True)):
+                try:
+                    text = self._once(b, force_json)
+                except Exception as e:                   # noqa: BLE001 — recorded, not hidden
+                    status[cid] = {"state": "error", "detail": str(e)[:160],
+                                   "attempts": attempt + 1}
+                    break
+                try:
+                    out[cid] = parse_reply(text)
+                    status[cid] = {"state": "ok", "attempts": attempt + 1,
+                                   "n_candidates": len(out[cid])}
+                    break
+                except (ValueError, json.JSONDecodeError) as e:
+                    status[cid] = {"state": "parse_failed", "detail": str(e)[:160],
+                                   "attempts": attempt + 1, "raw_head": text[:200]}
+            st = status[cid]["state"]
+            mark = "" if st == "ok" else f"  <-- {st}"
+            print(f"  [{i}/{len(bundles)}] {cid} ({b['est_tokens']:,} tok) "
+                  f"{status[cid].get('n_candidates', 0)} cand{mark}", file=sys.stderr)
+        return out, status
+
+
+def _report_status(status: dict) -> None:
+    """Say plainly how many bundles the model actually answered.
+
+    Printed even when everything succeeded, because the number that matters to a reader
+    of the results is not "how many candidates" but "out of how many sections the model
+    genuinely read". A run that errored on half its bundles and found nothing is not a
+    clean corpus."""
+    by = collections.Counter(v["state"] for v in status.values())
+    total = len(status)
+    ok = by.get("ok", 0)
+    print(f"\nbundles: {total} · ok {ok} · parse_failed {by.get('parse_failed', 0)} · "
+          f"error {by.get('error', 0)}", file=sys.stderr)
+    if ok < total:
+        print("  NOT-ok bundles are excluded from any rate computed downstream — they are "
+              "sections the model did not read, not sections it found clean.",
+              file=sys.stderr)
+        for cid, v in list(status.items())[:10]:
+            if v["state"] != "ok":
+                print(f"    {cid}: {v['state']} — {v.get('detail', '')[:90]}", file=sys.stderr)
 
 
 # --------------------------------------------------------------------------- merge
@@ -449,7 +588,12 @@ def main():
     ap.add_argument("--model", default=None, help=f"default: {DEFAULT_MODEL} (claude)")
     ap.add_argument("--local-url", default="http://localhost:11434/v1",
                     help="OpenAI-compatible base url for --backend local")
-    ap.add_argument("--tier", choices=["cluster", "pairwise", "all"], default="cluster",
+    ap.add_argument("--max-context-tokens", type=int, default=MAX_BUNDLE_TOKENS,
+                    help="per-bundle input budget. Default suits a frontier model; a "
+                         "local 7B at 32k context wants roughly 24000, leaving room "
+                         "for the instructions and the reply.")
+    ap.add_argument("--tier", choices=["section", "cluster", "pairwise", "all"],
+                    default="cluster",
                     help="cluster: multi-agency sections only (default, highest value per "
                          "token); pairwise: one rule vs its statute section; all: both")
     ap.add_argument("--chapters", help="comma-separated ORS chapters (default: all unanalyzed)")
@@ -470,7 +614,7 @@ def main():
         chapters = [c.strip().lower() for c in args.chapters.split(",")]
     else:
         chapters = sorted(set(shared) - done)
-    bundles = build_bundles(chapters, graph, args.tier)
+    bundles = build_bundles(chapters, graph, args.tier, args.max_context_tokens)
     if args.limit:
         bundles = bundles[:args.limit]
 
@@ -512,7 +656,8 @@ def main():
             return
         results = backend.collect(args.collect)
     else:
-        results = LocalBackend(model, args.local_url).run(bundles)
+        results, status = LocalBackend(model, args.local_url).run(bundles)
+        _report_status(status)
 
     cat = merge_into_catalog(results, bundles, args.run_id, model)
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
