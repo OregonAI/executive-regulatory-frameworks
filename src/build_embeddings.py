@@ -26,7 +26,8 @@ else hashing; override with --backend):
   - hashing                ZERO-DEPENDENCY fallback: hashed char-ngram bag-of-words. NO
                            semantic quality — only for wiring the pipeline / CI tests.
 
-Artifact (under _meta/embeddings/, committed to git):
+Artifact (under _meta/embeddings/, NOT committed — gitignored; build it locally to enable
+semantic search, otherwise the MCP server falls back to keyword-only):
   vectors.i8.npy   int8 [n_chunks, dim]  — each row an L2-normalized embedding × 127
   chunks.jsonl     one JSON object per row (one per CHUNK): {doc_id, heading, ordinal, preview}
   meta.json        {backend, model, dim, granularity, n_chunks, fingerprint, chunk_chars, chunk_overlap}
@@ -39,6 +40,7 @@ import argparse
 import hashlib
 import json
 import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -51,20 +53,31 @@ META = EMB_DIR / "meta.json"
 
 DEFAULT_M2V = "minishlab/potion-retrieval-32M"      # static, CPU-fast fallback backend
 DEFAULT_MODEL = "BAAI/bge-large-en-v1.5"             # transformer (GPU default; 1024-dim)
-# Chunk size is bounded from BELOW by retrieval quality and from ABOVE by GitHub's
-# hard 100 MiB per-file limit: the artifact is committed, so a build that cannot be
-# pushed is a build that cannot ship. At this corpus's size (measured, not estimated):
+# Chunk size is now bounded only from BELOW, by retrieval quality: the artifact is no
+# longer committed (see .gitignore), so GitHub's 100 MiB per-file limit no longer caps it.
+# It used to, and that cap drove this value -- at this corpus's earlier size (measured):
 #   1600 -> 230,476 chunks -> 112.5 MiB   REJECTED BY GITHUB
 #   2400 -> 186,161 chunks ->  90.9 MiB   fits, ~9% headroom
-#   3200 -> 167,844 chunks ->  82.0 MiB   fits, ~18% headroom  <- chosen
+#   3200 -> 167,844 chunks ->  82.0 MiB   fits, ~18% headroom  <- chosen then, kept now
 # 3200 keeps multi-vector coverage of long statutes (the point of chunk-level over the
-# document-level index this replaces) while leaving room to grow. MAX_ARTIFACT_BYTES
-# below turns the next breach into a loud build failure rather than a failed push.
+# document-level index it replaced). It can now be LOWERED for finer retrieval without
+# regard to artifact size; the only cost is build time and disk.
 CHUNK_CHARS = 3200     # ~800 tokens
 OVERLAP = 200
-# GitHub blocks pushes containing a file over 100 MiB. Fail while the artifact is still
-# on disk and the cause is obvious, instead of at `git push` in someone else's PR.
+# GitHub blocks pushes containing a file over 100 MiB. Only enforced when the artifact is
+# actually tracked -- see the check after the build.
 MAX_ARTIFACT_BYTES = 100 * 1024 * 1024
+
+
+def _is_tracked_by_git(path: Path) -> bool:
+    """True if git tracks this file. The artifact is gitignored, so the size limit is
+    advisory here; it becomes a hard failure again if someone re-adds it."""
+    try:
+        r = subprocess.run(["git", "ls-files", "--error-unmatch", str(path)],
+                           cwd=REPO_ROOT, capture_output=True, text=True)
+        return r.returncode == 0
+    except Exception:
+        return False       # no git available -> cannot be a push problem
 
 
 # ---------- searchable text + chunking ----------
@@ -327,19 +340,22 @@ def build(backend="auto", limit=None, dim=384):
     print(f"embedded {n} chunks ({emb.name}, dim={emb.dim}) -> "
           f"{VECTORS.relative_to(REPO_ROOT)}", flush=True)
 
-    # The artifact is committed, so an unpushable build is a broken build. Say so here,
-    # where the fix (raise CHUNK_CHARS, or move to LFS) is obvious — not at someone
-    # else's `git push`, where the error names only a file size.
+    # The size limit only bites if the artifact is actually committed. It no longer is
+    # (see .gitignore), which is what frees this build to use the best available model
+    # rather than whichever one fits a cap -- so failing the build on size would be
+    # reporting a push that is never attempted. Still print the size, and keep the hard
+    # failure for anyone who tracks the artifact again.
     size = VECTORS.stat().st_size
     print(f"  artifact {size / 1048576:.1f} MiB "
           f"({size * 100 // MAX_ARTIFACT_BYTES}% of GitHub's {MAX_ARTIFACT_BYTES // 1048576} MiB "
           f"per-file limit)", flush=True)
-    if size >= MAX_ARTIFACT_BYTES:
+    if size >= MAX_ARTIFACT_BYTES and _is_tracked_by_git(VECTORS):
         sys.exit(
             f"ERROR: {VECTORS.name} is {size / 1048576:.1f} MiB, at or over GitHub's "
-            f"{MAX_ARTIFACT_BYTES // 1048576} MiB per-file limit — this cannot be pushed.\n"
+            f"{MAX_ARTIFACT_BYTES // 1048576} MiB per-file limit, and it is tracked by git — "
+            f"this cannot be pushed.\n"
             f"       Raise CHUNK_CHARS (currently {CHUNK_CHARS}) to produce fewer vectors, "
-            f"or move _meta/embeddings/ to Git LFS.")
+            f"move _meta/embeddings/ to Git LFS, or untrack it.")
 
 
 def check():

@@ -1,0 +1,2621 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+126 — Property Held for the Benefit of Minors; Uniform Transfers to Minors Act 
+
+   
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ PROPERTY FOR THE
+BENEFIT OF MINORS 
+
+   
+
+ PROTECTIVE PROCEEDINGS;
+POWERS OF ATTORNEY; TRUSTS 
+
+   
+
+ PAYMENT OR DELIVERY 
+
+  FOR BENEFIT OF MINOR 
+
+   
+
+ 126.700     Payment or delivery
+for benefit of minor 
+
+   
+
+ SETTLEMENT AGREEMENT 
+
+  ON BEHALF OF MINOR 
+
+   
+
+ 126.725     Settlement
+agreement on behalf of minor; payment or deposit; disbursement; liability 
+
+   
+
+ PAYMENT OF JUDGMENT TO
+MINOR 
+
+   
+
+ 126.730     Payment of
+moneys to minor pursuant to judgment; payment or deposit; disbursement 
+
+   
+
+ BANK ACCOUNTS FOR
+MINORS 
+
+   
+
+ 126.735     Legislative
+findings; minor’s capacity to contract for bank account; consent; liability 
+
+   
+
+ GIFTS TO MINORS 
+
+   
+
+ 126.805     Definitions
+for ORS 126.805 to 126.886 
+
+   
+
+ 126.809     Applicability
+of ORS 126.805 to 126.886; jurisdiction over custodian 
+
+   
+
+ 126.812     Nomination
+of custodian; effective date of custodianship and transfer of custodial       property 
+
+   
+
+ 126.816     Irrevocable
+gifts or exercise of power of appointment 
+
+   
+
+ 126.819     Irrevocable
+transfer by personal representative or trustee to custodian 
+
+   
+
+ 126.822     Transfer to
+custodian in absence of authorization 
+
+   
+
+ 126.826     Irrevocable
+transfer by person holding property of or owing liquidated debt to minor 
+
+   
+
+ 126.829     Written
+acknowledgment of delivery as receipt 
+
+   
+
+ 126.832     Creation
+and transfer of custodial property; form of instrument 
+
+   
+
+ 126.836     Limitations
+on custodianship; age requirement for transfers 
+
+   
+
+ 126.839     Validity of
+transfer 
+
+   
+
+ 126.842     Duties of
+custodian; standard of care 
+
+   
+
+ 126.846     Rights,
+powers and authority of custodian 
+
+   
+
+ 126.849     Payments to
+and expenditures for beneficiary; effect on duty to support beneficiary 
+
+   
+
+ 126.852     Reimbursement
+to custodian for reasonable expenses; compensation; bond 
+
+   
+
+ 126.857     Third
+person’s duties in dealing with custodian 
+
+   
+
+ 126.859     Claims
+against custodial property; liability of custodian and beneficiary 
+
+   
+
+ 126.862     Refusal to
+serve as custodian; substitute and successor custodians; resignation;            removal 
+
+   
+
+ 126.866     Petition
+for accounting by custodian, determination of responsibility 
+
+   
+
+ 126.869     Time of
+transfer of custodial property to beneficiary or beneficiary’s estate 
+
+   
+
+ 126.872     Delayed
+transfer of custodial property to beneficiary 
+
+   
+
+ 126.875     Accounting
+by custodian 
+
+   
+
+ 126.877     Applicability
+of ORS 126.805 to 126.886 to transfers made after January 1, 1986 
+
+   
+
+ 126.879     Validation
+of transfer made before January 1, 1986 
+
+   
+
+ 126.882     Application
+and construction of ORS 126.805 to 126.886 
+
+   
+
+ 126.886     Short title 
+
+   
+
+   
+
+       126.003 [1973 c.823 §1; 1983 c.535 §1;
+1987 c.690 §1; 1991 c.546 §3; repealed by 1995 c.664 §105] 
+
+   
+
+       126.005 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.006 [1961 c.344 §1; 1969 c.591 §224;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.007 [1973 c.823 §2; 1987 c.690 §2;
+1989 c.230 §1; repealed by 1995 c.664 §105] 
+
+   
+
+       126.010 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.011 [1961 c.344 §2; repealed by 1969
+c.591 §305] 
+
+   
+
+       126.013 [1973 c.823 §3; 1987 c.690 §8;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.015 [1961 c.344 §3; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.017 [1973 c.823 §4; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.020 [1961 c.344 §4; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.025 [1973 c.823 §5; 1981 c.175 §1;
+renumbered 126.700 in 1995] 
+
+   
+
+       126.030 [1973 c.823 §6; 1981 c.872 §1;
+1993 c.230 §1; renumbered 109.056 in 1995] 
+
+   
+
+       126.035 [1973 c.823 §7; 1983 c.535 §2;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.040 [1973 c.823 §8; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.045 [1977 c.355 §1; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.050 [1977 c.355 §2; 1991 c.895 §1;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.055 [1977 c.355 §3; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.060 [1973 c.823 §9; 1987 c.466 §1;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.065 [1973 c.823 §10; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.070 [1973 c.823 §11; 1987 c.466 §2;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.075 [1973 c.823 §12; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.080 [1973 c.823 §13; 1977 c.211 §3;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.085 [1973 c.823 §14; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.090 [1973 c.823 §15; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.095 [1973 c.823 §16; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.098 [1987 c.690 §7; 1991 c.895 §2;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.100 [1973 c.823 §17; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.103 [1973 c.823 §18; 1983 c.535 §3;
+1987 c.690 §3; 1991 c.546 §4; 1991 c.895 §3; repealed by 1995 c.664 §105] 
+
+   
+
+       126.105 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.106 [1961 c.344 §5; 1969 c.591 §225;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.107 [1973 c.823 §19; 1983 c.535 §4;
+1987 c.690 §4; repealed by 1995 c.664 §105] 
+
+   
+
+       126.110 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.111 [1961 c.344 §6; 1969 c.591 §226;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.113 [1973 c.823 §20; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.114 [1983 c.535 §7; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.115 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.116 [1961 c.344 §7; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.117 [1973 c.823 §21; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.120 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.121 [1961 c.344 §8; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.123 [1973 c.823 §§22,23; repealed by
+1995 c.664 §105] 
+
+   
+
+       126.125 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.126 [1961 c.344 §9; 1969 c.591 §227;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.127 [1973 c.823 §24; 1987 c.690 §5;
+1991 c.546 §2; 1991 c.895 §6; repealed by 1995 c.664 §105] 
+
+   
+
+       126.130 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.131 [1961 c.344 §10; 1969 c.591 §228;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.133 [1973 c.823 §25; 1991 c.546 §1;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.135 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.136 [1961 c.344 §11; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.137 [1973 c.823 §26; 1983 c.535 §5;
+1991 c.895 §4; repealed by 1995 c.664 §105] 
+
+   
+
+       126.140 [Repealed by 1961 c.344 
+
+ §109] 
+
+   
+
+       126.141 [1961 c.344 §12; repealed by 1973
+c.823 
+
+ §154] 
+
+   
+
+       126.143 [1973 c.823 §27; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.145 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.146 [1961 c.344 §13; 1969 c.591 §229;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.150 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.151 [1961 c.344 §14; 1969 c.591 §230;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.155 [Amended by 1953 c.578 §2;
+repealed by 1961 c.344 §109] 
+
+   
+
+       126.156 [1961 c.344 §15; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.157 [1973 c.823 §28; 1979 c.744 §2;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.160 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.161 [1961 c.344 §16; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.163 [1973 c.823 §29; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.165 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.166 [1961 c.344 §17; 1969 c.591 §231;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.167 [1973 c.823 §30; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.170 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.171 [1961 c.344 §18; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.173 [1973 c.823 §31; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.174 [1969 c.591 §233; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.175 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.176 [1961 c.344 §9; repealed by 1969
+c.591 §305] 
+
+   
+
+       126.177 [1973 c.823 §32; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.180 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.181 [1961 c.344 §20; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.183 [1973 c.823 §33; 1991 c.895 §5;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.185 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.186 [1961 c.344 §21; 1969 c.591 §234;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.187 [1973 c.823 §34; 1989 c.230 §2;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.190 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.193 [1973 c.823 §35; 1989 c.230 §3;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.195 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.197 [1973 c.823 §36; 1979 c.744 §3;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.200 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.203 [1973 c.823 §37; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.205 [1961 c.344 §22; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.207 [1973 c.823 §38; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.210 [1961 c.344 §23; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.213 [1973 c.823 §39; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.215 [1961 c.344 §24; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.217 [1973 c.823 §40; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.220 [1961 c.344 §25; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.223 [1973 c.823 §41; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.225 [1961 c.344 §26; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.227 [1973 c.823 §42; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.229 [1989 c.230 §8; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.230 [1961 c.344 §27; 1969 c.591 §235;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.233 [1973 c.823 §43; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.235 [1961 c.344 §28; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.237 [1973 c.823 §44; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.240 [1961 c.344 §29; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.243 [1973 c.823 §45; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.245 [1961 c.344 §30; 1969 c.591 §236;
+1971 c.743 §315; repealed by 1973 c.823 §154] 
+
+   
+
+       126.247 [1973 c.823 §46; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.250 [1961 c.344 §31; 1963 c.438 §1;
+1965 c.402 §1; repealed by 1973 c.823 §154] 
+
+   
+
+       126.253 [1973 c.823 §47; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.255 [1961 c.344 §32; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.257 [1973 c.823 §55; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.260 [1961 c.344 §33; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.263 [1973 c.823 §48; 1989 c.230 §4;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.265 [1961 c.344 §34; 1969 c.591 §237;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.267 [1973 c.823 §49; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.270 [1961 c.344 §35; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.273 [1973 c.823 §50; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.275 [1961 c.344 §36; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.277 [1973 c.823 §§51,52; 1987 c.586 §29;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.280 [1961 c.344 §37; repealed by 1973
+c.823 
+
+ §154] 
+
+   
+
+       126.283 [1973 c.823 §53; 1987 c.728 §1;
+1989 c.230 §5; repealed by 1995 c.664 §105] 
+
+   
+
+       126.285 [1961 c.344 §38; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.287 [1973 c.823 §54; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.290 [1961 c.344 §39; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.293 [1973 c.823 §56; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.295 [1961 c.344 §40; 1969 c.591 §238;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.297 [1973 c.823 §57; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.300 [1961 c.344 §41; repealed by 1969
+c.591 §305] 
+
+   
+
+       126.303 [1973 c.823 §58; 1981 c.906 §1;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.305 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.306 [1961 c.344 §42; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.307 [1973 c.823 §59; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.310 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.311 [1961 c.344 §43; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.313 [1973 c.823 §60; 1975 c.226 §1;
+1977 c.211 §2; 1989 c.230 §6; repealed by 1995 c.664 §105] 
+
+   
+
+       126.315 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.316 [1961 c.344 §44; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.317 [1973 c.823 §61; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.320 [Amended by 1957 c.237 §1;
+repealed by 1961 c.344 §109] 
+
+   
+
+       126.321 [1961 c.344 §45; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.323 [1973 c.823 §62; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.325 [Amended by 1953 c.102 §2; 1957
+c.662 §2; repealed by 1961 c.344 §109] 
+
+   
+
+       126.326 [1961 c.344 §46; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.327 [1973 c.823 §63; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.330 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.331 [1961 c.344 §47; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.333 [1973 c.823 §64; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.335 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.336 [1961 c.344 §48; 1965 c.402 §2;
+1969 c.384 §1; repealed by 1973 c.823 §154] 
+
+   
+
+       126.337 [1973 c.823 §65; 1975 c.245 §2;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.338 [1965 c.402 §4; 1969 c.591 §239;
+1969 c.597 §§16,277; repealed by 1973 c.823 §154] 
+
+   
+
+       126.340 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.341 [1961 c.344 §49; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.343 [1973 c.823 §66; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.345 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.346 [1961 c.344 §50; 1965 c.402 §5;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.347 [1973 c.823 §67; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.350 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.351 [1961 c.344 §51; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.353 [1973 c.823 §§68,69,72; repealed
+by 1995 c.664 §105] 
+
+   
+
+       126.355 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.357 [1973 c.823 §§70,71; repealed by
+1995 c.664 §105] 
+
+   
+
+       126.360 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.363 [1973 c.823 §73; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.365 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.367 [1973 c.823 §74; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.370 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.373 [1973 c.823 §75; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.377 [1973 c.823 §76; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.383 [1973 c.823 §77; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.387 [1973 c.823 §78; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.393 [1973 c.823 §79; 1981 c.175 §2;
+repealed by 1995 c.664 §105] 
+
+   
+
+       126.397 [1973 c.823 §80; repealed by 1995
+c.664 §105] 
+
+   
+
+       126.403 [1973 c.823 §81; 1989 c.230 §9;
+1991 c.67 §24; repealed by 1995 c.664 §105] 
+
+   
+
+       126.405 [Amended by 1957 c.237 §2;
+repealed by 1961 c.344 §109] 
+
+   
+
+       126.406 [1961 c.344 §52; 1969 c.591 §240;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.407 [1973 c.823 §82; renumbered
+127.005 in 1989] 
+
+   
+
+       126.410 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.411 [1961 c.344 §53; 1969 c.591 §241;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.413 [1973 c.823 §83; renumbered
+127.015 in 1989] 
+
+   
+
+       126.415 [Amended by 1957 c.237 §3;
+repealed by 1961 c.344 §109] 
+
+   
+
+       126.416 [1961 c.344 §54; 1969 c.591 §242;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.420 [Amended by 1959 c.325 §1;
+repealed by 1961 c.344 §109] 
+
+   
+
+       126.421 [1961 c.344 §55; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.425 [Amended by 1959 c.325 §2;
+repealed by 1961 c.344 §109] 
+
+   
+
+       126.426 [1961 c.344 §56; 1969 c.591 §243;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.430 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.431 [1961 c.344 §57; 1969 c.591 §244;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.435 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.436 [1961 c.344 §58; 1963 c.417 §1;
+1969 c.591 §245; repealed by 1973 c.823 §154] 
+
+   
+
+       126.440 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.441 [1961 c.344 §59; 1969 c.591 §246;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.445 [Repealed by 1959 c.325 §4] 
+
+   
+
+       126.446 [1961 c.344 §60; repealed by 1969
+c.591 §305] 
+
+   
+
+       126.450 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.451 [1961 c.344 §61; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.455 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.456 [1961 c.344 §62; 1969 c.591 §247;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.460 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.461 [1961 c.344 §63; 1969 c.591 §248;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.465 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.466 [1961 c.344 §64; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.470 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.471 [1961 c.344 §65; 1969 c.591 §249;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.475 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.476 [1961 c.344 §66; 1969 c.591 §250;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.480 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.481 [1961 c.344 §67; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.485 [1961 c.344 §68; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.490 [1961 c.344 §69; 1963 c.417 §2;
+1969 c.591 §251; repealed by 1973 c.823 §154] 
+
+   
+
+       126.495 [1961 c.344 §70; 1969 c.591 §252;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.505 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.506 [1961 c.344 §71; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.510 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.511 [1961 c.344 §72; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.515 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.516 [1961 c.344 §73; 1965 c.402 §6;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.520 [1961 c.344 §74; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.525 [1961 c.344 §75; 1965 c.402 §7;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.527 [1965 c.402 §9; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.530 [1961 c.344 §76; 1965 c.402 §10;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.535 [1961 c.344 §77; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.540 [1961 c.344 §78; 1969 c.591 §253;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.545 [1961 c.344 §79; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.555 [1961 c.344 §80; 1965 c.402 §11;
+1969 c.591 §256; repealed by 1973 c.823 §154] 
+
+   
+
+       126.557 [1969 c.591 §255; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.560 [1961 c.344 §81; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.565 [1961 c.344 §82; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.570 [1969 c.591 §257; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.605 [Amended by 1953 c.687 §5;
+repealed by 1961 c.344 §109] 
+
+   
+
+       126.606 [1961 c.344 §83; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.610 [Amended by 1953 c.687 §5;
+repealed by 1961 c.344 §109] 
+
+   
+
+       126.611 [1961 c.344 §84; repealed by 1969
+c.591 §305] 
+
+   
+
+       126.615 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.616 [1961 c.344 §85; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.617 [1953 c.687 §5; repealed by 1961
+c.344 §109] 
+
+   
+
+       126.620 [Amended by 1953 c.687 §5;
+repealed by 1961 c.344 §109] 
+
+   
+
+       126.621 [1961 c.344 §86; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.625 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.626 [1961 c.344 §87; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.630 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.631 [1961 c.344 §88; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.635 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.636 [1961 c.344 §89; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.637 [1969 c.591 §259; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.638 [1969 c.591 §260; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.639 [1969 c.591 §261; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.640 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.641 [1961 c.344 §90; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.645 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.646 [1961 c.344 §91; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.650 [Amended by 1953 c.687 §5;
+repealed by 1961 c.344 §109] 
+
+   
+
+       126.651 [1961 c.344 §92; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.655 [Repealed by 1961 c.344 §109] 
+
+   
+
+       126.656 [1961 c.344 §93; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.660 [1961 c.344 §94; 1965 c.402 §12;
+repealed by 1973 c.823 §154] 
+
+   
+
+       126.665 [1965 c.402 §14; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.670 [1965 c.402 §15; repealed by 1973
+c.823 §154] 
+
+   
+
+       126.675 [1965 c.402 §16; 1969 c.591 §262;
+repealed by 1973 c.823 §154] 
+
+   
+
+ PAYMENT OR DELIVERY 
+
+  FOR BENEFIT OF MINOR 
+
+   
+
+       126.700
+Payment or delivery for benefit of minor. (1) A person under a duty to pay or deliver money or
+personal property to a minor may pay or deliver the money or property, in
+amounts not exceeding $10,000 per year, to: 
+
+       (a) A person
+having the care and custody of the minor with whom the minor resides; 
+
+       (b) A guardian of
+the minor; or 
+
+       (c) A financial
+institution incident to a deposit in a federally insured savings account in the
+sole name of the minor and giving notice of the deposit to the minor. 
+
+       (2) This section
+does not apply if the person making payment or delivery has actual knowledge
+that a conservator has been appointed or proceedings for appointment of a
+conservator of the estate of the minor are pending. 
+
+       (3) The persons,
+except the minor or a financial institution under subsection (1)(c) of this
+section, receiving money or property for a minor, shall apply the money to the
+support and education of the minor, and shall not pay themselves except by way
+of reimbursement for out-of-pocket expenses for goods and services necessary
+for the minor’s support. Excess sums shall be preserved for future support of
+the minor and the balance not so used and the property received for the minor
+shall be turned over to the minor when the minor attains majority. 
+
+       (4) Persons who
+pay or deliver money or personal property under this section are not
+responsible for the proper application of the money or property. [Formerly
+126.025] 
+
+   
+
+ SETTLEMENT AGREEMENT 
+
+  ON BEHALF OF MINOR 
+
+   
+
+       126.725
+Settlement agreement on behalf of minor; payment or deposit; disbursement;
+liability. (1) A
+person having legal custody of a minor may enter into a settlement agreement
+with a person against whom the minor has a claim if: 
+
+       (a) A conservator
+has not been appointed for a minor; 
+
+       (b) The total
+amount of the claim, not including reimbursement of medical expenses, liens,
+reasonable attorney fees and costs of suit, is $25,000 or less if paid in cash
+or if paid by the purchase of a premium for an annuity; 
+
+       (c) The moneys
+paid under the settlement agreement will be paid as set forth in subsections
+(3) and (4) of this section; and 
+
+       (d) The person
+entering into the settlement agreement on behalf of the minor completes an
+affidavit or verified statement that attests that the person has made a
+reasonable inquiry and that: 
+
+       (A) To the best
+of the person’s knowledge, the minor will be fully compensated by the
+settlement; or 
+
+       (B) There is no
+practical way to obtain additional amounts from the party entering into the
+settlement agreement with the minor. 
+
+       (2) The attorney
+representing the person entering into the settlement agreement on behalf of the
+minor, if any, shall maintain the affidavit or verified statement completed
+under subsection (1)(d) of this section in the attorney’s file for two years
+after the minor attains the age of 21 years. 
+
+       (3) The moneys
+payable under the settlement agreement must be paid as follows: 
+
+       (a) If the minor
+or person entering into the settlement agreement on behalf of the minor is
+represented by an attorney and the settlement is paid in cash, by direct
+deposit into the attorney’s trust account maintained pursuant to rules of
+professional conduct adopted under ORS 9.490 to be held for the benefit of the
+minor. The attorney shall deposit the moneys received on behalf of the minor
+directly into a federally insured savings account that earns interest in the
+sole name of the minor, and provide notice of the deposit to the minor and the
+person entering into the settlement agreement on behalf of the minor. Notice
+shall be delivered by personal service or first class mail. 
+
+       (b) If the minor
+or person entering into the settlement agreement on behalf of the minor is not
+represented by an attorney and the settlement is paid in cash, directly into a
+federally insured savings account that earns interest in the sole name of the minor.
+Notice of the deposit to the minor shall be delivered by personal service or
+first class mail. 
+
+       (c) If paid by
+purchase of an annuity, by direct payment to the provider of the annuity with
+the minor designated as the sole beneficiary of the annuity. 
+
+       (d) If the minor
+is a ward in the custody of the Department of Human Services under ORS 419B.337
+and the settlement is paid in cash, directly into a trust account, or
+subaccount of a trust account, established by the department or the Oregon
+Health Authority under ORS 430.195 for the purpose of receiving moneys payable
+to the ward under the settlement agreement and that earns interest for the
+benefit of the ward. 
+
+       (4) The moneys in
+the minor’s savings account, trust account or trust subaccount established
+under subsection (3) of this section may not be withdrawn, removed, paid out or
+transferred to any person, including the minor, except as follows: 
+
+       (a) Pursuant to
+court order; 
+
+       (b) Upon the
+minor’s attainment of 18 years of age; or 
+
+       (c) Upon the
+minor’s death. 
+
+       (5) If a
+settlement agreement is entered into in compliance with subsection (1) of this
+section, the signature of the person entering into the settlement agreement on
+behalf of the minor is binding on the minor without the need for further court
+approval or review and has the same force and effect as if the minor were a
+competent adult entering into the settlement agreement. 
+
+       (6) A person
+acting in good faith on behalf of a minor under this section is not liable to
+the minor for the moneys paid in settlement or for any other claim arising out
+of the settlement. [2007 c.874 §1; 2009 c.311 §1; 2011 c.188 §1] 
+
+   
+
+ PAYMENT OF JUDGMENT TO
+MINOR 
+
+   
+
+       126.730
+Payment of moneys to minor pursuant to judgment; payment or deposit;
+disbursement. (1)
+Except as provided in subsection (4) of this section, a person under a duty to
+pay moneys to a minor pursuant to a judgment of the court in an amount not
+exceeding $25,000 may pay the moneys to a person having legal custody of the
+minor or to a guardian of the minor. Unless the minor is a ward in the custody
+of the Department of Human Services under ORS 419B.337, the minor must reside
+with the person having legal custody of the minor. 
+
+       (2) The moneys
+paid under subsection (1) of this section must be paid as follows: 
+
+       (a) If the minor
+or person to whom payment is made is represented by an attorney and the
+judgment is paid in cash, by direct deposit into the attorney’s trust account
+maintained pursuant to rules of professional conduct adopted under ORS 9.490 to
+be held for the benefit of the minor. The attorney shall deposit the moneys
+received on behalf of the minor directly into a federally insured savings
+account that earns interest in the sole name of the minor, and provide notice
+of the deposit to the minor and the person to whom payment is made. Notice
+shall be delivered by personal service or first class mail. 
+
+       (b) If the minor
+or person to whom payment is made is not represented by an attorney and the
+judgment is paid in cash, directly into a federally insured savings account
+that earns interest in the sole name of the minor. Notice of the deposit shall
+be delivered to the minor by personal service or first class mail. 
+
+       (c) If the
+judgment is paid by purchase of an annuity, by direct payment to the provider
+of the annuity with the minor designated as the sole beneficiary of the
+annuity. 
+
+       (d) If the minor
+is a ward in the custody of the Department of Human Services under ORS 419B.337
+and the judgment is paid in cash, directly into a trust account, or subaccount
+of a trust account, established by the department or the Oregon Health Authority
+under ORS 430.195 for the purpose of receiving moneys payable to the ward
+pursuant to the judgment and that earns interest for the benefit of the ward. 
+
+       (3) The moneys in
+the minor’s savings account, trust account or trust subaccount established
+under subsection (2) of this section may not be withdrawn, removed, paid out or
+transferred to any person, including the minor, except as follows: 
+
+       (a) Pursuant to
+court order; 
+
+       (b) Upon the
+minor’s attainment of 18 years of age; or 
+
+       (c) Upon the
+minor’s death. 
+
+       (4) This section
+does not apply if the person making payment has actual knowledge that a
+conservator has been appointed or proceedings for appointment of a conservator
+of the estate of the minor are pending. [2009 c.311 §2; 2011 c.188 §2] 
+
+   
+
+ BANK ACCOUNTS FOR
+MINORS 
+
+   
+
+       126.735
+Legislative findings; minor’s capacity to contract for bank account; consent;
+liability. (1) The
+Legislative Assembly finds that there are in the State of Oregon unemancipated
+minors entitled to payment or delivery of moneys under ORS 126.700, 126.725 or
+126.730 who are capable of establishing and maintaining a bank account in their
+sole name for their sole use and administration but who cannot contract to
+establish a bank account due to perceived legal limitations affecting contracts
+with minors. The purpose of this section is to address those limitations. 
+
+       (2) For purposes
+of this section, “minor” means an unemancipated and unmarried person who is
+under 18 years of age and entitled to payment or delivery of moneys under ORS
+126.700, 126.725 or 126.730. 
+
+       (3)
+Notwithstanding any other provision of law, a minor may contract with a bank or
+financial institution to establish a bank account for the purpose of depositing
+payments or deliveries of moneys under ORS 126.700, 126.725 or 126.730. Such
+contract is binding upon the minor and cannot be voided or disaffirmed by the
+minor based upon the minor’s age or status as a minor. 
+
+       (4) The consent
+of the minor’s parent or legal guardian, or of the person having legal custody
+of the minor, is not necessary to contract to establish a bank account under
+this section. The parent, legal guardian or person having legal custody of the
+minor shall not be liable under a contract by the minor for a bank account
+unless the parent, legal guardian or person having legal custody of the minor
+is a party to the minor’s contract. [2009 c.311 §3] 
+
+   
+
+ GIFTS TO MINORS 
+
+   
+
+       126.805
+Definitions for ORS 126.805 to 126.886. As used in ORS 126.805 to 126.886, except where the
+context otherwise requires: 
+
+       (1) “Adult” means
+any person who has attained the age of 21 years. 
+
+       (2) “Beneficiary”
+means a person for whose benefit a transfer has been made to a custodian. 
+
+       (3) “Broker”
+means a person lawfully engaged in the business of effecting transactions in
+securities or commodities for the account of the person or for others. 
+
+       (4) “Conservator”
+means a person appointed or qualified by a court to act as general, limited or
+temporary guardian of a beneficiary’s property or a person legally authorized
+to perform substantially the same functions. 
+
+       (5) “Court” means
+circuit court. 
+
+       (6) “Custodial
+property” includes: 
+
+       (a) Any interest
+in property transferred to a custodian under ORS 126.805 to 126.886. 
+
+       (b) The income
+from that interest in property. 
+
+       (7) “Custodian”
+means the person designated as custodian under ORS 126.812 or a successor or
+substitute custodian designated under ORS 126.862. 
+
+       (8) “Financial
+institution” means a financial institution as defined in ORS 706.008 or a trust
+company as defined in ORS 706.008. 
+
+       (9) “Legal
+representative” means the personal representative or conservator. 
+
+       (10) “Member of
+the beneficiary’s family” means the beneficiary’s parent, stepparent, spouse,
+grandparent, brother, sister, uncle or aunt, whether of the whole blood or the
+half blood or through legal adoption. 
+
+       (11) “Minor”
+means any person who has not attained the age of 21 years. 
+
+       (12) “Personal
+representative” means an executor, administrator, successor personal
+representative, or special administrator of a decedent’s estate or a person
+legally authorized to perform substantially the same functions. 
+
+       (13) “State”
+includes any state of the United States, the District of Columbia, the
+Commonwealth of Puerto Rico and any territory or possession subject to the
+legislative authority of the United States. 
+
+       (14) “Transfer”
+means a transaction that creates custodial property under ORS 126.832. 
+
+       (15) “Transferor”
+means a person who makes a transfer under ORS 126.805 to 126.886. 
+
+       (16) “Trust
+company” means a trust company as defined in ORS 706.008. [1959 c.640 §1; 1967
+c.300 §1; 1973 c.827 §18; 1981 c.443 §1; 1983 c.457 §1; 1985 c.665 §1; 1997
+c.631 §412; 2005 c.349 §1] 
+
+   
+
+       126.809
+Applicability of ORS 126.805 to 126.886; jurisdiction over custodian. (1) ORS 126.805 to 126.886 apply
+to a transfer that refers to ORS 126.805 to 126.886 in the designation under
+ORS 126.832 (1) by which the transfer is made if at the time of the transfer,
+the transferor, the beneficiary or the custodian is a resident of this state or
+the custodial property is located in this state. The custodianship so created
+remains subject to ORS 126.805 to 126.886 despite a subsequent change in
+residence of a transferor, the beneficiary or the custodian or the removal of
+custodial property from this state. 
+
+       (2) A person
+designated as custodian under ORS 126.805 to 126.886 is subject to personal
+jurisdiction in this state with respect to any matter relating to the
+custodianship. 
+
+       (3) A transfer
+that purports to be made and which is valid under the Uniform Transfers to
+Minors Act, the Uniform Gifts to Minors Act or a substantially similar Act, of
+another state is governed by the law of the designated state and may be
+executed and is enforceable in this state if at the time of the transfer, the
+transferor, the beneficiary or the custodian is a resident of the designated
+state or the custodial property is located in the designated state. [1985 c.665
+§3; 2005 c.349 §2] 
+
+   
+
+       126.810 [1959 c.640 §2; 1967 c.300 §2;
+1981 c.443 §2; repealed by 1985 c.665 §27] 
+
+   
+
+       126.812
+Nomination of custodian; effective date of custodianship and transfer of
+custodial property. 
+(1) A person having the right to designate the recipient of property
+transferable upon the occurrence of a future event may revocably nominate a
+custodian to receive the property for a beneficiary upon the occurrence of the
+event by naming the custodian followed in substance by the words: “As custodian
+for _____ (name of beneficiary) under the Oregon Uniform Transfers to Minors
+Act.” The nomination may name one or more persons as substitute custodians to
+whom the property must be transferred, in the order named, if the first
+nominated custodian dies before the transfer or is unable, declines or is
+ineligible to serve. The nomination may be made in a will, a trust, a deed, an
+instrument exercising a power of appointment or in a writing designating a
+beneficiary of contractual rights which is registered with or delivered to the
+payer, issuer or other obligor of the contractual rights. 
+
+       (2) A custodian
+nominated under this section must be a person to whom a transfer of property of
+that kind may be made under ORS 126.832 (1). 
+
+       (3) The
+nomination of a custodian under this section does not create custodial property
+until the nominating instrument becomes irrevocable or a transfer to the
+nominated custodian is completed under ORS 126.832. Unless the nomination of a
+custodian has been revoked, upon the occurrence of the future event the
+custodianship becomes effective and the custodian shall enforce a transfer of
+the custodial property pursuant to ORS 126.832. [1985 c.665 §4; 2005 c.349 §3] 
+
+   
+
+       126.815 [1959 c.640 §3; 1967 c.300 §3;
+1973 c.823 §110; 1981 c.443 §3; repealed by 1985 c.665 §27] 
+
+   
+
+       126.816
+Irrevocable gifts or exercise of power of appointment. A person may make a transfer by
+irrevocable gift to, or the irrevocable exercise of a power of appointment in
+favor of, a custodian for the benefit of a beneficiary pursuant to ORS 126.832.
+[1985 c.665 §5; 2005 c.349 §4] 
+
+   
+
+       126.817 [1983 c.457 §3; repealed by 1985
+c.665 §27] 
+
+   
+
+       126.819
+Irrevocable transfer by personal representative or trustee to custodian. (1) A personal representative or
+trustee may make an irrevocable transfer pursuant to ORS 126.832 to a custodian
+for the benefit of a beneficiary as authorized in the governing will or trust. 
+
+       (2) If the
+testator or settlor has nominated a custodian under ORS 126.812 to receive the
+custodial property, the transfer must be made to that person. 
+
+       (3) If the
+testator or settlor has not nominated a custodian under ORS 126.812, or all
+persons so nominated as custodian die before the transfer or are unable,
+decline or are ineligible to serve, the personal representative or the trustee,
+as the case may be, shall designate the custodian from among those eligible to
+serve as custodian for property of that kind under ORS 126.832. [1985 c.665 §6;
+2005 c.349 §5] 
+
+   
+
+       126.820 [1959 c.640 §4; 1983 c.457 §4;
+repealed by 1985 c.665 §27] 
+
+   
+
+       126.822
+Transfer to custodian in absence of authorization. (1) Subject to subsection (3) of
+this section, a personal representative or trustee may make an irrevocable
+transfer to another adult or trust company as custodian for the benefit of a
+minor pursuant to ORS 126.832, in the absence of a will or under a will or
+trust that does not contain an authorization to do so. 
+
+       (2) Subject to
+subsection (3) of this section, a conservator may make an irrevocable transfer
+to another adult or trust company as custodian for the benefit of the minor
+pursuant to ORS 126.832. 
+
+       (3) A transfer
+under subsection (1) or (2) of this section may be made only if: 
+
+       (a) The personal
+representative, trustee or conservator considers the transfer to be in the best
+interest of the minor; 
+
+       (b) The transfer
+is not prohibited by or inconsistent with provisions of the applicable will,
+trust agreement or other governing instrument; and 
+
+       (c) The transfer
+is authorized by the court if it exceeds $30,000 in value. [1985 c.665 §7; 2001
+c.244 §3] 
+
+   
+
+       126.825 [1959 c.640 §5; 1967 c.300 §4;
+1981 c.443 §4; repealed by 1985 c.665 §27] 
+
+   
+
+       126.826
+Irrevocable transfer by person holding property of or owing liquidated debt to
+minor. (1) Subject
+to subsections (2) and (3) of this section, a person not subject to ORS 126.819
+or 126.822 who holds property of or owes a liquidated debt to a minor not
+having a conservator may make an irrevocable transfer to a custodian for the
+benefit of the minor pursuant to ORS 126.832. 
+
+       (2) If a person
+having the right to do so under ORS 126.812 has nominated a custodian under
+that section to receive the custodial property, the transfer must be made to
+that person. 
+
+       (3) If no
+custodian has been nominated under ORS 126.812 or all persons so nominated as
+custodian die before the transfer or are unable, decline or are ineligible to
+serve, a transfer under this section may be made to an adult member of the
+minor’s family or to a trust company unless the property exceeds $5,000 in
+value. [1985 c.665 §8] 
+
+   
+
+       126.829
+Written acknowledgment of delivery as receipt. A written acknowledgment of
+delivery by a custodian constitutes a sufficient receipt and discharge for
+custodial property transferred to the custodian pursuant to ORS 126.805 to
+126.886. [1985 c.665 §9] 
+
+   
+
+       126.830 [1959 c.640 §6; 1973 c.823 §111;
+repealed by 1985 c.665 §27] 
+
+   
+
+       126.832
+Creation and transfer of custodial property; form of instrument. (1) Custodial property is created
+and a transfer is made if any of the following occur: 
+
+       (a) An
+uncertificated security or a certificated security in registered form is
+either: 
+
+       (A) Registered in
+the name of the transferor, in the name of an adult other than the transferor
+or the beneficiary, or in the name of a trust company, followed in substance by
+the words specified in subsection (3) of this section; or 
+
+       (B) Delivered if
+in certificated form, or any document necessary for the transfer of an
+uncertificated security is delivered, together with any necessary indorsement
+to an adult other than the transferor or the beneficiary, or delivered to a
+trust company as custodian, accompanied by an instrument in substantially the
+form set forth in subsection (2) of this section. 
+
+       (b) Money is paid
+or delivered to a broker or financial institution for credit to an account in
+the name of the transferor, in the name of an adult other than the transferor
+or the beneficiary, or in the name of a trust company, followed in substance by
+the words specified in subsection (3) of this section. 
+
+       (c) The ownership
+of a life or endowment insurance policy or annuity contract is either: 
+
+       (A) Registered
+with the issuer in the name of the transferor, in the name of an adult other
+than the transferor or the beneficiary, or in the name of a trust company,
+followed in substance by the words specified in subsection (3) of this section;
+or 
+
+       (B) Assigned in a
+writing delivered to an adult other than the transferor or the beneficiary, or
+delivered to a trust company, and the name of the assignee is followed in
+substance by the words specified in subsection (3) of this section. 
+
+       (d) An irrevocable
+exercise of a power of appointment or an irrevocable present right to future
+payment under a contract is the subject of a written notification delivered to
+the payer, issuer or other obligor that the right is transferred to the
+transferor, transferred to an adult other than the transferor or the
+beneficiary, or transferred to a trust company, and the name of the transferee
+is followed in substance by the words specified in subsection (3) of this
+section. 
+
+       (e) An interest
+in real property is recorded in the name of the transferor, in the name of an
+adult other than the transferor or the beneficiary, or in the name of a trust
+company, followed in substance by the words specified in subsection (3) of this
+section. 
+
+       (f) A certificate
+of title issued by a department or agency of a state or of the United States
+that evidences title to tangible personal property is either: 
+
+       (A) Issued in the
+name of the transferor, in the name of an adult other than the transferor or
+the beneficiary, or in the name of a trust company, followed in substance by
+the words specified in subsection (3) of this section; or 
+
+       (B) Delivered to
+an adult other than the transferor or the beneficiary, or delivered to a trust
+company, and is indorsed to that person followed in substance by the words
+specified in subsection (3) of this section. 
+
+       (g) An interest
+in any property not described in paragraphs (a) to (f) of this subsection is
+transferred to an adult other than the transferor or the beneficiary, or is
+transferred to a trust company, by a written instrument in substantially the
+form set forth in subsection (2) of this section. 
+
+       (2) An instrument
+in the following form satisfies the requirements of subsection (1)(a)(B) and
+(g) of this section: 
+
+ ______________________________________________________________________________ 
+
+   
+
+ TRANSFER UNDER THE
+OREGON 
+
+ UNIFORM TRANSFERS TO
+MINORS ACT 
+
+       I, ________ (name
+of transferor or name and representative capacity if a fiduciary) hereby
+transfer to ________ (name of custodian), as custodian for ________ (name of
+beneficiary) under the Oregon Uniform Transfers to Minors Act, the following:
+(insert a description of the custodial property sufficient to identify it). 
+
+       Delayed Transfer
+(may be made only if authorized by ORS 126.872): The custodian shall deliver
+the property to the beneficiary when the beneficiary attains the age of ___
+years (not less than 21 nor more than 25). 
+
+   
+
+ Dated:
+________ 
+
+   
+
+ ___________ 
+
+   
+
+ (Signature) 
+
+       ________ (name of
+custodian) acknowledges receipt of the property described above as custodian
+for the beneficiary named above under the Oregon Uniform Transfers to Minors
+Act. 
+
+   
+
+ Dated:
+________ 
+
+   
+
+ ___________ 
+
+   
+
+ (Signature
+of Custodian) 
+
+ ______________________________________________________________________________ 
+
+       (3) For the
+purposes of subsection (1) of this section, the following words create
+custodial property: 
+
+       (a) “As custodian
+for _____ (name of beneficiary) under the Oregon Uniform Transfers to Minors
+Act”; or 
+
+       (b) If the
+custodial property is subject to delayed transfer under ORS 126.872, “As
+custodian for _____ (name of beneficiary) under the Oregon Uniform Transfers to
+Minors Act until the beneficiary attains the age of ___ years.” 
+
+       (4) A transferor
+shall place the custodian in control of the custodial property as soon as
+practicable. [1985 c.665 §10; 2001 c.244 §4; 2005 c.349 §6] 
+
+   
+
+       126.835 [1959 c.640 §7; 1967 c.300 §5;
+1981 c.443 §5; repealed by 1985 c.665 §27] 
+
+   
+
+       126.836
+Limitations on custodianship; age requirement for transfers. (1) A transfer may be made only
+for one beneficiary and only one person may be the custodian. All custodial
+property held under ORS 126.805 to 126.886 by the same custodian for the
+benefit of the same beneficiary constitutes a single custodianship. 
+
+       (2) A transfer
+may be made for the benefit of a beneficiary under ORS 126.805 to 126.886 at
+any time before the beneficiary attains 25 years of age. [1985 c.665 §11; 2005
+c.349 §7] 
+
+   
+
+       126.839 Validity
+of transfer. (1)
+The validity of a transfer made in a manner prescribed in ORS 126.805 to
+126.886 is not affected by: 
+
+       (a) Failure of
+the transferor to comply with ORS 126.832 (4) concerning possession and
+control; 
+
+       (b) Designation
+of an ineligible custodian, except designation of the transferor in the case of
+property for which the transferor is ineligible to serve as custodian under ORS
+126.832 (1); or 
+
+       (c) Death or
+incapacity of a person nominated under ORS 126.812 or designated under ORS
+126.832 as custodian or the disclaimer of the office by that person. 
+
+       (2) A transfer
+made pursuant to ORS 126.832 is irrevocable, and the custodial property is
+indefeasibly vested in the beneficiary, but the custodian has all the rights,
+powers, duties and authority provided in ORS 126.805 to 126.886 and neither the
+beneficiary nor the beneficiary’s legal representative has any right, power,
+duty or authority with respect to the custodial property except as provided in
+ORS 126.805 to 126.886. 
+
+       (3) By making a
+transfer, the transferor incorporates in the disposition all the provisions of
+ORS 126.805 to 126.886 and grants to the custodian, and to any third person
+dealing with a person designated as custodian, the respective powers, rights
+and immunities provided in ORS 126.805 to 126.886. [1985 c.665 §12; 2001 c.244 §5;
+2005 c.349 §8] 
+
+   
+
+       126.840 [1959 c.640 §8; repealed by 1985
+c.665 §27] 
+
+   
+
+       126.842 Duties
+of custodian; standard of care. 
+(1) A custodian shall: 
+
+       (a) Take control
+of custodial property; 
+
+       (b) Register or
+record title to custodial property if appropriate; and 
+
+       (c) Collect,
+hold, manage, invest and reinvest custodial property. 
+
+       (2) In dealing
+with custodial property, a custodian shall observe the standard of care that
+would be observed by a prudent investor dealing with property of another and is
+not limited by any other statute restricting investments by fiduciaries. If a
+custodian has a special skill or expertise or is named custodian on the basis
+of representations of a special skill or expertise, the custodian shall use
+that skill or expertise. However, a custodian, in the custodian’s discretion
+and without liability to the beneficiary or the beneficiary’s estate, may
+retain any custodial property received from a transferor. 
+
+       (3) A custodian
+may invest in or pay premiums on life insurance or endowment policies on: 
+
+       (a) The life of
+the beneficiary only if the beneficiary or the beneficiary’s estate is the sole
+beneficiary; or 
+
+       (b) The life of
+another person in whom the beneficiary has an insurable interest only to the
+extent that the beneficiary, the beneficiary’s estate or the custodian in the
+capacity of custodian, is the irrevocable beneficiary. 
+
+       (4) A custodian
+at all times shall keep custodial property separate and distinct from all other
+property in a manner sufficient to identify it clearly as custodial property of
+the beneficiary. Custodial property consisting of an undivided interest is so identified
+if the beneficiary’s interest is held as a tenant in common and is fixed.
+Custodial property subject to recordation is so identified if it is recorded,
+and custodial property subject to registration is so identified if it is either
+registered, or held in an account designated, in the name of the custodian,
+followed in substance by the words: “As a custodian for _____ (name of
+beneficiary) under the Oregon Uniform Transfers to Minors Act.” 
+
+       (5) A custodian
+shall keep records of all transactions with respect to custodial property,
+including information necessary for the preparation of the beneficiary’s tax
+returns, and shall make them available for inspection at reasonable intervals
+by a parent or legal representative of the beneficiary or by the beneficiary if
+the beneficiary has attained 14 years of age. [1985 c.665 §13; 1995 c.157 §17;
+2005 c.349 §9] 
+
+   
+
+       126.845 [1959 c.640 §9; 1973 c.823 §112;
+1981 c.443 §7; repealed by 1985 c.665 §27] 
+
+   
+
+       126.846
+Rights, powers and authority of custodian. (1) A custodian, acting in a custodial capacity, has
+all the rights, powers and authority over custodial property that unmarried
+adult owners have over their own property, but a custodian may exercise those
+rights, powers and authority in that capacity only. 
+
+       (2) This section
+does not relieve a custodian from liability for breach of ORS 126.842. [1985
+c.665 §14] 
+
+   
+
+       126.849
+Payments to and expenditures for beneficiary; effect on duty to support
+beneficiary. (1) A
+custodian may deliver or pay to the beneficiary or expend for the beneficiary’s
+benefit so much of the custodial property as the custodian considers advisable
+for the use and benefit of the beneficiary, without court order and without
+regard to: 
+
+       (a) The duty or
+ability of the custodian personally or of any other person to support the
+beneficiary; or 
+
+       (b) Any other
+income or property of the beneficiary that may be applicable or available for
+that purpose. 
+
+       (2) On petition
+of an interested person or the beneficiary if the beneficiary has attained 14
+years of age, the court may order the custodian to deliver or pay to the
+beneficiary or expend for the beneficiary’s benefit so much of the custodial
+property as the court considers advisable for the use and benefit of the
+beneficiary. 
+
+       (3) A delivery,
+payment or expenditure under this section is in addition to, not in
+substitution for, and does not affect any obligation of a person to support the
+beneficiary. [1985 c.665 §15; 2005 c.349 §10] 
+
+   
+
+       126.850 [1959 c.640 §§10,12; 1967 c.300 §6;
+1973 c.823 §113; repealed by 1985 c.665 §27] 
+
+   
+
+       126.852
+Reimbursement to custodian for reasonable expenses; compensation; bond. (1) A custodian is entitled to
+reimbursement from custodial property for reasonable expenses incurred in the
+performance of the custodian’s duties. 
+
+       (2) Except for
+one who is a transferor under ORS 126.816, a custodian has a noncumulative
+election during each calendar year to charge reasonable compensation for
+services performed during that year. 
+
+       (3) Except as
+provided in ORS 126.862 (6), a custodian need not give a bond. [1985 c.665 §16] 
+
+   
+
+       126.855 [1959 c.640 §11; repealed by 1967
+c.300 §7; (126.856 enacted in lieu of 126.855)] 
+
+   
+
+       126.856 [1967 c.300 §8 (enacted in lieu of
+126.855); 1973 c.823 §114; 1981 c.443 §6; repealed by 1985 c.665 §27] 
+
+   
+
+       126.857 Third
+person’s duties in dealing with custodian. A third person in good faith and without court order
+may act on the instructions of or otherwise deal with any person purporting to
+make a transfer or purporting to act in the capacity of a custodian and, in the
+absence of knowledge, is not responsible for determining: 
+
+       (1) The validity
+of the purported custodian’s designation; 
+
+       (2) The propriety
+of, or the authority under ORS 126.805 to 126.886 for, any act of the purported
+custodian; 
+
+       (3) The validity
+or propriety under ORS 126.805 to 126.886 of any instrument or instructions
+executed or given either by the person purporting to make a transfer or by the
+purported custodian; or 
+
+       (4) The propriety
+of the application of any property of the beneficiary delivered to the
+purported custodian. [1985 c.665 §17; 2005 c.349 §11] 
+
+   
+
+       126.859 Claims
+against custodial property; liability of custodian and beneficiary. (1) A claim based on a contract
+entered into by a custodian acting in a custodial capacity, an obligation
+arising from the ownership or control of custodial property or a tort committed
+during the custodianship, may be asserted against the custodial property by
+proceeding against the custodian in the custodial capacity, whether or not the
+custodian or the beneficiary is personally liable therefor. 
+
+       (2) A custodian
+is not personally liable: 
+
+       (a) On a contract
+properly entered into in the custodial capacity unless the custodian fails to
+reveal that capacity and to identify the custodianship in the contract; or 
+
+       (b) For an
+obligation arising from control of custodial property or for a tort committed
+during the custodianship unless the custodian is personally at fault. 
+
+       (3) A beneficiary
+is not personally liable for an obligation arising from ownership of custodial
+property or for a tort committed during the custodianship unless the
+beneficiary is personally at fault. [1985 c.665 §18; 2005 c.349 §12] 
+
+   
+
+       126.860 [1959 c.640 §§13,14; 1967 c.300 §9;
+1973 c.823 §115; repealed by 1981 c.443 §8] 
+
+   
+
+       126.862
+Refusal to serve as custodian; substitute and successor custodians;
+resignation; removal. 
+(1) A person nominated under ORS 126.812 or designated under ORS 126.832 as
+custodian may decline to serve by delivering a valid disclaimer to the person
+who made the nomination or to the transferor or the transferor’s legal
+representative. If the event giving rise to a transfer has not occurred and no
+substitute custodian able, willing and eligible to serve was nominated under
+ORS 126.812, the person who made the nomination may nominate a substitute
+custodian under ORS 126.812; otherwise the transferor or the transferor’s legal
+representative shall designate a substitute custodian at the time of the
+transfer, in either case from among the persons eligible to serve as custodian
+for that kind of property under ORS 126.832 (1). The custodian so designated
+has the rights of a successor custodian. 
+
+       (2) A custodian
+at any time may designate a trust company or an adult other than a transferor
+under ORS 126.816 or the beneficiary as successor custodian by executing and
+dating an instrument of designation before a subscribing witness other than the
+successor. If the instrument of designation does not contain or is not
+accompanied by the resignation of the custodian, the designation of the
+successor does not take effect until the custodian resigns, dies, becomes
+incapacitated or is removed. 
+
+       (3) A custodian
+may resign at any time by delivering written notice to the beneficiary if the
+beneficiary has attained 14 years of age and to the successor custodian and by
+delivering the custodial property to the successor custodian. 
+
+       (4) If a
+custodian is ineligible, dies or becomes incapacitated without having
+effectively designated a successor and the beneficiary has attained 14 years of
+age, the beneficiary may designate as successor custodian, in the manner
+prescribed in subsection (2) of this section, an adult member of the
+beneficiary’s family, a conservator for the beneficiary or a trust company. If
+the beneficiary has not attained 14 years of age or fails to act within 60 days
+after the ineligibility, death or incapacity, the conservator for the
+beneficiary becomes successor custodian. If the beneficiary has no conservator
+or the conservator declines to act, the transferor, the legal representative of
+the transferor or of the custodian, an adult member of the beneficiary’s family
+or any other interested person may petition the court to designate a successor
+custodian. 
+
+       (5) A custodian
+who declines to serve under subsection (1) of this section or resigns under
+subsection (3) of this section, or the legal representative of a deceased or
+incapacitated custodian, as soon as practicable, shall put the custodial
+property and records in the possession and control of the successor custodian.
+The successor custodian by action may enforce the obligation to deliver
+custodial property and records and becomes responsible for each item as
+received. 
+
+       (6) A transferor,
+the legal representative of a transferor, an adult member of the beneficiary’s
+family, a beneficiary’s guardian, the conservator for the beneficiary or the
+beneficiary if the beneficiary has attained 14 years of age may petition the
+court to remove the custodian for cause and to designate a successor custodian
+other than a transferor under ORS 126.816 or to require the custodian to give
+appropriate bond. [1985 c.665 §19; 2005 c.349 §13] 
+
+   
+
+       126.865 [1959 c.640 §15; repealed by 1967
+c.300 §11] 
+
+   
+
+       126.866
+Petition for accounting by custodian, determination of responsibility. (1) A beneficiary who has attained
+14 years of age, the beneficiary’s guardian or legal representative, an adult
+member of the beneficiary’s family, a transferor or a transferor’s legal
+representative may petition the court: 
+
+       (a) For an
+accounting by the custodian or the custodian’s legal representative; or 
+
+       (b) For a determination
+of responsibility, as between the custodial property and the custodian
+personally, for claims against the custodial property unless the responsibility
+has been adjudicated in an action under ORS 126.859 to which the beneficiary or
+the beneficiary’s legal representative was a party. 
+
+       (2) A successor
+custodian may petition the court for an accounting by the predecessor
+custodian. 
+
+       (3) The court, in
+a proceeding under ORS 126.805 to 126.886 or in any other proceeding, may
+require or permit the custodian or the custodian’s legal representative to
+account. 
+
+       (4) If a
+custodian is removed under ORS 126.862 (6), the court shall require an
+accounting and order delivery of the custodial property and records to the
+successor custodian and the execution of all instruments required for transfer
+of the custodial property. [1985 c.665 §20; 2005 c.349 §14] 
+
+   
+
+       126.869 Time
+of transfer of custodial property to beneficiary or beneficiary’s estate. Except as provided in ORS 126.872,
+the custodian shall transfer in an appropriate manner the custodial property to
+the beneficiary or to the beneficiary’s estate upon the earlier of: 
+
+       (1) The
+beneficiary’s attainment of 21 years of age with respect to custodial property
+transferred under ORS 126.816 or 126.819; 
+
+       (2) The
+beneficiary’s attainment of 18 years of age with respect to custodial property
+transferred under ORS 126.822 or 126.826; or 
+
+       (3) The
+beneficiary’s death. [1985 c.665 §21; 2001 c.244 §6; 2005 c.349 §15] 
+
+   
+
+       126.870 [1959 c.640 §16; repealed by 1985
+c.665 §27] 
+
+   
+
+       126.872
+Delayed transfer of custodial property to beneficiary. (1) Except as provided in this
+section, a person making a transfer to a custodian under ORS 126.816 or 126.819
+may provide for a delayed transfer of the custodial property to the beneficiary
+at a specific time after the beneficiary attains the age of 21 years and: 
+
+       (a) Before the
+beneficiary attains the age of 25 years; or 
+
+       (b) The date on
+which the beneficiary attains the age of 25 years. 
+
+       (2) If the person
+making the transfer to the custodian under ORS 126.816 or 126.819 specifies no
+time for the transfer of the custodial property to the beneficiary, the
+custodian shall transfer the custodial property to the beneficiary on the date
+that the beneficiary attains the age of 21 years. 
+
+       (3) A personal
+representative or trustee making a transfer to a custodian under ORS 126.819
+may provide for a delayed transfer of the custodial property pursuant to this
+section only if the governing will or trust directs that the custodial property
+be transferred within the time specified by subsection (1) of this section. The
+transfer to the custodian must provide that the custodial property be
+transferred to the beneficiary at the age specified in the governing will or
+trust. 
+
+       (4) A transfer to
+a custodian under ORS 126.816 or 126.819 is not invalid if the transfer
+provides that the custodial property be transferred to the beneficiary after
+the beneficiary attains the age of 25 years. If an otherwise valid transfer
+provides that the custodial property be transferred to the beneficiary after
+the beneficiary attains the age of 25 years, the custodial property must be
+transferred to the beneficiary on the date that the beneficiary attains the age
+of 25 years. [2001 c.244 §2; 2005 c.349 §16] 
+
+   
+
+       126.875
+Accounting by custodian. 
+The custodian is not required to account to the beneficiary or to any other
+person for the acts and proceedings of the custodian unless the beneficiary, a
+parent of the beneficiary, the legal representative of the beneficiary or a
+successor custodian petitions the circuit court for an accounting no later than
+two years after the beneficiary becomes an adult or attains a lesser age as
+provided in ORS 126.805 to 126.886 or dies before becoming an adult or
+attaining that lesser age. [1959 c.640 §17; 1983 c.457 §5; 1985 c.665 §26; 2005
+c.349 §17] 
+
+   
+
+       126.877
+Applicability of ORS 126.805 to 126.886 to transfers made after January 1,
+1986. ORS 126.805
+to 126.886 apply to a transfer within the scope of ORS 126.809 made after
+January 1, 1986, if: 
+
+       (1) The transfer
+purports to have been made under the Oregon Uniform Gifts to Minors Act; or 
+
+       (2) The
+instrument by which the transfer purports to have been made uses in substance
+the designation “as custodian under the Uniform Gifts to Minors Act” or “as
+custodian under the Uniform Transfers to Minors Act” of any other state, and
+the application of ORS 126.805 to 126.886 is necessary to validate the
+transfer. [1985 c.665 §22] 
+
+   
+
+       126.879
+Validation of transfer made before January 1, 1986. (1) Any transfer of custodial
+property made before January 1, 1986, is validated notwithstanding that there
+was no specific authority in ORS 126.805 to 126.886 prior to January 1, 1986,
+for the coverage of custodial property of that kind or for a transfer from that
+source at the time the transfer was made. 
+
+       (2) ORS 126.805
+to 126.886 apply to all transfers made before January 1, 1986, in a manner and
+form prescribed in the Oregon Uniform Gifts to Minors Act, except insofar as
+the application impairs constitutionally vested rights or extends the duration
+of custodianships in existence on January 1, 1986. 
+
+       (3) ORS 126.805
+and 126.869 with respect to the age of a minor for whom custodial property is
+held under ORS 126.805 to 126.886 do not apply to custodial property held in a
+custodianship that terminated because of the minor’s attainment of 18 years of
+age after October 4, 1973, and before January 1, 1986. [1985 c.665 §23] 
+
+   
+
+       126.880 [1959 c.640 §18; 1967 c.300 §10;
+repealed by 1985 c.665 §27] 
+
+   
+
+       126.882
+Application and construction of ORS 126.805 to 126.886. ORS 126.805 to 126.886 shall be
+applied and construed to effectuate its general purpose to make uniform the law
+with respect to the subject of ORS 126.805 to 126.886 among states enacting it.
+[1985 c.665 §24] 
+
+   
+
+       126.886 Short
+title. ORS 126.805
+to 126.886 may be cited as the “Oregon Uniform Transfers to Minors Act.” [1985
+c.665 §25] 
+
+   
+
+       126.905 [1969 c.627 §1; 1973 c.823 §116;
+renumbered 125.700 in 1995] 
+
+   
+
+       126.915 [1969 c.627 §2; 1983 c.740 §13;
+renumbered 125.705 in 1995] 
+
+   
+
+       126.925 [1969 c.627 §§3,6; 1973 c.823 §117;
+1995 c.664 §86; renumbered 125.710 in 1995] 
+
+   
+
+       126.935 [1969 c.627 §4; 1973 c.823 §118;
+renumbered 125.715 in 1995] 
+
+   
+
+       126.945 [1969 c.627 §5; 1973 c.823 §119;
+1995 c.664 §87; renumbered 125.720 in 1995] 
+
+   
+
+       126.955 [1969 c.627 §7; 1973 c.823 §120;
+renumbered 125.725 in 1995] 
+
+   
+
+       126.965 [1969 c.627 §8; 1973 c.823 §121;
+1991 c.790 §10; renumbered 125.730 in 1995] 
+
+   
+
+ 
+
+ 
+
+ 

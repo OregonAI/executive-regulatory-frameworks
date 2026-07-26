@@ -1,0 +1,71 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: ors-72.2100
+title: "Delegation of performance; assignment of rights"
+doc_type: statute
+citation: "ORS 72.2100"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors072.html"
+source_format: html
+retrieved: "2026-07-26"
+source_sha256: "39294435e138cdd58ae800a6807156f7687d6347bea8323ee7b42f91886bebec"
+snapshot_id: ors-chapter-72
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+last_amended: 2001
+enacted: 1961
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-26"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-72"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors072.html> (retrieved 2026-07-26, 2025 Edition).
+
+# Delegation of performance; assignment of rights (ORS 72.2100)
+
+## At a glance
+
+ORS 72.2100 — Delegation of performance; assignment of rights. Chapter 72 (Sales), 2025 Edition.
+
+## Full text
+
+72.2100 Delegation of performance; assignment of rights.
+
+(1) A party may perform the duty of the party through a delegate unless otherwise agreed or unless the other party has a substantial interest in having the original promisor perform or control the acts required by the contract. No delegation of performance relieves the party delegating of any duty to perform or any liability for breach.
+
+(2) Except as otherwise provided in ORS 79A.4060, unless otherwise agreed, all rights of either seller or buyer can be assigned except where the assignment would materially change the duty of the other party, or increase materially the burden or risk imposed on the other party by the contract, or impair materially the chance of the other party obtaining return performance. A right to damages for breach of the whole contract or a right arising out of the assignor’s due performance of the entire obligation of the assignor can be assigned despite agreement otherwise.
+
+(3) The creation, attachment, perfection or enforcement of a security interest in the seller’s interest under a contract is not a transfer that materially changes the duty of or increases materially the burden or risk imposed on the buyer or impairs materially the buyer’s chance of obtaining return performance within the purview of subsection
+
+(2) of this section unless, and then only to the extent that, enforcement actually results in a delegation of material performance of the seller. Even in that event, the creation, attachment, perfection and enforcement of the security interest remain effective, but (i) the seller is liable to the buyer for damages caused by the delegation to the extent that the damages could not reasonably be prevented by the buyer, and (ii) a court having jurisdiction may grant other appropriate relief, including cancellation of the contract for sale or an injunction against enforcement of the security interest or consummation of the enforcement.
+
+(4) Unless the circumstances indicate the contrary a prohibition of assignment of “the contract” is to be construed as barring only the delegation to the assignee of the assignor’s performance.
+
+(5) An assignment of “the contract” or of “all my rights under the contract” or an assignment in similar general terms is an assignment of rights and unless the language or the circumstances (as in an assignment for security) indicate the contrary, it is a delegation of performance of the duties of the assignor and its acceptance by the assignee constitutes a promise by the assignee to perform those duties. This promise is enforceable by either the assignor or the other party to the original contract.
+
+(6) The other party may treat any assignment which delegates performance as creating reasonable grounds for insecurity and may without prejudice to the rights of the other party against the assignor demand assurances from the assignee as provided in ORS 72.6090. [1961 c.726 §72.2100; 2001 c.445 §133]
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors072.html> · retrieved 2026-07-26 · sha256 `39294435e138cdd58ae800a6807156f7687d6347bea8323ee7b42f91886bebec`
+  (chapter snapshot `_meta/snapshots/ors-chapter-72.html`)
+- See [CHANGELOG](./CHANGELOG.md).

@@ -13,7 +13,9 @@ are dropped -- never fabricated, only parsed from what the source actually print
 """
 import re
 import sys
+import time
 from pathlib import Path
+from urllib.error import HTTPError
 
 import yaml
 
@@ -45,11 +47,21 @@ CHAPTER_TITLES = {
 }
 
 
+# oregonlegislature.gov zero-pads the numeric part to three digits: ors025.html, not
+# ors25.html (which 404s). Every chapter below 100 was silently unreachable until this
+# was fixed, which is why 54 of them were missing from the catalog entirely.
+def chapter_url(ch):
+    m = re.fullmatch(r"(\d+)([A-Za-z]?)", str(ch))
+    slug = f"{int(m.group(1)):03d}{m.group(2).lower()}" if m else str(ch).lower()
+    return f"https://www.oregonlegislature.gov/bills_laws/ors/ors{slug}.html"
+
+
 def fetch_chapter(ch):
     snap_id = f"ors-chapter-{ch.lower()}"
     html_path = SNAPSHOT_DIR / f"{snap_id}.html"
     if not html_path.exists():
-        url = f"https://www.oregonlegislature.gov/bills_laws/ors/ors{ch}.html"
+        url = chapter_url(ch)
+        time.sleep(1.0)  # bulk runs walk hundreds of chapters; don't hammer the source
         raw = fetch(url)
         html_path.write_bytes(raw)
         (SNAPSHOT_DIR / f"{snap_id}.txt").write_text(html_to_text(raw), encoding="utf-8")
@@ -59,9 +71,29 @@ def fetch_chapter(ch):
 def extract_chapter_title(raw_text, ch):
     """Pull the chapter's real title from the source ("Chapter 305. Administration of
     Revenue and Tax Laws; Appeals ... 306. ...") so mass-catalogued chapters aren't all
-    labeled "Chapter NNN". Returns None if the pattern isn't found."""
+    labeled "Chapter NNN". Returns None if the pattern isn't found.
+
+    Two heading forms occur. The dominant one on the chapter pages themselves is an em
+    dash ("Chapter 25 — Child Support Services 2025 EDITION"); only the period form was
+    handled originally, which is why 371 of 433 catalogued chapters carry a bare label.
+    The title runs until the edition banner or the first TOC section number."""
     t = ws_only(raw_text)
-    m = re.search(rf"Chapter\s+{re.escape(ch)}\.\s*(.+?)\s+\d{{2,3}}[A-Z]?\.\s", t)
+    # Some chapters carry a legislative-session notice between the heading and the edition
+    # banner; without it as a terminator the notice is swallowed into the title.
+    notice = (r"New sections of law|(?:ORS|Uncodified) sections (?:in this chapter|printed)|Note:"
+              r"|TITLE\s+\d+|_{3,}")
+    m = re.search(rf"Chapter\s+{re.escape(ch)}\s*[—–-]\s*(.+?)\s+"
+                  rf"(?:\d{{4}}\s+EDITION|{notice}|\d{{1,3}}[A-Z]?\.\d{{3}}\b)", t)
+    if not m:
+        m = re.search(rf"Chapter\s+{re.escape(ch)}\.\s*(.+?)\s+\d{{2,3}}[A-Z]?\.\s", t)
+    if not m:
+        # Repealed/renumbered chapters print "Chapter 181 (Former Provisions) State Police;
+        # ..." with the title running until the first all-caps part heading. Keeping the
+        # marker in the title is the point: these are not current law.
+        m = re.search(rf"Chapter\s+{re.escape(ch)}\s+\(Former Provisions\)\s+"
+                      rf"(.+?)\s+(?=TITLE\s+\d+|[A-Z][A-Z ']{{7,}})", t)
+        if m:
+            return f"{m.group(1).strip(' .;')} (Former Provisions)"[:160]
     if not m:
         return None
     title = m.group(1).strip(" .;")
@@ -102,7 +134,11 @@ def parse_toc(raw_text, ch):
     def real_boundary(m):
         return not any(a <= m.start() < b for a, b in xref_spans)
 
-    num_re = re.compile(re.escape(ch) + r"[A-Z]?\.\d{3}\b")
+    # The UCC chapters (71-80) number sections with FOUR digits after the point --
+    # 72.1010, not 72.101 -- so a hard \d{3}\b matched nothing and silently yielded an
+    # empty TOC for every one of them. Case-insensitive because a lettered chapter is
+    # printed uppercase in the text (86A.095) whatever case the caller passed.
+    num_re = re.compile(re.escape(ch) + r"[A-Z]?\.\d{3,4}\b", re.I)
     all_matches = [m for m in num_re.finditer(chunk) if real_boundary(m)]
     if not all_matches:
         return []
@@ -120,7 +156,7 @@ def parse_toc(raw_text, ch):
              for i, b in enumerate(bounds)]
     out, seen = [], set()
     for p in parts:
-        pm = re.match(r"(" + re.escape(ch) + r"\.\d{3})\s+(.*)", p.strip())
+        pm = re.match(r"(" + re.escape(ch) + r"\.\d{3,4})\s+(.*)", p.strip(), re.I)
         if not pm:
             continue
         num, rest = pm.groups()
@@ -140,15 +176,32 @@ def parse_toc(raw_text, ch):
 
 
 def main():
-    chapters = sys.argv[1:]
+    # ORS prints a lettered chapter uppercase (86A, 657B) and the catalog follows suit;
+    # accept either case from the caller so "86a" doesn't create a duplicate entry.
+    chapters = [c.upper() for c in sys.argv[1:]]
     if not chapters:
         print("usage: catalog_ors.py <chapter> [<chapter> ...]")
         sys.exit(2)
     cat = yaml.safe_load(CATALOG.read_text())
     by_num = {c["chapter"]: c for c in cat["chapters"]}
 
-    for ch in chapters:
-        raw = fetch_chapter(ch)
+    def save():
+        cat["chapters"].sort(key=lambda c: c["chapter"])
+        CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
+
+    missing = []
+    for n, ch in enumerate(chapters, 1):
+        # Not every chapter number is a live page: repealed chapters are simply absent from
+        # the site. A bulk run must survive that -- previously one 404 aborted the loop and,
+        # because the catalog was only written at the end, discarded every chapter before it.
+        try:
+            raw = fetch_chapter(ch)
+        except HTTPError as e:
+            if e.code == 404:
+                missing.append(ch)
+                print(f"chapter {ch}: no page at {chapter_url(ch)} (HTTP 404) -- skipped")
+                continue
+            raise
         secs = parse_toc(raw, ch)
         # Prefer the curated title, then the one printed in the source, then a bare label.
         title = CHAPTER_TITLES.get(ch) or extract_chapter_title(raw, ch) or f"Chapter {ch}"
@@ -162,15 +215,16 @@ def main():
             if existing.get("title", "").startswith("Chapter ") and not title.startswith("Chapter "):
                 existing["title"] = title  # upgrade a bare label if we now have a real one
         else:
-            entry = {"chapter": ch, "title": title,
-                     "url": f"https://www.oregonlegislature.gov/bills_laws/ors/ors{ch}.html",
-                     "sections": secs}
+            entry = {"chapter": ch, "title": title, "url": chapter_url(ch), "sections": secs}
             cat["chapters"].append(entry)
             by_num[ch] = entry
         print(f"chapter {ch} ({title}): {len(secs)} sections found")
+        if n % 10 == 0:
+            save()  # checkpoint, so an interrupted bulk run keeps what it already parsed
 
-    cat["chapters"].sort(key=lambda c: c["chapter"])
-    CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
+    save()
+    if missing:
+        print(f"\n{len(missing)} chapter(s) have no page on the site: {' '.join(missing)}")
 
 
 if __name__ == "__main__":

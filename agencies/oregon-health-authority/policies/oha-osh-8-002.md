@@ -32,6 +32,8 @@ relationships:
     - ors-283.340
     - ors-283.345
     - ors-283.395
+    - ors-30.800
+    - ors-30.807
     - ors-418.017
   implemented_by: []
   references_external: []

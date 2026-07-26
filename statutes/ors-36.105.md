@@ -1,0 +1,234 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: ors-36.105
+title: "Declaration of purpose of ORS"
+doc_type: statute
+citation: "ORS 36.105"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors036.html"
+source_format: html
+retrieved: "2026-07-26"
+source_sha256: "0b3f5005e596148094c5798b8b5e834f4f6f78158f11fd422d247009925e21e6"
+snapshot_id: ors-chapter-36
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+last_amended: 2017
+enacted: 1989
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-07-26"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by:
+    - oar-715-013-0066
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-36"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors036.html> (retrieved 2026-07-26, 2025 Edition).
+
+# Declaration of purpose of ORS (ORS 36.105)
+
+## At a glance
+
+ORS 36.105 — Declaration of purpose of ORS. Chapter 36 (Mediation and Arbitration), 2025 Edition.
+
+## Full text
+
+36.105 Declaration of purpose of ORS 36.100 to 36.238. The Legislative Assembly declares that it is the purpose of ORS 36.100 to 36.238 to:
+
+(1) Foster the development of community-based programs that will assist citizens in resolving disputes and developing skills in conflict resolution;
+
+(2) Allow flexible and diverse programs to be developed in this state, to meet specific needs in local areas and to benefit this state as a whole through experiments using a variety of models of peaceful dispute resolution;
+
+(3) Find alternative methods for addressing the needs of crime victims in criminal cases when those cases are either not prosecuted for lack of funds or can be more efficiently handled outside the courts;
+
+(4) Provide a method to evaluate the effect of dispute resolution programs on communities, local governments, the justice system and state agencies;
+
+(5) Encourage the development and use of mediation panels for resolution of civil litigation disputes;
+
+(6) Foster the development or expansion of integrated, flexible and diverse state agency programs that involve state and local agencies and the public and that provide for use of alternative means of dispute resolution pursuant to ORS 183.502; and
+
+(7) Foster efforts to integrate community, judicial and state agency dispute resolution programs. [1989 c.718 §2; 1997 c.706 §3; 2003 c.791 §10] 36.110 Definitions for ORS 36.100 to 36.238. As used in ORS 36.100 to 36.238:
+
+(1) “Arbitration” means any arbitration whether or not administered by a permanent arbitral institution.
+
+(2) “Dean” means the Dean of the University of Oregon School of Law.
+
+(3) “Dispute resolution program” means an entity that receives a grant under ORS 36.155 to provide dispute resolution services.
+
+(4) “Dispute resolution services” includes but is not limited to mediation, conciliation and arbitration.
+
+(5) “Mediation” means a process in which a mediator assists and facilitates two or more parties to a controversy in reaching a mutually acceptable resolution of the controversy and includes all contacts between a mediator and any party or agent of a party, until such time as a resolution is agreed to by the parties or the mediation process is terminated.
+
+(6) “Mediation agreement” means an agreement arising out of a mediation, including any term or condition of the agreement.
+
+(7) “Mediation communications” means: (a) All communications that are made, in the course of or in connection with a mediation, to a mediator, a mediation program or a party to, or any other person present at, the mediation proceedings; and (b) All memoranda, work products, documents and other materials, including any draft mediation agreement, that are prepared for or submitted in the course of or in connection with a mediation or by a mediator, a mediation program or a party to, or any other person present at, mediation proceedings.
+
+(8) “Mediation program” means a program through which mediation is made available and includes the director, agents and employees of the program.
+
+(9) “Mediator” means a third party who performs mediation. “Mediator” includes agents and employees of the mediator or mediation program and any judge conducting a case settlement conference.
+
+(10) “Public body” has the meaning given that term in ORS 174.109.
+
+(11) “State agency” means any state officer, board, commission, bureau, department, or division thereof, in the executive branch of state government. [1989 c.718 §3; 1997 c.670 §11; 2003 c.791 §§11,11a; 2005 c.817 §3] 36.115 [1989 c.718 §4; 1991 c.538 §1; repealed by 2003 c.791 §33] 36.120 [1989 c.718 §5; repealed by 2003 c.791 §33] 36.125 [1989 c.718 §6; repealed by 2003 c.791 §33] 36.130 [1989 c.718 §7; repealed by 2003 c.791 §33] (Dispute Resolution Programs) 36.135 Review of dispute resolution programs; suspension or termination of funding. The Dean of the University of Oregon School of Law shall periodically review dispute resolution programs in this state. If the dean determines that there are reasonable grounds to believe that a program is not in substantial compliance with the standards and guidelines adopted under ORS 36.175, the dean may suspend or terminate the funding of the program under ORS 36.155 and recover any unexpended funds or improperly expended funds from the program. [1989 c.718 §8; 1995 c.781 §31; 2003 c.791 §12; 2005 c.817 §4] 36.140 [1989 c.718 §9; repealed by 2003 c.791 §33] 36.145 Dispute Resolution Account. The Dispute Resolution Account is established in the State Treasury, separate and distinct from the General Fund. All moneys received under ORS 36.150 shall be deposited to the credit of the account. Notwithstanding the provisions of ORS 291.238, all moneys in the account are continuously appropriated to the University of Oregon or Portland State University for the purposes for which the moneys were made available and shall be expended in accordance with the terms and conditions upon which the moneys were made available. [1989 c.718 §10; 1997 c.801 §44; 2003 c.791 §§13,13a; 2005 c.817 §4a; 2009 c.762 §42; 2013 c.768 §103] 36.150 Additional funding. Portland State University, on behalf of the Mark O. Hatfield School of Government and the University of Oregon, on behalf of the University of Oregon School of Law, may accept and expend moneys from any public or private source, including the federal government, made available for the purpose of encouraging, promoting or establishing dispute resolution programs in Oregon or to facilitate and assist the schools in carrying out the responsibilities of the schools under ORS 36.100 to 36.238 and 183.502. All moneys received by the University of Oregon and Portland State University under this section shall be deposited in the Dispute Resolution Account. [1989 c.718 §11; 2003 c.791 §15; 2005 c.817 §4b; 2009 c.762 §43; 2013 c.768 §104] 36.155 Grants for dispute resolution services in counties; rules. The Dean of the University of Oregon School of Law shall award grants for the purpose of providing dispute resolution services in counties. Grants under this section shall be made from funds allocated to the University of Oregon on behalf of the University of Oregon School of Law for distribution under this section. The Board of Trustees of the University of Oregon may adopt standards for the operation of the grant program. [1989 c.718 §12; 1991 c.538 §2; 1997 c.801 §41; 2001 c.581 §1; 2003 c.791 §16; 2005 c.817 §4c; 2009 c.762 §44; 2013 c.768 §105] 36.160 Participation by counties; notice; contents; effect of failure to give notice.
+
+(1) To qualify for a grant under ORS 36.155, a county shall notify the Dean of the University of Oregon School of Law in accordance with the schedule established by rule by the dean. Such notification shall be by resolution of the appropriate board of county commissioners or, if the programs are to serve more than one county, by joint resolution. A county providing notice may select the dispute resolution programs to receive grants under ORS 36.155 for providing dispute resolution services within the county from among qualified dispute resolution programs.
+
+(2) The county’s notification to the dean must include a statement of agreement by the county to engage in a selection process and to select as the recipient of funding an entity capable of and willing to provide dispute resolution services according to the rules of the dean. The award of a grant is contingent upon the selection by the county of a qualified entity. The dean may provide consultation and technical assistance to a county to identify, develop and implement dispute resolution programs that meet the standards and guidelines adopted by the dean under ORS 36.175.
+
+(3) If a county does not issue a notification according to the schedule established by the dean, the dean may notify a county board of commissioners that the dean intends to make a grant to a dispute resolution program in the county. The dean may, after such notification, assume the county’s role under subsection
+
+(1) of this section unless the county gives the notice required by subsection
+
+(1) of this section. If the dean assumes the county’s role, the dean may contract with a qualified program for a two-year period. The county may, 90 days before the expiration of an agreement between a qualified program and the dean, notify the dean under subsection
+
+(1) of this section that the county intends to assume its role under subsection
+
+(1) of this section.
+
+(4) All dispute resolution programs identified for funding shall comply with the rules adopted under ORS 36.175.
+
+(5) All funded dispute resolution programs shall submit informational reports and statistics as required by the dean. [1989 c.718 §13; 1991 c.538 §3; 1995 c.515 §1; 1997 c.801 §43; 2003 c.791 §17; 2005 c.817 §4d] 36.165 Termination of county participation.
+
+(1) Any county that receives a grant under ORS 36.155 may terminate its participation at the end of any month by delivering a resolution of its board of commissioners to the Dean of the University of Oregon School of Law not less than 180 days before the termination date.
+
+(2) If a county terminates its participation under ORS 36.160, the remaining portion of the grant made to the county under ORS 36.160 shall revert to the University of Oregon School of Law to be used as specified in ORS 36.155. [1989 c.718 §14; 2003 c.791 §18; 2005 c.817 §4e] 36.170 [1989 c.718 §15; 1991 c.538 §4; 1991 c.790 §4; 1995 c.664 §77; 1995 c.666 §12; 1997 c.801 §§38,39; 2003 c.791 §18a; 2005 c.817 §4f; 2007 c.860 §26; 2009 c.659 §§18,19; 2010 c.107 §§36,37,38; repealed by 2011 c.595 §107] (Program Standards) 36.175 Rules for administration of dispute resolution programs.
+
+(1) The Dean of the University of Oregon School of Law shall adopt by rule: (a) Standards and guidelines for dispute resolution programs receiving grants under ORS 36.155; (b) Minimum reporting requirements for dispute resolution programs receiving grants under ORS 36.155; (c) Methods for evaluating dispute resolution programs receiving grants under ORS 36.155; (d) Minimum qualifications and training for persons conducting dispute resolution services in dispute resolution programs receiving grants under ORS 36.155; (e) Participating funds requirements, if any, for entities receiving grants under ORS 36.155; (f) Requirements, if any, for the payment by participants for services provided by a program receiving grants under ORS 36.155; and (g) Any other provisions or procedures for the administration of ORS 36.100 to 36.175.
+
+(2) This section does not apply to state agency dispute resolution programs. [1989 c.718 §16; 1997 c.706 §4; 2003 c.791 §19; 2005 c.817 §4g] (Dispute Resolution for Public Bodies) 36.179 Mediation and other alternative dispute resolution services for public bodies. The Mark O. Hatfield School of Government shall establish and operate a program to provide mediation and other alternative dispute resolution services to public bodies, as defined by ORS 174.109, and to persons who have disputes with public bodies, as defined by ORS 174.109. [2005 c.817 §11] 36.180 [1989 c.718 §18; repealed by 2003 c.791 §33] (Mediation in Civil Cases) 36.185 Referral of civil dispute to mediation; objection; information to parties. After the appearance by all parties in any civil action, except proceedings under ORS 107.700 to 107.735, 124.005 to 124.040 or 163.760 to 163.777, a judge of any circuit court may refer a civil dispute to mediation under the terms and conditions set forth in ORS 36.185 to 36.210. When a party to a case files a written objection to mediation with the court, the action shall be removed from mediation and proceed in a normal fashion. All civil disputants shall be provided with written information describing the mediation process, as provided or approved by the State Court Administrator, along with information on established court mediation opportunities. Filing parties shall be provided with this information at the time of filing a civil action. Responding parties shall be provided with this information by the filing party along with the initial service of filing documents upon the responding party. [1989 c.718 §19; 1993 c.327 §1; 1995 c.666 §13; 2003 c.791 §20; 2013 c.687 §12] 36.190 Stipulation to mediation; selection of mediator; stay of proceedings.
+
+(1) On written stipulation of all parties at any time prior to trial, the parties may elect to mediate their civil dispute under the terms and conditions of ORS 36.185 to 36.210.
+
+(2) Upon referral or election to mediate, the parties shall select a mediator by written stipulation or shall follow procedures for assignment of a mediator from the court’s panel of mediators.
+
+(3) During the period of any referred or elected mediation under ORS 36.185 to 36.210, all trial and discovery timelines and requirements shall be tolled and stayed as to the participants. Such tolling shall commence on the date of the referral or election to mediate and shall end on the date the court is notified in writing of the termination of the mediation by the mediator or one party requests the case be put back on the docket. All time limits and schedules shall be tolled, except that a judge shall have discretion to adhere to preexisting pretrial order dates, trial dates or dates relating to temporary relief. [1989 c.718 §20] 36.195 Presence of attorney; authority and duties of mediator; notice to court at completion of mediation.
+
+(1) Unless otherwise agreed to in writing by the parties, the parties’ legal counsel shall not be present at any scheduled mediation sessions conducted under the provisions of ORS 36.100 to 36.175.
+
+(2) Attorneys and other persons who are not parties to a mediation may be included in mediation discussions at the mediator’s discretion, with the consent of the parties, for mediation held under the provisions of ORS 36.185 to 36.210.
+
+(3) The mediator, with the consent of the parties, may adopt appropriate rules to facilitate the resolution of the dispute and shall have discretion, with the consent of the parties, to suspend or continue mediation. The mediator may propose settlement terms either orally or in writing.
+
+(4) All court mediators shall encourage disputing parties to obtain individual legal advice and individual legal review of any mediated agreement prior to signing the agreement.
+
+(5) Within 10 judicial days of the completion of the mediation, the mediator shall notify the court whether an agreement has been reached by the parties. If the parties do not reach agreement, the mediator shall report that fact only to the court, but shall not make a recommendation as to resolution of the dispute without written consent of all parties or their legal counsel. The action shall then proceed in the normal fashion on either an expedited or regular pretrial list.
+
+(6) The court shall retain jurisdiction over a case selected for mediation and shall issue orders as it deems appropriate. [1989 c.718 §21] 36.200 Mediation panels; qualification; procedure for selecting mediator.
+
+(1) A circuit court providing mediation referral under ORS 36.185 to 36.210 shall establish mediation panels. The mediators on such panels shall have such qualifications as established by rules adopted under ORS 1.002. Formal education in any particular field shall not be a prerequisite to serving as a mediator.
+
+(2) Unless instructed otherwise by the court, upon referral by the court to mediation, the clerk of the court shall select at least three individuals from the court’s panel of mediators and shall send their names to legal counsel for the parties, or to a party directly if not represented, with a request that each party state preferences within five judicial days. If timely objection is made to all of the individuals named, the court shall select some other individual from the mediator panel. Otherwise, the clerk, under the direction of the court, shall select as mediator one of the three individuals about whom no timely objection was made.
+
+(3) Upon the court’s or the parties’ own selection of a mediator, the clerk shall: (a) Notify the designated person of the assignment as mediator. (b) Provide the mediator with the names and addresses of the parties and their representatives and with copies of the order of assignment.
+
+(4) The parties to a dispute that is referred by the court to mediation may choose, at their option and expense, mediation services other than those suggested by the court, and entering into such private mediation services shall be subject to the same provisions of ORS 36.185 to 36.210.
+
+(5) Disputing parties in mediation shall be free, at their own expense, to retain jointly or individually, experts, attorneys, fact finders, arbitrators and other persons to assist the mediation, and all such dispute resolution efforts shall be subject to the protection of ORS 36.185 to 36.210. [1989 c.718 §22; 1993 c.327 §2; 2003 c.791 §21] 36.205 [1989 c.718 §23; 1995 c.678 §1; repealed by 1997 c.670 §15] (Liability of Mediators and Programs) 36.210 Liability of mediators and programs.
+
+(1) Mediators, mediation programs and dispute resolution programs are not civilly liable for any act or omission done or made while engaged in efforts to assist or facilitate a mediation or in providing other dispute resolution services, unless the act or omission was made or done in bad faith, with malicious intent or in a manner exhibiting a willful, wanton disregard of the rights, safety or property of another.
+
+(2) Mediators, mediation programs and dispute resolution programs are not civilly liable for the disclosure of a confidential mediation communication unless the disclosure was made in bad faith, with malicious intent or in a manner exhibiting a willful, wanton disregard of the rights, safety or property of another.
+
+(3) The limitations on liability provided by this section apply to the officers, directors, employees and agents of mediation programs and dispute resolution programs. [1989 c.718 §24; 1995 c.678 §2; 1997 c.670 §12; 2001 c.72 §1; 2003 c.791 §§22,22a] (Confidentiality of Mediation Communications and Agreements) 36.220 Confidentiality of mediation communications and agreements; exceptions.
+
+(1) Except as provided in ORS 36.220 to 36.238: (a) Mediation communications are confidential and may not be disclosed to any other person. (b) The parties to a mediation may agree in writing that all or part of the mediation communications are not confidential.
+
+(2) Except as provided in ORS 36.220 to 36.238: (a) The terms of any mediation agreement are not confidential. (b) The parties to a mediation may agree that all or part of the terms of a mediation agreement are confidential.
+
+(3) Statements, memoranda, work products, documents and other materials, otherwise subject to discovery, that were not prepared specifically for use in a mediation, are not confidential.
+
+(4) Any document that, before its use in a mediation, was a public record as defined in ORS 192.311 remains subject to disclosure to the extent provided by ORS 192.311 to 192.478.
+
+(5) Any mediation communication relating to child abuse that is made to a person who is required to report child abuse under the provisions of ORS 419B.010 is not confidential to the extent that the person is required to report the communication under the provisions of ORS 419B.010. Any mediation communication relating to elder abuse that is made to a person who is required to report elder abuse under the provisions of ORS 124.050 to 124.095 is not confidential to the extent that the person is required to report the communication under the provisions of ORS 124.050 to 124.095.
+
+(6) A mediation communication is not confidential if the mediator or a party to the mediation reasonably believes that disclosing the communication is necessary to prevent a party from committing a crime that is likely to result in death or substantial bodily injury to a specific person.
+
+(7) A party to a mediation may disclose confidential mediation communications to a person if the party’s communication with that person is privileged under ORS 40.010 to 40.585 or other provision of law. A party may disclose confidential mediation communications to any other person for the purpose of obtaining advice concerning the subject matter of the mediation, if all parties to the mediation so agree.
+
+(8) The confidentiality of mediation communications and agreements in a mediation in which a public body is a party, or in which a state agency is mediating a dispute as to which the state agency has regulatory authority, is subject to ORS 36.224, 36.226 and 36.230. [1997 c.670 §1] 36.222 Admissibility and disclosure of mediation communications and agreements in subsequent adjudicatory proceedings.
+
+(1) Except as provided in ORS 36.220 to 36.238, mediation communications and mediation agreements that are confidential under ORS 36.220 to 36.238 are not admissible as evidence in any subsequent adjudicatory proceeding, and may not be disclosed by the parties or the mediator in any subsequent adjudicatory proceeding.
+
+(2) A party may disclose confidential mediation communications or agreements in any subsequent adjudicative proceeding if all parties to the mediation agree in writing to the disclosure.
+
+(3) A mediator may disclose confidential mediation communications or confidential mediation agreements in a subsequent adjudicatory proceeding if all parties to the mediation, the mediator, and the mediation program, if any, agree in writing to the disclosure.
+
+(4) In any proceeding to enforce, modify or set aside a mediation agreement, confidential mediation communications and confidential mediation agreements may be disclosed to the extent necessary to prosecute or defend the matter. At the request of a party, the court may seal any part of the record of the proceeding to prevent further disclosure of mediation communications or agreements to persons other than the parties to the agreement.
+
+(5) In an action for damages or other relief between a party to a mediation and a mediator or mediation program, confidential mediation communications or confidential mediation agreements may be disclosed to the extent necessary to prosecute or defend the matter. At the request of a party, the court may seal any part of the record of the proceeding to prevent further disclosure of the mediation communications or agreements.
+
+(6) A mediator may disclose confidential mediation communications directly related to child abuse or elder abuse if the mediator is a person who has a duty to report child abuse under ORS 419B.010 or elder abuse under ORS 124.050 to 124.095.
+
+(7) The limitations on admissibility and disclosure in subsequent adjudicatory proceedings imposed by this section apply to any subsequent judicial proceeding, administrative proceeding or arbitration proceeding. The limitations on disclosure imposed by this section include disclosure during any discovery conducted as part of a subsequent adjudicatory proceeding, and no person who is prohibited from disclosing information under the provisions of this section may be compelled to reveal confidential communications or agreements in any discovery proceeding conducted as part of a subsequent adjudicatory proceeding. Any confidential mediation communication or agreement that may be disclosed in a subsequent adjudicatory proceeding under the provisions of this section may be introduced into evidence in the subsequent adjudicatory proceeding. [1997 c.670 §2] 36.224 State agencies; confidentiality of mediation communications; rules.
+
+(1) Except as provided in this section, mediation communications in mediations in which a state agency is a party, or in which a state agency is mediating a dispute as to which the state agency has regulatory authority, are not confidential and may be disclosed or admitted as evidence in subsequent adjudicatory proceedings, as described in ORS 36.222 (7).
+
+(2) The Attorney General shall develop model rules that provide for the confidentiality of mediation communications in mediations described in subsection
+
+(1) of this section. The rules shall also provide for limitations on admissibility and disclosure in subsequent adjudicatory proceedings, as described in ORS 36.222 (7). The rules shall contain provisions governing mediations of workplace interpersonal disputes. The rules may be amended by the Attorney General after notice and opportunity for hearing as required by rulemaking procedures under ORS chapter 183.
+
+(3) Model rules developed by the Attorney General under this section must include a provision for notice to the parties to a mediation regarding the extent to which the mediation communications are confidential or subject to disclosure or introduction as evidence in subsequent adjudicatory proceedings.
+
+(4) A state agency may adopt the model rules developed by the Attorney General under this section in their entirety without complying with the rulemaking procedures under ORS 183.335. The agency shall file notice of adoption of rules under this subsection with the Secretary of State in the manner provided by ORS 183.355 for the filing of rules.
+
+(5) Except as provided in ORS 36.222, mediation communications in any mediation regarding a claim for workers’ compensation benefits conducted pursuant to rules adopted by the Workers’ Compensation Board are confidential, are not subject to disclosure under ORS 192.311 to 192.478 and may not be disclosed or admitted as evidence in subsequent adjudicatory proceedings, as described in ORS 36.222 (7), without regard to whether a state agency or other public body is a party to the mediation or is the mediator in the mediation.
+
+(6) Mediation communications made confidential by a rule adopted by a state agency are not subject to disclosure under ORS 192.311 to 192.478. [1997 c.670 §3; 2003 c.791 §23; 2005 c.333 §1; 2015 c.114 §1] 36.226 Public bodies other than state agencies; confidentiality of mediation communications.
+
+(1) Except as provided in subsection
+
+(2) of this section, mediation communications in mediations in which a public body other than a state agency is a party are confidential and may not be disclosed or admitted as evidence in subsequent adjudicatory proceedings, as described in ORS 36.222 (7).
+
+(2) A public body other than a state agency may adopt a policy that provides that all or part of mediation communications in mediations in which the public body is a party will not be confidential. If a public body adopts a policy under this subsection, notice of the policy must be provided to all other parties in mediations that are subject to the policy. [1997 c.670 §4] 36.228 Mediations in which two or more public bodies are parties.
+
+(1) Notwithstanding any other provision of ORS 36.220 to 36.238, if the only parties to a mediation are public bodies, mediation communications and mediation agreements in the mediation are not confidential except to the extent those communications or agreements are exempt from disclosure under ORS 192.311 to 192.478. Mediation of workplace interpersonal disputes between employees of a public body is not subject to this subsection.
+
+(2) Notwithstanding any other provision of ORS 36.220 to 36.238, if two or more public bodies are parties to a mediation in which a private person is also a party, mediation communications in the mediation are not confidential if the laws, rules or policies governing confidentiality of mediation communications for at least one of the public bodies provide that mediation communications in the mediation are not confidential.
+
+(3) Notwithstanding any other provision of ORS 36.220 to 36.238, if two or more public bodies are parties to a mediation in which a private person is also a party, mediation agreements in the mediation are not confidential if the laws, rules or policies governing confidentiality of mediation agreements for at least one of the public bodies provide that mediation agreements in the mediation are not confidential. [1997 c.670 §4a; 2007 c.12 §1] 36.230 Public bodies; confidentiality of mediation agreements.
+
+(1) Except as provided in this section, mediation agreements are not confidential if a public body is a party to the mediation or if the mediation is one in which a state agency is mediating a dispute as to which the state agency has regulatory authority.
+
+(2) If a public body is a party to a mediation agreement, any provisions of the agreement that are exempt from disclosure as a public record under ORS 192.311 to 192.478 are confidential.
+
+(3) If a public body is a party to a mediation agreement, and the agreement is subject to the provisions of ORS 17.095, the terms of the agreement are confidential to the extent that those terms are confidential under ORS 17.095 (2).
+
+(4) If a public body is a party to a mediation agreement arising out of a workplace interpersonal dispute: (a) The agreement is confidential if the public body is not a state agency, unless the public body adopts a policy that provides otherwise; (b) The agreement is confidential if the public body is a state agency only to the extent that the state agency has adopted a rule under ORS 36.224 that so provides; and (c) Any term of an agreement that requires an expenditure of public funds, other than expenditures of $1,000 or less for employee training, employee counseling or purchases of equipment that remain the property of the public body, may not be made confidential by a rule or policy of a public body. [1997 c.670 §5; 2005 c.352 §2] 36.232 Disclosures allowed for reporting, research, training and educational purposes.
+
+(1) If a public body conducts or makes available a mediation, ORS 36.220 to 36.238 do not limit the ability of the mediator to report the disposition of the mediation to that public body at the conclusion of the mediation proceeding. The report made by a mediator to a public body under this subsection may not disclose specific confidential mediation communications made in the mediation.
+
+(2) If a public body conducts or makes available a mediation, ORS 36.220 to 36.238 do not limit the ability of the public body to compile and disclose general statistical information concerning matters that have gone to mediation if the information does not identify specific cases.
+
+(3) In any mediation in a case that has been filed in court, ORS 36.220 to 36.238 do not limit the ability of the court to: (a) Require the parties or the mediator to report to the court the disposition of the mediation at the conclusion of the mediation proceeding; (b) Disclose records reflecting which matters have been referred for mediation; or (c) Disclose the disposition of the matter as reported to the court.
+
+(4) ORS 36.220 to 36.238 do not limit the ability of a mediator or mediation program to use or disclose confidential mediation communications, the disposition of matters referred for mediation and the terms of mediation agreements to another person for use in research, training or educational purposes, subject to the following: (a) A mediator or mediation program may only use or disclose confidential mediation communications if the communications are used or disclosed in a manner that does not identify individual mediations or parties. (b) A mediator or mediation program may use or disclose confidential mediation communications that identify individual mediations or parties only if and to the extent allowed by a written agreement with, or written waiver of confidentiality by, the parties. [1997 c.670 §6] 36.234 Parties to mediation. For the purposes of ORS 36.220 to 36.238, a person, state agency or other public body is a party to a mediation if the person or public body participates in a mediation and has a direct interest in the controversy that is the subject of the mediation. A person or public body is not a party to a mediation solely because the person or public body is conducting the mediation, is making the mediation available or is serving as an information resource at the mediation. [1997 c.670 §7] 36.236 Effect on other laws.
+
+(1) Nothing in ORS 36.220 to 36.238 affects any confidentiality created by other law, including but not limited to confidentiality created by ORS 107.755 to 107.795.
+
+(2) Nothing in ORS 36.220 to 36.238 relieves a public body from complying with ORS 192.610 to 192.705. [1997 c.670 §9] 36.238 Application of ORS 36.210 and 36.220 to 36.238. The provisions of ORS 36.210 and 36.220 to 36.238 apply to:
+
+(1) All mediations, whether conducted by a publicly funded program or by a private mediation provider; and
+
+(2) Facilitated dispute resolution services conducted by the Public Records Advocate under ORS 192.464. Solely for purposes of ORS 36.210 and 36.220 to 36.238, a facilitated dispute resolution shall be deemed a mediation. [1997 c.670 §8; 2017 c.728 §7] 36.245 [1997 c.706 §2; repealed by 2003 c.791 §33] 36.250 [1989 c.967 §2; 2001 c.104 §9; 2005 c.657 §3; 2009 c.294 §2; repealed by 2015 c.202 §1]
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors036.html> · retrieved 2026-07-26 · sha256 `0b3f5005e596148094c5798b8b5e834f4f6f78158f11fd422d247009925e21e6`
+  (chapter snapshot `_meta/snapshots/ors-chapter-36.html`)
+- See [CHANGELOG](./CHANGELOG.md).
