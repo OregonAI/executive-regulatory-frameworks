@@ -26,6 +26,42 @@ LINKABLE_DOC_TYPES = {"rule", "policy", "procedure", "standard"}
 REL_KEYS = ["implements", "implemented_by", "references_external", "related", "supersedes"]
 
 
+def eo_date_sequence_breaks():
+    """Executive orders whose signature date contradicts their own order number.
+
+    Numbers are assigned sequentially within a year, so a higher number carrying an
+    earlier date means at least one of the two dates was misread. This is INDEPENDENT
+    of how any date was parsed, which is the point: `parse_signed_date` cross-checks a
+    date against the YEAR in its own id, so it cannot notice a wrong day. This check
+    can, and it is what surfaced the OCR day-truncation bug ("3I day of October" read
+    as the 3rd rather than the 31st).
+
+    It is a SIGNAL, not an oracle — orders do occasionally get signed out of numeric
+    order. Companion documents (eo-YY-NN-amended and friends) legitimately post-date
+    the order they amend, so only plain eo-YY-NN orders are compared.
+    """
+    dated = {}
+    for path in sorted((REPO_ROOT / "executive-orders").glob("eo-*.md")):
+        m = re.fullmatch(r"eo-(\d{2})-(\d+)", path.stem)
+        if not m:
+            continue                       # companion/amended doc — not in the sequence
+        fm, _ = parse_frontmatter(path)
+        if fm.get("effective_date"):
+            dated.setdefault(m.group(1), []).append(
+                (int(m.group(2)), path.stem, str(fm["effective_date"])))
+
+    breaks = []
+    for yy in sorted(dated):
+        seq = sorted(dated[yy])
+        for (_, id1, d1), (_, id2, d2) in zip(seq, seq[1:]):
+            if d2 < d1:
+                breaks.append((id2, f"signed {d2}, but the preceding order `{id1}` is "
+                                    f"dated {d1} — order numbers are sequential, so one "
+                                    f"of the two dates is misread; check both signature "
+                                    f"blocks against the source PDFs"))
+    return breaks
+
+
 def scan():
     q = {
         "exception": [],   # content_exception docs — zero machine verification
@@ -34,6 +70,7 @@ def scan():
         "migration": [],   # migration_pending
         "discrepancy": [], # curator-noted source/listing discrepancies
         "unlinked": [],    # rule/policy/procedure/standard with zero graph edges
+        "eo_sequence": [], # EO signature dates that contradict their own numbering
     }
     # OAR rules that are CORRECT non-links (chapter-level or not-ingested authority)
     # are aggregated per chapter — at mass-import scale, thousands of itemized
@@ -82,6 +119,8 @@ def scan():
                            "link_graph.py found no authority citation "
                            "(or naming pair) to resolve; add/verify one manually")
                     q["unlinked"].append((rel, why))
+
+    q["eo_sequence"] = eo_date_sequence_breaks()
 
     # catalog-derived items
     cat_items = {"not_sliceable": [], "renumbered": [], "gaps": [], "eo": []}
@@ -200,6 +239,19 @@ def render(q, cat_items, body_counts):
             "aggregate entries are rules whose own cited authority is chapter-level or "
             "not in the corpus — correct non-links, nothing to fix.",
             q["unlinked"])
+
+    section("Executive-order dates that contradict their own numbering",
+            "Order numbers are assigned sequentially within a year, so a higher number "
+            "carrying an earlier signature date means one of the two dates was misread — "
+            "usually OCR damage to the signature block, which is the least reliable part "
+            "of a scanned order. This check is independent of the parser (which validates "
+            "a date against the YEAR in its id and therefore cannot see a wrong day), and "
+            "it is what surfaced the day-truncation bug. Not every entry is an error: "
+            "orders are occasionally signed out of numeric order. Resolve by reading both "
+            "signature blocks against the source PDFs and correcting or nulling the wrong "
+            "one; `python3 src/recheck_eo_signed_dates.py` re-derives dates from the "
+            "committed extractions.",
+            q["eo_sequence"])
 
     section("Catalog: sections with no sliceable body",
             "ORS catalog entries whose section text couldn't be found in the chapter HTML "
