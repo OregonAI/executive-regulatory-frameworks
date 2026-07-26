@@ -51,8 +51,20 @@ META = EMB_DIR / "meta.json"
 
 DEFAULT_M2V = "minishlab/potion-retrieval-32M"      # static, CPU-fast fallback backend
 DEFAULT_MODEL = "BAAI/bge-large-en-v1.5"             # transformer (GPU default; 1024-dim)
-CHUNK_CHARS = 1600     # ~400 tokens
+# Chunk size is bounded from BELOW by retrieval quality and from ABOVE by GitHub's
+# hard 100 MiB per-file limit: the artifact is committed, so a build that cannot be
+# pushed is a build that cannot ship. At this corpus's size (measured, not estimated):
+#   1600 -> 230,476 chunks -> 112.5 MiB   REJECTED BY GITHUB
+#   2400 -> 186,161 chunks ->  90.9 MiB   fits, ~9% headroom
+#   3200 -> 167,844 chunks ->  82.0 MiB   fits, ~18% headroom  <- chosen
+# 3200 keeps multi-vector coverage of long statutes (the point of chunk-level over the
+# document-level index this replaces) while leaving room to grow. MAX_ARTIFACT_BYTES
+# below turns the next breach into a loud build failure rather than a failed push.
+CHUNK_CHARS = 3200     # ~800 tokens
 OVERLAP = 200
+# GitHub blocks pushes containing a file over 100 MiB. Fail while the artifact is still
+# on disk and the cause is obvious, instead of at `git push` in someone else's PR.
+MAX_ARTIFACT_BYTES = 100 * 1024 * 1024
 
 
 # ---------- searchable text + chunking ----------
@@ -314,6 +326,20 @@ def build(backend="auto", limit=None, dim=384):
     }, indent=1) + "\n")
     print(f"embedded {n} chunks ({emb.name}, dim={emb.dim}) -> "
           f"{VECTORS.relative_to(REPO_ROOT)}", flush=True)
+
+    # The artifact is committed, so an unpushable build is a broken build. Say so here,
+    # where the fix (raise CHUNK_CHARS, or move to LFS) is obvious — not at someone
+    # else's `git push`, where the error names only a file size.
+    size = VECTORS.stat().st_size
+    print(f"  artifact {size / 1048576:.1f} MiB "
+          f"({size * 100 // MAX_ARTIFACT_BYTES}% of GitHub's {MAX_ARTIFACT_BYTES // 1048576} MiB "
+          f"per-file limit)", flush=True)
+    if size >= MAX_ARTIFACT_BYTES:
+        sys.exit(
+            f"ERROR: {VECTORS.name} is {size / 1048576:.1f} MiB, at or over GitHub's "
+            f"{MAX_ARTIFACT_BYTES // 1048576} MiB per-file limit — this cannot be pushed.\n"
+            f"       Raise CHUNK_CHARS (currently {CHUNK_CHARS}) to produce fewer vectors, "
+            f"or move _meta/embeddings/ to Git LFS.")
 
 
 def check():
