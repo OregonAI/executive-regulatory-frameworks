@@ -42,8 +42,19 @@ BACKENDS, one interface (`analyze(bundles) -> {custom_id: [candidate, ...]}`):
                      keyed by custom_id and read back by custom_id, NEVER by position —
                      the API does not promise result order.
   --backend local    Any OpenAI-compatible local server (ollama, llama.cpp --server).
-                     stdlib HTTP only, no extra dependency. For prompt iteration, not for
-                     a coverage run: an 8B at 4-bit is not the quality path here.
+                     stdlib HTTP only, no extra dependency.
+
+                     A REASONING model is the difference between usable and not.
+                     Measured on identical bundles (see src/eval_conflicts.py):
+                       qwen2.5-7b   28% of quotes grounded, 12 of 25 citations
+                                    pointing at document ids that do not exist,
+                                    0/6 known candidates found, 11 flags per hit
+                       gemma4-12b   100% grounded, ZERO nonexistent ids,
+                                    4/6 found, 1.8 flags per hit
+                     Gemma's reasoning channel costs ~636s per bundle against Qwen's
+                     ~20s on an 8 GB card, because 7.2 GB of weights leaves nothing for
+                     KV cache and generation partly falls back to CPU. Quality is there;
+                     throughput is the blocker, and it is hardware, not the model.
 
   python3 src/analyze_conflicts.py --dry-run                 # what would run, and cost
   python3 src/analyze_conflicts.py --backend local --limit 3 # iterate on the prompt
@@ -297,12 +308,17 @@ Reply with ONLY a fenced ```json block, no prose before or after:
 An empty list is the correct answer when nothing qualifies."""
 
 
-# A SECOND prompt, for small local models, because the one above does not work on them.
-# Measured on qwen2.5-7b-instruct-q4_K_M: with the full SYSTEM prompt the model ignores
-# the JSON contract entirely and writes a prose summary of the rules. The cause is not
-# the wording — it is length. Compliance holds to ~3,000 input tokens and collapses
-# above it (223/1,489/2,933 tokens: valid JSON; 5,227/6,601/15,091: prose). A 7B has the
-# instruction-following budget for a short contract or a long document, not both.
+# A SECOND prompt, for small local models, because the full SYSTEM prompt above is
+# written for a frontier model and a 7B does better with a short contract.
+#
+# CORRECTION, recorded because the wrong version of this comment nearly shipped: an
+# earlier measurement claimed a hard ~3,000-token instruction-following ceiling on
+# qwen2.5-7b (valid JSON at 223/1,489/2,933 tokens, prose above). That was NOT a model
+# property. ollama defaults OLLAMA_CONTEXT_LENGTH to 4096, so every larger bundle was
+# being SILENTLY TRUNCATED before the model saw it — the "ceiling" was exactly the
+# default window. Re-run with OLLAMA_CONTEXT_LENGTH=32768, the same model holds the
+# contract at 14,288 tokens. Always check `ollama ps` for the CONTEXT column before
+# concluding anything about a local model's capability.
 #
 # So this keeps only the guardrails that cannot be given up, and drops the rest:
 #   - quotes must be copied, never composed  (the grounding check depends on it)
@@ -421,7 +437,7 @@ class LocalBackend:
     not drag in a dependency the Claude path doesn't need."""
     name = "local"
 
-    def __init__(self, model: str, base_url: str, max_tokens: int = 4000,
+    def __init__(self, model: str, base_url: str, max_tokens: int = 8000,
                  timeout: int = 900, system: str | None = None):
         self.model = model
         self.system = system or LOCAL_SYSTEM

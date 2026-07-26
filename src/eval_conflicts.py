@@ -170,6 +170,14 @@ def main():
     ap.add_argument("--max-context-tokens", type=int, default=24000)
     ap.add_argument("--tier", choices=["section", "cluster", "pairwise", "all"],
                     default="section")
+    ap.add_argument("--chapters",
+                    help="comma-separated ORS chapters, for a candidate-dense subset "
+                         "that two models can both be run over in reasonable time")
+    ap.add_argument("--max-output-tokens", type=int, default=8000,
+                    help="reply budget. Gemma 4 emits a separate `reasoning` channel that "
+                         "consumed 3,880 tokens BEFORE its answer on a 2.6k-token bundle; "
+                         "with too small a budget `content` comes back EMPTY and looks "
+                         "exactly like a model that refused. 12000+ for reasoning models.")
     ap.add_argument("--limit-chapters", type=int,
                     help="calibrate on the first N eval chapters before the full run")
     ap.add_argument("--limit-bundles", type=int)
@@ -182,6 +190,9 @@ def main():
     paths = {n["id"]: n["path"] for n in graph["nodes"]}
 
     chapters = [str(c["ors_chapter"]).lower() for c in cat["chapters"]]
+    if args.chapters:
+        want = {c.strip().lower() for c in args.chapters.split(",")}
+        chapters = [c for c in chapters if c in want]
     if args.limit_chapters:
         chapters = chapters[:args.limit_chapters]
     known = {fp: k for fp, k in known_candidates(cat).items()
@@ -206,7 +217,8 @@ def main():
         print("\nnothing was called — this is --dry-run.")
         return
 
-    results, status = AC.LocalBackend(args.model, args.local_url).run(bundles)
+    results, status = AC.LocalBackend(args.model, args.local_url,
+                                      max_tokens=args.max_output_tokens).run(bundles)
     AC._report_status(status)
 
     # Persist the raw model output IMMEDIATELY, before any analysis touches it. A shape
