@@ -1,44 +1,48 @@
-note: >
-  CURATED, AI-ASSISTED, NOT mechanically derived and NOT legally reviewed. Produced by an
-  exploratory pilot (2026-07-22, extended 2026-07-23): for each ORS chapter with 2+ agencies
-  implementing it via OAR rules (the shared-authority set already computed in
-  _meta/agency-graph.json), an LLM read the chapter's cited statute text plus every
-  implementing rule's full text in one pass and was asked to identify CANDIDATE
-  inconsistencies — never to assert that a conflict exists. Every candidate below carries
-  the exact document IDs and quoted text it is based on; nothing here should be read as a
-  legal finding. See BACKLOG.md "Visualization" for the method note and docs/mcp.md-style
-  disclaimers used elsewhere in this repo. This file is a snapshot of three runs over 60
-  distinct chapters (of 245 in the full shared-authority set), not an exhaustive or
-  automatically-refreshed corpus scan — rerunning the pilot over the same or different
-  chapters could surface different candidates. 13 chapters were re-analyzed a second time
-  (batch 2, cheaper model) and a third time (batch 3, back to Sonnet) after a real
-  model-quality gap surfaced between batches — see per-chapter notes.
+schema_version: 2
+note: 'CURATED, AI-ASSISTED, NOT mechanically derived and NOT legally reviewed. Produced by an exploratory
+  pilot (2026-07-22, extended 2026-07-23): for each ORS chapter with 2+ agencies implementing it via OAR
+  rules (the shared-authority set already computed in _meta/agency-graph.json), an LLM read the chapter''s
+  cited statute text plus every implementing rule''s full text in one pass and was asked to identify CANDIDATE
+  inconsistencies — never to assert that a conflict exists. Every candidate below carries the exact document
+  IDs and quoted text it is based on; nothing here should be read as a legal finding. See BACKLOG.md "Visualization"
+  for the method note and docs/mcp.md-style disclaimers used elsewhere in this repo. This file is a snapshot
+  of three runs over 60 distinct chapters (of 245 in the full shared-authority set), not an exhaustive
+  or automatically-refreshed corpus scan — rerunning the pilot over the same or different chapters could
+  surface different candidates. 13 chapters were re-analyzed a second time (batch 2, cheaper model) and
+  a third time (batch 3, back to Sonnet) after a real model-quality gap surfaced between batches — see
+  per-chapter notes.
+
+  '
+schema: 'Per candidate: summary, documents[{id, citation, quote}], optional note; then the v2 envelope
+  — run_id / model / prompt_version identify what produced it, confidence and severity are the model''s
+  own graded assessment (low|medium|high, or null when the producing run did not elicit them), and triage.status
+  is the HUMAN verdict (unreviewed|confirmed|dismissed). Triage is what makes re-analysis safe: a later
+  run matches candidates on (ors_chapter + the set of cited document ids) and carries triage forward,
+  so a dismissed finding stays dismissed instead of reappearing every pass. null in confidence/severity/model
+  means NOT RECORDED, never ''none'' or ''low''.'
 retrieved: '2026-07-23'
-methodology: >
-  Per chapter: pull every ORS section cited as authority by an implementing OAR rule in that
-  chapter, plus the full text of every one of those rules (source: _meta/graph.json
-  implements/implemented_by edges). Give the whole cluster to an LLM in one pass (not
-  pairwise) and ask for candidate inconsistencies with quotes and citations, near-misses
-  that looked like conflicts but resolved as non-issues on careful reading, and any
-  citation-metadata artifacts noticed along the way.
-  Batch 1 (2026-07-22, 12 chapters, Sonnet): 3 chosen for moderate agency count + high
-  staleness lag (801, 819, 435 — zero candidates found), then 9 more chosen the same way
-  (215, 408, 270, 646, 169, 283, 291, 820, 813 — ~15 candidates found).
-  Batch 2 (2026-07-23, 20 chapters — the same 12 re-run plus 8 new: 163, 163A, 166, 167,
-  419A, 814, 244, 419C — Haiku, for cost control at high monthly token usage): re-running
-  the original 12 after corpus data-quality fixes surfaced a real recall gap between models
-  — the cheaper model found zero candidates on 813/820, where batch 1 had flagged some.
-  Batch 3 (2026-07-23, 53 chapters — the same 13 chapters batch 2 touched, re-run a third
-  time on Sonnet, plus 40 brand-new chapters — all Sonnet, after confirming the cheaper
-  model materially undercounted): batch 3 supersedes batch 2 for all 13 overlapping
-  chapters (those chapter entries below are the batch-3/Sonnet version; batch-2/Haiku
-  findings for the same chapters are noted inline where the two runs disagreed rather than
-  kept as separate entries). Batch 3 found dramatically more candidates than batch 2 on the
-  same chapters (roughly 3x), confirming the recall gap was real and not chapter-specific.
-  Selection for the 40 new chapters in batch 3: the 40 smallest-by-implementing-rule-count
-  chapters remaining in the shared-authority set, to bound token cost while extending
-  coverage — this biases the sample toward simpler/narrower regulatory domains, so treat
-  the batch-3 "clean chapter" rate as not necessarily representative of larger chapters.
+methodology: 'Per chapter: pull every ORS section cited as authority by an implementing OAR rule in that
+  chapter, plus the full text of every one of those rules (source: _meta/graph.json implements/implemented_by
+  edges). Give the whole cluster to an LLM in one pass (not pairwise) and ask for candidate inconsistencies
+  with quotes and citations, near-misses that looked like conflicts but resolved as non-issues on careful
+  reading, and any citation-metadata artifacts noticed along the way. Batch 1 (2026-07-22, 12 chapters,
+  Sonnet): 3 chosen for moderate agency count + high staleness lag (801, 819, 435 — zero candidates found),
+  then 9 more chosen the same way (215, 408, 270, 646, 169, 283, 291, 820, 813 — ~15 candidates found).
+  Batch 2 (2026-07-23, 20 chapters — the same 12 re-run plus 8 new: 163, 163A, 166, 167, 419A, 814, 244,
+  419C — Haiku, for cost control at high monthly token usage): re-running the original 12 after corpus
+  data-quality fixes surfaced a real recall gap between models — the cheaper model found zero candidates
+  on 813/820, where batch 1 had flagged some. Batch 3 (2026-07-23, 53 chapters — the same 13 chapters
+  batch 2 touched, re-run a third time on Sonnet, plus 40 brand-new chapters — all Sonnet, after confirming
+  the cheaper model materially undercounted): batch 3 supersedes batch 2 for all 13 overlapping chapters
+  (those chapter entries below are the batch-3/Sonnet version; batch-2/Haiku findings for the same chapters
+  are noted inline where the two runs disagreed rather than kept as separate entries). Batch 3 found dramatically
+  more candidates than batch 2 on the same chapters (roughly 3x), confirming the recall gap was real and
+  not chapter-specific. Selection for the 40 new chapters in batch 3: the 40 smallest-by-implementing-rule-count
+  chapters remaining in the shared-authority set, to bound token cost while extending coverage — this
+  biases the sample toward simpler/narrower regulatory domains, so treat the batch-3 "clean chapter" rate
+  as not necessarily representative of larger chapters.
+
+  '
 chapters:
 - ors_chapter: '291'
   agencies: 9
@@ -63,6 +67,17 @@ chapters:
       triggers. Possible the AG has separate unquoted statutory authority for this; possible the rule
       (last touched 2011) never caught up with the statute. Batch 1 and batch 2 (re-check, 2026-07-23)
       both surfaced this same candidate independently — high-confidence finding.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: Stale internal cross-reference to a rule number that doesn't exist in the corpus.
     documents:
     - id: oar-122-040-0060
@@ -72,12 +87,24 @@ chapters:
     note: No OAR 122-040-0020 exists; division 040 in this corpus contains only -0040, -0050, -0060. The
       matching deadline text is actually in OAR 122-040-0050(1). Reads as an orphaned cross-reference
       from a prior renumbering. Confirmed again in the batch-2 re-check (2026-07-23).
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - OAR 137-045-0020 statutes_implemented includes "OL 1997" and "Ch. 869" — fragments of "Oregon Laws
     1997, chapter 869" split into pseudo-citations.
   - OAR 461-190-0211 statutes_implemented includes federal CFR cites incorrectly prefixed "ORS" (e.g.
     "ORS 45 CFR 260.20").
   - OAR 813-003-0001 legal_authority includes a bare "ORS 183" (a whole chapter, not a section).
+  run_id: pilot-2026-07
 - ors_chapter: '215'
   agencies: 3
   rules_reviewed: 37
@@ -97,6 +124,17 @@ chapters:
       the cap differs. Possibly each routes from a different table entry not visible in the rule text
       alone — needs agency/legal confirmation. Not re-surfaced by the batch-2 (2026-07-23) re-check, which
       instead found a different candidate below — see chapter-level note.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: '[batch 1] Rule text contains a self-declared 1995 sunset clause but the document is catalogued
       status: current with no note.'
     documents:
@@ -106,6 +144,17 @@ chapters:
     note: May be intentional legacy retention for numbering continuity (common in OAR), but as catalogued
       it presents as a currently-binding requirement that facially expired 30 years ago. Not re-surfaced
       by the batch-2 re-check.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: '[batch 2, 2026-07-23 re-check] Farm-dwelling gross-income threshold in the implementing
       rule is double the statute''s, for counties not using the marginal-lands system.'
     documents:
@@ -121,6 +170,17 @@ chapters:
       doubled threshold outside that carve-out was an intentional LCDC policy choice, but the rule text
       doesn't on its face show statutory authority to raise the general-case number. Not surfaced by the
       batch-1 pass, which was looking at a different part of this same rule (the acreage caps above).
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   note: Batch 1 and batch 2 found *different* candidates in the same rule cluster rather than confirming
     or contradicting each other — read this chapter's candidates as a union of two partial passes over
     a large document set (37 implementing rules), not as agreement.
@@ -131,6 +191,7 @@ chapters:
   - OAR 603-080-0020 statutes_implemented lists "ORS 215.70" — truncated, almost certainly "215.705".
   - ~10 OAR 660-006 rules carry "Ch. 792" / "ORS 1993 OL" fragments of a single Oregon Laws citation,
     not parseable as ORS section numbers.
+  run_id: pilot-2026-07
 - ors_chapter: '270'
   agencies: 3
   rules_reviewed: 47
@@ -152,6 +213,17 @@ chapters:
     note: For the $5,001-$25,000 band, ODOT's schedule is fewer/shorter publications than the statute's
       flat standard. ORS 270.130 contains no visible ODOT carve-out. Confirmed independently by both batch
       1 and the batch-2 re-check (2026-07-23) — high-confidence finding.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: '[batch 1 only] A DAS rule defines two statutory cross-reference terms differently than the
       statute''s own definitions section, while a third parallel term in the same rule matches exactly.'
     documents:
@@ -166,6 +238,17 @@ chapters:
     note: The third parallel term ('urban unincorporated community') is defined identically in both, citing
       ORS 197.015 — which makes these two divergences stand out. Whether ORS 195.060/195.145 carry equivalent
       definitions to 197.015/197A.245 is outside this corpus. Not re-surfaced by the batch-2 re-check.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: '[batch 1 only] A 1990 ODOT rule, unamended since, uses a one-year figure that doesn''t map
       cleanly onto the statute''s 2017-amended 18-month/12-month figures.'
     documents:
@@ -180,6 +263,17 @@ chapters:
     note: Rule predates the 2017 statutory amendment by 27 years with no visible update. Flagged as a
       staleness candidate — the concept mapping between rule and statute isn't precise enough to call
       this a direct numeric contradiction. Not re-surfaced by the batch-2 re-check.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   note: The publication-notice finding (first candidate) is corroborated across both batches. The other
     two batch-1 findings were not re-surfaced by the batch-2 (Haiku) re-check on 2026-07-23 — treat those
     two as lower-confidence pending a third look.
@@ -187,6 +281,7 @@ chapters:
   - OAR 141-067-0215 statutes_implemented contains "ORS 273.413 - RS 273.456" — missing the "O" in "ORS".
   - OAR 141-067-0310 mixes an OAR self-reference into a statute-citation field, with a typo ("141-167"
     for "141-067").
+  run_id: pilot-2026-07
 - ors_chapter: '408'
   agencies: 9
   rules_reviewed: 54
@@ -204,6 +299,17 @@ chapters:
       rule predating a later statutory change. The same rule section correctly defers 'veteran' to the
       statute by reference but chose to restate 'immediate family' independently, narrowing it. Confirmed
       again by the batch-2 re-check (2026-07-23).
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule's grant cap is double the statute's, citing a 2026 bill the corpus's statute snapshot
       may not yet reflect.
     documents:
@@ -217,6 +323,17 @@ chapters:
       lagging a newer law), not a live conflict. If it didn't, this is a rule exceeding its enabling statute's
       cap. Not resolved in-corpus; needs the bill text. Confirmed again by the batch-2 re-check (2026-07-23),
       still unresolved.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - OAR 274-010-0100 and OAR 274-012-0001 use "ORS 2013 HB 2633" / "2013 HB 2633" as if it were an ORS
     section number — it's a bill number.
@@ -224,6 +341,7 @@ chapters:
     text notes 408.530 was renumbered to 408.395 in 1999; 408.510 doesn't appear to exist in the retrieved
     chapter at all.
   - Many OAR rule titles are truncated to single dangling words ("Who", "Lost,", "Additional").
+  run_id: pilot-2026-07
 - ors_chapter: '646'
   agencies: 7
   rules_reviewed: 54
@@ -245,6 +363,17 @@ chapters:
       the first should, per the statute, still be capped at the first-violation ceiling. Needs confirmation
       whether the reset is applied in unwritten agency practice. Not re-surfaced by the batch-2 re-check,
       which found a different candidate below.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: '[batch 2, 2026-07-23 re-check] A telephonic-seller disclosure rule drops the statute''s
       ''12 months'' qualifier, leaving the reporting period undefined.'
     documents:
@@ -263,6 +392,17 @@ chapters:
     note: The rule omits the '12' qualifier present in the statute. Creates ambiguity about whether the
       disclosure period is 12 months or unspecified. Requires human/legal review to determine if this
       is stale rule text or a transcription artifact. Not surfaced by the batch-1 pass.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   note: Batch 1 and batch 2 surfaced different candidates in this 54-rule cluster rather than confirming
     each other — read as a union of two partial passes, not agreement.
   artifacts:
@@ -270,6 +410,7 @@ chapters:
     — a citation like "ORS 646.608(1)(u) & (4)" split across array entries, leaving a bare fragment as
     its own item.
   - 'OAR 603-111-0020 statutes_implemented: "ORS 646932" — missing the period.'
+  run_id: pilot-2026-07
 - ors_chapter: '169'
   agencies: 3
   rules_reviewed: 13
@@ -302,6 +443,17 @@ chapters:
       reflected in this corpus — but that reading isn''t confirmed against ORS 419C.453 itself, which
       is outside this pilot''s cluster. Confirmed independently by both batch 1 and the batch-2 re-check
       (2026-07-23) — high-confidence finding.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ors-169.090's title field reads "...juvenile detention facility operation TREATMENT OF PRISONERS"
     — a later section heading bled into this section's title during chapter-snapshot slicing.
@@ -309,6 +461,7 @@ chapters:
   - OAR 291-167-0005, -0010, -0015 all list statutes_implemented as a single sweeping range "ORS 169.070
     - 169.750" rather than the specific sections actually referenced in the rules' own text (169.070,
     169.076-078, 169.740, 419A.052, 419B.180) — noted again in the batch-2 re-check.
+  run_id: pilot-2026-07
 - ors_chapter: '283'
   agencies: 4
   rules_reviewed: 46
@@ -321,6 +474,7 @@ chapters:
     and" for "Approval and Execution of Financing Agreements"; ors-283.140's title is literally "and").
   - 'OAR 125-156-0000 legal_authority: ["2010 OL Ch. 30", "Sec. 13", "14"] — one citation incorrectly
     split into three array entries, with a bare orphaned "14".'
+  run_id: pilot-2026-07
 - ors_chapter: '813'
   agencies: 8
   rules_reviewed: 87
@@ -339,6 +493,7 @@ chapters:
     "ORS 813.500", which does not appear to exist in ORS chapter 813.
   - Inconsistent bare-vs-ORS-prefixed citation style across several statutes_implemented/legal_authority
     fields (e.g. oar-291-208-0030 lists "813.011" with no prefix).
+  run_id: pilot-2026-07
 - ors_chapter: '820'
   agencies: 4
   rules_reviewed: 92
@@ -357,6 +512,17 @@ chapters:
         of more than 26,000 pounds...'
     note: Same-rule internal definitional gap rather than statute-vs-rule; flagged because SPAB is defined
       as a subtype of motor coach yet a boundary vehicle qualifies as one but not the other.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: 'A graph-completeness bug: ORS 820.100''s implemented_by list omits OAR 581-053-0120, though
       that rule''s own frontmatter cites ORS 820.100 as both legal_authority and statutes_implemented
       — traced to a missing space in the rule''s own citation string.'
@@ -366,9 +532,21 @@ chapters:
       quote: ORS820.100, ORS 820.105, ORS 820.110, ORS 820.120
     note: Companion statutes 820.105/820.110/820.120 DO list oar-581-053-0120 correctly, confirming this
       is an isolated citation-formatting bug, not a deliberate omission.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - '"ORS820.100" (missing space) in oar-581-053-0120 legal_authority/statutes_implemented — root cause
     of the missing graph edge above.'
+  run_id: pilot-2026-07
 - ors_chapter: '801'
   agencies: 4
   rules_reviewed: 29
@@ -386,6 +564,17 @@ chapters:
       quote: approved by the Department of State Police, after consultation with the Board on Public Safety
         Standards and Training (BPSST), for use by sworn police officers...
     note: Rule cluster (OAR 257-025-0000 to -0025) unamended since 1996-97; statute amended 2017/2021/2023.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A DMV rule cites a subsection lettering of ORS 801.375 that no longer exists in the current
       statute text.
     documents:
@@ -398,6 +587,17 @@ chapters:
         if the lessee is entitled to possession and use...
     note: The lessor/lessee provision now sits at (2)(b), not (1)(b); subsection (1) has no lettered subparts.
       Rule (1991) predates the 1993 statutory amendment that likely renumbered this.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: Three DMV registration-fee rules (last touched 1999-2018) predate ORS 801.040/.041/.042's
       2025 amendment.
     documents:
@@ -410,6 +610,17 @@ chapters:
       quote: 'statutes_implemented: ORS 801.040, ORS 801.041, ORS 801.042'
     note: 'Caveat: the 2025 amendment''s own effect is contingent on a referendum outcome, so this is
       a watch-list staleness flag, not a confirmed live conflict.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: ORS 801.465, last amended 2025 (adding a cross-reference to ORS 71.2010(2)(jj) for 'security
       interest'), is implemented by a rule dated 2004 that doesn't engage the new cross-reference.
     documents:
@@ -420,11 +631,23 @@ chapters:
       citation: OAR 735-020-0020, effective 2004-05-24
       quote: uses 'security interest' without restating or updating for the 2025 definitional cross-reference.
     note: Not a textual contradiction (no restated definition to conflict with) — a staleness flag only.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - OAR 735-010-0170 statutes_implemented embeds a subsection reference directly in the citation string
     ("ORS 801.040(6) & (7)"), inconsistent with the bare-citation format used elsewhere in the cluster.
   - Several rules mix Oregon-Laws-chapter citations ("Ch. 233", "OL 1993") and one federal-CFR citation
     ("6 CFR §37.3") into otherwise ORS-only legal_authority lists.
+  run_id: pilot-2026-07
 - ors_chapter: '819'
   agencies: 3
   rules_reviewed: 22
@@ -442,6 +665,17 @@ chapters:
         p.m. to 7 p.m. local time if the vehicle has a gross vehicle weight of more than 26,000 pounds
     note: Statute gives OTC authority for 'additional criteria,' but restating the same criterion with
       different numbers isn't obviously 'additional.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A currently-effective DMV rule cites a repealed ORS section (819.020, repealed 1991) as authority
       for a 'totaled' vehicle brand designation.
     documents:
@@ -451,12 +685,24 @@ chapters:
         'totaled' under ORS 819.020 or 819.014...
     note: The substantively parallel provision is ORS 819.012, used correctly elsewhere in the same rule
       (subsection 5(e)) — reads as an uncorrected typo surviving a 2020 amendment.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - OAR 735-024-0120's relationships.implements/legal_authority omit ORS 819.012 despite the rule's own
     operative text hinging on it twice.
   - Three rules (oar-735-020-0012, -735-150-0250, -735-150-0260) still cite the stale "ORS 819.230" instead
     of its 2007 renumbering to ORS 819.480.
   - '"ORS 819. 018" (stray space) in oar-735-024-0130.'
+  run_id: pilot-2026-07
 - ors_chapter: '435'
   agencies: 5
   rules_reviewed: 10
@@ -474,6 +720,17 @@ chapters:
         in accordance with ORS 441.044.
     note: Either the statute has a citation error (likely meant 435.254), or the rule has silently redefined
       the complaint-response scope.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule narrows the statute's unqualified emergency-contraception provision to victims 'of
       any child bearing age,' a term the statute never uses.
     documents:
@@ -485,6 +742,17 @@ chapters:
       quote: provide the victim of any child bearing age with emergency contraception immediately at the
         hospital
     note: Undefined term could exclude prepubescent assault victims from the immediate-provision requirement.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule (oar-461-135-0010, DHS Medicaid eligibility) is graph-linked as implementing ORS 435.120
       (contraceptive-license-fee disposition) but its own text cites only the unrelated federal reg 42
       CFR 435.120.
@@ -495,11 +763,23 @@ chapters:
         CFR 435.120", never "ORS 435.120".'
     note: Appears to be a mechanical conflation of "42 CFR 435.120" with "ORS 435.120" — the likely reason
       this Medicaid rule was pulled into an ORS-435 cluster at all.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - Systematic ORS/CFR conflation across the OAR 410-200 series ("ORS 435.1200", "ORS 435.3" etc. are
     almost certainly unlabeled 42 CFR Part 435 citations).
   - '"ORS 89 FR 39392" — a Federal Register citation mislabeled with an ORS prefix.'
   - Truncated statute titles (ors-435.190, ors-435.235, ors-435.254).
+  run_id: pilot-2026-07
 - ors_chapter: '163'
   agencies: 4
   rules_reviewed: 21
@@ -512,6 +792,17 @@ chapters:
         only the title/header, no operative text.'
     note: ORS 163.575 (last amended 2017) lists this repealed rule as its sole implementer with no successor
       identified.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A Board of Parole rule states a stricter default voting threshold (full-board unanimity)
       than the statute's actual default (three-member panel unanimity).
     documents:
@@ -526,6 +817,17 @@ chapters:
         in statute, finds that the AIC is capable of rehabilitation...
     note: The statute's three-member default is relegated to a vague trailing clause rather than stated
       directly.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A CJC sentencing rule classifies ORS 163.445 (Sexual Misconduct, statutorily a Class C misdemeanor
       with no felony variant) as a felony in its 'person felonies' list.
     documents:
@@ -535,6 +837,17 @@ chapters:
     - id: oar-213-003-0001
       citation: OAR 213-003-0001(14)
       quote: '...ORS 163.445 Sexual Misconduct (If person over 18) (Felony)...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The same rule cites the wrong statute number AND misclassifies 'Contributing to Sexual Delinquency
       of a Minor' as a felony.
     documents:
@@ -546,6 +859,17 @@ chapters:
       quote: '...ORS 167.435 Contributing to Sexual Delinquency of Minor (Felony)...'
     note: '"ORS 167.435" does not exist in this chapter — the rule''s own statutes_implemented field correctly
       says "ORS 163.435"; only the body-text list entry is garbled.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: OAR 213-005-0001 formally lists ORS 163.165(2) as an implemented statute but its operative
       text never engages assault classification at all.
     documents:
@@ -556,11 +880,23 @@ chapters:
       citation: ORS 163.165, last_amended 2021
       quote: (no corresponding reference found anywhere in oar-213-005-0001's operative text)
     note: Rule (2012) predates the statute's 2021 substantive amendments; reads as a stale/orphaned citation.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-736-010-0040 legal_authority mislabels three ORS citations with an "OAR" prefix ("OAR 390.124",
     "OAR 164.245", "OAR 164.805").
   - oar-213-003-0001 statutes_implemented contains garbled entries ("Sections 2", "ORS 3") from a mis-split
     "Sections 2 & 3" citation.
+  run_id: pilot-2026-07
 - ors_chapter: 163a
   agencies: 3
   rules_reviewed: 51
@@ -576,6 +912,17 @@ chapters:
       citation: OAR 859-400-0020(1), effective 2016
       quote: this assessment will take place no later than 60 days of the registrant's discharge or conditional
         release.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A BOPPPS burglary-disqualification rule cites a narrower subparagraph range than the current
       statute.
     documents:
@@ -587,6 +934,17 @@ chapters:
       citation: OAR 255-087-0020(3)(b)(A), 2018
       quote: '...offenses listed in ORS 163A.005(5)(a) to (w)...'
     note: Rule (2018) predates the statute's current list and omits two disqualifying categories (x, y).
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: Two agencies set different reapplication waiting periods after a denied relief-from-reporting
       petition, though both implement the same statute, which is silent on the interval.
     documents:
@@ -596,6 +954,17 @@ chapters:
     - id: oar-255-087-0090
       citation: OAR 255-087-0090(5), BOPPPS, 2018
       quote: after 36 months from the date of denial.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A DSP rule collapses the statute's four-category 'sex offender' definition into two and drops
       the explicit juvenile cross-reference.
     documents:
@@ -607,6 +976,17 @@ chapters:
       citation: OAR 257-070-0015(4), 2022
       quote: '''Sex offender'' means a person convicted, adjudicated or found guilty of a crime: (a) That
         would constitute a sex crime if convicted in this state; or (b) ...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: '''Category B sex crime'' is anchored to a living, board-maintained website by one agency
       and to a static 2003 coding manual by the other, though both classify the same offender population''s
       registration level.'
@@ -619,10 +999,22 @@ chapters:
       citation: OAR 859-400-0005(4), PSRB, 2018
       quote: '''Category B sex crime'' means any type of criminal offense within the scope of ''Category
         B offenses'' listed in the Static-99 Coding Rules (Revised 2003).'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - Legislative-history fragments ("Section 7", "Chapter 708", "Oregon Laws 2013") atomized into separate
     statutes_implemented list items across most 255-085/255-087/859-400 rules.
   - ors-163a.110 title concatenates the section title with an editorial "Note:" caption.
+  run_id: pilot-2026-07
 - ors_chapter: '166'
   agencies: 5
   rules_reviewed: 19
@@ -640,6 +1032,17 @@ chapters:
         if the person purchasing the firearm is disqualified under Oregon (ORS 166.470) and Federal Law...
     note: None of the seven OSP rules in this cluster mention a permit-to-purchase, ORS 166.505, or 166.503/166.508
       anywhere.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: Three CJC sentencing-guidelines rules apply the mandatory Department-custody consequence
       in ORS 166.070(2) to the whole subsection, though the statute's mandatory-custody language is textually
       limited to (1)(a) convictions only.
@@ -653,6 +1056,17 @@ chapters:
       citation: OAR 213-008-0005(5)
       quote: terms of incarceration 12 months or less imposed pursuant to ORS 166.070(2) shall be served
         in the legal and physical custody of the Department.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: Four CJC crime-category rules (division 213-017) carry near-identical statutes_implemented
       footers (ORS 164.889/166.642/166.643) regardless of which offense each rule actually classifies
       — a boilerplate-copy error, not a substantive conflict, but capable of misleading a reader about
@@ -662,8 +1076,20 @@ chapters:
       citation: OAR 213-017-0007 (CC5), statutes_implemented
       quote: ORS 166.643 — but body armor possession (166.643) is actually classified in OAR 213-017-0008
         (CC4).
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - '"OS 181A.230" (missing R) in oar-257-010-0035 legal_authority.'
+  run_id: pilot-2026-07
 - ors_chapter: '167'
   agencies: 5
   rules_reviewed: 20
@@ -683,11 +1109,23 @@ chapters:
         be acquired without contributing something of economic value.'
     note: Matters because 'raffle' status is a statutory exception to unlawful gambling — but only when
       operated by a charitable/fraternal/religious org.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - OAR 137-025 series mislabels bare session-law years as ORS citations ("ORS 1997", "ORS 2003") and
     cites a bare "ORS 914" (likely an OL chapter number, not a real ORS chapter).
   - OAR 213-003-0001/213-017-0006 statutes_implemented splits Oregon-Laws chapter numbers into individual
     pseudo-ORS citations ("ORS 510", "ORS 635", etc.).
+  run_id: pilot-2026-07
 - ors_chapter: 419a
   agencies: 3
   rules_reviewed: 31
@@ -704,9 +1142,21 @@ chapters:
       quote: 'History: CWP 25-2021, repeal filed 11/01/2021, effective 11/01/2021 ... (full text is empty
         — title only)'
     note: Same pattern identically across oar-413-350-0100/-0110/-0120/-0130/-0140.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-413-010-0035 cites "ORS 419A.263", which doesn't appear among this cluster's 9 statutes.
   - 'oar-413-010-0035 legal_authority: "ORS 409.050 & ORS 418.005. 418.340" (period instead of separator).'
+  run_id: pilot-2026-07
 - ors_chapter: 419c
   agencies: 8
   rules_reviewed: 91
@@ -728,6 +1178,17 @@ chapters:
       citation: OAR 423-150-0010(2), 2019
       quote: must detain the juvenile in accordance with an extended detention program plan approved by
         the Youth Development Council.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: Two agencies (OHA and PSRB) define 'Qualifying Mental Disorder' in materially different terms
       for overlapping statutory concepts under ORS 419C.520.
     documents:
@@ -740,6 +1201,17 @@ chapters:
       quote: manifested by developmental delay or disability if a mental deficiency exists concurrently
         with qualitative deficits in activities of daily living and is not otherwise attributable to mental
         illness or substance abuse...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: Several PSRB rules still cite ORS 419C.544 as live authority though it was repealed by the
       2025 legislative session.
     documents:
@@ -750,8 +1222,20 @@ chapters:
       citation: 'OAR 859-530-0010, effective 2024, status: current'
       quote: 'Statutes/Other Implemented: ... 419C.540, 419C.544'
     note: Same pattern in oar-859-550-0015 and oar-859-560-0050.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - 'oar-309-090-0010 statutes_implemented: "ORS 161-392" (hyphen instead of period).'
+  run_id: pilot-2026-07
 - ors_chapter: '814'
   agencies: 4
   rules_reviewed: 12
@@ -769,6 +1253,17 @@ chapters:
       citation: OAR 737-010-0005
       quote: '''Enclosed Cab'' for the purposes of ORS 814.290(1), is a three-wheeled vehicle, such as
         a motorcycle or moped...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The entire OAR 734-058 division (8 rules) implementing ORS 814.070 has a single 2008 filing
       date, while the statute has been amended three times since (2009, 2011, 2013).
     documents:
@@ -779,11 +1274,23 @@ chapters:
       citation: OAR 734-058-0010, effective 2008-08-26
       quote: identical single filing date across all eight sibling rules in the division.
     note: Facial staleness signal; substantive divergence not confirmable from this cluster alone.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - 'oar-735-108-0090 legal_authority garbling: "ORS 816.050.Stats. Imp.: ORS 814.320" (metadata label
     spliced into a citation string).'
   - ors-814.600 title has a trailing "PEDESTRIANS (Traffic Control Devices)" fragment bled in from the
     source page.
+  run_id: pilot-2026-07
 - ors_chapter: '244'
   agencies: 5
   rules_reviewed: 47
@@ -793,6 +1300,17 @@ chapters:
     - id: oar-199-001-0040
       citation: 'OAR 199-001-0040, status: current'
       quote: 'History: GEC 15-2021, repeal filed 12/07/2021, effective 12/30/2021 ... (full text is empty)'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: Three OAR 199-010 rules implementing ORS 244.290's lobbyist-reporting chain were repealed
       in 2021 but are still marked current and mixed into the statute's implemented_by list with no differentiation.
     documents:
@@ -805,10 +1323,22 @@ chapters:
     - id: oar-199-010-0100
       citation: 'OAR 199-010-0100 ("Filing Deadlines"), status: current'
       quote: 'History: GEC 15-2021, repeal filed 12/07/2021, effective 12/30/2021'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - 'oar-199-005-0010(1) body text: "ORS 244.020( 7 [6] )(b)(C)" — stray bracketed fragment.'
   - 'oar-199-005-0025 statutes_implemented: "ORS 244.0020" (extra zero).'
   - Multiple 199-008 rules carry pre-2021-renumbering source_urls that don't match their current citation/id.
+  run_id: pilot-2026-07
 - ors_chapter: '165'
   agencies: 2
   rules_reviewed: 2
@@ -826,9 +1356,21 @@ chapters:
       quote: A licensee or third-party delivery facilitator permittees using a person under the age of
         21 years for the purpose of investigating possible violations by employees of the licensee or
         delivery persons of the third-party delivery facilitator...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-845-009-0200 body text has a garbled/mangled authority footer ("(1) & (5)" fragment separated
     from its statute number).
+  run_id: pilot-2026-07
 - ors_chapter: '198'
   agencies: 2
   rules_reviewed: 2
@@ -839,6 +1381,7 @@ chapters:
   - ors-198.955's enacted/last_amended years (1969/2009) don't match the section's own bracket citation
     (...1991), likely corrupted by trailing renumbered-section stubs (198.973-198.990) bleeding into the
     sliced text.
+  run_id: pilot-2026-07
 - ors_chapter: '113'
   agencies: 2
   rules_reviewed: 3
@@ -854,6 +1397,17 @@ chapters:
       citation: OAR 461-135-0834(1)-(2)
       quote: (1) [113.145 notices — no death-record requirement stated] ... (2) A person required by ORS
         114.456 ... must also include a copy of the decedent's long form death record...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A DHS rule (OAR 461-135-0838, single 1991 filing, never amended) cites ORS 113.145 as authority
       though the statute has been amended 9 times since, including 2017.
     documents:
@@ -863,9 +1417,21 @@ chapters:
     - id: oar-461-135-0838
       citation: OAR 461-135-0838, effective 1991-07-01
       quote: 'History: AFS 13-1991, f. & cert. ef. 7-1-91 (only entry)'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-461-135-0838's relationships.implements lists ors-113.145, but the rule's own "Statutes/Other
     Implemented" line omits it — 113.145 only appears in the rule's authority line.
+  run_id: pilot-2026-07
 - ors_chapter: '106'
   agencies: 3
   rules_reviewed: 5
@@ -877,6 +1443,7 @@ chapters:
     in its 105-entry AFH definitions text.
   - Same rule's legal_authority/statutes_implemented/relationships.implements three-way disagree on whether
     the target is ORS 441.111 or ORS 441.122.
+  run_id: pilot-2026-07
 - ors_chapter: '332'
   agencies: 4
   rules_reviewed: 4
@@ -892,6 +1459,17 @@ chapters:
       citation: OAR 581-022-2005(1)(d)
       quote: 'The veteran served in Armed Forces of the United States during: ... (E) Operation Urgent
         Fury (Grenada) ... (J) Operation Iraqi Freedom (Iraq)...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The same rule adds a 'did not complete a high school diploma' requirement the statute doesn't
       contain.
     documents:
@@ -901,6 +1479,17 @@ chapters:
     - id: oar-581-022-2005
       citation: OAR 581-022-2005(1)(b)
       quote: The veteran attended a high school, but did not complete a high school diploma, before serving...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule cites ORS 332.158 as authority for public-charter-school facility rules, though ORS
       332.158(4) expressly excludes public charter schools from that section's scope.
     documents:
@@ -910,8 +1499,20 @@ chapters:
     - id: oar-581-026-0600
       citation: OAR 581-026-0600, statutes_implemented
       quote: ORS 332.158 & ORS 338 — rule text is entirely about "Public Charter School Facility Location".
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-333-061-0400 cites ORS 332.334 substantively in its own text but omits it from statutes_implemented/relationships.implements.
+  run_id: pilot-2026-07
 - ors_chapter: '131'
   agencies: 2
   rules_reviewed: 6
@@ -922,6 +1523,17 @@ chapters:
     - id: oar-461-135-0440
       citation: 'OAR 461-135-0440, status: current, effective_date 2023-07-01'
       quote: 'History: SSP 19-2023, repeal filed 06/20/2023, effective 07/01/2023 ... (full text is empty)'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: An OYA rule's law-enforcement-interrogation procedure for youth in custody never engages
       ORS 131.040's central gating condition (no charging instrument/juvenile petition filed).
     documents:
@@ -934,9 +1546,21 @@ chapters:
       citation: OAR 416-150-0010
       quote: '...gates instead on warrant status and consent from supervisor/youth/guardian, with no reference
         to whether a petition has been filed.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - All five OAR 416-150 rules cite "ORS 420.014" in statutes_implemented but "ors-420.081" in relationships.implements
     — a systematic statute-number mismatch, identical across all five sibling rules.
+  run_id: pilot-2026-07
 - ors_chapter: '174'
   agencies: 5
   rules_reviewed: 6
@@ -951,6 +1575,7 @@ chapters:
     and "ORS 197.628 - 197.650" to just the two endpoints, silently dropping interior sections, in oar-413-010-0000
     and oar-660-025-0220.'
   - ors-174.040 full text has a bled-in fragment from the following (repealed) ORS 174.050 stub.
+  run_id: pilot-2026-07
 - ors_chapter: '222'
   agencies: 2
   rules_reviewed: 3
@@ -965,6 +1590,17 @@ chapters:
     - id: oar-150-222-0100
       citation: OAR 150-222-0100, effective 2016
       quote: operative text has no corresponding sale/transfer-reset provision.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A Secretary of State rule sets a numeric cap on chief petitioners for a city-consolidation
       petition that appears nowhere in the statutes it implements.
     documents:
@@ -975,9 +1611,21 @@ chapters:
     - id: ors-222.230
       citation: ORS 222.230(2)
       quote: (petition-contents provision has no petitioner-count limit)
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-150-222-0100/-0110 relationships.implements includes ors-305.100 (a general rulemaking-authority
     statute) despite statutes_implemented listing only ORS 222.111.
+  run_id: pilot-2026-07
 - ors_chapter: '280'
   agencies: 2
   rules_reviewed: 4
@@ -989,9 +1637,21 @@ chapters:
       citation: 'OAR 123-042-0165, status: current, effective_date 2026-06-18'
       quote: 'History: OBDD 11-2026, repeal filed 06/18/2026, effective 06/18/2026 ... (full text has
         no operative subsections)'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - The rule's frontmatter effective_date field is actually its repeal date, mislabeled as if it were
     a new-version effective date.
+  run_id: pilot-2026-07
 - ors_chapter: '323'
   agencies: 3
   rules_reviewed: 5
@@ -1007,6 +1667,17 @@ chapters:
       citation: OAR 137-105-0020(1)
       quote: escrow deposits ... in quarterly payments ... no later than 15 days after the end of each
         quarter.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A DOJ rule cross-references a subsection of ORS 323.806 for inflation-adjusted escrow amounts
       that doesn't exist — subsection (2) is about importer liability, not per-unit rate adjustment.
     documents:
@@ -1018,6 +1689,17 @@ chapters:
       quote: '(2) In the case of units sold that are cigarettes manufactured outside the United States
         and imported into the United States by an importer: (a) Importers shall be jointly and severally
         liable...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule and statute cite different closing section numbers (323.806 vs. 323.807) for the same
       Attorney General enforcement-monitoring authorization.
     documents:
@@ -1028,10 +1710,22 @@ chapters:
       citation: OAR 137-105-0050(1)
       quote: '...to monitor and enforce compliance by tobacco product manufacturers with ORS 323.800 to
         323.806.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-581-015-2390 (special-education hearings rule) cites "ORS 323.055" (cigarette tax exemption) as
     legal_authority — almost certainly a chapter transcription error for ORS 343.055, producing a bogus
     implemented_by cross-link on the cigarette-tax statute.
+  run_id: pilot-2026-07
 - ors_chapter: '205'
   agencies: 3
   rules_reviewed: 7
@@ -1043,6 +1737,17 @@ chapters:
       citation: 'OAR 813-001-0060, status: current, effective_date 2026-07-06'
       quote: 'History: OHCS 15-2026, repeal filed 07/02/2026, effective 07/06/2026 ... (full text has
         no operative subsections)'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A DOR rule cites the wrong ORS 205.323 subsection for the OLIS Fund's revenue source — (3)(a)
       is a mining-claim exemption, not the funding provision.
     documents:
@@ -1053,6 +1758,17 @@ chapters:
       citation: ORS 205.323(4)(a)
       quote: The recording or filing fee ... must be deposited and credited to the Oregon Land Information
         System Fund established under ORS 306.132.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A statute names ORS 411.694 for 'request for notice of transfer or encumbrance' recordation,
       but the rule that adopts the corresponding forms cites ORS 411.692 throughout.
     documents:
@@ -1062,9 +1778,21 @@ chapters:
     - id: oar-461-135-0847
       citation: OAR 461-135-0847 body and footer
       quote: '...adopted in accordance with ORS 93.268, 205.246, and 411.692.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-813-001-0060 bundles ORS 205.125 (county clerk lien records) with unrelated landlord-tenant and
     health statutes under a title about lay representation in contested cases.
+  run_id: pilot-2026-07
 - ors_chapter: '328'
   agencies: 3
   rules_reviewed: 5
@@ -1080,6 +1808,17 @@ chapters:
       citation: OAR 162-010-0315
       quote: '...compliance with legal requirements as stated in ORS 327.013 and as further defined by
         [ODE]...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: An OST rule conditions nonstandard-district bond approval on ORS 328.280(1)'s purposes list
       instead of the statute's own ORS 328.205(1) list.
     documents:
@@ -1090,6 +1829,17 @@ chapters:
     - id: oar-581-023-0060
       citation: OAR 581-023-0060(1)
       quote: The purpose of the revenues is listed under ORS 328.280(1)...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: An OST bond-guaranty rule's ineligibility trigger omits the statute's cure/reinstatement
       mechanism.
     documents:
@@ -1103,6 +1853,17 @@ chapters:
       quote: 'OST may deny ... or revoke a previously issued Certificate of Qualification ... if: ...
         (b) The State has ever paid ... any principal of or interest on any of the School District''s
         bonds;'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule adds a documentary 'letter to OST' requirement to the statutory 'paying agent' definition
       it restates.
     documents:
@@ -1114,8 +1875,20 @@ chapters:
       citation: OAR 170-063-0000(1)(j)
       quote: '''Qualified Paying Agent'' means a paying agent acceptable to OST who agrees ... and provides
         a letter to OST acknowledging as much.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ors-328.321 title is truncated ("Definitions for ORS 328.321 to").
+  run_id: pilot-2026-07
 - ors_chapter: '340'
   agencies: 2
   rules_reviewed: 7
@@ -1131,6 +1904,17 @@ chapters:
       citation: 'OAR 581-017-0640, status: current, effective_date 2025-04-02'
       quote: 'History: ODE 18-2025, repeal filed 04/02/2025, effective 04/02/2025 ... (no operative text)'
     note: Identical pattern across all six oar-581-017-06xx rules.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A HECC dual-credit reporting rule drops 'school district' from the statutory list of obligated
       annual reporters.
     documents:
@@ -1141,9 +1925,21 @@ chapters:
     - id: oar-715-017-0005
       citation: OAR 715-017-0005(3)
       quote: Oregon community colleges and public universities shall submit an annual report...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-715-017-0005 legal_authority omits ORS 341.484, though statutes_implemented/relationships.implements
     both include it.
+  run_id: pilot-2026-07
 - ors_chapter: '353'
   agencies: 2
   rules_reviewed: 9
@@ -1162,9 +1958,21 @@ chapters:
         to 353.563 and chapter 921 of Oregon Laws 2001.
     note: 'Low-confidence: the statute''s range describes only the definitions section''s own scope, not
       necessarily the full bond-program statutory range; 353.560-353.563 aren''t in this corpus to verify.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ors-353.550 title truncated ("Definitions for ORS 353.550 to").
   - oar-459-005-0350 statutes_implemented lists "ORS 238.015" twice.
+  run_id: pilot-2026-07
 - ors_chapter: '162'
   agencies: 2
   rules_reviewed: 5
@@ -1183,6 +1991,17 @@ chapters:
         of youth in custody...'
     note: 'Caveat: ''youth in custody'' may be a distinct term-of-art defined in ORS 420A.010, outside
       this cluster.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: ORS 162.135 was amended in 2025; the four OYA rules implementing it (2023/2024 filings) show
       no review against the amendment.
     documents:
@@ -1192,11 +2011,23 @@ chapters:
     - id: oar-416-410-0060
       citation: OAR 416-410-0060, effective 2024-03-22
       quote: (no later history entry)
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ors-162.135 title truncated ("Definitions for ORS 162.135 to") with duplicated "Chapter 162 (Chapter
     162)" text.
   - oar-416-410-0060 relationships.implements lists ors-420a.025 where statutes_implemented/body text
     point to ORS 420A.081.
+  run_id: pilot-2026-07
 - ors_chapter: '352'
   agencies: 6
   rules_reviewed: 9
@@ -1212,6 +2043,17 @@ chapters:
       citation: OAR 715-013-0020(3)
       quote: '...(b) Do not unnecessarily duplicate academic programs offered by Oregon''s other community
         colleges or public universities; ...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The same rule omits ORS 352.089(2)(e)'s mandatory fifth criterion specific to WOU/SOU/EOU
       program approvals.
     documents:
@@ -1222,9 +2064,21 @@ chapters:
     - id: oar-715-013-0020
       citation: OAR 715-013-0020(3)
       quote: (enumerates only criteria (a) through (d); no analog to (e) anywhere in the rule)
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-715-013-0040 statutes_implemented duplicates "ORS 350.075(3)(f)".
   - ors-352.089/ors-352.274 titles truncated mid-word.
+  run_id: pilot-2026-07
 - ors_chapter: '578'
   agencies: 2
   rules_reviewed: 8
@@ -1241,9 +2095,21 @@ chapters:
       citation: 'OAR 678-030-0000, status: current'
       quote: 'History: WHEAT 1-2022, repeal filed 03/04/2022, effective 03/04/2022 ... (no operative text)'
     note: Same pattern across oar-678-030-0010 and oar-678-030-0020.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-678-001-0000 cites "ORS 578.090(2)(n)" though the cluster's ORS 578.090(2) text only runs (a)
     through (i).
+  run_id: pilot-2026-07
 - ors_chapter: '125'
   agencies: 5
   rules_reviewed: 8
@@ -1259,6 +2125,17 @@ chapters:
       citation: OAR 411-026-0010(10)
       quote: '''Financially Incapable'' means a condition ... for reasons including but not limited to
         physical disability or cognitive disability, such as acquired brain injury or dementia.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The same rule redefines 'Visitor' by role/independence rather than the statute's appointment-mechanism
       definition.
     documents:
@@ -1270,6 +2147,17 @@ chapters:
       citation: OAR 411-026-0010(17)
       quote: '''Visitor'' means a person who is an officer, employee, or special appointee of the court,
         is not an interested party ... and has been trained or has the expertise...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The rule narrows the statutory 'Fiduciary' definition (dropping the catch-all clause) and
       adds an unsourced '30 days' duration detail.
     documents:
@@ -1281,6 +2169,17 @@ chapters:
       citation: OAR 411-026-0010(9)
       quote: '''Fiduciary'' means a guardian or conservator appointed under the provisions of ORS Chapter
         125. A fiduciary may be: (a) Temporary in which the powers ... last generally 30 days...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The rule inserts 'financial attention' into the statutory definition of 'meeting the essential
       requirements for physical health and safety,' blurring the statute's separation between physical-
       and financial-incapacity grounds.
@@ -1293,6 +2192,17 @@ chapters:
       citation: OAR 411-026-0010(11)
       quote: '...health care, food, shelter, clothing, personal hygiene, financial attention, and other
         care...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A DHS guardianship-forms rule (amended 2023) doesn't incorporate the 'vulnerable youth' guardianship
       track added to ORS 125.300 in 2021.
     documents:
@@ -1303,9 +2213,21 @@ chapters:
     - id: oar-309-091-0005
       citation: OAR 309-091-0005, effective 2023-07-11
       quote: (24-entry definitions list contains no "vulnerable youth" term anywhere)
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - 'oar-411-020-0030 legal_authority: "ORS 124.055 124.065" concatenated with no separator.'
   - ors-125.330 title bleeds in a following subdivision heading ("CONSERVATORS (Appointment)").
+  run_id: pilot-2026-07
 - ors_chapter: '271'
   agencies: 3
   rules_reviewed: 8
@@ -1323,6 +2245,17 @@ chapters:
       quote: '''Governing Body'' means a board or commission with constitutional or statutory governing
         authority ... includes but is not limited to: (a) The Oregon Board of Forestry; ... (f) The State
         Land Board.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The same rule's restated 'Political Subdivision' definition adds a comma that splits 'dock
       commission' into two separate qualifying entity types ('dock' and 'commission').
     documents:
@@ -1332,10 +2265,22 @@ chapters:
     - id: oar-125-045-0205
       citation: OAR 125-045-0205(29)
       quote: '...including but not limited to, a county, city, town, port, dock, commission or district...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ors-271.005 title truncated (missing "271.540").
   - oar-741-040-0040 statutes_implemented is a bare "ORS 271" rather than the specific "ORS 271.310" used
     by all sibling rules.
+  run_id: pilot-2026-07
 - ors_chapter: '648'
   agencies: 2
   rules_reviewed: 9
@@ -1350,6 +2295,17 @@ chapters:
     - id: oar-160-010-0030
       citation: OAR 160-010-0030
       quote: '...by a manager or member of a foreign or domestic limited liability company...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The same rule cites a nonexistent subsection ("648.125(2)") for the signature obligation
       actually stated in ORS 648.025(2) — ORS 648.125 has no subsection (2).
     documents:
@@ -1360,6 +2316,17 @@ chapters:
       citation: ORS 648.125, full text
       quote: References in the Bank Act to federal statutes... [single-sentence rulemaking-authority section,
         no subsection (2)]
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule (OAR 160-010-0020) substantively implements ORS 648.025(5) (replacement-representative
       designation) but is instead tagged as implementing ORS 648.010, and ORS 648.025's own implemented_by
       list omits it.
@@ -1372,9 +2339,21 @@ chapters:
       citation: ORS 648.025(5)
       quote: The Secretary of State may designate a new authorized representative by rule if the authorized
         representative withdraws...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - Four sibling rules (160-010-0011/-0012/-0013/-0014) collapse "ORS 128.580" and "ORS 554.005" into
     one semicolon-joined citation string.
+  run_id: pilot-2026-07
 - ors_chapter: '153'
   agencies: 3
   rules_reviewed: 8
@@ -1390,6 +2369,17 @@ chapters:
       citation: ORS 153.012
       quote: 'Violations are classified for the purpose of sentencing into the following categories: (1)
         Class A violations. ... (no dollar figures)'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A Parks & Rec rule assigns two violation categories to Class A (the most severe), which —
       if the underlying default is Class B under ORS 153.015 — would exceed ORS 153.022's authorization
       to only lower, never raise, the statutory classification.
@@ -1403,10 +2393,22 @@ chapters:
       quote: Violations that disturb or damage park resources are Class A violations. ... constitute criminal
         trespass ... are Class A violations...
     note: Unresolved without ORS 390.050/390.111 text, outside this cluster.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - 'Systemic pattern: relationships.implements arrays for six rules merge "Statutory/Other Authority"
     citations with "Statutes/Other Implemented" citations, making ORS 153.022''s implemented_by list overbroad
     relative to what those rules'' own text supports.'
+  run_id: pilot-2026-07
 - ors_chapter: '105'
   agencies: 3
   rules_reviewed: 7
@@ -1425,8 +2427,20 @@ chapters:
         [fee schedule: Daily Motor Vehicle — $7-25, plus a 25% non-resident surcharge]'
     note: 'Defensible counter-reading: the rule may assert a categorical (not amount-based) distinction
       between parking access and recreational-use fees.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ors-105.672 title truncated ("Definitions for ORS 105.672 to").
+  run_id: pilot-2026-07
 - ors_chapter: '190'
   agencies: 3
   rules_reviewed: 9
@@ -1442,6 +2456,17 @@ chapters:
       citation: OAR 125-246-0365(1)
       quote: '...an agreement under ORS 190.112 or under ORS 660.342, must submit a summary of the agreement
         through OregonBuys...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: 'Systemic pattern: relationships.implements is built from legal_authority rather than statutes_implemented
       across nearly every rule in this cluster, producing internally contradictory frontmatter within
       single documents (e.g. OAR 125-090-0000 omits ORS 98.805 from implements despite it heading statutes_implemented).'
@@ -1451,9 +2476,21 @@ chapters:
       quote: 'statutes_implemented: ["ORS 98.805", "ORS 190.240", "ORS 276.591", "ORS 283.110"]; relationships.implements:
         [ors-184.340, ors-190.240, ors-276.591, ors-276.601, ors-283.100, ors-283.110] — omits ors-98.805
         entirely.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ORS 190.240's $500 unit-price threshold has no engaging rule text in either OAR 125-090-0000 or -0002
     despite both citing it as authority.
+  run_id: pilot-2026-07
 - ors_chapter: '693'
   agencies: 2
   rules_reviewed: 12
@@ -1469,6 +2506,17 @@ chapters:
       citation: OAR 918-695-0020(1)(a)
       quote: 'A license is not required for: (a) A person to do the person''s own work on the person''s
         own residential building on the person''s own premises...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The commercial/industrial carve-back is statute-scoped to exemptions (1)(a)-(d), but the
       rule restates it as a freestanding universal licensure requirement.
     documents:
@@ -1481,6 +2529,17 @@ chapters:
       citation: OAR 918-695-0020(2)
       quote: All plumbing installations, alterations or remodeling in a commercial or industrial building
         ... shall be made by a licensed Oregon journeyman plumber...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A journeyman renewal fee ($180 flat) may exceed the statutory per-year cap ($50 base + $25
       CE = up to $150 for a 2-year term) depending on an unstated renewal-cycle length.
     documents:
@@ -1492,6 +2551,17 @@ chapters:
       citation: OAR 918-780-0030(3)
       quote: 'Journeyman plumber: ... Renewal fee — $180, including $30 fee to track continuing education.'
     note: Unresolved without the renewal-cycle-length rule, not in this cluster.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A statute-side implemented_by claim (ORS 693.030 → OAR 918-695-0040) contradicts the rule's
       own self-declared 'Statutes/Other Implemented' line, which lists 693.030 as authority only.
     documents:
@@ -1503,9 +2573,21 @@ chapters:
       quote: 'Statutory/Other Authority: ORS 455.117, 693.030 & 693.120 Statutes/Other Implemented: ORS
         455.117 & 693.120'
     note: Same authority/implements-conflation pattern repeats for OAR 918-780-0030 and ORS 693.135.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ORS 693.103's sliced text contains a stray disconnected "(12)" fragment near a cross-reference to
     ORS 479.630.
+  run_id: pilot-2026-07
 - ors_chapter: '177'
   agencies: 2
   rules_reviewed: 15
@@ -1521,6 +2603,17 @@ chapters:
       citation: OAR 166-010-0016(1)(b)(A)(i)
       quote: Duplication performed by Archives staff is $5.00 per record... (no legislator/officer exception
         stated)
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A Financial Transparency Policy rule cites ORS 177.050 (personnel/merit-system rulemaking
       authority) though its actual subject (spending-transparency disclosures) has nothing to do with
       personnel administration; the rule's own statutes_implemented field omits ORS 177.050 while legal_authority
@@ -1534,11 +2627,23 @@ chapters:
       citation: OAR 167-060-0130(1)-(2)
       quote: It is the policy of the Secretary of State to maintain full and timely transparency for all
         spending...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-167-060-0130 legal_authority/statutes_implemented split a single "Oregon Constitution, Article
     VI, Sections 2 and 5" citation into duplicated fragments.
   - oar-160-050-0160 cites uncodified session-law provisions ("2001 SB 171 Sec. 94.9-523") rather than
     ORS sections.
+  run_id: pilot-2026-07
 - ors_chapter: 475a
   agencies: 2
   rules_reviewed: 9
@@ -1559,10 +2664,22 @@ chapters:
         before...
     note: Drafting-ambiguity conflict, not unambiguous — clauses (A) and (B) aren't drafted as mutually
       exclusive.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-333-064-0060 statutes_implemented drops the "ORS " prefix used by every sibling rule.
   - oar-407-007-0210 mixes a session-law citation ("Or. Law 2026 ch. 59 (2026 HB 4115)") into otherwise
     ORS/OAR-only citation fields.
+  run_id: pilot-2026-07
 - ors_chapter: '107'
   agencies: 2
   rules_reviewed: 17
@@ -1581,6 +2698,17 @@ chapters:
         guideline amount, whichever is less.'
     note: An order reviewed at month 40 with only a $10 delta is non-compliant under one rule but compliant
       under the other.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule narrows the statutory 'child attending school' definition by adding a military-service
       exclusion the statute's four-part test doesn't contain.
     documents:
@@ -1593,6 +2721,17 @@ chapters:
       citation: OAR 137-055-5110(1)(c)
       quote: '''Child attending school'' has the meaning given in ORS 107.108, except a child attending
         school does not include an active member of the military.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The same rule collapses the statute's two distinct reinstatement pathways (non-IV-D vs. IV-D
       cases, with different recipients of confirmation) into one standard, and adds a case-closure precondition
       the statute doesn't authorize.
@@ -1606,9 +2745,21 @@ chapters:
       citation: OAR 137-055-5110(9)
       quote: 'reinstated when the program receives the following: ... (c) If the case has been closed
         pursuant to OAR 137-055-1120, an application for services...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - Eight OYA rules (416-100-0000 through -0060) are status:current but each shows "repeal filed 01/03/2022,
     effective 01/03/2022" with no operative text, while still listed in ors-107.108's implemented_by.
+  run_id: pilot-2026-07
 - ors_chapter: '255'
   agencies: 2
   rules_reviewed: 12
@@ -1626,6 +2777,17 @@ chapters:
       quote: If the vacancy occurs after the 101st day before the regular district election and on or
         before the 62nd day before the regular district election...
     note: Same '101st day' figure repeated identically in oar-165-020-0035.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A Secretary of State rule is silent on the website/mail notice alternative ORS 255.075(2)
       added in 2021, describing only newspaper publication.
     documents:
@@ -1637,6 +2799,17 @@ chapters:
       citation: OAR 165-020-0020, effective 2009
       quote: (describes only newspaper-publication pathway; no mention of website or mail alternative)
     note: May not be a hard conflict since ORS 255.075(2) is arguably self-executing without rule implementation.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A signature-verification rule omits the statutory 4,500-signature threshold that gates when
       statistical sampling applies at all.
     documents:
@@ -1649,9 +2822,21 @@ chapters:
       quote: A random sample for any petition submittal, will only be selected if the Filing Officer determines
         the petition signature sheets accepted ... contain a number of unverified signatures equal to
         or greater than the required number...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-581-024-0252 statutes_implemented cites "ORS 335.690" where legal_authority (and the rule's own
     body text) correctly says "ORS 334.690" — appears to be an error in the source OARD text itself.
+  run_id: pilot-2026-07
 - ors_chapter: '403'
   agencies: 2
   rules_reviewed: 17
@@ -1669,6 +2854,17 @@ chapters:
       quote: '''Provider'' means any corporation, individual, group of individuals, or other person or
         entity providing telecommunication access... A carrier that has access ... and does not resell
         the access is not considered to be a provider...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule substitutes an open-ended plan-review process for the statute's mandatory 90-day approve/reject
       deadline.
     documents:
@@ -1680,6 +2876,17 @@ chapters:
       citation: OAR 104-080-0150(3)(c)
       quote: if the revised 9-1-1 Jurisdiction Plan is unacceptable, the Department will work with the
         9-1-1 jurisdiction to complete an acceptable plan.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule requires advance (before-the-fact) notice for PSAP consolidations/relocations where
       the statute requires only after-the-fact notice within 30 days for any change.
     documents:
@@ -1691,10 +2898,22 @@ chapters:
       citation: OAR 104-080-0150(4)(b)
       quote: '...30 days prior to any consolidation, co-location, or physical move and within 30 days
         of any other change...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - Fifteen OAR 104-080-01xx rules mix a bill number ("2015 HB 2426") and a bare chapter citation ("ORS
     403") into legal_authority/statutes_implemented, inconsistent with the section-level precision used
     elsewhere in the same corpus.
+  run_id: pilot-2026-07
 - ors_chapter: '457'
   agencies: 2
   rules_reviewed: 14
@@ -1710,6 +2929,17 @@ chapters:
       citation: OAR 150-457-0400(2)
       quote: All certified statements and amendments filed under ORS 457.430 before September 29, 1991,
         continue to remain in effect...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The rule's 'Standard rate plan' definition omits the 'permanent rate plan' carve-out the
       statute added in 2019.
     documents:
@@ -1720,6 +2950,17 @@ chapters:
     - id: oar-150-457-0420
       citation: OAR 150-457-0420(1)(m)
       quote: '''Standard rate plan'' means an urban renewal plan that is not a reduced rate plan.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The rule's 'reduced rate plan' clauses have no end-date, unlike the statute's 2019-added
       September 29, 2019 sunset for that category.
     documents:
@@ -1729,6 +2970,17 @@ chapters:
     - id: oar-150-457-0420
       citation: OAR 150-457-0420(1)(k)(B)-(C)
       quote: '...substantially amended ... on or after October 6, 2001... [no end date]'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule's cross-reference for the reduced-rate-plan election cites ORS 457.445(4), but the
       current statute's election provision is at subsection (5).
     documents:
@@ -1739,6 +2991,17 @@ chapters:
     - id: oar-150-457-0420
       citation: OAR 150-457-0420(1)(k)(D)
       quote: '...irrevocably elects to change the plan ... pursuant to ORS 457.445(4)...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule's 'Existing plan' cross-reference cites a narrower statutory range (457.420 to 457.460)
       than the statute's own range (457.420 to 457.470) for the same defined term.
     documents:
@@ -1749,10 +3012,22 @@ chapters:
     - id: oar-150-457-0420
       citation: OAR 150-457-0420(1)(d)
       quote: '''Existing plan'' means an urban renewal plan ... as described under ORS 457.420 to 457.460...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - OAR 410-200 series mislabels several 42 CFR §435 provisions with an "ORS 435.xxx" prefix, while a
     sibling rule (oar-410-200-0315) correctly labels the equivalent entries "42 CFR".
   - '"ORS 457.80" (truncated, likely 457.800) appears alongside the correct "ORS 457.805" in three rules.'
+  run_id: pilot-2026-07
 - ors_chapter: '164'
   agencies: 5
   rules_reviewed: 17
@@ -1772,10 +3047,22 @@ chapters:
         ORS 164.805.
     note: The rule's own statutes_implemented field doesn't even list ORS 164.775 — it's assigned in the
       corpus to a different rule (oar-736-021-0090).
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ors-164.814's last_amended (2019) appears to conflate an amendment to the adjacent, repealed ORS 164.815
     with 164.814 itself, whose own bracket history shows no 2019 event.
   - ors-164.855 title truncated (missing "164.825").
+  run_id: pilot-2026-07
 - ors_chapter: '543'
   agencies: 4
   rules_reviewed: 22
@@ -1791,6 +3078,17 @@ chapters:
       citation: OAR 690-053-0020(3)
       quote: '...causes no injury to other water rights that cannot be adequately mitigated as determined
         by the Water Resources Department...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: Two rule sets both frontmatter-tagged as implementing ORS 543.092 impose wildly different
       deadlines (120 vs. 30 days) for the identical post-protest final-order-or-hearing decision step.
     documents:
@@ -1804,6 +3102,17 @@ chapters:
         whether to issue a final order or schedule a contested case hearing.
     note: Likely an artifact of Division 052 (decommissioning, ORS 543A.300) being mistagged as implementing
       ORS 543.092 — see artifacts.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The same two rule sets also diverge on the proposed/final-order deadline after comments close
       (90 vs. 120 days).
     documents:
@@ -1814,12 +3123,24 @@ chapters:
     - id: oar-690-053-0035
       citation: OAR 690-053-0035
       quote: '...the Department shall issue a proposed order within 120 days.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - 'Entire Division 052 (decommissioning) rule set carries statutes_implemented: ["ORS 543.092", "ORS
     543", "ORS 543A"] though its subject matter is decommissioning under ORS 543A.300 — likely the root
     cause of candidates 2 and 3 above.'
   - Session-law citation "OL 1999 Ch. 873" mechanically split into two array entries ("OL 1999 Ch. 873"
     and a dangling "Sec. 26") across seven Division 052 rules.
+  run_id: pilot-2026-07
 - ors_chapter: 543a
   agencies: 5
   rules_reviewed: 21
@@ -1835,6 +3156,17 @@ chapters:
       citation: OAR 340-048-0020(5)
       quote: '...no later than one year before the applicant files a final application ... unless the
         department and the applicant agree to a different time for submission...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule substantively applies ORS 543A.025's standards but neither the rule's nor the statute's
       frontmatter records that relationship.
     documents:
@@ -1845,6 +3177,17 @@ chapters:
     - id: ors-543a.025
       citation: ORS 543A.025 relationships
       quote: 'implemented_by: [oar-340-048-0042, oar-340-048-0045] — omits oar-340-048-0020'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A WRD decommissioning rule implements only one of the statute's two alternative decommissioning
       triggers (ORS 543A.030), omitting the ORS 543A.075 branch.
     documents:
@@ -1857,8 +3200,20 @@ chapters:
       citation: OAR 690-052-0020(1)
       quote: If an operator does not submit a notice of intent to reauthorize under ORS 543A.030, the
         Department shall ... request ... information regarding the decommissioning...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - 'oar-690-052-0020 statutes_implemented: "ORs 543A" (malformed capitalization).'
+  run_id: pilot-2026-07
 - ors_chapter: '345'
   agencies: 3
   rules_reviewed: 16
@@ -1873,6 +3228,17 @@ chapters:
     - id: oar-839-005-0305
       citation: OAR 839-005-0305
       quote: '''Career school'' includes those required to be licensed under ORS 345.010 to 345.450...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: Two rules implementing the same anti-discrimination statute (ORS 345.240) define the protected-class
       list differently — one includes 'veterans' status,' the other doesn't.
     documents:
@@ -1884,6 +3250,17 @@ chapters:
       citation: OAR 839-005-0305(3), BLI
       quote: '''Discrimination'' means any act ... based on age, disability, national origin, race, color,
         marital status, religion, sex or sexual orientation.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A DOJ contested-case-hearing rule is broader than the statute in one clause and internally
       contradicts a sibling clause of the same rule.
     documents:
@@ -1895,6 +3272,17 @@ chapters:
       citation: OAR 715-011-0070(2)(b)
       quote: A school may also request a contested case hearing ... upon receipt of the results of an
         investigation made under this rule.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: Garbled/transposed statute numbers in sibling rules' statutes_implemented fields (354.120,
       648.596) don't match the ORS 345.120/348.6xx pattern used consistently by their siblings.
     documents:
@@ -1902,8 +3290,20 @@ chapters:
       citation: OAR 715-011-0065 statutes_implemented
       quote: '"ORS 354.120" — no chapter 354 citation appears anywhere else in this cluster; sibling rules
         use "ORS 345.120" in the same slot.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ors-345.120's sliced text has subsection-marker line breaks that split cross-references mid-citation.
+  run_id: pilot-2026-07
 - ors_chapter: '826'
   agencies: 3
   rules_reviewed: 16
@@ -1919,6 +3319,17 @@ chapters:
       citation: OAR 740-200-0030(1)(b), effective 2026-03-20
       quote: Registration periods are based on a calendar year. When a registrant elects to pay Oregon
         registration fees for calendar quarters...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule tagged as implementing ORS 826.035 sets a $10 biennial 'identification device' fee
       where the statute (via its cross-reference to ORS 826.023) sets $3.
     documents:
@@ -1933,9 +3344,21 @@ chapters:
       quote: '...a biennial fee of $10.'
     note: Rule's own text ties the $10 fee to ORS 825.454 (not in this cluster) — may resolve if that
       statute independently authorizes a $10 fee for a non-overlapping vehicle population.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - 'oar-735-016-0030 statutes_implemented: "ORS 807.040 807.045" concatenated with no separator, mirrored
     in the rule''s own body text.'
+  run_id: pilot-2026-07
 - ors_chapter: 646a
   agencies: 4
   rules_reviewed: 20
@@ -1950,6 +3373,17 @@ chapters:
     - id: oar-441-646-0010
       citation: OAR 441-646-0010(2)
       quote: '''Harm,'' for purposes of the notification requirement, is limited to monetary loss.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A drug-price-transparency rule hardcodes two dollar thresholds pegged to specific past CMS
       Call Letters (2018/2024), where the statute ties the trigger to CMS's current, annually-revised
       Part D specialty-tier benchmark.
@@ -1962,6 +3396,17 @@ chapters:
       citation: OAR 836-200-0520(2)-(3)
       quote: (2) For new prescription drugs introduced on or after January 1, 2025, the threshold is $950
         ... (3) ... prior to January 1, 2025, the threshold is $670...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: The same rule omits the statute's 30-day new-drug-notification deadline entirely, deferring
       to a rule (OAR 836-200-0531) not present anywhere in the corpus.
     documents:
@@ -1973,10 +3418,22 @@ chapters:
       citation: OAR 836-200-0520(1)
       quote: '...the manufacturer must report to the department the information described in OAR 836-200-0531.
         [no deadline stated]'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - '"OAR 826-200-0515 to 826-200-0535" (chapter typo for 836) in oar-836-200-0505(12).'
   - Multiple rules cite OAR 836-200-0531/0532/0553, none of which exist anywhere in the corpus's document
     set.
+  run_id: pilot-2026-07
 - ors_chapter: '706'
   agencies: 1
   rules_reviewed: 23
@@ -1994,9 +3451,21 @@ chapters:
       citation: OAR 441-505-1110, effective 2007-10-22
       quote: '...references ... shall be construed to refer to statutes or regulations in effect on June
         30, 2007...'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-441-505-2005 statutes_implemented cites "ORS 706.610" (examiner insolvency-reporting statute),
     topically unconnected to the rule's actual subject (remote stockholder meetings, ORS 707.621).
+  run_id: pilot-2026-07
 - ors_chapter: '171'
   agencies: 6
   rules_reviewed: 28
@@ -2013,6 +3482,17 @@ chapters:
       citation: OAR 847-003-0200(1) & (3), effective 2026-07-02
       quote: (1) Members ... will receive no less than the current Oregon legislative per diem as specified
         in ORS 171.072... (3) The daily maximum Board member compensation is $250.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: Two boards implementing the same statute structure per diem differently — one capped at $250/day,
       the other uncapped and tied directly to the legislative rate.
     documents:
@@ -2024,6 +3504,17 @@ chapters:
       citation: OAR 858-010-0005(2)(a), Board of Psychology
       quote: Board members shall receive compensation that is equal to the per diem paid to members of
         the Legislative Assembly under ORS 171.072(9) for each day...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: 'Several repealed rules are still carried as live implemented_by links with status: current.'
     documents:
     - id: ors-171.752
@@ -2033,9 +3524,21 @@ chapters:
       citation: 'OAR 199-010-0090, status: current'
       quote: 'History: GEC 12-2021, repeal filed 12/07/2021, effective 12/30/2021 — no operative text.'
     note: Same pattern for oar-199-010-0085/-0100 (ORS 171.750) and oar-855-010-0016 (ORS 171.072).
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ors-171.992 title concatenates two unrelated statute-page fragments.
   - ors-171.725 title truncated ("Definitions for ORS 171.725 to").
+  run_id: pilot-2026-07
 - ors_chapter: '320'
   agencies: 3
   rules_reviewed: 16
@@ -2052,6 +3555,17 @@ chapters:
       citation: OAR 150-320-0510(1) & (3)
       quote: the department must assess penalties, as described in ORS 320.550(10), when an employer knowingly
         fails to deduct and withhold statewide transit tax.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule broadens the statutory 'Employer' definition to include lenders/sureties, though the
       statute treats them as a separate, narrower liability category.
     documents:
@@ -2063,6 +3577,17 @@ chapters:
       citation: OAR 150-316-0359(1)(a)
       quote: '''Employer'' has the meaning given that term in ORS 316.162 and also includes lenders, sureties,
         and other persons subject to withholding and reporting requirements under ORS 316.169.'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule routes all amusement-device tax-penalty waivers to the general discretionary process,
       without acknowledging the statute's separate mandatory waiver ground.
     documents:
@@ -2074,10 +3599,22 @@ chapters:
       citation: OAR 150-320-0030
       quote: The provisions of OAR 150-305-0068 shall be followed to determine when the department may
         waive a penalty...
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ors-320.400 title truncated (missing "320.490 and 803.203").
   - oar-150-320-0430 statutes_implemented omits ORS 320.410 despite the rule's own body text describing
     that exact obligation.
+  run_id: pilot-2026-07
 - ors_chapter: '622'
   agencies: 3
   rules_reviewed: 22
@@ -2093,6 +3630,17 @@ chapters:
       citation: OAR 603-100-0920(9), effective 2013
       quote: Violation of any requirement ... found in the National Shellfish Sanitation Program, Guide
         for the Control of Molluscan Shellfish, 2009 Revision.
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A plat-application rule is metadata-tagged to ORS 622.230 ($25 conversion fee) though its
       own body text is entirely about new plats and cites ORS 622.250's $250 fee — and ORS 622.250's own
       implemented_by list omits this rule.
@@ -2104,6 +3652,17 @@ chapters:
     - id: ors-622.250
       citation: ORS 622.250 relationships
       quote: 'implemented_by: [oar-603-082-0040, oar-603-082-0050, oar-603-082-0060] — omits oar-603-082-0030'
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   - summary: A rule cites the wrong ORS 622.290 subsection for the shellfish use-tax rate — subsection
       (1) is the quarterly-payment rule; the rates are in (2) and (3).
     documents:
@@ -2114,7 +3673,19 @@ chapters:
     - id: oar-603-082-0080
       citation: OAR 603-082-0080(1)
       quote: Use taxes shall be in the amount established by ORS 622.290(1).
+    run_id: pilot-2026-07
+    model: null
+    prompt_version: null
+    model_note: pilot batches 1-3 did not record per-candidate model attribution; see methodology
+    confidence: null
+    severity: null
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - '"ORS 622.210 - 662.360" (digit transposition, 622→662) in two sibling rules.'
   - OAR 603-100-0930 cites "ORS 621.995" (nonexistent in this context; should be 622.996) and "OAR 603-024-0910"
     (should likely be 603-100-0920).
+  run_id: pilot-2026-07
