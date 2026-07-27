@@ -43,6 +43,7 @@ separately rather than dropped silently.
 import argparse
 import collections
 import json
+import pathlib
 import sys
 from datetime import date
 from pathlib import Path
@@ -64,15 +65,60 @@ OUT_DIR = REPO_ROOT / "_meta/.cache/conflict-eval"      # gitignored: a report, 
 BASELINE_GROUNDING = 213 / 268
 
 
+TAXONOMY = REPO_ROOT / "_meta/eval/pilot-taxonomy.json"
+
+
+def load_taxonomy() -> tuple[dict, set]:
+    """index -> hand-labelled type, plus the set of types code (not a model) owns.
+    Absent file is not fatal: per-type recall is simply not reported."""
+    if not TAXONOMY.is_file():
+        return {}, set()
+    d = json.loads(TAXONOMY.read_text())
+    return d.get("labels", {}), set(d.get("mechanical_types", []))
+
+
+def _per_type(known: dict, reach: set, hit: set) -> list:
+    """Recall broken out by hand-labelled type. This is the whole point of the labels:
+    an aggregate recall number cannot tell you WHICH check to rewrite, and a prompt
+    change that helps one type while quietly costing another looks like noise without
+    it. Mechanical types are shown but flagged — a model missing them is correct now,
+    since detect_mechanical.py owns them."""
+    _, mech = load_taxonomy()
+    if not any(k.get("type") for k in known.values()):
+        return []
+    agg = {}
+    for fp in reach:
+        t = known[fp].get("type") or "unlabelled"
+        d = agg.setdefault(t, [0, 0])
+        d[1] += 1
+        if fp in hit:
+            d[0] += 1
+    rows = ["RECALL BY TYPE   (mechanical types are detect_mechanical.py's job — a miss "
+            "there is correct)"]
+    for t, (h, n) in sorted(agg.items(), key=lambda kv: (-kv[1][1], kv[0])):
+        tag = "code " if t in mech else "MODEL"
+        rows.append(f"            {tag} {t:<14} {h}/{n}"
+                    + (f"  ({100*h/n:.0f}%)" if n else ""))
+    rows.append("")
+    return rows
+
+
 def known_candidates(cat: dict) -> dict:
-    """fingerprint -> {chapter, summary, doc_ids} for every pilot candidate."""
-    out = {}
+    """fingerprint -> {chapter, summary, doc_ids, type} for every pilot candidate.
+
+    The taxonomy is keyed by POSITION in this same flattened walk (chapters in file
+    order, candidates within each), which is how the labels were produced. Keeping one
+    iteration order is what lets a hand-label attach to a fingerprint at all."""
+    labels, _ = load_taxonomy()
+    out, i = {}, 0
     for ch in cat["chapters"]:
         for cand in ch.get("candidates") or []:
             fp = candidate_fingerprint(ch["ors_chapter"], cand)
             out[fp] = {"chapter": str(ch["ors_chapter"]),
                        "summary": cand.get("summary", ""),
+                       "type": labels.get(str(i)),
                        "doc_ids": sorted({d["id"] for d in cand.get("documents") or []})}
+            i += 1
     return out
 
 
@@ -141,7 +187,16 @@ def normalize(cands: list) -> tuple[list, int]:
         if not isinstance(c, dict):
             bad += 1
             continue
-        docs = [d for d in (c.get("documents") or []) if isinstance(d, dict) and d.get("id")]
+        # Case-fold the id. Every document id in this corpus is lowercase by schema
+        # (^[a-z0-9][a-z0-9._-]*[a-z0-9]$), so "ORS-332.114" can only ever mean
+        # "ors-332.114" -- there is no id it could collide with. phi4-mini-reasoning
+        # emits ids uppercased; scoring those as phantom citations would report a
+        # hallucination where the model actually named the right document. This is
+        # NOT the coercion the docstring warns about: the string is unchanged apart
+        # from case, so nothing is being guessed.
+        docs = [{**d, "id": str(d["id"]).lower()}
+                for d in (c.get("documents") or [])
+                if isinstance(d, dict) and d.get("id")]
         if not docs:
             bad += 1
             continue
@@ -182,6 +237,11 @@ def main():
                     help="calibrate on the first N eval chapters before the full run")
     ap.add_argument("--limit-bundles", type=int)
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--prompt", choices=["v2", "v3"], default="v2",
+                    help="which local prompt to evaluate; run both to compare")
+    ap.add_argument("--from-raw", metavar="PATH",
+                    help="score an existing results JSON instead of running inference "
+                         "(same bundles, same scoring) — for models not served by ollama")
     ap.add_argument("--out", default=None)
     args = ap.parse_args()
 
@@ -217,16 +277,37 @@ def main():
         print("\nnothing was called — this is --dry-run.")
         return
 
-    results, status = AC.LocalBackend(args.model, args.local_url,
-                                      max_tokens=args.max_output_tokens).run(bundles)
+    if args.from_raw:
+        # Score output produced somewhere else (e.g. a Haiku agent) on the SAME bundles,
+        # through the SAME grounding and recall code. Without this, a non-ollama model
+        # could only be compared by eye, which is exactly how unfounded claims get made.
+        raw = json.loads(pathlib.Path(args.from_raw).read_text())
+        results = raw["results"]
+        status = raw.get("status") or {
+            cid: {"state": "ok" if results.get(cid) is not None else "error"}
+            for cid in {b["custom_id"] for b in bundles}}
+        missing = {b["custom_id"] for b in bundles} - set(results)
+        if missing:
+            print(f"WARNING: {len(missing)} bundle(s) absent from {args.from_raw} — "
+                  "they count as unanswered, not as clean", file=sys.stderr)
+            for cid in missing:
+                status[cid] = {"state": "error"}
+        args.model = raw.get("model", args.model)
+    else:
+        sys_prompt = AC.LOCAL_SYSTEM_V3 if args.prompt == "v3" else AC.LOCAL_SYSTEM
+        results, status = AC.LocalBackend(args.model, args.local_url,
+                                          max_tokens=args.max_output_tokens,
+                                          system=sys_prompt).run(bundles)
     AC._report_status(status)
 
     # Persist the raw model output IMMEDIATELY, before any analysis touches it. A shape
     # bug in post-processing already destroyed one 60-minute run; inference is the
     # expensive, unrepeatable part and must never depend on the cheap part working.
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    raw_path = OUT_DIR / f"raw-{date.today().isoformat()}.json"
-    raw_path.write_text(json.dumps({"model": args.model, "status": status,
+    raw_path = OUT_DIR / (f"raw-{args.prompt}-{date.today().isoformat()}.json"
+                          if not args.from_raw else
+                          f"rescored-{pathlib.Path(args.from_raw).name}")
+    raw_path.write_text(json.dumps({"model": args.model, "prompt": args.prompt, "status": status,
                                     "results": results}, indent=1, ensure_ascii=False),
                         encoding="utf-8")
     print(f"raw model output saved: {raw_path}", file=sys.stderr)
@@ -255,6 +336,7 @@ def main():
         f"({100*len(hit)/max(len(reach),1):.1f}%)",
         f"            {len(unreach)} known candidate(s) unreachable by this bundling",
         "",
+        *_per_type(known, reach, hit),
         f"GROUNDING   {gr['grounded']}/{gr['n_quotes']} quotes found in their cited source "
         f"({100*gr['grounded']/max(gr['n_quotes'],1):.1f}%)",
         f"            frontier baseline {BASELINE_GROUNDING*100:.1f}%  "
