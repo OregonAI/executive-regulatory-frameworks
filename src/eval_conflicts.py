@@ -187,7 +187,16 @@ def normalize(cands: list) -> tuple[list, int]:
         if not isinstance(c, dict):
             bad += 1
             continue
-        docs = [d for d in (c.get("documents") or []) if isinstance(d, dict) and d.get("id")]
+        # Case-fold the id. Every document id in this corpus is lowercase by schema
+        # (^[a-z0-9][a-z0-9._-]*[a-z0-9]$), so "ORS-332.114" can only ever mean
+        # "ors-332.114" -- there is no id it could collide with. phi4-mini-reasoning
+        # emits ids uppercased; scoring those as phantom citations would report a
+        # hallucination where the model actually named the right document. This is
+        # NOT the coercion the docstring warns about: the string is unchanged apart
+        # from case, so nothing is being guessed.
+        docs = [{**d, "id": str(d["id"]).lower()}
+                for d in (c.get("documents") or [])
+                if isinstance(d, dict) and d.get("id")]
         if not docs:
             bad += 1
             continue
