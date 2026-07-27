@@ -88,7 +88,14 @@ PROMPT_VERSION = "conflict-v2-2026-07"
 # swapped in on the strength of its own reasoning; --prompt selects, and the choice is
 # recorded per candidate so mixed catalogs stay attributable.
 PROMPT_VERSIONS = {"v2": "conflict-v2-2026-07", "v3": "conflict-v3-2026-07"}
+# Opus is the PRODUCTION path only — a full --tier section pass is 7,464 requests and
+# ~$154 of input at batch pricing, so it is not something to spend on an experiment.
+# EVALUATE WITH HAIKU instead (see EVAL_MODEL): measuring whether a prompt change helps
+# does not need the expensive model, and the comparison is against the pilot's recorded
+# candidates either way. eval_conflicts.py --from-raw scores any model's output through
+# the same grounding and recall code, so a Haiku run is directly comparable to a local one.
 DEFAULT_MODEL = "claude-opus-5"
+EVAL_MODEL = "claude-haiku-4-5"
 # Well inside every current context window, leaving room for the instructions and a long
 # reply. Bundles above this are split.
 MAX_BUNDLE_TOKENS = 150_000

@@ -43,6 +43,7 @@ separately rather than dropped silently.
 import argparse
 import collections
 import json
+import pathlib
 import sys
 from datetime import date
 from pathlib import Path
@@ -229,6 +230,9 @@ def main():
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--prompt", choices=["v2", "v3"], default="v2",
                     help="which local prompt to evaluate; run both to compare")
+    ap.add_argument("--from-raw", metavar="PATH",
+                    help="score an existing results JSON instead of running inference "
+                         "(same bundles, same scoring) — for models not served by ollama")
     ap.add_argument("--out", default=None)
     args = ap.parse_args()
 
@@ -264,17 +268,36 @@ def main():
         print("\nnothing was called — this is --dry-run.")
         return
 
-    sys_prompt = AC.LOCAL_SYSTEM_V3 if args.prompt == "v3" else AC.LOCAL_SYSTEM
-    results, status = AC.LocalBackend(args.model, args.local_url,
-                                      max_tokens=args.max_output_tokens,
-                                      system=sys_prompt).run(bundles)
+    if args.from_raw:
+        # Score output produced somewhere else (e.g. a Haiku agent) on the SAME bundles,
+        # through the SAME grounding and recall code. Without this, a non-ollama model
+        # could only be compared by eye, which is exactly how unfounded claims get made.
+        raw = json.loads(pathlib.Path(args.from_raw).read_text())
+        results = raw["results"]
+        status = raw.get("status") or {
+            cid: {"state": "ok" if results.get(cid) is not None else "error"}
+            for cid in {b["custom_id"] for b in bundles}}
+        missing = {b["custom_id"] for b in bundles} - set(results)
+        if missing:
+            print(f"WARNING: {len(missing)} bundle(s) absent from {args.from_raw} — "
+                  "they count as unanswered, not as clean", file=sys.stderr)
+            for cid in missing:
+                status[cid] = {"state": "error"}
+        args.model = raw.get("model", args.model)
+    else:
+        sys_prompt = AC.LOCAL_SYSTEM_V3 if args.prompt == "v3" else AC.LOCAL_SYSTEM
+        results, status = AC.LocalBackend(args.model, args.local_url,
+                                          max_tokens=args.max_output_tokens,
+                                          system=sys_prompt).run(bundles)
     AC._report_status(status)
 
     # Persist the raw model output IMMEDIATELY, before any analysis touches it. A shape
     # bug in post-processing already destroyed one 60-minute run; inference is the
     # expensive, unrepeatable part and must never depend on the cheap part working.
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    raw_path = OUT_DIR / f"raw-{args.prompt}-{date.today().isoformat()}.json"
+    raw_path = OUT_DIR / (f"raw-{args.prompt}-{date.today().isoformat()}.json"
+                          if not args.from_raw else
+                          f"rescored-{pathlib.Path(args.from_raw).name}")
     raw_path.write_text(json.dumps({"model": args.model, "prompt": args.prompt, "status": status,
                                     "results": results}, indent=1, ensure_ascii=False),
                         encoding="utf-8")
