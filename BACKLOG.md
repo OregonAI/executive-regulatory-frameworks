@@ -209,10 +209,73 @@ things were deliberately NOT done in that PR:
   the 164 MiB artifact is never pushed and the size check in `build_embeddings.py` is
   guarded by `_is_tracked_by_git` — advisory, not fatal. The model chosen was bge-m3 over
   the bge-large-en-v1.5 contemplated here because bge-large caps at **512 tokens** while
-  `CHUNK_CHARS = 3200` produces ~900-token chunks — it would have silently truncated ~40%
-  of every chunk. bge-m3's 8192-token context embeds them whole, and it needs no
-  query-instruction prefix (which the serve side never applied anyway). Dense head only;
-  BM25 remains the lexical arm. `--model` now exists for before/after A/B.
+  `CHUNK_CHARS = 3200` produces chunks past it. Measured over an 11,449-chunk sample:
+  **34.3% of chunks exceed 512 tokens and 16.9% of all tokens** fell outside the window
+  (median chunk is 267 tokens, so most were unaffected — an earlier note here said "~40%
+  of every chunk", which was wrong). bge-m3's 8192-token context embeds them whole, and
+  it needs no query-instruction prefix — which the serve side never applied, and which
+  measurement showed cost nothing anyway. Dense head only; BM25 remains the lexical arm.
+  `--model` now exists for before/after A/B, and produced the numbers above.
+
+## Semantic query latency — ~365 ms/query, brute-force scan (open)
+
+**Symptom.** Every `search_corpus` call in `hybrid` or `semantic` mode costs ~365 ms in
+the vector arm. Measured end-to-end over 6 queries against the built index.
+
+**It is not the model.** Breakdown of a single query against the 211,102 × 1024 int8
+artifact:
+
+| stage | time |
+|---|---|
+| encode the query (bge-m3 forward pass) | 14.8 ms |
+| `vecs.astype(np.float32) @ q` | 293–460 ms |
+| `argsort` over 211k scores | 6.1 ms |
+
+**Root cause.** `rank()` in `src/semantic_search.py` (the line
+`scores = vecs.astype(np.float32) @ q`) converts the *entire* 206 MiB int8 matrix to
+float32 on **every query**, allocating an 864 MB temporary each time. The vectors are
+already held resident as int8 by `_semantic_index()`'s module-global cache; only the
+conversion repeats.
+
+This is pre-existing, not introduced by the bge-m3 switch — but the switch made it
+~2.5× worse in absolute terms by moving from 167,844 × 512 (86 MiB) to 211,102 × 1024
+(206 MiB). Note bge-large would have cost exactly the same: it is also 1024-dim. The
+real cause is the move off the 512-dim model2vec index, which predates both.
+
+**Already tried and ruled out — do not repeat.** Blocked matmul, to cap the temporary
+allocation, at three block sizes. It does not help; the work is memory-bandwidth-bound
+on 216M int8 values, not allocation-bound:
+
+    current (one 864 MB temp)  293.8 ms
+    8,192-row blocks           300.0 ms
+    32,768-row blocks          291.4 ms
+    65,536-row blocks          294.3 ms
+
+**Options, cheapest first.** None measured yet:
+
+1. **Keep a float32 copy resident** instead of converting per query. Eliminates the
+   `astype` entirely and is a few lines. Costs ~864 MB RSS per MCP server process,
+   which may be the real objection — the Docker image and any multi-worker deployment
+   pay it per process.
+2. **float16 resident matrix** — 432 MB instead of 864 MB. Needs measuring rather than
+   assuming: numpy upcasts float16 internally for matmul, so it may buy memory without
+   buying speed.
+3. **int8 dot with int32 accumulation.** `build_embeddings.py`'s own artifact note says
+   "cosine ≈ int32 dot / 127^2", so this was the intended arithmetic and nothing does
+   it. numpy has no int8 GEMM, so this likely needs a different primitive to be worth
+   anything.
+4. **An ANN index** (hnswlib / faiss). The only option that is sublinear and the only
+   one that keeps working as the corpus grows. Costs a new dependency, and the serve
+   side is deliberately lazy-import-and-degrade so the base install stays stdlib-only —
+   it would have to live in `requirements-embeddings.txt` and fall back cleanly.
+5. **Fewer vectors** by raising `CHUNK_CHARS`. Cheapest to try, but trades retrieval
+   granularity for latency and changes results — measure recall before and after.
+
+**Decide whether it matters first.** 365 ms inside an MCP tool call may be entirely
+acceptable; the agent is already waiting on an LLM turn. Establish a target before
+optimizing — if the answer is "fine as is", close this rather than carrying it. The
+number worth watching is not latency today but its growth: this is O(corpus), so it
+doubles when the corpus does.
 
 ## Other known deferrals
 
