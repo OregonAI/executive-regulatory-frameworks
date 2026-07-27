@@ -80,7 +80,7 @@ def build_data() -> dict:
             "ty": ty, "tl": tl, "ag": ag, "agl": agl,
             "cl": proj["cl"], "clusters": proj["clusters"], "noise": proj.get("noise", 0),
             "titles": titles, "n": len(ids),
-            "note": "2-D UMAP (cosine) of model2vec document embeddings; regions labeled by "
+            "note": "2-D UMAP (cosine) of bge-m3 chunk embeddings; regions labeled by "
                     "their distinctive words. Proximity ≈ textual similarity, not authority. "
                     "Non-authoritative; a lossy projection."}
 

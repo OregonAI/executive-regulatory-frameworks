@@ -12,14 +12,18 @@ BM25+vector search.
   python3 src/build_embeddings.py --check         # exit 1 if artifact is stale (CI)
   python3 src/build_embeddings.py --limit 500     # embed a subset (dev/smoke)
   python3 src/build_embeddings.py --backend model2vec
+  python3 src/build_embeddings.py --model BAAI/bge-large-en-v1.5   # A/B a different model
 
 Backends (auto: sentence-transformers when a CUDA GPU is available, else model2vec,
 else hashing; override with --backend):
   - sentence-transformers  PRODUCTION DEFAULT ON GPU. Higher quality than model2vec
-                           (default BAAI/bge-large-en-v1.5, 1024-dim). A GPU removes
-                           the "~1-2 texts/sec on CPU" penalty that made this
-                           impractical for a corpus this size before — device-aware
-                           (cuda if available), fp16 + batch_size 128 on GPU.
+                           (default BAAI/bge-m3, 1024-dim, 8192-token context — so a
+                           full CHUNK_CHARS chunk embeds whole, unlike the 512-token
+                           bge-large-en-v1.5 it replaced, which silently truncated
+                           ~40% of every chunk). A GPU removes the "~1-2 texts/sec on
+                           CPU" penalty that made this impractical for a corpus this
+                           size before — device-aware (cuda if available), fp16 +
+                           batch_size 64 on GPU.
   - model2vec              CPU-appropriate fallback. Static embeddings (default
                            minishlab/potion-retrieval-32M) — token-vector lookup, no
                            transformer forward pass, so ~10k texts/sec on CPU.
@@ -52,7 +56,7 @@ CHUNKS = EMB_DIR / "chunks.jsonl"
 META = EMB_DIR / "meta.json"
 
 DEFAULT_M2V = "minishlab/potion-retrieval-32M"      # static, CPU-fast fallback backend
-DEFAULT_MODEL = "BAAI/bge-large-en-v1.5"             # transformer (GPU default; 1024-dim)
+DEFAULT_MODEL = "BAAI/bge-m3"                        # transformer (GPU default; 1024-dim)
 # Chunk size is now bounded only from BELOW, by retrieval quality: the artifact is no
 # longer committed (see .gitignore), so GitHub's 100 MiB per-file limit no longer caps it.
 # It used to, and that cap drove this value -- at this corpus's earlier size (measured):
@@ -210,7 +214,14 @@ class SentenceTransformerEmbedder:
     + fp16 + a larger batch when a GPU is available (removing the "~1-2 texts/sec on
     CPU" penalty that made this backend impractical before), falls back to fp32/CPU
     with a conservative batch size otherwise. Rebuild with --backend
-    sentence-transformers (or let --backend auto pick it up on a GPU host)."""
+    sentence-transformers (or let --backend auto pick it up on a GPU host).
+
+    max_seq_length is deliberately left at the model's own default: chunk_text()
+    already bounds every input at CHUNK_CHARS (~900 tokens), and sentence-transformers
+    pads to the longest row in a batch rather than to the limit, so an unset ceiling
+    costs nothing and guarantees no truncation. Memory is governed by batch_size alone.
+    bge-m3 needs no query-instruction prefix (bge-large-en-v1.5 did), so queries and
+    passages are encoded identically — see src/semantic_search.py."""
     name = "sentence-transformers"
 
     def __init__(self, model=DEFAULT_MODEL):
@@ -224,9 +235,11 @@ class SentenceTransformerEmbedder:
         get_dim = getattr(self._m, "get_embedding_dimension", None) or \
             self._m.get_sentence_embedding_dimension
         self.dim = get_dim()
-        # 128 comfortably fits an 8GB card for bge-large-length chunks in fp16; lower
-        # this if you hit a CUDA OOM on a smaller card.
-        self.batch_size = 128 if self.device == "cuda" else 32
+        # 64 fits an 8GB card for full-length bge-m3 chunks in fp16. It was 128 when the
+        # model was bge-large-en-v1.5, which truncated inputs at 512 tokens; bge-m3
+        # embeds the whole ~900-token chunk, so each row costs ~2x the activation memory.
+        # Lower this further if you hit a CUDA OOM on a smaller card.
+        self.batch_size = 64 if self.device == "cuda" else 32
 
     def encode(self, texts):
         return self._m.encode(list(texts), normalize_embeddings=True,
@@ -279,7 +292,7 @@ BATCH = 256         # encode/report granularity (outer loop; the embedder's own
                     # GPU/CPU batching within each call)
 
 
-def build(backend="auto", limit=None, dim=384):
+def build(backend="auto", limit=None, dim=384, model=None):
     """Embed every chunk of every document (see iter_chunks/chunk_text — full-
     document coverage, not a head-truncated per-doc summary) and write the vector
     artifact. Chunk-level was always the design (chunks.jsonl already stores
@@ -292,7 +305,7 @@ def build(backend="auto", limit=None, dim=384):
     paths = list(content_files())
     if limit:
         paths = paths[:limit]
-    emb = make_embedder(backend, dim)
+    emb = make_embedder(backend, dim, model)
 
     ids, headings, ordinals, texts, previews = [], [], [], [], []
     for doc_id, heading, ordinal, title, chunk in iter_chunks(paths):
@@ -381,11 +394,16 @@ def main():
                     default="auto")
     ap.add_argument("--limit", type=int, help="embed only the first N content files")
     ap.add_argument("--dim", type=int, default=384, help="dim for the hashing backend")
+    ap.add_argument("--model", help="override the backend's default model (e.g. "
+                                    "BAAI/bge-large-en-v1.5) — lets you A/B a model "
+                                    "against the current index without editing source. "
+                                    "The name is recorded in meta.json, and the serve "
+                                    "side reconstructs it from there.")
     args = ap.parse_args()
     if args.check:
         check()
     else:
-        build(args.backend, args.limit, args.dim)
+        build(args.backend, args.limit, args.dim, args.model)
 
 
 if __name__ == "__main__":

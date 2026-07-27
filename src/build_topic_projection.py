@@ -23,7 +23,7 @@ CHUNKS = EMB / "chunks.jsonl"
 GRAPH = REPO_ROOT / "_meta/graph.json"
 OUT = EMB / "projection.2d.json"
 SEED = 42
-N_TOPICS = 28  # semantic clusters over the 512-D embeddings (full coverage, no noise)
+N_TOPICS = 28  # semantic clusters over the 1024-D embeddings (full coverage, no noise)
 # boilerplate that appears across most Oregon docs and makes for useless topic labels
 DOMAIN_STOP = ("oregon rule rules chapter division department departments board commission "
                "definitions definition purpose scope general policy program requirements "
@@ -72,7 +72,7 @@ def compute() -> dict:
 
     fp = _fingerprint()
     ids = [json.loads(l)["doc_id"] for l in CHUNKS.read_text().splitlines()]
-    vecs = np.load(VECS).astype(np.float32)               # (N, 512), already L2*127
+    vecs = np.load(VECS).astype(np.float32)               # (N, 1024), already L2*127
     assert len(ids) == vecs.shape[0], f"{len(ids)} ids vs {vecs.shape[0]} vectors"
 
     # UMAP is the slow part and deterministic (fixed seed) — reuse the cached coordinates
@@ -90,12 +90,12 @@ def compute() -> dict:
         span = np.where(hi - lo > 0, hi - lo, 1.0)
         q = np.round((xy - lo) / span * 4095).astype(int)
 
-    # Cluster in the 512-D EMBEDDING space (not on the flattened 2-D map). The 2-D UMAP
+    # Cluster in the 1024-D EMBEDDING space (not on the flattened 2-D map). The 2-D UMAP
     # squashes the administrative core into visual homogeneity, but those docs separate by
     # topic in the full space — so clustering here follows real semantic structure and gives
     # meaningful, full-coverage labels instead of one 77% "core" blob. Cosine ≈ Euclidean on
-    # these L2-normalised vectors, so KMeans is appropriate; it's fast where HDBSCAN over 68k
-    # 512-D points is not. Each label is placed at its cluster's 2-D centroid on the map.
+    # these L2-normalised vectors, so KMeans is appropriate; it's fast where HDBSCAN over
+    # this many 1024-D points is not. Each label is placed at its cluster's 2-D centroid.
     from sklearn.cluster import MiniBatchKMeans
     cl = MiniBatchKMeans(n_clusters=N_TOPICS, random_state=SEED, n_init=5,
                          batch_size=2048).fit_predict(vecs)
