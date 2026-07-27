@@ -36,3 +36,6 @@ _meta/.cache/conflict-runs/
 _meta/embeddings/*
 # ...except the 2-D projection, which is small and IS a committed CI input (build_topic_map).
 !_meta/embeddings/projection.2d.json
+
+# Local-model evaluation output (reports, not corpus content).
+_meta/.cache/conflict-eval/
