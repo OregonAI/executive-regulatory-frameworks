@@ -1,0 +1,66 @@
+{
+ "note": "v2-vs-v3 prompt comparison over an IDENTICAL 9-bundle set (ORS chapters 328 and 332, tier=section, 7 reachable known candidates). Read the caveats before citing any number here.",
+ "eval_set": {
+  "chapters": [
+   "328",
+   "332"
+  ],
+  "bundles": 9,
+  "reachable_known": 7,
+  "known_types": {
+   "narrows": 3,
+   "broadens": 2,
+   "wrong_pointer": 2
+  }
+ },
+ "runs": [
+  {
+   "model": "gemma4:12b-it-qat",
+   "prompt": "v2",
+   "answered": "7/9",
+   "grounding": "14/14",
+   "phantom_ids": 0,
+   "recall": "2/7",
+   "volume": 7,
+   "caveat": "2 bundles unanswered; rates cover only the 7 answered."
+  },
+  {
+   "model": "qwen2.5:7b-instruct-q4_K_M",
+   "prompt": "v2",
+   "answered": "9/9",
+   "grounding": "12/22",
+   "phantom_ids": 8,
+   "recall": "1/7",
+   "volume": 16,
+   "seconds": 124
+  },
+  {
+   "model": "qwen2.5:7b-instruct-q4_K_M",
+   "prompt": "v3",
+   "answered": "9/9",
+   "grounding": "9/10",
+   "phantom_ids": 0,
+   "recall": "0/7",
+   "volume": 10,
+   "seconds": 169
+  },
+  {
+   "model": "claude-haiku-4-5",
+   "prompt": "v3-frontier",
+   "answered": "9/9",
+   "grounding": "2/2",
+   "phantom_ids": 0,
+   "recall": "1/7",
+   "volume": 1,
+   "caveat": "Ran the FRONTIER SYSTEM_V3 (grading, worked examples); the local models ran LOCAL_SYSTEM/_V3. Model and prompt are confounded across that row."
+  }
+ ],
+ "caveats": [
+  "NOT RUN: gemma4 x v3. Stopped by request before starting, so the 2x2 is incomplete and there is NO measurement of v3 on the only local model that was viable under v2.",
+  "n=7 known candidates. Qwen's recall moving 1/7 -> 0/7 is ONE candidate and is not a signal; the grounding and phantom-id deltas rest on larger denominators.",
+  "Qwen scored 55% grounding here vs 28% on the earlier 50-bundle set, so these 9 bundles are easier. This is why the v2 control was run: the historical number could not have served as a baseline.",
+  "Recall-by-type scores against the HAND label, not the model's own `type` field, so a model mislabelling a type cannot change the recall number."
+ ],
+ "finding": "v3 buys discipline and costs volume. On Qwen it took grounding 55%->90% and phantom document ids 8->0 while cutting output 16->10. Every model that saw a v3 prompt produced fewer, better-grounded candidates.",
+ "open_question": "Whether the eight named types SUPPRESS findings: a model that cannot map what it sees onto one label may stay silent rather than mislabel. Haiku produced 1 candidate from 9 bundles, all of it correct. The narrows/broadens pair is provably ambiguous -- Haiku called the veterans-diploma rule 'narrows' (fewer qualify) where the hand label says 'broadens' (rule adds a requirement); both readings are right."
+}
