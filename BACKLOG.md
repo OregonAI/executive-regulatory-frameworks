@@ -190,28 +190,92 @@ document-level while the code produced chunk-level, and a fresh build at 1600 ca
 once rebuilt. `build_embeddings.py` now fails loudly at that ceiling. Two related
 things were deliberately NOT done in that PR:
 
-- **`_meta/embeddings/projection.2d.json` was computed from the OLD document-level
-  vectors.** It passes `build_topic_map.py --check` and the topic map renders, because
-  the projection cache is self-consistent and the freshness check compares the cache
-  against itself — it cannot see that the vectors it was derived from changed shape
-  (69,395 document vectors → 167,844 chunk vectors). So the map is not wrong so much as
-  built from a superseded basis. Rebuild via `src/build_topic_projection.py` (needs
-  `umap-learn` from `requirements-embeddings.txt`, fixed seed) and re-run
-  `build_topic_map.py`. Worth pairing with a real fix to the staleness check: it should
-  key on the vector artifact's fingerprint, not only its own contents — this is the same
-  latent-staleness pattern that let the index itself drift unnoticed.
+- ~~**`_meta/embeddings/projection.2d.json` was computed from the OLD document-level
+  vectors.**~~ **REBUILT 2026-07-27** from the bge-m3 chunk index (211,102 points, 28
+  clusters; `build_topic_projection.py` took 3m23s, `build_topic_map.py` regenerated
+  `viz/topic-map.html`).
 
-- **The embedding backend is still `model2vec` (`potion-retrieval-32M`, dim 512).** It
-  was pinned deliberately during the rebuild to match what was committed. This host now
-  has a CUDA GPU, so `--backend auto` selects `sentence-transformers`
-  (`BAAI/bge-large-en-v1.5`, dim 1024) instead — a genuine retrieval-quality upgrade that
-  is no longer blocked by the old "~1-2 texts/sec on CPU" penalty. Not done here because
-  it re-embeds the whole corpus with a different model, and doubling the dimension
-  doubles bytes per vector: 167,844 × 1024 ≈ 164 MiB, **over the 100 MiB limit**, so it
-  cannot ship as a plain committed file. Doing it means solving that first — raise
-  `CHUNK_CHARS` further, shard the artifact, or move `_meta/embeddings/` to Git LFS — and
-  it deserves its own before/after retrieval evaluation rather than riding along with an
-  unrelated change.
+  **Still open — the staleness check itself.** It compares the projection cache against
+  its own contents, so it could not see that the vectors it was derived from had changed
+  shape (69,395 document vectors → 167,844 chunk vectors → now 211,102 chunk vectors at
+  dim 1024). It should key on the vector artifact's `fingerprint` in
+  `_meta/embeddings/meta.json` instead. This is the same latent-staleness pattern that
+  let the index itself drift unnoticed, and it will silently recur on the next re-embed.
+
+- ~~**The embedding backend is still `model2vec` (`potion-retrieval-32M`, dim 512).**~~
+  **DONE (2026-07-27):** the transformer default is now `BAAI/bge-m3` (dim 1024), selected
+  by `--backend auto` on this CUDA host. The 100 MiB blocker described here dissolved
+  rather than being solved: `_meta/embeddings/` is now gitignored (`.gitignore:36`), so
+  the 164 MiB artifact is never pushed and the size check in `build_embeddings.py` is
+  guarded by `_is_tracked_by_git` — advisory, not fatal. The model chosen was bge-m3 over
+  the bge-large-en-v1.5 contemplated here because bge-large caps at **512 tokens** while
+  `CHUNK_CHARS = 3200` produces chunks past it. Measured over an 11,449-chunk sample:
+  **34.3% of chunks exceed 512 tokens and 16.9% of all tokens** fell outside the window
+  (median chunk is 267 tokens, so most were unaffected — an earlier note here said "~40%
+  of every chunk", which was wrong). bge-m3's 8192-token context embeds them whole, and
+  it needs no query-instruction prefix — which the serve side never applied, and which
+  measurement showed cost nothing anyway. Dense head only; BM25 remains the lexical arm.
+  `--model` now exists for before/after A/B, and produced the numbers above.
+
+## Semantic query latency — ~365 ms/query, brute-force scan (open)
+
+**Symptom.** Every `search_corpus` call in `hybrid` or `semantic` mode costs ~365 ms in
+the vector arm. Measured end-to-end over 6 queries against the built index.
+
+**It is not the model.** Breakdown of a single query against the 211,102 × 1024 int8
+artifact:
+
+| stage | time |
+|---|---|
+| encode the query (bge-m3 forward pass) | 14.8 ms |
+| `vecs.astype(np.float32) @ q` | 293–460 ms |
+| `argsort` over 211k scores | 6.1 ms |
+
+**Root cause.** `rank()` in `src/semantic_search.py` (the line
+`scores = vecs.astype(np.float32) @ q`) converts the *entire* 206 MiB int8 matrix to
+float32 on **every query**, allocating an 864 MB temporary each time. The vectors are
+already held resident as int8 by `_semantic_index()`'s module-global cache; only the
+conversion repeats.
+
+This is pre-existing, not introduced by the bge-m3 switch — but the switch made it
+~2.5× worse in absolute terms by moving from 167,844 × 512 (86 MiB) to 211,102 × 1024
+(206 MiB). Note bge-large would have cost exactly the same: it is also 1024-dim. The
+real cause is the move off the 512-dim model2vec index, which predates both.
+
+**Already tried and ruled out — do not repeat.** Blocked matmul, to cap the temporary
+allocation, at three block sizes. It does not help; the work is memory-bandwidth-bound
+on 216M int8 values, not allocation-bound:
+
+    current (one 864 MB temp)  293.8 ms
+    8,192-row blocks           300.0 ms
+    32,768-row blocks          291.4 ms
+    65,536-row blocks          294.3 ms
+
+**Options, cheapest first.** None measured yet:
+
+1. **Keep a float32 copy resident** instead of converting per query. Eliminates the
+   `astype` entirely and is a few lines. Costs ~864 MB RSS per MCP server process,
+   which may be the real objection — the Docker image and any multi-worker deployment
+   pay it per process.
+2. **float16 resident matrix** — 432 MB instead of 864 MB. Needs measuring rather than
+   assuming: numpy upcasts float16 internally for matmul, so it may buy memory without
+   buying speed.
+3. **int8 dot with int32 accumulation.** `build_embeddings.py`'s own artifact note says
+   "cosine ≈ int32 dot / 127^2", so this was the intended arithmetic and nothing does
+   it. numpy has no int8 GEMM, so this likely needs a different primitive to be worth
+   anything.
+4. **An ANN index** (hnswlib / faiss). The only option that is sublinear and the only
+   one that keeps working as the corpus grows. Costs a new dependency, and the serve
+   side is deliberately lazy-import-and-degrade so the base install stays stdlib-only —
+   it would have to live in `requirements-embeddings.txt` and fall back cleanly.
+5. **Fewer vectors** by raising `CHUNK_CHARS`. Cheapest to try, but trades retrieval
+   granularity for latency and changes results — measure recall before and after.
+
+**Decide whether it matters first.** 365 ms inside an MCP tool call may be entirely
+acceptable; the agent is already waiting on an LLM turn. Establish a target before
+optimizing — if the answer is "fine as is", close this rather than carrying it. The
+number worth watching is not latency today but its growth: this is O(corpus), so it
+doubles when the corpus does.
 
 ## Other known deferrals
 
@@ -238,4 +302,5 @@ things were deliberately NOT done in that PR:
   (`potion-retrieval-32M`, dim 512), chunk granularity, 167,844 vectors covering all
   69,395 documents. The `hashing` fallback backend has NO semantic quality and remains
   wiring/tests only. Model and granularity follow-ups are tracked under "Semantic vector
-  index" above.
+  index" above. (That entry describes the state at the time; the model has since moved to
+  `BAAI/bge-m3` and the artifact is no longer committed — see above.)
