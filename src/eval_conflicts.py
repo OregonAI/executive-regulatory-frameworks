@@ -64,15 +64,60 @@ OUT_DIR = REPO_ROOT / "_meta/.cache/conflict-eval"      # gitignored: a report, 
 BASELINE_GROUNDING = 213 / 268
 
 
+TAXONOMY = REPO_ROOT / "_meta/eval/pilot-taxonomy.json"
+
+
+def load_taxonomy() -> tuple[dict, set]:
+    """index -> hand-labelled type, plus the set of types code (not a model) owns.
+    Absent file is not fatal: per-type recall is simply not reported."""
+    if not TAXONOMY.is_file():
+        return {}, set()
+    d = json.loads(TAXONOMY.read_text())
+    return d.get("labels", {}), set(d.get("mechanical_types", []))
+
+
+def _per_type(known: dict, reach: set, hit: set) -> list:
+    """Recall broken out by hand-labelled type. This is the whole point of the labels:
+    an aggregate recall number cannot tell you WHICH check to rewrite, and a prompt
+    change that helps one type while quietly costing another looks like noise without
+    it. Mechanical types are shown but flagged — a model missing them is correct now,
+    since detect_mechanical.py owns them."""
+    _, mech = load_taxonomy()
+    if not any(k.get("type") for k in known.values()):
+        return []
+    agg = {}
+    for fp in reach:
+        t = known[fp].get("type") or "unlabelled"
+        d = agg.setdefault(t, [0, 0])
+        d[1] += 1
+        if fp in hit:
+            d[0] += 1
+    rows = ["RECALL BY TYPE   (mechanical types are detect_mechanical.py's job — a miss "
+            "there is correct)"]
+    for t, (h, n) in sorted(agg.items(), key=lambda kv: (-kv[1][1], kv[0])):
+        tag = "code " if t in mech else "MODEL"
+        rows.append(f"            {tag} {t:<14} {h}/{n}"
+                    + (f"  ({100*h/n:.0f}%)" if n else ""))
+    rows.append("")
+    return rows
+
+
 def known_candidates(cat: dict) -> dict:
-    """fingerprint -> {chapter, summary, doc_ids} for every pilot candidate."""
-    out = {}
+    """fingerprint -> {chapter, summary, doc_ids, type} for every pilot candidate.
+
+    The taxonomy is keyed by POSITION in this same flattened walk (chapters in file
+    order, candidates within each), which is how the labels were produced. Keeping one
+    iteration order is what lets a hand-label attach to a fingerprint at all."""
+    labels, _ = load_taxonomy()
+    out, i = {}, 0
     for ch in cat["chapters"]:
         for cand in ch.get("candidates") or []:
             fp = candidate_fingerprint(ch["ors_chapter"], cand)
             out[fp] = {"chapter": str(ch["ors_chapter"]),
                        "summary": cand.get("summary", ""),
+                       "type": labels.get(str(i)),
                        "doc_ids": sorted({d["id"] for d in cand.get("documents") or []})}
+            i += 1
     return out
 
 
@@ -182,6 +227,8 @@ def main():
                     help="calibrate on the first N eval chapters before the full run")
     ap.add_argument("--limit-bundles", type=int)
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--prompt", choices=["v2", "v3"], default="v2",
+                    help="which local prompt to evaluate; run both to compare")
     ap.add_argument("--out", default=None)
     args = ap.parse_args()
 
@@ -217,16 +264,18 @@ def main():
         print("\nnothing was called — this is --dry-run.")
         return
 
+    sys_prompt = AC.LOCAL_SYSTEM_V3 if args.prompt == "v3" else AC.LOCAL_SYSTEM
     results, status = AC.LocalBackend(args.model, args.local_url,
-                                      max_tokens=args.max_output_tokens).run(bundles)
+                                      max_tokens=args.max_output_tokens,
+                                      system=sys_prompt).run(bundles)
     AC._report_status(status)
 
     # Persist the raw model output IMMEDIATELY, before any analysis touches it. A shape
     # bug in post-processing already destroyed one 60-minute run; inference is the
     # expensive, unrepeatable part and must never depend on the cheap part working.
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    raw_path = OUT_DIR / f"raw-{date.today().isoformat()}.json"
-    raw_path.write_text(json.dumps({"model": args.model, "status": status,
+    raw_path = OUT_DIR / f"raw-{args.prompt}-{date.today().isoformat()}.json"
+    raw_path.write_text(json.dumps({"model": args.model, "prompt": args.prompt, "status": status,
                                     "results": results}, indent=1, ensure_ascii=False),
                         encoding="utf-8")
     print(f"raw model output saved: {raw_path}", file=sys.stderr)
@@ -255,6 +304,7 @@ def main():
         f"({100*len(hit)/max(len(reach),1):.1f}%)",
         f"            {len(unreach)} known candidate(s) unreachable by this bundling",
         "",
+        *_per_type(known, reach, hit),
         f"GROUNDING   {gr['grounded']}/{gr['n_quotes']} quotes found in their cited source "
         f"({100*gr['grounded']/max(gr['n_quotes'],1):.1f}%)",
         f"            frontier baseline {BASELINE_GROUNDING*100:.1f}%  "
