@@ -30,25 +30,29 @@ similarity only), or `hybrid` (default — fuse both with reciprocal-rank fusion
 Hybrid finds conceptually-related wording that keyword search misses (e.g. "kickback"
 → "unlawful gratuity", "telework" → "remote work").
 
-The vector index is an **offline-built, committed artifact** under `_meta/embeddings/`
-(`vectors.i8.npy` int8 + `chunks.jsonl` + `meta.json`), produced by
+The vector index is an **offline-built, gitignored artifact** under `_meta/embeddings/`
+(`vectors.i8.npy` int8 + `chunks.jsonl` + `meta.json`) — build it locally to enable
+semantic search; a fresh clone has none and the server starts up keyword-only. Produced by
 `python3 src/build_embeddings.py` after any ingest (`--check` is a CI staleness gate that
 soft-passes when the index isn't built). Documents are chunked (title-prefixed,
 paragraph-boundary chunking — `chunk_text()`); each chunk is embedded and L2-normalized,
 int8-quantized so cosine ≈ int32 dot ÷ 127². `--backend auto` picks the embedding model
-based on available hardware: `sentence-transformers` (default `BAAI/bge-large-en-v1.5`,
-1024-dim, fp16 on GPU) when a CUDA GPU is present, else `model2vec` (static, CPU-fast,
-lower quality) as the CPU-appropriate fallback.
+based on available hardware: `sentence-transformers` (default `BAAI/bge-m3`, 1024-dim,
+fp16 on GPU) when a CUDA GPU is present, else `model2vec` (static, CPU-fast, lower
+quality) as the CPU-appropriate fallback. `--model` overrides the default to A/B another
+model. `bge-m3`'s 8192-token context embeds a whole chunk; the `BAAI/bge-large-en-v1.5`
+it replaced capped at 512 tokens and silently truncated ~40% of each one. Only bge-m3's
+dense head is used — the lexical arm of the hybrid is FTS5/BM25, fused by RRF.
 
 **Dependency policy:** the base install stays stdlib-only. Vector math (`numpy`) and the
 embedding model (`sentence-transformers`/`torch` or `model2vec`) live in the optional
 `requirements-embeddings.txt`. The query side (`src/semantic_search.py`) lazily imports
 them and **falls back to keyword-only** search whenever the artifact, numpy, or the model
 is absent — so a minimal install works unchanged, and semantic search "lights up" only
-where the extras and the committed index are present. Building the full-corpus index
+where the extras and a locally-built index are present. Building the full-corpus index
 requires the extras; the query side additionally needs the same model to encode the
 incoming query (its name is recorded in `meta.json` precisely so the query side always
-reconstructs the same one the committed vectors were built with).
+reconstructs the same one the vectors were built with).
 
 ## Local setup (stdio)
 

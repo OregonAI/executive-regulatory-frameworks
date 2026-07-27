@@ -190,28 +190,29 @@ document-level while the code produced chunk-level, and a fresh build at 1600 ca
 once rebuilt. `build_embeddings.py` now fails loudly at that ceiling. Two related
 things were deliberately NOT done in that PR:
 
-- **`_meta/embeddings/projection.2d.json` was computed from the OLD document-level
-  vectors.** It passes `build_topic_map.py --check` and the topic map renders, because
-  the projection cache is self-consistent and the freshness check compares the cache
-  against itself — it cannot see that the vectors it was derived from changed shape
-  (69,395 document vectors → 167,844 chunk vectors). So the map is not wrong so much as
-  built from a superseded basis. Rebuild via `src/build_topic_projection.py` (needs
-  `umap-learn` from `requirements-embeddings.txt`, fixed seed) and re-run
-  `build_topic_map.py`. Worth pairing with a real fix to the staleness check: it should
-  key on the vector artifact's fingerprint, not only its own contents — this is the same
-  latent-staleness pattern that let the index itself drift unnoticed.
+- ~~**`_meta/embeddings/projection.2d.json` was computed from the OLD document-level
+  vectors.**~~ **REBUILT 2026-07-27** from the bge-m3 chunk index (211,102 points, 28
+  clusters; `build_topic_projection.py` took 3m23s, `build_topic_map.py` regenerated
+  `viz/topic-map.html`).
 
-- **The embedding backend is still `model2vec` (`potion-retrieval-32M`, dim 512).** It
-  was pinned deliberately during the rebuild to match what was committed. This host now
-  has a CUDA GPU, so `--backend auto` selects `sentence-transformers`
-  (`BAAI/bge-large-en-v1.5`, dim 1024) instead — a genuine retrieval-quality upgrade that
-  is no longer blocked by the old "~1-2 texts/sec on CPU" penalty. Not done here because
-  it re-embeds the whole corpus with a different model, and doubling the dimension
-  doubles bytes per vector: 167,844 × 1024 ≈ 164 MiB, **over the 100 MiB limit**, so it
-  cannot ship as a plain committed file. Doing it means solving that first — raise
-  `CHUNK_CHARS` further, shard the artifact, or move `_meta/embeddings/` to Git LFS — and
-  it deserves its own before/after retrieval evaluation rather than riding along with an
-  unrelated change.
+  **Still open — the staleness check itself.** It compares the projection cache against
+  its own contents, so it could not see that the vectors it was derived from had changed
+  shape (69,395 document vectors → 167,844 chunk vectors → now 211,102 chunk vectors at
+  dim 1024). It should key on the vector artifact's `fingerprint` in
+  `_meta/embeddings/meta.json` instead. This is the same latent-staleness pattern that
+  let the index itself drift unnoticed, and it will silently recur on the next re-embed.
+
+- ~~**The embedding backend is still `model2vec` (`potion-retrieval-32M`, dim 512).**~~
+  **DONE (2026-07-27):** the transformer default is now `BAAI/bge-m3` (dim 1024), selected
+  by `--backend auto` on this CUDA host. The 100 MiB blocker described here dissolved
+  rather than being solved: `_meta/embeddings/` is now gitignored (`.gitignore:36`), so
+  the 164 MiB artifact is never pushed and the size check in `build_embeddings.py` is
+  guarded by `_is_tracked_by_git` — advisory, not fatal. The model chosen was bge-m3 over
+  the bge-large-en-v1.5 contemplated here because bge-large caps at **512 tokens** while
+  `CHUNK_CHARS = 3200` produces ~900-token chunks — it would have silently truncated ~40%
+  of every chunk. bge-m3's 8192-token context embeds them whole, and it needs no
+  query-instruction prefix (which the serve side never applied anyway). Dense head only;
+  BM25 remains the lexical arm. `--model` now exists for before/after A/B.
 
 ## Other known deferrals
 
@@ -238,4 +239,5 @@ things were deliberately NOT done in that PR:
   (`potion-retrieval-32M`, dim 512), chunk granularity, 167,844 vectors covering all
   69,395 documents. The `hashing` fallback backend has NO semantic quality and remains
   wiring/tests only. Model and granularity follow-ups are tracked under "Semantic vector
-  index" above.
+  index" above. (That entry describes the state at the time; the model has since moved to
+  `BAAI/bge-m3` and the artifact is no longer committed — see above.)
