@@ -1,3 +1,11 @@
 .venv/
 _meta/.cache/
 __pycache__/
+# ~265 MB of vectors the image cannot read: requirements.txt omits the embeddings extras,
+# so numpy is absent and src/semantic_search.py degrades to keyword-only. Pure dead weight.
+_meta/embeddings/
+# Generated at deploy time by the pages workflow; never needed at runtime.
+site/
+# NOTE: .git is deliberately NOT ignored — it is a RUNTIME dependency (the FTS cache key is
+# `git rev-parse HEAD` + a hash of `git status --porcelain`, and corpus_overview() runs
+# `git log -1`). Build from a depth-1 clone to keep it small; see the Dockerfile header.
