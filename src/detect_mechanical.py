@@ -1,18 +1,29 @@
 #!/usr/bin/env python3
 """Conflict candidates that need no model at all.
 
-WHY THIS EXISTS. A hand-labelled taxonomy of the 137 frontier-model pilot candidates
-found that roughly 40% of them are DETERMINISTIC: a citation to a section that does not
-exist, a rule marked current beside its own repeal, a rule filed before the statute it
-implements was last amended, frontmatter disagreeing with itself. Asking a language model
-to eyeball those costs ~636s per bundle on local hardware, can hallucinate, and finds
-fewer of them than a regex does — a first pass over 4,000 of 36,953 rules turned up 486
-distinct dead citations across 772 documents, where the pilot's frontier models reported
-21 such candidates in total.
+WHY THIS EXISTS. A hand-labelled taxonomy of all 137 frontier-model pilot candidates
+(_meta/eval/pilot-taxonomy.json) found 40 of them — 29% — are DETERMINISTIC: a citation
+to a section that does not exist, a rule marked current beside its own repeal, a rule
+filed before the statute it implements was last amended, frontmatter disagreeing with
+itself.
 
-So these are code, not prompts. The model's budget belongs on the ~60% that genuinely
-requires reading comprehension: what a rule omits, what it adds without authority, how it
-redefines a statutory term, where two agencies disagree.
+CORRECTION: this file previously claimed ~40%. That was an estimate made before the
+labelling existed, and it over-counted by folding in numeric-threshold mismatches. Those
+are NOT mechanical — deciding that a rule's $180 fee conflicts with a statutory
+"$50 base + $25 CE" cap requires reading both texts and working out that they govern the
+same trigger. They are the `numeric` semantic type (14 candidates) and belong to the
+model.
+
+Asking a language model to eyeball the deterministic ones costs ~636s per bundle on local
+hardware, can hallucinate, and finds fewer of them than a regex does — a first pass over
+4,000 of 36,953 rules turned up 486 distinct dead citations across 772 documents, where
+the pilot's frontier models reported 21 such candidates in total.
+
+So these are code, not prompts. The model's budget belongs on the other 97 (71%), which
+genuinely require reading comprehension: what a rule omits, what it adds without
+authority, how it redefines a statutory term, where two agencies disagree. Those eight
+types are enumerated as explicit checks in analyze_conflicts.py's SYSTEM_V3 prompt, and
+that prompt DISQUALIFIES the four types handled here so the two do not overlap.
 
 EVERYTHING HERE IS A CANDIDATE, NOT A FINDING, and one limit matters more than the rest.
 
