@@ -83,7 +83,19 @@ GRAPH = REPO_ROOT / "_meta/graph.json"
 STATE = REPO_ROOT / "_meta/.cache/conflict-runs"      # gitignored; batch bookkeeping
 
 PROMPT_VERSION = "conflict-v2-2026-07"
+# v3 names all eight semantic checks and disqualifies the mechanical ones (see SYSTEM_V3).
+# Both are kept so a rewrite can be MEASURED against the prompt it replaces rather than
+# swapped in on the strength of its own reasoning; --prompt selects, and the choice is
+# recorded per candidate so mixed catalogs stay attributable.
+PROMPT_VERSIONS = {"v2": "conflict-v2-2026-07", "v3": "conflict-v3-2026-07"}
+# Opus is the PRODUCTION path only — a full --tier section pass is 7,464 requests and
+# ~$154 of input at batch pricing, so it is not something to spend on an experiment.
+# EVALUATE WITH HAIKU instead (see EVAL_MODEL): measuring whether a prompt change helps
+# does not need the expensive model, and the comparison is against the pilot's recorded
+# candidates either way. eval_conflicts.py --from-raw scores any model's output through
+# the same grounding and recall code, so a Haiku run is directly comparable to a local one.
 DEFAULT_MODEL = "claude-opus-5"
+EVAL_MODEL = "claude-haiku-4-5"
 # Well inside every current context window, leaving room for the instructions and a long
 # reply. Bundles above this are split.
 MAX_BUNDLE_TOKENS = 150_000
@@ -308,6 +320,133 @@ Reply with ONLY a fenced ```json block, no prose before or after:
 An empty list is the correct answer when nothing qualifies."""
 
 
+# ---------------------------------------------------------------------------------
+# conflict-v3. Written against a hand-labelled taxonomy of all 137 pilot candidates
+# (_meta/eval/pilot-taxonomy.json), not against intuition. Two measurements drove it:
+#
+#   1. 40 of 137 (29%) are decidable by code and are now detect_mechanical.py's job.
+#      v2 spent model attention on them anyway and, on the dead-citation class, found
+#      21 where a regex finds 486. They are DISQUALIFIED below, explicitly.
+#   2. Of the 97 that genuinely need reading, v2 cued only 63. The four types with no
+#      cue at all -- redefines (11), wrong_pointer (15), discretion (5), internal (3)
+#      -- are 35% of the semantic work, and wrong_pointer is the second-largest
+#      semantic type in the whole pilot.
+#
+# So v3 names all eight semantic checks, each with the question that DISCRIMINATES it
+# (not just a label), and each anchored to a real pilot finding so the model is matching
+# a pattern it can see rather than guessing at an abstraction. It also emits `type`,
+# which is what makes per-type recall measurable -- without it, tuning is guesswork.
+SYSTEM_V3 = """You are assisting a public, non-authoritative reference corpus of Oregon law.
+
+You will be given one ORS statute section and the full text of every Oregon Administrative
+Rule that implements it. Find CANDIDATE inconsistencies for human legal review.
+
+Absolute requirements — these override any instinct to be helpful or comprehensive:
+
+1. NEVER assert that a conflict exists. Everything you produce is a candidate for review.
+2. NEVER quote text that is not present verbatim in the document you attribute it to. Every
+   quote is mechanically checked against the source; an invented quote is the single worst
+   failure mode here. Copy exactly, including punctuation and capitalization. Use "..." for
+   elision. If you cannot quote it exactly, do not raise the candidate.
+3. NEVER cite a document id that was not given to you.
+4. Report NOTHING rather than something marginal. A statute whose rules are consistent is a
+   valid and useful result. Do not manufacture findings to seem thorough.
+
+DO NOT REPORT THESE — separate tooling already finds them, and reporting them here costs
+review time without adding anything:
+- A citation to a statute or rule that does not exist, or a repealed one. (dead reference)
+- A rule marked current whose own text declares a sunset that has passed. (repealed)
+- A rule older than the statute it implements, with no other discrepancy. Age alone is not
+  a conflict. Only report it if you can point to specific text the amendment changed.
+- Frontmatter, metadata, or relationship-list disagreements. You are reading the TEXT.
+
+THE EIGHT CHECKS. Run each against every rule. The question is what discriminates the
+type — apply it literally.
+
+1. NARROWS — does the rule restrict something the statute states more broadly?
+   Ask: is there an item in a statutory list, a qualifying phrase, or a condition that the
+   rule's restatement drops or shrinks?
+   e.g. a rule restated the statute's "immediate family" definition but dropped one of its
+   four listed categories; another narrowed an exemption from "any building or premises" to
+   "residential building" only.
+
+2. BROADENS — does the rule reach parties, situations, or authority the statute does not?
+   Ask: could someone be covered by the rule but not by the statute?
+   e.g. a rule extended a statutory licensee-only immunity to delivery-facilitator
+   permittees, a class the statute never names; another expanded program-review criteria to
+   "community colleges", a class the statute never mentions.
+
+3. REDEFINES — does the rule give a term the statute defines a DIFFERENT meaning?
+   Ask: does the statute have a definitions section for this term, and does the rule's
+   version change its substance rather than just its wording?
+   e.g. a rule redefined "Governing Body" as a closed list of state boards, incompatible
+   with the statute's political-subdivision definition; another defined "harm" as "limited
+   to monetary loss" where the statute left it undefined and broader.
+
+4. NUMERIC — do a threshold, deadline, fee, cap, count, or date differ?
+   Ask: do the two numbers govern the SAME trigger? Different numbers for different
+   triggers are not a conflict.
+   e.g. a risk-assessment deadline of 60 days by rule vs 90 by statute for the same
+   trigger; a $10 biennial fee where the statute sets $3.
+
+5. WRONG_POINTER — does a cross-reference point at a provision that does not contain what
+   the citing text claims? The target EXISTS; it is about something else.
+   Ask: read the cited subsection. Does it actually say what the citing document implies?
+   e.g. a rule cited ORS 153.012 for dollar amounts, but 153.012 contains no dollar figures
+   (they are in 153.018); another cited subsection (3)(a) for a fund's revenue source, but
+   (3)(a) is a mining-claim exemption.
+
+6. DISCRETION — does the rule change whether something is mandatory?
+   Ask: does "shall" become "may", or an absolute standard become a balanceable one, or a
+   fixed deadline become open-ended?
+   e.g. a rule converted the statute's absolute "no injury to other water rights" standard
+   into one mitigable at Department discretion; another replaced a mandatory 90-day
+   approve/reject deadline with an open-ended process.
+
+7. RULE_VS_RULE — do two rules implementing this same statute disagree?
+   This needs no statutory conflict at all: the statute may be silent. Compare the rules
+   against EACH OTHER, especially rules from different agencies or different decades.
+   Ask: would a regulated party get different answers depending on which rule they read?
+   e.g. two rule sets tagged to the same statute set 120-day and 30-day deadlines for the
+   identical step; two agencies set different reapplication waiting periods where the
+   statute is silent.
+
+8. INTERNAL — does a single rule contradict itself?
+   Ask: do two clauses of the same rule give different answers to one question?
+   e.g. one rule set two different acreage caps for an identical trigger phrase; another
+   set a "no less than" floor pegged to a floating rate immediately followed by a hard cap.
+
+NOT a candidate — the pilot wasted review time on these:
+- A rule being more specific, more detailed, or procedurally elaborate than the statute.
+  That is what rules are for.
+- Differences in wording that carry the same legal meaning.
+- A rule filling a gap the statute leaves open, where the statute grants rulemaking
+  authority to do so.
+
+Grade every candidate:
+- confidence: how sure you are the tension is real, not an artifact of your reading.
+- severity: the practical consequence if it is real — does someone face contradictory
+  obligations, or is it a drafting untidiness?
+
+Reply with ONLY a fenced ```json block, no prose before or after:
+
+```json
+{"candidates": [
+  {"summary": "one sentence, plain language, no legal conclusion",
+   "type": "narrows|broadens|redefines|numeric|wrong_pointer|discretion|rule_vs_rule|internal",
+   "confidence": "low|medium|high",
+   "severity": "low|medium|high",
+   "documents": [
+     {"id": "<exact document id given to you>",
+      "citation": "<e.g. ORS 291.047(1)-(2) or OAR 137-045-0030(1)(a)>",
+      "quote": "<verbatim from that document>"}
+   ]}
+]}
+```
+
+An empty list is the correct answer when nothing qualifies."""
+
+
 # A SECOND prompt, for small local models, because the full SYSTEM prompt above is
 # written for a frontier model and a 7B does better with a short contract.
 #
@@ -340,6 +479,39 @@ scope, or duty. Report candidates for a human to review, never conclusions.
 
 Reply with ONLY this JSON and nothing else:
 {"candidates":[{"summary":"one sentence","documents":[{"id":"exact id","citation":"e.g. ORS 291.047(1)","quote":"exact words"}]}]}"""
+
+
+# The local twin of SYSTEM_V3. Gemma 4 12B held the JSON contract and grounded 100% of
+# its quotes on the pilot subset, so it can carry the eight checks; it cannot reliably
+# produce confidence/severity, so those stay out rather than being invented. The checks
+# are compressed to one line each — a 12B follows a short list far better than prose, and
+# the worked examples that help a frontier model mostly cost context here.
+LOCAL_SYSTEM_V3 = """Compare the Oregon statute below against the rules that implement it.
+
+Report a candidate ONLY if one of these is true. Name which one in "type".
+
+narrows       the rule drops an item, condition, or qualifier the statute states
+broadens      the rule covers a party or situation the statute does not
+redefines     the rule gives a term the statute defines a different meaning
+numeric       a threshold, deadline, fee, cap, or date differs FOR THE SAME TRIGGER
+wrong_pointer a cross-reference points at a provision that does not say what is claimed
+discretion    the rule makes a statutory "shall" optional, or an absolute standard flexible
+rule_vs_rule  two rules here disagree with each other (the statute may be silent)
+internal      one rule contradicts itself
+
+IGNORE these — other tooling handles them:
+- a citation to something that does not exist, or was repealed
+- a rule being older than the statute, with nothing else wrong
+- a rule simply being more detailed or specific than the statute
+
+- Copy every quote EXACTLY from the text you were given. Never write text that is not
+  there. Quotes are checked mechanically against the source.
+- Only cite an id that appears above.
+- If nothing matches, reply {"candidates":[]}. That is a correct and useful answer.
+  Do not invent a finding to seem thorough.
+
+Reply with ONLY this JSON and nothing else:
+{"candidates":[{"summary":"one sentence","type":"one of the eight above","documents":[{"id":"exact id","citation":"e.g. ORS 291.047(1)","quote":"exact words"}]}]}"""
 
 
 def render_user(bundle: dict) -> str:
@@ -381,7 +553,8 @@ class ClaudeBatchBackend:
     """Anthropic Batch API. 50% off list, <=100k requests per batch."""
     name = "claude"
 
-    def __init__(self, model: str):
+    def __init__(self, model: str, system: str | None = None,
+                 prompt_version: str | None = None):
         self.model = model
         try:
             import anthropic
@@ -391,6 +564,8 @@ class ClaudeBatchBackend:
             sys.exit("--backend claude needs ANTHROPIC_API_KEY in the environment.")
         self.anthropic = anthropic
         self.client = anthropic.Anthropic()
+        self.system = system or SYSTEM
+        self.prompt_version = prompt_version or PROMPT_VERSION
 
     def submit(self, bundles: list) -> str:
         reqs = [{
@@ -399,7 +574,7 @@ class ClaudeBatchBackend:
                 "model": self.model,
                 "max_tokens": 8000,
                 # Cache the shared instruction prefix across every request in the batch.
-                "system": [{"type": "text", "text": SYSTEM,
+                "system": [{"type": "text", "text": self.system,
                             "cache_control": {"type": "ephemeral"}}],
                 "messages": [{"role": "user", "content": render_user(b)}],
             },
@@ -530,7 +705,8 @@ def _report_status(status: dict) -> None:
 
 # --------------------------------------------------------------------------- merge
 
-def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str) -> dict:
+def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
+                       prompt_version: str | None = None) -> dict:
     """Fold new candidates into the catalog, PRESERVING existing triage.
 
     Triage carries over by fingerprint (chapter + the set of cited document/subsection
@@ -554,10 +730,12 @@ def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str) ->
         for c in cands:
             entry = {
                 "summary": c.get("summary", ""),
+                # v3 asks which of the eight checks fired; v2 has no such field.
+                "type": c.get("type"),
                 "documents": c.get("documents") or [],
                 "run_id": run_id,
                 "model": model,
-                "prompt_version": PROMPT_VERSION,
+                "prompt_version": prompt_version or PROMPT_VERSION,
                 "confidence": c.get("confidence"),
                 "severity": c.get("severity"),
                 "section": b["section"],
@@ -600,6 +778,9 @@ def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str) ->
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--prompt", choices=["v2", "v3"], default="v2",
+                    help="v2 = original; v3 = eight named semantic checks (default v2 "
+                         "until v3 is measured against it)")
     ap.add_argument("--backend", choices=["claude", "local"], default="claude")
     ap.add_argument("--model", default=None, help=f"default: {DEFAULT_MODEL} (claude)")
     ap.add_argument("--local-url", default="http://localhost:11434/v1",
@@ -657,14 +838,21 @@ def main():
         print("\nnothing was called — this is --dry-run.")
         return
 
+    # Resolve the prompt once, so the frontier and local paths and the recorded
+    # provenance cannot drift apart. The local variant keeps v3's checks but not its
+    # grading, which a 7B does not produce reliably (see LOCAL_SYSTEM).
+    prompt_version = PROMPT_VERSIONS[args.prompt]
+    sys_prompt = SYSTEM_V3 if args.prompt == "v3" else SYSTEM
+    local_prompt = LOCAL_SYSTEM_V3 if args.prompt == "v3" else LOCAL_SYSTEM
+
     if args.backend == "claude":
-        backend = ClaudeBatchBackend(model)
+        backend = ClaudeBatchBackend(model, sys_prompt, prompt_version)
         if args.submit:
             STATE.mkdir(parents=True, exist_ok=True)
             batch_id = backend.submit(bundles)
             (STATE / f"{batch_id}.json").write_text(json.dumps(
                 {"batch_id": batch_id, "run_id": args.run_id, "model": model,
-                 "prompt_version": PROMPT_VERSION,
+                 "prompt_version": prompt_version,
                  "bundles": [{k: v for k, v in b.items() if k not in ("statute", "rules")}
                              for b in bundles]}, indent=1))
             print(f"submitted batch {batch_id} ({len(bundles)} requests)\n"
@@ -672,10 +860,11 @@ def main():
             return
         results = backend.collect(args.collect)
     else:
-        results, status = LocalBackend(model, args.local_url).run(bundles)
+        results, status = LocalBackend(model, args.local_url,
+                                       system=local_prompt).run(bundles)
         _report_status(status)
 
-    cat = merge_into_catalog(results, bundles, args.run_id, model)
+    cat = merge_into_catalog(results, bundles, args.run_id, model, prompt_version)
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
     n = sum(len(v) for v in results.values())
     print(f"merged {n} candidate(s) from {len(results)} bundle(s) into "

@@ -1,0 +1,34 @@
+{
+  "model": "claude-haiku-4-5",
+  "prompt": "v3",
+  "results": {
+    "ors-328.205#0": [],
+    "ors-328.321#0": [],
+    "ors-328.331#0": [],
+    "ors-328.356#0": [],
+    "ors-328.465#0": [],
+    "ors-332.114#0": [
+      {
+        "summary": "Rule requires that veteran did not complete a high school diploma, while statute only requires that they attended a high school.",
+        "type": "narrows",
+        "confidence": "high",
+        "severity": "high",
+        "documents": [
+          {
+            "id": "ors-332.114",
+            "citation": "ORS 332.114(3)(a)",
+            "quote": "Attended a high school before serving in the Armed Forces of the United States"
+          },
+          {
+            "id": "oar-581-022-2005",
+            "citation": "OAR 581-022-2005(1)(b)",
+            "quote": "The veteran attended a high school, but did not complete a high school diploma, before serving in the Armed Forces of the United States."
+          }
+        ]
+      }
+    ],
+    "ors-332.158#0": [],
+    "ors-332.331#0": [],
+    "ors-332.334#0": []
+  }
+}
