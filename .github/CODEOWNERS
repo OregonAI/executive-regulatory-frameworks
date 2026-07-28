@@ -5,7 +5,18 @@
 /statutes/ @morficflux
 /rules/ @morficflux
 /executive-orders/ @morficflux
-/agencies/das/ @morficflux
+# One rule per agency tree. The previous single `/agencies/das/` entry pointed at a
+# directory that does not exist (the slug is the full name), and left the other eight
+# agencies falling through to `*` while looking as though they were covered.
+/agencies/department-of-administrative-services/ @morficflux
+/agencies/department-of-corrections/ @morficflux
+/agencies/department-of-environmental-quality/ @morficflux
+/agencies/department-of-human-services/ @morficflux
+/agencies/oregon-health-authority/ @morficflux
+/agencies/oregon-military-department/ @morficflux
+/agencies/oregon-watershed-enhancement-board/ @morficflux
+/agencies/oregon-youth-authority/ @morficflux
+/agencies/public-utility-commission/ @morficflux
 /external-references/ @morficflux
 /_meta/ @morficflux
 /src/ @morficflux

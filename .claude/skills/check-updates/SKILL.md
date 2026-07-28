@@ -53,13 +53,33 @@ changes.
 
 4. **Validate and land**:
 
-       corpus-validate-frontmatter --config _meta/corpus.yml \
-         --schema .toolkit/schemas/document.frontmatter.v1.schema.json
+       corpus-validate-frontmatter --config _meta/corpus.yml
        corpus-verify-provenance --config _meta/corpus.yml
-       python3 src/link_graph.py     # refresh relationship edges + _meta/graph.json
-       python3 src/review_queue.py   # refresh REVIEW.md (CI checks it is current;
-                                      # flags any rule/policy/procedure/standard left
-                                      # with zero relationship edges after linking)
+       python3 src/link_graph.py     # relationship edges + _meta/graph.json — run FIRST,
+                                      # most generators below read the graph
+
+       # CI gates ~20 generated artifacts, not three. Regenerating only link_graph and
+       # review_queue produces a PR that fails on a dozen staleness checks, so run the
+       # rest too. Order matters only in that link_graph comes first.
+       python3 src/build_ors_disposition.py      # repeal dispositions (feeds resolve_citation)
+       python3 src/enrich_statutes.py
+       python3 src/enrich_oar.py
+       python3 src/review_queue.py               # REVIEW.md
+       python3 src/build_llms.py                 # llms.txt
+       python3 src/build_agency_index.py
+       python3 src/build_agency_graph.py
+       python3 src/build_policy_gap.py
+       python3 src/build_statute_fan.py
+       python3 src/build_authority_explorer.py
+       python3 src/build_freshness_data.py && python3 src/build_freshness.py
+       python3 src/build_policy_age_data.py && python3 src/build_policy_age.py
+       python3 src/build_governor_priorities_data.py && python3 src/build_governor_priorities.py
+       python3 src/build_conflict_candidates_data.py && python3 src/build_conflict_candidates.py
+       python3 src/build_topic_map.py            # reads the committed UMAP projection
+
+       # NOT run here: src/build_embeddings.py. It needs a GPU and a 2.3 GB model, its
+       # artifact is gitignored, and its CI gate soft-passes when absent — so semantic
+       # search silently keeps serving the previous index until someone rebuilds it.
 
    Then write a `Source-Updated` entry in the affected body's `CHANGELOG.md`
    (what changed, old→new hash prefixes, any TODO markers left for human review),
