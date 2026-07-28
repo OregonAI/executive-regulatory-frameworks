@@ -187,8 +187,7 @@ is needed for state-authored content.
   (`.claude/skills/check-updates`) — group-scoped, token-efficient, driven by
   `src/check_updates.py` over the update groups in `_meta/sources/`. Log a
   `Source-Updated` entry in the affected body's `CHANGELOG.md`.
-- **Every PR**: run `corpus-validate-frontmatter --config _meta/corpus.yml --schema
-  .toolkit/schemas/document.frontmatter.v1.schema.json` and
+- **Every PR**: run `corpus-validate-frontmatter --config _meta/corpus.yml` and
   `corpus-verify-provenance --config _meta/corpus.yml` locally; complete the PR checklist; update the
   relevant `CHANGELOG.md` and, for new documents, the directory `_index.md`, and run
   `python3 src/build_llms.py` (llms.txt regenerates itself from the corpus).
@@ -251,8 +250,11 @@ logic and snapshot-slicing rules plug in via `src/citation_schemes.py` and
 `src/snapshot_slice.py` (see `_meta/corpus.yml`'s `plugins:` block). Its FTS cache lives
 in `_meta/.cache/` (gitignored) and rebuilds automatically when the repo changes.
 Semantic/vector search is optional and additive, wired in via `src/semantic_search.py`:
-it uses a committed int8 vector index under `_meta/embeddings/` (built offline by
-`src/build_embeddings.py`, refreshed after ingests, CI-gated by `--check`) and the
+it uses an int8 vector index under `_meta/embeddings/` (built offline by
+`src/build_embeddings.py`, refreshed after ingests). **The index is NOT committed** —
+`.gitignore` excludes it, so a fresh clone and CI both lack it and the `--check` gate
+soft-passes rather than verifying anything. Rebuild it by hand after an ingest; nothing
+will tell you it is stale. It needs the
 extras in `requirements-embeddings.txt` (numpy + a local embedding model); when those are
 absent the engine transparently falls back to keyword-only. Never hand-edit the vector
 artifact.
@@ -260,8 +262,7 @@ artifact.
 ## Validation commands
 
 ```bash
-corpus-validate-frontmatter --config _meta/corpus.yml \
-  --schema .toolkit/schemas/document.frontmatter.v1.schema.json   # schema + relationship-graph check
+corpus-validate-frontmatter --config _meta/corpus.yml   # schema + relationship-graph check
 corpus-verify-provenance --config _meta/corpus.yml   # snapshot hash + full-text containment/coverage
 corpus-detect-changes --config _meta/corpus.yml      # re-fetch manifest URLs, report hash drift
 ```
@@ -271,8 +272,10 @@ corpus-detect-changes --config _meta/corpus.yml      # re-fetch manifest URLs, r
 
 At corpus scale both validators support `--changed [ref]` (verify only files in the git
 diff vs `ref`, default merge-base with `origin/main`) and `-j N` (parallel workers,
-default all CPUs). CI uses `--changed` on PRs and the full corpus on push-to-main + a
-nightly cron. The relationship-resolution universe in `--changed` mode is read from
+default all CPUs). CI uses `--changed` on PRs **and on push-to-main** (the reusable workflow branches on
+`github.event_name`; the push arm passes `--changed "${{ github.event.before }}"`). Only
+the nightly cron and manual dispatch validate the full corpus — so between a merge and
+08:00 UTC, anything the diff did not touch is unverified. The relationship-resolution universe in `--changed` mode is read from
 `_meta/graph.json`'s nodes, so scoped PR runs still resolve targets against the whole corpus.
 
 Dependencies: `pip install -r requirements.txt` (installs corpus-toolkit, pinned in

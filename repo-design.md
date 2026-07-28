@@ -72,7 +72,8 @@ oregon-exec-knowledge/                 (public repo)
 │       └── codeowners-validate.yml
 ├── _meta/
 │   ├── schema/
-│   │   ├── document.frontmatter.schema.json   # JSON Schema for YAML header
+│   │   │   (the frontmatter JSON Schema moved to corpus-toolkit and now ships
+│   │   │    inside the installed package — this repo no longer holds a copy)
 │   │   └── source-manifest.schema.json
 │   ├── source-manifest.yml            # every upstream source: URL, hash, last-checked
 │   ├── skills/
@@ -274,7 +275,7 @@ Layered defense so "content is accurate and new content is not fabricated" (requ
 
 ## Recommendations (staged)
 
-**Stage 1 — Stand up the skeleton (week 1–2).** Create the public repo; add `README`, `DISCLAIMER.md`, `AGENTS.md`, `llms.txt`, `LICENSE` (CC0 content / MIT tooling), `CODEOWNERS`, the five `_meta/templates/`, and the `document.frontmatter.schema.json`. Turn on branch protection (PR + 1 CODEOWNER). *Benchmark to proceed:* schema validation and link-check workflows pass on a single hand-built sample file (`das-107-004-052.md`).
+**Stage 1 — Stand up the skeleton (week 1–2).** Create the public repo; add `README`, `DISCLAIMER.md`, `AGENTS.md`, `llms.txt`, `LICENSE` (CC0 content / MIT tooling), `CODEOWNERS`, the five `_meta/templates/`, and the frontmatter JSON Schema (now supplied by corpus-toolkit rather than kept here). Turn on branch protection (PR + 1 CODEOWNER). *Benchmark to proceed:* schema validation and link-check workflows pass on a single hand-built sample file (`das-107-004-052.md`).
 
 **Stage 2 — Pilot on DAS/EIS security (week 3–6).** Run the discovery skill against the DAS policy page, OARD chapter 125, ORS 276A/183, and the EIS/CSS standards; vet the manifest (gate #1); ingest ~10–15 documents including the 107-004 security cluster and the EIS IT Control Standards (split by control family) to prove the referenced-external-document pattern. *Benchmark:* every file passes `verify-provenance.yml`; a Copilot/Claude agent, given only `llms.txt`, can correctly answer "what standard must an agency uphold for information security, and what policy requires it?" citing the right files.
 

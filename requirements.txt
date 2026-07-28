@@ -1,2 +1,2 @@
 pyyaml
-corpus-toolkit[mcp] @ git+https://github.com/OregonAI/corpus-toolkit@v1.5.1
+corpus-toolkit[mcp] @ git+https://github.com/OregonAI/corpus-toolkit@v1.5.3
