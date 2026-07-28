@@ -706,7 +706,7 @@ def _report_status(status: dict) -> None:
 # --------------------------------------------------------------------------- merge
 
 def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
-                       prompt_version: str | None = None) -> dict:
+                       prompt_version: str | None = None, supersede: bool = False) -> dict:
     """Fold new candidates into the catalog, PRESERVING existing triage.
 
     Triage carries over by fingerprint (chapter + the set of cited document/subsection
@@ -764,16 +764,136 @@ def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
                                       if b["ors_chapter"] == chapter),
                 "candidates": cands,
             })
-        else:
-            # Re-analysis of an already-covered chapter REPLACES its candidates (triage
-            # already carried across above). Appending would duplicate every finding.
+        elif supersede:
+            # EXPLICIT, DESTRUCTIVE. Only for a deliberate supersession of a weaker run by
+            # a stronger one — the catalog's own history has a real instance: batch 3
+            # (Sonnet) superseding batch 2 (Haiku) on 13 chapters after a measured recall
+            # gap. Everything this run did not rediscover is DROPPED.
             ch["run_id"] = run_id
             ch["candidates"] = cands
+        else:
+            # UNION — a re-run may ADD but never REMOVE.
+            #
+            # This branch used to be `ch["candidates"] = cands`, which silently dropped
+            # every prior finding the new run failed to rediscover. That is a data-loss
+            # bug whenever a WEAKER model re-covers a chapter, and the recall gap making
+            # it likely is documented in this file's own methodology: Haiku found ~3x
+            # fewer candidates than Sonnet on identical chapters. A planned 12B local pass
+            # over 12 already-covered chapters would have destroyed 25 of the catalog's
+            # 137 candidates, with no error anywhere and the run reporting success.
+            #
+            # Deduping is by fingerprint, so re-running the SAME analysis is idempotent —
+            # which was the original comment's stated worry ("appending would duplicate
+            # every finding") and is handled without paying for it in lost data.
+            prior_by_fp = {}
+            for c in ch.get("candidates") or []:
+                prior_by_fp.setdefault(candidate_fingerprint(chapter, c), c)
+            added = []
+            for c in cands:
+                fp = candidate_fingerprint(chapter, c)
+                hit = prior_by_fp.get(fp)
+                if hit is None:
+                    added.append(c)
+                    continue
+                # Independently rediscovered. Keep the ORIGINAL entry — its provenance and
+                # triage are the ones a human reviewed — and record the corroboration,
+                # because two models arriving at the same finding is real signal.
+                corr = hit.setdefault("corroborated_by", [])
+                stamp = {"run_id": run_id, "model": model}
+                if stamp not in corr:
+                    corr.append(stamp)
+            ch["candidates"] = (ch.get("candidates") or []) + added
+            # Chapter-level run_id is the LAST run to touch the chapter. Per-candidate
+            # run_id/model is the authoritative provenance; nothing reads this one.
+            ch["run_id"] = run_id
     cat["chapters"].sort(key=lambda c: str(c["ors_chapter"]))
     return cat
 
 
 # --------------------------------------------------------------------------- cli
+
+def selftest() -> int:
+    """Prove the merge cannot silently drop a prior run's candidates.
+
+    The regression this guards: `ch["candidates"] = cands` replaced an already-covered
+    chapter's findings wholesale, so any re-run that failed to rediscover something
+    deleted it — no error, run reports success. A 12B local pass over 12 covered chapters
+    would have destroyed 25 of the catalog's 137 candidates.
+
+    Runs against synthetic bundles/results, so it needs no model, no network and no
+    catalog write, and is safe in CI.
+    """
+    import copy, tempfile, os
+    global CATALOG
+    fails = []
+
+    def candidate(doc, cite):
+        return {"summary": f"finding about {doc}", "documents": [{"id": doc, "citation": cite}]}
+
+    base = {"schema_version": 2, "chapters": [
+        {"ors_chapter": "291", "run_id": "pilot", "candidates": [
+            {**candidate("oar-125-055-0010", "OAR 125-055-0010(3)"),
+             "run_id": "pilot", "model": "sonnet",
+             "triage": {"status": "dismissed", "note": "checked", "by": "@dzinck", "date": "2026-07-01"}},
+            {**candidate("oar-125-055-0020", "OAR 125-055-0020(1)"),
+             "run_id": "pilot", "model": "sonnet", "triage": {"status": "unreviewed"}},
+        ]}]}
+
+    def run(results_for_291, supersede=False):
+        """Merge `results_for_291` into a fresh copy of `base` and return that chapter."""
+        fd, path = tempfile.mkstemp(suffix=".yml"); os.close(fd)
+        Path(path).write_text(yaml.safe_dump(copy.deepcopy(base)))
+        saved = CATALOG
+        try:
+            globals()["CATALOG"] = Path(path)
+            bundles = [{"custom_id": "c1", "ors_chapter": "291", "section": "ors-291.047",
+                        "partial": False, "rules": []}]
+            cat = merge_into_catalog({"c1": results_for_291}, bundles, "gemma-run",
+                                     "gemma4:12b", "v2", supersede=supersede)
+            return next(c for c in cat["chapters"] if c["ors_chapter"] == "291")
+        finally:
+            globals()["CATALOG"] = saved
+            os.unlink(path)
+
+    # 1. THE REGRESSION. A weak run that finds nothing must not delete anything.
+    ch = run([])
+    if len(ch["candidates"]) != 2:
+        fails.append(f"empty re-run dropped candidates: {len(ch['candidates'])} left, want 2")
+
+    # 2. A human verdict survives a re-run that did not rediscover the candidate.
+    ch = run([])
+    kept = ch["candidates"][0] if ch["candidates"] else None
+    if kept is None or (kept.get("triage") or {}).get("status") != "dismissed":
+        fails.append("triage lost on a candidate the re-run did not rediscover")
+
+    # 3. A genuinely new finding is added.
+    ch = run([candidate("oar-125-055-0030", "OAR 125-055-0030(2)")])
+    if len(ch["candidates"]) != 3:
+        fails.append(f"new candidate not added: {len(ch['candidates'])} present, want 3")
+
+    # 4. Rediscovering an existing finding does not duplicate it, and is recorded.
+    ch = run([candidate("oar-125-055-0010", "OAR 125-055-0010(3)")])
+    if len(ch["candidates"]) != 2:
+        fails.append(f"rediscovery duplicated a candidate: {len(ch['candidates'])}, want 2")
+    elif not ch["candidates"][0].get("corroborated_by"):
+        fails.append("rediscovery not recorded as corroboration")
+
+    # 5. Rediscovery must not overwrite the ORIGINAL run's provenance or triage.
+    ch = run([candidate("oar-125-055-0010", "OAR 125-055-0010(3)")])
+    c0 = ch["candidates"][0] if ch["candidates"] else {}
+    if c0.get("model") != "sonnet" or (c0.get("triage") or {}).get("status") != "dismissed":
+        fails.append("rediscovery overwrote the stronger run's provenance or triage")
+
+    # 6. --supersede still replaces, because deliberate supersession is a real need.
+    ch = run([], supersede=True)
+    if ch["candidates"]:
+        fails.append("--supersede did not replace")
+
+    for f in fails:
+        print(f"FAIL {f}")
+    print(f"merge selftest: {6 - len(fails)}/6 passed")
+    return 1 if fails else 0
+
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
@@ -800,7 +920,20 @@ def main():
     ap.add_argument("--submit", action="store_true", help="create a Claude batch and exit")
     ap.add_argument("--collect", metavar="BATCH_ID", help="merge a finished Claude batch")
     ap.add_argument("--run-id", default=f"run-{date.today().isoformat()}")
+    ap.add_argument("--supersede", action="store_true",
+                    help="DESTRUCTIVE: replace an already-covered chapter's candidates "
+                         "instead of adding to them. Everything this run does not "
+                         "rediscover is dropped. Only for a deliberate supersession of a "
+                         "weaker run by a stronger one; the default is a safe union.")
+    ap.add_argument("--selftest", action="store_true",
+                    help="prove the merge cannot drop a prior run's candidates")
     args = ap.parse_args()
+
+    if args.selftest:
+        # sys.exit, NOT return: main() is called bare at the bottom of this module, so a
+        # returned code is discarded and the gate would report failures while exiting 0 —
+        # a check that cannot fail. Matches ingest_eo.py's convention.
+        sys.exit(selftest())
 
     graph = json.loads(GRAPH.read_text())
     shared = shared_authority_chapters(graph)
@@ -864,7 +997,8 @@ def main():
                                        system=local_prompt).run(bundles)
         _report_status(status)
 
-    cat = merge_into_catalog(results, bundles, args.run_id, model, prompt_version)
+    cat = merge_into_catalog(results, bundles, args.run_id, model, prompt_version,
+                             supersede=args.supersede)
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
     n = sum(len(v) for v in results.values())
     print(f"merged {n} candidate(s) from {len(results)} bundle(s) into "
