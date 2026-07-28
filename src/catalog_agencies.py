@@ -41,6 +41,13 @@ from repo_lib import REPO_ROOT
 BASE = "https://oregon.public.law"
 INDEX_URL = f"{BASE}/rules"
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
+
+# Keys on a registry entry that are NOT derived from the upstream scrape and must survive a
+# --refresh. Add to this set whenever a curated field is introduced; forgetting to means the
+# curation disappears at the next refresh with no error and no diff anyone reads.
+#   budget_agency_code — hand-reviewed map to the DAS agency codes oregon-budget reports
+#                        spending against; see src/link_budget_codes.py.
+CURATED_KEYS = {"budget_agency_code"}
 UA = "executive-regulatory-frameworks (+https://github.com/OregonAI/executive-regulatory-frameworks)"
 
 ENTRY_RE = re.compile(
@@ -180,6 +187,21 @@ def cmd_refresh():
                 orgs.append(o)
                 by_slug[o["slug"]] = o
 
+        # Preserve CURATED FIELDS on entries the scrape rebuilds. Everything above is
+        # derived fresh from oregon.public.law, so a key that is not scraped — and
+        # `budget_agency_code` is not; it is a hand-reviewed mapping to the DAS codes
+        # oregon-budget reports spending against — would be silently dropped on the next
+        # --refresh. Silently is the problem: the file would still parse, every slug would
+        # still resolve, and the loss would only surface as a cross-corpus join that
+        # quietly stopped matching anything.
+        for o in prev.get("organizations", []):
+            current = by_slug.get(o["slug"])
+            if not current:
+                continue
+            for key in CURATED_KEYS:
+                if key in o and key not in current:
+                    current[key] = o[key]
+
     cat = {
         "note": ("Canonical registry of Oregon agencies and their sub-units, keyed on "
                  "the OAR chapter assignment scheme as presented by oregon.public.law/"
@@ -191,7 +213,11 @@ def cmd_refresh():
                  "Book directory were both previously used and dropped after review "
                  "(2026-07-18/19). validate_frontmatter.py requires every content "
                  "file's agency: field to resolve to 'statewide', 'external', or a "
-                 "slug here."),
+                 "slug here. budget_agency_code, where present, is the three-digit DAS "
+                 "agency code the oregon-budget corpus reports spending against; it is "
+                 "hand-reviewed (src/link_budget_codes.py), is NOT scraped from the "
+                 "source above, and is preserved across --refresh. Its absence on an "
+                 "entry means no counterpart was found, not that none was sought."),
         "source_url": INDEX_URL,
         "retrieved": date.today().isoformat(),
         "organizations": sorted(orgs, key=lambda o: o["slug"]),

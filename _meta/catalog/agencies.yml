@@ -22,6 +22,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_811
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '811'
 - slug: board-of-examiners-for-engineering-and-land-surveying
   name: Board of Examiners for Engineering and Land Surveying
   oar_chapter: '820'
@@ -50,6 +51,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_877
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '124'
 - slug: board-of-massage-therapists
   name: Board of Massage Therapists
   oar_chapter: '334'
@@ -71,6 +73,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_851
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '851'
 - slug: board-of-optometry
   name: Board of Optometry
   oar_chapter: '852'
@@ -85,6 +88,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_255
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '255'
 - slug: board-of-pharmacy
   name: Board of Pharmacy
   oar_chapter: '855'
@@ -92,6 +96,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_855
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '855'
 - slug: bureau-of-labor-and-industries
   name: Bureau of Labor and Industries
   oar_chapter: '839'
@@ -99,6 +104,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_839
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '839'
 - slug: chief-education-office
   name: Chief Education Office
   oar_chapter: '705'
@@ -106,6 +112,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_705
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '524'
 - slug: citizens-initiative-review-commission
   name: Citizens' Initiative Review Commission
   oar_chapter: '710'
@@ -120,6 +127,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_350
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '350'
 - slug: commission-for-the-blind
   name: Commission for the Blind
   oar_chapter: '585'
@@ -127,6 +135,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_585
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '585'
 - slug: construction-contractors-board
   name: Construction Contractors Board
   oar_chapter: '812'
@@ -134,6 +143,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_812
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '915'
 - slug: department-of-administrative-services
   name: Department of Administrative Services
   oar_chapter: '125'
@@ -141,6 +151,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_125
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '107'
 - slug: department-of-administrative-services-chief-financial-office
   name: Department of Administrative Services, Chief Financial Office
   oar_chapter: '122'
@@ -169,6 +180,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_603
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '603'
 - slug: department-of-agriculture-oregon-albacore-commission
   name: Department of Agriculture, Oregon Albacore Commission
   oar_chapter: '972'
@@ -337,6 +349,7 @@ organizations:
   source_url: https://oregon.public.law/rules
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '440'
 - slug: department-of-consumer-and-business-services-building-codes-division
   name: Department of Consumer and Business Services, Building Codes Division
   oar_chapter: '918'
@@ -400,6 +413,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_291
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '291'
 - slug: department-of-energy
   name: Department of Energy
   oar_chapter: '330'
@@ -407,6 +421,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_330
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '330'
 - slug: department-of-energy-energy-facility-siting-council
   name: Department of Energy, Energy Facility Siting Council
   oar_chapter: '345'
@@ -421,6 +436,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_340
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '340'
 - slug: department-of-fish-and-wildlife
   name: Department of Fish and Wildlife
   oar_chapter: '635'
@@ -428,6 +444,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_635
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '635'
 - slug: department-of-forestry
   name: Department of Forestry
   oar_chapter: '629'
@@ -435,6 +452,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_629
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '629'
 - slug: department-of-geology-and-mineral-industries
   name: Department of Geology and Mineral Industries
   oar_chapter: '632'
@@ -442,6 +460,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_632
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '632'
 - slug: department-of-human-services
   name: Department of Human Services
   oar_chapter: '407'
@@ -449,6 +468,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_407
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '100'
 - slug: department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities
   name: Department of Human Services, Aging and People with Disabilities and Developmental Disabilities
   oar_chapter: '411'
@@ -491,6 +511,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_137
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '137'
 - slug: department-of-public-safety-standards-and-training
   name: Department of Public Safety Standards and Training
   oar_chapter: '259'
@@ -498,6 +519,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_259
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '259'
 - slug: department-of-revenue
   name: Department of Revenue
   oar_chapter: '150'
@@ -505,6 +527,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_150
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '150'
 - slug: department-of-state-lands
   name: Department of State Lands
   oar_chapter: '141'
@@ -512,6 +535,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_141
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '141'
 - slug: department-of-state-lands-south-slough-national-estuarine-research-reserve
   name: Department of State Lands, South Slough National Estuarine Research Reserve
   oar_chapter: '142'
@@ -526,6 +550,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_257
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '257'
 - slug: department-of-state-police-office-of-state-fire-marshal
   name: Department of State Police, Office of State Fire Marshal
   oar_chapter: '837'
@@ -533,6 +558,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_837
   parent_slug: department-of-state-police
   parent_chapter: '257'
+  budget_agency_code: '260'
 - slug: department-of-state-police-oregon-state-athletic-commission
   name: Department of State Police, Oregon State Athletic Commission
   oar_chapter: '230'
@@ -547,6 +573,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_731
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '730'
 - slug: department-of-transportation-driver-and-motor-vehicle-services-division
   name: Department of Transportation, Driver and Motor Vehicle Services Division
   oar_chapter: '735'
@@ -596,6 +623,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_274
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '274'
 - slug: eastern-oregon-border-economic-development-board
   name: Eastern Oregon Border Economic Development Board
   oar_chapter: '124'
@@ -617,6 +645,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_471
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '471'
 - slug: employment-relations-board
   name: Employment Relations Board
   oar_chapter: '115'
@@ -624,6 +653,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_115
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '115'
 - slug: higher-education-coordinating-commission
   name: Higher Education Coordinating Commission
   oar_chapter: '715'
@@ -631,6 +661,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_715
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '525'
 - slug: higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development
   name: Higher Education Coordinating Commission, Office of Community Colleges and Workforce Development
   oar_chapter: '589'
@@ -659,6 +690,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_198
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '198'
 - slug: land-conservation-and-development-department
   name: Land Conservation and Development Department
   oar_chapter: '660'
@@ -666,6 +698,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_660
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '660'
 - slug: land-use-board-of-appeals
   name: Land Use Board of Appeals
   oar_chapter: '661'
@@ -673,6 +706,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_661
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '662'
 - slug: landscape-architect-board
   name: Landscape Architect Board
   oar_chapter: '804'
@@ -694,6 +728,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_156
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '156'
 - slug: long-term-care-ombudsman
   name: Long Term Care Ombudsman
   oar_chapter: '114'
@@ -701,6 +736,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_114
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '114'
 - slug: mental-health-regulatory-agency
   name: Mental Health Regulatory Agency
   oar_chapter: null
@@ -708,6 +744,7 @@ organizations:
   source_url: https://oregon.public.law/rules
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '108'
 - slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
   name: Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
   oar_chapter: '833'
@@ -760,6 +797,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_801
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '120'
 - slug: oregon-board-of-dentistry
   name: Oregon Board of Dentistry
   oar_chapter: '818'
@@ -767,6 +805,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_818
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '834'
 - slug: oregon-board-of-naturopathic-medicine
   name: Oregon Board of Naturopathic Medicine
   oar_chapter: '850'
@@ -788,6 +827,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_123
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '123'
 - slug: oregon-criminal-justice-commission
   name: Oregon Criminal Justice Commission
   oar_chapter: '213'
@@ -795,6 +835,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_213
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '213'
 - slug: oregon-department-of-aviation
   name: Oregon Department of Aviation
   oar_chapter: '738'
@@ -802,6 +843,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_738
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '109'
 - slug: oregon-department-of-education
   name: Oregon Department of Education
   oar_chapter: '581'
@@ -809,6 +851,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_581
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '581'
 - slug: oregon-department-of-education-early-learning-division
   name: Oregon Department of Education, Early Learning Division
   oar_chapter: '414'
@@ -816,6 +859,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_414
   parent_slug: oregon-department-of-education
   parent_chapter: '581'
+  budget_agency_code: '588'
 - slug: oregon-department-of-education-fair-dismissal-appeals-board
   name: Oregon Department of Education, Fair Dismissal Appeals Board
   oar_chapter: '586'
@@ -837,6 +881,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_172
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '172'
 - slug: oregon-film-and-video-office
   name: Oregon Film and Video Office
   oar_chapter: '951'
@@ -851,6 +896,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_628
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '628'
 - slug: oregon-government-ethics-commission
   name: Oregon Government Ethics Commission
   oar_chapter: '199'
@@ -858,6 +904,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_199
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '199'
 - slug: oregon-health-authority
   name: Oregon Health Authority
   oar_chapter: '943'
@@ -865,6 +912,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_943
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '443'
 - slug: oregon-health-authority-equity-and-inclusion-division
   name: Oregon Health Authority Equity and Inclusion Division
   oar_chapter: '950'
@@ -988,6 +1036,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_813
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '914'
 - slug: oregon-investment-council
   name: Oregon Investment Council
   oar_chapter: '171'
@@ -1002,6 +1051,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_845
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '845'
 - slug: oregon-medical-board
   name: Oregon Medical Board
   oar_chapter: '847'
@@ -1009,6 +1059,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_847
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '847'
 - slug: oregon-military-department
   name: Oregon Military Department
   oar_chapter: null
@@ -1016,6 +1067,7 @@ organizations:
   source_url: https://oregon.public.law/rules
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '248'
 - slug: oregon-military-department-office-of-emergency-management
   name: Oregon Military Department, Office of Emergency Management
   oar_chapter: '104'
@@ -1023,6 +1075,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_104
   parent_slug: oregon-military-department
   parent_chapter: null
+  budget_agency_code: '258'
 - slug: oregon-patient-safety-commission
   name: Oregon Patient Safety Commission
   oar_chapter: '325'
@@ -1037,6 +1090,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_459
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '459'
 - slug: oregon-racing-commission
   name: Oregon Racing Commission
   oar_chapter: '462'
@@ -1044,6 +1098,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_462
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '862'
 - slug: oregon-state-library
   name: Oregon State Library
   oar_chapter: '543'
@@ -1051,6 +1106,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_543
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '543'
 - slug: oregon-state-lottery
   name: Oregon State Lottery
   oar_chapter: '177'
@@ -1065,6 +1121,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_250
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '250'
 - slug: oregon-state-treasury
   name: Oregon State Treasury
   oar_chapter: '170'
@@ -1072,6 +1129,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_170
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '170'
 - slug: oregon-tourism-commission
   name: Oregon Tourism Commission
   oar_chapter: '976'
@@ -1093,6 +1151,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_695
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '691'
 - slug: oregon-watershed-enhancement-board-oregon-agricultural-heritage-program
   name: Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program
   oar_chapter: '698'
@@ -1114,6 +1173,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_416
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '415'
 - slug: parks-and-recreation-department
   name: Parks and Recreation Department
   oar_chapter: '736'
@@ -1121,6 +1181,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_736
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '634'
 - slug: psychiatric-security-review-board
   name: Psychiatric Security Review Board
   oar_chapter: '859'
@@ -1128,6 +1189,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_859
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '399'
 - slug: public-utility-commission
   name: Public Utility Commission
   oar_chapter: '860'
@@ -1135,6 +1197,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_860
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '860'
 - slug: public-utility-commission-oregon-board-of-maritime-pilots
   name: Public Utility Commission, Oregon Board of Maritime Pilots
   oar_chapter: '856'
@@ -1149,6 +1212,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_863
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '919'
 - slug: secretary-of-state
   name: Secretary of State
   oar_chapter: null
@@ -1156,6 +1220,7 @@ organizations:
   source_url: https://oregon.public.law/rules
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '165'
 - slug: secretary-of-state-archives-division
   name: Secretary of State, Archives Division
   oar_chapter: '166'
@@ -1212,6 +1277,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_584
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '584'
 - slug: travel-information-council
   name: Travel Information Council
   oar_chapter: '733'
@@ -1233,3 +1299,4 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_690
   parent_slug: null
   parent_chapter: null
+  budget_agency_code: '690'
