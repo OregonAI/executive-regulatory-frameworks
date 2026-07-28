@@ -40,6 +40,13 @@ jobs:
       # a wrong date passes every other gate silently. Cases are real corpus lines.
       - name: Executive-order signed-date parser
         run: python3 src/ingest_eo.py --selftest
+      # A re-analysis must never delete a prior run's candidates. The merge used to
+      # replace an already-covered chapter's list wholesale, so a weaker model silently
+      # destroyed findings a stronger one produced — 25 of 137 would have gone in a
+      # planned 12B pass, with the run reporting success. Synthetic fixtures: no model,
+      # no network, no catalog write.
+      - name: Conflict-catalog merge must not drop prior candidates
+        run: python3 src/analyze_conflicts.py --selftest
 
       # --- generated-file staleness gates (moderate; every run) ---
       - name: Relationship graph must be current
