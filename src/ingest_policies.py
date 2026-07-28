@@ -80,7 +80,7 @@ def _sp_pdf_rows(web: str, list_url: str) -> list[dict]:
                                       "RenderOptions": 2, "ViewXml": vx}}).encode()
     import urllib.request
     req = urllib.request.Request(url, data=body, headers={
-        "User-Agent": "Mozilla/5.0 (oregon-policy-repo updater)",
+        "User-Agent": "Mozilla/5.0 (executive-regulatory-frameworks updater)",
         "Accept": "application/json;odata=verbose",
         "Content-Type": "application/json;odata=verbose"})
     with urllib.request.urlopen(req, timeout=90) as resp:
@@ -103,7 +103,7 @@ def _sp_list_items(web: str, list_url: str, fields: list[str]) -> list[dict]:
                                       "RenderOptions": 2, "ViewXml": vx}}).encode()
     import urllib.request
     req = urllib.request.Request(url, data=body, headers={
-        "User-Agent": "Mozilla/5.0 (oregon-policy-repo updater)",
+        "User-Agent": "Mozilla/5.0 (executive-regulatory-frameworks updater)",
         "Accept": "application/json;odata=verbose",
         "Content-Type": "application/json;odata=verbose"})
     with urllib.request.urlopen(req, timeout=90) as resp:

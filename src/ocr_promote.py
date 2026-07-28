@@ -24,7 +24,8 @@ Requires `ocrmypdf` and `pdftotext` on PATH. For each doc:
      doc-generation time, not at snapshot time).
   6. Rewrite the .md file:
      - content_mode: summary -> verbatim; content_exception line removed (dropping it
-       is what the schema uses to require verbatim — see document.frontmatter.schema.json).
+       is what the schema uses to require verbatim — see corpus-toolkit's bundled
+       document.frontmatter.v1.schema.json).
      - conversion_notes set from clean_pdf_text(), prefixed with an OCR disclosure so
        the fact that this text came from OCR (not the source's own text layer) is
        never hidden.

@@ -82,7 +82,7 @@ the issue.
 
 ## Phase 3 — Verify & merge (REVIEW GATE #2)
 
-1. Run locally: `corpus-validate-frontmatter --config _meta/corpus.yml --schema .toolkit/schemas/document.frontmatter.v1.schema.json && corpus-verify-provenance --config _meta/corpus.yml`.
+1. Run locally: `corpus-validate-frontmatter --config _meta/corpus.yml && corpus-verify-provenance --config _meta/corpus.yml`.
 2. Open the PR; complete the checklist in the PR template.
 3. A CODEOWNER for the knowledge body reviews against the source and merges.
 4. Commits carry `Assisted-by: <agent> (supervised|autonomous)` trailers.

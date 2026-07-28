@@ -130,6 +130,12 @@ def main():
         p = REPO / ("llms.txt" if src == "llms.txt" else f"viz/{src}")
         if p.exists():
             shutil.copyfile(p, SITE / src)
+    # GitHub Pages runs Jekyll over the artifact unless this exists, and Jekyll drops files
+    # beginning with an underscore. Nothing in site/ starts with one today, so this is
+    # pre-emptive — but corpus-toolkit's publish-index workflow emits it and this builder did
+    # not, and the first underscore-prefixed asset would have settled the disagreement by
+    # silently 404ing in production.
+    (SITE / ".nojekyll").write_text("", encoding="utf-8")
     print(f"built site/ ({stats()['documents']:,} documents) -> {SITE.relative_to(REPO)}")
     print(f"  corpus-index.json: {build_corpus_index(SITE)}")
 

@@ -46,7 +46,10 @@ snapshot_dir: "_meta/snapshots"
 
 mcp:
   server_name: "executive-regulatory-frameworks"
-  transports: [stdio, http]
+  # NOTE: there is no `transports:` key here. corpus-toolkit parses one into
+  # CorpusConfig.mcp_transports and then reads it nowhere — the transport is chosen
+  # solely by the --http flag on corpus-mcp-serve. Declaring it implied a control
+  # that does not exist.
 
 status:
   reverify_days: 90
