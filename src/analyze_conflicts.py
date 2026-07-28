@@ -554,7 +554,7 @@ class ClaudeBatchBackend:
     name = "claude"
 
     def __init__(self, model: str, system: str | None = None,
-                 prompt_version: str | None = None):
+                 prompt_version: str | None = None, thinking: int = 0):
         self.model = model
         try:
             import anthropic
@@ -568,11 +568,28 @@ class ClaudeBatchBackend:
         self.prompt_version = prompt_version or PROMPT_VERSION
 
     def submit(self, bundles: list) -> str:
+        # EXTENDED THINKING, off unless asked for. The conflict question is exactly the
+        # shape reasoning helps with — hold a statute provision and several rules in mind
+        # at once and decide whether they actually contradict — and the pilot's recorded
+        # weakness was a cheap model UNDER-reporting rather than hallucinating.
+        #
+        # Two API constraints, both enforced here rather than discovered as a 400:
+        #   * max_tokens must exceed budget_tokens, since thinking is drawn from the same
+        #     budget as the reply
+        #   * temperature must be 1 when thinking is on, so it is simply not sent
+        #
+        # collect() already keeps only `type == "text"` blocks, so thinking blocks are
+        # dropped rather than parsed as JSON.
+        extra = {}
+        if self.thinking:
+            extra["thinking"] = {"type": "enabled", "budget_tokens": self.thinking}
+        max_tokens = max(8000, self.thinking + 4000) if self.thinking else 8000
         reqs = [{
             "custom_id": b["custom_id"],
             "params": {
                 "model": self.model,
-                "max_tokens": 8000,
+                "max_tokens": max_tokens,
+                **extra,
                 # Cache the shared instruction prefix across every request in the batch.
                 "system": [{"type": "text", "text": self.system,
                             "cache_control": {"type": "ephemeral"}}],
@@ -919,6 +936,12 @@ def main():
                     help="show what would run — bundles, tokens, cost — and call nothing")
     ap.add_argument("--submit", action="store_true", help="create a Claude batch and exit")
     ap.add_argument("--collect", metavar="BATCH_ID", help="merge a finished Claude batch")
+    ap.add_argument("--thinking", type=int, default=0, metavar="TOKENS",
+                    help="extended-thinking budget for --backend claude (0 = off). The "
+                         "conflict question is the shape reasoning helps with, and the "
+                         "pilot's recorded weakness in a cheap model was UNDER-reporting, "
+                         "not hallucination. Recorded per candidate so a thinking run "
+                         "stays distinguishable from one without.")
     ap.add_argument("--run-id", default=f"run-{date.today().isoformat()}")
     ap.add_argument("--supersede", action="store_true",
                     help="DESTRUCTIVE: replace an already-covered chapter's candidates "
@@ -979,7 +1002,7 @@ def main():
     local_prompt = LOCAL_SYSTEM_V3 if args.prompt == "v3" else LOCAL_SYSTEM
 
     if args.backend == "claude":
-        backend = ClaudeBatchBackend(model, sys_prompt, prompt_version)
+        backend = ClaudeBatchBackend(model, sys_prompt, prompt_version, thinking=args.thinking)
         if args.submit:
             STATE.mkdir(parents=True, exist_ok=True)
             batch_id = backend.submit(bundles)
