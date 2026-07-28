@@ -136,6 +136,15 @@ organizations:
   parent_slug: null
   parent_chapter: null
   budget_agency_code: '585'
+- slug: commission-on-judicial-fitness-and-disability
+  name: Commission on Judicial Fitness and Disability
+  oar_chapter: null
+  raw_index_name: Commission on Judicial Fitness and Disability
+  source_url: null
+  parent_slug: null
+  parent_chapter: null
+  manual: true
+  budget_agency_code: '175'
 - slug: construction-contractors-board
   name: Construction Contractors Board
   oar_chapter: '812'
@@ -453,6 +462,8 @@ organizations:
   parent_slug: null
   parent_chapter: null
   budget_agency_code: '629'
+  aliases:
+  - State Forestry Department
 - slug: department-of-geology-and-mineral-industries
   name: Department of Geology and Mineral Industries
   oar_chapter: '632'
@@ -559,6 +570,10 @@ organizations:
   parent_slug: department-of-state-police
   parent_chapter: '257'
   budget_agency_code: '260'
+  aliases:
+  - Department of the State Fire Marshal
+  - Office of State Fire Marshal
+  - State Fire Marshal
 - slug: department-of-state-police-oregon-state-athletic-commission
   name: Department of State Police, Oregon State Athletic Commission
   oar_chapter: '230'
@@ -624,6 +639,15 @@ organizations:
   parent_slug: null
   parent_chapter: null
   budget_agency_code: '274'
+- slug: district-attorneys-and-deputies
+  name: District Attorneys and Deputies
+  oar_chapter: null
+  raw_index_name: District Attorneys and Deputies
+  source_url: null
+  parent_slug: null
+  parent_chapter: null
+  manual: true
+  budget_agency_code: '196'
 - slug: eastern-oregon-border-economic-development-board
   name: Eastern Oregon Border Economic Development Board
   oar_chapter: '124'
@@ -662,6 +686,8 @@ organizations:
   parent_slug: null
   parent_chapter: null
   budget_agency_code: '525'
+  aliases:
+  - Higher Education Coordinating Commission
 - slug: higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development
   name: Higher Education Coordinating Commission, Office of Community Colleges and Workforce Development
   oar_chapter: '589'
@@ -699,6 +725,8 @@ organizations:
   parent_slug: null
   parent_chapter: null
   budget_agency_code: '660'
+  aliases:
+  - Department of Land Conservation and Development
 - slug: land-use-board-of-appeals
   name: Land Use Board of Appeals
   oar_chapter: '661'
@@ -729,6 +757,60 @@ organizations:
   parent_slug: null
   parent_chapter: null
   budget_agency_code: '156'
+- slug: legislative-assembly
+  name: Legislative Assembly
+  oar_chapter: null
+  raw_index_name: Legislative Assembly
+  source_url: null
+  parent_slug: null
+  parent_chapter: null
+  manual: true
+  budget_agency_code: '155'
+- slug: legislative-commission-on-indian-services
+  name: Legislative Commission on Indian Services
+  oar_chapter: null
+  raw_index_name: Legislative Commission on Indian Services
+  source_url: null
+  parent_slug: null
+  parent_chapter: null
+  manual: true
+  budget_agency_code: '425'
+- slug: legislative-counsel-office
+  name: Legislative Counsel Office
+  oar_chapter: null
+  raw_index_name: Legislative Counsel Office
+  source_url: null
+  parent_slug: null
+  parent_chapter: null
+  manual: true
+  budget_agency_code: '142'
+- slug: legislative-fiscal-officer
+  name: Legislative Fiscal Officer
+  oar_chapter: null
+  raw_index_name: Legislative Fiscal Officer
+  source_url: null
+  parent_slug: null
+  parent_chapter: null
+  manual: true
+  budget_agency_code: '145'
+- slug: legislative-policy-and-research-committee
+  name: Legislative Policy and Research Committee
+  oar_chapter: null
+  raw_index_name: Legislative Policy and Research Committee
+  source_url: null
+  parent_slug: null
+  parent_chapter: null
+  manual: true
+  budget_agency_code: '143'
+- slug: legislative-revenue-office
+  name: Legislative Revenue Office
+  oar_chapter: null
+  raw_index_name: Legislative Revenue Office
+  source_url: null
+  parent_slug: null
+  parent_chapter: null
+  manual: true
+  budget_agency_code: '144'
 - slug: long-term-care-ombudsman
   name: Long Term Care Ombudsman
   oar_chapter: '114'
@@ -773,6 +855,26 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_339
   parent_slug: null
   parent_chapter: null
+- slug: office-of-public-defense-services
+  name: Office of Public Defense Services
+  oar_chapter: null
+  raw_index_name: Office of Public Defense Services
+  source_url: null
+  parent_slug: null
+  parent_chapter: null
+  manual: true
+  budget_agency_code: '404'
+  aliases:
+  - Public Defense Services Commission
+- slug: office-of-the-governor
+  name: Office of the Governor
+  oar_chapter: null
+  raw_index_name: Office of the Governor
+  source_url: null
+  parent_slug: null
+  parent_chapter: null
+  manual: true
+  budget_agency_code: '121'
 - slug: office-of-training-investigations-and-safety
   name: Office of Training, Investigations and Safety
   oar_chapter: '419'
@@ -790,6 +892,15 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_173
   parent_slug: null
   parent_chapter: null
+- slug: oregon-advocacy-commissions-office
+  name: Oregon Advocacy Commissions Office
+  oar_chapter: null
+  raw_index_name: Oregon Advocacy Commissions Office
+  source_url: null
+  parent_slug: null
+  parent_chapter: null
+  manual: true
+  budget_agency_code: '131'
 - slug: oregon-board-of-accountancy
   name: Oregon Board of Accountancy
   oar_chapter: '801'
@@ -860,6 +971,10 @@ organizations:
   parent_slug: oregon-department-of-education
   parent_chapter: '581'
   budget_agency_code: '588'
+  aliases:
+  - Department of Early Learning and Care
+  - Early Learning Division
+  - Early Learning Division of the Department of Education
 - slug: oregon-department-of-education-fair-dismissal-appeals-board
   name: Oregon Department of Education, Fair Dismissal Appeals Board
   oar_chapter: '586'
@@ -874,6 +989,8 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_423
   parent_slug: oregon-department-of-education
   parent_chapter: '581'
+  aliases:
+  - Youth Development Division
 - slug: oregon-facilities-authority
   name: Oregon Facilities Authority
   oar_chapter: '172'
@@ -1052,6 +1169,9 @@ organizations:
   parent_slug: null
   parent_chapter: null
   budget_agency_code: '845'
+  aliases:
+  - Liquor and Cannabis Commission
+  - Oregon Liquor and Cannabis Commission
 - slug: oregon-medical-board
   name: Oregon Medical Board
   oar_chapter: '847'
@@ -1076,6 +1196,9 @@ organizations:
   parent_slug: oregon-military-department
   parent_chapter: null
   budget_agency_code: '258'
+  aliases:
+  - Office of Emergency Management
+  - Oregon Department of Emergency Management
 - slug: oregon-patient-safety-commission
   name: Oregon Patient Safety Commission
   oar_chapter: '325'
@@ -1130,6 +1253,9 @@ organizations:
   parent_slug: null
   parent_chapter: null
   budget_agency_code: '170'
+  aliases:
+  - Office of the State Treasurer
+  - State Treasurer
 - slug: oregon-tourism-commission
   name: Oregon Tourism Commission
   oar_chapter: '976'
@@ -1190,6 +1316,15 @@ organizations:
   parent_slug: null
   parent_chapter: null
   budget_agency_code: '399'
+- slug: public-records-advocate
+  name: Public Records Advocate
+  oar_chapter: null
+  raw_index_name: Public Records Advocate
+  source_url: null
+  parent_slug: null
+  parent_chapter: null
+  manual: true
+  budget_agency_code: '104'
 - slug: public-utility-commission
   name: Public Utility Commission
   oar_chapter: '860'
@@ -1270,6 +1405,15 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_806
   parent_slug: null
   parent_chapter: null
+- slug: state-board-of-tax-practitioners
+  name: State Board of Tax Practitioners
+  oar_chapter: null
+  raw_index_name: State Board of Tax Practitioners
+  source_url: null
+  parent_slug: null
+  parent_chapter: null
+  manual: true
+  budget_agency_code: '119'
 - slug: teacher-standards-and-practices-commission
   name: Teacher Standards and Practices Commission
   oar_chapter: '584'

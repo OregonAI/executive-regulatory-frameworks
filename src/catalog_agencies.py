@@ -47,7 +47,10 @@ CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
 # curation disappears at the next refresh with no error and no diff anyone reads.
 #   budget_agency_code — hand-reviewed map to the DAS agency codes oregon-budget reports
 #                        spending against; see src/link_budget_codes.py.
-CURATED_KEYS = {"budget_agency_code"}
+#   aliases            — other names the same body is known by, including former names
+#                        after a rename. An ASSERTION of identity, reviewed once, rather
+#                        than a similarity score computed at query time.
+CURATED_KEYS = {"budget_agency_code", "aliases"}
 UA = "executive-regulatory-frameworks (+https://github.com/OregonAI/executive-regulatory-frameworks)"
 
 ENTRY_RE = re.compile(
