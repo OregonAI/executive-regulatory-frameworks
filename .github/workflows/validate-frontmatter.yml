@@ -82,6 +82,12 @@ jobs:
         run: python3 src/build_conflict_candidates_data.py --check
       - name: Conflict-candidates visualization must be current
         run: python3 src/build_conflict_candidates.py --check
+      # The DAS budget agency codes are a hand-reviewed mapping, not a scrape, and
+      # `catalog_agencies.py --refresh` rebuilds every entry from oregon.public.law. This
+      # catches a refresh that dropped them — which before CURATED_KEYS it silently did,
+      # leaving a file that still parsed and every slug still resolving.
+      - name: Budget agency codes must match the reviewed mapping
+        run: python3 src/link_budget_codes.py --check
 
       # --- heaviest full-corpus scans: nightly / on-demand only ---
       # agency_profile selftest: scans every one of ~69k files' frontmatter with no
