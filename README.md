@@ -59,8 +59,9 @@ can be added without schema changes.
 
 - Every content file has complete provenance frontmatter (`validate-frontmatter`).
 - Every `[VERBATIM]` quote is diffed against a pinned source snapshot (`verify-provenance`).
-- Upstream sources are re-fetched on a schedule; hash changes open an issue automatically
-  (`detect-upstream-changes`).
+- Upstream sources can be re-fetched on demand (`detect-upstream-changes`, `workflow_dispatch`
+  only — its cron was retired 2026-07-18); hash changes open an issue. This is operator-
+  initiated, not automatic: nothing re-checks the 1,874 declared sources unless someone asks.
 - All changes go through PR review with CODEOWNERS. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
