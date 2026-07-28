@@ -36,35 +36,107 @@ from repo_lib import REPO_ROOT
 
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
 
+# ---------------------------------------------------------------- curated registry data
+#
+# The registry is SCRAPED from OAR chapter assignment, which by construction can only
+# describe bodies that issue administrative rules. Two things it therefore cannot produce,
+# both curated here and both preserved across `catalog_agencies.py --refresh`:
+
+# 1. AGENCIES THAT ISSUE NO RULES. Real state bodies with real budgets that hold no OAR
+#    chapter — the Governor's office, the legislative-branch offices, the public-defense
+#    and judicial-conduct commissions. They appropriate and spend money, so oregon-budget
+#    needs to name them, but a chapter-keyed scrape will never see them.
+#
+#    DELIBERATELY EXCLUDED, because they are not agencies:
+#      999  Central Agency / State General Fund / back-up withholding — an accounting
+#           construct, confirmed with the maintainer
+#      833  Health Related Licensing Boards — a combined BUDGET unit over several small
+#           boards; mapping it to one entry would attribute other boards' spending to it
+#      —    the Emergency Board — a contingency fund that disburses THROUGH other
+#           agencies, confirmed with the maintainer as not an agency
+MANUAL_ENTRIES = [
+    ("public-records-advocate", "Public Records Advocate", "104"),
+    ("state-board-of-tax-practitioners", "State Board of Tax Practitioners", "119"),
+    ("office-of-the-governor", "Office of the Governor", "121"),
+    ("oregon-advocacy-commissions-office", "Oregon Advocacy Commissions Office", "131"),
+    ("legislative-counsel-office", "Legislative Counsel Office", "142"),
+    ("legislative-policy-and-research-committee",
+     "Legislative Policy and Research Committee", "143"),
+    ("legislative-revenue-office", "Legislative Revenue Office", "144"),
+    ("legislative-fiscal-officer", "Legislative Fiscal Officer", "145"),
+    ("legislative-assembly", "Legislative Assembly", "155"),
+    ("commission-on-judicial-fitness-and-disability",
+     "Commission on Judicial Fitness and Disability", "175"),
+    ("district-attorneys-and-deputies", "District Attorneys and Deputies", "196"),
+    ("office-of-public-defense-services", "Office of Public Defense Services", "404"),
+    ("legislative-commission-on-indian-services",
+     "Legislative Commission on Indian Services", "425"),
+]
+
+# 2. ALIASES. The same body is named differently by different sources, and matching on the
+#    registry's single canonical `name` forced every consumer to either miss the variant or
+#    invent fuzzy matching — which is how the Legislative Revenue Office got matched to the
+#    Department of Revenue during the first pass at this file.
+#
+#    An alias is an ASSERTION OF IDENTITY, reviewed once here, rather than a similarity
+#    score computed at query time. It also absorbs renames: when a body is renamed, its old
+#    name becomes an alias and every historical citation keeps resolving.
+#
+#    Sourced from the names Oregon appropriation bills actually use, measured in
+#    oregon-budget (_meta/unresolved-agencies.md).
+ALIASES = {
+    "department-of-forestry": ["State Forestry Department"],
+    "land-conservation-and-development-department": [
+        "Department of Land Conservation and Development"],
+    "department-of-state-police-office-of-state-fire-marshal": [
+        "State Fire Marshal", "Department of the State Fire Marshal",
+        "Office of State Fire Marshal"],
+    "oregon-military-department-office-of-emergency-management": [
+        "Oregon Department of Emergency Management", "Office of Emergency Management"],
+    "oregon-department-of-education-early-learning-division": [
+        "Early Learning Division of the Department of Education",
+        "Department of Early Learning and Care", "Early Learning Division"],
+    "oregon-department-of-education-youth-development-division": [
+        "Youth Development Division"],
+    "oregon-state-treasury": ["State Treasurer", "Office of the State Treasurer"],
+    # The 845 rename: Liquor Control Commission became the Liquor and Cannabis Commission.
+    # The budget dataset already shows both across FY2019-FY2025; the code never changed.
+    "oregon-liquor-control-commission": [
+        "Oregon Liquor and Cannabis Commission", "Liquor and Cannabis Commission"],
+    "office-of-public-defense-services": ["Public Defense Services Commission"],
+    "higher-education-coordinating-commission": ["Higher Education Coordinating Commission"],
+}
+
+
 # code -> registry slug. Reviewed by hand, 2026-07-28.
 MAPPING = {
     "100": "department-of-human-services",
-    "104": None,
+    "104": "public-records-advocate",
     "107": "department-of-administrative-services",
     "108": "mental-health-regulatory-agency",
     "109": "oregon-department-of-aviation",
     "114": "long-term-care-ombudsman",
     "115": "employment-relations-board",
-    "119": None,
+    "119": "state-board-of-tax-practitioners",
     "120": "oregon-board-of-accountancy",
-    "121": None,
+    "121": "office-of-the-governor",
     "123": "oregon-business-development-department",   # "Business Oregon" is its trade name
     "124": "board-of-licensed-social-workers",
-    "131": None,
+    "131": "oregon-advocacy-commissions-office",
     "137": "department-of-justice",
     "141": "department-of-state-lands",
-    "142": None,
-    "143": None,
-    "144": None,
-    "145": None,
+    "142": "legislative-counsel-office",
+    "143": "legislative-policy-and-research-committee",
+    "144": "legislative-revenue-office",
+    "145": "legislative-fiscal-officer",
     "150": "department-of-revenue",
-    "155": None,
+    "155": "legislative-assembly",
     "156": "legislative-administration-committee",
     "165": "secretary-of-state",
     "170": "oregon-state-treasury",
     "172": "oregon-facilities-authority",
-    "175": None,
-    "196": None,
+    "175": "commission-on-judicial-fitness-and-disability",
+    "196": "district-attorneys-and-deputies",
     "198": "judicial-department",
     "199": "oregon-government-ethics-commission",
     "213": "oregon-criminal-justice-commission",
@@ -81,9 +153,9 @@ MAPPING = {
     "340": "department-of-environmental-quality",
     "350": "columbia-river-gorge-commission",
     "399": "psychiatric-security-review-board",
-    "404": None,
+    "404": "office-of-public-defense-services",
     "415": "oregon-youth-authority",
-    "425": None,
+    "425": "legislative-commission-on-indian-services",
     "440": "department-of-consumer-and-business-services",
     "443": "oregon-health-authority",
     "459": "oregon-public-employees-retirement-system",
@@ -126,25 +198,6 @@ MAPPING = {
 # gap to be filled later by guessing — most of these are agencies that issue no
 # administrative rules, so they have no OAR chapter and correctly do not appear.
 UNMAPPED = {
-    "104": "Public Records Advocate — no OAR chapter in the registry.",
-    "119": "State Board of Tax Practitioners — not present in the registry.",
-    "121": "Office of the Governor — executive orders are a separate doc_type here; the "
-           "office holds no OAR chapter.",
-    "131": "Oregon Advocacy Commissions Office — not present in the registry.",
-    "142": "Legislative Counsel Office — legislative branch; issues no administrative rules.",
-    "143": "Legislative Policy and Research Committee — legislative branch. NOT the "
-           "Legislative Administration Committee (code 156), which the matcher proposed.",
-    "144": "Legislative Revenue Office — legislative branch. NOT the Department of Revenue "
-           "(code 150), which the matcher proposed with high confidence.",
-    "145": "Legislative Fiscal Officer — legislative branch.",
-    "155": "Legislative Assembly — legislative branch.",
-    "175": "Commission on Judicial Fitness and Disability — a separate body from the "
-           "Judicial Department (code 198), which the matcher proposed.",
-    "196": "District Attorneys and Deputies — county-level officers.",
-    "404": "Office of Public Defense Services — not present in the registry.",
-    "425": "Legislative Commission on Indian Services — legislative branch. The matcher "
-           "proposed the Department of Administrative Services on the shared word "
-           "'services' alone.",
     "833": "Health Related Licensing Boards is a combined BUDGET unit covering several "
            "small boards, not one legal entity. The Health Licensing Office (OAR 331) "
            "administers many of them but is not the same thing, and mapping a budget "
@@ -172,9 +225,16 @@ def load():
     return yaml.safe_load(CATALOG.read_text())
 
 
+def manual_slugs_present(cat) -> set:
+    return {o["slug"] for o in cat["organizations"] if o.get("manual")}
+
+
 def audit(cat) -> list[str]:
     """Faults that make the mapping unsafe, not merely incomplete."""
-    slugs = {o["slug"] for o in cat["organizations"]}
+    # MANUAL_ENTRIES slugs count as known: main() creates them in the same run, so
+    # validating MAPPING against the pre-insert registry would reject every code this
+    # change exists to map.
+    slugs = {o["slug"] for o in cat["organizations"]} | {s for s, _, _ in MANUAL_ENTRIES}
     problems = []
 
     for code, slug in MAPPING.items():
@@ -199,6 +259,40 @@ def audit(cat) -> list[str]:
     for code in UNMAPPED:
         if MAPPING.get(code) is not None:
             problems.append(f"{code}: listed in UNMAPPED but has a mapping")
+    for code, slug in MAPPING.items():
+        if slug is None and code not in UNMAPPED:
+            problems.append(f"{code}: unmapped with no recorded reason")
+
+    manual_slugs = {slug for slug, _, _ in MANUAL_ENTRIES}
+    if len(manual_slugs) != len(MANUAL_ENTRIES):
+        problems.append("MANUAL_ENTRIES contains a duplicate slug")
+    scraped = {o["slug"] for o in cat["organizations"] if not o.get("manual")}
+    for slug, name, code in MANUAL_ENTRIES:
+        # Collision means the SCRAPE now produces this slug — the upstream mirror has
+        # caught up and the manual entry is redundant. Compare against scraped entries
+        # only; `slugs` deliberately includes the manual ones so MAPPING validates.
+        if slug in scraped:
+            problems.append(f"{slug}: MANUAL_ENTRIES collides with a SCRAPED entry — the "
+                            f"mirror now indexes it, so remove the manual one by hand "
+                            f"after comparing names")
+        if MAPPING.get(code) != slug:
+            problems.append(f"{slug}: MANUAL_ENTRIES says code {code}, MAPPING disagrees")
+
+    # An alias must name a slug that exists, and must never be ambiguous — two slugs
+    # claiming one alias would make identity depend on iteration order.
+    seen_alias = {}
+    known = slugs | manual_slugs
+    for slug, names in ALIASES.items():
+        if slug not in known:
+            problems.append(f"aliases: '{slug}' is not a registry slug")
+        for n in names:
+            k = n.strip().lower()
+            if k in seen_alias and seen_alias[k] != slug:
+                problems.append(f"alias {n!r} claimed by both {seen_alias[k]} and {slug}")
+            seen_alias[k] = slug
+            if any(k == o["name"].lower() and o["slug"] != slug
+                   for o in cat["organizations"]):
+                problems.append(f"alias {n!r} on {slug} is another entry's canonical name")
     for code in REORGANIZED:
         if MAPPING.get(code) is None:
             problems.append(f"{code}: listed in REORGANIZED but has no mapping")
@@ -230,15 +324,48 @@ def main() -> int:
                 print(f"  FAIL {slug}: has budget_agency_code {o['budget_agency_code']!r} "
                       f"but the table does not map it")
                 bad += 1
-        print(f"\n{len(want)} codes mapped, {len(UNMAPPED)} deliberately unmapped"
+        for slug, name, _c in MANUAL_ENTRIES:
+            if slug not in by_slug:
+                print(f"  FAIL {slug}: manual entry missing from the registry")
+                bad += 1
+        for slug, names in ALIASES.items():
+            got = by_slug.get(slug, {}).get("aliases") or []
+            if sorted(names) != sorted(got):
+                print(f"  FAIL {slug}: aliases are {got!r}, table says {sorted(names)!r}")
+                bad += 1
+        print(f"\n{len(want)} codes mapped, {len(UNMAPPED)} deliberately unmapped, "
+              f"{len(MANUAL_ENTRIES)} manual entries, "
+              f"{sum(len(v) for v in ALIASES.values())} aliases"
               if not bad else f"\n{bad} discrepancy(ies)")
         return 1 if bad else 0
 
+    added = 0
+    for slug, name, _code in MANUAL_ENTRIES:
+        if slug in by_slug:
+            continue
+        entry = {"slug": slug, "name": name, "oar_chapter": None,
+                 "raw_index_name": name, "source_url": None,
+                 "parent_slug": None, "parent_chapter": None,
+                 # `manual` is what makes catalog_agencies.py --refresh keep it: the scrape
+                 # cannot produce a body that issues no rules, so a refresh would otherwise
+                 # delete every one of these.
+                 "manual": True}
+        cat["organizations"].append(entry)
+        by_slug[slug] = entry
+        added += 1
+
     for slug, code in want.items():
         by_slug[slug]["budget_agency_code"] = code
+    for slug, names in ALIASES.items():
+        if slug in by_slug:
+            by_slug[slug]["aliases"] = sorted(names)
+
+    cat["organizations"].sort(key=lambda o: o["slug"])
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
     print(f"wrote budget_agency_code for {len(want)} of {len(cat['organizations'])} "
           f"organizations")
+    print(f"  added {added} manual entry(ies) for agencies that issue no OAR rules")
+    print(f"  wrote aliases on {sum(1 for s in ALIASES if s in by_slug)} entry(ies)")
     print(f"  {len(UNMAPPED)} budget agency codes have no registry counterpart, by review")
     print(f"  {len(REORGANIZED)} map to a predecessor parent unit — see REORGANIZED")
     return 0
