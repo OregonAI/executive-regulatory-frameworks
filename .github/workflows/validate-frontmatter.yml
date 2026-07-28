@@ -44,6 +44,14 @@ jobs:
       # --- generated-file staleness gates (moderate; every run) ---
       - name: Relationship graph must be current
         run: python3 src/link_graph.py --check
+      # This one was missing, and its absence was not cosmetic: the disposition catalog fell
+      # 3,608 sections behind when a statute ingest landed without regenerating it, and the
+      # live MCP server spent that time answering "no such document exists" for statutes
+      # that were merely repealed — the exact confusion _resolve_ors exists to prevent.
+      # Cheap and purely local (it reads committed snapshots), so it belongs in the
+      # every-run tier rather than the nightly one.
+      - name: ORS disposition catalog must be current
+        run: python3 src/build_ors_disposition.py --check
       - name: llms.txt must be current
         run: python3 src/build_llms.py --check
       - name: Agency overview must be current
