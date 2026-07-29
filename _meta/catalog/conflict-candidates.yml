@@ -2074,6 +2074,9 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: haiku-v4-think-328332
+      model: claude-haiku-4-5-20251001
   - summary: An OST rule conditions nonstandard-district bond approval on ORS 328.280(1)'s purposes list
       instead of the statute's own ORS 328.205(1) list.
     documents:
@@ -2095,6 +2098,9 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: haiku-v4-think-328332
+      model: claude-haiku-4-5-20251001
   - summary: An OST bond-guaranty rule's ineligibility trigger omits the statute's cure/reinstatement
       mechanism.
     documents:
@@ -2141,9 +2147,63 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: haiku-v4-think-328332
+      model: claude-haiku-4-5-20251001
+  - summary: The statute allows qualified districts to forgo the state guaranty by not referring to ORS
+      328.321 to 328.356 on bond faces, giving districts a choice, but the rule mandates that districts
+      with a valid Certificate of Qualification and compliant with the rule must reference the guaranty
+      on the face of their bonds, removing the option to forgo after following procedures.
+    type: narrows
+    documents:
+    - id: ors-328.331
+      citation: ORS 328.331(4)
+      quote: Any qualified school district that chooses to forgo the benefits of the state guaranty for
+        a particular issue of school bonds may do so by not referring to ORS 328.321 to 328.356 on the
+        face of its school bonds.
+    - id: oar-170-063-0000
+      citation: OAR 170-063-0000(12)
+      quote: School Districts with a valid Certificate of Qualification, and that have complied with section
+        (6) and all other sections of this rule, shall evidence the State's guaranty of the School District's
+        bonds by...  (b) Referencing the guaranty on the face of the School District's applicable bond(s)
+    run_id: haiku-v4-think-328332
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v4-escape-2026-07
+    confidence: null
+    severity: null
+    section: ors-328.331
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule implements a school bond guaranty program for school districts, but ORS 328.356
+      addresses only the State Treasurer's own bond issuances and is subject to ORS 291.445, not a guaranty
+      program for school districts.
+    type: broadens
+    documents:
+    - id: ors-328.356
+      citation: ORS 328.356
+      quote: If the State Treasurer issues state bonds, the treasurer shall be subject to the provisions
+        of ORS 291.445 as an agency that is authorized to issue general obligation bonds that are ordinarily
+        to be repaid from General Fund appropriations.
+    - id: oar-170-063-0000
+      citation: OAR 170-063-0000(1)(b)
+      quote: The "Act" means the Oregon School Bond Guaranty Act set forth in ORS 328.321 to 328.356.
+    run_id: haiku-v4-think-328332
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v4-escape-2026-07
+    confidence: null
+    severity: null
+    section: ors-328.356
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ors-328.321 title is truncated ("Definitions for ORS 328.321 to").
-  run_id: pilot-2026-07
+  run_id: haiku-v4-think-328332
 - ors_chapter: '332'
   agencies: 4
   rules_reviewed: 4
@@ -2170,6 +2230,9 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: haiku-v4-think-328332
+      model: claude-haiku-4-5-20251001
   - summary: The same rule adds a 'did not complete a high school diploma' requirement the statute doesn't
       contain.
     documents:
@@ -2190,6 +2253,9 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: haiku-v4-think-328332
+      model: claude-haiku-4-5-20251001
   - summary: A rule cites ORS 332.158 as authority for public-charter-school facility rules, though ORS
       332.158(4) expressly excludes public charter schools from that section's scope.
     documents:
@@ -2210,9 +2276,113 @@ chapters:
       note: null
       by: null
       date: null
+  - summary: The rule creates a comprehensive regulatory framework for charter schools opening schools
+      in other school districts, but ORS 332.158(4) explicitly provides that 'The provisions of this section
+      do not apply to a public charter school.'
+    type: broadens
+    documents:
+    - id: ors-332.158
+      citation: ORS 332.158(4)
+      quote: The provisions of this section do not apply to a public charter school.
+    - id: oar-581-026-0600
+      citation: OAR 581-026-0600 (entire rule)
+      quote: 'Public Charter School Facility Location... The board of a school district that is not the
+        sponsoring school district of the public charter school may file a complaint with the Director
+        of the Oregon Department of Education or the director''s designee... if: (a) The public charter
+        school opens or operates a school or tutoring or testing facility within the boundaries of that
+        district'
+    run_id: haiku-v4-think-328332
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v4-escape-2026-07
+    confidence: null
+    severity: null
+    section: ors-332.158
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule requires the Oregon School for the Deaf (OSD) to develop, submit, test, and report
+      HASS Plans, but the statute only requires this of school districts, education service districts,
+      and public charter schools.
+    type: broadens
+    documents:
+    - id: ors-332.331
+      citation: ORS 332.331(1)
+      quote: A school district, education service district or public charter school shall develop and
+        adopt a plan, to be known as the Healthy and Safe Schools Plan
+    - id: oar-581-022-2223
+      citation: OAR 581-022-2223(1)(l)
+      quote: '"OSD" means the Oregon School for the Deaf'
+    - id: oar-581-022-2223
+      citation: OAR 581-022-2223(4)
+      quote: Districts, ESDs, OSD, and Charter Schools shall submit an electronic copy of a draft HASS
+        Plan to the Department
+    run_id: haiku-v4-think-328332
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v4-escape-2026-07
+    confidence: null
+    severity: null
+    section: ors-332.331
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule allows electronic communications programs as an alternative method to fulfill the
+      statutory requirement to send electronic mail to parents and staff, broadening the method beyond
+      what the statute specifies.
+    type: broadens
+    documents:
+    - id: ors-332.334
+      citation: ORS 332.334(1)(b)(B)
+      quote: By sending electronic mail to staff, students and parents of minor students for whom the
+        district or school has electronic mail addresses on file.
+    - id: oar-581-022-2223
+      citation: OAR 581-022-2223(12)(a)(B)
+      quote: 'Final Test results shall be: (i) Emailed to staff, students, and parents of minor students
+        by Districts, ESDs, OSD, and Charter Schools for those staff, students, or parents of minor students
+        for which they have email addresses; or (ii) Delivered to staff, students, and parents of minor
+        students, by an electronic communications program by those Districts, ESDs, OSD, or Charter Schools
+        that use an electronic communications program in place of an email list.'
+    run_id: haiku-v4-think-328332
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v4-escape-2026-07
+    confidence: null
+    severity: null
+    section: ors-332.334
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule limits reporting to 'Final Test results' for lead in water only, whereas the statute
+      requires making available 'the results of any testing' conducted under the plan.
+    type: narrows
+    documents:
+    - id: ors-332.334
+      citation: ORS 332.334(1)(a)
+      quote: A school district, education service district or public charter school shall make the results
+        of any testing conducted under a plan described in ORS 332.331 available to the public no later
+        than 10 business days after receiving the test results.
+    - id: oar-581-022-2223
+      citation: OAR 581-022-2223(12)(a)(A)
+      quote: Final Test results shall be made available on the District's, ESD's, OSD's, or Charter School's
+        website
+    run_id: haiku-v4-think-328332
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v4-escape-2026-07
+    confidence: null
+    severity: null
+    section: ors-332.334
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-333-061-0400 cites ORS 332.334 substantively in its own text but omits it from statutes_implemented/relationships.implements.
-  run_id: pilot-2026-07
+  run_id: haiku-v4-think-328332
 - ors_chapter: '340'
   agencies: 2
   rules_reviewed: 7
