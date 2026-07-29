@@ -744,30 +744,11 @@ chapters:
       note: null
       by: null
       date: null
-  - summary: The rule treats public indecency as a Class D violation at park properties, while the statute
-      defines it as a Class A misdemeanor (or Class C felony with prior convictions).
-    type: numeric
-    documents:
-    - id: ors-163.465
-      citation: ORS 163.465(2)(a)
-      quote: Public indecency is a Class A misdemeanor.
-    - id: oar-736-010-0040
-      citation: OAR 736-010-0040(1)
-      quote: Violations to this rule are a Class D violation, unless otherwise specified below
-    - id: oar-736-010-0040
-      citation: OAR 736-010-0040(11)(l)
-      quote: Public indecency;
-    run_id: haiku-v4-think-ors163
-    model: claude-haiku-4-5-20251001
-    prompt_version: conflict-v4-escape-2026-07
-    confidence: null
-    severity: null
-    section: ors-163.465
-    triage:
-      status: unreviewed
-      note: null
-      by: null
-      date: null
+    corroborated_by:
+    - run_id: haiku-v4-think-ors163
+      model: claude-haiku-4-5-20251001
+      also_cited:
+      - oar-736-010-0040#oar736010004011l
   artifacts:
   - oar-736-010-0040 legal_authority mislabels three ORS citations with an "OAR" prefix ("OAR 390.124",
     "OAR 164.245", "OAR 164.805").
