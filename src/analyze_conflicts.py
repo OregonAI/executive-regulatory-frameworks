@@ -76,7 +76,7 @@ import yaml
 sys.path.insert(0, str(Path(__file__).parent))
 from repo_lib import REPO_ROOT, extract_fulltext, parse_frontmatter
 from enrich_oar import load_registry_by_chapter
-from build_conflict_candidates_data import candidate_fingerprint
+from build_conflict_candidates_data import candidate_fingerprint, candidate_pairs
 
 CATALOG = REPO_ROOT / "_meta/catalog/conflict-candidates.yml"
 GRAPH = REPO_ROOT / "_meta/graph.json"
@@ -825,6 +825,77 @@ def _report_status(status: dict) -> None:
 
 # --------------------------------------------------------------------------- merge
 
+def _contained_match(new_pairs: frozenset, prior: list) -> tuple:
+    """Find the prior candidate that is the SAME finding as `new_pairs`, cited with a
+    different amount of supporting detail. Returns (candidate, extra_pairs) or (None, []).
+
+    Why containment and not overlap (#58). Two runs found the identical public-indecency
+    conflict in ORS 163.465; one cited the two operative provisions, the other cited those
+    plus a supporting definition. Exact-set identity stored them twice and, worse, gave the
+    duplicate a fresh `unreviewed` triage — the precise outcome candidate_fingerprint's
+    docstring says it exists to prevent. Mere overlap would be too loose: sharing one
+    citation is common between genuinely distinct findings in the same section.
+
+    Two rules keep this from over-merging:
+
+    1. One set must CONTAIN the other. This is what protects the case that refuted the
+       original id-only design — ORS 435's two findings over the same document pair,
+       (3) vs (6) and (1)(c) vs (1)(c). Neither contains the other, so they stay distinct.
+    2. AMBIGUITY DECLINES TO MERGE. If more than one prior candidate is in a containment
+       relation with the new one, we cannot tell which finding it corroborates, and
+       picking arbitrarily would attach a human's triage decision to the wrong claim.
+       Returning None costs a duplicate, which is visible; guessing costs a wrong
+       dismissal, which is not.
+
+    Measured before adopting: over the whole catalog — 149 candidates, 60 chapters — this
+    produces exactly ONE merge, the true duplicate above, and no others.
+    """
+    if not new_pairs:
+        return None, []
+    hits = [c for pairs, c in prior if pairs and (pairs < new_pairs or new_pairs < pairs)]
+    if len(hits) != 1:
+        return None, []
+    kept = next(pairs for pairs, c in prior if c is hits[0])
+    return hits[0], sorted(new_pairs - kept)
+
+
+def dedupe_catalog(cat: dict) -> list:
+    """Retro-apply containment merging to candidates ALREADY stored (#58).
+
+    Fixing the merge stops new duplicates; it does not repair the ones written before the
+    fix, and a duplicate that stays in the catalog keeps its second, independent triage
+    slot — the exact harm. This walks each chapter in stored order, which is discovery
+    order, and folds a later entry into the earlier one it contains or is contained by.
+
+    It REFUSES to absorb an entry carrying a human verdict. Two records that a person
+    triaged separately are two decisions; silently keeping one of them is a data loss no
+    reviewer asked for. Those are reported and left alone for a human to resolve."""
+    merges = []
+    for ch in cat.get("chapters") or []:
+        keep: list = []
+        for c in ch.get("candidates") or []:
+            hit, extra = _contained_match(
+                candidate_pairs(c), [(candidate_pairs(k), k) for k in keep])
+            status = ((c.get("triage") or {}).get("status") or "unreviewed").lower()
+            if hit is None:
+                keep.append(c)
+                continue
+            if status != "unreviewed":
+                keep.append(c)
+                merges.append((ch["ors_chapter"], "DECLINED — carries a human verdict "
+                               f"({status})", str(c.get("summary", ""))[:70]))
+                continue
+            corr = hit.setdefault("corroborated_by", [])
+            stamp = {"run_id": c.get("run_id"), "model": c.get("model")}
+            if extra:
+                stamp["also_cited"] = sorted(extra)
+            if stamp not in corr:
+                corr.append(stamp)
+            merges.append((ch["ors_chapter"], "merged", str(c.get("summary", ""))[:70]))
+        ch["candidates"] = keep
+    return merges
+
+
 def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
                        prompt_version: str | None = None, supersede: bool = False) -> dict:
     """Fold new candidates into the catalog, PRESERVING existing triage.
@@ -905,13 +976,19 @@ def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
             # Deduping is by fingerprint, so re-running the SAME analysis is idempotent —
             # which was the original comment's stated worry ("appending would duplicate
             # every finding") and is handled without paying for it in lost data.
-            prior_by_fp = {}
+            prior_by_fp, prior_pairs = {}, []
             for c in ch.get("candidates") or []:
                 prior_by_fp.setdefault(candidate_fingerprint(chapter, c), c)
+                p = candidate_pairs(c)
+                if p:
+                    prior_pairs.append((p, c))
             added = []
             for c in cands:
                 fp = candidate_fingerprint(chapter, c)
                 hit = prior_by_fp.get(fp)
+                extra: list = []
+                if hit is None:
+                    hit, extra = _contained_match(candidate_pairs(c), prior_pairs)
                 if hit is None:
                     added.append(c)
                     continue
@@ -920,6 +997,12 @@ def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
                 # because two models arriving at the same finding is real signal.
                 corr = hit.setdefault("corroborated_by", [])
                 stamp = {"run_id": run_id, "model": model}
+                if extra:
+                    # Cited the same conflict with extra support. Record what it added,
+                    # but do NOT merge it into hit["documents"]: those pairs ARE the
+                    # fingerprint, so editing them would change the entry's identity and
+                    # detach the triage this branch exists to preserve.
+                    stamp["also_cited"] = sorted(extra)
                 if stamp not in corr:
                     corr.append(stamp)
             ch["candidates"] = (ch.get("candidates") or []) + added
@@ -1037,9 +1120,117 @@ def selftest() -> int:
         fails.append("main()'s claude-sync branch builds a backend but never calls "
                      "analyze(); the run cannot produce candidates")
 
+    # 9. #58: the same finding cited with one EXTRA supporting provision must corroborate,
+    #    not duplicate. Exact-set identity stored ORS 163.465's public-indecency conflict
+    #    twice and handed the copy a fresh `unreviewed` triage.
+    def cand2(a, b, extra=None):
+        docs = [{"id": "ors-163.465", "citation": "ORS 163.465(2)(a)"} if a is None else a,
+                {"id": "oar-736-010-0040", "citation": b}]
+        if extra:
+            docs.append({"id": "oar-736-010-0040", "citation": extra})
+        return {"summary": "public indecency classification", "documents": docs}
+
+    base163 = {"schema_version": 2, "chapters": [
+        {"ors_chapter": "163", "run_id": "gemma", "candidates": [
+            {**cand2(None, "oar-736-010-0040(1)"), "run_id": "gemma", "model": "gemma4:12b",
+             "triage": {"status": "dismissed", "note": "checked", "by": "@dzinck",
+                        "date": "2026-07-27"}}]}]}
+
+    def run163(new_cands):
+        fd, path = tempfile.mkstemp(suffix=".yml"); os.close(fd)
+        Path(path).write_text(yaml.safe_dump(copy.deepcopy(base163)))
+        saved = CATALOG
+        try:
+            globals()["CATALOG"] = Path(path)
+            bundles = [{"custom_id": "c1", "ors_chapter": "163", "section": "ors-163.465",
+                        "partial": False, "rules": []}]
+            cat = merge_into_catalog({"c1": new_cands}, bundles, "haiku", "haiku-4-5", "v4")
+            return next(c for c in cat["chapters"] if c["ors_chapter"] == "163")
+        finally:
+            globals()["CATALOG"] = saved
+            os.unlink(path)
+
+    ch = run163([cand2(None, "OAR 736-010-0040(1)", extra="OAR 736-010-0040(11)(l)")])
+    if len(ch["candidates"]) != 1:
+        fails.append(f"an extra supporting citation duplicated the finding: "
+                     f"{len(ch['candidates'])} candidates, want 1")
+    elif (ch["candidates"][0].get("triage") or {}).get("status") != "dismissed":
+        fails.append("the extra-citation re-run resurrected a dismissed finding")
+    elif not any(s.get("also_cited") for s in ch["candidates"][0].get("corroborated_by") or []):
+        fails.append("the extra citation was merged away without being recorded")
+
+    # 10. Distinct findings must STILL not merge. Two fixtures, because the obvious one
+    #     does not discriminate:
+    #
+    #     (a) the case that refuted the original id-only design — ORS 435's two findings
+    #         over the same document pair, (3) vs (6) and (1)(c) vs (1)(c).
+    #     (b) two findings that SHARE one cited provision and differ on the other.
+    #
+    #     Only (b) catches a containment test loosened to mere overlap. In (a) the
+    #     subsections differ on BOTH sides, so the pair-sets are disjoint and even an
+    #     overlap rule leaves them alone — writing only (a) yields a guard that passes
+    #     whether the implementation is right or wrong. Verified by loosening
+    #     `_contained_match` to `pairs & new_pairs` and confirming (b) fails.
+    p = lambda a, b: {"summary": f"{a} vs {b}", "documents": [
+        {"id": "ors-435.254", "citation": f"ORS 435.254{a}"},
+        {"id": "oar-333-505-0120", "citation": f"OAR 333-505-0120{b}"}]}
+
+    def distinct_stay_separate(prior_c, new_c, label):
+        base = {"schema_version": 2, "chapters": [
+            {"ors_chapter": "435", "run_id": "pilot", "candidates": [
+                {**prior_c, "run_id": "pilot", "model": "sonnet",
+                 "triage": {"status": "unreviewed"}}]}]}
+        fd, path = tempfile.mkstemp(suffix=".yml"); os.close(fd)
+        Path(path).write_text(yaml.safe_dump(base))
+        saved = CATALOG
+        try:
+            globals()["CATALOG"] = Path(path)
+            cat = merge_into_catalog(
+                {"c1": [new_c]},
+                [{"custom_id": "c1", "ors_chapter": "435", "section": "ors-435.254",
+                  "partial": False, "rules": []}], "haiku", "haiku-4-5", "v4")
+            ch = next(c for c in cat["chapters"] if c["ors_chapter"] == "435")
+            if len(ch["candidates"]) != 2:
+                fails.append(f"{label}: two distinct findings merged into "
+                             f"{len(ch['candidates'])}; the match is over-broad")
+        finally:
+            globals()["CATALOG"] = saved
+            os.unlink(path)
+
+    distinct_stay_separate(p("(3)", "(6)"), p("(1)(c)", "(1)(c)"), "ORS 435 disjoint")
+    distinct_stay_separate(p("(3)", "(6)"), p("(3)", "(9)"), "shared statute provision")
+
+    # 11. Ambiguity must DECLINE to merge. With two priors each in a containment relation
+    #     with the newcomer, there is no way to tell which finding it corroborates, and
+    #     attaching a human's dismissal to the wrong claim is worse than a duplicate.
+    amb = {"schema_version": 2, "chapters": [
+        {"ors_chapter": "700", "run_id": "pilot", "candidates": [
+            {"summary": "A", "documents": [{"id": "ors-700.1", "citation": "(1)"}],
+             "run_id": "pilot", "model": "sonnet", "triage": {"status": "unreviewed"}},
+            {"summary": "B", "documents": [{"id": "oar-700-1", "citation": "(2)"}],
+             "run_id": "pilot", "model": "sonnet", "triage": {"status": "unreviewed"}}]}]}
+    fd, path = tempfile.mkstemp(suffix=".yml"); os.close(fd)
+    Path(path).write_text(yaml.safe_dump(amb))
+    saved = CATALOG
+    try:
+        globals()["CATALOG"] = Path(path)
+        cat = merge_into_catalog(
+            {"c1": [{"summary": "A+B", "documents": [
+                {"id": "ors-700.1", "citation": "(1)"},
+                {"id": "oar-700-1", "citation": "(2)"}]}]},
+            [{"custom_id": "c1", "ors_chapter": "700", "section": "ors-700.1",
+              "partial": False, "rules": []}], "haiku", "haiku-4-5", "v4")
+        ch = next(c for c in cat["chapters"] if c["ors_chapter"] == "700")
+        if len(ch["candidates"]) != 3:
+            fails.append(f"an ambiguous containment merged instead of declining: "
+                         f"{len(ch['candidates'])} candidates, want 3")
+    finally:
+        globals()["CATALOG"] = saved
+        os.unlink(path)
+
     for f in fails:
         print(f"FAIL {f}")
-    print(f"merge selftest: {8 - len(fails)}/8 passed")
+    print(f"merge selftest: {11 - len(fails)}/11 passed")
     return 1 if fails else 0
 
 
@@ -1085,7 +1276,30 @@ def main():
                          "weaker run by a stronger one; the default is a safe union.")
     ap.add_argument("--selftest", action="store_true",
                     help="prove the merge cannot drop a prior run's candidates")
+    ap.add_argument("--dedupe", action="store_true",
+                    help="fold duplicates already in the catalog into their originals "
+                         "(#58), print what changed and exit. Use --dry-run to preview.")
     args = ap.parse_args()
+
+    if args.dedupe:
+        cat = yaml.safe_load(CATALOG.read_text())
+        before = sum(len(c.get("candidates") or []) for c in cat["chapters"])
+        merges = dedupe_catalog(cat)
+        after = sum(len(c.get("candidates") or []) for c in cat["chapters"])
+        for chn, what, summary in merges:
+            print(f"  ch {chn}: {what}\n      {summary}")
+        print(f"\ncandidates: {before} -> {after}  "
+              f"({sum(1 for m in merges if m[1] == 'merged')} folded, "
+              f"{sum(1 for m in merges if m[1].startswith('DECLINED'))} declined)")
+        if args.dry_run:
+            print("nothing written — this is --dry-run.")
+        elif before != after:
+            CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True,
+                                              width=100))
+            print(f"wrote {CATALOG.relative_to(REPO_ROOT)}")
+        else:
+            print("no duplicates found; catalog unchanged.")
+        sys.exit(0)
 
     if args.selftest:
         # sys.exit, NOT return: main() is called bare at the bottom of this module, so a

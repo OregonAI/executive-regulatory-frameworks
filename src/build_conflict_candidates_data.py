@@ -141,10 +141,27 @@ def candidate_fingerprint(ors_chapter: str, cand: dict) -> str:
     Known limit: a re-run that cites the same provision in a materially different STYLE
     ("subsection 3" rather than "(3)") gets a new fingerprint and loses its triage. That
     surfaces as a resurrected candidate — visible and correctable — rather than as a
-    dismissal silently applied to the wrong finding."""
-    parts = sorted({f"{d['id']}#{_CITE_NOISE.sub('', (d.get('citation') or '').lower())}"
-                    for d in cand.get("documents") or []})
-    return hashlib.sha256("|".join([str(ors_chapter), *parts]).encode()).hexdigest()[:16]
+    dismissal silently applied to the wrong finding.
+
+    Known limit, and handled elsewhere: a run citing the same conflict plus one EXTRA
+    supporting provision gets a different set, hence a different hash. Because that is an
+    exact-hash scheme it cannot see the containment itself; `merge_into_catalog` compares
+    the raw pair sets from `candidate_pairs()` to catch it (#58)."""
+    return hashlib.sha256(
+        "|".join([str(ors_chapter), *sorted(candidate_pairs(cand))]).encode()
+    ).hexdigest()[:16]
+
+
+def candidate_pairs(cand: dict) -> frozenset:
+    """The (document, cited subsection) pairs a candidate is about — the raw material
+    `candidate_fingerprint` hashes.
+
+    Exposed unhashed because containment is invisible once hashed, and containment is
+    exactly the relation that tells a genuine re-discovery citing extra support apart
+    from a new finding."""
+    return frozenset(
+        f"{d['id']}#{_CITE_NOISE.sub('', (d.get('citation') or '').lower())}"
+        for d in cand.get("documents") or [] if d.get("id"))
 
 
 def validate_envelope(ors_chapter: str, cand: dict, seen: dict) -> None:
