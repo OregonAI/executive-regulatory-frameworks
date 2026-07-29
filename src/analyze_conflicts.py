@@ -65,6 +65,7 @@ import argparse
 import collections
 import json
 import os
+import hashlib
 import re
 import sys
 import urllib.request
@@ -677,6 +678,26 @@ def parse_reply(text: str) -> list:
 
 # --------------------------------------------------------------------------- backends
 
+def api_custom_id(custom_id: str) -> str:
+    """A bundle's custom_id in the form the Batch API accepts: `^[a-zA-Z0-9_-]{1,64}$`.
+
+    Our ids are `ors-183.341#0` — section, then part — and both the '.' and the '#'
+    are rejected, so **the batch path had never successfully submitted anything**; it
+    400'd on request 0 after building every bundle. The sync path was unaffected
+    because it never sends a custom_id at all, which is why nine months of measurement
+    happened on the expensive-per-token path.
+
+    Applied on BOTH sides. collect() maps results back through this same function
+    rather than inverting it, so no reverse parse is needed and no assumption is made
+    about which characters survived. Long ids keep a hash tail because truncation alone
+    would collide `ors-183.341#0` with `ors-183.341#1` at exactly the wrong moment —
+    silently merging two parts of one oversized section."""
+    safe = re.sub(r"[^a-zA-Z0-9_-]", "_", custom_id)
+    if len(safe) > 64:
+        safe = safe[:55] + "_" + hashlib.sha256(custom_id.encode()).hexdigest()[:8]
+    return safe
+
+
 class ClaudeBatchBackend:
     """Anthropic Batch API. 50% off list, <=100k requests per batch."""
     name = "claude"
@@ -694,6 +715,11 @@ class ClaudeBatchBackend:
         self.client = anthropic.Anthropic()
         self.system = system or SYSTEM
         self.prompt_version = prompt_version or PROMPT_VERSION
+        # Accepted as a parameter but never stored, so `--backend claude --thinking N`
+        # raised AttributeError inside submit() — after the bundles were built and
+        # immediately before the paid call. The batch path had never been run with
+        # thinking on; the sync path had the mirror-image defect (#59).
+        self.thinking = thinking
 
     def submit(self, bundles: list) -> str:
         # EXTENDED THINKING, off unless asked for. The conflict question is exactly the
@@ -713,7 +739,7 @@ class ClaudeBatchBackend:
             extra["thinking"] = {"type": "enabled", "budget_tokens": self.thinking}
         max_tokens = max(8000, self.thinking + 4000) if self.thinking else 8000
         reqs = [{
-            "custom_id": b["custom_id"],
+            "custom_id": api_custom_id(b["custom_id"]),
             "params": {
                 "model": self.model,
                 "max_tokens": max_tokens,
@@ -727,11 +753,15 @@ class ClaudeBatchBackend:
         batch = self.client.messages.batches.create(requests=reqs)
         return batch.id
 
-    def collect(self, batch_id: str) -> dict:
+    def collect(self, batch_id: str, bundles: list | None = None) -> dict:
+        # Results come back under the SANITISED id, so map each one home through the
+        # same function that produced it. Without `bundles` the raw api id is returned
+        # and every downstream lookup by real custom_id misses.
+        home = {api_custom_id(b["custom_id"]): b["custom_id"] for b in (bundles or [])}
         out, failed = {}, []
         # Keyed by custom_id, never by position — the API makes no ordering promise.
         for result in self.client.messages.batches.results(batch_id):
-            cid = result.custom_id
+            cid = home.get(result.custom_id, result.custom_id)
             if result.result.type != "succeeded":
                 failed.append((cid, result.result.type))
                 continue
@@ -1547,9 +1577,55 @@ def selftest() -> int:
         fails.append("a one-citation candidate was stamped as corroborating a finding it "
                      "shares a single provision with")
 
+    # 19. Every backend must actually STORE the constructor arguments it accepts.
+    #     `ClaudeBatchBackend` took `thinking` and dropped it, so
+    #     `--backend claude --thinking N` raised AttributeError inside submit() — after
+    #     bundle assembly, one line before the paid call. Nothing caught it because the
+    #     batch path had never been run with thinking on. Checked by construction rather
+    #     than by calling submit(), so this needs no API key and no network.
+    #     Checked by READING __init__, not by constructing one. The first version
+    #     instantiated the backend and asked `hasattr`, which cannot work: both
+    #     constructors `sys.exit` when ANTHROPIC_API_KEY is absent, and the handler for
+    #     that skipped the assertion — so the guard passed identically whether the bug
+    #     was present or not. It was caught by reverting the fix and seeing 19/19.
+    import inspect
+    for cls in (ClaudeBatchBackend, ClaudeSyncBackend, LocalBackend):
+        src = inspect.getsource(cls.__init__)
+        for p in set(inspect.signature(cls.__init__).parameters) - {"self"}:
+            if not re.search(rf"self\.\w+\s*=[^=].*\b{re.escape(p)}\b", src):
+                fails.append(f"{cls.__name__}.__init__ accepts `{p}` and never stores it "
+                             "— the option is silently ignored, or raises at the point "
+                             "of use, which for a paid backend is after the bundles are "
+                             "built")
+
+    # 20. Batch custom_ids must satisfy the API's `^[a-zA-Z0-9_-]{1,64}$`, and must stay
+    #     DISTINCT after sanitising. Our real ids carry '.' and '#', so the batch path
+    #     400'd on request 0 and had never submitted anything; the bug survived because
+    #     every measurement to date ran on the sync path, which sends no custom_id.
+    #     Collision matters as much as shape: `ors-183.341#0` and `#1` are two parts of
+    #     one oversized section, and merging them would drop half a section's rules
+    #     while reporting success.
+    probe_ids = ["ors-183.341#0", "ors-183.341#1", "ors-279a.065#0",
+                 "ors-98.410@oar-125-055-0010", "ors-" + "9" * 80 + ".100#12"]
+    seen_api: dict = {}
+    for cid in probe_ids:
+        api = api_custom_id(cid)
+        if not re.fullmatch(r"[a-zA-Z0-9_-]{1,64}", api):
+            fails.append(f"api_custom_id({cid!r}) -> {api!r}, which the Batch API rejects")
+        if api in seen_api:
+            fails.append(f"api_custom_id collides: {cid!r} and {seen_api[api]!r} both -> "
+                         f"{api!r}; two bundles would share one result")
+        seen_api[api] = cid
+    if 'api_custom_id(b["custom_id"])' not in inspect.getsource(ClaudeBatchBackend.submit):
+        fails.append("ClaudeBatchBackend.submit does not sanitise custom_id; the batch "
+                     "will 400 before any request runs")
+    if "api_custom_id" not in inspect.getsource(ClaudeBatchBackend.collect):
+        fails.append("ClaudeBatchBackend.collect does not map the sanitised id back; "
+                     "every result would be filed under an id no bundle has")
+
     for f in fails:
         print(f"FAIL {f}")
-    print(f"merge selftest: {18 - len(fails)}/18 passed")
+    print(f"merge selftest: {20 - len(fails)}/20 passed")
     return 1 if fails else 0
 
 
@@ -1699,7 +1775,7 @@ def main():
             print(f"submitted batch {batch_id} ({len(bundles)} requests)\n"
                   f"collect with: python3 src/analyze_conflicts.py --collect {batch_id}")
             return
-        results = backend.collect(args.collect)
+        results = backend.collect(args.collect, bundles)
     else:
         results, status = LocalBackend(model, args.local_url,
                                        system=local_prompt).run(bundles)
