@@ -321,6 +321,32 @@ def build_bundles(chapters: list, graph: dict, tier: str = "cluster",
     return bundles
 
 
+def filter_sections(bundles: list, spec: str, tier: str = "section") -> list:
+    """Narrow a bundle list to specific ORS sections. `spec` is comma-separated ids or
+    @FILE with one per line.
+
+    WHY THIS EXISTS. `--chapters` is chapter-granular, and re-running the 20 sections a
+    run actually failed on would submit 658 bundles through it — 30x the intended scope,
+    and paid for. The section is the unit a targeted re-run needs.
+
+    Applied AFTER bundling so a section split across parts contributes every part.
+
+    RAISES on an id that matched nothing, rather than returning a shorter list. A typo'd
+    id would otherwise submit nothing for that section while the run reported success —
+    the failure looks identical to "the model found nothing there", which is the answer
+    the re-run exists to establish."""
+    raw = Path(spec[1:]).read_text() if spec.startswith("@") else spec
+    want = {x.strip().lower() for x in raw.replace("\n", ",").split(",") if x.strip()}
+    kept = [b for b in bundles if b["section"].lower() in want]
+    missing = sorted(want - {b["section"].lower() for b in kept})
+    if missing:
+        raise SystemExit(
+            f"--sections: {len(missing)} id(s) matched no bundle at --tier {tier}, e.g. "
+            f"{missing[:5]}. A section with no implementing rules produces no bundle; "
+            "check the id and the tier before assuming the run covered it.")
+    return kept
+
+
 # --------------------------------------------------------------------------- prompt
 
 SYSTEM = """You are assisting a public, non-authoritative reference corpus of Oregon law.
@@ -1979,9 +2005,51 @@ def selftest() -> int:
         finally:
             globals()["STATE"] = saved_state3
 
+    # 27. --sections must actually narrow, and must refuse an id it did not match.
+    #     `--chapters` is the only other filter and selects WHOLE chapters: re-running 20
+    #     specific failed sections through it submits 658 bundles, 30x the intended scope.
+    #     A silent no-match is the dangerous half — a typo'd id would submit nothing for
+    #     it and the run would report success on a section it never touched.
+    #     Exercised, not grepped. The first version asserted on strings in main()'s
+    #     source and could not fail: disabling the refusal left the message in place
+    #     inside unreachable code, so it still passed. Behaviour is the only thing that
+    #     distinguishes a working filter from a dead one.
+    #     Each call is wrapped: filter_sections RAISES on an unmatched id, which is right
+    #     in production and fatal here — an uncaught SystemExit aborts the suite before it
+    #     prints its count, so a real regression reads as a crash rather than a numbered
+    #     failure. That happened twice while writing these (see property 25).
+    probe_b = [{"section": "ors-1.1"}, {"section": "ors-1.1"}, {"section": "ors-2.2"}]
+
+    def _filter(spec, want_n, why):
+        try:
+            got = len(filter_sections(probe_b, spec))
+        except SystemExit as e:
+            fails.append(f"--sections rejected a valid request ({spec!r}): {e}")
+            return
+        if got != want_n:
+            fails.append(f"{why} (got {got}, want {want_n})")
+
+    _filter("ors-1.1", 2, "--sections does not keep every part of a split section, so an "
+                          "oversized section would be re-run only in part")
+    _filter("ors-1.1,ors-2.2", 3, "--sections drops sections it was asked for")
+    try:
+        filter_sections(probe_b, "ors-9.9")
+        fails.append("--sections accepted an id that matched no bundle; a typo would "
+                     "submit nothing for that section while the run reported success, "
+                     "which is indistinguishable from 'the model found nothing there'")
+    except SystemExit:
+        pass
+    fd, path = tempfile.mkstemp(suffix=".txt"); os.close(fd)
+    Path(path).write_text("ors-1.1\nors-2.2\n")
+    try:
+        _filter("@" + path, 3, "--sections cannot read @FILE; a 20-id list becomes a "
+                               "command line that is easy to truncate by accident")
+    finally:
+        os.unlink(path)
+
     for f in fails:
         print(f"FAIL {f}")
-    print(f"merge selftest: {26 - len(fails)}/26 passed")
+    print(f"merge selftest: {27 - len(fails)}/27 passed")
     return 1 if fails else 0
 
 
@@ -2007,6 +2075,12 @@ def main():
     ap.add_argument("--tier", choices=TIERS, default="cluster",
                     help="; ".join(f"{t}: {TIER_MEANING[t]}" for t in TIERS))
     ap.add_argument("--chapters", help="comma-separated ORS chapters (default: all unanalyzed)")
+    ap.add_argument("--sections",
+                    help="comma-separated ORS SECTION ids (e.g. ors-183.355,ors-98.436), "
+                         "or @FILE with one per line. Narrows to exactly these sections "
+                         "— the unit a re-run of specific failures needs, which "
+                         "--chapters cannot express: one chapter can be hundreds of "
+                         "bundles")
     ap.add_argument("--limit", type=int, help="cap the number of bundles (dev)")
     ap.add_argument("--dry-run", action="store_true",
                     help="show what would run — bundles, tokens, cost — and call nothing")
@@ -2108,6 +2182,8 @@ def main():
         else:
             chapters = sorted(set(shared) - done)
         bundles = build_bundles(chapters, graph, args.tier, args.max_context_tokens)
+        if args.sections:
+            bundles = filter_sections(bundles, args.sections, args.tier)
         if args.limit:
             bundles = bundles[:args.limit]
 
