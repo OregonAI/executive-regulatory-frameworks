@@ -3116,7 +3116,7 @@ chapters:
       by: null
       date: null
 - ors_chapter: '183'
-  run_id: das-v6-edgecases-2026-07
+  run_id: hecc-v6-2026-07
   rules_reviewed: 976
   candidates:
   - summary: OAR 585-015-0035 declares implementation of ORS 183.411 to 183.497, but describes administrative
@@ -5242,6 +5242,399 @@ chapters:
       note: null
       by: null
       date: null
+  - summary: OAR 160-001-0000 cites ORS 183.335(7) for mailing list establishment, but the statute's mailing
+      list procedure is in ORS 183.335(8).
+    type: wrong_pointer
+    documents:
+    - id: oar-160-001-0000
+      citation: OAR 160-001-0000(2)
+      quote: By mailing a copy of the notice to persons on the Division mailing list established pursuant
+        to ORS 183.335(7)
+    - id: ors-183.335
+      citation: ORS 183.335(8)
+      quote: (8)(a) Any person may request in writing that an agency send to the person copies of the
+        agency's notices of intended action issued under subsection (1) of this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 255-001-0005 cites ORS 183.335(14) for legislators, but the statute's legislative notice
+      requirement is in ORS 183.335(15).
+    type: wrong_pointer
+    documents:
+    - id: oar-255-001-0005
+      citation: OAR 255-001-0005(1)(b)
+      quote: By providing a copy of the notice to the legislators specified in ORS 183.335(14) at least
+        49 days before the effective date of the rule
+    - id: ors-183.335
+      citation: ORS 183.335(15)
+      quote: '(15) The notices required under subsections (1) and (3) of this section must be given by
+        the agency to the following persons:'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 255-001-0005 cites ORS 183.335(7) for mailing list establishment, but the statute's mailing
+      list procedure is in ORS 183.335(8).
+    type: wrong_pointer
+    documents:
+    - id: oar-255-001-0005
+      citation: OAR 255-001-0005(1)(c)
+      quote: By providing a copy of the notice at least 28 days prior to the effective date to persons
+        on the Board mailing list established pursuant to ORS 183.335(7)
+    - id: ors-183.335
+      citation: ORS 183.335(8)
+      quote: (8)(a) Any person may request in writing that an agency send to the person copies of the
+        agency's notices of intended action issued under subsection (1) of this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 471-010-0010 cites ORS 183.335(7) for mailing list establishment, but the statute's mailing
+      list procedure is in ORS 183.335(8).
+    type: wrong_pointer
+    documents:
+    - id: oar-471-010-0010
+      citation: OAR 471-010-0010(2)
+      quote: By providing a copy of the notice to persons on the Employment Department's mailing list
+        established pursuant to ORS 183.335(7) at least twenty-eight (28) days prior to the effective
+        date.
+    - id: ors-183.335
+      citation: ORS 183.335(8)
+      quote: (8)(a) Any person may request in writing that an agency send to the person copies of the
+        agency's notices of intended action issued under subsection (1) of this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 605-001-0000 cites ORS 183.335(7) for mailing list establishment, but the statute's mailing
+      list procedure is in ORS 183.335(8).
+    type: wrong_pointer
+    documents:
+    - id: oar-605-001-0000
+      citation: OAR 605-001-0000(2)
+      quote: By mailing a copy of the notice to persons on the Oregon Beef Council's mailing list, established
+        pursuant to ORS 183.335(7)
+    - id: ors-183.335
+      citation: ORS 183.335(8)
+      quote: (8)(a) Any person may request in writing that an agency send to the person copies of the
+        agency's notices of intended action issued under subsection (1) of this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 605-001-0000 cites ORS 183.335(14) for legislators, but the statute's legislative notice
+      requirement is in ORS 183.335(15).
+    type: wrong_pointer
+    documents:
+    - id: oar-605-001-0000
+      citation: OAR 605-001-0000(3)
+      quote: By mailing a copy of the notice to the legislators specified in ORS 183.335(14) at least
+        49 days before the effective date of the rule
+    - id: ors-183.335
+      citation: ORS 183.335(15)
+      quote: '(15) The notices required under subsections (1) and (3) of this section must be given by
+        the agency to the following persons:'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 611-001-0000 cites ORS 183.335(7) for mailing list establishment, but the statute's mailing
+      list procedure is in ORS 183.335(8).
+    type: wrong_pointer
+    documents:
+    - id: oar-611-001-0000
+      citation: OAR 611-001-0000(2)
+      quote: By mailing a copy of the notice to persons on the Oregon Raspberry and Blackberry Commission's
+        mailing list established pursuant to ORS 183.335(7)
+    - id: ors-183.335
+      citation: ORS 183.335(8)
+      quote: (8)(a) Any person may request in writing that an agency send to the person copies of the
+        agency's notices of intended action issued under subsection (1) of this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 611-001-0000 cites ORS 183.335(14) for legislators, but the statute's legislative notice
+      requirement is in ORS 183.335(15).
+    type: wrong_pointer
+    documents:
+    - id: oar-611-001-0000
+      citation: OAR 611-001-0000(3)
+      quote: By mailing or furnishing a copy of the notice to the legislators specified in ORS 183.335(14)
+        at least 49 days before the effective date of the rule
+    - id: ors-183.335
+      citation: ORS 183.335(15)
+      quote: '(15) The notices required under subsections (1) and (3) of this section must be given by
+        the agency to the following persons:'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 635-001-0000 cites ORS 183.335(7) for mailing list establishment, but the statute's mailing
+      list procedure is in ORS 183.335(8).
+    type: wrong_pointer
+    documents:
+    - id: oar-635-001-0000
+      citation: OAR 635-001-0000(2)
+      quote: By mailing a copy of the notice to persons on the Agency's mailing list established pursuant
+        to ORS 183.335(7) at least 28 days before the effective date of the rule.
+    - id: ors-183.335
+      citation: ORS 183.335(8)
+      quote: (8)(a) Any person may request in writing that an agency send to the person copies of the
+        agency's notices of intended action issued under subsection (1) of this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 643-001-0000 cites ORS 183.335(7) for mailing list establishment, but the statute's mailing
+      list procedure is in ORS 183.335(8).
+    type: wrong_pointer
+    documents:
+    - id: oar-643-001-0000
+      citation: OAR 643-001-0000(2)
+      quote: By mailing a copy of the notice to persons on a list maintained by the Oregon Hop Commission,
+        established pursuant to ORS 183.335(7)
+    - id: ors-183.335
+      citation: ORS 183.335(8)
+      quote: (8)(a) Any person may request in writing that an agency send to the person copies of the
+        agency's notices of intended action issued under subsection (1) of this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 643-001-0000 cites ORS 183.335(14) for legislators, but the statute's legislative notice
+      requirement is in ORS 183.335(15).
+    type: wrong_pointer
+    documents:
+    - id: oar-643-001-0000
+      citation: OAR 643-001-0000(3)
+      quote: By mailing a copy of the notice to the legislators specified in ORS 183.335(14) at least
+        49 days before the effective date of the rule
+    - id: ors-183.335
+      citation: ORS 183.335(15)
+      quote: '(15) The notices required under subsections (1) and (3) of this section must be given by
+        the agency to the following persons:'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 668-001-0000 cites ORS 183.335(7) for mailing list establishment, but the statute's mailing
+      list procedure is in ORS 183.335(8).
+    type: wrong_pointer
+    documents:
+    - id: oar-668-001-0000
+      citation: OAR 668-001-0000(2)
+      quote: By mailing a copy of the notice to persons on the Oregon Strawberry Commission's mailing
+        list established pursuant to ORS 183.335(7) at least 28 days before the effective date of the
+        rule
+    - id: ors-183.335
+      citation: ORS 183.335(8)
+      quote: (8)(a) Any person may request in writing that an agency send to the person copies of the
+        agency's notices of intended action issued under subsection (1) of this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 668-001-0000 cites ORS 183.335(14) for legislators, but the statute's legislative notice
+      requirement is in ORS 183.335(15).
+    type: wrong_pointer
+    documents:
+    - id: oar-668-001-0000
+      citation: OAR 668-001-0000(3)
+      quote: By mailing a copy of the notice to the legislators specified in ORS 183.335(14) at least
+        49 days before the effective date of the rule
+    - id: ors-183.335
+      citation: ORS 183.335(15)
+      quote: '(15) The notices required under subsections (1) and (3) of this section must be given by
+        the agency to the following persons:'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 670-001-0000 cites ORS 183.335(7) for mailing list establishment, but the statute's mailing
+      list procedure is in ORS 183.335(8).
+    type: wrong_pointer
+    documents:
+    - id: oar-670-001-0000
+      citation: OAR 670-001-0000(2)
+      quote: By mailing a copy of the notice to persons on the Oregon Blueberry Commission's mailing list
+        established pursuant to ORS 183.335(7) at least 28 days before the effective date of the rule
+    - id: ors-183.335
+      citation: ORS 183.335(8)
+      quote: (8)(a) Any person may request in writing that an agency send to the person copies of the
+        agency's notices of intended action issued under subsection (1) of this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 670-001-0000 cites ORS 183.335(14) for legislators, but the statute's legislative notice
+      requirement is in ORS 183.335(15).
+    type: wrong_pointer
+    documents:
+    - id: oar-670-001-0000
+      citation: OAR 670-001-0000(3)
+      quote: By mailing a copy of the notice to the legislators specified in ORS 183.335(14) at least
+        49 days before the effective date of the rule
+    - id: ors-183.335
+      citation: ORS 183.335(15)
+      quote: '(15) The notices required under subsections (1) and (3) of this section must be given by
+        the agency to the following persons:'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 837-001-0000 cites ORS 183.335(7) for mailing list establishment, but the statute's mailing
+      list procedure is in ORS 183.335(8).
+    type: wrong_pointer
+    documents:
+    - id: oar-837-001-0000
+      citation: OAR 837-001-0000(2)
+      quote: By mailing a copy of the notice to persons on the State Fire Marshal's mailing list established
+        pursuant to ORS 183.335(7) at least 28 days before the effective date of the rule
+    - id: ors-183.335
+      citation: ORS 183.335(8)
+      quote: (8)(a) Any person may request in writing that an agency send to the person copies of the
+        agency's notices of intended action issued under subsection (1) of this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 837-001-0000 cites ORS 183.335(14) for legislators, but the statute's legislative notice
+      requirement is in ORS 183.335(15).
+    type: wrong_pointer
+    documents:
+    - id: oar-837-001-0000
+      citation: OAR 837-001-0000(3)
+      quote: By mailing a copy of the notice to the legislators specified in ORS 183.335(14) at least
+        49 days before the effective date of the rule
+    - id: ors-183.335
+      citation: ORS 183.335(15)
+      quote: '(15) The notices required under subsections (1) and (3) of this section must be given by
+        the agency to the following persons:'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-183.335
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
 - ors_chapter: '184'
   run_id: das-v6-edgecases-2026-07
   rules_reviewed: 129
@@ -6141,6 +6534,34 @@ chapters:
   - oar-813-001-0060 bundles ORS 205.125 (county clerk lien records) with unrelated landlord-tenant and
     health statutes under a title about lay representation in contested cases.
   run_id: pilot-2026-07
+- ors_chapter: '21'
+  run_id: hecc-v6-2026-07
+  rules_reviewed: 1
+  candidates:
+  - summary: The rule in section 4 states funds provide services to victims of 'assault' while the statute
+      limits them to victims of 'sexual assault,' broadening the scope beyond what the statute authorizes.
+    type: broadens
+    documents:
+    - id: ors-21.007
+      citation: ORS 21.007(4)
+      quote: To the Higher Education Coordinating Commission to fund clinical legal education programs
+        at accredited institutions of higher education that provide civil legal services to victims of
+        domestic violence, stalking or sexual assault.
+    - id: oar-715-013-0060
+      citation: OAR 715-013-0060(4)
+      quote: Civil Legal Education Program funds are distributed in order to provide civil legal services
+        to victims of stalking, domestic violence and assault.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-21.007
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
 - ors_chapter: '215'
   agencies: 3
   rules_reviewed: 37
@@ -15018,6 +15439,37 @@ chapters:
   - 'OAR 125-156-0000 legal_authority: ["2010 OL Ch. 30", "Sec. 13", "14"] — one citation incorrectly
     split into three array entries, with a bare orphaned "14".'
   run_id: das-v6-edgecases-2026-07
+- ors_chapter: '284'
+  run_id: hecc-v6-2026-07
+  rules_reviewed: 10
+  candidates:
+  - summary: Rule 715-013-0064 declares it implements ORS 284.720, but the statute makes no provision
+      for Signature Research Centers, their allocation to specific universities, or distribution percentages
+      to institutions, which are the operative subjects of the rule.
+    type: wrong_authority
+    documents:
+    - id: oar-715-013-0064
+      citation: OAR 715-013-0064 Statutes/Other Implemented
+      quote: ORS 350.075(3)(iii)(f), ORS 284.720 & ORS 284.701
+    - id: ors-284.720
+      citation: ORS 284.720
+      quote: There is created within the State Treasury, separate and distinct from the General Fund,
+        the Oregon Innovation Fund... Moneys in the fund are continuously appropriated to the Oregon Innovation
+        Council for the purposes of making grants, loans and equity investments under ORS 284.742 and,
+        subject to the approval of the Oregon Business Development Department, entering into contracts
+        and grant agreements to carry out the recommendations included in the state plan developed under
+        ORS 284.715.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-284.720
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
 - ors_chapter: 285c
   run_id: das-v6-edgecases-2026-07
   rules_reviewed: 585
@@ -17600,6 +18052,9 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: hecc-v6-2026-07
+      model: claude-haiku-4-5-20251001
   - summary: All eight rules declare they implement ORS 291.055, but ORS 291.055(2)(k) explicitly exempts
       the fees these rules address from ORS 291.055's operative requirements.
     type: wrong_authority
@@ -17654,7 +18109,7 @@ chapters:
   - OAR 461-190-0211 statutes_implemented includes federal CFR cites incorrectly prefixed "ORS" (e.g.
     "ORS 45 CFR 260.20").
   - OAR 813-003-0001 legal_authority includes a bare "ORS 183" (a whole chapter, not a section).
-  run_id: das-v5-think-2026-07
+  run_id: hecc-v6-2026-07
 - ors_chapter: '292'
   run_id: das-v5-think-2026-07
   rules_reviewed: 45
@@ -18491,6 +18946,37 @@ chapters:
     confidence: null
     severity: null
     section: ors-293.233
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+- ors_chapter: '30'
+  run_id: hecc-v6-2026-07
+  rules_reviewed: 1
+  candidates:
+  - summary: The rule restricts the source of disclosure prohibitions to only OAR 589-004-0150 through
+      589-004-0550, dropping the statute's alternative basis that prohibitions can also come from the
+      governing board of a public university listed in ORS 352.002.
+    type: narrows
+    documents:
+    - id: ors-30.864
+      citation: ORS 30.864(1)
+      quote: Any person claiming to be aggrieved by the reckless disclosure of personally identifiable
+        information from a student's education records as prohibited by standards issued by the State
+        Board of Education or the governing board of a public university listed in ORS 352.002 may file
+        a civil action in circuit court
+    - id: oar-589-004-0700
+      citation: OAR 589-004-0700
+      quote: Any person claiming to be aggrieved by the reckless disclosure of personally identifiable
+        information from a student's education records, as prohibited by OAR 589-004-0150 through 589-004-0550,
+        may file a civil action in circuit court
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-30.864
     triage:
       status: unreviewed
       note: null
@@ -20027,6 +20513,35 @@ chapters:
   artifacts:
   - oar-333-061-0400 cites ORS 332.334 substantively in its own text but omits it from statutes_implemented/relationships.implements.
   run_id: haiku-v5-think-328332
+- ors_chapter: '339'
+  run_id: hecc-v6-2026-07
+  rules_reviewed: 1
+  candidates:
+  - summary: OAR 589-007-0600 declares it implements ORS 339.505, but that statute addresses definitions
+      for the student accounting system (graduate, school dropout, etc.) and does not provide operative
+      authority for establishing, approving, or regulating the Adult High School Diploma Program that
+      is the rule's actual subject.
+    type: wrong_authority
+    documents:
+    - id: oar-589-007-0600
+      citation: OAR 589-007-0600, declared statutes_implemented
+      quote: ORS 339.505
+    - id: ors-339.505
+      citation: ORS 339.505
+      quote: 'Definitions for ORS 339.505 to 339.520; rules. (1) For purposes of the student accounting
+        system required by ORS 339.515, the following definitions shall be used: (a) "Graduate" means...
+        (b) "School dropout" means... (c) "School dropout" does not include...'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-339.505
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
 - ors_chapter: '340'
   agencies: 2
   rules_reviewed: 7
@@ -20074,10 +20589,790 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: hecc-v6-2026-07
+      model: claude-haiku-4-5-20251001
   artifacts:
   - oar-715-017-0005 legal_authority omits ORS 341.484, though statutes_implemented/relationships.implements
     both include it.
-  run_id: pilot-2026-07
+  run_id: hecc-v6-2026-07
+- ors_chapter: '341'
+  run_id: hecc-v6-2026-07
+  rules_reviewed: 80
+  candidates:
+  - summary: Section (5) contains a self-reference that appears to be a typo; it states 'The Commission
+      may also include these projects on the prioritized list of projects referenced in section (5) of
+      this rule' but is itself section (5), likely intending to reference section (4) which discusses
+      prioritized lists.
+    type: internal
+    documents:
+    - id: oar-589-003-0100
+      citation: 589-003-0100(5)
+      quote: The Commission may also include these projects on the prioritized list of projects referenced
+        in section (5) of this rule.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.937
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 589-004-0200(1)(b)(B) states colleges may not deny access to education records, but OAR
+      589-004-0250(8) permits colleges to deny inspection and review of certain records such as confidential
+      recommendation letters.
+    type: rule_vs_rule
+    documents:
+    - id: oar-589-004-0200
+      citation: OAR 589-004-0200(1)(b)(B)
+      quote: With an understanding that it may not deny access to education records, a description of
+        the circumstances in which the agency or institution believes it has a legitimate cause to deny
+        a request for a copy of those records
+    - id: oar-589-004-0250
+      citation: OAR 589-004-0250(8)
+      quote: 'A college does not have to permit a student to inspect and review the following records:
+        (a) Financial records of the student''s parents; (b) Confidential letters and statements of recommendation
+        if the student has waived his or her right to inspect the letters and statements under the procedure
+        in 34 CFR, Section 99.12(b)(3).'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.290
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule 589-002-0600 extensively implements procedures for nondistrict area contracts under
+      ORS 341.022 but omits the statute's mandatory 300 FTE enrollment cap for annual state reimbursable
+      enrollments.
+    type: narrows
+    documents:
+    - id: ors-341.022
+      citation: ORS 341.022
+      quote: Annual state reimbursable enrollments under an agreement with a nondistrict area shall not
+        exceed 300 full-time equivalent students.
+    - id: oar-589-002-0600
+      citation: OAR 589-002-0600
+      quote: The contract between the community college and the local contracting entity must include
+        an annual budget setting forth both revenue and expenditures for services provided to the nondistrict
+        area.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.022
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule 589-002-0130 declares it implements ORS 341.492, but the operative text addresses only
+      strategic fund management and never engages with ORS 341.492's subject matter of residency for state
+      aid distribution.
+    type: wrong_authority
+    documents:
+    - id: oar-589-002-0130
+      citation: statutes_implemented
+      quote: ORS 341.015, ORS 341.022, ORS 341.317, ORS 341.440, ORS 341.626, ORS 341.665, ORS 341.484,
+        ORS 341.492
+    - id: ors-341.492
+      citation: ORS 341.492(1)-(2)
+      quote: The provisions of ORS 341.487 shall not apply to admissions arranged under ORS 350.750. For
+        purposes of ORS 341.626, and notwithstanding ORS 341.487, students who are residents of Idaho,
+        Washington, California and Nevada and students admitted pursuant to ORS 350.750 shall be considered
+        as residents of Oregon.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.492
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule declares it implements ORS 341.484 but the operative text never engages with contracts
+      for reimbursement between college districts, reimbursement amounts, or the substance of that statute;
+      instead it addresses only strategic fund allocation procedures.
+    type: wrong_authority
+    documents:
+    - id: oar-589-002-0130
+      citation: statutes_implemented
+      quote: ORS 341.015, ORS 341.022, ORS 341.317, ORS 341.440, ORS 341.626, ORS 341.665, ORS 341.484,
+        ORS 341.492
+    - id: ors-341.484
+      citation: ORS 341.484(1)-(3)
+      quote: In the event of an agreement between two colleges to admit each other's students, if the
+        student seeking admission to the community college resides within that college's district, no
+        additional reimbursement shall be required from any college district. However, if the student
+        does not reside within the district, a contract of reimbursement may be entered into between the
+        district and any other district. The contract shall provide for reimbursement to the district
+        for each student in an amount not to exceed the difference between the per student operating expense
+        of the district and the amounts obtained from the student for tuition and fees and obtained from
+        state and federal aid.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.484
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule declares it implements ORS 341.481 (Admission of students), but the rule's operative
+      text is explicitly about state reimbursement eligibility, a subject that the statute does not address.
+    type: wrong_authority
+    documents:
+    - id: oar-589-002-0200
+      citation: OAR 589-002-0200 statutes_implemented
+      quote: ORS 341.290(7), ORS 341.626, ORS 341.481, ORS 341.496
+    - id: ors-341.481
+      citation: ORS 341.481
+      quote: Admission of students
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.481
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 589-007-0180(2) allows contracts with local joint committees for educational services
+      under ORS 341.440, but the statute limits contracts to enumerated parties (another community college
+      district, common or union high school district, education service district, public university, OHSU,
+      private educational institution with NW accreditation, or career school) and does not list local
+      joint committees.
+    type: broadens
+    documents:
+    - id: ors-341.440
+      citation: ORS 341.440(1)
+      quote: A community college district may contract with another community college district, a common
+        or union high school district, an education service district, a public university listed in ORS
+        352.002, the Oregon Health and Science University, a private educational institution accredited
+        by the Northwest Commission on Colleges and Universities or its successor or a career school as
+        defined in ORS 345.010 to obtain educational services for students enrolled in the community college
+        of the district.
+    - id: oar-589-007-0180
+      citation: OAR 589-007-0180(2)
+      quote: A community college may enter into contracts with local joint committees to obtain educational
+        services for students enrolled in the community college as identified in ORS 341.440.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.440
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule declares implementation of ORS 341.185 (review of zone boundaries and appeals procedures)
+      but the rule's operative text addresses only formation requirements for community college districts
+      and never engages with zone boundary review or appeal procedures.
+    type: wrong_authority
+    documents:
+    - id: oar-589-005-0100
+      citation: statutes_implemented
+      quote: ORS 341.025 - 341.185
+    - id: ors-341.185
+      citation: ORS 341.185
+      quote: Except as provided in ORS 255.400 to 255.424, any elector of a district aggrieved by the
+        adjustment of or failure to adjust boundaries of a zone pursuant to ORS 341.175 on the basis that
+        population is not as nearly equal as is feasible is entitled to appear before the board at a public
+        hearing to present the case. If the board refuses to make the requested adjustment in the boundaries,
+        the aggrieved elector may appeal from the decision of the board to the circuit court.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.185
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The statute permits any of six categories of entities (school districts, education service
+      districts, institutions of higher education, counties, municipalities, or private organizations)
+      to contract with a community college, but the rule addresses only local joint committees and does
+      not acknowledge the other five categories listed in the statute.
+    type: narrows
+    documents:
+    - id: ors-341.315
+      citation: ORS 341.315
+      quote: Any school district, education service district, institution of higher education, county,
+        municipality or private organization may contract with a community college district to provide
+        services of an educational nature that are subject to the approval of the Higher Education Coordinating
+        Commission.
+    - id: oar-589-007-0180
+      citation: OAR 589-007-0180(1)
+      quote: Local joint committees, as private organizations, may contract with a community college to
+        provide services of an educational nature that are subject to the approval of the Commission as
+        identified in ORS 341.315.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.315
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The statute requires armed forces members to be treated as Oregon residents for admission
+      and fee/tuition purposes, but the rule's definition of 'Oregon Resident' imposes a 90 continuous-day
+      residency requirement and does not explicitly exempt armed forces members from it, despite the statute
+      not imposing such a requirement.
+    type: narrows
+    documents:
+    - id: ors-341.496
+      citation: ORS 341.496(2)
+      quote: Community colleges in Oregon shall admit active members of the Armed Forces of the United
+        States, active members of the commissioned corps of the National Oceanic and Atmospheric Administration
+        and members of the Public Health Service of the United States Department of Health and Human Services
+        detailed by proper authority for duty with the Army or Navy of the United States, and their spouses
+        and dependent children, in the same manner as Oregon residents who are residents of the community
+        college district and shall assess the same fees and tuition rates.
+    - id: oar-589-002-0200
+      citation: OAR 589-002-0200(2)
+      quote: '"Oregon Resident" is defined as a person who currently maintains a permanent residence in
+        the state and whose permanent residence has been maintained in Oregon for no less that ninety
+        continuous days immediately preceding the person''s first instructional day of the term (quarter)
+        for which residency is in question.'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.496
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The statute requires audit statements to be filed by December 31 of the year the audit is
+      conducted, but the rule requires submission by January 2 of the year following the year the audit
+      is conducted—a different deadline.
+    type: numeric
+    documents:
+    - id: ors-341.709
+      citation: ORS 341.709(1)
+      quote: The audit statements must be filed with the administrative office for the district on or
+        before December 31 of the year in which the audit is conducted.
+    - id: oar-589-002-0900
+      citation: OAR 589-002-0900(3)
+      quote: Colleges are required to submit to the Office one copy of their final audits no later than
+        January 2 of each year following the year for which the audits are conducted.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.709
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 589-002-0130(3) and (4) refer to 'the formula described in Section 6 of 589-002-0110,'
+      but OAR 589-002-0110 is a definitions rule containing only numbered definitions (1)-(33) with no
+      Section 6, and no formula is described there. The formula is described in Section 6 of OAR 589-002-0120.
+    type: wrong_pointer
+    documents:
+    - id: oar-589-002-0130
+      citation: 589-002-0130(3) and (4)
+      quote: Strategic Funds allocated for either purpose will not be considered in the distribution of
+        funds through the formula described in Section 6 of 589-002-0110
+    - id: oar-589-002-0110
+      citation: 589-002-0110
+      quote: 589-002-0110 Definitions The following definitions apply to OAR 589-002-0100 through 589-002-0130.
+        (1) "Adult" is any student...
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.626
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule expands the scope of who must be considered beyond the statute's definition of persons
+      who served in the Armed Forces.
+    type: broadens
+    documents:
+    - id: ors-341.506
+      citation: ORS 341.506(1)
+      quote: education and training obtained by a person while the person served in the Armed Forces of
+        the United States, as defined in ORS 341.496
+    - id: oar-589-007-0300
+      citation: oar-589-007-0300
+      quote: Each community college requesting approval for the training of veterans and other eligible
+        persons will contact the State Approving Agency (SAA)
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.506
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule 575-039-0040 eliminates eligibility for 'one-year curriculum for students who plan to
+      transfer to another post-secondary institution of education' that the statute includes.
+    type: narrows
+    documents:
+    - id: ors-341.522
+      citation: ORS 341.522(3)(a)(B)
+      quote: 'Determined by the office, in accordance with rules adopted by the Higher Education Coordinating
+        Commission, to be required for completion of: (i) A one-year curriculum for students who plan
+        to transfer to another post-secondary institution of education; (ii) An associate degree; or (iii)
+        A program in career and technical education'
+    - id: oar-575-039-0040
+      citation: OAR 575-039-0040(1)
+      quote: 'Oregon Promise Grants may be awarded to students who are enrolled in courses at an Oregon
+        community college that are required for completion of: (a) An associate degree; or (b) A program
+        in career and technical education.'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.522
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule 575-039-0070(1)(c) drops the statute's requirement that students enroll for at least
+      three terms in each consecutive academic year to maintain half-time enrollment eligibility.
+    type: narrows
+    documents:
+    - id: ors-341.522
+      citation: ORS 341.522(6)(a)(C)
+      quote: Enrolls in courses described in subsection (3)(a) of this section for a sufficient number
+        of credit hours to be considered at least a half-time student each term for at least three terms
+        in each consecutive academic year.
+    - id: oar-575-039-0070
+      citation: OAR 575-039-0070(1)(c)
+      quote: Enroll for a sufficient number of credits to be considered at least a half-time student,
+        except that the Commission may waive the requirement that a student enroll for terms beginning
+        or ending while a state or local declaration of emergency and related executive orders by the
+        Governor restricting the operations of Oregon community colleges are in effect, as determined
+        by the Commission.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.522
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule 575-039-0060(2)(a) changes the minimum grant calculation from the statute's 'greater
+      of' ($2,000 adjusted or actual tuition) to 'whichever is less' ($2,000 or actual tuition), resulting
+      in lower minimum awards when actual tuition exceeds $2,000.
+    type: numeric
+    documents:
+    - id: ors-341.522
+      citation: ORS 341.522(7)(a)(A)
+      quote: 'not less than the greater of: (i) $2,000, adjusted for inflation based on the increase of
+        the average cost of tuition at a community college operated under this chapter in a manner determined
+        by the commission by rule; and (ii) The person''s actual cost for tuition.'
+    - id: oar-575-039-0060
+      citation: OAR 575-039-0060(2)(a)
+      quote: No less than $2,000 or the actual cost of tuition, whichever is less
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.522
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule adds PDF email delivery as a permissible method for submitting petitions, but the
+      statute only allows petitions to be received by the commission or mailed with a postmark date.
+    type: broadens
+    documents:
+    - id: ors-341.565
+      citation: ORS 341.565(2)(b)
+      quote: Be either received by the commission, or mailed to the commission as evidenced by a postmark
+        date, no later than 90 days after the date the first signature on the petition is recorded.
+    - id: oar-589-005-0300
+      citation: OAR 589-005-0300(8)
+      quote: The delivery of a petition by PDF attachment to email to an address specified by the Commission
+        on or prior to the expiry date of the petition, or by mail bearing a postmark date no later than
+        90 days after the date the first signature on the petition was recorded, shall also be evidence
+        of timely submission.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.565
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule changes the statutory requirement from considering 'programs' (plural) to 'program'
+      (singular) when evaluating adverse effects on districts' ability to continue services.
+    type: redefines
+    documents:
+    - id: ors-341.565
+      citation: ORS 341.565(1)
+      quote: The commission must find that the proposed change will have no substantially adverse effect
+        upon the ability of the affected districts to provide and continue their programs
+    - id: oar-589-005-0300
+      citation: OAR 589-005-0300(1)
+      quote: The Commission must find that the proposed change will have no substantially adverse effect
+        upon the ability of the affected districts to provide and continue their program
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.565
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule 589-005-0400(1) limits remonstrance petitions to 'annexation of territory' while the
+      statute covers boundary changes that include both inclusion and exclusion of territory.
+    type: narrows
+    documents:
+    - id: oar-589-005-0400
+      citation: 589-005-0400(1)
+      quote: A petition submitted in remonstrance to the annexation of territory to a community college
+        district pursuant to ORS 341.569 shall be submitted no later than 20 days from the date the Commission
+        issues an order describing the revised boundaries of the district.
+    - id: ors-341.569
+      citation: 341.569(1)(c)
+      quote: 'The remonstrance is signed by at least five percent of the electors or at least 500 of the
+        electors, whichever is less, in: (A) An area to be included in the district or excluded from the
+        district by the proposed boundary change; or (B) The existing community college district'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.569
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule 589-002-0700 limits services to 'DOC operated facilities' when the statute allows both
+      state-operated and locally operated correctional facilities.
+    type: narrows
+    documents:
+    - id: ors-341.317
+      citation: ORS 341.317(1)
+      quote: community colleges that deliver educational services to adults in custody confined to the
+        state-operated correctional facilities and to locally operated correctional facilities
+    - id: oar-589-002-0700
+      citation: 589-002-0700(1)
+      quote: to provide Adult Basic Education (ABE) or Work Based Education (WBE) services at DOC operated
+        facilities
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.317
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule 589-002-0130 declares it implements ORS 341.317 but contains no operative text engaging
+      with educational services to adults in custody at correctional institutions.
+    type: wrong_authority
+    documents:
+    - id: oar-589-002-0130
+      citation: 589-002-0130 declared statutes_implemented
+      quote: ORS 341.015, ORS 341.022, ORS 341.317, ORS 341.440, ORS 341.626, ORS 341.665, ORS 341.484,
+        ORS 341.492
+    - id: ors-341.317
+      citation: ORS 341.317
+      quote: Educational services to adults in custody at correctional institutions; reimbursement
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.317
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule defines a CCSD characteristic as inability to incur bonded indebtedness but omits
+      the statute's explicit exception for lease-purchase arrangements and other lawful forms of capital
+      financing.
+    type: narrows
+    documents:
+    - id: ors-341.039
+      citation: ORS 341.039(2)(a)
+      quote: community college service districts formed on or after July 1, 1997, may not incur bonded
+        indebtedness for any purpose. This limitation shall not be construed to prohibit lease-purchase
+        arrangements or other lawful forms of capital financing.
+    - id: oar-589-005-0200
+      citation: OAR 589-005-0200(1)(a)
+      quote: May not incur bonded indebtedness for any purpose
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.039
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule declares it implements ORS 341.665 (which addresses only funding conditions and FTE
+      reimbursement restrictions) but the operative text never engages with any funding requirement—it
+      merely provides apprenticeship-related definitions.
+    type: wrong_authority
+    documents:
+    - id: oar-589-007-0100
+      citation: 589-007-0100 statutes_implemented
+      quote: ORS 351.735, 341.665, 660.157, 660.160, 660.167, 660.190
+    - id: ors-341.665
+      citation: ORS 341.665(1)–(2)
+      quote: The receiving community college shall be awarded funds from the contracted out-of-district
+        funds allocated to the Office of Community Colleges and Workforce Development if the college operates
+        the program under a contract with an apprenticeship training committee and the contract is approved
+        by the office. A community college district may submit full-time equivalencies generated by apprenticeship
+        programs to the office for reimbursement from the Community College Support Fund for purposes
+        of ORS 341.626 but may not submit for reimbursement those full-time equivalencies generated through
+        contracts under subsection (1) of this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.665
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule declares it implements ORS 341.665 (which addresses only funding conditions and FTE
+      reimbursement restrictions) but the operative text addresses only apprenticeship-related training
+      course requirements and never engages with any funding requirement.
+    type: wrong_authority
+    documents:
+    - id: oar-589-007-0110
+      citation: 589-007-0110 statutes_implemented
+      quote: ORS, 341.665, 660.157, 660.160, 660.167, 660.190
+    - id: ors-341.665
+      citation: ORS 341.665(1)–(2)
+      quote: The receiving community college shall be awarded funds from the contracted out-of-district
+        funds allocated to the Office of Community Colleges and Workforce Development if the college operates
+        the program under a contract with an apprenticeship training committee and the contract is approved
+        by the office. A community college district may submit full-time equivalencies generated by apprenticeship
+        programs to the office for reimbursement from the Community College Support Fund for purposes
+        of ORS 341.626 but may not submit for reimbursement those full-time equivalencies generated through
+        contracts under subsection (1) of this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.665
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule declares it implements ORS 341.665 (which addresses only funding conditions and FTE
+      reimbursement restrictions) but the operative text addresses only apprenticeship instructor requirements
+      and never engages with any funding requirement.
+    type: wrong_authority
+    documents:
+    - id: oar-589-007-0130
+      citation: 589-007-0130 statutes_implemented
+      quote: ORS 341.425, 341.665, 660.157, 660.160, 660.167, 660.190
+    - id: ors-341.665
+      citation: ORS 341.665(1)–(2)
+      quote: The receiving community college shall be awarded funds from the contracted out-of-district
+        funds allocated to the Office of Community Colleges and Workforce Development if the college operates
+        the program under a contract with an apprenticeship training committee and the contract is approved
+        by the office. A community college district may submit full-time equivalencies generated by apprenticeship
+        programs to the office for reimbursement from the Community College Support Fund for purposes
+        of ORS 341.626 but may not submit for reimbursement those full-time equivalencies generated through
+        contracts under subsection (1) of this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.665
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule declares it implements ORS 341.665 (which addresses only funding conditions and FTE
+      reimbursement restrictions) but the operative text addresses only core apprenticeship services and
+      never engages with any funding requirement.
+    type: wrong_authority
+    documents:
+    - id: oar-589-007-0160
+      citation: 589-007-0160 statutes_implemented
+      quote: ORS 351.735, 341.665, 660.157, 660.160, 660.167, 660.190
+    - id: ors-341.665
+      citation: ORS 341.665(1)–(2)
+      quote: The receiving community college shall be awarded funds from the contracted out-of-district
+        funds allocated to the Office of Community Colleges and Workforce Development if the college operates
+        the program under a contract with an apprenticeship training committee and the contract is approved
+        by the office. A community college district may submit full-time equivalencies generated by apprenticeship
+        programs to the office for reimbursement from the Community College Support Fund for purposes
+        of ORS 341.626 but may not submit for reimbursement those full-time equivalencies generated through
+        contracts under subsection (1) of this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.665
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The statute requires the Office and 'the interested residents of the nondistrict area' to
+      jointly apply to the county for appointment of the local advisory committee, but the rule requires
+      only the Office and a single designated 'chief petitioner' to make the joint application.
+    type: narrows
+    documents:
+    - id: ors-341.019
+      citation: ORS 341.019(5)
+      quote: the office and the interested residents of the nondistrict area shall apply jointly to the
+        governing body of the county for the appointment of a local advisory committee
+    - id: oar-589-002-0600
+      citation: OAR 589-002-0600(5)
+      quote: Upon receipt of the petition, the Office and the chief petitioner shall jointly apply to
+        the county governing body for the appointment of a local advisory committee
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.019
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The statute restricts state reimbursement to the Community College Support Fund specifically,
+      but the rule allows reimbursement from 'state funds' more broadly.
+    type: broadens
+    documents:
+    - id: ors-341.021
+      citation: ORS 341.021(3)(a)
+      quote: Such reimbursement shall come from the Community College Support Fund established in ORS
+        341.620
+    - id: ors-341.021
+      citation: ORS 341.021(4)
+      quote: Agreements developed under this section shall be wholly supported by Community College Support
+        Fund reimbursement, nondistrict student tuition and nondistrict resources.
+    - id: oar-589-002-0600
+      citation: OAR 589-002-0600(9)(a)
+      quote: The budget must be wholly supported by state funds, nondistrict student tuition, and other
+        nondistrict resources
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.021
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule allows community college instructors to teach at high school sites without specifying
+      the statute's requirement that instruction be limited to academic, career and technical education,
+      school-to-work, or other work-related programs under ORS chapter 329.
+    type: broadens
+    documents:
+    - id: ors-341.535
+      citation: ORS 341.535(2)
+      quote: community college faculty who provide instruction in cooperation with a school district for
+        academic, career and technical education, school-to-work or other work-related programs under
+        ORS chapter 329 are not required to have teaching licenses
+    - id: oar-589-008-0200
+      citation: OAR 589-008-0200(1)
+      quote: A school district may contract with a community college accredited by the Northwest Association
+        of Schools and Colleges or a community college contracting for delivery of instructional and curriculum
+        services with an accredited community college for instruction at a high school site by a faculty
+        member who does not hold a current Teacher Standards and Practices Commission license
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-341.535
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+- ors_chapter: '342'
+  run_id: hecc-v6-2026-07
+  rules_reviewed: 1
+  candidates:
+  - summary: The statute requires post-secondary institutions accredited by the Northwest Commission on
+      Colleges and Universities, but the rule requires accreditation by the Northwest Association of Schools
+      and Colleges—two different accrediting organizations.
+    type: other
+    documents:
+    - id: ors-342.173
+      citation: ORS 342.173(2)
+      quote: The person is employed as a teacher by a post-secondary institution that is accredited by
+        the Northwest Commission on Colleges and Universities, or its successor
+    - id: oar-589-008-0200
+      citation: OAR 589-008-0200(1)(a)
+      quote: The faculty member is employed by a community college accredited by the Northwest Association
+        of Schools and Colleges
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-342.173
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
 - ors_chapter: '345'
   agencies: 3
   rules_reviewed: 16
@@ -20165,9 +21460,1176 @@ chapters:
       note: null
       by: null
       date: null
+  - summary: OAR 839-005-0320(1) states that pursuant to ORS 345.120, the Superintendent of Public Instruction
+      has authority to suspend or revoke licenses, but ORS 345.120(3) vests that authority in the Higher
+      Education Coordinating Commission, not the Superintendent.
+    type: other
+    documents:
+    - id: ors-345.120
+      citation: ORS 345.120(3)
+      quote: As a result of the investigation, and in addition to any penalty that may be imposed under
+        ORS 345.992, the commission may issue a notice for corrective action or, subject to the procedures
+        set forth in subsection (4) of this section, may suspend or revoke any license issued under ORS
+        345.010 to 345.340 when the licensee has...
+    - id: oar-839-005-0320
+      citation: OAR 839-005-0320(1)
+      quote: Pursuant to ORS 345.120, the Superintendent of Public Instruction of the State of Oregon
+        has authority to suspend or revoke licenses of career schools violating ORS 345.010 to 345.450
+        or any applicable rule.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-345.120
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The statute limits ORS 345.240 to career schools licensed under ORS 345.010 to 345.340, but
+      multiple rules extend coverage to ORS 345.010 to 345.450
+    type: broadens
+    documents:
+    - id: ors-345.240
+      citation: ORS 345.240(1)
+      quote: No career school licensed under ORS 345.010 to 345.340 shall refuse admission to or discriminate
+        in admission against or discriminate in giving instruction to any person otherwise qualified.
+    - id: oar-839-005-0300
+      citation: OAR 839-005-0300(1)
+      quote: ORS 345.240 prohibits unlawful discrimination by career schools licensed under ORS 345.010
+        to 345.450.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-345.240
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The statute limits ORS 345.240 to career schools licensed under ORS 345.010 to 345.340, but
+      the rule definition extends coverage to ORS 345.010 to 345.450
+    type: broadens
+    documents:
+    - id: ors-345.240
+      citation: ORS 345.240(1)
+      quote: No career school licensed under ORS 345.010 to 345.340 shall refuse admission to or discriminate
+        in admission against or discriminate in giving instruction to any person otherwise qualified.
+    - id: oar-839-005-0305
+      citation: OAR 839-005-0305(2)
+      quote: '"Career school" includes those required to be licensed under ORS 345.010 to 345.450, and
+        excludes entities described in ORS 345.015.'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-345.240
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ors-345.120's sliced text has subsection-marker line breaks that split cross-references mid-citation.
-  run_id: pilot-2026-07
+  run_id: hecc-v6-2026-07
+- ors_chapter: '348'
+  run_id: hecc-v6-2026-07
+  rules_reviewed: 213
+  candidates:
+  - summary: Rules about Oregon Troops to Teachers Program declare they implement ORS 348.205, which only
+      authorizes rules for the Oregon Opportunity Grant program, not Troops to Teachers.
+    type: wrong_authority
+    documents:
+    - id: oar-575-074-0000
+      citation: OAR 575-074-0000
+      quote: ORS 348.180, ORS 348.205, ORS 348.250, ORS 348.260
+    - id: ors-348.205
+      citation: ORS 348.205(8)
+      quote: The commission shall adopt rules that implement the Oregon Opportunity Grant program.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.205
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 575-074-0000 declares it implements ORS 348.180, but the rule defines terms for the Oregon
+      Troops to Teachers Program which does not appear in ORS 348.180 (which defines only cost of education,
+      eligible post-secondary institution, and qualified student), while the rule's operative text references
+      Ch. 831 as its actual authority for the Troops to Teachers Program.
+    type: wrong_authority
+    documents:
+    - id: oar-575-074-0000
+      citation: OAR 575-074-0000 statutes_implemented
+      quote: ORS 348.180, ORS 348.205, ORS 348.250, ORS 348.260
+    - id: ors-348.180
+      citation: ORS 348.180
+      quote: 'As used in this section and ORS 348.205, 348.250, 348.260 and 348.263: (1) "Cost of education"
+        includes but is not limited to, tuition, fees and living expenses. (2) "Eligible post-secondary
+        institution" means: (a) A public university listed in ORS 352.002; (b) A community college operated
+        under ORS chapter 341; (c) The Oregon Health and Science University; or (d) An Oregon-based, generally
+        accredited, not-for-profit institution of higher education. (3) "Enrollment level" means the course
+        load taken by a student as a proportion of the expected full-time course load. (4) "Qualified
+        student" means any student who has been a resident of this state for not less than 12 months prior
+        to enrolling at an eligible post-secondary institution and who...'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.180
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule requires students to be Oregon residents, but the statute does not mention residency
+      as an eligibility requirement.
+    type: narrows
+    documents:
+    - id: ors-348.290
+      citation: ORS 348.290
+      quote: provide financial aid, as defined in ORS 348.505, to students to study barbering, hairdressing,
+        manicure and esthetics at eligible post-secondary schools
+    - id: oar-575-035-0005
+      citation: OAR 575-035-0005
+      quote: For a student to be eligible for a Barbers and Hairdressers (B & H) Grant, the student must
+        be a resident of the State of Oregon
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.290
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: All 12 rules claim to implement ORS 348.505, which is purely a definition section stating
+      what 'financial aid' includes, not a statute that establishes eligibility requirements, grant amounts,
+      conditions of award, residency rules, institutional requirements, or any of the substantive provisions
+      these rules implement.
+    type: wrong_authority
+    documents:
+    - id: oar-575-035-0005
+      citation: statutes_implemented
+      quote: ORS 348.290, ORS 348.505
+    - id: ors-348.505
+      citation: ORS 348.505
+      quote: As used in ORS 348.500 to 348.621, "financial aid" includes loans, grants, scholarships,
+        work opportunities and other forms of financial aid to assist students in completing their post-high-school
+        education.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.505
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: All 12 rules claim to implement ORS 348.505, which is purely a definition section stating
+      what 'financial aid' includes, not a statute that establishes eligibility requirements, grant amounts,
+      conditions of award, residency rules, institutional requirements, or any of the substantive provisions
+      these rules implement.
+    type: wrong_authority
+    documents:
+    - id: oar-575-035-0010
+      citation: statutes_implemented
+      quote: ORS 348.290, ORS 348.505
+    - id: ors-348.505
+      citation: ORS 348.505
+      quote: As used in ORS 348.500 to 348.621, "financial aid" includes loans, grants, scholarships,
+        work opportunities and other forms of financial aid to assist students in completing their post-high-school
+        education.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.505
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: All 12 rules claim to implement ORS 348.505, which is purely a definition section stating
+      what 'financial aid' includes, not a statute that establishes eligibility requirements, grant amounts,
+      conditions of award, residency rules, institutional requirements, or any of the substantive provisions
+      these rules implement.
+    type: wrong_authority
+    documents:
+    - id: oar-575-035-0015
+      citation: statutes_implemented
+      quote: ORS 348.290, ORS 348.505
+    - id: ors-348.505
+      citation: ORS 348.505
+      quote: As used in ORS 348.500 to 348.621, "financial aid" includes loans, grants, scholarships,
+        work opportunities and other forms of financial aid to assist students in completing their post-high-school
+        education.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.505
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: All 12 rules claim to implement ORS 348.505, which is purely a definition section stating
+      what 'financial aid' includes, not a statute that establishes eligibility requirements, grant amounts,
+      conditions of award, residency rules, institutional requirements, or any of the substantive provisions
+      these rules implement.
+    type: wrong_authority
+    documents:
+    - id: oar-575-035-0020
+      citation: statutes_implemented
+      quote: ORS 348.290, ORS 348.505
+    - id: ors-348.505
+      citation: ORS 348.505
+      quote: As used in ORS 348.500 to 348.621, "financial aid" includes loans, grants, scholarships,
+        work opportunities and other forms of financial aid to assist students in completing their post-high-school
+        education.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.505
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: All 12 rules claim to implement ORS 348.505, which is purely a definition section stating
+      what 'financial aid' includes, not a statute that establishes eligibility requirements, grant amounts,
+      conditions of award, residency rules, institutional requirements, or any of the substantive provisions
+      these rules implement.
+    type: wrong_authority
+    documents:
+    - id: oar-575-035-0025
+      citation: statutes_implemented
+      quote: ORS 348.290, ORS 348.505
+    - id: ors-348.505
+      citation: ORS 348.505
+      quote: As used in ORS 348.500 to 348.621, "financial aid" includes loans, grants, scholarships,
+        work opportunities and other forms of financial aid to assist students in completing their post-high-school
+        education.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.505
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: All 12 rules claim to implement ORS 348.505, which is purely a definition section stating
+      what 'financial aid' includes, not a statute that establishes eligibility requirements, grant amounts,
+      conditions of award, residency rules, institutional requirements, or any of the substantive provisions
+      these rules implement.
+    type: wrong_authority
+    documents:
+    - id: oar-575-035-0030
+      citation: statutes_implemented
+      quote: ORS 348.290, ORS 348.505
+    - id: ors-348.505
+      citation: ORS 348.505
+      quote: As used in ORS 348.500 to 348.621, "financial aid" includes loans, grants, scholarships,
+        work opportunities and other forms of financial aid to assist students in completing their post-high-school
+        education.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.505
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: All 12 rules claim to implement ORS 348.505, which is purely a definition section stating
+      what 'financial aid' includes, not a statute that establishes eligibility requirements, grant amounts,
+      conditions of award, residency rules, institutional requirements, or any of the substantive provisions
+      these rules implement.
+    type: wrong_authority
+    documents:
+    - id: oar-575-035-0040
+      citation: statutes_implemented
+      quote: ORS 348.290 & 348.505
+    - id: ors-348.505
+      citation: ORS 348.505
+      quote: As used in ORS 348.500 to 348.621, "financial aid" includes loans, grants, scholarships,
+        work opportunities and other forms of financial aid to assist students in completing their post-high-school
+        education.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.505
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: All 12 rules claim to implement ORS 348.505, which is purely a definition section stating
+      what 'financial aid' includes, not a statute that establishes eligibility requirements, grant amounts,
+      conditions of award, residency rules, institutional requirements, or any of the substantive provisions
+      these rules implement.
+    type: wrong_authority
+    documents:
+    - id: oar-575-035-0045
+      citation: statutes_implemented
+      quote: ORS 348.290 & ORS 348.505
+    - id: ors-348.505
+      citation: ORS 348.505
+      quote: As used in ORS 348.500 to 348.621, "financial aid" includes loans, grants, scholarships,
+        work opportunities and other forms of financial aid to assist students in completing their post-high-school
+        education.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.505
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: All 12 rules claim to implement ORS 348.505, which is purely a definition section stating
+      what 'financial aid' includes, not a statute that establishes eligibility requirements, grant amounts,
+      conditions of award, residency rules, institutional requirements, or any of the substantive provisions
+      these rules implement.
+    type: wrong_authority
+    documents:
+    - id: oar-575-035-0046
+      citation: statutes_implemented
+      quote: ORS 348.290 & ORS 348.505
+    - id: ors-348.505
+      citation: ORS 348.505
+      quote: As used in ORS 348.500 to 348.621, "financial aid" includes loans, grants, scholarships,
+        work opportunities and other forms of financial aid to assist students in completing their post-high-school
+        education.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.505
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: All 12 rules claim to implement ORS 348.505, which is purely a definition section stating
+      what 'financial aid' includes, not a statute that establishes eligibility requirements, grant amounts,
+      conditions of award, residency rules, institutional requirements, or any of the substantive provisions
+      these rules implement.
+    type: wrong_authority
+    documents:
+    - id: oar-575-035-0050
+      citation: statutes_implemented
+      quote: ORS 348.290 & ORS 348.505
+    - id: ors-348.505
+      citation: ORS 348.505
+      quote: As used in ORS 348.500 to 348.621, "financial aid" includes loans, grants, scholarships,
+        work opportunities and other forms of financial aid to assist students in completing their post-high-school
+        education.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.505
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: All 12 rules claim to implement ORS 348.505, which is purely a definition section stating
+      what 'financial aid' includes, not a statute that establishes eligibility requirements, grant amounts,
+      conditions of award, residency rules, institutional requirements, or any of the substantive provisions
+      these rules implement.
+    type: wrong_authority
+    documents:
+    - id: oar-575-035-0051
+      citation: statutes_implemented
+      quote: ORS 348.290 & ORS 348.505
+    - id: ors-348.505
+      citation: ORS 348.505
+      quote: As used in ORS 348.500 to 348.621, "financial aid" includes loans, grants, scholarships,
+        work opportunities and other forms of financial aid to assist students in completing their post-high-school
+        education.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.505
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: All 12 rules claim to implement ORS 348.505, which is purely a definition section stating
+      what 'financial aid' includes, not a statute that establishes eligibility requirements, grant amounts,
+      conditions of award, residency rules, institutional requirements, or any of the substantive provisions
+      these rules implement.
+    type: wrong_authority
+    documents:
+    - id: oar-575-035-0055
+      citation: statutes_implemented
+      quote: ORS 348.290 & ORS 348.505
+    - id: ors-348.505
+      citation: ORS 348.505
+      quote: As used in ORS 348.500 to 348.621, "financial aid" includes loans, grants, scholarships,
+        work opportunities and other forms of financial aid to assist students in completing their post-high-school
+        education.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.505
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The Oregon Troops to Teachers rules declare they implement ORS 348.250, which is titled and
+      limited to 'Procedure for awarding grants under ORS 348.260' and never engages with the Troops to
+      Teachers program, veterans, teaching requirements, or tuition assistance for teachers in its operative
+      text.
+    type: wrong_authority
+    documents:
+    - id: oar-575-074-0010
+      citation: declared statutes_implemented
+      quote: ORS 348.180, 348.205, 348.250 & 348.260
+    - id: ors-348.250
+      citation: ORS 348.250(1)
+      quote: Grants established under ORS 348.260 shall be awarded by the Higher Education Coordinating
+        Commission in the manner provided in this section.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.250
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The statute limits fees to schools or persons 'requesting information' from the Commission,
+      but the rule extends fees to those requesting 'services or information.'
+    type: broadens
+    documents:
+    - id: ors-348.603
+      citation: ORS 348.603(2)
+      quote: The commission, by rule, may impose a fee on any school or person requesting information
+        from the commission.
+    - id: oar-583-001-0015
+      citation: OAR 583-001-0015
+      quote: A fee may be imposed on any school or person requesting services or information from the
+        Commission pertaining to the administration of its functions under ORS 348.594 to 348.615.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.603
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule 583-050-0006(2)(d) adds religious exempt schools as valid sources for degrees without
+      disclaimer, a category not mentioned in statute ORS 348.609(1).
+    type: broadens
+    documents:
+    - id: oar-583-050-0006
+      citation: OAR 583-050-0006(2)(d)
+      quote: Is an Oregon school that has achieved exemption from state oversight on religious grounds
+    - id: ors-348.609
+      citation: ORS 348.609(1)
+      quote: 'A person may not claim or represent that the person possesses any academic degree unless
+        the degree has been awarded to or conferred upon the person by a school that: (a) Has accreditation
+        recognized by the United States Department of Education or the foreign equivalent of such accreditation;
+        (b) Has been approved by the Higher Education Coordinating Commission to offer and confer degrees
+        in Oregon; (c) Is described in ORS 348.597; or (d) Is located in the United States and has been
+        found by the commission to meet standards of academic quality comparable to those of an institution
+        located in the United States that has accreditation, recognized by the United States Department
+        of Education, to offer degrees of the type and level claimed by the person.'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.609
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The statute requires at least 20 days' written notice before a hearing, but the rule requires
+      21 days' written notice before a hearing for revocation or suspension.
+    type: numeric
+    documents:
+    - id: ors-348.612
+      citation: ORS 348.612(4)
+      quote: At least 20 days before holding a hearing under this section, the school must have received
+        written notice of the place, time and reason for the hearing.
+    - id: oar-583-030-0045
+      citation: OAR 583-030-0045(4)
+      quote: A hearing to consider a proposed revocation or suspension shall be held only after the affected
+        school has been given written notice of the time and place of such hearing 21 days in advance.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.612
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule definition of 'school' in OAR 583-030-0015(31) covers any entity engaging in educational
+      activities including teaching and recognition of educational attainment, while the statute limits
+      'school' to those that confer or offer degrees or provide academic credit applicable to a degree.
+    type: broadens
+    documents:
+    - id: ors-348.594
+      citation: ORS 348.594(3)(a)
+      quote: '"School" means a person, organization, school or institution of learning that confers or
+        offers to confer an academic degree upon a person or to provide academic credit applicable to
+        a degree.'
+    - id: oar-583-030-0015
+      citation: OAR 583-030-0015(31)
+      quote: '"School" means any person or persons and any organization or group of organizations, whether
+        incorporated or not, engaging or appearing to engage in the activities of an educational entity
+        or institution of learning, whether or not naming itself a school, college, university, institute,
+        academy, seminary, conservatory, or similar term. The activities attributable to a school include
+        but are not limited to teaching, measurement of achievement or proficiency, or recognition of
+        educational attainment or comparable public distinction.'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.594
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule 583-030-0049 states that offering a degree without authorization "is a Class B misdemeanor,"
+      while rule 583-050-0026 states that violations "may result in" prosecution for a Class B misdemeanor,
+      creating inconsistency about whether the offense automatically constitutes a misdemeanor or only
+      potentially results in one.
+    type: rule_vs_rule
+    documents:
+    - id: oar-583-030-0049
+      citation: OAR 583-030-0049(1)
+      quote: any offer of a degree or of services purporting to lead to a degree in whole or in part is
+        a Class B misdemeanor under ORS 348.992
+    - id: oar-583-050-0026
+      citation: OAR 583-050-0026(6)
+      quote: 'Any violation of ORS 348.603 or 348.609 may result in any or all of the following sanctions:
+        (a) Prosecution for a Class B misdemeanor under ORS 348.992'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.992
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule 583-030-0063 declares it implements ORS 348.597, but the operative text never engages
+      with that statute. The rule creates temporary emergency authorization for non-Oregon schools when
+      their home state declares an emergency—a mechanism outside the normal authorization/exemption framework
+      that ORS 348.597 addresses.
+    type: wrong_authority
+    documents:
+    - id: oar-583-030-0063
+      citation: statutes_implemented
+      quote: ORS 348.606, ORS 350.075, ORS 348.597, ORS 348.603
+    - id: ors-348.597
+      citation: ORS 348.597
+      quote: Except as provided in subsection (2) of this section, ORS 348.594 to 348.615 apply to all
+        schools that operate in this state.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.597
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 575-074-0010 and related Troops to Teachers rules (575-074-0000 through 575-074-0030)
+      declare they implement ORS 348.260, but that statute is exclusively about Oregon Opportunity Grants
+      and contains no authorization for, mention of, or engagement with the Oregon Troops to Teachers
+      Program that is the sole subject of these rules.
+    type: wrong_authority
+    documents:
+    - id: oar-575-074-0010
+      citation: OAR 575-074-0010 declared statutes_implemented
+      quote: ORS 348.180, ORS 348.205, ORS 348.250, ORS 348.260
+    - id: ors-348.260
+      citation: ORS 348.260(1)
+      quote: In addition to any other form of student financial aid authorized by law, the Higher Education
+        Coordinating Commission may award Oregon Opportunity Grants to qualified students.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.260
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Section (2)(g) allows the Commission to assess a fee not to exceed $1,000 for exemption applications
+      under ORS 348.604, but section (4)(c) provides a different, more restrictive limit stating the fee
+      may not exceed the lesser of actual costs or $1,000.
+    type: rule_vs_rule
+    documents:
+    - id: oar-583-030-0046
+      citation: OAR 583-030-0046(2)(g)
+      quote: The Commission may assess a fee not to exceed $1,000 on a school that applies for an exemption
+        under ORS 348.604.
+    - id: oar-583-030-0046
+      citation: OAR 583-030-0046(4)(c)
+      quote: The fee for religious-exempt schools may not exceed the actual cost to the Commission of
+        determining the school's compliance with the requirements for an exemption under ORS 348.604,
+        or may not exceed $1,000, whichever is the lesser amount.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.604
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+    corroborated_by:
+    - run_id: hecc-v6-2026-07
+      model: claude-haiku-4-5-20251001
+  - summary: Rule defines good standing to include satisfactory academic progress, in addition to or instead
+      of the statutory 2.0 GPA requirement.
+    type: broadens
+    documents:
+    - id: ors-348.268
+      citation: ORS 348.268(1)(b)
+      quote: '"Good standing" means the qualified student has a cumulative grade point average of 2.0
+        or higher at Oregon Health and Science University or the community college, public university
+        listed in ORS 352.002 or qualifying private institution at which the student is enrolled.'
+    - id: oar-575-067-0002
+      citation: OAR 575-067-0002(2)
+      quote: '"Good standing" means the qualified student has a cumulative grade point average of 2.0
+        or higher or is maintaining satisfactory academic progress as defined by the institution in accordance
+        with federal Title IV regulations and guidelines.'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.268
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule requires completion of any military basic training in the United States Armed Forces,
+      while statute requires basic training with Oregon National Guard or National Guard of another state
+      or territory.
+    type: broadens
+    documents:
+    - id: ors-348.268
+      citation: ORS 348.268(1)(c)(D)
+      quote: Has completed basic training with the Oregon National Guard or a National Guard of any other
+        state or territory
+    - id: oar-575-067-0006
+      citation: OAR 575-067-0006(1)(d)
+      quote: Have completed any military basic training in the United States Armed Forces
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.268
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule calculates grant amount based on resident tuition only, while statute requires grant
+      amount to equal the sum of resident tuition charges, average fees, and book allowance.
+    type: narrows
+    documents:
+    - id: ors-348.268
+      citation: ORS 348.268(2)
+      quote: 'A qualified student shall receive a grant under this section in an amount that equals the
+        sum of the following, minus the amount of federal military tuition assistance received by the
+        qualified student: (a)(A) The resident tuition charges at the community college at which the qualified
+        student is enrolled; (B) The resident tuition charges at the public university listed in ORS 352.002
+        at which the qualified student is enrolled; (C) The average resident tuition charges to attend
+        a public university listed in ORS 352.002 if the qualified student is enrolled at a qualifying
+        private institution; or (D) The resident tuition charges at Oregon Health and Science University
+        if the qualified student is enrolled at Oregon Health and Science University; (b) The average
+        amount of fees charged by the type of institution at which the qualified student is enrolled,
+        as determined by the Higher Education Coordinating Commission; and (c) An allowance for books
+        required for coursework, as determined by the Higher Education Coordinating Commission.'
+    - id: oar-575-067-0016
+      citation: OAR 575-067-0016(1)
+      quote: An eligible student shall receive an award in an amount that equals the resident tuition
+        charges at Oregon public universities, the Oregon Health and Science University, and community
+        colleges that the student is attending.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.268
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 583-030-0015(23) redefines 'practicum' to include 'internship,' which the statute does
+      not mention, broadening the fee categories covered by ORS 348.606(4).
+    type: redefines
+    documents:
+    - id: oar-583-030-0015
+      citation: OAR 583-030-0015(23)
+      quote: '"Practicum" means that portion of a degree program that involves a supervised field placement
+        in a professional or workplace environment. For purposes of these rules, also includes "internship."'
+    - id: ors-348.606
+      citation: ORS 348.606(6)
+      quote: As used in this section, "practicum" means a portion of a degree program that involves a
+        supervised field placement in a professional or workplace environment.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.606
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The Eligibility Criteria rule omits the FAFSA requirement that the statute includes as part
+      of the eligibility criteria in ORS 348.270(3)(a)(D).
+    type: narrows
+    documents:
+    - id: ors-348.270
+      citation: ORS 348.270(3)(a)(D)
+      quote: Complete and submit the Free Application for Federal Student Aid for each academic year and
+        accept all state and federal aid grants available to the person, if eligible to file the application
+    - id: oar-575-037-0051
+      citation: 575-037-0051(1)-(6)
+      quote: 'To be eligible for a Deceased or Disabled Public Safety Officers scholarship, a student
+        must: (1) Be a child of a public safety officer who has suffered a qualifying death or disability.
+        (2) Be enrolled or have applied for enrollment at an eligible institution of higher education
+        in this state. (3) Be under 25 years of age at the time of submitting the application. (4) Not
+        have achieved a baccalaureate or higher degree from any post-secondary institution. (5) A student
+        who is awarded a scholarship, in addition to satisfying all other eligibility criteria, must maintain
+        satisfactory academic progress (SAP) as defined by the institution of higher education. (6) A
+        student is eligible to receive a scholarship for a maximum of the equivalent of four academic
+        years.'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.270
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule declares it implements ORS 348.605, which imposes restrictions and duties on schools
+      obtaining exemptions under ORS 348.604, but the rule's operative text never engages with schools
+      under ORS 348.604—it only exempts schools under ORS 348.597 and entities in ORS 348.594(3)(b) from
+      the standards.
+    type: wrong_authority
+    documents:
+    - id: oar-583-030-0010
+      citation: statutes_implemented
+      quote: ORS 348.604, ORS 348.597, ORS 348.605, ORS 348.594
+    - id: ors-348.605
+      citation: ORS 348.605
+      quote: A school that obtains an exemption under ORS 348.604 or that, on July 14, 2005, met the criteria
+        and followed procedures to obtain a religious exemption adopted by rule by the Oregon Student
+        Access Commission and that offered only degrees leading to occupations in theology or religious
+        occupations may not
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.605
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 575-095-0045(5) creates an exception allowing students to remain eligible for awards
+      despite failing to meet renewal requirements during emergencies, but ORS 348.520(4) states the Commission
+      'shall Withhold any financial aid if the recipient thereof fails to maintain the standards established
+      for receipt of that aid' without carving out emergency exceptions, making the statutory mandate
+      to withhold discretionary.
+    type: discretion
+    documents:
+    - id: oar-575-095-0045
+      citation: OAR 575-095-0045(5)
+      quote: An awardee who fails to meet the requirements of subsections (1) and (3) may remain eligible
+        to receive an award in the following term if the student is unable to meet the requirement during
+        a period where there exists an active declaration of emergency or executive order restricting
+        the operations of institutions of higher education, or due to the temporary closure of the awardees
+        usual child care facility related to the issuance of the same or similar declarations or orders.
+    - id: ors-348.520
+      citation: ORS 348.520(4)
+      quote: Withhold any financial aid if the recipient thereof fails to maintain the standards established
+        for receipt of that aid.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.520
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The statute requires the commission to provide a recommendation on whether community colleges
+      should be allowed to offer applied baccalaureate degrees, treating this as an open question. The
+      implementing rule presupposes an affirmative answer by exempting applied baccalaureate degree programs
+      from the two-year limitation normally binding on community colleges.
+    type: broadens
+    documents:
+    - id: ors-348.910
+      citation: ORS 348.910(3)(f)
+      quote: A recommendation as to whether community colleges should be allowed to offer applied baccalaureate
+        degrees.
+    - id: oar-589-001-0300
+      citation: OAR 589-001-0300(6)(b)(B)
+      quote: 'The two-year limitation described in paragraph (a) of this subsection does not apply to:
+        ... (B) Applied baccalaureate degree programs.'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.910
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule narrows the statutory definition of 'teacher candidate' by specifying only four
+      particular school professional roles instead of the statute's broader 'teacher or other school professional'
+      language, and adds a requirement for 'preliminary licensure' not in the statute.
+    type: narrows
+    documents:
+    - id: ors-348.295
+      citation: ORS 348.295(4)(b)
+      quote: '"Teacher candidate" means an individual who is preparing to be a teacher or other school
+        professional licensed, registered or certified by the Teacher Standards and Practices Commission.'
+    - id: oar-575-066-0002
+      citation: OAR 575-066-0002(11)
+      quote: '"Teacher candidate" means an individual who is pursuing their preliminary licensure for
+        teaching, school counseling, school social work or school psychology in a program registered or
+        certified by the Teacher Standards and Practices Commission.'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.295
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: ORS 348.530(7) grants the Commission discretionary power to 'deny financial aid' to certain
+      students, but OAR 575-001-0010(1) makes denial mandatory by stating such students 'shall not be
+      eligible to participate in any student assistance program.'
+    type: discretion
+    documents:
+    - id: oar-575-001-0010
+      citation: OAR 575-001-0010(1)
+      quote: Any student or parent in default on any Federal Family Education Loan Program (FFELP) loan
+        (formerly Guaranteed Student Loan/GSL) or any loan made or insured by the Higher Education Coordinating
+        Commission and any student owing a refund on any State grant, or owing a refund or in default
+        on any Title IV federal aid program shall not be eligible to participate in any student assistance
+        program administered by the Commission.
+    - id: ors-348.530
+      citation: ORS 348.530(7)
+      quote: Deny financial aid to any student owing a refund or in default on financial aid previously
+        made available to that student.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.530
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: ORS 348.530(7) grants the Commission discretionary power to 'deny financial aid' to certain
+      students, but OAR 575-060-0030(2) makes denial mandatory by stating 'No award shall be made' to
+      students in this situation.
+    type: discretion
+    documents:
+    - id: oar-575-060-0030
+      citation: OAR 575-060-0030(2)
+      quote: No award shall be made to a student in default on any federal Title IV loan or owing a refund
+        on federal Title IV funds previously disbursed.
+    - id: ors-348.530
+      citation: ORS 348.530(7)
+      quote: Deny financial aid to any student owing a refund or in default on financial aid previously
+        made available to that student.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.530
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: ORS 348.530(7) grants the Commission discretionary power to 'deny financial aid' to certain
+      students, but OAR 575-095-0020(4) makes ineligibility based on default status a mandatory eligibility
+      criterion.
+    type: discretion
+    documents:
+    - id: oar-575-095-0020
+      citation: OAR 575-095-0020(4)
+      quote: Not be in default on any federal Title IV loan or owing a refund on federal Title IV funds
+        previously disbursed.
+    - id: ors-348.530
+      citation: ORS 348.530(7)
+      quote: Deny financial aid to any student owing a refund or in default on financial aid previously
+        made available to that student.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-348.530
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+- ors_chapter: '350'
+  run_id: hecc-v6-2026-07
+  rules_reviewed: 22
+  candidates:
+  - summary: OAR 715-013-0060 claims to implement ORS 350.075(3)(iii)(f), but the statute's section (3)
+      uses alphabetic subsections (a)-(n), not Roman numerals; (3)(iii)(f) does not exist in the statute.
+    type: wrong_authority
+    documents:
+    - id: oar-715-013-0060
+      citation: statutes_implemented
+      quote: ORS 350.075(3)(iii)(f), ORS 21.007
+    - id: ors-350.075
+      citation: ORS 350.075(3)
+      quote: '(3) The Higher Education Coordinating Commission shall: (a) Develop state goals... (b) Determine
+        strategic investments... (c) Coordinate the post-secondary elements... (d) Adopt a strategic plan...
+        (e)(A) Each biennium... (f) Adopt rules governing... (g) Approve or disapprove... (h) For public
+        universities... (i) Authorize degrees... (j) Oversee the licensing... (k) Have the authority...
+        (L) Administer a statewide... (m) In coordination... (n) Establish a direct...'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-350.075
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 715-013-0062 claims to implement ORS 350.075(3)(iiI)(f), but the statute's section (3)
+      uses alphabetic subsections (a)-(n), not Roman numerals; (3)(iii)(f) does not exist.
+    type: wrong_authority
+    documents:
+    - id: oar-715-013-0062
+      citation: statutes_implemented
+      quote: ORS 350.075(3)(iiI)(f) & 2015 Oregon Laws Chapter 682
+    - id: ors-350.075
+      citation: ORS 350.075(3)
+      quote: '(3) The Higher Education Coordinating Commission shall: (a) Develop state goals... (b) Determine
+        strategic investments... (c) Coordinate the post-secondary elements... (d) Adopt a strategic plan...
+        (e)(A) Each biennium... (f) Adopt rules governing... (g) Approve or disapprove... (h) For public
+        universities... (i) Authorize degrees... (j) Oversee the licensing... (k) Have the authority...
+        (L) Administer a statewide... (m) In coordination... (n) Establish a direct...'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-350.075
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 715-013-0064 claims to implement ORS 350.075(3)(iii)(f), but the statute's section (3)
+      uses alphabetic subsections (a)-(n), not Roman numerals; (3)(iii)(f) does not exist.
+    type: wrong_authority
+    documents:
+    - id: oar-715-013-0064
+      citation: statutes_implemented
+      quote: ORS 350.075(3)(iii)(f), ORS 284.720 & ORS 284.701
+    - id: ors-350.075
+      citation: ORS 350.075(3)
+      quote: '(3) The Higher Education Coordinating Commission shall: (a) Develop state goals... (b) Determine
+        strategic investments... (c) Coordinate the post-secondary elements... (d) Adopt a strategic plan...
+        (e)(A) Each biennium... (f) Adopt rules governing... (g) Approve or disapprove... (h) For public
+        universities... (i) Authorize degrees... (j) Oversee the licensing... (k) Have the authority...
+        (L) Administer a statewide... (m) In coordination... (n) Establish a direct...'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-350.075
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 715-013-0066 claims to implement ORS 350.075(3)(iii)(f), but the statute's section (3)
+      uses alphabetic subsections (a)-(n), not Roman numerals; (3)(iii)(f) does not exist.
+    type: wrong_authority
+    documents:
+    - id: oar-715-013-0066
+      citation: statutes_implemented
+      quote: ORS 350.075(3)(iii)(f), ORS 36.105 & ORS 36.145
+    - id: ors-350.075
+      citation: ORS 350.075(3)
+      quote: '(3) The Higher Education Coordinating Commission shall: (a) Develop state goals... (b) Determine
+        strategic investments... (c) Coordinate the post-secondary elements... (d) Adopt a strategic plan...
+        (e)(A) Each biennium... (f) Adopt rules governing... (g) Approve or disapprove... (h) For public
+        universities... (i) Authorize degrees... (j) Oversee the licensing... (k) Have the authority...
+        (L) Administer a statewide... (m) In coordination... (n) Establish a direct...'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-350.075
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule restricts the transcript-withholding prohibition to schools offering degree programs,
+      while the statute applies it to all post-secondary institutions of education.
+    type: narrows
+    documents:
+    - id: oar-583-030-0035
+      citation: OAR 583-030-0035(13)(c)
+      quote: 'A school based in this state may not: (A) Refuse to provide a transcript for a current or
+        former student because the student owes a debt to the institution'
+    - id: ors-350.210
+      citation: ORS 350.210(1)
+      quote: 'A post-secondary institution of education that is based in this state may not: (a) Refuse
+        to provide a transcript for a current or former student because the student owes a debt to the
+        institution'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-350.210
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The statute explicitly permits the commission to waive the fee 'in case of hardship,' but
+      neither implementing rule provides for such hardship waivers.
+    type: narrows
+    documents:
+    - id: ors-350.175
+      citation: ORS 350.175(3)
+      quote: The fee may be waived by the commission in case of hardship.
+    - id: oar-589-007-0500
+      citation: OAR 589-007-0500(1)
+      quote: The Commission authorizes the Office to charge a fee of $38 per test at the time testing
+        begins (this includes the $8.00 state administration fee).
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-350.175
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule extends allotment authority to Oregon Health Sciences University, but the statute
+      authorizes allocation only to public universities listed in ORS 352.002.
+    type: broadens
+    documents:
+    - id: ors-350.095
+      citation: ORS 350.095(1)(b)
+      quote: Allocate moneys, from funds appropriated to the commission and other available moneys, to
+        public universities listed in ORS 352.002
+    - id: oar-715-013-0005
+      citation: OAR 715-013-0005(1) and (2)
+      quote: authority in all areas of fiscal and administrative responsibility necessary for the execution
+        of Commission policy relating to the allotment of funds to public universities and Oregon Health
+        Sciences University
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-350.095
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
 - ors_chapter: '352'
   agencies: 6
   rules_reviewed: 9
@@ -20215,10 +22677,133 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: hecc-v6-2026-07
+      model: claude-haiku-4-5-20251001
+  - summary: OAR 715-013-0040(10) excludes COFA students who meet ORS 352.287 requirements from Eastern
+      Oregon University's PUSF funding calculation, contradicting the statute's establishment that these
+      students 'shall qualify' for tuition exemptions at public universities including Eastern Oregon
+      University.
+    type: wrong_authority
+    documents:
+    - id: oar-715-013-0040
+      citation: OAR 715-013-0040, declared statutes_implemented line
+      quote: ORS 350.075(3)(f), ORS 352.287, ORS 350.075(3)(f)
+    - id: ors-352.287
+      citation: ORS 352.287(4)
+      quote: A student who is a COFA islander and who has not previously established residence in any
+        state or territory of the United States or the District of Columbia other than Oregon shall qualify
+        for exemption from nonresident tuition and fees for enrollment as an undergraduate student and
+        a graduate student in a degree program at a public university listed in ORS 352.002.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-352.287
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule declares it implements ORS 352.113, but the operative text never engages with any
+      substantive provision of that statute. ORS 352.113 addresses legal title, custody, conveyances,
+      and restrictions on disposal of university property. The rule instead distributes CIR funding based
+      on building square footage and density calculations, without implementing any requirement in ORS
+      352.113.
+    type: wrong_authority
+    documents:
+    - id: oar-715-013-0070
+      citation: OAR 715-013-0070
+      quote: ORS 350.075, ORS 352.113
+    - id: ors-352.113
+      citation: ORS 352.113
+      quote: Legal title to all real property acquired by a public university listed in ORS 352.002 must
+        be taken and held in the name of the State of Oregon, acting by and through the governing board
+        of the public university.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-352.113
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule broadens criterion (b) by adding 'community colleges' as a comparison point, whereas
+      the statute only mentions 'public universities'.
+    type: broadens
+    documents:
+    - id: ors-352.089
+      citation: ORS 352.089(2)(b)
+      quote: Do not unnecessarily duplicate academic programs offered by Oregon's other public universities
+    - id: oar-715-013-0020
+      citation: OAR 715-013-0020(3)(b)
+      quote: Do not unnecessarily duplicate academic programs offered by Oregon's other community colleges
+        or public universities
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-352.089
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule broadens criterion (c) by adding 'community colleges' as a comparison point, whereas
+      the statute only mentions 'public universities'.
+    type: broadens
+    documents:
+    - id: ors-352.089
+      citation: ORS 352.089(2)(c)
+      quote: Are not located in a geographic area that will cause undue hardship to Oregon's other public
+        universities
+    - id: oar-715-013-0020
+      citation: OAR 715-013-0020(3)(c)
+      quote: Are not located in a geographic area that will cause undue hardship to Oregon's other community
+        colleges or public universities
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-352.089
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule broadens criterion (d) by adding 'community colleges', whereas the statute allocates
+      programs only 'among Oregon's public universities'.
+    type: broadens
+    documents:
+    - id: ors-352.089
+      citation: ORS 352.089(2)(d)
+      quote: Are allocated among Oregon's public universities to maximize the achievement of statewide
+        needs and requirements
+    - id: oar-715-013-0020
+      citation: OAR 715-013-0020(3)(d)
+      quote: Are allocated among Oregon's community colleges and public universities to maximize the achievement
+        of statewide needs and requirements
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-352.089
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-715-013-0040 statutes_implemented duplicates "ORS 350.075(3)(f)".
   - ors-352.089/ors-352.274 titles truncated mid-word.
-  run_id: pilot-2026-07
+  run_id: hecc-v6-2026-07
 - ors_chapter: '353'
   agencies: 2
   rules_reviewed: 9
@@ -20278,7 +22863,7 @@ chapters:
   - oar-459-005-0350 statutes_implemented lists "ORS 238.015" twice.
   run_id: das-v5-think-2026-07
 - ors_chapter: '36'
-  run_id: das-v5-think-2026-07
+  run_id: hecc-v6-2026-07
   rules_reviewed: 193
   candidates:
   - summary: Rule oar-603-075-0050 authorizes the Department to charge fees for general agriculture mediation
@@ -20561,6 +23146,9 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: hecc-v6-2026-07
+      model: claude-haiku-4-5-20251001
   - summary: oar-603-075-0005 declares implementation of ORS 36.210 (liability and immunity of mediators),
       but the operative text addresses only agricultural mediation program administration, eligibility,
       fees, and advertising—never engaging with liability.
@@ -20745,6 +23333,27 @@ chapters:
     confidence: null
     severity: null
     section: ors-36.268
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule section (2) states the rule 'allocates Dispute Resolution Program funds to Public Universities,'
+      but section (6) specifies allocation only to University of Oregon and Portland State University,
+      contradicting the broader statement in (2).
+    type: internal
+    documents:
+    - id: oar-715-013-0066
+      citation: OAR 715-013-0066(2) and (6)
+      quote: (2) This rule allocates Dispute Resolution Program funds to Public Universities. (6) The
+        University of Oregon shall receive 65% of Dispute Resolution Program funds each biennium and Portland
+        State University shall receive 35% of Dispute Resolution Program funds.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-36.145
     triage:
       status: unreviewed
       note: null
@@ -20997,6 +23606,36 @@ chapters:
   artifacts:
   - 'oar-309-090-0010 statutes_implemented: "ORS 161-392" (hyphen instead of period).'
   run_id: pilot-2026-07
+- ors_chapter: '433'
+  run_id: hecc-v6-2026-07
+  rules_reviewed: 1
+  candidates:
+  - summary: The rule adds medical and religious exemptions that make the immunization requirement optional,
+      while the statute establishes it as an absolute requirement for students born on or after January
+      1, 1957 in the specified programs.
+    type: discretion
+    documents:
+    - id: ors-433.283
+      citation: ORS 433.283(1)
+      quote: The Oregon Health Authority may require each community college to require that students involved
+        in clinical experiences in allied health programs, practicum experiences in education and child
+        care programs and membership on intercollegiate sports teams have current immunizations for measles
+        prior to each student's participation. The requirement shall apply only to those students born
+        on or after January 1, 1957.
+    - id: oar-589-009-0100
+      citation: OAR 589-009-0100(4)
+      quote: Each community college shall include a medical exemption and religious exemption.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-433.283
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
 - ors_chapter: '435'
   agencies: 5
   rules_reviewed: 10
@@ -21074,6 +23713,56 @@ chapters:
   - '"ORS 89 FR 39392" — a Federal Register citation mislabeled with an ORS prefix.'
   - Truncated statute titles (ors-435.190, ors-435.235, ors-435.254).
   run_id: pilot-2026-07
+- ors_chapter: '442'
+  run_id: hecc-v6-2026-07
+  rules_reviewed: 10
+  candidates:
+  - summary: The rule declares implementation of ORS 442.470, but the operative text never applies or
+      engages with any of the definitions that statute provides.
+    type: wrong_authority
+    documents:
+    - id: oar-575-071-0040
+      citation: declared statutes_implemented
+      quote: ORS 442.470, ORS 442.550 - 442.570
+    - id: ors-442.470
+      citation: ORS 442.470
+      quote: 'Definitions for ORS 442.470 to 442.507. As used in ORS 442.470 to 442.507: (1) "Acute inpatient
+        care facility" means... (2) "Council" means... (3) "Office" means... (4) "Primary care physician"
+        means... (5) "Rural critical access hospital" means... (6) "Rural hospital" means...'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-442.470
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule oar-575-071-0070 establishes the 'Rural Health Services Fund' while the declared statute
+      ORS 442.570 specifically establishes the 'Primary Care Services Fund'—these are two different funds
+      with different names.
+    type: wrong_authority
+    documents:
+    - id: oar-575-071-0070
+      citation: oar-575-071-0070
+      quote: ORS 442.550 - 442.570
+    - id: ors-442.570
+      citation: ORS 442.570(1)
+      quote: There is established in the State Treasury a fund, separate and distinct from the General
+        Fund, to be known as the Primary Care Services Fund.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-442.570
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
 - ors_chapter: '457'
   agencies: 2
   rules_reviewed: 14
@@ -24275,6 +26964,182 @@ chapters:
       note: null
       by: null
       date: null
+- ors_chapter: '657'
+  run_id: hecc-v6-2026-07
+  rules_reviewed: 11
+  candidates:
+  - summary: OAR 589-004-0550 applies the penalty provision from ORS 657.665(6) to officers and employees
+      of community colleges and other state agencies, and to student records not maintained by the Employment
+      Department, whereas ORS 657.665(6) explicitly limits penalties to 'Any officer appointed by or any
+      employee of the Director of the Employment Department'.
+    type: broadens
+    documents:
+    - id: ors-657.665
+      citation: ORS 657.665(6)
+      quote: Any officer appointed by or any employee of the Director of the Employment Department who
+        discloses confidential information, except with the authority of the director, pursuant to rules
+        or as otherwise required by law, may be disqualified from holding any appointment or employment
+        with the Employment Department.
+    - id: oar-589-004-0550
+      citation: OAR 589-004-0550
+      quote: Any officer or employee of OCCURS or of the Office of Community Colleges and Workforce Development
+        or of any other state agency who has access to personally identifiable student records maintained
+        and/or provided by a community college who, without proper authority, shall disclose such information
+        may be disqualified from holding any appointment or employment with the State of Oregon, in accordance
+        with ORS 657.665(6).
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-657.665
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+- ors_chapter: '659'
+  run_id: hecc-v6-2026-07
+  rules_reviewed: 30
+  candidates:
+  - summary: OAR 715-011-0060 restricts the retaliation prohibition to only career schools, post-secondary
+      education programs, and private colleges/universities, while ORS 659.852 defines 'education program'
+      to include school districts, charter schools, education service districts, long-term care/treatment
+      facilities, Youth Corrections Education Program, Oregon School for the Deaf, approved recovery schools,
+      community colleges, public universities, career schools, private schools, and private colleges/universities.
+    type: narrows
+    documents:
+    - id: ors-659.852
+      citation: ORS 659.852(1)(a)
+      quote: '"Education program" means an education program provided by: (A) A school district; (B) A
+        public charter school; (C) An education service district; (D) A long term care or treatment facility,
+        as described in ORS 343.961; (E) The Youth Corrections Education Program; (F) The Oregon School
+        for the Deaf; (G) An approved recovery school, as defined in ORS 336.680; (H) A community college
+        operated under ORS chapter 341; (I) A public university listed in ORS 352.002; (J) A career school;
+        (K) A private school; or (L) A private college or university.'
+    - id: oar-715-011-0060
+      citation: OAR 715-011-0060
+      quote: A student of a career school, a post-secondary education program or a private college or
+        university may not be subjected to retaliation for the reason that the student has in good faith
+        reported information that the student believes is evidence of a violation of a state or federal
+        law, rule or regulation.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-659.852
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule 715-011-0010 declares implementation of ORS 659.860 (an enforcement/procedures statute)
+      but its operative text provides only a general discrimination prohibition with no engagement whatsoever
+      with any enforcement mechanism, filing requirement, deadline, damage provision, or other operative
+      element of ORS 659.860.
+    type: wrong_authority
+    documents:
+    - id: oar-715-011-0010
+      citation: OAR 715-011-0010, statutes_implemented
+      quote: ORS 659.850, ORS 659.860
+    - id: ors-659.860
+      citation: ORS 659.860
+      quote: Any person claiming to be aggrieved by unlawful discrimination as prohibited by ORS 659.850
+        may file a civil action in circuit court... The action authorized by this section shall be filed
+        within one year of the filing of a grievance... An action may not be filed unless, within 180
+        days of the alleged discrimination, a grievance has been filed...
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-659.860
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 715-011-0005(3) and (7) define prohibited discrimination to include 'veterans' status,'
+      which is not listed as a protected class in ORS 659.850(1).
+    type: broadens
+    documents:
+    - id: ors-659.850
+      citation: ORS 659.850(1)(a)(A)
+      quote: '"Discrimination" means any act that unreasonably differentiates treatment, intended or unintended,
+        or any act that is fair in form but discriminatory in operation, either of which is based on race,
+        color, religion, sex, sexual orientation, gender identity, national origin, marital status, age
+        or disability.'
+    - id: oar-715-011-0005
+      citation: OAR 715-011-0005(3)
+      quote: Discrimination or discriminate is defined as any act that unreasonably differentiates treatment,
+        intended or unintended, or any act that is fair in form but discriminatory in operation, either
+        of which is based on race, color, national origin, religion, sex, age, disability, veterans' status,
+        sexual orientation, or marital status.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-659.850
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 839-005-0305(3) defines discrimination based on protected classes but omits 'gender identity,'
+      which ORS 659.850(1) lists as a separate protected class.
+    type: narrows
+    documents:
+    - id: ors-659.850
+      citation: ORS 659.850(1)(a)(A)
+      quote: '"Discrimination" means any act that unreasonably differentiates treatment, intended or unintended,
+        or any act that is fair in form but discriminatory in operation, either of which is based on race,
+        color, religion, sex, sexual orientation, gender identity, national origin, marital status, age
+        or disability.'
+    - id: oar-839-005-0305
+      citation: OAR 839-005-0305(3)
+      quote: '"Discrimination" means any act that unreasonably differentiates treatment, intended or unintended,
+        or any act that is fair in form but discriminatory in operation, either of which is based on age,
+        disability, national origin, race, color, marital status, religion, sex or sexual orientation.'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-659.850
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 581-022-2312(2)(a) and (4) define 'bias incidents' covered by the discrimination prohibition
+      to include only perceived race, color, religion, gender identity, sexual orientation, disability,
+      or national origin—omitting sex, marital status, and age, which ORS 659.850(1) protects.
+    type: narrows
+    documents:
+    - id: ors-659.850
+      citation: ORS 659.850(1)(a)(A)
+      quote: '"Discrimination" means any act that unreasonably differentiates treatment, intended or unintended,
+        or any act that is fair in form but discriminatory in operation, either of which is based on race,
+        color, religion, sex, sexual orientation, gender identity, national origin, marital status, age
+        or disability.'
+    - id: oar-581-022-2312
+      citation: OAR 581-022-2312(2)(a)
+      quote: '"Bias Incident" means a person''s hostile expression of animus toward another person, relating
+        to the other person''s perceived race, color, religion, gender identity, sexual orientation, disability
+        or national origin, of which criminal investigation or prosecution is impossible or inappropriate.'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-659.850
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
 - ors_chapter: 659a
   run_id: das-v5-think-2026-07
   rules_reviewed: 419
@@ -26172,6 +29037,210 @@ chapters:
     confidence: null
     severity: null
     section: ors-659a.421
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+- ors_chapter: '660'
+  run_id: hecc-v6-2026-07
+  rules_reviewed: 37
+  candidates:
+  - summary: ORS 660.190 requires community colleges to appoint at least one employee member and one training
+      agent member of a local joint committee to an advisory committee for training programs, but none
+      of the rules implementing this statute contain any operative provisions addressing advisory committee
+      appointments.
+    type: narrows
+    documents:
+    - id: ors-660.190
+      citation: ORS 660.190
+      quote: Each community college operating a preemployment or trade extension training program in an
+        apprenticeable occupation shall appoint at least one employee member and one training agent member
+        of an appropriate local joint committee to the advisory committee for that training program.
+    - id: oar-589-007-0110
+      citation: OAR 589-007-0110(1)-(18)
+      quote: Community colleges will cooperate with the State Apprenticeship and Training Council, the
+        Office, and the local joint committees in providing the necessary related training courses...
+        Community colleges will collaborate with local joint committees to develop and implement apprenticeship
+        related training courses... Community colleges will transcript the credit for all apprenticeship
+        related training courses completed by apprentices...
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-660.190
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: ORS 660.167 requires the State Apprenticeship and Training Council to adopt policies regarding
+      evaluation procedures for apprenticeship credit and procedures for demonstrating achievement levels
+      in related instruction. OAR 589-007-0150(6) states that evaluation procedures for apprenticeship
+      credit 'will follow policies adopted by the State Apprenticeship and Training Council' but the rules
+      themselves do not articulate what those Council-adopted policies are; instead, the rules focus on
+      what community colleges will do rather than addressing the Council's required policy adoption.
+    type: narrows
+    documents:
+    - id: ors-660.167
+      citation: ORS 660.167
+      quote: 'The State Apprenticeship and Training Council, in cooperation with the Higher Education
+        Coordinating Commission, shall adopt policies regarding: (1) Evaluation procedures relating to
+        the determination of apprenticeship credit for work experience, education and training. (2) Procedures
+        for demonstrating the level of achievement required in any area of related instruction, including
+        but not limited to taking a qualifying examination of the course content.'
+    - id: oar-589-007-0150
+      citation: OAR 589-007-0150(6)
+      quote: Evaluation procedures to establish apprenticeship credit for community college work toward
+        apprenticeship requirements will follow policies adopted by the State Apprenticeship and Training
+        Council in cooperation with the Office.
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-660.167
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule restricts program eligibility to citizens or authorized workers, dropping the statute's
+      broader category of simply being a resident of Oregon.
+    type: narrows
+    documents:
+    - id: ors-660.343
+      citation: ORS 660.343(2)
+      quote: Program services may be offered through public high schools, community colleges, local and
+        regional career centers and any other institutions determined to be appropriate by the commission
+        to residents of Oregon and to employees of businesses located in Oregon.
+    - id: oar-589-007-0700
+      citation: 589-007-0700(2)(h)(A)
+      quote: Must be a citizen or national of the United States, lawfully admitted permanent resident
+        noncitizen, refugee, asylee, or parolee, or other immigrant authorized by the Attorney General
+        to work in the United States
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-660.343
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 589-007-0110 substitutes community colleges for the district school boards the statute
+      requires to cooperate and provide related instruction.
+    type: broadens
+    documents:
+    - id: ors-660.160
+      citation: ORS 660.160
+      quote: All district school boards shall cooperate with the State Apprenticeship and Training Council,
+        the Department of Education, and the local joint committees or trade committees in providing the
+        necessary related instruction classes
+    - id: oar-589-007-0110
+      citation: OAR 589-007-0110(1)
+      quote: Community colleges will cooperate with the State Apprenticeship and Training Council, the
+        Office, and the local joint committees in providing the necessary related training courses
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-660.160
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule's operative text addresses complaint procedures against HECC, but ORS 660.318 addresses
+      only HECC's substantive duties under WIOA and contains no provision engaging with complaint procedures
+      or their resolution.
+    type: wrong_authority
+    documents:
+    - id: oar-589-020-0300
+      citation: statutes_implemented
+      quote: 'Statutes/Other Implemented: ORS 660.318'
+    - id: ors-660.318
+      citation: ORS 660.318
+      quote: 'To implement and oversee state implementation of the federal Workforce Innovation and Opportunity
+        Act, the Higher Education Coordinating Commission may: (a) Receive federal youth activities funds...
+        (b) Receive federal adult employment and training activities funds... (c) Receive federal dislocated
+        worker funds... (d) Establish a procedure for use by local workforce development boards to identify
+        eligible providers... (e) Receive the comprehensive strategic plan... (f) Approve the plans...
+        (g) Carry out the required and allowable activities... (h) Pursuant to ORS 660.339, establish
+        procedures to maintain the confidentiality... (i) Establish a method to set performance standards...
+        (j) Perform planning functions...'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-660.318
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 589-020-0330(5)(d) authorizes release to federal, state, or local staff to determine
+      nondiscrimination compliance, which is not listed among the statutory circumstances in ORS 660.339(4)(a)-(e).
+    type: broadens
+    documents:
+    - id: oar-589-020-0330
+      citation: OAR 589-020-0330(5)(d)
+      quote: To authorized federal, state, or local staff, or designee, to determine compliance with nondiscrimination
+        and equal employment opportunity requirements under 29 CFR Section § 38
+    - id: ors-660.339
+      citation: ORS 660.339(4)
+      quote: 'The commission may adopt policies and rules to provide the circumstances under which participant
+        names or records may be made available for inspection when: (a) Ordered by a court of competent
+        jurisdiction. (b) Necessary to protect the health or safety of a participant or another. (c) Necessary
+        to provide information to state and local agencies administering ORS 412.001 to 412.161 and 412.991
+        and ORS chapters 418 and 657, other programs under the federal Workforce Innovation and Opportunity
+        Act and other mandatory programs under this state''s one-stop service delivery system. (d) Necessary
+        for program staff work or studies of a statistical or demographic nature. (e) Necessary to carry
+        out the planning and coordinating functions between state and local agencies under the federal
+        Workforce Innovation and Opportunity Act, other applicable state laws or those functions assigned
+        by the Education and Workforce Policy Advisor.'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-660.339
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 589-020-0330(5)(f) authorizes release to private auditing firms for program monitoring,
+      which is not listed among the statutory circumstances in ORS 660.339(4)(a)-(e).
+    type: broadens
+    documents:
+    - id: oar-589-020-0330
+      citation: OAR 589-020-0330(5)(f)
+      quote: To private auditing firms employed by the subrecipient to carry out monitoring of its programs
+        for internal purposes only with a properly executed release of information form
+    - id: ors-660.339
+      citation: ORS 660.339(4)
+      quote: 'The commission may adopt policies and rules to provide the circumstances under which participant
+        names or records may be made available for inspection when: (a) Ordered by a court of competent
+        jurisdiction. (b) Necessary to protect the health or safety of a participant or another. (c) Necessary
+        to provide information to state and local agencies administering ORS 412.001 to 412.161 and 412.991
+        and ORS chapters 418 and 657, other programs under the federal Workforce Innovation and Opportunity
+        Act and other mandatory programs under this state''s one-stop service delivery system. (d) Necessary
+        for program staff work or studies of a statistical or demographic nature. (e) Necessary to carry
+        out the planning and coordinating functions between state and local agencies under the federal
+        Workforce Innovation and Opportunity Act, other applicable state laws or those functions assigned
+        by the Education and Workforce Policy Advisor.'
+    run_id: hecc-v6-2026-07
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v6-both-sides-2026-07
+    confidence: null
+    severity: null
+    section: ors-660.339
     triage:
       status: unreviewed
       note: null
