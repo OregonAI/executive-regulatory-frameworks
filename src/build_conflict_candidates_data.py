@@ -421,6 +421,22 @@ def compute(collect_ungrounded: list | None = None) -> dict:
 
         agencies = _chapter_agencies(ch["ors_chapter"], g, registry_by_chapter)
         ch["agency_list"] = agencies
+        # Per-CANDIDATE agencies, from the OAR documents that candidate actually cites.
+        # The chapter-level list is the union across a whole ORS chapter, so filtering on
+        # it alone shows every finding in any chapter the agency touches — including
+        # findings that are entirely another agency's. Derived from the same registry
+        # mapping as _chapter_agencies so the filter dropdown and the per-candidate tags
+        # can never disagree about what an agency is called.
+        for cand in ch.get("candidates", []):
+            slugs = {}
+            for doc in cand["documents"]:
+                did = str(doc.get("id") or "")
+                if not did.startswith("oar-"):
+                    continue
+                org = registry_by_chapter.get(did.split("-")[1])
+                if org:
+                    slugs[org["slug"]] = org["name"]
+            cand["agency_slugs"] = sorted(slugs)
         for a in agencies:
             all_agencies[a["slug"]] = all_agencies.get(a["slug"], 0) + 1
 

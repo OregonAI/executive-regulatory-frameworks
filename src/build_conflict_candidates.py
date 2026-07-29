@@ -54,6 +54,20 @@ def assert_dom_contract(html: str) -> None:
             "taking every later render with it — the page loads, looks structurally fine, "
             "and shows no candidates.")
 
+    # Every class the script TOGGLES must have a rule that does something on the element
+    # it is toggled on. `classList.toggle('hidden')` against a stylesheet carrying only
+    # `.card.hidden{display:none}` sets an attribute and changes nothing visible — the
+    # filter runs, reports a smaller count, and every row stays on screen. A separate
+    # failure from the id one, and a separate message: sending someone to hunt a missing
+    # element when the fault is a missing CSS rule costs them the whole search.
+    unstyled = [sel for cls, sel in (("hidden", ".cand.hidden"), ("hidden", ".card.hidden"))
+                if f"classList.toggle('{cls}'" in html and sel not in html]
+    if unstyled:
+        raise SystemExit(
+            f"conflict-candidates.html: the script toggles a class with no rule behind it "
+            f"— {unstyled} absent from the stylesheet. The class is applied and nothing "
+            "changes: the filter reports a smaller count while every row stays visible.")
+
 
 def outputs():
     html = build_html(build_data())
@@ -135,6 +149,7 @@ TEMPLATE = r"""<!doctype html>
   #agencyFilter{font:inherit;font-size:13px;padding:6px 10px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--ink);max-width:340px}
   #clearFilter{font-size:12px;color:var(--accent2);background:none;border:none;cursor:pointer;padding:0;display:none}
   .card.hidden{display:none}
+  .cand.hidden{display:none}
   .agchip{display:inline-block;font-size:11px;font-weight:600;color:var(--muted);background:color-mix(in srgb, var(--ink) 6%, transparent);border-radius:99px;padding:2px 8px;margin:0 4px 4px 0}
 </style></head>
 <body>
@@ -261,6 +276,8 @@ for(const ch of rows){
   if(n>0){
     for(const c of shown){
       const cand=document.createElement('div');cand.className='cand';
+      // The agencies THIS candidate cites, not the chapter's union — see applyFilter.
+      cand.dataset.ags = (c.agency_slugs||[]).join(' ');
       const quotes=c.documents.map(d=>{
         // quote_verified: true = these exact words were found in the cited document's
         // '## Full text'; "absence" = the claim is that the source OMITS something, so
@@ -301,20 +318,38 @@ for(const ch of rows){
   }
   el.querySelector('.head').addEventListener('click',()=>el.classList.toggle('open'));
   list.appendChild(el);
-  cards.push({el, slugs: new Set(agList.map(a=>a.slug))});
+  cards.push({el, slugs: new Set(agList.map(a=>a.slug)),
+              cands: [...el.querySelectorAll('.cand')]});
 }
 if(rows.length) list.firstChild.classList.add('open');
 
 function applyFilter(){
   const slug = sel.value;
   document.getElementById('clearFilter').style.display = slug ? 'inline' : 'none';
-  let shown = 0;
-  for(const {el, slugs} of cards){
-    const match = !slug || slugs.has(slug);
+  let shownChapters = 0, shownCands = 0, totalCands = 0;
+  for(const {el, cands} of cards){
+    // Filter the CANDIDATES, then show the chapter only if any survived. Matching on the
+    // chapter's agency union alone kept every finding in any chapter the agency touches,
+    // including ones belonging entirely to a different agency — a chapter with eight
+    // agencies showed all eight agencies' findings under any one of their names.
+    let kept = 0;
+    for(const node of cands){
+      const ags = node.dataset.ags ? node.dataset.ags.split(' ') : [];
+      const m = !slug || ags.includes(slug);
+      node.classList.toggle('hidden', !m);
+      if(m) kept++;
+    }
+    totalCands += cands.length;
+    shownCands += kept;
+    // A chapter with candidates but none matching is hidden. A chapter that legitimately
+    // found nothing has no candidates to filter, so it survives only when unfiltered.
+    const match = !slug || kept > 0;
     el.classList.toggle('hidden', !match);
-    if(match) shown++;
+    if(match) shownChapters++;
   }
-  document.getElementById('filterCount').textContent = slug ? `showing ${shown} of ${cards.length} chapters` : '';
+  document.getElementById('filterCount').textContent = slug
+    ? `showing ${shownCands} of ${totalCands} candidates in ${shownChapters} chapter${shownChapters===1?'':'s'}`
+    : '';
 }
 sel.addEventListener('change', applyFilter);
 document.getElementById('clearFilter').addEventListener('click', ()=>{sel.value=''; applyFilter();});
