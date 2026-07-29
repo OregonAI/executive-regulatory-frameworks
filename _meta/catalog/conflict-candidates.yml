@@ -1209,6 +1209,9 @@ chapters:
       quote: These meeting procedures apply to appointments made under either ORS 171.060(1) (vacancy
         to be filled by nominee affiliated with a major political party) or ORS 171.060(2) (vacancy need
         not be filled by member of a particular major political party).
+    - id: ors-171.060
+      citation: ORS 171.060(1)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -1325,6 +1328,9 @@ chapters:
     - id: oar-847-003-0200
       citation: declared statutes_implemented
       quote: ORS 292.495, ORS 677.235, ORS 171.072
+    - id: ors-171.072
+      citation: ORS 171.072
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -1524,6 +1530,9 @@ chapters:
     - id: oar-257-010-0055
       citation: declared statutes_implemented
       quote: ORS 166.291, ORS 166.412, ORS 181A.875
+    - id: ors-181a.875
+      citation: ORS 181A.875
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -1645,6 +1654,9 @@ chapters:
     - id: oar-259-060-0136
       citation: 259-060-0136
       quote: ORS 181A.870, ORS 181A.840 & ORS 181A.850
+    - id: ors-181a.850
+      citation: ORS 181A.850
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -2019,6 +2031,9 @@ chapters:
     - id: oar-259-060-0030
       citation: OAR 259-060-0030 declared statutes
       quote: ORS 181A.870
+    - id: ors-181a.870
+      citation: ORS 181A.870
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -2521,6 +2536,9 @@ chapters:
     - id: oar-259-001-0005
       citation: OAR 259-001-0005
       quote: ORS 181A.410, ORS 181A.870, ORS 183.341, ORS 703.230, ORS 703.480
+    - id: ors-181a.410
+      citation: ORS 181A.410
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -2540,6 +2558,9 @@ chapters:
     - id: oar-259-001-0015
       citation: OAR 259-001-0015
       quote: ORS 181A.410, ORS 181A.870, ORS 183.341, ORS 703.230, ORS 703.480
+    - id: ors-181a.410
+      citation: ORS 181A.410
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -2749,6 +2770,9 @@ chapters:
     - id: oar-848-005-0030
       citation: ORS 182.466(4)
       quote: ORS 182.466(4), ORS 688.070(1)(2), ORS 688.080, ORS 688.100, ORS 688.110
+    - id: ors-182.466
+      citation: ORS 182.466(4)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -2794,6 +2818,9 @@ chapters:
       citation: OAR 334-001-0025
       quote: ORS 182.456 - 182.472, ORS 687.011, ORS 687.051, ORS 687.057, ORS 687.061, ORS 687.086, ORS
         687.121
+    - id: ors-182.472
+      citation: ORS 182.472
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -2814,6 +2841,9 @@ chapters:
       citation: OAR 334-001-0028
       quote: ORS 182.456 - 182.472, ORS 687.011, ORS 687.051, ORS 687.057, ORS 687.061, ORS 687.086, ORS
         687.121
+    - id: ors-182.472
+      citation: ORS 182.472
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -2833,6 +2863,9 @@ chapters:
       citation: OAR 334-001-0032
       quote: ORS 182.456 - 182.472, ORS 687.011, ORS 687.051, ORS 687.057, ORS 687.061, ORS 687.086, ORS
         687.121
+    - id: ors-182.472
+      citation: ORS 182.472
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -2851,6 +2884,9 @@ chapters:
     - id: oar-334-001-0045
       citation: OAR 334-001-0045
       quote: ORS 182.456 - 182.472
+    - id: ors-182.472
+      citation: ORS 182.472
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3172,6 +3208,9 @@ chapters:
     - id: oar-340-011-0530
       citation: declared statutes_implemented
       quote: ORS 183.415, 183.464, 183.482, 183.745 & 183.484
+    - id: ors-183.464
+      citation: ORS 183.464
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3190,6 +3229,9 @@ chapters:
     - id: oar-137-003-0001
       citation: declared statutes_implemented
       quote: ORS 183.341(1), ORS 183.413, ORS 183.415(7), ORS 183.502, 2007 HB 2423
+    - id: ors-183.415
+      citation: ORS 183.415(7)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3208,6 +3250,9 @@ chapters:
     - id: oar-137-003-0005
       citation: declared statutes_implemented
       quote: ORS 183.341(1), ORS 183.415(4), ORS 183.450(3)
+    - id: ors-183.415
+      citation: ORS 183.415(4)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3226,6 +3271,9 @@ chapters:
     - id: oar-137-003-0007
       citation: declared statutes_implemented
       quote: ORS 180.060, ORS 180.220, ORS 183.341(1), ORS 183.415(4)
+    - id: ors-183.415
+      citation: ORS 183.415(4)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3244,6 +3292,9 @@ chapters:
       citation: ORS 183.415(10)
       quote: or unless excluding the evidence would violate the duty to conduct a full and fair inquiry
         under ORS 183.415(10)
+    - id: ors-183.415
+      citation: ORS 183.415(10)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3262,6 +3313,9 @@ chapters:
     - id: oar-137-003-0035
       citation: declared statutes_implemented
       quote: ORS 183.341(1), ORS 183.415(9), ORS 183.462
+    - id: ors-183.415
+      citation: ORS 183.415(9)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3280,6 +3334,9 @@ chapters:
     - id: oar-137-003-0040
       citation: declared statutes_implemented
       quote: ORS 183.341(1), ORS 183.415(9), ORS 183.462
+    - id: ors-183.415
+      citation: ORS 183.415(9)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3298,6 +3355,9 @@ chapters:
     - id: oar-137-003-0055
       citation: declared statutes_implemented
       quote: ORS 173.341(1), ORS 183.415(9), ORS 183.462
+    - id: ors-183.415
+      citation: ORS 183.415(9)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3316,6 +3376,9 @@ chapters:
     - id: oar-137-003-0075
       citation: declared statutes_implemented
       quote: ORS 183.341(1), ORS 183.415(6), ORS 183.470, 2007 HB 2423
+    - id: ors-183.415
+      citation: ORS 183.415(6)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3334,6 +3397,9 @@ chapters:
     - id: oar-137-003-0535
       citation: declared statutes_implemented
       quote: ORS 183.341, ORS 183.415(4), ORS 183.450(3), OL 1999 Ch. 849
+    - id: ors-183.415
+      citation: ORS 183.415(4)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3352,6 +3418,9 @@ chapters:
     - id: oar-137-003-0540
       citation: declared statutes_implemented
       quote: ORS 180.060, ORS 180.220, ORS 183.341, ORS 183.415(4), OL 1999 Ch. 849
+    - id: ors-183.415
+      citation: ORS 183.415(4)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3370,6 +3439,9 @@ chapters:
     - id: oar-137-003-0565
       citation: declared statutes_implemented
       quote: ORS 183.341, ORS 183.415(5), ORS 183.502
+    - id: ors-183.415
+      citation: ORS 183.415(5)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3388,6 +3460,9 @@ chapters:
     - id: oar-438-085-0810
       citation: declared statutes_implemented
       quote: ORS 183.415(6), ORS 654.025, ORS 654.078
+    - id: ors-183.415
+      citation: ORS 183.415(6)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3515,6 +3590,9 @@ chapters:
     - id: oar-170-060-0001
       citation: declared statutes_implemented
       quote: ORS 183.355
+    - id: ors-183.355
+      citation: ORS 183.355
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3626,6 +3704,9 @@ chapters:
     - id: oar-808-004-0250
       citation: OAR 808-004-0250, declared statutes_implemented line
       quote: ORS 183.415, ORS 183.460
+    - id: ors-183.460
+      citation: ORS 183.460
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3645,6 +3726,9 @@ chapters:
     - id: oar-808-004-0400
       citation: OAR 808-004-0400, declared statutes_implemented line
       quote: ORS 183.415, 183.460 & 671.703
+    - id: ors-183.460
+      citation: ORS 183.460
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3664,6 +3748,9 @@ chapters:
     - id: oar-808-004-0480
       citation: OAR 808-004-0480, declared statutes_implemented line
       quote: ORS 183.415, 183.460, ORS 671.703
+    - id: ors-183.460
+      citation: ORS 183.460
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3683,6 +3770,9 @@ chapters:
     - id: oar-808-004-0500
       citation: OAR 808-004-0500, declared statutes_implemented line
       quote: ORS 183.415, 183.460, ORS 671.703
+    - id: ors-183.460
+      citation: ORS 183.460
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3703,6 +3793,9 @@ chapters:
     - id: oar-808-004-0520
       citation: OAR 808-004-0520, declared statutes_implemented line
       quote: ORS 183.415, 183.460, 671.703 & 671.575
+    - id: ors-183.460
+      citation: ORS 183.460
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3722,6 +3815,9 @@ chapters:
     - id: oar-808-004-0540
       citation: OAR 808-004-0540, declared statutes_implemented line
       quote: ORS 183.415, 183.460, 183.470, ORS 671.703
+    - id: ors-183.460
+      citation: ORS 183.460
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3742,6 +3838,9 @@ chapters:
     - id: oar-812-001-0130
       citation: OAR 812-001-0130, declared statutes_implemented line
       quote: ORS 183.415, 183.460 & 701.145
+    - id: ors-183.460
+      citation: ORS 183.460
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3808,6 +3907,9 @@ chapters:
     - id: oar-333-070-0210
       citation: OAR 333-070-0210, declared statutes_implemented
       quote: ORS 183.310-183.540, ORS 183.745, ORS 431A.355, ORS 431A.358, ORS 431A.363
+    - id: ors-183.540
+      citation: ORS 183.540
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3873,6 +3975,9 @@ chapters:
     - id: oar-340-011-0550
       citation: OAR 340-011-0550 declared statutes_implemented
       quote: ORS 183.425, ORS 183.440, ORS 183.450
+    - id: ors-183.440
+      citation: ORS 183.440
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3919,6 +4024,9 @@ chapters:
       citation: OAR 407-007-0200 declared statutes_implemented
       quote: ORS 181A.195, ORS 181A.200, 183.459, ORS 409.025, ORS 409.027, ORS 411.060, ORS 411.122,
         ORS 413.036, ORS 409.010, ORS 443.004
+    - id: ors-183.459
+      citation: ORS 183.459
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3939,6 +4047,9 @@ chapters:
       citation: OAR 407-007-0600 declared statutes_implemented
       quote: ORS 181A.195, ORS 181A.200, ORS 183.459, ORS 409.025, ORS 409.027, ORS 411.060, ORS 443.006,
         ORS 409.010, ORS 443.004
+    - id: ors-183.459
+      citation: ORS 183.459
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3959,6 +4070,9 @@ chapters:
       citation: OAR 407-007-0630 declared statutes_implemented
       quote: ORS 181A.195, ORS 181A.200, ORS 183.459, ORS 409.025, ORS 409.027, ORS 411.060, ORS 443.004,
         ORS 443.725, ORS 443.735, ORS 409.010, ORS 443.006
+    - id: ors-183.459
+      citation: ORS 183.459
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -3979,6 +4093,9 @@ chapters:
       citation: OAR 407-007-0640 declared statutes_implemented
       quote: ORS 181A.195, ORS 181A.200, ORS 183.459, ORS 409.010, ORS 409.025, ORS 409.027, ORS 411.060,
         ORS 443.004, ORS 443.006
+    - id: ors-183.459
+      citation: ORS 183.459
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -4185,6 +4302,9 @@ chapters:
       quote: Oregon Health Authority (Authority), Division of Medical Assistance Programs, chapter 410,
         will comply with Authority rules in chapter 943 for Notices of Rulemaking and adoption of Temporary
         rules
+    - id: ors-183.325
+      citation: ORS 183.325
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -4208,6 +4328,9 @@ chapters:
       citation: OAR 410-001-0020
       quote: Oregon Health Authority (Authority), Division of Medical Assistance Programs, chapter 410,
         will comply with Authority rules in chapter 943 for Delegation of Rulemaking Authority
+    - id: ors-183.325
+      citation: ORS 183.325
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -4457,6 +4580,9 @@ chapters:
     - id: oar-137-003-0035
       citation: OAR 137-003-0035
       quote: 'declared statutes_implemented: ORS 183.341(1), ORS 183.415(9), ORS 183.462'
+    - id: ors-183.462
+      citation: ORS 183.462
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -4951,6 +5077,9 @@ chapters:
     - id: oar-101-001-0005
       citation: declared statutes_implemented
       quote: ORS 183.310 - 183.750
+    - id: ors-183.750
+      citation: ORS 183.750
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -5049,6 +5178,9 @@ chapters:
     - id: oar-732-042-0010
       citation: frontmatter
       quote: ORS 184.642, ORS 184.751-184.766, ORS 323.457
+    - id: ors-184.642
+      citation: ORS 184.642
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -5111,6 +5243,9 @@ chapters:
     - id: oar-735-150-0045
       citation: declared statutes_implemented
       quote: ORS 184.619, ORS 802.010, ORS 822.035, ORS 822.040, ORS 822.084
+    - id: ors-184.619
+      citation: ORS 184.619
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -5463,6 +5598,9 @@ chapters:
     - id: oar-137-045-0050
       citation: OAR 137-045-0050
       quote: ORS 291.047, ORS 190.430, ORS 190.490
+    - id: ors-190.490
+      citation: ORS 190.490
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -5474,25 +5612,11 @@ chapters:
       note: null
       by: null
       date: null
-  - summary: OAR 137-045-0050 declares implementation of ORS 190.430 and ORS 190.490, but its operative
-      text never mentions or engages with those statutes, addressing only exemptions from ORS 291.047
-      legal sufficiency review.
-    type: wrong_authority
-    documents:
-    - id: oar-137-045-0050
-      citation: OAR 137-045-0050 frontmatter
-      quote: 'Statutes/Other Implemented: ORS 291.047, 190.430 & 190.490'
-    run_id: das-v5-think-2026-07
-    model: claude-haiku-4-5-20251001
-    prompt_version: conflict-v5-authority-2026-07b
-    confidence: null
-    severity: null
-    section: ors-190.430
-    triage:
-      status: unreviewed
-      note: null
-      by: null
-      date: null
+    corroborated_by:
+    - run_id: das-v5-think-2026-07
+      model: claude-haiku-4-5-20251001
+      also_cited:
+      - ors-190.430#
   - summary: OAR 125-090-0002 declares it implements ORS 190.240 (furnishing services to federal and local
       governmental units), but the rule's operative text addresses only regulation of parking facilities
       and transportation uses, never engaging with that statute.
@@ -5501,6 +5625,9 @@ chapters:
     - id: oar-125-090-0002
       citation: OAR 125-090-0002 declared statutes_implemented
       quote: ORS 98.805, ORS 190.240, ORS 276.591, ORS 283.110
+    - id: ors-190.240
+      citation: ORS 190.240
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -5546,6 +5673,9 @@ chapters:
     - id: oar-735-062-0080
       citation: declared statutes_implemented
       quote: ORS 190.485, ORS 807.070, ORS 807.072, ORS 807.080, ORS 807.170
+    - id: ors-190.485
+      citation: ORS 190.485
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -5829,6 +5959,9 @@ chapters:
     - id: oar-123-200-2210
       citation: declared statutes_implemented line
       quote: ORS 200.055, ORS 200.065 and ORS.075
+    - id: ors-200.065
+      citation: ORS 200.065
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -6441,6 +6574,9 @@ chapters:
     - id: oar-459-005-0055
       citation: declared statutes_implemented
       quote: ORS 238.605, ORS 238.607, ORS 238.630)
+    - id: ors-238.607
+      citation: ORS 238.607
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -7398,6 +7534,9 @@ chapters:
     - id: oar-459-007-0370
       citation: OAR 459-007-0370 statutes_implemented
       quote: ORS 238.265, ORS 238A.353
+    - id: ors-238.265
+      citation: ORS 238.265
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -7674,6 +7813,9 @@ chapters:
     - id: oar-459-009-0020
       citation: oar-459-009-0020
       quote: ORS 238.005, ORS 238.205
+    - id: ors-238.205
+      citation: ORS 238.205
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -8301,6 +8443,9 @@ chapters:
         ORS 244.360
       quote: ORS 244.290, ORS 244.390, ORS 244.370, ORS 244.350, ORS 244.280, ORS 244.282, ORS 244.320,
         ORS 244.360
+    - id: ors-244.320
+      citation: ORS 244.320
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -8424,6 +8569,9 @@ chapters:
     - id: oar-736-146-0070
       citation: Declared statutes_implemented line
       quote: ORS 244.010, ORS 244.400, ORS 279A.070, ORS 279A.140, ORS 279A.025(3)(k) & ORS 279A.065(6)(a)
+    - id: ors-244.400
+      citation: ORS 244.400
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -8443,6 +8591,9 @@ chapters:
     - id: oar-736-146-0080
       citation: Declared statutes_implemented line
       quote: ORS 244.010 - 244.400, ORS 279A.065(5)(a), ORS 279A.070, ORS 279A.140
+    - id: ors-244.400
+      citation: ORS 244.400
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -8607,6 +8758,9 @@ chapters:
     - id: oar-199-020-0005
       citation: oar-199-020-0005 declared statutes_implemented
       quote: ORS 244.050, ORS 244.060, ORS 244.070, ORS 244.090
+    - id: ors-244.060
+      citation: ORS 244.060
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -8700,6 +8854,9 @@ chapters:
     - id: oar-257-055-0001
       citation: declared statutes_implemented
       quote: ORS 750, OL 1997 (ORS 244.045)
+    - id: ors-244.045
+      citation: ORS 244.045(5)(a)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -8719,6 +8876,9 @@ chapters:
     - id: oar-812-001-0030
       citation: oar-812-001-0030
       quote: ORS 244.040
+    - id: ors-244.040
+      citation: ORS 244.040
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -9109,6 +9269,9 @@ chapters:
     - id: oar-125-045-0250
       citation: ORS 270.190
       quote: ORS 171.072, ORS 270.005-270.015, ORS 270.100, ORS 270.120, ORS 270.190, ORS 292.495
+    - id: ors-270.190
+      citation: ORS 270.190
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -9130,6 +9293,9 @@ chapters:
       citation: ORS 270.190
       quote: ORS 270.005 - 270.190, ORS 273.045, ORS 273.245 - 273.247, ORS 273.251 - 273.311, ORS 273.316
         - 273.321, ORS 273.413 - 273.456, ORS 274.040, ORS 274.905 - 274.940, ORS 274.960 - 274.985
+    - id: ors-270.190
+      citation: ORS 270.190
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -9221,6 +9387,9 @@ chapters:
     - id: oar-125-045-0211
       citation: declared statutes_implemented
       quote: ORS 184.634, ORS 270.015, ORS 270.100, ORS 270.105, ORS 270.110, ORS 273.099
+    - id: ors-273.099
+      citation: ORS 273.099
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -9344,6 +9513,9 @@ chapters:
     - id: oar-125-045-0205
       citation: OAR 125-045-0205 declared statutes_implemented
       quote: ORS 244.010, ORS 270.005, ORS 270.010, ORS 270.100-270.135, ORS 271.330, ORS 271.335
+    - id: ors-271.335
+      citation: ORS 271.335
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -9363,6 +9535,9 @@ chapters:
     - id: oar-125-045-0205
       citation: declared statutes_implemented
       quote: ORS 244.010, ORS 270.005, ORS 270.010, ORS 270.100-270.135, ORS 271.330, ORS 271.335
+    - id: ors-271.330
+      citation: ORS 271.330
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -10409,6 +10584,9 @@ chapters:
     - id: oar-125-125-0524
       citation: declared statutes_implemented
       quote: 'Statutes/Other Implemented: ORS 276.058 & 276.059'
+    - id: ors-276.059
+      citation: ORS 276.059
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -10730,6 +10908,9 @@ chapters:
     - id: oar-125-246-0135
       citation: OAR 125-246-0135, statutes_implemented
       quote: ORS 279A.157, ORS 279A.161, SB 471 (Chapter 294, ORS 2019)
+    - id: ors-279a.157
+      citation: ORS 279A.157
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -11373,6 +11554,9 @@ chapters:
     - id: oar-125-246-0800
       citation: declared statutes_implemented
       quote: ORS 279A.010(x), ORS 279A.015, ORS 279A.050(1)(2), ORS 279A.065(5)(a), ORS 279A.070
+    - id: ors-279a.010
+      citation: ORS 279A.010(x)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -11503,6 +11687,9 @@ chapters:
     - id: oar-125-249-0880
       citation: OAR 125-249-0880
       quote: 125-249-0880 Records Maintenance; Right to Audit Records See OAR 137-049-0880.
+    - id: ors-279a.030
+      citation: ORS 279A.030
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -11549,6 +11736,9 @@ chapters:
       citation: OAR 167-001-0007
       quote: These OAR chapter 167, division 001 rules apply to public contracts of the Secretary of State
         first advertised, but if not advertised then entered into, on or after March 1, 2014.
+    - id: ors-279a.030
+      citation: ORS 279A.030
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -11735,6 +11925,9 @@ chapters:
     - id: oar-125-247-0165
       citation: statutes_implemented declaration
       quote: ORS 279B.025, ORS 279B.270, ORS 279B.280
+    - id: ors-279b.270
+      citation: ORS 279B.270
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -11754,6 +11947,9 @@ chapters:
     - id: oar-125-247-0170
       citation: statutes_implemented declaration
       quote: ORS 279B.025, ORS 279B.270, ORS 279B.280
+    - id: ors-279b.270
+      citation: ORS 279B.270
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -12309,6 +12505,9 @@ chapters:
     - id: oar-736-146-0012
       citation: declared statutes_implemented
       quote: ORS 279A.010, ORS 279A.025, ORS 279B.005, ORS 282.020 & ORS 279A.025(3)(k)
+    - id: ors-279b.005
+      citation: ORS 279B.005
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -12353,6 +12552,9 @@ chapters:
     - id: oar-125-247-0760
       citation: OAR 125-247-0760
       quote: ORS 279B.425
+    - id: ors-279b.425
+      citation: ORS 279B.425
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -13030,6 +13232,9 @@ chapters:
     - id: oar-137-049-0240
       citation: OAR 137-049-0240
       quote: ORS 279C.365 & 279C.370
+    - id: ors-279c.370
+      citation: ORS 279C.370
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -13050,6 +13255,9 @@ chapters:
     - id: oar-137-049-0470
       citation: OAR 137-049-0470
       quote: ORS 279C.365, 279C.370, 279C.375, 279C.380 & 279C.390
+    - id: ors-279c.370
+      citation: ORS 279C.370
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -13124,6 +13332,9 @@ chapters:
         ONLY the line below, not this heading:
 
         ORS 279C.365, ORS 279C.380, ORS 279C.385, ORS 279C.390, ORS 279C.400'
+    - id: ors-279c.380
+      citation: ORS 279C.380
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -13143,6 +13354,9 @@ chapters:
     - id: oar-731-005-0550
       citation: OAR 731-005-0550, Statutes/Other Implemented line
       quote: ORS 279C.365, 279C.380, 279C.385, 279C.390 & 279C.400
+    - id: ors-279c.400
+      citation: ORS 279C.400
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -13207,6 +13421,9 @@ chapters:
     - id: oar-125-249-0160
       citation: OAR 125-249-0160
       quote: ORS 279C.412
+    - id: ors-279c.412
+      citation: ORS 279C.412
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -13249,6 +13466,9 @@ chapters:
     - id: oar-125-249-0320
       citation: OAR 125-249-0320 declared statutes_implemented
       quote: ORS 279C.360, 279C.365, 279C.375 & 279C.395
+    - id: ors-279c.360
+      citation: ORS 279C.360
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -13267,6 +13487,9 @@ chapters:
     - id: oar-137-049-0320
       citation: OAR 137-049-0320 declared statutes_implemented
       quote: ORS 279C.360, 279C.365, 279C.375 & 279C.395
+    - id: ors-279c.360
+      citation: ORS 279C.360
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -13285,6 +13508,9 @@ chapters:
     - id: oar-731-005-0590
       citation: OAR 731-005-0590 declared statutes_implemented
       quote: ORS 279A.065, ORS 279C.360, ORS 279C.365, ORS 279C.375 & ORS 279C.395
+    - id: ors-279c.360
+      citation: ORS 279C.360
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -13482,6 +13708,9 @@ chapters:
     - id: oar-812-002-0720
       citation: OAR 812-002-0720
       quote: ORS 279C.555, ORS 701
+    - id: ors-279c.555
+      citation: ORS 279C.555
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -13526,6 +13755,9 @@ chapters:
     - id: oar-125-249-0800
       citation: OAR 125-249-0800
       quote: ORS 297C.505 - 279C.545, ORS 279C.800 - 279C.870
+    - id: ors-279c.545
+      citation: ORS 279C.545
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -13546,6 +13778,9 @@ chapters:
     - id: oar-137-049-0800
       citation: OAR 137-049-0800
       quote: ORS 297C.505 - 279C.545, ORS 279C.800 - 279C.870
+    - id: ors-279c.545
+      citation: ORS 279C.545
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -13890,6 +14125,9 @@ chapters:
     - id: oar-839-025-0008
       citation: OAR 839-025-0008, declared statutes_implemented
       quote: ORS 279C.306
+    - id: ors-279c.306
+      citation: ORS 279C.306
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -13937,6 +14175,9 @@ chapters:
     - id: oar-125-248-0130
       citation: OAR 125-248-0130, declared statutes_implemented line
       quote: ORS 279A.065, ORS 279C.100 - 279C.125, ORS 279C.307
+    - id: ors-279c.307
+      citation: ORS 279C.307
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -13987,6 +14228,9 @@ chapters:
       citation: declared statutes
       quote: ORS 200.065, ORS 200.075, ORS 279A.110, ORS 279C.440, ORS 279C.445, ORS 279C.450, OL 2015
         ch 565 (HB 3303)
+    - id: ors-279c.450
+      citation: ORS 279C.450
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -14007,6 +14251,9 @@ chapters:
     - id: oar-731-005-0710
       citation: declared statutes
       quote: ORS 200.065, ORS 200.075, ORS 279A.110, ORS 279C.440, ORS 279C.445, ORS 279C.450
+    - id: ors-279c.450
+      citation: ORS 279C.450
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -14296,6 +14543,9 @@ chapters:
     - id: oar-125-156-0000
       citation: OAR 125-156-0000
       quote: ORS 283.327
+    - id: ors-283.327
+      citation: ORS 283.327
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -14658,6 +14908,9 @@ chapters:
       citation: OAR 123-674-6885, declared statutes_implemented
       quote: ORS 285C.105(1)(i), ORS 285C.203, ORS 285C.225(1), ORS 285C.230(2), ORS 285C.235(2), ORS
         285C.240(1)
+    - id: ors-285c.230
+      citation: ORS 285C.230(2)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -14961,6 +15214,9 @@ chapters:
     - id: oar-123-662-2000
       citation: frontmatter
       quote: ORS 285C.095, ORS 285C.100, ORS 285C.135, ORS 285C.140, ORS 285C.180, ORS 285C.185, ORS 285C.245
+    - id: ors-285c.140
+      citation: ORS 285C.140
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -16685,6 +16941,9 @@ chapters:
     - id: oar-170-055-0001
       citation: OAR 170-055-0001, declared statutes_implemented line
       quote: ORS 286A.095, ORS 287A.195, ORS 287A.360 - 287A.380
+    - id: ors-286a.095
+      citation: ORS 286A.095
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -17001,6 +17260,9 @@ chapters:
       citation: OAR 461-120-0215
       quote: ORS 291.003, ORS 329A.500, ORS 409.010, ORS 409.040, ORS 411.060, ORS 411.070, ORS 411.404,
         ORS 411.816, ORS 412.014, ORS 412.049
+    - id: ors-291.003
+      citation: ORS 291.003
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -17023,6 +17285,9 @@ chapters:
       quote: ORS 412.016, ORS 412.049, ORS 412.084, ORS 291.003, ORS 409.010, ORS 409.040, ORS 411.060,
         ORS 411.070, ORS 411.121, ORS 412.001, ORS 412.002, ORS 412.006, ORS 412.009, ORS 412.011, ORS
         412.014, 45 CFR 260.20, 2 CFR 200.404, 45 CFR 260.31(b)(1)
+    - id: ors-291.003
+      citation: ORS 291.003
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -17043,6 +17308,9 @@ chapters:
     - id: oar-589-002-0800
       citation: OAR 589-002-0800 (frontmatter, declared statutes_implemented)
       quote: ORS 291.200, ORS 341.015, ORS 341.626
+    - id: ors-291.200
+      citation: ORS 291.200
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -17289,6 +17557,9 @@ chapters:
     - id: oar-847-008-0003
       citation: OAR 847-008-0003 declared statutes_implemented
       quote: ORS 292.495, ORS 677.235
+    - id: ors-292.495
+      citation: ORS 292.495
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -17342,6 +17613,9 @@ chapters:
       citation: statutes_implemented (declared)
       quote: ORS 423.020, ORS 423.030, ORS 30.643, ORS 34.365, ORS 34.370, ORS 138.590, ORS 144.335, ORS
         179.040, ORS 293.450, ORS 421.125, ORS 423.075
+    - id: ors-293.450
+      citation: ORS 293.450
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -17523,6 +17797,9 @@ chapters:
     - id: oar-413-310-0220
       citation: OAR 413-310-0220
       quote: ORS 293.235 - 293.245 & ORS 293.265
+    - id: ors-293.265
+      citation: ORS 293.265
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -17876,6 +18153,9 @@ chapters:
     - id: oar-122-085-0130
       citation: OAR 122-085-0130 declaration
       quote: ORS 293.231(5), ORS 293.231(6)(c), ORS 293.233(1), ORS 293.233(2)
+    - id: ors-293.231
+      citation: ORS 293.231(5)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -18580,6 +18860,9 @@ chapters:
       citation: declared statutes_implemented
       quote: ORS 25.785, ORS 305.385, 42 USC § 405(C)(2)(C)(i), 42 USC § 666(a)(13), ORS 670.280, ORS
         676.303, ORS 676.565, ORS 676.575, ORS 676.615, ORS 681.700-681.730, ORS 181A.195
+    - id: ors-305.385
+      citation: ORS 305.385
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -19698,6 +19981,9 @@ chapters:
       citation: oar-122-075-0110
       quote: ORS 286A.045 - 286A.050, ORS 286A.560 - 286A.585, ORS 286A.710 - 286A.792, ORS 353.550 -
         353.563; 2001 OL ch. 921, 2003 OL ch. 11
+    - id: ors-353.550
+      citation: ORS 353.550
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -19886,6 +20172,9 @@ chapters:
     - id: oar-339-001-0018
       citation: ORS 36.224(4)
       quote: 'Statutes/Other Implemented: ORS 36.224(4)'
+    - id: ors-36.224
+      citation: ORS 36.224(4)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -20169,6 +20458,9 @@ chapters:
       quote: 'Declared: ''ORS 36.252 - 36.268''; Operative text: ''"Mediation program" means a program
         through which mediation is made available and includes as provided in ORS 36.252 – 268 or ORS
         36.280 – 283.'''
+    - id: ors-36.252
+      citation: ORS 36.252
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -20637,6 +20929,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.495
+      citation: ORS 468A.495
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -20893,6 +21188,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.635
+      citation: ORS 468A.635
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -20964,6 +21262,9 @@ chapters:
       citation: ORS 468A.010
       quote: 'Statutes/Other Implemented: ORS 468A.010, ORS 468A.015, ORS 468A.050, ORS 468A.265 through
         468A.277, ORS 468A.280'
+    - id: ors-468a.010
+      citation: ORS 468A.010
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -20989,6 +21290,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.775
+      citation: ORS 468A.775
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21015,6 +21319,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.612
+      citation: ORS 468A.612
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21036,6 +21343,9 @@ chapters:
       citation: OAR 137-049-0200, declared statutes_implemented
       quote: ORS 279A.110, ORS 279A.120, ORS 279C.365, ORS 279C.370, ORS 279C.390, ORS 279C.505 - 580,
         ORS 279C.605, ORS 305.385, ORS 468A.720, ORS 701.005 & ORS 701.055
+    - id: ors-468a.720
+      citation: ORS 468A.720
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21056,6 +21366,9 @@ chapters:
     - id: oar-340-200-0100
       citation: OAR 340-200-0100
       quote: ORS 468A.035, ORS 468A.310
+    - id: ors-468a.310
+      citation: ORS 468A.310
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21075,6 +21388,9 @@ chapters:
     - id: oar-340-200-0110
       citation: OAR 340-200-0110
       quote: 468A.035, 468A.310
+    - id: ors-468a.310
+      citation: ORS 468A.310
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21094,6 +21410,9 @@ chapters:
     - id: oar-340-200-0120
       citation: OAR 340-200-0120
       quote: ORS 468A.035, ORS 468A.310
+    - id: ors-468a.310
+      citation: ORS 468A.310
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21143,6 +21462,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820 & Or. Laws
         2009, chapter 754
+    - id: ors-468a.799
+      citation: ORS 468A.799
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21219,6 +21541,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.797
+      citation: ORS 468A.797
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21245,6 +21570,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.505
+      citation: ORS 468A.505
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21271,6 +21599,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.600
+      citation: ORS 468A.600
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21381,6 +21712,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820 & Or. Laws
         2009, chapter 754
+    - id: ors-468a.780
+      citation: ORS 468A.780
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21407,6 +21741,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.105
+      citation: ORS 468A.105
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21432,6 +21769,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.820
+      citation: ORS 468A.820
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21596,6 +21936,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.500
+      citation: ORS 468A.500
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21615,6 +21958,9 @@ chapters:
     - id: oar-340-256-0300
       citation: OAR 340-256-0300
       quote: ORS 468A.350 - 468A.400, ORS 803.350, ORS 815.295, ORS 803.415 & 815.300
+    - id: ors-468a.400
+      citation: ORS 468A.400
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21634,6 +21980,9 @@ chapters:
     - id: oar-340-256-0010
       citation: OAR 340-256-0010
       quote: ORS 468A.350 - 468A.400, ORS 468A.810
+    - id: ors-468a.400
+      citation: ORS 468A.400
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21653,6 +22002,9 @@ chapters:
     - id: oar-340-256-0330
       citation: OAR 340-256-0330
       quote: ORS 468A.350 - 468A.400
+    - id: ors-468a.350
+      citation: ORS 468A.350
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21722,6 +22074,9 @@ chapters:
     - id: oar-340-216-8030
       citation: OAR 340-216-8030
       quote: ORS 468.020, ORS 468.065, ORS 468A.040, ORS 468A.050, ORS 468A.315
+    - id: ors-468a.315
+      citation: ORS 468A.315
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21743,6 +22098,9 @@ chapters:
       quote: ORS 468.065, ORS 468A.010, ORS 468A.015, ORS 468A.025, ORS 468A.035, ORS 468A.040, ORS 468A.050,
         ORS 468A.070, ORS 468A.155, Or Laws 2018, ch. 102, § 7, ch 468A.337, ch 468A.345, ch 468A.335,
         ch 468A.343
+    - id: ors-468a.345
+      citation: ORS 468A.345
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21850,6 +22208,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.750
+      citation: ORS 468A.750
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -21968,6 +22329,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.385
+      citation: ORS 468A.385
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -22058,6 +22422,9 @@ chapters:
     - id: oar-340-256-0357
       citation: oar-340-256-0357 declared statutes_implemented
       quote: ORS 468A.350 - 468A.420
+    - id: ors-468a.350
+      citation: ORS 468A.350
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -22077,6 +22444,9 @@ chapters:
     - id: oar-340-256-0358
       citation: oar-340-256-0358 declared statutes_implemented
       quote: ORS 468A.350 - 468A.420
+    - id: ors-468a.350
+      citation: ORS 468A.350
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -22096,6 +22466,9 @@ chapters:
     - id: oar-340-262-0400
       citation: OAR 340-262-0400 declared statutes_implemented
       quote: ORS 468A.460 - 468A.515, ORS 468A.100 - 468A.180
+    - id: ors-468a.100
+      citation: ORS 468A.100
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -22115,6 +22488,9 @@ chapters:
     - id: oar-340-264-0160
       citation: OAR 340-264-0160 declared statutes_implemented
       quote: ORS 468A.025, ORS 468A.100 - 468A.180, ORS 468A.555 - 468A.620, ORS 477.515, ORS 477.520
+    - id: ors-468a.100
+      citation: ORS 468A.100
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -22140,6 +22516,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.740
+      citation: ORS 468A.740
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -22234,6 +22613,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.803
+      citation: ORS 468A.803
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -22260,6 +22642,9 @@ chapters:
         ORS 468A.612, ORS 468A.620, ORS 468A.635, ORS 468A.707, ORS 468A.740, ORS 468A.745, ORS 468A.750,
         ORS 468A.775, ORS 468A.780, ORS 468A.797, ORS 468A.799, ORS 468A.803, ORS 468A.820, & Or. Laws
         2009, chapter 754
+    - id: ors-468a.280
+      citation: ORS 468A.280
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -22806,6 +23191,9 @@ chapters:
     - id: oar-603-076-0051
       citation: declared statutes_implemented
       quote: ORS 62.845, ORS 646.515, ORS 646.535, ORS 646.740
+    - id: ors-646.535
+      citation: ORS 646.535
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -22825,6 +23213,9 @@ chapters:
     - id: oar-603-076-0052
       citation: declared statutes_implemented
       quote: ORS 62.845, ORS 646.515, ORS 646.535, ORS 646.740
+    - id: ors-646.535
+      citation: ORS 646.535
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -23131,6 +23522,9 @@ chapters:
     - id: oar-603-027-0460
       citation: declared statutes_implemented
       quote: ORS 646.905, ORS 646.915, ORS 646.920
+    - id: ors-646.920
+      citation: ORS 646.920
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -23149,6 +23543,9 @@ chapters:
     - id: oar-812-002-0700
       citation: OAR 812-002-0700
       quote: ORS 87.058, ORS 279C.460, ORS 646.605, ORS 701
+    - id: ors-646.605
+      citation: ORS 646.605
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -23643,6 +24040,9 @@ chapters:
     - id: oar-101-020-0002
       citation: statutes_implemented declaration
       quote: ORS 243.061-302, ORS 659A.060-069, ORS 743.600 - 602, ORS 743.707
+    - id: ors-659a.060
+      citation: ORS 659A.060
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -23662,6 +24062,9 @@ chapters:
     - id: oar-101-020-0020
       citation: statutes_implemented declaration
       quote: ORS 243.061-302, ORS 659A.060-069, ORS 743.600-602, ORS 743.707
+    - id: ors-659a.060
+      citation: ORS 659A.060
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -23681,6 +24084,9 @@ chapters:
     - id: oar-101-020-0025
       citation: statutes_implemented declaration
       quote: ORS 243.061-302, ORS 659A.060-069, ORS 743.600-602, ORS 743.707
+    - id: ors-659a.060
+      citation: ORS 659A.060
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -23700,6 +24106,9 @@ chapters:
     - id: oar-101-020-0040
       citation: statutes_implemented declaration
       quote: ORS 243.061-302, ORS 659A.060-069, ORS 743.600-602, ORS 743.707
+    - id: ors-659a.060
+      citation: ORS 659A.060
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -23719,6 +24128,9 @@ chapters:
     - id: oar-101-020-0050
       citation: statutes_implemented declaration
       quote: ORS 243.061 - 302, ORS 659A.060 - 069, ORS 743.600 - 602, ORS 743.707
+    - id: ors-659a.060
+      citation: ORS 659A.060
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -23738,6 +24150,9 @@ chapters:
     - id: oar-101-030-0005
       citation: statutes_implemented declaration
       quote: ORS 243.061-302, ORS 659A.060 - 069, ORS 743.600 - 602
+    - id: ors-659a.060
+      citation: ORS 659A.060
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -23757,6 +24172,9 @@ chapters:
     - id: oar-101-050-0005
       citation: statutes_implemented declaration
       quote: ORS 243.061 - 302, ORS 659A.060 - 659A.069
+    - id: ors-659a.060
+      citation: ORS 659A.060
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -23768,6 +24186,9 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: das-v5-think-2026-07
+      model: claude-haiku-4-5-20251001
   - summary: Rule oar-101-050-0020 declares it implements ORS 659A.060-069, but its operative text addresses
       retiree survivor medical and dental insurance coverage, not the injured worker group health benefits
       continuation required by ORS 659A.060-069.
@@ -23776,6 +24197,9 @@ chapters:
     - id: oar-101-050-0020
       citation: statutes_implemented declaration
       quote: ORS 243.061-302, ORS 659A.060 - 659A.069
+    - id: ors-659a.060
+      citation: ORS 659A.060
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -23787,6 +24211,9 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: das-v5-think-2026-07
+      model: claude-haiku-4-5-20251001
   - summary: The rule fails to implement the statutory requirement that employers post notices and provide
       written copies of employment protections to employees within specified timeframes and circumstances.
     type: narrows
@@ -24319,6 +24746,9 @@ chapters:
     - id: oar-839-006-0280
       citation: oar-839-006-0280, declared statutes_implemented
       quote: ORS 659A.103, ORS 659A.104, ORS 659A.106, ORS 659A.109, ORS 659A.139, ORS 659A.142
+    - id: ors-659a.104
+      citation: ORS 659A.104
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -25015,44 +25445,6 @@ chapters:
       note: null
       by: null
       date: null
-  - summary: Rule 101-050-0005 declares implementation of ORS 659A.060-659A.069 (anti-discrimination statute)
-      but contains no provisions addressing discrimination, retaliation, or protection from adverse employment
-      action related to applying for benefits or giving testimony.
-    type: wrong_authority
-    documents:
-    - id: oar-101-050-0005
-      citation: OAR 101-050-0005, declared statutes_implemented
-      quote: ORS 243.061 - 302, ORS 659A.060 - 659A.069
-    run_id: das-v5-think-2026-07
-    model: claude-haiku-4-5-20251001
-    prompt_version: conflict-v5-authority-2026-07b
-    confidence: null
-    severity: null
-    section: ors-659a.069
-    triage:
-      status: unreviewed
-      note: null
-      by: null
-      date: null
-  - summary: Rule 101-050-0020 declares implementation of ORS 659A.060-659A.069 (anti-discrimination statute)
-      but contains no provisions addressing discrimination, retaliation, or protection from adverse employment
-      action related to applying for benefits or giving testimony.
-    type: wrong_authority
-    documents:
-    - id: oar-101-050-0020
-      citation: OAR 101-050-0020, declared statutes_implemented
-      quote: ORS 243.061-302, ORS 659A.060 - 659A.069
-    run_id: das-v5-think-2026-07
-    model: claude-haiku-4-5-20251001
-    prompt_version: conflict-v5-authority-2026-07b
-    confidence: null
-    severity: null
-    section: ors-659a.069
-    triage:
-      status: unreviewed
-      note: null
-      by: null
-      date: null
   - summary: OAR 839-006-0345 applies its rules to 'a place of public accommodation or of access to state
       government services, programs or activities,' but ORS 659A.400 defines only 'place of public accommodation'
       (which includes public body services to the public, but not all state government access).
@@ -25365,6 +25757,9 @@ chapters:
     - id: oar-839-006-0206
       citation: OAR 839-006-0206, declared statutes_implemented
       quote: ORS 659A.103 - 659A.145
+    - id: ors-659a.145
+      citation: ORS 659A.145
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -25462,6 +25857,9 @@ chapters:
     - id: oar-812-002-0760
       citation: declared statutes_implemented
       quote: ORS 448.115, ORS 448.279, ORS 671.510-671.710, ORS 701.005, ORS 701.021, ORS 701.026
+    - id: ors-671.710
+      citation: ORS 671.710
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -25751,6 +26149,9 @@ chapters:
     - id: oar-808-003-0126
       citation: OAR 808-003-0126 frontmatter
       quote: ORS 671.310, ORS 671.595
+    - id: ors-671.595
+      citation: ORS 671.595
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -25944,6 +26345,9 @@ chapters:
       citation: OAR 808-002-0360
       quote: ORS 305, ORS 314, ORS 316, ORS 317, ORS 318, ORS 656, ORS 657, ORS 671.525, ORS 671.520,
         ORS 671.565, ORS 671.660, ORS 447.060
+    - id: ors-671.520
+      citation: ORS 671.520
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -25963,6 +26367,9 @@ chapters:
     - id: oar-808-002-0200
       citation: OAR 808-002-0200
       quote: ORS 671.520, ORS 671.540
+    - id: ors-671.520
+      citation: ORS 671.520
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -25981,6 +26388,9 @@ chapters:
     - id: oar-808-002-0775
       citation: OAR 808-002-0775
       quote: ORS 671.520, ORS 671.540
+    - id: ors-671.520
+      citation: ORS 671.520
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -25999,6 +26409,9 @@ chapters:
     - id: oar-808-002-0685
       citation: OAR 808-002-0685
       quote: ORS 671.695, ORS 671.520
+    - id: ors-671.520
+      citation: ORS 671.520
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -26010,6 +26423,9 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: das-v5-think-2026-07
+      model: claude-haiku-4-5-20251001
   - summary: The statute allows registration 'without examination' for applicants with equivalent out-of-state
       licensure, but the implementing rule requires passage of the LARE examination in all registration
       pathways.
@@ -26122,24 +26538,6 @@ chapters:
     confidence: null
     severity: null
     section: ors-671.707
-    triage:
-      status: unreviewed
-      note: null
-      by: null
-      date: null
-  - summary: Rule 2 declares it implements ORS 671.520, but the operative text defining 'negligent' never
-      references or engages with ORS 671.520, only with ORS 671.690 and ORS 671.695.
-    type: wrong_authority
-    documents:
-    - id: oar-808-002-0685
-      citation: declared statutes_implemented
-      quote: ORS 671.695, ORS 671.520
-    run_id: das-v5-think-2026-07
-    model: claude-haiku-4-5-20251001
-    prompt_version: conflict-v5-authority-2026-07b
-    confidence: null
-    severity: null
-    section: ors-671.695
     triage:
       status: unreviewed
       note: null
@@ -26258,6 +26656,9 @@ chapters:
     - id: oar-806-010-0037
       citation: OAR 806-010-0037 declared statutes_implemented line
       quote: ORS 671.010 – 671.220
+    - id: ors-671.010
+      citation: ORS 671.010
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -26280,6 +26681,9 @@ chapters:
       citation: OAR 808-002-0100 (operative text)
       quote: the definitions in this division govern the interpretation of ORS 671.510 to 671.710, 671.955
         and OAR chapter 808
+    - id: ors-671.510
+      citation: ORS 671.510
+      added_by: mechanical-declaration-clause-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -26410,6 +26814,9 @@ chapters:
     - id: oar-125-249-0230
       citation: OAR 125-249-0230
       quote: ORS 279C.365, ORS 671.530, ORS 701.026
+    - id: ors-671.530
+      citation: ORS 671.530
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -26477,6 +26884,9 @@ chapters:
     - id: oar-808-003-0126
       citation: declared statutes_implemented
       quote: ORS 671.310, ORS 671.595
+    - id: ors-671.310
+      citation: ORS 671.310
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -26497,6 +26907,9 @@ chapters:
     - id: oar-808-002-0150
       citation: statutes_implemented
       quote: ORS 671.615, ORS 671.617
+    - id: ors-671.617
+      citation: ORS 671.617
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -26508,6 +26921,9 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: das-v5-think-2026-07
+      model: claude-haiku-4-5-20251001
   - summary: The rule for probationary professional license applications omits the examination fee and
       landscape construction professional license fee that the statute explicitly requires applicants
       to pay.
@@ -26795,6 +27211,9 @@ chapters:
     - id: oar-808-002-0328
       citation: ORS 671.540(15) & (16)
       quote: ORS 671.540(15) & (16)
+    - id: ors-671.540
+      citation: ORS 671.540(15)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -26813,6 +27232,9 @@ chapters:
     - id: oar-808-002-0875
       citation: ORS 671.540(5)
       quote: ORS 671.540(5)
+    - id: ors-671.540
+      citation: ORS 671.540(5)
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -26876,30 +27298,15 @@ chapters:
     - id: oar-804-027-0005
       citation: statutes_implemented declaration
       quote: ORS 671.315, ORS 671.316, ORS 671.335, ORS 671345, ORS 671.365, ORS 671.425, ORS 671.393
+    - id: ors-671.425
+      citation: ORS 671.425
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
     confidence: null
     severity: null
     section: ors-671.425
-    triage:
-      status: unreviewed
-      note: null
-      by: null
-      date: null
-  - summary: The rule declares it implements ORS 671.617, but the operative text of the rule never references
-      or engages with that statute; it only references ORS 671.615.
-    type: wrong_authority
-    documents:
-    - id: oar-808-002-0150
-      citation: oar-808-002-0150 (declared statutes_implemented)
-      quote: ORS 671.615, ORS 671.617
-    run_id: das-v5-think-2026-07
-    model: claude-haiku-4-5-20251001
-    prompt_version: conflict-v5-authority-2026-07b
-    confidence: null
-    severity: null
-    section: ors-671.615
     triage:
       status: unreviewed
       note: null
@@ -26990,6 +27397,9 @@ chapters:
     - id: oar-833-130-0080
       citation: ORS 675.705 - 675.835, ORS 676.150 - 676.405
       quote: ORS 675.705 - 675.835, ORS 676.150 - 676.405
+    - id: ors-676.150
+      citation: ORS 676.150
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -27009,6 +27419,9 @@ chapters:
     - id: oar-850-050-0120
       citation: ORS 685.220, ORS 685.110 & 676.150
       quote: ORS 685.220, ORS 685.110 & 676.150
+    - id: ors-676.150
+      citation: ORS 676.150
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -27136,6 +27549,9 @@ chapters:
     - id: oar-331-475-0010
       citation: ORS 676.576
       quote: Fees established by the Office pursuant to ORS 676.576 are as follows
+    - id: ors-676.560
+      citation: ORS 676.560
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -27158,6 +27574,9 @@ chapters:
       citation: ORS 676.560
       quote: 'Fees established by the Office are as follows: (a) Application: (A) Standard Body Piercing
         — $50'
+    - id: ors-676.560
+      citation: ORS 676.560
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -27224,6 +27643,9 @@ chapters:
     - id: oar-830-011-0010
       citation: OAR 830-011-0010, declared statutes_implemented
       quote: ORS 676.300, ORS 676.306, ORS 692.300, ORS 692.310, ORS 692.320
+    - id: ors-676.300
+      citation: ORS 676.300
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -27560,6 +27982,9 @@ chapters:
     - id: oar-331-718-0010
       citation: declared statutes_implemented
       quote: ORS 676.615, ORS 688.830, ORS 688.800, ORS 676.576
+    - id: ors-676.576
+      citation: ORS 676.576
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -27730,6 +28155,9 @@ chapters:
     - id: oar-833-130-0080
       citation: statutes_implemented
       quote: ORS 675.705 - 675.835, ORS 676.150 - 676.405
+    - id: ors-676.405
+      citation: ORS 676.405
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -27904,6 +28332,9 @@ chapters:
       quote: ORS 676.607, ORS 676.608, ORS 676.612, ORS 676.615, ORS 676.625, ORS 690.350, ORS 690.360,
         ORS 690.365, ORS 690.370, ORS 690.380, ORS 390.385, ORS 690.390, ORS 690.405, ORS 690.407, ORS
         690.410, ORS 690.415, 2011 OL Ch. 346 § 22, ORS 35
+    - id: ors-676.625
+      citation: ORS 676.625
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -27925,6 +28356,9 @@ chapters:
       quote: ORS 676.607, ORS 676.608, ORS 676.612, ORS 676.615, ORS 676.625, ORS 690.350, ORS 690.360,
         ORS 690.365, ORS 690.370, ORS 690.380, ORS 390.385, ORS 690.390, ORS 690.405, ORS 690.407, ORS
         690.410, ORS 690.415, 2011 OL Ch. 346 § 22, ORS 35
+    - id: ors-676.625
+      citation: ORS 676.625
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -28079,6 +28513,9 @@ chapters:
       quote: ORS 676.607, ORS 676.608, ORS 676.612, ORS 676.615, ORS 676.625, ORS 690.350, ORS 690.360,
         ORS 690.365, ORS 690.370, ORS 690.380, ORS 390.385, ORS 690.390, ORS 690.405, ORS 690.407, ORS
         690.410, ORS 690.415, 2011 OL Ch. 346 § 22, ORS 35
+    - id: ors-676.612
+      citation: ORS 676.612
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -28574,6 +29011,9 @@ chapters:
     - id: oar-812-001-0100
       citation: OAR 812-001-0100
       quote: ORS 183.335, ORS 183.341, ORS 670.310, ORS 701.235
+    - id: ors-701.235
+      citation: ORS 701.235
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -28593,6 +29033,9 @@ chapters:
     - id: oar-812-001-0110
       citation: OAR 812-001-0110
       quote: ORS 183.325, ORS 701.235
+    - id: ors-701.235
+      citation: ORS 701.235
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -28612,6 +29055,9 @@ chapters:
     - id: oar-812-001-0160
       citation: OAR 812-001-0160
       quote: ORS 192.430, ORS 293.445, ORS 701.235, ORS 701.250
+    - id: ors-701.235
+      citation: ORS 701.235
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -28722,6 +29168,9 @@ chapters:
     - id: oar-812-002-0040
       citation: declared statutes_implemented
       quote: ORS 656.027, ORS 701.005, ORS 701.139, ORS 701.145, ORS 701.146, ORS 701.325
+    - id: ors-701.325
+      citation: ORS 701.325
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -29035,6 +29484,9 @@ chapters:
     - id: oar-812-002-0160
       citation: OAR 812-002-0160, declared statutes_implemented
       quote: ORS 701.005, ORS 701.021, ORS 701.026, ORS 701.238
+    - id: ors-701.238
+      citation: ORS 701.238
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -29079,6 +29531,9 @@ chapters:
     - id: oar-812-030-0250
       citation: OAR 812-030-0250
       quote: ORS 701.480, ORS 701.485
+    - id: ors-701.480
+      citation: ORS 701.480
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -29442,6 +29897,9 @@ chapters:
       citation: OAR 125-249-0200
       quote: ORS 279A.110, ORS 279A.120, ORS 279C.365, ORS 279C.370, ORS 279C.375, ORS 279C.390, ORS 279C.505-580,
         ORS 279C.605, ORS 305.385, ORS 468A.720, ORS 701.005, ORS 701.026
+    - id: ors-701.026
+      citation: ORS 701.026
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -29460,6 +29918,9 @@ chapters:
     - id: oar-125-249-0230
       citation: OAR 125-249-0230
       quote: ORS 279C.365, ORS 671.530, ORS 701.026
+    - id: ors-701.026
+      citation: ORS 701.026
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -29611,6 +30072,9 @@ chapters:
     - id: oar-812-022-0021
       citation: oar-812-022-0021, declared statutes_implemented
       quote: ORS 701.082, ORS 701.083
+    - id: ors-701.083
+      citation: ORS 701.083
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -30455,6 +30919,9 @@ chapters:
         ORS 98.812, ORS 98.818, ORS 98.830, ORS 803.097, ORS 809.720, ORS 811.555, ORS 811.570, ORS 819.110,
         ORS 819.120, ORS 819.160, ORS 819.230, ORS 822.035, ORS 822.042, ORS 822.045, ORS 822.093, ORS
         87.152, ORS 87.162
+    - id: ors-98.810
+      citation: ORS 98.810
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -30477,6 +30944,9 @@ chapters:
         ORS 98.805, ORS 98.810, ORS 98.812, ORS 98.818, ORS 98.830, ORS 803.097, ORS 809.720, ORS 811.555,
         ORS 811.570, ORS 819.110, ORS 819.120, ORS 819.160, ORS 819.230, ORS 822.035, ORS 822.042, ORS
         822.045, ORS 822.093
+    - id: ors-98.810
+      citation: ORS 98.810
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -30567,6 +31037,9 @@ chapters:
       quote: ORS 87.152, ORS 87.162, ORS 87.166, ORS 87.172, ORS 87.176 — 87.206, ORS 90.425, ORS 90.675,
         ORS 98.805, ORS 98.812, ORS 98.818, ORS 98.830, ORS 803.045, ORS 803.094, ORS 803.097, ORS 803.205,
         ORS 809.720, ORS 811.555, ORS 811.570, ORS 819.110, ORS 819.120, ORS 819.160, ORS 819.230
+    - id: ors-98.818
+      citation: ORS 98.818
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -30589,6 +31062,9 @@ chapters:
         ORS 98.812, ORS 98.818, ORS 98.830, ORS 803.097, ORS 809.720, ORS 811.555, ORS 811.570, ORS 819.110,
         ORS 819.120, ORS 819.160, ORS 819.230, ORS 822.035, ORS 822.042, ORS 822.045, ORS 822.093, ORS
         87.152, ORS 87.162
+    - id: ors-98.818
+      citation: ORS 98.818
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
@@ -30611,6 +31087,9 @@ chapters:
         ORS 98.805, ORS 98.810, ORS 98.812, ORS 98.818, ORS 98.830, ORS 803.097, ORS 809.720, ORS 811.555,
         ORS 811.570, ORS 819.110, ORS 819.120, ORS 819.160, ORS 819.230, ORS 822.035, ORS 822.042, ORS
         822.045, ORS 822.093
+    - id: ors-98.818
+      citation: ORS 98.818
+      added_by: mechanical-statute-extraction-2026-07-29
     run_id: das-v5-think-2026-07
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-v5-authority-2026-07b
