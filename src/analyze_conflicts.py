@@ -2098,9 +2098,43 @@ def selftest() -> int:
         finally:
             globals()["STATE"] = saved_state4
 
+    # 29. No REPEALED rule may enter a bundle. A repealed rule binds nobody, so comparing
+    #     it against a statute produces a finding about text that has no legal effect —
+    #     and the model cannot tell, because the bundle carries no status.
+    #
+    #     This currently holds for free: all 79,442 `implemented_by` edges point at
+    #     `current` rules, because the repealed-rule cleanup (BACKLOG.md, 2026-07-24)
+    #     removed the rest. That is exactly why it needs asserting — nothing in
+    #     build_bundles filters on status, so a graph rebuild that restored those edges
+    #     would put 2,031 repealed rules back into paid runs with no error anywhere.
+    graph2 = json.loads(GRAPH.read_text())
+    node_status = {n["id"]: n.get("status") for n in graph2["nodes"]}
+    if any(v is not None for v in node_status.values()):
+        stale_edges = [e["to"] for e in graph2["edges"]
+                       if e["type"] == "implemented_by" and e["to"].startswith("oar-")
+                       and node_status.get(e["to"]) == "repealed"]
+        if stale_edges:
+            fails.append(
+                f"{len(stale_edges)} implemented_by edge(s) point at a REPEALED rule, e.g. "
+                f"{sorted(set(stale_edges))[:3]}. Those rules would be bundled and analysed "
+                "as though they were in force; the bundle carries no status, so the model "
+                "cannot tell and neither can a reader of the result.")
+    else:
+        # The graph does not carry status, so this cannot be checked from it. Fall back to
+        # the documents themselves for a bounded sample rather than asserting nothing.
+        from repo_lib import parse_frontmatter as _pf
+        paths2 = {n["id"]: n["path"] for n in graph2["nodes"]}
+        rules = [e["to"] for e in graph2["edges"]
+                 if e["type"] == "implemented_by" and e["to"].startswith("oar-")]
+        bad = [r for r in sorted(set(rules))[:400]
+               if r in paths2 and _pf(REPO_ROOT / paths2[r])[0].get("status") == "repealed"]
+        if bad:
+            fails.append(f"{len(bad)} repealed rule(s) in the first 400 implemented_by "
+                         f"targets, e.g. {bad[:3]} — they would be bundled and analysed")
+
     for f in fails:
         print(f"FAIL {f}")
-    print(f"merge selftest: {28 - len(fails)}/28 passed")
+    print(f"merge selftest: {29 - len(fails)}/29 passed")
     return 1 if fails else 0
 
 

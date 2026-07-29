@@ -11,6 +11,7 @@ Reads the cached dataset from build_conflict_candidates_data.py.
   python3 src/build_conflict_candidates.py --check   # exit 1 if stale (CI)
 """
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -29,8 +30,35 @@ def build_html(data: dict) -> str:
     return TEMPLATE.replace("/*DATA*/", json.dumps(data, ensure_ascii=False, separators=(",", ":")))
 
 
+def assert_dom_contract(html: str) -> None:
+    """Every id the page's script reaches for must exist in the markup it ships with.
+
+    THE FAILURE THIS CATCHES. `getElementById` returns null for a missing id, and reading
+    `.style` off null throws — which halts the rest of the script. The mechanical-scan
+    block was added referencing `mechpanel`/`mechsummary`/`mechwhy`, the markup for them
+    never was, and it stayed invisible because the block is guarded by
+    `if(DATA.mechanical)` and that key did not exist yet. The first run of
+    `detect_mechanical.py --write` populated it, the block began executing, and the page
+    rendered its header and then nothing — no candidates, no filter, no footer.
+
+    Nothing failed. The build printed its usual success line, the HTML was well-formed and
+    1.5 MB, and every number in the data was correct. Only a browser could tell, and CI
+    has no browser — so the contract is asserted here instead."""
+    wanted = list(dict.fromkeys(re.findall(r"getElementById\(['\"]([^'\"]+)['\"]\)", html)))
+    present = set(re.findall(r"\bid=['\"]([^'\"]+)['\"]", html))
+    missing = [w for w in wanted if w not in present]
+    if missing:
+        raise SystemExit(
+            f"conflict-candidates.html: the script reads {missing}, which the markup does "
+            "not define. getElementById returns null and the script dies at that line, "
+            "taking every later render with it — the page loads, looks structurally fine, "
+            "and shows no candidates.")
+
+
 def outputs():
-    return {OUT: build_html(build_data())}
+    html = build_html(build_data())
+    assert_dom_contract(html)
+    return {OUT: html}
 
 
 def main():
@@ -120,12 +148,18 @@ TEMPLATE = r"""<!doctype html>
     candidate carries the exact document citations and quoted text it's based on, so you can verify
     it yourself. This is a pilot over a subset of 245 shared-authority chapters, not an exhaustive scan.
     <span id="trisummary"></span>
+    <span id="repealednote"></span>
     <span id="qvsummary"></span> Each quote is machine-checked against the cited document's own full
     text: <span class="qv qv-ok">verified in source</span> means those exact words were found there;
     <span class="qv qv-abs">absence claim</span> means the finding is that the source <i>omits</i>
     something, which cannot be matched; <span class="qv qv-no">not found in source</span> means the
     document exists but those words were not located in it — treat those as unverified and read the
     source before relying on them.
+  </div>
+  <div class="banner" id="mechpanel" style="display:none">
+    <h2>The mechanical scan</h2>
+    <p id="mechsummary"></p>
+    <div id="mechwhy"></div>
   </div>
   <div class="filterbar">
     <label for="agencyFilter">Filter by agency</label>
@@ -144,6 +178,11 @@ document.getElementById('qvsummary').textContent=`Of ${DATA.n_docs_verified} quo
 { // Triage state, stated plainly: nothing here has been through human review yet.
   const t=DATA.triage_counts||{}, el=document.getElementById('trisummary');
   if(el) el.textContent=`Human review: ${t.confirmed||0} confirmed, ${t.dismissed||0} dismissed, ${t.unreviewed||0} still unreviewed of ${DATA.n_candidates}. Severity and confidence, where shown, are the analysing model's own assessment — not a human's, and not a legal one.`;
+}
+{ const n=DATA.n_candidates_citing_repealed||0, el=document.getElementById('repealednote');
+  if(el && n) el.textContent = ` ${n} candidate${n===1?'':'s'} resting on a repealed rule `
+    + `${n===1?'is':'are'} hidden — a repealed rule binds nobody, so those are not live `
+    + `conflicts. Append ?repealed to the URL to show them.`;
 }
 document.getElementById('foot').innerHTML = esc(DATA.note) + '<br><br><b>Methodology:</b> ' + esc(DATA.methodology);
 
@@ -196,10 +235,16 @@ for(const a of (DATA.all_agencies||[])){
 }
 
 const list=document.getElementById('list');
-const rows=DATA.chapters.slice().sort((a,b)=>(b.candidates||[]).length-(a.candidates||[]).length);
+// Candidates resting on a REPEALED rule are hidden by default: the rule is gone, so
+// whatever it said binds nobody, and presenting it beside live findings overstates the
+// corpus. They are hidden rather than deleted, and the count is stated, because a page
+// that silently drops rows cannot be reconciled against the catalog it is built from.
+const SHOW_REPEALED = new URLSearchParams(location.search).has('repealed');
+const live = ch => (ch.candidates||[]).filter(c => SHOW_REPEALED || !(c.cites_repealed||[]).length);
+const rows=DATA.chapters.slice().sort((a,b)=>live(b).length-live(a).length);
 const cards=[];
 for(const ch of rows){
-  const n=(ch.candidates||[]).length;
+  const shown=live(ch); const n=shown.length;
   const el=document.createElement('div');el.className='card';
   const badge = n>0 ? `<span class="badge has">${n} candidate${n===1?'':'s'}</span>` : `<span class="badge clean">none found</span>`;
   const agList = ch.agency_list||[];
@@ -214,7 +259,7 @@ for(const ch of rows){
     bodyEl.appendChild(agDiv);
   }
   if(n>0){
-    for(const c of ch.candidates){
+    for(const c of shown){
       const cand=document.createElement('div');cand.className='cand';
       const quotes=c.documents.map(d=>{
         // quote_verified: true = these exact words were found in the cited document's
