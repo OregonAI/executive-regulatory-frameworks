@@ -1128,6 +1128,17 @@ def dedupe_catalog(cat: dict) -> list:
 _RUN_BUNDLE_FIELDS = ("custom_id", "ors_chapter", "section", "partial", "part", "n_parts")
 
 
+def rule_ids(bundle: dict) -> list:
+    """The rule ids of a bundle, whichever shape it is in.
+
+    A freshly built bundle carries `rules` as dicts with text; one loaded from a submit
+    record carries them as bare id strings, because that is all the record needs. Both
+    reach write_run — the second on the --collect path — and assuming dicts crashed the
+    collect of a finished batch AFTER the results had been fetched, which is the worst
+    moment to fail: the run is paid for and the reply is in hand."""
+    return [r["id"] if isinstance(r, dict) else str(r) for r in bundle.get("rules") or []]
+
+
 def write_run(run_id: str, model: str, prompt_version: str, thinking: int, tier: str,
               bundles: list, results: dict, status: dict | None) -> Path:
     """Persist a run's raw model output BEFORE anything consumes it, and return the path.
@@ -1157,7 +1168,7 @@ def write_run(run_id: str, model: str, prompt_version: str, thinking: int, tier:
         # status, and inventing "ok" for every bundle would turn an unknown into a claim.
         "status": status,
         "bundles": [{**{k: b[k] for k in _RUN_BUNDLE_FIELDS},
-                     "rules": [r["id"] for r in b["rules"]]} for b in bundles],
+                     "rules": rule_ids(b)} for b in bundles],
         "results": results,
     }, indent=1, ensure_ascii=False), encoding="utf-8")
     return path
@@ -1185,7 +1196,7 @@ def write_batch_state(batch_id: str, run_id: str, model: str, prompt_version: st
         "batch_id": batch_id, "run_id": run_id, "model": model,
         "prompt_version": prompt_version, "tier": tier,
         "bundles": [{**{k: b[k] for k in _RUN_BUNDLE_FIELDS},
-                     "rules": [r["id"] for r in b["rules"]]} for b in bundles],
+                     "rules": rule_ids(b)} for b in bundles],
     }, indent=1), encoding="utf-8")
     return path
 
@@ -2047,9 +2058,49 @@ def selftest() -> int:
     finally:
         os.unlink(path)
 
+    # 28. A bundle loaded from a submit record must survive write_run. Its `rules` are
+    #     bare id strings; a freshly built bundle's are dicts. write_run assumed dicts and
+    #     crashed the --collect path AFTER the batch results had been fetched — paid for,
+    #     in hand, and unwritable. Both shapes are exercised here because only the round
+    #     trip through the file produces the second one.
+    #     Every probe is wrapped. The whole point is that the broken version RAISES, and
+    #     an unguarded raise aborts the suite before it prints — which made the first
+    #     proof run of this very property look like a pass. Third time today.
+    def _rule_ids(bundle, want, why):
+        try:
+            got = rule_ids(bundle)
+        except Exception as e:                                         # noqa: BLE001
+            fails.append(f"{why} (raised {type(e).__name__}: {e})")
+            return
+        if got != want:
+            fails.append(f"{why} (got {got!r}, want {want!r})")
+
+    _rule_ids({"rules": [{"id": "oar-1"}, {"id": "oar-2"}]}, ["oar-1", "oar-2"],
+              "rule_ids mangles a freshly built bundle's rules")
+    _rule_ids({"rules": ["oar-1", "oar-2"]}, ["oar-1", "oar-2"],
+              "rule_ids cannot read a bundle loaded from a submit record, so --collect "
+              "crashes after the results are already fetched")
+    _rule_ids({}, [], "rule_ids fails on a bundle with no rules")
+    saved_state4 = STATE
+    with tempfile.TemporaryDirectory() as tmpdir:
+        try:
+            globals()["STATE"] = Path(tmpdir)
+            src_b = [{"custom_id": "c1", "ors_chapter": "1", "section": "ors-1.1",
+                      "partial": False, "part": 0, "n_parts": 1,
+                      "rules": [{"id": "oar-1", "text": "t"}], "statute": "s"}]
+            write_batch_state("msgbatch_rt", "r", "m", "v6", "section", src_b)
+            loaded = read_batch_state("msgbatch_rt")["bundles"]
+            try:
+                write_run("rt", "m", "v6", 0, "section", loaded, {}, None)
+            except Exception as e:                                     # noqa: BLE001
+                fails.append(f"write_run rejects a bundle round-tripped through a submit "
+                             f"record, so --collect cannot save its own run: {e}")
+        finally:
+            globals()["STATE"] = saved_state4
+
     for f in fails:
         print(f"FAIL {f}")
-    print(f"merge selftest: {27 - len(fails)}/27 passed")
+    print(f"merge selftest: {28 - len(fails)}/28 passed")
     return 1 if fails else 0
 
 
