@@ -321,6 +321,32 @@ def build_bundles(chapters: list, graph: dict, tier: str = "cluster",
     return bundles
 
 
+def filter_sections(bundles: list, spec: str, tier: str = "section") -> list:
+    """Narrow a bundle list to specific ORS sections. `spec` is comma-separated ids or
+    @FILE with one per line.
+
+    WHY THIS EXISTS. `--chapters` is chapter-granular, and re-running the 20 sections a
+    run actually failed on would submit 658 bundles through it — 30x the intended scope,
+    and paid for. The section is the unit a targeted re-run needs.
+
+    Applied AFTER bundling so a section split across parts contributes every part.
+
+    RAISES on an id that matched nothing, rather than returning a shorter list. A typo'd
+    id would otherwise submit nothing for that section while the run reported success —
+    the failure looks identical to "the model found nothing there", which is the answer
+    the re-run exists to establish."""
+    raw = Path(spec[1:]).read_text() if spec.startswith("@") else spec
+    want = {x.strip().lower() for x in raw.replace("\n", ",").split(",") if x.strip()}
+    kept = [b for b in bundles if b["section"].lower() in want]
+    missing = sorted(want - {b["section"].lower() for b in kept})
+    if missing:
+        raise SystemExit(
+            f"--sections: {len(missing)} id(s) matched no bundle at --tier {tier}, e.g. "
+            f"{missing[:5]}. A section with no implementing rules produces no bundle; "
+            "check the id and the tier before assuming the run covered it.")
+    return kept
+
+
 # --------------------------------------------------------------------------- prompt
 
 SYSTEM = """You are assisting a public, non-authoritative reference corpus of Oregon law.
@@ -1102,6 +1128,17 @@ def dedupe_catalog(cat: dict) -> list:
 _RUN_BUNDLE_FIELDS = ("custom_id", "ors_chapter", "section", "partial", "part", "n_parts")
 
 
+def rule_ids(bundle: dict) -> list:
+    """The rule ids of a bundle, whichever shape it is in.
+
+    A freshly built bundle carries `rules` as dicts with text; one loaded from a submit
+    record carries them as bare id strings, because that is all the record needs. Both
+    reach write_run — the second on the --collect path — and assuming dicts crashed the
+    collect of a finished batch AFTER the results had been fetched, which is the worst
+    moment to fail: the run is paid for and the reply is in hand."""
+    return [r["id"] if isinstance(r, dict) else str(r) for r in bundle.get("rules") or []]
+
+
 def write_run(run_id: str, model: str, prompt_version: str, thinking: int, tier: str,
               bundles: list, results: dict, status: dict | None) -> Path:
     """Persist a run's raw model output BEFORE anything consumes it, and return the path.
@@ -1131,10 +1168,76 @@ def write_run(run_id: str, model: str, prompt_version: str, thinking: int, tier:
         # status, and inventing "ok" for every bundle would turn an unknown into a claim.
         "status": status,
         "bundles": [{**{k: b[k] for k in _RUN_BUNDLE_FIELDS},
-                     "rules": [r["id"] for r in b["rules"]]} for b in bundles],
+                     "rules": rule_ids(b)} for b in bundles],
         "results": results,
     }, indent=1, ensure_ascii=False), encoding="utf-8")
     return path
+
+
+def default_run_id() -> str:
+    """The --run-id used when none is given. Named so a collect can tell "left at the
+    default" from "deliberately relabelled" — adopting the batch's run_id in the first
+    case, honouring the override in the second."""
+    return f"run-{date.today().isoformat()}"
+
+
+def write_batch_state(batch_id: str, run_id: str, model: str, prompt_version: str,
+                      tier: str, bundles: list) -> Path:
+    """Record what a submitted batch was built from, in the shape --collect needs (#68).
+
+    Uses `_RUN_BUNDLE_FIELDS` plus rule IDS — the same shape `write_run()` persists — so
+    the two saved forms cannot drift. The previous version stored
+    `{k: v for k, v in b.items() if k not in ("statute", "rules")}`, which dropped `rules`
+    entirely while `merge_into_catalog` reads `len(b["rules"])` for `rules_reviewed`, so
+    the record was unusable for the one job it existed to do."""
+    STATE.mkdir(parents=True, exist_ok=True)
+    path = STATE / f"{batch_id}.json"
+    path.write_text(json.dumps({
+        "batch_id": batch_id, "run_id": run_id, "model": model,
+        "prompt_version": prompt_version, "tier": tier,
+        "bundles": [{**{k: b[k] for k in _RUN_BUNDLE_FIELDS},
+                     "rules": rule_ids(b)} for b in bundles],
+    }, indent=1), encoding="utf-8")
+    return path
+
+
+def read_batch_state(batch_id: str) -> dict:
+    """The submit-time record of a batch. Refuses rather than falling back to a rebuild.
+
+    THE BUG THIS CLOSES (#68). `--collect` used to merge results against a bundle list
+    recomputed from whatever `--chapters`/`--tier`/`--limit` were on the command line, so
+    a collect invoked with different arguments from its submit matched nothing and
+    discarded an entire paid batch. The default path was the easiest to get wrong: with no
+    `--chapters`, the list derives from `set(shared) - done`, and `done` reads the catalog
+    — so the correct arguments depended on whether anything else had been merged since.
+
+    Falling back to a rebuild when the record is missing would reintroduce exactly that,
+    quietly, on the rarer path. Better to refuse and say what is missing."""
+    path = STATE / f"{batch_id}.json"
+    if not path.exists():
+        # Not relative_to(REPO_ROOT): STATE is redirected to a temp dir under test, and a
+        # ValueError from formatting an ERROR MESSAGE would mask the condition it reports.
+        try:
+            shown = path.relative_to(REPO_ROOT)
+        except ValueError:
+            shown = path
+        sys.exit(f"--collect {batch_id}: no submit record at "
+                 f"{shown}.\nThe bundle list a batch was built from "
+                 "cannot be reconstructed from the command line without risking a silent "
+                 "mismatch, so this refuses rather than guessing. If the batch was "
+                 "submitted from another checkout, copy its state file across.")
+    d = json.loads(path.read_text())
+    missing = [k for k in ("batch_id", "run_id", "model", "prompt_version", "bundles")
+               if d.get(k) is None]
+    if missing:
+        sys.exit(f"--collect {batch_id}: submit record is missing {missing}. It predates "
+                 "the #68 fix and cannot be collected against safely; re-submit.")
+    short = [b["custom_id"] for b in d["bundles"]
+             if any(k not in b for k in (*_RUN_BUNDLE_FIELDS, "rules"))]
+    if short:
+        sys.exit(f"--collect {batch_id}: {len(short)} stored bundle(s) lack fields the "
+                 f"merge reads, e.g. {short[:3]}. Written before the #68 fix; re-submit.")
+    return d
 
 
 def read_run(path) -> dict:
@@ -1855,9 +1958,149 @@ def selftest() -> int:
         fails.append("merge_into_catalog accepted a one-document wrong_authority candidate "
                      "silently; the run reports success and the cache cannot be built")
 
+    # 25. #68: a batch's bundle list must come from its own submit record, so a collect
+    #     invoked with different selection flags still merges every result. Previously
+    #     `--collect` rebuilt the list from `--chapters`/`--tier`/`--limit`, and a
+    #     mismatch matched nothing — discarding a paid batch.
+    #
+    #     The fixture stores a bundle the CURRENT flags would never produce (chapter 999
+    #     is not in the corpus), so a round-trip that still merges can only have read the
+    #     record. A rebuild would return zero bundles for it.
+    saved_state2 = STATE
+    with tempfile.TemporaryDirectory() as tmpdir:
+        try:
+            globals()["STATE"] = Path(tmpdir)
+            probe = [{"custom_id": "ors-999.001#0", "ors_chapter": "999",
+                      "section": "ors-999.001", "partial": False, "part": 0,
+                      "n_parts": 1, "rules": [{"id": "oar-999-001-0001"}],
+                      "statute": "text the record must not need"}]
+            write_batch_state("msgbatch_probe", "r1", "m1", "v6", "section", probe)
+            # read_batch_state exits on an under-specified record, which is right in
+            # production and wrong here: an uncaught SystemExit aborts the suite before it
+            # can print its count, so a real regression would look like a crash rather
+            # than a numbered failure. Caught and recorded instead.
+            try:
+                got = read_batch_state("msgbatch_probe")
+            except SystemExit as e:
+                got = None
+                fails.append(f"batch state round-trip rejected its own output: {e}")
+            if got is not None:
+                b0 = got["bundles"][0]
+                for field in (*_RUN_BUNDLE_FIELDS, "rules"):
+                    if field not in b0:
+                        fails.append(f"batch state drops `{field}`, which "
+                                     "merge_into_catalog reads; a collect against it "
+                                     "would fail or undercount")
+                if b0.get("rules") != ["oar-999-001-0001"]:
+                    fails.append("batch state does not persist rule ids; rules_reviewed "
+                                 "would be wrong for every collected bundle")
+                if got["prompt_version"] != "v6" or got["model"] != "m1":
+                    fails.append("batch state loses the submit's model/prompt identity, "
+                                 "so a collect would relabel the run's provenance")
+        finally:
+            globals()["STATE"] = saved_state2
+
+    # 26. A missing submit record must REFUSE, not fall back to rebuilding. The fallback
+    #     is the original bug, and it would return on the rarer path where it is least
+    #     likely to be noticed.
+    saved_state3 = STATE
+    with tempfile.TemporaryDirectory() as tmpdir:
+        try:
+            globals()["STATE"] = Path(tmpdir)
+            try:
+                read_batch_state("msgbatch_does_not_exist")
+                fails.append("read_batch_state accepted a missing submit record; --collect "
+                             "would rebuild the bundle list and silently mismatch")
+            except SystemExit:
+                pass
+        finally:
+            globals()["STATE"] = saved_state3
+
+    # 27. --sections must actually narrow, and must refuse an id it did not match.
+    #     `--chapters` is the only other filter and selects WHOLE chapters: re-running 20
+    #     specific failed sections through it submits 658 bundles, 30x the intended scope.
+    #     A silent no-match is the dangerous half — a typo'd id would submit nothing for
+    #     it and the run would report success on a section it never touched.
+    #     Exercised, not grepped. The first version asserted on strings in main()'s
+    #     source and could not fail: disabling the refusal left the message in place
+    #     inside unreachable code, so it still passed. Behaviour is the only thing that
+    #     distinguishes a working filter from a dead one.
+    #     Each call is wrapped: filter_sections RAISES on an unmatched id, which is right
+    #     in production and fatal here — an uncaught SystemExit aborts the suite before it
+    #     prints its count, so a real regression reads as a crash rather than a numbered
+    #     failure. That happened twice while writing these (see property 25).
+    probe_b = [{"section": "ors-1.1"}, {"section": "ors-1.1"}, {"section": "ors-2.2"}]
+
+    def _filter(spec, want_n, why):
+        try:
+            got = len(filter_sections(probe_b, spec))
+        except SystemExit as e:
+            fails.append(f"--sections rejected a valid request ({spec!r}): {e}")
+            return
+        if got != want_n:
+            fails.append(f"{why} (got {got}, want {want_n})")
+
+    _filter("ors-1.1", 2, "--sections does not keep every part of a split section, so an "
+                          "oversized section would be re-run only in part")
+    _filter("ors-1.1,ors-2.2", 3, "--sections drops sections it was asked for")
+    try:
+        filter_sections(probe_b, "ors-9.9")
+        fails.append("--sections accepted an id that matched no bundle; a typo would "
+                     "submit nothing for that section while the run reported success, "
+                     "which is indistinguishable from 'the model found nothing there'")
+    except SystemExit:
+        pass
+    fd, path = tempfile.mkstemp(suffix=".txt"); os.close(fd)
+    Path(path).write_text("ors-1.1\nors-2.2\n")
+    try:
+        _filter("@" + path, 3, "--sections cannot read @FILE; a 20-id list becomes a "
+                               "command line that is easy to truncate by accident")
+    finally:
+        os.unlink(path)
+
+    # 28. A bundle loaded from a submit record must survive write_run. Its `rules` are
+    #     bare id strings; a freshly built bundle's are dicts. write_run assumed dicts and
+    #     crashed the --collect path AFTER the batch results had been fetched — paid for,
+    #     in hand, and unwritable. Both shapes are exercised here because only the round
+    #     trip through the file produces the second one.
+    #     Every probe is wrapped. The whole point is that the broken version RAISES, and
+    #     an unguarded raise aborts the suite before it prints — which made the first
+    #     proof run of this very property look like a pass. Third time today.
+    def _rule_ids(bundle, want, why):
+        try:
+            got = rule_ids(bundle)
+        except Exception as e:                                         # noqa: BLE001
+            fails.append(f"{why} (raised {type(e).__name__}: {e})")
+            return
+        if got != want:
+            fails.append(f"{why} (got {got!r}, want {want!r})")
+
+    _rule_ids({"rules": [{"id": "oar-1"}, {"id": "oar-2"}]}, ["oar-1", "oar-2"],
+              "rule_ids mangles a freshly built bundle's rules")
+    _rule_ids({"rules": ["oar-1", "oar-2"]}, ["oar-1", "oar-2"],
+              "rule_ids cannot read a bundle loaded from a submit record, so --collect "
+              "crashes after the results are already fetched")
+    _rule_ids({}, [], "rule_ids fails on a bundle with no rules")
+    saved_state4 = STATE
+    with tempfile.TemporaryDirectory() as tmpdir:
+        try:
+            globals()["STATE"] = Path(tmpdir)
+            src_b = [{"custom_id": "c1", "ors_chapter": "1", "section": "ors-1.1",
+                      "partial": False, "part": 0, "n_parts": 1,
+                      "rules": [{"id": "oar-1", "text": "t"}], "statute": "s"}]
+            write_batch_state("msgbatch_rt", "r", "m", "v6", "section", src_b)
+            loaded = read_batch_state("msgbatch_rt")["bundles"]
+            try:
+                write_run("rt", "m", "v6", 0, "section", loaded, {}, None)
+            except Exception as e:                                     # noqa: BLE001
+                fails.append(f"write_run rejects a bundle round-tripped through a submit "
+                             f"record, so --collect cannot save its own run: {e}")
+        finally:
+            globals()["STATE"] = saved_state4
+
     for f in fails:
         print(f"FAIL {f}")
-    print(f"merge selftest: {24 - len(fails)}/24 passed")
+    print(f"merge selftest: {28 - len(fails)}/28 passed")
     return 1 if fails else 0
 
 
@@ -1883,6 +2126,12 @@ def main():
     ap.add_argument("--tier", choices=TIERS, default="cluster",
                     help="; ".join(f"{t}: {TIER_MEANING[t]}" for t in TIERS))
     ap.add_argument("--chapters", help="comma-separated ORS chapters (default: all unanalyzed)")
+    ap.add_argument("--sections",
+                    help="comma-separated ORS SECTION ids (e.g. ors-183.355,ors-98.436), "
+                         "or @FILE with one per line. Narrows to exactly these sections "
+                         "— the unit a re-run of specific failures needs, which "
+                         "--chapters cannot express: one chapter can be hundreds of "
+                         "bundles")
     ap.add_argument("--limit", type=int, help="cap the number of bundles (dev)")
     ap.add_argument("--dry-run", action="store_true",
                     help="show what would run — bundles, tokens, cost — and call nothing")
@@ -1894,7 +2143,7 @@ def main():
                          "pilot's recorded weakness in a cheap model was UNDER-reporting, "
                          "not hallucination. Recorded per candidate so a thinking run "
                          "stays distinguishable from one without.")
-    ap.add_argument("--run-id", default=f"run-{date.today().isoformat()}")
+    ap.add_argument("--run-id", default=default_run_id())
     ap.add_argument("--supersede", action="store_true",
                     help="DESTRUCTIVE: replace an already-covered chapter's candidates "
                          "instead of adding to them. Everything this run does not "
@@ -1963,16 +2212,42 @@ def main():
     done = {str(ch["ors_chapter"]).lower() for ch in
             yaml.safe_load(CATALOG.read_text())["chapters"]}
 
-    if args.chapters:
-        chapters = [c.strip().lower() for c in args.chapters.split(",")]
+    batch_state = None
+    if args.collect:
+        # #68: the bundle list comes from the batch's own submit record, never from this
+        # invocation's flags. Selection flags are REFUSED rather than ignored — silently
+        # accepting `--chapters` here would read as though it had scoped the collect.
+        bad = [f for f, v in (("--chapters", args.chapters), ("--limit", args.limit),
+                              ("--max-context-tokens",
+                               args.max_context_tokens != MAX_BUNDLE_TOKENS or None))
+               if v]
+        if bad:
+            sys.exit(f"--collect takes its bundles from the batch's submit record, so "
+                     f"{', '.join(bad)} would have no effect. Remove them.")
+        batch_state = read_batch_state(args.collect)
+        bundles = batch_state["bundles"]
+        chapters = sorted({str(b["ors_chapter"]) for b in bundles})
     else:
-        chapters = sorted(set(shared) - done)
-    bundles = build_bundles(chapters, graph, args.tier, args.max_context_tokens)
-    if args.limit:
-        bundles = bundles[:args.limit]
+        if args.chapters:
+            chapters = [c.strip().lower() for c in args.chapters.split(",")]
+        else:
+            chapters = sorted(set(shared) - done)
+        bundles = build_bundles(chapters, graph, args.tier, args.max_context_tokens)
+        if args.sections:
+            bundles = filter_sections(bundles, args.sections, args.tier)
+        if args.limit:
+            bundles = bundles[:args.limit]
 
     model = args.model or (DEFAULT_MODEL if args.backend.startswith("claude")
                            else "llama3.1:8b")
+    if batch_state:
+        # The submit's identity wins over anything retyped now, so a collect cannot
+        # relabel a run's provenance by accident. run_id is only adopted when the user
+        # left it at the default — an explicit --run-id on a collect is a deliberate
+        # relabel and is honoured.
+        model = batch_state["model"]
+        if args.run_id == default_run_id():
+            args.run_id = batch_state["run_id"]
 
     if args.dry_run or not (args.submit or args.collect
                             or args.backend in INLINE_BACKENDS):
@@ -2005,7 +2280,8 @@ def main():
     # Resolve the prompt once, so the frontier and local paths and the recorded
     # provenance cannot drift apart. The local variant keeps v3's checks but not its
     # grading, which a 7B does not produce reliably (see LOCAL_SYSTEM).
-    prompt_version = PROMPT_VERSIONS[args.prompt]
+    prompt_version = (batch_state["prompt_version"] if batch_state
+                      else PROMPT_VERSIONS[args.prompt])
     sys_prompt = SYSTEM_V3 if args.prompt in ("v3", "v4", "v5", "v6") else SYSTEM
     local_prompt = PROMPT_TEXTS[args.prompt]
     # v4 differs from v3 only in the escape hatch, which lives in the LOCAL prompt text.
@@ -2023,17 +2299,13 @@ def main():
     elif args.backend == "claude":
         backend = ClaudeBatchBackend(model, sys_prompt, prompt_version, thinking=args.thinking)
         if args.submit:
-            STATE.mkdir(parents=True, exist_ok=True)
             batch_id = backend.submit(bundles)
-            (STATE / f"{batch_id}.json").write_text(json.dumps(
-                {"batch_id": batch_id, "run_id": args.run_id, "model": model,
-                 "prompt_version": prompt_version,
-                 "bundles": [{k: v for k, v in b.items() if k not in ("statute", "rules")}
-                             for b in bundles]}, indent=1))
+            write_batch_state(batch_id, args.run_id, model, prompt_version,
+                              args.tier, bundles)
             print(f"submitted batch {batch_id} ({len(bundles)} requests)\n"
                   f"collect with: python3 src/analyze_conflicts.py --collect {batch_id}")
             return
-        results = backend.collect(args.collect, bundles)
+        results = backend.collect(args.collect, bundles)   # bundles from the state file
     else:
         results, status = LocalBackend(model, args.local_url,
                                        system=local_prompt).run(bundles)
