@@ -147,6 +147,47 @@ document.getElementById('qvsummary').textContent=`Of ${DATA.n_docs_verified} quo
 }
 document.getElementById('foot').innerHTML = esc(DATA.note) + '<br><br><b>Methodology:</b> ' + esc(DATA.methodology);
 
+// The mechanical pass. Its counts dwarf the model-derived candidates, so the page explains
+// the gap rather than leaving a reader to assume the corpus is broken.
+if(DATA.mechanical){
+  const m=DATA.mechanical, c=m.counts||{};
+  document.getElementById('mechpanel').style.display='';
+  document.getElementById('mechsummary').textContent =
+    ` Scanning all ${(m.scanned_rules||0).toLocaleString()} rules by code — no model — finds `
+    + `${(c.distinct_dead_targets||0).toLocaleString()} distinct dead citation targets, cited `
+    + `${(c.dead_citation_occurrences||0).toLocaleString()} times across `
+    + `${(c.documents_affected||0).toLocaleString()} documents, plus `
+    + `${(c.lapsed_but_current||0).toLocaleString()} rules still marked current past their own `
+    + `stated sunset and ${(c.malformed_citations||0).toLocaleString()} malformed citations.`;
+  const rows=(m.most_cited||[]).map(x=>
+    `<tr><td>${esc(x.cites)}</td><td style="text-align:right">${x.cited_by_rules.toLocaleString()}</td></tr>`).join('');
+  const causes=Object.entries(m.by_cause||{}).map(([k,v])=>
+    `<li><b>${esc(k)}</b> — ${v.toLocaleString()}${m.cause_meanings&&m.cause_meanings[k]?': '+esc(m.cause_meanings[k]):''}</li>`).join('');
+  document.getElementById('mechwhy').innerHTML =
+      '<p><b>Read the distinct count, not the occurrences.</b> They differ by roughly 2.7x, because '
+    + 'one repealed statute section is cited by many rules. The single worst case below is cited by '
+    + 'hundreds. Occurrences are the blast radius; distinct targets are the number of things to '
+    + 'actually resolve — and because they are so concentrated, fixing the top handful clears '
+    + 'thousands of documents.</p>'
+    + '<p><b>The magnitude is expected for a corpus this old.</b> Oregon has renumbered wholesale — '
+    + 'ORS 181 became 181A in 2015, ORS 279 split into 279A/B/C in 2003, and the 2015 '
+    + 'higher-education restructuring gutted ORS 351. Every rule written before those still cites '
+    + 'the old numbers. A corpus of 36,953 rules spanning decades showing <i>no</i> stale citations '
+    + 'would be the surprising result.</p>'
+    + '<p><b>Verified against the live source</b>, not just asserted: sampled flagged sections were '
+    + 'confirmed genuinely absent upstream, and a known-live control section was correctly not '
+    + 'flagged.</p>'
+    + '<p><b>Why code finds more than the models did.</b> These four types are deterministic — a '
+    + 'citation to a section that no longer exists is decidable without reading comprehension. The '
+    + 'frontier pilot reported 21 dead citations in total. Asking a model to eyeball them costs '
+    + 'money, can hallucinate, and finds fewer. The model\'s budget belongs on the other 71% of '
+    + 'candidate types: what a rule omits, adds without authority, or redefines.</p>'
+    + '<p><b>Causes:</b></p><ul>'+causes+'</ul>'
+    + '<p>'+esc(m.corpus_gap_note||'')+'</p>'
+    + '<p><b>Most-cited dead targets</b> — the triage order:</p>'
+    + '<table class="mini"><tr><th>cited section</th><th>rules citing it</th></tr>'+rows+'</table>';
+}
+
 const sel=document.getElementById('agencyFilter');
 for(const a of (DATA.all_agencies||[])){
   const opt=document.createElement('option');

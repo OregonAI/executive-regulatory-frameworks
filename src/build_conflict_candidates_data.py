@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Cache the conflict-candidates dataset from _meta/catalog/conflict-candidates.yml (see
+"""REGENERATION ORDER MATTERS. This embeds the mechanical scan's counts, so
+`detect_mechanical.py --write` must run BEFORE this script; otherwise the page shows the
+previous scan's numbers while claiming to be current. The --check gates catch it either
+way — this one goes stale the moment the mechanical catalog changes — but the correct
+order is: detect_mechanical --write, then this, then build_conflict_candidates.py.
+
+Cache the conflict-candidates dataset from _meta/catalog/conflict-candidates.yml (see
 that file's note — it's an AI-assisted pilot snapshot, not mechanically derived and not
 legally reviewed).
 
@@ -266,7 +272,23 @@ def compute(collect_ungrounded: list | None = None) -> dict:
 
     n_clean = sum(1 for ch in cat["chapters"] if not ch.get("candidates"))
     agency_names = {a["slug"]: a["name"] for ch in cat["chapters"] for a in ch["agency_list"]}
+
+    # The MECHANICAL pass, surfaced beside the model-derived candidates. Its counts are far
+    # larger and a reader who meets them without explanation will reasonably assume the
+    # corpus is broken — so the page carries the reasoning, not just the number.
+    mech_path = REPO_ROOT / "_meta/catalog/mechanical-findings.yml"
+    mech = None
+    if mech_path.is_file():
+        m = yaml.safe_load(mech_path.read_text())
+        mech = {"counts": m["counts"], "note": m["note"],
+                "by_cause": m.get("dead_citations_by_cause", {}),
+                "cause_meanings": m.get("cause_meanings", {}),
+                "corpus_gap_note": m.get("corpus_gap_note", ""),
+                "most_cited": (m.get("most_cited_dead_targets") or [])[:10],
+                "scanned_rules": m.get("scanned_rules")}
+
     return {
+        "mechanical": mech,
         "retrieved": cat["retrieved"],
         "note": cat["note"],
         "methodology": cat["methodology"],
