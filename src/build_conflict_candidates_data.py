@@ -165,10 +165,21 @@ def quote_is_grounded(quote: str, full_text: str, declared: str = "") -> bool:
 # An absence-claim asserts the source does NOT say something, so it can never match the
 # source. Shape-detected so it can be excluded from the ungrounded count rather than
 # silently inflating it.
+#
+# The frontmatter branch takes a DOTTED PATH (#67). It used to require the colon
+# immediately after the field name, so `relationships.implements: [..., ors-435.120];
+# body text cites only "42 CFR 435.926" ...` — an observation about frontmatter, exactly
+# what this branch is for — fell through and was counted as an ungrounded quote instead.
+# One quote in the catalog today (ORS 435, oar-461-135-0010), but the shape is what a
+# model naturally writes when told to cite a nested field, and the miscount is invisible
+# in the aggregate. Only the dotted SUFFIX is allowed; no field names were added on
+# speculation, because a name nobody has seen written would be an unmeasured widening of
+# the one bucket that excuses a quote from the grounding rate.
 _ABSENCE_RE = re.compile(
     r"^\(|"                                   # "(full text has no operative subsections)"
     r"^no\s|^none\b|"                         # "no end date", "no flexibility clause"
-    r"^(statutes_implemented|relationships|implemented_by|history)\s*:",  # frontmatter ref
+    r"^(statutes_implemented|relationships|implemented_by|history)"
+    r"(\.[a-z_]+)*\s*:",                      # frontmatter ref, incl. relationships.implements:
     re.I)
 
 
