@@ -34,7 +34,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from repo_lib import REPO_ROOT, extract_fulltext, parse_frontmatter
-from build_conflict_candidates_data import fold, quote_is_grounded
+from build_conflict_candidates_data import declared_authority, fold, quote_is_grounded
 
 GRAPH = REPO_ROOT / "_meta/graph.json"
 
@@ -110,15 +110,23 @@ def main():
     paths = {n["id"]: n["path"] for n in graph["nodes"]}
     cache: dict = {}
 
-    def full_text(doc_id: str) -> str:
+    # (unfolded '## Full text', folded declared statutes_implemented). The full text stays
+    # unfolded because `excerpt` shows it to the judge model and folding would strip the
+    # punctuation it needs to read; the declaration is only ever matched against, so it is
+    # kept in the same folded form quote_is_grounded expects (#62).
+    def sources(doc_id: str) -> tuple[str, str]:
         if doc_id not in cache:
             p = paths.get(doc_id)
             if not p:
-                cache[doc_id] = ""
+                cache[doc_id] = ("", "")
             else:
-                _, body = parse_frontmatter(REPO_ROOT / p)
-                cache[doc_id] = extract_fulltext(body) or ""
+                fm, body = parse_frontmatter(REPO_ROOT / p)
+                cache[doc_id] = (extract_fulltext(body) or "",
+                                 fold(declared_authority(fm)))
         return cache[doc_id]
+
+    def full_text(doc_id: str) -> str:
+        return sources(doc_id)[0]
 
     cands = []
     for cid, lst in json.loads(Path(args.inp).read_text())["results"].items():
@@ -162,8 +170,8 @@ def main():
 
         parts = [f"CLAIM: {c.get('summary','')}", ""]
         for d in c["documents"]:
-            ft = full_text(d["id"])
-            grounded = quote_is_grounded(d.get("quote", ""), fold(ft))
+            ft, declared = sources(d["id"])
+            grounded = quote_is_grounded(d.get("quote", ""), fold(ft), declared)
             parts += [f"--- {d['id']} ({d.get('citation','')}) ---",
                       f"quoted: {d.get('quote','')}",
                       f"quote present in this document: {'YES' if grounded else 'NO'}",
