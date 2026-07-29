@@ -100,6 +100,25 @@ EVAL_MODEL = "claude-haiku-4-5"
 # Well inside every current context window, leaving room for the instructions and a long
 # reply. Bundles above this are split.
 MAX_BUNDLE_TOKENS = 150_000
+
+# What each --tier actually SELECTS, printed with every estimate (#51).
+#
+# The trap this exists to close: `--tier cluster` and `--tier section` cover populations
+# that differ by 8.7x — 657 multi-agency sections against all 5,716 sections — and BOTH
+# emit bundles whose `mode` is the string "cluster". So a `--tier section` estimate prints
+# "requests: N (N cluster)", which reads as though the cluster tier produced it. Two
+# estimates taken at different tiers look like two measurements of the same thing, and the
+# dollar figure someone approves is attached to whichever one they happened to run.
+TIERS = ("section", "cluster", "pairwise", "all")
+TIER_MEANING = {
+    "cluster": "sections implemented by 2+ AGENCIES ONLY — the inter-agency class. "
+               "Single-agency sections are NOT included",
+    "section": "EVERY section that has implementing rules, single-agency ones included "
+               "(a superset of --tier cluster)",
+    "pairwise": "one rule against the statute section it implements, for sections the "
+                "cluster tier skips",
+    "all": "cluster where a section is multi-agency, pairwise elsewhere",
+}
 CHARS_PER_TOKEN = 4          # rough, and only used for splitting/estimating
 
 
@@ -1228,9 +1247,27 @@ def selftest() -> int:
         globals()["CATALOG"] = saved
         os.unlink(path)
 
+    # 12. #51: the tiers select different POPULATIONS, and every --tier choice must say
+    #     which. Asserted as invariants rather than fixed counts, so a corpus refresh
+    #     cannot turn this into a guard that only passed on one day's data.
+    #     A tier with no stated meaning needs no check here: --tier builds its own help
+    #     text from TIER_MEANING, so adding one without an entry raises KeyError while the
+    #     parser is being constructed, before any command can run. Asserting it again in
+    #     selftest would be a guard that cannot fire — it was written that way first, and
+    #     the proof run showed the KeyError arriving before selftest was ever reached.
+    graph = json.loads(GRAPH.read_text())
+    cl = build_bundles(["163", "328", "332"], graph, "cluster")
+    se = build_bundles(["163", "328", "332"], graph, "section")
+    if not all(b["n_agencies"] >= 2 for b in cl):
+        fails.append("--tier cluster returned a single-agency section; it is defined as "
+                     "the inter-agency class and its cost estimate assumes that")
+    if not {b["custom_id"] for b in cl} <= {b["custom_id"] for b in se}:
+        fails.append("--tier cluster is not a subset of --tier section; the two tiers no "
+                     "longer nest and no estimate taken at one bounds the other")
+
     for f in fails:
         print(f"FAIL {f}")
-    print(f"merge selftest: {11 - len(fails)}/11 passed")
+    print(f"merge selftest: {12 - len(fails)}/12 passed")
     return 1 if fails else 0
 
 
@@ -1252,10 +1289,8 @@ def main():
                     help="per-bundle input budget. Default suits a frontier model; a "
                          "local 7B at 32k context wants roughly 24000, leaving room "
                          "for the instructions and the reply.")
-    ap.add_argument("--tier", choices=["section", "cluster", "pairwise", "all"],
-                    default="cluster",
-                    help="cluster: multi-agency sections only (default, highest value per "
-                         "token); pairwise: one rule vs its statute section; all: both")
+    ap.add_argument("--tier", choices=TIERS, default="cluster",
+                    help="; ".join(f"{t}: {TIER_MEANING[t]}" for t in TIERS))
     ap.add_argument("--chapters", help="comma-separated ORS chapters (default: all unanalyzed)")
     ap.add_argument("--limit", type=int, help="cap the number of bundles (dev)")
     ap.add_argument("--dry-run", action="store_true",
@@ -1330,8 +1365,14 @@ def main():
         print(f"shared-authority chapters: {len(shared)}  already analyzed: "
               f"{len(set(shared) & done)}  to analyze: {len(chapters)}")
         modes = collections.Counter(b["mode"] for b in bundles)
-        print(f"tier: {args.tier}  ->  requests: {len(bundles):,} "
-              f"({', '.join(f'{v:,} {k}' for k, v in sorted(modes.items()))})")
+        # Say what this tier SELECTED, not just its name. `mode` is the bundle's SHAPE and
+        # is the string "cluster" under --tier section too, so printing it alone invites
+        # exactly the cross-tier comparison that produced #51.
+        print(f"tier: {args.tier} — {TIER_MEANING[args.tier]}")
+        n_multi = sum(1 for b in bundles if b.get("n_agencies", 0) >= 2)
+        print(f"requests: {len(bundles):,}  "
+              f"[{n_multi:,} multi-agency, {len(bundles) - n_multi:,} single-agency]  "
+              f"shapes: {', '.join(f'{v:,} {k}' for k, v in sorted(modes.items()))}")
         print(f"input tokens (rough, 4 chars/token): {tok:,}")
         print(f"oversized sections split into parts: "
               f"{len({b['section'] for b in split})} sections -> {len(split)} bundles "
