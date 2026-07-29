@@ -2340,32 +2340,11 @@ chapters:
       note: null
       by: null
       date: null
-  - summary: The rule creates a comprehensive regulatory framework for charter schools opening schools
-      in other school districts, but ORS 332.158(4) explicitly provides that 'The provisions of this section
-      do not apply to a public charter school.'
-    type: broadens
-    documents:
-    - id: ors-332.158
-      citation: ORS 332.158(4)
-      quote: The provisions of this section do not apply to a public charter school.
-    - id: oar-581-026-0600
-      citation: OAR 581-026-0600 (entire rule)
-      quote: 'Public Charter School Facility Location... The board of a school district that is not the
-        sponsoring school district of the public charter school may file a complaint with the Director
-        of the Oregon Department of Education or the director''s designee... if: (a) The public charter
-        school opens or operates a school or tutoring or testing facility within the boundaries of that
-        district'
-    run_id: haiku-v4-think-328332
-    model: claude-haiku-4-5-20251001
-    prompt_version: conflict-v4-escape-2026-07
-    confidence: null
-    severity: null
-    section: ors-332.158
-    triage:
-      status: unreviewed
-      note: null
-      by: null
-      date: null
+    corroborated_by:
+    - run_id: haiku-v4-think-328332
+      model: claude-haiku-4-5-20251001
+    - run_id: haiku-v5-think-328332
+      model: claude-haiku-4-5-20251001
   - summary: The rule requires the Oregon School for the Deaf (OSD) to develop, submit, test, and report
       HASS Plans, but the statute only requires this of school districts, education service districts,
       and public charter schools.
@@ -2447,30 +2426,6 @@ chapters:
     corroborated_by:
     - run_id: haiku-v5-think-328332
       model: claude-haiku-4-5-20251001
-  - summary: The rule declares it implements ORS 332.158, but that statute explicitly excludes public
-      charter schools from its scope, yet the rule applies specifically to public charter schools.
-    type: wrong_authority
-    documents:
-    - id: ors-332.158
-      citation: ORS 332.158(4)
-      quote: The provisions of this section do not apply to a public charter school.
-    - id: oar-581-026-0600
-      citation: OAR 581-026-0600, declared statutes_implemented and rule title
-      quote: 'declared statutes_implemented (frontmatter, not operative text): ORS 332.158, ORS 338
-
-
-        581-026-0600 Public Charter School Facility Location'
-    run_id: haiku-v5-think-328332
-    model: claude-haiku-4-5-20251001
-    prompt_version: conflict-v5-authority-2026-07
-    confidence: null
-    severity: null
-    section: ors-332.158
-    triage:
-      status: unreviewed
-      note: null
-      by: null
-      date: null
   - summary: The rule allows districts to restrict communication of test results to only 'affiliated'
       members, narrowing the statute's requirement to make results available to 'the public'.
     type: narrows
