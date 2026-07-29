@@ -98,7 +98,8 @@ PROMPT_VERSIONS = {"v2": "conflict-v2-2026-07", "v3": "conflict-v3-2026-07",
                    # that put the label and the value on one line, which is why one of
                    # them quotes the label. Leaving the string alone would have made two
                    # different experiments indistinguishable in the catalog.
-                   "v5": "conflict-v5-authority-2026-07b"}
+                   "v5": "conflict-v5-authority-2026-07b",
+                   "v6": "conflict-v6-both-sides-2026-07"}
 # Opus is the PRODUCTION path only — a full --tier section pass is 7,464 requests and
 # ~$154 of input at batch pricing, so it is not something to spend on an experiment.
 # EVALUATE WITH HAIKU instead (see EVAL_MODEL): measuring whether a prompt change helps
@@ -623,8 +624,36 @@ LOCAL_SYSTEM_V5 = LOCAL_SYSTEM_V4.replace(
     '"type":"one of the eight above, or other"',
     '"type":"one of the nine above, or other"')
 
+# v6 = v5 with wrong_authority required to cite BOTH SIDES (#70).
+#
+# A wrong_authority finding is about a rule AND the statute it wrongly claims. v5 asked
+# only for the rule, so in the first bulk run 196 of 308 such candidates (64%) cited one
+# document — against 0-9% for every other semantic type. Two consequences, both bad:
+#
+#   * The statute existed only in English. `authority_chain` cannot walk it, nothing can
+#     count it by chapter, and it cannot be checked against the rule's declared list —
+#     which is the entire point of the check.
+#   * Distinct findings about the same rule collapsed to the same one-document pair-set
+#     and became indistinguishable to candidate_fingerprint. 14 collisions blocked the
+#     cache build, and --dedupe could not fold them: #58's two-pair floor exists exactly
+#     to stop single-provision candidates being swallowed, so it declined — correctly.
+#
+# Stated as a hard requirement rather than a suggestion, because v5's wording was already
+# specific about WHAT to quote and still produced 64% under-citation. Naming the failure
+# is what the escape hatch taught us works better than naming the rule.
+LOCAL_SYSTEM_V6 = LOCAL_SYSTEM_V5.replace(
+    "              as statutes_implemented, not as rule text",
+    "              as statutes_implemented, not as rule text.\n"
+    "              A wrong_authority finding is about TWO documents and MUST list both\n"
+    "              in \"documents\": the rule, cited as statutes_implemented, AND the\n"
+    "              statute it wrongly claims, cited normally (e.g. \"ORS 183.415(9)\").\n"
+    "              Naming the statute only in \"summary\" is not enough. If you cannot\n"
+    "              identify which statute is wrongly claimed, this is not a\n"
+    "              wrong_authority finding — pick another type or report nothing")
+
 PROMPT_TEXTS = {"v2": LOCAL_SYSTEM, "v3": LOCAL_SYSTEM_V3,
-                "v4": LOCAL_SYSTEM_V4, "v5": LOCAL_SYSTEM_V5}
+                "v4": LOCAL_SYSTEM_V4, "v5": LOCAL_SYSTEM_V5,
+                "v6": LOCAL_SYSTEM_V6}
 
 
 def render_user(bundle: dict) -> str:
@@ -1159,11 +1188,21 @@ def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
             prior[candidate_fingerprint(ch["ors_chapter"], cand)] = cand.get("triage")
 
     fresh = collections.defaultdict(list)
+    undercited = []
     for cid, cands in results.items():
         b = by_id.get(cid)
         if b is None:
             continue
         for c in cands:
+            # #70. A wrong_authority claim is about a rule AND the statute it wrongly
+            # claims; one document cannot express it. Counted here, at ingest, rather
+            # than left for the cache builder — a paid run that produces a catalog which
+            # cannot be published is worth knowing about while the results are in hand,
+            # not after the batch is gone.
+            if (c.get("type") == "wrong_authority"
+                    and len({d.get("id") for d in (c.get("documents") or [])
+                             if isinstance(d, dict) and d.get("id")}) < 2):
+                undercited.append((b["section"], str(c.get("summary", ""))[:70]))
             entry = {
                 "summary": c.get("summary", ""),
                 # v3 asks which of the eight checks fired; v2 has no such field.
@@ -1254,6 +1293,22 @@ def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
             # Chapter-level run_id is the LAST run to touch the chapter. Per-candidate
             # run_id/model is the authoritative provenance; nothing reads this one.
             ch["run_id"] = run_id
+    if undercited:
+        # Loud, and never fatal. The candidates are real findings and the run was paid
+        # for; refusing the merge would throw away good data to punish a prompt defect.
+        # The cache builder is the hard gate, and it stays the hard gate — this only
+        # ensures nobody learns about it an hour later from a fingerprint collision.
+        print(f"\nWARNING (#70): {len(undercited)} wrong_authority candidate(s) cite only "
+              "one document, so the statute they claim is wrongly implemented exists only "
+              "in prose. authority_chain cannot walk it, and two such findings about the "
+              "same rule share a fingerprint — which blocks the cache build and cannot be "
+              "resolved by --dedupe.\n  Prompt v6 requires both sides. To repair an "
+              "existing run instead, add the claimed statute where it is verifiably in "
+              "the rule's declared statutes_implemented.", file=sys.stderr)
+        for sec, summary in undercited[:8]:
+            print(f"    {sec}: {summary}", file=sys.stderr)
+        if len(undercited) > 8:
+            print(f"    ... and {len(undercited) - 8} more", file=sys.stderr)
     cat["chapters"].sort(key=lambda c: str(c["ors_chapter"]))
     return cat
 
@@ -1768,9 +1823,41 @@ def selftest() -> int:
         fails.append("ClaudeBatchBackend.collect does not map the sanitised id back; "
                      "every result would be filed under an id no bundle has")
 
+    # 23. #70, the prompt half: v6 must actually require both sides for wrong_authority.
+    #     Asserted on the effect of the replace, not on the version merely existing —
+    #     a drifted anchor returns the string unchanged and v6 would silently be v5.
+    if "MUST list both" not in PROMPT_TEXTS["v6"]:
+        fails.append("v6 does not require wrong_authority to cite both documents; its "
+                     ".replace() anchor did not match and the version is a copy of v5")
+
+    # 24. #70, the ingest half: a wrong_authority candidate citing one document must be
+    #     REPORTED at merge time. Left only to the cache builder, the failure surfaces an
+    #     hour later as a fingerprint collision, after the batch results are gone.
+    import io, contextlib
+    fd, path = tempfile.mkstemp(suffix=".yml"); os.close(fd)
+    Path(path).write_text(yaml.safe_dump({"schema_version": 2, "chapters": []}))
+    saved = CATALOG
+    err = io.StringIO()
+    try:
+        globals()["CATALOG"] = Path(path)
+        with contextlib.redirect_stderr(err):
+            merge_into_catalog(
+                {"c1": [{"summary": "declares ORS 183.415(9) but the statute has (1)-(3)",
+                         "type": "wrong_authority",
+                         "documents": [{"id": "oar-137-003-0035",
+                                        "citation": "declared statutes_implemented"}]}]},
+                [{"custom_id": "c1", "ors_chapter": "183", "section": "ors-183.341",
+                  "partial": False, "rules": []}], "r", "m", "v6")
+    finally:
+        globals()["CATALOG"] = saved
+        os.unlink(path)
+    if "#70" not in err.getvalue():
+        fails.append("merge_into_catalog accepted a one-document wrong_authority candidate "
+                     "silently; the run reports success and the cache cannot be built")
+
     for f in fails:
         print(f"FAIL {f}")
-    print(f"merge selftest: {22 - len(fails)}/22 passed")
+    print(f"merge selftest: {24 - len(fails)}/24 passed")
     return 1 if fails else 0
 
 
@@ -1919,12 +2006,12 @@ def main():
     # provenance cannot drift apart. The local variant keeps v3's checks but not its
     # grading, which a 7B does not produce reliably (see LOCAL_SYSTEM).
     prompt_version = PROMPT_VERSIONS[args.prompt]
-    sys_prompt = SYSTEM_V3 if args.prompt in ("v3", "v4", "v5") else SYSTEM
+    sys_prompt = SYSTEM_V3 if args.prompt in ("v3", "v4", "v5", "v6") else SYSTEM
     local_prompt = PROMPT_TEXTS[args.prompt]
     # v4 differs from v3 only in the escape hatch, which lives in the LOCAL prompt text.
     # The frontier SYSTEM_V3 carries the same eight-type instruction, so v4 on a Claude
     # backend must use the local variant or the arm would silently be a v3 rerun.
-    if args.prompt in ("v4", "v5"):
+    if args.prompt in ("v4", "v5", "v6"):
         sys_prompt = PROMPT_TEXTS[args.prompt]
 
     status: dict | None = None      # the batch-collect path reports none; see write_run
