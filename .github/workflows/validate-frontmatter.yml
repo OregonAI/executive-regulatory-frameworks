@@ -47,6 +47,15 @@ jobs:
       # no network, no catalog write.
       - name: Conflict-catalog merge must not drop prior candidates
         run: python3 src/analyze_conflicts.py --selftest
+      # The measurement side of the same pipeline, and its failures are quieter than the
+      # merge's: a recall number computed against the wrong ground truth, or a per-type
+      # table built from hand labels attached to the wrong candidates, is a confident
+      # wrong answer rather than an error. Positional labels were landing on the correct
+      # candidate for 4 of 137 (#64) with nothing to show for it. Needs full git history
+      # — it re-derives the labels from the labelling commit — which this job already
+      # checks out (fetch-depth: 0).
+      - name: Conflict evaluation must measure against pinned ground truth
+        run: python3 src/eval_conflicts.py --selftest
 
       # --- generated-file staleness gates (moderate; every run) ---
       - name: Relationship graph must be current

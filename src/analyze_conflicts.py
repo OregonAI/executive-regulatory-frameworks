@@ -1036,6 +1036,66 @@ def dedupe_catalog(cat: dict) -> list:
     return merges
 
 
+# The bundle fields `merge_into_catalog` actually reads. Persisting exactly these — and
+# rule IDs in place of rule TEXT — is what makes a saved run re-mergeable without the
+# corpus being byte-identical to what the run saw. `len(b["rules"])` is the only use of
+# the rules list, so a list of ids preserves it.
+_RUN_BUNDLE_FIELDS = ("custom_id", "ors_chapter", "section", "partial", "part", "n_parts")
+
+
+def write_run(run_id: str, model: str, prompt_version: str, thinking: int, tier: str,
+              bundles: list, results: dict, status: dict | None) -> Path:
+    """Persist a run's raw model output BEFORE anything consumes it, and return the path.
+
+    Why this exists (#66). `main()` used to hand `results` straight to
+    `merge_into_catalog` and write the catalog, so the model's reply existed only inside
+    one process. eval_conflicts.py has done the opposite from the start and records why —
+    "a shape bug in post-processing already destroyed one 60-minute run; inference is the
+    expensive, unrepeatable part and must never depend on the cheap part working" — and
+    that argument is stronger here, because this is the path that spends money.
+
+    Concretely: the haiku-v4 and haiku-v5 arms were unrescoreable when the scorer changed
+    twice in a week (#58, #63). Reconstructing them from the catalog was lossy in exactly
+    the way that mattered — every candidate the merge folded into an existing finding
+    survives only as a `corroborated_by` stamp with no summary, type, or citations, and
+    all six of v4's rediscoveries were stamps.
+
+    Bundles are stored WITHOUT statute or rule text: that is megabytes of corpus already
+    committed to this repo, and storing it again would make the artifact large enough that
+    someone would be tempted not to keep it."""
+    STATE.mkdir(parents=True, exist_ok=True)
+    path = STATE / f"raw-{run_id}.json"
+    path.write_text(json.dumps({
+        "run_id": run_id, "model": model, "prompt_version": prompt_version,
+        "thinking": thinking, "tier": tier, "saved": date.today().isoformat(),
+        # None, not {}, on the batch-collect path: that path produces no per-bundle
+        # status, and inventing "ok" for every bundle would turn an unknown into a claim.
+        "status": status,
+        "bundles": [{**{k: b[k] for k in _RUN_BUNDLE_FIELDS},
+                     "rules": [r["id"] for r in b["rules"]]} for b in bundles],
+        "results": results,
+    }, indent=1, ensure_ascii=False), encoding="utf-8")
+    return path
+
+
+def read_run(path) -> dict:
+    """Load a saved run. Fails loudly on a file missing anything the merge needs, rather
+    than merging a partial run and reporting success."""
+    d = json.loads(Path(path).read_text())
+    missing = [k for k in ("run_id", "model", "prompt_version", "bundles", "results")
+               if d.get(k) is None]
+    if missing:
+        raise SystemExit(f"{path}: saved run is missing {missing} — it cannot be merged.")
+    for b in d["bundles"]:
+        absent = [k for k in (*_RUN_BUNDLE_FIELDS, "rules") if k not in b]
+        if absent:
+            raise SystemExit(
+                f"{path}: bundle {b.get('custom_id')!r} is missing {absent}. The saved "
+                "shape predates the fields merge_into_catalog reads; re-run the analysis "
+                "or reconstruct the bundle list with the run's original --chapters/--tier.")
+    return d
+
+
 def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
                        prompt_version: str | None = None, supersede: bool = False) -> dict:
     """Fold new candidates into the catalog, PRESERVING existing triage.
@@ -1047,6 +1107,21 @@ def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
     run words its summary differently."""
     cat = yaml.safe_load(CATALOG.read_text())
     by_id = {b["custom_id"]: b for b in bundles}
+
+    # A result whose custom_id names no bundle CANNOT be merged — there is no section or
+    # chapter to file it under. It used to be skipped in silence, which is the worst
+    # available behaviour on the paid path: `--collect BATCH_ID` rebuilds the bundle list
+    # from whatever --chapters/--tier/--limit are on the command line rather than from the
+    # batch's own state file, so a collect run with different arguments discards an entire
+    # submitted batch and prints "merged 0 candidate(s)". Reconstructing the list properly
+    # is #68; refusing to lose findings quietly is this line.
+    orphans = sorted(set(results) - set(by_id))
+    if orphans:
+        raise SystemExit(
+            f"{len(orphans)} of {len(results)} result(s) name a bundle that is not in "
+            f"this invocation's bundle list, e.g. {orphans[:3]} — they would be dropped "
+            "with no error. Re-run with the SAME --chapters/--tier/--limit the run used, "
+            "or re-merge from the saved run file with --remerge.")
 
     prior = {}
     for ch in cat["chapters"]:
@@ -1166,7 +1241,7 @@ def selftest() -> int:
     Runs against synthetic bundles/results, so it needs no model, no network and no
     catalog write, and is safe in CI.
     """
-    import copy, tempfile, os
+    import copy, tempfile, os, shutil
     global CATALOG
     fails = []
 
@@ -1547,9 +1622,79 @@ def selftest() -> int:
         fails.append("a one-citation candidate was stamped as corroborating a finding it "
                      "shares a single provision with")
 
+    # 19. #66: a saved run must be sufficient to reproduce its own merge. A raw file that
+    #     is written but cannot be replayed is a comfort, not a backup — and the point of
+    #     writing it is that the merge is the code most likely to need fixing while being
+    #     the code that consumes its only input. Asserted as EQUALITY with the live merge,
+    #     not as "the file exists": dropping any field merge_into_catalog reads must fail.
+    #     ONE OF THE TWO BUNDLES IS PARTIAL, and that is not decoration. With a single
+    #     whole-section bundle the fixture passed with `n_parts` deleted from
+    #     _RUN_BUNDLE_FIELDS, because merge_into_catalog only reads `part`/`n_parts` when
+    #     `partial` is true — so the round-trip could not tell a complete saved shape from
+    #     an incomplete one. Every field in the constant is load-bearing for this pair.
+    global STATE
+    live_bundles = [{"custom_id": "c1", "ors_chapter": "291", "section": "ors-291.047",
+                     "partial": False, "part": 0, "n_parts": 1,
+                     "rules": [{"id": "oar-125-055-0030", "title": "t", "text": "x",
+                                "declares": ""}],
+                     "statute": "S", "est_tokens": 1, "mode": "cluster"},
+                    {"custom_id": "c2", "ors_chapter": "291", "section": "ors-291.049",
+                     "partial": True, "part": 1, "n_parts": 3,
+                     "rules": [{"id": "oar-125-055-0040", "title": "t", "text": "x",
+                                "declares": ""}],
+                     "statute": "S", "est_tokens": 1, "mode": "cluster"}]
+    live_results = {"c1": [candidate("oar-125-055-0030", "OAR 125-055-0030(2)")],
+                    "c2": [candidate("oar-125-055-0040", "OAR 125-055-0040(1)")]}
+
+    def merge_with(bundles, results):
+        fd, path = tempfile.mkstemp(suffix=".yml"); os.close(fd)
+        Path(path).write_text(yaml.safe_dump(copy.deepcopy(base)))
+        saved = CATALOG
+        try:
+            globals()["CATALOG"] = Path(path)
+            return merge_into_catalog(results, bundles, "gemma-run", "gemma4:12b", "v2")
+        finally:
+            globals()["CATALOG"] = saved
+            os.unlink(path)
+
+    tmpdir = tempfile.mkdtemp()
+    saved_state = STATE
+    try:
+        globals()["STATE"] = Path(tmpdir)
+        p = write_run("selftest", "gemma4:12b", "v2", 0, "cluster",
+                      live_bundles, live_results, {"c1": {"state": "ok"}})
+        run = read_run(p)
+    finally:
+        globals()["STATE"] = saved_state
+        shutil.rmtree(tmpdir, ignore_errors=True)
+    try:
+        replayed = merge_with(run["bundles"], run["results"])
+    except Exception as e:                      # noqa: BLE001 — a missing field lands here
+        replayed = None
+        fails.append(f"a saved run cannot be re-merged at all ({type(e).__name__}: "
+                     f"{e}); the raw file is not a usable backup of a paid run")
+    if replayed is not None and replayed != merge_with(live_bundles, live_results):
+        fails.append("re-merging a saved run does not reproduce the merge it was saved "
+                     "from; the raw file is not a usable backup of a paid run")
+    if any("text" in r for b in run["bundles"] for r in b["rules"] if isinstance(r, dict)):
+        fails.append("the saved run carries rule TEXT; it duplicates committed corpus and "
+                     "grows until someone stops keeping these files")
+
+    # 20. A result whose custom_id names no bundle must STOP the merge, not vanish from
+    #     it. `--collect` rebuilds the bundle list from the command line rather than from
+    #     the batch's own state file (#68), so a collect run with different --chapters or
+    #     --tier silently discarded an entire submitted batch and printed success.
+    try:
+        merge_with(live_bundles, {"c1": [], "c-not-a-bundle": [
+            candidate("oar-125-055-0030", "OAR 125-055-0030(2)")]})
+        fails.append("a result naming an unknown bundle was dropped without an error; a "
+                     "mis-invoked --collect loses a paid batch and reports success")
+    except SystemExit:
+        pass
+
     for f in fails:
         print(f"FAIL {f}")
-    print(f"merge selftest: {18 - len(fails)}/18 passed")
+    print(f"merge selftest: {20 - len(fails)}/20 passed")
     return 1 if fails else 0
 
 
@@ -1597,7 +1742,32 @@ def main():
     ap.add_argument("--dedupe", action="store_true",
                     help="fold duplicates already in the catalog into their originals "
                          "(#58), print what changed and exit. Use --dry-run to preview.")
+    ap.add_argument("--remerge", metavar="PATH",
+                    help="re-merge a saved run from _meta/.cache/conflict-runs/raw-*.json "
+                         "instead of calling a model. The merge is the code most likely "
+                         "to need fixing and it is the code that consumes its own only "
+                         "input, so a fixed merge must be replayable without re-paying "
+                         "for inference (#66).")
     args = ap.parse_args()
+
+    if args.remerge:
+        run = read_run(args.remerge)
+        cat = merge_into_catalog(run["results"], run["bundles"], run["run_id"],
+                                 run["model"], run["prompt_version"],
+                                 supersede=args.supersede)
+        n = sum(len(v) for v in run["results"].values())
+        if args.dry_run:
+            print(f"{n} candidate(s) from {len(run['results'])} bundle(s) of run "
+                  f"{run['run_id']!r} would merge to "
+                  f"{sum(len(c.get('candidates') or []) for c in cat['chapters'])} "
+                  "catalog candidates.\nnothing written — this is --dry-run.")
+            sys.exit(0)
+        CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True,
+                                          width=100))
+        print(f"re-merged {n} candidate(s) from run {run['run_id']!r} "
+              f"({run['model']}, {run['prompt_version']}) into "
+              f"{CATALOG.relative_to(REPO_ROOT)}")
+        sys.exit(0)
 
     if args.dedupe:
         cat = yaml.safe_load(CATALOG.read_text())
@@ -1681,6 +1851,7 @@ def main():
     if args.prompt in ("v4", "v5"):
         sys_prompt = PROMPT_TEXTS[args.prompt]
 
+    status: dict | None = None      # the batch-collect path reports none; see write_run
     if args.backend == "claude-sync":
         backend = ClaudeSyncBackend(model, sys_prompt, prompt_version,
                                     thinking=args.thinking)
@@ -1704,6 +1875,10 @@ def main():
         results, status = LocalBackend(model, args.local_url,
                                        system=local_prompt).run(bundles)
         _report_status(status)
+
+    raw_path = write_run(args.run_id, model, prompt_version, args.thinking, args.tier,
+                         bundles, results, status)
+    print(f"raw model output saved: {raw_path.relative_to(REPO_ROOT)}", file=sys.stderr)
 
     cat = merge_into_catalog(results, bundles, args.run_id, model, prompt_version,
                              supersede=args.supersede)
