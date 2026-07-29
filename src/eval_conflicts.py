@@ -237,7 +237,7 @@ def main():
                     help="calibrate on the first N eval chapters before the full run")
     ap.add_argument("--limit-bundles", type=int)
     ap.add_argument("--dry-run", action="store_true")
-    ap.add_argument("--prompt", choices=["v2", "v3"], default="v2",
+    ap.add_argument("--prompt", choices=["v2", "v3", "v4"], default="v2",
                     help="which local prompt to evaluate; run both to compare")
     ap.add_argument("--from-raw", metavar="PATH",
                     help="score an existing results JSON instead of running inference "
@@ -294,7 +294,8 @@ def main():
                 status[cid] = {"state": "error"}
         args.model = raw.get("model", args.model)
     else:
-        sys_prompt = AC.LOCAL_SYSTEM_V3 if args.prompt == "v3" else AC.LOCAL_SYSTEM
+        sys_prompt = {"v2": AC.LOCAL_SYSTEM, "v3": AC.LOCAL_SYSTEM_V3,
+                      "v4": AC.LOCAL_SYSTEM_V4}[args.prompt]
         results, status = AC.LocalBackend(args.model, args.local_url,
                                           max_tokens=args.max_output_tokens,
                                           system=sys_prompt).run(bundles)

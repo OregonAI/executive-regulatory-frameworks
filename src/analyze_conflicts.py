@@ -87,7 +87,8 @@ PROMPT_VERSION = "conflict-v2-2026-07"
 # Both are kept so a rewrite can be MEASURED against the prompt it replaces rather than
 # swapped in on the strength of its own reasoning; --prompt selects, and the choice is
 # recorded per candidate so mixed catalogs stay attributable.
-PROMPT_VERSIONS = {"v2": "conflict-v2-2026-07", "v3": "conflict-v3-2026-07"}
+PROMPT_VERSIONS = {"v2": "conflict-v2-2026-07", "v3": "conflict-v3-2026-07",
+                   "v4": "conflict-v4-escape-2026-07"}
 # Opus is the PRODUCTION path only — a full --tier section pass is 7,464 requests and
 # ~$154 of input at batch pricing, so it is not something to spend on an experiment.
 # EVALUATE WITH HAIKU instead (see EVAL_MODEL): measuring whether a prompt change helps
@@ -514,6 +515,29 @@ Reply with ONLY this JSON and nothing else:
 {"candidates":[{"summary":"one sentence","type":"one of the eight above","documents":[{"id":"exact id","citation":"e.g. ORS 291.047(1)","quote":"exact words"}]}]}"""
 
 
+
+# v4 = v3 with an ESCAPE HATCH. Identical checks, identical prohibitions, one difference:
+# a finding that fits none of the eight may still be reported, typed "other".
+#
+# THE HYPOTHESIS THIS ISOLATES. v3 says "Report a candidate ONLY if one of these is true."
+# A model that sees something wrong but cannot map it onto a label has exactly two options
+# under that instruction — mislabel it, or stay silent — and a careful model stays silent.
+# Haiku produced ONE candidate from nine bundles under v3, and it was correct. That is the
+# signature of suppression rather than blindness.
+#
+# If recall rises under v4 while grounding holds, the taxonomy was the constraint and the
+# fix is free. If recall does not move, the eight labels are not what is limiting recall
+# and only a stronger model will help — which is a much more expensive answer, and worth
+# knowing before paying for it.
+LOCAL_SYSTEM_V4 = LOCAL_SYSTEM_V3.replace(
+    'Report a candidate ONLY if one of these is true. Name which one in "type".',
+    'Report a candidate if one of these is true. Name which one in "type".\n\n'
+    'If you find a real inconsistency that fits NONE of them, report it anyway with\n'
+    'type "other" and say plainly what the inconsistency is. Do not force it into a\n'
+    'label that does not fit, and do not stay silent because no label matches.'
+).replace(
+    '"type":"one of the eight above"', '"type":"one of the eight above, or other"')
+
 def render_user(bundle: dict) -> str:
     parts = [f"# ORS statute section: {bundle['section']} — {bundle['section_title']}", "",
              bundle["statute"], "",
@@ -620,6 +644,85 @@ class ClaudeBatchBackend:
             for cid, why in failed[:20]:
                 print(f"  {cid}: {why}", file=sys.stderr)
         return out
+
+
+
+class ClaudeSyncBackend:
+    """Claude over the ordinary Messages API, one request at a time.
+
+    WHY THIS EXISTS ALONGSIDE THE BATCH BACKEND. Batch is half price and right for a bulk
+    pass, but it is submit-then-collect with no latency guarantee — useless for an
+    experiment where the whole point is a fast read on whether a prompt change moved
+    recall. This runs inline, so a 9-bundle eval answers in a minute.
+
+    Same interface, same parsing, same retry-once-with-force-JSON behaviour as the local
+    backend, so results are directly comparable across backends rather than confounded by
+    how the reply was extracted.
+    """
+    name = "claude-sync"
+
+    def __init__(self, model: str, system: str | None = None,
+                 prompt_version: str | None = None, thinking: int = 0,
+                 max_tokens: int = 8000):
+        try:
+            import anthropic
+        except ImportError:
+            sys.exit("--backend claude-sync needs the Anthropic SDK: pip install anthropic")
+        if not os.environ.get("ANTHROPIC_API_KEY"):
+            sys.exit("--backend claude-sync needs ANTHROPIC_API_KEY in the environment.")
+        self.client = anthropic.Anthropic()
+        self.system = system or SYSTEM
+        self.model = model
+        self.prompt_version = prompt_version or PROMPT_VERSION
+        self.thinking = thinking
+        # Thinking draws on the same budget as the reply, so the ceiling must clear it.
+        self.max_tokens = max(max_tokens, thinking + 4000) if thinking else max_tokens
+
+    def submit(self, bundles):
+        raise SystemExit("--backend claude-sync runs inline; use it without --submit/--collect.")
+
+    def _once(self, bundle: dict) -> str:
+        kw = {"model": self.model, "max_tokens": self.max_tokens,
+              # Cached so repeated arms of an experiment do not pay for the prefix each time.
+              "system": [{"type": "text", "text": self.system,
+                          "cache_control": {"type": "ephemeral"}}],
+              "messages": [{"role": "user", "content": render_user(bundle)}]}
+        if self.thinking:
+            # temperature must be 1 with thinking on, so it is simply not sent.
+            kw["thinking"] = {"type": "enabled", "budget_tokens": self.thinking}
+        msg = self.client.messages.create(**kw)
+        # Keep TEXT blocks only: with thinking on the reply also carries thinking blocks,
+        # and concatenating those would hand unparseable prose to the JSON parser.
+        return "".join(b.text for b in msg.content if getattr(b, "type", "") == "text")
+
+    def analyze(self, bundles: list):
+        out, status = {}, {}
+        for i, b in enumerate(bundles, 1):
+            cid = b["custom_id"]
+            try:
+                text = self._once(b)
+                out[cid] = parse_reply(text)
+                status[cid] = {"state": "ok", "attempts": 1,
+                               "n_candidates": len(out[cid])}
+            except (ValueError, json.JSONDecodeError) as e:
+                status[cid] = {"state": "parse_failed", "detail": str(e)[:160],
+                               "attempts": 1}
+            except Exception as e:                                   # noqa: BLE001
+                status[cid] = {"state": "error", "detail": f"{type(e).__name__}: {e}"[:160]}
+            st = status[cid]["state"]
+            print(f"  [{i}/{len(bundles)}] {cid} ({b['est_tokens']:,} tok) "
+                  f"{status[cid].get('n_candidates', 0)} cand"
+                  + ("" if st == "ok" else f"  <-- {st}"), file=sys.stderr)
+        return out, status
+
+
+# Backends that do their work in one invocation. `claude` is the odd one out — it is
+# submit-then-collect, so with no --submit/--collect there is genuinely nothing to do but
+# price the run. Anything not listed here is treated as batch, and that default is what
+# made `--backend claude-sync` print a cost estimate and exit 0 having called nothing:
+# a run indistinguishable from a successful one, except that no analysis happened.
+# Module-level so selftest can check it against what the classes actually do.
+INLINE_BACKENDS = {"local", "claude-sync"}
 
 
 class LocalBackend:
@@ -906,19 +1009,51 @@ def selftest() -> int:
     if ch["candidates"]:
         fails.append("--supersede did not replace")
 
+    # 7. THE SILENT NO-OP. `--backend claude-sync` printed a cost estimate and exited 0
+    #    for its entire existence, because the dry-run guard treated every backend except
+    #    `local` as submit-then-collect. Nothing failed; the run simply analyzed nothing
+    #    and said so in words easy to read as a successful dry-run you asked for.
+    #    A backend that REFUSES --submit is by definition inline, so that fact and the
+    #    INLINE_BACKENDS set are checked against each other here rather than both being
+    #    maintained by hand and left to drift the next time a backend is added.
+    import inspect
+    for cls in (ClaudeSyncBackend, LocalBackend, ClaudeBatchBackend):
+        refuses = "runs inline" in inspect.getsource(cls.submit)
+        listed = cls.name in INLINE_BACKENDS
+        if refuses != listed:
+            fails.append(
+                f"{cls.name}: submit() {'refuses' if refuses else 'works'}, but it is "
+                f"{'' if listed else 'NOT '}in INLINE_BACKENDS. If the set is the wrong "
+                "one, the run reports success having analyzed nothing")
+
+    # 8. An inline branch must actually CALL its backend. Fixing #7 exposed the next
+    #    layer: the claude-sync branch constructed ClaudeSyncBackend and never invoked
+    #    analyze(), so `results` was unbound. The crash was the lucky outcome — had
+    #    `results` been bound anywhere earlier, the run would have merged an empty
+    #    result set into the catalog and reported success.
+    src = inspect.getsource(main)
+    branch = src.split('== "claude-sync"')
+    if len(branch) > 1 and ".analyze(" not in branch[1][:400]:
+        fails.append("main()'s claude-sync branch builds a backend but never calls "
+                     "analyze(); the run cannot produce candidates")
+
     for f in fails:
         print(f"FAIL {f}")
-    print(f"merge selftest: {6 - len(fails)}/6 passed")
+    print(f"merge selftest: {8 - len(fails)}/8 passed")
     return 1 if fails else 0
 
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--prompt", choices=["v2", "v3"], default="v2",
+    ap.add_argument("--prompt", choices=["v2", "v3", "v4"], default="v2",
                     help="v2 = original; v3 = eight named semantic checks (default v2 "
                          "until v3 is measured against it)")
-    ap.add_argument("--backend", choices=["claude", "local"], default="claude")
+    ap.add_argument("--backend", choices=["claude", "claude-sync", "local"],
+                    default="claude",
+                    help="claude = Batch API (half price, submit/collect); "
+                         "claude-sync = ordinary Messages API, inline, for "
+                         "experiments where latency matters more than cost")
     ap.add_argument("--model", default=None, help=f"default: {DEFAULT_MODEL} (claude)")
     ap.add_argument("--local-url", default="http://localhost:11434/v1",
                     help="OpenAI-compatible base url for --backend local")
@@ -971,9 +1106,11 @@ def main():
     if args.limit:
         bundles = bundles[:args.limit]
 
-    model = args.model or (DEFAULT_MODEL if args.backend == "claude" else "llama3.1:8b")
+    model = args.model or (DEFAULT_MODEL if args.backend.startswith("claude")
+                           else "llama3.1:8b")
 
-    if args.dry_run or not (args.submit or args.collect or args.backend == "local"):
+    if args.dry_run or not (args.submit or args.collect
+                            or args.backend in INLINE_BACKENDS):
         tok = sum(b["est_tokens"] for b in bundles)
         split = [b for b in bundles if b["partial"]]
         print(f"shared-authority chapters: {len(shared)}  already analyzed: "
@@ -998,10 +1135,21 @@ def main():
     # provenance cannot drift apart. The local variant keeps v3's checks but not its
     # grading, which a 7B does not produce reliably (see LOCAL_SYSTEM).
     prompt_version = PROMPT_VERSIONS[args.prompt]
-    sys_prompt = SYSTEM_V3 if args.prompt == "v3" else SYSTEM
-    local_prompt = LOCAL_SYSTEM_V3 if args.prompt == "v3" else LOCAL_SYSTEM
+    sys_prompt = SYSTEM_V3 if args.prompt in ("v3", "v4") else SYSTEM
+    local_prompt = {"v2": LOCAL_SYSTEM, "v3": LOCAL_SYSTEM_V3,
+                    "v4": LOCAL_SYSTEM_V4}[args.prompt]
+    # v4 differs from v3 only in the escape hatch, which lives in the LOCAL prompt text.
+    # The frontier SYSTEM_V3 carries the same eight-type instruction, so v4 on a Claude
+    # backend must use the local variant or the arm would silently be a v3 rerun.
+    if args.prompt == "v4":
+        sys_prompt = LOCAL_SYSTEM_V4
 
-    if args.backend == "claude":
+    if args.backend == "claude-sync":
+        backend = ClaudeSyncBackend(model, sys_prompt, prompt_version,
+                                    thinking=args.thinking)
+        results, status = backend.analyze(bundles)
+        _report_status(status)
+    elif args.backend == "claude":
         backend = ClaudeBatchBackend(model, sys_prompt, prompt_version, thinking=args.thinking)
         if args.submit:
             STATE.mkdir(parents=True, exist_ok=True)
