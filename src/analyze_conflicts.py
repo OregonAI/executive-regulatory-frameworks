@@ -65,6 +65,7 @@ import argparse
 import collections
 import json
 import os
+import hashlib
 import re
 import sys
 import urllib.request
@@ -97,7 +98,8 @@ PROMPT_VERSIONS = {"v2": "conflict-v2-2026-07", "v3": "conflict-v3-2026-07",
                    # that put the label and the value on one line, which is why one of
                    # them quotes the label. Leaving the string alone would have made two
                    # different experiments indistinguishable in the catalog.
-                   "v5": "conflict-v5-authority-2026-07b"}
+                   "v5": "conflict-v5-authority-2026-07b",
+                   "v6": "conflict-v6-both-sides-2026-07"}
 # Opus is the PRODUCTION path only — a full --tier section pass is 7,464 requests and
 # ~$154 of input at batch pricing, so it is not something to spend on an experiment.
 # EVALUATE WITH HAIKU instead (see EVAL_MODEL): measuring whether a prompt change helps
@@ -622,8 +624,36 @@ LOCAL_SYSTEM_V5 = LOCAL_SYSTEM_V4.replace(
     '"type":"one of the eight above, or other"',
     '"type":"one of the nine above, or other"')
 
+# v6 = v5 with wrong_authority required to cite BOTH SIDES (#70).
+#
+# A wrong_authority finding is about a rule AND the statute it wrongly claims. v5 asked
+# only for the rule, so in the first bulk run 196 of 308 such candidates (64%) cited one
+# document — against 0-9% for every other semantic type. Two consequences, both bad:
+#
+#   * The statute existed only in English. `authority_chain` cannot walk it, nothing can
+#     count it by chapter, and it cannot be checked against the rule's declared list —
+#     which is the entire point of the check.
+#   * Distinct findings about the same rule collapsed to the same one-document pair-set
+#     and became indistinguishable to candidate_fingerprint. 14 collisions blocked the
+#     cache build, and --dedupe could not fold them: #58's two-pair floor exists exactly
+#     to stop single-provision candidates being swallowed, so it declined — correctly.
+#
+# Stated as a hard requirement rather than a suggestion, because v5's wording was already
+# specific about WHAT to quote and still produced 64% under-citation. Naming the failure
+# is what the escape hatch taught us works better than naming the rule.
+LOCAL_SYSTEM_V6 = LOCAL_SYSTEM_V5.replace(
+    "              as statutes_implemented, not as rule text",
+    "              as statutes_implemented, not as rule text.\n"
+    "              A wrong_authority finding is about TWO documents and MUST list both\n"
+    "              in \"documents\": the rule, cited as statutes_implemented, AND the\n"
+    "              statute it wrongly claims, cited normally (e.g. \"ORS 183.415(9)\").\n"
+    "              Naming the statute only in \"summary\" is not enough. If you cannot\n"
+    "              identify which statute is wrongly claimed, this is not a\n"
+    "              wrong_authority finding — pick another type or report nothing")
+
 PROMPT_TEXTS = {"v2": LOCAL_SYSTEM, "v3": LOCAL_SYSTEM_V3,
-                "v4": LOCAL_SYSTEM_V4, "v5": LOCAL_SYSTEM_V5}
+                "v4": LOCAL_SYSTEM_V4, "v5": LOCAL_SYSTEM_V5,
+                "v6": LOCAL_SYSTEM_V6}
 
 
 def render_user(bundle: dict) -> str:
@@ -677,6 +707,26 @@ def parse_reply(text: str) -> list:
 
 # --------------------------------------------------------------------------- backends
 
+def api_custom_id(custom_id: str) -> str:
+    """A bundle's custom_id in the form the Batch API accepts: `^[a-zA-Z0-9_-]{1,64}$`.
+
+    Our ids are `ors-183.341#0` — section, then part — and both the '.' and the '#'
+    are rejected, so **the batch path had never successfully submitted anything**; it
+    400'd on request 0 after building every bundle. The sync path was unaffected
+    because it never sends a custom_id at all, which is why nine months of measurement
+    happened on the expensive-per-token path.
+
+    Applied on BOTH sides. collect() maps results back through this same function
+    rather than inverting it, so no reverse parse is needed and no assumption is made
+    about which characters survived. Long ids keep a hash tail because truncation alone
+    would collide `ors-183.341#0` with `ors-183.341#1` at exactly the wrong moment —
+    silently merging two parts of one oversized section."""
+    safe = re.sub(r"[^a-zA-Z0-9_-]", "_", custom_id)
+    if len(safe) > 64:
+        safe = safe[:55] + "_" + hashlib.sha256(custom_id.encode()).hexdigest()[:8]
+    return safe
+
+
 class ClaudeBatchBackend:
     """Anthropic Batch API. 50% off list, <=100k requests per batch."""
     name = "claude"
@@ -694,6 +744,11 @@ class ClaudeBatchBackend:
         self.client = anthropic.Anthropic()
         self.system = system or SYSTEM
         self.prompt_version = prompt_version or PROMPT_VERSION
+        # Accepted as a parameter but never stored, so `--backend claude --thinking N`
+        # raised AttributeError inside submit() — after the bundles were built and
+        # immediately before the paid call. The batch path had never been run with
+        # thinking on; the sync path had the mirror-image defect (#59).
+        self.thinking = thinking
 
     def submit(self, bundles: list) -> str:
         # EXTENDED THINKING, off unless asked for. The conflict question is exactly the
@@ -713,7 +768,7 @@ class ClaudeBatchBackend:
             extra["thinking"] = {"type": "enabled", "budget_tokens": self.thinking}
         max_tokens = max(8000, self.thinking + 4000) if self.thinking else 8000
         reqs = [{
-            "custom_id": b["custom_id"],
+            "custom_id": api_custom_id(b["custom_id"]),
             "params": {
                 "model": self.model,
                 "max_tokens": max_tokens,
@@ -727,11 +782,15 @@ class ClaudeBatchBackend:
         batch = self.client.messages.batches.create(requests=reqs)
         return batch.id
 
-    def collect(self, batch_id: str) -> dict:
+    def collect(self, batch_id: str, bundles: list | None = None) -> dict:
+        # Results come back under the SANITISED id, so map each one home through the
+        # same function that produced it. Without `bundles` the raw api id is returned
+        # and every downstream lookup by real custom_id misses.
+        home = {api_custom_id(b["custom_id"]): b["custom_id"] for b in (bundles or [])}
         out, failed = {}, []
         # Keyed by custom_id, never by position — the API makes no ordering promise.
         for result in self.client.messages.batches.results(batch_id):
-            cid = result.custom_id
+            cid = home.get(result.custom_id, result.custom_id)
             if result.result.type != "succeeded":
                 failed.append((cid, result.result.type))
                 continue
@@ -1036,6 +1095,66 @@ def dedupe_catalog(cat: dict) -> list:
     return merges
 
 
+# The bundle fields `merge_into_catalog` actually reads. Persisting exactly these — and
+# rule IDs in place of rule TEXT — is what makes a saved run re-mergeable without the
+# corpus being byte-identical to what the run saw. `len(b["rules"])` is the only use of
+# the rules list, so a list of ids preserves it.
+_RUN_BUNDLE_FIELDS = ("custom_id", "ors_chapter", "section", "partial", "part", "n_parts")
+
+
+def write_run(run_id: str, model: str, prompt_version: str, thinking: int, tier: str,
+              bundles: list, results: dict, status: dict | None) -> Path:
+    """Persist a run's raw model output BEFORE anything consumes it, and return the path.
+
+    Why this exists (#66). `main()` used to hand `results` straight to
+    `merge_into_catalog` and write the catalog, so the model's reply existed only inside
+    one process. eval_conflicts.py has done the opposite from the start and records why —
+    "a shape bug in post-processing already destroyed one 60-minute run; inference is the
+    expensive, unrepeatable part and must never depend on the cheap part working" — and
+    that argument is stronger here, because this is the path that spends money.
+
+    Concretely: the haiku-v4 and haiku-v5 arms were unrescoreable when the scorer changed
+    twice in a week (#58, #63). Reconstructing them from the catalog was lossy in exactly
+    the way that mattered — every candidate the merge folded into an existing finding
+    survives only as a `corroborated_by` stamp with no summary, type, or citations, and
+    all six of v4's rediscoveries were stamps.
+
+    Bundles are stored WITHOUT statute or rule text: that is megabytes of corpus already
+    committed to this repo, and storing it again would make the artifact large enough that
+    someone would be tempted not to keep it."""
+    STATE.mkdir(parents=True, exist_ok=True)
+    path = STATE / f"raw-{run_id}.json"
+    path.write_text(json.dumps({
+        "run_id": run_id, "model": model, "prompt_version": prompt_version,
+        "thinking": thinking, "tier": tier, "saved": date.today().isoformat(),
+        # None, not {}, on the batch-collect path: that path produces no per-bundle
+        # status, and inventing "ok" for every bundle would turn an unknown into a claim.
+        "status": status,
+        "bundles": [{**{k: b[k] for k in _RUN_BUNDLE_FIELDS},
+                     "rules": [r["id"] for r in b["rules"]]} for b in bundles],
+        "results": results,
+    }, indent=1, ensure_ascii=False), encoding="utf-8")
+    return path
+
+
+def read_run(path) -> dict:
+    """Load a saved run. Fails loudly on a file missing anything the merge needs, rather
+    than merging a partial run and reporting success."""
+    d = json.loads(Path(path).read_text())
+    missing = [k for k in ("run_id", "model", "prompt_version", "bundles", "results")
+               if d.get(k) is None]
+    if missing:
+        raise SystemExit(f"{path}: saved run is missing {missing} — it cannot be merged.")
+    for b in d["bundles"]:
+        absent = [k for k in (*_RUN_BUNDLE_FIELDS, "rules") if k not in b]
+        if absent:
+            raise SystemExit(
+                f"{path}: bundle {b.get('custom_id')!r} is missing {absent}. The saved "
+                "shape predates the fields merge_into_catalog reads; re-run the analysis "
+                "or reconstruct the bundle list with the run's original --chapters/--tier.")
+    return d
+
+
 def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
                        prompt_version: str | None = None, supersede: bool = False) -> dict:
     """Fold new candidates into the catalog, PRESERVING existing triage.
@@ -1048,17 +1167,42 @@ def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
     cat = yaml.safe_load(CATALOG.read_text())
     by_id = {b["custom_id"]: b for b in bundles}
 
+    # A result whose custom_id names no bundle CANNOT be merged — there is no section or
+    # chapter to file it under. It used to be skipped in silence, which is the worst
+    # available behaviour on the paid path: `--collect BATCH_ID` rebuilds the bundle list
+    # from whatever --chapters/--tier/--limit are on the command line rather than from the
+    # batch's own state file, so a collect run with different arguments discards an entire
+    # submitted batch and prints "merged 0 candidate(s)". Reconstructing the list properly
+    # is #68; refusing to lose findings quietly is this line.
+    orphans = sorted(set(results) - set(by_id))
+    if orphans:
+        raise SystemExit(
+            f"{len(orphans)} of {len(results)} result(s) name a bundle that is not in "
+            f"this invocation's bundle list, e.g. {orphans[:3]} — they would be dropped "
+            "with no error. Re-run with the SAME --chapters/--tier/--limit the run used, "
+            "or re-merge from the saved run file with --remerge.")
+
     prior = {}
     for ch in cat["chapters"]:
         for cand in ch.get("candidates") or []:
             prior[candidate_fingerprint(ch["ors_chapter"], cand)] = cand.get("triage")
 
     fresh = collections.defaultdict(list)
+    undercited = []
     for cid, cands in results.items():
         b = by_id.get(cid)
         if b is None:
             continue
         for c in cands:
+            # #70. A wrong_authority claim is about a rule AND the statute it wrongly
+            # claims; one document cannot express it. Counted here, at ingest, rather
+            # than left for the cache builder — a paid run that produces a catalog which
+            # cannot be published is worth knowing about while the results are in hand,
+            # not after the batch is gone.
+            if (c.get("type") == "wrong_authority"
+                    and len({d.get("id") for d in (c.get("documents") or [])
+                             if isinstance(d, dict) and d.get("id")}) < 2):
+                undercited.append((b["section"], str(c.get("summary", ""))[:70]))
             entry = {
                 "summary": c.get("summary", ""),
                 # v3 asks which of the eight checks fired; v2 has no such field.
@@ -1149,6 +1293,22 @@ def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
             # Chapter-level run_id is the LAST run to touch the chapter. Per-candidate
             # run_id/model is the authoritative provenance; nothing reads this one.
             ch["run_id"] = run_id
+    if undercited:
+        # Loud, and never fatal. The candidates are real findings and the run was paid
+        # for; refusing the merge would throw away good data to punish a prompt defect.
+        # The cache builder is the hard gate, and it stays the hard gate — this only
+        # ensures nobody learns about it an hour later from a fingerprint collision.
+        print(f"\nWARNING (#70): {len(undercited)} wrong_authority candidate(s) cite only "
+              "one document, so the statute they claim is wrongly implemented exists only "
+              "in prose. authority_chain cannot walk it, and two such findings about the "
+              "same rule share a fingerprint — which blocks the cache build and cannot be "
+              "resolved by --dedupe.\n  Prompt v6 requires both sides. To repair an "
+              "existing run instead, add the claimed statute where it is verifiably in "
+              "the rule's declared statutes_implemented.", file=sys.stderr)
+        for sec, summary in undercited[:8]:
+            print(f"    {sec}: {summary}", file=sys.stderr)
+        if len(undercited) > 8:
+            print(f"    ... and {len(undercited) - 8} more", file=sys.stderr)
     cat["chapters"].sort(key=lambda c: str(c["ors_chapter"]))
     return cat
 
@@ -1166,7 +1326,7 @@ def selftest() -> int:
     Runs against synthetic bundles/results, so it needs no model, no network and no
     catalog write, and is safe in CI.
     """
-    import copy, tempfile, os
+    import copy, tempfile, os, shutil
     global CATALOG
     fails = []
 
@@ -1547,9 +1707,157 @@ def selftest() -> int:
         fails.append("a one-citation candidate was stamped as corroborating a finding it "
                      "shares a single provision with")
 
+    # 19. #66: a saved run must be sufficient to reproduce its own merge. A raw file that
+    #     is written but cannot be replayed is a comfort, not a backup — and the point of
+    #     writing it is that the merge is the code most likely to need fixing while being
+    #     the code that consumes its only input. Asserted as EQUALITY with the live merge,
+    #     not as "the file exists": dropping any field merge_into_catalog reads must fail.
+    #     ONE OF THE TWO BUNDLES IS PARTIAL, and that is not decoration. With a single
+    #     whole-section bundle the fixture passed with `n_parts` deleted from
+    #     _RUN_BUNDLE_FIELDS, because merge_into_catalog only reads `part`/`n_parts` when
+    #     `partial` is true — so the round-trip could not tell a complete saved shape from
+    #     an incomplete one. Every field in the constant is load-bearing for this pair.
+    global STATE
+    live_bundles = [{"custom_id": "c1", "ors_chapter": "291", "section": "ors-291.047",
+                     "partial": False, "part": 0, "n_parts": 1,
+                     "rules": [{"id": "oar-125-055-0030", "title": "t", "text": "x",
+                                "declares": ""}],
+                     "statute": "S", "est_tokens": 1, "mode": "cluster"},
+                    {"custom_id": "c2", "ors_chapter": "291", "section": "ors-291.049",
+                     "partial": True, "part": 1, "n_parts": 3,
+                     "rules": [{"id": "oar-125-055-0040", "title": "t", "text": "x",
+                                "declares": ""}],
+                     "statute": "S", "est_tokens": 1, "mode": "cluster"}]
+    live_results = {"c1": [candidate("oar-125-055-0030", "OAR 125-055-0030(2)")],
+                    "c2": [candidate("oar-125-055-0040", "OAR 125-055-0040(1)")]}
+
+    def merge_with(bundles, results):
+        fd, path = tempfile.mkstemp(suffix=".yml"); os.close(fd)
+        Path(path).write_text(yaml.safe_dump(copy.deepcopy(base)))
+        saved = CATALOG
+        try:
+            globals()["CATALOG"] = Path(path)
+            return merge_into_catalog(results, bundles, "gemma-run", "gemma4:12b", "v2")
+        finally:
+            globals()["CATALOG"] = saved
+            os.unlink(path)
+
+    tmpdir = tempfile.mkdtemp()
+    saved_state = STATE
+    try:
+        globals()["STATE"] = Path(tmpdir)
+        p = write_run("selftest", "gemma4:12b", "v2", 0, "cluster",
+                      live_bundles, live_results, {"c1": {"state": "ok"}})
+        run = read_run(p)
+    finally:
+        globals()["STATE"] = saved_state
+        shutil.rmtree(tmpdir, ignore_errors=True)
+    try:
+        replayed = merge_with(run["bundles"], run["results"])
+    except Exception as e:                      # noqa: BLE001 — a missing field lands here
+        replayed = None
+        fails.append(f"a saved run cannot be re-merged at all ({type(e).__name__}: "
+                     f"{e}); the raw file is not a usable backup of a paid run")
+    if replayed is not None and replayed != merge_with(live_bundles, live_results):
+        fails.append("re-merging a saved run does not reproduce the merge it was saved "
+                     "from; the raw file is not a usable backup of a paid run")
+    if any("text" in r for b in run["bundles"] for r in b["rules"] if isinstance(r, dict)):
+        fails.append("the saved run carries rule TEXT; it duplicates committed corpus and "
+                     "grows until someone stops keeping these files")
+
+    # 20. A result whose custom_id names no bundle must STOP the merge, not vanish from
+    #     it. `--collect` rebuilds the bundle list from the command line rather than from
+    #     the batch's own state file (#68), so a collect run with different --chapters or
+    #     --tier silently discarded an entire submitted batch and printed success.
+    try:
+        merge_with(live_bundles, {"c1": [], "c-not-a-bundle": [
+            candidate("oar-125-055-0030", "OAR 125-055-0030(2)")]})
+        fails.append("a result naming an unknown bundle was dropped without an error; a "
+                     "mis-invoked --collect loses a paid batch and reports success")
+    except SystemExit:
+        pass
+
+    # 21. Every backend must actually STORE the constructor arguments it accepts.
+    #     `ClaudeBatchBackend` took `thinking` and dropped it, so
+    #     `--backend claude --thinking N` raised AttributeError inside submit() — after
+    #     bundle assembly, one line before the paid call. Nothing caught it because the
+    #     batch path had never been run with thinking on. Checked by construction rather
+    #     than by calling submit(), so this needs no API key and no network.
+    #     Checked by READING __init__, not by constructing one. The first version
+    #     instantiated the backend and asked `hasattr`, which cannot work: both
+    #     constructors `sys.exit` when ANTHROPIC_API_KEY is absent, and the handler for
+    #     that skipped the assertion — so the guard passed identically whether the bug
+    #     was present or not. It was caught by reverting the fix and seeing 19/19.
+    import inspect
+    for cls in (ClaudeBatchBackend, ClaudeSyncBackend, LocalBackend):
+        src = inspect.getsource(cls.__init__)
+        for p in set(inspect.signature(cls.__init__).parameters) - {"self"}:
+            if not re.search(rf"self\.\w+\s*=[^=].*\b{re.escape(p)}\b", src):
+                fails.append(f"{cls.__name__}.__init__ accepts `{p}` and never stores it "
+                             "— the option is silently ignored, or raises at the point "
+                             "of use, which for a paid backend is after the bundles are "
+                             "built")
+
+    # 22. Batch custom_ids must satisfy the API's `^[a-zA-Z0-9_-]{1,64}$`, and must stay
+    #     DISTINCT after sanitising. Our real ids carry '.' and '#', so the batch path
+    #     400'd on request 0 and had never submitted anything; the bug survived because
+    #     every measurement to date ran on the sync path, which sends no custom_id.
+    #     Collision matters as much as shape: `ors-183.341#0` and `#1` are two parts of
+    #     one oversized section, and merging them would drop half a section's rules
+    #     while reporting success.
+    probe_ids = ["ors-183.341#0", "ors-183.341#1", "ors-279a.065#0",
+                 "ors-98.410@oar-125-055-0010", "ors-" + "9" * 80 + ".100#12"]
+    seen_api: dict = {}
+    for cid in probe_ids:
+        api = api_custom_id(cid)
+        if not re.fullmatch(r"[a-zA-Z0-9_-]{1,64}", api):
+            fails.append(f"api_custom_id({cid!r}) -> {api!r}, which the Batch API rejects")
+        if api in seen_api:
+            fails.append(f"api_custom_id collides: {cid!r} and {seen_api[api]!r} both -> "
+                         f"{api!r}; two bundles would share one result")
+        seen_api[api] = cid
+    if 'api_custom_id(b["custom_id"])' not in inspect.getsource(ClaudeBatchBackend.submit):
+        fails.append("ClaudeBatchBackend.submit does not sanitise custom_id; the batch "
+                     "will 400 before any request runs")
+    if "api_custom_id" not in inspect.getsource(ClaudeBatchBackend.collect):
+        fails.append("ClaudeBatchBackend.collect does not map the sanitised id back; "
+                     "every result would be filed under an id no bundle has")
+
+    # 23. #70, the prompt half: v6 must actually require both sides for wrong_authority.
+    #     Asserted on the effect of the replace, not on the version merely existing —
+    #     a drifted anchor returns the string unchanged and v6 would silently be v5.
+    if "MUST list both" not in PROMPT_TEXTS["v6"]:
+        fails.append("v6 does not require wrong_authority to cite both documents; its "
+                     ".replace() anchor did not match and the version is a copy of v5")
+
+    # 24. #70, the ingest half: a wrong_authority candidate citing one document must be
+    #     REPORTED at merge time. Left only to the cache builder, the failure surfaces an
+    #     hour later as a fingerprint collision, after the batch results are gone.
+    import io, contextlib
+    fd, path = tempfile.mkstemp(suffix=".yml"); os.close(fd)
+    Path(path).write_text(yaml.safe_dump({"schema_version": 2, "chapters": []}))
+    saved = CATALOG
+    err = io.StringIO()
+    try:
+        globals()["CATALOG"] = Path(path)
+        with contextlib.redirect_stderr(err):
+            merge_into_catalog(
+                {"c1": [{"summary": "declares ORS 183.415(9) but the statute has (1)-(3)",
+                         "type": "wrong_authority",
+                         "documents": [{"id": "oar-137-003-0035",
+                                        "citation": "declared statutes_implemented"}]}]},
+                [{"custom_id": "c1", "ors_chapter": "183", "section": "ors-183.341",
+                  "partial": False, "rules": []}], "r", "m", "v6")
+    finally:
+        globals()["CATALOG"] = saved
+        os.unlink(path)
+    if "#70" not in err.getvalue():
+        fails.append("merge_into_catalog accepted a one-document wrong_authority candidate "
+                     "silently; the run reports success and the cache cannot be built")
+
     for f in fails:
         print(f"FAIL {f}")
-    print(f"merge selftest: {18 - len(fails)}/18 passed")
+    print(f"merge selftest: {24 - len(fails)}/24 passed")
     return 1 if fails else 0
 
 
@@ -1597,7 +1905,32 @@ def main():
     ap.add_argument("--dedupe", action="store_true",
                     help="fold duplicates already in the catalog into their originals "
                          "(#58), print what changed and exit. Use --dry-run to preview.")
+    ap.add_argument("--remerge", metavar="PATH",
+                    help="re-merge a saved run from _meta/.cache/conflict-runs/raw-*.json "
+                         "instead of calling a model. The merge is the code most likely "
+                         "to need fixing and it is the code that consumes its own only "
+                         "input, so a fixed merge must be replayable without re-paying "
+                         "for inference (#66).")
     args = ap.parse_args()
+
+    if args.remerge:
+        run = read_run(args.remerge)
+        cat = merge_into_catalog(run["results"], run["bundles"], run["run_id"],
+                                 run["model"], run["prompt_version"],
+                                 supersede=args.supersede)
+        n = sum(len(v) for v in run["results"].values())
+        if args.dry_run:
+            print(f"{n} candidate(s) from {len(run['results'])} bundle(s) of run "
+                  f"{run['run_id']!r} would merge to "
+                  f"{sum(len(c.get('candidates') or []) for c in cat['chapters'])} "
+                  "catalog candidates.\nnothing written — this is --dry-run.")
+            sys.exit(0)
+        CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True,
+                                          width=100))
+        print(f"re-merged {n} candidate(s) from run {run['run_id']!r} "
+              f"({run['model']}, {run['prompt_version']}) into "
+              f"{CATALOG.relative_to(REPO_ROOT)}")
+        sys.exit(0)
 
     if args.dedupe:
         cat = yaml.safe_load(CATALOG.read_text())
@@ -1673,14 +2006,15 @@ def main():
     # provenance cannot drift apart. The local variant keeps v3's checks but not its
     # grading, which a 7B does not produce reliably (see LOCAL_SYSTEM).
     prompt_version = PROMPT_VERSIONS[args.prompt]
-    sys_prompt = SYSTEM_V3 if args.prompt in ("v3", "v4", "v5") else SYSTEM
+    sys_prompt = SYSTEM_V3 if args.prompt in ("v3", "v4", "v5", "v6") else SYSTEM
     local_prompt = PROMPT_TEXTS[args.prompt]
     # v4 differs from v3 only in the escape hatch, which lives in the LOCAL prompt text.
     # The frontier SYSTEM_V3 carries the same eight-type instruction, so v4 on a Claude
     # backend must use the local variant or the arm would silently be a v3 rerun.
-    if args.prompt in ("v4", "v5"):
+    if args.prompt in ("v4", "v5", "v6"):
         sys_prompt = PROMPT_TEXTS[args.prompt]
 
+    status: dict | None = None      # the batch-collect path reports none; see write_run
     if args.backend == "claude-sync":
         backend = ClaudeSyncBackend(model, sys_prompt, prompt_version,
                                     thinking=args.thinking)
@@ -1699,11 +2033,15 @@ def main():
             print(f"submitted batch {batch_id} ({len(bundles)} requests)\n"
                   f"collect with: python3 src/analyze_conflicts.py --collect {batch_id}")
             return
-        results = backend.collect(args.collect)
+        results = backend.collect(args.collect, bundles)
     else:
         results, status = LocalBackend(model, args.local_url,
                                        system=local_prompt).run(bundles)
         _report_status(status)
+
+    raw_path = write_run(args.run_id, model, prompt_version, args.thinking, args.tier,
+                         bundles, results, status)
+    print(f"raw model output saved: {raw_path.relative_to(REPO_ROOT)}", file=sys.stderr)
 
     cat = merge_into_catalog(results, bundles, args.run_id, model, prompt_version,
                              supersede=args.supersede)
