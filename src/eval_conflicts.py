@@ -51,8 +51,8 @@ from pathlib import Path
 import yaml
 
 sys.path.insert(0, str(Path(__file__).parent))
-from repo_lib import REPO_ROOT, extract_fulltext, parse_frontmatter
-from build_conflict_candidates_data import (candidate_fingerprint, fold,
+from repo_lib import REPO_ROOT
+from build_conflict_candidates_data import (candidate_fingerprint, grounding_sources,
                                             looks_like_absence_claim, quote_is_grounded)
 import analyze_conflicts as AC
 
@@ -133,19 +133,17 @@ def reachable(known: dict, bundles: list) -> tuple[set, set]:
 
 
 def grounding(results: dict, paths: dict) -> dict:
-    """Quote-grounding over everything the model produced, using the same matcher the
-    catalog gate uses — so the number is directly comparable to the 79.5% baseline."""
+    """Quote-grounding over everything the model produced, using the same matcher and the
+    same haystacks the catalog gate uses — so the number is directly comparable to the
+    79.5% baseline. `grounding_sources` is shared rather than reimplemented here: when
+    this file grew its own copy, a v5 quote of a rule's declared authority was grounded
+    by one tool and reported as fabricated by the other (#62)."""
     cache: dict = {}
 
-    def full_text(doc_id: str) -> str:
+    def sources(doc_id: str) -> tuple[str, str]:
         if doc_id not in cache:
             p = paths.get(doc_id)
-            if not p:
-                cache[doc_id] = ""
-            else:
-                _, body = parse_frontmatter(REPO_ROOT / p)
-                ft = extract_fulltext(body)
-                cache[doc_id] = fold(ft) if ft else ""
+            cache[doc_id] = grounding_sources(REPO_ROOT / p) if p else ("", "")
         return cache[doc_id]
 
     n = g = absence = ungrounded = bad_id = 0
@@ -157,11 +155,11 @@ def grounding(results: dict, paths: dict) -> dict:
                 if not q:
                     continue
                 n += 1
-                ft = full_text(did)
-                if not ft:
+                ft, declared = sources(did)
+                if not ft and not declared:
                     bad_id += 1          # cited a document that does not exist / has no text
                     continue
-                if quote_is_grounded(q, ft):
+                if quote_is_grounded(q, ft, declared):
                     g += 1
                 elif looks_like_absence_claim(q):
                     absence += 1
@@ -237,7 +235,10 @@ def main():
                     help="calibrate on the first N eval chapters before the full run")
     ap.add_argument("--limit-bundles", type=int)
     ap.add_argument("--dry-run", action="store_true")
-    ap.add_argument("--prompt", choices=["v2", "v3", "v4"], default="v2",
+    # Choices come from AC.PROMPT_TEXTS rather than a literal list. The literal was
+    # ["v2","v3","v4"] and had already gone stale — v5 existed and could not be scored
+    # here, which is exactly the arm #62 says must be re-measured before any bulk run.
+    ap.add_argument("--prompt", choices=sorted(AC.PROMPT_TEXTS), default="v2",
                     help="which local prompt to evaluate; run both to compare")
     ap.add_argument("--from-raw", metavar="PATH",
                     help="score an existing results JSON instead of running inference "
@@ -294,8 +295,7 @@ def main():
                 status[cid] = {"state": "error"}
         args.model = raw.get("model", args.model)
     else:
-        sys_prompt = {"v2": AC.LOCAL_SYSTEM, "v3": AC.LOCAL_SYSTEM_V3,
-                      "v4": AC.LOCAL_SYSTEM_V4}[args.prompt]
+        sys_prompt = AC.PROMPT_TEXTS[args.prompt]
         results, status = AC.LocalBackend(args.model, args.local_url,
                                           max_tokens=args.max_output_tokens,
                                           system=sys_prompt).run(bundles)

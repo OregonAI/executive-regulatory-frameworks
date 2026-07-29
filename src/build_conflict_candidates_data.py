@@ -17,9 +17,13 @@ claim about a document must be checkable against the corpus, not taken on faith.
    would be a fabrication, so this exits non-zero.
 
 2. QUOTE GROUNDING (reported, not fatal by default; --strict-quotes to enforce). Each
-   document's `quote` is checked against that document's own '## Full text'. This catches
-   the failure the citation gate cannot: a real document cited with words it does not
-   contain.
+   document's `quote` is checked against that document's own '## Full text' AND against
+   its declared `statutes_implemented`. This catches the failure the citation gate
+   cannot: a real document cited with words it does not contain.
+
+   Both haystacks, because a candidate may legitimately be ABOUT the declaration rather
+   than the operative text (#62 counts 26 of them), and searching only the full text
+   marked every one of those as fabricated.
 
    Why this is reported rather than fatal: the pilot overloaded `quote` to hold two
    different kinds of claim — verbatim source text AND deliberate observations of ABSENCE
@@ -79,25 +83,83 @@ _ELISION_RE = re.compile(r"\.\.\.|\[[^\]]*\]")
 # to such fragments — it never rejects a long quote for having a short tail.
 _MIN_EVIDENCE_CHARS = 24
 
+# The same floor against the DECLARED-AUTHORITY haystack, which is a ~100-character list
+# of citations rather than a 40,000-character rule body. Ten characters of prose proves
+# nothing inside a rule; ten characters matching inside one document's
+# `statutes_implemented` names a specific statute, which is the whole claim. Measured
+# rather than picked: over the 60-chapter catalog, 10 is the length of the shortest
+# faithful declared-authority quote there is (`163.165(2)`, OAR 213-005-0001), and
+# lowering it to 8 or 6 recovers no further quote — so this admits every real one and
+# buys nothing by going lower.
+_MIN_DECLARED_CHARS = 10
 
-def quote_is_grounded(quote: str, full_text: str) -> bool:
-    """True if every segment of `quote` appears in `full_text` IN ORDER, where segments
-    are split on '...' and on bracketed editorial spans.
+# How a rule's declared `statutes_implemented` list is flattened into one line. Shared
+# with analyze_conflicts.render_user ON PURPOSE: the bundle shows the model this exact
+# string, and a faithful quote of it is checked against this exact string. If the two
+# ever joined the list differently, every quote of the declaration would read as
+# ungrounded and nothing would say why.
+DECLARED_AUTHORITY_SEP = ", "
+
+
+def declared_authority(fm: dict) -> str:
+    """A document's declared `statutes_implemented`, as the single line the model is
+    shown and a quote is checked against. Empty string when the field is absent."""
+    v = fm.get("statutes_implemented") or []
+    items = [str(x).strip() for x in (v if isinstance(v, list) else [v]) if str(x).strip()]
+    return DECLARED_AUTHORITY_SEP.join(items)
+
+
+def grounding_sources(path) -> tuple[str, str]:
+    """(folded '## Full text', folded declared authority) — the two places in a document
+    a quote may legitimately be drawn from.
+
+    One function, because three consumers check quotes (this cache builder,
+    eval_conflicts.py, validate_candidates.py) and a haystack that differs between them
+    would make the same candidate grounded in one report and fabricated in another."""
+    fm, body = parse_frontmatter(path)
+    ft = extract_fulltext(body) or ""
+    return (fold(ft) if ft else ""), fold(declared_authority(fm))
+
+
+def _segments_in_order(quote: str, hay: str, min_chars: int) -> bool:
+    """Every segment of `quote` appears in `hay` IN ORDER, where segments are split on
+    '...' and on bracketed editorial spans.
 
     Order matters: it stops a quote being 'verified' by words scattered across unrelated
     subsections. The evidence-length floor stops the opposite failure — a quote that is
     almost entirely brackets/elision would otherwise have nothing left to check and match
     vacuously."""
     segments = [s for s in (fold(p) for p in _ELISION_RE.split(quote)) if s]
-    if sum(len(s) for s in segments) < _MIN_EVIDENCE_CHARS:
+    if sum(len(s) for s in segments) < min_chars:
         return False
     pos = 0
     for seg in segments:
-        i = full_text.find(seg, pos)
+        i = hay.find(seg, pos)
         if i == -1:
             return False
         pos = i + len(seg)
     return True
+
+
+def quote_is_grounded(quote: str, full_text: str, declared: str = "") -> bool:
+    """True if `quote` is grounded in the document's operative text OR in its declared
+    `statutes_implemented`.
+
+    WHY TWO HAYSTACKS (#62). Prompt v5 asks the model to quote a rule's DECLARED
+    authority — #62 counts 26 catalog candidates resting on it — and `render_user` puts
+    that declaration in the bundle. But this check only ever searched `extract_fulltext(body)`,
+    which excludes frontmatter, so the entire wrong_authority class was unverifiable by
+    construction and read as fabricated. Measured on run haiku-v5-think-328332: 8/10
+    grounded, and BOTH failures were correct quotes of a declaration the checker could
+    not see. Grounding is the signal used to decide whether a model can be trusted at
+    all, so an error in this direction is the worst one available.
+
+    The declaration is corpus data — it comes from the document's own frontmatter — not
+    the label `render_user` prints above it. Quoting that label must still fail, or the
+    check would be verifying a quote against words this pipeline wrote itself."""
+    return (_segments_in_order(quote, full_text, _MIN_EVIDENCE_CHARS)
+            or (bool(declared)
+                and _segments_in_order(quote, declared, _MIN_DECLARED_CHARS)))
 
 
 # An absence-claim asserts the source does NOT say something, so it can never match the
@@ -118,10 +180,47 @@ GRADES = (None, "low", "medium", "high")
 TRIAGE_STATES = ("unreviewed", "confirmed", "dismissed")
 
 
-# Citations are free text from a model ("ORS 435.254(3)"), so they are reduced to
-# alphanumerics before hashing: a re-run writing "ORS 435.254 (3)" must land on the same
-# fingerprint, or triage silently fails to carry over.
-_CITE_NOISE = re.compile(r"[^a-z0-9]+")
+# A subsection path inside a citation: "(4)", "(1)(c)", "(12)(a)(B)", "(1)(b)(A)(i)".
+# Bounded on purpose — 1-3 digits or 1-2 letters — so descriptive parentheticals a model
+# writes ("(entire rule)", "(CC5)", "(frontmatter)") are not mistaken for subsections.
+_SUBSECTION_RE = re.compile(r"\((\d{1,3}|[A-Za-z]{1,2})\)")
+
+
+def _citation_key(citation: str) -> str:
+    """The identity-bearing content of a free-text citation: its subsection path, and
+    nothing else.
+
+    WHY PROSE IS DISCARDED (#63). The previous key was every alphanumeric character of
+    the citation, so two runs that found the SAME conflict in the SAME two provisions got
+    different fingerprints whenever they described the pointer differently. Measured: the
+    pilot wrote `OAR 581-026-0600, statutes_implemented`, Haiku v4 wrote
+    `OAR 581-026-0600 (entire rule)`, Haiku v5 wrote `OAR 581-026-0600, declared
+    statutes_implemented and rule title` — one finding stored three times, and two arms
+    scored as having MISSED a candidate their own output contains. A declared-authority
+    pointer has no canonical form, so this only gets worse as v5 runs at scale.
+
+    Containment (#58) cannot reach it: the pair-sets overlap but neither contains the
+    other, so `_contained_match` correctly declines. The fix has to be here, in what a
+    citation contributes to identity at all.
+
+    WHAT IS KEPT, and why it is not looser than this. The subsection path stays, because
+    it is the thing that makes two findings over the same document pair distinct — ORS
+    435's `(3)` vs `(6)` and `(1)(c)` vs `(1)(c)`, the case that refuted keying on
+    document ids alone. Tokens are joined with '.' so `(1)(3)` cannot collide with `(13)`.
+    Case is folded, matching the previous key's behaviour: models write `(2)(A)` and
+    `(2)(a)` for the same provision often enough that preserving case would reintroduce
+    the drift this function exists to remove.
+
+    Measured before adopting, the way #58 was: over the whole catalog — 153 candidates,
+    60 chapters — this key merges exactly one group (the three ORS 332.158 /
+    OAR 581-026-0600 records above) and breaks no existing containment relation.
+
+    Known limit: two genuinely distinct findings about the same document, neither citing
+    a subsection and distinguished ONLY by their prose, now share a key. None exists in
+    the catalog today; if one appears it surfaces as a corroboration stamp on a finding
+    it does not belong to, which is the same failure mode #58's ambiguity rule guards
+    against and is visible in `corroborated_by`."""
+    return ".".join(t.lower() for t in _SUBSECTION_RE.findall(citation or ""))
 
 
 def candidate_fingerprint(ors_chapter: str, cand: dict) -> str:
@@ -138,13 +237,36 @@ def candidate_fingerprint(ors_chapter: str, cand: dict) -> str:
     (1)(c) vs (1)(c). Keying on ids alone would have forced two real findings to merge.
     The subsection is what makes them different, so the subsection is in the key.
 
-    Known limit: a re-run that cites the same provision in a materially different STYLE
-    ("subsection 3" rather than "(3)") gets a new fingerprint and loses its triage. That
-    surfaces as a resurrected candidate — visible and correctable — rather than as a
-    dismissal silently applied to the wrong finding."""
-    parts = sorted({f"{d['id']}#{_CITE_NOISE.sub('', (d.get('citation') or '').lower())}"
-                    for d in cand.get("documents") or []})
-    return hashlib.sha256("|".join([str(ors_chapter), *parts]).encode()).hexdigest()[:16]
+    Deliberately NOT the citation's PROSE, since #63. "statutes_implemented" and
+    "declared statutes_implemented and rule title" point at the same place; keying on the
+    words made one finding into three and scored two arms as having missed it. What each
+    citation contributes is now only its subsection path — see `_citation_key`.
+
+    Known limit: a re-run that writes a subsection in a form with no parentheses
+    ("subsection 3" rather than "(3)") contributes no subsection path at all, so it keys
+    as though the whole document were cited. No catalog citation is written that way
+    today (0 of the catalog's 297 citations contain the word subsection or paragraph), so
+    it is a shape to watch for rather than one to normalise blind.
+
+    Known limit, and handled elsewhere: a run citing the same conflict plus one EXTRA
+    supporting provision gets a different set, hence a different hash. Because that is an
+    exact-hash scheme it cannot see the containment itself; `merge_into_catalog` compares
+    the raw pair sets from `candidate_pairs()` to catch it (#58)."""
+    return hashlib.sha256(
+        "|".join([str(ors_chapter), *sorted(candidate_pairs(cand))]).encode()
+    ).hexdigest()[:16]
+
+
+def candidate_pairs(cand: dict) -> frozenset:
+    """The (document, cited subsection) pairs a candidate is about — the raw material
+    `candidate_fingerprint` hashes.
+
+    Exposed unhashed because containment is invisible once hashed, and containment is
+    exactly the relation that tells a genuine re-discovery citing extra support apart
+    from a new finding."""
+    return frozenset(
+        f"{d['id']}#{_citation_key(d.get('citation'))}"
+        for d in cand.get("documents") or [] if d.get("id"))
 
 
 def validate_envelope(ors_chapter: str, cand: dict, seen: dict) -> None:
@@ -176,9 +298,12 @@ def validate_envelope(ors_chapter: str, cand: dict, seen: dict) -> None:
     if fp in seen:
         raise SystemExit(
             f"conflict-candidates.yml (ORS {ors_chapter}): two candidates cite the same "
-            f"set of documents ({sorted({d['id'] for d in cand.get('documents') or []})}), "
-            "so they share a triage fingerprint and a re-run could not tell them apart. "
-            "Merge them, or make them cite the documents they actually differ on.")
+            f"documents at the same subsections "
+            f"({sorted({d['id'] for d in cand.get('documents') or []})}), so they share a "
+            "triage fingerprint and a re-run could not tell them apart. Fold them with "
+            "`python3 src/analyze_conflicts.py --dedupe`, or make them cite the "
+            "provisions they actually differ on. Citation PROSE does not distinguish "
+            "them — it is not part of the key (#63).")
     seen[fp] = True
     cand["fingerprint"] = fp
 
@@ -212,14 +337,12 @@ def compute(collect_ungrounded: list | None = None) -> dict:
     paths = _full_text_index(g)
     registry_by_chapter = load_registry_by_chapter()
 
-    ft_cache: dict[str, str] = {}
+    src_cache: dict[str, tuple[str, str]] = {}
 
-    def full_text(doc_id: str) -> str:
-        if doc_id not in ft_cache:
-            _, body = parse_frontmatter(REPO_ROOT / paths[doc_id])
-            ft = extract_fulltext(body)
-            ft_cache[doc_id] = fold(ft) if ft else ""
-        return ft_cache[doc_id]
+    def sources(doc_id: str) -> tuple[str, str]:
+        if doc_id not in src_cache:
+            src_cache[doc_id] = grounding_sources(REPO_ROOT / paths[doc_id])
+        return src_cache[doc_id]
 
     n_candidates = n_docs_checked = n_artifacts = 0
     n_grounded = n_absence = n_ungrounded = 0
@@ -244,15 +367,16 @@ def compute(collect_ungrounded: list | None = None) -> dict:
                         f"(ORS chapter {ch['ors_chapter']}) {verb} in _meta/graph.json — "
                         "fix the citation before this cache can be trusted.")
 
-                # Quote grounding. Only meaningful for documents that exist and carry a
-                # verbatim '## Full text' to check against.
+                # Quote grounding. Only meaningful for documents that exist and carry
+                # SOMETHING to check against — a verbatim '## Full text', or a declared
+                # `statutes_implemented` for candidates that are about the declaration.
                 if not exists or not doc.get("quote"):
                     doc["quote_verified"] = None
                     continue
-                ft = full_text(doc["id"])
-                if not ft:
+                ft, declared = sources(doc["id"])
+                if not ft and not declared:
                     doc["quote_verified"] = None      # summary-only doc: nothing to diff
-                elif quote_is_grounded(doc["quote"], ft):
+                elif quote_is_grounded(doc["quote"], ft, declared):
                     doc["quote_verified"] = True
                     n_grounded += 1
                 elif looks_like_absence_claim(doc["quote"]):
@@ -316,7 +440,8 @@ def outputs(collect=None):
 
 def _quote_summary(d: dict) -> str:
     checked = d["n_quotes_grounded"] + d["n_quotes_absence_claim"] + d["n_quotes_ungrounded"]
-    return (f"quotes: {d['n_quotes_grounded']}/{checked} grounded in source full text, "
+    return (f"quotes: {d['n_quotes_grounded']}/{checked} grounded in source full text or "
+            f"declared authority, "
             f"{d['n_quotes_absence_claim']} absence-claims (unverifiable by nature), "
             f"{d['n_quotes_ungrounded']} ungrounded")
 
@@ -332,7 +457,8 @@ def main():
         print(_quote_summary(d))
         if ungrounded:
             print(f"\nUngrounded quotes ({len(ungrounded)}) — cited document exists, but "
-                  "these words are not in its '## Full text':\n")
+                  "these words are in neither its '## Full text' nor its declared "
+                  "statutes_implemented:\n")
             for chapter, doc_id, quote in ungrounded:
                 print(f"  ORS {chapter}  {doc_id}\n    {quote[:150]}")
         if strict and ungrounded:
