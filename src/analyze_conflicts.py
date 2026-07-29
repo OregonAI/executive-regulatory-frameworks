@@ -88,7 +88,8 @@ PROMPT_VERSION = "conflict-v2-2026-07"
 # swapped in on the strength of its own reasoning; --prompt selects, and the choice is
 # recorded per candidate so mixed catalogs stay attributable.
 PROMPT_VERSIONS = {"v2": "conflict-v2-2026-07", "v3": "conflict-v3-2026-07",
-                   "v4": "conflict-v4-escape-2026-07"}
+                   "v4": "conflict-v4-escape-2026-07",
+                   "v5": "conflict-v5-authority-2026-07"}
 # Opus is the PRODUCTION path only — a full --tier section pass is 7,464 requests and
 # ~$154 of input at batch pricing, so it is not something to spend on an experiment.
 # EVALUATE WITH HAIKU instead (see EVAL_MODEL): measuring whether a prompt change helps
@@ -138,6 +139,24 @@ def _title(doc_id: str, paths: dict) -> str:
         return ""
     fm, _ = parse_frontmatter(REPO_ROOT / p)
     return fm.get("title", "")
+
+
+def _declared_authority(doc_id: str, paths: dict) -> list:
+    """The statutes a rule DECLARES it implements, from frontmatter.
+
+    Not cosmetic metadata: a rule claiming authority under a provision that excludes its
+    subject, or listing a statute its operative text never engages, is a real and
+    reviewable inconsistency — and 26 of the catalog's 148 candidates (18%) rest on
+    exactly this evidence. The bundle used to carry only `extract_fulltext(body)`, so the
+    model was asked to find contradictions in a declaration it was never shown. Two of the
+    misses in the Haiku v4 run are this shape, including OAR 581-026-0600 declaring
+    'ORS 332.158' while ORS 332.158(4) expressly excludes public charter schools."""
+    p = paths.get(doc_id)
+    if not p:
+        return []
+    fm, _ = parse_frontmatter(REPO_ROOT / p)
+    v = fm.get("statutes_implemented") or []
+    return [str(x) for x in v] if isinstance(v, list) else [str(v)]
 
 
 def shared_authority_chapters(graph: dict) -> dict:
@@ -245,7 +264,8 @@ def build_bundles(chapters: list, graph: dict, tier: str = "cluster",
         for rid in sorted(by_section[section]):
             t = _text(rid, paths)
             if t:
-                rules.append({"id": rid, "title": _title(rid, paths), "text": t})
+                rules.append({"id": rid, "title": _title(rid, paths), "text": t,
+                              "declares": _declared_authority(rid, paths)})
         if not rules:
             continue
 
@@ -557,6 +577,41 @@ LOCAL_SYSTEM_V4 = LOCAL_SYSTEM_V3.replace(
 ).replace(
     '"type":"one of the eight above"', '"type":"one of the eight above, or other"')
 
+# v5 = v4 plus the class the bundle could not previously show. `render_user` now carries
+# each rule's declared `statutes_implemented`, and a ninth check names what to do with it.
+#
+# WHY THIS IS NOT JUST ANOTHER LABEL. 26 of the catalog's 148 candidates (18%) turn on a
+# rule's DECLARED authority, and until this change the bundle contained only
+# extract_fulltext(body) — the model was asked to find a contradiction in a declaration it
+# had never seen. Two of the Haiku v4 misses are exactly this, including OAR 581-026-0600
+# declaring "ORS 332.158" where ORS 332.158(4) expressly excludes public charter schools.
+# So v5 changes the EVIDENCE first and the instruction second; a prompt-only v5 would have
+# measured nothing.
+#
+# The IGNORE list needs amending in the same breath. It says to skip "a citation to
+# something that does not exist, or was repealed", which is detect_mechanical.py's job —
+# but a model reading that can reasonably conclude that anything about a citation is out
+# of scope, and suppress the very class this version adds. The statute here EXISTS; the
+# problem is what it says.
+LOCAL_SYSTEM_V5 = LOCAL_SYSTEM_V4.replace(
+    "internal      one rule contradicts itself",
+    "internal      one rule contradicts itself\n"
+    "wrong_authority the rule DECLARES it implements a statute that excludes its own\n"
+    "              subject, or that its operative text never engages at all. The\n"
+    "              declaration is the 'declared statutes_implemented' line above each\n"
+    "              rule; quote it and cite it as statutes_implemented, not as rule text"
+).replace(
+    "- a citation to something that does not exist, or was repealed",
+    "- a citation to something that does not exist, or was repealed (but a declared\n"
+    "  statute that EXISTS and contradicts the rule IS in scope — see wrong_authority)"
+).replace(
+    '"type":"one of the eight above, or other"',
+    '"type":"one of the nine above, or other"')
+
+PROMPT_TEXTS = {"v2": LOCAL_SYSTEM, "v3": LOCAL_SYSTEM_V3,
+                "v4": LOCAL_SYSTEM_V4, "v5": LOCAL_SYSTEM_V5}
+
+
 def render_user(bundle: dict) -> str:
     parts = [f"# ORS statute section: {bundle['section']} — {bundle['section_title']}", "",
              bundle["statute"], "",
@@ -568,7 +623,15 @@ def render_user(bundle: dict) -> str:
             "this set and against the statute; do not speculate about rules not shown."))
         parts.insert(1, "")
     for r in bundle["rules"]:
-        parts += [f"\n## {r['id']} — {r['title']}", "", r["text"]]
+        parts += [f"\n## {r['id']} — {r['title']}", ""]
+        # The rule's own claim about what it implements. Labelled as a DECLARATION so a
+        # quote drawn from it is attributable to `statutes_implemented` rather than being
+        # mistaken for operative text — the two are different kinds of evidence and a
+        # candidate must cite which one it means.
+        if r.get("declares"):
+            parts += [f"declared statutes_implemented (frontmatter, not operative text): "
+                      f"{', '.join(r['declares'])}", ""]
+        parts += [r["text"]]
     return "\n".join(parts)
 
 
@@ -1265,18 +1328,61 @@ def selftest() -> int:
         fails.append("--tier cluster is not a subset of --tier section; the two tiers no "
                      "longer nest and no estimate taken at one bounds the other")
 
+    # 13. Prompt versions are built by .replace() off the previous version, and a replace
+    #     whose anchor text has drifted returns the string UNCHANGED. There is no error:
+    #     the new version silently becomes a copy of the old one, the arm runs, and it is
+    #     recorded under a version string promising a change it does not contain. Every
+    #     measurement taken against it would be a rerun wearing a new label.
+    if set(PROMPT_VERSIONS) != set(PROMPT_TEXTS):
+        fails.append(f"PROMPT_VERSIONS and PROMPT_TEXTS disagree on which prompts exist: "
+                     f"{set(PROMPT_VERSIONS) ^ set(PROMPT_TEXTS)}")
+    seen: dict = {}
+    for name, text in PROMPT_TEXTS.items():
+        if text in seen:
+            fails.append(f"prompt {name} is byte-identical to {seen[text]} — a .replace() "
+                         "anchor no longer matches, so this version is a silent rerun")
+        seen[text] = name
+    #     Each replace is asserted by its OWN effect. Testing for the bare string
+    #     "wrong_authority" was the first attempt and it could not fail: the IGNORE-list
+    #     amendment mentions the type by name, so that substring is present even when the
+    #     replace defining the type never matched. The proof run caught it.
+    for effect, why in (
+            ("wrong_authority the rule DECLARES", "the type definition"),
+            ("IS in scope — see wrong_authority", "the IGNORE-list amendment that stops "
+                                                  "the new class being suppressed"),
+            ("one of the nine above", "the reply-shape update")):
+        if effect not in PROMPT_TEXTS["v5"]:
+            fails.append(f"v5 is missing {why}; a .replace() anchor did not match and "
+                         "that part of the version silently did not happen")
+
+    # 14. v5's evidence change is the point of it — the declared authority must actually
+    #     reach the model. A prompt naming a check over text the bundle never carries
+    #     measures nothing, which is what v4 was unknowingly doing.
+    probe = {"section": "ors-332.158", "section_title": "t", "statute": "S", "partial": False,
+             "part": 0, "n_parts": 1,
+             "rules": [{"id": "oar-581-026-0600", "title": "r", "text": "body",
+                        "declares": ["ORS 332.158", "ORS 338"]}]}
+    rendered = render_user(probe)
+    if "ORS 332.158, ORS 338" not in rendered:
+        fails.append("render_user drops declared statutes_implemented; the wrong_authority "
+                     "check would run against evidence the model cannot see")
+    if "not operative text" not in rendered:
+        fails.append("declared authority is rendered without distinguishing it from "
+                     "operative text; a quote from it would be attributed to the rule body")
+
     for f in fails:
         print(f"FAIL {f}")
-    print(f"merge selftest: {12 - len(fails)}/12 passed")
+    print(f"merge selftest: {14 - len(fails)}/14 passed")
     return 1 if fails else 0
 
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--prompt", choices=["v2", "v3", "v4"], default="v2",
-                    help="v2 = original; v3 = eight named semantic checks (default v2 "
-                         "until v3 is measured against it)")
+    ap.add_argument("--prompt", choices=sorted(PROMPT_VERSIONS), default="v2",
+                    help="v2 = original; v3 = eight named semantic checks; v4 = v3 plus "
+                         "an 'other' escape hatch; v5 = v4 plus wrong_authority, and the "
+                         "bundle carries each rule's declared statutes_implemented")
     ap.add_argument("--backend", choices=["claude", "claude-sync", "local"],
                     default="claude",
                     help="claude = Batch API (half price, submit/collect); "
@@ -1390,14 +1496,13 @@ def main():
     # provenance cannot drift apart. The local variant keeps v3's checks but not its
     # grading, which a 7B does not produce reliably (see LOCAL_SYSTEM).
     prompt_version = PROMPT_VERSIONS[args.prompt]
-    sys_prompt = SYSTEM_V3 if args.prompt in ("v3", "v4") else SYSTEM
-    local_prompt = {"v2": LOCAL_SYSTEM, "v3": LOCAL_SYSTEM_V3,
-                    "v4": LOCAL_SYSTEM_V4}[args.prompt]
+    sys_prompt = SYSTEM_V3 if args.prompt in ("v3", "v4", "v5") else SYSTEM
+    local_prompt = PROMPT_TEXTS[args.prompt]
     # v4 differs from v3 only in the escape hatch, which lives in the LOCAL prompt text.
     # The frontier SYSTEM_V3 carries the same eight-type instruction, so v4 on a Claude
     # backend must use the local variant or the arm would silently be a v3 rerun.
-    if args.prompt == "v4":
-        sys_prompt = LOCAL_SYSTEM_V4
+    if args.prompt in ("v4", "v5"):
+        sys_prompt = PROMPT_TEXTS[args.prompt]
 
     if args.backend == "claude-sync":
         backend = ClaudeSyncBackend(model, sys_prompt, prompt_version,

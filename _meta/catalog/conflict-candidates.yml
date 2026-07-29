@@ -2058,6 +2058,8 @@ chapters:
     corroborated_by:
     - run_id: haiku-v4-think-328332
       model: claude-haiku-4-5-20251001
+    - run_id: haiku-v5-think-328332
+      model: claude-haiku-4-5-20251001
   - summary: An OST rule conditions nonstandard-district bond approval on ORS 328.280(1)'s purposes list
       instead of the statute's own ORS 328.205(1) list.
     documents:
@@ -2081,6 +2083,8 @@ chapters:
       date: null
     corroborated_by:
     - run_id: haiku-v4-think-328332
+      model: claude-haiku-4-5-20251001
+    - run_id: haiku-v5-think-328332
       model: claude-haiku-4-5-20251001
   - summary: An OST bond-guaranty rule's ineligibility trigger omits the statute's cure/reinstatement
       mechanism.
@@ -2106,6 +2110,9 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: haiku-v5-think-328332
+      model: claude-haiku-4-5-20251001
   - summary: A rule adds a documentary 'letter to OST' requirement to the statutory 'paying agent' definition
       it restates.
     documents:
@@ -2182,9 +2189,83 @@ chapters:
       note: null
       by: null
       date: null
+  - summary: The rule adds approval conditions (inclusion in corrective deficiency plan and non-impairment
+      of standard district efforts) that the statute does not require for the Superintendent's approval.
+    type: narrows
+    documents:
+    - id: ors-328.205
+      citation: ORS 328.205(2)
+      quote: the school district may contract a bonded indebtedness only for the purposes enumerated in
+        subsection (1) of this section that are approved by the Superintendent of Public Instruction pursuant
+        to rules of the State Board of Education
+    - id: oar-581-023-0060
+      citation: OAR 581-023-0060(1) and (2)
+      quote: 'when: (1) The purpose of the revenues is listed under ORS 328.280(1) and is included in
+        the district''s plan to correct the deficiencies causing the nonstandard or conditionally standard
+        status. (2) The district demonstrates that in contracting for bonded indebtedness it will not
+        impair or delay its efforts in becoming a standard district.'
+    run_id: haiku-v5-think-328332
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v5-authority-2026-07
+    confidence: null
+    severity: null
+    section: ors-328.205
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule declares it implements ORS 328.356, but the operative text never engages with that
+      statute's requirement that the State Treasurer be subject to ORS 291.445 when issuing state bonds;
+      the rule is entirely about school district bond guaranty program procedures and never addresses
+      State Treasurer obligations.
+    type: wrong_authority
+    documents:
+    - id: ors-328.356
+      citation: ORS 328.356
+      quote: If the State Treasurer issues state bonds, the treasurer shall be subject to the provisions
+        of ORS 291.445 as an agency that is authorized to issue general obligation bonds that are ordinarily
+        to be repaid from General Fund appropriations.
+    - id: oar-170-063-0000
+      citation: OAR 170-063-0000, declared statutes_implemented (frontmatter)
+      quote: ORS 328.321 - 328.356, ORS 328.331
+    run_id: haiku-v5-think-328332
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v5-authority-2026-07
+    confidence: null
+    severity: null
+    section: ors-328.356
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule 162-010-0316 applies audit requirements to public charter schools, which the statute
+      does not mention or address.
+    type: broadens
+    documents:
+    - id: ors-328.465
+      citation: ORS 328.465(1)
+      quote: All school district boards and education service district boards shall cause to have prepared
+        an annual audit of the books and accounts of the school district or education service district
+    - id: oar-162-010-0316
+      citation: OAR 162-010-0316
+      quote: Public charter schools created under ORS Chapter 338 are subject to review and compliance
+        with the following
+    run_id: haiku-v5-think-328332
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v5-authority-2026-07
+    confidence: null
+    severity: null
+    section: ors-328.465
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - ors-328.321 title is truncated ("Definitions for ORS 328.321 to").
-  run_id: haiku-v4-think-328332
+  run_id: haiku-v5-think-328332
 - ors_chapter: '332'
   agencies: 4
   rules_reviewed: 4
@@ -2213,6 +2294,8 @@ chapters:
       date: null
     corroborated_by:
     - run_id: haiku-v4-think-328332
+      model: claude-haiku-4-5-20251001
+    - run_id: haiku-v5-think-328332
       model: claude-haiku-4-5-20251001
   - summary: The same rule adds a 'did not complete a high school diploma' requirement the statute doesn't
       contain.
@@ -2361,9 +2444,60 @@ chapters:
       note: null
       by: null
       date: null
+    corroborated_by:
+    - run_id: haiku-v5-think-328332
+      model: claude-haiku-4-5-20251001
+  - summary: The rule declares it implements ORS 332.158, but that statute explicitly excludes public
+      charter schools from its scope, yet the rule applies specifically to public charter schools.
+    type: wrong_authority
+    documents:
+    - id: ors-332.158
+      citation: ORS 332.158(4)
+      quote: The provisions of this section do not apply to a public charter school.
+    - id: oar-581-026-0600
+      citation: OAR 581-026-0600, declared statutes_implemented and rule title
+      quote: 'declared statutes_implemented (frontmatter, not operative text): ORS 332.158, ORS 338
+
+
+        581-026-0600 Public Charter School Facility Location'
+    run_id: haiku-v5-think-328332
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v5-authority-2026-07
+    confidence: null
+    severity: null
+    section: ors-332.158
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: The rule allows districts to restrict communication of test results to only 'affiliated'
+      members, narrowing the statute's requirement to make results available to 'the public'.
+    type: narrows
+    documents:
+    - id: ors-332.334
+      citation: ORS 332.334(1)(a)
+      quote: make the results of any testing conducted under a plan described in ORS 332.331 available
+        to the public
+    - id: oar-581-022-2223
+      citation: OAR 581-022-2223(13)
+      quote: Districts, ESDs, and Charter Schools may restrict communication of test results required
+        under the HASS Plans to the staff, students, parents, and other community members affiliated with
+        the building for which the test results are available.
+    run_id: haiku-v5-think-328332
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-v5-authority-2026-07
+    confidence: null
+    severity: null
+    section: ors-332.334
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
   artifacts:
   - oar-333-061-0400 cites ORS 332.334 substantively in its own text but omits it from statutes_implemented/relationships.implements.
-  run_id: haiku-v4-think-328332
+  run_id: haiku-v5-think-328332
 - ors_chapter: '340'
   agencies: 2
   rules_reviewed: 7
