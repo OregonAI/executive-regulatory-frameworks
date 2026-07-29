@@ -76,7 +76,8 @@ import yaml
 sys.path.insert(0, str(Path(__file__).parent))
 from repo_lib import REPO_ROOT, extract_fulltext, parse_frontmatter
 from enrich_oar import load_registry_by_chapter
-from build_conflict_candidates_data import candidate_fingerprint, candidate_pairs
+from build_conflict_candidates_data import (candidate_fingerprint, candidate_pairs,
+                                            declared_authority, fold, quote_is_grounded)
 
 CATALOG = REPO_ROOT / "_meta/catalog/conflict-candidates.yml"
 GRAPH = REPO_ROOT / "_meta/graph.json"
@@ -89,7 +90,14 @@ PROMPT_VERSION = "conflict-v2-2026-07"
 # recorded per candidate so mixed catalogs stay attributable.
 PROMPT_VERSIONS = {"v2": "conflict-v2-2026-07", "v3": "conflict-v3-2026-07",
                    "v4": "conflict-v4-escape-2026-07",
-                   "v5": "conflict-v5-authority-2026-07"}
+                   # ...-07b, not -07: #62 changed BOTH the instruction and the way
+                   # render_user prints the declaration, and the rendering is part of the
+                   # arm even though nothing else records it. Candidates already stored
+                   # under `conflict-v5-authority-2026-07` were produced against a bundle
+                   # that put the label and the value on one line, which is why one of
+                   # them quotes the label. Leaving the string alone would have made two
+                   # different experiments indistinguishable in the catalog.
+                   "v5": "conflict-v5-authority-2026-07b"}
 # Opus is the PRODUCTION path only — a full --tier section pass is 7,464 requests and
 # ~$154 of input at batch pricing, so it is not something to spend on an experiment.
 # EVALUATE WITH HAIKU instead (see EVAL_MODEL): measuring whether a prompt change helps
@@ -141,8 +149,9 @@ def _title(doc_id: str, paths: dict) -> str:
     return fm.get("title", "")
 
 
-def _declared_authority(doc_id: str, paths: dict) -> list:
-    """The statutes a rule DECLARES it implements, from frontmatter.
+def _declared_authority(doc_id: str, paths: dict) -> str:
+    """The statutes a rule DECLARES it implements, from frontmatter, as the one line the
+    bundle shows the model.
 
     Not cosmetic metadata: a rule claiming authority under a provision that excludes its
     subject, or listing a statute its operative text never engages, is a real and
@@ -150,13 +159,16 @@ def _declared_authority(doc_id: str, paths: dict) -> list:
     exactly this evidence. The bundle used to carry only `extract_fulltext(body)`, so the
     model was asked to find contradictions in a declaration it was never shown. Two of the
     misses in the Haiku v4 run are this shape, including OAR 581-026-0600 declaring
-    'ORS 332.158' while ORS 332.158(4) expressly excludes public charter schools."""
+    'ORS 332.158' while ORS 332.158(4) expressly excludes public charter schools.
+
+    Built by `declared_authority()`, the same function the grounding check reads, so the
+    string the model is shown and the string its quote is checked against cannot drift
+    apart (#62)."""
     p = paths.get(doc_id)
     if not p:
-        return []
+        return ""
     fm, _ = parse_frontmatter(REPO_ROOT / p)
-    v = fm.get("statutes_implemented") or []
-    return [str(x) for x in v] if isinstance(v, list) else [str(v)]
+    return declared_authority(fm)
 
 
 def shared_authority_chapters(graph: dict) -> dict:
@@ -598,8 +610,10 @@ LOCAL_SYSTEM_V5 = LOCAL_SYSTEM_V4.replace(
     "internal      one rule contradicts itself\n"
     "wrong_authority the rule DECLARES it implements a statute that excludes its own\n"
     "              subject, or that its operative text never engages at all. The\n"
-    "              declaration is the 'declared statutes_implemented' line above each\n"
-    "              rule; quote it and cite it as statutes_implemented, not as rule text"
+    "              declaration is the line of statute numbers under 'declared\n"
+    "              statutes_implemented' above each rule. Quote THAT LINE and nothing\n"
+    "              else -- not the heading above it, not the rule title -- and cite it\n"
+    "              as statutes_implemented, not as rule text"
 ).replace(
     "- a citation to something that does not exist, or was repealed",
     "- a citation to something that does not exist, or was repealed (but a declared\n"
@@ -628,9 +642,17 @@ def render_user(bundle: dict) -> str:
         # quote drawn from it is attributable to `statutes_implemented` rather than being
         # mistaken for operative text — the two are different kinds of evidence and a
         # candidate must cite which one it means.
+        #
+        # THE LABEL IS ON ITS OWN LINE, and says so (#62). When label and value shared a
+        # line, Haiku quoted the whole line — "declared statutes_implemented (frontmatter,
+        # not operative text): ORS 332.158, ORS 338" — and that quote can never ground,
+        # because half of it is scaffolding this file wrote rather than anything the
+        # corpus says. Grounding must not be taught to accept our own words, so the
+        # rendering has to make the quotable content be the VALUE.
         if r.get("declares"):
-            parts += [f"declared statutes_implemented (frontmatter, not operative text): "
-                      f"{', '.join(r['declares'])}", ""]
+            parts += ["declared statutes_implemented (frontmatter, not operative text). "
+                      "If you quote this, quote ONLY the line below, not this heading:",
+                      r["declares"], ""]
         parts += [r["text"]]
     return "\n".join(parts)
 
@@ -918,23 +940,47 @@ def _contained_match(new_pairs: frozenset, prior: list) -> tuple:
     docstring says it exists to prevent. Mere overlap would be too loose: sharing one
     citation is common between genuinely distinct findings in the same section.
 
-    Two rules keep this from over-merging:
+    Three rules keep this from over-merging:
 
     1. One set must CONTAIN the other. This is what protects the case that refuted the
        original id-only design — ORS 435's two findings over the same document pair,
        (3) vs (6) and (1)(c) vs (1)(c). Neither contains the other, so they stay distinct.
-    2. AMBIGUITY DECLINES TO MERGE. If more than one prior candidate is in a containment
+    2. THE SHARED SET MUST BE AT LEAST TWO PAIRS. Containment says nothing when the
+       smaller set has one element, because a one-element set is a subset of every set
+       that happens to contain it — that is not containment, it is the bare overlap this
+       function refuses on purpose. Reproduced, not hypothesised: gemma4:e2b v3 reported
+       "the implementing rule provides specific procedural details regarding complaints
+       and fund withholding" citing ORS 332.158(4) ALONE, and merge_into_catalog folded it
+       into the pilot's separate wrong-authority finding over the same subsection — stamped
+       `corroborated_by` and handed it the pilot record's `dismissed` verdict. Two
+       independent models agreeing is the strongest signal this pipeline has; manufacturing
+       it from a vague single-citation candidate poisons the one number that matters.
+       A statute-vs-rule conflict IS a pair of provisions, so agreeing on two is the
+       weakest evidence of sameness worth acting on.
+    3. AMBIGUITY DECLINES TO MERGE. If more than one prior candidate is in a containment
        relation with the new one, we cannot tell which finding it corroborates, and
        picking arbitrarily would attach a human's triage decision to the wrong claim.
        Returning None costs a duplicate, which is visible; guessing costs a wrong
        dismissal, which is not.
 
-    Measured before adopting: over the whole catalog — 149 candidates, 60 chapters — this
-    produces exactly ONE merge, the true duplicate above, and no others.
+    Containment here is non-strict (<=), and that matters only to `dedupe_catalog`. Since
+    #63 dropped citation prose from the key, two records ALREADY in the catalog can have
+    identical pair sets — the three ORS 332.158 / OAR 581-026-0600 records do. Nothing
+    else can fold those: `merge_into_catalog` catches an equal set by fingerprint before
+    it ever gets here, but `dedupe_catalog` has no fingerprint path, and an unfolded pair
+    trips `validate_envelope`'s duplicate-fingerprint gate and takes the whole cache
+    build down. Strict `<` was tried first and left the catalog unbuildable.
+
+    Measured before adopting: over the whole catalog — 153 candidates, 60 chapters — this
+    produces exactly the two ORS 332 folds #63 describes, and no others. Rule 2 changes
+    none of them; it was added because dropping citation prose is what let a one-citation
+    candidate become a subset of a two-citation one in the first place.
     """
     if not new_pairs:
         return None, []
-    hits = [c for pairs, c in prior if pairs and (pairs < new_pairs or new_pairs < pairs)]
+    hits = [c for pairs, c in prior
+            if len(pairs) >= 2 and len(new_pairs) >= 2
+            and (pairs <= new_pairs or new_pairs <= pairs)]
     if len(hits) != 1:
         return None, []
     kept = next(pairs for pairs, c in prior if c is hits[0])
@@ -942,12 +988,20 @@ def _contained_match(new_pairs: frozenset, prior: list) -> tuple:
 
 
 def dedupe_catalog(cat: dict) -> list:
-    """Retro-apply containment merging to candidates ALREADY stored (#58).
+    """Retro-apply containment merging to candidates ALREADY stored (#58, #63).
 
     Fixing the merge stops new duplicates; it does not repair the ones written before the
     fix, and a duplicate that stays in the catalog keeps its second, independent triage
     slot — the exact harm. This walks each chapter in stored order, which is discovery
-    order, and folds a later entry into the earlier one it contains or is contained by.
+    order, and folds a later entry into the earlier one it contains, is contained by, or
+    now equals.
+
+    "Now equals" is the #63 case and it is not optional housekeeping: once citation prose
+    left the key, three ORS 332 records became one fingerprint, and an unfolded duplicate
+    fingerprint is a hard SystemExit in `validate_envelope`. The two causes are reported
+    separately — a merge caused by extra citations and a merge caused by reworded prose
+    are different claims, and a reader should not have to diff pair sets to tell which
+    one just happened.
 
     It REFUSES to absorb an entry carrying a human verdict. Two records that a person
     triaged separately are two decisions; silently keeping one of them is a data loss no
@@ -956,8 +1010,9 @@ def dedupe_catalog(cat: dict) -> list:
     for ch in cat.get("chapters") or []:
         keep: list = []
         for c in ch.get("candidates") or []:
+            pairs = candidate_pairs(c)
             hit, extra = _contained_match(
-                candidate_pairs(c), [(candidate_pairs(k), k) for k in keep])
+                pairs, [(candidate_pairs(k), k) for k in keep])
             status = ((c.get("triage") or {}).get("status") or "unreviewed").lower()
             if hit is None:
                 keep.append(c)
@@ -973,7 +1028,10 @@ def dedupe_catalog(cat: dict) -> list:
                 stamp["also_cited"] = sorted(extra)
             if stamp not in corr:
                 corr.append(stamp)
-            merges.append((ch["ors_chapter"], "merged", str(c.get("summary", ""))[:70]))
+            why = ("merged (same provisions, reworded citation)"
+                   if candidate_pairs(hit) == pairs else
+                   "merged (same finding, extra supporting citation)")
+            merges.append((ch["ors_chapter"], why, str(c.get("summary", ""))[:70]))
         ch["candidates"] = keep
     return merges
 
@@ -1285,11 +1343,18 @@ def selftest() -> int:
     # 11. Ambiguity must DECLINE to merge. With two priors each in a containment relation
     #     with the newcomer, there is no way to tell which finding it corroborates, and
     #     attaching a human's dismissal to the wrong claim is worse than a duplicate.
+    #
+    #     BOTH PRIORS CITE TWO PROVISIONS. They cited one each until the two-pair floor
+    #     went in, at which point this fixture stopped being able to fail: the floor
+    #     declined the merge before the ambiguity rule was ever consulted, so deleting
+    #     `len(hits) != 1` outright still gave 17/17. Caught by running exactly that.
     amb = {"schema_version": 2, "chapters": [
         {"ors_chapter": "700", "run_id": "pilot", "candidates": [
-            {"summary": "A", "documents": [{"id": "ors-700.1", "citation": "(1)"}],
+            {"summary": "A", "documents": [{"id": "ors-700.1", "citation": "(1)"},
+                                           {"id": "oar-700-1", "citation": "(2)"}],
              "run_id": "pilot", "model": "sonnet", "triage": {"status": "unreviewed"}},
-            {"summary": "B", "documents": [{"id": "oar-700-1", "citation": "(2)"}],
+            {"summary": "B", "documents": [{"id": "oar-700-1", "citation": "(2)"},
+                                           {"id": "oar-700-2", "citation": "(3)"}],
              "run_id": "pilot", "model": "sonnet", "triage": {"status": "unreviewed"}}]}]}
     fd, path = tempfile.mkstemp(suffix=".yml"); os.close(fd)
     Path(path).write_text(yaml.safe_dump(amb))
@@ -1299,7 +1364,8 @@ def selftest() -> int:
         cat = merge_into_catalog(
             {"c1": [{"summary": "A+B", "documents": [
                 {"id": "ors-700.1", "citation": "(1)"},
-                {"id": "oar-700-1", "citation": "(2)"}]}]},
+                {"id": "oar-700-1", "citation": "(2)"},
+                {"id": "oar-700-2", "citation": "(3)"}]}]},
             [{"custom_id": "c1", "ors_chapter": "700", "section": "ors-700.1",
               "partial": False, "rules": []}], "haiku", "haiku-4-5", "v4")
         ch = next(c for c in cat["chapters"] if c["ors_chapter"] == "700")
@@ -1358,10 +1424,11 @@ def selftest() -> int:
     # 14. v5's evidence change is the point of it — the declared authority must actually
     #     reach the model. A prompt naming a check over text the bundle never carries
     #     measures nothing, which is what v4 was unknowingly doing.
+    declared = declared_authority({"statutes_implemented": ["ORS 332.158", "ORS 338"]})
     probe = {"section": "ors-332.158", "section_title": "t", "statute": "S", "partial": False,
              "part": 0, "n_parts": 1,
              "rules": [{"id": "oar-581-026-0600", "title": "r", "text": "body",
-                        "declares": ["ORS 332.158", "ORS 338"]}]}
+                        "declares": declared}]}
     rendered = render_user(probe)
     if "ORS 332.158, ORS 338" not in rendered:
         fails.append("render_user drops declared statutes_implemented; the wrong_authority "
@@ -1370,9 +1437,119 @@ def selftest() -> int:
         fails.append("declared authority is rendered without distinguishing it from "
                      "operative text; a quote from it would be attributed to the rule body")
 
+    # 15. #62: a faithful quote of that declaration must GROUND, and the label printed
+    #     above it must not. The whole wrong_authority class was unverifiable by
+    #     construction — quote_is_grounded searched extract_fulltext(body) only, which
+    #     excludes frontmatter — so 26 candidates' worth of correct evidence read as
+    #     fabricated, in the one metric used to decide whether a model can be trusted.
+    #
+    #     THE FULL TEXT IS DELIBERATELY EMPTY in every call below. Rules routinely recite
+    #     their own authority in their operative text, so passing real rule text would let
+    #     these pass with the frontmatter haystack removed — a guard that cannot fail.
+    hay = fold(declared)
+    if declared not in [ln.strip() for ln in rendered.splitlines()]:
+        fails.append("the declared authority is not on a line of its own, so the model's "
+                     "faithful quote includes the label we injected and can never ground "
+                     "(#62: Haiku quoted exactly that label)")
+    if not quote_is_grounded(declared, "", hay):
+        fails.append("a verbatim quote of a rule's declared statutes_implemented does not "
+                     "ground; every wrong_authority candidate reads as fabricated")
+    if not quote_is_grounded("ORS 332.158", "", hay):
+        fails.append("quoting ONE declared statute does not ground — the evidence-length "
+                     "floor is rejecting a faithful quote of a short structured field")
+    label = next((ln for ln in rendered.splitlines() if "not operative text" in ln), "")
+    if quote_is_grounded(label, "", hay):
+        fails.append("the injected 'declared statutes_implemented' label grounds; the "
+                     "check is verifying a quote against words this pipeline wrote, not "
+                     "against the corpus")
+    if quote_is_grounded("ORS 999.999, ORS 111.111", "", hay):
+        fails.append("a statute the rule does not declare grounds against its declaration; "
+                     "the declared haystack matches anything")
+
+    # 16. #63: the same conflict, in the same two provisions, cited with different PROSE
+    #     must corroborate rather than duplicate. The pilot wrote "statutes_implemented",
+    #     v5 wrote "declared statutes_implemented and rule title"; the pair-sets overlapped
+    #     without either containing the other, so #58's containment guard correctly
+    #     declined and the rediscovery was scored as a MISS (v5 4/7 instead of 5/7).
+    def cand158(rule_citation):
+        return {"summary": "charter schools excluded from ORS 332.158",
+                "documents": [{"id": "ors-332.158", "citation": "ORS 332.158(4)"},
+                              {"id": "oar-581-026-0600", "citation": rule_citation}]}
+
+    def run332(new_cands, prior_citation="OAR 581-026-0600, statutes_implemented"):
+        base = {"schema_version": 2, "chapters": [
+            {"ors_chapter": "332", "run_id": "pilot", "candidates": [
+                {**cand158(prior_citation), "run_id": "pilot", "model": "sonnet",
+                 "triage": {"status": "dismissed", "note": "checked", "by": "@dzinck",
+                            "date": "2026-07-28"}}]}]}
+        fd, path = tempfile.mkstemp(suffix=".yml"); os.close(fd)
+        Path(path).write_text(yaml.safe_dump(base))
+        saved = CATALOG
+        try:
+            globals()["CATALOG"] = Path(path)
+            cat = merge_into_catalog(
+                {"c1": new_cands},
+                [{"custom_id": "c1", "ors_chapter": "332", "section": "ors-332.158",
+                  "partial": False, "rules": []}], "haiku-v5", "haiku-4-5", "v5")
+            return next(c for c in cat["chapters"] if c["ors_chapter"] == "332")
+        finally:
+            globals()["CATALOG"] = saved
+            os.unlink(path)
+
+    ch = run332([cand158("OAR 581-026-0600, declared statutes_implemented and rule title")])
+    if len(ch["candidates"]) != 1:
+        fails.append(f"a reworded citation duplicated the finding: "
+                     f"{len(ch['candidates'])} candidates, want 1")
+    elif (ch["candidates"][0].get("triage") or {}).get("status") != "dismissed":
+        fails.append("the reworded re-run resurrected a dismissed finding")
+    elif not ch["candidates"][0].get("corroborated_by"):
+        fails.append("the rediscovery was folded away without being recorded as "
+                     "corroboration — the recall it proves is invisible")
+    #     And the other direction, or the rule is just 'ignore the citation': a DIFFERENT
+    #     subsection of the same rule is a different provision and must stay separate.
+    ch = run332([cand158("OAR 581-026-0600(2)")])
+    if len(ch["candidates"]) != 2:
+        fails.append("citing a different subsection of the same rule merged into the "
+                     "existing finding; the citation key has stopped carrying subsections")
+
+    # 17. #63, retro half. Records ALREADY in the catalog whose pair sets became identical
+    #     when prose left the key can only be folded by dedupe_catalog — merge_into_catalog
+    #     never sees them. Leaving them is not cosmetic: two candidates sharing a
+    #     fingerprint is a hard SystemExit in validate_envelope, so the cache build stops.
+    cat17 = {"chapters": [{"ors_chapter": "332", "candidates": [
+        {**cand158("OAR 581-026-0600, statutes_implemented"), "run_id": "pilot",
+         "model": "sonnet", "triage": {"status": "unreviewed"}},
+        {**cand158("OAR 581-026-0600 (entire rule)"), "run_id": "haiku-v4",
+         "model": "haiku-4-5", "triage": {"status": "unreviewed"}}]}]}
+    merges17 = dedupe_catalog(cat17)
+    if len(cat17["chapters"][0]["candidates"]) != 1:
+        fails.append("dedupe_catalog left two stored records with an identical pair set; "
+                     "build_conflict_candidates_data.py cannot build this catalog")
+    elif not any("reworded" in m[1] for m in merges17):
+        fails.append("dedupe_catalog folded a reworded duplicate but reported it as an "
+                     "extra-citation merge; the two causes are different claims")
+
+    # 18. A candidate citing ONE provision must not be absorbed by a two-provision
+    #     finding. Its pair set is a subset of every finding that cites that provision, so
+    #     containment proves nothing about it — and #63's key change widened the exposure
+    #     by removing the citation prose that used to keep such a candidate distinct.
+    #     Real output, not invented: gemma4:e2b v3 on ors-332.158#0 reported a different
+    #     claim about the same subsection, cited it alone, and was recorded as
+    #     corroborating the pilot's wrong-authority finding while inheriting its verdict.
+    ch = run332([{"summary": "the rule adds procedural detail about complaints",
+                  "documents": [{"id": "ors-332.158", "citation": "ORS 332.158(4)"}]}])
+    if len(ch["candidates"]) != 2:
+        fails.append("a one-citation candidate was folded into a two-provision finding; "
+                     "it inherits a human verdict it was never judged against, and "
+                     "manufactures the corroboration signal the pipeline trusts most")
+    elif any(s.get("run_id") == "haiku-v5"
+             for s in ch["candidates"][0].get("corroborated_by") or []):
+        fails.append("a one-citation candidate was stamped as corroborating a finding it "
+                     "shares a single provision with")
+
     for f in fails:
         print(f"FAIL {f}")
-    print(f"merge selftest: {14 - len(fails)}/14 passed")
+    print(f"merge selftest: {18 - len(fails)}/18 passed")
     return 1 if fails else 0
 
 
@@ -1430,7 +1607,7 @@ def main():
         for chn, what, summary in merges:
             print(f"  ch {chn}: {what}\n      {summary}")
         print(f"\ncandidates: {before} -> {after}  "
-              f"({sum(1 for m in merges if m[1] == 'merged')} folded, "
+              f"({sum(1 for m in merges if m[1].startswith('merged'))} folded, "
               f"{sum(1 for m in merges if m[1].startswith('DECLINED'))} declined)")
         if args.dry_run:
             print("nothing written — this is --dry-run.")
