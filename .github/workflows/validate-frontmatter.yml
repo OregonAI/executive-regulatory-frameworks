@@ -95,6 +95,14 @@ jobs:
       # leaving a file that still parsed and every slug still resolving.
       - name: Budget agency codes must match the reviewed mapping
         run: python3 src/link_budget_codes.py --check
+      # Conflict candidates that need no model. A hand-labelled taxonomy of the 137
+      # frontier-pilot candidates found 29% were of four deterministic types, and code
+      # finds far more of them than the models did — the pilot reported 21 dead citations
+      # in total, this scan finds 5,734. It was written, worked, and was wired into
+      # nothing; the artifact could drift from the corpus indefinitely with no signal.
+      # 55 seconds over all 36,953 rules, no network, no model.
+      - name: Mechanical conflict findings must be current
+        run: python3 src/detect_mechanical.py --check
 
       # --- heaviest full-corpus scans: nightly / on-demand only ---
       # agency_profile selftest: scans every one of ~69k files' frontmatter with no
