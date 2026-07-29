@@ -1137,6 +1137,72 @@ def write_run(run_id: str, model: str, prompt_version: str, thinking: int, tier:
     return path
 
 
+def default_run_id() -> str:
+    """The --run-id used when none is given. Named so a collect can tell "left at the
+    default" from "deliberately relabelled" — adopting the batch's run_id in the first
+    case, honouring the override in the second."""
+    return f"run-{date.today().isoformat()}"
+
+
+def write_batch_state(batch_id: str, run_id: str, model: str, prompt_version: str,
+                      tier: str, bundles: list) -> Path:
+    """Record what a submitted batch was built from, in the shape --collect needs (#68).
+
+    Uses `_RUN_BUNDLE_FIELDS` plus rule IDS — the same shape `write_run()` persists — so
+    the two saved forms cannot drift. The previous version stored
+    `{k: v for k, v in b.items() if k not in ("statute", "rules")}`, which dropped `rules`
+    entirely while `merge_into_catalog` reads `len(b["rules"])` for `rules_reviewed`, so
+    the record was unusable for the one job it existed to do."""
+    STATE.mkdir(parents=True, exist_ok=True)
+    path = STATE / f"{batch_id}.json"
+    path.write_text(json.dumps({
+        "batch_id": batch_id, "run_id": run_id, "model": model,
+        "prompt_version": prompt_version, "tier": tier,
+        "bundles": [{**{k: b[k] for k in _RUN_BUNDLE_FIELDS},
+                     "rules": [r["id"] for r in b["rules"]]} for b in bundles],
+    }, indent=1), encoding="utf-8")
+    return path
+
+
+def read_batch_state(batch_id: str) -> dict:
+    """The submit-time record of a batch. Refuses rather than falling back to a rebuild.
+
+    THE BUG THIS CLOSES (#68). `--collect` used to merge results against a bundle list
+    recomputed from whatever `--chapters`/`--tier`/`--limit` were on the command line, so
+    a collect invoked with different arguments from its submit matched nothing and
+    discarded an entire paid batch. The default path was the easiest to get wrong: with no
+    `--chapters`, the list derives from `set(shared) - done`, and `done` reads the catalog
+    — so the correct arguments depended on whether anything else had been merged since.
+
+    Falling back to a rebuild when the record is missing would reintroduce exactly that,
+    quietly, on the rarer path. Better to refuse and say what is missing."""
+    path = STATE / f"{batch_id}.json"
+    if not path.exists():
+        # Not relative_to(REPO_ROOT): STATE is redirected to a temp dir under test, and a
+        # ValueError from formatting an ERROR MESSAGE would mask the condition it reports.
+        try:
+            shown = path.relative_to(REPO_ROOT)
+        except ValueError:
+            shown = path
+        sys.exit(f"--collect {batch_id}: no submit record at "
+                 f"{shown}.\nThe bundle list a batch was built from "
+                 "cannot be reconstructed from the command line without risking a silent "
+                 "mismatch, so this refuses rather than guessing. If the batch was "
+                 "submitted from another checkout, copy its state file across.")
+    d = json.loads(path.read_text())
+    missing = [k for k in ("batch_id", "run_id", "model", "prompt_version", "bundles")
+               if d.get(k) is None]
+    if missing:
+        sys.exit(f"--collect {batch_id}: submit record is missing {missing}. It predates "
+                 "the #68 fix and cannot be collected against safely; re-submit.")
+    short = [b["custom_id"] for b in d["bundles"]
+             if any(k not in b for k in (*_RUN_BUNDLE_FIELDS, "rules"))]
+    if short:
+        sys.exit(f"--collect {batch_id}: {len(short)} stored bundle(s) lack fields the "
+                 f"merge reads, e.g. {short[:3]}. Written before the #68 fix; re-submit.")
+    return d
+
+
 def read_run(path) -> dict:
     """Load a saved run. Fails loudly on a file missing anything the merge needs, rather
     than merging a partial run and reporting success."""
@@ -1855,9 +1921,67 @@ def selftest() -> int:
         fails.append("merge_into_catalog accepted a one-document wrong_authority candidate "
                      "silently; the run reports success and the cache cannot be built")
 
+    # 25. #68: a batch's bundle list must come from its own submit record, so a collect
+    #     invoked with different selection flags still merges every result. Previously
+    #     `--collect` rebuilt the list from `--chapters`/`--tier`/`--limit`, and a
+    #     mismatch matched nothing — discarding a paid batch.
+    #
+    #     The fixture stores a bundle the CURRENT flags would never produce (chapter 999
+    #     is not in the corpus), so a round-trip that still merges can only have read the
+    #     record. A rebuild would return zero bundles for it.
+    saved_state2 = STATE
+    with tempfile.TemporaryDirectory() as tmpdir:
+        try:
+            globals()["STATE"] = Path(tmpdir)
+            probe = [{"custom_id": "ors-999.001#0", "ors_chapter": "999",
+                      "section": "ors-999.001", "partial": False, "part": 0,
+                      "n_parts": 1, "rules": [{"id": "oar-999-001-0001"}],
+                      "statute": "text the record must not need"}]
+            write_batch_state("msgbatch_probe", "r1", "m1", "v6", "section", probe)
+            # read_batch_state exits on an under-specified record, which is right in
+            # production and wrong here: an uncaught SystemExit aborts the suite before it
+            # can print its count, so a real regression would look like a crash rather
+            # than a numbered failure. Caught and recorded instead.
+            try:
+                got = read_batch_state("msgbatch_probe")
+            except SystemExit as e:
+                got = None
+                fails.append(f"batch state round-trip rejected its own output: {e}")
+            if got is not None:
+                b0 = got["bundles"][0]
+                for field in (*_RUN_BUNDLE_FIELDS, "rules"):
+                    if field not in b0:
+                        fails.append(f"batch state drops `{field}`, which "
+                                     "merge_into_catalog reads; a collect against it "
+                                     "would fail or undercount")
+                if b0.get("rules") != ["oar-999-001-0001"]:
+                    fails.append("batch state does not persist rule ids; rules_reviewed "
+                                 "would be wrong for every collected bundle")
+                if got["prompt_version"] != "v6" or got["model"] != "m1":
+                    fails.append("batch state loses the submit's model/prompt identity, "
+                                 "so a collect would relabel the run's provenance")
+        finally:
+            globals()["STATE"] = saved_state2
+
+    # 26. A missing submit record must REFUSE, not fall back to rebuilding. The fallback
+    #     is the original bug, and it would return on the rarer path where it is least
+    #     likely to be noticed.
+    saved_state3 = STATE
+    with tempfile.TemporaryDirectory() as tmpdir:
+        try:
+            globals()["STATE"] = Path(tmpdir)
+            try:
+                read_batch_state("msgbatch_does_not_exist")
+                fails.append("read_batch_state accepted a missing submit record; --collect "
+                             "would rebuild the bundle list and silently mismatch")
+            except SystemExit:
+                pass
+        finally:
+            globals()["STATE"] = saved_state3
+
     for f in fails:
         print(f"FAIL {f}")
-    print(f"merge selftest: {24 - len(fails)}/24 passed")
+    print(f"merge selftest: {26 - len(fails)}/26 passed")
     return 1 if fails else 0
 
 
@@ -1894,7 +2018,7 @@ def main():
                          "pilot's recorded weakness in a cheap model was UNDER-reporting, "
                          "not hallucination. Recorded per candidate so a thinking run "
                          "stays distinguishable from one without.")
-    ap.add_argument("--run-id", default=f"run-{date.today().isoformat()}")
+    ap.add_argument("--run-id", default=default_run_id())
     ap.add_argument("--supersede", action="store_true",
                     help="DESTRUCTIVE: replace an already-covered chapter's candidates "
                          "instead of adding to them. Everything this run does not "
@@ -1963,16 +2087,40 @@ def main():
     done = {str(ch["ors_chapter"]).lower() for ch in
             yaml.safe_load(CATALOG.read_text())["chapters"]}
 
-    if args.chapters:
-        chapters = [c.strip().lower() for c in args.chapters.split(",")]
+    batch_state = None
+    if args.collect:
+        # #68: the bundle list comes from the batch's own submit record, never from this
+        # invocation's flags. Selection flags are REFUSED rather than ignored — silently
+        # accepting `--chapters` here would read as though it had scoped the collect.
+        bad = [f for f, v in (("--chapters", args.chapters), ("--limit", args.limit),
+                              ("--max-context-tokens",
+                               args.max_context_tokens != MAX_BUNDLE_TOKENS or None))
+               if v]
+        if bad:
+            sys.exit(f"--collect takes its bundles from the batch's submit record, so "
+                     f"{', '.join(bad)} would have no effect. Remove them.")
+        batch_state = read_batch_state(args.collect)
+        bundles = batch_state["bundles"]
+        chapters = sorted({str(b["ors_chapter"]) for b in bundles})
     else:
-        chapters = sorted(set(shared) - done)
-    bundles = build_bundles(chapters, graph, args.tier, args.max_context_tokens)
-    if args.limit:
-        bundles = bundles[:args.limit]
+        if args.chapters:
+            chapters = [c.strip().lower() for c in args.chapters.split(",")]
+        else:
+            chapters = sorted(set(shared) - done)
+        bundles = build_bundles(chapters, graph, args.tier, args.max_context_tokens)
+        if args.limit:
+            bundles = bundles[:args.limit]
 
     model = args.model or (DEFAULT_MODEL if args.backend.startswith("claude")
                            else "llama3.1:8b")
+    if batch_state:
+        # The submit's identity wins over anything retyped now, so a collect cannot
+        # relabel a run's provenance by accident. run_id is only adopted when the user
+        # left it at the default — an explicit --run-id on a collect is a deliberate
+        # relabel and is honoured.
+        model = batch_state["model"]
+        if args.run_id == default_run_id():
+            args.run_id = batch_state["run_id"]
 
     if args.dry_run or not (args.submit or args.collect
                             or args.backend in INLINE_BACKENDS):
@@ -2005,7 +2153,8 @@ def main():
     # Resolve the prompt once, so the frontier and local paths and the recorded
     # provenance cannot drift apart. The local variant keeps v3's checks but not its
     # grading, which a 7B does not produce reliably (see LOCAL_SYSTEM).
-    prompt_version = PROMPT_VERSIONS[args.prompt]
+    prompt_version = (batch_state["prompt_version"] if batch_state
+                      else PROMPT_VERSIONS[args.prompt])
     sys_prompt = SYSTEM_V3 if args.prompt in ("v3", "v4", "v5", "v6") else SYSTEM
     local_prompt = PROMPT_TEXTS[args.prompt]
     # v4 differs from v3 only in the escape hatch, which lives in the LOCAL prompt text.
@@ -2023,17 +2172,13 @@ def main():
     elif args.backend == "claude":
         backend = ClaudeBatchBackend(model, sys_prompt, prompt_version, thinking=args.thinking)
         if args.submit:
-            STATE.mkdir(parents=True, exist_ok=True)
             batch_id = backend.submit(bundles)
-            (STATE / f"{batch_id}.json").write_text(json.dumps(
-                {"batch_id": batch_id, "run_id": args.run_id, "model": model,
-                 "prompt_version": prompt_version,
-                 "bundles": [{k: v for k, v in b.items() if k not in ("statute", "rules")}
-                             for b in bundles]}, indent=1))
+            write_batch_state(batch_id, args.run_id, model, prompt_version,
+                              args.tier, bundles)
             print(f"submitted batch {batch_id} ({len(bundles)} requests)\n"
                   f"collect with: python3 src/analyze_conflicts.py --collect {batch_id}")
             return
-        results = backend.collect(args.collect, bundles)
+        results = backend.collect(args.collect, bundles)   # bundles from the state file
     else:
         results, status = LocalBackend(model, args.local_url,
                                        system=local_prompt).run(bundles)
