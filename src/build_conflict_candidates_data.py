@@ -355,7 +355,18 @@ def compute(collect_ungrounded: list | None = None) -> dict:
             src_cache[doc_id] = grounding_sources(REPO_ROOT / paths[doc_id])
         return src_cache[doc_id]
 
-    n_candidates = n_docs_checked = n_artifacts = 0
+    status_cache: dict = {}
+
+    def doc_status(doc_id):
+        """A document's frontmatter `status`, cached. `repealed` is the value that
+        matters: 2,031 of the corpus's 36,953 rules carry it."""
+        if doc_id not in status_cache:
+            path = paths.get(doc_id)
+            status_cache[doc_id] = (parse_frontmatter(REPO_ROOT / path)[0].get("status")
+                                    if path else None)
+        return status_cache[doc_id]
+
+    n_candidates = n_docs_checked = n_artifacts = n_repealed = 0
     n_grounded = n_absence = n_ungrounded = 0
     all_agencies = {}
     triage_counts = dict.fromkeys(TRIAGE_STATES, 0)
@@ -365,6 +376,14 @@ def compute(collect_ungrounded: list | None = None) -> dict:
         for cand in ch.get("candidates", []):
             n_candidates += 1
             validate_envelope(ch["ors_chapter"], cand, seen_fingerprints)
+            # A candidate resting on a REPEALED rule is not a live conflict. The rule is
+            # gone; whatever it said no longer binds anyone. These are marked rather than
+            # deleted — the finding was true when made, and silently dropping catalog rows
+            # would leave the count unexplainable — and the page hides them by default.
+            cand["cites_repealed"] = sorted(
+                {d["id"] for d in cand["documents"] if doc_status(d.get("id")) == "repealed"})
+            if cand["cites_repealed"]:
+                n_repealed += 1
             triage_counts[cand["triage"]["status"]] += 1
             severity_counts[cand.get("severity") or "ungraded"] += 1
             for doc in cand["documents"]:
@@ -435,6 +454,8 @@ def compute(collect_ungrounded: list | None = None) -> dict:
         "n_quotes_grounded": n_grounded,
         "n_quotes_absence_claim": n_absence,
         "n_quotes_ungrounded": n_ungrounded,
+        # Surfaced, not silent: the page hides these by default and says how many.
+        "n_candidates_citing_repealed": n_repealed,
         "schema_version": cat.get("schema_version", 1),
         "triage_counts": triage_counts,
         "severity_counts": severity_counts,
