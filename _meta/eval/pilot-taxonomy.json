@@ -1,8 +1,8 @@
 {
  "note": "Hand-labelled types for the 137 frontier-pilot conflict candidates. mechanical_types are handled by detect_mechanical.py and are DISQUALIFIED from the model prompt; the rest are what a model is actually for.",
  "key": "candidate_fingerprint(ors_chapter, candidate) \u2014 see build_conflict_candidates_data.py. NOT a position: the catalog is re-sorted by chapter on every merge, and positional labels were measured landing on the correct candidate for 4 of 137 (#64).",
- "recovered_from": "8723043e57",
- "regenerate": "python3 src/eval_conflicts.py --migrate-taxonomy 8723043e57",
+ "recovered_from": "eca52b22d0",
+ "regenerate": "python3 src/eval_conflicts.py --migrate-taxonomy eca52b22d0",
  "mechanical_types": [
   "dead_xref",
   "metadata",
