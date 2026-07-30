@@ -1,2 +1,22 @@
 pyyaml
 corpus-toolkit[mcp] @ git+https://github.com/OregonAI/corpus-toolkit@v1.8.0
+
+# SEMANTIC SEARCH AT SERVE TIME. src/semantic_search.py needs a query encoder, because a
+# query must be embedded by the SAME model the artifact was built with (BAAI/bge-m3, dim
+# 1024) -- a different model produces vectors in a different space and the scores are
+# meaningless rather than merely worse.
+#
+# CPU WHEEL EXPLICITLY. The default torch wheel carries CUDA and is ~2.5 GB; the deploy
+# host has no GPU, so that would be 2.5 GB of dead weight in an image already flagged as
+# too large (platform-deploy#3). The CPU wheel is a few hundred MB.
+#
+# Measured on 2 threads, matching the 2-core host: ~65-69 ms to encode one query after
+# warmup. The first call is ~600 ms (lazy init), so the first search after a restart is
+# noticeably slower than the rest.
+#
+# The MODEL WEIGHTS ARE NOT INSTALLED HERE. They are volume-mounted from the host along
+# with the embeddings artifact (see platform-deploy docker-compose.yml), which keeps 2.2 GB
+# of weights and 253 MiB of vectors out of the image.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+sentence-transformers

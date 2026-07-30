@@ -32,7 +32,30 @@ def _semantic_index():
                    for line in CHUNKS.read_text(encoding="utf-8").splitlines() if line]
         if vecs.shape[0] != len(doc_ids):
             raise ValueError("vectors/chunks length mismatch")
-        embedder = make_embedder(meta["backend"], meta["dim"], meta.get("model"))
+        # The artifact records the model by HUB ID ("BAAI/bge-m3"), which
+        # sentence-transformers resolves against the HF cache. In a container the weights
+        # are volume-mounted at a path instead, with no cache and no network, so the hub id
+        # would fail to resolve. CORPUS_SEMANTIC_MODEL_PATH overrides it with a local
+        # directory.
+        #
+        # This is a SUBSTITUTION OF LOCATION ONLY, never of model: query vectors must come
+        # from the same model as the artifact or the scores are meaningless rather than
+        # merely worse. The override is therefore only honoured for the transformer
+        # backend, and the loaded dim is checked against the artifact's below.
+        model_ref = meta.get("model")
+        local = os.environ.get("CORPUS_SEMANTIC_MODEL_PATH")
+        if local and meta["backend"] == "sentence-transformers" and Path(local).is_dir():
+            model_ref = local
+        embedder = make_embedder(meta["backend"], meta["dim"], model_ref)
+
+        # A dim mismatch means the query encoder and the vectors disagree, which produces
+        # confident nonsense rather than an error. Fail closed to keyword-only instead.
+        probe = embedder.encode(["dimension probe"])[0]
+        if len(probe) != meta["dim"]:
+            raise ValueError(
+                f"query encoder produces dim {len(probe)} but the artifact is dim "
+                f"{meta['dim']} -- refusing to serve semantic search on mismatched "
+                "vectors")
 
         # CONVERT ONCE, NOT PER QUERY (#76). The artifact is int8 on disk -- 206 MiB for
         # 211,102 x 1024 -- and rank() used to do `vecs.astype(np.float32) @ q`, which
