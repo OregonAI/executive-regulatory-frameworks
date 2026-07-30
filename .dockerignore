@@ -1,11 +1,28 @@
 .venv/
 _meta/.cache/
 __pycache__/
-# ~265 MB of vectors the image cannot read: requirements.txt omits the embeddings extras,
-# so numpy is absent and src/semantic_search.py degrades to keyword-only. Pure dead weight.
+# The embeddings artifact is MOUNTED, not copied: docker-compose.yml bind-mounts
+# /home/dzinck/mcp-assets/embeddings over /repo/_meta/embeddings read-only. Excluding it here
+# keeps 253 MiB of vectors out of the image and out of the registry, and lets the artifact be
+# replaced without a rebuild. (An earlier version of this comment said numpy was absent and
+# the vectors were unreadable dead weight — that stopped being true when serve-time semantic
+# search was enabled; requirements.txt now installs torch + sentence-transformers.)
 _meta/embeddings/
+# 1.04 GiB, and NOT read at runtime. Snapshots are the provenance evidence for
+# corpus-verify-provenance; grep confirms zero references to them anywhere under
+# corpus_toolkit/mcp/ — every consumer is in validate/provenance.py or grounding.py, both
+# CLI/CI. Shipping them made the image 25% larger for a file the server never opens.
+#
+# Consequence, stated so it is not a surprise: `corpus-verify-provenance` cannot run INSIDE
+# the container. It is a CI gate and belongs there; run it against a checkout, not an image.
+_meta/snapshots/
 # Generated at deploy time by the pages workflow; never needed at runtime.
 site/
 # NOTE: .git is deliberately NOT ignored — it is a RUNTIME dependency (the FTS cache key is
 # `git rev-parse HEAD` + a hash of `git status --porcelain`, and corpus_overview() runs
 # `git log -1`). Build from a depth-1 clone to keep it small; see the Dockerfile header.
+#
+# Measured caveat on that "keep it small": depth-1 elides HISTORY, but one commit of a repo
+# this size still needs every blob in its tree, so /repo/.git is ~495 MB in the built image,
+# not the ~20 MB the Dockerfile header implies. Removing it entirely needs a generated
+# build-info.json in the toolkit (corpus-toolkit's own issue), not a change here.

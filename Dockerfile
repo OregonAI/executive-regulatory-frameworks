@@ -14,16 +14,24 @@
 #   git clone --depth 1 --branch main https://github.com/OregonAI/executive-regulatory-frameworks build/
 #   docker build -t executive-regulatory-frameworks-mcp build/
 #
-# Keyword-only by design: requirements.txt pulls the toolkit without the embeddings extras,
-# so semantic search is inactive and src/semantic_search.py degrades to BM25. Adding it
-# would mean torch + a 2.3 GB model + the vector artifact, which cannot be rebuilt on a
-# GPU-less host anyway — see requirements-embeddings.txt.
+# SEMANTIC SEARCH IS ACTIVE, and none of its bulk is in this image. requirements.txt
+# installs torch (CPU wheel) + sentence-transformers so a query can be encoded; the 253 MiB
+# vector artifact and 2.2 GB of BAAI/bge-m3 weights are bind-mounted by
+# platform-deploy/docker-compose.yml. Neither can be built here — the artifact needs a GPU
+# — so mounting is not an optimisation, it is the only way this works.
+#
+# LAYER ORDER IS LOAD-BEARING. requirements.txt is copied and installed BEFORE the corpus,
+# so a content-only change reuses the pip layer. With the two steps the other way round —
+# which is how this file read until 2026-07-30 — every edited markdown file re-downloaded
+# torch and sentence-transformers. That was the bulk of a 15-minute rebuild; the index step
+# below is only ~70s of it.
 FROM python:3.12-slim
 RUN apt-get update && apt-get install -y --no-install-recommends git && \
     rm -rf /var/lib/apt/lists/*
 WORKDIR /repo
-COPY . .
+COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
+COPY . .
 # pre-build the FTS index so first request is instant (~70s at this corpus's size)
 RUN python3 -c "\
 from corpus_toolkit import config as config_mod; \
