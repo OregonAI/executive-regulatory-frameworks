@@ -6,7 +6,7 @@ e.g. OHA's public-health division rules are compared against OHA's own policies,
 as a separate zero-policy agency.
 
 A zero here means zero policy/procedure documents have been INGESTED for that agency —
-policy ingestion is scoped and incomplete (see BACKLOG.md "Agency-policy coverage"). It is
+policy ingestion is scoped and incomplete (see issue #79 and the DHS/OHA scope notes there). It is
 never evidence that an agency has no internal policies; every piece of copy in this viz says
 so explicitly.
 
@@ -81,7 +81,7 @@ def build_data() -> dict:
                 "parent_slug). ‘Policy documents’ = policy/procedure doc types only "
                 "(standards & manuals excluded). A zero here means zero policy/procedure "
                 "documents have been ingested for that agency to date — policy "
-                "ingestion is scoped and incomplete (see BACKLOG.md ‘Agency-policy "
+                "ingestion is scoped and incomplete (see GitHub issue #79 ‘Agency-policy "
                 "coverage’); it is never evidence that an agency has no internal "
                 "policies. Non-authoritative.",
     }

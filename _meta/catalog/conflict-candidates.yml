@@ -4,7 +4,7 @@ note: 'CURATED, AI-ASSISTED, NOT mechanically derived and NOT legally reviewed. 
   rules (the shared-authority set already computed in _meta/agency-graph.json), an LLM read the chapter''s
   cited statute text plus every implementing rule''s full text in one pass and was asked to identify CANDIDATE
   inconsistencies — never to assert that a conflict exists. Every candidate below carries the exact document
-  IDs and quoted text it is based on; nothing here should be read as a legal finding. See BACKLOG.md "Visualization"
+  IDs and quoted text it is based on; nothing here should be read as a legal finding. See git history for the retired BACKLOG.md "Visualization" section
   for the method note and docs/mcp.md-style disclaimers used elsewhere in this repo. This file is a snapshot
   of three runs over 60 distinct chapters (of 245 in the full shared-authority set), not an exhaustive
   or automatically-refreshed corpus scan — rerunning the pilot over the same or different chapters could

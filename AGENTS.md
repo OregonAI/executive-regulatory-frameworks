@@ -222,7 +222,8 @@ outcome that is never acceptable.
   `python3 src/new_agency.py <slug>` scaffolds the `agencies/<slug>/` tree and
   update-group stub, and prints the onboarding checklist; then follow the intake
   skill per knowledge body. Known deferred generalizations for multi-agency scale
-  live in [BACKLOG.md](BACKLOG.md).
+  are tracked as GitHub issues, not a file in the repo -- `BACKLOG.md` was retired
+  2026-07-30 and its live items became issues #76-#79.
 - **Checking for / applying upstream changes**: use the `/check-updates` skill
   (`.claude/skills/check-updates`) — group-scoped, token-efficient, driven by
   `src/check_updates.py` over the update groups in `_meta/sources/`. Log a

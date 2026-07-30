@@ -20,7 +20,7 @@ FURN_RE = re.compile(
 FURN_HINTS = ("page", "oregon accounting manual", "policy no", "statewide policy",
               "level 1, published", "effective:", "reviewed:")
 
-# Per-agency page-furniture patterns (BACKLOG: data, not one ever-growing regex). Each
+# Per-agency page-furniture patterns (data, not one ever-growing regex). Each
 # agency's PDFs have their own running header/footer; the shared FURN_RE handles DAS/OAM.
 # A running footer whose page number varies per page ("Effective: 04/14/21  Page 3") is
 # NOT caught by the repeated-identical-line rule below, so agencies with that style need

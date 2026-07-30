@@ -179,7 +179,8 @@ def shared_authority_chapters(graph: dict) -> dict:
     the structural precondition for an inter-agency inconsistency.
 
     Note this set is currently 223 chapters, not the 245 quoted in the pilot's own notes:
-    the implements-contamination and repealed-rule fixes (BACKLOG.md, 2026-07-24) removed
+    the implements-contamination and repealed-rule fixes (2026-07-24, recorded in the
+    retired BACKLOG.md -- see git history) removed
     a lot of spurious edges, and some chapters fell out of the set as a result."""
     reg = load_registry_by_chapter()
     by_chapter = collections.defaultdict(set)
@@ -2103,7 +2104,7 @@ def selftest() -> int:
     #     and the model cannot tell, because the bundle carries no status.
     #
     #     This currently holds for free: all 79,442 `implemented_by` edges point at
-    #     `current` rules, because the repealed-rule cleanup (BACKLOG.md, 2026-07-24)
+    #     `current` rules, because the repealed-rule cleanup (2026-07-24; retired BACKLOG.md)
     #     removed the rest. That is exactly why it needs asserting — nothing in
     #     build_bundles filters on status, so a graph rebuild that restored those edges
     #     would put 2,031 repealed rules back into paid runs with no error anywhere.

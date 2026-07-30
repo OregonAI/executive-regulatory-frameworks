@@ -92,7 +92,8 @@ def authority_text(fm, body):
     the body's "Statutory/Other Authority:" line frequently cite statutes the rule does
     NOT implement (general enabling statutes, adjacent context, etc.); mixing them in
     here previously contaminated `implements` with authority-only citations (see
-    BACKLOG.md's "relationships.implements built from legal_authority" entry). Rules
+    the retired BACKLOG.md's "relationships.implements built from legal_authority" entry,
+    recoverable from git history). Rules
     therefore use ONLY the already-parsed statutes_implemented frontmatter (populated by
     enrich_oar.py from the body's "Statutes/Other Implemented:" line) — never
     legal_authority, never the raw "Statutory/Other Authority:" text."""
