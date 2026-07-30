@@ -54,6 +54,8 @@ separately rather than dropped silently.
 """
 import argparse
 import collections
+import contextlib
+import io
 import json
 import pathlib
 import subprocess
@@ -99,7 +101,7 @@ def load_taxonomy() -> tuple[dict, set]:
     written. `merge_into_catalog` re-sorts `cat["chapters"]` by chapter number, and the
     catalog at the time of labelling was in discovery order (291, 215, 270, ...) rather
     than sorted order (105, 106, 107, ...). Measured against the labelling commit
-    8723043e57: positional lookup lands on the correct candidate for **4 of 137** labels
+    eca52b22d0: positional lookup lands on the correct candidate for **4 of 137** labels
     today. Not shifted — scrambled.
 
     A fingerprint key cannot go silently wrong the same way. If the identity function
@@ -147,6 +149,60 @@ def _migration_refusals(fps: list, positional: dict, live: set) -> list:
                    f"catalog, e.g. {lost[:3]} — they were edited or folded away, and "
                    "re-attaching their labels needs a human")
     return out
+
+
+# The commit whose catalog+taxonomy the committed mapping is re-derived from. Property 4 of
+# the selftest asserts that re-derivation still works, so this is load-bearing, not a note.
+#
+# IT IS A BARE SHA AND SHAS ARE NOT FOREVER. This was `8723043e57` until the 2026-07-29
+# identity rewrite (author/committer scrub + force-push) gave every commit a new hash and
+# broke the gate on main. The trees were untouched, so the same commit still exists under a
+# new name -- `--find-labelling-commit` locates it by re-deriving the mapping at each commit
+# and reporting the OLDEST that reproduces it exactly. Run that after any history rewrite
+# and paste the answer here.
+LABELLING_COMMIT = "eca52b22d0"
+
+def find_labelling_commit() -> int:
+    """Locate LABELLING_COMMIT by content. Prints the answer; returns an exit code.
+
+    For use after a history rewrite. A rewrite (the 2026-07-29 identity scrub, say) changes
+    every commit hash while leaving every TREE identical, so the labelling commit still
+    exists -- it just answers to a different name, and the pinned SHA fails with a bare
+    `git show` error that says nothing about why.
+
+    Reports the OLDEST commit whose re-derived mapping equals the committed one. Oldest
+    because many later commits re-derive identically -- neither the catalog nor the taxonomy
+    changed between them -- and the one that MEANS something is where the labels were
+    written. Picking the newest would drift the pin forward on every unrelated commit.
+    """
+    labels, _ = load_taxonomy()
+    if not labels:
+        print("no committed taxonomy to match against", file=sys.stderr)
+        return 1
+    shas = subprocess.run(["git", "log", "--format=%H"], cwd=REPO_ROOT,
+                          capture_output=True, text=True).stdout.split()
+    print(f"searching {len(shas)} commits for one that re-derives {len(labels)} labels...",
+          file=sys.stderr)
+    for sha in reversed(shas):                       # oldest first
+        buf = io.StringIO()
+        try:
+            # migrate_taxonomy() reports wrong-shaped commits on stdout and sys.exit()s;
+            # both are expected here, for most commits, and are not this function's output.
+            with contextlib.redirect_stdout(buf), contextlib.redirect_stderr(buf):
+                if migrate_taxonomy(sha)["labels"] != labels:
+                    continue
+        except BaseException:                        # noqa: BLE001 — SystemExit included
+            continue
+        desc = subprocess.run(["git", "log", "-1", "--format=%h %cs %s", sha],
+                              cwd=REPO_ROOT, capture_output=True, text=True).stdout.strip()
+        print(f"LABELLING_COMMIT = \"{sha[:10]}\"   # {desc}")
+        print("update it in src/eval_conflicts.py, and `recovered_from` + `regenerate` in "
+              f"{TAXONOMY.relative_to(REPO_ROOT)}", file=sys.stderr)
+        return 0
+    print("NO commit re-derives the committed taxonomy. Either the taxonomy was edited by "
+          "hand since it was migrated, or the labelling commit is not in this history.",
+          file=sys.stderr)
+    return 1
 
 
 def migrate_taxonomy(ref: str) -> dict:
@@ -404,7 +460,7 @@ def selftest() -> int:
     # 2. #64: every hand label resolves to a ground-truth candidate. Position-keying could
     #    not fail this way — every index resolved to SOMETHING — which is exactly why the
     #    labels went 133/137 wrong in silence. Measured against the labelling commit
-    #    8723043e57, positional lookup lands correctly for 4 of 137 today.
+    #    eca52b22d0, positional lookup lands correctly for 4 of 137 today.
     labels, _ = load_taxonomy()
     if not labels:
         fails.append("no hand labels loaded; RECALL BY TYPE would report nothing and this "
@@ -433,11 +489,18 @@ def selftest() -> int:
     # 4. #64: the committed mapping must be the one re-derived from the labelling commit,
     #    so a mapping built the wrong way round is caught rather than trusted.
     try:
-        recovered = migrate_taxonomy("8723043e57")["labels"]
-    except Exception as e:                      # noqa: BLE001 — reported, not hidden
+        recovered = migrate_taxonomy(LABELLING_COMMIT)["labels"]
+    except BaseException as e:                  # noqa: BLE001 — reported, not hidden
+        # BaseException, not Exception: migrate_taxonomy() sys.exit()s when the catalog at
+        # `ref` is the wrong shape, and SystemExit is not an Exception. Catching only
+        # Exception let that abort the whole selftest, which prints an incomplete pass count
+        # and exits non-zero -- indistinguishable, at a glance, from this property failing.
         recovered = None
-        fails.append(f"the taxonomy cannot be re-derived from 8723043e57 ({e}); the "
-                     "mapping is no longer reproducible from git")
+        fails.append(f"the taxonomy cannot be re-derived from {LABELLING_COMMIT} ({e}). "
+                     "If history was rewritten, that SHA either no longer exists or no "
+                     "longer names the labelling commit: run `python3 "
+                     "src/eval_conflicts.py --find-labelling-commit` to locate it by "
+                     "content, then update LABELLING_COMMIT.")
     if recovered is not None and recovered != labels:
         wrong = sum(1 for fp, t in recovered.items() if labels.get(fp) != t)
         fails.append(f"{wrong} committed label(s) disagree with the mapping re-derived "
@@ -542,9 +605,17 @@ def main():
     ap.add_argument("--migrate-taxonomy", metavar="REF",
                     help="re-key _meta/eval/pilot-taxonomy.json from the positional labels "
                          "at git REF onto current fingerprints (#64), and exit")
+    ap.add_argument("--find-labelling-commit", action="store_true",
+                    help="locate LABELLING_COMMIT by content, for use after a history "
+                         "rewrite has invalidated the pinned SHA. Re-derives the mapping at "
+                         "every commit and reports the OLDEST that reproduces the committed "
+                         "taxonomy exactly.")
     ap.add_argument("--selftest", action="store_true",
                     help="prove the ground truth is pinned and the hand labels resolve")
     args = ap.parse_args()
+
+    if args.find_labelling_commit:
+        sys.exit(find_labelling_commit())
 
     if args.selftest:
         # sys.exit, NOT return: main() is called bare at the bottom of this module, so a
