@@ -12,6 +12,19 @@ note: 'CURATED, AI-ASSISTED, NOT mechanically derived and NOT legally reviewed. 
   a third time (batch 3, back to Sonnet) after a real model-quality gap surfaced between batches — see
   per-chapter notes.
 
+  FOURTH RUN (2026-07-31, run_id haiku-scan-2026-07-31): a section-scoped screening pass, unlike the three
+  chapter-scoped pilot batches above. 191 ORS sections across 72 chapters were screened, each by a separate
+  Haiku agent reading one statute section plus only the rules that cite it as authority — not the whole
+  chapter. Chapter entries from this run therefore carry a `sections_reviewed` list, and the chapter as a
+  whole is NOT covered: a chapter appearing below may have hundreds of unscreened sections. This run was a
+  partial sweep that stopped early at 191 of 1,850 queued units when the session hit its agent limit; units
+  were ordered so that all 115 sections implemented by two or more different agencies were screened first, and
+  that tier is complete. Every quote was mechanically checked against the cited document before merging: 109
+  candidates were proposed, 33 were DROPPED for quotes that do not appear in the document they cite (some
+  fabricated outright, some real text with an edited tail), and 76 were kept. `type` was not elicited by this
+  run''s prompt and is null throughout; `confidence` and `severity` are the model''s own graded self-
+  assessment and are not a measure of correctness.
+
   '
 schema: 'Per candidate: summary, documents[{id, citation, quote}], optional note; then the v2 envelope
   — run_id / model / prompt_version identify what produced it, confidence and severity are the model''s
@@ -34625,3 +34638,2776 @@ chapters:
       note: null
       by: null
       date: null
+- ors_chapter: '25'
+  sections_reviewed:
+  - ors-25.080
+  - ors-25.750
+  - ors-25.785
+  rules_reviewed: 17
+  candidates:
+  - summary: Rule prohibits initiating establishment of parentage or support after age 18, but statute does not
+      restrict by age and contemplates support for school-attending children who may exceed 18.
+    documents:
+    - id: ors-25.080
+      citation: ORS 25.080(2)
+      quote: The provisions of this section apply to child support services for any order or judgment that is or
+        could be entered under ORS 25.501 to 25.556 or 419B.400 or ORS chapter 107, 108, 109 or 110.
+    - id: ors-25.080
+      citation: ORS 25.080(4)(a)–(b)
+      quote: Shall establish and enforce any child support obligation; (b) Shall establish genetic parentage
+    - id: oar-137-055-3485
+      citation: OAR 137-055-3485(2)
+      quote: The administrator may not initiate the establishment of parentage or support for a child after the
+        child turns 18 years old.
+    note: 'The statute imposes mandatory duties to ''establish and enforce any child support obligation'' and to
+      ''establish genetic parentage'' without age restriction, and explicitly references support for children attending
+      school (ORS 107.108), which the statute recognizes can extend beyond 18. A reader might reasonably interpret
+      the statute as authorizing establishment of support for a school-attending adult never previously in the system.
+      The rule''s flat prohibition on post-18 initiation narrows this authority. However, this can be read as reasonable
+      implementation: the sequence envisioned is initiate before 18, modify after for school status.'
+    type: null
+    section: ors-25.080
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: low
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule omits agreement compliance as a contestable basis for subpoena-based license suspension, though
+      statute requires it.
+    documents:
+    - id: ors-25.750
+      citation: ORS 25.759(5)(d)
+      quote: That the person subject to the suspension is in compliance with a previous agreement as provided for
+        by ORS 25.750 to 25.783.
+    - id: oar-137-055-3640
+      citation: OAR 137-055-3640(4)(d)
+      quote: 'The only bases for contesting the suspension are: (A) There is a mistake in identity of the party;
+        (B) The party has complied with the subpoena; or (C) The subpoena was not properly served upon the party
+        pursuant to OAR 137-055-3620.'
+    note: The statute lists four bases for contesting suspension, including agreement compliance. The rule lists
+      only three bases, omitting agreement compliance. Applicable because statute 25.750(1)(b) conditions subpoena-based
+      suspension on either lack of agreement or non-compliance with an agreement. If an obligor has a valid compliance
+      agreement, the statute appears to allow contesting on that basis, but the rule does not explicitly permit
+      it.
+    type: null
+    section: ors-25.750
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule condition requires that obligor has not paid sufficiently during past three months, which is not
+      stated in the statute's grounds for suspension.
+    documents:
+    - id: ors-25.750
+      citation: ORS 25.750(1)(a)-(b)
+      quote: 'All licenses... are subject to suspension... upon certification... that one or both of the following
+        conditions apply: (a) That the party holding the license, certificate, permit or registration is in arrears
+        under any child support judgment or order, in an amount equal to the greater of three months of support
+        or $2,500, and: (A) Has not entered into an agreement with the administrator with respect to the child support
+        obligation; or (B) Is not in compliance with an agreement entered into with the administrator; or (b) That
+        the party holding the license, certificate, permit or registration has failed, after receiving appropriate
+        notice, to comply with a subpoena or other procedural order'
+    - id: oar-137-055-4420
+      citation: OAR 137-055-4420(2)(e)
+      quote: The obligor has not made voluntary payments or payments by income withholding every month for the last
+        three months greater than the current support amount, or if there is no longer an order or judgment for
+        current support equal to the amount of the most recent order for current support. This criterion does not
+        apply to payments resulting from garnishment, tax offset, or any other enforcement action other than income
+        withholding
+    note: 'Statute establishes two grounds for suspension: arrears at threshold plus agreement status, OR subpoena
+      non-compliance plus agreement status. Statute does not condition suspension on recent payment history. Rule
+      adds as a requirement that obligor must not have made sufficient payments in the past three months. This appears
+      to be an additional requirement beyond what the statute requires. However, this may be a reasonable regulatory
+      implementation of the discretion authorized by statute 25.750(2) allowing DOJ to specify conditions and terms
+      of agreements, depending on whether past payment history could be deemed a ''condition'' of determining whether
+      an obligation exists.'
+    type: null
+    section: ors-25.750
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: 'HLO rule''s suspension language omits the $2,500 or three-month arrears threshold explicitly required
+      by statute. Additionally: HLO rule does not explicitly require the agreement status check that statute makes
+      prerequisite to suspension.'
+    documents:
+    - id: ors-25.750
+      citation: ORS 25.750(1)(a)
+      quote: in arrears under any child support judgment or order, in an amount equal to the greater of three months
+        of support or $2,500
+    - id: oar-331-020-0080
+      citation: OAR 331-020-0080(2)
+      quote: The Office will suspend the authorization if the Oregon Child Support Program or the district attorney
+        identifies the authorization holder as being in arrears with respect to any judgment or order requiring
+        the payment of child support and that the case is being enforced under the provisions of ORS 25.080.
+    - id: ors-25.750
+      citation: ORS 25.750(1)(a)
+      quote: 'in an amount equal to the greater of three months of support or $2,500, and: (A) Has not entered into
+        an agreement with the administrator with respect to the child support obligation; or (B) Is not in compliance
+        with an agreement entered into with the administrator'
+    note: Statute requires suspension only when arrears equal or exceed the greater of three months of support or
+      $2,500. Rule requires suspension when DOJ identifies someone 'as being in arrears' without specifying the
+      threshold amount. Rule section (1) references 'according to ORS 25.750(a) or (b)' which might incorporate
+      statutory thresholds, but section (2) suspension language does not. The rule may rely on DOJ to apply the
+      threshold before identifying persons for suspension, but does not explicitly require the $2,500/three-month
+      test in its own language. Statute makes suspension conditional on either (A) no agreement or (B) non-compliance
+      with an agreement. Rule requires only that DOJ 'identifies' someone 'as being in arrears' and case is 'being
+      enforced.' The rule does not state that the DOJ's identification must include verification that no agreement
+      exists or that an existing agreement is not being complied with. The rule may assume DOJ's identification
+      process includes this check, but does not explicitly require it in the HLO's decision to suspend.
+    type: null
+    section: ors-25.750
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 1 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '84'
+  sections_reviewed:
+  - ors-84.013
+  - ors-84.022
+  - ors-84.025
+  - ors-84.049
+  - ors-84.052
+  - ors-84.055
+  rules_reviewed: 4
+  candidates:
+  - summary: Statute allows agencies discretion to specify electronic signature requirements; rule mandates compliance
+      with specific federal E-authentication policy.
+    documents:
+    - id: ors-84.052
+      citation: ORS 84.052(2)
+      quote: 'the governmental agency, giving due consideration to security, may specify: (a) The manner and format
+        in which the electronic records must be created, generated, sent, communicated, received and stored and
+        the systems established for those purposes; (b) If electronic records must be signed by electronic means,
+        the type of electronic signature required, the manner and format in which the electronic signature must
+        be affixed to the electronic record'
+    - id: oar-128-050-0005
+      citation: OAR 128-050-0005(3)
+      quote: 'Agencies shall follow the Information Resources Management Division policy which adopts the federal
+        E-authentication process. The IRMD policy requires that agencies using electronic signatures: (a) Determine
+        the level of assurance the agency needs that the party signing an electronic transaction is authentic. (b)
+        Use only those tools and software applications approved by NIST and the Department of Administrative Services,
+        Information Resources Management Services Division to mitigate the risks identified and provide the level
+        of authentication needed.'
+    note: The rule could be read as a valid specification made by the agency under the statute's delegation authority
+      in section 2. Additionally, the rule provides an exemption mechanism (128-050-0005(4)) allowing agencies to
+      request relief from these requirements, which partially preserves agency discretion.
+    type: null
+    section: ors-84.052
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: low
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '87'
+  sections_reviewed:
+  - ors-87.226
+  rules_reviewed: 1
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '90'
+  sections_reviewed:
+  - ors-90.650
+  - ors-90.736
+  rules_reviewed: 4
+  candidates:
+  - summary: OAR 150-090-0600 requires landlords to provide notice of a personal income tax credit, but ORS 90.650
+      only authorizes notice of the right to appeal property tax assessments and does not mention any tax credit.
+    documents:
+    - id: ors-90.650
+      citation: ORS 90.650(1)
+      quote: the landlord shall provide notice to the tenant that the closure may allow the taxpayer to appeal the
+        property tax assessment on the manufactured dwelling.
+    - id: ors-90.650
+      citation: ORS 90.650(2)
+      quote: The Department of Revenue, in consultation with the Housing and Community Services Department, shall
+        adopt rules establishing a sample form and explanation for the property tax assessment appeal.
+    - id: oar-150-090-0600
+      citation: OAR 150-090-0600(1)
+      quote: A landlord must provide notice regarding the tax credit available to tenants of a closing manufactured
+        dwelling park.
+    - id: oar-150-090-0600
+      citation: OAR 150-090-0600(2)
+      quote: 'The notice to tenants of a closing park must include: (a) The qualifications for the personal income
+        tax credit (b) Information on how to apply for the personal income tax credit, and (c) Instructions regarding
+        how to appeal the property tax assessment.'
+    note: ORS 90.650(2) specifically authorizes the Department of Revenue to establish rules for 'a sample form
+      and explanation for the property tax assessment appeal' only. The statute does not authorize rules requiring
+      notice of a personal income tax credit; ORS 90.650(1) requires notice of only the property tax appeal right
+      and does not mention any tax credit. The rule expands the required notice content beyond what the statute
+      explicitly authorizes.
+    type: null
+    section: ors-90.650
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: high
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '137'
+  sections_reviewed:
+  - ors-137.120
+  - ors-137.123
+  rules_reviewed: 1
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '144'
+  sections_reviewed:
+  - ors-144.104
+  - ors-144.106
+  - ors-144.120
+  - ors-144.123
+  - ors-144.185
+  - ors-144.260
+  - ors-144.335
+  - ors-144.350
+  - ors-144.635
+  - ors-144.637
+  - ors-144.644
+  - ors-144.787
+  rules_reviewed: 95
+  candidates:
+  - summary: OAR 255-030-0010(1)(c) states the one-year timing requirement for initial prison term hearings for
+      inmates sentenced to life or 15+ years without explicitly excluding aggravated murder and murder sentences,
+      but ORS 144.120(1) contains an explicit exception for these offenders.
+    documents:
+    - id: ors-144.120
+      citation: ORS 144.120(1)
+      quote: For those prisoners sentenced to a term of imprisonment for life or for 15 years or more, with the
+        exception of those sentenced for aggravated murder or murder, the board shall conduct the parole hearing,
+        and shall set the initial release date, within one year following admission of the prisoner to the institution.
+    - id: oar-255-030-0010
+      citation: OAR 255-030-0010(1)(c)
+      quote: Twelve months of admission to a Department of Corrections facility for those sentenced to life or fifteen
+        years or more.
+    note: While OAR 255-032-0005 addresses aggravated murder and murder separately (providing for review dates rather
+      than parole release dates), the language in OAR 255-030-0010(1)(c) does not explicitly state the statutory
+      exception and could be read to apply the one-year timing to all life/15+ sentences. A reasonable reading might
+      reconcile these if 255-030-0010 is interpreted as applying only to those not covered by 255-032-0005, but
+      the statute's explicit exception is not reflected in 255-030-0010's text.
+    type: null
+    section: ors-144.120
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Statute lists physical examinations as records the board may consider, but Board Review Packet rules
+      require only psychiatric/psychological evaluations.
+    documents:
+    - id: ors-144.185
+      citation: ORS 144.185(3)
+      quote: The reports of any physical, mental and psychiatric examinations of the prisoner;
+    - id: oar-255-060-0030
+      citation: OAR 255-060-0030, Exit Interview Board Review Packet
+      quote: (3) Psychiatric and/or psychological evaluations (previous 6 months);
+    note: The statute's reference to 'physical, mental and psychiatric examinations' as a distinct category suggests
+      examinations by medical doctors (physical exams) are contemplated. The rule specifies only psychiatric and/or
+      psychological evaluations, which cover psychiatric and psychological aspects but not medical/physical examinations.
+      The rule does not explicitly prohibit physical exams, and the statute uses permissive language ('may cause
+      to be brought before'), but the rule's omission of physical exams from a mandatory packet could create an
+      implementation gap. A similar omission appears in OAR 255-030-0035 which lists only 'Current psychological/psychiatric
+      evaluations' without mentioning physical examinations.
+    type: null
+    section: ors-144.185
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: 'Two implementing rules cite same statute but define sex offender scope differently: Board rule applies
+      to predatory sex offenders (ORS 181.765), DOC rule applies to level three sex offenders (ORS 163A.105).'
+    documents:
+    - id: ors-144.644
+      citation: ORS 144.644(1)
+      quote: 'The State Board of Parole and Post-Prison Supervision, in consultation with the Department of Corrections
+        and community corrections agencies, shall adopt rules establishing criteria to be considered: (a) In reviewing
+        the proposed residence of a sex offender in a release plan under ORS 144.096 or a parole plan under ORS
+        144.125; and (b) In determining the residence of a sex offender in a release plan under ORS 144.096, as
+        a condition of post-prison supervision under ORS 144.102 or as a condition of parole under ORS 144.270.'
+    - id: oar-255-060-0009
+      citation: OAR 255-060-0009(1)
+      quote: A sex offender classified as a sexually violent dangerous offender (ORS 137.765) or a predatory sex
+        offender (ORS 181.765) may not reside near locations where children are the primary occupants or users.
+    - id: oar-291-202-0040
+      citation: OAR 291-202-0040(1)
+      quote: For purposes of this rule , a sex offender is defined as a person classified as a sexually violent
+        dangerous offender (ORS 137.765) or a level three sex offender (ORS 163A.105).
+    note: Could be defensible if ORS 181.765 and ORS 163A.105 populations are mutually exclusive or if different
+      agencies are appropriately specialized by their respective offender populations. However, statute does not
+      indicate such differentiation, and requires Board consultation with DOC, suggesting coordinated regulation
+      of a single regime.
+    type: null
+    section: ors-144.644
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 6 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '147'
+  sections_reviewed:
+  - ors-147.125
+  rules_reviewed: 1
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '161'
+  sections_reviewed:
+  - ors-161.327
+  - ors-161.370
+  rules_reviewed: 3
+  candidates:
+  - summary: The State Police rule assumes PSRB authority to grant firearms relief for people under ORS 161.327,
+      but the statute does not explicitly authorize this.
+    documents:
+    - id: ors-161.327
+      citation: ORS 161.327(1)(a)
+      quote: the court shall place the person under the jurisdiction of the Psychiatric Security Review Board.
+    - id: oar-257-010-0060
+      citation: OAR 257-010-0060(6)(a)
+      quote: When the PSRB grants relief from the prohibitions under 18 U.S.C. §922(d)(4) and (g)(4) for the purchase,
+        possession, transportation or receipt of a firearm, or grants additional or alternative relief from either
+        the prohibition on possessing a firearm under ORS 166.250 (1)(c)(D) or (E), or the prohibition on receiving
+        a firearm under ORS 166.470 (1)(e) or (f), the PSRB shall send the minimum information of the person for
+        whom relief is granted electronically to OSP.
+    note: The statute places people under PSRB 'jurisdiction,' which could reasonably be interpreted to include
+      authority over various restrictions including firearms. The rule cites multiple statutes as legal authority
+      and may derive firearms relief authority from provisions other than 161.327.
+    type: null
+    section: ors-161.327
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: low
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 1 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '178'
+  sections_reviewed:
+  - ors-178.205
+  - ors-178.215
+  - ors-178.225
+  rules_reviewed: 2
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '179'
+  sections_reviewed:
+  - ors-179.505
+  - ors-179.770
+  rules_reviewed: 38
+  candidates:
+  - summary: 'Warrant issuance blocked by filed appeal: DOC bars warrant if appeal has been exercised; OHA bars
+      warrant only if appeal is still pending.'
+    documents:
+    - id: oar-291-203-0100
+      citation: OAR 291-203-0100(2)(c)
+      quote: The adult in custody has exercised the right to appeal the Ability to Pay Order pursuant to OAR 291-203-0090
+    - id: oar-309-012-0035
+      citation: OAR 309-012-0035(4)(c)
+      quote: The person has exercised the right to appeal the Reimbursement Order pursuant to OAR 309-012-0025(6)
+        and that appeal is still pending
+    note: The statute authorizes rulemaking but does not specify the conditions for warrant issuance. DOC's reading
+      prevents warrant issuance whenever an appeal is filed, while OHA's reading allows warrant issuance once a
+      pending appeal is resolved. Both interpretations are reasonable given the statutory silence on this detail,
+      but they create different procedures.
+    type: null
+    section: ors-179.770
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: 'Bond execution requirements: DOC requires surety company only; OHA permits surety company or individual
+      sureties.'
+    documents:
+    - id: oar-291-203-0100
+      citation: OAR 291-203-0100(3)(b)(A)
+      quote: The bond must be executed by a surety company that is registered with, and under the supervision of,
+        the insurance commissioner of the State of Oregon.
+    - id: oar-309-012-0035
+      citation: OAR 309-012-0035(5)(b)(A)
+      quote: 'The bond must be executed by: (i) A surety company which is registered with, and under the supervision
+        of, the Insurance Commissioner of the State of Oregon; or (ii) By two or more individual sureties, each
+        of whom shall be a resident and homeowner or holder of an interest in land within the state and each of
+        whom shall be worth sums specified in the under-taking, exclusive of property exempt from execution and
+        over and above all valid debts and liability.'
+    note: The statute does not specify bonding requirements. OHA's rule explicitly provides an alternative method
+      not available under DOC's rule. This difference may reflect deliberate policy choice or differential interpretation
+      of bonding authority.
+    type: null
+    section: ors-179.770
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '180'
+  sections_reviewed:
+  - ors-180.267
+  - ors-180.415
+  rules_reviewed: 15
+  candidates:
+  - summary: Rule expands personal information categories triggering fingerprinting by adding medical information
+      and substituting criminal history for criminal background information
+    documents:
+    - id: ors-180.267
+      citation: ORS 180.267(2)(c)
+      quote: Has access to personal information about employees or members of the public including Social Security
+        numbers, dates of birth, driver license numbers, personal financial information or criminal background information
+    - id: oar-137-007-0220
+      citation: OAR 137-007-0220(2)(c)
+      quote: Has access to personal information about employees or members of the public including Social Security
+        numbers, dates of birth, driver license numbers, medical information, personal financial information or
+        criminal history information
+    note: The statute uses 'including' to introduce its list, which could indicate an illustrative rather than exhaustive
+      enumeration. Under a broad reading, medical information could fall within 'personal information about employees
+      or members of the public.' However, the explicit enumeration of specific categories—with medical information
+      notably absent—may suggest the statute did not contemplate that category as triggering the fingerprinting
+      requirement.
+    type: null
+    section: ors-180.267
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule applies to 'tobacco product manufacturers' while statute specifies 'nonparticipating manufacturers'
+    documents:
+    - id: ors-180.415
+      citation: ORS 180.415(2)(b)
+      quote: A nonparticipating manufacturer that executes the model escrow agreement is deemed to have satisfied
+        the requirement that it use a form of escrow agreement that has been reviewed and approved by the Attorney
+        General.
+    - id: oar-137-105-0025
+      citation: OAR 137-105-0025(1)
+      quote: A tobacco product manufacturer that executes the model escrow agreement set forth in OAR 137-105-0025(2)
+        is deemed to have satisfied the requirement of ORS 180.415(2)(b) that it use a form of escrow agreement
+        that has been reviewed and approved by the Attorney General.
+    note: The statute applies the model agreement provision to 'nonparticipating manufacturers'; the rule applies
+      it to 'tobacco product manufacturers.' These terms may be equivalent or one may encompass the other, but the
+      terminology is inconsistent with the statutory language. Since the rule implements a provision specifically
+      limited to nonparticipating manufacturers, the rule should use matching terminology unless the broader term
+      is intentional.
+    type: null
+    section: ors-180.415
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '192'
+  sections_reviewed:
+  - ors-192.001
+  - ors-192.311
+  - ors-192.345
+  - ors-192.355
+  - ors-192.610
+  - ors-192.690
+  rules_reviewed: 34
+  candidates:
+  - summary: Rule makes exam test data permanently confidential without the statute's temporal limitation (before
+      examination is given; if exam is to be used again).
+    documents:
+    - id: ors-192.345
+      citation: ORS 192.345(4)
+      quote: Test questions, scoring keys, and other data used to administer a licensing examination, employment,
+        academic or other examination or testing procedure before the examination is given and if the examination
+        is to be used again.
+    - id: oar-809-040-0020
+      citation: OAR 809-040-0020
+      quote: Test questions, scoring keys, and other data used to administer the national examination and the engineering
+        geologist examination are confidential and may not be disclosed to candidates unless otherwise required
+        by law.
+    note: The rule's language 'are confidential' (present, unconditional) does not track the statute's temporal
+      condition ('before the examination is given') or the reuse condition ('if the examination is to be used again').
+      However, the rule includes 'unless otherwise required by law,' which could be read to incorporate statutory
+      constraints. Additionally, if the national and engineering geologist exams are recurring, they may continuously
+      satisfy the statute's 'to be used again' condition.
+    type: null
+    section: ors-192.345
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 2 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '194'
+  sections_reviewed:
+  - ors-194.240
+  rules_reviewed: 1
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '197'
+  sections_reviewed:
+  - ors-197.180
+  rules_reviewed: 18
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '307'
+  sections_reviewed:
+  - ors-307.459
+  rules_reviewed: 4
+  candidates:
+  - summary: OAR 603-025-0151 bases ODA's certification authority on ORS 307.453–307.457 (a range including 307.453
+      and 307.456), but ORS 307.459 authorizes rules only to implement 307.455, 307.457, and 307.458—omitting 307.453
+      and 307.456 from the statutory scope.
+    documents:
+    - id: ors-307.459
+      citation: ORS 307.459
+      quote: The Department of Revenue and the State Department of Agriculture may adopt rules to implement the
+        provisions of ORS 307.455, 307.457 and 307.458.
+    - id: oar-603-025-0151
+      citation: OAR 603-025-0151(1)
+      quote: The Oregon Department of Agriculture is authorized to certify qualified machinery and equipment for
+        the purposes of ORS 307.453–307.457.
+    note: A reasonable counter-reading is that OAR 603-025-0151(1) merely identifies the full statutory framework
+      governing qualified machinery and equipment as context, while the rule itself is adopted pursuant to ORS 307.459's
+      specific authorization (307.455, 307.457) and possibly independent authority from ORS 307.453 or 307.456.
+      The rule's substantive certification processes may implement only the sections within 307.459's scope.
+    type: null
+    section: ors-307.459
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '315'
+  sections_reviewed:
+  - ors-315.141
+  rules_reviewed: 1
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '316'
+  sections_reviewed:
+  - ors-316.856
+  rules_reviewed: 1
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '317'
+  sections_reviewed:
+  - ors-317.097
+  rules_reviewed: 27
+  candidates:
+  - summary: Manufactured dwelling park occupancy requirement added by rule but not stated in statute
+    documents:
+    - id: ors-317.097
+      citation: ORS 317.097(5)(c)
+      quote: 'Subject to subsection (14) of this section, a qualified borrower who: (A) Uses the loan proceeds to
+        finance construction, development, acquisition or rehabilitation of housing consisting of a manufactured
+        dwelling park; and (B) Provides a written certification executed by the Housing and Community Services Department
+        that the housing will continue to be operated as a manufactured dwelling park during the period for which
+        the tax credit is allowed'
+    - id: oar-813-110-0013
+      citation: OAR 813-110-0013(2)(b)
+      quote: The housing created by the loan is or will be occupied by a significant number of households, defined
+        as 60% or more of all households at initial tenant qualification, earning 80 percent or less of the area
+        median income
+    note: The statute specifies criteria for qualified loans to finance manufactured dwelling parks but does not
+      require that residents earn 80% or less of area median income. Contrast with ORS 317.097(5)(b), (d), (e),
+      and (f), which explicitly state occupancy requirements for other qualified loan categories. The rule imposes
+      an income-based occupancy requirement (60% of households at 80% AMI) that does not appear in the statute's
+      text for MDPs. This could be viewed as implementing the general affordable housing purpose, but the statute
+      does not explicitly authorize this requirement for this specific category.
+    type: null
+    section: ors-317.097
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '346'
+  sections_reviewed:
+  - ors-346.010
+  rules_reviewed: 1
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '390'
+  sections_reviewed:
+  - ors-390.565
+  - ors-390.635
+  - ors-390.805
+  rules_reviewed: 29
+  candidates:
+  - summary: The statute limits the Parks and Recreation Department's jurisdiction to land acquired under specified
+      statutes, but the rule applies to ocean beaches without verifying or stating they meet this acquisition requirement.
+    documents:
+    - id: ors-390.635
+      citation: ORS 390.635
+      quote: the State Parks and Recreation Department has jurisdiction over the land and interests in land acquired
+        under ORS 390.610, 390.615, 390.620 or 390.630
+    - id: oar-736-030-0095
+      citation: OAR 736-030-0095
+      quote: Camping on the ocean shore between the Necanicum River and the South Jetty of the Columbia River is
+        prohibited.
+    note: The rule cites ORS 390.660 as additional legal authority, which may provide separate jurisdictional grounds
+      for regulating these beaches independent of the acquisition requirement in ORS 390.635. The apparent inconsistency
+      may be resolved if the referenced beaches were acquired under the specified statutes or if ORS 390.660 provides
+      broader authority.
+    type: null
+    section: ors-390.635
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: low
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 1 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '401'
+  sections_reviewed:
+  - ors-401.168
+  rules_reviewed: 4
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '409'
+  sections_reviewed:
+  - ors-409.025
+  - ors-409.040
+  rules_reviewed: 8
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '411'
+  sections_reviewed:
+  - ors-411.085
+  - ors-411.095
+  - ors-411.122
+  - ors-411.300
+  - ors-411.408
+  rules_reviewed: 31
+  candidates:
+  - summary: Notice requirement for GA housing assistance reductions appears to conflict with statutory mandate
+      for advance notice
+    documents:
+    - id: ors-411.095
+      citation: ORS 411.095(1)(a)
+      quote: when the Department of Human Services or the Oregon Health Authority changes a benefit standard that
+        results in the reduction, suspension or closure of a grant of public assistance or a grant of medical assistance,
+        the department or the authority shall mail a notice of intended action to each recipient affected by the
+        change at least 30 days before the effective date of the action
+    - id: oar-461-175-0224
+      citation: OAR 461-175-0224
+      quote: 'In the GA program, no decision notice (see OAR 461-001-0000) is required under the following circumstances:
+        (1) The Department reduces housing assistance payments because a change in housing arrangements results
+        in decreased rent. (2) The Department ends housing assistance payments due to a loss of housing.'
+    note: The statute requires advance notice when DHS action results in reduction or closure of public assistance.
+      The rule explicitly provides that no decision notice is required for GA housing assistance reductions/closures
+      in two specific circumstances. This could be consistent if 'changes a benefit standard' is interpreted narrowly
+      to mean only changes to department policies, not applications of existing policies to changed client circumstances
+      (e.g., lower rent). If housing assistance reduction due to lower rent is application of existing standards
+      rather than a department benefit standard change, the rule may be correct. However, a plain reading of the
+      statute could require notice whenever department action results in reduction.
+    type: null
+    section: ors-411.095
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: low
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: DHS defines 'reasonable promptness' for claim action as 45 days from application, while OHA's rule
+      establishes a 90-day timeline only after a hearing request, leaving initial 'reasonable promptness' undefined.
+    documents:
+    - id: ors-411.408
+      citation: ORS 411.408
+      quote: if the Oregon Health Authority or the Department of Human Services denies a claim for medical assistance
+        or fails to act with reasonable promptness on a claim for medical assistance, the person making the claim
+        may request a contested case hearing
+    - id: oar-461-025-0310
+      citation: OAR 461-025-0310(1)(a)
+      quote: Except as provided in subsection (o) of this section, the Department has not approved or denied a request
+        or application for public assistance or medical assistance within 45 days of the application
+    - id: oar-410-200-0146
+      citation: OAR 410-200-0146(5)(a)
+      quote: 'A final order shall be issued or the case otherwise shall be resolved no later than: (a) Ninety days
+        following the date of the hearing request'
+    note: The statute's 'reasonable promptness' language addresses failure to act on the initial claim. OAR 461-025-0310
+      defines this as 45 days for DHS. OAR 410-200-0146(5) addresses only the final-order timeline post-hearing
+      request, not the initial-action standard that triggers the right to request a hearing. If OAR 410-200-0145
+      or other OHA rules define an initial timeline, the inconsistency may not exist; however, within the provided
+      texts, the two agencies appear to implement different standards.
+    type: null
+    section: ors-411.408
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '412'
+  sections_reviewed:
+  - ors-412.024
+  rules_reviewed: 7
+  candidates:
+  - summary: Statute appears to limit application to TANF/Title IV-A, but implementing rule extends assignment requirement
+      to Title IV-E programs.
+    documents:
+    - id: ors-412.024
+      citation: ORS 412.024(3)
+      quote: This section shall apply to recipients of aid pursuant to the temporary assistance for needy families
+        program as long as the aid is funded in whole or in part with federal grants under Title IV-A of the Social
+        Security Act.
+    - id: oar-461-120-0310
+      citation: OAR 461-120-0310(2)
+      quote: To be eligible for any program funded in whole or in part with federal grants under Title IV-E of the
+        Social Security Act, the filing group must assign to the state its right to receive, from any other person,
+        child support that has accrued or that accrues during any time period that the group receives assistance,
+        not to exceed the total amount of assistance paid.
+    note: The statute's sections (1) and (2) use the broad term 'aid' without specifying program. Section (3) may
+      limit the entire section to TANF, or may simply clarify that TANF is included when federally funded. If sections
+      (1) and (2) apply broadly to all aid recipients, Title IV-E programs (also federally funded) could reasonably
+      fall within the statute's scope, supporting the rule's consistency with statutory intent.
+    type: null
+    section: ors-412.024
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '413'
+  sections_reviewed:
+  - ors-413.014
+  - ors-413.033
+  - ors-413.036
+  - ors-413.161
+  - ors-413.558
+  rules_reviewed: 59
+  candidates:
+  - summary: Rule narrows advisory committee composition to REALD-affected individuals but excludes those affected
+      by SOGI data collection, while statute contemplates committee representing all persons affected by adopted
+      standards including SOGI.
+    documents:
+    - id: ors-413.161
+      citation: ORS 413.161(1)
+      quote: The Oregon Health Authority, in collaboration with the Department of Human Services, shall adopt by
+        rule uniform standards, based on local, statewide and national best practices, for the collection of data
+        on race, ethnicity, preferred spoken and written languages, disability status, sexual orientation and gender
+        identity.
+    - id: ors-413.161
+      citation: ORS 413.161(2)
+      quote: The authority shall appoint an advisory committee in accordance with ORS 183.333 composed of individuals
+        likely to be affected by the standards and advocates for individuals likely to be affected by the standards.
+    - id: oar-950-038-0010
+      citation: OAR 950-038-0010(2)
+      quote: The Authority, in collaboration with the Department, shall appoint a permanent standing advisory committee
+        composed of individuals or advocates of individuals likely to be affected by the inequities addressed in
+        the collection of race, ethnicity, preferred spoken, signed and written language, and disability status
+        data.
+    note: The rule's enumeration of specific data types (REALD) while omitting SOGI could be read as non-exhaustive,
+      and section (3) directs the committee to advise on 'these rules' generally (which include SOGI collection),
+      suggesting the committee's full scope may implicitly cover SOGI despite the compositional language in (2).
+      However, the statute's reference to 'the standards' (which explicitly include SOGI) suggests committee representation
+      should encompass all affected populations.
+    type: null
+    section: ors-413.161
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: ASL qualified interpreter training requirement exemption
+    documents:
+    - id: ors-413.558
+      citation: ORS 413.558(4)
+      quote: Has had at least 60 hours of health care interpreter training that includes anatomy and physiology
+        and concepts of health care interpretation.
+    - id: oar-950-050-0040
+      citation: OAR 950-050-0040(3)(b)
+      quote: Provide written verification of certification in American Sign Language interpreting from the Registry
+        of Interpreters for the Deaf (RID) or other Oregon Health Authority-approved signed language certification
+        and testing bodies
+    note: The statute requires all qualified health care interpreters to have 'at least 60 hours of health care
+      interpreter training that includes anatomy and physiology and concepts of health care interpretation,' with
+      no stated exception for signed language interpreters. However, the rule allows ASL qualified interpreters
+      to substitute RID certification without explicit requirement for the 60-hour health care-specific training
+      or documented evidence that RID certification includes the required content (anatomy, physiology, health care
+      interpretation concepts). The statute makes no distinction between interpreter types regarding this training
+      requirement.
+    type: null
+    section: ors-413.558
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 2 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '414'
+  sections_reviewed:
+  - ors-414.312
+  rules_reviewed: 3
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '417'
+  sections_reviewed:
+  - ors-417.782
+  - ors-417.859
+  rules_reviewed: 11
+  candidates:
+  - summary: Rehabilitation Act citation year differs between statute and rule (1973 vs. 1978).
+    documents:
+    - id: ors-417.859
+      citation: ORS 417.859(6)(c)(E)
+      quote: How the school district or other entity will provide special education and related services for eligible
+        youths with disabilities who have an individualized education program or will provide necessary accommodations
+        and plans for eligible youths who qualify under section 504 of the Rehabilitation Act of 1973 (29 U.S.C.
+        794)
+    - id: oar-581-017-0655
+      citation: OAR 581-017-0655(2)(e)
+      quote: How the reengagement program will provide special education and related services for eligible youths
+        with disabilities who have an individualized education program, or will provide necessary accommodations
+        and plans for eligible youths who qualify under section 504 of the Rehabilitation Act of 1978 (29 U.S.C.
+        794)
+    note: The Rehabilitation Act was enacted in 1973, making the statute's citation correct. This appears to be
+      a factual error in the rule. The functional requirement (29 U.S.C. 794) is identical, but the year citation
+      is inconsistent.
+    type: null
+    section: ors-417.859
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 1 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '418'
+  sections_reviewed:
+  - ors-418.016
+  - ors-418.205
+  - ors-418.255
+  - ors-418.280
+  rules_reviewed: 39
+  candidates:
+  - summary: Proctor foster home definition cites different ORS section range
+    documents:
+    - id: ors-418.205
+      citation: ORS 418.205(10)
+      quote: not subject to ORS 418.625 to 418.645
+    - id: oar-413-015-0115
+      citation: OAR 413-015-0115(57)
+      quote: not subject to ORS 418.625 to 418.470
+    note: Statute specifies exemption from ORS 418.625 to 418.645, while the implementing rule narrows this to ORS
+      418.625 to 418.470. This effectively changes which ORS sections apply to proctor foster homes, potentially
+      expanding regulatory requirements if sections 418.471-418.645 are relevant to child welfare licensing.
+    type: null
+    section: ors-418.205
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Secure transportation provider definition differs on medical and nonemergency qualifiers
+    documents:
+    - id: ors-418.205
+      citation: ORS 418.205(2)(b)(E)
+      quote: A secure nonemergency medical transportation provider, as defined in ORS 418.241
+    - id: oar-413-015-0115
+      citation: OAR 413-015-0115(8)(b)(E)
+      quote: A secure transportation services provider that transports or provides escort services for children
+        on the highways of this state, along a route that begins or ends in this state as described in ORS 418.205
+    note: Statute specifically includes 'secure nonemergency medical transportation provider' as a defined category
+      with specific attributes. Rule generalizes this to 'secure transportation services provider' and relocates
+      the route requirements (begins or ends in state) from ORS 418.241 definition to this rule. Rule text does
+      not preserve the 'nonemergency medical' specification, potentially expanding scope beyond what statute contemplates.
+    type: null
+    section: ors-418.205
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Statute requires financial statements reviewed by independent CPA for $1M-or-less agencies upon request;
+      rules specify only internal financial statements without explicit independent review requirement.
+    documents:
+    - id: ors-418.255
+      citation: ORS 418.255(3)(b)
+      quote: a child-caring agency subject to ORS 418.205 to 418.327, 418.470, 418.475 or 418.950 to 418.970 that
+        has annual revenues of $1 million or less shall provide the Department of Human Services, upon request or
+        at such times as the department specifies by rule, with financial statements that have been reviewed by
+        an independent certified public accountant and a tax compliance certificate issued by the Department of
+        Revenue.
+    - id: oar-419-400-0050
+      citation: OAR 419-400-0050(3)(a)
+      quote: A child-caring agency must maintain complete and accurate accounts, books, and records following generally
+        accepted principles of accounting. A child-caring agency must provide to the Department current internal
+        financial statements, general ledgers, bank statements, and any other financial records as required in OAR
+        419-400-0210 and upon request.
+    - id: oar-419-400-0210
+      citation: OAR 419-400-0210(4)(h)(A)
+      quote: Except as provided in paragraph (B) of this subsection, a child-caring agency that has annual revenues
+        in excess of $1 million must provide an audit completed by an independent certified public accountant for
+        the most recent fiscal year.
+    note: The statute requires $1M-or-less agencies to provide 'financial statements that have been reviewed by
+      an independent certified public accountant' upon request (or at specified times). OAR 419-400-0210(4) explicitly
+      addresses audited statements for >$1M agencies at renewal but is silent on $1M-or-less agencies. OAR 419-400-0050(3)(a)
+      requires 'current internal financial statements' upon request, but does not specify that they must be reviewed
+      by an independent CPA as the statute requires. The gap is particularly clear because the rule explicitly differentiates
+      requirements by revenue threshold in 419-400-0210(4)(h), yet provides no parallel requirement for reviewed
+      statements for smaller agencies.
+    type: null
+    section: ors-418.255
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '420'
+  sections_reviewed:
+  - ors-420.500
+  - ors-420.505
+  rules_reviewed: 1
+  candidates:
+  - summary: 'Rule applies to ''offenders'' in OYA close custody; statute specifies ''adjudicated youth'' as the
+      subject population. Additionally: Rule permits transfer to ''facility designated by the Addictions and Mental
+      Health Division'' but statute limits transfer to ''institution for persons with mental illness or mental retardation'''
+    documents:
+    - id: ors-420.500
+      citation: ORS 420.500
+      quote: An adjudicated youth in a youth correction facility may not be transferred
+    - id: oar-309-120-0070
+      citation: OAR 309-120-0070
+      quote: offenders in Oregon Youth Authority (OYA) close custody facilities may be transferred
+    - id: ors-420.500
+      citation: ORS 420.500
+      quote: transferred to an institution for persons with mental illness or mental retardation
+    - id: oar-309-120-0070
+      citation: OAR 309-120-0070
+      quote: transferred to a state mental hospital or a facility designated by the Addictions and Mental Health
+        Division
+    note: 'Terminology difference: ''adjudicated youth'' is a defined legal status; ''offenders'' may be broader.
+      If OYA close custody houses non-adjudicated offenders, the rule''s scope could exceed statute. Addictions
+      treatment facilities may not be ''institutions for mental illness or mental retardation'' — these address
+      different service categories. Unclear if the Addictions and Mental Health Division designation includes only
+      mental illness/retardation facilities or extends to substance abuse treatment. [severity recorded by the model
+      as ''medium-high''; normalized to ''high''.]'
+    type: null
+    section: ors-420.500
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: high
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '421'
+  sections_reviewed:
+  - ors-421.512
+  rules_reviewed: 2
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '426'
+  sections_reviewed:
+  - ors-426.110
+  - ors-426.237
+  - ors-426.385
+  rules_reviewed: 27
+  candidates:
+  - summary: Statute permits mechanical restraints if medically needed; rule restricts seclusion/restraint to behavioral
+      management (violent or self-destructive behavior).
+    documents:
+    - id: ors-426.385
+      citation: ORS 426.385(4)
+      quote: Mechanical restraints may not be applied to a person admitted to a facility unless it is determined
+        by the chief medical officer of the facility or designee to be required by the medical needs of the person.
+    - id: oar-309-033-0700
+      citation: OAR 309-033-0700(2)
+      quote: Seclusion or restraint may be used only for the management of violent or self-destructive behavior
+        that jeopardizes the immediate physical safety of the patient, a staff member, or other individuals.
+    note: In behavioral health settings, terminology may distinguish between 'mechanical restraints' (statute, possibly
+      medical procedures or restraint devices) and 'seclusion or restraint' (rule, behavioral management). If these
+      terms are synonymous or substantially overlap, the rule's restriction to behavioral management narrows the
+      statute's 'medical needs' standard. A reasonable counter-reading is that the statute and rule address distinct
+      types of restraint use, one medical and one behavioral.
+    type: null
+    section: ors-426.385
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 1 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '430'
+  sections_reviewed:
+  - ors-430.010
+  - ors-430.610
+  - ors-430.705
+  - ors-430.735
+  rules_reviewed: 23
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '432'
+  sections_reviewed:
+  - ors-432.143
+  rules_reviewed: 1
+  candidates:
+  - summary: Rule omits statutory five-day submission deadline for non-institutional fetal deaths
+    documents:
+    - id: ors-432.143
+      citation: ORS 432.143(4)
+      quote: the physician in attendance at or immediately after the delivery of the fetus shall prepare and submit
+        the report of fetal death within five calendar days of the delivery in a format adopted by the state registrar
+        by rule
+    - id: ors-432.143
+      citation: ORS 432.143(5)
+      quote: the medical examiner in the jurisdiction where the fetal death occurred shall prepare and submit the
+        report of fetal death within five calendar days of the delivery in a format adopted by the state registrar
+        by rule
+    - id: oar-333-011-0285
+      citation: OAR 333-011-0285
+      quote: When a fetal death occurs outside a licensed medical facility, the report of fetal death must be submitted
+        by the Medical Examiner or physician who attended at or immediately after the delivery through the electronic
+        reporting system
+    note: The statute mandates submission within five calendar days for both physician-attended and medical-examiner-submitted
+      deaths outside institutions. The rule addresses who must submit but contains no timeframe requirement. The
+      rule may be incomplete, or the five-day requirement may be incorporated through other rules or administrative
+      procedures not shown here.
+    type: null
+    section: ors-432.143
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '441'
+  sections_reviewed:
+  - ors-441.037
+  - ors-441.044
+  - ors-441.056
+  - ors-441.223
+  - ors-441.820
+  rules_reviewed: 23
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '443'
+  sections_reviewed:
+  - ors-443.373
+  - ors-443.400
+  - ors-443.886
+  rules_reviewed: 35
+  candidates:
+  - summary: Statute requires applicant to identify individual responsible for application; rule does not list this
+      as required application component
+    documents:
+    - id: ors-443.373
+      citation: ORS 443.373(4)(a)
+      quote: 'The department shall require an applicant to: (a) Identify an individual responsible for the application'
+    - id: oar-411-058-0020
+      citation: OAR 411-058-0020(1)(a)
+      quote: 'Application for registration must be made to the Department and must include: (A) The registration
+        fee as described in section (2) of this rule; (B) The disclosure statement as described in OAR 411-058-0030;
+        (C) General Liability Insurance requirements, as described in OAR 411-058-0070; and (D) Background Check
+        Requirements, as described in OAR 411-058-0080.'
+    note: 'The statute explicitly requires the applicant to identify an individual responsible for the application.
+      The rule lists four required components (fee, disclosure, insurance, background check requirements) but does
+      not include identification of an individual responsible. This requirement does not appear elsewhere in the
+      rules examined. Possible mitigation: this requirement could be satisfied through application forms or data
+      entry rather than rule text, or the disclosure statement''s requirement for agent name in OAR 411-058-0030(2)(b)
+      might be intended to address this, though that rule specifically requires the referral agent''s name rather
+      than an individual responsible for the application.'
+    type: null
+    section: ors-443.373
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Fee schedule does not differentiate by type of facility despite statute requiring consideration of
+      facility type
+    documents:
+    - id: ors-443.886
+      citation: ORS 443.886(3)
+      quote: The department shall adopt a fee schedule for memory care endorsement, taking into account the type
+        of facility and the number of residents.
+    - id: oar-411-057-0120
+      citation: OAR 411-057-0120(3)
+      quote: 'Fees shall be as follows: (a) $50 for each facility with a total memory care community endorsed capacity
+        of 16 or fewer residents; (b) $75 for each facility with a total memory care community endorsed capacity
+        of 17 to 50; or (c) $100 for each facility with a total memory care community endorsed capacity of 51 or
+        more.'
+    note: Statute mandates taking into account both facility type (nursing facility, assisted living facility, residential
+      care facility) and number of residents. Rule establishes single fee schedule based only on resident capacity,
+      without differentiation by type of facility. DHS could defend this as having considered facility type but
+      determined other factors are dispositive, but the statute language suggests facility type should be a differentiating
+      factor.
+    type: null
+    section: ors-443.886
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 2 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '446'
+  sections_reviewed:
+  - ors-446.062
+  - ors-446.095
+  - ors-446.100
+  - ors-446.641
+  rules_reviewed: 3
+  candidates:
+  - summary: Rule requires buyer's notice to be 'division approved', but statute does not explicitly specify this
+      requirement for buyer-submitted notices
+    documents:
+    - id: ors-446.641
+      citation: ORS 446.641(8)
+      quote: a buyer may submit a notice of sale to the assessor if the notice is accompanied by proof of sale acceptable
+        to the department as provided by rule.
+    - id: oar-918-550-0120
+      citation: OAR 918-550-0120
+      quote: 'If a purchaser submits a division approved notice of sale under ORS 446.641(8), the purchaser must
+        include one or more of the following as acceptable proof of sale:'
+    note: 'Statute requires seller''s notice to be on approved form (446.641(2)) but does not explicitly state this
+      for buyer notices (446.641(8)). Rule adds ''division approved'' requirement for buyer-submitted notices. Reasonable
+      reading: statute delegates proof-of-sale definition to rule under subsection (8), which the rule appropriately
+      provides; however, the ''division approved'' requirement for the notice itself is not explicitly delegated,
+      only the proof standards.'
+    type: null
+    section: ors-446.641
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '447'
+  sections_reviewed:
+  - ors-447.154
+  rules_reviewed: 1
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '453'
+  sections_reviewed:
+  - ors-453.752
+  - ors-453.780
+  - ors-453.790
+  - ors-453.864
+  rules_reviewed: 23
+  candidates: []
+  note: 1 candidate(s) were proposed here and ALL were dropped by quote verification. This chapter is NOT clean
+    — it is unresolved.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '455'
+  sections_reviewed:
+  - ors-455.044
+  - ors-455.560
+  rules_reviewed: 2
+  candidates:
+  - summary: Rule does not specify geographic limitation to three counties required by statute
+    documents:
+    - id: ors-455.044
+      citation: ORS 455.044
+      quote: Fees adopted and imposed under this section shall be in addition to the total building permit fees
+        otherwise imposed in Clackamas, Multnomah and Washington Counties.
+    - id: oar-918-050-0800
+      citation: OAR 918-050-0800
+      quote: '(1) A one-percent surcharge will be assessed upon the total permit fees collected pursuant to ORS
+        455.210(4)(c).
+
+
+        (2) Effective January 1, 2008, a four percent surcharge will be assessed upon the total permit fees collected
+        pursuant to ORS 455.210(4)(d).'
+    note: Statute explicitly limits application to Clackamas, Multnomah, and Washington Counties. Rule may rely
+      on incorporation by reference or another implementing mechanism, but the geographic scope is not stated in
+      the rule text itself.
+    type: null
+    section: ors-455.044
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '458'
+  sections_reviewed:
+  - ors-458.480
+  rules_reviewed: 1
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '466'
+  sections_reviewed:
+  - ors-466.330
+  rules_reviewed: 1
+  candidates:
+  - summary: 'Subject matter mismatch: statute concerns PCB disposal and condemnation; rule regulates recreation
+      parksite design and health hazards from soil/groundwater/drainage.'
+    documents:
+    - id: ors-466.330
+      citation: ORS 466.330
+      quote: The Environmental Quality Commission may acquire real property for the disposal of PCB by instituting
+        condemnation proceedings therefor to be conducted in accordance with ORS chapter 35.
+    - id: oar-333-031-0060
+      citation: OAR 333-031-0060
+      quote: Condition of soil, groundwater level, drainage, and topography shall be considered in the design of
+        the park and in the selection of the type and location of water supply and sewage disposal systems so that
+        a health hazard is not created.
+    note: The rule cites ORS 466.330 as legal authority but the statute is entirely about environmental waste (PCB)
+      and condemnation procedures. The rule addresses recreation parksite design and health hazards—subjects unrelated
+      to the statute. The rule's own frontmatter lists different statutes (ORS 446.330, 446.340, 446.345) as the
+      ones it implements, suggesting possible misattribution in legal authority.
+    type: null
+    section: ors-466.330
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: high
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '469'
+  sections_reviewed:
+  - ors-469.740
+  rules_reviewed: 1
+  candidates:
+  - summary: 'Rule describes ''Voluntary'' standards while statute mandates Director ''shall adopt rules establishing
+      energy conservation standards''. Additionally: Rule limits standards to pre-1978 buildings while statute requires
+      standards for ''public buildings'' without temporal qualification'
+    documents:
+    - id: ors-469.740
+      citation: ORS 469.740
+      quote: the Director of the Department of Consumer and Business Services shall adopt rules establishing energy
+        conservation standards for public buildings
+    - id: oar-918-440-0020
+      citation: OAR 918-440-0020
+      quote: Voluntary energy conservation standards for public buildings constructed prior to January 1, 1978,
+        have been adopted by the Building Codes Division pursuant to ORS 469.740
+    note: 'The statute mandates adoption of standards but does not specify whether standards must be mandatory or
+      may be voluntary. Potential conflict: whether ''voluntary'' standards satisfy the statutory obligation to
+      establish energy conservation standards. The statute does not explicitly authorize limiting standards to buildings
+      of a particular age. Potential conflict: whether the rule''s restriction to pre-1978 construction exceeds
+      delegated authority. However, delegation doctrine typically allows differentiation by building characteristics.'
+    type: null
+    section: ors-469.740
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: low
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '475'
+  sections_reviewed:
+  - ors-475.005
+  - ors-475.125
+  - ors-475.190
+  - ors-475.425
+  rules_reviewed: 5
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '477'
+  sections_reviewed:
+  - ors-477.001
+  rules_reviewed: 1
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '480'
+  sections_reviewed:
+  - ors-480.390
+  - ors-480.570
+  - ors-480.660
+  rules_reviewed: 2
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '498'
+  sections_reviewed:
+  - ors-498.152
+  - ors-498.158
+  rules_reviewed: 2
+  candidates:
+  - summary: Rule grants Department authority to trap without showing statutory prerequisites (ordinance/resolution
+      authorization and Commission determination after notice and hearing)
+    documents:
+    - id: ors-498.158
+      citation: ORS 498.158(2)
+      quote: 'No hunting or trapping shall be allowed on any lands within the boundaries of any city, public park
+        or on any school lands unless: (a) The governing body or other agency that administers the affairs of the
+        city, public park or school, after notice and hearing, authorizes such hunting or trapping by ordinance
+        or resolution; and (b) The State Fish and Wildlife Commission, after notice and hearing, determines that
+        such hunting or trapping would not adversely affect public safety or unreasonably interfere with other authorized
+        uses of such lands.'
+    - id: oar-635-043-0056
+      citation: OAR 635-043-0056
+      quote: For the purpose of alleviating a public nuisance or preventing property damage, the Department may
+        trap and relocate wild turkeys found within the Roseburg city limits.
+    note: Rule may be read as presuming the statutory prerequisites have been satisfied elsewhere, but the rule
+      text does not reference or confirm compliance with mandatory statutory procedures (ordinance/resolution and
+      Commission determination).
+    type: null
+    section: ors-498.158
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '517'
+  sections_reviewed:
+  - ors-517.831
+  rules_reviewed: 1
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '537'
+  sections_reviewed:
+  - ors-537.332
+  - ors-537.797
+  rules_reviewed: 18
+  candidates: []
+  note: 2 candidate(s) were proposed here and ALL were dropped by quote verification. This chapter is NOT clean
+    — it is unresolved.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '570'
+  sections_reviewed:
+  - ors-570.800
+  rules_reviewed: 6
+  candidates: []
+  note: 1 candidate(s) were proposed here and ALL were dropped by quote verification. This chapter is NOT clean
+    — it is unresolved.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '576'
+  sections_reviewed:
+  - ors-576.051
+  - ors-576.066
+  - ors-576.206
+  - ors-576.265
+  - ors-576.311
+  - ors-576.325
+  - ors-576.416
+  - ors-576.440
+  rules_reviewed: 45
+  candidates:
+  - summary: Rule extends the scope of statutes for measuring plan consistency beyond what the statute specifies.
+    documents:
+    - id: ors-576.066
+      citation: ORS 576.066(2)(c)
+      quote: Consistent with the purposes of ORS 576.051 to 576.455
+    - id: oar-603-042-0015
+      citation: OAR 603-042-0015(1)(c)
+      quote: Consistent with the purposes of ORS 576.051 to 576.584, 577, and 578
+    note: The rule explicitly implements three different statutes (ORS 576.066, 577.125, 578.025) and applies to
+      multiple commodity commissions. The broader criteria range may be a defensible necessity to apply uniform
+      review standards across commissions operating under different statutory authorities, each with potentially
+      different purposes. However, ORS 576.066(2)(c) is specific about the reference range that should apply to
+      its review standard.
+    type: null
+    section: ors-576.066
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Different deadlines for submitting compensation claims across commodity commissions (Beef 15th day
+      vs Hazelnut/Sweet Cherry 10th day vs Raspberry/Blackberry/Strawberry 10th of second month)
+    documents:
+    - id: oar-605-020-0010
+      citation: OAR 605-020-0010(3)
+      quote: In order to receive compensation, a member must submit to the Oregon Beef Council a written claim for
+        compensation by the 15th day of the calendar month following the month for which the member seeks compensation.
+    - id: oar-611-040-0010
+      citation: OAR 611-040-0010(3)
+      quote: In order to receive compensation, a member must submit to the Commission a written claim for compensation
+        by the 10th day of the second calendar month following the month for which the member seeks compensation.
+    - id: oar-623-040-0005
+      citation: OAR 623-040-0005(3)
+      quote: In order to receive compensation, a member must submit to the Oregon Hazelnut Commission a written
+        claim for compensation by the 10th day of the calendar month following the month for which the member seeks
+        compensation.
+    - id: oar-668-040-0010
+      citation: OAR 668-040-0010(3)
+      quote: In order to receive compensation, a member must submit to the Commission a written claim for compensation
+        by the 10th day of the second calendar month following the month for which the member seeks compensation.
+    - id: oar-669-030-0050
+      citation: OAR 669-030-0050(3)
+      quote: In order to receive compensation, a member must submit to the Oregon Sweet Cherry Commission a written
+        claim for compensation by the 10th day of the calendar month following the month for which the member seeks
+        compensation.
+    note: Statute delegates compensation procedures to commission rules without specifying claim deadlines. Divergent
+      readings may reflect legitimate commission discretion, but the variation across five commissions (15th, 10th,
+      and 10th-of-second-month) warrants review to determine if this degree of variation was contemplated by statute.
+    type: null
+    section: ors-576.206
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Different expense authorization thresholds across commodity commissions, ranging from $200 to $1,000
+    documents:
+    - id: oar-623-040-0010
+      citation: OAR 623-040-0010(3)
+      quote: An expense that exceeds $200 dollars must be authorized by the Oregon Hazelnut Commission before a
+        member incurs the expense.
+    - id: oar-668-040-0020
+      citation: OAR 668-040-0020(3)
+      quote: An expense that exceeds $300 dollars must be authorized by the Commission before a member incurs the
+        expense.
+    - id: oar-605-020-0020
+      citation: OAR 605-020-0020(3)
+      quote: An expense that exceeds $500.00 dollars must be authorized by the Oregon Beef Council before a member
+        incurs the expense.
+    - id: oar-669-030-0060
+      citation: OAR 669-030-0060(3)
+      quote: An expense that exceeds $500 dollars must be authorized by the Oregon Sweet Cherry Commission before
+        a member incurs the expense.
+    - id: oar-611-040-0020
+      citation: OAR 611-040-0020(3)
+      quote: An expense that exceeds $1,000 dollars must be authorized by the Commission before a member incurs
+        the expense.
+    note: Statute does not specify expense authorization thresholds, delegating details to commission rules. Thresholds
+      vary fivefold ($200-$1,000) across commissions. Divergent readings may reflect legitimate discretion unless
+      statute intended uniform standards across commodity commissions.
+    type: null
+    section: ors-576.206
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 3 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '577'
+  sections_reviewed:
+  - ors-577.125
+  rules_reviewed: 6
+  candidates:
+  - summary: Rule uses 'other commodities' for disparagement criterion where statute specifies 'agricultural commodities'
+    documents:
+    - id: ors-577.125
+      citation: ORS 577.125(2)(b)
+      quote: Not disparaging to agricultural commodities
+    - id: oar-603-042-0015
+      citation: OAR 603-042-0015(1)(b)
+      quote: Not disparaging to other commodities
+    note: 'In context of beef promotion, both likely mean the same thing: beef materials should not disparage other
+      agricultural commodities. However, statute uses broader term ''agricultural commodities'' while rule uses
+      ''other commodities,'' which could potentially have different meanings or scope.'
+    type: null
+    section: ors-577.125
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: low
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule requires consistency with multiple chapters while statute specifies single chapter
+    documents:
+    - id: ors-577.125
+      citation: ORS 577.125(2)(c)
+      quote: Consistent with the purposes of this chapter
+    - id: oar-603-042-0015
+      citation: OAR 603-042-0015(1)(c)
+      quote: Consistent with the purposes of ORS 576.051 to 576.584, 577, and 578
+    note: The rule applies uniformly to commodity commissions under three different statutes (576.066, 577.125,
+      578.025), so requiring consistency with all three chapters is a reasonable and practical unified approach.
+      However, statute 577.125 specifically requires 'this chapter' (577) alone, and the rule extends the scope
+      to Chapters 576, 577, and 578, potentially raising review standards beyond what the statute contemplates.
+    type: null
+    section: ors-577.125
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '656'
+  sections_reviewed:
+  - ors-656.307
+  - ors-656.612
+  - ors-656.725
+  rules_reviewed: 36
+  candidates:
+  - summary: Statute authorizes additional assessment only from self-insured employer groups, but rule also assesses
+      individual self-insured employers
+    documents:
+    - id: ors-656.612
+      citation: ORS 656.612(3)
+      quote: The director may impose and collect an additional assessment from self-insured employer groups in an
+        amount sufficient to pay the additional expenses involved in administering the group self-insured program.
+    - id: oar-440-045-0025
+      citation: OAR 440-045-0025
+      quote: In addition to the assessments established in OAR 440-045-0020, self-insured employers for the Calendar
+        Year 2026 shall be assessed an additional 0.1 percent to fund the Self-Insured Employer Adjustment Reserve.
+        Public self-insured employer groups for the Calendar Year 2026 shall be assessed an additional 0.1 percent
+        to fund the Self-Insured Employer Group Adjustment Reserve. Private self-insured employer groups for the
+        Calendar Year 2026 shall be assessed an additional 0.5 percent to fund the Self-Insured Employer Group Adjustment
+        Reserve.
+    - id: oar-436-085-0005
+      citation: OAR 436-085-0005(8)-(9)
+      quote: (8) "Self-Insured employer" means an employer that has been certified under ORS 656.430 as having met
+        the qualifications of a self-insured employer set out by ORS 656.407. (9) "Self-Insured employer group"
+        means five or more employers certified under ORS 656.430 as having met the qualifications of a self-insured
+        employer set out by ORS 656.407 and OAR 436-050-0260 through 436-050-0340.
+    note: The statute distinguishes between 'self-insured employers' (individual entities) and 'self-insured employer
+      groups' (five or more entities) as separate categories throughout 656.612(1). Subsection (3) limits the additional
+      assessment authority to 'self-insured employer groups,' not individual 'self-insured employers.' However,
+      OAR 440-045-0025 imposes an additional 0.1% assessment on individual 'self-insured employers' as well as on
+      groups. A reasonable counter-reading might note that OAR 436-085-0030(1) states that for purposes of that
+      rule, 'self-insured employers' includes groups, but 440-045-0025 does not contain such a definitional provision
+      and appears to treat them as separate categories.
+    type: null
+    section: ors-656.612
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 1 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '658'
+  sections_reviewed:
+  - ors-658.078
+  - ors-658.405
+  - ors-658.705
+  rules_reviewed: 3
+  candidates:
+  - summary: Rule specifies contract logging format but does not address statutory requirement to maintain receipts
+      of moneys received
+    documents:
+    - id: ors-658.078
+      citation: ORS 658.078(2)
+      quote: keep accurate and current records of all contracts and receipts of moneys received from applicants
+    - id: oar-839-017-0032
+      citation: OAR 839-017-0032
+      quote: All contracts shall be in numerical order and registered in a log. The log will contain the contract
+        number, the date, and the name of the applicant as it appears in some uniform place in the contract.
+    note: The statute explicitly requires recording of 'receipts of moneys received from applicants' as a distinct
+      record-keeping obligation when charges are collected. The rule implements logging requirements for contracts
+      but contains no specification for how receipts or amounts received should be recorded. This could represent
+      incomplete implementation of the statutory requirement, or receipts could be addressed elsewhere in the regulatory
+      framework. [confidence recorded by the model as 'moderate'; normalized to 'medium'.] [severity recorded by
+      the model as 'moderate'; normalized to 'medium'.]
+    type: null
+    section: ors-658.078
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '670'
+  sections_reviewed:
+  - ors-670.280
+  - ors-670.306
+  - ors-670.350
+  - ors-670.400
+  - ors-670.415
+  - ors-670.605
+  rules_reviewed: 26
+  candidates:
+  - summary: Scope of 'good standing' requirement differs. Mental Health boards require no restrictions in 'any
+      jurisdiction where applicant has been licensed'; statute specifies 'issuing out-of-state professional licensing
+      board' only.
+    documents:
+    - id: ors-670.400
+      citation: ORS 670.400(2)(c)
+      quote: Provides to the professional licensing board, in a manner determined by the professional licensing
+        board, sufficient proof that the person is in good standing with the issuing out-of-state professional licensing
+        board
+    - id: oar-833-020-0200
+      citation: OAR 833-020-0200(1)(c)
+      quote: To qualify for Temporary Practice Authorization, an applicant must be in good standing, with no restrictions
+        or limitations upon, actions taken against, or investigation or disciplinary action pending against his
+        or her license in any jurisdiction where the applicant is or has been licensed.
+    - id: oar-858-010-0056
+      citation: OAR 858-010-0056(1)(b)
+      quote: To qualify for Temporary Practice Authorization, an applicant must be in good standing, with no restrictions
+        or limitations upon, actions taken against, or investigation or disciplinary action pending against his
+        or her license in any jurisdiction where the applicant is or has been licensed.
+    note: 'The statute conditions eligibility on good standing with ''the issuing out-of-state professional licensing
+      board'' (the state where the person currently holds a license). The Mental Health boards'' rules extend this
+      to require good standing in ''any jurisdiction where the applicant is or has been licensed'' — retroactively
+      checking all past jurisdictions. This is broader/more restrictive than the statute specifies. Reasonable reading:
+      statute allows someone with past regulatory issues in another state to qualify if they are in good standing
+      with their current licensing state; rules would exclude them based on history anywhere.'
+    type: null
+    section: ors-670.400
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule claims statutory authority under ORS 670.415 but lists ORS 671.415 as the statute it implements;
+      rule text does not address specific provisions of ORS 670.415
+    documents:
+    - id: ors-670.415
+      citation: ORS 670.415(3)
+      quote: A professional licensing board may adopt rules to carry out the provisions of this section.
+    - id: oar-804-001-0005
+      citation: OAR 804-001-0005
+      quote: 'Statutory/Other Authority: ORS 183.341 & ORS 670.415 Statutes/Other Implemented: ORS 671.415'
+    note: The rule's authority line cites ORS 670.415 but its implementation line cites ORS 671.415. The rule text
+      adopts model rules of procedure and does not directly address the specific provisions of ORS 670.415 (staff
+      culturally responsive training and guidance publication for internationally educated individuals). This may
+      indicate the wrong statute is cited as authority, or there is a transcription error in the rule's statutory
+      citations.
+    type: null
+    section: ors-670.415
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 150-316-0241 and OAR 812-003-0240 list different organizational names for the same entity in their
+      cooperation clauses
+    documents:
+    - id: oar-150-316-0241
+      citation: OAR 150-316-0241(2)
+      quote: The Construction Contractors Board, Employment Department, Landscape Contractors Board, Department
+        of Consumer and Business Services, and Department of Revenue of the State of Oregon, under the authority
+        of ORS 670.605, will cooperate as necessary in their compliance and enforcement activities to ensure among
+        the agencies the consistent interpretation and application of ORS 670.600.
+    - id: oar-812-003-0240
+      citation: OAR 812-003-0240(6)
+      quote: The Construction Contractors Board, Employment Department, Landscape Contractors Board, Workers Compensation
+        Division, and Department of Revenue of the State of Oregon, under authority of ORS 670.605, will cooperate
+        as necessary in their compliance and enforcement activities to ensure among the agencies the consistent
+        interpretation and application of 670.600.
+    note: DCBS (Department of Consumer and Business Services) is the parent agency of the Workers Compensation Division.
+      Both rules refer to the same entity but at different organizational levels. The statute ORS 670.605(2) mandates
+      consistent interpretation and application, but does not specify whether cooperation requirements should be
+      framed at the parent-agency or division level.
+    type: null
+    section: ors-670.605
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 150-670-0010 and OAR 436-170-0300 use 'licensed' while OAR 812-003-0240 uses 'registered' to describe
+      the same professional category under ORS 671.010-671.220
+    documents:
+    - id: oar-150-670-0010
+      citation: OAR 150-670-0010(4)(a)
+      quote: (A) Architects licensed under ORS 671.010 to 671.220;
+    - id: oar-436-170-0300
+      citation: OAR 436-170-0300(1)(a)
+      quote: (a) Architects licensed under ORS 671.010 to 671.220;
+    - id: oar-812-003-0240
+      citation: OAR 812-003-0240(4)(a)
+      quote: (A) Architects registered under ORS 671.010 to 671.220;
+    note: ORS 670.605 mandates joint rulemaking by multiple agencies to ensure consistent interpretation. Two agencies
+      (DOR and DCBS/WCD) use 'licensed' while the Construction Contractors Board uses 'registered' when defining
+      the scope of covered professionals. 'Licensed' and 'registered' could be synonymous under ORS 671.010-671.220,
+      in which case this difference would not indicate actual conflict. However, the terms could also denote different
+      professional statuses or requirements.
+    type: null
+    section: ors-670.605
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: OAR 150-670-0010 and OAR 436-170-0300 refer to 'Landscaping businesses' while OAR 812-003-0240 refers
+      to 'Landscape contracting businesses' for the same statutory provision
+    documents:
+    - id: oar-150-670-0010
+      citation: OAR 150-670-0010(4)(a)
+      quote: (C) Landscaping businesses licensed under ORS 671.510 to 671.710;
+    - id: oar-436-170-0300
+      citation: OAR 436-170-0300(1)(c)
+      quote: (c) Landscaping businesses licensed under ORS 671.510 to 671.710;
+    - id: oar-812-003-0240
+      citation: OAR 812-003-0240(4)(a)
+      quote: (C) Landscape contracting businesses licensed under ORS 671.510 to 671.710;
+    note: Both terms likely refer to the same regulatory category under ORS 671.510-671.710, but 'landscape contracting
+      businesses' is more specific than 'landscaping businesses,' which could theoretically include non-contracting
+      landscaping work. The difference could be a matter of terminology or could indicate scope ambiguity.
+    type: null
+    section: ors-670.605
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 1 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '672'
+  sections_reviewed:
+  - ors-672.045
+  - ors-672.240
+  - ors-672.325
+  - ors-672.505
+  rules_reviewed: 4
+  candidates:
+  - summary: Rule defines unprofessional conduct for engineers, land surveyors, and photogrammetrists only; statute
+      covers ORS 672.002-672.325 which appear to include geologists based on statute title and chapter scope, creating
+      potential scope mismatch
+    documents:
+    - id: ors-672.325
+      citation: ORS 672.325(1)
+      quote: any person who violates any provision of ORS 672.002 to 672.325 or any rule adopted thereunder shall
+        forfeit and pay to the State Board of Examiners for Engineering and Land Surveying a civil penalty
+    - id: oar-820-020-0055
+      citation: OAR 820-020-0055
+      quote: Incompetence, negligence or gross negligence in the practice engineering, land surveying, or photogrammetric
+        mapping is unprofessional conduct.
+    note: Rule explicitly limits unprofessional conduct definition to three professions while implementing statutes
+      governing a broader professional scope. Geologists may be governed by separate rules or statute provisions,
+      but rule's scope here does not align with statute's apparent multi-profession coverage.
+    type: null
+    section: ors-672.325
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '675'
+  sections_reviewed:
+  - ors-675.070
+  - ors-675.300
+  - ors-675.310
+  - ors-675.320
+  - ors-675.600
+  - ors-675.745
+  rules_reviewed: 43
+  candidates:
+  - summary: Rule 858-020-0045 treats non-compliance with Board orders as a violation of ORS 675.070(2)(h), but
+      the statute limits that ground to violations of statutes or the code of professional conduct, not Board orders
+      per se.
+    documents:
+    - id: ors-675.070
+      citation: ORS 675.070(2)(h)
+      quote: Has violated a provision of ORS 675.010 to 675.150 or 675.850 or a provision of the code of professional
+        conduct formulated under ORS 675.110 (13)
+    - id: oar-858-020-0045
+      citation: OAR 858-020-0045(8)(a)
+      quote: Failure to comply with one or more terms of a Board order or agreement constitutes a violation of ORS
+        675.070(2)(h) and is grounds for disciplinary action.
+    note: The rule could be consistent if Board orders enforce specific provisions of the code of professional conduct
+      formulated under ORS 675.110(13), or if one of the statutes from 675.010 to 675.150 requires compliance with
+      Board orders. However, the statute does not explicitly authorize Board orders as independent grounds for sanction.
+    type: null
+    section: ors-675.070
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule cites a non-existent subsection as legal authority.
+    documents:
+    - id: ors-675.600
+      citation: ORS 675.600(1)
+      quote: Pursuant to ORS chapter 183, adopt rules necessary to carry out the provisions of ORS 675.510 to 675.600.
+    - id: oar-877-022-0005
+      citation: OAR 877-022-0005, Statutory/Other Authority line
+      quote: 'Statutory/Other Authority: ORS 675.510(3), 675.530(1)(3), 675.535(1), 675.537(1)(3), 675.560 (2),
+        675.571(4), 675.595(3) & 675.600(1)(a)'
+    note: ORS 675.600 contains only four main subsections numbered (1) through (4). Subsection (1) contains no lettered
+      subparagraphs. The citation should reference 'ORS 675.600(1)' without the '(a)'. No defensible reading accommodates
+      the citation as written.
+    type: null
+    section: ors-675.600
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '678'
+  sections_reviewed:
+  - ors-678.111
+  - ors-678.140
+  - ors-678.153
+  - ors-678.390
+  - ors-678.442
+  rules_reviewed: 42
+  candidates:
+  - summary: Initial certification via enrollment without completion requirement
+    documents:
+    - id: ors-678.442
+      citation: ORS 678.442(1)(b)
+      quote: (b)(A) Shows completion of an approved training program for nursing assistants; (B) Has military training
+        or experience that the board determines is substantially equivalent to the training required by subparagraph
+        (A) of this paragraph; or (C) Has other health care education, training or experience that the board determines
+        is sufficient; and (c) Passes a board approved examination.
+    - id: oar-851-062-0050
+      citation: OAR 851-062-0050(1)(e)
+      quote: '(e) One of the following: (A) Proof of completion, including date of completion of a nursing assistant
+        training program approved by the Board or, for non-Oregon programs, by the appropriate agency in that state
+        or U.S. territory; (B) A Joint Services transcript and DD214 form; (C) Proof of an active RN, PN or Vocational
+        Nurse (VN) license in good standing; or (D) Proof of current enrollment in a nursing education program approved
+        by the Board or, for non-Oregon programs, by the appropriate agency in that state or U.S. territory.'
+    note: The statute explicitly requires applicants to show 'completion' of an approved training program as one
+      path (subsection A), or alternatively 'has' military training equivalent or 'has' other health care education
+      that the board determines sufficient. The statute's language—particularly 'completion' in (A) and 'has' in
+      (C)—refers to education/training already completed or possessed. OAR 851-062-0050(1)(e)(D) allows 'current
+      enrollment' as a separate alternative path. Enrollment indicates training in progress, not yet completed.
+      The rule presents enrollment as a distinct fourth pathway alongside completion, suggesting they are alternatives
+      rather than equivalent. However, enrollment could arguably satisfy statute section (b)(C) if the board has
+      determined that enrollment in an approved program constitutes 'other health care education...that the board
+      determines is sufficient,' though the rule does not explicitly make this determination or explain the reasoning.
+    type: null
+    section: ors-678.442
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '681'
+  sections_reviewed:
+  - ors-681.350
+  - ors-681.410
+  rules_reviewed: 3
+  candidates:
+  - summary: Rule sets compensation amount without explicitly establishing that the amount is greater than the ORS
+      292.495 baseline as required by statute.
+    documents:
+    - id: ors-681.410
+      citation: ORS 681.410
+      quote: The board may provide by rule for compensation to board members for the performance of official duties
+        at a rate that is greater than the rate provided in ORS 292.495.
+    - id: oar-335-001-0012
+      citation: OAR 335-001-0012
+      quote: Compensation is set at $50.
+    note: 'The rule cites ORS 292.495 as legal authority, suggesting intent to comply with the statutory constraint.
+      The statute allows rule-based compensation only if greater than the ORS 292.495 rate, but the rule text does
+      not verify or state this relationship. Defensible counter-reading: the board is exercising delegated authority
+      within statutory limits without needing to restate the limitation in rule text.'
+    type: null
+    section: ors-681.410
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: low
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '687'
+  sections_reviewed:
+  - ors-687.051
+  - ors-687.081
+  rules_reviewed: 7
+  candidates:
+  - summary: Statute specifies 12-hour minimum for renewal continuing education; rule requires 25 hours
+    documents:
+    - id: ors-687.051
+      citation: ORS 687.051(5)
+      quote: To be eligible for biennial renewal, a renewal applicant shall submit evidence to the board, as determined
+        by the board by rule, that the applicant has completed a minimum of 12 hours of board-approved continuing
+        education.
+    - id: oar-334-010-0015
+      citation: OAR 334-010-0015(7)
+      quote: Applicants for the renewal of an active license must sign a statement verifying completion of a minimum
+        of 25 hours of continuing education.
+    note: The statute's phrase 'as determined by the board by rule' is ambiguous. It could mean the board determines
+      procedural compliance mechanisms (keeping the 12-hour floor) or determines the substantive requirement itself
+      (allowing 25 hours). Standard regulatory interpretation suggests a specific statutory floor ('minimum of 12
+      hours') cannot be exceeded by delegation, but this reading is defensible.
+    type: null
+    section: ors-687.051
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: high
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Statute limits criminal conviction basis to crimes with demonstrable relationship to massage practice;
+      rule permits discipline for any conviction without relationship requirement.
+    documents:
+    - id: ors-687.081
+      citation: ORS 687.081(1)(f)
+      quote: Has been convicted of a crime that bears a demonstrable relationship to the practice of massage or
+        operation of a massage facility.
+    - id: oar-334-040-0010
+      citation: OAR 334-040-0010(6)
+      quote: Conviction of a crime in any state or jurisdiction;
+    note: The statute's requirement that a crime 'bears a demonstrable relationship' to massage practice is an essential
+      limiting principle. The rule's broader language (any crime, any jurisdiction) appears to remove this limiting
+      requirement, potentially allowing discipline based on unrelated criminal conduct.
+    type: null
+    section: ors-687.081
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: high
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Statute limits disciplinary action basis to actions against massage therapists or facility operators;
+      rule extends to any licensed healthcare professional.
+    documents:
+    - id: ors-687.081
+      citation: ORS 687.081(1)(k)
+      quote: Has been the subject of disciplinary action as a massage therapist or operator of a massage facility
+        by another state or territory of the United States or by a foreign country and the board determines that
+        the cause of the disciplinary action would be a violation under ORS 687.011 to 687.250, 687.895 or 687.991
+        or the rules of the board if the cause of the disciplinary action had occurred in this state.
+    - id: oar-334-040-0010
+      citation: OAR 334-040-0010(3)
+      quote: Has been the subject of disciplinary action as a licensed healthcare professional by this or any other
+        state or territory of the United States or by a foreign country and the Board determines that the cause
+        of the disciplinary action would be a violation under ORS 687.011 to 687.250, 687.895 and 687.991 or OAR
+        Chapter 334;
+    note: The statute expressly limits this ground to disciplinary action 'as a massage therapist or operator of
+      a massage facility.' The rule's extension to 'any licensed healthcare professional' appears to broaden the
+      scope beyond what the statute authorizes, potentially allowing discipline based on disciplinary action in
+      unrelated healthcare professions (e.g., nursing, dentistry).
+    type: null
+    section: ors-687.081
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Statute requires false statements to board be made 'in order to induce or prevent action'; rule omits
+      this purpose element.
+    documents:
+    - id: ors-687.081
+      citation: ORS 687.081(1)(b)
+      quote: Has made a false representation or statement to the board in order to induce or prevent action by the
+        board.
+    - id: oar-334-040-0010
+      citation: OAR 334-040-0010(2)
+      quote: Knowingly or recklessly making any false statement to the Board;
+    note: 'The statute condition requires a specific purpose (''in order to induce or prevent action by the board''),
+      which is a material element of the violation. The rule requires ''knowingly or recklessly'' making a false
+      statement but does not include the statutory purpose requirement. These are distinct mental states and purposes:
+      the statute requires purposeful inducement/prevention, while the rule only requires knowing or reckless falsity.'
+    type: null
+    section: ors-687.081
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '688'
+  sections_reviewed:
+  - ors-688.140
+  rules_reviewed: 3
+  candidates:
+  - summary: Rule narrows statute's negligence standard to gross negligence or multiple acts, excluding single negligent
+      acts.
+    documents:
+    - id: ors-688.140
+      citation: ORS 688.140(2)(d)
+      quote: Provides substandard care as a physical therapist through a deliberate or negligent act or failure
+        to act, regardless of whether injury to the patient occurs.
+    - id: oar-848-045-0020
+      citation: OAR 848-045-0020(2)(f)
+      quote: Commits gross negligence or multiple acts of negligence in practice. The Board may take into account
+        relevant factors and practices, including but not limited to the standard of practice generally and currently
+        followed and accepted by persons licensed to practice physical therapy in this state, the current teachings
+        at accredited physical therapy schools and relevant technical reports published in recognized physical therapy
+        journals in determining the definition of gross negligence
+    note: The statute includes 'negligent act' (singular) which could encompass simple negligence, but the rule
+      limits discipline grounds to 'gross negligence or multiple acts of negligence.' A single negligent act that
+      does not rise to gross negligence would not be grounds under the rule but appears contemplated by the statute.
+    type: null
+    section: ors-688.140
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: high
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule requires reporting of any conduct by any licensed medical provider, while statute limits reporting
+      to violations of physical therapy statutes and rules.
+    documents:
+    - id: ors-688.140
+      citation: ORS 688.140(2)(p)
+      quote: Fails to report to the board, when the person has direct knowledge of an unprofessional, incompetent
+        or illegal act that reasonably appears to be in violation of ORS 688.010 to 688.201 or any rules of the
+        board.
+    - id: oar-848-045-0020
+      citation: OAR 848-045-0020(2)(z)
+      quote: Fails to notify the appropriate licensing board of any conduct by another licensed medical provider
+        when the licensee has reasonable cause to believe that the medical provider has engaged in prohibited or
+        unprofessional conduct. Notice must occur without undue delay, but in no event later than 10 days after
+        the reporting licensee learns of the conduct.
+    note: 'The statute requires reporting only violations of ORS 688.010 to 688.201 (physical therapy statutes)
+      and board rules to the physical therapy board. Rule 848-045-0020(2)(z) adds a new ground for discipline: failure
+      to report any conduct by any medical provider to their respective board. This appears to expand the reporting
+      requirement beyond the scope of violations defined in the statute.'
+    type: null
+    section: ors-688.140
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 1 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '689'
+  sections_reviewed:
+  - ors-689.115
+  - ors-689.285
+  - ors-689.645
+  - ors-689.689
+  rules_reviewed: 7
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '690'
+  sections_reviewed:
+  - ors-690.005
+  - ors-690.015
+  rules_reviewed: 9
+  candidates:
+  - summary: Rule cites non-existent subsection citation format for student prohibition.
+    documents:
+    - id: oar-817-090-0035
+      citation: OAR 817-090-0035(4)
+      quote: Performing in a field of practice by a student when not on the premises of an educational institution,
+        or while not pursuing the prescribed curriculum in which he or she is enrolled, is a violation of ORS 690.015(a)
+    - id: ors-690.015
+      citation: ORS 690.015
+      quote: '690.015 Prohibited acts. (1) This section establishes prohibitions relating to the practice of hair
+        design, barbering, esthetics, nail technology and natural hair care. [...] (2) A person may not: (a) Perform
+        or attempt to perform services in a field of practice without an active authorization.'
+    note: The statute structure does not include a bare subsection (a) under 690.015; subsections are (2)(a) through
+      (2)(k). The correct citation should be ORS 690.015(2)(a) or another subsection of (2). The statute contains
+      no specific prohibition against student practice outside educational institutions; this prohibition appears
+      to exceed or mischaracterize the statute.
+    type: null
+    section: ors-690.015
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule imposes blanket prohibition on alteration; statute prohibits only fraudulent alteration.
+    documents:
+    - id: oar-331-030-0020
+      citation: OAR 331-030-0020(5)
+      quote: Authorizations may not be altered; displayed authorizations may have the address covered by a removable
+        sticker.
+    - id: ors-690.015
+      citation: ORS 690.015(2)(j)
+      quote: Materially alter with fraudulent intent a document evidencing an authorization.
+    note: The statute (2)(j) prohibits alteration only when done 'with fraudulent intent.' The rule states an absolute
+      prohibition without the fraudulent-intent element. However, the rule may be justified as a prophylactic measure
+      independent of the statute; if defended, the agency would need to cite independent rulemaking authority.
+    type: null
+    section: ors-690.015
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 2 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '697'
+  sections_reviewed:
+  - ors-697.031
+  - ors-697.692
+  rules_reviewed: 2
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '731'
+  sections_reviewed:
+  - ors-731.008
+  - ors-731.016
+  - ors-731.264
+  - ors-731.804
+  rules_reviewed: 16
+  candidates:
+  - summary: Rule excludes only workers' compensation from property-casualty line but does not mention statutory
+      exclusion of wet marine and transportation insurance.
+    documents:
+    - id: ors-731.804
+      citation: ORS 731.804(6)
+      quote: Wet marine and transportation insurance policies.
+    - id: oar-836-009-0011
+      citation: OAR 836-009-0011(1)
+      quote: For purposes of this rule, this line includes title insurance but does not include workers' compensation
+        insurance.
+    note: A reasonable reading is that the rule's language 'subject to assessment under 731.804' incorporates all
+      statutory exclusions by reference, including wet marine. However, the rule explicitly calls out workers' compensation
+      but omits wet marine, creating ambiguity about whether wet marine premiums would be included in the property
+      and casualty assessment base despite the statute's explicit exclusion.
+    type: null
+    section: ors-731.804
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '746'
+  sections_reviewed:
+  - ors-746.135
+  rules_reviewed: 1
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '756'
+  sections_reviewed:
+  - ors-756.036
+  rules_reviewed: 1
+  candidates: []
+  note: No candidates proposed for the sections listed.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '802'
+  sections_reviewed:
+  - ors-802.020
+  - ors-802.050
+  - ors-802.087
+  - ors-802.179
+  rules_reviewed: 19
+  candidates:
+  - summary: Maximum photograph age differs between DOC and DMV implementations of the same program
+    documents:
+    - id: oar-291-207-0100
+      citation: OAR 291-207-0100(3)
+      quote: The photograph on file must not be older than nine years and two months.
+    - id: oar-735-001-0062
+      citation: OAR 735-001-0062(3)
+      quote: The photograph on file must not be older than nine years.
+    note: Both rules implement the same statutory program, but establish different photograph age standards. The
+      statute does not specify a photograph age limit.
+    type: null
+    section: ors-802.087
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: License expiration threshold for renewal eligibility differs between DOC and DMV rules
+    documents:
+    - id: oar-291-207-0100
+      citation: OAR 291-207-0100(3)(b)
+      quote: A renewal driver license to an inmate whose driving privileges are valid or are reinstated at the time
+        of issuance and whose driver license is within the allotted time for early renewal as described in OAR 735-062-0090(4)
+        or has been expired for less than one year
+    - id: oar-735-001-0062
+      citation: OAR 735-001-0062(3)(b)
+      quote: A renewal driver license to an adult in custody whose driving privileges are valid or are reinstated
+        at the time of issuance and whose driver license is within the allotted time for early renewal as described
+        in OAR 735-062-0090(8) or has been expired for less than two years
+    note: 'The rules establish different eligibility windows for renewal: DOC permits if expired less than one year,
+      DMV permits if expired less than two years. This affects who can participate in the program.'
+    type: null
+    section: ors-802.087
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: high
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: License expiration threshold for identification card eligibility differs between DOC and DMV rules
+    documents:
+    - id: oar-291-207-0100
+      citation: OAR 291-207-0100(3)(c)(B)
+      quote: Whose previous driver license has been expired for more than one year
+    - id: oar-735-001-0062
+      citation: OAR 735-001-0062(3)(c)(B)
+      quote: Whose previous driver license has been expired for more than two years
+    note: 'The two rules establish different thresholds for when a person becomes eligible for an identification
+      card instead of a driver license: DOC at one year, DMV at two years.'
+    type: null
+    section: ors-802.087
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: high
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Age threshold for vision examination requirement differs between DOC and DMV rules
+    documents:
+    - id: oar-291-207-0100
+      citation: OAR 291-207-0100(8)
+      quote: An inmate who is eligible to renew his or her driving privileges, and is or will be 50 years of age
+        or older at the time his or her driving privileges expire, must meet the requirements of OAR 735-062-0060.
+    - id: oar-735-001-0062
+      citation: OAR 735-001-0062(7)
+      quote: An adult in custody who is eligible to renew their driving privileges, and is or will be 65 years of
+        age or older at the time their driving privileges expire, must meet the requirements of OAR 735-062-0060.
+    note: 'The rules differ on the age at which a vision examination becomes mandatory: DOC requires it at 50 or
+      older, DMV at 65 or older. This is a fifteen-year difference in when the requirement applies.'
+    type: null
+    section: ors-802.087
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Statute requires disseminator contract include two-day delay method for non-subscribers; not addressed
+      in implementing rules
+    documents:
+    - id: ors-802.179
+      citation: ORS 802.179(13)(b)(C)
+      quote: That the disseminator will have a method of ensuring that the disseminator can delay for a period of
+        up to two days the giving of personal information to a requester who is not a subscriber.
+    - id: oar-735-010-0215
+      citation: OAR 735-010-0215(1)
+      quote: 'In order for DMV to determine if a person is in the business of disseminating information, the person
+        must provide the following: (a) Sufficient evidence that the person is a legitimate business as set forth
+        in OAR 735-010-0210(1); (b) A description of the business; (c) A description of the method used to ensure
+        that personal information will be resold or redisclosed only to qualified persons or entities who are authorized
+        by DMV to receive personal information; (d) A copy of or reference to a current business advertisement,
+        including but not limited to the yellow pages, newspaper, television, internet or other media of general
+        circulation. If from a reference DMV is unable to verify the advertisement, documentation of the advertisement
+        may be required; and (e) Names and phone numbers of customers who may be contacted for verification.'
+    note: The statute mandates that disseminator contracts contain a provision allowing disseminators to delay information
+      to non-subscribers for up to two days. The rule lists required submissions from disseminators but does not
+      mention or require verification of this two-day delay capability. The rule addresses contract provision (B)
+      (authorized recipients only) in section (1)(c) but omits provision (C) (two-day delay).
+    type: null
+    section: ors-802.179
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: high
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  note: 3 further candidate(s) proposed here were dropped by quote verification and are not recorded.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '811'
+  sections_reviewed:
+  - ors-811.595
+  rules_reviewed: 3
+  candidates:
+  - summary: OAR 735-080-0000 lists four permit types but OAR 734-020-0070, which is the source of fee information,
+      specifies only three permit types with fees, leaving the Interim Annual permit without a specified fee.
+    documents:
+    - id: ors-811.595
+      citation: ORS 811.595(2)(a)
+      quote: The type of permit.
+    - id: oar-734-020-0070
+      citation: OAR 734-020-0070(1)
+      quote: '(1) The fee for parking permits in winter recreation parking areas (Sno-Parks) shall be as follows:
+        (a) One day — $4; (b) Three consecutive days — $9; (c) Annual, beginning each November — $25.'
+    - id: oar-735-080-0000
+      citation: OAR 735-080-0000(1)
+      quote: '(1) There are four types of Sno-Park permits: Annual, Interim Annual, Three-day, and Daily.'
+    - id: oar-735-080-0000
+      citation: OAR 735-080-0000(7)
+      quote: (7) Sno-Park permit fees are established by the Oregon Transportation Commission under OAR 734-020-0070.
+    note: The Interim Annual permit is described in OAR 735-080-0000(4)-(5) as a temporary certificate issued automatically
+      when an Annual permit is purchased via DMV's website, valid for two weeks or until the full Annual permit
+      arrives. It may not require a separate fee since no additional charge is implied when purchasing the Annual
+      permit. However, the statute ORS 811.595(2)(a) requires that permit types be specified in the rules, and OAR
+      735-080-0000 explicitly enumerates Interim Annual as a type, yet no corresponding fee appears in the fee-setting
+      rule to which OAR 735-080-0000(7) directs readers.
+    type: null
+    section: ors-811.595
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '815'
+  sections_reviewed:
+  - ors-815.010
+  - ors-815.030
+  rules_reviewed: 17
+  candidates:
+  - summary: Statute allows SAE/ANSI/NIST standards as alternative compliance pathways, but vehicle safety rules
+      specify only FMVSS without acknowledging these alternatives.
+    documents:
+    - id: ors-815.010
+      citation: ORS 815.010(1)
+      quote: Testing requirements for equipment standards adopted under the vehicle code shall be met by the manufacturer
+        submitting a report from a laboratory approved by the Department of Transportation showing compliance with
+        the current federal regulations or the standards of the Society of Automotive Engineers, the American National
+        Standards Institute or the National Institute of Standards and Technology.
+    - id: oar-737-010-0010
+      citation: OAR 737-010-0010(1)
+      quote: As the minimum vehicle safety standards for low-speed vehicles, TSO adopts the Federal Motor Vehicle
+        Safety Standards (FMVSS) applicable to low-speed vehicles as set forth in 49 CFR, Part 571.500 (October
+        1, 2008).
+    - id: oar-737-010-0020
+      citation: OAR 737-010-0020
+      quote: As the minimum vehicle safety standards for medium-speed electric vehicles, Transportation Safety adopts
+        the standards and requirements set forth below.
+    note: The statute's 'or' language suggests SAE/ANSI/NIST are acceptable standalone alternatives to federal regulations.
+      However, rules 737-010-0010 and 737-010-0020 adopt only FMVSS with no explicit acknowledgment of alternatives,
+      whereas OAR 735-110-0020(1) for sirens explicitly references 'ANS and SAE items,' suggesting that when alternative
+      standards are intended to be acceptable, agencies specify them. The rules' use of 'minimum' standards and
+      allowance for 'more stringent' testing does not clarify whether SAE/ANSI/NIST can substitute for FMVSS compliance
+      or only supplement it. This could be reconciled if 'minimum standards adopted' means federal regulations are
+      the floor but alternatives are still permitted per the statute.
+    type: null
+    section: ors-815.010
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '818'
+  sections_reviewed:
+  - ors-818.070
+  - ors-818.140
+  - ors-818.150
+  - ors-818.160
+  - ors-818.170
+  - ors-818.270
+  rules_reviewed: 5
+  candidates:
+  - summary: Rule extends exemption to private contractors leasing state vehicles; statute restricts exemption to
+      enumerated government entities.
+    documents:
+    - id: ors-818.070
+      citation: ORS 818.070 (section 3)
+      quote: Any vehicle, combination of vehicles, article, machine or other equipment while being used by the federal
+        government, the State of Oregon or any county or incorporated city in the construction, maintenance or repair
+        of public highways and at the immediate location or site of such construction, maintenance or repair.
+    - id: oar-734-070-0017
+      citation: OAR 734-070-0017
+      quote: The exemptions from maximum weight limitations in ORS 818.030(3), 818.070(3) and 818.140(3) apply to
+        any department-owned vehicle, combination of vehicles, article, machine or other equipment leased from the
+        department to a private contractor, when used under contract with the department.
+    note: The statute lists specific eligible entities and does not name private contractors. However, a contractor
+      operating a state vehicle under a state contract could arguably constitute use 'by the State of Oregon' in
+      functional terms. Ambiguous—worth legal review to determine whether contractor-operator status falls within
+      statutory scope.
+    type: null
+    section: ors-818.070
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: medium
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  - summary: Rule may extend exemption to leased equipment under any departmental contract without explicitly requiring
+      the construction/maintenance/repair and immediate-location limitations specified in statute
+    documents:
+    - id: ors-818.140
+      citation: ORS 818.140(3)
+      quote: Posted use limits do not apply to any vehicle, combination of vehicles, article, machine or other equipment
+        while being used by the federal government, the State of Oregon or any county or incorporated city in the
+        construction, maintenance or repair of public highways and at the immediate location or site of such construction,
+        maintenance or repair.
+    - id: oar-734-070-0017
+      citation: OAR 734-070-0017
+      quote: The exemptions from maximum weight limitations in ORS 818.030(3), 818.070(3) and 818.140(3) apply to
+        any department-owned vehicle, combination of vehicles, article, machine or other equipment leased from the
+        department to a private contractor, when used under contract with the department.
+    note: The rule may reasonably incorporate the statutory conditions implicitly since it cites the statute section.
+      However, the rule does not explicitly require 'construction, maintenance or repair' or 'immediate location
+      or site' conditions. A reader could potentially interpret 'when used under contract' as permitting exemptions
+      for any departmental contract, not solely construction/maintenance/repair work at specified locations. [severity
+      recorded by the model as 'moderate'; normalized to 'medium'.]
+    type: null
+    section: ors-818.140
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: low
+    severity: medium
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '823'
+  sections_reviewed:
+  - ors-823.061
+  rules_reviewed: 10
+  candidates: []
+  note: 1 candidate(s) were proposed here and ALL were dropped by quote verification. This chapter is NOT clean
+    — it is unresolved.
+  run_id: haiku-scan-2026-07-31
+- ors_chapter: '825'
+  sections_reviewed:
+  - ors-825.212
+  - ors-825.470
+  rules_reviewed: 2
+  candidates:
+  - summary: 'Fee basis differs: statute specifies ''for each motor vehicle'' while rule specifies ''for each pass
+      issued'''
+    documents:
+    - id: ors-825.470
+      citation: ORS 825.470(1)
+      quote: For this pass a fee of $9 for each motor vehicle shall be paid.
+    - id: oar-740-055-0025
+      citation: OAR 740-055-0025
+      quote: A pass fee of $9 will be collected for each pass issued.
+    note: While likely equivalent in practice (one pass per vehicle), the different reference points could theoretically
+      allow multiple passes per vehicle under the rule's language, which would diverge from the statute's per-vehicle
+      structure.
+    type: null
+    section: ors-825.470
+    run_id: haiku-scan-2026-07-31
+    model: claude-haiku-4-5-20251001
+    prompt_version: conflict-haiku-section-scan-2026-07-31
+    confidence: low
+    severity: low
+    triage:
+      status: unreviewed
+      note: null
+      by: null
+      date: null
+  run_id: haiku-scan-2026-07-31
