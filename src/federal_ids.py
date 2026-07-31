@@ -28,15 +28,18 @@ import re
 
 # `2 CFR 200`, `2 C.F.R. § 200.303`, `2 CFR Part 200.303`
 CFR = re.compile(r"\b(?P<title>\d{1,2})\s*C\.?\s?F\.?\s?R\.?\s*(?:Part\s+)?§{0,2}\s*"
-                 r"(?P<part>\d{1,4})(?:\.(?P<sec>\d{1,4}))?\b")
+                 r"(?P<part>\d{1,4})(?:\.(?P<sec>\d{1,4}))?\b", re.I)
 # `Pub. L. 113-128`, `Public Law No. 115-224`, `PL 113-128`
 PUBLAW = re.compile(r"\bP(?:ub(?:lic)?)?\.?\s*L(?:aw)?\.?\s*(?:No\.?\s*)?"
-                    r"(?P<cong>\d{2,3})\s*[-–]\s*(?P<num>\d{1,4})\b")
-# `IRS Pub 1075`, `IRS Publication 1075`
-IRSPUB = re.compile(r"\bIRS\s+Pub(?:lication)?\.?\s*(?P<num>\d{3,4})\b")
+                    r"(?P<cong>\d{2,3})\s*[-–]\s*(?P<num>\d{1,4})\b", re.I)
+# `IRS Pub 1075`, `IRS Publication 1075 (Rev. 11-2021)`, `IRS Pub 1075 Revision 9/2016`
+IRSPUB = re.compile(r"\bIRS\s+Pub(?:lication)?\.?\s*(?P<num>\d{3,4})\b", re.I)
+# The revision, read from anywhere in the citation rather than from a group that had to sit
+# immediately after the number. Case-insensitive and notation-tolerant on purpose.
+IRS_REV = re.compile(r"\b(?:rev(?:ision)?\.?\s*)?(\d{1,2})\s*[-/]\s*(\d{4})\b", re.I)
 # `CJIS Security Policy 6.1`, `CJIS SP v5.9.4`
 CJIS = re.compile(r"\bCJIS(?:\s+Security)?(?:\s+Policy|\s+SP)?\.?\s*"
-                  r"(?:v(?:ersion)?\.?\s*)?(?P<ver>\d+(?:\.\d+){0,2})?")
+                  r"(?:v(?:ersion)?\.?\s*)?(?P<ver>\d+(?:\.\d+){0,2})?", re.I)
 
 
 def candidates(citation: str) -> list[str]:
@@ -63,7 +66,18 @@ def candidates(citation: str) -> list[str]:
 
     m = IRSPUB.search(c)
     if m:
-        return [f"irs-pub-{m.group('num')}"]
+        rev = IRS_REV.search(c)
+        # SAME RULE AS CJIS BELOW, and it was missing here. The id is the only place a
+        # sibling can see a version: index rows are [title, doc_type, path]. Without the
+        # revision in the id, `IRS Pub 1075 (Rev. 09-2016)` derived `irs-pub-1075` and hit
+        # the 11-2021 document exactly -- federal-reference refused that citation while both
+        # citing corpora answered it.
+        if rev:
+            return [f"irs-pub-{m.group('num')}-{rev.group(1).zfill(2)}-{rev.group(2)}"]
+        # No revision named -> no candidate, rather than a guess at whichever revision
+        # happens to be held. federal-reference's own resolver still answers these; it can
+        # read the frontmatter, and a sibling cannot.
+        return []
 
     m = CJIS.search(c)
     if m:

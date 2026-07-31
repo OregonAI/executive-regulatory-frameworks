@@ -126,7 +126,12 @@ from federal_ids import candidates as _federal_ids  # noqa: E402
 for _name, _rx in (("federal-cfr", _F_CFR), ("federal-public-law", _F_PL),
                    ("federal-irs-pub", _F_IRS), ("federal-cjis", _F_CJIS)):
     register_scheme(_name, _rx.pattern,
-                    resolver=lambda m: _federal_ids(m.group(0)),
+                    # m.string, NOT m.group(0). group(0) is only the substring the
+                    # instrument pattern matched, so `IRS Pub 1075 (Rev. 09-2016)` arrived
+                    # here as `IRS Pub 1075` -- the revision was stripped before the id
+                    # function could see it, and the citation resolved to whichever revision
+                    # federal-reference happens to hold. The whole citation must reach it.
+                    resolver=lambda m: _federal_ids(m.string),
                     corpus="federal-reference")
 
 
