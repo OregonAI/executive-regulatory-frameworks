@@ -39,6 +39,20 @@ plugins:
     - path: "_meta/sources/*.yml"
       schema: "_meta/schema/source-group.schema.json"
 
+# THE FIRST SIBLING THIS CORPUS DECLARES. Everything else on the platform points AT this
+# corpus; this is the one direction that runs outward, and it exists because the authority
+# chain stopped at the state border. 14 Oregon rules and one DAS manual name 2 CFR 200 in
+# `legal_authority` or `statutes_implemented`, and until now that stated legal basis resolved
+# to nothing.
+#
+# MEASURED, and small: 1 of 1,250 external targets, 15 of 916 authority claims (1.6%). The
+# remaining 901 are CFR titles and U.S. Code sections federal-reference does not hold; they
+# begin resolving as its intake grows, with no change here.
+siblings:
+  - id: "federal-reference"
+    index_url: "https://oregonai.github.io/federal-reference/corpus-index.json"
+    web_base:  "https://github.com/OregonAI/federal-reference/blob/main/"
+
 disclaimer_marker: "NON-AUTHORITATIVE"
 graph_path: "_meta/graph.json"
 source_manifest_path: "_meta/sources"
