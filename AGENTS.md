@@ -193,6 +193,21 @@ Prefer counts and reproductions over adjectives. "126 appropriations unjoined, o
 are an extraction gap and 41 are correct" is actionable; "agency matching needs work" is
 not, and will be re-derived by someone else.
 
+**Every issue you open gets at least one label.** No exceptions, and not "later" — pass
+`--label` on the `gh issue create` call that opens it. An unlabelled issue is invisible to
+every filter anyone actually uses to triage, so it costs the same as not filing it. Use a
+label that already exists in the repo you are filing in (`gh label list`); in this repo
+that is:
+
+- `bug` — it is wrong, stale, or does not do what it claims
+- `enhancement` — it works, but a capability or coverage gap remains
+- `documentation` — a README, docstring, catalog note, or this guide is out of date
+- `question` — a scope or design decision a human has to make before work can start
+
+Apply more than one when they genuinely both hold. If nothing fits, pick the closest and
+say so in the body — do not invent a label on the fly, since a one-off label nobody else
+filters on is the same as no label.
+
 If you genuinely cannot open one — no network, no permission — say so explicitly in your
 final message to the user and hand them the text to file. Silently dropping it is the one
 outcome that is never acceptable.
