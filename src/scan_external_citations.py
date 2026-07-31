@@ -125,7 +125,12 @@ def scan() -> dict:
     named_mention = collections.Counter()
     ndocs = 0
 
-    for p in ROOT.rglob("*.md"):
+    # SORTED. rglob order follows the filesystem and is not stable across machines, and
+    # the `cited_by` sample keeps the first few citing documents it sees -- so an unsorted
+    # walk produced a catalog whose SAMPLES differed between this machine and CI while every
+    # count matched exactly. --check reported STALE with identical numbers, which is a
+    # confusing way to learn that a generated artifact is not reproducible.
+    for p in sorted(ROOT.rglob("*.md")):
         s = str(p)
         if "/_meta/" in s or "/.git/" in s:
             continue
@@ -155,8 +160,7 @@ def scan() -> dict:
         for m in FED.finditer(body):
             t = norm(*m.groups())
             mention[t] += 1
-            if len(cited_by[t]) < 6:
-                cited_by[t].add(doc_id)
+            cited_by[t].add(doc_id)
         for name, rx in NAMED.items():
             n = len(rx.findall(body))
             if n:

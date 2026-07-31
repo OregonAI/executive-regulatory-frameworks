@@ -62,11 +62,11 @@ targets:
   mentions: 128
   resolves: false
   cited_by_sample:
+  - oar-410-133-0040
+  - oar-414-460-0000
   - oar-581-015-2000
   - oar-581-015-2010
-  - oar-581-015-2030
-  - oar-581-015-2040
-  - oar-581-015-2045
+  - oar-581-015-2015
 - citation: 16 USC 544
   authority_claims: 89
   mentions: 90
@@ -105,48 +105,48 @@ targets:
   - oar-461-001-0015
   - oar-461-001-0020
   - oar-461-105-0010
+  - oar-461-105-0410
   - oar-461-115-0090
-  - oar-461-115-0145
 - citation: 34 CFR 99
   authority_claims: 27
   mentions: 38
   resolves: false
   cited_by_sample:
+  - oar-333-010-0600
   - oar-581-015-2000
   - oar-581-015-2090
   - oar-581-015-2300
   - oar-581-015-2530
-  - oar-581-015-2700
 - citation: 34 CFR 303
   authority_claims: 20
   mentions: 28
   resolves: false
   cited_by_sample:
+  - oar-410-133-0040
   - oar-581-015-2080
   - oar-581-015-2300
   - oar-581-015-2530
   - oar-581-015-2700
-  - oar-581-015-2713
 - citation: 42 CFR 435
   authority_claims: 16
   mentions: 46
   resolves: false
   cited_by_sample:
   - oar-309-015-0052
+  - oar-410-120-0000
+  - oar-410-141-3500
+  - oar-410-141-3860
   - oar-410-170-0030
-  - oar-410-170-0060
-  - oar-410-200-0015
-  - oar-410-200-0315
 - citation: 17 CFR 230
   authority_claims: 16
   mentions: 32
   resolves: false
   cited_by_sample:
+  - oar-123-052-1500
+  - oar-170-061-0100
+  - oar-441-035-0010
   - oar-441-035-0070
   - oar-441-035-0080
-  - oar-441-035-0090
-  - oar-441-035-0100
-  - oar-441-035-0110
 - citation: 49 USC 5329
   authority_claims: 16
   mentions: 20
@@ -226,7 +226,7 @@ targets:
   - oam-75-30-01-fo
   - oam-75-30-02
   - oam-75-30-02-fo
-  - oar-461-135-1230
+  - oar-410-136-3370
 - citation: 7 CFR 210
   authority_claims: 15
   mentions: 26
@@ -343,10 +343,10 @@ targets:
   resolves: false
   cited_by_sample:
   - oar-309-014-0035
+  - oar-333-010-0165
+  - oar-333-010-0275
   - oar-407-005-0010
   - oar-407-005-0015
-  - oar-407-120-0325
-  - oar-410-120-1380
 - citation: 7 CFR 225
   authority_claims: 10
   mentions: 17
@@ -422,21 +422,21 @@ targets:
   mentions: 27
   resolves: false
   cited_by_sample:
+  - oar-137-055-3080
   - oar-137-055-4560
+  - oar-137-055-7120
   - oar-331-030-0000
   - oar-331-030-0004
-  - oar-335-060-0060
-  - oar-414-050-0010
 - citation: 33 USC 1341
   authority_claims: 7
   mentions: 22
   resolves: false
   cited_by_sample:
   - eo-18-28
+  - oar-340-041-0002
   - oar-340-048-0005
   - oar-340-048-0010
   - oar-340-048-0015
-  - oar-340-048-0020
 - citation: 28 CFR 35
   authority_claims: 7
   mentions: 19
@@ -514,9 +514,9 @@ targets:
   cited_by_sample:
   - oar-813-060-0010
   - oar-813-310-0020
-  - oar-839-003-0200
-  - oar-839-005-0031
-  - oar-839-005-0195
+  - oar-839-003-0005
+  - oar-839-003-0010
+  - oar-839-003-0020
 - citation: 42 CFR 433
   authority_claims: 5
   mentions: 22
@@ -524,29 +524,29 @@ targets:
   cited_by_sample:
   - oar-407-120-0320
   - oar-410-050-0700
+  - oar-410-120-0035
+  - oar-410-120-1260
   - oar-410-120-1285
-  - oar-410-133-0090
-  - oar-410-138-0005
 - citation: 42 USC 1396a
   authority_claims: 5
   mentions: 21
   resolves: false
   cited_by_sample:
   - oar-410-120-1285
-  - oar-410-147-0420
-  - oar-410-147-0440
-  - oar-461-120-0510
-  - oar-461-155-0295
+  - oar-410-141-3835
+  - oar-410-141-3855
+  - oar-410-146-0440
+  - oar-410-147-0360
 - citation: 42 USC 405
   authority_claims: 5
   mentions: 14
   resolves: false
   cited_by_sample:
   - oar-137-055-1200
+  - oar-150-305-0010
   - oar-177-046-0110
   - oar-331-030-0000
   - oar-331-030-0004
-  - oar-335-060-0060
 - citation: 7 USC 2029
   authority_claims: 4
   mentions: 4
@@ -587,11 +587,11 @@ targets:
   mentions: 101
   resolves: false
   cited_by_sample:
-  - oar-411-020-0030
-  - oar-411-020-0123
-  - ors-125.683
-  - ors-125.810
-  - ors-192.531
+  - dhs-100-003
+  - dhs-100-004
+  - oar-125-055-0100
+  - oar-125-055-0115
+  - oar-137-003-0036
 - citation: 49 CFR 571
   authority_claims: 2
   mentions: 29
@@ -611,7 +611,7 @@ targets:
   - oar-461-140-0296
   - ors-130.005
   - ors-416.351
-  - ors-79a.4020
+  - ors-79a.4010
 - citation: 49 CFR 391
   authority_claims: 2
   mentions: 17
@@ -627,21 +627,21 @@ targets:
   mentions: 16
   resolves: false
   cited_by_sample:
+  - oar-410-120-1260
   - oar-410-141-3855
+  - oar-410-147-0362
+  - oar-410-147-0500
   - oar-461-155-0290
-  - oar-461-155-0291
-  - ors-348.303
-  - ors-413.241
 - citation: 42 USC 1396r
   authority_claims: 2
   mentions: 16
   resolves: false
   cited_by_sample:
+  - oar-410-121-0000
+  - oar-410-141-3570
   - oar-461-001-0030
   - oar-461-160-0620
   - ors-414.324
-  - ors-87.501
-  - ors-87.503
 - citation: 42 USC 671
   authority_claims: 2
   mentions: 10
@@ -650,8 +650,8 @@ targets:
   - oar-407-007-0279
   - oar-407-007-0290
   - oar-410-200-0015
+  - oar-413-010-0320
   - oar-413-030-0220
-  - oar-413-100-0240
 - citation: 24 CFR 5
   authority_claims: 2
   mentions: 6
@@ -757,19 +757,19 @@ targets:
   cited_by_sample:
   - oar-407-120-0310
   - oar-407-120-0325
-  - oar-410-125-1080
-  - oar-410-133-0340
-  - oar-410-136-3280
+  - oar-410-120-1380
+  - oar-410-120-1860
+  - oar-410-120-1865
 - citation: 42 USC 12101
   authority_claims: 1
   mentions: 21
   resolves: false
   cited_by_sample:
   - das-50-020-10
-  - ors-107.105
-  - ors-107.137
-  - ors-419b.504
-  - ors-441.049
+  - das-60-000-03
+  - das-60-000-15
+  - doc-40-2-14
+  - oar-125-055-0005
 - citation: 34 CFR 395
   authority_claims: 1
   mentions: 18
@@ -786,10 +786,10 @@ targets:
   resolves: false
   cited_by_sample:
   - oar-410-141-3855
+  - oar-836-053-0008
+  - oar-836-053-0009
   - oar-836-053-0012
   - oar-836-053-0013
-  - oar-836-080-0080
-  - oar-945-020-0020
 - citation: 29 CFR 825
   authority_claims: 1
   mentions: 15
@@ -797,29 +797,29 @@ targets:
   cited_by_sample:
   - das-60-000-15
   - oar-461-145-0435
+  - oar-839-009-0240
   - oar-839-009-0245
-  - oar-839-020-0030
-  - oha-osh-5-002
+  - oar-839-009-0250
 - citation: 20 USC 1232g
   authority_claims: 1
   mentions: 13
   resolves: false
   cited_by_sample:
+  - oar-333-010-0600
   - oar-413-105-0060
+  - oar-583-030-0044
   - ors-192.556
   - ors-340.070
-  - ors-352.132
-  - ors-646a.572
 - citation: 25 USC 1901
   authority_claims: 1
   mentions: 12
   resolves: false
   cited_by_sample:
   - oar-413-030-0220
-  - ors-109.711
-  - ors-417.834
-  - ors-418.609
-  - ors-418.627
+  - oar-413-040-0000
+  - oar-413-070-0000
+  - oar-413-115-0000
+  - oar-413-120-0000
 - citation: 40 CFR 763
   authority_claims: 1
   mentions: 11
@@ -1055,10 +1055,10 @@ targets:
   resolves: false
   cited_by_sample:
   - doc-20-6-9
+  - oar-166-150-0160
+  - oar-166-300-0020
+  - oar-166-300-0045
   - oar-166-400-0020
-  - oar-166-400-0050
-  - oha-osh-5-012
-  - oha-osh-8-035
 - citation: 29 CFR 1926
   authority_claims: 0
   mentions: 248
@@ -1068,7 +1068,7 @@ targets:
   - oar-340-248-0280
   - oar-437-002-0368
   - oar-437-003-0001
-  - oar-437-003-0020
+  - oar-437-003-0007
 - citation: 40 CFR 60
   authority_claims: 0
   mentions: 223
@@ -1076,19 +1076,19 @@ targets:
   cited_by_sample:
   - deq-imd-7070241
   - deq-imd-7070263
-  - oar-340-230-0385
-  - oar-340-230-0395
-  - oar-340-234-0010
+  - oar-340-230-0030
+  - oar-340-230-0300
+  - oar-340-230-0320
 - citation: 15 USC 7001
   authority_claims: 0
   mentions: 169
   resolves: false
   cited_by_sample:
-  - ors-36.645
-  - ors-646a.604
-  - ors-71.1010
-  - ors-93.971
-  - ors-95.210
+  - ors-109.084
+  - ors-125.852
+  - ors-128.334
+  - ors-192.760
+  - ors-194.440
 - citation: 29 CFR 1915
   authority_claims: 0
   mentions: 128
@@ -1102,29 +1102,29 @@ targets:
   cited_by_sample:
   - deq-imd-7070212
   - deq-imd-7070215
+  - oar-340-012-0055
   - oar-340-050-0010
-  - oar-340-050-0026
-  - oar-340-050-0080
+  - oar-340-050-0015
 - citation: 42 CFR 482
   authority_claims: 0
   mentions: 92
   resolves: false
   cited_by_sample:
-  - oha-osh-1-001
-  - oha-osh-2-009
-  - oha-osh-6-046
-  - oha-osh-6-056
-  - oha-osh-7-008
+  - oar-333-071-0560
+  - oar-333-076-0990
+  - oar-333-505-0033
+  - oar-333-505-0055
+  - oar-333-515-0030
 - citation: 15 USC 1601
   authority_claims: 0
   mentions: 91
   resolves: false
   cited_by_sample:
-  - ors-86a.148
-  - ors-86a.166
-  - ors-86a.169
-  - ors-86a.186
-  - ors-86a.200
+  - oar-137-020-0040
+  - oar-441-880-0008
+  - ors-167.108
+  - ors-407.201
+  - ors-446.741
 - citation: 40 CFR 264
   authority_claims: 0
   mentions: 85
@@ -1132,39 +1132,39 @@ targets:
   cited_by_sample:
   - deq-imd-7070215
   - deq-imd-7070240
+  - oar-340-012-0068
+  - oar-340-096-0050
   - oar-340-100-0002
-  - oar-340-110-0070
-  - oar-340-110-0075
 - citation: 15 USC 1681a
   authority_claims: 0
   mentions: 83
   resolves: false
   cited_by_sample:
+  - ors-646a.572
+  - ors-646a.593
   - ors-646a.602
-  - ors-746.620
-  - ors-90.510
-  - ors-90.516
-  - ors-90.634
+  - ors-646a.677
+  - ors-657.673
 - citation: 34 CFR 361
   authority_claims: 0
   mentions: 76
   resolves: false
   cited_by_sample:
   - oar-407-014-0020
-  - oar-585-030-0001
-  - oar-585-030-0025
-  - oar-585-030-0030
-  - oha-ispo-100-005
+  - oar-582-001-0010
+  - oar-582-020-0055
+  - oar-582-020-0070
+  - oar-582-050-0000
 - citation: 42 USC 5403
   authority_claims: 0
   mentions: 75
   resolves: false
   cited_by_sample:
+  - ors-197a.434
+  - ors-90.505
   - ors-90.510
-  - ors-90.516
-  - ors-90.610
-  - ors-90.620
-  - ors-90.634
+  - ors-90.512
+  - ors-90.514
 - citation: 40 CFR 261
   authority_claims: 0
   mentions: 74
@@ -1173,8 +1173,8 @@ targets:
   - deq-imd-7070216
   - deq-imd-7070243
   - deq-imd-7070265
-  - oar-340-100-0010
-  - oar-340-105-0120
+  - oar-333-100-0005
+  - oar-340-044-0005
 - citation: 29 CFR 1917
   authority_claims: 0
   mentions: 72
@@ -1186,31 +1186,31 @@ targets:
   mentions: 72
   resolves: false
   cited_by_sample:
-  - oha-irb-prisoner-participation-in-research
-  - oha-irb-protocol-deviations-and-noncompliance
-  - ors-192.547
-  - ors-431a.125
-  - ors-432.540
+  - oar-137-087-0085
+  - oar-291-035-0010
+  - oar-333-010-0055
+  - oar-333-010-0650
+  - oar-333-025-0100
 - citation: 40 CFR 745
   authority_claims: 0
   mentions: 70
   resolves: false
   cited_by_sample:
+  - oar-333-069-0100
+  - oar-333-070-0200
   - oar-581-022-2223
+  - oar-812-005-0800
   - oar-812-007-0015
-  - oar-812-007-0310
-  - ors-431a.353
-  - ors-701.505
 - citation: 12 USC 2601
   authority_claims: 0
   mentions: 64
   resolves: false
   cited_by_sample:
-  - ors-86.240
-  - ors-86a.148
-  - ors-86a.166
-  - ors-86a.169
-  - ors-86a.186
+  - oar-441-880-0008
+  - ors-316.796
+  - ors-446.741
+  - ors-646a.087
+  - ors-725.230
 - citation: 29 CFR 1918
   authority_claims: 0
   mentions: 63
@@ -1222,21 +1222,21 @@ targets:
   mentions: 62
   resolves: false
   cited_by_sample:
+  - oar-410-141-3500
+  - oar-410-141-3505
+  - oar-410-141-3515
+  - oar-410-141-3525
   - oar-410-141-3530
-  - oar-410-141-3855
-  - oar-410-141-3915
-  - oar-410-141-5265
-  - oar-410-165-0100
 - citation: 15 USC 7003
   authority_claims: 0
   mentions: 61
   resolves: false
   cited_by_sample:
-  - ors-93.971
-  - ors-95.210
-  - ors-95.283
-  - ors-97.970
-  - ors-97.971
+  - ors-109.084
+  - ors-125.852
+  - ors-128.334
+  - ors-192.760
+  - ors-194.440
 - citation: 40 CFR 170
   authority_claims: 0
   mentions: 60
@@ -1252,31 +1252,31 @@ targets:
   mentions: 59
   resolves: false
   cited_by_sample:
-  - ors-86a.115
-  - ors-86a.148
-  - ors-86a.166
-  - ors-86a.169
-  - ors-86a.172
+  - oar-137-020-0040
+  - oar-441-730-0125
+  - ors-86a.095
+  - ors-86a.100
+  - ors-86a.103
 - citation: 40 CFR 122
   authority_claims: 0
   mentions: 58
   resolves: false
   cited_by_sample:
   - deq-imd-7070198
+  - deq-imd-7070200
   - deq-imd-7070202
+  - deq-imd-7070205
   - deq-imd-7070208
-  - deq-imd-7070212
-  - deq-imd-7070215
 - citation: 18 USC 922
   authority_claims: 0
   mentions: 54
   resolves: false
   cited_by_sample:
-  - ors-30.817
-  - ors-30.822
-  - ors-30.845
-  - ors-30.847
-  - ors-30.849
+  - oar-257-010-0060
+  - oar-859-300-0220
+  - ors-107.095
+  - ors-107.718
+  - ors-135.250
 - citation: 42 CFR 455
   authority_claims: 0
   mentions: 53
@@ -1284,29 +1284,29 @@ targets:
   cited_by_sample:
   - oar-407-120-0310
   - oar-407-120-0325
-  - oar-410-136-3320
-  - oar-410-141-3510
-  - oar-410-141-5280
+  - oar-410-120-1260
+  - oar-410-120-1380
+  - oar-410-120-1400
 - citation: 10 CFR 20
   authority_claims: 0
   mentions: 51
   resolves: false
   cited_by_sample:
+  - oar-333-100-0005
   - oar-333-100-0070
-  - oar-333-118-0162
-  - oar-340-044-0005
-  - oar-345-026-0370
-  - oar-345-026-0390
+  - oar-333-102-0032
+  - oar-333-102-0203
+  - oar-333-102-0310
 - citation: 12 USC 5101
   authority_claims: 0
   mentions: 50
   resolves: false
   cited_by_sample:
+  - oar-441-880-0008
   - ors-446.741
-  - ors-86a.115
-  - ors-86a.200
-  - ors-86a.209
-  - ors-86a.215
+  - ors-725.230
+  - ors-86a.095
+  - ors-86a.100
 - citation: 42 CFR 11
   authority_claims: 0
   mentions: 49
@@ -1318,51 +1318,51 @@ targets:
   mentions: 48
   resolves: false
   cited_by_sample:
-  - oha-ispo-090-015
-  - oha-ispo-100-001
-  - oha-ispo-100-004
-  - oha-ispo-100-005
-  - oha-ispo-100-014
+  - dhs-100-003
+  - dhs-100-004
+  - oar-125-055-0105
+  - oar-333-022-0210
+  - oar-407-120-0100
 - citation: 11 USC 101
   authority_claims: 0
   mentions: 44
   resolves: false
   cited_by_sample:
-  - ors-18.610
-  - ors-18.625
-  - ors-18.635
-  - ors-18.650
-  - ors-18.680
+  - oar-333-102-0305
+  - oar-333-117-0250
+  - oar-441-065-0070
+  - ors-18.600
+  - ors-18.602
 - citation: 42 USC 2014
   authority_claims: 0
   mentions: 43
   resolves: false
   cited_by_sample:
+  - ors-12.010
+  - ors-12.020
+  - ors-12.040
   - ors-12.050
-  - ors-12.070
-  - ors-12.080
-  - ors-12.110
-  - ors-12.135
+  - ors-12.060
 - citation: 16 USC 1531
   authority_claims: 0
   mentions: 39
   resolves: false
   cited_by_sample:
-  - ors-498.500
-  - ors-498.502
-  - ors-527.670
-  - ors-541.935
-  - ors-541.973
+  - oar-340-122-0084
+  - oar-340-122-0115
+  - oar-603-073-0002
+  - oar-603-073-0100
+  - oar-629-035-0030
 - citation: 10 USC 101
   authority_claims: 0
   mentions: 38
   resolves: false
   cited_by_sample:
+  - oar-150-316-0605
+  - oar-839-009-0380
+  - ors-166.660
+  - ors-30.701
   - ors-30.715
-  - ors-30.803
-  - ors-30.817
-  - ors-30.822
-  - ors-30.845
 - citation: 40 CFR 63
   authority_claims: 0
   mentions: 38
@@ -1370,59 +1370,59 @@ targets:
   cited_by_sample:
   - deq-imd-7070215
   - oar-340-222-0020
+  - oar-340-228-0602
+  - oar-340-228-0637
   - oar-340-234-0530
-  - oar-340-244-0220
-  - oar-340-244-0232
 - citation: 40 CFR 273
   authority_claims: 0
   mentions: 37
   resolves: false
   cited_by_sample:
   - deq-imd-7070216
+  - oar-340-109-0001
+  - oar-340-109-0010
   - oar-340-113-0000
   - oar-340-113-0010
-  - oar-340-113-0030
-  - oar-340-113-0040
 - citation: 10 CFR 71
   authority_claims: 0
   mentions: 36
   resolves: false
   cited_by_sample:
+  - oar-333-118-0020
+  - oar-333-118-0070
+  - oar-333-118-0100
+  - oar-333-118-0110
   - oar-333-118-0120
-  - oar-333-118-0140
-  - oar-333-118-0150
-  - oar-345-060-0001
-  - oar-345-060-0005
 - citation: 42 CFR 2
   authority_claims: 0
   mentions: 36
   resolves: false
   cited_by_sample:
+  - oar-291-047-0140
+  - oar-309-008-0300
+  - oar-309-014-0036
+  - oar-309-018-0115
   - oar-309-019-0115
-  - oar-309-022-0115
-  - oar-309-031-0010
-  - oar-309-032-0341
-  - oha-ispo-090-011
 - citation: 40 CFR 270
   authority_claims: 0
   mentions: 35
   resolves: false
   cited_by_sample:
   - oar-340-100-0002
+  - oar-340-104-0075
+  - oar-340-105-0001
+  - oar-340-105-0003
   - oar-340-105-0005
-  - oar-340-105-0010
-  - oar-340-105-0014
-  - oar-340-105-0040
 - citation: 32 USC 109
   authority_claims: 0
   mentions: 33
   resolves: false
   cited_by_sample:
+  - ors-30.701
   - ors-30.715
-  - ors-30.803
-  - ors-30.817
-  - ors-30.822
-  - ors-30.845
+  - ors-30.740
+  - ors-30.750
+  - ors-30.765
 - citation: 40 CFR 262
   authority_claims: 0
   mentions: 32
@@ -1431,18 +1431,18 @@ targets:
   - deq-imd-7070215
   - deq-imd-7070265
   - deq-imd-7070267
+  - oar-340-012-0068
   - oar-340-100-0003
-  - oar-340-100-0010
 - citation: 40 CFR 98
   authority_claims: 0
   mentions: 32
   resolves: false
   cited_by_sample:
   - oar-340-215-0020
+  - oar-340-215-0030
   - oar-340-215-0040
   - oar-340-215-0044
   - oar-340-215-0105
-  - oar-340-215-0110
 - citation: 21 CFR 1306
   authority_claims: 0
   mentions: 31
@@ -1464,41 +1464,41 @@ targets:
   mentions: 29
   resolves: false
   cited_by_sample:
+  - oar-333-102-0025
+  - oar-333-102-0030
   - oar-333-102-0033
-  - oar-333-102-0110
-  - oar-333-102-0245
-  - oar-333-102-0265
-  - oar-333-102-0305
+  - oar-333-102-0035
+  - oar-333-102-0040
 - citation: 40 CFR 280
   authority_claims: 0
   mentions: 29
   resolves: false
   cited_by_sample:
+  - oar-340-150-0560
   - oar-340-151-0010
   - oar-340-151-0015
   - oar-340-151-0020
   - oar-340-151-0025
-  - oar-340-180-0090
 - citation: 42 USC 2210
   authority_claims: 0
   mentions: 29
   resolves: false
   cited_by_sample:
   - ors-30.210
-  - ors-30.267
-  - ors-30.268
-  - ors-30.269
-  - ors-469.561
+  - ors-30.220
+  - ors-30.230
+  - ors-30.240
+  - ors-30.260
 - citation: 15 CFR 930
   authority_claims: 0
   mentions: 28
   resolves: false
   cited_by_sample:
+  - oar-660-035-0005
+  - oar-660-035-0010
   - oar-660-035-0015
   - oar-660-035-0020
   - oar-660-035-0030
-  - oar-660-035-0050
-  - oar-660-035-0060
 - citation: 26 USC 104
   authority_claims: 0
   mentions: 28
@@ -1508,7 +1508,7 @@ targets:
   - ors-79a.4020
   - ors-79a.4030
   - ors-79a.4040
-  - ors-79a.4060
+  - ors-79a.4050
 - citation: 42 CFR 495
   authority_claims: 0
   mentions: 28
@@ -1530,31 +1530,31 @@ targets:
   mentions: 26
   resolves: false
   cited_by_sample:
+  - oar-839-005-0205
   - ors-105.120
+  - ors-307.242
   - ors-308.479
-  - ors-456.608
-  - ors-659a.421
-  - ors-90.394
+  - ors-456.375
 - citation: 25 USC 3564
   authority_claims: 0
   mentions: 25
   resolves: false
   cited_by_sample:
-  - ors-97.570
-  - ors-97.590
-  - ors-97.660
-  - ors-97.665
-  - ors-97.680
+  - ors-97.510
+  - ors-97.520
+  - ors-97.530
+  - ors-97.540
+  - ors-97.550
 - citation: 25 USC 3691
   authority_claims: 0
   mentions: 25
   resolves: false
   cited_by_sample:
-  - ors-97.570
-  - ors-97.590
-  - ors-97.660
-  - ors-97.665
-  - ors-97.680
+  - ors-97.510
+  - ors-97.520
+  - ors-97.530
+  - ors-97.540
+  - ors-97.550
 - citation: 40 CFR 260
   authority_claims: 0
   mentions: 25
@@ -1563,18 +1563,18 @@ targets:
   - deq-imd-7070215
   - deq-imd-7070216
   - deq-imd-7070243
+  - oar-340-012-0068
   - oar-340-100-0002
-  - oar-340-100-0003
 - citation: 42 USC 300x
   authority_claims: 0
   mentions: 25
   resolves: false
   cited_by_sample:
-  - ors-90.394
-  - ors-90.405
-  - ors-90.414
-  - ors-90.425
-  - ors-90.427
+  - oar-415-052-0100
+  - oar-415-052-0105
+  - oar-415-052-0110
+  - ors-90.391
+  - ors-90.392
 - citation: 40 CFR 279
   authority_claims: 0
   mentions: 24
@@ -1584,27 +1584,27 @@ targets:
   - oar-340-100-0002
   - oar-340-110-0020
   - oar-340-111-0010
-  - oar-340-111-0035
+  - oar-340-111-0020
 - citation: 10 CFR 30
   authority_claims: 0
   mentions: 23
   resolves: false
   cited_by_sample:
+  - oar-333-102-0010
+  - oar-333-102-0015
+  - oar-333-102-0035
   - oar-333-102-0190
   - oar-333-102-0200
-  - oar-333-102-0245
-  - oar-333-103-0010
-  - oar-333-105-0740
 - citation: 26 CFR 1
   authority_claims: 0
   mentions: 23
   resolves: false
   cited_by_sample:
+  - oar-101-010-0005
   - oar-137-010-0032
+  - oar-170-080-0010
   - oar-409-023-0115
   - oar-410-200-0310
-  - oar-945-001-0002
-  - ors-128.760
 - citation: 36 CFR 60
   authority_claims: 0
   mentions: 23
@@ -1631,29 +1631,29 @@ targets:
   cited_by_sample:
   - ors-25.610
   - ors-25.620
+  - ors-25.625
+  - ors-25.640
   - ors-25.643
-  - ors-25.646
-  - ors-713.025
 - citation: 15 USC 1691
   authority_claims: 0
   mentions: 22
   resolves: false
   cited_by_sample:
   - ors-446.741
-  - ors-86a.115
-  - ors-86a.200
-  - ors-86a.209
-  - ors-86a.215
+  - ors-725.230
+  - ors-86a.095
+  - ors-86a.100
+  - ors-86a.103
 - citation: 42 CFR 483
   authority_claims: 0
   mentions: 22
   resolves: false
   cited_by_sample:
   - oar-411-049-0140
+  - oar-411-057-0155
   - oar-411-070-0005
   - oar-411-070-0043
   - oar-411-070-0470
-  - oar-411-073-0010
 - citation: 42 CFR 93
   authority_claims: 0
   mentions: 22
@@ -1665,31 +1665,31 @@ targets:
   mentions: 21
   resolves: false
   cited_by_sample:
-  - ors-86a.115
-  - ors-86a.200
-  - ors-86a.209
-  - ors-86a.212
-  - ors-86a.215
+  - ors-725.230
+  - ors-86a.095
+  - ors-86a.100
+  - ors-86a.103
+  - ors-86a.106
 - citation: 33 USC 1251
   authority_claims: 0
   mentions: 21
   resolves: false
   cited_by_sample:
   - eo-05-04
-  - oar-603-095-1900
-  - oar-603-095-3200
-  - oar-603-095-3600
-  - ors-468.149
+  - oar-333-064-0025
+  - oar-340-054-0010
+  - oar-340-150-0008
+  - oar-407-120-0325
 - citation: 40 USC 3141
   authority_claims: 0
   mentions: 21
   resolves: false
   cited_by_sample:
-  - ors-279c.365
-  - ors-279c.830
-  - ors-279c.838
-  - ors-285b.006
-  - ors-285b.098
+  - oar-137-049-0200
+  - oar-137-049-0210
+  - oar-340-054-0060
+  - oar-839-025-0020
+  - oar-839-025-0035
 - citation: 40 CFR 131
   authority_claims: 0
   mentions: 20
@@ -1699,17 +1699,17 @@ targets:
   - deq-imd-7070208
   - deq-imd-7070211
   - deq-imd-7070228
-  - deq-imd-7070299
+  - deq-imd-7070230
 - citation: 42 USC 11302
   authority_claims: 0
   mentions: 20
   resolves: false
   cited_by_sample:
+  - ors-30.701
   - ors-30.715
-  - ors-30.788
-  - ors-30.792
-  - ors-30.803
-  - ors-30.809
+  - ors-30.740
+  - ors-30.750
+  - ors-30.765
 - citation: 45 CFR 162
   authority_claims: 0
   mentions: 20
@@ -1718,8 +1718,8 @@ targets:
   - oar-407-120-0100
   - oar-407-120-0320
   - oar-407-120-0340
-  - oar-410-141-3570
-  - oar-410-146-0085
+  - oar-410-120-1200
+  - oar-410-120-1260
 - citation: 40 CFR 265
   authority_claims: 0
   mentions: 19
@@ -1728,8 +1728,8 @@ targets:
   - deq-imd-7070215
   - deq-imd-7070267
   - oar-340-012-0068
+  - oar-340-104-0075
   - oar-340-105-0010
-  - oar-340-105-0140
 - citation: 49 CFR 382
   authority_claims: 0
   mentions: 19
@@ -1745,11 +1745,11 @@ targets:
   mentions: 18
   resolves: false
   cited_by_sample:
+  - oar-340-090-0320
+  - oar-340-090-0400
   - ors-30.900
-  - ors-30.907
-  - ors-30.910
-  - ors-30.915
-  - ors-30.927
+  - ors-30.902
+  - ors-30.905
 - citation: 24 CFR 3280
   authority_claims: 0
   mentions: 18
@@ -1765,41 +1765,41 @@ targets:
   mentions: 18
   resolves: false
   cited_by_sample:
+  - oar-459-050-0080
+  - oar-459-080-0250
+  - ors-238.407
   - ors-238a.170
   - ors-238a.230
-  - ors-238a.400
-  - ors-238a.410
-  - ors-238a.430
 - citation: 40 CFR 761
   authority_claims: 0
   mentions: 18
   resolves: false
   cited_by_sample:
+  - oar-340-110-0001
+  - oar-340-110-0003
   - oar-340-110-0020
+  - oar-340-110-0040
   - oar-340-110-0060
-  - oar-340-110-0061
-  - oar-340-110-0070
-  - oar-340-110-0075
 - citation: 42 USC 300g
   authority_claims: 0
   mentions: 18
   resolves: false
   cited_by_sample:
+  - oar-836-052-0138
+  - oar-836-053-0230
   - ors-414.534
-  - ors-468b.166
-  - ors-743.019
-  - ors-743a.067
-  - ors-743a.262
+  - ors-448.135
+  - ors-448.273
 - citation: 42 USC 651
   authority_claims: 0
   mentions: 18
   resolves: false
   cited_by_sample:
+  - ors-180.345
+  - ors-25.010
   - ors-25.011
+  - ors-25.015
   - ors-25.020
-  - ors-25.025
-  - ors-25.070
-  - ors-25.075
 - citation: 21 CFR 1304
   authority_claims: 0
   mentions: 17
@@ -1812,61 +1812,61 @@ targets:
   mentions: 17
   resolves: false
   cited_by_sample:
+  - das-50-000-02
+  - doc-20-5-18
   - doc-20-5-19
   - doc-70-1-4
-  - ors-431a.855
-  - ors-475.005
-  - ors-677.511
+  - oar-105-050-0004
 - citation: 42 CFR 489
   authority_claims: 0
   mentions: 17
   resolves: false
   cited_by_sample:
-  - oha-osh-10-004
-  - oha-osh-6-012
-  - oha-osh-6-025
-  - oha-osh-7-006
-  - oha-osh-8-002
+  - oar-333-071-0400
+  - oar-333-505-0030
+  - oar-333-520-0070
+  - oar-407-120-0310
+  - oar-407-120-0325
 - citation: 42 USC 654a
   authority_claims: 0
   mentions: 17
   resolves: false
   cited_by_sample:
+  - oar-137-055-1140
+  - ors-25.750
+  - ors-25.752
   - ors-25.756
   - ors-25.759
-  - ors-25.765
-  - ors-25.777
-  - ors-25.780
 - citation: 15 USC 78m
   authority_claims: 0
   mentions: 16
   resolves: false
   cited_by_sample:
+  - ors-60.201
   - ors-60.204
   - ors-60.207
+  - ors-60.209
   - ors-60.211
-  - ors-60.221
-  - ors-60.224
 - citation: 29 USC 206
   authority_claims: 0
   mentions: 16
   resolves: false
   cited_by_sample:
+  - oar-582-001-0010
   - ors-25.372
+  - ors-25.375
+  - ors-25.378
   - ors-25.381
-  - ors-25.387
-  - ors-25.399
-  - ors-25.405
 - citation: 42 USC 653a
   authority_claims: 0
   mentions: 16
   resolves: false
   cited_by_sample:
+  - ors-25.750
+  - ors-25.752
   - ors-25.756
   - ors-25.759
-  - ors-25.765
-  - ors-25.777
-  - ors-25.780
+  - ors-25.762
 - citation: 45 CFR 205
   authority_claims: 0
   mentions: 16
@@ -1882,11 +1882,11 @@ targets:
   mentions: 16
   resolves: false
   cited_by_sample:
-  - oar-340-100-0010
-  - oar-345-060-0001
-  - oar-345-060-0007
-  - oar-740-100-0060
-  - oar-740-110-0080
+  - oar-333-118-0020
+  - oar-333-118-0050
+  - oar-333-118-0090
+  - oar-333-118-0150
+  - oar-333-120-0440
 - citation: 8 USC 1101
   authority_claims: 0
   mentions: 16
@@ -1904,9 +1904,9 @@ targets:
   cited_by_sample:
   - oar-330-067-0020
   - oar-330-067-0023
-  - oar-330-067-0070
-  - oar-330-067-0075
-  - oar-330-067-0090
+  - oar-330-067-0025
+  - oar-330-067-0035
+  - oar-330-067-0045
 - citation: 40 CFR 112
   authority_claims: 0
   mentions: 15
@@ -1926,17 +1926,17 @@ targets:
   - oar-340-105-0051
   - oar-340-106-0001
   - oar-340-106-0002
-  - oar-340-106-0006
+  - oar-340-106-0003
 - citation: 42 CFR 460
   authority_claims: 0
   mentions: 15
   resolves: false
   cited_by_sample:
+  - oar-411-045-0000
   - oar-411-045-0010
   - oar-411-045-0020
-  - oar-411-059-0000
-  - ors-414.632
-  - ors-443.378
+  - oar-411-045-0040
+  - oar-411-045-0050
 - citation: 7 USC 2012
   authority_claims: 0
   mentions: 15
@@ -1951,11 +1951,11 @@ targets:
   mentions: 14
   resolves: false
   cited_by_sample:
+  - oar-441-820-0160
+  - oar-441-880-0008
+  - oar-836-080-0670
   - ors-646a.572
   - ors-646a.593
-  - ors-646a.655
-  - ors-646a.658
-  - ors-657.673
 - citation: 21 CFR 1314
   authority_claims: 0
   mentions: 14
@@ -1995,28 +1995,28 @@ targets:
   - das-50-000-01
   - doc-20-6-2
   - oar-581-053-0040
-  - oar-855-080-0026
-  - oar-855-080-0028
+  - oar-855-080-0021
+  - oar-855-080-0022
 - citation: 42 CFR 440
   authority_claims: 0
   mentions: 13
   resolves: false
   cited_by_sample:
+  - oar-410-120-0000
   - oar-410-122-0080
   - oar-410-127-0040
   - oar-410-131-0120
   - oar-410-133-0060
-  - oar-410-170-0030
 - citation: 42 USC 4321
   authority_claims: 0
   mentions: 13
   resolves: false
   cited_by_sample:
   - deq-imd-7070287
+  - oar-137-048-0110
   - oar-340-250-0030
+  - oar-731-148-0110
   - ors-197a.500
-  - ors-279c.100
-  - ors-469.370
 - citation: 15 USC 1673
   authority_claims: 0
   mentions: 12
@@ -2024,9 +2024,9 @@ targets:
   cited_by_sample:
   - ors-25.321
   - ors-25.323
-  - ors-25.372
-  - ors-25.378
-  - ors-25.381
+  - ors-25.325
+  - ors-25.327
+  - ors-25.329
 - citation: 16 CFR 306
   authority_claims: 0
   mentions: 12
@@ -2042,8 +2042,8 @@ targets:
   - ors-166.266
   - ors-166.267
   - ors-166.355
+  - ors-166.412
   - ors-166.435
-  - ors-166.438
 - citation: 40 CFR 136
   authority_claims: 0
   mentions: 12
@@ -2068,61 +2068,61 @@ targets:
   mentions: 11
   resolves: false
   cited_by_sample:
+  - ors-314.610
   - ors-706.008
   - ors-717.210
+  - ors-86a.095
   - ors-86a.100
-  - ors-86a.300
-  - ors-86a.303
 - citation: 12 USC 2609
   authority_claims: 0
   mentions: 11
   resolves: false
   cited_by_sample:
   - ors-86a.300
+  - ors-86a.303
   - ors-86a.306
   - ors-86a.309
-  - ors-86a.318
-  - ors-86a.321
+  - ors-86a.312
 - citation: 12 USC 5111
   authority_claims: 0
   mentions: 11
   resolves: false
   cited_by_sample:
   - ors-86a.200
+  - ors-86a.203
   - ors-86a.206
   - ors-86a.209
   - ors-86a.212
-  - ors-86a.215
 - citation: 29 USC 1001
   authority_claims: 0
   mentions: 11
   resolves: false
   cited_by_sample:
+  - oar-409-025-0100
+  - oar-441-025-0050
   - ors-178.210
+  - ors-178.230
   - ors-442.373
-  - ors-743.262
-  - ors-743b.292
-  - ors-743b.500
 - citation: 29 USC 201
   authority_claims: 0
   mentions: 11
   resolves: false
   cited_by_sample:
+  - das-60-000-03
+  - das-60-000-15
+  - oar-839-021-0246
+  - oha-osh-5-002
   - ors-137.103
-  - ors-279b.020
-  - ors-279c.520
-  - ors-279c.540
-  - ors-653.307
 - citation: 42 CFR 447
   authority_claims: 0
   mentions: 11
   resolves: false
   cited_by_sample:
   - oar-410-120-0000
+  - oar-410-120-1260
+  - oar-410-120-1920
   - oar-410-121-0000
   - oar-410-121-0300
-  - oar-410-125-0142
-  - ors-414.765
 - citation: 49 USC 13102
   authority_claims: 0
   mentions: 11
@@ -2137,31 +2137,31 @@ targets:
   mentions: 11
   resolves: false
   cited_by_sample:
+  - oar-340-122-0073
+  - oar-603-057-0205
   - oar-603-057-0405
+  - oar-837-085-0040
   - ors-634.124
-  - ors-634.306
-  - ors-634.322
-  - ors-634.500
 - citation: 12 CFR 1026
   authority_claims: 0
   mentions: 10
   resolves: false
   cited_by_sample:
+  - oar-137-020-0800
   - oar-441-446-0230
   - oar-441-865-0060
   - oar-441-870-0080
   - oar-441-875-0040
-  - oar-441-880-0008
 - citation: 20 USC 1400
   authority_claims: 0
   mentions: 10
   resolves: false
   cited_by_sample:
+  - oar-411-345-0025
+  - oar-411-450-0020
+  - oar-413-105-0050
   - oar-581-053-0210
-  - ors-326.552
-  - ors-329.075
-  - ors-339.326
-  - ors-420a.125
+  - oar-582-150-0005
 - citation: 21 CFR 1317
   authority_claims: 0
   mentions: 10
@@ -2180,11 +2180,11 @@ targets:
   mentions: 10
   resolves: false
   cited_by_sample:
+  - oar-413-115-0010
+  - oar-413-115-0120
   - ors-109.285
   - ors-109.326
   - ors-109.330
-  - ors-109.383
-  - ors-109.385
 - citation: 40 CFR 51
   authority_claims: 0
   mentions: 10
@@ -2192,9 +2192,9 @@ targets:
   cited_by_sample:
   - oar-340-200-0020
   - oar-340-200-0040
+  - oar-340-223-0010
   - oar-340-225-0040
-  - oar-340-250-0010
-  - oar-340-250-0110
+  - oar-340-230-0120
 - citation: 42 CFR 416
   authority_claims: 0
   mentions: 10
@@ -2210,21 +2210,21 @@ targets:
   mentions: 10
   resolves: false
   cited_by_sample:
+  - oar-333-010-0165
   - oar-333-010-0275
   - oar-407-014-0030
   - oar-407-120-0325
   - oar-410-120-1380
-  - oar-410-123-1250
 - citation: 42 USC 1396n
   authority_claims: 0
   mentions: 10
   resolves: false
   cited_by_sample:
+  - oar-410-138-0020
   - ors-413.805
   - ors-417.352
   - ors-417.470
   - ors-427.191
-  - ors-443.360
 - citation: 42 USC 2021
   authority_claims: 0
   mentions: 10
@@ -2232,9 +2232,9 @@ targets:
   cited_by_sample:
   - ors-459.350
   - ors-469.992
+  - ors-97.110
   - ors-97.120
   - ors-97.130
-  - ors-97.150
 - citation: 47 CFR 54
   authority_claims: 0
   mentions: 10
@@ -2268,10 +2268,10 @@ targets:
   resolves: false
   cited_by_sample:
   - oar-333-118-0160
+  - oar-333-125-0020
+  - oar-333-125-0065
+  - oar-333-125-0075
   - oar-345-026-0340
-  - oar-345-060-0005
-  - oar-345-060-0007
-  - oar-345-060-0040
 - citation: 17 CFR 240
   authority_claims: 0
   mentions: 9
@@ -2287,11 +2287,11 @@ targets:
   mentions: 9
   resolves: false
   cited_by_sample:
+  - oar-257-010-0015
   - oar-859-300-0040
   - ors-166.412
   - ors-166.427
   - ors-166.503
-  - ors-181a.287
 - citation: 20 CFR 404
   authority_claims: 0
   mentions: 9
@@ -2341,11 +2341,11 @@ targets:
   mentions: 9
   resolves: false
   cited_by_sample:
+  - oar-141-085-0510
+  - oar-141-090-0020
   - oar-603-095-4005
   - ors-196.672
   - ors-196.687
-  - ors-196.795
-  - ors-196.800
 - citation: 40 CFR 141
   authority_claims: 0
   mentions: 9
@@ -2379,11 +2379,11 @@ targets:
   mentions: 9
   resolves: false
   cited_by_sample:
+  - oar-333-010-0205
   - oar-333-022-0300
   - oar-333-022-0305
   - oar-333-022-0315
-  - ors-438.010
-  - ors-438.040
+  - oar-333-024-0012
 - citation: 45 CFR 146
   authority_claims: 0
   mentions: 9
@@ -2425,9 +2425,9 @@ targets:
   cited_by_sample:
   - oar-333-015-0305
   - oar-333-015-0360
+  - oar-415-020-0065
   - oar-845-025-7020
   - oar-845-025-7160
-  - oar-855-041-1145
 - citation: 16 USC 796
   authority_claims: 0
   mentions: 8
@@ -2443,21 +2443,21 @@ targets:
   mentions: 8
   resolves: false
   cited_by_sample:
+  - oar-413-115-0000
+  - oar-461-135-0075
   - ors-192.630
   - ors-323.700
   - ors-412.079
-  - ors-419b.603
-  - ors-471.192
 - citation: 21 USC 301
   authority_claims: 0
   mentions: 8
   resolves: false
   cited_by_sample:
+  - oar-437-004-9800
   - ors-30.961
+  - ors-431a.340
   - ors-459a.660
   - ors-616.205
-  - ors-621.405
-  - ors-646a.850
 - citation: 26 USC 403
   authority_claims: 0
   mentions: 8
@@ -2520,11 +2520,11 @@ targets:
   mentions: 8
   resolves: false
   cited_by_sample:
+  - oar-123-097-2000
+  - oar-340-141-0005
   - ors-285a.193
   - ors-285b.006
   - ors-285b.034
-  - ors-285b.627
-  - ors-468.531
 - citation: 49 CFR 40
   authority_claims: 0
   mentions: 8
@@ -2594,7 +2594,7 @@ targets:
   - oar-291-081-0025
   - oar-291-081-0030
   - oar-291-158-0010
-  - ors-423.105
+  - oar-416-415-0030
 - citation: 22 USC 7101
   authority_claims: 0
   mentions: 7
@@ -2680,8 +2680,8 @@ targets:
   - oar-137-055-1070
   - oar-137-055-1080
   - oar-137-055-1120
+  - oar-137-055-1140
   - oar-137-055-7040
-  - oar-137-055-7120
 - citation: 49 USC 40102
   authority_claims: 0
   mentions: 7
