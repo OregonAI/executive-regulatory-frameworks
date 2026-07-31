@@ -85,6 +85,51 @@ def _resolve_nums(m, nodes):
 # Registration order mirrors the old if/elif priority: first pattern to MATCH wins
 # (regardless of whether it then resolves to an existing document), NUMS_C tried
 # only if none of the legal-citation patterns matched at all.
+# ---------------------------------------------------------------- outbound: federal instruments
+#
+# MEASURED before declaring: of this corpus's 916 federal authority claims across 1,250
+# distinct targets, exactly ONE target resolves -- 2 CFR 200, with 15 authority claims and 39
+# mentions. 1.6% of claims, 0.08% of targets. That is small, and it is stated plainly rather
+# than dressed up.
+#
+# It is still worth the edge, because of WHAT those 15 are: 14 Oregon administrative rules
+# and one DAS manual declare 2 CFR 200 in `legal_authority` or `statutes_implemented`
+# (oar-581-051-0500 and its neighbours, oar-461-135-1230, oam-75-30-02). Those are rules
+# whose stated legal basis resolved to nothing at all. The authority chain now terminates in
+# the actual requirement instead of stopping at the state border.
+#
+# The other 901 claims are overwhelmingly CFR titles and U.S. Code sections federal-reference
+# does not hold (34 CFR 300 alone has 105). They begin resolving as intake grows, with no
+# change here -- which is the point of deriving ids rather than tabulating them.
+#
+# REGISTERED FIRST, and this ordering is load-bearing -- it also fixes a PRE-EXISTING bug.
+#
+# ORS_C is `(?:ORS\s*)?(\d{2,3}[A-Za-z]?\.\d{3})\s*$`: the "ORS" is OPTIONAL, so the
+# pattern matches any bare NNN.NNN at the end of a string. Registered ahead of these, it
+# captured `2 CFR 200.332` and derived `ors-200.332`, and `45 CFR 75.352` -> `ors-75.352`.
+# First pattern to MATCH wins whether or not it resolves, so the federal schemes never ran.
+#
+# That has been happening since before this change; it produced misses rather than wrong
+# answers only because no such ORS documents exist. ORS chapter 200 is real, so ingesting
+# ORS 200.332 would have turned a federal citation into a confidently wrong STATE statute.
+#
+# Safe in this order because every federal pattern requires a literal CFR / Pub. L. / IRS
+# Pub / CJIS token, which no ORS, OAR or EO citation contains. Verified after the move:
+# ORS, OAR and EO citations still resolve locally and unchanged.
+import pathlib as _pathlib
+import sys as _sys
+
+_sys.path.insert(0, str(_pathlib.Path(__file__).resolve().parent))
+from federal_ids import CFR as _F_CFR, CJIS as _F_CJIS, IRSPUB as _F_IRS, PUBLAW as _F_PL  # noqa: E402
+from federal_ids import candidates as _federal_ids  # noqa: E402
+
+for _name, _rx in (("federal-cfr", _F_CFR), ("federal-public-law", _F_PL),
+                   ("federal-irs-pub", _F_IRS), ("federal-cjis", _F_CJIS)):
+    register_scheme(_name, _rx.pattern,
+                    resolver=lambda m: _federal_ids(m.group(0)),
+                    corpus="federal-reference")
+
+
 register_scheme("ors", ORS_C.pattern, resolver=_resolve_ors)
 register_scheme("oar-rule", OAR_RULE_C.pattern, resolver=_resolve_oar_rule)
 register_scheme("eo", EO_C.pattern, resolver=_resolve_eo)
