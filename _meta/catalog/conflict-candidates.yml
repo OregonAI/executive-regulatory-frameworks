@@ -34744,8 +34744,9 @@ chapters:
       note: null
       by: null
       date: null
-  - summary: HLO rule's suspension language omits the $2,500 or three-month arrears threshold explicitly required
-      by statute.
+  - summary: 'HLO rule''s suspension language omits the $2,500 or three-month arrears threshold explicitly required
+      by statute. Additionally: HLO rule does not explicitly require the agreement status check that statute makes
+      prerequisite to suspension.'
     documents:
     - id: ors-25.750
       citation: ORS 25.750(1)(a)
@@ -34756,42 +34757,21 @@ chapters:
       quote: The Office will suspend the authorization if the Oregon Child Support Program or the district attorney
         identifies the authorization holder as being in arrears with respect to any judgment or order requiring
         the payment of child support and that the case is being enforced under the provisions of ORS 25.080.
-    note: Statute requires suspension only when arrears equal or exceed the greater of three months of support or
-      $2,500. Rule requires suspension when DOJ identifies someone 'as being in arrears' without specifying the
-      threshold amount. Rule section (1) references 'according to ORS 25.750(a) or (b)' which might incorporate
-      statutory thresholds, but section (2) suspension language does not. The rule may rely on DOJ to apply the
-      threshold before identifying persons for suspension, but does not explicitly require the $2,500/three-month
-      test in its own language.
-    type: null
-    section: ors-25.750
-    run_id: haiku-scan-2026-07-31
-    model: claude-haiku-4-5-20251001
-    prompt_version: conflict-haiku-section-scan-2026-07-31
-    confidence: medium
-    severity: medium
-    triage:
-      status: unreviewed
-      note: null
-      by: null
-      date: null
-  - summary: HLO rule does not explicitly require the agreement status check that statute makes prerequisite to
-      suspension.
-    documents:
     - id: ors-25.750
       citation: ORS 25.750(1)(a)
       quote: 'in an amount equal to the greater of three months of support or $2,500, and: (A) Has not entered into
         an agreement with the administrator with respect to the child support obligation; or (B) Is not in compliance
         with an agreement entered into with the administrator'
-    - id: oar-331-020-0080
-      citation: OAR 331-020-0080(2)
-      quote: The Office will suspend the authorization if the Oregon Child Support Program or the district attorney
-        identifies the authorization holder as being in arrears with respect to any judgment or order requiring
-        the payment of child support and that the case is being enforced under the provisions of ORS 25.080.
-    note: Statute makes suspension conditional on either (A) no agreement or (B) non-compliance with an agreement.
-      Rule requires only that DOJ 'identifies' someone 'as being in arrears' and case is 'being enforced.' The rule
-      does not state that the DOJ's identification must include verification that no agreement exists or that an
-      existing agreement is not being complied with. The rule may assume DOJ's identification process includes this
-      check, but does not explicitly require it in the HLO's decision to suspend.
+    note: Statute requires suspension only when arrears equal or exceed the greater of three months of support or
+      $2,500. Rule requires suspension when DOJ identifies someone 'as being in arrears' without specifying the
+      threshold amount. Rule section (1) references 'according to ORS 25.750(a) or (b)' which might incorporate
+      statutory thresholds, but section (2) suspension language does not. The rule may rely on DOJ to apply the
+      threshold before identifying persons for suspension, but does not explicitly require the $2,500/three-month
+      test in its own language. Statute makes suspension conditional on either (A) no agreement or (B) non-compliance
+      with an agreement. Rule requires only that DOJ 'identifies' someone 'as being in arrears' and case is 'being
+      enforced.' The rule does not state that the DOJ's identification must include verification that no agreement
+      exists or that an existing agreement is not being complied with. The rule may assume DOJ's identification
+      process includes this check, but does not explicitly require it in the HLO's decision to suspend.
     type: null
     section: ors-25.750
     run_id: haiku-scan-2026-07-31
@@ -35735,8 +35715,9 @@ chapters:
   - ors-420.505
   rules_reviewed: 1
   candidates:
-  - summary: Rule applies to 'offenders' in OYA close custody; statute specifies 'adjudicated youth' as the subject
-      population
+  - summary: 'Rule applies to ''offenders'' in OYA close custody; statute specifies ''adjudicated youth'' as the
+      subject population. Additionally: Rule permits transfer to ''facility designated by the Addictions and Mental
+      Health Division'' but statute limits transfer to ''institution for persons with mental illness or mental retardation'''
     documents:
     - id: ors-420.500
       citation: ORS 420.500
@@ -35744,23 +35725,6 @@ chapters:
     - id: oar-309-120-0070
       citation: OAR 309-120-0070
       quote: offenders in Oregon Youth Authority (OYA) close custody facilities may be transferred
-    note: 'Terminology difference: ''adjudicated youth'' is a defined legal status; ''offenders'' may be broader.
-      If OYA close custody houses non-adjudicated offenders, the rule''s scope could exceed statute.'
-    type: null
-    section: ors-420.500
-    run_id: haiku-scan-2026-07-31
-    model: claude-haiku-4-5-20251001
-    prompt_version: conflict-haiku-section-scan-2026-07-31
-    confidence: medium
-    severity: medium
-    triage:
-      status: unreviewed
-      note: null
-      by: null
-      date: null
-  - summary: Rule permits transfer to 'facility designated by the Addictions and Mental Health Division' but statute
-      limits transfer to 'institution for persons with mental illness or mental retardation'
-    documents:
     - id: ors-420.500
       citation: ORS 420.500
       quote: transferred to an institution for persons with mental illness or mental retardation
@@ -35768,16 +35732,19 @@ chapters:
       citation: OAR 309-120-0070
       quote: transferred to a state mental hospital or a facility designated by the Addictions and Mental Health
         Division
-    note: Addictions treatment facilities may not be 'institutions for mental illness or mental retardation' — these
-      address different service categories. Unclear if the Addictions and Mental Health Division designation includes
-      only mental illness/retardation facilities or extends to substance abuse treatment.
+    note: 'Terminology difference: ''adjudicated youth'' is a defined legal status; ''offenders'' may be broader.
+      If OYA close custody houses non-adjudicated offenders, the rule''s scope could exceed statute. Addictions
+      treatment facilities may not be ''institutions for mental illness or mental retardation'' — these address
+      different service categories. Unclear if the Addictions and Mental Health Division designation includes only
+      mental illness/retardation facilities or extends to substance abuse treatment. [severity recorded by the model
+      as ''medium-high''; normalized to ''high''.]'
     type: null
     section: ors-420.500
     run_id: haiku-scan-2026-07-31
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-haiku-section-scan-2026-07-31
     confidence: medium
-    severity: medium-high
+    severity: high
     triage:
       status: unreviewed
       note: null
@@ -36095,8 +36062,9 @@ chapters:
   - ors-469.740
   rules_reviewed: 1
   candidates:
-  - summary: Rule describes 'Voluntary' standards while statute mandates Director 'shall adopt rules establishing
-      energy conservation standards'
+  - summary: 'Rule describes ''Voluntary'' standards while statute mandates Director ''shall adopt rules establishing
+      energy conservation standards''. Additionally: Rule limits standards to pre-1978 buildings while statute requires
+      standards for ''public buildings'' without temporal qualification'
     documents:
     - id: ors-469.740
       citation: ORS 469.740
@@ -36108,33 +36076,9 @@ chapters:
         have been adopted by the Building Codes Division pursuant to ORS 469.740
     note: 'The statute mandates adoption of standards but does not specify whether standards must be mandatory or
       may be voluntary. Potential conflict: whether ''voluntary'' standards satisfy the statutory obligation to
-      establish energy conservation standards.'
-    type: null
-    section: ors-469.740
-    run_id: haiku-scan-2026-07-31
-    model: claude-haiku-4-5-20251001
-    prompt_version: conflict-haiku-section-scan-2026-07-31
-    confidence: low
-    severity: medium
-    triage:
-      status: unreviewed
-      note: null
-      by: null
-      date: null
-  - summary: Rule limits standards to pre-1978 buildings while statute requires standards for 'public buildings'
-      without temporal qualification
-    documents:
-    - id: ors-469.740
-      citation: ORS 469.740
-      quote: the Director of the Department of Consumer and Business Services shall adopt rules establishing energy
-        conservation standards for public buildings
-    - id: oar-918-440-0020
-      citation: OAR 918-440-0020
-      quote: Voluntary energy conservation standards for public buildings constructed prior to January 1, 1978,
-        have been adopted by the Building Codes Division pursuant to ORS 469.740
-    note: 'The statute does not explicitly authorize limiting standards to buildings of a particular age. Potential
-      conflict: whether the rule''s restriction to pre-1978 construction exceeds delegated authority. However, delegation
-      doctrine typically allows differentiation by building characteristics.'
+      establish energy conservation standards. The statute does not explicitly authorize limiting standards to buildings
+      of a particular age. Potential conflict: whether the rule''s restriction to pre-1978 construction exceeds
+      delegated authority. However, delegation doctrine typically allows differentiation by building characteristics.'
     type: null
     section: ors-469.740
     run_id: haiku-scan-2026-07-31
@@ -36474,14 +36418,15 @@ chapters:
       record-keeping obligation when charges are collected. The rule implements logging requirements for contracts
       but contains no specification for how receipts or amounts received should be recorded. This could represent
       incomplete implementation of the statutory requirement, or receipts could be addressed elsewhere in the regulatory
-      framework.
+      framework. [confidence recorded by the model as 'moderate'; normalized to 'medium'.] [severity recorded by
+      the model as 'moderate'; normalized to 'medium'.]
     type: null
     section: ors-658.078
     run_id: haiku-scan-2026-07-31
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-haiku-section-scan-2026-07-31
-    confidence: moderate
-    severity: moderate
+    confidence: medium
+    severity: medium
     triage:
       status: unreviewed
       note: null
@@ -37412,14 +37357,15 @@ chapters:
     note: The rule may reasonably incorporate the statutory conditions implicitly since it cites the statute section.
       However, the rule does not explicitly require 'construction, maintenance or repair' or 'immediate location
       or site' conditions. A reader could potentially interpret 'when used under contract' as permitting exemptions
-      for any departmental contract, not solely construction/maintenance/repair work at specified locations.
+      for any departmental contract, not solely construction/maintenance/repair work at specified locations. [severity
+      recorded by the model as 'moderate'; normalized to 'medium'.]
     type: null
     section: ors-818.140
     run_id: haiku-scan-2026-07-31
     model: claude-haiku-4-5-20251001
     prompt_version: conflict-haiku-section-scan-2026-07-31
     confidence: low
-    severity: moderate
+    severity: medium
     triage:
       status: unreviewed
       note: null
