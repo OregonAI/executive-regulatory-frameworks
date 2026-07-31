@@ -32,6 +32,16 @@ CFR = re.compile(r"\b(?P<title>\d{1,2})\s*C\.?\s?F\.?\s?R\.?\s*(?:Part\s+)?§{0,
 # `Pub. L. 113-128`, `Public Law No. 115-224`, `PL 113-128`
 PUBLAW = re.compile(r"\bP(?:ub(?:lic)?)?\.?\s*L(?:aw)?\.?\s*(?:No\.?\s*)?"
                     r"(?P<cong>\d{2,3})\s*[-–]\s*(?P<num>\d{1,4})\b", re.I)
+# `200.331-200.333`, `200.510 through 200.512`, en/em dashes included.
+RANGE = re.compile(r"200\.(\d{1,4})\s*(?:-|–|—|to|through|thru)\s*(?:200\.)?(\d{1,4})\b", re.I)
+# A citation spanning more of the part than this is a drafting artefact, not a real range;
+# expanding it would flood the caller with ids rather than answer the question.
+MAX_RANGE = 60
+# A section continuing a list: the `, 200.303` in "2 CFR 200.302, 200.303". Requires a list
+# separator immediately before it, so `2 CFR 200.303 and ORS 200.055` does NOT pull the ORS
+# section in -- the intervening "ORS" breaks the match, which a bare `200\.\d+` would not.
+LIST_SEC = re.compile(r"(?:,|;|\band\b|&)\s*§{0,2}\s*200\.(\d{1,4})\b", re.I)
+
 # `IRS Pub 1075`, `IRS Publication 1075 (Rev. 11-2021)`, `IRS Pub 1075 Revision 9/2016`
 IRSPUB = re.compile(r"\bIRS\s+Pub(?:lication)?\.?\s*(?P<num>\d{3,4})\b", re.I)
 # The revision, read from anywhere in the citation rather than from a group that had to sit
@@ -53,12 +63,42 @@ def candidates(citation: str) -> list[str]:
     if not c:
         return []
 
-    m = CFR.search(c)
-    if m:
-        base = f"{m.group('title')}-cfr-{m.group('part')}"
-        # Section first: `2 CFR 200.303` should reach the section document if one exists and
-        # fall back to the part only if it does not. Both are offered, in that order.
-        return [f"{base}.{m.group('sec')}", base] if m.group("sec") else [base]
+    hits = list(CFR.finditer(c))
+    if hits:
+        base = f"{hits[0].group('title')}-cfr-{hits[0].group('part')}"
+        secs: list[str] = []
+        for m in hits:
+            if m.group("sec"):
+                secs.append(m.group("sec"))
+        if not secs:
+            return [base]
+
+        # RANGES AND LISTS. `2 CFR 200.331-200.333` used to resolve to .331 alone, silently
+        # dropping two sections this corpus holds; `200.510 through 200.512` and
+        # `200.302, 200.303` behaved the same way. finditer collects every section NAMED, and
+        # a range expands to every section BETWEEN its endpoints -- safe to do here because
+        # returning an id is explicitly not a claim that the document exists. The index
+        # lookup is the existence test, so a gap in CFR numbering simply misses.
+        secs.extend(LIST_SEC.findall(c))
+        for a, b in RANGE.findall(c):
+            lo, hi = int(a), int(b)
+            if 0 < hi - lo <= MAX_RANGE:
+                secs.extend(str(n) for n in range(lo, hi + 1))
+
+        # NO BARE-PART FALLBACK. Offering the part after the section looks helpful and is the
+        # one place this file can hand back a plausible wrong answer: a sibling cannot tell
+        # "section exists but was not split out" from "section was REMOVED in 2021" or "no
+        # such section", because the index carries no status -- so `2 CFR 200.56` and
+        # `2 CFR 200.9999` both resolved to the CURRENT part text. federal-reference's own
+        # resolver keeps the fallback, because it reads frontmatter and CAN tell the cases
+        # apart; a sibling gets an honest miss instead.
+        seen, out = set(), []
+        for sec in secs:
+            i = f"{base}.{sec}"
+            if i not in seen:
+                seen.add(i)
+                out.append(i)
+        return out
 
     m = PUBLAW.search(c)
     if m:
