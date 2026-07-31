@@ -78,6 +78,10 @@ jobs:
         run: python3 src/build_policy_gap.py --check
       - name: Statute-operationalization view must be current
         run: python3 src/build_statute_fan.py --check
+      # Inventory only -- resolution against siblings is deliberately not compared, because
+      # it changes when federal-reference publishes and no PR here causes or fixes that.
+      - name: External-citation catalog must be current
+        run: python3 src/scan_external_citations.py --check
       - name: Authority-chain explorer must be current
         run: python3 src/build_authority_explorer.py --check
       - name: Semantic topic map must be current (reads committed UMAP cache)

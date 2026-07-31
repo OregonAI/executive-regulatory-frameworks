@@ -9,9 +9,13 @@ TWO JOBS, and the second is why this is a committed artifact rather than a one-o
   1. INTAKE MANIFEST for OregonAI/federal-reference. Which federal documents does Oregon
      law actually lean on? Building from a measured list means every document that corpus
      adds retires a real dead reference, instead of one someone assumed mattered.
-  2. THE BEFORE/AFTER NUMBER. federal-reference's stated Done-when is that the count of
-     unresolvable external citations here measurably drops. That is only checkable if the
-     count is recorded first, by something reproducible.
+  2. THE BEFORE NUMBER, as a SECONDARY indicator. 916 authority claims, none resolving.
+     This was federal-reference's original Done-when and has been demoted: it measures what
+     Oregon RULES cite, not what Oregon must OBEY. 2 CFR 200 -- the Uniform Guidance
+     governing every federal grant the state receives -- has zero authority claims here and
+     is cited 180 times in Oregon's single audits. Compliance obligations do not depend on
+     an OAR happening to cite them, so coverage of the audited compliance surface is the
+     primary measure and this is the supporting one.
 
 AUTHORITY CLAIMS AND MENTIONS ARE COUNTED SEPARATELY, and the distinction is the whole
 value of this scan.
@@ -203,6 +207,18 @@ def scan() -> dict:
     }
 
 
+def _inventory_only(text: str) -> str:
+    """The catalog with resolution-dependent lines removed, for --check.
+
+    See the comment at the call site: what a sibling currently holds is not something a PR
+    to this repository controls.
+    """
+    return "\n".join(l for l in text.splitlines()
+                      if not l.lstrip().startswith(("resolves:", "targets_resolving:",
+                                                    "unresolved_authority_claims:",
+                                                    "siblings_consulted:")))
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -219,11 +235,22 @@ def main() -> int:
 
     if args.check:
         cur = CATALOG.read_text(encoding="utf-8") if CATALOG.is_file() else ""
-        if cur != text:
+        # Compare the INVENTORY, not the resolution.
+        #
+        # The inventory derives from committed content, so a PR is exactly what can
+        # invalidate it -- adding a rule that cites a new federal instrument should fail
+        # this check until the catalog is regenerated.
+        #
+        # Resolution does not. It changes whenever a SIBLING publishes a document, which no
+        # PR here causes and no PR here can fix. Comparing it would turn every unrelated
+        # merge red the day federal-reference ingests something, and a check that goes red
+        # for reasons the author cannot act on is one people learn to ignore. Same reasoning
+        # as corpus-generate-status stripping dates before comparing.
+        if _inventory_only(cur) != _inventory_only(text):
             print("external-citations.yml is STALE — re-run src/scan_external_citations.py",
                   file=sys.stderr)
             return 1
-        print("external-citations.yml is current.")
+        print("external-citations.yml inventory is current.")
         return 0
 
     CATALOG.parent.mkdir(parents=True, exist_ok=True)
