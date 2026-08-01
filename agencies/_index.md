@@ -176,12 +176,12 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Public Utility Commission, Oregon Board of Maritime Pilots | executive branch | unknown | 54 | 54 | 0 | 0 | 2026-07-21 |
 | Real Estate Agency | executive branch | unknown | 204 | 204 | 0 | 0 | — |
 | SAIF Corporation | unclassified | unknown | 1 | 1 | 0 | 0 | — |
-| Secretary of State | constitutional elected | unknown | 1 | 1 | 0 | 0 | — |
-| Secretary of State, Archives Division | constitutional elected | unknown | 210 | 210 | 0 | 0 | — |
-| Secretary of State, Audits Division | constitutional elected | unknown | 42 | 42 | 0 | 0 | — |
-| Secretary of State, Business Services Division | constitutional elected | unknown | 33 | 33 | 0 | 0 | — |
-| Secretary of State, Corporation Division | constitutional elected | unknown | 153 | 153 | 0 | 0 | — |
-| Secretary of State, Elections Division | constitutional elected | unknown | 99 | 99 | 0 | 0 | — |
+| Secretary of State | constitutional elected | unknown | 1 | 1 | 0 | 0 | 2026-08-01 |
+| Secretary of State, Archives Division | constitutional elected | unknown | 210 | 210 | 0 | 0 | 2026-08-01 |
+| Secretary of State, Audits Division | constitutional elected | unknown | 42 | 42 | 0 | 0 | 2026-08-01 |
+| Secretary of State, Business Services Division | constitutional elected | unknown | 33 | 33 | 0 | 0 | 2026-08-01 |
+| Secretary of State, Corporation Division | constitutional elected | unknown | 153 | 153 | 0 | 0 | 2026-08-01 |
+| Secretary of State, Elections Division | constitutional elected | unknown | 99 | 99 | 0 | 0 | 2026-08-01 |
 | Southern Oregon University | executive branch | unknown | 10 | 10 | 0 | 0 | — |
 | State Board of Architect Examiners | semi-independent | unknown | 31 | 31 | 0 | 0 | — |
 | Teacher Standards and Practices Commission | executive branch | unknown | 296 | 296 | 0 | 0 | — |
