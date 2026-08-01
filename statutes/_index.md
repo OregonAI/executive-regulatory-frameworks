@@ -39,6 +39,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 144 | Parole; Post-Prison Supervision; Work Release; Executive Clemency; Standards for Prison Terms and Parole; Presentence Reports | 121 | 120 |
 | 146 | Investigations of Deaths, Injuries and Missing Persons | 40 | 40 |
 | 147 | Victims of Crime and Acts of Mass Destruction | 94 | 94 |
+| 15 | Choice of Laws | 22 | 20 |
 | 153 | Violations and Fines | 54 | 54 |
 | 156 | Proceedings and Judgment in Criminal Actions (Former Provisions) | 0 | 0 |
 | 161 | General Provisions | 118 | 118 |
@@ -73,6 +74,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 189 | Interstate Cooperation (Former Provisions) | 0 | 0 |
 | 19 | Appeals | 47 | 46 |
 | 190 | Cooperation of Governmental Units; State Census; Arbitration | 58 | 58 |
+| 191 | United States’ Surveys | 4 | 4 |
 | 192 | Records; Reports and Meetings | 166 | 166 |
 | 193 | Legal Notices | 16 | 16 |
 | 194 | Uniform Law on Notarial Acts; Unsworn Foreign Declarations | 51 | 51 |
@@ -82,15 +84,20 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 197A | Land Use Planning: Housing and Urbanization | 88 | 88 |
 | 198 | Special Districts Generally | 97 | 97 |
 | 199 | Local Government Boundary Commissions; City-County Consolidation | 60 | 59 |
+| 20 | Attorney Fees; Costs and Disbursements | 25 | 25 |
 | 200 | Disadvantaged Business Enterprises; Minority-Owned Businesses; Woman-Owned Businesses; Veteran-Owned Businesses; Emerging Small Businesses | 17 | 17 |
 | 201 | Boundaries of Counties | 39 | 39 |
+| 202 | Establishment of New Counties; Change of Boundaries | 31 | 31 |
+| 203 | County Governing Bodies; County Home Rule | 29 | 29 |
 | 204 | County Officers | 15 | 15 |
 | 205 | County Clerks | 39 | 38 |
 | 206 | Sheriffs | 21 | 20 |
+| 208 | County Treasurers | 13 | 13 |
 | 209 | County Surveyors | 23 | 23 |
 | 21 | State Court Fees | 37 | 37 |
 | 210 | County Accountants | 13 | 13 |
 | 215 | County Land Use Planning; Resource Lands | 126 | 126 |
+| 22 | Bonds and Other Security Deposits | 8 | 8 |
 | 221 | Organization and Government of Cities | 126 | 126 |
 | 222 | City Boundary Changes; Annexations; Consolidations; Withdrawals; Mergers | 76 | 76 |
 | 223 | Local Improvements and Works Generally | 151 | 150 |
@@ -103,6 +110,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 238 | Public Employees Retirement System | 154 | 154 |
 | 238A | Oregon Public Service Retirement Plan | 59 | 59 |
 | 240 | State Personnel Relations | 66 | 65 |
+| 241 | Civil Service for County Employees | 63 | 62 |
 | 242 | Civil Service for City or School District Employees and Firefighters | 69 | 67 |
 | 243 | Public Employee Rights and Benefits | 162 | 162 |
 | 244 | Government Ethics | 54 | 54 |
@@ -117,11 +125,13 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 254 | Conduct of Elections | 68 | 68 |
 | 255 | Special District Elections | 35 | 35 |
 | 258 | Election Contests; Recounts | 26 | 26 |
+| 259 | CAMPAIGN (Former Provisions) | 0 | 0 |
 | 260 | Campaign Finance Regulation; Election Offenses | 87 | 87 |
 | 261 | People’s Utility Districts | 78 | 77 |
 | 262 | JOINT OPERATING AGENCIES FOR ELECTRIC POWER PUBLIC ORGANIZATIONS FOR COMMUNITY SERVICE GENERAL PROVISIONS | 12 | 12 |
 | 267 | Mass Transit Districts; Transportation Districts | 86 | 86 |
 | 268 | METROPOLITAN SERVICE DISTRICTS | 48 | 48 |
+| 27 | Submitting Controversy Without Action or Suit (Former Provisions) | 0 | 0 |
 | 270 | State Real Property | 18 | 18 |
 | 271 | USE OF PUBLIC LANDS; EASEMENTS PUBLIC LANDS | 50 | 49 |
 | 273 | State Lands Generally | 146 | 146 |
@@ -135,6 +145,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 279B | Public Contracting - Public Procurements | 47 | 46 |
 | 279C | Public Contracting - Public Improvements | 105 | 104 |
 | 280 | Financing of Local Public Projects and Improvements; City and County Economic Development | 37 | 37 |
+| 281 | Condemnation for Public Use; Relocation Assistance (Former Provisions) | 0 | 0 |
 | 282 | Public Printing | 16 | 16 |
 | 283 | Interagency Services | 45 | 45 |
 | 284 | Organizations for Economic Development | 74 | 74 |
@@ -144,7 +155,9 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 285C | Economic Development III | 100 | 99 |
 | 286 | State Bonds (Former Provisions) | 0 | 0 |
 | 286A | STATE BORROWING PUBLIC BORROWING | 96 | 96 |
+| 287 | BORROWING (Former Provisions) | 0 | 0 |
 | 287A | LOCAL GOVERNMENT BORROWING PUBLIC BORROWING | 35 | 35 |
+| 288 | Public Borrowing and Bonds Generally (Former Provisions) | 0 | 0 |
 | 289 | Oregon Facilities Financing | 19 | 19 |
 | 291 | State Financial Administration | 86 | 86 |
 | 292 | Salaries and Expenses of State Officers and Employees | 55 | 55 |
@@ -170,6 +183,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 317A | Corporate Activity Tax | 23 | 23 |
 | 318 | Corporation Income Tax | 9 | 9 |
 | 319 | Motor Vehicle and Aircraft Fuel Taxes | 119 | 118 |
+| 32 | Injunctions (Former Provisions) | 0 | 0 |
 | 320 | Miscellaneous Taxes | 67 | 67 |
 | 321 | Timber and Forestland Taxation | 68 | 68 |
 | 323 | Cigarettes and Tobacco Products | 136 | 135 |
@@ -179,6 +193,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 328 | Local Financing of Education | 64 | 64 |
 | 329 | Oregon Educational Act for the 21st Century; Educational Improvement and Reform | 81 | 81 |
 | 329A | Child Care | 59 | 59 |
+| 33 | Special Proceedings and Procedures | 34 | 34 |
 | 330 | Boundary Changes; Mergers | 14 | 14 |
 | 332 | Local Administration of Education | 68 | 68 |
 | 333 | County Unit System (Former Provisions) | 0 | 0 |
@@ -211,12 +226,14 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 367 | Transportation Financing; Projects | 73 | 73 |
 | 368 | County Roads | 74 | 74 |
 | 370 | County Road Bonding Act | 12 | 12 |
+| 371 | Road Districts and Road Assessment Plans | 59 | 59 |
 | 372 | Highway Lighting Districts | 29 | 29 |
 | 373 | Roads and Highways Through Cities | 22 | 22 |
 | 374 | Control of Access to Public Highways | 53 | 53 |
 | 376 | Ways of Necessity; Special Ways; Pedestrian Malls | 67 | 66 |
 | 377 | Highway Beautification; Motorist Information Signs | 78 | 78 |
 | 381 | Interstate Bridges | 75 | 75 |
+| 382 | Intrastate Bridges | 27 | 27 |
 | 383 | Tollways | 25 | 25 |
 | 384 | Ferries | 33 | 32 |
 | 390 | State and Local Parks; Recreation Programs; Scenic Waterways; Recreation Trails | 156 | 156 |
@@ -274,6 +291,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 45 | Testimony Generally | 22 | 22 |
 | 450 | Sanitary Districts and Authorities; Water Authorities | 121 | 120 |
 | 451 | County Service Facilities | 39 | 39 |
+| 452 | Vector Control | 24 | 24 |
 | 453 | Hazardous Substances; Radiation Sources | 124 | 122 |
 | 454 | Sewage Treatment and Disposal Systems | 84 | 84 |
 | 455 | Building Code | 178 | 177 |
@@ -282,6 +300,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 458 | Housing and Community Services Programs; Individual Development Accounts | 79 | 77 |
 | 459 | Solid Waste Management | 114 | 114 |
 | 459A | Reuse and Recycling | 201 | 198 |
+| 46 | Small Claims Department of Circuit Court | 13 | 13 |
 | 460 | Elevators; Amusement Rides and Devices | 30 | 30 |
 | 461 | Oregon State Lottery | 67 | 67 |
 | 462 | Racing | 87 | 87 |
@@ -319,11 +338,13 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 496 | Application, Administration and Enforcement of Wildlife Laws | 124 | 122 |
 | 497 | Licenses, Tags and Permits | 59 | 58 |
 | 498 | Hunting, Angling and Trapping Regulations; Miscellaneous Wildlife Protective Measures | 79 | 79 |
+| 5 | County Courts (Judicial Functions) | 11 | 11 |
 | 501 | Refuges and Closures | 13 | 13 |
 | 506 | Application, Administration and Enforcement of Commercial Fishing Laws | 65 | 65 |
 | 507 | Compacts with Other States | 5 | 5 |
 | 508 | Licenses and Permits | 124 | 123 |
 | 509 | General Protective Regulations | 49 | 48 |
+| 51 | Justice Courts; Jurisdiction | 25 | 25 |
 | 511 | Local and Special Regulations | 17 | 17 |
 | 513 | Packing Fish and Manufacture of Fish Products | 4 | 4 |
 | 516 | Department of Geology and Mineral Industries | 13 | 12 |
@@ -332,6 +353,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 522 | Geothermal Resources | 50 | 50 |
 | 526 | Forestry Administration | 139 | 138 |
 | 527 | Pest Control; Forest Practices | 73 | 72 |
+| 528 | Reforestation Lands and Taxation Thereof (Former Provisions) | 0 | 0 |
 | 530 | State Forests; Community Forests | 53 | 52 |
 | 532 | Branding of Forest Products and Booming Equipment | 15 | 15 |
 | 536 | Water Resources Administration | 76 | 76 |
@@ -346,6 +368,9 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 545 | Irrigation Districts | 188 | 187 |
 | 547 | Drainage Districts | 96 | 95 |
 | 548 | Provisions Applicable Both to Drainage Districts and to Irrigation | 46 | 46 |
+| 549 | Drainage and Flood Control Generally | 39 | 39 |
+| 552 | Water Improvement Districts | 46 | 46 |
+| 553 | Water Control Districts | 58 | 58 |
 | 554 | Corporations for Irrigation, Drainage, Water Supply or Flood Control | 69 | 69 |
 | 56 | Duties of Secretary of State | 24 | 24 |
 | 561 | State Department of Agriculture | 75 | 75 |
@@ -375,6 +400,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 604 | Brands and Marks; Feedlots | 23 | 23 |
 | 606 | Grazing and Ranging; Grazing Districts (Former Provisions) | 0 | 0 |
 | 607 | Livestock Districts; Stock Running at Large | 41 | 41 |
+| 608 | Fences to Prevent Damage by or to Animals | 13 | 13 |
 | 609 | Dogs; Exotic Animals; Dealers | 63 | 62 |
 | 610 | Predatory Animals | 19 | 19 |
 | 616 | General and Miscellaneous Provisions | 97 | 95 |
@@ -440,9 +466,11 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 692 | Funeral Service Practitioners; Embalmers; Death Care Consultants; Funeral Establishments; Cemetery Operators; Crematory Operators and Alternative Disposition Fa | 33 | 33 |
 | 693 | Plumbers | 19 | 19 |
 | 694 | Hearing Aid Specialists | 15 | 15 |
+| 695 | Watch Dealers | 5 | 5 |
 | 696 | Real Estate and Escrow Activities | 117 | 117 |
 | 697 | Collection Agencies; Check-Cashing Businesses; Debt Management Service Providers | 57 | 57 |
 | 699 | Innkeepers and Hotelkeepers | 9 | 9 |
+| 7 | Records and Files of Courts | 18 | 18 |
 | 700 | Environmental Health Specialists; Waste Water Specialists | 15 | 15 |
 | 701 | Construction Contractors and Contracts | 134 | 132 |
 | 702 | Student Athletes | 21 | 21 |
@@ -529,6 +557,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 835 | Aviation Administration | 22 | 22 |
 | 836 | Airports and Landing Fields | 58 | 58 |
 | 837 | Aircraft Operation | 39 | 39 |
+| 838 | Airport Districts | 15 | 15 |
 | 84 | Electronic Transactions | 27 | 27 |
 | 86 | Mortgages; Trust Deeds | 75 | 75 |
 | 86A | Mortgage Lending | 64 | 64 |
@@ -544,7 +573,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 96 | Line and Partition Fences | 6 | 6 |
 | 97 | Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts | 149 | 149 |
 | 98 | Lost, Unclaimed or Abandoned Property; Vehicle Towing | 97 | 97 |
-| **all** | | **37102** | **36886** |
+| **all** | | **37684** | **37465** |
 
 Per-section numbers/titles/paths: [`_meta/catalog/ors.yml`](../_meta/catalog/ors.yml).
 Sections marked `not_sliceable` there have no body text in the chapter HTML

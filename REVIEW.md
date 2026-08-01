@@ -444,7 +444,7 @@ Order numbers are assigned sequentially within a year, so a higher number carryi
 - `eo-23-22` — signed 2023-09-01, but the preceding order `eo-23-21` is dated 2023-09-05 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
 - `eo-24-18` — signed 2024-07-20, but the preceding order `eo-24-17` is dated 2024-07-21 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
 
-## Catalog: sections with no sliceable body (216)
+## Catalog: sections with no sliceable body (219)
 
 ORS catalog entries whose section text couldn't be found in the chapter HTML (likely renumbered/repealed or TOC noise). Verify against the printed ORS if any of these numbers matter; otherwise they stay intentionally not ingested.
 
@@ -481,6 +481,8 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 131.909` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 133.410` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 144.620` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 15.305` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 15.335` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 162.425` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 169.800` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 18.736` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
@@ -515,6 +517,7 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 237.007` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 237.201` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 240.005` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 241.990` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 242.310` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 242.640` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 25.427` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
@@ -4245,4 +4248,4 @@ the attestation the review gates call for. Corpus size by directory:
 - `rules/972/040/`: 3 documents
 - `rules/976/001/`: 2 documents
 - `rules/976/002/`: 4 documents
-- `statutes/`: 36886 documents
+- `statutes/`: 37465 documents
