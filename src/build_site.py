@@ -1,31 +1,30 @@
 #!/usr/bin/env python3
-"""Build the static GitHub Pages site into ./site/ (gitignored; produced at deploy time).
+"""Build the GitHub Pages site into ./site/ (gitignored; produced at deploy time).
 
-A curated, human-facing landing page for the corpus — NOT a render of all 68k documents
-(the repo, the MCP server, and llms.txt already serve the full text). It shows live corpus
-stats (from _meta/graph.json) and links to: the interactive agency graph, llms.txt, the MCP
-server, and the GitHub repo. The self-contained agency-graph viz and llms.txt are copied in
-alongside it.
+    python3 src/build_site.py
 
-  python3 src/build_site.py        # writes ./site/{index.html, agency-authority-graph.html, llms.txt}
+MIGRATED onto `corpus_toolkit.site`. This file used to carry its own copy of the theme-aware
+CSS, the tile markup, the theme toggle and the corpus-index.json emission — shell shared with
+two other corpora and now with seven. What stays here is what is actually specific to this
+corpus: its numbers, its prose, and the nine self-contained visualisations it publishes.
 
-Wired into .github/workflows/pages.yml, which runs this and deploys ./site/ on push to main.
+THE VISUALISATIONS ARE WHY THE SHELL HAS AN EXTENSION POINT. They are standalone HTML files
+built by src/build_*.py, copied into site/ verbatim and linked as cards. `extra_files` reports
+a missing one by name rather than skipping it, because an absent viz renders as a dead link on
+a page that otherwise looks finished.
 """
 import json
-import shutil
+import pathlib
+import sys
 from collections import Counter
-from datetime import date
-from pathlib import Path
 
-REPO = Path(__file__).resolve().parent.parent
-SITE = REPO / "site"
-REPO_URL = "https://github.com/OregonAI/executive-regulatory-frameworks"
-# Path-routed: one hostname serves every corpus, each mounted under its own corpus id.
-# The legacy mcp.morficflux.com still answers for now, but points at an old deployment and
-# will be retired — publish the new one.
-MCP_URL = "https://oregonai.morficflux.com/executive-regulatory-frameworks/mcp"
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 
-# (title, filename, one-line description) — copied into site/ and shown in the gallery
+from corpus_toolkit import config as config_mod                       # noqa: E402
+from corpus_toolkit.site import Page, Section, Tile, build            # noqa: E402
+
+REPO = pathlib.Path(__file__).resolve().parent.parent
+
 VIZZES = [
     ("Agency authority graph", "agency-authority-graph.html",
      "Which agencies share statutory turf — linked by the ORS chapters their rules jointly implement."),
@@ -54,212 +53,79 @@ def stats() -> dict:
     agencies = sorted(p.parent.parent.name
                       for p in (REPO / "agencies").glob("*/policies")
                       if any(p.glob("*.md")))
-    # non-doc files (_index/CHANGELOG) inflate a raw glob; count doc_type nodes instead
-    return {
-        "statutes": by.get("statute", 0),
-        "rules": by.get("rule", 0),
-        "orders": by.get("executive_order", 0),
-        "policies": by.get("policy", 0) + by.get("procedure", 0),
-        "standards": by.get("standard", 0) + by.get("manual", 0),
-        "documents": len(g["nodes"]),
-        "edges": len(g["edges"]),
-        "agencies": len(agencies),
-    }
+    return {"statutes": by.get("statute", 0), "rules": by.get("rule", 0),
+            "orders": by.get("executive_order", 0),
+            "policies": by.get("policy", 0) + by.get("procedure", 0),
+            "documents": len(g["nodes"]), "edges": len(g["edges"]),
+            "agencies": len(agencies)}
 
 
-def commas(n: int) -> str:
-    return f"{n:,}"
-
-
-def build_html() -> str:
+def main() -> int:
     s = stats()
-    today = date.today().isoformat()
-    tiles = [
-        ("ORS statutes", s["statutes"], "verbatim sections of Oregon Revised Statutes"),
-        ("OAR rules", s["rules"], "administrative rules across every agency chapter"),
-        ("Executive orders", s["orders"], "gubernatorial orders, 2003–present"),
-        ("Agency policies", s["policies"], "internal policies & procedures"),
-        ("Standards & manuals", s["standards"], "EIS/CSS standards + Oregon Accounting Manual"),
-        ("Authority edges", s["edges"], "mechanically-derived statute→rule→policy links"),
-    ]
-    tile_html = "\n".join(
-        f'''<div class="tile"><div class="num">{commas(v)}</div>
-        <div class="lbl">{name}</div><div class="sub">{sub}</div></div>'''
-        for name, v, sub in tiles)
-    viz_html = "\n".join(
-        f'''<div class="card"><h3>{title}</h3><p>{desc}</p>
-        <a class="go" href="{fn}">Open the visualization →</a></div>'''
+    cards = "\n".join(
+        f'      <a class="card" href="{fn}"><b>{title}</b><span>{desc}</span></a>'
         for title, fn, desc in VIZZES)
-    return TEMPLATE.format(
-        tiles=tile_html, vizzes=viz_html, docs=commas(s["documents"]),
-        agencies=s["agencies"], repo=REPO_URL, mcp=MCP_URL, today=today)
 
-
-def build_corpus_index(site: Path) -> str:
-    """Publish the cross-corpus resolution index to the Pages site.
-
-    A sibling corpus resolving a citation like `OAR 166-300-0040` needs to know that
-    document exists here and what it is called. It cannot read our _meta/graph.json to
-    find out — that file is 26 MB. corpus-generate-index emits the same information
-    without edges: id -> [title, doc_type, path], about 7 MB, and 1.4 MB over the wire
-    because GitHub serves it gzipped.
-
-    Built here, at deploy time, rather than committed. A committed index is a generated
-    file that can silently fall behind its own corpus, which then makes SIBLINGS resolve
-    stale titles and paths — a failure that shows up in someone else's repository. Built
-    on every push to main it is current by construction and needs no staleness gate at
-    all. It also keeps ~7 MB per regeneration out of git history.
-
-    Written compact: this is machine-read by a sibling's resolver, never diffed by a
-    human, so the 2 MB of indentation buys nothing.
-    """
-    from corpus_toolkit import config as config_mod
-    from corpus_toolkit.index import build_index
-
-    index = build_index(config_mod.load(str(REPO / "_meta/corpus.yml")))
-    out = site / "corpus-index.json"
-    out.write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")),
-                   encoding="utf-8")
-    return f"{index['n_documents']:,} documents, {out.stat().st_size / 1048576:.1f} MiB"
-
-
-def main():
-    SITE.mkdir(exist_ok=True)
-    (SITE / "index.html").write_text(build_html(), encoding="utf-8")
-    for src in [f for _, f, *_ in VIZZES] + ["llms.txt"]:
-        p = REPO / ("llms.txt" if src == "llms.txt" else f"viz/{src}")
-        if p.exists():
-            shutil.copyfile(p, SITE / src)
-    # GitHub Pages runs Jekyll over the artifact unless this exists, and Jekyll drops files
-    # beginning with an underscore. Nothing in site/ starts with one today, so this is
-    # pre-emptive — but corpus-toolkit's publish-index workflow emits it and this builder did
-    # not, and the first underscore-prefixed asset would have settled the disagreement by
-    # silently 404ing in production.
-    (SITE / ".nojekyll").write_text("", encoding="utf-8")
-    print(f"built site/ ({stats()['documents']:,} documents) -> {SITE.relative_to(REPO)}")
-    print(f"  corpus-index.json: {build_corpus_index(SITE)}")
-
-
-TEMPLATE = r"""<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Oregon Executive-Branch Law &amp; Policy — an AI-agent-friendly corpus</title>
-<meta name="description" content="A non-authoritative, machine-readable knowledge base of Oregon executive-branch statutes, rules, executive orders, and agency policies — with a mechanically-derived authority graph.">
-<style>
-  :root{{
-    --bg:#f6f7f9; --panel:#ffffff; --ink:#161a20; --muted:#5a6472; --line:#e4e8ee;
-    --accent:#1f6feb; --accent-ink:#0b4bc0; --gold:#8a6d1f; --shadow:0 1px 2px rgba(20,25,40,.06),0 8px 30px rgba(20,25,40,.07);
-  }}
-  @media (prefers-color-scheme:dark){{
-    :root{{--bg:#0e1116; --panel:#161b22; --ink:#e8ecf2; --muted:#9aa4b2; --line:#232a33;
-      --accent:#5a9bff; --accent-ink:#8fbaff; --gold:#d9b45a; --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 34px rgba(0,0,0,.45);}}
-  }}
-  :root[data-theme="light"]{{--bg:#f6f7f9;--panel:#fff;--ink:#161a20;--muted:#5a6472;--line:#e4e8ee;--accent:#1f6feb;--accent-ink:#0b4bc0;--gold:#8a6d1f;}}
-  :root[data-theme="dark"]{{--bg:#0e1116;--panel:#161b22;--ink:#e8ecf2;--muted:#9aa4b2;--line:#232a33;--accent:#5a9bff;--accent-ink:#8fbaff;--gold:#d9b45a;}}
-  *{{box-sizing:border-box}}
-  html{{-webkit-text-size-adjust:100%}}
-  body{{margin:0;background:var(--bg);color:var(--ink);
-    font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-    -webkit-font-smoothing:antialiased}}
-  a{{color:var(--accent-ink);text-decoration:none}} a:hover{{text-decoration:underline}}
-  .wrap{{max-width:960px;margin:0 auto;padding:0 22px}}
-  .disc{{background:var(--gold);color:#1a1400;font-size:13px;text-align:center;padding:7px 14px;font-weight:600;letter-spacing:.01em}}
-  @media (prefers-color-scheme:dark){{.disc{{color:#1a1400}}}}
-  header{{padding:64px 0 26px;border-bottom:1px solid var(--line)}}
-  .eyebrow{{text-transform:uppercase;letter-spacing:.14em;font-size:12px;color:var(--muted);font-weight:700;margin-bottom:14px}}
-  h1{{font-size:clamp(30px,5vw,46px);line-height:1.08;margin:0 0 16px;letter-spacing:-.02em;text-wrap:balance;font-weight:800}}
-  .lede{{font-size:19px;color:var(--muted);max-width:64ch;margin:0}}
-  .cta{{display:flex;flex-wrap:wrap;gap:12px;margin-top:26px}}
-  .btn{{display:inline-flex;align-items:center;gap:8px;padding:11px 18px;border-radius:10px;font-weight:650;font-size:15px;border:1px solid var(--line);background:var(--panel);color:var(--ink);box-shadow:var(--shadow)}}
-  .btn.primary{{background:var(--accent);color:#fff;border-color:transparent}}
-  .btn:hover{{text-decoration:none;transform:translateY(-1px)}}
-  section{{padding:44px 0}}
-  .grid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}}
-  .tile{{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px 20px 18px;box-shadow:var(--shadow)}}
-  .tile .num{{font-size:32px;font-weight:800;letter-spacing:-.02em;font-variant-numeric:tabular-nums}}
-  .tile .lbl{{font-weight:650;margin-top:2px}}
-  .tile .sub{{color:var(--muted);font-size:13.5px;margin-top:5px;line-height:1.45}}
-  h2{{font-size:14px;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);margin:0 0 18px;font-weight:700}}
-  .cards{{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}}
-  .card{{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:22px;box-shadow:var(--shadow);display:flex;flex-direction:column}}
-  .card h3{{margin:0 0 8px;font-size:18px;letter-spacing:-.01em}}
-  .card p{{margin:0 0 16px;color:var(--muted);font-size:14.5px;flex:1}}
-  .card .go{{font-weight:650;font-size:14.5px}}
-  code{{background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:1px 6px;font-size:13px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}}
-  footer{{border-top:1px solid var(--line);padding:30px 0 60px;color:var(--muted);font-size:13.5px}}
-  footer p{{margin:6px 0}}
-  #theme{{position:fixed;top:14px;right:14px;width:36px;height:36px;border-radius:10px;border:1px solid var(--line);background:var(--panel);color:var(--ink);cursor:pointer;box-shadow:var(--shadow);font-size:16px;z-index:5}}
-</style>
-</head>
-<body>
-<button id="theme" title="Toggle light/dark" aria-label="Toggle theme">◑</button>
-<div class="disc">NON-AUTHORITATIVE reference — not the official text of Oregon law. Always verify against each document's cited source.</div>
-<div class="wrap">
-  <header>
-    <div class="eyebrow">Oregon executive branch · statutes · rules · policies</div>
-    <h1>A machine-readable knowledge base of Oregon law &amp; policy</h1>
-    <p class="lede">Every ORS statute, OAR rule, executive order, and agency policy in scope — carried as
-      complete verbatim text with a mechanically-derived authority graph linking each rule and policy
-      up to the statute that authorizes it. Built for AI agents and humans alike.</p>
-    <div class="cta">
-      <a class="btn primary" href="authority-explorer.html">◑ Explore the corpus</a>
-      <a class="btn" href="{repo}">View on GitHub</a>
-      <a class="btn" href="llms.txt">llms.txt (AI index)</a>
-    </div>
-  </header>
-
-  <section>
-    <div class="grid">
-      {tiles}
-    </div>
-  </section>
-
-  <section>
-    <h2>Explore the corpus</h2>
-    <div class="cards">
-      {vizzes}
-    </div>
-  </section>
-
-  <section>
-    <h2>Two more ways in</h2>
-    <div class="cards">
-      <div class="card">
-        <h3>For AI agents (MCP)</h3>
-        <p>A live Model Context Protocol server exposes full-text search, citation resolution, document
-          retrieval, and authority-chain traversal over the whole corpus.</p>
-        <a class="go" href="{mcp}"><code>{mcp}</code> →</a>
-      </div>
-      <div class="card">
-        <h3>The source</h3>
-        <p>Every document is a Markdown file with provenance frontmatter, verified line-by-line against a
-          pinned source snapshot. Read it, fork it, or run the pipeline yourself.</p>
-        <a class="go" href="{repo}">Browse the repository →</a>
-      </div>
-    </div>
-  </section>
-
-  <footer>
-    <p><strong>{docs} documents</strong> across {agencies} content-bearing agencies · generated {today}.</p>
-    <p>Non-authoritative curated copies for reference and AI use. The official text is the published
-      source cited in each document. See the repository's disclaimer and <code>AGENTS.md</code> for the
-      full-text-first, anti-fabrication content policy.</p>
-    <p>Not affiliated with the State of Oregon.</p>
-  </footer>
-</div>
-<script>
-  document.getElementById('theme').onclick=function(){{
-    var c=document.documentElement.getAttribute('data-theme');
-    var n=c==='dark'?'light':c==='light'?'dark':(matchMedia('(prefers-color-scheme:dark)').matches?'light':'dark');
-    document.documentElement.setAttribute('data-theme',n);
-  }};
-</script>
-</body>
-</html>
-"""
+    out = build(Page(
+        config=config_mod.load(REPO / "_meta/corpus.yml"),
+        repo="executive-regulatory-frameworks",
+        title="Oregon Executive-Branch Law & Policy",
+        description=("A non-authoritative, machine-readable mirror of Oregon statutes, "
+                     "administrative rules, executive orders and agency policy, with a "
+                     "mechanically-derived authority graph."),
+        eyebrow="Oregon · executive branch",
+        headline="Statute to rule to policy, as one graph",
+        lede_html=(
+            f"<b>{s['documents']:,} documents</b> — {s['statutes']:,} ORS sections, "
+            f"{s['rules']:,} OAR rules, executive orders and agency policy — joined by "
+            f"<b>{s['edges']:,} mechanically-derived edges</b>. The spine every other corpus "
+            "on this platform cites into."),
+        disclaimer=("NON-AUTHORITATIVE reference — not the official text. Always verify "
+                    "against the Oregon Legislature or the Secretary of State."),
+        tiles=[
+            Tile("ORS sections", f"{s['statutes']:,}", "the statutes themselves"),
+            Tile("OAR rules", f"{s['rules']:,}",
+                 "administrative rules, linked to the statutes they implement"),
+            Tile("Authority edges", f"{s['edges']:,}",
+                 "statute → rule → policy, derived from the text, never hand-asserted"),
+            Tile("Agencies with policy", f"{s['agencies']}",
+                 "internal policy, procedure and standards where published"),
+        ],
+        sections=[
+            Section("Explore", f'    <div class="cards">\n{cards}\n    </div>'),
+            Section("What the edges mean", """
+    <ul class="plain">
+      <li><b>An edge is derived, not asserted.</b> A rule that names the statute it is
+        adopted under gets an <code>implements</code> edge; one that merely mentions a
+        statute does not. The distinction is the whole value of the graph.</li>
+      <li><b>A repealed or renumbered section is a disposition, not a gap.</b> This corpus
+        mines both from the statute book, so a citation that resolves to nothing can be
+        answered with why rather than with silence.</li>
+      <li><b>Interpretive work is labelled.</b> The conflict-candidate and
+        governor's-priorities views are explicitly curated readings offered for human
+        review, not findings.</li>
+    </ul>"""),
+            Section("For agents", """
+    <ul class="plain">
+      <li><b>MCP server</b> — tools: <code>search_corpus</code> (semantic + keyword),
+        <code>get_document</code>, <code>resolve_citation</code>,
+        <code>corpus_overview</code>, <code>graph_neighbors</code>,
+        <code>authority_chain</code>, <code>issuing_body_profile</code>.</li>
+      <li><b>Every document carries provenance</b> — source URL, retrieval date and a
+        content hash — and its full text is verified against the snapshot it came from.</li>
+    </ul>"""),
+        ],
+        footer_note=("Unofficial and non-authoritative; not affiliated with the State of "
+                     "Oregon."),
+        extra_files=[REPO / "viz" / fn for _, fn, _ in VIZZES],
+    ))
+    print(f"built site/ — {s['documents']:,} documents, {s['edges']:,} edges")
+    print(f"  corpus-index.json: {out['index']}")
+    missing = [c for c in out["copied"] if c.startswith("MISSING")]
+    print(f"  copied {len(out['copied']) - len(missing)} file(s)"
+          + (f"; {len(missing)} MISSING: {', '.join(missing)}" if missing else ""))
+    return 1 if missing else 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
