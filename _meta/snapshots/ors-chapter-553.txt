@@ -1,0 +1,1923 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+553 — Water Control Districts 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ WATER CONTROL DISTRICTS 
+
+   
+
+ WATER LAWS 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 553.010     Definitions 
+
+   
+
+ ORGANIZATION AND POWERS OF DISTRICT 
+
+   
+
+ 553.020     Creation of water
+control districts; purposes; limits 
+
+   
+
+ 553.035     Application of election
+laws 
+
+   
+
+ 553.070     Boundary change;
+consent 
+
+   
+
+ 553.090     Nature and powers of
+district 
+
+   
+
+ 553.095     Entry upon land; notice 
+
+   
+
+ 553.105     Districts coterminous
+with 1969 districts; abolishment of existing districts 
+
+   
+
+ 553.107     Effect of creation of districts
+under ORS 553.105 
+
+   
+
+ 553.110     Vested water rights;
+inclusion of land in district or assessment; consent 
+
+   
+
+ GOVERNING BODY 
+
+   
+
+ 553.210     Election of directors;
+qualifications; terms; vacancies; change in number of directors 
+
+   
+
+ 553.220     Organization meeting;
+officers; duties; meetings 
+
+   
+
+ 553.230     Powers and duties of
+board 
+
+   
+
+ 553.240     County court as
+governing body 
+
+   
+
+ 553.250     Authority to acquire
+and dispose of water works; sale of water 
+
+   
+
+ 553.270     Procedure on
+condemnation; property subject to and exempted from condemnation 
+
+   
+
+ 553.280     Undertaking prior to
+entry as part of condemnation proceedings 
+
+   
+
+ 553.290     Possession of land
+after commencement of proceedings 
+
+   
+
+ CONSTRUCTION OF WORKS IN
+SUBDISTRICTS; DETERMINATION OF BENEFITS 
+
+   
+
+ 553.310     Creation of
+subdistrict; change in subdistrict boundaries; procedure 
+
+   
+
+ 553.320     Engineering plan;
+notice of completion; inspection; hearing; changes in plan; approval; rejection
+upon objections of landowners 
+
+   
+
+ 553.330     Assessment for cost of
+works 
+
+   
+
+ 553.340     Determination of
+benefits; board of appraisers; exception 
+
+   
+
+ 553.350     Assessment of benefits
+and damages by appraisers; benefits less than costs; recommendation to amend
+engineering plan; final report and certificate 
+
+   
+
+ 553.360     Hearing on report of
+appraisers; exceptions; entry of order; appeal 
+
+   
+
+ 553.370     Reappraisal after
+construction of works; when authorized 
+
+   
+
+ 553.380     Reduction of benefits 
+
+   
+
+ ASSESSMENTS; CLAIMS; EQUALIZATION 
+
+   
+
+ 553.510     Special assessments 
+
+   
+
+ 553.520     Apportioning
+assessments; adjustment of benefits 
+
+   
+
+ 553.530     Disposition of funds
+received 
+
+   
+
+ 553.535     Collection of charges
+and assessments by resolution of board 
+
+   
+
+ 553.540     Assessments to be
+levied by order of board; filing copy thereof; notice; lien; time for payment;
+interest 
+
+   
+
+ 553.550     Loans; assignment of
+assessments as security for 
+
+   
+
+ 553.560     Foreclosure of
+assessment; procedure; district may bid and purchase; deed; right of redemption 
+
+   
+
+ 553.570     Withdrawal of land from
+foreclosure sale; payment of lien, taxes and proportion of costs 
+
+   
+
+ 553.580     Payment of state and
+county taxes by district 
+
+   
+
+ 553.585     Claims; presentation;
+payment 
+
+   
+
+ BONDS 
+
+   
+
+ 553.610     Assessments or taxes
+upon bond issue 
+
+   
+
+ 553.615     Assessments by order of
+board 
+
+   
+
+ 553.620     Ad valorem tax in lieu
+of assessment 
+
+   
+
+ 553.623     Filing boundary change
+with county assessor and Department of Revenue 
+
+   
+
+ 553.625     Levy and collection of
+tax authorized by ORS 553.620 
+
+   
+
+ 553.630     Terms and conditions of
+bonds; bond register 
+
+   
+
+ 553.635     Contract provisions for
+payment of government construction charges 
+
+   
+
+ 553.640     Sale of bonds;
+cancellation 
+
+   
+
+ 553.643     Bond given for federal loan;
+form; terms 
+
+   
+
+ 553.645     Payment from annual
+taxes and assessments of bond-related amounts due government 
+
+   
+
+ 553.650     Property liable for
+indebtedness of district 
+
+   
+
+ 553.655     Bond elections in
+subdistricts 
+
+   
+
+ 553.660     Tax or assessment as
+lien on property 
+
+   
+
+ 553.665     Bond Fund; Bond and
+United States Contract Fund; Construction Fund; General Fund 
+
+   
+
+ 553.670     Process for issuance of
+bonds 
+
+   
+
+ CONTRACTS WITH OTHER GOVERNMENTAL
+UNITS FOR CONSTRUCTION OF WORKS 
+
+   
+
+ 553.710     Intergovernmental
+agreements; levy of tax to meet obligations 
+
+   
+
+ 553.720     Manner of collecting
+tax; budget; equalizing levy 
+
+   
+
+ 553.730     Limitation on tax levy 
+
+   
+
+ 553.740     Issuance of warrants 
+
+   
+
+ 553.750     Loan contracts with
+state or federal agencies; obligation of district; recording certificates 
+
+   
+
+ 553.760     When land benefited by
+irrigation project 
+
+   
+
+ APPEALS 
+
+   
+
+ 553.815     Judicial review of tax
+or assessment 
+
+   
+
+ DISSOLUTION 
+
+   
+
+ 553.850     Dissolution upon
+majority vote 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       553.010
+Definitions. As
+used in this chapter, except where the context clearly indicates a different
+meaning: 
+
+       (1) “Board” means
+the board of directors of a water control district created under the provisions
+of this chapter. 
+
+       (2) “District”
+means a water control district created under this chapter. 
+
+       (3) “Court” means
+the county court having jurisdiction over a water control district and includes
+the board of county commissioners. 
+
+       (4) “Land” or “tract
+of land” means real property, together with improvements thereon, whether
+publicly or privately owned, within a district. 
+
+       (5) “Landowner,” “owner,”
+“owner of land” and “owner in fee” are synonymous and mean a person, public
+body as defined in ORS 174.109, or the federal government or any agency
+thereof, owning a tract of land situated within a district, or within the
+boundaries of a proposed district. The vendee named in a bona fide contract of
+sale of a tract of land situated within a district shall be considered as a
+landowner to the exclusion of the vendor. Whenever two or more persons own a
+tract of land as tenants in common or by entirety, each such person shall be
+regarded as a landowner. The guardian, administrator or executor authorized to
+act as such of a person or estate owning land within a district shall be
+considered a landowner. 
+
+       (6) “Works” means
+dams, storage reservoirs, canals, ditches, dikes, levees, revetments, and all
+other structures, facilities, improvements and property necessary or convenient
+for draining land, controlling flood or surface waters, or supplying lands with
+water for irrigation, domestic or other purposes. 
+
+       (7) “Notice by
+publication” means the giving of notice by publication in a newspaper defined
+as a legal publication under the laws of Oregon in each county in which lands
+within a district are located. A notice of a hearing to be held before the
+board of a district or the court shall be published once each week for four
+consecutive weeks making four publications and the last publication of such
+notice shall be at least 10 days before the date set for the hearing. All other
+notices required to be published under the provisions of this chapter shall be
+published once each week for two consecutive weeks making two publications, and
+the last publication shall be at least five days before the date of the event
+for which the notice is given. This subsection does not apply to provision of
+notice for an election. 
+
+       (8) “Engineering
+plan” means the plans and specifications for the works to be constructed or
+purchased within any subdistrict, including such maps, profiles, plans and
+other data as may be necessary to set forth the location, character of the
+work, the property benefited, taken or damaged, showing any and all rights of
+way or other property which may be required for the construction of any works,
+together with the estimates of the cost of the works and an estimate of the
+benefits and damages which will accrue to each tract of land within a
+subdistrict upon the construction or purchase of the works. A project work plan
+prepared for a subdistrict in cooperation with a soil and water conservation
+district may be adopted as the engineering plan, even though such project work
+plan is not the final construction plan, and does not give an estimate of the
+benefits and damages which will accrue to each tract. 
+
+       (9) “Apportion”
+means to determine the proportionate share of any assessment which is to be
+borne by a tract of land subject to assessment or to determine the
+proportionate share of any charge which is to be borne by the owner or occupant
+of a tract of land. The determination shall be made by calculating the
+percentage ratio of the appraised benefits of a tract of land to the total
+appraised benefits accruing to all tracts of land, or owners and occupants
+thereof, subject to the assessment or charge and allocating to the tracts of
+land, or owners and occupants, the same percentage of the total sum of money to
+be raised by the assessment or charge. 
+
+       (10) “New
+assessed valuation” means the assessed valuation of a tract of land as assessed
+by the county assessor for the county in which the land is located for the year
+in which an adjustment of benefits is made by a district. 
+
+       (11) “Original
+appraised benefits” means the benefits determined to accrue to a tract of land
+by an appraisal. 
+
+       (12) “Original
+assessed valuation” means the assessed valuation of a tract of land as assessed
+by the county assessor for the county in which the land is located for the year
+in which the original benefits were determined. 
+
+       (13) “Record”
+means to file a document for recording with the county clerk of each county in
+which the lands within a district or subdistrict are located. [Amended by 1961
+c.186 §4; 1965 c.623 §1; 1969 c.691 §1; 1983 c.83 §102; 1983 c.350 §307; 1991
+c.459 §430c; 2003 c.802 §138] 
+
+   
+
+ ORGANIZATION AND POWERS
+OF DISTRICT 
+
+   
+
+       553.020
+Creation of water control districts; purposes; limits. (1) Water control districts may be
+created as provided in this chapter for the purpose of acquiring, purchasing,
+constructing, improving, operating and maintaining drainage, irrigation, and
+flood and surface water control works in order to prevent damage and
+destruction of life and property by floods, to improve the agricultural and
+other uses of lands, and to improve the public health, welfare and safety. 
+
+       (2) A water
+control district, organized for one or more of the purposes provided by
+subsection (1) of this section, may also acquire, purchase, construct, improve,
+operate and maintain works and facilities for the secondary purposes of
+domestic, municipal and industrial water, recreation, wildlife, fish life and
+water quality enhancement. However, a water control district may not be created
+solely for one or more of the purposes provided by this subsection. [Amended by
+1969 c.691 §2] 
+
+   
+
+       553.030 [Amended by 1965 c.623 §2;
+repealed by 1971 c.727 §203] 
+
+   
+
+       553.035
+Application of election laws. 
+(1) ORS chapter 255 governs the following: 
+
+       (a) The
+nomination and election of directors of the district board. 
+
+       (b) The conduct
+of district elections. 
+
+       (2) The electors
+of a district may exercise the powers of the initiative and referendum
+regarding a district measure, in accordance with ORS 255.135 to 255.205. 
+
+       (3) A person may
+vote in a district election only if the person is an elector registered in the
+district. However, in any district in which there are no electors registered in
+the district and the property is used for business, industrial or farming purposes
+and is nonresidential in character, all owners of property located within the
+district may vote, and the authorized officer or representative of any
+corporation owning land in the district may vote for the corporation landowner.
+[1983 c.350 §311] 
+
+   
+
+       553.040 [Amended by 1965 c.623 §2a;
+repealed by 1971 c.727 §203] 
+
+   
+
+       553.050 [Repealed by 1971 c.727 §203] 
+
+   
+
+       553.060 [Amended by 1965 c.623 §3;
+repealed by 1971 c.727 §203] 
+
+   
+
+       553.065 [1965 c.623 §8a; 1969 c.691 §3;
+repealed by 1971 c.727 §203] 
+
+   
+
+       553.070
+Boundary change; consent. 
+If any contract has been entered into between the district and the United
+States or the State of Oregon or any agency of either of them, or if the
+district has contracted to purchase any existing works and the purchase price
+has not been paid in full, no change shall be made in the boundaries of the
+district without the written consent of such contracting agency or the vendor
+of such existing works. [Amended by 1965 c.623 §4; 1971 c.727 §170] 
+
+   
+
+       553.080 [Amended by 1959 c.71 §1; 1967
+c.609 §12; 1969 c.691 §3a; repealed by 1971 c.647 §149] 
+
+   
+
+       553.090 Nature
+and powers of district. 
+A water control district formed under the provisions of this chapter has full
+power to carry out the objects of its creation and to that end may: 
+
+       (1) Have and use
+a seal. 
+
+       (2) Have
+perpetual succession. 
+
+       (3) Sue and be
+sued in its own name. 
+
+       (4) Acquire by
+condemnation, purchase, devise, gift or voluntary grant real and personal
+property or any interest therein, located inside or outside of the boundaries
+of the district. 
+
+       (5) Enter into
+intergovernmental agreements under ORS chapter 190 for the construction,
+preservation, improvement, operation or maintenance of any works. 
+
+       (6) Build,
+construct, purchase, improve, operate and maintain, subject to other applicable
+provisions of law, all works and improvements necessary or desirable under any
+engineering plan adopted by the district. 
+
+       (7) Enter into
+contracts and employ agents, engineers and attorneys. 
+
+       (8) Appropriate
+and acquire water and water rights and sell, lease and deliver water for
+irrigation and other purposes both inside and outside the district. 
+
+       (9) Create
+special assessment districts, hereinafter referred to as subdistricts, for the
+purpose of levying assessments against lands benefited by works constructed by
+the district or ad valorem taxes on all taxable property within the
+subdistrict. 
+
+       (10) Levy
+assessments against lands benefited by works constructed by the district or, in
+lieu of all assessments provided for by ORS 553.510 (2), (3) and (4), levy ad
+valorem taxes on all taxable property within the subdistrict in order to
+provide funds for the construction, purchase, improvement, operation or
+maintenance of such works. 
+
+       (11) Borrow money
+and issue notes, bonds, and other indebtedness secured by mortgage liens,
+pledge of special assessments as provided in ORS 553.510, or pledge of other
+income or revenue of the district, or any combination thereof. 
+
+       (12) In addition
+to or in lieu of the levy of assessments against the lands of the district,
+impose and collect service charges upon the owners or occupants of the property
+served by the works of the district and impose and collect user charges, fees
+and tolls for use of the works, facilities and services of the district. 
+
+       (13) Do such
+other acts or things as may be necessary for the proper exercise of the powers
+herein granted. [Amended by 1965 c.623 §5; 1991 c.459 §430d; 2003 c.802 §139] 
+
+   
+
+       553.095 Entry
+upon land; notice. 
+The board of directors, its officers, agents or employees shall have the right
+to enter upon any land to make surveys for the purposes of the district, upon
+giving the owners of such land notice of any such surveys reasonably in advance
+thereof. [1965 c.623 §9] 
+
+   
+
+       553.100 [Repealed by 1975 c.326 §5] 
+
+   
+
+       553.105
+Districts coterminous with 1969 districts; abolishment of existing districts. (1) There hereby is created a
+water control district territorially coterminous with each water control
+district existing on June 16, 1969, if such district was at that time a valid
+district but for the fact that its electorate was restricted to property
+owners. In determining the boundaries of districts created by this subsection,
+full effect shall be given to annexations, withdrawals and consolidations
+effected by districts prior to June 16, 1969, under this chapter or other
+statutes authorizing or purporting to authorize such action. 
+
+       (2) Water control
+districts territorially coterminous with the districts created by subsection
+(1) of this section hereby are abolished. 
+
+       (3) Water control
+districts created by this section shall be governed by this chapter. [1969
+c.691 §16] 
+
+   
+
+       553.107 Effect
+of creation of districts under ORS 553.105. Each water control district created by ORS 553.105
+shall in all respects succeed to and replace the territorially coterminous
+water control district abolished by ORS 553.105. Without limiting the
+foregoing: 
+
+       (1) A successor
+district is: 
+
+       (a) The owner of
+the property of the succeeded district, including real property and funds on
+deposit with the county treasurer or banks. 
+
+       (b) Successor
+party to the contracts of the succeeded district. 
+
+       (c) Successor
+party to the court proceedings of the succeeded district. 
+
+       (d) Successor
+obligor on the indebtedness of the succeeded district. 
+
+       (2) The directors
+and officers of the succeeded district are the directors and officers of the
+successor district. Each director and officer shall hold office for a term
+equal to the term of office in the succeeded district. [1969 c.691 §17] 
+
+   
+
+       553.110 Vested
+water rights; inclusion of land in district or assessment; consent. (1) This chapter shall not be
+construed to affect, amend or repeal any other law of Oregon or to affect or
+impair the vested rights of any person or public body as defined in ORS
+174.109, to the use of water or rights in the use of water. 
+
+       (2) No lands
+located within the boundaries of any city, irrigation district or drainage
+district shall be included within the boundaries of a water control district
+without the consent of the city or district. 
+
+       (3) No lands
+publicly owned and no lands of any railroad, public utility or
+telecommunications utility shall be assessed without the consent of the owner
+thereof. [Amended by 1987 c.447 §133; 2003 c.802 §140] 
+
+   
+
+ GOVERNING BODY 
+
+   
+
+       553.210
+Election of directors; qualifications; terms; vacancies; change in number of
+directors. (1) The
+electors of a district shall elect a board of directors whose number shall be
+fixed at five, seven or nine by the county court during formation proceedings.
+Directors shall be owners of land within the district and subject to the
+current charges and assessments of the district. The directors need not reside
+within the district. 
+
+       (2) Each director
+shall be elected for a term of four years, commencing July 1, except the
+directors elected at the first election immediately following creation of the
+district. The directors first elected shall determine their terms by lot as
+follows: 
+
+       (a) If there are
+nine directors, the terms of four shall expire June 30 next following the first
+regular district election and the terms of five shall expire June 30 next
+following the second regular district election. 
+
+       (b) If there are
+seven directors, the terms of three shall expire June 30 next following the
+first regular district election and the terms of four shall expire on June 30
+next following the second regular district election. 
+
+       (c) If there are
+five directors, the terms of two shall expire June 30 next following the first
+regular district election and the terms of three shall expire June 30 next
+following the second regular district election. 
+
+       (3) The board of
+directors shall fill any vacancy on the board as provided in ORS 198.320. 
+
+       (4) The board of
+directors or 10 or more landowners may petition the county court to change the
+number of directors on the board of directors. If the court acts favorably on
+the petition, it shall enter an order which designates the terms of office of
+the five, seven or nine directors in general accordance with the provisions of
+this section so that the number remaining on the board will be divided into two
+equal or approximately equal groups as to terms. The change in the number of
+board members shall take place on July 1 next following the order. [Amended by
+1961 c.186 §5; 1965 c.623 §6; 1969 c.669 §15; 1969 c.691 §§4,18; 1971 c.647 §120;
+1971 c.727 §171; 1971 c.727 §198; 1973 c.796 §70; 1975 c.647 §46; 1983 c.350 §308;
+2001 c.264 §1] 
+
+   
+
+       553.220
+Organization meeting; officers; duties; meetings. As soon as possible after an
+election of directors, the directors shall meet for the purpose of qualifying
+all persons elected as directors and for the purpose of electing officers of
+the district. Each director shall qualify by subscribing to an oath of office.
+The directors shall elect from their number a president and vice president and
+shall appoint a secretary-treasurer. Such officers shall have such authority
+and duties as may be given to them by the board. The board shall hold such
+meetings as may be necessary or convenient. [Amended by 1971 c.403 §12] 
+
+   
+
+       553.230 Powers
+and duties of board. 
+The board shall: 
+
+       (1) Manage and
+conduct the affairs of the district. 
+
+       (2) Adopt a seal. 
+
+       (3) Make and
+execute all necessary contracts. 
+
+       (4) Employ and
+appoint such agents, officers and employees as may be required, and prescribe
+their duties and fix their compensation. 
+
+       (5) Establish
+reasonable rules and regulations for the administration of the affairs of the
+district. 
+
+       (6) Withhold
+deliveries of water to lands upon which there are delinquent charges or
+assessments. 
+
+       (7) Impose
+charges or levy assessments for special benefits and apportion the same among
+the lands, or owners or occupants of the lands, within the district liable
+therefor as provided in this chapter. 
+
+       (8) Acquire water
+rights for the purposes of the district or subdistrict and the lands served
+thereby. 
+
+       (9) Establish and
+maintain funds and accounts for the funds of the district and of any
+subdistrict within the district. 
+
+       (10) Obtain an
+annual audit of the books of the district. 
+
+       (11) Fix the
+location of the principal office of the district at some convenient place
+within or without the district. 
+
+       (12) Keep a
+record of all of the proceedings of the board. 
+
+       (13) Furnish a
+record book to the county clerk of each county in which lands within the
+district are located, in which shall be recorded all contracts, orders levying
+assessments and creating subdistricts, and other documents required by law to
+be recorded. 
+
+       (14) Levy special
+assessments as provided in ORS 553.510 and set charges, fees and tolls for use
+of services and facilities made available by the district or subdistrict. 
+
+       (15) Issue notes,
+bonds and other evidence of indebtedness incurred in connection with the
+construction, acquisition, improvement, or operation and maintenance of works
+authorized by this chapter. [Amended by 1965 c.623 §7; 1969 c.345 §16; 1991
+c.459 §430e] 
+
+   
+
+       553.240 County
+court as governing body. 
+(1) The county court may be established as the governing body of a water
+control district as provided by this section if the boundaries of the district
+are coterminous with the boundaries of the county. 
+
+       (2) At the
+election of the first governing body of a water control district, the electors
+of the district shall choose either the county court or a board of directors to
+be the governing body of the district. The electors of the district also shall
+vote for directors, who shall take office if the electors choose to have a
+board of directors as the governing body. 
+
+       (3) If a majority
+of the votes cast at the election favors the county court as the governing body
+of the district, all duties, functions and powers granted to a board of
+directors of a water control district are vested in the county court. The
+county court shall be the governing body of the water control district until
+the district is dissolved. [1957 c.606 §2; 1971 c.647 §121; 1971 c.727 §174;
+1971 c.727 §199; 1983 c.350 §309] 
+
+   
+
+       553.250
+Authority to acquire and dispose of water works; sale of water. (1) Notwithstanding any other
+provisions of this chapter, any water control district, whenever it appears
+necessary, proper or beneficial to its inhabitants, may acquire, construct,
+reconstruct, equip, own, maintain, operate, sell, lease and dispose of domestic,
+industrial and municipal water works or systems and property and all
+appurtenances incident thereto. 
+
+       (2) Any such
+water control district may furnish water for domestic, industrial and municipal
+uses to premises and inhabitants within its district, and in connection
+therewith, may supply, furnish and sell any surplus water storage or carrying
+capacity over and above the domestic, industrial and municipal needs of its
+inhabitants to persons and other public bodies as defined in ORS 174.109,
+either within or without the district; provided, however, that the power to
+furnish water for domestic, industrial and municipal uses herein conferred will
+not be exercised in such a manner as to impair the service of the district in
+furnishing water for its inhabitants. [1963 c.363 §2; 2003 c.802 §141] 
+
+   
+
+       553.260 [1963 c.363 §3; repealed by 1969
+c.691 §13] 
+
+   
+
+       553.270
+Procedure on condemnation; property subject to and exempted from condemnation. The right to condemn property,
+given pursuant to ORS 553.090 (4) shall include property already devoted to
+public use, including state and county property, which is less necessary than
+the use for which it is required by the district. In the acquisition of
+property or rights by condemnation, the board shall proceed in the name of the
+district under the provisions of the laws of Oregon. However, the right of
+condemnation may not be exercised against the lands or water rights of an
+irrigation district organized under ORS chapter 545, a drainage district
+organized under ORS chapter 547, a diking district organized under ORS chapter
+551, a water improvement district organized under ORS chapter 552, a
+corporation for the use and control of water organized under ORS chapter 554 or
+a domestic water supply district organized under ORS chapter 264, or against
+property of the State of Oregon used for highway purposes. [1965 c.623 §10;
+1983 c.740 §217; 2021 c.97 §66] 
+
+   
+
+       553.280
+Undertaking prior to entry as part of condemnation proceedings. Prior to any party, officer or
+agent of a water control district entering upon any land sought to be
+condemned, there shall be furnished to the landowner a sufficient undertaking,
+either by surety bond, personal bond, cash or other security, in an amount
+sufficient to indemnify the landowner for the value of the land sought to be
+condemned, together with all costs and attorney fees to which the landowner may
+be entitled. This undertaking shall be conditioned that the district seeking to
+condemn the land shall pay to the owner all damages, costs and attorney fees
+that the owner may suffer by reason of the entry, or which may be awarded to
+the owner by a jury upon a trial of the cause. [1965 c.623 §11] 
+
+   
+
+       553.290
+Possession of land after commencement of proceedings. At any time after the board of
+directors of a water control district has commenced proceedings to acquire
+title to any land necessary for rights of way, or for construction, alteration,
+repair or reservoir purposes, the district may enter into possession of such
+lands and begin such work as may be necessary to the development of the
+district. [1965 c.623 §12] 
+
+   
+
+ CONSTRUCTION OF WORKS
+IN SUBDISTRICTS; DETERMINATION OF BENEFITS 
+
+   
+
+       553.310
+Creation of subdistrict; change in subdistrict boundaries; procedure. (1) Whenever the owners of more
+than 50 percent of the acreage, exclusive of state and federally owned land, in
+a body of land located within a district desire to have the district undertake
+the construction or purchase of works and facilities for purposes as set forth
+in ORS 553.020 which will benefit their lands, they shall petition the board
+for the creation of a subdistrict. The petition shall state the boundaries
+proposed for the subdistrict; the name and address of each person signing the
+petition; a brief general statement as to the works the petitioners desire to
+have constructed or purchased; and a prayer asking that the lands described be
+organized as a subdistrict. The description of the boundaries of the proposed
+subdistrict shall be certified to as a complete and sufficient legal
+description by a qualified engineer or land surveyor and such certificate shall
+be filed with the board at the time the petition is filed. The petition shall
+be considered by the board at its next meeting, and if it meets with the
+approval of the board, the board shall adopt an order creating the subdistrict
+in which shall be described the boundaries of the subdistrict. A subdistrict
+may include all or any part of the lands within a district. A copy of the order
+shall be recorded in each county in which lands within the subdistrict are
+located. 
+
+       (2)
+Notwithstanding subsection (1) of this section, a subdistrict created under
+provisions of this chapter can be formed in the formation proceedings if: 
+
+       (a) The petition
+for formation states the purposes for which the petitioners request formation
+of both the district and subdistrict; 
+
+       (b) The
+boundaries of both the district and subdistrict are coterminous; 
+
+       (c) The
+description of the boundaries of the proposed subdistrict are certified as to
+complete and sufficient legal description by a qualified engineer or surveyor;
+and 
+
+       (d) Owners of
+more than 50 percent of the acreage of the land in the proposed district and
+subdistrict sign the petition to form the water control district and
+subdistrict. 
+
+       (3) After the
+creation of a subdistrict as provided by this chapter, the boundaries thereof
+may be changed by the inclusion of lands outside of the subdistrict upon the
+petition of the owners of 50 percent of the lands desiring to be included in
+the subdistrict. The lands to be added to the subdistrict must be within the
+boundaries of the district. The petition shall state the boundaries of the
+lands to be included in the subdistrict, the reason for adding the lands to the
+subdistrict, the names and addresses of each person signing the petition and a
+prayer asking that the lands described by the petition be annexed to the
+subdistrict. The petition shall be filed with the board of directors. A
+certificate containing a description of the boundaries of the subdistrict after
+the proposed addition, certified to as a complete and sufficient legal
+description of the subdistrict after the proposed annexation by a certified
+engineer or land surveyor, shall be filed with the board at the time the
+petition is filed. The board of directors shall enter an order fixing a time
+and place for a hearing on the petition and shall either give notice by
+publication of the hearing or a notice by mail to all landowners within the
+boundaries of the lands proposed for inclusion in the subdistrict. At the
+hearing or at any time and place to which the hearing may be adjourned, the
+board shall determine what lands proposed to be included within the subdistrict
+will be benefited by inclusion in the subdistrict, and the new boundaries of the
+subdistrict shall be described by the order. [Amended by 1961 c.186 §6; 1969
+c.691 §5; 1971 c.727 §172; 2001 c.258 §1] 
+
+   
+
+       553.320
+Engineering plan; notice of completion; inspection; hearing; changes in plan;
+approval; rejection upon objections of landowners. After the creation of a
+subdistrict, the board shall secure an engineering plan for the improvements
+requested in the petition for the creation of the subdistrict. The board may
+adopt as an engineering plan for a subdistrict any plans theretofore made by
+any department or agency of the federal government or the State of Oregon or a
+project work plan proposed for any soil and water conservation district in
+which lands within the subdistrict are located, or the board may employ a
+qualified engineer to make such engineering plan. Upon completion of the plan
+the board shall cause notice thereof to be given to the owners of the tracts of
+land within the subdistrict and shall permit the inspection of the plan at the
+office of the subdistrict by all landowners. The notice may be given by mail or
+by publication, as may be determined by the board. The notice shall fix a time
+and place for a hearing before the board of all objections to the plan, which
+hearing shall be held not less than 20 nor more than 30 days after the date of
+mailing or the date of the last publication of the notice. At the hearing the
+board shall make such changes in the engineering plan as it deems necessary in
+the light of any objections or suggestions made by any person appearing at the
+hearing. After the hearing, the board shall approve the plan as corrected or
+changed, by adopting an order of approval. However, if the owners of more than
+50 percent of the lands within the subdistrict file written objections to the
+order approving the engineering plan with the secretary of the district within
+15 days after the date of such order, no further action shall be taken under
+the order and the plan shall be considered to have been rejected by the
+landowners. Whenever an engineering plan for a subdistrict is so rejected by
+the landowners the board may obtain a new engineering plan and present it to
+the landowners in the manner above provided or the board may dissolve the
+subdistrict. [Amended by 1961 c.186 §7] 
+
+   
+
+       553.330
+Assessment for cost of works. 
+The cost of building, constructing, purchasing, operating, maintaining and
+improving the works described in an engineering plan for a subdistrict shall be
+charged to the owners of the lands, or assessed against the lands, to be
+benefited by the works in proportion to the benefits to be received by each
+tract of land. Only the lands or owners within a subdistrict shall be liable
+for, charged with or in any manner assessed or taxed for the payment of
+judgments, claims, damages, costs, expenses, debts or other liabilities of or
+against a district that accrue from, arise out of or are incurred in the
+building, constructing, purchasing, operating, maintaining or improving the
+works of such subdistrict. [Amended by 1991 c.459 §430f] 
+
+   
+
+       553.340
+Determination of benefits; board of appraisers; exception. (1) The board, with such
+assistance as it deems necessary, shall prepare a benefit roll and determine
+the benefits that will accrue to each tract of land located within a
+subdistrict upon the construction of the works described in the engineering
+plan for the subdistrict. After such determination is made each landowner shall
+be given written notice thereof by registered mail or by certified mail with
+return receipt. If the landowner does not file written objections thereto
+within 30 days of the date the notice is mailed, the landowner shall be deemed
+to have consented to the allocation of benefits to the lands of the landowner.
+If a landowner files objections within 30 days, the determination of the
+benefits that will accrue to the lands of the landowner shall be referred to a
+board of appraisers. A board of three appraisers shall be appointed by the
+court, upon the petition of the board of directors, whenever one or more
+landowners within the subdistrict files an objection. Each of the appraisers
+shall, before assuming duties, take and subscribe to an oath that the appraiser
+will faithfully and impartially discharge duties as an appraiser and will make
+a true report of all work done by the appraiser. The court may, by order,
+remove any appraiser at any time and shall fill all vacancies on the board of
+appraisers or may appoint a new board as the case may require. The appraisers
+shall receive such compensation as the board of directors, with the approval of
+the court, determines, and shall be reimbursed for the expenses they incur in
+the exercise of their duties. 
+
+       (2) Subsection
+(1) of this section shall not apply if the benefits to be determined are set
+forth in an irrigation project contract which has been executed by the owner
+pursuant to ORS 553.760. [Amended by 1969 c.691 §6; 1991 c.249 §56] 
+
+   
+
+       553.350
+Assessment of benefits and damages by appraisers; benefits less than costs;
+recommendation to amend engineering plan; final report and certificate. (1) The appraisers shall assess
+the amount of benefits and the amount of damages, if any, that will accrue to
+each tract of land which they are directed by the board of directors to
+appraise, and shall determine the value of any lands to be acquired and used
+for rights of way and other purposes by the subdistrict. The appraisers shall
+determine the benefits to the lands themselves and to any buildings and other
+structures erected on such lands. The appraisers shall take into consideration
+the agricultural or other uses of such lands, the increase in value thereof
+upon the completion of the proposed works, and the increased income which will
+be derived from the lands upon the construction of the works. In making their
+appraisal, the appraisers shall give due consideration and credit to any works
+that have already been constructed and which benefit any tract of land they are
+appraising. The appraisers shall have no power to change the engineering plan. 
+
+       (2) Whenever it
+appears to the appraisers that the benefits to all the lands within the
+subdistrict will be less in value than the cost of the proposed works, the
+appraisers shall file a preliminary report of their work with the board of
+directors and recommend to the board that the engineering plan be amended so
+that the proposed works can be constructed at a cost less than the benefits to
+be derived therefrom. If the board obtains an amended engineering plan, the
+appraisers shall proceed with their work. 
+
+       (3) Upon
+completing their work, the appraisers shall file a final report with the court
+and certify that the appraisal has been completed and that there is nothing
+further for them to do in regard to the matter. 
+
+   
+
+       553.360
+Hearing on report of appraisers; exceptions; entry of order; appeal. (1) After the filing of the report
+of the appraisers, the court shall enter an order fixing the time and place for
+a hearing on the report and directing the secretary of the district to give
+notice of the hearing by publication. The notice shall contain a description of
+each tract of land appraised, together with the names of the owners, if known,
+and shall state that the appraisers appointed to assess the benefits and
+damages to the lands described and to appraise the cash value of the lands
+necessary to be taken for rights of way and other works within or without the
+limits of the subdistrict, have filed their report with the court and that the
+owner of each tract of land included therein is given notice that the owner may
+examine the report and file objections to the report or to any determination of
+benefits or damages on or before the date set for the hearing. 
+
+       (2) The district
+or any person owning or having any interest in the lands described, or the
+owner of any tract of land within the subdistrict for which the appraisals were
+made, may file exceptions to the report of the appraisers or to any
+determination of benefits or damages determined to accrue to lands upon the
+construction of the proposed works or to the determination of the cash value of
+the lands necessary to be taken for rights of way or other works. 
+
+       (3) The court
+shall hear all objections and make such amendments and modifications to the
+report of the appraisers as to the court may seem equitable. Upon the
+conclusion of the hearing the court shall enter its order in which shall be
+given the description of each tract of land appraised, the value of the
+benefits and damages which the court determines will accrue to each tract, and
+the value of lands necessary to be taken for rights of way and other works. 
+
+       (4) Any party
+interested may take an appeal from such order in the manner set forth in ORS
+553.815. The order shall be filed in the office of the county clerk of the
+county in which the court is situated, and a certified copy of the order shall
+be filed with the county clerk of each other county in which lands within the
+subdistrict are located. [Amended by 1969 c.691 §7] 
+
+   
+
+       553.370
+Reappraisal after construction of works; when authorized. In the event that it is
+determined, after the construction of any works within a subdistrict, that any
+lands within the subdistrict are benefited and the benefits accruing to such
+lands were not determined by the board or by appraisal or the benefits determined
+by the board are less than the benefits actually accruing to the property, or
+in case any person makes use of or profits by the works within any subdistrict
+to a degree not compensated for in the original determination of benefits by
+the board or by appraisal, or in case the directors of the district find it
+necessary to take or damage any additional property, the directors shall
+petition the court for appointment of a board of appraisers to appraise or
+reassess the benefits accruing to any tract of land within the subdistrict or
+to appraise the damages to or value of any property taken. After the appraisers
+file their report, the court shall act thereon in the manner provided for the
+approval by the court of the original appraisal. 
+
+   
+
+       553.380
+Reduction of benefits. 
+In the event that it is determined after the construction of any works within a
+subdistrict that the benefits received by any tract of land are materially less
+than the appraised benefits, the board may, upon the petition of any owner of a
+tract of land, hold a hearing on the question of whether the benefits should be
+reduced. The board shall give notice by mail 30 days prior to such hearing to
+all other owners of land within the subdistrict. After hearing evidence for and
+against the reduction of benefits assessed against the tract of land in
+question, the board shall make an order reducing the amount of assessed
+benefits or dismissing the petition. 
+
+   
+
+ ASSESSMENTS; CLAIMS;
+EQUALIZATION 
+
+   
+
+       553.510
+Special assessments. 
+In order to raise the funds required by a district for the construction,
+purchase, operation, maintenance and improvement of works and facilities for
+purposes set forth in ORS 553.020 in any subdistrict, and in order to pay the
+general overhead and other expenses of a district which are not chargeable
+directly to any subdistrict, the lands benefited by any or all of such types of
+works and by the operation of the district shall be subject to special
+assessments of the following classes: 
+
+       (1) A preliminary
+assessment, which shall be levied for the purpose of defraying the expenses
+incurred by the district for organization of the district, for organization of
+subdistricts, and for defraying overhead costs and other expenses including
+purchases of rights of way, acquisition of land and payment of fees and
+services as may be incurred by the district prior to the time that construction
+assessments are levied or a tax is levied. A preliminary assessment shall be
+apportioned on the basis of the assessed valuation of property in the district.
+A preliminary assessment shall be not more than five-hundredths of one percent
+(0.0005) of the real market value of all taxable property within the district
+computed in accordance with ORS 308.207. No district shall levy a preliminary
+assessment for more than three years. 
+
+       (2) A
+construction assessment, which shall be levied for the purpose of defraying the
+cost of constructing or purchasing the works in each subdistrict. The
+construction assessment shall be levied as soon as the board is able to
+determine the probable cost of constructing or purchasing the works described
+in the engineering plan for a subdistrict or a construction assessment may be
+levied for the construction or purchase of works in accordance with any loan
+agreement with the government of the United States or the State of Oregon for
+money to be used in the construction or purchase of such works or in accordance
+with a purchase agreement entered into with the seller of such works. All
+construction assessments shall be paid in 10 equal annual installments and
+shall bear interest at a rate not to exceed six percent per annum until paid
+from the date the first installment of the assessment is due. Any landowner may
+make advance payments on the construction assessment levied against the lands
+of the landowner. The board may, in its discretion, decrease the amount of any
+annual installment and spread the payment of the construction assessment over a
+period longer than 10 years. Such decrease shall apply uniformly to all lands
+within the subdistrict. Whenever the board determines that the original
+construction assessment is not in an amount sufficient to pay the cost of
+constructing or purchasing the works described in the engineering plan for the
+subdistrict, the board shall assess a second construction assessment. 
+
+       (3) A maintenance
+and operation assessment, which shall be levied for the purpose of defraying
+the cost of maintaining and operating the works constructed within any
+subdistrict. On or before November 1 of each year the board shall determine the
+probable cost of maintaining and operating the works within each subdistrict
+during the ensuing calendar year. 
+
+       (4) An
+improvement assessment, which shall be levied for the purpose of defraying the
+cost of making improvements within a subdistrict. On or before November 1 of
+each year the board shall determine the probable cost of making any necessary
+improvements to any completed works within each subdistrict. No improvement
+assessment levied in any one year shall be greater in amount than one percent
+of all construction assessments levied against the same tract of land. In case
+of an emergency the board may, upon the approval of the owners of over half of
+the lands affected, levy, assess and collect a special improvement assessment.
+The board may, in its discretion, levy an improvement assessment within the
+limitations above provided in order to accumulate a fund to make improvements
+in future years. [Amended by 1959 c.605 §1; 1961 c.186 §8; 1965 c.623 §13; 1969
+c.691 §8; 1991 c.459 §431] 
+
+   
+
+       553.520
+Apportioning assessments; adjustment of benefits. (1) After determining the sum of
+money to be raised by any assessment, except a preliminary assessment, the
+board shall apportion the same among the lands liable therefor. Benefits used
+as a basis for apportioning maintenance and operation assessments and
+improvement assessments, except assessments levied for the operation,
+maintenance and improvement of irrigation works, may be adjusted from year to
+year in such manner that the adjusted benefits are in the same proportion to
+the new assessed valuation of the tract of land as the original appraised
+benefits are in proportion to the original appraised benefits plus the original
+assessed valuation of such tract of land. 
+
+       (2) Adjusted
+benefits shall be made the basis for apportioning the maintenance and operation
+assessments and the improvement assessment, and shall not be used as a basis
+for apportioning construction assessments or preliminary assessments. Benefits
+determined to be accruing to lands upon the construction of irrigation works
+shall not be adjusted in any manner. 
+
+   
+
+       553.530
+Disposition of funds received. 
+(1) All sums of money received by a district in payment of any assessment shall
+be kept in a separate fund for each subdistrict from which the assessment is
+collected. All funds remaining unexpended in any construction fund after the
+payment of all costs incurred for the construction of works in any subdistrict
+shall be paid into the improvement fund for such subdistrict, and any funds
+remaining on hand in any maintenance and operation fund for any year for any
+subdistrict shall likewise be paid into the improvement fund of that
+subdistrict. 
+
+       (2) The district
+shall maintain a general fund in which shall be kept all funds received by the
+district for paying the general overhead and other expenses of the district.
+The district shall pay into the general fund such portion of each of the
+special assessments levied against lands within subdistricts as is necessary to
+pay the general expenses and overhead of the district. 
+
+   
+
+       553.535
+Collection of charges and assessments by resolution of board. (1) In lieu of the provisions and
+methods contained in ORS 553.535 to 553.580, the board of directors of a
+district may provide by resolution for the billing and collection of the
+charges or assessments of the district in the manner provided under ORS 545.482
+to 545.508 for irrigation districts. 
+
+       (2) A resolution
+adopted under this section may apply to any or all of the assessments provided
+for under ORS 553.510, including but not limited to all charges or assessments
+for operation and maintenance, repairs, bond or interest payments, payments due
+or to become due to the United States under any contract of the district with
+the United States or other expenses of the district. 
+
+       (3) Where in ORS
+545.482, 545.484 and 545.508, the board or an officer of an irrigation district
+is referred to, the corresponding board or officer of a water control district
+shall perform the required actions. [1991 c.459 §431b] 
+
+   
+
+       553.540
+Assessments to be levied by order of board; filing copy thereof; notice; lien;
+time for payment; interest. 
+(1) All assessments shall be levied by an order of the board. The order shall
+state the description of the land assessed, the name of the owner of the land
+as such name appears on the records of the district, or the records of the
+county assessor, the type and kind of assessment, the amount of the assessment
+due, and the due date. It shall not be necessary to issue a separate order for
+each tract of land in a subdistrict, and any number of tracts in the same
+subdistrict and the same county may be included in one order. A copy of the
+order levying an assessment, certified and acknowledged by the secretary of the
+district, shall be filed with the county clerk of the county in which the land
+is located. Upon being filed, the assessment shall constitute a lien against
+the land assessed, prior in time to any other liens, rights or interests in the
+tracts of land described except liens for taxes levied by the state or county. 
+
+       (2) Notice of all
+assessments levied by a district shall be given to the landowner by mail and
+shall be payable on the 30th day after such notice is mailed. All assessments
+paid after the due date shall be charged interest at the rate of not more than
+12 percent per annum. All assessments shall be paid to the secretary-treasurer
+of the district and a receipt shall be issued therefor. From time to time the
+board shall order the satisfaction of the liens against lands on which
+assessments have been paid, and a copy of such order shall be filed with the
+county clerk of the county in which the lands are located. [Amended by 1961
+c.186 §9; 1981 c.122 §1] 
+
+   
+
+       553.550 Loans;
+assignment of assessments as security for. A district may borrow money and secure repayment of
+the same by the assignment of any assessments theretofore levied. Whenever a
+levied assessment is assigned to secure the repayment of any sum of money
+borrowed, the assessment shall be paid to the assignee thereof or the agent of
+the assignee. 
+
+   
+
+       553.560
+Foreclosure of assessment; procedure; district may bid and purchase; deed;
+right of redemption. 
+(1) After the date fixed as the time when an assessment shall become due, the
+board, by resolution, shall direct that all delinquent assessments then unpaid,
+whether for operation and maintenance, improvement, construction, or other
+purposes, shall be foreclosed by the district. Such foreclosure shall follow
+the general procedures of a suit in equity and shall be filed in the circuit
+court of the county in which the land to be foreclosed is situated. If land in
+two or more counties is to be foreclosed, separate proceedings shall be
+commenced in each county as to the lands therein. The district may recover in
+such suit the costs and disbursements and other expenses of foreclosure. Any
+number of tracts of lands, whether they are delinquent for the same or any
+number of assessments or for the same or several years, may be foreclosed in
+the same suit. The court may award reasonable attorney fees to the district if
+the district prevails in a foreclosure action under this section. The court may
+award reasonable attorney fees to a defendant who prevails in a foreclosure
+action under this section if the court determines that the district had no
+objectively reasonable basis for asserting the claim or no reasonable basis for
+appealing an adverse decision of the trial court. 
+
+       (2) The judgment
+in such suit shall order the sale of such property and fix the time for holding
+the sale, which shall be not more than four weeks from the date of the
+judgment, and shall order the sheriff of the county to hold the same as other
+foreclosure sales, upon giving notice thereof for two consecutive weeks prior
+to the day of sale, by publication of notice once each week in a newspaper
+published in the county in which the land to be sold is situated and by posting
+notices in three public and conspicuous places in the county at least two weeks
+prior to the day of sale. 
+
+       (3) The district
+may be a bidder and purchaser of property upon such sale. Upon such sale the
+sheriff immediately shall issue a deed to the property sold, and no right of
+redemption shall exist. [Amended by 1981 c.897 §64; 1995 c.696 §30; 2003 c.576 §520] 
+
+   
+
+       553.570
+Withdrawal of land from foreclosure sale; payment of lien, taxes and proportion
+of costs. At any
+time prior to sale or at the time of sale as provided by ORS 553.560, the
+former owner, assessment payer or holder of legal or equitable title or lien
+upon or to any tract of land included in the foreclosure and judgment may pay
+the amount of the lien foreclosed, together with such amount of state and
+county taxes as the district may have paid and a proportionate amount of the
+costs incurred in such foreclosure proceedings, and withdraw the tract of land
+from the foreclosure sale. If made prior to the judgment, the payment shall be
+tendered to the clerk of the court, together with a written appearance in the
+suit. If made after the judgment is entered, the payment shall be tendered to
+the sheriff ordered to hold the sale. If payment is made before judgment, the
+tract of land then shall be excluded from the foreclosure proceedings. If
+payment is made after judgment, the district shall issue satisfaction of lien
+to such former owner, assessment payer or holder of equitable or legal title
+upon the tract of land and file the same for record. [Amended by 2003 c.576 §521] 
+
+   
+
+       553.580
+Payment of state and county taxes by district. At any time after any assessment
+levied under this chapter becomes delinquent, the district may pay any state
+and county taxes due or delinquent against such tracts of land as are
+delinquent in the payment of the district assessment, and add such amount to
+and foreclose the same as part of the lien of the district against such tracts
+of land. 
+
+   
+
+       553.585
+Claims; presentation; payment. 
+All claims against the district shall be presented to the district board for
+allowance or rejection. Upon allowance, the claim shall be attached to a
+voucher verified by the claimant or agent of the claimant, approved by the
+president of the board and countersigned by the secretary, and directed to the
+treasurer of the district for the issuance of a check for payment of the claim
+against the proper fund in the custody of the district. Each claim presented
+and approved by the board shall have indorsed upon it the particular fund from
+which it is to be paid by the treasurer. Claims against the district for
+administrative expense and for any costs or expenses which are not properly
+chargeable directly to a particular subdistrict shall, when allowed by the district
+board, be paid from the general fund of the district. [Formerly 553.590] 
+
+   
+
+       553.590 [Renumbered 553.585] 
+
+   
+
+       553.592 [1965 c.623 §42; repealed by 1991
+c.459 §431c] 
+
+   
+
+       553.595 [1965 c.623 §43; repealed by 1991
+c.459 §431c] 
+
+   
+
+       553.600 [1965 c.623 §44; repealed by 1991
+c.459 §431c] 
+
+   
+
+ BONDS 
+
+   
+
+       553.610 Assessments
+or taxes upon bond issue. 
+Any water control district issuing bonds may, after an affirmative vote at any
+regular or special election called or held pursuant to the Water Control
+District Act, proceed to levy and collect assessments or ad valorem taxes as
+provided in subsections (1) and (2) of this section. 
+
+       (1) A water
+control district may proceed to levy and collect assessments for any purposes
+of the water control district on a benefited basis as provided in ORS 553.330
+and as determined under ORS 553.340 to 553.380. However, no change in method of
+assessment shall be made except with the consent of the holders of outstanding
+bonds. 
+
+       (2) In lieu of
+the provisions of subsection (1) of this section and not in addition thereto, a
+water control district may proceed to levy an ad valorem tax for the purpose of
+paying the principal and interest on bonded indebtedness when it becomes due. [1965
+c.623 §14a] 
+
+   
+
+       553.615
+Assessments by order of board. 
+In lieu of the provisions contained in ORS 553.535 to 553.580, a district may
+levy any one or all of the assessments provided in this chapter by an order of
+the board. The order shall state the description of the land assessed, the name
+of the owner of the land as such description and name appears on the records of
+the county assessor, the type and kind of assessment, the amount of the
+assessment due, which shall be certified by the board not later than July 15 of
+each year to the county assessor of each county in which lands of the district
+are situated. The county assessor shall enter the assessment upon the county
+assessor’s roll against the property therein described, in the same manner as
+other municipal taxes are entered by the county assessor. The collection of the
+assessment shall be coincident with collection of the state and county tax, and
+shall be governed by the laws relating thereto. [1965 c.623 §15] 
+
+   
+
+       553.620 Ad
+valorem tax in lieu of assessment. 
+(1) A water control district may, in lieu of any or all of the assessments
+provided in this chapter, levy an ad valorem tax upon all taxable property
+situated within the boundaries of the district or subdistricts for a purpose or
+purposes expressed therein. A levy of an ad valorem tax for a given purpose
+shall not be in addition to any other assessments by a water control district
+for that purpose. 
+
+       (2) As used in
+this section, “purpose” means the type of service to be performed by the
+district, or subdistrict, as set forth in ORS 553.020 (1) and (2). When the
+construction of an improvement serves more than one purpose, the cost of
+construction or the cost of maintenance shall be allocated between the two or
+more purposes on the basis of engineering studies. [1965 c.623 §16; 1969 c.691 §9] 
+
+   
+
+       553.623 Filing
+boundary change with county assessor and Department of Revenue. For purposes of ad valorem
+taxation, a boundary change must be filed in final approved form with the
+county assessor and the Department of Revenue as provided in ORS 308.225. [2001
+c.138 §46] 
+
+   
+
+       553.625 Levy
+and collection of tax authorized by ORS 553.620. The ad valorem tax provided for in
+ORS 553.620 shall be levied and collected in the manner otherwise provided by
+law for the levy and collection of real property taxes. The board shall prepare
+a budget in the form, manner and time prescribed in ORS 294.305 to 294.565 (the
+Local Budget Law), for the district and for each subdistrict for which taxes
+are to be levied and assessed, and in accordance therewith shall fix the amount
+of money to be raised by taxation for the district and for each subdistrict. Thereafter
+the levy shall be equalized and the tax collected and turned over to the
+district as otherwise provided by law for public corporations. [1965 c.623 §17] 
+
+   
+
+       553.630 Terms
+and conditions of bonds; bond register. (1) The bonds issued shall be numbered consecutively,
+commencing with number 1. They shall mature serially in annual amounts so as to
+be approximately equal, principal and interest, commencing not more than five
+years and extending not more than 50 years after the date of issue, as the
+board of directors may determine, or in case the board deems it advisable to
+submit the question of maturities at the bond election, then as the electors
+may determine. They shall be negotiable in form. The bonds may be issued when
+so authorized by the electors so as to include a sum sufficient to pay the
+first four years’ interest, or less, to accrue on the bonds. 
+
+       (2) The bonds
+shall bear interest at a rate determined by the board of directors, payable
+semiannually on the first day of January and July of each year. The principal
+and interest shall be payable at the places designated in the bonds and
+coupons. The bonds shall be signed by the president and secretary. Coupons for
+interest shall be attached to each bond, and may be signed with the printed,
+lithographed or engraved facsimile signature of the secretary. 
+
+       (3) The secretary
+of the district shall register the bonds in books kept in the office of the
+secretary for that purpose, and therein must be stated the number, date, amount
+of bond, time and place of payment, rate of interest, number of coupons
+attached, and any other description proper for future identification of each
+bond. This section shall not be construed to provide that any bond of the
+district shall bear a registration certificate by the secretary. [1965 c.623 §20;
+1969 c.691 §10; 1991 c.459 §431d] 
+
+   
+
+       553.635
+Contract provisions for payment of government construction charges. The contract provisions for the
+payment of construction charges to the United States, and the bonds securing
+the payment of the same, if any are issued and deposited, may be of such
+denomination and may call for the payment of such interest not exceeding six
+percent per annum, may provide for such installments and for repayment of the
+principal at such times, as may be required by the federal laws and as may be
+agreed upon between the board and the appropriate federal agency. [1965 c.623 §21] 
+
+   
+
+       553.640 Sale
+of bonds; cancellation. 
+(1) The board may sell from time to time the bonds which have been authorized
+by the electors and in such quantities as may be necessary and most
+advantageous. Before making any sale the board shall, at a meeting, by
+resolution, declare its intention to sell a specified amount of bonds, and the
+day, hour and place of such sale, and shall cause the resolution to be entered
+on the minutes. Notice of sale shall be given by publication. The notice shall
+state that sealed proposals will be received by the board at its office for the
+purchase of the bonds until the day and hour named in the resolution. At the
+time appointed, the board shall open the proposals and may reject any or all
+bids. After offering the bonds for sale, as above provided, if no satisfactory
+bid is received, the board may use the bonds for any purpose for which the
+proceeds from the sale of bonds may be used, but the board shall in no event
+sell or dispose of any bonds for less than 90 percent of their face value. 
+
+       (2) The board may
+by resolution entered on its records cancel any bonds which may have been voted
+or issued which have not been sold or deposited as security for funds advanced
+or to be advanced, and which the state, United States or any person has no claim
+to or equity in. After such cancellation, the bonds shall not be sold or
+otherwise disposed of; they shall be invalid and of no effect; and the board
+may not replace them without authorization of the electors. [1965 c.623 §22] 
+
+   
+
+       553.643 Bond
+given for federal loan; form; terms. 
+The district may borrow from the United States or an agency thereof, by
+furnishing the agency with a single bond or other evidence of indebtedness in
+such form and on such terms as are required by the federal laws and as may be
+agreed upon between the board and the federal agency. [1969 c.691 §12; 1991
+c.459 §431e] 
+
+   
+
+       553.645
+Payment from annual taxes and assessments of bond-related amounts due
+government. The
+bonds and the interest thereon and all payments due or to become due to the
+United States under any contract between the district and the United States,
+accompanying which bonds of the district have not been deposited with the
+United States, and all obligations for the payment of money authorized and
+incurred under this chapter, shall be paid by the revenue derived from the
+annual charges upon the owners or occupants of, or taxes or assessments upon,
+the land in the subdistrict. All the owners or occupants or lands in the
+subdistrict shall be and remain liable to be charged, taxed or assessed for
+such payments as provided in the Water Control District Act and under and
+subject to the provisions thereof. [1965 c.623 §23; 1991 c.459 §431f] 
+
+   
+
+       553.650
+Property liable for indebtedness of district. In addition to the provisions for the payment of
+bonds and interest by taxation and other provisions of this chapter, all the
+property of the subdistrict, including irrigation and other works, shall be
+liable for the indebtedness of the subdistrict. The holder of the bonds, or the
+United States in case contract has been executed by the United States, may, in
+case of default in the payment of interest or principal on the bonds, or the
+amount due on the contract, upon the order of the circuit court, take possession
+of the works of the subdistrict and operate the same until the amount in
+default is fully paid. [1965 c.623 §24] 
+
+   
+
+       553.655 Bond
+elections in subdistricts. 
+(1) Upon order of the board, an election shall be held in the subdistrict to
+determine whether bonds in any amount the board may deem necessary shall be
+issued for any purpose necessary or convenient in carrying out the provisions
+of this chapter, including the refunding of outstanding bonds. 
+
+       (2) If a majority
+of the votes cast at the election approve the issuance of the bonds, the board
+shall cause bonds in that amount to be issued, or such portion thereof as may
+be necessary from time to time. If the majority of the votes cast disapprove issuance
+of the bonds, the result of the election shall be entered of record. 
+
+       (3) Whenever
+thereafter the board in its judgment deems it for the best interest of the
+subdistrict that the question of the issuance of bonds in any amount shall be
+submitted to the electors, it shall so declare of record in its minutes, and
+may thereupon submit such questions to the electors in the same manner and with
+like effect as at the previous election. [1965 c.623 §§18,19; 1971 c.647 §122] 
+
+   
+
+       553.660 Tax or
+assessment as lien on property. 
+Any tax or assessment upon land shall be a lien against the property assessed
+or taxed, and such lien for all payments due or to become due under any
+contract with the United States or for the payment of principal or interest of
+bonds deposited with the United States shall be a preferred lien to any
+assessments for bonds issued subsequent to the date of such contract or the
+issuance of the bonds deposited with the United States. No subdistrict tax or
+assessment lien shall be removed until the assessments or tax is paid with
+interest and penalties or the property sold for the payment thereof. [1965
+c.623 §25] 
+
+   
+
+       553.665 Bond
+Fund; Bond and United States Contract Fund; Construction Fund; General Fund. The treasurer shall keep a “Bond
+Fund” account or a “Bond and United States Contract Fund” account, as the case
+may be, into which shall be deposited all moneys arising from the sale of
+refunding bonds and from charges, assessments, taxes and levies until there is
+sufficient money in the fund to meet the next installment of principal and interest
+upon bonds of the subdistrict and to meet all payments for construction and
+other purposes to the United States. From the fund the treasurer shall pay
+moneys due as principal and interest on bonds as they mature and the bonds and
+coupons are presented and as payments to the United States fall due. Moneys
+received from the sale of bonds and otherwise for construction or acquisition
+of works by the subdistrict shall be deposited into a “Construction Fund.” All
+other moneys received by the subdistrict shall be deposited into a fund known
+as the “General Fund,” from which shall be defrayed all obligations of the
+subdistrict other than those in this section described. The Bond and United
+States Contract Fund accounts shall be devoted to the obligations of the subdistrict
+payable therefrom in the order of the priority of the creation of the
+obligations. [1965 c.623 §26; 1991 c.459 §431g] 
+
+   
+
+       553.670
+Process for issuance of bonds. 
+Bonds authorized by this chapter shall be issued in the manner prescribed in
+ORS chapter 287A. [1965 c.623 §27; 1997 c.171 §21; 2007 c.783 §220] 
+
+   
+
+ CONTRACTS WITH OTHER
+GOVERNMENTAL UNITS FOR CONSTRUCTION OF WORKS 
+
+   
+
+       553.710
+Intergovernmental agreements; levy of tax to meet obligations. After the creation of a
+subdistrict, and with the approval of the electors of the subdistrict, a water
+control district may enter into intergovernmental agreements under ORS chapter
+190 for the construction of works within the subdistrict or outside of the
+subdistrict for the benefit of lands within the subdistrict. If by reason of an
+intergovernmental agreement a district becomes obligated to contribute all or
+any part of the cost of constructing such works or to furnish rights of way or
+to pay for the cost of improvements to be made in conjunction with the
+construction of such works or to maintain and operate the works after the
+construction thereof, the district may levy an ad valorem tax against the lands
+within the subdistrict for the purpose of raising funds with which to discharge
+its obligations under the agreement and to pay the costs and expenses incurred
+by the district in connection therewith. The levy of an ad valorem tax for such
+purposes shall be in lieu of and not in addition to any other method of levying
+assessments by a water control district. [Amended by 1991 c.459 §431h; 2003
+c.802 §142] 
+
+   
+
+       553.720 Manner
+of collecting tax; budget; equalizing levy. The ad valorem tax provided for in ORS 553.710 shall
+be levied and collected in the manner otherwise provided by law for the levy
+and collection of property taxes. The board shall prepare a budget in the form,
+manner and time prescribed in ORS 294.305 to 294.565 (the Local Budget Law),
+for each subdistrict for which taxes are to be levied and assessed, and in
+accordance therewith shall fix the amount of money to be raised by taxation for
+each subdistrict. Thereafter the levy shall be equalized and the tax collected
+and turned over to the district as otherwise provided by law for public
+corporations. [Amended by 2017 c.26 §10] 
+
+   
+
+       553.730
+Limitation on tax levy. 
+No levy of an ad valorem tax under ORS 553.710 for any one year shall exceed
+one-half of one percent (0.005) of the real market value of all taxable
+property within the subdistrict, computed in accordance with ORS 308.207. If
+the total sum of money required to be raised under the terms of a contract
+entered into by a district, together with the sum of money to be raised to pay
+the costs and expenses of the district incurred in connection therewith,
+exceeds such limitation, a levy for each year thereafter shall be made by the
+district until the entire contract obligation has been discharged. [Amended by
+1963 c.9 §31; 1991 c.459 §432] 
+
+   
+
+       553.740
+Issuance of warrants. 
+After the amount of a levy under ORS 553.710 is determined and turned over to
+the county assessor, a district may issue warrants to an amount not in excess
+of 75 percent of the amount of the levy. The warrants shall be serially
+numbered and shall bear interest of not more than six percent and shall be paid
+by the treasurer of the district in the order of issuance upon receipt of funds
+from the county treasurer. 
+
+   
+
+       553.750 Loan
+contracts with state or federal agencies; obligation of district; recording
+certificates. (1)
+Whenever a district has adopted, as the engineering plan for a subdistrict, a
+project work plan prepared for the subdistrict by a department of the federal
+government, and in connection with the development of such plan desires to
+borrow money from any state or federal agency, such district may, in lieu of
+levying a preliminary assessment, and with the approval of the electors of the
+subdistrict, enter into a loan contract with such agency. 
+
+       (2) The loan
+contract shall be in such form and shall contain such terms as may be agreed
+upon by the agency and the district; the district may agree to levy a
+construction assessment against each tract of land benefited within the
+subdistrict, to do all acts and things necessary therefor, to assign to the
+lending agency the construction assessments as security for the loan and to
+perform all such acts within such period of time as may be agreed to between
+the district and the state or federal lending agency. 
+
+       (3) In the event
+that a state or federal lending agency pays over money to a district pursuant
+to the terms of a loan contract and the district fails, refuses or neglects to
+levy the construction assessments, to obtain or prepare a benefit roll, to
+assign the construction assessments, or in any other manner not to perform as
+it agreed to under the loan contract, the state or federal lending agency shall
+have the right, at its election, to apply to the circuit court for the county
+in which is located the largest part of the lands within the subdistrict for a
+writ of mandamus, or any other order or writ, to require the district, its
+directors, officers and agents to do such acts and things as the district
+agreed to do under the terms of the loan contract. All costs, charges and
+expenses pertaining to the issuance and execution of any such writ or order
+shall be charged to and collected from the lands subject to the construction
+assessments in addition to such construction assessments. 
+
+       (4) Upon the
+execution of a loan contract, the district shall record with the county clerk
+for the county in which the lands within the subdistrict are located, a
+certificate which shall state the date of the loan contract, the maximum amount
+of the loan, the recording data pertaining to the recorded order creating the
+subdistrict, the term of the loan and the rate of interest. Such certificate
+shall give notice that all lands within the subdistrict determined to be
+benefited by the construction of the works referred to in the engineering plan
+will be subject to construction assessments thereafter to be levied. [1961
+c.186 §2; 1991 c.459 §432a] 
+
+   
+
+       553.760 When land
+benefited by irrigation project. 
+No tract of land shall be considered to be benefited by the construction,
+operation, maintenance or improvement of irrigation works unless the owner of
+such land enters into an irrigation contract with the district. The irrigation
+contract shall be in such form as shall be prescribed by the district. Upon
+being executed the contract shall be recorded with the county clerk of the
+county in which such lands are located and the recording of the contract shall
+constitute notice that such lands are subject to all maintenance and operation
+assessments thereafter levied and all other assessments thereafter or
+theretofore levied by the district. [1961 c.186 §3] 
+
+   
+
+       553.810 [Repealed by 1969 c.691 §13] 
+
+   
+
+ APPEALS 
+
+   
+
+       553.815
+Judicial review of tax or assessment. 
+Owners of any property against which an assessment or tax has been levied may
+seek a review thereof under ORS 34.010 to 34.100. [1969 c.691 §15] 
+
+   
+
+       553.820 [Repealed by 1969 c.691 §13] 
+
+   
+
+ DISSOLUTION 
+
+   
+
+       553.850 Dissolution
+upon majority vote. 
+Any water control district may be dissolved whenever a majority vote of the
+electors of the district voting at an election for such purpose favors the
+dissolution. [1965 c.623 §28] 
+
+   
+
+       553.855 [1965 c.623 §29; repealed by 1971
+c.727 §203] 
+
+   
+
+       553.860 [1965 c.623 §30; repealed by 1971
+c.727 §203] 
+
+   
+
+       553.865 [1965 c.623 §31; repealed by 1971
+c.647 §149] 
+
+   
+
+       553.870 [1965 c.623 §32; repealed by 1971
+c.727 §203] 
+
+   
+
+       553.875 [1965 c.623 §33; repealed by 1971
+c.727 §203] 
+
+   
+
+       553.880 [1965 c.623 §34; repealed by 1971
+c.727 §203] 
+
+   
+
+       553.885 [1965 c.623 §§35,36; repealed by
+1971 c.727 §203] 
+
+   
+
+       553.890 [1965 c.623 §37; repealed by 1971
+c.727 §203] 
+
+   
+
+       553.895 [1965 c.623 §38; repealed by 1971
+c.727 §203] 
+
+   
+
+       553.900 [1965 c.623 §39; repealed by 1971
+c.727 §203] 
+
+   
+
+       553.905 [1965 c.623 §40; repealed by 1971
+c.727 §203] 
+
+   
+
+       553.910 [1965 c.623 §41; repealed by 1971
+c.727 §203] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

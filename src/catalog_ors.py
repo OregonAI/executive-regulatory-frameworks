@@ -95,6 +95,14 @@ def extract_chapter_title(raw_text, ch):
         if m:
             return f"{m.group(1).strip(' .;')} (Former Provisions)"[:160]
     if not m:
+        # A fourth heading form, with NO separator between the number and the title — the
+        # edition banner sits between them instead: "Chapter 5 2025 EDITION County Courts
+        # (Judicial Functions)". Both patterns above need a dash or a period after the
+        # chapter number, so this one fell through to the bare "Chapter 5" label. The title
+        # runs until the all-caps repeat of itself that heads the chapter body.
+        m = re.search(rf"Chapter\s+{re.escape(ch)}\s+\d{{4}}\s+EDITION\s+"
+                      rf"(.+?)\s+(?=TITLE\s+\d+|[A-Z][A-Z ']{{7,}})", t)
+    if not m:
         return None
     title = m.group(1).strip(" .;")
     return title[:160] if len(title) >= 3 else None
