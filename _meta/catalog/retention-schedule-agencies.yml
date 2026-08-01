@@ -1,0 +1,325 @@
+note: 'Which ERF agency each folded-in retention schedule BINDS. The issuing body is always the Secretary
+  of State Archives Division; this records whose records it governs, which is what `agency:` means on
+  the resulting documents and what agency_profile keys its views on. Bases come from src/catalog_agencies.py
+  resolve(); every non-exact judgement carries a note. basis: exact | normalized | tokens | alias | successor
+  | manual.'
+registry: _meta/catalog/agencies.yml
+source_corpus: OregonAI/oregon-records-retention (retired; PLAN.md Phase 9)
+retrieved: '2026-08-01'
+mapping:
+  schedule-agriculture:
+    slug: department-of-agriculture
+    basis: normalized
+    source_name: Agriculture, Dept. of
+  schedule-aviation:
+    slug: oregon-department-of-aviation
+    basis: tokens
+    source_name: Department of Aviation
+  schedule-blind:
+    slug: commission-for-the-blind
+    basis: normalized
+    source_name: Oregon Commission for the Blind
+  schedule-business-development:
+    slug: oregon-business-development-department
+    basis: exact
+    source_name: Oregon Business Development Department
+  schedule-chiropractic-examiners:
+    slug: board-of-chiropractic-examiners
+    basis: exact
+    source_name: Board of Chiropractic Examiners
+  schedule-college-workforce:
+    slug: higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development
+    basis: successor
+    source_name: Community Colleges and Workforce Development, Dept of
+    note: CCWD was abolished and absorbed by HECC; the registry carries it only as an HECC sub-unit.
+  schedule-consumer-business:
+    slug: department-of-consumer-and-business-services
+    basis: normalized
+    source_name: Department of Consumer and Business Services (DCBS)
+  schedule-corrections:
+    slug: department-of-corrections
+    basis: exact
+    source_name: Department of Corrections
+  schedule-criminal-justice:
+    slug: oregon-criminal-justice-commission
+    basis: tokens
+    source_name: Criminal Justice Commission
+  schedule-das:
+    slug: department-of-administrative-services
+    basis: exact
+    source_name: Department of Administrative Services
+  schedule-deq:
+    slug: department-of-environmental-quality
+    basis: exact
+    source_name: Department of Environmental Quality
+  schedule-driver-motor-vehicle:
+    slug: department-of-transportation-driver-and-motor-vehicle-services-division
+    basis: tokens
+    source_name: ODOT -Driver and Motor Vehicle Services
+  schedule-education:
+    slug: oregon-department-of-education
+    basis: alias
+    source_name: Education, Oregon Dept. of
+    note: '"Education, Oregon Dept. of" — inverted with an interior "Oregon".'
+  schedule-employment:
+    slug: employment-department
+    basis: normalized
+    source_name: Oregon Employment Department
+  schedule-employment-board:
+    slug: employment-relations-board
+    basis: exact
+    source_name: Employment Relations Board
+  schedule-energy:
+    slug: department-of-energy
+    basis: normalized
+    source_name: Oregon Department of Energy (ODOE)
+  schedule-film-video:
+    slug: oregon-film-and-video-office
+    basis: exact
+    source_name: Oregon Film and Video Office
+  schedule-fish-wildlife:
+    slug: department-of-fish-and-wildlife
+    basis: tokens
+    source_name: Fish and Wildlife, Oregon Dept. of
+  schedule-forestry:
+    slug: department-of-forestry
+    basis: normalized
+    source_name: Oregon Department of Forestry
+  schedule-geology-minerals:
+    slug: department-of-geology-and-mineral-industries
+    basis: normalized
+    source_name: Geology and Mineral Industries
+  schedule-government-ethics:
+    slug: oregon-government-ethics-commission
+    basis: exact
+    source_name: Oregon Government Ethics Commission
+  schedule-governor-office:
+    slug: office-of-the-governor
+    basis: alias
+    source_name: Oregon Governor’s Office
+    note: Registry name is "Office of the Governor".
+  schedule-health-equity-inclusion:
+    slug: oregon-health-authority
+    basis: exact
+    source_name: Oregon Health Authority
+  schedule-health-medical-assist:
+    slug: oregon-health-authority-health-systems-division-medical-assistance-programs
+    basis: tokens
+    source_name: Health Authority (formerly DHS) - Medical Assistance Programs Division
+  schedule-health-policy-analytics:
+    slug: oregon-health-authority
+    basis: exact
+    source_name: Oregon Health Authority
+  schedule-health-public:
+    slug: oregon-health-authority
+    basis: exact
+    source_name: Oregon Health Authority
+  schedule-highway-division:
+    slug: department-of-transportation-highway-division
+    basis: normalized
+    source_name: ODOT - Highway Division
+  schedule-hospital:
+    slug: oregon-health-authority
+    basis: normalized
+    source_name: Oregon Health Authority (OHA)
+  schedule-housing:
+    slug: oregon-housing-and-community-services-department
+    basis: tokens
+    source_name: Housing and Community Services Dept., Oregon
+  schedule-human-services-aging-disabilities:
+    slug: department-of-human-services
+    basis: normalized
+    source_name: Oregon Department of Human Services
+  schedule-human-services-child-welfare:
+    slug: department-of-human-services
+    basis: normalized
+    source_name: Oregon Department of Human Services
+  schedule-human-services-health-bcu:
+    slug: department-of-human-services
+    basis: manual
+    source_name: Oregon Department of Human Services (ODHS) / Oregon Health
+    note: Source agency string is truncated mid-value and the schedule covers the DHS+OHA shared Background
+      Check Unit; attributed to DHS, the first-named body.
+  schedule-human-services-training-investigation-safety:
+    slug: department-of-human-services
+    basis: normalized
+    source_name: Oregon Department of Human Services
+  schedule-justice:
+    slug: department-of-justice
+    basis: tokens
+    source_name: Justice, Oregon Dept. of
+  schedule-labor-industries:
+    slug: bureau-of-labor-and-industries
+    basis: normalized
+    source_name: Bureau of Labor and Industries (BOLI)
+  schedule-land-conservation:
+    slug: land-conservation-and-development-department
+    basis: alias
+    source_name: Land Conservation and Development, Dept. of
+  schedule-landscape:
+    slug: landscape-contractors-board
+    basis: exact
+    source_name: Landscape Contractors Board
+  schedule-library:
+    slug: oregon-state-library
+    basis: exact
+    source_name: Oregon State Library
+  schedule-liquor-control:
+    slug: oregon-liquor-control-commission
+    basis: normalized
+    source_name: Oregon Liquor Control Commission (OLCC)
+  schedule-long-term-care:
+    slug: long-term-care-ombudsman
+    basis: alias
+    source_name: Office of the Long-Term Care Ombudsman
+    note: Registry name is "Long Term Care Ombudsman" (no hyphen).
+  schedule-lottery:
+    slug: oregon-state-lottery
+    basis: exact
+    source_name: Oregon State Lottery
+  schedule-marine-board:
+    slug: oregon-state-marine-board
+    basis: exact
+    source_name: Oregon State Marine Board
+  schedule-medical-board:
+    slug: oregon-medical-board
+    basis: exact
+    source_name: Oregon Medical Board
+  schedule-military:
+    slug: oregon-military-department
+    basis: alias
+    source_name: Military Department, Oregon
+    note: '"Military Department, Oregon" — inverted.'
+  schedule-nursing-board:
+    slug: board-of-nursing
+    basis: normalized
+    source_name: Oregon State Board of Nursing
+  schedule-oem:
+    slug: oregon-military-department-office-of-emergency-management
+    basis: alias
+    source_name: Oregon Department of Emergency Management (OEM)
+  schedule-optometry-board:
+    slug: board-of-optometry
+    basis: normalized
+    source_name: Oregon Board of Optometry
+  schedule-oweb:
+    slug: oregon-watershed-enhancement-board
+    basis: exact
+    source_name: Oregon Watershed Enhancement Board
+  schedule-oya:
+    slug: oregon-youth-authority
+    basis: tokens
+    source_name: Youth Authority, Oregon
+  schedule-parks-recreation:
+    slug: parks-and-recreation-department
+    basis: normalized
+    source_name: Parks and Recreation
+  schedule-parole-post-prison-supervision:
+    slug: board-of-parole-and-post-prison-supervision
+    basis: exact
+    source_name: Board of Parole and Post-Prison Supervision
+  schedule-pers:
+    slug: oregon-public-employees-retirement-system
+    basis: tokens
+    source_name: Public Employees Retirement System
+  schedule-pharmacy-board:
+    slug: board-of-pharmacy
+    basis: normalized
+    source_name: Oregon Board of Pharmacy
+  schedule-police:
+    slug: department-of-state-police
+    basis: normalized
+    source_name: Oregon Department of State Police (OSP)
+  schedule-psrb:
+    slug: psychiatric-security-review-board
+    basis: normalized
+    source_name: Psychiatric Security Review Board (PSRB)
+  schedule-public-records-advocate:
+    slug: public-records-advocate
+    basis: alias
+    source_name: Office of the Oregon Public Records Advocate
+    note: Registry name drops the "Office of the Oregon" prefix.
+  schedule-public-safety:
+    slug: department-of-public-safety-standards-and-training
+    basis: normalized
+    source_name: Public Safety Standards and Training, Dept. of
+  schedule-public-transit:
+    slug: department-of-transportation
+    basis: normalized
+    source_name: Oregon Department of Transportation (ODOT)
+  schedule-puc:
+    slug: public-utility-commission
+    basis: exact
+    source_name: Public Utility Commission
+  schedule-racing-commission:
+    slug: oregon-racing-commission
+    basis: exact
+    source_name: Oregon Racing Commission
+  schedule-real-estate:
+    slug: real-estate-agency
+    basis: normalized
+    source_name: Real Estate
+  schedule-revenue:
+    slug: department-of-revenue
+    basis: normalized
+    source_name: Revenue Department
+  schedule-saif:
+    slug: saif-corporation
+    basis: normalized
+    source_name: SAIF Corporation (State Accident Insurance Fund)
+    note: SAIF is a public corporation with no OAR chapter and was ABSENT from the registry; added here
+      as a manual entry rather than filed under a wrong parent.
+  schedule-secretary-state:
+    slug: secretary-of-state
+    basis: exact
+    source_name: Secretary of State
+  schedule-state-lands:
+    slug: department-of-state-lands
+    basis: exact
+    source_name: Department of State Lands
+  schedule-transportation-central-services:
+    slug: department-of-transportation
+    basis: manual
+    source_name: ODOT - Central Services Division
+    note: ODOT Central Services Division has no registry sub-unit; rolled up to the parent.
+  schedule-transportation-communications:
+    slug: department-of-transportation
+    basis: normalized
+    source_name: Department of Transportation (ODOT)
+  schedule-transportation-development:
+    slug: department-of-transportation
+    basis: manual
+    source_name: ODOT - Transportation Development Division
+    note: ODOT Transportation Development Division has no registry sub-unit; rolled up to the parent.
+  schedule-transportation-director:
+    slug: department-of-transportation
+    basis: normalized
+    source_name: Department of Transportation (ODOT)
+  schedule-transportation-motor-carrier:
+    slug: department-of-transportation
+    basis: normalized
+    source_name: Oregon Department of Transportation
+  schedule-transportation-rail:
+    slug: department-of-transportation
+    basis: normalized
+    source_name: Oregon Department of Transportation (ODOT)
+  schedule-transportation-safety:
+    slug: department-of-transportation
+    basis: normalized
+    source_name: Oregon Department of Transportation (ODOT)
+  schedule-treasury:
+    slug: oregon-state-treasury
+    basis: tokens
+    source_name: Treasury, Oregon State
+  schedule-tspc:
+    slug: teacher-standards-and-practices-commission
+    basis: exact
+    source_name: Teacher Standards and Practices Commission
+  schedule-veterans-affairs:
+    slug: department-of-veterans-affairs
+    basis: normalized
+    source_name: Department of Veterans’ Affairs
+  schedule-water-resources:
+    slug: water-resources-department
+    basis: exact
+    source_name: Water Resources Department

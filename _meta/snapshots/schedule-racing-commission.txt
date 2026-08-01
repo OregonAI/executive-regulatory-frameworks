@@ -1,0 +1,71 @@
+Oregon State Archives
+Records Retention Schedule
+Edition: November 2023                                          Schedule Number: 2023-0005
+1
+
+Agency: Oregon Racing Commission
+
+Program Description
+The Oregon Racing Commission regulates the animal racing industry in Oregon
+through off-track betting, simulcast/live racing wagering as pari-mutuel wagering for
+the benefit of Oregonians, licensees, participants, and the State of Oregon. Pari-mutual
+wagering is a system of betting through which winners divide the total amount bet for
+the specific type of wager after management expenses have been deducted.
+
+Program Records
+001  Advance Deposit Wagering Licens e Application and Update Records
+Retain 10 years after license expires, destroy
+002 Advanced Deposit Wagering Audit Records
+Retain 10 years, destroy
+003 Commission Order Reports
+Retain permanently, transfer to State Archives after 20 years
+004 End of Meet Reports and Minutes
+Retain 5 years, destroy
+005 Off Track Betting Application Records
+Retain 10 years, destroy
+006 Off Track Betting Location Inspection Records
+Retain 5 years, destroy
+007 Race Horse Claim Forms
+Retain 3 years, destroy
+008 Race Meet Applications
+Retain 10 years, destroy
+009 Race Meet Inspection Reports
+Retain 2 years, destroy
+010 Race Meet Steward Reports
+Retain 10 years, destroy
+011 Racing Animal Drug Test Records
+Retain 6 months after close of meet, destroy
+012 Racing Development Fund (aka HUB Funds) Application and Audit
+Records
+Retain 10 years, destroy
+013 Surety Bond Audit Records
+Retain 6 years, destroy
+
+Oregon State Archives
+Records Retention Schedule
+Edition: November 2023                                          Schedule Number: 2023-0005
+2
+
+014 Test Sample Shipping Invoice Records
+Retain 1 year, destroy
+015 Totalizator License Records
+Retain 5 years after expiration of license, destroy
+016 Trainer/Farrier Examination Records
+Retain 2 years, destroy
+017 Unclaimed Pari-Mutuel Ticket Records
+Retain 8 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Financial Records (OAR 166-300-0025)
+Information Management Records (OAR 166-3070-0030)
+Payroll Records (OAR 166-300-0035)
+Personnel Records (OAR 166-300-0040)
+Risk Management Records (OAR 166-300-0045)
+Board and Commission Records (OAR 166-350-0010)
+Complaint and Investigation Records, Establishment
+Complaint and Investigation Records, Individual
+
+Systems of Record
+Oregon Racing Commission Licensing Database

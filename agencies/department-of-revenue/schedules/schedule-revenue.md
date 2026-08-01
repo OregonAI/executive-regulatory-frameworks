@@ -1,0 +1,1653 @@
+---
+schema_version: 1
+corpus: executive-regulatory-frameworks
+jurisdiction: oregon
+id: schedule-revenue
+title: Revenue Department
+doc_type: schedule
+citation: Revenue Department — Oregon Special Records Retention Schedule
+authority_level: schedule
+issuing_body: Oregon Secretary of State, Archives Division
+agency: department-of-revenue
+division: null
+schedule_number: 2024-0004
+legal_authority: []
+source_url: https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-revenue.pdf
+source_format: pdf
+retrieved: '2026-07-25'
+source_sha256: 6cb6fbc80d63624cd570f77ee15adfac319d3c8ecce56567ed1b2b518fa912a2
+effective_date: null
+effective_date_text: June 2024
+expires: null
+expires_text: null
+last_reviewed: null
+source_version: 2024-0004
+status: current
+content_mode: verbatim
+conversion_notes: 'Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 50 pages.
+  Stripped repeated running-header lines: "Edition: June 2024 Schedule Number: 2024-0004"; "Oregon State
+  Archives"; "Records Retention Schedule". Stripped 49 bare page-number line(s). Only lines that BOTH
+  repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number
+  line, bare page number) were removed; every other repeated line, including per-page ''Organizational
+  Placement'' / ''Agency'' / ''Systems of Record'' blocks, was left in place. Trailing whitespace removed
+  and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.'
+last_verified: ''
+verified_by: ''
+maintainer: '@morficflux'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related:
+    - oar-166-300-0015
+    - oar-166-300-0020
+    - oar-166-300-0025
+    - oar-166-300-0030
+    - oar-166-300-0040
+    - oar-166-300-0045
+  supersedes: []
+tags:
+- records-retention
+- special-schedule
+---
+
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
+> copy, not the official text. Verify against the official source:
+> <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-revenue.pdf> (retrieved 2026-07-25).
+
+# Revenue Department
+
+## At a glance
+
+Special records retention schedule for Revenue Department, published by the Oregon Secretary of State, Archives Division, schedule number 2024-0004, effective date as printed: June 2024. It runs to 50 pages and lists the agency's own record series with a retention and disposition clause for each. Record series that every state agency holds are NOT here: they are covered by the OAR chapter 166 general schedules, which this corpus references rather than copies — 6 distinct general-schedule rule(s) are cited in the text below.
+
+## Full text
+
+Oregon Department of Revenue
+Records Retention Schedule 2024-0004
+Effective Date: June 2024
+Table of Contents
+Director’s Office ...................................................................................................................... 1
+Administration ......................................................................................................................... 2
+Business.….. .......................................................................................................................... 10
+Collection…. .......................................................................................................................... 21
+Information Technology Services ....................................................................................... 22
+Personal Tax and Compliance ............................................................................................ 29
+Property Tax .......................................................................................................................... 37
+
+Agency:  Oregon Department of Revenue
+Division:  Director’s Office
+
+Program Description
+The Oregon Department of Revenue administers more than 60 funding streams,
+including Oregon’s personal income, corporate excise, recreational marijuana, and
+cigarette and other tobacco tax programs that make up 97% of the state’s General
+Fund revenue.
+
+The Director’s office includes legislative, policy, records management, strategic
+planning, process improvement, and administrative rule functions.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Correspondence
+Legislative Tracking Records
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Filing System Records
+Staff Meeting Records
+Policy Development and Planning Records
+Public Records Disclosure Request
+Records Management
+
+Systems of Record
+Agency Shared Drive
+
+Agency:  Oregon Department of Revenue
+Division:   Administration
+Section:  Communications
+
+Program Description
+The Communications Section is responsible for providing central support functions to
+Department of Revenue programs and functions. The section is responsible for
+planning and executing media outreach and public relations, managing the agency’s
+social media accounts, the Revenue Intranet, and maintaining the Oregon.Gov
+website for the department.
+
+Program Records
+001 Agency Newsletters
+Retain 2 years, destroy
+002 Media Communication Logs
+Retain 2 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Staff Meeting Records
+Press Release Records
+Filing Records
+
+Systems of Record
+Agency Shared Drive
+
+Agency:  Oregon Department of Revenue
+Division:   Administration
+Section:    Financial Services
+
+Program Description
+Financial Services provides accounting, budget, facility management, and
+procurement services to the agency. The division ensures that accounting, budget,
+facilities management, and procurement practices comply with all applicable laws,
+rules, and professional standards. Financial Services manages the collection and
+distribution of funds from DOR’s 65 tax and fee programs, the monitoring and
+payment of agency expenditures, the collection of administrative costs, the creation
+and maintenance of the agency’s budget, the management of its facilities, and the
+procurement of goods and services.
+
+Financial Services is composed of four units: Statewide Tax Receipts and Transfers
+(STRAT), Budget, Agency Accounting and Procurement, and Facilities (which includes
+Special Services).
+
+Statewide Tax Receipts and Transfers (STRAT) Unit: This unit monitors and reviews the
+collection of 65 tax and fee programs and distributes it to other state agencies, local
+governments, and/or the General Fund. The unit also prepares financial reports for
+interested parties. It works closely with the DAS State Controller’s Division, the
+Oregon State Treasury, other state agencies, and the federal government.
+
+Budget Unit: This unit leads the biennial budget process and provides guidance and
+direction to program and administrative staff. Budget is responsible for initiating and
+coordinating processes for budget planning, financial analysis, and overall technical
+budget support for the agency.
+
+Agency Accounting and Procurement Unit: This unit pays department expenditures,
+administers the SPOTS card and travel programs, collects administrative fees for each
+applicable program, and manages the contract and procurement activities of the
+agency. The unit also provides training to the agency on purchasing, travel, and
+SPOTS card policies.
+
+Facilities: The unit engages in space planning, cubicle configuration, oversight of
+building maintenance needs, and public accessibility.
+
+Special Services: This unit coordinates critical services such as Quick Copy services,
+fleet management, mail retrieval and distribution, and management of forms and
+
+publications orders and inventory levels of these products. The unit delivers all office
+supplies and packages from courier services and prepares all outgoing shipments.
+Special Services houses and operates the agency’s shredder for federal tax
+information.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Contracts and Agreements
+Correspondence
+Facilities and Property Records (OAR 166-300-0020)
+Work Orders
+Financial Records (OAR 166-300-0025)
+Accounting Structure Organizational Hierarchy Records
+Annual Financial Reports Records
+Bank Statements Records
+Budget Preparation Records
+Competitive Bid Records
+Expenditure and Revenue Reports Records
+Invoices
+Purchasing Records
+Receipts
+Travel Expense Records
+Accounts Receivable Reports
+
+Systems of Record
+Agency Shared Drive
+SFMA (DAS)
+OBIEE (DAS)
+ORBITS (DAS)
+Banking (Treasury)
+OregonBuys (DAS)
+ORPICS (DAS)
+
+Agency:        Oregon Department of Revenue
+Division:        Administration
+Section:       Human Resources
+
+Program Description
+Human Resources is responsible for managing the personnel and training related
+services for the department. This includes coordination of recruitment and retention
+processes, management of personnel issues, training, and the coordination of labor
+relations for the department. Human Resources provides guidance to department
+managers on employee performance management and Americans with Disabilities
+Act (ADA) requirements related to employee accommodation requests. The section
+coordinated the federal Family and Medical Leave Act (FMLA) and Oregon Family
+Leave Act (OFLA) administration. Human Resources also manages the administration
+of workers compensation and unemployment insurance matters, oversight of job
+classifications, compensation position control, position management and
+maintenance of employee personnel records.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administration Records (OAR 166-300-0015)
+Conference, Seminar and Training Program Records
+Correspondence
+Personnel Records (OAR 166-300-0040)
+Affirmative Action Records
+Criminal Background Check Records
+Employee Benefits Records
+Employee Medical Records
+Employee Personnel Records
+Employment Eligibility Verification Records
+Layoff Records
+Position Description and Reclassification Records
+Recruitment and Selection Records
+
+Systems of Record
+Agency Shared Drive
+Workday
+Human Resources
+HRCIS
+
+Agency:         Department of Revenue
+Division:  Administration
+Section:         Internal Controls Office
+
+Program Description
+The Internal Controls Office monitors and mitigates cybersecurity and operational
+risks in the department, focusing on making sure internal practices are aligned with
+state and federal laws and requirements. The Internal Controls Office enhances the
+“control environment” including internal policies, procedures, and risk management.
+
+Program Records
+003 IRS PUB 1075 Records
+(a) Retain Safeguard Security Report (SSR) §2.E.4 until superseded, destroy
+(b) Retain Audit Record Retention AU-11 7 years, destroy
+(c) Retain all other records 5 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Attorney General Opinions
+Business Plan Records
+Key Assignment Records
+LEDS Certification Records
+Policy and Procedure Guidelines and Manuals Records
+Security Records
+Visitor Log Records
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Program Documentation
+Computer System Security Records
+Information System Planning and Development Records
+Personnel Records (OAR 166-300-0040)
+Criminal Background Check Records
+Employee Training Records
+Risk Management Records (OAR 166-300-0045)
+Emergency Response Plans and Procedures Records Management
+Hazardous Exposure Records
+Incident Reports Records
+Occupational Injury and Illness Records
+Risk Factor Evaluation Records
+Safety Compliance and Inspection Records
+Safety Program Records
+State Accident Insurance Fund (SAIF) Claims Records
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency:           Oregon Department of Revenue
+Division:           Administration
+Section:     Research
+
+Program Description
+The Research Section's economists and research analysts produce descriptive
+information about the department’s tax programs and conduct analysis relating to the
+revenue and distributional effects of actual or proposed law changes and the effects
+of the department’s administrative activities. The section participates in state revenue
+forecasting and tax policy analysis, working closely with the Office of Economic
+Analysis and the Legislative Revenue Office. The section provides meaningful
+information to external stakeholders such as policymakers, lobbyists, academics,
+media, and citizens, and produces annual publications describing Oregon’s Personal
+Income Tax, Corporate Excise Tax, Corporate Activity Tax, Property Tax, Statewide
+Lodging Tax, and Marijuana Tax programs. It also coordinates and develops the
+material for the biennial Tax Expenditure Report, which is a companion document to
+the Governor’s Recommended Budget.
+
+Program Records
+004 Tax Analysis and Statistical Reports
+Transfer one copy to State Library, retain until administrative needs ends,
+destroy
+005 Property Tax Levies and Assessments and Collections Summary Reports
+Retain reports and supporting documentation 20 years after finalized, destroy
+006 Special Projects Files
+Retain 20 years, destroy
+007 Tax Collection Receipts/Distribution Reports
+Retain 20 years, destroy
+008 Tax Expenditure Reports
+Retain reports and supporting documentation 20 years after finalized, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Legislative Tracking Records
+Information Management Records (OAR 166-300-0030)
+Computer System Program Documentation
+Software Management Records
+
+Systems of Record
+Agency Shared Drive
+SAS
+GenTax
+TARDIS
+
+Agency:      Oregon Department of Revenue
+Division:     Business
+Section:      Corporation and Estate
+Unit:             Audit
+Program:    Corporation Audit
+
+Program Description
+The Business Division administers the Corporation Income and Excise taxes. Oregon
+corporate tax audits generally focus on state-level issues such as apportionment of
+income to Oregon and the unitary filing group and are intended to ensure the
+taxpayer pays the proper amount of tax owed under Oregon tax laws. These issues
+and others are specific to Oregon and sometimes warrant further investigation to
+ensure correct application of Oregon statutes. Many audits are conducted out of state
+at the corporation’s headquarters to facilitate efficient review of books and records
+and to create a clear and easy experience for the customer.
+
+Program Records
+009 Apportioning C Corporation Tax Returns
+Retain 10 years, destroy
+010 Corporation Tax Return Schedules
+Retain with corporate tax return 10 years, destroy
+011 Domestic C Corporation Tax Records
+Retain 6 years, destroy
+012 Non-operational Corporation Tax Records
+Retain 6 years, destroy
+013 S Corporation Tax Records
+Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Policy and Procedure Guidelines and Manuals
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency:      Oregon Department of Revenue
+Division:     Business
+Section:     Corporation and Estate
+Unit:             Audit
+Program:    Estate Audit
+
+Program Description
+The Estate Audit program handles the tax returns for trusts, estates, and inheritances.
+The program processes and checks the returns submitted to the agency. Information
+from returns is input into the agency databases. The program audits the returns and
+acts to identify non-filers and those persons who have made mistakes in filing
+through agency databases tracking reported income. The program identifies the
+amount of tax liability assessed against a taxpayer and conducts the initial phases of
+notification. Other units within the agency handle collection to compel payment.
+
+Program Records
+014 Estate Tax Records
+Retain 6 years, destroy
+015 Inheritance Tax Records
+Retain 6 years, destroy
+016 Trust Tax Records
+Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Policy and Procedure Guidelines and Manuals
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency:        Oregon Department of Revenue
+Division:  Business
+Section:        Corporation and Estate
+Unit:              Policy, Appeals and Nexus
+
+Program Description
+The Policy, Appeals and Nexus unit develops policy which is often incorporated into
+legislation or administrative rule impacting corporation income and excise tax. Staff
+coordinate legislative concepts and track legislation relevant to corporation income
+and excise tax and solicit concepts within the Department of Revenue. The unit
+drafts new administrative rules to interpret new legislation or to clarify existing
+statutes and amend existing administrative rules. Policy, Appeals and Nexus
+conducts research into specific policy issues impacting the agency and also works
+with tax professionals. It chairs and keeps the records of Rules Advisory Committee
+meetings held by the business area. The unit conducts training on special or specific
+issues relating to corporation income and excise tax. The unit answers letters
+concerning corporation income and excise tax issues sent to the Governor or the
+agency and responds to Help Desk questions from tax practitioners.
+
+The unit processes taxpayer appeals of corporation audit findings at the conference
+level and coordinates judicial appeals. The nexus program locates non-filers and
+processes Voluntary Disclosure Agreements.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Conference, Seminar, and Training Program Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Publication Preparation Records
+Information and Records Management Records (OAR 166-300-0030)
+Forms and Development Records
+
+Systems of Record
+Agency Shared Drive
+
+Agency:  Oregon Department of Revenue
+Division:       Business
+Section: Corporation and Estate
+Unit:   Systems and Support
+
+Program Description
+The Corporation and Estate Systems and Support unit ensures taxpayer assistance is
+easily accessible and customer focused. It develops forms, provides education and
+assistance to taxpayers and representatives, interprets laws and rules and correctly
+processes tax returns. This includes making necessary changes to forms, processing
+systems, programming used to identify returns that require manual processing, and
+testing both data capture and processing system changes. It also includes working
+with vendors that supply tax preparation software and e-file platforms to ensure they
+understand the changes and apply them correctly so that return processing is
+efficient.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar and Training Program Records
+Correspondence
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency:        Oregon Department of Revenue
+Division:  Business
+Section: Corporation and Estate
+Unit:   Transit Self-Employment
+
+Program Description
+The Transit Self-Employment unit works with local governments to administer taxing
+programs overseen by local governments or taxing districts. The unit works with the
+districts on tax policy issues and creates, revises, and updates forms used by districts
+in the collection of taxes. Finally, the unit creates statistical reports and an annual
+report on the local programs tracking the collection and distribution of tax monies
+gathered for the Tri-County Metropolitan Transit District (Tri-Met) and Lane County
+Mass Transit District (LTD) Self-Employment Tax programs.
+
+Program Records
+017 Tri-Met and LTD Self-Employment Tax Records
+Retain 6 years, destroy
+018 Tri-Met and LTD Statistical and Annual Reports
+Retain 10 years, destroy
+
+State Agency General Records Retention Schedule
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+Information and Records Management Records (OAR-166-300-0030)
+Forms Development Records
+
+Systems of Record
+Agency Shared Drive
+
+Agency:        Oregon Department of Revenue
+Division:       Business
+Section: Oregon Special Business Programs
+Unit:  Special Programs Administration (SPA)
+
+Program Description
+The Special Programs Administration unit collects fees and taxes for the 911
+Emergency Communications Tax on telecommunications subscribers, the Bicycle
+Excise Tax on purchases of new bicycles, the Criminal Fines Assessment for costs
+associated with statewide law enforcement and victim services, Hazardous Substance
+Fee assessed by the State Fire Marshal on storage and use of toxic and hazardous
+substances, the Heavy Equipment Rental Tax applied to the rental price of heavy
+equipment rented from a qualified provider, the High Hazard Oil Train Fee assessed
+on owners of oil transported in Oregon, the State Fire Marshal Petroleum Load Fee
+assessed on bulk ships of petroleum, State Lodging Tax with revenues going to the
+Oregon Tourism Commission, the Amusement Device Tax imposed on video lottery
+terminals, the Vehicle Privilege Tax for the privilege of selling vehicles in Oregon, and
+the Vehicle Use Tax for use or consumption of a vehicle purchased from an out-of-
+state dealer. The program ensures compliance with statutory requirements by
+requiring taxpayers to register, file appropriate tax returns, pay all tax liabilities, and
+meet program requirements. The program oversees taxes accessed to private and
+public businesses, both in state and out-of-state; local, state, and federal agencies;
+public organizations; and individuals.
+
+Program Records
+019 Special Programs Tax Return Records
+(a) Retain registration forms 10 years after date received, destroy
+(b) Retain returns, amendments, audits, and appeals 6 years after receipt or last
+action, whichever is longer, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency: Oregon Department of Revenue
+Division: Business
+Section: Withholding and Payroll Tax
+Unit:  Compliance
+Program: Cigarette Tax, Other Tobacco Products and Tobacco Retail Licensing
+
+Program Description
+The Department of Revenue (DOR) is responsible for sales of cigarette tax stamps
+and licensing distributors and retailers. The Compliance Unit is responsible for
+administering the cigarette, other tobacco products and tobacco retail licensing
+programs per ORS chapters 323 and 431A. The program ensures compliance with
+statutory requirements by requiring distributors and retailers are licensed, file tax
+returns, pay tax liabilities, and meet program requirements. The department inspects
+tobacco products and invoices, ensures the proper taxes are paid, explains the state’s
+tobacco tax laws, and educates and assists retailers so they can comply. The money
+received by the department is distributed to the Oregon Health Plan, the state
+General Fund, Oregon Health Authority, cities and counties, the Tobacco Use
+Reduction Account and the Elderly and Disabled Special Transportation Fund.
+
+Program Records
+020 Cigarette Tax Records
+(a) Retain bond 6 years after bond rescinded, destroy
+(b) Retain amended returns 6 years after date received, destroy
+(c) Retain all other records 6 years, destroy
+021 Tobacco Tax Records
+(a) Retain amended returns 6 years after date received, destroy
+(b) Retain all other records 5 years, destroy
+022 Tobacco Retail Licensing Records
+(a) Retain registration 6 years after date received, destroy
+(b) Retain renewal records 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+Audit Report Records
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency:  Oregon Department of Revenue
+Division:  Business
+Section: Withholding and Payroll Tax Section
+Unit:   Program Coordination Unit
+Program:  Marijuana Tax, Psilocybin Tax, and Kratom Processor Registration
+
+Program Description
+The Program Coordination Unit (PCU) is responsible for the administration of the
+Marijuana Tax, Psilocybin Tax, and the Kratom Processor Registration Fee under ORS
+chapters 475A and 475C. The program registers tax and fee payers through GenTax.
+Under the Marijuana and Psilocybin Tax programs, taxpayers are required to file
+quarterly returns to report sales of taxable product. The Department administers the
+Marijuana Tax for municipalities that have elected to have DOR collect. The Kratom
+Processor Registration requires a person that sells, distributes, or exposes for sale
+kratom products on a wholesale basis to a retailer to register, pay a registration fee,
+and renew and pay annually with the Department.
+
+Program Records
+023   Marijuana and Psilocybin Tax Records
+(a) Retain program registration records six 6 years after date received, destroy
+(b) Retain quarterly returns filed 6 years after date received, destroy
+(c) Retain amended returns filed 6 years after date received, destroy
+024  Kratom Processor Registration Records
+(a) Retain program registration records 6 years after date received, destroy
+(b) Retain program renewal records 6 years after date received, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Correspondence Records
+Policy and Procedure Guidelines and Manuals Records
+Financial Records (OAR 166-300-0025)
+Annual Financial Reports
+
+Systems of Record
+Agency Shared Drive
+GenTax
+Quick Modules
+
+Agency:  Oregon Department of Revenue
+Division:  Business
+Section: Withholding and Payroll Tax
+Unit:        Program Coordination Unit
+Program: Payroll and Trust-Fund Taxes
+
+Program Description
+The Withholding and Payroll Tax section (WPTS) administers the Income Tax
+Withholding Program (‘Withholding’) as part of a multi-agency effort to administer
+and enforce Combined Payroll Tax Programs. This section also administers the
+Statewide Transit Tax program; all of which are trust fund programs. In addition,
+WPTS has direct responsibility to administer the Lane and Tri-Met Payroll Transit
+Taxes via contract with both regional entities.
+
+WPTS reviews the Oregon Quarterly Tax Report and related tax returns submitted by
+businesses to check for compliance with state and local tax laws. The program
+registers all businesses into the GenTax database. The program also secures
+delinquent tax returns from employers. The program works within agency databases
+to identify employers who have not filed returns and mails out notices of delinquency.
+The program assists employers with account resolution. The program maintains a
+help desk providing customer service and assistance to employers and businesses
+seeking information on tax questions.
+
+Program Records
+025 Delinquent Tax Return Collection Records
+Retain 6 years after return filed, destroy
+026 Business Registration Records
+Retain 6 years after superseded, destroy
+027 Payroll Tax Returns and Associated Schedules
+Retain 6 years after return filed, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Communication Logs
+Policy and Procedure Guidelines and Manuals
+Publication Preparation Records
+
+Systems of Record
+Agency Shared Drive
+GenTax
+Quick Modules
+
+Agency:  Oregon Department of Revenue
+Division:  Collection
+
+Program Description
+The Collection Division contains all of the department’s collections functions,
+including the transfer in of collections functions from the Personal Tax and
+Compliance Division and the Business Division, as well as the Other Agency Accounts
+(OAA) section. OAA acts as an in-house collections agency for state government,
+collecting on debts for other state departments, boards, and commissions and
+managing contracts for private collections firms for Executive Branch agencies.
+
+Program Records
+028 Agency Collection Records
+Retain 6 years after collection or charge off, destroy
+029 Collection Division Monthly Reports
+Retain 6 years, destroy
+030 Bankruptcy Work Papers
+Retain until activity ends, merge with tax returns in Case Files
+031 Bankruptcy Case Files
+Retain 6 years after case discharged or dismissed, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015) Contracts and agreements
+Correspondence
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+Audits Records
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency:      Oregon Department of Revenue
+Division:      Information Technology Services
+
+Program Description
+The Information Technology Services Division supports the Department of Revenue
+(DOR) by providing technology-based business solutions, technical support, and the
+processing of all paper returns and correspondence sent to the agency. They oversee
+the management, development and maintenance of the agency's iSeries computer
+and its software computer systems. The division develops and maintains the
+department’s IT Strategic Plan. IT evaluates and issues decisions on the specifications
+and procurement of all computer hardware, software, and services. The Information
+Technology Executive Commission is responsible for reviewing and
+approving/denying all projects with a cost in excess of $500,000.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Staff Meeting Records
+Policy Development and Planning Records
+Forms Development Records
+Financial Records (OAR 166-300-0025)
+Purchasing Records
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Maintenance Records
+Computer System Security Records
+Information System Planning and Development Records
+Mailing Lists
+User Support Records
+
+Systems of Record
+IT Staff access all agency databases as part of the business line.
+
+Agency:        Oregon Department of Revenue
+Division:  Information Technology Services
+Section: Application Development Services
+
+Program Description
+Application Development Services develops and maintains the department’s
+computer applications. Application Development advises on the acquisition of
+hardware and develops automated systems for tax programs. Unit staff are engaged
+in ongoing training and seminar attendance to keep up to date on developing
+technology. They provide expertise in all areas of automation. The expertise exists to
+explore new technology and make recommendations for the acquisition of hardware
+and software, perform systems analysis, programming and installation of new
+systems, documentation and training for users and technical staff.
+
+Program Records
+ None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar and Training Program Records
+Correspondence
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Maintenance Records
+Information System Planning and Development Records
+
+Systems of Record
+Agency Shared Drive
+Task Tracking System
+IT Staff access all agency databases as part of the business line.
+
+Agency:  Oregon Department of Revenue
+Division:  Information Technology Services
+Section: Engineering Services
+
+Program Description
+Engineering Services is responsible for network, database and system administration
+expertise to the agency. The section also provides technical expertise, support and
+investigation services relevant to Information Technology Services to agency staff and
+management.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Financial Records (OAR 166-300-0025)
+Audit Reports
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Maintenance Records
+Computer System Security Records
+Cybersecurity Records
+Information System Planning and Development Records
+
+Systems of Record
+Agency Shared Drive
+IT Staff access all agency databases as part of the business line.
+
+Agency:  Oregon Department of Revenue
+Division:  Information Technology Services
+Section: Processing Center
+
+Program Description
+The Processing Center’s activities are carried out in a high-volume environment that
+relies heavily on technology and automation. Annually, the Processing Center
+processes more than 1.8 million pieces of mail, including all Oregon paper-filed tax
+returns. It provides the essential functions for return and payment processing for most
+of the agency’s programs. All check payments and approximately 96 percent of
+paper tax returns are imaged in the section and data is captured in a combination of
+automated and semi-automated processes. The processing center is comprised of
+four units: Mail Processing, Imaging, Payment Processing and Information
+Transcription.
+
+Program Records
+032 A Corporation Returns
+(a) Retain returns, amendments and appeals 10 years after receipt or last
+action, whichever is longer, destroy
+(b) Retain open billings 1 year after balance paid in full, destroy
+033 C Corporation Returns
+(a) Retain returns, amendments and appeals 4 years after receipt or last action,
+whichever is longer, destroy
+(b) Retain open billings 1 year after balance paid in full, destroy
+034 Estate Returns
+(a) Retain returns, amendments and appeals 3 years after receipt or last action,
+whichever is longer, destroy
+ (b) Retain open billings 1 year after balance paid in full, destroy
+035 Inheritance Returns
+(a) Retain returns, amendments and appeals 4 years after receipt or last action,
+whichever is longer, destroy
+(b) Retain open billings 1 year after balance paid in full, destroy
+036 Lane County Mass Transit District (LTD) Self-Employment Tax Returns
+(a) Retain returns, amendments and appeals 4 years after receipt or last action,
+whichever is longer, destroy
+(b) Retain open billings 1 year after balance paid in full, destroy
+037 Partnership Returns
+Retain returns, amendments and appeals 4 years after receipt or last action,
+whichever is longer, destroy
+038 Personal Income Tax Returns
+
+(a) Retain returns, amendments and appeals 4 years after receipt or last action,
+whichever is longer, destroy
+(b) Retain open billings 1 year after balance paid in full, destroy
+039 S Corporation Returns
+(a) Retain returns, amendments and appeals 6 years after receipt or last action,
+whichever is longer, destroy
+(b) Retain open billings 1 year after balance paid in full, destroy
+040 Timber Tax Returns
+(a) Retain returns, amendments and appeals 4 years after receipt or last action,
+whichever is longer, destroy
+(b) Retain open billings 1 year after balance paid in full, destroy
+041 Tri-County Metropolitan Transit District (Tri-Met) Returns
+(a) Retain returns, amendments and appeals 3 years after receipt or last action,
+whichever is longer, destroy
+(b) Retain open billings 1 year after balance paid in full, destroy
+042 Trust Returns
+(a) Retain returns, amendments and appeals 4 years after receipt or last action,
+whichever is longer, destroy
+(b) Retain open billings 1 year after balance paid in full, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Information Management Records (OAR 166-300-0030)
+Microfilm Quality Control Records
+Filing System Records
+Postal Records
+Records Management Records
+Computer System Program Documentation
+Financial Records (OAR 166-300-0025)
+Invoices
+Receipts
+Risk Management Records (166-300-0045)
+Emergency Response Plans and Procedures
+Safety Program Records
+
+Systems of Record
+Agency Shared Drive
+GenTax
+InfoPoll
+Quick Modules
+
+Agency:  Oregon Department of Revenue
+Division:  Information Technology Services
+Section: Processing Center
+Unit:  Payment Processing
+
+Program Description
+The Payment Processing unit processes all tax program payments that are received
+with and without payment direction. This team researches and inputs payment details
+and produces virtual payment vouchers which direct the payments within GenTax.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+Accounts Receivable Reports
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency:  Oregon Department of Revenue
+Division:  Information Technology Services
+Section: Support Services
+
+Program Description
+Support Services designs and maintains the endpoint hardware and software
+associated with the department’s computer systems. The section is responsible for
+providing desktop support, service desk support, licensing, identity/access
+management, telecommunications, and desktop engineering. The section plans for
+current and anticipated endpoint needs and consults on the agency's Technology
+Plan. Support Services procures and installs desktop, laptop and mobile devices and
+controls standards, protocols, and high-level technical support for the agency. It
+contracts for service and maintenance of equipment. The unit monitors the
+performance of the computer systems to identify problems and controls and sets up
+system security.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Financial Records (OAR 166-300-0025)
+Audit Reports
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Maintenance Records
+Computer System Security Records
+Information System Planning and Development Records
+User Support Records
+
+Systems of Record
+Agency Shared Drive
+IT Staff access all agency databases as part of the business line.
+
+Agency:  Oregon Department of Revenue
+Division:  Personal Tax and Compliance
+Section:  Compliance
+Unit:         Audit
+
+Program Description
+The Personal Tax and Compliance Audit program is responsible for conducting
+audits of tax returns and related appeals. The program includes units in Salem and at
+the department’s five regional offices - located in Portland, Gresham, Bend, Eugene
+and Medford. Auditors manage the appeal process for non-filers and filers. The
+program handles appeals for adjustments made during the processing and sends
+reports of audit adjustment to IRS.
+
+Field Office auditors conduct audits of the tax returns, appeals, projects, and non-
+filers. Audit files are created using information received from third parties and
+internal records. At the conclusion of the audit a report of findings is generated. Field
+auditors conduct face-to-face audits of self-employed individual and interstate
+companies and handles the more complex and reluctant tax cases. Tax collections
+overseen by the program are conducted using correspondence, field visits, phone
+calls, third-party searches, seizures and garnishments.
+
+Program Records
+043 Individual Income Tax Records (Forms 40, 40S, 40N, and 40P)
+Retain 6 years, destroy
+044 Miscellaneous Income/Tax Records (Forms 1099 and 96)
+Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015) Correspondence
+Policy and Procedure Guidelines and Manuals
+Financial Records (OAR 166-300-0025)
+Audit Records
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency:  Oregon Department of Revenue
+Division:  Personal Tax and Compliance
+Section: Compliance
+Unit:  Taxpayer Services
+
+Program Description
+The Taxpayer Services unit responds to taxpayer inquiries via telephone, email,
+Revenue Online (ROL) or in person. The unit provides assistance to taxpayers in
+complying with Oregon's tax laws through the provision of advice, forms and
+schedules, and agency publications. It provides badges and directs visitors to other
+divisions of the Department of Revenue and answers questions about specific tax
+programs.
+
+The unit supplies content for the telephone Integrated Voice Response System to
+automate responses to common questions and activities. It provides bilingual aid for
+taxpayers who are more comfortable speaking in their native language through
+translation services and/or through bilingual personnel. The unit runs the TTY
+(teletypewriter) for the deaf or otherwise vocally impaired who call the agency using a
+TTY. Finally, the unit collects money coming from taxpayer walk-ins at the central
+offices.
+
+Program Records
+045 Phone System Statistical Reports
+Retain 5 years, destroy
+
+State Agency General Records Retention Schedule
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+Information and Records Management Records (OAR 166-300-0030)
+Information System Planning and Development Records
+
+Systems of Record
+Agency Shared Drive
+
+Agency: Oregon Department of Revenue
+Division: Personal Tax and Compliance
+Section: Compliance
+Unit:  Taxpayer Services
+Program:   Payment Center
+
+Program Description
+The Payment Center is responsible for taking payments for all tax programs
+administered by the Department of Revenue. It provides badges and directs visitors
+to other divisions of the Department of Revenue and answers questions about
+specific tax programs.
+
+Program Records
+046 Payment Center Logs
+(a) Retain Loomis log 6 years, destroy
+(b) Retain all other logs 4 years, destroy
+047 Cash Drawer Audits
+Retain 4 years, destroy
+048 Cash Drawer Records
+Retain 90 days, destroy
+
+State Agency General Records Retention Schedule
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Security Records
+Visitor Logs
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+Information and Records Management Records (OAR 166-300-0030)
+Information System Planning and Development Records
+
+Systems of Record
+Agency Shared Drive
+
+Agency:  Oregon Department of Revenue
+Division:  Personal Tax and Compliance
+Section:  Program Services
+Unit:   Personal Income Tax Filing Enforcement
+
+Program Description
+The Personal Income Tax Filing Enforcement unit deals with personal income
+taxpayers who have not filed tax returns and owe money to the State of Oregon. The
+unit uses the agency computer system, records from other state agencies and the IRS
+to identify debtors. The unit identifies the taxpayer who has failed to file using data
+from the department’s GenTax system, other state agencies and the IRS that is stored
+in a data warehouse. It generates formal demands to file letters that are sent to the
+taxpayer from the GenTax system. The program follows up on cases by telephone or
+further correspondence. The unit explains requirements to file and the consequences
+of noncompliance to taxpayers. The program acts to obtain delinquent returns if
+possible and calculates the tax liability, penalty and interest on individuals who do not
+comply within the statutory period after they have been advised of their obligation to
+file. Finally, the unit oversees Oregon’s Charitable Checkoff Committee, where
+organizations can qualify to receive donated tax dollars.
+
+Program Records
+049 Master List of Income Sources
+ Retain 6 years after superseded, destroy
+050 Non-Filers Case Records
+ Retain 6 years after collection case closed or charged off, destroy
+051 Charitable Checkoff Committee Minutes
+Retain 6 years, destroy
+
+State Agency General Records Retention Schedule
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency:  Oregon Department of Revenue
+Division:  Personal Tax and Compliance
+Section:   Program Services
+Unit:    Policy and Operations
+
+Program Description
+The Personal Tax and Compliance Policy and Operations Unit monitors, evaluates
+and supports the agency's operations by researching and interpreting tax law and
+giving objective information to management on which to base program policy and
+operational decisions. The unit also develops and recommends changes in operating
+procedures and standards that incorporate legislative changes or changes for a more
+efficient operation of the program.
+
+Unit representatives give and/or prepare presentations for professional organizations
+or internal audiences that are given either in person or virtually. The unit conducts
+training on special or specific issues relating to personal income tax.
+
+The unit answers letters concerning personal income tax issues sent to the Governor
+or the agency and monitors the Help Desk and email box for tax practitioners for
+various programs. The unit also answers surveys, submits articles to professional
+newsletters and runs special events.
+
+Program Records
+052 Policy and Operations Special/Temporary Tax Program Records
+(a) Retain final report 20 years, destroy
+(b) Retain working records 5 years after acceptance of final report, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Correspondence
+Conference, Seminar, and Training
+
+Systems of Record
+Agency Shared Drive
+
+Agency:  Oregon Department of Revenue
+Division:  Personal Tax and Compliance
+Section:  Program Services
+Unit:    Policy and Operations
+Program: Tax Forms and Publication
+
+Program Description
+The Policy and Operations unit oversees personal income forms development and
+review for use by the public and tax practitioners. The unit coordinates an internal
+process with an agency annual form update project.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar and Training Program Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Publication Preparation Records
+Information and Records Management Records (OAR 166-300-0030)
+Forms Development Records
+
+Systems of Record
+Agency Shared Drive
+
+Agency: Oregon Department of Revenue
+Division: Personal Tax and Compliance
+Section: Program Services
+Unit:  Policy and Operations
+Program: Tax Program and Special Project Implementation
+
+Program Description
+Tax Program and Special Project Implementation is responsible for the
+implementation of tax programs passed into law by Oregon Legislature including
+administrative rule development, designing forms, instructions, and publications,
+developing a communication plan for outreach to impacted parties and coordinating
+presentations and training to tax professionals and internal staff. Implementation may
+also include coordinating agency-wide and high-impact special projects.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Systems of Record
+Agency Shared Drive
+
+Agency:  Oregon Department of Revenue
+Division:  Personal Tax and Compliance
+Section:  Program Services
+Unit:    Tax Systems
+
+Program Description
+The Tax Systems unit uses the GenTax system to process all tax returns filed on paper
+or through electronic filing. Unit personnel are responsible for reviewing, upgrading
+and maintaining the GenTax System and electronic filing for the Personal income Tax
+(PIT) program, State Transportation Individual Tax (STI) program and temporary
+programs such as the Pass-through Entity Elective Tax (PTE-E) program.
+
+This unit is also responsible for working with tax software preparation vendors to test
+and approve conformance with filing and electronic transmission requirements as
+well as issue Form 1099-Gs and Form 1099-INTs for the department.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Program Documentation
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency:  Oregon Department of Revenue
+Division:  Property Tax
+Section:  Assessment and Taxation Standards
+Unit:   Finance, Taxation and Exemptions
+
+Program Description
+The Finance, Taxation and Exemptions unit works to assure compliance of local
+governments with property tax and local budget laws. The unit analyzes and
+interprets statutes and administrative rules relating to local budget, finance, records
+and the non-appraisal assessment activities of Oregon's property tax system. Analysts
+create and maintain standards for property assessment and taxation, advise taxing
+district personnel on issues relating to Oregon's local budget law, and provide
+extensive training and publications to local agency personnel. Analysts recommend
+corrective action to be taken under the department's compliance statutes up to and
+including withholding of county grant funds, reducing and/or voiding of tax levies.
+
+Program Records
+053  County Summary Reports
+Retain 2 years, destroy
+054   Statewide Summary Reports
+Retain 10 years, destroy
+055 Local Taxing District Tax Levy Certification Records
+Retain 10 years, destroy
+056 Nonprofit Housing for the Elderly Records
+Retain 10 years, destroy
+057 Supervisory Appeal Case Files
+Retain 10 years after resolution, destroy
+058 Income and Property Tax Appeals, Opinions and Orders
+Retain 10 years after resolution, destroy
+059 Declaratory Ruling Records
+Retain 20 years after issue, destroy
+060 Property Tax Legislative Concepts Policy Records
+Retain 20 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar and Training Program Records
+Correspondence
+
+Systems of Record
+Agency Shared Drive
+Local district Database
+LegOp
+
+Agency:  Oregon Department of Revenue
+Division:  Property Tax
+Section:  Support, Assistance and Oversight
+Unit:   Cadastral Information Systems (CIS)
+Program: Cadastral, ORMAP
+
+Program Description
+The Cadastral Information Systems (CIS) unit assists counties with development and
+maintenance of property maps for assessment purposes per ORS 306.125 and
+308.245. The unit runs a map maintenance program for creating maps and property
+records for Oregon counties without cartographers. All cartographic activities are
+based on data transfers with little or no fieldwork conducted by department
+personnel. Counties send recorded deeds and property segregation information and
+the program updates a county property map and the tax lot card. The unit reviews
+maps and descriptions of annexations to taxing districts to check that they adequately
+describe the area incorporated, as required by ORS 308.225.  Also, the unit reviews
+maps and legal descriptions for Property Classification Memos, sent by the Central
+Assessment unit to counties to document a change in assessment responsibility
+
+Program Records
+061 Annexation Files
+Retain 10 years, destroy
+062 County Property Maps
+Retain until superseded or obsolete, destroy
+063 Maintenance Plat Files
+Retain until superseded or obsolete, destroy
+064 Maintenance Property Files
+Retain until superseded or obsolete, destroy
+065 PCM Maps, 1887-[ongoing] 5.00 c.f.
+Retain permanently, transfer to the State Archives when administrative need
+ends
+066 Remapping County Maps
+Retain until superseded or obsolete, destroy
+067 Remapping Plat Files
+Retain until superseded or obsolete, destroy
+068 Remapping Property Files
+Retain until superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+
+Contracts and Agreements
+Correspondence
+Financial Records (OAR 166-300-0025)
+Invoices
+Receipts
+
+Systems of Record
+Agency Shared Drive
+Map Order 2002
+Maintenance Mapping
+ORMAP
+
+Agency: Oregon Department of Revenue
+Division: Property Tax
+Section: Support, Assistance and Oversight
+Unit:   County Mass Appraisal Review
+
+Program Description
+The County Mass Appraisal Review program is responsible for determining how well
+counties are maintaining the quality of their appraisal programs in terms of accurate
+real market value on real and personal property. The report assists the department in
+fulfilling the role of general supervision and control over the statewide system of
+property taxation provided in ORS 306.115(1).  The program reviews the counties’
+calculation programs to verify standards are met and to measure the health of the
+statewide valuation section.  Counties annually submit ratio studies illustrating how
+well they are achieving valuing property at 100% of its real market values, as required
+by ORS 308.232.
+
+Program Records
+069 County Assessors Ratio Study Review and Recommendation Records
+  Retain 12 years, destroy
+070 Ratio Adjustment Records
+  Retain 12 years, destroy
+071 County Mass Appraisal Performance Review Reports
+  Retain 15 years, destroy
+
+State Agency General Records Retention Schedule
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Systems of Record
+Agency Shared Drive
+
+Agency:  Oregon Department of Revenue
+Division:  Property Tax
+Section:  Support, Assistance and Oversight
+Unit:   Deferral
+Program:  Senior and Disabled Citizens Property Tax Deferral
+
+Program Description
+The Senior and Disabled Citizens Property Tax Deferral program oversees the
+deferral of property taxes assessed to seniors and disabled Oregonians per ORS
+311.666 - 311.735. Oregon homeowners, who are disabled or age 62 and over may
+apply to delay paying property taxes on their residences. Senior and disabled
+Oregonians may also defer payments on special assessments against their property.
+The tax debt and assessments are paid by the state and then the taxpayer repays the
+state with interest when the owner dies or sells the property, moves, or changes
+ownership. The program reviews the applications for deferment and conducts an
+extensive series of checks. An agency denial ends the process unless the property
+owner appeals to the Tax Magistrate. Once a deferment is granted a lien is put
+against the property to preserve the state's interests. The program audits the cases
+on an ongoing basis and program staff manage any problems. The payment of taxes
+results in lien release. The program also generates annual statements to seniors and
+disabled citizens holding deferrals.
+
+Program Records
+072 Original Recorded Property Liens
+Retain 6 years after lien satisfied, destroy
+073 Senior and Disabled Citizen Deferral Application Records
+(a) Retain approved, accepted applicant records 6 years after Department of
+Revenue reimbursed, destroy
+(b) Retain denied, withdrawn applications 3 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency:  Oregon Department of Revenue
+Division:  Property Tax
+Section:  Support, Assistance and Oversight
+Unit:   Forestland Valuation and Timber Tax
+
+Program Description
+The Forestland Valuation and Timber Tax unit oversees the taxing of forest land and
+timber production in Oregon on both private and non-private land. The program
+computes the value of forestlands for assessment purposes and provides the figures
+to the county assessors.
+
+The unit mails returns to potential harvesters and the harvesters file as conventional
+taxpayers. The Forest Products Harvest Tax (FPHT) is levied on harvested timber
+throughout Oregon, private or public. The money collected from the FPHT is
+distributed to the Department of Forestry, Oregon State University, and Oregon
+Forest Resources Institute.  The privilege taxes go to the local taxing districts.
+
+Small Tract Forestland (STF) Severance Tax is levied on timber harvested from land
+classified by the county as Small Tract Forestland. The money collected from this tax
+is distributed to the State School Fund, Community College Support Fund and the
+counties.
+
+Program Records
+074 Ad Valorem Timber Appraisal Records
+Retain 25 years, destroy
+075 County Code Maps Receipt Log
+Retain 6 years, destroy
+076 Forest Products Harvest Tax Distribution Reports
+Retain 10 years, destroy
+077 Forest Products Harvest Tax Returns
+Retain 6 years after final collection/action, destroy
+078 Forestland Base Maps, 1962-1977  20 c.f.
+Retain permanently, transfer to State Archives after 50 years
+079 Forestland Value Schedules, 1963-[ongoing] 3.00 c.f.
+Retain permanently, transfer to State Archives after 50 years
+080 Log Truck Mileage Maps
+Retain until superseded or obsolete, destroy
+081 Property Maps
+Retain until superseded or obsolete, destroy
+082 Mill Reports
+Retain until superseded or obsolete, destroy
+083  Small Tract Forest Land Severance Tax Records
+
+Retain 6 years after final collection/action, destroy
+084 Timber Harvest Mill Pickup Reports
+Retain 3 years, destroy
+085 Timber Stumpage Value Tables
+Retain 25 years, destroy
+086 Timber Tax Account Case Files
+Retain 6 years, destroy
+087 Timber Tax Records Account Aging Reports
+Retain 6 years, destroy
+088 Western Oregon Privilege Tax Return Statistical Reports [ended 2005]
+Retain 25 years, destroy
+089 Soil Maps
+Retain until superseded or obsolete, destroy
+090 Timber Maps, 1963 – [ongoing] 3.00 c.f.
+Retain permanently, transfer to the State Archives when administrative need
+ends
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+Audit Reports
+Receipts
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency:  Oregon Department of Revenue
+Division:  Property Tax
+Section: Support, Assistance and Oversight
+Unit:  General Programs/Training Development: Salem
+Program: Appraiser Continuing Education Certification
+
+Program Description
+The Appraiser Continuing Education Certification program establishes statewide
+policy regarding the duties, jurisdiction, and resources for the continuing education
+of county and Department of Revenue appraisers per ORS 308.010, 308.057 and
+308.059. The program incorporates policies it develops into administrative rules,
+manuals and legislative concepts. It coordinates its policy recommendations with
+other agency and division guidelines. The program develops and presents training to
+county and department staff in multiple locations each year. It develops a new
+curriculum annually to meet the continuing education needs of appraisers and
+assessors. The program issues certificates for completion of agency directed training.
+If assessors or appraisers fail to meet the requirements for continuing education the
+program may revoke their certification. Finally, the program provides assistance to
+local officials, taxpayers and agency staff.
+
+Program Records
+091 Appraiser Revocations and Certification Records
+Retain 6 years after certification lapses or is revoked, destroy
+
+State Agency General Records Retention Schedule
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Conference, Seminar and Training Program Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+
+Systems of Record
+Agency Shared Drive
+Appraiser Continuing Education Database (ACED)
+Workday
+
+Agency:        Oregon Department of Revenue
+Division:  Property Tax
+Section: Support, Assistance and Oversight
+Unit:  Program Assistance
+Program: County Assessment Function Funding Assistance (CAFFA)
+
+Program Description
+County Assessment Function Funding Assistance (CAFFA) program reviews grants
+and approves the request for funding to county assessors, valuation, cartography, tax
+collection assists in the operation of assessment and taxation programs. The program
+also creates training courses for appraisal, assessors, and tax collectors and reviews
+current training modules that incorporate desired training and information.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements,
+Conference, Seminar and Training Program Records
+Correspondence
+Financial Records (OAR 166-300-0025)
+Audit Reports
+Grant Records
+Information and Records Management Records (OAR 166-300-0030)
+Software Records
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency:        Oregon Department of Revenue
+Division:  Property Tax
+Section: Support, Assistance and Oversight
+Unit:    Special Programs
+Program: Oil and Gas Severance Tax
+
+Program Description
+The Oil and Gas Severance Tax program audits the returns for natural gas and oil
+producers in the State of Oregon. Producers make special payments to the state,
+dedicated to schools.
+
+Program Records
+092 Natural Gas and Oil Producer Tax Return Audit Records
+Retain 6 years, destroy
+
+State Agency General Records Retention Schedule
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Financial Records OAR 166-300-0025
+Account Reconciliation Records
+
+Systems of Record
+Agency Shared Drive
+GenTax
+
+Agency:       Oregon Department of Revenue
+Division: Property Tax
+Section: Valuation
+
+Program Description
+The Valuation section appraises industrial, public utility, railroad, communication and
+transportation property. The industrial program provides industrial appraisal services
+to county assessors as outlined in ORS 306.126. The Industrial unit's purpose is to
+provide counties with appraisals of State Appraised Industrial Property as defined in
+ORS 306.126(1)(b) as any operating industrial property with a real market value of
+improvements in excess of $1 million. The Centrally Assessed Property unit annually
+appraises public utilities, railroad and transportation properties under ORS 308.515.
+Central assessments are entered on the assessment roll, which is apportioned to the
+counties.
+
+Program Records
+093 Cap Rate Studies
+Retain 15 years, destroy
+094 Industrial Property Tax Return Records
+Retain 10 years, destroy
+095 Industrial Valuation Records
+(a) Retain current and last previous assessment, destroy
+(b) Retain all other records 6 years, destroy
+096 Property Classification (Memorandum) Records
+Retain records 6 years after property no longer owned by a centrally assessed
+company, destroy
+097 Special Project Records
+Retain 15 years, destroy
+098 Utility Assessment Files
+Retain 15 years, destroy
+099 Utility Assessment Roll
+Retain 10 years, destroy
+
+State Agency General Records Retention Schedule
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Financial Records (OAR 166-300-0025)
+Invoices
+Receipts
+
+Systems of Record
+Agency Shared Drive
+General Electronic Assessment Review System
+Utility Assessment Roll
+Electronic Valuation Information System
+
+## Cross-references
+
+General records retention schedules cited in the text above. These are OAR
+chapter 166 rules and live verbatim in the sibling corpus
+[OregonAI/executive-regulatory-frameworks](https://github.com/OregonAI/executive-regulatory-frameworks);
+they are referenced here as citations, never copied (see AGENTS.md).
+
+Reproduced exactly as the source schedule cites them. A few are stale upstream —
+the rule was renumbered or repealed after this schedule was published — so a
+citation here is not a guarantee the rule still exists. Resolving one reports
+the difference: a live rule returns a title and link, a stale one reports that
+the sibling corpus holds no such document.
+
+- OAR 166-300-0015
+- OAR 166-300-0020
+- OAR 166-300-0025
+- OAR 166-300-0030
+- OAR 166-300-0040
+- OAR 166-300-0045
+
+## Provenance & change history
+
+- Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-revenue.pdf> · retrieved 2026-07-25 · sha256 `6cb6fbc80d63624cd570f77ee15adfac319d3c8ecce56567ed1b2b518fa912a2`
+- Snapshot: `_meta/snapshots/schedule-revenue.txt` (extracted text) and `_meta/snapshots/schedule-revenue.pdf` (raw source, 50 pages).
+- Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 50 pages. Stripped repeated running-header lines: "Edition: June 2024 Schedule Number: 2024-0004"; "Oregon State Archives"; "Records Retention Schedule". Stripped 49 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
+- See [CHANGELOG](../CHANGELOG.md).

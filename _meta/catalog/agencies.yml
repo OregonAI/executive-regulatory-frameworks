@@ -1356,6 +1356,14 @@ organizations:
   parent_slug: null
   parent_chapter: null
   budget_agency_code: '919'
+- slug: saif-corporation
+  name: SAIF Corporation
+  oar_chapter: null
+  raw_index_name: SAIF Corporation
+  source_url: https://www.saif.com/
+  parent_slug: null
+  parent_chapter: null
+  manual: true
 - slug: secretary-of-state
   name: Secretary of State
   oar_chapter: null

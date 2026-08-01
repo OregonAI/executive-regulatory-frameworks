@@ -1,0 +1,1302 @@
+---
+schema_version: 1
+corpus: executive-regulatory-frameworks
+jurisdiction: oregon
+id: schedule-parks-recreation
+title: Parks and Recreation Department
+doc_type: schedule
+citation: Parks and Recreation Department — Oregon Special Records Retention Schedule
+authority_level: schedule
+issuing_body: Oregon Secretary of State, Archives Division
+agency: parks-and-recreation-department
+division: null
+schedule_number: 2012-0013
+legal_authority: []
+source_url: https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-parks-recreation.pdf
+source_format: pdf
+retrieved: '2026-07-25'
+source_sha256: fc2704dffc208b947a10728643a2955d052cb55188189516663b6531ed820706
+effective_date: null
+effective_date_text: November 2019
+expires: null
+expires_text: null
+last_reviewed: null
+source_version: 2012-0013
+status: current
+content_mode: verbatim
+conversion_notes: 'Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 35 pages.
+  Stripped repeated running-header lines: "Edition: November 2019"; "Oregon State Archives"; "Records
+  Retention Schedule". Stripped 34 bare page-number line(s). Only lines that BOTH repeat at a page edge
+  on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number
+  line, bare page number) were removed; every other repeated line, including per-page ''Organizational
+  Placement'' / ''Agency'' / ''Systems of Record'' blocks, was left in place. Trailing whitespace removed
+  and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.'
+last_verified: ''
+verified_by: ''
+maintainer: '@morficflux'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related:
+    - oar-166-300-0015
+    - oar-166-300-0020
+    - oar-166-300-0025
+    - oar-166-300-0030
+    - oar-166-300-0035
+    - oar-166-300-0040
+    - oar-166-300-0045
+  supersedes: []
+tags:
+- records-retention
+- special-schedule
+---
+
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
+> copy, not the official text. Verify against the official source:
+> <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-parks-recreation.pdf> (retrieved 2026-07-25).
+
+# Parks and Recreation Department
+
+## At a glance
+
+Special records retention schedule for Parks and Recreation, published by the Oregon Secretary of State, Archives Division, schedule number 2012-0013, effective date as printed: November 2019. It runs to 35 pages and lists the agency's own record series with a retention and disposition clause for each. Record series that every state agency holds are NOT here: they are covered by the OAR chapter 166 general schedules, which this corpus references rather than copies — 7 distinct general-schedule rule(s) are cited in the text below.
+
+## Full text
+
+Parks and Recreation Department
+Records Retention Schedule 2012-0013
+Effective Date: November 2019
+Table of Contents
+
+Director’s Office ............................................................................................................................. 2
+
+Administration ................................................................................................................................ 7
+
+Heritage and Community Programs ............................................................................................. 14
+
+Operations…………...................................................................................................................... 20
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Director’s Office
+
+Program Description
+The Oregon Parks and Recreation Department (OPRD) is responsible for developing and
+providing access to sites with natural, scenic, cultural, historic significance, and recreational
+opportunities. The department operates Oregon state parks through its headquarters in Salem,
+with support from three regional offices. OPRD is responsible for Oregon's Recreation Trails, the
+Ocean Shores Recreation Area, Scenic Waterways, Willamette River Greenway, and Heritage
+Programs, including the State Historic Preservation Office, Heritage Commission, and Oregon
+Commission on Historic Cemeteries. Originally part of the Oregon Highway Department, OPRD
+began operations as a stand-alone agency in 1989. OPRD’s statutory authority is found in ORS
+Chapters 97, 358, 390; the agency’s official name is the State Parks and Recreation Department.
+
+OPRD is headed by a Director, who is responsible for administering the agency; providing
+leadership and direction in the formation and execution of policy; and overseeing the agency
+budget (ORS 390.131). The Director is appointed by and responsible to the State Parks and
+Recreation Commission, a seven-member governor-appointed body that establishes policies;
+adopts administrative rules necessary to execute OPRD’s duties; sets fees; acquires property; and
+promotes the state’s outdoor recreation policy (ORS 390.114 et seq.). The Director’s Office
+maintains the official copy of the State Parks and Recreation Commission’s records.
+
+Program Records
+001 Director's Administrative Correspondence, 1980 – [ongoing]      3 c.f.
+Retain permanently, transfer to State Archives at conclusion of administration
+002   Oregon Parks and Recreation Commission Records, 1989 – [ongoing]      3 c.f.
+(a) Retain meeting agendas, minutes and exhibits permanently, transfer to State Archives
+ after 25 years
+ (b) Retain meeting audio recordings and transcriptions 1 year after commission's
+      approval of written meeting minutes
+(c) Retain member records 5 years after term ends, destroy
+(d) Retain all other records 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records  (OAR 166-300-0015)
+Correspondence
+Financial Records (OAR 166-300-0015)
+Grant Records
+Personnel Records (OAR 166-300-0040)
+Employee Personnel Records
+
+Databases
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Director’s Office
+Program: Quality Assurance
+
+Program Description
+The Quality Assurance program provides internal auditing, independent assurance, and
+consulting services intended to improve or assure the performance of agency operations. State
+government internal auditing is regulated by OAR 125 Division 700.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Financial Records (OAR 166-300-0025)
+Audit Reports
+Internal Audit Reports
+Risk Management Records (OAR 166-300-0045)
+Risk Factor Evaluation Records
+
+Databases
+None
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Central Support
+Program: Communications
+
+Program Description
+Communications is responsible for providing technical expertise and services involving OPRD
+communications, research, policy development and implementation, and administrative rule
+preparation. Program staff also responds to Americans with Disability Act (ADA) complaints,
+formal and informal, involving OPRD. The program is the department’s liaison with the media –
+answering inquiries, coordinating information requests, and writing press releases and articles. It
+assists programs and projects through the provision of research services. Communications and
+Research maintains the department’s website and conducts OPRD social networking activities.
+
+Program Records
+003 ADA Complaint Records
+ Retain 5 years after investigation completed, destroy
+004 Complaint Records
+ Retain 3 years, destroy
+005 OPRD Units and Programs Project Records
+ Retain 10 years after life of project, destroy
+006 Statewide Comprehensive Outdoor Recreation Plan Records, 1983 – [ongoing], 2.c.f.
+(a) Retain final plans permanently, transfer to State Archives after 20 years
+(b) Retain all other records 10 years, destroy
+007 Statewide Trails Plans Records, 1979 – [ongoing]        1 c.f.
+(a) Retain final plans permanently, transfer to State Archives after 20 years
+(b) Retain all other records 10 years, destroy
+008 Survey Records
+ (a) Retain final survey results and reports 5 years, destroy
+(b) Retain survey responses 2 years after survey completed and compiled, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Press Releases
+Publication Preparation Records
+
+Databases
+CUSTOMER COMPLAINT
+DYNAMIC POLICY
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Central Support
+Program: Human Resources
+
+Program Description
+Human Resources is responsible for the centralized management of personnel within OPRD. The
+program processes all personnel transactions, including hiring, terminations, promotions, training
+and development, and workers compensation cost control. Human Resources provides advice
+and assistance to agency staff about personnel policies and procedures, including affirmative
+action and equal employment opportunities. Human Resource staff responds to issues, actions,
+and complaints involving agency resources and their impact on agency staff and the workplace.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Personnel Records (OAR 166-300-0040)
+Employee Medical Records
+Employee Personnel Records
+Recruitment and Selection Records
+
+Databases
+PPDB (Position and Personnel Database)
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Central Support
+Program: Safety and Risk Management
+
+Program Description
+The Safety and Risk Management program is responsible for supporting the agency through
+oversight of its safety program, which provides a safe working environment. It manages risk
+mitigation and prevention. Program staff manage all risk and safety matters, including plans,
+procedures, employee exposure, incidents, and workers compensation claims. Central Business
+Services maintains the official copy of law enforcement records (warnings, citations, exclusions).
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Personnel Records (OAR 166-300-0040)
+Employee Medical Records
+Risk Management Records (OAR 166-300-0045)
+Emergency Response Plans and Procedures
+Hazard Exposure Records
+Incident Reports
+Insurance Fund Claim Records
+Risk Factor Evaluation Records
+Safety Compliance and Inspection Records
+Safety Program Records
+State Accident Insurance Fund (SAIF) Claim Records
+Vehicle Accident Records
+
+Databases
+HUB
+INCIDENT
+RULE ENFORCEMENT
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Central Support
+Program: Accounting
+
+Program Description
+The Accounting program provides fiscal support services for the agency. Services include
+financial reporting, accounting services, payroll management, and management of all revenue
+and expenditures for the agency, including all incoming and outgoing funds related to grants and
+contracts. The program also manages trusts established for use by the agency and grant funding.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+Accounts Payable Reports
+Bank Statement Records
+Budget Development Records
+Budget Allotment Records
+Debit/Credit Advices
+Deposit Slips Records
+Grant Records
+Invoices Records
+Payroll Records (OAR 166-300-0035)
+Employee Payroll Records
+Employee Time Records
+
+Databases
+DATAMART
+FMS2 (Financial Management System 2)
+HUB
+OSPA (Oregon State Payroll Application)
+RESERVE AMERICA - AWO ORMS
+SFMA (Statewide Financial Management Application)
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Central Support
+Program: Budget
+
+Program Description
+The Budget program is responsible for creating, maintaining, tracking and implementing the
+OPRD biennial budget and Emergency Board actions. The program provides the Director and
+Commission with recommendations concerning all budgetary issues and concerns, including but
+not limited to needed expenditure limitations, short and long term fiscal matters and policy
+implications, while acting as the Department’s overall financial advisor.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+Financial Records (OAR 166-300-0025)
+Budget Allotment Reports
+Budget Preparation Records
+
+Databases
+ATV PERMITS
+FMS2 (Financial Management System 2)
+HUB
+KPM (Key Performance Measures)
+ORBITS (Oregon Budget Information Tracking System)
+PICS (Position Information Control System)
+SFMA (Statewide Financial Management Application)
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Central Support
+Program: Customer Information Services
+
+Program Description
+The Customer Information Services program assists the agency by performing selected
+administrative and technical activities; accepting campsite reservations (service partner known as
+Reservations Northwest); managing special access programs, which offer free access to some
+foster families and most veterans; and providing the agency’s help-desk function through the
+OPRD Hot Line.
+
+Program Records
+009 Customer Refund Requests
+ Retain 3 years after resolution, destroy
+010 Customer Reservation Cancellation Requests
+ Retain 2 years after resolution, destroy
+011 Law Enforcement Records (Warnings, Citations, and Exclusions)
+ Retain 4 years after final resolution, destroy
+012 Park Profiles
+ Retain 1 year after superseded, destroy
+013 Reservation History Records (De-Identified)
+ Retain 20 years, destroy
+014 Reservation Project Files
+ Retain 3 years after project completion, destroy
+015 Reservation Transaction Records (Non-Financial)
+ Retain 6 years, destroy
+016 Special Access Pass Records
+ Retain 1 year after expiration, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Financial Records (OAR 166-300-0015)
+Account Reconciliation Records
+Invoice Records
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Program Documentation
+Software Management Records
+
+Databases
+ABBREVIATED CUSTOMER RESERVATIONS SYSTEM
+ABBREVIATED RESERVE AMERICA
+HUB
+ORIGINAL CENTRAL RESERVATION SYSTEM
+PARK VISITOR COMMENT
+PHONE SURVEYS
+RESERVE AMERICA - AWO ORMS
+SAFETY AND RISK MANAGEMENT
+SPECIAL ACCESS PASS
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Central Support
+Program: Contracts and Procurement
+
+Program Description
+The Contracts and Procurement program provides technical expertise and management of
+contracts and procurement process for the department, including management of SPOTS and
+corporate cards, fleet, surplus property, cell phones, and ATV and parking (day-use) permits.
+
+Program Records
+017 ATV Permit Records
+ Retain 6 years after expiration, destroy
+018 Day Use Permits
+ Retain 30 days after expiration, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Facilities/Property Records (OAR 166-300-0020)
+Asset Inventory Records
+Vehicle Records
+Financial Records (OAR 166-300-0025)
+Invoices
+Checks
+Competitive Bid Records
+Credit Card Records
+Purchasing Records
+Receipts
+
+Databases
+HUB
+ORPIN (Oregon Procurement Information Network)
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Central Support
+Program: Information Services
+
+Program Description
+The Information Services program provides technical expertise and services to agency programs
+and staff. Duties include computer hardware and software configuration, installation and support;
+network security; voice and data communications infrastructure support; and internet and email
+support. Staff participate in agency disaster recovery planning, and provide help desk support.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Maintenance Records
+Computer System Program Documentation
+Computer System Security Records
+Information System Planning and Development Records
+Records Management Records
+User Support Records
+
+Databases
+Program staff access and use all OPRD database applications.
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Central Support
+Section: Interpretation
+Program: Interpretive Services
+
+Program Description
+Interpretive Services supports and coordinates the statewide interpretive program for OPRD. The
+Interpretive Coordinator, located in Salem, trains and oversees the program, field staff, and
+volunteers. Interpretive Services is responsible for enhancing the experience of park visitors by
+optimizing the sites and resources; it provides technical expertise on the development of OPRD’s
+website, signage, panels/exhibits in parks and waysides, buildings, amphitheaters, trails, and
+other elements of OPRD-managed sites. The program assesses the significant resources and
+major stories of each park, and establishes guidelines on how best to communicate those stories.
+
+Program Records
+060  Interpretive Team Records
+ Retain 5 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Financial Records (OAR 166-300-0025)
+Grant Records
+
+Databases
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Heritage and Community Programs
+Program: Heritage Outreach Programs
+
+Program Description
+Heritage and Community Programs promotes the preservation, understanding and enjoyment of
+Oregon’s historic and cultural heritage while providing leadership and direction to improve
+outdoor recreational opportunities. Staff provides coordination, technical expertise and
+leadership to ensure the integration of activities and resources, and delivery of programs to
+internal and external customers. Customers include heritage organizations, OPRD programs;
+local, state, federal and tribal governments; property owners; and associated stakeholders.
+
+Heritage and Community Programs staff provides technical expertise and services through the
+Oregon Heritage Commission, which secures, sustains and enhances Oregon’s heritage by
+coordinating heritage initiatives by public and private organizations (ORS 358.570); Oregon
+Commission on Historic Cemeteries, which protects and develops historic cemeteries and
+gravesites through grant funding and technical assistance (ORS 97.774); Oregon Historic Trails
+Advisory Council, which promotes the significance of historic trails and advises a variety of
+public and private agencies on policy matters (EO 98-16); and Oregon Main Street, which works
+with communities to develop comprehensive revitalization strategies based on their unique
+assets, character, and heritage. Heritage and Community Programs also maintains the records of
+the Oregon Scenic Bikeways Committee, which reviews applications for Scenic Bikeway
+designation, and makes recommendations to the Oregon Recreation Trails Advisory Council.
+
+Program Records
+019   Heritage Assessment Records
+Retain 50 years, destroy
+020 Oregon Commission on Historic Cemeteries Records, 1999 – [ongoing]      4 c.f.
+(a) Retain meeting minutes, agendas, and exhibits permanently, transfer to State Archives
+      after 50 years
+(b) Retain member records 5 years after term ends, destroy
+(c) Retain all other records 5 years, destroy
+021 Oregon Heritage Commission Records, 1995 – [ongoing]        5 c.f.
+(a) Retain meeting minutes, agendas, and exhibits permanently, transfer to State Archives
+      after 50 years
+(b) Retain member records 5 years after term ends, destroy
+(c) Retain all other records 5 years, destroy
+022 Oregon Historic Trails Advisory Committee Records, 1998 – [ongoing]      2 c.f.
+(a) Retain meeting minutes, agendas, and exhibits permanently, transfer to State Archives
+      after 50 years
+(b) Retain member records 5 years after term ends, destroy
+(c) Retain all other records 5 years, destroy
+
+023 Oregon Main Street Programs Records, 2008-[ongoing]       1 c.f.
+(a) Retain annual reports, and meeting minutes, agendas and exhibits permanently,
+      transfer to State Archives after 20 years
+(b) Retain applications and source documents 5 years after status denied or revoked,
+destroy
+024 Oregon Natural Heritage Plans, 1998 – [ongoing]         1 c.f.
+(a) Retain final, adopted plan permanently, transfer to State Archives after 20 years
+ (b) Retain drafts, source records and notes 1 year after plan adopted, destroy
+025 Oregon Scenic Bikeways Committee Records
+(a) Retain meeting agendas, minutes and exhibits 20 years, destroy
+(b) Retain applications and source documents 5 years after Scenic status denied or
+      revoked, destroy
+026 Heritage Conference Records
+ Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Legislative Tracking Records
+Financial Records (OAR 166-300-0025)
+Budget Preparation Records
+
+Databases
+GRANTS & CONNECTIONS
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Heritage and Community Programs
+Program: Recreation Grants
+
+Program Description
+The Recreation Grants program provides guidance, assistance and oversight to a variety of grant-
+funded programs, including Local Government Grants (LGGP), Land and Water Conservation
+Fund (LWCF), County Opportunity Grants (COG), Recreational Trails Grants (RTG), and the
+All-Terrain Vehicle (ATV) program. Program staff provide technical assistance and funding to a
+variety of applicants to enable them to acquire, develop, and rehabilitate recreational facilities.
+
+Program staff also oversee the state’s mandatory ATV safety education program, certify trainer
+organizations, and maintain the official records for rider safety cards. Each Recreation Grant
+program is overseen by an advisory committee, which reviews grant applications and makes
+recommendations to the Director and Commission regarding which projects should receive grant
+funding. Committee members are appointed by the State Parks and Recreation Commission.
+
+Program Records
+027     ATV Safety Training Program Records
+           (a) Retain hard copy program registration, attendance and completion records until
+     entered and verified in database, destroy
+           (b) Retain trainer organization certification records 5 years after expiration, destroy
+028 Grant Advisory Committee Records
+ (a) Retain meeting agendas, minutes and exhibits 20 years, destroy
+(b) Retain all other records 5 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Financial Records (OAR 166-300-0025)
+Grant Records
+
+Databases
+RECREATION GRANTS
+ATV RIDER SAFETY COURSE
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Heritage and Community Programs
+Program: State Historic Preservation Office
+Unit:    Archaeological Services
+
+Program Description
+The State Historic Preservation Office Archaeological Services unit protects Oregon's
+archaeological sites through project reviews, and the provision of education on cultural heritage
+issues. Program staff help resolve potential conflicts involving development, scientific research,
+and the respectful and mandated treatment of cultural resources. The Archaeological Services
+unit provides education on cultural heritage issues, and explains current state cultural resource
+laws and regulations. Access to Oregon archaeological sites and site records is restricted to
+qualified archaeologists (ORS 390.235 et seq.; OAR 736 Division 51).
+
+Program Records
+029   Archaeological Permits, 1984 – [ongoing]          3 c.f.
+Retain permanently, transfer to State Archives after 50 years
+030  Archaeological Site Forms, 1978 – [ongoing]       10 c.f.
+Retain permanently, transfer to State Archives after 50 years
+031   Archaeological Site Maps, 1978 – [ongoing]          3 c.f.
+Retain permanently, transfer to State Archives after 50 years
+032   Archaeological Site Reports, 1978 – [ongoing]       20 c.f.
+Retain permanently, transfer to State Archives after 50 years
+033   Tribal Government Coordination Records, 1992 – [ongoing]       5 c.f.
+Retain permanently, transfer to State Archives after 50 years
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Personnel Records (OAR 166-300-0040)
+Training Program Records
+
+Databases
+ARCHAEOLOGICAL GIS
+SITE FORM
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Heritage and Community Programs
+Program: State Historic Preservation Office
+Unit:  Historic Preservation
+
+Program Description
+The State Historic Preservation Office’s Historic Preservation unit oversees cooperative efforts
+with federal, state, tribal, local governments, and other interested parties to preserve Oregon’s
+cultural and historic buildings and structures. The unit maintains the Statewide Inventory of
+Historical Properties; oversees the applications of Oregon properties on the National Register of
+Historic Places; inspects historic properties receiving grant or tax assistance; certifies local
+government historical preservation work; monitors federal agencies and projects for compliance
+with federal, state, and local rules and regulations; and maintains a collection of historical
+reference files on OPRD and state parks. The Historic Preservation unit works with the State
+Advisory Committee on Historic Preservation on statewide preservation issues (ORS 358.622).
+
+Program Records
+034   Certified Local Government Records
+Retain certification documents 5 years after certification ends, destroy
+035   Federal Project Review and Compliance Files
+(a) Retain substantive historical records, transfer to National Register of Historic Places
+      Case Files
+(b) Retain all other records 5 years, destroy
+036   Federal Tax Act Rehabilitation Project Files
+(a) Retain substantive historical records, transfer to National Register of Historic Places
+      Case Files
+(b) Retain all other records 6 years, destroy
+037   Historic Assessment Review Committee Proceedings, 1977 – [ongoing]     3 c.f.
+Retain permanently, transfer to State Archives after 20 years
+038   Historic Contexts Statements, 1980 – [ongoing]         1 c.f.
+Retain permanently, transfer to State Archives after 20 years
+039   Historic Preservation Fund Apportionment Records
+Retain 6 years, destroy
+040   Historic Preservation Fund Sub-Grant Files, 1993 – [ongoing]     10 c.f.
+(a) Retain final reports permanently, transfer to State Archives after 20 years
+(b) Retain other successful grant records 5 years after acceptance of final expenditure
+      report, destroy
+(c) Retain unsuccessful grant applications 3 years after rejection or withdrawal, destroy
+(d) Retain capital asset records 3 years after disposition of assets, destroy
+041   National Register of Historic Places Case Files, 1970 – [ongoing]    20 c.f.
+Retain permanently, transfer to State Archives after 50 years
+042   Oregon Historic Preservation Plans, 1984 – [ongoing]       1 c.f.
+(a) Retain final plans permanently, transfer to State Archives after 20 years
+(b) Retain plan supporting documentation until superseded.
+
+043   Park Archives Files, 1917 – [ongoing]        10 c.f.
+Retain permanently, transfer to State Archives after 20 years
+044   Special Assessment of Historic Property Files
+Retain 6 years after expiration of benefit, destroy
+045   State and Local Government Coordination Records, 1986 – [ongoing]      2 c.f.
+(a) Retain state building files permanently, transfer to State Archives after 20 years
+(b) Retain all other records until superseded, destroy
+046 State Advisory Committee on Historic Preservation Records, 1984 – [ongoing]  5 c.f.
+(a) Retain meeting minutes, agendas, and exhibits permanently, transfer to State Archives
+      after 50 years
+(b) Retain member records 5 years after term ends, destroy
+047   Statewide Inventory of Historic Properties, 1976 – [ongoing]    25 c.f.
+Retain permanently, transfer to State Archives after 50 years
+
+State Agency General Records Retention Schedule Records
+Includes but not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Financial Records (OAR 166-300-0015)
+Purchasing Records
+Personnel Records (OAR 166-300-0015)
+Training Records
+
+Databases
+HUB
+REVIEW & COMPLIANCE
+GRANTS & CONNECTIONS
+HISTORIC PROPERTIES INVENTORY
+OREGON HISTORIC SITES
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Section: Administration
+
+Program Description
+The Operations Division oversees, operates, develops and maintains park facilities through
+OPRD’s Salem headquarters and field staff working throughout Oregon. It is responsible for
+managing the natural resources and real property owned and maintained by OPRD; planning the
+development and expansion of park facilities; providing interpretive services; coordinating
+volunteers; and designing new facilities for the park system.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Policy Development and Planning Records
+Financial Records (OAR 166-300-0025)
+Budget Planning Records
+
+Databases
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Section: Engineering
+Program: Engineering
+
+Program Description
+The Engineering program provides engineering and design expertise and services for OPRD
+projects and planning. It is responsible for all engineering-type designs, plans and specifications,
+and administering construction contracts. The program prepares project plans, CAD files,
+specifications, and design exceptions; and manages projects from inception to implementation.
+Once a project is closed out, responsibility for the end-product passes to the park or management
+unit where it sited. The program also oversees and inspects park structures, roads, and utilities.
+
+Program Records
+048  Aerial Photographs, 1962 – [ongoing]         5 c.f.
+Retain permanently, transfer to State Archives after administrative need ends
+049   Design and Engineering Project Files, 1960 – [ongoing]     20 c.f.
+(a) Retain historic and major structure files permanently, transfer to State Archives after
+      structure demolished or sold
+(b) Retain other records for life of structure, destroy
+050   Park Contract Plans and Specifications, 1950 – [ongoing]    10 c.f.
+Retain permanently, transfer to State Archives after 50 years
+051   Park Maps, 1938 – [ongoing]         10 c.f.
+Retain permanently, transfer to State Archives after 50 years
+052   Park Photographs and Index
+Retain for life of park or structure, destroy
+053   Park Plans and Drawings, 1934 – [ongoing]      10 c.f.
+Retain permanently, transfer to State Archives after 50 years
+054   Park Rehabilitation and Renovation Project Files
+Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Facilities Records (OAR 166-300-0015)
+Building records
+Equipment Maintenance Records
+Personnel Records (OAR 166-300-0015)
+Employee Personnel Records
+
+Databases
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Section: Engineering
+Program: Surveying
+
+Program Description
+The Surveying program surveys and maps projects in state parks; describes park properties; and
+records field data used in the design of park facilities. It provides expertise in land surveying,
+topography, and terrain modeling; acquires, analyzes and manages geo-referenced spatial data;
+and uses software to compile and manage state park survey and geospatial data.
+
+Program Records
+055   Coordinate Records, 1860 – [ongoing]        10 c.f.
+Retain permanently, transfer to State Archives after administrative need ends
+056   General Index
+Retain until superseded, destroy
+057   Survey Field Notes and Index, 1917 – [ongoing]      20 c.f.
+Retain permanently, transfer to State Archives after administrative need ends
+058   Survey Project Files
+Retain 25 years, destroy
+059   Surveyor's Plats, 1934 – [ongoing]        10 c.f.
+Retain permanently, transfer to State Archives after administrative need ends
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Personnel Records (OAR 166-300-0015)
+Employee Personnel Records
+
+Databases
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Section: Planning and Design
+Program: Comprehensive Planning
+
+Program Description
+The Comprehensive Planning program prepares master plans for OPRD properties; evaluates
+proposed park sites; and conducts special studies related to recreational use and development. It
+compiles long-term plans for properties in conjunction with outside agencies, advocacy groups,
+providers, local jurisdictions, and the general public; conducts heritage assessments of OPRD
+holdings for incorporation into comprehensive plans.
+
+Program Records
+061   Comprehensive Planning Records (AKA Master Planning Records)
+1967 – [ongoing]             15 c.f.
+(a) Retain plans permanently, transfer to State Archives after 20 years
+(b) Retain all other records 20 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Mailing Lists
+
+Databases
+None
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Section: Planning and Design
+Program: Planning
+
+Program Description
+The Planning program develops and administers standardized land use policies and review
+procedures for agency projects and activities. The program reviews government land use actions
+for impacts on OPRD properties, programs, and outdoor recreation and stewardship
+responsibilities. The Planning program assists OPRD field staff with compliance with local land
+use requirements and represents OPRD on regional land use planning and transportation projects.
+
+Program Records
+062   Land Use Project Records (State Parks)
+Retain 20 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Records
+Correspondence
+Legislative Tracking Records
+
+Databases
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Section: Planning and Design
+Program: Signs
+
+Program Description
+The Signs Program provides technical assistance and expertise in designing and overseeing the
+construction of all signage for use involving OPRD parks and facilities. The Sign Coordinator,
+working with Management Unit staff, provides technical expertise in the design and oversight of
+signs and oversees contracted service providers who design and manufacture signs as needed.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+
+Includes but not limited to:
+Administrative Records (OAR 166-300-0015).
+Correspondence
+Facilities/Property Records (OAR 166-300-0020)
+Building Records
+Facility Work Orders
+
+Databases
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Section: Planning and Design
+Program: Trails
+
+Program Description
+The Trails program develops and oversees a state network of trails, including those used for
+hiking, biking, equestrian, and water paddle craft. The program maintains the records of the
+Oregon Recreation Trails Advisory Council (ORTAC), a seven-member body that advises
+OPRD and the State Parks and Recreation Commission on trails issues and the designation of
+trails as scenic, regional, or scenic bikeways; and makes recommendations to other trail-
+managing agencies and non-governmental organizations (ORS 390.977).
+
+The Trails program develops and implements the Statewide Trails Plan for the development and
+management of Oregon trails by local, state, federal and private recreation agencies. The
+Statewide Trails Plan is reviewed and approved by the State Parks and Recreation Commission.
+
+Program Records
+063   Ad-hoc Trails Research Records
+(a) Transfer initiated project research records to Trails Project Files
+(b) Retain all other records 20 years, destroy
+064  Oregon Recreation Trails Advisory Council Meeting Records
+1971 – [ongoing]            4 c.f.
+Retain meeting minutes, agendas, and exhibits permanently, transfer to State Archives
+after 5 years
+065 Trails Project Files
+Retain until project completion, transfer to Comprehensive Planning Records
+
+State Agency General Records Retention Schedule
+Includes but not limited to:
+Administrative Records OAR 166-300-0015)
+Administrative Rule Preparation Records
+Correspondence
+Contracts and Agreements
+Legislative Tracking Records
+Facilities/Property Records –(OAR 166-300-0020)
+Building Records
+
+Databases
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Section: Planning and Design
+Program: Volunteer Services
+
+Program Description
+The Volunteer Services program offers a variety of opportunities for individuals and groups to
+volunteer time and resources in support of state parks. The program promotes relationships
+between volunteers offering their abilities and skills, and OPRD staff who support and foster
+stewardship of parks. OPRD staff, Volunteer Services coordinators, team leaders, and park
+managers identify projects, develop volunteer opportunities, recruit and manage volunteers, and
+track program results. The program also provides recognition to volunteers for their services.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Personnel Records (OAR 166-300-0040)
+Volunteer Program Records
+
+Databases
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Section: Parks Administration
+Program: Districts
+
+Program Description
+OPRD Districts are responsible for providing oversight and direction to management units on a
+day-to-day basis. District supervision of Management Units ensures adherence to OPRD policy
+and standards. Districts are a sub-group within Regions that provide direct leadership to
+Management Unit managers and staff. Along the coast, each District oversees designated Beach
+Ranger patrols, which are charged with public safety and resource protection on the beaches.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Business Plan Records
+Calendar and Scheduling Records
+Correspondence
+Financial Records (OAR 166-300-0025)
+Budget Preparation Records
+Information and Records Management Records (OAR 166-300-0030)
+Forms Development Records
+Personnel Records (OAR 166-300-0040)
+Employee Personnel Records
+Work Schedules and Assignments
+
+Databases
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Section:  Parks Administration
+Program: Management Units
+
+Program Description
+Management Units are the smallest administrative units within OPRD; each oversees multiple
+parks and facilities. Management Units are composed of permanent employees (management and
+staff), seasonal hires, and volunteers. In addition to maintaining and upgrading facilities,
+Management Unit staff maintain the grounds; ensure the public’s safety; provide interpretive
+services; sell firewood and other items; collect fees; and generally represent OPRD to the public.
+
+Program Records
+066   Discounts and Coupon Records
+Retain 6 years, destroy
+067 Lost and Found Reports
+ Retain 3 years after final disposition, destroy
+068   Permit Records (Management Unit-Authorized)
+Retain 6 years after expiration, destroy
+069  Park Booth Log Records
+ Retain 5 years, destroy
+070 Visitor Count Records
+ Retain 3 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Facilities/Property Records (OAR 166-300-0020)
+Building Records
+Equipment Maintenance Records
+Facility Work Orders
+Pesticide Application Records
+Financial Records (OAR 166-300-0025)
+Bank Statements Records
+Invoice Records
+Purchasing Records
+Payroll Records (OAR 166-300-0035)
+Leave Applications
+Risk Management Records (OAR 166-300-0045)
+Emergency Response Plans and Procedures
+Incident Reports
+
+Databases
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Section: Parks Administration
+Program: Regions
+
+Program Description
+Regions are the chief administrative units that provide oversight and direction to parks and
+facilities in the three geographic areas of OPRD’s operations. Regions are responsible for
+providing the necessary expertise and oversight essential to planning, project delivery, and the
+daily operations, maintenance and management activities required to maintain Oregon’s park
+system and infrastructure. OPRD regions are responsible for all scoping, implementing, and
+oversight of park-related programs and projects within the respective region. Regions provide
+OPRD with semi-autonomous subdivisions responsible for implementation of the agency’s
+mission through onsite expertise and services. In addition to administrative staff, Regions are
+staffed by personnel at the District and Management Unit level.
+
+Program Records
+071 Permit Records (Region-Authorized)
+ Retain 6 years after expiration, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+Contracts and Agreements
+Mailing Lists
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Staff Meeting Records
+Visitor Logs
+Work Orders
+Facilities/Property Records (OAR 166-300-0020
+Vehicle Records
+Financial Records (OAR 166-300-0025)
+Budget Preparation Records
+Invoices
+Information and Records Management Records (OAR 166-300-0030)
+Forms Development Records
+Personnel Records (OAR 166-300-0040)
+Employee Personnel Records
+Work Schedules and Assignments
+
+Databases
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Section: Stewardship
+Program: Natural Resource Management
+
+Program Description
+The Natural Resource Management program assesses, evaluates, and classifies natural resources
+on OPRD properties and areas under OPRD management. The program oversees management of
+natural resources to ensure consistency with industry standards and OPRD goals; and identifies
+issues, problems and potential solutions; and provides natural resource expertise to field units. It
+manages the state’s Natural Areas Program; and maintains the Oregon Register of Natural Areas
+(ORS 273.563 – 273.591; OAR 736 Division 45). In 2011 the Legislative Assembly abolished
+the Natural Heritage Advisory Council, and transferred its duties, and those of the State Land
+Board relating to the Natural Areas Plan and Natural Areas Program, from the Department of
+State Lands to OPRD (O.L. 2011, Ch. 319). The program also administers U.S. Fish and Wildlife
+Service’s Endangered Species Act Section 6 grants for Oregon invertebrates (16 U.S.C. 1535).
+
+Program Records
+072 Forest Management Investigation Files
+Retain 10 years after resolution, destroy
+073 Natural Areas Property Registration Records
+ Retain 10 years after deregistration, destroy
+074 Natural Areas Advisory Committee Records
+ Retain 25 years, destroy
+075 Natural Areas Plan, 2010 – [ongoing]        .5 c.f.
+ Retain permanently, transfer to State Archives after 5 years
+076 Natural Heritage Advisory Council Records, 1979-2011        3 c.f.
+(a) Retain final plans and reports, and meeting agendas, minutes and exhibits,
+      permanently, transfer to State Archives after 5 years
+(b) Retain all other records 10 years, destroy
+077   Timber Stand Examination Records
+Retain 10 years, destroy
+078   Timber Stand Inventory Records
+(a) Retain summaries 50 years, destroy
+(b) Retain other records until superseded destroy
+079   Wildlife and Habitat Management Records
+Retain for ownership of park, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Publication Preparation Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+Personnel Records (OAR 166-300-0015)
+Employee Personnel Records
+
+Databases
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Section: Stewardship
+Program: Ocean Shores
+
+Program Description
+The Ocean Shores program manages the Ocean Shores area, which extends from the low tide
+line to vegetation the Pacific Coast. The program focuses on land use issues, recreational issues,
+and management of species. Pursuant to the Beach Bill, enacted in 1967, the public enjoys free
+and uninterrupted use of the beaches along Oregon´s 362 mile-long coastline; the state’s ocean
+shore is administered as a state recreation area. OPRD is charged with the protection and
+preservation of the recreation, scenic, and natural resources on Oregon´s ocean shore. Through
+its ocean shore rules, the program regulates vehicle use, camping, and other recreational
+activities on the ocean shore. OPRD reviews permits for special events, commercial filming, and
+beach salvage activities; and administers a permit program for ocean shore alterations. Through
+cooperative efforts, the Ocean Shores program manages various species found in the beach zone.
+
+Program Records
+080   Beach-Driving, Salvage, Scientific Research/Collection, and Special-Use Permit Records
+Retain 6 years after expiration, destroy
+081  Closures to Motor Vehicle Requests
+Retain 50 years, destroy
+082   Land Use Project Records (Ocean Shores)
+Retain 20 years, destroy
+083   Ocean Shore Improvement Permit Files (Including Exhibits)
+1962 – [ongoing]          10 c.f.
+Retain permanently, transfer to State Archives after 30 years
+084 Ocean Shores Management Plans, 2004 – [ongoing]       1 c.f.
+(a) Retain final, approved plans permanently, transfer to State Archives 20 years after
+      superseded
+(b) Retain drafts, work notes, source materials 5 years after adoption of plan, destroy
+085 Species Management Plans
+ (a) Retain final, approved plans 10 years after termination, destroy
+ (b) Retain drafts and source documents 5 years adoption of plan, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Correspondence
+Mailing Lists
+
+Databases
+HUB
+OCEAN FRONT DESCRIPTION
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Section: Stewardship
+Program: Real Property
+
+Program Description
+The Real Property program coordinates the agency’s acquisition and disposal of real property. It
+oversees the management of real property through a variety of agreements and contracts related
+to rentals (including employee housing), leases, use agreements, concessions, and permits. The
+program maintains records for all real property transactions and related OPRD decision making
+
+Program Records
+086   Real Property Acquisition and Disposition Records
+ Retain 6 years after sale of entire property, destroy
+087 Real Property Management Records
+ (a) Retain employee housing applications and occupied property inspection records 2
+      years after employee vacates department property, destroy
+ (b) Retain structural inspection records 1 year after superseded, destroy
+(c) Retain program statistics, annual reports, and other program files 6 years, destroy
+088 Concession Reports
+Retain 6 years after concession expiration, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Contracts and Agreements
+Facilities/Property Records (OAR 166-300-0020)
+Building Records
+Personnel Records OAR (166-300-0040)
+Employee Personnel Records
+
+Databases
+HUB
+
+Organizational Placement              Schedule Number: 2012-0013
+Agency: Parks and Recreation
+Division: Operations
+Program: State Scenic Waterways
+
+Program Description
+The State Scenic Waterways program manages and administers scenic waterways for the State of
+Oregon. The program liaises with land owners; and conducts intergovernmental coordination,
+notifications, and appeals of court decisions. It develops proposals for administrative and
+legislative changes to improve designated waterways, and manages public involvement efforts.
+
+The Deschutes Scenic Waterway Recreation Area/Boater Pass program is a cooperative
+recreation management effort conducted with the federal Bureau of Land Management (BLM),
+and the Confederated Tribes of Warm Springs. The program manages a permit system and
+institutional and physical infrastructure to support specific recreation goals. The program
+conducts site monitoring, oversees a notification process for development along the Deschutes
+Scenic Waterway, and initiates requisite legal proceedings on issues of interest to OPRD.
+
+Program Records
+089 Deschutes River Committee Records, 1992 – [ongoing]       2 c.f.
+ (a) Retain meeting agendas, minutes, and exhibits permanently, transfer to State Archives
+      after 20 years
+ (b) Retain all other records 20 years, destroy
+090 Lower Deschutes River Management Files, 1992 – [ongoing]       2 c.f.
+ (a) Retain plans and supplements permanently, transfer to State Archives after 20 years
+ (b) Retain all other records 15 years, destroy
+091 Boater Passes
+ Retain 4 years after pass expiration
+092   Scenic Waterway Notification Files
+Retain 35 years, destroy
+093   Scenic Waterway Plan Records, 1990 – [ongoing]        6 c.f.
+(a) Retain final plans permanently, transfer to State Archives after 10 years
+(b) Retain all other records 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Legislative Tracking Records
+Personnel Records (OAR 166-300-0015)
+Training Records
+
+Databases
+HUB
+
+## Cross-references
+
+General records retention schedules cited in the text above. These are OAR
+chapter 166 rules and live verbatim in the sibling corpus
+[OregonAI/executive-regulatory-frameworks](https://github.com/OregonAI/executive-regulatory-frameworks);
+they are referenced here as citations, never copied (see AGENTS.md).
+
+Reproduced exactly as the source schedule cites them. A few are stale upstream —
+the rule was renumbered or repealed after this schedule was published — so a
+citation here is not a guarantee the rule still exists. Resolving one reports
+the difference: a live rule returns a title and link, a stale one reports that
+the sibling corpus holds no such document.
+
+- OAR 166-300-0015
+- OAR 166-300-0020
+- OAR 166-300-0025
+- OAR 166-300-0030
+- OAR 166-300-0035
+- OAR 166-300-0040
+- OAR 166-300-0045
+
+## Provenance & change history
+
+- Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-parks-recreation.pdf> · retrieved 2026-07-25 · sha256 `fc2704dffc208b947a10728643a2955d052cb55188189516663b6531ed820706`
+- Snapshot: `_meta/snapshots/schedule-parks-recreation.txt` (extracted text) and `_meta/snapshots/schedule-parks-recreation.pdf` (raw source, 35 pages).
+- Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 35 pages. Stripped repeated running-header lines: "Edition: November 2019"; "Oregon State Archives"; "Records Retention Schedule". Stripped 34 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
+- See [CHANGELOG](../CHANGELOG.md).

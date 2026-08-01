@@ -1,0 +1,2907 @@
+---
+schema_version: 1
+corpus: executive-regulatory-frameworks
+jurisdiction: oregon
+id: schedule-health-public
+title: Health Authority (formerly DHS) - Public Health Division
+doc_type: schedule
+citation: Health Authority (formerly DHS) - Public Health Division — Oregon Special Records Retention
+  Schedule
+authority_level: schedule
+issuing_body: Oregon Secretary of State, Archives Division
+agency: oregon-health-authority
+division: Public Health
+schedule_number: 2012-0011
+legal_authority: []
+source_url: https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-health-public.pdf
+source_format: pdf
+retrieved: '2026-07-25'
+source_sha256: cbdca1248830ab2dabd1d64cbec989975d4a6a19ecb1e76aa54174a2061b5847
+effective_date: null
+effective_date_text: June 2018
+expires: null
+expires_text: null
+last_reviewed: null
+source_version: 2012-0011
+status: current
+content_mode: verbatim
+conversion_notes: 'Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 82 pages.
+  Stripped repeated running-header lines: "Edition: June 2018"; "Oregon State Archives"; "Records Retention
+  Schedule". Stripped 81 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+
+  of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number
+  line, bare page number) were removed; every other repeated line, including per-page ''Organizational
+  Placement'' / ''Agency'' / ''Systems of Record'' blocks, was left in place. Trailing whitespace removed
+  and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.'
+last_verified: ''
+verified_by: ''
+maintainer: '@morficflux'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related:
+    - oar-166-300-0015
+    - oar-166-300-0020
+    - oar-166-300-0025
+    - oar-166-300-0030
+    - oar-166-300-0035
+    - oar-166-300-0040
+    - oar-166-300-0045
+  supersedes: []
+tags:
+- records-retention
+- special-schedule
+---
+
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
+> copy, not the official text. Verify against the official source:
+> <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-health-public.pdf> (retrieved 2026-07-25).
+
+# Health Authority (formerly DHS) - Public Health Division
+
+## At a glance
+
+Special records retention schedule for Oregon Health Authority, published by the Oregon Secretary of State, Archives Division, schedule number 2012-0011, effective date as printed: June 2018. It runs to 82 pages and lists the agency's own record series with a retention and disposition clause for each. Record series that every state agency holds are NOT here: they are covered by the OAR chapter 166 general schedules, which this corpus references rather than copies — 7 distinct general-schedule rule(s) are cited in the text below.
+
+## Full text
+
+Oregon Health Authority
+Public Health Division
+Records Retention Schedule 2012-0011
+Effective Date: June 2018
+Table of Contents
+
+Public Health Director/State Health Officer ................................................................................... 2
+Center for Health Protection ........................................................................................................... 9
+Center for Prevention and Health Promotion................................................................................ 27
+Center for Public Health Practice ................................................................................................. 58
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Office:          Public Health Director/State Health Officer
+Program:    Administration
+
+Program Description
+The Office of the State Public Health Director (OSPHD) leads OHA’s Public Health Division
+(PHD) in promoting health and preventing the leading causes of death, disease and injury in
+Oregon. The Public Health Director, who is appointed by the OHA Director, oversees the
+operations of OSPHD and three organizational centers: Center for Health Protection, Center for
+Prevention and Health Promotion, and Center for Public Health Practice. The Director of OHA
+also appoints the state Public Health Officer, who is responsible for the medical and paramedical
+aspects of health programs within OHA/PHD.
+
+OSPHD leadership includes the State Public Health Director; Public Health Officer/State
+Epidemiologist; and the Deputy Public Health Director.
+
+OSPHD provides public health policy planning, development and direction to the public health
+programs within the division, works closely with OHA’s Director’s Office and government
+relations team, and ensures that the disparate programs within and outside the division create an
+effective and coherent public health system for the state which includes state, local and tribal
+public health departments and public-private partnerships. OSPHD also provides information to
+the communities on ways to promote good health and avoid disease and injury, and provides
+information to agencies, organizations, and the public on the health status of Oregonians.
+
+OSPHD works to promote and protect the health of the public by advancing the quality,
+performance and equity of the Oregon public health system through performance assessment and
+management and, using media relations, develops and implements social marketing to promote
+health and prevention through message development.
+
+OSPHD’s Science and Evaluation section leads strategic initiatives that ensure excellence in
+epidemiology and the science of population health across the division. This section oversees the
+Public Health Institutional Review Board (PH IRB) and Program Design and Evaluation
+Services (PDES). The PH IRB reviews research activities involving human subjects to ensure
+that the rights and well-being of people participating in research are protected, and that the
+research activities are in compliance with 45 CFR 46, and Public Health Division policies.
+Program Design and Evaluation Services (PDES) is a research and evaluation program within
+both the Multnomah County Health Department and Oregon Public Health Division. The PDES
+team provides a full range of professional services to design, evaluate, and refine public health
+programs. It provides evaluation support to county and state programs, initiates and conducts
+applied research studies, and contracts with organizations across the country to improve
+community health, shape public policy, and reduce health disparities. PDES clients include
+health departments and state/local government agencies, community-based organizations,
+foundations, research institutions, and other public health organizations across the country.
+
+The Behavioral Risk Factor Surveillance System (BRFSS) is a collaborative project of the
+Centers for Disease Control and Prevention (CDC), and U.S. states and territories to collect
+uniform, state-specific data on preventive health practices and risk behaviors that are linked to
+chronic diseases, injuries, and preventable infectious diseases in the adult population.
+
+The Community Liaison Program resides within the OSPHD and provides consultation and
+technical assistance to local health department staff regarding administration, systems
+development, and the formation of standards and policies.
+
+OSPHD maintains the official copy of the records of the Oregon Public Health Advisory Board,
+which advises OHA/PHD on policy matters related to public health programs; reviews statewide
+public health issues, and makes recommendations to OHA/PHD; and participates in public health
+policy development. The board is composed of 15 governor-appointed members broadly
+representing the public, local government, and public/private health providers.
+
+OSPHD maintains the official copy of the meeting records of the Conference of Local Health
+Officials (CLHO), which serves as a forum for state and local public health officials to discuss
+minimum standards and financial assistance agreements.
+
+The Task Force on the Future of Public Health Services was created by the Legislative Assembly
+in 2013 to study the regionalization and consolidation of Oregon’s public health services, and
+make recommendations for legislation. OSPHD maintains the official copy of the task force’s
+records.
+
+All Public Health Division programs receive administrative and technical support from the
+following OHA/Department of Human Services (DHS) shared service offices: Human
+Resources; Budget, Planning, and Analysis; Financial Services; Office of Information Services
+(OIS); Contracts and Procurement; Facilities; Management Audits and Consulting; Image and
+Records Management; Information Security; Continuous Improvement; Investigations; and
+Forecasting and Research; Communications; and Publications and Design.
+
+Program Records
+001 Accreditation Steering Committee Action Items and Minutes
+ Retain 10 years, destroy
+002   Behavioral Risk Factor Surveillance System Records, 1988 – [ongoing], .5 c.f.
+                  (a) Retain Statewide Annual Reports permanently, transfer to State Archives after 25 years
+  (b) Retain applications and all hard copy records until entered and verified, destroy
+003 Current Disease Summary (CD Summary), 1949 – [ongoing], 1 c.f.
+ Retain 1 copy permanently, transfer to State Archives after 20 years
+004 Conference of Local Health Officials (CLHO) Meeting Records
+ Retain 25 years, destroy
+005 Joint Leadership Team (PHD/CLHO) Records
+ Retain 10 years, destroy
+006 Oregon Community Health Assessment Forum Records
+ Retain 10 years, destroy
+007 Oregon Health Bulletins, 1923 – 1981, 5 c.f.
+ Retain permanently, transfer to State Archives after 20 years
+
+008 Oregon Health Improvement Plan (Community Health Improvement Plan) Records
+ [ended December 2010]
+ Retain 20 years, destroy
+009   Oregon Public Health Advisory Board Meeting Records, 1983 – [ongoing], 3 c.f.
+ (Formerly Public Health Advisory Board Records)
+ (a) Retain meeting minutes, agendas and exhibits permanently, transfer to State Archives
+       after 5 years
+ (b) Retain all other records 10 years, destroy
+010 Oregon Public Health Constituency Inquiry Records
+ Retain 5 years, destroy
+011 Oregon’s Healthy Future Report Records
+ Retain final report 20 years, destroy
+012 Oregon's State Health Profile Report Records
+ Retain final report 20 years, destroy
+013 Program Design and Evaluation Data Collection Records
+ Retain 1 year after study closes, destroy
+014 Program Design and Evaluation Project Final Reports
+ Retain 20 years, destroy
+015 Program Design and Evaluation Research Project Data Collection Records
+ Retain 1 year after study completion, or 3 years, whichever is longer, destroy
+016 Program Design and Evaluation Research Project Final Reports
+ Retain 20 years, destroy
+017 Public Health Division Executive Team Records, 1985 – 2001, 7 c.f.
+ Retain permanently, transfer to State Archives after 10 years
+018 Public Health Division Institutional Review Board Minutes
+ Retain 25 years, destroy
+019 Public Health Division Institutional Review Board Research Project Records
+ Retain 10 years after project is closed or deemed exempt, destroy
+020 Public Health Division Leadership Team Records
+ Retain 10 years, destroy
+021 Public Health Division Project Review Team Records
+ Retain 10 years after delivery of final recommendation, destroy
+022 Public Health Division Strategic Plan Records, 1971 – [ongoing], 1 c.f.
+ Retain final plans permanently, transfer to State Archives after 5 years
+023 Public Health Division Web Counsel Meeting Minutes
+ Retain 10 years, destroy
+024 Public Health Photographs, 1880s – 1980s,  2 c.f.
+ [Filed with Office of Community Liaison, T.R.E.’s Office]
+ Retain permanently, transfer to State Archives after 20 years
+025 Quality Improvement Council Records
+ Retain 10 years, destroy
+026 Quarterly Connection Newsletter
+ Retain 5 years, destroy
+027 State Board of Eugenics Meeting Records and Case Files, 1917 – 1967, .5 c.f.
+ Retain permanently, transfer to State Archives after 20 years
+028 State Board of Health Meeting Records, 1903 – 1973, .5 c.f.
+ Retain permanently, transfer to State Archives after 20 years
+
+029 State Board of Social Protection Meeting Records and Case Files, 1967 – 1983, .5 c.f.
+ Retain permanently, transfer to State Archives after 20 years
+030   State Health Commission Meeting Records, 1973 – 1977, .5 c.f.
+ Retain permanently, transfer to State Archives after 30 years
+031 Task Force on the Future of Public Health Services Records
+ Retain 20 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation
+Agency Organizational Records
+Business Plan Records
+Contracts and Agreements
+Correspondence
+Legislative Tracking Records
+Lobbyist Records
+Policy Development and Strategic Planning
+Press Releases
+Publication Preparation Records
+Financial Records (OAR 166-300-0025)
+Budget Preparation Records
+Correspondence, Fiscal
+Emergency Board Request Records
+Grant Records
+Invoice Records
+LAB Records
+Travel Expense Records
+Information and Records Management Records (OAR 166-300-0030)
+Information System Planning and Development Records
+Payroll Records
+Employee Payroll Records
+Employee Time Records
+Leave Applications
+Records Management Records
+Personnel Records (OAR 166-300-0040)
+Employee Personnel Records
+Employee Training Records
+Position Descriptions and Reclassification Records
+Recruitment and Selection Records
+Work Schedule and Assignment Records
+
+Risk Management Records (OAR 166-300-0045)
+Emergency Response Plans and Procedures
+Incident Reports
+Insurance Fund Claim Records
+Occupational Injury and Illness Records
+Safety Program Records
+State Accident Insurance Fund (SAIF) Claim Records
+
+Databases
+BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM (BRFSS)
+OREGON PUBLIC HEALTH ASSESSMENT TOOL (OPHAT)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Office: Public Health Director/State Health Officer
+Program:  Community Liaison
+
+Program Description
+Community Liaison provides consultation and technical assistance to local health department
+staff regarding administration, systems development, and the formation of standards and policies.
+The program communicates local health department issues to Public Health Division program
+managers. It provides consultation and technical assistance to community members, providers,
+health departments, and hospitals. It also provides expert nursing consultation to nursing
+supervisors and administrators for local health departments in planning, implementing and
+evaluating public health services.
+
+Community Liaison plans, coordinates, and performs in-depth on-site evaluation of local health
+departments (Triennial Reviews) to ensure program compliance with state and federal
+regulations and standards. It oversees preparation of Annual Health Plan applications by county
+health departments. It coordinates the Public Health Division’s intergovernmental agreement
+process, which awards program funds to county health departments, tribes and other providers.
+The Community Liaison administers the Preventive Health and Health Services Block Grant, a
+flexible funding instrument from the federal Centers for Disease Control and Prevention (CDC).
+
+Program Records
+032 Local Health Department Annual Plan Records
+ Retain 6 years, destroy
+033 Local Health Department Assurances and Standards
+ Retain 6 years after superseded, destroy
+034 Local Health Department Confidentiality Reference Records
+ Retain until superseded or obsolete, destroy
+035 Local Health Department HIPAA Reference Records
+ Retain until superseded or obsolete, destroy
+036 Local Health Department Triennial Review Records
+ Retain 9 years, destroy
+037 Oregon County Public Health Profiles, 1983 – 2000, 1 c.f.
+ Retain permanently, transfer to State Archives after 10 years
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Calendar and Scheduling Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Publication Preparation Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:        Health Protection
+Section: Food, Pool, Lodging Health and Safety
+Program: Food Borne Illness Prevention
+
+Program Description
+The Food Borne Illness Prevention program works in partnership with local health departments,
+the food service industry, and the public to reduce or eliminate the known causes of food-borne
+illness. It provides education, training, technical consultation, and rule interpretation to local
+health departments, state agencies, affected industries, and the public on food service and
+sanitation issues. The program oversees statewide food service inspection and food handler
+certification. It conducts triennial audits of local health departments that have delegated authority
+to regulate food service establishments. The program provides staff support to the Food Service
+Advisory Committee and publishes a newsletter.
+
+Prior to 2003, the program provided direct local services to non-delegate counties, conducting
+regular food service establishment inspections, and providing food handler certification training.
+These responsibilities were statutorily delegated to local health authorities.
+
+Program Records
+038 Food Handler Training Records [ended 2003]
+ Destroy
+039 Food Program Newsletter
+ Retain 5 years, destroy
+040 Food Service Advisory Committee Biennial Reports
+ Retain 25 years, destroy
+041 Food Service Advisory Committee Meeting Records
+ Retain 4 years, destroy
+042 Food Service Rule Interpretation and Guidance Records
+ Retain 75 years, destroy
+043 Local Public Health Authority Food Service Inspection Records
+ (a) Licensed facility records: Retain 5 years, destroy
+ (b) Unlicensed facility records: Offer return to local public health authority, destroy
+044 Restaurant License Files
+ Retain 3 years after license expiration, destroy
+045 Restaurant Variance Records
+ (a) Retain issued variance records 6 years after revoked, superseded or obsolete, destroy
+ (b) Retain unsuccessful variance application records 5 years after denial, destroy
+046 Triennial Food Borne Illness Prevention Program Audit Review Records
+ Retain 9 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Correspondence
+Personnel Records (OAR 166-300-0040)
+Employee Training Records
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Health Protection
+Section: Food, Pool, Lodging Health and Safety
+Program: Public Swimming Pool and Spa Pool
+
+Program Description
+The Public Swimming Pool and Spa Pool program protects the health and safety of people using
+public pools and spas. It establishes swimming pool construction standards, conducts plan
+reviews and construction inspections in direct-service counties, and provides inspection
+oversight in county health departments that have delegated authority to regulate pools and spas.
+
+The program provides rule interpretation, consultation, and technical assistance to pool
+designers, installers, operators, and local health departments. It provides training to pool
+operators and local health department staff. The program publishes newsletters and information
+items to concerned parties about health and accident risk reduction in public swimming pools.
+
+Program Records
+047 Public Pool Newsletters
+ Retain 5 years, destroy
+048 Public Swimming Pool Accident Reports
+ Retain 10 years, destroy
+049 Public Swimming Pool Advisory Committee Records
+ Retain 4 years, destroy
+050 Public Swimming Pool and Spa Complaint and Investigation Records
+ Retain 5 years after final resolution, destroy
+051 Public Swimming Pool and Spa Planning Records
+ (a) Retain final plans 10 years after review, destroy
+ (b) Retain plan review records 20 years, destroy
+052 Public Swimming Pool and Spa Policy and Rule Interpretation Records
+ Retain 75 years, destroy
+053 Public Swimming Pool and Spa Rule Variance Records
+ (a) Retain issued variance records 6 years after revoked, superseded or obsolete, destroy
+ (b) Retain unsuccessful variance application records 5 years after denial, destroy
+054 Triennial Public Swimming Pool and Spa Pool Program Audit Review Records
+ Retain 9 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Correspondence
+
+Databases
+ENVIRONMENTAL HEALTH LICENSING AND INSPECTION SOFTWARE (EHLIS)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Health Protection
+Section: Food, Pool, Lodging Health and Safety
+Program: Tourist Facility
+
+Program Description
+The Tourist Facility program protects the health and safety of people using public tourist
+facilities, including traveler’s accommodations (hotels/motels, bed and breakfasts, hostels);
+recreation parks (RV parks, campgrounds, picnic parks); and organizational camps and mass
+gatherings. The program establishes standards for the industry and provides inspection oversight
+for tourist facilities. The program also provides administrative rule interpretation, consultation,
+and technical assistance to designers, builders, operators, and local health departments.
+
+Program Records
+055 Tourist Facility Complaint and Investigation Records [ended 2005]
+ Destroy
+056 Tourist Facility Policy and Interpretation Records
+ Retain 75 years, destroy
+057 Tourist Facility Rule Variance Records
+ (a) Retain issued variance records until facility permanently closed, destroy
+ (b) Retain unsuccessful variance application records 5 years after denial, destroy
+058 Triennial Tourist Facility Program Audit Review Records
+ Retain 9 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Databases
+ENVIRONMENTAL HEALTH LICENSING AND INSPECTION SOFTWARE (EHLIS)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Health Protection
+Section: Health Care Regulation and Quality Improvement
+Program: Certificate of Need
+
+Program Description
+The Certificate of Need program ensures that new health care facilities and services meeting
+statutory criteria are adequately distributed around the state without unnecessary duplication of
+services or excessive costs to patients. A Certificate of Need is required in order to develop a
+new hospital; rebuild an existing facility; or develop, rebuild, relocate, or add nursing facility
+beds to an existing facility. The program determines whether there is a need for the proposed
+project, whether it is financially viable, and whether the facility will negatively impact health
+care costs. The program publishes the CN Update newsletter to inform interested parties about
+health care facilities, services, issues, and activities. The program also provides a hearing officer
+to conduct administrative rule preparation hearings for various Public Health Division programs.
+
+Program Records
+059 Certificate of Need Letters of Intent
+ (a) Retain ‘subject to review’ records with application records
+ (b) Retain ‘not subject to review’ records 10 years, destroy
+060 CN Update Newsletter
+ Retain 40 years, destroy
+061 Hospital Certificate of Need Application Records
+ Retain 40 years after approval or denial, destroy
+062 New Equipment/Services and Major Medical Equipment Certificate of Need Letters
+ of Intent [ended 1995]
+ Destroy
+063 Nursing Facility Certificate of Need Application Records
+ Retain 20 years after approval or denial, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Litigation Records
+Publication Preparation Records
+Financial Records (OAR 166-300-025)
+Receipt Records
+
+Databases
+None
+
+Organizational Placement              Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Health Protection
+Section: Health Care Regulation and Quality Improvement
+Program: Emergency Medical Services and Trauma Systems
+
+Program Description
+The Emergency Services and Trauma Systems program (EMS and Trauma) is responsible for the
+development and regulation of the statewide system that provides emergency care to victims of
+sudden illness and traumatic injury. The program assures the delivery of pre-hospital care
+through oversight and coordination of first response agencies, ground, air, and marine
+ambulances, and related entities such as public safety communications centers. It coordinates and
+provides continuing education for licensees around the State. EMS and Trauma facilitates
+planning and operation of the trauma system consisting of hospitals providing specialized trauma
+care and maintains the trauma registry. The program also develops guidelines and regulations for
+the care of pediatric victims of acute illness and injury.
+
+EMS and Trauma responsibilities include licensing and education for emergency medical service
+providers (EMS providers). The program approves or denies training courses through training
+entities and coordinates examinations. EMS and Trauma is responsible for the regulation and
+discipline of EMS providers. The program licenses and inspects ambulances and ambulance
+services. It establishes standards, procedures, and relationships for the interaction of emergency
+medical service system components and medical aspects of disaster preparedness. The program
+also oversees Medical Directors who work with emergency medical services.
+
+In addition, EMS and Trauma provides staff support to the State Emergency Medical Service
+Committee, which advises the Public Health Division on emergency medical services and
+standards. It coordinates meetings and activities for the State Trauma Advisory Board and Area
+Trauma Advisory Boards that advise the division on the development and monitoring of the
+trauma care system. The program also provides staff support to the State Emergency Medical
+Services for Children Committee that advises Health Services regarding the care of critically ill
+and injured children. It also operates the Oregon Physician Orders for Life-Sustaining Treatment
+(POLST) registry and supports the POLST Registry Advisory Committee.
+
+Program Records
+064 Ambulance Service Licensing Records
+ Retain 5 years after license expired, destroy
+065 Ambulance Vehicle Licensing Records
+ Retain 5 years, destroy
+066 Area Trauma Advisory Board Records
+ Retain 5 years, destroy
+067 County Ambulance Service Area Final Plans
+ Retain until superseded or obsolete, destroy
+068 Emergency Medical Services Complaint and Investigation Final Orders
+ Retain 25 years, destroy
+
+069 Emergency Medical Services Provider License Records
+ (a) Retain 5 years after license expiration, destroy
+ (b) Retain records of candidates who do not complete certification 2 years after course
+       completion, destroy
+070 EMS Medical Director Records
+ Retain 2 years after agency affiliation terminated, destroy
+071 EMS Provider Examination Rosters
+ Retain 2 years from course completion, destroy
+072 EMS Provider Training Course Rosters and Course Approvals
+ Retain 2 years, destroy
+073 EMT, Advanced EMT and Paramedic Training Institution Accreditation Records
+ Retain 5 years after accreditation expired, destroy
+074 Epinephrine Training Protocol Records
+ Retain until superseded or obsolete, destroy
+075 Mobile Emergency Service Training Records
+ Retain 7 years, destroy
+076 POLST Registry Advisory Committee Meeting and Decision Records
+ Retain 20 years, destroy
+077 POLST Registry Client Records
+ Retain for life of client, destroy
+078 State Emergency Medical Services Committee Records
+ Retain 5 years, destroy
+079 State Emergency Medical Services for Children Committee Records
+ Retain 5 years, destroy
+080 State Trauma Advisory Board Records
+ Retain 5 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Payroll Records (OAR 166-300-0035)
+Employee Payroll Records
+Employee Time Records
+Personnel Records (OAR 166-300-0040)
+Employee Personnel Records
+Recruitment and Selection Records
+
+Databases
+LICENSE 2000
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Health Protection
+Section: Health Care Regulation and Quality Improvement
+Program: Facilities Planning and Safety
+
+Program Description
+The Facilities Planning and Safety program provides plan review, consultation and project
+inspection services for facilities to be licensed and/or certified by the Oregon Health Authority
+(OHA); Public Health Division; or Oregon Department of Human Services (DHS), Office of
+Licensing and Regulator Oversight. Program responsibilities include all public and private
+general hospitals, nursing homes, residential care and assisted living facilities, ambulatory
+surgical centers, psychiatric and orthopedic hospitals, dialysis facilities, special inpatient care
+facilities, hospice facilities, and birthing centers. Program duties include ensuring that newly
+constructed facilities provide safe, adequate care and lodging; minimizing the need for costly
+changes and delays; correcting deficiencies in existing facilities; and promoting cost containment
+through better programming, design and construction.
+
+Facilities Planning and Safety also recommends construction-related rules and codes for DHS,
+OHA, and the Department of Consumer and Business Services Building Codes Division. The
+program publishes annual Construction Project Guides in cooperation with the Building Codes
+Division, the Office of State Fire Marshal, and DHS. This guide is widely used by facilities,
+developers, architects, engineers, and local building codes agencies to refer to rules and codes for
+the construction of health care and personal care facilities. The program also performs periodic
+technical inspections of health care facilities to analyze remodeling and improvement needs.
+
+Program Records
+081 Construction Project Guides
+ Retain 10 years, destroy
+082 Facility Review Project Files
+ (a) Retain construction documents 3 years after facility approved for occupancy, destroy
+ (b) Retain records of projects on hold 5 years after last activity, destroy
+ (c) Retain supporting documentation 10 years after facility approved for occupancy,
+   destroy
+083 Physical Environment Inspection Records
+ Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Correspondence
+Publication Preparation Records
+Financial Records (OAR 166-300-0025)
+Cash Receipt Records
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Health Protection
+Section: Health Care Regulation and Quality Improvement
+Program: Survey and Certification
+
+Program Description
+The Survey and Certification program regulates health care agencies, facilities, and providers.
+Regulated entities include hospitals, ambulatory surgical centers, birthing centers, special
+inpatient care facilities, and organ procurement organization registration; outpatient renal
+dialysis facilities, in-home care agencies, caregiver registries, hospices and home health
+agencies; and hemodialysis technician licensing. Other regulated entities include outpatient
+rehabilitation clinics, rural health clinics, community mental health centers, comprehensive
+outpatient rehabilitation facilities, and mobile x-ray suppliers.
+
+Survey and Certification performs initial and ongoing licensure and certification surveys of
+providers; conducts onsite surveys at various intervals to evaluate compliance with state
+licensure rules and federal Medicare conditions of participation and coverage; and investigates
+complaints and allegations of poor health care. It coordinates with the Certificate of Need and
+Facility and Planning and Safety programs in the review of proposed health care facilities.
+
+The Survey and Certification program also conducts the Public Health Officer Certification,
+which is an assessment of the quality and quantity of adverse event reports submitted by
+participants. It reviews the overall integrity of the Oregon Patient Safety Commission reporting
+program for hospitals, nursing homes, ambulatory surgery centers, and retail pharmacies.
+
+Program Records
+084 Health Care Agency Complaint, Investigation, Revocation, and Waiver Records
+ Retain 10 years after regulated entity closed, destroy
+085 Health Care Agency Licensure and Certification Records
+ Retain 4 years, destroy
+086 Health Care Agency Licensure Waivers
+ Retain 10 years after regulated entity closed, destroy
+087 Health Care Agency Surveys
+ Retain current and one previous, destroy
+088 Health Care Agency Surveys Supporting Documentation
+ Retain for 1 survey cycle, destroy
+089 Public Health Officer Certification Records
+ (a) Retain final reports 10 years, destroy
+ (b) Retain report preparation records 5 years after completion of final report, destroy
+090 Trauma Hospital Complaint and Investigation Records
+ Retain 10 years after final resolution, destroy
+091 Trauma Hospital License Application Records
+ Retain until superseded or 10 years after accreditation is revoked or suspended, whichever
+ is longer, destroy
+
+092 Trauma Hospital Survey Records
+ (a) Retain final reports 25 years, destroy
+ (b) Retain surveys and survey report preparation records until superseded or 10 years after
+ accreditation is revoked or suspended, whichever is longer, destroy
+093 Trauma Hospital Surveyor Informal Bid Records
+ Retain 6 years, destroy
+094 Trauma Hospital Unsuccessful License Application Records
+ Retain 5 years or until superseded or obsolete, whichever is longer, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Databases
+AUTOMATED SURVEY PROCESSING ENVIRONMENT (ASPEN)
+HEALTH CARE LICENSURE AND CERTIFICATION (HCLC DATABASE)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Health Protection
+Program: Drinking Water Services
+
+Program Description
+Drinking Water Services (DWS) reduces the incidence and risk of waterborne disease from
+exposure to hazardous substances potentially present in drinking water supplies. The program
+administers and enforces state and federal safe drinking water quality standards for 3,600 public
+water systems in Oregon, pursuant to state laws and a Primacy Agreement with the federal
+Environmental Protection Agency. DWS prevents contamination of public drinking water
+systems by protecting drinking water sources; ensures that public water systems meet standards
+for design, construction, and operation; inspects public water systems and requires the correction
+of identified deficiencies; provides technical assistance to public water suppliers; provides
+financial assistance for the construction of safe drinking water infrastructure; and certifies and
+trains water system operators. Public water system analysis includes, but is not limited to,
+microbiological, turbidity and disinfectant residual testing.
+
+Program Records
+095 Drinking Water Advisory Committee and Subcommittee Meeting Records and
+ Special Reports
+ Retain 10 years, destroy
+096 Drinking Water Program Reports
+ Retain 10 years, destroy
+097 Drinking Water Program Written Decisions
+ Retain 40 years, destroy
+098 Pipeline Newsletters
+ Retain 10 years, destroy
+099 Public Water System Analysis Records
+ Retain 1 year, destroy
+398 Public Water System Inventory Records
+ Retain 15 years, destroy
+100 Public Water System Master Plans and Review Records
+ Retain 25 years after final approval and certification, destroy
+101 Public Water System Variance, Exemption, and Permit Records
+ Retain 5 years after expiration, destroy
+102 Water System Operator, Backflow Tester, and Specialist Certification Records
+ Retain 6 years after expiration, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Publication Preparation Records
+Staff Meeting Records
+Training Program Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+Payroll Records (OAR 166-300-0035)
+Employee Payroll Records
+Employee Time Records
+Personnel Records (OAR 166-300-0040)
+Employee Personnel Records
+Recruitment and Selection Records
+
+Databases
+SAFE DRINKING WATER INFORMATION SYSTEM (DWIS-STATE)
+WATER SYSTEM OPERATOR CERTIFICATION DATABASE (L2K)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Health Protection
+Program: Oregon Medical Marijuana Program
+
+Program Description
+The Oregon Medical Marijuana Program (OMMP) manages a registry identification system that
+allows qualified patients who comply with program requirements to grow and use marijuana as
+medicine. OMMP issues registry identification cards to applicants after establishing their
+qualifications for the program.
+
+OMMP receives application material from patients and verifies medical statements with
+attending physicians. It registers pertinent information about the applicant, physician, designated
+caregiver, growers, qualifying medical condition, and marijuana grow site. OMMP maintains a
+registry database of those who have been issued registry identification cards, and verifies
+applicant, patient, caregiver and address registration status for state and local law enforcement
+agencies on request. The OMMP manager attends quarterly Advisory Committee on Medical
+Marijuana (ACMM) meetings to respond to issues and concerns presented by ACMM members.
+OMMP staff also provides technical assistance and education about the medical marijuana
+program to interested parties. Other program functions include preparing ad-hoc and annual
+reports, responding to subpoenas, and developing and amending its administrative rules.
+
+Program Records
+103 Advisory Committee on Medical Marijuana (ACMM) Meeting Records
+ Retain 10 years, destroy
+104 Erroneous Oregon Medical Marijuana Registry Identification Cards
+ Retain 4 years after expiration, destroy
+105 Law Enforcement Inquiry Tracking Records
+ Retain 3 years, destroy
+106 Medical Marijuana Patient Files
+ Retain 10 years after registration termination or revocation, destroy
+107 Medical Marijuana Program and Physician Correspondence
+ Retain 10 years, destroy
+108 Medical Marijuana Program Special Reports
+ Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Contracts and Agreements
+Correspondence
+Litigation Records
+Publication Preparation Records
+Payroll (OAR 166-300-0035)
+Employee Personnel Records
+Recruitment and Selection Records
+
+Databases
+OREGON MEDICAL MARIJUANA REGISTRY (OMMR)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Health Protection
+Program: Radiation Protection Services
+
+Program Description
+Radiation Protection Services (RPS) is responsible for protecting Oregonians from radiation
+exposure. The program establishes radiation standards by administrative rule and enforces the
+standards for x-ray equipment, radiation monitoring devices, radioactive materials, and tanning
+beds for the purpose of protecting workers, patients, and the public. The program licenses and
+inspects facilities that use radioactive materials and registers and inspects tanning facilities, and
+x-ray machines. RPS helps local agencies develop radiological response programs and ensures
+that local systems have trained first responders. It also provides on-call staff and emergency
+response teams for radiological emergencies and incidents. The program provides staff support
+to the Radiation Advisory Committee, which provides advice concerning proposed regulatory
+changes and emergent radiation issues involving potential exposure to workers or the public. In
+addition, the program provides technical assistance and information to users of radioactive
+materials and radiation emitting devices. It performs environmental radiological surveillance
+activities and studies regarding emerging technologies.
+
+RPS also performs analysis of grain and cereal crops for export to foreign countries and
+evaluations of soil and other field samples for radioactive material contamination. It publishes
+information to educate the public and occupational groups on radiation hazards and methods for
+exposure reduction. RPS also provides information and assistance to the public regarding the
+detection of radon; test result records are maintained by the Healthy Homes and Schools program
+(Environmental Public Health section).
+
+Program Records
+109 Dosimetry Reports
+ Retain 99 years, destroy
+110 Environmental Reports, 1961 – [ongoing], 1 c.f.
+ (Formerly Environmental Radiation Surveillance Study Records)
+ Retain permanently, transfer to State Archives after 20 years
+111 Microwave Repair Facility Inspection and Registration Records
+ Retain 10 years after registration termination, destroy
+112 Radiation Advisory Committee (RAC) and Sub-Committee Meeting Records
+ Retain 10 years, destroy
+113 Radiation Compliance and Informational Bulletins
+ Retain 2 years after superseded, destroy
+114 Radiation Incident Records
+ Retain 10 years, destroy
+115 Radioactive Materials Inspection and Licensing Records
+ Retain 25 years after license termination, destroy
+116 Radioisotope Laboratory Analysis Records
+ Retain 10 years after analysis completion, destroy
+
+117 Tanning Facility Inspection and Registration Records
+ Retain 25 years after registration termination, destroy
+118 X-ray Machine Inspection and Registration Records
+ Retain 25 years after registration termination, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Litigation Records
+Facilities/Property Records (OAR 166-300-0020)
+Asset Inventory Reports (including Emergency Equipment Inventory Reports)
+Equipment Maintenance Records
+Hazardous Substance Employer Survey Records
+Master Material Safety Data Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+Travel Expense Records
+Payroll Records (OAR 166-300-0035)
+Employee Medical Records
+Employee Payroll Records
+Employee Time Records
+Personnel Records (OAR 166-300-0040)
+Employee Personnel Records
+Employee Training Records
+Recruitment and Selection Records
+Work Schedules and Assignment Records
+Risk Management Records (OAR 166-300-0045)
+Emergency Response Plans and Procedures
+Hazard Exposure Records
+
+Databases
+RADIATION PROTECTION SERVICES LICENSING, REGISTRATION, AND
+INSPECTION DATABASES (RPS)
+X-RAY
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:        Prevention and Health Promotion
+Section: Adolescent, Genetics and Reproductive Health
+Program: Adolescent and School Health
+
+Program Description
+The Adolescent and School Health program performs assessment, data gathering, program
+planning, policy development, and assurance functions. It administers various projects related to
+adolescent health and collaborates with a variety of private and public partners who focus on
+improving state and nationally defined adolescent health indicators.
+
+The program coordinates Oregon’s School-Based Health Centers (SBHCs), which offer
+comprehensive physical, mental, and preventive health services for youth and adolescents in a
+school setting. SBHCs represent one element of the eight-component Coordinated School Health
+(CSH) model that comprises a coordinated school health. CSH’s components guide school health
+planners in thinking broadly about the prevention of health-related barriers to learning, and the
+promotion of the entire school community’s health.
+
+Program Records
+119 Adolescent Health Annual Publications (Rational Enquirer and School Based Health
+ Center Status Report)
+ Retain 50 years, destroy
+120 Adolescent Health Evaluation, Assessment, and Technical Records (also known as
+ ‘Needs Assessment’ Records)
+ Retain 10 years, destroy
+121 School Based Health Center Certification Records
+ Retain 20 years after certification expiration, destroy
+122 School Based Health Center Certification Standards
+ Retain 10 years after superseded, destroy
+123 School Based Health Center Local Site Planning Grant Records
+ Retain 10 years after submission, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Publication Preparation Records
+
+Databases
+SCHOOL-BASED HEALTH CENTERS ENCOUNTERS
+SCHOOL-BASED HEALTH CENTERS SURVEY AND PROFILE
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Prevention and Health Promotion
+Section: Adolescent, Genetic and Reproductive Health
+Program: Breast and Cervical Cancer/WISEWOMAN
+
+Program Description
+The Breast and Cervical Cancer Program (BCCP) reduces mortality from breast and cervical
+cancer through early detection. It gathers and analyzes data, disseminates information, and
+produces reports about the public health aspects of breast and cervical cancer in Oregon. The
+program is implemented through local health departments, tribes, health care providers, and
+community partners serving Oregon’s medically underserved populations. BCCP provides
+coverage for screening and diagnostic services to eligible clients through a contract network of
+qualified providers. The program also raises awareness about the important of breast and cervical
+cancer screening.
+
+The Well-Integrated Screening and Evaluation for Women Across the Nation (WISEWOMAN)
+program allows low-income, uninsured and underinsured women who participate in BCCP to
+receive additional assessment and screening for heart disease, stroke, diabetes and tobacco use.
+The program provides healthy behavior support options to improve modifiable risk factors for
+heart disease and other chronic conditions. WISEWOMAN aims to reduce cardiovascular and
+other diseases by promoting early detection, risk factor screening, risk reduction and access to
+medical treatment for qualifying women aged 40-64.
+
+Program Records
+124 Breast and Cervical Cancer Program Advisory Board Meeting Records
+ Retain 10 years, destroy
+125 Breast and Cervical Cancer Program/WISEWOMAN Client Records
+ (a) Retain 20 years, destroy
+ (b) Retain source documents 2 years after entered and verified, destroy
+126 Breast and Cervical Cancer Program/WISEWOMAN Clinical Protocols
+ Retain until superseded or expired, destroy
+127 Breast and Cervical Cancer Program/WISEWOMAN Education, Evaluation and
+ Assessment Records
+ Retain 10 years, destroy
+128 Breast and Cervical Cancer Program/WISEWOMAN Reports
+ Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Publication Preparation Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+
+Databases
+BREAST AND CERVICAL CANCER PROGRAM WEB DATA SYSTEM
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Prevention and Health Promotion
+Section: Adolescent, Genetic and Reproductive Health
+Program: Genetics
+
+Program Description
+The Oregon Genetics program addresses public health genomic and genetic issues across the
+lifespan; their mission is to promote the health, well being, and quality of life of Oregonians
+using up-to-date knowledge of genomics. The program uses public health assessment, policy
+development, and education and collaborates with numerous internal and external partners to
+carry out its mission.
+
+The program supports and maintains the official copy of the records of the Advisory Committee
+on Genetic Privacy and Research, which studies the use and disclosure of genetic information,
+and maintains the state’s legal framework defining the rights of individuals whose DNA samples
+and genetic information are collected, stored, analyzed and disclosed.
+
+Program Records
+129 Advisory Committee on Genetic Privacy and Research Meeting Records and Biennial
+ Reports, 2003 – [ongoing], .5 c.f.
+ Retain permanently, transfer to State Archives after 30 years
+130 Genetics Case Records
+ Retain 20 years after closure, destroy
+131 Genetics Cooperative Agreements and Grants
+ Retain 10 years after expiration or closure, destroy
+132 Genetics Evaluation, Assessment and Technical Records
+ Retain 10 years, destroy
+133 Genetics Strategic Plan
+ (a) Retain 20 years, destroy
+ (b) Retain preparation files 5 years after plan completion, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Databases
+GENIS
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Prevention and Health Promotion
+Section: Adolescent, Genetic and Reproductive Health
+Program: Reproductive Health
+
+Program Description
+The Reproductive Health (RH) program works to reduce unintended pregnancies by making free
+and low-cost birth control and reproductive health services available in local health departments
+and other clinics. It provides technical assistance, referral service, and information to providers
+and the public. Program staff collect and analyze data, identify gaps in existing services,
+advocate for service development, and educate community groups on reproductive health topics.
+
+The RH program administers Oregon’s Title X grant from the federal Office of Family Planning,
+which provides funds to local agencies to support the provision of reproductive health services to
+low income Oregonians. The program also administers Oregon Contraceptive Care (CCare),
+which provides Medicaid-funded family planning benefits to eligible clients.
+
+Program Records
+134 Reproductive Health Evaluation, Assessment and Technical Records
+ Retain 10 years, destroy
+135 Reproductive Health Program Client Eligibility Verification Records
+ Retain 10 years, destroy
+136 Reproductive Health Program Clinic Visit Records
+ Retain service records 20 years, destroy
+137 Reproductive Health Program County/Agency Provider Files
+ Retain 10 years, destroy
+138 Reproductive Health Program Provider Manual
+ Retain 15 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Record
+Publication Preparation Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+
+Databases
+FAMILY PLANNING INFORMATION SYSTEM
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center: Prevention and Health Promotion
+Section: Environmental Public Health
+Program: Environmental Public Health Tracking
+
+Program Description
+The Environmental Public Health Tracking (EPHT) program maintains a statewide network of
+health and environmental data. The program uses this data in conjunction with program partners
+to develop policies and practices to improve the health of Oregon communities. The program
+collects assesses, communicates and distributes data from environmental hazard monitoring and
+from human exposure and health effects surveillance. Program data categories include
+environmental justice (i.e., community design and population characteristics), environmental
+quality (i.e., air, land, water and climate), and health outcomes (e.g., chronic conditions, acute
+conditions, reproductive outcomes and occupational illnesses). The program staffs the Oregon
+Technical Advisory Group which provides technical, scientific and programmatic feedback to
+the program. The program publishes interpretive reports for a variety of audiences including
+program reports for federal partners and studies regarding environmental justice, health
+outcomes, and environmental quality.
+
+Program Records
+139 Environmental Public Health Tracking Summary Reports and Special Studies
+ Retain 10 years after study publication, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Policy and Procedure Guidelines and Manuals
+
+Databases
+ENVIRONMENTAL PUBLIC HEALTH TRACKING PORTAL (EPHT PORTAL)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center: Prevention and Health Promotion
+Section: Environmental Public Health
+Program: Healthy Communities
+
+Program Description
+The Healthy Communities program provides assessment, consultation, training and technical
+assistance services to state and federal partner agencies, local health departments, and
+communities. Capacity building efforts include providing mini-grants to local health
+departments. Healthy Communities administers the Environmental Health Assessment Program
+(EHAP), which assesses and prevents human exposure to contamination at Oregon sites listed on
+the National Priority List (Superfund sites) and other hazardous waste sites. It coordinates the
+Climate and Health program, which works to understand projected local and state-level impacts
+from climate change, researches potential local health concerns related to those impacts, and
+develops adaptation plans to protect the health of communities. The Healthy Communities
+program conducts the Health Impact Assessment initiative, which builds collective capacity to
+evaluate the health effects of projects and policies, and provides information to decision
+makers. The program also oversees the Brownfields Initiative, which stimulates collaboration
+among stakeholders, engages community members, provides education and resources, and uses
+data to monitor health improvements resulting from brownfield clean up and redevelopment.
+
+Program Records
+140 EHAP Final Site Reports (Formerly Superfund Health Information and Education
+ Site Records), 1948 – [ongoing], 24 c.f.
+ Retain permanently, transfer to State Archives after 10 years
+141 EHAP Site Report Preparation Records
+ Retain 10 years after closure, destroy
+142 Healthy Communities Consultation Records
+ Retain 10 years after closure, destroy
+143 Local Assessment Reports
+ Retain 5 years, destroy
+144 State Planning and Assessment Reports
+ Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Publication Preparation Records
+Financial Records (OAR 166-300-025)
+Grant Records
+
+Databases
+ENVIRONMENTAL HEALTH ASSESSMENT PROGRAM (EHAP)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center: Prevention and Health Promotion
+Section: Environmental Public Health
+Program: Healthy Homes and Schools
+
+Program Description
+The Healthy Homes and Schools program works to prevent childhood lead poisoning and
+promotes healthy housing in Oregon. The program monitors blood lead test results for the state
+and provides case management for children with elevated blood lead levels. The program works
+to prevent future exposures to lead and other hazards in the home through education and
+outreach.
+
+The Lead-Based Paint unit works to protect Oregonians from lead-based paint exposure by
+regulating individuals that may disturb lead-based paint. Duties include certification of the
+regulated community and accreditation of training organizations.
+
+The Clandestine Drug Lab program is responsible for ensuring that sites used for illegal drug
+manufacture are properly decontaminated prior to re-inhabitation. The program licenses
+companies to perform decontamination, and trains and certifies their workers.
+
+Oregon’s Pesticide Exposure Safety and Tracking (PEST) program reduces acute pesticide-
+related illness/injury in Oregon by conducting surveillance of acute pesticide exposure
+incidences, and educating the public on the safe use and storage of pesticides. The program
+conducts investigations of the health effects reported by people exposed to pesticides; program
+reports help to identify trends in acute pesticide poisoning and emerging pesticide hazards.
+
+The Radon program provides education and outreach to Oregonians in an effort to decrease the
+incidence of radon induced lung cancer in the state.
+
+Program Records
+145 Annual Pesticide Analytical and Response Center (PARC) Reports, 1978 – 2003,
+ 1 c.f.
+ Retain permanently, transfer to State Archives after 20 years
+146 Childhood Blood-Lead Test Results Records
+ Retain 25 years, destroy
+147 Childhood Lead Poisoning Prevention Program Advisory Group Meeting Records
+ Retain 10 years, destroy
+148 Clandestine Drug Lab Contractor License Records
+ Retain 3 years after license expiration, destroy
+
+149 Clandestine Drug Lab Site Case Records
+ (a) Retain Certificates of Fitness 50 years, destroy
+ (b) Retain all other records 5 years after case closure, destroy
+150 Healthy Homes and Schools Consultation Records
+ Retain 10 years after closure, destroy
+151 Lead Based Paint Advisory Group Meeting Minutes
+ Retain 2 years, destroy
+152 Lead Based Paint Complaint Records
+ Retain 10 years from date of closure, destroy
+153 Lead Based Paint Individual and Firm Certification Records
+ Retain 10 years after certification expired, destroy
+154 Lead Based Paint Program Performance Reports to EPA and Site Activity Records
+ Retain 3 years, destroy
+155 Lead Based Paint Training Program Accreditation Records
+ Retain 10 years after expired, destroy
+156 Non-Qualifying Pesticide Complaint and Incident Reports
+ Retain 2 years, destroy
+157 Non Toxic Art School Supply Lists
+ Retain until superseded or obsolete, destroy
+158 Pesticide Case Records
+ Retain 25 years, destroy
+159 Radon Test Results Records
+ Retain 25 years, destroy
+160 Screening Questionnaires and Guidance Documents
+ Retain until superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparations
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Financial Records (OAR 166-300-025)
+Grant Records
+Payroll Records (OAR 166-300-0035)
+Employee Payroll Records
+Employee Time Records
+Personnel Records (OAR 166-300-0040)
+Employee Medical Records
+Employee Personnel Records
+Recruitment and Selection
+
+Databases
+ACCREDITATION/TRAINING DATABASE
+CERTIFICATION DATABASE
+COMPLAINT TRACKING DATABASE
+ILLEGAL DRUG LAB SITES
+LEADPOISON
+NOTICE OF ABATEMENT DATABASE
+OREGON CHILDHOOD LEAD POISONING PREVENTION PROGRAM (OCLPP-
+STELLAR)
+SENSOR PESTICIDE INCIDENT DATA ENTRY REPORTING
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center: Prevention and Health Promotion
+Section: Environmental Public Health
+Program: Healthy Waters
+
+Program Description
+The Healthy Waters program assesses health risks associated with Oregon’s drinking water,
+recreational waters, and freshwater fish. The program collaborates with natural resource
+agencies, regulatory agencies and other environmental and health risk assessment partners to
+determine when environmental hazards require public notification (e.g., public health advisories
+for beach contamination, harmful algae blooms or fish consumption limitations); whether the
+public is adequately protected from waterborne hazards (e.g., review of recycled water reuse
+plans for the Oregon Department of Environmental Quality); and when the public needs to be
+made aware of potential waterborne hazards and steps they can take to minimize the health risk.
+
+The program publishes public health advisories on the web and through mass media. Fish
+consumption advisories, due to their long-term nature, are supported by internal technical
+memoranda. In conjunction with the Drinking Water Services program, Healthy Waters collects
+and assesses private well testing data submitted under the Domestic Well Testing Act. In
+conjunction with program partners, Healthy Waters produces fact sheets, letters of consultation,
+and internal technical memoranda. It also publishes brochures, posters, permanent signs, and
+program reports.
+
+Program Records
+161 Advisory Signage Publication Records
+ Retain 10 years, destroy
+162 Fish Consumption Risk Assessment Technical Memoranda
+ Retain 30 years after superseded or obsolete, destroy
+163 Healthy Waters Consultation Records
+ Retain 10 years after closure, destroy
+164 Illness Reports (Drinking Water, Recreational Waters, Freshwater Fish)
+ Retain 25 years, destroy
+165 Mandatory Health Hazard Annexation Records
+ Retain 30 years, destroy
+166 Private Well Test Records
+ Retain 30 years after receipt, destroy
+167 Public Health Advisory Records
+ Retain 10 years after advisory lifted, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Press Releases
+Publication Preparation Records
+Financial Records (OAR 166-300-025)
+Grant Records
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center: Prevention and Health Promotion
+Section: Environmental Public Health
+Program: Healthy Workplaces
+
+Program Description
+The Healthy Workplaces program is composed of four functional areas: Adult Blood Lead
+Epidemiology and Surveillance (ABLES), which tracks adults with laboratory-reported adult
+blood lead levels; Occupational Public Health Program (OPHP), which tracks worker injuries,
+illnesses, and fatalities; Hazardous Substance Incident Surveillance (HSIS), which tracks the
+release of toxic substances; and the coordination of the Center for Health Protection’s emergency
+response efforts, which are fed into the Health Security Preparedness and Response (HSPR)
+program within the Office of the Public Health Director. The Healthy Workplaces program
+produces periodic reports and studies regarding collected data.
+
+Program Records
+168 Adult Blood-Lead Test Results Records
+ Retain 25 years, destroy
+169 Environmental and Occupational Epidemiology Annual and Special Reports
+ (Formerly Environmental and Occupational Epidemiology Program Reports), 1993 –
+ 2004, .25 c.f.
+ Retain permanently, transfer to State Archives after 20 years
+170 Environmental and Occupational Epidemiology Newsletters [ended 2004]
+ Retain 25 years, destroy
+171 Environmental and Occupational Epidemiology Special Studies Records, 1990 - 2004,
+ 27 c.f.
+ Retain permanently, transfer to State Archives after 20 years
+172 Hazardous Substances Incident Surveillance (HSIS) Records, 1981 – 2013, 17 c.f.
+ Retain permanently, transfer to State Archives after case closed
+173 Healthy Workplaces Consultation Records
+ Retain 10 years after closure, destroy
+174 Occupational Public Health Program Advisory Committee Meeting Records
+ Retain 10 years, destroy
+175 Putting Data to Work Fact Sheet
+ Retain 5 years, destroy
+176 Workplace Fatalities Report Records
+ Retain 1 year after publication of annual report by Oregon Health Sciences University,
+ destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Payroll Records (OAR 166-300-0035)
+Employee Payroll Records
+Employee Time Records
+Personnel Records (OAR 166-300-0040)
+Employee Medical Records
+Employee Personnel Records
+Recruitment and Selection Records
+
+Databases
+ADULT BLOOD LEAD EPIDEMIOLOGY SURVEILLANCE (ABLES)
+NATIONAL TOXIC SUBSTANCE INCIDENTS PROGRAM (NTSIP)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Prevention and Health Promotion
+Section: Health Promotion and Chronic Disease Prevention
+
+Program Description
+The purpose of the Health Promotion and Chronic Disease Prevention (HPCDP) section is four-
+fold: Form and maintain partnerships with key stakeholders in the public and private sectors;
+gather and analyze data, disseminate information, and produce reports about public health
+aspects of chronic diseases in Oregon; develop best practices and fund interventions in
+communities to decrease the burden of risk factors and chronic diseases; and promote clinical
+preventive services and tracking systems in clinics and health systems. HPCDP’s Administration
+program facilitates, integrates, and monitors these interrelated cross-program functions.
+Administration also produces media events, billboard, radio and television messages, and
+publishes news and public service articles, pamphlets, newsletters, booklets, and reports. Chronic
+diseases included in the scope of the HPCDP section include asthma, arthritis, cancer, diabetes,
+heart disease and stroke, nutrition, physical activity, obesity prevention, and tobacco prevention.
+
+Health Promotion and Chronic Disease Prevention programs focus on Tobacco Facts, Physical
+Activity, Nutrition, and Obesity Facts. Chronic Disease Prevention and Self-Management
+programs include the Heart Disease and Stroke Prevention program, the Living Well program,
+the Oregon Arthritis program, and the Oregon Diabetes program.
+
+The Heart Disease and Stroke Prevention program works towards a heart-healthy and stroke-free
+Oregon. The program focuses on developing partnerships and advancing policy to strengthen
+capacity, evaluate impact, and take positive actions for a heart-healthy and stroke-free Oregon.
+
+The Living Well program is a six-week workshop that provides tools for living a healthy life
+with chronic health conditions including diabetes, arthritis, asthma and heart disease. It is based
+on the Chronic Disease Self-Management Program (CDSMP) developed at Stanford University.
+
+The Oregon Arthritis program focuses on improving the lives of people with arthritis and
+addressing those who are at risk for developing arthritis. It reduces the impact of arthritis through
+a public health approach, working in collaboration with partners in the public and private sectors.
+
+The Oregon Diabetes program has the goal of reducing the burden of diabetes across the state. It
+works with partners to create policies and environments where people have easy access to
+healthy foods and regular physical activity, which can help prevent or delay diabetes. It also
+works to ensure that people with diabetes are able to manage their condition at home in
+cooperation with their health care providers to prevent complications and improve quality of life.
+
+The Oregon Partnership for Cancer Control (OPCC) is a coalition of individuals and
+organizations working to reduce the burden of cancer in Oregon, formed to develop and
+implement the Oregon Comprehensive Cancer Plan. Its committees and task forces focus on
+particular topics or areas of cancer to identify and address the most pressing issues in prevention,
+survivorship, early detection and policy. HPCDP maintains the official copy of OPCC’s records.
+
+The Oregon State Cancer Registry (OSCaR) is a statewide, population-based registry that
+collects and analyzes information about cancer cases occurring in Oregon. Registry information
+collection began on January 1, 1996.
+
+The Tobacco Prevention and Education program (TPEP) works to reduce tobacco-related illness
+and death; it addresses the issues of tobacco use, and coordinates anti-tobacco effort to save lives
+and money. TPEP reports biennially to the governor and legislators.
+
+Program Records
+177 Active Community Environments Group Records [ended 2007]
+ Destroy
+178 Arthritis Advisory Council Records (Arthritis Foundation, Oregon Chapter) [ended
+ 2003]
+ Destroy
+179 Arthritis Network Meeting Records (Formerly Arthritis Coalition Records)
+ Retain 5 years, destroy
+180 Asthma Data Workgroup Meeting Records and Specification Reports
+ Retain 5 years, destroy
+181 Childhood Diabetes Case Records
+ Retain 5 years, destroy
+182 Chronic Disease Prevention and Self-Management Program Records
+ Retain 5 years, destroy
+183 Diabetes Coalition Records [ended 2009]
+ Retain 5 years, destroy
+184 Health Promotion and Chronic Disease Prevention Program Monitoring and
+ Evaluation Reports, 2011 – [ongoing], 1 c.f.
+ Retain permanently, transfer to State Archives after 20 years
+185 Health Promotion and Chronic Disease Prevention Strategic and Statewide Plans
+ (Formerly Health Promotion and Chronic Disease Prevention State Plans and
+ Coalition Records), 1992 – [ongoing], 2 c.f.
+ Retain permanently, transfer to State Archives after 20 years
+186 Keeping Oregonians Healthy: An assessment of leading causes of death and related
+ behaviors in Oregon, 1999 – [ongoing], 1 c.f.
+ Retain permanently, transfer to State Archives after 20 years
+187 Living Well Network Meeting Records
+ Retain 5 years, destroy
+188 Nutrition Council of Oregon Meeting Records
+ Retain 5 years, destroy
+
+189 Obesity Prevention Task Force Records, 2007 – 2008
+ (a) Retain meeting agendas, exhibits and minutes 5 years, destroy
+ (b) Retain final report 10 years, destroy
+190 Oregon Coalition for Promoting Physical Activity Records [ended 2007]
+ Destroy
+191 Oregon Partnership for Cancer Control & Committee/Task Force Meeting Records
+ Retain 10 years, destroy
+192 Oregon Quit Line Records
+ Retain 50 years, destroy
+193 Oregon State Cancer Registry (OSCaR) Advisory Committee Meeting Records
+ Retain 5 years, destroy
+194 Oregon State Cancer Registry (OSCaR) Annual Reports (Cancer in Oregon) 1996 –
+ [ongoing], 1 c.f.
+ Retain permanently, transfer to State Archives after 20 years
+195 Oregon State Cancer Registry Patient Records
+ Retain 50 years, destroy
+196 Research Permission Forms
+ Retain until entered and verified, destroy
+197 Statewide Public Health Nutrition Plan
+ Retain 15 years, or 2 years after superseded, whichever is longer, destroy
+198 Statewide Public Health Nutrition Programs Group Meeting Records [ended 2006]
+ Destroy
+199 Tobacco Prevention and Education Program Biennial Reports
+ Retain current and one previous, destroy
+200 Tobacco Reduction Advisory Committee Meeting Minutes
+ Retain 5 years, destroy
+201 Tobacco Technical Evaluation Advisory Committee Records [ended 2007]
+ Destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar, and Training Program Records
+Correspondence
+Publication Preparation Records
+Staff Meeting Minutes
+Financial Records (OAR-166-300-0025)
+Grant Records
+Payroll Records (OAR 166-300-0035)
+Employee Payroll Records
+Employee Time Records
+Personnel Records (OAR 166-300-0040)
+Employee Personnel Records
+Recruitment and Selection Records
+
+Databases
+OREGON STATE CANCER REGISTRY (OSCAR)
+
+Organizational Placement              Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Prevention and Health Promotion
+Section: Injury and Violence Prevention
+
+Program Description
+The Injury and Violence Prevention section monitors unintentional and violent injuries and
+works to prevent them. It examines data on injuries in Oregon to identify prevention strategies;
+provides education, technical assistance and information on injury topics to agencies and the
+public; and produces reports and informational publications about injury prevention. Current
+areas of focus include childhood injury prevention and youth and older adult suicide prevention.
+
+Section staff collect information from many data sources, and compile incident-based cases for
+all violent deaths in the state in the Oregon National Violent Death Reporting System (NVDRS);
+generate public health information on violent deaths; and develop violence prevention strategies.
+
+The Injury and Violence Prevention section coordinates the Safe Kids program, which
+coordinates emergency responders, law enforcement officers, health and safety professionals,
+and interested citizens in reducing unintentional preventable injury and death in children ages 0
+to 14. It also oversees the Youth Suicide Prevention program, which encourages partnership and
+shared responsibility between/among state and local agencies in the public and private sector.
+
+The Injury and Violence Prevention section also administers the Oregon Prescription Drug
+Monitoring Program to assist health care providers and pharmacists in the provision of better
+patient care through prescription management. The section additionally manages the Trauma and
+Tertiary Care program, which develops, implements and monitors the state’s trauma system;
+establishes system standards; and designates trauma hospitals. Trauma hospital licensing records
+are maintained by the Survey and Certification program (in the Center for Health Protection).
+
+Program Records
+202 Adolescent Suicide Attempt Evaluation Records
+ Retain 10 years, destroy
+203 Biannual Prescription Drug Monitoring Program Reports
+ Retain 1 year after superseded or obsolete, destroy
+204 Child Fatality Review System Records
+ Retain 10 years, destroy
+205 Child Fatality Review System Reports [ended 2000]
+ Destroy
+206 Injury and Violence Prevention and Control State Annual Plans
+ Retain 5 years after superseded or obsolete, destroy
+207 Injury and Violence Special Reports
+ Retain 10 years, destroy
+208 Injury Community Planning Group Meeting Minutes
+ Retain 10 years, destroy
+
+209 Intimate Partner Violence Advisory Committee Records [ended 2003]
+ Destroy
+210 Intimate Partner Violence Surveillance System Records [ended 2003]
+ Destroy
+211 Oregon Older Adult Suicide Prevention Advisory Work Group Meeting Records,
+ 2003 – 2006
+ Retain 10 years, destroy
+212 Oregon Older Adult Suicide Prevention Plan [ended 2006]
+ Retain 20 years, destroy
+213 Oregon Plan for Youth Suicide Prevention [ended 2000]
+ Retain 20 years, destroy
+214 Oregon Violent Death Reporting System Technical Advisory Committee Records
+ [ended 2010]
+ Retain 10 years, destroy
+215 Prescription Drug Monitoring Program Account Request Forms
+ Retain 5 years, destroy
+216 Prescription Drug Monitoring Program Advisory Commission Meeting Minutes
+ Retain 20 years, destroy
+217 Prescription Drug Monitoring Program Report Request Forms
+ Retain 7 years, destroy
+218 Safe Kids Program Advisory Committee Minutes
+ Retain 10 years, destroy
+219 Senior Falls Prevention Evaluation Records
+ Retain 10 years, destroy
+220 Statewide Coalition Activities Annual Reports
+ Retain 10 years, destroy
+221 Statewide Youth Suicide Prevention Planning Team Meeting Records, 1997 – 2005
+ Retain 10 years, destroy
+222 Trauma Registry Reports
+ Retain 50 years, destroy
+223 Trauma System Biennial Reports
+ Retain 50 years, destroy
+224 Violent Death Reporting System Records
+ Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Publication Preparation Records
+Employee Personnel Records (OAR 166-300-0040)
+Employee Training Records
+Recruitment and Selection Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+
+Databases
+ADOLESCENT SUICIDE ATTEMPT DATABASE
+OREGON EMS PREHOSPITAL DATA SYSTEM
+OREGON HEALTHY TEENS
+OREGON TRAUMA REGISTRY
+PRESCRIPTION DRUG MONITORING SYSTEM
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Prevention and Health Promotion
+Section: Maternal and Child Health
+Program:  Assessment, Evaluation, and Informatics
+
+Program Description
+The Assessment, Evaluation and Informatics (AEI) program focuses on capacity-building and
+leadership to better address current and emerging issues in maternal and child health. AEI
+provides consultation and support to the Maternal and Child Health section and its programs for
+the purpose of database design, development and implementation; reporting; data sharing and
+governance; application support; and alignment with national standards for data and metadata.
+
+The Pregnancy Risk Assessment and Monitoring System (PRAMS) is a component of AEI.
+PRAMS is a surveillance project funded by the federal Centers for Disease Control and
+Prevention (CDC) that collects Oregon-specific, population-based data on maternal attitudes and
+experiences before, during, and shortly after pregnancy.
+
+AEI also maintains the records of the Oregon Fetal Alcohol Syndrome (FAS) Surveillance
+Project, a cooperative effort with the CDC that collected, reviewed and analyzed data on children
+in Oregon born between 2001 and 2006, who were either diagnosed with FAS or who fit other
+criteria for FAS. From 2005 through 2009 the project assessed the burden of FAS in Oregon;
+provided data for planning FAS-related services; created professional and public awareness of
+the risks of alcohol-exposed pregnancies; and improved provider-capacity to diagnose FAS.
+
+Program Records
+225 Data Sharing Agreement Records
+ Retain 10 years after signature date, destroy
+226 Fetal Alcohol Syndrome Surveillance Project Records and Reports [ended 2009]
+ Retain 10 years after project completion, destroy
+227 PRAMS and PRAMS-2 Contact Cards
+ Retain 5 years after survey is received and entered, destroy
+228 PRAMS and PRAMS-2 Mailing List
+ Retain 5 years, destroy
+229 PRAMS and PRAMS-2 Survey
+ Retain 5 years after baby’s year of birth, destroy
+230 PRAMS Batch File
+ Retain until final data set received from CDC, destroy
+231 PRAMS-2 Batch File
+ Retain until final dataset created and finalized, destroy
+232 Program Source Code, Data Models, and Data Dictionaries
+ Retain 10 years after implementation of the application, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+
+Databases
+EARLY HEARING DETECTION AND INTERVENTION INFORMATION SYSTEM (EHDI-
+IS)
+LAUNCH DATA SYSTEM
+MATERNAL, INFANT AND EARLY CHILDHOOD HOME VISITING SYSTEM (MIECHV)
+MEASURES DATA SYSTEM
+OREGON CHILD HEALTH INFORMATION DATA SYSTEM (ORCHIDS)
+OREGON MOTHERSCARE WEB-BASED TRACKING INTERFACE (WTI)
+PREGNANCY RISK ASSESSMENT MONITORING TRACKING SYSTEM (PRAMTRAC)
+PRAMS INTEGRATED DATA COLLECTION SYSTEM (PIDS)
+QDE – DATA ENTRY
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Prevention and Health Promotion
+Section: Maternal and Child Health
+Program:  Child Health
+
+Program Description
+The Child Health program works with county health departments to assess and improve
+children’s health in Oregon. It promotes statewide policy development and programs that focus
+on prevention and risk reduction. The program collaborates with childhood care and education
+partners and provides technical assistance to improve health, safety and quality for children in
+care. The program also partners to maintain up-to-date training and references on health and
+safety best practices in care settings. It provides technical assistance and funding for nurse home
+visiting, nutrition consultation, and statewide monitoring of high-risk infants through the Babies
+First program. It also coordinates genetic services with the Children with Special Needs program
+at the Child Development Rehabilitation Center of the Oregon Health and Science University.
+The Child Health program additionally publishes informational brochures and newsletters.
+
+The Child Health program administers Healthy Child Care Oregon (HCCO), a collaboration
+between childhood care and education partners to provide technical assistance, up-to-date
+training, and references on health and safety best practices that improve health, safety and quality
+for children in care. HCCO also coordinated the Child Care Health Consultation program from
+2003 to 2010.
+
+The Early Hearing Detection and Intervention (EHDI) program supports and monitors the state’s
+newborn hearing screenings program. The goal of the program is to screen newborns for possible
+hearing loss by one month of age; identify congenital hearing loss by three months; and enroll
+children in appropriate early intervention by six months. The EHDI program maintains
+demographic, hearing screening, diagnostic and early intervention data for babies and children.
+The program occasionally receives hearing test results on children over three, and they follow-up
+on this information as appropriate; audiologists checking for late onset/progressive hearing
+losses periodically contact EHDI for the newborn hearing screening results of children older than
+three.
+
+The Newborn Hearing Screening Advisory Committee (NHSAC) provides advice to the EHDI
+program on the implementation of universal newborn hearing screening in Oregon, especially
+regarding barriers to universal access to hearing screening, diagnostic evaluations, and early
+intervention services. The EHDI program maintains the official copy of NHSAC’s records.
+
+Program Records
+233 Child Care Health and Mental Health Consultation Priority Action Work Group
+ Meeting Records
+ Retain 10 years, destroy
+234 Child Care Health Consultation County Program Evaluation Reports
+ Retain 10 years, destroy
+
+235 Child Care Health Consultation Program Statistical Reports
+ Retain 10 years, destroy
+236 Child Care Health Consultation Supporting Documentation [ended 2010]
+ Retain 10 years, destroy
+237 Child Care Health Reference Survey Supporting Documentation
+ Retain 10 years, destroy
+238 Child Health Advisory Committee Records [ended 2007]
+ Retain 10 years, destroy
+239 Early Hearing Detection and Intervention Biennial Reports
+ Retain 6 years, destroy
+240 Early Hearing Detection and Intervention Client Records
+ (a) Retain surveys and forms 3 years after data entered and verified, destroy
+ (b) Retain all other records 10 years, destroy
+241 Efforts to Outcomes Reports
+ Retain 10 years, destroy
+242 Health Links Advisory Committee Records
+ Retain 10 years, destroy
+243 Newborn Hearing Screening Advisory Committee Reports and Meeting Minutes
+ Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Correspondence
+Publication Preparation Records
+Training Program Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+
+Databases
+EARLY HEARING DETECTION AND INTERVENTION INFORMATION SYSTEM (EHDI-
+IS)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Prevention and Health Promotion
+Section: Maternal and Child Health
+Program:  Home Visiting
+
+Program Description
+The Home Visiting program is made up of several public health home visiting services providing
+case management, consultations, health and development assessments, and education to at-risk
+and high-risk families with health problems and other concerns. Public health nurses work with a
+variety of community and medical resources to ensure good health outcomes. The program also
+funds the establishment and expansion of local evidence-based home visiting programs.
+
+Maternity Case Management (MCM) services are provided by county health departments,
+contracted health plans, and private providers through the Oregon Health Plan. Local health
+departments that choose to offer MCM services provide assessments, interventions and referrals
+during nurse home visits to pregnant women and teens who are low income or who have other
+pregnancy risk factors. The goal of these services is to support the pregnant woman in making
+lifestyle choices that will encourage healthy pregnancy outcomes and the future healthy growth
+and development of her baby. MCM promotes adequate prenatal care and provides nutrition
+counseling for pregnant women with nutritional risk factors.
+
+Babies First! is a statewide public health nurse home visiting service for families with babies and
+young children up to age five. Babies First! identifies children who have medical and social risk
+factors for chronic health conditions and developmental delays, and provides early intervention
+to improve health outcomes. Public health nurses assist families in identifying and accessing
+appropriate community resources that will support development of the child’s full potential.
+
+Home Visiting also supports the Nurse-Family Partnership, an evidence-based, community
+health service that helps transform the lives of vulnerable mothers pregnant with their first child.
+Each mother served by the program is partnered with a registered nurse early in her pregnancy
+and receives ongoing nurse home visits that continue through her child’s second birthday.
+
+Program Records
+244 County Home Visiting Implementation Plans
+ Retain 20 years after superseded or obsolete, destroy
+245 Home Visiting Client Records
+ Retain 20 years, destroy
+246 Home Visiting Clinical Work Group Records
+ Retain 20 years, destroy
+247 Home Visiting Steering Committee Meeting Records
+ Retain 5 years, destroy
+248 Triennial Review Records
+ Retain 20 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Databases
+BABIES FIRST
+OREGON CHILD HEALTH INFORMATION DATA SYSTEM (ORCHIDS)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Prevention and Health Promotion
+Section: Maternal and Child Health
+Program:  Oral Health
+
+Program Description
+Oregon’s Oral Health program works to develop and improve infrastructure to increase access to
+quality oral health information in Oregon by creating systems and leadership capacity to
+incorporate oral health into overall health prevention strategies; developing a state plan for oral
+health to serve as a “road map” of evidence-based strategies for stakeholders at the community,
+county, and state level; establishing statewide and regional oral health coalitions to advocate for
+those in greatest need and establishing the Oral Health Advisory Board to provide guidance,
+input, and feedback on policy issues related to oral health.
+
+The Oral Health program administers the School Fluoride program and the School Dental
+Sealant program. Other program services include Early Childhood Caries Prevention, with a
+focus on pregnant women and children ages three and under; and workforce development
+activities. In addition, the Oral Health program provides assistance to local health departments,
+Head Start programs, and other partners by promoting preventive health activities, providing oral
+health education, and gathering, interpreting, and disseminating information.
+
+Oral Health staffs and maintains the official copy of the records of the Oregon Oral Health
+Coalition (OrOHC), a broad-based 501(c)(3) non-profit corporation that formulates public
+policy; integrates oral health with general health in prevention, promotion and care delivery;
+shepherds the statewide oral health planning process; communicates oral health information; and
+supports local coalitions. OrOHC is the successor entity to the First Tooth project, which was
+funded with a three year grant from the federal Health Resources and Services Administration.
+
+Program Records
+249 Dental Sealant Annual School Reports
+ Retain 10 years, destroy
+250 Dental Sealant Client Records and School Reports
+ Retain 10 years, destroy
+251 First Tooth Advisory Board Meeting Records and Newsletters [ended 2012]
+ Retain 5 years, destroy
+252 First Tooth Provider Training Program Records
+ Retain 5 years, destroy
+253 Oregon Oral Health Coalition (OrOHC) and Committee Meeting Records, 2010-2012
+ Retain 5 years, destroy
+254 School Dental Sealant Permission and Check-up Forms
+ Retain 10 years, destroy
+255 School Fluoride Tablet Program Standing Orders
+ Retain 10 years, destroy
+
+256 School-Based Fluoride Program Annual Surveys and Statistical Reports
+ Retain 10 years, destroy
+257 Smile Survey Records and Reports
+ Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Publication Preparation Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+Invoice Records
+
+Databases
+SEALANT EFFICIENCY ASSESSMENT FOR LOCALS AND STATES (SEALS)
+
+Organizational Placement              Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Prevention and Health Promotion
+Section: Maternal and Child Health
+Program:  Oregon MothersCare (Perinatal Health)
+
+Program Description
+Oregon MothersCare (OMC) is a statewide project with sites in 26 counties, funded by the
+federal Title V Maternal and Child Health Block Grant to increase early access to prenatal care
+for pregnant women. The OMC program provides patient navigation services, facilitating
+pregnant women’s quick accessing to the Oregon Health Plan, prenatal care, and other necessary
+prenatal resources. OMC also supports the following activities: public awareness and education
+campaigns, toll-free hotline, local access sites to assist women in obtaining pregnancy services,
+and technical assistance to participating providers and community partners.
+
+Program Records
+258 Oregon MothersCare Access Site Manual
+ Retain 2 years after superseded or obsolete, destroy
+259 Oregon MothersCare Advisory Board Meeting Minutes
+ Retain 5 years, destroy
+260 Oregon MothersCare Program Client Tracking Records
+ Retain 3 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and agreements
+Correspondence
+
+Databases
+OREGON MOTHERSCARE WEB-BASED TRACKING INTERFACE (WTI)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Prevention and Health Promotion
+Program: Oregon Women, Infants and Children (WIC)
+
+Program Description
+The Oregon Women, Infants and Children (WIC) program is designed to improve health
+outcomes and influence lifetime nutrition and health behaviors in targeted, at-risk populations.
+WIC provides individual assessments of growth and health; breastfeeding education and support;
+and education and counseling on nutrition and physical activity, including promotion of a healthy
+lifestyle and prevention of chronic diseases including obesity. WIC provides monthly food
+instruments (vouchers) for specifically prescribed nutritious foods. It also provides information
+about and referral to other health programs.
+
+The program provides technical assistance and consultation to health care professionals and
+agencies; and interprets federal regulations and state nutrition standards and policies for local
+WIC agencies and vendors. It also authorizes vendor participation in the program (enabling their
+acceptance of WIC instruments); and trains and monitors vendors for standards compliance.
+
+The WIC program also coordinates the efforts of local agencies participating in the Oregon WIC
+Farmer’s Market Nutrition and Senior Farmer’s Market Nutrition programs, which provide
+vouchers to purchase Oregon-grown produce during the growing season. It provides information
+to WIC participants regarding preparation of foods and nutritional content. The program also
+provides staff support for the WIC Advisory Board. The program also produces informational
+and educational publications for vendors and participants, including the WICWise newsletter.
+
+Program Records
+261 Senior Farmer’s Market Records
+ Retain 3 years, destroy
+262 WICWise Newsletter
+ Retain 3 years, destroy
+263 Women, Infants and Children (WIC) Advisory Board and Work Group Meeting
+ Records
+ Retain 5 years, destroy
+264 Women, Infants and Children (WIC) Annual Reports
+ Retain 3 years, destroy
+265 Women, Infants and Children (WIC) Client Records
+ Retain 6 years after last service, destroy
+266 Women, Infants and Children (WIC) Compliance Investigation Records
+ Retain 2 years after final resolution, destroy
+267 Women, Infants and Children (WIC) Food List
+ Retain 3 years after superseded, destroy
+268 Women, Infants and Children (WIC) Local Agency Review Records
+ Retain 6 years, destroy
+
+269 Women, Infants and Children (WIC) Vendor Files
+ Retain 3 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Conference, Seminar, and Training Program Records
+Correspondence
+Publication Preparation Records
+Training Program Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+
+Databases
+THE WIC INFORMATION SYSTEM TRACKER (TWIST)
+
+Organizational Placement           Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:        Public Health Practice
+Section: Acute and Communicable Disease Prevention
+
+Program Description
+The Acute and Communicable Disease Prevention (ACDP) section’s mission is to prevent and
+control the spread of infectious diseases in Oregon. The section specifies communicable diseases
+that Oregon physicians, hospitals, laboratories and others must report to public health authorities.
+It works to improve the timeliness of reporting through electronic means. It advises local health
+departments on outbreak investigations and on disease identification, reporting, and prevention.
+
+ACDP collects and analyzes reportable communicable disease data, and makes information
+available to local health departments, providers, policy makers and the public. It tracks
+communicable diseases, investigates disease outbreaks, and warns the public about
+communicable disease threats to health. ACDP conducts surveys to assess risk factors for
+infection and to inform the interpretation of disease data. It conducts special studies, including
+public health research, into the incidence, burden, causes and prevention of communicable
+diseases. It occasionally publishes articles and informational materials for health professionals
+and the public. The section provides information to local public health agencies, health-care
+personnel, and the news media about agents of bioterrorism, and helps develop preparedness and
+response strategies for bioterrorism. The section also develops and implements systems to collect
+health information necessary for public health response to disasters. ACDP approves methods for
+the disposal of potentially infectious waste.
+
+ACDP coordinates and maintains the official copy of the records of the Oregon Alliance
+Working for Antibiotic Resistance Education (AWARE) – a statewide coalition that promotes
+the appropriate use of antibiotics in order to reduce the problem of antibiotic-resistant bacteria.
+
+Working with local health departments, physicians, diagnostic laboratories and hospitals and the
+Centers for Disease Control and Prevention (CDC)'s Public Health Information Network (PHIN),
+ACDP works to detect, track and solve outbreaks of communicable diseases in Oregon. Because
+outbreaks can cross state borders, ACDP collaborates with other state health departments and
+CDC to solve them. It speeds disease detection and investigation, serving as an electronic hub to
+process and distribute electronic HL7 messages regarding diseases of public health importance.
+
+Using the CDC’s National Electronic Disease Surveillance System (NEDSS), ACDP’s NEDSS
+program developed the Oregon Public Health Epidemiologist User System (Orpheus) to manage
+and enhance public health surveillance through electronic data exchange. Orpheus is a secure,
+integrated disease surveillance system that includes electronic laboratory reporting and
+surveillance of HIV/STD/TB and communicable diseases. Orpheus is intended to integrate and
+streamline disease reporting and investigation, and to facilitate more secure, accurate and timely
+reporting of disease information to CDC. The ACDP NEDSS program maintains Orpheus and is
+responsible for the retention of its records and information.
+
+ACDP’s Preparedness Surveillance and Epidemiology Team (PSET) leads the State of Oregon’s
+participation in CDC’s Emerging Infections Program (EIP), a network of ten state health
+departments and their collaborators that explores communicable diseases of current public health
+concern and newly emerging infections. EIP data help to estimate the extent of the problems, and
+provide a starting point for studying risk factors and developing better strategies for prevention
+and control. PSET also develops systems to measure the health consequences of emergencies
+like epidemics and natural disasters, so that health resources can be allocated wisely.
+
+ACDP’s Emerging Infections Program conducts active, population-based laboratory surveillance
+regarding invasive bacterial diseases; the incidence of food-borne diseases; HAI prevalence and
+methods to improve its surveillance; and laboratory-confirmed influenza-related hospitalizations.
+
+ACDP’s Healthcare Associated Infections (HAI) program investigates, validates and reports on
+selected infections and associated medical procedures; multi-hospital collaborative efforts to
+prevent HAIs; and surveillance for and response to multi-drug-resistant disease-causing
+organisms.
+
+Program Records
+270 Acute and Communicable Disease Prevention On-Call Log
+ Retain 10 years, destroy
+271 Animal Bite and Rabies Response Guidelines and Algorithms
+ Retain 5 years after superseded or obsolete, destroy
+272 Communicable Disease Survey Records
+ Retain 5 years, destroy
+273 Grant Summary Reports
+ Retain 25 years after acceptance of final report, destroy
+274 Healthcare Associated Infections (HAI) Surveillance Reports
+ Retain 25 years, destroy
+275 Healthcare Associated Infections (HAI) Validation Reports
+ Retain 25 years, destroy
+276 Infectious Waste Technology Permit Records
+ Retain 25 years after superseded or obsolete, destroy
+277 Influenza Surveillance Weekly Reports (FluBites)
+ Retain 25 years, destroy
+278 Institutional Review Board Approved Research Subject Data
+ Retain 5 years after study closed, destroy
+279 Natural Pandemic and Bioterrorism Preparedness and Response Guidelines
+ Retain 10 years after superseded or obsolete, destroy
+280 Oregon Alliance Working for Antibiotic Resistance Education (AWARE) Educational
+ Literature, FAQs, Treatment Guides, and Treatment Algorithms
+ Retain 5 years after superseded or obsolete, destroy
+281 Oregon Disease Investigation Protocols, Guidelines, and Evaluation Tools
+ Retain 25 years after superseded or obsolete, destroy
+282 Orpheus Stakeholder Meeting Records
+ Retain 5 years, destroy
+283 Outbreak Investigation Reports
+ Retain 99 years, destroy
+
+284 Reportable Communicable Disease Annual Surveillance Reports (Formerly Annual
+ Communicable Disease Surveillance Summary Reports), 1997 – [ongoing], 1 c.f.
+ Retain 1 copy permanently, transfer to State Archives after 20 years
+285 Reportable Communicable Disease Case Reports
+ Retain 99 years, destroy
+286 Special Surveillance and Special Studies Reports
+ Retain 25 years, destroys
+287 Specimen Collection and Submission Instructions
+ Retain 5 years after superseded or obsolete, destroy
+288 Unexplained Death and Critical Illness Case Records [ended 2009]
+ Retain 5 years, destroy
+289 Weekly and Monthly Surveillance Reports
+ Retain 10 years, destroy
+290 Zoonotic, Diseases of Veterinary Importance, and Veterinary Laboratory Reports
+ Retain 25 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Litigation Records
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Press Releases
+Publication Preparation Records
+Financial Records (OAR 166-300-025)
+Grant Records
+Payroll Records (OAR 166-300-035)
+Employee Payroll Records
+Employee Time Records
+Personnel Records (OAR 166-300-0040)
+Employee Medical Records
+Employee Personnel Records
+Recruitment and Selection Records
+
+Databases
+ACTIVE BACTERIAL CORE SURVEILLANCE (ABCS)
+EMERGENCY DEPARTMENT SYNDROMIC SURVEILLANCE DATABASE (ESSENCE)
+OREGON PUBLIC HEALTH EPIDEMIOLOGISTS’ USER SYSTEM (ORPHEUS)
+OUTBREAKS
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Public Health Practice
+Section: Health Security, Preparedness and Response
+
+Program Description
+The Health Security, Preparedness and Response (HSPR) section’s purpose is to improve state
+and local preparedness for response to bioterrorism, outbreaks of infectious disease, and other
+public health threats and emergencies. Its responsibilities include overall coordination of the
+Public Health Emergency Preparedness (PHEP) cooperative agreement with the federal Centers
+for Disease Control and Prevention (CDC). It also coordinates the National Bioterrorism
+Hospital Preparedness Program (HPP) cooperative agreement with the federal Office of the
+Assistant Secretary for Preparedness and Response (ASPR).
+
+HSPR works with the Conference of Local Health Officials, seven Regional Health Preparedness
+Coalitions, and other state and local groups to integrate health preparedness policy, planning, and
+activities. The program coordinates among local health departments and state agencies to
+facilitate local plans that can be supported and supplemented by state or federal resources during
+emergencies. Health preparedness plans become part of the Oregon State Emergency
+Management Plan that is prepared and implemented by the state Office of Emergency
+Management. The program also prepares reports about public health preparedness activities and
+issues.
+
+Program Records
+291 After Action Reports
+ Retain 10 years, destroy
+292 Conference of Local Health Officials Preparedness Subcommittee Meeting Records
+ Retain 10 years, destroy
+293 County Health Preparedness Advisory Committee Records, 2003 – 2010
+ Retain 6 years, destroy
+294 Health Preparedness Advisory Committee Meeting Records and Final Reports [ended
+ 2010]
+ Retain 10 years, destroy
+295 Health Preparedness Implementation Committee (and Subcommittee) Meeting
+ Records and Final Reports [ended 2010]
+ Retain 10 years, destroy
+296 Health Security, Preparedness and Response Newsletter [ended 2011]
+ Retain 5 years, destroy
+297 Health Security, Preparedness and Response Regional Coalition Records
+ Retain 5 years, destroy
+298 Medical Reserve Corps. Newsletters
+ Retain 5 years, destroy
+299 Public Health Preparedness Plans, 2000 – [ongoing], 6 c.f.
+ Retain permanently, transfer to State Archives after 20 years
+
+300 Public Health Preparedness Reports
+ Retain 10 years, destroy
+301 Ready to Respond Newsletter (Quarterly)
+ Retain 20 years, destroy
+302  SERV-OR Newsletter
+ Retain 5 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Correspondence
+Financial Records (OAR 166-300-025)
+Grant Records
+Risk Management Records (OAR 166-300-0045)
+Emergency Response Plans and Procedures
+
+Databases
+HEALTH ALERT NETWORK (HAN)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Public Health Practice
+Section: Center for Health Statistics
+
+Program Description
+The Center for Health Statistics is Oregon’s vital records office. It is under the direction of the
+State Registrar, who is appointed by the Director of the Oregon Health Authority. State law
+requires that all vital events be recorded with, and maintained by, the office, which is also
+responsible for certifying, amending, and issuing vital event records. Vital records are legal
+records of birth, death, fetal death, declaration of Oregon registered domestic partnership,
+dissolution of Oregon registered domestic partnership, divorce, and marriage.
+
+The Amendments unit is responsible for making changes to vital records for events that occurred
+in Oregon. The Certification unit is responsible for issuing certified legal copies of vital records
+for events that occurred in the state, including births, deaths, marriages, divorces, registered
+domestic partnerships, and dissolution of registered domestic partnerships. The Statistics unit
+provides data on births, deaths, declarations of Oregon registered domestic partnership,
+dissolutions of declarations of Oregon registered domestic partnerships, divorces, fetal deaths,
+marriage, teen pregnancy, and induced terminations of pregnancy occurring for Oregon
+residents. The Registration unit is responsible for ensuring that all vital events occurring in
+Oregon are completed, filed and incorporated into official records.
+
+The Center for Health Statistics publishes the Vital Statistics Annual Report, and the County
+Data Book. The Annual Report is issued in two volumes: Volume 1 presents data on births,
+abortions, and teen pregnancy; Volume 2 presents data on deaths (all ages), perinatal deaths; and
+the County Data Book is an annual compilation of vital statistics data by county, including
+births, induced terminations of pregnancy, teen pregnancy, and deaths by county of residence.
+
+The Center for Health Statistics also publishes an annual report regarding the administration of
+the Oregon Death with Dignity Act, which authorizes the voluntary self-administration of
+physician-prescribed medications to end the life of terminally-ill Oregonians.
+
+Program Records
+303 Birth Records, 1903 – [ongoing], 300 c.f.
+ (a) Retain Birth Certificates, Birth Certificate Indexes, Court Ordered Birth Registrations,
+  Delayed Birth Certificate Filings, and Relocated Birth Records permanently, transfer
+  State Archives 100 years after date of birth
+ (b) Retain Un-Relocated Birth Project Records permanently, move to matching sealed
+       files, transfer to State Archives when permanent access restriction is legally changed
+       for pre-adoption birth records and sealed files have been microfilmed or imaged
+ (c) Retain Oregon Sealed Birth Records and Sealed File Indexes permanently, transfer to
+       State Archives when access restriction is legally changed and sealed files have been
+     microfilmed or imaged
+ (d) Retain Confidential Medical/Statistical portion of Birth Certificates until microfilmed,
+   cut off paper portion, destroy [ended 2007]
+ (e) Retain Out-of-State Birth Certificates 2 years, destroy
+304 Death Records, 1903 – [ongoing], 300 c.f.
+ (a) Retain Death Certificates and Relocated Death Records permanently, transfer to State
+  Archives after 50 years
+ (b) Retain Death Certificate Indexes permanently, transfer microfilm to State Archives
+             after completion
+ (c) Retain Permits to Dis-Inter, Transport, and Re-Inter Remains and Permits Log 50
+   years, destroy
+ (d) Retain Monthly Reports of Death: 1-15 Years of Age, 10 years, destroy [ended 2005]
+ (e) Retain Out-of-State Death Certificates of Oregon Residents 2 years, destroy
+ (f) Retain Monthly Reports of Death and Monthly Reports of Non-Institutional and Death
+  until corresponding certificates checked, destroy
+305 Death with Dignity Records, 1997 – [ongoing], 1 c.f.
+ (a) Retain Annual Reports permanently, transfer to State Archives after 50 years
+ (b) Retain Applications and all hard copy records until entered and verified, destroy
+306 Declaration of Oregon Registered Domestic Partnership Records, 2008 – [ongoing],
+ 1 c.f.
+ (a) Retain Declaration of Oregon Registered Domestic Partnership Records permanently,
+   transfer to State Archives after 50 years
+ (b) Retain Declaration of Oregon Registered Domestic Partnership Certificate Indexes
+   permanently, transfer microfilm to State Archives after completion
+ (c) Retain Confidential Statistical portion of Declaration of Oregon Registered Domestic
+   Partnership records until microfilmed, cut off paper portion, destroy
+307 Dissolution of Declaration of Registered Domestic Partnership Records, 2008
+ [ongoing], 1 c.f.
+ (a) Retain Dissolution of Declaration of Oregon Registered Domestic Partnership Records
+    permanently, transfer to State Archives after 50 years
+ (b) Retain Dissolution of Declaration of Oregon Registered Domestic Partnership
+     Certificate Indexes permanently, transfer to State Archives after completion
+ (c) Retain Confidential Statistical portion of Dissolution of Declaration of Oregon
+      Registered Domestic Partnership Certificates until microfilmed, cut off paper portion,
+              destroy
+
+308 Divorce Records, 1925 – [ongoing], 50 c.f.
+ (a) Retain Divorce Certificates and Relocated Divorce Records permanently, transfer to
+       State Archives after 50 years
+ (b) Retain Divorce Certificate Indexes permanently, transfer microfilm to State Archives
+        after completion
+ (c) Retain Confidential Statistical portion of Divorce Certificates until microfilmed, cut
+   off paper portion, destroy
+309 Fetal Death Records, 1903 – [ongoing], 10 c.f.
+ (a) Retain Reports of Fetal Death permanently, transfer to State Archives after 50 years
+ (b) Retain Confidential Medical/Statistical portion of paper Report of Fetal Death until
+   microfilmed, cut off Medical/Statistical portion, destroy
+ (c) Retain Out-of-State Reports of Fetal Death 2 years, destroy
+310 Induced Termination of Pregnancy Records
+ (a) Retain Oregon Induced Termination of Pregnancy Reports and Out of State Induced
+   Termination of Pregnancy Reports 2 years, destroy
+311 Marriage Records, 1906 – [ongoing], 50 c.f.
+ (a) Retain Application, License, and Record of Marriage and Relocated Marriage records
+   permanently, transfer to State Archives after 50 years
+ (b) Retain Application, License, and Record of Marriage Indexes permanently, transfer
+   microfilm to State Archives after completion
+ (c) Retain Confidential Statistical portion of Marriage Certificates until microfilmed, cut
+   off paper portion, destroy
+312 Matters of Record Newsletter
+ Retain 10 years, destroy
+313 Oregon Vital Statistics County Data Book, 1947 – [ongoing], 2 c.f.
+ Retain permanently, transfer to State Archives after 50 years
+314 Vital Records Processing, Amendment, and Transaction Records
+ 1908 – [ongoing], 10 c.f.
+ (a) Retain state and county Vital Records Correction Affidavits and Supplemental Reports
+       permanently, transfer death/marriage/divorce records to State Archives after 50 years,
+               transfer birth records to State Archives after 100 years
+ (b) Retain monthly amendment logs related to adoptions, foreign-born adoptions, court
+        ordered name changes, & sex changes 10 years after last entry, destroy [ended 2012]
+ (c) Retain Mainframe Amendment Monthly Birth Transaction Registry (summary count of
+               transactions), 10 years, destroy [ended 2012]
+ (d) Retain Mainframe Amendment Monthly Transaction Reports for Corrections,
+               Paternities, Legitimations, Filiations, and Oregon Deaths Matched to Births 5 years,
+               destroy
+ (e) Retain Vital Statistics Order Information Records 75 years, destroy
+
+315 Vital Records Statistical Listings and Tabulations without Personal Identifiers
+ 1947 – [ongoing], .5 c.f.
+ (a) Retain special published reports permanently, transfer to State Archives after 10 years
+   or after microfilmed
+(b) Retain annual induced termination of pregnancy, birth, death, divorce, and marriage
+   tabulations at state or county level permanently, transfer to State Archives after 10
+   years [ended 2010]
+ (c) Retain annual abortion, birth, death, divorce, and marriage tabulations by small
+             geographic area (sub county level) and cause of death line listings and tabulations 75
+             years, destroy
+316  Vital Statistics Annual Reports (2 Volumes), 1993 – [ongoing], 2 c.f.
+ Retain permanently, transfer to State Archives after 50 years
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Contracts and Agreements (e.g. Data Use Agreements)
+Correspondence
+Financial Records (OAR 166-300-025)
+Grant Records
+Payroll Records (OAR 166-300-0035)
+Employee Payroll Records
+Employee Time Records
+Personnel Records (OAR 166-300-0040)
+Employee Personnel Records
+Recruitment and Selection Records
+
+Databases
+BIRTH CERTIFICATE STATISTICAL FILE
+DEATH CERTIFICATE STATISTICAL FILE
+DEATH WITH DIGNITY
+DECLARATION OF OREGON REGISTERED DOMESTIC PARTNERSHIP
+DISSOLUTION OF OREGON DECLARATION OF REGISTERED DOMESTIC PARTNERSHIP
+DIVORCE CERTIFICATE INDEX FILE
+DIVORCE STATISTICAL FILE
+FETAL DEATH STATISTICAL FILE
+INDUCED TERMINATION OF PREGNANCY
+MARRIAGE INDEX FILE
+MARRIAGE STATISTICAL FILE
+MATCHED BIRTH-INFANT DEATH STATISTICAL FILE
+OREGON VITAL EVENTS REGISTRATION SYSTEM (OVERS)
+RELOCATE INDEX FILE
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Public Health Practice
+Section: HIV, STD and TB Prevention
+Program:  HIV Care and Treatment
+
+Program Description
+The HIV Care and Treatment program promotes access to treatment for people with HIV/AIDS
+(Human Immunodeficiency Virus infection / Acquired Immunodeficiency Syndrome) in Oregon.
+The program provides HIV-related services for people without sufficient health care coverage or
+financial resources for coping with HIV disease. Program services fill gaps in care not met by
+other payers, and helps Oregonians living with HIV/AIDS to access and adhere to medical care
+and treatments, improving their health outcomes and reducing the risk of HIV transmission to
+others. Program services are authorized and federally funded under the Ryan White HIV/AIDS
+Treatment Extension Act of 2009, which is administered by the U.S. Department of Health and
+Human Services, Health Resources and Services Administration, HIV/AIDS Bureau.
+
+The HIV Care and Treatment program administers the CAREAssist program (also known as the
+AIDS Drug Assistance program), which helps Oregon residents living with HIV or AIDS pay for
+medical care expenses by paying insurance premiums and prescription/medical services co-pays.
+
+HIV Care and Treatment also administers the HIV Community Services Program, which
+contracts with local/county health programs and community based organizations to provide case
+management and support services. HIV Community Services also administers the Oregon
+Housing Opportunities in Partnership program (OHOP), which is funded by various grants from
+the federal Department of Housing and Urban Development (HUD). OHOP helps clients achieve
+and maintain housing stability, avoid homelessness, and improve access to and engagement in
+HIV care and treatment.
+
+Program Records
+317 CareAssist Advisory Group Meeting Records
+ Retain 5 years, destroy
+318 HIV Care and Treatment Program Site Visit Reports
+ Retain 6 years, destroy
+319 HIV Client Service Case Files
+ Retain 20 years after declared inactive by program manager, destroy
+320 Oregon Housing Opportunities in Partnership Housing Application Records
+ Retain 8 years after termination, destroy
+321 Oregon Housing Opportunities in Partnership Housing Reports
+ Retain 8 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Financial Records (OAR 166-300-025)
+Accounts Receivable Reports Records
+Grant Records
+
+Databases
+COMPREHENSIVE AIDS RESOURCE EMERGENCY ASSIST (CAREASSIST)
+COMPREHENSIVE AIDS RESOURCE EMERGENCY WARE (CAREWARE)
+HIV CARE AND TREATMENT (HIVCAT)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Public Health Practice
+Section: HIV, STD and TB Prevention
+Program:  HIV Data and Analysis
+
+Program Description
+The HIV Data and Analysis program helps Oregonians reduce or eliminate their risk of
+contracting HIV, the virus that causes AIDS. The program maintains a surveillance system and
+conducts special studies to gather and evaluate information about HIV and AIDS in Oregon. The
+program collects Oregon-specific HIV/AIDS surveillance data from multiple sources, analyzes it
+to create a comprehensive epidemiologic profile, and distributes information to public and
+private agencies involved in public health policy development and implementation. Surveillance
+consists of case reports, laboratory reports, and special reports and studies. Aggregated data
+(without personally identifiable information) is used to promote care and support for those living
+with the HIV infection. The program provides technical support to local county health
+departments in their conduct of education, outreach, HIV counseling, testing, and early medical
+intervention. The HIV Data and Analysis program monitors data regarding HIV diagnoses and
+health outcomes. Data reports are used to identify needs and target services by population and
+geographic area.
+
+Program Records
+322 HIV/AIDS Case Surveillance Records
+ Retain 50 years after death of patient, destroy
+323 HIV/AIDS Factsheets
+ Retain until superseded or obsolete, destroy
+324 HIV/AIDS Surveillance Reports and Studies, and HIV/AIDS Annual Reports, 1984 -
+ [ongoing], 1 c.f.
+ Retain permanently, transfer to State Archives after 30 years
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Correspondence
+Publication Preparation Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+
+Databases
+ENHANCED HIV/AIDS REPORTING SYSTEM (E-HARS)
+HIV MEDICAL MONITORING PROJECT (MMP)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Public Health Practice
+Section: HIV, STD and TB Prevention
+Program:  HIV Prevention
+
+Program Description
+The HIV Prevention program helps Oregonians reduce or eliminate their risks for contracting or
+transmitting Human Immunodeficiency (HIV). The program provides financial support and
+technical assistance to local public health agencies and community-based organizations
+delivering HIV prevention services to at-risk populations. Program activities are prioritized
+based on the HIV epidemiological data profile for Oregon. The program also conducts activities
+to educate the general public about HIV and HIV prevention.
+
+The HIV Prevention program provides direction and training to local public health providers and
+their subcontractors for High Impact HIV Prevention in alignment with the National HIV/AIDS
+Strategy, and Centers for Disease Control and Prevention (CDC) data collection requirements.
+
+In collaboration with the Public Health Division’s HIV Care and Treatment and Sexually
+Transmitted Infection programs, HIV Prevention coordinates the Integrated Planning Group
+(IPG) to advise the HIV, STD and TB Prevention Section on the development and update of a
+comprehensive plan, ensuring that all Oregonians have access to a full continuum of services.
+The mission of the IPG is to regularly identify strengths, needs, gaps and service priorities.
+
+Program Records
+325 HIV/AIDS Prevention Annual Reports
+ Retain 25 years, destroy
+326 HIV/AIDS Prevention Factsheets
+ Retain until superseded or obsolete, destroy
+327 HIV/AIDS Prevention Strategic Plans
+ Retain 7 years after superseded or obsolete, destroy
+328 Integrated Planning Group (IPG) and IPG Committee Meeting Records
+ Retain 7 years, destroy
+329 Integrated Planning Group Letters of Concurrence
+ Retain 7 years, destroy
+330 Integrated Planning Group Oregon HIV Prevention Comprehensive Plans
+ Retain 10 years after superseded or obsolete, destroy
+331 Integrated Planning Group Oregon Jurisdictional Plan
+ Retain 10 years after superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Conference, Seminar, and Training Program Records
+Financial Records (OAR 166-300-025)
+Grant Records
+Information and Records Management Records (OAR 166-300-0030)
+Leave Applications
+
+Databases
+SOCIAL NETWORKS HIV ELECTRONIC RECORD DATABASE (SHIVER)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Public Health Practice
+Section: HIV, STD and TB Prevention
+Program:  Sexually Transmitted Infection
+
+Program Description
+The Sexually Transmitted Infection (STI), formerly Sexually Transmitted Disease (STD),
+program works to prevent and control sexually transmitted infections through education,
+prevention and treatment. The program assists county health departments, health care providers,
+schools, hospitals, and other agencies with a variety of services, including screening and
+treatment, case finding, follow up, provider case consultation, and educational presentations.
+
+The STI program collects and evaluates data to ensure that resources are targeted effectively. It
+screens adolescent and young women for chlamydia and gonorrhea infection and treatment. It
+interviews people with chlamydial, gonococcal, early syphilis, HIV, and other sexually
+transmitted infections; and arranges for their sex partners to be evaluated and treated to decrease
+the transmission of STIs. In addition, the program provides education and outreach to
+communities and individuals at greater risk, particularly adolescents, and publishes narrative
+statistical reports.
+
+The STI program’s sexually transmitted infection and disease work decreases and prevents
+infertility, tubal pregnancies, chronic pelvic pain associated with pelvic inflammatory disease,
+congenital morbidity, congenital syphilis, and conditions related to hepatitis B and HIV.
+
+Program Records
+332 Central Registry for Syphilis Reactors
+ Retain 25 years after most recent diagnosis or notification of patient’s death, destroy
+333 Drug Receipt and Distribution Records
+ Retain 3 years, destroy
+334 Sexually Transmitted Disease and Infection Surveillance Reports
+ Retain 10 years, destroy
+335 Sexually Transmitted Infection Case Reports, Interview Records, and Progress Notes
+ (a) Retain syphilis records 10 years, destroy
+ (b) Retain chlamydia, chancroid, gonorrhea, and pelvic inflammatory disease records 5
+       years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Publication Preparation Records
+Financial Records (OAR 166-300-0025)
+Grant Records (including Grant Progress Reports)
+
+Databases
+ORPHEUS
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Public Health Practice
+Section: HIV, STD and TB Prevention
+Program:  Tuberculosis
+
+Program Description
+The Tuberculosis (TB) program exists to identify TB trends, perform strategic planning, and
+develop policy to eliminate the disease. The program provides funding, training, consultation,
+and technical assistance to local health departments. Program staff and funds are also used to
+purchase TB medication, chest x-rays, offer incentives for directly observed therapy, and to
+support the Oregon State Public Health Laboratory for processing TB specimens.
+
+The TB program provides training and consultation to medical providers, and medical and
+nursing schools. It conducts clinical, epidemiological, behavioral, and operational evaluations to
+enhance TB prevention and control efforts, provides assistance with TB outbreak investigations,
+and conducts quality assurance activities to evaluate program effectiveness. The program also
+collects, maintains analyzes, and reports information about TB in Oregon through publications,
+including the program’s annual reports.
+
+Program Records
+336 Aliens with a Tuberculosis Class Condition Follow-up Records
+ Retain 2 years, destroy
+337 Latent Tuberculosis Infection Treatment Records
+ (a) Retain reporting forms 2 years after entered and verified, destroy
+ (b) Retain all other records 50 years, destroy
+338 Oregon Coalition to Eliminate Tuberculosis Advisory Committee Records [ended
+ 2005]
+ Retain 10 years, destroy
+339 Tuberculosis Contact Records
+ Retain 50 years after entered and verified, destroy
+340 Tuberculosis Patient Case Files
+ Retain 50 years, destroy
+341 Tuberculosis Program Annual Reports, 2000 – [ongoing], .5 c.f.
+ Retain permanently, transfer to State Archives after 20 years
+342 Unverified Tuberculosis Laboratory Test Records
+ Retain 1 year, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Publication Preparation Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+
+Databases
+BWAIVER
+CONTACTS
+LATENT TUBERCULOSIS INFECTION (LTBI)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Public Health Practice
+Program:  Immunization
+
+Program Description
+The Immunization program develops, implements, and evaluates public and private efforts to
+provide immunizations to Oregonians throughout their lives. The program works to prevent
+vaccine-preventable diseases, supporting the Public Health Division’s primary mission to
+protect, preserve, and promote the health of the citizens of Oregon.
+
+The Immunization program annually purchases vaccines and distributes them to public and
+private partners. Other program areas include outbreak surveillance; school immunization law;
+clinical training and support; Strategic National Stockpile coordination; and management of the
+ALERT Immunization Information System (IIS). ALERT is a statewide immunization registry
+that provides Oregonians with lifelong immunization information, collecting data from public
+and private health care providers. The Immunization program supports and maintains the records
+of the ALERT IIS Advisory Committee, which provides policy advice on registry operations.
+
+The Immunization program administers the Vaccines for Children Program (VFC) for the State
+of Oregon. VFC is a federally funded (Centers for Disease Control and Prevention) program that
+provides vaccines at no cost to children who might not otherwise receive them due to an inability
+to pay; VFC provides vaccines to enrolled public and private medical practices, who then offer
+them at no charge to qualified patients (birth through age 18). The Immunization program trains
+providers on using VFC; and applying AFIX (Assessment, Feedback, Incentives, eXchange), a
+quality improvement strategy used to raise immunization coverage and improve standards.
+
+The Immunization program works with private and public health care providers, professional
+organizations, community groups, civic and service clubs, government agencies, business and
+industry, faith-based organizations, schools and child care providers, and other stakeholders. The
+program supports and maintains the official copy of the records of the Immunization Policy
+Advisory Team (IPAT); Immunization School/Facility Law Advisory Committee; Oregon Adult
+Immunization Coalition (OAIC); and the Oregon Partnership to Immunize Children (OPIC).
+OAIC and OPIC merged to form Immunize Oregon.
+
+The Immunization program certifies physicians and approves clinics as Uniform Stamp and
+Yellow Fever Centers; the former authorizes providers to sign travelers’ International Certificate
+of Vaccination or Prophylax, which records/certifies the vaccination record; the Yellow
+Fever Center Certification authorizes providers to purchase/administer the yellow fever vaccine.
+
+The program also conducts annual surveys to determine children’s immunization status and to
+validate the accuracy of school and facility reporting; provides technical assistance about vaccine
+and immunization programs to public and private providers; and facilitates reporting of adverse
+reactions to vaccinations to the national Vaccine Adverse Event Reporting System (VAERS).
+
+Program Records
+343 Adult Immunization Special Project Records, 2012-2013
+ Retain 5 years after publication of final project report, destroy
+344 ALERT Immunization Information System Advisory Committee Meeting Records
+ Retain 10 years, destroy
+345 ALERT Immunization Information System Registry Records
+ (a) Retain immunization records (as defined in ORS 433.090) for life of the client, or
+   until receipt of purge request from adult client (pursuant to ORS 433.098), destroy
+(b) Retain tracking and recall records (as defined in ORS 433.090) 3 years after
+   superseded or obsolete, destroy
+346 Childhood Vaccine Preventable Disease Investigation Reports
+ Retain 3 years after investigation completed, destroy
+347 County Immunization Status Reports
+ Retain 10 years, destroy
+348 Immunization Policy Advisory Team (IPAT) Meeting Records
+ Retain 10 years, destroy
+349 Immunization School/Facility Law Advisory Committee Meeting Records
+ Retain 10 years, destroy
+350 Immunize Oregon Meeting Records
+ Retain 10 years, destroy
+351 Monthly Vaccine Inventory Reports
+ Retain current and previous biennium, destroy
+352  Oregon Adult Immunization Coalition (OAIC) Meeting Records [ended 2014]
+ Retain 10 years, destroy
+353 Oregon ImmiNews Newsletters
+ Retain 3 years, destroy
+354 Oregon Partnership to Immunize Children (OPIC) Meeting Records [ended 2014]
+ Retain 10 years, destroy
+355 Oregon Vaccination Model Standing Orders
+ Retain 10 years after superseded, destroy
+356 School and Children’s Facility Immunization Compliance Records
+ Retain 3 years, destroy
+357 School and Facility Immunization Validation Surveys
+ Retain 3 years, destroy
+358 Uniform Stamp and Yellow Fever Center Records
+ Retain 10 years after status as center terminated, destroy
+359 Vaccination Adverse Events Case Files
+ Retain 10 years, destroy
+360 Vaccination Annual Rates Reports
+ Retain 10 years, destroy
+361 Vaccine Request and Shipping Records
+ Retain 6 years, destroy
+362 Vaccine User Accountability Reporting Tables
+ Retain 6 years after superseded or obsolete, destroy
+363 Vaccines for Children Program (VFC) Non-Viable Vaccine Return Records
+ Retain 2 years, destroy
+
+364 Vaccines for Children Program (VFC) Provider Administration, Screening, and
+ Corrective Action Records
+ Retain 5 years, destroy
+365 Vaccines for Children Program (VFC) Provider Profile, Agreements and Addendum
+ Records
+ Retain 3 years after superseded or obsolete, destroy
+366 Vaccines for Children Program (VFC) Vaccine Order Forms
+ Retain 6 years after superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Conference Seminar and Training Records
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Publication Preparation Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+Invoice Records
+Legislatively Adopted Budget Records
+Purchasing Records
+Payroll Records (OAR 166-300-0035)
+Employee Payroll Records
+Employee Time Records
+Personnel Records (OAR 166-300-0040)
+Employee Personnel Records
+Recruitment and Selection Records
+
+Databases
+ALERT – IMMUNIZATION INFORMATION SYSTEM (ALERT-IIS)
+POST PROVIDER DATABASE
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Public Health Practice
+Section: Laboratory Compliance
+
+Program Description
+The Laboratory Compliance Section (LCS) enforces state and federal regulations applicable to
+clinical, substance of abuse, and health screen testing laboratories.
+
+LCS administers the Clinical Laboratory Improvement Amendments (CLIA) in Oregon, pursuant
+to a contract with the federal Centers for Medicare and Medicaid Services (CMS). CLIA
+establishes quality standards for all facilities that perform laboratory testing on specimens
+derived from humans for the diagnosis, prevention, treatment of disease, or assessment of health;
+it ensures the accuracy, reliability and timeliness of patient test results. LCS regulates and
+certifies laboratory testing of human specimens within the state unless performed in a federal
+government laboratory, pure research, or home testing by a patient.
+
+LCS oversees the Oregon Environmental Laboratory Accreditation Program (ORELAP), which
+regulates and accredits laboratories that analyze environmental samples under the federal Clean
+Air Act, Clean Water Act, Resource Conservation and Recovery Act, and Safe Drinking Water
+Act. ORELAP requires that environmental testing laboratories meet the standards adopted by the
+National Environmental Laboratory Accreditation Conference (NELAC) Institute. The Drinking
+Water Laboratory Certification Program (DWLCP), which accredits laboratories to perform tests
+of public drinking water pursuant to federal Environmental Protection Agency standards, has
+been phased out by LCS, and replaced by ORELAP.
+
+Program Records
+367 Clinical Laboratory Improvement Amendments Accreditation (CLIA) Records
+ Retain 10 years, destroy
+368 Clinical Laboratory License and Renewal Records
+ Retain 10 years after license expired, destroy
+369 Clinical Laboratory Survey Reports
+ Retain 10 years after survey, destroy
+370 Drinking Water Laboratory Certification Records
+ Retain 10 years after certification, destroy
+371   Environmental Laboratory Accreditation Records
+ Retain 10 years after accreditation, destroy
+372 External Proficiency Testing Provider Records
+ Retain 2 years, destroy
+373 External Proficiency Testing Records for ORELAP Providers
+ Retain 5 years, destroy
+374 Health Screen Testing Permit Records
+ Retain 10 years, destroy
+
+375 Laboratory Survey Records
+ Retain 10 years, destroy
+376 ORELAP Technical Advisory Committee (OTAC) Meeting Records
+ Retain 5 years, destroy
+378 Substance of Abuse Laboratory Registration and Certification Records
+ Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Conference, Seminar, and Training Program Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+
+Databases
+ACCREDITATION BODY MANAGER (AB MANAGER)
+LABORATORY QUALITY ASSURANCE (LQA)
+ONLINE DATA INPUT AND EDIT (ODIE)
+
+Organizational Placement Schedule Number: 2012-0011
+Agency:  Oregon Health Authority
+Division:  Public Health
+Center:  Public Health Practice
+Section: Oregon State Public Health Laboratory
+
+Program Description
+The Oregon State Public Health Laboratory (OSPHL) has been actively protecting the public’s
+health since 1903 by supporting state and local infectious disease control efforts and preventing
+metabolic disorders detectable at birth. The OSPHL supports the vision of the Oregon Health
+Authority by providing essential screening, diagnostic and reference testing in microbiology,
+virology and immunology to support epidemiology surveillance and outbreak investigation
+activities.
+
+The Northwest Regional Newborn Screening Program provides population-wide laboratory
+testing of newborns for endocrine, hemoglobin, cystic fibrosis, immunodeficiency, and metabolic
+conditions to identify babies who need immediate medical intervention. These screening tests
+can prevent developmental problems, mental retardation and death. This program also provides
+newborn screening follow-up services and coordinates consultative services.
+
+The Oregon Laboratory Response Network (LRN) is a statewide network of clinical, food testing
+veterinary diagnostic and environmental laboratories (referred to as sentinel labs) established to
+enable a coordinated and immediate response to biological and chemical threats. These entities
+may first recognize illnesses or outbreaks resulting from a bioterrorism or chemical terrorism
+event. The Oregon LRN assists sentinel laboratories by providing training and support in
+specimen collection, storage and shipment, evidence-control measures and recognition of
+chemical and biological terrorism agents.
+
+Program Records
+379 Communicable Disease Testing Records
+ Retain 6 years, destroy
+388 Laboratory Accreditation and Quality Management Records
+ Retain 6 years, destroy
+381 Laboratory Equipment Service and Repair Records
+ Retain 2 years after life of equipment, destroy
+383 Method and Instrument Evaluations
+ Retain 6 years after life of method or instrument, destroy
+386 Newborn Case Management Records
+ Retain 6 years, destroy
+387 Newborn Screening Test Records (Test Requests, Patient Demographics and Filter
+ Papers)
+ Retain 1 year, destroy
+385 Newborn Screening Testing Records
+ Retain 6 years, destroy
+380 Research Records
+ Retain 6 years, destroy
+
+397 Select Agent Program Records
+ Retain 3 years, destroy
+377 Sentinel Laboratory Information Records
+ Retain until 5 years after laboratory closed, destroy
+396 Water Microbiology Testing Records
+ Retain 5 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Conference, Seminar, and Training Program Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Public Records Disclosure Request Records
+Postal Records
+Security Records
+Visitor Logs
+Facilities/Property Records (OAR 166-300-0020)
+Asset Inventory Reports
+Equipment Maintenance Records
+Equipment/Property Disposition Records
+Hazardous Substance Employer Survey Records
+Master Material Safety Data Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+Receipts Records
+Payroll Records (OAR 166-300-0040)
+Employee Time Records
+Personnel Records (OAR 166-300-0040)
+Employee Medical Records
+Risk Management Records (OAR 166-300-0045)
+Emergency Response Plans and Procedures
+Hazard Exposure Records
+Incident Reports
+Safety Compliance and Inspection Records
+
+Databases
+BILLING
+BIONUMERICS
+COPIA
+HARVEST
+LABORATORY RESPONSE NETWORK (LRN)
+NEOMETRICS CASE MANAGEMENT SYSTEM (CMS)
+NEOMETRICS METABOLIC SPECIMEN DATA SYSTEM (MSDS)
+NEOMETRICS SECURE REMOTE VIEWER (SRV)
+
+## Cross-references
+
+General records retention schedules cited in the text above. These are OAR
+chapter 166 rules and live verbatim in the sibling corpus
+[OregonAI/executive-regulatory-frameworks](https://github.com/OregonAI/executive-regulatory-frameworks);
+they are referenced here as citations, never copied (see AGENTS.md).
+
+Reproduced exactly as the source schedule cites them. A few are stale upstream —
+the rule was renumbered or repealed after this schedule was published — so a
+citation here is not a guarantee the rule still exists. Resolving one reports
+the difference: a live rule returns a title and link, a stale one reports that
+the sibling corpus holds no such document.
+
+- OAR 166-300-0015
+- OAR 166-300-0020
+- OAR 166-300-0025
+- OAR 166-300-0030
+- OAR 166-300-0035
+- OAR 166-300-0040
+- OAR 166-300-0045
+
+## Provenance & change history
+
+- Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-health-public.pdf> · retrieved 2026-07-25 · sha256 `cbdca1248830ab2dabd1d64cbec989975d4a6a19ecb1e76aa54174a2061b5847`
+- Snapshot: `_meta/snapshots/schedule-health-public.txt` (extracted text) and `_meta/snapshots/schedule-health-public.pdf` (raw source, 82 pages).
+- Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 82 pages. Stripped repeated running-header lines: "Edition: June 2018"; "Oregon State Archives"; "Records Retention Schedule". Stripped 81 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
+- See [CHANGELOG](../CHANGELOG.md).

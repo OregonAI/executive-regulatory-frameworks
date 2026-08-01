@@ -1,0 +1,2673 @@
+---
+schema_version: 1
+corpus: executive-regulatory-frameworks
+jurisdiction: oregon
+id: schedule-corrections
+title: Corrections, Department of
+doc_type: schedule
+citation: Corrections, Department of — Oregon Special Records Retention Schedule
+authority_level: schedule
+issuing_body: Oregon Secretary of State, Archives Division
+agency: department-of-corrections
+division: null
+schedule_number: 2010-0003
+legal_authority: []
+source_url: https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-corrections.pdf
+source_format: pdf
+retrieved: '2026-07-25'
+source_sha256: bc0d76e74c29ceb0aa53336d76d75aca837d6f2ba82baedebbf39a2abeb5225f
+effective_date: null
+effective_date_text: March 2011
+expires: null
+expires_text: null
+last_reviewed: null
+source_version: 2010-0003
+status: current
+content_mode: verbatim
+conversion_notes: 'Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 79 pages.
+  Stripped repeated running-header lines: "Edition: March 2011"; "Oregon State Archives"; "Records Retention
+  Schedule". Stripped 78 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+
+  of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number
+  line, bare page number) were removed; every other repeated line, including per-page ''Organizational
+  Placement'' / ''Agency'' / ''Systems of Record'' blocks, was left in place. Trailing whitespace removed
+  and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.'
+last_verified: ''
+verified_by: ''
+maintainer: '@morficflux'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related:
+    - oar-166-300-0015
+    - oar-166-300-0020
+    - oar-166-300-0030
+    - oar-166-300-0035
+    - oar-166-300-0040
+  supersedes: []
+tags:
+- records-retention
+- special-schedule
+---
+
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
+> copy, not the official text. Verify against the official source:
+> <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-corrections.pdf> (retrieved 2026-07-25).
+
+# Corrections, Department of
+
+## At a glance
+
+Special records retention schedule for Department of Corrections, published by the Oregon Secretary of State, Archives Division, schedule number 2010-0003, effective date as printed: March 2011. It runs to 79 pages and lists the agency's own record series with a retention and disposition clause for each. Record series that every state agency holds are NOT here: they are covered by the OAR chapter 166 general schedules, which this corpus references rather than copies — 5 distinct general-schedule rule(s) are cited in the text below.
+
+## Full text
+
+Department of Corrections
+Records Retention Schedule 2010-0003
+Edition: March 2011
+Table of Contents
+
+Office of the Director ...................................................................................................................... 2
+
+General Services ........................................................................................................................... 15
+
+Human Resources ......................................................................................................................... 21
+
+Operations………… ..................................................................................................................... 27
+
+Public Services .............................................................................................................................. 51
+
+Transitional Services ..................................................................................................................... 60
+
+Organizational Placement                                                              Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:  Office of the Director
+Functional Unit: Inspector General
+
+Program Description
+The position of Inspector General was created in 1990 as recommended by an investigative
+report to the Governor.  Through the operations of the Special Investigations Unit and the
+Security Threat Management Unit, the Inspector General provides an oversight function on
+behalf of the Director and Deputy Director by examining the actions of inmates, agency
+employees, contractors and volunteers to ensure compliance with rules, policies and procedures,
+and to investigate and bring resolution to acts of misconduct and certain types of criminal
+activity.  The Inspector General is the Department's liaison with all external law enforcement and
+prosecutorial criminal justice agencies.
+
+Program Records
+001 Warden Report, 1990
+Retain permanently, transfer to State Archives after 30 years
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement                                                              Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Office of the Director
+Functional Unit: Inspector General
+Program:   Hearings
+
+Program Description
+
+The Hearings program is responsible for the processing, tracking, and monitoring of inmate
+hearings held at correctional institutions statewide.  Hearings Officers convene disciplinary
+inmate misconduct hearings at correctional institutions.  Disciplinary hearings are classified as
+either formal or informal, depending on the nature of the violation filed against the inmate by the
+reporting correctional officer.  Formal hearings are held for Administrative Segregation,
+Involuntary Treatments and all major violations.  Major violations include infractions such as
+arson, assault, contraband and possession of a weapon.  Informal hearings are held for most
+minor violations including lower level rule violations.  Sanctions are applied when violations are
+found.  Formal hearings are audio taped and a report of the final decision is made.  Formal
+appeals processes are provided to the inmates.  Records of all hearings processes and outcomes
+are created and retained.
+
+Program Records
+002 Administrative Segregation Appeals Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years after last action, destroy
+(c) Retain all other records for 6 months, destroy
+003 Administrative Segregation Hearings Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years after last action, destroy
+(c) Retain all other records for 6 months, destroy
+004 Confidential Informant Packet Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years after last action, destroy
+(b) Retain all other records for 6 months, destroy
+005 Hearings Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+
+006 Inmate Disciplinary (Less Formal) Records
+ Retain 3 Years after completion of record, or transfer of inmate, destroy
+007 Inmate Disciplinary Hearings (Major Misconduct) Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years after last action, destroy
+(c) Retain all other records 6 months, destroy
+008 Inmate Disciplinary Hearings (Minor Misconduct) Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years after last action, destroy
+(c) Retain all other records 6 months, destroy
+009 Inmate Disciplinary Hearings Appeals Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years after last action, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Office of the Director
+Functional Unit: Inspector General
+Program:   Inmate Discrimination Complaints
+
+Program Description
+
+The Inmate Discrimination Complaints process is managed by designated individuals at various
+locations throughout the department. They are responsible for promptly and thoroughly
+investigating complaints alleging discrimination or retaliation and, if appropriate, take measures
+to resolve the issue. The process assures maximum possible anonymity to complaints and
+guarantees non-retaliation to complainants. Inmates retain the right of complainant to file formal
+charges with appropriate agencies.
+
+Program Records
+010 Inmate Discrimination Complaints Appeals Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(b) Retain all other records 6 months, destroy
+011 Inmate Discrimination Complaints
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(b) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Office of the Director
+Functional Unit: Inspector General
+Program:   Inmate Telephone
+
+Program Description
+The Inmate Telephone program is responsible for authorizing, monitoring, suspending and
+terminating individual inmate telephone usage accounts. Specific provisions in rule outline
+requirements for authorization of inmate accounts and telephone numbers that can be called.
+Telephone usage is taped and monitored for security purposes. Inmates that commit rule
+violations associated with this program may have their access suspended or terminated.
+
+Program Records
+012 Inmate Telephone Authorization Documents
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years after last action, destroy
+(b) Retain all other supporting documentation 6 months, destroy
+013 Inmate Telephone Repair and Support Records
+ Retain 1 year, destroy
+014 Inmate Telephone Security Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years after last action, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity 3 years past conclusion of related process, destroy;
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Signature Authorizations
+Staff Meeting Records
+Work Orders
+Facilities/Property Records OAR 166-300-0020
+Equipment Maintenance Records
+Equipment/Property Disposition Records
+
+Databases
+AS/400
+
+Organizational Placement              Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Office of the Director
+Functional Unit: Inspector General
+Program:                Prison Rape Elimination Act (PREA)
+
+Program Description
+The Oregon Department of Corrections has a zero-tolerance standard for incidence of sexual
+assault and rape and makes prevention of inmate sexual assault and rape a top priority. The
+PREA program is responsible for monitoring complaints, conducting investigations and making
+recommendations for criminal investigation or other corrective action as appropriate.
+
+The Prison Rape Elimination Act of 2003 is a federal law that seeks to eliminate sexual assaults
+and sexual misconduct.  This law applies to all federal and state prisons, jails, police lock-ups,
+private facilities, juvenile facilities, and community correctional settings.  The PREA program
+oversees mandated elements of the program in support of the legislative goal, to include
+reporting statistical data and cooperating with external agencies.
+
+Program Records
+015 Prison Rape Elimination Act Program Administration Records
+(a) Retain records documenting development of ongoing project or program related activity
+10 years past conclusion of related process, destroy
+(b) Retain all other records 10 years, destroy
+016 Prison Rape Elimination Act Security Documentation Records
+ Retain 10 years, destroy
+017 Prison Rape Elimination Act Inmate Training Records
+ Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement              Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Office of the Director
+Functional Unit: Inspector General
+Program:   Security Threat Groups
+
+Program Description
+The Security Threat Groups program gathered information about various topics having possible
+consequences in criminal activities at institutions or in society at large. Program staff interviewed
+inmates, staff and others to collect and analyze institutional intelligence information regarding
+actual or possible criminal activities in institutions or elsewhere. The program helped the
+institutions and the Department to develop and implement strategies to prevent or minimize
+criminal or disruptive behavior in the prison. Individual inmates are managed based on their
+affiliation with identified security threat groups. The program identified as Security Threat
+Groups ended in 2007.
+
+Program Records
+018  Security Threat Group Program Administration Records
+Retain 3 years, destroy
+019  Security Threat Group Intelligence Records
+Retain 3 years, destroy
+
+State Agency General Records Retention Schedule Records
+None
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Office of the Director
+Functional Unit: Inspector General
+Program:   Security Threat Management
+
+Program Description
+Security Threat Management (STM) has STM Lieutenants strategically placed in various ODOC
+institutions and facilities.  The STM Lieutenants are assigned a case load of High Alert inmates.
+Inmates become High Alert based on prior misconduct and/or intelligence information and are
+identified as creating an elevated risk to the safety, security, and orderly operations of the ODOC
+institutions and facilities.  The STM Lieutenants coordinate with all institutions to manage the
+day to day activities of these inmates ensuring compliance with their Oregon Corrections Plan,
+ODOC rules, and maintaining safe and secure institutions/facilities.
+
+The Intelligence Section serves as the Department's central hub for all threat intelligence.  This
+section receives information from all ODOC institutions and facilities, as well as, from outside
+stakeholders and other sources.  After the information is gathered, it is analyzed, verified and
+then disseminated to the appropriate institutions and units to be used in developing plans of
+action.  The unit works to identify threats by using threat analysis, link analysis, patterns and
+trends with the goal of enabling the Department to proactively respond to certain threat situations
+averting an incident.  This section also acts as the information liaison with outside law
+enforcement agencies.
+
+Program Records
+020 Security Threat Management Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of program
+related activity 3 years past conclusion of related process, destroy;
+(c) Retain all other records 6 months, destroy
+021 Security Threat Management Operational Records
+(a) Retain Suspected Security Threat Intelligence Reports (SSTIR’s) 3 years, destroy.
+(b) Retain final documents and supporting documentation showing application of rule or
+policy, or containing significant intelligence, 3 years from last action, destroy.
+(c) Retain all others 6 months, destroy.
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Office of the Director
+Functional Unit: Inspector General
+Program:   Special Investigations
+
+Program Description
+This unit provides investigative services to all ODOC institutions and facilities.  The unit has
+investigators, throughout the state, that specialize in fugitive apprehension, drug and contraband
+interdiction, evidence collection, surveillance, canine operations, administrative and criminal
+investigations and employee investigations.  This unit has partnered with federal, state, and local
+law enforcement agencies by providing intelligence and networking assistance towards
+investigative efforts.
+
+The Special Investigations Unit has central oversight over a variety of ODOC programs.  Some
+of those are:  Use of Force Reviews, Inmate Substance Abuse Program, Suicide Reviews and
+Electronic Surveillance.
+
+Program Records
+022 Operational Review Records
+(a) Retain Records associated with a particular inmate or incident that require long term
+availability due to security concerns 75 years
+(b) Retain all other records 3 years from last action, destroy.
+023 Special Investigations Unit Inmate Investigations Records
+(a) Retain for final documents and supporting documentation showing application of rule
+or policy 3 years after last action, destroy
+ (b) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Office of the Director
+Functional Unit: Internal Audits
+Program:   Audits
+
+Program Description
+Internal Audit for the Department of Corrections completes performance, financial and
+information technology audits of agency-wide programs and contracts for the purpose of
+determining effectiveness, efficiency, and compliance to statutes, rules, policies, and procedures.
+Internal Audit also conducts fraud investigations and consulting engagements.  Audit reports,
+which may include recommendations for improvement, are prepared by the Auditor and may
+result in policy decisions.  The reports are supplied to the Department Director.
+
+Program Records
+024 Audit Findings and Response Records
+ Retain 30 years, destroy.
+025 Internal Audits Program Administration Records
+(a) Retain records documenting program activities and projects; 5 years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity; 5 years past conclusion of related process, destroy
+(c) Retain all other records 1 year, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Office of the Director
+Functional Unit: Office of Population Management
+Program:   Interstate Corrections Compact
+
+Program Description
+Interstate Corrections Compact (ICC) manages the transfer of inmates between Oregon
+Department of Corrections and other state correctional systems.  The purpose of arranging for
+these compacts is to provide for the mutual development and provision of programs for the
+confinement, treatment and rehabilitation of offenders in a manner that makes best use of
+available human and material resources.  ICC places inmates in facilities and programs on a basis
+of cooperation with one another.  These transfers are designed to serve the best interests of
+individual offenders and society.
+
+Program Records
+026 Interstate Corrections Compact Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity 3 years past conclusion of related process, destroy;
+(c) Retain all other records 6 months, destroy
+027 Interstate Corrections Compact Agreements and Conditions
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final documents and supporting documentation showing application of rule or
+policy; 3 years from last action, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Signature Authorizations
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Office of the Director
+Functional Unit: Planning and Budget Administration
+Program:   Legislative Affairs
+
+Program Description
+Legislative Affairs manages a centralized process of preparing, tracking and maintaining key
+information and reports necessary to support business needs of the department. Records relating
+to this process are used to support ongoing policy development, modifications to approved plans
+and to provide historical perspective on trends for larger analysis. Research completed for a
+single bill or request is often used repetitively across a number of projects and processes
+spanning varying periods of time.
+
+028 Emergency Board Request Records
+(a) Retain final document: 25 years, destroy
+(b) Retain other records required for future research and development of concept or
+unresolved issue 6 years after last action, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Legislative Development Advisory Committee Records
+Legislative Tracking Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:  General Services
+Functional Unit: Distributions Services
+Program:   Commissary
+
+Program Description
+Commissary services are provided to inmates at all institutions.  Inmates order items from a
+standardized commissary list and receive items by signing a receipt.  Each transaction subtracts
+the amount from the inmate’s Trust Account.  It is a self-supporting program that charges
+inmates for products they purchase.  Stock is purchased on authorized vendor contracts.
+Accounting related functions are performed by the Corrections Fiscal Services Department.
+
+Program Records
+029 Commissary Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 6
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity; 6 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+030 Inmate Commissary Account Records
+(a) Retain final and supporting documentation showing application of rule or policy; 6
+years, destroy.
+(b) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Signature Authorizations
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   General Services
+Functional Unit: Distributions Services
+Program:   Food Services
+
+Program Description
+The Food Service program provides meals to inmates, staff and in some cases, visitors of the
+Correctional Institution. It orders, receives, stores, and prepares foods and related supplies.
+Supplies, tools, and utensils are strictly controlled and accounted for. The program operates with
+inmate labor under staff supervision.
+Meals produced include special diet meals for either medical or religious reasons as well as
+regular meals for the general inmate population. The food service facility and operation is
+inspected annually by the state Health Department.
+
+In addition to general population serving areas, meals are delivered on food carts to the
+Infirmary, Disciplinary Segregation Unit, Mental Health Infirmary, and Intensive Management
+Unit.
+
+Program Records
+031 Employee Meal Records
+ (b) Retain tracking sheets 3 years, destroy.
+(c) Retain all other records 1 year, destroy
+032 Food Services Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+033 Food Service Audit Records
+ (a) Retain final document 5 years, destroy.
+(b) Retain source and supporting documents showing application of rule or policy 3
+years, destroy
+(c) Retain working notes of auditors until creation of final report, destroy.
+(d) Retain all other records 1 year, destroy
+034 Food Services Inventory Records
+ Retain 3 years, destroy
+
+035 Food Services Inspection Records
+(a) Retain documents needed to verify compliance with mandated inspections, inspection
+reviews and appeals 3 years after last action, destroy
+(b) Retain all other records for 1 year, destroy.
+036 Menus
+ (a) Retain Final Menu documentation and Menu Substitutions 3 years, destroy
+(b) Retain Supporting documentation, 1 year, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Signature Authorizations
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   General Services
+Functional Unit: Fiscal Services
+Unit:   Central Trust
+
+Program Description
+The Inmate Central Trust program performs all accounting and financial reporting functions for
+inmate fund accounts.  The program processes transactions to enter deposits and expenditures.
+The Inmate Central Trust program reconciles inmate accounts on a daily basis for canteen
+purchases, in coordination with the Canteen Sales System.  Additionally, the program issues
+monthly statements to inmates notifying them of account balances.
+
+Program Records
+037 Central Trust Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 6
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity 6 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+038 Inmate Account Records
+ Retain 6 Years, destroy
+039 Inmate Federal and State Tax Records
+ Retain 6 Years, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   General Services
+Functional Unit: Fiscal Services
+Program:   Inmate Clubs and Activities
+
+Program Description
+Inmate Clubs and Activities provides access to inmate group activities programs within
+Department of Corrections facilities.  The Department of Corrections, at times, involves as many
+inmates, staff, volunteers, outside agencies, and community resources as practical in the
+correctional process as it relates to group activities. Guidelines have been established in rule to
+govern and evaluate the merit of all inmate group activities. No person is denied the opportunity
+to participate in group activities on the basis of race, color, religion, national origin or handicap.
+
+Financial records associated with these activities include documentation and accounting of
+donations, fees and fund raising monies. These records are managed through General Services,
+Fiscal Services.
+
+Program Records
+040 Inmate Club Financial Records
+ Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   General Services
+Functional Unit: Information Technology
+
+Program Description
+Information Technology Services oversees all issues relating to information technology for the
+department. Specific records are kept documenting troubleshooting and problem-solving
+assistance provided to users of the systems (computer, telecommunications, etc.). These records
+may include but are not limited to help desk assistance requests, resolution records, and related
+documentation. Availability of these records to other programs and sections is necessary to
+support business functions beyond the technical completion of the user support.
+
+Program Records
+041 User Support Records
+ Retain 1 year after assignment completed or cancelled, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Signature Authorizations
+Staff Meeting Records
+Information and Records Management Records, OAR 166-300-0030
+Computer System Maintenance Records
+Computer System Program Documentation
+Computer System Security Records
+Computer System Wiring Records
+Information System Planning and Development Records
+Software Management Records
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:  Human Resources
+Functional Unit: Operations
+Program:   Employee Payroll
+
+Program Description
+Employee Payroll manages records that document individual employee pay history, provides
+assistance to employees regarding payroll-related issues and disperses
+
+Program Records
+042 Daily Assignment (Shift) Rosters
+ Retain 6 years, destroy.
+043 Leave Slips
+ Retain 2 years, destroy
+044 Time Sheets
+ Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Signature Authorizations
+Staff Meeting Records
+Payroll Records OAR 166-300-0035
+Deduction Registers
+Employee Payroll Records
+Employee Time Records
+Federal and State Tax Records
+Family Medical Leave Records
+Leave Applications
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Human Resources
+Functional Unit: Operations
+Program:   Employee Personnel Records
+
+Program Description
+The Personnel Records program is responsible for the centralized management of human
+resource records and position information within the Department.  The program processes all
+personnel transactions and issues identification cards for all staff including contract employees.
+The program develops plans for staffing and human resource issues and maintains all department
+employee personnel, medical records and position files.  Employee Payroll manages records that
+document individual employee pay history.
+
+Program Records
+045 Criminal Background Check Records
+ Retain 10 years after employee separation, destroy.
+046 Inmate Conflict Records
+ Retain 10 years after employee separation, destroy.
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Signature Authorizations
+Staff Meeting Records
+Personnel Records OAR 166-300-0040
+Benefits Continuation Records
+Criminal Background Check Records
+Drug Testing Records
+Employee Benefits Records
+Employee Medical Records
+Employee Personnel Records
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Health Services
+Program:   Behavioral Health
+
+Program Description
+Behavioral Health Services provides several levels of mental health treatment along with
+individualized case management for inmates. Mental health services are targeted to inmates with
+severe or persistent mental illness. Short-term services are available to inmates who are not
+mentally ill, but who show high suicide potential, or who are experiencing other emotional
+distress.
+
+Program Records
+200 Behavioral Health Services Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+201 Evaluation & Assessment Records
+ Retain 7 years after release of inmate without reactivity, destroy
+202 Treatment Records
+ Retain 7 years after release of inmate without reactivity, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Health Services
+Program:   Inmate Medical
+
+Program Description
+Health Services is responsible for providing medical care to prisoners across the state,
+incarcerated within the thirteen institutions of the Oregon Department of Corrections State Prison
+system. The State has a moral and legal obligation to provide health care for those people whom
+it incarcerates. The Federal Courts have mandated that inmates, though incarcerated, remain
+entitled to basic medical care.
+
+Program Records
+203 Dental Records
+Retain 7 years after release of inmate without reactivity, destroy
+204 Evaluation & Assessment Records
+ Retain 7 years after release of inmate without reactivity, destroy
+205 Inmate Medical Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity 3 years past conclusion of related process, destroy
+ (c) Retain all other records 6 months, destroy
+206 Inmate Medication Administration Records
+Retain 7 years after release of inmate without reactivity, destroy
+207 Optical Records
+Retain 7 years after release of inmate without reactivity, destroy
+208 Therapeutic Dietary Records
+Retain 7 years after release of inmate without reactivity, destroy
+209 Treatment Records
+Retain 7 years after release of inmate without reactivity, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Health Services
+Program:   Pharmacy and Medical Stores
+
+Program Description
+DOC Pharmacies and Institutional Medication Rooms are licensed and regulated by the Oregon
+Board of Pharmacy and the Federal Drug Enforcement Agency. The formulary is established and
+regularly reviewed by a multidisciplinary Pharmacy and Therapeutics Committee. Organized as
+a modified Managed Care system, Pharmacy prepares, packages, and distributes prescriptions to
+meet the medication needs of the system’s inmates.
+
+DOC Medical Stores identifies, purchases, and distributes the specialized medical equipment,
+instruments, and supplies needed to operate the system’s institutional clinical services and
+coordinates the purchase and repair of costly diagnostic and treatment equipment and durable
+medical goods. Centralized purchasing and a controlled inventory promote efficiency and help to
+manage cost.
+
+Program Records
+210 Pharmacy and Medical Stores Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+211 Filled Prescription Records
+ Retain 3 years past the date of fill, destroy
+212 Pharmacy Patient Files
+ Retain 3 years beyond last active date, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Signature Authorizations
+Staff Meeting Records
+Work Orders Facilities
+Facilities/Property Records OAR 166-300-0020
+Equipment Maintenance Records
+Equipment/Property Disposition Records
+
+Databases
+AS/400
+CIPS/KALOS
+
+ Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:  Operations
+Functional Unit: Inmate Services
+Program:   Performance Recognition and Award System
+
+Program Description
+The Performance Recognition and Award System is designed to make monetary awards and
+other incentives available to inmates as recognition and encouragement of good institutional
+conduct. These awards must be created and distributed in a manner consistent with the need for
+facility security, safety, health and order.  These awards must also be within the inherent
+limitations of resources available. This program includes exceptional performance in work and
+workforce development assignments, and in self-improvement programs that address the
+criminal behaviors that led to their incarceration.
+
+Program Records
+047 Inmate Performance Recognition Awards
+(a) Transfer signed, notarized or otherwise certified records necessary to support authorized
+correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+048 Non-cash Incentive Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support authorized
+correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+ (c) Retain all other records 6 months, destroy
+049 Performance Recognition and Award System Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of program
+related activity 3 years past conclusion of related process, destroy;
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Emergency Preparedness
+
+Program Description
+The Emergency Preparedness program prepares emergency plans for various incidents,
+emergencies, and disasters.  The program also prepares and conducts exercises to test emergency
+plans.  Program staff also coordinates with external state and local agencies regarding
+agreements for emergency response
+
+Program Records
+050 Emergency Drill Records
+ (a) Retain Emergency Drill Records 3 years, destroy
+(b) Retain records identified as necessary for training or process improvement until
+superseded or obsolete, destroy
+051 Incident Response Records
+(a) File Reports and documentation required for Unusual Incident Report (UIR) with UIR
+for final disposition
+(b) Retain all other records 3 years, destroy.
+052 Emergency Plan Records
+(a) Retain Emergency Post Orders, Procedures, Incident Plans 10 years after superseded
+or obsolete, destroy.
+(b) Retain all other records until superseded or obsolete, destroy
+053 Post-Incident Records
+(a) Retain Post Incident Records, including debriefings, after action reports, local reviews
+and similar processes 3 years, destroy
+(b) Retain records identified as necessary for training or process improvement until
+ superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Signature Authorizations
+Staff Meeting Records
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Executions
+
+Program Description
+Executions are conducted to carry out court ordered sentences of the Death Penalty.  Records are
+execution records that are created and maintained documenting activities relating to the final
+days before the execution of sentence, and the processes that occurs during the execution of
+sentence.  These records also include the individual case files of the executed inmates.
+
+Program Records
+054 Execution Files
+ Retain permanently, transfer to State Archives 30 years after last action.
+055 Execution Program Administration Records
+ Retain permanently, transfer to State Archives 30 years after last action.
+056 Inmate Case Files – Executed Inmates
+ Retain permanently, transfer to State Archives 30 years after last action.
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+None
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Facility Access
+
+Program Description
+Facility Access manages compliance with the security requirements for persons, vehicles, tools,
+equipment and supplies to gain access to Oregon Department of Corrections facilities as
+established in rule.  The policy of the Department of Corrections is to control access into and out
+of facilities, including those which physically house inmates. This is necessary to ensure
+maintenance of the security, sound order, or discipline of operations. All persons enter a facility
+at their own risk and will be required to meet the security and control measures enforced at the
+location.
+
+Program Records
+057 Facility Access Logs
+ (a) Retain Operations Division Institution Facility Access Logs 3 years, destroy
+ (b) Retain all other Facility Access Logs 1 year, destroy
+058 Keys and Locks Records
+ (a) Retain Daily assignment records1 year, destroy
+(b) Retain Permanent Issue records 1 year after change of status or separation, destroy
+059 Non-Institution Security Records
+(a) Retain final and supporting documentation showing application of rule, policy or
+contract 5 years, destroy
+(b) Retain all other records 1 year, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Signature Authorizations
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Identification Cards
+
+Program Description
+The Identification Cards program manages the authorization, production, distribution and
+replacement of official identification cards issued by the department.  Employee, contractor and
+volunteer identification cards are included in this process.  In addition, rule establishes an inmate
+identification card system that includes procedures for the possession and use of the inmate
+identification cards.
+
+Program Records
+060 Inmate Identification Card Records
+ Retain supporting documentation 90 days, destroy
+061 Staff Identification Records
+ (a) Retain employee ID cards until change of status or ten years after separation.
+(b) Retain ID cards for volunteers, contractors, and others 2 years after separation,
+destroy
+(c) Retain request forms 30 days after the contractor or volunteer information entered into
+photo-card database.
+(d) Retain all other supporting documentation 90 days, destroy
+
+State Agency General Records Retention Schedule Records
+None
+
+Databases
+AS/400
+
+ Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Inmate Clubs and Activities
+
+Program Description
+Inmate Clubs and Activities provide access to inmate group activities programs within
+Department of Corrections facilities.  The Department of Corrections at times to involve as many
+inmates, staff, volunteers, outside agencies, and community resources as practical in the
+correctional process as it relates to group activities. Guidelines have been established in rule to
+govern and evaluate the merit of all inmate group activities. No person is denied the opportunity
+to participate in group activities on the basis of race, color, religion, national origin or handicap.
+
+Program Records
+062 Inmate Clubs and Activities Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity; 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Inmate Grievances
+
+Program Description
+The Inmate Grievances process is managed by designated individuals at various locations
+throughout the department. Inmates are encouraged to address their concerns informally with
+appropriate staff and managers through either dialog or written communication.  The use of
+inmate communication forms is suggested where possible. The department's internal inmate
+grievance review and appeal system is established in recognition of the complex nature of the
+correctional setting where some issues or disputes between staff and inmates may not be readily
+resolved at an informal level.
+
+Program Records
+063 Inmate Grievances Appeals Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(b) Retain all other records 6 months, destroy
+064 Inmate Grievances Complaint Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(b) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Inmate Mail
+
+Program Description
+The Mailroom processes incoming, outgoing, and inter-institutional inmate and staff mail for the
+institutions. Mail is received from Department of Corrections and private carriers. Incoming mail
+is sorted, opened and inspected, and distributed to inmates and staff. Prohibited items, including
+cash, are confiscated and/or returned to senders with a violation citation. Violation citations are
+also sent to addressees. Outgoing mail is processed in similar fashion.
+
+Program Records
+065 Inmate Mail Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity; 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+066 Mail Violations and Appeals
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(b) Retain all other records 6 months, destroy
+067 Search and Inspection Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Postal Records
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement             Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Inmate Transport
+
+Program Description
+The Transport program is responsible for the movement of offenders in the Department of
+Corrections system. The transportation provided by the program includes the transfer of inmates
+between correctional facilities located both in and out of the state, transportation for returned
+escapees, parole violators, and inmates back to Oregon jurisdiction. Additionally, the program
+provides the transportation for inmates to medical appointments, court appearances and state
+police interviews.
+
+The offenders are transported at the appropriate security levels to promote public safety and
+provide a safe environment for staff and offenders.
+
+Program Records
+068 Inmate Transport Records
+(a) Retain Movement Worksheets until information entered into DOC400 and verified,
+destroy
+(b) Retain Records documenting inmate movement in and out of institutions 1 year,
+destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement             Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Inmate Visitors
+
+Program Description
+Visiting processes and coordinates all visits to inmates.  Inmates must apply to have individuals
+approved for their authorized visitors list. The application review process includes a criminal
+background check and investigation.  Denied applications are returned to the inmate.
+Information form approved applications are entered into the Visitor Tracking System portion of
+the Criminal Information System (CIS).   Approved visitors may visit inmates during visiting
+hours, subject to limits on the number of visits and visitors per inmate in accordance with rule.
+When visitors arrive to visit an inmate, identification and visiting privileges are verified for the
+visitor, and the inmate’s current availability for visitation is checked.
+
+The program also processes and coordinates entry and escort for official visitors to the institution
+including attorneys, parole officers, court ordered tours, contractors, vendors, and others.
+
+Program Records
+069 Correspondence (Visiting Related)
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+070 Inmate Visiting Security Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity; 3 years past conclusion of related process, destroy;
+(c) Retain all other records 6 months, destroy
+071 Inmate Visitors Applications and Authorizations
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+
+072 Inmate Visitors Denials and Termination Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+073 Inmate Visitors Visiting Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records related to identifiable security concern or unresolved issue 3 years
+from resolution, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+None
+
+Databases
+AS/400
+
+Organizational Placement             Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Inmate Work Programs (IWP)
+
+Program Description
+The Inmate Work Development program exists to implement the Prison Reform and Inmate
+Work Act of 1994 [Measure 17] in the Oregon Department of Corrections.  Staff and units of
+each institution manage opportunities to engage all inmates in full-time work in institutional
+support, public sector and private industry jobs.
+
+The program develops potential work projects outside of institutions in accordance with the
+master DOC contract.  Designated staff ensure that inmates are available to work, and that
+projects are performed according to contracts and project descriptions. Inmate attendance and
+work performance are documented by supervising staff who escort work crews.  Attendance
+reports are forwarded to the Inmate Work Program coordinator at each location. The program
+coordinators monitor attendance and project progress and reports Performance Recognition and
+Award System (PRAS) information to Department of Corrections Inmate Work Programs.
+Project billing and inmate time worked information is also tracked by Inmate Work Programs.
+
+Program Records
+074 Inmate Work Programs Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity; 3 years past conclusion of related process, destroy;
+(c) Retain all other records 6 months, destroy
+075 Inmate Work Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final documents and supporting documentation showing application of rule or
+policy; 3 years from last action, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Public Records Disclosure Request Records
+Signature Authorizations
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Legal Library
+
+Program Description
+Legal Libraries consist of a general library and a law library as well as limited access to the State
+Library. The law library provides inmates access to legal materials, typewriters, and an area for
+confidential communications with their lawyer.
+
+The Library also provides inmates with legal copy service. Inmates request photocopies of legal
+material to be sent to a court or attorney. Copies are sent out by the Mailroom to a court or the
+Parole and Post-Prison Supervision Board for inmates without funds.  The Library also provides
+inmates with a phone to communicate with their attorney.
+
+Program Records
+076 Inmate Access to Legal Library Services Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain all other records 6 months, destroy
+077 Legal Library Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of program
+related activity; 3 years past conclusion of related process, destroy;
+(c) Retain all other records 6 months, destroy
+078 Legal Library Inventory Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+ Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Measure 17 Work Programs
+
+Program Description
+Measure 17 Work Programs exist to implement the Prison Reform and Inmate Work Act of 1994
+in the Oregon Department of Corrections.  Staff and units of each institution manage work and
+program opportunities to engage all inmates in opportunities that fulfill this mandate.
+
+Inmate attendance and work performance are documented by staff supervising the work or
+program.  Attendance reports are forwarded to the Inmate Work Program coordinator at each
+location. The program coordinators monitor attendance and project progress and reports
+Performance Recognition and Award System (PRAS) information to Department of Corrections
+Inmate Work Programs. Project billing and inmate time worked information is also tracked by
+Inmate Work Programs.
+
+Program Records
+079 Inmate Work Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support authorized
+correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years after last action, destroy
+(c) Retain all other records 6 months, destroy
+080 Measure 17 Work Programs Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+ (b) Retain records required for development of ongoing project or sustainability of
+program related activity; 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+081 Measure 17 Work Programs Compliance and Mandate Records
+(a) Retain documents needed to verify compliance with audits and inspections until
+completion of processes, reviews and appeals, destroy
+(b) Retain all other records 1 year, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Property
+
+Program Description
+Property program is associated with the security, authorization, inventory and disposition of
+inmate property.  Security and disposition of property belonging to inmates who leave the
+general population to go to Special Housing, court, the infirmary, other institutions, or out of the
+state is included in this process.  Unauthorized items are confiscated and disposed of in
+accordance with rule.  If the inmate returns to the general population or transfers to another
+institution approved property is returned. Inmates may have items mailed out.
+
+When contraband items are confiscated an inmate may file a claim if they believe their property
+was seized improperly.  Certain items purchased from the canteen (televisions, radios, clocks,
+watches, headsets, musical instruments) are recorded in the inmate’s property inventory and
+monitored to prevent illegal sale and bartering.
+
+Program Records
+082 Security Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain Records documenting development of ongoing project or program related
+activity; 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+None
+
+Databases
+AS/400
+
+ Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Security Operations
+
+Program Description
+The Security Operations program manages routine ongoing security operations in locations past
+with supervision of inmates.   This includes security operations for programs located in or
+partnering with institutions such as Oregon Corrections Enterprises (OCE), Education, Health
+Services, and Pathfinders of Oregon.
+
+Security Operations is responsible for supervision of inmates and activities necessary to ensure
+the ongoing safety and security of the institution. Searches, inspections, counts, intelligence
+gathering, report writing and many other functions fall within the general scope of this program.
+Program staff receives and reviews reports of selected security activities necessary to provide
+them adequate information to maintain proper supervision of their zone of control.
+
+Program Records
+083 Counts Records
+(a) Retain official count of record with supporting documentation 3 years, destroy
+(b) Retain all other counts with supporting documentation 90 days, destroy
+084 Inmate Activity Logs (Mandated Services)
+(a) Retain records containing verifiable information relating to the identity of the inmates
+listed 3 Years, destroy
+(b) Destroy Worksheets and informal sign ups that do not contain verifiable information
+relating to identity of inmates listed when superseded or obsolete
+085 Inmate Activity Logs (Privileges)
+(a) Retain records containing verifiable information 6 months, destroy
+(b) Retain Worksheets and informal sign ups that do not contain verifiable information
+relating to identity of inmates listed  until superseded or obsolete, destroy
+086 Inmate Housing Records
+(a) Retain records required to support institution procedures relating to approval of moves 6
+months after last action, destroy
+(b) Retain all other Requests 6 months, destroy
+087 Intake and Release Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of program
+related activity; 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+
+088 Operational Intelligence Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years after last action, destroy
+(b) Retain all other records 6 months, destroy
+089 Post Information and Activities Records
+ Retain 3 years, destroy
+090 Search and Inspection Records
+ Retain 3 years, destroy
+091 Security Operations Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of program
+related activity; 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+092 Tools and Inventory Records
+ Retain 4 years, destroy
+093 Unusual Incident Reports (UIR’s)
+(a) Transfer UIR’s documenting inmate escapes to Official Inmate File of involved
+inmate(s)
+ (b) Retain all others 25 years, destroy.
+094   UIR Video/Audio Records
+ Retain 10 years from incident, destroy.
+095 UIR Supporting Documents
+         Retain 25 years from incident, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Public Records Disclosure Request Records
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Unit:   Security Peer Audits
+
+Program Description
+Operations Division Security Peer Audits are used to measure security and operational
+compliance with best practice standards on a department-wide level. The purpose of the program
+is to ensure a high level of safety and control by measuring compliance using quality methods.
+Results of these audits are used by a variety of programs in different ways to assist the on-going
+completion of the agency mission.
+
+Program Records
+096 Operations Division Security Peer Audits Records
+(a) Retain final document 5 years, destroy.
+(b) Retain source and supporting documents showing application of rule or policy 3
+years, destroy
+(c) Retain working notes of auditors until creation of final report, destroy.
+(d) Retain all other records 1 year, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Special Housing
+
+Program Description
+Special Housing provides very secure and closely monitored housing for inmates who, for a
+variety of reasons, require more supervision than that in the general population housing units.
+Within Special Housing, there are Administrative Segregation, Disciplinary Segregation,
+Intensive Management, and Special Management capacities.
+
+Inmates placed in Administrative Segregation need to be isolated from the general population.
+Reasons for this segregation include that they have been threatened or that they are a potential
+threat to others.
+
+Inmates are placed in Disciplinary Segregation when they commit a rule violation. When an
+inmate is formally charged with a rule violation a hearing is held by a Hearings Officer from the
+Department of Corrections, Hearings program (see DOC, Central Administration, Hearings). The
+hearing determines whether the inmate will be segregated, the time period, and whether their
+custody level will be changed. In certain circumstances, an inmate may be segregated
+immediately without a hearing. Disciplinary Segregation sentences range from three days to one
+hundred eighty days. Inmates may be transferred to other special housing or returned to the
+general population.
+
+Intensive Management houses inmates who pose extreme security threats to the safety and
+security of the staff and other inmates. Inmates reside in maximum custody cells. Assignment to
+this unit is based on a cross-disciplinary assessment of the inmates risk level and treatment
+needs.  Each inmate is required to complete individual programming requirement prior to their
+release to general population.
+
+The Mental Health Infirmary houses inmates with severe mental illness and/or emotional
+disturbance, who are a danger to themselves and others, are unable to care for their basic needs
+or need a diagnostic evaluation and a medication adjustment. Inmates receive individual
+treatment and group counseling from DOC, Counseling and Treatment Services staff. The goal is
+to stabilize the inmate so that the inmate can receive treatment in regular housing.
+
+All routine activities in Special Housing such as meals and exercise are tightly controlled and
+documented. All aspects of security including entry and exit of inmates, staff and visitors, and
+incidents are also closely monitored.
+
+Program Records
+097 Deprivation Orders
+ Retain 3 years, destroy
+
+098 Special Housing Inmate Access to Services Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(c) Retain all other records 6 months, destroy of related process.
+099 Special Housing Inmate Behavior Records
+ Retain 5 years after release from unit without reactivity, destroy
+100 Inmate Housing Records
+(a) Retain final documents and supporting documentation showing application of rule or
+policy; 3 years from last action, destroy
+(b) Retain all other records 6 months, destroy
+101 Special Housing Inmate Placement Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support authorized
+correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 5
+years after last action, destroy
+(c) Retain all other records 6 months, destroy
+102 Special Housing Inmate Request Records
+(a) Retain final and supporting documentation showing application of rule, policy,
+procedure or post order; 3 years, destroy
+(b) Retain all other records 6 months, destroy
+103 Special Housing Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of program
+related activity; 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+104 Special Housing Security Records
+(a) Retain final and supporting documentation showing application of rule, policy,
+procedure or post order; 3 years, destroy
+(b) Retain records required for development of ongoing project or sustainability of program
+related activity; 3 years past conclusion of related process, destroy;
+(c) Retain all other records 6 months, destroy
+105 Special Housing Visiting Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records related to identifiable security concern or unresolved issue; 3 years from
+resolution, destroy;
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Public Records Disclosure Request Records
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement              Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Institutions
+Program:   Special Teams
+
+Program Description
+Special Teams is a combination of designated teams and functions within the Department of
+Corrections. Each of the individual elements has a specific mission or purpose relating to critical
+incidents and emergencies. These teams provide services and capabilities designed for response,
+resolution and recovery of individuals and institutions when faced with an incident. Most of the
+records created and maintained by the elements of this program are sensitive and confidential
+nature.
+
+Program Records
+106 Emergency Staff Services Records
+(a) Retain final and supporting documentation showing application of rule or policy 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of program
+related activity 3 years past conclusion of related process, destroy;
+(c) Retain all other records 6 months, destroy
+107 Tactical Emergency Response Team (TERT) and Crisis Negotiation Team (CNT)
+Records
+ (a) Retain final and supporting documentation showing application of rule or policy 3
+years, destroy
+ (b) Retain records required for development of ongoing project or sustainability of program
+related activity 3 years past conclusion of related process, destroy;
+ (c) Retain all other records 6 months, destroy
+108 Tactical Plans and Operational Procedure Records
+ Retain 10 years after superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Operations
+Functional Unit: Operations Policy
+Program:    Employee Payroll
+
+Program Description
+Employee Payroll manages records that document individual employee pay history. These
+records are also used in the development of staffing schedules and reports generated to support
+various other functions within the agency.
+
+Program Records
+109 Work Schedules and Assignment Records
+ Retain 4 years, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+Payroll Records OAR 166-300-0035
+Employee Time Records
+Leave Applications
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:  Public Services
+Functional Unit: Office of Project Management
+Program:   Project Management
+
+Program Description
+The Office of Project Management provides effective leadership, support and mentoring in the
+areas of project initiation, planning, execution, control and closing.  This may be a formal
+process, as would be found in large and complex projects, or much less formal as when
+providing guidance and oversight for smaller and less complex projects.  Assistance is available
+for those within the department who envision a project on the horizon but are unsure of the next
+steps to take.  The Projects Office is a service-oriented unit with the interests of the agency at its
+core.
+
+Once a business case has been established, the Office of Project Management partners with
+affected department staff to develop business needs, when necessary.  Project staff then unite
+with the stakeholders in planning, creating and implementing a solution that best meets business
+needs.  A critical factor in this process involves identifying and including those individuals who
+will be affected by the solution and working to ease the transition from old to new for those
+stakeholders.
+
+Program Records
+110 Program Management Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records documenting development of ongoing project or program related activity
+3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+111 Project Documentation Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records documenting development of ongoing project or program related activity
+3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Public Services
+Functional Unit: Public Affairs and Central Support Services
+Program:   Citizen Complaint
+
+Program Description
+The purpose of this program is to provide for the reporting, receipt, investigation, and resolution
+of citizen complaints concerning the Department of Corrections, its employees, and inmates and
+offenders under its jurisdiction.  The policy of the Department of Corrections is that citizen
+complaints about the Department of Corrections personnel, programs and operations shall be
+logged and promptly investigated. Corrective action shall be taken if indicated, and a response
+furnished to the complainant.
+
+Program Records
+112 Citizen Complaint Records
+ Retain 3 years from last action, destroy
+
+State Agency General Records Retention Schedule Records
+None
+
+Databases
+None
+
+Organizational Placement              Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Public Services
+Functional Unit: Community Development
+
+Program Description
+The Community Development Program focuses on working with communities selected to host
+new state prisons.  Program staff has worked to build effective relationships and partnerships
+with local officials and host communities since the selection of multiple sites in 1997.
+Community Development works internally with other department programs to provide
+information to the public, through construction and start-up of each new facility.  Program staff
+support the new prison as it starts-up and integrates in the community.
+
+Program Records
+113 Community Development Records
+Retain cultural and tribal resource studies, environmental studies, and traffic: for the life of
+the facility, destroy
+114 Construction Project Records
+(a) Retain regulatory compliance records, master planning documents, as-builts, property
+issue records, job close records: for the life of the facility, destroy
+(b) Retain sub-contractor bid, project budget records, and professional services
+prequalification records: 6 years after contract completed, destroy
+(c) Retain certified payroll records: 3 years, after substantial completion, destroy
+(d) Retain project scheduling, management, and meeting records: 4 years, destroy after
+substantial completion, destroy.
+(e) Retain all other construction project records: 12 years after substantial completion (as
+defined by ORS 12.135(3)) of project, destroy.
+115 Facility Siting Records
+(a) Retain preliminary sites: 5 years after site selection, destroy
+(b) Retain consideration sites: 5 years after final completion of future expansion project in
+nominated group or 5 years after final completion of project in nominated group,
+destroy
+(c) Retain final sites: for life of site ownership, destroy
+116 Proposed Facility Site Hearing and Comment Records
+(a) Retain hearing audiotapes: 1 year after summarized, destroy
+(b) Retain summary hearing logs: for the life of facility, destroy
+117 Proposed Facility Condition Letters and Accepted Conditions Records
+(a) Retain condition letters from public: until substantial completion (as defined by ORS
+12.135(3)) of facility, destroy
+(b) Retain accepted condition records: for life of site ownership, destroy
+118 Real Estate and Property Records
+Retain for life of site ownership, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement              Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Public Services
+Functional Unit: Public Affairs and Central Support Services
+Program:   Legal Affairs
+
+Program Description
+Legal Affairs tracks and monitor litigation against the agency. Designated Legal Information
+Officers assist a central coordinator in identifying and processing notices and requests related to
+this litigation. Designated individuals serve as agency liaisons that assist Department of Justice
+counsel representing the department in responding to legal requests and other actions relating to
+litigation as necessary and appropriate.
+
+Program Records
+119 Inmate Litigation Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support authorized
+correctional objectives as defined by OAR 291-070 to  the Official Inmate File
+(b) Retain precedent-setting litigation records: 20 years after case closed, destroy
+(c) Retain all other litigation records: 5 years after case closed, destroy
+120 Staff Litigation Records
+ Retain 20 years after case closed, destroy.
+121 TORT Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support authorized
+correctional objectives as defined by OAR 291-070 to  the Official Inmate File
+(b) Retain precedent-setting litigation records: 20 years after case closed, destroy
+(c) Retain all other TORT litigation records: 5 years after case closed, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Public Services
+Functional Unit: Public Affairs and Central Support Services
+Program:   Legislative Affairs
+
+Program Description
+Legislative Affairs manages the centralized process of preparing, tracking and maintaining key
+information and reports necessary to support business needs of the department. Records relating
+to this process are used to support ongoing policy development, modifications to approved plans
+and to provide historical perspective on trends for larger analysis. Research completed for a
+single bill or request is often used repetitively across a number of projects and processes
+spanning varying periods of time.
+
+Program Records
+122 Business Plan Records
+ (a) Retain final document: 25 years, destroy
+(b) Retain other records required for future research and development of concept or
+unresolved issue; 6 years after last action, destroy
+(c) Retain all other business plan records 1 year after final document produced, destroy
+123 Legislative Development Advisory Committee Records
+ Retain 6 years after last action, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Legislative Development Advisory Committee Records
+Legislative Tracking Records
+Mailing Lists
+Press Releases
+Staff Meeting Records
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Public Services
+Functional Unit: Public Affairs and Central Support Services
+Program:   Policy Development and Planning
+
+Program Description
+Policy Development and Planning oversees the development, planning, implementation,
+assessment, and review of the departments’ strategic and long-term goals through policies,
+programs, and activities. Records relating to this process are used to support ongoing policy
+development and modifications to approved policies and plans.  Records are retained to provide
+historical perspective on trends for larger analysis and prepare responses to information requests
+by the public, the legislature, other agencies and various business partners. Research completed
+for a policy related issues is often used repetitively across a number of projects and processes
+spanning varying periods of time.
+
+Program Records
+124 Policy Development and Planning Records
+(a) Retain final document and key documents associated with policy or planning; 10 years,
+destroy
+(b) Retain key documents required for ongoing research and development; 10 years after
+last action, destroy
+(c) Retain all other records 1 year, destroy
+125 Program Review Steering Committee Records, 1990 - 1992
+Retain permanently, transfer to State Archives.
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Agency Organizational Records
+Attorney General Opinions
+Calendars and Scheduling Records
+Mailing Lists
+Public Records Disclosure Request Records
+Staff Meeting Records
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Public Services
+Functional Unit: Public Affairs and Central Support Services
+Program:   Publications
+
+Program Description
+Publications is a decentralized process managed in multiple locations throughout the agency. A
+variety of publications are created for different purposes. A consistent standard is necessary to
+ensure that the use of those each publication is considered in management and retention of
+records related to its creation and distribution. Publications are often strictly informational. Other
+publications are used as the documentation of a valid written order issued to inmates. This
+documentation can be referenced during formal and informal disciplinary processes, and in
+response to inmate grievances.
+
+Program Records
+126 Employee Publications Records
+ Retain 1 year after publication, destroy
+127 Inmate Publications Records
+(a) Retain final draft and key supporting documents for publications containing directives;
+3 years after publication, destroy
+ (b) Retain all other records 1 year after publication, destroy
+128 Photographs, 1993 - 2000
+ Retain permanently, transfer to State Archives.
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+None
+
+Databases
+None
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Public Services
+Functional Unit: Research and Evaluation
+
+Program Description
+Research and Evaluation provides mission-critical information on offender populations, program
+performance and policy impact.  This research may be completed within existing resources or in
+cooperation with external partners. Information gathered is shared externally with members of
+the public, key stakeholders and business partners as appropriate.
+
+Program Records
+129 Research and Evaluation Records
+(a) Retain final document 25 years, destroy
+(b) Retain other records required for future research and evaluation 6 years after last action,
+destroy
+(c) Retain all other records 1 year after final document produced, destroy
+130 Annual Population Flow Reports, 1959 - 2000
+Retain permanently, transfer to State Archives.
+131 Population Profiles, 1908 - 2000
+Retain permanently, transfer to State Archives.
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Public Records Disclosure Request Records
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:  Transitional Services
+Functional Unit: Community Corrections
+
+Program Description
+Community corrections is a function of state government operated in partnership with local,
+county-operated community corrections agencies. Of Oregon's 36 counties, the Department of
+Corrections does operate community corrections in Linn and Douglas counties. Community
+corrections activities include supervision, community-based sanctions, and services directed at
+offenders who have committed felony crimes and have been placed under supervision by the
+courts (probation), the Board of Parole and Post-Prison Supervision, or the local supervisory
+authority (parole/post-prison supervision).
+
+Program Records
+132 Community Services Council Records, 1988 - 2000
+(a) Retain minutes 25 years, destroy
+(b) All other records, destroy
+133 Community Corrections Advisory Board Records, 1988 - 1996
+(a) Retain minutes permanently, transfer to State Archives
+(b) All other records, destroy
+134 County Jail Records (Senate Bill 1145)
+Retain for life of facility, destroy.
+135 Intermediate Sanction for Women Offender Policy Group Records, 1994 - 1995
+(a) Retain final report 25 years, destroy
+(b) All other records, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Transitional Services
+Functional Unit: Community Corrections
+Program:   Interstate Compact for Adult Offender Supervision (ICAOS)
+
+Program Description
+Interstate Corrections Compact administers the Department’s activities relating to the Interstate
+Compact for Adult Offender Supervision (ICAOS) for offenders on parole, post-prison
+supervision or probation.  The ICAOS provides for the movement and transfer of supervision
+offenders from the sending, or sentencing state to the receiving state where the offender wishes
+to reside.  ICO also participates as a member of the Interstate Commission for Adult Offender
+Supervision which is a nationwide group that develops and provides training, promulgates rules
+and oversees states’ compliance to the compact.
+
+The Compact sets guidelines by which convicted felons, who are under supervision, can move
+from the state in which they were convicted (sending state) to another state (receiving state). This
+agreement allows certain offenders to be supervised by the receiving state which can impose any
+conditions of supervision necessary to provide for the safety of the public.  Records relating to
+the transfer of offenders are entered into the offender case record, the Corrections Information
+System, and the Interstate Compact database, which documents arrangements for allowing the
+offenders to live in another state.
+
+Program Records
+136 Extradition Records
+(a) Transfer signed, notarized or otherwise certified  records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to  the Official Inmate
+File
+(b) Retain final documents and supporting documentation showing application of rule or
+policy 3 years from last action, destroy
+(c) Retain all other records 6 months, destroy
+137 Interstate Compact for Adult Offender Supervision Program Administration
+Records
+(a) Retain final and supporting documentation showing application of rule or policy 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity 3 years past conclusion of related process, destroy;
+(c) Retain all other records 6 months, destroy
+138 Interstate Compact for Adult Offender Supervision Agreements Conditions and
+Orders Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final documents and supporting documentation showing application of rule or
+policy 3 years from last action, destroy
+ (c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Signature Authorizations
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Transitional Services
+Functional Unit: Offender Information and Sentence Calculation (OISC)
+Program:   Official Inmate Files
+
+Program Description
+The Offender Information and Sentence Computation (OISC) program is responsible for the
+development and maintenance of the Official Inmate File and the sentence calculation for
+approximately 13,000 inmates incarcerated under DOC’s authority at all of the state operated
+institutions.  OISC maintains the data responsible for determining each inmate’s release date in
+the Official Inmate File.  This information can be descriptive data, legal documents and program
+information.  The sources for this information include the Board of Parole and Post Prison
+Supervision, the Oregon Department of Justice, Attorney General’s Office, and federal, state,
+and county law enforcement agencies.
+
+OISC provides testimony in court; prepares and distributes information within the department, to
+the Board of Parole and Post-Prison Supervision, the Oregon State Police; the public and inmates
+based on the information found in the Official Inmate File. This unit also receives and processes
+formal and informal requests for inmate and offender information from government agencies, the
+courts, and the general public based on these files.
+
+Program Records
+139 Assignment Records
+ Retain permanently, transfer to State Archives 75 years after discharge of custody cycle
+140 Authorizations
+ Retain 3 years after discharge of custody cycle, destroy
+141 Case History Records
+(a) Retain Pre Sentence Investigation (PSI) permanently, transfer to the State Archives 75
+years after discharge of custody cycle
+(b) Retain all other records 3 years after discharge of custody cycle, destroy
+142 Classification Records
+ Retain 3 years after discharge of custody cycle, destroy
+143 Correspondence (Significant)
+ Retain 3 years after discharge of custody cycle, destroy
+144 County Misconduct Records
+ Retain 3 years after discharge of custody cycle, destroy
+145 Detainers
+(a) Retain Judgments permanently, transfer to State Archives 75 years after discharge of
+custody cycle.
+(b) Retain all other records 3 years after discharge of custody cycle, destroy
+146 Disciplinary Records
+ Retain permanently, transfer to State Archives 75 years after discharge of custody cycle
+
+147 Escapes
+ Retain permanently, transfer to State Archives 75 years after discharge of custody cycle
+148 Facesheets
+(a) Retain first and last facesheet permanently, transfer to State Archives 75 years after
+discharge of custody cycle
+ (b) Retain all other records 3 years after discharge of custody cycle, destroy
+149 Health Status Reports
+ Retain 3 years after discharge of custody cycle, destroy
+150 Identification Documents
+(a) Retain photographs, mugshots and tattoos permanently, transfer to State Archives 75
+years after discharge of custody cycle
+ (b) Retain all other records 3 years after discharge of custody cycle, destroy
+151 Leaves/Transfer Records
+ Retain 3 years after discharge of custody cycle, destroy
+152 Legal
+(a) Retain Judgments permanently, transfer to State Archives 75 years after discharge of
+the custody cycle
+(b) Retain all other records 3 years after discharge of the custody cycle, destroy
+153 Notifiers
+ Retain 3 years after discharge of custody cycle, destroy
+154 Parole Records
+(a) Retain Certificates of Discharge and closing summary permanently, transfer to State
+Archives 75 years after discharge of custody cycle
+(b) Retain all other records 3 years after discharge of the custody cycle, destroy
+155 Prison Term Modification Records
+ Retain 3 years after discharge of custody cycle, destroy
+156 Probationary Case History Records
+(a) Retain Certificates of Discharge and Judgements permanently, transfer to State
+Archives 75 years after discharge of custody cycle
+(b) Retain all other records 3 years after discharge of custody cycle, destroy
+157 Program Participation Records
+ Retain 3 years after discharge of custody cycle, destroy
+158 Supplementary Inmate Forms
+ Retain 3 years after discharge of custody cycle, destroy
+159 Visiting Records
+ Retain 3 years after discharge of custody cycle, destroy
+160 Work History Records
+ Retain 3 years after discharge of custody cycle, destroy
+
+State Agency General Records Retention Schedule Records
+None
+
+Databases
+AS/400
+
+ Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Transitional Services
+Functional Unit: Religious Services
+
+Program Description
+Religious Services provides a wide continuum of religious worship services, study programs,
+music programs, serious illness/death notifications, and pastoral counseling opportunities to meet
+the constitutional and legal mandates of the U.S. Constitution, Oregon State Constitution and
+judicial decisions.
+
+Religious Services has become an essential part of an integrated program system for change.
+Through its chaplains and volunteers, Religious Services provides mandated and innovative
+services in a cost-effective manner.
+
+Program Records
+161 Religious Service Inmate Specific Records
+ Retain 3 years from last action, destroy
+162 Religious Services Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of program
+related activity; 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Signature Authorizations
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Transitional Services
+Functional Unit: Religious Services
+Program:   Home for Good
+
+Program Description
+Home for Good utilizes strategic partnerships between state, faith and community based
+organization to build a seamless system of support, guidance, training and resources that
+promotes the successful restoration of people from prison back to their families and
+communities.
+
+This program has created a model re-entry program that is structured on three organizational and
+programmatic building blocks that are described below. In each of these three blocks there are
+opportunities for volunteers to help reduce Oregon's rate of recidivism and make Oregon's
+communities both safer and more compassionate.
+
+Program Records
+163 Home for Good Program Administration Records
+ (a) Retain final and supporting documentation showing application of rule or policy; 3
+ years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+164 Home for Good Inmate Specific Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years after last action, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Transitional Services
+Functional Unit: Religious Services
+Program:   Volunteer Services
+
+Program Description
+Volunteer Services is managed by the Religious Services program.  This program allows
+members of the community to provide spiritual services to inmates within the institutions.  The
+Department relies on Religious Services staff, chaplains, and volunteers to conduct the proper
+services and provide spiritual counseling for the inmates.  The records documenting these
+activities are entered into the CIS system. Information regarding volunteers is entered into
+VIMS.
+
+Program Records
+165 Volunteer Services Inmate Specific Records
+(a) Retain records documenting on-going services 5 years after conclusion of related
+process, destroy
+(b) Retain all other records 5 years, destroy
+166 Volunteer Services Program Administration Records
+(a) Retain records required for development of ongoing project or sustainability of program
+related activity; 5 years past conclusion of related process, destroy
+(b) Retain all other records 3 years, destroy.
+167 Volunteer Services Volunteer Specific Records
+ Retain individual volunteer records 10 years after separation, destroy.
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+ Organizational Placement Schedule Number: 2010-0003
+Agency:    Department of Corrections
+Division:   Transitional Services
+Functional Unit: Workforce Development
+Program:   Alcohol and Drug Programs
+
+Program Description
+The programs are designed and implemented around cognitive-behavioral models of
+intervention, and incorporate social-learning practices to prepare clients to re-enter mainstream
+society.
+
+Services are delivered in a manner consistent with the cognitive ability and learning style of the
+individuals in treatment, and, whenever possible, the programs include family and significant
+others in the treatment process.
+
+Program Records
+168 Alcohol and Drug Clinical Records
+ Retain 7 years after completion of program, destroy
+169 Alcohol and Drug Inmate Performance Records
+(a) Transfer signed, notarized or otherwise certified  records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to  the Official Inmate
+File
+(b) Retain final and supporting documentation showing application of rule or policy;
+3 years after program completion or completion of specific curriculum, destroy
+(c) Retain all other records 6 months, destroy
+170 Alcohol and Drug Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity; 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy.
+171 Alcohol and Drug Program Review and Appeals Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+172 Alcohol and Drug Program Terminations and Withdrawal Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+ Organizational Placement Schedule Number: 2010-0003
+Agency:    Department of Corrections
+Division:   Transitional Services
+Functional Unit: Workforce Development
+Program:    Alternative Incarceration Programs
+
+Program Description
+Alternative Incarceration Programs offered by the Oregon Department of Corrections (DOC) to
+selected inmates who are at risk of reoffending due to untreated addictions and criminal
+thinking.  The primary components of these program are:  Cognitive Change, Education,
+Substance Abuse Education, Physical Work and Exercise, Decision Making, Anger
+Management, Spiritual Wellness, and Teamwork.
+
+Offenders volunteer for the program, which begins with a 6-month institutional phase, and are
+motivated to do so in that, upon successful completion, they are released to a 90-day transitional
+leave in the community, then to post-prison supervision with an early release from prison.  The
+program and sentence reduction were established by Oregon Law.
+
+The goal of Alternative Incarceration Programs is to assist offenders in developing socially
+acceptable tools to succeed as citizens in our communities.
+
+Program Records
+173 Alternative Incarceration Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy.
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity; 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+174 Alternative Incarceration Program Inmate Performance Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from program completion, destroy
+(c) Retain all other records 6 months, destroy
+175 Alternative Incarceration Program Inmate Placement Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to  the Official Inmate
+File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from program completion, destroy
+(c) Retain all other records 6 months, destroy
+
+176 Alternative Incarceration Program Review and Appeals Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+177 Alternative Incarceration Program Terminations and Withdrawal Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+178 Transitional Leave Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from program completion, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+ Organizational Placement     Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Transitional Services
+Functional Unit: Workforce Development
+Program:   Children of Incarcerated Parents
+
+Program Description
+The Children of Incarcerated Parents Project is designed to help break the intergenerational cycle
+of criminality.  The project has developed research-based parent management skills training
+program (PMT) targeted to the unique needs of inmate parents. This 90 hour parent education
+program, "Parenting Inside Out", is offered in multiple prisons.   Evaluation of the long-term
+effects of the parenting program is being conducted to help find the best ways to
+strengthen family ties in support of the Oregon Accountability Model and to
+help break the intergenerational cycle of criminality.
+
+Program Records
+179 Children of Incarcerated Parents Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy.
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+180 Children of Incarcerated Parents Program Inmate Performance Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy 3
+years after program completion, or completion of specific curriculum, destroy
+(c) Retain all other records 6 months, destroy
+181 Children of Incarcerated Parents Program Reviews and Appeals Records
+(a) Transfer signed, notarized or otherwise certified  records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+182 Children of Incarcerated Parents Program Termination and Withdrawal Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Transitional Services
+Functional Unit: Workforce Development
+Program:   Cognitive Programs
+
+Program Description
+Cognitive Programs focus on cognitive skills development that provide inmates with the tools for
+changing acquired behaviors through restructuring the thought processes so they may function as
+responsible and accountable members of a workforce, family, and community.  These programs
+are offered through different program options in multiple institutions throughout the state.
+
+Program Records
+183 Cognitive Programs Inmate Performance Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years after program completion, or completion of specific curriculum, destroy
+(c) Retain all other records 6 months, destroy
+184 Cognitive Programs Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+185  Cognitive Programs Review and Appeal Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+186 Cognitive Programs Termination and Withdrawal Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Transitional Services
+Functional Unit: Workforce Development
+Program:   Educational Programs
+
+Program Description
+Educational Programs offer curriculum and coursework through a number of program titles.
+These include Adult Basic Skills Development, English as a Second Language, Functional
+Literacy, General Education Development and Special Education.  One of the main goals of
+these programs is to improve the ability of inmates to gain employment and be successful upon
+release.  Studies indicate these types of programs can result in a significant reduction of
+recidivism rates, lower crime rates and lower costs associated with building and staffing prisons.
+
+Program Records
+187 Educational Programs Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of
+program related activity 3 years past conclusion of related process, destroy
+(c) Retain all other records 6 months, destroy
+188 Educational Programs Inmate Performance Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years after program completion or completion of specific curriculum, destroy
+(c) Retain all other records 6 months, destroy
+189 Educational Programs Review and Appeal Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy (c) Retain all other records 6 months, destroy
+190 Educational Programs Termination and Withdrawal Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+191 Special Education Inmate Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support
+authorized correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 7
+years from program completion, or completion of specific curriculum, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+Organizational Placement Schedule Number: 2010-0003
+Agency:   Department of Corrections
+Division:   Transitional Services
+Functional Unit: Work Force Development
+Program:   Work Based Education
+
+Program Description
+Work Based Education encompasses a variety of programs designed to develop specific skills
+that will assist inmates in obtaining employment following release. Many of the programs
+include training and production components that benefit the institution or provide a service for
+pay. Examples of programs in this category include Automotive Technologies, Computer
+Technologies, Construction Technology, Welding and Hair Design.
+
+Program Records
+192 Work Based Education Inmate Performance Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support authorized
+correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years after program completion, or completion of specific curriculum, destroy
+         (c) Retain all other records 6 months, destroy
+193 Work Based Education Program Administration Records
+(a) Retain final and supporting documentation showing application of rule or policy; 3
+years, destroy
+(b) Retain records required for development of ongoing project or sustainability of program
+related activity 3 years past conclusion of related process, destroy;
+(c) Retain all other records 6 months, destroy
+194 Work Based Education Reviews and Appeals Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support authorized
+correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+195 Work Based Education Terminations and Withdrawals Records
+(a) Transfer signed, notarized or otherwise certified records necessary to support authorized
+correctional objectives as defined by OAR 291-070 to the Official Inmate File
+(b) Retain final and supporting documentation showing application of rule or policy; 3
+years from last action, destroy
+(c) Retain all other records 6 months, destroy
+
+State Agency General Records Retention Schedule Records
+Records include, but are not limited to:
+Administrative Records OAR 166-300-0015
+Calendars and Scheduling Records
+Mailing Lists
+Staff Meeting Records
+
+Databases
+AS/400
+
+## Cross-references
+
+General records retention schedules cited in the text above. These are OAR
+chapter 166 rules and live verbatim in the sibling corpus
+[OregonAI/executive-regulatory-frameworks](https://github.com/OregonAI/executive-regulatory-frameworks);
+they are referenced here as citations, never copied (see AGENTS.md).
+
+Reproduced exactly as the source schedule cites them. A few are stale upstream —
+the rule was renumbered or repealed after this schedule was published — so a
+citation here is not a guarantee the rule still exists. Resolving one reports
+the difference: a live rule returns a title and link, a stale one reports that
+the sibling corpus holds no such document.
+
+- OAR 166-300-0015
+- OAR 166-300-0020
+- OAR 166-300-0030
+- OAR 166-300-0035
+- OAR 166-300-0040
+
+## Provenance & change history
+
+- Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-corrections.pdf> · retrieved 2026-07-25 · sha256 `bc0d76e74c29ceb0aa53336d76d75aca837d6f2ba82baedebbf39a2abeb5225f`
+- Snapshot: `_meta/snapshots/schedule-corrections.txt` (extracted text) and `_meta/snapshots/schedule-corrections.pdf` (raw source, 79 pages).
+- Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 79 pages. Stripped repeated running-header lines: "Edition: March 2011"; "Oregon State Archives"; "Records Retention Schedule". Stripped 78 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
+- See [CHANGELOG](../CHANGELOG.md).

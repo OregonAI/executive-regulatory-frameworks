@@ -1,0 +1,620 @@
+Water Resources Department
+Records Retention Schedule 2023-0003
+Effective Date: September 2023
+Table of Contents
+Director’s Office ........................................................................................................................... 2
+Administrative Services .............................................................................................................. 4
+Field Services ............................................................................................................................... 6
+Technical Services ....................................................................................................................... 8
+Water Rights ............................................................................................................................... 16
+
+2
+Agency:  Water Resources Department
+Division:  Director’s Office
+
+Program Description
+The Director’s Office of the Water Resources Department is responsible for making
+policy, representing the Department to the Legislative Assembly, and working with
+the Water Resources Commission. The Director’s Office makes plans, establishes
+policies, and oversees special projects to carry out the mission of the Department.
+The focus of a majority of the Director Office’s efforts are on departmental
+relationships that are external to the agency, while the Deputy Directors are focused
+on the day-to-day internal operations. The Director’s Office also oversees the
+Administrative Rules Coordination program that is responsible for preparing
+administrative rules for filing with the Secretary of State and the Legislative
+Coordination program that is responsible for drafting, submitting, and tracking
+legislation that affects the agency.
+
+This office also incorporates the special program overlooking Indian Water Right
+Negotiations. The Indian Water Right Negotiations program is responsible for
+conducting negotiations with any federally recognized Indian tribe claiming a federal
+reserved water right in Oregon. The purpose of the negotiation is to define the scope
+and attributes of rights claimed by such tribes.
+
+Program Records
+001  Indian Water Right Negotiated Settlements, 1991 – [ongoing]  2 c.f.
+Retain permanently, transfer to State Archives when court agreement is
+repealed or rescinded, and the court authorizes the removal from Department
+records
+002  Indian Water Right Negotiation Records, 1991 - [ongoing]  4 c.f.
+(a) Retain minutes permanently, transfer to State Archives 5 years after issuance
+of final Court decree approving agreement
+(b) Retain all other material permanently, transfer to State Archives when court
+agreement is repealed or rescinded, and the court authorizes the removal from
+Department records
+003  Water Basin Planning Records, 1986 – [ongoing]     2 c.f.
+Retain permanently, transfer to State Archives 5 years after Basin Plan adopted
+
+State Agency General Records Retention Schedule Records
+Including but not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Attorney General Opinions
+Correspondence
+Legislative Tracking Records
+
+3
+Mailing Lists
+Policy Development and Planning Records
+Press Releases
+
+Systems of Record
+None
+
+4
+Agency:  Water Resources Department
+Division:  Administrative Services
+
+Program Description
+The Administrative Services Division includes sections for Business Services,
+Employee Services and Information Services.
+
+The Business Services section is responsible for the business support services for the
+agency. The section is responsible for establishing and monitoring internal controls
+related to the safekeeping of assets, maintaining all department records, developing,
+and monitoring the budget, ensuring compliance with procurement law, the
+administration of contracts, mailroom processing, facilities coordination, inventory
+control, accounting, and financial reporting. The section is responsible for the Water
+Development Loan Program records, a now defunct program whose records
+sometimes include deeds and other important establishing documents.
+
+The Employee Services section activities include recruitment and selection, employee
+development, safety, new employee orientation, position classification and
+compensation, and personnel records maintenance. Other responsibilities of the
+section include the coordination of payroll and benefits administration, collective
+bargaining agreement administration, and risk management.
+
+The Information Services section is responsible for operation support, development,
+and maintenance of the department’s software applications, and user support for
+agency-wide electronic information systems. The section coordinates the acquisition
+of system hardware for the department and installs, configures, and maintains
+hardware in operating systems agency wide. The section provides technical advice
+and assistance to agency staff including troubleshooting, problem solving, and
+training on operating systems and hardware.
+
+Many of the above referenced services are also provided to the Oregon Watershed
+Enhancement Board (OWEB) under a shared services contractual agreement.
+
+Program Records
+004  Bond Sale Records
+Retain 6 years after bonds repaid, destroy
+005  Water Development Loan Case Files
+(a) Retain Water Development Loan Litigation Records 20 years after final
+resolution, destroy
+(b) Retain Borrower’s Loan Certificates 6 years after loan paid off or deemed
+uncollectible, destroy
+(c) Retain denied or withdrawn applications 2 years, destroy
+(d) Retain all other records 10 years after loan paid off or deemed
+uncollectible, destroy
+
+5
+State Agency General Records Retention Schedule Records
+Including but not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Contracts and Agreements
+Correspondence
+Mailing Lists
+Policy and Procedure Guidelines and Manuals
+Postal Records
+Facilities/Property Records (OAR 166-300-0020)
+Asset Inventory Reports
+Equipment Maintenance Records
+Equipment/Property Disposition Records
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+Account Transfer Records
+Accounts Payable Reports
+Accounts Receivable Reports
+Audit Reports
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Maintenance Records
+Computer System Program Documentation Records
+Computer System Security Records
+Forms Development Records
+Information System Planning and Development Records
+Personnel Records (OAR 166-300-0040)
+Employee Personnel Records
+
+Systems of Record
+None
+
+6
+Agency:  Water Resources Department
+Division:  Field Services
+
+Program Description
+The Field Services division is responsible for carrying out the field activities of the
+Department, including all watermaster duties. Staff work from regional and
+watermaster offices across the state. Field activities include water distribution among
+water right holders, dam safety inspections, hydrologic data gathering, on-site
+inspections, reviewing and commenting on water right and transfer applications and
+providing local public contact either through correspondence or personal contact.
+The watermasters and well inspectors also provide primary enforcement of water laws
+in the state. Field staff include well inspectors and hydrographic technicians. All field
+staff record events and data from personal contacts, inspections, and measurements
+in a variety of ways, including paper and digital diaries, and inspection and
+measurement forms (paper and digital) for future reference.
+
+The well inspectors, and occasionally the watermasters, also record well data
+collected in the field on the Well Inspection Form. Historically this was a paper form,
+and now it is in digital format. The Well Inspection data are then entered into the
+WELL INSPECTION Database, which is maintained by the Enforcement program (see
+Technical Services Division, Enforcement section for separate description). The
+hydrographic technicians’ records are retained by the Surface Water program (see
+Technical Services, Surface Water section for program description). Watermaster
+reviews of new applications are retained by the Water Right Certification program
+(see Water Rights and Adjudications section for Water Right Examiner Certification
+program description).
+
+Program Records
+006  Voluntary Compliance Case Files
+Retain 5 years, destroy
+007  Watermaster/Well Inspector Diaries
+Retain 10 years, destroy
+008  Well Inspection and Monitoring Records
+Retain until superseded or obsolete, destroy
+009  Working Maps (Watermaster and Operational)
+Retain until superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Including but not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Mailing Lists
+
+Systems of Record
+
+7
+WELL INSPECTION
+
+8
+Agency:  Water Resources Department
+Division:  Technical Services
+Section:  Dam Safety
+
+Program Description
+The Dam Safety program maintains an active inventory of all dams that are not under
+Federal jurisdiction in the state that exceed statutory height and size limits. Dam
+safety maintains limited information on Federal dams, and that information is often
+not up to date. The program maintains files on non-Federal dams that may include
+original design drawings and specifications for each dam, if those documents exist.
+The dam safety file may contain as-built drawings for these dams if they were
+provided by the owner or owner’s engineer. These records maintained by dam safety
+may be the only design records available.
+
+Program Records
+010  Dam Failure Investigations       1 c.f.
+Retain permanently, transfer to Archives 5 years after dam removed
+011  Dam Inventory Records
+Retain until superseded, destroy
+012  Dam Safety File Records        1 c.f.
+(a) Retain approved design drawings, specifications, analyses, and plans
+including as-builts permanently, transfer to Archives 5 years after dam
+removed
+(b) Retain all other records 5 years after dam removed or not approved,
+destroy
+013  Emergency Action Plans
+Retain until superseded, obsolete, or dam removed, whichever is shorter,
+destroy
+
+State Agency General Records Retention Schedule Records
+Including but not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Systems of Record
+NATIONAL INVENTORY OF DAMS (NATDAM)
+
+9
+Agency:  Water Resources Department
+Division:  Technical Services
+Section:  Enforcement
+
+Program Description
+The Enforcement program is responsible for enforcing laws and rules applicable to
+the licensing of water well drillers and the construction, licensing, and identification of
+water wells after field staff tries informal efforts of achieving compliance. The
+watermaster (see Field Services division for separate description) provides informal
+efforts of applicable rules and laws and maintains those records until formal action is
+required. When the case is referred to Enforcement, the local watermaster forwards
+related case material. The Enforcement program reviews the material and evidence
+and issues a proposed order. If no hearing is requested, a final order is issued and
+actions relating to the final order may begin to ensure compliance. If a contested case
+hearing is requested, the entire case file is referred to the Office of Administrative
+Hearings where contested cases may result in civil penalties.
+
+Program Records
+014  Unappealed Formal Enforcement Case Files
+Retain 10 years after final order compliance, destroy
+
+State Agency General Records Retention Schedule Records
+Including but not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Mailing Lists
+
+Systems of Record
+None
+
+10
+Agency:  Water Resources Department
+Division:  Technical Services
+Section:  Groundwater
+
+Program Description
+The Groundwater section is the primary entity responsible for collecting groundwater
+data statewide, organizing and interpreting that data, and applying that data and
+information to support analysis of groundwater right transactions, distribution and
+regulation of groundwater, and planning efforts to meet future groundwater needs.
+This includes the programs areas: Critical Groundwater, Aquifer Storage and
+Recovery, Resource Assessments, and Local Groundwater Problem Resolution.
+
+The Critical Groundwater program monitors and manages underground water
+resources to preserve water quantity. There are three kinds of groundwater areas:
+unregulated, limited groundwater, and critical groundwater areas. The program
+issues Critical Area Orders to designate a groundwater area as critical. These orders
+are used by the Water Rights Division as a restriction for allocating permits in critical
+groundwater areas.
+
+The Aquifer Storage and Recovery (ASR) program provides licensing, permitting, and
+project tracking oversight for the artificial storage of water underground.
+
+The Groundwater Resource Assessment program studies and evaluates information
+about water resource conditions and classifies areas for types of water use allowed. In
+addition, the program develops data and analysis to support restrictively classifying
+water uses in various areas when needed.
+
+The Local Groundwater Problems Resolution program consults with federal, state and
+local agencies, and water users on issues related to protection and management of
+groundwater and surface water. Program staff also consult with local planners to
+assure that plans for local development are compatible with the capacity of
+groundwater resources. In addition, staff help resolve disputes among local water
+users.
+
+Program Records
+015  Aquifer Storage and Recovery Application Files
+Retain 5 years after application denied or inactive, destroy
+016  Aquifer Storage and Recovery Pre-application Consultation Files
+Retain 5 years after application denied or inactive, destroy
+017 Local Government Correspondence Files
+Retain 10 years, destroy
+018  Mine Case Files
+Retain 10 years after mine closed and liability issues resolved, destroy
+019  Permit Condition Files
+
+11
+Retain 6 months after Certificate is issued or Permit is no longer valid, and data
+is entered into GWIS, destroy
+020  Power Use Records
+Retain 10 years after life of critical area aquifer, destroy
+021  Pump Test Records
+(a) Retain compilation until aquifer no longer used, destroy
+(b) Retain all other records 10 years, destroy
+022  Water Level Records
+Retain 10 years after life of critical area aquifer, destroy
+023  Water Use Records
+Retain 10 years after life of critical area aquifer, destroy
+
+State Agency General Records Retention Schedule Records
+Including but not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Systems of Record
+GWIS
+WATER LEVEL
+WELL LOCATION
+
+12
+Agency:  Water Resources Department
+Division:  Technical Services
+Section:  Surface Water
+
+Program Description
+The Surface Water section overlooks the following programs: Hydrographic Analysis
+and Publication, Evapotranspiration and Water Use, Hydrologic Studies, and Surface
+Water Availability.
+
+The Hydrographic Analysis and Publication program is responsible for analyzing and
+producing  surface water flow data at gages and miscellaneous measurement
+locations. This program receives data collected by field staff in the regional offices
+(see Field Services division for separate description) and from federal natural
+resource agencies and analyzes this information to use in water management
+decisions.
+
+The Evapotranspiration and Water Use Program is responsible for developing,
+collecting, and compiling data associated with water use. The Evapotranspiration
+data may involve data from Federal partners or contractors that the Department
+intakes, analyzes, and reports out in other formats. The Water Use data may be
+reported by the public, staff, or public entities.
+
+The Hydrologic Studies program analyzes data collected by Department staff, federal
+agency partners (e.g., USGS, BOR), or other technical partners (e.g., watershed
+councils, tribes) to assess and provide important information for decision making
+within the Department.
+
+The Surface Water Availability program assesses surface water availability in rivers
+and streams. Stream gaging, climatic and topographical data is gathered by federal
+and state agencies and compiled by Department staff. Information developed by the
+program is used by Water Rights staff to analyze water availability, issue water use
+permits, and update basin rules on future water uses.
+
+Program Records
+024  Climatological Records
+Retain 200 years, destroy
+025  Gage Height Books
+Retain 200 years, destroy
+026  Gaging Station Records
+Retain 200 years, destroy
+027  Hydrographic Transmittal Forms
+Retain 2 years, destroy
+028  In-stream Water Availability Records
+Retain until superseded, destroy
+
+13
+029  Water Availability Reporting System Records
+Retain until superseded, destroy
+030  Water Measurement Records
+Retain 200 years, destroy
+031  Water Stage Charts
+Retain 200 years, destroy
+032  Water Use Reports, 1988 – [ongoing]      4 c.f.
+Retain permanently, transfer to State Archives after 10 years and WRD statute
+(ORS 536.040 (3)) has been amended to allow custody transfer
+
+State Agency General Records Retention Schedule Records
+Including but not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Systems of Record
+CONDITIONS
+HYDROGRAPHICS
+PUMP TEST
+WATER AVAILABILITY REPORTING SYSTEM (WARS)
+WATER USE REPORTING SYSTEM (WURS)
+
+14
+Agency:  Water Resources Department
+Division:  Technical Services
+Section:  Wells
+
+Program Description
+The Wells Section oversees the Well Identification, Well Construction, Special
+Standards, Well Driller Continuing Education, Well Driller Licensing, Geotechnical
+Hole Program, Well Report Review Program, Exempt Use Well Registration Program,
+and Landowner Well Construction Permit issuance.
+
+The Well Identification Program is responsible for assigning a unique well label to
+Landowners and Well Drillers to ensure that the Water Supply Well Report,
+maintained by the Well Construction Program, can be linked to the well (ORS
+537.765 and 537.791). All documentation is maintained by the Well ID Specialist.
+
+The Well Construction Program ensures that licensed well constructors comply with
+well construction standards to help protect the groundwater resource from
+contamination and waste. Additionally, the Well Construction Program reviews all
+special standard requests and maintains all associated documentation.
+
+The Well Driller Licensing Program is responsible for proctoring driller exams, as well
+as licensing water well and monitoring well drillers and maintaining all corresponding
+documentation. The program is also responsible for reviewing and issuing landowner
+construction permits to landowners who wish to construct their own well. Permits
+require a $500 fee and surety bond. Finally, the licensing program supports the Well
+Construction Continuing Education Committee and is charged with entering
+continuing education credits into the Department’s database.
+
+The Geotechnical Hole Program reviews geotechnical hole reports and invoices the
+responsible professionals for all reports submitted to the Department. Reports and
+invoices are maintained by the Geotechnical Hole Program Coordinator.
+
+The Well Report Review Program performs technical well report reviews on all water
+supply well and monitoring well reports submitted and provides feedback to the well
+constructor.
+
+The Exempt Use Well Registration Program requires a map of the location of a well
+within a tax lot and a $300.00 fee to support research and management of
+groundwater resources. Maps are made available to the public within the well report
+query database.
+
+Program Records
+033  Land Owner Permit Records
+Retain 10 years after well completed, destroy
+
+15
+034  Special Standards Requests
+Retain 100 years after water supply ceases, destroy
+035  Start Card Records
+Retain 60 years, destroy
+036  Water Supply Well Report, 1898 – [ongoing]      4 c.f.
+Retain permanently, transfer to the State Archives 10 years after water supply
+ceases
+037  Well Driller Licensing Records
+Retain 10 years after license expires, destroy
+038  Well Identification Application Records
+(a) If associated Water Supply Well Report is unidentified, retain 10 years after
+identification number assigned, destroy
+(b) If associated Water Supply Well Report is identified, retain 2 years after
+identification number assigned, destroy
+
+State Agency General Records Retention Schedule Records
+Including but not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Mailing Lists
+Publication Preparation Records
+
+Systems of Record
+WELL CONSTRUCTOR’S LICENSING
+
+16
+Agency:  Water Resources Department
+Division:  Water Rights
+Section:  Water Right Transfers and Conservation
+
+Program Description
+The Transfer and Conservation Section is responsible for overseeing the process of
+transferring water right certificates, permit amendments, instream leasing allocations
+of conserved water, and Water Management and Conservation Plans.
+
+Transfer application files are valuable resources in water right research to establish
+location and ownership of a water right. In many cases, a transfer application, whether
+approved or rejected, can aid in determining the location of adjacent water rights. In
+addition, records of previous transfers are used to reconcile discrepancies in the
+water right records.
+
+The Allocation of Conserved Water program is to promote the efficient use of water
+in order to satisfy current and future needs – both in-stream and out-of-stream. The
+program accomplishes this by allowing a water user, who conserves water, to use a
+portion of the conserved water on additional lands, lease or sell the water, or
+dedicate the water to in-stream use. In exchange for granting the user of the right to
+“spread” a portion of conserved water to new uses, the law requires allocation of a
+portion to the state for in-stream use. Use of this program is voluntary and provides
+benefits to both water right holders and in-stream values. The program coordinates
+with the Administrative Rules Coordination program (see Director’s Office division for
+separate description) to develop the administrative rules regulating the Allocation of
+Conserved Water program.
+
+Program Records
+039  Allocation of Conserved Water Orders, 1987 – [ongoing]  1 c.f.
+Retain permanently, transfer to State Archives after 10 years and WRD statute
+(ORS 536.040 (3)) has been amended to allow custody transfer
+040  Allocation of Conserved Water Orders Background Records, 1987 –
+[ongoing]                1 c.f.
+Retain permanently, transfer to State Archives after 10 years and WRD statute
+(ORS 536.040 (3)) has been amended to allow custody transfer
+041  Temporary In-stream Water Right Lease Records
+Retain 20 years after lease expires, destroy
+042  Temporary In-stream Water Right Orders, 1987 – [ongoing]         12.5 c.f.
+Retain permanently, transfer to State Archives after 10 years and WRD statute
+(ORS 536.040 (3)) has been amended to allow custody transfer
+043  Transfer Application Records, 1975 – [ongoing]              7 c.f.
+(a) Retain Transfer Applications permanently, transfer to State Archives after 10
+years and WRD statute (ORS 536.040 (3)) has been amended to allow custody
+transfer
+
+17
+(b) Retain Temporary Transfer Applications 20 years after Transfer Special
+Order expires, destroy
+044  Water Management and Conservation Plans
+Retain until superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Including but not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Mailing Lists
+
+Systems of Record
+INSTREAM
+TRANSFER
+WATER MANAGEMENT AND CONSERVATION
+WATER RIGHTS INFORMATION SYSTEM (WRIS)
+
+18
+Agency:  Water Resources Department
+Division:  Water Rights
+Section:  Water Rights and Adjudications
+
+Program Description
+This section oversees the following programs: Water Right Examiner Certification,
+Applications, Adjudications, and Hydroelectric Licensing.
+
+The Certificate Section is responsible for reviewing Final Proof Surveys and Claims of
+Beneficial Use. When a permit holder or transferred water right holder completes the
+development of the water right and seeks a water right certificate, a certified Water
+Right Examiner prepares a Claim of Beneficial Use and a map of the project and
+submits it to the Certificate Section for review. This program ensures that the permit
+or transferred water right that is developed is in conformance with the water use or
+transfer final order and any relevant final orders issued by the Department. If the
+water use is in conformance then the staff prepares and issues a Water Right
+Certificate specifying the parameters and limitations of the water right.
+The Certificate Section is responsible for preparing, proctoring and evaluating an
+annual exam of  licensed engineers, surveyors, or registered geologists who wish to
+become Certified Water Right Examiners. Examiners must pass a test conducted by
+the Department. Licenses are issued by the Oregon Board of Examiners for
+Engineering and Land Surveying.
+
+The Adjudications program is responsible for identifying, verifying, and documenting
+existing water uses that pre-date Oregon water law and federal water right claims
+within selected stream basins. After identifying and verifying all water right claims, the
+program is responsible for drafting a finding of fact and order of determination for
+filing in the circuit court.
+
+The Hydroelectric Licensing program is responsible for licensing all hydroelectric
+facilities in the state, except facilities owned exclusively by the federal government.
+The program also processes amendments and applications to relicense hydroelectric
+licenses that have expired or nearing expiration and converts hydroelectric licenses
+to an instream water right when the hydroelectric use has lapsed for at least five
+years.
+
+The Water Rights Section receives, reviews, and processes applications to use water.
+This includes applications for instream water rights, applications to use groundwater
+or surface water, applications to store water or use stored water, and applications for
+aquifer storage and recovery. In addition, the Department processes and reviews
+applications for limited licenses or road watering, requests for assignments, and
+requests for reinstatement of canceled permits. The Water Rights Section also houses
+our Customer Service Group, which responds to a high volume of customer inquiries.
+
+19
+Program Records
+045  Certified Water Right Examiners Records
+Retain 10 years after exam date, destroy
+046  Circuit Court Final Adjudication and Decree Records
+Retain until Circuit Court decree is repealed or rescinded and the court
+authorizes removal from Department records, destroy
+047  Hydroelectric License Records
+(a) Retain expired licenses 30 years after expiration, destroy
+(b) Retain preliminary and draft license applications until license issued and
+appeal opportunities have expired, destroy
+048  Water Right Adjudication Claim Records
+Retain until the Circuit Court decree is repealed or rescinded and the court
+authorizes removal from Department records, destroy
+049  Water Right Adjudication Finding of Facts and Order of Determination
+Records
+Retain until the Circuit Court decree is repealed or rescinded and the court
+authorizes removal from Department records, destroy
+050  Water Right Application Records
+Retain 5 years after water right application denied or inactive, destroy
+051  Water Right Certificate Records, 1909 - [ongoing]             10 c.f.
+(a) Retain Water Right Certificates permanently, transfer to State Archives after
+10 years and WRD statute ORS 536.040 (3)) has been amended to allow
+custody transfer
+(b) Retain all other documentation 5 years after certificate is canceled with no
+remaining or confirming right, destroy
+052  Water Right Permits
+Retain 5 years after permit canceled, destroy
+
+State Agency General Records Retention Schedule Records
+Including but not limited to:
+Administrative Records (OAR 166-300-0015)
+Attorney General Opinions
+Correspondence
+Mailing Lists
+
+Systems of Record
+GEOGRAPHICAL INFORMATION SYSTEM (GIS) MAPPING
+NATIONAL INVENTORY OF DAMS (NATDAM)
+PROJECT DATA
+TRIAL WORKS
+WATER RIGHTS INFORMATION SYSTEM (WRIS)

@@ -25,6 +25,13 @@ content_roots:
       procedures: procedure
       accounting-manual: manual
       standards: standard
+      # Special records-retention schedules, folded in from the retired
+      # OregonAI/oregon-records-retention corpus (PLAN.md Phase 9). Scoped under the agency
+      # the schedule BINDS, not the one that issued it: `issuing_body` stays "Secretary of
+      # State, Archives Division" on all 76, and agency_profile keys its views on the
+      # frontmatter `agency:` field, so this is where someone asking "how long must DEQ keep
+      # this?" actually looks.
+      schedules: schedule
 
 plugins:
   citation_module: "src.citation_schemes"
@@ -59,6 +66,18 @@ source_manifest_path: "_meta/sources"
 snapshot_dir: "_meta/snapshots"
 
 mcp:
+  # `authority_chain` walks implements/implemented_by only. This corpus has 1,226 `related`
+  # edges that it therefore cannot reach — 796 of its own plus the 430 the folded-in
+  # retention schedules bring — so the tool answered nothing for a question those edges
+  # exist to answer. That was OregonAI/oregon-records-retention#9, and it is closed here.
+  #
+  # Returned under `up_cites`, NOT relabelled `implements`. A special schedule SUPPLEMENTS
+  # the OAR 166 general rules; it does not implement them, and an earlier pass of this
+  # migration did derive 851 `implements` edges before that was caught and reverted. The
+  # tool walks what the graph claims; it does not upgrade the claim.
+  authority_relations:
+    up:
+      cites: [related]
   server_name: "executive-regulatory-frameworks"
   # NOTE: there is no `transports:` key here. corpus-toolkit parses one into
   # CorpusConfig.mcp_transports and then reads it nowhere — the transport is chosen

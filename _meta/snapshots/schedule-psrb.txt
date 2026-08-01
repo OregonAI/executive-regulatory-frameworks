@@ -1,0 +1,64 @@
+Oregon State Archives
+Records Retention Schedule
+Edition: June 2026                                            Schedule Number: 2026-0005
+1
+
+Agency:  Psychiatric Security Review Board (PSRB)
+
+Program Description
+The Psychiatric Security Review Board (PSRB) is an independent, quasi-judicial state
+agency responsible for protecting public safety by exercising statutory authority over
+individuals whose involvement with the criminal or civil legal system has been
+judicially determined to be sufficiently connected to a qualifying mental disorder.
+
+The Board has continuing jurisdiction and supervisory authority over individuals
+found Guilty Except for Insanity (GEI), Responsible Except for Insanity (REI), and
+individuals committed as Extremely Dangerous Persons with Mental Illness. For these
+populations, the PSRB conducts ongoing administrative and full hearings to
+determine continued jurisdiction, conditions of release, including level of care,
+revocation, and discharge.
+
+Separately, the PSRB functions as a petition-based adjudicative body for two limited
+statutory relief matters, including restoration of firearm rights and sex offender
+classification, reclassification, and relief. In these matters, the Board does not exercise
+ongoing supervision but rather adjudicates discrete petitions to restore rights or
+relieve individuals from statutory restrictions or registration requirements. In addition,
+the Board has the statutory duty to report classification levels of sex offender
+registrants and firearm prohibitions to the Oregon State Police.
+
+PSRB records consist of the documentation necessary to support these
+determinations and to ensure due process, statutory compliance, and defensible
+decision-making.
+
+Program Records
+001  I ncomplete Sex Offender or Firearm Prohibition Relief Applications
+Retain 1 year after date received, destroy
+002 Law Enforcement Data System (LEDS) Records for Hearings
+(a) If there is no appeal, retain 90 days from the date the associated hearing
+order is signed, destroy
+(b) If appealed, retain according to OAR 166-300-0017(1)
+003 Psychiatric Security Review Board Internal Case Files
+Retain 1 year after case closed, destroy
+004 Source Files for Reporting, Reclassification, and Relief
+Retain 120 years after individual’s date of birth, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+
+Oregon State Archives
+Records Retention Schedule
+Edition: June 2026                                            Schedule Number: 2026-0005
+2
+
+Board and Commission Records (OAR 166-300-0017)
+Financial Records (OAR 166-300-0025)
+Information Systems Records (166-300-0030)
+Payroll Records (166-300-0035)
+Personnel Records (166-300-0040)
+Risk Management Records (166-300-0045)
+
+Systems of Record
+Agency shared drive
+FileCloud
+Microsoft 365/SharePoint

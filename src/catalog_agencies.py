@@ -269,6 +269,104 @@ def find(query: str, limit: int = 8):
     return [o for o in cat["organizations"] if q in o["name"].lower()][:limit]
 
 
+# ---------------------------------------------------------------- name -> slug resolution
+#
+# `find()` above is a substring match "for a human picking a slug" and cannot reach a name
+# written in another house style. The Secretary of State Archives Division inverts them —
+# "Agriculture, Dept. of", "ODOT - Highway Division", "Treasury, Oregon State" — and folding
+# in its 76 retention schedules needed every one attributed to a registry slug.
+#
+# GENERATES CANDIDATE FORMS RATHER THAN REWRITING TO ONE. An earlier version de-inverted a
+# trailing kind unconditionally, turned "Criminal Justice Commission" into "commission of
+# criminal justice", and LOST two names that had already matched. A name may or may not be
+# inverted; guessing costs matches either way, trying both costs nothing.
+#
+# Measured on those 76: 66 automatic (24 exact, 31 normalized, 10 token, 1 alias), 10 left
+# for a human. Recorded in _meta/catalog/retention-schedule-agencies.yml with a basis and,
+# for anything non-exact, a note.
+
+# The trailing `\.?` deliberately carries no closing `\b`. `\bdept\.?\b` CANNOT match
+# "dept." — after the optional period `\b` would sit between "." and " ", neither a word
+# character, so it is not a boundary. That form silently matched "dept" alone, left
+# "department. of", and cost 9 of 76 matches before it was found.
+_ABBREV = [
+    (r"\bdept\.?", "department"), (r"\bcomm'?n\.?", "commission"),
+    (r"\bdiv\.?(?=\s|$)", "division"), (r"\bexam'?rs\.?", "examiners"),
+    (r"\bbd\.?(?=\s|$)", "board"), (r"\bofc\.?", "office"), (r"&", "and"),
+]
+_KIND = r"(department|board|commission|office|bureau|division|authority|agency)"
+_STOP = {"oregon", "state", "of", "the", "and"}
+
+
+def normalize_name(s: str) -> str:
+    """Lowercase, de-punctuate and expand a free-text agency name."""
+    import unicodedata
+    s = unicodedata.normalize("NFKD", str(s or "")).lower()
+    s = s.replace("\u2019", "'").replace("\u2018", "'")
+    s = re.sub(r"\(.*?\)", " ", s)                       # "(ODOT)", "(formerly DHS)"
+    s = re.sub(r"^\s*odot\s*[-\u2013]\s*", "department of transportation ", s)
+    for pat, rep in _ABBREV:
+        s = re.sub(pat, rep, s)
+    s = re.sub(r"[^a-z0-9]+", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def _variants(name: str):
+    base = normalize_name(name)
+    if not base:
+        return []
+    out = [base]
+    stripped = re.sub(r"^(oregon state|state of oregon|oregon|the)\s+", "", base).strip()
+    if stripped != base:
+        out.append(stripped)
+    for v in list(out):
+        for pat, fmt in ((rf"^(.*?),?\s*{_KIND}\s+of$", "{1} of {0}"),
+                         (rf"^(.*?)\s+{_KIND}$", "{1} of {0}"),
+                         (rf"^{_KIND}\s+of\s+(.*)$", "{1} {0}")):
+            m = re.match(pat, v)
+            if m:
+                out.append(fmt.format(m.group(1), m.group(2)).strip())
+        for k in ("department", "agency", "commission", "board", "office"):
+            out += [f"{v} {k}", f"{k} of {v}"]
+    seen, uniq = set(), []
+    for v in out:
+        v = re.sub(r"\s+", " ", v).strip()
+        if v and v not in seen:
+            seen.add(v)
+            uniq.append(v)
+    return uniq
+
+
+def _tokens(s):
+    return {t for t in normalize_name(s).split() if t not in _STOP}
+
+
+def resolve(name, organizations=None):
+    """Free-text agency name -> (slug, basis) or (None, "unmatched").
+
+    basis is exact | normalized | alias | tokens, in descending confidence."""
+    orgs = organizations if organizations is not None else load()["organizations"]
+    raw = str(name or "").strip().lower()
+    for o in orgs:
+        if raw == o["name"].strip().lower():
+            return o["slug"], "exact"
+    vs = _variants(name)
+    for o in orgs:
+        if {normalize_name(o["name"]), normalize_name(o.get("raw_index_name") or "")} & set(vs):
+            return o["slug"], "normalized"
+    for o in orgs:
+        if any(normalize_name(a) in vs for a in (o.get("aliases") or [])):
+            return o["slug"], "alias"
+    # Token containment, and ONLY when unambiguous. A tie is reported unmatched rather than
+    # guessed: a wrong agency attribution is worse than a name on a review list.
+    t = _tokens(name)
+    if t:
+        hits = [o["slug"] for o in orgs if t <= _tokens(o["name"])]
+        if len(hits) == 1:
+            return hits[0], "tokens"
+    return None, "unmatched"
+
+
 def main():
     if "--refresh" in sys.argv:
         cmd_refresh()

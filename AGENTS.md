@@ -43,6 +43,15 @@ agency-scoped under `agencies/<agency>/`:
 | `procedure` | `agencies/<agency>/procedures/` (filename ends `_pr`) |
 | `manual` | `agencies/<agency>/accounting-manual/` |
 | `standard` | `agencies/<agency>/standards/` |
+| `schedule` | `agencies/<agency>/schedules/` |
+
+`schedule` is a **special records-retention schedule** issued by the Secretary of State
+Archives Division. It is scoped under the agency it **binds**, not the one that issued it —
+`issuing_body` stays "Secretary of State, Archives Division" on every one, while `agency` names
+whose records it governs, which is the field `agency_profile` keys its views on and the
+question a reader actually has. The **general** schedules are OAR chapter 166 and live in
+`rules/166/`; a special schedule supplements them for one agency and cites them, so the two are
+read together. Folded in from the retired `OregonAI/oregon-records-retention` (PLAN.md Phase 9).
 
 New ingestion code should call `output_dir_for(doc_type, agency)` in
 `src/ingest_lib.py` rather than hand-typing a path — it's the single source of truth

@@ -1,0 +1,3390 @@
+---
+schema_version: 1
+corpus: executive-regulatory-frameworks
+jurisdiction: oregon
+id: schedule-das
+title: Administrative Services, Dept. of
+doc_type: schedule
+citation: Administrative Services, Dept. of — Oregon Special Records Retention Schedule
+authority_level: schedule
+issuing_body: Oregon Secretary of State, Archives Division
+agency: department-of-administrative-services
+division: null
+schedule_number: 2022-0001
+legal_authority: []
+source_url: https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-das.pdf
+source_format: pdf
+retrieved: '2026-07-25'
+source_sha256: bd8e1a803a7f862934a2645b2461b430411ad9dafd842c4ba49ac1e7730304f3
+effective_date: null
+effective_date_text: April 2022
+expires: null
+expires_text: null
+last_reviewed: null
+source_version: 2022-0001
+status: current
+content_mode: verbatim
+conversion_notes: 'Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 96 pages.
+  Stripped repeated running-header lines: "Edition: April 2022"; "Oregon State Archives"; "Records Retention
+  Schedule". Stripped 95 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+
+  of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number
+  line, bare page number) were removed; every other repeated line, including per-page ''Organizational
+  Placement'' / ''Agency'' / ''Systems of Record'' blocks, was left in place. Trailing whitespace removed
+  and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.'
+last_verified: ''
+verified_by: ''
+maintainer: '@morficflux'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related:
+    - oar-166-300-0015
+    - oar-166-300-0020
+    - oar-166-300-0025
+    - oar-166-300-0030
+    - oar-166-300-0035
+    - oar-166-300-0040
+    - oar-166-300-0045
+  supersedes: []
+tags:
+- records-retention
+- special-schedule
+---
+
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
+> copy, not the official text. Verify against the official source:
+> <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-das.pdf> (retrieved 2026-07-25).
+
+# Administrative Services, Dept. of
+
+## At a glance
+
+Special records retention schedule for Department of Administrative Services, published by the Oregon Secretary of State, Archives Division, schedule number 2022-0001, effective date as printed: April 2022. It runs to 96 pages and lists the agency's own record series with a retention and disposition clause for each. Record series that every state agency holds are NOT here: they are covered by the OAR chapter 166 general schedules, which this corpus references rather than copies — 7 distinct general-schedule rule(s) are cited in the text below.
+
+## Full text
+
+Department of Administrative Services
+Records Retention Schedule 2022-0001
+Effective Date: April 2022
+
+Table of Contents
+
+Chief Operating Office ................................................................................................................... 1
+Chief Financial Office .................................................................................................................. 12
+Chief Human Resources Office .................................................................................................... 21
+Data Center Services ..................................................................................................................... 35
+Enterprise Asset Management ...................................................................................................... 43
+Enterprise Goods and Services ..................................................................................................... 57
+Enterprise Information Systems .................................................................................................... 88
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Operating Office
+Program: Administration
+
+Program Description
+The Chief Operating Office provides leadership and policy direction to the Department of
+Administrative Services (DAS) and all other state executive branch agencies. The office oversees
+the agency’s internal audit, communications, economic analysis, legislative, and performance
+and project management work. The Director of DAS (a.k.a. Chief Operating Officer, or COO) is
+appointed by the governor, subject to confirmation by the Oregon Senate, and serves at the
+pleasure of the governor; the director is supported by three chief operating officers (ORS
+184.315 – 184.335). The Chief Operating Office was formerly known as the Director’s Office.
+
+The Director of DAS serves on numerous statewide committees and advisory groups, including
+the Enterprise Leadership Team, which makes recommendations to the governor and COO on
+long term strategic policies, statewide initiatives, statewide prioritization, communication and
+budget processes; Financial Estimate Committee, which prepares financial impact statements on
+statewide election measures (ORS 250.125); Statewide Audit Advisory Committee (SAAC) (see
+Internal Auditor program); and State Data Center CIO Advisory Board (see Data Center
+Services). The director also facilitates meetings of state agency directors, to keep them apprised
+of state government news and business. The chief operating officers also serve on committees
+and workgroups, including the Enterprise Information Security Advisory Board (see Chief
+Information Office’s Enterprise Security Office); DAS Internal Audit Committee (see Internal
+Auditor program); Capitol Planning Commission (see Enterprise Goods and Services Division);
+and the Administrative Business Services Directors Group, which provides leadership and
+feedback on enterprise business management opportunities.
+
+The Charitable Fund Drive Committee, composed of state employees appointed by the Director
+of DAS, oversees the professional administration of the annual Oregon Employees Charitable
+Fund Drive (CFD), a combined charitable giving campaign (ORS 292.045; OAR 125-030-0021).
+The committee establishes policies and procedures for managing the CFD; reviews and approves
+the list of federations and funds qualified to participate in the campaign; communicates CFD
+information to state agencies; selects the campaign management organization; and ensures that
+the CFD is free from coercion, unfair or misleading conduct. The COO provides staff support to
+the committee and maintains the official copy of its records.
+
+Program Records
+001 Administrative Business Services Directors Group Records
+ Retain 10 years, destroy
+002 Charitable Fund Drive Committee Meeting Agendas, Exhibits, and Minutes
+ Retain 10 years, destroy
+003 Chief Operating Officer / DAS Director’s Presentations, Testimony, and Policy-
+ Related Correspondence, 1951 – [ongoing]        2 c.f.
+ Retain permanently, transfer to State Archives at the conclusion of each administration
+
+004 Chief Operations Officer Enterprise-wide Project Administration Records
+ Retain 10 years after completion of project, destroy.
+005 Department of Administrative Services Customer Survey Records
+ Retain 6 years, destroy
+006 Enterprise Leadership Team Formation and Organizational Records; Meeting
+Agendas, Exhibits, Minutes and Recaps; and Final Reports, 2011 – [ongoing]   .5 c.f.
+ Retain permanently, transfer to State Archives after 5 years
+007 Oregon Option Records, 1994 – 1999         .5 c.f.
+ Retain permanently, transfer to State Archives
+008 Oregon Progress Board Meeting Records, 1989 – 2011      .5 c.f.
+Retain formation and organizational records, and meeting agendas, exhibits and minutes
+permanently, transfer to State Archives
+009 Oregon Progress Board Reports and Publications, 1989 – 2011     .5 c.f.
+ (a) Retain publications permanently, transfer to State Archives after 3 years
+ (b) Retain executive director quarterly progress reports 30 years, destroy
+ (c) Retain research statistics 30 years, destroy
+ (d) Retain report/publication records 2 years after completion of final document, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Contracts and Agreements
+Correspondence
+Policy Development and Planning Records
+Staff Meeting Records
+Financial Records (OAR 166-300-0025)
+Budget Preparation Records
+
+Databases
+None
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Operating Office
+Program: Communications
+
+Program Description
+Communications conducts internal and external communications for DAS, and coordinates state
+government’s web publishing. The program administers the official websites of Oregon state
+government (Oregon.gov) and DAS (Oregon.gov/das), and also supports the governor’s official
+website (Oregon.gov/Gov).
+
+Communications supports the governor’s communications team, providing message
+development and news media relations, and serving as a consultant and liaison between the
+Governor’s Office and state agencies, boards, and commissions. The program is led by the
+communications director, who chairs the State Communications Council, a quarterly
+informational meeting of department-level communications directors and public information
+officers.
+
+Communications publishes the agency’s internal and external communications, providing
+graphic design, photography, and text/photo editing services. It publishes handbooks and
+brochures on agency program services; responds to customer website feedback; issues press
+releases and responds to media requests; compiles and maintains current contact lists; and
+implements templates and standards for reports and presentations. Communications also
+responds to agency public records requests; reviews drafts of agency policies, procedures, and
+reports; and provides DAS website oversight. The program coordinates internal discussion about
+all DAS communications through the Communications and E-Governance Committees. In
+support of state agencies, Communications produces writing and editorial guides; and posts
+selected feature stories, and state office building closure notices, on the DAS website.
+
+Program Records
+010 Department of Administrative Services Brochures/Handbooks on Agency Services
+ Retain 2 years after superseded or obsolete, destroy
+011 Department of Administrative Services Communications Committee Meeting
+Records
+ Retain 6 years, destroy
+012 Department of Administrative Services External Newsletter (News from DAS)
+ Retain 10 years, destroy
+013 State Communications Council Meeting Records
+ Retain 20 years, destroy
+014 State E-Governance Board Records
+(a) Retain final reports, and meeting agendas, attachments, and recaps 20 years, destroy
+ (b) Retain formation and organizational records 2 years after the life of the board, destroy
+015 Website Feedback Records
+ Retain 2 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+Mailing Lists
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Press Releases
+Public Records Disclosure Request Records
+Publication Preparation Records
+Staff Meeting Records
+Financial Records (OAR 166-300-0025)
+Vendor Reports Records
+Information and Records Management Records (OAR 166-300-0030)
+Forms Development Records
+
+Databases
+None
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Operating Office
+Program: Internal Auditor
+
+Program Description
+The Internal Auditor fulfills DAS’ responsibility to establish policies for internal audit functions
+in state government consistent with commonly recognized industry standards and practices, and
+to ensure the integrity of the internal audit process in state agencies. It reports annually on
+statewide internal audit activities (ORS 184.360).
+
+The Statewide Audit Advisory Committee (SAAC) was created in 2004 to promote excellence
+and professional standards in state government internal auditing. It provides statewide guidance,
+support, reviews, and recommendations regarding internal auditing programs and reports; it also
+advises the Chief Operating Office, and the Director of DAS, who chairs the committee. The
+program maintains the official copy of SAAC’s records (ORS 184.360; OAR 125 Division 700).
+
+Per ORS 184.360, DAS will coordinate internal audit activities within state government to
+promote effectiveness (OAR 125 Division 700). The DAS Chief Audit Executive also fulfills the
+role of Statewide Coordinator for internal audit and works closely with the Chief Audit
+Executive Council, an important component of DAS’ ability to coordinate such activities.
+
+Program Records
+016 Chief Audit Executive Council Records
+ (a) Retain minutes and exhibits 20 years, destroy
+ (b) Retain audio recordings 1 year after approval of meeting minutes, destroy
+017 Statewide Audit Advisory Committee Records
+(a) Retain annual internal audit activity reports, and meetings agendas, exhibits and
+      minutes 20 years, destroy
+(b) Retain survey records 6 years, destroy
+(c) Retain formation and organizational records 2 years after life of committee, destroy
+(d) Retain meeting audio recordings 1 year after approval of meeting minutes, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Financial Records (OAR 166-300-0025)
+Statewide Annual Report Records
+Internal Audit Reports
+
+Databases
+None
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Operating Office
+Program: Legislative
+
+Program Description
+The legislative program provides guidance and training for state agency staff that regularly work
+with the Governor’s Office and Legislative Assembly. It produces a legislative directory every
+two years (at the beginning of each regular session) that contains contact information for agency
+legislative staff and guidelines for working with the Legislative Assembly.
+
+The legislative program hosts BillTracker, a web-based application that provides state agency
+access to information from the Office of Legislative Counsel’s Oregon Legislative Information
+System (OLIS). The official copy of the records posted on BillTracker are maintained by the
+state agency account holders. State agency legislative coordinators provide input regarding the
+operations and needed enhancements of BillTracker. The legislative program provides training
+for agency staff involved in the legislative process, offers additional bill tracking updates through
+a legislative coordinator and listserv, and hosts informal meetings of legislative coordinators
+during sessions.
+
+The program also maintains the Oregon transparency website, which was created by the
+Legislative Assembly in 2009 to provide greater access to nonexempt public records regarding
+state agency revenues, expenditures, contracting and human resources. The official copy of the
+records posted on the transparency website are maintained by the respective state agencies. The
+Transparency Oregon Advisory Commission was created to provide DAS with advice and
+recommendations on the creation, content, and operation of the transparency website, and is
+directed to report biennially to the Legislative Assembly on its performance and enhancements.
+The commission receives staff support from the agency (O.L. 2009, Ch. 838; ORS 184.483). The
+Legislative Fiscal Office maintains the official record copy of the Transparency Oregon
+Advisory Commission’s records.
+
+Program Records
+018 Legislative Concept Request Forms
+ Retain 2 years after submission deadline, destroy
+019 State Agency Legislative Contacts Directory
+ Retain 2 years after publication, destroy
+020 Tribal Coordination Summit Records
+ Retain 4 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Conference, Seminar, and Training Program Records
+Correspondence
+Mailing Lists
+
+Meeting Records
+Policy and Procedure Guidelines and Manuals
+Publication Preparation Records
+Staff Meeting Records
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Maintenance Records
+Computer System Program Documentation
+Forms Development Records
+
+Databases
+BillTracker
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Operating Office
+Program: Office of Economic Analysis
+Unit:  Corrections and Oregon Youth Authority Population Forecasting
+
+Program Description
+The Office of Economic Analysis (OEA) provides forecasts of the state’s economy, revenue,
+population, Corrections population, and Oregon Youth Authority population. The forecasts are
+used by the Governor’s Office, Legislative Assembly, state agencies, and the general public.
+
+The Corrections and Oregon Youth Authority Population Forecasting unit compiles population
+forecasts of state prison inmates, felony probation caseloads, parole and post-prison supervision
+caseloads, and local control population. Forecast reports evaluate the impact of major policies on
+the prison population and overview intake trends. Forecasts are released annually on April 1 and
+October 1 (ORS 184.351). The forecasting is guided by the Corrections Population Forecast
+Advisory Committee. Created in 1990, the committee is composed of individuals knowledgeable
+about the criminal justice system and trends that may affect the offender population (EO-95-06).
+
+The Corrections and Oregon Youth Authority Population Forecasting unit also compiles the
+Oregon Youth Authority Demand Forecast, which projects the number of youths who will be
+committed to the Oregon Youth Authority over the next decade. It forecasts the population of
+secure youth facilities, accountability camps, work-study camps, and intake. The forecasting is
+guided by the Juvenile Correction Population Forecasting Advisory Committee, which was
+created in 1990 and is composed of individuals knowledgeable about the juvenile justice system
+and trends that may affect the juvenile offender population (EO-08-15; EO-04-02; EO-98-06).
+
+Program Records
+021 Corrections Population Forecast Advisory Committee Meeting Records
+ Retain 20 years, destroy
+022 Juvenile Correction Population Forecasting Advisory Committee Meeting Records
+ Retain 20 years, destroy
+023 Oregon Corrections Population Forecast Records
+ (a) Retain final reports and methodologies 20 years, destroy
+ (b) Retain report preparation records 6 years after publication of final report, destroy
+024 Oregon Youth Authority Demand Forecast Records
+ (a) Retain final reports and methodologies 20 years, destroy
+ (b) Retain report preparation records 6 years after publication of final report, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Policy and Procedure Guidelines and Manuals
+
+Databases
+CORRECTIONS POPULATION
+YOUTH AUTHORITY
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Operating Office
+Program: Office of Economic Analysis
+Unit:  Economic and Revenue Forecasting
+
+Program Description
+Economic and Revenue Forecasting is the state's primary source for economic and revenue
+forecasts. The unit is responsible for developing and interpreting economic and revenue forecasts
+and assessing their implications for state budgeting and strategic decisions. Economic and
+revenue forecasts are released quarterly.
+
+Economic and Revenue Forecasting provides staff support to the governor’s Council of
+Economic Advisors, which advises the governor regarding future economic activity in the State
+of Oregon from the perspective of academia, business and industry, and financial institutions; the
+Council of Revenue Forecast Advisors, which reviews and provides suggestions regarding the
+unit’s quarterly economic and revenue forecast reports from the perspective of specialists in
+accounting, financial planning and economics; and the DAS Economic Advisory Committee,
+which provides OEA with economic planning and forecasting advice from state agencies.
+Economic and Revenue Forecasting maintains the official copy of these three group’s records.
+
+The Economic and Revenue Forecasting unit also compiles reports for the U.S. Census Bureau
+on selected state revenues. In conjunction with the Oregon Progress Board, the unit oversaw the
+biennial Oregon Population Survey (discontinued in 2008), which collected representative data
+from state residents on a variety of social, economic, demographic and opinion topics (see
+Oregon Progress Board publications in this division’s Administration program).
+
+Program Records
+025 Census Survey Responses
+ Retain 3 years, destroy
+026 Council of Revenue Forecast Advisors Meeting Records
+ Retain 10 years, destroy
+027 DAS Economic Advisory Committee Meeting Records
+ Retain 10 years, destroy
+028 Economic and Revenue Forecast Methodology Records
+ Retain 20 years after superseded, destroy
+029 Economic and Revenue Forecasting Special Reports and Studies
+ Retain 20 years, destroy
+030 General Fund Tracking Reports
+ Retain 20 years, destroy
+031 Governor’s Council of Economic Advisors Meeting Records, 1981 – [ongoing]   2 c.f.
+ Retain permanently, transfer to State Archives after 5 years
+032 Quarterly Economic and Revenue Forecast Records, 1981 – [ongoing]     2 c.f.
+(a) Retain final reports permanently, transfer to State Archives after 5 years
+(b) Retain report preparation records 6 years after publication of final report, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+Publication Preparation Records
+
+Databases
+ECONOMIC
+LOTTERY
+OREGON POPULATION
+REVENUE
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Operating Office
+Program: Office of Economic Analysis
+Unit:  Oregon Highway Cost Allocation Study
+
+Program Description
+The OEA manages the Oregon Highway Cost Allocation Study (HCAS), which determines the
+fair share that each class of road users should pay for the maintenance, operation and
+improvement of Oregon’s highways, roads, and streets; and recommends necessary adjustments
+to existing tax rates and fees to bring about a closer match between payments and responsibilities
+for each vehicle class. The biennial study is used by the Legislative Assembly to determine
+changes in weight-mile and fuel taxes and vehicle registration fees (ORS 366.506).
+
+The HCAS is conducted by consultants to the OEA. The Oregon Department of Transportation
+provides technical assistance and most of the data and information used in the study. A Study
+Review Team of outside transportation policy experts identifies key issues to be studied, selects
+the contractor to conduct the HCAS, and reviews the consultant's analysis and work products.
+The OEA provides staff support to the Study Review Team and maintains the official copy of its
+records; it also maintains all HCAS records.
+
+Program Records
+033 Oregon Highway Cost Allocation Study Final Reports
+ Retain 20 years after publication, destroy
+034 Oregon Highway Cost Allocation Study Review Team Meeting Minutes
+ Retain 20 years after publication of study, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Contracts and Agreements
+Correspondence
+Publication Preparation Records
+Financial Records (OAR 166-300-0025)
+Competitive Bid Records
+
+Databases
+None
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Financial Office
+Program: Administration
+
+Program Description
+The Chief Financial Office (CFO) is responsible for providing accurate and objective
+information to state leaders and the general public to enable the wise use of state resources. The
+Administration section provides support to the entire division, including editing and formatting
+documents for CFO’s Budget Policy program in its preparation of the governor’s recommended
+budget (see Budget Policy program). Administration coordinates CFO’s data collection,
+compilation, and provision of the biennial state agency fee report for the Legislative Assembly.
+The fee report lists all fees charged by state agencies, including any fee changes that have
+occurred (ORS 291.060). Administration also files state agency pre-session bills with the
+Legislative Assembly (ORS 171.130); and legislative concepts and appropriation bills after the
+governor has approved them. Between sessions of the Legislative Assembly, CFO
+Administration also compiles and submits state agency requests and reports to the Emergency
+Board and interim Joint Committee on Ways and Means. The Legislative Fiscal Office maintains
+the official copy of all legislative committee records, including those of the Emergency Board.
+
+Program Records
+035 Budget Policy Memo Notebooks [ended 2005]
+ Retain 20 years, destroy
+036 Governor’s Recommended Budget Supporting Documentation
+ Retain 20 years, destroy
+037 Legislative Concepts and Appropriation Bills
+ Retain 4 years after end of legislative session, destroy
+038 State Agency Fee Requests and Reports
+ Retain 6 years after completion of agency fee report, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Publication Preparation Records
+Information and Records Management Records (OAR 166-300-0030)
+Forms Development Records
+
+Databases
+State Agency Fee
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Financial Office
+Program: Budget Policy
+
+Program Description
+The Budget Policy program prepares the Governor’s Recommended Budget and directs and
+monitors the development and execution of state agency budgets. The section develops and
+implements additional statewide strategies to assist agencies in achieving more efficient
+operational and budgetary savings. It publishes the biennial instructional manual for state agency
+budget and legislative concept development and projects the impact of legislative actions and
+ballot measures on the state’s financial situation. Budget Policy analysts work with state agencies
+throughout the budget development process, examining state agency requested budgets, and
+making recommendations to the governor for development of the Governor’s Recommended
+Budget. Budget Policy program staff members are also tasked with explaining the Governor’s
+Recommended Budget to the Legislative Assembly and other interested groups.
+
+The Budget Policy program is also responsible for compiling and maintaining state agency
+Annual Performance Progress Reports (APPRs) and assisting in the biennial update to agency
+legislatively approved Key Performance Measures (KPMs) prior to the submission of budget
+requests to the Joint Ways and Means Committee of the Legislative Assembly (ORS 291.110).
+
+Program Records
+039 Agency Annual Performance Progress Reports
+ Retain 10 years, destroy
+040 Agency Budget Working Files
+ Retain 5 years, destroy
+041 Budget and Legislative Concept Instructional Manual
+ Retain 10 years after publication, destroy
+042 Governor’s Recommended Budgets, 1915 – [ongoing]       5 c.f.
+ Retain permanently, transfer to State Archives after 10 years
+043 Legislation and Ballot Measure Analysis Records
+ Retain 12 years, destroy
+044 Legislatively Adopted Budgets, 1915 – [ongoing]        5 c.f.
+ Retain permanently, transfer to State Archives after 10 years
+045 Legislatively Adopted Key Performance Measure Records
+ Retain 50 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+
+Databases
+ORBITS
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Financial Office
+Program: Capital Finance and Planning
+
+Program Description
+Capital Finance and Planning (CFP) administers several financing programs under ORS Chapter
+286A, including General Obligation Bonds, Lottery Revenue Bonds, and Tax Anticipation Notes
+(TANs).  It coordinates budget requests and budgeting for bond funded projects/programs and
+develops legislation for bond issuance authorization and capital construction limitations. CFP
+manages debt issuance and post-issuance compliance activities for the borrowing programs it
+administers. It oversees spending of bond proceeds for state agency and public university
+projects as well as grant distributions funded with Lottery Revenue Bonds. CFP also manages
+the Other Financing Agreements program under ORS 283.085 – 283.092.
+
+CFP provides staff support to the Oregon State Bond Committee, which provides oversight of
+state borrowing programs (EO 98-20). CFP maintains the official copy of the State Bond
+Committee’s records. In addition, CFP coordinates statewide facilities planning in conjunction
+with various statutory and administratively established committees.
+
+Following a six-year suspension of its operations, the Capitol Planning Commission (CPC) was
+reestablished by the Legislative Assembly in 2009. The nine-member commission is charged
+with adopting and implementing a long-range plan for the state capitol area in Salem; studying
+the building needs of state agencies in the Salem area; standardizing the development of state
+buildings and grounds; soliciting public review and comments regarding capital construction
+projects in the cities of Salem and Keizer; and coordinating its work with the Oregon State
+Capitol Foundation and the City of Salem. DAS provides the CPC with staff support (2009 O.L.
+Ch. 896; ORS 276.054 et seq.). The CFP program maintains the official copy of CPC’s records.
+
+The Capital Projects Advisory Board (CPAB) assists DAS in its review of state agency capital
+projects. It provides public review of agencies’ long-range plans, facility conditions, funding
+strategies, and options regarding new facilities. CPAB provides public review of capital
+construction projects within the State of Oregon costing $1 million or more, and leases of 10,000
+rentable square feet for a term of ten years or more. CPAB provides the Director of DAS with
+recommendations to enhance statewide property use and management (ORS 276.227; OAR 125-
+125-0200). CFP provides staff support to CPAB and maintains the official copy of its records.
+
+Program Records
+046 Bond and Certificates of Participation (COP) Approval Records
+ Retain 3 years after final repayment on bonds or COP, destroy
+047 Bond Proceeds Expenditure Records
+ Retain 3 years after final repayment made on bonds, destroy
+048 Bond Sale Transcripts
+ Retain 3 years after final repayment received, destroy
+
+049 Bond Trustee Statement Reports
+ Retain 3 years after final repayment received, destroy
+050 Capitol Planning Commission Formation, Organizational, and Meeting Records
+ 1949 – 2003; 2009 – [ongoing]       1 c.f.
+ Retain permanently, transfer to State Archives after 5 years
+051 Capitol Projects Advisory Board Meeting Records, Reports, and Recommendations
+ Retain 50 years, destroy
+052 Central Facilities Planning Committee Meeting Records, Reports, and
+Recommendations
+Retain 6 years, destroy
+053 Oregon State Bond Committee Meeting Records and Notebooks
+ Retain 6 years, destroy
+054 Statewide Facilities Biennial Inventory Reports
+Retain 20 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+
+Databases
+None
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Financial Office
+Program: DAS Business Services
+
+Program Description
+DAS Business Services (DBS) provides a comprehensive group of essential services to support
+the business of DAS and other public agencies. DBS coordinates preparation of the agency
+budget and assists the DAS divisions in preparing and executing their budgets. The program
+conducts budget development, financial planning, and financial analysis; and provides financial
+reporting and consulting to the divisions. DBS coordinates rate development; calculates rates,
+fees, and assessments. DBS compiles the biennial state agency price list of goods and services,
+which describes the services and related costs to be included in the state government service
+charges line item, and the user fees and charges for services that may be purchased by state
+agencies. The program is responsible for coordinating DAS’ between-session Emergency Board
+requests. DBS is the primary user of the Revenue and Expenditures Forecasting and Budget
+Planning System (REFBPS), DAS’ budget tracking tool.
+
+DAS serves as an intermediary for the pass through of Lottery Funds, General Funds, Federal
+Funds, and Other Funds to several recipients. DBS works closely with the DAS Chief Financial
+Office and other state agencies to appropriately reflect the pass through of these funds in the
+DAS budget. Pass through administration includes the allocation of Lottery Funds to state and
+other government agencies; distribution of General Funds to Oregon Health Sciences University
+(OHSU), Oregon Historical Society, and other entities; distribution of Federal Funds to counties;
+and distribution of liquor and cigarette taxes to cities and counties.
+
+DBS coordinates internal policy development, and maintains various department-wide programs,
+including administrative rule coordination and development, statewide and internal policy and
+procedures, DAS archiving and records retention, and continuity of operations planning.
+
+Customer Utility Boards (CUBs) provided DAS customers with a voice in the cost, type, quality,
+and quantity of utility services, serving as forums to recognize and respond to customer needs.
+The four CUBs dissolved as indicated: Enterprise Technology Services Board (Feb. 2017),
+Enterprise Asset Management Board (Aug. 2019), Enterprise Goods and Services Board (Aug.
+2019), and Enterprise Human Resource Services Board (Feb. 2017).
+
+Program Records
+055 Customer Utility Board Records [ended Aug. 2019]
+(a) Retain meeting agendas, exhibits and minutes 10 years, destroy
+(b) Retain formation and organizational records 2 years after life of each board, destroy
+(c) Retain meeting audio recordings 1 year after approval of meeting minutes, destroy
+056 Price List of Goods and Services
+ Retain 4 years after superseded or obsolete, destroy
+057 Rate Development Records
+ Retain 4 years after publication of Price List of Goods and Services, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Financial Records (OAR 166-300-0025)
+Budget Preparation Records
+Emergency Board Request Records
+Expenditure and Revenue Reports
+Internal Audit Reports (including Performance Audits)
+Risk Management Records (OAR 166-300-0045)
+Emergency Response Plans and Procedures
+
+Databases
+REFBPS
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Financial Office
+Program: Statewide Accounting and Reporting Services
+
+Program Description
+In accordance with generally accepted accounting principles (GAAP), the Statewide Accounting
+and Reporting Services (SARS) establishes statewide accounting, financial reporting, and fiscal
+management policies and procedures through the Oregon Accounting Manual (OAM). The
+SARS program works with state agencies to ready their accounting records for statewide audit,
+year-end closing, and to facilitate preparation of the state’s Annual Comprehensive Financial
+Report (ACFR) in accordance with GAAP (ORS 291.040).
+
+SARS coordinates federally mandated financial reporting and monitoring requirements for the
+state. It administers security access for users of the Statewide Financial Management Application
+(SFMA), Oregon Statewide Payroll Application (OSPA), and the Accounting/Payroll Datamarts.
+SARS’ authority derives at the federal level from 2 CFR 225 (Cost Principles for State, Local,
+and Indian Tribal Governments, formerly OMB Circular A-87); OMB Circular A-133 (Audits of
+States, Local Governments, and Non-Profit Organizations); the Internal Revenue Code; and
+other federal regulations. At the state level, SARS’ authority derives from ORS 291 and 293.
+
+Program Records
+058 Annual Comprehensive Financial Reports, 1979-[ongoing]  2 c.f.
+ Retain permanently, transfer to State Archives after 2 years
+059 Annual Comprehensive Financial Report Preparation Records
+ Retain 10 years, destroy
+060 Cash Management Improvement Annual Reports
+ Retain 5 years, destroy
+061 Federal Single Audit and Corrective Action Plan Data Collection Forms; Final
+Reports; Schedule of Expenditures of Federal Awards (SEFA) Work Papers; and
+Summary of Schedule of Prior Year Audit Findings Work Papers
+ Retain 10 years, destroy
+062 Federal Sub-Recipient Audit Review Certifications
+ Retain 10 years, destroy
+063 Newsletter (First Friday Fraud Facts) [ended June 2012]
+ Retain 15 years, destroy
+064 Oregon Accounting Manual General Exception Records
+ Retain 4 years after superseded, destroy
+065 Oregon Accounting Manual One-Time Exception Records
+ Retain 4 years, destroy
+066 State Property Tax Levy Certification Records
+ Retain 20 years, destroy
+067 Statewide Cost Allocation Plan Records
+ Retain 2 years after superseded, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Publication Preparation Records
+Financial Records (OAR 166-300-0025)
+Oregon State Treasury Reports
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Security Records
+Computer System Program Documentation
+Information System Planning and Development Records
+
+Databases
+None
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Financial Office
+Program: Statewide Audit and Budget Reporting
+
+Program Description
+The Statewide Audit and Budget Reporting Section (SABRS) supports the division and state
+agencies in the preparation and execution of agency budgets. Section responsibilities include
+administering budget systems, providing technical assistance, auditing budget figures, managing
+position actions, and controlling allotments.
+
+SABRS works with the Oregon Budget Information Tracking System (ORBITS) and the Oregon
+Position Information Control System (ORPICS). ORBITS is the vehicle by which all agency
+budgets are combined into a single governor’s budget and ultimately used to produce a statewide
+Legislatively Adopted Budget. ORPICS is part of ORBITS; ORPICS updates ORBITS
+automatically with budgeted position-related expenditures. The state’s enterprise human resource
+system’s (Workday) classification and compensation plan is used by the ORPICS program to
+calculate statewide salary and related benefit expenditure values consistent with budget policy,
+collective bargaining agreements, and non-Executive Branch compensation plans.
+
+Program Records
+068 Emergency Board Certificates
+ Retain 30 years, destroy
+069 State Agency Budget Allotment Records
+ Retain 8 years, destroy
+070 State Agency Budget Preparation Audit Records
+ Retain 6 years, destroy
+071 State Agency Position Reallocation Request Records
+ Retain 6 years, destroy
+072 Statewide Budget Reports
+ Retain 30 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar, and Training Program Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Publication Preparation Records
+
+Databases
+ORBITS / ORPICS
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Human Resources Office
+Program: Administration
+
+Program Description
+The DAS Chief Human Resources Office (CHRO) provides direction and services to promote a
+stable and qualified workforce in state government. CHRO oversees state agencies' human
+resource functions: classification and compensation; management and consultation; systems
+(linking human resource management and technology); labor relations; personnel recruitment;
+and training and development. Statewide implementation is led by CHRO Administration and
+executed by the division’s six programs: Classification and Compensation; Human Resource
+Policy; Labor Relations; Executive Talent Acquisition; Workforce Development; and HR
+Information Management. CHRO’s primary operating authority is found in ORS 184.305(5);
+ORS 240; ORS 243; and OAR 105. CHRO was formerly known as the Human Resource
+Services Division.
+
+CHRO Administration maintains the records of the state Employee Suggestion Awards program,
+which was defunded by the agency in 2009 due to budget cuts.
+
+Program Records
+073 Employee Suggestion Awards Records [ended 2009]
+ Retain 20 years, destroy
+074 Human Resource Services Division Annual Reports, 1950-1991     2 c.f.
+ Retain permanently, transfer to State Archives
+075 Non-Infrastructure Human Resources Project Records
+ Retain 5 years after project completion, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+Legislative Tracking Records
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Publication Preparation Records
+Staff Meeting Records
+
+Databases
+PPDB [retired 2019]
+Workday
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Human Resources Office
+Program: Classification and Compensation
+
+Program Description
+Classification and Compensation is responsible for maintaining the state's compensation plan for
+classified, unclassified and management service positions; as well as developing and maintaining
+the state’s classification system (ORS 240.190 et seq.; OAR 105 Division 20). Classification and
+Compensation compiles the classification specifications for executive branch employment
+(subject to ORS 240.190 et seq.; OAR 105 Division 20); conducts classification studies; issues
+classification guides for agency use; and conducts compensation surveys and position
+benchmarking.
+
+Classification and Compensation provides staff support to the Central Evaluation Team (CET).
+Composed of agency employees experienced in statewide job evaluations and occupations, the
+CET evaluates all job classifications; agency head positions, paid director and executive
+secretary board and commission positions; and paid, full-time board and commission member
+positions using the Hay Method of job evaluation. CET evaluations become the framework for
+position allocation. The CET evaluates new or significantly changed classification specifications
+for compensation. Classification and Compensation maintains the CET’s records.
+
+Classification and Compensation is responsible for an equal pay analysis of Oregon state
+government’s workforce and for reviewing state agencies’ analysis for unscheduled pay equity
+adjustments.
+
+Program Records
+076 Agency, Board and Commission Compensation Files
+ Retain until superseded or obsolete, destroy
+077 Central Evaluation Team Records
+ (a) Retain position evaluation records 75 years, destroy
+ (b) Retain meeting records 10 years, destroy
+078 Classification Records
+ (a) Retain classification study records 15 years after completion of study, destroy
+ (b) Retain classification specification records 10 years after last classification use,
+ destroy
+ (c) Retain classification guides 2 years after superseded or obsolete, destroy
+079 Compensation Records
+(a) Retain compensation plans 75 years, destroy
+(b) Retain compensation surveys 2 years after superseded or obsolete, destroy
+080 Pay Equity Records
+(a) Retain pay equity survey related records 15 years after completion of study, destroy
+(b) Retain pay equity review records 10 years after employee separation, destroy
+(c) Retain pay equity classification guides 2 years after superseded or obsolete, destroy
+081 Public Officials Compensation Commission Records [ended 2017]
+Retain 75 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Publication Preparation Records
+Staff Meeting Records
+Personnel Records (OAR 166-300-0040)
+
+Databases
+PPDB [retired 2019]
+Workday
+
+Organizational Placement             Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Human Resources Office
+Program: DAS Personnel Services
+
+Program Description
+DAS Personnel Services manages human resource activities within DAS, providing personnel
+services for agency employees, and supporting the role of managers. Duties include employment
+and background verification; personnel action processing; recruitment, classification, and
+compensation; Fair Labor Standards Act, Family Medical Leave Act, and Oregon Family Leave
+Act assistance; interpretation of personnel policies and contracts; employee discipline;
+affirmative action monitoring and control; performance appraisal management; maintenance of
+personnel files; provision of safety and training programs; and delivery of DAS service awards.
+
+Program Records
+082 DAS Diversity Council Records [ended 2016]
+(a) Retain meeting records 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Personnel Records (OAR 166-300-0040)
+Affirmative Action Records
+Comparable Worth Study Records
+Criminal Background Check Records
+Employee Medical Records
+Employee Personnel Records
+Employee Training Records
+Employment Eligibility Verification Forms (I-9)
+Equal Employment Opportunity Commission Compliance Records
+Position Description and Reclassification Records
+Recruitment and Selection Records
+Volunteer Program Records
+Risk Management Records (OAR 166-300-0045)
+Safety Program Records
+
+Databases
+Business Online (SAIF)
+Furlough
+GovSpace
+LORC
+LEDS
+OSPA
+PPDB [retired Feb 2019]
+Workday
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Human Resources Office
+Program: Executive Talent Acquisition
+
+Program Description
+The Executive Talent Acquisition program provides leadership and services to advance
+workforce development systems in state government. It develops statewide content; standards
+and practices for electronically supported learning and teaching; and provides central training for
+talent acquisition professionals and end-users of Workday and VidCruiter.
+
+Executive Talent Acquisition provides recruitment services for state agencies and prospective
+employees, coordinating with agency personnel offices on the development of job
+announcements to notify and produce qualified applicant pools to fill agency vacancies.
+Recruitments are conducted for classified, management, and executive service categories.
+
+The program develops and distributes paper and electronic employment announcements;
+receives, screens and grades applications; and creates and maintains records for hired applicants.
+Position vacancy and applicant data is stored within the Workday system.
+
+The official copies of all recruitment records are maintained by the respective agency appointing
+authorities and not the Executive Talent Acquisition program. Recruitment records include
+employment announcements; position descriptions; employment applications; interview records;
+test records; and applicant background check records (ORS 240.306; OAR 105 Division 40;
+OAR 166-300-0040(19)).
+
+Program Records
+083 Employment Applications and Test Records
+ Transfer to recruiting agency; retain copy 2 years, destroy
+084 Recruitment Summary Records
+ Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Information and Records Management Records (OAR 166-300-0030)
+Information System Planning and Development Records
+
+Databases
+VidCruiter
+Workday
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Human Resources Office
+Program: HR Information Management
+
+Program Description
+HR Information Management oversees state government’s personnel-related information
+systems, including Workday (implemented 2019) and Position and Personnel Data Base (PPDB)
+(retired in 2019). It is responsible for the configuration, development, revision, operation, and
+security of the statewide-HR information management (personnel-related) systems, which
+provide mission-critical support of statewide human resources administration, used by all
+executive, judicial and legislative branch agencies (excluding the State Lottery). HR information
+management systems are used for agency human resource and payroll processing. HR
+Information Management also provides regular and special reports for state executive and
+legislative analysis and decision-making.
+
+Workday contains personal, employment and position management information for all state
+employees since its implementation. Workday contains all state employee personnel records
+from its launch date forward. Records carried over from PPDB into workday include a single
+record of all employees active or terminated from January 2017 - January 2019, by position,
+along with a summarized historical staffing and compensation employee information for records
+going back to 1991. Remaining records within PPDB will be exported into Microsoft Azure at a
+future date. HR Information Management provides user and system administration and support,
+including statewide security user access management.
+
+Workday Employee Personnel File contents include employee personnel actions, such as
+appointments, terminations, job changes, reclassifications, representation changes, pay changes,
+leaves, and suspensions. Documents uploaded to the Workday system are designated with a
+specific Document Category. State policy will dictate which Document Categories are included
+as part of the official personnel file.  Each state employee is assigned a unique Employee
+Identification Number (OR#) in Workday when appointed and carried with the employee record
+through their state employment. Program records maintained within the Workday System are
+retained unless purged by the Information Management Program in accordance with the retention
+schedule.
+
+Workday Recruitment contents include all state applicant profiles (contact information, work
+history, references); applicant attachments (DD214/215, resumes, cover letters, transcripts); job
+postings; requisitions; eligible lists; user profiles (name, work phone number, title, e-mail
+address); state priority lists; scoring records; supplemental questions; system-wide questions;
+configuration settings; and panel templates. From 2010 through 2019 HR information
+management operated E-Recruit and NEOGov for state hiring.
+
+HR Information Management operate and maintain the state’s learning management system
+(LMS). iLearnOregon was the state’s LMS through June 2021, after which all state e-learning
+was migrated to Workday Learning.
+
+HR Information Management also maintains the records of the Human Resource Information
+System (HRIS) Project (2016-2019), which planned the replacement of the state’s human
+resource applications: PPDB; Position Information Control System (PICS); NEOGov; and the
+iLearn Replacement Project which led to the replacement of iLearn (2020-2021). HR
+Information Management also maintains the records of the replacement of the Applicant
+Recruitment and Certification system (APPL/CERT) (2007-2010).
+
+Program Records
+085 Automated Merit Increase Reports (Given and Not Given)
+ Retain 3 years, destroy
+086 Employees by County and City Reports
+ Retain 10 years, destroy
+087 Equal Employee Opportunity Commission (EEO4) Reports
+ Retain 3 years, destroy
+088 Human Resource Information System (HRIS) Project Records [2007-2010 and
+2016-2019]
+ Retain 20 years, destroy
+089 Position and Employee Representation Code List
+ Retain until superseded or obsolete, destroy
+090 Positions and Employees by Representation Code June Reports
+ Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar, and Training Program Records
+Correspondence
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Program Documentation
+
+Databases
+E-Recruit [retired 2019]
+OPERS
+ORPICS
+OSPA
+PPDB [retired 2019]
+Workday
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Human Resources Office
+Program: Human Resource Policy
+
+Program Description
+The Human Resource Policy (HR Policy) section is responsible for maintaining a system of
+human resource administration for state government in compliance with state and federal law. It
+develops and implements the state’s workforce management development and management
+strategies; develops and administers the administrative rules regarding state agency personnel
+(OAR 105; ORS 240.145); and develops and maintains all statewide policies on human
+resources. The HR Policy section implements “best practice” in human resource management;
+conducts special studies and research on highly complex policy, program, and human resource
+management issues and makes recommendations to the Governor’s Office and the Chief
+Operating Officer. HR Policy also provides consulting services and technical assistance to state
+agency human resource offices.
+
+Program Records
+091 Agency Investigation Records
+ Retain 10 years after completion of investigation, destroy
+092 Agency Personnel Statistical Reports (from PPDB) [ended 2019]
+ Retain 10 years, destroy
+093 Agency Policy-Exception Records
+ Retain 10 years after withdrawal or cancellation of policy exception, destroy
+094 Statewide and Agency-Specific Advice Letters and Issue Guides
+ Retain 10 years, destroy
+095 Statewide Human Resource Policies and Policy Transmittal Records
+ Retain 20 years after policy superseded or revoked, destroy
+096 Statewide Human Resource Policy Development Records
+ Retain 10 years after policy superseded or revoked, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Calendar and Scheduling Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Legislative Tracking Records
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Publication Preparation Records
+Staff Meeting Records
+Information and Records Management Records (OAR 166-300-0030)
+Forms Development Records
+
+Records Management Records
+
+Databases
+PPDB [retired 2019]
+Workday
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Human Resources Office
+Program: Labor Relations
+
+Program Description
+Labor Relations represents all executive branch agencies in collective bargaining negotiations
+with the bargaining units of exempt, unclassified and classified employees, except for certain
+unclassified employees governed by ORS 240.240. It administers collective bargaining
+agreements covering state employees represented by various labor organizations (ORS 243.696).
+
+It also conducts collective bargaining negotiations for agreements covering certain non-state
+worker bargaining units: Home Care Workers, on behalf of the Home Care Commission
+(pursuant to ORS 410.612); two Child Care Provider bargaining units, on behalf of the State of
+Oregon (ORS 657A.430); and the Adult Foster and Relative Care Provider unit (ORS 433.733).
+
+Labor Relations also bargains agreements for the Judicial Branch and agencies outside of the
+Executive Branch authorized through an intergovernmental agreement. Labor Relations provides
+advice and counsel to agencies outside of the Executive Branch on an as needed basis.
+
+Labor Relations works routinely with Oregon Department of Justice attorneys, obtaining legal
+advice on untested areas of labor law and interpretation of new case standards; and conveys the
+direction employers want to proceed in cases before arbitrators, courts, and the Employment
+Relations Board. In compliance with Oregon’s Public Employees Collective Bargaining Act
+(ORS 243.650 - 243.782), Labor Relations staff appear before the Employment Relations Board
+for representation elections, unfair labor practice hearings, and mediation processes in which
+contract interpretations are achieved or tested; records are maintained by the respective parties.
+
+Labor Relations develops relationships between state government and its employees; ensures
+consistent good faith bargaining and negotiation between parties; prevents the interruption of
+state services; and resolves employee grievances through negotiated settlements and arbitration.
+Program staff also provide advice, assistance, training and resources to state agency managers
+and personnel to help avoid and eliminate the causes of employment grievances.
+
+Program Records
+097 Arbitration Decision Records
+ Retain 75 years after case closed, destroy
+098 Arbitration Case Briefs
+(a) Retain briefs related to contract interpretation grievances 75 years, destroy
+(b) Retain briefs related to discipline and discharge grievances 15 years, destroy
+099 Collective Bargaining Contract Records (including interim bargaining)
+ Retain contracts, proposals, advisory letters, and agency team notes 75 years, destroy
+
+100 Collective Bargaining Grievance Case Files
+(a) Retain contract interpretation cases 15 years after case closure, destroy
+(b) Retain discipline and discharge cases for period of time prescribed in applicable
+      collective bargaining agreement, or 3 years after case closure, whichever is longer,
+      destroy
+101 Collective Bargaining Grievance Resolution Records (Non-Arbitration)
+ (a) Retain precedential case files 75 years, destroy
+ (b) Retain non-precedential case files 3 years, destroy
+102 Interest Arbitration Awards, Files and Briefs
+ Retain 75 years, destroy
+103 Newsletters (Management Insight)
+ Retain 20 years, destroy
+104 Unfair Labor Practice Complaints
+ Retain 20 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Conference, Seminar, and Training Program Records
+Correspondence
+Legislative Tracking Records
+Policy and Procedure Guidelines and Manuals
+Information and Records Management Records (OAR 166-300-0030)
+Forms Development Records
+Records Management Records
+
+Databases
+Demand to Bargain Tracker
+Grievance and Arbitration Tracker
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Chief Human Resources Office
+Program: Workforce Development
+
+Program Description
+DAS Workforce Development oversees several different program areas. It coordinates the
+Oregon Project Management Certification Program, which develops project management leaders
+in state and local government by building relationships with successful project managers.
+Developed in cooperation with state agencies, the program is offered at various locations in
+Salem and Portland and offers the Oregon Project Management Associate certification.
+Workforce Development maintains its official records.
+
+Workforce Development also contains the HR training and professional development team,
+oversees the development needs for all DAS employees, Client Agencies, and Oregon’s project,
+program, and portfolio management development. This team is responsible for providing
+statewide training, including Leadership Oregon, the Management Education Series (Emerging
+Manager, Foundational and New to Public Management), and the Oregon Project Management
+Certification Program.
+
+The People Analytics area of Workforce Development pursues evidence-based, people-focused
+decisions for the State of Oregon. This is done by disseminating evidence-based practices,
+establishing advanced analytics functioning in human resources, conducting organizational
+research, facilitating people analytics knowledge in human resource professionals, and
+encouraging research collaborations.
+
+Program Records
+105 Employee Engagement and Development Survey Records
+ Retain 2 years, destroy
+106 Executive Onboarding Records (other than training records)
+ Retain until superseded or obsolete, destroy
+107 Mandatory Statewide Training Development Records
+ Retain until superseded or obsolete, destroy
+108 State Employee Recognition Day Records
+ Retain 1 year, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Mailing Lists
+Staff Meeting Records
+Information and Records Management Records (OAR 166-300-0030)
+
+Computer System Program Documentation
+Personnel Records (OAR 166-300-0040)
+Employee Training Records
+
+Databases
+SharePoint
+Tableau
+Workday
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Data Center Services
+Program: Administration
+
+Program Description
+Data Center Services (DCS) Administration includes the DCS Director and Deputy Director,
+Disaster Recovery Services, and Regulatory Compliance.
+
+Disaster Recovery Program include the planning and management of the DCS Disaster Recovery
+(DR) Program.  This program supports customer requirements for restoration of technical
+infrastructure in the event infrastructure at the State Data Center building is unavailable for
+extended periods.
+
+The Regulatory Compliances Program establishes multi-regulatory compliance strategies and
+supporting set of policies, processes, and procedures for DCS.  The Regulatory Compliances
+Program manages the program for federally regulated data audited for compliance, including the
+design and completion of risk assessments and/or audits requirements governing the protection
+of the State of Oregon’s IT systems and the data within those systems.
+
+Program Records
+109 Disaster Plan
+Retain until superseded or obsolete, destroy
+110 DCS Service Catalog
+ Retain 3 years after superseded, destroy
+111 State Data Center CIO Advisory Board Records
+ (a) Retain meeting agendas, exhibits and minutes 10 years, destroy
+ (b) Retain formation and organization records 2 years after the life of the board, destroy
+ (c) Retain meeting audio recordings 1 year after approval of meeting minutes, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Business Plan Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Maintenance Records
+Computer System Program Documentation
+Information System Planning and Development Records
+
+Databases
+None
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Data Center Services
+Program: Business Relationship
+
+Program Description
+The Business Relationship program delivers all customer facing services, including Account
+Management, Solution Services, and customer billing.
+
+Account Management staff facilitate the relationship between all DCS customers and all of DCS
+staff. The account management relationship with the customer and knowledge of business needs
+assists in linking DCS with the customer's business strategy.
+
+The Solutions Services team works with customers to translate their business requirements into
+solution options that may be built in the data center or brokered through a vendor. Solutions
+works internally coordinating the engineering efforts of the relevant technical domains to design
+solutions and the architecture used to deliver DCS services.
+
+The DCS Billing System Administration team is responsible for the BluLogix Billing System.
+The billing team ensures accurate data within the data tables, views, billing codes and code rates.
+This team creates the billing structure in billing system and maintains, modifies, and supports the
+monthly bills and ad-hoc billing reports as needed.  Each biennium the billing team participate as
+a member in the rate development process and update needed scripts, billing methodology, and
+reports to reflect new rates established at the start of each biennium.  The billing team answer
+and research billing questions for customers and management, analyze billing data related to
+usage and communicate appropriately and recommend appropriate adjustments.
+
+Program Records
+112 Billing Data (Pre-Accounts Receivable)
+ Retain 12 months, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Business Plan Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Facilities/Property Records (OAR 166-300-0020)
+Equipment Maintenance Records
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Maintenance Records (includes DAS & client agency data & records backups)
+Computer System Program Documentation
+Information System Planning and Development Records
+
+Telecommunications System Management Records
+Personnel Records (OAR 166-300-0040)
+Work Schedules and Assignment Records
+
+Databases
+Procurement Tracker (PT)
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Data Center Services
+Program: Computing Services
+
+Program Description
+Computing Services provides hosting and managed services to State Government primary
+information technology systems. Computing platforms include mainframe, mid-range and x86.
+
+Mainframe Computing supports z/OS, z/VM and z/Linux. This primary function covers the
+mainframe computer systems software (operating systems, DBMSs, etc). They are responsible
+for the efficient performance of the mainframe and typically perform tasks that integrate
+mainframe vendors' software, utilities, databases, and communications. The mainframe team
+performs engineering, installation, support, and disaster recovery for the mainframe platform and
+all associated systems and software products.
+
+Midrange Computing supports the AIX, iSeries, and Linux platforms. Primary functions include
+responsibility for the design, engineering, configuration, installation, and administration and
+maintenance of the mid-range hardware, operating systems, and computer system platforms. This
+team also has responsibility for administration and maintenance of databases, middleware and
+other software systems hosted on AIX, iSeries, or Linux.
+
+X86 Computing supports Windows server operating systems and all associated infrastructure
+including Data Storage. Primary functions include responsibility for the design, engineering,
+configuration and installation, administration, and maintenance of the X86 infrastructure
+including hardware, operating systems, and computer systems.
+
+Program Records
+113 Information Technology Investment and Business Case Records
+ Retain 6 years after closure, destroy
+114 CA-1 Audit Trail Data
+ Retain 6 months, destroy
+115 LOGREC Data
+ Retain 6 months, destroy
+116 Mainframe Configuration Data
+ Retain current and previous four generations, destroy
+117 System Management Facility Customer Information Control System Data
+Retain 12 months, destroy
+118 System Management Facility Data
+ Retain 60 months, destroy
+119 System Management Facility DB2 Monitor Data
+ Retain 12 months, destroy
+120 System Management Facility Resource Access Control Facility Audit Data
+ Retain 12 months, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Business Plan Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Facilities/Property Records (OAR 166-300-0020)
+Equipment Maintenance Records
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Maintenance Records
+Computer System Program Documentation
+Information System Planning and Development Records
+Telecommunications System Management Records
+
+Databases
+GLIPI
+S3
+Request Tracker (RT)
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Data Center Services
+Program: Support Services
+
+Program Description
+ DCS Support Services is responsible for operational support of the computing services section.
+Support Services provides all network services, mainframe production control, and the service
+desk function (Service Operations Center) for DCS.
+
+Network Services is responsible for the Data Center network, wide area network (WAN),
+metropolitan area network (MAN), local area networks (LAN) and wireless networks. Primary
+functions include responsibility for the design, engineering, configuration and installation, and
+administration and maintenance of the enterprise's data communication systems.
+
+The Service Operations Center’s primary functions include customer call response and ticket
+creation, monitoring and responding to system alerts, first tier resolution for most service
+disruptions, first tier resolution for repeatable documented service requests, warm handoff of
+calls to tier3 technicians, tracking and responsibility for resolution of all service disruptions, and
+performing technical change management processes and procedures. This team is also
+responsible for customer data backups and restores.
+
+Production control is responsible for 24/7 support of all Mainframe and iSeries systems-based
+batch processes. This includes implementation of new batch jobs and applications, compilation
+of programs, and plans, executes and coordinates major batch system implementations. This
+team provides customer service, monitoring and enforcing security for DCS enterprise-wide
+operating systems. Production Control also serves as the DCS afterhours service desk.
+
+Program Records
+121 Change Authentication Records
+ Retain 1 year after life of system or service, destroy
+122 Domain Name Registration and Service Records
+ Retain 1 year after life of the registration, destroy
+123 Domain Name System Configurations and Logs
+ Retain 1 year, destroy
+124 Information Technology Investment and Business Case Records
+ Retain 6 years after closure, destroy
+125 Ivanti Service Manager Support Records
+ Retain 7 years after resolution, destroy
+126 Offsite Media Exchange Logs
+Retain 5 years, destroy
+127 Telecommunications Service Orders
+Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Business Plan Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Facilities/Property Records (OAR 166-300-0020)
+Equipment Maintenance Records
+Financial Records (OAR 166-300-0025)
+Internal Audit Reports
+Purchasing Records
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Maintenance Records
+Computer System Program Documentation
+Information Service Subscription Records
+Information System Planning and Development Records
+Personnel Records (OAR 166-300-0040)
+Recruitment and Selection Records
+
+Databases
+Ivanti ISM System
+
+Organizational Placement             Schedule Number:  2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Asset Management
+Program:  Administration
+
+Program Description
+The Enterprise Asset Management (EAM) Administration Program provides centralized
+administration, new employee onboarding, EAM budget development, and centralized
+purchasing and contract administration for facility maintenance, minor improvements,
+equipment, supplies and outsourced services for DAS-owned buildings in collaboration with
+Procurement Services (Enterprise Goods and Services Division). It develops and implements
+strategies, goals, objectives, processes, performance measures and performs short term and long-
+term planning for department-owned facility and land assets. It oversees program and operational
+support, interoffice communications, and execution of internal procedures. It coordinates the
+administration of the division; ensures compliance with state statutes, administrative rules, and
+statewide and division policies; reviews and evaluates operations and workflow; and
+recommends and implements policy changes. The Administration Helpdesk also receives and
+dispatches maintenance requests from tenants in DAS-owned buildings; coordinates travel
+arrangements for EAM staff; and distributes half-staff flag proclamations issued by the governor.
+Administration shares responsibility for invoicing tenants for utilities, maintenance, custodial
+services, and tenant improvements with the Shared Financial Services Program (Enterprise
+Goods and Services Division); the official copy of all invoices is maintained by the Shared
+Financial Services Program.
+
+The Sustainability team acts as the main vehicle for realizing the governor’s executive goals,
+setting statewide policy, and coordinating state sustainability efforts for resource conservation,
+recycling, and waste management. It serves as state government’s primary resource in working
+towards more sustainable practices. With this central role in state government, DAS
+sustainability is focused on the effects of DAS’s internal operations, and the delivery of external
+services and statewide policy across the enterprise. The agency’s internal sustainability efforts
+are guided by a Sustainability Plan. They also include an active facilities program (energy and
+greenhouse gas management, water conservation, and waste reduction); integrating sustainability
+into fleet management focused on fuel efficiency, emissions reductions, and fleet electrification;
+as well as integrating sustainability into construction projects, real estate decisions, and
+procurement decisions. The Sustainability team supports the Oregon Sustainability Board (OSB),
+created in 2001 by ORS 184.425 to oversee agency sustainability plans and initiatives, before it
+was suspended in August 2010 and reinstated in 2017. It also supports the Interagency
+Sustainability Coordinators Network (ISCN) comprised of representatives from key agencies to
+ensure that state agencies collaborate on sustainability programs and projects; and facilitates
+meetings of Green Teams within state-owned buildings to collaborate on facility projects.
+
+Program Records
+128 Biennial Sustainability Plans for DAS
+Retain 20 years, destroy
+129 Building and Site Maintenance, Testing and Inspection Records
+Retain current and previous test or inspection documentation, destroy
+
+130 Energy Conservation Policy Committee Meeting Records
+Retain 20 years, destroy
+131 Green Team Meeting Records, Reports and Recommendations
+Retain 6 years, destroy
+132 Greenhouse Gas Emissions Interagency Annual Reports [ended 2010]
+Retain 25 years, destroy
+133 Interagency Sustainability Coordinators Network Meeting Records
+Retain 6 years, destroy
+134 Oregon Sustainability Board Records (ORS 184.427) [2001 - ongoing]     2 c.f.
+(a) Retain formation and organizational records; meeting agendas, exhibits,
+presentations; and final reports permanently, transfer to State Archives after 5 years
+(b) Retain audio recordings one year after transcribed, destroy
+135 Oregon Sustainability Board State of Oregon Sustainability Awards
+ Records
+Retain applications, award criteria, and winners’ information 50 years, destroy
+136 Quarterly Electricity Scorecards
+Retain 25 years, destroy
+137 Recycled Materials Reports
+Retain 10 years, destroy
+138 State Building Sustainability Project Records
+Retain 10 years after completion or cancellation of project, destroy
+139 Statewide Sustainability Reports
+Retain 50 years, destroy
+140 Sustainability Executive Committee Records
+Retain 20 years, destroy
+141 Sustainability Newsletters (including Energy Update; Waste Watcher)
+Retain 5 years, destroy
+142 Utility Bill Reports
+Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Public Records Disclosure Request Records
+Staff Meeting Records
+Work Orders
+Facilities/Property Records (OAR 166-300-0020)
+Asset Inventory Reports
+Equipment Maintenance Records
+Financial Records (OAR 166-300-0025)
+Budget Preparation Records
+Grant Records
+
+Information and Records Management Records (OAR 166-300-0030)
+Personnel Records (OAR 166-300-0040)
+Work Schedules and Assignment Records
+Risk Management Records (166-300-0045)
+
+Databases
+OSPA
+R*STARS
+REFBPS
+SFMA
+TRIRIGA
+Workday
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Asset Management
+Program: Fleet and Parking Administration
+
+Program Description
+The Fleet and Parking Administration program provides safe and economical transportation for
+the business needs of the state. It also manages parking space assignments and parking lot and
+meter enforcement for state employees; state agency assigned vehicles; and visitors to the
+Capitol Mall Parking Area, Eugene State Office Building, and Portland State Office Building. It
+regulates and oversees nearly all state-owned vehicles, and assists other state agencies with
+vehicle acquisition, storage, fueling, maintenance, disposal, and other requirements. From its
+centralized Salem Motor Pool, the program provides full vehicle services, including repair,
+maintenance, rental and fueling. The DAS Risk Management program (Enterprise Goods and
+Services) establishes standards of vehicle use and access to ensure the safe, economical, and
+responsible use of all state motor vehicles (ORS 283.305 - 283.395; OAR 125 Division 155).
+The Fleet and Parking Administration program operates pursuant to ORS 283.305 - 283.395;
+ORS 276.004; ORS 276.591 et seq; OAR 125 Division 90; and OAR 125 Division 155.
+
+The program compiles biennial fleet review reports, and an annual greenhouse gas vehicle
+emissions report, regarding all state-owned vehicles. Pursuant to the federal Energy Policy Act
+of 1992 (EPAct) (Pub. L. 102-486), the program reports to the U.S. Environmental Protection
+Agency (EPA) on its use of alternative fuel vehicles (42 U.S.C. 13201 et seq.; 10 CFR 490).
+
+The Fleet Management Advisory Council (FMAC) is an advisory body of State of Oregon fleet
+managers that assists state and local government agencies in providing fleet services. The FMAC
+discusses current issues in fleet management and supports and encourages best fleet practices.
+
+Program Records
+143 Biennial Fleet Review Reports
+Retain 20 years, destroy
+144 Day Tripper Records
+Retain 4 years, destroy
+145 Energy Policy Act Records
+Retain 3 years after submission, destroy
+146 Fleet Management Advisory Council Meeting Records
+Retain 6 years, destroy
+147 Individual Parker Lot Space Assignment Records
+(a) Retain records for individuals banned from use of facilities 20 years, destroy
+(b) Retain all other records 2 years after expiration of lease agreement, destroy
+148 Leased Lot Rebate Records
+Retain 6 years, destroy
+149 Meter Cash Key Records
+Retain for life of the program, destroy
+150 Motor Vehicle Fuel Records
+Retain 2 years after vehicle disposed of, destroy
+
+151 Motor Vehicle Titles
+Retain until vehicle disposition or transfer, destroy
+152 Park and Pay Lot Usage Records
+Retain 6 years, destroy
+153 Parking Citations
+Retain 4 years after final resolution, destroy
+154 Parking Deduction Records
+Retain until superseded or obsolete, destroy
+155 Parking Enforcement Records
+Retain 2 years, destroy
+156 Payment Card Industry (PCI) Compliance Records
+Transfer to Office of the State Treasurer
+157 Permanent Vehicle Assignment Requests
+Retain 2 years after vehicle disposed of, destroy
+158 Smart Commuter Participant Records
+(a) Retain records for individuals banned from use of the program 20 years, destroy
+(b) Retain all other records 1 year after expiration, destroy
+159 State of Oregon Greenhouse Gas Vehicle Emissions Records
+Retain 20 years after completion of final report, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Facilities/Property Records (OAR 166-300-0020)
+Asset Inventory Reports (fleet vehicles)
+Equipment Maintenance Records
+Equipment/Property Disposition Records
+Facility Work Orders
+Financial Records (OAR 166-300-0025)
+Cash Receipt Records
+Credit and Debit Receipts
+Invoices
+
+Databases
+Auto Trax
+CBS.MDB
+Fleet Focus FA
+Fleet SQL Server
+Fuel Force
+R*STARS
+SFMS
+T2 Flex
+Workday
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Asset Management
+Program: Operations and Maintenance
+
+Program Description
+The Operations and Maintenance program provides building services for state-agency tenants
+providing repair, maintenance, and tenant improvement services for facilities and grounds.
+Facility capital improvement services include building access (keycards, locksmith, vehicle key
+access, and security/surveillance systems); contract administration and procurement for
+equipment, supplies, and outsourced services; custodial including carpet and floor care,
+recycling, and garbage collection; electrical including elevators; executive residence liaison
+(Mahonia Hall); heating, ventilation, air conditioning (HVAC); landscape, walkway, fountain
+maintenance; and repair (carpentry, flooring, painting, plumbing, and signage).
+
+Note: The Building Access team issues electronic keycards, metal keys, and ID-only cards for
+DAS employees. Keycard coordinators assigned in each agency manage the issuance of keys,
+keycards, and photo ID cards for areas under their authorized jurisdiction. Private vendors
+maintain alarm records and agencies maintain their own video camera tapes and recordings.
+
+Program Records
+160 Building Maintenance and Tenant Improvement Records
+For state-owned facilities, retain for life of structure, destroy
+161 Electronic Keycard, Metal Key, and Photo Identification Card Records
+(a) Retain coordinator signature authorization form 1 year after validation of new
+signature form.
+(b) Retain issuance records 1 year after access termination or key/card returned, destroy
+(c) Retain keycard usage records 1 year, destroy
+162 Landscaping Building and Site Records
+Retain for the life of the building or site, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Key Assignment Records
+Policy and Procedure Guidelines and Manuals
+Facilities/Property Records (OAR 166-300-0020)
+Equipment Maintenance Records
+Equipment/Property Disposition Records
+Facility Work Orders
+Pesticide Application Records
+Vehicle Records
+Personnel Records (166-300-0040)
+Work Schedules and Assignment Records
+
+Risk Management Records (OAR 166-300-0045)
+Databases
+Lenel Onguard
+LINX
+Medeco Lockup
+TRIRIGA
+Workday
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Asset Management
+Program:  Planning and Construction Management
+
+Program Description
+Planning and Construction Management provides construction project management for new
+capital construction, major remodels, and capital improvement projects in state-owned and state-
+leased buildings for the Enterprise Asset Management division and for other state agencies
+through Interagency Agreement. It shares responsibility for procurement of outside consultants
+with the Procurement Program (Enterprise Goods and Services Division), as well as invoicing
+tenants and clients with the Shared Financial Services program (Enterprise Goods and Services
+Division). The official copy of all program financial documents is maintained by the Shared
+Financial Services Program.
+
+Program Records
+163 Building and Site Improvement Project Record Documents, 1911 – [ongoing] 50 c.f.
+(a) Retain records documenting plans, designs, specifications, size, configuration,
+location, materials, and methods used in planned and completed improvement projects
+permanently, transfer to State Archives after building/site demolished or sold
+(b) Retain records documenting improvement/renovation project development
+processes; changes to the plans, designs, or specifications; project activities, discussions,
+disputes, and resolutions; project inspection/testing; close out; and regulatory compliance
+for the life of the facility, destroy
+164 Building Remodel Space Planning Records
+Retain for the life of the building/site, destroy
+165 Capital Project Oversight Committee Meeting Records
+Retain 10 years, destroy
+166 New Construction Records – Project Record Documents, 1911 – [ongoing] 50 c.f.
+(a) Retain records documenting the plans, designs, specifications, size, configuration,
+location, materials, and methods used in both the planned and actually completed facility
+permanently, transfer to State Archives after building/site demolished or sold
+(b) Retain records documenting the construction project development process; changes
+ to the plans, designs or specifications made during construction; day-to-day project
+discussions, disputes, and resolutions; testing; close out; and regulatory compliance
+for the life of the facility, destroy
+167 Proposed Building Construction and Building Renovation Records
+Retain 12 years after last activity, destroy
+Note: Transfer approved Building Construction proposal records to New Construction
+Records – Project Record Documents record series (167(b)).
+Transfer approved Building Renovation proposal records to Building and Site
+Improvement Project Record Documents record series (164(b)).
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Staff Meeting Records
+Financial Records (OAR 166-300-0025)
+Personnel Records (OAR 166-300-0040)
+Work Schedules and Assignment Records
+
+Databases
+OSPA
+R*STARS
+REFBPS
+SFMA
+TRIRIGA
+Workday
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Asset Management
+Program: Real Estate Services
+
+Program Description
+The Real Estate Services program includes Real Property Transaction Services, Leasing
+Services, and Interior Project Management Services. The program oversees the statewide sale,
+acquisition, exchange, leasing, and interior project management including workspace planning,
+design, and furniture installation. It acts as an agent on behalf of those agencies without statutory
+authority to self-represent in real property transactions.
+
+Real Property Transaction Services:
+The Real Property Transaction team oversees the land and facilities holdings of all state
+agencies; provides transaction consulting for acquisitions, dispositions, portfolio analysis and
+management of state-owned real estate assets. It drafts easements, permits of entry and similar
+documents, including assistance with rezoning, comprehensive plan amendments and other land
+use applications. It carries out the clearinghouse function (ORS 270.180) to offer surplus real
+property for sale or acquisition to other state agencies, tribes, non-profit housing organizations,
+and political subdivision before notifying the general public, advises the DAS Director on
+statewide property planning. The program’s statutory authority is found in ORS 270, 271,
+273.436, 276 and 279C; the program’s operating rules are found in OAR 125 Divisions 45, 110
+and 125.
+
+The Department of State Lands (DSL) maintains all deeds and conveyances of real property
+belonging to the State of Oregon (ORS 273.099). DAS, like all land-owning state agencies,
+deposits its land ownership records with DSL. DSL maintains the State Land Inventory System
+(SLIS) through a Memorandum of Understanding with all land-owning agencies. The DAS Real
+Estate Services program maintains a database of surplus and acquisition notices generated
+through the clearinghouse function and publishes periodic reports of properties available to the
+public. It also coordinates and maintains the official records of the development, review and
+update to the Area Plans and Master Plans that govern state properties in the City of Salem (ORS
+276.054; OAR 125-125-0350 et seq.).
+
+The Land Managers Forum (LMF) is composed of property and facilities managers from each
+land-owning state agency. It represents agencies' interests in surplus land disposal planning,
+responds to the Public Lands Advisory Committee’s recommendations, and steers the
+development of SLIS, hosted by Department of State Lands. The program provides staff support
+to the LMF and maintains the official copy of its records.
+
+The Public Lands Advisory Committee (PLAC) advises DAS on all real property acquisitions,
+exchanges and dispositions valued at $100,000 or more, and provides public review of public
+land transactions statewide. PLAC is composed of seven governor-appointed members
+(ORS 270.120; OAR 125-045-0250). The program supports PLAC and maintains the official
+copy of its records.
+
+Leasing Services:
+The Leasing team provides centralized leasing and property management services to meet state
+agency office space requirements. It places state agencies in DAS-owned buildings where
+available. If space is unavailable in DAS-owned buildings, it negotiates leases with private real
+estate entities on behalf of state agencies. Real Estate Services also collects monthly rent from
+agencies in DAS-owned buildings, and yearly leasing fees from agencies in privately leased
+space. The program exercises supervisory authority over all leases or rental agreements for office
+quarters for all state agencies (ORS 270.110, 270.155, 276.428 and OAR 125 Division 120). The
+Leasing team shares responsibility for invoicing tenants in DAS-owned facilities with the Shared
+Financial Services Program (Enterprise Goods and Services Division); the official copy of all
+program financial documents is maintained by the Shared Financial Services program.
+
+Interior Project Management Services:
+The Interior Project management team provides workspace planning and consultation, design,
+and installation of systems and office furniture, ergonomic consultation, move and relocation
+management, and tenant improvement oversight.
+
+The Legislative Assembly created the Oregon School Facilities Task Force to conduct a study of
+the status of the state’s public-school facilities and make recommendations regarding funding
+mechanisms to meet the identified capital needs (O.L. 2009, Ch. 755). Real Estate Services
+supported the task force, which sunsetted in 2012, and maintains the official copy of its records.
+
+Program Records
+168 Appraisal Records (Not Otherwise Filed with Real Property Transaction Records)
+Retain 2 years, destroy
+169 Facility Feasibility Studies and Reports
+Retain 20 years, destroy
+170 Land Managers Forum Meeting Records
+Retain 6 years, destroy
+171 Lease Reports (DAS and Non-DAS Owned)
+Retain 20 years, destroy
+172 Oregon School Facilities Task Force Meeting Records and Reports to Legislative
+Assembly, 2009 – 2011                      1 c.f.
+Retain permanently, transfer to State Archives
+173 Property Lease Advertising and Solicitation Records
+Retain 6 years after expiration or cancellation of lease agreement, destroy
+174 Public Lands Advisory Committee Meeting Records, Reports, and
+Recommendations
+Retain 50 years, destroy
+175 Real Property Advertising and Solicitation Records
+Retain 6 years after property transaction completed or canceled, destroy
+176 Real Property Deed, Conveyance, Ownership, and Easement Records
+Retain until recorded, transfer to Department of State Lands (pursuant to ORS 273.099)
+177 Real Property Transaction Records
+Retain 10 years after transfer of state ownership, destroy
+178 Space Planning Records (New Construction)
+Retain for the life of the building/site, destroy
+
+179 Space Planning Systems Furniture Records
+Retain 1 year, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Facilities/Property Records (OAR 166-300-0020
+Financial Records (OAR 166-300-0025)
+Purchasing Records
+Information and Records Management Records (OAR 166-300-0030)
+Personnel Records (OAR 166-300-0040)
+Work Schedules and Assignment Records
+
+Databases
+Land Clearing House
+Pro-Lease
+Statewide Facilities Inventory
+Statewide Land Inventory System
+Workday
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Asset Management
+Program: Surplus Property
+
+Program Description
+The Surplus Property program is Oregon’s State Agency for Surplus Property (SASP),
+designated under state law as the agency responsible for the acquisition, warehousing, and
+distribution of federal surplus personal property. It provides disposition services to federal
+agencies and acquisition services to state agencies, local governments, and qualified non-profit
+organizations. Pursuant to requirements of the federal General Services
+Administration, donated titles to property are conditional until all the requirements of the
+donation, including the period of restriction, have been met (40 USC 549; 41 CFR 102-37; ORS
+279A.250-.290; OAR 125 Divisions 35 and 50).
+
+The Surplus Property program also provides a central distribution point for surplus, seized, and
+recovered public property for state agencies and local governments. The program uses a variety
+of marketing methods, including online auctions, online catalogs, and store sales. It promotes
+and facilitates sustainable reuse of surplus items to state and local governments, qualified non-
+profit organizations, and the public. The program also manages an electronic waste disposal
+program for use by state agencies, counties, and cities through a collaborative effort with the
+DAS Enterprise Goods and Services division, and Garten Services, Inc., which provides data
+sanitization, recycling, and resale of usable electronic waste through a state price agreement.
+
+Program Records
+180 Federal Surplus Property Records
+ (a) Retain perpetually restricted property records in perpetuity
+(b) Retain non-perpetually restricted property records 1 year after expiration of
+designated restriction period, destroy
+ (c) Retain non-compliant property records 1 year after case closed, destroy
+181 Online Auction Bidding Records
+(a) Retain bidding summary records 6 years, destroy
+(b) Retain detail records and photographs 90 days, destroy
+182 Security Property Cards
+Retain 30 days, destroy
+183 Trip Permits
+Retain 2 years, destroy
+184 Vehicle Titles
+Retain copy 2 years after transferred to vehicle purchaser, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Contracts and Agreements
+Correspondence
+
+Policy and Procedure Guidelines and Manuals
+Facilities/Property Records (OAR 166-300-0020)
+Asset Inventory Reports
+Equipment/Property Disposition Records
+Financial Records (OAR 166-300-0025)
+Competitive Bid Records
+Invoices Records
+
+Databases
+Federal Surplus
+SAM
+SFMA
+State Surplus
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Financial Business Systems
+Program:  Administration
+
+Program Description
+Enterprise Goods and Services (EGS) is composed of Financial Business Systems, Procurement
+Services, Publishing and Distribution, Risk Management, and Shared Financial Services.
+
+The Financial Business Systems section (FBS) ensures the accuracy and accountability of the
+financial systems of Oregon state government. FBS administers the statewide accounting and
+payroll systems; and manages the Accounting and Payroll Datamarts: databases that contain
+financial data extracted at regular intervals from the Relational Statewide Accounting and
+Reporting System (R*STARS) and Oregon Statewide Payroll Application (OSPA) and enable
+state agencies to create ad hoc financial reports. FBS also prepares vendor warrants and payroll
+checks for state employees; administers statewide central disbursements; and provides
+professional fiscal guidance, training, and consultation to state agencies. FBS statutory authority
+is found in ORS 184, 291, 293 and 461.
+
+The FBS Administration program provides office management and clerical support to FBS
+operations and statewide fiscal activities. It oversees FBS employee personnel actions and
+performance appraisals; provides leadership, produces internal policies, procedures, and controls;
+compiles FBS performance measures and budget; coordinates customer and employee surveys;
+arranges training and travel for state agency fiscal staff; and provides FBS communications,
+overseeing and maintaining web content and producing FBS publications.
+
+Program Records
+185 Customer and Employee Survey Records
+ Retain 6 years, destroy
+186 Comprehensive Performance Measure Records
+ Retain 4 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Attorney General Opinions
+Budget Preparation Records
+Business Plan Records
+Calendar and Scheduling Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Key Assignment Records
+Parking Records
+Policy and Procedure Guidelines and Manuals
+
+Policy Development and Planning Records
+Professional Membership Records
+Signature Authorizations
+Staff Meeting Records
+Work Orders
+Financial Records (OAR 166-300-0025)
+Budget Preparation Records
+Purchasing Records
+Travel Expense Records
+
+Databases
+Accounting Datamart
+Associate Tracking
+Furlough
+OSPA
+Payroll Datamart
+PEBB.BENEFITS
+PPDB
+Service Maintenance Log
+
+Organizational Placement             Schedule Number: 2013-0004
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Financial Business Systems
+Program: Centralized PERS Services
+
+Program Description
+The DAS Centralized PERS Services Team is managed by FBS Administration.   The team
+represents the State of Oregon as a PERS employer by integrating and interfacing PPDB
+(personnel) and OSPA (payroll) system data to the PERS jClarety Retirement system, correcting
+any reporting errors caused by bad data, and coordinating the flow of required information
+related to PERS administration as a liaison between PERS and state agencies.
+
+The DAS Centralized PERS Services Team reconciles payroll and personnel data reported to the
+PERS retirement system for 40,000 current employees and ensures consistent administration of
+retirement accounts for state employees. The team provides technical assistance and data to the
+PERS retirement systems necessary for calculation of employee retirement benefits, ensuring
+state employees’ retirement account and service time information are accurate and state
+employee data issues are resolved.
+
+Program Records
+187  Disability Benefits Records
+        Retain 10 years after approval or denial, destroy
+188  Employer Demographic Records
+        Retain 75 years, destroy
+189  Employer Reconciliations and Invoicing Records
+        Retain 60 years, destroy
+190  Membership Validation Records
+        Retain 60 years, destroy
+
+State Agency General Record Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Mailing Lists
+Policy and Procedure Guidelines and Manuals
+Publication Preparation Records
+Staff Meeting Records
+Financial Records (OAR 166-300-0025)
+Accounting System Input Documents and Listings, and Agency Control Reports
+Unclaimed Property Records
+Information and Records Management Records (OAR 166-300-0030)
+Information System Planning and Development Records
+
+Records Management Records
+Payroll Records (OAR 166-300-0035)
+Federal and State Tax Records
+
+Databases
+PERS Reconciliation Database
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Financial Business Systems
+Program: Oregon Statewide Payroll Services
+
+Program Description
+Oregon Statewide Payroll Services (OSPS) operates and maintains the Oregon Statewide Payroll
+Application (OSPA) for use by the executive, legislative and judicial branch agencies in
+preparing timely and accurate workforce payroll payments. It acts as the common paymaster for
+agencies, ensuring that all taxes are calculated, collected, and submitted timely and accurately,
+and posted to each employee’s year-to-date record. OSPS files quarterly and annual payroll tax
+returns to federal and state taxing authorities; and maintains a knowledge base of federal and
+state payroll regulations, and collective bargaining requirements, to ensure system compliance
+and enable functioning as an information and advisory resource for agency payroll staff. OSPS
+statutory authority is found in ORS 292.
+
+OSPS provides the resources to assist agency payroll staff in the use of the OSPA, offering
+training and user forums for payroll technicians, and producing manuals, special bulletins, daily
+system support and payroll guidance, and other resources and information for state agencies.
+
+Program Records
+191 AccelaPay Card Input Forms
+ Retain 4 years, destroy
+192 AccelaPay Program Meeting Records (including Vendor Meeting Records)
+ Retain 6 years, destroy
+193 Alpha Listing of Employee Checks (XREFRL)
+ Retain 4 years, destroy
+194 Automated Clearing House (ACH) Direct Deposit Register (XREFRA)
+ Retain 6 years, destroy
+195 Automated Clearing House (ACH) Returns (Rejects) Records
+(a) Retain master records 6 years, destroy
+(b) Retain agency notification records 30 days, destroy
+196 Cashier Deposit Logs
+ Retain 6 months, destroy
+197 Centrally Paid Deduction Reports (XREFRK series)
+ Retain 1 year, destroy
+198 Check Detail Reports (E466 series)
+ Retain 4 years, destroy
+199 Check Listing Detail Records (XREF84)
+ Retain until superseded or obsolete, destroy
+200 Deduction Register Combined / Detail Reports (XREF76C)
+ Retain 10 years, destroy
+201 Deduction Register Combined / Summary Reports (XREF15C)
+ Retain until superseded, destroy
+
+202 Deduction Register Payroll Run / Detail Reports (XREF76, XREF15)
+ Retain 1 day after production of both final Deduction Register Combined / Detail Report
+ (XREF76C) AND Deduction Register Combined / Summary Report (XREF15C), destroy
+203 Early Redeemed Check Exceptions Reports (E460-25A-1)
+ Retain 1 day after production of annual W-2 file, destroy
+204 Employee Time Exception Reports (B055RG)
+ Retain until superseded or obsolete, destroy
+205 Employee Update Screen Activity Reports (B360)
+ Retain 6 years, destroy
+206 Employees Eligible for Retirement Reports (E357-020)
+ Retain 3 months, destroy
+207 Employees with Negative Amounts Reports (XREF68N)
+ Retain 4 years, destroy
+208 Employment Relations Board (ERB) Assessment Reports (XREF54)
+ Retain 4 years, destroy
+209 File Maintenance Documentation (Changes to Original Payroll Checks)
+ Retain 4 years, destroy
+210 Garnishment Code Usage Query Records (OSPSJ358 series)
+ Retain 1 year, destroy
+211 Gross Pay Adjustment Reports (B075)
+ Retain 4 years, destroy
+212 Gross Pay Over 2x Adjusted Base Reports (E260-100)
+ Retain current fiscal year, destroy
+213 Leave Accrual / Adjustment and Transfer Reports (E460)
+ Retain 30 days, destroy
+214 Leave Accrual / Detail Transaction Register – Alpha Sort (B470D)
+ Retain 75 years, destroy
+215 Leave Accrual / Detail Transaction Register – Distribution Code Sort (B470C)
+ Retain 30 days, destroy
+216 Leave Accrual / Exception Reports (E455)
+ Retain until superseded or obsolete, destroy
+217 Manual Check Detail Reports (Current Checks Issued)
+ Retain 1 year, destroy
+218 Mass Transit Summary Reports (XREF36)
+ Retain 4 years, destroy
+219 Net Pay Negative Agency Reports
+ Retain 4 years, destroy
+220 Oregon Statewide Payroll Services Newsletters (OSPS Training News)
+ Retain 5 years, destroy
+221 OSPA Processing Calendar
+ Retain 4 years, destroy
+222 OSPA Production Benefit Packages / Quarterly Reports (EZBENCHK-01)
+ Retain 3 months, destroy
+223 Pay Type to Account Number Conversion Reports (JTBL series)
+ Retain 3 months, destroy
+224 Payroll Calculate Controls Reports (B370 and Comparison)
+ Retain 1 year, destroy
+
+225 Payroll Check Reversal Records (including XREF87)
+ Retain 6 years, destroy
+226 Payroll Exception Reports (E120 series, E122 series, and E260-090B)
+ Retain until superseded or obsolete, destroy
+227 Payroll Register Detail Reports / Alpha Combined (XREF44)
+ Retain 75 years, destroy
+228 Payroll Register / Payroll Run (XREF43)
+ Retain 1 day after production of final Payroll Register Detail Report / Alpha Combined
+ (XREF44), destroy
+229 Payroll Register Summary / Combined (XREF44S)
+ Retain 2 years, destroy
+230 Payroll Register Summary Reports / Alpha (XREF43S)
+ Retain until superseded or obsolete, destroy
+231 Payroll Register Summary / Payroll Run (XREF43S)
+ Retain 6 years, destroy
+232 Payroll Vendor Check Summary Reports (XREF23)
+ Retain 4 years, destroy
+233 Payroll Vendor File Controls Reports (XREF69)
+ Retain 3 months, destroy
+234 Payroll Vendor Negative Balance Reports (XREF89)
+ Retain 4 years, destroy
+235 Payroll Year-to-Date Register (XREF68)
+ Retain 75 years, destroy
+236 Redeemed Payroll Checks
+ Per legal agreement issuing bank will retain 7 years, destroy
+237 Retirement Remittance Advice Reports (XREF32 series)
+ Retain 6 years, destroy
+238 Savings Bond Contribution Register (BONDE010)
+ [ended 2010, per U.S. Treasury Department]
+Retain 75 years, destroy
+239 Separated Employee with Net Pay Positive Reports (E357-30)
+ Retain 4 years, destroy
+240 Terminated-Employees-Having-Leave-Balances Records (including E492)
+ Retain current and prior fiscal year, destroy
+241 Vendor ACH Deduction Reports (E500 and E501 series)
+ Retain 1 year, destroy
+242 W-2 Reissue Request Records (Form OSPS.99.04)
+ Retain 3 months, destroy
+243 Work Schedule Code Usage Query Reports (WorkSched series)
+ Retain 3 months, destroy
+244 Workers’ Benefit Board (WBF) Assessment and State Accident Insurance Fund
+(SAIF) Premium Summary Reports (XREF21)
+Retain 4 years, destroy
+245 Year-to-Date and Current Correction Reports (XREF85)
+ Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Mailing Lists
+Policy and Procedure Guidelines and Manuals
+Publication Preparation Records
+Staff Meeting Records
+Financial Records (OAR 166-300-0025)
+Accounting System Input Documents and Listings, and Agency Control Reports
+Unclaimed Property Records
+Information and Records Management Records (OAR 166-300-0030)
+Information System Planning and Development Records
+Records Management Records
+Payroll Records (OAR 166-300-0035)
+Federal and State Tax Records
+
+Databases
+OSPA
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Financial Business Systems
+Program: Statewide Financial Management Services
+
+Program Description
+Statewide Financial Management Services (SFMS) implements and operates the statewide
+financial management application that meets central administration and state agency needs while
+maintaining expenditure control over legislatively approved cash accounts, limitations, and
+appropriations. SFMS provides leadership, project management, control, policies, training,
+implementation, reimplementation, and operational support for the statewide accounting systems.
+
+SFMS operates the Statewide Financial Management Application (SFMA), which is composed
+of two modules: the Relational Statewide Accounting and Reporting System (R*STARS) and the
+Advanced Purchasing and Inventory Control System (ADPICS). The SFMA, which was known
+as the State Financial Management System (SFMS) prior to 1995, tracks the following financial
+functions: general ledger; accounts payable and receivable; grant, project, and budgetary
+accounting; disbursements; cash control and management; systems security, purchasing, capital
+asset reporting, and internal and external financial reporting capabilities. SFMS program staff
+perform complex reconciliations of the state General Fund (Treasury Account 0401), Lottery
+Fund (Treasury Account 0539), and Joint Payroll (Treasury Account 10503). SFMS is also
+responsible for the state’s purchase card program – Small Purchase Order Transaction System
+(SPOTS). The statutory authority for SFMS is found in ORS Chapters 291 and 293.
+
+Program Records
+246 Accounting Datamart System Correction and Enhancement Records
+ Retain 1 year after life of the system, destroy
+247 Control Accounting System (CAS) Statement of Transactions/Agency Control
+ Ledger [ended 1997]
+ Retain 75 years, destroy
+248 Executive Accounting System (EAS) General Ledger Transactions [ended 1997]
+ Retain 75 years, destroy
+249 Payroll Datamart System Correction and Enhancement Records
+ Retain 1 year after life of the system, destroy
+250 SPOTS Corporate and Travel Card Rebate Program Records
+ Retain 6 years, destroy
+251 SPOTS Credit Card Project Records
+ Retain 6 years, destroy
+252 Statewide Financial Management Application Agency Conversion Records
+ Retain documentation and system logic records 1 year after the life of the system, destroy
+253 Statewide Financial Management Application Cost Benefit Analysis
+ Records
+ Retain 1 year after the life of the system, destroy
+
+254 Statewide Financial Management Application KPMG Confirmation of
+ Requirements Documentation
+Retain 1 year after the life of the system, destroy
+255 Statewide Financial Management Application Profile Documentation
+ Retain 1 year after the life of the system, destroy
+256 Statewide Financial Management Application Steering Committee Meeting
+ Agendas, Exhibits and Minutes [1989-1998]
+ Retain 1 year after the life of the system, destroy
+257 Statewide Financial Management Application System Control Reports
+ Retain 6 years, destroy
+258 Statewide Financial Management Application System Correction and
+ Enhancement Records
+ Retain 1 year after the life of the system, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Business Plan Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Financial Records (OAR 166-300-0025)
+1099-MISC Records
+Account Reconciliation Records
+Bank Statements Records (including State Treasury statements)
+Competitive Bid Records (including software)
+Trial Balance Reports
+Warrant Cancellation Request Records
+Warrant Records
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Security Records
+Computer System Program Documentation
+Information System Planning and Development Records
+Software Management Records
+
+Databases
+Accounting Datamart
+ADPICS
+OSPA
+Payroll Datamart
+R*STARS
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Procurement Services
+Program: Agency Specific
+
+Program Description
+Procurement Services is the central purchasing authority for state government. The section
+provides statewide buying and strategic procurement services; administers purchasing and
+contracting rules; and provides procurement training (ORS 279A, 279B, 279C; OAR 125).
+
+The Agency Specific program oversees the preparation, negotiation, and implementation of all
+agency-specific procurements. It administers small, informal, and formal solicitations and
+contract services; and initiates, solicits, selects, and executes agency-specific price agreements
+and contracts for goods, personal and professional services, public improvements, public works,
+and international, interstate, intergovernmental and interagency agreements (ORS 279A.050).
+
+Program Records
+259 Agency-Specific Personal Services Contract Annual Report Records
+ Retain 6 years, destroy
+260 Agency-Specific Personal Services Contract Records
+(Including Review and Approval)
+ Retain 3 years, destroy
+261 Agency-Specific Program-Initiated Solicitation Records
+ (Non-Public Improvement and Public Works)
+ Retain 6 years, destroy
+262 Agency-Specific Program-Initiated Solicitation Records
+ (Public Improvement and Public Works)
+ Retain 10 years, destroy
+263 Architectural and Engineering Contract Review and Approval Records
+ Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Contracts and Agreements
+Correspondence
+Professional Membership Records
+Public Records Disclosure Request Records
+Signature Authorizations
+Staff Meeting Records
+Visitor Logs
+Work Orders
+
+Financial Records (OAR 166-300-0025)
+Checks Records
+Competitive Bid Records
+Credit Card Records
+Purchasing Records
+Travel Expense Records
+Payroll Records (OAR 166-300-0035)
+Family Medical Leave Records
+Leave Applications
+
+Databases
+ORPIN
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Procurement Services
+Program:  Operations
+
+Program Description
+The Operations program administers the internet-based Oregon Procurement Information
+Network (ORPIN), state training certification, procurement guidance, and statistical reporting.
+
+ORPIN is the official publication forum for procurement notices and advertisements of the State
+of Oregon, local governments, and political subdivisions (ORS 279A.140; OAR 125-246-0500).
+It is used to publicize and access government bidding opportunities; current and historic contract
+information; and details of suppliers interested in doing business with the state. Opportunity
+documents, and current and historical award information, may be viewed or downloaded to the
+user's system; this information is maintained with the solicitation files (see Agency Specific and
+Strategic Sourcing programs). The Operations program provides technical support to users of the
+ORPIN system.
+
+Operations creates, maintains, reviews and updates procurement forms, templates, guidelines,
+procedures, and policies to help agencies accurately conduct procurement business. The program
+also conducts organizational, administrative, and procedural studies and strategic analyses,
+usually in the form of applied research, special projects, and program evaluations.
+
+Operations also administers the DAS Procurement Services (DPS) training program, which
+provides state and local governments with information and job aids that promote best practices
+and improved procurement processes. The training supports an Oregon-specific credentialing
+program, which includes two certifications and three certificates that are part of a tiered
+delegation policy. DPS partners with higher education (Chemeketa Community College and
+Portland State University), and trade organizations (National Institute of Governmental
+Purchasing and Oregon Public Purchasing Association), in compiling and presenting training.
+
+Program Records
+264 Statewide Procurement Certification and Credentialing Records
+ Retain 6 years after expiration of credentials, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Contracts and Agreements
+Conference, Seminar, and Training Program Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Professional Membership Records
+
+Public Records Disclosure Request Records
+Signature Authorizations
+Financial Records (OAR 166-300-0025)
+Checks Records
+Competitive Bid Records
+Credit Card Records
+Purchasing Records
+Travel Expense Records
+Invoice Records
+Information and Records Management Records (OAR 166-300-0030)
+User Support Records
+Information Service Subscription Records
+Forms Development Records
+Payroll Records (OAR 166-300-0035)
+Family Medical Leave Records
+Leave Applications
+
+Databases
+Workday
+Oregon Credentialing Database
+ORPIN
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Procurement Services
+Program:  Qualified Rehabilitation Facility
+
+Program Description
+The Qualified Rehabilitation Facility (QRF) contracting program facilitates the state’s Products
+of Disabled Individuals law, which encourages and assists disabled individuals to achieve
+maximum personal independence through useful and productive gainful employment by assuring
+an expanded and constant market for sheltered workshop and activity center products and
+services; and obliges state and local governments, school districts and other tax supported
+political bodies to purchase goods and services from qualified nonprofit QRFs when the product
+or service meets their requirements (ORS 279.835 - 279.855). The QRF program identifies
+public sector contracting opportunities; ensures that QRFs meet state and federal occupational
+health and safety standards; and facilitates contractual relationships between public agencies and
+QRFs for the provision of products and services (OAR 125 Division 55).
+
+The QRF program produces directories and guides describing how to do business with QRFs;
+current availability of QRF products and services (procurement list); and geographical location
+of certified QRFs. The program also supports the work of the volunteer QRF Advisory Council,
+which provides recommendations to DAS and the Chief Procurement Officer regarding the
+administration of the program (OAR 125-055-0010(4)).
+
+Program Records
+265 Qualified Rehabilitation Facility Records
+ (a) Retain program annual reports 20 years after publication, destroy
+ (b) Retain advisory council meeting records 6 years, destroy
+ (c) Retain facility application records 6 years after receipt, destroy
+ (d) Retain facility price determination records 6 years after finalization, destroy
+ (e) Retain suitability and termination records 6 years after expiration or termination of
+      listing on procurement list
+ (f) Retain facility procurement list 2 years after superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Contracts and Agreements
+Correspondence
+Mailing Lists
+Policy and Procedure Guidelines and Manuals
+Publication Preparation Records
+Financial Records (OAR 166-300-0025)
+Internal Audit Report Records
+
+Information and Records Management Records (OAR 166-300-0030)
+Forms Development Records
+
+Databases
+QRF Procurement
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Procurement Services
+Program:  Statewide Statutes, Rules, and Policies
+
+Program Description
+The Statewide Statutes, Rules, and Policies program processes requests for delegations, special
+procurements, public improvement exemptions, and special requests requiring the approval of
+the Chief Procurement Officer. Delegations of procurement authority identify individuals
+authorized to conduct procurement on behalf of government agencies, and enable agencies to
+conduct solicitations, screen and select for evaluation and award determination, purchase
+directly, sign as a party to the contract; and execute contracts once the required approvals have
+been received (ORS 279A.075; OAR 125-246-0170). Special Procurements allow contracting
+agencies to deviate from regular contracting procedures to utilize class special and contract-
+specific special procurements, provided they meet the standards for fairness, cost savings and
+public interest (ORS 279B.085; OAR 125-247-0285). Public improvement contract exemptions
+release agencies from seeking the lowest bids, permitting them to use alternative procurement
+methods (ORS 279C.335; OAR 125-249-0210). Other special requests include approvals of sole
+source procurements, brand name specifications, e-filing, and federal program purchases.
+
+The Statewide Statutes, Rules and Policies program offers services to the agencies on a
+consultation basis; develops and interprets public contracting rules and statewide procurement
+policies; develops statewide templates; and conducts reviews for compliance. The program also
+reviews agency contract files and practices for compliance with statutes, rules, and policies.
+
+Program Records
+266 Awarded Contractor Files
+ Retain 6 years, destroy
+267 Contract Rule Exemption Records
+ Retain 6 years after expiration of exemption authority, destroy
+268 Contracting Authority Delegation Records
+ Retain 6 years after delegation expiration, destroy
+269 Statewide Procurement Policies and Procedures
+ Retain 6 years after superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+
+Databases
+ORPIN
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Procurement Services
+Program:  Strategic Sourcing
+
+Program Description
+Strategic Sourcing oversees the preparation, negotiation, and implementation of all statewide
+price agreements, leveraging the purchasing power of state and local government agencies. The
+program administers the formal solicitation processes and contract administration duties
+described in ORS 279ABC and OAR 125; duties include initiating, soliciting, executing, and
+managing statewide price agreements for goods and services on behalf of agency customers.
+
+The Strategic Sourcing program also administers the Oregon Cooperative Procurement Program
+(ORCPP), which provides fee-based services to local government agencies and other qualified
+organizations. Program participants are entitled to purchase goods and services through statewide
+price agreements; advertise solicitations on (ORPIN) (see Operations program); and obtain
+procurement training and certification (see Operations program). ORCPP also provides
+participants with access to the State of Washington's cooperative purchasing contracts, and other
+western state joint solicitation efforts through the Western States Contracting Alliance (WSCA).
+
+The program also collects Vendor Contract Administration Fees (VCAF); and fees for ORPIN
+registration, solicitation and contract document reproduction, and training and certification.
+
+Program Records
+270 Strategic Sourcing Personal Services Contract Annual Report Records
+ Retain 6 years, destroy
+271 Strategic Sourcing Personal Services Contract Records
+ Retain 3 years, destroy
+272 Non-Public Improvement and Public Works Strategic Sourcing Program-Initiated
+Solicitation Records
+ Retain 6 years, destroy
+273 Public Improvement and Public Works Strategic Sourcing Program-Initiated
+Solicitation Records
+ Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Public Records Disclosure Request Records
+Publication Preparation Records
+Signature Authorizations
+Staff Meeting Records
+
+Work Orders
+Financial Records (OAR 166-300-0025)
+Competitive Bid Records
+Travel Expense Records
+Vendor Reports
+Payroll Records (OAR 166-300-0035)
+Leave Applications
+
+Databases
+ORPIN
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Publishing and Distribution
+Program:  Mail Processing and Distribution
+
+Program Description
+Mail Processing and Distribution provides mail and postal mail shuttle and delivery services to
+state agencies located in cities along the I-5 corridor. Incoming mail is sorted and directed to
+agencies; outgoing mail is placed on the state shuttle or sent via the U.S. Postal Service or a
+common carrier.
+
+Mail Processing and Distribution also provides an online interagency package tracking system,
+PacTrac, which enables tracking and secure shipments through the program’s state shuttle
+service. PacTrac package deliveries are handled and priced according to their respective security
+level (1 to 4), as defined in the statewide Information Asset Classification policy (107-004-050).
+
+The program inserts customer print jobs into envelopes for mailing; provides addressing of
+envelopes and brochures; machine meters mail; and processes mail by zip code.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+Postal Records
+Facilities/Property Records (OAR 166-300-0020)
+Vehicle Records
+Risk Management Records (OAR 166-300-0045)
+Vehicle Accident Records
+
+Databases
+MMS
+PACTRAC
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Publishing and Distribution
+Program:  Printing and Publishing
+
+Program Description
+Publishing and Distribution provides printing services to state agencies through its in-plant
+production facility. It provides the following services: graphic design; conversion of files to print
+ready formats; mainframe secure printing; digital printing; bindery and hand work of print jobs;
+scanning; shipping, receiving and inventory control; and competitive bid administration for print
+requests that cannot be processed within Publishing and Distribution. The program also provides
+digital printing services at two satellite locations in Salem. Its operating authority is stated in
+ORS 282.
+
+Program Records
+274 Job Ticket Files and Work Orders
+ Retain 5 years after project completion, destroy
+275 Mainframe Secure Print Destruction and Negotiable Logs
+ Retain until superseded or obsolete, destroy
+276 Production Statistic Reports
+ Retain 6 years after completion, destroy
+277 Rate and Methodology Records
+ Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Contracts and Agreements
+Publication Preparation Records
+Information and Records Management Records (OAR 166-300-0030)
+Information System Planning and Development Records
+
+Databases
+Check Log
+Logic
+Avanti
+Online Order System
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Publishing and Distribution
+Program:  Services
+
+Program Description
+The Publishing and Distribution (P&D) Services program provides business services
+(purchasing, personnel, and management support); customer service (print order processing,
+customer support and training, and liaising between customers and P&D production); internal
+policies and procedures; internal audit responsibilities; building and information security; and
+disaster recovery processes.
+
+Program Records
+278 Print Negatives
+ Retain 2 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar, and Training Program Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Visitor Logs
+Facilities/Property Records (OAR 166-300-0020)
+Building Records
+Equipment/Property Disposition Records
+Master Material Safety Data Records
+Financial Records (OAR 166-300-0025)
+Accounts Payable Records
+Accounts Receivable Records
+Competitive Bid Records
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Maintenance Records
+Computer System Security Records
+Personnel Records (OAR 166-300-0040)
+Work Schedules and Assignment Records
+Risk Management Records (OAR 166-300-0045)
+Emergency Response Plans and Procedures
+Incident Reports
+Safety Compliance and Inspection Records
+
+Databases
+Check Log
+Logic
+Avanti
+Online Ordering System
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Risk Management
+Program: Claims Management
+
+Program Description
+The Claims Management program mitigates the state’s exposure to risk by conducting timely,
+accurate and complete claims processing; estimates the financial value of claims; gathers data on
+claims for record keeping, loss forecasting and performance improvement purposes; and
+establishes reporting relationships and administrative controls over claim management services.
+
+Claims Management provides claims resolution for damage to state property, loss or injury to the
+public arising out of state activities and claims consulting services for state agencies statewide
+(ORS 278.120). The unit investigates, evaluates, defends, and settles claims and suits filed
+against the State of Oregon, its officers, employees, and agents under the Oregon Tort Claims
+Act (ORS 30.260-30.300). The Insurance Fund, established by ORS 278.425, is used to provide
+both commercial and self-insurance coverage for the State of Oregon (OAR 125 Division 150).
+
+Claims Management uses its risk management information system, CS STARS, to manage
+ongoing liability and property claims. CS STARS is also used to extract and maintain summary
+claims data for long-term trend analysis; summary information includes payout amount, type of
+loss, cause of loss, incident location, involved agency, vehicle information, and defense costs.
+
+Program Records
+279 Liability Claim Records
+(a) Retain case files involving minors 6 years after minor claimant’s 18th birthday,
+destroy
+(b) Retain all other case files 6 years after case closure, destroy
+280 Medicare Secondary Payer Coordination of Benefits (COB) Records
+ Retain 10 years after closure, destroy
+281 Property Claim Files
+ Retain 4 years after case closure, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar, and Training Program Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Information and Records Management Records (OAR 166-300-0030)
+Records Management Records
+
+Databases
+CS STARS
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Risk Management
+Program: Risk Administration
+
+Program Description
+Risk Administration minimizes risk to state government and manages the costs of claims against
+the state. Pursuant to statutory authority, it administers and maintains the actuarial integrity of
+the Insurance Fund, which provides insurance and self-insurance for Oregon (ORS 278.425;
+OAR 125 Division 150). Risk Administration allocates insurance costs to state agencies based
+upon their insurance requirements and prorated forecasts from past losses. It also purchases
+specific excess and specialty coverage; and purchases commercial insurance against specific
+liabilities incurred by certain agencies; these premiums are directly re-billed to agencies. Risk
+Administration provides overall direction to the Risk Management section, setting the strategic
+risk management vision, coordinating administrative and program support services, evaluating
+the quality and effectiveness of services, establishing reporting relationships and administrative
+controls, and working with other agencies and entities to manage operational and strategic risk.
+Risk Administration also supports the work of the Risk Management Advisory Council, which
+provides outreach to all state agencies, and a forum for stakeholders to exchange information,
+generate ideas, and make recommendations to DAS Risk Management. The Risk Administration
+program maintains the official copy of the Risk Management Advisory Council’s records.
+
+Program Records
+282 Actuarial and Outside Consultant Study Records and Reports
+ Retain 10 years, destroy
+283 Agency Risk Charge Supporting Documentation
+ Retain 6 years, destroy
+284 Insurance Fund Financial Reports
+ Retain 10 years, destroy
+285 Risk Management Advisory Council Records
+(a) Retain meeting records, issue papers, and reports 20 years, destroy
+(b) Retain formation and organizational records 2 years after life of the council, destroy
+286 Self-Insurance Policy Handbooks
+ Retain 50 years after superseded or expired, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+
+Databases
+CS STARS
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Risk Management
+Program: Risk Control
+
+Program Description
+Risk Control works with state agency executives, managers, safety advisors and risk coordinators
+to help establish effective safety and risk management systems within their respective agencies.
+Systems are designed to enable agencies to identify, analyze and mitigate their risk exposure.
+
+Staff analysts focus on exposures covered by the self-insurance fund, minimizing the payment of
+public funds for losses (ORS 278; OAR 125 Division 150). Staff Analysts address risks
+associated with employee injury, tort liability and property assets, assisting agencies to maximize
+the use of funds for operations and services. Risk Control compiles and makes available topic
+specific guides and topical tools and information called Risk Toolkits. It also establishes
+standards of state vehicle use, in support of the Fleet and Parking Administration program
+(Enterprise Asset Management) (ORS 283.305 - 283.395; OAR 125 Division 155).
+
+The Risk Control program administers the Inmate Injury Fund, which covers inmates for bodily
+injury sustained during work performed as part of their incarceration plan (ORS 655; OAR 125
+Division 160). The State Accident Insurance Fund Corporation (SAIF) has administered claims
+against this fund since 1991, pursuant to an agreement with the DAS Risk Management Division.
+The Risk Control program monitors, maintains, designs, and administers safety management;
+administering the insurance contract with SAIF, the state´s insurer; financing state workers´
+compensation insurance; consulting with agency executives and managers to implement safety
+management systems; and integrating safety systems with other government operating systems.
+
+Program Records
+287 Agency Safety and Risk Consultation and Project Records
+ Retain 10 years after completion or close of project, destroy
+288 Citizen State Vehicle Complaint Records
+ Retain 3 years after case closure, destroy
+289 Commercial Liability Insurance Policies
+ (a) Retain liability policies 75 years after expired and all known claims closed, destroy
+ (b) Retain property policies 3 years after expired and all known claims closed, destroy
+290 Inmate Injury Claim Files, 1980 – 1991
+ Retain 75 years, destroy
+291 Local Government Entity Liability Participation Certificates [ended 1990]
+ Retain 50 years, destroy
+292 Oregon and Out of State Workers’ Compensation Policy and Bond Records
+ Retain 50 years after expired and all known claims closed, destroy
+293 Risk Guidelines and Toolkits
+ Retain 2 years after superseded or obsolete, destroy
+294 State Agency Risk Control Performance Reports
+ Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Conference, Seminar, and Training Program Records
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Publication Preparation Records
+Information and Records Management Records (OAR 166-300-0030)
+Records Management Records
+
+Databases
+CS STARS
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Shared Financial Services
+Program: Administration
+
+Program Description
+Shared Financial Services (SFS) provides contracted financial and accounting services to
+selected small state agencies, boards and commissions, and the Governor’s Office. SFS contracts
+are administered and maintained by the Procurement Services section and contain varying
+combinations of services to meet specific client needs. SFS services include budget preparation
+and execution services, and daily processing for accounts payable, accounts receivable, receipts,
+and disbursements. SFS prepares quarterly allotment plans, financial plans, and reports for
+clients; it also projects future cash and expenditure needs, and alerts clients to potential problem
+areas. Other services include establishing and linking accounting structures to support financial
+information needs and ensuring that accounting and budget structures provide decision-makers
+with needed information. SFS’s authority is found in ORS 283.110, ORS 293.590, and ORS 291.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar, and Training Program Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Signature Authorizations
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+Account Transfer Records
+Accounting Structure Organizational Hierarchy Records
+Agency Control Reports
+Annual Financial Reports
+Budget Allotment Reports
+Cash Receipt Records
+Receipt Register Records
+Travel Expense Records
+Trial Balance Reports
+Voucher Register Records
+Warrant Register Records
+Personnel Records (OAR 166-300-0040)
+Position Inventory Control System (PICS) Reports
+
+Databases
+None
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Shared Financial Services
+Program: Accounting and Budgeting
+
+Program Description
+The SFS Accounting and Budgeting program provides internal accounting support for all of
+DAS. Its services include setting up accounting structures; providing financial information and
+support to agency program managers; preparing statewide financial reports; preparing cost
+allocation financial statements; A-133 sub-recipient monitoring; accounting for fixed assets;
+Certificate of Participation (COPs) accounting; and reconciling State Treasury statements. For
+additional COP records, see the Accounts Payable program in this section; and the Capital
+Planning and Finance program (in the Chief Financial Office).
+
+Program Records
+295 Certificate of Participation Acquisition and Debt Service Expenditures
+ Retain 6 years, destroy
+296 Federal Sub-Recipient Compliance Monitoring Records
+ Retain 3 years after state audit, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Facilities/Property Records (OAR 166-300-0020
+Asset Inventory Reports
+Building Records
+Equipment/Property Disposition Records
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+Account Transfer Records
+Annual Financial Reports
+Bank Statements Records
+General Ledger Transaction Reports
+Trial Balance Reports
+
+Databases
+FAS (Fixed Asset Accounting System)
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Shared Financial Services
+Program: Accounts Payable
+
+Program Description
+Accounts Payable provides support to the section and performs disbursements for DAS. Duties
+include processing travel claims, vendor invoices, Small Purchase Order Transaction System
+(SPOTS) payments, and Certificates of Participation (COPs); invoicing DAS and state and non-
+state agencies for Data Center Services work; and providing accounting for federal and state
+disbursements (including federal pass-through funds) to cities, counties, transit districts, and
+agencies. For additional COP records, see Accounting and Budgeting program (this section); and
+Capital Planning and Finance program (Chief Financial Office). For other SPOTS records, see
+the Statewide Financial Management Services program (Enterprise Goods and Services).
+
+Program Records
+297 Certificate of Participation Financing Request and Payment Records
+ Retain 3 years after Certificate maturity, destroy
+298 Disbursements to Local Governments Records
+ Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Signature Authorizations
+Financial Records (OAR 166-300-0025)
+Encumbrance Register Records
+Voucher Records
+Warrants Records
+
+Databases
+R*Stars
+Access Online
+Revenue Sharing Database
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Goods and Services
+Section: Shared Financial Services
+Program:  Accounts Receivable
+
+Program Description
+The Accounts Receivable program provides DAS with internal cashiering and accounts
+receivable services. Additional duties include invoicing DAS and other state and non-state
+agencies; setting up accounts receivable; and recording receipts and monies.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Financial Records (OAR 166-300-0025)
+Accounts Receivable Reports
+Cash Receipt Records
+Check Registers Records
+Deposit Slips Records
+Invoices Records
+Petty Cash Fund Records
+Receipts Records
+
+Databases
+DAS Invoicing Model
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Information Systems
+Program: EIS Administration
+
+Program Description
+Enterprise Information Services (EIS) leads the planning, management, and policy development
+for information resources across state government. EIS has previously been known as the “Office
+of the State Chief Information Officer” (OSCIO, 2012-2021), Enterprise Information Strategy
+and Policy Division (EISPD, 2006-2012), and Information Resources Management Division
+(IRMD, pre-2006) The EIS administrator serves as Oregon's Chief Information Officer (State
+CIO).
+
+The State CIO and Deputy State CIO are the primary communication links between the EIS
+Division and external groups, including CIO Councils, national organizations, private sector
+vendors, and other agencies.
+
+The EIS Administration program serves as the Office of the State CIO. It provides leadership and
+strategic direction for enterprise IT governance bodies and initiatives; and leads, directs, and
+supports all of the EIS sections and programs. EIS Administration directs, manages, and supports
+the EIS Division’s administrative and financial operations, including strategic and business
+planning; budget, financial, and contract management; business case development; project
+coordination and management; information systems oversight; performance measurement and
+benchmarking; and legislative tracking and fiscal impact statement development.
+
+The E-Government Portal Advisory Board advises the agency on the development of electronic
+government portals for state agencies; collection of convenience fees by DAS or contracted
+providers; usability of current electronic government portals; and ways to improve government
+services through electronic portals (O.L. 2009, Ch. 829 §2; ORS 182.128). (See Data Services
+Division for related records.)
+
+The CIO Administration program maintains legacy records regarding IRMD programs and
+services that have not otherwise been continued or superseded by active DAS programs; records
+include those of the Health Insurance Portability and Accountability Act (HIPAA) Executive
+Steering Committee, IRMD Project Management Office and Statewide Year 2000 Project Office.
+The CIO Division’s statutory authority is found in ORS Chapters 171, 182, 184, 190, 283, 291,
+and 293.
+
+Program Records
+299 CIO Management Council (CIOMC) Records [ended 2013]
+ (a) Retain meeting agendas, exhibits and minutes 15 years, destroy
+(b) Retain ad hoc reports and studies 10 years, destroy
+300  Customer Service Satisfaction Records
+ Retain current and previous, destroy
+301 E-Government Portal Advisory Board Meeting Records
+ Retain 10 years, destroy
+
+302 Enterprise Annual IT Reports
+ Retain 10 years, destroy
+303 Enterprise Architecture Records
+ Retain 10 years after superseded or obsolete, destroy
+304 Enterprise Asset Inventory and Management Records
+Retain 10 years after superseded or obsolete, destroy
+305 Enterprise Awards Program Records
+ Retain 6 years, destroy
+306 Enterprise Governance Records
+ Retain 10 years after superseded or obsolete, destroy
+307 Enterprise Information Resource Management Strategy (EIRMS)
+ Retain 20 years after superseded or obsolete, destroy
+308 Enterprise Information Resource Request (IRR) Records
+ Retain 6 years after estimated project completion date, destroy
+309 Enterprise Pilot Project Initiative Records
+ Retain 6 years after pilot project ends, destroy
+310 Enterprise Workgroup, Conference, Work Session and Training Records
+ Retain 6 years, destroy
+311  External Survey and Questionnaire Records
+ Retain current and previous, destroy
+312 HIPAA Executive Steering Committee Meeting Minutes and Records [ended 2005]
+ Retain 25 years, destroy
+313  Legislative Liaison, Analysis and Testimony Records
+ Retain 6 years, destroy
+314  Major Information Technology Project Oversight and Reporting Records
+ Retain 6 years after project oversight ends, destroy
+315 Project Management Records – DAS Projects
+ [IRMD Project Management Office, ended 2005]
+Retain for the life of the system developed, destroy
+316 State Agencies’ IT Cost Management and Optimization Reports
+ Retain 6 years, destroy
+317 Statewide Information Plans
+ Retain 10 years after superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Business Plan Records
+Calendar and Scheduling Records
+Contracts and Agreements
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Staff Meeting Records
+Visitor Logs
+Financial Records (OAR 166-300-0025)
+
+Audit Reports Records
+Budget Preparation Records
+Competitive Bid Records
+Grant Records
+Travel Expense Records
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Maintenance Records
+Computer System Program Documentation
+Information System Planning and Development Records
+Software Management Records
+Telecommunications System Management Records
+Risk Management Records (OAR 166-300-0045)
+Emergency Response Plans and Procedures
+Safety Program Records
+
+Databases
+ITI Tracking Form
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Information Systems
+Section: Cyber Security Services
+Program: CSS Administration
+
+Program Description
+Cyber Security Services (CSS) manages statewide efforts to protect the state's information. CSS
+carries out the DAS responsibility for and authority over state agency information systems and
+the information stored on those systems (ORS 182.122; OAR 125 Division 800). CSS
+Administration focuses on developing statewide policies, standards, guidelines, and tools to help
+agencies protect, secure, and make available public information. CSS works with agencies
+to assess information business risks and vulnerabilities. The program identifies and analyzes
+trends and risks at the agency and state level and develops statewide projects and tactics to
+reduce risk. Pursuant to the agency’s authority and responsibility for a statewide incident
+response program, CSS establishes enterprise procedures, standards, and guidelines for statewide
+and agency-level information security incident response. CSS maintains a forensics program
+capable of assisting agencies.
+
+Program Records
+318 Communications Forum Records (Including Information Security Council)
+ Retain 6 years, destroy
+319 CSS Advisory Group Records
+ Retain 10 years, destroy
+320 Cyber Security Services Project Management Records
+ (a) Retain system projects for the life of the system developed, destroy
+ (b) Retain non-system projects 6 years after project end date, destroy
+321 Enterprise Information Security Strategy Records
+ Retain 20 years after superseded or obsolete, destroy
+322 Firewall Logs
+ Retain 3 years, destroy
+323 Technical Security Assessments, and Incident Response Records
+ Retain 5 years, destroy
+324 Statewide Information Security Plans
+ Retain 10 years after superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Business Plan Records
+Calendar and Scheduling Records
+Conference, Seminar, and Training Program Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Professional Membership Records
+
+Staff Meeting Records
+Financial Records (OAR 166-300-0025)
+Vendor Reports Records
+Information and Records Management Records (OAR 166-300-0030)
+Information System Planning and Development Records
+
+Databases
+None
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Information Systems
+Section: Data Governance and Transparency
+Program: Geospatial Enterprise Office
+
+Program Description
+The Geospatial Enterprise Office (GEO) develops, maintains, and hosts Oregon’s Geospatial
+Data Clearinghouse (OGDC), which provides a store of Geographic Information System (GIS)
+and other data collected by Oregon public agencies. The OGDC also stores all data for the U.S.
+Census Bureau relating to the State of Oregon. Data is accessible online through the Statewide
+Area Network (WAN) and the GEO web site. The GEO section also publicizes GIS initiatives to
+local, state, and regional public agencies, and assists state agencies in coordinating GIS
+activities.
+
+Program Records
+325 Comprehensive Baseline Mapping Database "Framework" Records
+ Retain 4 years after superseded or obsolete, destroy
+326 Geographic Information System Project Records
+ Retain 6 years after project ends, destroy
+327 Oregon Geospatial Data Clearinghouse Records
+ Retain 4 years after superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Financial Records (OAR 166-300-0025)
+Invoice Records
+
+Databases
+Oregon Geospatial Data Clearinghouse
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Information Systems
+Section: Data Governance and Transparency
+Program: Oregon Geographic Information Council
+
+Program Description
+The Oregon Geographic Information Council (OGIC) provides policy direction to the Geospatial
+Enterprise Office (GEO) regarding the direction of state geographic mapping and the collection
+of Geographic Information System (GIS) data. It provides a mechanism to prioritize initiatives
+and guidelines and coordinates limited GIS resources for government agencies. OGIC is
+composed of representatives from natural resources, human services, public safety state agencies,
+and some federal and local government representatives (EO-00-02). OGIC has three standing
+committees: Policy Advisory Committee, Technical Advisory Committee, and the Framework
+Implementation Team. The Framework Implementation Team is composed of 13 subcommittees.
+
+Program Records
+328 Oregon Geographic Information Council Records
+ Retain 25 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Databases
+None
+
+Organizational Placement              Schedule Number: 2022-0001
+Agency:  Department of Administrative Services
+Division: Enterprise Information Systems
+Section: Economic Recovery Executive Team
+Program: ERET Administration
+
+Program Description
+The Economic Recovery Executive Team (ERET) was created by the governor in 2009 to
+coordinate the use of Oregon’s stimulus funds, as provided by the American Recovery and
+Reinvestment Act (ARRA) (Pub. L. 111-5). ERET provides assurance, oversight and assistance
+to the Governor’s Office, Legislative Assembly, state agencies, and citizens regarding ARRA
+funds awarded or provided to state agencies. ERET works with state agencies on ARRA
+implementation, including grant application design and policy development; contract,
+procurement, and vendor issues; communication and outreach; and compliance and auditing.
+ERET oversees the Oregon Stimulus Transparency and Accountability Tracking System
+(ORSTATS), which centrally captures information about stimulus expenditures; assesses the
+impact of stimulus funds; monitors individual projects and programs; and maps impact data.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Publication Preparation Records
+Staff Meeting Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+Invoice Records
+
+Databases
+ORSTATS
+
+## Cross-references
+
+General records retention schedules cited in the text above. These are OAR
+chapter 166 rules and live verbatim in the sibling corpus
+[OregonAI/executive-regulatory-frameworks](https://github.com/OregonAI/executive-regulatory-frameworks);
+they are referenced here as citations, never copied (see AGENTS.md).
+
+Reproduced exactly as the source schedule cites them. A few are stale upstream —
+the rule was renumbered or repealed after this schedule was published — so a
+citation here is not a guarantee the rule still exists. Resolving one reports
+the difference: a live rule returns a title and link, a stale one reports that
+the sibling corpus holds no such document.
+
+- OAR 166-300-0015
+- OAR 166-300-0020
+- OAR 166-300-0025
+- OAR 166-300-0030
+- OAR 166-300-0035
+- OAR 166-300-0040
+- OAR 166-300-0045
+
+## Provenance & change history
+
+- Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-das.pdf> · retrieved 2026-07-25 · sha256 `bd8e1a803a7f862934a2645b2461b430411ad9dafd842c4ba49ac1e7730304f3`
+- Snapshot: `_meta/snapshots/schedule-das.txt` (extracted text) and `_meta/snapshots/schedule-das.pdf` (raw source, 96 pages).
+- Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 96 pages. Stripped repeated running-header lines: "Edition: April 2022"; "Oregon State Archives"; "Records Retention Schedule". Stripped 95 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
+- See [CHANGELOG](../CHANGELOG.md).

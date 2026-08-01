@@ -1,0 +1,127 @@
+Office of the Long-Term Care Ombudsman
+Records Retention Schedule 2024-0007
+Effective Date: October 2024
+Table of Contents
+Program:  Long-Term Care Ombudsman ...................................................................... 1
+Program:  Oregon Public Guardian ................................................................................ 3
+Program:  Residential Facilities Ombudsman ................................................................ 4
+
+Agency:  Office of the Long-Term Care Ombudsman
+Program:  Long-Term Care Ombudsman
+
+Program Description
+The Long-Term Care Ombudsman (LTCO)investigates and resolves complaints made
+by or on behalf of long-term care facility residents. The mission of the agency is to
+protect individual rights, promote independence, and ensure quality of life for
+Oregonians living in long-term care and residential facilities and for Oregonians with
+decisional limitations. The agency is the primary respondent and central
+clearinghouse for non-abuse long-term care complaints and provides appropriate
+referral services. LTCO is the only entity involved in the long-term care system that
+has no financial conflict of interest with the long-term care resident. It provides a
+check and balance to government involvement with residents and is the primary force
+opening Oregon’s long term care facilities to continuous scrutiny and community
+dialogue. The Residential Ombudsman and Public Guardian Advisory Board
+(ROPGAB)  monitors the agency and advises the Governor and Legislative Assembly.
+
+Program Records
+001  Long Term Care Ombudsman Annual Performance Measures (formally
+Annual/Biennial Reports), 1981-[ongoing], 1 c.f
+Retain permanently, transfer to State Archives after 5 years
+002    Long Term Care Ombudsman Federal Reports and Statistics, 1981
+[ongoing], 1 c.f.
+(a) Retain final reports permanently, transfer to State Archives after 5 years
+(b) Retain preparation materials 3 years after final report submitted, destroy
+003    Long Term Care Ombudsman Case Files
+(a) Retain cases involving long-term care residents 10 years after case closed,
+destroy.
+(b) Retain cases involving complaints against Certified Ombudsman volunteers
+and staff not involving violations of state personnel policy, 5 years after case
+closed, destroy.
+004    Long Term Care Ombudsman Reports and Publications
+(a) Retain policy reports and studies in-agency until no longer needed, transfer
+one copy to State Library
+(b) Retain all other internal reports until compiled into annual report, destroy.
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Financial Records (OAR 166-300-0025)
+Personnel Records (OAR 166-300-0040)
+
+Systems of Record
+FileMaker Pro
+RTZ GetCare
+
+Agency:  Office of the Long-Term Care Ombudsman
+Program:  Oregon Public Guardian
+
+Program Description
+The Oregon Public Guardian and Conservator Program (OPG), housed within the
+Office of the Long-Term Care Ombudsman (OLTCO), was established by the
+legislature in 2015.  OPG manages the personal, health care and financial affairs of
+adults who have been found legally incapacitated by a court and for whom they have
+been appointed as a guardian. The Oregon Public Guardian only serves as guardian
+when there is no less restrictive option available, and no appropriate alternative
+guardian is available.
+OPG screens prospective referrals and then, if accepted as a referral, a full
+assessment is completed to determine if the person meets criteria for OPG
+guardianship services. Additionally, OPG manages a volunteer program and runs a
+Guardian Academy which trains volunteer guardians who will have guardianship
+duties delegated to them on select cases after successfully completing the Academy
+and additional hours of supervised work.
+
+Program Records
+005  Public Guardian Client Files
+Retain 2 years after client deceased or client file closed, destroy
+006  Public Guardian Client Medical Records
+Retain 2 years after client deceased or client file closed, destroy
+007 Center for Guardianship Certification (CGC) Certifications
+ Retain until employee separation, destroy
+008 Public Guardian Client Referral Screening Records
+Retain accepted referral records until case file opened, transfer to client file
+Retain rejected referral records 3 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Facilities/Property Records (166-300-0020)
+Financial Records (OAR 166-300-0025)
+Personnel Records (OAR 166-300-0040)
+
+Systems of Record
+SEM/EMS
+
+Agency:  Office of the Long-Term Care Ombudsman
+Program:  Residential Facilities Ombudsman
+
+Program Description
+The Residential Facilities Ombudsman program (RFO) provides service to individuals
+living in homes and facilities licensed or certified for Intellectual and/or
+Developmental Disabilities or Mental Health Conditions statewide. The RFO provides
+community outreach to introduce the program while at the same time responding to
+requests for assistance from virtually every county in the state.
+
+The RFO program and its designees respond to requests for assistance from
+individual residents as well as anyone concerned with their care. Individuals receive
+support through home visits, investigating concerns on behalf of individuals,
+educating, and assisting individuals to resolve complaints and exercise their rights,
+advocating to resolve resident rights and quality of life issues, identifying, and
+reporting systemic issues affecting services for individuals.
+
+Program Records
+009  Residential Facilities Ombudsman Case Files
+(a) Retain cases involving long-term care residents 10 years after case closed,
+destroy.
+(b) Retain cases involving complaints against Certified Ombudsman volunteers
+and staff not involving violations of state personnel policy 5 years after case
+closed, destroy.
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Facilities/Property Records (OAR 166-300-0020)
+Financial Records (OAR 166-300-0025)
+Personnel Records (OAR 166-300-0040)
+
+Systems of Record
+FileMaker Pro

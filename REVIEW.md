@@ -1224,7 +1224,7 @@ Oddities in the /gov/eo listing of record recorded by `src/ingest_eo.py` (duplic
 - `eo-21-05` — two listing rows with different bytes (/gov/eo/eo-21-05.pdf vs /gov/eo/eo_21-05.pdf) — confirm which file is the order of record
 - `eo-21-20` — listing says 2021 No. 29; filename (trusted) says 2021 No. 20 — the description matches the filename
 
-## Agency profiles needing curation (159)
+## Agency profiles needing curation (161)
 
 These agencies have in-repo content but their profile (`_meta/agency-profiles.yml`) still carries stub values — the model gets their data without its context until a human fills governance (with a citation) and publication status.
 
@@ -1270,6 +1270,7 @@ These agencies have in-repo content but their profile (`_meta/agency-profiles.ym
 - `_meta/agency-profiles.yml (department-of-agriculture-oregon-tall-fescue-commission)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-agriculture-oregon-trawl-commission)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-agriculture-oregon-wheat-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-consumer-and-business-services-building-codes-division)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-consumer-and-business-services-director-s-office)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-consumer-and-business-services-finance-and-securities-regulation)` — policies_published unknown (where does this agency publish?)
@@ -1376,6 +1377,7 @@ These agencies have in-repo content but their profile (`_meta/agency-profiles.ym
 - `_meta/agency-profiles.yml (psychiatric-security-review-board)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (public-utility-commission-oregon-board-of-maritime-pilots)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (real-estate-agency)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (secretary-of-state)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (secretary-of-state-archives-division)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (secretary-of-state-audits-division)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (secretary-of-state-business-services-division)` — policies_published unknown (where does this agency publish?)
@@ -1395,19 +1397,82 @@ ingestion time. No document has yet had a human read-through against its officia
 source. When you review a file, update its `last_verified` to that date — that is
 the attestation the review gates call for. Corpus size by directory:
 
+- `agencies/board-of-chiropractic-examiners/schedules/`: 1 documents
+- `agencies/board-of-nursing/schedules/`: 1 documents
+- `agencies/board-of-optometry/schedules/`: 1 documents
+- `agencies/board-of-parole-and-post-prison-supervision/schedules/`: 1 documents
+- `agencies/board-of-pharmacy/schedules/`: 1 documents
+- `agencies/bureau-of-labor-and-industries/schedules/`: 1 documents
+- `agencies/commission-for-the-blind/schedules/`: 1 documents
 - `agencies/department-of-administrative-services/accounting-manual/`: 173 documents
 - `agencies/department-of-administrative-services/policies/`: 119 documents
 - `agencies/department-of-administrative-services/procedures/`: 14 documents
+- `agencies/department-of-administrative-services/schedules/`: 1 documents
 - `agencies/department-of-administrative-services/standards/`: 3 documents
 - `agencies/department-of-administrative-services/standards/eis-css-it-control-standards/`: 18 documents
+- `agencies/department-of-agriculture/schedules/`: 1 documents
+- `agencies/department-of-consumer-and-business-services/schedules/`: 1 documents
 - `agencies/department-of-corrections/policies/`: 135 documents
+- `agencies/department-of-corrections/schedules/`: 1 documents
+- `agencies/department-of-energy/schedules/`: 1 documents
 - `agencies/department-of-environmental-quality/policies/`: 52 documents
+- `agencies/department-of-environmental-quality/schedules/`: 1 documents
+- `agencies/department-of-fish-and-wildlife/schedules/`: 1 documents
+- `agencies/department-of-forestry/schedules/`: 1 documents
+- `agencies/department-of-geology-and-mineral-industries/schedules/`: 1 documents
 - `agencies/department-of-human-services/policies/`: 17 documents
+- `agencies/department-of-human-services/schedules/`: 4 documents
+- `agencies/department-of-justice/schedules/`: 1 documents
+- `agencies/department-of-public-safety-standards-and-training/schedules/`: 1 documents
+- `agencies/department-of-revenue/schedules/`: 1 documents
+- `agencies/department-of-state-lands/schedules/`: 1 documents
+- `agencies/department-of-state-police/schedules/`: 1 documents
+- `agencies/department-of-transportation-driver-and-motor-vehicle-services-division/schedules/`: 1 documents
+- `agencies/department-of-transportation-highway-division/schedules/`: 1 documents
+- `agencies/department-of-transportation/schedules/`: 8 documents
+- `agencies/department-of-veterans-affairs/schedules/`: 1 documents
+- `agencies/employment-department/schedules/`: 1 documents
+- `agencies/employment-relations-board/schedules/`: 1 documents
+- `agencies/higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development/schedules/`: 1 documents
+- `agencies/land-conservation-and-development-department/schedules/`: 1 documents
+- `agencies/landscape-contractors-board/schedules/`: 1 documents
+- `agencies/long-term-care-ombudsman/schedules/`: 1 documents
+- `agencies/office-of-the-governor/schedules/`: 1 documents
+- `agencies/oregon-business-development-department/schedules/`: 1 documents
+- `agencies/oregon-criminal-justice-commission/schedules/`: 1 documents
+- `agencies/oregon-department-of-aviation/schedules/`: 1 documents
+- `agencies/oregon-department-of-education/schedules/`: 1 documents
+- `agencies/oregon-film-and-video-office/schedules/`: 1 documents
+- `agencies/oregon-government-ethics-commission/schedules/`: 1 documents
+- `agencies/oregon-health-authority-health-systems-division-medical-assistance-programs/schedules/`: 1 documents
 - `agencies/oregon-health-authority/policies/`: 189 documents
+- `agencies/oregon-health-authority/schedules/`: 4 documents
+- `agencies/oregon-housing-and-community-services-department/schedules/`: 1 documents
+- `agencies/oregon-liquor-control-commission/schedules/`: 1 documents
+- `agencies/oregon-medical-board/schedules/`: 1 documents
+- `agencies/oregon-military-department-office-of-emergency-management/schedules/`: 1 documents
 - `agencies/oregon-military-department/policies/`: 4 documents
+- `agencies/oregon-military-department/schedules/`: 1 documents
+- `agencies/oregon-public-employees-retirement-system/schedules/`: 1 documents
+- `agencies/oregon-racing-commission/schedules/`: 1 documents
+- `agencies/oregon-state-library/schedules/`: 1 documents
+- `agencies/oregon-state-lottery/schedules/`: 1 documents
+- `agencies/oregon-state-marine-board/schedules/`: 1 documents
+- `agencies/oregon-state-treasury/schedules/`: 1 documents
 - `agencies/oregon-watershed-enhancement-board/policies/`: 3 documents
+- `agencies/oregon-watershed-enhancement-board/schedules/`: 1 documents
 - `agencies/oregon-youth-authority/policies/`: 156 documents
+- `agencies/oregon-youth-authority/schedules/`: 1 documents
+- `agencies/parks-and-recreation-department/schedules/`: 1 documents
+- `agencies/psychiatric-security-review-board/schedules/`: 1 documents
+- `agencies/public-records-advocate/schedules/`: 1 documents
 - `agencies/public-utility-commission/policies/`: 1 documents
+- `agencies/public-utility-commission/schedules/`: 1 documents
+- `agencies/real-estate-agency/schedules/`: 1 documents
+- `agencies/saif-corporation/schedules/`: 1 documents
+- `agencies/secretary-of-state/schedules/`: 1 documents
+- `agencies/teacher-standards-and-practices-commission/schedules/`: 1 documents
+- `agencies/water-resources-department/schedules/`: 1 documents
 - `executive-orders/`: 526 documents
 - `external-references/`: 1 documents
 - `rules/101/001/`: 3 documents
