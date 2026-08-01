@@ -61,6 +61,12 @@ DIR_DOC_TYPE = {
     "procedures": "procedure",
     "accounting-manual": "manual",
     "standards": "standard",
+    # Special records-retention schedules, folded in from the retired
+    # OregonAI/oregon-records-retention corpus. THIS TABLE HAND-DUPLICATES
+    # _meta/corpus.yml's content_roots and every local script walks it rather than the
+    # config — so a doc_type added to corpus.yml and not here passes every toolkit gate
+    # while being invisible to all ~30 `--check` scripts. Both must move together.
+    "schedules": "schedule",
 }
 JURISDICTION_WIDE_DIRS = {"statutes", "rules", "executive-orders", "external-references"}
 

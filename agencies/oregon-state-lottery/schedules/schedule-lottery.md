@@ -1,0 +1,763 @@
+---
+schema_version: 1
+corpus: executive-regulatory-frameworks
+jurisdiction: oregon
+id: schedule-lottery
+title: Lottery, Oregon State
+doc_type: schedule
+citation: Lottery, Oregon State — Oregon Special Records Retention Schedule
+authority_level: schedule
+issuing_body: Oregon Secretary of State, Archives Division
+agency: oregon-state-lottery
+division: null
+schedule_number: 2015-0002
+legal_authority: []
+source_url: https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-lottery.pdf
+source_format: pdf
+retrieved: '2026-07-25'
+source_sha256: 57b6e4455217b648e115bffa6d54402308793ce71b1080314eef026f196a3051
+effective_date: null
+effective_date_text: March 2025
+expires: null
+expires_text: null
+last_reviewed: null
+source_version: 2015-0002
+status: current
+content_mode: verbatim
+conversion_notes: 'Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 25 pages.
+  Stripped repeated running-header lines: "Edition: March 2025"; "Oregon State Archives"; "Records Retention
+  Schedule". Stripped 24 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+
+  of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number
+  line, bare page number) were removed; every other repeated line, including per-page ''Organizational
+  Placement'' / ''Agency'' / ''Systems of Record'' blocks, was left in place. Trailing whitespace removed
+  and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.'
+last_verified: ''
+verified_by: ''
+maintainer: '@morficflux'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related:
+    - oar-166-300-0015
+    - oar-166-300-0020
+    - oar-166-300-0025
+    - oar-166-300-0030
+    - oar-166-300-0035
+    - oar-166-300-0040
+    - oar-166-300-0045
+  supersedes: []
+tags:
+- records-retention
+- special-schedule
+---
+
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
+> copy, not the official text. Verify against the official source:
+> <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-lottery.pdf> (retrieved 2026-07-25).
+
+# Lottery, Oregon State
+
+## At a glance
+
+Special records retention schedule for Oregon State Lottery, published by the Oregon Secretary of State, Archives Division, schedule number 2015-0002, effective date as printed: March 2025. It runs to 25 pages and lists the agency's own record series with a retention and disposition clause for each. Record series that every state agency holds are NOT here: they are covered by the OAR chapter 166 general schedules, which this corpus references rather than copies — 7 distinct general-schedule rule(s) are cited in the text below.
+
+## Full text
+
+Oregon State Lottery
+Records Retention Schedule 2015-0002
+Effective Date: March 2025
+Table of Contents
+
+Director's Office ............................................................................................................................................................ 2
+Corporate Affairs ......................................................................................................................................................... 10
+Sales and Retail Services ............................................................................................................................................. 11
+Lottery Security ........................................................................................................................................................... 17
+Support Services .......................................................................................................................................................... 18
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:    Director's Office
+Program: Administration
+
+Program Description
+The Director’s Office is responsible for the overall administration of the Oregon Lottery to meet
+statutory mandates and ensure the mission of the Lottery. The director is appointed by, and
+reports to the governor. The director is the agency liaison for legislative matters. The Director’s
+Office is responsible for organizing and maintaining the annual business plan, tracking agency
+contacts with the Department of Justice, coordinating statutorily-held Commission meetings and
+Lottery Commission records. The director serves in the formal capacity of secretary to the
+Lottery Commission. Additionally, the director is an executive member of certain lottery
+industry organizations, participating in critical decision-making.
+
+Program Records
+001  Business Plan Records
+ (a) Retain final document 6 years, destroy
+ (b) Retain all other records 1 year after final document published, destroy
+002  Lottery Organization Participation Records
+ Retain 1 year, destroy
+003 Lottery Funded Projects, 1985 - ongoing
+Retain permanently, transfer to State Archives after 20 years
+004 Lottery Industry Surveys
+Retain 2 years, destroy
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+Information Management Records - OAR 166-300-0030
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:  Oregon State Lottery
+Division: Director’s Office
+Program: Oregon State Lottery Commission
+
+Program Description
+The Oregon State Lottery Commission consists of five members appointed by the governor and
+confirmed by the Oregon Senate to oversee the major operations and activities of the state Lottery.
+The main responsibilities of the Lottery Commission are to approve financial plans, oversee
+operations, and to ensure honesty, integrity, security and fairness within the Lottery.
+
+Program Records
+005 Lottery Commission Appeal and Review Records
+(a) Retain case files 50 years, destroy
+(b) Retain working files until case is closed, destroy
+(c) Retain audio recordings 5 years or until abstracted, destroy
+006 Lottery Commission Formation and Organizational Records, 1985 - ongoing
+Retain permanently, transfer to State Archives after 10 years
+007 Lottery Commission Meeting Minutes, 1985 - ongoing
+ (a) Retain minutes, exhibits and agendas permanently, transfer to State Archives after 10
+years
+ (b) Retain audio recordings 1 year after abstracted, destroy
+ (c) Retain all other records 5 years, destroy
+
+State Agency General Records Retention Schedule Records
+None
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:   Director's Office
+Program: Internal Audit
+
+Program Description
+Internal Audit is responsible for providing independent, objective assurance and consulting
+services designed to add value and improve operations at the Lottery. Internal Audit helps the
+organization accomplish its objectives by bringing a systematic, disciplined approach to evaluate
+and improve the effectiveness of risk management, control and governance processes.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+Financial Records - OAR 166-300-0025
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:   Director’s Office
+Program:   Marketing Communications
+
+Program Description
+Marketing Communications is responsible for the development and distribution of materials
+regarding games, how Lottery profits benefit the state and outreach efforts to minimize the
+impact of problem gambling. These are designed to create and maintain public awareness of
+Lottery programs including new game promotions, current game promotions, Lottery
+beneficiaries and problem gambling resource awareness.
+
+Program Records
+008  Agency Informational Publications
+ (a) Retain historical publications permanently, transfer to State Archives after 4 years
+ (b) Retain informational brochures until superseded or obsolete, destroy
+009  Certificate Authorizations
+ Retain 2 years, destroy
+010 Distribution Support Records
+Retain 6 years, destroy
+011  Game Advertising and Promotional Records
+ Retain 10 years, destroy
+012 Merchandising Support Records
+Retain 6 years, destroy
+013 Promotion Incentives Records
+Retain 6 years, destroy
+014 Sales Analysis Reports
+Retain 6 years, destroy
+015 Promotions Files
+ Retain 2 years, destroy
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:   Director's Office
+Program:   Public Affairs
+
+Program Description
+Public Affairs is responsible for maintaining media and public relations by acting as liaison
+between the Lottery and players, retailers, legislators and the general public. Public Affairs
+provides information on winning players and any crises situations that may arise. The section
+handles public records requests, and can be contacted through the Lottery’s website, which
+allows users to email questions, comments and complaints.
+
+Program Records
+016  Sports Action Lawsuit Records
+ Retain permanently, transfer to State Archives after administrative need ends
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+Information and Records Management Records - OAR 166-300-0030
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:  Director's Office
+Program:   Research and Analytics
+
+Program Description
+Research and Analytics is responsible for examining past and present trends in sales of Lottery
+products as well as helping to supply materials to forecast possible future trends in sales. The
+section is also tasked with influencing marketing strategies based on findings from primary or
+secondary marketing research or through the analysis of internal and/or external data. Results
+may be analyzed along with player profiles/demographics and retailer profiles/demographics,
+potential retailers, surveys, and local/national trends in sales and marketing statistics related to
+the Lottery and/or gaming.
+
+Program Records
+017  Research and Analytics Project Records
+ (a) Retain final reports/data files and tabulations 20 years, destroy
+ (b) Retain draft project development records 1 year after completion of project, destroy
+018  Employee Surveys
+Retain 2 years, destroy
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:   Director's Office
+Program:   Retail Contracts Administration
+
+Program Description
+Retail Contracts Administration is responsible for retailer adherence to contractual agreements
+and Oregon Administrative Rules and Oregon Revised Statutes. Decisions concerning selection
+of retail outlets and investigation of possible contractual and legal violations of the contract are
+controlled by Retail Contracts.
+
+Program Records
+019 Application Statistics Report
+Retain 2 years, destroy
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:   Director's Office
+Program:   Rules and Policies
+
+Program Description
+Rules and Policies is responsible for the review, revision and consolidation of administrative
+rules governing Lottery games, business practices and relationships with players and retailers.
+Rules and Policies is responsible for the review, revision and consolidation of internal operating
+policies. Rules and Policies program reviews and tracks legislative matters affecting the Lottery.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+
+Databases
+None
+
+Organizational Placement  Schedule Number: 2015-0002
+Agency: Oregon State Lottery
+Division:      Corporate Affairs
+Section: Digital Marketing
+
+Program Description
+Utilizing both modern and traditional channels, the Digital Marketing department of the Oregon
+Lottery focuses on communications, advertisement and engagement with Oregonians concerning
+Lottery branding, products, and beneficiaries.
+
+Program Records
+062      My Lottery mobile and web user records
+(a) User verification information: Retain until user verification is complete, destroy
+(b) Personally identifiable user records: Retain until user remains in inactive status for 2
+years OR user requests account deletion, destroy
+(c) Anonymized user data: Retain for 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records (OAR 166-300-0015)
+
+Databases
+Digital Player SQL Database
+Akamai
+Preservation Database
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:     Sales and Retail Services
+Program:   Administration
+
+Program Description
+The Chief Sales and Retail Services Officer is responsible for the administration of business
+operations. Sales and Retail Services includes approximately eight internal office sections and six
+geographic areas throughout the state. The Chief Officer is responsible for the overall development
+and provision of ongoing sales and service programs for the Lottery’s contract retailers.
+
+Program Records
+020 Marketing and Sales Plans
+Retain 3 years, destroy
+021  Media Scheduling and Authorization Records
+Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+Financial Records - OAR 166-300-0025
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:   Sales and Retail Services
+Program:   Product Development
+
+Program Description
+Product Development is responsible for creating, developing or procuring games for Lottery
+distribution. The program designs or selects, tests, and researches potential games to determine
+their effective sales potential with the general public. Product Development develops and refines
+Lottery products such as Video Lottery, instant and draw games.
+
+Program Records
+022 Payout Percentage Monitoring Records
+ Retain 6 years, destroy
+023 Lottery Game Development Records
+ Retain 6 years, destroy
+024  Video Lottery and On-Line Game Development Records
+ (a) Retain Final Reports permanently, transfer to State Archives 2 years after game ends
+ (b) Retain Working Papers 2 years after game ends, destroy
+ (c) Retain Other Records 2 years after game ends, destroy
+025  Monitor, Ticket, and Terminal Message Records
+ Retain 1 year, destroy
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:   Sales and Retail Services
+Section:   Retail Services
+
+Program Description
+Retail Services is responsible for the coordination and technical support of Video Lottery game
+terminal software and hardware, as well as the development of training, procedures and reference
+materials for such associated software and hardware.
+
+Retail Services assists in the planning/coordination of meetings/training sessions for Lottery field
+staff. Retail Services is also responsible for researching, testing and training on various field
+programs, applications, hardware and equipment, and improved communication technology.
+Retail Services collects and analyzes performance data and prepares a number of evaluation
+reports on projects and inventory, by retailer, field staff, service area and types of equipment.
+
+Retail Services is also the primary contact and communicator for the field and retailers, and is
+the liaison for field staff and the I.T. Department.
+
+Program Records
+026 Field Communication Devices Performance Status Reports
+Retain 1 year, destroy
+027 Video Lottery Terminal Reports
+Retain 1 year, destroy
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:   Sales and Retail Services
+Section:   Retail Services
+Program: Customer Service
+
+Program Description
+Customer Services is responsible for maintaining relationships with retailers of Lottery games
+through communication, service and technical duties. Hotline operation, troubleshooting and
+complaint management are all duties performed by Customer Services, as well as the monitoring
+of Lottery game systems and security access to these terminals.
+
+Program Records
+028 Exception Logs
+Retain 4 years, destroy
+029 Field Promotion Certificate/Coupon Records
+Retain 2 years, destroy
+030 Logic Access Reports
+Retain 1 year, destroy
+031 Passed Calls Statewide Reports
+Retain 1 year, destroy
+032  Employee Hotline Records
+ Retain 2 years, destroy
+033 Pick 4 Monitor and Fax Verifications
+Retain 2 months, destroy
+034 Problem Ticket Mail Logs
+Retain 1 year, destroy
+035 Problem Ticket Reports
+(a) Denial of retailer credit: Retain 6 months, destroy
+(b) Approval of retailer credit: retain 3 months, destroy
+036 Missing or Extra Tickets Records
+Retain 2 years, destroy
+037 Security Overrides
+Retain 2 years, destroy
+038 Top 10 Online and Top 10 Video Problem Records
+Retain 1 year, destroy
+039 Weekly Percentage of Passed Calls
+Retain 1 year, destroy
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+
+Databases
+HDSS
+Video Lottery Procedures
+Online Game Procedures
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:   Sales and Retail Services
+Section:   Retail Services
+Program: Video Support
+
+Program Description
+Video Support is responsible for ensuring that all Video Lottery game terminals are maintained
+in good working order. The program is also responsible for refurbishing used machines for return
+to their original gaming purposes. Video Support activities are conducted at the State Lottery
+facility and at machine locations.
+
+Program Records
+040  Reacceptance Records
+ Retain 1 month, destroy
+041  Terminal Authorization Logs
+ Retain 1 month, destroy
+042  VLT Events
+ Retain 1 year, destroy
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:     Lottery Security
+
+Program Description
+Lottery Security is responsible for performing all investigative tasks required by the Lottery.
+These include background checks of employees (present and potential), retailers, and vendors.
+Security is also responsible for observing and monitoring Lottery drawings, assisting other law
+enforcement agencies in investigations concerning Lottery activities, and performing criminal
+investigations of anyone accused of criminal activity involving the Lottery, or its products,
+employees of the Lottery, or Lottery equipment and materials.
+
+Program Records
+043  Biennial Security Audit Records
+ Retain 10 years, destroy
+044  Game Security Records
+(a) Retain checklists, media faxes, drawing schedules, draw game documentation 2 years
+from date of drawing, destroy
+(b) Retain drawing procedures until superseded, destroy
+ (c)  Retain drawing video tapes and ticket stock serial number information 2 years, destroy
+(d) Retain instant ticket documentation 2 years after game ends, destroy
+045 Promotional Draw Entries
+ Retain 2 years, destroy
+046  Retailer Contract and Investigation Records
+Retain 15 years after termination of contract or denial of application, destroy
+047 Service Complaint Records
+ Retain 2 years, destroy
+048 Vendor Investigation Files
+Retain 15 years after investigation closed, destroy
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+Personnel Records - OAR 166-300-0040
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:    Support Services
+Program: Administration
+
+Program Description
+Support Services Administration is responsible for the day-to-day internal operations of the
+Deputy Director’s Office of the Oregon State Lottery.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:   Support Services
+Program:   Finance and Accounting
+
+Program Description
+The Finance and Accounting section is responsible for all financial income and disbursements
+made by the Lottery. Duties administered by Finance and Accounting are payroll, accounts
+receivable/payable, capital (fixed assets), and financial statements concerning Lottery operations.
+
+Program Records
+049 Annuity Payment Records
+ Retain 6 years after the annuity is paid in full, destroy
+050 Department Activity Acknowledgement Report
+Retain current and previous biennium, destroy
+051  Instant Game Activity Verification Records
+ Retain 2 years, destroy
+052  Internal Control System (ICS)/IGT Online Reports
+ Retain 2 years, destroy
+053  Multi-State Lottery (MUSL) Draw Reports
+ Retain 4 years, destroy
+054  Weekly Video Financial Activity Reports
+ Retain 2 years, destroy
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+Facilities/Property Records - OAR 166-300-0020
+Financial Records - OAR 166-300-0025
+Payroll Records - OAR 166-300-0035
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:    Oregon State Lottery
+Division:   Support Services
+Program:  Human Resources and Staff Training & Development
+
+Program Description
+Human Resources is responsible for the Lottery’s overall administration of personnel functions,
+including: compensation and benefits, employee relations, Human Resource Information
+Systems, Safety Committee and Program, staff development and training, and staffing.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+Facilities/Property Records – OAR 166-300-0020
+Payroll Records - OAR 166-300-0035
+Personnel Records - OAR 166-300-0040
+Risk Management Records - OAR 166-300-0045
+
+Databases
+None
+
+Organizational Placement Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:   Support Services
+Section:   Information Technology
+
+Program Description
+The Lottery’s Information Technology (IT) department is responsible for the on-going operation
+of the Lottery’s critical gaming and business support networks, systems and applications in
+addition to planning and implementing enhancements that provide reliable, secure and effective
+technology architecture to support Lottery operations. IT manages 24/7 Data Center Operations
+to support the Lottery’s gaming and business operations. The primary data center is located at the
+Lottery’s Salem Administrative Offices. The backup data center is located in Bend, Oregon.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+Facilities/Property Records - OAR 166-300-0020
+Information and Records Management Records - OAR 166-300-0030
+
+Databases
+None
+
+Organizational Placement  Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:   Support Services
+Section:   Materials Management
+Program:   Distribution
+
+Program Description
+Distribution is responsible for facilitating the in- and out-flow of products and materials for the
+Lottery. The program is in control of shipping lottery tickets and supplies to retailers throughout
+the state, creating and filling orders from retailers, maintaining an accurate inventory of all
+warehouse materials and the inventory of all field representative vehicles, overseeing ticket
+returns from retailers, and maintaining the archival storage of lottery records.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+Facilities/Property Records – OAR 166-300-0020
+Personnel Records – OAR 166-300-0040
+
+Databases
+None
+
+Organizational Placement  Schedule number: 2015-0002
+Agency:   Oregon State Lottery
+Division:   Support Services
+Section:   Materials Management
+Program:   Facilities
+
+Program Description
+Facilities provides internal and external customers with cost-effective, timely, efficient and
+quality work products while adhering to safety and building standards to ensure a reliable,
+comfortable and safe environment. Facilities is also responsible for the Lottery’s Fleet
+Management program, including vehicle records and assignments.
+
+Program Records
+059  Facilities Fiscal Year Budget Planning Questionnaire
+ Retain 3 years, destroy
+060 Energy Usage/Reduction Records
+Retain 3 years, destroy
+061  Master Material Safety Data Records
+ Retain 30 years after last use, destroy
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+Facilities/Property Records – OAR 166-300-0020
+Information and Records Management Records - OAR 166-300-0030
+Personnel Records – OAR 166-300-0040
+Risk Management Records – OAR 166-300-0045
+
+Databases
+None
+
+Organizational Placement  Schedule number: 2015-0002
+Agency: Oregon State Lottery
+Division: Support Services
+Section: Materials Management
+Program: Procurement and Contracts
+
+Program Description
+Procurement and Contracts is responsible for making all purchases for the Lottery, establishing
+solicitations and administering the bidding process, maintaining contract and agreement records,
+and ensuring that purchasing requests are handled in a timely and legal manner.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+Financial Records - OAR 166-300-0025
+
+Databases
+None
+
+Organizational Placement                                                        Schedule Number: 2015-0002
+Agency: Oregon State Lottery
+Division: Support Services
+Section: Player Services
+
+Program Description
+Player Services is responsible for the verification of player claims and acts as the liaison between
+players and the Lottery. Player Services is responsible for the payment of prize winnings and
+annuity payments, managing player complaints and player claims investigations, and overseeing
+the operation of the Lottery Store. The Lottery Store acts as the initial liaison between the State
+Lottery and the general public. Prize winners are able to claim winnings, submit claims or
+disputes, and purchase Lottery games or merchandise.
+
+Program Records
+055 Division of Child Support (DCS) and DHS/OHA Overpayments Garnishment
+Records
+ Retain 6 years, destroy
+056 Mail-In Claim Records for Non-Winning Tickets
+ Retain 2 years, destroy
+057 Service Complaint Records
+ Retain 2 years, destroy
+058 Winner Claim Records
+(a) Retain identity verification records from the prize claim process until winner
+verification is complete, destroy
+(b) Retain all other records 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Records may include but not limited to:
+Administrative Records - OAR 166-300-0015
+Financial Records - OAR 166-300-0025
+
+Databases
+None
+
+## Cross-references
+
+General records retention schedules cited in the text above. These are OAR
+chapter 166 rules and live verbatim in the sibling corpus
+[OregonAI/executive-regulatory-frameworks](https://github.com/OregonAI/executive-regulatory-frameworks);
+they are referenced here as citations, never copied (see AGENTS.md).
+
+Reproduced exactly as the source schedule cites them. A few are stale upstream —
+the rule was renumbered or repealed after this schedule was published — so a
+citation here is not a guarantee the rule still exists. Resolving one reports
+the difference: a live rule returns a title and link, a stale one reports that
+the sibling corpus holds no such document.
+
+- OAR 166-300-0015
+- OAR 166-300-0020
+- OAR 166-300-0025
+- OAR 166-300-0030
+- OAR 166-300-0035
+- OAR 166-300-0040
+- OAR 166-300-0045
+
+## Provenance & change history
+
+- Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-lottery.pdf> · retrieved 2026-07-25 · sha256 `57b6e4455217b648e115bffa6d54402308793ce71b1080314eef026f196a3051`
+- Snapshot: `_meta/snapshots/schedule-lottery.txt` (extracted text) and `_meta/snapshots/schedule-lottery.pdf` (raw source, 25 pages).
+- Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 25 pages. Stripped repeated running-header lines: "Edition: March 2025"; "Oregon State Archives"; "Records Retention Schedule". Stripped 24 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
+- See [CHANGELOG](../CHANGELOG.md).

@@ -1,0 +1,87 @@
+Oregon State Archives
+Records Retention Schedule
+Edition: January 2024                                           Schedule Number: 2024-0001
+1
+
+Agency:  Oregon Government Ethics Commission
+
+Program Description
+The Oregon Government Ethics Commission (OGEC) is responsible for administering
+the regulatory provisions of the Oregon Government Ethics Law (ORS Chapter 244),
+the Oregon Lobby Regulation Law (ORS Chapter 171), and the Oregon Public
+Meetings Law (ORS Chapter 192). The Commission oversees and investigates
+complaints of ethics, public meeting, and lobby law violations involving public
+officials, lobbyists, and lobbyist clients. The primary duties of the Commission are: to
+record statements of economic interest filed by public officials, register lobbyists, and
+record expenditure reports filed by lobbyists and lobbyist clients; to investigate
+allegations of ethics, lobby law, and public meeting law violations; and to educate
+public officials, lobbyists, and lobbyist clients on the requirements in these laws.
+
+The Commission is composed of nine members who meet every six to seven weeks
+to review cases before the agency and to make determinations in those cases. Once a
+complaint is filed, and determined to be within OGEC’s jurisdiction, a preliminary
+review is started. After the preliminary review is completed, the Commission can
+either dismiss the case or move to an investigation. After an investigation is
+completed, the Commission can either dismiss the case or issue a preliminary finding
+of violation. If a preliminary finding of violation is issued, a settlement may be
+negotiated or responding parties may request a contested case hearing. All
+settlements are approved by the Commission.
+
+The Executive Director is appointed by the Commission to oversee the administration
+of the agency and the handling of complaints. The Executive Director makes the
+initial assessment of complaints received by the agency and establishes if preliminary
+reviews will be opened, based upon the jurisdictional scope of the agency.
+Investigations of public officials, lobbyists, and lobbyist clients through this office are
+conducted in accordance with ORS Chapter 244 and ORS Chapter 171, which
+stipulates the manner and process of all investigations.
+
+Program Records
+001  Advisory Opinion Records
+(a) Retain Individual Opinions 5 years after revision of statute, destroy
+(b) Retain Ethics Guide for Public Officials 5 years after superseded, destroy
+002 Ethics Law/Public Meetings Law/Lobby Law Complaint Records
+(a) Retain contested case files 15 years, destroy
+(b) Retain regular case files 10 years, destroy
+003 Lobbyist and Lobbyist Client/Employer Records
+Retain lobbyist and client/employer records 5 years after termination or
+expiration, destroy
+004 Oregon Statements of  Economic Interest
+
+Oregon State Archives
+Records Retention Schedule
+Edition: January 2024                                           Schedule Number: 2024-0001
+2
+
+Retain candidate and public official’s reports 10 years, destroy
+005 Staff Advice and Opinion Records
+(a) Retain official advice and opinion from Executive Director or Commission 5
+years after revision of statute, destroy
+(b) Retain all others 5 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Correspondence Records
+Training Program Records
+Board and Commission Records (OAR 166-350-0010)
+Board and Commission Meeting Minutes
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+Budget Preparation Records
+Invoices
+Legislatively Adopted Budget
+Travel Expense Records
+Voucher Registers
+Vouchers
+Payroll Records (OAR 166-300-0035)
+Employee Time Records
+Personnel Records (OAR 166-300-0040)
+Employee Personnel Records
+Recruitment and Selection Records
+
+Systems of Record
+EFS (Electronic Filing System)
+CMS (Case Management System)
+Workday (Human Resources System)
+Network Drive

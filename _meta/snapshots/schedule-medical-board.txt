@@ -1,0 +1,295 @@
+Oregon Medical Board
+Records Retention Schedule 2023-0002
+Effective Date: April 2023
+Table of Contents
+Administration…………………………………………………………………………………..1
+Investigations and Compliance……………………………………………………………….6
+Licensing…………………………………………………………………………………………8
+
+Agency:  Oregon Medical Board
+Section:  Administration
+Program:  Oregon Medical Board and Committees
+
+Program Description
+The Oregon Medical Board and its Committees exist to protect the health, safety, and
+wellbeing of Oregon’s citizens by granting or withholding the privilege of practicing
+medicine in Oregon in accordance with the Medical Practice Act, ORS 677.
+
+The Board and Committees oversee the licensure and professional conduct of
+Medical Doctors and Doctors of Osteopathic Medicine, Podiatric Physicians,
+Physician Assistants, and Acupuncturists. The Board also oversees the scope of
+practice for Emergency Medical Services Providers.
+
+The Board consists of fourteen members appointed by the Governor. The full Board
+meets quarterly and works through committees that include one or more Board
+members. Current committees include the Investigative Committee, the
+Administrative Affairs Committee, the Legislative Advisory Committee, the
+Acupuncture Advisory Committee, the EMS Advisory Committee, and the Editorial
+Committee.
+
+Program Records
+None
+
+State Boards and Commissions General Records Retention Schedule Records
+Boards and Commission Records (OAR 166-350-0010)
+Appeal and Review Records
+Board and Commission Meeting Minutes
+
+Databases
+None
+
+Agency:  Oregon Medical Board
+Section:  Administration
+Program:  Executive
+
+Program Description
+The Executive office includes the Executive Director, Operations & Policy Analyst, a
+Medical Director, and an Executive Assistant. The Director determines policy and
+program priorities and oversees all Board and agency operations including legislative
+liaison and public outreach. The Executive Director also acts as liaison with other
+government entities.
+
+The Medical Director provides medical expertise to the Board, the Investigations
+program, and the Licensing program. The Executive Director’s office also publishes
+the “Oregon Medical Board Report” newsletter and the Board’s Annual Report.
+
+Program Records
+001  Annual Report, 1937-[ongoing]      2 cf
+ Retain permanently, transfer to State Archives after 20 years
+002  Oregon Medical Board Report, 1976-[ongoing]    2 cf
+ Retain one copy permanently, transfer to State Archives after 20 years
+
+State Agency General Records Retention Schedule Records
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Agency Organizational Records
+Attorney General Opinions
+Legislative Development Advisory Committee Records
+Legislative Tracking Records
+Policy Development and Planning Records
+Press Releases
+
+Databases
+None
+
+Agency:  Oregon Medical Board
+Section:  Administration
+Program:  Accounting
+
+Program Description
+The Accounting program provides business and technical support including:
+budgeting, goods and trade services contracting, accounts payable, cash receipts,
+accounts receivable, financial reporting, purchasing, and payroll.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Facilities/Property Records (OAR 166-300-0020)
+Asset Inventory Reports
+Equipment/Property Disposition Records
+Financial Records (OAR 166-300-0025)
+Account Reconciliation Records
+Accounts Payable Reports & Records
+Accounts Receivable Reports & Records
+Annual Financial Reports
+Audit Reports
+Budget Reports & Records
+Legislatively Adopted Budget
+Oregon State Treasury Reports
+Payroll Records (OAR 166-300-0035)
+Employee Payroll Records
+Employee Time Records
+Leave Application Records
+OSPA Reports
+Unemployment Claim Records
+Personnel Records (OAR 166-300-0040)
+Employee Benefits Records
+
+Databases
+OMB Business Process Database
+
+Agency:  Oregon Medical Board
+Section:  Administration
+Program:  Information Technology
+
+Program Description
+The Information Technology (IT) program is responsible for network administration,
+database programming, report building, online services development/maintenance,
+back office software development/maintenance, backups, and user support for the
+Oregon Medical Board.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Information Systems Records (OAR 166-300-0030)
+Computer System Maintenance Records
+Computer System Program Documentation
+Computer System Security Records
+Information System Planning and Development Records
+Software Management Records
+User Support Records
+
+Databases
+OMB Business Process Database
+
+Agency:  Oregon Medical Board
+Section:  Administration
+Program:  Personnel and Public Information
+
+Program Description
+The Personnel and Public Information program administers the technical human
+resource functions for the Oregon Medical Board and provides intake for public
+information requests. The agency public information specialist answers the telephone
+and other communications, provides license verification information, responds to
+requests for standard licensee data, and routes non-standard public records requests
+to the appropriate agency staff.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Administrative Records (OAR 166-300-0015)
+Public Records Disclosure Request Records
+Visitor Logs
+Personnel Records (OAR 166-300-0040)
+Affirmative Action Records
+Employee Medical Records
+Employee Personnel Records
+Position Description and Reclassification Records
+Recruitment and Selection Records
+
+Databases
+OMB Business Process Database
+Workday
+
+Agency:  Oregon Medical Board
+Program:  Investigations and Compliance
+
+Program Description
+The Investigations and Compliance program receives complaints against licensees
+from patients, pharmacies, insurance companies, hospitals, nursing homes,
+physicians, nurses, and others in the health care field. The program also provides the
+services of a Complaint Resource Officer who assists the public with questions and
+problems concerning their medical practitioners, and who assists practitioners with
+questions about Oregon law.
+
+The program conducts investigations in cases where a violation of the Medical
+Practice Act may have occurred. A comprehensive field investigation is performed
+and case information is entered into the OMB Business Process Database.
+
+Findings are presented to the Investigative Committee, which may interview the
+licensee. If the licensee is found to be in violation of the Medical Practice Act, the
+Committee recommends to the full Board that disciplinary action be taken. Licensees
+may then request a formal hearing before an administrative law judge (ALJ). The ALJ
+submits a proposed final order to the Board; the Board reviews the proposed order
+and issues a final order, which the licensee may appeal to the Oregon Court of
+Appeals and ultimately the Oregon Supreme Court.
+
+The Board’s Compliance Officer monitors licensees who are under Board orders to
+ensure that all conditions are being met and that it is safe for them to practice.
+Compliance related data is entered into the GL Suite database.
+
+The program also receives malpractice insurance claim forms from insurance carriers
+who are required by statute to inform the Board of the claim. The claims do not
+necessarily involve investigations. Claim information is entered into the OMB
+Business Process Database.
+
+Program Records
+003  Annual Investigative Statistical Reports, 1974 -[ongoing]  1 cf
+ Retain permanently, transfer to State Archives after 30 years
+004  Compliance/Probationer Case Files
+ Retain 25 years after case closed, destroy
+005 Contested Case Hearings Records
+ Retain 25 years after case closed, destroy
+006 Court of Appeals Legal Case Files
+ Retain 10 years after case resolved, destroy
+007 Investigation Case Files – Cases closed with Violation
+
+a) Retain medical records 2 years after case closed, destroy
+b) Retain Notice of Proposed Disciplinary Action and any Board Order,
+Agreement, or other action 99 years, destroy
+ c) Retain all other records 25 years after case closed, destroy
+008 Investigation Case Files – Cases closed with no Violation
+ a) Retain medical records 2 years after case closed, destroy
+b) Retain Letters of Concern and Systems Letters 25 years, destroy
+ c) Retain all other records 25 years after case closed, destroy
+009  Investigative Committee Records
+a) Retain minutes 99 years, destroy
+b) Retain audio recordings 1 year after transcribed, destroy
+c) Retain agenda books 10 years, destroy
+010 Malpractice Insurance Claim Review Records
+Retain 75 years after report received, destroy
+
+State Agency General Records Retention Schedule Records
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Databases
+OMB Business Process Database
+
+Agency:  Oregon Medical Board
+Program:  Licensing
+
+Program Description
+The Oregon Medical Board grants licenses to Medical Doctors, Doctors of
+Osteopathic Medicine, Podiatric Physicians, Physician Assistants, and Acupuncturists.
+The Licensing Program is responsible for ensuring that every applicant granted a
+license or license renewal meets all requirements for education, clinical training,
+examinations, and conduct.
+
+Licensing examinations are administered by the Federation of State Medical Boards,
+the National Board of Medical Examiners, the National Board of Osteopathic Medical
+Examiners, the National Board of Podiatric Medical Examiners, the National
+Commission for the Certification of Physician Assistants, and the National
+Commission for the Certification of Acupuncturists. The Executive Director or,
+alternatively, the Medical Director approves completed applications. Completed
+applications with discrediting information are sent to the appropriate Board
+committee for formal review and recommendation to the full Board. The committees
+include the Administrative Affairs Committee (MD/DO/DPM/PAs), and the Committee
+on Acupuncture. All applications reviewed by the various committees are scheduled
+for review by the full Board, which makes the final determination on licensure.
+
+The program also renews licenses for these providers. License renewal occurs every
+two years. The program maintains a listing of practitioners who have registered with
+the Board for partial indemnification against death, injury, or other loss arising from
+services provided without compensation. It also performs a public relations function
+by providing a call center to assist applicants and licensees. The program maintains
+current contact information for all licensees.
+
+Program Records
+011  Continuing Education Audit Records – Lists of Licensees Audited
+Retain 6 years, destroy
+012  Liability Cap Records
+ Retain 4 years, destroy
+013 Licensee Application Files
+a) Retain licensed or denied files 75 years, destroy
+b) Retain withdrawn and expired applications 6 years, destroy
+c) Retain documents submitted but not required for the application process 1
+year, destroy
+d) Retain credentialing documents received prior to application and no
+application received 1 year, destroy
+014 License Renewal Applications
+
+ Retain 6 years, destroy
+015  Licensee Directory [ended 2005]
+Destroy
+016  Licensure Statistical Summary Records
+ Retain 20 years, destroy
+017  Limited License Applications
+ Retain 6 years after expired, destroy
+018  Oregon Licensee Examination Results Score Rosters [ended 2005]
+Destroy
+
+State Agency General Records Retention Schedule Records
+Administrative Records (OAR 166-300-0015)
+Public Records Disclosure Request Records
+
+State Boards and Commissions General Records Retention Schedule Records
+Board and Commission Records (OAR 166-350-0010)
+Appeal and Review Records
+Board and Commission Meeting Minutes
+
+Databases
+OMB Business Process Database

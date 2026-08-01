@@ -1,0 +1,888 @@
+Oregon Military Department: State Component
+Records Retention Schedule 2015-0017
+Effective: September 2015
+Table of Contents
+
+Adjutant General  ....................................................................................................................... 1
+
+ Adjutant General Comptroller (AGC)/Financial Administration.............................  ............... 2
+
+Adjutant General Installations (AGI)....................................................................... ................. 4
+
+Adjutant General Personnel (AGP) ........................................................................ .................. 12
+
+Deputy Chief of Staff Personnel (DCSPER) .......................................................... .................. 13
+
+Oregon Emergency Management ...........................................................................  ................. 14
+
+Oregon State Defense Force (ORSDF)................................................................... ................... 28
+
+Youth Challenge .....................................................................................................  ................. 29
+
+Organizational Placement     Schedule number: 2015-0017
+Agency: Oregon Military Department: State Component
+Office:  Adjutant General
+
+Program Description
+The Oregon Military Department (OMD) is responsible for administering, housing, equipping
+and training the Oregon National Guard - a ready force to support the Governor during unrest or
+natural disaster and as a reserve force to the United States Air Force and the United States Army.
+The Department is comprised of the federal and state components, both under the command of
+the Adjutant General. The state component is comprised of several divisions and programs which
+provide technical expertise, support and services in support of OMD’s mission. The State
+Component is under the direction of the Deputy Adjutant General.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+
+Databases
+None
+
+Organizational Placement     Schedule number: 2015-0017
+Agency:  Oregon Military Department: State Component
+Division: Adjutant General Comptroller (AGC)/Financial Administration
+
+Program Description
+The Adjutant Comptroller/Financial Administration Division provide agency wide financial
+accounting services, conducts financial reporting requirements, develops and executes the
+budget, oversees purchasing and contracting and manages fiscal information for OMD. The
+Division ensures accuracy and accountability in fiscal accounting and reporting. All financial
+transactions are handled and accountable to the Division.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Contracts and Agreements (Capital Construction Project Finance Records)
+Correspondence
+Facilities/Property Records (OAR 166-300-0020)
+Asset Inventory Reports
+Equipment/Property Disposition Records
+Financial Records (OAR 166-300-0025)
+Competitive Bid Records
+Credit Card Records (SPOTS and Visa)
+Grant Records
+Purchasing Records
+Payroll Records (OAR 166-300-0035)
+Employee Payroll Records
+Employee Time Records
+Personnel Records (OAR 166-300-0040)
+Position Inventory Control (PICS) Reports
+
+Databases
+OREGON STATE PAYROLL SYSTEM (OSPS)
+STATEWDIE FINANCIAL MANAGEMENT APPLICATION (SFMA)
+
+Organizational Placement     Schedule number: 2015-0017
+Agency:  Oregon Military Department: State Component
+Division:  Adjutant General Installations (AGI)
+Branch/Program: Support
+
+Program Description
+The Installations Division is responsible for the acquisition, construction and maintenance of
+armories, readiness centers, training installations, logistics instillations and offices for the
+Oregon Military Department and Oregon Army National Guard. Staff operates, maintains,
+repairs and alters existing facilities. In addition, staff manages construction/expansion projects
+and provides environmental management services. By agreement with the federal government all
+facilities must be manned/operated for a minimum of 25 years. Staff is responsible for
+requisitioning the necessary materials as need for the completion of projects including the
+construction, remodeling and expansion of all Oregon Military Department, National Guard and
+associated facilities. Some materials are controlled by the National Guard Bureau/Federal
+Government and are of a sensitive nature. The Federal government still own the property, but
+sub-custodies the property to a specific user. Annual inventories are conducted by the applicable
+Federal office that has responsibility for subject equipment. Branch staff provides support and
+technical expertise in the management and operation of state owned/controlled information
+technology assets including servers, networks and individual computers for the OMD State
+Component and Procurement and Contracting Services. The Adjutant General Comptroller
+manages all financial records for the Installations Division.
+
+Program Records
+001 Hand Receipt/Annex Number Records (DA Form 2062)
+ Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Facilities/Property Records (OAR 166-300-0020)
+Building Records
+Equipment/Property Disposition Records
+Facility Work Orders
+Vehicle Records
+Financial Records (OAR 166-300-0025)
+Competitive Bid Records
+Purchasing Records
+Information and Records Management Records (OAR 166-300-0030)
+Computer System Maintenance Records
+Computer System Program Documentation
+
+Software Management Records
+User Support Records
+
+Databases
+ORPIN
+PRIDE (ARNG program)
+
+Organizational Placement     Schedule number: 2015-0017
+Agency:  Oregon Military Department: State Component
+Division:  Adjutant General Installations (AGI)
+Branch/Program: Major Construction
+
+Program Description:
+Major Construction is within the Oregon Military Department (OMD) Installations Division.
+The Installations Division is responsible for acquisition and disposal of land and facilities, design
+and construction of new facilities, agency environmental compliance, and operations,
+maintenance, repair, and alteration of existing facilities.  The Installations Division is the largest
+state Directorate within the OMD.
+
+The Major Construction Branch is responsible for the planning, design, and construction of all
+Capital Construction projects for the Oregon Army National Guard (ORARNG).  The scope of
+this program affects the entire State of Oregon.  Both military and civilian communities are
+affected.  The program budget varies from year to year depending on the size and number of
+projects that are active.
+
+Program Records
+002 Major Construction Project Records
+ (a) Retain signed contracts, agreements, fiscal records for 10 years after completion then
+ destroy.
+ (b) Retain environmental records, as-built drawings, for 1 year after project completion,
+ transfer to the OMD managing authority.
+ (c) Retain meeting records 2 years after project completion then destroy.
+ (d) Retain all other records 2 years after expiration/end of warranty period, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Financial Records (OAR 166-300-0025)
+
+Databases:
+AKO (ARNG DB)
+GKO (ARNG DB)
+ORPIN
+
+Organizational Placement     Schedule number: 2015-0017
+Agency:  Oregon Military Department: State Component
+Division:  Adjutant General Installations (AGI)
+Branch/Program: Environmental
+
+Program Description
+The Environmental Branch provides environmental management services for Oregon Army
+National Guard facilities and projects. The Branch focuses upon Environmental Compliance and
+Stewardship, Integrated Training Area Management and Land Use Planning Compatibility.
+Branch staff review and address environmental regulatory issues including but not limited to
+compliance with wastewater, hazardous materials, waste, pollution, resource management and
+government-to-government consultation. Training and inspections are a key component to
+mitigating and managing the impact of the ORNG upon the natural and cultural environment in
+Oregon. Branch staff ensure OMD remains in compliance with local, state and federal
+environmental regulations.
+
+Program Records
+003  Environmental Assessments
+(a) Retain final document 40 years after project completion/cancellation, destroy
+(b) Retain all other records 1 year after producing final document,  destroy
+004  Environmental Impact Statements
+(a) Retain final document 40 years after project completion/cancellation, destroy
+(b) Retain all other records 1 year after producing final document, destroy
+005  Hazardous Materials Mitigation/Clean Up Records
+ Retain 30 years after mitigation completed destroy
+006  Integrated Cultural Resource Plan Records
+ (a) Retain final, adopted plan 10 years after superseded, destroy
+ (b) Retain all other records 1 year after adoption of plan, destroy
+007  Integrated Natural Resource Plan Records
+ (a) Retain final, adopted plan 10 years after superseded, destroy
+ (b) Retain all other records 1 year after adoption of plan, destroy
+008  Integrated Pest Management Plan Records
+ (a) Retain final, adopted plan 10 years after superseded, destroy
+ (b) Retain all other records 1 year after adoption of plan, destroy
+009  Site Assessments
+ (a) Retain for properties purchased/leased 10 years after property sold or surplused,
+ destroy
+ (b) Retain for properties not purchased or leased 5 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+
+Databases
+HAZWASTE.NET (DEQ DB)
+LAND STATUS REPORTS
+NGB STEP
+ORSDEPRED
+WEBCASS (NGB DB)
+
+Organizational Placement     Schedule number: 2015-0017
+Agency:  Oregon Military Department: State Component
+Division:  Adjutant General Installations (AGI)
+Branch/Program: Operations and Maintenance
+
+Program Description
+Operations and Maintenance provides operation, maintenance, custodial, repair and alternation
+services for existing Oregon Army National Guard facilities. Operations and Maintenance
+maintains all buildings and grounds. In addition, Operations and Maintenance manage the rental
+of Army National Guard faculties and the operation of Camp Rilea and Withycombe. Any party
+renting a facility must provide insurance coverage and security. Operations and Maintenance is
+also responsible for oversight of minor construction at the facilities, i.e. remodel of bathrooms,
+painting of offices, etc projects with a monetary value under $500,000. Some materials are
+controlled by the National Guard Bureau/Federal Government and are of a sensitive nature. The
+Federal government still own the property, but sub-custodies the property to a specific user, the
+Oregon Military Department (OMD). OMD controls and accounts for material inventory and
+requisition using DA Form 2062.
+
+Program Records
+010 Installation Status Report Records
+ Retain 3 years, destroy
+011   Hand Receipt/Annex Number Records (DA Form 2062)
+ Retain 6 years, destroy
+012   Minor Construction Project Records
+ (a) Retain contracts 2 years after expiration of warranty period, destroy
+ (b) Retain all other records 6 years, destroy
+013   Rental Program Records
+ (a) Retain incentive pay records 10 years, destroy
+ (b) Retain rental contracts 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements (Leases)
+Correspondence
+Key Assignment Records
+Facility/Property Records (OAR 166-300-0020)
+Building Records
+Facility Work Orders
+Equipment/Property Disposition Records
+
+Databases
+ARMY STATIONING AND INSTALLATION PLAN (ASIP) (ARNG DB)
+INSTALLATIONS STSATUS REPORT (ISR_Web)
+
+Planning Resource for Infrastructure Development and Evaluation (PRIDE) (ARNG DB)
+PRIDE MAINTENANCE (Facility Center)
+
+Organizational Placement     Schedule number: 2015-0017
+Agency:  Oregon Military Department: State Component
+Division:  Adjutant General Installations (AGI)
+Branch/Program: Planning and Programming
+
+Program Description
+The Planning and Programming Branch is responsible for coordinating the efforts of the
+environmental, construction operation, operations and maintenance and real property branches
+providing expertise and oversight for long range planning and the acquisition/disposal of real
+property. Planning and Programming coordinates with agencies on issues involving land use and
+development including but not limited to DEQ and DLCD. In addition, the branch works to
+minimize encroachment issues which may constrain OMD/ORNG operations at sites and
+facilities.
+
+Program Records
+014 Deeds/Title Records
+ Retain as long as OMD owns the property, destroy
+015 Real Property Development Plan Records
+ (a) Retain final, approved plan 5 years after superseded, obsolete, destroy
+ (b) Retain all other records 2 years after plan adopted, destroy
+016 Site Master Plan Records
+ (a) Retain final, approved plan 5 years after superseded, obsolete or property surplused,
+ destroy
+ (b) Retain all other records 2 years after plan adopted, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Calendar and Scheduling Records
+Policy Development and Planning Records (Strategic Planning/Master Plan Records))
+Facilities and Property Records (OAR 166-300-0020)
+Equipment/Property Disposition Records
+Building Records
+Financial Records (OAR 166-300-0025)
+
+Databases
+ASIP(An ARNG DB)
+CURRENT STRUCTURE
+ISR(An ARNG DB)
+PRIDE (An ARNG DB)
+
+ Organizational Placement     Schedule number: 2015-0017
+Agency: Oregon Military Department: State Component
+Division: Adjutant General Personnel (AGP)
+
+Program Description
+The Adjutant General Personnel (AGP) Division provides human resources services for the non-
+military state employees of the Oregon Military Department. The Division provides HR services
+for approximately 480 personnel. The Division provides affirmative action service and support,
+position description/classifications, processes unemployment claims and conducts background
+checks for new employees.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+Policy and Procedure Guidelines and Manuals
+Personnel Records (OAR 166-300-0040)
+Affirmative Action Records
+Criminal Background Check Records
+Employee Personnel Records
+Position Description and Classification Records
+Recruitment and Selection Records
+
+Databases
+IMatch (Oregon Employment Department)
+PEBB
+
+Organizational Placement     Schedule number: 2015-0017
+Agency: Oregon Military Department: State Component
+Program: Deputy Chief of Staff Personnel (DCSPER)
+
+Program Description
+The Deputy Chief of Staff Personnel (DCSPER) program is responsible for maintaining and
+managing the individual personnel records of National Guard members. Guard member
+personnel records which include orders, promotions, medical records, are an asset of the federal
+government until a member’s separation from service. Once a member of the National Guard
+retires or separates from service the personnel (201) files become the property and responsibility
+of the Oregon Military Department.
+
+Program Records
+017 Military “201” File Personnel Records
+ Retain 75 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Databases
+DISCHARGE
+PERMS (Federal Database)
+
+Organizational Placement:    Schedule number: 2015-0017
+Agency:   Oregon Military Department: State Component
+Division:  Oregon Emergency Management
+Program:  Administration
+
+Program Description
+The Oregon Emergency Management Division manages, directs, and coordinates the resources
+and efforts of local, county, state, and federal agencies to facilitate emergency response services.
+
+The Administration program oversees and manages the Division and cooperation between local,
+state, and federal agencies involved with emergency management in Oregon. The program also
+assists in the development and revision of administrative rules pertaining to emergency
+preparedness in Oregon.
+
+Program Records
+018    Director’s Notes
+ Retain 5 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Administrative Rule Preparation Records
+Attorney General Opinions
+Conference, Seminar and Training Program Records
+Correspondence
+Legislative Development Advisory Committee Records
+Oregon Emergency Management Plans (see Policy and Procedure Guidelines and Manuals)
+Staff Meeting Records
+
+Databases
+None
+
+Organizational Placement:     Schedule number: 2015-0017
+Agency:   Oregon Military Department: State Component
+Bureau:   Intergovernmental Services
+Division:  Oregon Emergency Management
+Program:   Chemical Stockpile Emergency Preparedness Program (CSEPP)
+
+Program Description
+The Chemical Stockpile Emergency Preparedness Program (CSEPP) was established in response
+to Public Law 99-145, Title 14, Part B, Section 1412 which directed the Department of Defense
+to dispose of all lethal unitary chemical agents and munitions. The CSEPP program is entirely
+funded through Federal Emergency Management Agency (FEMA) grant monies.
+The Umatilla Chemical Depot is one of eight sites in the contiguous United States storing
+weapons containing chemical agents, commonly known as nerve agents and mustard gases.  The
+project to dispose of these weapons through incineration at Umatilla is slated for completion in
+2012. Local CSEPP programs operating at the county level are directly responsible for preparing
+their communities for potential emergencies resulting from the incineration of the chemical
+munitions stored at the Umatilla Chemical Depot. CSEPP is the conduit through which the
+county CSEPP programs receive their funding from FEMA. Counties and the Oregon Health
+Services Division fund their emergency planning preparations from their general funds and OSP
+CSEPP approves and reimburses counties and the Oregon Health Services Division for the
+expenditures.
+CSEPP is also responsible for erecting, maintaining, and testing the area’s public notification
+system, which primarily consists of sirens, message reader boards, and radio broadcasts.
+
+Program Records
+019   Alert Notification System Task Force Records
+ Retain 5 years, destroy
+020   Drafted, Unsigned Agreements
+ Retain 1 year, destroy
+021   FEMA Grant Management Records
+ Retain 3 years from the date FEMA closes project, destroy
+022   Integrated Process Team Meeting Records, 1998 – [ongoing]  .5 c.f.
+ Retain permanently, transfer to State Archives at end of CSEPP
+023   State Manager’s Weekly Reports
+ Retain 2 years, destroy
+024   Technical Committee Records
+ Retain 5 years, destroy
+
+025   Technician’s Weekly Reports
+ (a) Retain diagnostic sheets 2 years, destroy
+(b) Retain all other records 1 year after disposition of equipment, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Contracts and Agreements
+Correspondence
+Policy Development and Planning Records
+Press Releases
+Staff Meeting Records
+Facilities/Property Records (OAR 166-300-0020)
+Equipment Maintenance Records
+Equipment/Property Disposition Records
+Financial Records (OAR 166-300-0025)
+Purchasing Records
+
+Databases
+None
+
+Organizational Placement:     Schedule number: 2015-0017
+Agency:   Oregon Military Department: State Component
+Division:  Oregon Emergency Management
+Section:  Financial and Recovery Services
+Program:  Financial Services
+
+Program Description
+Financial Services is responsible for purchasing, payments, and management of the grant funds
+that are distributed to state and local agencies through a number of federal programs. Counties
+may receive funds, disbursed either monthly or quarterly, for day-to-day operations through the
+Federal Emergency Management Agency (FEMA). Flood Mitigation Assistance is awarded
+through Financial Services to agencies to mitigate a disaster. The Terrorism Grant program
+awards contracts to counties to establish training for dealing with terrorism-related events.
+Administrative costs associated with terrorism planning are covered under Terrorism
+Consequence Management Program Assistance, also distributed to local governments through
+Financial Services. Financial Services also keeps the county and city hazard mitigation plans.
+The plans are either approved or denied by county commissioners. They detail how jurisdictions
+would spend federal monies in a mitigation or disaster project. Counties and cities must have a
+Hazard Mitigation Plan to receive federal mitigation monies.
+
+Program Records
+026   County and City Hazard Mitigation Plans
+ Retain until superseded or obsolete, destroy
+027   Federal Emergency Management Agency Annual Reports
+ Retain 3 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Financial Records (OAR 166-300-0025)
+Grant Records
+
+Databases
+None
+
+Organizational Placement:     Schedule number: 2015-0017
+Agency:   Oregon Military Department: State Component
+Division:  Oregon Emergency Management
+Section:  Financial and Recovery Services
+Program:  Recovery Services
+
+Program Description
+The Recovery Services program is enabled following a presidential or gubernatorial declaration
+of disaster. The Recovery Services program is responsible for administering fiscal aid and
+evaluating projects to clean up disasters. Recovery Services ensures that the scope and fiscal
+goals of the project were met and that reparation funds were spent appropriately. Recovery
+Services can require repayment of funds that were not spent correctly, or they can withhold
+further payments. The program dispenses federal funding to local and state agencies under the
+federal Hazard Mitigation Program Grant (HMPG) through the Federal Emergency Management
+Agency (FEMA).
+
+Localities are awarded funding based on inspection results of disaster site inspection teams and
+sites are approved or denied by the Governor’s Interagency Hazard Mitigation Team. Fifteen
+percent of project funds are set aside for hazard mitigation efforts. The remainder is spent on
+disaster relief.
+
+Program Records
+028    Disaster Survey Report/Project Worksheets
+ Retain 3 years from the date FEMA closes project, destroy
+029    Federal Emergency Management Agency Quarterly Reports
+ Retain 3 years from the date FEMA closes project, destroy
+030    Final Disaster Financial Reports
+ Retain 3 years from the date FEMA closes project, destroy
+031   Small Project Completion Notices
+ Retain 3 years from the date project closes, destroy
+032    Sub-grantee Large Project Quarterly Reports
+ Retain 3 years from the date FEMA closes project, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Financial Records (OAR 166-300-0025)
+Grant Records
+Databases
+None
+
+Organizational Placement:     Schedule number: 2015-0017
+Agency:   Oregon Military Department: State Component
+Division:   Oregon Emergency Management
+Section:   Plans and Training Services
+Program:   Drought Council
+
+Program Description
+The Drought Council is comprised of members from state agencies, such as the Department of
+Forestry and Oregon Emergency Management. The Council advises the governor on declaring a
+drought and meets only when a drought or potential drought exists to coordinate state and federal
+drought assistance for victims in declared drought areas.
+
+Program Records
+033   Drought Council Records, 1990 – [ongoing]  1.5 c.f.
+(a) Minutes: Retain permanently, transfer to State Archives 5 years after drought
+declaration rescinded
+    (b) Other records: Retain 3 years, destroy
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Databases
+None
+
+Organizational Placement:    Schedule number: 2015-0017
+Agency:   Oregon Military Department: State Component
+Division:    Oregon Emergency Management
+Section:   Plans and Training Services
+Program:   Exercises
+
+Program Description
+The Exercises program is responsible for developing, conducting, and evaluating disaster
+exercises at the state and local government levels. Disaster plans must be exercised and updated
+annually. State and local governments notify the Exercises program that their plans have been
+exercised. The Exercises program compiles this information to send to the federal government.
+
+Program Records
+034    Exercise Reporting Files
+ Retain 3 years, destroy
+035    Federal Emergency Management Agency Annual Reports
+ Retain 3 years, destroy
+036    Federal Emergency Management Agency Quarterly Reports
+ Retain 3 years, destroy
+037    State/Local Disaster Recovery Proposed Work Plans
+ Retain 3 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Databases
+Emergency Management Exercise Reporting System
+
+Organizational Placement:     Schedule number: 2015-0017
+Agency:   Oregon Military Department: State Component
+Division:    Oregon Emergency Management
+Section:   Plans and Training Services
+Program:  Oregon Seismic Safety Policy Advisory Commission
+
+Program Description:
+The Oregon Seismic Safety Policy Advisory Commission (OSSPAC), also known as the
+Earthquake Commission, is a governor-appointed committee to promote earthquake awareness
+and preparedness through education, research, and legislation. OSSPAC meets every other
+month and is comprised of representatives from state and local government and private agencies.
+The commission provides testimony at legislative hearings related to earthquake and tsunami
+preparedness and safety and has five primary objectives: (1) to develop earthquake awareness
+and education at all levels of state and private business and throughout the public sector, (2)
+disseminate earthquake risk information, (3) increase the number of earthquake-safe buildings,
+(4) further earthquake awareness through geo-scientific research, and (5) improve emergency
+planning, response, and recovery efforts.
+
+Program Records
+038   Oregon Seismic Safety Policy Advisory Committee Minutes, 1990 – [ongoing]
+ 1.5 c.f.
+ (a) Retain transcripts permanently, transfer to State Archives after 15 years
+ (b) Retain audio tapes until transcribed and approved, destroy
+039   Oregon Seismic Safety Policy Advisory Committee Publications, 2001 – [ongoing]     .5
+ c.f.
+Retain 1 copy of each permanently, transfer to State Archives after 15 years
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Legislative Tracking Records
+Mailing Lists
+
+ Databases
+None
+
+Organizational Placement:    Schedule number: 2015-0017
+Agency:   Oregon Military Department: State Component
+Division:   Oregon Emergency Management
+Section:   Plans and Training Services
+Program:   Planning
+
+Program Description
+The Planning program ensures that counties maintain disaster plans in accordance with the
+Emergency Maintenance Planning Grant. In addition to holding the county disaster plans, the
+program also retains the plan reviews and any related correspondence.
+
+Program Records
+040   County Disaster Plans
+ Retain 3 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Correspondence
+Financial Records (OAR 166-300-0025)
+Travel Records
+
+Databases
+None
+
+Organizational Placement:     Schedule number: 2015-0017
+Agency:   Oregon Military Department: State Component
+Bureau:  Intergovernmental Services
+Division:   Oregon Emergency Management
+Section:  Plans and Training Services
+Program:   Training
+
+Program Description
+The Training program develops, conducts, and evaluates emergency preparedness and response
+training for natural disasters, such as earthquakes and floods, and also for overall emergency
+response and operations. It offers degree certification to emergency management professionals.
+Both in-house staff and outside contractors develop training courses and materials. Trainees
+include federal, state, and local government personnel as well as employees of private enterprise.
+The program also oversees other state and local programs related to emergency services training.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar and Training Program Records
+Correspondence
+
+Databases
+TMS (Training Management System)
+
+Organizational Placement:     Schedule number: 2015-0017
+Agency:   Oregon Military Department: State Component
+Division:   Oregon Emergency Management
+Section:   Technology and Response Services
+Program:  9-1-1
+
+Program Description
+Under ORS 401.710, the 9-1-1 program is responsible for coordinating resources (fiscal, human,
+and material) concerning the development, implementation, upgrade, and maintenance of
+Oregon’s 9-1-1 Public Safety Answering Point (PSAP) program. PSAP 9-1-1 responds to
+mandates from the Legislative Assembly, based upon recommendations furnished by contracted
+analyst, in an effort to maintain optimum handling of all 9-1-1 calls.
+
+Program Records
+041    9-1-1 Advisory Committee Records, 1988 – [ongoing]   1 c.f.
+(a) Retain minutes permanently, transfer to State Archives after 5 years
+(b) Retain all other records 10 years, destroy
+042    9-1-1 Basic Plans
+Retain 5 years after superseded or obsolete, destroy
+043    9-1-1 Efficiency Studies, 1993 – [ongoing]    1 c.f.
+Retain permanently, transfer to State Archives after 20 years
+044    9-1-1 Enhanced Plan Records
+ Retain 5 years from project completion, destroy
+045    9-1-1 Enhanced Plan Phase 2 Records
+ Retain 5 years from project completion, destroy
+046    9-1-1 PSAP County Directory
+ Retain until superseded or obsolete, destroy
+047    Call Center Disaster Recovery Plans
+Retain until superseded or obsolete, destroy
+048    Public Safety Answering Point (PSAP) Meeting Records
+ Retain 5 years, destroy
+049    Telephone Tax Quarterly Reports
+ Retain 25 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records - OAR 166-300-0015
+Correspondence
+
+Organizational Placement:     Schedule number: 2015-0017
+Agency:   Oregon Military Department : State Component
+Division:  Oregon Emergency Management
+Section:   Technology and Response Services
+Program:   Oregon Emergency Response Services
+
+Program Description
+Under ORS 401, the Oregon Emergency Response System (OERS) provides a 24-hour
+communications system for the reporting of incidents throughout Oregon, which may require
+state resources and/or technical assistance. OERS is the only state government system which
+provides incident notification to a single entry point for coordination from which information is
+passed via computer, paging systems, and radio to other agencies as needed and per established
+procedures for each agency. OERS was established in 1972 by Executive Order and termed the
+Oregon Accident Response System. In 1988, the program was renamed to the Oregon
+Emergency Response System (OERS) under the OERS Council was established.
+
+Program Records
+050    Communications Equipment Test Logs
+Retain 30 days, destroy
+051    Oregon Emergency Response System Council Records, 1988 – [ongoing]  1 c.f.
+ (a) Retain minutes permanently, transfer to State Archives after 5 years
+ (b) Retain all other records 5 years, destroy
+052    Oregon Emergency Response System Incident Reports
+Retain 5 years, destroy
+053    State Amateur Radio Communication Plans
+Retain until superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar and Training Program Records
+Correspondence
+Policy and Procedure Guidelines and Manuals (Communications Center Operational Procedures
+Records)
+Personnel Records (OAR 166-300-0040)
+Volunteer Records
+
+Databases
+OERS
+Paging
+Amateur Radio ID
+GETS
+NAWAS
+
+Organizational Placement:     Schedule number: 2015-0017
+Agency:   Oregon Military Department: State Component
+Division:   Oregon Emergency Management
+Section:  Technology and Response Services
+Program:   Search and Rescue
+
+Program Description
+The Search and Rescue (SAR) program coordinates the search and rescue efforts by local, state,
+and federal agencies during a SAR mission. The program directs use of all aircraft involved in
+SAR activities, and also liaises with other public and private organizations involved in SAR
+efforts. SAR gathers statistics on all SAR activities in Oregon. Under ORS 401.550, the SAR
+Coordinator serves as a member of the Oregon State Sheriffs Association SAR Advisory
+Council.
+
+Program Records
+054    Activity Logs
+ Retain 3 years, destroy
+055   Annual Reports, 1997 – [ongoing] .5 c.f.
+ Retain permanently, transfer to State Archives after 5 years
+056    Search and Rescue Incident Summaries (Mission Reports)
+ Retain 3 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Facilities and Property Records (OAR 166-300-0020)
+Equipment/Property Disposition Records
+Financial Records (OAR 166-300-0025)
+Reimbursements to Pilots for Fuel and Oil (see Receipts)
+Databases
+SAR Database
+
+Organizational Placement     Schedule number: 2015-0017
+Agency: Oregon Military Department: State Component
+Division: Oregon State Defense Force (ORSDF)
+
+Program Description
+The Oregon State Defense Forces provides a cadre of personnel with military training and
+occupational specialties organized to facilitate rapid expansion and response to Oregon security
+needs if called upon by the Adjutant General to replace the National Guard. The ORSDF is
+organized and deployed to act as Oregon’s Defense Force in the event of National Guard troop
+unavailability. The Oregon State Defense Force originated in 1961 to provide Oregon with a
+trained, ready National Guard Reserve Force. The ORSDF is authorized under 32 U.S. Code
+Section 109 granting States and Territories the right to maintain “other troops.” ORSDF
+authorized and operates per ORS 399.035 as part of Oregon’s organized militia. The Governor is
+the commander-in-chief. The ORSDF is an all volunteer organization open to prior military
+service. Interested individuals without prior military service may join the ORSDF Auxiliary. In
+addition, the ORSDF supports the Oregon National Guard Military Museum located at camp
+Withycombe through the Special Troops Unit; History Section. Other Special Troop Unit
+functions include the Linguist Section and Pipe band.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to
+Administrative Records - OAR 166-300-0015
+Calendar and Scheduling Records
+Conference, Seminar and Training Program Records
+Correspondence
+Policy and Procedure Guidelines and manuals
+Policy Development and Planning Records
+
+Databases
+None
+
+Organizational Placement     Schedule number: 2015-0017
+Agency: Oregon Military Department: State Component
+Program: Youth Challenge
+
+Program Description
+The Youth Challenge program provides opportunities for personal growth, self improvement and
+academic achievement to Oregon high school dropouts, students no longer attending and
+students who are failing in school. Youth Challenge is an alternative, residential high school. The
+program provides a regulated, monitored educational opportunity to teens through a highly
+structured, non-traditional environment where training, mentoring and diverse educational,
+community service and confidence building activities are provided. Program participants apply
+for the program and must be drug free and defined as at risk youth between the ages 16-18.
+Participants spend 5 ½ months at the OMD Facility in Bend and a further 12 months in their
+community in the mentor portion of the program. Accredited teaching services are provided
+under contract by the Bend-LaPine school district. Students may earn up to 8-10 credit hours and
+be awarded a High School Diploma or G.E.D. Students failing to complete the program may
+reapply for acceptance in the program; however, they are required to begin the program at a
+cycles beginning.
+
+Youth Challenge operates under an agreement between the Adjutant General, Governor and the
+National Guard Bureau. Funding is a 60/40 split with federal monies accounting for .60 cents of
+every dollar spent. The facility is sited on Bureau of Land Management property in an inactive
+Department of Defense installation. The Youth Challenge Program receives accounting, human
+resources and installation services from OMD staff located in Salem. The program originated in
+1994 as an 8 week Youth Conservation Corp program. In 1999 Oregon established a full-fledged
+Youth Challenge Program.
+
+Program Records
+057 Cadet Action Plans
+ Retain 5 years after student completes, leaves, or is discharged from program, destroy
+058 Student/Program Participant Post Residency Records
+ Retain 5 years after student completes, leaves, or is discharged from program, destroy
+
+State Agency General Records Retention Schedule Records:
+Includes but is not limited to
+Administrative Records - OAR 166-300-0015
+Calendar and Scheduling Records
+Contracts and Agreements
+Correspondence
+Visitor Logs
+
+Educational Service Districts, School Districts and Individual School Records Retention
+Schedule Records
+Includes but is not limited to
+Curriculum and Instruction Records (OAR 166-400-0015)
+Curriculum Development Records
+Teacher Daily Instructional Plans
+Student Education Records (OAR 166-400-0060)
+Grade Records
+Oregon Student Record
+Student Health Records
+
+Databases
+DMARS (Federal National Guard DB for Youth Challenge Programs)

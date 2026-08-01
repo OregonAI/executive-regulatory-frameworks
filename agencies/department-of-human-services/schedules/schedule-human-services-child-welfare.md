@@ -1,0 +1,783 @@
+---
+schema_version: 1
+corpus: executive-regulatory-frameworks
+jurisdiction: oregon
+id: schedule-human-services-child-welfare
+title: Human Services – Child Welfare Division
+doc_type: schedule
+citation: Human Services – Child Welfare Division — Oregon Special Records Retention Schedule
+authority_level: schedule
+issuing_body: Oregon Secretary of State, Archives Division
+agency: department-of-human-services
+division: Child Welfare
+schedule_number: 2022-0003
+legal_authority: []
+source_url: https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-human-services-child-welfare.pdf
+source_format: pdf
+retrieved: '2026-07-25'
+source_sha256: bf6192c13eea899525e13d24aaab0256a4071cc30941475faad27f9f8f570b12
+effective_date: null
+effective_date_text: August 2022
+expires: null
+expires_text: null
+last_reviewed: null
+source_version: 2022-0003
+status: current
+content_mode: verbatim
+conversion_notes: 'Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 22 pages.
+  Stripped repeated running-header lines: "Edition: August 2022"; "Oregon State Archives"; "Records Retention
+  Schedule". Stripped 21 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+
+  of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number
+  line, bare page number) were removed; every other repeated line, including per-page ''Organizational
+  Placement'' / ''Agency'' / ''Systems of Record'' blocks, was left in place. Trailing whitespace removed
+  and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.'
+last_verified: ''
+verified_by: ''
+maintainer: '@morficflux'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related:
+    - oar-166-300-0015
+    - oar-166-300-0025
+    - oar-166-300-0030
+    - oar-166-300-0035
+    - oar-166-300-0040
+  supersedes: []
+tags:
+- records-retention
+- special-schedule
+---
+
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
+> copy, not the official text. Verify against the official source:
+> <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-human-services-child-welfare.pdf> (retrieved 2026-07-25).
+
+# Human Services – Child Welfare Division
+
+## At a glance
+
+Special records retention schedule for Oregon Department of Human Services, published by the Oregon Secretary of State, Archives Division, schedule number 2022-0003, effective date as printed: August 2022. It runs to 22 pages and lists the agency's own record series with a retention and disposition clause for each. Record series that every state agency holds are NOT here: they are covered by the OAR chapter 166 general schedules, which this corpus references rather than copies — 5 distinct general-schedule rule(s) are cited in the text below.
+
+## Full text
+
+Oregon Department of Human Services
+Child Welfare Division
+Records Retention Schedule 2022-0003
+Effective Date: August 2022
+
+Table of Contents
+
+Director’s Office ............................................................................................................................. 1
+Equity and Workforce Development .............................................................................................. 3
+Operations ....................................................................................................................................... 4
+Program and Practice ...................................................................................................................... 6
+
+Organizational Placement Schedule Number: 2022-0003
+Agency:  Oregon Department of Human Services
+Division:  Child Welfare
+Section:       Director’s Office
+
+Program Description
+Child Welfare (CW) Administration provides leadership, guidance and oversight of the Child
+Welfare Division. Responsibilities include budget development and tracking; purchasing
+activities; program design, policy and practice enhancements; personnel and payroll
+administration; and legislation development and monitoring (bill analysis, bill tracking, and
+legislative testimony). CW Administration directs the operation and practice of CW in its
+mission to improve family capacity to self-sustain a safe and permanent living environment for
+children. CW Administration provides leadership to Child Welfare Central Office and Field
+Offices. CW Administration coordinates CW activities with other divisions within ODHS.
+Administrative staff participate in a variety of ad-hoc and standing committees and work groups.
+Additionally, administrative staff monitor client complaints, sensitive issues, child fatalities,
+litigation, events with media interest as well as legislative tracking, and budget monitoring.
+Support services are also provided to the Child Welfare Advisory Council that makes
+recommendations to CW about improvements in services. The council meets quarterly and is
+comprised of people from the community.
+
+Program Records
+001 Child Welfare Advisory Committee Agenda and Minutes
+ Retain 25 years, destroy
+002  Child Welfare Refugee Advisory Committee Agenda and Minutes 224 KB
+Retain permanently, transfer to State Archives after 5 years
+003  Client Complaint Tracking Records
+Retain 10 years, destroy
+004  Correspondence Tracking Log
+Retain 15 years, destroy
+005    Executive Committee Records, 1996 – 2016
+ Retain permanently, transfer to State Archives after 5 years
+006  Program Operations Status Reports (To Administration)
+Retain 1 year after agency wide report completed, destroy
+
+State Agency General Records Retention Schedule Records
+Administrative Records (OAR 166-300-0015)
+Agency Organizational Records
+Calendar and Scheduling Records
+Correspondence
+Legislative Tracking Records
+Litigation Records
+Mailing Lists
+Staff Meeting Records
+Financial Records (OAR 166-300-0025)
+
+Budget Preparation Records
+Information Management Records (OAR 166-300-0030)
+Information Management Records
+Payroll Records (OAR 166-300-0035)
+Payroll Related Records
+Personnel Records (OAR 166-300-0040)
+Employee Personnel Records
+
+Databases
+None
+
+Organizational Placement           Schedule Number: 2022-0003
+Agency:  Oregon Department of Human Services
+Division:  Child Welfare
+Section:       Equity and Workforce Development
+Unit:  Equity, Training and Workforce Development
+
+Program Description
+The Child Welfare Equity, Training and Workforce Development Unit (ETWD) is a central
+office unit within the Child Welfare Division of ODHS and provides equity supports, training,
+workforce development and capacity-building to all child welfare program areas. The purpose of
+the ETWD is fourfold: first, to ensure that Child Welfare promotes equity throughout all aspects
+of program and practice and catalyzes equitable systems change for our service delivery to
+children, families and in the community, as well as for the workforce; secondly, to provide
+leadership, direction and support in the development, delivery, and evaluation of comprehensive
+and coordinated program-specific training and workforce development plans and to provide
+assessment, leadership and oversight for the delivery of child welfare staff and leadership
+training needs at all levels; and lastly to oversee the agency's contracts with training partners and
+contractors such as Portland State University's Child Welfare Training Partnership.
+
+Program Records
+007 Chronological Request Records
+ Retain 1 year, destroy
+008 Registration Records
+ Retain 2 years, destroy
+
+State Agency General Records Retention Schedule Records
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Financial Records (OAR 166-300-0025)
+Grant Records
+Personnel Records (OAR 166-300-0040)
+Employee Training Records
+
+Databases
+Workday
+
+Organizational Placement           Schedule Number: 2022-0003
+Agency:       Oregon Department of Human Services
+Division:  Child Welfare
+Section:       Operations
+Unit:  Business Management Unit
+
+Program Description
+The Business Management Unit is comprised of several functions into one unit.  Our overall goal
+is to provide support and guidance around several areas of the business operations for Child
+Welfare.  The unit often acts as a liaison between the districts and various departments at central
+office.
+
+The first area of focus is Position Management.  This team is responsible for managing the
+positions that the legislature approves for hiring.  There is a focus on allocating positions to the
+districts to ensure the Child Welfare offices have the necessary positions in places to support the
+work that is necessary in the community.
+
+The second area of focus is the budget, although the unit is not responsible for developing the
+budget for Child Welfare.  The unit is responsible for providing information to Executive
+Leadership so decisions can be made around spending.  Additionally, the unit provides support to
+the Child Welfare districts in helping them manage their district budgets.
+
+The third area of focus is the business operations.  The unit provides support to the districts
+around their business operations and functions.  The units will lead business projects, provide
+assistance with projects that are led by central office and act as a liaison when necessary.
+
+The fourth area of focus is the Child Welfare specific contracts that the districts manage.  The
+unit provides consultation and support for the Child Welfare districts around developing,
+implementing and managing large contract budgets and contracts.  They can assist in developing
+and maintaining relationships with community providers.
+
+Program Records
+None determined as of authorization date
+
+State Agency General Records Retention Schedule Records
+
+Databases
+None determined as of authorization date
+
+Organizational Placement Schedule Number: 2022-0003
+Agency:  Oregon Department of Human Services
+Division:  Child Welfare
+Section:  Operations
+Office:  Project Management
+
+Program Description
+The mission of the Child Welfare Project Management Office (PMO) is to provide consistent,
+effective, and efficient project and portfolio management for the Child Welfare division of the
+Oregon Department of Human Services. The PMO identifies, prioritizes, and executes a portfolio
+of projects that align with the division’s goals and strategic plan. It also provides mentorship,
+training, and guidance to teams as they work on initiatives that seek to improve Oregon’s Child
+Welfare system. The PMO oversees continuous quality improvement efforts for the division.
+
+The office maintains a list of projects Child Welfare is working on, called the Comprehensive
+Portfolio. The portfolio includes statewide projects that originated inside Child Welfare as well
+as those that originated outside the division. It does not include routine or daily work, just
+specific efforts aimed at improving the Child Welfare system. Separately, the project
+management office maintains a list of local initiatives at the district and branch levels.
+
+Program Records
+None determined as of authorization date
+
+State Agency General Records Retention Schedule Records
+
+Databases
+None determined as of authorization date
+
+Organizational Placement Schedule Number: 2022-0003
+Agency:  Oregon Department of Human Services
+Division:  Child Welfare
+Section:       Program and Practice
+Program:  Child Fatality Prevention & Review
+
+Program Description
+The Child Fatality Prevention and Review Program (CFPRP) is an independent program under
+the Child Welfare Director’s office.  The program leads the Critical Incident Review Team
+(CIRT) process in accordance with ORS.418.806 to 418.816.  The CIRT team leads the in-depth
+case file review, meeting facilitation and public reporting after a child fatality has been assigned
+as a CIRT. This program also leads innovative efforts toward the prevention of child abuse and
+fatalities using data and a safe systems analysis to support system improvement opportunities.
+
+CFPRP manages the CAPTA grant funds which provide resources for child abuse prevention and
+child protective services. Funds are received through the US Department of Health and Human
+Services, Administration for Children and Families. Funds are to be used to improve the
+investigation and prosecution of cases of child abuse and neglect. The Child Abuse Prevention
+and Treatment Act (CAPTA) funds are used to improve prevention and treatment of child abuse
+and neglect and are used for innovative approaches to services, training, or intervention services
+that improve child protective services for ODHS clients.
+
+Program Records
+009   Child Abuse Prevention and Treatment Act (CAPTA) Panels Records
+ Retain 5 years, destroy
+010 Child Abuse Prevention and Treatment Act (CAPTA) State Plan Development
+Records
+ Retain until incorporated into state plan or obsolete, destroy
+011 Critical Incident Review Teams (CIRT) Records 125 MB
+ Retain permanently, transfer to State Archives after 5 years
+012   Sensitive Issues Records
+         (a) Retain Sensitive Issues Tracking Log 10 years, destroy
+         (b) Retain all other records 5 years, destroy
+
+State Agency General Records Retention Schedule Records
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Policy Development and Planning Records
+Financial Records (OAR 166-300-0025)
+Grant Records
+
+Databases
+None
+
+Organizational Placement                      Schedule Number: 2022-0003
+Agency: Oregon Department of Human Services
+Division: Child Welfare
+Section:  Program and Practice
+Program:  Child Safety
+
+Program Description
+The Child Protective Services program responds to reports of child abuse made to the Oregon
+Child Abuse Hotline within assigned timelines. Protective Service workers conduct
+comprehensive assessments of family functioning, circumstances, and extent of alleged abuse,
+working with families and community members to determine if children are safe and to establish
+safety for children if they are not. If children are found to be unsafe, PS workers may develop an
+in-home safety plan with the family that includes safety service providers and services for the
+parents and child if specific criteria are met. A child may be placed in substitute care if those
+criteria are not met. When there is immediate danger to a child, law enforcement or program staff
+may take a child into protective custody without a court order. The program cooperates with law
+enforcement agencies, juvenile courts, medical providers, district attorneys, mental health
+professionals, schools, tribes, and other social service agencies.
+
+Program Records
+013    Central Office Founded Disposition Review Records
+    Retain 30 years, destroy
+014 Child Abuse Alerts
+ Retain until youngest referenced child reaches age 18 or until cancellation, destroy
+015 Client Case Files
+(a) Retain case records where child fatality occurred as a result of abuse
+     30 years after case closed, destroy
+ (b) Retain case records where the case has one or more “founded” protective
+          service referrals 30 years after case closed, destroy
+ (c) Retain case records where the case has one or more “unfounded” protective
+      service referrals 7 years after case closed, destroy
+ (d) Retain case records where case has one or more “unable to determine”
+      protective service referrals 30 years after case closed, destroy
+ (e) Retain case records where ODHS has legal custody of one or more children in
+the family for reasons other than protective services (including Voluntary Custody
+and Voluntary Placement) 30 years after case closed, destroy
+ (f) Retain case records where ODHS provided services to the family on a voluntary
+ basis for non-protective service reasons, and ODHS did not have legal custody
+ of any child 7 years after case closed, destroy
+ (g) Retain case records with assessments that did not result in a disposition 30
+       years after case closed, destroy
+
+State Agency General Records Retention Schedule Records
+Administrative Records (OAR 166-300-0015)
+Correspondence
+
+Databases
+Oregon’s Child Welfare electronic information system
+
+Organizational Placement Schedule Number: 2022-0003
+Agency:  Oregon Department of Human Services
+Division:  Child Welfare
+Section:  Program and Practice
+Unit:  Children’s Benefits
+
+Program Description
+The primary purpose of CBU is to manage and coordinate the Title II/SSB and Title XVI/SSI
+benefits for Child Welfare. The CBU assists in the development of long-range plans, goals and
+objectives and provides policy direction in dealing with the quality and quantity of Social
+Security benefits and services the agency receives and provides for the families.
+
+CBU is Child Welfare’s point of contact with the Social Security Administration. We
+communicate with SSA to provide timely notification of children with benefits coming into care,
+changing placements or transitioning to the adult system, as well as Court proceedings such as
+finalized adoptions and legal guardianships, emancipations, and dismissal of ODHS
+custody/guardianship.
+
+Program Records
+None determined as of authorization date
+
+State Agency General Records Retention Schedule Records
+
+Databases
+None determined as of authorization date
+
+Organizational Placement Schedule Number: 2022-0003
+Agency:  Oregon Department of Human Services
+Division:  Child Welfare
+Section:  Program and Practice
+Program:  Contracts Services Office
+
+Program Description
+The Contracts Services Office provides support to both field and Child Welfare programs to
+ensure they can meet their goals and objectives through the accurate and timely provision of
+rules, policies and contract processes. Services include the coordination and accurate
+implementation for new rules and policies in alignment with state and federal regulations, and
+the administration of short-term service contracts.
+
+Program Records
+None determined as of authorization date
+
+State Agency General Records Retention Schedule Records
+
+Databases
+None determined as of authorization date
+
+Organizational Placement Schedule Number: 2022-0003
+Agency:  Oregon Department of Human Services
+Division:  Child Welfare
+Section:  Program and Practice
+Program:  Federal Policy and Resources
+
+Program Description
+This program is responsible for all the large federal funding sources that help fund Child
+Welfare.  This program’s mission is to maximize the use of federal funds to support Child
+Welfare’s overall budget.  Federal dollars for child welfare services come from a variety of
+sources, some dedicated exclusively to child welfare activities, including Titles IV-B and IV-E
+of the Social Security Act. Child Welfare uses other federal programs on child welfare activities
+that are designed for broader purposes or populations. These include the Temporary Assistance
+for Needy Families (TANF) program, the Social Services Block Grant (SSBG), and Medicaid.
+TANF-Emergency Assistance and SSBG are “dedicated” sources of child welfare funding.  In
+addition, Child Welfare use federal “child income”-related funding streams for child welfare
+purposes, including Supplemental Security Income (SSI) and Social Security benefits, as well as
+U.S. Department of Veterans Affairs funds and child support dollars. Program focus includes:
+• Maximize federal funding.
+• Provide timely, accurate and detailed federal reports annually.
+• Ensure accurate eligibility determinations.
+• Manage and provide support to federal pass through contracts.
+• Submit Child Welfare Federal Program Improvement Plan quarterly.
+• Connect the PIP, 5-year plan and overall Quality Assurance plan for improving program
+and performance.
+
+Program Records
+016 Combined Audits of Federal Programs Records (Internal Reviews)
+ (a) Retain Site Visit Worksheets until Final Summary completed, destroy
+ (b) Retain Final Summary and all other records for current plus previous review,
+      destroy
+017 prog-E Waiver/Social Service Change Plans (Branch Offices)
+ Retain 3 years after final disposition of case, destroy
+018 State Plans for Title IV-E, Title IV-B and Title XX, 1974 – [ongoing] 48.5 MB
+ Retain permanently, transfer to State Archives after 25 years
+019 Title IV-E, Title IV-B, and Title XIX Eligibility Records
+ Retain 3 years after date of last claim, destroy
+020 Title IV-E Tribal Claim Information
+ Retain 3 years after date of last claim, destroy
+
+State Agency General Records Retention Schedule Records
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Mailing Lists
+Personnel Records (OAR 166-300-0040)
+
+Employee Training Records
+
+Databases
+ADOPTION AND FOSTER CARE REPORTING SYSTEM (AFCARS)
+Oregon’s Child Welfare electronic information system
+
+Organizational Placement                      Schedule Number: 2022-0003
+Agency: Oregon Department of Human Services
+Division: Child Welfare
+Section:  Program and Practice
+Program: Foster Care & Youth Transitions
+Unit:  Foster Care
+
+Program Description
+The Foster Care program coordinates placement services when children are in need of
+out-of-home placement. Foster Care pays for and manages several programs. These
+include paid resource family care (payments for resource family placements to support
+individualized plans for children, including temporary shelter care), special rates
+(additional payments to resource parents to reimburse actual expenses or special services
+for children with special medical, emotional, or developmental needs), and one-time
+payments (payments for non-recurring special needs of foster children).
+
+Special foster care programs with purchased care include family group homes (small group
+foster homes which prepare older youth to live independently or successfully
+reintegrate into their primary family home), and independent living (subsidy payments to
+allow some older youth to live independently as they leave the child welfare system).
+
+The Foster Care program also recruits potential resource care parents, studies their homes
+to determine that they meet building standards and assesses the prospective resource parents to
+determine if they can provide suitable care for children. Resource home certifiers help select
+appropriate homes for children needing placement and provide training programs and other
+assistance to resource parents.
+
+Program Records
+021    Field Consultation Records
+    Retain 10 years, destroy
+022    Policy Development Records
+    Retain 10 years after policy implemented or rejected, destroy
+023 Resource Parent Advisory Committee Records
+ Retain 10 years, destroy
+024 Substitute Care Provider/Resource Parent Records (Resource Home Family
+Records)
+ Retain 30 years after certification denied, withdrawn, or closed, destroy
+
+State Agency General Records Retention Schedule Records
+Administrative Records (OAR 166-300-0015)
+Conference, Seminar, and Training Program Records
+Correspondence
+
+Databases
+Oregon’s Child Welfare electronic information system
+
+Organizational Placement Schedule Number: 2022-0003
+Agency:  Oregon Department of Human Services
+Division:  Child Welfare
+Section:  Program and Practice
+Program:  Foster Care & Youth Transitions
+Unit:           Youth Transition Program
+
+Program Description
+The Youth Transitions Program administers programs designed to help current and former foster
+children ages 14 to 21 achieve independence (up to 26 for post-secondary education supports).
+These programs include the ILP life skills training (contractors), which provides training and
+classes to prepare youth to live independently; the Independent Living Subsidy Program, which
+provides funds to assist eligible youth with room and board expenses; the Chafee Foster Care
+Independence Program, which also assists with housing costs but for youth over the age of 18;
+the Education and Training Voucher Program, which provides up to $5,000 per academic year
+for the cost of attendance in post-secondary education or training; Driver’s Education Course
+fees; ILP Discretionary Funds to aid with items or services youth may need to achieve their
+transition goals; and Transitional Living Programs and the National Youth in Transition
+Database.  The above programs are funded in part through an annual federal grant through Title
+IV-E of the Social Security Act.
+
+Additionally, the Youth Transitions program staff administers contracts with an average of 20
+statewide organizations that provide independent living services. ILP conducts on-site case audit
+and program reviews of providers every three years to determine compliance to contract
+requirements, laws, and regulations; tracks the budget and monitors, validates and approves
+provider invoices, and trains providers and interested parties regarding ILP services and
+supports.
+
+Program staff also creates a variety of program reports and statistics; provide technical assistance
+to branch and regional offices, and other internal or external organizations and individuals;
+coordinate contractor meetings to facilitate communications; and coordinate with the DHS
+Accounting unit for federal fiscal reporting. The program also provides support for the Oregon
+Foster Youth Connection (OFYC) youth advisory and advocacy group.  This OFYC is comprised
+of current and former foster youth between the ages of 14 – 25. The OFYC is a program under
+the Our Child Oregon, a non-profit organization. OFYC members assist with Child Welfare
+rules/policies and makes recommendations to Child Welfare regarding improving the foster care
+system.
+
+Program Records
+None determined as of authorization date
+
+State Agency General Records Retention Schedule Records
+
+Databases
+None determined as of authorization date
+
+Organizational Placement Schedule Number: 2022-0003
+Agency:  Oregon Department of Human Services
+Division:  Child Welfare
+Section:  Program and Practice
+Program:  Health & Wellness
+
+Program Description
+The Health and Wellness program provides medical and nursing support to the Child Welfare
+program through general and case consultation for field and central office staff, psychotropic
+medication authorization and review, Behavioral Residential Services (BRS) placement review
+and approval, Minimum Adequate Rates for Children (MARC) program and statewide nursing
+services in the field. Additionally, the program provides support to children and resource
+families through the personal care, in-home services, and CANS level of care program which
+provide support and supplemental payments to resource parent for children with increased health
+and supervision needs. Health and Wellness Services also includes the Child Welfare Education
+Coordinator who provides subject matter expertise to central office, field and resource families
+related to education as it intersects with resource family care.
+
+Program Records
+None determined as of authorization date
+
+State Agency General Records Retention Schedule Records
+
+Databases
+None determined as of authorization date
+
+Organizational Placement           Schedule Number: 2022-0003
+Agency:  Oregon Department of Human Services
+Division:  Child Welfare
+Section:  Program and Practice
+Program:  Interstate Compact on the Placement of Children (ICPC)
+
+Program Description
+The Interstate Compact on the Placement of Children is an agreement between all 50 states,
+Washington DC, and the US Virgin Islands to ensure that when children are placed outside of
+their home state, those children receive the same protections and services that would have been
+provided if they had remained in their home state.  The CW ICPC Unit carries out this agreement
+for the State of Oregon. The staff includes Central Office administrators who communicate with
+the ICPC offices in the other states and field certifiers who conduct the home studies of relatives
+of children out of state.  We manage placement requests and determinations, placements,
+supervision and closures.
+
+Program Records
+025 Case Tracking Records
+ Retain 5 years after final disposition of case, destroy
+026 Interstate Compact Case Working Records
+ Retain 6 months after final disposition of case, destroy
+
+State Agency General Records Retention Schedule Records
+Administrative Records (OAR 166-300-0015)
+Correspondence
+Mailing Lists
+
+Databases
+Oregon’s Child Welfare electronic information system
+
+Organizational Placement           Schedule Number: 2022-0003
+Agency:  Oregon Department of Human Services
+Division:  Child Welfare
+Section:  Program and Practice
+Program:  Oregon Child Abuse Hotline (ORCAH)
+
+Program Description
+The Oregon Child Abuse Hotline, also known as ORCAH, serves as one of the first points of
+contact for children in Oregon at risk for or experiencing abuse and neglect. The 24-hour hotline
+receives, and screens reports of child abuse and neglect statewide, and provides guidance and
+subject matter expertise to callers and partners to ensure child safety. The hotline also assigns
+reports for Child Protective Services (CPS) assessments when allegations of abuse meet criteria
+for assignment and to ensure child safety. The hotline provides LEDS checks for Child Welfare
+offices statewide and responds to records requests that are time sensitive. Additionally, the
+hotline serves Oregonians through cross-reporting to local law enforcement, completes required
+notifications with multiple community partners and coordinates emergency services when
+appropriate.
+
+The screening program within the Office of Child Welfare programs develops and delivers initial
+and advanced training and ongoing coaching utilizing decision-making and data-informed tools.
+A formalized Continuous Quality Improvement program, based on National research and
+models, has been implemented to inform internal and external stakeholders of ORCAH’s
+performance, ensure quality improvement and create a workplace culture that encourages
+ongoing learning and development with a goal of increased consistency and reduced bias in
+screening decisions.
+
+Program Records
+None determined as of authorization date
+
+State Agency General Records Retention Schedule Records
+
+Databases
+None determined as of authorization date
+
+Organizational Placement                    Schedule Number: 2022-0003
+Agency: Oregon Department of Human Services
+Division: Child Welfare
+Section:  Program and Practice
+Program:  Permanency
+
+Program Description
+The Permanency Program develops policy and procedures to support permanency planning for
+children, many of whom have special needs, per ORS 109. Program staff provide consultation
+and/or direct services regarding reunification, permanency and concurrent planning, adoption
+assistance financial support, assisted guardianships, and develop and maintain contracts for
+adoption home studies and placement supervision.
+
+In coordination with ODHS branch offices and case workers, the program also purchases
+services including: Permanent planning evaluations (psychological evaluations for adults, mainly
+parents, to help with planning for the permanent placement of children); contracted services with
+private licensed adoption agencies in other states, the Special Needs Adoption Coalition of
+licensed private adoption agencies in Oregon and the Northwest Adoption Exchange in order to
+find homes and provide placement services for
+special needs children.
+
+When adoption is determined to be the plan for the child, the program provides consultation,
+training and support regarding the freeing and placing of children and the recruitment and
+assessment of adoptive placements. The program also provides supervision and support services
+after a child is placed and until the adoption if finalized.
+
+Permanency provides collaborative planning for post-adoption communication through
+contracted mediators, as well as purchasing private investigative services to locate parents of
+children needing adoption services and serving them with legal documents.
+
+The program administers the Voluntary Adoption/Mutual Consent Registry (per ORS 109.425 -
+109.507). Through the registry, an adoptee may have access to nonidentifying information (such
+as existing health, genetic, and social information) about birth parents or family members. An
+adult adoptee, birth parents, and other qualified persons may also register their consent to the
+release of identifying information.
+
+Program Records
+027 Adoption and Independent Adoption Index Records, 1920 – [ongoing]
+ Retain permanently in agency
+028 Adoption Assistance Case Records
+ Retain 30 years after case closed, destroy
+029 Adoption (Closed with Petition) Case Records, 1920 – [ongoing]
+ Retain permanently in agency
+030 Adoption (Closed without Petition) Case Records, 1920 – [ongoing]
+
+Retain Adoption Case Records and Case Records where child was available but not
+adopted (child turned 18, resource family care or guardianship) 30 years after case
+closed, destroy
+031 Adoptive Home Tracking Records
+ (a) Retain Home Studies created by ODHS 7 years, destroy
+ (b) Retain Home Studies referred to ODHS Adoptions Committee 7 years, destroy
+ (b) Retain Home Studies received by ODHS but not referred until no longer needed,
+            destroy
+032 Assisted Search Records
+ Retain 30 years, destroy
+033 Client Record: Voluntary Case Files
+ Retain 30 years after case closed, destroy
+034 Guardianship Assistance Case Records
+ Retain 30 years after case closed, destroy
+035 Home Studies (No Child Adopted) Records
+ Retain 7 years after case closed, destroy
+036 Home Study Records in Branch Offices
+ Retain 30 years after case closed, destroy
+037 Permanency Case Records in Branch Offices
+ Retain 30 years after case closed, destroy
+038 Title IV-E Waiver Federal Correspondence
+ Retain 5 years after demonstration project ends, destroy
+039  Title IV-E Waiver Records
+ Retain 5 years after demonstration project ends, destroy
+040 Voluntary Adoptions/Mutual Consent Registry, 1984 – [ongoing]
+ Retain permanently in agency
+
+State Agency General Records Retention Schedule Records
+Administrative Records (OAR 166-300-0015)
+Calendar and Scheduling Records
+Contracts and Agreements
+Correspondence
+Mailing Lists
+
+Databases
+Oregon’s Child Welfare electronic information system
+
+Organizational Placement Schedule Number: 2022-0003
+Agency:  Oregon Department of Human Services
+Division:  Child Welfare
+Section:  Program and Practice
+Unit:  Program System Support
+
+Program Description
+The Program System Support Unit (commonly called OR-Kids) is responsible for managing,
+maintaining, and evolving the agency’s Child Welfare Information System(s). The team acts as
+liaison between Child Welfare Program and internal and external technical partners for the
+purpose of translating child welfare business practice into actionable software applications which
+facilitate that practice and collect all relevant data points necessary to support data-informed
+decision making.
+
+OCWP-PSS works with the business to define consistent business processes, design workflow,
+manage the software development life-cycle, provide ad hoc and business-specified reporting
+services, manage the implementation and maintenance of third-party data exchanges, and
+oversee CW-specific data quality efforts and data governance.
+
+Program Records
+None determined as of authorization date
+
+State Agency General Records Retention Schedule Records
+
+Databases
+None determined as of authorization date
+
+Organizational Placement Schedule Number: 2022-0003
+Agency:  Oregon Department of Human Services
+Division:  Child Welfare
+Section:  Program and Practice
+Program:  Treatment Services
+
+Program Description
+The Treatment Services Program provides supportive services and placement opportunities for
+children and youth with specialized needs. Services administered through the program include
+Proctor Foster Care or residential treatment through Behavioral Rehabilitation Services (BRS),
+community-level shelter care and placement preservation services through Focused
+Opportunities for Children Utilizing Services (FOCUS) program.
+
+Program Records
+041 Borderline Intellectual Functioning Children Case Files
+ Retain 30 years after case closed, destroy
+042 FOCUS Children Case Files
+ Retain 30 years after case closed, destroy
+043 FOCUS Planning and Consultation Committee Minutes
+ Retain 75 years, destroy
+044 Program Review and Survey Records
+ Retain 8 years, destroy
+045 Provider Records
+ Retain current and previous biennium, destroy
+046 Regional Consultant Monthly Activity Reports
+ Retain 2 years, destroy
+
+State Agency General Records Retention Schedule Records
+Administrative Records (OAR 166-300-0015)
+Contracts and Agreements
+Correspondence
+Financial Records (OAR 166-300-0025)
+Purchasing Records
+Travel Expense Records
+
+Databases
+Oregon’s Child Welfare electronic information system
+
+## Cross-references
+
+General records retention schedules cited in the text above. These are OAR
+chapter 166 rules and live verbatim in the sibling corpus
+[OregonAI/executive-regulatory-frameworks](https://github.com/OregonAI/executive-regulatory-frameworks);
+they are referenced here as citations, never copied (see AGENTS.md).
+
+Reproduced exactly as the source schedule cites them. A few are stale upstream —
+the rule was renumbered or repealed after this schedule was published — so a
+citation here is not a guarantee the rule still exists. Resolving one reports
+the difference: a live rule returns a title and link, a stale one reports that
+the sibling corpus holds no such document.
+
+- OAR 166-300-0015
+- OAR 166-300-0025
+- OAR 166-300-0030
+- OAR 166-300-0035
+- OAR 166-300-0040
+
+## Provenance & change history
+
+- Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-human-services-child-welfare.pdf> · retrieved 2026-07-25 · sha256 `bf6192c13eea899525e13d24aaab0256a4071cc30941475faad27f9f8f570b12`
+- Snapshot: `_meta/snapshots/schedule-human-services-child-welfare.txt` (extracted text) and `_meta/snapshots/schedule-human-services-child-welfare.pdf` (raw source, 22 pages).
+- Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 22 pages. Stripped repeated running-header lines: "Edition: August 2022"; "Oregon State Archives"; "Records Retention Schedule". Stripped 21 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
+- See [CHANGELOG](../CHANGELOG.md).

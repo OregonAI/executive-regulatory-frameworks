@@ -1,0 +1,454 @@
+---
+schema_version: 1
+corpus: executive-regulatory-frameworks
+jurisdiction: oregon
+id: schedule-transportation-rail
+title: ODOT - Rail Division
+doc_type: schedule
+citation: ODOT - Rail Division — Oregon Special Records Retention Schedule
+authority_level: schedule
+issuing_body: Oregon Secretary of State, Archives Division
+agency: department-of-transportation
+division: Rail
+schedule_number: 2002-0018
+legal_authority: []
+source_url: https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-transportation-rail.pdf
+source_format: pdf
+retrieved: '2026-07-25'
+source_sha256: 3a41d9cb1499bd185859da4f70c6e36dff4a7c4a58dd09e9c9d1cabefd537a79
+effective_date: null
+effective_date_text: June 2003
+expires: null
+expires_text: null
+last_reviewed: null
+source_version: 2002-0018
+status: current
+content_mode: verbatim
+conversion_notes: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 11 pages.
+  Stripped 11 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND
+  read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line,
+  bare page number) were removed; every other repeated line, including per-page 'Organizational Placement'
+  / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line
+  runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
+last_verified: ''
+verified_by: ''
+maintainer: '@morficflux'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related:
+    - oar-166-300-0015
+    - oar-166-300-0020
+    - oar-166-300-0025
+  supersedes: []
+tags:
+- records-retention
+- special-schedule
+---
+
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
+> copy, not the official text. Verify against the official source:
+> <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-transportation-rail.pdf> (retrieved 2026-07-25).
+
+# ODOT - Rail Division
+
+## At a glance
+
+Special records retention schedule for Oregon Department of Transportation (ODOT), published by the Oregon Secretary of State, Archives Division, schedule number 2002-0018, effective date as printed: June 2003. It runs to 11 pages and lists the agency's own record series with a retention and disposition clause for each. Record series that every state agency holds are NOT here: they are covered by the OAR chapter 166 general schedules, which this corpus references rather than copies — 3 distinct general-schedule rule(s) are cited in the text below.
+
+## Full text
+
+Department of Transportation, Rail Division
+Records Retention Schedule 2002-0018
+Effective Date: June 2003
+Table of Contents
+
+Crossing Safety ........................................................................................................................................... 4
+
+Rail Planning, Projects, and Operations ..................................................................................................... 5
+
+Rail Safety................................................................................................................................................... 8
+
+Organizational Placement       Schedule #: 2002-0018
+Agency:  Oregon Department of Transportation (ODOT)
+Division:  Rail
+
+Program Description:
+The Oregon Department of Transportation Rail Division represents and advocates for customers of
+railroads, both passenger and freight carriers, ensuring that Oregon’s rail system is safe, efficient, and
+reliable as part of the Oregon Department of Transportation’s multi-modal transportation
+responsibilities, per ORS 184, 823, 824 and OAR 741. The Rail Division provides technical expertise
+concerning the safety, regulation, planning, and design of Oregon’s rail system. In 1996, per ORS 733,
+responsibility for the regulation of Oregon’s rail industry transferred from the Public Utility
+Commission to the Oregon Department of Transportation.
+
+The Rail Division manages all state-owned rail properties which includes the Salem Train Station. In
+addition, the Division manages 180 miles of railroad right of way donated to the state by the Burlington
+Northern Santa Fe Railroad, in cooperation with an operating railroad that owns exclusive easement
+over the same property.
+
+Funding for the regulatory activities comes primarily from a fee assessed annually on railroads operating
+in Oregon based on the previous year’s gross operating revenue. Funds for grade crossing improvements
+come from designated federal and state highway funds. Railroad rehabilitation and infrastructure funds
+come from the Federal Railroad Administration, state lottery, and general funds. Funds for the Passenger
+Rail Program come from state general and other funds.
+
+The Oregon Passenger Rail Advisory Council provided advice and assistance in planning and
+implementing Oregon’s passenger rail resources. The Council reviews draft documents regarding
+passenger rail service and provides recommendations to improve, implement service. The Council
+sunsetted in 2005.
+
+The Rail Advisory Committee advises the Oregon Department of Transportation on issues that affect rail
+freight and passenger facilities and services in Oregon.
+
+Records Description:
+Program Records
+001 Oregon Passenger Rail Advisory Council Records, 1997 – 2005  .25 c.f.
+(a) Retain minutes permanently, transfer  to State Archives after 10 years
+(b) Retain other records 5 years, destroy
+020  Rail Advisory Committee Records, 2005 - [ongoing] .25 c.f.
+ (a) Retain minutes permanently, transfer to State Archives after 10 years
+(b) Retain other records 5 years, destroy
+
+Databases Used
+None
+
+State Agency General Records Retention Schedule Records:
+Administrative Records - OAR 166-300-0015
+Contracts and Agreements
+Correspondence
+Mailing Lists
+Policy and Procedure Guidelines and Manuals
+Policy Development and Planning Records
+Scheduling Records
+
+Financial Records - OAR 166-300-0025
+Budget Preparation Records
+
+Organizational Placement       Schedule #: 2002-0018
+Agency:  Oregon Department of Transportation (ODOT)
+Division:  Rail
+Section:   Crossing Safety
+
+Program Description:
+The Crossing Safety Section carries out the duties related to regulating all public railroad-highway
+crossings within Oregon. The section is responsible for reviewing applications to alter, open, or close
+railroad crossings. The section may also initiate regulatory actions based on evaluations of safety factors
+at any public crossing. The section inspects all crossings on a regular basis to ensure compliance with
+the order governing the crossing and to ensure that information is current on train and vehicular traffic
+levels. The Crossing Safety section manages crossing improvement projects funded by state and federal
+funds.
+
+Section personnel inspect all Oregon railroad crossings, currently numbering approximately 2500, every
+two years. In addition, the section inspects all signal systems present at railroad crossings within
+Oregon, currently numbering approximately 900. When inspecting railroad signal systems Division
+personnel follow federal guidelines concerning rail signal systems per CFR Title 49, Chapter II, Part
+236. Railroads are responsible for maintaining all signaling devices at rail crossings plus surfaces within
+two feet of their rails. Road authorities, whether local, county, state, or federal, are responsible for
+maintaining all signage relevant to crossings. The inspector’s original inspection reports are filed with
+and maintained by the Federal Railroad Administration.
+
+Records Description:
+Program Records
+003 Crossing Docket Files
+(a) Retain denied crossing application records 10 years, destroy
+(b) Retain approved application records 10 years, destroy
+(c) Retain orders permanently, in agency
+(d) Retain all other records 10 years, destroy
+005 Signal Inspection Records
+Retain 3 years, destroy
+
+Databases Used
+Rail Crossing Safety System (RCCS)
+
+State Agency General Records Retention Schedule Records:
+Administrative Records - OAR 166-300-0015
+Correspondence
+
+Organizational Placement       Schedule #: 2002-0018
+Agency:  Oregon Department of Transportation (ODOT)
+Division:  Rail
+Section:  Rail Planning, Projects, and Operations
+
+Program Description:
+The Rail Planning, Projects, and Operations section provides technical expertise, development, and
+management to passenger and freight rail programs including intercity passenger rail and related
+Thruway motor coach service, and coordinates Oregon’s partnership in the Pacific Northwest High
+Speed Rail Corridor. The section manages the Salem Train Station. The section manages rail
+improvement projects associated with passenger and freight rail operations, develops and implements
+the Oregon Rail Plan. Pursuant to federal law the Division participates in federal proceedings related to
+railroad mergers, abandonment’s, and rail service. In addition, the section enforces statutes governing
+crossing blockages and addresses complaints concerning crossings and their associated issues.
+
+Records Description:
+Program Records
+006 Annual Passenger Volume Records
+Retain 10 years, destroy
+021 Complaint Records
+Retain 3 years after resolution, destroy
+007 Monthly Passenger Volume Reports
+Retain 3 2 years, destroy
+008 Thruway Motor Coach Service Route Records
+Retain 10 years after carrier contract completion, destroy
+
+Databases Used
+None
+
+State Agency General Records Retention Schedule Records:
+Administrative Records - OAR 166-300-0015
+Amtrak Contracts (see Contracts and Agreements)
+Correspondence
+Leases
+
+Financial Records - OAR 166-300-0025
+Payment Records
+
+Organizational Placement       Schedule #: 2002-0018
+Agency:  Oregon Department of Transportation (ODOT)
+Division:  Rail
+Section: Planning, Projects, and Operations
+Program:  Planning and Projects
+
+Program Description:
+The Planning and Projects Program is responsible for developing and implementing the Oregon Rail
+Plan, a component of the multi-modal Oregon Transportation Plan. The Rail Plan provides an overview
+of the rail system and identifies the improvement needs associated with track, equipment, and service. A
+critical element of the plan is the identification of specific railroad rehabilitation projects, similar to the
+State Transportation Improvement Plan. The Oregon Rail Plan is also part of Oregon’s multi-modal
+transportation planning efforts to comply with federal highway funding reauthorization, which occurs
+every six years.
+
+The program provides technical expertise to public and private sector entities on railroad operations. The
+program provides staff support representing Oregon in federal proceedings governing railroad mergers,
+abandonment’s, and rail service. The program manages between $500,000 and tens of millions each
+biennium dedicated to projects to alleviate rail issues, needs and concerns pertinent to the state
+
+Records Description:
+Program Records
+009 Financial Services Branch Financial Reports
+Retain 6 years, destroy
+010 Oregon Rail Plan, 1978- [ongoing]  .5 c.f.
+(a) Retain final document permanently, tran sfer to State Archives after 20 years
+(b) Retain all other records 1 year after acceptance of final document, destroy
+011 Rail Property Lien Records
+Retain 6 years after clearance or forfeiture, destroy
+
+Databases Used
+TEAMS (Central Services)
+
+State Agency General Records Retention Schedule Records:
+Administrative Records - OAR 166-300-0015
+Contracts and Agreements
+Correspondence
+
+Financial Records - OAR 166-300-0025
+Grant Records
+
+Organizational Placement       Schedule #: 2002-0018
+Agency:  Oregon Department of Transportation (ODOT)
+Division:  Rail
+Section:    Planning, Projects and Operations
+Program:  Railroad Right of Way
+
+Program Description:
+The Railroad Right of Way program is responsible for managing ODOT controlled rail rights of way.
+The program manages approximately 180 miles of right of way situated from Tongue Point in Clatsop
+County to Willbridge in NW Portland and from United Junction in Multnomah County to Quinaby in
+Marion County. The Rail Division received the first donated right of way in July 1997.
+
+The Right of Way program negotiates agreements with entities requesting access across property
+managed by the Rail Division. The Division’s property was deeded from the Burlington Northern and
+Santa Fe Railway in 1997. Currently the Oregon Department of Transportation, through the Rail
+Division, “owns and manages” the land or property the line passes over which the current operator, the
+Portland & Western, owns the rail, ballast, ties, and other elements which create the rail line. The
+railroad holds an exclusive easement and must approve most decisions concerning use of the right of
+way.
+
+The Right of Way program is responsible for reviewing requests and negotiating agreements allowing
+third-party access to, across, over, and under the right of way.
+
+Records Description:
+Program Records
+012 Right of Way Records
+(a) Retain agreements 10 years after negation or superseding of agreement, destroy
+(b) Retain approved applications 10 years after negation or superseding of right of way
+agreement, destroy
+(c) Retain denied applications 10 years, destroy
+(d) Retain correspondence 10 years after negation or superseding of right of way, destroy
+(e) Retain leases 10 years after expiration, destroy
+(f) Retain maps until superseded or obsolete, destroy
+(g) Retain permits 10 years after superseded or expiration, destroy
+
+Databases Used
+None
+
+State Agency General Records Retention Schedule Records:
+Administrative Records - OAR 166-300-0015
+Correspondence
+Legislative Tracking Records
+
+Organizational Placement       Schedule #: 2002-0018
+Agency:  Oregon Department of Transportation (ODOT)
+Division:  Rail
+Section: Rail Safety
+
+Program Description:
+The Rail Safety Section enforces regulations regarding railroad employee safety, compliance with
+federal safety guidelines and standards, and the oversight of rail transit safety within Oregon. The
+section inspects all track, locomotives, and rail cars to ensure compliance with regulations pertaining to
+hazardous materials and safe operating practices. The section inspects all rail facilities and rail served
+industries to ensure safety of rail and industry workers.
+
+Records Description:
+Program Records
+None
+
+Databases Used
+None
+
+State Agency General Records Retention Schedule Records:
+Administrative Records - OAR 166-300-0015
+Correspondence
+Scheduling records
+
+Facilities/Property Records - OAR 166-300-0020
+Building Records
+
+Organizational Placement       Schedule #: 2002-0018
+Agency:  Oregon Department of Transportation (ODOT)
+Division:  Rail
+Section: Rail Safety
+Program: Railroad Employee Safety
+
+Program Description:
+The Railroad Employee Safety program is responsible for ensuring the safety of railroad employees in
+the performance of their duties per ORS 824 and OAR 741. The program enforces laws, rules, and
+regulations applicable to trackside clearances, trackside walkways, and sanitation in response to
+reducing and eliminating rail related personnel injuries and fatalities. Oregon has approximately 1140
+rail-served industries and 105 rail facilities. The program inspects all rail facilities and the rail served
+industries to ensure compliance with employee safety directives. Inspections note a variety of conditions
+including but not limited to the nature and condition of walkways and access points, clearances, and the
+presence of any hazardous or unsanitary materials. The program has the authority to grant variances
+when appropriate by issuing Orders, which provide legal justification for the continued existence of a
+condition or situation.
+
+The Railroad Employee Safety program may issue notices of failure to comply with regulations and
+citations to industry and rail facilities, which fail to follow safety guidelines and regulations.
+
+Records Description:
+Program Records
+014 Citations
+Retain 6 years after resolution, destroy
+015 Failure to Comply Notifications
+Retain 6 years after resolution, destroy
+016 Inspection Records
+Retain 3 years, destroy
+017 Orders
+Retain permanently in agency
+
+Databases Used
+Rail Safety Inspection
+
+State Agency General Records Retention Schedule Records:
+Administrative Records - OAR 166-300-0015
+Correspondence
+Scheduling records
+
+Facilities/Property Records - OAR 166-300-0020
+
+Organizational Placement     Schedule #: 2002-0018
+Agency:  Oregon Department of Transportation (ODOT)
+Division:  Rail
+Section: Rail Safety
+Program: Federal Safety
+
+Program Description:
+The Federal Safety program is a partnership between the Federal Railroad Administration and the
+Oregon Department of Transportation granting the Oregon Department of Transportation, via the Rail
+Division, authority to conduct inspections of the rail industry disciplines of track, motive and power,
+hazardous materials, operating practices, and grade crossing signals. Inspectors operate under the same
+authority as the Federal Railroad Administration Inspectors performing the same duties utilizing the
+resources and reporting format of the Federal Railroad Administration. The inspectors work
+independently and in conjunction with their federal counterparts to ensure compliance with federal
+mandates and guidelines regulating the rail industry. The inspector’s original inspection reports are filed
+with and maintained by the Federal Railroad Administration.
+
+Records Description:
+Program Records
+018 Inspection Records
+Retain 3 years, destroy
+
+Databases Used
+FRA (Federal Rail Administration)
+
+State Agency General Records Retention Schedule Records:
+Administrative Records - OAR 166-300-0015
+Correspondence
+Scheduling records
+
+Facilities/Property Records - OAR 166-300-0020
+Building Records
+
+Organizational Placement       Schedule #: 2002-0018
+Agency:  Oregon Department of Transportation (ODOT)
+Division:  Rail
+Section: Rail Safety
+Program: Rail Transit Safety Oversight
+
+Program Description:
+The Rail Transit Safety Oversight Program is responsible for providing oversight to any transit district
+having a rail-fixed guideway system per 49 CFR, Part 659. 49 CFR, Part 659, requires ODOT to
+establish a System Safety Program Standard, which requires transit districts operating rail-fixed
+guideway systems to follow specific rules, regulations and policies concerning safety.
+
+The Program is required to conduct safety reviews of entity’s system every three years. The audit
+reviews the entity’s programs and plans concerning safety, security, training, maintenance, inspection,
+operations, emergency procedures, etc. The Rail Division retains an external contractor to assist with the
+review process. Upon completion of the audit, a report is issued to the entity documenting any
+deficiencies, which the entity must then design and implement remedial action through the development
+of a corrective action plan.
+
+In response to 49 CFR, Part 659, the entities are required to report all accidents, hazardous conditions,
+hours- of-service violations, etc., to ODOT.
+
+Records Description:
+Program Records
+022 Annual Report to the Federal Transportation Authority
+Retain 6 years, destroy
+019 Safety Oversight Audit Records
+Retain 10 years, destroy
+
+Databases Used
+None
+
+State Agency General Records Retention Schedule Records:
+Administrative Records - OAR 166-300-0015
+Contracts and Agreements
+Correspondence
+Scheduling Records
+
+## Cross-references
+
+General records retention schedules cited in the text above. These are OAR
+chapter 166 rules and live verbatim in the sibling corpus
+[OregonAI/executive-regulatory-frameworks](https://github.com/OregonAI/executive-regulatory-frameworks);
+they are referenced here as citations, never copied (see AGENTS.md).
+
+Reproduced exactly as the source schedule cites them. A few are stale upstream —
+the rule was renumbered or repealed after this schedule was published — so a
+citation here is not a guarantee the rule still exists. Resolving one reports
+the difference: a live rule returns a title and link, a stale one reports that
+the sibling corpus holds no such document.
+
+- OAR 166-300-0015
+- OAR 166-300-0020
+- OAR 166-300-0025
+
+## Provenance & change history
+
+- Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-transportation-rail.pdf> · retrieved 2026-07-25 · sha256 `3a41d9cb1499bd185859da4f70c6e36dff4a7c4a58dd09e9c9d1cabefd537a79`
+- Snapshot: `_meta/snapshots/schedule-transportation-rail.txt` (extracted text) and `_meta/snapshots/schedule-transportation-rail.pdf` (raw source, 11 pages).
+- Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 11 pages. Stripped 11 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
+- See [CHANGELOG](../CHANGELOG.md).
