@@ -71,6 +71,16 @@ MANUAL_ENTRIES = [
     ("office-of-public-defense-services", "Office of Public Defense Services", "404"),
     ("legislative-commission-on-indian-services",
      "Legislative Commission on Indian Services", "425"),
+    # NO BUDGET CODE, and the first entry here without one. Every row above exists because a
+    # DAS code needed somewhere to point; this one exists because oregon-kpm's agency
+    # crosswalk needs an identity to resolve into, and the Legislative Equity Office appears
+    # in no appropriation this repo has mapped. `None` is the same value UNMAPPED uses for a
+    # code with no counterpart, read in the other direction: an organization with no code.
+    #
+    # It is a legislative-branch office (ORS 173.480) and issues no administrative rules, so
+    # it holds no OAR chapter and the chapter scrape can never produce it -- the same reason
+    # the Governor's office and the Legislative Assembly are hand-written above.
+    ("legislative-equity-office", "Legislative Equity Office", None),
 ]
 
 # 2. ALIASES. The same body is named differently by different sources, and matching on the
@@ -275,7 +285,11 @@ def audit(cat) -> list[str]:
             problems.append(f"{slug}: MANUAL_ENTRIES collides with a SCRAPED entry — the "
                             f"mirror now indexes it, so remove the manual one by hand "
                             f"after comparing names")
-        if MAPPING.get(code) != slug:
+        # A None code means the organization exists in its own right and no appropriation
+        # this repo has mapped points at it -- so there is nothing for MAPPING to agree with,
+        # and requiring an entry would mean inventing a code. The registry is a catalogue of
+        # Oregon agencies, not only of the ones that spend money through a mapped code.
+        if code is not None and MAPPING.get(code) != slug:
             problems.append(f"{slug}: MANUAL_ENTRIES says code {code}, MAPPING disagrees")
 
     # An alias must name a slug that exists, and must never be ambiguous — two slugs
