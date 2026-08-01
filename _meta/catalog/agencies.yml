@@ -784,6 +784,14 @@ organizations:
   parent_chapter: null
   manual: true
   budget_agency_code: '142'
+- slug: legislative-equity-office
+  name: Legislative Equity Office
+  oar_chapter: null
+  raw_index_name: Legislative Equity Office
+  source_url: null
+  parent_slug: null
+  parent_chapter: null
+  manual: true
 - slug: legislative-fiscal-officer
   name: Legislative Fiscal Officer
   oar_chapter: null

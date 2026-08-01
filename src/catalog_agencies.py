@@ -185,8 +185,35 @@ def cmd_refresh():
     # by hand after comparing names.
     if CATALOG.exists():
         prev = yaml.safe_load(CATALOG.read_text())
+        # THE SCRAPED CHAPTERS, COMPUTED ONCE. This set used to be rebuilt inside the loop
+        # against `orgs`, which the loop is simultaneously appending to -- so the first
+        # preserved entry with `oar_chapter: null` put None INTO the set that the next one
+        # was tested against, and every null-chapter manual entry after it looked like a
+        # collision with a chapter the mirror had caught up on.
+        #
+        # 13 of the 15 manual entries carry a null chapter, because that is what a body with
+        # no OAR chapter looks like -- the Governor's office, the Legislative Assembly,
+        # district attorneys. Simulated against the committed catalogue, a --refresh kept 2
+        # and dropped 13, among them office-of-the-governor, legislative-fiscal-officer and
+        # district-attorneys-and-deputies. Six of those are slugs oregon-kpm's agency
+        # crosswalk resolves into today.
+        #
+        # It would have failed the way this file's own comment warns about below: silently.
+        # The catalogue still parses, every remaining slug still resolves, and the loss only
+        # surfaces as a cross-corpus join that quietly stopped matching.
+        # A NULL CHAPTER CANNOT COLLIDE, and that is the second half of the bug. The guard
+        # asks "has the mirror caught up on this chapter?", which is meaningless for an entry
+        # that never had one -- and four SCRAPED organizations legitimately carry
+        # `oar_chapter: null` (Secretary of State, DCBS, the Military Department, the Mental
+        # Health Regulatory Agency, all parents whose rules live in their sub-units). So None
+        # was always in this set, and every null-chapter manual entry was discarded no matter
+        # what order they came in. Such an entry can only be superseded by SLUG, which the
+        # first clause already handles.
+        scraped_chapters = {x["oar_chapter"] for x in orgs if x.get("oar_chapter")}
         for o in prev.get("organizations", []):
-            if o.get("manual") and o["slug"] not in by_slug                     and o.get("oar_chapter") not in {x["oar_chapter"] for x in orgs}:
+            if o.get("manual") and o["slug"] not in by_slug \
+                    and (not o.get("oar_chapter")
+                         or o["oar_chapter"] not in scraped_chapters):
                 orgs.append(o)
                 by_slug[o["slug"]] = o
 
