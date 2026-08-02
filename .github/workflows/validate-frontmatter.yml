@@ -45,6 +45,8 @@ jobs:
       # destroyed findings a stronger one produced — 25 of 137 would have gone in a
       # planned 12B pass, with the run reporting success. Synthetic fixtures: no model,
       # no network, no catalog write.
+      - name: Triage write path must lose nothing
+        run: python3 src/triage_conflicts.py --selftest
       - name: Conflict-catalog merge must not drop prior candidates
         run: python3 src/analyze_conflicts.py --selftest
       # The measurement side of the same pipeline, and its failures are quieter than the
