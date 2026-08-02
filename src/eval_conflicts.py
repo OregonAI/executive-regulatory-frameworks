@@ -591,6 +591,9 @@ def main():
     # Choices come from AC.PROMPT_TEXTS rather than a literal list. The literal was
     # ["v2","v3","v4"] and had already gone stale — v5 existed and could not be scored
     # here, which is exactly the arm #62 says must be re-measured before any bulk run.
+    ap.add_argument("--record", action="store_true",
+                    help="append this run's scores to the eval ledger, admitting the "
+                         "(model, prompt) pair through analyze_conflicts' merge gate")
     ap.add_argument("--prompt", choices=sorted(AC.PROMPT_TEXTS), default="v2",
                     help="which local prompt to evaluate; run both to compare")
     ap.add_argument("--from-raw", metavar="PATH",
@@ -755,6 +758,29 @@ def main():
         lines += ["", "ungrounded quote examples (model asserted, source does not say):"]
         lines += [f"   {d}: {q!r}" for d, q in gr["examples"]]
     print("\n".join(lines))
+
+    if args.record:
+        # THE MERGE GATE'S OTHER HALF: recording here is what earns (model, prompt) its
+        # way into analyze_conflicts.merge_into_catalog. The entry carries the numbers
+        # AND what they were measured against, so a future reader can re-derive them.
+        led = yaml.safe_load(AC.EVAL_LEDGER.read_text()) if AC.EVAL_LEDGER.is_file() else {}
+        led.setdefault("note", "Eval ledger: one entry per scored (model, prompt_version) "
+                       "pair. analyze_conflicts refuses to merge a pair with no entry "
+                       "here (the batch-2 recall collapse rule); --unevaluated-ok "
+                       "bypasses with a warning. Append via eval_conflicts --record, "
+                       "never by hand-inventing numbers.")
+        led.setdefault("evaluations", []).append({
+            "model": args.model, "prompt_version": args.prompt,
+            "ground_truth_run": args.ground_truth_run,
+            "recall": f"{len(hit)}/{len(reach)}",
+            "recall_pct": round(100 * len(hit) / max(len(reach), 1), 1),
+            "grounding_pct": round(100 * gr["grounded"] / max(gr["n_quotes"], 1), 1),
+            "bundles_answered": f"{ok_bundles}/{len(bundles)}",
+            "date": date.today().isoformat()})
+        AC.EVAL_LEDGER.write_text(
+            yaml.safe_dump(led, sort_keys=False, allow_unicode=True, width=100))
+        print(f"recorded in {AC.EVAL_LEDGER.relative_to(REPO_ROOT)} — the merge gate "
+              f"now admits {args.model} @ {args.prompt}")
 
     out = Path(args.out) if args.out else OUT_DIR / f"eval-{date.today().isoformat()}.json"
     out.parent.mkdir(parents=True, exist_ok=True)

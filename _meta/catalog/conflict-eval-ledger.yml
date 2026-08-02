@@ -1,0 +1,38 @@
+note: 'Eval ledger: one entry per scored (model, prompt_version) pair. analyze_conflicts
+  refuses to merge a pair with no entry here (the batch-2 recall collapse rule: an
+  unevaluated model silently found ~1/3 of what an evaluated one had on identical
+  chapters, discovered only by accidental re-runs); --unevaluated-ok bypasses with a
+  warning. Append via `eval_conflicts.py --record`, never by hand-inventing numbers.
+  The three seed entries below are HISTORICAL, reconstructed from the catalog''s own
+  batch notes rather than measured by the harness — their basis field says so, and they
+  exist so the pairs that built the current catalog remain mergeable without pretending
+  they were never assessed.'
+evaluations:
+- model: claude-sonnet (pilot, batches 1 & 3)
+  prompt_version: v2
+  ground_truth_run: is-the-ground-truth
+  recall: n/a
+  recall_pct: null
+  grounding_pct: 96.4
+  date: '2026-07-23'
+  basis: historical — this run IS the pinned ground truth; grounding from the catalog's
+    quote-verification counts
+- model: claude-haiku (batch 2)
+  prompt_version: v2
+  ground_truth_run: pilot-2026-07
+  recall: ~1/3 of batch-1 findings on the 12 identical chapters
+  recall_pct: 33.0
+  grounding_pct: null
+  date: '2026-07-23'
+  basis: historical — the measured recall gap recorded in the catalog methodology; the
+    reason this ledger exists. Batch 3 superseded every batch-2 chapter on Sonnet.
+- model: claude-haiku (section-scoped scan)
+  prompt_version: v5
+  ground_truth_run: pilot-2026-07
+  recall: not directly comparable (section-scoped units vs chapter-scoped truth)
+  recall_pct: null
+  grounding_pct: 69.7
+  date: '2026-07-31'
+  basis: historical — 76 of 109 proposed candidates survived the quote gate (33 dropped
+    for quotes not in the cited document); recorded from run haiku-scan-2026-07-31's
+    merge notes
