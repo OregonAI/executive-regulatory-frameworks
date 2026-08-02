@@ -44,6 +44,30 @@ def _ors_disposition(section):
     return _ORS_DISPOSITION.get(section)
 
 
+_MINED_CAVEAT = ("Mechanically mined from the chapter's own legislative-history "
+                 "bracket, not an authoritative disposition table — verify against "
+                 "oregonlegislature.gov.")
+
+
+def _follow_renumbering(section, disp, hops_left=5):
+    """Walk a renumbered section to where its text lives NOW. The disposition table
+    records one hop per row (verbatim source_phrase each); a section renumbered twice
+    chains. Cycle- and depth-guarded; multi-target rows return every target and choose
+    none (the table's own rule)."""
+    targets = disp.get("targets") or []
+    if not targets or hops_left <= 0:
+        return targets
+    out = []
+    for tgt in targets:
+        nxt = _ors_disposition(str(tgt).lower())
+        if nxt and nxt.get("status") == "renumbered" and str(tgt) != section:
+            out.extend(x for x in _follow_renumbering(str(tgt).lower(), nxt, hops_left - 1)
+                       if x not in out)
+        elif tgt not in out:
+            out.append(tgt)
+    return out
+
+
 def _resolve_ors(m, nodes):
     section = m.group(1).lower()
     cid = f"ors-{section}"
@@ -54,9 +78,22 @@ def _resolve_ors(m, nodes):
         return [], (f"ORS {section} was repealed in {disp['year']} — no current text "
                     "exists. Citing rules/policies may not have been updated since "
                     "(this is legally normal in Oregon; a rule stays valid until the "
-                    "agency files a housekeeping correction). Mechanically mined from "
-                    "the chapter's own legislative-history bracket, not an authoritative "
-                    "disposition table — verify against oregonlegislature.gov.")
+                    "agency files a housekeeping correction). " + _MINED_CAVEAT)
+    if disp and disp.get("status") == "renumbered":
+        # THE ISSUE #90 CASE: county code (and old state policy) cites the law as it
+        # stood when adopted, and the state renumbers underneath it. A bare miss here
+        # read as a coverage gap in this corpus when the text exists under a new number
+        # — 7,936 mined renumberings sat unconsulted while this returned nothing.
+        finals = _follow_renumbering(section, disp)
+        held = [f"ors-{str(t).lower()}" for t in finals
+                if f"ors-{str(t).lower()}" in nodes]
+        where = " and ".join(f"ORS {t}" for t in finals) or "an unrecorded destination"
+        note = (f"ORS {section} was renumbered in {disp.get('year', '?')} "
+                f"(source: '{disp.get('source_phrase', '')}'); the current section is "
+                f"{where}. " +
+                ("Returning the current text. " if held else
+                 "The destination is not held in this corpus. ") + _MINED_CAVEAT)
+        return held, note
     return [cid]
 
 
