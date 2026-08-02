@@ -271,6 +271,7 @@ def compute(write=False):
                 changed += 1
 
     nodes = [{"id": did, "title": d["fm"]["title"], "doc_type": d["fm"]["doc_type"],
+              "status": d["fm"].get("status", ""),
               "path": str(d["path"].relative_to(REPO_ROOT))}
              for did, d in sorted(docs.items())]
     edges = []
