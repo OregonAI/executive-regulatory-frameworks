@@ -1,0 +1,35 @@
+# The cross-corpus contract file. src/federal_ids.py is a verbatim copy of the canonical
+# one in federal-reference — both sides must compute the same ids BY CONSTRUCTION, and a
+# drifted copy diverges silently while every local check stays green (federal-reference#11;
+# the failure class is pl-113-128-wioa, unreachable from every sibling with nothing
+# failing). diff, not a hash compare, so the drift itself appears in the log.
+#
+# Its own workflow rather than a step in an existing one because this repo has no local
+# generated-artifacts job to host it — CI here is all reusable-workflow calls.
+# This is the one deliberate exception to "CI must not need the network": the parity being
+# checked IS a cross-repo fact, and curl -sSf makes a fetch failure a loud failure rather
+# than a silent pass.
+name: federal-ids-parity
+on:
+  pull_request:
+    paths: [src/federal_ids.py]
+  push:
+    branches: [main]
+    paths: [src/federal_ids.py]
+  schedule:
+    # Weekly, because the drift this guards can originate in the OTHER repo: the canonical
+    # copy moving while this one stands still is invisible to path-filtered PR triggers.
+    - cron: "40 8 * * 1"
+  workflow_dispatch:
+
+jobs:
+  parity:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: src/federal_ids.py must match the canonical copy in federal-reference
+        run: |
+          curl -sSf --retry 3 -o /tmp/canonical_federal_ids.py \
+            https://raw.githubusercontent.com/OregonAI/federal-reference/main/src/federal_ids.py
+          diff -u /tmp/canonical_federal_ids.py src/federal_ids.py
