@@ -40,11 +40,12 @@ VIZZES = [
      "The functional age of the rule &amp; policy body — which rules lag the statutes they implement, sliced by agency, with the specific documents worth reviewing."),
     ("Policy age", "policy-age.html",
      "How long since each internal policy/procedure/standard was last touched, against a 2-year review cadence — sliced by agency, with the specific documents overdue for review."),
-    ("Governor's priorities", "governor-priorities.html",
-     "Does OAR rulemaking show elevated recent activity in the chapters that plausibly implement 4 stated priority areas? A curated mapping, clearly labeled as interpretive."),
-    ("Conflict candidates (pilot)", "conflict-candidates.html",
-     "An AI-assisted read of 12 ORS chapters for candidate inconsistencies between statutes and implementing rules — every item is a citation-backed candidate for human/legal review, not a confirmed conflict."),
 ]
+# The governor's-priorities and conflict-candidates views are DELIBERATELY ABSENT:
+# interpretive content now publishes only through the oregon-stories manifest gate
+# (operator decision 2026-08-02 — unreviewed candidates never present as findings).
+# Both entered that manifest as drafts; their data builders stay here (the data is
+# what the stories side consumes), their pages do not.
 
 
 def stats() -> dict:
@@ -92,7 +93,11 @@ def main() -> int:
                  "internal policy, procedure and standards where published"),
         ],
         sections=[
-            Section("Explore", f'    <div class="cards">\n{cards}\n    </div>'),
+            Section("Explore", f'    <div class="cards">\n{cards}\n    </div>\n'
+                    '    <p class="lede">More visuals from this corpus, and every other, '
+                    'live in the <a href="https://oregonai.github.io/oregon-stories/">'
+                    'stories gallery</a> — the platform\'s one index of published '
+                    'visual work.</p>'),
             Section("What the edges mean", """
     <ul class="plain">
       <li><b>An edge is derived, not asserted.</b> A rule that names the statute it is
@@ -101,9 +106,11 @@ def main() -> int:
       <li><b>A repealed or renumbered section is a disposition, not a gap.</b> This corpus
         mines both from the statute book, so a citation that resolves to nothing can be
         answered with why rather than with silence.</li>
-      <li><b>Interpretive work is labelled.</b> The conflict-candidate and
-        governor's-priorities views are explicitly curated readings offered for human
-        review, not findings.</li>
+      <li><b>Interpretive work publishes elsewhere, gated.</b> The conflict-candidate
+        and governor's-priorities readings moved behind the
+        <a href="https://oregonai.github.io/oregon-stories/">oregon-stories</a>
+        publication gate — curated readings appear there only after operator review,
+        never as findings on this page.</li>
     </ul>"""),
             Section("For agents", """
     <ul class="plain">

@@ -98,12 +98,8 @@ jobs:
         run: python3 src/build_policy_age.py --check
       - name: Governor-priorities dataset must match the graph
         run: python3 src/build_governor_priorities_data.py --check
-      - name: Governor-priorities visualization must be current
-        run: python3 src/build_governor_priorities.py --check
       - name: Conflict-candidates dataset must match the graph (verifies every citation)
         run: python3 src/build_conflict_candidates_data.py --check
-      - name: Conflict-candidates visualization must be current
-        run: python3 src/build_conflict_candidates.py --check
       # The DAS budget agency codes are a hand-reviewed mapping, not a scrape, and
       # `catalog_agencies.py --refresh` rebuilds every entry from oregon.public.law. This
       # catches a refresh that dropped them — which before CURATED_KEYS it silently did,
