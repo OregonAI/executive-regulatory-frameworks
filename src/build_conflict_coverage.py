@@ -95,6 +95,9 @@ def build() -> dict:
         prev = yaml.safe_load(OUT.read_text()) or {}
         audit_chs = {r["chapter"] for r in prev.get("chapters", []) if r.get("audit_cited")}
         inherited = bool(audit_chs)
+        if inherited:
+            print("(audit_cited inherited from committed ledger — no sibling checkout)",
+                  file=sys.stderr)
     rows = []
     for ch, agencies in sorted(shared.items()):
         n_sections = len(sections_of.get(ch, ()))
@@ -132,11 +135,9 @@ def build() -> dict:
                 "'sections-partial' (only the listed sections, with only their citing "
                 "rules), or 'unscreened'. 'priority' orders the frontier for the next "
                 "run by expected value, replacing the batch-3 smallest-first cost bias. "
-                "audit_cited comes from a sibling oregon-audits checkout"
-                + (" (INHERITED from the committed ledger — no sibling checkout at "
-                   "generation)" if inherited else
-                   "" if audit_chs else " (ABSENT at generation — flags all false, which "
-                   "understates priority; regenerate with the sibling present)") + ".",
+                "audit_cited derives from a sibling oregon-audits checkout when present; "
+                "when absent (CI), flags are inherited unchanged from the committed "
+                "ledger so regeneration is deterministic.",
         "summary": {"shared_authority_chapters": len(rows), **counts,
                     "sections_screened_total": sum(r["sections_screened"] for r in rows),
                     "sections_with_rules_total": sum(r["sections_with_rules"] for r in rows)},
