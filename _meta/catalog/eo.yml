@@ -72,8 +72,8 @@ orders:
   file_ref: /gov/eo/eo-03-08.pdf
   listing_year: '2003'
   listing_number: '8'
-  text_layer: 'none (fallback OCR attempted 2026-07-25: 43 words, 53% dictionary, 39% cross-engine agreement
-    — below threshold)'
+  text_layer: fallback-ocr (75 words, 91% dictionary, 88% agreement between ocrmypdf/tesseract + paddleocr
+    PP-OCRv6)
   path: executive-orders/eo-03-08.md
   sha256: 811d5235f94327c03181888cc8fe1c9cdd87d32c4c8875e17a01d55d4ed17972
 - id: eo-03-09
@@ -476,8 +476,8 @@ orders:
   file_ref: /gov/eo/eo-07-06.pdf
   listing_year: '2007'
   listing_number: '6'
-  text_layer: 'none (fallback OCR attempted 2026-07-25: 44 words, 61% dictionary, 43% cross-engine agreement
-    — below threshold)'
+  text_layer: fallback-ocr (76 words, 97% dictionary, 97% agreement between ocrmypdf/tesseract + paddleocr
+    PP-OCRv6)
   path: executive-orders/eo-07-06.md
   sha256: a2908b64e1d2f7cca8ebc6c46a5e55e7f89194f3b74491d1d92ee8970454d83e
 - id: eo-07-07
@@ -667,8 +667,8 @@ orders:
   file_ref: /gov/eo/eo-07-26-a.pdf
   listing_year: '2007'
   listing_number: '26'
-  text_layer: 'none (fallback OCR attempted 2026-07-25: 48 words, 46% dictionary, 41% cross-engine agreement
-    — below threshold)'
+  text_layer: fallback-ocr (85 words, 91% dictionary, 93% agreement between ocrmypdf/tesseract + paddleocr
+    PP-OCRv6)
   path: executive-orders/eo-07-26-a.md
   sha256: 3f8aa4d812aaec6e10f532520cfc4e97e9a879c7e08dbb26d29271edeacaaa17
 - id: eo-07-27
@@ -797,8 +797,8 @@ orders:
   file_ref: /gov/eo/eo-08-13.pdf
   listing_year: '2008'
   listing_number: '13'
-  text_layer: 'none (fallback OCR attempted 2026-07-25: 82 words, 89% dictionary, 89% cross-engine agreement
-    — below threshold)'
+  text_layer: fallback-ocr (87 words, 97% dictionary, 96% agreement between ocrmypdf/tesseract + paddleocr
+    PP-OCRv6)
   path: executive-orders/eo-08-13.md
   sha256: 72aae9087cfed54b701ce9e18a4ef4a9ef9cfae172d0deb96a83b56853471dd7
 - id: eo-08-14
@@ -919,8 +919,8 @@ orders:
   file_ref: /gov/eo/eo-08-25.pdf
   listing_year: '2008'
   listing_number: '25'
-  text_layer: 'none (fallback OCR attempted 2026-07-25: 79 words, 87% dictionary, 78% cross-engine agreement
-    — below threshold)'
+  text_layer: fallback-ocr (92 words, 92% dictionary, 88% agreement between ocrmypdf/tesseract + paddleocr
+    PP-OCRv6)
   path: executive-orders/eo-08-25.md
   sha256: 4cdc26832f8a800cf4a84bae1d574238213c38a3ffeaf3e32e0830bea0f9e6c2
 - id: eo-08-26-rev
@@ -1387,8 +1387,8 @@ orders:
   file_ref: /gov/eo/eo-12-04.pdf
   listing_year: '2012'
   listing_number: '4'
-  text_layer: 'none (fallback OCR attempted 2026-07-25: 52 words, 73% dictionary, 56% cross-engine agreement
-    — below threshold)'
+  text_layer: fallback-ocr (76 words, 96% dictionary, 93% agreement between paddleocr PP-OCRv6 + docTR
+    (DBNet + CRNN))
   path: executive-orders/eo-12-04.md
   sha256: e259732183ab1b23c1191a7e72efc798c27a7d03760efbe357a3488048e36969
 - id: eo-12-05
@@ -1435,8 +1435,8 @@ orders:
   file_ref: /gov/eo/eo-12-09.pdf
   listing_year: '2012'
   listing_number: '9'
-  text_layer: 'none (fallback OCR attempted 2026-07-25: 51 words, 47% dictionary, 35% cross-engine agreement
-    — below threshold)'
+  text_layer: 'none (two-engine OCR attempted 2026-08-02: 96 words, 95% dictionary, 85% cross-engine agreement
+    — below the 85% bar for a document of this length)'
   path: executive-orders/eo-12-09.md
   sha256: 9e34fb46be29e81e920624e6d4a306aa959f81b5fc2797a1810bc4e2b52e6978
 - id: eo-12-10
@@ -2019,8 +2019,8 @@ orders:
   file_ref: /gov/eo/eo_16-01.pdf
   listing_year: '2016'
   listing_number: '1'
-  text_layer: 'none (fallback OCR attempted 2026-07-25: 53 words, 62% dictionary, 54% cross-engine agreement
-    — below threshold)'
+  text_layer: fallback-ocr (83 words, 90% dictionary, 92% agreement between ocrmypdf/tesseract + paddleocr
+    PP-OCRv6)
   path: executive-orders/eo-16-01.md
   sha256: 7906a4e0f37293c28fc82cf232354ba7079a4b0cc3a14d96c7eeb3a700f261c6
 - id: eo-16-02
@@ -2149,8 +2149,8 @@ orders:
   file_ref: /gov/eo/eo_16-15.pdf
   listing_year: '2016'
   listing_number: '15'
-  text_layer: 'none (fallback OCR attempted 2026-07-25: 27 words, 52% dictionary, 45% cross-engine agreement
-    — below threshold)'
+  text_layer: 'none (two-engine OCR attempted 2026-08-02: 53 words, 92% dictionary, 82% cross-engine agreement
+    — below the 85% bar for a document of this length)'
   path: executive-orders/eo-16-15.md
   sha256: 0257b4c62ce1628f0687160052dff9388a79048dc2dd64326e097b91b6524b3e
 - id: eo-17-01
@@ -2246,8 +2246,8 @@ orders:
   file_ref: /gov/eo/eo_17-10.pdf
   listing_year: '2017'
   listing_number: '10'
-  text_layer: 'none (fallback OCR attempted 2026-07-25: 50 words, 74% dictionary, 61% cross-engine agreement
-    — below threshold)'
+  text_layer: fallback-ocr (78 words, 94% dictionary, 93% agreement between ocrmypdf/tesseract + paddleocr
+    PP-OCRv6)
   path: executive-orders/eo-17-10.md
   sha256: a4cc356983b629ed66fb2e31d3fec777f2bd1152b898b74126e1dccf6947573b
 - id: eo-17-11
@@ -2722,8 +2722,8 @@ orders:
   file_ref: /gov/eo/eo_19_07.pdf
   listing_year: '2019'
   listing_number: '7'
-  text_layer: 'none (fallback OCR attempted 2026-07-25: 45 words, 51% dictionary, 40% cross-engine agreement
-    — below threshold)'
+  text_layer: fallback-ocr (78 words, 90% dictionary, 91% agreement between ocrmypdf/tesseract + paddleocr
+    PP-OCRv6)
   path: executive-orders/eo-19-07.md
   sha256: 0656a47c9e4da0461d755aa409f2440abe5ee54d85b0fc0ddcfa390e80b619d7
 - id: eo-19-08
@@ -4803,8 +4803,8 @@ orders:
   file_ref: /gov/eo/eo-25-31.pdf
   listing_year: '2025'
   listing_number: '31'
-  text_layer: 'none (fallback OCR attempted 2026-07-25: 85 words, 80% dictionary, 84% cross-engine agreement
-    — below threshold)'
+  text_layer: fallback-ocr (97 words, 90% dictionary, 92% agreement between paddleocr PP-OCRv6 + docTR
+    (DBNet + CRNN))
   path: executive-orders/eo-25-31.md
   sha256: ec843548cc63b7904480455a1b98fcb8a75838d1481ea5f4ab909cbbea345b78
 - id: eo-25-32

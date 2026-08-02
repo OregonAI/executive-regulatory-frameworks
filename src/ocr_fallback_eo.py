@@ -58,7 +58,47 @@ PDF_CACHE = REPO_ROOT / "_meta/.cache/eo-pdfs"      # gitignored; hash-only poli
 # good-population floor (87.2%) and far above the failed population's ceiling (60.8%).
 MIN_AGREEMENT = 0.80
 
-ENGINES = ("rapidocr-onnxruntime", "easyocr")
+# THE LENGTH FLOOR FOR PROMOTION, which is deliberately NOT ingest_eo.MIN_WORDS.
+#
+# That constant answers a different question -- "does this PDF's own text layer look
+# usable?" -- and lowering it there would change which documents get ingested as verbatim
+# in the first place. This one answers "is there enough text here to judge?", and 100 was
+# the wrong answer to it.
+#
+# Measured, on the 12 orders that were still stubs after the tesseract+Paddle upgrade: every
+# one cleared agreement (81.6-97.3%) and dictionary (91-99%), and every one failed on length
+# alone at 53-97 words. They are not truncated reads. eo-16-15 in its entirety is "Executive
+# Order 12-17 is revoked" plus a date and two signatures -- a complete revocation order that
+# is simply short, as amendment and rescission orders are.
+#
+# >=100 words was a PROXY for "the OCR failed", written when a single engine's output had
+# nothing to check it against. Cross-engine agreement measures that directly and better, so
+# the proxy now only misfires -- it rejects complete documents for brevity.
+#
+# THE HIGHER BAR FOR SHORT DOCUMENTS IS THE POINT, not a hedge. SequenceMatcher over 53
+# tokens is a noisier estimate than over 500: a couple of coincidental matches move the
+# ratio much further. So a short document must clear MORE agreement to earn the same
+# confidence, not the same amount. At these thresholds 10 of the 12 promote; eo-16-15
+# (81.6%) and eo-12-09 (85.0%) stay stubs and stay in REVIEW.md.
+MIN_WORDS_PROMOTE = 40
+SHORT_DOC_WORDS = 100
+MIN_AGREEMENT_SHORT = 0.85
+
+
+def agreement_bar(words: int) -> float:
+    """Agreement a document of this length must clear. See MIN_WORDS_PROMOTE."""
+    return MIN_AGREEMENT_SHORT if words < SHORT_DOC_WORDS else MIN_AGREEMENT
+
+# THE DEFAULT PAIR, per AGENTS.md "The default stack is tesseract + PaddleOCR", adopted
+# from oregon-kpm's measured bake-off. It was ("rapidocr-onnxruntime", "easyocr"), which is
+# what recovered the 15 orders already promoted -- their committed notes still name that
+# pair, correctly, because that is the history of how those documents were read.
+#
+# Passed to promote() rather than only read from here, because the pair is not always the
+# default: ocrmypdf crashes outright (exit 6) on some of these scans, and an order tesseract
+# cannot open has to be corroborated by a different pair (Paddle + docTR). A note naming
+# engines that did not read the page would be worse than no note.
+ENGINES = ("ocrmypdf/tesseract", "paddleocr PP-OCRv6")
 
 
 def _vocabulary() -> set:
@@ -94,11 +134,13 @@ def score(text_a: str, text_b: str, vocab: set) -> dict:
     # did not actually resolve, which is the thing the content policy forbids.
     glued = len(re.findall(r"\b[A-Za-z]{18,}\b", text_a))
     return {"words": len(wa), "dict_ratio": ratio, "agreement": agreement, "glued": glued,
-            "gate_ok": len(wa) >= MIN_WORDS and ratio >= MIN_DICT_RATIO,
-            "agree_ok": agreement >= MIN_AGREEMENT}
+            "bar": agreement_bar(len(wa)),
+            "gate_ok": len(wa) >= MIN_WORDS_PROMOTE and ratio >= MIN_DICT_RATIO,
+            "agree_ok": agreement >= agreement_bar(len(wa))}
 
 
-def promote(md_path: Path, oid: str, text: str, s: dict, url: str) -> str:
+def promote(md_path: Path, oid: str, text: str, s: dict, url: str,
+            engines: tuple = ENGINES) -> str:
     """Rewrite a metadata stub into a verbatim document. Returns the new file text.
 
     The committed extraction and `source_sha256` must satisfy the toolkit's hash-only
@@ -110,7 +152,7 @@ def promote(md_path: Path, oid: str, text: str, s: dict, url: str) -> str:
                   f"extraction and are left as-is rather than reconstructed"
                   if s["glued"] else "")
     notes = (f"text recovered via fallback OCR after the primary engine produced none; "
-             f"two independent engines ({' + '.join(ENGINES)}) agree on "
+             f"two independent engines ({' + '.join(engines)}) agree on "
              f"{s['agreement']:.0%} of the word sequence, {s['dict_ratio']:.0%} "
              f"dictionary-recognizable{glued_note}; NOT human-verified")
     raw = md_path.read_text(encoding="utf-8")
@@ -134,7 +176,7 @@ def promote(md_path: Path, oid: str, text: str, s: dict, url: str) -> str:
             "## Curator notes\n\n"
             "The source PDF has no usable text layer, so this text was produced by OCR, not by "
             "the document's own embedded text. It was promoted only because two independent OCR "
-            f"engines ({' + '.join(ENGINES)}) independently produced "
+            f"engines ({' + '.join(engines)}) independently produced "
             f"{s['agreement']:.0%}-matching output — agreement between independent engines is "
             "evidence the words are on the page, not invented. It has **not** been checked by a "
             "human against the source. Signature blocks, names, and dates are the least reliable "
@@ -145,7 +187,13 @@ def promote(md_path: Path, oid: str, text: str, s: dict, url: str) -> str:
             "boundaries would mean writing text the OCR did not resolve. Body prose is "
             "unaffected.\n\n"
             "## Provenance & change history")
-    raw = re.sub(r"## Provenance & change history", body, raw, count=1)
+    # LAMBDA, NOT THE STRING. `body` carries the OCR text verbatim, and re.sub parses escape
+    # sequences in a replacement string -- so a backslash the scanner emitted mid-word
+    # ("\Z" in eo-17-10) raises `re.error: bad escape` and aborts the run midway, after
+    # earlier orders have already been written and before the catalog is. A function
+    # replacement is substituted literally, which is the only correct behaviour when the
+    # replacement is document text rather than a pattern.
+    raw = re.sub(r"## Provenance & change history", lambda _m: body, raw, count=1)
     raw = re.sub(r"· raw-byte sha256 `[0-9a-f]{64}`",
                  f"· text-content sha256 `{digest}`", raw, count=1)
     raw = re.sub(r"there is no text layer to commit, so nothing diffs this document against its source mechanically\.",
@@ -159,8 +207,13 @@ def main():
     ap.add_argument("--apply", action="store_true", help="write changes (default: report only)")
     ap.add_argument("--report", action="store_true")
     ap.add_argument("--id", help="restrict to one order id")
-    ap.add_argument("--rapid-dir", default="/tmp/rapid27", help="engine-1 output dir")
-    ap.add_argument("--easy-dir", default="/tmp/easy27", help="engine-2 output dir")
+    # Defaults moved out of /tmp and into the gitignored cache: these are the two engines'
+    # readings of the same scans, they take real time to produce, and a reboot should not
+    # silently turn "already computed" into "missing engine output".
+    ap.add_argument("--primary-dir", default=str(REPO_ROOT / "_meta/.cache/ocr-primary"),
+                    help="primary engine text, one <id>.txt per order")
+    ap.add_argument("--cross-dir", default=str(REPO_ROOT / "_meta/.cache/ocr-cross"),
+                    help="cross-check engine text, one <id>.txt per order")
     args = ap.parse_args()
 
     cat = yaml.safe_load(CATALOG.read_text())
@@ -170,12 +223,19 @@ def main():
         targets = [o for o in targets if o["id"] == args.id]
 
     vocab = _vocabulary()
+    # WHICH TWO ENGINES ACTUALLY READ EACH ORDER. ocrmypdf exits 6 on some of these scans,
+    # and where it does, ocr_corroborate_eo.py --recover falls back to Paddle + docTR and
+    # records that here. Defaulting every note to ENGINES would name tesseract on documents
+    # tesseract could not open -- a provenance claim that is simply false, in the one field
+    # a reader consults to judge how the text was produced.
+    pairs_path = REPO_ROOT / "_meta/.cache/eo-recover-pairs.json"
+    pairs = json.loads(pairs_path.read_text()) if pairs_path.is_file() else {}
     promoted = skipped = 0
     print(f"{'id':16s} {'words':>5s} {'dict':>5s} {'agree':>6s}  decision")
     print("-" * 56)
     for o in sorted(targets, key=lambda x: x["id"]):
         oid = o["id"]
-        pa, pb = Path(args.rapid_dir) / f"{oid}.txt", Path(args.easy_dir) / f"{oid}.txt"
+        pa, pb = Path(args.primary_dir) / f"{oid}.txt", Path(args.cross_dir) / f"{oid}.txt"
         if not (pa.is_file() and pb.is_file()):
             print(f"{oid:16s} {'':5s} {'':5s} {'':6s}  SKIP (missing engine output)")
             continue
@@ -188,22 +248,27 @@ def main():
         if not ok:
             skipped += 1
             if args.apply:
-                o["text_layer"] = (f"none (fallback OCR attempted {TODAY}: {s['words']} words, "
+                o["text_layer"] = (f"none (two-engine OCR attempted {TODAY}: {s['words']} words, "
                                    f"{s['dict_ratio']:.0%} dictionary, {s['agreement']:.0%} "
-                                   f"cross-engine agreement — below threshold)")
+                                   f"cross-engine agreement — below the {s['bar']:.0%} bar "
+                                   f"for a document of this length)")
             continue
         if args.apply:
             md = EO_DIR / f"{oid}.md"
             (SNAPSHOT_DIR / f"{oid}.txt").write_text(a, encoding="utf-8")
+            engines = tuple(pairs.get(oid, {}).get("engines") or ENGINES)
             md.write_text(promote(md, oid, a, s, o["file_ref"] and
-                                  f"https://www.oregon.gov{o['file_ref']}" or ""), encoding="utf-8")
+                                  f"https://www.oregon.gov{o['file_ref']}" or "",
+                                  engines=engines), encoding="utf-8")
             o["text_layer"] = (f"fallback-ocr ({s['words']} words, {s['dict_ratio']:.0%} "
-                               f"dictionary, {s['agreement']:.0%} cross-engine agreement)")
+                               f"dictionary, {s['agreement']:.0%} agreement between "
+                               f"{' + '.join(engines)})")
         promoted += 1
 
     print(f"\n{promoted} promotable, {skipped} left as stubs "
-          f"(thresholds: >= {MIN_WORDS} words, >= {MIN_DICT_RATIO:.0%} dictionary, "
-          f">= {MIN_AGREEMENT:.0%} agreement)")
+          f"(thresholds: >= {MIN_WORDS_PROMOTE} words, >= {MIN_DICT_RATIO:.0%} dictionary, "
+          f">= {MIN_AGREEMENT:.0%} agreement — or >= {MIN_AGREEMENT_SHORT:.0%} under "
+          f"{SHORT_DOC_WORDS} words, where the ratio is computed over fewer tokens)")
     if args.apply:
         CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
         print("applied; _meta/catalog/eo.yml updated")

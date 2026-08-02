@@ -101,6 +101,45 @@ to invent the *same* words, so high agreement between them is positive evidence
 the words are physically on the page. That evidence — not a better engine — is
 what makes promotion defensible.
 
+#### The default stack is tesseract + PaddleOCR
+
+Adopted from `oregon-kpm/AGENTS.md`, where the pair was chosen by measurement rather
+than preference. Do not hand-roll a renderer and do not substitute a hosted model.
+
+**Primary: `ocrmypdf` (tesseract).** Writes a text layer into a *copy* beside the
+original, never over it. In this repo the committed `_meta/snapshots/<id>.txt` **is**
+that reading — `cmd_ocr` in `src/ingest_eo.py` writes it from `ocrmypdf | pdftotext`
+— so corroborating an already-recovered order does not require re-running tesseract.
+
+**Cross-check: PaddleOCR (PP-OCRv6).** Reads the **original** scan, so the two engines
+share nothing but the pixels. Corroborating against a copy of the first engine's output
+would be an echo, not evidence. Measured word agreement against tesseract: 0.816–0.929
+across the six oregon-kpm scans, 0.935–0.965 on the first executive orders measured here.
+
+**Tiebreaker: docTR (DBNet + CRNN).** Not the default — it agrees with tesseract less
+than Paddle does on every document measured (0.747–0.862), so making it the default
+would lower every score. Reach for it when the primary pair disagrees, and when
+orientation is in doubt: it straightens pages itself.
+
+Three traps, each found by measurement, each of which turns a gate into theatre:
+
+- **Verify every engine's orientation handling separately.** With Paddle's
+  `use_doc_orientation_classify=False` a rotated scan scored **0.050** against
+  tesseract; with it on, **0.929**. Same page, same engines. Forget it and the
+  corroboration check quietly becomes an orientation check, failing documents that
+  are fine.
+- **Never build the quality-gate dictionary from a corpus that already contains OCR
+  output.** The errors enter the vocabulary that judges them — `pernitted` becomes a
+  recognised word — and every OCR'd document then scores 100% dictionary-recognizable
+  however badly it was read. A gate that cannot fail is worse than no gate, because it
+  looks like evidence. This repo uses the `wamerican` system wordlist, which cannot be
+  contaminated this way; a corpus-derived vocabulary must exclude OCR-derived documents.
+- **Score the figures separately from the words.** The agreement metric counts
+  `[a-z]{2,}` and so excludes every digit. Measured on executive orders, word agreement
+  runs 0.935–0.965 while agreement on the *figures* runs 0.789–0.923 — digits are
+  exactly where two engines diverge, and the headline number hides it. Report both. A
+  low figure score means human review, not rejection.
+
 OCR-derived text may enter `## Full text` only when **every** condition holds:
 
 1. **The document has no text at all today.** OCR may *add* text where a stub has
@@ -108,6 +147,28 @@ OCR-derived text may enter `## Full text` only when **every** condition holds:
    a 26-order bake-off found the alternative engines worse than the incumbent
    wherever the incumbent produces output — 0 of 18 improved, mean dictionary
    ratio 87.6% → 75.3%.)
+
+   **Re-measured for Paddle, because the bake-off above never tested it.** That
+   bake-off covered rapidocr and easyocr, so adopting Paddle as the default
+   cross-check extended a rule to an engine its own evidence was silent about.
+   Head to head on 60 orders spread across two decades of scan quality
+   (`src/ocr_corroborate_eo.py --ab`), committed tesseract text versus Paddle's
+   reading of the same scans:
+
+   | | tesseract | Paddle |
+   |---|---|---|
+   | dictionary ratio (mean / median) | **0.969 / 0.973** | 0.963 / 0.968 |
+   | per-document better | **28** | 7 (25 tie) |
+   | glued letterhead tokens | **9** | 142 |
+   | words captured | **43,797** | 43,419 |
+
+   So the conclusion holds for Paddle too, and the mechanism is visible in the
+   glued-token column: Paddle returns per-line `rec_texts` with no layout model,
+   so wide-tracked letterhead and all-caps headings come back concatenated, where
+   tesseract's output passes through `pdftotext -layout` and keeps its spacing.
+   Replacing committed text with Paddle's reading would be a **regression**, not
+   an improvement. This is not a verdict on Paddle as an engine — it is a good
+   corroborator, which is precisely the job it holds here.
 2. **Two independent, purpose-built OCR engines agree ≥80%** on the word sequence
    (`difflib.SequenceMatcher` over lowercased word tokens).
 3. **The pre-existing quality gate passes unchanged** — ≥100 words,
@@ -135,6 +196,27 @@ Anything failing any bar stays a stub and stays in REVIEW.md, with the failed
 attempt recorded in `_meta/catalog/eo.yml`'s `text_layer` so a later run can
 distinguish "tried and failed" from "never tried". Implementation:
 `python3 src/ocr_fallback_eo.py --report` / `--apply`.
+
+#### Corroborating orders that were recovered before this rule existed
+
+479 orders were recovered by tesseract alone and say so in `conversion_notes`; the
+two-engine rule was written afterwards. Rule 1 forbids re-OCRing them to *replace*
+that text, but it does not forbid gathering the evidence that was never gathered.
+`python3 src/ocr_corroborate_eo.py --measure` reads each original scan with Paddle
+and scores it against the committed text; `--apply` records both engines and both
+agreement rates in `conversion_notes` and changes nothing else. In particular it does
+**not** recompute `source_sha256`, because that hashes the committed text and the
+committed text does not change.
+
+A document scoring below the bar is **reported, not edited and not withdrawn**. It
+keeps its original single-engine note — claiming corroboration it does not have would
+be worse than claiming none — and goes to a human.
+
+Because executive-order PDFs are `snapshot_policy: hash-only`, this begins with a
+re-fetch: `python3 src/fetch_eo_pdfs.py` restores them into `_meta/.cache/eo-pdfs/`,
+which is gitignored, throttled, and resumable. The committed `.txt` files are OCR
+*output* and cannot be fed back into an OCR engine, so there is no way to re-run the
+stack without the images.
 
 **This text is not verbatim in the sense the rest of the corpus is.** Everywhere
 else, `## Full text` means a human-authored source was transcribed and every line

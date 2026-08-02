@@ -16,7 +16,7 @@
 
 ## Executive Orders
 
-- [Index](executive-orders/_index.md): 526 executive orders, 2003–2026, from the Governor's listing of record; 514 carry verbatim full text, the rest are image-only scans (metadata + official source link). Orders are immutable — check the index or `_meta/catalog/eo.yml` for whether an order has in-repo text before quoting; most sources are image-only scans (metadata + official link only).
+- [Index](executive-orders/_index.md): 526 executive orders, 2003–2026, from the Governor's listing of record; 524 carry verbatim full text, the rest are image-only scans (metadata + official source link). Orders are immutable — check the index or `_meta/catalog/eo.yml` for whether an order has in-repo text before quoting; most sources are image-only scans (metadata + official link only).
 
 ## DAS Policies
 
