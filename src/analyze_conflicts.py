@@ -1259,8 +1259,43 @@ def read_run(path) -> dict:
     return d
 
 
+EVAL_LEDGER = REPO_ROOT / "_meta/catalog/conflict-eval-ledger.yml"
+
+
+def require_evaluated(model: str, prompt_version: str, override: bool) -> None:
+    """THE MERGE GATE: no run merges until its (model, prompt_version) pair has a
+    recorded score against pinned ground truth.
+
+    The Haiku recall collapse (batch 2 found ~1/3 of what batch 1 found on identical
+    chapters) was discovered by ACCIDENTAL re-runs, after the paid batch. This makes the
+    check structural: run `eval_conflicts.py --record` first, and the pair earns its way
+    into the catalog. Same policy as the toolkit's release gate — a gate you can bypass
+    with a stated flag, never by silence."""
+    ledger = (yaml.safe_load(EVAL_LEDGER.read_text()) or {}).get("evaluations", [])         if EVAL_LEDGER.is_file() else []
+    hit = [e for e in ledger
+           if e.get("model") == model and e.get("prompt_version") == prompt_version]
+    if hit:
+        print(f"[gate] {model} @ {prompt_version}: evaluated "
+              f"{hit[-1].get('date')} — recall {hit[-1].get('recall')} "
+              f"vs {hit[-1].get('ground_truth_run')}")
+        return
+    if override:
+        print(f"[gate] WARNING: {model} @ {prompt_version} has NO eval record; merging "
+              f"anyway because --unevaluated-ok was passed. Record one:\n"
+              f"  python3 src/eval_conflicts.py ... --record", file=sys.stderr)
+        return
+    raise SystemExit(
+        f"REFUSING TO MERGE: no eval record for model={model!r} "
+        f"prompt_version={prompt_version!r} in {EVAL_LEDGER.name}. The batch-2 lesson: "
+        f"an unevaluated model can silently find a third of what the catalog expects. "
+        f"Score it against pinned ground truth (src/eval_conflicts.py --record), or "
+        f"pass --unevaluated-ok to merge with a warning. Results are NOT lost — re-merge "
+        f"from the saved run file with --remerge after recording.")
+
+
 def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
-                       prompt_version: str | None = None, supersede: bool = False) -> dict:
+                       prompt_version: str | None = None, supersede: bool = False,
+                       unevaluated_ok: bool = False) -> dict:
     """Fold new candidates into the catalog, PRESERVING existing triage.
 
     Triage carries over by fingerprint (chapter + the set of cited document/subsection
@@ -1268,6 +1303,7 @@ def merge_into_catalog(results: dict, bundles: list, run_id: str, model: str,
     and the review queue never converges — which is the whole reason B2 came before this.
     A candidate that a human confirmed or dismissed keeps that verdict even when the new
     run words its summary differently."""
+    require_evaluated(model, prompt_version or PROMPT_VERSION, unevaluated_ok)
     cat = yaml.safe_load(CATALOG.read_text())
     by_id = {b["custom_id"]: b for b in bundles}
 
@@ -1456,7 +1492,8 @@ def selftest() -> int:
             bundles = [{"custom_id": "c1", "ors_chapter": "291", "section": "ors-291.047",
                         "partial": False, "rules": []}]
             cat = merge_into_catalog({"c1": results_for_291}, bundles, "gemma-run",
-                                     "gemma4:12b", "v2", supersede=supersede)
+                                     "gemma4:12b", "v2", supersede=supersede,
+                                     unevaluated_ok=True)
             return next(c for c in cat["chapters"] if c["ors_chapter"] == "291")
         finally:
             globals()["CATALOG"] = saved
@@ -1548,7 +1585,8 @@ def selftest() -> int:
             globals()["CATALOG"] = Path(path)
             bundles = [{"custom_id": "c1", "ors_chapter": "163", "section": "ors-163.465",
                         "partial": False, "rules": []}]
-            cat = merge_into_catalog({"c1": new_cands}, bundles, "haiku", "haiku-4-5", "v4")
+            cat = merge_into_catalog({"c1": new_cands}, bundles, "haiku", "haiku-4-5", "v4",
+                                     unevaluated_ok=True)
             return next(c for c in cat["chapters"] if c["ors_chapter"] == "163")
         finally:
             globals()["CATALOG"] = saved
@@ -1592,7 +1630,8 @@ def selftest() -> int:
             cat = merge_into_catalog(
                 {"c1": [new_c]},
                 [{"custom_id": "c1", "ors_chapter": "435", "section": "ors-435.254",
-                  "partial": False, "rules": []}], "haiku", "haiku-4-5", "v4")
+                  "partial": False, "rules": []}], "haiku", "haiku-4-5", "v4",
+                unevaluated_ok=True)
             ch = next(c for c in cat["chapters"] if c["ors_chapter"] == "435")
             if len(ch["candidates"]) != 2:
                 fails.append(f"{label}: two distinct findings merged into "
@@ -1631,7 +1670,8 @@ def selftest() -> int:
                 {"id": "oar-700-1", "citation": "(2)"},
                 {"id": "oar-700-2", "citation": "(3)"}]}]},
             [{"custom_id": "c1", "ors_chapter": "700", "section": "ors-700.1",
-              "partial": False, "rules": []}], "haiku", "haiku-4-5", "v4")
+              "partial": False, "rules": []}], "haiku", "haiku-4-5", "v4",
+            unevaluated_ok=True)
         ch = next(c for c in cat["chapters"] if c["ors_chapter"] == "700")
         if len(ch["candidates"]) != 3:
             fails.append(f"an ambiguous containment merged instead of declining: "
@@ -1754,7 +1794,8 @@ def selftest() -> int:
             cat = merge_into_catalog(
                 {"c1": new_cands},
                 [{"custom_id": "c1", "ors_chapter": "332", "section": "ors-332.158",
-                  "partial": False, "rules": []}], "haiku-v5", "haiku-4-5", "v5")
+                  "partial": False, "rules": []}], "haiku-v5", "haiku-4-5", "v5",
+                unevaluated_ok=True)
             return next(c for c in cat["chapters"] if c["ors_chapter"] == "332")
         finally:
             globals()["CATALOG"] = saved
@@ -1841,7 +1882,8 @@ def selftest() -> int:
         saved = CATALOG
         try:
             globals()["CATALOG"] = Path(path)
-            return merge_into_catalog(results, bundles, "gemma-run", "gemma4:12b", "v2")
+            return merge_into_catalog(results, bundles, "gemma-run", "gemma4:12b", "v2",
+                                      unevaluated_ok=True)
         finally:
             globals()["CATALOG"] = saved
             os.unlink(path)
@@ -1951,7 +1993,8 @@ def selftest() -> int:
                          "documents": [{"id": "oar-137-003-0035",
                                         "citation": "declared statutes_implemented"}]}]},
                 [{"custom_id": "c1", "ors_chapter": "183", "section": "ors-183.341",
-                  "partial": False, "rules": []}], "r", "m", "v6")
+                  "partial": False, "rules": []}], "r", "m", "v6",
+                unevaluated_ok=True)
     finally:
         globals()["CATALOG"] = saved
         os.unlink(path)
@@ -2189,6 +2232,10 @@ def main():
     ap.add_argument("--dedupe", action="store_true",
                     help="fold duplicates already in the catalog into their originals "
                          "(#58), print what changed and exit. Use --dry-run to preview.")
+    ap.add_argument("--unevaluated-ok", action="store_true",
+                    help="merge a (model, prompt_version) pair with no eval-ledger "
+                         "record, with a loud warning — the batch-2 recall collapse is "
+                         "why this is not the default")
     ap.add_argument("--remerge", metavar="PATH",
                     help="re-merge a saved run from _meta/.cache/conflict-runs/raw-*.json "
                          "instead of calling a model. The merge is the code most likely "
@@ -2201,7 +2248,8 @@ def main():
         run = read_run(args.remerge)
         cat = merge_into_catalog(run["results"], run["bundles"], run["run_id"],
                                  run["model"], run["prompt_version"],
-                                 supersede=args.supersede)
+                                 supersede=args.supersede,
+                                 unevaluated_ok=args.unevaluated_ok)
         n = sum(len(v) for v in run["results"].values())
         if args.dry_run:
             print(f"{n} candidate(s) from {len(run['results'])} bundle(s) of run "
@@ -2351,7 +2399,8 @@ def main():
     print(f"raw model output saved: {raw_path.relative_to(REPO_ROOT)}", file=sys.stderr)
 
     cat = merge_into_catalog(results, bundles, args.run_id, model, prompt_version,
-                             supersede=args.supersede)
+                             supersede=args.supersede,
+                             unevaluated_ok=args.unevaluated_ok)
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
     n = sum(len(v) for v in results.values())
     print(f"merged {n} candidate(s) from {len(results)} bundle(s) into "
