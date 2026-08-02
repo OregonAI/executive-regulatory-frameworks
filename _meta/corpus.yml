@@ -36,7 +36,13 @@ content_roots:
 plugins:
   citation_module: "src.citation_schemes"
   snapshot_slice_module: "src.snapshot_slice:slice"
-  semantic_search_module: "src.semantic_search"
+  # THE SHARED IMPLEMENTATION, not this repo's copy. Identical behaviour -- verified
+  # against this corpus's own artifact, the two return the same rankings for the same
+  # queries -- but the shared one carries RemoteEmbedder, which is what lets the query
+  # encoder live in one process instead of one per corpus. Seven copies of bge-m3 is
+  # ~14.8 GiB against a 14.1 GiB host; that is why six sibling corpora had no semantic
+  # search at all until now.
+  semantic_search_module: "corpus_toolkit.semantic.search"
   issuing_body_registry: "_meta/catalog/agencies.yml"
   issuing_body_registry_key: "organizations"
   issuing_body_profiles: "_meta/agency-profiles.yml"
