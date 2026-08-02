@@ -4,8 +4,8 @@
 An offline, run-once-after-ingest step (like link_graph.py): embed every content
 document, CHUNK-level (one vector per ~1600-char chunk, title-prefixed for context —
 see iter_chunks/chunk_text), and write an int8-quantized vector artifact under
-_meta/embeddings/ that the MCP query engine (src/semantic_search.py, wired into the
-corpus-toolkit MCP framework via plugins.semantic_search_module) loads for hybrid
+_meta/embeddings/ that the MCP query engine (corpus_toolkit.semantic.search, wired in
+via plugins.semantic_search_module) loads for hybrid
 BM25+vector search.
 
   python3 src/build_embeddings.py                 # build/refresh the index
@@ -221,7 +221,7 @@ class SentenceTransformerEmbedder:
     pads to the longest row in a batch rather than to the limit, so an unset ceiling
     costs nothing and guarantees no truncation. Memory is governed by batch_size alone.
     bge-m3 needs no query-instruction prefix (bge-large-en-v1.5 did), so queries and
-    passages are encoded identically — see src/semantic_search.py."""
+    passages are encoded identically — see corpus_toolkit.semantic.search."""
     name = "sentence-transformers"
 
     def __init__(self, model=DEFAULT_MODEL):
@@ -249,7 +249,7 @@ class SentenceTransformerEmbedder:
 
 def make_embedder(backend, dim, model=None):
     """Build the embedder for a given backend. `model` is honored so the SERVE side
-    (src/semantic_search.py) reconstructs the SAME model the committed index was built
+    (corpus_toolkit.semantic.search) reconstructs the SAME model the committed index was built
     with — using a different query model against those vectors would return silent
     garbage."""
     if backend == "hashing":
@@ -297,7 +297,7 @@ def build(backend="auto", limit=None, dim=384, model=None):
     document coverage, not a head-truncated per-doc summary) and write the vector
     artifact. Chunk-level was always the design (chunks.jsonl already stores
     heading/ordinal per row, and the serve side already dedupes to best-chunk-per-doc
-    — see semantic_search.py's _semantic_doc_order equivalent); doc-level embedding
+    — see corpus_toolkit.semantic.search's rank(); doc-level embedding
     was the CPU-appropriate shortcut. A GPU removes the reason for that shortcut."""
     import time
 
