@@ -23,7 +23,13 @@ OUT = REPO_ROOT / "viz/conflict-candidates.html"
 
 
 def build_data() -> dict:
-    return json.loads(DATA.read_text())
+    data = json.loads(DATA.read_text())
+    # The mechanical dead-citation scan no longer renders here — it has better homes
+    # (the oregon-stories dead-citations page, and resolve_citation itself answers
+    # renumbered/repealed sections since #102). Dropping the payload keeps this page's
+    # single job (model candidates + human triage) and ~40 KB of dead weight out.
+    data.pop("mechanical", None)
+    return data
 
 
 def build_html(data: dict) -> str:
@@ -158,23 +164,15 @@ TEMPLATE = r"""<!doctype html>
   <h1 id="h1"></h1>
   <div class="sub" id="sub"></div>
   <div class="banner">
-    <b>Every item below is a CANDIDATE for human/legal review — none is a confirmed conflict.</b>
-    Produced by an LLM reading each chapter's full statute + implementing-rule text in one pass. Every
-    candidate carries the exact document citations and quoted text it's based on, so you can verify
-    it yourself. This is a pilot over a subset of 245 shared-authority chapters, not an exhaustive scan.
+    <b>Every item below is a candidate for human review — none is a confirmed conflict.</b>
+    A model read each chapter's statute and its implementing rules in one pass; every candidate
+    carries the exact citations and quotes it rests on, so you can check it yourself.
     <span id="trisummary"></span>
     <span id="repealednote"></span>
-    <span id="qvsummary"></span> Each quote is machine-checked against the cited document's own full
-    text: <span class="qv qv-ok">verified in source</span> means those exact words were found there;
-    <span class="qv qv-abs">absence claim</span> means the finding is that the source <i>omits</i>
-    something, which cannot be matched; <span class="qv qv-no">not found in source</span> means the
-    document exists but those words were not located in it — treat those as unverified and read the
-    source before relying on them.
-  </div>
-  <div class="banner" id="mechpanel" style="display:none">
-    <h2>The mechanical scan</h2>
-    <p id="mechsummary"></p>
-    <div id="mechwhy"></div>
+    <span id="qvsummary"></span> Quote badges: <span class="qv qv-ok">verified in source</span> —
+    those exact words are in the cited document; <span class="qv qv-abs">absence claim</span> — the
+    finding is that the source omits something, so there is nothing to match;
+    <span class="qv qv-no">not found in source</span> — read the source before relying on it.
   </div>
   <div class="filterbar">
     <label for="agencyFilter">Filter by agency</label>
@@ -187,9 +185,9 @@ TEMPLATE = r"""<!doctype html>
 </div>
 <script>
 const DATA=/*DATA*/;
-document.getElementById('h1').textContent=`What does ${DATA.n_chapters} ORS chapters' worth of cross-referencing actually hold together?`;
-document.getElementById('sub').textContent=`${DATA.n_chapters} chapters piloted · ${DATA.n_candidates} candidates · ${DATA.n_clean_chapters} chapters with none found · ${DATA.n_docs_verified} citations verified against the corpus graph · ${DATA.n_quotes_grounded} of ${DATA.n_docs_verified} quotes verified in source · non-authoritative`;
-document.getElementById('qvsummary').textContent=`Of ${DATA.n_docs_verified} quoted passages, ${DATA.n_quotes_grounded} were located verbatim in the cited source, ${DATA.n_quotes_absence_claim} assert an omission, and ${DATA.n_quotes_ungrounded} could not be located.`;
+document.getElementById('h1').textContent=`Where the rules may not match the statutes: ${DATA.n_candidates} candidates awaiting review`;
+document.getElementById('sub').textContent=`A pilot over ${DATA.n_chapters} of 245 shared-authority ORS chapters — not a sweep · ${DATA.n_clean_chapters} chapters came back clean · ${DATA.n_quotes_grounded} of ${DATA.n_docs_verified} quotes verified verbatim in source · non-authoritative`;
+document.getElementById('qvsummary').textContent=`${DATA.n_quotes_absence_claim} quotes assert an omission and ${DATA.n_quotes_ungrounded} could not be located verbatim.`;
 { // Triage state, stated plainly: nothing here has been through human review yet.
   const t=DATA.triage_counts||{}, el=document.getElementById('trisummary');
   if(el) el.textContent=`Human review: ${t.confirmed||0} confirmed, ${t.dismissed||0} dismissed, ${t.unreviewed||0} still unreviewed of ${DATA.n_candidates}. Severity and confidence, where shown, are the analysing model's own assessment — not a human's, and not a legal one.`;
@@ -199,48 +197,10 @@ document.getElementById('qvsummary').textContent=`Of ${DATA.n_docs_verified} quo
     + `${n===1?'is':'are'} hidden — a repealed rule binds nobody, so those are not live `
     + `conflicts. Append ?repealed to the URL to show them.`;
 }
-document.getElementById('foot').innerHTML = esc(DATA.note) + '<br><br><b>Methodology:</b> ' + esc(DATA.methodology);
-
-// The mechanical pass. Its counts dwarf the model-derived candidates, so the page explains
-// the gap rather than leaving a reader to assume the corpus is broken.
-if(DATA.mechanical){
-  const m=DATA.mechanical, c=m.counts||{};
-  document.getElementById('mechpanel').style.display='';
-  document.getElementById('mechsummary').textContent =
-    ` Scanning all ${(m.scanned_rules||0).toLocaleString()} rules by code — no model — finds `
-    + `${(c.distinct_dead_targets||0).toLocaleString()} distinct dead citation targets, cited `
-    + `${(c.dead_citation_occurrences||0).toLocaleString()} times across `
-    + `${(c.documents_affected||0).toLocaleString()} documents, plus `
-    + `${(c.lapsed_but_current||0).toLocaleString()} rules still marked current past their own `
-    + `stated sunset and ${(c.malformed_citations||0).toLocaleString()} malformed citations.`;
-  const rows=(m.most_cited||[]).map(x=>
-    `<tr><td>${esc(x.cites)}</td><td style="text-align:right">${x.cited_by_rules.toLocaleString()}</td></tr>`).join('');
-  const causes=Object.entries(m.by_cause||{}).map(([k,v])=>
-    `<li><b>${esc(k)}</b> — ${v.toLocaleString()}${m.cause_meanings&&m.cause_meanings[k]?': '+esc(m.cause_meanings[k]):''}</li>`).join('');
-  document.getElementById('mechwhy').innerHTML =
-      '<p><b>Read the distinct count, not the occurrences.</b> They differ by roughly 2.7x, because '
-    + 'one repealed statute section is cited by many rules. The single worst case below is cited by '
-    + 'hundreds. Occurrences are the blast radius; distinct targets are the number of things to '
-    + 'actually resolve — and because they are so concentrated, fixing the top handful clears '
-    + 'thousands of documents.</p>'
-    + '<p><b>The magnitude is expected for a corpus this old.</b> Oregon has renumbered wholesale — '
-    + 'ORS 181 became 181A in 2015, ORS 279 split into 279A/B/C in 2003, and the 2015 '
-    + 'higher-education restructuring gutted ORS 351. Every rule written before those still cites '
-    + 'the old numbers. A corpus of 36,953 rules spanning decades showing <i>no</i> stale citations '
-    + 'would be the surprising result.</p>'
-    + '<p><b>Verified against the live source</b>, not just asserted: sampled flagged sections were '
-    + 'confirmed genuinely absent upstream, and a known-live control section was correctly not '
-    + 'flagged.</p>'
-    + '<p><b>Why code finds more than the models did.</b> These four types are deterministic — a '
-    + 'citation to a section that no longer exists is decidable without reading comprehension. The '
-    + 'frontier pilot reported 21 dead citations in total. Asking a model to eyeball them costs '
-    + 'money, can hallucinate, and finds fewer. The model\'s budget belongs on the other 71% of '
-    + 'candidate types: what a rule omits, adds without authority, or redefines.</p>'
-    + '<p><b>Causes:</b></p><ul>'+causes+'</ul>'
-    + '<p>'+esc(m.corpus_gap_note||'')+'</p>'
-    + '<p><b>Most-cited dead targets</b> — the triage order:</p>'
-    + '<table class="mini"><tr><th>cited section</th><th>rules citing it</th></tr>'+rows+'</table>';
-}
+document.getElementById('foot').innerHTML =
+  'Curated, AI-assisted, not legally reviewed; retrieved ' + esc(DATA.retrieved||'') + '. '
+  + '<details><summary>Full provenance note and methodology</summary><p>'
+  + esc(DATA.note) + '</p><p><b>Methodology:</b> ' + esc(DATA.methodology) + '</p></details>';
 
 const sel=document.getElementById('agencyFilter');
 for(const a of (DATA.all_agencies||[])){
