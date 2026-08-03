@@ -32,8 +32,10 @@ Requires `ocrmypdf` and `pdftotext` on PATH. For each doc:
      - source_sha256 recomputed as sha256 of the whitespace-normalized new .txt —
        exactly what repo_lib.hash_snapshot() will independently compute at
        verify_provenance time, so this MUST match or CI fails.
-     - last_verified bumped to today (a human is meant to review the OCR output before
-       this lands — see the printed reminder).
+     - last_verified cleared to "" — machine promotion is NOT verification (AGENTS.md
+       rule 6). The field stays empty until a human reviews the OCR output against the
+       source PDF and corpus-verify (corpus-toolkit >= v1.22.0) records that review;
+       stamping today here fabricated a review that never happened.
      - Disclaimer blockquote swapped from the "curated summary / image-only scan"
        wording to the standard verbatim wording.
      - The body between '## At a glance' and '## Provenance & change history' (i.e.
@@ -152,7 +154,9 @@ def promote(doc_id: str, dictionary, dry_run: bool) -> str:
         text = re.sub(r'^(content_mode: verbatim)$',
                       f'\\1\nconversion_notes: "{conv_notes}"', text, count=1, flags=re.M)
     text = text.replace(fm["source_sha256"], new_sha)
-    text = re.sub(r'^last_verified: .*$', f'last_verified: "{TODAY}"', text, count=1, flags=re.M)
+    # NOT stamped with TODAY: machine promotion is not verification (AGENTS.md rule 6).
+    # corpus-verify (corpus-toolkit >= v1.22.0) is the only writer of this field.
+    text = re.sub(r'^last_verified: .*$', 'last_verified: ""', text, count=1, flags=re.M)
 
     text = re.sub(
         r'> \*\*NON-AUTHORITATIVE.*?\(retrieved [^)]+\)\.\n',

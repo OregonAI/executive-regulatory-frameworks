@@ -59,9 +59,13 @@ can be added without schema changes.
 
 - Every content file has complete provenance frontmatter (`validate-frontmatter`).
 - Every `[VERBATIM]` quote is diffed against a pinned source snapshot (`verify-provenance`).
-- Upstream sources can be re-fetched on demand (`detect-upstream-changes`, `workflow_dispatch`
-  only — its cron was retired 2026-07-18); hash changes open an issue. This is operator-
-  initiated, not automatic: nothing re-checks the 1,874 declared sources unless someone asks.
+- Upstream sources are re-checked on schedule again (`scheduled.yml`, since 2026-08-02):
+  monthly for the bulletin-cadence groups, quarterly as a full sweep of every group; hash
+  changes open an issue. (The original cron was retired 2026-07-18 because one dead fetch
+  failed the whole run; corpus-toolkit v1.22.0's partial-failure tolerance and `--group`
+  filter made an unattended schedule viable.) `detect-upstream-changes` remains for manual
+  full sweeps, and per-rule honesty about what is NOT covered lives in each OAR rule's
+  `upstream_tracking` field.
 - All changes go through PR review with CODEOWNERS. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License

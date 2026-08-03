@@ -1,0 +1,126 @@
+name: scheduled
+
+# Scheduled upstream-change detection, REINSTATED 2026-08-02 (M4 stage 3).
+#
+# History: the original cron was retired 2026-07-18 because one dead fetch failed the
+# whole 813-source run (see the header of detect-upstream-changes.yml and
+# .claude/skills/check-updates/SKILL.md), leaving this — the platform's largest corpus —
+# as the only one with NO scheduled drift detection at all. corpus-toolkit v1.22.0
+# removed both blockers: `corpus-detect-changes` now tolerates isolated fetch failures
+# (systemic >20% still fails) and takes a repeatable `--group` filter, so the cron can
+# finally match each update group's real cadence instead of hammering all 18 groups on
+# one schedule.
+#
+# CADENCE MAPPING — each `_meta/sources/<group>.yml` declares `recheck:`; the toolkit
+# warns loudly that the key configures NOTHING (the real cadence is this file's cron),
+# so the mapping is written down here, where the cadence actually lives:
+#
+#   recheck: monthly   -> `monthly-drift` job (5th of every month, after the Oregon
+#                         Bulletin lands on the first business day):
+#                           department-of-administrative-services-policies   (133)
+#                           department-of-corrections-policies               (135)
+#                           department-of-environmental-quality-policies      (52)
+#                           department-of-human-services-policies             (17)
+#                           oam                                              (173)
+#                           oar                                              (484)
+#                           oregon-health-authority-irb-policies              (11)
+#                           oregon-health-authority-ispo-policies             (26)
+#                           oregon-health-authority-osh-policies             (152)
+#                           oregon-military-department-policies                (4)
+#                           oregon-watershed-enhancement-board-policies        (3)
+#                           oregon-youth-authority-policies                  (156)
+#                           public-utility-commission-policies                 (1)
+#                         `executive-orders` also declares monthly but is deliberately
+#                         ABSENT: its `sources:` list is empty by design (orders are
+#                         immutable; the real signal is ADDED rows on a SharePoint
+#                         listing, which corpus-detect-changes cannot query — that
+#                         check stays on-demand via the /check-updates skill).
+#   recheck: quarterly       -> covered by `full-sweep` (secretary-of-state-retention-
+#                               schedules, 76 sources).
+#   recheck: biennial        -> ors (545 chapter-HTML sources). The quarterly sweep
+#                               over-checks it relative to the biennial edition rhythm,
+#                               but — as oregon-audits' scheduled.yml argues for its
+#                               annual re-fetch — the value of sweeping a slow corpus
+#                               is catching URL rot (FETCH FAILED is the signal), and
+#                               quarterly is cheap enough for that.
+#   recheck: on_review_date  -> eis-standards (3), external (1). No cron can honor a
+#                               printed review date; the quarterly sweep is the
+#                               backstop, /check-updates the precise tool.
+#
+# Full-corpus frontmatter validation and provenance verification are NOT duplicated
+# here (the sibling-template weekly jobs): this corpus already runs both nightly, from
+# the `schedule:` triggers in validate-frontmatter.yml and verify-provenance.yml — a
+# stricter cadence than the siblings' weekly. Adding weekly copies here would only
+# double the load.
+on:
+  schedule:
+    - cron: "0 14 5 * *"          # monthly, 5th 14:00 UTC: bulletin-cadence groups
+    - cron: "0 15 12 1,4,7,10 *"  # quarterly: full sweep of every group
+  workflow_dispatch:
+
+jobs:
+  # The per-cadence monthly check. A PLAIN job rather than the reusable workflow: the
+  # reusable detect-upstream-changes.yml hardcodes its CLI invocation
+  # (`corpus-detect-changes --config _meta/corpus.yml --open-issues`) and exposes only
+  # `toolkit-ref` — there is no input that passes `--group` through. So this job
+  # mirrors the reusable workflow's steps and invokes the module directly with the
+  # monthly groups. If the reusable workflow ever grows an args input, fold this back.
+  monthly-drift:
+    if: github.event.schedule == '0 14 5 * *'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+      # Requires corpus-toolkit >= v1.22.0 (--group filter + partial-failure
+      # tolerance both landed in corpus-toolkit#47).
+      - uses: actions/checkout@v4
+        with:
+          repository: OregonAI/corpus-toolkit
+          ref: v1.22.0
+          path: .toolkit
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # content_hash normalizes PDFs via pdftotext, same as the reusable workflow.
+      - run: sudo apt-get update -q && sudo apt-get install -y poppler-utils
+      - run: pip install ./.toolkit
+      - name: Check monthly-cadence groups, open an issue per drifted source
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Default (non --strict) mode: isolated fetch failures are reported, not
+        # fatal — the failure mode that got the old cron retired.
+        run: >-
+          python3 -m corpus_toolkit.sources.changes
+          --config _meta/corpus.yml
+          --open-issues
+          --group department-of-administrative-services-policies
+          --group department-of-corrections-policies
+          --group department-of-environmental-quality-policies
+          --group department-of-human-services-policies
+          --group oam
+          --group oar
+          --group oregon-health-authority-irb-policies
+          --group oregon-health-authority-ispo-policies
+          --group oregon-health-authority-osh-policies
+          --group oregon-military-department-policies
+          --group oregon-watershed-enhancement-board-policies
+          --group oregon-youth-authority-policies
+          --group public-utility-commission-policies
+
+  # Quarterly (and on-demand) sweep of EVERY group — this one CAN use the reusable
+  # workflow, because a full sweep is exactly the hardcoded invocation. It also
+  # regenerates and commits STATUS.md, which is why it keeps contents: write.
+  full-sweep:
+    if: github.event.schedule == '0 15 12 1,4,7,10 *' || github.event_name == 'workflow_dispatch'
+    permissions:
+      contents: write
+      issues: write
+    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.22.0
+    with:
+      # Pin the CODE, not just the workflow file above — separate knobs.
+      # Requires >= v1.22.0: the partial-failure tolerance is what makes an
+      # unattended 1,972-source sweep survivable at all.
+      toolkit-ref: v1.22.0

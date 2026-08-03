@@ -85,6 +85,14 @@ mcp:
     up:
       cites: [related]
   server_name: "executive-regulatory-frameworks"
+  # Surfaced on every get_document response (allow-listed; missing keys are skipped).
+  # `upstream_tracking` is the OAR honesty field (#78): `manifest` = the rule has a
+  # per-source entry in _meta/sources/oar.yml and scheduled drift detection re-hashes
+  # it; `none` = mass-imported, NOTHING re-checks it against upstream — an agent citing
+  # such a rule should treat `retrieved` as the last known-good date, not as freshness.
+  # Maintained by src/mark_upstream_tracking.py (CI-gated with --check).
+  extra_document_fields:
+    - upstream_tracking
   # NOTE: there is no `transports:` key here. corpus-toolkit parses one into
   # CorpusConfig.mcp_transports and then reads it nowhere — the transport is chosen
   # solely by the --http flag on corpus-mcp-serve. Declaring it implied a control

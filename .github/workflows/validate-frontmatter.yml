@@ -34,6 +34,17 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install pyyaml
+      # corpus-toolkit for the STATUS.md gate below. THREE pins move together in this
+      # file (reusable-workflow `uses:`, its `toolkit-ref:`, and this checkout) — same
+      # trap oregon-audits documents in its generated job (corpus-toolkit#9).
+      # >= v1.22.0 required: earlier corpus-generate-status predates the M4 changes
+      # this corpus's STATUS.md was first generated with.
+      - uses: actions/checkout@v4
+        with:
+          repository: OregonAI/corpus-toolkit
+          ref: v1.22.0
+          path: .toolkit
+      - run: pip install ./.toolkit
 
       # --- parser regression guards (fast; every run) ---
       # Signature-block dates are the single most OCR-damaged field in the corpus, and
@@ -64,6 +75,16 @@ jobs:
       # --- generated-file staleness gates (moderate; every run) ---
       - name: Relationship graph must be current
         run: python3 src/link_graph.py --check
+      # The OAR honesty field (#78): every rule must say whether upstream drift
+      # detection actually covers it (`manifest`) or nothing does (`none`), and the
+      # values must match _meta/sources/oar.yml. ~2 s over all 36,953 rules.
+      - name: OAR upstream_tracking field must match the source manifest
+        run: python3 src/mark_upstream_tracking.py --check
+      # STATUS.md derives from repo content, so a PR is exactly what can invalidate
+      # it (oregon-audits' generated-job rationale). --check, not a raw diff: the
+      # "Generated <date>" line is volatile by design.
+      - name: STATUS.md must be current
+        run: corpus-generate-status --config _meta/corpus.yml --output STATUS.md --check
       # This one was missing, and its absence was not cosmetic: the disposition catalog fell
       # 3,608 sections behind when a statute ingest landed without regenerating it, and the
       # live MCP server spent that time answering "no such document exists" for statutes
