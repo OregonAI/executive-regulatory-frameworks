@@ -22,8 +22,8 @@ status: current
 supersedes: null
 content_mode: verbatim
 conversion_notes: "stripped repeated page line 'Level N, Published' x68; stripped repeated page line 'Level N, Published Distribution N | P a g e' x60; stripped repeated page line 'Level N, Published Distribution N|Page' x8"
-last_verified: "2026-07-17"
-verified_by: "@morficflux"
+last_verified: ""
+verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements:
