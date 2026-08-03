@@ -160,7 +160,9 @@ def promote(md_path: Path, oid: str, text: str, s: dict, url: str,
     raw = re.sub(r"^content_mode: summary$", "content_mode: verbatim", raw, count=1, flags=re.M)
     raw = re.sub(r'^content_exception: ".*"$', f'conversion_notes: "{notes}"', raw, count=1, flags=re.M)
     raw = re.sub(r'^source_sha256: ".*"$', f'source_sha256: "{digest}"', raw, count=1, flags=re.M)
-    raw = re.sub(r"^last_verified: .*$", f'last_verified: "{TODAY}"', raw, count=1, flags=re.M)
+    # NOT stamped with TODAY: machine recovery is not verification (AGENTS.md rule 6).
+    # corpus-verify (corpus-toolkit >= v1.22.0) is the only writer of this field.
+    raw = re.sub(r"^last_verified: .*$", 'last_verified: ""', raw, count=1, flags=re.M)
     if date:
         raw = re.sub(r"^effective_date: null$", f'effective_date: "{date}"', raw, count=1, flags=re.M)
 
