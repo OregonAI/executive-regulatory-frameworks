@@ -39,3 +39,10 @@ _meta/embeddings/*
 
 # Local-model evaluation output (reports, not corpus content).
 _meta/.cache/conflict-eval/
+
+# The generated-views CI job checks corpus-toolkit out to ./.toolkit for the STATUS.md
+# gate. Reproducing those steps locally leaves it in the working tree, and it is ~9
+# markdown files one `git add -A` away from being committed into a corpus that counts
+# markdown files for a living — which is exactly how it broke the external-citations
+# gate in the first place.
+.toolkit/

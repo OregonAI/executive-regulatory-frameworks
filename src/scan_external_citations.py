@@ -130,9 +130,27 @@ def scan() -> dict:
     # walk produced a catalog whose SAMPLES differed between this machine and CI while every
     # count matched exactly. --check reported STALE with identical numbers, which is a
     # confusing way to learn that a generated artifact is not reproducible.
+    # AND NOTHING UNDER A DOT-DIRECTORY. This is the same reproducibility concern as the
+    # sort above, found the same way: `--check` went STALE on CI while passing locally,
+    # 75,972 documents against 75,963. The nine were corpus-toolkit's own markdown, because
+    # the generated-views job now checks the toolkit out into `.toolkit/` for the STATUS.md
+    # gate and this walk starts at the repository root.
+    #
+    # A DENYLIST CANNOT ANTICIPATE THE NEXT VENDORED CHECKOUT, which is why `/_meta/` and
+    # `/.git/` alone were not enough. Excluding every dot-directory covers `.toolkit`,
+    # `.github` (three issue/PR templates) and `.claude` (a skill file) in one rule, and
+    # covers whatever gets vendored next without another CI failure to discover it.
+    #
+    # Note what this deliberately does NOT do: it keeps repo-root prose (README, REVIEW,
+    # DISCLAIMER, …) in scope, so the catalog's meaning is unchanged. Narrowing the walk to
+    # repo_lib.content_files() — measuring the CORPUS rather than the REPOSITORY — is the
+    # better long-term shape and would drop ~58 more files, but that redefines a generated
+    # artifact and belongs in its own change, not in a CI fix.
     for p in sorted(ROOT.rglob("*.md")):
         s = str(p)
         if "/_meta/" in s or "/.git/" in s:
+            continue
+        if any(part.startswith(".") for part in p.relative_to(ROOT).parts[:-1]):
             continue
         ndocs += 1
         text = p.read_text(errors="ignore")
