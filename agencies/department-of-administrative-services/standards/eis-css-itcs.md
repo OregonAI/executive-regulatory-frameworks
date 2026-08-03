@@ -22,8 +22,8 @@ status: current
 supersedes: "2019 Statewide Information and Cyber Security Standards v1.0"
 content_mode: verbatim
 conversion_notes: "family slice of the shared standard snapshot; stripped repeated page line 'Level N, Published PAGE N' x3; stripped repeated page line 'Level N, Published PAGE i' x1; stripped repeated page line 'Level N, Published PAGE ii' x1; stripped repeated page line 'Level N, Published PAGE iii' x1"
-last_verified: "2026-07-17"
-verified_by: "@morficflux"
+last_verified: ""
+verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements:

@@ -21,8 +21,8 @@ status: current
 supersedes: null
 content_mode: verbatim
 conversion_notes: "stripped page line 'Page N of N II-D-N.N Facility Nutrition Services Effect' x10"
-last_verified: "2026-07-21"
-verified_by: "@morficflux"
+last_verified: ""
+verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements: []
