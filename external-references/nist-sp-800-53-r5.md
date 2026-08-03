@@ -20,8 +20,8 @@ source_version: "Rev. 5, Update 1 (final)"
 status: current
 supersedes: null
 content_mode: summary
-last_verified: "2026-07-17"
-verified_by: "@morficflux"
+last_verified: ""
+verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements: []

@@ -27,8 +27,8 @@ status: draft
 supersedes: null
 content_mode: verbatim
 conversion_notes: "stripped repeated page line 'Policy No: N.N.N | Effective: MM/DD/YYYY Page N of N' x22; stripped repeated page line 'MM/DD/YYYY Pages N of N' x1"
-last_verified: "2026-07-18"
-verified_by: "@morficflux"
+last_verified: ""
+verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements:

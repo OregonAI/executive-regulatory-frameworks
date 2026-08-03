@@ -23,8 +23,8 @@ status: current
 supersedes: null
 content_mode: verbatim
 conversion_notes: "family slice of the shared standard snapshot; stripped repeated page line 'Level N, Published PAGE N' x5"
-last_verified: "2026-07-17"
-verified_by: "@morficflux"
+last_verified: ""
+verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements:
