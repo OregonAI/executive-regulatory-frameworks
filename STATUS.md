@@ -1,6 +1,6 @@
 # STATUS — Oregon Executive Regulatory Frameworks
 
-Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-08-03. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 
@@ -24,59 +24,59 @@ Generated 2026-08-02. Non-authoritative; see DISCLAIMER.md.
 
 ## Freshness (reverify every 90 days)
 
-76 of 75905 document(s) overdue for re-verification.
+75905 of 75905 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
-| schedule-chiropractic-examiners | schedule | never |
-| schedule-nursing-board | schedule | never |
-| schedule-optometry-board | schedule | never |
-| schedule-parole-post-prison-supervision | schedule | never |
-| schedule-pharmacy-board | schedule | never |
-| schedule-labor-industries | schedule | never |
-| schedule-blind | schedule | never |
-| schedule-das | schedule | never |
-| schedule-agriculture | schedule | never |
-| schedule-consumer-business | schedule | never |
-| schedule-corrections | schedule | never |
-| schedule-energy | schedule | never |
-| schedule-deq | schedule | never |
-| schedule-fish-wildlife | schedule | never |
-| schedule-forestry | schedule | never |
-| schedule-geology-minerals | schedule | never |
-| schedule-human-services-aging-disabilities | schedule | never |
-| schedule-human-services-child-welfare | schedule | never |
-| schedule-human-services-health-bcu | schedule | never |
-| schedule-human-services-training-investigation-safety | schedule | never |
-| schedule-justice | schedule | never |
-| schedule-public-safety | schedule | never |
-| schedule-revenue | schedule | never |
-| schedule-state-lands | schedule | never |
-| schedule-police | schedule | never |
-| schedule-public-transit | schedule | never |
-| schedule-transportation-central-services | schedule | never |
-| schedule-transportation-communications | schedule | never |
-| schedule-transportation-development | schedule | never |
-| schedule-transportation-director | schedule | never |
-| schedule-transportation-motor-carrier | schedule | never |
-| schedule-transportation-rail | schedule | never |
-| schedule-transportation-safety | schedule | never |
-| schedule-driver-motor-vehicle | schedule | never |
-| schedule-highway-division | schedule | never |
-| schedule-veterans-affairs | schedule | never |
-| schedule-employment | schedule | never |
-| schedule-employment-board | schedule | never |
-| schedule-college-workforce | schedule | never |
-| schedule-land-conservation | schedule | never |
-| schedule-landscape | schedule | never |
-| schedule-long-term-care | schedule | never |
-| schedule-governor-office | schedule | never |
-| schedule-business-development | schedule | never |
-| schedule-criminal-justice | schedule | never |
-| schedule-aviation | schedule | never |
-| schedule-education | schedule | never |
-| schedule-film-video | schedule | never |
-| schedule-government-ethics | schedule | never |
-| schedule-health-equity-inclusion | schedule | never |
-| … | *26 more* | |
+| ors-1.001 | statute | never |
+| ors-1.002 | statute | never |
+| ors-1.003 | statute | never |
+| ors-1.004 | statute | never |
+| ors-1.005 | statute | never |
+| ors-1.006 | statute | never |
+| ors-1.007 | statute | never |
+| ors-1.008 | statute | never |
+| ors-1.009 | statute | never |
+| ors-1.010 | statute | never |
+| ors-1.011 | statute | never |
+| ors-1.012 | statute | never |
+| ors-1.020 | statute | never |
+| ors-1.025 | statute | never |
+| ors-1.030 | statute | never |
+| ors-1.040 | statute | never |
+| ors-1.050 | statute | never |
+| ors-1.060 | statute | never |
+| ors-1.070 | statute | never |
+| ors-1.080 | statute | never |
+| ors-1.085 | statute | never |
+| ors-1.090 | statute | never |
+| ors-1.110 | statute | never |
+| ors-1.120 | statute | never |
+| ors-1.130 | statute | never |
+| ors-1.140 | statute | never |
+| ors-1.150 | statute | never |
+| ors-1.160 | statute | never |
+| ors-1.171 | statute | never |
+| ors-1.175 | statute | never |
+| ors-1.176 | statute | never |
+| ors-1.177 | statute | never |
+| ors-1.178 | statute | never |
+| ors-1.179 | statute | never |
+| ors-1.180 | statute | never |
+| ors-1.181 | statute | never |
+| ors-1.183 | statute | never |
+| ors-1.184 | statute | never |
+| ors-1.185 | statute | never |
+| ors-1.187 | statute | never |
+| ors-1.188 | statute | never |
+| ors-1.189 | statute | never |
+| ors-1.194 | statute | never |
+| ors-1.195 | statute | never |
+| ors-1.196 | statute | never |
+| ors-1.197 | statute | never |
+| ors-1.198 | statute | never |
+| ors-1.199 | statute | never |
+| ors-1.200 | statute | never |
+| ors-1.202 | statute | never |
+| … | *75855 more* | |
 
