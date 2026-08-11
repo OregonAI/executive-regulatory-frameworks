@@ -303,6 +303,24 @@ If you genuinely cannot open one — no network, no permission — say so explic
 final message to the user and hand them the text to file. Silently dropping it is the one
 outcome that is never acceptable.
 
+## Agent skills
+
+### Issue tracker
+
+GitHub Issues on `OregonAI/executive-regulatory-frameworks`, via the `gh` CLI. See
+`docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+The five canonical roles, each label string equal to its name. See
+`docs/agents/triage-labels.md`. These track issue *state* and are a separate axis
+from the topic labels above — every issue still gets a topic label on creation.
+
+### Domain docs
+
+Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
+`docs/agents/domain.md`.
+
 ## Workflows
 
 - **Ingesting a new document**: follow `_meta/skills/intake.md` (spec-driven, two human
