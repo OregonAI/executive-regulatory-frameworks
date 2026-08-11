@@ -318,12 +318,12 @@ sources:
   notes: Customer Credit Card Payment (DOC 30.1.5)
 - id: doc-30-1-6
   url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-1-6-aic-revenue-generating-activities-and-programs.pdf
-  sha256: bec537e84d6be5f2b8a1cbe82f57e0fc31d5e3c75d4144e4b721bddaf84493bc
+  sha256: fa96201568640806a511c8e1e89c23f31a9fd83544a7d17046c75b2546aabe5b
   last_checked: '2026-07-20'
   notes: 30-1-6-aic-revenue-generating-activities-and-programs.pdf (DOC 30.1.6)
 - id: doc-30-1-7
   url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-1-7-donationspdf.pdf
-  sha256: cd3ea96c5a6b91bdcb27fd023eeed3161d37eafec3a9d86f53f5f65bbc91ae9f
+  sha256: 736ba102e65d38c313712171e9730e4af3f54f30b273b424b571f58b199f8bd8
   last_checked: '2026-07-20'
   notes: Donations (DOC 30.1.7)
 - id: doc-30-1-9
