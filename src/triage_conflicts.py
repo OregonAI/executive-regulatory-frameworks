@@ -33,6 +33,8 @@ from pathlib import Path
 
 import yaml
 
+from build_conflict_candidates_data import candidate_fingerprint
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CATALOG = REPO_ROOT / "_meta/catalog/conflict-candidates.yml"
 DERIVED = REPO_ROOT / "_meta/conflict_candidates.json"
@@ -190,11 +192,25 @@ def main() -> int:
     queue = [(ch, c) for ch, c in walk(cat)
              if (c.get("triage") or {}).get("status", "unreviewed") == "unreviewed"]
     absence, ungrounded = weak_quote_fingerprints()
-    def fp(cand):
-        return cand.get("fingerprint")
+    def fp(ch, cand):
+        """DERIVE the fingerprint; never read it off the catalog candidate.
+
+        `fingerprint` is written by build_conflict_candidates_data into the DERIVED
+        json, which is where weak_quote_fingerprints() reads it from. It is not a field
+        of the catalog YAML this tool loads — 0 of 1,398 candidates carry one — so the
+        previous `cand.get("fingerprint")` returned None for every candidate, `None in
+        absence` was False for every candidate, and this whole ordering tier sorted
+        nothing while still looking sorted (the audit-overlap and severity tiers work,
+        so the queue came out plausibly ordered either way).
+
+        Deriving it here is what every other consumer already does — merge_into_catalog
+        computes it on the fly the same way to carry triage across runs — and it is what
+        makes the two sides of the `in` comparison come from the same function.
+        """
+        return candidate_fingerprint(ch["ors_chapter"], cand)
     queue.sort(key=lambda t: (
         -int(any(d["id"] in audited for d in t[1].get("documents", []))),
-        -int(fp(t[1]) in absence or fp(t[1]) in ungrounded),
+        -int(fp(*t) in absence or fp(*t) in ungrounded),
         -_RANK.get(t[1].get("severity")), -_RANK.get(t[1].get("confidence"))))
     if args.limit:
         queue = queue[:args.limit]
