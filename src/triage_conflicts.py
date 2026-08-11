@@ -164,7 +164,12 @@ def main() -> int:
     if args.export_eval:
         cat = load()
         out = REPO_ROOT / "_meta/eval/triage-verdicts.yml"
-        verdicts = [{"fingerprint": c.get("fingerprint"),
+        # DERIVED, not read — same reason as fp() below. `fingerprint` is a field of the
+        # derived json, never of this catalog, so c.get("fingerprint") is None for every
+        # candidate. Exporting that would write `fingerprint: null` on every verdict and
+        # silently strip the eval set of the one key that matches a verdict back to the
+        # candidate it judges — in the file whose whole purpose is to be matched against.
+        verdicts = [{"fingerprint": candidate_fingerprint(ch["ors_chapter"], c),
                      "chapter": ch["ors_chapter"], "summary": c["summary"],
                      **{k: v for k, v in (c.get("triage") or {}).items()}}
                     for ch, c in walk(cat)
