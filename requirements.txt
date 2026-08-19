@@ -1,5 +1,5 @@
 pyyaml
-corpus-toolkit[mcp,semantic] @ git+https://github.com/OregonAI/corpus-toolkit@v1.26.0
+corpus-toolkit[mcp,semantic] @ git+https://github.com/OregonAI/corpus-toolkit@v1.26.1
 
 # SEMANTIC SEARCH AT SERVE TIME. src/semantic_search.py needs a query encoder, because a
 # query must be embedded by the SAME model the artifact was built with (BAAI/bge-m3, dim
