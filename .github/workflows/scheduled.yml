@@ -79,7 +79,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: OregonAI/corpus-toolkit
-          ref: v1.27.0
+          ref: v1.28.0
           path: .toolkit
       - uses: actions/setup-python@v5
         with:
@@ -118,9 +118,9 @@ jobs:
     permissions:
       contents: write
       issues: write
-    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.27.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.28.0
     with:
       # Pin the CODE, not just the workflow file above — separate knobs.
       # Requires >= v1.22.0: the partial-failure tolerance is what makes an
       # unattended 1,972-source sweep survivable at all.
-      toolkit-ref: v1.27.0
+      toolkit-ref: v1.28.0
