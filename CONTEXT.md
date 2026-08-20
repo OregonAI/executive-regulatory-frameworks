@@ -32,6 +32,62 @@ The relationship a transmittal bears to a policy. A transmittal *announces* a ch
 never supersedes, amends, or replaces the policy it refers to.
 _Avoid_: Supersedes, updates, amends
 
+## Agencies
+
+**Issuing body**:
+An Oregon state body this corpus can attribute a document to. It is the general term; a
+*registry entry* is the record of one.
+_Avoid_: Organization, entity, department (a Department is one kind of body, not the class)
+
+**Agency registry**:
+The catalog of issuing bodies, and the identity every other OregonAI corpus crosswalks
+into. A body is in it because it EXISTS, not because it issues rules. Being absent means no
+admitting evidence was found, never that none was sought.
+_Avoid_: Agency list, catalog, org chart
+
+**Admitting evidence**:
+Evidence that puts a body in the registry: an OAR chapter, or an enabling authority. Either
+alone is enough.
+
+**Corroborating evidence**:
+Evidence that attaches to a body already admitted but never admits one — a DAS agency
+number is the case that forced the distinction. That a body is numbered for financial
+administration says it exists; it does not say it is this registry's subject. Corroborating
+evidence that matches nothing is REPORTED, never discarded: an unmatched number is a
+question for a human, not noise.
+
+**Registry slug**:
+A body's stable identifier, and the only thing another corpus should join on. Names change
+and are spelled differently by every source; the slug is what survives that.
+_Avoid_: Agency id, key, code — a *code* here means a DAS agency number
+
+**Statutory name**:
+A body's name as its enabling authority states it, and the canonical `name` in the registry.
+Distinguished from the name any particular publisher uses for it.
+_Avoid_: Official name, legal name, proper name
+
+**OAR name**:
+The name the administrative rules index gives a body. It differs from the statutory name
+often enough to matter, and it is the string OAR-derived joins must match.
+_Avoid_: Rules name, chapter name
+
+**Enabling authority**:
+What created the body — a statute, or the Oregon Constitution. Not every body has a
+statutory one: the Secretary of State and the State Treasurer are constitutional offices,
+and a body created by executive order has neither.
+_Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a statute
+
+**DAS agency number**:
+The number DAS assigns a body in the Oregon Accounting Manual (OAM 70.10.00). It identifies
+the body in the state's financial administration and is not evidence that the body spends
+money: semi-independent bodies carry a number and are explicitly outside the state's
+accounting system.
+_Avoid_: Budget code, agency code, spending code — those name a consumer, not the identifier
+
+**Semi-independent**:
+A body that DAS numbers but does not include in the state's accounting system. A fact about
+financial administration, not about the body's legal status or its rulemaking authority.
+
 ## Provenance
 
 **Verbatim**:
