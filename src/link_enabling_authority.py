@@ -1,0 +1,240 @@
+#!/usr/bin/env python3
+"""Attach enabling authorities to the agency registry.
+
+  python3 src/link_enabling_authority.py --propose   # write a review sheet of candidates
+  python3 src/link_enabling_authority.py --check     # verify the reviewed table against ORS
+
+WHY THIS IS NOT A GENERATOR. CONTEXT.md defines an *enabling authority* as what created a
+body, and ADR 0003 makes it ADMITTING evidence — a statute alone is enough to put a body in
+the registry. So a wrong citation here is not a bad label, it is a false statement about
+Oregon law published under provenance, and possibly a body admitted on evidence that does
+not exist.
+
+The first attempt searched the mirrored ORS for creation language near an agency's name. It
+matched 78 of 189 bodies and **37% of those establish a Treasury ACCOUNT rather than the
+body**:
+
+    Board of Chiropractic Examiners  -> ORS 684.171  "...Account which is hereby established"
+    Board of Licensed Social Workers -> ORS 675.597  "...Account is established in the State Treasury"
+    Board of Medical Imaging         -> ORS 688.585  "...Account. (1) The ... Account is established"
+
+Every one of those looks right at a glance and cites the wrong section. This is
+`link_budget_codes.py`'s lesson on a corpus that mirrors statute: a matcher that is
+confidently wrong produces claims a reviewer would have caught and a generator ships.
+
+WHAT ACTUALLY WORKS IS THE CATCHLINE. An ORS section's `title` is its catchline, and the
+segment before the first semicolon is its SUBJECT:
+
+    674.305  Appraiser Certification and Licensure Board; appointment; term; compensation
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Anchoring on that instead of on body proximity finds 56 bodies with ZERO account
+false positives, and fixes all three cases above (684.130, 675.590, 688.545 — the boards,
+not their accounts). It is a better signal because a catchline states what the section is
+ABOUT, where proximity only states what words are nearby.
+
+It is still not a verdict. Tier 2 widens to catchline subjects that merely contain the
+agency's name, and that tier contains both `Department of State Police established`
+(ORS 181A.015, correct) and `When support payment to be made to Department...` (ORS 25.020,
+a child-support section that is not the Department of Justice's enabling authority).
+
+SO THIS PROPOSES AND CHECKS; IT NEVER WRITES THE REGISTRY. `--propose` emits a review sheet
+quoting the sentence that matched, so review is reading rather than research. A human moves
+rows into MAPPED or UNMAPPED below. `--check` then verifies the committed table against the
+mirrored corpus, in CI, from committed data alone.
+
+UNMAPPED IS EXPLICIT, never implied by absence — "we looked and there is no counterpart" and
+"nobody has looked yet" must not be the same state (CONTEXT.md; link_budget_codes.py).
+118 of 189 bodies have no candidate at all, and several never will: the Secretary of State
+and the State Treasurer are CONSTITUTIONAL offices, which is why the field is an authority
+rather than a statute.
+"""
+from __future__ import annotations
+
+import argparse
+import re
+import sys
+
+import yaml
+
+from repo_lib import REPO_ROOT
+
+CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
+STATUTES = REPO_ROOT / "statutes"
+REVIEW_SHEET = REPO_ROOT / "_meta/catalog/enabling-authority-review.yml"
+
+# ---------------------------------------------------------------- reviewed registry data
+#
+# slug -> authority. EVERY ROW HERE HAS BEEN READ BY A HUMAN against the cited text. Add a
+# row only after reading the section; a row that was pattern-matched and not read belongs in
+# the review sheet, not here.
+MAPPED: dict[str, str] = {
+    # e.g. "appraiser-certification-and-licensure-board": "ORS 674.305",
+}
+
+# slug -> why this body has no enabling authority recorded. A DECISION with a stated reason,
+# never a blank.
+UNMAPPED: dict[str, str] = {
+    # e.g. "secretary-of-state": "Constitutional office — Or. Const. Art. VI, sec. 1. Not
+    #                             created by statute, so no ORS section can be cited.",
+}
+
+CREATE = re.compile(
+    r"\b(?:there (?:is|are) (?:hereby )?(?:created|established)"
+    r"|(?:is|are) (?:hereby )?(?:created|established))\b", re.I)
+
+# A catchline naming one of these is describing money, not a body. Measured: without this,
+# 37% of proximity matches were Treasury accounts.
+NOT_A_BODY = re.compile(r"\b(account|fund|subaccount|trust)\b", re.I)
+
+
+def _norm(s: str) -> str:
+    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9 ]+", " ", (s or "").lower())).strip()
+
+
+def _variants(name: str) -> set[str]:
+    """Spellings of one body. ORS writes `State Board of X` where the rules index writes
+    `Board of X`, and `Oregon` floats to either end."""
+    b = _norm(name)
+    return {v for v in (b, _norm("state " + name), _norm("oregon " + name),
+                        b.replace("state ", ""), b.replace("oregon ", "")) if v}
+
+
+def _statute_sections() -> list[tuple[str, str, str, str]]:
+    """(citation, catchline, catchline subject, body) for every ORS section whose text
+    contains creation language. Read from the MIRRORED corpus, never fetched."""
+    out = []
+    for path in sorted(STATUTES.rglob("ors-*.md")):
+        text = path.read_text(errors="replace")
+        fm = text.split("---", 2)[1] if text.startswith("---") else ""
+        title = (re.search(r'(?m)^title:\s*"?([^"\n]+)', fm) or [None, ""])[1].strip()
+        cite = (re.search(r'(?m)^citation:\s*"?([^"\n]+)', fm) or [None, path.stem])[1].strip()
+        body = " ".join(text.split("---", 2)[-1].split())
+        if CREATE.search(body):
+            out.append((cite, title, _norm(title.split(";")[0]), body))
+    if not out:
+        sys.exit("no ORS sections with creation language were found — refusing to report "
+                 "zero candidates as a finished job. Is `statutes/` populated?")
+    return out
+
+
+def _quote(body: str) -> str:
+    """The sentence that matched, so a reviewer reads rather than researches.
+
+    NOT CITABLE TEXT. The body it slices has had its whitespace collapsed, so this is an
+    excerpt for review and not the verbatim ORS text this repo's content policy governs.
+    Read the cited section itself before accepting a row.
+    """
+    m = CREATE.search(body)
+    if not m:
+        return ""
+    start = body.rfind(".", 0, max(0, m.start() - 1)) + 1
+    end = body.find(".", m.end())
+    return body[start:end + 1 if end > 0 else len(body)].strip()
+
+
+def propose() -> int:
+    orgs = yaml.safe_load(CATALOG.read_text())["organizations"]
+    sections = _statute_sections()
+    rows, unmatched = [], []
+
+    for org in orgs:
+        slug = org["slug"]
+        if slug in MAPPED or slug in UNMAPPED:
+            continue
+        names = _variants(org["name"])
+        hit = None
+        for cite, title, subject, body in sections:          # tier 1: subject IS the body
+            if subject in names:
+                hit = (1, cite, title, _quote(body))
+                break
+        if hit is None:                                      # tier 2: subject contains it
+            for cite, title, subject, body in sections:
+                if NOT_A_BODY.search(title) or len(subject) <= 12:
+                    continue
+                if subject in names or any(v in subject for v in names):
+                    hit = (2, cite, title, _quote(body))
+                    break
+        if hit is None:
+            unmatched.append({"slug": slug, "name": org["name"]})
+        else:
+            tier, cite, title, quote = hit
+            rows.append({"slug": slug, "name": org["name"], "tier": tier,
+                         "candidate": cite, "catchline": title, "text": quote,
+                         "verdict": ""})
+
+    REVIEW_SHEET.write_text(yaml.safe_dump({
+        "note": ("PROPOSED, NOT DECIDED. Each row is a candidate an automated match "
+                 "produced; none has been read. Set `verdict` to `accept`, or to a "
+                 "different ORS citation, or to a reason it cannot be mapped — then move "
+                 "the row into MAPPED or UNMAPPED in src/link_enabling_authority.py. "
+                 "Tier 1 means the section's catchline subject IS this body; tier 2 means "
+                 "the catchline merely contains its name, and tier 2 is where the wrong "
+                 "answers live. `text` is the sentence that matched, quoted so review is "
+                 "reading rather than research — an EXCERPT with whitespace collapsed, "
+                 "NOT citable verbatim text. Read the cited section itself before "
+                 "accepting a row."),
+        "generated_from": "the mirrored ORS in statutes/, never fetched",
+        "candidates": rows,
+        "no_candidate": unmatched,
+    }, sort_keys=False, allow_unicode=True, width=100))
+
+    t1 = sum(1 for r in rows if r["tier"] == 1)
+    print(f"wrote {REVIEW_SHEET.relative_to(REPO_ROOT)}")
+    print(f"  candidates to review : {len(rows)}  (tier 1: {t1}, tier 2: {len(rows) - t1})")
+    print(f"  no candidate found   : {len(unmatched)}")
+    print(f"  already decided      : {len(MAPPED)} mapped, {len(UNMAPPED)} unmapped")
+    print("\nNothing was written to the registry. Read the rows, then move them into "
+          "MAPPED/UNMAPPED in this script.")
+    return 0
+
+
+def check() -> int:
+    """Verify the reviewed table against the mirrored corpus, from committed data alone."""
+    orgs = {o["slug"]: o for o in yaml.safe_load(CATALOG.read_text())["organizations"]}
+    problems = []
+
+    for slug in sorted(set(MAPPED) | set(UNMAPPED)):
+        if slug not in orgs:
+            problems.append(f"{slug}: named here but not in the registry")
+    both = sorted(set(MAPPED) & set(UNMAPPED))
+    for slug in both:
+        problems.append(f"{slug}: is in BOTH mapped and unmapped — it cannot be both")
+
+    by_cite = {c: (t, b) for c, t, _s, b in _statute_sections()}
+    for slug, authority in sorted(MAPPED.items()):
+        if not authority.startswith("ORS "):
+            continue                       # constitutional and EO authorities are not in ORS
+        if authority not in by_cite:
+            problems.append(
+                f"{slug}: cites {authority}, which is not a mirrored ORS section containing "
+                f"creation language. Either the citation is wrong or upstream changed — "
+                f"both are worth knowing.")
+
+    if problems:
+        print("enabling-authority table does not match the corpus:", file=sys.stderr)
+        for p in problems:
+            print(f"  {p}", file=sys.stderr)
+        return 1
+
+    decided = len(MAPPED) + len(UNMAPPED)
+    print(f"enabling-authority table is consistent with the corpus: "
+          f"{len(MAPPED)} mapped, {len(UNMAPPED)} unmapped, "
+          f"{len(orgs) - decided} of {len(orgs)} bodies not yet reviewed.")
+    return 0
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__,
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
+    g = ap.add_mutually_exclusive_group(required=True)
+    g.add_argument("--propose", action="store_true",
+                   help="write a review sheet of candidates; writes nothing to the registry")
+    g.add_argument("--check", action="store_true",
+                   help="verify the reviewed table against the mirrored corpus")
+    args = ap.parse_args()
+    return propose() if args.propose else check()
+
+
+if __name__ == "__main__":
+    sys.exit(main())
