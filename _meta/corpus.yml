@@ -46,6 +46,41 @@ plugins:
   issuing_body_registry: "_meta/catalog/agencies.yml"
   issuing_body_registry_key: "organizations"
   issuing_body_profiles: "_meta/agency-profiles.yml"
+
+  # WHICH FRONTMATTER KEY CARRIES THE REGISTRY SLUG (corpus-toolkit>=1.23.0).
+  #
+  # Without this, attribution is PATH-DERIVED ONLY: a slug is inferred from
+  # `agencies/<slug>/...`, and a rule filed under its OAR chapter reaches no agency folder.
+  # Measured on this corpus: 960 of 75,905 documents attributed, 1.3%. Counts built on that
+  # alone under-report by 97% for the largest agencies (corpus-toolkit#71) -- and looked
+  # exactly like counts built on a complete corpus.
+  #
+  # `agency:` is present on 75,905 of 75,905 documents and is already the corpus's own
+  # identity key: validate_frontmatter.py requires it to be 'statewide', 'external', or a
+  # slug from _meta/catalog/agencies.yml, so it is CHECKED rather than merely populated.
+  issuing_body_slug_field: "agency"
+
+  # THE TWO VALUES THAT MEAN "NO SINGLE AGENCY", declared so they read as RESOLVED rather
+  # than as gaps (corpus-toolkit#94).
+  #
+  # They are not invented here -- they are the vocabulary validate_frontmatter.py has always
+  # enforced, and 37,992 documents carry one. Undeclared, every one of them lands in
+  # `no_registry_entry`, which the toolkit reports as "names a body the registry does not
+  # contain" -- indistinguishable from a typo -- and holds this corpus's attribution
+  # coverage at a FLOOR permanently, on 50% of its documents.
+  #
+  #   statewide (37,991)  a rule, statute or policy that binds every agency and is owned by
+  #                       none: ORS, OAR and DAS statewide policy
+  #   external  (1)       issued outside this registry's scope entirely -- NIST SP 800-53,
+  #                       referenced by Oregon policy but not an Oregon body
+  #
+  # A sentinel WINS OUTRIGHT over the path-derived slug and does not fall through: a
+  # `statewide` document filed under agencies/<slug>/ is attributed to no body, which is the
+  # corpus contradicting a directory on purpose. Neither value may name a registry entry;
+  # the toolkit refuses that collision at load.
+  issuing_body_slug_sentinels:
+    - statewide
+    - external
   extra_schema_checks:
     - path: "_meta/agency-profiles.yml"
       schema: "_meta/schema/agency-profile.schema.json"
