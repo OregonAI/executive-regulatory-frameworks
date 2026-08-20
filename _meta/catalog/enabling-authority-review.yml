@@ -116,6 +116,27 @@ candidates:
   text: There is created a department of the government of this state to be known as the State Department
     of Agriculture.
   verdict: ''
+- slug: department-of-agriculture-oregon-beef-council
+  name: Department of Agriculture, Oregon Beef Council
+  tier: 1
+  candidate: ORS 577.210
+  catchline: Oregon Beef Council; members; appointment
+  text: '(2) There hereby is created the Oregon Beef Council composed of: (a) Two dairy producers.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-invasive-species-council
+  name: Department of Agriculture, Oregon Invasive Species Council
+  tier: 1
+  candidate: ORS 570.770
+  catchline: Invasive Species Council; membership; terms
+  text: (1) The Invasive Species Council is established within the State Department of Agriculture.
+  verdict: ''
+- slug: department-of-agriculture-oregon-wheat-commission
+  name: Department of Agriculture, Oregon Wheat Commission
+  tier: 1
+  candidate: ORS 578.030
+  catchline: Oregon Wheat Commission; members; appointment process; rules
+  text: (1) There hereby is created the Oregon Wheat Commission.
+  verdict: ''
 - slug: department-of-consumer-and-business-services
   name: Department of Consumer and Business Services
   tier: 1
@@ -123,6 +144,14 @@ candidates:
   catchline: Department of Consumer and Business Services; director; qualifications; confirmation; Insurance
     Commissioner; bond or letter of credit; seal
   text: (1) The Department of Consumer and Business Services is created.
+  verdict: ''
+- slug: department-of-consumer-and-business-services-workers-compensation-board
+  name: Department of Consumer and Business Services, Workers' Compensation Board
+  tier: 1
+  candidate: ORS 656.712
+  catchline: Workers’ Compensation Board; members; qualifications; chairperson; confirmation; term; vacancies
+  text: (1) The Workers’ Compensation Board, composed of five members appointed by the Governor, is created
+    within the Department of Consumer and Business Services.
   verdict: ''
 - slug: department-of-corrections
   name: Department of Corrections
@@ -137,6 +166,15 @@ candidates:
   candidate: ORS 469.030
   catchline: State Department of Energy; duties
   text: (1) There is created the State Department of Energy.
+  verdict: ''
+- slug: department-of-energy-energy-facility-siting-council
+  name: Department of Energy, Energy Facility Siting Council
+  tier: 1
+  candidate: ORS 469.450
+  catchline: Energy Facility Siting Council; appointment; confirmation; term; restrictions
+  text: (1) There is established in the State Department of Energy an Energy Facility Siting Council,
+    consisting of seven public members, who shall be appointed by the Governor, subject to confirmation
+    by the Senate in the manner prescribed in ORS 171.
   verdict: ''
 - slug: department-of-environmental-quality
   name: Department of Environmental Quality
@@ -162,6 +200,14 @@ candidates:
   catchline: Department of Human Services; duties; personnel
   text: (1) The Department of Human Services is created.
   verdict: ''
+- slug: department-of-human-services-home-care-commission
+  name: Department of Human Services, Home Care Commission
+  tier: 1
+  candidate: ORS 410.602
+  catchline: Home Care Commission; membership; rules
+  text: (1) The Home Care Commission is created, consisting of nine members appointed by the Governor
+    and confirmed by the Senate as provided in ORS 171.
+  verdict: ''
 - slug: department-of-justice
   name: Department of Justice
   tier: 2
@@ -186,12 +232,27 @@ candidates:
   text: The Department of State Lands is created, and consists of the Director of the Department of State
     Lands and all officers and employees of the department acting under the State Land Board.
   verdict: ''
+- slug: department-of-state-lands-south-slough-national-estuarine-research-reserve
+  name: Department of State Lands, South Slough National Estuarine Research Reserve
+  tier: 2
+  candidate: ORS 273.554
+  catchline: South Slough National Estuarine Research Reserve Management Commission; powers; rules; fees
+  text: 553, there is created the South Slough National Estuarine Research Reserve Management Commission.
+  verdict: ''
 - slug: department-of-state-police
   name: Department of State Police
   tier: 2
   candidate: ORS 181A.015
   catchline: Department of State Police established
   text: (1) There is established a Department of State Police.
+  verdict: ''
+- slug: department-of-state-police-oregon-state-athletic-commission
+  name: Department of State Police, Oregon State Athletic Commission
+  tier: 1
+  candidate: ORS 463.113
+  catchline: Oregon State Athletic Commission; rules; duties of commission and superintendent
+  text: (1) There is created in the Department of State Police the Oregon State Athletic Commission, which
+    shall regulate the promotion of unarmed combat sports and entertainment wrestling events in this state.
   verdict: ''
 - slug: department-of-transportation
   name: Department of Transportation
@@ -233,6 +294,14 @@ candidates:
   catchline: Higher Education Coordinating Commission; members; confirmation
   text: (1) There is established a Higher Education Coordinating Commission, consisting of 15 voting members
     appointed by the Governor.
+  verdict: ''
+- slug: higher-education-coordinating-commission-office-of-student-access-and-completion
+  name: Higher Education Coordinating Commission, Office of Student Access and Completion
+  tier: 1
+  candidate: ORS 348.511
+  catchline: Office of Student Access and Completion; director
+  text: (1) The Office of Student Access and Completion is established and shall operate under the direction
+    and control of the Higher Education Coordinating Commission.
   verdict: ''
 - slug: land-use-board-of-appeals
   name: Land Use Board of Appeals
@@ -282,6 +351,21 @@ candidates:
     of administrative and regulatory functions of the regulated boards involved in protecting the public
     through the licensing and regulation of professions in this state that are related to behavioral and
     mental health.
+  verdict: ''
+- slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
+  name: Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
+  tier: 1
+  candidate: ORS 675.775
+  catchline: Oregon Board of Licensed Professional Counselors and Therapists
+  text: (1) The Oregon Board of Licensed Professional Counselors and Therapists is established.
+  verdict: ''
+- slug: mental-health-regulatory-agency-oregon-board-of-psychology
+  name: Mental Health Regulatory Agency, Oregon Board of Psychology
+  tier: 1
+  candidate: ORS 675.100
+  catchline: Oregon Board of Psychology
+  text: (1) There hereby is created the Oregon Board of Psychology consisting of nine members appointed
+    by the Governor and subject to confirmation by the Senate in the manner provided in ORS 171.
   verdict: ''
 - slug: mortuary-and-cemetery-board
   name: Mortuary and Cemetery Board
@@ -364,6 +448,21 @@ candidates:
     of the State Board of Education with the Superintendent of Public Instruction serving as an administrative
     officer for public school matters.
   verdict: ''
+- slug: oregon-department-of-education-fair-dismissal-appeals-board
+  name: Oregon Department of Education, Fair Dismissal Appeals Board
+  tier: 1
+  candidate: ORS 342.930
+  catchline: Fair Dismissal Appeals Board; rules
+  text: (1) The Fair Dismissal Appeals Board is created, consisting of 24 members appointed by the Governor,
+    subject to confirmation by the Senate as provided in ORS 171.
+  verdict: ''
+- slug: oregon-department-of-education-youth-development-division
+  name: Oregon Department of Education, Youth Development Division
+  tier: 1
+  candidate: ORS 417.852
+  catchline: Youth Development Division; purpose; administrative officer
+  text: (1) The Youth Development Division is established in the Department of Education.
+  verdict: ''
 - slug: oregon-facilities-authority
   name: Oregon Facilities Authority
   tier: 1
@@ -399,6 +498,89 @@ candidates:
   candidate: ORS 413.032
   catchline: Establishment of Oregon Health Authority
   text: (1) The Oregon Health Authority is established.
+  verdict: ''
+- slug: oregon-health-authority-health-licensing-office
+  name: Oregon Health Authority, Health Licensing Office
+  tier: 2
+  candidate: ORS 676.560
+  catchline: Purpose of Health Licensing Office
+  text: (1) To provide for the more effective coordination of administrative and regulatory functions
+    of certain health boards, councils and programs involved in protecting the public through the licensing
+    and regulation of health-related professions and occupations practiced in this state under a uniform
+    mission and uniform goals, the Health Licensing Office is created within the Oregon Health Authority.
+  verdict: ''
+- slug: oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board
+  name: Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board
+  tier: 1
+  candidate: ORS 676.806
+  catchline: Behavior Analysis Regulatory Board
+  text: '(1) There is created, within the Health Licensing Office, the Behavior Analysis Regulatory Board
+    consisting of nine members appointed by the Governor, including: (a) Four members who are licensed
+    by the board under ORS 676.'
+  verdict: ''
+- slug: oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians
+  name: Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians
+  tier: 1
+  candidate: ORS 676.650
+  catchline: Board of Certified Advanced Estheticians
+  text: '(1) There is established the Board of Certified Advanced Estheticians within the Health Licensing
+    Office, consisting of: (a) Nine members appointed by the Governor; and (b) The section manager of
+    the Radiation Protection Services Section of the Oregon Health Authority, or the section manager’s
+    designee.'
+  verdict: ''
+- slug: oregon-health-authority-health-licensing-office-board-of-cosmetology
+  name: Oregon Health Authority, Health Licensing Office, Board of Cosmetology
+  tier: 1
+  candidate: ORS 690.155
+  catchline: Board of Cosmetology
+  text: (1) There is established within the Health Licensing Office the Board of Cosmetology consisting
+    of seven members appointed by the Governor.
+  verdict: ''
+- slug: oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery
+  name: Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery
+  tier: 1
+  candidate: ORS 687.470
+  catchline: State Board of Direct Entry Midwifery; establishment; appointment; confirmation; membership;
+    compensation and expenses
+  text: (1) There is established within the Health Licensing Office the State Board of Direct Entry Midwifery.
+  verdict: ''
+- slug: oregon-health-authority-health-licensing-office-environmental-health-registration-board
+  name: Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board
+  tier: 1
+  candidate: ORS 700.210
+  catchline: Environmental Health Registration Board
+  text: There is established within the Health Licensing Office the Environmental Health Registration
+    Board to consist of seven members to be appointed by the Governor.
+  verdict: ''
+- slug: oregon-health-authority-health-licensing-office-long-term-care-administrators-board
+  name: Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board
+  tier: 1
+  candidate: ORS 678.800
+  catchline: Long Term Care Administrators Board
+  text: (1) The Long Term Care Administrators Board is established within the Health Licensing Office.
+  verdict: ''
+- slug: oregon-health-authority-health-policy-and-analytics
+  name: Oregon Health Authority, Health Policy and Analytics
+  tier: 2
+  candidate: ORS 442.011
+  catchline: Health Policy and Analytics Division created in Oregon Health Authority
+  text: There is created in the Oregon Health Authority the Health Policy and Analytics Division.
+  verdict: ''
+- slug: oregon-health-authority-oregon-prescription-drug-program
+  name: Oregon Health Authority, Oregon Prescription Drug Program
+  tier: 1
+  candidate: ORS 414.312
+  catchline: Oregon Prescription Drug Program
+  text: (2) The Oregon Prescription Drug Program is established in the Oregon Health Authority.
+  verdict: ''
+- slug: oregon-health-authority-public-employees-benefit-board
+  name: Oregon Health Authority, Public Employees' Benefit Board
+  tier: 1
+  candidate: ORS 243.061
+  catchline: Public Employees’ Benefit Board; members; term; confirmation; expenses
+  text: (1) There is created in the Oregon Health Authority the Public Employees’ Benefit Board consisting
+    of at least eight voting members and two members of the Legislative Assembly as nonvoting advisory
+    members.
   verdict: ''
 - slug: oregon-housing-and-community-services-department
   name: Oregon Housing and Community Services Department
@@ -452,14 +634,6 @@ candidates:
   catchline: State Marine Board
   text: (1) There hereby is created the State Marine Board consisting of five members to be appointed
     by the Governor and to serve at the pleasure of the Governor.
-  verdict: ''
-- slug: oregon-state-treasury
-  name: Oregon State Treasury
-  tier: 2
-  candidate: ORS 348.570
-  catchline: Funds in State Treasury
-  text: (1)(a) There is established in the State Treasury a fund, separate and distinct from the General
-    Fund, to be known as the Oregon Student Assistance Fund.
   verdict: ''
 - slug: oregon-tourism-commission
   name: Oregon Tourism Commission
@@ -516,6 +690,14 @@ candidates:
   candidate: ORS 756.014
   catchline: Public Utility Commission; appointment; confirmation; term; removal
   text: (1) There is created the Public Utility Commission of Oregon.
+  verdict: ''
+- slug: public-utility-commission-oregon-board-of-maritime-pilots
+  name: Public Utility Commission, Oregon Board of Maritime Pilots
+  tier: 1
+  candidate: ORS 776.105
+  catchline: Oregon Board of Maritime Pilots; term; qualifications; appointment; quorum
+  text: (1) The Oregon Board of Maritime Pilots is established within the Public Utility Commission of
+    Oregon, and shall consist of nine members appointed by the Governor for terms of four years.
   verdict: ''
 - slug: real-estate-agency
   name: Real Estate Agency
@@ -587,8 +769,6 @@ no_candidate:
   name: Department of Agriculture, Oregon Albacore Commission
 - slug: department-of-agriculture-oregon-alfalfa-seed-commission
   name: Department of Agriculture, Oregon Alfalfa Seed Commission
-- slug: department-of-agriculture-oregon-beef-council
-  name: Department of Agriculture, Oregon Beef Council
 - slug: department-of-agriculture-oregon-blueberry-commission
   name: Department of Agriculture, Oregon Blueberry Commission
 - slug: department-of-agriculture-oregon-clover-seed-commission
@@ -603,8 +783,6 @@ no_candidate:
   name: Department of Agriculture, Oregon Hazelnut Commission
 - slug: department-of-agriculture-oregon-hop-commission
   name: Department of Agriculture, Oregon Hop Commission
-- slug: department-of-agriculture-oregon-invasive-species-council
-  name: Department of Agriculture, Oregon Invasive Species Council
 - slug: department-of-agriculture-oregon-mint-commission
   name: Department of Agriculture, Oregon Mint Commission
 - slug: department-of-agriculture-oregon-potato-commission
@@ -627,8 +805,6 @@ no_candidate:
   name: Department of Agriculture, Oregon Tall Fescue Commission
 - slug: department-of-agriculture-oregon-trawl-commission
   name: Department of Agriculture, Oregon Trawl Commission
-- slug: department-of-agriculture-oregon-wheat-commission
-  name: Department of Agriculture, Oregon Wheat Commission
 - slug: department-of-consumer-and-business-services-building-codes-division
   name: Department of Consumer and Business Services, Building Codes Division
 - slug: department-of-consumer-and-business-services-director-s-office
@@ -641,12 +817,8 @@ no_candidate:
   name: Department of Consumer and Business Services, Insurance Regulation
 - slug: department-of-consumer-and-business-services-oregon-occupational-safety-and-health-division
   name: Department of Consumer and Business Services, Oregon Occupational Safety and Health Division
-- slug: department-of-consumer-and-business-services-workers-compensation-board
-  name: Department of Consumer and Business Services, Workers' Compensation Board
 - slug: department-of-consumer-and-business-services-workers-compensation-division
   name: Department of Consumer and Business Services, Workers' Compensation Division
-- slug: department-of-energy-energy-facility-siting-council
-  name: Department of Energy, Energy Facility Siting Council
 - slug: department-of-forestry
   name: Department of Forestry
 - slug: department-of-geology-and-mineral-industries
@@ -655,20 +827,14 @@ no_candidate:
   name: Department of Human Services, Aging and People with Disabilities and Developmental Disabilities
 - slug: department-of-human-services-child-welfare-programs
   name: Department of Human Services, Child Welfare Programs
-- slug: department-of-human-services-home-care-commission
-  name: Department of Human Services, Home Care Commission
 - slug: department-of-human-services-self-sufficiency-programs
   name: Department of Human Services, Self-Sufficiency Programs
 - slug: department-of-human-services-vocational-rehabilitation-services
   name: Department of Human Services, Vocational Rehabilitation Services
 - slug: department-of-public-safety-standards-and-training
   name: Department of Public Safety Standards and Training
-- slug: department-of-state-lands-south-slough-national-estuarine-research-reserve
-  name: Department of State Lands, South Slough National Estuarine Research Reserve
 - slug: department-of-state-police-office-of-state-fire-marshal
   name: Department of State Police, Office of State Fire Marshal
-- slug: department-of-state-police-oregon-state-athletic-commission
-  name: Department of State Police, Oregon State Athletic Commission
 - slug: department-of-transportation-driver-and-motor-vehicle-services-division
   name: Department of Transportation, Driver and Motor Vehicle Services Division
 - slug: department-of-transportation-highway-division
@@ -691,8 +857,6 @@ no_candidate:
   name: Higher Education Coordinating Commission, Office of Community Colleges and Workforce Development
 - slug: higher-education-coordinating-commission-office-of-degree-authorization
   name: Higher Education Coordinating Commission, Office of Degree Authorization
-- slug: higher-education-coordinating-commission-office-of-student-access-and-completion
-  name: Higher Education Coordinating Commission, Office of Student Access and Completion
 - slug: judicial-department
   name: Judicial Department
 - slug: land-conservation-and-development-department
@@ -711,10 +875,6 @@ no_candidate:
   name: Legislative Equity Office
 - slug: legislative-fiscal-officer
   name: Legislative Fiscal Officer
-- slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
-  name: Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
-- slug: mental-health-regulatory-agency-oregon-board-of-psychology
-  name: Mental Health Regulatory Agency, Oregon Board of Psychology
 - slug: office-of-public-defense-services
   name: Office of Public Defense Services
 - slug: office-of-the-governor
@@ -727,40 +887,16 @@ no_candidate:
   name: Oregon Board of Physical Therapy
 - slug: oregon-department-of-education-early-learning-division
   name: Oregon Department of Education, Early Learning Division
-- slug: oregon-department-of-education-fair-dismissal-appeals-board
-  name: Oregon Department of Education, Fair Dismissal Appeals Board
-- slug: oregon-department-of-education-youth-development-division
-  name: Oregon Department of Education, Youth Development Division
 - slug: oregon-health-authority-equity-and-inclusion-division
   name: Oregon Health Authority Equity and Inclusion Division
-- slug: oregon-health-authority-health-licensing-office
-  name: Oregon Health Authority, Health Licensing Office
-- slug: oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board
-  name: Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board
-- slug: oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians
-  name: Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians
-- slug: oregon-health-authority-health-licensing-office-board-of-cosmetology
-  name: Oregon Health Authority, Health Licensing Office, Board of Cosmetology
-- slug: oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery
-  name: Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery
 - slug: oregon-health-authority-health-licensing-office-board-of-licensed-dietitians
   name: Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians
-- slug: oregon-health-authority-health-licensing-office-environmental-health-registration-board
-  name: Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board
-- slug: oregon-health-authority-health-licensing-office-long-term-care-administrators-board
-  name: Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board
-- slug: oregon-health-authority-health-policy-and-analytics
-  name: Oregon Health Authority, Health Policy and Analytics
 - slug: oregon-health-authority-health-systems-division-addiction-services
   name: 'Oregon Health Authority, Health Systems Division: Addiction Services'
 - slug: oregon-health-authority-health-systems-division-behavioral-health-services
   name: 'Oregon Health Authority, Health Systems Division: Behavioral Health Services'
 - slug: oregon-health-authority-health-systems-division-medical-assistance-programs
   name: 'Oregon Health Authority, Health Systems Division: Medical Assistance Programs'
-- slug: oregon-health-authority-oregon-prescription-drug-program
-  name: Oregon Health Authority, Oregon Prescription Drug Program
-- slug: oregon-health-authority-public-employees-benefit-board
-  name: Oregon Health Authority, Public Employees' Benefit Board
 - slug: oregon-health-authority-public-health-division
   name: Oregon Health Authority, Public Health Division
 - slug: oregon-liquor-control-commission
@@ -773,14 +909,14 @@ no_candidate:
   name: Oregon Military Department, Office of Emergency Management
 - slug: oregon-public-employees-retirement-system
   name: Oregon Public Employees Retirement System
+- slug: oregon-state-treasury
+  name: Oregon State Treasury
 - slug: oregon-watershed-enhancement-board-oregon-agricultural-heritage-program
   name: Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program
 - slug: oregon-youth-authority
   name: Oregon Youth Authority
 - slug: parks-and-recreation-department
   name: Parks and Recreation Department
-- slug: public-utility-commission-oregon-board-of-maritime-pilots
-  name: Public Utility Commission, Oregon Board of Maritime Pilots
 - slug: saif-corporation
   name: SAIF Corporation
 - slug: secretary-of-state-archives-division
