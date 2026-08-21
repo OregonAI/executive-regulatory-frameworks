@@ -10,14 +10,14 @@ Generated 2026-08-21. Non-authoritative; see DISCLAIMER.md.
 | rule | 36953 |
 | policy | 676 |
 | executive_order | 526 |
+| constitutional_provision | 339 |
 | manual | 173 |
 | schedule | 76 |
 | standard | 21 |
 | procedure | 14 |
-| constitutional_provision | 10 |
 | external_reference | 1 |
 
-**Total: 75915**
+**Total: 76244**
 
 ## Source manifest
 
@@ -25,7 +25,7 @@ Generated 2026-08-21. Non-authoritative; see DISCLAIMER.md.
 
 ## Freshness (reverify every 90 days)
 
-75905 of 75915 document(s) overdue for re-verification.
+75905 of 76244 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|

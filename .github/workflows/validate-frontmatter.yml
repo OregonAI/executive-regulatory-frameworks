@@ -51,19 +51,35 @@ jobs:
       # a wrong date passes every other gate silently. Cases are real corpus lines.
       - name: Executive-order signed-date parser
         run: python3 src/ingest_eo.py --selftest
-      # The Oregon Constitution is mirrored one article at a time (ADR 0005), and a section
-      # is published only when its slice passed every rule — missing, too small, not
-      # anchored to the title the page lists, or printed as a repealed section's leadline
-      # and history bracket alone. Each rule fires here against a synthetic page, and the
-      # end-to-end proof is that a deliberately broken slice leaves NO document behind: a
-      # skip that silently published would put text under a citation that does not name it.
+      # The Oregon Constitution is mirrored WHOLE (ADR 0005, #195), and a section is
+      # published only when its slice passed every rule — missing, not anchored to the title
+      # the page lists, printed as a repealed section's leadline and history bracket alone,
+      # too little text under the leadline, or printed twice with text under more than one
+      # print, which nothing in the citation can tell apart. Each rule fires here against a
+      # synthetic page, and the end-to-end proof is that a deliberately broken slice leaves
+      # NO document behind: a skip that silently published would put text under a citation
+      # that does not name it.
+      #
+      # ALSO PROVED HERE, because the whole document is what showed them: an article is found
+      # by its WHOLE designation (ARTICLE VII is printed twice, as (Amended) and (Original),
+      # and both are operative); a section number printed more than once resolves to the
+      # print carrying text, which is FIRST in Article IV and LAST in Article XIV; and a
+      # section number may carry an uppercase suffix (Article XI section 11L is the only one,
+      # and a lowercase-only pattern did not skip it — it could not see it).
       - name: Constitution ingest skip rules must all be able to fail
         run: python3 src/ingest_constitution.py --selftest
       # The citation schemes' own proofs, and the half that matters is the refusals: an
       # `Or. Const.` citation to a section the page does not print must resolve to NOTHING
-      # and say so, never to the article or to a neighbouring section. It also holds the
-      # three answers apart that a partial mirror makes it easy to collapse — not mirrored
-      # yet, printed but not published, and printed nowhere.
+      # and say so, never to the article or to a neighbouring section. It holds apart the
+      # answers a reader would otherwise have to guess between — printed but not published,
+      # printed nowhere, an article printed with no sections at all, and a numeral the page
+      # prints only WITH a parenthetical, where naming one of the two would be a coin flip.
+      #
+      # IT IS ALSO THE GATE ON THE ONE DECLARATION (#195). What a constitutional citation
+      # looks like used to be written twice — the `or-const` scheme and AUTHORITY_FORMS — and
+      # the two disagreed in both directions. Both now interpolate one token in repo_lib, and
+      # `article_form_disagreements()` runs every designation the catalog holds through both.
+      # The gate is watched failing here against the form as it stood before that change.
       #
       # ITS LAST PROOF RUNS THE WHOLE WAY THROUGH `CorpusFramework.resolve_citation`, which
       # is why this is a PER-PR step and not only part of the nightly MCP smoke test below:

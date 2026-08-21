@@ -1,15 +1,16 @@
 # Mirror the Oregon Constitution
 
-**Status: ACCEPTED (2026-08-21).** The decision is taken: this corpus will mirror the Oregon
-Constitution as a source group, on the 751 citing documents and the authority chain they
-imply. What has landed is the recheck cadence the section
-below argues about, now an expressible value (#193), and the first article: #194 created
-`constitution.yml` and mirrored **Article VI**, 10 of the 11 sections the page prints (section
-9a is repealed and printed as its leadline and history alone, so there is no text to mirror —
-the catalog records that, and a citation to it says so). One article of eighteen is mirrored
-today; the other seventeen are #195, and until they land a constitutional citation into one of
-them resolves to nothing AND SAYS IT IS NOT MIRRORED, which is not the ambiguity this ADR
-rejects below — that ambiguity is a partial mirror that cannot tell you which it is.
+**Status: ACCEPTED (2026-08-21), and DONE.** The decision is taken and carried out: this
+corpus mirrors the Oregon Constitution as a source group, on the 751 citing documents and the
+authority chain they imply. The recheck cadence the section below argues about is an
+expressible value (#193); #194 mirrored **Article VI** as the tracer bullet; #195 mirrored the
+rest, and the mirror is now WHOLE. **339 sections across every article the page prints**, and
+32 sections cataloged and not published because the page prints them as a leadline and a
+repeal bracket with nothing between them — a citation to one of those resolves to nothing and
+says that, which is a statement about the Constitution and no longer one about coverage.
+
+The "not mirrored yet" answer the partial mirror needed is gone. A constitutional citation now
+has exactly one ambiguous case left, and it is the source's own: see the amendment below.
 
 This corpus mirrors the Oregon Revised Statutes and the Oregon Administrative Rules, and it
 maintains a catalog of the federal instruments its documents cite — 1,271 targets and 916
@@ -165,3 +166,78 @@ derivation runs that way round because the interval is the half a JSON Schema ha
 for. And a group declaring a cadence nobody declared is now REPORTED against the group,
 where it used to be a `KeyError` raised from a dict lookup inside `report_due()` — which named
 the dict instead of the file, and took every other group's due-state down with it.
+
+
+## Amendment: what the whole document turned out to be
+
+Written 2026-08-21 with #195, from the 2024 edition rather than from the ADR above. **The
+decision that mattered was not whether to mirror the whole document — that is settled above —
+but what an ARTICLE is**, and the answer was not the one "18 articles" implies.
+
+**The page prints 40 article headings under 39 distinct designations.** Eighteen roman
+numerals, the lettered articles (X-A, and XI-A through XI-Q, which is where the state's
+bonding authority lives), and two shapes that break a numeral-keyed identity:
+
+* **ARTICLE VII is printed twice**, as `(Amended)` and `(Original)`. Both are operative and
+  both are cited by Oregon courts: the judicial power sits in amended Article VII, and
+  original Article VII's provisions on courts and jurisdiction survive with the status of a
+  statute by the terms of amended section 2 — the page says so itself, in a note under the
+  heading. There is no bare ARTICLE VII on the page at all.
+* **ARTICLE XI-A is printed twice under one designation**: the 1916 RURAL CREDITS article,
+  repealed in 1942 and kept on the page as its heading and its repeal bracket, and FARM AND
+  HOME LOANS TO VETERANS, which is in force.
+
+Those are different problems and the fix is different for each. **Identity carries the
+parenthetical** — `vii-amended`, `vii-original`, `xi-f-1`, `xi-i-2` — because that is how
+Oregon writes the citation, and a positional or first-wins scheme would have been stable today
+and wrong at the next amendment. A designation printed twice is ONE identity and TWO catalog
+entries: both are recorded, the repealed one is skipped with its reason (as Article VI section
+9a was), and a citation resolves against the print that carries sections.
+
+The fold to a slug is chosen so that an article with no parenthetical keeps the slug it
+already had, which is what let #194's ten Article VI documents stay byte-identical. Re-keying
+published documents would have broken every citation already resolving against them.
+
+**A second declaration was retired.** What a constitutional citation looks like was written
+twice — in the `or-const` scheme and in `AUTHORITY_FORMS` — and the two disagreed in both
+directions: the form took `Art. VII (Amended)` and the scheme refused it, the scheme took
+`Art. XI-A` and the form refused it, and neither took `Art. XI-F(1)`, which is a real article.
+Both now interpolate one token in `repo_lib`, gated by
+`citation_schemes.article_form_disagreements()`. The derivation runs from the id shape outward
+because the scheme has to PARSE a token into a document id and the form only has to RECOGNIZE
+one; a recognizer can be derived from a parser and not the reverse. Same shape as #193's fix
+to `CADENCES` versus the `recheck` enum, in the second place this repository stated one fact
+twice.
+
+**Five things only the whole document could show**, all of them invisible in Article VI and
+all of them measured rather than feared:
+
+1. **Article XI section 11L** is the only section in the document with an uppercase letter
+   suffix. Read with `\d+[a-z]?` — as every part of the pipeline did — it was not a section
+   that failed a rule and got reported; it was a section nothing could see, sitting between
+   11k and 12 in the article's own contents list where no count would look wrong.
+2. **A section number is not always one section.** Nine numbers across seven articles are
+   printed more than once, 19 prints in all, as the section in force beside a superseded
+   print of it. The operative print is FIRST in Article IV and LAST in Articles XI, XIV and
+   XV, so neither first-wins nor last-wins is the rule; what distinguishes it is carrying
+   text. That rule lives in the SLICER, because `snapshot_slice` is reached from a doc id
+   alone and a rule in the ingest would let the text published and the text verified diverge.
+3. **#194's 120-character floor was an ORS threshold.** It refused four real one-sentence
+   sections — Article II section 1 ("All elections shall be free and equal."), Article I
+   sections 17 and 30, Article V section 10 — with a reason saying the slice was too small to
+   be the section's text when it was the whole of it. The floor is now measured in the
+   section's OWN text: of 381 prints, 40 carry zero letters outside their leadline, brackets
+   and notes, every one of the 40 is repealed or superseded, and the next smallest carries 31.
+4. **A Legislative Counsel note is not the section's text.** The page prints 57 of them, and a
+   slice runs heading to heading, so a note lands in the preceding section's slice. Counted as
+   body text it published four repealed sections whose "full text" was a leadline, a repeal
+   bracket and an editorial note about the repeal.
+5. **Article V section 15 is a heading and a bracket with no leadline**, and four articles
+   print a `Note:` between the contents list and the first section. Both were parsing traps
+   that put page furniture into a document's title or its body.
+
+**What this does not settle** is unchanged from the ADR above, and one thing is added to it.
+Resolving a registry row's constitutional enabling authority against the mirror is now
+possible and is #196; `link_enabling_authority.py --check` still reports those rows as form-
+checked and unresolved, because turning that on is a decision about ADMITTING evidence and not
+a consequence of this change.

@@ -38,7 +38,7 @@ The full design rationale lives in [repo-design.md](repo-design.md).
 ## Structure
 
 ```
-constitution/        Oregon Constitution, one document per section (Article VI only; #195)
+constitution/        Oregon Constitution, one document per section (whole document)
 statutes/            ORS — Oregon Revised Statutes (jurisdiction-wide)
 rules/               OAR — Oregon Administrative Rules (chapter/division)
 executive-orders/    Governor's executive orders
