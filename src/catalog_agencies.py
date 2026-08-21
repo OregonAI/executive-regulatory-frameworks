@@ -211,13 +211,23 @@ RELATION_KEY = "relations"
 #   das         where DAS files the body in the Oregon Accounting Manual — corroborating
 #               evidence (CONTEXT.md), recorded as its own reading rather than merged into
 #               the others.
+#   registry    a placement THIS REGISTRY recorded by hand, on evidence stated in the row's
+#               `note`. It exists because one row needs it and `oar-index` would be false on
+#               that row: a `manual` body is one the chapter index does not carry, so the
+#               index has placed it nowhere, and the entry can never be regenerated because
+#               the scrape cannot see the row (`preserve_manual`). Recording it as the
+#               index's reading would attribute a placement to a publisher that never made
+#               it AND label an unregenerable entry as one the refresh rebuilds — two false
+#               claims to save one source name.
 #
 # ALLOWLIST, NOT BLOCKLIST. A source this registry has no meaning for is refused in front of
 # whoever wrote it, rather than published as provenance nobody can act on — the same reason
 # AUTHORITY_FORMS is an allowlist, and the reason a new source is added HERE, deliberately,
 # rather than by a consumer inventing a string.
 OAR_INDEX = "oar-index"
-RELATION_SOURCES = {OAR_INDEX: SCRAPED, "statute": CURATED, "das": CURATED}
+REGISTRY = "registry"
+RELATION_SOURCES = {OAR_INDEX: SCRAPED, REGISTRY: CURATED, "statute": CURATED,
+                    "das": CURATED}
 
 # THE KINDS, AND WHY THE DEFAULT IS A WORD RATHER THAN A GUESS. ADR 0004's two kinds turn on
 # whether the body carries its own admitting evidence, and that evidence is not in the
@@ -236,6 +246,25 @@ RELATION_KINDS = (UNDETERMINED, "part_of", "administered_by")
 RELATION_KEYS = ("target", "source", "kind", "authority")
 
 
+def relations_from_parent(org) -> list:
+    """The relation a row's own `parent_slug` states, sourced by WHO is in a position to
+    state it — the one place that question is answered, so --refresh and the migration that
+    first wrote the field cannot answer it two ways.
+
+    A row the scrape produces is placed by the OAR index, which is where its `parent_slug`
+    came from. A `manual` row is one the index does not carry (`preserve_manual`), so the
+    index has placed it nowhere and the pointer is this registry's own hand-written record —
+    see the `registry` source above for why calling it the index's would be false twice
+    over. A row with no parent gets an empty list rather than a missing key: `[]` says this
+    registry places the body under no other, and an absent key would say nobody asked."""
+    parent_slug = org.get("parent_slug")
+    if not parent_slug:
+        return []
+    if org.get("manual"):
+        return [{"target": parent_slug, "source": REGISTRY, "kind": UNDETERMINED}]
+    return [index_relation(parent_slug)]
+
+
 def index_relation(parent_slug: str) -> dict:
     """The relation the OAR index states, as --refresh writes it.
 
@@ -250,40 +279,46 @@ def index_relation(parent_slug: str) -> dict:
     return {"target": parent_slug, "source": OAR_INDEX, "kind": UNDETERMINED}
 
 
-def classify_relation(entry):
-    """(the entry's source origin, its kind) for one relation, or (None, what is wrong).
+def relation_fault(entry):
+    """What is wrong with one relation entry, or None when nothing is.
 
     THE ONE PLACE A RELATION'S GRAMMAR IS STATED, so the registry's contract
     (`relation-shape` in check_registry) and anything that writes the field are reading the
-    same rules — a value cannot be legal where it is written and illegal in the file."""
+    same rules — a value cannot be legal where it is written and illegal in the file.
+
+    ONE ANSWER, NOT A CLASSIFICATION. `classify_authority()` above returns the FORM it
+    matched because two callers act on which one it was; nothing acts on a relation's source
+    or kind beyond the rules below, which read them off the entry itself, and a second
+    return value nobody reads is a claim about this function that its callers do not
+    keep."""
     if not isinstance(entry, dict):
-        return None, f"{entry!r} is not a mapping, so nothing about it could be read"
+        return f"{entry!r} is not a mapping, so nothing about it could be read"
     # ALLOWLIST, as everywhere else in this module: a key nobody declared is one nothing can
     # say whether --refresh preserves, and it is indistinguishable from a typo in a key that
     # matters — `kimd` is a kind no reader will ever see.
     undeclared = sorted(set(entry) - set(RELATION_KEYS))
     if undeclared:
-        return None, (f"relation {entry!r} carries key(s) {undeclared} that this registry "
-                      f"does not declare — a relation is {list(RELATION_KEYS)}, with "
-                      "`authority` the only optional one")
+        return (f"relation {entry!r} carries key(s) {undeclared} that this registry "
+                f"does not declare — a relation is {list(RELATION_KEYS)}, with `authority` "
+                "the only optional one")
     target = entry.get("target")
     if not isinstance(target, str) or not target.strip():
-        return None, (f"relation {entry!r} names no body — `target` is the registry slug "
-                      "of the body this one is under, and a relation without one records "
-                      "a hierarchy with one end")
+        return (f"relation {entry!r} names no body — `target` is the registry slug "
+                "of the body this one is under, and a relation without one records a "
+                "hierarchy with one end")
     source = entry.get("source")
     if source not in RELATION_SOURCES:
-        return None, (f"source {source!r} is not one this registry records — expected one "
-                      f"of {sorted(RELATION_SOURCES)}. The source is what says whether "
-                      "--refresh regenerates this entry or carries it across, so an entry "
-                      "without one recognisable is an entry the refresh cannot keep safe")
+        return (f"source {source!r} is not one this registry records — expected one "
+                f"of {sorted(RELATION_SOURCES)}. The source is what says whether --refresh "
+                "regenerates this entry or carries it across, so an entry without one "
+                "recognisable is an entry the refresh cannot keep safe")
     kind = entry.get("kind")
     if kind not in RELATION_KINDS:
-        return None, (f"kind {kind!r} is not one this registry records — expected one of "
-                      f"{sorted(RELATION_KINDS)}. {UNDETERMINED!r} is a value and not a "
-                      "missing one: it says the relation is real and which of ADR 0004's "
-                      "two kinds it is has not been established, where an absent kind says "
-                      "nothing and lets a consumer read it as either")
+        return (f"kind {kind!r} is not one this registry records — expected one of "
+                f"{sorted(RELATION_KINDS)}. {UNDETERMINED!r} is a value and not a missing "
+                "one: it says the relation is real and which of ADR 0004's two kinds it is "
+                "has not been established, where an absent kind says nothing and lets a "
+                "consumer read it as either")
     if "authority" in entry:
         # THE SAME FORMS THE BODY'S OWN AUTHORITY TAKES, minus the reviewed absence. An
         # `enabling_authority` needs `none: <reason>` because the key is absent on a body
@@ -292,12 +327,11 @@ def classify_relation(entry):
         # spelling of "there is none" would be one state written two ways.
         form, detail = classify_authority(entry["authority"])
         if form is None or form == "reviewed-none":
-            return None, (f"relation {entry!r} cites no authority this registry can record "
-                          "— expected an ORS citation (`ORS 576.066`), a constitutional "
-                          "article, or an executive order; leave the key off where no "
-                          "authority has been established for the relation"
-                          + ("" if form else f" ({detail})"))
-    return RELATION_SOURCES[source], kind
+            return (f"relation {entry!r} cites no authority this registry can record "
+                    "— expected an ORS citation (`ORS 576.066`), a constitutional article, "
+                    "or an executive order; leave the key off where no authority has been "
+                    "established for the relation" + ("" if form else f" ({detail})"))
+    return None
 
 
 def relation_entries(org) -> list:
@@ -528,19 +562,15 @@ def scraped_entry(*, name, oar_chapter, raw_index_name, source_url, note=None):
     return entry
 
 
-def set_index_relations(orgs) -> None:
-    """Write each row's OAR-index relation from the parent the index tree just gave it.
+def set_parent_relations(orgs) -> None:
+    """Write each row's relation from the parent the index tree just gave it.
 
     IN PLACE and over the SCRAPE'S OWN OUTPUT ONLY. It runs before anything is preserved, so
     it cannot overwrite a curated entry — the rows it touches are the ones the scrape has
-    just rebuilt, and the merge appends to what it leaves behind.
-
-    A row the index files under nothing gets an empty list, not a missing key: `[]` says the
-    index places this body under no other, which is what `parent_slug: null` says beside it,
-    and an absent key would say nobody asked."""
+    just rebuilt, and the merge appends to what it leaves behind. A manual row is not among
+    them, which is why every entry this writes is the index's."""
     for org in orgs:
-        parent_slug = org.get("parent_slug")
-        org[RELATION_KEY] = [index_relation(parent_slug)] if parent_slug else []
+        org[RELATION_KEY] = relations_from_parent(org)
 
 
 def write_das_agency_number(row: dict, number) -> None:
@@ -807,7 +837,7 @@ def cmd_refresh():
     # AFTER the parent pointers and BEFORE anything is preserved: these are the entries the
     # scrape owns, written from the tree it has just read, onto rows nothing has been
     # carried onto yet.
-    set_index_relations(orgs)
+    set_parent_relations(orgs)
 
     assert_scrape_declared(orgs)
 
@@ -853,8 +883,10 @@ def cmd_refresh():
                  "(ADR 0003). MIXED ORIGIN, which is why the field is neither scraped nor "
                  "curated: entries whose source is oar-index are REGENERATED by --refresh "
                  "from the index tree, so an upstream re-filing reaches this file, and "
-                 "every other entry is carried across untouched. An empty list means this "
-                 "registry places the body under no other. "
+                 "every other entry is carried across untouched. A manual row's placement "
+                 "is sourced `registry` and never `oar-index`: the index does not carry "
+                 "that body, so it has placed it nowhere and no refresh can rebuild the "
+                 "entry. An empty list means this registry places the body under no other. "
                  "budget_agency_code is the same number under the name it used to carry, "
                  "readable for one deprecation cycle (ADR 0003); the two always hold the "
                  "same value. enabling_authority, where present, is what created the body "
@@ -1186,7 +1218,7 @@ def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None):
     # The same three steps --refresh runs, in the same order. The index relations are
     # rebuilt from the committed `parent_slug` because that is what the index tree told the
     # last refresh — the simulation measures SURVIVAL, not whether the mirror still says it.
-    set_index_relations(orgs)
+    set_parent_relations(orgs)
     preserve_manual(prev_orgs, orgs, by_slug)
     preserve_curated(prev_orgs, by_slug, curated_keys)
     preserve_relations(prev_orgs, by_slug, merged_keys)
@@ -1334,17 +1366,23 @@ def check_registry(cat, fields=None) -> list:
     # keeps the disagreement. What the rules below refuse is an entry a reader cannot act
     # on: one that does not say where it came from, or what it claims, or about whom.
     for i, o in rows:
-        value = o.get(RELATION_KEY)
-        if value is not None and not isinstance(value, list):
+        # `relations: null` IS CHECKED HERE, not passed over. A row that carries the key
+        # has had the field written, so a null is not the "nobody has looked" an absent key
+        # would be — it is a list that went missing, and `relation_entries()` reads it as
+        # empty, which is a body under nothing to every consumer. The absent key is
+        # `required-field`'s to report, which is why this only speaks when the key is there.
+        if RELATION_KEY in o and not isinstance(o[RELATION_KEY], list):
             failures.append(Failure("relation-shape", _row_id(o, i),
-                                    f"{RELATION_KEY} is {value!r}, not a list of relations "
-                                    "— no entry in it could be evaluated"))
+                                    f"{RELATION_KEY} is {o[RELATION_KEY]!r}, not a list of "
+                                    "relations — every reader of the field takes it for a "
+                                    "body placed under nothing, and no entry in it could be "
+                                    "evaluated"))
             continue
-        seen, index_targets = {}, []
+        seen, targets, index_targets = {}, [], []
         for entry in relation_entries(o):
-            origin, detail = classify_relation(entry)
-            if origin is None:
-                failures.append(Failure("relation-shape", _row_id(o, i), detail))
+            fault = relation_fault(entry)
+            if fault:
+                failures.append(Failure("relation-shape", _row_id(o, i), fault))
                 continue
             # ONE READING PER SOURCE. Several relations on one body are a disagreement
             # between sources and a finding (ADR 0003); two from ONE source about one parent
@@ -1367,28 +1405,40 @@ def check_registry(cat, fields=None) -> list:
                     "entries from it are not the disagreement several relations record"))
             else:
                 seen[key] = entry
+            targets.append(entry["target"])
             if entry["source"] == OAR_INDEX:
                 index_targets.append(entry["target"])
-        # THE POINTER AND THE RELATION ARE ONE FACT WRITTEN TWICE, and #171 writes the
+        # THE POINTER AND THE RELATIONS ARE ONE FACT WRITTEN TWICE, and #171 writes the
         # second copy without removing the first (#174 removes it). Two copies can disagree,
         # so this states that they may not — the shape `deprecated-key-agrees` has, for the
         # same reason: whichever half a consumer reads is the answer it gets, and the two
-        # populations of consumers never see each other's.
-        #
-        # A row with NO parent may hold no `oar-index` relation either, which is the only
-        # rule that reaches a manual row: the scrape cannot see one (`preserve_manual`), so
-        # the index has said nothing about where it sits, and the survival simulation — the
-        # thing that would otherwise notice a hand-written entry — preserves such a row
-        # whole and compares nothing.
+        # populations of consumers never see each other's. WHICH source names the parent is
+        # the next rule's question; this one asks only that some source does.
         parent_slug = o.get("parent_slug")
-        expected = [parent_slug] if isinstance(parent_slug, str) and parent_slug else []
-        if index_targets != expected:
+        if isinstance(parent_slug, str) and parent_slug and parent_slug not in targets:
             failures.append(Failure(
                 "relation-names-the-parent", _row_id(o, i),
-                f"parent_slug is {parent_slug!r} but the OAR index relation(s) name "
-                f"{index_targets!r} — the pointer and the relation state the same placement "
-                "until #174 retires the pointer, and a row where they disagree resolves "
-                "differently depending on which half a consumer read"))
+                f"parent_slug is {parent_slug!r} and no relation names it — a consumer that "
+                "has moved onto relations reads this row as a body under nothing, which is "
+                "not what the pointer beside it says"))
+        # AN `oar-index` ENTRY IS A CLAIM THAT --refresh REGENERATES IT, so the rows it may
+        # sit on are the rows the refresh rebuilds. It may not sit on a `manual` row at all:
+        # a manual body is one the chapter index does not carry (`preserve_manual`), so the
+        # index has placed it nowhere, and an entry claiming otherwise attributes a
+        # placement to a publisher that never made it AND labels an entry nothing can
+        # regenerate as one the refresh rebuilds. Nothing else would notice — the survival
+        # simulation preserves a manual row WHOLE and never compares it with a scrape.
+        # `registry` is the source that is true of such a placement.
+        expected_index = [] if o.get("manual") else (
+            [parent_slug] if isinstance(parent_slug, str) and parent_slug else [])
+        if index_targets != expected_index:
+            failures.append(Failure(
+                "index-relation-is-regenerated", _row_id(o, i),
+                f"the {OAR_INDEX!r} relation(s) name {index_targets!r} where the OAR index "
+                f"places this body under {expected_index!r} — an entry from that source is "
+                "rewritten from the index tree on every --refresh, so one the tree does not "
+                f"produce is destroyed unread; record it as {REGISTRY!r} (or the source that "
+                "states it) if it is not the index's reading"))
 
 
     # EVERY BODY FINDABLE BY BOTH OF THE NAMES IT HAS, BEFORE AND AFTER `name` IS PROMOTED.
@@ -1799,23 +1849,49 @@ def _case_relation_target_resolves_to_nothing(cat):
         "department-of-administrative-service"
 
 
-def _case_child_whose_relations_do_not_name_its_parent(cat):
+def _adopt_manual_row(cat):
+    """Give the fixture's manual row a parent, the way the registry's one manual child
+    carries one: `oregon-health-authority-equity-and-inclusion-division` sits under the
+    Oregon Health Authority on the strength of its own rule-page header, which is recorded
+    in the row's `note`. Both halves of the pointer are set, so `parent-agrees` stays quiet
+    and the cases below break exactly what they are about."""
+    das, _cfo, gov = cat["organizations"]
+    gov["parent_slug"], gov["parent_chapter"] = das["slug"], das["oar_chapter"]
+    return gov, das
+
+
+def _case_parent_named_by_no_relation(cat):
     """A row with a `parent_slug` and no relation saying so. #171 lands the relation BESIDE
     the pointer and removes nothing, so the two are one fact written twice until #174
     retires the pointer — and a row carrying only the pointer is invisible to every consumer
     that has already moved onto relations, which reads it as a body under nothing rather
-    than as a body whose relation is missing."""
+    than as a body whose relation is missing. Demonstrated on the MANUAL row, where it is
+    the only rule that fires: on a scraped row the missing entry is also an entry the index
+    would have produced, which is the next case."""
+    _adopt_manual_row(cat)
+
+
+def _case_child_whose_index_relation_is_missing(cat):
+    """A scraped child whose `oar-index` entry is gone. The index tree places this body
+    under that one and --refresh writes exactly that entry every time it runs, so a row
+    without it disagrees with the scrape that is about to overwrite it. Its parent is still
+    named — by the statute entry beside it — which is what keeps this case about one rule."""
     del cat["organizations"][1]["relations"][0]
 
 
 def _case_index_relation_the_index_could_not_have_stated(cat):
-    """An `oar-index` relation on a MANUAL row. A manual row is one the chapter scrape
-    cannot see — that is what the flag means (`preserve_manual`) — so the OAR index has
-    stated nothing about where this body sits, and an entry claiming otherwise attributes a
-    placement to a publisher that never made it. It is also the one row where nothing else
-    would notice: the survival simulation preserves a manual row whole, so a hand-written
-    entry on it is never compared with what the scrape would have produced."""
-    cat["organizations"][2]["relations"] = [index_relation(cat["organizations"][0]["slug"])]
+    """An `oar-index` relation on a MANUAL row that has a parent. A manual row is one the
+    chapter scrape cannot see — that is what the flag means (`preserve_manual`) — so the OAR
+    index has stated nothing about where this body sits, and an entry claiming otherwise
+    attributes a placement to a publisher that never made it and calls an entry nothing can
+    regenerate one the refresh rebuilds. It is also the one row where nothing else would
+    notice: the survival simulation preserves a manual row whole, so a hand-written entry on
+    it is never compared with what the scrape would have produced. THE PARENT IS SET, which
+    is the point — with `parent_slug: null` the same entry fails for being a placement the
+    row does not claim anywhere, and the rule would look proven while the real row in the
+    registry (one manual child, under the Oregon Health Authority) went unguarded."""
+    gov, das = _adopt_manual_row(cat)
+    gov["relations"] = [index_relation(das["slug"])]
 
 
 def _case_relation_hand_edited_on_a_scraped_entry(cat):
@@ -1827,6 +1903,15 @@ def _case_relation_hand_edited_on_a_scraped_entry(cat):
     kind ADR 0004 would give this relation belongs on an entry with a source that states
     the evidence for it (#173), not on the index's."""
     cat["organizations"][1]["relations"][0]["kind"] = "part_of"
+
+
+def _case_relations_that_are_not_a_list(cat):
+    """`relations: null` on a row that carries the key. Every reader of the field takes it
+    for a body placed under nothing — `relation_entries()` included, which is what lets the
+    rest of the rules keep speaking about the row — and `required-field` passes it, because
+    the key is there. The registry's standing distinction is between an absent key and a
+    value; this is the case where the value itself has gone missing."""
+    cat["organizations"][1]["relations"] = None
 
 
 def _case_row_is_not_a_mapping(cat):
@@ -1898,6 +1983,8 @@ def _case_registry_emptied(cat):
 
 _CASES = [
     ("undeclared-field", _case_undeclared_field, "declared-field"),
+    ("relations-that-are-not-a-list", _case_relations_that_are_not_a_list,
+     "relation-shape"),
     ("relation-with-no-source", _case_relation_with_no_source, "relation-shape"),
     ("relation-with-no-kind", _case_relation_with_no_kind, "relation-shape"),
     ("relation-of-an-unrecorded-kind", _case_relation_of_an_unrecorded_kind,
@@ -1913,10 +2000,13 @@ _CASES = [
      _case_one_source_placing_a_body_under_a_parent_twice, "relation-unique"),
     ("relation-target-resolves-to-nothing", _case_relation_target_resolves_to_nothing,
      "relation-resolves"),
-    ("child-whose-relations-do-not-name-its-parent",
-     _case_child_whose_relations_do_not_name_its_parent, "relation-names-the-parent"),
+    ("parent-named-by-no-relation", _case_parent_named_by_no_relation,
+     "relation-names-the-parent"),
+    ("child-whose-index-relation-is-missing", _case_child_whose_index_relation_is_missing,
+     "index-relation-is-regenerated"),
     ("index-relation-the-index-could-not-have-stated",
-     _case_index_relation_the_index_could_not_have_stated, "relation-names-the-parent"),
+     _case_index_relation_the_index_could_not_have_stated,
+     "index-relation-is-regenerated"),
     ("relation-hand-edited-on-a-scraped-entry", _case_relation_hand_edited_on_a_scraped_entry,
      "survives-refresh"),
     ("registry-emptied", _case_registry_emptied, "registry-populated"),
@@ -2016,7 +2106,48 @@ _PROOFS = [
      dict(FIELDS, relations=Field(MANUAL_FLAG, required=True)), "survives-refresh"),
     ("relations-declared-scraped",
      dict(FIELDS, relations=Field(SCRAPED, required=True)), "relation-origin"),
+    # A MERGED FIELD THE CONSTRUCTOR DOES NOT WRITE, which is the other half of what
+    # `scraped-field` now states. The refresh does not own everything such a field holds,
+    # but it does rebuild the entries it owns — so a MERGED field `scraped_entry()` never
+    # produces is one --refresh drops IN FULL, curated entries and all, and the survival
+    # comparison would report that as a curated field nothing preserves rather than as the
+    # declaration it is. The name is MADE UP for the reason the undeclared-field case gives:
+    # any real field is one FIELDS may legitimately declare tomorrow, and the proof would
+    # stop proving anything the day it did.
+    ("merged-field-the-scrape-does-not-write",
+     dict(FIELDS, coalition=Field(MERGED, required=False)), "scraped-field"),
 ]
+
+
+def _proof_the_merge_is_what_carries_a_curated_relation() -> int:
+    """A curated relation survives a refresh, and survives it BECAUSE preserve_relations()
+    carries it — the merge watched working and watched failing, on the same fixture.
+
+    The declaration proofs above state that `relations` may not be declared as a
+    single-origin field; this states what the merge itself does, which is the other half.
+    Without it the curated entry is gone and the rebuilt row still looks entirely healthy:
+    it carries the key, the key holds a list, and the list holds the OAR index's placement.
+    That is what the loss looks like from the outside, and it is why the survival comparison
+    runs per ENTRY — a whole-field comparison sees a field that is present either way."""
+    rows = _fixture()["organizations"]
+    curated = {"target": "department-of-administrative-services", "source": "statute",
+               "kind": "administered_by", "authority": "ORS 999.998"}
+    survived = simulate_refresh(rows)["chief-financial-office"][RELATION_KEY]
+    dropped = simulate_refresh(rows, merged_keys=frozenset())["chief-financial-office"]
+    bad = 0
+    if curated not in survived:
+        print(f"FAIL merge-carries-a-curated-relation: {survived!r}", file=sys.stderr)
+        bad += 1
+    if curated in dropped[RELATION_KEY]:
+        print("FAIL merge-is-what-carries-it: the entry survived with the merge switched "
+              f"off, so this proves nothing about it ({dropped[RELATION_KEY]!r})",
+              file=sys.stderr)
+        bad += 1
+    if index_relation("department-of-administrative-services") not in dropped[RELATION_KEY]:
+        print("FAIL a-dropped-curated-relation-leaves-a-healthy-looking-row: the row lost "
+              f"more than the curated entry ({dropped[RELATION_KEY]!r})", file=sys.stderr)
+        bad += 1
+    return bad
 
 
 def _proof_the_relation_census_counts_every_kind() -> int:
@@ -2206,6 +2337,7 @@ def selftest() -> int:
             bad += 1
     bad += _proof_refresh_rejects_an_undeclared_scraped_field()
     bad += _proof_the_relation_census_counts_every_kind()
+    bad += _proof_the_merge_is_what_carries_a_curated_relation()
     resolutions = 0
     for proof in (_proof_search_spans_every_name_a_body_is_known_by,
                   _proof_a_promoted_name_loses_no_resolution):
@@ -2221,7 +2353,7 @@ def selftest() -> int:
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
             bad += 1
-    print(f"{len(_CASES) + len(_PROOFS) + 2} violation(s) demonstrated failing, "
+    print(f"{len(_CASES) + len(_PROOFS) + 3} violation(s) demonstrated failing, "
           f"{resolutions} name resolution(s) proven"
           if not bad else f"{bad} rule(s) did not fire")
     return 1 if bad else 0

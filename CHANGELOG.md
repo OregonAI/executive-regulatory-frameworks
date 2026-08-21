@@ -31,10 +31,14 @@ corpus-wide changes from 2026-08-02 forward.
   the per-field origins could only be wrong about half of what the field holds, and
   declaring it SCRAPED would drop curated entries behind a rule that passed, which is #178
   (`note`, two origins, no way to tell them apart, a hand-written note destroyed by a
-  refresh with nothing to report it). Six new rules of the registry's contract —
+  refresh with nothing to report it). The source is never claimed falsely: the registry's
+  one manual child — `oregon-health-authority-equity-and-inclusion-division`, a body the
+  rules index does not carry — records `source: registry`, because the index placed it
+  nowhere and no refresh can rebuild the entry. Six new rules of the registry's contract —
   `relation-shape`, `relation-unique`, `relation-resolves`, `relation-names-the-parent`,
-  `relation-origin`, and the survival comparison now run per ENTRY for a merged field —
-  each demonstrated failing in `--selftest`, which grew from 28 demonstrations to 44.
+  `index-relation-is-regenerated`, `relation-origin`, and the survival comparison now run
+  per ENTRY for a merged field — each demonstrated failing in `--selftest`, which grew from
+  28 demonstrations to 48.
   Landed by `src/expand_relations.py` (re-runnable, idempotent: a second run writes
   byte-identical output and never re-derives a list that may hold curation). `parent_slug`
   is unchanged on every row and no consumer changes.

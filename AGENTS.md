@@ -353,8 +353,9 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   Every row also carries `relations` (CONTEXT.md), landed by `src/expand_relations.py`
   (re-runnable, idempotent) and written from then on by `--refresh`: each entry names the
   body this one is under, the source whose evidence places it there (`oar-index`,
-  `statute`, `das`), a kind, and — where one has been established — the authority (ADR
-  0004). It sits BESIDE `parent_slug`, which is unchanged until #174 retires it, and the
+  `statute`, `das`, or `registry` for a placement this registry recorded by hand — the one
+  manual child, whose body the rules index does not carry), a kind, and — where one has
+  been established — the authority (ADR 0004). It sits BESIDE `parent_slug`, which is unchanged until #174 retires it, and the
   two must agree. THE KIND IS `undetermined` ON EVERY ROW and is never guessed: deciding
   between *part of* and *administered by* needs evidence the registry does not carry yet
   (#173), so `--check` REPORTS the census — kinds and sources, zeroes included — on every

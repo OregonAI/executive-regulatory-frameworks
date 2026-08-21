@@ -1543,7 +1543,7 @@ organizations:
   parent_chapter: '943'
   relations:
   - target: oregon-health-authority
-    source: oar-index
+    source: registry
     kind: undetermined
   parent_slug: oregon-health-authority
   raw_index_name: null

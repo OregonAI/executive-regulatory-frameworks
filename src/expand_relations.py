@@ -54,33 +54,35 @@ import sys
 
 import yaml
 
-from catalog_agencies import CATALOG, RELATION_KEY, index_relation
+from catalog_agencies import CATALOG, RELATION_KEY, relations_from_parent
 
 # The key the new one lands after, so `relations` is printed beside the pointer it stands
 # next to rather than at the end of the row — and so this file is byte-identical to the one
 # a later --refresh writes, whose `scraped_entry()` puts it in exactly that place. A row
-# that does not carry the key is reported rather than guessed at (see `classify`).
+# that does not carry this key is BLOCKED rather than given the new one at the end (see
+# `classify`): the placement would be right and the file would no longer be the one a
+# refresh writes, which is a difference no reader sees and every comparison does.
 AFTER_KEY = "parent_chapter"
 
 
 def expanded(org: dict) -> dict:
     """One row with `relations` beside `parent_slug`, or unchanged if it already has some.
 
-    Rebuilt key by key rather than assigned into, for the placement above. A row whose
-    parent is null gets an EMPTY LIST: `[]` says this registry places the body under no
-    other, which is what `parent_slug: null` says beside it, while an absent key would say
-    nobody asked — the distinction the registry keeps everywhere else (CONTEXT.md)."""
+    Rebuilt key by key rather than assigned into, for the placement above. WHAT the relation
+    says is `relations_from_parent()`'s answer and not this script's: the source of a
+    placement depends on who is in a position to state it — the OAR index for a row the
+    scrape produces, this registry itself for a `manual` row the index does not carry — and
+    a second copy of that rule here is a second copy that can disagree with what --refresh
+    writes. A row whose parent is null gets an EMPTY LIST: `[]` says this registry places
+    the body under no other, which is what `parent_slug: null` says beside it, while an
+    absent key would say nobody asked (CONTEXT.md)."""
     if RELATION_KEY in org:
         return org
-    parent_slug = org.get("parent_slug")
-    relations = [index_relation(parent_slug)] if parent_slug else []
     out = {}
     for key, value in org.items():
         out[key] = value
         if key == AFTER_KEY:
-            out[RELATION_KEY] = relations
-    if RELATION_KEY not in out:
-        out[RELATION_KEY] = relations
+            out[RELATION_KEY] = relations_from_parent(org)
     return out
 
 
@@ -95,8 +97,11 @@ def classify(orgs: list):
     a filter for rows lacking the key. A row with no `parent_slug` KEY has nothing to derive
     a relation from, and writing `[]` for it would publish "this body is under nothing" on
     the strength of a key nobody wrote — "could not check" reported as "is not there", which
-    is the one substitution this repository never permits. Such a row is REPORTED under its
-    own reason and is not counted among the rows that came out clean, and NOTHING is written
+    is the one substitution this repository never permits. A row with no `parent_chapter` is
+    blocked for a smaller reason honestly stated: there is nowhere to put the new key that
+    matches what --refresh writes, and appending it elsewhere would quietly break the one
+    claim this script makes about the file it produces. Both are REPORTED under their own
+    reason and neither is counted among the rows that came out clean, and NOTHING is written
     while one exists: a half-migrated registry is one where the population a consumer sees
     depends on which rows happened to be readable.
     """
@@ -109,8 +114,11 @@ def classify(orgs: list):
         if RELATION_KEY in org:
             carries.append(row)
         elif "parent_slug" not in org:
-            blocked.append((row, "no `parent_slug` to derive the OAR index's relation from "
-                                 "— an absent key is not a body placed under nothing"))
+            blocked.append((row, "no `parent_slug` to derive the relation from — an absent "
+                                 "key is not a body placed under nothing"))
+        elif AFTER_KEY not in org:
+            blocked.append((row, f"no `{AFTER_KEY}` for the new key to land after, so the "
+                                 "row this would write is not the row a --refresh writes"))
         elif org["parent_slug"] is None:
             unattached.append(row)
         elif isinstance(org["parent_slug"], str) and org["parent_slug"].strip():
@@ -138,9 +146,9 @@ def main() -> int:
     # writes is byte-identical to the one a later --refresh would write, minus the values.
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
     print(f"wrote relations onto {len(children) + len(unattached)} of {len(orgs)} "
-          f"organizations ({len(children)} naming the parent the OAR index gives them, kind "
-          f"undetermined on every one; {len(unattached)} placed under nothing; "
-          f"{len(carries)} already carried relations)")
+          f"organizations: {len(children)} naming the parent their pointer already gives "
+          f"them, every kind undetermined, and {len(unattached)} placed under nothing "
+          f"({len(carries)} already carried relations)")
     return 0
 
 
