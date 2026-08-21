@@ -72,8 +72,13 @@ corpus-wide changes from 2026-08-02 forward.
   runs through the `or-const` citation scheme, the same code path `resolve_citation` serves to
   an agent, so the gate and the answer an agent gets cannot disagree; an empty `constitution/`
   makes the gate REFUSE TO ANSWER rather than report every constitutional authority as citing
-  nothing (CONTEXT.md), and that refusal is proved failing rather than asserted. `--selftest`
-  holds 19 demonstrated-failing proofs, five of them constitutional citations that must fire
+  nothing (CONTEXT.md) — the mirror is read as well as the catalog for exactly that reason,
+  since an empty directory would otherwise report every constitutional authority as RESOLVED
+  against documents that are not there — and that refusal is proved failing rather than
+  asserted. A seventh answer guards the resolver as a PUBLIC function: `--check` classifies
+  the form first and cannot reach it, but answering "it resolves" about a string nothing
+  recognised is the one thing a gate on admitting evidence may never say. `--selftest` holds
+  20 demonstrated-failing proofs, five of them constitutional citations that must fire
   `authority-resolves` and one that no two of the five answers are the same string.
   **NO AUTHORITY IS RECORDED**: `MAPPED` and `UNMAPPED` are untouched, all 189 rows still read
   "nobody has looked yet", and the ~9 bodies whose authority is a constitutional article stay

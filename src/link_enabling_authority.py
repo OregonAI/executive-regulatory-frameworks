@@ -85,7 +85,8 @@ since #196 a section of the Oregon Constitution. The constitutional form was the
 taken on form alone, which mattered because an enabling authority is admitting evidence: a
 class of it nothing could check meant `Or. Const. Art. XVII, sec. 99` admitted a body, and
 Article XVII has two sections. `constitutional_resolver` is the half of that worth reading —
-resolving to nothing is FIVE different findings and a reviewer has to be told which.
+resolving to nothing is FIVE different findings about the Constitution and two more about
+this corpus, and a reviewer has to be told which.
 
 THE THREE STATES, and the reason MAPPED and UNMAPPED are both explicit. A row carrying
 `ORS 576.062` has an authority; a row carrying `none: <reason>` was looked at and has none;
@@ -356,6 +357,19 @@ def propose() -> int:
                  "produced; none has been read. Set `verdict` to `accept`, or to a "
                  "different ORS citation, or to a reason it cannot be mapped — then move "
                  "the row into MAPPED or UNMAPPED in src/link_enabling_authority.py. "
+                 "A VERDICT NEED NOT BE AN ORS CITATION. This matcher only reads the "
+                 "mirrored ORS, so a body created by the Oregon Constitution or by an "
+                 "executive order reaches `no_candidate` below with nothing against it — "
+                 "which is a statement about the matcher and not about the body. About "
+                 "nine of them are constitutional offices (ADR 0005): the Office of the "
+                 "Governor, the Secretary of State, the Oregon State Treasury, the "
+                 "Judicial Department, District Attorneys and Deputies, the Legislative "
+                 "Assembly. Since #196 a constitutional authority is CHECKABLE — "
+                 "`Or. Const. Art. VI, sec. 1` is resolved against the mirrored "
+                 "Constitution by --check exactly as an ORS citation is resolved against "
+                 "the mirrored statutes, and a wrong article or section fails the build "
+                 "with the reason it failed — so recording one is review whose output is "
+                 "verified rather than taken on faith. "
                  "Tier 1 means the section's catchline subject IS this body AND the "
                  "section says it is created or established. Tier 2 means the catchline "
                  "merely contains the name, or names it in a later clause. Tier 3 means "
@@ -417,7 +431,7 @@ def resolvable_citations() -> set[str]:
     THE CONSTITUTION IS NOT IN HERE, and since #196 that is a statement about the SHAPE of
     the answer rather than about coverage. An ORS citation either names a mirrored section
     or it does not, and a set says so. A constitutional citation that names nothing has
-    FOUR different things it can mean (see `constitutional_resolver`), and a set can only
+    SEVEN different things it can mean (see `constitutional_resolver`), and a set can only
     ever say "absent" — which is precisely the collapse ADR 0005 refuses. So the
     constitutional form is resolved by a function that can answer with a reason, and the
     other two by membership.
@@ -425,7 +439,7 @@ def resolvable_citations() -> set[str]:
     return {c for c, _t, _s, _b, _m in _statute_sections()} | _executive_order_citations()
 
 
-def _mirrored_constitution(root=None) -> set[str]:
+def published_constitutional_sections(root=None) -> set[str]:
     """The document id of every constitutional section this corpus has PUBLISHED, read from
     the mirror on disk.
 
@@ -444,31 +458,38 @@ def _mirrored_constitution(root=None) -> set[str]:
     return out
 
 
-def constitutional_resolver(root=None):
+def constitutional_resolver(published):
     """Build the function that resolves one constitutional authority: it returns None when
-    the citation names a mirrored section, and WHY IT DOES NOT otherwise.
+    the citation names a mirrored section, and WHY IT DOES NOT otherwise. `published` is the
+    set `published_constitutional_sections` reads.
 
-    A REASON RATHER THAN A BOOLEAN, because "it resolved to nothing" is four different
-    findings and a registry reader has to be able to tell them apart (ADR 0005, #195):
+    A REASON RATHER THAN A BOOLEAN, because "it resolved to nothing" is SEVEN different
+    findings and a registry reader has to be able to tell them apart. FIVE OF THEM ARE ABOUT
+    THE CONSTITUTION (ADR 0005, #195), and the citation scheme is what tells them apart:
 
       * the source page prints no such article        — the citation is wrong
       * the article is printed and carries no sections — a repealed article, `no-sections`
       * the page prints no such section in it          — the citation is wrong, differently
       * the page prints the section and this corpus did not publish it — `history-only`, a
         repealed section printed as a leadline and a repeal bracket
+      * the numeral names TWO operative articles, and this is NOT A FAILURE TO RESOLVE. A
+        bare `Or. Const. Art. VII, sec. 1` names a numeral the page prints TWICE, as
+        (Amended) and (Original). Resolving it would be a coin flip between articles with
+        different text, so it resolves to nothing and says which two citations to choose
+        between. A registry row may not carry it — not because the citation is wrong, but
+        because it is not yet a citation to one article, and admitting evidence has to name
+        the thing that admits.
 
     A row citing a repealed section and a row citing a section that never existed are
     different errors, and a reader who cannot tell which has been told the citation is bad
     and nothing else. THE CATALOG IS WHAT SAYS WHICH — `_meta/catalog/constitution.yml`
-    records a status and a reason per article and per section — so none of this is inferred
-    from a file being missing.
+    records a status and a reason per article and per section — so none of the five is
+    inferred from a file being missing.
 
-    A FIFTH ANSWER IS NOT A FAILURE TO RESOLVE, and it is kept as one on purpose: a bare
-    `Or. Const. Art. VII, sec. 1` names a numeral the page prints TWICE, as (Amended) and
-    (Original), and both are operative. Resolving it would be a coin flip between articles
-    with different text, so it resolves to nothing and says so. A registry row may not carry
-    it — not because the citation is wrong, but because it is not yet a citation to one
-    article, and admitting evidence has to name the thing that admits.
+    THE OTHER TWO ARE ABOUT THIS CORPUS AND ARE WORDED SO, because a reviewer sent back to
+    re-read the Constitution over a missing file has been told the wrong thing: the catalog
+    recording a section as published while `constitution/` does not carry it, and a string
+    the scheme does not recognise as a constitutional citation at all.
 
     IT RESOLVES THROUGH THE `or-const` CITATION SCHEME, which is the same code path
     `resolve_citation` serves to an agent. Restating the lookup here would be the third
@@ -477,29 +498,35 @@ def constitutional_resolver(root=None):
     every other path through this file has no use for.
     """
     from citation_schemes import resolve as resolve_or_const
-    published = _mirrored_constitution(root)
 
-    def resolve(authority: str) -> str | None:
+    def unresolved_reason(authority: str) -> str | None:
         ids, note = resolve_or_const(authority)
         if ids is None:
-            # Unreachable through `--check`, which classifies the form first. Kept because
-            # this function is callable on its own and a silent None would read as "fine".
-            return ("the or-const citation scheme does not recognise it, so there is "
-                    "nothing to resolve against the mirror")
+            # `--check` classifies the form first and cannot reach this, because
+            # `AUTHORITY_FORMS` and the scheme are built from one token and gated at zero
+            # disagreements (#195). This function is PUBLIC, though, and answering None for
+            # a string it never recognised would say "resolved" about something it did not
+            # look at — the one answer a gate on admitting evidence may never give. Proved
+            # failing in `_proof_a_citation_the_scheme_refuses_is_not_called_resolved`.
+            return ("the or-const citation scheme does not recognise it as a constitutional "
+                    "citation, so there is nothing to resolve against the mirror")
         if not ids:
             return note or "it names no section of the mirrored Constitution"
         absent = sorted(i for i in ids if i not in published)
         if absent:
-            # The catalog and the mirror disagreeing is a THIRD kind of finding, and it is
-            # this corpus's fault rather than the citation's. `ingest_constitution.py
-            # --check` owns that gate; this one refuses to call the row resolved meanwhile.
+            # WHY THE MIRROR IS READ AT ALL when the catalog already says what is published:
+            # without it, an empty `constitution/` would report every constitutional
+            # authority as RESOLVED against documents that are not there, which is the worse
+            # half of CONTEXT.md's rule and the one nothing else here would catch.
+            # `ingest_constitution.py --check` owns the catalog-versus-disk gate; this one
+            # declines to call the row resolved while that gate is failing.
             return (f"the Constitution catalog records it as published and "
                     f"{', '.join(f'constitution/{i}.md' for i in absent)} is not on disk. "
                     "That is a gap in this corpus, not a wrong citation — run "
                     "`python3 src/ingest_constitution.py --check`")
         return None
 
-    return resolve
+    return unresolved_reason
 
 
 def reviewed(mapped=None, unmapped=None) -> dict[str, str]:
@@ -517,17 +544,18 @@ def reviewed(mapped=None, unmapped=None) -> dict[str, str]:
     return out
 
 
-def audit_table(orgs, mapped, unmapped, citations, resolve_constitution) -> list[Problem]:
+def audit_table(orgs, mapped, unmapped, citations, why_unresolved) -> list[Problem]:
     """Everything wrong with the reviewed tables themselves, as Problems.
 
     Separate from `audit_registry` below because `--apply` must run this one and not that
     one: the registry disagreeing with the table is precisely what --apply is for, while a
     bad row in the TABLE is a thing that must never be written to the registry at all.
 
-    `resolve_constitution` HAS NO DEFAULT on purpose. A default would let a caller resolve
-    the ORS and executive-order forms and take the constitutional one on faith without
-    writing a line that says so — which is the state #196 exists to leave, and it would look
-    exactly like a clean run.
+    `why_unresolved` is `constitutional_resolver`'s function: it takes a constitutional
+    citation and returns None, or the reason it names no mirrored section. IT HAS NO DEFAULT
+    on purpose. A default would let a caller resolve the ORS and executive-order forms and
+    take the constitutional one on faith without writing a line that says so — which is the
+    state #196 exists to leave, and it would look exactly like a clean run.
     """
     by_slug = {o["slug"]: o for o in orgs if isinstance(o, dict) and o.get("slug")}
     problems = []
@@ -555,9 +583,9 @@ def audit_table(orgs, mapped, unmapped, citations, resolve_constitution) -> list
         elif form == "constitution":
             # THE THIRD FORM RESOLVES TOO, since #196. It is checked here rather than by
             # membership of `citations` because a constitutional citation that names nothing
-            # has four meanings and the resolver is the only thing that can say which — see
+            # has seven meanings and the resolver is the only thing that can say which — see
             # `constitutional_resolver`. Same rule, same failure, a longer answer.
-            why = resolve_constitution(authority)
+            why = why_unresolved(authority)
             if why:
                 problems.append(Problem(
                     "authority-resolves", slug,
@@ -655,7 +683,7 @@ def cmd_apply() -> int:
     cat = yaml.safe_load(CATALOG.read_text())
     orgs = cat["organizations"]
     problems = audit_table(orgs, MAPPED, UNMAPPED, resolvable_citations(),
-                           constitutional_resolver())
+                           constitutional_resolver(published_constitutional_sections()))
     if problems:
         print("refusing to write: the reviewed table does not match the corpus",
               file=sys.stderr)
@@ -679,7 +707,11 @@ def check() -> int:
     """Verify the reviewed table AND the registry it writes, from committed data alone."""
     orgs = yaml.safe_load(CATALOG.read_text())["organizations"]
     citations = resolvable_citations()
-    problems = (audit_table(orgs, MAPPED, UNMAPPED, citations, constitutional_resolver())
+    # READ ONCE, and reported from the same read. The count in the report below is the
+    # population the rule above resolved against, not a second scan that could differ.
+    published = published_constitutional_sections()
+    problems = (audit_table(orgs, MAPPED, UNMAPPED, citations,
+                            constitutional_resolver(published))
                 + audit_registry(orgs, MAPPED, UNMAPPED))
     if problems:
         print("enabling-authority table does not match the corpus:", file=sys.stderr)
@@ -702,8 +734,8 @@ def check() -> int:
           f"{forms['executive-order']} executive order(s), "
           f"{forms['constitution']} constitutional")
     print(f"  nothing is form-checked and left unresolved: a constitutional authority is "
-          f"resolved against the {len(_mirrored_constitution())} mirrored sections of the "
-          f"Oregon Constitution (#196), the same way an ORS citation is.")
+          f"resolved against the {len(published)} mirrored sections of the Oregon "
+          f"Constitution (#196), the same way an ORS citation is.")
     return 0
 
 
@@ -755,10 +787,11 @@ def _fixture():
     # `citation_schemes`, reading the committed catalog — and a synthetic stand-in for it
     # would be a second implementation of the thing under proof, which is how a proof
     # starts passing for the wrong reason. Still no network and still no read of the
-    # committed registry; the mirror it reads is 341 committed files and one catalog.
+    # committed registry; what it reads is one catalog and the 339 committed section
+    # documents.
     return {"mapped": mapped, "unmapped": unmapped, "orgs": orgs,
             "citations": {"ORS 999.999", "Executive Order 99-99"},
-            "resolve_constitution": constitutional_resolver()}
+            "why_unresolved": constitutional_resolver(published_constitutional_sections())}
 
 
 def _set(f, slug, authority):
@@ -773,7 +806,7 @@ def _set(f, slug, authority):
 
 def _audit(f) -> list[Problem]:
     return (audit_table(f["orgs"], f["mapped"], f["unmapped"], f["citations"],
-                        f["resolve_constitution"])
+                        f["why_unresolved"])
             + audit_registry(f["orgs"], f["mapped"], f["unmapped"]))
 
 
@@ -936,6 +969,14 @@ _CASES = [
 # above passing. Each row is a citation, a phrase its answer MUST carry, and a phrase it must
 # NOT — the second half is what stops a message from being made vaguer until it fits
 # everything.
+#
+# THE PHRASES ARE AUTHORED IN `citation_schemes._resolve_or_const`, which is where the five
+# answers are written, so rewording one there fails this proof. That is the intended
+# coupling and not an accident of matching prose: `citation_schemes._selftest` asserts on
+# the same phrases from the other side, and a message may not stop distinguishing what it
+# distinguishes without a gate noticing. The distinctness check below is the half that does
+# NOT depend on the wording — it fails on any two answers being the same string, whatever
+# they say.
 _KINDS_OF_NOTHING = [
     ("Or. Const. Art. XVII, sec. 99", "prints no section 99", "not published"),
     ("Or. Const. Art. XX, sec. 1", "prints no Article XX", "not published"),
@@ -952,10 +993,10 @@ def _proof_the_kinds_of_nothing_are_told_apart() -> int:
     is where they matter most, because an enabling authority is ADMITTING evidence and
     withdrawing it for the wrong reason sends a reviewer to re-read the wrong document.
     """
-    resolve = constitutional_resolver()
+    why_unresolved = constitutional_resolver(published_constitutional_sections())
     bad, seen = 0, {}
     for citation, must, must_not in _KINDS_OF_NOTHING:
-        why = resolve(citation)
+        why = why_unresolved(citation)
         if why is None:
             print(f"FAIL kinds-of-nothing: {citation} resolved to a mirrored section",
                   file=sys.stderr)
@@ -987,39 +1028,57 @@ def _proof_an_unreadable_mirror_is_not_an_absent_one() -> int:
     """
     with tempfile.TemporaryDirectory() as empty:
         try:
-            constitutional_resolver(pathlib.Path(empty))
+            published_constitutional_sections(pathlib.Path(empty))
         except SystemExit as exit_:
             if "refusing" in str(exit_):
                 return 0
             print(f"FAIL unreadable-mirror-is-not-an-absent-one: exited with {exit_!s}",
                   file=sys.stderr)
             return 1
-    print("FAIL unreadable-mirror-is-not-an-absent-one: an empty constitution/ produced a "
-          "resolver, which reports every constitutional authority as citing nothing",
-          file=sys.stderr)
+    print("FAIL unreadable-mirror-is-not-an-absent-one: an empty constitution/ was read as a "
+          "mirror, so every constitutional authority resolves against documents that are "
+          "not there", file=sys.stderr)
     return 1
 
 
 def _proof_a_catalogued_section_with_no_document_is_not_resolved() -> int:
     """The catalog saying a section is published and `constitution/` not carrying it. It is
-    the one unresolved answer that is a statement about THIS CORPUS rather than about the
-    Constitution, and it must not be worded like the four that are — a reviewer sent to
-    re-read Article XVII because a file is missing has been told the wrong thing.
+    an answer about THIS CORPUS rather than about the Constitution, and it must not be
+    worded like the five that are — a reviewer sent to re-read Article XVII because a file
+    is missing has been told the wrong thing.
 
     Proved against a mirror holding one document, because no committed state can produce it:
     `ingest_constitution.py --check` is the gate that keeps the catalog and the directory in
     agreement, and this proof exists for the window in which that gate is failing.
     """
-    with tempfile.TemporaryDirectory() as root:
-        thin = pathlib.Path(root)
-        (thin / "orconst-art-i-sec-1.md").write_text("")
-        why = constitutional_resolver(thin)("Or. Const. Art. XVII, sec. 1")
+    why = constitutional_resolver({"orconst-art-i-sec-1"})("Or. Const. Art. XVII, sec. 1")
     if why and "is not on disk" in why and "ingest_constitution.py --check" in why:
         return 0
     print("FAIL catalogued-section-with-no-document-is-not-resolved: a section the catalog "
           f"records as published and the mirror does not carry was answered with {why!r}",
           file=sys.stderr)
     return 1
+
+
+def _proof_a_citation_the_scheme_refuses_is_not_called_resolved() -> int:
+    """A string that is not a constitutional citation at all. `--check` classifies the form
+    before it gets here, so this is the guard for the function being PUBLIC: answering None
+    means "it resolves", and saying that about a string nothing looked at is the one answer
+    a gate on admitting evidence may never give (CONTEXT.md — "could not check" is never
+    "is not there", and its mirror image is just as false).
+
+    `ORS 183.310` is the sharpest case, because it is a real citation to a real section of
+    something else.
+    """
+    why_unresolved = constitutional_resolver(published_constitutional_sections())
+    bad = 0
+    for other in ("ORS 183.310", "Article VI, section 1", "U.S. Const. Art. VI, sec. 1", ""):
+        why = why_unresolved(other)
+        if why is None or "does not recognise it" not in why:
+            print(f"FAIL citation-the-scheme-refuses-is-not-called-resolved: {other!r} was "
+                  f"answered with {why!r}", file=sys.stderr)
+            bad += 1
+    return 1 if bad else 0
 
 
 def _proof_apply_writes_the_same_bytes_twice() -> int:
@@ -1051,7 +1110,8 @@ def _proof_apply_writes_the_same_bytes_twice() -> int:
 _PROOFS = [_proof_apply_writes_the_same_bytes_twice,
            _proof_the_kinds_of_nothing_are_told_apart,
            _proof_an_unreadable_mirror_is_not_an_absent_one,
-           _proof_a_catalogued_section_with_no_document_is_not_resolved]
+           _proof_a_catalogued_section_with_no_document_is_not_resolved,
+           _proof_a_citation_the_scheme_refuses_is_not_called_resolved]
 
 
 def selftest() -> int:

@@ -277,10 +277,16 @@ them are given the same answer:
 
 **The catalog says which, not the filesystem.** `_meta/catalog/constitution.yml` records a
 status and a reason per article and per section, so none of the five is inferred from a file
-being missing — which is also why a sixth answer exists: the catalog recording a section as
+being missing — which is also why a SIXTH answer exists: the catalog recording a section as
 published while `constitution/` does not carry it is a statement about THIS CORPUS, worded so
 a reviewer is not sent back to the Constitution, and it points at `ingest_constitution.py
---check`, whose gate that is.
+--check`, whose gate that is. The mirror is read as well as the catalog for one reason: an
+empty `constitution/` would otherwise report every constitutional authority as RESOLVED
+against documents that are not there, which is the worse half of CONTEXT.md's rule and the
+half nothing else here would catch. A SEVENTH answer is not reachable from a registry row at
+all — `AUTHORITY_FORMS` classifies the form first — and exists because the resolver is a
+public function: answering "it resolves" about a string it never recognised is the one thing
+a gate on admitting evidence may never say.
 
 **It resolves through the `or-const` citation scheme**, which is the code path
 `resolve_citation` serves to an agent — the gate and the answer an agent gets cannot disagree,
