@@ -356,10 +356,22 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   `statute`, `das`, or `registry` for a placement this registry recorded by hand — the one
   manual child, whose body the rules index does not carry), a kind, and — where one has
   been established — the authority (ADR 0004). It sits BESIDE `parent_slug`, which is unchanged until #174 retires it, and the
-  two must agree. THE KIND IS `undetermined` ON EVERY ROW and is never guessed: deciding
-  between *part of* and *administered by* needs evidence the registry does not carry yet
-  (#173), so `--check` REPORTS the census — kinds and sources, zeroes included — on every
-  run. A body may hold several relations, because the OAR index, DAS and statute may place
+  two must agree. THE KIND IS DERIVED AND NEVER GUESSED, by `python3
+  src/derive_relation_kinds.py --apply`, its single writer: 44 of the 81 record
+  `administered_by` and 37 record `undetermined`. Every derived kind also records the
+  `basis` it came from, which is NOT the same fact as the source — the source says who
+  places the body there, the basis says what settled the kind — and the two bases are
+  different strengths. All 44 rest on `proposed-enabling-authority`, a candidate in the
+  review sheet that NOBODY HAS READ, and upgrade to `reviewed-enabling-authority` when the
+  review lands (ADR 0004's amendment records that deviation). NO kind is derived from the
+  ABSENCE of a candidate: the 37 stay `undetermined` because a matcher finding nothing is a
+  statement about the matcher, and that list has already been wrong for 55 bodies. `--check`
+  REPORTS the census — kinds, sources and bases, zeroes included — on every run, refuses a
+  kind with no basis, an `administered_by` citing no authority, and a `part_of` row carrying
+  an enabling authority; `derive_relation_kinds.py --check` compares the registry with the
+  derivation in BOTH directions. A derived kind survives `--refresh` because `relations`
+  merges per KEY as well as per entry: the scrape rebuilds the placement and
+  `DECISION_KEYS` ride across onto it. A body may hold several relations, because the OAR index, DAS and statute may place
   it under different parents and ADR 0003 keeps that disagreement. The field is the first
   with a MIXED ORIGIN, declared `MERGED` rather than SCRAPED or CURATED: `--refresh`
   regenerates the `oar-index` entries from the index tree and `preserve_relations()`

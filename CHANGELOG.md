@@ -11,6 +11,44 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Added
+- 2026-08-21 — Relation KINDS on the agency registry, each recording what it was derived
+  from (#173): 44 of the 81 children now record `administered_by` and 37 record
+  `undetermined`. Every derived kind carries a new `basis` key, which is NOT the same fact as
+  `source` — the source says who places the body under that parent, the basis says what
+  settled which of ADR 0004's two kinds it is, and a relation the OAR index discovered can
+  have its kind decided by a statute. THE TWO BASES ARE DIFFERENT STRENGTHS AND ALL 44 REST
+  ON THE WEAKER ONE: `proposed-enabling-authority` means the kind was derived from a
+  candidate in `_meta/catalog/enabling-authority-review.yml` that NOBODY HAS READ, where
+  `reviewed-enabling-authority` means it was derived from the authority the row itself
+  carries. ADR 0004 derives the kind from ADMITTING evidence and an unreviewed candidate is a
+  proposal rather than evidence, so this deviates from that ADR as written and the ADR now
+  records the deviation and its reasoning: the split was worth shipping before the review of
+  126 candidates, and it is only defensible because the file says which strength each kind
+  rests on and upgrades visibly when the review lands. NO KIND IS DERIVED FROM THE ABSENCE OF
+  A CANDIDATE — the 37 stay `undetermined` because a matcher finding nothing is a statement
+  about the matcher, and that list has already been wrong for 55 bodies in one session
+  (118 → 95 → 82 → 63 as matcher gaps were closed), so 37 undetermined relations are the
+  answer rather than a gap. `part_of` is derived by nothing at all, and a reviewed
+  `none: <reason>` retires its row's proposal rather than becoming one. Written by ONE thing,
+  `python3 src/derive_relation_kinds.py --apply` — re-runnable and byte-identical on a second
+  run — whose `--check` compares the registry with the derivation in BOTH directions, so a
+  kind that arrived any other way, or a row whose candidate has been reviewed since the last
+  apply, is a red build. A derived kind lives on the relation whose kind it decides,
+  INCLUDING the `oar-index` entry `--refresh` regenerates: `relations` now merges per KEY as
+  well as per entry (`DECISION_KEYS`), so the scrape owns the placement and the derivation
+  owns the decision, and the decision is carried only onto a rebuilt entry naming the same
+  parent. Putting the kind on a second relation entry was rejected — a second entry is a
+  second PLACEMENT, and no statute, DAS register or hand-written note places these bodies
+  where the rules index does. Four new contract rules, each demonstrated failing in
+  `--selftest`: a kind with no basis, a basis this registry has no meaning for, a basis on a
+  relation that decided nothing, an `administered_by` citing no authority, and
+  `part-of-has-nothing-to-enable` for a row asserting both a *part of* relation and an
+  enabling authority of its own. `AUTHORITY_FORMS` was NOT widened: every one of the 44
+  candidates is a single ORS section, so the range form ADR 0004's eight semi-independent
+  boards are declared under (`ORS 182.456 to 182.472`) is still refused, and a candidate the
+  registry cannot record is REPORTED under `candidate-form` rather than left quietly
+  undetermined. `catalog_agencies.py --selftest` grew from 48 demonstrated failures to 54.
+
 - 2026-08-21 — `relations` on all 189 agency-registry rows (#171): every one of the 81
   children now carries a relation naming its parent, beside the `parent_slug` that still
   says the same thing (#174 retires the pointer). A relation records a `target` slug, the

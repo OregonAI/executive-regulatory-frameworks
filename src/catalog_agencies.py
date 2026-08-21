@@ -237,13 +237,69 @@ RELATION_SOURCES = {OAR_INDEX: SCRAPED, REGISTRY: CURATED, "statute": CURATED,
 # real and nobody has established which of the two it is. It is REPORTED as a count by
 # --check rather than defaulted away (`relation_census`).
 UNDETERMINED = "undetermined"
-RELATION_KINDS = (UNDETERMINED, "part_of", "administered_by")
+PART_OF, ADMINISTERED_BY = "part_of", "administered_by"
+RELATION_KINDS = (UNDETERMINED, PART_OF, ADMINISTERED_BY)
 
-# The keys one relation entry may carry. `authority` is OPTIONAL and is the only one that
-# is: ADR 0004 wants the citation ("a bare parent pointer states a hierarchy; a cited one
-# states a claim about Oregon law that a reader can check"), and no relation carries one
-# until #173, so requiring it would mean writing a citation nobody has reviewed.
-RELATION_KEYS = ("target", "source", "kind", "authority")
+# WHAT DECIDED THE KIND, WHICH IS NOT WHERE THE RELATION CAME FROM. `source` answers "who
+# places this body under that one" and `basis` answers "what settled which of ADR 0004's two
+# kinds it is" — two different facts about one entry, and #173 is where they come apart: a
+# relation the OAR INDEX discovered can have its kind decided by a STATUTE. Collapsing them
+# would mean either attributing a placement to a publisher that never made it, or attributing
+# a kind to one that cannot state it (ADR 0004 rejects inferring the relation from a chapter
+# assignment).
+#
+# THE TWO BASES ARE NOT THE SAME STRENGTH, and keeping them apart is the whole of #173. ADR
+# 0004 derives the kind from ADMITTING EVIDENCE, and the registry does not hold any yet: all
+# 189 `enabling_authority` keys are absent. What it holds is 126 PROPOSED candidates in
+# _meta/catalog/enabling-authority-review.yml, and link_enabling_authority.py is explicit
+# that "a row that was pattern-matched and not read belongs in the review sheet, not here".
+# So a kind derived from a proposal is a weaker claim than one derived from a reviewed
+# authority, and a reader must be able to tell them apart in the file — otherwise the
+# registry asserts a relationship on evidence it does not hold, which is what `manual: true`
+# was retired for (ADR 0003: an assertion records that someone decided, never what decided
+# it). ADR 0004 records this deviation and why it was taken.
+#
+#   proposed-enabling-authority   a candidate an automated matcher produced and NOBODY HAS
+#                                 READ. Evidence that a body is separately constituted, at
+#                                 the strength of a proposal — and the row upgrades visibly
+#                                 when the candidate is reviewed.
+#   reviewed-enabling-authority   the authority the registry row itself carries, written by
+#                                 link_enabling_authority.py from its hand-reviewed table.
+#                                 This is the basis ADR 0004 describes.
+#
+# ALLOWLIST, NOT BLOCKLIST, as everywhere else in this module. A basis this registry has no
+# meaning for is a provenance nobody can act on, and it is indistinguishable from a typo in
+# one that matters.
+PROPOSED_AUTHORITY = "proposed-enabling-authority"
+REVIEWED_AUTHORITY = "reviewed-enabling-authority"
+RELATION_BASES = (PROPOSED_AUTHORITY, REVIEWED_AUTHORITY)
+
+# The keys one relation entry may carry. `authority` and `basis` are the OPTIONAL two, and
+# they are optional in exactly one state: an `undetermined` relation, which records no
+# decision and so has nothing to cite and nothing to have decided it. Every OTHER kind
+# carries both — see `relation_fault()` for the rules and #173 for why a kind without a
+# basis is worse than no kind at all.
+RELATION_KEYS = ("target", "source", "kind", "basis", "authority")
+
+# THE KEYS THE SCRAPE DOES NOT OWN, ON THE ENTRY THE SCRAPE REGENERATES. This is where a
+# derived kind LIVES (#173), and the answer had to be worked out rather than assumed: the
+# relation whose kind is being decided is the one the OAR INDEX states, and --refresh
+# rewrites that entry from the index tree on every run, so a kind simply set on it is
+# destroyed unread — #178's shape, in a field that can tell its two origins apart.
+#
+# It is not solved by putting the kind on a second entry, because a second entry is a second
+# PLACEMENT: `source` says who places this body under that one, and no statute, DAS register
+# or hand-written note places the Appraiser Certification and Licensure Board under DCBS —
+# the rules index does. Recording one would attribute a placement to a source that never
+# made it, to carry a fact about the kind.
+#
+# So `relations` merges per KEY as well as per ENTRY. The scrape owns the PLACEMENT
+# (`target`, `source`); the derivation owns the DECISION, which is these three; and
+# preserve_relations() carries the decision onto the rebuilt entry that names the same
+# parent. `kind` is in the list even though the scrape writes it, because what the scrape
+# writes is `undetermined` — the absence of a decision, which is exactly what a carried
+# decision replaces.
+DECISION_KEYS = ("kind", "basis", "authority")
 
 
 def relations_from_parent(org) -> list:
@@ -319,6 +375,42 @@ def relation_fault(entry):
                 "one: it says the relation is real and which of ADR 0004's two kinds it is "
                 "has not been established, where an absent kind says nothing and lets a "
                 "consumer read it as either")
+    # A KIND RECORDS WHAT DECIDED IT (#173). The registry holds kinds derived from two
+    # different strengths of evidence — a PROPOSED enabling-authority candidate nobody has
+    # read, and a REVIEWED authority — and one that does not say which it came from is
+    # indistinguishable from the other, so a reader cannot tell a claim the registry stands
+    # behind from a claim it is only entertaining, and a review that lands upgrades nothing
+    # visible. `undetermined` is the one kind exempt, because it records no decision: there
+    # is nothing for a basis to be the basis OF.
+    if kind != UNDETERMINED and "basis" not in entry:
+        return (f"relation {entry!r} records kind {kind!r} and does not say what decided it "
+                f"— every kind but {UNDETERMINED!r} carries a `basis`, one of "
+                f"{sorted(RELATION_BASES)}, because a kind derived from an unreviewed "
+                "proposal and a kind derived from a reviewed authority are different claims "
+                "and must not read alike")
+    basis = entry.get("basis")
+    if "basis" in entry and basis not in RELATION_BASES:
+        return (f"basis {basis!r} is not one this registry records — expected one of "
+                f"{sorted(RELATION_BASES)}. The basis is the STRENGTH of the claim: a kind "
+                "derived from a candidate nobody has read is not the kind ADR 0004 derives "
+                "from admitting evidence, and a reader who cannot tell them apart is reading "
+                "a proposal as a finding")
+    if "basis" in entry and kind == UNDETERMINED:
+        return (f"relation {entry!r} records a basis and no kind — {UNDETERMINED!r} says "
+                "nobody has established which of ADR 0004's two kinds this is, so there is "
+                "no decision for a basis to be the basis of, and an entry carrying both says "
+                "one was taken while declining to say which")
+    # AN ADMINISTERED BODY IS ONE OREGON LAW SEPARATELY CONSTITUTES, so the relation says
+    # what law. ADR 0004: "Recording that the commodity commissions are administered by the
+    # Department of Agriculture is less useful than recording that ORS 576.066 is what makes
+    # that true... A bare parent pointer states a hierarchy; a cited one states a claim about
+    # Oregon law that a reader can check." Uncited, `administered_by` is that bare pointer
+    # with a stronger word on it. `part_of` is deliberately NOT held to this — it records
+    # that nothing separate constitutes the unit, so there is nothing separate to cite.
+    if kind == ADMINISTERED_BY and "authority" not in entry:
+        return (f"relation {entry!r} records {ADMINISTERED_BY!r} and cites no authority — "
+                "the kind says Oregon law constitutes this body separately from the one "
+                "that administers it, and a reader has nowhere to go and check that")
     if "authority" in entry:
         # THE SAME FORMS THE BODY'S OWN AUTHORITY TAKES, minus the reviewed absence. An
         # `enabling_authority` needs `none: <reason>` because the key is absent on a body
@@ -502,9 +594,20 @@ def relation_census(orgs) -> str:
     def tally(counts, allowed):
         named = list(allowed) + sorted(k for k in counts if k not in allowed)
         return ", ".join(f"{counts.get(k, 0)} {k}" for k in named)
+    # WHAT THE DECIDED KINDS REST ON, COUNTED APART FROM HOW MANY THERE ARE (#173). The
+    # registry holds kinds derived from a PROPOSED enabling-authority candidate nobody has
+    # read beside kinds derived from a REVIEWED authority, and those are not the same claim:
+    # ADR 0004 derives the kind from admitting evidence, and a proposal is not evidence. A
+    # census reporting only "44 administered_by" would present the weaker population as the
+    # stronger one on every run. Counted over the relations that RECORD a decision, so an
+    # entry with a decided kind and no basis shows up here as a basis this registry does not
+    # name — which is `relation-shape`'s failure, reported rather than absorbed.
+    bases = Counter(e.get("basis") for e in entries
+                    if e.get("kind") not in (None, UNDETERMINED))
     return (f"{len(entries)} relation(s) on {held_by} of {len(orgs)} bodies; kinds: "
             f"{tally(kinds, RELATION_KINDS)}; sources: "
-            f"{tally(sources, RELATION_SOURCES)}")
+            f"{tally(sources, RELATION_SOURCES)}; the {sum(bases.values())} decided kind(s) "
+            f"rest on: {tally(bases, RELATION_BASES)}")
 
 
 CURATED_KEYS = frozenset(k for k, f in FIELDS.items() if f.origin == CURATED)
@@ -722,6 +825,36 @@ def preserve_curated(prev_orgs, by_slug, curated_keys=None):
                 current[key] = o[key]
 
 
+def carry_decision(previous: dict, rebuilt: list) -> None:
+    """Copy the DECISION (DECISION_KEYS) off a relation entry the refresh has just
+    regenerated onto its rebuilt counterpart. Mutates the rebuilt entry.
+
+    THE HALF OF A REGENERATED ENTRY THE SCRAPE DOES NOT OWN. An `oar-index` entry is
+    rewritten from the index tree on every refresh, which is what lets an upstream re-filing
+    reach the registry — and the kind on it was decided by evidence the index never states
+    (#173, ADR 0004). Carrying the whole entry would freeze the placement; carrying none of
+    it destroys the kind; so the placement is rebuilt and the decision is carried.
+
+    THE PARENT MUST STILL MATCH. A decision records that THIS body, placed under THAT one, is
+    administered rather than composed. If the index has re-filed the body, the rebuilt entry
+    names a different parent, no counterpart matches, and the decision is dropped — which
+    `derive_relation_kinds.py --check` then reports as a registry that disagrees with the
+    derivation, a human's cue to re-run it. The alternative is a kind silently transferred to
+    a relation nobody derived it for.
+
+    An entry recording no decision carries nothing, so `undetermined` never overwrites
+    anything and this cannot un-decide a kind."""
+    if previous.get("kind") in (None, UNDETERMINED):
+        return
+    for entry in rebuilt:
+        if (isinstance(entry, dict) and entry.get("source") == previous.get("source")
+                and entry.get("target") == previous.get("target")):
+            for key in DECISION_KEYS:
+                if key in previous:
+                    entry[key] = previous[key]
+            return
+
+
 def preserve_relations(prev_orgs, by_slug, merged_keys=None):
     """Carry across the relations --refresh does not regenerate. Mutates the rebuilt rows.
 
@@ -757,7 +890,9 @@ def preserve_relations(prev_orgs, by_slug, merged_keys=None):
             kept = list(current.get(key) or [])
             for entry in (o.get(key) or []):
                 regenerated = isinstance(entry, dict) and entry.get("source") == OAR_INDEX
-                if not regenerated and entry not in kept:
+                if regenerated:
+                    carry_decision(entry, kept)
+                elif entry not in kept:
                     kept.append(entry)
             current[key] = kept
 
@@ -874,10 +1009,23 @@ def cmd_refresh():
                  "is recorded (ADR 0004): a target slug, the source whose evidence places "
                  "it there, a kind, and — where one has been established — the authority "
                  "that makes it true. It lands BESIDE parent_slug and replaces nothing "
-                 "yet. Every entry records kind: undetermined, because deciding between "
-                 "ADR 0004's *part of* and *administered by* needs evidence this registry "
-                 "does not carry yet; the kind is never guessed and the count of "
-                 "undetermined relations is reported by --check. A body may hold more than "
+                 "yet. A kind other than undetermined also records the BASIS it was derived "
+                 "from, which is a different fact from the source: the source says who "
+                 "places this body under that one, the basis says what settled which of ADR "
+                 "0004's two kinds it is, and a relation the OAR index discovered can have "
+                 "its kind decided by a statute. The two bases are not the same strength. "
+                 "proposed-enabling-authority means the kind was derived from a CANDIDATE in "
+                 "_meta/catalog/enabling-authority-review.yml that nobody has read — a "
+                 "proposal, not evidence — and the row upgrades to "
+                 "reviewed-enabling-authority when the review lands (ADR 0004 records this "
+                 "deviation and why it was taken). Only administered_by is derived: the "
+                 "absence of a candidate is never read as evidence that a body is part_of "
+                 "anything, so a relation nothing speaks to stays undetermined, which is the "
+                 "answer and not a gap. The kind is never guessed, and --check reports every "
+                 "kind, every source and every basis with its count on each run. Kinds are "
+                 "written by ONE thing, src/derive_relation_kinds.py, and carried across a "
+                 "--refresh per key: the scrape rebuilds the placement and the decision "
+                 "rides along. A body may hold more than "
                  "one relation, because the OAR index, DAS and statute may place it under "
                  "different parents and the disagreement is kept rather than reconciled "
                  "(ADR 0003). MIXED ORIGIN, which is why the field is neither scraped nor "
@@ -1441,6 +1589,37 @@ def check_registry(cat, fields=None) -> list:
                 "states it) if it is not the index's reading"))
 
 
+    # *PART OF* AND AN ENABLING AUTHORITY ARE OPPOSITE CLAIMS ABOUT ONE BODY. ADR 0004
+    # defines *part of* as the case where nothing separately constitutes the unit — "there is
+    # no statute constituting either, because there is no separate body to constitute" — and
+    # CONTEXT.md says it "has no enabling authority because there is nothing separate to
+    # enable". A row asserting both is a row whose kind was decided on evidence the row
+    # itself contradicts, and it is silent from either side: a consumer reading the relation
+    # sees internal structure, a consumer reading the field sees a body Oregon law created,
+    # and neither sees the other. Which of the two is wrong is a human's question; that the
+    # registry may not publish both is this rule's.
+    #
+    # A REVIEWED ABSENCE IS NOT THIS FAILURE. `none: <reason>` is precisely what a *part of*
+    # unit is expected to carry (ADR 0004 gives it as UNMAPPED's commonest legitimate
+    # reason), so the rule asks whether the value is an AUTHORITY rather than whether the key
+    # is present. An unreadable value is `enabling-authority-form`'s to report; a rule that
+    # fired on the same row would stop saying which of the two the row is about.
+    for i, o in rows:
+        if "enabling_authority" not in o:
+            continue
+        form, _detail = classify_authority(o["enabling_authority"])
+        if form is None or form == "reviewed-none":
+            continue
+        for entry in relation_entries(o):
+            if isinstance(entry, dict) and entry.get("kind") == PART_OF:
+                failures.append(Failure(
+                    "part-of-has-nothing-to-enable", _row_id(o, i),
+                    f"is recorded {PART_OF!r} under {entry.get('target')!r} and carries "
+                    f"enabling_authority {o['enabling_authority']!r} — *part of* says "
+                    "nothing separately constitutes this unit (ADR 0004), and an authority "
+                    "says Oregon law did; one of the two is wrong and the registry states "
+                    "both"))
+
     # EVERY BODY FINDABLE BY BOTH OF THE NAMES IT HAS, BEFORE AND AFTER `name` IS PROMOTED.
     # This is the search half of #187 stated over the whole registry rather than over a
     # fixture: for all 189 rows, the body must be among the hits when a reader searches the
@@ -1640,9 +1819,14 @@ def _fixture():
     # The citation is impossible on purpose, for the reason `enabling_authority` above
     # gives: this gate checks the FORM of an authority and resolves nothing, and a real
     # ORS section here would read as a verdict on a relation nobody has reviewed.
+    # THE BASIS IS THE OTHER HALF OF THE CURATED ENTRY (#173): `source` says a statute places
+    # this body under that one, `basis` says a reviewed authority is what settled the kind.
+    # The fixture carries the REVIEWED basis rather than the proposed one because the proposed
+    # basis is the deviation ADR 0004 records, and a fixture is not the place to normalise it.
     cfo["relations"] = [index_relation(das["slug"]),
                         {"target": das["slug"], "source": "statute",
-                         "kind": "administered_by", "authority": "ORS 999.998"}]
+                         "kind": ADMINISTERED_BY, "basis": REVIEWED_AUTHORITY,
+                         "authority": "ORS 999.998"}]
     gov = scraped_entry(name="Office of the Governor", oar_chapter=None,
                         raw_index_name=None, source_url=None)
     gov["manual"] = True
@@ -1790,6 +1974,59 @@ def _case_relation_of_an_unrecorded_kind(cat):
     cat["organizations"][1]["relations"][1]["kind"] = "supervised_by"
 
 
+def _case_relation_kind_with_no_basis(cat):
+    """A kind with nothing behind it. #173 derives kinds from evidence of two different
+    strengths — a PROPOSED enabling-authority candidate nobody has read, and a REVIEWED
+    authority — and a kind that does not say which it came from is indistinguishable from
+    the other, which is the failure `manual: true` was retired for (ADR 0003): an assertion
+    records that someone decided, never what decided it. `undetermined` is the one kind that
+    needs no basis, because it records no decision."""
+    del cat["organizations"][1]["relations"][1]["basis"]
+
+
+def _case_relation_basis_this_registry_has_no_meaning_for(cat):
+    """A basis nobody declared. The two #173 records differ in STRENGTH — an unreviewed
+    proposal against a reviewed authority — so the value is what a reader weighs the kind by,
+    and a third word published there is a weight nothing can read. Widening the allowlist is
+    a decision taken beside RELATION_BASES, which is what makes it deliberate."""
+    cat["organizations"][1]["relations"][1]["basis"] = "seemed-right"
+
+
+def _case_relation_basis_on_a_relation_that_decided_nothing(cat):
+    """A basis on an `undetermined` relation. `undetermined` says nobody has established
+    which of ADR 0004's two kinds this is, so there is no decision for a basis to be the
+    basis OF — and a row carrying both says a decision was made and declines to say what it
+    was. It is also what a half-finished derivation leaves behind, which is the state this
+    rule exists to refuse rather than to publish."""
+    cat["organizations"][1]["relations"][0]["basis"] = REVIEWED_AUTHORITY
+
+
+def _case_administered_by_citing_no_authority(cat):
+    """An `administered_by` relation with no citation. ADR 0004 is explicit about what the
+    citation buys and why the relation is worth encoding at all: "Recording that the commodity
+    commissions are administered by the Department of Agriculture is less useful than
+    recording that ORS 576.066 is what makes that true." Uncited, the kind is the bare parent
+    pointer again, with a stronger word on it — it asserts that Oregon law separately
+    constitutes this body and names nothing a reader can check. `part_of` is not held to this:
+    it records that there is nothing separate to cite."""
+    del cat["organizations"][1]["relations"][1]["authority"]
+
+
+def _case_part_of_body_that_carries_an_enabling_authority(cat):
+    """A unit recorded as *part of* its parent while carrying an authority of its own. The
+    two say opposite things: ADR 0004 defines *part of* as the case where "there is no
+    statute constituting either, because there is no separate body to constitute", and
+    CONTEXT.md says such a unit "has no enabling authority because there is nothing separate
+    to enable". A row holding both is one where the kind was decided on evidence the row
+    itself contradicts, and each consumer believes whichever field it read. A reviewed
+    `none: <reason>` is NOT this failure — that value is what a *part of* unit is expected to
+    carry."""
+    cat["organizations"][1]["relations"][1] = {
+        "target": cat["organizations"][0]["slug"], "source": "statute",
+        "kind": PART_OF, "basis": REVIEWED_AUTHORITY}
+    cat["organizations"][1]["enabling_authority"] = "ORS 999.999"
+
+
 def _case_relation_naming_no_body(cat):
     """A relation with no target. It records that somebody placed this body under something
     and loses the something — a hierarchy with one end, which reads as a relation to every
@@ -1894,15 +2131,24 @@ def _case_index_relation_the_index_could_not_have_stated(cat):
     gov["relations"] = [index_relation(das["slug"])]
 
 
-def _case_relation_hand_edited_on_a_scraped_entry(cat):
-    """A kind written by hand onto the entry the scrape regenerates. --refresh rebuilds an
-    `oar-index` entry from the index tree every time it runs, so the edit is gone on the
-    next one — and it is gone silently, which is #178 exactly: `note` holds the scrape's
-    writing and a human's with no way to tell them apart, and the human's is destroyed with
-    nothing to report it. Here the entry says which it is, so the loss is a red build. The
-    kind ADR 0004 would give this relation belongs on an entry with a source that states
-    the evidence for it (#173), not on the index's."""
-    cat["organizations"][1]["relations"][0]["kind"] = "part_of"
+def _case_authority_hand_edited_onto_a_scraped_entry(cat):
+    """A citation written by hand onto the entry the scrape regenerates, with no kind behind
+    it. --refresh rebuilds an `oar-index` entry from the index tree every time it runs, and
+    #173 carries exactly one thing across that rebuild: a DECISION (`DECISION_KEYS`, led by a
+    kind that is not `undetermined`). An authority attached to no decision is not one, so it
+    is destroyed on the next refresh — and it is destroyed silently, which is #178 exactly:
+    `note` holds the scrape's writing and a human's with no way to tell them apart, and the
+    human's goes with nothing to report it. Here the loss is a red build.
+
+    THIS CASE REPLACES `relation-hand-edited-on-a-scraped-entry`, which asserted that a KIND
+    on this entry could not survive a refresh. #173 decided the opposite and had to: the
+    relation whose kind is being decided is the one the index states, and the only other
+    place to put the kind is a second entry claiming a second placement no source made. The
+    guard that replaces it is stricter than the one it retires — a kind here needs a `basis`
+    (`relation-shape`), and derive_relation_kinds.py --check compares every decided kind
+    against the derivation in BOTH directions, so a hand-written one no derivation stands
+    behind is reported rather than merely overwritten."""
+    cat["organizations"][1]["relations"][0]["authority"] = "ORS 999.997"
 
 
 def _case_relations_that_are_not_a_list(cat):
@@ -1989,6 +2235,16 @@ _CASES = [
     ("relation-with-no-kind", _case_relation_with_no_kind, "relation-shape"),
     ("relation-of-an-unrecorded-kind", _case_relation_of_an_unrecorded_kind,
      "relation-shape"),
+    ("relation-kind-with-no-basis", _case_relation_kind_with_no_basis, "relation-shape"),
+    ("relation-basis-this-registry-has-no-meaning-for",
+     _case_relation_basis_this_registry_has_no_meaning_for, "relation-shape"),
+    ("relation-basis-on-a-relation-that-decided-nothing",
+     _case_relation_basis_on_a_relation_that_decided_nothing, "relation-shape"),
+    ("administered-by-citing-no-authority", _case_administered_by_citing_no_authority,
+     "relation-shape"),
+    ("part-of-body-that-carries-an-enabling-authority",
+     _case_part_of_body_that_carries_an_enabling_authority,
+     "part-of-has-nothing-to-enable"),
     ("relation-naming-no-body", _case_relation_naming_no_body, "relation-shape"),
     ("relation-carrying-an-undeclared-key", _case_relation_carrying_an_undeclared_key,
      "relation-shape"),
@@ -2007,8 +2263,8 @@ _CASES = [
     ("index-relation-the-index-could-not-have-stated",
      _case_index_relation_the_index_could_not_have_stated,
      "index-relation-is-regenerated"),
-    ("relation-hand-edited-on-a-scraped-entry", _case_relation_hand_edited_on_a_scraped_entry,
-     "survives-refresh"),
+    ("authority-hand-edited-onto-a-scraped-entry",
+     _case_authority_hand_edited_onto_a_scraped_entry, "survives-refresh"),
     ("registry-emptied", _case_registry_emptied, "registry-populated"),
     ("row-the-simulation-cannot-run-on", _case_row_the_simulation_cannot_run_on,
      "survives-refresh"),
@@ -2131,7 +2387,8 @@ def _proof_the_merge_is_what_carries_a_curated_relation() -> int:
     runs per ENTRY — a whole-field comparison sees a field that is present either way."""
     rows = _fixture()["organizations"]
     curated = {"target": "department-of-administrative-services", "source": "statute",
-               "kind": "administered_by", "authority": "ORS 999.998"}
+               "kind": ADMINISTERED_BY, "basis": REVIEWED_AUTHORITY,
+               "authority": "ORS 999.998"}
     survived = simulate_refresh(rows)["chief-financial-office"][RELATION_KEY]
     dropped = simulate_refresh(rows, merged_keys=frozenset())["chief-financial-office"]
     bad = 0
@@ -2150,6 +2407,54 @@ def _proof_the_merge_is_what_carries_a_curated_relation() -> int:
     return bad
 
 
+def _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry() -> int:
+    """A kind decided for the OAR index's own placement survives a refresh, and survives it
+    BECAUSE preserve_relations() carries it — watched working and watched failing on one
+    fixture, the pair `_proof_the_merge_is_what_carries_a_curated_relation` above makes for a
+    whole entry.
+
+    THIS IS WHERE A DERIVED KIND LIVES (#173). The relation whose kind is being decided is
+    the one the OAR index states, and --refresh rewrites that entry from the index tree every
+    time it runs — so the merge is per KEY as well as per entry: the scrape owns the
+    PLACEMENT (`target`, `source`) and the derivation owns the DECISION (`kind`, `basis`,
+    `authority`). Without this the derived kind is destroyed on the next refresh and the row
+    still looks healthy, which is #178's shape exactly.
+
+    AND IT IS NOT CARRIED ONTO A PLACEMENT THAT MOVED. A decision that this body is
+    separately constituted was recorded ABOUT a placement under one parent; if the index
+    re-files the body, the rebuilt entry names a different parent and the decision is dropped
+    rather than re-attached. That is a red build in derive_relation_kinds.py --check, which
+    is a human re-running the derivation, and the alternative is a kind silently transferred
+    to a relation nobody derived it for."""
+    rows = _fixture()["organizations"]
+    decided = dict(index_relation("department-of-administrative-services"),
+                   kind=ADMINISTERED_BY, basis=PROPOSED_AUTHORITY, authority="ORS 999.997")
+    rows[1][RELATION_KEY][0] = dict(decided)
+    bad = 0
+    survived = simulate_refresh(rows)["chief-financial-office"][RELATION_KEY]
+    if decided not in survived:
+        print(f"FAIL merge-carries-a-derived-kind: {survived!r}", file=sys.stderr)
+        bad += 1
+    dropped = simulate_refresh(rows, merged_keys=frozenset())["chief-financial-office"]
+    if decided in dropped[RELATION_KEY]:
+        print("FAIL merge-is-what-carries-the-kind: the decision survived with the merge "
+              f"switched off, so this proves nothing about it ({dropped[RELATION_KEY]!r})",
+              file=sys.stderr)
+        bad += 1
+    # THE PLACEMENT MOVED, so the decision recorded about the old one is not re-attached to
+    # the new one. `parent_slug` is what the simulation rebuilds the index entry from, so
+    # moving it is what an upstream re-filing looks like from in here.
+    moved = [dict(o) for o in rows]
+    moved[1] = dict(moved[1], parent_slug="office-of-the-governor", parent_chapter=None,
+                    relations=[dict(decided)])
+    got = simulate_refresh(moved)["chief-financial-office"][RELATION_KEY]
+    if any(e.get("kind") != UNDETERMINED for e in got):
+        print(f"FAIL a-derived-kind-does-not-follow-a-placement-that-moved: {got!r}",
+              file=sys.stderr)
+        bad += 1
+    return bad
+
+
 def _proof_the_relation_census_counts_every_kind() -> int:
     """The kind is UNDETERMINED on every relation this registry carries today, and #171
     requires that fact to be REPORTED rather than defaulted away. A census that printed only
@@ -2164,7 +2469,13 @@ def _proof_the_relation_census_counts_every_kind() -> int:
     census = relation_census(_fixture()["organizations"])
     expected = ["2 relation(s) on 1 of 3 bodies",
                 f"1 {UNDETERMINED}", "0 part_of", "1 administered_by",
-                f"1 {OAR_INDEX}", "1 statute", "0 das"]
+                f"1 {OAR_INDEX}", "1 statute", "0 das",
+                # AND WHAT THE DECIDED KINDS REST ON (#173). A kind derived from a candidate
+                # nobody has read is a weaker claim than one derived from a reviewed
+                # authority, and a census that reported only how many kinds are decided
+                # would report the two as one number — which is the substitution the basis
+                # exists to prevent, made by the gate that is supposed to surface it.
+                f"0 {PROPOSED_AUTHORITY}", f"1 {REVIEWED_AUTHORITY}"]
     missing = [x for x in expected if x not in census]
     if missing:
         print(f"FAIL relation-census-counts-every-kind: {census!r} does not report "
@@ -2338,6 +2649,7 @@ def selftest() -> int:
     bad += _proof_refresh_rejects_an_undeclared_scraped_field()
     bad += _proof_the_relation_census_counts_every_kind()
     bad += _proof_the_merge_is_what_carries_a_curated_relation()
+    bad += _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry()
     resolutions = 0
     for proof in (_proof_search_spans_every_name_a_body_is_known_by,
                   _proof_a_promoted_name_loses_no_resolution):
@@ -2353,7 +2665,7 @@ def selftest() -> int:
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
             bad += 1
-    print(f"{len(_CASES) + len(_PROOFS) + 3} violation(s) demonstrated failing, "
+    print(f"{len(_CASES) + len(_PROOFS) + 4} violation(s) demonstrated failing, "
           f"{resolutions} name resolution(s) proven"
           if not bad else f"{bad} rule(s) did not fire")
     return 1 if bad else 0

@@ -74,6 +74,15 @@ jobs:
       # yet, and an empty table is exactly when a quiet gate looks like a passing one.
       - name: Enabling-authority rules must all be able to fail
         run: python3 src/link_enabling_authority.py --selftest
+      # A relation's KIND is derived, and 44 of the 81 are derived from candidates NOBODY
+      # HAS READ (ADR 0004's amendment). The whole defence of that is the `basis` recorded
+      # beside each kind, so the rules that keep the two strengths apart — a kind with no
+      # basis, an `administered_by` citing nothing, a candidate the registry cannot record —
+      # are the ones this proves can fail, against a synthetic registry and a synthetic
+      # review sheet. It also proves the two things the derivation must NOT do: derive a kind
+      # from the absence of a candidate, and leave a reviewed row still recording a proposal.
+      - name: Relation-kind derivation rules must all be able to fail
+        run: python3 src/derive_relation_kinds.py --selftest
       # The measurement side of the same pipeline, and its failures are quieter than the
       # merge's: a recall number computed against the wrong ground truth, or a per-type
       # table built from hand labels attached to the wrong candidates, is a confident
@@ -177,6 +186,13 @@ jobs:
       # ~10 s; reads committed data only, no network.
       - name: Enabling authorities must match the reviewed table
         run: python3 src/link_enabling_authority.py --check
+      # A relation's kind, basis and authority are written by ONE thing, and this verifies
+      # the registry against that derivation in both directions — so a kind that arrived any
+      # other way is reported, and so is a body whose candidate has been reviewed since the
+      # last --apply, which is the row still recording a proposal after a human read it.
+      # Reads committed data only (the registry and the review sheet), no network.
+      - name: Relation kinds must match the derivation
+        run: python3 src/derive_relation_kinds.py --check
       # Conflict candidates that need no model. A hand-labelled taxonomy of the 137
       # frontier-pilot candidates found 29% were of four deterministic types, and code
       # finds far more of them than the models did — the pilot reported 21 dead citations
