@@ -77,6 +77,22 @@ statutory one: the Secretary of State and the State Treasurer are constitutional
 and a body created by executive order has neither.
 _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a statute
 
+**Part of**:
+The relation a unit bears to the body it is internal structure of. A unit is *part of* a
+body when nothing separately constitutes it — the Highway Division is how the Department of
+Transportation organises itself, not a second body. It has no enabling authority because
+there is nothing separate to enable, which is a decision with a reason and not a gap.
+_Avoid_: Under, belongs to, child of — all three also describe *administered by*
+
+**Administered by**:
+The relation a separately constituted body bears to the department that administers it. The
+commodity commissions are *established as state commissions* by ORS 576.062 and
+*administered by* the Department of Agriculture under ORS 576.066, which covers member
+appointment, budget review and plan approval — not rulemaking, and not legal identity. The
+relation cites the authority that establishes it, because a bare parent pointer states a
+hierarchy where a cited one states a checkable claim about Oregon law.
+_Avoid_: Division of, part of, reports to — an administered body is not part of its parent
+
 **DAS agency number**:
 The number DAS assigns a body in the Oregon Accounting Manual (OAM 70.10.00). It identifies
 the body in the state's financial administration and is not evidence that the body spends
