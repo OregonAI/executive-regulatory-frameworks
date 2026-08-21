@@ -5,9 +5,9 @@
   python3 src/link_budget_codes.py --check   # verify the registry matches this table
 
 THE FIELD IS `das_agency_number` (CONTEXT.md), and every row that carries one also carries
-the same value under the deprecated `budget_agency_code` until #177 removes that key — see
-DAS_NUMBER_KEYS in catalog_agencies.py, which is what writes both and what states that they
-agree. The number identifies a body in the state's financial administration and is not
+the same value under the deprecated `budget_agency_code` until #177 removes that key.
+catalog_agencies.py declares the pair once (DAS_NUMBER_KEYS), writes both keys in one place
+(write_das_agency_number) and states that they may not disagree (its --check). The number identifies a body in the state's financial administration and is not
 evidence that the body spends money; the names below (`MAPPING`, `UNMAPPED`, `REORGANIZED`)
 still read "code" because they are keyed by the budget dataset's own vocabulary.
 

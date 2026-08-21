@@ -203,10 +203,15 @@ def write_das_agency_number(row: dict, number) -> None:
 
     IN PLACE, because the row object is shared. link_budget_codes.py holds the same dict in
     its slug index and in the organizations list, and returning a new row would update one
-    of those and leave the other holding the old one. The keys are re-inserted rather than
-    assigned, so the pair lands together and in the same order on every row: a plain
-    assignment appends a new key at the END, which in the file prints the number three lines
-    below its own copy, under `aliases`. The registry is read by humans in review.
+    of those and leave the other holding the old one.
+
+    The keys are re-inserted rather than assigned, so that what THIS function writes prints
+    the two copies of the number on adjacent lines — a plain assignment appends a new key at
+    the end of the row, which puts the second copy under `aliases`, three lines below the
+    first. That is a courtesy to the human reading the diff, not an invariant of the file:
+    `preserve_curated()` re-appends every curated key in frozenset order, so a --refresh can
+    reorder them or split the pair with `aliases`, and does it differently per run (#182).
+    Nothing depends on the order — `deprecated-key-agrees` compares the VALUES.
     """
     ordered, landed = {}, False
     for key, value in row.items():
@@ -428,8 +433,10 @@ def cmd_refresh():
                  "upstream chapter retitle moves it. raw_index_name is a different "
                  "string: the index's own abbreviated spelling. "
                  "das_agency_number, where present, is the three-digit number DAS "
-                 "assigns the body in the Oregon Accounting Manual (OAM 70.10.00) and the "
-                 "identifier the oregon-budget corpus reports spending against; it is "
+                 "assigns the body in the Oregon Accounting Manual (OAM 70.10.00) — it "
+                 "identifies the body in the state's financial administration and is not "
+                 "evidence that the body spends money, and it is what the oregon-budget "
+                 "corpus joins on; it is "
                  "hand-reviewed (src/link_budget_codes.py), is NOT scraped from the "
                  "source above, and is preserved across --refresh. Its absence on an "
                  "entry means no counterpart was found, not that none was sought. "
@@ -686,10 +693,10 @@ def check_registry(cat, fields=None) -> list:
         if absent:
             failures.append(Failure(
                 "deprecated-key-agrees", _row_id(o, i),
-                f"the DAS agency number is on {sorted(held)} but {absent} is absent — both "
-                "keys are readable for one deprecation cycle (#177 removes the old one), "
-                "so a row carrying one and not the other reads as 'no number' to whichever "
-                "consumer read the other"))
+                f"the DAS agency number is on {', '.join(sorted(held))} but absent from "
+                f"{', '.join(absent)} — both keys are readable for one deprecation cycle "
+                "(#177 removes the old one), so a row carrying one and not the other reads "
+                "as 'no number' to whichever consumer read the other"))
         elif len(set(held.values())) > 1:
             failures.append(Failure(
                 "deprecated-key-agrees", _row_id(o, i),
