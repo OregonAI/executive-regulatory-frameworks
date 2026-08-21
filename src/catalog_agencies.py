@@ -133,6 +133,21 @@ FIELDS = {
     # ASSERTION of identity, reviewed once, rather than a similarity score computed at
     # query time.
     "aliases": Field(CURATED, required=False),
+    # THE ENABLING AUTHORITY (CONTEXT.md): what created the body. CURATED and NOT required,
+    # and both halves of that are the point — see AUTHORITY_FORMS below for what the value
+    # may say and `enabling-authority-form` in check_registry() for what it may not.
+    #
+    # CURATED because nothing upstream produces it: the OAR index publishes chapter
+    # assignments, and no chapter page states what statute created the body it belongs to.
+    # The single writer is src/link_enabling_authority.py, driven by the hand-reviewed
+    # MAPPED/UNMAPPED tables in that file — the same shape `das_agency_number` has, for the
+    # same reason (#175): two writers of one field is drift nothing reports.
+    #
+    # NOT required because an absent key is the honest default. All 189 rows are absent
+    # today, and that says nobody has looked yet — which is a different claim from a body
+    # that was looked at and has no separate enabling authority, and neither may be written
+    # as a blank.
+    "enabling_authority": Field(CURATED, required=False),
 }
 
 # THE ONE NUMBER'S TWO KEYS, FIELD OF RECORD FIRST. ADR 0003 renames `budget_agency_code`
@@ -147,6 +162,140 @@ FIELDS = {
 # that they may not: a row carrying one key and not the other, or the two holding different
 # numbers, is a contract violation rather than something a reader has to notice.
 DAS_NUMBER_KEYS = ("das_agency_number", "budget_agency_code")
+
+# ------------------------------------------------------------- what an enabling authority is
+#
+# AN AUTHORITY, NOT A STATUTE (ADR 0003), "so constitutional offices have somewhere true to
+# sit" and a body created by executive order is expressible. Three forms are accepted here
+# and everything else is refused.
+#
+# ALLOWLIST, NOT BLOCKLIST — the same rule --check keeps for field names, for a sharper
+# reason: the two get their errors backwards. An allowlist that is too narrow refuses a real
+# authority in front of the person adding it, who then widens it deliberately. A blocklist
+# that is too narrow accepts a wrong one and publishes it under provenance, and this
+# repository has already paid for that shape once: `\bdept\.?\b` looked like it excluded
+# nothing and silently matched no abbreviation it was written for, costing 9 of 76 matches
+# before anyone found it. A citation is admitting evidence (ADR 0003), so a wrong one is a
+# false statement about Oregon law, not a formatting slip.
+AUTHORITY_FORMS = (
+    # `ORS 674.305`. All 37,465 mirrored sections cite themselves in exactly this shape,
+    # chapter letter included (`ORS 743A.052`). Whether the section EXISTS is a different
+    # question, answered against the mirror by link_enabling_authority.py --check; this rule
+    # says only that the value is spelled like a citation.
+    #
+    # ONE SECTION, DELIBERATELY. A subsection (`ORS 279A.140(1)`) and a range (`ORS 182.456
+    # to 182.472`) are both refused today, because neither has ever been needed and both
+    # change what the value MEANS: a range names a scheme a body operates under rather than
+    # the section that created it, which is a different claim and a wider door. ADR 0004
+    # already has eight boards "declared to operate as semi-independent state agencies under
+    # ORS 182.456 to 182.472" and does not decide whether that is an enabling authority —
+    # so widening this form is that decision, taken here, rather than a formatting tweak.
+    ("ors", re.compile(r"ORS \d+[A-Z]?\.\d+")),
+    # `Or. Const. Art. VI, sec. 1` — the Secretary of State's, and the spelling CONTEXT.md
+    # and ADR 0005 both use. NOTHING RESOLVES IT, and that is a hole ADR 0005 states rather
+    # than one this form hides: the Oregon Constitution is not mirrored, so
+    # `Or. Const. Art. XVII, sec. 99` is well-formed and unverifiable. Both gates report the
+    # constitutional rows separately for that reason — "could not check" is never reported
+    # as "is not there" (CONTEXT.md).
+    # `(Amended)` is not decoration: Oregon carries BOTH Article VII (Original) and Article
+    # VII (Amended), and the judicial power sits in the amended one — so a form without it
+    # refuses a real authority for the Judicial Department, which is exactly the population
+    # this field exists for. An allowlist that is too narrow is still an allowlist; it is
+    # widened by a decision like this one rather than by a wildcard.
+    ("constitution", re.compile(r"Or\. Const\. Art\. [IVXL]+[A-Z]?"
+                                r"(?: \((?:Amended|Original)\))?, sec\. \d+[a-z]?")),
+    # `Executive Order 20-03`, the citation 525 of the 526 mirrored orders carry. One of them is
+    # cited `Executive Order 12-special-session` and is deliberately OUTSIDE this form:
+    # widening it to admit a free-text suffix would admit every typo too, and if a body ever
+    # turns out to be created by that order, it is a decision to record here rather than a
+    # surprise at the gate.
+    ("executive-order", re.compile(r"Executive Order \d\d-\d\d")),
+)
+
+# THE OTHER THING THE FIELD MAY SAY, and what makes the third state honest. A body that was
+# reviewed and has no separate enabling authority records the REASON here — ADR 0004 names
+# the common one: a `part_of` unit has nothing separate to enable. Written as a value rather
+# than as a null, because a null and an absent key are read alike by every consumer, and the
+# claims are opposite:
+#
+#   key absent                       nobody has looked yet         (all 189 rows today)
+#   `ORS 576.062` / `Or. Const. …`   an authority is recorded
+#   `none: <reason>`                 someone looked, and this is what they found
+#
+# So a falsy value means exactly one thing here — nobody has looked — and every other state
+# is a non-empty string that says which it is. A bare null is refused by
+# `enabling-authority-form`, because it is an assertion of absence with nobody behind it.
+NO_AUTHORITY = "none: "
+
+# A reason has to be a reason. The floor is not a judgment about quality — it is set to
+# refuse the four non-reasons that would otherwise pass as review (`n/a`, `-`, `none`,
+# `unknown`, the last of which is "nobody has looked" wearing the wrong label) while
+# accepting a true short one: `none: Part of DAS` is eleven characters and states ADR 0004's
+# case exactly.
+MIN_NO_AUTHORITY_REASON = 8
+
+
+def no_authority_value(reason) -> str:
+    """`none: <reason>` as a registry row carries it, with the reason's whitespace collapsed.
+
+    THE CONSTRUCTOR FOR THE FORM `classify_authority` PARSES, and it sits beside it so the
+    two cannot drift. The reasons it is given are Python strings wrapped across source lines
+    in link_enabling_authority.py, so their newlines and indentation are an artifact of how
+    the table is READ rather than part of the finding — collapsing them here means the value
+    written and the value compared are the same however the table is re-wrapped."""
+    return NO_AUTHORITY + " ".join(str(reason or "").split())
+
+
+def classify_authority(value):
+    """(form, detail) for one `enabling_authority` value, or (None, what is wrong with it).
+
+    `form` is one of AUTHORITY_FORMS' names, or `reviewed-none` when the value records a
+    reviewed absence — in which case `detail` is the reason. THE ONE PLACE THE FIELD'S
+    GRAMMAR IS STATED: the registry's contract (`enabling-authority-form` below) and the
+    reviewed table that writes the field (link_enabling_authority.py) both read it here, so
+    a value cannot be legal in the table and illegal in the file it is written to."""
+    if not isinstance(value, str) or not value.strip():
+        return None, ("is blank — an absent key is how this registry says nobody has looked "
+                      "yet, so a blank value asserts a body has no enabling authority with "
+                      f"nobody behind the claim. Record {NO_AUTHORITY!r} and the reason, or "
+                      "leave the key off")
+    if value.lower().startswith("none"):
+        if not value.startswith(NO_AUTHORITY):
+            return None, (f"{value!r} looks like a reviewed absence but is not written as "
+                          f"{NO_AUTHORITY!r} followed by the reason")
+        reason = value[len(NO_AUTHORITY):].strip()
+        if len(reason) < MIN_NO_AUTHORITY_REASON:
+            return None, (f"{value!r} records no authority and gives no reason — 'we looked "
+                          "and there is none' is a decision, and a decision states its basis")
+        return "reviewed-none", reason
+    # AFTER the reviewed-absence branch, so `none: ` with an empty reason is reported as the
+    # missing reason it is rather than as a stray trailing space.
+    if value != value.strip():
+        return None, f"{value!r} has leading or trailing whitespace"
+    for form, pattern in AUTHORITY_FORMS:
+        if pattern.fullmatch(value):
+            return form, value
+    return None, (f"{value!r} is not an authority this registry can record — expected an ORS "
+                  "citation (`ORS 576.062`), a constitutional article (`Or. Const. Art. VI, "
+                  "sec. 1`), an executive order (`Executive Order 20-03`), or "
+                  f"{NO_AUTHORITY!r} and the reason there is none")
+
+
+def authority_census(orgs) -> str:
+    """The three states of `enabling_authority`, counted over registry ROWS.
+
+    ONE SENTENCE, TWO GATES, and counted from the file rather than from the reviewed table:
+    the table says what SHOULD be recorded, and on any failure path the two disagree — a
+    census that mixed them would report the intended state as the actual one. A summary that
+    counted only the bodies carrying an authority would leave a reader to infer that the rest
+    have none, which is the one reading this registry never permits.
+    """
+    values = [o["enabling_authority"] for o in orgs
+              if isinstance(o, dict) and "enabling_authority" in o]
+    none_recorded = sum(1 for v in values if classify_authority(v)[0] == "reviewed-none")
+    return (f"{len(values) - none_recorded} recorded, {none_recorded} reviewed with none to "
+            f"record, {len(orgs) - len(values)} of {len(orgs)} bodies not looked at yet")
+
 
 CURATED_KEYS = frozenset(k for k, f in FIELDS.items() if f.origin == CURATED)
 SCRAPED_KEYS = frozenset(k for k, f in FIELDS.items() if f.origin == SCRAPED)
@@ -442,7 +591,13 @@ def cmd_refresh():
                  "entry means no counterpart was found, not that none was sought. "
                  "budget_agency_code is the same number under the name it used to carry, "
                  "readable for one deprecation cycle (ADR 0003); the two always hold the "
-                 "same value."),
+                 "same value. enabling_authority, where present, is what created the body "
+                 "— an ORS citation, a constitutional article, or an executive order (ADR "
+                 "0003) — or `none: ` and the reason there is none. It is hand-reviewed "
+                 "(src/link_enabling_authority.py), is NOT scraped, and is preserved "
+                 "across --refresh. An ABSENT enabling_authority means nobody has reviewed "
+                 "this body yet; it never means the body has no enabling authority, which "
+                 "is what the `none: ` form says and says with a reason."),
         "source_url": INDEX_URL,
         "retrieved": date.today().isoformat(),
         "organizations": sorted(orgs, key=lambda o: o["slug"]),
@@ -703,6 +858,21 @@ def check_registry(cat, fields=None) -> list:
                 f"the DAS agency number differs between its two keys ({held!r}) — one body "
                 "has one number, and nothing in the row says which of these is the "
                 "hand-reviewed one"))
+    # THE ENABLING AUTHORITY'S THREE STATES, KEPT APART. A row carrying no key at all is
+    # saying nobody has looked yet, which is the state all 189 rows are in and the only one
+    # this rule passes over in silence. Every row that DOES carry the key has been reviewed
+    # by a human, so the value has to be something a reader can act on: an authority in one
+    # of the accepted forms, or a stated reason there is none. What this rule refuses is the
+    # middle — a blank, a null, or prose — because each of them reads as "this body has no
+    # enabling authority" while recording that nobody established anything of the sort.
+    for i, o in rows:
+        if "enabling_authority" not in o:
+            continue
+        form, detail = classify_authority(o["enabling_authority"])
+        if form is None:
+            failures.append(Failure("enabling-authority-form", _row_id(o, i),
+                                    f"enabling_authority {detail}"))
+
     # IDENTITY. The slug is the only thing a sibling corpus joins on, and the chapter is
     # what put most rows here; either one claimed twice attributes one body's documents to
     # another. --refresh already calls a slug collision a human decision rather than silent
@@ -820,6 +990,8 @@ def cmd_check() -> int:
           f"{curated} curated value(s) and "
           f"{sum(1 for o in orgs if isinstance(o, dict) and o.get('manual'))} manual row(s) "
           "survive a simulated --refresh")
+    # THE ENABLING AUTHORITY'S CENSUS, PRINTED RATHER THAN LEFT TO BE COUNTED.
+    print(f"enabling authority: {authority_census(orgs)}")
     return 0
 
 
@@ -837,6 +1009,12 @@ def _fixture():
                         raw_index_name="Dept. of Administrative Services",
                         source_url=f"{BASE}/rules/oar_chapter_125")
     write_das_agency_number(das, "107")   # the pair, written the way every writer writes it
+    # AN IMPOSSIBLE CITATION ON PURPOSE. This gate checks the FORM of an authority and
+    # resolves nothing (link_enabling_authority.py --check does that, against the mirror),
+    # and ORS has no chapter 999 — so the fixture exercises the field without asserting
+    # what created the Department of Administrative Services, which is a question nobody
+    # has reviewed. A real citation here would read as a verdict.
+    das["enabling_authority"] = "ORS 999.999"
     cfo = scraped_entry(name="Chief Financial Office", oar_chapter="122",
                         raw_index_name="Chief Financial Office",
                         source_url=f"{BASE}/rules/oar_chapter_122")
@@ -902,6 +1080,43 @@ def _case_das_number_keys_disagree(cat):
     so one body's spending attaches to two identities — and nothing in the row says which
     number is the reviewed one."""
     cat["organizations"][0]["budget_agency_code"] = "999"
+
+
+def _case_enabling_authority_left_blank(cat):
+    """`enabling_authority: null`. The key is present, so a human has been here; the value
+    says nothing, so what they concluded is lost. Every consumer reads a null and an absent
+    key alike, which turns "nobody has looked yet" into "this body has no enabling
+    authority" — the substitution CONTEXT.md's overriding rule forbids."""
+    cat["organizations"][1]["enabling_authority"] = None
+
+
+def _case_enabling_authority_absent_without_a_reason(cat):
+    """A reviewed absence with nothing behind it. `none:` alone records that someone
+    declined to record an authority, not that they found there is none — and ADR 0004 is
+    explicit that a `part_of` unit's missing authority is "a decision with a reason and not
+    a gap". Without the reason the two are the same string."""
+    cat["organizations"][1]["enabling_authority"] = "none:"
+
+
+def _case_enabling_authority_with_stray_whitespace(cat):
+    """A citation that is right and a string that is not. Three sibling corpora join on this
+    file as YAML, and a leading space makes the value they read differ from the value the
+    reviewed table holds — a difference no reader sees and every comparison does."""
+    cat["organizations"][1]["enabling_authority"] = " ORS 999.999"
+
+
+def _case_enabling_authority_that_almost_records_an_absence(cat):
+    """A reviewed absence spelled some other way. `None recorded` says what a reviewer
+    concluded and says it in a form nothing can parse, so it is read as an authority by
+    anything looking for one and as prose by anything looking for a reason."""
+    cat["organizations"][1]["enabling_authority"] = "None recorded"
+
+
+def _case_enabling_authority_that_is_not_an_authority(cat):
+    """A value that talks about an authority without citing one. The field is an AUTHORITY
+    (ADR 0003) — an ORS section, a constitutional article, or an executive order — and
+    prose in its place is a claim no reader can check and no gate can resolve."""
+    cat["organizations"][1]["enabling_authority"] = "created by statute"
 
 
 def _case_row_is_not_a_mapping(cat):
@@ -995,6 +1210,18 @@ _CASES = [
     ("deprecated-key-without-the-das-number", _case_deprecated_key_without_the_das_number,
      "deprecated-key-agrees"),
     ("das-number-keys-disagree", _case_das_number_keys_disagree, "deprecated-key-agrees"),
+    # THE THREE WAYS THE ENABLING AUTHORITY STOPS SAYING WHICH STATE A BODY IS IN: a value
+    # that cites nothing, a blank, and a reviewed absence with no reason behind it.
+    ("enabling-authority-that-is-not-an-authority",
+     _case_enabling_authority_that_is_not_an_authority, "enabling-authority-form"),
+    ("enabling-authority-left-blank", _case_enabling_authority_left_blank,
+     "enabling-authority-form"),
+    ("enabling-authority-absent-without-a-reason",
+     _case_enabling_authority_absent_without_a_reason, "enabling-authority-form"),
+    ("enabling-authority-with-stray-whitespace",
+     _case_enabling_authority_with_stray_whitespace, "enabling-authority-form"),
+    ("enabling-authority-that-almost-records-an-absence",
+     _case_enabling_authority_that_almost_records_an_absence, "enabling-authority-form"),
     ("row-is-not-a-mapping", _case_row_is_not_a_mapping, "readable-row"),
 ]
 
@@ -1021,6 +1248,16 @@ _PROOFS = [
      "survives-refresh"),
     ("curated-field-declared-scraped",
      dict(FIELDS, das_agency_number=Field(SCRAPED, required=False)),
+     "scraped-field"),
+    # THE SAME TWO STATEMENTS ABOUT `enabling_authority`, because a field is only curated in
+    # the sense that matters if the declaration going wrong is caught. The fixture row
+    # carries one, so declaring it anything but CURATED loses it: MANUAL_FLAG drops it on a
+    # refresh, and SCRAPED hides the drop behind a field the scrape never writes.
+    ("enabling-authority-declared-manual-flag",
+     dict(FIELDS, enabling_authority=Field(MANUAL_FLAG, required=False)),
+     "survives-refresh"),
+    ("enabling-authority-declared-scraped",
+     dict(FIELDS, enabling_authority=Field(SCRAPED, required=False)),
      "scraped-field"),
 ]
 

@@ -78,9 +78,18 @@ _Avoid_: Rules name, chapter name — and `raw_index_name`, which is the index's
 abbreviated spelling (`Board of Chiropractic Exam'rs`) and a different string
 
 **Enabling authority**:
-What created the body — a statute, or the Oregon Constitution. Not every body has a
-statutory one: the Secretary of State and the State Treasurer are constitutional offices,
-and a body created by executive order has neither.
+What created the body — an ORS section, an article of the Oregon Constitution, or an
+executive order. It is recorded as an AUTHORITY and not as a statute (ADR 0003), so
+constitutional offices have somewhere true to sit: the Secretary of State and the State
+Treasurer hold no statute, and a body created by executive order holds neither a statute nor
+a constitutional article. It lives in `enabling_authority` on the registry rows that carry
+one, hand-reviewed in `src/link_enabling_authority.py`, which is the only thing that writes
+the field. THREE STATES, which may never be collapsed into two: a value in one of those
+three forms records an authority; `none: ` and a reason records that someone looked and
+there is none to record (ADR 0004's commonest case — a *part of* unit has nothing separate
+to enable); and an absent key, which is where all 189 rows stand today, means nobody has
+looked yet. Absence is never the claim that a body has no enabling authority, and a blank
+value is refused for making that claim with nobody behind it.
 _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a statute
 
 **Part of**:

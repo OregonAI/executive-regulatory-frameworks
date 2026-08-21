@@ -2,7 +2,9 @@
 """Attach enabling authorities to the agency registry.
 
   python3 src/link_enabling_authority.py --propose   # write a review sheet of candidates
+  python3 src/link_enabling_authority.py --apply     # write enabling_authority into the registry
   python3 src/link_enabling_authority.py --check     # verify the reviewed table against ORS
+  python3 src/link_enabling_authority.py --selftest  # CI: every rule --check enforces fires
 
 WHY THIS IS NOT A GENERATOR. CONTEXT.md defines an *enabling authority* as what created a
 body, and ADR 0003 makes it ADMITTING evidence — a statute alone is enough to put a body in
@@ -57,10 +59,30 @@ agency's name, and that tier contains both `Department of State Police establish
 (ORS 181A.015, correct) and `When support payment to be made to Department...` (ORS 25.020,
 a child-support section that is not the Department of Justice's enabling authority).
 
-SO THIS PROPOSES AND CHECKS; IT NEVER WRITES THE REGISTRY. `--propose` emits a review sheet
-quoting the sentence that matched, so review is reading rather than research. A human moves
-rows into MAPPED or UNMAPPED below. `--check` then verifies the committed table against the
-mirrored corpus, in CI, from committed data alone.
+SO THE MATCHER PROPOSES AND A HUMAN DECIDES. `--propose` emits a review sheet quoting the
+sentence that matched, so review is reading rather than research; it writes nothing to the
+registry. A human moves rows into MAPPED or UNMAPPED below. `--check` then verifies the
+committed table against the mirrored corpus, in CI, from committed data alone.
+
+AND THIS FILE IS THE REGISTRY FIELD'S SINGLE WRITER. `--apply` writes MAPPED and UNMAPPED
+into `enabling_authority` on the registry rows, and nothing else writes that key — the same
+arrangement `das_agency_number` has with link_budget_codes.py, for the reason #175 exists:
+two writers of one field is drift that nothing reports. `--check` verifies the registry
+against this table in both directions, so a row that acquired an authority some other way is
+a failure rather than a fact.
+
+WHAT THE FIELD MAY SAY is declared once, in catalog_agencies.AUTHORITY_FORMS — an ORS
+citation, a constitutional article, or an executive order (ADR 0003), or `none: ` and the
+reason there is none. This gate reads that grammar rather than restating it, so a value
+cannot be legal in the table and illegal in the file the table is written to. It checks the
+TABLE against the grammar; the registry's own contract check (catalog_agencies.py --check)
+checks the ROWS. Same rule, two populations, and neither one covers the other: an authority
+can be wrong in the table before it is ever written, and a row can be hand-edited after.
+
+THE THREE STATES, and the reason MAPPED and UNMAPPED are both explicit. A row carrying
+`ORS 576.062` has an authority; a row carrying `none: <reason>` was looked at and has none;
+a row carrying no `enabling_authority` key at all has not been looked at. All 189 are in the
+third state today. Absence is never a claim that a body has no enabling authority.
 
 UNMAPPED IS EXPLICIT, never implied by absence — "we looked and there is no counterpart" and
 "nobody has looked yet" must not be the same state (CONTEXT.md; link_budget_codes.py).
@@ -80,11 +102,20 @@ import sys
 
 import yaml
 
+from catalog_agencies import (NO_AUTHORITY, authority_census, classify_authority,
+                              no_authority_value)
 from repo_lib import REPO_ROOT
 
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
 STATUTES = REPO_ROOT / "statutes"
+EXECUTIVE_ORDERS = REPO_ROOT / "executive-orders"
 REVIEW_SHEET = REPO_ROOT / "_meta/catalog/enabling-authority-review.yml"
+
+# One thing wrong with the reviewed table or with the registry it writes: which rule, which
+# body, and what is wrong. A type rather than a formatted string, so --selftest asserts on
+# the RULE that fired instead of pattern-matching prose — the way a proof starts passing for
+# the wrong reason (catalog_agencies.Failure, same lesson).
+Problem = collections.namedtuple("Problem", "rule slug detail")
 
 # ---------------------------------------------------------------- reviewed registry data
 #
@@ -95,11 +126,17 @@ MAPPED: dict[str, str] = {
     # e.g. "appraiser-certification-and-licensure-board": "ORS 674.305",
 }
 
-# slug -> why this body has no enabling authority recorded. A DECISION with a stated reason,
-# never a blank.
+# slug -> why this body has no enabling authority TO RECORD. A DECISION with a stated reason,
+# never a blank, and never a citation: a body whose authority is a constitutional article
+# HAS one, and belongs in MAPPED above. That is what this example used to be — the Secretary
+# of State, filed here as "constitutional office, so no ORS section can be cited", which was
+# true of a field that could only hold statutes and became a false absence the day the field
+# started accepting `Or. Const. Art. VI, sec. 1` (#170). The commonest legitimate reason is
+# ADR 0004's: a `part_of` unit has nothing separate to enable.
 UNMAPPED: dict[str, str] = {
-    # e.g. "secretary-of-state": "Constitutional office — Or. Const. Art. VI, sec. 1. Not
-    #                             created by statute, so no ORS section can be cited.",
+    # e.g. "department-of-transportation-highway-division": "Part of the Department of
+    #      Transportation (ADR 0004): nothing separately constitutes it, so there is no
+    #      enabling authority to record.",
 }
 
 CREATE = re.compile(
@@ -329,41 +366,409 @@ def propose() -> int:
     return 0
 
 
-def check() -> int:
-    """Verify the reviewed table against the mirrored corpus, from committed data alone."""
-    orgs = {o["slug"]: o for o in yaml.safe_load(CATALOG.read_text())["organizations"]}
+def _executive_order_citations() -> set[str]:
+    """The citation every mirrored executive order carries — `Executive Order 20-03`.
+
+    Read from the MIRROR, never fetched, exactly as `_statute_sections` reads the ORS. It
+    refuses to return an empty set for the same reason that function refuses to report zero
+    candidates: with no orders on disk, every executive-order authority would be reported as
+    citing an order that does not exist, and "could not check" is never reported as "is not
+    there" (CONTEXT.md).
+    """
+    out = set()
+    for path in sorted(EXECUTIVE_ORDERS.glob("eo-*.md")):
+        m = re.search(r'(?m)^citation:\s*"?([^"\n]+)', path.read_text(errors="replace"))
+        if m:
+            out.add(m.group(1).strip().rstrip('"'))
+    if not out:
+        sys.exit("no mirrored executive orders were found — refusing to report an "
+                 "executive-order authority as unresolvable. Is `executive-orders/` "
+                 "populated?")
+    return out
+
+
+def resolvable_citations() -> set[str]:
+    """Every citation this corpus can resolve an authority against: the mirrored ORS
+    sections and the mirrored executive orders.
+
+    THE OREGON CONSTITUTION IS NOT IN HERE, because it is not mirrored. ADR 0005 states
+    that hole rather than working around it — `Or. Const. Art. XVII, sec. 99` is well-formed
+    and nothing can say it is wrong — so a constitutional authority is checked for FORM and
+    reported as unverified, never silently counted as verified.
+    """
+    return {c for c, _t, _s, _b, _m in _statute_sections()} | _executive_order_citations()
+
+
+def reviewed(mapped=None, unmapped=None) -> dict[str, str]:
+    """slug -> the exact value `enabling_authority` should hold on that registry row.
+
+    THE ONE PLACE THE VALUE IS DERIVED, so `--apply` writes and `--check` compares the same
+    string rather than two spellings of it. An UNMAPPED reason becomes `none: <reason>`
+    because the registry has to carry the finding itself: three sibling corpora read
+    agencies.yml as YAML from their own repos and cannot see a Python dict.
+    """
+    mapped = MAPPED if mapped is None else mapped
+    unmapped = UNMAPPED if unmapped is None else unmapped
+    out = {slug: no_authority_value(reason) for slug, reason in unmapped.items()}
+    out.update(mapped)   # a slug in both tables is REPORTED below, never resolved here
+    return out
+
+
+def audit_table(orgs, mapped, unmapped, citations) -> list[Problem]:
+    """Everything wrong with the reviewed tables themselves, as Problems.
+
+    Separate from `audit_registry` below because `--apply` must run this one and not that
+    one: the registry disagreeing with the table is precisely what --apply is for, while a
+    bad row in the TABLE is a thing that must never be written to the registry at all.
+    """
+    by_slug = {o["slug"]: o for o in orgs if isinstance(o, dict) and o.get("slug")}
     problems = []
 
-    for slug in sorted(set(MAPPED) | set(UNMAPPED)):
-        if slug not in orgs:
-            problems.append(f"{slug}: named here but not in the registry")
-    both = sorted(set(MAPPED) & set(UNMAPPED))
-    for slug in both:
-        problems.append(f"{slug}: is in BOTH mapped and unmapped — it cannot be both")
+    for slug in sorted(set(mapped) | set(unmapped)):
+        if slug not in by_slug:
+            problems.append(Problem("slug-in-registry", slug,
+                                    "named here but not in the registry"))
+    for slug in sorted(set(mapped) & set(unmapped)):
+        problems.append(Problem("not-both-tables", slug,
+                                "is in BOTH MAPPED and UNMAPPED — a body either has an "
+                                "enabling authority or has a reason it has none, and "
+                                "whichever table a reader consults would be the answer"))
 
-    # Every mirrored section is a valid target, not only those with creation language: a
-    # tier-3 authority is a real section that happens not to use the verb, and requiring it
-    # here would reject exactly the twelve rows tier 3 exists to let a human accept.
-    by_cite = {c: (t, b) for c, t, _s, b, _m in _statute_sections()}
-    for slug, authority in sorted(MAPPED.items()):
-        if not authority.startswith("ORS "):
-            continue                       # constitutional and EO authorities are not in ORS
-        if authority not in by_cite:
-            problems.append(
-                f"{slug}: cites {authority}, which is not a mirrored ORS section. Either "
-                f"the citation is wrong or upstream changed — both are worth knowing.")
+    for slug, authority in sorted(mapped.items()):
+        form, detail = classify_authority(authority)
+        if form is None:
+            problems.append(Problem("authority-form", slug, detail))
+        elif form == "reviewed-none":
+            problems.append(Problem(
+                "authority-form", slug,
+                f"{authority!r} records that there is no authority, which is UNMAPPED's "
+                "job — MAPPED holds authorities, and a row in the wrong table is a body "
+                "reported as having one"))
+        elif form != "constitution" and authority not in citations:
+            # Not "not a mirrored ORS section": an executive order is an authority too
+            # (ADR 0003) and this corpus mirrors 526 of them, so both forms resolve against
+            # something. Only the constitutional form has nothing to resolve against.
+            problems.append(Problem(
+                "authority-resolves", slug,
+                f"cites {authority}, which no document in this corpus carries. Either the "
+                "citation is wrong or upstream changed — both are worth knowing"))
 
+    for slug, reason in sorted(unmapped.items()):
+        form, detail = classify_authority(no_authority_value(reason))
+        if form != "reviewed-none":
+            problems.append(Problem("unmapped-has-reason", slug, detail))
+        # THE MIRROR IMAGE OF THE RULE ABOVE, and the one this table walked into once: a
+        # reason that IS a citation says the body has an authority while filing it as a body
+        # that has none. Constitutional offices are how it happens — the field could hold
+        # only statutes when this table was written, so `Or. Const. Art. VI, sec. 1` was a
+        # reason rather than a value. It is a value now.
+        elif classify_authority(str(reason).strip())[0] is not None:
+            problems.append(Problem(
+                "unmapped-is-not-an-authority", slug,
+                f"the reason recorded here IS an authority ({str(reason).strip()!r}) — a "
+                "body with one belongs in MAPPED, and filing it here reports it as a body "
+                "nothing created"))
+    return problems
+
+
+def audit_registry(orgs, mapped=None, unmapped=None) -> list[Problem]:
+    """Every way the registry and the reviewed table disagree, in BOTH directions.
+
+    THIS FILE IS THE FIELD'S SINGLE WRITER, so the second direction is the one that matters:
+    a row carrying an `enabling_authority` no table accounts for was written by something
+    else, and two writers of one field is the drift #175 exists to prevent. It is also the
+    reason this gate can fail while both tables are empty — a hand-edited row fails it today.
+    """
+    want = reviewed(mapped, unmapped)
+    # A row with no slug is skipped here and reported by catalog_agencies.py --check, whose
+    # `required-field` rule owns it: nothing in this table can name such a row, so there is
+    # no reviewed value to compare it against. Two gates stating one fact is how the fact
+    # becomes true in one and false in the other.
+    by_slug = {o["slug"]: o for o in orgs if isinstance(o, dict) and o.get("slug")}
+    problems = []
+    for slug, value in sorted(want.items()):
+        if slug not in by_slug:
+            continue                      # `slug-in-registry` above already reported it
+        got = by_slug[slug].get("enabling_authority")
+        if got != value:
+            problems.append(Problem("registry-agrees", slug,
+                                    f"registry has {got!r}, this table says {value!r} — "
+                                    "run --apply"))
+    for slug, o in sorted(by_slug.items()):
+        if "enabling_authority" in o and slug not in want:
+            problems.append(Problem(
+                "registry-agrees", slug,
+                f"registry carries enabling_authority {o['enabling_authority']!r} and this "
+                "table does not. This file is the field's single writer: either the row was "
+                "written by something else, or a reviewed row was deleted from the table"))
+    return problems
+
+
+def apply_reviewed(cat, mapped=None, unmapped=None) -> int:
+    """Write the reviewed values onto the registry rows. Returns the rows changed.
+
+    RE-RUNNABLE AND BYTE-IDENTICAL, which the value assignment gives for free: a key that is
+    already present keeps its position and its value, so the second run changes nothing and
+    dumps the same bytes. `_proof_apply_writes_the_same_bytes_twice` keeps that permanent.
+
+    It writes only the rows the table decides. A row the table says nothing about is LEFT
+    ALONE rather than cleared, because clearing it would silently un-review a body — and
+    `registry-agrees` reports that row instead, which is a human's question to answer.
+    """
+    want = reviewed(mapped, unmapped)
+    changed = 0
+    for o in cat.get("organizations") or []:
+        value = want.get(o.get("slug")) if isinstance(o, dict) else None
+        if value is None or o.get("enabling_authority") == value:
+            continue
+        o["enabling_authority"] = value
+        changed += 1
+    return changed
+
+
+def _report(problems) -> None:
+    for p in problems:
+        print(f"  FAIL [{p.rule}] {p.slug}: {p.detail}", file=sys.stderr)
+
+
+def cmd_apply() -> int:
+    """Write MAPPED/UNMAPPED into the registry. The only writer of `enabling_authority`."""
+    cat = yaml.safe_load(CATALOG.read_text())
+    orgs = cat["organizations"]
+    problems = audit_table(orgs, MAPPED, UNMAPPED, resolvable_citations())
     if problems:
-        print("enabling-authority table does not match the corpus:", file=sys.stderr)
-        for p in problems:
-            print(f"  {p}", file=sys.stderr)
+        print("refusing to write: the reviewed table does not match the corpus",
+              file=sys.stderr)
+        _report(problems)
         return 1
 
-    decided = len(MAPPED) + len(UNMAPPED)
+    changed = apply_reviewed(cat)
+    if changed:
+        CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True,
+                                          width=100))
+    print(f"enabling_authority: {changed} row(s) written "
+          f"({authority_census(orgs)})")
+    # A row the table cannot account for is left where it is and reported. --apply is not
+    # allowed to resolve it by deleting a field a human may have put there deliberately.
+    left = [p for p in audit_registry(orgs) if p.rule == "registry-agrees"]
+    _report(left)
+    return 1 if left else 0
+
+
+def check() -> int:
+    """Verify the reviewed table AND the registry it writes, from committed data alone."""
+    orgs = yaml.safe_load(CATALOG.read_text())["organizations"]
+    citations = resolvable_citations()
+    problems = (audit_table(orgs, MAPPED, UNMAPPED, citations)
+                + audit_registry(orgs, MAPPED, UNMAPPED))
+    if problems:
+        print("enabling-authority table does not match the corpus:", file=sys.stderr)
+        _report(problems)
+        return 1
+
+    # WHAT WAS RESOLVED AND WHAT WAS ONLY READ, reported apart. A constitutional authority
+    # is checked for form and nothing else — the Oregon Constitution is not mirrored (ADR
+    # 0005) — and folding it into one "verified" count would report an unverifiable claim
+    # as a verified one.
+    forms = collections.Counter(classify_authority(a)[0] for a in MAPPED.values())
     print(f"enabling-authority table is consistent with the corpus: "
-          f"{len(MAPPED)} mapped, {len(UNMAPPED)} unmapped, "
-          f"{len(orgs) - decided} of {len(orgs)} bodies not yet reviewed.")
+          f"{authority_census(orgs)}.")
+    print(f"  resolved against the mirror : {forms['ors']} ORS, "
+          f"{forms['executive-order']} executive order(s)")
+    print(f"  form checked, not resolved  : {forms['constitution']} constitutional "
+          "(the Oregon Constitution is not mirrored — ADR 0005)")
     return 0
+
+
+# ------------------------------------------------------------------------------ selftest
+#
+# THE PROOF THAT THE GATE ABOVE CAN FAIL, on a synthetic table and a synthetic registry: no
+# network, no read of the committed registry, no read of the mirror. Every rule --check
+# enforces is exercised by a case built to break exactly one of them, because a check nobody
+# has watched fail is not known to work — it is only known to be quiet. This gate went into
+# CI with both tables EMPTY, which is precisely when that distinction matters.
+
+
+def _fixture():
+    """A table, a registry that agrees with it, and a mirror the citations resolve against.
+
+    EVERY BODY AND EVERY CITATION HERE IS MADE UP, and has to be. A row in this table pairs
+    a body with what created it — a claim about Oregon law, admitting evidence under ADR
+    0003 — and a fixture is not review. ORS has no chapter 999 and no executive order is
+    numbered 99-99, so nothing here can be mistaken for a reviewed row or copied into one.
+    `Or. Const. Art. XVII, sec. 99` is ADR 0005's own example of a constitutional citation
+    that is well-formed and unverifiable, and it is here to prove the gate accepts it.
+    """
+    mapped = {"board-of-imaginary-affairs": "ORS 999.999",
+              "office-of-imagined-orders": "Executive Order 99-99",
+              "imaginary-constitutional-office": "Or. Const. Art. XVII, sec. 99"}
+    unmapped = {"imaginary-affairs-inspection-division":
+                "Part of the Board of Imaginary Affairs; nothing separately constitutes "
+                "it (ADR 0004), so there is no enabling authority to record."}
+    want = reviewed(mapped, unmapped)
+    orgs = [{"slug": slug, "name": slug.replace("-", " ").title(),
+             "enabling_authority": want[slug]} for slug in sorted(want)]
+    # THE THIRD STATE, carried by the fixture itself: a body no table mentions and whose row
+    # holds no `enabling_authority` key. It is the state all 189 committed rows are in, and
+    # the fixture has to pass cleanly with it — a gate that treated "nobody has looked yet"
+    # as a violation would make the honest default impossible to hold.
+    orgs.append({"slug": "board-nobody-has-reviewed", "name": "Board Nobody Has Reviewed"})
+    return {"mapped": mapped, "unmapped": unmapped, "orgs": orgs,
+            "citations": {"ORS 999.999", "Executive Order 99-99"}}
+
+
+def _set(f, slug, authority):
+    """Put one authority in the table AND on its registry row, so a case breaks exactly one
+    rule. Changing only one of the two would also trip `registry-agrees`, and a case that
+    fires two rules stops saying which one it is about."""
+    f["mapped"][slug] = authority
+    for o in f["orgs"]:
+        if o["slug"] == slug:
+            o["enabling_authority"] = authority
+
+
+def _audit(f) -> list[Problem]:
+    return (audit_table(f["orgs"], f["mapped"], f["unmapped"], f["citations"])
+            + audit_registry(f["orgs"], f["mapped"], f["unmapped"]))
+
+
+def _case_authority_that_cites_nothing(f):
+    """Prose where a citation belongs. `--check` used to skip every value that did not begin
+    with `ORS `, so this passed and reported the table as consistent with the corpus."""
+    _set(f, "board-of-imaginary-affairs", "chapter 999 somewhere")
+
+
+def _case_authority_that_records_an_absence(f):
+    """A `none: <reason>` row filed in MAPPED. It is a well-formed value in the wrong
+    table, so every count of bodies WITH an enabling authority includes a body that has
+    none — and the two tables stop meaning what their names say."""
+    _set(f, "board-of-imaginary-affairs", NO_AUTHORITY + "nothing constitutes it here")
+
+
+def _case_ors_citation_that_resolves_to_nothing(f):
+    """A citation to a section this corpus does not carry. Either it is wrong or upstream
+    moved it; both are worth knowing, and neither may be published as admitting evidence."""
+    _set(f, "board-of-imaginary-affairs", "ORS 998.998")
+
+
+def _case_executive_order_that_resolves_to_nothing(f):
+    """The same failure for the executive-order form. It is checked because the orders ARE
+    mirrored — 526 of them — so taking an EO citation on faith would be a choice, not a
+    limitation like the unmirrored constitution."""
+    _set(f, "office-of-imagined-orders", "Executive Order 98-98")
+
+
+def _case_unmapped_with_no_reason(f):
+    """"We looked and there is none", with nothing behind it. ADR 0004 calls a `part_of`
+    unit's missing authority "a decision with a reason and not a gap"; without the reason
+    the two are the same string."""
+    f["unmapped"]["imaginary-affairs-inspection-division"] = ""
+    for o in f["orgs"]:
+        if o["slug"] == "imaginary-affairs-inspection-division":
+            o["enabling_authority"] = NO_AUTHORITY
+
+
+def _case_unmapped_reason_that_is_an_authority(f):
+    """A citation filed as a reason there is no citation. The row reads as reviewed and
+    reports the body as one nothing created, while the value sitting in it says what did —
+    which is how a constitutional office ends up recorded as having no enabling authority."""
+    f["unmapped"]["imaginary-affairs-inspection-division"] = "Or. Const. Art. XVII, sec. 99"
+    for o in f["orgs"]:
+        if o["slug"] == "imaginary-affairs-inspection-division":
+            o["enabling_authority"] = no_authority_value("Or. Const. Art. XVII, sec. 99")
+
+
+def _case_slug_that_is_not_in_the_registry(f):
+    """A reviewed row for a body this registry does not carry. The review is real and the
+    body it names is unreachable, so the authority is recorded nowhere a reader can find."""
+    f["mapped"]["board-of-bodies-that-do-not-exist"] = "ORS 999.999"
+
+
+def _case_slug_in_both_tables(f):
+    """One body with an authority AND a reason it has none. Whichever table a reader
+    consults is the answer they get."""
+    f["unmapped"]["board-of-imaginary-affairs"] = "Nothing constitutes it separately."
+
+
+def _case_registry_missing_a_reviewed_authority(f):
+    """A reviewed row that never reached the registry. The table says a human read the
+    section; the file says nobody has looked at this body — and the file is what three
+    sibling corpora read."""
+    for o in f["orgs"]:
+        if o["slug"] == "board-of-imaginary-affairs":
+            del o["enabling_authority"]
+
+
+def _case_registry_carrying_an_authority_no_table_has(f):
+    """A row that acquired an authority some other way — the drift a single writer exists
+    to prevent. Nothing about the row looks wrong; it is simply a claim about Oregon law
+    that no reviewed table stands behind."""
+    for o in f["orgs"]:
+        if o["slug"] == "board-nobody-has-reviewed":
+            o["enabling_authority"] = "ORS 999.999"
+
+
+_CASES = [
+    ("authority-that-cites-nothing", _case_authority_that_cites_nothing, "authority-form"),
+    ("authority-that-records-an-absence", _case_authority_that_records_an_absence,
+     "authority-form"),
+    ("ors-citation-that-resolves-to-nothing", _case_ors_citation_that_resolves_to_nothing,
+     "authority-resolves"),
+    ("executive-order-that-resolves-to-nothing",
+     _case_executive_order_that_resolves_to_nothing, "authority-resolves"),
+    ("unmapped-with-no-reason", _case_unmapped_with_no_reason, "unmapped-has-reason"),
+    ("unmapped-reason-that-is-an-authority", _case_unmapped_reason_that_is_an_authority,
+     "unmapped-is-not-an-authority"),
+    ("slug-that-is-not-in-the-registry", _case_slug_that_is_not_in_the_registry,
+     "slug-in-registry"),
+    ("slug-in-both-tables", _case_slug_in_both_tables, "not-both-tables"),
+    ("registry-missing-a-reviewed-authority", _case_registry_missing_a_reviewed_authority,
+     "registry-agrees"),
+    ("registry-carrying-an-authority-no-table-has",
+     _case_registry_carrying_an_authority_no_table_has, "registry-agrees"),
+]
+
+
+def _proof_apply_writes_the_same_bytes_twice() -> int:
+    """--apply is a migration, and a migration that is not re-runnable is one nobody can
+    replay against the committed file to check what it did. Run twice over the same rows:
+    the second run must change nothing and dump the same bytes."""
+    f = _fixture()
+    want = reviewed(f["mapped"], f["unmapped"])
+    cat = {"organizations": [{"slug": o["slug"], "name": o["name"]} for o in f["orgs"]]}
+    first = apply_reviewed(cat, f["mapped"], f["unmapped"])
+    once = yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100)
+    again = apply_reviewed(yaml.safe_load(once), f["mapped"], f["unmapped"])
+    twice = yaml.safe_dump(yaml.safe_load(once), sort_keys=False, allow_unicode=True,
+                           width=100)
+    # The row no table mentions must come out of a write with NO key, not with a null one:
+    # --apply may not turn "nobody has looked yet" into a blank assertion of absence.
+    untouched = [o for o in cat["organizations"] if o["slug"] not in want]
+    if (first != len(want) or again != 0 or once != twice
+            or any("enabling_authority" in o for o in untouched)):
+        print(f"FAIL apply-writes-the-same-bytes-twice: wrote {first} of {len(want)} "
+              f"row(s), rewrote {again} on the second run, bytes "
+              f"{'match' if once == twice else 'differ'}, "
+              f"{sum('enabling_authority' in o for o in untouched)} unreviewed row(s) "
+              "touched", file=sys.stderr)
+        return 1
+    return 0
+
+
+def selftest() -> int:
+    bad = _proof_apply_writes_the_same_bytes_twice()
+    for name, mutate, rule in _CASES:
+        f = _fixture()
+        assert not _audit(f), f"fixture does not pass cleanly ({name}): {_audit(f)}"
+        mutate(f)
+        problems = _audit(f)
+        if not any(p.rule == rule for p in problems):
+            print(f"FAIL {name}: expected a [{rule}] problem, got {problems}",
+                  file=sys.stderr)
+            bad += 1
+    print(f"{len(_CASES) + 1} violation(s) demonstrated failing"
+          if not bad else f"{bad} rule(s) did not fire")
+    return 1 if bad else 0
 
 
 def main() -> int:
@@ -372,10 +777,20 @@ def main() -> int:
     g = ap.add_mutually_exclusive_group(required=True)
     g.add_argument("--propose", action="store_true",
                    help="write a review sheet of candidates; writes nothing to the registry")
+    g.add_argument("--apply", action="store_true",
+                   help="write the reviewed table into the registry's enabling_authority")
     g.add_argument("--check", action="store_true",
-                   help="verify the reviewed table against the mirrored corpus")
+                   help="verify the reviewed table and the registry against the corpus")
+    g.add_argument("--selftest", action="store_true",
+                   help="prove every rule --check enforces can fail")
     args = ap.parse_args()
-    return propose() if args.propose else check()
+    if args.propose:
+        return propose()
+    if args.apply:
+        return cmd_apply()
+    if args.selftest:
+        return selftest()
+    return check()
 
 
 if __name__ == "__main__":

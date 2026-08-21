@@ -347,6 +347,16 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   holds the same number for one more cycle (ADR 0003, removed by #177); that the two agree
   is a rule of the registry's contract, so it is `catalog_agencies.py --check` that fails a
   row where they disagree or where only one of them is present.
+  The enabling authority (CONTEXT.md) lives in `enabling_authority`, written by
+  `python3 src/link_enabling_authority.py --apply` from the hand-reviewed `MAPPED` /
+  `UNMAPPED` tables in that file — its single writer, the same arrangement the DAS number
+  has — and gated by that script's `--check` (CI, every PR): every citation is resolved
+  against the mirrored ORS and executive orders, and the registry is compared with the table
+  in BOTH directions, so a row that acquired an authority any other way fails. `--propose`
+  writes a review sheet of candidates and never touches the registry; `--selftest` proves
+  every one of those rules can fail. An ABSENT `enabling_authority` means nobody has
+  reviewed that body yet — never that the body has none; a reviewed body with no separate
+  authority carries `none: ` and the reason.
 - **Agency profiles**: `_meta/agency-profiles.yml` carries curated context ABOUT each
   agency's data — governance class (citation basis REQUIRED; 'unclassified' is the
   only uncited value allowed), where the agency publishes policies (or that it
