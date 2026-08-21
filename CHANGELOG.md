@@ -11,6 +11,23 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Added
+- 2026-08-21 — `enabling_authority` on the agency registry (#170): the field that
+  records what created a body — an ORS citation, a constitutional article, or an
+  executive order, because ADR 0003 records an AUTHORITY rather than a statute so
+  that constitutional offices have somewhere true to sit. It is CURATED and
+  survives `--refresh`, and its single writer is
+  `python3 src/link_enabling_authority.py --apply`, driven by the hand-reviewed
+  `MAPPED` / `UNMAPPED` tables in that file. THE TABLES ARE STILL EMPTY and no
+  registry row changed: this lands the field and its gate, not the data — the 126
+  proposed candidates in `_meta/catalog/enabling-authority-review.yml` are
+  proposals, and each becomes a row only after a human reads the section. Three
+  states stay distinguishable: an authority recorded, `none: ` and a reason when
+  someone looked and there is none, and an absent key — all 189 rows today —
+  meaning nobody has looked yet. A blank value is a contract violation, because it
+  asserts absence with nobody behind it. `link_enabling_authority.py --check` now
+  runs in the `generated-views` CI job and can fail while the tables are empty (a
+  row carrying an authority no table accounts for), alongside a new `--selftest`
+  that demonstrates all nine of its rules failing.
 - 2026-08-21 — `das_agency_number` on all 80 agency-registry rows that carry a
   DAS agency number (#175): ADR 0003 renames `budget_agency_code`, because the
   number identifies a body in the state's financial administration and says

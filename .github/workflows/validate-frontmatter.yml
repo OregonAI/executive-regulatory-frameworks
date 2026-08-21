@@ -66,6 +66,14 @@ jobs:
       # built to break exactly one — a gate nobody has watched fail is not known to work.
       - name: Agency-registry contract rules must all be able to fail
         run: python3 src/catalog_agencies.py --selftest
+      # The enabling authority is ADMITTING evidence (ADR 0003) — a citation alone can put
+      # a body in the registry — so a wrong one is a false statement about Oregon law
+      # published under provenance. Every rule its --check enforces fires here against a
+      # synthetic table and a synthetic registry, which matters most right now: the
+      # reviewed table is EMPTY, so the gate below has almost nothing of its own to say
+      # yet, and an empty table is exactly when a quiet gate looks like a passing one.
+      - name: Enabling-authority rules must all be able to fail
+        run: python3 src/link_enabling_authority.py --selftest
       # The measurement side of the same pipeline, and its failures are quieter than the
       # merge's: a recall number computed against the wrong ground truth, or a per-type
       # table built from hand labels attached to the wrong candidates, is a confident
@@ -141,6 +149,14 @@ jobs:
       # survive it, plus the slug/chapter/parent rules of ADR 0003 and ADR 0004.
       - name: Agency registry must keep its contract
         run: python3 src/catalog_agencies.py --check
+      # `enabling_authority` is written by ONE thing — the hand-reviewed MAPPED/UNMAPPED
+      # tables in link_enabling_authority.py — and this verifies the registry against them
+      # in both directions, plus every citation against the mirrored ORS and executive
+      # orders. It can fail while both tables are empty: a row that acquired an authority
+      # any other way is reported, which is the drift a single writer exists to prevent.
+      # ~10 s; reads committed data only, no network.
+      - name: Enabling authorities must match the reviewed table
+        run: python3 src/link_enabling_authority.py --check
       # Conflict candidates that need no model. A hand-labelled taxonomy of the 137
       # frontier-pilot candidates found 29% were of four deterministic types, and code
       # finds far more of them than the models did — the pilot reported 21 dead citations
