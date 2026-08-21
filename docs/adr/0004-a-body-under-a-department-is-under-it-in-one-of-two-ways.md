@@ -61,6 +61,95 @@ matcher for 81 bodies until #155, it hid the commodity commissions from ADR 0003
 worked example (#156), and it is not applied consistently — `Oregon Health Authority Equity
 and Inclusion Division` has a parent and no comma, alone among the 81.
 
+## Amendment: the kinds are derived from PROPOSED evidence, and each one says so
+
+The decision above derives the kind from admitting evidence, and when the time came to
+derive it there was none. All 189 `enabling_authority` keys are absent — nobody has reviewed
+a single body — and what the repository holds instead is 126 CANDIDATES in
+`_meta/catalog/enabling-authority-review.yml`, produced by a matcher. `link_enabling_authority.py`
+is explicit about what those are worth: "a row that was pattern-matched and not read belongs
+in the review sheet, not here." A candidate is a proposal. It is not evidence.
+
+**We decided to derive the kinds from the proposals anyway, and to record on every kind what
+it was derived from.** The alternative was to wait on the review of 126 rows, and the split
+is worth more now than the review is worth later. What makes that defensible is not the
+speed, it is the `basis`: a kind resting on a candidate nobody has read carries
+`proposed-enabling-authority`, a kind resting on a reviewed authority carries
+`reviewed-enabling-authority`, and the registry therefore never presents the weaker
+population as the stronger one. The row upgrades — visibly, in the diff — the day the review
+lands. Without that, the registry would assert a relationship on evidence it does not hold,
+which is the failure `manual: true` was retired for in ADR 0003: an assertion records that
+someone decided, never what decided it.
+
+`basis` is a different fact from `source`, and the entry carries both. The source says who
+places this body under that one; the basis says what settled which kind it is. A relation
+the OAR index discovered can have its kind decided by a statute, and neither key can say the
+other's thing.
+
+**Only the positive half is derived.** A proposed candidate is evidence that a body is
+separately constituted, so 44 of the 81 children become `administered_by`. The other 37 stay
+`undetermined`, and NOTHING derives `part_of` from the absence of a candidate. The matcher
+finding nothing is a statement about the matcher, and this repository has watched that
+statement be wrong 55 times in a single session: the no-candidate list went 118 to 95 to 82
+to 63 as the compound-name variant, the enumerated-list tier and the catchline tiers each
+closed a gap, every time converting bodies "statute forgot to create" into bodies statute
+plainly created. Deriving a claim from a failed search is what CONTEXT.md's overriding rule
+forbids, and 37 undetermined relations are the correct answer rather than a gap to be closed.
+
+**The 44 are not the 25 this ADR counted, and the two numbers measure different things.**
+Above, this ADR says 25 of the 81 children have their own statutory authority and 56 do not.
+That is a claim about Oregon law. The 44 is a claim about the review sheet — how many
+children a matcher has proposed a section for — and it is the only one of the two anything
+in this repository can check today, which is why it is the one the derivation runs on. Where
+the 25 came from is not recorded, and until the 126 candidates are reviewed neither number
+can correct the other. What the derivation records is which sheet row each kind came from, so
+the reconciliation is a reading rather than a re-count.
+
+**The citation a derived relation carries is the constituting section, not the administering
+one, and this ADR's worked example is where the two come apart.** Above, this ADR is precise
+that ORS 576.062 establishes the commodity commissions as state commissions while ORS 576.066
+is the separate section under which the Department of Agriculture appoints their members,
+reviews their budgets and approves their plans — "oversight of a body, not composition of
+one". A derived relation cites the FIRST. That is the evidence its kind rests on: 576.062 is
+what makes the relation *administered by* rather than *part of*. The second is a section
+nobody in this repository has read, and a derivation that wrote it would be citing a claim
+about Oregon law on nobody's authority — the failure this whole amendment is about, one key
+over.
+
+The `basis` is what tells a reader which section they are holding, and it is why both derived
+bases are named for an ENABLING authority: `proposed-enabling-authority` and
+`reviewed-enabling-authority` each say the citation beside them is what CONSTITUTES the body.
+Recording ORS 576.066 as what makes the administration true stays available and stays
+curated — it is a decision on a basis nothing derives, so it needs a new basis added
+deliberately, and until then `derive_relation_kinds.py --check` refuses to overwrite such an
+entry (`decision-not-ours`) rather than downgrading a curated citation to a proposal.
+
+**A reviewed absence is not turned into `part_of` either, yet.** `none: <reason>` on a row
+is a human saying nothing separately constitutes this body, which is exactly this ADR's
+*part of* — but reading it that way is a second derivation with its own failure modes, and
+it is left to whoever takes it deliberately. What a reviewed absence does do immediately is
+retire the proposal: a candidate a human has ruled on is no longer a proposal, so the row
+derives nothing rather than deriving `administered_by` from a citation the reviewer rejected.
+
+The registry's contract check enforces the shape this leaves behind: a kind other than
+`undetermined` with no basis is refused, an `administered_by` citing no authority is refused,
+and a row recorded `part_of` while carrying an enabling authority is refused, because those
+two are opposite claims about one body. A derived kind is written by one thing,
+`src/derive_relation_kinds.py`, and lives on the relation whose kind it decides — including
+the `oar-index` entry the scrape regenerates, which survives because `relations` now merges
+per KEY as well as per entry: the scrape owns the placement, the derivation owns the
+decision. Putting the kind on a second relation entry was rejected, because a second entry is
+a second PLACEMENT and no statute, DAS register or hand-written note places these bodies
+where the rules index does.
+
+**The eight semi-independent boards did not force the citation form open.** This ADR notes
+that eight of the twelve tier-3 licensing boards are declared under `ORS 182.456 to 182.472`,
+a RANGE, which `AUTHORITY_FORMS` refuses. Nothing here had to record one: every candidate the
+44 derived kinds rest on is a single section (`ORS 576.062`), so the allowlist was left
+exactly as narrow as it was. If a range ever is proposed, no kind is derived from it and the
+row is REPORTED under `candidate-form` rather than left quietly undetermined — widening the
+form stays the deliberate decision this ADR says it is.
+
 ## Consequences
 
 `parent_slug` is replaced by a relation that names the parent, its kind, and the authority

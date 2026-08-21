@@ -271,7 +271,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-alfalfa-seed-commission
   name: Department of Agriculture, Oregon Alfalfa Seed Commission
   oar_name: Department of Agriculture, Oregon Alfalfa Seed Commission
@@ -295,7 +297,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 577.210
 - slug: department-of-agriculture-oregon-blueberry-commission
   name: Department of Agriculture, Oregon Blueberry Commission
   oar_name: Department of Agriculture, Oregon Blueberry Commission
@@ -307,7 +311,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-clover-seed-commission
   name: Department of Agriculture, Oregon Clover Seed Commission
   oar_name: Department of Agriculture, Oregon Clover Seed Commission
@@ -319,7 +325,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-dairy-products-commission
   name: Department of Agriculture, Oregon Dairy Products Commission
   oar_name: Department of Agriculture, Oregon Dairy Products Commission
@@ -331,7 +339,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-dungeness-crab-commission
   name: Department of Agriculture, Oregon Dungeness Crab Commission
   oar_name: Department of Agriculture, Oregon Dungeness Crab Commission
@@ -343,7 +353,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-fine-fescue-commission
   name: Department of Agriculture, Oregon Fine Fescue Commission
   oar_name: Department of Agriculture, Oregon Fine Fescue Commission
@@ -355,7 +367,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-hazelnut-commission
   name: Department of Agriculture, Oregon Hazelnut Commission
   oar_name: Department of Agriculture, Oregon Hazelnut Commission
@@ -367,7 +381,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-hop-commission
   name: Department of Agriculture, Oregon Hop Commission
   oar_name: Department of Agriculture, Oregon Hop Commission
@@ -379,7 +395,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-invasive-species-council
   name: Department of Agriculture, Oregon Invasive Species Council
   oar_name: Department of Agriculture, Oregon Invasive Species Council
@@ -391,7 +409,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 570.770
 - slug: department-of-agriculture-oregon-mint-commission
   name: Department of Agriculture, Oregon Mint Commission
   oar_name: Department of Agriculture, Oregon Mint Commission
@@ -403,7 +423,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-potato-commission
   name: Department of Agriculture, Oregon Potato Commission
   oar_name: Department of Agriculture, Oregon Potato Commission
@@ -415,7 +437,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-processed-vegetable-commission
   name: Department of Agriculture, Oregon Processed Vegetable Commission
   oar_name: Department of Agriculture, Oregon Processed Vegetable Commission
@@ -427,7 +451,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-raspberry-and-blackberry-commission
   name: Department of Agriculture, Oregon Raspberry and Blackberry Commission
   oar_name: Department of Agriculture, Oregon Raspberry and Blackberry Commission
@@ -439,7 +465,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-ryegrass-growers-seed-commission
   name: Department of Agriculture, Oregon Ryegrass Growers Seed Commission
   oar_name: Department of Agriculture, Oregon Ryegrass Growers Seed Commission
@@ -451,7 +479,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-salmon-commission
   name: Department of Agriculture, Oregon Salmon Commission
   oar_name: Department of Agriculture, Oregon Salmon Commission
@@ -463,7 +493,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-sheep-commission
   name: Department of Agriculture, Oregon Sheep Commission
   oar_name: Department of Agriculture, Oregon Sheep Commission
@@ -475,7 +507,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-strawberry-commission
   name: Department of Agriculture, Oregon Strawberry Commission
   oar_name: Department of Agriculture, Oregon Strawberry Commission
@@ -487,7 +521,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-sweet-cherry-commission
   name: Department of Agriculture, Oregon Sweet Cherry Commission
   oar_name: Department of Agriculture, Oregon Sweet Cherry Commission
@@ -499,7 +535,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-tall-fescue-commission
   name: Department of Agriculture, Oregon Tall Fescue Commission
   oar_name: Department of Agriculture, Oregon Tall Fescue Commission
@@ -511,7 +549,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-trawl-commission
   name: Department of Agriculture, Oregon Trawl Commission
   oar_name: Department of Agriculture, Oregon Trawl Commission
@@ -523,7 +563,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 576.062
 - slug: department-of-agriculture-oregon-wheat-commission
   name: Department of Agriculture, Oregon Wheat Commission
   oar_name: Department of Agriculture, Oregon Wheat Commission
@@ -535,7 +577,9 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 578.030
 - slug: department-of-consumer-and-business-services
   name: Department of Consumer and Business Services
   oar_name: Department of Consumer and Business Services
@@ -630,7 +674,9 @@ organizations:
   relations:
   - target: department-of-consumer-and-business-services
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 656.712
 - slug: department-of-consumer-and-business-services-workers-compensation-division
   name: Department of Consumer and Business Services, Workers' Compensation Division
   oar_name: Department of Consumer and Business Services, Workers' Compensation Division
@@ -676,7 +722,9 @@ organizations:
   relations:
   - target: department-of-energy
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 469.450
 - slug: department-of-environmental-quality
   name: Department of Environmental Quality
   oar_name: Department of Environmental Quality
@@ -769,7 +817,9 @@ organizations:
   relations:
   - target: department-of-human-services
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 410.602
 - slug: department-of-human-services-self-sufficiency-programs
   name: Department of Human Services, Self-Sufficiency Programs
   oar_name: Department of Human Services, Self-Sufficiency Programs
@@ -793,7 +843,9 @@ organizations:
   relations:
   - target: department-of-human-services
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 346.180
 - slug: department-of-justice
   name: Department of Justice
   oar_name: Department of Justice
@@ -849,7 +901,9 @@ organizations:
   relations:
   - target: department-of-state-lands
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 273.554
 - slug: department-of-state-police
   name: Department of State Police
   oar_name: Department of State Police
@@ -890,7 +944,9 @@ organizations:
   relations:
   - target: department-of-state-police
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 463.113
 - slug: department-of-transportation
   name: Department of Transportation
   oar_name: Department of Transportation
@@ -1085,7 +1141,9 @@ organizations:
   relations:
   - target: higher-education-coordinating-commission
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 348.511
 - slug: judicial-department
   name: Judicial Department
   oar_name: Judicial Department
@@ -1265,7 +1323,9 @@ organizations:
   relations:
   - target: mental-health-regulatory-agency
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 675.775
 - slug: mental-health-regulatory-agency-oregon-board-of-psychology
   name: Mental Health Regulatory Agency, Oregon Board of Psychology
   oar_name: Mental Health Regulatory Agency, Oregon Board of Psychology
@@ -1277,7 +1337,9 @@ organizations:
   relations:
   - target: mental-health-regulatory-agency
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 675.100
 - slug: mortuary-and-cemetery-board
   name: Mortuary and Cemetery Board
   oar_name: Mortuary and Cemetery Board
@@ -1468,7 +1530,9 @@ organizations:
   relations:
   - target: oregon-department-of-education
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 342.930
 - slug: oregon-department-of-education-youth-development-division
   name: Oregon Department of Education, Youth Development Division
   oar_name: Oregon Department of Education, Youth Development Division
@@ -1480,7 +1544,9 @@ organizations:
   relations:
   - target: oregon-department-of-education
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 417.852
   aliases:
   - Youth Development Division
 - slug: oregon-facilities-authority
@@ -1563,7 +1629,9 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 676.560
 - slug: oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board
   name: Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board
   oar_name: Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board
@@ -1575,7 +1643,9 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 676.806
 - slug: oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians
   name: Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians
   oar_name: Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians
@@ -1587,7 +1657,9 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 676.650
 - slug: oregon-health-authority-health-licensing-office-board-of-cosmetology
   name: Oregon Health Authority, Health Licensing Office, Board of Cosmetology
   oar_name: Oregon Health Authority, Health Licensing Office, Board of Cosmetology
@@ -1599,7 +1671,9 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 690.155
 - slug: oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery
   name: Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery
   oar_name: Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery
@@ -1611,7 +1685,9 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 687.470
 - slug: oregon-health-authority-health-licensing-office-board-of-licensed-dietitians
   name: Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians
   oar_name: Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians
@@ -1635,7 +1711,9 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 700.210
 - slug: oregon-health-authority-health-licensing-office-long-term-care-administrators-board
   name: Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board
   oar_name: Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board
@@ -1647,7 +1725,9 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 678.800
 - slug: oregon-health-authority-health-policy-and-analytics
   name: Oregon Health Authority, Health Policy and Analytics
   oar_name: Oregon Health Authority, Health Policy and Analytics
@@ -1659,7 +1739,9 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 442.011
 - slug: oregon-health-authority-health-systems-division-addiction-services
   name: 'Oregon Health Authority, Health Systems Division: Addiction Services'
   oar_name: 'Oregon Health Authority, Health Systems Division: Addiction Services'
@@ -1707,7 +1789,9 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 414.312
 - slug: oregon-health-authority-public-employees-benefit-board
   name: Oregon Health Authority, Public Employees' Benefit Board
   oar_name: Oregon Health Authority, Public Employees' Benefit Board
@@ -1719,7 +1803,9 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 243.061
 - slug: oregon-health-authority-public-health-division
   name: Oregon Health Authority, Public Health Division
   oar_name: Oregon Health Authority, Public Health Division
@@ -1998,7 +2084,9 @@ organizations:
   relations:
   - target: public-utility-commission
     source: oar-index
-    kind: undetermined
+    kind: administered_by
+    basis: proposed-enabling-authority
+    authority: ORS 776.105
 - slug: real-estate-agency
   name: Real Estate Agency
   oar_name: Real Estate Agency

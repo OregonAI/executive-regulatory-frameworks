@@ -88,8 +88,10 @@ the field. THREE STATES, which may never be collapsed into two: a value in one o
 three forms records an authority; `none: ` and a reason records that someone looked and
 there is none to record (ADR 0004's commonest case — a *part of* unit has nothing separate
 to enable); and an absent key, which is where all 189 rows stand today, means nobody has
-looked yet. Absence is never the claim that a body has no enabling authority, and a blank
-value is refused for making that claim with nobody behind it.
+looked yet. A body recorded *part of* another may never carry an authority in the first
+form: the two are opposite claims about one body, and `catalog_agencies.py --check` refuses
+a row asserting both. Absence is never the claim that a body has no enabling authority, and
+a blank value is refused for making that claim with nobody behind it.
 _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a statute
 
 **Part of**:
@@ -111,12 +113,18 @@ _Avoid_: Division of, part of, reports to — an administered body is not part o
 **Relation**:
 What one body's placement under another is recorded as: a `target` (the parent's registry
 slug), a `source` (whose evidence places it there), a `kind` — *part of*, *administered by*,
-or `undetermined` — and, where one has been established, the `authority` that makes it true.
-It lives in `relations` on every registry row, beside the `parent_slug` it will replace
-(ADR 0004). A body may hold MORE THAN ONE, because DAS, the OAR index and statute may each
-place it under a different parent, and ADR 0003 keeps that disagreement rather than
-reconciling it: enabling authority decides, and the other readings are recorded, not
-resolved away. An empty list says this registry places the body under no other.
+or `undetermined` — the `basis` that kind was derived from, and the `authority` that makes
+it true. It lives in `relations` on every registry row, beside the `parent_slug` it will
+replace (ADR 0004). An *administered by* relation always cites an authority, because that
+is the claim about Oregon law a reader checks; *part of* cites none, because there is
+nothing separate to cite. WHICH section the citation is, is the `basis`'s to say. A derived
+relation cites the section that CONSTITUTES the body — ORS 576.062, which is the evidence
+its kind rests on — and not the one that establishes the administration; both derived bases
+are named for an *enabling authority* for exactly that reason. ORS 576.066, the section the
+department's administration runs on, is a curated decision on a basis nothing derives. A body may hold MORE THAN ONE, because DAS, the OAR index and
+statute may each place it under a different parent, and ADR 0003 keeps that disagreement
+rather than reconciling it: enabling authority decides, and the other readings are
+recorded, not resolved away. An empty list says this registry places the body under no other.
 _Avoid_: Parent, hierarchy, edge — a relation states whose reading it is, and those do not
 
 **Relation source**:
@@ -132,16 +140,34 @@ can regenerate the entry. A relation with no source is
 refused, because it is one nothing can keep safe: `note` is the field that has two origins
 and no way to tell them apart, and a hand-written note there is destroyed by a refresh with
 nothing to report it.
-_Avoid_: Provenance, basis, origin — those name where a document came from, not who says
-the body sits here
+_Avoid_: Provenance, origin — those name where a document came from, not who says the body
+sits here; and never *basis*, which is the key BESIDE this one on the same relation and
+answers a different question (what decided the kind)
+
+**Relation basis**:
+What decided a relation's KIND, written on the relation itself and never the same fact as
+its source: the source says who places this body under that one, the basis says what settled
+which of ADR 0004's two kinds it is, and a relation the OAR index discovered can have its
+kind decided by a statute. TWO STRENGTHS, which may never be collapsed into one:
+`reviewed-enabling-authority` is the basis ADR 0004 describes — the authority the row itself
+carries, hand-reviewed — and `proposed-enabling-authority` is a CANDIDATE from
+`_meta/catalog/enabling-authority-review.yml` that nobody has read, which is a proposal and
+not evidence. 44 of the 81 kinds rest on the second today, and the row upgrades visibly when
+the review lands. A kind other than *undetermined* with no basis is refused, for the reason
+`manual: true` was retired: an assertion records that someone decided, never what decided
+it. It is written by one thing, `src/derive_relation_kinds.py`.
+_Avoid_: Evidence, provenance, reason — a basis says what a KIND was derived from, and
+`source` already answers where the relation came from
 
 **Undetermined**:
 The kind of a relation nobody has decided yet. Choosing between *part of* and *administered
-by* turns on whether the body carries its own admitting evidence (ADR 0004), and that
-evidence is not in the registry yet — so `undetermined` is what every relation records
-today, and `catalog_agencies.py --check` reports the count on every run. It says the
-relation is REAL and its kind unestablished, which is neither of the two kinds and is never
-a third one.
+by* turns on whether the body carries its own admitting evidence (ADR 0004), and 37 of the
+81 relations have none of any strength — so `undetermined` is what they record, and
+`catalog_agencies.py --check` reports the count on every run. It says the relation is REAL
+and its kind unestablished, which is neither of the two kinds and is never a third one. It
+is also never derived FROM an absence: that a matcher found no candidate for a body is a
+statement about the matcher, so a relation nothing speaks to stays undetermined rather than
+becoming *part of*, and 37 of them is the answer rather than a backlog.
 _Avoid_: Unknown, null, blank — an absent kind lets a consumer read whichever it prefers
 
 **DAS agency number**:
