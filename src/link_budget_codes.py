@@ -32,6 +32,7 @@ import sys
 
 import yaml
 
+import catalog_agencies
 from repo_lib import REPO_ROOT
 
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
@@ -357,21 +358,27 @@ def main() -> int:
     for slug, name, _code in MANUAL_ENTRIES:
         if slug in by_slug:
             continue
-        entry = {"slug": slug, "name": name,
-                 # THE OAR NAME (CONTEXT.md), which for these bodies is the same string as
-                 # every other name they have. They hold no OAR chapter — that is why the
-                 # scrape cannot see them — so there is no chapter title to differ from it,
-                 # and this is the name the registry has always published for the body.
-                 # It is written because `oar_name` is what consumers join on from here
-                 # (ADR 0003), and a row without one is a row those joins lose: six of the
-                 # slugs below are ones oregon-kpm's crosswalk resolves into today.
-                 "oar_name": name, "oar_chapter": None,
-                 "raw_index_name": name, "source_url": None,
-                 "parent_slug": None, "parent_chapter": None,
-                 # `manual` is what makes catalog_agencies.py --refresh keep it: the scrape
-                 # cannot produce a body that issues no rules, so a refresh would otherwise
-                 # delete every one of these.
-                 "manual": True}
+        # BUILT BY THE REGISTRY'S OWN CONSTRUCTOR, not by a second hand-written copy of the
+        # row shape. These rows sit in the same file as the scraped ones and must carry the
+        # same keys, and the two spellings of that shape had already drifted apart: adding
+        # `oar_name` to catalog_agencies.FIELDS left this dict a field short, so the row it
+        # rebuilt failed --check's required-field rule. One constructor means the next field
+        # cannot repeat that. The declared slug still wins over the derived one, because
+        # MANUAL_ENTRIES is where a body the scrape cannot see gets its identity (the two
+        # agree on all 14 today).
+        #
+        # The OAR name (CONTEXT.md) it ends up with is the body's own name. These bodies
+        # hold no OAR chapter — that is why the scrape cannot see them — so there is no
+        # chapter title to differ from it, and copying it asserts nothing about what the
+        # rules index prints. It is written because `oar_name` is the string consumers
+        # join on from here (ADR 0003), and a row without one is a row those joins lose.
+        entry = dict(catalog_agencies.scraped_entry(
+            name=name, oar_chapter=None, raw_index_name=name, source_url=None),
+            slug=slug,
+            # `manual` is what makes catalog_agencies.py --refresh keep it: the scrape
+            # cannot produce a body that issues no rules, so a refresh would otherwise
+            # delete every one of these.
+            manual=True)
         cat["organizations"].append(entry)
         by_slug[slug] = entry
         added += 1

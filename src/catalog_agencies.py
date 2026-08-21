@@ -418,6 +418,13 @@ def find(query: str, limit: int = 8):
 # Measured on those 76: 66 automatic (24 exact, 31 normalized, 10 token, 1 alias), 10 left
 # for a human. Recorded in _meta/catalog/retention-schedule-agencies.yml with a basis and,
 # for anything non-exact, a note.
+#
+# MATCHES ON `name`, WHICH IS THE IN-REPO CONSUMER ADR 0003 MOVES THE GROUND UNDER. It is
+# unaffected today because `oar_name` holds the same bytes as `name` on all 189 rows — but
+# the OAR name is what these publisher-written strings are spelled against, so when `name`
+# becomes the statutory name this matcher has to consider `oar_name` too, and the 76
+# recorded resolutions have to be re-measured rather than assumed. Same re-verification the
+# sibling crosswalks get, and the reason `oar_name` landed before `name` changed.
 
 # The trailing `\.?` deliberately carries no closing `\b`. `\bdept\.?\b` CANNOT match
 # "dept." — after the optional period `\b` would sit between "." and " ", neither a word
@@ -781,6 +788,14 @@ def _case_missing_oar_name(cat):
     del cat["organizations"][1]["oar_name"]
 
 
+def _case_missing_name(cat):
+    """A row that dropped `name`. The same deletion as the case above breaks two rules at
+    once — nothing can be simulated for the row, AND a required field is gone — and a case
+    asserts one rule, so each gets its own. `name` and `oar_name` are the two names a
+    consumer can resolve a body by, and every row is required to carry both."""
+    del cat["organizations"][1]["name"]
+
+
 def _case_row_is_not_a_mapping(cat):
     """A row no rule can be evaluated against. It must FAIL, not be skipped — a row we
     could not check is never a row that passed."""
@@ -858,12 +873,7 @@ _CASES = [
     ("duplicate-chapter", _case_duplicate_chapter, "unique-chapter"),
     ("missing-required-field", _case_missing_required_field, "required-field"),
     ("missing-oar-name", _case_missing_oar_name, "required-field"),
-    # The SAME mutation as row-the-simulation-cannot-run-on above, asserted against the
-    # other rule it has to trip. Deleting `name` breaks two things at once — nothing can be
-    # simulated for the row, AND a required field is gone — and a case asserts one rule, so
-    # covering both takes two entries. `name` and `oar_name` are the two names a consumer
-    # can resolve a body by, and each is required on every row.
-    ("missing-name", _case_row_the_simulation_cannot_run_on, "required-field"),
+    ("missing-name", _case_missing_name, "required-field"),
     ("row-is-not-a-mapping", _case_row_is_not_a_mapping, "readable-row"),
 ]
 

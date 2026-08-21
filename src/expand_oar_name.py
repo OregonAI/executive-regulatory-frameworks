@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """Land `oar_name` beside `name` on every row of the agency registry.
 
-  python3 src/expand_oar_name.py           # write oar_name into agencies.yml
-  python3 src/expand_oar_name.py --check   # report rows that carry no oar_name
+  python3 src/expand_oar_name.py
 
 THE EXPAND HALF OF ADR 0003's RENAME. ADR 0003 moves the OAR chapter title out of `name`
 and makes `name` the statutory name, and the cost it names falls on the consumers:
@@ -23,18 +22,20 @@ to committed data is not a reason to re-open what every other field says, and th
 RE-RUNNABLE AND IDEMPOTENT. A row that already carries `oar_name` is left exactly as it is
 — the value is not re-derived from `name`, because after ADR 0003's later step the two stop
 being the same string and re-deriving would overwrite the real OAR name with a statutory
-one. So a second run writes the same bytes as the first, and the check below is a
-first-class mode rather than something to eyeball. The CI gate is
-`catalog_agencies.py --check`, which requires `oar_name` on every row; `--check` here is
-this script's own before/after statement, and the place a row it CANNOT migrate is named.
+one. So a second run writes the same bytes as the first, and re-running it is how you check
+that it landed. It carries no `--check` of its own: whether every row has an `oar_name` is
+already a rule of the registry's contract, gated on every PR by `catalog_agencies.py
+--check`, and a fact stated by two gates is a fact that can be true in one and false in the
+other.
 
 WHY EVERY ROW, INCLUDING THE MANUAL ONES. Seventeen rows are `manual` — bodies the chapter
 scrape cannot see, most of them holding no OAR chapter at all. They still get an `oar_name`,
-because the point of the field is that consumers can join on it: six of those slugs are ones
-oregon-kpm's crosswalk resolves into today, and leaving them empty would mean the crosswalk
-loses them the moment it moves off `name`. What the value asserts is what `name` asserted
-before it — this is the string this registry has always published for that body — and no new
-claim about the rules index is made by copying it.
+because the point of the field is that consumers can join on it: those slugs include ones
+oregon-kpm's agency crosswalk resolves into today (see preserve_manual in
+catalog_agencies.py), and leaving them empty would mean the crosswalk loses them the moment
+it moves off `name`. What the value asserts is what `name` asserted before it — this is the
+string this registry publishes for that body — and copying it claims nothing about what the
+rules index prints.
 """
 import sys
 
@@ -53,7 +54,7 @@ def expanded(org: dict) -> dict:
     review — a field whose whole purpose is to sit beside another one should be printed
     beside it.
     """
-    if "oar_name" in org or "name" not in org:
+    if "oar_name" in org:
         return org
     out = {}
     for key, value in org.items():
@@ -63,58 +64,54 @@ def expanded(org: dict) -> dict:
     return out
 
 
-def missing(orgs: list) -> list:
-    """[(row id, why)] for every row this script cannot leave carrying an `oar_name`.
+def classify(orgs: list):
+    """(carries, to_migrate, blocked) — every row in exactly one of three states.
 
-    A row with no `name` is REPORTED rather than skipped or given an empty string. There
-    is nothing to copy and inventing one would publish a name no source states — and a row
-    we could not migrate must never be counted among the ones that came out clean
-    (CONTEXT.md: "could not check" is never reported as "is not there").
+    `blocked` is the one that matters, and it is why this is a classification rather than a
+    filter for rows lacking the key. A row with no `name` has nothing to copy, and giving it
+    an empty string would publish a name no source states; a row that is not a mapping
+    cannot be read at all. Both are REPORTED under their own reason and neither is counted
+    among the rows that came out clean, because a row we could not migrate is never a row
+    that did not need migrating — the registry's rule that being absent means no evidence
+    was found, "never that none was sought" (CONTEXT.md, *Agency registry*).
+
+    `blocked` and `to_migrate` are separate for the same reason: "nothing can give this row
+    an OAR name" and "nobody has yet" are different states, and a human acts on them
+    differently.
     """
-    out = []
+    carries, to_migrate, blocked = [], [], []
     for i, org in enumerate(orgs):
         if not isinstance(org, dict):
-            out.append((f"organizations[{i}]", "not a mapping"))
-        elif "oar_name" not in org and not isinstance(org.get("name"), str):
-            out.append((org.get("slug") or f"organizations[{i}]",
-                        "no `name` to take an OAR name from"))
-    return out
+            blocked.append((f"organizations[{i}]", "row is not a mapping"))
+        elif "oar_name" in org:
+            carries.append(org)
+        else:
+            row = org.get("slug") or f"organizations[{i}]"
+            if isinstance(org.get("name"), str):
+                to_migrate.append(row)
+            else:
+                blocked.append((row, "no `name` to take an OAR name from"))
+    return carries, to_migrate, blocked
 
 
 def main() -> int:
-    check = "--check" in sys.argv
     cat = yaml.safe_load(CATALOG.read_text())
     orgs = cat.get("organizations") or []
+    carries, to_migrate, blocked = classify(orgs)
 
-    problems = missing(orgs)
-    for row, why in problems:
+    for row, why in blocked:
         print(f"  FAIL {row}: {why}", file=sys.stderr)
-
-    if check:
-        without = [o for o in orgs
-                   if not isinstance(o, dict) or "oar_name" not in o]
-        for o in without:
-            row = o.get("slug", "?") if isinstance(o, dict) else o
-            print(f"  FAIL {row}: no oar_name", file=sys.stderr)
-        if without or problems:
-            print(f"\n{len(without)} of {len(orgs)} row(s) carry no oar_name",
-                  file=sys.stderr)
-            return 1
-        print(f"{len(orgs)} rows carry oar_name")
-        return 0
-
-    if problems:
-        print(f"\n{len(problems)} row(s) cannot be migrated; nothing written",
+    if blocked:
+        print(f"\n{len(blocked)} row(s) cannot be migrated; nothing written",
               file=sys.stderr)
         return 1
 
-    added = sum(1 for o in orgs if "oar_name" not in o)
     cat["organizations"] = [expanded(o) for o in orgs]
     # Same dump settings as catalog_agencies.py and link_budget_codes.py, so the file this
     # writes is byte-identical to the one a later --refresh would write, minus the values.
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
-    print(f"wrote oar_name onto {added} of {len(orgs)} organizations "
-          f"({len(orgs) - added} already had one)")
+    print(f"wrote oar_name onto {len(to_migrate)} of {len(orgs)} organizations "
+          f"({len(carries)} already had one)")
     return 0
 
 
