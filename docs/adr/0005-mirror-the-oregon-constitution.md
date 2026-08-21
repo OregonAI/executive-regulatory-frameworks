@@ -1,8 +1,11 @@
 # Mirror the Oregon Constitution
 
-**Status: PROPOSED.** Nothing has been ingested and no source group exists. This records a
-recommendation and the measurements behind it so the decision can be made against something
-concrete, or declined for a stated reason.
+**Status: ACCEPTED (2026-08-21).** The decision is taken: this corpus will mirror the Oregon
+Constitution as a source group, on the 751 citing documents and the authority chain they
+imply. What has landed is the part that is not ingestion — the recheck cadence the section
+below argues about is now an expressible value (#193). Nothing is mirrored yet and no source
+group exists; `constitution.yml` and the first mirrored article are #194, and this record says
+ACCEPTED because the decision was made, not because the work is finished.
 
 This corpus mirrors the Oregon Revised Statutes and the Oregon Administrative Rules, and it
 maintains a catalog of the federal instruments its documents cite — 1,271 targets and 916
@@ -73,7 +76,8 @@ The recheck cadence differs from every existing group and should not be copied f
 The constitution is amended by ballot measure at general elections, not by the biennial
 session that drives `ors.yml`'s `recheck: biennial`. Getting this wrong is quiet: a
 constitution that is never rechecked drifts without any signal, because unlike a repealed
-ORS section there is no chapter re-issue to notice.
+ORS section there is no chapter re-issue to notice. The amendment below records what that
+cadence became.
 
 The `check-updates` skill gains an update group, and `detect-upstream-changes` gains one
 source to watch. A single-page source is also a single point of failure for drift detection:
@@ -92,3 +96,52 @@ What this does not settle is whether the same reasoning admits the Oregon Consti
 *history* — superseded sections and repealed articles are cited in older documents — or
 Oregon appellate decisions construing it, which are cited in some rules and which would be a
 far larger undertaking with a genuinely different reproduction basis.
+
+## Amendment: the cadence is its own value, because `biennial` is two years out of phase
+
+Written 2026-08-21 with the decision above (#193), before anything is ingested, because the
+cadence is the part of this ADR that had nowhere true to live. `_meta/sources/*.yml` admitted
+five values, and the obvious move — reuse `biennial`, since the ballot cycle is also two years
+— is the ambiguity this ADR calls quiet, in the one field a reader would trust to be
+unambiguous. Two groups would both declare `biennial` while meaning opposite halves of the
+same cycle: `ors.yml` means the edition published after the ODD-year legislative session, and
+the constitution means the amendments decided at the general election in November of
+EVEN-numbered years.
+
+That is not a naming preference, and it was measured rather than asserted. A cadence in this
+repo is a number of days since the last check, so the question is where a group lands when it
+comes due. Against every consecutive pair of general elections from 2026 to 2100, a group
+checked the day after one election and carrying `biennial`'s 730 days comes due between **4
+days BEFORE and 3 days after** the next one — on the wrong side of the event it exists to
+catch, or on election night with the votes still being counted. Sharing the value would have
+made that state unreachable by any gate, because nothing distinguishes a group that means the
+session from one that means the ballot.
+
+The value is **`even_year_general_election`**, and its interval is **765 days = 735 + 30**.
+735 is the LONGEST span between two consecutive general elections — the Tuesday after the
+first Monday in November slides election day between the 2nd and the 8th, so consecutive
+even-year elections stand 728 or 735 days apart through 2100 — and taking the longest is what
+keeps a due date from ever landing before the election. The 30 is the margin in which the vote
+is canvassed and an approved amendment takes effect; a check on election night finds nothing
+to read. Measured the same way as `biennial` above, it comes due between **31 and 38 days
+after** the election it must follow, and `src/check_updates.py --selftest` holds both
+measurements: the one that must be in that window, and the one that must not.
+
+WHAT THE INTERVAL CANNOT DO is set its own phase. `recheck` counts days since the last check,
+so a group first registered in the middle of a cycle stays in the middle of it forever, and
+the guarantee above holds only for a group whose `last_checked` starts after a general
+election. Putting the group on phase when it is created is #194's and #197's job — the
+`last_checked` a new group starts with is a decision, not a formality — and a cadence that
+could state the phase itself, "due after the next even-year general election", is #198. This
+records the limit rather than leaving it to be discovered from a due-state that looks fine.
+
+Two other things follow, and neither is about the constitution. The cadence was declared
+TWICE — `CADENCE_DAYS` in `src/check_updates.py` and the `recheck` enum in
+`_meta/schema/source-group.schema.json` — with nothing gating their agreement: the same shape
+as `CURATED_KEYS` in #165, two hand-maintained lists of one fact that agreed only because
+nobody had touched them. The schema's node is now DERIVED from the table
+(`--sync-schema` writes it, `--check` fails when the committed one has drifted), and the
+derivation runs that way round because the interval is the half a JSON Schema has no keyword
+for. And a group declaring a cadence nobody declared is now REPORTED against the group,
+where it used to be a `KeyError` raised from a dict lookup inside `report_due()` — which named
+the dict instead of the file, and took every other group's due-state down with it.

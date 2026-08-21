@@ -83,6 +83,15 @@ jobs:
       # from the absence of a candidate, and leave a reviewed row still recording a proposal.
       - name: Relation-kind derivation rules must all be able to fail
         run: python3 src/derive_relation_kinds.py --selftest
+      # A cadence is what says when a group is rechecked, and it used to be written twice:
+      # CADENCES in check_updates.py and the `recheck` enum in the source-group schema, with
+      # nothing gating their agreement (#165's CURATED_KEYS, in a second place). The enum is
+      # now derived from the table, and this proves the gate can fail: a cadence on one side
+      # only, an interval the schema prints that the table no longer means, and a group
+      # declaring a cadence nobody declared — which used to be a bare KeyError out of
+      # report_due(), taking every other group's due-state down with it. Synthetic fixtures.
+      - name: Cadence rules must all be able to fail
+        run: python3 src/check_updates.py --selftest
       # The measurement side of the same pipeline, and its failures are quieter than the
       # merge's: a recall number computed against the wrong ground truth, or a per-type
       # table built from hand labels attached to the wrong candidates, is a confident
@@ -193,6 +202,11 @@ jobs:
       # Reads committed data only (the registry and the review sheet), no network.
       - name: Relation kinds must match the derivation
         run: python3 src/derive_relation_kinds.py --check
+      # The committed schema's `recheck` node against the declaration it is generated from,
+      # plus every source group's declared cadence against it. Reads committed data only
+      # (the schema and _meta/sources/*.yml), no network.
+      - name: Recheck cadences must be declared once
+        run: python3 src/check_updates.py --check
       # Conflict candidates that need no model. A hand-labelled taxonomy of the 137
       # frontier-pilot candidates found 29% were of four deterministic types, and code
       # finds far more of them than the models did — the pilot reported 21 dead citations

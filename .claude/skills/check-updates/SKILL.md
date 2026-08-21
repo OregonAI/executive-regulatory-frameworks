@@ -93,4 +93,10 @@ changes.
   behind the `detect-upstream-changes` workflow's manual `workflow_dispatch`
   (cron removed).
 - Adding a new group: copy an existing `_meta/sources/*.yml`, fill `kind`/`recheck`/
-  `upstream_signal`/`sources`; it appears in `--due` immediately.
+  `upstream_signal`/`sources`; it appears in `--due` immediately. `recheck` must be one of
+  the cadences declared in `src/check_updates.py`'s `CADENCES` table — the schema's enum is
+  generated from it and prints what each one means in days — and a value nothing declares is
+  reported (`--due` says `UNKNOWN CADENCE`, `--check` fails against the group) rather than
+  raising. A cadence tied to an EVENT rather than an elapsed period
+  (`even_year_general_election`, `biennial`) only lands on that event if the group's first
+  `last_checked` sits after one: the interval cannot set its own phase (#198).

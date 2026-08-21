@@ -45,6 +45,32 @@ corpus-wide changes from 2026-08-02 forward.
   said out loud rather than left to be discovered.
 
 ### Added
+- 2026-08-21 — A recheck cadence for the BALLOT-MEASURE cycle, and one place a cadence is
+  declared (#193). ADR 0005 reads **ACCEPTED**: the decision to mirror the Oregon
+  Constitution is taken, nothing is ingested yet (#194), and the cadence that ADR argues
+  about is now expressible. `even_year_general_election` = **765 days**, and it is NOT a
+  second spelling of `biennial`: the two are the same length and two years apart in phase —
+  `ors.yml`'s `biennial` means the edition published after the ODD-year legislative session,
+  while constitutional amendments are decided at the general election in November of
+  EVEN-numbered years. Measured against every consecutive pair of general elections to 2100,
+  a group checked the day after one election comes due 31–38 days after the next one on the
+  new cadence, and between 4 days BEFORE and 3 days after it on `biennial` — the wrong side
+  of the event it exists to catch. 765 = 735 (the longest span between consecutive general
+  elections, since the first-Tuesday-after-the-first-Monday rule slides election day between
+  November 2 and 8) + 30 (the vote is canvassed and an approved amendment takes effect).
+  THE CADENCE WAS DECLARED TWICE — `CADENCE_DAYS` in `src/check_updates.py` and the `recheck`
+  enum in `_meta/schema/source-group.schema.json` — with nothing gating their agreement, the
+  same shape as `CURATED_KEYS` in #165. The schema's `recheck` node is now DERIVED from the
+  `CADENCES` table (`python3 src/check_updates.py --sync-schema` writes it; `--check` fails
+  when the committed one has drifted), so a cadence cannot exist on one side only, and the
+  schema now PRINTS each value's interval where a curator reads it. A group declaring a
+  cadence nobody declared is REPORTED against that group — by `--check`, and by `--due` as a
+  third state, `UNKNOWN CADENCE`, which is neither DUE nor ok (CONTEXT.md: "could not check"
+  is never "is not there") — where it used to be a bare `KeyError` from a dict lookup inside
+  `report_due()` that named the dict instead of the file and took every other group's
+  due-state down with it. `--selftest` holds six demonstrated-failing rules; both gates run
+  in CI. What the interval CANNOT do is set its own phase (#198). Every existing group's
+  `--due` reading is byte-for-byte unchanged.
 - 2026-08-21 — Relation KINDS on the agency registry, each recording what it was derived
   from (#173): 44 of the 81 children now record `administered_by` and 37 record
   `undetermined`. Every derived kind carries a new `basis` key, which is NOT the same fact as
