@@ -28,7 +28,7 @@ segment before the first semicolon is its SUBJECT:
     674.305  Appraiser Certification and Licensure Board; appointment; term; compensation
              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Anchoring on that instead of on body proximity finds 56 bodies with ZERO account
+Anchoring on that instead of on body proximity finds 77 bodies with ZERO account
 false positives, and fixes all three cases above (684.130, 675.590, 688.545 — the boards,
 not their accounts). It is a better signal because a catchline states what the section is
 ABOUT, where proximity only states what words are nearby.
@@ -45,9 +45,12 @@ mirrored corpus, in CI, from committed data alone.
 
 UNMAPPED IS EXPLICIT, never implied by absence — "we looked and there is no counterpart" and
 "nobody has looked yet" must not be the same state (CONTEXT.md; link_budget_codes.py).
-118 of 189 bodies have no candidate at all, and several never will: the Secretary of State
+95 of 189 bodies have no candidate at all, and several never will: the Secretary of State
 and the State Treasurer are CONSTITUTIONAL offices, which is why the field is an authority
-rather than a statute.
+rather than a statute. That number was 118 until a run of the proposer showed the gap was
+the registry's own `Parent, Child` name format rather than silent statutes — see
+`_variants`. A no-candidate list is a claim about the corpus, so it is worth distrusting
+before it is worth reviewing.
 """
 from __future__ import annotations
 
@@ -85,19 +88,34 @@ CREATE = re.compile(
 
 # A catchline naming one of these is describing money, not a body. Measured: without this,
 # 37% of proximity matches were Treasury accounts.
-NOT_A_BODY = re.compile(r"\b(account|fund|subaccount|trust)\b", re.I)
+NOT_A_BODY = re.compile(r"\b(accounts?|funds?|subaccounts?|trusts?)\b", re.I)
 
 
 def _norm(s: str) -> str:
     return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9 ]+", " ", (s or "").lower())).strip()
 
 
-def _variants(name: str) -> set[str]:
-    """Spellings of one body. ORS writes `State Board of X` where the rules index writes
-    `Board of X`, and `Oregon` floats to either end."""
+def _spellings(name: str) -> set[str]:
     b = _norm(name)
     return {v for v in (b, _norm("state " + name), _norm("oregon " + name),
                         b.replace("state ", ""), b.replace("oregon ", "")) if v}
+
+
+def _variants(name: str) -> set[str]:
+    """Spellings of one body. ORS writes `State Board of X` where the rules index writes
+    `Board of X`, and `Oregon` floats to either end.
+
+    The registry stores a sub-unit as `Parent, Child` — 81 of 189 bodies — because the OAR
+    index nests by chapter. ORS catchlines name the CHILD ALONE, so matching the compound
+    string finds nothing: `Department of Agriculture, Oregon Wheat Commission` never matches
+    the catchline `Oregon Wheat Commission; members; appointment process; rules`. Measured,
+    the tail segment recovers 21 tier-1 rows that were sitting in `no_candidate` looking
+    like bodies statute forgot to create.
+    """
+    v = _spellings(name)
+    if "," in name:
+        v |= _spellings(name.rsplit(",", 1)[1].strip())
+    return {x for x in v if x}
 
 
 def _statute_sections() -> list[tuple[str, str, str, str]]:
