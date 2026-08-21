@@ -28,13 +28,17 @@ version of the same idea, and for the registry alone it would be enough. About n
 would take a constitutional enabling authority — the Office of the Governor, the Secretary
 of State, the Oregon State Treasury, the Judicial Department, District Attorneys and
 Deputies, the Legislative Assembly, and probably the Oregon State Lottery under Article XV
-section 4a. Nine `UNMAPPED` rows with a stated reason cost nothing.
+section 4a. Nine rows carrying an unverified constitutional citation cost nothing — when
+this was written the registry had no field to put one in, so they would have been nine
+`UNMAPPED` rows with a stated reason; #170 landed the field, and a body whose authority is a
+constitutional article now records that article rather than a reason it has none.
 
 We reject it as *sufficient* but not as a stopgap, because of what it does to verification.
 `link_enabling_authority.py --check` resolves an ORS citation against the mirrored statutes
 and an executive order against the mirrored orders (#170 — it no longer skips everything
 that does not begin with `ORS `), and it can do neither for a constitutional article: there
-is nothing to resolve it against, so it checks the FORM and reports the row as unresolved.
+is nothing to resolve it against, so it checks the FORM and reports how many rows it could
+not resolve.
 `Or. Const. Art. XVII, sec. 99` is well-formed, and it passes.
 Under ADR 0003 an enabling authority is *admitting* evidence — it alone can put a body in
 the registry — so an unverifiable class of admitting evidence is a hole in the rule, not a

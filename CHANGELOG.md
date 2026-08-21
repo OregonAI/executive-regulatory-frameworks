@@ -26,8 +26,9 @@ corpus-wide changes from 2026-08-02 forward.
   meaning nobody has looked yet. A blank value is a contract violation, because it
   asserts absence with nobody behind it. `link_enabling_authority.py --check` now
   runs in the `generated-views` CI job and can fail while the tables are empty (a
-  row carrying an authority no table accounts for), alongside a new `--selftest`
-  that demonstrates all nine of its rules failing.
+  row carrying an authority no table accounts for), alongside a new `--selftest`:
+  ten cases covering all seven of its rules, plus a proof that `--apply` writes
+  the same bytes on a second run.
 - 2026-08-21 — `das_agency_number` on all 80 agency-registry rows that carry a
   DAS agency number (#175): ADR 0003 renames `budget_agency_code`, because the
   number identifies a body in the state's financial administration and says

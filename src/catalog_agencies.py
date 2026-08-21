@@ -182,6 +182,14 @@ AUTHORITY_FORMS = (
     # chapter letter included (`ORS 743A.052`). Whether the section EXISTS is a different
     # question, answered against the mirror by link_enabling_authority.py --check; this rule
     # says only that the value is spelled like a citation.
+    #
+    # ONE SECTION, DELIBERATELY. A subsection (`ORS 279A.140(1)`) and a range (`ORS 182.456
+    # to 182.472`) are both refused today, because neither has ever been needed and both
+    # change what the value MEANS: a range names a scheme a body operates under rather than
+    # the section that created it, which is a different claim and a wider door. ADR 0004
+    # already has eight boards "declared to operate as semi-independent state agencies under
+    # ORS 182.456 to 182.472" and does not decide whether that is an enabling authority —
+    # so widening this form is that decision, taken here, rather than a formatting tweak.
     ("ors", re.compile(r"ORS \d+[A-Z]?\.\d+")),
     # `Or. Const. Art. VI, sec. 1` — the Secretary of State's, and the spelling CONTEXT.md
     # and ADR 0005 both use. NOTHING RESOLVES IT, and that is a hole ADR 0005 states rather
@@ -189,8 +197,14 @@ AUTHORITY_FORMS = (
     # `Or. Const. Art. XVII, sec. 99` is well-formed and unverifiable. Both gates report the
     # constitutional rows separately for that reason — "could not check" is never reported
     # as "is not there" (CONTEXT.md).
-    ("constitution", re.compile(r"Or\. Const\. Art\. [IVXL]+[A-Z]?, sec\. \d+[a-z]?")),
-    # `Executive Order 20-03`, the citation all 526 mirrored orders carry. One of them is
+    # `(Amended)` is not decoration: Oregon carries BOTH Article VII (Original) and Article
+    # VII (Amended), and the judicial power sits in the amended one — so a form without it
+    # refuses a real authority for the Judicial Department, which is exactly the population
+    # this field exists for. An allowlist that is too narrow is still an allowlist; it is
+    # widened by a decision like this one rather than by a wildcard.
+    ("constitution", re.compile(r"Or\. Const\. Art\. [IVXL]+[A-Z]?"
+                                r"(?: \((?:Amended|Original)\))?, sec\. \d+[a-z]?")),
+    # `Executive Order 20-03`, the citation 525 of the 526 mirrored orders carry. One of them is
     # cited `Executive Order 12-special-session` and is deliberately OUTSIDE this form:
     # widening it to admit a free-text suffix would admit every typo too, and if a body ever
     # turns out to be created by that order, it is a decision to record here rather than a
@@ -213,9 +227,23 @@ AUTHORITY_FORMS = (
 # `enabling-authority-form`, because it is an assertion of absence with nobody behind it.
 NO_AUTHORITY = "none: "
 
-# A reason has to be a reason. Twelve characters is not a judgment about quality, it is the
-# floor that stops `none: n/a` and `none: -` from passing as review.
-MIN_NO_AUTHORITY_REASON = 12
+# A reason has to be a reason. The floor is not a judgment about quality — it is set to
+# refuse the four non-reasons that would otherwise pass as review (`n/a`, `-`, `none`,
+# `unknown`, the last of which is "nobody has looked" wearing the wrong label) while
+# accepting a true short one: `none: Part of DAS` is eleven characters and states ADR 0004's
+# case exactly.
+MIN_NO_AUTHORITY_REASON = 8
+
+
+def no_authority_value(reason) -> str:
+    """`none: <reason>` as a registry row carries it, with the reason's whitespace collapsed.
+
+    THE CONSTRUCTOR FOR THE FORM `classify_authority` PARSES, and it sits beside it so the
+    two cannot drift. The reasons it is given are Python strings wrapped across source lines
+    in link_enabling_authority.py, so their newlines and indentation are an artifact of how
+    the table is READ rather than part of the finding — collapsing them here means the value
+    written and the value compared are the same however the table is re-wrapped."""
+    return NO_AUTHORITY + " ".join(str(reason or "").split())
 
 
 def classify_authority(value):
@@ -251,6 +279,22 @@ def classify_authority(value):
                   "citation (`ORS 576.062`), a constitutional article (`Or. Const. Art. VI, "
                   "sec. 1`), an executive order (`Executive Order 20-03`), or "
                   f"{NO_AUTHORITY!r} and the reason there is none")
+
+
+def authority_census(orgs) -> str:
+    """The three states of `enabling_authority`, counted over registry ROWS.
+
+    ONE SENTENCE, TWO GATES, and counted from the file rather than from the reviewed table:
+    the table says what SHOULD be recorded, and on any failure path the two disagree — a
+    census that mixed them would report the intended state as the actual one. A summary that
+    counted only the bodies carrying an authority would leave a reader to infer that the rest
+    have none, which is the one reading this registry never permits.
+    """
+    values = [o["enabling_authority"] for o in orgs
+              if isinstance(o, dict) and "enabling_authority" in o]
+    none_recorded = sum(1 for v in values if classify_authority(v)[0] == "reviewed-none")
+    return (f"{len(values) - none_recorded} recorded, {none_recorded} reviewed with none to "
+            f"record, {len(orgs) - len(values)} of {len(orgs)} bodies not looked at yet")
 
 
 CURATED_KEYS = frozenset(k for k, f in FIELDS.items() if f.origin == CURATED)
@@ -946,15 +990,8 @@ def cmd_check() -> int:
           f"{curated} curated value(s) and "
           f"{sum(1 for o in orgs if isinstance(o, dict) and o.get('manual'))} manual row(s) "
           "survive a simulated --refresh")
-    # THE ENABLING AUTHORITY'S CENSUS, PRINTED RATHER THAN LEFT TO BE COUNTED. The field has
-    # three states and the largest of them is "nobody has looked yet"; a summary that
-    # reported only how many bodies carry an authority would leave the reader to infer that
-    # the rest have none, which is the one reading this registry never permits.
-    values = [o["enabling_authority"] for o in orgs
-              if isinstance(o, dict) and "enabling_authority" in o]
-    reviewed_none = sum(1 for v in values if classify_authority(v)[0] == "reviewed-none")
-    print(f"enabling authority: {len(values) - reviewed_none} recorded, {reviewed_none} "
-          f"reviewed with none to record, {len(orgs) - len(values)} not looked at yet")
+    # THE ENABLING AUTHORITY'S CENSUS, PRINTED RATHER THAN LEFT TO BE COUNTED.
+    print(f"enabling authority: {authority_census(orgs)}")
     return 0
 
 
@@ -1059,6 +1096,20 @@ def _case_enabling_authority_absent_without_a_reason(cat):
     explicit that a `part_of` unit's missing authority is "a decision with a reason and not
     a gap". Without the reason the two are the same string."""
     cat["organizations"][1]["enabling_authority"] = "none:"
+
+
+def _case_enabling_authority_with_stray_whitespace(cat):
+    """A citation that is right and a string that is not. Three sibling corpora join on this
+    file as YAML, and a leading space makes the value they read differ from the value the
+    reviewed table holds — a difference no reader sees and every comparison does."""
+    cat["organizations"][1]["enabling_authority"] = " ORS 999.999"
+
+
+def _case_enabling_authority_that_almost_records_an_absence(cat):
+    """A reviewed absence spelled some other way. `None recorded` says what a reviewer
+    concluded and says it in a form nothing can parse, so it is read as an authority by
+    anything looking for one and as prose by anything looking for a reason."""
+    cat["organizations"][1]["enabling_authority"] = "None recorded"
 
 
 def _case_enabling_authority_that_is_not_an_authority(cat):
@@ -1167,6 +1218,10 @@ _CASES = [
      "enabling-authority-form"),
     ("enabling-authority-absent-without-a-reason",
      _case_enabling_authority_absent_without_a_reason, "enabling-authority-form"),
+    ("enabling-authority-with-stray-whitespace",
+     _case_enabling_authority_with_stray_whitespace, "enabling-authority-form"),
+    ("enabling-authority-that-almost-records-an-absence",
+     _case_enabling_authority_that_almost_records_an_absence, "enabling-authority-form"),
     ("row-is-not-a-mapping", _case_row_is_not_a_mapping, "readable-row"),
 ]
 

@@ -102,7 +102,8 @@ import sys
 
 import yaml
 
-from catalog_agencies import NO_AUTHORITY, classify_authority
+from catalog_agencies import (NO_AUTHORITY, authority_census, classify_authority,
+                              no_authority_value)
 from repo_lib import REPO_ROOT
 
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
@@ -125,11 +126,17 @@ MAPPED: dict[str, str] = {
     # e.g. "appraiser-certification-and-licensure-board": "ORS 674.305",
 }
 
-# slug -> why this body has no enabling authority recorded. A DECISION with a stated reason,
-# never a blank.
+# slug -> why this body has no enabling authority TO RECORD. A DECISION with a stated reason,
+# never a blank, and never a citation: a body whose authority is a constitutional article
+# HAS one, and belongs in MAPPED above. That is what this example used to be — the Secretary
+# of State, filed here as "constitutional office, so no ORS section can be cited", which was
+# true of a field that could only hold statutes and became a false absence the day the field
+# started accepting `Or. Const. Art. VI, sec. 1` (#170). The commonest legitimate reason is
+# ADR 0004's: a `part_of` unit has nothing separate to enable.
 UNMAPPED: dict[str, str] = {
-    # e.g. "secretary-of-state": "Constitutional office — Or. Const. Art. VI, sec. 1. Not
-    #                             created by statute, so no ORS section can be cited.",
+    # e.g. "department-of-transportation-highway-division": "Part of the Department of
+    #      Transportation (ADR 0004): nothing separately constitutes it, so there is no
+    #      enabling authority to record.",
 }
 
 CREATE = re.compile(
@@ -392,16 +399,6 @@ def resolvable_citations() -> set[str]:
     return {c for c, _t, _s, _b, _m in _statute_sections()} | _executive_order_citations()
 
 
-def no_authority_value(reason) -> str:
-    """`none: <reason>` as the registry carries it, with the reason's whitespace collapsed.
-
-    The reasons below are Python strings wrapped across source lines, so the newlines and
-    indentation are an artifact of how the table is READ, not part of the finding. Collapsing
-    them here means --apply writes the same value however the table is re-wrapped, and
-    --check compares against that same value."""
-    return NO_AUTHORITY + " ".join(str(reason or "").split())
-
-
 def reviewed(mapped=None, unmapped=None) -> dict[str, str]:
     """slug -> the exact value `enabling_authority` should hold on that registry row.
 
@@ -460,6 +457,17 @@ def audit_table(orgs, mapped, unmapped, citations) -> list[Problem]:
         form, detail = classify_authority(no_authority_value(reason))
         if form != "reviewed-none":
             problems.append(Problem("unmapped-has-reason", slug, detail))
+        # THE MIRROR IMAGE OF THE RULE ABOVE, and the one this table walked into once: a
+        # reason that IS a citation says the body has an authority while filing it as a body
+        # that has none. Constitutional offices are how it happens — the field could hold
+        # only statutes when this table was written, so `Or. Const. Art. VI, sec. 1` was a
+        # reason rather than a value. It is a value now.
+        elif classify_authority(str(reason).strip())[0] is not None:
+            problems.append(Problem(
+                "unmapped-is-not-an-authority", slug,
+                f"the reason recorded here IS an authority ({str(reason).strip()!r}) — a "
+                "body with one belongs in MAPPED, and filing it here reports it as a body "
+                "nothing created"))
     return problems
 
 
@@ -472,6 +480,10 @@ def audit_registry(orgs, mapped=None, unmapped=None) -> list[Problem]:
     reason this gate can fail while both tables are empty — a hand-edited row fails it today.
     """
     want = reviewed(mapped, unmapped)
+    # A row with no slug is skipped here and reported by catalog_agencies.py --check, whose
+    # `required-field` rule owns it: nothing in this table can name such a row, so there is
+    # no reviewed value to compare it against. Two gates stating one fact is how the fact
+    # becomes true in one and false in the other.
     by_slug = {o["slug"]: o for o in orgs if isinstance(o, dict) and o.get("slug")}
     problems = []
     for slug, value in sorted(want.items()):
@@ -519,14 +531,6 @@ def _report(problems) -> None:
         print(f"  FAIL [{p.rule}] {p.slug}: {p.detail}", file=sys.stderr)
 
 
-def _census(orgs, mapped, unmapped) -> str:
-    """The three states, counted. A summary that reported only how many bodies carry an
-    authority would leave a reader to infer that the rest have none."""
-    reviewed_rows = sum(1 for o in orgs if isinstance(o, dict) and "enabling_authority" in o)
-    return (f"{len(mapped)} recorded, {len(unmapped)} reviewed with none to record, "
-            f"{len(orgs) - reviewed_rows} of {len(orgs)} bodies not looked at yet")
-
-
 def cmd_apply() -> int:
     """Write MAPPED/UNMAPPED into the registry. The only writer of `enabling_authority`."""
     cat = yaml.safe_load(CATALOG.read_text())
@@ -543,7 +547,7 @@ def cmd_apply() -> int:
         CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True,
                                           width=100))
     print(f"enabling_authority: {changed} row(s) written "
-          f"({_census(orgs, MAPPED, UNMAPPED)})")
+          f"({authority_census(orgs)})")
     # A row the table cannot account for is left where it is and reported. --apply is not
     # allowed to resolve it by deleting a field a human may have put there deliberately.
     left = [p for p in audit_registry(orgs) if p.rule == "registry-agrees"]
@@ -568,7 +572,7 @@ def check() -> int:
     # as a verified one.
     forms = collections.Counter(classify_authority(a)[0] for a in MAPPED.values())
     print(f"enabling-authority table is consistent with the corpus: "
-          f"{_census(orgs, MAPPED, UNMAPPED)}.")
+          f"{authority_census(orgs)}.")
     print(f"  resolved against the mirror : {forms['ors']} ORS, "
           f"{forms['executive-order']} executive order(s)")
     print(f"  form checked, not resolved  : {forms['constitution']} constitutional "
@@ -664,6 +668,16 @@ def _case_unmapped_with_no_reason(f):
             o["enabling_authority"] = NO_AUTHORITY
 
 
+def _case_unmapped_reason_that_is_an_authority(f):
+    """A citation filed as a reason there is no citation. The row reads as reviewed and
+    reports the body as one nothing created, while the value sitting in it says what did —
+    which is how a constitutional office ends up recorded as having no enabling authority."""
+    f["unmapped"]["imaginary-affairs-inspection-division"] = "Or. Const. Art. XVII, sec. 99"
+    for o in f["orgs"]:
+        if o["slug"] == "imaginary-affairs-inspection-division":
+            o["enabling_authority"] = no_authority_value("Or. Const. Art. XVII, sec. 99")
+
+
 def _case_slug_that_is_not_in_the_registry(f):
     """A reviewed row for a body this registry does not carry. The review is real and the
     body it names is unreachable, so the authority is recorded nowhere a reader can find."""
@@ -703,6 +717,8 @@ _CASES = [
     ("executive-order-that-resolves-to-nothing",
      _case_executive_order_that_resolves_to_nothing, "authority-resolves"),
     ("unmapped-with-no-reason", _case_unmapped_with_no_reason, "unmapped-has-reason"),
+    ("unmapped-reason-that-is-an-authority", _case_unmapped_reason_that_is_an_authority,
+     "unmapped-is-not-an-authority"),
     ("slug-that-is-not-in-the-registry", _case_slug_that_is_not_in_the_registry,
      "slug-in-registry"),
     ("slug-in-both-tables", _case_slug_in_both_tables, "not-both-tables"),
