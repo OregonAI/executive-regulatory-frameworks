@@ -1,10 +1,14 @@
-note: PROPOSED, NOT DECIDED. Each row is a candidate an automated match produced; none has been read.
+note: 'PROPOSED, NOT DECIDED. Each row is a candidate an automated match produced; none has been read.
   Set `verdict` to `accept`, or to a different ORS citation, or to a reason it cannot be mapped — then
-  move the row into MAPPED or UNMAPPED in src/link_enabling_authority.py. Tier 1 means the section's catchline
-  subject IS this body; tier 2 means the catchline merely contains its name, and tier 2 is where the wrong
-  answers live. `text` is the sentence that matched, quoted so review is reading rather than research
-  — an EXCERPT with whitespace collapsed, NOT citable verbatim text. Read the cited section itself before
-  accepting a row.
+  move the row into MAPPED or UNMAPPED in src/link_enabling_authority.py. Tier 1 means the section''s
+  catchline subject IS this body AND the section says it is created or established. Tier 2 means the catchline
+  merely contains the name, or names it in a later clause. Tier 3 means the catchline subject IS the body
+  but NO creation language appears anywhere in the section — Oregon does not draft licensing boards with
+  a creation verb, so tier 3 is not weaker than tier 2, it asks a DIFFERENT question: does this section
+  CONSTITUTE the body, or describe one constituted elsewhere? Tiers 2 and 3 are where the wrong answers
+  live. `text` is the excerpt that matched, quoted so review is reading rather than research — an EXCERPT
+  with whitespace collapsed, NOT citable verbatim text. Read the cited section itself before accepting
+  a row.'
 generated_from: the mirrored ORS in statutes/, never fetched
 candidates:
 - slug: appraiser-certification-and-licensure-board
@@ -22,6 +26,16 @@ candidates:
   catchline: State Board of Chiropractic Examiners
   text: (1) There is established the State Board of Chiropractic Examiners.
   verdict: ''
+- slug: board-of-examiners-for-engineering-and-land-surveying
+  name: Board of Examiners for Engineering and Land Surveying
+  tier: 3
+  candidate: ORS 672.240
+  catchline: State Board of Examiners for Engineering and Land Surveying; appointment; qualifications;
+    officers
+  text: 672.240 State Board of Examiners for Engineering and Land Surveying; appointment; qualifications;
+    officers. (1) The State Board of Examiners for Engineering and Land Surveying shall operate as a semi-independent
+    state agency subject to ORS 182.
+  verdict: ''
 - slug: board-of-examiners-for-speech-language-pathology-and-audiology
   name: Board of Examiners for Speech-Language Pathology and Audiology
   tier: 1
@@ -29,12 +43,30 @@ candidates:
   catchline: State Board of Examiners for Speech-Language Pathology and Audiology
   text: (1) There is established a State Board of Examiners for Speech-Language Pathology and Audiology.
   verdict: ''
+- slug: board-of-geologist-examiners
+  name: Board of Geologist Examiners
+  tier: 3
+  candidate: ORS 672.615
+  catchline: State Board of Geologist Examiners; members; powers
+  text: 672.615 State Board of Geologist Examiners; members; powers. (1) The State Board of Geologist
+    Examiners shall operate as a semi-independent state agency subject to ORS 182.456 to 182.472 for the
+    purpose of carrying out ORS 672.
+  verdict: ''
 - slug: board-of-licensed-social-workers
   name: Board of Licensed Social Workers
   tier: 1
   candidate: ORS 675.590
   catchline: State Board of Licensed Social Workers
   text: (1) There is established a State Board of Licensed Social Workers.
+  verdict: ''
+- slug: board-of-massage-therapists
+  name: Board of Massage Therapists
+  tier: 3
+  candidate: ORS 687.115
+  catchline: State Board of Massage Therapists; members; appointment; terms; meetings; compensation; administrator
+  text: 687.115 State Board of Massage Therapists; members; appointment; terms; meetings; compensation;
+    administrator. (1) The State Board of Massage Therapists operates as a semi-independent state agency
+    subject to ORS 182.456 to 182.
   verdict: ''
 - slug: board-of-medical-imaging
   name: Board of Medical Imaging
@@ -51,6 +83,15 @@ candidates:
   catchline: Oregon State Board of Nursing
   text: (1) There is created an Oregon State Board of Nursing composed of nine members appointed by the
     Governor and subject to confirmation by the Senate in the manner provided in ORS 171.
+  verdict: ''
+- slug: board-of-optometry
+  name: Board of Optometry
+  tier: 3
+  candidate: ORS 683.250
+  catchline: Oregon Board of Optometry; qualification and terms of members; quorum
+  text: 683.250 Oregon Board of Optometry; qualification and terms of members; quorum. (1) The Oregon
+    Board of Optometry operates as a semi-independent state agency subject to ORS 182.456 to 182.472,
+    for the purpose of carrying out this chapter.
   verdict: ''
 - slug: board-of-parole-and-post-prison-supervision
   name: Board of Parole and Post-Prison Supervision
@@ -208,6 +249,22 @@ candidates:
   text: (1) The Home Care Commission is created, consisting of nine members appointed by the Governor
     and confirmed by the Senate as provided in ORS 171.
   verdict: ''
+- slug: department-of-human-services-vocational-rehabilitation-services
+  name: Department of Human Services, Vocational Rehabilitation Services
+  tier: 3
+  candidate: ORS 346.180
+  catchline: Vocational rehabilitation services
+  text: 346.180 Vocational rehabilitation services. The Commission for the Blind shall maintain a program
+    of vocational rehabilitation services. The object of the program shall be to aid persons with visual
+    impairments in finding employment, to provide such physical restoration as will increase their employability,
+    to establish a program of small business enterprises in which such persons are able to work, to establish
+    individual programs of college and university instruction, also training in trades and occupations
+    which may be followed in their homes and elsewhere, to cooperate with the United States Government
+    in vocational rehabilitation programs for persons who are blind, including establishment of small
+    business enterprises for them in buildings owned or rented by the federal government and to assist
+    persons with visual impairments, in whatever manner may seem advisable to the commission, in disposing
+    of the products of their industries.
+  verdict: ''
 - slug: department-of-justice
   name: Department of Justice
   tier: 2
@@ -287,6 +344,15 @@ candidates:
   catchline: Employment Department; duties
   text: There is established an Employment Department.
   verdict: ''
+- slug: employment-relations-board
+  name: Employment Relations Board
+  tier: 3
+  candidate: ORS 240.060
+  catchline: Employment Relations Board; qualification of members; outside activities
+  text: 240.060 Employment Relations Board; qualification of members; outside activities. (1) The Civil
+    Service Commission that has functioned under this chapter shall be continued as a board of three members
+    to be known as the Employment Relations Board.
+  verdict: ''
 - slug: higher-education-coordinating-commission
   name: Higher Education Coordinating Commission
   tier: 1
@@ -310,6 +376,25 @@ candidates:
   catchline: Land Use Board of Appeals; appointment and removal of members; qualifications
   text: (1) There is hereby created a Land Use Board of Appeals consisting of not more than three positions.
   verdict: ''
+- slug: landscape-architect-board
+  name: Landscape Architect Board
+  tier: 3
+  candidate: ORS 671.459
+  catchline: State Landscape Architect Board; members; chair; term LANDSCAPE CONSTRUCTION PROFESSIONALS
+    AND LANDSCAPE CONTRACTING BUSINESSES (Generally)
+  text: 671.459 State Landscape Architect Board; members; chair; term. (1) The State Landscape Architect
+    Board shall operate as a semi-independent state agency subject to ORS 182.456 to 182.472 for the purpose
+    of carrying out ORS 671.
+  verdict: ''
+- slug: landscape-contractors-board
+  name: Landscape Contractors Board
+  tier: 3
+  candidate: ORS 671.630
+  catchline: State Landscape Contractors Board; members
+  text: 671.630 State Landscape Contractors Board; members. The State Landscape Contractors Board shall
+    operate as a semi-independent state agency subject to ORS 182.456 to 182.472 for purposes of carrying
+    out the provisions of ORS 671.
+  verdict: ''
 - slug: legislative-administration-committee
   name: Legislative Administration Committee
   tier: 2
@@ -317,6 +402,14 @@ candidates:
   catchline: Legislative Administration Committee and office of Legislative Administrator established
   text: The Legislative Administration Committee hereby is established as a joint committee of the Legislative
     Assembly.
+  verdict: ''
+- slug: legislative-equity-office
+  name: Legislative Equity Office
+  tier: 2
+  candidate: ORS 173.900
+  catchline: Joint Committee on Conduct established; Legislative Equity Office established; Legislative
+    Equity Officer
+  text: (1) The Joint Committee on Conduct is established as a joint committee of the Legislative Assembly.
   verdict: ''
 - slug: legislative-policy-and-research-committee
   name: Legislative Policy and Research Committee
@@ -405,6 +498,15 @@ candidates:
   catchline: Oregon Board of Accountancy; confirmation; qualifications; enforcement authority; rules
   text: (1) There is created an Oregon Board of Accountancy consisting of seven members.
   verdict: ''
+- slug: oregon-board-of-dentistry
+  name: Oregon Board of Dentistry
+  tier: 3
+  candidate: ORS 679.230
+  catchline: Oregon Board of Dentistry; appointment; qualifications; confirmation; compensation and expenses
+  text: 679.230 Oregon Board of Dentistry; appointment; qualifications; confirmation; compensation and
+    expenses. (1) The Oregon Board of Dentistry consists of 10 members appointed by the Governor and subject
+    to confirmation by the Senate in the manner provided in ORS 171.
+  verdict: ''
 - slug: oregon-board-of-naturopathic-medicine
   name: Oregon Board of Naturopathic Medicine
   tier: 1
@@ -412,6 +514,16 @@ candidates:
   catchline: Oregon Board of Naturopathic Medicine
   text: (1) The Oregon Board of Naturopathic Medicine is created, consisting of seven members appointed
     by the Governor and subject to confirmation by the Senate in the manner provided in ORS 171.
+  verdict: ''
+- slug: oregon-board-of-physical-therapy
+  name: Oregon Board of Physical Therapy
+  tier: 3
+  candidate: ORS 688.160
+  catchline: Oregon Board of Physical Therapy; qualifications; terms; vacancies; duties; rules; fees;
+    meetings; executive director
+  text: 688.160 Oregon Board of Physical Therapy; qualifications; terms; vacancies; duties; rules; fees;
+    meetings; executive director. (1) The Oregon Board of Physical Therapy operates as a semi-independent
+    state agency subject to ORS 182.
   verdict: ''
 - slug: oregon-business-development-department
   name: Oregon Business Development Department
@@ -597,6 +709,15 @@ candidates:
   text: (1) There is created the Oregon Investment Council, consisting of five voting members and one
     nonvoting member.
   verdict: ''
+- slug: oregon-medical-board
+  name: Oregon Medical Board
+  tier: 3
+  candidate: ORS 677.235
+  catchline: Oregon Medical Board; membership; confirmation; terms; vacancies; compensation
+  text: 677.235 Oregon Medical Board; membership; confirmation; terms; vacancies; compensation. (1) The
+    Oregon Medical Board consists of 14 members appointed by the Governor and subject to confirmation
+    by the Senate in the manner provided in ORS 171.
+  verdict: ''
 - slug: oregon-patient-safety-commission
   name: Oregon Patient Safety Commission
   tier: 1
@@ -713,6 +834,15 @@ candidates:
   catchline: Secretary of State as filing officer; duties
   text: (1) The Operating Account is established in the General Fund of the State Treasury.
   verdict: ''
+- slug: state-board-of-architect-examiners
+  name: State Board of Architect Examiners
+  tier: 3
+  candidate: ORS 671.120
+  catchline: State Board of Architect Examiners; members; term; chair
+  text: 671.120 State Board of Architect Examiners; members; term; chair. The State Board of Architect
+    Examiners shall operate as a semi-independent state agency subject to ORS 182.456 to 182.472 for the
+    purpose of carrying out ORS 671.
+  verdict: ''
 - slug: state-board-of-tax-practitioners
   name: State Board of Tax Practitioners
   tier: 1
@@ -745,14 +875,6 @@ candidates:
     under the Water Resources Commission a department to be known as the Water Resources Department.
   verdict: ''
 no_candidate:
-- slug: board-of-examiners-for-engineering-and-land-surveying
-  name: Board of Examiners for Engineering and Land Surveying
-- slug: board-of-geologist-examiners
-  name: Board of Geologist Examiners
-- slug: board-of-massage-therapists
-  name: Board of Massage Therapists
-- slug: board-of-optometry
-  name: Board of Optometry
 - slug: board-of-pharmacy
   name: Board of Pharmacy
 - slug: chief-education-office
@@ -829,8 +951,6 @@ no_candidate:
   name: Department of Human Services, Child Welfare Programs
 - slug: department-of-human-services-self-sufficiency-programs
   name: Department of Human Services, Self-Sufficiency Programs
-- slug: department-of-human-services-vocational-rehabilitation-services
-  name: Department of Human Services, Vocational Rehabilitation Services
 - slug: department-of-public-safety-standards-and-training
   name: Department of Public Safety Standards and Training
 - slug: department-of-state-police-office-of-state-fire-marshal
@@ -851,8 +971,6 @@ no_candidate:
   name: District Attorneys and Deputies
 - slug: economic-recovery-review-council
   name: Economic Recovery Review Council
-- slug: employment-relations-board
-  name: Employment Relations Board
 - slug: higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development
   name: Higher Education Coordinating Commission, Office of Community Colleges and Workforce Development
 - slug: higher-education-coordinating-commission-office-of-degree-authorization
@@ -861,18 +979,12 @@ no_candidate:
   name: Judicial Department
 - slug: land-conservation-and-development-department
   name: Land Conservation and Development Department
-- slug: landscape-architect-board
-  name: Landscape Architect Board
-- slug: landscape-contractors-board
-  name: Landscape Contractors Board
 - slug: legislative-assembly
   name: Legislative Assembly
 - slug: legislative-commission-on-indian-services
   name: Legislative Commission on Indian Services
 - slug: legislative-counsel-office
   name: Legislative Counsel Office
-- slug: legislative-equity-office
-  name: Legislative Equity Office
 - slug: legislative-fiscal-officer
   name: Legislative Fiscal Officer
 - slug: office-of-public-defense-services
@@ -881,10 +993,6 @@ no_candidate:
   name: Office of the Governor
 - slug: office-of-training-investigations-and-safety
   name: Office of Training, Investigations and Safety
-- slug: oregon-board-of-dentistry
-  name: Oregon Board of Dentistry
-- slug: oregon-board-of-physical-therapy
-  name: Oregon Board of Physical Therapy
 - slug: oregon-department-of-education-early-learning-division
   name: Oregon Department of Education, Early Learning Division
 - slug: oregon-health-authority-equity-and-inclusion-division
@@ -901,8 +1009,6 @@ no_candidate:
   name: Oregon Health Authority, Public Health Division
 - slug: oregon-liquor-control-commission
   name: Oregon Liquor Control Commission
-- slug: oregon-medical-board
-  name: Oregon Medical Board
 - slug: oregon-military-department
   name: Oregon Military Department
 - slug: oregon-military-department-office-of-emergency-management
@@ -931,7 +1037,5 @@ no_candidate:
   name: Secretary of State, Elections Division
 - slug: southern-oregon-university
   name: Southern Oregon University
-- slug: state-board-of-architect-examiners
-  name: State Board of Architect Examiners
 - slug: teacher-standards-and-practices-commission
   name: Teacher Standards and Practices Commission
