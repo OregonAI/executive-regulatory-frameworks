@@ -87,6 +87,19 @@ Failure = namedtuple("Failure", "rule row detail")
 FIELDS = {
     "slug": Field(SCRAPED, required=True),
     "name": Field(SCRAPED, required=True),
+    # THE OAR NAME (CONTEXT.md): the name the administrative rules index gives a body, and
+    # the string OAR-derived joins must match (ADR 0003). It lands BESIDE `name` rather than
+    # replacing it, so consumers can move off `name` while `name` still means what it always
+    # did — ADR 0003 changes what `name` holds, and a crosswalk that keeps matching a string
+    # that quietly changed meaning is the failure those crosswalks exist to prevent.
+    #
+    # SCRAPED, NOT CURATED, and that is the whole point of the field. The chapter page's own
+    # title is where this value comes from — `scraped_entry()` already reads it — so
+    # declaring it CURATED would mean --refresh preserves the old file's copy and never
+    # updates it: an upstream chapter retitle would move `name` and leave `oar_name` frozen
+    # at a title the rules index no longer prints. A field that cannot track an upstream
+    # retitle cannot be the string OAR-derived joins match on.
+    "oar_name": Field(SCRAPED, required=True),
     # Null on 19 rows and that is not a gap: a body is in the registry because it EXISTS,
     # not because it issues rules (ADR 0003). Required means the KEY is present.
     "oar_chapter": Field(SCRAPED, required=True),
@@ -140,9 +153,17 @@ def scraped_entry(*, name, oar_chapter, raw_index_name, source_url, note=None):
     catch — a curated field mislabelled `SCRAPED` would then look preserved while a real
     --refresh silently dropped it.
 
+    ONE STRING, TWO FIELDS, ON PURPOSE. The chapter page title is the only name the scrape
+    can see, and it is the OAR NAME (CONTEXT.md) — what the rules index calls this body. It
+    is written to `oar_name`, where OAR-derived joins can rely on it, and to `name`, which
+    still holds exactly what it held before. Writing it twice is what makes this the EXPAND
+    half of ADR 0003's rename: consumers move onto `oar_name` while `name` is unchanged,
+    rather than being re-verified after `name` has already changed meaning underneath them.
+
     parent_slug/parent_chapter are written null here and filled by the caller once the
     index tree is known; they are keys of a scraped row either way."""
-    entry = {"slug": slugify(name), "name": name, "oar_chapter": oar_chapter,
+    entry = {"slug": slugify(name), "name": name, "oar_name": name,
+             "oar_chapter": oar_chapter,
              "raw_index_name": raw_index_name, "source_url": source_url}
     if note:
         entry["note"] = note
@@ -352,7 +373,11 @@ def cmd_refresh():
                  "Book directory were both previously used and dropped after review "
                  "(2026-07-18/19). validate_frontmatter.py requires every content "
                  "file's agency: field to resolve to 'statewide', 'external', or a "
-                 "slug here. budget_agency_code, where present, is the three-digit DAS "
+                 "slug here. oar_name is the OAR name — the chapter page's own title, "
+                 "which is the string OAR-derived joins must match; it is scraped, so an "
+                 "upstream chapter retitle moves it. raw_index_name is a different "
+                 "string: the index's own abbreviated spelling. "
+                 "budget_agency_code, where present, is the three-digit DAS "
                  "agency code the oregon-budget corpus reports spending against; it is "
                  "hand-reviewed (src/link_budget_codes.py), is NOT scraped from the "
                  "source above, and is preserved across --refresh. Its absence on an "
@@ -503,6 +528,12 @@ def simulate_refresh(prev_orgs, curated_keys=None):
     A `manual` row is not reconstructed, because the scrape cannot see it: that is what the
     flag means. It comes back through preserve_manual() or not at all, and "or not at all"
     is a bug that already happened once (see that function).
+
+    `name` is passed as the scrape's one name string because that is where the committed
+    rows hold it today — `oar_name` holds the same bytes on all 189 of them. When ADR 0003
+    makes `name` the statutory name the two stop agreeing, and this call has to read
+    `oar_name` instead; nothing here would notice, because a scraped field is skipped by the
+    survival comparison, so that step belongs with the change that splits them.
     """
     orgs, by_slug = [], {}
     for o in prev_orgs:
@@ -727,9 +758,11 @@ def _fixture():
 def _case_undeclared_field(cat):
     """A field nobody declared. It may be curation --refresh is about to destroy, and a
     field we could not evaluate must never be reported as one that passed. The name is
-    deliberately made up: `das_agency_number` and `oar_name` are fields ADR 0003 says the
-    registry is GOING to carry, and using one as the example of an illegitimate field
-    would read as a verdict on a decision that has already been taken."""
+    deliberately made up: `das_agency_number` is a field ADR 0003 says the registry is
+    GOING to carry, and using it as the example of an illegitimate field would read as a
+    verdict on a decision that has already been taken. `oar_name` was the other such
+    example until the registry started carrying one, which is the second reason to make
+    the name up — a declared field stops demonstrating anything here."""
     cat["organizations"][0]["headcount"] = 412
 
 
@@ -737,6 +770,15 @@ def _case_missing_required_field(cat):
     """A row that dropped a field every row carries. `parent_slug: null` and no
     parent_slug at all read the same to a consumer and are not the same claim."""
     del cat["organizations"][1]["parent_slug"]
+
+
+def _case_missing_oar_name(cat):
+    """A row that carries a `name` but no `oar_name`. The whole point of landing the OAR
+    name in its own field is that consumers can join on it INSTEAD of `name`, so a row
+    missing one is a row those joins silently lose — and it is invisible from the outside,
+    because `name` still holds the same string today. It stops holding it (ADR 0003), and
+    then the gap is a body no OAR-derived join resolves."""
+    del cat["organizations"][1]["oar_name"]
 
 
 def _case_row_is_not_a_mapping(cat):
@@ -815,6 +857,13 @@ _CASES = [
     ("duplicate-slug", _case_duplicate_slug, "unique-slug"),
     ("duplicate-chapter", _case_duplicate_chapter, "unique-chapter"),
     ("missing-required-field", _case_missing_required_field, "required-field"),
+    ("missing-oar-name", _case_missing_oar_name, "required-field"),
+    # The SAME mutation as row-the-simulation-cannot-run-on above, asserted against the
+    # other rule it has to trip. Deleting `name` breaks two things at once — nothing can be
+    # simulated for the row, AND a required field is gone — and a case asserts one rule, so
+    # covering both takes two entries. `name` and `oar_name` are the two names a consumer
+    # can resolve a body by, and each is required on every row.
+    ("missing-name", _case_row_the_simulation_cannot_run_on, "required-field"),
     ("row-is-not-a-mapping", _case_row_is_not_a_mapping, "readable-row"),
 ]
 
@@ -844,11 +893,17 @@ def _proof_refresh_rejects_an_undeclared_scraped_field() -> int:
     """--refresh's own half of the declaration, which --check cannot reach: it reads
     committed data and never runs a scrape, so a field the SCRAPE started writing without
     declaring it can only be caught where the scrape runs. Demonstrated failing here
-    because a guard nobody has watched fire is not known to fire."""
+    because a guard nobody has watched fire is not known to fire.
+
+    The probe field is MADE UP, and it has to be. This proof used to name `oar_name` — a
+    field ADR 0003 said the registry was going to carry — and the day it started carrying
+    one the proof stopped proving anything: the guard correctly said nothing, and the only
+    reason that surfaced as a red build rather than a quiet pass is that the assertion is on
+    the guard firing. Any real field is a field FIELDS may legitimately declare tomorrow."""
     try:
-        assert_scrape_declared([{"slug": "a-body", "oar_name": "A Body"}])
+        assert_scrape_declared([{"slug": "a-body", "headcount": 412}])
     except SystemExit as e:
-        return 0 if "oar_name" in str(e) else 1
+        return 0 if "headcount" in str(e) else 1
     print("FAIL refresh-rejects-undeclared-scraped-field: the scrape guard did not fire",
           file=sys.stderr)
     return 1

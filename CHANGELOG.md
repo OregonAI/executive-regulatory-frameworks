@@ -11,6 +11,15 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Added
+- 2026-08-20 — `oar_name` on all 189 agency-registry rows (#166): the OAR name
+  (CONTEXT.md) — the chapter page's own title — now has its own field instead of
+  sharing `name`, which ADR 0003 turns into the statutory name. It is SCRAPED, so
+  an upstream chapter retitle moves it; `name` is byte-identical on every row and
+  no consumer changes, which is the point — sibling crosswalks move onto
+  `oar_name` and are verified there BEFORE `name` changes meaning. Landed by
+  `src/expand_oar_name.py` (re-runnable, idempotent), written from now on by
+  `catalog_agencies.py --refresh`, and required on every row by
+  `catalog_agencies.py --check`.
 - 2026-08-02 — Scheduled upstream drift detection reinstated (M4 stage 3;
   cron retired 2026-07-18 had left the platform's largest corpus with no
   automatic freshness checking at all). `.github/workflows/scheduled.yml`:

@@ -357,7 +357,15 @@ def main() -> int:
     for slug, name, _code in MANUAL_ENTRIES:
         if slug in by_slug:
             continue
-        entry = {"slug": slug, "name": name, "oar_chapter": None,
+        entry = {"slug": slug, "name": name,
+                 # THE OAR NAME (CONTEXT.md), which for these bodies is the same string as
+                 # every other name they have. They hold no OAR chapter — that is why the
+                 # scrape cannot see them — so there is no chapter title to differ from it,
+                 # and this is the name the registry has always published for the body.
+                 # It is written because `oar_name` is what consumers join on from here
+                 # (ADR 0003), and a row without one is a row those joins lose: six of the
+                 # slugs below are ones oregon-kpm's crosswalk resolves into today.
+                 "oar_name": name, "oar_chapter": None,
                  "raw_index_name": name, "source_url": None,
                  "parent_slug": None, "parent_chapter": None,
                  # `manual` is what makes catalog_agencies.py --refresh keep it: the scrape

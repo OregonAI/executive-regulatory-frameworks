@@ -338,7 +338,10 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   survive one, plus the slug/chapter/parent rules of ADR 0003 and ADR 0004. A curated field
   is declared ONCE in that file's `FIELDS` table — `CURATED_KEYS` is derived from it, so a
   field cannot be curated in one place and forgotten in the other. `--selftest` proves every
-  one of those rules can fail.
+  one of those rules can fail. Every row carries an `oar_name` — the OAR name (CONTEXT.md),
+  which is the string OAR-derived joins match on, distinct from `raw_index_name`'s
+  abbreviated spelling — landed by `src/expand_oar_name.py` and written from then on by
+  `--refresh`.
 - **Agency profiles**: `_meta/agency-profiles.yml` carries curated context ABOUT each
   agency's data — governance class (citation basis REQUIRED; 'unclassified' is the
   only uncited value allowed), where the agency publishes policies (or that it

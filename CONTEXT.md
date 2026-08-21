@@ -67,9 +67,13 @@ Distinguished from the name any particular publisher uses for it.
 _Avoid_: Official name, legal name, proper name
 
 **OAR name**:
-The name the administrative rules index gives a body. It differs from the statutory name
-often enough to matter, and it is the string OAR-derived joins must match.
-_Avoid_: Rules name, chapter name
+The name the administrative rules index gives a body — the chapter page's own title, in
+full. It differs from the statutory name often enough to matter, and it is the string
+OAR-derived joins must match. Every registry entry carries one, in `oar_name`, and the
+field is scraped rather than curated: an upstream chapter retitle moves it, which is the
+only reason a join can rely on it.
+_Avoid_: Rules name, chapter name — and `raw_index_name`, which is the index's own
+abbreviated spelling (`Board of Chiropractic Exam'rs`) and a different string
 
 **Enabling authority**:
 What created the body — a statute, or the Oregon Constitution. Not every body has a
