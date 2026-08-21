@@ -118,19 +118,15 @@ def _resolve_ors(m, nodes):
 # re.compile here reaches this module's own uses and NOT the resolver the MCP server runs.
 # Measured: with `re.I` passed as an argument, `Or. Const. Art. VI, sec. 1` matched here and
 # came back from resolve_citation as "no citation scheme recognized this format". The same
-# trap is set for ORS_C/OAR_*/EO_C/NUMS_C above, which all pass re.I the losing way;
-# reported, not fixed here.
+# trap is set for ORS_C/OAR_*/EO_C/NUMS_C above, which all pass re.I the losing way — filed
+# as #202, and not fixed here.
 OR_CONST_C = re.compile(
     r"(?i)\b(?:Or|Ore|Oregon)\.?\s*Const(?:itution)?\.?,?\s*"
     r"Art(?:icle)?\.?\s*([IVXL]+(?:-[A-Z])?)\s*,?\s*"
-    r"(?:§|Sec(?:tion|t|\.)?)\s*\.?\s*(\d+[a-z]?)\s*$")
+    r"(?:§|Sec(?:tion|t|\.)?)\s*\.?\s*(\d+[a-z]?)\.?\s*$")
 
 CONSTITUTION_CATALOG_PATH = REPO_ROOT / "_meta/catalog/constitution.yml"
 
-
-# The id shape lives in repo_lib beside the regex that parses it back into an article and
-# a section number, because that parse is what the snapshot slicer runs on.
-or_const_id = orconst_id
 
 _CONSTITUTION = None
 
@@ -298,11 +294,13 @@ def _selftest() -> int:
        == "orconst-art-xi-a-sec-9a")
 
     # THE LOOSE-MATCH REFUSALS. Each of these is a citation to something else, and a
-    # pattern that answered them would answer confidently and wrongly.
+    # pattern that answered them would answer confidently and wrongly. `U.S. Const.` is the
+    # sharpest: same article and section numbers, a different sovereign.
     for other in ("Article VI, section 1", "ORS 183.310", "OAR 125-800-0020",
-                  "Art. VI, sec. 1", "U.S. Const. Art. VI, sec. 1"):
+                  "Art. VI, sec. 1", "U.S. Const. Art. VI, sec. 1",
+                  "Colorado Const. Art. VI, sec. 1", "Or. Const. Art. VI"):
         ck(f"{other!r} is not this corpus's constitutional citation",
-           resolve(other)[0] is None or other.startswith("U.S."))
+           resolve(other)[0] is None)
 
     # THE REGRESSION GUARD for the flag trap above: register_scheme compiles the pattern
     # STRING, so this is the regex the MCP server actually runs. Tested here rather than
@@ -310,6 +308,9 @@ def _selftest() -> int:
     # scheme recognized, which reads as "this corpus does not do constitutional citations".
     ck("the pattern the framework compiles is the one this module tests",
        re.compile(OR_CONST_C.pattern).search("or. const. art. vi, sec. 1") is not None)
+
+    ck("a citation ending a sentence still matches",
+       resolve("Or. Const. Art. VI, sec. 1.")[0] == ["orconst-art-vi-sec-1"])
 
     ids, note = resolve("Or. Const. Art. VI, sec. 99")
     ck("a section the source does not print resolves to NOTHING", ids == [])
@@ -324,11 +325,42 @@ def _selftest() -> int:
     ck("...and says WHY it is not held, not that it does not exist",
        note is not None and "not published" in note and "does not exist" not in note)
 
-    ids, note = resolve("Or. Const. Art. IV, sec. 1")
+    ids, note = resolve("Or. Const. Art. IV, sec. 1")  # an article nobody has mirrored
     ck("an article nobody has mirrored yet resolves to nothing", ids == [])
     ck("...and says it is not mirrored, which is not the same as absent",
        note is not None and "not mirrored" in note and "#195" in note)
+    _proof_the_citation_resolves_end_to_end(ck)
     return ck.report("citation-schemes selftest")
+
+
+def _proof_the_citation_resolves_end_to_end(ck):
+    """THE WHOLE WAY THROUGH, against this corpus as committed — the seam an agent actually
+    calls, not this module's own regex.
+
+    It belongs in a per-PR gate and not only in the nightly MCP smoke test: the pull request
+    that changes a scheme is exactly the one that can break it, and everything above this
+    line would still pass while `resolve_citation` answered "no citation scheme recognized
+    this format". That is not a hypothetical — it is what a re.I passed to `re.compile`
+    instead of written into the pattern did to this scheme while it was being built (#202).
+
+    Skipped, LOUDLY, where the corpus is not readable from here (no toolkit installed): a
+    proof that cannot run must not read as one that passed."""
+    try:
+        from corpus_toolkit import config as config_mod
+        from corpus_toolkit.mcp.framework import CorpusFramework
+        fw = CorpusFramework(config_mod.load(str(REPO_ROOT / "_meta/corpus.yml")))
+    except Exception as e:                                     # noqa: BLE001
+        print(f"SKIP end-to-end resolution: the corpus could not be loaded here "
+              f"({type(e).__name__}: {e}) — NOT a pass", file=sys.stderr)
+        return
+    r = fw.resolve_citation("Or. Const. Art. VI, sec. 1")
+    ck("resolve_citation returns the document",
+       [m["id"] for m in r["matches"]] == ["orconst-art-vi-sec-1"])
+    r = fw.resolve_citation("Or. Const. Art. VI, sec. 99")
+    ck("resolve_citation returns nothing for a section the page does not print",
+       bool(r.get("unresolved")) and not r["matches"])
+    ck("...and the reason reaches the caller",
+       "no section 99" in (r.get("note") or ""))
 
 
 if __name__ == "__main__":

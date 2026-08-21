@@ -2,10 +2,14 @@
 
 **Status: ACCEPTED (2026-08-21).** The decision is taken: this corpus will mirror the Oregon
 Constitution as a source group, on the 751 citing documents and the authority chain they
-imply. What has landed is the part that is not ingestion — the recheck cadence the section
-below argues about is now an expressible value (#193). Nothing is mirrored yet and no source
-group exists; `constitution.yml` and the first mirrored article are #194, and this record says
-ACCEPTED because the decision was made, not because the work is finished.
+imply. What has landed is the recheck cadence the section
+below argues about, now an expressible value (#193), and the first article: #194 created
+`constitution.yml` and mirrored **Article VI**, 10 of the 11 sections the page prints (section
+9a is repealed and printed as its leadline and history alone, so there is no text to mirror —
+the catalog records that, and a citation to it says so). One article of eighteen is mirrored
+today; the other seventeen are #195, and until they land a constitutional citation into one of
+them resolves to nothing AND SAYS IT IS NOT MIRRORED, which is not the ambiguity this ADR
+rejects below — that ambiguity is a partial mirror that cannot tell you which it is.
 
 This corpus mirrors the Oregon Revised Statutes and the Oregon Administrative Rules, and it
 maintains a catalog of the federal instruments its documents cite — 1,271 targets and 916

@@ -64,6 +64,14 @@ jobs:
       # and say so, never to the article or to a neighbouring section. It also holds the
       # three answers apart that a partial mirror makes it easy to collapse — not mirrored
       # yet, printed but not published, and printed nowhere.
+      #
+      # ITS LAST PROOF RUNS THE WHOLE WAY THROUGH `CorpusFramework.resolve_citation`, which
+      # is why this is a PER-PR step and not only part of the nightly MCP smoke test below:
+      # the PR that changes a scheme is the one that can break it, and every unit-level
+      # proof above still passes while the served resolver answers "no citation scheme
+      # recognized this format" (#202's trap, hit while this scheme was being written).
+      # ~85 s: the unresolved cases exercise resolve_citation's search fallback, which
+      # builds the FTS index from scratch on a fresh checkout.
       - name: Citation schemes must resolve, and refuse, what they claim
         run: python3 src/citation_schemes.py --selftest
       # A re-analysis must never delete a prior run's candidates. The merge used to

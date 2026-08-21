@@ -124,7 +124,7 @@ credentials file; create a new tunnel and update the systemd unit/DNS route.
 |---|---|
 | `search_corpus(query, doc_type?, issuing_body?, limit?, mode?)` | Ranked search; `mode` = hybrid (default, keyword+semantic) / keyword / semantic; returns snippets, never whole docs |
 | `get_document(doc_id, part?)` | One document with provenance; oversized docs return a section list — request `part="Full text"` etc. |
-| `resolve_citation(citation)` | "ORS 276A.300" / "OAR 125-800-0020" (renumbering applied) / "EO 20-03" / "DAS 107-004-052" → ids |
+| `resolve_citation(citation)` | "ORS 276A.300" / "OAR 125-800-0020" (renumbering applied) / "EO 20-03" / "DAS 107-004-052" / "Or. Const. Art. VI, sec. 1" → ids |
 | `authority_chain(doc_id, direction?, depth?)` | "What statute requires this policy?" (up) / "what implements this statute?" (down) |
 | `graph_neighbors(doc_id)` | All edges of one document, one hop |
 | `corpus_overview()` | Coverage: what's in the corpus, what's metadata-only |

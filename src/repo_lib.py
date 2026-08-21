@@ -265,7 +265,17 @@ def constitution_article_region(norm_text: str, article: str) -> str:
     page — the document's own contents list spells articles in mixed case ("Article VI
     Administrative Department") and cross-references inside section text say "Article V",
     not "ARTICLE V". The lookahead is what stops `ARTICLE XI` matching `ARTICLE XI-A`,
-    which is a real heading four articles further down."""
+    which is a real heading four articles further down.
+
+    ONE ARTICLE'S HEADING IS NOT ALWAYS UNIQUE, and this takes the FIRST. Measured on the
+    2024 edition: of the 18 articles, `ARTICLE XI-A` is printed TWICE — once as the
+    repealed "RURAL CREDITS" (1916, repealed 1942), which the page keeps as a heading and a
+    history bracket, and again as the current "FARM AND HOME LOANS TO VETERANS". First
+    match returns the repealed one, whose region holds no `Section N.` body at all, so
+    every XI-A section would be REPORTED as `no-body` rather than published from the wrong
+    article — a loud skip, not a false document. Article VI is unaffected (its heading
+    occurs once); #195 has to decide what an article printed twice means before it can
+    mirror XI-A."""
     head = re.search(rf"ARTICLE {re.escape(article)}(?![-A-Z0-9(])", norm_text)
     if not head:
         return ""
@@ -279,7 +289,14 @@ def constitution_section_slice(norm_text: str, article: str, section: str) -> st
     Anchored on the BODY heading `Section 9a. `, never on the article's contents list,
     which prints the same numbers as `Sec.      9a.`. The trailing period is load-bearing
     in both directions: `Section 9. ` must not match `Section 9a. `, and `Section 9a. `
-    must not match `Section 9. `."""
+    must not match `Section 9. `.
+
+    THE SLICE ENDS AT THE NEXT `Section N. `, and a capitalized cross-reference inside a
+    section's own text would end it early. Measured on the 2024 edition rather than assumed:
+    380 occurrences of `Section N. ` in the whole document, and every one of them is a
+    section heading — the 31 that follow prose all follow the last line of an article's
+    contents list. The page's cross-references are lowercase ("See note at section 15,
+    Article V"), which is what makes this terminator safe here."""
     region = constitution_article_region(norm_text, article)
     if not region:
         return ""

@@ -23,7 +23,7 @@ from pathlib import Path
 import yaml
 
 from html_to_text import html_to_text
-from ingest_lib import fetch, flow_to_lines
+from ingest_lib import fetch, flow_to_lines, output_dir_for
 from repo_lib import (ORCONST_ID_RE, REPO_ROOT, SNAPSHOT_DIR, Checks,
                       constitution_article_region, hash_snapshot, normalize_ws, orconst_id,
                       snapshot_slice, ws_only)
@@ -32,7 +32,11 @@ URL = "https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx"
 SNAP_ID = "oregon-constitution"
 CATALOG = REPO_ROOT / "_meta/catalog/constitution.yml"
 GROUP = REPO_ROOT / "_meta/sources/constitution.yml"
-OUT = REPO_ROOT / "constitution"
+DOC_TYPE = "constitutional_provision"
+# Not a hand-typed path: `output_dir_for` derives it from repo_lib.DIR_DOC_TYPE, the same
+# table validate-frontmatter's directory-routing check reads (AGENTS.md, "Directory routing
+# (CI-enforced)"), so this pipeline is correct by construction rather than by being caught.
+OUT = output_dir_for(DOC_TYPE)
 TODAY = date.today().isoformat()
 
 # The shortest slice this ingest will publish. Same threshold as ingest_ors.py: below it
@@ -97,6 +101,12 @@ def discover_sections(norm_text: str, article: str) -> list:
 # Failure, catalog_agencies.py's, same reason).
 Skip = namedtuple("Skip", "number rule reason")
 
+# WHERE THE TEXT CAME FROM AND WHEN — the four facts every document's provenance block
+# repeats, which travelled as four positional arguments through two functions before this
+# type existed. They are one fact about one fetch of one page, and they are written into
+# `source_url`, `source_sha256`, `source_version` and `retrieved` together or not at all.
+Provenance = namedtuple("Provenance", "url sha256 source_version retrieved")
+
 # WHAT A REASON MAY NOT SAY. Every sentence here is about the SLICE or about what the page
 # PRINTS — never about whether the section exists. A section this ingest could not slice is
 # not a section Oregon does not have, and a catalog that blurs the two answers a question
@@ -126,9 +136,10 @@ def anchored(slice_text: str, number: str, title: str) -> bool:
 
     BOTH HALVES WERE MEASURED AGAINST A FAILING CASE, and ingest_ors.py's version passes
     it: comparing the first 200 characters (rather than the leadline) at half rounded DOWN
-    admits Article V section 10's text under Article VI section 2's title, because a
-    three-word title needs one hit and "state" appears in almost every sentence of this
-    document. Reported as a defect against the ORS ingest, not fixed here."""
+    admits a slice about the Governor nominating judges under the title "Duties of
+    Secretary of State", because a three-word title needs one hit and "state" appears in
+    almost every sentence of this document. Filed against the ORS ingest as #201, with that
+    measurement in it; not fixed here."""
     if not slice_text.startswith(f"Section {number}."):
         return False
     head = normalize_ws(leadline(slice_text, number)).lower()
@@ -152,9 +163,19 @@ def why_not_publishable(slice_text: str, number: str, title: str):
         return skip("too-short", length=len(slice_text), min=MIN_SLICE)
     if not anchored(slice_text, number, title):
         return skip("mis-anchored")
-    # What is left of the slice once its leadline and every bracketed legislative-history
-    # note are removed. A repealed section is printed as exactly those two things.
-    rest = re.sub(r"\[[^\]]*\]", "", slice_text[len(f"Section {number}. ") + len(title):])
+    # What is left of the slice once its OWN PRINTED leadline and every bracketed
+    # legislative-history note are removed. A repealed section is printed as exactly those
+    # two things.
+    #
+    # THE LEADLINE IS CUT BY MATCHING IT, not by counting `len(title)` characters off the
+    # front: `title` is the CONTENTS LIST's wording, which this file documents as differing
+    # from the printed one — "County Officers" against "County Officers:", "Vacancies OF"
+    # against "Vacancies IN". Every character of difference shifted the window, so a title
+    # longer than the leadline ate real text (a section wrongly skipped) and a shorter one
+    # left leadline words in the remainder (a repealed section wrongly published). Article
+    # VI's lengths happen to line up; #195's seventeen articles are where that runs out.
+    rest = re.sub(rf"^Section {re.escape(number)}\.\s+.*?[.:](?:\s|$)", "", slice_text)
+    rest = re.sub(r"\[[^\]]*\]", "", rest)
     if len(re.sub(r"[^A-Za-z]", "", rest)) < 40:
         return skip("history-only")
     return None
@@ -174,7 +195,8 @@ def edition(norm_text: str) -> str:
     return m.group(1) if m else ""
 
 
-def doc_body(article, art_title, sec, sha, url, source_version, slice_text, today):
+def doc_body(article, art_title, sec, prov, slice_text):
+    url, sha, source_version, today = prov
     doc_id = orconst_id(article, sec["number"])
     citation = f"Or. Const. Art. {article}, sec. {sec['number']}"
     title = sec["title"]
@@ -201,7 +223,7 @@ corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: {doc_id}
 title: "{title.replace(chr(34), chr(39))}"
-doc_type: constitutional_provision
+doc_type: {DOC_TYPE}
 citation: "{citation}"
 authority_level: constitution
 issuing_body: "People of the State of Oregon; published by the Legislative Counsel Committee"
@@ -259,13 +281,11 @@ constitutional text unless the section's own note says the measure carried it.
 """
 
 
-def ingest_article(article, sections, raw_text, sha, out_dir, url=URL,
-                   source_version="", today=None):
+def ingest_article(article, sections, raw_text, prov, out_dir):
     """Publish every section of `article` whose slice passes every rule; report the rest.
 
     Mutates each catalog section in place with the status it ended in — `ingested` and a
     path, or `not_sliceable` and the reason it was not. Returns (published ids, skips)."""
-    today = today or TODAY
     art_title = article_title(raw_text, article)
     published, skipped = [], []
     for sec in sections:
@@ -292,7 +312,7 @@ def ingest_article(article, sections, raw_text, sha, out_dir, url=URL,
                       f"hand.")
             continue
         (out_dir / f"{doc_id}.md").write_text(
-            doc_body(article, art_title, sec, sha, url, source_version, slice_text, today))
+            doc_body(article, art_title, sec, prov, slice_text))
         sec["status"] = "ingested"
         sec["path"] = f"constitution/{doc_id}.md"
         sec.pop("note", None)
@@ -327,6 +347,15 @@ def snapshot():
             hash_snapshot(SNAP_ID, "html"), fetched)
 
 
+def retrieved_date(cat, fetched: bool) -> str:
+    """THE DATE THE DOCUMENTS CARRY: the day the page was fetched, not the day this script
+    last ran. Re-running the ingest re-renders every document from the SAME committed
+    snapshot — nothing was retrieved and nothing was re-verified, so stamping today would be
+    a provenance claim with no fetch behind it, and it would make a re-run produce different
+    files every day."""
+    return TODAY if fetched or not cat.get("retrieved") else cat["retrieved"]
+
+
 def load_catalog():
     if CATALOG.exists():
         return yaml.safe_load(CATALOG.read_text())
@@ -351,7 +380,7 @@ def cmd_catalog(articles):
     raw_text, _, fetched = snapshot()
     norm = ws_only(raw_text)
     cat = load_catalog()
-    cat["retrieved"] = TODAY if fetched or not cat.get("retrieved") else cat["retrieved"]
+    cat["retrieved"] = retrieved_date(cat, fetched)
     cat["source_version"] = edition(norm)
     if not cat["source_version"]:
         print(f"{SNAP_ID}: the page does not state which edition it publishes; "
@@ -398,12 +427,7 @@ def _article_sort_key(article: str):
 def cmd_ingest(articles):
     raw_text, sha, fetched = snapshot()
     cat = load_catalog()
-    # THE DATE ON THE DOCUMENTS IS THE DAY THE PAGE WAS FETCHED, not the day this script
-    # last ran. Re-running the ingest re-renders every document from the SAME committed
-    # snapshot: nothing was retrieved and nothing was re-verified, so stamping today would
-    # be a provenance claim with no fetch behind it — and it would make a re-run produce a
-    # different file every day, which is the other half of #194's byte-identical rule.
-    cat["retrieved"] = TODAY if fetched or not cat.get("retrieved") else cat["retrieved"]
+    cat["retrieved"] = retrieved_date(cat, fetched)
     by_article = {a["article"]: a for a in cat["articles"]}
     if not GROUP.exists():
         print(f"{GROUP.relative_to(REPO_ROOT)} does not exist. The group's cadence and the "
@@ -411,6 +435,7 @@ def cmd_ingest(articles):
               f"maintains the sha256 in it and nothing else.", file=sys.stderr)
         return 1
     OUT.mkdir(exist_ok=True)
+    prov = Provenance(URL, sha, cat["source_version"], cat["retrieved"])
     rc = 0
     for article in articles:
         if article not in by_article:
@@ -419,9 +444,7 @@ def cmd_ingest(articles):
             rc = 1
             continue
         entry = by_article[article]
-        published, skipped = ingest_article(article, entry["sections"], raw_text, sha, OUT,
-                                            source_version=cat["source_version"],
-                                            today=cat["retrieved"])
+        published, skipped = ingest_article(article, entry["sections"], raw_text, prov, OUT)
         print(f"Article {article}: published {len(published)} of "
               f"{len(entry['sections'])} section(s) the page prints")
         for s in skipped:
@@ -511,13 +534,12 @@ Section 1. Courts. The judicial power of the state shall be vested in one suprem
 """)
 
 
-def _proof_a_slice_is_this_article_s_section_and_nothing_else():
+def _proof_a_slice_is_this_article_s_section_and_nothing_else(ck):
     """The slicing rule, at the seam provenance verification reads it through.
 
     THREE WAYS TO GET THIS WRONG, all of which publish text the citation does not name:
     take the whole page, take Article V's section 1 (every article has one), or start at
     the article's own contents list, where the section number also appears."""
-    ck = Checks()
     sl = snapshot_slice("orconst-art-vi-sec-1", SNAP_ID, FIXTURE)
     ck("slice starts at Article VI's section 1",
        sl.startswith("Section 1. Election of Secretary and Treasurer of state."))
@@ -525,24 +547,21 @@ def _proof_a_slice_is_this_article_s_section_and_nothing_else():
     ck("slice does not reach the next article", "ARTICLE VII" not in sl)
     ck("slice is not the whole page", "Governor" not in sl)
     ck("the article's contents list is not sliced", "Sec. 1." not in sl)
-    return ck.failed
 
 
-def _proof_the_id_shape_round_trips():
+def _proof_the_id_shape_round_trips(ck):
     """The id is the join between three things — the file the ingest writes, the candidate
     the citation scheme resolves to, and the coordinates the SLICER parses back out of it.
     A shape that cannot be parsed back would publish documents whose provenance could not
     be verified, since verify_provenance reaches the slice through the id alone."""
-    ck = Checks()
     for article, section in (("VI", "1"), ("VI", "9a"), ("XI-A", "3"), ("XVIII", "10")):
         doc_id = orconst_id(article, section)
         m = ORCONST_ID_RE.match(doc_id)
         ck(f"{doc_id} parses back to Article {article}, section {section}",
            bool(m) and m.group(1).upper() == article and m.group(2) == section)
-    return ck.failed
 
 
-def _proof_the_catalog_is_discovered_from_the_source():
+def _proof_the_catalog_is_discovered_from_the_source(ck):
     """WHAT THE DENOMINATOR IS. The section list comes from the article's own BODY —
     every `Section N.` heading it prints — and not from the contents list above it, which
     omits repealed sections (Article VI's section 9a is in the body and not in the list).
@@ -550,9 +569,8 @@ def _proof_the_catalog_is_discovered_from_the_source():
     at indistinguishable from one the source does not carry.
 
     The title still comes from the contents list where there is one, because that makes
-    the anchoring check in `sliceable()` a cross-check between two independently printed
+    the anchoring check in `anchored()` a cross-check between two independently printed
     parts of the page rather than a comparison of the body with itself."""
-    ck = Checks()
     secs = discover_sections(FIXTURE, "VI")
     ck("every section the body prints is cataloged",
        [s["number"] for s in secs] == ["1", "2", "2a"])
@@ -565,10 +583,9 @@ def _proof_the_catalog_is_discovered_from_the_source():
                    "title_source": "contents-list"})
     ck("another article's sections are not cataloged here",
        all(s["title"] != "Governor" for s in secs))
-    return ck.failed
 
 
-def _proof_every_rule_that_can_skip_a_section_fires():
+def _proof_every_rule_that_can_skip_a_section_fires(ck):
     """THE FOUR WAYS A SECTION IS NOT PUBLISHED, each watched failing. An ALLOWLIST: a
     section is published because its slice passed every rule, never because it failed no
     known-bad one.
@@ -576,7 +593,6 @@ def _proof_every_rule_that_can_skip_a_section_fires():
     None of these says the section does not exist. CONTEXT.md's overriding rule is that
     "could not check" is never reported as "is not there", and a slice this ingest could
     not take is a statement about the slice."""
-    ck = Checks()
     title = "Duties of Secretary of State"
     good = ("Section 2. Duties of Secretary of State. The Secretary of State shall keep a "
             "fair record of the official acts of the Legislative Assembly, and Executive "
@@ -602,16 +618,47 @@ def _proof_every_rule_that_can_skip_a_section_fires():
                 "3, 1943, and adopted by the people Nov. 7, 1944; Repeal proposed by "
                 "H.J.R. 22, 1957, and adopted by the people Nov. 4, 1958]", "2a",
                 "County manager form of government") == "history-only")
-    return ck.failed
 
 
-def _proof_a_broken_slice_is_reported_and_not_published(tmp=None):
+def _proof_the_history_only_rule_reads_the_printed_leadline(ck):
+    """THE TWO TITLES ARE DIFFERENT STRINGS, and the history-only rule must not assume they
+    are the same length. It measures what is left after the leadline and the history bracket
+    are removed; cutting `len(title)` characters instead of matching the leadline shifted
+    that window by the difference, in both directions:
+
+      * a contents-list title LONGER than the printed leadline ate real text, and a live
+        section came out looking like a repealed one — skipped, with a note saying the page
+        prints no text for a section whose text is right there;
+      * a title SHORTER left leadline words in the remainder, which is how a repealed
+        section with a long leadline gets published as if it had a body.
+
+    MEASURED, because only one of those two is demonstrably reachable: the false-PUBLISH
+    fixture below fails under the arithmetic and passes under the match (watched, by running
+    both). The false-SKIP one passes either way and is kept as a regression guard rather than
+    dressed up as a proof — `anchored()` gets there first in most of that direction, since a
+    title much longer than the leadline carries more words than the leadline can match."""
+    live = ("Section 6. County Officers: There shall be elected in each county by the "
+            "qualified electors thereof at the time of holding general elections, a county "
+            "clerk, treasurer and sheriff who shall severally hold their offices for the "
+            "term of four years. [Constitution of 1859]")
+    ck("a live section survives a contents-list title longer than its leadline",
+       why_not_publishable(live, "6", "County officers' qualifications; location of offices "
+                                      "of county and city officers") is None)
+    repealed = ("Section 2a. County manager form of government for counties of more than "
+                "one hundred thousand inhabitants as determined by the last federal census. "
+                "[Created through H.J.R. 3, 1943, and adopted by the people Nov. 7, 1944; "
+                "Repeal proposed by H.J.R. 22, 1957, and adopted Nov. 4, 1958]")
+    skip = why_not_publishable(repealed, "2a", "County manager")
+    ck("a repealed section is still refused when its leadline is longer than its title",
+       skip is not None and skip.rule == "history-only")
+
+
+def _proof_a_broken_slice_is_reported_and_not_published(ck):
     """END TO END, on a snapshot whose Article VI section 2 has been broken on purpose:
     the ingest must report it and write NOTHING for it, while its neighbour publishes
     normally. A rule that merely returns a reason somewhere inside the loop is not the
     claim being made — the claim is that no document appears."""
     import tempfile
-    ck = Checks()
     broken = FIXTURE.replace(
         "Section 2. Duties of Secretary of State. The Secretary of State shall keep a "
         "fair record of the official acts of the Legislative Assembly, and Executive "
@@ -620,7 +667,8 @@ def _proof_a_broken_slice_is_reported_and_not_published(tmp=None):
     with tempfile.TemporaryDirectory() as d:
         out = Path(d)
         sections = discover_sections(broken, "VI")
-        published, skipped = ingest_article("VI", sections, broken, "0" * 64, out)
+        published, skipped = ingest_article(
+            "VI", sections, broken, Provenance(URL, "0" * 64, "fixture", "2026-08-21"), out)
         ck("the sound section is published", published == ["orconst-art-vi-sec-1"])
         ck("the broken one is reported",
            [(s.number, s.rule) for s in skipped] == [("2", "too-short"),
@@ -630,10 +678,9 @@ def _proof_a_broken_slice_is_reported_and_not_published(tmp=None):
         ck("the catalog records why, not that it is absent",
            all(s["status"] == "not_sliceable" and "not ingested" in s["note"]
                for s in sections if s["number"] in ("2", "2a")))
-    return ck.failed
 
 
-def _proof_an_undated_page_is_refused():
+def _proof_an_undated_page_is_refused(ck):
     """The FIFTH rule, and the only one that refuses a whole run rather than a section:
     the page states which constitution it is publishing ("…as it is in effect following
     the approval of amendments and revisions on November 5, 2024"), and that sentence is
@@ -641,7 +688,6 @@ def _proof_an_undated_page_is_refused():
     file, because it moves on its own schedule — the general election. If the sentence is
     not there, this ingest cannot say WHEN the text it copied was the text, and a mirror
     of law that cannot date itself is not one this repo publishes."""
-    ck = Checks()
     dated = ws_only("The Constitution is here published as it is in effect following the "
                     "approval of amendments and revisions on November 5, 2024. " + FIXTURE)
     ck("the edition is read verbatim from the page",
@@ -649,21 +695,24 @@ def _proof_an_undated_page_is_refused():
                          "on November 5, 2024")
     ck("a page that does not state its edition yields nothing to date the mirror with",
        edition(FIXTURE) == "")
-    return ck.failed
+
+
+_PROOFS = [_proof_the_id_shape_round_trips,
+           _proof_the_history_only_rule_reads_the_printed_leadline,
+           _proof_an_undated_page_is_refused,
+           _proof_a_slice_is_this_article_s_section_and_nothing_else,
+           _proof_the_catalog_is_discovered_from_the_source,
+           _proof_every_rule_that_can_skip_a_section_fires,
+           _proof_a_broken_slice_is_reported_and_not_published]
 
 
 def selftest() -> int:
-    bad = 0
-    for proof in (_proof_the_id_shape_round_trips,
-                  _proof_an_undated_page_is_refused,
-                  _proof_a_slice_is_this_article_s_section_and_nothing_else,
-                  _proof_the_catalog_is_discovered_from_the_source,
-                  _proof_every_rule_that_can_skip_a_section_fires,
-                  _proof_a_broken_slice_is_reported_and_not_published):
-        bad += proof()
-    print(f"{bad} proof(s) did not hold" if bad else "selftest OK",
-          file=sys.stderr if bad else sys.stdout)
-    return 1 if bad else 0
+    # ONE tally, printed by Checks.report() rather than by a copy of it: "a selftest whose
+    # scaffolding is copied is one where the copies drift" (repo_lib.Checks).
+    ck = Checks()
+    for proof in _PROOFS:
+        proof(ck)
+    return ck.report(f"constitution ingest selftest ({len(_PROOFS)} proofs)")
 
 
 if __name__ == "__main__":

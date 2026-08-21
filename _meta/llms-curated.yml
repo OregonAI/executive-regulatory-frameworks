@@ -15,6 +15,25 @@ header: >-
   third-party standards are summarized with links to official sources only. Agent
   rules live in AGENTS.md.
 sections:
+  # FIRST, because this list is what orders llms.txt and the order is the authority tier.
+  # Only Article VI is mirrored (ADR 0005, #194); the `consult` line says so, because an
+  # index that lists "Oregon Constitution" without it invites an agent to read a miss as
+  # the Constitution being silent.
+  - key: constitution
+    title: Oregon Constitution
+    consult: ONLY Article VI (Administrative Department) is mirrored so far — the Secretary
+      of State and the State Treasurer sit there. A citation into any other article resolves
+      to nothing AND SAYS IT IS NOT MIRRORED; that is coverage, not the Constitution being
+      silent. Consult for the authority above the statutes.
+    highlights:
+      - path: constitution/orconst-art-vi-sec-1.md
+        label: Or. Const. Art. VI, sec. 1 — Election of Secretary and Treasurer of state
+        note: the constitutional root of two offices this corpus records as having no
+          enabling statute (ADR 0003).
+      - path: constitution/orconst-art-vi-sec-2.md
+        label: Or. Const. Art. VI, sec. 2 — Duties of Secretary of State
+        note: the Secretary of State as Auditor of Public Accounts, by the Constitution
+          rather than by statute.
   - key: statutes
     title: Statutes (ORS)
     consult: Consult for the legal authority behind any rule or policy.
