@@ -427,7 +427,15 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
 - **Checking for / applying upstream changes**: use the `/check-updates` skill
   (`.claude/skills/check-updates`) — group-scoped, token-efficient, driven by
   `src/check_updates.py` over the update groups in `_meta/sources/`. Log a
-  `Source-Updated` entry in the affected body's `CHANGELOG.md`.
+  `Source-Updated` entry in the affected body's `CHANGELOG.md`. A group's `recheck` cadence
+  is declared ONCE, in that script's `CADENCES` table with the interval it means; the
+  `recheck` enum in `_meta/schema/source-group.schema.json` is DERIVED from it
+  (`--sync-schema` writes it, `--check` gates it in CI) so a cadence cannot exist on one side
+  only, and `--selftest` proves every one of those rules can fail. A group declaring a
+  cadence nobody declared is reported against the group — by `--check`, and by `--due` as
+  `UNKNOWN CADENCE`, which is neither DUE nor ok. `even_year_general_election` (765 days) is
+  the ballot-measure cycle and is deliberately NOT `biennial`, which is the odd-year
+  legislative session two years out of phase with it (ADR 0005's amendment).
 - **Every PR**: run `corpus-validate-frontmatter --config _meta/corpus.yml` and
   `corpus-verify-provenance --config _meta/corpus.yml` locally; complete the PR checklist; update the
   relevant `CHANGELOG.md` and, for new documents, the directory `_index.md`, and run

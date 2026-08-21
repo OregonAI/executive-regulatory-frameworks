@@ -13,7 +13,17 @@
       "enum": ["sp-listing", "content-hash", "chapter-html"],
       "description": "sp-listing: diff a SharePoint listing snapshot AND content-hash members; content-hash: hash members only; chapter-html: hash shared chapter snapshots (members may be sections of one snapshot)"
     },
-    "recheck": { "enum": ["weekly", "monthly", "quarterly", "biennial", "on_review_date"] },
+    "recheck": {
+      "description": "How often this group is rechecked, and what each value means: biennial = 730 days, the ORS edition, published after each ODD-YEAR legislative session; even_year_general_election = 765 days, constitutional amendments referred to voters and decided at the general election, November of EVEN-numbered years; monthly = 30 days, the Oregon Bulletin, first business day of each month; on_review_date = 365 days, a document carrying its own printed review date, with the year as a backstop re-crawl rather than a signal; quarterly = 90 days, a listing that moves a few times a year; weekly = 7 days, a listing that moves within a week. GENERATED from CADENCES in src/check_updates.py by `python3 src/check_updates.py --sync-schema`, and gated by `--check`: a value here that the checker declares no interval for is a group nothing can report a due-state for.",
+      "enum": [
+        "biennial",
+        "even_year_general_election",
+        "monthly",
+        "on_review_date",
+        "quarterly",
+        "weekly"
+      ]
+    },
     "last_checked": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$", "description": "Group-level; bumped by check_updates.py" },
     "listing_snapshot": { "type": "string", "description": "sp-listing groups: path to the normalized listing snapshot JSON (carries the REST endpoint, view GUIDs, rows, and checker field config)" },
     "upstream_signal": { "type": "string", "description": "Human note: what upstream mechanism announces changes and how often it moves" },
