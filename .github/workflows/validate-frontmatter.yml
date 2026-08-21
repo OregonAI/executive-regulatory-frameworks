@@ -66,6 +66,13 @@ jobs:
       # print carrying text, which is FIRST in Article IV and LAST in Article XIV; and a
       # section number may carry an uppercase suffix (Article XI section 11L is the only one,
       # and a lowercase-only pattern did not skip it — it could not see it).
+      #
+      # AND SINCE #197, the drift report's own rules: a changed section is NAMED and an
+      # unchanged one is not (a report that fires on everything says exactly what the one
+      # sha256 already said), a section that cannot be sliced out of the candidate page is
+      # reported as COULD NOT CHECK and never as deleted, and a `constitution/` that does not
+      # carry what the catalog claims makes the report REFUSE rather than compare two
+      # snapshots and call it a clean bill of health for documents that are not there.
       - name: Constitution ingest skip rules must all be able to fail
         run: python3 src/ingest_constitution.py --selftest
       # THE CATALOG IS THE LIST OF WHAT SHOULD EXIST, and that is only worth something if
@@ -77,6 +84,19 @@ jobs:
       # rewrite what is committed. No network: it refuses to run if the snapshot is absent.
       - name: The Constitution catalog must match what is on disk
         run: python3 src/ingest_constitution.py --check
+      # ONE PAGE MEANS ONE HASH (#197). The group's upstream signal is a single sha256 over
+      # the whole document, so an amendment anywhere moves it and the signal says SOMETHING
+      # changed and never WHAT — the diff has to do that work, and `--drift` is it. Run here
+      # against the COMMITTED snapshot, where the honest answer is that nothing moved: a
+      # drift report that fires on an unchanged page is not a drift report, and that is the
+      # half most easily "passed" by a check that cannot tell a changed section from an
+      # unchanged one. The other half — a mutated page naming the sections that moved, and
+      # a section that could not be sliced reported as could-not-check rather than as
+      # deleted — is proved failing in the selftest above. No network: it compares a
+      # committed file against the committed snapshot, and refuses to answer at all if
+      # constitution/ does not carry what the catalog claims.
+      - name: The Constitution drift report must be silent on the committed snapshot
+        run: python3 src/ingest_constitution.py --drift _meta/snapshots/oregon-constitution.txt
       # The citation schemes' own proofs, and the half that matters is the refusals: an
       # `Or. Const.` citation to a section the page does not print must resolve to NOTHING
       # and say so, never to the article or to a neighbouring section. It holds apart the

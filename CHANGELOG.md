@@ -45,6 +45,47 @@ corpus-wide changes from 2026-08-02 forward.
   said out loud rather than left to be discovered.
 
 ### Added
+- 2026-08-21 — The Oregon Constitution's drift signal names WHICH sections moved
+  (#197, ADR 0005). The group is one source and one sha256 for the whole document, because the
+  Legislature publishes all 18 articles on one page — so any amendment anywhere moves the hash
+  and the raw signal says that SOMETHING changed and never what. That limitation is recorded
+  once, in `_meta/sources/constitution.yml`'s `upstream_signal`, and
+  `ingest_constitution.py --drift PAGE` is the diff it says has to do the work. It slices every
+  one of the catalog's **371 section numbers** out of the candidate page and out of the
+  committed snapshot through `repo_lib.snapshot_slice` — the same function the ingest published
+  through and `corpus-verify-provenance` verifies through, so a difference is a difference in
+  the section's text and never in how two callers cut it out. THE VALUE IS ENTIRELY IN THE
+  DIFFERENCE: a section whose text is unchanged is not reported at all, because a report that
+  named every section on any change would tell an operator exactly what the one hash already
+  told them. THREE ANSWERS PER SECTION, which may never be collapsed into two — CHANGED,
+  unchanged, and COULD NOT CHECK. The third is CONTEXT.md's overriding rule on the population
+  where breaking it is worst: a section that cannot be sliced out of the candidate page is NOT
+  a section Oregon deleted, and a heading that stopped parsing and a repeal look identical from
+  here, so the report says which reasons it has (`no-slice-on-the-candidate-page`,
+  `no-slice-on-the-committed-snapshot`) and refuses to guess between them. Its honest second
+  half is reported alongside: a slice runs heading to heading, so a heading that stops matching
+  drops its text into the PRECEDING section, and that neighbour really did change. The run
+  exits non-zero whenever the page moved, including when no sliced section accounts for it —
+  a page that moved with every section intact means the change is outside the text this mirror
+  publishes, and reporting that as `ok` would be the quiet pass this closes. THE BASELINE IS
+  THE SNAPSHOT THE SECTIONS ARE SLICED FROM, never the group file's copy of its hash: read
+  the other way round, the report run against the committed snapshot itself would say
+  `page CHANGED` with no section to account for it, sending an operator to diff a snapshot
+  against itself. That the group records a different number is a real disagreement — the
+  update-check cycle would be comparing fetches against a hash this mirror does not hold —
+  and it is reported as its own finding. The committed
+  DOCUMENTS are read as well as the committed snapshot, for the reason
+  `link_enabling_authority.py --check` reads them: against a `constitution/` that is not there
+  every section still compares equal, and the report would be a clean bill of health for
+  documents that do not exist, so a mirror missing what the catalog claims makes the run REFUSE
+  rather than answer. The catalog is the ALLOWLIST — the filesystem never defines the
+  population. Given a path (the page an operator already fetched, or the committed snapshot)
+  nothing touches the network. Four rules are proved failing in `--selftest`, and CI runs the
+  report against the committed snapshot, where the honest answer is that nothing moved: a drift
+  report that always fires is not a drift report. Also: the content hash of a page is now
+  declared ONCE, `repo_lib.normalized_text_hash`, which `content_hash`, `hash_snapshot` and
+  this report all read — a second spelling would let the report and the group's recorded
+  sha256 disagree about whether the page moved.
 - 2026-08-21 — A constitutional enabling authority is RESOLVED against the mirror, not merely
   read for shape (#196, ADR 0005's amendment). `link_enabling_authority.py --check` resolves
   all three of ADR 0003's forms against a mirrored document now: an ORS citation against the

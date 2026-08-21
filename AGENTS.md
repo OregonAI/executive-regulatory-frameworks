@@ -468,7 +468,12 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   cadence nobody declared is reported against the group — by `--check`, and by `--due` as
   `UNKNOWN CADENCE`, which is neither DUE nor ok. `even_year_general_election` (765 days) is
   the ballot-measure cycle and is deliberately NOT `biennial`, which is the odd-year
-  legislative session two years out of phase with it (ADR 0005's amendment).
+  legislative session two years out of phase with it (ADR 0005's amendment). The
+  `constitution` group is ONE source and ONE sha256 for the whole document, so a `CHANGED`
+  line there says only that something moved: `python3 src/ingest_constitution.py --drift
+  PAGE` is the diff that names WHICH sections' text moved, says nothing about the ones that
+  did not, and reports a section it could not slice out of the new page as COULD NOT CHECK
+  rather than as one that was deleted (#197).
 - **Every PR**: run `corpus-validate-frontmatter --config _meta/corpus.yml` and
   `corpus-verify-provenance --config _meta/corpus.yml` locally; complete the PR checklist; update the
   relevant `CHANGELOG.md` and, for new documents, the directory `_index.md`, and run
