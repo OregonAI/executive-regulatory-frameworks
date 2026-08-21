@@ -4,9 +4,11 @@
 
 ## Oregon Constitution
 
-- [Index](constitution/_index.md): 10 documents. ONLY Article VI (Administrative Department) is mirrored so far — the Secretary of State and the State Treasurer sit there. A citation into any other article resolves to nothing AND SAYS IT IS NOT MIRRORED; that is coverage, not the Constitution being silent. Consult for the authority above the statutes.
+- [Index](constitution/_index.md): 339 documents. The whole document — 339 sections across every article the page prints. AN ARTICLE IS CITED WITH ITS PARENTHETICAL - `Art. VII (Amended)` and `Art. VII (Original)` are two operative articles and two documents, and `Art. VII` alone names neither. 32 sections the page prints are cataloged and NOT published because the page prints them as a leadline and a repeal bracket and nothing else; a citation to one of those says exactly that. Consult for the authority above the statutes.
 - [Or. Const. Art. VI, sec. 1 — Election of Secretary and Treasurer of state](constitution/orconst-art-vi-sec-1.md): the constitutional root of two offices this corpus records as having no enabling statute (ADR 0003).
 - [Or. Const. Art. VI, sec. 2 — Duties of Secretary of State](constitution/orconst-art-vi-sec-2.md): the Secretary of State as Auditor of Public Accounts, by the Constitution rather than by statute.
+- [Or. Const. Art. VII (Amended), sec. 1 — Courts](constitution/orconst-art-vii-amended-sec-1.md): where the judicial power of the state is vested; the article whose parenthetical is part of how Oregon cites it, and the reason `Art. VII` alone resolves to nothing.
+- [Or. Const. Art. I, sec. 1 — Natural rights inherent in people](constitution/orconst-art-i-sec-1.md): the first section of the Bill of Rights.
 
 ## Statutes (ORS)
 

@@ -4,6 +4,728 @@ snapshot_id: oregon-constitution
 retrieved: '2026-08-21'
 source_version: in effect following the approval of amendments and revisions on November 5, 2024
 articles:
+- article: I
+  title: BILL OF RIGHTS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Natural rights inherent in people
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-1.md
+  - number: '2'
+    title: Freedom of worship
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-2.md
+  - number: '3'
+    title: Freedom of religious opinion
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-3.md
+  - number: '4'
+    title: No religious qualification for office
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-4.md
+  - number: '5'
+    title: No money to be appropriated for religion
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-5.md
+  - number: '6'
+    title: No religious test for witnesses or jurors
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-6.md
+  - number: '7'
+    title: Manner of administering oath or affirmation
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-7.md
+  - number: '8'
+    title: Freedom of speech and press
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-8.md
+  - number: '9'
+    title: Unreasonable searches or seizures
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-9.md
+  - number: '10'
+    title: Administration of justice
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-10.md
+  - number: '11'
+    title: Rights of Accused in Criminal Prosecution
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-11.md
+  - number: '12'
+    title: Double jeopardy; compulsory self-incrimination
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-12.md
+  - number: '13'
+    title: Treatment of arrested or confined persons
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-13.md
+  - number: '14'
+    title: Bailable offenses
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-14.md
+  - number: '15'
+    title: Foundation principles of criminal law
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-15.md
+  - number: '16'
+    title: Excessive bail and fines; cruel and unusual punishments; power of jury in criminal case
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-16.md
+  - number: '17'
+    title: Jury trial in civil cases
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-17.md
+  - number: '18'
+    title: Private property or services taken for public use
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-18.md
+  - number: '19'
+    title: Imprisonment for debt
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-19.md
+  - number: '20'
+    title: Equality of privileges and immunities of citizens
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-20.md
+  - number: '21'
+    title: Ex-post facto laws; laws impairing contracts; laws depending on authorization in order to take
+      effect; laws submitted to electors
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-21.md
+  - number: '22'
+    title: Suspension of operation of laws
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-22.md
+  - number: '23'
+    title: Habeas corpus
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-23.md
+  - number: '24'
+    title: Treason
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-24.md
+  - number: '25'
+    title: Corruption of blood or forfeiture of estate
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-25.md
+  - number: '26'
+    title: Assemblages of people; instruction of representatives; application to legislature
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-26.md
+  - number: '27'
+    title: Right to bear arms; military subordinate to civil power
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-27.md
+  - number: '28'
+    title: Quartering soldiers
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-28.md
+  - number: '29'
+    title: Titles of nobility; hereditary distinctions
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-29.md
+  - number: '30'
+    title: Emigration
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-30.md
+  - number: '31'
+    title: Rights of aliens; immigration to state
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '32'
+    title: Taxes and duties; uniformity of taxation
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-32.md
+  - number: '33'
+    title: Enumeration of rights not exclusive
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-33.md
+  - number: '34'
+    title: Prohibition on slavery or involuntary servitude; permissible alternatives to incarceration
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-34.md
+  - number: '35'
+    title: Restrictions on rights of certain persons
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '36'
+    title: Liquor prohibition
+    title_source: leadline
+    prints: 2
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: 36a
+    title: Prohibition of importation of liquors
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '37'
+    title: Penalty for murder in first degree
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '38'
+    title: Laws abrogated by amendment abolishing death penalty revived
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '39'
+    title: Sale of liquor by individual glass
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-39.md
+  - number: '40'
+    title: Penalty for aggravated murder
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-40.md
+  - number: '41'
+    title: Work and training for corrections institution inmates; work programs; limitations; duties of
+      corrections director
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-41.md
+  - number: '42'
+    title: Rights of victim in criminal prosecutions and juvenile court delinquency proceedings
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-42.md
+  - number: '43'
+    title: Rights of victim and public to protection from accused person during criminal proceedings;
+      denial of pretrial release
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-43.md
+  - number: '44'
+    title: Term of imprisonment imposed by court to be fully served; exceptions
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-44.md
+  - number: '45'
+    title: Person convicted of certain crimes not eligible to serve as juror on grand jury or trial jury
+      in criminal case
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-45.md
+  - number: '46'
+    title: Prohibition on denial or abridgment of rights on account of sex
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-46.md
+  - number: '47'
+    title: Right to affordable health care
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-i-sec-47.md
+- article: II
+  title: SUFFRAGE AND ELECTIONS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Elections free
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-1.md
+  - number: '2'
+    title: Qualifications of electors
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-2.md
+  - number: '3'
+    title: Rights of certain electors
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-3.md
+  - number: '4'
+    title: Residence
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-4.md
+  - number: '5'
+    title: Soldiers, seamen and marines; residence; right to vote
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-5.md
+  - number: '6'
+    title: Right of suffrage for certain persons
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '7'
+    title: Bribery at elections
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-7.md
+  - number: '8'
+    title: Regulation of elections; limits on contributions and expenditures; required disclosures
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-8.md
+  - number: '9'
+    title: Penalty for dueling
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-9.md
+  - number: '10'
+    title: Lucrative offices; holding other offices forbidden
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-10.md
+  - number: '11'
+    title: When collector or holder of public moneys ineligible to office
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-11.md
+  - number: '12'
+    title: Temporary appointments to office
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-12.md
+  - number: '13'
+    title: Privileges of electors
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-13.md
+  - number: '14'
+    title: Time of holding elections and assuming duties of office
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-14.md
+  - number: 14a
+    title: Time of holding elections in incorporated cities and towns
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-14a.md
+  - number: '15'
+    title: Method of voting in legislature
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-15.md
+  - number: '16'
+    title: Election by plurality; proportional representation
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-16.md
+  - number: '17'
+    title: Place of voting
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-17.md
+  - number: '18'
+    title: Recall; meaning of words "the legislative assembly shall provide"
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-18.md
+  - number: '22'
+    title: Political campaign contribution limitations
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-22.md
+  - number: '23'
+    title: Approval by more than majority required for certain measures submitted to people
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-23.md
+  - number: '24'
+    title: Death of candidate prior to election
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ii-sec-24.md
+- article: III
+  title: DISTRIBUTION OF POWERS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Separation of powers
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iii-sec-1.md
+  - number: '2'
+    title: Budgetary control over executive and administrative officers and agencies
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iii-sec-2.md
+  - number: '3'
+    title: Joint legislative committee to allocate emergency fund appropriations and to authorize expenditures
+      beyond budgetary limits
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iii-sec-3.md
+  - number: '4'
+    title: Senate, confirmation of executive appointments
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iii-sec-4.md
+- article: IV
+  title: LEGISLATIVE BRANCH
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Legislative power; initiative and referendum
+    title_source: contents-list
+    prints: 2
+    status: ingested
+    path: constitution/orconst-art-iv-sec-1.md
+  - number: 1a
+    title: Initiative and referendum on parts of laws and on local, special and municipal laws
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: 1b
+    title: Payment for signatures
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-1b.md
+  - number: 1d
+    title: Effective date of amendment to section 1, Article IV, by S.J.R
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '2'
+    title: Number of Senators and Representatives
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-2.md
+  - number: '3'
+    title: How Senators and Representatives chosen; filling vacancies; qualifications
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-3.md
+  - number: 3a
+    title: Applicability of qualifications for appointment to legislative vacancy
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '4'
+    title: Term of office of legislators; classification of Senators
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-4.md
+  - number: '5'
+    title: Census
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '6'
+    title: Apportionment of Senators and Representatives; operative date
+    title_source: contents-list
+    prints: 2
+    status: ingested
+    path: constitution/orconst-art-iv-sec-6.md
+  - number: '7'
+    title: Senatorial districts; senatorial and representative subdistricts
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-7.md
+  - number: '8'
+    title: Qualification of Senators and Representatives; effect of felony conviction
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-8.md
+  - number: 8a
+    title: Applicability of qualification for legislative office
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '9'
+    title: Legislators free from arrest and not subject to civil process in certain cases; words uttered
+      in debate
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-9.md
+  - number: '10'
+    title: Annual regular sessions of the Legislative Assembly; organizational session; extensions of
+      regular sessions
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-10.md
+  - number: 10a
+    title: Emergency sessions of the Legislative Assembly
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-10a.md
+  - number: '11'
+    title: Legislative officers; rules of proceedings; adjournments
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-11.md
+  - number: '12'
+    title: Quorum; failure to effect organization
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-12.md
+  - number: '13'
+    title: Journal; when yeas and nays to be entered
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-13.md
+  - number: '14'
+    title: Deliberations to be open; rules to implement requirement
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-14.md
+  - number: '15'
+    title: Punishment and expulsion of members
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-15.md
+  - number: '16'
+    title: Punishment of nonmembers
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-16.md
+  - number: '17'
+    title: General powers of Legislative Assembly
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-17.md
+  - number: '18'
+    title: Where bills to originate
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-18.md
+  - number: '19'
+    title: Reading of bills; vote on final passage
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-19.md
+  - number: '20'
+    title: Subject and title of Act
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-20.md
+  - number: '21'
+    title: Acts to be plainly worded
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-21.md
+  - number: '22'
+    title: Mode of revision and amendment
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-22.md
+  - number: '23'
+    title: Certain local and special laws prohibited
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-23.md
+  - number: '24'
+    title: Suit against state
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-24.md
+  - number: '25'
+    title: Majority necessary to pass bills and resolutions; special requirements for bills raising revenue;
+      signatures of presiding officers required
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-25.md
+  - number: '26'
+    title: Protest by member
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-26.md
+  - number: '27'
+    title: All statutes public laws; exceptions
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-27.md
+  - number: '28'
+    title: When Act takes effect
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-28.md
+  - number: '29'
+    title: Compensation of members
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-29.md
+  - number: '30'
+    title: Members not eligible to other offices
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-30.md
+  - number: '31'
+    title: Oath of members
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-31.md
+  - number: '32'
+    title: Income tax defined by federal law; review of tax laws required
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-32.md
+  - number: '33'
+    title: Reduction of criminal sentences approved by initiative or referendum process
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-33.md
+  - number: '34'
+    title: Impeachment of statewide elected officials
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-iv-sec-34.md
+- article: V
+  title: EXECUTIVE BRANCH
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Governor as chief executive; term of office; period of eligibility
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-1.md
+  - number: '2'
+    title: Qualifications of Governor
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-2.md
+  - number: '3'
+    title: Who not eligible
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-3.md
+  - number: '4'
+    title: Election of Governor
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-4.md
+  - number: '5'
+    title: Greatest number of votes decisive; election by legislature in case of tie
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-5.md
+  - number: '6'
+    title: Contested elections
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-6.md
+  - number: '7'
+    title: Term of office
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-7.md
+  - number: '8'
+    title: Vacancy in office of Governor
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: 8a
+    title: Vacancy in office of Governor
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-8a.md
+  - number: '9'
+    title: Governor as commander in chief of state military forces
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-9.md
+  - number: '10'
+    title: Governor to see laws executed
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-10.md
+  - number: '11'
+    title: Recommendations to legislature
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-11.md
+  - number: '12'
+    title: Governor may convene legislature
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-12.md
+  - number: '13'
+    title: Transaction of governmental business
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-13.md
+  - number: '14'
+    title: Reprieves, commutations and pardons; remission of fines and forfeitures
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-14.md
+  - number: '15'
+    title: '[This section of the Constitution of 1859 was redesignated as section 15b by the amendment
+      proposed by S.J.R'
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: 15a
+    title: Single item and emergency clause veto
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-15a.md
+  - number: 15b
+    title: Legislative enactments; approval by Governor; notice of intention to disapprove; disapproval
+      and reconsideration by legislature; failure of Governor to return bill
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-15b.md
+  - number: '16'
+    title: Governor to Fill Vacancies by Appointment
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-16.md
+  - number: '17'
+    title: Governor to issue writs of election to fill vacancies in legislature
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-17.md
+  - number: '18'
+    title: Commissions
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-v-sec-18.md
 - article: VI
   title: ADMINISTRATIVE DEPARTMENT
   discovered: '2026-08-21'
@@ -65,3 +787,1319 @@ articles:
     title_source: contents-list
     status: ingested
     path: constitution/orconst-art-vi-sec-10.md
+- article: VII (Amended)
+  title: JUDICIAL BRANCH
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Courts; election of judges; term of office; compensation
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vii-amended-sec-1.md
+  - number: 1a
+    title: Retirement of judges; recall to temporary active service
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vii-amended-sec-1a.md
+  - number: '2'
+    title: Amendment's effect on courts, jurisdiction and judicial system; Supreme Court's original jurisdiction
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vii-amended-sec-2.md
+  - number: 2a
+    title: Temporary appointment and assignment of judges
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vii-amended-sec-2a.md
+  - number: 2b
+    title: Inferior courts may be affected in certain respects by special or local laws
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vii-amended-sec-2b.md
+  - number: '3'
+    title: Jury trial; re-examination of issues by appellate court; record on appeal to Supreme Court;
+      affirmance notwithstanding error; determination of case by Supreme Court
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vii-amended-sec-3.md
+  - number: '4'
+    title: Supreme Court; terms; statements of decisions of court
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vii-amended-sec-4.md
+  - number: '5'
+    title: Juries; indictment; information; verdict in civil cases
+    title_source: contents-list
+    prints: 2
+    status: ingested
+    path: constitution/orconst-art-vii-amended-sec-5.md
+  - number: '6'
+    title: Incompetency or malfeasance of public officer
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vii-amended-sec-6.md
+  - number: '7'
+    title: Oath of office of Judges of Supreme Court
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vii-amended-sec-7.md
+  - number: '8'
+    title: Removal, suspension or censure of judges
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vii-amended-sec-8.md
+  - number: '9'
+    title: Juries of less than 12 jurors
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vii-amended-sec-9.md
+- article: VII (Original)
+  title: THE JUDICIAL BRANCH
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Courts in which judicial power vested
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-1.md
+  - number: '2'
+    title: Supreme Court
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-2.md
+  - number: '3'
+    title: Terms of office of Judges
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-3.md
+  - number: '4'
+    title: Vacancy
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-4.md
+  - number: '5'
+    title: Chief Justice
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-5.md
+  - number: '6'
+    title: Jurisdiction
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-6.md
+  - number: '7'
+    title: Term of Supreme Court; statements of decisions of court
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-7.md
+  - number: '8'
+    title: Circuit court
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-8.md
+  - number: '9'
+    title: Jurisdiction of circuit courts
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-9.md
+  - number: '10'
+    title: Supreme and circuit judges; election in classes
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-10.md
+  - number: '11'
+    title: County judges and terms of county courts
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-11.md
+  - number: '12'
+    title: Jurisdiction of county courts; county commissioners
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-12.md
+  - number: '13'
+    title: Writs granted by county judge; habeas corpus proceedings
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-13.md
+  - number: '14'
+    title: Expenses of court in certain counties
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-14.md
+  - number: '15'
+    title: County clerk; recorder
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-15.md
+  - number: '16'
+    title: Sheriff
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-16.md
+  - number: '17'
+    title: Prosecuting attorneys
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-17.md
+  - number: '18'
+    title: Verdict by Three-fourths Jury in Civil Cases; Jurors; Grand Jurors; Indictment May Be Amended,
+      When
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '19'
+    title: Official delinquencies
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-19.md
+  - number: '20'
+    title: Removal of Judges of Supreme Court and prosecuting attorneys from office
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-20.md
+  - number: '21'
+    title: Oath of office of Supreme Court Judges
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-vii-original-sec-21.md
+- article: VIII
+  title: EDUCATION AND SCHOOL LANDS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Superintendent of Public Instruction
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-viii-sec-1.md
+  - number: '2'
+    title: Common School Fund
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-viii-sec-2.md
+  - number: '3'
+    title: System of common schools
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-viii-sec-3.md
+  - number: '4'
+    title: Distribution of school fund income
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-viii-sec-4.md
+  - number: '5'
+    title: State Land Board; land management
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-viii-sec-5.md
+  - number: '6'
+    title: Qualifications of electors at school elections
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '7'
+    title: Prohibition of sale of state timber unless timber processed in Oregon
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-viii-sec-7.md
+  - number: '8'
+    title: Adequate and Equitable Funding
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-viii-sec-8.md
+- article: IX
+  title: FINANCE
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Assessment and taxation; uniform rules; uniformity of operation of laws
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-1.md
+  - number: 1a
+    title: Poll or head tax; declaration of emergency in tax laws
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-1a.md
+  - number: 1b
+    title: Ships exempt from taxation until 1935
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-1b.md
+  - number: 1c
+    title: Financing redevelopment and urban renewal projects
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-1c.md
+  - number: '2'
+    title: Legislature to provide revenue to pay current state expenses and interest
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-2.md
+  - number: '3'
+    title: Tax imposed only by law; statement of purpose
+    title_source: contents-list
+    prints: 2
+    status: ingested
+    path: constitution/orconst-art-ix-sec-3.md
+  - number: 3a
+    title: Use of revenue from taxes on motor vehicle use and fuel; legislative review of allocation of
+      taxes between vehicle classes
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-3a.md
+  - number: 3b
+    title: Rate of levy on oil or natural gas; exception
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-3b.md
+  - number: '4'
+    title: Appropriation necessary for withdrawal from treasury
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-4.md
+  - number: '5'
+    title: Publication of accounts
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-5.md
+  - number: '6'
+    title: Deficiency of funds; tax levy to pay
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-6.md
+  - number: '7'
+    title: Appropriation laws not to contain provisions on other subjects
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-7.md
+  - number: '8'
+    title: Stationery for use of state
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-8.md
+  - number: '9'
+    title: Taxation of certain benefits prohibited
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-9.md
+  - number: '10'
+    title: Retirement plan contributions by governmental employees
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-10.md
+  - number: '11'
+    title: Retirement plan rate of return contract guarantee prohibited
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-11.md
+  - number: '12'
+    title: Retirement not to be increased by unused sick leave
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-12.md
+  - number: '13'
+    title: Retirement plan restriction severability
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-13.md
+  - number: '14'
+    title: Revenue estimate; retention of excess corporate tax revenue in General Fund for public education
+      funding; return of other excess revenue to taxpayers; legislative increase in estimate
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-14.md
+  - number: '15'
+    title: Prohibition on tax, fee or other assessment upon transfer of interest in real property; exception
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-ix-sec-15.md
+- article: X
+  title: THE MILITIA
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State militia
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-x-sec-1.md
+  - number: '2'
+    title: Persons exempt
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-x-sec-2.md
+  - number: '3'
+    title: Officers
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-x-sec-3.md
+  - number: '4'
+    title: Staff officers; commissions
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '5'
+    title: Legislature to make regulations for militia
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '6'
+    title: Continuity of government in event of enemy attack
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+- article: X-A
+  title: CATASTROPHIC DISASTERS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Definitions; declaration of catastrophic disaster; convening of Legislative Assembly
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-x-a-sec-1.md
+  - number: '2'
+    title: Additional powers of Governor; use of General Fund moneys and lottery funds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-x-a-sec-2.md
+  - number: '3'
+    title: Procedural requirements for Legislative Assembly
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-x-a-sec-3.md
+  - number: '4'
+    title: Additional powers of Legislative Assembly
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-x-a-sec-4.md
+  - number: '5'
+    title: Participation in session of Legislative Assembly by electronic or other means
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-x-a-sec-5.md
+  - number: '6'
+    title: Termination of operation of this Article; extension by Legislative Assembly; transition provisions;
+      limitation on power of Governor to invoke this Article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-x-a-sec-6.md
+- article: XI
+  title: CORPORATIONS AND INTERNAL IMPROVEMENTS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Prohibition of state banks
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-1.md
+  - number: '2'
+    title: Formation of corporations; municipal charters; intoxicating liquor regulation
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-2.md
+  - number: 2a
+    title: Merger of adjoining municipalities; county-city consolidation
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-2a.md
+  - number: '3'
+    title: Liability of stockholders
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-3.md
+  - number: '4'
+    title: Compensation for property taken by corporation
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-4.md
+  - number: '5'
+    title: Restriction of municipal powers in Acts of incorporation
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-5.md
+  - number: '6'
+    title: State not to be stockholder in company; exceptions; inapplicability to public universities
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-6.md
+  - number: '7'
+    title: Credit of State Not to Be Loaned; Limitation Upon Power of Contracting Debts
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-7.md
+  - number: '8'
+    title: State not to assume debts of counties, towns or other corporations
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-8.md
+  - number: '9'
+    title: Limitations on powers of county or city to assist corporations
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-9.md
+  - number: '10'
+    title: County debt limitation
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-10.md
+  - number: '11'
+    title: Property tax limitations on assessed value and rate of tax; exceptions
+    title_source: contents-list
+    prints: 3
+    status: ingested
+    path: constitution/orconst-art-xi-sec-11.md
+  - number: 11a
+    title: School district tax levy
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: 11b
+    title: Property tax categories; limitation on categories; exceptions
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-11b.md
+  - number: 11c
+    title: Limits in addition to other tax limits
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-11c.md
+  - number: 11d
+    title: Effect of section 11b on exemptions and assessments
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-11d.md
+  - number: 11e
+    title: Severability of sections 11b, 11c and 11d
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-11e.md
+  - number: 11f
+    title: School district tax levy following merger
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: 11g
+    title: Tax increase limitation; exceptions
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: 11h
+    title: Voluntary contributions for support of schools or other public entities
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: 11i
+    title: Legislation to implement limitation and contribution provisions
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: 11j
+    title: Severability of sections 11g, 11h and 11i
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: 11k
+    title: Limitation on applicability of section 11 (8) voting requirements to elections on measures
+      held in May or November of any year
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-11k.md
+  - number: 11L
+    title: Limitation on applicability of sections 11 and 11b on bonded indebtedness to finance capital
+      costs
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-11l.md
+  - number: '12'
+    title: People's utility districts
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-12.md
+  - number: '13'
+    title: Interests of employes when operation of transportation system assumed by public body
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-13.md
+  - number: '14'
+    title: Metropolitan service district charter
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-14.md
+  - number: '15'
+    title: Funding of programs imposed upon local governments; exceptions
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-sec-15.md
+  - number: 15a
+    title: Subsequent vote for reaffirmation of section 15
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+- article: XI-A
+  occurrence: 0
+  title: RURAL CREDITS
+  discovered: '2026-08-21'
+  status: not_mirrored
+  rule: no-sections
+  note: the page prints no 'Section N.' heading between this article's heading and the next — what it
+    prints is the heading, the article's title and a legislative-history bracket, which is the shape of
+    a repealed article — so there is no text to mirror and nothing is ingested. The page prints ARTICLE
+    XI-A twice; this is print 1, and a citation to Art. XI-A resolves against the print that carries sections
+  sections: []
+- article: XI-A
+  occurrence: 1
+  title: FARM AND HOME LOANS TO VETERANS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to make farm and home loans to veterans; standards and priorities for loans
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-a-sec-1.md
+  - number: '2'
+    title: Bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-a-sec-2.md
+  - number: '3'
+    title: Eligibility to receive loans
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-a-sec-3.md
+  - number: '4'
+    title: Tax levy
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-a-sec-4.md
+  - number: '5'
+    title: Repeal of conflicting constitutional provisions
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-a-sec-5.md
+  - number: '6'
+    title: Refunding bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-a-sec-6.md
+- article: XI-B
+  title: STATE PAYMENT OF IRRIGATION AND DRAINAGE DISTRICT INTEREST
+  discovered: '2026-08-21'
+  status: not_mirrored
+  rule: no-sections
+  note: the page prints no 'Section N.' heading between this article's heading and the next — what it
+    prints is the heading, the article's title and a legislative-history bracket, which is the shape of
+    a repealed article — so there is no text to mirror and nothing is ingested
+  sections: []
+- article: XI-C
+  title: WORLD WAR VETERANS' STATE AID SINKING FUND
+  discovered: '2026-08-21'
+  status: not_mirrored
+  rule: no-sections
+  note: the page prints no 'Section N.' heading between this article's heading and the next — what it
+    prints is the heading, the article's title and a legislative-history bracket, which is the shape of
+    a repealed article — so there is no text to mirror and nothing is ingested
+  sections: []
+- article: XI-D
+  title: STATE POWER DEVELOPMENT
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State's rights, title and interest to water and water-power sites to be held in perpetuity
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-d-sec-1.md
+  - number: '2'
+    title: State's powers enumerated
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-d-sec-2.md
+  - number: '3'
+    title: Legislation to effectuate article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-d-sec-3.md
+  - number: '4'
+    title: Construction of article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-d-sec-4.md
+- article: XI-E
+  title: STATE REFORESTATION
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to lend credit for forest rehabilitation and reforestation; bonds; taxation
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-xi-e-sec-1.md
+- article: XI-F(1)
+  title: HIGHER EDUCATION BUILDING PROJECTS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to lend credit for higher education building projects
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-1-sec-1.md
+  - number: '2'
+    title: Limitation on authorization to incur indebtedness
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-1-sec-2.md
+  - number: '3'
+    title: Sources of revenue
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-1-sec-3.md
+  - number: '4'
+    title: Bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-1-sec-4.md
+  - number: '5'
+    title: Legislation to effectuate Article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-1-sec-5.md
+- article: XI-F(2)
+  title: VETERANS' BONUS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to lend credit to pay veterans' bonus; issuance of bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-2-sec-1.md
+  - number: '2'
+    title: Definitions
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-2-sec-2.md
+  - number: '3'
+    title: Amount of bonus
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-2-sec-3.md
+  - number: '4'
+    title: Survivors of certain deceased veterans entitled to maximum amount
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-2-sec-4.md
+  - number: '5'
+    title: Certain persons not eligible
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-2-sec-5.md
+  - number: '6'
+    title: Order of distribution among survivors
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-2-sec-6.md
+  - number: '7'
+    title: Bonus not saleable or assignable; bonus free from creditors' claims and state taxes
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-2-sec-7.md
+  - number: '8'
+    title: Administration of Article; rules and regulations
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-2-sec-8.md
+  - number: '9'
+    title: Applications
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-2-sec-9.md
+  - number: '10'
+    title: Furnishing forms; printing, office supplies and equipment; employes; payment of expenses
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-f-2-sec-10.md
+- article: XI-G
+  title: HIGHER EDUCATION INSTITUTIONS AND ACTIVITIES; COMMUNITY COLLEGES
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to lend credit for financing higher education institutions and activities,
+      and community colleges
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-g-sec-1.md
+  - number: '2'
+    title: Bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-g-sec-2.md
+  - number: '3'
+    title: Sources of revenue
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-g-sec-3.md
+- article: XI-H
+  title: POLLUTION CONTROL
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to lend credit for financing pollution control facilities or related activities
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-h-sec-1.md
+  - number: '2'
+    title: Only facilities 70 percent self-supporting and self-liquidating authorized; exceptions
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-h-sec-2.md
+  - number: '3'
+    title: Authority of public bodies to receive funds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-h-sec-3.md
+  - number: '4'
+    title: Sources of revenue
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-h-sec-4.md
+  - number: '5'
+    title: Bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-h-sec-5.md
+  - number: '6'
+    title: Legislation to effectuate Article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-h-sec-6.md
+- article: XI-I(1)
+  title: WATER DEVELOPMENT PROJECTS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to lend credit to establish Water Development Fund; eligibility; use
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-i-1-sec-1.md
+  - number: '2'
+    title: Bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-i-1-sec-2.md
+  - number: '3'
+    title: Refunding bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-i-1-sec-3.md
+  - number: '4'
+    title: Sources of revenue
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-i-1-sec-4.md
+  - number: '5'
+    title: Legislation to effectuate Article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-i-1-sec-5.md
+- article: XI-I(2)
+  title: MULTIFAMILY HOUSING FOR ELDERLY AND DISABLED
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to lend credit for multifamily housing for elderly and disabled persons
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-i-2-sec-1.md
+  - number: '2'
+    title: Sources of revenue
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-i-2-sec-2.md
+  - number: '3'
+    title: Bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-i-2-sec-3.md
+  - number: '4'
+    title: Legislation to effectuate Article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-i-2-sec-4.md
+- article: XI-J
+  title: SMALL SCALE LOCAL ENERGY LOANS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to loan credit for small scale local energy loans; eligibility; use
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-j-sec-1.md
+  - number: '2'
+    title: Bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-j-sec-2.md
+  - number: '3'
+    title: Refunding bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-j-sec-3.md
+  - number: '4'
+    title: Sources of revenue
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-j-sec-4.md
+  - number: '5'
+    title: Legislation to effectuate Article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-j-sec-5.md
+- article: XI-K
+  title: GUARANTEE OF BONDED INDEBTEDNESS OF EDUCATION DISTRICTS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to guarantee bonded indebtedness of education districts
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-k-sec-1.md
+  - number: '2'
+    title: State empowered to lend credit for state guarantee of bonded indebtedness of education districts
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-k-sec-2.md
+  - number: '3'
+    title: Repayment by education districts
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-k-sec-3.md
+  - number: '4'
+    title: Sources of revenue
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-k-sec-4.md
+  - number: '5'
+    title: Bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-k-sec-5.md
+  - number: '6'
+    title: Legislation to effectuate Article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-k-sec-6.md
+- article: XI-L
+  title: OREGON HEALTH AND SCIENCE UNIVERSITY
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to lend credit for financing capital costs of Oregon Health and Science University;
+      bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-l-sec-1.md
+  - number: '2'
+    title: Sources of repayment
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-l-sec-2.md
+  - number: '3'
+    title: Refunding bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-l-sec-3.md
+  - number: '4'
+    title: Legislation to effectuate Article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-l-sec-4.md
+  - number: '5'
+    title: Relationship to conflicting provisions of Constitution
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-l-sec-5.md
+- article: XI-M
+  title: SEISMIC REHABILITATION OF PUBLIC EDUCATION BUILDINGS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to lend credit for seismic rehabilitation of public education buildings; bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-m-sec-1.md
+  - number: '2'
+    title: Sources of repayment
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-m-sec-2.md
+  - number: '3'
+    title: Refunding bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-m-sec-3.md
+  - number: '4'
+    title: Legislation to effectuate Article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-m-sec-4.md
+  - number: '5'
+    title: Relationship to conflicting provisions of Constitution
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-m-sec-5.md
+- article: XI-N
+  title: SEISMIC REHABILITATION OF EMERGENCY SERVICES BUILDINGS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to lend credit for seismic rehabilitation of emergency services buildings;
+      bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-n-sec-1.md
+  - number: '2'
+    title: Sources of repayment
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-n-sec-2.md
+  - number: '3'
+    title: Refunding bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-n-sec-3.md
+  - number: '4'
+    title: Legislation to effectuate Article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-n-sec-4.md
+  - number: '5'
+    title: Relationship to conflicting provisions of Constitution
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-n-sec-5.md
+- article: XI-O
+  title: PENSION LIABILITIES
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to lend credit for pension liabilities
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-o-sec-1.md
+  - number: '2'
+    title: Refunding obligations
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-o-sec-2.md
+  - number: '3'
+    title: Legislation to effectuate Article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-o-sec-3.md
+  - number: '4'
+    title: Relationship to conflicting provisions of Constitution
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-o-sec-4.md
+- article: XI-P
+  title: SCHOOL DISTRICT CAPITAL COSTS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to lend credit for grants or loans to school districts to finance capital costs;
+      general obligation bond proceeds as matching funds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-p-sec-1.md
+  - number: '2'
+    title: Sources of repayment
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-p-sec-2.md
+  - number: '3'
+    title: Refunding bonds
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-p-sec-3.md
+  - number: '4'
+    title: School capital matching fund
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-p-sec-4.md
+  - number: '5'
+    title: '"Capital costs" defined'
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-p-sec-5.md
+  - number: '6'
+    title: Legislation to effectuate Article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-p-sec-6.md
+  - number: '7'
+    title: Relationship to conflicting provision of Constitution
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-p-sec-7.md
+- article: XI-Q
+  title: REAL OR PERSONAL PROPERTY OWNED OR OPERATED BY STATE
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State empowered to lend credit for real or personal property to be owned or operated by state;
+      refinancing authority
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-q-sec-1.md
+  - number: '2'
+    title: Limit on indebtedness; general obligation of state
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-q-sec-2.md
+  - number: '3'
+    title: Legislation to effectuate Article
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-q-sec-3.md
+  - number: '4'
+    title: Relationship to conflicting provisions of Constitution
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xi-q-sec-4.md
+- article: XII
+  title: STATE PRINTING
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State printing; State Printer
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-xii-sec-1.md
+- article: XIII
+  title: SALARIES
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Salaries or other compensation of state officers
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+- article: XIV
+  title: SEAT OF GOVERNMENT
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Seat of government
+    title_source: contents-list
+    prints: 2
+    status: ingested
+    path: constitution/orconst-art-xiv-sec-1.md
+  - number: '2'
+    title: Erection of state house prior to 1865
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xiv-sec-2.md
+  - number: '3'
+    title: Limitation on removal of seat of government; location of state institutions
+    title_source: leadline
+    prints: 2
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+- article: XV
+  title: MISCELLANEOUS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Officers to hold office until successors elected; exceptions; effect on defeated incumbent
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-1.md
+  - number: '2'
+    title: Tenure of office; how fixed; maximum tenure
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-2.md
+  - number: '3'
+    title: Oaths of office
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-3.md
+  - number: '4'
+    title: Regulation of lotteries; state lottery; use of net proceeds from state lottery
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-4.md
+  - number: 4a
+    title: Use of net proceeds from state lottery for parks and recreation areas
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-4a.md
+  - number: 4b
+    title: Use of net proceeds from state lottery for fish and wildlife, watershed and habitat protection
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-4b.md
+  - number: 4c
+    title: Audit of agency receiving certain net proceeds from state lottery
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-4c.md
+  - number: 4d
+    title: Subsequent vote for reaffirmation of sections 4a, 4b and 4c and amendment to section 4
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: 4e
+    title: Transfer of moneys in school capital matching subaccount to school capital matching fund created
+      under section 4, Article XI-P
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: 4f
+    title: Percentage of lottery revenues to be expended for benefit of veterans
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-4f.md
+  - number: '5'
+    title: Property of married women not subject to debts of husband; registration of separate property
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-5.md
+  - number: 5a
+    title: Policy regarding marriage
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-5a.md
+  - number: '6'
+    title: Minimum area and population of counties
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-6.md
+  - number: '7'
+    title: Officers not to receive fees from or represent claimants against state
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-7.md
+  - number: '8'
+    title: Persons eligible to serve in legislature; employment of judges by Oregon National Guard or
+      public university
+    title_source: contents-list
+    prints: 2
+    status: ingested
+    path: constitution/orconst-art-xv-sec-8.md
+  - number: 8a
+    title: '[Created through S.J.R'
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '9'
+    title: When elective office becomes vacant
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-9.md
+  - number: '10'
+    title: The Oregon Property Protection Act of 2000
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-10.md
+  - number: '11'
+    title: Home Care Commission
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xv-sec-11.md
+- article: XVI
+  title: BOUNDARIES
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: State boundaries
+    title_source: leadline
+    status: ingested
+    path: constitution/orconst-art-xvi-sec-1.md
+- article: XVII
+  title: AMENDMENTS AND REVISIONS
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Method of amending Constitution
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xvii-sec-1.md
+  - number: '2'
+    title: Method of revising Constitution
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xvii-sec-2.md
+- article: XVIII
+  title: SCHEDULE
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Election to accept or reject Constitution
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xviii-sec-1.md
+  - number: '2'
+    title: Questions submitted to voters
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xviii-sec-2.md
+  - number: '3'
+    title: Majority of votes required to accept or reject Constitution
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xviii-sec-3.md
+  - number: '4'
+    title: Vote on certain sections of Constitution
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xviii-sec-4.md
+  - number: '5'
+    title: Apportionment of Senators and Representatives
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xviii-sec-5.md
+  - number: '6'
+    title: Election under Constitution; organization of state
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xviii-sec-6.md
+  - number: '7'
+    title: Former laws continued in force
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xviii-sec-7.md
+  - number: '8'
+    title: Officers to continue in office
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xviii-sec-8.md
+  - number: '9'
+    title: Crimes against territory
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xviii-sec-9.md
+  - number: '10'
+    title: Saving existing rights and liabilities
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xviii-sec-10.md
+  - number: '11'
+    title: Judicial districts
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-xviii-sec-11.md

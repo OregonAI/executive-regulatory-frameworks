@@ -1,0 +1,67 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: orconst-art-vii-amended-sec-2a
+title: "Temporary appointment and assignment of judges"
+doc_type: constitutional_provision
+citation: "Or. Const. Art. VII (Amended), sec. 2a"
+authority_level: constitution
+issuing_body: "People of the State of Oregon; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx"
+source_format: html
+retrieved: "2026-08-21"
+source_sha256: "c8c579f8c97ccdab38f78755587215ce32f046f0ab021597a7482816d5d1a43f"
+snapshot_id: oregon-constitution
+effective_date: null
+last_reviewed: null
+source_version: "in effect following the approval of amendments and revisions on November 5, 2024"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared constitution snapshot (one page carries all 18 articles); line breaks inserted at subsection markers (whitespace-only)"
+last_verified: "2026-08-21"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["constitution", "article-vii-amended"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official text of the Oregon
+> Constitution is the one published by the Legislative Counsel Committee. Verify against
+> the official source: <https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx> (retrieved 2026-08-21, in effect following the approval of amendments and revisions on November 5, 2024).
+
+# Temporary appointment and assignment of judges (Or. Const. Art. VII (Amended), sec. 2a)
+
+## At a glance
+
+Or. Const. Art. VII (Amended), sec. 2a — Temporary appointment and assignment of judges. Article VII (Amended) (JUDICIAL BRANCH), Oregon Constitution, in effect following the approval of amendments and revisions on November 5, 2024.
+
+## Full text
+
+Section 2a. Temporary appointment and assignment of judges. The Legislative Assembly or the people may by law empower the Supreme Court to:
+
+(1) Appoint retired judges of the Supreme Court or judges of courts inferior to the Supreme Court as temporary members of the Supreme Court.
+
+(2) Appoint members of the bar as judges pro tempore of courts inferior to the Supreme Court.
+
+(3) Assign judges of courts inferior to the Supreme Court to serve temporarily outside the district for which they were elected. A judge or member of the bar so appointed or assigned shall while serving have all the judicial powers and duties of a regularly elected judge of the court to which he is assigned or appointed. [Created through S.J.R. 30, 1957, and adopted by the people Nov. 4, 1958]
+
+## Curator notes
+
+The section title above is the leadline the page's own contents list prints for this section. The page states that "[u]nless otherwise specifically noted, the leadlines
+for the sections have been supplied by Legislative Counsel" — a leadline is not part of the
+constitutional text unless the section's own note says the measure carried it.
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx> · retrieved 2026-08-21 · sha256 `c8c579f8c97ccdab38f78755587215ce32f046f0ab021597a7482816d5d1a43f`
+  (shared page snapshot `_meta/snapshots/oregon-constitution.html`, all 18 articles)
+- See [CHANGELOG](./CHANGELOG.md).

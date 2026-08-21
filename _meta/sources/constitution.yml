@@ -1,5 +1,5 @@
 group: constitution
-title: Oregon Constitution (ingested articles)
+title: Oregon Constitution (whole document)
 kind: chapter-html
 recheck: even_year_general_election
 upstream_signal: Amendments referred to the voters and decided at the general election, November of even-numbered
@@ -12,14 +12,27 @@ sources:
   url: https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx
   sha256: c8c579f8c97ccdab38f78755587215ce32f046f0ab021597a7482816d5d1a43f
   last_checked: '2026-08-21'
-  notes: 'Oregon Constitution, all 18 articles on one page, in effect following the approval of amendments and revisions
-    on November 5, 2024. THE PHASE THIS CLOCK STARTS ON IS A DECISION (ADR 0005): 2026-08-21 is the day the page
-    was actually fetched and hashed, not the month after an election, which is where this cadence lands well. Written
-    honestly rather than back-dated to a check nobody made - the consequence is that 765 days puts the first due
-    date at 2028-09-24, which is AFTER the November 2026 election it should follow by 22 months. It self-corrects
-    on the first check made after that election, because check_updates.py re-anchors last_checked on the day the
-    check ran: a check on 2026-12-10 comes due again 67 days after the November 2028 election. The quarterly full
-    sweep in scheduled.yml re-hashes this URL regardless of the cadence, so drift is still seen; a cadence that
-    could state its own phase is #198. The raw page bytes are NOT stable - it is served with a fresh ASP.NET view
-    state per request - so this sha256 is the hash of the extracted text (repo_lib.content_hash), which is stable
-    across fetches.'
+  notes: 'THE WHOLE DOCUMENT, and that is the decision this group is defined by (ADR 0005, #195). Every article
+    heading the page prints is catalogued and every section under it is published or refused with a reason - not
+    the 43 targets this corpus cites in the precise `Article X, section Y` form, and not the articles it happens
+    to have noticed. THE REASON IS WHAT `NOT FOUND` HAS TO MEAN: under a partial mirror a citation resolving to
+    nothing says either that the citation is wrong or that nobody mirrored that section, and those must never be
+    the same state. Mirroring only what is cited would also have mirrored only what was already noticed - the article-level
+    tallies are far larger than the section-level ones (Article XI is referred to 846 times, Article IV 195, Article
+    I 195), so the cited-section set is a measure of this corpus''s attention rather than of Oregon law. The cost
+    of the whole document over the cited part is one page either way: one URL, one sha256, one snapshot. The catalog
+    in _meta/catalog/constitution.yml is therefore the list of what SHOULD exist, derived from the page''s own headings,
+    and a section missing from constitution/ is DETECTABLE against it rather than merely absent. Oregon Constitution,
+    all 18 articles on one page - 40 article headings under 39 distinct designations, because ARTICLE VII is printed
+    twice (Amended and Original, both operative) and ARTICLE XI-A twice (the repealed 1916 RURAL CREDITS article
+    and the one in force), and the lettered articles X-A and XI-A through XI-Q are articles in their own right.
+    In effect following the approval of amendments and revisions on November 5, 2024. THE PHASE THIS CLOCK STARTS
+    ON IS A DECISION (ADR 0005): 2026-08-21 is the day the page was actually fetched and hashed, not the month after
+    an election, which is where this cadence lands well. Written honestly rather than back-dated to a check nobody
+    made - the consequence is that 765 days puts the first due date at 2028-09-24, which is AFTER the November 2026
+    election it should follow by 22 months. It self-corrects on the first check made after that election, because
+    check_updates.py re-anchors last_checked on the day the check ran: a check on 2026-12-10 comes due again 67
+    days after the November 2028 election. The quarterly full sweep in scheduled.yml re-hashes this URL regardless
+    of the cadence, so drift is still seen; a cadence that could state its own phase is #198. The raw page bytes
+    are NOT stable - it is served with a fresh ASP.NET view state per request - so this sha256 is the hash of the
+    extracted text (repo_lib.content_hash), which is stable across fetches.'

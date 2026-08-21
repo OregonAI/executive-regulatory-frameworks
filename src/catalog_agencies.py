@@ -48,7 +48,7 @@ from html import unescape
 
 import yaml
 
-from repo_lib import REPO_ROOT
+from repo_lib import ORCONST_ARTICLE_TOKEN, ORCONST_SECTION_TOKEN, REPO_ROOT
 
 BASE = "https://oregon.public.law"
 INDEX_URL = f"{BASE}/rules"
@@ -590,18 +590,25 @@ AUTHORITY_FORMS = (
     # so widening this form is that decision, taken here, rather than a formatting tweak.
     ("ors", re.compile(r"ORS \d+[A-Z]?\.\d+")),
     # `Or. Const. Art. VI, sec. 1` — the Secretary of State's, and the spelling CONTEXT.md
-    # and ADR 0005 both use. NOTHING RESOLVES IT, and that is a hole ADR 0005 states rather
-    # than one this form hides: the Oregon Constitution is not mirrored, so
-    # `Or. Const. Art. XVII, sec. 99` is well-formed and unverifiable. Both gates report the
-    # constitutional rows separately for that reason — "could not check" is never reported
-    # as "is not there" (CONTEXT.md).
-    # `(Amended)` is not decoration: Oregon carries BOTH Article VII (Original) and Article
-    # VII (Amended), and the judicial power sits in the amended one — so a form without it
-    # refuses a real authority for the Judicial Department, which is exactly the population
-    # this field exists for. An allowlist that is too narrow is still an allowlist; it is
-    # widened by a decision like this one rather than by a wildcard.
-    ("constitution", re.compile(r"Or\. Const\. Art\. [IVXL]+[A-Z]?"
-                                r"(?: \((?:Amended|Original)\))?, sec\. \d+[a-z]?")),
+    # and ADR 0005 both use. RESOLVING one is #196's; this form says only that the value is
+    # spelled like a citation, and both gates still report the constitutional rows
+    # separately for that reason — "could not check" is never reported as "is not there"
+    # (CONTEXT.md).
+    #
+    # THE ARTICLE HALF IS NOT WRITTEN HERE. It is `repo_lib.ORCONST_ARTICLE_TOKEN`, the same
+    # declaration `citation_schemes.OR_CONST_C` interpolates, so this allowlist and the
+    # citation scheme cannot answer "what is a constitutional article" differently. They did:
+    # this form accepted `Art. VII (Amended)` where the scheme refused it, and refused
+    # `Art. XI-A` where the scheme accepted it, and neither took `Art. XI-F(1)`, which is a
+    # real article. `citation_schemes.article_form_disagreements()` is the gate, run by that
+    # module's --selftest in CI (#195).
+    #
+    # STILL AN ALLOWLIST, and a wider one now by decision rather than by wildcard: the
+    # parenthetical is not decoration (Oregon carries BOTH Article VII (Original) and Article
+    # VII (Amended), and the judicial power sits in the amended one), and the lettered
+    # articles XI-A through XI-Q are where the state's bonding authority lives.
+    ("constitution", re.compile(rf"Or\. Const\. Art\. {ORCONST_ARTICLE_TOKEN}, "
+                                rf"sec\. {ORCONST_SECTION_TOKEN}")),
     # `Executive Order 20-03`, the citation 525 of the 526 mirrored orders carry. One of them is
     # cited `Executive Order 12-special-session` and is deliberately OUTSIDE this form:
     # widening it to admit a free-text suffix would admit every typo too, and if a body ever

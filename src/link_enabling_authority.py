@@ -403,12 +403,14 @@ def resolvable_citations() -> set[str]:
     """Every citation this corpus can resolve an authority against: the mirrored ORS
     sections and the mirrored executive orders.
 
-    THE OREGON CONSTITUTION IS STILL NOT IN HERE, and #194 mirroring Article VI does not
-    change that: one article of eighteen cannot decide a constitutional citation either way.
-    Resolving against a partial mirror would report a well-formed `Or. Const. Art. IV, sec.
-    1` as unresolvable — the ambiguity ADR 0005 rejects, in the field where an authority is
-    ADMITTING evidence. So a constitutional authority is checked for FORM and reported as
-    unverified, never silently counted as verified, until #195 completes the mirror.
+    THE OREGON CONSTITUTION IS STILL NOT IN HERE, and #195 completing the mirror does not
+    put it here by itself. The reason has changed and the behaviour has not: it used to be
+    that one article of eighteen could not decide a constitutional citation either way, and
+    now the whole document is mirrored and a citation COULD be resolved against it. Turning
+    that on is a decision about ADMITTING evidence (ADR 0003) — which sections count, and
+    what a row citing one of the 32 sections the page prints without text should be told —
+    and that decision is #196. So a constitutional authority is still checked for FORM and
+    reported as unverified, never silently counted as verified.
     """
     return {c for c, _t, _s, _b, _m in _statute_sections()} | _executive_order_citations()
 
@@ -581,18 +583,18 @@ def check() -> int:
         return 1
 
     # WHAT WAS RESOLVED AND WHAT WAS ONLY READ, reported apart. A constitutional authority
-    # is checked for form and nothing else — only Article VI of the Constitution is mirrored
-    # (#194 of ADR 0005), and one article cannot resolve a citation to the other seventeen —
-    # and folding it into one "verified" count would report an unverifiable claim as a
-    # verified one.
+    # is checked for form and nothing else. The Constitution is now mirrored WHOLE (#195 of
+    # ADR 0005), so these COULD be resolved — turning that on is #196, and until it lands,
+    # folding them into one "verified" count would report an unchecked claim as a checked
+    # one.
     forms = collections.Counter(classify_authority(a)[0] for a in MAPPED.values())
     print(f"enabling-authority table is consistent with the corpus: "
           f"{authority_census(orgs)}.")
     print(f"  resolved against the mirror : {forms['ors']} ORS, "
           f"{forms['executive-order']} executive order(s)")
     print(f"  form checked, not resolved  : {forms['constitution']} constitutional "
-          "(only Article VI of the Constitution is mirrored; resolving one of these needs "
-          "the whole document — ADR 0005, #195)")
+          "(the whole Constitution is mirrored since #195; resolving one of these against "
+          "it is #196)")
     return 0
 
 
