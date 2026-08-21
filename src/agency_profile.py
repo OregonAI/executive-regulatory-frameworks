@@ -6,8 +6,8 @@
   python3 src/agency_profile.py --selftest
 
 Three layers, merged fresh at read time (nothing derived is ever stored):
-  registry  (_meta/catalog/agencies.yml)   who the agency is: name, OAR chapter,
-                                           parent/sub-unit hierarchy
+  registry  (_meta/catalog/agencies.yml)   who the agency is: statutory name, OAR name,
+                                           OAR chapter, parent/sub-unit hierarchy
   curated   (_meta/agency-profiles.yml)    context a human asserted: governance class
                                            (+ required citation basis), where policies
                                            are published (or that they aren't), notes
@@ -17,15 +17,26 @@ Three layers, merged fresh at read time (nothing derived is ever stored):
                                            last-checked/cadence from the update groups
                                            whose documents belong to this agency
 
-Consumed by the MCP server (agency_profile tool) and build_agency_index.py; pure
-stdlib+yaml so CI can selftest without the MCP SDK (same pattern as mcp_lib.py)."""
+Consumed by build_agency_index.py and by this module's own command line; pure stdlib+yaml
+so CI can selftest without the MCP SDK (same pattern as mcp_lib.py).
+
+WHAT SERVES THE MCP TOOL, checked rather than assumed (#187). This corpus is served by
+`corpus-mcp-serve` (Dockerfile), which is corpus-toolkit's own server: its
+`issuing_body_profile` tool is implemented in `corpus_toolkit/mcp/framework.py` and reads
+the same registry file, named here by `plugins.issuing_body_registry` in _meta/corpus.yml.
+It does NOT run this module. That matters for the search below: the toolkit's copy still
+resolves a query against `name` alone, so once ADR 0003 promotes `name` a reader who asks
+that tool for a body by the name the rules index prints stops finding it. Fixing that is a
+change to corpus-toolkit and is reported to #168 rather than worked around here."""
 import sys
 from collections import defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from repo_lib import REPO_ROOT, content_files, parse_frontmatter, repo_state, yaml_load
+import catalog_agencies
+from repo_lib import (REPO_ROOT, Checks, content_files, parse_frontmatter, repo_state,
+                      yaml_load)
 
 PROFILES = REPO_ROOT / "_meta/agency-profiles.yml"
 REGISTRY = REPO_ROOT / "_meta/catalog/agencies.yml"
@@ -100,15 +111,38 @@ def _groups_for_agency(slug: str, registry_entry: dict, groups: dict) -> dict:
     return out
 
 
+def search(registry: dict, query: str) -> list:
+    """Slugs of every body a reader could mean by `query`.
+
+    NAME READER — DISPLAY, and the design decision of #187. Search is filed under
+    DISPLAY rather than JOIN because what it hands back is a candidate for a READER to
+    accept — `profile()` requires a unique hit and reports candidates otherwise — where a
+    join decides an attribution with nobody in the loop. It spans every name a
+    body is known by — statutory name, OAR name, curated aliases — through
+    `catalog_agencies.name_matches()`, which is the ONE place that question is answered for
+    both this search and the command-line one. Searching `name` alone was the same behaviour
+    while `name` held the OAR title; once ADR 0003 promotes the statutory name, a reader who
+    knows the body by the name the rules index prints (the name all 36,953 rule documents
+    carry) would stop finding it, and a search that answers "no such body" to a name the
+    body really has is worse than one that asks which of two bodies was meant.
+
+    `registry` is a PARAMETER rather than a load, so the behaviour can be proven against a
+    registry whose `name` and `oar_name` differ — which no committed row's do today."""
+    return [s for s, o in registry.items() if catalog_agencies.name_matches(o, query)]
+
+
 def profile(slug_or_query: str) -> dict:
     registry, curated = _load()
     slug = slug_or_query
     if slug not in registry:
-        q = slug_or_query.lower()
-        hits = [s for s, o in registry.items() if q in o["name"].lower()]
+        hits = search(registry, slug_or_query)
         if len(hits) != 1:
+            # BOTH NAMES ON A CANDIDATE. A reader who searched by the OAR name and is handed
+            # eight statutory names has been asked to disambiguate between bodies they
+            # cannot recognise; the name they typed has to be among the ones they are shown.
             return {"error": f"no unique agency match for {slug_or_query!r}",
-                    "candidates": [{"slug": s, "name": registry[s]["name"]}
+                    "candidates": [{"slug": s, "name": registry[s]["name"],
+                                    "oar_name": registry[s].get("oar_name")}
                                    for s in hits[:8]]}
         slug = hits[0]
     stats, groups = _derived_stats()
@@ -122,9 +156,15 @@ def profile(slug_or_query: str) -> dict:
                    "content_exceptions": s["content_exceptions"]}
     return {
         "slug": slug,
+        # NAME READER — DISPLAY. Both names are published, because after ADR 0003 they are
+        # two different facts about the body: `name` is what its enabling authority calls it
+        # and `oar_name` is what the rules index prints — the string this body's rule
+        # documents carry in `issuing_body`. Showing one and hiding the other would leave a
+        # reader unable to tell which of the two they are looking at.
         "registry": {k: reg.get(k) for k in
-                     ("name", "oar_chapter", "parent_slug", "parent_chapter",
+                     ("name", "oar_name", "oar_chapter", "parent_slug", "parent_chapter",
                       "source_url")},
+        # NAME READER — DISPLAY: the statutory name, shown to a reader beside the slug.
         "sub_units": [{"slug": o["slug"], "name": o["name"],
                        "oar_chapter": o["oar_chapter"]}
                       for o in registry.values() if o.get("parent_slug") == slug],
@@ -146,6 +186,7 @@ def overview() -> list:
         c = curated.get(slug, {})
         gs = _groups_for_agency(slug, registry[slug], groups)
         last = max((g["last_checked"] or "" for g in gs.values()), default="")
+        # NAME READER — DISPLAY: one row per body for the generated agency overview.
         rows.append({"slug": slug, "name": registry[slug]["name"],
                      "governance": c.get("governance", "unclassified"),
                      "policies_published": c.get("policies_published", "unknown"),
@@ -156,12 +197,39 @@ def overview() -> list:
     return rows
 
 
+# THE REGISTRY AS ADR 0003 LEAVES IT, and the only place this module's two names differ:
+# `name` and `oar_name` hold identical bytes on all 189 committed rows, so a search proof
+# that reads the committed registry passes whichever field the matcher reads. Both names
+# below are real — ORS 471.705 names the commission one thing and the rules index prints
+# chapter 845 under the other.
+_SEARCH_FIXTURE = {
+    "oregon-liquor-control-commission": {
+        "slug": "oregon-liquor-control-commission",
+        "name": "Oregon Liquor and Cannabis Commission",
+        "oar_name": "Oregon Liquor Control Commission",
+        "aliases": ["OLCC"], "oar_chapter": "845"},
+    "board-of-nursing": {
+        "slug": "board-of-nursing", "name": "Oregon State Board of Nursing",
+        "oar_name": "Board of Nursing", "oar_chapter": "851"},
+}
+
+
 def selftest():
-    ok = True
-    def check(name, cond):
-        nonlocal ok
-        print(("PASS " if cond else "FAIL ") + name)
-        ok = ok and cond
+    check = Checks()
+
+    # THE SEARCH THE MCP SERVER SERVES, against a registry whose two names disagree. A
+    # reader arrives holding whichever name their source printed; the tool has to reach the
+    # same body from either one, because promoting `name` (#168) must not make a body
+    # unfindable by the name 36,953 rule documents call it.
+    fx = _SEARCH_FIXTURE
+    check("search resolves a body by its statutory name",
+          search(fx, "liquor and cannabis") == ["oregon-liquor-control-commission"])
+    check("search resolves the same body by its OAR name",
+          search(fx, "liquor control") == ["oregon-liquor-control-commission"])
+    check("search resolves a body by a curated alias",
+          search(fx, "OLCC") == ["oregon-liquor-control-commission"])
+    check("search refuses a name no source prints", search(fx, "zzz") == [])
+    check("search is not a listing of every body", search(fx, "") == [])
     p = profile("department-of-administrative-services")
     check("DAS profile has cited governance",
           p["curated"]["governance"] == "executive_branch"
@@ -177,8 +245,7 @@ def selftest():
     rows = overview()
     check("overview has rows incl. DAS",
           any(r["slug"] == "department-of-administrative-services" for r in rows))
-    print("selftest", "OK" if ok else "FAILED")
-    sys.exit(0 if ok else 1)
+    sys.exit(check.report())
 
 
 def main():

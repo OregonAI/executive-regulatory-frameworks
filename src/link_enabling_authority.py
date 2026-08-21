@@ -282,6 +282,11 @@ def propose() -> int:
         slug = org["slug"]
         if slug in MAPPED or slug in UNMAPPED:
             continue
+        # NAME READER — JOIN, and one that matches the STATUTORY name on purpose. The
+        # strings on the other side are ORS catchlines and creating clauses — statute text,
+        # which spells a body the way the statute that created it does. `name` is that name
+        # after ADR 0003, so this join gets MORE accurate when #168 lands, not less; moving
+        # it to `oar_name` would match the rules index's spelling against statute text.
         names = _variants(org["name"])
         hit = None
         for cite, title, subject, body, made in sections:    # subject IS the body
@@ -321,6 +326,8 @@ def propose() -> int:
                            _first_sentence(body))
                     break
         if hit is None:
+            # NAME READER — DISPLAY: the name a human reads on the proposal sheet beside
+            # the slug they are being asked to rule on.
             unmatched.append({"slug": slug, "name": org["name"]})
         else:
             tier, basis, cite, title, quote = hit

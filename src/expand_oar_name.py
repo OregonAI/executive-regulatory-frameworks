@@ -87,6 +87,11 @@ def classify(orgs: list):
             carries.append(org)
         else:
             row = org.get("slug") or f"organizations[{i}]"
+            # NAME READER — MACHINERY: this script copies whatever `name` holds into
+            # `oar_name`, once, over rows that predate the field. It operates on the FIELD
+            # and asserts nothing about what the value means — which is why it is safe for
+            # it to keep reading `name` after ADR 0003 promotes it: a row written then
+            # already carries its own `oar_name` and is left exactly as it is.
             if isinstance(org.get("name"), str):
                 to_migrate.append(row)
             else:

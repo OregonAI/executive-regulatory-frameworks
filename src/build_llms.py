@@ -112,6 +112,9 @@ def default_title(key):
         try:
             sys.path.insert(0, str(Path(__file__).parent))
             import catalog_agencies
+            # NAME READER — DISPLAY: the agency title in llms.txt, read by a person or a
+            # model deciding what this corpus holds. Stays on `name` — the statutory name
+            # after ADR 0003 — because the entry names the BODY, not its rule chapter.
             names = {o["slug"]: o["name"] for o in
                      catalog_agencies.load()["organizations"]}
             agency = names.get(slug, slug)

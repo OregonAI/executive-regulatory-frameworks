@@ -13,8 +13,9 @@ Discovery source: oregon.public.law chapter/division pages (static HTML — the
 official OARD chapter listings render via JavaScript and return empty shells to
 plain fetches). Discovery only: rule CONTENT is always fetched from the official
 OARD per-rule URL by ingest_oar.py, never from the mirror. Chapter titles come
-from the agency registry (_meta/catalog/agencies.yml, same upstream); division
-titles from the chapter page; rule numbers from each division page's links.
+from the agency registry's OAR name (`oar_name` in _meta/catalog/agencies.yml — the title
+this same upstream index prints for the chapter); division titles from the chapter page;
+rule numbers from each division page's links.
 Existing per-rule statuses (ingested/renumbered/not_served/...) are preserved on
 merge — discovery never un-ingests anything."""
 import re
@@ -29,7 +30,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import yaml
 
-from repo_lib import REPO_ROOT
+from repo_lib import REPO_ROOT, Checks
 
 BASE = "https://oregon.public.law"
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
@@ -119,11 +120,36 @@ def discover_chapter(ch: str, title: str, cat: dict) -> tuple:
     return len(new_divisions), n_rules, n_new
 
 
+def registry_chapters(reg: dict) -> list:
+    """Every (chapter, title) discovery walks, shortest chapter number first.
+
+    NAME READER — JOIN (OAR-derived). Pairing a chapter number with a name is an OAR-keyed
+    join by construction: the chapter is the OAR index's key and the title written beside it
+    in _meta/catalog/oar.yml is the name that index prints for the body — `oar_name`
+    (CONTEXT.md, *OAR name*). It read `name` until ADR 0003 moved the ground under that
+    field, and the two hold identical bytes on all 189 committed rows, so the change is
+    invisible in the data and visible only in the fault-injected fixture below.
+
+    A chapter whose row carries no `oar_name` is REFUSED rather than walked under whatever
+    other name the row happens to hold. Every row is required to carry one
+    (`catalog_agencies.py --check`), so this is a registry that has already broken its
+    contract, and discovering it under a substitute name would write that substitute into
+    the catalog as though the rules index printed it."""
+    chapters = []
+    for o in reg["organizations"]:
+        if not o.get("oar_chapter"):
+            continue
+        if not o.get("oar_name"):
+            raise SystemExit(f"chapter {o['oar_chapter']} ({o.get('slug')!r}): registry row "
+                             "carries no oar_name — run catalog_agencies.py --check")
+        chapters.append((o["oar_chapter"], o["oar_name"]))
+    chapters.sort(key=lambda t: (len(t[0]), t[0]))
+    return chapters
+
+
 def cmd_discover(only: list):
     reg = yaml.safe_load(REGISTRY.read_text())
-    chapters = [(o["oar_chapter"], o["name"]) for o in reg["organizations"]
-                if o.get("oar_chapter")]
-    chapters.sort(key=lambda t: (len(t[0]), t[0]))
+    chapters = registry_chapters(reg)
     if only:
         chapters = [c for c in chapters if c[0] in only]
     cat = load_catalog()
@@ -168,7 +194,58 @@ def cmd_summary():
           f"{total - ingested} to import")
 
 
+# ------------------------------------------------------------------------------ selftest
+#
+# THE PROOF THAT DISCOVERY IS KEYED ON THE OAR NAME. The fixture's two names differ, which
+# no committed registry row does: `name` and `oar_name` hold the same bytes on all 189 rows
+# today, so a fixture built from committed data would pass whichever field this code reads.
+# Synthetic: no network, no read of the committed registry or catalog.
+
+
+def _fixture_registry():
+    """A registry in the state ADR 0003 leaves it in — `name` promoted to the statutory
+    name, `oar_name` still the rules index's chapter title — plus one body holding no
+    chapter, because 19 rows hold none and discovery must not walk them."""
+    return {"organizations": [
+        {"slug": "department-of-administrative-services",
+         "name": "Oregon Department of Administrative Services",
+         "oar_name": "Department of Administrative Services", "oar_chapter": "125"},
+        {"slug": "board-of-nursing", "name": "Oregon State Board of Nursing",
+         "oar_name": "Board of Nursing", "oar_chapter": "851"},
+        {"slug": "office-of-the-governor", "name": "Office of the Governor",
+         "oar_name": "Office of the Governor", "oar_chapter": None},
+    ]}
+
+
+def selftest() -> int:
+    check = Checks()
+    reg = _fixture_registry()
+    chapters = registry_chapters(reg)
+    check("every chapter-holding body is discovered", [c for c, _ in chapters] == ["125", "851"])
+    check("a body with no chapter is not discovered",
+          "office-of-the-governor" not in str(chapters))
+    titles = dict(chapters)
+    check("the chapter title is the OAR name",
+          titles["125"] == "Department of Administrative Services")
+    check("the chapter title is not the statutory name",
+          titles["125"] != "Oregon Department of Administrative Services")
+    # A ROW THAT CANNOT NAME ITS CHAPTER. Every row is required to carry an `oar_name`
+    # (catalog_agencies.py --check), so this is unreachable — and if it is reached, the
+    # chapter is REPORTED as undiscoverable rather than walked under a title taken from
+    # some other field: "could not check" is never reported as "is not there" (CONTEXT.md).
+    broken = {"organizations": [{"slug": "a-body", "name": "A Body", "oar_chapter": "999"}]}
+    try:
+        registry_chapters(broken)
+        check("a chapter whose row carries no oar_name is refused", False)
+    except SystemExit as e:
+        check("a chapter whose row carries no oar_name is refused", "oar_name" in str(e))
+
+    return check.report()
+
+
 def main():
+    if "--selftest" in sys.argv:
+        return selftest()
     if "--discover" in sys.argv:
         only = [a for a in sys.argv[1:] if not a.startswith("--")]
         cmd_discover(only)
@@ -176,7 +253,8 @@ def main():
         cmd_summary()
     else:
         print(__doc__)
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

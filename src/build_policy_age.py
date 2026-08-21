@@ -28,6 +28,8 @@ OVERDUE_YEARS = 4    # twice the cadence — a firmer "this has been missed" lin
 
 def build_data() -> dict:
     d = json.loads(DATA.read_text())
+    # NAME READER — DISPLAY: the agency label in the policy-age view. Stays on `name`
+    # (the statutory name after ADR 0003), which is what a reader is shown.
     names = {o["slug"]: o.get("name", o["slug"]) for o in
              yaml.safe_load((REPO_ROOT / "_meta/catalog/agencies.yml").read_text())["organizations"]}
 

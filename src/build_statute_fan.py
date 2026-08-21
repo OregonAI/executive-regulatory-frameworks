@@ -25,6 +25,9 @@ OUT = REPO_ROOT / "viz/statute-operationalization.html"
 def build_data() -> dict:
     g = json.loads(GRAPH.read_text())
     reg = load_registry_by_chapter()
+    # NAME READER — DISPLAY: the body's own name, shown to a reader in the visualization.
+    # It stays on `name`, which ADR 0003 makes the statutory name — the name a reader is
+    # most likely to know a body by is the one its enabling authority gives it.
     orgs = {o["slug"]: o.get("name", o["slug"]) for o in
             yaml.safe_load((REPO_ROOT / "_meta/catalog/agencies.yml").read_text())["organizations"]}
     ors_cat = yaml.safe_load((REPO_ROOT / "_meta/catalog/ors.yml").read_text())

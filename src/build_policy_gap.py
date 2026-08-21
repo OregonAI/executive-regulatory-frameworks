@@ -47,6 +47,8 @@ def build_data() -> dict:
             yaml.safe_load((REPO_ROOT / "_meta/catalog/agencies.yml").read_text())["organizations"]}
 
     def org_name(slug):
+        # NAME READER — DISPLAY: the agency label in the policy-gap view. Stays on `name`
+        # (the statutory name after ADR 0003), which is what a reader is shown.
         return orgs.get(slug, {}).get("name", slug)
 
     rules, policies = Counter(), Counter()
