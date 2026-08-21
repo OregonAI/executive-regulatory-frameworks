@@ -90,8 +90,8 @@ there is none to record (ADR 0004's commonest case — a *part of* unit has noth
 to enable); and an absent key, which is where all 189 rows stand today, means nobody has
 looked yet. A body recorded *part of* another may never carry an authority in the first
 form: the two are opposite claims about one body, and `catalog_agencies.py --check` refuses
-a row asserting both. Absence is never the claim that a body has no enabling authority, and a blank
-value is refused for making that claim with nobody behind it.
+a row asserting both. Absence is never the claim that a body has no enabling authority, and
+a blank value is refused for making that claim with nobody behind it.
 _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a statute
 
 **Part of**:
@@ -113,14 +113,14 @@ _Avoid_: Division of, part of, reports to — an administered body is not part o
 **Relation**:
 What one body's placement under another is recorded as: a `target` (the parent's registry
 slug), a `source` (whose evidence places it there), a `kind` — *part of*, *administered by*,
-or `undetermined` — the `basis` that kind was derived from, and the `authority` that makes it
-true. It lives in `relations` on every registry row, beside the `parent_slug` it will replace
-(ADR 0004). An *administered by* relation always cites an authority, because that is the
-claim about Oregon law a reader checks; *part of* cites none, because there is nothing
-separate to cite. A body may hold MORE THAN ONE, because DAS, the OAR index and statute may each
-place it under a different parent, and ADR 0003 keeps that disagreement rather than
-reconciling it: enabling authority decides, and the other readings are recorded, not
-resolved away. An empty list says this registry places the body under no other.
+or `undetermined` — the `basis` that kind was derived from, and the `authority` that makes
+it true. It lives in `relations` on every registry row, beside the `parent_slug` it will
+replace (ADR 0004). An *administered by* relation always cites an authority, because that
+is the claim about Oregon law a reader checks; *part of* cites none, because there is
+nothing separate to cite. A body may hold MORE THAN ONE, because DAS, the OAR index and
+statute may each place it under a different parent, and ADR 0003 keeps that disagreement
+rather than reconciling it: enabling authority decides, and the other readings are
+recorded, not resolved away. An empty list says this registry places the body under no other.
 _Avoid_: Parent, hierarchy, edge — a relation states whose reading it is, and those do not
 
 **Relation source**:
@@ -136,8 +136,9 @@ can regenerate the entry. A relation with no source is
 refused, because it is one nothing can keep safe: `note` is the field that has two origins
 and no way to tell them apart, and a hand-written note there is destroyed by a refresh with
 nothing to report it.
-_Avoid_: Provenance, basis, origin — those name where a document came from, not who says
-the body sits here
+_Avoid_: Provenance, origin — those name where a document came from, not who says the body
+sits here; and never *basis*, which is the key BESIDE this one on the same relation and
+answers a different question (what decided the kind)
 
 **Relation basis**:
 What decided a relation's KIND, written on the relation itself and never the same fact as
