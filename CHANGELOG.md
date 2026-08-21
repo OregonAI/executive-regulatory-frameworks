@@ -52,12 +52,17 @@ corpus-wide changes from 2026-08-02 forward.
   second spelling of `biennial`: the two are the same length and two years apart in phase —
   `ors.yml`'s `biennial` means the edition published after the ODD-year legislative session,
   while constitutional amendments are decided at the general election in November of
-  EVEN-numbered years. Measured against every consecutive pair of general elections to 2100,
-  a group checked the day after one election comes due 31–38 days after the next one on the
-  new cadence, and between 4 days BEFORE and 3 days after it on `biennial` — the wrong side
-  of the event it exists to catch. 765 = 735 (the longest span between consecutive general
-  elections, since the first-Tuesday-after-the-first-Monday rule slides election day between
-  November 2 and 8) + 30 (the vote is canvassed and an approved amendment takes effect).
+  EVEN-numbered years. Measured over every anchor in the month after an election and every
+  consecutive pair of general elections to 2100, a group comes due 30–67 days after the next
+  election on the new cadence and between 5 days BEFORE it and 32 days after on `biennial` —
+  so from the natural anchor, a check made promptly after an election, `biennial` lands on
+  the wrong side of the event it exists to catch. 765 = 735 (the longest span between
+  consecutive general elections, since the first-Tuesday-after-the-first-Monday rule slides
+  election day between November 2 and 8) + 30 (the vote is canvassed and an approved
+  amendment takes effect). The window is a ONE-HOP property: each check re-anchors
+  `last_checked` on the day it ran, so the due date walks 30–37 days later per cycle —
+  FORWARD by choice, since a shorter interval walks backward into a state it cannot leave
+  (due before the election, finds nothing, re-anchors earlier, reports `ok` forever).
   THE CADENCE WAS DECLARED TWICE — `CADENCE_DAYS` in `src/check_updates.py` and the `recheck`
   enum in `_meta/schema/source-group.schema.json` — with nothing gating their agreement, the
   same shape as `CURATED_KEYS` in #165. The schema's `recheck` node is now DERIVED from the
@@ -68,9 +73,12 @@ corpus-wide changes from 2026-08-02 forward.
   third state, `UNKNOWN CADENCE`, which is neither DUE nor ok (CONTEXT.md: "could not check"
   is never "is not there") — where it used to be a bare `KeyError` from a dict lookup inside
   `report_due()` that named the dict instead of the file and took every other group's
-  due-state down with it. `--selftest` holds six demonstrated-failing rules; both gates run
-  in CI. What the interval CANNOT do is set its own phase (#198). Every existing group's
-  `--due` reading is byte-for-byte unchanged.
+  due-state down with it; a `last_checked` nothing can date — the unquoted YAML `2026-08-01`
+  parses to a date object, not a string — is the same third state rather than a ValueError.
+  `--selftest` holds five demonstrated-failing rules and four measured behaviours; both
+  gates run in CI. What the interval CANNOT do is hold its phase (#198), and nothing
+  validates a group against the REST of that schema (#199). Every existing group's `--due`
+  reading is byte-for-byte unchanged.
 - 2026-08-21 — Relation KINDS on the agency registry, each recording what it was derived
   from (#173): 44 of the 81 children now record `administered_by` and 37 record
   `undetermined`. Every derived kind carries a new `basis` key, which is NOT the same fact as

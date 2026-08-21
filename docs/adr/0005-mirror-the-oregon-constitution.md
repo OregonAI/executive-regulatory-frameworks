@@ -110,30 +110,46 @@ EVEN-numbered years.
 
 That is not a naming preference, and it was measured rather than asserted. A cadence in this
 repo is a number of days since the last check, so the question is where a group lands when it
-comes due. Against every consecutive pair of general elections from 2026 to 2100, a group
-checked the day after one election and carrying `biennial`'s 730 days comes due between **4
-days BEFORE and 3 days after** the next one — on the wrong side of the event it exists to
-catch, or on election night with the votes still being counted. Sharing the value would have
-made that state unreachable by any gate, because nothing distinguishes a group that means the
-session from one that means the ballot.
+comes due. Measured over every anchor in the month after an election — the month is the point;
+a single flattering anchor proves nothing — and every consecutive pair of general elections
+from 2026 to 2100, a group carrying `biennial`'s 730 days comes due between **5 days BEFORE
+the next election and 32 days after it**. The failure is not that 730 never lands well: from a
+late anchor it does. It is that from the NATURAL anchor, a check made promptly after an
+election, it lands on the wrong side of the next one — and one value cannot mean both, because
+nothing distinguishes a group that means the session from one that means the ballot.
 
 The value is **`even_year_general_election`**, and its interval is **765 days = 735 + 30**.
 735 is the LONGEST span between two consecutive general elections — the Tuesday after the
 first Monday in November slides election day between the 2nd and the 8th, so consecutive
 even-year elections stand 728 or 735 days apart through 2100 — and taking the longest is what
-keeps a due date from ever landing before the election. The 30 is the margin in which the vote
-is canvassed and an approved amendment takes effect; a check on election night finds nothing
-to read. Measured the same way as `biennial` above, it comes due between **31 and 38 days
-after** the election it must follow, and `src/check_updates.py --selftest` holds both
-measurements: the one that must be in that window, and the one that must not.
+keeps a due date from landing before the election. The 30 is the margin in which the vote is
+canvassed and an approved amendment takes effect; a check on election night finds nothing to
+read. Measured the same way as `biennial` above, it comes due between **30 and 67 days after**
+the election it must follow, from every anchor in that window, and `src/check_updates.py
+--selftest` holds both measurements: the one that must be in that window, and the one that
+must not.
 
-WHAT THE INTERVAL CANNOT DO is set its own phase. `recheck` counts days since the last check,
-so a group first registered in the middle of a cycle stays in the middle of it forever, and
-the guarantee above holds only for a group whose `last_checked` starts after a general
-election. Putting the group on phase when it is created is #194's and #197's job — the
-`last_checked` a new group starts with is a decision, not a formality — and a cadence that
-could state the phase itself, "due after the next even-year general election", is #198. This
-records the limit rather than leaving it to be discovered from a due-state that looks fine.
+WHAT THE INTERVAL CANNOT DO is hold its phase, and the honest statement of that is sharper
+than "start it in the right place". `check_updates.py` re-anchors `last_checked` on the day
+the check RAN, so the window above is a ONE-HOP property: 765 days against a cycle that is
+actually 728 or 735 means each recheck lands **30 to 37 days later than the last**, and after
+enough cycles a group anchored perfectly still walks out of the window — far enough, and it
+skips an election entirely.
+
+That walk is the reason the interval is longer than the cycle rather than shorter, and it is a
+choice between two failures rather than an oversight. A cadence SHORTER than the cycle walks
+backward into a state it cannot leave: it comes due before the election, finds nothing
+changed, re-anchors earlier still, and never sees an amendment again while reporting `ok` the
+whole time. A cadence longer walks late — the amendments are still caught, just later — and an
+out-of-phase group drifts toward the window rather than away from it. We took the recoverable
+failure.
+
+Neither is a cadence that knows when the election is. Putting the group on phase when it is
+created is #194's and #197's job — the `last_checked` a new group starts with is a decision,
+not a formality — re-setting it when the walk has gone far enough is a human's, and a cadence
+that could state the phase itself, "due after the next even-year general election", is #198.
+This records the limit rather than leaving it to be discovered from a due-state that looks
+fine.
 
 Two other things follow, and neither is about the constitution. The cadence was declared
 TWICE — `CADENCE_DAYS` in `src/check_updates.py` and the `recheck` enum in

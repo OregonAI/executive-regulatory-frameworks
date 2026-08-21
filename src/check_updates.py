@@ -13,16 +13,20 @@ changing when knowledge bodies or agencies are added. Output is deliberately ter
                         listing snapshots. Never auto-ingests listing ADDED rows
                         (intake gate #1: a human vets the list first).
   --check               CI: the cadence a group may declare is declared ONCE, in CADENCES
-                        below, and the schema's enum is derived from it. Fails when the
-                        two have drifted or a group declares a cadence nobody declared.
+                        below, and the schema's `recheck` node is derived from it. Fails
+                        when the committed node is not the one that table renders, or when
+                        a group declares a cadence nobody declared.
   --sync-schema         rewrite the schema's `recheck` node from CADENCES
-  --selftest            CI: every rule --check enforces, demonstrated failing
+  --selftest            CI: every rule --check enforces, demonstrated failing, plus the
+                        behaviours no rule can state (what a report does with data it
+                        cannot read; where this cadence lands against the ballot cycle)
 """
 import argparse
 import json
 import sys
 from collections import namedtuple
 from datetime import date, datetime, timedelta
+from pathlib import Path
 
 import yaml
 
@@ -50,30 +54,41 @@ CADENCES = {
     # cadences are two years long and they are two years apart in PHASE: the ORS edition
     # follows the ODD-year legislative session, while the Oregon Constitution is amended by
     # measures decided at the general election — the Tuesday after the first Monday in
-    # November of EVEN-numbered years. A group on `biennial` comes due 730 days after its
-    # last check, which against the even-year cycle lands on the wrong side of the election
-    # it exists to catch (selftest measures both).
+    # November of EVEN-numbered years.
     #
     # 765 DAYS = 735 + 30, and each half is a fact rather than a round number. 735 is the
     # LONGEST span between two consecutive general elections (they run 728 or 735 days
     # apart through 2100, because the first-Tuesday-after-the-first-Monday rule slides
-    # election day between November 2 and 8); taking the longest means the due date never
-    # lands before the election. The 30 is the margin in which the vote is canvassed and an
-    # approved amendment takes effect — due on election night finds nothing to check yet.
+    # election day between November 2 and 8); taking the longest means a due date that
+    # never lands before the election. The 30 is the margin in which the vote is canvassed
+    # and an approved amendment takes effect — due on election night finds nothing to read.
     #
-    # WHAT THIS INTERVAL CANNOT DO is set its own phase: `recheck` is a number of days
-    # since the last check, so a group first registered mid-cycle stays mid-cycle forever
-    # and reports `ok` the whole time. Whoever creates the group (#194, #197) puts it on
-    # phase by setting `last_checked` to a date after a general election; #198 is the
-    # cadence that could express the phase itself.
+    # MEASURED over every anchor in the month after an election and every pair of elections
+    # to 2100 (--selftest): this cadence comes due 30-67 days after the next election;
+    # `biennial` comes due between 5 days BEFORE it and 32 days after. That is what refuses
+    # the reuse — not that 730 never lands well, but that from the natural anchor (a check
+    # made promptly after an election) it lands on the wrong side, and one value cannot
+    # mean both.
+    #
+    # WHAT THIS INTERVAL CANNOT DO is hold its phase. `recheck` counts days since the last
+    # check and `check_group()` re-anchors `last_checked` on the day the check RAN, so the
+    # window above is a ONE-HOP property: each cycle the due date lands 30-37 days later
+    # than the last (765 minus the 728-735 the cycle actually is). The walk is FORWARD by
+    # construction, and that is the choice: a cadence shorter than the cycle walks backward
+    # into an absorbing state — due before the election, finds nothing, re-anchors earlier,
+    # never sees an amendment again — while walking late still catches them and lets an
+    # out-of-phase group drift toward the window. A cadence that could state its own phase
+    # is #198; until then the phase is a decision made when the group is created (#194,
+    # #197) and re-made by hand when the walk has gone far enough.
     "even_year_general_election": Cadence(765, "constitutional amendments referred to "
                                                "voters and decided at the general "
                                                "election, November of EVEN-numbered "
                                                "years"),
 }
 
-# The cadence ADR 0005's source group takes, named once so the selftest and the gate below
-# refer to the decision rather than to a string.
+# The cadence ADR 0005's source group takes, named once so the measurements in --selftest
+# refer to the decision rather than repeat a string. Nothing else reads it: no gate is
+# special-cased for this cadence, and the checker stays generic over whatever groups declare.
 BALLOT_CADENCE = "even_year_general_election"
 
 
@@ -81,26 +96,35 @@ def days_since(iso: str) -> int:
     return (date.today() - datetime.strptime(iso, "%Y-%m-%d").date()).days
 
 
-# THE THIRD STATE, which may never be collapsed into the other two: a group whose cadence
-# nobody declared is not due and is not ok — it is a group nothing can say anything about.
-# CONTEXT.md's overriding rule: "could not check" is never reported as "is not there".
+# THE STATES THAT ARE NEITHER DUE NOR OK, which may never be collapsed into those two: a
+# group whose cadence nobody declared, or whose last check nothing can date, is a group
+# nothing can say anything about. CONTEXT.md's overriding rule: "could not check" is never
+# reported as "is not there". Both values come from _meta/sources/<group>.yml, which is data
+# a human writes, so both are REPORTED against the group rather than raised out of it.
 UNKNOWN_CADENCE = "UNKNOWN CADENCE"
+UNREADABLE_DATE = "UNREADABLE DATE"
+UNREADABLE = (UNKNOWN_CADENCE, UNREADABLE_DATE)
 
 
 def due_state(g, cadences=None):
     """(state, detail) for one group: is it due for a recheck, and on what reading.
 
-    A cadence nobody declared is REPORTED here rather than raised. The value comes from
-    _meta/sources/<group>.yml, which is data a human writes, so the mistake belongs to
-    that file — and a KeyError out of a dict lookup names the dict instead of the group,
-    and takes every other group's reading down with it."""
+    A cadence nobody declared, and a `last_checked` nothing can read, are REPORTED here
+    rather than raised: a KeyError out of a dict lookup or a ValueError out of strptime
+    names the dict or the format string instead of the group, and takes every other
+    group's reading down with it."""
     cadences = CADENCES if cadences is None else cadences
     cadence = cadences.get(g.get("recheck"))
     if cadence is None:
         return (UNKNOWN_CADENCE,
                 f"recheck {g.get('recheck')!r} is not one of "
                 f"{', '.join(sorted(cadences))}; cannot say whether this group is due")
-    age = days_since(g["last_checked"])
+    try:
+        age = days_since(g["last_checked"])
+    except (KeyError, TypeError, ValueError):
+        return (UNREADABLE_DATE,
+                f"last_checked {g.get('last_checked')!r} is not a YYYY-MM-DD date; "
+                f"cannot say whether this group is due")
     return ("DUE" if age >= cadence.days else "ok",
             f"last checked {age}d ago; cadence {g['recheck']}")
 
@@ -110,7 +134,7 @@ def report_due() -> int:
     unreadable = 0
     for gpath, g in source_groups():
         state, detail = due_state(g)
-        unreadable += state == UNKNOWN_CADENCE
+        unreadable += state in UNREADABLE
         print(f"{g['group']}: {state} ({detail}; "
               f"{len(g['sources'])} source(s); signal: {g['upstream_signal']})")
     return unreadable
@@ -204,34 +228,65 @@ def recheck_node(cadences=None):
     }
 
 
-def sync_schema() -> int:
+def sync_schema(path=None) -> int:
     """Write the derived `recheck` node into the schema, leaving the rest of the file
     byte-for-byte alone (only this one node is generated; every other description in it is
-    hand-written)."""
-    text = SCHEMA.read_text()
+    hand-written, which is why this splices text rather than re-dumping the document).
+
+    THE SPLICE IS CHECKED BEFORE IT IS WRITTEN. Finding the node by text means finding the
+    WRONG one is possible — a `"recheck": ` inside some other value would do it — and a
+    mis-splice would corrupt a schema nobody validates against (#199) rather than failing.
+    So the result is re-parsed and compared with the document this was supposed to produce,
+    and anything else is refused with the file untouched."""
+    path = SCHEMA if path is None else path
+    text = path.read_text()
     key = '"recheck": '
-    start = text.index(key)
+    start = text.find(key)
+    if start < 0:
+        print(f"{path}: no `recheck` node to write", file=sys.stderr)
+        return 1
     indent = " " * (start - text.rfind("\n", 0, start) - 1)
-    open_brace = text.index("{", start + len(key))
-    depth, end = 0, None
-    for i in range(open_brace, len(text)):
-        if text[i] == "{":
+    open_brace = text.find("{", start + len(key))
+    # BRACES INSIDE STRINGS ARE TEXT. A cadence note carrying a `}` is written into this
+    # node's description, so a scan that counted it as structure would close the node early
+    # on the NEXT run — idempotency is where that bites, not the write that introduced it.
+    depth, end, in_string, escaped = 0, None, False, False
+    for i in range(max(open_brace, 0), len(text)):
+        c = text[i]
+        if in_string:
+            in_string = not (c == '"' and not escaped)
+            escaped = c == "\\" and not escaped
+            continue
+        if c == '"':
+            in_string, escaped = True, False
+        elif c == "{":
             depth += 1
-        elif text[i] == "}":
+        elif c == "}":
             depth -= 1
             if depth == 0:
                 end = i + 1
                 break
-    if end is None:
-        print(f"cannot find the recheck node in {SCHEMA}", file=sys.stderr)
+    if open_brace < 0 or end is None:
+        print(f"{path}: the `recheck` node is not a closed object", file=sys.stderr)
         return 1
     rendered = json.dumps(recheck_node(), indent=2).replace("\n", "\n" + indent)
     new = text[:start] + key + rendered + text[end:]
+    try:
+        wanted = json.loads(text)
+        wanted["properties"]["recheck"] = recheck_node()
+        spliced = json.loads(new)
+    except (json.JSONDecodeError, KeyError, TypeError) as e:
+        print(f"{path}: refusing to write — the splice does not parse ({e})", file=sys.stderr)
+        return 1
+    if spliced != wanted:
+        print(f"{path}: refusing to write — the splice changed something other than the "
+              f"`recheck` node", file=sys.stderr)
+        return 1
     if new == text:
-        print(f"{SCHEMA.name}: already current")
+        print(f"{path.name}: already current")
         return 0
-    SCHEMA.write_text(new)
-    print(f"{SCHEMA.name}: recheck node written from {len(CADENCES)} declared cadence(s)")
+    path.write_text(new)
+    print(f"{path.name}: recheck node written from {len(CADENCES)} declared cadence(s)")
     return 0
 
 
@@ -250,11 +305,22 @@ def check_cadences(cadences=None, schema=None, groups=None):
                                 "the schema admits this cadence and the checker declares "
                                 "no interval for it, so a group declaring it cannot be "
                                 "reported as due or not due"))
-    want = recheck_node(cadences)["description"]
-    if node.get("description") != want:
+    want = recheck_node(cadences)
+    if node.get("description") != want["description"]:
         failures.append(Failure("schema-description", SCHEMA.name,
                                 "the schema's `recheck` description is not the one "
                                 "CADENCES renders; run --sync-schema"))
+    # AND THE WHOLE NODE, because the two rules above compare what a cadence IS and the
+    # claim being gated is that the committed node is what the declaration PRODUCES. An
+    # enum in another order or a keyword added by hand agrees on every value and is still
+    # a file --sync-schema would rewrite — which is a derived file nothing holds to its
+    # derivation, i.e. the hand-maintained second copy again. Reported only when the rules
+    # above did not already say what is wrong.
+    if node != want and not failures:
+        failures.append(Failure("schema-node", SCHEMA.name,
+                                "the committed `recheck` node is not the one CADENCES "
+                                "renders (enum order, or a keyword nothing declares); "
+                                "run --sync-schema"))
     # A GROUP IS DATA A HUMAN WRITES, so a cadence nobody declared is reported against the
     # file that declares it. ALLOWLIST: a value is legal because it appears in CADENCES,
     # never because it is not on a list of known-bad ones.
@@ -273,7 +339,10 @@ def cadence_census(groups=None):
     uses yet is a fact to report on every run, not an absence to stop noticing."""
     counts = dict.fromkeys(sorted(CADENCES), 0)
     for _, g in (source_groups() if groups is None else groups):
-        counts[g["recheck"]] = counts.get(g["recheck"], 0) + 1
+        # `.get`, and a key this table does not have: an undeclared cadence is what
+        # `group-cadence` reports, and the census must be able to count the thing the
+        # gate is reporting rather than raise beside it.
+        counts[g.get("recheck")] = counts.get(g.get("recheck"), 0) + 1
     return ", ".join(f"{n}={c}" for n, c in counts.items())
 
 
@@ -297,7 +366,7 @@ def cmd_check() -> int:
 # nobody has watched fail is not known to work, it is only known to be quiet.
 def _schema_fixture(cadences=None):
     """A schema node that agrees with the declaration it is rendered from."""
-    return {"properties": {"recheck": recheck_node(cadences or CADENCES)}}
+    return {"properties": {"recheck": recheck_node(cadences)}}
 
 
 def _proof_a_cadence_missing_from_the_schema_is_reported():
@@ -319,6 +388,19 @@ def _proof_a_stale_interval_in_the_schema_is_reported():
     return "schema-description", check_cadences(schema=stale, groups=[])
 
 
+def _proof_a_node_the_declaration_would_rewrite_is_reported():
+    """A node that agrees on WHICH cadences are legal and is still not the node CADENCES
+    renders — an enum in another order, a keyword someone added by hand. `--sync-schema`
+    would rewrite it, so the committed file is not the derivation's output, and a derived
+    file that nothing holds to its derivation is back to being a second hand-maintained
+    copy."""
+    reordered = _schema_fixture()
+    node = reordered["properties"]["recheck"]
+    node["enum"] = list(reversed(node["enum"]))
+    node["type"] = "string"
+    return "schema-node", check_cadences(schema=reordered, groups=[])
+
+
 def _proof_a_cadence_missing_from_the_declaration_is_reported():
     """A cadence the schema admits and the checker does not know. This is the direction
     that ends in a traceback: the schema tells a curator the value is legal, the group
@@ -330,8 +412,8 @@ def _proof_a_cadence_missing_from_the_declaration_is_reported():
 
 def _group_fixture(**over):
     """One update group, of the shape _meta/sources/*.yml carries."""
-    g = {"group": "oregon-constitution", "title": "Oregon Constitution", "kind": "content-hash",
-         "recheck": "biennial", "last_checked": "2026-08-01",
+    g = {"group": "oregon-constitution", "title": "Oregon Constitution",
+         "kind": "content-hash", "recheck": "biennial", "last_checked": "2026-08-01",
          "upstream_signal": "one page carrying all 18 articles", "sources": []}
     g.update(over)
     return SOURCES_DIR / f"{g['group']}.yml", g
@@ -341,7 +423,8 @@ def _proof_a_group_declaring_an_undeclared_cadence_is_reported():
     """A source group is data a human writes, so a cadence nobody declared is a mistake
     in that file and is REPORTED against it. Before this rule it was a KeyError raised
     from inside report_due(), which names the dict and not the group."""
-    return "group-cadence", check_cadences(groups=[_group_fixture(recheck="ballot_measure")])
+    return "group-cadence", check_cadences(schema=_schema_fixture(),
+                                          groups=[_group_fixture(recheck="ballot_measure")])
 
 
 def _proof_due_reports_an_undeclared_cadence_rather_than_raising():
@@ -363,6 +446,64 @@ def _proof_due_reports_an_undeclared_cadence_rather_than_raising():
     return 0
 
 
+def _proof_the_writer_refuses_a_mis_splice():
+    """THE WRITER'S OWN HALF, which --check cannot reach: it reads what was written and
+    cannot see what writing it nearly did. The node is located by text, so a `"recheck": `
+    standing somewhere else in the file is found first and the splice lands in the wrong
+    place — on a schema nothing validates against (#199), a corrupt result is silent. The
+    file must come back untouched."""
+    import contextlib
+    import io
+    import tempfile
+    # A second `recheck` key standing EARLIER in the file than the real one — a `$defs`
+    # block is the way a schema most plausibly grows one. The text search finds that one.
+    decoy = {"$defs": {"retired": {"recheck": {"enum": ["weekly"]}}},
+             "properties": {"recheck": {"enum": ["weekly"]}}}
+    with tempfile.TemporaryDirectory() as d:
+        p = Path(d) / "decoy.schema.json"
+        before = json.dumps(decoy, indent=2)
+        p.write_text(before)
+        # Its refusal goes to stderr, and a selftest that passes must print nothing: a
+        # CI log where the expected failure looks like a failure is a log nobody reads.
+        with contextlib.redirect_stderr(io.StringIO()):
+            rc = sync_schema(p)
+        if rc == 0:
+            print("FAIL mis-splice: the writer accepted a node it found in the wrong "
+                  "place", file=sys.stderr)
+            return 1
+        if p.read_text() != before:
+            print("FAIL mis-splice: the writer refused and wrote anyway", file=sys.stderr)
+            return 1
+    return 0
+
+
+def _proof_due_reports_an_unreadable_last_checked_rather_than_raising():
+    """The sibling field, and the same defect: `last_checked` is written by hand too, and
+    `2026-7-1` or a missing key used to come out of `days_since()` as a ValueError naming
+    the format string. A group whose age cannot be read is a group nothing can say a
+    due-state for, which is the third state and not `ok`."""
+    bad = 0
+    # An UNQUOTED date in the YAML is the realistic one: `last_checked: 2026-08-01` parses
+    # to a datetime.date rather than a string, and strptime raises TypeError on it. The
+    # other two are the shapes a hand-edit leaves behind.
+    for group in (_group_fixture(last_checked=date(2026, 8, 1)),
+                  _group_fixture(last_checked="August 1, 2026"),
+                  _group_fixture(last_checked=None)):
+        _, g = group
+        try:
+            state, detail = due_state(g)
+        except Exception as e:
+            print(f"FAIL due-state on {g['last_checked']!r}: raised "
+                  f"{type(e).__name__}: {e}", file=sys.stderr)
+            bad += 1
+            continue
+        if state != UNREADABLE_DATE:
+            print(f"FAIL due-state on {g['last_checked']!r}: reported {state!r} "
+                  f"({detail}), which reads as an answer", file=sys.stderr)
+            bad += 1
+    return bad
+
+
 def _general_elections(first=2026, last=2100):
     """Oregon general elections: the Tuesday after the first Monday in November, in
     even-numbered years. Derived from the calendar rule rather than from anything in this
@@ -376,42 +517,83 @@ def _general_elections(first=2026, last=2100):
     return out
 
 
-def _measure_against_the_ballot_cycle(days):
-    """How long after the NEXT general election a group checked the day after THIS one
-    comes due, over every consecutive pair of elections this century. Returns (min, max)
-    in days — negative means it came due before the election it exists to catch."""
+# WHERE A CORRECTLY CREATED GROUP'S CLOCK STARTS: the month after a general election, once
+# the vote is canvassed and an approved amendment has taken effect. Measuring a single
+# anchor would prove almost nothing — `last_checked` is whatever day someone ran the check
+# — so every measurement below quantifies over the whole window.
+ANCHOR_WINDOW = range(0, 31)
+
+
+def _election_spans():
+    """Days between consecutive general elections: 728 or 735, never anything else."""
     els = _general_elections()
-    offsets = [((e + timedelta(days=1 + days)) - nxt).days for e, nxt in zip(els, els[1:])]
+    return [(nxt - e).days for e, nxt in zip(els, els[1:])]
+
+
+def _measure_against_the_ballot_cycle(days, window=ANCHOR_WINDOW):
+    """How long after the NEXT general election a group comes due, for a last check
+    anywhere in `window` days after THIS one, over every consecutive pair of elections to
+    2100. (min, max) in days — negative means it came due before the election it exists to
+    catch."""
+    els = _general_elections()
+    offsets = [((e + timedelta(days=a + days)) - nxt).days
+               for e, nxt in zip(els, els[1:]) for a in window]
     return min(offsets), max(offsets)
 
 
 def _proof_the_ballot_measure_cadence_lands_after_an_election():
-    """THE DECISION ITSELF, measured. A group on this cadence, checked the day after a
-    general election, must come due AFTER the next one — and after the ~30 days in which
-    the vote is canvassed and an approved amendment takes effect, since a due date on
-    election night finds nothing to check. It must also not wander a season past it.
+    """THE DECISION ITSELF, measured, and measured over EVERY anchor in the month after an
+    election rather than one flattering day. Three properties, and the third is the one a
+    single-anchor measurement hides:
 
-    The same measurement is what refuses `biennial`: 730 days is the odd-year ORS
-    session, and against the even-year ballot cycle it comes due on the wrong side of the
-    election it exists to catch. That is the ambiguity ADR 0005 calls quiet."""
+    1. From any anchor in that window, this cadence comes due AFTER the next election and
+       after the ~30 days in which the vote is canvassed and an approved amendment takes
+       effect — a due date on election night finds nothing to check — and not a season
+       past it.
+    2. `biennial` cannot do the same. It is not that 730 days never lands well: from a
+       late anchor it does. It is that from the NATURAL anchor — a check made promptly
+       after an election — it comes due BEFORE the next one, so reusing the value would
+       make the good case and the useless case the same declaration.
+    3. The phase walks FORWARD. Every check re-anchors `last_checked` on the day the check
+       RAN, so an interval longer than the cycle lands later each time (here 30-37 days per
+       cycle) and one shorter lands earlier. Later is recoverable — the group still catches
+       the amendments, just later, and an out-of-phase group drifts toward the window.
+       Earlier is ABSORBING: a group that comes due before an election finds nothing,
+       re-anchors earlier still, and never sees an amendment again. Neither is a substitute
+       for a cadence that can state its own phase (#198); this only picks the failure that
+       can be walked out of."""
     bad = 0
-    lo, hi = _measure_against_the_ballot_cycle(CADENCES[BALLOT_CADENCE].days)
+    days = CADENCES[BALLOT_CADENCE].days
+    lo, hi = _measure_against_the_ballot_cycle(days)
     if not (30 <= lo and hi <= 90):
-        print(f"FAIL {BALLOT_CADENCE}: comes due between {lo}d and {hi}d after the "
-              f"general election it must follow; wanted the 30-90d window",
-              file=sys.stderr)
+        print(f"FAIL {BALLOT_CADENCE}: from an anchor in the month after an election it "
+              f"comes due between {lo}d and {hi}d after the next one; wanted the 30-90d "
+              f"window", file=sys.stderr)
         bad += 1
-    reused_lo, reused_hi = _measure_against_the_ballot_cycle(CADENCES["biennial"].days)
-    if 30 <= reused_lo and reused_hi <= 90:
-        print(f"FAIL biennial: reaches the same window ({reused_lo}d-{reused_hi}d), so "
-              f"{BALLOT_CADENCE} is a second name for a cadence that already exists",
-              file=sys.stderr)
+    reused_lo, _ = _measure_against_the_ballot_cycle(CADENCES["biennial"].days)
+    if reused_lo >= 30:
+        print(f"FAIL biennial: never comes due before the results are final either "
+              f"(earliest {reused_lo}d after the election), so {BALLOT_CADENCE} is a "
+              f"second name for a cadence that already exists", file=sys.stderr)
+        bad += 1
+    if days <= max(_election_spans()):
+        print(f"FAIL {BALLOT_CADENCE}: {days}d is not longer than the longest span "
+              f"between two general elections ({max(_election_spans())}d), so the phase "
+              f"walks BACKWARD into the state it cannot leave", file=sys.stderr)
         bad += 1
     return bad
 
 
-_BEHAVIOURS = [_proof_due_reports_an_undeclared_cadence_rather_than_raising,
-               _proof_the_ballot_measure_cadence_lands_after_an_election]
+# TWO KINDS OF PROOF, kept apart because they demonstrate different things. `_PROOFS`
+# each break one rule of `check_cadences` and assert THAT rule fires. `_MEASURED` are the
+# behaviours no --check rule can state: what a report does with data it cannot read, what
+# the writer does with a splice it cannot trust, and where this cadence actually lands
+# against the ballot cycle. Counting them in one total would let a measurement stand in
+# for a rule nobody has watched fail.
+_MEASURED = [_proof_due_reports_an_undeclared_cadence_rather_than_raising,
+             _proof_due_reports_an_unreadable_last_checked_rather_than_raising,
+             _proof_the_writer_refuses_a_mis_splice,
+             _proof_the_ballot_measure_cadence_lands_after_an_election]
 
 _PROOFS = [
     ("a cadence declared in the checker and not the schema",
@@ -420,6 +602,8 @@ _PROOFS = [
      _proof_a_cadence_missing_from_the_declaration_is_reported),
     ("an interval the schema prints that the declaration no longer means",
      _proof_a_stale_interval_in_the_schema_is_reported),
+    ("a committed node the declaration would rewrite",
+     _proof_a_node_the_declaration_would_rewrite_is_reported),
     ("a source group declaring a cadence nobody declared",
      _proof_a_group_declaring_an_undeclared_cadence_is_reported),
 ]
@@ -433,10 +617,11 @@ def selftest() -> int:
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
             bad += 1
-    for proof in _BEHAVIOURS:
+    for proof in _MEASURED:
         bad += proof()
-    print(f"{len(_PROOFS) + len(_BEHAVIOURS)} violation(s) demonstrated failing" if not bad
-          else f"{bad} rule(s) did not fire", file=sys.stderr if bad else sys.stdout)
+    print(f"{len(_PROOFS)} rule(s) demonstrated failing, {len(_MEASURED)} behaviour(s) "
+          f"measured" if not bad else f"{bad} proof(s) did not hold",
+          file=sys.stderr if bad else sys.stdout)
     return 1 if bad else 0
 
 
