@@ -11,6 +11,27 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Added
+- 2026-08-21 — the in-repo consumers of the agency registry moved onto `oar_name`, and
+  every remaining reader of `name` is classified where it sits (#187). ADR 0003 makes
+  `name` the statutory name and leaves the rules index's title in `oar_name`; because the
+  two hold identical bytes on all 189 rows today, a consumer that should have moved and did
+  not is invisible in the data, so every measurement below was ALSO run against a
+  fault-injected registry — `name` replaced with a synthetic statutory name, `oar_name`
+  untouched. The two OAR-derived joins now match `oar_name`: `src/enrich_oar.py`, which
+  stamps `issuing_body` into rule frontmatter, and `src/catalog_oar.py`, which discovers
+  chapters. NO DOCUMENT CHANGED and the corpus was not re-enriched — measured across all
+  36,953 already-enriched rule documents, 0 carry an `issuing_body` that differs from their
+  body's `oar_name` — and `enrich_oar.py --check` now COMPARES that field, which was
+  written by the enricher and checked by nothing, so a future split is reported rather than
+  assumed to be nil. Agency search spans every name a body is known by (statutory name, OAR
+  name, curated aliases) in both places it is served, `catalog_agencies.find()` and the MCP
+  `agency_profile` tool, and `resolve()` matches both names in every tier: against the
+  committed registry the 76 recorded retention-schedule resolutions are unchanged, and
+  against the fault-injected one matching `name` alone loses 32 of 72 while matching both
+  loses none. New gate `python3 src/name_readers.py --check` (CI, every PR) refuses a
+  registry-`name` read carrying no JOIN / DISPLAY / MACHINERY classification beside it; its
+  `--selftest` demonstrates all five of its rules failing. The audit found 38 sites across
+  17 modules — six more modules than the issue's own census named.
 - 2026-08-21 — `enabling_authority` on the agency registry (#170): the field that
   records what created a body — an ORS citation, a constitutional article, or an
   executive order, because ADR 0003 records an AUTHORITY rather than a statute so

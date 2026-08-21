@@ -25,7 +25,10 @@ What gets filled, and from where (all inside the committed '## Full text'):
                            recorded as the citation string "OAR <old>"
   agency                <- rule's chapter -> _meta/catalog/agencies.yml org (keyed
                            by oar_chapter; sub-units get their own slug)
-  issuing_body          <- that org's proper name
+  issuing_body          <- that org's OAR NAME (`oar_name`), the name the rules index
+                           gives the body — an OAR-derived join, from an OAR chapter to
+                           the body that holds it, so it matches on the OAR name and not
+                           on `name`, which ADR 0003 promotes to the statutory name
 
 Used by ingest_oar.py at document-creation time too, so future imports are born
 enriched; this script's file-rewrite mode exists for backfilling and for the CI
@@ -178,7 +181,20 @@ def derive(body: str, doc_id: str, registry_by_chapter: dict) -> dict:
         raise SystemExit(f"{doc_id}: chapter {ch} not in the agency registry — run "
                          "catalog_agencies.py --refresh first")
     d["agency"] = org["slug"]
-    d["issuing_body"] = org["name"]
+    # NAME READER — JOIN (OAR-derived). THE MOST CONSEQUENTIAL NAME READ IN THIS REPOSITORY:
+    # it stamps a registry string into 36,953 rule documents' frontmatter. The document says
+    # who issued the rule, the rule reached this body through its OAR chapter, and the name
+    # every one of those documents carries today is the rules index's title — so the field
+    # read here is `oar_name` (CONTEXT.md, *OAR name*: "the string OAR-derived joins must
+    # match"). Reading `name` instead would leave newly enriched documents carrying a
+    # statutory issuing body while 36,953 existing ones carry the OAR title, with nothing
+    # reporting the split; `expected_mismatch` below now compares the field, so a split that
+    # does happen is reported by --check rather than discovered later.
+    if not org.get("oar_name"):
+        raise SystemExit(f"{doc_id}: registry row {org.get('slug')!r} carries no oar_name — "
+                         "the issuing body cannot be stamped from a name no row states; run "
+                         "catalog_agencies.py --check")
+    d["issuing_body"] = org["oar_name"]
     return d
 
 
@@ -242,12 +258,100 @@ def expected_mismatch(fm: dict, d: dict) -> list:
         bad.append("effective_date")
     if fm.get("agency") != d["agency"]:
         bad.append("agency")
+    # THE ISSUING BODY, COMPARED RATHER THAN ASSUMED. This field was written by `apply()`
+    # and checked by nothing, so a document whose issuing body had drifted from the registry
+    # read exactly like one that agreed with it. It matters now because ADR 0003 splits the
+    # two names apart: `name` becomes the statutory name while `oar_name` keeps the string
+    # these 36,953 documents hold, and the only way "nothing changed" is a measurement
+    # rather than an assumption is if the disagreement is reported. Measured across the
+    # whole corpus when this comparison landed: 0 of 36,953 documents disagree.
+    if fm.get("issuing_body") != d["issuing_body"]:
+        bad.append("issuing_body")
     if fm.get("status") != d["status"]:
         bad.append("status")
     return bad
 
 
+# ------------------------------------------------------------------------------ selftest
+#
+# THE PROOF THAT THE ENRICHER STAMPS THE OAR NAME, and the reason it is a synthetic fixture
+# rather than a row from the committed registry: `name` and `oar_name` hold the same bytes
+# on all 189 rows today, so a fixture taken from committed data passes whichever field the
+# code reads. The fixture below is FAULT-INJECTED in the sense ADR 0003 makes real — `name`
+# already moved to the statutory name, `oar_name` left where the rules index put it — which
+# is the only state in which the two readings can be told apart.
+
+
+def _fixture_registry():
+    """One chapter, with the two names holding what ADR 0003 makes them hold. The statutory
+    name here is the one ORS 184.305 gives the department; the OAR name is what the rules
+    index prints as chapter 125's title (CONTEXT.md, *Statutory name* / *OAR name*)."""
+    return {"125": {"slug": "department-of-administrative-services",
+                    "name": "Oregon Department of Administrative Services",
+                    "oar_name": "Department of Administrative Services"}}
+
+
+_FIXTURE_BODY = """## Full text
+
+Some rule text.
+
+Statutory/Other Authority: ORS 184.340
+Statutes/Other Implemented: ORS 279A.050
+History: DAS 2-2026, effective 05/01/2026
+"""
+
+
+def selftest() -> int:
+    bad = 0
+
+    def check(name, cond):
+        nonlocal bad
+        print(("PASS " if cond else "FAIL ") + name)
+        if not cond:
+            bad += 1
+
+    reg = _fixture_registry()
+    d = derive(_FIXTURE_BODY, "oar-125-010-0005", reg)
+    # THE FIELD THE DOCUMENT CARRIES. `issuing_body` is stamped into 36,953 rule documents,
+    # and the rules index's title is what every one of them holds today — so the enricher
+    # reads the field that holds that string and keeps holding it after ADR 0003 promotes
+    # `name`. Both halves are asserted: reading `name` would pass an equality test against
+    # the OAR name on every committed row, and only the inequality catches it.
+    check("issuing_body is the OAR name", d["issuing_body"] == reg["125"]["oar_name"])
+    check("issuing_body is not the statutory name", d["issuing_body"] != reg["125"]["name"])
+    check("agency is the slug", d["agency"] == reg["125"]["slug"])
+
+    # THE DRIFT --check REPORTS. A document whose `issuing_body` disagrees with the registry
+    # is the split this ticket exists to make visible: after ADR 0003 promotes `name`, a
+    # re-enrichment that quietly restamped every document would be indistinguishable from
+    # one that changed nothing unless the comparison is made and printed.
+    fm_ok = {"issuing_body": reg["125"]["oar_name"], "agency": reg["125"]["slug"],
+             "legal_authority": d["legal_authority"],
+             "statutes_implemented": d["statutes_implemented"],
+             "effective_date": d["effective_date"], "status": d["status"]}
+    check("a document holding the OAR name is not drift",
+          "issuing_body" not in expected_mismatch(fm_ok, d))
+    check("a document holding the statutory name is drift",
+          "issuing_body" in expected_mismatch(dict(fm_ok, issuing_body=reg["125"]["name"]), d))
+
+    # A ROW WITH NO OAR NAME. `catalog_agencies.py --check` requires one on every row, so
+    # this state should be unreachable — and if it is ever reached, the enricher must say so
+    # rather than stamp a name no source states. Refused loudly, in the same form as a
+    # chapter the registry does not carry.
+    try:
+        derive(_FIXTURE_BODY, "oar-125-010-0005",
+               {"125": {"slug": "das", "name": "Oregon Department of Administrative Services"}})
+        check("a registry row with no oar_name is refused", False)
+    except SystemExit as e:
+        check("a registry row with no oar_name is refused", "oar_name" in str(e))
+
+    print(f"selftest {'OK' if not bad else 'FAILED'}")
+    return 1 if bad else 0
+
+
 def main():
+    if "--selftest" in sys.argv:
+        return selftest()
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     check = "--check" in sys.argv
     registry = load_registry_by_chapter()
@@ -277,7 +381,8 @@ def main():
         print(f"OK: {len(targets)} rule(s) match their own structured lines.")
     else:
         print(f"enriched {changed} of {len(targets)} rule file(s)")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

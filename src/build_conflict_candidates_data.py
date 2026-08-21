@@ -332,6 +332,12 @@ def _chapter_agencies(ors_chapter: str, graph: dict, registry_by_chapter: dict) 
         rule_chapter = e["to"].split("-")[1]
         org = registry_by_chapter.get(rule_chapter)
         if org:
+            # NAME READER — DISPLAY: the agency label shown beside a conflict candidate, and
+            # the key the list is ordered by. The BODY is reached by its OAR chapter through
+            # enrich_oar.load_registry_by_chapter(), which is an OAR-derived join and is
+            # keyed on the chapter number, not on any name; only the label is read here, so
+            # it stays on `name` — the statutory name after ADR 0003, which is what a
+            # reader of the conflict view is shown.
             slugs[org["slug"]] = org["name"]
     return sorted([{"slug": s, "name": n} for s, n in slugs.items()], key=lambda o: o["name"])
 
@@ -435,12 +441,15 @@ def compute(collect_ungrounded: list | None = None) -> dict:
                     continue
                 org = registry_by_chapter.get(did.split("-")[1])
                 if org:
+                    # NAME READER — DISPLAY: same label, per candidate document.
                     slugs[org["slug"]] = org["name"]
             cand["agency_slugs"] = sorted(slugs)
         for a in agencies:
             all_agencies[a["slug"]] = all_agencies.get(a["slug"], 0) + 1
 
     n_clean = sum(1 for ch in cat["chapters"] if not ch.get("candidates"))
+    # NAME READER — DISPLAY: the labels already recorded in the catalog's per-chapter
+    # agency_list, re-indexed by slug for the page's agency filter.
     agency_names = {a["slug"]: a["name"] for ch in cat["chapters"] for a in ch["agency_list"]}
 
     # The MECHANICAL pass, surfaced beside the model-derived candidates. Its counts are far
@@ -475,6 +484,8 @@ def compute(collect_ungrounded: list | None = None) -> dict:
         "schema_version": cat.get("schema_version", 1),
         "triage_counts": triage_counts,
         "severity_counts": severity_counts,
+        # NAME READER — DISPLAY: the agency filter's own list, ordered by the label it
+        # shows.
         "all_agencies": sorted(
             [{"slug": s, "name": agency_names[s], "chapters": n} for s, n in all_agencies.items()],
             key=lambda a: a["name"]),

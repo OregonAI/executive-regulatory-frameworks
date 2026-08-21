@@ -341,7 +341,15 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   one of those rules can fail. Every row carries an `oar_name` — the OAR name (CONTEXT.md),
   which is the string OAR-derived joins match on, distinct from `raw_index_name`'s
   abbreviated spelling — landed by `src/expand_oar_name.py` and written from then on by
-  `--refresh`. The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
+  `--refresh`. THE IN-REPO CONSUMERS HAVE MOVED (#187): the two OAR-derived joins match
+  `oar_name` — `enrich_oar.py`, which stamps `issuing_body` into 36,953 rule documents, and
+  `catalog_oar.py`, which discovers chapters — while agency SEARCH (the command line's
+  `find()` and the MCP server's `agency_profile`) spans every name a body is known by:
+  statutory name, OAR name and curated aliases, so promoting `name` cannot make a body
+  unfindable by the name a reader knows. Every remaining read of a registry `name` is
+  classified where it sits, as JOIN, DISPLAY or MACHINERY, and
+  `python3 src/name_readers.py --check` (CI, every PR) refuses one that is not — the audit
+  has to stay true through #168, which changes what `name` means. The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
   `python3 src/link_budget_codes.py` from the hand-reviewed table in that file, whose
   `--check` verifies the registry against that table. The deprecated `budget_agency_code`
   holds the same number for one more cycle (ADR 0003, removed by #177); that the two agree

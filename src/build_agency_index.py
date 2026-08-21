@@ -42,6 +42,9 @@ def build() -> str:
     for r in rows:
         # Only link agencies that have their own agencies/<slug>/ tree; sub-units'
         # docs often live in jurisdiction-wide dirs (rules/) or the parent's tree.
+        # NAME READER — DISPLAY: the agency's cell in the generated overview table. The
+        # rows come from agency_profile.overview(), so this is the registry's `name` one
+        # module removed; it stays the statutory name, which is what a reader is shown.
         name_cell = (f"[{r['name']}]({r['slug']}/_index.md)"
                      if (REPO_ROOT / "agencies" / r["slug"] / "_index.md").is_file()
                      else r["name"])

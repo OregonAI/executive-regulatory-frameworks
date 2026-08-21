@@ -312,6 +312,13 @@ def audit(cat) -> list[str]:
             if k in seen_alias and seen_alias[k] != slug:
                 problems.append(f"alias {n!r} claimed by both {seen_alias[k]} and {slug}")
             seen_alias[k] = slug
+            # NAME READER — JOIN: a DAS-published alias compared against the registry's
+            # canonical name, to refuse an alias that is really another body's name. It
+            # matches `name` only, which is what it matched before ADR 0003 — after #168
+            # promotes `name`, an alias colliding with another body's OAR NAME would be
+            # equally ambiguous and would not be caught here. Widening it is a decision for
+            # #168, where the hand-reviewed ALIASES table is re-verified; recorded here so
+            # the gap is a known one rather than a silence.
             if any(k == o["name"].lower() and o["slug"] != slug
                    for o in cat["organizations"]):
                 problems.append(f"alias {n!r} on {slug} is another entry's canonical name")

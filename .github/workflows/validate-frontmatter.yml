@@ -149,6 +149,25 @@ jobs:
       # survive it, plus the slug/chapter/parent rules of ADR 0003 and ADR 0004.
       - name: Agency registry must keep its contract
         run: python3 src/catalog_agencies.py --check
+      # WHAT `name` MEANS IS ABOUT TO CHANGE (ADR 0003), and nothing in the data shows which
+      # consumers depend on what it means: `name` and `oar_name` hold identical bytes on all
+      # 189 rows, so a consumer that should have moved and did not looks exactly like one
+      # that was checked. #187 read all 38 sites and recorded each one's classification next
+      # to it; this keeps that true, by refusing a registry-name read that nobody has
+      # classified. Source scan only — no registry read, no network.
+      - name: Every registry-name read must be classified
+        run: python3 src/name_readers.py --check
+      - name: Registry-name classification gate must fire (selftest)
+        run: python3 src/name_readers.py --selftest
+      # The two OAR-derived joins that moved onto `oar_name` in #187, proven against a
+      # registry whose two names DIFFER — which no committed row's do, so a proof read from
+      # committed data would pass whichever field the code reads. Synthetic fixtures: no
+      # network, no corpus scan (enrich_oar.py --check, the full-corpus half, runs nightly
+      # below).
+      - name: OAR enrichment stamps the OAR name (selftest)
+        run: python3 src/enrich_oar.py --selftest
+      - name: OAR discovery is keyed on the OAR name (selftest)
+        run: python3 src/catalog_oar.py --selftest
       # `enabling_authority` is written by ONE thing — the hand-reviewed MAPPED/UNMAPPED
       # tables in link_enabling_authority.py — and this verifies the registry against them
       # in both directions, plus every citation against the mirrored ORS and executive

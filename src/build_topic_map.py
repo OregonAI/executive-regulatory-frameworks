@@ -48,6 +48,8 @@ def build_data() -> dict:
     g = json.loads(GRAPH.read_text())
     meta = {n["id"]: n for n in g["nodes"]}
     reg = load_registry_by_chapter()
+    # NAME READER — DISPLAY: the agency label on a point in the topic map. Stays on
+    # `name` (the statutory name after ADR 0003), which is what a reader is shown.
     names = {o["slug"]: o.get("name", o["slug"]) for o in
              yaml.safe_load((REPO_ROOT / "_meta/catalog/agencies.yml").read_text())["organizations"]}
     ids = proj["ids"]

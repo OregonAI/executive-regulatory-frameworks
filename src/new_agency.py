@@ -98,6 +98,9 @@ def main():
     args = ap.parse_args()
 
     slug = args.slug
+    # NAME READER — DISPLAY: the name printed beside a slug when a human mistypes one and
+    # is offered candidates. Stays on `name`; the SEARCH that produces those candidates is
+    # catalog_agencies.find(), which spans every name a body is known by.
     registry = {o["slug"]: o["name"] for o in catalog_agencies.load()["organizations"]}
     if slug not in registry:
         suggestions = catalog_agencies.find(slug.replace("-", " "))

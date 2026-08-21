@@ -97,6 +97,9 @@ def build_data() -> dict:
         prof = profiles.get(slug) or {}
         agencies.append({
             "slug": slug,
+            # NAME READER — DISPLAY: node and group labels in the authority graph. Both
+            # stay on `name` (the statutory name after ADR 0003) — the graph draws bodies
+            # and their relations, and a body is labelled by its own name.
             "name": by_slug.get(slug, {}).get("name", slug),
             "rules": len(ag_rules.get(slug, ())),
             "parent": by_slug.get(slug, {}).get("parent_slug"),
