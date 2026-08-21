@@ -115,17 +115,38 @@ FIELDS = {
     # scrape rather than preserved curation.
     "note": Field(SCRAPED, required=False),
     "manual": Field(MANUAL_FLAG, required=False),
-    # Hand-reviewed map to the DAS agency numbers oregon-budget reports spending against;
-    # see src/link_budget_codes.py. ADR 0003 renames this field to `das_agency_number` —
-    # the number identifies a body in the state's financial administration and says nothing
-    # about whether it spends money. The rename is a separate change to the registry's data;
-    # this table declares the field the committed rows carry TODAY.
+    # THE DAS AGENCY NUMBER (CONTEXT.md): the number DAS assigns a body in the Oregon
+    # Accounting Manual (OAM 70.10.00). It identifies the body in the state's financial
+    # administration and says nothing about whether it spends money — thirteen
+    # semi-independent bodies carry one and are explicitly outside the state's accounting
+    # system, which is why ADR 0003 renames the field off a name that says "budget".
+    # Hand-reviewed, one number per body; the table is src/link_budget_codes.py.
+    "das_agency_number": Field(CURATED, required=False),
+    # THE SAME NUMBER UNDER THE NAME IT USED TO HAVE, readable for one deprecation cycle so
+    # no consumer breaks mid-flight: #163 has 474 published documents to regenerate before
+    # #177 can delete this key. Both keys are CURATED because both are committed data
+    # nothing upstream produces — declaring the deprecated one anything else would have
+    # --refresh drop the copy consumers are still reading. DAS_NUMBER_KEYS below is what
+    # keeps the two from drifting apart.
     "budget_agency_code": Field(CURATED, required=False),
     # Other names the same body is known by, including former names after a rename. An
     # ASSERTION of identity, reviewed once, rather than a similarity score computed at
     # query time.
     "aliases": Field(CURATED, required=False),
 }
+
+# THE ONE NUMBER'S TWO KEYS, FIELD OF RECORD FIRST. ADR 0003 renames `budget_agency_code`
+# to `das_agency_number`, and this is the EXPAND half: every row that carries the number
+# carries it under BOTH keys, with the same value, until #177 deletes the old one. Both keys
+# hold the value rather than one key holding it and an accessor resolving the other, because
+# the consumers this cycle protects do not run this code — three sibling corpora read
+# agencies.yml as YAML, and one of them (#163) has 474 published documents keyed on the old
+# name. A Python accessor is unreadable from there; a key in the file is not.
+#
+# Two copies of one fact can disagree, so `deprecated-key-agrees` in check_registry() states
+# that they may not: a row carrying one key and not the other, or the two holding different
+# numbers, is a contract violation rather than something a reader has to notice.
+DAS_NUMBER_KEYS = ("das_agency_number", "budget_agency_code")
 
 CURATED_KEYS = frozenset(k for k, f in FIELDS.items() if f.origin == CURATED)
 SCRAPED_KEYS = frozenset(k for k, f in FIELDS.items() if f.origin == SCRAPED)
@@ -170,6 +191,40 @@ def scraped_entry(*, name, oar_chapter, raw_index_name, source_url, note=None):
     entry["parent_slug"] = None
     entry["parent_chapter"] = None
     return entry
+
+
+def write_das_agency_number(row: dict, number) -> None:
+    """Write `number` onto `row` under BOTH keys of DAS_NUMBER_KEYS, field of record first.
+
+    THE ONE PLACE THE NUMBER IS WRITTEN, so nothing can put it under a single key. Two
+    copies of one fact are only safe while every writer maintains both, and a second
+    hand-written spelling of "set the code" is how one of them starts being forgotten —
+    which is the same drift `deprecated-key-agrees` reports when it has already happened.
+
+    IN PLACE, because the row object is shared. link_budget_codes.py holds the same dict in
+    its slug index and in the organizations list, and returning a new row would update one
+    of those and leave the other holding the old one.
+
+    The keys are re-inserted rather than assigned, so that what THIS function writes prints
+    the two copies of the number on adjacent lines — a plain assignment appends a new key at
+    the end of the row, which puts the second copy under `aliases`, three lines below the
+    first. That is a courtesy to the human reading the diff, not an invariant of the file:
+    `preserve_curated()` re-appends every curated key in frozenset order, so a --refresh can
+    reorder them or split the pair with `aliases`, and does it differently per run (#182).
+    Nothing depends on the order — `deprecated-key-agrees` compares the VALUES.
+    """
+    ordered, landed = {}, False
+    for key, value in row.items():
+        if key in DAS_NUMBER_KEYS:
+            if not landed:
+                ordered.update(dict.fromkeys(DAS_NUMBER_KEYS, number))
+                landed = True
+        else:
+            ordered[key] = value
+    if not landed:      # a row that carried no number: the pair goes at the end
+        ordered.update(dict.fromkeys(DAS_NUMBER_KEYS, number))
+    row.clear()
+    row.update(ordered)
 
 
 def get(url: str) -> str:
@@ -271,9 +326,9 @@ def preserve_curated(prev_orgs, by_slug, curated_keys=None):
     """Copy CURATED_KEYS from the previous registry onto the rows the scrape rebuilt.
 
     Every field --refresh writes is derived fresh from oregon.public.law, so a key that
-    is not scraped — and `budget_agency_code` is not; it is a hand-reviewed mapping to the
-    DAS codes oregon-budget reports spending against — would be silently dropped on the
-    next --refresh. Silently is the problem: the file would still parse, every slug would
+    is not scraped — and `das_agency_number` is not; it is a hand-reviewed mapping to the
+    DAS agency numbers oregon-budget reports spending against — would be silently dropped on
+    the next --refresh. Silently is the problem: the file would still parse, every slug would
     still resolve, and the loss would only surface as a cross-corpus join that quietly
     stopped matching anything."""
     curated_keys = CURATED_KEYS if curated_keys is None else curated_keys
@@ -377,11 +432,17 @@ def cmd_refresh():
                  "which is the string OAR-derived joins must match; it is scraped, so an "
                  "upstream chapter retitle moves it. raw_index_name is a different "
                  "string: the index's own abbreviated spelling. "
-                 "budget_agency_code, where present, is the three-digit DAS "
-                 "agency code the oregon-budget corpus reports spending against; it is "
+                 "das_agency_number, where present, is the three-digit number DAS "
+                 "assigns the body in the Oregon Accounting Manual (OAM 70.10.00) — it "
+                 "identifies the body in the state's financial administration and is not "
+                 "evidence that the body spends money, and it is what the oregon-budget "
+                 "corpus joins on; it is "
                  "hand-reviewed (src/link_budget_codes.py), is NOT scraped from the "
                  "source above, and is preserved across --refresh. Its absence on an "
-                 "entry means no counterpart was found, not that none was sought."),
+                 "entry means no counterpart was found, not that none was sought. "
+                 "budget_agency_code is the same number under the name it used to carry, "
+                 "readable for one deprecation cycle (ADR 0003); the two always hold the "
+                 "same value."),
         "source_url": INDEX_URL,
         "retrieved": date.today().isoformat(),
         "organizations": sorted(orgs, key=lambda o: o["slug"]),
@@ -617,6 +678,31 @@ def check_registry(cat, fields=None) -> list:
     # Position is carried alongside, so a failure points at the row's place in the
     # committed file rather than its place among the rows that happened to be readable.
     rows = [(i, o) for i, o in enumerate(orgs) if isinstance(o, dict)]
+
+    # ONE NUMBER, TWO KEYS, WHICH MAY NOT DRIFT APART. DAS_NUMBER_KEYS is the EXPAND half of
+    # ADR 0003's rename, and a duplicated value is only safe while something states that the
+    # copies agree. A row carrying the number under one key and not the other is the failure
+    # that matters most: it does not look like an error from either side. Whichever consumer
+    # reads the key that is missing sees a body with no DAS agency number, and this registry
+    # is explicit that absence means no counterpart was found, never that nobody looked.
+    for i, o in rows:
+        held = {k: o[k] for k in DAS_NUMBER_KEYS if k in o}
+        if not held:
+            continue     # 109 bodies carry no number at all, which is not drift
+        absent = [k for k in DAS_NUMBER_KEYS if k not in o]
+        if absent:
+            failures.append(Failure(
+                "deprecated-key-agrees", _row_id(o, i),
+                f"the DAS agency number is on {', '.join(sorted(held))} but absent from "
+                f"{', '.join(absent)} — both keys are readable for one deprecation cycle "
+                "(#177 removes the old one), so a row carrying one and not the other reads "
+                "as 'no number' to whichever consumer read the other"))
+        elif len(set(held.values())) > 1:
+            failures.append(Failure(
+                "deprecated-key-agrees", _row_id(o, i),
+                f"the DAS agency number differs between its two keys ({held!r}) — one body "
+                "has one number, and nothing in the row says which of these is the "
+                "hand-reviewed one"))
     # IDENTITY. The slug is the only thing a sibling corpus joins on, and the chapter is
     # what put most rows here; either one claimed twice attributes one body's documents to
     # another. --refresh already calls a slug collision a human decision rather than silent
@@ -750,7 +836,7 @@ def _fixture():
     das = scraped_entry(name="Department of Administrative Services", oar_chapter="125",
                         raw_index_name="Dept. of Administrative Services",
                         source_url=f"{BASE}/rules/oar_chapter_125")
-    das["budget_agency_code"] = "107"
+    write_das_agency_number(das, "107")   # the pair, written the way every writer writes it
     cfo = scraped_entry(name="Chief Financial Office", oar_chapter="122",
                         raw_index_name="Chief Financial Office",
                         source_url=f"{BASE}/rules/oar_chapter_122")
@@ -796,6 +882,28 @@ def _case_missing_name(cat):
     del cat["organizations"][1]["name"]
 
 
+def _case_das_number_without_the_deprecated_key(cat):
+    """The number under its own name only. Every consumer still reading
+    `budget_agency_code` — 474 published documents' worth (#163) — silently loses this
+    body's number, and loses it as "this body has none" rather than as an error, which is
+    the state the deprecation cycle exists to make impossible."""
+    del cat["organizations"][0]["budget_agency_code"]
+
+
+def _case_deprecated_key_without_the_das_number(cat):
+    """The number under the deprecated name only — a row the rename skipped. It reads
+    clean to anyone still on the old key and reads as "no number" to everyone who has
+    already moved, so the half-migrated row is invisible from both sides."""
+    del cat["organizations"][0]["das_agency_number"]
+
+
+def _case_das_number_keys_disagree(cat):
+    """Two keys, two different numbers. Whichever a consumer read is the answer it got,
+    so one body's spending attaches to two identities — and nothing in the row says which
+    number is the reviewed one."""
+    cat["organizations"][0]["budget_agency_code"] = "999"
+
+
 def _case_row_is_not_a_mapping(cat):
     """A row no rule can be evaluated against. It must FAIL, not be skipped — a row we
     could not check is never a row that passed."""
@@ -831,8 +939,13 @@ def _case_parent_chapter_disagrees(cat):
 def _case_slug_the_scrape_would_not_produce(cat):
     """A slug hand-edited away from the one slugify() derives from the name. --refresh
     rebuilds the row under the DERIVED slug, so the hand-edited row — and the curated
-    fields riding on it — is not preserved onto anything; it just stops existing."""
-    cat["organizations"][1]["budget_agency_code"] = "107"
+    fields riding on it — is not preserved onto anything; it just stops existing.
+
+    The number is written by write_das_agency_number() rather than assigned, so this case
+    breaks exactly one rule: setting one of the two keys by hand would also trip
+    `deprecated-key-agrees`, and a case that fires two rules stops saying which one it is
+    about."""
+    write_das_agency_number(cat["organizations"][1], "107")
     cat["organizations"][1]["slug"] = "cfo"
 
 
@@ -874,6 +987,14 @@ _CASES = [
     ("missing-required-field", _case_missing_required_field, "required-field"),
     ("missing-oar-name", _case_missing_oar_name, "required-field"),
     ("missing-name", _case_missing_name, "required-field"),
+    # THE THREE WAYS THE TWO KEYS HOLDING THE DAS AGENCY NUMBER COME APART, which is the
+    # whole risk this deprecation cycle carries: one key holding what the other does not,
+    # in either direction, and the two holding different numbers.
+    ("das-number-without-the-deprecated-key", _case_das_number_without_the_deprecated_key,
+     "deprecated-key-agrees"),
+    ("deprecated-key-without-the-das-number", _case_deprecated_key_without_the_das_number,
+     "deprecated-key-agrees"),
+    ("das-number-keys-disagree", _case_das_number_keys_disagree, "deprecated-key-agrees"),
     ("row-is-not-a-mapping", _case_row_is_not_a_mapping, "readable-row"),
 ]
 
@@ -889,12 +1010,17 @@ _CASES = [
 #   called scraped  worse, because it looks preserved: the field is left out of the
 #                   survival comparison as if the scrape rewrote it, while scraped_entry()
 #                   — the only thing that writes a scraped field — never produces it.
+#
+# Both name `das_agency_number` — the FIELD OF RECORD for the number, not the deprecated
+# `budget_agency_code` beside it. Either would demonstrate the mechanism today, because both
+# are curated; the deprecated one goes away with #177, and a proof pinned to it would have to
+# be repointed by whoever does that instead of just continuing to hold.
 _PROOFS = [
     ("curated-field-declared-manual-flag",
-     dict(FIELDS, budget_agency_code=Field(MANUAL_FLAG, required=False)),
+     dict(FIELDS, das_agency_number=Field(MANUAL_FLAG, required=False)),
      "survives-refresh"),
     ("curated-field-declared-scraped",
-     dict(FIELDS, budget_agency_code=Field(SCRAPED, required=False)),
+     dict(FIELDS, das_agency_number=Field(SCRAPED, required=False)),
      "scraped-field"),
 ]
 

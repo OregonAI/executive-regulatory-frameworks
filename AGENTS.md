@@ -341,7 +341,12 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   one of those rules can fail. Every row carries an `oar_name` — the OAR name (CONTEXT.md),
   which is the string OAR-derived joins match on, distinct from `raw_index_name`'s
   abbreviated spelling — landed by `src/expand_oar_name.py` and written from then on by
-  `--refresh`.
+  `--refresh`. The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
+  `python3 src/link_budget_codes.py` from the hand-reviewed table in that file, whose
+  `--check` verifies the registry against that table. The deprecated `budget_agency_code`
+  holds the same number for one more cycle (ADR 0003, removed by #177); that the two agree
+  is a rule of the registry's contract, so it is `catalog_agencies.py --check` that fails a
+  row where they disagree or where only one of them is present.
 - **Agency profiles**: `_meta/agency-profiles.yml` carries curated context ABOUT each
   agency's data — governance class (citation basis REQUIRED; 'unclassified' is the
   only uncited value allowed), where the agency publishes policies (or that it

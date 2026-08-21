@@ -103,7 +103,12 @@ _Avoid_: Division of, part of, reports to — an administered body is not part o
 The number DAS assigns a body in the Oregon Accounting Manual (OAM 70.10.00). It identifies
 the body in the state's financial administration and is not evidence that the body spends
 money: semi-independent bodies carry a number and are explicitly outside the state's
-accounting system.
+accounting system. It lives in `das_agency_number` on the registry entries that carry one,
+hand-reviewed in `src/link_budget_codes.py`; absence means no counterpart was found, never
+that none was sought. The same number is also written to `budget_agency_code`, the name the
+field carried before ADR 0003 — a deprecated key kept readable for one cycle so consumers
+can move at their own pace, and required by `catalog_agencies.py --check` to hold exactly
+what `das_agency_number` holds.
 _Avoid_: Budget code, agency code, spending code — those name a consumer, not the identifier
 
 **Semi-independent**:

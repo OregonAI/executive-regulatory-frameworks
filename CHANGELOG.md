@@ -11,6 +11,18 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Added
+- 2026-08-21 — `das_agency_number` on all 80 agency-registry rows that carry a
+  DAS agency number (#175): ADR 0003 renames `budget_agency_code`, because the
+  number identifies a body in the state's financial administration and says
+  nothing about whether it spends money — thirteen semi-independent bodies carry
+  one and are outside the state's accounting system entirely. This is the EXPAND
+  half: both keys hold the same value, no consumer breaks mid-flight, and #177
+  removes the old one once the 474 published documents keyed on it are
+  regenerated (#163). Both keys are curated and survive `--refresh`; both are
+  written together by `python3 src/link_budget_codes.py`, whose `--check` now
+  verifies the registry against `das_agency_number`; and
+  `catalog_agencies.py --check` fails any row carrying one key without the other
+  or the two holding different numbers, proved by three `--selftest` cases.
 - 2026-08-20 — `oar_name` on all 189 agency-registry rows (#166): the OAR name
   (CONTEXT.md) — the chapter page's own title — now has its own field instead of
   sharing `name`, which ADR 0003 turns into the statutory name. It is SCRAPED, so

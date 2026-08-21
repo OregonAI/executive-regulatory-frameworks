@@ -1,10 +1,17 @@
 #!/usr/bin/env python3
-"""Attach DAS budget agency codes to the agency registry.
+"""Attach DAS agency numbers to the agency registry.
 
-  python3 src/link_budget_codes.py           # write budget_agency_code into agencies.yml
+  python3 src/link_budget_codes.py           # write das_agency_number into agencies.yml
   python3 src/link_budget_codes.py --check   # verify the registry matches this table
 
-WHY THIS EXISTS. `oregon-budget` reports spending against three-digit DAS agency codes
+THE FIELD IS `das_agency_number` (CONTEXT.md), and every row that carries one also carries
+the same value under the deprecated `budget_agency_code` until #177 removes that key.
+catalog_agencies.py declares the pair once (DAS_NUMBER_KEYS), writes both keys in one place
+(write_das_agency_number) and states that they may not disagree (its --check). The number identifies a body in the state's financial administration and is not
+evidence that the body spends money; the names below (`MAPPING`, `UNMAPPED`, `REORGANIZED`)
+still read "code" because they are keyed by the budget dataset's own vocabulary.
+
+WHY THIS EXISTS. `oregon-budget` reports spending against three-digit DAS agency numbers
 (`107` = Department of Administrative Services). This registry keys agencies on OAR chapter
 assignment. Neither identifier appears in the other's source, and the NAME strings never
 match — the budget dataset writes `ADMINISTRATIVE SRVCS, DEPT OF` where this registry writes
@@ -329,14 +336,20 @@ def main() -> int:
 
     if check:
         bad = 0
+        # AGAINST `das_agency_number`, THE FIELD OF RECORD. The registry carries the same
+        # number under the deprecated `budget_agency_code` for one more cycle (ADR 0003,
+        # #177), and this gate deliberately does not read that key: whether the two agree is
+        # a rule of the registry's contract, gated by `catalog_agencies.py --check`, and a
+        # fact stated by two gates is a fact that can be true in one and false in the other.
+        # What this gate owns is whether the number matches the REVIEWED TABLE below.
         for slug, code in want.items():
-            got = by_slug[slug].get("budget_agency_code")
+            got = by_slug[slug].get("das_agency_number")
             if got != code:
                 print(f"  FAIL {slug}: registry has {got!r}, table says {code!r}")
                 bad += 1
         for slug, o in by_slug.items():
-            if o.get("budget_agency_code") and slug not in want:
-                print(f"  FAIL {slug}: has budget_agency_code {o['budget_agency_code']!r} "
+            if o.get("das_agency_number") and slug not in want:
+                print(f"  FAIL {slug}: has das_agency_number {o['das_agency_number']!r} "
                       f"but the table does not map it")
                 bad += 1
         for slug, name, _c in MANUAL_ENTRIES:
@@ -383,16 +396,20 @@ def main() -> int:
         by_slug[slug] = entry
         added += 1
 
+    # WRITTEN UNDER BOTH KEYS BY THE REGISTRY'S OWN WRITER. `das_agency_number` is the
+    # field of record and `budget_agency_code` is the same number under the name it used to
+    # have, readable until #177 removes it; writing them here by hand would be a second
+    # place that has to remember the second key exists.
     for slug, code in want.items():
-        by_slug[slug]["budget_agency_code"] = code
+        catalog_agencies.write_das_agency_number(by_slug[slug], code)
     for slug, names in ALIASES.items():
         if slug in by_slug:
             by_slug[slug]["aliases"] = sorted(names)
 
     cat["organizations"].sort(key=lambda o: o["slug"])
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
-    print(f"wrote budget_agency_code for {len(want)} of {len(cat['organizations'])} "
-          f"organizations")
+    print(f"wrote das_agency_number (and the deprecated budget_agency_code) for "
+          f"{len(want)} of {len(cat['organizations'])} organizations")
     print(f"  added {added} manual entry(ies) for agencies that issue no OAR rules")
     print(f"  wrote aliases on {sum(1 for s in ALIASES if s in by_slug)} entry(ies)")
     print(f"  {len(UNMAPPED)} budget agency codes have no registry counterpart, by review")
