@@ -349,7 +349,24 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   unfindable by the name a reader knows. Every remaining read of a registry `name` is
   classified where it sits, as JOIN, DISPLAY or MACHINERY, and
   `python3 src/name_readers.py --check` (CI, every PR) refuses one that is not — the audit
-  has to stay true through #168, which changes what `name` means. The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
+  has to stay true through #168, which changes what `name` means.
+  Every row also carries `relations` (CONTEXT.md), landed by `src/expand_relations.py`
+  (re-runnable, idempotent) and written from then on by `--refresh`: each entry names the
+  body this one is under, the source whose evidence places it there (`oar-index`,
+  `statute`, `das`, or `registry` for a placement this registry recorded by hand — the one
+  manual child, whose body the rules index does not carry), a kind, and — where one has
+  been established — the authority (ADR 0004). It sits BESIDE `parent_slug`, which is unchanged until #174 retires it, and the
+  two must agree. THE KIND IS `undetermined` ON EVERY ROW and is never guessed: deciding
+  between *part of* and *administered by* needs evidence the registry does not carry yet
+  (#173), so `--check` REPORTS the census — kinds and sources, zeroes included — on every
+  run. A body may hold several relations, because the OAR index, DAS and statute may place
+  it under different parents and ADR 0003 keeps that disagreement. The field is the first
+  with a MIXED ORIGIN, declared `MERGED` rather than SCRAPED or CURATED: `--refresh`
+  regenerates the `oar-index` entries from the index tree and `preserve_relations()`
+  carries every other entry across ENTRY BY ENTRY, and `--check`'s `relation-origin` rule
+  refuses any other declaration of it — declaring the whole field SCRAPED would drop
+  curated entries behind a rule that passed, which is #178 (`note`, two origins, no way to
+  tell them apart, hand-written notes destroyed by `--refresh`). The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
   `python3 src/link_budget_codes.py` from the hand-reviewed table in that file, whose
   `--check` verifies the registry against that table. The deprecated `budget_agency_code`
   holds the same number for one more cycle (ADR 0003, removed by #177); that the two agree

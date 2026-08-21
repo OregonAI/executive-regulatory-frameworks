@@ -11,6 +11,37 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Added
+- 2026-08-21 — `relations` on all 189 agency-registry rows (#171): every one of the 81
+  children now carries a relation naming its parent, beside the `parent_slug` that still
+  says the same thing (#174 retires the pointer). A relation records a `target` slug, the
+  `source` whose evidence places the body there, a `kind`, and — where one has been
+  established — the `authority` that makes it true (ADR 0004). THE KIND IS `undetermined`
+  on every one of the 81 and is never guessed: choosing between *part of* and *administered
+  by* turns on evidence the registry does not carry yet (#173), 25 of the 81 children have
+  their own statutory authority and 56 do not, and writing either kind today would be
+  dozens of false statements about Oregon law. `catalog_agencies.py --check` REPORTS the
+  census — kinds and sources, zeroes included — on every run rather than letting the state
+  go quiet. A body may hold several relations, because the OAR index, DAS and statute may
+  place it under different parents and ADR 0003 keeps that disagreement rather than
+  reconciling it; three-level nesting (`Health Licensing Office → Board of Cosmetology`)
+  needs no special case, being two ordinary relations between three bodies. `relations` is
+  the first field with a MIXED ORIGIN and is declared `MERGED`: `--refresh` regenerates the
+  `oar-index` entries from the index tree, so an upstream re-filing still reaches the
+  registry, while `preserve_relations()` carries every other entry across ENTRY BY ENTRY —
+  the per-field origins could only be wrong about half of what the field holds, and
+  declaring it SCRAPED would drop curated entries behind a rule that passed, which is #178
+  (`note`, two origins, no way to tell them apart, a hand-written note destroyed by a
+  refresh with nothing to report it). The source is never claimed falsely: the registry's
+  one manual child — `oregon-health-authority-equity-and-inclusion-division`, a body the
+  rules index does not carry — records `source: registry`, because the index placed it
+  nowhere and no refresh can rebuild the entry. Six new rules of the registry's contract —
+  `relation-shape`, `relation-unique`, `relation-resolves`, `relation-names-the-parent`,
+  `index-relation-is-regenerated`, `relation-origin`, and the survival comparison now run
+  per ENTRY for a merged field — each demonstrated failing in `--selftest`, which grew from
+  28 demonstrations to 48.
+  Landed by `src/expand_relations.py` (re-runnable, idempotent: a second run writes
+  byte-identical output and never re-derives a list that may hold curation). `parent_slug`
+  is unchanged on every row and no consumer changes.
 - 2026-08-21 — the in-repo consumers of the agency registry moved onto `oar_name`, and
   every remaining reader of `name` is classified where it sits (#187). ADR 0003 makes
   `name` the statutory name and leaves the rules index's title in `oar_name`; because the
