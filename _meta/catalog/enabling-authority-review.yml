@@ -1,17 +1,25 @@
 note: 'PROPOSED, NOT DECIDED. Each row is a candidate an automated match produced; none has been read.
   Set `verdict` to `accept`, or to a different ORS citation, or to a reason it cannot be mapped — then
-  move the row into MAPPED or UNMAPPED in src/link_enabling_authority.py. Tier 1 means the section''s
-  catchline subject IS this body AND the section says it is created or established. Tier 2 means the catchline
-  merely contains the name, or names it in a later clause. Tier 3 means the catchline subject IS the body
-  but NO creation language appears anywhere in the section — Oregon does not draft licensing boards with
-  a creation verb, so tier 3 is not weaker than tier 2, it asks a DIFFERENT question: does this section
-  CONSTITUTE the body, or describe one constituted elsewhere? Tiers 2 and 3 are where the wrong answers
-  live. `basis` says HOW the row matched, which tier alone does not: catchline-subject, enumerated-list,
-  catchline-contains, catchline-clause, or catchline-subject-no-verb. A tier-1 row matched on an enumerated
-  list is as strong as one matched on a catchline, but it is checked differently — read the list item,
-  not the catchline. `text` is the excerpt that matched, quoted so review is reading rather than research
-  — an EXCERPT with whitespace collapsed, NOT citable verbatim text. Read the cited section itself before
-  accepting a row.'
+  move the row into MAPPED or UNMAPPED in src/link_enabling_authority.py. A VERDICT NEED NOT BE AN ORS
+  CITATION. This matcher only reads the mirrored ORS, so a body created by the Oregon Constitution or
+  by an executive order reaches `no_candidate` below with nothing against it — which is a statement about
+  the matcher and not about the body. About nine of them are constitutional offices (ADR 0005): the Office
+  of the Governor, the Secretary of State, the Oregon State Treasury, the Judicial Department, District
+  Attorneys and Deputies, the Legislative Assembly. Since #196 a constitutional authority is CHECKABLE
+  — `Or. Const. Art. VI, sec. 1` is resolved against the mirrored Constitution by --check exactly as an
+  ORS citation is resolved against the mirrored statutes, and a wrong article or section fails the build
+  with the reason it failed — so recording one is review whose output is verified rather than taken on
+  faith. Tier 1 means the section''s catchline subject IS this body AND the section says it is created
+  or established. Tier 2 means the catchline merely contains the name, or names it in a later clause.
+  Tier 3 means the catchline subject IS the body but NO creation language appears anywhere in the section
+  — Oregon does not draft licensing boards with a creation verb, so tier 3 is not weaker than tier 2,
+  it asks a DIFFERENT question: does this section CONSTITUTE the body, or describe one constituted elsewhere?
+  Tiers 2 and 3 are where the wrong answers live. `basis` says HOW the row matched, which tier alone does
+  not: catchline-subject, enumerated-list, catchline-contains, catchline-clause, or catchline-subject-no-verb.
+  A tier-1 row matched on an enumerated list is as strong as one matched on a catchline, but it is checked
+  differently — read the list item, not the catchline. `text` is the excerpt that matched, quoted so review
+  is reading rather than research — an EXCERPT with whitespace collapsed, NOT citable verbatim text. Read
+  the cited section itself before accepting a row.'
 generated_from: the mirrored ORS in statutes/, never fetched
 candidates:
 - slug: appraiser-certification-and-licensure-board
