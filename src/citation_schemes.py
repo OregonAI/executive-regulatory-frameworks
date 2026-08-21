@@ -12,7 +12,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from link_graph import build_renumber_map
 from repo_lib import (ORCONST_ARTICLE_TOKEN, ORCONST_SECTION_TOKEN, REPO_ROOT,
-                      orconst_article_slug, orconst_id, yaml_load)
+                      orconst_article_designation, orconst_article_slug, orconst_id,
+                      yaml_load)
 
 from corpus_toolkit.mcp.framework import register_scheme
 
@@ -172,8 +173,8 @@ def _designations_sharing(slug: str) -> list:
     """Every article the catalog holds whose slug extends `slug` — what a citation that
     omits the parenthetical could have meant. `vii` -> VII (Amended), VII (Original)."""
     prefix = slug + "-"
-    return [a["article"] for slug, a in _constitution_catalog().items()
-            if slug.startswith(prefix)]
+    return [a["article"] for key, a in _constitution_catalog().items()
+            if key.startswith(prefix)]
 
 
 def _resolve_or_const(m):
@@ -204,9 +205,9 @@ def _resolve_or_const(m):
             return [], (f"The Oregon Constitution has no Article {m.group(1)} on its own — "
                         f"the page prints that numeral {len(sharing)} times, as "
                         + ", ".join(f"Article {d}" for d in sharing) +
-                        f", and both are operative. This citation names neither: write "
-                        f"{forms}. Choosing one would be a guess between two articles with "
-                        f"different text.")
+                        f", and every one of them is operative. This citation names none of "
+                        f"them: write {forms}. Choosing one would be a guess between "
+                        f"articles with different text.")
         held = len(_constitution_catalog())
         return [], (f"The source page prints no Article {m.group(1)} of the Oregon "
                     f"Constitution. This corpus mirrors the whole document — all {held} "
@@ -346,8 +347,16 @@ def _gate_articles():
     headings — so an article Oregon adds arrives at this gate without anyone remembering to
     add it. The refusals are fixed, because they are shapes the page does not print and no
     catalog will ever supply."""
-    accept = sorted(a["article"] for a in _constitution_catalog().values()) \
-        or ["VI"]
+    # NO FALLBACK LIST. An empty catalog means the gate has nothing to compare, and a
+    # hardcoded stand-in would let it report agreement about one designation as agreement
+    # about the document. `article_form_disagreements` raises on it instead, because this
+    # function is public and a silently narrowed gate is worse than a loud broken one.
+    accept = sorted(a["article"] for a in _constitution_catalog().values())
+    if not accept:
+        raise RuntimeError(
+            f"{CONSTITUTION_CATALOG_PATH.relative_to(REPO_ROOT)} holds no articles, so "
+            f"there is nothing to run through both citation forms. That is a gate with no "
+            f"subject, not two forms that agree.")
     # Not a designation the page prints, and not a spelling either form may quietly take: a
     # letter that is not a roman numeral, a parenthetical that is not one of the two
     # editions, the edition run onto the numeral without the space the citation prints, a
@@ -458,6 +467,7 @@ def _selftest() -> int:
 
     _proof_the_two_editions_of_article_vii_are_two_documents(ck)
     _proof_an_article_the_page_does_not_print_says_so(ck)
+    _proof_every_designation_round_trips_through_its_slug(ck)
     _proof_the_two_forms_accept_the_same_article(ck)
     _proof_the_gate_can_watch_the_two_forms_disagree(ck)
     _proof_the_citation_resolves_end_to_end(ck)
@@ -515,6 +525,30 @@ def _proof_an_article_the_page_does_not_print_says_so(ck):
     ck("...and says so about the Constitution, not about this corpus's coverage",
        note is not None and "prints no Article XX" in note
        and "not mirrored" not in note)
+
+
+def _proof_every_designation_round_trips_through_its_slug(ck):
+    """THE OTHER HALF OF ONE DECLARATION. The article shape is stated as a citation TOKEN and
+    as an id SLUG, and `orconst_article_slug`/`orconst_article_designation` are the bridge —
+    but nothing derives one spelling from the other, so the two could drift and only a
+    hand-picked example would notice.
+
+    Run over EVERY designation the catalog holds, which is the page's own list, so the claim
+    is about the document rather than about nine examples someone chose. A slug that will not
+    parse back is a document whose provenance cannot be verified, since `snapshot_slice`
+    reaches the article through the slug alone."""
+    designations = sorted(a["article"] for a in _constitution_catalog().values())
+    bad = [d for d in designations
+           if orconst_article_designation(orconst_article_slug(d)) != d]
+    for d in bad:
+        print(f"  {d!r} -> {orconst_article_slug(d)!r} -> "
+              f"{orconst_article_designation(orconst_article_slug(d))!r}", file=sys.stderr)
+    ck("every article designation the page prints round-trips through its slug", bad == [])
+    ck("...and the citation token accepts every one of them",
+       all(OR_CONST_C.search(f"Or. Const. Art. {d}, sec. 1") for d in designations))
+    ck("...and no two designations fold to the same slug",
+       len({orconst_article_slug(d) for d in designations}) == len(designations))
+    ck("there is a document's worth of them", len(designations) >= 39)
 
 
 def _proof_the_two_forms_accept_the_same_article(ck):

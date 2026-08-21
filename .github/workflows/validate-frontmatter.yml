@@ -68,6 +68,15 @@ jobs:
       # and a lowercase-only pattern did not skip it — it could not see it).
       - name: Constitution ingest skip rules must all be able to fail
         run: python3 src/ingest_constitution.py --selftest
+      # THE CATALOG IS THE LIST OF WHAT SHOULD EXIST, and that is only worth something if
+      # something reads it back. Without this, a document deleted from constitution/ is
+      # MERELY ABSENT: a citation to it falls through to the framework's generic
+      # "unresolved", which is the answer a WRONG citation gets, and ADR 0005 exists to keep
+      # those two apart. It is also the byte-identity gate — every published document is
+      # re-rendered from the committed snapshot and compared, so a re-run cannot silently
+      # rewrite what is committed. No network: it refuses to run if the snapshot is absent.
+      - name: The Constitution catalog must match what is on disk
+        run: python3 src/ingest_constitution.py --check
       # The citation schemes' own proofs, and the half that matters is the refusals: an
       # `Or. Const.` citation to a section the page does not print must resolve to NOTHING
       # and say so, never to the article or to a neighbouring section. It holds apart the

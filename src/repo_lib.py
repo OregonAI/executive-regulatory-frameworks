@@ -368,7 +368,7 @@ def orconst_id(article: str, section: str) -> str:
 
 ArticleHeading = namedtuple("ArticleHeading", "designation occurrence text")
 
-# WHAT A SECTION HEADING LOOKS LIKE, declared once. Measured on the 2024 edition: 380
+# WHAT A SECTION HEADING LOOKS LIKE, declared once. Measured on the 2024 edition: 381
 # occurrences of `Section N. ` in the whole document and every one of them is a heading —
 # the page's cross-references are lowercase ("See note at section 15, Article V"), which is
 # what makes this safe both as an anchor and as a terminator. The trailing period is
@@ -469,13 +469,12 @@ def constitution_section_anchor(section: str) -> str:
     and Article XV section 4 as citations too ambiguous to resolve. Both are ordinary
     sections. Measured: with the anchor built this way, the document's 381 `Section N.`
     headings are the only things it matches."""
-    m = re.fullmatch(ORCONST_SECTION_TOKEN, section)
+    m = re.fullmatch(r"(\d+)([A-Za-z]?)", section)
     if not m:
         return ""
-    digits, letter = section[:-1] if section[-1].isalpha() else section, ""
-    if section[-1].isalpha():
-        letter = f"[{section[-1].lower()}{section[-1].upper()}]"
-    return rf"Section {re.escape(digits)}{letter}\. "
+    digits, letter = m.groups()
+    suffix = f"[{letter.lower()}{letter.upper()}]" if letter else ""
+    return rf"Section {digits}{suffix}\. "
 
 
 def constitution_section_body_chars(slice_text: str, section: str) -> int:
@@ -518,17 +517,25 @@ def constitution_section_prints(norm_text: str, article: str, section: str) -> l
     THE SLICE ENDS AT THE NEXT `Section N. ` (`_SECTION_HEADING_RE`), which is safe because
     the page's own cross-references are lowercase.
 
-    USUALLY ONE. Measured on the 2024 edition: 380 section headings under 370 distinct
+    USUALLY ONE. Measured on the 2024 edition: 381 section headings under 371 distinct
     (article, number) pairs — 9 numbers across 7 articles are printed more than once, 19
     prints in all, because the page keeps a superseded print of a section beside the one
     that replaced it."""
-    region = constitution_article_region(norm_text, article)
-    if not region:
+    return constitution_section_prints_in(
+        constitution_article_region(norm_text, article), section)
+
+
+def constitution_section_prints_in(region: str, section: str) -> list:
+    """The same, for a caller that already holds the article's region.
+
+    The catalog walks an article's own text once and needs every print of a number out of
+    THAT text; the slicer arrives with a doc id and has to find the region first. One
+    implementation, reached two ways, because a second copy of "where does a section's text
+    start and stop" is the thing this file exists to prevent."""
+    anchor = constitution_section_anchor(section)
+    if not region or not anchor:
         return []
     out = []
-    anchor = constitution_section_anchor(section)
-    if not anchor:
-        return []
     for start in re.finditer(anchor, region):
         body = region[start.start():]
         nxt = _SECTION_HEADING_RE.search(body, 1)
@@ -554,7 +561,25 @@ def constitution_section_slice(norm_text: str, article: str, section: str) -> st
     that print, no print with text is the FIRST print (a real region for the ingest to
     report `history-only` against), and MORE THAN ONE print with text is "" — nothing in the
     citation says which, so nothing is sliced. That last has no instance today."""
-    prints = constitution_section_prints(norm_text, article, section)
+    return operative_print(constitution_section_prints(norm_text, article, section), section)
+
+
+def operative_print(prints: list, section: str) -> str:
+    """Which of a section number's prints a citation to that number names.
+
+    ONE RULE, TWO CALLERS. The slicer above reaches it from a doc id; the catalog reaches it
+    to read the section's TITLE off the same print the text will come from. Written twice,
+    a document could carry one print's leadline over another print's text.
+
+    Four outcomes and none of them a guess:
+      * no print                     -> ""
+      * exactly one print with text  -> that print
+      * no print with text           -> the FIRST print, so the caller has a real slice to
+                                        report `history-only` against rather than a blank
+      * more than one print with text -> "", because nothing in the citation says which,
+                                         and choosing would publish text under a citation
+                                         that does not name it. No instance on the 2024
+                                         edition; refused rather than left to first-wins."""
     if not prints:
         return ""
     with_text = [p for p in prints

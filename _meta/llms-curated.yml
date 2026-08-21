@@ -33,10 +33,15 @@ sections:
         label: Or. Const. Art. VI, sec. 1 — Election of Secretary and Treasurer of state
         note: the constitutional root of two offices this corpus records as having no
           enabling statute (ADR 0003).
+      - path: constitution/orconst-art-vi-sec-2.md
+        label: Or. Const. Art. VI, sec. 2 — Duties of Secretary of State
+        note: the Secretary of State as Auditor of Public Accounts, by the Constitution
+          rather than by statute.
       - path: constitution/orconst-art-vii-amended-sec-1.md
         label: Or. Const. Art. VII (Amended), sec. 1 — Courts
         note: where the judicial power of the state is vested; the article whose
-          parenthetical is part of how Oregon cites it.
+          parenthetical is part of how Oregon cites it, and the reason `Art. VII` alone
+          resolves to nothing.
       - path: constitution/orconst-art-i-sec-1.md
         label: Or. Const. Art. I, sec. 1 — Natural rights inherent in people
         note: the first section of the Bill of Rights.

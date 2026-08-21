@@ -4,6 +4,7 @@
   python3 src/ingest_constitution.py --catalog            # the whole document, from the page
   python3 src/ingest_constitution.py --ingest             # publish every article
   python3 src/ingest_constitution.py --ingest "VII (Amended)"   # or just one
+  python3 src/ingest_constitution.py --check              # catalog against constitution/
   python3 src/ingest_constitution.py --selftest           # every skip rule, failing
 
 THE SOURCE IS ONE PAGE. The Constitution is published at oregonlegislature.gov as a
@@ -17,7 +18,7 @@ Shaped after src/ingest_ors.py, which does the same thing per ORS chapter."""
 import argparse
 import re
 import sys
-from collections import namedtuple
+from collections import Counter, namedtuple
 from datetime import date
 from pathlib import Path
 
@@ -29,8 +30,9 @@ from repo_lib import (CONST_SECTION_MIN_BODY_CHARS, ORCONST_ID_RE,
                       ORCONST_SECTION_TOKEN, REPO_ROOT, SNAPSHOT_DIR,
                       Checks, constitution_article_headings, constitution_article_region,
                       constitution_section_anchor, constitution_section_body_chars,
-                      constitution_section_prints,
+                      constitution_section_prints, constitution_section_prints_in,
                       constitution_section_slice, hash_snapshot, normalize_ws,
+                      operative_print,
                       orconst_article_designation, orconst_article_slug, orconst_id,
                       snapshot_slice, ws_only)
 
@@ -75,7 +77,7 @@ def contents_list(region: str) -> dict:
     would have been published under the title "Relationship to conflicting provisions of
     Constitution Note: Article XI-M was designated as …", which is not a title the source
     gives it. Article VI has no such note, which is why #194 did not meet this."""
-    body = re.search(r"Section \d+[a-z]?\. ", region)
+    body = re.search(rf"Section {ORCONST_SECTION_TOKEN}\. ", region)
     chunk = region[:body.start()] if body else region
     note = re.search(r"\bNote: ", chunk)
     if note:
@@ -135,10 +137,25 @@ def discover_sections(region: str) -> list:
             continue
         title = listed.get(number)
         seen[number] = {"number": number,
-                        "title": title or leadline(region[m.start():], number),
+                        "title": title or _printed_title(region, number),
                         "title_source": "contents-list" if title else "leadline"}
         out.append(seen[number])
     return out
+
+
+def _printed_title(region: str, number: str) -> str:
+    """The leadline of the print a citation to this number names — for the numbers the
+    article's contents list does not carry, which is where the body's own leadline is the
+    only title there is.
+
+    THE PRINT THAT WILL BE SLICED, not the first one printed, and `repo_lib.operative_print`
+    is what decides — the same function the slicer reaches from a doc id. Article I prints
+    section 36 twice with different leadlines ("Liquor prohibition" and "Capital punishment
+    abolished"), so taking the first print's leadline beside whichever print carries text
+    makes `anchored()` compare two different sections and refuse a slice as unidentifiable:
+    a document reported as one this ingest could not place, on a page that places it fine."""
+    return leadline(operative_print(constitution_section_prints_in(region, number), number),
+                    number)
 
 
 # ONE ARTICLE THIS INGEST WILL NOT MIRROR, in the same shape as a skipped section: which
@@ -166,12 +183,11 @@ def discover_articles(norm_text: str) -> list:
     gap. (`XI-B` and `XI-C` are the same shape without the doubling — repealed articles the
     page still prints, and the only articles of the 39 with no living designation at all.)"""
     heads = constitution_article_headings(norm_text)
-    doubled = {h.designation for h in heads
-               if sum(1 for x in heads if x.designation == h.designation) > 1}
+    printings = Counter(h.designation for h in heads)
     out = []
     for h in heads:
         entry = {"article": h.designation}
-        if h.designation in doubled:
+        if printings[h.designation] > 1:
             entry["occurrence"] = h.occurrence
         entry["title"] = article_title(h.text, h.designation)
         entry["sections"] = discover_sections(h.text)
@@ -179,15 +195,13 @@ def discover_articles(norm_text: str) -> list:
             entry["status"] = "not_mirrored"
             entry["rule"] = "no-sections"
             note = _ARTICLE_SKIP_REASONS["no-sections"]
-            if h.designation in doubled:
+            if printings[h.designation] > 1:
                 note += (f". The page prints ARTICLE {h.designation} "
-                         f"{_times(sum(1 for x in heads if x.designation == h.designation))}"
-                         f"; this is print {h.occurrence + 1}, and a citation to "
-                         f"Art. {h.designation} resolves against the print that carries "
-                         f"sections")
+                         f"{_times(printings[h.designation])}; this is print "
+                         f"{h.occurrence + 1}, and a citation to Art. {h.designation} "
+                         f"resolves against the print that carries sections")
             entry["note"] = note
-        return_entry = entry
-        out.append(return_entry)
+        out.append(entry)
     return out
 
 
@@ -563,18 +577,29 @@ def cmd_catalog(articles):
         out.append(_ordered_article(entry))
     cat["articles"] = out
     write_catalog(cat)
-    _report_catalog(norm, out, wanted)
+    _report_catalog(constitution_article_headings(norm), out, wanted)
     return 0
 
 
-def _report_catalog(norm, entries, wanted):
+def _report_catalog(heads, entries, wanted):
     """WHAT THE PAGE PRINTS, COUNTED, on every catalog run — the denominator the mirror is
-    measured against, stated rather than left to be inferred from the file."""
-    prints = numbers = 0
+    measured against, stated rather than left to be inferred from the file.
+
+    ONE DENOMINATOR PER LINE, and it is the denominator of what this run looked at.
+    `--catalog XI` reads one article, so the totals say ONE ARTICLE and name it; only a run
+    over the whole document says "whole document". A summary that counted articles over the
+    file and sections over the argument reported a whole-document total for a one-article
+    run, which is the sentence a reader would trust and shouldn't.
+
+    The article's own region comes from `heads`, which the caller already walked, rather
+    than being looked up again by designation — for XI-A that lookup goes through the
+    "which print" rule and answers about a different heading than the line being printed."""
+    regions = {(h.designation, h.occurrence): h.text for h in heads}
+    prints = numbers = mirrored = shown = 0
     for entry in entries:
         if entry["article"] not in wanted:
             continue
-        region = "" if entry.get("status") == "not_mirrored" else None
+        shown += 1
         secs = entry["sections"]
         n = sum(s.get("prints", 1) for s in secs)
         prints += n
@@ -585,16 +610,18 @@ def _report_catalog(norm, entries, wanted):
         if entry.get("status") == "not_mirrored":
             print(f"{label} ({entry['title']}): NOT MIRRORED [{entry['rule']}]")
             continue
-        listed = len(contents_list(constitution_article_region(norm, entry["article"])))
-        doubled = "" if n == len(secs) else f" ({n} section headings, {n - len(secs)} a "
-        doubled += "" if n == len(secs) else "superseded print of a number printed twice)"
+        mirrored += 1
+        region = regions.get((entry["article"], entry.get("occurrence", 0)), "")
+        doubled = ("" if n == len(secs) else
+                   f" ({n} section headings, {n - len(secs)} of them a superseded print of "
+                   f"a number the article prints more than once)")
         print(f"{label} ({entry['title']}): {len(secs)} section number(s) on the page, "
-              f"{listed} listed in its contents list{doubled}")
-        _ = region
-    mirrored = [e for e in entries if e.get("status") != "not_mirrored"]
-    print(f"whole document: {len(entries)} article heading(s) printed, "
-          f"{len(mirrored)} carrying sections, {numbers} distinct section number(s) "
-          f"across {prints} section heading(s)")
+              f"{len(contents_list(region))} listed in its contents list{doubled}")
+    scope = ("whole document" if shown == len(entries)
+             else f"{shown} of {len(entries)} article heading(s) "
+                  f"({', '.join(sorted(wanted))})")
+    print(f"{scope}: {shown} article heading(s) printed, {mirrored} carrying sections, "
+          f"{numbers} distinct section number(s) across {prints} section heading(s)")
 
 
 def cmd_ingest(articles):
@@ -663,6 +690,107 @@ def cmd_ingest(articles):
     return rc
 
 
+def check_article(entry, raw_text, prov, out_dir, unclaimed=False) -> list:
+    """Every disagreement between one catalog article and what is on disk.
+
+    THE RULE `cmd_check` RUNS AND THE SELFTEST WATCHES FAIL, in one place, so the gate that
+    guards the mirror and the proof that the gate works cannot describe different rules.
+
+    Four kinds, named apart because they are different kinds of wrong:
+
+      * a section the catalog claims `ingested` whose file is not there — the mirror LOST a
+        document, and every citation to it now answers the way a wrong citation does, which
+        is the collapse ADR 0005 exists to prevent
+      * a file whose bytes differ from what re-rendering it now produces — criterion 10: a
+        re-run would rewrite it, so what is committed is not what the pipeline says
+      * a `path` that does not name the id — the join between catalog, file and citation has
+        come apart
+      * (with `unclaimed`) a file in the directory nothing in the catalog claims — this
+        ingest never withdraws mirrored law on its own, so this is how an earlier run's
+        document is FOUND rather than left to be discovered"""
+    problems = []
+    for sec in entry["sections"]:
+        doc_id = orconst_id(entry["article"], sec["number"])
+        path = out_dir / f"{doc_id}.md"
+        if sec.get("status") != "ingested":
+            if path.exists():
+                problems.append(
+                    f"{path.name} is on disk and the catalog does not claim it — it records "
+                    f"{sec.get('status', 'no status')} for Art. {entry['article']}, "
+                    f"sec. {sec['number']}")
+            continue
+        if sec.get("path") != f"constitution/{doc_id}.md":
+            problems.append(f"Art. {entry['article']}, sec. {sec['number']} records path "
+                            f"{sec.get('path')!r}, which is not the path the id {doc_id} "
+                            f"names")
+        if not path.exists():
+            problems.append(
+                f"{path.name} is MISSING: the catalog claims Art. {entry['article']}, "
+                f"sec. {sec['number']} is ingested and no document is there. A citation to "
+                f"it now answers the way a wrong citation does.")
+            continue
+        expected = doc_body(entry["article"], entry["title"], sec, prov,
+                            snapshot_slice(doc_id, SNAP_ID, raw_text))
+        if path.read_text() != expected:
+            problems.append(f"{path.name} differs from what re-rendering it from the "
+                            f"committed snapshot produces — a re-run would rewrite it")
+    if unclaimed:
+        claimed = {f"{orconst_id(entry['article'], s['number'])}.md"
+                   for s in entry["sections"]}
+        problems += [f"{p.name} is in {out_dir.name}/ and NOTHING in the catalog claims it. "
+                     f"This ingest never withdraws mirrored law on its own, so an earlier "
+                     f"run's document ends up here."
+                     for p in sorted(out_dir.glob("orconst-*.md")) if p.name not in claimed]
+    return problems
+
+
+def cmd_check():
+    """WHAT THE CATALOG SAYS SHOULD EXIST, AGAINST WHAT IS ON DISK — criteria 7 and 10 of
+    #195, as a gate rather than as an intention.
+
+    THE CATALOG IS THE LIST OF WHAT SHOULD EXIST. Without something reading it back, a
+    document deleted from `constitution/` is *merely absent*: a citation to it falls through
+    to the framework's generic "unresolved", which is the same answer a wrong citation gets.
+    Here it is DETECTED, and named. `check_article` above holds the four rules.
+
+    Reads the COMMITTED snapshot and never the network."""
+    raw_text, sha, fetched = snapshot()
+    if fetched:
+        print(f"{SNAP_ID}: no committed snapshot to check against; this fetched one. "
+              f"Commit it, then re-run.", file=sys.stderr)
+        return 1
+    norm = ws_only(raw_text)
+    cat = load_catalog()
+    prov = Provenance(URL, sha, cat["source_version"], cat["retrieved"])
+    problems, claimed, ingested = [], set(), 0
+    for entry in cat["articles"]:
+        problems += check_article(entry, norm, prov, OUT)
+        for sec in entry["sections"]:
+            claimed.add(f"{orconst_id(entry['article'], sec['number'])}.md")
+            ingested += sec.get("status") == "ingested"
+    # ACROSS ALL ARTICLES, not per article: a document belongs to the catalog as a whole, so
+    # asking one article whether it claims a file would report every other article's
+    # documents as unclaimed.
+    problems += [f"{p.name} is in {OUT.name}/ and NOTHING in the catalog claims it. This "
+                 f"ingest never withdraws mirrored law on its own, so an earlier run's "
+                 f"document ends up here."
+                 for p in sorted(OUT.glob("orconst-*.md")) if p.name not in claimed]
+    for problem in problems:
+        print(f"  {problem}", file=sys.stderr)
+    numbers = sum(len(a["sections"]) for a in cat["articles"])
+    unmirrored = sum(1 for a in cat["articles"] if a.get("status") == "not_mirrored")
+    print(f"catalog: {len(cat['articles'])} article heading(s), {unmirrored} carrying no "
+          f"sections; {numbers} section number(s), {ingested} published, "
+          f"{numbers - ingested} cataloged with the reason they were not")
+    if problems:
+        print(f"{len(problems)} disagreement(s) between the catalog and constitution/",
+              file=sys.stderr)
+        return 1
+    print(f"all {ingested} published document(s) are on disk and byte-identical to what "
+          f"re-rendering them from the committed snapshot produces")
+    return 0
+
+
 def write_index(cat):
     mirrored = [a for a in cat["articles"] if a.get("status") != "not_mirrored"]
     unmirrored = [a for a in cat["articles"] if a.get("status") == "not_mirrored"]
@@ -708,10 +836,13 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--catalog", nargs="*", metavar="ARTICLE")
     ap.add_argument("--ingest", nargs="*", metavar="ARTICLE")
+    ap.add_argument("--check", action="store_true")
     ap.add_argument("--selftest", action="store_true")
     args = ap.parse_args()
     if args.selftest:
         sys.exit(selftest())
+    if args.check:
+        sys.exit(cmd_check())
     if args.catalog is not None:
         sys.exit(cmd_catalog(args.catalog))
     if args.ingest is not None:
@@ -784,10 +915,9 @@ Section 1. State empowered to lend credit. The credit of the State of Oregon may
 and indebtedness incurred for the purpose of providing buildings for higher education.
 ARTICLE XIV
 SEAT OF GOVERNMENT
-Sec. 1. Seat of government
-2. Erection of state house prior to 1865
-Section 1. Seat of government. [Constitution of 1859; Repeal proposed by S.J.R. 41, 1957,
-and adopted by the people Nov. 4, 1958]
+Sec. 2. Erection of state house prior to 1865
+Section 1. Removal of seat of government. [Constitution of 1859; Repeal proposed by S.J.R.
+41, 1957, and adopted by the people Nov. 4, 1958]
 Section 1. Seat of government. The permanent seat of government for the state shall be
 Marion County. [Created through S.J.R. 41, 1957, and adopted by the people Nov. 4, 1958]
 Section 2. Erection of state house prior to 1865. No tax shall be levied, or money of the
@@ -887,11 +1017,10 @@ def _proof_two_prints_both_carrying_text_are_refused(ck):
     does not name it. Watched failing here because it cannot be watched failing on the
     document: a guard nobody has seen fire is not known to work."""
     doubled = FIXTURE.replace(
-        "Section 1. Seat of government. [Constitution of 1859; Repeal proposed by S.J.R. 41, "
-        "1957, and adopted by the people Nov. 4, 1958]",
-        "Section 1. Seat of government. The seat of government shall be at Salem in the "
-        "county of Marion, and shall not be removed therefrom without the consent of the "
-        "electors of the state.")
+        "Section 1. Removal of seat of government. [Constitution of 1859; Repeal proposed by "
+        "S.J.R. 41, 1957, and adopted by the people Nov. 4, 1958]",
+        "Section 1. Removal of seat of government. The seat of government shall not be "
+        "removed from Salem without the consent of the electors of the state.")
     ck("the fixture really has two prints with text", doubled != FIXTURE)
     ck("neither print is sliced", constitution_section_slice(doubled, "XIV", "1") == "")
     skip = why_not_publishable(constitution_section_slice(doubled, "XIV", "1"), "1",
@@ -1037,9 +1166,9 @@ def _proof_a_section_number_the_page_prints_twice_is_one_catalog_entry(ck):
 
 
 def _proof_every_rule_that_can_skip_a_section_fires(ck):
-    """THE FOUR WAYS A SECTION IS NOT PUBLISHED, each watched failing. An ALLOWLIST: a
-    section is published because its slice passed every rule, never because it failed no
-    known-bad one.
+    """THE FIVE WAYS A SECTION IS NOT PUBLISHED, each watched failing — and the count is
+    the point: an ALLOWLIST is only an allowlist if every rule in it is here. A section is
+    published because its slice passed all five, never because it failed no known-bad one.
 
     None of these says the section does not exist. CONTEXT.md's overriding rule is that
     "could not check" is never reported as "is not there", and a slice this ingest could
@@ -1146,16 +1275,30 @@ def _proof_a_bare_redesignation_entry_is_refused(ck):
 
 
 def _proof_a_doubled_number_takes_the_title_of_the_print_that_is_sliced(ck):
-    """THE TITLE AND THE TEXT MUST COME FROM THE SAME PRINT. Article XIV prints section 1
-    twice, and the leadlines differ; taking the first print's leadline and the second
-    print's text made `anchored()` compare two different sections and refuse the slice as
-    mis-anchored — a live section reported as one this ingest could not identify."""
-    secs = discover_sections(constitution_article_region(FIXTURE, "XIV"))
+    """THE TITLE AND THE TEXT MUST COME FROM THE SAME PRINT, for the numbers no contents
+    list carries. Reading the FIRST print's leadline beside whichever print holds text makes
+    `anchored()` cross-check two different sections against each other, and the document
+    would carry a heading naming one section over the text of another.
+
+    SYNTHETIC, AND SAID TO BE. The 2024 edition has no instance of this: eight of its nine
+    doubled section numbers are in their article's contents list, which supplies the title
+    and never reaches `_printed_title`, and the ninth — Article I section 36, whose two
+    prints really are headed "Liquor prohibition" and "Capital punishment abolished" — has
+    two REPEALED prints, so the operative print is the first one and both readings agree.
+    The rule is right by coincidence on the document as it stands, which is the kind of rule
+    that goes wrong without anybody noticing, so it is watched failing here instead."""
+    region = constitution_article_region(FIXTURE, "XIV")
+    secs = discover_sections(region)
     one = next(s for s in secs if s["number"] == "1")
-    slice_text = constitution_section_slice(FIXTURE, "XIV", "1")
+    ck("the two prints really are headed differently",
+       leadline(region[region.index("Section 1."):], "1")
+       == "Removal of seat of government")
     ck("the title is read off the print that carries text",
-       anchored(slice_text, "1", one["title"]))
-    ck("...and the section is published rather than reported unidentifiable",
+       (one["title"], one["title_source"]) == ("Seat of government", "leadline"))
+    slice_text = constitution_section_slice(FIXTURE, "XIV", "1")
+    ck("...which is the print the slicer returns",
+       leadline(slice_text, "1") == one["title"])
+    ck("...so the section is published rather than reported unidentifiable",
        why_not_publishable(slice_text, "1", one["title"], prints=2,
                            prints_with_text=1) is None)
 
@@ -1191,6 +1334,52 @@ def _proof_the_history_only_rule_reads_the_printed_leadline(ck):
     skip = why_not_publishable(repealed, "2a", "County manager")
     ck("a repealed section is still refused when its leadline is longer than its title",
        skip is not None and skip.rule == "history-only")
+
+
+def _proof_the_catalog_detects_a_document_that_went_missing(ck):
+    """CRITERIA 7 AND 10 OF #195, watched failing. The catalog is the list of what SHOULD
+    exist, and that claim is only worth something if something reads it back: a document
+    deleted from `constitution/` would otherwise be MERELY ABSENT — a citation to it falls
+    through to the framework's generic "unresolved", which is the answer a WRONG citation
+    gets, and those two must never be the same state (CONTEXT.md, ADR 0005).
+
+    Four disagreements, each made on purpose against a temporary corpus rather than against
+    the committed one, and each named apart because they are different kinds of wrong: a
+    document gone, a document nothing claims, a document whose bytes a re-run would change,
+    and a path that does not match its id."""
+    import tempfile
+    with tempfile.TemporaryDirectory() as d:
+        out = Path(d)
+        entry = next(a for a in discover_articles(FIXTURE) if a["article"] == "VI")
+        prov = Provenance(URL, "0" * 64, "fixture", "2026-08-21")
+        published, _ = ingest_article(entry, FIXTURE, prov, out)
+        ck("the fixture corpus published something to check",
+           published == ["orconst-art-vi-sec-1", "orconst-art-vi-sec-2"])
+        ck("a sound corpus reports no disagreement",
+           check_article(entry, FIXTURE, prov, out) == [])
+
+        (out / "orconst-art-vi-sec-1.md").unlink()
+        found = check_article(entry, FIXTURE, prov, out)
+        ck("[missing] a deleted document is DETECTED, not merely absent",
+           len(found) == 1 and "MISSING" in found[0]
+           and "orconst-art-vi-sec-1" in found[0])
+        ck("...and the reason says what it costs, in the words a citation would answer in",
+           "wrong citation" in found[0])
+
+        (out / "orconst-art-vi-sec-1.md").write_text("not the source's text")
+        found = check_article(entry, FIXTURE, prov, out)
+        ck("[re-run would rewrite it] bytes that are not what the pipeline produces",
+           len(found) == 1 and "differs from what re-rendering" in found[0])
+
+        (out / "orconst-art-vi-sec-99.md").write_text("published by nobody")
+        found = check_article(entry, FIXTURE, prov, out, unclaimed=True)
+        ck("[unclaimed] a document the catalog says nothing about is found",
+           any("NOTHING in the catalog claims it" in f for f in found))
+
+        entry["sections"][0]["path"] = "constitution/orconst-art-vi-sec-2.md"
+        ck("[wrong path] a path that does not match the id is reported",
+           any("is not the path the id" in f
+               for f in check_article(entry, FIXTURE, prov, out)))
 
 
 def _proof_a_broken_slice_is_reported_and_not_published(ck):
@@ -1254,7 +1443,8 @@ _PROOFS = [_proof_an_article_is_found_by_its_whole_designation,
            _proof_a_section_number_may_carry_an_uppercase_letter,
            _proof_a_section_number_the_page_prints_twice_is_one_catalog_entry,
            _proof_every_rule_that_can_skip_a_section_fires,
-           _proof_a_broken_slice_is_reported_and_not_published]
+           _proof_a_broken_slice_is_reported_and_not_published,
+           _proof_the_catalog_detects_a_document_that_went_missing]
 
 
 def selftest() -> int:
