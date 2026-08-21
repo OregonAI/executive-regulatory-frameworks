@@ -90,6 +90,8 @@ def parse_citation_list(text: str) -> list:
     if not text:
         return []
     # protect range hyphens with spaces around them from being treated as separators
+    # COMPOUND NAME — NOT-A-REGISTRY-NAME: the string split here is a compound CITATION
+    # ('ORS 184.340, 278.405 & 655.520'), not a body's name.
     parts = re.split(r",|\s&\s", text)
     out, family = [], None
     for p in parts:

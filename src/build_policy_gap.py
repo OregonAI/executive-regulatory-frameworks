@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Policy-documentation gap — which agencies write the most binding OAR rules while having
 the fewest of their own policy/procedure documents ingested into this corpus. Rule counts
-are rolled up from agency sub-divisions to their root agency (agencies.yml parent_slug) so
+are rolled up from agency sub-divisions to their root agency (agencies.yml `relations`) so
 e.g. OHA's public-health division rules are compared against OHA's own policies, not treated
 as a separate zero-policy agency.
 
@@ -23,6 +23,7 @@ from pathlib import Path
 import yaml
 
 sys.path.insert(0, str(Path(__file__).parent))
+import catalog_agencies
 from enrich_oar import load_registry_by_chapter
 from repo_lib import REPO_ROOT
 
@@ -31,13 +32,42 @@ PAGES = REPO_ROOT / "_meta/catalog/agency-policy-pages.yml"  # advisory only, ne
 OUT = REPO_ROOT / "viz/policy-documentation-gap.html"
 
 
-def root(slug, orgs):
-    """Roll a sub-division slug up to its top-level agency via parent_slug (loop-safe)."""
-    seen = set()
-    while slug in orgs and orgs[slug].get("parent_slug") and orgs[slug]["parent_slug"] not in seen:
-        seen.add(slug)
-        slug = orgs[slug]["parent_slug"]
-    return slug
+# WHY A BODY WAS NOT ROLLED UP TO A TOP-LEVEL AGENCY, in words a reader of the page can act
+# on. Both are states `catalog_agencies.root_body()` names and neither is "this body is a
+# root": one is two sources the registry keeps in disagreement, the other is a cycle in the
+# relations. Publishing either as a top-level agency would be "could not check" reported as
+# "is not there" (CONTEXT.md), on a row carrying a rule count.
+NOT_A_ROOT = {
+    catalog_agencies.SOURCES_DISAGREE:
+        "its sources place it under more than one parent, and this view does not pick one",
+    catalog_agencies.PLACED_IN_A_LOOP:
+        "its relations lead back to a body already walked, so the registry states no top for "
+        "it",
+}
+
+
+def root(slug, orgs, unrolled=None):
+    """Roll a sub-division slug up to its root agency via `relations` (loop-safe).
+
+    THE ROLLUP CARRIES A NUMBER, WHICH IS WHY THE TRAVERSAL IS NOT THIS MODULE'S OWN. Every
+    rule and policy counted below is attributed to whatever this returns, so a body rolled
+    under the wrong department is a wrong number on a published page rather than a crash —
+    and `catalog_agencies.root_body()` is where that walk is stated once, for this module
+    and for the authority graph, so the two cannot place one body two ways.
+
+    A BODY ITS SOURCES DISAGREE ABOUT IS NOT ROLLED UP. ADR 0004 lets a body hold more than
+    one relation, and ADR 0003 keeps that disagreement rather than reconciling it. Following
+    the first entry would credit this agency's rule count to the department the OAR index
+    files it under while statute places it elsewhere, and nothing on the page would say
+    which reading produced the total — so such a body stays its own root and is collected in
+    `unrolled` for the caller to report — ON ITS OWN ROW and not only in a total, because a
+    total of zero is exactly what would hide the first one. No committed row is in that state
+    today, so this returns exactly what the retired `parent_slug` pointer returned for all
+    189; `catalog_agencies.py --selftest` is where the other branches are watched running."""
+    got = catalog_agencies.root_body(slug, orgs)
+    if got.stopped in NOT_A_ROOT and unrolled is not None:
+        unrolled[got.slug] = NOT_A_ROOT[got.stopped]
+    return got.slug
 
 
 def build_data() -> dict:
@@ -51,24 +81,33 @@ def build_data() -> dict:
         # (the statutory name after ADR 0003), which is what a reader is shown.
         return orgs.get(slug, {}).get("name", slug)
 
+    # {slug: why it is not a root} for every body the walk could not roll up, collected
+    # across every walk below and REPORTED rather than resolved (see `root`). Empty on the
+    # committed registry; when it stops being, the reason rides on the row itself.
+    unrolled: dict = {}
+
     rules, policies = Counter(), Counter()
     for n in g["nodes"]:
         dt, nid, path = n["doc_type"], n["id"], n["path"]
         if dt == "rule":
             org = reg.get(nid.split("-")[1])
             if org:
-                rules[root(org["slug"], orgs)] += 1
+                rules[root(org["slug"], orgs, unrolled)] += 1
         elif dt in ("policy", "procedure"):
-            policies[root(Path(path).parts[1], orgs)] += 1
+            policies[root(Path(path).parts[1], orgs, unrolled)] += 1
 
     candidates = set()
     pages = yaml.safe_load(PAGES.read_text())
     for a in pages.get("agencies", []):
         if a.get("status") == "candidate_found":
-            candidates.add(root(a["slug"], orgs))
+            candidates.add(root(a["slug"], orgs, unrolled))
 
+    # `not_a_root` is present only on the rows it is true of: a key on every row would say
+    # of 93 agencies that somebody checked whether they were really roots, which is a
+    # different claim from the one this makes about the few that are not.
     rows = [{"slug": slug, "name": org_name(slug), "rules": n,
-             "policies": policies.get(slug, 0), "candidate": slug in candidates}
+             "policies": policies.get(slug, 0), "candidate": slug in candidates,
+             **({"not_a_root": unrolled[slug]} if slug in unrolled else {})}
             for slug, n in rules.most_common()]
 
     n_with_policies = sum(1 for r in rows if r["policies"] > 0)
@@ -78,9 +117,15 @@ def build_data() -> dict:
         "n_agencies": len(rows),
         "n_with_policies": n_with_policies,
         "n_zero": len(rows) - n_with_policies,
+        "n_unrolled": len(unrolled),
         "note": "Rule and policy counts from _meta/graph.json, rolled up from agency "
-                "sub-divisions to their root agency (_meta/catalog/agencies.yml "
-                "parent_slug). ‘Policy documents’ = policy/procedure doc types only "
+                "sub-divisions to their root agency by the `relations` recorded in "
+                "_meta/catalog/agencies.yml (ADR 0004). A body whose sources place it "
+                "under more than one parent is NOT rolled up — that disagreement is a "
+                "finding the registry keeps, and picking one reading would attribute its "
+                "rules to a department some source says it does not sit under; "
+                f"{len(unrolled)} bodies are in that state. "
+                "‘Policy documents’ = policy/procedure doc types only "
                 "(standards & manuals excluded). A zero here means zero policy/procedure "
                 "documents have been ingested for that agency to date — policy "
                 "ingestion is scoped and incomplete (see GitHub issue #79 ‘Agency-policy "
@@ -111,7 +156,8 @@ def main():
         p.write_text(t, encoding="utf-8")
     d = build_data()
     print(f"wrote {OUT.relative_to(REPO_ROOT)}: {d['n_agencies']} agencies, "
-          f"{d['n_with_policies']} with policies ingested, {d['n_zero']} with none")
+          f"{d['n_with_policies']} with policies ingested, {d['n_zero']} with none, "
+          f"{d['n_unrolled']} not rolled up because their sources disagree")
 
 
 TEMPLATE = r"""<!doctype html>
@@ -183,7 +229,10 @@ function render(){
         ? `<div>${r.rules.toLocaleString()} OAR rules · ${r.policies.toLocaleString()} policy/procedure documents ingested (≈${pct}% of rule volume)</div>`
         : `<div><b>0 policy/procedure documents ingested into this corpus.</b> This reflects ingestion scope, not confirmed absence of internal policy.</div>`;
       const cand=r.candidate?`<div>Flagged in the unverified review queue as a candidate for future ingestion.</div>`:'';
-      tip.innerHTML=`<b>${esc(r.name)}</b>${body}${cand}`;
+      // A body the registry could not roll up is shown here as itself, and says why — it is
+      // not a top-level agency, and a row that looked like one would be a wrong number.
+      const notroot=r.not_a_root?`<div><b>Not rolled up:</b> ${esc(r.not_a_root)}. Its rules are counted against itself, not against a department.</div>`:'';
+      tip.innerHTML=`<b>${esc(r.name)}</b>${body}${cand}${notroot}`;
       tip.style.opacity=1;tip.style.left=Math.min(e.clientX+13,innerWidth-tip.offsetWidth-8)+'px';tip.style.top=Math.min(e.clientY+13,innerHeight-tip.offsetHeight-8)+'px';});
     el.addEventListener('mouseleave',()=>tip.style.opacity=0);
     list.appendChild(el);

@@ -111,6 +111,8 @@ def main():
                     "Search with: python3 src/catalog_agencies.py '<search term>'"))
     title = registry[slug]
     args.title = title
+    # COMPOUND NAME — NOT-A-REGISTRY-NAME: a comma-separated command-line list of body
+    # names to create, not one body's compound name being taken apart.
     bodies = [b.strip() for b in args.bodies.split(",") if b.strip()]
     bad = [b for b in bodies if b not in AGENCY_BODIES]
     if bad:
