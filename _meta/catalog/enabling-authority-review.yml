@@ -6,14 +6,18 @@ note: 'PROPOSED, NOT DECIDED. Each row is a candidate an automated match produce
   but NO creation language appears anywhere in the section — Oregon does not draft licensing boards with
   a creation verb, so tier 3 is not weaker than tier 2, it asks a DIFFERENT question: does this section
   CONSTITUTE the body, or describe one constituted elsewhere? Tiers 2 and 3 are where the wrong answers
-  live. `text` is the excerpt that matched, quoted so review is reading rather than research — an EXCERPT
-  with whitespace collapsed, NOT citable verbatim text. Read the cited section itself before accepting
-  a row.'
+  live. `basis` says HOW the row matched, which tier alone does not: catchline-subject, enumerated-list,
+  catchline-contains, catchline-clause, or catchline-subject-no-verb. A tier-1 row matched on an enumerated
+  list is as strong as one matched on a catchline, but it is checked differently — read the list item,
+  not the catchline. `text` is the excerpt that matched, quoted so review is reading rather than research
+  — an EXCERPT with whitespace collapsed, NOT citable verbatim text. Read the cited section itself before
+  accepting a row.'
 generated_from: the mirrored ORS in statutes/, never fetched
 candidates:
 - slug: appraiser-certification-and-licensure-board
   name: Appraiser Certification and Licensure Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 674.305
   catchline: Appraiser Certification and Licensure Board; appointment; term; compensation; conduct of
     business; rules
@@ -22,6 +26,7 @@ candidates:
 - slug: board-of-chiropractic-examiners
   name: Board of Chiropractic Examiners
   tier: 1
+  basis: catchline-subject
   candidate: ORS 684.130
   catchline: State Board of Chiropractic Examiners
   text: (1) There is established the State Board of Chiropractic Examiners.
@@ -29,6 +34,7 @@ candidates:
 - slug: board-of-examiners-for-engineering-and-land-surveying
   name: Board of Examiners for Engineering and Land Surveying
   tier: 3
+  basis: catchline-subject-no-verb
   candidate: ORS 672.240
   catchline: State Board of Examiners for Engineering and Land Surveying; appointment; qualifications;
     officers
@@ -39,6 +45,7 @@ candidates:
 - slug: board-of-examiners-for-speech-language-pathology-and-audiology
   name: Board of Examiners for Speech-Language Pathology and Audiology
   tier: 1
+  basis: catchline-subject
   candidate: ORS 681.400
   catchline: State Board of Examiners for Speech-Language Pathology and Audiology
   text: (1) There is established a State Board of Examiners for Speech-Language Pathology and Audiology.
@@ -46,6 +53,7 @@ candidates:
 - slug: board-of-geologist-examiners
   name: Board of Geologist Examiners
   tier: 3
+  basis: catchline-subject-no-verb
   candidate: ORS 672.615
   catchline: State Board of Geologist Examiners; members; powers
   text: 672.615 State Board of Geologist Examiners; members; powers. (1) The State Board of Geologist
@@ -55,6 +63,7 @@ candidates:
 - slug: board-of-licensed-social-workers
   name: Board of Licensed Social Workers
   tier: 1
+  basis: catchline-subject
   candidate: ORS 675.590
   catchline: State Board of Licensed Social Workers
   text: (1) There is established a State Board of Licensed Social Workers.
@@ -62,6 +71,7 @@ candidates:
 - slug: board-of-massage-therapists
   name: Board of Massage Therapists
   tier: 3
+  basis: catchline-subject-no-verb
   candidate: ORS 687.115
   catchline: State Board of Massage Therapists; members; appointment; terms; meetings; compensation; administrator
   text: 687.115 State Board of Massage Therapists; members; appointment; terms; meetings; compensation;
@@ -71,6 +81,7 @@ candidates:
 - slug: board-of-medical-imaging
   name: Board of Medical Imaging
   tier: 1
+  basis: catchline-subject
   candidate: ORS 688.545
   catchline: Board of Medical Imaging; qualifications; advisory member; term; compensation and expenses;
     officers; meetings; quorum; rules
@@ -79,6 +90,7 @@ candidates:
 - slug: board-of-nursing
   name: Board of Nursing
   tier: 2
+  basis: catchline-contains
   candidate: ORS 678.140
   catchline: Oregon State Board of Nursing
   text: (1) There is created an Oregon State Board of Nursing composed of nine members appointed by the
@@ -87,6 +99,7 @@ candidates:
 - slug: board-of-optometry
   name: Board of Optometry
   tier: 3
+  basis: catchline-subject-no-verb
   candidate: ORS 683.250
   catchline: Oregon Board of Optometry; qualification and terms of members; quorum
   text: 683.250 Oregon Board of Optometry; qualification and terms of members; quorum. (1) The Oregon
@@ -96,6 +109,7 @@ candidates:
 - slug: board-of-parole-and-post-prison-supervision
   name: Board of Parole and Post-Prison Supervision
   tier: 1
+  basis: catchline-subject
   candidate: ORS 144.005
   catchline: State Board of Parole and Post-Prison Supervision; membership; compensation
   text: (1) A State Board of Parole and Post-Prison Supervision of at least three but no more than five
@@ -104,6 +118,7 @@ candidates:
 - slug: bureau-of-labor-and-industries
   name: Bureau of Labor and Industries
   tier: 1
+  basis: catchline-subject
   candidate: ORS 651.020
   catchline: Bureau of Labor and Industries
   text: The Bureau of Labor and Industries hereby is established as a separate department of this state.
@@ -111,6 +126,7 @@ candidates:
 - slug: citizens-initiative-review-commission
   name: Citizens' Initiative Review Commission
   tier: 1
+  basis: catchline-subject
   candidate: ORS 250.137
   catchline: Citizens’ Initiative Review Commission; members; term of office; rules
   text: (1) The Citizens’ Initiative Review Commission is established as a semi-independent state agency
@@ -119,6 +135,7 @@ candidates:
 - slug: commission-for-the-blind
   name: Commission for the Blind
   tier: 1
+  basis: catchline-subject
   candidate: ORS 346.120
   catchline: Commission for the Blind; purpose
   text: There is created a commission for persons who are blind and for the prevention of blindness, to
@@ -127,6 +144,7 @@ candidates:
 - slug: commission-on-judicial-fitness-and-disability
   name: Commission on Judicial Fitness and Disability
   tier: 1
+  basis: catchline-subject
   candidate: ORS 1.410
   catchline: Commission on Judicial Fitness and Disability; term; Senate confirmation
   text: '(1) There is created the Commission on Judicial Fitness and Disability consisting of: (a) Three
@@ -137,6 +155,7 @@ candidates:
 - slug: construction-contractors-board
   name: Construction Contractors Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 701.205
   catchline: Construction Contractors Board; members; terms; confirmation; vacancies; qualifications
   text: (1) The Construction Contractors Board is established, consisting of nine members appointed by
@@ -145,6 +164,7 @@ candidates:
 - slug: department-of-administrative-services
   name: Department of Administrative Services
   tier: 1
+  basis: catchline-subject
   candidate: ORS 184.305
   catchline: Oregon Department of Administrative Services
   text: The Oregon Department of Administrative Services is created.
@@ -152,28 +172,203 @@ candidates:
 - slug: department-of-agriculture
   name: Department of Agriculture
   tier: 1
+  basis: catchline-subject
   candidate: ORS 561.010
   catchline: State Department of Agriculture; director, appointment, confirmation and term
   text: There is created a department of the government of this state to be known as the State Department
     of Agriculture.
   verdict: ''
+- slug: department-of-agriculture-oregon-albacore-commission
+  name: Department of Agriculture, Oregon Albacore Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
 - slug: department-of-agriculture-oregon-beef-council
   name: Department of Agriculture, Oregon Beef Council
   tier: 1
+  basis: catchline-subject
   candidate: ORS 577.210
   catchline: Oregon Beef Council; members; appointment
   text: '(2) There hereby is created the Oregon Beef Council composed of: (a) Two dairy producers.'
   verdict: ''
+- slug: department-of-agriculture-oregon-blueberry-commission
+  name: Department of Agriculture, Oregon Blueberry Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-clover-seed-commission
+  name: Department of Agriculture, Oregon Clover Seed Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-dairy-products-commission
+  name: Department of Agriculture, Oregon Dairy Products Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-dungeness-crab-commission
+  name: Department of Agriculture, Oregon Dungeness Crab Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-fine-fescue-commission
+  name: Department of Agriculture, Oregon Fine Fescue Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-hazelnut-commission
+  name: Department of Agriculture, Oregon Hazelnut Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-hop-commission
+  name: Department of Agriculture, Oregon Hop Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
 - slug: department-of-agriculture-oregon-invasive-species-council
   name: Department of Agriculture, Oregon Invasive Species Council
   tier: 1
+  basis: catchline-subject
   candidate: ORS 570.770
   catchline: Invasive Species Council; membership; terms
   text: (1) The Invasive Species Council is established within the State Department of Agriculture.
   verdict: ''
+- slug: department-of-agriculture-oregon-mint-commission
+  name: Department of Agriculture, Oregon Mint Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-potato-commission
+  name: Department of Agriculture, Oregon Potato Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-processed-vegetable-commission
+  name: Department of Agriculture, Oregon Processed Vegetable Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-raspberry-and-blackberry-commission
+  name: Department of Agriculture, Oregon Raspberry and Blackberry Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-ryegrass-growers-seed-commission
+  name: Department of Agriculture, Oregon Ryegrass Growers Seed Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-salmon-commission
+  name: Department of Agriculture, Oregon Salmon Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-sheep-commission
+  name: Department of Agriculture, Oregon Sheep Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-strawberry-commission
+  name: Department of Agriculture, Oregon Strawberry Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-sweet-cherry-commission
+  name: Department of Agriculture, Oregon Sweet Cherry Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-tall-fescue-commission
+  name: Department of Agriculture, Oregon Tall Fescue Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
+- slug: department-of-agriculture-oregon-trawl-commission
+  name: Department of Agriculture, Oregon Trawl Commission
+  tier: 1
+  basis: enumerated-list
+  candidate: ORS 576.062
+  catchline: Establishment of commodity commissions
+  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission.'
+  verdict: ''
 - slug: department-of-agriculture-oregon-wheat-commission
   name: Department of Agriculture, Oregon Wheat Commission
   tier: 1
+  basis: catchline-subject
   candidate: ORS 578.030
   catchline: Oregon Wheat Commission; members; appointment process; rules
   text: (1) There hereby is created the Oregon Wheat Commission.
@@ -181,6 +376,7 @@ candidates:
 - slug: department-of-consumer-and-business-services
   name: Department of Consumer and Business Services
   tier: 1
+  basis: catchline-subject
   candidate: ORS 705.105
   catchline: Department of Consumer and Business Services; director; qualifications; confirmation; Insurance
     Commissioner; bond or letter of credit; seal
@@ -189,6 +385,7 @@ candidates:
 - slug: department-of-consumer-and-business-services-workers-compensation-board
   name: Department of Consumer and Business Services, Workers' Compensation Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 656.712
   catchline: Workers’ Compensation Board; members; qualifications; chairperson; confirmation; term; vacancies
   text: (1) The Workers’ Compensation Board, composed of five members appointed by the Governor, is created
@@ -197,6 +394,7 @@ candidates:
 - slug: department-of-corrections
   name: Department of Corrections
   tier: 1
+  basis: catchline-subject
   candidate: ORS 423.020
   catchline: Department of Corrections; duties and powers; fees
   text: (1) The Department of Corrections is created.
@@ -204,6 +402,7 @@ candidates:
 - slug: department-of-energy
   name: Department of Energy
   tier: 1
+  basis: catchline-subject
   candidate: ORS 469.030
   catchline: State Department of Energy; duties
   text: (1) There is created the State Department of Energy.
@@ -211,6 +410,7 @@ candidates:
 - slug: department-of-energy-energy-facility-siting-council
   name: Department of Energy, Energy Facility Siting Council
   tier: 1
+  basis: catchline-subject
   candidate: ORS 469.450
   catchline: Energy Facility Siting Council; appointment; confirmation; term; restrictions
   text: (1) There is established in the State Department of Energy an Energy Facility Siting Council,
@@ -220,6 +420,7 @@ candidates:
 - slug: department-of-environmental-quality
   name: Department of Environmental Quality
   tier: 1
+  basis: catchline-subject
   candidate: ORS 468.030
   catchline: Department of Environmental Quality
   text: There is hereby established in the executive-administrative branch of the government of the state
@@ -229,6 +430,7 @@ candidates:
 - slug: department-of-fish-and-wildlife
   name: Department of Fish and Wildlife
   tier: 1
+  basis: catchline-subject
   candidate: ORS 496.080
   catchline: State Department of Fish and Wildlife
   text: There is hereby established in the executive branch of the government of this state under the
@@ -237,6 +439,7 @@ candidates:
 - slug: department-of-human-services
   name: Department of Human Services
   tier: 1
+  basis: catchline-subject
   candidate: ORS 409.010
   catchline: Department of Human Services; duties; personnel
   text: (1) The Department of Human Services is created.
@@ -244,6 +447,7 @@ candidates:
 - slug: department-of-human-services-home-care-commission
   name: Department of Human Services, Home Care Commission
   tier: 1
+  basis: catchline-subject
   candidate: ORS 410.602
   catchline: Home Care Commission; membership; rules
   text: (1) The Home Care Commission is created, consisting of nine members appointed by the Governor
@@ -252,6 +456,7 @@ candidates:
 - slug: department-of-human-services-vocational-rehabilitation-services
   name: Department of Human Services, Vocational Rehabilitation Services
   tier: 3
+  basis: catchline-subject-no-verb
   candidate: ORS 346.180
   catchline: Vocational rehabilitation services
   text: 346.180 Vocational rehabilitation services. The Commission for the Blind shall maintain a program
@@ -268,6 +473,7 @@ candidates:
 - slug: department-of-justice
   name: Department of Justice
   tier: 2
+  basis: catchline-contains
   candidate: ORS 25.020
   catchline: When support payment to be made to Department of Justice; collection agency services; duties
     of department; credit for payments not made to department; rules
@@ -277,6 +483,7 @@ candidates:
 - slug: department-of-revenue
   name: Department of Revenue
   tier: 1
+  basis: catchline-subject
   candidate: ORS 305.025
   catchline: Department of Revenue; organization; planning; seal
   text: (1) The Department of Revenue is established.
@@ -284,6 +491,7 @@ candidates:
 - slug: department-of-state-lands
   name: Department of State Lands
   tier: 1
+  basis: catchline-subject
   candidate: ORS 273.041
   catchline: Department of State Lands
   text: The Department of State Lands is created, and consists of the Director of the Department of State
@@ -292,6 +500,7 @@ candidates:
 - slug: department-of-state-lands-south-slough-national-estuarine-research-reserve
   name: Department of State Lands, South Slough National Estuarine Research Reserve
   tier: 2
+  basis: catchline-contains
   candidate: ORS 273.554
   catchline: South Slough National Estuarine Research Reserve Management Commission; powers; rules; fees
   text: 553, there is created the South Slough National Estuarine Research Reserve Management Commission.
@@ -299,6 +508,7 @@ candidates:
 - slug: department-of-state-police
   name: Department of State Police
   tier: 2
+  basis: catchline-contains
   candidate: ORS 181A.015
   catchline: Department of State Police established
   text: (1) There is established a Department of State Police.
@@ -306,6 +516,7 @@ candidates:
 - slug: department-of-state-police-oregon-state-athletic-commission
   name: Department of State Police, Oregon State Athletic Commission
   tier: 1
+  basis: catchline-subject
   candidate: ORS 463.113
   catchline: Oregon State Athletic Commission; rules; duties of commission and superintendent
   text: (1) There is created in the Department of State Police the Oregon State Athletic Commission, which
@@ -314,6 +525,7 @@ candidates:
 - slug: department-of-transportation
   name: Department of Transportation
   tier: 1
+  basis: catchline-subject
   candidate: ORS 184.615
   catchline: Department of Transportation; duties
   text: (1) The Department of Transportation is established.
@@ -321,6 +533,7 @@ candidates:
 - slug: department-of-veterans-affairs
   name: Department of Veterans' Affairs
   tier: 1
+  basis: catchline-subject
   candidate: ORS 406.005
   catchline: Department of Veterans’ Affairs; duties; rules
   text: (1) The Department of Veterans’ Affairs is established.
@@ -328,6 +541,7 @@ candidates:
 - slug: eastern-oregon-border-economic-development-board
   name: Eastern Oregon Border Economic Development Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 284.776
   catchline: Eastern Oregon Border Economic Development Board; members; quorum; meetings; advisory and
     technical committees; staffing
@@ -340,6 +554,7 @@ candidates:
 - slug: employment-department
   name: Employment Department
   tier: 1
+  basis: catchline-subject
   candidate: ORS 657.601
   catchline: Employment Department; duties
   text: There is established an Employment Department.
@@ -347,6 +562,7 @@ candidates:
 - slug: employment-relations-board
   name: Employment Relations Board
   tier: 3
+  basis: catchline-subject-no-verb
   candidate: ORS 240.060
   catchline: Employment Relations Board; qualification of members; outside activities
   text: 240.060 Employment Relations Board; qualification of members; outside activities. (1) The Civil
@@ -356,6 +572,7 @@ candidates:
 - slug: higher-education-coordinating-commission
   name: Higher Education Coordinating Commission
   tier: 1
+  basis: catchline-subject
   candidate: ORS 350.050
   catchline: Higher Education Coordinating Commission; members; confirmation
   text: (1) There is established a Higher Education Coordinating Commission, consisting of 15 voting members
@@ -364,6 +581,7 @@ candidates:
 - slug: higher-education-coordinating-commission-office-of-student-access-and-completion
   name: Higher Education Coordinating Commission, Office of Student Access and Completion
   tier: 1
+  basis: catchline-subject
   candidate: ORS 348.511
   catchline: Office of Student Access and Completion; director
   text: (1) The Office of Student Access and Completion is established and shall operate under the direction
@@ -372,6 +590,7 @@ candidates:
 - slug: land-use-board-of-appeals
   name: Land Use Board of Appeals
   tier: 1
+  basis: catchline-subject
   candidate: ORS 197.810
   catchline: Land Use Board of Appeals; appointment and removal of members; qualifications
   text: (1) There is hereby created a Land Use Board of Appeals consisting of not more than three positions.
@@ -379,6 +598,7 @@ candidates:
 - slug: landscape-architect-board
   name: Landscape Architect Board
   tier: 3
+  basis: catchline-subject-no-verb
   candidate: ORS 671.459
   catchline: State Landscape Architect Board; members; chair; term LANDSCAPE CONSTRUCTION PROFESSIONALS
     AND LANDSCAPE CONTRACTING BUSINESSES (Generally)
@@ -389,6 +609,7 @@ candidates:
 - slug: landscape-contractors-board
   name: Landscape Contractors Board
   tier: 3
+  basis: catchline-subject-no-verb
   candidate: ORS 671.630
   catchline: State Landscape Contractors Board; members
   text: 671.630 State Landscape Contractors Board; members. The State Landscape Contractors Board shall
@@ -398,6 +619,7 @@ candidates:
 - slug: legislative-administration-committee
   name: Legislative Administration Committee
   tier: 2
+  basis: catchline-contains
   candidate: ORS 173.710
   catchline: Legislative Administration Committee and office of Legislative Administrator established
   text: The Legislative Administration Committee hereby is established as a joint committee of the Legislative
@@ -406,6 +628,7 @@ candidates:
 - slug: legislative-equity-office
   name: Legislative Equity Office
   tier: 2
+  basis: catchline-clause
   candidate: ORS 173.900
   catchline: Joint Committee on Conduct established; Legislative Equity Office established; Legislative
     Equity Officer
@@ -414,6 +637,7 @@ candidates:
 - slug: legislative-policy-and-research-committee
   name: Legislative Policy and Research Committee
   tier: 2
+  basis: catchline-contains
   candidate: ORS 173.605
   catchline: Legislative Policy and Research Committee established; director
   text: (1) The Legislative Policy and Research Committee is established as a joint committee of the Legislative
@@ -422,6 +646,7 @@ candidates:
 - slug: legislative-revenue-office
   name: Legislative Revenue Office
   tier: 2
+  basis: catchline-contains
   candidate: ORS 173.800
   catchline: Appointing authority for Legislative Revenue Officer; selection of officer
   text: 850, during the interim between sessions of the Legislative Assembly, “appointing authority” means
@@ -431,6 +656,7 @@ candidates:
 - slug: long-term-care-ombudsman
   name: Long Term Care Ombudsman
   tier: 2
+  basis: catchline-contains
   candidate: ORS 441.403
   catchline: Office of Long Term Care Ombudsman; terms; appointment; confirmation; qualifications
   text: (1) The office of the Long Term Care Ombudsman is established.
@@ -438,6 +664,7 @@ candidates:
 - slug: mental-health-regulatory-agency
   name: Mental Health Regulatory Agency
   tier: 1
+  basis: catchline-subject
   candidate: ORS 675.160
   catchline: Mental Health Regulatory Agency
   text: (1) The Mental Health Regulatory Agency is created to provide for the more effective coordination
@@ -448,6 +675,7 @@ candidates:
 - slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
   name: Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
   tier: 1
+  basis: catchline-subject
   candidate: ORS 675.775
   catchline: Oregon Board of Licensed Professional Counselors and Therapists
   text: (1) The Oregon Board of Licensed Professional Counselors and Therapists is established.
@@ -455,6 +683,7 @@ candidates:
 - slug: mental-health-regulatory-agency-oregon-board-of-psychology
   name: Mental Health Regulatory Agency, Oregon Board of Psychology
   tier: 1
+  basis: catchline-subject
   candidate: ORS 675.100
   catchline: Oregon Board of Psychology
   text: (1) There hereby is created the Oregon Board of Psychology consisting of nine members appointed
@@ -463,6 +692,7 @@ candidates:
 - slug: mortuary-and-cemetery-board
   name: Mortuary and Cemetery Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 692.300
   catchline: State Mortuary and Cemetery Board; appointment; term; qualifications
   text: (1) There is created the State Mortuary and Cemetery Board to carry out the purposes and enforce
@@ -471,6 +701,7 @@ candidates:
 - slug: occupational-therapy-licensing-board
   name: Occupational Therapy Licensing Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 675.310
   catchline: Occupational Therapy Licensing Board
   text: (1) There is created the Occupational Therapy Licensing Board.
@@ -478,6 +709,7 @@ candidates:
 - slug: oregon-529-savings-board
   name: Oregon 529 Savings Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 178.310
   catchline: Oregon 529 Savings Board; membership
   text: (1) There is established the Oregon 529 Savings Board to administer ORS 178.
@@ -485,6 +717,7 @@ candidates:
 - slug: oregon-advocacy-commissions-office
   name: Oregon Advocacy Commissions Office
   tier: 1
+  basis: catchline-subject
   candidate: ORS 185.005
   catchline: Oregon Advocacy Commissions Office
   text: 'The Oregon Advocacy Commissions Office is established to provide administrative support to: (1)
@@ -494,6 +727,7 @@ candidates:
 - slug: oregon-board-of-accountancy
   name: Oregon Board of Accountancy
   tier: 1
+  basis: catchline-subject
   candidate: ORS 673.410
   catchline: Oregon Board of Accountancy; confirmation; qualifications; enforcement authority; rules
   text: (1) There is created an Oregon Board of Accountancy consisting of seven members.
@@ -501,6 +735,7 @@ candidates:
 - slug: oregon-board-of-dentistry
   name: Oregon Board of Dentistry
   tier: 3
+  basis: catchline-subject-no-verb
   candidate: ORS 679.230
   catchline: Oregon Board of Dentistry; appointment; qualifications; confirmation; compensation and expenses
   text: 679.230 Oregon Board of Dentistry; appointment; qualifications; confirmation; compensation and
@@ -510,6 +745,7 @@ candidates:
 - slug: oregon-board-of-naturopathic-medicine
   name: Oregon Board of Naturopathic Medicine
   tier: 1
+  basis: catchline-subject
   candidate: ORS 685.160
   catchline: Oregon Board of Naturopathic Medicine
   text: (1) The Oregon Board of Naturopathic Medicine is created, consisting of seven members appointed
@@ -518,6 +754,7 @@ candidates:
 - slug: oregon-board-of-physical-therapy
   name: Oregon Board of Physical Therapy
   tier: 3
+  basis: catchline-subject-no-verb
   candidate: ORS 688.160
   catchline: Oregon Board of Physical Therapy; qualifications; terms; vacancies; duties; rules; fees;
     meetings; executive director
@@ -528,6 +765,7 @@ candidates:
 - slug: oregon-business-development-department
   name: Oregon Business Development Department
   tier: 1
+  basis: catchline-subject
   candidate: ORS 285A.070
   catchline: Oregon Business Development Department; organization; director; confirmation; duties and
     powers; rules
@@ -536,6 +774,7 @@ candidates:
 - slug: oregon-criminal-justice-commission
   name: Oregon Criminal Justice Commission
   tier: 1
+  basis: catchline-subject
   candidate: ORS 137.654
   catchline: Oregon Criminal Justice Commission; membership; terms; meetings
   text: '(1) There is established the Oregon Criminal Justice Commission consisting of 12 members as follows:
@@ -547,6 +786,7 @@ candidates:
 - slug: oregon-department-of-aviation
   name: Oregon Department of Aviation
   tier: 1
+  basis: catchline-subject
   candidate: ORS 835.100
   catchline: Oregon Department of Aviation; director
   text: (1) The Oregon Department of Aviation is established.
@@ -554,6 +794,7 @@ candidates:
 - slug: oregon-department-of-education
   name: Oregon Department of Education
   tier: 1
+  basis: catchline-subject
   candidate: ORS 326.111
   catchline: Department of Education; composition; functions; subpoenas; rules
   text: (1) The Department of Education is created and shall function under the direction and control
@@ -563,6 +804,7 @@ candidates:
 - slug: oregon-department-of-education-fair-dismissal-appeals-board
   name: Oregon Department of Education, Fair Dismissal Appeals Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 342.930
   catchline: Fair Dismissal Appeals Board; rules
   text: (1) The Fair Dismissal Appeals Board is created, consisting of 24 members appointed by the Governor,
@@ -571,6 +813,7 @@ candidates:
 - slug: oregon-department-of-education-youth-development-division
   name: Oregon Department of Education, Youth Development Division
   tier: 1
+  basis: catchline-subject
   candidate: ORS 417.852
   catchline: Youth Development Division; purpose; administrative officer
   text: (1) The Youth Development Division is established in the Department of Education.
@@ -578,6 +821,7 @@ candidates:
 - slug: oregon-facilities-authority
   name: Oregon Facilities Authority
   tier: 1
+  basis: catchline-subject
   candidate: ORS 289.100
   catchline: Oregon Facilities Authority; members; qualifications; term
   text: (1) There is created a body politic and corporate to be known as the Oregon Facilities Authority.
@@ -585,6 +829,7 @@ candidates:
 - slug: oregon-film-and-video-office
   name: Oregon Film and Video Office
   tier: 1
+  basis: catchline-subject
   candidate: ORS 284.305
   catchline: Oregon Film and Video Office; status; continuing state obligation to support office
   text: (1) The Oregon Film and Video Office is created as a semi-independent state agency subject to
@@ -593,6 +838,7 @@ candidates:
 - slug: oregon-forest-resources-institute
   name: Oregon Forest Resources Institute
   tier: 1
+  basis: catchline-subject
   candidate: ORS 526.610
   catchline: Oregon Forest Resources Institute; board of directors; eligibility
   text: There is created the Oregon Forest Resources Institute.
@@ -600,6 +846,7 @@ candidates:
 - slug: oregon-government-ethics-commission
   name: Oregon Government Ethics Commission
   tier: 1
+  basis: catchline-subject
   candidate: ORS 244.250
   catchline: Oregon Government Ethics Commission; appointment; term; quorum; compensation; legal counsel
   text: (1) The Oregon Government Ethics Commission is established, consisting of nine members.
@@ -607,6 +854,7 @@ candidates:
 - slug: oregon-health-authority
   name: Oregon Health Authority
   tier: 2
+  basis: catchline-contains
   candidate: ORS 413.032
   catchline: Establishment of Oregon Health Authority
   text: (1) The Oregon Health Authority is established.
@@ -614,6 +862,7 @@ candidates:
 - slug: oregon-health-authority-health-licensing-office
   name: Oregon Health Authority, Health Licensing Office
   tier: 2
+  basis: catchline-contains
   candidate: ORS 676.560
   catchline: Purpose of Health Licensing Office
   text: (1) To provide for the more effective coordination of administrative and regulatory functions
@@ -624,6 +873,7 @@ candidates:
 - slug: oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board
   name: Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 676.806
   catchline: Behavior Analysis Regulatory Board
   text: '(1) There is created, within the Health Licensing Office, the Behavior Analysis Regulatory Board
@@ -633,6 +883,7 @@ candidates:
 - slug: oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians
   name: Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians
   tier: 1
+  basis: catchline-subject
   candidate: ORS 676.650
   catchline: Board of Certified Advanced Estheticians
   text: '(1) There is established the Board of Certified Advanced Estheticians within the Health Licensing
@@ -643,6 +894,7 @@ candidates:
 - slug: oregon-health-authority-health-licensing-office-board-of-cosmetology
   name: Oregon Health Authority, Health Licensing Office, Board of Cosmetology
   tier: 1
+  basis: catchline-subject
   candidate: ORS 690.155
   catchline: Board of Cosmetology
   text: (1) There is established within the Health Licensing Office the Board of Cosmetology consisting
@@ -651,6 +903,7 @@ candidates:
 - slug: oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery
   name: Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery
   tier: 1
+  basis: catchline-subject
   candidate: ORS 687.470
   catchline: State Board of Direct Entry Midwifery; establishment; appointment; confirmation; membership;
     compensation and expenses
@@ -659,6 +912,7 @@ candidates:
 - slug: oregon-health-authority-health-licensing-office-environmental-health-registration-board
   name: Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 700.210
   catchline: Environmental Health Registration Board
   text: There is established within the Health Licensing Office the Environmental Health Registration
@@ -667,6 +921,7 @@ candidates:
 - slug: oregon-health-authority-health-licensing-office-long-term-care-administrators-board
   name: Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 678.800
   catchline: Long Term Care Administrators Board
   text: (1) The Long Term Care Administrators Board is established within the Health Licensing Office.
@@ -674,6 +929,7 @@ candidates:
 - slug: oregon-health-authority-health-policy-and-analytics
   name: Oregon Health Authority, Health Policy and Analytics
   tier: 2
+  basis: catchline-contains
   candidate: ORS 442.011
   catchline: Health Policy and Analytics Division created in Oregon Health Authority
   text: There is created in the Oregon Health Authority the Health Policy and Analytics Division.
@@ -681,6 +937,7 @@ candidates:
 - slug: oregon-health-authority-oregon-prescription-drug-program
   name: Oregon Health Authority, Oregon Prescription Drug Program
   tier: 1
+  basis: catchline-subject
   candidate: ORS 414.312
   catchline: Oregon Prescription Drug Program
   text: (2) The Oregon Prescription Drug Program is established in the Oregon Health Authority.
@@ -688,6 +945,7 @@ candidates:
 - slug: oregon-health-authority-public-employees-benefit-board
   name: Oregon Health Authority, Public Employees' Benefit Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 243.061
   catchline: Public Employees’ Benefit Board; members; term; confirmation; expenses
   text: (1) There is created in the Oregon Health Authority the Public Employees’ Benefit Board consisting
@@ -697,6 +955,7 @@ candidates:
 - slug: oregon-housing-and-community-services-department
   name: Oregon Housing and Community Services Department
   tier: 2
+  basis: catchline-contains
   candidate: ORS 456.555
   catchline: Housing and Community Services Department established; appointment of director; rules; fees
   text: (1) The Housing and Community Services Department is established.
@@ -704,6 +963,7 @@ candidates:
 - slug: oregon-investment-council
   name: Oregon Investment Council
   tier: 1
+  basis: catchline-subject
   candidate: ORS 293.706
   catchline: Oregon Investment Council; appointment; term; vacancies
   text: (1) There is created the Oregon Investment Council, consisting of five voting members and one
@@ -712,6 +972,7 @@ candidates:
 - slug: oregon-medical-board
   name: Oregon Medical Board
   tier: 3
+  basis: catchline-subject-no-verb
   candidate: ORS 677.235
   catchline: Oregon Medical Board; membership; confirmation; terms; vacancies; compensation
   text: 677.235 Oregon Medical Board; membership; confirmation; terms; vacancies; compensation. (1) The
@@ -721,6 +982,7 @@ candidates:
 - slug: oregon-patient-safety-commission
   name: Oregon Patient Safety Commission
   tier: 1
+  basis: catchline-subject
   candidate: ORS 442.820
   catchline: Oregon Patient Safety Commission
   text: (1) The Oregon Patient Safety Commission is established as a semi-independent state agency subject
@@ -729,6 +991,7 @@ candidates:
 - slug: oregon-racing-commission
   name: Oregon Racing Commission
   tier: 1
+  basis: catchline-subject
   candidate: ORS 462.210
   catchline: Oregon Racing Commission; appointment; confirmation
   text: (1) There is created the Oregon Racing Commission to consist of five commissioners who shall be
@@ -737,6 +1000,7 @@ candidates:
 - slug: oregon-state-library
   name: Oregon State Library
   tier: 2
+  basis: catchline-contains
   candidate: ORS 357.021
   catchline: State Library Board; members; terms
   text: (1) The State Library Board is established, consisting of nine voting members.
@@ -744,6 +1008,7 @@ candidates:
 - slug: oregon-state-lottery
   name: Oregon State Lottery
   tier: 2
+  basis: catchline-contains
   candidate: ORS 461.100
   catchline: Oregon State Lottery Commission; members; duties; meetings
   text: (1) The Oregon State Lottery Commission is hereby created in state government.
@@ -751,6 +1016,7 @@ candidates:
 - slug: oregon-state-marine-board
   name: Oregon State Marine Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 830.105
   catchline: State Marine Board
   text: (1) There hereby is created the State Marine Board consisting of five members to be appointed
@@ -759,6 +1025,7 @@ candidates:
 - slug: oregon-tourism-commission
   name: Oregon Tourism Commission
   tier: 1
+  basis: catchline-subject
   candidate: ORS 284.107
   catchline: Oregon Tourism Commission; qualifications; confirmation; term; compensation and expenses;
     officers; quorum
@@ -768,6 +1035,7 @@ candidates:
 - slug: oregon-utility-notification-center
   name: Oregon Utility Notification Center
   tier: 1
+  basis: catchline-subject
   candidate: ORS 757.547
   catchline: Oregon Utility Notification Center; board; member qualifications; terms; meetings; rules
   text: (1)(a) The Oregon Utility Notification Center is created as an independent not-for-profit public
@@ -776,6 +1044,7 @@ candidates:
 - slug: oregon-watershed-enhancement-board
   name: Oregon Watershed Enhancement Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 541.900
   catchline: Oregon Watershed Enhancement Board; officers; qualifications
   text: (1) The Oregon Watershed Enhancement Board is created.
@@ -783,6 +1052,7 @@ candidates:
 - slug: oregon-wine-board
   name: Oregon Wine Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 576.856
   catchline: Oregon Wine Board
   text: (1) The Oregon Wine Board is established as a semi-independent state agency subject to ORS 182.
@@ -790,6 +1060,7 @@ candidates:
 - slug: psychiatric-security-review-board
   name: Psychiatric Security Review Board
   tier: 1
+  basis: catchline-subject
   candidate: ORS 161.385
   catchline: Psychiatric Security Review Board; composition, term, qualifications, compensation, appointment,
     confirmation and meetings
@@ -800,6 +1071,7 @@ candidates:
 - slug: public-records-advocate
   name: Public Records Advocate
   tier: 1
+  basis: catchline-subject
   candidate: ORS 192.461
   catchline: Public Records Advocate
   text: (1) The office of the Public Records Advocate is created as an independent office within the executive
@@ -808,6 +1080,7 @@ candidates:
 - slug: public-utility-commission
   name: Public Utility Commission
   tier: 1
+  basis: catchline-subject
   candidate: ORS 756.014
   catchline: Public Utility Commission; appointment; confirmation; term; removal
   text: (1) There is created the Public Utility Commission of Oregon.
@@ -815,6 +1088,7 @@ candidates:
 - slug: public-utility-commission-oregon-board-of-maritime-pilots
   name: Public Utility Commission, Oregon Board of Maritime Pilots
   tier: 1
+  basis: catchline-subject
   candidate: ORS 776.105
   catchline: Oregon Board of Maritime Pilots; term; qualifications; appointment; quorum
   text: (1) The Oregon Board of Maritime Pilots is established within the Public Utility Commission of
@@ -823,6 +1097,7 @@ candidates:
 - slug: real-estate-agency
   name: Real Estate Agency
   tier: 1
+  basis: catchline-subject
   candidate: ORS 696.375
   catchline: Real Estate Agency; Real Estate Commissioner; confirmation, salary and security of commissioner
   text: (1) The Real Estate Agency is established.
@@ -830,6 +1105,7 @@ candidates:
 - slug: secretary-of-state
   name: Secretary of State
   tier: 2
+  basis: catchline-contains
   candidate: ORS 56.014
   catchline: Secretary of State as filing officer; duties
   text: (1) The Operating Account is established in the General Fund of the State Treasury.
@@ -837,6 +1113,7 @@ candidates:
 - slug: state-board-of-architect-examiners
   name: State Board of Architect Examiners
   tier: 3
+  basis: catchline-subject-no-verb
   candidate: ORS 671.120
   catchline: State Board of Architect Examiners; members; term; chair
   text: 671.120 State Board of Architect Examiners; members; term; chair. The State Board of Architect
@@ -846,6 +1123,7 @@ candidates:
 - slug: state-board-of-tax-practitioners
   name: State Board of Tax Practitioners
   tier: 1
+  basis: catchline-subject
   candidate: ORS 673.725
   catchline: State Board of Tax Practitioners; term; qualification
   text: (1) There is created a State Board of Tax Practitioners.
@@ -853,6 +1131,7 @@ candidates:
 - slug: travel-information-council
   name: Travel Information Council
   tier: 2
+  basis: catchline-contains
   candidate: ORS 377.835
   catchline: Creation of Travel Information Council as semi-independent state agency; members; qualifications;
     appointment; terms; chairperson; quorum; executive director; r
@@ -861,6 +1140,7 @@ candidates:
 - slug: veterinary-medical-examining-board
   name: Veterinary Medical Examining Board
   tier: 2
+  basis: catchline-contains
   candidate: ORS 686.210
   catchline: Oregon State Veterinary Medical Examining Board; rules
   text: (1) There is created the Oregon State Veterinary Medical Examining Board, which shall carry out
@@ -869,6 +1149,7 @@ candidates:
 - slug: water-resources-department
   name: Water Resources Department
   tier: 1
+  basis: catchline-subject
   candidate: ORS 536.039
   catchline: Water Resources Department
   text: There is hereby established in the executive-administrative branch of the government of the state
@@ -887,46 +1168,8 @@ no_candidate:
   name: Department of Administrative Services, Chief Human Resources Office
 - slug: department-of-administrative-services-office-of-the-state-chief-information-officer
   name: Department of Administrative Services, Office of the State Chief Information Officer
-- slug: department-of-agriculture-oregon-albacore-commission
-  name: Department of Agriculture, Oregon Albacore Commission
 - slug: department-of-agriculture-oregon-alfalfa-seed-commission
   name: Department of Agriculture, Oregon Alfalfa Seed Commission
-- slug: department-of-agriculture-oregon-blueberry-commission
-  name: Department of Agriculture, Oregon Blueberry Commission
-- slug: department-of-agriculture-oregon-clover-seed-commission
-  name: Department of Agriculture, Oregon Clover Seed Commission
-- slug: department-of-agriculture-oregon-dairy-products-commission
-  name: Department of Agriculture, Oregon Dairy Products Commission
-- slug: department-of-agriculture-oregon-dungeness-crab-commission
-  name: Department of Agriculture, Oregon Dungeness Crab Commission
-- slug: department-of-agriculture-oregon-fine-fescue-commission
-  name: Department of Agriculture, Oregon Fine Fescue Commission
-- slug: department-of-agriculture-oregon-hazelnut-commission
-  name: Department of Agriculture, Oregon Hazelnut Commission
-- slug: department-of-agriculture-oregon-hop-commission
-  name: Department of Agriculture, Oregon Hop Commission
-- slug: department-of-agriculture-oregon-mint-commission
-  name: Department of Agriculture, Oregon Mint Commission
-- slug: department-of-agriculture-oregon-potato-commission
-  name: Department of Agriculture, Oregon Potato Commission
-- slug: department-of-agriculture-oregon-processed-vegetable-commission
-  name: Department of Agriculture, Oregon Processed Vegetable Commission
-- slug: department-of-agriculture-oregon-raspberry-and-blackberry-commission
-  name: Department of Agriculture, Oregon Raspberry and Blackberry Commission
-- slug: department-of-agriculture-oregon-ryegrass-growers-seed-commission
-  name: Department of Agriculture, Oregon Ryegrass Growers Seed Commission
-- slug: department-of-agriculture-oregon-salmon-commission
-  name: Department of Agriculture, Oregon Salmon Commission
-- slug: department-of-agriculture-oregon-sheep-commission
-  name: Department of Agriculture, Oregon Sheep Commission
-- slug: department-of-agriculture-oregon-strawberry-commission
-  name: Department of Agriculture, Oregon Strawberry Commission
-- slug: department-of-agriculture-oregon-sweet-cherry-commission
-  name: Department of Agriculture, Oregon Sweet Cherry Commission
-- slug: department-of-agriculture-oregon-tall-fescue-commission
-  name: Department of Agriculture, Oregon Tall Fescue Commission
-- slug: department-of-agriculture-oregon-trawl-commission
-  name: Department of Agriculture, Oregon Trawl Commission
 - slug: department-of-consumer-and-business-services-building-codes-division
   name: Department of Consumer and Business Services, Building Codes Division
 - slug: department-of-consumer-and-business-services-director-s-office

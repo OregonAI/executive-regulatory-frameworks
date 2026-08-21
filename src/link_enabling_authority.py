@@ -40,7 +40,16 @@ reason alone. They are now tier 3, which asks the reviewer a different question 
 1 does: not "is this citation right" but "does this section constitute the body, or
 describe one constituted elsewhere". ORS 346.180 shows why that must stay a question — it
 reached tier 3 for the DHS vocational-rehabilitation division and is about a Commission
-for the Blind program. It is a better signal because a catchline states what the section is
+for the Blind program.
+
+AND A BODY CAN BE CREATED WITHOUT EVER APPEARING IN A CATCHLINE. ORS 576.062 is titled
+`Establishment of commodity commissions` and reads "The following commodity commissions are
+established as state commissions: (1) The Oregon Dairy Products Commission. …". Nineteen
+bodies are created there and named there, and catchline anchoring found none of them,
+because the catchline names the CATEGORY. That was 19 of the 82 remaining no-candidate
+rows — the largest single block left — and every one is now tier 1 on `enumerated-list`.
+Only items following the creating phrase count: a section enumerates duties and exemptions
+as readily as bodies. It is a better signal because a catchline states what the section is
 ABOUT, where proximity only states what words are nearby.
 
 It is still not a verdict. Tier 2 widens to catchline subjects that merely contain the
@@ -55,7 +64,7 @@ mirrored corpus, in CI, from committed data alone.
 
 UNMAPPED IS EXPLICIT, never implied by absence — "we looked and there is no counterpart" and
 "nobody has looked yet" must not be the same state (CONTEXT.md; link_budget_codes.py).
-82 of 189 bodies have no candidate at all, and several never will: the Secretary of State
+63 of 189 bodies have no candidate at all, and several never will: the Secretary of State
 and the State Treasurer are CONSTITUTIONAL offices, which is why the field is an authority
 rather than a statute. That number was 118 until a run of the proposer showed the gap was
 the registry's own `Parent, Child` name format rather than silent statutes — see
@@ -164,6 +173,30 @@ def _statute_sections() -> list[tuple[str, str, str, str, bool]]:
     return out
 
 
+ENUMERATED = re.compile(r"\(\d+\)\s*The ([A-Z][^.;]{4,90}?)\.")
+
+
+def _enumerated(body: str) -> set[str]:
+    """Bodies named as items of a creating list, normalised.
+
+    ORS 576.062 is titled `Establishment of commodity commissions` and reads "The following
+    commodity commissions are established as state commissions: (1) The Oregon Dairy
+    Products Commission. (2) The Oregon Hazelnut Commission. …". Every one of those IS
+    created by statute and named in it, but no catchline names any of them, so catchline
+    anchoring reports nineteen bodies as having no candidate while the section that creates
+    them sits in the mirror. Nineteen of the registry's twenty-three commodity rows match
+    this list exactly.
+
+    Only items AFTER the creation phrase count. A section may enumerate duties, members or
+    exemptions as readily as bodies, and a list that precedes the creating words is not a
+    list of things being created.
+    """
+    m = CREATE.search(body)
+    if not m:
+        return set()
+    return {_norm(x) for x in ENUMERATED.findall(body[m.start():])}
+
+
 def _quote(body: str) -> str:
     """The sentence that matched, so a reviewer reads rather than researches.
 
@@ -203,6 +236,9 @@ def _first_sentence(body: str) -> str:
 def propose() -> int:
     orgs = yaml.safe_load(CATALOG.read_text())["organizations"]
     sections = _statute_sections()
+    # Enumerations are extracted ONCE. Doing it inside the per-body loop is 189 x 37,465
+    # regex passes over full section text for a match that changes for neither.
+    enumerations = [(c, t, b, _enumerated(b)) for c, t, _s, b, made in sections if made]
     rows, unmatched = [], []
 
     for org in orgs:
@@ -211,18 +247,23 @@ def propose() -> int:
             continue
         names = _variants(org["name"])
         hit = None
-        for cite, title, subject, body, made in sections:    # tier 1: subject IS the body
+        for cite, title, subject, body, made in sections:    # subject IS the body
             if made and subject in names:
-                hit = (1, cite, title, _quote(body))
+                hit = (1, "catchline-subject", cite, title, _quote(body))
                 break
-        if hit is None:                                      # tier 2: subject contains it
+        if hit is None:                                      # named in a creating list
+            for cite, title, body, items in enumerations:
+                if names & items:
+                    hit = (1, "enumerated-list", cite, title, _quote(body))
+                    break
+        if hit is None:                                      # subject contains the name
             for cite, title, subject, body, made in sections:
                 if not made or NOT_A_BODY.search(title) or len(subject) <= 12:
                     continue
                 if subject in names or any(v in subject for v in names):
-                    hit = (2, cite, title, _quote(body))
+                    hit = (2, "catchline-contains", cite, title, _quote(body))
                     break
-        if hit is None:                                      # tier 2: a later catchline clause
+        if hit is None:                                      # named in a later clause
             for cite, title, subject, body, made in sections:
                 if not made:
                     continue
@@ -230,22 +271,23 @@ def propose() -> int:
                     if not CLAUSE_CREATE.search(clause) or NOT_A_BODY.search(clause):
                         continue
                     if any(v in _norm(clause) for v in names if len(v) > 12):
-                        hit = (2, cite, title, _quote(body))
+                        hit = (2, "catchline-clause", cite, title, _quote(body))
                         break
                 if hit:
                     break
-        if hit is None:                                      # tier 3: named exactly, no verb
+        if hit is None:                                      # named exactly, no creation verb
             for cite, title, subject, body, made in sections:
                 if made or NOT_A_BODY.search(title) or len(subject) <= 12:
                     continue
                 if subject in names:
-                    hit = (3, cite, title, _first_sentence(body))
+                    hit = (3, "catchline-subject-no-verb", cite, title,
+                           _first_sentence(body))
                     break
         if hit is None:
             unmatched.append({"slug": slug, "name": org["name"]})
         else:
-            tier, cite, title, quote = hit
-            rows.append({"slug": slug, "name": org["name"], "tier": tier,
+            tier, basis, cite, title, quote = hit
+            rows.append({"slug": slug, "name": org["name"], "tier": tier, "basis": basis,
                          "candidate": cite, "catchline": title, "text": quote,
                          "verdict": ""})
 
@@ -262,6 +304,11 @@ def propose() -> int:
                  "creation verb, so tier 3 is not weaker than tier 2, it asks a DIFFERENT "
                  "question: does this section CONSTITUTE the body, or describe one "
                  "constituted elsewhere? Tiers 2 and 3 are where the wrong answers live. "
+                 "`basis` says HOW the row matched, which tier alone does not: "
+                 "catchline-subject, enumerated-list, catchline-contains, "
+                 "catchline-clause, or catchline-subject-no-verb. A tier-1 row matched "
+                 "on an enumerated list is as strong as one matched on a catchline, but "
+                 "it is checked differently — read the list item, not the catchline. "
                  "`text` is the excerpt that matched, quoted so review is "
                  "reading rather than research — an EXCERPT with whitespace collapsed, "
                  "NOT citable verbatim text. Read the cited section itself before "
