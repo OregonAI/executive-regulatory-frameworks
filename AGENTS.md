@@ -430,8 +430,14 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   `python3 src/link_enabling_authority.py --apply` from the hand-reviewed `MAPPED` /
   `UNMAPPED` tables in that file — its single writer, the same arrangement the DAS number
   has — and gated by that script's `--check` (CI, every PR): every citation is resolved
-  against the mirrored ORS and executive orders, and the registry is compared with the table
-  in BOTH directions, so a row that acquired an authority any other way fails. `--propose`
+  against the mirrored ORS, executive orders and — since #196 — the mirrored Oregon
+  Constitution, and the registry is compared with the table in BOTH directions, so a row
+  that acquired an authority any other way fails. All three of ADR 0003's forms now resolve
+  against a document; none is taken on form alone. A constitutional citation that resolves
+  to nothing is told WHICH nothing it hit — the page prints no such article, the article
+  carries no sections, the page prints no such section in it, the section is printed and
+  this corpus published no text for it (ADR 0005's 32 `history-only` sections), or the
+  numeral names two operative articles and choosing one would be a guess. `--propose`
   writes a review sheet of candidates and never touches the registry; `--selftest` proves
   every one of those rules can fail. An ABSENT `enabling_authority` means nobody has
   reviewed that body yet — never that the body has none; a reviewed body with no separate

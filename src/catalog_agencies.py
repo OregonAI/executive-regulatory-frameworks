@@ -590,10 +590,11 @@ AUTHORITY_FORMS = (
     # so widening this form is that decision, taken here, rather than a formatting tweak.
     ("ors", re.compile(r"ORS \d+[A-Z]?\.\d+")),
     # `Or. Const. Art. VI, sec. 1` — the Secretary of State's, and the spelling CONTEXT.md
-    # and ADR 0005 both use. RESOLVING one is #196's; this form says only that the value is
-    # spelled like a citation, and both gates still report the constitutional rows
-    # separately for that reason — "could not check" is never reported as "is not there"
-    # (CONTEXT.md).
+    # and ADR 0005 both use. THIS FORM SAYS ONLY THAT THE VALUE IS SPELLED LIKE A CITATION,
+    # which is all a registry-contract check can say: RESOLVING one against the mirrored
+    # Constitution is `link_enabling_authority.py --check`'s, and it does it since #196 —
+    # the same division of labour the `ors` form above has with the mirrored statutes, and
+    # the reason `Or. Const. Art. XVII, sec. 99` passes here and fails there.
     #
     # THE ARTICLE HALF IS NOT WRITTEN HERE. It is `repo_lib.ORCONST_ARTICLE_TOKEN`, the same
     # declaration `citation_schemes.OR_CONST_C` interpolates, so this allowlist and the

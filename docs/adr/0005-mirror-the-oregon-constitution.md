@@ -236,8 +236,61 @@ all of them measured rather than feared:
    print a `Note:` between the contents list and the first section. Both were parsing traps
    that put page furniture into a document's title or its body.
 
-**What this does not settle** is unchanged from the ADR above, and one thing is added to it.
-Resolving a registry row's constitutional enabling authority against the mirror is now
-possible and is #196; `link_enabling_authority.py --check` still reports those rows as form-
-checked and unresolved, because turning that on is a decision about ADMITTING evidence and not
-a consequence of this change.
+**What this does not settle** is unchanged from the ADR above, and one thing was added to it
+and has since been settled: resolving a registry row's constitutional enabling authority
+against the mirror was #196, and the amendment below is what it decided.
+
+## Amendment: the third form of admitting evidence resolves, and says which nothing it hit
+
+Written 2026-08-21 with #196, which is the payoff this ADR was argued for and the only part of
+it the agency registry ever needed. `link_enabling_authority.py --check` now resolves a
+constitutional enabling authority against the mirror, exactly as it resolves an ORS citation
+against the mirrored statutes and an executive order against the mirrored orders. **All three
+of ADR 0003's forms are checked against a document; none is taken on form alone.** The
+`form checked, not resolved` line is gone from the report, because the class it counted is
+empty rather than small.
+
+`Or. Const. Art. XVII, sec. 99` — this ADR's own example, and the reason the hole was worth
+closing — no longer passes. Under ADR 0003 an enabling authority is ADMITTING evidence: it
+alone can put a body in the registry, so a class of it that nothing could verify was a hole in
+the rule, and Article XVII has two sections.
+
+**THE DECISION THAT TOOK THE WORK IS NOT "DOES IT RESOLVE".** It is that an authority
+resolving to nothing must say WHICH nothing, because a registry row citing a section Oregon
+repealed and a row citing a section that never existed are different errors and send a
+reviewer to re-read different documents. The amendment above established three of those and
+found a fourth; the gate reports five, and `--selftest` holds a permanent proof that no two of
+them are given the same answer:
+
+* the source page prints no such article — the citation is wrong;
+* the article is printed and carries no sections (`no-sections`, the shape of a repealed
+  article) — XI-A, XI-B and XI-C;
+* the page prints no such section in that article — the citation is wrong, differently;
+* the page prints the section and this corpus published no text for it (`history-only`, the 32
+  sections printed as a leadline and a repeal bracket);
+* and the numeral names TWO operative articles, where the answer is a refusal to guess rather
+  than a failure to resolve. A bare `Or. Const. Art. VII, sec. 1` resolves to nothing on
+  purpose — the page prints that numeral only as (Amended) and (Original) — and the gate names
+  both citations the reviewer must choose between. It may not stand as admitting evidence,
+  not because it is wrong but because it does not yet name one article, and evidence has to
+  name the thing that admits.
+
+**The catalog says which, not the filesystem.** `_meta/catalog/constitution.yml` records a
+status and a reason per article and per section, so none of the five is inferred from a file
+being missing — which is also why a sixth answer exists: the catalog recording a section as
+published while `constitution/` does not carry it is a statement about THIS CORPUS, worded so
+a reviewer is not sent back to the Constitution, and it points at `ingest_constitution.py
+--check`, whose gate that is.
+
+**It resolves through the `or-const` citation scheme**, which is the code path
+`resolve_citation` serves to an agent — the gate and the answer an agent gets cannot disagree,
+and restating the lookup would have been the third declaration of what a constitutional
+citation means after the amendment above retired the second. An empty `constitution/` makes
+the gate REFUSE TO ANSWER rather than report every constitutional authority as citing nothing;
+that is CONTEXT.md's overriding rule on the population where breaking it is worst, and it is
+proved failing rather than asserted.
+
+**This records no authority.** The ~9 bodies whose enabling authority is a constitutional
+article are folded into #169's review population, where six of them already sit; `MAPPED` and
+`UNMAPPED` are untouched. What changed is that the review's output is now checkable rather
+than taken on faith.

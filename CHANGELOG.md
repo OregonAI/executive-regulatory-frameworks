@@ -45,6 +45,39 @@ corpus-wide changes from 2026-08-02 forward.
   said out loud rather than left to be discovered.
 
 ### Added
+- 2026-08-21 — A constitutional enabling authority is RESOLVED against the mirror, not merely
+  read for shape (#196, ADR 0005's amendment). `link_enabling_authority.py --check` resolves
+  all three of ADR 0003's forms against a mirrored document now: an ORS citation against the
+  mirrored statutes, an executive order against the mirrored orders, and a constitutional
+  article against the **339 mirrored sections** of the Oregon Constitution. The
+  `form checked, not resolved` line is GONE from the report and the constitutional count moved
+  onto `resolved against the mirror` — the class that line counted is empty rather than small.
+  `Or. Const. Art. XVII, sec. 99`, ADR 0005's own example of a citation that was well-formed
+  and unverifiable, no longer passes: under ADR 0003 an enabling authority is ADMITTING
+  evidence, so a class of it nothing could check was a hole in the rule rather than a
+  formatting inconvenience. WHAT TOOK THE WORK IS NOT "DOES IT RESOLVE" — it is that an
+  authority resolving to nothing says WHICH nothing, because a row citing a section Oregon
+  repealed and a row citing a section that never existed are different errors and send a
+  reviewer to re-read different documents. Five answers, none of them worded like another and
+  none inferred from a missing file (`_meta/catalog/constitution.yml` records a status and a
+  reason per article and per section): the page prints no such article; the article is printed
+  and carries no sections (XI-A, XI-B, XI-C); the page prints no such section in it; the page
+  prints the section and this corpus published no text for it (the 32 `history-only` sections);
+  and the numeral names TWO operative articles, where resolving to nothing is a REFUSAL TO
+  GUESS rather than a failure — a bare `Or. Const. Art. VII, sec. 1` is answered with the two
+  citations to choose between, because the page prints that numeral only as (Amended) and
+  (Original). A sixth answer is a statement about this corpus rather than about the
+  Constitution — the catalog recording a section as published while `constitution/` does not
+  carry it — and it points at `ingest_constitution.py --check`, whose gate that is. Resolution
+  runs through the `or-const` citation scheme, the same code path `resolve_citation` serves to
+  an agent, so the gate and the answer an agent gets cannot disagree; an empty `constitution/`
+  makes the gate REFUSE TO ANSWER rather than report every constitutional authority as citing
+  nothing (CONTEXT.md), and that refusal is proved failing rather than asserted. `--selftest`
+  holds 19 demonstrated-failing proofs, five of them constitutional citations that must fire
+  `authority-resolves` and one that no two of the five answers are the same string.
+  **NO AUTHORITY IS RECORDED**: `MAPPED` and `UNMAPPED` are untouched, all 189 rows still read
+  "nobody has looked yet", and the ~9 bodies whose authority is a constitutional article stay
+  in #169's review population.
 - 2026-08-21 — A recheck cadence for the BALLOT-MEASURE cycle, and one place a cadence is
   declared (#193). ADR 0005 reads **ACCEPTED**: the decision to mirror the Oregon
   Constitution is taken, nothing is ingested yet (#194), and the cadence that ADR argues

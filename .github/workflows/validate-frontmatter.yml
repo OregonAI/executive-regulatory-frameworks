@@ -120,6 +120,16 @@ jobs:
       # synthetic table and a synthetic registry, which matters most right now: the
       # reviewed table is EMPTY, so the gate below has almost nothing of its own to say
       # yet, and an empty table is exactly when a quiet gate looks like a passing one.
+      #
+      # THE CONSTITUTIONAL CASES ARE THE EXCEPTION TO "SYNTHETIC" (#196), and they have to
+      # be: the whole Constitution is mirrored, so the only citations that resolve are real
+      # ones. Five of them resolve to nothing here, one per kind — no such article, an
+      # article with no sections, no such section in it, a section printed and not published,
+      # and a numeral naming two operative articles — and a sixth proof asserts that no two
+      # of the five are given the same answer, because a row citing a section Oregon repealed
+      # and a row citing one that never existed are different errors. Also proved failing:
+      # an empty `constitution/` REFUSES to answer rather than reporting every constitutional
+      # authority as citing nothing.
       - name: Enabling-authority rules must all be able to fail
         run: python3 src/link_enabling_authority.py --selftest
       # A relation's KIND is derived, and 44 of the 81 are derived from candidates NOBODY
@@ -237,9 +247,12 @@ jobs:
         run: python3 src/catalog_oar.py --selftest
       # `enabling_authority` is written by ONE thing — the hand-reviewed MAPPED/UNMAPPED
       # tables in link_enabling_authority.py — and this verifies the registry against them
-      # in both directions, plus every citation against the mirrored ORS and executive
-      # orders. It can fail while both tables are empty: a row that acquired an authority
-      # any other way is reported, which is the drift a single writer exists to prevent.
+      # in both directions, plus every citation against the mirrored ORS, the mirrored
+      # executive orders and, since #196, the mirrored Oregon Constitution. All three of ADR
+      # 0003's forms resolve against a document; none is taken on form alone, which is what
+      # closes the hole `Or. Const. Art. XVII, sec. 99` used to walk through. It can fail
+      # while both tables are empty: a row that acquired an authority any other way is
+      # reported, which is the drift a single writer exists to prevent.
       # ~10 s; reads committed data only, no network.
       - name: Enabling authorities must match the reviewed table
         run: python3 src/link_enabling_authority.py --check
