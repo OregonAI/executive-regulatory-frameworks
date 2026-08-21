@@ -96,11 +96,14 @@ closed a gap, every time converting bodies "statute forgot to create" into bodie
 plainly created. Deriving a claim from a failed search is what CONTEXT.md's overriding rule
 forbids, and 37 undetermined relations are the correct answer rather than a gap to be closed.
 
-The count above corrects this ADR's own arithmetic. It said 25 of the 81 children have their
-own statutory authority and 56 do not; measured against the review sheet as it now stands,
-44 have a candidate and 37 do not. The 25/56 split was taken before the matcher's compound-name
-and enumerated-list gaps were closed, and it is the same over-confidence in a no-candidate
-list that the paragraph above is about.
+**The 44 are not the 25 this ADR counted, and the two numbers measure different things.**
+Above, this ADR says 25 of the 81 children have their own statutory authority and 56 do not.
+That is a claim about Oregon law. The 44 is a claim about the review sheet — how many
+children a matcher has proposed a section for — and it is the only one of the two anything
+in this repository can check today, which is why it is the one the derivation runs on. Where
+the 25 came from is not recorded, and until the 126 candidates are reviewed neither number
+can correct the other. What the derivation records is which sheet row each kind came from, so
+the reconciliation is a reading rather than a re-count.
 
 **A reviewed absence is not turned into `part_of` either, yet.** `none: <reason>` on a row
 is a human saying nothing separately constitutes this body, which is exactly this ADR's
