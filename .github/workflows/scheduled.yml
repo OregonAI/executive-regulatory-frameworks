@@ -43,6 +43,14 @@ name: scheduled
 #                               annual re-fetch — the value of sweeping a slow corpus
 #                               is catching URL rot (FETCH FAILED is the signal), and
 #                               quarterly is cheap enough for that.
+#   recheck: even_year_general_election
+#                            -> constitution (1 source: the single page carrying all 18
+#                               articles). No cron matches a ballot cycle either, and the
+#                               `full-sweep` below re-hashes this URL every quarter
+#                               REGARDLESS of the group's cadence — which is what actually
+#                               catches an amendment, since `recheck` only decides what
+#                               `--due` reports. See ADR 0005 on why the value is its own
+#                               and not `biennial`.
 #   recheck: on_review_date  -> eis-standards (3), external (1). No cron can honor a
 #                               printed review date; the quarterly sweep is the
 #                               backstop, /check-updates the precise tool.

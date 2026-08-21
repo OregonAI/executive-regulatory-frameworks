@@ -17,6 +17,11 @@ content_roots:
     doc_type: executive_order
   - path: "external-references"
     doc_type: external_reference
+  # The Oregon Constitution (ADR 0005), one document per section. It sits at the top of the
+  # authority chain every other root here hangs from, and it is jurisdiction-wide by
+  # definition: no issuing body owns it.
+  - path: "constitution"
+    doc_type: constitutional_provision
   # issuing-body-scoped: agencies/<slug>/<subdir>
   - path: "agencies"
     scoped: true
@@ -32,6 +37,18 @@ content_roots:
       # frontmatter `agency:` field, so this is where someone asking "how long must DEQ keep
       # this?" actually looks.
       schedules: schedule
+
+# DOC TYPES THIS CORPUS ADDS to the shared schema's enum (corpus-toolkit#40).
+#
+# `verbatim: true` is the load-bearing half and it is a claim about reproduction, not about
+# formatting: the Oregon Constitution is state-authored law this repo is entitled to mirror,
+# so corpus-verify-provenance must hold its documents to the same line-by-line containment
+# and coverage checks as a statute or a rule. Declared false, a constitutional section
+# summarized instead of mirrored would pass every gate in the platform.
+schema:
+  doc_types:
+    - name: constitutional_provision
+      verbatim: true
 
 plugins:
   citation_module: "src.citation_schemes"

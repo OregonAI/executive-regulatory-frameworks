@@ -1,0 +1,67 @@
+document: Oregon Constitution
+url: https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx
+snapshot_id: oregon-constitution
+retrieved: '2026-08-21'
+source_version: in effect following the approval of amendments and revisions on November 5, 2024
+articles:
+- article: VI
+  title: ADMINISTRATIVE DEPARTMENT
+  discovered: '2026-08-21'
+  sections:
+  - number: '1'
+    title: Election of Secretary and Treasurer of state; terms of office; period of eligibility
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vi-sec-1.md
+  - number: '2'
+    title: Duties of Secretary of State
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vi-sec-2.md
+  - number: '3'
+    title: Seal of state
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vi-sec-3.md
+  - number: '4'
+    title: Powers and duties of Treasurer
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vi-sec-4.md
+  - number: '5'
+    title: Offices and records of executive officers
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vi-sec-5.md
+  - number: '6'
+    title: County Officers
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vi-sec-6.md
+  - number: '7'
+    title: Other officers
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vi-sec-7.md
+  - number: '8'
+    title: County officers' qualifications; location of offices of county and city officers; duties of
+      such officers
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vi-sec-8.md
+  - number: '9'
+    title: Vacancies of county, township, precinct and city offices
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vi-sec-9.md
+  - number: 9a
+    title: County manager form of government
+    title_source: leadline
+    status: not_sliceable
+    note: the page prints this section's leadline and its legislative history bracket and no text between
+      them (the shape of a repealed section); there is no text to mirror, so it is not ingested
+  - number: '10'
+    title: County home rule under county charter
+    title_source: contents-list
+    status: ingested
+    path: constitution/orconst-art-vi-sec-10.md
