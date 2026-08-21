@@ -47,6 +47,8 @@ from pathlib import Path
 
 import yaml
 
+from repo_lib import content_files
+
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG = ROOT / "_meta" / "catalog" / "external-citations.yml"
 CONFIG = ROOT / "_meta" / "corpus.yml"
@@ -125,33 +127,25 @@ def scan() -> dict:
     named_mention = collections.Counter()
     ndocs = 0
 
-    # SORTED. rglob order follows the filesystem and is not stable across machines, and
-    # the `cited_by` sample keeps the first few citing documents it sees -- so an unsorted
-    # walk produced a catalog whose SAMPLES differed between this machine and CI while every
-    # count matched exactly. --check reported STALE with identical numbers, which is a
-    # confusing way to learn that a generated artifact is not reproducible.
-    # AND NOTHING UNDER A DOT-DIRECTORY. This is the same reproducibility concern as the
-    # sort above, found the same way: `--check` went STALE on CI while passing locally,
-    # 75,972 documents against 75,963. The nine were corpus-toolkit's own markdown, because
-    # the generated-views job now checks the toolkit out into `.toolkit/` for the STATUS.md
-    # gate and this walk starts at the repository root.
+    # MEASURES THE CORPUS, NOT THE REPOSITORY.
     #
-    # A DENYLIST CANNOT ANTICIPATE THE NEXT VENDORED CHECKOUT, which is why `/_meta/` and
-    # `/.git/` alone were not enough. Excluding every dot-directory covers `.toolkit`,
-    # `.github` (three issue/PR templates) and `.claude` (a skill file) in one rule, and
-    # covers whatever gets vendored next without another CI failure to discover it.
+    # This walked `ROOT.rglob("*.md")` from the repository root and filtered, which counted
+    # AGENTS.md, CLAUDE.md, CONTEXT.md, README.md, the `_index.md` files and every
+    # per-directory CHANGELOG.md as documents of a corpus they describe rather than belong
+    # to. 62 files, and by this script's own FED pattern and NAMED list, ZERO of them carry
+    # a federal citation — so they could move `documents_scanned` and nothing else, which is
+    # how committing an ADR turned this gate red for nine days (#158).
     #
-    # Note what this deliberately does NOT do: it keeps repo-root prose (README, REVIEW,
-    # DISCLAIMER, …) in scope, so the catalog's meaning is unchanged. Narrowing the walk to
-    # repo_lib.content_files() — measuring the CORPUS rather than the REPOSITORY — is the
-    # better long-term shape and would drop ~58 more files, but that redefines a generated
-    # artifact and belongs in its own change, not in a CI fix.
-    for p in sorted(ROOT.rglob("*.md")):
-        s = str(p)
-        if "/_meta/" in s or "/.git/" in s:
-            continue
-        if any(part.startswith(".") for part in p.relative_to(ROOT).parts[:-1]):
-            continue
+    # `content_files()` is the corpus's own definition of a document and already excludes
+    # `_`-prefixed and non-content names. It also retires the two reproducibility fixes this
+    # walk accumulated — it sorts, and it cannot reach a vendored `.toolkit/` checkout,
+    # because a dot-directory is not a content directory. Those comments are gone because
+    # the conditions they guarded are now unreachable, not because the bugs stopped
+    # mattering.
+    #
+    # Measured at the change: documents_scanned 75,967 -> 75,905, with distinct_targets,
+    # authority_claims_total and mentions_total all UNCHANGED. Narrowing drops no citation.
+    for p in content_files():
         ndocs += 1
         text = p.read_text(errors="ignore")
         parts = text.split("---", 2)
@@ -230,15 +224,29 @@ def scan() -> dict:
 
 
 def _inventory_only(text: str) -> str:
-    """The catalog with resolution-dependent lines removed, for --check.
+    """The catalog with lines removed that --check must not compare.
 
-    See the comment at the call site: what a sibling currently holds is not something a PR
-    to this repository controls.
+    Two kinds are dropped. RESOLUTION-DEPENDENT lines, because what a sibling currently
+    holds is not something a PR to this repository controls — see the comment at the call
+    site.
+
+    And `documents_scanned`, because it is a DENOMINATOR, not a claim. This catalog asserts
+    which federal instruments the corpus cites; how many documents were read to find them is
+    context. Comparing it created failures that could not indicate a real change: any scope
+    or content change that affects the catalog also moves distinct_targets,
+    authority_claims_total or mentions_total, all of which ARE compared — so a lone move in
+    the count means the citation inventory is provably unchanged. The gate fired exactly
+    when nothing was wrong and was redundant exactly when something was (#158).
+
+    It is still WRITTEN and still PRINTED on every run, so a `.toolkit`-style scope
+    contamination remains visible as an obviously wrong number. It is no longer a merge
+    blocker.
     """
     return "\n".join(l for l in text.splitlines()
                       if not l.lstrip().startswith(("resolves:", "targets_resolving:",
                                                     "unresolved_authority_claims:",
-                                                    "siblings_consulted:")))
+                                                    "siblings_consulted:",
+                                                    "documents_scanned:")))
 
 
 def main() -> int:
