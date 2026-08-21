@@ -7,7 +7,8 @@
 
 Three layers, merged fresh at read time (nothing derived is ever stored):
   registry  (_meta/catalog/agencies.yml)   who the agency is: statutory name, OAR name,
-                                           OAR chapter, parent/sub-unit hierarchy
+                                           OAR chapter, and the `relations` placing it
+                                           under other bodies (ADR 0004)
   curated   (_meta/agency-profiles.yml)    context a human asserted: governance class
                                            (+ required citation basis), where policies
                                            are published (or that they aren't), notes
@@ -98,16 +99,28 @@ def _derived_stats():
 
 def _groups_for_agency(slug: str, registry_entry: dict, groups: dict) -> dict:
     """Update groups covering this agency: by slug-prefixed group name, plus the
-    corpus-wide groups that cover its jurisdiction-wide docs."""
+    corpus-wide groups that cover its jurisdiction-wide docs.
+
+    A sub-unit falls back to the groups named for the body it is placed UNDER — the OAM
+    group covering the DAS Chief Financial Office is named for DAS, because that is whose
+    manual it is. The placement is read off `relations` (ADR 0004), which is the registry's
+    only statement of it now that #174 has retired `parent_slug`.
+
+    EVERY PARENT IS TRIED, not the first. A body may hold more than one relation, because
+    the sources may place it under different parents and ADR 0003 keeps that disagreement;
+    what this asks of each is "is there an update group named for you", which several
+    parents can answer without contradicting each other. That is a different question from
+    the rollups in `build_policy_gap.py` and `build_agency_graph.py`, which must pick ONE
+    body and therefore refuse to pick at all — here nothing is being chosen between."""
     out = {}
     for name, g in groups.items():
         if name.startswith(slug):
             out[name] = g
-    # sub-units of DAS: the OAM group (CFO) has a non-slug name; match via note text
-    if not out and registry_entry.get("parent_slug"):
-        for name, g in groups.items():
-            if name.startswith(registry_entry["parent_slug"]):
-                out[name] = g
+    if not out:
+        for target in catalog_agencies.parent_targets(registry_entry):
+            for name, g in groups.items():
+                if name.startswith(target):
+                    out[name] = g
     return out
 
 
@@ -161,13 +174,26 @@ def profile(slug_or_query: str) -> dict:
         # and `oar_name` is what the rules index prints — the string this body's rule
         # documents carry in `issuing_body`. Showing one and hiding the other would leave a
         # reader unable to tell which of the two they are looking at.
+        # OUTPUT SCHEMA CHANGE (#174): `parent_slug` is GONE from this tuple and
+        # `relations` stands where it stood. The tuple is what consumers of this module
+        # read, so dropping a key is a visible contract change and not an internal one —
+        # and dropping it without putting the placement back would leave the profile unable
+        # to say what body this one sits under, which is a fact it published until today.
+        # `relations` says more than the pointer did: the target, whose evidence places it
+        # there, which of ADR 0004's two kinds it is, and the authority that makes it true.
         "registry": {k: reg.get(k) for k in
-                     ("name", "oar_name", "oar_chapter", "parent_slug", "parent_chapter",
+                     ("name", "oar_name", "oar_chapter", "relations", "parent_chapter",
                       "source_url")},
+        # THE BODIES PLACED UNDER THIS ONE, read off their `relations` (ADR 0004). A body
+        # whose sources disagree about its parent is listed under EVERY parent they name,
+        # which is the opposite of what the two rollups do and is right for the same
+        # reason: a listing states each source's reading side by side, where a rollup would
+        # have to publish one of them as the answer.
         # NAME READER — DISPLAY: the statutory name, shown to a reader beside the slug.
         "sub_units": [{"slug": o["slug"], "name": o["name"],
                        "oar_chapter": o["oar_chapter"]}
-                      for o in registry.values() if o.get("parent_slug") == slug],
+                      for o in registry.values()
+                      if slug in catalog_agencies.parent_targets(o)],
         "curated": curated.get(slug, {"governance": "unclassified",
                                       "policies_published": "unknown"}),
         "in_repo": derived or "no documents ingested for this agency yet",
@@ -237,6 +263,20 @@ def selftest():
     check("DAS derived stats present", isinstance(p["in_repo"], dict)
           and p["in_repo"]["documents"] > 100)
     check("DAS has 3 sub-units", len(p["sub_units"]) == 3)
+    # THE OUTPUT SCHEMA #174 CHANGES, asserted rather than described. The tuple this module
+    # emits is a contract, so the key that left and the key that took its place are both
+    # stated here — a consumer that still reads `parent_slug` off a profile gets None and
+    # no error, which is the failure that has to be visible from this side.
+    check("the profile publishes no parent_slug", "parent_slug" not in p["registry"])
+    check("the profile publishes the relations that replaced it",
+          isinstance(p["registry"]["relations"], list))
+    # THE PLACEMENT READ THE WAY EVERY OTHER CONSUMER READS IT. DAS's sub-units and the
+    # CFO's update group both come off `relations` now, and both are facts about the
+    # committed registry rather than about a fixture.
+    check("a sub-unit's own relations name DAS",
+          all("department-of-administrative-services"
+              in catalog_agencies.parent_targets(_load()[0][u["slug"]])
+              for u in p["sub_units"]))
     check("DAS update group freshness present",
           any(g.get("last_checked") for g in p["update_groups"].values()))
     p2 = profile("financial office")

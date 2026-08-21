@@ -179,3 +179,54 @@ agencies under ORS 182.456 to 182.472, and they are attached to no department at
 ordinary sense. Whether that is a third relation or an absence of one is not decided here. Nor does it settle the Oregon Alfalfa Seed
 Commission, which the registry carries as a commodity commission and which ORS 576.062 does
 not enumerate.
+
+## Amendment: `parent_slug` is retired, and this is where its derivation is recorded
+
+The consequences above say `parent_slug` *is replaced by* a relation. Until #174 it was not
+replaced, it was DUPLICATED: `relations` landed beside the pointer, both said where a body
+sat, and the registry's contract had a rule (`relation-names-the-parent`) whose whole job was
+to keep two copies of one fact from disagreeing. #174 removes the pointer, so the relation is
+the only statement this registry makes about which body another is under.
+
+**Three consumers inside this repository read it, and each had to decide something the
+pointer decided for them.** `build_policy_gap.py` rolls sub-divisions up to their root agency
+and `build_agency_graph.py` groups a sub-unit with its department; both now walk
+`relations` through `catalog_agencies.root_body()` / `parent_targets()`, the one place that
+walk is written. `agency_profile.py` stops reading the pointer in its name fallback and drops
+it from the field tuple it emits — a visible output-schema change, with `relations` standing
+where it stood.
+
+**A relation is not always equivalent to the old pointer, and the traversals say what they
+chose.** A body may hold more than one relation, because this ADR and ADR 0003 keep the
+disagreement between sources rather than reconciling it. A pointer had one value; two
+relations naming two parents have no single answer, and both rollups REFUSE TO PICK: the body
+rolls up to itself and the count of such bodies is published beside the totals. Taking the
+first entry would have been the smaller change and it is the one thing a rollup carrying rule
+counts may not do — attributing an agency's regulatory footprint to the department the OAR
+index files it under, while statute places it elsewhere, is a wrong number rather than a
+crash, and nothing downstream would say which reading produced it. Zero bodies are in that
+state today; the decision is recorded now rather than made the first time one is. Where
+nothing is being CHOSEN between, both readings are kept: `agency_profile.py` lists a body
+under every parent its sources name, and tries each of them for an update group.
+
+**`src/expand_relations.py` is retired with the field, and this section is the record it
+leaves behind.** That script was the expand half of this ADR's split: its only input was
+`parent_slug`, so once the field is gone it cannot run, and a script that reads a field the
+registry does not have is a migration that looks re-runnable and is not. What it did, once,
+over data that already existed, was give every row a `relations` list derived from the
+pointer beside it — for the 81 children, one entry recording the OAR index's placement with
+`source: oar-index` and `kind: undetermined`; for the one manual child, whose body the rules
+index does not carry, `source: registry`, because attributing that placement to the index
+would name a publisher that never made it; and for the other 107, `[]`, which says this
+registry places the body under no other rather than that nobody asked. The kinds were not
+guessed — `src/derive_relation_kinds.py` decided 44 of them afterwards and left 37
+`undetermined`, and that module remains, because its input (the review sheet and the rows'
+own authorities) still exists. From #174 onward the entries the scrape owns are written by
+`catalog_agencies.set_index_relations()` from the index tree, and everything else is
+curation the refresh carries across.
+
+**What the registry keeps of the pointer is `parent_chapter`, and it is a different fact.**
+It is the OAR chapter of the body a row is placed under, scraped from the same tree, and
+`parent-agrees` now states that it may not disagree with the body the row's relations name —
+including the case one chapter cannot express, where two sources name two parents and
+whichever chapter it held would publish one source's reading as this registry's.

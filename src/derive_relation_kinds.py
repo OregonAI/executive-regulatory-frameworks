@@ -405,7 +405,12 @@ def check() -> int:
 
 
 def _row(slug, parent=None, **extra):
-    org = {"slug": slug, "parent_slug": parent, RELATION_KEY: []}
+    """One fixture row, placed under `parent` by the OAR index or under nothing.
+
+    The placement is a relation and NOTHING ELSE: #174 retired `parent_slug`, so a fixture
+    still carrying one would be a registry shape this repository no longer has, and every
+    derivation proven against it would be proven against the wrong file."""
+    org = {"slug": slug, RELATION_KEY: []}
     if parent:
         org[RELATION_KEY] = [{"target": parent, "source": "oar-index",
                               "kind": UNDETERMINED}]

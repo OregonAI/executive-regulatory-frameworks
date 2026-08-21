@@ -350,13 +350,24 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   classified where it sits, as JOIN, DISPLAY or MACHINERY, and
   `python3 src/name_readers.py --check` (CI, every PR) refuses one that is not — the audit
   has to stay true through #168, which changes what `name` means.
-  Every row also carries `relations` (CONTEXT.md), landed by `src/expand_relations.py`
-  (re-runnable, idempotent) and written from then on by `--refresh`: each entry names the
+  Every row also carries `relations` (CONTEXT.md), and since #174 it is the ONLY place a
+  body's placement under another is recorded — `parent_slug` is retired, and the allowlist
+  in `FIELDS` refuses it if it comes back. Each entry names the
   body this one is under, the source whose evidence places it there (`oar-index`,
   `statute`, `das`, or `registry` for a placement this registry recorded by hand — the one
   manual child, whose body the rules index does not carry), a kind, and — where one has
-  been established — the authority (ADR 0004). It sits BESIDE `parent_slug`, which is unchanged until #174 retires it, and the
-  two must agree. THE KIND IS DERIVED AND NEVER GUESSED, by `python3
+  been established — the authority (ADR 0004). The `oar-index` entries are written by
+  `--refresh` from the index tree (`set_index_relations`); everything else is curation the
+  refresh carries across. HIERARCHY IS WALKED IN ONE PLACE,
+  `catalog_agencies.root_body()` / `parent_targets()`, which `build_policy_gap.py` and
+  `build_agency_graph.py` both use: a body whose sources place it under MORE THAN ONE parent
+  is not rolled up at all and is reported, because ADR 0003 keeps that disagreement and a
+  rollup that picked one reading would publish it as the answer. Nothing derives hierarchy
+  by splitting the compound `Parent, Child` name — `name_readers.py --check` refuses an
+  unclassified site that takes a registry name apart on a comma.
+  `parent_chapter` survives as a different fact (the parent's OAR chapter, scraped from the
+  same tree) and `parent-agrees` states that it may not disagree with the body the relations
+  name. THE KIND IS DERIVED AND NEVER GUESSED, by `python3
   src/derive_relation_kinds.py --apply`, its single writer: 44 of the 81 record
   `administered_by` and 37 record `undetermined`. Every derived kind also records the
   `basis` it came from, which is NOT the same fact as the source — the source says who

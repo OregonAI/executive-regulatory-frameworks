@@ -32,6 +32,7 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).parent))
 
+import catalog_agencies
 from enrich_oar import load_registry_by_chapter
 from repo_lib import REPO_ROOT
 
@@ -80,9 +81,29 @@ def build_data() -> dict:
         for c in chs:
             chapter_pop[c] = chapter_pop.get(c, 0) + 1
 
-    # parent-department grouping (for node color): sub-units share their parent's group.
+    # PARENT-DEPARTMENT GROUPING (for node colour): a sub-unit shares its parent's group.
+    # ONE HOP, NOT A ROLLUP — the group is the department a body is filed directly under,
+    # and `catalog_agencies.parent_targets()` is where the parents are read off `relations`
+    # (ADR 0004) now that the pointer is gone.
+    #
+    # A BODY ITS SOURCES DISAGREE ABOUT IS GROUPED WITH NEITHER PARENT. ADR 0003 keeps that
+    # disagreement rather than reconciling it, and one colour cannot show a body two
+    # departments claim; taking the first entry would paint it as belonging to whichever
+    # source happened to be written first, with nothing on the page saying so. It stands as
+    # its own group and is REPORTED in the counts below. No committed row is in that state,
+    # so every node and every group is what the retired `parent_slug` produced.
+    disputed: set = set()
+
+    def parent_of(slug: str):
+        targets = catalog_agencies.parent_targets(by_slug.get(slug) or {})
+        if len(targets) == 1:
+            return targets[0]
+        if targets:
+            disputed.add(slug)
+        return None
+
     def group_of(slug: str) -> str:
-        return by_slug.get(slug, {}).get("parent_slug") or slug
+        return parent_of(slug) or slug
 
     # which groups actually contain more than one in-graph agency (get a distinct color)
     group_members: dict[str, list] = {}
@@ -102,7 +123,7 @@ def build_data() -> dict:
             # and their relations, and a body is labelled by its own name.
             "name": by_slug.get(slug, {}).get("name", slug),
             "rules": len(ag_rules.get(slug, ())),
-            "parent": by_slug.get(slug, {}).get("parent_slug"),
+            "parent": parent_of(slug),
             "group": grp,
             "group_name": by_slug.get(grp, {}).get("name", grp),
             "governance": prof.get("governance", "unclassified"),
@@ -113,13 +134,18 @@ def build_data() -> dict:
         "note": ("Agency shared-statutory-authority graph. Two agencies are linked when "
                  "their OAR rules implement the same ORS chapters; edge weight = "
                  "sum(1/ln(pop+e)) over shared chapters, so ubiquitous statutes count "
-                 "less. Non-authoritative — derived from _meta/graph.json. Regenerate "
+                 "less. A node's group is the body the agency registry's `relations` place "
+                 "it directly under (ADR 0004); a body whose sources place it under more "
+                 "than one parent is grouped with neither, because that disagreement is a "
+                 "finding the registry keeps and one colour cannot show it. "
+                 "Non-authoritative — derived from _meta/graph.json. Regenerate "
                  "with src/build_agency_graph.py after any ingest."),
         "weighting": "sum over shared ORS chapters of 1/ln(chapter_pop + e)",
         "ubiquity_default": UBIQUITY_DEFAULT,
         "counts": {"agencies": len(agencies),
                    "colored_groups": len(multi),
-                   "ors_chapters": len(chapter_pop)},
+                   "ors_chapters": len(chapter_pop),
+                   "bodies_their_sources_disagree_about": len(disputed)},
         "colored_groups": [{"slug": g, "name": by_slug.get(g, {}).get("name", g),
                             "members": len(group_members[g])} for g in multi],
         "chapter_pop": dict(sorted(chapter_pop.items())),
@@ -158,7 +184,9 @@ def main():
     d = json.loads(_json(build_data()))
     print(f"wrote {JSON_OUT.relative_to(REPO_ROOT)} and {HTML_OUT.relative_to(REPO_ROOT)}: "
           f"{d['counts']['agencies']} agencies, {d['counts']['colored_groups']} colored "
-          f"departments, {d['counts']['ors_chapters']} ORS chapters")
+          f"departments, {d['counts']['ors_chapters']} ORS chapters, "
+          f"{d['counts']['bodies_their_sources_disagree_about']} bodies grouped with no "
+          "parent because their sources disagree")
 
 
 # The HTML template lives in a sibling module string to keep this file readable.

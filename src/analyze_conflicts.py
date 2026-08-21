@@ -337,6 +337,8 @@ def filter_sections(bundles: list, spec: str, tier: str = "section") -> list:
     the failure looks identical to "the model found nothing there", which is the answer
     the re-run exists to establish."""
     raw = Path(spec[1:]).read_text() if spec.startswith("@") else spec
+    # COMPOUND NAME — NOT-A-REGISTRY-NAME: a comma-separated list of section ids from the
+    # command line or a file, not a body's name.
     want = {x.strip().lower() for x in raw.replace("\n", ",").split(",") if x.strip()}
     kept = [b for b in bundles if b["section"].lower() in want]
     missing = sorted(want - {b["section"].lower() for b in kept})
@@ -2312,6 +2314,8 @@ def main():
         chapters = sorted({str(b["ors_chapter"]) for b in bundles})
     else:
         if args.chapters:
+            # COMPOUND NAME — NOT-A-REGISTRY-NAME: a comma-separated command-line list of
+            # OAR chapters, not a body's name.
             chapters = [c.strip().lower() for c in args.chapters.split(",")]
         else:
             chapters = sorted(set(shared) - done)

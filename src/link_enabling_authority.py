@@ -178,6 +178,11 @@ def _variants(name: str) -> set[str]:
     """
     v = _spellings(name)
     if "," in name:
+        # COMPOUND NAME — NAME: the tail segment is the body's OWN name, which is what an
+        # ORS catchline prints, and it is used to match one. The head segment — the parent
+        # — is discarded and nothing here records a placement: hierarchy lives in
+        # `relations` (#174), and re-deriving it from this string would be a second,
+        # unsourced answer to a question the registry already answers.
         v |= _spellings(name.rsplit(",", 1)[1].strip())
     return {x for x in v if x}
 

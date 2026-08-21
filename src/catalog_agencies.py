@@ -114,13 +114,20 @@ FIELDS = {
     "oar_chapter": Field(SCRAPED, required=True),
     "raw_index_name": Field(SCRAPED, required=True),
     "source_url": Field(SCRAPED, required=True),
-    "parent_slug": Field(SCRAPED, required=True),
+    # THE PARENT'S OAR CHAPTER, and the half of the old pointer pair that is left. #174
+    # retired `parent_slug`: a body's placement under another lives in `relations` and
+    # nowhere else (ADR 0004), because the relation says who places it there, which of ADR
+    # 0004's two kinds it is and on what authority — none of which a bare slug could say,
+    # and all of which a consumer reading the slug would have to invent. `parent_chapter`
+    # is NOT that pointer written again: it is the CHAPTER the rules index files the parent
+    # under, scraped from the same tree, and `parent-agrees` states that it may not
+    # disagree with the body the row's relations name.
     "parent_chapter": Field(SCRAPED, required=True),
-    # THE RELATIONS (CONTEXT.md), which land BESIDE `parent_slug` and replace nothing: the
-    # pointer keeps saying what it always said while the relation says it with a source, a
-    # kind and, where one is known, the authority that establishes it (ADR 0004). Required
-    # and a list, empty when the registry places this body under nothing — the same
-    # discipline `parent_slug: null` keeps, because an absent key would say nobody looked.
+    # THE RELATIONS (CONTEXT.md), and since #174 the ONLY statement this registry makes
+    # about which body another sits under: a target, the source whose evidence places it
+    # there, a kind and, where one is known, the authority that establishes it (ADR 0004).
+    # Required and a list, empty when the registry places this body under nothing — an
+    # absent key would say nobody looked, and those are different claims.
     #
     # MERGED, and it is the first field that is. A body may hold MORE THAN ONE relation,
     # because DAS, the OAR index and statute may each place it under a different parent and
@@ -302,26 +309,7 @@ RELATION_KEYS = ("target", "source", "kind", "basis", "authority")
 DECISION_KEYS = ("kind", "basis", "authority")
 
 
-def relations_from_parent(org) -> list:
-    """The relation a row's own `parent_slug` states, sourced by WHO is in a position to
-    state it — the one place that question is answered, so --refresh and the migration that
-    first wrote the field cannot answer it two ways.
-
-    A row the scrape produces is placed by the OAR index, which is where its `parent_slug`
-    came from. A `manual` row is one the index does not carry (`preserve_manual`), so the
-    index has placed it nowhere and the pointer is this registry's own hand-written record —
-    see the `registry` source above for why calling it the index's would be false twice
-    over. A row with no parent gets an empty list rather than a missing key: `[]` says this
-    registry places the body under no other, and an absent key would say nobody asked."""
-    parent_slug = org.get("parent_slug")
-    if not parent_slug:
-        return []
-    if org.get("manual"):
-        return [{"target": parent_slug, "source": REGISTRY, "kind": UNDETERMINED}]
-    return [index_relation(parent_slug)]
-
-
-def index_relation(parent_slug: str) -> dict:
+def index_relation(target: str) -> dict:
     """The relation the OAR index states, as --refresh writes it.
 
     THE ONE PLACE A SCRAPE-DERIVED RELATION IS CONSTRUCTED, so the refresh and the survival
@@ -332,7 +320,7 @@ def index_relation(parent_slug: str) -> dict:
     is a publisher's filing decision (ADR 0004 rejects inferring the relation from it), so
     the only honest kind for an entry from this source is the one that says nobody has
     established it yet."""
-    return {"target": parent_slug, "source": OAR_INDEX, "kind": UNDETERMINED}
+    return {"target": target, "source": OAR_INDEX, "kind": UNDETERMINED}
 
 
 def relation_fault(entry):
@@ -459,6 +447,97 @@ def relation_entries(org) -> list:
     piece about the row."""
     value = org.get(RELATION_KEY) if isinstance(org, dict) else None
     return value if isinstance(value, list) else []
+
+
+# ------------------------------------------------------------------ walking the hierarchy
+#
+# WHERE HIERARCHY IS READ, AND THE ONE PLACE IT IS READ FROM. ADR 0004 replaces the parent
+# pointer with a relation, and #174 removes the pointer — so `relations` is now the only
+# statement this registry makes about which body another sits under. Two consumers walk it
+# (`build_policy_gap.py` rolls sub-divisions up to their root agency, `build_agency_graph.py`
+# groups a sub-unit with its department), and they walk it from HERE rather than each
+# writing their own loop: a rollup that carries spending-relevant totals and a rollup that
+# colours a node must not be able to disagree about where a body sits.
+#
+# A RELATION IS NOT A POINTER, AND THE DIFFERENCE IS THE WHOLE OF THIS SECTION. A pointer had
+# one value; a body may hold SEVERAL relations, because the OAR index, DAS and statute may
+# each place it under a different parent and ADR 0003 keeps that disagreement rather than
+# reconciling it — "a body that DAS files under one parent and statute under another is a
+# finding, and silently picking one hides it". So a walk that used to follow one value has to
+# decide what to do with two, and the decision taken here is TO STOP AND SAY SO: a body its
+# sources disagree about rolls up to itself, and the disagreement is REPORTED by the caller
+# rather than resolved by whichever entry happened to be written first.
+#
+# Taking the first entry would have been the smaller diff and it is the one thing this may
+# not do. In `build_policy_gap.py` the rollup carries rule counts that are read as a claim
+# about an agency's regulatory footprint; attributing them to the department the OAR index
+# files a body under, when statute places it elsewhere, is a wrong number rather than a
+# crash — and nothing downstream would ever say which reading produced it.
+#
+# No committed row is in that state today: 81 children carry exactly one relation each and
+# 108 carry none, so every walk below returns exactly what the retired pointer returned.
+# That is the point — the decision is made now, in the open, rather than the first time two
+# sources disagree.
+
+# Why a walk stopped, so a caller can tell "this body is a root" from "this registry cannot
+# say what this body's root is". A rollup that reported the two alike would publish a
+# disagreement as a top-level agency (CONTEXT.md: "could not check" is never reported as
+# "is not there").
+AT_THE_TOP = "top"                  # nothing places this body under anything
+SOURCES_DISAGREE = "sources-disagree"   # more than one body, and no basis here to choose
+PLACED_IN_A_LOOP = "loop"           # the relations lead back to a body already walked
+OFF_THE_REGISTRY = "off-registry"   # the walk left the rows this registry carries
+
+Rollup = namedtuple("Rollup", "slug stopped")
+
+
+def parent_targets(org) -> list:
+    """Every DISTINCT body this row's relations place it under, in the order named.
+
+    DISTINCT, because two entries naming ONE parent are two sources agreeing about the
+    placement and disagreeing at most about its kind — which is a question about the kind
+    and not about where the body sits. Two entries naming two parents are the disagreement
+    ADR 0003 keeps, and the callers below act on that.
+
+    Reads through `relation_entries()`, so a row whose `relations` is a string or a null
+    yields nothing here instead of crashing; what is WRONG with such a row is
+    `relation-shape`'s to report."""
+    out = []
+    for entry in relation_entries(org):
+        if not isinstance(entry, dict):
+            continue
+        target = entry.get("target")
+        if isinstance(target, str) and target and target not in out:
+            out.append(target)
+    return out
+
+
+def root_body(slug, by_slug) -> Rollup:
+    """The body `slug` rolls up to, and WHY the walk stopped there.
+
+    LOOP-SAFE, over data that is not guaranteed acyclic: `relation-resolves` states that a
+    target names a body this registry carries, and nothing states that the targets form a
+    tree. A walk that met a cycle would hang, and hanging is how a CI job reports nothing at
+    all.
+
+    A slug this registry does not carry rolls up to ITSELF, stopped `OFF_THE_REGISTRY`.
+    `build_policy_gap.py` calls this with a directory name, which is not always a registry
+    slug, and the honest answer for one is that this registry places it nowhere — not that
+    it is a top-level agency."""
+    seen = {slug}
+    while True:
+        org = by_slug.get(slug)
+        if org is None:
+            return Rollup(slug, OFF_THE_REGISTRY)
+        targets = parent_targets(org)
+        if not targets:
+            return Rollup(slug, AT_THE_TOP)
+        if len(targets) > 1:
+            return Rollup(slug, SOURCES_DISAGREE)
+        if targets[0] in seen:
+            return Rollup(slug, PLACED_IN_A_LOOP)
+        seen.add(targets[0])
+        slug = targets[0]
 
 
 # ------------------------------------------------------------- what an enabling authority is
@@ -679,33 +758,41 @@ def scraped_entry(*, name, oar_chapter, raw_index_name, source_url, note=None):
     half of ADR 0003's rename: consumers move onto `oar_name` while `name` is unchanged,
     rather than being re-verified after `name` has already changed meaning underneath them.
 
-    parent_slug/parent_chapter are written null here and filled by the caller once the
-    index tree is known; they are keys of a scraped row either way. `relations` is written
-    EMPTY for the same reason and filled by `set_index_relations()` from the same tree: the
-    entries the scrape derives are regenerated on every refresh, so the constructor that
-    stands for "what the scrape produces" has to write the key — `scraped-field` in
-    check_registry() checks this column against this function, and a MERGED field that the
-    constructor did not write would be a field the refresh silently drops in full."""
+    `parent_chapter` is written null here and filled by the caller once the index tree is
+    known; it is a key of a scraped row either way. `relations` is written EMPTY for the
+    same reason and filled by `set_index_relations()` from the same tree: the entries the
+    scrape derives are regenerated on every refresh, so the constructor that stands for
+    "what the scrape produces" has to write the key — `scraped-field` in check_registry()
+    checks this column against this function, and a MERGED field that the constructor did
+    not write would be a field the refresh silently drops in full."""
     entry = {"slug": slugify(name), "name": name, "oar_name": name,
              "oar_chapter": oar_chapter,
              "raw_index_name": raw_index_name, "source_url": source_url}
     if note:
         entry["note"] = note
-    entry["parent_slug"] = None
     entry["parent_chapter"] = None
     entry[RELATION_KEY] = []
     return entry
 
 
-def set_parent_relations(orgs) -> None:
-    """Write each row's relation from the parent the index tree just gave it.
+def set_index_relations(orgs, index_parents) -> None:
+    """Write each row's `oar-index` relation from the parent the index tree gave it.
+
+    `index_parents` is {slug: the slug the rules index files this body under}, read from the
+    tree by --refresh and replayed from the committed entries by the survival simulation. It
+    is a PARAMETER rather than something read off the row, and that is the whole of what
+    #174 changed here: the placement used to be read back off `parent_slug`, and there is no
+    longer a second copy of it anywhere on the row to read.
 
     IN PLACE and over the SCRAPE'S OWN OUTPUT ONLY. It runs before anything is preserved, so
     it cannot overwrite a curated entry — the rows it touches are the ones the scrape has
     just rebuilt, and the merge appends to what it leaves behind. A manual row is not among
-    them, which is why every entry this writes is the index's."""
+    them, which is why every entry this writes is the index's. A row the index files under
+    nothing gets an EMPTY list rather than no key: `[]` says this registry places the body
+    under no other, and an absent key would say nobody asked (CONTEXT.md)."""
     for org in orgs:
-        org[RELATION_KEY] = relations_from_parent(org)
+        parent = index_parents.get(org["slug"])
+        org[RELATION_KEY] = [index_relation(parent)] if parent else []
 
 
 def write_das_agency_number(row: dict, number) -> None:
@@ -979,6 +1066,12 @@ def cmd_refresh():
         # built by scraped_entry(), which writes it to both.
         child_names = [orgs[j]["name"] for j, e in enumerate(entries)
                        if e[2] == i and orgs[j]]
+        # COMPOUND NAME — NAME: the compound is read to produce this group's NAME and never
+        # a placement. The hierarchy here is already known — the index tree gave it, and it
+        # is written to `relations` below — so this takes the common prefix off the
+        # children's chapter-page titles to find out what the rules index CALLS the parent
+        # it filed them under. Deriving the placement the other way round, out of the
+        # string, is what #174 forbids.
         prefixes = {n.split(", ")[0] for n in child_names if ", " in n}
         if len(prefixes) == 1:
             name = prefixes.pop()
@@ -997,14 +1090,14 @@ def cmd_refresh():
                      f"{o['oar_chapter']} both slugify to {o['slug']!r} — needs a human "
                      "decision, not silent dedup")
         by_slug[o["slug"]] = o
+    index_parents = {}
     for i, (ch, _, parent_idx) in enumerate(entries):
         if parent_idx is not None:
-            orgs[i]["parent_slug"] = orgs[parent_idx]["slug"]
+            index_parents[orgs[i]["slug"]] = orgs[parent_idx]["slug"]
             orgs[i]["parent_chapter"] = orgs[parent_idx]["oar_chapter"]
-    # AFTER the parent pointers and BEFORE anything is preserved: these are the entries the
-    # scrape owns, written from the tree it has just read, onto rows nothing has been
-    # carried onto yet.
-    set_parent_relations(orgs)
+    # BEFORE anything is preserved: these are the entries the scrape owns, written from the
+    # tree it has just read, onto rows nothing has been carried onto yet.
+    set_index_relations(orgs, index_parents)
 
     assert_scrape_declared(orgs)
 
@@ -1020,7 +1113,8 @@ def cmd_refresh():
                  "rules (an unofficial but well-maintained mirror; official chapter "
                  "assignment lives with the SoS Administrative Rules Unit). Proper "
                  "names come from each chapter page's own title; the index tree "
-                 "provides the parent/sub-unit hierarchy (parent_chapter/parent_slug). "
+                 "provides the parent/sub-unit hierarchy, recorded in `relations` "
+                 "(ADR 0004) with parent_chapter beside it. "
                  "Third registry source: a data.oregon.gov dataset and the SoS Blue "
                  "Book directory were both previously used and dropped after review "
                  "(2026-07-18/19). validate_frontmatter.py requires every content "
@@ -1040,8 +1134,10 @@ def cmd_refresh():
                  "relations, on every row, is where each body's placement under another "
                  "is recorded (ADR 0004): a target slug, the source whose evidence places "
                  "it there, a kind, and — where one has been established — the authority "
-                 "that makes it true. It lands BESIDE parent_slug and replaces nothing "
-                 "yet. A kind other than undetermined also records the BASIS it was derived "
+                 "that makes it true. It REPLACED parent_slug, which this registry no "
+                 "longer carries (#174): a bare parent slug could not say whose reading a "
+                 "placement was, which of ADR 0004's two kinds it is, or on what authority. "
+                 "A kind other than undetermined also records the BASIS it was derived "
                  "from, which is a different fact from the source: the source says who "
                  "places this body under that one, the basis says what settled which of ADR "
                  "0004's two kinds it is, and a relation the OAR index discovered can have "
@@ -1081,7 +1177,7 @@ def cmd_refresh():
         "organizations": sorted(orgs, key=lambda o: o["slug"]),
     }
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
-    n_sub = sum(1 for o in orgs if o["parent_slug"])
+    n_sub = sum(1 for o in orgs if relation_entries(o))
     print(f"catalog: {len(orgs)} organizations ({len(orgs) - n_sub} top-level, "
           f"{n_sub} sub-units, {fallbacks} name fallbacks)")
 
@@ -1371,13 +1467,21 @@ def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None):
     flag means. It comes back through preserve_manual() or not at all, and "or not at all"
     is a bug that already happened once (see that function).
 
+    WHAT IT CAN NO LONGER SIMULATE, stated rather than left to be discovered. The index's
+    placement is replayed from the row's own `oar-index` entry, because #174 removed the
+    second copy that `parent_slug` held — so the rebuilt entry always names the parent the
+    committed one names, and an upstream RE-FILING cannot be expressed in here. That was
+    never something this function measured (it measures survival, not drift), and the rule
+    about a decision not following a placement that moved lives in `carry_decision()` and is
+    proven against it directly.
+
     `name` is passed as the scrape's one name string because that is where the committed
     rows hold it today — `oar_name` holds the same bytes on all 189 of them. When ADR 0003
     makes `name` the statutory name the two stop agreeing, and this call has to read
     `oar_name` instead; nothing here would notice, because a scraped field is skipped by the
     survival comparison, so that step belongs with the change that splits them.
     """
-    orgs, by_slug = [], {}
+    orgs, by_slug, index_parents = [], {}, {}
     for o in prev_orgs:
         if o.get("manual"):
             continue
@@ -1388,17 +1492,27 @@ def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None):
         row = scraped_entry(name=o.get("name"), oar_chapter=o.get("oar_chapter"),
                             raw_index_name=o.get("raw_index_name"),
                             source_url=o.get("source_url"), note=o.get("note"))
-        row["parent_slug"] = o.get("parent_slug")
         row["parent_chapter"] = o.get("parent_chapter")
+        # WHERE THE INDEX'S PLACEMENT IS REPLAYED FROM, now that `parent_slug` is gone
+        # (#174): the committed `oar-index` entry itself. `setdefault`, not assignment — a
+        # row carrying two of them is `index-relation-is-regenerated`'s to report, and
+        # letting the second win here would rebuild the row against a placement that rule
+        # is in the middle of refusing.
+        for entry in relation_entries(o):
+            if isinstance(entry, dict) and entry.get("source") == OAR_INDEX:
+                target = entry.get("target")
+                if isinstance(target, str) and target:
+                    index_parents.setdefault(row["slug"], target)
         orgs.append(row)
         # setdefault, not assignment: a slug claimed twice is unique-slug's failure to
         # report, and masking one of the two here would turn it into a survival failure
         # against the wrong row.
         by_slug.setdefault(row["slug"], row)
     # The same three steps --refresh runs, in the same order. The index relations are
-    # rebuilt from the committed `parent_slug` because that is what the index tree told the
-    # last refresh — the simulation measures SURVIVAL, not whether the mirror still says it.
-    set_parent_relations(orgs)
+    # rebuilt from the committed `oar-index` entries because that is what the index tree
+    # told the last refresh — the simulation measures SURVIVAL, not whether the mirror still
+    # says it, which is a question only a fetch can answer.
+    set_index_relations(orgs, index_parents)
     preserve_manual(prev_orgs, orgs, by_slug)
     preserve_curated(prev_orgs, by_slug, curated_keys)
     preserve_relations(prev_orgs, by_slug, merged_keys)
@@ -1450,9 +1564,10 @@ def check_registry(cat, fields=None) -> list:
                     "declared-field", _row_id(o, i),
                     f"field {key!r} is not declared in FIELDS — if it is curated, "
                     "--refresh will destroy it; declare it"))
-        # An absent key and a null value are different claims: `parent_slug: null` says a
-        # body has no parent, an absent parent_slug says nobody asked. Consumers read both
-        # as "no parent", which is how the second silently becomes the first.
+        # An absent key and an empty value are different claims: `relations: []` says this
+        # registry places a body under no other, an absent `relations` says nobody asked.
+        # Consumers read both as "no parent", which is how the second silently becomes the
+        # first.
         for key, field in fields.items():
             if field.required and key not in o:
                 failures.append(Failure("required-field", _row_id(o, i),
@@ -1519,27 +1634,47 @@ def check_registry(cat, fields=None) -> list:
             else:
                 seen[value] = _row_id(o, i)
 
-    # THE PARENT RELATION. ADR 0004 splits `parent_slug` into *part of* and *administered
-    # by*, and both readings agree on this much: the relation names a body this registry
-    # carries. A pointer at a slug nobody has states a hierarchy no reader can check, and
-    # parent_chapter is the same pointer written twice — when the two disagree, each
-    # consumer resolves the parent differently depending on which half it read.
+    # THE PARENT'S CHAPTER, AGAINST THE BODY THE RELATIONS NAME. #174 retired `parent_slug`,
+    # so `relations` is the registry's only statement of where a body sits and this is the
+    # one remaining field that repeats a fact about that placement: `parent_chapter` is the
+    # OAR chapter of the body this one is under. When the two disagree, each consumer
+    # resolves the parent differently depending on which half it read — the failure that
+    # does not look like one from either side.
+    #
+    # A FIELD THAT HOLDS ONE CHAPTER CANNOT STATE A DISAGREEMENT. A body may hold more than
+    # one relation, because the sources may place it under different parents and ADR 0003
+    # keeps that (ADR 0004). There is then no single parent whose chapter this field could
+    # hold, and writing either one publishes one source's reading as the registry's. No
+    # committed row is in that state; the rule says what happens on the day one is, rather
+    # than picking for it.
     by_slug = {o["slug"]: o for _, o in rows if isinstance(o.get("slug"), str)}
     for i, o in rows:
-        parent_slug = o.get("parent_slug")
-        if parent_slug is None:
+        targets = parent_targets(o)
+        chapter = o.get("parent_chapter")
+        if len(targets) > 1:
+            if chapter is not None:
+                failures.append(Failure(
+                    "parent-agrees", _row_id(o, i),
+                    f"parent_chapter is {chapter!r} while this body's relations place it "
+                    f"under {targets!r} — one chapter cannot say which of those it is, and "
+                    "whichever it names publishes one source's reading as this registry's"))
             continue
-        parent = by_slug.get(parent_slug)
-        if parent is None:
-            failures.append(Failure("parent-resolves", _row_id(o, i),
-                                    f"parent_slug {parent_slug!r} is not a slug in this "
-                                    "registry"))
+        if not targets:
+            if chapter is not None:
+                failures.append(Failure(
+                    "parent-agrees", _row_id(o, i),
+                    f"parent_chapter is {chapter!r} and no relation places this body under "
+                    "anything — the field names the chapter of the body this one is under, "
+                    "and there is none"))
             continue
-        if o.get("parent_chapter") != parent.get("oar_chapter"):
+        # A target naming no body is `relation-resolves`'s to report; saying it again here
+        # would tell a reader the chapter is wrong when the placement is.
+        parent = by_slug.get(targets[0])
+        if parent is not None and chapter != parent.get("oar_chapter"):
             failures.append(Failure(
                 "parent-agrees", _row_id(o, i),
-                f"parent_chapter {o.get('parent_chapter')!r} but {parent_slug!r} holds "
-                f"chapter {parent.get('oar_chapter')!r}"))
+                f"parent_chapter {chapter!r} but {targets[0]!r} holds chapter "
+                f"{parent.get('oar_chapter')!r}"))
 
     # THE RELATIONS. Every entry says which body this one is under and on whose evidence
     # (ADR 0004), and a body may hold several because the sources may disagree and ADR 0003
@@ -1588,37 +1723,38 @@ def check_registry(cat, fields=None) -> list:
             targets.append(entry["target"])
             if entry["source"] == OAR_INDEX:
                 index_targets.append(entry["target"])
-        # THE POINTER AND THE RELATIONS ARE ONE FACT WRITTEN TWICE, and #171 writes the
-        # second copy without removing the first (#174 removes it). Two copies can disagree,
-        # so this states that they may not — the shape `deprecated-key-agrees` has, for the
-        # same reason: whichever half a consumer reads is the answer it gets, and the two
-        # populations of consumers never see each other's. WHICH source names the parent is
-        # the next rule's question; this one asks only that some source does.
-        parent_slug = o.get("parent_slug")
-        if isinstance(parent_slug, str) and parent_slug and parent_slug not in targets:
-            failures.append(Failure(
-                "relation-names-the-parent", _row_id(o, i),
-                f"parent_slug is {parent_slug!r} and no relation names it — a consumer that "
-                "has moved onto relations reads this row as a body under nothing, which is "
-                "not what the pointer beside it says"))
         # AN `oar-index` ENTRY IS A CLAIM THAT --refresh REGENERATES IT, so the rows it may
-        # sit on are the rows the refresh rebuilds. It may not sit on a `manual` row at all:
-        # a manual body is one the chapter index does not carry (`preserve_manual`), so the
-        # index has placed it nowhere, and an entry claiming otherwise attributes a
-        # placement to a publisher that never made it AND labels an entry nothing can
-        # regenerate as one the refresh rebuilds. Nothing else would notice — the survival
-        # simulation preserves a manual row WHOLE and never compares it with a scrape.
-        # `registry` is the source that is true of such a placement.
-        expected_index = [] if o.get("manual") else (
-            [parent_slug] if isinstance(parent_slug, str) and parent_slug else [])
-        if index_targets != expected_index:
+        # sit on are the rows the refresh rebuilds, and there may be at most ONE. It may not
+        # sit on a `manual` row at all: a manual body is one the chapter index does not
+        # carry (`preserve_manual`), so the index has placed it nowhere, and an entry
+        # claiming otherwise attributes a placement to a publisher that never made it AND
+        # labels an entry nothing can regenerate as one the refresh rebuilds. Nothing else
+        # would notice — the survival simulation preserves a manual row WHOLE and never
+        # compares it with a scrape. `registry` is the source that is true of such a
+        # placement.
+        #
+        # ONE, because the index tree files a body under exactly one parent and the refresh
+        # writes exactly what the tree says: a second entry from that source is a placement
+        # the scrape will never reproduce, so it is destroyed unread on the next run.
+        # `relation-unique` does not reach it — that rule refuses one source naming one
+        # parent twice, and these name two. Until #174 this rule compared the entries with
+        # `parent_slug`, which held the same placement; there is no second copy to compare
+        # with now, so it states what the tree can produce instead.
+        if o.get("manual") and index_targets:
             failures.append(Failure(
                 "index-relation-is-regenerated", _row_id(o, i),
-                f"the {OAR_INDEX!r} relation(s) name {index_targets!r} where the OAR index "
-                f"places this body under {expected_index!r} — an entry from that source is "
-                "rewritten from the index tree on every --refresh, so one the tree does not "
-                f"produce is destroyed unread; record it as {REGISTRY!r} (or the source that "
-                "states it) if it is not the index's reading"))
+                f"is a {'manual'!r} row carrying {OAR_INDEX!r} relation(s) naming "
+                f"{index_targets!r} — the chapter index does not carry this body, so it has "
+                f"placed it nowhere and no refresh can rebuild the entry; record it as "
+                f"{REGISTRY!r} (or the source that states it)"))
+        elif len(index_targets) > 1:
+            failures.append(Failure(
+                "index-relation-is-regenerated", _row_id(o, i),
+                f"carries {len(index_targets)} {OAR_INDEX!r} relations, naming "
+                f"{index_targets!r} — the index tree files a body under one parent and "
+                "--refresh writes exactly that, so every entry past the first is destroyed "
+                f"unread; record the others as {REGISTRY!r} (or the source that states "
+                "them)"))
 
 
     # *PART OF* AND AN ENABLING AUTHORITY ARE OPPOSITE CLAIMS ABOUT ONE BODY. ADR 0004
@@ -1772,11 +1908,12 @@ def check_registry(cat, fields=None) -> list:
                 # and name neither — while the row's OTHER relations, which survived
                 # perfectly well, would be printed alongside as though they were at risk.
                 #
-                # ADDING an entry is not reported here. The only way the simulation adds one
-                # is a row whose `parent_slug` no `oar-index` relation names, which
-                # `relation-names-the-parent` states directly and on the right row; saying
-                # it twice under a rule about survival would tell a reader the refresh is
-                # about to lose something when it is about to fill something in.
+                # ADDING an entry is not reported here, and since #174 the simulation
+                # cannot add one at all: it replays the index's placement from the row's own
+                # `oar-index` entry, so it rebuilds exactly the entries that are already
+                # there. Reporting an addition under a rule about SURVIVAL would in any case
+                # tell a reader the refresh is about to lose something when it is about to
+                # fill something in.
                 for entry in o[key]:
                     if entry not in (got[key] if isinstance(got[key], list) else []):
                         failures.append(Failure(
@@ -1843,7 +1980,7 @@ def _fixture():
     cfo = scraped_entry(name="Chief Financial Office", oar_chapter="122",
                         raw_index_name="Chief Financial Office",
                         source_url=f"{BASE}/rules/oar_chapter_122")
-    cfo["parent_slug"], cfo["parent_chapter"] = das["slug"], das["oar_chapter"]
+    cfo["parent_chapter"] = das["oar_chapter"]
     # THE TWO ORIGINS IN ONE LIST, which is the whole of what this field is: the OAR
     # index's placement, which --refresh regenerates, and a statute's, which nothing
     # upstream produces and only the per-entry merge carries across. A fixture holding
@@ -1878,9 +2015,12 @@ def _case_undeclared_field(cat):
 
 
 def _case_missing_required_field(cat):
-    """A row that dropped a field every row carries. `parent_slug: null` and no
-    parent_slug at all read the same to a consumer and are not the same claim."""
-    del cat["organizations"][1]["parent_slug"]
+    """A row that dropped a field every row carries. `relations: []` and no `relations` at
+    all read the same to a consumer — a body under nothing — and are not the same claim:
+    the first says this registry places it under no other, the second says nobody asked
+    (CONTEXT.md). It is the statement `parent_slug: null` used to make, over the field that
+    replaced the pointer (#174)."""
+    del cat["organizations"][1][RELATION_KEY]
 
 
 def _case_missing_oar_name(cat):
@@ -2130,12 +2270,12 @@ def _case_one_source_placing_a_body_under_a_parent_twice(cat):
 
 
 def _case_relation_target_resolves_to_nothing(cat):
-    """A relation aimed at no body. The same statement `parent-resolves` makes about
-    `parent_slug`, over the field that is going to replace it (#174): the relation names a
-    body IN this registry, and a dangling target states a hierarchy nobody can check while
-    reading as a fact. It is worse here than beside `parent_slug`, because a relation is
-    followed rather than displayed — three-level nesting is two relations between three
-    bodies (ADR 0004), and a walk that loses the middle one has no way to know it did."""
+    """A relation aimed at no body. Since #174 this is the ONLY statement the registry makes
+    about where a body sits, so a dangling target states a hierarchy nobody can check while
+    reading as a fact, with no second copy of the placement to catch it. It matters most
+    because a relation is FOLLOWED rather than displayed — three-level nesting is two
+    relations between three bodies (ADR 0004), and a walk that loses the middle one has no
+    way to tell that from a body that had no parent."""
     cat["organizations"][1]["relations"][1]["target"] = \
         "department-of-administrative-service"
 
@@ -2144,30 +2284,27 @@ def _adopt_manual_row(cat):
     """Give the fixture's manual row a parent, the way the registry's one manual child
     carries one: `oregon-health-authority-equity-and-inclusion-division` sits under the
     Oregon Health Authority on the strength of its own rule-page header, which is recorded
-    in the row's `note`. Both halves of the pointer are set, so `parent-agrees` stays quiet
-    and the cases below break exactly what they are about."""
+    in the row's `note`. The placement is a `registry` relation with `parent_chapter` set to
+    match, so `parent-agrees` stays quiet and the cases below break exactly what they are
+    about."""
     das, _cfo, gov = cat["organizations"]
-    gov["parent_slug"], gov["parent_chapter"] = das["slug"], das["oar_chapter"]
+    gov[RELATION_KEY] = [{"target": das["slug"], "source": REGISTRY, "kind": UNDETERMINED}]
+    gov["parent_chapter"] = das["oar_chapter"]
     return gov, das
 
 
-def _case_parent_named_by_no_relation(cat):
-    """A row with a `parent_slug` and no relation saying so. #171 lands the relation BESIDE
-    the pointer and removes nothing, so the two are one fact written twice until #174
-    retires the pointer — and a row carrying only the pointer is invisible to every consumer
-    that has already moved onto relations, which reads it as a body under nothing rather
-    than as a body whose relation is missing. Demonstrated on the MANUAL row, where it is
-    the only rule that fires: on a scraped row the missing entry is also an entry the index
-    would have produced, which is the next case."""
-    _adopt_manual_row(cat)
+def _case_the_index_places_a_body_under_two_parents(cat):
+    """Two `oar-index` entries on one row, naming two parents. The index tree files a body
+    under exactly ONE, and --refresh rewrites the entries it owns from that tree — so the
+    second is a placement the scrape will never reproduce and destroys unread on the next
+    run, in the one field whose whole point is that what the scrape does not own survives.
 
-
-def _case_child_whose_index_relation_is_missing(cat):
-    """A scraped child whose `oar-index` entry is gone. The index tree places this body
-    under that one and --refresh writes exactly that entry every time it runs, so a row
-    without it disagrees with the scrape that is about to overwrite it. Its parent is still
-    named — by the statute entry beside it — which is what keeps this case about one rule."""
-    del cat["organizations"][1]["relations"][0]
+    `relation-unique` does not reach it: that rule refuses one source naming one parent
+    twice, and these name two — which is the shape a real disagreement takes on every OTHER
+    source. Until #174 this rule compared the entries against `parent_slug`; there is no
+    second copy of the placement to compare with now, so it states what the tree can produce
+    instead."""
+    cat["organizations"][1][RELATION_KEY].append(index_relation("office-of-the-governor"))
 
 
 def _case_index_relation_the_index_could_not_have_stated(cat):
@@ -2177,12 +2314,14 @@ def _case_index_relation_the_index_could_not_have_stated(cat):
     attributes a placement to a publisher that never made it and calls an entry nothing can
     regenerate one the refresh rebuilds. It is also the one row where nothing else would
     notice: the survival simulation preserves a manual row whole, so a hand-written entry on
-    it is never compared with what the scrape would have produced. THE PARENT IS SET, which
-    is the point — with `parent_slug: null` the same entry fails for being a placement the
-    row does not claim anywhere, and the rule would look proven while the real row in the
-    registry (one manual child, under the Oregon Health Authority) went unguarded."""
+    it is never compared with what the scrape would have produced. THE ROW IS GIVEN A REAL
+    PARENT FIRST, which is the point: `_adopt_manual_row()` records the placement as the
+    `registry` relation that is true of it, and the index entry is then added BESIDE that —
+    so what fires is this rule, and not `parent-agrees` reporting a chapter with no
+    placement behind it. The real row in the registry (one manual child, under the Oregon
+    Health Authority) has exactly that shape."""
     gov, das = _adopt_manual_row(cat)
-    gov["relations"] = [index_relation(das["slug"])]
+    gov[RELATION_KEY].append(index_relation(das["slug"]))
 
 
 def _case_authority_hand_edited_onto_a_scraped_entry(cat):
@@ -2233,17 +2372,45 @@ def _case_duplicate_chapter(cat):
     cat["organizations"][1]["oar_chapter"] = cat["organizations"][0]["oar_chapter"]
 
 
-def _case_parent_slug_resolves_to_nothing(cat):
-    """A parent pointer aimed at no body. Whatever ADR 0004 splits `parent_slug` into,
-    the relation names a body IN this registry; a dangling one states a hierarchy that
-    cannot be checked and reads as a fact."""
-    cat["organizations"][1]["parent_slug"] = "department-of-administrative-service"
+def _case_the_retired_pointer_comes_back(cat):
+    """`parent_slug` written onto a row again. #174 removed it because a body's placement
+    lives in `relations` and a bare slug cannot say whose reading that placement is, which
+    of ADR 0004's two kinds it is, or on what authority — so a pointer that came back would
+    be a SECOND statement of where the body sits, free to disagree with the relations beside
+    it and invisible to whichever population of consumers read the other one.
+
+    It fires under `declared-field` rather than a rule of its own, and that is the point:
+    rows are checked against an ALLOWLIST, so a retired field needs nothing added to refuse
+    it and no blocklist to be forgotten from. This case is what proves the allowlist closed
+    behind the field #174 took out. The value is a REAL slug on purpose — a dangling one
+    would be refused for pointing nowhere, which is a different rule and would let this case
+    pass while the allowlist quietly did not hold."""
+    cat["organizations"][1]["parent_slug"] = "department-of-administrative-services"
 
 
 def _case_parent_chapter_disagrees(cat):
-    """The two halves of the same pointer disagreeing. Consumers use whichever half they
-    happened to read, so the disagreement resolves differently per consumer."""
+    """`parent_chapter` naming a chapter its parent does not hold. The field is the OAR
+    chapter of the body the row's relations place it under, written a second time — and
+    consumers use whichever of the two they happened to read, so the disagreement resolves
+    differently per consumer."""
     cat["organizations"][1]["parent_chapter"] = "999"
+
+
+def _case_parent_chapter_on_a_body_under_nothing(cat):
+    """A `parent_chapter` with no relation behind it. The chapter names the parent's
+    chapter, so a row under nothing has none to name — and the field left standing is a
+    parent a consumer can resolve by chapter and cannot find in `relations`, which is the
+    two-copies failure in the direction that has no second copy."""
+    cat["organizations"][1][RELATION_KEY] = []
+
+
+def _case_parent_chapter_where_the_sources_disagree(cat):
+    """A body two sources place under two different parents, still carrying one
+    `parent_chapter`. ADR 0003 keeps that disagreement rather than reconciling it, and one
+    chapter cannot hold two readings: whichever it names publishes one source's placement as
+    the registry's, silently, to every consumer that resolves the parent by chapter."""
+    cat["organizations"][1][RELATION_KEY].append(
+        {"target": "office-of-the-governor", "source": "das", "kind": UNDETERMINED})
 
 
 def _case_slug_the_scrape_would_not_produce(cat):
@@ -2312,9 +2479,8 @@ _CASES = [
      _case_one_source_placing_a_body_under_a_parent_twice, "relation-unique"),
     ("relation-target-resolves-to-nothing", _case_relation_target_resolves_to_nothing,
      "relation-resolves"),
-    ("parent-named-by-no-relation", _case_parent_named_by_no_relation,
-     "relation-names-the-parent"),
-    ("child-whose-index-relation-is-missing", _case_child_whose_index_relation_is_missing,
+    ("the-index-places-a-body-under-two-parents",
+     _case_the_index_places_a_body_under_two_parents,
      "index-relation-is-regenerated"),
     ("index-relation-the-index-could-not-have-stated",
      _case_index_relation_the_index_could_not_have_stated,
@@ -2327,9 +2493,17 @@ _CASES = [
     ("slug-the-scrape-would-not-produce", _case_slug_the_scrape_would_not_produce,
      "survives-refresh"),
     ("field-the-refresh-drops", _case_field_the_refresh_drops, "survives-refresh"),
-    ("parent-slug-resolves-to-nothing", _case_parent_slug_resolves_to_nothing,
-     "parent-resolves"),
+    # THE RETIRED POINTER, REFUSED BY THE ALLOWLIST (#174 acceptance criterion 7).
+    ("the-retired-pointer-comes-back", _case_the_retired_pointer_comes_back,
+     "declared-field"),
+    # THE THREE WAYS `parent_chapter` STOPS AGREEING WITH THE BODY THE RELATIONS NAME: a
+    # different chapter, a chapter with no placement behind it at all, and one chapter where
+    # the sources name two parents and it can only speak for one of them.
     ("parent-chapter-disagrees", _case_parent_chapter_disagrees, "parent-agrees"),
+    ("parent-chapter-on-a-body-under-nothing", _case_parent_chapter_on_a_body_under_nothing,
+     "parent-agrees"),
+    ("parent-chapter-where-the-sources-disagree",
+     _case_parent_chapter_where_the_sources_disagree, "parent-agrees"),
     ("duplicate-slug", _case_duplicate_slug, "unique-slug"),
     ("duplicate-chapter", _case_duplicate_chapter, "unique-chapter"),
     ("missing-required-field", _case_missing_required_field, "required-field"),
@@ -2498,14 +2672,25 @@ def _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry() -> int:
               file=sys.stderr)
         bad += 1
     # THE PLACEMENT MOVED, so the decision recorded about the old one is not re-attached to
-    # the new one. `parent_slug` is what the simulation rebuilds the index entry from, so
-    # moving it is what an upstream re-filing looks like from in here.
-    moved = [dict(o) for o in rows]
-    moved[1] = dict(moved[1], parent_slug="office-of-the-governor", parent_chapter=None,
-                    relations=[dict(decided)])
-    got = simulate_refresh(moved)["chief-financial-office"][RELATION_KEY]
-    if any(e.get("kind") != UNDETERMINED for e in got):
-        print(f"FAIL a-derived-kind-does-not-follow-a-placement-that-moved: {got!r}",
+    # the new one. PROVEN AGAINST `carry_decision()` ITSELF, which is where the rule lives,
+    # and not through the survival simulation: #174 removed `parent_slug`, so the simulation
+    # replays the index's placement from the row's own `oar-index` entry and the rebuilt
+    # entry always names the parent the committed one names. An upstream re-filing is no
+    # longer expressible in there — it never was something the simulation measured, which
+    # measures survival rather than drift — and a proof run through it would from now on
+    # pass by construction.
+    rebuilt = [index_relation("office-of-the-governor")]
+    carry_decision(dict(decided), rebuilt)
+    if rebuilt != [index_relation("office-of-the-governor")]:
+        print(f"FAIL a-derived-kind-does-not-follow-a-placement-that-moved: {rebuilt!r}",
+              file=sys.stderr)
+        bad += 1
+    # AND THE SAME CALL CARRIES IT WHEN THE PARENT DID NOT MOVE, so the check above is not
+    # passing because `carry_decision()` carries nothing at all.
+    same = [index_relation("department-of-administrative-services")]
+    carry_decision(dict(decided), same)
+    if same != [dict(decided)]:
+        print(f"FAIL a-derived-kind-follows-a-placement-that-stayed: {same!r}",
               file=sys.stderr)
         bad += 1
     return bad

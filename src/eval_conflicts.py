@@ -639,6 +639,8 @@ def main():
 
     chapters = [str(c["ors_chapter"]).lower() for c in cat["chapters"]]
     if args.chapters:
+        # COMPOUND NAME — NOT-A-REGISTRY-NAME: a comma-separated command-line list of OAR
+        # chapters, not a body's name.
         want = {c.strip().lower() for c in args.chapters.split(",")}
         chapters = [c for c in chapters if c in want]
     if args.limit_chapters:

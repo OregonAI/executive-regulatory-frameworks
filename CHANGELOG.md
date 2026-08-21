@@ -10,6 +10,32 @@ corpus-wide changes from 2026-08-02 forward.
 
 ## [Unreleased]
 
+### Removed
+- 2026-08-21 — `parent_slug` is retired from the agency registry (#174). Hierarchy lives in
+  `relations` and nowhere else: the pointer is off all 189 rows, `FIELDS` no longer declares
+  it, and because rows are checked against an ALLOWLIST, `catalog_agencies.py --check`
+  refuses it under `declared-field` if it ever comes back — a permanent proof of that is in
+  `--selftest` (`the-retired-pointer-comes-back`). Every in-repo consumer moved first.
+  `build_policy_gap.py` rolls sub-divisions up to their root agency and
+  `build_agency_graph.py` groups a sub-unit with its department, both now through
+  `catalog_agencies.root_body()` / `parent_targets()` — the one place hierarchy is walked, so
+  a rollup carrying rule counts and a rollup carrying a node colour cannot place one body two
+  ways. THE ROLLED-UP TOTALS AND THE GRAPH ARE UNCHANGED: 93 agencies, 36,953 OAR rules and
+  690 policy documents before and after, and 166 nodes / 8,088 edges / 15 coloured groups
+  before and after. A BODY ITS SOURCES DISAGREE ABOUT IS NOT ROLLED UP — a body may hold more
+  than one relation and ADR 0003 keeps that disagreement, so neither rollup picks one
+  reading; the body stands as its own root and the count is published beside the totals (zero
+  today). `agency_profile.py` no longer reads the pointer, which is an OUTPUT SCHEMA CHANGE:
+  its `registry` block no longer carries `parent_slug`, and carries `relations` in its place.
+  `src/expand_relations.py` is DELETED — its only input was `parent_slug`, so it cannot run
+  once the field is gone, and ADR 0004's new amendment is where the record of what it
+  derived, and how, now lives. `parent_chapter` stays, as the different fact it is (the
+  parent's OAR chapter, scraped from the same tree), and `parent-agrees` now states it
+  against the body the relations name — including the case one chapter cannot express, where
+  two sources name two parents. `name_readers.py --check` gained a second gate: nothing may
+  derive hierarchy by splitting the compound `Parent, Child` name, and a site that takes a
+  registry name apart on a comma fails unless it is classified as deriving a NAME.
+
 ### Added
 - 2026-08-21 — Relation KINDS on the agency registry, each recording what it was derived
   from (#173): 44 of the 81 children now record `administered_by` and 37 record
