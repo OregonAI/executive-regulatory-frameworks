@@ -79,6 +79,11 @@ SCRAPED, CURATED, MANUAL_FLAG = "scraped", "curated", "manual-flag"
 
 Field = namedtuple("Field", "origin required")
 
+# One contract violation: which rule, which row, and what is wrong with it. A type rather
+# than a formatted string so --selftest asserts on the RULE that fired instead of pattern-
+# matching prose, which is how a test starts passing for the wrong reason.
+Failure = namedtuple("Failure", "rule row detail")
+
 FIELDS = {
     "slug": Field(SCRAPED, required=True),
     "name": Field(SCRAPED, required=True),
@@ -97,8 +102,11 @@ FIELDS = {
     # scrape rather than preserved curation.
     "note": Field(SCRAPED, required=False),
     "manual": Field(MANUAL_FLAG, required=False),
-    # Hand-reviewed map to the DAS agency codes oregon-budget reports spending against;
-    # see src/link_budget_codes.py.
+    # Hand-reviewed map to the DAS agency numbers oregon-budget reports spending against;
+    # see src/link_budget_codes.py. ADR 0003 renames this field to `das_agency_number` —
+    # the number identifies a body in the state's financial administration and says nothing
+    # about whether it spends money. The rename is a separate change to the registry's data;
+    # this table declares the field the committed rows carry TODAY.
     "budget_agency_code": Field(CURATED, required=False),
     # Other names the same body is known by, including former names after a rename. An
     # ASSERTION of identity, reviewed once, rather than a similarity score computed at
@@ -180,6 +188,21 @@ def parse_index(raw: str):
     return entries
 
 
+def assert_scrape_declared(orgs):
+    """Stop a refresh that produced a field FIELDS does not declare SCRAPED.
+
+    THE DECLARATION IS BINDING ON THE SCRAPE, and this is the half --check cannot reach: it
+    reads committed data and never runs a scrape, so it can only ask whether the rows it can
+    see would survive. A field added to the scrape without being declared would make that
+    simulation wrong in the direction that hides losses — the field would be compared as if
+    curated and fail, or worse, be assumed rewritten — so the refresh that would introduce it
+    stops here instead, before anything is written."""
+    undeclared = {k for o in orgs for k in o} - SCRAPED_KEYS
+    if undeclared:
+        sys.exit(f"the scrape produced undeclared field(s) {sorted(undeclared)} — add them "
+                 "to FIELDS (origin SCRAPED) before writing the registry")
+
+
 def preserve_manual(prev_orgs, orgs, by_slug):
     """Carry over manually-added entries (chapters OARD serves but the mirror's index
     omits, e.g. 419, 950 — discovered via renumbering redirects during the mass import).
@@ -193,21 +216,22 @@ def preserve_manual(prev_orgs, orgs, by_slug):
     # was tested against, and every null-chapter manual entry after it looked like a
     # collision with a chapter the mirror had caught up on.
     #
-    # 13 of the 15 manual entries carry a null chapter, because that is what a body with
-    # no OAR chapter looks like -- the Governor's office, the Legislative Assembly,
-    # district attorneys. Simulated against the committed catalogue, a --refresh kept 2
+    # 13 of the 15 manual entries THEN IN THE REGISTRY carried a null chapter -- 17 carry
+    # the flag today -- because that is what a body with no OAR chapter looks like: the
+    # Governor's office, the Legislative Assembly, district attorneys. Simulated against
+    # the registry as it stood, a --refresh kept 2
     # and dropped 13, among them office-of-the-governor, legislative-fiscal-officer and
     # district-attorneys-and-deputies. Six of those are slugs oregon-kpm's agency
     # crosswalk resolves into today.
     #
     # It would have failed the way preserve_curated() below warns about: silently. The
-    # catalogue still parses, every remaining slug still resolves, and the loss only
+    # registry still parses, every remaining slug still resolves, and the loss only
     # surfaces as a cross-corpus join that quietly stopped matching. `--check` now replays
-    # this function against the committed catalogue on every PR, so the next regression of
+    # this function against the committed registry on every PR, so the next regression of
     # this class is a red build rather than a silent one.
     # A NULL CHAPTER CANNOT COLLIDE, and that is the second half of the bug. The guard
     # asks "has the mirror caught up on this chapter?", which is meaningless for an entry
-    # that never had one -- and four SCRAPED organizations legitimately carry
+    # that never had one -- and four SCRAPED bodies legitimately carry
     # `oar_chapter: null` (Secretary of State, DCBS, the Military Department, the Mental
     # Health Regulatory Agency, all parents whose rules live in their sub-units). So None
     # was always in this set, and every null-chapter manual entry was discarded no matter
@@ -222,8 +246,8 @@ def preserve_manual(prev_orgs, orgs, by_slug):
             by_slug[o["slug"]] = o
 
 
-def preserve_curated(prev_orgs, by_slug):
-    """Copy CURATED_KEYS from the previous catalogue onto the entries the scrape rebuilt.
+def preserve_curated(prev_orgs, by_slug, curated_keys=None):
+    """Copy CURATED_KEYS from the previous registry onto the rows the scrape rebuilt.
 
     Every field --refresh writes is derived fresh from oregon.public.law, so a key that
     is not scraped — and `budget_agency_code` is not; it is a hand-reviewed mapping to the
@@ -231,11 +255,12 @@ def preserve_curated(prev_orgs, by_slug):
     next --refresh. Silently is the problem: the file would still parse, every slug would
     still resolve, and the loss would only surface as a cross-corpus join that quietly
     stopped matching anything."""
+    curated_keys = CURATED_KEYS if curated_keys is None else curated_keys
     for o in prev_orgs:
         current = by_slug.get(o["slug"])
         if not current:
             continue
-        for key in CURATED_KEYS:
+        for key in curated_keys:
             if key in o and key not in current:
                 current[key] = o[key]
 
@@ -309,14 +334,7 @@ def cmd_refresh():
             orgs[i]["parent_slug"] = orgs[parent_idx]["slug"]
             orgs[i]["parent_chapter"] = orgs[parent_idx]["oar_chapter"]
 
-    # THE DECLARATION IS BINDING ON THE SCRAPE, checked here because --check cannot: it
-    # reads committed data and never runs a scrape. A field added to the rows above but not
-    # declared SCRAPED would make --check's simulated refresh wrong in the direction that
-    # hides losses, so the refresh that would introduce it stops instead.
-    undeclared = {k for o in orgs for k in o} - SCRAPED_KEYS
-    if undeclared:
-        sys.exit(f"the scrape produced undeclared field(s) {sorted(undeclared)} — add them "
-                 "to FIELDS (origin SCRAPED) before writing the catalogue")
+    assert_scrape_declared(orgs)
 
     if CATALOG.exists():
         prev_orgs = yaml.safe_load(CATALOG.read_text()).get("organizations", [])
@@ -463,7 +481,7 @@ def resolve(name, organizations=None):
 # WHAT --check IS FOR. The registry is the identity three sibling corpora crosswalk into, and
 # every rule below states something the committed rows already satisfy — so a failure here
 # means a change broke the registry's contract, not that the contract was aspirational. It
-# reads the committed catalogue and nothing else: no scrape, no network, so CI can run it on
+# reads the committed registry and nothing else: no scrape, no network, so CI can run it on
 # every PR.
 #
 # ALLOWLIST, NOT BLOCKLIST. A row is checked against the fields FIELDS declares; anything
@@ -472,7 +490,7 @@ def resolve(name, organizations=None):
 # check" is never reported as "is not there".
 
 
-def simulate_refresh(prev_orgs):
+def simulate_refresh(prev_orgs, curated_keys=None):
     """{slug: row} for what --refresh would leave behind, run against committed data.
 
     NO NETWORK AND NO SCRAPE. The scrape is replayed rather than performed: every row the
@@ -501,7 +519,7 @@ def simulate_refresh(prev_orgs):
         # against the wrong row.
         by_slug.setdefault(row["slug"], row)
     preserve_manual(prev_orgs, orgs, by_slug)
-    preserve_curated(prev_orgs, by_slug)
+    preserve_curated(prev_orgs, by_slug, curated_keys)
     return {o["slug"]: o for o in orgs}
 
 
@@ -512,30 +530,51 @@ def _row_id(o, i):
     return slug if isinstance(slug, str) and slug else f"organizations[{i}]"
 
 
-def check_registry(cat) -> list:
-    """Every way the committed registry violates its contract, as "[rule] row: what"."""
+def check_registry(cat, fields=None) -> list:
+    """Every way the registry violates its contract, as Failures.
+
+    `fields` is the declaration to check against, defaulting to the one this module ships.
+    It is a PARAMETER so that --selftest can check a registry against a differently-declared
+    table — the two ways a curated field goes missing from CURATED_KEYS are statements about
+    the declaration, and no registry row can express either one."""
+    fields = FIELDS if fields is None else fields
+    curated = frozenset(k for k, f in fields.items() if f.origin == CURATED)
+    scraped = frozenset(k for k, f in fields.items() if f.origin == SCRAPED)
+
     failures = []
     orgs = (cat or {}).get("organizations")
     if not isinstance(orgs, list):
-        return ["[readable-registry] agencies.yml: no `organizations` list to check"]
+        return [Failure("readable-registry", "agencies.yml",
+                        "no `organizations` list to check")]
+    # Every rule below is vacuously true of an empty list, so a registry that lost all its
+    # rows would pass every one of them — the "check that passes without checking anything"
+    # this repo treats as a defect in its own right. `validate_frontmatter` resolves every
+    # content file's agency: against these rows, so zero of them is never a valid state.
+    if not orgs:
+        return [Failure("registry-populated", "agencies.yml",
+                        "no bodies at all — every other rule is vacuously true of an "
+                        "empty registry, so nothing was checked")]
 
     for i, o in enumerate(orgs):
         if not isinstance(o, dict):
-            failures.append(f"[readable-row] {_row_id(o, i)}: not a mapping, so no rule "
-                            "below could be evaluated against it")
+            failures.append(Failure("readable-row", _row_id(o, i),
+                                    "not a mapping, so no rule below could be evaluated "
+                                    "against it"))
             continue
         for key in o:
-            if key not in FIELDS:
-                failures.append(
-                    f"[declared-field] {_row_id(o, i)}: field {key!r} is not declared in "
-                    "FIELDS — if it is curated, --refresh will destroy it; declare it")
+            if key not in fields:
+                failures.append(Failure(
+                    "declared-field", _row_id(o, i),
+                    f"field {key!r} is not declared in FIELDS — if it is curated, "
+                    "--refresh will destroy it; declare it"))
         # An absent key and a null value are different claims: `parent_slug: null` says a
         # body has no parent, an absent parent_slug says nobody asked. Consumers read both
         # as "no parent", which is how the second silently becomes the first.
-        for key, field in FIELDS.items():
+        for key, field in fields.items():
             if field.required and key not in o:
-                failures.append(f"[required-field] {_row_id(o, i)}: required field "
-                                f"{key!r} is absent (null is a value; absent is not)")
+                failures.append(Failure("required-field", _row_id(o, i),
+                                        f"required field {key!r} is absent (null is a "
+                                        "value; absent is not)"))
 
     # Position is carried alongside, so a failure points at the row's place in the
     # committed file rather than its place among the rows that happened to be readable.
@@ -551,8 +590,9 @@ def check_registry(cat) -> list:
             if value is None:   # 19 bodies hold no chapter, which is not a collision
                 continue
             if value in seen:
-                failures.append(f"[{rule}] {_row_id(o, i)}: {key} {value!r} is already "
-                                f"claimed by {seen[value]!r}")
+                failures.append(Failure(rule, _row_id(o, i),
+                                        f"{key} {value!r} is already claimed by "
+                                        f"{seen[value]!r}"))
             else:
                 seen[value] = _row_id(o, i)
 
@@ -568,29 +608,33 @@ def check_registry(cat) -> list:
             continue
         parent = by_slug.get(parent_slug)
         if parent is None:
-            failures.append(f"[parent-resolves] {_row_id(o, i)}: parent_slug "
-                            f"{parent_slug!r} is not a slug in this registry")
+            failures.append(Failure("parent-resolves", _row_id(o, i),
+                                    f"parent_slug {parent_slug!r} is not a slug in this "
+                                    "registry"))
             continue
         if o.get("parent_chapter") != parent.get("oar_chapter"):
-            failures.append(
-                f"[parent-agrees] {_row_id(o, i)}: parent_chapter "
-                f"{o.get('parent_chapter')!r} but {parent_slug!r} holds chapter "
-                f"{parent.get('oar_chapter')!r}")
+            failures.append(Failure(
+                "parent-agrees", _row_id(o, i),
+                f"parent_chapter {o.get('parent_chapter')!r} but {parent_slug!r} holds "
+                f"chapter {parent.get('oar_chapter')!r}"))
 
     # CALLING A FIELD SCRAPED IS A CLAIM ABOUT THE CODE, so it is checked against the code.
     # The survival comparison below skips scraped fields on the grounds that the refresh
     # rewrites them; a curated field wrongly declared SCRAPED would therefore be skipped
     # while a real --refresh dropped it — a false pass, which is the one outcome a gate must
     # not produce. `scraped_entry()` is the only thing that writes a scraped field, so its
-    # own key set settles the question.
-    written = set(scraped_entry(name="x", oar_chapter=None, raw_index_name=None,
-                                source_url=None, note="x"))
-    for key in sorted(SCRAPED_KEYS - written):
-        failures.append(f"[scraped-field] FIELDS: {key!r} is declared SCRAPED but "
-                        "scraped_entry() does not write it — --refresh would drop it")
-    for key in sorted(written - SCRAPED_KEYS):
-        failures.append(f"[scraped-field] FIELDS: scraped_entry() writes {key!r}, which "
-                        "FIELDS does not declare SCRAPED")
+    # own key set settles the question. The probe passes a TRUTHY note on purpose: the
+    # constructor omits that key when a chapter page parsed fine, which is most of the time.
+    written = set(scraped_entry(name="probe", oar_chapter=None, raw_index_name=None,
+                                source_url=None, note="probe"))
+    for key in sorted(scraped - written):
+        failures.append(Failure("scraped-field", "FIELDS",
+                                f"{key!r} is declared SCRAPED but scraped_entry() does "
+                                "not write it — --refresh would drop it"))
+    for key in sorted(written - scraped):
+        failures.append(Failure("scraped-field", "FIELDS",
+                                f"scraped_entry() writes {key!r}, which FIELDS does not "
+                                "declare SCRAPED"))
 
     # WHAT A --refresh WOULD LEAVE BEHIND. Everything above reads the registry as it stands;
     # this reads it as it would stand after the command that rebuilds it, which is the only
@@ -606,27 +650,30 @@ def check_registry(cat) -> list:
         (simulatable if isinstance(o.get("name"), str) and isinstance(o.get("slug"), str)
          else unevaluable).append((i, o))
     for i, o in unevaluable:
-        failures.append(f"[survives-refresh] {_row_id(o, i)}: no name or no slug, so a "
-                        "refresh cannot be simulated against this row — it is unchecked, "
-                        "not clean")
-    survivors = simulate_refresh([o for _, o in simulatable])
+        failures.append(Failure("survives-refresh", _row_id(o, i),
+                                "no name or no slug, so a refresh cannot be simulated "
+                                "against this row — it is unchecked, not clean"))
+    survivors = simulate_refresh([o for _, o in simulatable], curated_keys=curated)
     for i, o in simulatable:
         got = survivors.get(o.get("slug"))
         if got is None:
-            failures.append(f"[survives-refresh] {_row_id(o, i)}: --refresh would not "
-                            "produce this row and nothing preserves it — the row, and "
-                            "every curated field on it, would be gone")
+            failures.append(Failure("survives-refresh", _row_id(o, i),
+                                    "--refresh would not produce this row and nothing "
+                                    "preserves it — the row, and every curated field on "
+                                    "it, would be gone"))
             continue
         for key in o:
-            if key in SCRAPED_KEYS:
+            if key in scraped:
                 continue
             if key not in got:
-                failures.append(f"[survives-refresh] {_row_id(o, i)}: --refresh would drop "
-                                f"{key!r} — it is not scraped, so only CURATED_KEYS can "
-                                "carry it across")
+                failures.append(Failure("survives-refresh", _row_id(o, i),
+                                        f"--refresh would drop {key!r} — it is not "
+                                        "scraped, so only CURATED_KEYS can carry it "
+                                        "across"))
             elif got[key] != o[key]:
-                failures.append(f"[survives-refresh] {_row_id(o, i)}: --refresh would "
-                                f"change {key!r} from {o[key]!r} to {got[key]!r}")
+                failures.append(Failure("survives-refresh", _row_id(o, i),
+                                        f"--refresh would change {key!r} from {o[key]!r} "
+                                        f"to {got[key]!r}"))
     return failures
 
 
@@ -638,7 +685,7 @@ def cmd_check() -> int:
     cat = load()
     failures = check_registry(cat)
     for f in failures:
-        print(f"  FAIL {f}", file=sys.stderr)
+        print(f"  FAIL [{f.rule}] {f.row}: {f.detail}", file=sys.stderr)
     orgs = cat.get("organizations") or []
     if failures:
         print(f"\n{len(failures)} contract violation(s) across {len(orgs)} row(s)",
@@ -657,7 +704,7 @@ def cmd_check() -> int:
 # THE PROOF THAT THE GATE ABOVE CAN FAIL. Every rule --check enforces is exercised here
 # against a synthetic registry built to violate exactly one of them, because a check nobody
 # has watched fail is not known to work — it is only known to be quiet. Synthetic fixtures:
-# no network, no read of the committed catalogue.
+# no network, no read of the committed registry.
 
 
 def _fixture():
@@ -678,9 +725,12 @@ def _fixture():
 
 
 def _case_undeclared_field(cat):
-    """A field nobody declared. It may be curation --refresh is about to destroy, and
-    an unevaluable row must never be reported as a passing one."""
-    cat["organizations"][0]["das_agency_number"] = "10700"
+    """A field nobody declared. It may be curation --refresh is about to destroy, and a
+    field we could not evaluate must never be reported as one that passed. The name is
+    deliberately made up: `das_agency_number` and `oar_name` are fields ADR 0003 says the
+    registry is GOING to carry, and using one as the example of an illegitimate field
+    would read as a verdict on a decision that has already been taken."""
+    cat["organizations"][0]["headcount"] = 412
 
 
 def _case_missing_required_field(cat):
@@ -744,8 +794,16 @@ def _case_row_the_simulation_cannot_run_on(cat):
     del cat["organizations"][0]["name"]
 
 
+def _case_registry_emptied(cat):
+    """Every row gone. A gate that reports a registry with no bodies in it as clean is a
+    gate that passes without checking anything — and every rule below is vacuously true of
+    an empty list, so this one has to be stated separately."""
+    cat["organizations"] = []
+
+
 _CASES = [
     ("undeclared-field", _case_undeclared_field, "declared-field"),
+    ("registry-emptied", _case_registry_emptied, "registry-populated"),
     ("row-the-simulation-cannot-run-on", _case_row_the_simulation_cannot_run_on,
      "survives-refresh"),
     ("slug-the-scrape-would-not-produce", _case_slug_the_scrape_would_not_produce,
@@ -761,53 +819,60 @@ _CASES = [
 ]
 
 
-# THE TWO WAYS A CURATED FIELD GOES MISSING FROM CURATED_KEYS, proved by patching the
-# derivation rather than the data — no registry row can express either one, because both are
-# a statement about the FIELDS table. This is acceptance criterion 5 of issue #165 kept
-# permanently: the derivation is only worth having if its absence is caught.
+# THE TWO WAYS A CURATED FIELD GOES MISSING FROM CURATED_KEYS. Neither is expressible as a
+# registry row, because both are a statement about the FIELDS table — so each is a whole
+# alternative declaration, checked against a registry that is otherwise clean. This is
+# acceptance criterion 5 of issue #165 kept permanently: deriving CURATED_KEYS from FIELDS
+# is only worth doing if the derivation going wrong is caught.
 #
-#   not curated   the field is declared, but as something other than CURATED, so
-#                 preserve_curated() never copies it forward and --refresh drops it.
-#   called scraped  worse, because it looks preserved: the field is excluded from the
-#                 survival comparison as if the scrape rewrote it, while `scraped_entry()`
-#                 — the only thing that writes a scraped field — never produces it.
+#   not curated     the field is declared, but as something other than CURATED, so
+#                   preserve_curated() never carries it forward and --refresh drops it.
+#   called scraped  worse, because it looks preserved: the field is left out of the
+#                   survival comparison as if the scrape rewrote it, while scraped_entry()
+#                   — the only thing that writes a scraped field — never produces it.
 _PROOFS = [
-    ("curated-field-not-in-curated-keys",
-     {"CURATED_KEYS": frozenset({"aliases"})}, "survives-refresh"),
-    ("curated-field-called-scraped",
-     {"CURATED_KEYS": frozenset({"aliases"}),
-      "SCRAPED_KEYS": SCRAPED_KEYS | {"budget_agency_code"}}, "scraped-field"),
+    ("curated-field-declared-manual-flag",
+     dict(FIELDS, budget_agency_code=Field(MANUAL_FLAG, required=False)),
+     "survives-refresh"),
+    ("curated-field-declared-scraped",
+     dict(FIELDS, budget_agency_code=Field(SCRAPED, required=False)),
+     "scraped-field"),
 ]
 
 
-def _check_with(patched, cat):
-    """check_registry() with module globals temporarily replaced, restored either way."""
-    saved = {k: globals()[k] for k in patched}
-    globals().update(patched)
+def _proof_refresh_rejects_an_undeclared_scraped_field() -> int:
+    """--refresh's own half of the declaration, which --check cannot reach: it reads
+    committed data and never runs a scrape, so a field the SCRAPE started writing without
+    declaring it can only be caught where the scrape runs. Demonstrated failing here
+    because a guard nobody has watched fire is not known to fire."""
     try:
-        return check_registry(cat)
-    finally:
-        globals().update(saved)
+        assert_scrape_declared([{"slug": "a-body", "oar_name": "A Body"}])
+    except SystemExit as e:
+        return 0 if "oar_name" in str(e) else 1
+    print("FAIL refresh-rejects-undeclared-scraped-field: the scrape guard did not fire",
+          file=sys.stderr)
+    return 1
 
 
 def selftest() -> int:
     bad = 0
-    for name, patched, rule in _PROOFS:
-        failures = _check_with(patched, _fixture())
-        if not any(f"[{rule}]" in f for f in failures):
+    for name, declaration, rule in _PROOFS:
+        failures = check_registry(_fixture(), fields=declaration)
+        if not any(f.rule == rule for f in failures):
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
             bad += 1
+    bad += _proof_refresh_rejects_an_undeclared_scraped_field()
     for name, mutate, rule in _CASES:
         cat = _fixture()
         assert not check_registry(cat), f"fixture does not pass cleanly ({name})"
         mutate(cat)
         failures = check_registry(cat)
-        if not any(f"[{rule}]" in f for f in failures):
+        if not any(f.rule == rule for f in failures):
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
             bad += 1
-    print(f"{len(_CASES) + len(_PROOFS)} violation(s) demonstrated failing"
+    print(f"{len(_CASES) + len(_PROOFS) + 1} violation(s) demonstrated failing"
           if not bad else f"{bad} rule(s) did not fire")
     return 1 if bad else 0
 

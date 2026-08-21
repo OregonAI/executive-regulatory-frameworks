@@ -137,7 +137,7 @@ jobs:
       # `catalog_agencies.py --refresh` has broken it was silent: curated fields dropped
       # because CURATED_KEYS did not list them, 13 manual rows dropped because a
       # null chapter looked like a collision. This replays a refresh against the committed
-      # catalogue (no scrape, no network) and fails when a row or a curated field would not
+      # registry (no scrape, no network) and fails when a row or a curated field would not
       # survive it, plus the slug/chapter/parent rules of ADR 0003 and ADR 0004.
       - name: Agency registry must keep its contract
         run: python3 src/catalog_agencies.py --check
