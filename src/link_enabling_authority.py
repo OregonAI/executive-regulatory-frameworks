@@ -403,10 +403,12 @@ def resolvable_citations() -> set[str]:
     """Every citation this corpus can resolve an authority against: the mirrored ORS
     sections and the mirrored executive orders.
 
-    THE OREGON CONSTITUTION IS NOT IN HERE, because it is not mirrored. ADR 0005 states
-    that hole rather than working around it — `Or. Const. Art. XVII, sec. 99` is well-formed
-    and nothing can say it is wrong — so a constitutional authority is checked for FORM and
-    reported as unverified, never silently counted as verified.
+    THE OREGON CONSTITUTION IS STILL NOT IN HERE, and #194 mirroring Article VI does not
+    change that: one article of eighteen cannot decide a constitutional citation either way.
+    Resolving against a partial mirror would report a well-formed `Or. Const. Art. IV, sec.
+    1` as unresolvable — the ambiguity ADR 0005 rejects, in the field where an authority is
+    ADMITTING evidence. So a constitutional authority is checked for FORM and reported as
+    unverified, never silently counted as verified, until #195 completes the mirror.
     """
     return {c for c, _t, _s, _b, _m in _statute_sections()} | _executive_order_citations()
 
@@ -579,16 +581,18 @@ def check() -> int:
         return 1
 
     # WHAT WAS RESOLVED AND WHAT WAS ONLY READ, reported apart. A constitutional authority
-    # is checked for form and nothing else — the Oregon Constitution is not mirrored (ADR
-    # 0005) — and folding it into one "verified" count would report an unverifiable claim
-    # as a verified one.
+    # is checked for form and nothing else — only Article VI of the Constitution is mirrored
+    # (#194 of ADR 0005), and one article cannot resolve a citation to the other seventeen —
+    # and folding it into one "verified" count would report an unverifiable claim as a
+    # verified one.
     forms = collections.Counter(classify_authority(a)[0] for a in MAPPED.values())
     print(f"enabling-authority table is consistent with the corpus: "
           f"{authority_census(orgs)}.")
     print(f"  resolved against the mirror : {forms['ors']} ORS, "
           f"{forms['executive-order']} executive order(s)")
     print(f"  form checked, not resolved  : {forms['constitution']} constitutional "
-          "(the Oregon Constitution is not mirrored — ADR 0005)")
+          "(only Article VI of the Constitution is mirrored; resolving one of these needs "
+          "the whole document — ADR 0005, #195)")
     return 0
 
 
