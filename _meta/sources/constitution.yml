@@ -1,0 +1,25 @@
+group: constitution
+title: Oregon Constitution (ingested articles)
+kind: chapter-html
+recheck: even_year_general_election
+upstream_signal: Amendments referred to the voters and decided at the general election, November of even-numbered
+  years (ADR 0005). The Legislature publishes the whole document as ONE HTML page, so this group has one source
+  and one sha256 for all 18 articles - any amendment anywhere moves it, and the signal says that something changed
+  and never what. The diff does that work.
+last_checked: '2026-08-21'
+sources:
+- id: oregon-constitution
+  url: https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx
+  sha256: c8c579f8c97ccdab38f78755587215ce32f046f0ab021597a7482816d5d1a43f
+  last_checked: '2026-08-21'
+  notes: 'Oregon Constitution, all 18 articles on one page, in effect following the approval of amendments and revisions
+    on November 5, 2024. THE PHASE THIS CLOCK STARTS ON IS A DECISION (ADR 0005): 2026-08-21 is the day the page
+    was actually fetched and hashed, not the month after an election, which is where this cadence lands well. Written
+    honestly rather than back-dated to a check nobody made - the consequence is that 765 days puts the first due
+    date at 2028-09-24, which is AFTER the November 2026 election it should follow by 22 months. It self-corrects
+    on the first check made after that election, because check_updates.py re-anchors last_checked on the day the
+    check ran: a check on 2026-12-10 comes due again 67 days after the November 2028 election. The quarterly full
+    sweep in scheduled.yml re-hashes this URL regardless of the cadence, so drift is still seen; a cadence that
+    could state its own phase is #198. The raw page bytes are NOT stable - it is served with a fresh ASP.NET view
+    state per request - so this sha256 is the hash of the extracted text (repo_lib.content_hash), which is stable
+    across fetches.'

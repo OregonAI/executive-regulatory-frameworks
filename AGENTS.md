@@ -35,6 +35,7 @@ agency-scoped under `agencies/<agency>/`:
 
 | doc_type | Directory |
 |---|---|
+| `constitutional_provision` | `constitution/` |
 | `statute` | `statutes/` |
 | `rule` | `rules/` |
 | `executive_order` | `executive-orders/` |
@@ -44,6 +45,13 @@ agency-scoped under `agencies/<agency>/`:
 | `manual` | `agencies/<agency>/accounting-manual/` |
 | `standard` | `agencies/<agency>/standards/` |
 | `schedule` | `agencies/<agency>/schedules/` |
+
+`constitutional_provision` is one section of the Oregon Constitution (ADR 0005). It is a
+doc_type this corpus DECLARES rather than one the shared schema ships — `_meta/corpus.yml`'s
+`schema.doc_types` block adds it to the frontmatter enum and marks it `verbatim: true`, which
+is what puts it under the same line-by-line provenance verification as a statute. Article VI
+is mirrored (#194); the other 17 articles are not yet (#195), and a citation into one of them
+resolves to nothing **and says it is not mirrored** rather than reporting it absent.
 
 `schedule` is a **special records-retention schedule** issued by the Secretary of State
 Archives Division. It is scoped under the agency it **binds**, not the one that issued it —

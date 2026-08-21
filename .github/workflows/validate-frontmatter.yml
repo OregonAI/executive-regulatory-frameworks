@@ -51,6 +51,29 @@ jobs:
       # a wrong date passes every other gate silently. Cases are real corpus lines.
       - name: Executive-order signed-date parser
         run: python3 src/ingest_eo.py --selftest
+      # The Oregon Constitution is mirrored one article at a time (ADR 0005), and a section
+      # is published only when its slice passed every rule — missing, too small, not
+      # anchored to the title the page lists, or printed as a repealed section's leadline
+      # and history bracket alone. Each rule fires here against a synthetic page, and the
+      # end-to-end proof is that a deliberately broken slice leaves NO document behind: a
+      # skip that silently published would put text under a citation that does not name it.
+      - name: Constitution ingest skip rules must all be able to fail
+        run: python3 src/ingest_constitution.py --selftest
+      # The citation schemes' own proofs, and the half that matters is the refusals: an
+      # `Or. Const.` citation to a section the page does not print must resolve to NOTHING
+      # and say so, never to the article or to a neighbouring section. It also holds the
+      # three answers apart that a partial mirror makes it easy to collapse — not mirrored
+      # yet, printed but not published, and printed nowhere.
+      #
+      # ITS LAST PROOF RUNS THE WHOLE WAY THROUGH `CorpusFramework.resolve_citation`, which
+      # is why this is a PER-PR step and not only part of the nightly MCP smoke test below:
+      # the PR that changes a scheme is the one that can break it, and every unit-level
+      # proof above still passes while the served resolver answers "no citation scheme
+      # recognized this format" (#202's trap, hit while this scheme was being written).
+      # ~85 s: the unresolved cases exercise resolve_citation's search fallback, which
+      # builds the FTS index from scratch on a fresh checkout.
+      - name: Citation schemes must resolve, and refuse, what they claim
+        run: python3 src/citation_schemes.py --selftest
       # A re-analysis must never delete a prior run's candidates. The merge used to
       # replace an already-covered chapter's list wholesale, so a weaker model silently
       # destroyed findings a stronger one produced — 25 of 137 would have gone in a
@@ -243,6 +266,11 @@ jobs:
           check('renumbered OAR citation resolves', any(m['id']=='oar-128-030-0020' for m in r['matches']))
           r = fw.resolve_citation('ORS 276A.300')
           check('ORS citation resolves', any(m['id']=='ors-276a.300' for m in r['matches']))
+          r = fw.resolve_citation('Or. Const. Art. VI, sec. 1')
+          check('constitutional citation resolves', any(m['id']=='orconst-art-vi-sec-1' for m in r['matches']))
+          r = fw.resolve_citation('Or. Const. Art. VI, sec. 99')
+          check('a section the page does not print resolves to nothing', r.get('unresolved') and not r['matches'])
+          check('...and says the page prints no such section', 'no section 99' in (r.get('note') or ''))
           r = fw.get_document('oar-128-030-0020')
           check('get_document returns body + disclaimer', 'body' in r and r.get('disclaimer'))
           r = fw.corpus_overview()

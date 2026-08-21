@@ -38,6 +38,7 @@ The full design rationale lives in [repo-design.md](repo-design.md).
 ## Structure
 
 ```
+constitution/        Oregon Constitution, one document per section (Article VI only; #195)
 statutes/            ORS — Oregon Revised Statutes (jurisdiction-wide)
 rules/               OAR — Oregon Administrative Rules (chapter/division)
 executive-orders/    Governor's executive orders
@@ -51,8 +52,8 @@ src/                 Ingestion, catalog, and derived-view tooling. Frontmatter
                      are this corpus's plugins into that framework.
 ```
 
-Organized by **authority tier** (statute → rule → executive order → policy → standard →
-external reference), with agency-scoped material under `agencies/<agency>/` so new agencies
+Organized by **authority tier** (constitution → statute → rule → executive order → policy →
+standard → external reference), with agency-scoped material under `agencies/<agency>/` so new agencies
 can be added without schema changes.
 
 ## Guarantees (enforced by CI)

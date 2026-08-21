@@ -11,7 +11,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from link_graph import build_renumber_map
-from repo_lib import REPO_ROOT, yaml_load
+from repo_lib import REPO_ROOT, orconst_id, yaml_load
 
 from corpus_toolkit.mcp.framework import register_scheme
 
@@ -97,6 +97,90 @@ def _resolve_ors(m, nodes):
     return [cid]
 
 
+# ---------------------------------------------------------------- the Oregon Constitution
+#
+# `Or. Const. Art. VI, sec. 1` — the form Oregon courts, the ORS annotations and this
+# corpus's own documents use (ADR 0005; 751 documents cite the Constitution). Registered
+# because until now the layer at the top of the authority chain had no citation scheme at
+# all: the string matched nothing, and resolve_citation answered "no citation scheme
+# recognized this format" about the instrument every statute in this corpus hangs from.
+#
+# WHAT IT REFUSES IS THE POINT. The 'Or. Const.' token is REQUIRED — a bare
+# "Article VI, section 1" is a citation to some article of something, and matching it would
+# make this scheme answer for contracts, charters and other states' constitutions. `\b`
+# before `Or` is what keeps `ColORado Const.` out.
+#
+# The id is the citation, token for token: Art. VI, sec. 9a -> orconst-art-vi-sec-9a. The
+# article keeps its roman numeral and the section keeps its letter, because both are how
+# the source prints them and how a reader would write them back.
+# THE CASE FLAG IS IN THE PATTERN STRING, NOT THE compile() CALL. register_scheme takes
+# `OR_CONST_C.pattern` — the string — and compiles it itself, so a flag passed to
+# re.compile here reaches this module's own uses and NOT the resolver the MCP server runs.
+# Measured: with `re.I` passed as an argument, `Or. Const. Art. VI, sec. 1` matched here and
+# came back from resolve_citation as "no citation scheme recognized this format". The same
+# trap is set for ORS_C/OAR_*/EO_C/NUMS_C above, which all pass re.I the losing way — filed
+# as #202, and not fixed here.
+OR_CONST_C = re.compile(
+    r"(?i)\b(?:Or|Ore|Oregon)\.?\s*Const(?:itution)?\.?,?\s*"
+    r"Art(?:icle)?\.?\s*([IVXL]+(?:-[A-Z])?)\s*,?\s*"
+    r"(?:§|Sec(?:tion|t|\.)?)\s*\.?\s*(\d+[a-z]?)\.?\s*$")
+
+CONSTITUTION_CATALOG_PATH = REPO_ROOT / "_meta/catalog/constitution.yml"
+
+
+_CONSTITUTION = None
+
+
+def _constitution_catalog():
+    """{ARTICLE: catalog entry} — the sections the SOURCE PAGE prints for each article this
+    corpus has mirrored, with the status each one ended in. It is what lets an unresolved
+    constitutional citation say which of three things happened, instead of one blank."""
+    global _CONSTITUTION
+    if _CONSTITUTION is None:
+        cat = {}
+        if CONSTITUTION_CATALOG_PATH.exists():
+            cat = yaml_load(CONSTITUTION_CATALOG_PATH.read_text()) or {}
+        _CONSTITUTION = {a["article"].upper(): a for a in cat.get("articles", [])}
+    return _CONSTITUTION
+
+
+def _resolve_or_const(m):
+    """THREE ANSWERS, WHICH MAY NEVER BE COLLAPSED INTO ONE (CONTEXT.md).
+
+      * the section is mirrored          -> its id
+      * the article is not mirrored yet  -> nothing, and says so (#195)
+      * the article IS mirrored and the page prints no such section -> nothing, and says
+        THAT, which is the only one of the three that is a claim about the Constitution
+      * the page prints it and this corpus did not publish it -> nothing, and the reason
+        the catalog recorded
+
+    A partial mirror is exactly the state ADR 0005 warned makes "not found" ambiguous, so
+    while it lasts the ambiguity is answered in words rather than left to be inferred."""
+    article, section = m.group(1).upper(), m.group(2).lower()
+    cid = orconst_id(article, section)
+    catalog = _constitution_catalog()
+    entry = catalog.get(article)
+    if entry is None:
+        held = ", ".join(f"Article {a}" for a in catalog) or "no article of it"
+        return [], (f"Article {article} of the Oregon Constitution is not mirrored in "
+                    f"this corpus yet — it mirrors {held} (ADR 0005; the rest is #195). "
+                    f"That is a statement about this corpus's coverage, and it is not "
+                    f"evidence about Or. Const. Art. {article}, sec. {section} either way.")
+    sec = next((s for s in entry["sections"] if str(s["number"]).lower() == section), None)
+    if sec is None:
+        printed = ", ".join(str(s["number"]) for s in entry["sections"])
+        return [], (f"Article {article} is mirrored from the source page section by "
+                    f"section, and the page prints no section {section} in it — the "
+                    f"sections it prints are {printed}. This citation matches none of "
+                    f"them, and it is not read as a near miss for any of them.")
+    if sec.get("status") != "ingested":
+        why = str(sec.get("note", "no reason recorded")).rstrip(". ")
+        return [], (f"Or. Const. Art. {article}, sec. {section} is printed by the source "
+                    f"page and was not published by this corpus: {why}. It is in "
+                    f"_meta/catalog/constitution.yml with that reason beside it.")
+    return [cid]
+
+
 def _resolve_oar_rule(m, nodes):
     served = _renumber(m.group(1))
     cid = f"oar-{served}"
@@ -173,7 +257,115 @@ for _name, _rx in (("federal-cfr", _F_CFR), ("federal-public-law", _F_PL),
 
 
 register_scheme("ors", ORS_C.pattern, resolver=_resolve_ors)
+# Before the ORS/OAR/EO schemes would not matter — no constitutional citation contains a
+# NNN.NNN, a NNN-NNN-NNNN or an EO number — but registered beside them because it is the
+# same kind of thing: this corpus's own legal-citation formats, in one place.
+register_scheme("or-const", OR_CONST_C.pattern, resolver=_resolve_or_const)
 register_scheme("oar-rule", OAR_RULE_C.pattern, resolver=_resolve_oar_rule)
 register_scheme("eo", EO_C.pattern, resolver=_resolve_eo)
 register_scheme("oar-division", OAR_DIV_C.pattern, resolver=_resolve_oar_div)
 register_scheme("das-oam-number", NUMS_C.pattern, resolver=_resolve_nums)
+
+
+# ------------------------------------------------------------------------ selftest
+def _selftest() -> int:
+    """The constitutional scheme's own proofs: what it matches, what id it builds, and —
+    the half that matters most — what it says when it resolves to nothing."""
+    from repo_lib import Checks
+    ck = Checks()
+
+    def resolve(citation):
+        m = OR_CONST_C.search(citation.strip())
+        if not m:
+            return None, "no scheme matched"
+        out = _resolve_or_const(m)
+        return out if isinstance(out, tuple) else (out, None)
+
+    ids, note = resolve("Or. Const. Art. VI, sec. 1")
+    ck("the official citation form resolves to the section's id",
+       ids == ["orconst-art-vi-sec-1"])
+    for form in ("Or. Const. Art. VI, sec. 1", "Or Const Art VI sec 1",
+                 "Oregon Constitution, Article VI, Section 1",
+                 "Or. Const. Art. VI, § 1", "or. const. art. vi, sec. 1"):
+        got, _ = resolve(form)
+        ck(f"form {form!r}", got == ["orconst-art-vi-sec-1"])
+    ck("a lettered section and a lettered article keep their letters",
+       orconst_id(*OR_CONST_C.search("Or. Const. Art. XI-A, sec. 9a").groups())
+       == "orconst-art-xi-a-sec-9a")
+
+    # THE LOOSE-MATCH REFUSALS. Each of these is a citation to something else, and a
+    # pattern that answered them would answer confidently and wrongly. `U.S. Const.` is the
+    # sharpest: same article and section numbers, a different sovereign.
+    for other in ("Article VI, section 1", "ORS 183.310", "OAR 125-800-0020",
+                  "Art. VI, sec. 1", "U.S. Const. Art. VI, sec. 1",
+                  "Colorado Const. Art. VI, sec. 1", "Or. Const. Art. VI"):
+        ck(f"{other!r} is not this corpus's constitutional citation",
+           resolve(other)[0] is None)
+
+    # THE REGRESSION GUARD for the flag trap above: register_scheme compiles the pattern
+    # STRING, so this is the regex the MCP server actually runs. Tested here rather than
+    # assumed, because the failure is silent — the citation comes back as a format no
+    # scheme recognized, which reads as "this corpus does not do constitutional citations".
+    ck("the pattern the framework compiles is the one this module tests",
+       re.compile(OR_CONST_C.pattern).search("or. const. art. vi, sec. 1") is not None)
+
+    ck("a citation ending a sentence still matches",
+       resolve("Or. Const. Art. VI, sec. 1.")[0] == ["orconst-art-vi-sec-1"])
+
+    ids, note = resolve("Or. Const. Art. VI, sec. 99")
+    ck("a section the source does not print resolves to NOTHING", ids == [])
+    ck("...and says the page prints no such section",
+       note is not None and "no section 99" in note and "Article VI" in note)
+    ck("...and does not fall back to a section that does exist",
+       note is not None and "orconst-art-vi-sec-9" not in note)
+
+    ids, note = resolve("Or. Const. Art. VI, sec. 9a")
+    ck("a section the source prints and this corpus did not publish resolves to nothing",
+       ids == [])
+    ck("...and says WHY it is not held, not that it does not exist",
+       note is not None and "not published" in note and "does not exist" not in note)
+
+    ids, note = resolve("Or. Const. Art. IV, sec. 1")  # an article nobody has mirrored
+    ck("an article nobody has mirrored yet resolves to nothing", ids == [])
+    ck("...and says it is not mirrored, which is not the same as absent",
+       note is not None and "not mirrored" in note and "#195" in note)
+    _proof_the_citation_resolves_end_to_end(ck)
+    return ck.report("citation-schemes selftest")
+
+
+def _proof_the_citation_resolves_end_to_end(ck):
+    """THE WHOLE WAY THROUGH, against this corpus as committed — the seam an agent actually
+    calls, not this module's own regex.
+
+    It belongs in a per-PR gate and not only in the nightly MCP smoke test: the pull request
+    that changes a scheme is exactly the one that can break it, and everything above this
+    line would still pass while `resolve_citation` answered "no citation scheme recognized
+    this format". That is not a hypothetical — it is what a re.I passed to `re.compile`
+    instead of written into the pattern did to this scheme while it was being built (#202).
+
+    Skipped, LOUDLY, where the corpus is not readable from here (no toolkit installed): a
+    proof that cannot run must not read as one that passed."""
+    try:
+        from corpus_toolkit import config as config_mod
+        from corpus_toolkit.mcp.framework import CorpusFramework
+        fw = CorpusFramework(config_mod.load(str(REPO_ROOT / "_meta/corpus.yml")))
+    except Exception as e:                                     # noqa: BLE001
+        print(f"SKIP end-to-end resolution: the corpus could not be loaded here "
+              f"({type(e).__name__}: {e}) — NOT a pass", file=sys.stderr)
+        return
+    r = fw.resolve_citation("Or. Const. Art. VI, sec. 1")
+    ck("resolve_citation returns the document",
+       [m["id"] for m in r["matches"]] == ["orconst-art-vi-sec-1"])
+    r = fw.resolve_citation("Or. Const. Art. VI, sec. 99")
+    ck("resolve_citation returns nothing for a section the page does not print",
+       bool(r.get("unresolved")) and not r["matches"])
+    ck("...and the reason reaches the caller",
+       "no section 99" in (r.get("note") or ""))
+
+
+if __name__ == "__main__":
+    import sys as _s
+    if "--selftest" not in _s.argv[1:]:
+        print("usage: python3 src/citation_schemes.py --selftest", file=_s.stderr)
+        _s.exit(2)
+    _s.exit(_selftest())

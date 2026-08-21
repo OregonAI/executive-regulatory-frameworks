@@ -10,7 +10,8 @@ from pathlib import Path
 import yaml
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-CONTENT_DIRS = ["statutes", "rules", "executive-orders", "agencies", "external-references"]
+CONTENT_DIRS = ["statutes", "rules", "executive-orders", "agencies", "external-references",
+                "constitution"]
 SNAPSHOT_DIR = REPO_ROOT / "_meta" / "snapshots"
 SCHEMA_DIR = REPO_ROOT / "_meta" / "schema"
 SOURCES_DIR = REPO_ROOT / "_meta" / "sources"
@@ -54,6 +55,7 @@ NON_CONTENT_NAMES = {"CHANGELOG.md"}
 # under agencies/<agency>/<dir>/.
 DIR_DOC_TYPE = {
     "statutes": "statute",
+    "constitution": "constitutional_provision",
     "rules": "rule",
     "executive-orders": "executive_order",
     "external-references": "external_reference",
@@ -68,7 +70,8 @@ DIR_DOC_TYPE = {
     # while being invisible to all ~30 `--check` scripts. Both must move together.
     "schedules": "schedule",
 }
-JURISDICTION_WIDE_DIRS = {"statutes", "rules", "executive-orders", "external-references"}
+JURISDICTION_WIDE_DIRS = {"statutes", "rules", "executive-orders", "external-references",
+                          "constitution"}
 
 
 def _is_content_path(p: Path) -> bool:
@@ -233,10 +236,88 @@ def rule_title_from_html(raw_html: str, target: str) -> str | None:
     return normalize_ws(title) or None
 
 
+# ------------------------------------------------------ the Oregon Constitution (ADR 0005)
+# ONE PAGE, EIGHTEEN ARTICLES. The Constitution is published as a single HTML document, so
+# every section of it is sliced out of one shared snapshot — the `chapter-html` shape the
+# ORS ingest already uses, with the article standing where the chapter does.
+#
+# The id carries both coordinates (`orconst-art-vi-sec-9a` = Article VI, section 9a), which
+# is what lets this function be reached from a doc_id alone — the signature the
+# `snapshot_slice_module` plugin hook fixes, and the reason ingestion and verification can
+# read the same bytes.
+ORCONST_ID_RE = re.compile(r"^orconst-art-([ivxl]+(?:-[a-z])?)-sec-(\d+[a-z]?)$")
+
+
+def orconst_id(article: str, section: str) -> str:
+    """The document id one constitutional citation names: `Art. XI-A, sec. 9a` ->
+    `orconst-art-xi-a-sec-9a`. Lowercased, and otherwise the citation's own tokens.
+
+    ONE DEFINITION, THREE READERS: the ingest names the file with it, the citation scheme
+    resolves to it, and ORCONST_ID_RE above parses it back into the coordinates the slicer
+    needs. Written twice, a change to the shape would break the third silently."""
+    return f"orconst-art-{article.lower()}-sec-{section.lower()}"
+
+
+def constitution_article_region(norm_text: str, article: str) -> str:
+    """One article's text: its heading through the next article's heading.
+
+    CASE AND BOUNDARY BOTH MATTER. `ARTICLE VI` appears exactly once in the published
+    page — the document's own contents list spells articles in mixed case ("Article VI
+    Administrative Department") and cross-references inside section text say "Article V",
+    not "ARTICLE V". The lookahead is what stops `ARTICLE XI` matching `ARTICLE XI-A`,
+    which is a real heading four articles further down.
+
+    ONE ARTICLE'S HEADING IS NOT ALWAYS UNIQUE, and this takes the FIRST. Measured on the
+    2024 edition: of the 18 articles, `ARTICLE XI-A` is printed TWICE — once as the
+    repealed "RURAL CREDITS" (1916, repealed 1942), which the page keeps as a heading and a
+    history bracket, and again as the current "FARM AND HOME LOANS TO VETERANS". First
+    match returns the repealed one, whose region holds no `Section N.` body at all, so
+    every XI-A section would be REPORTED as `no-body` rather than published from the wrong
+    article — a loud skip, not a false document. Article VI is unaffected (its heading
+    occurs once); #195 has to decide what an article printed twice means before it can
+    mirror XI-A."""
+    head = re.search(rf"ARTICLE {re.escape(article)}(?![-A-Z0-9(])", norm_text)
+    if not head:
+        return ""
+    nxt = re.compile(r"ARTICLE [IVXL]").search(norm_text, head.end())
+    return norm_text[head.start():nxt.start() if nxt else len(norm_text)]
+
+
+def constitution_section_slice(norm_text: str, article: str, section: str) -> str:
+    """The text of one section of one article, or "" if the page does not print one.
+
+    Anchored on the BODY heading `Section 9a. `, never on the article's contents list,
+    which prints the same numbers as `Sec.      9a.`. The trailing period is load-bearing
+    in both directions: `Section 9. ` must not match `Section 9a. `, and `Section 9a. `
+    must not match `Section 9. `.
+
+    THE SLICE ENDS AT THE NEXT `Section N. `, and a capitalized cross-reference inside a
+    section's own text would end it early. Measured on the 2024 edition rather than assumed:
+    380 occurrences of `Section N. ` in the whole document, and every one of them is a
+    section heading — the 31 that follow prose all follow the last line of an article's
+    contents list. The page's cross-references are lowercase ("See note at section 15,
+    Article V"), which is what makes this terminator safe here."""
+    region = constitution_article_region(norm_text, article)
+    if not region:
+        return ""
+    start = re.search(rf"Section {re.escape(section)}\. ", region)
+    if not start:
+        return ""
+    body = region[start.start():]
+    nxt = re.compile(r"Section \d+[a-z]?\. ").search(body, 1)
+    return (body[:nxt.start()] if nxt else body).strip()
+
+
 def snapshot_slice(doc_id: str, snapshot_id: str, raw_text: str) -> str:
     """The portion of a shared snapshot's text that a document's '## Full text' covers.
     Used identically by the migration generator and verify_provenance so coverage is
     measured against the same slice that was transcribed. Default: whole text."""
+    if snapshot_id == "oregon-constitution":
+        m = ORCONST_ID_RE.match(doc_id)
+        if not m:
+            return ""
+        return constitution_section_slice(ws_only(raw_text), m.group(1).upper(),
+                                          m.group(2))
     if snapshot_id.startswith("ors-chapter-"):
         sec = doc_id.replace("ors-", "").upper()  # e.g. 276A.300, 192.018
         norm = ws_only(raw_text)
