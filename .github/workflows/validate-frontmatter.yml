@@ -62,6 +62,10 @@ jobs:
         run: python3 src/triage_conflicts.py --selftest
       - name: Conflict-catalog merge must not drop prior candidates
         run: python3 src/analyze_conflicts.py --selftest
+      # The registry's own contract, and every rule in it fires on a synthetic registry
+      # built to break exactly one — a gate nobody has watched fail is not known to work.
+      - name: Agency-registry contract rules must all be able to fail
+        run: python3 src/catalog_agencies.py --selftest
       # The measurement side of the same pipeline, and its failures are quieter than the
       # merge's: a recall number computed against the wrong ground truth, or a per-type
       # table built from hand labels attached to the wrong candidates, is a confident
@@ -129,6 +133,14 @@ jobs:
       # leaving a file that still parsed and every slug still resolving.
       - name: Budget agency codes must match the reviewed mapping
         run: python3 src/link_budget_codes.py --check
+      # The registry is the identity three sibling corpora crosswalk into, and every way
+      # `catalog_agencies.py --refresh` has broken it was silent: curated fields dropped
+      # because CURATED_KEYS did not list them, 13 manual rows dropped because a
+      # null chapter looked like a collision. This replays a refresh against the committed
+      # registry (no scrape, no network) and fails when a row or a curated field would not
+      # survive it, plus the slug/chapter/parent rules of ADR 0003 and ADR 0004.
+      - name: Agency registry must keep its contract
+        run: python3 src/catalog_agencies.py --check
       # Conflict candidates that need no model. A hand-labelled taxonomy of the 137
       # frontier-pilot candidates found 29% were of four deterministic types, and code
       # finds far more of them than the models did — the pilot reported 21 dead citations

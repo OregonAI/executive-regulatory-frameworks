@@ -332,7 +332,13 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   parent/sub-unit hierarchy from the index tree), refreshed via
   `python3 src/catalog_agencies.py --refresh`. Every content file's `agency:` field
   must be `statewide`, `external`, or a slug from this registry —
-  `corpus-validate-frontmatter` hard-fails otherwise.
+  `corpus-validate-frontmatter` hard-fails otherwise. Its contract is gated by
+  `python3 src/catalog_agencies.py --check` (CI, every PR): reading committed data only,
+  it replays a `--refresh` in simulation and fails when a row or a curated field would not
+  survive one, plus the slug/chapter/parent rules of ADR 0003 and ADR 0004. A curated field
+  is declared ONCE in that file's `FIELDS` table — `CURATED_KEYS` is derived from it, so a
+  field cannot be curated in one place and forgotten in the other. `--selftest` proves every
+  one of those rules can fail.
 - **Agency profiles**: `_meta/agency-profiles.yml` carries curated context ABOUT each
   agency's data — governance class (citation basis REQUIRED; 'unclassified' is the
   only uncited value allowed), where the agency publishes policies (or that it
