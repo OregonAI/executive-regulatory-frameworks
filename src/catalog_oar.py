@@ -30,7 +30,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import yaml
 
-from repo_lib import REPO_ROOT
+from repo_lib import REPO_ROOT, Checks
 
 BASE = "https://oregon.public.law"
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
@@ -218,14 +218,7 @@ def _fixture_registry():
 
 
 def selftest() -> int:
-    bad = 0
-
-    def check(name, cond):
-        nonlocal bad
-        print(("PASS " if cond else "FAIL ") + name)
-        if not cond:
-            bad += 1
-
+    check = Checks()
     reg = _fixture_registry()
     chapters = registry_chapters(reg)
     check("every chapter-holding body is discovered", [c for c, _ in chapters] == ["125", "851"])
@@ -247,8 +240,7 @@ def selftest() -> int:
     except SystemExit as e:
         check("a chapter whose row carries no oar_name is refused", "oar_name" in str(e))
 
-    print(f"selftest {'OK' if not bad else 'FAILED'}")
-    return 1 if bad else 0
+    return check.report()
 
 
 def main():

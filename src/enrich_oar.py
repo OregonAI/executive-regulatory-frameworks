@@ -41,7 +41,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import yaml
 
-from repo_lib import REPO_ROOT, content_files, parse_frontmatter
+from repo_lib import REPO_ROOT, Checks, content_files, parse_frontmatter
 
 AUTH_RE = re.compile(r"Statutory/Other Authority:\s*(.*?)\s*(?=Statutes/Other Implemented:|History:|$)", re.S)
 IMPL_RE = re.compile(r"Statutes/Other Implemented:\s*(.*?)\s*(?=Statutory/Other Authority:|History:|$)", re.S)
@@ -282,7 +282,7 @@ def expected_mismatch(fm: dict, d: dict) -> list:
 # is the only state in which the two readings can be told apart.
 
 
-def _fixture_registry():
+def _fixture_registry_by_chapter():
     """One chapter, with the two names holding what ADR 0003 makes them hold. The statutory
     name here is the one ORS 184.305 gives the department; the OAR name is what the rules
     index prints as chapter 125's title (CONTEXT.md, *Statutory name* / *OAR name*)."""
@@ -302,15 +302,8 @@ History: DAS 2-2026, effective 05/01/2026
 
 
 def selftest() -> int:
-    bad = 0
-
-    def check(name, cond):
-        nonlocal bad
-        print(("PASS " if cond else "FAIL ") + name)
-        if not cond:
-            bad += 1
-
-    reg = _fixture_registry()
+    check = Checks()
+    reg = _fixture_registry_by_chapter()
     d = derive(_FIXTURE_BODY, "oar-125-010-0005", reg)
     # THE FIELD THE DOCUMENT CARRIES. `issuing_body` is stamped into 36,953 rule documents,
     # and the rules index's title is what every one of them holds today — so the enricher
@@ -345,8 +338,7 @@ def selftest() -> int:
     except SystemExit as e:
         check("a registry row with no oar_name is refused", "oar_name" in str(e))
 
-    print(f"selftest {'OK' if not bad else 'FAILED'}")
-    return 1 if bad else 0
+    return check.report()
 
 
 def main():

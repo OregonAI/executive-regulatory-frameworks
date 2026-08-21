@@ -17,8 +17,17 @@ Three layers, merged fresh at read time (nothing derived is ever stored):
                                            last-checked/cadence from the update groups
                                            whose documents belong to this agency
 
-Consumed by the MCP server (agency_profile tool) and build_agency_index.py; pure
-stdlib+yaml so CI can selftest without the MCP SDK (same pattern as mcp_lib.py)."""
+Consumed by build_agency_index.py and by this module's own command line; pure stdlib+yaml
+so CI can selftest without the MCP SDK (same pattern as mcp_lib.py).
+
+WHAT SERVES THE MCP TOOL, checked rather than assumed (#187). This corpus is served by
+`corpus-mcp-serve` (Dockerfile), which is corpus-toolkit's own server: its
+`issuing_body_profile` tool is implemented in `corpus_toolkit/mcp/framework.py` and reads
+the same registry file, named here by `plugins.issuing_body_registry` in _meta/corpus.yml.
+It does NOT run this module. That matters for the search below: the toolkit's copy still
+resolves a query against `name` alone, so once ADR 0003 promotes `name` a reader who asks
+that tool for a body by the name the rules index prints stops finding it. Fixing that is a
+change to corpus-toolkit and is reported to #168 rather than worked around here."""
 import sys
 from collections import defaultdict
 from pathlib import Path
@@ -26,7 +35,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 
 import catalog_agencies
-from repo_lib import REPO_ROOT, content_files, parse_frontmatter, repo_state, yaml_load
+from repo_lib import (REPO_ROOT, Checks, content_files, parse_frontmatter, repo_state,
+                      yaml_load)
 
 PROFILES = REPO_ROOT / "_meta/agency-profiles.yml"
 REGISTRY = REPO_ROOT / "_meta/catalog/agencies.yml"
@@ -104,7 +114,10 @@ def _groups_for_agency(slug: str, registry_entry: dict, groups: dict) -> dict:
 def search(registry: dict, query: str) -> list:
     """Slugs of every body a reader could mean by `query`.
 
-    NAME READER — DISPLAY (search), and the design decision of #187. It spans every name a
+    NAME READER — DISPLAY, and the design decision of #187. Search is filed under
+    DISPLAY rather than JOIN because what it hands back is a candidate for a READER to
+    accept — `profile()` requires a unique hit and reports candidates otherwise — where a
+    join decides an attribution with nobody in the loop. It spans every name a
     body is known by — statutory name, OAR name, curated aliases — through
     `catalog_agencies.name_matches()`, which is the ONE place that question is answered for
     both this search and the command-line one. Searching `name` alone was the same behaviour
@@ -202,11 +215,7 @@ _SEARCH_FIXTURE = {
 
 
 def selftest():
-    ok = True
-    def check(name, cond):
-        nonlocal ok
-        print(("PASS " if cond else "FAIL ") + name)
-        ok = ok and cond
+    check = Checks()
 
     # THE SEARCH THE MCP SERVER SERVES, against a registry whose two names disagree. A
     # reader arrives holding whichever name their source printed; the tool has to reach the
@@ -236,8 +245,7 @@ def selftest():
     rows = overview()
     check("overview has rows incl. DAS",
           any(r["slug"] == "department-of-administrative-services" for r in rows))
-    print("selftest", "OK" if ok else "FAILED")
-    sys.exit(0 if ok else 1)
+    sys.exit(check.report())
 
 
 def main():

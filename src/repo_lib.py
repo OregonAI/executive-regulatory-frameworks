@@ -361,3 +361,25 @@ class Reporter:
             print(f"\nFAILED with {self.errors} error(s).")
             sys.exit(1)
         print(ok_msg)
+
+
+class Checks:
+    """The PASS/FAIL lines a `--selftest` prints, and their tally.
+
+    One shape rather than three closures: `agency_profile`, `enrich_oar` and `catalog_oar`
+    each print one line per proof, and a selftest whose scaffolding is copied is one where
+    the copies drift — a `check()` that forgets to count a failure reports a clean run for a
+    proof that failed, which is the one thing a selftest may not do."""
+
+    def __init__(self):
+        self.failed = 0
+
+    def __call__(self, name, condition):
+        print(("PASS " if condition else "FAIL ") + name)
+        if not condition:
+            self.failed += 1
+
+    def report(self, label: str = "selftest") -> int:
+        """Print the verdict and return the exit code it means."""
+        print(f"{label} {'OK' if not self.failed else 'FAILED'}")
+        return 1 if self.failed else 0

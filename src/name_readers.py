@@ -14,8 +14,9 @@ which is the failure the sibling crosswalks exist to prevent (ADR 0003, "the ris
 
 The audit that finds those consumers is a one-time reading of every site. This is what keeps
 it: a read of `name` in a module that handles registry rows must say, where it sits, which
-kind of reader it is. #187 classified 33 of them; the next one arrives in a PR nobody
-remembers this ticket in.
+kind of reader it is. #187 read all 38 sites on `main` and classified the 33 that still
+read `name` once its two joins had moved; the next one arrives in a PR nobody remembers
+this ticket in.
 
 THE THREE CLASSIFICATIONS, and what each one commits its site to:
 
@@ -68,6 +69,11 @@ REGISTRY_PATH = "_meta/catalog/agencies.yml"
 MARKER_RE = re.compile(r"NAME READER\s+[-–—]+\s+([A-Z][A-Z_-]*)")
 CLASSIFICATIONS = ("JOIN", "DISPLAY", "MACHINERY")
 
+# Not a classification: what a site is marked with when this scan could not read its module
+# at all. It fails like an unclassified read, under its own rule, because the two are
+# different states — nobody classified it, versus nobody could look.
+UNREADABLE = "UNREADABLE"
+
 # How far above a read its marker may sit. The comment blocks in this codebase are long and
 # one marker legitimately covers the several reads of one function; a marker further away
 # than this is not "where the code is" any more, and the read is reported as unclassified —
@@ -106,7 +112,15 @@ def registry_modules(sources: dict) -> set:
     a `name` read that turns out to be someone else's `name`, and the cost of the other
     direction is a registry consumer nobody classified."""
     population = {m for m, src in sources.items() if REGISTRY_PATH in src}
-    imports = {m: _imported_modules(ast.parse(src)) for m, src in sources.items()}
+    # A module that does not parse contributes no imports here and is reported by the scan
+    # itself, under `readable-module`. Raising instead would take the whole census down over
+    # one broken file and report nothing about the fifteen that are fine.
+    imports = {}
+    for module, src in sources.items():
+        try:
+            imports[module] = _imported_modules(ast.parse(src))
+        except SyntaxError:
+            imports[module] = set()
     changed = True
     while changed:
         changed = False
@@ -150,12 +164,27 @@ def _enclosing_functions(tree: ast.AST) -> dict:
     return out
 
 
-def scan_source(path: str, source: str, population=("catalog_agencies", "agency_profile")) -> list:
+def scan_source(path: str, source: str, population=()) -> list:
     """Every registry-name read in one module, with the classification marking it (or None).
 
     Returns [] for a module that does not handle registry rows — `area["name"]` in a script
-    that never sees the registry is not a site this audit is about."""
-    tree = ast.parse(source)
+    that never sees the registry is not a site this audit is about.
+
+    `population` is the set of module names already known to serve registry rows, which is
+    `registry_modules()`'s answer over the whole of src/. It defaults to EMPTY rather than to
+    a seed list of "the modules that read the registry": a default naming
+    `catalog_agencies` here would be exactly the hand-kept list this module refuses to keep,
+    living where nobody would look for it. With no population passed, a module qualifies
+    only by reading the registry file itself.
+
+    A module that does not PARSE is reported as one unreadable site rather than skipped or
+    crashed on. It is a module this audit could not read, and "could not check" is never
+    reported as "is not there" (CONTEXT.md)."""
+    try:
+        tree = ast.parse(source)
+    except SyntaxError as e:
+        return [Site(path, e.lineno or 0, f"module does not parse: {e.msg}", None,
+                     UNREADABLE)]
     if not reads_registry(tree, source, population):
         return []
     lines = source.splitlines()
@@ -178,9 +207,10 @@ def scan_source(path: str, source: str, population=("catalog_agencies", "agency_
 
 
 def _label(path) -> str:
-    """How a site names its file. Repository-relative where it can be — `paths` is a
-    parameter so a census can be run over a tree that is not this checkout, which is how
-    the before/after of a migration like #187 gets measured."""
+    """How a site names its file: repository-relative where it can be, absolute where it
+    cannot — `census()` takes the paths as a parameter so a census can be run over a tree
+    that is not this checkout, which is how the before/after of a migration like #187 gets
+    measured."""
     try:
         return str(Path(path).relative_to(REPO_ROOT))
     except ValueError:
@@ -202,7 +232,12 @@ def check_sites(sites) -> list:
     """Every way the census violates the classification contract, as Failures."""
     failures = []
     for s in sites:
-        if s.classification is None:
+        if s.classification == UNREADABLE:
+            failures.append(Failure(
+                "readable-module", f"{s.path}:{s.line}",
+                f"{s.text} — no registry-name read in it could be evaluated, which is not "
+                "the same as its having none"))
+        elif s.classification is None:
             failures.append(Failure(
                 "registry-name-classified", f"{s.path}:{s.line}",
                 f"reads a registry `name` with no classification within {MARKER_WINDOW} "
@@ -317,6 +352,13 @@ def row(slug, title):
     return {"slug": slug, "name": title}
 '''
 
+_DOES_NOT_PARSE = '''
+CATALOG = ROOT / "_meta/catalog/agencies.yml"
+
+def titles(orgs)
+    return {o["slug"]: o["name"] for o in orgs}
+'''
+
 _PROOF_CODE = '''
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
 
@@ -325,7 +367,9 @@ def _case_missing_name(cat):
     del cat["organizations"][0]["name"]
 '''
 
-# (name, source, the rule it must break — or None for a source that must come out clean)
+# (name, source, the rule it must break — or None for a source that must come out clean —
+# and, where the module qualifies only through an import, the population it is scanned
+# against; `registry_modules()` computes that set for real, and its own proof is below)
 _CASES = [
     ("clean-module", _CLEAN, None),
     ("unclassified-read", _UNCLASSIFIED, "registry-name-classified"),
@@ -333,10 +377,11 @@ _CASES = [
     ("invented-classification", _INVENTED_CLASSIFICATION, "known-classification"),
     ("marker-too-far-away", _MARKER_TOO_FAR_AWAY, "registry-name-classified"),
     ("read-through-an-imported-registry-module", _IMPORTS_THE_REGISTRY_MODULE,
-     "registry-name-classified"),
+     "registry-name-classified", {"catalog_agencies"}),
     ("module-that-never-sees-the-registry", _NOT_A_REGISTRY_MODULE, None),
     ("writing-a-name-key-reads-nothing", _WRITES_A_NAME_KEY, None),
     ("proof-code-is-not-a-consumer", _PROOF_CODE, None),
+    ("module-that-does-not-parse", _DOES_NOT_PARSE, "readable-module"),
 ]
 
 
@@ -359,8 +404,8 @@ def _proof_the_population_is_transitive() -> int:
 
 def selftest() -> int:
     bad = _proof_the_population_is_transitive()
-    for name, source, rule in _CASES:
-        failures = check_sites(scan_source(f"<{name}>", source))
+    for name, source, rule, *population in _CASES:
+        failures = check_sites(scan_source(f"<{name}>", source, *population))
         if rule is None:
             if failures:
                 print(f"FAIL {name}: expected no failure, got {failures}", file=sys.stderr)
@@ -369,8 +414,9 @@ def selftest() -> int:
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
             bad += 1
-    print(f"{sum(1 for _, _, r in _CASES if r)} violation(s) demonstrated failing, "
-          f"{sum(1 for _, _, r in _CASES if not r)} clean module(s) left alone, "
+    print(f"{sum(1 for c in _CASES if c[2])} violation(s) demonstrated failing across "
+          f"{len({c[2] for c in _CASES if c[2]})} rule(s), "
+          f"{sum(1 for c in _CASES if not c[2])} clean module(s) left alone, "
           "population closed over imports"
           if not bad else f"{bad} case(s) did not behave")
     return 1 if bad else 0

@@ -620,8 +620,11 @@ def load():
 #
 # WHICH NAMES A READER MAY FIND A BODY BY, and the one place that question is answered. Two
 # searches ask it — this module's `find()`, which a human runs from the command line, and
-# `agency_profile.profile()`, which the MCP server serves — and before ADR 0003 both
-# answered it with `name` because there was only one name on a row.
+# `agency_profile.profile()`, which build_agency_index and the profile CLI run — and before
+# ADR 0003 both answered it with `name` because there was only one name on a row. A THIRD
+# lives outside this repository: corpus-toolkit's `issuing_body_profile` reads the same
+# registry file over MCP and still matches `name` alone (see agency_profile's docstring),
+# which is a gap #168 has to close there and cannot be closed from here.
 #
 # THERE ARE THREE NOW, AND SEARCH SPANS ALL THREE. `name` becomes the statutory name; the
 # rules index's title stays in `oar_name`; `aliases` is the registry's curated, reviewed
@@ -638,6 +641,9 @@ def load():
 # UNIQUE hit and reports the candidates otherwise, so the failure mode of a wider net is a
 # disambiguation question, not a silent misattribution. A join has no such reader — which is
 # why `enrich_oar.py` and `catalog_oar.py` match `oar_name` alone and do not span anything.
+# Whether every body stays reachable by BOTH of its names, on this registry and on one with
+# `name` already promoted, is not left to that argument: `findable-by-both-names` in
+# check_registry() states it over all 189 rows on every PR.
 #
 # ALIASES ARE INCLUDED BECAUSE THEY ARE ASSERTED, not inferred. FIELDS declares the field
 # "an ASSERTION of identity, reviewed once, rather than a similarity score computed at query
@@ -647,20 +653,29 @@ def load():
 # and a human put in the row.
 
 
-def searchable_names(org) -> list:
-    """Every name a reader can find this body by: its statutory name, its OAR name, and any
-    curated alias. Missing keys are skipped rather than defaulted — a row with no `oar_name`
-    is a registry that has broken its contract (`required-field`), and inventing an empty
-    string for it here would quietly make the body findable by every query."""
+def body_names(org) -> list:
+    """The two names this registry states for a body: its statutory name and its OAR name.
+
+    Missing keys are skipped rather than defaulted — a row with no `oar_name` is a registry
+    that has broken its contract (`required-field`), and inventing an empty string for it
+    here would quietly make the body findable by every query. Aliases are NOT here: they are
+    names for the same body from elsewhere, and `resolve()` reports matching one as a
+    different basis from matching a name this registry states."""
     if not isinstance(org, dict):
         return []
-    # NAME READER — DISPLAY: the names a body can be FOUND by, for the two searches this
-    # repository serves — the command line's and the MCP server's — which span every name
-    # rather than matching one. `resolve()` reads the same list for its own tiers, and the
-    # block above says why one statement of "which names identify this body" is right: a
-    # name that finds a body must not fail to resolve it.
-    names = [org.get("name"), org.get("oar_name"), *(org.get("aliases") or [])]
+    # NAME READER — JOIN: the two names the registry itself states for a body, which is what
+    # `resolve()` matches a publisher-written string against, and what search spans below.
+    names = [org.get("name"), org.get("oar_name")]
     return [n for n in names if isinstance(n, str) and n.strip()]
+
+
+def searchable_names(org) -> list:
+    """Every name a reader can FIND this body by: both names the registry states, plus any
+    curated alias. Search spans aliases because a reader arrives holding whatever name their
+    source printed; `resolve()` keeps them in their own tier, because which name matched is
+    part of what it reports."""
+    aliases = org.get("aliases") if isinstance(org, dict) else None
+    return body_names(org) + [a for a in (aliases or []) if isinstance(a, str) and a.strip()]
 
 
 def name_matches(org, query) -> bool:
@@ -669,9 +684,53 @@ def name_matches(org, query) -> bool:
     An empty query matches NOTHING. It matched every row before, because `"" in anything` is
     true, so a reader who searched for nothing was told all 189 bodies are candidates — a
     list that names no body is not an answer, and `profile()` turns it into a
-    "no unique match" error naming eight arbitrary slugs."""
+    "no unique match" error naming eight arbitrary slugs. The same hole was closed on the
+    platform's own MCP surface for the sharper version of this failure: on a registry
+    holding ONE entry, an empty query was exactly one hit, so the uniqueness test passed and
+    a full profile was served for a body nobody named (corpus-toolkit#122). An empty query
+    is a missing argument, not a wildcard."""
     q = str(query or "").strip().lower()
     return bool(q) and any(q in n.lower() for n in searchable_names(org))
+
+
+def cli_line(org: dict, by_chapter: dict) -> str:
+    """One search hit as the command line prints it: slug, name, chapter, and the parent a
+    sub-unit sits under.
+
+    A FUNCTION RATHER THAN FOUR LINES INSIDE `main()`, because `main()` is the one part of
+    this module no gate reaches, and it is where the search a human actually runs is
+    rendered — `python3 src/catalog_agencies.py "<search term>"` is the documented first
+    step of onboarding an agency (AGENTS.md). It broke once already, in the change that
+    added this: a comment landed at the wrong indentation, dedented the sub-unit line out of
+    its `if`, and every hit that was a sub-unit died on an unbound name while `--check`,
+    `--selftest` and every other gate stayed green."""
+    # NAME READER — DISPLAY: what the command-line search prints for a human picking a slug.
+    # The MATCHING is done by find(), over every name a body is known by; this only shows
+    # the result, under the name the registry states for the body.
+    tag = f"[ch. {org['oar_chapter']}"
+    if org.get("parent_chapter"):
+        parent = by_chapter.get(org["parent_chapter"])
+        tag += f", sub-unit of {org['parent_chapter']} {parent['name'] if parent else '?'}"
+    return f"{org['slug']:50} {org['name']}  {tag}]"
+
+
+def promoted_name_registry(orgs) -> list:
+    """The registry as ADR 0003 leaves it: every row's `name` replaced by a placeholder
+    statutory name, `oar_name` untouched.
+
+    THE FAULT INJECTION, AS CODE RATHER THAN AS A ONE-OFF SCRIPT. `name` and `oar_name` hold
+    identical bytes on all 189 committed rows, so any measurement of "which field does this
+    consumer really read" run against committed data passes by construction. Promoting
+    `name` in memory is what makes such a measurement an observation — and keeping it here,
+    where `--check` runs it on every PR, is what stops it from being a number someone once
+    printed. The placeholder deliberately shares no word with the row's OAR name: a
+    plausible statutory name ("Oregon " + the OAR name) would keep matching as a substring
+    and prove nothing.
+
+    A COPY. The rows are not mutated — this runs against the committed registry inside a
+    gate, and a check that edits what it is checking is a check nobody can trust twice."""
+    return [dict(o, name=f"Statutory Body {i:03d}") if isinstance(o, dict) else o
+            for i, o in enumerate(orgs)]
 
 
 def find(query: str, limit: int = 8, organizations=None):
@@ -780,11 +839,15 @@ def resolve(name, organizations=None):
     # is the same answer the two searches use — one statement of which names identify a
     # body, so a name that finds it cannot fail to resolve it.
     #
-    # THE TIERS STILL RANK, and a body matched twice is still one body: `_first_slug` folds
-    # the two names of one row together so that matching both cannot look like the tie the
-    # token tier refuses to guess at.
+    # THE TIERS STILL RANK, AND THE ALIAS TIER STAYS ITS OWN. `body_names` is the two names
+    # the registry STATES for a body; an alias is a name from somewhere else, and folding it
+    # into the tier above would report a match on a curated alias as `exact` — the basis is
+    # recorded per resolution in _meta/catalog/retention-schedule-agencies.yml, where it is
+    # what tells a human how far to trust the row. A body matched by both of its names is
+    # still one body, which is why the token tier below collects slugs in a SET: a row
+    # matching twice must not look like the tie that tier refuses to guess at.
     for o in orgs:
-        if any(raw == n.strip().lower() for n in searchable_names(o)):
+        if any(raw == n.strip().lower() for n in body_names(o)):
             return o["slug"], "exact"
     vs = set(_variants(name))
     for o in orgs:
@@ -800,7 +863,7 @@ def resolve(name, organizations=None):
     t = _tokens(name)
     if t:
         hits = {o["slug"] for o in orgs
-                if any(t <= _tokens(n) for n in searchable_names(o))}
+                if any(t <= _tokens(n) for n in body_names(o))}
         if len(hits) == 1:
             return hits.pop(), "tokens"
     return None, "unmatched"
@@ -997,6 +1060,34 @@ def check_registry(cat, fields=None) -> list:
                 "parent-agrees", _row_id(o, i),
                 f"parent_chapter {o.get('parent_chapter')!r} but {parent_slug!r} holds "
                 f"chapter {parent.get('oar_chapter')!r}"))
+
+    # EVERY BODY FINDABLE BY BOTH OF THE NAMES IT HAS, BEFORE AND AFTER `name` IS PROMOTED.
+    # This is the search half of #187 stated over the whole registry rather than over a
+    # fixture: for all 189 rows, the body must be among the hits when a reader searches the
+    # statutory name AND when they search the OAR name — the name every one of that body's
+    # rule documents carries. Run TWICE, the second time against `promoted_name_registry()`,
+    # because on committed data the two fields hold the same bytes and matching either one
+    # passes; the promoted run is the only one in which reading `name` alone fails.
+    #
+    # It judges rows that CARRY both names as strings and leaves the rest to
+    # `required-field` — a rule that fires on the same row as another stops saying which of
+    # the two the row is about. What it catches that `required-field` cannot is a name that
+    # is present, is a string, and matches nothing: `oar_name: "   "` reads as a name to
+    # every consumer and makes the body unfindable by the only name the rules index prints
+    # for it.
+    named = [o for _, o in rows
+             if all(isinstance(o.get(k), str) for k in ("name", "oar_name", "slug"))]
+    for registry, when in ((named, "as committed"),
+                           (promoted_name_registry(named),
+                            "once `name` holds the statutory name (ADR 0003)")):
+        for o in registry:
+            for field in ("name", "oar_name"):
+                if not any(x["slug"] == o["slug"] for x in registry
+                           if name_matches(x, o[field])):
+                    failures.append(Failure(
+                        "findable-by-both-names", o["slug"],
+                        f"searching its {field} ({o[field]!r}) does not reach this body "
+                        f"{when} — a reader who knows it by that name cannot find it"))
 
     # CALLING A FIELD SCRAPED IS A CLAIM ABOUT THE CODE, so it is checked against the code.
     # The survival comparison below skips scraped fields on the grounds that the refresh
@@ -1207,6 +1298,21 @@ def _case_enabling_authority_that_is_not_an_authority(cat):
     cat["organizations"][1]["enabling_authority"] = "created by statute"
 
 
+def _case_oar_name_that_matches_nothing(cat):
+    """An `oar_name` that is present, is a string, and names nothing — so `required-field`
+    passes it and every consumer reads it as a name. The body is then unfindable by the OAR
+    name, which is the name all of its rule documents carry, and the search that was
+    supposed to survive ADR 0003 has lost it silently."""
+    cat["organizations"][1]["oar_name"] = "   "
+
+
+def _case_statutory_name_that_matches_nothing(cat):
+    """The same hole under the other name. A body findable only by the name the rules index
+    prints is one that stops being findable by the name its enabling authority gives it —
+    the half of the pair ADR 0003 promotes."""
+    cat["organizations"][1]["name"] = "   "
+
+
 def _case_row_is_not_a_mapping(cat):
     """A row no rule can be evaluated against. It must FAIL, not be skipped — a row we
     could not check is never a row that passed."""
@@ -1311,6 +1417,12 @@ _CASES = [
     ("enabling-authority-that-almost-records-an-absence",
      _case_enabling_authority_that_almost_records_an_absence, "enabling-authority-form"),
     ("row-is-not-a-mapping", _case_row_is_not_a_mapping, "readable-row"),
+    # THE TWO WAYS A BODY STOPS BEING FINDABLE BY A NAME IT HAS, which is what promoting
+    # `name` (#168) must not be able to do to a reader.
+    ("oar-name-that-matches-nothing", _case_oar_name_that_matches_nothing,
+     "findable-by-both-names"),
+    ("statutory-name-that-matches-nothing", _case_statutory_name_that_matches_nothing,
+     "findable-by-both-names"),
 ]
 
 
@@ -1439,43 +1551,69 @@ _RESOLUTION_CASES = [
 ]
 
 
-def _proof_a_promoted_name_loses_no_resolution() -> int:
-    bad = 0
+def _proof_a_promoted_name_loses_no_resolution():
+    """(failures, resolutions proven). Both are counted rather than stated, because a
+    hand-written total is a number that goes stale the first time a case is added."""
+    bad = ran = 0
     orgs = _resolution_fixture()
     for name, slug, why in _RESOLUTION_CASES:
         got, basis = resolve(name, organizations=orgs)
+        ran += 1
         if got != slug:
             print(f"FAIL resolution-by-{why!r}: {name!r} -> {got!r} ({basis}), expected "
                   f"{slug!r}", file=sys.stderr)
             bad += 1
+    # AN ALIAS IS STILL REPORTED AS AN ALIAS. `basis` is recorded per resolution in
+    # _meta/catalog/retention-schedule-agencies.yml and is what tells a human how far to
+    # trust the row, so a match on a curated alias may not arrive labelled `exact`.
+    got = resolve("OLCC", organizations=orgs)
+    ran += 1
+    if got != (orgs[0]["slug"], "alias"):
+        print(f"FAIL resolution-by-an-alias-is-reported-as-one: -> {got!r}", file=sys.stderr)
+        bad += 1
+    # THE LINE THE COMMAND LINE PRINTS, for a hit that is a sub-unit — the shape that broke.
+    das, cfo, _gov = _fixture()["organizations"]
+    by_ch = {o["oar_chapter"]: o for o in (das, cfo)}
+    ran += 1
+    line = cli_line(cfo, by_ch)
+    if not (cfo["slug"] in line and "sub-unit of 125" in line and das["name"] in line):
+        print(f"FAIL search-hit-prints-its-parent: {line!r}", file=sys.stderr)
+        bad += 1
+    ran += 1
+    if "sub-unit" in cli_line(das, by_ch):
+        print("FAIL top-level-hit-claims-no-parent", file=sys.stderr)
+        bad += 1
     # A name no body has still resolves to nothing. Spanning a second name widens what
     # matches, and a resolver that started matching anything would be worse than one that
     # lost a match: a wrong agency attribution is worse than a name on a review list.
     got, basis = resolve("Department of Fisheries", organizations=orgs)
+    ran += 1
     if got is not None or basis != "unmatched":
         print(f"FAIL resolution-refuses-a-name-no-body-has: -> {got!r} ({basis})",
               file=sys.stderr)
         bad += 1
-    return bad
+    return bad, ran
 
 
-def _proof_search_spans_every_name_a_body_is_known_by() -> int:
-    bad = 0
+def _proof_search_spans_every_name_a_body_is_known_by():
+    """(failures, searches proven)."""
+    bad = ran = 0
     org = _search_fixture()
     for query, expected, why in _SEARCH_CASES:
         got = name_matches(org, query)
+        ran += 1
         if got != expected:
             print(f"FAIL search-{'finds' if expected else 'refuses'}-{why!r}: "
                   f"{query!r} -> {got}", file=sys.stderr)
             bad += 1
     # The same statement made through the command a human actually runs.
-    cat = {"organizations": [org]}
     for query in ("liquor control", "liquor and cannabis", "OLCC"):
-        if [o["slug"] for o in find(query, organizations=cat["organizations"])] != [org["slug"]]:
+        ran += 1
+        if [o["slug"] for o in find(query, organizations=[org])] != [org["slug"]]:
             print(f"FAIL search-through-find: {query!r} does not resolve the body",
                   file=sys.stderr)
             bad += 1
-    return bad
+    return bad, ran
 
 
 def selftest() -> int:
@@ -1487,8 +1625,12 @@ def selftest() -> int:
                   file=sys.stderr)
             bad += 1
     bad += _proof_refresh_rejects_an_undeclared_scraped_field()
-    bad += _proof_search_spans_every_name_a_body_is_known_by()
-    bad += _proof_a_promoted_name_loses_no_resolution()
+    resolutions = 0
+    for proof in (_proof_search_spans_every_name_a_body_is_known_by,
+                  _proof_a_promoted_name_loses_no_resolution):
+        failed, ran = proof()
+        bad += failed
+        resolutions += ran
     for name, mutate, rule in _CASES:
         cat = _fixture()
         assert not check_registry(cat), f"fixture does not pass cleanly ({name})"
@@ -1499,7 +1641,7 @@ def selftest() -> int:
                   file=sys.stderr)
             bad += 1
     print(f"{len(_CASES) + len(_PROOFS) + 1} violation(s) demonstrated failing, "
-          f"{len(_SEARCH_CASES) + len(_RESOLUTION_CASES) + 4} name resolution(s) proven"
+          f"{resolutions} name resolution(s) proven"
           if not bad else f"{bad} rule(s) did not fire")
     return 1 if bad else 0
 
@@ -1515,14 +1657,7 @@ def main():
         cat = load()
         by_ch = {o["oar_chapter"]: o for o in cat["organizations"]}
         for o in find(" ".join(a for a in sys.argv[1:] if not a.startswith("--"))):
-            tag = f"[ch. {o['oar_chapter']}"
-            if o.get("parent_chapter"):
-                p = by_ch.get(o["parent_chapter"])
-                # NAME READER — DISPLAY: what the command-line search prints for a human
-            # picking a slug. The MATCHING is done by find() above, over every name.
-            tag += f", sub-unit of {o['parent_chapter']} {p['name'] if p else '?'}"
-            tag += "]"
-            print(f"{o['slug']:50} {o['name']}  {tag}")
+            print(cli_line(o, by_ch))
     else:
         print(__doc__)
     return 0

@@ -152,9 +152,10 @@ jobs:
       # WHAT `name` MEANS IS ABOUT TO CHANGE (ADR 0003), and nothing in the data shows which
       # consumers depend on what it means: `name` and `oar_name` hold identical bytes on all
       # 189 rows, so a consumer that should have moved and did not looks exactly like one
-      # that was checked. #187 read all 38 sites and recorded each one's classification next
-      # to it; this keeps that true, by refusing a registry-name read that nobody has
-      # classified. Source scan only — no registry read, no network.
+      # that was checked. #187 read all 38 sites on `main` and recorded a classification
+      # beside each of the 33 that still read `name` once its two joins had moved; this
+      # keeps that true, by refusing a registry-name read that nobody has classified.
+      # Source scan only — no registry read, no network.
       - name: Every registry-name read must be classified
         run: python3 src/name_readers.py --check
       - name: Registry-name classification gate must fire (selftest)
