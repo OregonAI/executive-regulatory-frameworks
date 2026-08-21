@@ -44,6 +44,15 @@ What the reviewed absence DOES do is retire the proposal: a candidate a human ha
 is not a proposal any more, so the row derives nothing rather than deriving
 `administered_by` from a citation the reviewer rejected.
 
+WHICH SECTION THE RELATION CITES. ADR 0004's worked example holds two, and they are
+different facts: ORS 576.062 establishes the commodity commissions as state commissions, and
+ORS 576.066 is the separate section the Department of Agriculture's administration of them
+runs on. What this derives cites the FIRST — it is the evidence the kind rests on, and the
+second is a section nobody in this repository has read, so writing it would be citing Oregon
+law on nobody's authority. Both bases are named for an ENABLING authority for exactly that
+reason. Recording the administering section stays available and stays curated: it needs a
+basis this module does not produce, and `decision-not-ours` refuses to overwrite one.
+
 AND THIS FILE IS THE SINGLE WRITER OF A RELATION'S DECISION — its `kind`, its `basis` and
 its `authority` — the same arrangement `enabling_authority` has with
 link_enabling_authority.py and `das_agency_number` with link_budget_codes.py, for the reason
@@ -79,6 +88,16 @@ from repo_lib import REPO_ROOT
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
 REVIEW_SHEET = REPO_ROOT / "_meta/catalog/enabling-authority-review.yml"
 
+# THE BASES THIS MODULE PRODUCES, which is not the same list as the bases the registry
+# ACCEPTS. They hold the same two values today, and naming them separately is for the day
+# they stop: `catalog_agencies.RELATION_BASES` is widened by whoever adds a kind decided some
+# other way — ADR 0004's own example is a statute that establishes the ADMINISTRATION
+# (ORS 576.066), which nothing here reads and no derivation can produce — and on that day
+# `--apply` must leave such an entry alone rather than overwrite a curated decision with a
+# proposal. A curated fact silently downgraded to a proposal is the exact failure the `basis`
+# exists to prevent, done by the thing that introduced it.
+DERIVED_BASES = (PROPOSED_AUTHORITY, REVIEWED_AUTHORITY)
+
 # One thing wrong with the derivation or with the registry it writes: which rule, which body,
 # and what is wrong. A type rather than a formatted string, so --selftest asserts on the RULE
 # that fired instead of pattern-matching prose — the way a proof starts passing for the wrong
@@ -90,34 +109,51 @@ Problem = collections.namedtuple("Problem", "rule slug detail")
 Decision = collections.namedtuple("Decision", "kind basis authority")
 
 
-def proposals(sheet=None) -> dict:
-    """slug -> the ORS citation an automated matcher PROPOSED for that body.
-
-    Read from the committed review sheet, which link_enabling_authority.py --propose writes
-    and which says of itself: "PROPOSED, NOT DECIDED. Each row is a candidate an automated
-    match produced; none has been read."
-
-    A ROW CARRYING A VERDICT IS NOT A PROPOSAL and is left out here rather than used. Someone
-    has read it, so a kind derived from it would be recorded as resting on an unread
-    candidate — a basis that is simply false — and if the verdict was a rejection the kind
-    would rest on a citation a human threw out. `verdict-not-applied` reports it, because the
-    row belongs in link_enabling_authority.py's MAPPED or UNMAPPED and this module cannot put
-    it there.
-    """
-    sheet = yaml.safe_load(REVIEW_SHEET.read_text()) if sheet is None else sheet
-    return {row["slug"]: str(row.get("candidate") or "").strip()
-            for row in (sheet.get("candidates") or [])
-            if isinstance(row, dict) and row.get("slug")
-            and not str(row.get("verdict") or "").strip()}
+# The review sheet split the one way this module cares about: the rows that are still
+# proposals, and the rows a human has already ruled on. A pair rather than two functions
+# reading the sheet separately — they are one traversal answering one question, and two of
+# them can disagree about which side a row falls on.
+Sheet = collections.namedtuple("Sheet", "proposed verdicts")
 
 
-def reviewed_verdicts(sheet=None) -> dict:
-    """slug -> the verdict a human wrote on a candidate that is still sitting in the sheet."""
-    sheet = yaml.safe_load(REVIEW_SHEET.read_text()) if sheet is None else sheet
-    return {row["slug"]: str(row.get("verdict") or "").strip()
-            for row in (sheet.get("candidates") or [])
-            if isinstance(row, dict) and row.get("slug")
-            and str(row.get("verdict") or "").strip()}
+def read_sheet(sheet) -> Sheet:
+    """The committed review sheet, split into the candidates that are still PROPOSALS and
+    the candidates a human has already ruled on.
+
+    The sheet is what link_enabling_authority.py --propose writes, and it says of itself:
+    "PROPOSED, NOT DECIDED. Each row is a candidate an automated match produced; none has
+    been read."
+
+    A ROW CARRYING A VERDICT IS NOT A PROPOSAL, so it lands on the other side rather than
+    among the proposals. Someone has read it: a kind derived from it would be recorded as
+    resting on an unread candidate, which is a basis that is simply false, and if the verdict
+    was a rejection the kind would rest on a citation a human threw out. `verdict-not-applied`
+    reports the ones that matter, because such a row belongs in link_enabling_authority.py's
+    MAPPED or UNMAPPED and this module cannot put it there.
+
+    THE SHEET IS PASSED IN, NEVER DEFAULTED TO THE COMMITTED FILE. Every proof below runs on
+    a synthetic sheet, and a default that read the real one is a proof that starts reading
+    committed data the day someone forgets an argument."""
+    proposed, verdicts = {}, {}
+    for row in (sheet.get("candidates") or []):
+        if not isinstance(row, dict) or not row.get("slug"):
+            continue
+        verdict = str(row.get("verdict") or "").strip()
+        if verdict:
+            verdicts[row["slug"]] = verdict
+        else:
+            proposed[row["slug"]] = str(row.get("candidate") or "").strip()
+    return Sheet(proposed, verdicts)
+
+
+def recordable(citation) -> bool:
+    """Whether a proposed citation is one the registry can put in a relation's `authority`.
+
+    THE ONE PLACE THE QUESTION IS ASKED, because two callers act on the answer differently
+    and must not disagree about it: `decide()` derives no kind from an unrecordable citation,
+    and `audit()` REPORTS the same row — and a body silently left undetermined by a form
+    problem looks exactly like one the matcher found nothing for."""
+    return bool(citation) and classify_authority(citation)[0] is not None
 
 
 def decide(org, proposed) -> Decision | None:
@@ -158,12 +194,23 @@ def decide(org, proposed) -> Decision | None:
         # NOT `part_of`. The absence of a candidate is a statement about the matcher, and
         # this repository has watched that statement be wrong 55 times in one session.
         return None
-    if classify_authority(citation)[0] is None:
+    if not recordable(citation):
         # REPORTED BY `candidate-form`, NEVER SILENTLY DROPPED. A candidate the registry
         # cannot record is a body whose kind goes undecided for a reason nobody would see,
         # which is the substitution CONTEXT.md forbids.
         return None
     return Decision(ADMINISTERED_BY, PROPOSED_AUTHORITY, citation)
+
+
+def ours(entry) -> bool:
+    """Whether this module is the writer of that relation's decision.
+
+    An entry recording no basis has no decision yet and is this module's to write; an entry
+    recording one of DERIVED_BASES was written here; anything else is a decision reached some
+    other way, and --apply leaves it exactly as it is while `decision-not-ours` reports it. A
+    curated decision overwritten with a proposal would be a stronger claim replaced by a
+    weaker one, by the machinery introduced to keep those apart."""
+    return entry.get("basis") in (None, *DERIVED_BASES)
 
 
 def derived(orgs, proposed) -> dict:
@@ -202,7 +249,7 @@ def apply_decisions(cat, proposed) -> int:
         decision = decisions.get(org.get("slug"))
         touched = False
         for entry in relation_entries(org):
-            if not isinstance(entry, dict):
+            if not isinstance(entry, dict) or not ours(entry):
                 continue
             if decision is None:
                 was = (entry.get("kind"), "basis" in entry, "authority" in entry)
@@ -234,15 +281,20 @@ def audit(orgs, proposed, verdicts) -> list:
     decisions = derived(orgs, proposed)
     by_slug = {o["slug"]: o for o in orgs if isinstance(o, dict) and o.get("slug")}
 
+    # ONLY THE BODIES THIS MODULE DERIVES FOR. A sheet row for a body that sits under no
+    # other is link_enabling_authority.py's to answer for — 45 of the 126 candidates name
+    # such a body — and reporting them here would fail this gate over work that is not its
+    # own, which is the shape of a gate nobody can act on.
+    decides_for = {slug for slug, o in by_slug.items() if relation_entries(o)}
     for slug, citation in sorted(proposed.items()):
-        if slug not in by_slug:
-            continue                      # the sheet is generated from the registry
+        if slug not in decides_for:
+            continue
         if not citation:
             problems.append(Problem("candidate-form", slug,
                                     "the review sheet proposes an empty citation for this "
                                     "body, which is a candidate nothing can be derived from "
                                     "and is not the same as having none"))
-        elif classify_authority(citation)[0] is None:
+        elif not recordable(citation):
             problems.append(Problem(
                 "candidate-form", slug,
                 f"the proposed candidate {citation!r} is not an authority this registry can "
@@ -253,7 +305,7 @@ def audit(orgs, proposed, verdicts) -> list:
                 "are a human's decision"))
 
     for slug, verdict in sorted(verdicts.items()):
-        if slug in by_slug:
+        if slug in decides_for:
             problems.append(Problem(
                 "verdict-not-applied", slug,
                 f"the review sheet carries verdict {verdict!r} on this candidate, so it has "
@@ -267,6 +319,15 @@ def audit(orgs, proposed, verdicts) -> list:
         for entry in relation_entries(org):
             if not isinstance(entry, dict):
                 continue                  # `relation-shape` in catalog_agencies owns this
+            if not ours(entry):
+                problems.append(Problem(
+                    "decision-not-ours", slug,
+                    f"the relation under {entry.get('target')!r} records basis "
+                    f"{entry.get('basis')!r}, which this module does not produce — its kind "
+                    "was decided some other way, so --apply leaves it alone rather than "
+                    "overwriting a curated decision with a proposal. Whatever writes that "
+                    "basis is the thing that has to keep it current"))
+                continue
             got = Decision(entry.get("kind"), entry.get("basis"), entry.get("authority"))
             if want is None:
                 if got.kind not in (None, UNDETERMINED):
@@ -292,8 +353,7 @@ def _report(problems) -> None:
 
 def cmd_apply() -> int:
     cat = yaml.safe_load(CATALOG.read_text())
-    sheet = yaml.safe_load(REVIEW_SHEET.read_text())
-    proposed, verdicts = proposals(sheet), reviewed_verdicts(sheet)
+    proposed, verdicts = read_sheet(yaml.safe_load(REVIEW_SHEET.read_text()))
     changed = apply_decisions(cat, proposed)
     if changed:
         CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True,
@@ -309,8 +369,7 @@ def cmd_apply() -> int:
 def check() -> int:
     """Verify the registry against the derivation, from committed data alone."""
     orgs = yaml.safe_load(CATALOG.read_text())["organizations"]
-    sheet = yaml.safe_load(REVIEW_SHEET.read_text())
-    proposed, verdicts = proposals(sheet), reviewed_verdicts(sheet)
+    proposed, verdicts = read_sheet(yaml.safe_load(REVIEW_SHEET.read_text()))
     problems = audit(orgs, proposed, verdicts)
     if problems:
         print("the registry's relation kinds do not match this derivation:", file=sys.stderr)
@@ -393,13 +452,12 @@ def _fixture():
     the committed registry is in after --apply, and the one every rule below is checked
     against."""
     f = _registry()
-    apply_decisions(f["cat"], proposals(f["sheet"]))
+    apply_decisions(f["cat"], read_sheet(f["sheet"]).proposed)
     return f
 
 
 def _audit(f) -> list:
-    return audit(f["cat"]["organizations"], proposals(f["sheet"]),
-                 reviewed_verdicts(f["sheet"]))
+    return audit(f["cat"]["organizations"], *read_sheet(f["sheet"]))
 
 
 def _org(f, slug):
@@ -445,6 +503,18 @@ def _case_verdict_that_never_reached_the_reviewed_table(f):
     f["sheet"]["candidates"][0]["verdict"] = "reject: this section is about an account"
 
 
+def _case_decision_reached_some_other_way(f):
+    """A relation whose kind was decided on a basis this module does not produce. ADR 0004's
+    own worked example is one: the section that establishes the ADMINISTRATION (ORS 576.066
+    has the Department of Agriculture appoint members, review budgets and approve plans) is
+    not an enabling authority and nothing here reads it, so a kind resting on it can only
+    have been curated. --apply must leave such an entry exactly as it is — overwriting it
+    with a proposal would replace a stronger claim with a weaker one, by the machinery
+    introduced to keep the two apart — and this is what says the gate reports it instead."""
+    _org(f, "board-of-imagined-standards")[RELATION_KEY][0].update(
+        basis="statute-establishes-the-administration", authority="ORS 999.992")
+
+
 _CASES = [
     ("kind-written-by-something-else", _case_kind_written_by_something_else, "kind-agrees"),
     ("registry-still-holds-the-proposed-basis-after-review",
@@ -455,6 +525,8 @@ _CASES = [
      "candidate-form"),
     ("verdict-that-never-reached-the-reviewed-table",
      _case_verdict_that_never_reached_the_reviewed_table, "verdict-not-applied"),
+    ("decision-reached-some-other-way", _case_decision_reached_some_other_way,
+     "decision-not-ours"),
 ]
 
 
@@ -508,7 +580,7 @@ def _proof_review_upgrades_the_basis() -> int:
         print("FAIL review-is-a-red-build-until-it-is-applied: the registry still records "
               "the proposed basis and this derivation is content with it", file=sys.stderr)
         return 1
-    changed = apply_decisions(f["cat"], proposals(f["sheet"]))
+    changed = apply_decisions(f["cat"], read_sheet(f["sheet"]).proposed)
     after = yaml.safe_dump(f["cat"], sort_keys=False, allow_unicode=True, width=100)
     entry = _org(f, "board-of-imagined-standards")[RELATION_KEY][0]
     bad = 0
@@ -517,8 +589,14 @@ def _proof_review_upgrades_the_basis() -> int:
         print(f"FAIL review-upgrades-the-basis: wrote {changed} row(s), entry is {entry!r}",
               file=sys.stderr)
         bad += 1
-    if PROPOSED_AUTHORITY in after.split("board-of-imagined-standards")[1].split("- slug")[0]:
-        print("FAIL the-upgraded-row-still-records-a-proposal", file=sys.stderr)
+    # THE WHOLE FILE, not a slice of it. The fixture's only proposal-derived kind is the row
+    # just reviewed, so after the upgrade the word may not appear anywhere in the registry —
+    # which is a stronger statement than "not on that row" and does not have to find the row
+    # by cutting up dumped YAML.
+    if PROPOSED_AUTHORITY not in before or PROPOSED_AUTHORITY in after:
+        print(f"FAIL the-upgraded-row-still-records-a-proposal: {PROPOSED_AUTHORITY!r} "
+              f"{'was not in' if PROPOSED_AUTHORITY not in before else 'is still in'} the "
+              "registry", file=sys.stderr)
         bad += 1
     if before == after:
         print("FAIL the-upgrade-is-visible-in-the-diff: the file did not change",
@@ -535,7 +613,7 @@ def _proof_apply_writes_the_same_bytes_twice() -> int:
     replay against the committed file to check what it did. Run twice over the same rows: the
     second run must change nothing and dump the same bytes."""
     f = _registry()
-    proposed = proposals(f["sheet"])
+    proposed = read_sheet(f["sheet"]).proposed
     first = apply_decisions(f["cat"], proposed)
     once = yaml.safe_dump(f["cat"], sort_keys=False, allow_unicode=True, width=100)
     reloaded = yaml.safe_load(once)
@@ -559,7 +637,7 @@ def _proof_a_withdrawn_candidate_returns_the_row_to_undetermined() -> int:
     f = _fixture()
     f["sheet"]["candidates"] = [c for c in f["sheet"]["candidates"]
                                if c["slug"] != "board-of-imagined-standards"]
-    apply_decisions(f["cat"], proposals(f["sheet"]))
+    apply_decisions(f["cat"], read_sheet(f["sheet"]).proposed)
     entry = _org(f, "board-of-imagined-standards")[RELATION_KEY][0]
     if tuple(entry.get(k) for k in DECISION_KEYS) != (UNDETERMINED, None, None):
         print(f"FAIL withdrawn-candidate-returns-the-row-to-undetermined: {entry!r}",

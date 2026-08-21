@@ -367,9 +367,13 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   ABSENCE of a candidate: the 37 stay `undetermined` because a matcher finding nothing is a
   statement about the matcher, and that list has already been wrong for 55 bodies. `--check`
   REPORTS the census — kinds, sources and bases, zeroes included — on every run, refuses a
-  kind with no basis, an `administered_by` citing no authority, and a `part_of` row carrying
-  an enabling authority; `derive_relation_kinds.py --check` compares the registry with the
-  derivation in BOTH directions. A derived kind survives `--refresh` because `relations`
+  kind with no basis, an `administered_by` citing no authority, a `part_of` relation that
+  cites one, and a `part_of` row carrying an enabling authority of its own;
+  `derive_relation_kinds.py --check` compares the registry with the derivation in BOTH
+  directions. The citation a derived relation carries is the section that CONSTITUTES the
+  body (ORS 576.062, the evidence its kind rests on), never the one the department's
+  administration runs on (ORS 576.066) — nobody here has read the latter, and both bases are
+  named for an *enabling authority* to say which of the two is in the key. A derived kind survives `--refresh` because `relations`
   merges per KEY as well as per entry: the scrape rebuilds the placement and
   `DECISION_KEYS` ride across onto it. A body may hold several relations, because the OAR index, DAS and statute may place
   it under different parents and ADR 0003 keeps that disagreement. The field is the first

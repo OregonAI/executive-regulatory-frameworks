@@ -117,7 +117,11 @@ or `undetermined` — the `basis` that kind was derived from, and the `authority
 it true. It lives in `relations` on every registry row, beside the `parent_slug` it will
 replace (ADR 0004). An *administered by* relation always cites an authority, because that
 is the claim about Oregon law a reader checks; *part of* cites none, because there is
-nothing separate to cite. A body may hold MORE THAN ONE, because DAS, the OAR index and
+nothing separate to cite. WHICH section the citation is, is the `basis`'s to say. A derived
+relation cites the section that CONSTITUTES the body — ORS 576.062, which is the evidence
+its kind rests on — and not the one that establishes the administration; both derived bases
+are named for an *enabling authority* for exactly that reason. ORS 576.066, the section the
+department's administration runs on, is a curated decision on a basis nothing derives. A body may hold MORE THAN ONE, because DAS, the OAR index and
 statute may each place it under a different parent, and ADR 0003 keeps that disagreement
 rather than reconciling it: enabling authority decides, and the other readings are
 recorded, not resolved away. An empty list says this registry places the body under no other.

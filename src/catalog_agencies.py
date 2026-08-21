@@ -355,8 +355,9 @@ def relation_fault(entry):
     undeclared = sorted(set(entry) - set(RELATION_KEYS))
     if undeclared:
         return (f"relation {entry!r} carries key(s) {undeclared} that this registry "
-                f"does not declare — a relation is {list(RELATION_KEYS)}, with `authority` "
-                "the only optional one")
+                f"does not declare — a relation is {list(RELATION_KEYS)}, with `basis` and "
+                "`authority` the optional two, and both required as soon as the kind is not "
+                f"{UNDETERMINED!r}")
     target = entry.get("target")
     if not isinstance(target, str) or not target.strip():
         return (f"relation {entry!r} names no body — `target` is the registry slug "
@@ -407,10 +408,35 @@ def relation_fault(entry):
     # Oregon law that a reader can check." Uncited, `administered_by` is that bare pointer
     # with a stronger word on it. `part_of` is deliberately NOT held to this — it records
     # that nothing separate constitutes the unit, so there is nothing separate to cite.
+    # WHICH SECTION THE CITATION IS, AND WHICH IT IS NOT. ADR 0004's worked example holds
+    # TWO sections, and they are different facts: ORS 576.062 establishes the commodity
+    # commissions as state commissions — which is what makes the relation *administered by*
+    # rather than *part of* — and ORS 576.066 is what the department's administration of them
+    # actually runs on. A DERIVED relation cites the FIRST, because the first is the evidence
+    # the kind rests on and the second is a section nobody in this repository has read; a
+    # derivation that wrote it would be citing a claim about Oregon law on nobody's authority.
+    # The `basis` is what tells the two apart, and it is why both derived bases are named for
+    # an ENABLING authority: `proposed-enabling-authority` and `reviewed-enabling-authority`
+    # each say the citation beside them is what CONSTITUTES the body. Recording the
+    # administering section is a decision on a basis nothing here produces, which is a
+    # deliberate widening of RELATION_BASES and `decision-not-ours` in
+    # derive_relation_kinds.py.
     if kind == ADMINISTERED_BY and "authority" not in entry:
         return (f"relation {entry!r} records {ADMINISTERED_BY!r} and cites no authority — "
                 "the kind says Oregon law constitutes this body separately from the one "
                 "that administers it, and a reader has nowhere to go and check that")
+    # AND THE OTHER HALF OF THE SAME CLAIM. CONTEXT.md: a *part of* unit "has no enabling
+    # authority because there is nothing separate to enable", so there is no section that
+    # makes the relation true either. A citation on one is either the PARENT's authority
+    # written onto the child, or evidence that the unit IS separately constituted and the
+    # kind beside it is wrong — and both are a claim a reader cannot reconcile with the word
+    # next to it. Stated because CONTEXT.md and the ADR now say it, and a stated rule with
+    # nothing enforcing it is a rule nobody has watched fail.
+    if kind == PART_OF and "authority" in entry:
+        return (f"relation {entry!r} records {PART_OF!r} and cites {entry['authority']!r} — "
+                "*part of* says nothing separately constitutes this unit (ADR 0004), so "
+                "nothing separate makes the relation true; a citation here is the parent's "
+                "authority written onto the child, or a body the kind has got wrong")
     if "authority" in entry:
         # THE SAME FORMS THE BODY'S OWN AUTHORITY TAKES, minus the reviewed absence. An
         # `enabling_authority` needs `none: <reason>` because the key is absent on a body
@@ -591,8 +617,14 @@ def relation_census(orgs) -> str:
     # them, and a census that silently left them out of its own total would be the one
     # reader that agreed with the file about how many relations it holds while disagreeing
     # about what they say.
+    # SORTED BY `str`, BECAUSE None IS ONE OF THE VALUES THAT REACHES HERE. A relation
+    # missing its `kind` counts as None, and so does a decided kind with no `basis` — both
+    # are `relation-shape` failures, and both are values this census promises to NAME rather
+    # than absorb. Sorting them against the strings beside them raises TypeError, which would
+    # take down the one report that was supposed to surface them: --apply prints the census
+    # before it reports anything, so the crash would land in front of the diagnosis.
     def tally(counts, allowed):
-        named = list(allowed) + sorted(k for k in counts if k not in allowed)
+        named = list(allowed) + sorted((k for k in counts if k not in allowed), key=str)
         return ", ".join(f"{counts.get(k, 0)} {k}" for k in named)
     # WHAT THE DECIDED KINDS REST ON, COUNTED APART FROM HOW MANY THERE ARE (#173). The
     # registry holds kinds derived from a PROPOSED enabling-authority candidate nobody has
@@ -1968,9 +2000,10 @@ def _case_relation_with_no_kind(cat):
 def _case_relation_of_an_unrecorded_kind(cat):
     """A kind this registry has no meaning for. ADR 0004 defines two — *part of* and
     *administered by* (CONTEXT.md) — and #171 adds `undetermined` for the relation nobody
-    has decided between them yet. A third word published in the field is a claim about
-    Oregon law that no reader can resolve and no ADR has taken; widening the allowlist is
-    that decision, taken deliberately, and this is what makes it deliberate."""
+    has decided between them yet; 37 of the 81 are still in that state and 44 are
+    `administered_by` (#173). A fourth word published in the field is a claim about Oregon
+    law that no reader can resolve and no ADR has taken; widening the allowlist is that
+    decision, taken deliberately, and this is what makes it deliberate."""
     cat["organizations"][1]["relations"][1]["kind"] = "supervised_by"
 
 
@@ -2027,6 +2060,22 @@ def _case_part_of_body_that_carries_an_enabling_authority(cat):
     cat["organizations"][1]["enabling_authority"] = "ORS 999.999"
 
 
+def _case_part_of_relation_that_cites_an_authority(cat):
+    """A *part of* relation with a citation on it. The sibling rule refuses an
+    `administered_by` that cites nothing; this refuses the other half of the same claim.
+    *Part of* records that nothing separately constitutes the unit, so there is no section
+    that makes the relation true — a citation there is either the PARENT's authority written
+    on the child, or evidence the unit is separately constituted and the kind is wrong.
+    Either way the relation states something no reader can check against the kind beside it.
+
+    Distinct from `part-of-has-nothing-to-enable`, which is about the BODY's
+    `enabling_authority`: a row can carry a clean field and a relation that cites, and the
+    field rule would pass it."""
+    cat["organizations"][1]["relations"][1] = {
+        "target": cat["organizations"][0]["slug"], "source": "statute",
+        "kind": PART_OF, "basis": REVIEWED_AUTHORITY, "authority": "ORS 999.998"}
+
+
 def _case_relation_naming_no_body(cat):
     """A relation with no target. It records that somebody placed this body under something
     and loses the something — a hierarchy with one end, which reads as a relation to every
@@ -2070,9 +2119,14 @@ def _case_one_source_placing_a_body_under_a_parent_twice(cat):
     from one source are not a disagreement between sources: they are one reading recorded
     twice, free to say different things, with nothing in the row to say which is current.
     It is also what a broken merge looks like from the outside, since carrying an entry the
-    scrape had already regenerated produces exactly this."""
+    scrape had already regenerated produces exactly this.
+
+    The two differ in their CITATION rather than in their kind, so the case breaks exactly
+    one rule: a second entry saying `part_of` would also cite an authority a *part of*
+    relation may not carry (`relation-shape`), and be dropped before the uniqueness check
+    ever read it — which is how a case starts passing for the wrong reason."""
     entries = cat["organizations"][1]["relations"]
-    entries.append(dict(entries[1], kind="part_of"))
+    entries.append(dict(entries[1], authority="ORS 999.997"))
 
 
 def _case_relation_target_resolves_to_nothing(cat):
@@ -2245,6 +2299,8 @@ _CASES = [
     ("part-of-body-that-carries-an-enabling-authority",
      _case_part_of_body_that_carries_an_enabling_authority,
      "part-of-has-nothing-to-enable"),
+    ("part-of-relation-that-cites-an-authority",
+     _case_part_of_relation_that_cites_an_authority, "relation-shape"),
     ("relation-naming-no-body", _case_relation_naming_no_body, "relation-shape"),
     ("relation-carrying-an-undeclared-key", _case_relation_carrying_an_undeclared_key,
      "relation-shape"),
@@ -2456,12 +2512,12 @@ def _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry() -> int:
 
 
 def _proof_the_relation_census_counts_every_kind() -> int:
-    """The kind is UNDETERMINED on every relation this registry carries today, and #171
-    requires that fact to be REPORTED rather than defaulted away. A census that printed only
-    the kinds it found would print "1 administered_by" against the fixture and leave a
-    reader to infer the rest — the reading this registry never permits (CONTEXT.md: an
-    absence is never a claim that there is none). So every kind and every source is named
-    with its count, including the zeroes, and this is what says so.
+    """37 of the registry's 81 relations record UNDETERMINED and 44 record a derived kind
+    (#173), and #171 requires both to be REPORTED rather than defaulted away. A census that
+    printed only the kinds it found would print "1 administered_by" against the fixture and
+    leave a reader to infer the rest — the reading this registry never permits (CONTEXT.md:
+    an absence is never a claim that there is none). So every kind, every source and every
+    basis is named with its count, including the zeroes, and this is what says so.
 
     The expected numbers come from the fixture ABOVE, which is two relations written out by
     hand — not from re-counting the way the census counts, which would pass whatever it

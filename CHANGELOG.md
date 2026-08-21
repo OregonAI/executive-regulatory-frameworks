@@ -39,15 +39,22 @@ corpus-wide changes from 2026-08-02 forward.
   owns the decision, and the decision is carried only onto a rebuilt entry naming the same
   parent. Putting the kind on a second relation entry was rejected — a second entry is a
   second PLACEMENT, and no statute, DAS register or hand-written note places these bodies
-  where the rules index does. Four new contract rules, each demonstrated failing in
-  `--selftest`: a kind with no basis, a basis this registry has no meaning for, a basis on a
-  relation that decided nothing, an `administered_by` citing no authority, and
-  `part-of-has-nothing-to-enable` for a row asserting both a *part of* relation and an
-  enabling authority of its own. `AUTHORITY_FORMS` was NOT widened: every one of the 44
-  candidates is a single ORS section, so the range form ADR 0004's eight semi-independent
-  boards are declared under (`ORS 182.456 to 182.472`) is still refused, and a candidate the
-  registry cannot record is REPORTED under `candidate-form` rather than left quietly
-  undetermined. `catalog_agencies.py --selftest` grew from 48 demonstrated failures to 54.
+  where the rules index does. Six new rules of the registry's contract, each demonstrated
+  failing in `--selftest`: a kind with no basis; a basis this registry has no meaning for; a
+  basis on a relation that decided nothing; an `administered_by` citing no authority; a
+  *part of* relation that cites one; and `part-of-has-nothing-to-enable`, for a row asserting
+  both a *part of* relation and an enabling authority of its own. THE CITATION A DERIVED
+  RELATION CARRIES IS THE CONSTITUTING SECTION — ORS 576.062, the evidence its kind rests on
+  — and never the section the department's administration runs on (ORS 576.066), which
+  nobody in this repository has read; both bases are named for an *enabling authority* for
+  exactly that reason, and recording the administering section stays a curated decision on a
+  basis nothing derives, which `decision-not-ours` refuses to overwrite with a proposal.
+  `AUTHORITY_FORMS` was NOT widened: every one of the 44 candidates is a single ORS section,
+  so the range form ADR 0004's eight semi-independent boards are declared under
+  (`ORS 182.456 to 182.472`) is still refused, and a candidate the registry cannot record is
+  REPORTED under `candidate-form` rather than left quietly undetermined.
+  `catalog_agencies.py --selftest` grew from 48 demonstrated failures to 55, and the new
+  module's own proves six rules failing beside four derivation proofs.
 
 - 2026-08-21 — `relations` on all 189 agency-registry rows (#171): every one of the 81
   children now carries a relation naming its parent, beside the `parent_slug` that still

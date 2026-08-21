@@ -105,6 +105,25 @@ the 25 came from is not recorded, and until the 126 candidates are reviewed neit
 can correct the other. What the derivation records is which sheet row each kind came from, so
 the reconciliation is a reading rather than a re-count.
 
+**The citation a derived relation carries is the constituting section, not the administering
+one, and this ADR's worked example is where the two come apart.** Above, this ADR is precise
+that ORS 576.062 establishes the commodity commissions as state commissions while ORS 576.066
+is the separate section under which the Department of Agriculture appoints their members,
+reviews their budgets and approves their plans — "oversight of a body, not composition of
+one". A derived relation cites the FIRST. That is the evidence its kind rests on: 576.062 is
+what makes the relation *administered by* rather than *part of*. The second is a section
+nobody in this repository has read, and a derivation that wrote it would be citing a claim
+about Oregon law on nobody's authority — the failure this whole amendment is about, one key
+over.
+
+The `basis` is what tells a reader which section they are holding, and it is why both derived
+bases are named for an ENABLING authority: `proposed-enabling-authority` and
+`reviewed-enabling-authority` each say the citation beside them is what CONSTITUTES the body.
+Recording ORS 576.066 as what makes the administration true stays available and stays
+curated — it is a decision on a basis nothing derives, so it needs a new basis added
+deliberately, and until then `derive_relation_kinds.py --check` refuses to overwrite such an
+entry (`decision-not-ours`) rather than downgrading a curated citation to a proposal.
+
 **A reviewed absence is not turned into `part_of` either, yet.** `none: <reason>` on a row
 is a human saying nothing separately constitutes this body, which is exactly this ADR's
 *part of* — but reading it that way is a second derivation with its own failure modes, and
