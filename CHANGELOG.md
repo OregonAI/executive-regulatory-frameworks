@@ -35,6 +35,14 @@ corpus-wide changes from 2026-08-02 forward.
   two sources name two parents. `name_readers.py --check` gained a second gate: nothing may
   derive hierarchy by splitting the compound `Parent, Child` name, and a site that takes a
   registry name apart on a comma fails unless it is classified as deriving a NAME.
+  A body the walk CANNOT roll up says so on its own record — `not_a_root` on the policy-gap
+  row, `parents_disagree` on the graph node — because a total of zero is exactly what would
+  hide the first one, and a row that looked like a top-level agency would be a wrong number.
+  What the pointer used to witness is now COUNTED on every `--check` run: 65 of the 81
+  placements are still stated twice (`parent_chapter` names the parent's OAR chapter), and
+  16 rest on the relation alone because their parent holds no chapter — a deleted entry
+  there is rebuilt by the next `--refresh` and reported by nothing in the file, which is
+  said out loud rather than left to be discovered.
 
 ### Added
 - 2026-08-21 — Relation KINDS on the agency registry, each recording what it was derived

@@ -67,7 +67,10 @@ function render(){
         ? `<div>${r.rules.toLocaleString()} OAR rules · ${r.policies.toLocaleString()} policy/procedure documents ingested (≈${pct}% of rule volume)</div>`
         : `<div><b>0 policy/procedure documents ingested into this corpus.</b> This reflects ingestion scope, not confirmed absence of internal policy.</div>`;
       const cand=r.candidate?`<div>Flagged in the unverified review queue as a candidate for future ingestion.</div>`:'';
-      tip.innerHTML=`<b>${esc(r.name)}</b>${body}${cand}`;
+      // A body the registry could not roll up is shown here as itself, and says why — it is
+      // not a top-level agency, and a row that looked like one would be a wrong number.
+      const notroot=r.not_a_root?`<div><b>Not rolled up:</b> ${esc(r.not_a_root)}. Its rules are counted against itself, not against a department.</div>`:'';
+      tip.innerHTML=`<b>${esc(r.name)}</b>${body}${cand}${notroot}`;
       tip.style.opacity=1;tip.style.left=Math.min(e.clientX+13,innerWidth-tip.offsetWidth-8)+'px';tip.style.top=Math.min(e.clientY+13,innerHeight-tip.offsetHeight-8)+'px';});
     el.addEventListener('mouseleave',()=>tip.style.opacity=0);
     list.appendChild(el);

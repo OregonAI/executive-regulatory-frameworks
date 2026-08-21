@@ -103,12 +103,15 @@ CLASSIFICATIONS = ("JOIN", "DISPLAY", "MACHINERY")
 COMPOUND_MARKER_RE = re.compile(r"COMPOUND NAME\s+[-–—]+\s+([A-Z][A-Z_-]*)")
 COMPOUND_PURPOSES = ("NAME", "NOT-A-REGISTRY-NAME")
 
-# The str methods that take a string apart at a separator the call names. An ALLOWLIST of
-# methods rather than a search for the comma anywhere: `"a, b"` in a message string is a
-# comma nobody is splitting on, and demanding a marker on every f-string would make the gate
-# noise instead of a gate.
-TAKES_A_STRING_APART = ("split", "rsplit", "partition", "rpartition", "removeprefix",
-                        "removesuffix", "startswith", "endswith", "index", "find")
+# The str methods whose argument NAMES A SEPARATOR OR AN AFFIX — the ones a comma in the
+# call means something by. Not all of them take the string apart (`startswith` only tests
+# it), and that is deliberate: a test for the `Parent, ` prefix is a body reading the
+# compound as a path just as much as a split is. An ALLOWLIST of methods rather than a
+# search for the comma anywhere, because `"a, b"` in a message string is a comma nobody is
+# reading, and demanding a marker on every f-string would make the gate noise instead of a
+# gate.
+NAMES_A_SEPARATOR = ("split", "rsplit", "partition", "rpartition", "removeprefix",
+                     "removesuffix", "startswith", "endswith", "index", "find")
 
 # Not a classification: what a site is marked with when this scan could not read its module
 # at all. It fails like an unclassified read, under its own rule, because the two are
@@ -210,7 +213,7 @@ def _compound_splits(tree: ast.AST):
     every one of those would be ignored within a week."""
     for node in ast.walk(tree):
         if not (isinstance(node, ast.Call) and isinstance(node.func, ast.Attribute)
-                and node.func.attr in TAKES_A_STRING_APART):
+                and node.func.attr in NAMES_A_SEPARATOR):
             continue
         if any(isinstance(a, ast.Constant) and isinstance(a.value, str) and "," in a.value
                for a in node.args):
@@ -364,9 +367,15 @@ def cmd_census() -> int:
             print(f"  {s.line:>5}  {s.what:<14} "
                   f"{str(s.classification or 'UNCLASSIFIED'):<20} {s.text[:60]}")
     print(f"\n{len(sites)} site(s) across {len({s.path for s in sites})} module(s)")
-    for c in CLASSIFICATIONS + COMPOUND_PURPOSES + (None,):
-        n = sum(1 for s in sites if s.classification == c)
-        print(f"  {str(c or 'UNCLASSIFIED').lower():<20} {n}")
+    # TALLIED PER CENSUS, because the two have different allowlists and an unclassified read
+    # is not the same finding as an unclassified split — one total covering both would name
+    # neither.
+    for what, allowed in ((NAME_READ, CLASSIFICATIONS), (COMPOUND_SPLIT, COMPOUND_PURPOSES)):
+        of_this_kind = [s for s in sites if s.what == what]
+        print(f"  {what} ({len(of_this_kind)})")
+        for c in allowed + (None,):
+            n = sum(1 for s in of_this_kind if s.classification == c)
+            print(f"    {str(c or 'UNCLASSIFIED').lower():<22} {n}")
     return 0
 
 

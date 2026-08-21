@@ -490,6 +490,13 @@ OFF_THE_REGISTRY = "off-registry"   # the walk left the rows this registry carri
 
 Rollup = namedtuple("Rollup", "slug stopped")
 
+# The one body a row is placed under, or the reason this registry cannot name one.
+# `cannot_say` is None when the answer is definite — a parent, or genuinely nothing — and
+# `SOURCES_DISAGREE` when the sources name more than one. The two are kept apart because a
+# consumer that showed them alike would publish a disagreement as a body under nothing,
+# which is "could not check" reported as "is not there" (CONTEXT.md).
+Placement = namedtuple("Placement", "parent cannot_say")
+
 
 def parent_targets(org) -> list:
     """Every DISTINCT body this row's relations place it under, in the order named.
@@ -512,6 +519,20 @@ def parent_targets(org) -> list:
     return out
 
 
+def sole_parent(org) -> Placement:
+    """The ONE body this registry places `org` under, for a consumer that can hold only one.
+
+    THE REFUSE-TO-PICK DECISION, WRITTEN ONCE. Both rollups need it — `build_agency_graph.py`
+    groups a sub-unit with its department one hop up, `root_body()` below walks the same step
+    repeatedly — and a second spelling of "what do I do with two parents" is a second answer
+    that can differ from this one. It is the same reason the walk itself is here rather than
+    in either consumer."""
+    targets = parent_targets(org)
+    if len(targets) == 1:
+        return Placement(targets[0], None)
+    return Placement(None, SOURCES_DISAGREE if targets else None)
+
+
 def root_body(slug, by_slug) -> Rollup:
     """The body `slug` rolls up to, and WHY the walk stopped there.
 
@@ -529,15 +550,15 @@ def root_body(slug, by_slug) -> Rollup:
         org = by_slug.get(slug)
         if org is None:
             return Rollup(slug, OFF_THE_REGISTRY)
-        targets = parent_targets(org)
-        if not targets:
+        step = sole_parent(org)
+        if step.cannot_say:
+            return Rollup(slug, step.cannot_say)
+        if step.parent is None:
             return Rollup(slug, AT_THE_TOP)
-        if len(targets) > 1:
-            return Rollup(slug, SOURCES_DISAGREE)
-        if targets[0] in seen:
+        if step.parent in seen:
             return Rollup(slug, PLACED_IN_A_LOOP)
-        seen.add(targets[0])
-        slug = targets[0]
+        seen.add(step.parent)
+        slug = step.parent
 
 
 # ------------------------------------------------------------- what an enabling authority is
@@ -672,6 +693,32 @@ def authority_census(orgs) -> str:
     none_recorded = sum(1 for v in values if classify_authority(v)[0] == "reviewed-none")
     return (f"{len(values) - none_recorded} recorded, {none_recorded} reviewed with none to "
             f"record, {len(orgs) - len(values)} of {len(orgs)} bodies not looked at yet")
+
+
+def placement_witnesses(orgs) -> str:
+    """How many placements this file states TWICE, and how many it states once — printed by
+    --check on every run.
+
+    WHAT #174 GAVE UP, SAID OUT LOUD. `parent_slug` held a second copy of every placement,
+    so a relation deleted by hand was caught by a rule comparing the two. There is one copy
+    now, which is the point of the ticket — and what is left of a second witness is
+    `parent_chapter`, the parent's own OAR chapter, which `parent-agrees` states against the
+    body the relations name. That witness is silent for a child whose parent holds NO
+    chapter: `parent_chapter` is null there for a body under nothing and for a body whose
+    entry was deleted alike, and no rule in this file can tell them apart.
+
+    So the number is REPORTED rather than left to be discovered. It is not zero and it is not
+    a bug: an `oar-index` entry is SCRAPED, so a hand-deletion is rebuilt by the next
+    --refresh from the index tree. What a reader needs to know is how much of the file's
+    hierarchy rests on a single unwitnessed statement, and that is this line (CONTEXT.md:
+    "could not check" is never reported as "is not there")."""
+    placed = [o for o in orgs if parent_targets(o)]
+    witnessed = [o for o in placed if o.get("parent_chapter") is not None]
+    return (f"{len(placed)} body placement(s), {len(witnessed)} of them witnessed a second "
+            f"time by parent_chapter; {len(placed) - len(witnessed)} rest on the relation "
+            "alone, because the parent holds no OAR chapter to witness them with — a "
+            "deleted entry there is rebuilt by the next --refresh and reported by nothing "
+            "in this file")
 
 
 def relation_census(orgs) -> str:
@@ -1953,7 +2000,10 @@ def cmd_check() -> int:
     # THE RELATIONS' CENSUS, for the same reason and one more: the kind is `undetermined` on
     # every relation the registry holds, and that is a state to REPORT on every run rather
     # than a default to stop noticing (#173 is what decides them).
-    print(f"relations: {relation_census([o for o in orgs if isinstance(o, dict)])}")
+    rows = [o for o in orgs if isinstance(o, dict)]
+    print(f"relations: {relation_census(rows)}")
+    # WHAT THE RETIRED POINTER USED TO WITNESS (#174), counted rather than assumed.
+    print(f"placements: {placement_witnesses(rows)}")
     return 0
 
 
@@ -2696,6 +2746,67 @@ def _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry() -> int:
     return bad
 
 
+def _proof_the_walk_says_what_it_cannot_answer() -> int:
+    """The hierarchy walk in every state it can stop in, INCLUDING the three no committed row
+    is in — which is the whole reason it is proven here rather than left to the registry.
+
+    81 children carry exactly one relation each today, so every walk over the committed file
+    takes the same branch, and the branches that decide what happens when the sources
+    DISAGREE have never run. The counts `build_policy_gap.py` and `build_agency_graph.py`
+    publish beside their totals come out of those branches. A number produced by code nobody
+    has watched run is not a measurement.
+
+    A DISAGREEMENT IS NOT A BODY UNDER NOTHING, and that is the assertion that matters: both
+    rollups must be able to tell "this registry places it nowhere" from "this registry cannot
+    say which of two", because showing them alike publishes the second as the first —
+    CONTEXT.md's overriding rule, on a page carrying rule counts."""
+    bad = 0
+    top, child, other = "board-of-imaginary-affairs", "imaginary-affairs-unit", "office-of-x"
+    reg = {top: {"slug": top, RELATION_KEY: []},
+           other: {"slug": other, RELATION_KEY: []},
+           child: {"slug": child, RELATION_KEY: [index_relation(top)]}}
+    # TWO SOURCES, ONE PARENT: they agree about the placement and at most disagree about the
+    # kind, which is not this walk's question — so the parent is named, not refused.
+    agreeing = {"slug": "agreeing", RELATION_KEY: [
+        index_relation(top), {"target": top, "source": "statute", "kind": UNDETERMINED}]}
+    # TWO SOURCES, TWO PARENTS: the disagreement ADR 0003 keeps, and nothing here picks.
+    disputed = {"slug": "disputed", RELATION_KEY: [
+        index_relation(top), {"target": other, "source": "das", "kind": UNDETERMINED}]}
+    loop = {"slug": "loop", RELATION_KEY: [index_relation("loop-back")]}
+    reg.update({"agreeing": agreeing, "disputed": disputed, "loop": loop,
+                "loop-back": {"slug": "loop-back", RELATION_KEY: [index_relation("loop")]}})
+
+    expected = [
+        ("a body under nothing is at the top", root_body(top, reg), top, AT_THE_TOP),
+        ("a child rolls up to its parent", root_body(child, reg), top, AT_THE_TOP),
+        ("two sources naming ONE parent still roll up",
+         root_body("agreeing", reg), top, AT_THE_TOP),
+        ("two sources naming TWO parents are not rolled up",
+         root_body("disputed", reg), "disputed", SOURCES_DISAGREE),
+        ("a cycle stops rather than hanging", root_body("loop", reg), "loop-back",
+         PLACED_IN_A_LOOP),
+        ("a slug this registry does not carry rolls up to itself",
+         root_body("agencies/not-a-body", reg), "agencies/not-a-body", OFF_THE_REGISTRY),
+    ]
+    for name, got, slug, stopped in expected:
+        if got != Rollup(slug, stopped):
+            print(f"FAIL {name}: {got!r}, expected {Rollup(slug, stopped)!r}",
+                  file=sys.stderr)
+            bad += 1
+    # AND THE ONE-HOP ANSWER THE GRAPH USES, from the same place, on the same rows.
+    for name, org, want in (("one parent is named", reg[child], Placement(top, None)),
+                            ("two sources, one parent", agreeing, Placement(top, None)),
+                            ("two parents are refused", disputed,
+                             Placement(None, SOURCES_DISAGREE)),
+                            ("no parent is not a disagreement", reg[top],
+                             Placement(None, None))):
+        if sole_parent(org) != want:
+            print(f"FAIL sole-parent {name}: {sole_parent(org)!r}, expected {want!r}",
+                  file=sys.stderr)
+            bad += 1
+    return bad
+
+
 def _proof_the_relation_census_counts_every_kind() -> int:
     """37 of the registry's 81 relations record UNDETERMINED and 44 record a derived kind
     (#173), and #171 requires both to be REPORTED rather than defaulted away. A census that
@@ -2888,6 +2999,7 @@ def selftest() -> int:
                   file=sys.stderr)
             bad += 1
     bad += _proof_refresh_rejects_an_undeclared_scraped_field()
+    bad += _proof_the_walk_says_what_it_cannot_answer()
     bad += _proof_the_relation_census_counts_every_kind()
     bad += _proof_the_merge_is_what_carries_a_curated_relation()
     bad += _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry()
@@ -2906,7 +3018,7 @@ def selftest() -> int:
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
             bad += 1
-    print(f"{len(_CASES) + len(_PROOFS) + 4} violation(s) demonstrated failing, "
+    print(f"{len(_CASES) + len(_PROOFS) + 5} violation(s) demonstrated failing, "
           f"{resolutions} name resolution(s) proven"
           if not bad else f"{bad} rule(s) did not fire")
     return 1 if bad else 0

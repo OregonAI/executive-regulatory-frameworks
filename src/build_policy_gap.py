@@ -32,6 +32,20 @@ PAGES = REPO_ROOT / "_meta/catalog/agency-policy-pages.yml"  # advisory only, ne
 OUT = REPO_ROOT / "viz/policy-documentation-gap.html"
 
 
+# WHY A BODY WAS NOT ROLLED UP TO A TOP-LEVEL AGENCY, in words a reader of the page can act
+# on. Both are states `catalog_agencies.root_body()` names and neither is "this body is a
+# root": one is two sources the registry keeps in disagreement, the other is a cycle in the
+# relations. Publishing either as a top-level agency would be "could not check" reported as
+# "is not there" (CONTEXT.md), on a row carrying a rule count.
+NOT_A_ROOT = {
+    catalog_agencies.SOURCES_DISAGREE:
+        "its sources place it under more than one parent, and this view does not pick one",
+    catalog_agencies.PLACED_IN_A_LOOP:
+        "its relations lead back to a body already walked, so the registry states no top for "
+        "it",
+}
+
+
 def root(slug, orgs, unrolled=None):
     """Roll a sub-division slug up to its root agency via `relations` (loop-safe).
 
@@ -46,11 +60,13 @@ def root(slug, orgs, unrolled=None):
     the first entry would credit this agency's rule count to the department the OAR index
     files it under while statute places it elsewhere, and nothing on the page would say
     which reading produced the total — so such a body stays its own root and is collected in
-    `unrolled` for the caller to report. No committed row is in that state today, so this
-    returns exactly what the retired `parent_slug` pointer returned for all 189."""
+    `unrolled` for the caller to report — ON ITS OWN ROW and not only in a total, because a
+    total of zero is exactly what would hide the first one. No committed row is in that state
+    today, so this returns exactly what the retired `parent_slug` pointer returned for all
+    189; `catalog_agencies.py --selftest` is where the other branches are watched running."""
     got = catalog_agencies.root_body(slug, orgs)
-    if got.stopped == catalog_agencies.SOURCES_DISAGREE and unrolled is not None:
-        unrolled.add(got.slug)
+    if got.stopped in NOT_A_ROOT and unrolled is not None:
+        unrolled[got.slug] = NOT_A_ROOT[got.stopped]
     return got.slug
 
 
@@ -65,10 +81,10 @@ def build_data() -> dict:
         # (the statutory name after ADR 0003), which is what a reader is shown.
         return orgs.get(slug, {}).get("name", slug)
 
-    # Bodies whose sources place them under more than one parent, collected across every
-    # walk below and REPORTED rather than resolved (see `root`). Empty on the committed
-    # registry, and a count in the published data rather than a silence if it stops being.
-    unrolled: set = set()
+    # {slug: why it is not a root} for every body the walk could not roll up, collected
+    # across every walk below and REPORTED rather than resolved (see `root`). Empty on the
+    # committed registry; when it stops being, the reason rides on the row itself.
+    unrolled: dict = {}
 
     rules, policies = Counter(), Counter()
     for n in g["nodes"]:
@@ -86,8 +102,12 @@ def build_data() -> dict:
         if a.get("status") == "candidate_found":
             candidates.add(root(a["slug"], orgs, unrolled))
 
+    # `not_a_root` is present only on the rows it is true of: a key on every row would say
+    # of 93 agencies that somebody checked whether they were really roots, which is a
+    # different claim from the one this makes about the few that are not.
     rows = [{"slug": slug, "name": org_name(slug), "rules": n,
-             "policies": policies.get(slug, 0), "candidate": slug in candidates}
+             "policies": policies.get(slug, 0), "candidate": slug in candidates,
+             **({"not_a_root": unrolled[slug]} if slug in unrolled else {})}
             for slug, n in rules.most_common()]
 
     n_with_policies = sum(1 for r in rows if r["policies"] > 0)
@@ -209,7 +229,10 @@ function render(){
         ? `<div>${r.rules.toLocaleString()} OAR rules · ${r.policies.toLocaleString()} policy/procedure documents ingested (≈${pct}% of rule volume)</div>`
         : `<div><b>0 policy/procedure documents ingested into this corpus.</b> This reflects ingestion scope, not confirmed absence of internal policy.</div>`;
       const cand=r.candidate?`<div>Flagged in the unverified review queue as a candidate for future ingestion.</div>`:'';
-      tip.innerHTML=`<b>${esc(r.name)}</b>${body}${cand}`;
+      // A body the registry could not roll up is shown here as itself, and says why — it is
+      // not a top-level agency, and a row that looked like one would be a wrong number.
+      const notroot=r.not_a_root?`<div><b>Not rolled up:</b> ${esc(r.not_a_root)}. Its rules are counted against itself, not against a department.</div>`:'';
+      tip.innerHTML=`<b>${esc(r.name)}</b>${body}${cand}${notroot}`;
       tip.style.opacity=1;tip.style.left=Math.min(e.clientX+13,innerWidth-tip.offsetWidth-8)+'px';tip.style.top=Math.min(e.clientY+13,innerHeight-tip.offsetHeight-8)+'px';});
     el.addEventListener('mouseleave',()=>tip.style.opacity=0);
     list.appendChild(el);

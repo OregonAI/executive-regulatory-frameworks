@@ -92,15 +92,18 @@ def build_data() -> dict:
     # source happened to be written first, with nothing on the page saying so. It stands as
     # its own group and is REPORTED in the counts below. No committed row is in that state,
     # so every node and every group is what the retired `parent_slug` produced.
-    disputed: set = set()
+    # {slug: the parents its sources name} for every body grouped with none of them.
+    # Recorded per SLUG and published on the node, not only as a total: a node showing
+    # `parent: null` like every real top-level department is the disagreement published as
+    # an absence, which is the reading CONTEXT.md forbids.
+    disputed: dict = {}
 
     def parent_of(slug: str):
-        targets = catalog_agencies.parent_targets(by_slug.get(slug) or {})
-        if len(targets) == 1:
-            return targets[0]
-        if targets:
-            disputed.add(slug)
-        return None
+        org = by_slug.get(slug) or {}
+        placed = catalog_agencies.sole_parent(org)
+        if placed.cannot_say:
+            disputed[slug] = catalog_agencies.parent_targets(org)
+        return placed.parent
 
     def group_of(slug: str) -> str:
         return parent_of(slug) or slug
@@ -124,6 +127,9 @@ def build_data() -> dict:
             "name": by_slug.get(slug, {}).get("name", slug),
             "rules": len(ag_rules.get(slug, ())),
             "parent": parent_of(slug),
+            # Present only on the nodes it is true of, for the reason the policy-gap view
+            # gives: a key on all 166 would claim somebody checked every one of them.
+            **({"parents_disagree": disputed[slug]} if slug in disputed else {}),
             "group": grp,
             "group_name": by_slug.get(grp, {}).get("name", grp),
             "governance": prof.get("governance", "unclassified"),
@@ -146,6 +152,9 @@ def build_data() -> dict:
                    "colored_groups": len(multi),
                    "ors_chapters": len(chapter_pop),
                    "bodies_their_sources_disagree_about": len(disputed)},
+        # NAME READER — DISPLAY: the department label on a colour swatch in the graph's
+        # legend. Stays on `name` (the statutory name after ADR 0003) for the reason the
+        # node labels do — the legend names a body, and a body is labelled by its own name.
         "colored_groups": [{"slug": g, "name": by_slug.get(g, {}).get("name", g),
                             "members": len(group_members[g])} for g in multi],
         "chapter_pop": dict(sorted(chapter_pop.items())),
