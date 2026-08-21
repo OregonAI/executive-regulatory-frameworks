@@ -11,7 +11,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from link_graph import build_renumber_map
-from repo_lib import REPO_ROOT, orconst_id, yaml_load
+from repo_lib import (ORCONST_ARTICLE_TOKEN, ORCONST_SECTION_TOKEN, REPO_ROOT,
+                      orconst_article_slug, orconst_id, yaml_load)
 
 from corpus_toolkit.mcp.framework import register_scheme
 
@@ -113,6 +114,14 @@ def _resolve_ors(m, nodes):
 # The id is the citation, token for token: Art. VI, sec. 9a -> orconst-art-vi-sec-9a. The
 # article keeps its roman numeral and the section keeps its letter, because both are how
 # the source prints them and how a reader would write them back.
+#
+# THE ARTICLE HALF IS `repo_lib.ORCONST_ARTICLE_TOKEN`, NOT A SECOND SPELLING OF IT. It
+# carries the parenthetical, because Oregon's citation does: `Art. VII (Amended), sec. 1`
+# and `Art. VII (Original), sec. 1` are two operative articles and two documents, and the
+# page prints no bare ARTICLE VII at all. The same declaration builds
+# `catalog_agencies.AUTHORITY_FORMS`' constitutional form — see
+# `article_form_disagreements` below for what that fixes and what gates it.
+#
 # THE CASE FLAG IS IN THE PATTERN STRING, NOT THE compile() CALL. register_scheme takes
 # `OR_CONST_C.pattern` — the string — and compiles it itself, so a flag passed to
 # re.compile here reaches this module's own uses and NOT the resolver the MCP server runs.
@@ -122,8 +131,8 @@ def _resolve_ors(m, nodes):
 # as #202, and not fixed here.
 OR_CONST_C = re.compile(
     r"(?i)\b(?:Or|Ore|Oregon)\.?\s*Const(?:itution)?\.?,?\s*"
-    r"Art(?:icle)?\.?\s*([IVXL]+(?:-[A-Z])?)\s*,?\s*"
-    r"(?:§|Sec(?:tion|t|\.)?)\s*\.?\s*(\d+[a-z]?)\.?\s*$")
+    rf"Art(?:icle)?\.?\s*({ORCONST_ARTICLE_TOKEN})\s*,?\s*"
+    rf"(?:§|Sec(?:tion|t|\.)?)\s*\.?\s*({ORCONST_SECTION_TOKEN})\.?\s*$")
 
 CONSTITUTION_CATALOG_PATH = REPO_ROOT / "_meta/catalog/constitution.yml"
 
@@ -132,51 +141,93 @@ _CONSTITUTION = None
 
 
 def _constitution_catalog():
-    """{ARTICLE: catalog entry} — the sections the SOURCE PAGE prints for each article this
-    corpus has mirrored, with the status each one ended in. It is what lets an unresolved
-    constitutional citation say which of three things happened, instead of one blank."""
+    """{article slug: catalog entry} — the sections the SOURCE PAGE prints for each article,
+    with the status each one ended in. It is what lets an unresolved constitutional citation
+    say which of several things happened instead of one blank.
+
+    KEYED ON THE SLUG, which is the article's identity: `VII (Amended)` and `VII (Original)`
+    are different keys because they are different articles, and the case a citation happens
+    to be written in cannot reach this dictionary.
+
+    A DESIGNATION THE PAGE PRINTS TWICE IS ONE KEY. `ARTICLE XI-A` is printed as the repealed
+    1916 RURAL CREDITS article and as the article in force; the print carrying sections is
+    the one a citation to `Art. XI-A` can mean, and it is the one kept here — the same rule
+    `repo_lib.constitution_article_region` applies, so the resolver and the slicer cannot
+    disagree about which article a citation names."""
     global _CONSTITUTION
     if _CONSTITUTION is None:
         cat = {}
         if CONSTITUTION_CATALOG_PATH.exists():
             cat = yaml_load(CONSTITUTION_CATALOG_PATH.read_text()) or {}
-        _CONSTITUTION = {a["article"].upper(): a for a in cat.get("articles", [])}
+        out = {}
+        for a in cat.get("articles", []):
+            key = orconst_article_slug(a["article"])
+            if key not in out or (a.get("sections") and not out[key].get("sections")):
+                out[key] = a
+        _CONSTITUTION = out
     return _CONSTITUTION
 
 
+def _designations_sharing(slug: str) -> list:
+    """Every article the catalog holds whose slug extends `slug` — what a citation that
+    omits the parenthetical could have meant. `vii` -> VII (Amended), VII (Original)."""
+    prefix = slug + "-"
+    return [a["article"] for slug, a in _constitution_catalog().items()
+            if slug.startswith(prefix)]
+
+
 def _resolve_or_const(m):
-    """THREE ANSWERS, WHICH MAY NEVER BE COLLAPSED INTO ONE (CONTEXT.md).
+    """FIVE ANSWERS, WHICH MAY NEVER BE COLLAPSED INTO ONE (CONTEXT.md).
 
-      * the section is mirrored          -> its id
-      * the article is not mirrored yet  -> nothing, and says so (#195)
-      * the article IS mirrored and the page prints no such section -> nothing, and says
-        THAT, which is the only one of the three that is a claim about the Constitution
-      * the page prints it and this corpus did not publish it -> nothing, and the reason
-        the catalog recorded
+      * the section is mirrored                    -> its id
+      * the citation names an article by a numeral the page prints only WITH a parenthetical
+        -> nothing, and says which two it could be, because choosing would be a guess
+      * the page prints no such article             -> nothing, and says THAT
+      * the article is on the page and carries no sections (a repealed article, printed as
+        its heading and its repeal bracket) -> nothing, and says that
+      * the page prints the section and this corpus did not publish it -> nothing, and the
+        reason the catalog recorded
 
-    A partial mirror is exactly the state ADR 0005 warned makes "not found" ambiguous, so
-    while it lasts the ambiguity is answered in words rather than left to be inferred."""
-    article, section = m.group(1).upper(), m.group(2).lower()
-    cid = orconst_id(article, section)
-    catalog = _constitution_catalog()
-    entry = catalog.get(article)
+    Only the middle three are claims about the Constitution; the last is a claim about this
+    corpus, and the two are never worded alike."""
+    slug = orconst_article_slug(m.group(1))
+    section = m.group(2).lower()
+    cid = orconst_id(m.group(1), section)
+    entry = _constitution_catalog().get(slug)
     if entry is None:
-        held = ", ".join(f"Article {a}" for a in catalog) or "no article of it"
-        return [], (f"Article {article} of the Oregon Constitution is not mirrored in "
-                    f"this corpus yet — it mirrors {held} (ADR 0005; the rest is #195). "
-                    f"That is a statement about this corpus's coverage, and it is not "
-                    f"evidence about Or. Const. Art. {article}, sec. {section} either way.")
+        # `Art. VII, sec. 1` — the numeral is real and names two articles, because the page
+        # prints ARTICLE VII only as `(Amended)` and `(Original)`. Answering with either
+        # would be a coin flip between two operative articles with different text.
+        sharing = _designations_sharing(slug)
+        if sharing:
+            forms = " and ".join(f"Or. Const. Art. {d}, sec. {section}" for d in sharing)
+            return [], (f"The Oregon Constitution has no Article {m.group(1)} on its own — "
+                        f"the page prints that numeral {len(sharing)} times, as "
+                        + ", ".join(f"Article {d}" for d in sharing) +
+                        f", and both are operative. This citation names neither: write "
+                        f"{forms}. Choosing one would be a guess between two articles with "
+                        f"different text.")
+        held = len(_constitution_catalog())
+        return [], (f"The source page prints no Article {m.group(1)} of the Oregon "
+                    f"Constitution. This corpus mirrors the whole document — all {held} "
+                    f"article designations the page carries (ADR 0005) — so this is a "
+                    f"statement about the Constitution and not about the corpus's coverage.")
+    if entry.get("status") == "not_mirrored":
+        why = str(entry.get("note", "no reason recorded")).rstrip(". ")
+        return [], (f"Article {entry['article']} ({entry['title']}) is printed on the source "
+                    f"page and carries no sections: {why}. It is in "
+                    f"_meta/catalog/constitution.yml with that reason beside it.")
     sec = next((s for s in entry["sections"] if str(s["number"]).lower() == section), None)
     if sec is None:
         printed = ", ".join(str(s["number"]) for s in entry["sections"])
-        return [], (f"Article {article} is mirrored from the source page section by "
+        return [], (f"Article {entry['article']} is mirrored from the source page section by "
                     f"section, and the page prints no section {section} in it — the "
                     f"sections it prints are {printed}. This citation matches none of "
                     f"them, and it is not read as a near miss for any of them.")
     if sec.get("status") != "ingested":
         why = str(sec.get("note", "no reason recorded")).rstrip(". ")
-        return [], (f"Or. Const. Art. {article}, sec. {section} is printed by the source "
-                    f"page and was not published by this corpus: {why}. It is in "
+        return [], (f"Or. Const. Art. {entry['article']}, sec. {sec['number']} is printed by "
+                    f"the source page and was not published by this corpus: {why}. It is in "
                     f"_meta/catalog/constitution.yml with that reason beside it.")
     return [cid]
 
@@ -267,19 +318,99 @@ register_scheme("oar-division", OAR_DIV_C.pattern, resolver=_resolve_oar_div)
 register_scheme("das-oam-number", NUMS_C.pattern, resolver=_resolve_nums)
 
 
+# ---------------------------------------------- one declaration, and the gate on it (#195)
+#
+# TWO FORMS ANSWER "WHAT IS A CONSTITUTIONAL CITATION" IN THIS REPO: the `or-const` scheme
+# above, which RESOLVES one, and `catalog_agencies.AUTHORITY_FORMS`, which decides whether a
+# registry row may RECORD one as its enabling authority. Until #195 they were two
+# hand-maintained answers, and they disagreed in both directions — measured, not feared:
+#
+#   Or. Const. Art. VII (Amended), sec. 1   scheme REFUSED   form accepted
+#   Or. Const. Art. XI-A, sec. 1            scheme accepted  form REFUSED
+#   Or. Const. Art. XI-F(1), sec. 1         both refused, and it is a real article
+#
+# Both now interpolate `repo_lib.ORCONST_ARTICLE_TOKEN`, so the article half is DERIVED and
+# not written twice. THE DIRECTION IS FORCED: the token lives beside `orconst_article_slug`,
+# because the scheme has to turn the token into a document id and the form only has to
+# recognize it — a recognizer can be derived from a parser, and a parser cannot be derived
+# from a recognizer. This is #193's fix to `CADENCES` versus the `recheck` enum, in the
+# second place the repository stated one fact twice.
+#
+# The gate below is what makes that survive someone editing one of the two by hand.
+
+
+def _gate_articles():
+    """The article designations the gate runs through both forms.
+
+    DERIVED FROM THE SOURCE DOCUMENT, via the catalog the ingest writes from the page's own
+    headings — so an article Oregon adds arrives at this gate without anyone remembering to
+    add it. The refusals are fixed, because they are shapes the page does not print and no
+    catalog will ever supply."""
+    accept = sorted(a["article"] for a in _constitution_catalog().values()) \
+        or ["VI"]
+    # Not a designation the page prints, and not a spelling either form may quietly take: a
+    # letter that is not a roman numeral, a parenthetical that is not one of the two
+    # editions, the edition run onto the numeral without the space the citation prints, a
+    # lettered article with its letter missing, an arabic numeral, and a two-digit index
+    # where the page prints one.
+    #
+    # NOT IN THIS LIST: spacing and case. The scheme is deliberately tolerant of how a
+    # document writes a citation (`Or Const Art VI sec 1`) and AUTHORITY_FORMS is
+    # deliberately exact about what a registry row may hold, so `Art. VI , sec. 1` is a
+    # DECISION the two differ on rather than a drift, and a gate that reported it would be
+    # asking them to stop meaning different things.
+    refuse = ["Q", "VII (Repealed)", "VII(Amended)", "XI-", "6", "XI-F(10)"]
+    return [(d, True) for d in accept] + [(d, False) for d in refuse]
+
+
+def article_form_disagreements(constitution_form=None) -> list:
+    """Every article designation the citation scheme and the enabling-authority form answer
+    differently — empty when they agree, which is the state CI requires.
+
+    Compared on the CANONICAL citation only (`Or. Const. Art. <designation>, sec. 1`), not
+    on case or spacing variants: the scheme is deliberately tolerant of how a document
+    writes a citation and `AUTHORITY_FORMS` is deliberately exact about what a registry row
+    may hold, and that difference is a decision rather than a drift.
+
+    `constitution_form` overrides the pattern read from `AUTHORITY_FORMS`, so the gate can
+    be watched failing against a form made to disagree."""
+    from catalog_agencies import AUTHORITY_FORMS
+    form = constitution_form or dict(AUTHORITY_FORMS)["constitution"]
+    out = []
+    for designation, expected in _gate_articles():
+        citation = f"Or. Const. Art. {designation}, sec. 1"
+        by_scheme = OR_CONST_C.search(citation) is not None
+        by_form = form.fullmatch(citation) is not None
+        if by_scheme != by_form:
+            out.append(f"{citation!r}: the or-const scheme "
+                       f"{'accepts' if by_scheme else 'refuses'} it and AUTHORITY_FORMS "
+                       f"{'accepts' if by_form else 'refuses'} it")
+        elif by_scheme != expected:
+            out.append(f"{citation!r}: both forms "
+                       f"{'accept' if by_scheme else 'refuse'} it, and the page "
+                       f"{'prints' if expected else 'does not print'} that article")
+    return out
+
+
 # ------------------------------------------------------------------------ selftest
+def resolve(citation):
+    """(ids, note) for one constitutional citation, or (None, …) when the scheme refuses it.
+
+    The seam every proof below reads through — the pattern AND the resolver, together, which
+    is what an agent's `resolve_citation` call reaches. Module level rather than a closure so
+    each proof can be read on its own."""
+    m = OR_CONST_C.search(citation.strip())
+    if not m:
+        return None, "no scheme matched"
+    out = _resolve_or_const(m)
+    return out if isinstance(out, tuple) else (out, None)
+
+
 def _selftest() -> int:
     """The constitutional scheme's own proofs: what it matches, what id it builds, and —
     the half that matters most — what it says when it resolves to nothing."""
     from repo_lib import Checks
     ck = Checks()
-
-    def resolve(citation):
-        m = OR_CONST_C.search(citation.strip())
-        if not m:
-            return None, "no scheme matched"
-        out = _resolve_or_const(m)
-        return out if isinstance(out, tuple) else (out, None)
 
     ids, note = resolve("Or. Const. Art. VI, sec. 1")
     ck("the official citation form resolves to the section's id",
@@ -325,12 +456,107 @@ def _selftest() -> int:
     ck("...and says WHY it is not held, not that it does not exist",
        note is not None and "not published" in note and "does not exist" not in note)
 
-    ids, note = resolve("Or. Const. Art. IV, sec. 1")  # an article nobody has mirrored
-    ck("an article nobody has mirrored yet resolves to nothing", ids == [])
-    ck("...and says it is not mirrored, which is not the same as absent",
-       note is not None and "not mirrored" in note and "#195" in note)
+    _proof_the_two_editions_of_article_vii_are_two_documents(ck)
+    _proof_an_article_the_page_does_not_print_says_so(ck)
+    _proof_the_two_forms_accept_the_same_article(ck)
+    _proof_the_gate_can_watch_the_two_forms_disagree(ck)
     _proof_the_citation_resolves_end_to_end(ck)
     return ck.report("citation-schemes selftest")
+
+
+def _proof_the_two_editions_of_article_vii_are_two_documents(ck):
+    """CRITERION 2 OF #195. The page prints ARTICLE VII twice, as `(Amended)` and
+    `(Original)`, and Oregon courts cite both — amended Article VII holds the judicial power,
+    and original Article VII's provisions on courts and jurisdiction survive with the status
+    of a statute by the terms of amended section 2. They are different text under the same
+    numeral, so they must be different documents, and the parenthetical is what tells them
+    apart.
+
+    THE BARE NUMERAL RESOLVES TO NEITHER. There is no ARTICLE VII on the page without a
+    parenthetical, so `Or. Const. Art. VII, sec. 1` is a citation to one of two things and
+    this scheme says which two rather than picking one."""
+    amended, _ = resolve("Or. Const. Art. VII (Amended), sec. 1")
+    original, _ = resolve("Or. Const. Art. VII (Original), sec. 1")
+    ck("the amended article resolves to its own document",
+       amended == ["orconst-art-vii-amended-sec-1"])
+    ck("the original article resolves to its own document",
+       original == ["orconst-art-vii-original-sec-1"])
+    ck("they are not the same document", amended != original)
+    ck("and they do not hold the same text",
+       (REPO_ROOT / "constitution/orconst-art-vii-amended-sec-1.md").read_text()
+       != (REPO_ROOT / "constitution/orconst-art-vii-original-sec-1.md").read_text())
+    ids, note = resolve("Or. Const. Art. VII, sec. 1")
+    ck("the bare numeral resolves to nothing", ids == [])
+    ck("...and names both articles it could have meant",
+       note is not None and "VII (Amended)" in note and "VII (Original)" in note)
+    ck("...and does not report the section as absent",
+       note is not None and "guess" in note and "no section" not in note)
+    xi_a, _ = resolve("Or. Const. Art. XI-A, sec. 1")
+    ck("a designation the page prints twice resolves against the print carrying sections",
+       xi_a == ["orconst-art-xi-a-sec-1"])
+    ids, note = resolve("Or. Const. Art. XI-B, sec. 1")
+    ck("a repealed article the page still prints resolves to nothing", ids == [])
+    ck("...and says the article carries no sections, not that it never existed",
+       note is not None and "carries no sections" in note
+       and "STATE PAYMENT OF IRRIGATION" in note)
+
+
+def _proof_an_article_the_page_does_not_print_says_so(ck):
+    """THE ANSWER THAT CHANGED WHEN THE MIRROR BECAME WHOLE. While one article of eighteen
+    was mirrored, `Or. Const. Art. IV, sec. 1` resolved to nothing and had to say "not
+    mirrored yet" — a statement about this corpus that carried no information about Oregon
+    law. It now resolves, and a citation to an article the page does not print is a claim
+    about the Constitution, which is the ambiguity ADR 0005 said a partial mirror creates."""
+    ids, _ = resolve("Or. Const. Art. IV, sec. 1")
+    ck("an article that used to be unmirrored now resolves",
+       ids == ["orconst-art-iv-sec-1"])
+    ids, note = resolve("Or. Const. Art. XX, sec. 1")
+    ck("an article the page does not print resolves to nothing", ids == [])
+    ck("...and says so about the Constitution, not about this corpus's coverage",
+       note is not None and "prints no Article XX" in note
+       and "not mirrored" not in note)
+
+
+def _proof_the_two_forms_accept_the_same_article(ck):
+    """CRITERION 4 OF #195: the citation scheme and the enabling-authority form accept the
+    same article token, because both are built from one declaration.
+
+    Run over every designation the catalog holds — 39 on the 2024 edition, ARTICLE VII's two
+    editions and the lettered articles included — so this is a claim about the document and
+    not about four examples someone chose."""
+    disagreements = article_form_disagreements()
+    for d in disagreements:
+        print("  " + d, file=sys.stderr)
+    ck("the two constitutional citation forms agree on every article the page prints",
+       disagreements == [])
+    accepted = [d for d, ok in _gate_articles() if ok]
+    ck("...and there is a document's worth of them to agree about", len(accepted) >= 18)
+    ck("the parenthetical editions are among them",
+       "VII (Amended)" in accepted and "VII (Original)" in accepted)
+
+
+def _proof_the_gate_can_watch_the_two_forms_disagree(ck):
+    """A GATE NOBODY HAS WATCHED FAIL IS NOT KNOWN TO WORK, and this one guards a fact that
+    is invisible when it breaks: a registry row could record an authority no citation in
+    this corpus can resolve, or a citation could resolve to a document the registry may not
+    name as an authority, and nothing would say so.
+
+    The disagreement is made IN PROCESS, by handing the gate the form as it stood before
+    #195 — the article token without its parenthetical and without its lettered suffix,
+    which is what `AUTHORITY_FORMS` actually held."""
+    before = re.compile(r"Or\. Const\. Art\. [IVXL]+[A-Z]?"
+                        r"(?: \((?:Amended|Original)\))?, sec\. \d+[a-z]?")
+    caught = article_form_disagreements(constitution_form=before)
+    ck("the gate reports a form that has lost the lettered articles", caught != [])
+    ck("...and names the article it disagrees about",
+       any("XI-A" in c for c in caught))
+    ck("...and says which side accepts it",
+       all("the or-const scheme" in c and "AUTHORITY_FORMS" in c for c in caught))
+    lost_edition = re.compile(r"Or\. Const\. Art\. [IVXL]+(?:-[A-Z](?:\(\d\))?)?, "
+                              r"sec\. \d+[a-z]?")
+    ck("a form that has lost ARTICLE VII's editions is caught too",
+       any("VII (Amended)" in c
+           for c in article_form_disagreements(constitution_form=lost_edition)))
 
 
 def _proof_the_citation_resolves_end_to_end(ck):
