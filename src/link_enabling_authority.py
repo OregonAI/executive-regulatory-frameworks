@@ -135,7 +135,20 @@ Problem = collections.namedtuple("Problem", "rule slug detail")
 # row only after reading the section; a row that was pattern-matched and not read belongs in
 # the review sheet, not here.
 MAPPED: dict[str, str] = {
-    # e.g. "appraiser-certification-and-licensure-board": "ORS 674.305",
+    # READ BY A HUMAN AGAINST THE CITED TEXT, 2026-08-22. Six tier-1 candidates from the
+    # #169 review population, each displayed with its creation sentence before acceptance,
+    # plus one authority the maintainer supplied. Nothing here was accepted on a tier alone.
+    "commission-on-judicial-fitness-and-disability": "ORS 1.410",
+    "department-of-consumer-and-business-services": "ORS 705.105",
+    "mental-health-regulatory-agency": "ORS 675.160",
+    "oregon-advocacy-commissions-office": "ORS 185.005",
+    "public-records-advocate": "ORS 192.461",
+    "state-board-of-tax-practitioners": "ORS 673.725",
+    # Supplied by the maintainer and verified end to end: both constitutional editions and
+    # ORS chapter 8 are mirrored, and the citation resolves. Art. VII (Original) sec. 17
+    # creates the office; the ORS chapter codifies it. The constitutional citation is the
+    # one recorded because it is what created the office.
+    "district-attorneys-and-deputies": "Or. Const. Art. VII (Original), sec. 17",
 }
 
 # slug -> why this body has no enabling authority TO RECORD. A DECISION with a stated reason,

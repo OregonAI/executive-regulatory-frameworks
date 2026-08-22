@@ -208,6 +208,7 @@ organizations:
   manual: true
   das_agency_number: '175'
   budget_agency_code: '175'
+  enabling_authority: ORS 1.410
 - slug: construction-contractors-board
   name: Construction Contractors Board
   oar_name: Construction Contractors Board
@@ -578,6 +579,7 @@ organizations:
   relations: []
   das_agency_number: '440'
   budget_agency_code: '440'
+  enabling_authority: ORS 705.105
 - slug: department-of-consumer-and-business-services-building-codes-division
   name: Department of Consumer and Business Services, Building Codes Division
   oar_name: Department of Consumer and Business Services, Building Codes Division
@@ -1002,6 +1004,7 @@ organizations:
   manual: true
   das_agency_number: '196'
   budget_agency_code: '196'
+  enabling_authority: Or. Const. Art. VII (Original), sec. 17
 - slug: eastern-oregon-border-economic-development-board
   name: Eastern Oregon Border Economic Development Board
   oar_name: Eastern Oregon Border Economic Development Board
@@ -1238,6 +1241,7 @@ organizations:
   relations: []
   das_agency_number: '108'
   budget_agency_code: '108'
+  enabling_authority: ORS 675.160
 - slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
   name: Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
   oar_name: Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
@@ -1334,6 +1338,7 @@ organizations:
   manual: true
   das_agency_number: '131'
   budget_agency_code: '131'
+  enabling_authority: ORS 185.005
 - slug: oregon-board-of-accountancy
   name: Oregon Board of Accountancy
   oar_name: Oregon Board of Accountancy
@@ -1925,6 +1930,7 @@ organizations:
   manual: true
   das_agency_number: '104'
   budget_agency_code: '104'
+  enabling_authority: ORS 192.461
 - slug: public-utility-commission
   name: Public Utility Commission
   oar_name: Public Utility Commission
@@ -2059,6 +2065,7 @@ organizations:
   manual: true
   das_agency_number: '119'
   budget_agency_code: '119'
+  enabling_authority: ORS 673.725
 - slug: teacher-standards-and-practices-commission
   name: Teacher Standards and Practices Commission
   oar_name: Teacher Standards and Practices Commission
