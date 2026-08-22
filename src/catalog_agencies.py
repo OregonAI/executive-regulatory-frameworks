@@ -785,6 +785,26 @@ def authority_census(orgs) -> str:
             f"record, {len(orgs) - len(values)} of {len(orgs)} bodies not looked at yet")
 
 
+def tally(counts, allowed) -> str:
+    """`counts` rendered as "<n> <value>" for every value in `allowed`, THE ZEROES INCLUDED,
+    followed by any value the allowlist does not name.
+
+    ONE IMPLEMENTATION OF "NAME THE ZEROES", because it is a rule this repository keeps and
+    not a formatting choice: a count that appears only when it is non-zero cannot be told
+    apart from a count nobody asked for, and a census printing only the values it happened to
+    find leaves a reader to infer that the rest are absent (CONTEXT.md). Two censuses spelling
+    that rule separately is two places for one of them to stop keeping it.
+
+    SORTED BY `str`, BECAUSE None IS ONE OF THE VALUES THAT REACHES HERE. A relation missing
+    its `kind` counts as None, and so does a row missing its `name_basis` — both are contract
+    violations these censuses promise to NAME rather than absorb, and sorting them against the
+    strings beside them raises TypeError, which would take down the one report that was
+    supposed to surface them.
+    """
+    named = list(allowed) + sorted((k for k in counts if k not in allowed), key=str)
+    return ", ".join(f"{counts.get(k, 0)} {k}" for k in named)
+
+
 def name_census(orgs) -> str:
     """What each row's `name` IS, counted over rows — printed by --check on every run.
 
@@ -802,9 +822,7 @@ def name_census(orgs) -> str:
     taken from the writer reports the intended state as the actual one.
     """
     counts = Counter(o.get(NAME_BASIS_KEY) for o in orgs if isinstance(o, dict))
-    named = list(NAME_BASES) + sorted((k for k in counts if k not in NAME_BASES), key=str)
-    return (", ".join(f"{counts.get(k, 0)} {k}" for k in named)
-            + f"; {len(orgs)} row(s)")
+    return f"{tally(counts, NAME_BASES)}; {len(orgs)} row(s)"
 
 
 def placement_witnesses(orgs) -> str:
@@ -861,9 +879,6 @@ def relation_census(orgs) -> str:
     # than absorb. Sorting them against the strings beside them raises TypeError, which would
     # take down the one report that was supposed to surface them: --apply prints the census
     # before it reports anything, so the crash would land in front of the diagnosis.
-    def tally(counts, allowed):
-        named = list(allowed) + sorted((k for k in counts if k not in allowed), key=str)
-        return ", ".join(f"{counts.get(k, 0)} {k}" for k in named)
     # WHAT THE DECIDED KINDS REST ON, COUNTED APART FROM HOW MANY THERE ARE (#173). The
     # registry holds kinds derived from a PROPOSED enabling-authority candidate nobody has
     # read beside kinds derived from a REVIEWED authority, and those are not the same claim:
@@ -1194,7 +1209,7 @@ def preserve_name(prev_orgs, by_slug, per_row_keys=None):
 
     PER ROW, NOT PER FIELD, which is what PER_ROW means and why this sits beside
     preserve_curated() and preserve_relations() rather than inside either. The scrape has
-    just rebuilt every row's `name` from the chapter page — which is right for the 186 rows
+    just rebuilt every row's `name` from the chapter page — which is right for the 185 rows
     whose `name` IS the chapter title and nothing more, and is a silent overwrite of a
     reviewed statutory name on the rows where a human read the body's enabling authority and
     recorded what it calls the body (ADR 0003). Neither whole-field origin is true, so the
@@ -1205,7 +1220,12 @@ def preserve_name(prev_orgs, by_slug, per_row_keys=None):
     name a refresh has just relabelled as the rules index's title, and a basis carried without
     its name is an OAR title now claiming to be what the statute calls the body — which is the
     false statement about Oregon law #168 exists to make unwriteable. So the keys move
-    together, read from NAME_KEYS.
+    together, as `per_row_keys` — which is PER_ROW_KEYS, and `name-origin` in check_registry()
+    states that PER_ROW_KEYS is exactly NAME_KEYS. That is not tidiness: the DECISION below is
+    `name_basis`, and a third PER_ROW field would be carried, or dropped, on the provenance of
+    a name it says nothing about. The parameter exists so
+    `_proof_the_carry_is_what_keeps_an_established_statutory_name` can switch the carry off
+    and watch the loss.
 
     THE PREVIOUS ROW DECIDES, not the rebuilt one. The rebuilt row always says
     `unverified-oar-title`, because that is all the scrape can know about a body; the
@@ -1519,9 +1539,10 @@ def promoted_name_registry(orgs) -> list:
     statutory name, `oar_name` untouched.
 
     THE FAULT INJECTION, AS CODE RATHER THAN AS A ONE-OFF SCRIPT. `name` and `oar_name` hold
-    identical bytes on 185 of the 189 committed rows — the promotion is real and the reviewed
-    names are four (#168) — so any measurement of "which field does this consumer really
-    read" run against committed data still passes on all but four rows by construction. Promoting
+    identical bytes on 186 of the 189 committed rows — four statutory names are established
+    and only three of them differ from the OAR title (#168) — so any measurement of "which
+    field does this consumer really read" run against committed data still passes on all but
+    three rows by construction. Promoting
     `name` in memory is what makes such a measurement an observation — and keeping it here,
     where `--check` runs it on every PR, is what stops it from being a number someone once
     printed. The placeholder deliberately shares no word with the row's OAR name: a
@@ -1562,7 +1583,7 @@ def find(query: str, limit: int = 8, organizations=None):
 #
 # MATCHES ON EVERY NAME A BODY HAS, WHICH IS WHAT ADR 0003 MOVED THE GROUND UNDER. This
 # matched `name` alone until #187, and was almost unaffected in the data because `oar_name`
-# holds the same bytes as `name` on 185 of the 189 rows — so the change is nearly invisible
+# holds the same bytes as `name` on 186 of the 189 rows — so the change is nearly invisible
 # against the
 # committed registry and stark against one with `name` already promoted: matching `name`
 # alone loses 32 of the 72 recorded resolutions this file's tiers produced, and matching
@@ -1876,9 +1897,9 @@ def check_registry(cat, fields=None) -> list:
     # matches the name against anything and never shows it to a reader except inside its own
     # failure message; what it operates on is the field and the provenance beside it.
     for i, o in rows:
-        basis = o.get(NAME_BASIS_KEY)
-        if basis is None and NAME_BASIS_KEY not in o:
+        if NAME_BASIS_KEY not in o:
             continue          # `required-field` above already reported it
+        basis = o.get(NAME_BASIS_KEY)
         if basis not in NAME_BASES:
             failures.append(Failure(
                 "statutory-name-basis", _row_id(o, i),
@@ -2138,6 +2159,22 @@ def check_registry(cat, fields=None) -> list:
     # because the rebuilt row always has this key: the statutory name is lost, and the
     # survival comparison does report that. Only PER_ROW makes preserve_name() the thing that
     # decides, per row, from the basis the row states.
+    # AND PER_ROW IS EXACTLY THE NAME PAIR, WHICH IS THE OTHER HALF OF THE SAME STATEMENT.
+    # `preserve_name()` carries every PER_ROW key, and what it consults to decide is
+    # `name_basis` — a provenance that speaks for `name` and for nothing else. So a THIRD
+    # field declared PER_ROW would be carried, or dropped, on a claim about a different
+    # field's origin, silently: the survival comparison would pass either way, because the
+    # carry is consistent, just wrong about what it is carrying. This is the same reason
+    # `relation-origin` exists one field over — a field whose origin nothing states is a
+    # field --refresh either freezes or destroys with nothing to report which.
+    for key in sorted(per_row - set(NAME_KEYS)):
+        failures.append(Failure(
+            "name-origin", "FIELDS",
+            f"{key!r} is declared PER_ROW, and the only thing that decides a PER_ROW field's "
+            f"origin is {NAME_BASIS_KEY!r} — which says where this row's NAME came from and "
+            f"nothing about {key!r}. preserve_name() would carry it, or drop it, on another "
+            "field's provenance"))
+
     for key in NAME_KEYS:
         field = fields.get(key)
         if field is not None and field.origin != PER_ROW:
@@ -3032,6 +3069,17 @@ _PROOFS = [
      dict(FIELDS, name_basis=Field(SCRAPED, required=True)), "name-origin"),
     ("name-basis-declared-curated",
      dict(FIELDS, name_basis=Field(CURATED, required=True)), "survives-refresh"),
+    # AND A THIRD FIELD CLAIMING THE ORIGIN THE NAME PAIR'S PROVENANCE DECIDES. PER_ROW is
+    # not a general "the row decides" origin — it is `name_basis` deciding, and `name_basis`
+    # says nothing about any other field. Such a field would be carried across a refresh, or
+    # dropped, on a claim about where the row's NAME came from, and the survival comparison
+    # would pass either way because the carry is CONSISTENT and merely wrong about what it is
+    # carrying. `raw_index_name` is the field used, and it has to be a field `scraped_entry()`
+    # WRITES: a made-up one is caught by `scraped-field` before this rule is reached, which
+    # would prove that a typo is refused rather than that a wrong origin is. This is the
+    # silent version — every other rule passes.
+    ("third-field-declared-per-row",
+     dict(FIELDS, raw_index_name=Field(PER_ROW, required=True)), "name-origin"),
 ]
 
 
@@ -3082,7 +3130,7 @@ def _proof_the_carry_is_what_keeps_an_established_statutory_name() -> int:
     row cannot come back saying a rules-index title was read off an authority.
 
     AND THE UNVERIFIED ROW MUST STILL TRACK THE INDEX, which is the fourth. A carry that kept
-    every row's name would freeze 186 rows at whatever the rules index said the day they were
+    every row's name would freeze 185 rows at whatever the rules index said the day they were
     scraped, under a basis stating that they hold what the rules index prints — the opposite
     failure, and the one a whole-field CURATED declaration would produce.
     """
@@ -3285,9 +3333,10 @@ def _proof_refresh_rejects_an_undeclared_scraped_field() -> int:
 #
 # A BODY MUST STAY FINDABLE BY THE NAME ITS READER KNOWS, and after ADR 0003 there are two
 # such names on every row. The fixture below is where they DIFFER by construction: `name` and
-# `oar_name` hold identical bytes on 185 of the 189 committed rows (#168 establishes four), so
-# a proof taken from committed data passes whichever field the matcher reads on all but four
-# and proves nothing about which it is.
+# `oar_name` hold identical bytes on 186 of the 189 committed rows (#168 establishes four
+# statutory names, three of which differ from the OAR title), so a proof taken from committed
+# data passes whichever field the matcher reads on all but three and proves nothing about
+# which it is.
 
 
 def _search_fixture():

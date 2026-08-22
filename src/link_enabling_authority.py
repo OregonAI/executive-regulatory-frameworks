@@ -304,21 +304,32 @@ UNMAPPED: dict[str, str] = {
 # pattern-matching would be an unknown number of them. A name that was matched and not read
 # does not belong here, for the reason MAPPED gives about citations.
 STATUTORY_NAMES: dict[str, str] = {
-    # READ BY A HUMAN AGAINST THE CITED TEXT, 2026-08-22. The three names MAPPED's own
-    # batch-1b note handed to #168: "684.130, 681.400 and 675.590 say `STATE Board of ...`
-    # where the registry says `Board of ...`. The authority is not in doubt; the NAME
-    # difference is #168's." Each section opens "There is established [the|a] State Board of
-    # …", so the statute both creates the body and names it in the same sentence.
+    # READ BY A HUMAN AGAINST THE CITED TEXT, 2026-08-22, EACH WITH THE SENTENCE IT WAS READ
+    # OFF. The sentence is quoted here for the reason `--propose` quotes one into the review
+    # sheet: it makes the next reader's job reading rather than research, and it is the only
+    # thing that distinguishes a row somebody read from a row somebody agreed with. The first
+    # three are the names MAPPED's own batch-1b note handed to #168 — "684.130, 681.400 and
+    # 675.590 say `STATE Board of ...` where the registry says `Board of ...`. The authority
+    # is not in doubt; the NAME difference is #168's."
+    #
+    # NOT CITABLE TEXT. These are whitespace-collapsed excerpts for review, the same caveat
+    # `_quote()` carries; the mirrored section is the text.
+
+    # ORS 684.130: "There is established the State Board of Chiropractic Examiners."
     "board-of-chiropractic-examiners": "State Board of Chiropractic Examiners",
+    # ORS 681.400: "There is established a State Board of Examiners for Speech-Language
+    # Pathology and Audiology."
     "board-of-examiners-for-speech-language-pathology-and-audiology":
         "State Board of Examiners for Speech-Language Pathology and Audiology",
+    # ORS 675.590: "There is established a State Board of Licensed Social Workers."
     "board-of-licensed-social-workers": "State Board of Licensed Social Workers",
-    # AND ONE WHERE THE STATUTE AND THE RULES INDEX AGREE, which is here on purpose. ORS
-    # 674.305 reads "The Appraiser Certification and Licensure Board is established", and the
-    # OAR chapter page prints the same string — so this row's `name` does not change and its
-    # BASIS does. Without it the registry would say, by construction, that an established
-    # statutory name is one that differs from the OAR title; agreement is a finding a
-    # reviewer reached, not the absence of one.
+    # ORS 674.305: "The Appraiser Certification and Licensure Board is established."
+    #
+    # THE ONE WHERE THE STATUTE AND THE RULES INDEX AGREE, and it is here on purpose. This
+    # row's `name` does not change and its BASIS does. Without it the registry would say, by
+    # construction, that an established statutory name is one that DIFFERS from the OAR title
+    # — and a reviewer who found the two agree would have nowhere to record that they had
+    # looked. Agreement is a finding, not the absence of one.
     "appraiser-certification-and-licensure-board":
         "Appraiser Certification and Licensure Board",
 }
@@ -859,7 +870,20 @@ def audit_statutory_names(orgs, mapped, names, text_of) -> list[Problem]:
                 f"cites {authority}, whose form ({form}) this gate cannot read the text of "
                 "— so the recorded name could not be checked against it. That is 'could "
                 "not check', not 'is correct'"))
-        elif name not in (text_of(authority) or ""):
+        elif (text := text_of(authority)) is None:
+            # THE THIRD LEG, AND THE ONE THAT LOOKS LIKE THE SECOND. A citation naming no
+            # mirrored section has no text, and comparing a name against nothing would report
+            # "the statute does not print that name" — an answer about Oregon law drawn from
+            # a file this corpus does not hold. "Could not check" is never reported as "is
+            # not there" (CONTEXT.md). `authority-resolves` in audit_table() is what says the
+            # citation itself resolves to nothing; this says what that cost THIS rule, so a
+            # reviewer is not left to infer that the name was checked and failed.
+            problems.append(Problem(
+                "statutory-name-in-the-cited-text", slug,
+                f"records the statutory name {name!r} and cites {authority}, which no "
+                "mirrored ORS section carries — so there was no text to check the name "
+                "against. That is 'could not check', not 'the statute does not print it'"))
+        elif name not in text:
             problems.append(Problem(
                 "statutory-name-in-the-cited-text", slug,
                 f"records the statutory name {name!r}, which does not appear anywhere in "
